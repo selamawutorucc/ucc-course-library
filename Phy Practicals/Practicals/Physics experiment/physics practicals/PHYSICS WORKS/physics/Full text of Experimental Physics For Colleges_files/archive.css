@@ -1,0 +1,831 @@
+BODY {
+	MARGIN-TOP: 0px
+}
+BODY {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+TABLE {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+A:link {
+	COLOR: #0000cc
+}
+A:visited {
+	COLOR: #000099
+}
+A:active {
+	COLOR: #ff0000
+}
+TD.vertical_group {
+	VERTICAL-ALIGN: top; BORDER-COLLAPSE: collapse
+}
+.name_cell {
+	FONT-WEIGHT: bold
+}
+.level1Header {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: bottom
+}
+.level1Header A {
+	VERTICAL-ALIGN: bottom; COLOR: #fff! important; WHITE-SPACE: nowrap
+}
+.level1Header DIV.tab {
+	VERTICAL-ALIGN: bottom; COLOR: #fff! important; WHITE-SPACE: nowrap
+}
+.level1Header DIV.tabsel {
+	VERTICAL-ALIGN: bottom; COLOR: #fff! important; WHITE-SPACE: nowrap
+}
+.level1Header DIV.tab {
+	PADDING-RIGHT: 7px; DISPLAY: inline; PADDING-LEFT: 7px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 7px; PADDING-TOP: 4px
+}
+.level1Header DIV.tabsel {
+	PADDING-RIGHT: 7px; DISPLAY: inline; PADDING-LEFT: 7px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 7px; PADDING-TOP: 4px
+}
+.level1Header DIV.tabsel A {
+	TEXT-DECORATION: none! important
+}
+.level1Header DIV.tabsel {
+	-moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -khtml-border-radius-topleft: 7px; -khtml-border-radius-topright: 7px; border-radius-top: 7px
+}
+TD.level2HeaderLeft {
+	PADDING-LEFT: 26px; PADDING-BOTTOM: 3px; PADDING-TOP: 2px
+}
+TD.level2Header {
+	PADDING-LEFT: 51px; PADDING-BOTTOM: 3px; PADDING-TOP: 2px
+}
+.level2Header A {
+	COLOR: #ffffff! important; WHITE-SPACE: nowrap
+}
+.level2Header {
+	COLOR: #ffffff
+}
+.level3Header {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 2px; BACKGROUND-COLOR: #f2eff8
+}
+A.level3Header {
+	BACKGROUND-COLOR: transparent
+}
+.level3Header {
+	COLOR: #999966
+}
+A.level3Header {
+	COLOR: #999966
+}
+TD.level3HeaderLeft {
+	PADDING-LEFT: 86px
+}
+TD.level3HeaderRight {
+	TEXT-ALIGN: right
+}
+.level3HeaderColorBar {
+	HEIGHT: 4px
+}
+.level3HeaderSearch {
+	FONT-SIZE: 10px; VERTICAL-ALIGN: middle
+}
+.browseTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 105%; PADDING-TOP: 0px; WHITE-SPACE: nowrap
+}
+.browseDescription {
+	MARGIN-TOP: 2px; FONT-SIZE: 85%; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 7px; COLOR: #333333
+}
+.browseResult {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.browseResult A {
+	TEXT-DECORATION: none
+}
+.browseNavigation {
+	PADDING-RIGHT: 4px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: bottom; WIDTH: 100%; PADDING-TOP: 12px; TEXT-ALIGN: right
+}
+.lastPage {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px
+}
+.firstPage {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px
+}
+.nextPage {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px
+}
+.previousPage {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px
+}
+.pageCount {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px
+}
+.breadcrumbs {
+	PADDING-LEFT: 1px; FONT-SIZE: 100%; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+BODY.education HR {
+	WIDTH: 0px; HEIGHT: 0px
+}
+OL.uploadInfo LI {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; MARGIN-BOTTOM: 50px
+}
+OL.uploadInfo LI P {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt
+}
+P.statusMessage {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; MARGIN: 10px 25px 25px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #ffe
+}
+TABLE.fileFormats {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+TABLE.fileFormats TD {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #aaaaaa 1px solid; TEXT-ALIGN: center
+}
+TABLE.fileFormats TD.ttlHeader {
+	FONT-WEIGHT: bold; TEXT-ALIGN: left
+}
+TABLE.fileFormats TD.ttl {
+	TEXT-ALIGN: left
+}
+TABLE.headerTable {
+	WIDTH: 100%
+}
+TABLE.headerTable TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #385c74
+}
+TABLE.subHeaderTable {
+	WIDTH: 100%
+}
+TABLE.subHeaderTable TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #92aed3
+}
+.infoHeader TD {
+	FONT-WEIGHT: bold; COLOR: #385c74; BACKGROUND-COLOR: #c0c0c0
+}
+TD.rightAlign {
+	WIDTH: 300px; TEXT-ALIGN: right
+}
+.authText {
+	COLOR: #00aa00
+}
+.authText A {
+	COLOR: #00aa00
+}
+.authText A:visited {
+	COLOR: #00aa00
+}
+TABLE.forumTable TR.forumRowHead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 1px
+}
+TABLE.forumTable TR.forumRowHead TD {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #fff
+}
+TABLE.forumTable TR.forumRow {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #fff
+}
+TABLE.forumTable TD {
+	FONT-SIZE: 9pt; COLOR: #000
+}
+TABLE.searchResults {
+	WIDTH: 100%; FONT-FAMILY: Arial
+}
+TABLE.searchResults TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TABLE.searchResults TABLE.resultsTable {
+	WIDTH: 100%
+}
+TABLE.searchResults TD.resultsCell {
+	VERTICAL-ALIGN: top
+}
+TABLE.searchResults TR.hitRow TD {
+	PADDING-TOP: 20px
+}
+TABLE.searchResults TD.hitCell {
+	VERTICAL-ALIGN: top; BORDER-BOTTOM: #c0c0c0 1px solid
+}
+TABLE.searchResults TD.thumbCell {
+	VERTICAL-ALIGN: top; WIDTH: 80px; BORDER-BOTTOM: #c0c0c0 1px solid; TEXT-ALIGN: right
+}
+TABLE.searchResults TD.numberCell {
+	PADDING-LEFT: 20px; VERTICAL-ALIGN: top
+}
+TABLE.searchResults TD.headerRow {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; PADDING-BOTTOM: 0px; MARGIN: 0px
+}
+TABLE.searchResults TD.infoCell {
+	PADDING-LEFT: 10px; FONT-SIZE: 8pt; PADDING-TOP: 0px
+}
+TABLE.searchResults A.titleLink {
+	FONT-WEIGHT: bold
+}
+TABLE.searchResults TD.pageRow {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; PADDING-TOP: 20px; TEXT-ALIGN: center
+}
+TABLE.searchResults TD.pageRow A {
+	TEXT-DECORATION: none
+}
+TABLE.searchResults TD.relatedInfoCell {
+	PADDING-LEFT: 20px; VERTICAL-ALIGN: top; WIDTH: 200px; PADDING-TOP: 20px
+}
+TABLE.searchResults TD.relatedInfoCell TABLE {
+	BORDER-RIGHT: #c0c0c0 1px solid; BORDER-TOP: #c0c0c0 1px solid; MARGIN-BOTTOM: 10px; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 100%; BORDER-BOTTOM: #c0c0c0 1px solid
+}
+TABLE.searchResults TD.searchBox {
+	PADDING-LEFT: 20px; VERTICAL-ALIGN: bottom; TEXT-ALIGN: center
+}
+TABLE.searchResults TR.groupBy TD {
+	FONT-WEIGHT: bold; PADDING-TOP: 20px
+}
+TR.moreGroupBy TD {
+	PADDING-TOP: 20px; FONT-STYLE: italic; TEXT-ALIGN: right
+}
+.minorHeader {
+	FONT-WEIGHT: bold
+}
+.searchTerm {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-WEIGHT: bold; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; BACKGROUND-COLOR: #ccccff
+}
+#iafoot {
+	FONT-SIZE: 7pt; WIDTH: 100%; TEXT-ALIGN: center
+}
+TABLE.cat TR TD {
+	WHITE-SPACE: nowrap
+}
+TABLE.cat TR TH {
+	BACKGROUND-COLOR: wheat
+}
+TABLE.cat TR TD {
+	BACKGROUND-COLOR: #b49a56
+}
+TABLE.cat TR TD {
+	BACKGROUND-COLOR: #c4aa66
+}
+TABLE.cat TR.odd0 TD {
+	BACKGROUND-COLOR: #c0f0c0
+}
+TABLE.cat TR.even0 TD {
+	BACKGROUND-COLOR: #d0f0d0
+}
+TABLE.cat TR.odd1 TD {
+	BACKGROUND-COLOR: #c0c0f0
+}
+TABLE.cat TR.even1 TD {
+	BACKGROUND-COLOR: #d0d0f0
+}
+TABLE.cat TR.odd2 TD {
+	BACKGROUND-COLOR: #ee0000
+}
+TABLE.cat TR.even2 TD {
+	BACKGROUND-COLOR: #ee4040
+}
+TABLE.cat TR.evenH TD {
+	BACKGROUND-COLOR: #d0b0d0
+}
+TABLE.cat TR.oddH TD {
+	BACKGROUND-COLOR: #e0c0e0
+}
+TABLE.cat TR.evenCO TD {
+	BACKGROUND-COLOR: #f0f0f0
+}
+TABLE.cat TR.oddCO TD {
+	BACKGROUND-COLOR: #e0e0e0
+}
+TABLE.cat .off {
+	BACKGROUND-COLOR: yellow! important
+}
+TABLE.cat TR.odd2 TD {
+	COLOR: white! important
+}
+TABLE.cat TR.even2 TD {
+	COLOR: white! important
+}
+TABLE.cat TR.even2 TD A {
+	COLOR: white! important
+}
+TABLE.cat TR.odd2 TD A {
+	COLOR: white! important
+}
+TABLE.cat TR.odd2 TD.off {
+	COLOR: blue! important
+}
+TABLE.cat TR.even2 TD.off {
+	COLOR: blue! important
+}
+TABLE.cat TR.even2 TD.off A {
+	COLOR: blue! important
+}
+TABLE.cat TR.odd2 TD.off A {
+	COLOR: blue! important
+}
+TABLE.json A {
+	PADDING-RIGHT: 10px; FONT-SIZE: 10pt; LINE-HEIGHT: 12pt
+}
+TABLE.formConstructor TH {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 15px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+TABLE.formConstructor TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TABLE.formConstructor TD.requiredField {
+	PADDING-RIGHT: 20px; FONT-WEIGHT: bold; VERTICAL-ALIGN: top
+}
+TABLE.formConstructor TD.optionalField {
+	PADDING-RIGHT: 20px; VERTICAL-ALIGN: top
+}
+TABLE.formConstructor TD.errorField {
+	PADDING-RIGHT: 20px; FONT-WEIGHT: bold; VERTICAL-ALIGN: top; COLOR: #ff0000
+}
+TABLE.formConstructor TD.errorDescription {
+	FONT-SIZE: 8pt; PADDING-BOTTOM: 20px; COLOR: #ff0000; FONT-STYLE: italic; TEXT-ALIGN: left
+}
+TABLE.formConstructor TD.descriptionCell {
+	PADDING-RIGHT: 20px; FONT-SIZE: 8pt; VERTICAL-ALIGN: top; WIDTH: 200px
+}
+BODY.Home {
+	BACKGROUND-COLOR: #ffffee
+}
+BODY.Texts {
+	BACKGROUND-COLOR: white
+}
+BODY.Admins {
+	BACKGROUND-COLOR: #fffef9
+}
+BODY.Audio {
+	BACKGROUND-COLOR: #f1fbfd
+}
+BODY.Movies {
+	BACKGROUND-COLOR: #eeffee
+}
+BODY.Patron {
+	BACKGROUND-COLOR: #f2eff8
+}
+BODY.Web {
+	BACKGROUND-COLOR: #f5fef9
+}
+BODY.Education {
+	BACKGROUND-COLOR: white
+}
+BODY.Home .headerAt {
+	COLOR: #cccc99! important
+}
+BODY.Texts .headerAt {
+	COLOR: #c33c36! important
+}
+BODY.Admins .headerAt {
+	COLOR: black! important
+}
+BODY.Audio .headerAt {
+	COLOR: #92aed3! important
+}
+BODY.Movies .headerAt {
+	COLOR: #339933! important
+}
+BODY.Patron .headerAt {
+	COLOR: #9683fb! important
+}
+BODY.Web .headerAt {
+	COLOR: #5dbf66! important
+}
+BODY.Education .headerAt {
+	COLOR: #92aed3! important
+}
+BODY.Home .level2Header {
+	BACKGROUND-COLOR: #999966
+}
+BODY.Texts .level2Header {
+	BACKGROUND-COLOR: #93092d
+}
+BODY.Admins .level2Header {
+	BACKGROUND-COLOR: #dbc033
+}
+BODY.Audio .level2Header {
+	BACKGROUND-COLOR: #385c74
+}
+BODY.Movies .level2Header {
+	BACKGROUND-COLOR: #115500
+}
+BODY.Patron .level2Header {
+	BACKGROUND-COLOR: #6b4e96
+}
+BODY.Web .level2Header {
+	BACKGROUND-COLOR: #6f9073
+}
+BODY.Education .level2Header {
+	DISPLAY: none
+}
+BODY.Home .level3HeaderColorBar {
+	BACKGROUND-COLOR: #cccc99
+}
+BODY.Texts .level3HeaderColorBar {
+	BACKGROUND-COLOR: #c33c36
+}
+BODY.Admins .level3HeaderColorBar {
+	BACKGROUND-COLOR: #f8da68
+}
+BODY.Audio .level3HeaderColorBar {
+	BACKGROUND-COLOR: #92aed3
+}
+BODY.Movies .level3HeaderColorBar {
+	BACKGROUND-COLOR: #339933
+}
+BODY.Patron .level3HeaderColorBar {
+	BACKGROUND-COLOR: #9683fb
+}
+BODY.Web .level3HeaderColorBar {
+	BACKGROUND-COLOR: #5dbf66
+}
+BODY.Education .level3HeaderColorBar {
+	BACKGROUND-COLOR: #9966ff
+}
+BODY.Texts TD.level3Header {
+	BACKGROUND-COLOR: #d8dede
+}
+BODY.Admins TD.level3Header {
+	BACKGROUND-COLOR: #f2eff8
+}
+BODY.Audio TD.level3Header {
+	BACKGROUND-COLOR: #d8dede
+}
+BODY.Movies TD.level3Header {
+	BACKGROUND-COLOR: #d8dede
+}
+BODY.Patron TD.level3Header {
+	BACKGROUND-COLOR: #e2dfe8
+}
+BODY.Web TD.level3Header {
+	BACKGROUND-COLOR: #f2eff8
+}
+BODY.Education TD.level3Header {
+	BACKGROUND-COLOR: #d8dede
+}
+BODY.Home .level3Header {
+	COLOR: #999966
+}
+BODY.Home A.level3Header {
+	COLOR: #999966
+}
+BODY.Texts .level3Header {
+	COLOR: #93092d
+}
+BODY.Texts A.level3Header {
+	COLOR: #93092d
+}
+BODY.Admins .level3Header {
+	COLOR: #dbc033
+}
+BODY.Admins A.level3Header {
+	COLOR: #dbc033
+}
+BODY.Audio .level3Header {
+	COLOR: #385c74
+}
+BODY.Audio A.level3Header {
+	COLOR: #385c74
+}
+BODY.Movies .level3Header {
+	COLOR: #115500
+}
+BODY.Movies A.level3Header {
+	COLOR: #115500
+}
+BODY.Patron .level3Header {
+	COLOR: #6b4e96
+}
+BODY.Patron A.level3Header {
+	COLOR: #6b4e96
+}
+BODY.Web .level3Header {
+	COLOR: #6f9073
+}
+BODY.Web A.level3Header {
+	COLOR: #6f9073
+}
+BODY.Education .level3Header {
+	COLOR: #385c74
+}
+BODY.Education A.level3Header {
+	COLOR: #385c74
+}
+BODY.Home .color1 {
+	COLOR: #999966
+}
+BODY.Home .backColor1 {
+	BACKGROUND-COLOR: #999966
+}
+BODY.Home .backColor2 {
+	BACKGROUND-COLOR: #cccc99
+}
+BODY.Texts .color1 {
+	COLOR: #93092d
+}
+BODY.Texts .backColor1 {
+	BACKGROUND-COLOR: #93092d
+}
+BODY.Texts .backColor2 {
+	BACKGROUND-COLOR: #c33c36
+}
+BODY.Movies .color1 {
+	COLOR: #115500
+}
+BODY.Movies .backColor1 {
+	BACKGROUND-COLOR: #115500
+}
+BODY.Movies .backColor2 {
+	BACKGROUND-COLOR: #339933
+}
+BODY.Audio .color1 {
+	COLOR: #385c74
+}
+BODY.Audio .backColor1 {
+	BACKGROUND-COLOR: #385c74
+}
+BODY.Audio .backColor2 {
+	BACKGROUND-COLOR: #92aed3
+}
+BODY.Patron .color1 {
+	COLOR: #6b4e96
+}
+BODY.Patron .backColor1 {
+	BACKGROUND-COLOR: #6b4e96
+}
+BODY.Patron .backColor2 {
+	BACKGROUND-COLOR: #9683fb
+}
+BODY.Admins .color1 {
+	COLOR: #dbc033
+}
+BODY.Admins .backColor1 {
+	BACKGROUND-COLOR: #dbc033
+}
+BODY.Admins .backColor2 {
+	BACKGROUND-COLOR: #f8da68
+}
+BODY.Web .color1 {
+	COLOR: #6f9073
+}
+BODY.Web .backColor1 {
+	BACKGROUND-COLOR: #6f9073
+}
+BODY.Web .backColor2 {
+	BACKGROUND-COLOR: #5dbf66
+}
+BODY.Education .color1 {
+	COLOR: #6600cc
+}
+BODY.Education .backColor1 {
+	BACKGROUND-COLOR: #6600cc
+}
+BODY.Education .backColor2 {
+	BACKGROUND-COLOR: #9966ff
+}
+DIV.box {
+	-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px
+}
+FORM .button {
+	-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px
+}
+.linkbutton {
+	-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px
+}
+.roundbox {
+	-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px
+}
+DIV.box {
+	BORDER-RIGHT: #999966 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #999966 2px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 10px; BORDER-LEFT: #999966 2px solid; BORDER-BOTTOM: #999966 2px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+DIV.box H1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; PADDING-BOTTOM: 5px; MARGIN: 0px -5px 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #999966; TEXT-ALIGN: left; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -khtml-border-radius-topleft: 3px; -khtml-border-radius-topright: 3px; border-radius-top: 3px; -moz-border-radius: 3px 3px 0 0
+}
+DIV.box H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; PADDING-BOTTOM: 5px; MARGIN: 5px -5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #cccc99; TEXT-ALIGN: left
+}
+DIV.box H1 A {
+	COLOR: #ffffff
+}
+DIV.box H2 A {
+	COLOR: #ffffff
+}
+DIV.box IMG.stretch {
+	MARGIN-LEFT: -5px; MARGIN-RIGHT: -5px
+}
+DIV#col1 {
+	FLOAT: left; MARGIN-LEFT: 10px; OVERFLOW: hidden; WIDTH: 200px; WORD-WRAP: break-word
+}
+DIV#col2 {
+	MARGIN-LEFT: 210px; MARGIN-RIGHT: 210px
+}
+DIV#col3 {
+	FLOAT: right; OVERFLOW: hidden; WIDTH: 200px; MARGIN-RIGHT: 10px; WORD-WRAP: break-word
+}
+BODY.Texts DIV.box {
+	BORDER-LEFT-COLOR: #93092d; BORDER-BOTTOM-COLOR: #93092d; BORDER-TOP-COLOR: #93092d; BORDER-RIGHT-COLOR: #93092d
+}
+BODY.Texts DIV.box H1 {
+	BACKGROUND-COLOR: #93092d
+}
+BODY.Texts DIV.box H2 {
+	BACKGROUND-COLOR: #c33c36
+}
+BODY.Movies DIV.box {
+	BORDER-LEFT-COLOR: #115500; BORDER-BOTTOM-COLOR: #115500; BORDER-TOP-COLOR: #115500; BORDER-RIGHT-COLOR: #115500
+}
+BODY.Movies DIV.box H1 {
+	BACKGROUND-COLOR: #115500
+}
+BODY.Movies DIV.box H2 {
+	BACKGROUND-COLOR: #339933
+}
+BODY.Audio DIV.box {
+	BORDER-LEFT-COLOR: #385c74; BORDER-BOTTOM-COLOR: #385c74; BORDER-TOP-COLOR: #385c74; BORDER-RIGHT-COLOR: #385c74
+}
+BODY.Audio DIV.box H1 {
+	BACKGROUND-COLOR: #385c74
+}
+BODY.Audio DIV.box H2 {
+	BACKGROUND-COLOR: #92aed3
+}
+BODY.Patron DIV.box {
+	BORDER-LEFT-COLOR: #6b4e96; BORDER-BOTTOM-COLOR: #6b4e96; BORDER-TOP-COLOR: #6b4e96; BORDER-RIGHT-COLOR: #6b4e96
+}
+BODY.Patron DIV.box H1 {
+	BACKGROUND-COLOR: #6b4e96
+}
+BODY.Patron DIV.box H2 {
+	BACKGROUND-COLOR: #9683fb
+}
+BODY.Admins DIV.box {
+	BORDER-LEFT-COLOR: #dbc033; BORDER-BOTTOM-COLOR: #dbc033; BORDER-TOP-COLOR: #dbc033; BORDER-RIGHT-COLOR: #dbc033
+}
+BODY.Admins DIV.box H1 {
+	BACKGROUND-COLOR: #dbc033
+}
+BODY.Admins DIV.box H2 {
+	BACKGROUND-COLOR: #f8da68
+}
+BODY.Web DIV.box {
+	BORDER-LEFT-COLOR: #6f9073; BORDER-BOTTOM-COLOR: #6f9073; BORDER-TOP-COLOR: #6f9073; BORDER-RIGHT-COLOR: #6f9073
+}
+BODY.Web DIV.box H1 {
+	BACKGROUND-COLOR: #6f9073
+}
+BODY.Web DIV.box H2 {
+	BACKGROUND-COLOR: #5dbf66
+}
+BODY.Education DIV.box {
+	BORDER-RIGHT: #6600cc 2px solid; BORDER-TOP: #6600cc 2px solid; BORDER-LEFT: #6600cc 2px solid; BORDER-BOTTOM: #6600cc 2px solid
+}
+BODY.Education DIV.box H1 {
+	BACKGROUND-COLOR: #6600cc
+}
+BODY.Education DIV.box H2 {
+	BACKGROUND-COLOR: #9966ff
+}
+.urge {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red
+}
+.urge2 {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 5px; MARGIN: 10px; BORDER-LEFT: 1px solid; COLOR: red; PADDING-TOP: 5px; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: yellow
+}
+.sticker {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-SIZE: 125%; PADDING-BOTTOM: 25px; MARGIN: 200px; PADDING-TOP: 25px; TEXT-ALIGN: center; WORD-WRAP: break-word
+}
+DIV.sticker {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-SIZE: 125%; PADDING-BOTTOM: 25px; MARGIN: 200px; PADDING-TOP: 25px; TEXT-ALIGN: center; WORD-WRAP: break-word
+}
+.rect {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; BORDER-LEFT: 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid; FONT-STYLE: normal
+}
+A.userLink {
+	COLOR: #7777ff; BACKGROUND-COLOR: #ffff33
+}
+A.userLinkLight {
+	COLOR: #7777ff; BACKGROUND-COLOR: #ffff77
+}
+A.userLinkLight2 {
+	COLOR: #7777ff; BACKGROUND-COLOR: #ffff99
+}
+A.userLink:hover {
+	BACKGROUND-COLOR: #aaaaff
+}
+A.userLinkLight:hover {
+	BACKGROUND-COLOR: #aaaaff
+}
+A.userLinkLight2:hover {
+	BACKGROUND-COLOR: #aaaaff
+}
+.showOnHover {
+	DISPLAY: none
+}
+SPAN.hoverShower:hover .showOnHover {
+	DISPLAY: inline; Z-INDEX: 100; WIDTH: 500px; POSITION: absolute
+}
+.catHidden {
+	DISPLAY: none
+}
+.catHidden {
+	DISPLAY: none
+}
+SPAN.catHover:hover .catHidden {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 2px; BORDER-TOP: black 2px solid; DISPLAY: inline; PADDING-LEFT: 2px; Z-INDEX: 100; PADDING-BOTTOM: 2px; MARGIN-LEFT: -508px; BORDER-LEFT: black 2px solid; WIDTH: 500px; COLOR: black! important; PADDING-TOP: 2px; BORDER-BOTTOM: black 2px solid; WHITE-SPACE: normal; LETTER-SPACING: -0.15em; POSITION: absolute; BACKGROUND-COLOR: white
+}
+SPAN.catHover2:hover .catHidden {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 2px; BORDER-TOP: black 2px solid; DISPLAY: inline; PADDING-LEFT: 2px; Z-INDEX: 100; PADDING-BOTTOM: 2px; BORDER-LEFT: black 2px solid; WIDTH: 125px; COLOR: black! important; PADDING-TOP: 2px; BORDER-BOTTOM: black 2px solid; WHITE-SPACE: normal; POSITION: absolute; BACKGROUND-COLOR: white
+}
+TABLE.sleek {
+	BORDER-RIGHT: #666666 2px solid; BORDER-TOP: #666666 2px solid; FONT-SIZE: 8pt; MARGIN: 0px; BORDER-LEFT: #666666 2px solid; BORDER-BOTTOM: #666666 2px solid; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #ffffff
+}
+TABLE.sleek TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; COLOR: black
+}
+FORM .button {
+	BORDER-RIGHT: #000 2px solid; PADDING-RIGHT: 1px; BORDER-TOP: gray 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 9pt; PADDING-BOTTOM: 1px; BORDER-LEFT: gray 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #000 2px solid; FONT-FAMILY: arial; BACKGROUND-COLOR: wheat
+}
+FORM .button:hover {
+	BORDER-TOP-WIDTH: 2px; PADDING-RIGHT: 2px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 2px; BORDER-LEFT-COLOR: #222; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: gray; PADDING-BOTTOM: 2px; COLOR: #777; BORDER-TOP-COLOR: #222; PADDING-TOP: 0px; BACKGROUND-COLOR: white; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: gray
+}
+.linkbutton {
+	BORDER-RIGHT: #000 2px solid; PADDING-RIGHT: 10px! important; BORDER-TOP: gray 1px solid; PADDING-LEFT: 10px! important; FONT-SIZE: 9pt; PADDING-BOTTOM: 2px! important; BORDER-LEFT: gray 1px solid; COLOR: black! important; PADDING-TOP: 2px! important; BORDER-BOTTOM: #000 2px solid; FONT-FAMILY: arial; BACKGROUND-COLOR: wheat; TEXT-DECORATION: none! important
+}
+.linkbutton:hover {
+	BORDER-TOP-WIDTH: 2px; PADDING-RIGHT: 2px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 2px; BORDER-LEFT-COLOR: #222; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: gray; PADDING-BOTTOM: 2px; COLOR: #777! important; BORDER-TOP-COLOR: #222; PADDING-TOP: 0px; BACKGROUND-COLOR: white; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: gray
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+P.content {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; MARGIN: 0px; PADDING-TOP: 0.1em
+}
+DIV#col1 {
+	FONT-SIZE: 90%
+}
+DIV#rightside {
+	FONT-SIZE: 90%; FLOAT: right; WIDTH: 180px
+}
+P#dl SPAN {
+	WIDTH: 40pt
+}
+P#dl SPAN {
+	FLOAT: right; TEXT-ALIGN: right
+}
+SPAN.rightmost {
+	FLOAT: right; TEXT-ALIGN: right
+}
+DIV#relations {
+	CLEAR: right; FLOAT: right; WIDTH: 100%
+}
+DIV#relations P.content {
+	CLEAR: both; WIDTH: 100%
+}
+DIV#flowplayerdiv {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+DIV#flowplayerplaylist {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+DIV#embedthis {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+TD.key {
+	VERTICAL-ALIGN: text-top
+}
+SPAN.key {
+	FONT-WEIGHT: bold; WHITE-SPACE: nowrap
+}
+TABLE.fplay TR TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; PADDING-TOP: 2px; WORD-WRAP: break-word
+}
+TABLE.fplay TR.odd {
+	BACKGROUND-COLOR: #000000
+}
+TABLE.fplay TR.eve {
+	BACKGROUND-COLOR: #202020
+}
+TABLE.fplay TR:hover {
+	BACKGROUND-COLOR: #555555! important
+}
+TABLE.fplay TR TD IMG {
+	VISIBILITY: hidden; MARGIN-LEFT: 3px; POSITION: relative; TOP: 1px
+}
+TABLE.fplay TD.c1 {
+	WIDTH: 50px; TEXT-ALIGN: right
+}
+TABLE.fplay TD.c3 {
+	WIDTH: 50px; TEXT-ALIGN: right
+}
+DIV#pdfs {
+	PADDING-LEFT: 20px
+}
+DIV#pdfs IMG {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 5px; BORDER-TOP: 0px; PADDING-LEFT: 3px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+DIV#pdfs DIV.pages {
+	PADDING-LEFT: 75px; WORD-WRAP: break-word
+}
+DIV#pdfs A {
+	TEXT-DECORATION: none
+}
+DIV#pdfs DIV.pages A {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 10pt; TEXT-DECORATION: underline
+}
+DIV#pdfs DIV.mo {
+	DISPLAY: none
+}
+DIV#pdfs DIV.pages {
+	DISPLAY: none
+}
+DIV#pdfs DIV.day {
+	MARGIN-TOP: -2px; PADDING-LEFT: 30px
+}
