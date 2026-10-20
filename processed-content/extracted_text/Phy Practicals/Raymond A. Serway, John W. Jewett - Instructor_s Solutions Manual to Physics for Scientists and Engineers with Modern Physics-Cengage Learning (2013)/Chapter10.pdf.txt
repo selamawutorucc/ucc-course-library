@@ -1,0 +1,7944 @@
+
+--- PAGE 1 ---
+516 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+10 
+Rotation of a Rigid Object  
+About a Fixed Axis 
+ 
+CHAPTER OUTLINE 
+ 
+10.1 
+Angular Position, Velocity, and Acceleration 
+10.2 
+Analysis Model: Rigid Object Under Constant Angular Acceleration 
+10.3 
+Angular and Translational Quantities 
+10.4 
+Torque 
+10.5 
+Analysis Model: Rigid Object Under a Net Torque 
+10.6 
+Calculation of Moments of Inertia 
+10.7 
+Rotational Kinetic Energy 
+10.8 
+Energy Considerations in Rotational Motion 
+10.9 
+Rolling Motion of a Rigid Object 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ10.1 
+Answer (c). The wheel has a radius of 0.500 m and made 320 
+revolutions. The distance traveled is  
+ 
+ 
+ 
+s = rθ = 0.500 m
+(
+) 320 rev
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.00 × 103 m = 1.00 km 
+OQ10.2 
+Answer (b). Any object moving in a circular path undergoes a 
+constant change in the direction of its velocity. This change in the 
+direction of velocity is an acceleration, always directed toward the 
+center of the path, called the centripetal acceleration, ac= v2/r = rω 2. 
+The tangential speed of the object is vt = rω, where ω is the angular 
+velocity. If ω is not constant, the object will have both an angular
+
+--- PAGE 2 ---
+Chapter 10     517 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+acceleration, αavg = Δω / Δt, and a tangential acceleration, at = rα. 
+The only untrue statement among the listed choices is (b). Even when 
+ω is constant, the object still has centripetal acceleration. 
+OQ10.3 
+Answer: b = e > a = d > c = 0. The tangential acceleration has 
+magnitude (3/s2)r, where r is the radius. It is constant in time. The 
+radial acceleration has magnitude ω 2r, so it is (4/s2)r at the first and 
+last moments mentioned and it is zero at the moment the wheel 
+reverses. 
+OQ10.4 
+Answer (d). The angular displacement will be 
+ 
+ 
+ 
+Δθ = ωavgΔt = ω f +ω i
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt
+=
+12.00 rad/s + 4.00 rad/s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟4.00 s
+(
+) = 32.0 rad
+ 
+OQ10.5 
+(i) Answer (d). The speedometer measures the number of revolutions 
+per second of the tires. A larger tire will rotate fewer times to 
+cover the same distance. The speedometer reading is assumed 
+proportional to the rotation rate of the tires, ω = v/R, for a 
+standard tire radius R, but the actual reading is ω = v/(1.3)R, or 
+1.3 times smaller. Example: When the car travels at 13 km/h, the 
+speedometer reads 10 km/h. 
+ 
+(ii) Answer (d). If the driver uses the odometer reading to calculate 
+fuel economy, this reading is a factor of 1.3 too small because 
+the odometer assumes 1 rev = 2πR for a standard tire radius R, 
+whereas the actual distance traveled is 1.3(2πR), so the fuel 
+economy in miles per gallon will appear to be lower by a factor 
+of 1.3. Example: If the car travels 13 km, the odometer will read 
+10 km. If the car actually makes 13 km/gal, the calculation will 
+give 10 km/gal. 
+OQ10.6 
+(i) Answer (a). Smallest I is about the x axis, along which the larger-
+mass balls lie. 
+ 
+(ii) Answer (c). The balls all lie at a distance from the z axis, which is 
+perpendicular to both the x and y axes and passes through the 
+origin. 
+OQ10.7 
+Answer (a). The accelerations are not equal, but greater in case (a). 
+The string tension above the 50-N object is less than its weight while 
+the object is accelerating downward because it does not fall with the 
+acceleration of gravity. 
+OQ10.8 
+Answers (a), (b), (e). The object must rotate with a nonzero and 
+constant angular acceleration. Its moment of inertia would not
+
+--- PAGE 3 ---
+518     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+change unless there were a rearrangement of mass within the object. 
+OQ10.9 
+(i) Answer (a). The basketball has rotational as well as translational 
+kinetic energy. 
+ 
+(ii) Answer (c). The motions of their centers of mass are identical. 
+ 
+(iii) Answer (a). The basketball-Earth system has more kinetic energy 
+than the ice-Earth system due to the rotational kinetic energy of 
+the basketball. Therefore, when the kinetic energy of both 
+systems has transformed to gravitational potential energy when 
+the objects momentarily come to rest at their highest point on 
+the ramp, the basketball will be at a higher location, 
+corresponding to the larger gravitational potential energy. 
+OQ10.10 
+(i) Answer (c). The airplane momentarily has zero torque acting on it. 
+It was speeding up in its angular rotation before this instant of 
+time and begins slowing down just after this instant. 
+ 
+(ii) Answer (b). Although the angular speed is zero at this instant, 
+there is still an angular acceleration because the wound-up 
+string applies a torque to the airplane. This is similar to a ball 
+thrown upward, which we studied earlier: at the top of its 
+flight, it momentarily comes to rest, but is still accelerating 
+because the gravitational force is acting on it. 
+OQ10.11 
+Answer (e). The sphere of twice the radius has eight times the 
+volume and eight times the mass, and the r
+2 term in I = 2
+5 mr2 also 
+becomes four times larger. 
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ10.1 
+Yes. For any object on which a net force acts but no net torque, the 
+translational kinetic energy will change but the rotational kinetic 
+energy will not. For example, if you drop an object, it will gain 
+translational kinetic energy due to work done on the object by the 
+gravitational force. Any rotational kinetic energy the object has is 
+unaffected by dropping it. 
+CQ10.2 
+No, just as an object need not be moving to have mass. 
+CQ10.3 
+If the object is free to rotate about any axis, the object will start to 
+rotate if the two forces act along different lines of action. Then the 
+torques of the forces will not be equal in magnitude and opposite in 
+direction. 
+CQ10.4 
+Attach an object, of known mass m, to the cord. You could measure
+
+--- PAGE 4 ---
+Chapter 10     519 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the time that it takes the object to fall a measured distance after being 
+released from rest. Using this information, the linear acceleration of 
+the mass can be calculated, and then the torque on the rotating object 
+and its angular acceleration. It is assumed the mass of the cord has 
+negligible effect on the motion as the cord unwinds. 
+CQ10.5 
+We have from Example 10.6 the means to calculate a and α. You 
+could use ω = αt and v = at. 
+CQ10.6 
+The moment of inertia depends on the distribution of mass with 
+respect to a given axis. If the axis is changed, then each bit of mass 
+that makes up the object is at a different distance from the axis than 
+before. Compare the moments of inertia of a uniform rigid rod about 
+axes perpendicular to the rod, first passing through its center of 
+mass, then passing through an end. For example, if you wiggle 
+repeatedly a meterstick back and forth about an axis passing through 
+its center of mass, you will find it does not take much effort to 
+reverse the direction of rotation. However, if you move the axis to an 
+end, you will find it more difficult to wiggle the stick back and forth. 
+The moment of inertia about the end is much larger, because much of 
+the mass of the stick is farther from the axis. 
+CQ10.11 
+No, only if its angular velocity changes. 
+CQ10.12 
+Adding a small sphere of mass m to the end will increase the moment 
+of inertia of the system from (1/3)ML
+2 to (1/3)ML
+2 + mL
+2, and the 
+initial potential energy would be (1/2)MgL + mgL. Following 
+Example 10.11, the final angular speed ω would be 
+ 
+ 
+ 
+ω =
+3g
+L
+M + 2m
+M + 3m
+ 
+ 
+If m = M, ω =
+3g
+L
+M + 2m
+M + 3m =
+3g
+L
+3M
+4M =
+9g
+4L 
+ 
+Therefore, ω  would increase. 
+CQ10.13 
+(a) The sphere would reach the bottom first. (b) The hollow cylinder 
+would reach the bottom last. First imagine that each object has the 
+same mass and the same radius. Then they all have the same torque 
+due to gravity acting on them. The one with the smallest moment of 
+inertia will thus have the largest angular acceleration and reach the 
+bottom of the plane first. Equation 10.52 describes the speed of an 
+object rolling down an inclined plane. In the denominator, ICM will be 
+a numerical factor (e.g., 2/5 for the sphere) multiplied by MR
+2. 
+Therefore, the mass and radius will cancel in the equation and the 
+center-of-mass speed will be independent of mass and radius.
+
+--- PAGE 5 ---
+520     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ10.14 
+(a) Sewer pipe: ICM = MR
+2. (b) Embroidery hoop: ICM = MR
+2. (c) Door: 
+I = 1
+3 MR2. (d) Coin: ICM = 1
+2 MR2. The distribution of mass along 
+lines parallel to the axis makes no difference to the moment of 
+inertia. 
+CQ10.15 
+(a) The tricycle rolls forward. (b) The tricycle rolls forward. (c) The 
+tricycle rolls backward. (d) The tricycle does not roll, but may skid 
+forward. (e) The tricycle rolls backward. (f) To answer these 
+questions, think about the torque of the string tension about an axis 
+at the bottom of the wheel, where the rubber meets the road. This is 
+the instantaneous axis of rotation in rolling. Cords A and B produce 
+clockwise torques about this axis. Cords C and E produce 
+counterclockwise torques. Cord D has zero lever arm. 
+CQ10.16 
+As one finger slides towards the center, the normal force exerted by 
+the sliding finger on the ruler increases. At some point, this normal 
+force will increase enough so that static friction between the sliding 
+finger and the ruler will stop their relative motion. At this moment 
+the other finger starts sliding along the ruler towards the center. This 
+process repeats until the fingers meet at the center of the ruler. 
+ 
+Next step: Try a rod with a nonuniform mass distribution. 
+ 
+Next step: Wear a piece of sandpaper as a ring on one finger to 
+change its coefficient of friction. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 10.1 
+Angular Position, Velocity, and Acceleration 
+P10.1 
+(a) 
+The Earth rotates 2 π radians (360°) on its axis in 1 day. Thus, 
+ 
+ 
+ 
+ω = Δθ
+Δt = 2π rad
+1 day
+1 day
+8.64 × 104 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.27 × 10−5 rad s 
+ 
+(b) Because of its angular speed, the Earth bulges at the equator . 
+P10.2 
+(a) 
+α = Δω
+Δt = 1.00 rev s −0
+30.0 s
+= 3.33 × 10−2 rev
+s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.209 rad s2
+ 
+ 
+(b) 
+Yes. When an object starts from rest, its angular speed is related 
+to the angular acceleration and time by the equation ω = α Δt
+(
+).
+
+--- PAGE 6 ---
+Chapter 10     521 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Thus, the angular speed is directly proportional to both the 
+angular acceleration and the time interval. If the time interval is 
+held constant, doubling the angular acceleration will double the 
+angular speed attained during the interval. 
+P10.3 
+(a) 
+θ t=0 = 5.00 rad 
+ 
+ 
+ω t=0 = dθ
+dt t=0
+= 10.0 + 4.00t t=0 = 10.0 rad/s 
+ 
+ 
+α t=0 = dω
+dt
+t=0
+= 4.00 rad/s2 
+ 
+(b) 
+θ t=3.00 s = 5.00 + 30.0 + 18.0 = 53.0 rad 
+ 
+ 
+ 
+ω
+t=3.00s = dθ
+dt t=3.00s
+= 10.0 + 4.00t
+t=3.00s = 22.0rad/s 
+ 
+ 
+ 
+α t=3.00s = dω
+dt
+t=3.00s
+= 4.00 rad/s2 
+P10.4 
+α = dω
+dt = 10 + 6t    →     
+dω =
+(10 + 6t)dt    →   ω −0 = 10t + 6
+2 t2
+0
+t∫
+0
+ω∫
+ 
+ 
+ω = dθ
+dt = 10t + 3t2   →   
+dθ =
+(10t + 3t2)dt   →  θ −0 = 10t2
+2
++ 3t3
+3
+0
+t∫
+0
+θ∫
+ 
+ 
+θ = 5t2 + t3.  At t = 4.00 s, θ = 5 4.00 s
+(
+)
+2 + 4.00 s
+(
+)
+3 = 144 rad 
+ 
+ 
+ 
+Section 10.2 
+Analysis Model: Rigid Object Under  
+Constant Angular Acceleration 
+P10.5 
+(a) 
+We start with ω f = ωi + αt and solve for the angular acceleration 
+α : 
+ 
+ 
+ 
+α = ω −ωi
+t
+= 12.0 rad/s
+3.00 s
+= 4.00 rad/s2 
+ 
+(b) The angular position of a rigid object under constant angular 
+acceleration is given by Equation 10.7: 
+ 
+ 
+ 
+θ = ωit + 1
+2αt2 = 1
+2 4.00 rad/s2
+(
+) 3.00 s
+(
+)
+2 = 18.0 rad
+
+--- PAGE 7 ---
+522     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.6 
+ωi = 3 600 rev/min = 3.77 × 102 rad/s 
+ 
+θ = 50.0 rev = 3.14 × 102 rad and ω f = 0 
+ 
+ω f
+2 = ωi
+2 + 2αθ 
+ 
+0 = 3.77 × 102 rad/s
+(
+)
+2 + 2α 3.14 × 102 rad
+(
+) 
+ 
+α = −2.26 × 102 rad/s2 
+P10.7 
+We are given α = –2.00 rad/s
+2, 
+ω f = 0, and  
+ 
+ 
+  
+ω i = 100 rev
+1.00 min
+1 min
+60.0 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+1.00 rev
+⎛
+⎝⎜
+⎞
+⎠⎟= 10π
+3
+rad/s
+ 
+ 
+(a) 
+From ω f −ω i = αt, we have  
+ 
+ 
+ 
+t =
+ω f −ωi
+α
+= 0 −10π /3
+(
+)
+−2.00
+ s = 5.24 s 
+ 
+(b) Since the motion occurs with constant angular acceleration, we 
+write  
+ 
+ 
+  
+θ f = ωt =
+ω f + ωi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟t =
+10π
+6 rad s
+⎛
+⎝⎜
+⎞
+⎠⎟
+10π
+6 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 27.4 rad 
+P10.8 
+(a) 
+From ω f
+2 = ωi
+2 + 2α Δθ
+(
+), the angular displacement is 
+ 
+Δθ =
+ω f
+2 −ωi
+2
+2α
+= (2.2 rad/s)2 −0.06 rad/s
+(
+)
+2
+2 0.70 rad/s2
+(
+)
+= 3.5 rad 
+ 
+(b) From the equation given above for Δθ, observe that when the 
+angular acceleration is constant, the displacement is proportional 
+to the difference in the squares of the final and initial angular 
+speeds. Thus, the angular displacement would 
+increase by a factor of 4 if both of these speeds were doubled. 
+*P10.9 
+We are given ω f = 2.51× 104 rev/min = 2.63 × 103 rad/s 
+ 
+(a) 
+α = ω f −ω i
+t
+= 2.63 × 103 rad/s −0
+3.20 s
+= 8.21× 102 rad/s2 
+ 
+(b) 
+θ f = ω it + 1
+2αt2 = 0 + 1
+2 8.21× 102 rad/s2
+(
+) 3.20 s
+(
+)2 = 4.21× 103 rad
+
+--- PAGE 8 ---
+Chapter 10     523 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.10 
+According to the definition of average angular speed (Eq. 10.2), the 
+disk’s average angular speed is 50.0 rad/10.0 s = 5.00 rad/s. According 
+to the average angular speed expressed as (ωi + ω f )/2 in the model of 
+a rigid object under constant angular acceleration, the average angular 
+speed of the disk is (0 + 8.00 rad/s)/2 = 4.00 rad/s. Because these two 
+numbers do not match, the angular acceleration of the disk cannot be 
+constant. 
+P10.11 
+θ f −θi = ωit + 1
+2αt2 and ω f = ωi + αt are two equations in two 
+unknowns, ωi and α. 
+ 
+ 
+ωi = ω f −αt:  θ f −θi = ω f −αt
+(
+)t + 1
+2αt2 = ωt −1
+2αt2 
+ 
+ 
+37.0 rev
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟= 98.0 rad/s
+(
+) 3.00 s
+(
+) −1
+2α 3.00 s
+(
+)
+2 
+ 
+ 
+232 rad = 294 rad −4.50 s2
+(
+)α:
+α = 61.5 rad
+4.50 s2 = 13.7 rad/s2 
+P10.12 
+ω = 5.00 rev/s = 10.0π  rad/s. We will break the motion into two 
+stages: (1) a period during which the tub speeds up and (2) a period 
+during which it slows down. 
+ 
+While speeding up, θ1 = ωt = 0 + 10.0π rad s
+2
+8.00 s
+(
+) = 40.0π rad. 
+ 
+While slowing down, θ2 = ωt = 10.0π rad s + 0
+2
+12.0 s
+(
+) = 60.0π rad. 
+ 
+So, θtotal = θ1 +θ2 = 100π rad = 50.0 rev . 
+*P10.13 
+We use θ f −θi = ωit + 1
+2αt2 and ω f = ωi + αt to obtain  
+ 
+ 
+ 
+ω i = ω f −αt   and    θ f −θi = ω f −αt
+(
+)t + 1
+2αt2 = ω ft −1
+2αt2 
+ 
+Solving for the final angular speed gives 
+ 
+ 
+ 
+ω f = θ f −θi
+t
++ 1
+2αt = 62.4 rad
+4.20 s + 1
+2 −5.60 rad/s2
+(
+) 4.20 s
+(
+)
+= 3.10 rad/s2
+
+--- PAGE 9 ---
+524     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.14 
+(a) 
+Let RE represent the radius of the Earth. The base of the building 
+moves east at v1 = ωRE, where ω is one revolution per day. The 
+top of the building moves east at v2 = ω RE + h
+(
+). Its eastward 
+speed relative to the ground is v2 −v1 = ωh. The object’s time of 
+fall is given by Δy = 0 + 1
+2 gt2, t =
+2h
+g . During its fall the object’s 
+eastward motion is unimpeded so its deflection distance is  
+ 
+ 
+ 
+Δx = v2 −v1
+(
+)t = ωh 2h
+g = ωh3/2
+2
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+ 
+ 
+(b) 
+2π rad
+86400 s
+⎛
+⎝⎜
+⎞
+⎠⎟50.0 m
+(
+)
+3/2
+2
+9.80 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= 1.16 cm 
+ 
+(c) 
+The deflection is only 0.02% of the original height, so it is
+negligible in many practical cases.
+ 
+ 
+(d) 
+Decrease. Because the displacement is proportional to angular 
+speed and the angular acceleration is constant, the displacement 
+decreases linearly in time. 
+ 
+ 
+ 
+Section 10.3 
+Angular and Translational Quantities 
+P10.15 
+(a) 
+From v = rω, we have 
+ 
+ 
+ 
+ω = v
+r = 45.0 m/s
+250 m
+= 0.180 rad/s
+ 
+ 
+(b) Traveling at constant speed along a circular track, the car will 
+experience a centripetal acceleration given by  
+ 
+ 
+ 
+ar = v2
+r = 45.0 m/s
+(
+)
+2
+250 m
+= 8.10 m/s2 toward the center of track 
+P10.16 
+Estimate the tire’s radius at 0.250 m and miles driven as 10 000 per 
+year. Then, 
+ 
+ 
+θ = s
+r =
+1.00 × 104 mi
+0.250 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1609 m
+1 mi
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.44 × 107 rad/yr
+
+--- PAGE 10 ---
+Chapter 10     525 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+θ = 6.44 × 107rad/yr
+(
+)
+1rev
+2π rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.02 × 107rev/yr or ~ 107rev/yr
+ 
+P10.17 
+(a) 
+The final angular speed is 
+ 
+ 
+ 
+ω = v
+r = 25.0 m/s
+1.00 m
+= 25.0 rad/s 
+ 
+(b) We solve for the angular acceleration from ω f
+2 = ωi
+2 + 2α Δθ
+(
+): 
+ 
+ 
+ 
+α =
+ω f
+2 −ωi
+2
+2 Δθ
+(
+)
+=
+(25.0 rad/s)2 −0
+2
+1.25 rev
+(
+)(2π rad/rev)
+⎡⎣
+⎤⎦
+= 39.8 rad/s2 
+ 
+(c) 
+From the definition of angular acceleration, 
+ 
+ 
+ 
+Δt = Δω
+α = 25.0 rad/s
+39.8 rad/s2 = 0.628 s 
+P10.18 
+(a) 
+Consider a tooth on the front sprocket. It gives this speed, relative 
+to the frame, to the link of the chain it engages: 
+ 
+ 
+ 
+v = rω =
+0.152 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟76 rev/min
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.605 m/s
+ 
+ 
+(b) Consider the chain link engaging a tooth on the rear sprocket: 
+ 
+ 
+ 
+ω = v
+r =
+0.605 m/s
+0.070 m
+(
+)/2 = 17.3 rad/s 
+ 
+(c) 
+Consider the wheel tread and the road. A thread could be 
+unwinding from the tire with this speed relative to the frame: 
+ 
+ 
+ 
+v = rω =
+0.673 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟17.3 rad/s
+(
+) = 5.82 m/s 
+ 
+(d) 
+We did not need to know the length of the pedal cranks , but we 
+could use that information to find the linear speed of the pedals: 
+ 
+ 
+ 
+v = rω = 0.175 m
+(
+) 7.96 rad/s
+(
+)
+1
+1 rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.39 m/s
+ 
+P10.19 
+Given r = 1.00 m, α = 4.00 rad/s2, ωi = 0, and θi = 57.3° = 1.00 rad: 
+ 
+(a) 
+ω f = ωi + αt = 0 + αt 
+ 
+ 
+At t = 2.00 s, ω f = 4.00 rad/s2 2.00 s
+(
+) = 8.00 rad/s
+
+--- PAGE 11 ---
+526     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+v = rω = 1.00 m
+(
+) 8.00 rad/s
+(
+) = 8.00 m/s 
+ 
+(c) 
+ar = ac = rω 2 = 1.00 m
+(
+)(8.00 rad/s)2 = 64.0 m/s2 
+ 
+ 
+at = rα = 1.00 m
+(
+)(4.00 rad/s2) = 4.00 m/s2 
+ 
+ 
+The magnitude of the total acceleration is 
+ 
+ 
+ 
+a =
+ar
+2 + at
+2 =
+64.0 m/s2
+(
+)
+2 + 4.00 m/s2
+(
+)
+2 = 64.1 m/s2 
+ 
+The direction the total acceleration vector makes with respect to 
+the radius to point P is 
+ 
+ 
+ 
+φ = tan−1
+at
+ac
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 4.00
+64.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.58° 
+ 
+(d) θ f = θi +ω it + 1
+2αt2 = 1.00 rad
+(
+)+ 1
+2 4.00 rad/s2
+(
+) 2.00 s
+(
+)
+2 = 9.00 rad 
+P10.20 
+(a) 
+We first determine the distance travelled by the car during the 
+9.00-s interval: 
+ 
+ 
+ 
+s = vt =
+vi + v f
+2
+t = 11.0 m s
+(
+) 9.00 s
+(
+) = 99.0 m 
+ 
+ 
+the number of revolutions completed by the tire is then 
+ 
+ 
+ 
+ 
+θ = s
+r = 99.0 m
+0.290 m = 341 rad = 54.3 rev 
+ 
+(b)  ω f = v f
+r = 22.0 m/s
+0.290 m = 75.9 rad/s = 12.1 rev/s 
+P10.21 
+Every part of this problem is about using radian measure to relate 
+rotation of the whole object to the linear motion of a point on the 
+object. 
+ 
+(a) 
+ω = 2π f = 2π rad
+1 rev
+1 200 rev
+60.0 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 126 rad/s 
+ 
+(b) 
+v = ωr = 126 rad/s
+(
+) 3.00 × 10−2 m
+(
+) = 3.77 m/s 
+ 
+(c)  ac = ω 2r = 126 rad/s
+(
+)
+2 8.00 × 10−2 m
+(
+) = 1 260 m/s2 so  
+ 
+ 
+ar = 1.26 km/s2 toward the center 
+ 
+(d) 
+s = rθ = ωrt = 126 rad/s
+(
+) 8.00 × 10−2 m
+(
+) 2.00 s
+(
+) = 20.1 m
+
+--- PAGE 12 ---
+Chapter 10     527 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.22 
+(a) 
+5.77 cm 
+ 
+(b) 
+Yes. The top of the ladder is displaced 
+          θ = s/r = 0.690m/4.90 m ≅0.141 rad 
+from vertical about its right foot. The left foot of the 
+ladder is displaced by the same angle below the 
+horizontal; therefore, 
+          θ = 0.690 m/4.90 m = t/0.410 m →t = 5.77 cm
+Note that we are approximating the straight-line distance
+of 0.690 m as an arc length because it is much smaller 
+than the length of the ladder. The thickness of the rock is 
+a cruder approximation of an arc length because the rung 
+of the ladder is much shorter than the length of the ladder.
+ 
+ 
+P10.23 
+The force of static friction must act forward and then more and more 
+inward on the tires, to produce both tangential and centripetal 
+acceleration. Its tangential component is m 1.70 m/s2
+(
+). Its radially 
+inward component is mac = mv2
+r
+= mω 2r, which increases with time: 
+this takes the maximum value 
+ 
+ 
+ 
+mω f
+2r = mr ωi
+2 + 2αΔθ
+(
+) = mr 0 + 2α π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= mπrα = mπat
+= mπ 1.70m/s2
+(
+)
+ 
+ 
+With skidding impending we have 
+Fy = may, + n −mg = 0, n = mg
+∑
+: 
+ 
+ 
+ 
+fs = µsn = µsmg =
+m2 1.70 m/s2
+(
+)
+2 + m2π 2 1.70 m/s2
+(
+)
+2
+µs = 1.70 m/s2
+g
+1+ π 2 = 0.572
+ 
+P10.24 
+The force of static friction must act forward and then more and more 
+inward on the tires, to produce both tangential and centripetal 
+acceleration. Its tangential component is ma = mrα. Its radially inward 
+component is mac = mv2
+r
+= mω 2r which increases with time; this takes 
+the maximum value 
+ 
+ 
+ 
+mω f
+2r = mr ωi
+2 + 2αΔθ
+(
+) = mr 0 + 2α π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= mπrα = mπa
+
+--- PAGE 13 ---
+528     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+With skidding impending we have  
+ 
+ 
+ 
+Fy = may:   
+∑
++ n −mg = 0  →  n = mg 
+ 
+ 
+ 
+fs = µsn = µsmg =
+mat
+(
+)
+2 + mac
+(
+)
+2 =
+m2a2 + m2π 2a2
+µs = a
+g
+1+ π 2
+ 
+P10.25 
+(a) 
+The general expression for angular velocity is 
+ 
+ 
+ 
+ω = dθ
+dt = d
+dt 2.50t2 −0.600t3
+(
+) = 5.00t −1.80t2  
+ 
+ 
+where ω is in radians/second and t is in seconds. 
+ 
+ 
+The angular velocity will be a maximum when  
+ 
+ 
+ 
+dω
+dt = d
+dt 5.00t −1.80t2
+(
+) = 5.00 −3.60t = 0 
+ 
+ 
+Solving for the time t, we find  
+ 
+ 
+ 
+t = 5.00
+3.60 = 1.39s
+  
+ 
+ 
+Placing this value for t into the equation for angular velocity, we 
+find 
+ 
+ 
+ 
+ωmax = 5.00t −1.80t2 = 5.00 1.39
+(
+) −1.80 1.39
+(
+)
+2 = 3.47rad/s 
+ 
+(b) 
+vmax = ω maxr = (3.47rad/s) 0.500 m
+(
+) = 1.74m/s 
+ 
+(c) 
+The roller reverses its direction when the angular velocity is 
+zero—recall an object moving vertically upward against gravity 
+reverses its motion when its velocity reaches zero at the 
+maximum height. 
+ 
+ 
+ 
+ω = 5.00t −1.80t2 = t 5.00 −1.80t
+(
+) = 0
+→5.00 −1.80t = 0 →t = 5.00
+1.80 = 2.78s
+ 
+ 
+ 
+The driving force should be removed from the roller at t = 2.78s . 
+ 
+(d) Set t = 2.78 s in the expression for angular position: 
+ 
+ 
+ 
+θ = 2.50t2 −0.600t3 = 2.50 2.78
+(
+)
+2 −0.600 2.78
+(
+)
+3 = 6.43rad 
+ 
+ 
+ or 
+6.43 rad
+(
+) 1 rotation
+2π rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.02 rotations
+
+--- PAGE 14 ---
+Chapter 10     529 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.26 
+The object starts with θi = 0. The location of its final position on the 
+circle is found from 9rad −2π = 2.72rad = 156°. 
+ 
+(a) 
+Its position vector is  
+ 
+ 
+ 
+3.00 m at 156° = 3.00 m
+(
+)cos156°ˆi + 3.00 m
+(
+)sin156°ˆj
+=
+−2.73ˆi + 1.24ˆj
+(
+) m
+  
+ 
+(b) 
+It is in the second quadrant, at 156° 
+ 
+(c) 
+The object’s velocity is v = ωr = (1.50 rad/s)(3.00 m) = 4.50 m/s at 
+90°. After the displacement, its velocity is 
+ 
+ 
+ 
+4.50 m/s at 90°+156°    or
+4.50 m/s at 246°= 4.50 m/s
+(
+)cos246°ˆi + 4.50 m/s
+(
+)sin246°ˆj
+                           =
+−1.85ˆi −4.10ˆj
+(
+) m/s
+ 
+ 
+(d) 
+It is moving toward the third quadrant, at 246° . 
+ 
+(e) 
+Its acceleration is v
+2/r, opposite in direction to its position vector. 
+This is  
+ 
+ 
+ 
+4.50 m/s
+(
+)
+2
+3.00 m
+ at   180°+156°    or
+6.75 m/s2 at 336°= 6.75 m/s2
+(
+)cos336°ˆi
+                                              + 6.75 m/s2
+(
+)sin336°ˆj
+                             =
+6.15ˆi −2.78ˆj
+(
+) m/s2
+ 
+ 
+(f) 
+ANS. FIG. P10.26 shows the initial and final position, velocity, 
+and acceleration vectors. 
+ 
+ANS. FIG. P10.26
+
+--- PAGE 15 ---
+530     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) The total force is given by  
+ 
+ 
+  
+F = ma = 4.00 kg
+(
+)(6.15i−2.78 j) m/s2 = (24.6 i−11.1 j) N
+ 
+ 
+ 
+ 
+Section 10.4 
+Torque 
+P10.27 
+To find the net torque, we add the individual 
+torques, remembering to apply the convention that 
+a torque producing clockwise rotation is negative 
+and a counterclockwise rotation is positive. 
+ 
+ 
+ 
+τ
+∑
+= 0.100 m
+(
+) 12.0 N
+(
+)
+           −0.250 m
+(
+) 9.00 N
+(
+)
+           −0.250 m
+(
+) 10.0 N
+(
+)
+= −3.55 N⋅m
+ 
+ 
+The thirty-degree angle is unnecessary information. 
+P10.28 
+We resolve the 100-N force into 
+components perpendicular to and 
+parallel to the rod, as 
+ 
+ 
+Fpar = 100 N
+(
+)cos57.0° = 54.5 N 
+ 
+and 
+ 
+ 
+Fperp = 100 N
+(
+)sin57.0° = 83.9 N 
+ 
+The torque of Fpar is zero since its line of 
+action passes through the pivot point. 
+ 
+The torque of Fperp is  
+ 
+ 
+τ = 83.9 N
+(
+) 2.00 m
+(
+) = 168 N ⋅m (clockwise) 
+ 
+ 
+ 
+ANS. FIG. P10.27 
+ANS. FIG. P10.28
+
+--- PAGE 16 ---
+Chapter 10     531 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 10.5 
+Analysis Model: Rigid Object Under a Net Torque 
+P10.29 
+The flywheel is a solid disk of mass M and radius R with axis through 
+its center. 
+ 
+ 
+ 
+τ = Iα
+∑
+I = 1
+2 MR2
+⎫
+⎬⎪
+⎭⎪
+−Tur +Tbr = 1
+2 MR2α →Tb = Tu + MR2α
+2r
+ 
+ 
+ 
+ 
+Tb = 135 N + 80.0 kg
+(
+) 0.625 m
+(
+)
+2 −1.67 rad/s2
+(
+)
+2 0.230 m
+(
+)
+= 21.5 N 
+P10.30 
+(a) 
+The moment of inertia of the wheel, modeled as a disk, is  
+ 
+ 
+ 
+I = 1
+2 MR2 = 1
+2 2.00 kg
+(
+) 7.00 × 10−2 m
+(
+)
+2 = 4.90 × 10−3 kg ⋅m2 
+ 
+ 
+From Newton’s second law for rotational motion, 
+ 
+ 
+ 
+α = ∑τ
+I
+=
+0.600
+4.90 × 10−3 = 122 rad/s2 
+ 
+ 
+then, from α = Δω
+Δt , we obtain 
+ 
+ 
+ 
+Δt = Δω
+α = 1200(2π /60)
+122
+= 1.03 s 
+ 
+(b) The number of revolutions is determined from 
+ 
+ 
+ 
+Δθ = 1
+2αt2 = 1
+2 122 rad s
+(
+) 1.03 s
+(
+)
+2 = 64.7 rad = 10.3 rev 
+*P10.31 
+(a) 
+We first determine the moment of inertia of the merry-go-round: 
+ 
+ 
+ 
+I = 1
+2 MR2 = 1
+2 150 kg
+(
+) 1.50 m
+(
+)
+2 = 169 kg⋅m2 
+ 
+ 
+To find the angular acceleration, we use 
+ 
+ 
+ 
+α = Δω
+Δt = ω f −ω i
+Δt
+=
+0.500 rev/s −0
+2.00 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟= π
+2 rad/s2 
+ 
+ 
+From the definition of torque, τ = F ⋅r = Iα, we obtain 
+ 
+ 
+ 
+F = Iα
+r =
+169 kg⋅m2
+(
+) π
+2 rad/s2
+⎛
+⎝
+⎞
+⎠
+1.50 m
+= 177 N
+
+--- PAGE 17 ---
+532     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.32 
+(a) 
+See ANS. FIG. P10.32 below for the force diagrams. For m1, 
+Fy = may
+∑
+ gives 
+ 
+ 
+ 
++n −m1g = 0 
+ 
+ 
+ 
+n1 = m1g 
+ 
+ 
+with fk1 = µkn1.  
+ 
+ 
+Fx
+∑
+= max gives  
+ 
+ 
+ 
+−fk1 + T1 = m1a 
+[1] 
+ 
+ 
+For the pulley, 
+τ
+∑
+= Iα gives 
+ 
+ 
+ 
+−T1R + T2R = 1
+2 MR2
+a
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+or  
+−T1 +T2 = 1
+2 MR
+a
+R
+⎛
+⎝⎜
+⎞
+⎠⎟→–T1 +T2 = 1
+2 Ma 
+[2] 
+ 
+ 
+For m2, 
+ 
+ 
+ 
++n2 −m2gcosθ = 0 →n2 = m2gcosθ 
+ 
+ 
+ 
+fk2 = µkn2 
+ 
+ 
+ 
+−fk2 −T2 + m2gsinθ = m2a 
+[3] 
+ 
+ 
+ANS. FIG. P10.32
+
+--- PAGE 18 ---
+Chapter 10     533 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.33 
+ 
+(b) Add equations [1], [2], and [3] and substitute the expressions for 
+fk1 and n1, and –fk2 and n2: 
+ 
+ 
+ 
+−fk1 + T1 + −T1 + T2
+(
+) −fk2 −T2 + m2gsinθ = m1a + 1
+2 Ma + m2a
+−fk1 −fk2 + m2gsinθ = m1 + m2 + 1
+2 M
+⎛
+⎝⎜
+⎞
+⎠⎟a
+−µkm1g −µkm2gcosθ + m2gsinθ = m1 + m2 + 1
+2 M
+⎛
+⎝⎜
+⎞
+⎠⎟a
+ 
+ 
+ 
+  
+a = m2 sinθ − µk cosθ
+(
+) − µkm1
+m1 + m2 +  1
+2 M
+g
+a = 
+6.00 kg
+(
+) sin30.0ο − 0.360cos30.0ο
+(
+) − 0.360 2.00 kg
+(
+)
+2.00 kg
+(
+) +  6.00 kg
+(
+) +  1
+2 10.0 kg
+(
+)
+g
+a = 0.309 m/s2
+ 
+ 
+(c) 
+From equation [1]:  
+ 
+ 
+ 
+– fk1 + T1 = m1a →T1 = 2.00 kg 0.309 m/s2
+(
+) + 7.06 N = 7.67 N 
+ 
+ 
+From equation [2]: 
+−T1 + T2 = 1
+2 Ma →T2 = 7.67 N + 5.00 kg 0.309 m/s2
+(
+) 
+ 
+ 
+ 
+ 
+= 9.22N 
+P10.33 
+We use the definition of torque and the 
+relationship between angular and 
+translational acceleration, with m = 0.750 kg 
+and F = 0.800 N: 
+ 
+(a) 
+τ = rF = 30.0 m
+(
+) 0.800 N
+(
+) = 24.0 N ⋅m 
+ 
+(b) 
+α = τ
+I = rF
+mr2 =
+24.0 N ⋅m
+0.750 kg
+(
+) 30.0 m
+(
+)
+2
+= 0.035 6 rad s2
+ 
+ 
+(c) 
+at = αr = 0.035 6 rad/s2
+(
+) 30.0 m
+(
+) = 1.07 m/s2
+
+--- PAGE 19 ---
+534     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.34 
+(a) 
+The chosen tangential force produces constant torque and 
+therefore constant angular acceleration. Since the disk starts from 
+rest, we write 
+ 
+ 
+ 
+θ f −θi = ω it + 1
+2αt2
+θ f −0 = 0 + 1
+2αt2
+θ f = 1
+2αt2
+ 
+ 
+ 
+Solving for the angular acceleration gives 
+ 
+ 
+ 
+α = 2θ f
+t2 =
+2 2.00 rev
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+10.0 s
+(
+)
+2
+= 0.251 rad/s2
+ 
+ 
+ 
+We then obtain the required combination of F and R from the 
+rigid object under a net torque model: 
+ 
+ 
+ 
+τ = Iα
+∑
+:
+FR = 100 kg⋅m2
+(
+)(0.251 rad/s2) = 25.1 N⋅m 
+ 
+ 
+ For F = 25.1 N, R = 1.00 m. For F = 10.0 N, R = 2.51 m. 
+ 
+(b) 
+No. Infinitely many pairs of values that satisfy this requirement
+exist: for any F ≤50.0 N, R = 25.1 N ⋅m/F, as long as R ≤3.00 m.
+ 
+P10.35 
+(a) 
+From the rigid object under a net torque model, 
+τ
+∑
+= Iα gives 
+ 
+ 
+ 
+I = 
+τ
+∑
+α  = 
+τ
+∑
+Δω Δt  = 36.0 N · m
+10.0 rad/s 6.00 s
+(
+) =  21.6 kg · m2 
+ 
+(b) For the portion of the motion during which the wheel slows 
+down, 
+ 
+ 
+ 
+τ
+∑
+ =  Iα  =  I Δω
+Δt  =  21.6 kg · m2
+(
+) –10.0 rad/s
+60.0 s
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+=  3.60 N · m
+ 
+ 
+(c) 
+During the first portion of the motion, 
+ 
+ 
+  
+Δθ = ωavgΔt = 
+ωi + ω f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt =  0 + 10.0 rad/s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟6.00 s
+(
+) 
+= 30 rad
+
+--- PAGE 20 ---
+Chapter 10     535 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+During the second portion, 
+ 
+ 
+  
+Δθ = ωavgΔt = 
+ωi + ω f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt =  10.0 rad/s + 0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟60.0 s
+(
+) 
+= 300 rad
+ 
+ 
+ 
+Therefore, the total angle is 330 rad or 52.5 revolutions . 
+P10.36 
+(a) 
+Let T1 represent the tension in the cord above m1 and T2 the 
+tension in the cord above the lighter mass. The two blocks move 
+with the same acceleration because the cord does not stretch, and 
+the angular acceleration of the pulley is a/R. For the heavier mass 
+we have 
+ 
+ 
+ 
+F
+∑
+= m1a →T1 −m1g = m1 −a
+(
+)  or    −T1 + m1g = m1a 
+ 
+ 
+For the lighter mass, 
+ 
+ 
+ 
+F = m2a →  
+∑
+T2 −m2g = m2a 
+ 
+ 
+We assume the pulley is a uniform disk: I = (1/2)MR
+2 
+ 
+ 
+ 
+τ
+∑
+= Iα →    + T1R −T2R = 1
+2 MR2 a/R
+(
+)
+ 
+ 
+ 
+or  
+T1 −T2 = 1
+2 Ma 
+ 
+ 
+Add up the three equations in a: 
+ 
+ 
+ 
+–T1 + m1g + T2 – m2 g + T1 – T2 = m1a + m2a + 1
+2 Ma 
+ 
+ 
+ 
+a = 
+m1 − m2
+m1 + m2 +  1
+2 M g
+=
+20.0 kg −12.5 kg
+20.0 kg + 12.5 kg + 1
+2 5.00 kg
+(
+)
+9.80 m/s2
+(
+)
+= 2.10 m/s2
+ 
+ 
+ 
+Next, x = 0 + 0 + 1
+2 at2 →t =
+2x
+a =
+2 4.00 m
+(
+)
+2.10 m/s2 = 1.95 s 
+ 
+(b) 
+If the pulley were massless, the acceleration would be larger
+by a factor 35/32.5 and the time shorter by the square root of
+the factor 32.5/35. That is, the time would be reduced by 3.64%.
+
+--- PAGE 21 ---
+536     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.37 
+P10.37 
+From the rigid object under a net torque 
+model, 
+ 
+ 
+τ  = Iα
+∑
+ 
+ 
+ 
+−fkR = µkFR =  1
+2 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δω
+Δt   
+µk  = −MRΔω
+2FΔt
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+µk  = −100 kg
+(
+) 0.500 m
+(
+) −50.0 rev/min
+(
+)
+2 70.0 N
+(
+) 6.00 s
+(
+)
+2π  rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+=  0.312
+ 
+ 
+ 
+ 
+Section 10.6 
+Calculation of Moments of Inertia 
+P10.38 
+Model your body as a cylinder of mass 60.0 kg and a radius of 12.0 cm. 
+Then its moment of inertia is 
+1
+2 MR2 = 1
+2 60.0 kg
+(
+) 0.120 m
+(
+)
+2 = 0.432 kg⋅m2
+~ 100 kg⋅m2 = 1 kg⋅m2
+ 
+P10.39 
+(a) 
+Every particle in the door could be slid straight down into a high-
+density rod across its bottom, without changing the particle’s 
+distance from the rotation axis of the door. Thus, a rod 0.870 m 
+long with mass 23.0 kg, pivoted about one end, has the same 
+rotational inertia as the door: 
+ 
+I = 1
+3 ML2 = 1
+3 23.0 kg
+(
+) 0.870 m
+(
+)
+2 = 5.80 kg⋅m2 
+ 
+(b) The height of the door is unnecessary data.
+
+--- PAGE 22 ---
+Chapter 10     537 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.40 
+(a) 
+We take a coordinate system 
+with mass M at the origin. The 
+distance from the axis to the 
+origin is also x. The moment of 
+ineria about the axis is  
+ 
+ 
+ 
+I = Mx2 + m L −x
+(
+)
+2 
+ 
+ 
+To find the extrema in the 
+moment of inertia, we 
+differentiate I with respect to x: 
+ 
+ 
+ 
+dI
+dx = 2Mx −2m(L −x) = 0  
+ 
+ 
+Solving for x then gives 
+ 
+ 
+ 
+x =
+mL
+M + m
+ 
+ 
+ 
+Differentiating again gives d2I
+dx2 = 2m + 2M ; therefore, I is at a 
+minimum when the axis of rotation passes through x =
+mL
+M + m , 
+which is also the position of the center of mass of the system if we 
+take mass M to lie at the origin of a coordinate system. 
+ 
+(b) The moment of inertia about an axis passing through x is 
+ 
+ 
+  
+ICM = M
+mL
+M + m
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
++ m 1−
+m
+M + m
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+L2 =
+Mm
+M + m L2
+→ICM = µL2, where µ =
+Mm
+M + m
+ 
+P10.41 
+Treat the tire as consisting of three hollow cylinders: two sidewalls and 
+a tread region. The moment of inertia of a hollow cylinder, where R2 > 
+R1, is I = 1
+2 M R1
+2 + R2
+2
+(
+) , and the mass of a hollow cylinder of height (or 
+thickness) t is M = ρπ R2
+2 −R1
+2
+(
+)t. Substituting the expression for mass 
+M into the expression for I, we get 
+ 
+ 
+ 
+I = 1
+2 ρπ R2
+2 −R1
+2
+(
+)t R1
+2 + R2
+2
+(
+) = 1
+2 ρπt R2
+4 −R1
+4
+(
+) 
+ 
+The two sidewalls have inner radius r1 = 16.5 cm, outer radius r2 =  
+30.5 cm, and height tside = 0.635 cm. The tread region has inner radius  
+r2 = 30.5 cm, outer radius r3 =33.0 cm, and height ttread = 20.0 cm. The 
+ANS. FIG. P10.40
+
+--- PAGE 23 ---
+538     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+density of the rubber is 1.10 × 10
+3 kg/m
+3. 
+ 
+For the tire (two sidewalls: R1 = r1, R2 = r2; tread region: R1 = r2, R2 = r3) 
+ 
+ 
+ 
+Itotal = 2 1
+2 ρπ tside R2
+4 −R1
+4
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2 ρπttread R2
+4 −R1
+4
+(
+)
+= 2 1
+2 ρπtside r2
+4 −r1
+4
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2 ρπttread r3
+4 −r2
+4
+(
+)
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+Itotal = 2 1
+2 1.10 × 103 kg/m3
+(
+)π 6.35 × 10−3 m
+(
+)
+{
+                                        ×
+0.305 m
+(
+)
+4 −0.165 m
+(
+)
+4
+⎡⎣
+⎤⎦}
++ 1
+2 1.10 × 103 kg/m3
+(
+)π 0.200 m
+(
+)
+0.330 m
+(
+)
+4 −0.305 m
+(
+)
+4
+⎡⎣
+⎤⎦
+= 2 8.68 × 10−2 kg⋅m2
+(
+)+ 1.11 kg⋅m2 = 1.28 kg⋅m2
+ 
+P10.42 
+We use x as a measure of the distance of each mass element dm in the 
+rod from the y′ axis: 
+ 
+ 
+ 
+I ′
+y =
+r2dm =
+x2 M
+L dx = M
+L
+x3
+3
+0
+L∫
+0
+L
+= 1
+3 ML2
+all mass
+∫
+ 
+P10.43 
+We assume the rods are thin, with radius much less than L. Note that 
+the center of mass (CM) of the rod combination lies at the origin of the 
+coordinate system. Because the axis of rotation is parallel to the y axis, 
+we can first calculate the moment of inertia of the rods about the y axis, 
+then use the parallel-axis theorem to find the moment about the axis of 
+rotation. 
+ 
+The moment of the rod on the y axis  
+about the y axis itself is essentially zero  
+(axis through center, parallel to rod)  
+because the rod is thin. The moments of  
+the rods on the x and z axes are each  
+I = 1
+12 mL2 (axis through center,  
+perpendicular to rod) from the table in  
+the chapter. 
+ANS. FIG. P10.43
+
+--- PAGE 24 ---
+Chapter 10     539 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The total moment of the three rods about the y axis (and about the CM) 
+is 
+ 
+ 
+ 
+ICM = Ion x axis + Ion y axis + Ion z axis
+= 1
+12 mL2 + 0 + 1
+12 mL2 = 1
+6 mL2
+ 
+ 
+For the moment of the rod-combination about the axis of rotation, the 
+parallel-axis theorem gives 
+ 
+ 
+ 
+I = ICM + 3m L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+6 + 3
+4
+⎡
+⎣⎢
+⎤
+⎦⎥mL2 =
+2
+12 + 9
+12
+⎡
+⎣⎢
+⎤
+⎦⎥mL2 = 11
+12 mL2 
+ 
+ 
+ 
+ 
+Section 10.7 
+Rotational Kinetic Energy 
+P10.44 
+The masses and distances from the rotation axis 
+for the three particles are:  
+ 
+ 
+m1 = 4.00 kg, r1 = y1 = 3.00 m 
+ 
+ 
+  
+m2 = 2.00 kg, r2 = y2 = 2.00 m 
+ 
+ 
+  
+m3 = 3.00 kg, r3 = y3 = 4.00 m 
+ 
+and ω = 2.00 rad/s about the x axis. 
+ 
+(a) 
+Ix = m1r1
+2 + m2r2
+2 + m3r3
+2 
+ 
+ 
+Ix = 4.00 kg
+(
+) 3.00 m
+(
+)
+2 + 2.00 kg
+(
+) 2.00 m
+(
+)
+2
+                          + 3.00 kg
+(
+) 4.00 m
+(
+)
+2
+= 92.0 kg ⋅m2
+ 
+ 
+(b) 
+KR = 1
+2 Ixω 2 = 1
+2 92.0 kg⋅m2
+(
+) 2.00 m
+(
+)
+2 = 184 J 
+ 
+(c) 
+v1 = r1ω = 3.00 m
+(
+) 2.00 rad/s
+(
+) = 6.00 m/s 
+ 
+ 
+v2 = r2ω = 2.00 m
+(
+) 2.00 rad/s
+(
+) = 4.00 m/s 
+ 
+ 
+v3 = r3ω = 4.00 m
+(
+) 2.00 rad/s
+(
+) = 8.00 m/s 
+ 
+(d) 
+K1 = 1
+2 m1v1
+2 = 1
+2 4.00 kg
+(
+) 6.00 m/s
+(
+)
+2 = 72.0 J 
+ANS. FIG. P10.44
+
+--- PAGE 25 ---
+540     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+K2 = 1
+2 m2v2
+2 = 1
+2 2.00 kg
+(
+) 4.00 m/s
+(
+)
+2 = 16.0 J
+ 
+ 
+ 
+K3 = 1
+2 m3v3
+2 = 1
+2 3.00 kg
+(
+) 8.00 m/s
+(
+)
+2 = 96.0 J
+ 
+ 
+ 
+K = K1 + K2 + K3 = 72.0 J + 16.0 J + 96.0 J = 184 J = 1
+2 Ixω 2 
+ 
+(e) 
+The kinetic energies computed in parts (b) and (d) are the same. 
+Rotational kinetic energy of an object rotating about a fixed axis 
+can be viewed as the total translational kinetic energy of the 
+particles moving in circular paths. 
+P10.45 
+(a) 
+All four particles are at a distance r 
+from the z axis, with 
+ 
+ 
+ 
+r2 = 3.00 m
+(
+)
+2 + 2.00 m
+(
+)
+2
+= 13.0 m2
+  
+ 
+ 
+ 
+Thus the moment of inertia is 
+ 
+ 
+ 
+Iz =
+miri
+2
+∑
+= 3.00 kg
+(
+) 13.0 m2
+(
+)
+      + 2.00 kg
+(
+) 13.0 m2
+(
+)
+      + 4.00 kg
+(
+) 13.0 m2
+(
+)
+      + 2.00 kg
+(
+) 13.0 m2
+(
+)
+= 143 kg⋅m2
+ 
+ 
+(b) The rotational kinetic energy of the four-particle system is  
+ 
+  
+ 
+KR = 1
+2 Iω 2 = 1
+2 143 kg⋅m2
+(
+) 6.00 rad s
+(
+)
+2 = 2.57 × 103J
+ 
+P10.46 
+The cam is a solid disk of radius R that has had a small disk of radius 
+R/2 cut from it. To find the moment of inertia of the cam, we use the 
+parallel-axis theorem to find the moment of inertia of the solid disk 
+about an axis at distance R/2 from its CM, then subtract off the 
+moment of inertia of the small disk of radius R/2 with axis through its 
+center. 
+ 
+By the parallel-axis theorem, the moment of inertia of the solid disk 
+about an axis R/2 from its CM is 
+ 
+ 
+ 
+Idisk = ICM + Mdisk
+R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2 MdiskR2 + 1
+4 MdiskR2 = 3
+4 MdiskR2 
+ANS. FIG. P10.45
+
+--- PAGE 26 ---
+Chapter 10     541 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+With half the radius, the cut-away small disk has one-quarter the face 
+area and one-quarter the volume and one-quarter the mass Mdisk of the 
+original solid disk: 
+ 
+ 
+ 
+Msmall disk
+Mdisk
+= R 2
+(
+)
+2
+R2
+= 1
+4
+ 
+ 
+The moment of inertia of the small disk of radius R/2 about an axis 
+through its CM is 
+ 
+ 
+ 
+Ismall disk = 1
+2 Msmall disk
+R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2
+1
+4 Mdisk
+⎡
+⎣⎢
+⎤
+⎦⎥
+R2
+4 = 1
+32 MdiskR2 
+ 
+Subtracting the moment of the small disk from the solid disk, we find 
+for the cam 
+ 
+ 
+ 
+Icam = Idisk −Ismall disk = 3
+4 MdiskR2 −1
+32 MdiskR2 
+ 
+ 
+ 
+Icam = MdiskR2 24
+32 −1
+32
+⎡
+⎣⎢
+⎤
+⎦⎥= 23
+32 MdiskR2 
+ 
+The mass of the cam is M = Mdisk −Msmall disk = Mdisk −1
+4 Mdisk = 3
+4 Mdisk, 
+therefore 
+ 
+ 
+ 
+Icam = 23
+32 MdiskR2
+M
+3
+4 Mdisk
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+= MR2
+23
+32
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 23
+24 MR2
+ 
+ 
+The moment of inertia of the cam-shaft is the sum of the moments of 
+the cam and the shaft: 
+ 
+ 
+ 
+Icam-shaft = Icam + Ishaft = 23
+24 MR2 + 1
+2 M R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= MR2 23
+24 + 1
+8
+⎡
+⎣⎢
+⎤
+⎦⎥= MR2 23
+24 + 3
+24
+⎡
+⎣⎢
+⎤
+⎦⎥
+Icam-shaft = 26
+24 MR2 = 13
+12 MR2
+ 
+ 
+The kinetic energy of the cam-shaft combination rotating with angular 
+speed ω is 
+ 
+ 
+ 
+K = 1
+2 Ican-shaftω 2 = 1
+2
+13
+12 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 = 13
+24 MR2ω 2
+
+--- PAGE 27 ---
+542     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.47 
+P10.47 
+(a) 
+Identify the two objects and the Earth as an 
+isolated system. The maximum speed of the 
+lighter object will occur when the rod is in the 
+vertical position so let’s define the time interval 
+as from when the system is released from rest to 
+when the rod reaches a vertical orientation. So, 
+for the isolated system, 
+ 
+ 
+ 
+ΔK + ΔU = 0
+1
+2 I1ω 2 +  1
+2 I2ω 2
+⎛
+⎝⎜
+⎞
+⎠⎟ − 0
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+             +  m1gy1 + m2gy2 − 0
+[
+] = 0
+ 
+ 
+ 
+ω  = 
+−2g m1y1 + m2y2
+(
+)
+I1 + I2
+ = 
+−2g m1y1 + m2y2
+(
+)
+m1r1
+2 + m2r2
+2
+    =   
+−2 9.80 m/s2
+(
+)
+0.120 kg
+(
+) 2.86 m
+(
+) +  60.0 kg
+(
+) −0.140 m
+(
+)
+⎡⎣
+⎤⎦
+0.120 kg
+(
+) 2.86 m
+(
+)
+2 + 60.0 kg
+(
+) 0.140 m
+(
+)
+2
+    = 8.55 rad/s
+ 
+ 
+ 
+Then, the tangential speed of the lighter object is, 
+ 
+ 
+ 
+v = rω = 2.86 m
+(
+)(8.55 rad/s) = 24.5 m/s 
+ 
+(b) No. The overall acceleration is not constant. It has to move either 
+in a straight line or parabolic path to have a chance of being 
+under constant acceleration. The circular path presented here 
+rules out that possibility. 
+ 
+(c) 
+No. It does not move with constant tangential acceleration, since 
+the angular acceleration is not constant. See explanation in part 
+(d). 
+ 
+(d) No. The lever arm of the gravitational force acting on the 60-kg 
+mass changes during the motion. As a result, the torque changes, 
+and so does the angular acceleration. 
+ 
+(e) 
+No. The angular velocity changes, therefore the angular 
+momentum of the trebuchet changes. 
+ 
+(f) 
+Yes. The mechanical energy stays constant because the system is 
+isolated—that is how we solved the problem in (a).
+
+--- PAGE 28 ---
+Chapter 10     543 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 10.8 
+Energy Considerations in Rotational Motion 
+P10.48 
+From the rigid object under a net torque model, 
+ 
+ 
+ 
+τ  = Iα    →   α  = 
+τ
+∑
+I  = 
+FR
+1
+2 MR2  =  2F
+MR
+∑
+ 
+ 
+From the definition of rotational kinetic energy and the rigid object 
+under constant angular acceleration model, 
+ 
+ 
+ 
+K = 1
+2 Iω 2 = 1
+2 I ω i + αt
+(
+)
+2 =  1
+2 Iα 2t2 = 1
+2
+1
+2 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2F
+MR
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+t2 
+=  F2t2
+M
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+K =   50.0 N
+(
+)
+2 3.00 s
+(
+)
+2
+800 N/9.80 m/s2  =  276 J
+ 
+P10.49 
+The moment of inertia of a thin rod about an axis through one end is 
+I = 1
+3 ML2 . The total rotational kinetic energy is given as 
+ 
+ 
+ 
+KR = 1
+2 Ihω h
+2 + 1
+2 Imωm
+2 
+ 
+with  
+Ih = mhLh
+2
+3
+= 60.0 kg 2.70 m
+(
+)
+2
+3
+= 146 kg ⋅m2 
+ 
+and  
+Im = mmLm
+2
+3
+= 100 kg 4.50 m
+(
+)
+2
+3
+= 675 kg ⋅m2 
+ 
+In addition,  
+ 
+ 
+ 
+ω h = 2π rad
+12 h
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.45 × 10−4 rad/s 
+ 
+while 
+ωm = 2π rad
+1 h
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.75 × 10−3 rad/s 
+ 
+Therefore,  
+ 
+ 
+ 
+KR = 1
+2 146 kg⋅m2
+(
+) 1.45 × 10−4 rad/s
+(
+)
+2
+                  + 1
+2 675 kg⋅m2
+(
+) 1.75 × 10−3 rad/s
+(
+)
+2
+= 1.04 × 10−3 J
+
+--- PAGE 29 ---
+544     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.50 
+*P10.50 
+Take the two objects, pulley, and Earth as the 
+system. If we neglect friction in the system, 
+then mechanical energy is conserved and we 
+can state that the increase in kinetic energy of 
+the system equals the decrease in potential 
+energy. Since Ki = 0  (the system is initially at 
+rest), we have 
+ 
+ 
+ΔK = K f −Ki
+= 1
+2 m1v2 + 1
+2 m2v2 + 1
+2 Iω 2  
+ 
+where m1 and m2 have a common speed. But 
+v = Rω so that ΔK = 1
+2 m1 + m2 + I
+R2
+(
+)v2 .  
+ 
+From ANS. FIG. P10.50, we see that the system loses potential energy 
+because of the motion of m1 and gains potential energy because of the 
+motion of m2. Applying the law of conservation of energy, 
+ΔK + ΔU = 0, gives  
+ 
+ 
+ 
+1
+2 m1 + m2 + I
+R2
+(
+)v2 + m2gh −m1gh = 0
+ 
+ 
+ 
+ 
+ 
+v =
+2 m1 −m2
+(
+)gh
+m1 + m2 + I
+R2
+ 
+ 
+Since v = Rω , the angular speed of the pulley at this instant is given by 
+ 
+ 
+ 
+ω = v
+R =
+2 m1 −m2
+(
+)gh
+m1R2 + m2R2 + I
+ 
+P10.51 
+For the nonisolated system of the top, 
+ 
+ 
+ 
+W = ΔK   →    FΔx =  1
+2 Iω 2 − 0
+⎛
+⎝⎜
+⎞
+⎠⎟
+  →   ω  = 
+2FΔx
+I
+ = 
+2 5.57 N
+(
+) 0.800 m
+(
+)
+4 × 10−4 kg · m2
+ =  149 rad/s
+ 
+P10.52 
+The power output of the bus is P = E
+Δt , where  
+ 
+ 
+ 
+E = 1
+2 Iω 2 = 1
+2
+1
+2 MR2ω 2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+4 MR2ω 2
+
+--- PAGE 30 ---
+Chapter 10     545 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+is the stored energy and Δt = d
+v
+ is the time it can roll. Then 
+1
+4 MR2ω 2 = PΔt = Pd
+v . The maximum range of the bus is then 
+d = MR2ω
+2v
+4P
+.
+ 
+ 
+For average P = 25.0 hp
+(
+) 746 W
+1 hp
+⎛
+⎝⎜
+⎞
+⎠⎟= 18 650 W and average  
+v =35.0 km/h = 9.72 m/s, the maximum range is 
+ 
+ 
+ 
+d = MR2ω 2v
+4P
+= 1 200 kg
+(
+) 0.500 m
+(
+)
+2 3 000⋅2π /60 s
+(
+)
+2 (9.72 m s)
+4 18 650 W
+(
+)
+= 3.86 km
+ 
+ 
+ The situation is impossible because the range is only 3.86 km,
+not city-wide. 
+ 
+P10.53 
+(a) 
+Apply ΔK + ΔU + ΔEint = 0, where ΔEint = fkd, µ = 0.250, and 
+fk = µn2 = µm2g. Both translational and rotational kinetic energy 
+are present in the system. vi = 0.820 m/s. Find v. The angular 
+speed of the pulley is ωi = vi/R2 , and ω = v/R2 . Mass m1 drops by 
+h = d when mass m2 moves distance d = 0.700 m. 
+I = 1
+2 M R1
+2 + R2
+2
+(
+), where R1 = 0.020 0 m, R2 = 0.030 0 m, and  
+M = 0.350 kg. 
+ 
+  
+ 
+K f −Ki
+(
+) + U f −U f
+(
+)  + ΔEint  = 0
+1
+2 m2v2 −1
+2 m2vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+2 m1v2 −1
+2 m1vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+               +
+1
+2 Iω 2 −1
+2 Iωi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ m1gy −m1gyi
+(
+) + fkd = 0
+ 
+ 
+  
+ 
+1
+2 m1 + m2
+(
+) v2 −vi
+2
+(
+) + 1
+2 I
+v
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−
+vi
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+                                            + m1g y −yi
+(
+) + µm2gd = 0
+
+--- PAGE 31 ---
+546     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+  
+ 
+1
+2 m1 + m2
+(
+) v2 −vi
+2
+(
+)
+                       + 1
+2
+1
+2 M R1
+2 + R2
+2
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v2 −vi
+2
+⎡⎣
+⎤⎦
+                                              + m1g −d
+(
+)+ µm2gd = 0
+1
+2 m1 + m2
+(
+) v2 −vi
+2
+(
+)
+                  + 1
+2
+1
+2 M 1+ R1
+2
+R2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥v2 −vi
+2
+⎡⎣
+⎤⎦= gd m1 −µm2
+(
+)
+1
+2
+m1 + m2
+(
+)+ 1
+2 M 1+ R1
+2
+R2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥v2 −vi
+2
+(
+) = gd m1 −µm2
+(
+)
+ 
+ 
+  
+ 
+v =  vi
+2 +
+ 4gd m1 − µkm2
+(
+)
+2 m1 + m2
+(
+) + M 1 +  R1
+2
+R2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎧
+⎨
+⎪⎪
+⎩
+⎪
+⎪
+⎫
+⎬
+⎪⎪
+⎭
+⎪
+⎪
+1/2
+ 
+ 
+  
+Suppressing units, 
+  
+ 
+v = 
+0.820
+(
+)
+2 +
+ 4 9.80
+(
+) 0.700
+(
+) 0.420 −  0.250
+(
+) 0.850
+(
+)
+[
+]
+2 0.420 + 0.850
+(
+) + 0.350 1 +  0.020 0
+(
+)
+2
+0.030 0
+(
+)
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎧
+⎨
+⎪
+⎪
+⎩
+⎪
+⎪
+⎫
+⎬
+⎪
+⎪
+⎭
+⎪
+⎪
+1/2
+= 1.59 m/s
+ 
+ 
+(b) 
+ω = v
+r = 1.59 m/s
+0.030 0 m = 53.1 rad/s 
+P10.54 
+(a) 
+For the isolated rod-ball-Earth system, 
+ 
+ 
+ 
+ΔK + ΔU = 0   →    K f  − 0
+(
+) +  0 − Ui
+(
+) = 0    →   K f  = Ui
+K f  = mrodgyCM, rod + mballgyCM, ball 
+      =  mrodyCM, rod + mballyCM, ball
+(
+)g
+      = 
+1.20 kg
+(
+) 0.120 m
+(
+) +  2.00 kg
+(
+) 0.280 m
+(
+)
+⎡⎣
+⎤⎦9.80 m/s2
+(
+)
+      =   6.90 J
+
+--- PAGE 32 ---
+Chapter 10     547 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) We assume the rod is thin. For the compound object 
+ 
+ 
+  
+I = 1
+3 MrodL2 + 2
+5 mballR2 + MballD2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1
+3 1.20 kg
+(
+) 0.240 m
+(
+)
+2
+            + 2
+5 2.00 kg
+(
+) 4.00 × 10−2 m
+(
+)
+2 + 2.00 kg
+(
+) 0.280 m
+(
+)
+2
+I = 0.181 kg⋅m2
+ 
+ 
+ 
+  
+K f = 1
+2ω 2   →   ω  =
+2K f
+I
+ =
+2 6.90 J
+(
+)
+0.181 kg · m2  = 8.73 rad/s
+ 
+ 
+(c) 
+v = rω = 0.280 m
+(
+) 8.73 rad/s
+(
+) = 2.44 m/s 
+ 
+(d) 
+v f
+2 = vi
+2 + 2a y f −yi
+(
+) 
+ 
+ 
+v f =
+0 + 2 9.80 m/s2
+(
+) 0.280 m
+(
+) = 2.34 m/s 
+ 
+ 
+ The speed it attains in swinging is greater by    
+ 
+ 
+2.44
+2.34 = 1.0432 times 
+P10.55 
+The gravitational force exerted on the reel is  
+ 
+ 
+ 
+mg = 5.10 kg
+(
+) 9.80 m/s2
+(
+) = 50.0 N down  
+ 
+ 
+We use ∑τ = Iα to find T and a. 
+ 
+First find I for the reel, which we know is a 
+uniform disk. 
+ 
+ 
+I = 1
+2 MR2 = 1
+2 3.00 kg
+(
+) 0.250 m
+(
+)
+2
+= 0.093 8 kg ⋅m2
+ 
+ 
+ The forces on the reel are shown in ANS. FIG. 
+P10.55, including a normal force exerted by its 
+axle. From the diagram, we can see that the 
+tension is the only force that produces a torque 
+causing the reel to rotate. 
+ 
+ 
+τ = Iα
+∑
+ becomes 
+ 
+ 
+n(0)+ Fgp(0)+T 0.250 m
+(
+) = 0.093 8 kg⋅m2
+(
+) a/0.250 m
+(
+) 
+[1] 
+ 
+ 
+where we have applied at = rα to the point of contact between string 
+ANS. FIG. P10.55
+
+--- PAGE 33 ---
+548     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and reel. For the object that moves down, 
+ 
+ 
+ 
+Fy = may
+∑
+becomes
+50.0 N – T = (5.10 kg)a 
+[2] 
+ 
+ 
+Note that we have defined downwards to be positive, so that positive 
+linear acceleration of the object corresponds to positive angular 
+acceleration of the reel. We now have our two equations in the 
+unknowns T and a for the two connected objects. Substituting T from 
+equation [2] into equation [1], we have 
+ 
+ 
+ 
+50.0 N −5.10 kg
+(
+)a
+⎡⎣
+⎤⎦0.250 m
+(
+) = 0.093 8 kg⋅m2
+(
+)
+a
+0.250 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+(b) Solving for a from above gives 
+ 
+ 
+ 
+50.0 N −5.10 kg
+(
+)a = 1.50 kg
+(
+)a
+a = 50.0 N
+6.60 kg = 7.57 m/s2
+ 
+ 
+ 
+Because we eliminated T in solving the simultaneous equations, 
+the answer for a, required for part (b), emerged first. No matter—
+we can now substitute back to get the answer to part (a). 
+ 
+ 
+(a) 
+T = 50.0 N – 5.10 kg (7.57 m/s
+2) = 11.4 N 
+ 
+ 
+(c) 
+For the motion of the hanging weight, 
+ 
+ 
+v f
+2 = vi
+2 + 2a y f – yi
+(
+) = 02 + 2 7.57 m s2
+(
+) 6.00 m
+(
+) 
+ 
+ 
+v f = 9.53 m/s (down) 
+ 
+ 
+(d) The isolated-system energy model can take account of multiple 
+objects more easily than Newton’s second law. Like your bratty 
+cousins, the equation for conservation of energy grows between 
+visits. Now it reads for the counterweight-reel-Earth system: 
+ 
+ 
+(K1 + K2 + Ug)i = (K1 + K2 + Ug)f 
+ 
+ 
+where K1 is the translational kinetic energy of the falling object 
+and K2 is the rotational kinetic energy of the reel. 
+ 
+ 
+0 + 0 + m1gy1i = 1
+2 m1v1 f
+2 + 1
+2 I2ω 2 f
+2 + 0
+ 
+ 
+ 
+Now note that ω = v/r as the string unwinds from the reel. 
+ 
+ 
+mgyi = 1
+2 mv2 + 1
+2 Iω 2
+
+--- PAGE 34 ---
+Chapter 10     549 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+2mgyi = mv2 + I
+v2
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= v2 m + I
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+v =
+2mgyi
+m+ I/R2
+(
+)
+=
+2 5.10 kg
+(
+) 9.80 m/s2
+(
+) 6.00 m
+(
+)
+5.10 kg + 0.093 8 kg⋅m2
+0.250 m
+(
+)
+2
+= 9.53 m/s
+ 
+ 
+P10.56 
+Each point on the cord moves at a linear speed of v = ωr, where r is 
+the radius of the spool. The energy conservation equation for the 
+counterweight-turntable-Earth system is: 
+ 
+ 
+ 
+(K1 + K2 + Ug)i + Wother = (K1 + K2 + Ug)f 
+ 
+ 
+Specializing, we have  
+ 
+ 
+ 
+ 
+0 + 0 + mgh + 0 = 1
+2 mv2 + 1
+2 Iω 2 + 0 
+ 
+ 
+ 
+mgh = 1
+2 mv2 + 1
+2 I v2
+r2
+ 
+ 
+ 
+ 
+2mgh– mv2 = I v2
+r2 
+ 
+ 
+and finally, 
+ 
+ 
+ 
+ 
+ 
+I = mr2
+2gh
+v2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P10.57 
+To identify the change in gravitational energy,  
+think of the height through which the center of  
+mass falls. From the parallel-axis theorem, the  
+moment of inertia of the disk about the pivot  
+point on the circumference is 
+ 
+ 
+ 
+I = ICM + MD2 = 1
+2 MR2 + MR2
+= 3
+2 MR2
+ 
+ 
+The pivot point is fixed, so the kinetic energy is entirely rotational 
+around the pivot. The equation for the isolated system (energy) model 
+ 
+ 
+ 
+(K + U)i = (K + U)f 
+ANS. FIG. P10.57
+
+--- PAGE 35 ---
+550     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+for the disk-Earth system becomes 
+ 
+ 
+ 
+ 
+ 
+0 + MgR = 1
+2
+3
+2 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 + 0 
+ 
+Solving for ω, 
+ω =
+4g
+3R 
+ 
+(a) 
+At the center of mass, 
+v = Rω = 2 Rg
+3
+ 
+ 
+(b) At the lowest point on the rim, v = 2Rω = 4 Rg
+3
+ 
+ 
+(c) 
+For a hoop, 
+ 
+ 
+ 
+ 
+ICM = MR2   and   Imin = 2MR2  
+ 
+ 
+By conservation of energy for the hoop-Earth system, then 
+ 
+ 
+ 
+MgR = 1
+2 2MR2
+(
+)ω 2 + 0
+ 
+ 
+ 
+so 
+ω =
+g
+R 
+ 
+and the center of mass moves at vCM = Rω =
+gR , slower than 
+the disk. 
+P10.58 
+(a) 
+The moment of inertia of the cord on the spool is 
+ 
+ 
+ 
+1
+2 M R1
+2 + R2
+2
+(
+) = 1
+2 0.100 kg
+(
+)
+0.015 0 m
+(
+)
+2 + 0.090 0 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 4.16 × 10−4 kg⋅m2
+ 
+ 
+ 
+The protruding strand has mass  
+ 
+ 
+ 
+1.00 × 10−2 kg/m
+(
+) 0.160 m
+(
+) = 1.60 × 10−3 kg 
+  
+ 
+and moment of inertia 
+ 
+ 
+ 
+I = ICM + Md2 = 1
+12 ML2 + Md2
+= 1.60 × 10−3 kg
+(
+)
+1
+12 0.160 m
+(
+)
+2 + 0.090 0 m + 0.080 0 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 4.97 × 10–5 kg⋅m2
+
+--- PAGE 36 ---
+Chapter 10     551 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For the whole cord, I = 4.66 × 10−4 kg ⋅m2 . In speeding up, the 
+average power is 
+ 
+ 
+ 
+P = E
+Δt =
+1
+2 Iω 2
+Δt
+= 4.66 × 10−4 kg⋅m2
+2 0.215 s
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+2 500⋅2π
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 74.3 W
+ 
+ 
+(b) 
+P = τω = 7.65 N
+(
+) 0.160 m + 0.090 0 m
+(
+) 2 000⋅2π
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 401 W 
+ 
+ 
+ 
+Section 10.9 
+Rolling Motion of a Rigid Object 
+P10.59 
+(a) 
+The kinetic energy of translation is  
+ 
+ 
+ 
+Ktrans = 1
+2 mv2 = 1
+2 10.0 kg
+(
+) 10.0 m/s
+(
+)
+2 = 500 J
+ 
+ 
+(b) Call the radius of the cylinder r. An observer at the center sees the 
+rough surface and the circumference of the cylinder moving at 
+10.0 m/s, so the angular speed of the cylinder is 
+ 
+ 
+ 
+ω = vCM
+r
+= 10.0 m/s
+r
+ 
+ 
+ 
+ 
+The moment of inertia about an axis through the center of mass is 
+ICM = 1
+2 mr2, so 
+ 
+ 
+ 
+ 
+Krot = 1
+2 Iω 2 = 1
+2
+1
+2 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+4 10.0 kg
+(
+) 10.0 m/s
+(
+)
+2
+= 250 J
+ 
+ 
+(c) 
+We can now add up the total energy: 
+ 
+ 
+ 
+Ktotal = Ktrans + Krot = 750 J 
+P10.60 
+Conservation of energy for the sphere rolling without slipping is 
+ 
+ 
+ 
+Ui = Ktranslation, f + Krotation, f 
+ 
+ 
+ 
+mgh = 1
+2 mv2 + 1
+2
+2
+5 mR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 7
+10 mv2 
+ 
+which gives 
+v f =
+10
+7 gh
+
+--- PAGE 37 ---
+552     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Conservation of energy for the sphere sliding without friction, with 
+ω = 0, is 
+ 
+ 
+ 
+mgh = 1
+2 mv2 
+ 
+which gives 
+v f =
+2gh 
+ 
+The time intervals required for the trips follow from x = 0 + vavgt: 
+ 
+ 
+ 
+h
+sinθ =
+0 + v f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟t
+→    t =
+2h
+v f sinθ
+ 
+ 
+For rolling we have t =
+2h
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+10
+7 gh 
+ 
+and for sliding, t =
+2h
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 gh 
+ 
+The time to roll is longer by a factor of (0.7/0.5)1/2 = 1.18. 
+ 
+P10.61 
+(a) 
+We can consider the weight force acting at the center of mass 
+(gravity) to exert a torque about the point of contact (the axis, in 
+this case) between the disk and the incline. Then, from the particle 
+under a net torque model, we have 
+ 
+ 
+ 
+τ = Iα   and   a = Rα 
+ 
+ 
+ 
+mgRsinθ = ICM + mR2
+(
+)α
+a = mgR2 sinθ
+ICM + mR2
+adisk = mgR2 sinθ
+3
+2 mR2
+= 2
+3 gsinθ
+ 
+ 
+(b) By the same method, 
+ 
+ 
+ 
+a = mgR2 sinθ
+ICM + mR2 
+ 
+ 
+ahoop = mgR2 sinθ
+2mR2
+= 1
+2 gsinθ. The acceleration of the hoop is
+smaller than that of the disk.
+
+--- PAGE 38 ---
+Chapter 10     553 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Torque about the CM is caused by friction because the lever arm 
+of the weight force is zero: 
+ 
+ 
+ 
+τ = f R = Iα
+f = µn = µmgcosθ
+µ =
+f
+mgcosθ =
+Iα R
+mgcosθ =
+2
+3 gsinθ
+⎛
+⎝
+⎞
+⎠
+1
+2 mR2
+⎛
+⎝
+⎞
+⎠
+R2mgcosθ
+=
+1
+3 tanθ
+ 
+P10.62 
+(a) 
+Both systems of cube-Earth and cylinder-Earth are isolated; 
+therefore, mechanical energy is conserved in both. The cylinder 
+has extra kinetic energy, in the form of rotational kinetic energy, 
+that is available to be transformed into potential energy, so it 
+travels farther up the incline. 
+ 
+(b) The system of cube-Earth is isolated, so mechanical energy is 
+conserved: 
+ 
+ 
+ 
+Ki = U f
+→
+1
+2 mv2 = mgdsinθ
+→
+d =
+v2
+2gsinθ
+ 
+ 
+ 
+Static friction does no work on the cylinder because it acts at the 
+point of contact and not through a distance; therefore, mechanical 
+energy is conserved in the cylinder-Earth system: 
+ 
+ 
+ 
+Ktranslation, i + Krotation, i = U f →1
+2 mv2 + 1
+2
+1
+2 mr2
+⎡
+⎣⎢
+⎤
+⎦⎥
+v
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= mgdsinθ
+ 
+ 
+ 
+which gives d =
+3v2
+4gsinθ . 
+ 
+ 
+The difference in distance is  
+ 
+ 
+ 
+ 
+3v2
+4gsinθ −
+v2
+2gsinθ =
+v2
+4gsinθ
+ 
+ 
+ 
+or, the cylinder travels 50% farther. 
+ 
+(c) 
+The cylinder does not lose mechanical energy because static 
+friction does no work on it. Its rotation means that it has 50%
+more kinetic energy than the cube at the start, and so it travels
+50% farther up the incline.
+ 
+P10.63 
+(a) 
+The disk reaches the bottom first  because the ratio of its moment 
+of inertia to its mass is smaller than for the hoop; this result is 
+independent of the radius.
+
+--- PAGE 39 ---
+554     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Both systems of disk-Earth and hoop-Earth are isolated because 
+static friction does no work because it acts at the point of contact 
+and not through a distance. Mechanical energy is conserved in 
+both systems: 
+ 
+ 
+ 
+K = 1
+2 mv2 + 1
+2 Iω 2 = 1
+2 m + I
+R2
+⎡
+⎣⎢
+⎤
+⎦⎥v2  
+ 
+ 
+where ω = v
+R
+ since no slipping occurs. 
+ 
+ 
+Also, Ui = mgh, U f = 0,  and  vi = 0 
+ 
+ 
+Therefore,  1
+2 m + I
+R2
+⎡
+⎣⎢
+⎤
+⎦⎥v2 = mgh 
+ 
+ 
+Thus, 
+v2 =
+2gh
+1+ I/mR2
+(
+)
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+For a disk, I = 1
+2 mR2 , so v2 = 2gh
+1+ 1
+2
+ or vdisk =
+4gh
+3
+ 
+ 
+ 
+For a hoop, I = mR
+2 so v2 = 2gh
+2
+ or vhoop =
+gh 
+ 
+ 
+Since vdisk > vhoop, the disk reaches the bottom first. 
+P10.64 
+(a) 
+Energy conservation for the system of the ball and the Earth 
+between the horizontal section and top of loop: 
+ 
+ 
+ 
+1
+2 mv2
+2 + 1
+2 Iω2
+2 + mgy2 = 1
+2 mv1
+2 + 1
+2 Iω1
+2
+1
+2 mv2
+2 + 1
+2
+2
+3 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mgy2 = 1
+2 mv1
+2 + 1
+2
+2
+3 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v1
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+5
+6 v2
+2 + gy2 = 5
+6 v1
+2
+ 
+ 
+ 
+ 
+ 
+v2 =
+v1
+2 −6
+5 gy2
+=
+4.03 m/s
+(
+)
+2 −6
+5 9.80 m/s2
+(
+) 0.900 m
+(
+)
+= 2.38 m/s
+
+--- PAGE 40 ---
+Chapter 10     555 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P10.64 
+ 
+(b) The centripetal acceleration at the top is  
+ 
+ 
+ 
+v2
+2
+r = 2.38 m/s
+(
+)
+2
+0.450 m
+= 12.6 m/s2 > g
+ 
+ 
+ 
+Thus, the ball must be in contact with the track, with the track 
+pushing downward on it. 
+ 
+(c) 
+1
+2 mv3
+2 + 1
+2
+2
+3 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v3
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mgy3 = 1
+2 mv1
+2 + 1
+2
+2
+3 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v1
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+v3 =
+v1
+2 −6
+5 gy3
+=
+4.03 m/s
+(
+)
+2 −6
+5 9.80 m/s2
+(
+) −0.200 m
+(
+)
+= 4.31 m/s
+ 
+ 
+(d) 
+1
+2 mv2
+2 + mgy2 = 1
+2 mv1
+2 
+ 
+ 
+v2 =
+v1
+2 −2gy2 =
+4.03 m/s
+(
+)
+2 −2 9.80 m/s2
+(
+) 0.900 m
+(
+)
+=
+−1.40 m2/s2 !
+ 
+ 
+(e) 
+This result is imaginary. In the case where the ball does not roll, 
+the ball starts with less kinetic energy than in part (a) and never 
+makes it to the top of the loop. 
+P10.65 
+(a) 
+For the isolated can-Earth system, 
+ 
+ 
+ΔK + ΔU = 0   →    1
+2 mvCM
+2
++ 1
+2 Iω 2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟ +  0 − mgh
+(
+) = 0 
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+I = 2mgh −mvCM
+2
+ω 2
+ =  2mgh −mvCM
+2
+(
+)
+r2
+vCM
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= mr2 2gh
+vCM
+2
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 41 ---
+556     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From the particle under constant acceleration model, 
+vCM, avg  = 0 + vCM
+2
+→vCM = 2vCM, avg  = 2d
+Δt 
+ 
+ 
+Therefore, the moment of inertia is 
+ 
+ 
+ 
+I = mr2 2gh Δt
+(
+)
+2
+4d2
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟= mr2 2g dsinθ
+(
+) Δt
+(
+)
+2
+4d2
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= mr2
+g sinθ
+(
+) Δt
+(
+)
+2
+2d
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+I =  0.215 kg
+(
+) 0.031 9 m
+(
+)
+2
+                 ×
+9.80 m/s2
+(
+) sin25.0°
+(
+) 1.50 s
+(
+)
+2
+2 3.00 m
+(
+)
+ − 1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+   =  1.21 × 10−4 kg · m2
+ 
+ 
+(b) The height of the can is unnecessary data. 
+ 
+(c) 
+The mass is not uniformly distributed; the density of the metal
+can is larger than that of the soup.
+ 
+ 
+ 
+ 
+Additional Problems 
+P10.66 
+When the rod is at angle θ from the vertical, the vertical weight force 
+mg is at the same angle from the vertical so that its torque about the 
+pivot is mg 
+2 sinθ . From the particle under a net torque model, 
+ 
+ 
+ 
+τ
+∑
+= Iα
+mg 
+2 sinθ = 1
+3 m2α
+α = 3
+2
+g
+sinθ →at =
+3
+2
+g
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟r
+For
+3
+2
+g
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟r > gsinθ →r > 2
+3 
+ 
+ANS. FIG. P10.66
+
+--- PAGE 42 ---
+Chapter 10     557 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+∴ About 1
+3 the length of the chimney will have a tangential 
+acceleration greater than gsinθ . 
+P10.67 
+(a) 
+The spool starts from rest, with zero rotational kinetic energy, and 
+accelerates to 8.00 rad/s. The work done to accomplish this is 
+given by the work-kinetic energy theorem: 
+ 
+ 
+ 
+W = ΔK = 1
+2 Iω f
+2 −1
+2 Iω i
+2 = 1
+2 I ω f
+2 −ω i
+2
+(
+),
+where
+I = 1
+2 mR2
+=
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟1.00 kg
+(
+) 0.500 m
+(
+)
+2
+8.00 rad s
+(
+)
+2 −0
+⎡⎣
+⎤⎦= 4.00 J
+ 
+ (b) The time interval can be found from   
+ 
+ 
+ω f = ω i +αt,     where
+α = a
+r = 2.50 m/s2
+0.500 m = 5.00 rad/s2
+ 
+ 
+ 
+Therefore,   
+ 
+ 
+ 
+t = ω f – ω i
+α
+= 8.00 rad/s – 0
+5.00 rad s2 = 1.60 s
+ 
+ 
+(c) 
+The spool turns through angular displacement  
+ 
+ 
+ 
+θ f = θi +ω it + 1
+2αt2
+= 0 + 0 + 1
+2 (5.00 rad/s2)(1.60 s)2 = 6.40 rad
+  
+ 
+ 
+The length pulled from the spool is 
+ 
+ 
+ 
+s = rθ = (0.500 m)(6.40 rad) = 3.20 m 
+ 
+ 
+When the spool reaches an angular velocity of 8.00 rad/s, 1.60 s 
+will have elapsed and 3.20 m of cord will have been removed 
+from the spool. Remaining on the spool will be  0.800 m . 
+P10.68 
+(a) 
+We consider the elevator-sheave-counterweight-Earth system, 
+including n passengers, as an isolated system and apply the 
+conservation of mechanical energy. We take the initial 
+configuration, at the moment the drive mechanism switches off, 
+as representing zero gravitational potential energy of the system.
+
+--- PAGE 43 ---
+558     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore, the initial mechanical energy of the system [elevator 
+(e), counterweight (c), sheave (s)] is 
+ 
+ 
+ 
+Ei = Ki +Ui = 1
+2 mev2 + 1
+2 mcv2 + 1
+2 Isω 2 + 0
+= 1
+2 mev2 + 1
+2 mcv2 + 1
+2
+1
+2 msr2
+⎡
+⎣⎢
+⎤
+⎦⎥
+v
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2 me + mc + 1
+2 ms
+⎡
+⎣⎢
+⎤
+⎦⎥v2
+ 
+ 
+ 
+The final mechanical energy of the system is entirely gravitational 
+because the system is momentarily at rest: 
+ 
+ 
+ 
+E f = K f +U f = 0 + megd −mcgd 
+ 
+ 
+where we have recognized that the elevator car goes up by the 
+same distance d that the counterweight goes down. Setting the 
+initial and final energies of the system equal to each other, we 
+have  
+ 
+ 
+ 
+ 
+1
+2 me + mc + 1
+2 ms
+⎡
+⎣⎢
+⎤
+⎦⎥v2 = me −mc
+(
+)gd
+ 
+ 
+ 
+ 
+1
+2
+800 kg + n 80.0 kg
+(
+)
+⎡⎣
+⎤⎦+ 950 kg + 140 kg
+{
+} 3.00 m/s
+(
+)
+2
+                           = 800 kg + n 80.0 kg
+(
+)−950 kg
+⎡⎣
+⎤⎦(9.80 m/s2)d
+ 
+ 
+ 
+ 
+ 
+d = 1890 + 80n
+(
+)
+0.459m
+80n−150
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) For n = 2:  d = 1890 + 80.0 × 2
+(
+)
+0.459m
+80.0 × 2 −150
+(
+) = 94.1 m 
+ 
+(c) 
+For n = 12:  d = 1890 + 80.0 × 12
+(
+)
+0.459 m
+80.0 × 12 −150
+(
+) = 1.62 m 
+ 
+(d) For n = 0:  d = 1890 + 80.0 × 0
+(
+)
+0.459 m
+80.0 × 0 −150
+(
+) = −5.79 m 
+ 
+(e) 
+The raising car will coast to a stop only for n ≥2. 
+ 
+(f) 
+For n = 0 or n = 1, the mass of the elevator is less than the counter-
+weight, so the car would accelerate upward if released.
+ 
+ 
+(g) For n→∞, d →80n 0.459 m
+(
+)/ 80n
+(
+) = 0.459 m
+
+--- PAGE 44 ---
+Chapter 10     559 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.69 
+(a) 
+We find the angular speed by integrating the angular 
+acceleration, which is given as α = −10.0 −5.00t = dω
+dt
+, where α is 
+in rad/s
+2 and t is in seconds: 
+ 
+ 
+ 
+Δω =
+dω
+65.0
+ω
+∫
+=
+−10.0 −5.00t
+[
+]dt
+0
+t
+∫
+ω −65.0 = −10.0t −2.50t2 →ω = 65.0 −10.0t −2.50t2
+ 
+ 
+ 
+where ω is in rad/s and t is in seconds. 
+ 
+ 
+For t = 3.00 s: ω = 65.0 −10.0 3.00
+(
+) −2.50 3.00
+(
+)
+2 = 12.5rad/s. 
+ 
+(b) 
+ω = dθ
+dt = 65.0 rad/s −10.0 rad/s2
+(
+)t −2.50 rad/s3
+(
+)t2 
+ 
+ 
+Suppressing units, 
+ 
+ 
+ 
+ 
+Δθ =
+ω dt
+0
+t
+∫
+=
+65.0 −10.0t −2.50t2
+⎡⎣
+⎤⎦dt
+0
+t
+∫
+Δθ = 65.0t −5.00t2 −2.50 3
+(
+)t3
+Δθ = 65.0t −5.00t2 −0.833t3
+ 
+ 
+ 
+At t = 3.00 s, 
+ 
+ 
+ 
+ 
+Δθ = 65.0 rad s
+(
+) 3.00 s
+(
+)−5.00 rad s2
+(
+) 9.00 s2
+(
+)
+                                                      −0.833 rad s3
+(
+) 27.0 s3
+(
+)
+Δθ = 128 rad
+ 
+P10.70 
+(a) 
+We find the angular speed by integrating the angular 
+acceleration, which is given as α t( ) = A + Bt = dω
+dt
+, where the shaft 
+is turning at angular speed ω at time t = 0. 
+ 
+ 
+ 
+Δω =
+dω
+ω(0)
+ω(t)
+∫
+=
+A + Bt
+[
+]dt
+0
+t
+∫
+ω(t) −ω(0) = At + 1
+2 Bt2, and ω(0) = ω →ω(t) = ω + At + 1
+2 Bt2
+ 
+ 
+(b) 
+dθ
+dt = ω + At + 1
+2 Bt2
+
+--- PAGE 45 ---
+560     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Δθ =
+ω(t)dt
+0
+t
+∫
+=
+ω + At + 1
+2 Bt2
+⎡
+⎣⎢
+⎤
+⎦⎥dt
+0
+t
+∫
+Δθ = ωt + 1
+2 At2 + 1
+6 Bt3
+ 
+*P10.71 
+The resistive force on each ball is R = DρAv2. Here v = rω, where r is 
+the radius of each ball’s path. The resistive torque on each ball is 
+τ = rR, so the total resistive torque on the three-ball system is 
+τ total = 3rR. 
+ 
+The power required to maintain a constant rotation rate is 
+P = τ totalω = 3rRω. This required power may be written as  
+ 
+ 
+P = τ totalω = 3r DρA rω
+(
+)2
+⎡⎣
+⎤⎦ω = 3r3DAω 3
+(
+)ρ 
+ 
+with 
+ 
+ 
+ω = 2π rad
+1 rev
+103 rev
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60.0 s
+(
+) = 1 000π
+30.0 rad/s
+ 
+ 
+Then 
+ 
+ 
+P = 3 0.100 m
+(
+)3 0.600
+(
+) 4.00 × 10−4 m2
+(
+) 1 000π
+30.0 s
+⎛
+⎝
+⎞
+⎠
+3
+ρ
+ 
+ 
+or 
+P = 0.827 m5 s3
+(
+)ρ , where ρ is the density of the resisting 
+medium. 
+ 
+(a) 
+In air, ρ = 1.20 kg/m3, and  
+ 
+ 
+ 
+P = 0.827 m5 s3
+(
+) 1.20 kg/m3
+(
+) = 0.992 N ⋅m/s = 0.992 W 
+ 
+(b) In water, ρ = 1 000 kg/m3 and P = 827 W . 
+*P10.72 
+Consider the total weight of each hand to act at the center of gravity 
+(midpoint) of that hand. Then the total torque (taking CCW as 
+positive) of these hands about the center of the clock is given by 
+ 
+ 
+ 
+τ = −mhg Lh
+2( )sinθh −mmg Lm
+2(
+)sinθm
+= −g
+2 mhLh sinθh + mmLm sinθm
+(
+)
+ 
+ 
+If we take t = 0 at 12 o’clock, then the angular positions of the hands at 
+time t are θh = ω ht, where ω h = π
+6 rad h and θm = ωmt, where 
+ωm = 2π rad h. Therefore,
+
+--- PAGE 46 ---
+Chapter 10     561 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+τ = −4.90 m/s2
+(
+)
+        ×
+60.0 kg
+(
+) 2.70 m
+(
+)sin πt
+6( ) + 100 kg
+(
+) 4.50 m
+(
+)sin2πt
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+or 
+ 
+τ = −794 N ⋅m
+(
+) sin πt
+6( ) + 2.78sin2πt
+⎡
+⎣⎢
+⎤
+⎦⎥, where t is in hours. 
+ 
+(a) 
+(i) 
+At 3:00, t = 3.00 h, so 
+ 
+ 
+ 
+ 
+ 
+τ = −794 N ⋅m
+(
+) sin π
+2( ) + 2.78sin6π
+⎡
+⎣⎢
+⎤
+⎦⎥= −794 N ⋅m 
+ 
+ 
+(ii) At 5:15, t = 5 h + 15
+60 h = 5.25 h, and substitution gives: 
+ 
+ 
+ 
+τ = −2 510 N ⋅m 
+ 
+ 
+(iii) At 6:00, τ = 0 N ⋅m 
+ 
+ 
+(iv) At 8:20, τ = −1 160 N ⋅m 
+ 
+ 
+(v) At 9:45, τ = 2 940 N⋅m 
+ 
+(b) The total torque is zero at those times when 
+ 
+ 
+ 
+sin πt
+6( ) + 2.78sin2πt = 0 
+ 
+We proceed numerically, to find 0, 0.515 295 5, ..., corresponding 
+to the times 
+12:00:00 
+12:30:55 
+12:58:19 
+1:32:31 
+1:57:01 
+2:33:25 
+2:56:29 
+3:33:22 
+3:56:55 
+4:32:24 
+4:58:14 
+5:30:52 
+6:00:00 
+6:29:08 
+7:01:46 
+7:27:36 
+8:03:05 
+8:26:38 
+9:03:31 
+9:26:35 
+10:02:59 
+10:27:29 
+11:01:41 
+11:29:05
+
+--- PAGE 47 ---
+562     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.73 
+(a) 
+Since only conservative forces are acting 
+on the bar, we have conservation of 
+energy of the bar-Earth system: 
+ 
+ 
+ 
+Ki + Ui = Kf + Uf 
+ 
+ 
+ 
+For evaluation of the gravitational energy 
+of the system, a rigid body can be 
+modeled as a particle at its center of mass. 
+Take the zero configuration for potential 
+energy for the bar-Earth system with the 
+bar horizontal. 
+ 
+ 
+ 
+Under these conditions, Uf = 0 and Ui = MgL/2. 
+ 
+ 
+ 
+Using the conservation of energy equation above,  
+ 
+ 
+ 
+ 
+0 + 1
+2 MgL = 1
+2 Iω f
+2  and  ω f =
+MgL/I 
+ 
+ 
+ 
+For a bar rotating about an axis through one end, I = ML
+2/3. 
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+ 
+ 
+ω f =
+MgL
+1
+3 ML2 =
+3g
+L
+ 
+ 
+ 
+ 
+Note that we have chosen clockwise rotation as positive. 
+ 
+(b) 
+τ = Iα:
+∑
+    Mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+3 ML2
+⎛
+⎝⎜
+⎞
+⎠⎟α  and  α = 3g
+2L
+ 
+ 
+  
+(c) 
+ax = –ac = –rω f
+2 = – L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3g
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= −3g
+2
+ 
+ 
+ 
+ 
+Since this is centripetal acceleration, it is directed along the 
+negative horizontal. 
+ 
+ 
+ 
+ 
+ay = –at = –rα = L
+2 α = −3g
+4
+ 
+ 
+ 
+ 
+ 
+a = −3
+2 gˆi −3
+4 gˆj 
+ANS. FIG. P10.73
+
+--- PAGE 48 ---
+Chapter 10     563 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The pivot exerts a force 
+
+F on the rod. Using Newton’s second 
+law, we find 
+ 
+  
+Fx = Max = −3
+2 Mg
+Fy −Mg = May = −3
+4 Mg →Fy = Mg −3
+4 Mg = 1
+4 Mg
+
+F = Ma = −3
+2 Mgˆi + 1
+4 Mgˆj
+ 
+P10.74 
+We assume that air resistance has a negligible effect on a drop so that 
+mechanical energy is conserved in the drop-Earth system. The first 
+drop leaving the wheel has a velocity v1 directed upward. The 
+magnitude of this velocity is found from 
+ 
+ 
+ 
+Ki +Ugi = K f +Ugf
+1
+2 mv1
+2 + 0 = 0 + mgh1
+ 
+ 
+so 
+ 
+v1 =
+2gh1 =
+2 9.80 m/s2
+(
+) 0.540 m
+(
+) = 3.25 m/s 
+ 
+Similarly, the second drop has a velocity given by 
+ 
+ 
+ 
+v2 =
+2gh2 =
+2 9.80 m/s2
+(
+) 0.510 m
+(
+) = 3.16 m/s 
+ 
+From ω = v
+r , we find 
+ 
+ 
+ 
+ω1 = v1
+r = 3.25 m s
+0.381 m = 8.53 rad s   
+ 
+and  
+ω2 = v2
+r = 3.16 m s
+0.381 m = 8.29 rad s 
+ 
+or 
+ 
+α = ω2
+2 −ω1
+2
+2Δθ
+= 8.29 rad s
+(
+)
+2 −8.53 rad s
+(
+)
+2
+4π
+= −0.322 rad s2 
+P10.75 
+We assume that air resistance has a negligible effect on a drop so that 
+mechanical energy is conserved in the drop-Earth system. At the 
+instant it comes off the wheel, the first drop has a velocity v1 directed 
+upward. The magnitude of this velocity is found from 
+ 
+ 
+ 
+Ki +Ugi = K f +Ugf
+1
+2 mv1
+2 + 0 = 0 + mgh1 or v1 =
+2gh1
+
+--- PAGE 49 ---
+564     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angular velocity of the wheel at the instant the first drop leaves is 
+ 
+ 
+ 
+ω1 = v1
+R =
+2gh1
+R2
+ 
+ 
+Similarly for the second drop: v2 =
+2gh2 and ω 2 = v2
+R =
+2gh2
+R2
+ 
+ 
+The angular acceleration of the wheel is then 
+ 
+ 
+ 
+a = ω 2
+2 −ω1
+2
+2Δθ
+= 2gh2 /R2 −2gh1 /R2
+2 2π
+(
+)
+=
+g h2 −h1
+(
+)
+2πR2
+ 
+P10.76 
+(a) 
+Modeling the Earth as a sphere, its rotational kinetic energy is 
+ 
+ 
+ 
+K = 1
+2
+2
+5 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2
+(
+)
+= 1
+2
+2
+5 5.98 × 1024 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+2π
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.57 × 1029 J
+ 
+ 
+(b) The change in rotational kinetic energy is found by differentiating 
+the equation for rotational kinetic energy with respect to time: 
+ 
+ 
+ 
+dK
+dt = d
+dt
+1
+2
+2
+5 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 1
+5 MR2 2π
+(
+)
+2 −2T −3
+(
+) dT
+dt
+= 1
+5 MR2 2π
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 −2
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+dT
+dt = K −2
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+dT
+dt
+ 
+ 
+ 
+Substituting, 
+ 
+ 
+  
+dK
+dt = 2.57 × 1029 J
+(
+)
+−2
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+10 × 10−6 s
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟86 400 s day
+(
+)
+= −1.63 × 1017 J day
+ 
+P10.77 
+(a) 
+We apply the particle under a net force 
+model to each block.  
+ 
+ 
+(b) We apply the  
+rigid object under a net torque model 
+to the pulley.  
+ 
+ANS. FIG. P10.77
+
+--- PAGE 50 ---
+Chapter 10     565 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We use ∑F = ma for each block to find each string tension. The 
+forces acting on the 15-kg block are its weight, the normal 
+support from the incline, and T1. Taking the positive x axis as 
+directed up the incline, 
+ 
+ 
+  
+∑Fx = max  
+yields: 
+−(m1g)x + T1 = m1(+a) 
+ 
+ 
+Solving and substituting known values, we have 
+ 
+ 
+  
+T1 = m1(+a)+ m1g
+(
+)x
+= 15.0 kg
+(
+) 2.00 m/s2
+(
+)+ 15.0 kg
+(
+) 9.80 m/s2
+(
+) sin37.0°
+= 118 N
+  
+ 
+ 
+(d) Similarly, for the counterweight, we have 
+ 
+ 
+  
+Fy = may
+∑
+  or   T2 −m2g = m2(–a) 
+ 
+ 
+  
+T2 = m2g + m2(−a)
+= 20.0 kg
+(
+) 9.80 m/s2
+(
+)+ 20.0 kg
+(
+) −2.00 m/s2
+(
+)
+= 156 N
+ 
+ 
+(e) 
+Now for the pulley, 
+ 
+ 
+ 
+ 
+∑τ = r(T2 − T1) = Iα = I a/r 
+ 
+ 
+so   I = r2
+a T2 −T1
+(
+) 
+ 
+ 
+where we have chosen to call clockwise positive. 
+ 
+(f) 
+Computing from above, the pulley’s rotational inertia is  
+ 
+ 
+ 
+I = r2
+a T2 −T1
+(
+) = 156 N −118 N
+(
+) 0.250 m
+(
+)
+2
+2.00 m s2
+= 1.17 kg⋅m2
+ 
+P10.78 
+Choosing positive linear quantities to be 
+downwards and positive angular quantities to be 
+clockwise, 
+Fy = may
+∑
+ yields 
+ 
+ 
+ 
+F = Mg −TM = a     or     a = Mg −T
+M
+∑
+ 
+ 
+τ = Iα
+∑
+ then becomes 
+ 
+ 
+ 
+τ = TR = Iα = 1
+2 MR2
+a
+R
+⎛
+⎝
+⎞
+⎠   so   a = 2T
+M
+∑
+ 
+ANS. FIG. P10.78
+
+--- PAGE 51 ---
+566     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Setting these two expressions equal, 
+ 
+ 
+ 
+ 
+Mg −T
+M
+= 2T
+M
+and
+T = Mg/3
+ 
+(b) Substituting back, 
+ 
+  
+a = 2T
+M = 2Mg
+3M
+or
+a = 2
+3 g
+ 
+ 
+(c) 
+Since vi = 0 and a = 2
+3 g, v f
+2 = vi
+2 + 2ah gives us v f
+2 = 0 + 2 2
+3 g
+⎛
+⎝⎜
+⎞
+⎠⎟h, 
+ 
+ 
+or 
+v f =
+4gh/3 
+ 
+ 
+ 
+(d) Now we verify this answer. Requiring conservation of mechanical 
+energy for the disk-Earth system, we have  
+ 
+ 
+ 
+ 
+Ui + Krot, i + Ktrans, i = Uf + Krot, f + Ktrans, f 
+ 
+ 
+ 
+ 
+mgh + 0 + 0 = 0 + 1
+2 Iω 2 + 1
+2 mv2
+ 
+ 
+ 
+ 
+ 
+mgh = 1
+2
+1
+2 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 + 1
+2 Mv2
+ 
+ 
+When there is no slipping, ω = v
+R
+ and v =
+4gh
+3 . 
+ 
+The answer is the same. 
+P10.79 
+The block and end of the spring are pulled a  
+distance d up the incline and then released.  
+The angular speed of the reel and the speed  
+of the block are related by v = ωR. The  
+block-reel-Earth system is isolated, so 
+ 
+ 
+ 
+ΔK + ΔU = 0 →K f −Ki +U f −Ui = 0 
+ 
+ 
+ 
+1
+2 mv2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+2 Iω 2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟
+                    + 0 −mgdsinθ
+(
+) + 0 −1
+2 kd2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+ 
+ 
+ 
+ 
+1
+2ω 2 I + mR2
+(
+) = mgdsinθ + 1
+2 kd2 
+ANS. FIG. P10.79
+
+--- PAGE 52 ---
+Chapter 10     567 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ω =
+2mgdsinθ + kd2
+I + mR2
+ 
+P10.80 
+The center of gravity of the uniform board is at its 
+middle. For the board just starting to move, 
+ 
+ 
+ 
+τ
+∑
+= Iα:
+          mg 
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ =
+1
+3 m2
+⎛
+⎝⎜
+⎞
+⎠⎟α
+α = 3
+2
+g
+
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ
+ 
+ 
+The tangential acceleration of the end is at = α = 3
+2 gcosθ 
+ 
+and its vertical component is ay = at cosθ = 3
+2 gcos2θ. 
+ 
+If this is greater than g, the board will pull ahead of the falling ball: 
+ 
+(a) 
+3
+2 gcos2θ ≥g gives cos2θ ≥2
+3
+   so   cosθ ≥
+2
+3
+   and   θ ≤35.3° 
+ 
+(b) When θ = 35.3°, the cup will land underneath the release point of 
+the ball if rc = cosθ. 
+ 
+ 
+When = 1.00 m and θ = 35.3°,        
+ 
+ 
+ 
+rc = 1.00 m 2
+3 = 0.816 m 
+ 
+ 
+so the cup should be 
+ 
+ 
+ 
+– rc = 1.00 m−0.816 m = 0.184 m from the moving end  
+P10.81 
+For the isolated sphere-Earth system, energy is conserved, 
+ 
+so  
+ 
+ 
+ 
+ΔU + ΔKrot + ΔK trans = 0 
+ 
+ 
+ 
+mg R −r
+(
+) cosθ −1
+(
+) + 1
+2 mv2 −0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2
+2
+5 mr2
+⎡
+⎣⎢
+⎤
+⎦⎥ω 2 = 0 
+ANS. FIG. P10.80
+
+--- PAGE 53 ---
+568     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting v = rω, we obtain 
+ 
+ 
+ 
+mg R −r
+(
+) cosθ −1
+(
+)+ 1
+2 m rω
+(
+)
+2 −0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2
+2
+5 mr2
+⎡
+⎣⎢
+⎤
+⎦⎥ω 2 = 0
+mg R −r
+(
+) cosθ −1
+(
+)+ 1
+2 + 1
+5
+⎡
+⎣⎢
+⎤
+⎦⎥mr2ω 2 = 0
+ 
+ 
+ 
+ 
+ω =
+10
+7
+⎛
+⎝⎜
+⎞
+⎠⎟
+R −r
+(
+) 1−cosθ
+(
+)g
+r2
+ 
+ 
+ANS. FIG. P10.81 
+P10.82 
+(a) 
+From the particle under a net force model in the x 
+direction, we have  
+ 
+ 
+ 
+Fx
+∑
+= F + f = MaCM 
+ 
+ 
+From the particle under a net torque model, 
+ 
+ 
+ 
+τ
+∑
+= FR −fR = Iα 
+ 
+ 
+Combining the two equations, and noting that I = 1
+2 MR2, gives 
+ 
+ 
+ 
+FR −MaCM −F
+(
+)R = IaCM
+R
+aCM = 4F
+3M
+ 
+ 
+(b) Assuming friction is to the right, then 
+ 
+ 
+ 
+f + F = MaCM = M
+4F
+3M
+⎛
+⎝⎜
+⎞
+⎠⎟
+→f = M
+4F
+3M
+⎛
+⎝⎜
+⎞
+⎠⎟−F =
+1
+3 F
+ 
+ 
+ 
+The facts that (1) we assumed that friction is to the right in Figure 
+P10.82 and (2) our value for f comes out positive indicate that the 
+friction force must indeed be to the right. 
+ANS. FIG. P10.82
+
+--- PAGE 54 ---
+Chapter 10     569 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+From the kinematic equations, 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2a x f −xi
+(
+)
+= 0 + 2ad
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+v f =
+2ad =
+8Fd
+3M
+ 
+P10.83 
+(a) 
+ΔKrot + ΔKtrans + ΔU = 0 
+ 
+ 
+Note that initially the center of mass of 
+the sphere is slightly higher than the 
+distance h above the bottom of the 
+loop; and as the mass reaches the top 
+of the loop, this distance above the 
+reference level is 2R – r, but we are told 
+that r << R, so we ignore r when 
+considering heights for the gravitational 
+potential energy of the sphere-Earth system. The conservation of 
+energy requirement gives 
+ 
+ 
+ 
+mgh = mg 2R
+(
+) + 1
+2 mv2 + 1
+2 Iω 2 
+ 
+ 
+For the sphere I = 2
+5 mr2 and v = rω, so that the expression 
+becomes 
+ 
+ 
+ 
+gh = 2gR + 7
+10 v2  
+[1] 
+ 
+ 
+Note that  h = hmin when the speed of the sphere at the top of the 
+loop satisfies the condition 
+ 
+ 
+  
+F = mg = mv2
+R
+∑
+   or   v2 = gR
+  
+ 
+ 
+Substituting this into equation [1] gives 
+ 
+ 
+  
+hmin = 2R + 0.700R or hmin = 2.70R 
+ 
+(b) When the sphere is initially at  h = 3R and finally at point P, the 
+conservation of energy equation gives 
+ 
+ 
+  
+mg3R = mgR + 1
+2 mv2 + 1
+5 mv2 , or v2 = 20
+7 Rg 
+ANS. FIG. P10.83
+
+--- PAGE 55 ---
+570     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Turning clockwise as it rolls without slipping past point P, the 
+sphere is slowing down with counterclockwise angular 
+acceleration caused by the torque of an upward force f of static 
+friction. We have  
+ 
+ 
+ 
+Fy = may
+∑
+→
+f −mg = −mαr 
+ 
+ 
+and 
+τ
+∑
+= Iα →fr =
+2
+5
+⎛
+⎝⎜
+⎞
+⎠⎟mr2α. 
+ 
+ 
+Eliminating f by substitution yields  
+ 
+ 
+ 
+α = 5g
+7r so that 
+Fy = −5
+7 mg
+∑
+ 
+P10.84 
+The length of the rod is L, and the horizontal force is applied the 
+vertical distance L from the hinge. Consider the free-body diagram 
+shown. The sum of torques about the chosen pivot is 
+ 
+ 
+ 
+τ = Iα ⇒F
+∑
+=
+1
+3 mL2
+⎛
+⎝⎜
+⎞
+⎠⎟
+aCM
+L/2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+2
+3 mL
+⎛
+⎝⎜
+⎞
+⎠⎟aCM 
+ [1] 
+ 
+(a) 
+= L = 1.24 m: In this case, equation [1] becomes 
+ 
+ 
+ 
+aCM = 3F
+2m = 3 14.7 N
+(
+)
+2 0.630 kg
+(
+)
+= 35.0 m/s2 
+ 
+ANS. FIG. P10.84 
+ 
+(b) We apply the particle under a net force model in the horizontal 
+direction (see ANS. FIG. P10.84 for the labelling of forces): 
+ 
+ 
+ 
+ 
+Fx
+∑
+= maCM ⇒F + Hx = maCM 
+ 
+ 
+or  
+Hx = maCM −F 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+ 
+Hx = 0.630 kg
+(
+) 35.0 m/s2
+(
+) −14.7 N = +7.35 N
+
+--- PAGE 56 ---
+Chapter 10     571 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or  
+
+Hx = 7.35ˆi N 
+ 
+(c) 
+With = 1
+2 L = 0.620 m , equation [1] yields 
+ 
+ 
+ 
+aCM = 3F
+4m = 3 14.7 N
+(
+)
+4 0.630 kg
+(
+)
+= 17.5 m s2 
+ 
+(d) Again, 
+Fx
+∑
+= maCM ⇒Hx = maCM −F, so 
+ 
+ 
+ 
+ 
+Hx = 0.630 kg
+(
+) 17.5 m/s2
+(
+) −14.7 N = −3.68 N    
+ 
+ 
+or  
+Hx = −3.68ˆi N 
+ 
+(e) 
+If Hx = 0, then 
+Fx = maCM ⇒F = maCM
+∑
+,   or   aCM = F
+m. 
+ 
+ 
+Thus, equation [1] becomes 
+ 
+ 
+ 
+ 
+F=
+2
+3 mL
+⎛
+⎝⎜
+⎞
+⎠⎟
+F
+m
+⎛
+⎝⎜
+⎞
+⎠⎟    
+ 
+ 
+so   = 2
+3 L = 2
+3 1.24 m
+(
+) = 0.827 m (from the top) 
+P10.85 
+Note that when the CM of the falling rod is very near the surface, the 
+velocity of the end of the rod in contact with the surface is a 
+combination of the downward motion of the CM and the upward 
+motion of the rotating end: vend = vCM −ωr. Because the velocity of this 
+end relative to the surface is zero, 
+ 
+ 
+ 
+vend = vCM −ω h/2
+(
+) = 0 →vCM = ω h/2
+(
+)t 
+ 
+(a) 
+There are no horizontal forces acting on the rod, so the center of 
+mass (CM) will not move horizontally. Rather, the center of mass 
+drops straight downward (distance h/2) with the rod rotating 
+about the center of mass as it falls. 
+ 
+ 
+From conservation of energy: 
+ 
+ 
+ 
+K f +Ugf = Ki +Ugi 
+ 
+ 
+ 
+1
+2 MvCM
+2
++ 1
+2 Iω 2 + 0 = 0 + Mg h
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ or 
+ 
+ 
+ 
+1
+2 MvCM
+2
++ 1
+2
+1
+12 Mh2
+⎛
+⎝⎜
+⎞
+⎠⎟
+vCM
+h/2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= Mg h
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 57 ---
+572     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which reduces to 
+ 
+ 
+ 
+vCM =
+3gh
+4
+ 
+ 
+(b) In this case, the motion is a pure rotation about a fixed pivot point 
+(the lower end of the rod) with the center of mass moving in a 
+circular path of radius h/2. From conservation of energy: 
+ 
+ 
+ 
+K f +Ugf = Ki +Ugi 
+ 
+ 
+ 
+1
+2 Iω 2 + 0 = 0 + Mg h
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ or 
+ 
+ 
+ 
+1
+2
+1
+3 Mh2
+⎛
+⎝⎜
+⎞
+⎠⎟
+vCM
+h/2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= Mg h
+2
+⎛
+⎝⎜
+⎞
+⎠⎟  
+ 
+ 
+which reduces to 
+ 
+ 
+ 
+vCM =
+3gh
+4
+ 
+P10.86 
+The grape-Earth system is isolated, so 
+mechanical energy in that system is 
+conserved. Between top of the 
+clown’s head and the point where the 
+grape leaves the surface: 
+ 
+ 
+Ki +Ui = K f +U f 
+ 
+ 
+0 + mgΔy = 1
+2 mv f
+2 + 1
+2 Iω f
+2 + 0 
+ 
+ 
+mgR 1−cosθ
+(
+)
+      = 1
+2 mv f
+2 + 1
+2
+2
+5 mR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v f
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+which gives  
+ 
+ 
+ 
+g 1−cosθ
+(
+) = 7
+10
+v f
+2
+R
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+[1] 
+ 
+Consider the radial forces acting on the grape: 
+ 
+ 
+ 
+mgcosθ −n =
+mv f
+2
+R
+ 
+ANS. FIG. P10.86
+
+--- PAGE 58 ---
+Chapter 10     573 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+At the point where the grape leaves the surface, n →0. Thus,  
+ 
+ 
+ 
+mgcosθ = mv f
+2
+R     or     v f
+2
+R = gcosθ
+ 
+ 
+Substituting this into equation [1] gives 
+ 
+ 
+ 
+g −gcosθ = 7
+10 gcosθ  
+ 
+or  
+ 
+θ = cos−1 10
+17
+⎛
+⎝⎜
+⎞
+⎠⎟= 54.0° 
+ 
+ 
+ 
+Challenge Problems 
+P10.87 
+Refer to the force diagrams for the plank and rollers in ANS. FIG. 
+P10.87(b) below. Call ft the frictional force exerted by each roller 
+backward on the plank. Name as fb the rolling resistance exerted 
+backward by the ground on each roller. 
+ 
+ANS. FIG. P10.87(a) 
+ 
+For the plank, 
+ 
+ 
+  
+Fx = max:
+∑
+6.00 N – 2 ft = 6.00 kg
+(
+)ap 
+ [1] 
+ 
+If we think of the motion of a roller as a small rotation about its point 
+of contact with the surface, we see that the center of each roller moves 
+forward only half as far as the plank. 
+ 
+Each roller has acceleration ap
+2
+ and angular acceleration 
+ 
+ 
+ 
+ap 2
+5.00 cm =
+ap
+0.100 m
+ 
+ 
+Then for each, 
+ 
+ 
+  
+Fx = max:
++ ft −fb = 2.00 kg
+(
+)
+ap
+2
+∑
+ 
+ [2]
+
+--- PAGE 59 ---
+574     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+  
+τ = Iα:
+∑
+ft 5.00 cm
+(
+)+ fb 5.00 cm
+(
+) = 1
+2 2.00 kg
+(
+) 5.00 cm
+(
+)
+2
+ap
+10.0 cm
+ 
+ 
+So 
+ 
+ft + fb =
+1
+2 kg
+⎛
+⎝⎜
+⎞
+⎠⎟ap 
+[3] 
+ 
+Add equations [2] and [3] to eliminate fb:      2 ft = 1.50 kg
+(
+)ap 
+ 
+(a) Substituting the value for 2ft into equation [1] gives 
+ 
+ 
+ 
+ 
+6.00 N −1.50 kg
+(
+)ap = 6.00 kg
+(
+)ap
+→ap = 6.00 N
+7.50 kg = 0.800 m/s2
+ 
+ 
+(b) For each roller, a =
+ap
+2 = 0.400 m/s2 
+ 
+(c) Substituting back,  
+ 
+ 
+  
+2 ft = 1.50 kg
+(
+) 0.800 m/s2
+(
+) 
+ 
+ 
+ 
+ft = 0.600 N 
+ 
+ 
+then, from equation [3], 
+ 
+ 
+ 
+0.600 N + fb =
+1
+2 kg
+⎛
+⎝⎜
+⎞
+⎠⎟0.800 m/s2
+(
+)
+ 
+ 
+ 
+ 
+fb = −0.200 N 
+ 
+ 
+The negative sign means that the horizontal force of ground on 
+each roller is 0.200 N forward rather than backward as we 
+assumed. 
+ 
+ANS. FIG. P10.87(b)
+
+--- PAGE 60 ---
+Chapter 10     575 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.88 
+P10.88 
+For large energy storage at a 
+particular rotation rate, we want a 
+large moment of inertia. To combine 
+this requirement with small mass, we 
+place the mass as far away from the 
+axis as possible. 
+ 
+We choose to make the flywheel as a hollow cylinder 18.0 cm in 
+diameter and 8.00 cm long. To support this rim, we place a disk across 
+its center. We assume that a disk 2.00 cm thick will be sturdy enough 
+to support the hollow cylinder securely. 
+ 
+The one remaining adjustable parameter is the thickness of the wall of 
+the hollow cylinder. From Table 10.2, the moment of inertia can be 
+written as 
+ 
+ 
+ 
+Idisk + Ihollow cylinder = 1
+2 MdiskRdisk
+2
++ 1
+2 Mwall Router
+2
++ Rinner
+2
+(
+)
+= 1
+2 ρVdiskRouter
+2
++ 1
+2 ρVwall Router
+2
++ Rinner
+2
+(
+)
+ 
+ 
+ 
+ 
+= ρ
+2 π Router
+2
+2.00 cm
+(
+)Router
+2
++ ρ
+2 π Router
+2
+−π Rinner
+2
+⎡⎣
+⎤⎦
+                                                   × 6.00 cm
+(
+) Router
+2
++ Rinner
+2
+(
+)
+= ρπ
+2
+9.00 cm
+(
+)
+4 2.00 cm
+(
+)
+⎡⎣
+         + 6.00 cm
+(
+)
+9.00 cm
+(
+)
+2 −Rinner
+2
+⎡⎣
+⎤⎦
+9.00 cm
+(
+)
+2 + Rinner
+2
+⎡⎣
+⎤⎦⎤⎦
+= ρπ 6 561 cm5 + 3.00 cm
+(
+) 9.00 cm
+(
+)
+4 −Rinner
+4
+(
+)
+⎡⎣
+⎤⎦
+= ρπ 26 244 cm5 −3.00 cm
+(
+)Rinner
+4
+⎡⎣
+⎤⎦
+ 
+ 
+For the required energy storage, 
+ 
+ 
+ 
+1
+2 Iω1
+2 = 1
+2 Iω 2
+2 +Wout
+1
+2 I
+800 rev min
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+                   −1
+2 I
+600 rev/min
+(
+) 2π rad
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+  = 60.0 J
+
+--- PAGE 61 ---
+576     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+I =
+60.0 J
+1 535 s2
+ = 7.85 × 103 kg m3
+(
+)π 26 244 cm5 −3.00 cm
+(
+)Rinner
+4
+⎡⎣
+⎤⎦
+1.58 × 10−5 m5 100 cm
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+5
+= 26 244 cm5 −3.00 cm
+(
+)Rinner
+4
+Rinner =
+26 244 cm4 −15 827 cm4
+3.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+= 7.68 cm
+ 
+ 
+The inner radius of the flywheel is 7.68 cm. The mass of the flywheel is 
+then 7.27 kg, found as follows: 
+ 
+ 
+ 
+Mdisk + Mwall = ρπ Router
+2
+2.00 cm
+(
+)
+            + ρ πRouter
+2
+−πRinner
+2
+⎡⎣
+⎤⎦6.00 cm
+(
+)
+= 7.86 × 103 kg m3
+(
+)π
+           
+0.090 m
+(
+)
+2 0.020 m
+(
+)
+⎡⎣
+             +
+0.090 m
+(
+)
+2 −0.076 8 m
+(
+)
+2
+⎡⎣
+⎤⎦0.060 m
+(
+)⎤
+⎦
+= 7.27 kg
+ 
+ 
+If we made the thickness of the disk somewhat less than 2.00 cm and 
+the inner radius of the cylindrical wall less than 7.68 cm to compensate, 
+the mass could be a bit less than 7.27 kg. 
+ 
+The flywheel can be shaped like a cup or open barrel, 9.00 cm in outer 
+radius and 7.68 cm in inner radius, with its wall 6 cm high, and with
+its bottom forming a disk 2.00 cm thick and 9.00 cm in  radius. It is
+mounted to the crankshaft at the center of this disk and turns about its
+axis of symmetry. Its mass is 7.27 kg. If the disk were made somewhat
+thinner and the barrel wall thicker, the mass could be smaller.
+ 
+P10.89 
+(a) 
+At t = 0, ω = 3.50 rad/s = ω0e0 . Thus, ω 0 = 3.50 rad/s . 
+ 
+ 
+At t = 9.30 s, ω = 2.00 rad/s = ω 0e−σ 9.30s
+(
+). 
+ 
+ 
+We now calculate σ :    To solve ω = ω0e−σt for σ, we recall that 
+the natural logarithm function is the inverse of the exponential 
+function. 
+ 
+ 
+ω/ω 0 = e−σt
+becomes
+ln(ω/ω 0) = −σt
+or
+ln(ω 0/ω) = +σt
+
+--- PAGE 62 ---
+Chapter 10     577 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+σ =
+1
+t
+⎛
+⎝⎜⎞
+⎠⎟ln(ω 0/ω) =
+1
+9.30 s
+⎛
+⎝⎜
+⎞
+⎠⎟ln 3.50
+2.00
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.560
+9.30 s = 6.02 × 10−2s−1 
+ 
+(b)
+ 
+At all times, 
+ 
+ 
+ 
+ 
+α = dω
+dt = d
+dt ω0e−σt
+⎡⎣
+⎤⎦= −σω0e−σt 
+ 
+ 
+ 
+At t = 3.00 s, 
+ 
+ 
+ 
+ 
+ 
+α = −(0.060 2 s−1)(3.50 rad/s)e−0.181 = −0.176 rad/s2 
+ 
+ 
+ 
+(c) 
+From the given equation, we have dθ = ω 0
+e–σtdt 
+ 
+ 
+ 
+and  
+ 
+ 
+ 
+ 
+θ =
+ω0e−σtdt =
+0 s
+2.50 s
+∫
+ω0
+–σ e−σt
+0 s
+2.50 s = ω0
+–σ e−2.50σ – 1
+(
+) 
+ 
+ 
+  
+Substituting and solving,  
+ 
+ 
+  
+ 
+θ = −58.2(0.860 −1) rad = 8.12 rad  
+ 
+ 
+or 
+θ = (8.12 rad)
+1 rev
+2π  rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.29 rev 
+ 
+ 
+(d) The motion continues to a finite limit, as ω approaches zero and t 
+goes to infinity. From part (c), the total angular displacement is  
+ 
+ 
+ 
+θ =
+ω0e–σtdt =
+0
+∞∫
+ω0
+–σ e–σt
+0
+∞= ω0
+–σ (0 – 1) = ω0
+σ
+ 
+ 
+ 
+Substituting,  
+ 
+ 
+ 
+ 
+θ = 58.2 rad
+or
+θ =
+1 rev
+2π  rad
+(
+)(58.2 rad) = 9.26 rev
+ 
+P10.90 
+(a) 
+If we number the loops of the spiral track with an index n, with 
+the innermost loop having n = 0, the radii of subsequent loops as 
+we move outward on the disc is given by r = ri + hn. Along a 
+given radial line, each new loop is reached by rotating the disc 
+through 2π rad. Therefore, the ratio θ/2π is the number of 
+revolutions of the disc to get to a certain loop. This is also the 
+number of that loop, so n = θ/2π. Therefore, r = ri + hθ/2π. 
+ 
+(b) Starting from ω = v/r, we substitute the definition of angular 
+speed on the left and the result for r from part (a) on the right: 
+ 
+ 
+ 
+ω = v
+r →dθ
+dt =
+v
+ri + hθ/2π
+(
+)
+
+--- PAGE 63 ---
+578     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Rearrange terms in preparation for integrating both sides: 
+ 
+ 
+ 
+ri + h
+2π θ
+⎛
+⎝⎜
+⎞
+⎠⎟dθ = vdt 
+ 
+ 
+and integrate from θ = 0 to θ = θ and from t = 0 to t = t: 
+ 
+ 
+ 
+riθ + h
+4π θ 2 = vt 
+ 
+ 
+We rearrange this equation to form a standard quadratic equation 
+in θ: 
+ 
+ 
+ 
+h
+4π θ 2 + riθ −vt = 0 
+ 
+ 
+The solution to this equation is 
+ 
+ 
+ 
+θ =
+−ri ±
+ri
+2 + h
+π vt
+h
+2π
+= 2πri
+h
+1+ vh
+πri
+2 t −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where we have chosen the positive root in order to make the 
+angle θ positive. 
+ 
+(d) We differentiate the result in (c) twice with respect to time to find 
+the angular acceleration, resulting in 
+ 
+ 
+ 
+α = −
+hv2
+2πri
+3 1+ vh
+πri
+2 t
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2 
+ 
+ 
+Where we have used d
+dx
+u =
+1
+2 u
+du
+dx . Because this expression 
+involves the time t, the angular acceleration is not constant. 
+P10.91 
+(a) 
+Fx = max
+∑
+reads −f + T = ma. If we take torques 
+around the center of mass, we can use 
+τ = Iα
+∑
+, 
+which reads + fR2 −TR1 = Iα. For rolling 
+without slipping, α = a
+R2
+. By  
+substitution, 
+ 
+ 
+ 
+fR2 −TR1 = la
+R2
+=
+I
+R2m T −f
+(
+)
+ 
+ANS. FIG. P10.91
+
+--- PAGE 64 ---
+Chapter 10     579 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+fR2
+2m−TR1R2m = IT −If
+f I + mR2
+2
+(
+) = T I + mR1R2
+(
+)
+f =
+I + mR1R2
+I + mR2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟T
+ 
+ 
+(b) Since the answer is positive, the friction force is confirmed to be 
+to the left . 
+P10.92 
+(a) 
+From the isolated system model for the block-pulley-Earth 
+system, 
+ 
+ 
+ 
+ΔK + ΔU + ΔEint = 0
+1
+2 Mv2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+2 Iω 2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+ 0 −Mgdsinθ
+(
+)+ fd = 0
+1
+2 Mv2 + 1
+2
+1
+2 mr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+− Mgdsinθ + µMgcosθ
+(
+)d = 0
+v =
+4Mgd sinθ −µcosθ
+(
+)
+2M + m
+ 
+ 
+(b) From the particle under constant acceleration model for the block, 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2ad
+a = v f
+2 −vi
+2
+2d
+= v2
+2d = 2Mg sinθ −µcosθ
+(
+)
+2M + m
+ 
+P10.93 
+The location of the dog is described by θd = 0.750 rad/s
+(
+)t . For the 
+bone, 
+ 
+ 
+ 
+θb = 1
+3 2π rad + 1
+2 0.015 rad/s2 t2 
+ 
+(a) 
+We look for a solution to (suppressing units) 
+ 
+ 
+ 
+0.75t = 2π
+3 + 0.007 5t2
+0 = 0.007 5t2 −0.75t + 2.09 = 0
+t =
+0.75 ±
+0.752 −4 0.007 5
+(
+)2.09
+0.015
+= 2.88 s or 97.1 s
+ 
+ 
+ 
+The first time the dog reaches the bone is 2.88 s.
+
+--- PAGE 65 ---
+580     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P10.94 
+ 
+(b) If the dog passes the bone, he must run around the merry-go-
+round again. The dog will draw even with the bone when 
+0.75t = 2π
+3 + 2π + 0.0075t2 . 
+ 
+ 
+Solving this equation, we find (suppressing units) 
+ 
+ 
+ 
+t = 0.75 ±
+0.752 −4 0.0075
+(
+)8.38
+0.015
+= 12.8 s   or   87.2 s
+ 
+ 
+ 
+The dog draws even with the bone again at the time of 12.8 s. 
+P10.94 
+τ f will oppose the torque due to the hanging object: 
+ 
+ 
+ 
+τ
+∑
+= Iα = TR −τ f :   τ f = TR −Iα 
+[1] 
+ 
+Now find T, I, and α in given or known terms and 
+substitute into equation [1]. 
+ 
+ 
+ 
+Fy = T −mg = −ma: T = m g −a
+(
+)
+∑
+ 
+ [2] 
+ 
+also,  
+Δy = vit + at2
+2 a = 2y
+t2  
+[3] 
+ 
+and   
+α = a
+R = 2y
+Rt2 
+[4] 
+ 
+with  
+ I = 1
+2 M R2 + R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 5
+8 MR2 
+[5] 
+ 
+Substituting [2], [3], [4], and [5] into [1], we find 
+ 
+ 
+τ f = m g −2y
+t2
+⎛
+⎝⎜
+⎞
+⎠⎟R −5
+8
+MR2 2y
+(
+)
+Rt2
+= R m g −2y
+t2
+⎛
+⎝⎜
+⎞
+⎠⎟−5
+4
+My
+t2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+
+--- PAGE 66 ---
+Chapter 10     581 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P10.2 
+(a) 0.209 rad/s
+2; (b) yes 
+P10.4 
+144 rad 
+P10.6 
+−2.26 × 10
+2 rad/s
+2 
+P10.8 
+(a) 3.5 rad; (b) increase by a factor of 4 
+P10.10 
+Because the disk’s average angular speed does not match the average 
+angular speed expressed as ωi + ω f
+(
+)/2 in the model of a rigid object 
+under constant angular acceleration, the angular acceleration of the 
+disk cannot be constant. 
+P10.12 
+50.0 rev 
+P10.14 
+(a) 
+ωh3/2
+2
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+; (b) 1.16 cm; (c) The deflection is only 0.02% of the 
+original height, so it is negligible in many practical cases; (d) Decrease 
+P10.16 
+~10
+7 rev/yr 
+P10.18 
+(a) 0.605 m/s; (b) 17.3 rad/s; (c) 5.82 m/s; (d) We did not need to know 
+the length of the pedal cranks. 
+P10.20 
+(a) 54.3 rev; (b) 12.1 rev/s 
+P10.22 
+(a) 5.77 cm; (b) Yes. See P10.20 for full explanation. 
+P10.24 
+a
+g
+1+ π 2 
+P10.26 
+(a) −2.73i+ 1.24j
+(
+) m; (b) It is in the second quadrant, at 156°;  
+(c) −1.85i−4.10j
+(
+) m/s; (d) It is moving toward the third quadrant, at 
+246°; (e) 6.15i−2.78j
+(
+) m/s2; (f) See ANS. FIG. P10.26;  
+(g) 24.6i−11.1j
+(
+) N 
+P10.28 
+168 N ⋅ m 
+P10.30 
+(a) 1.03 s; (b) 10.3 rev 
+P10.32 
+(a) See ANS. FIG. P10.32; (b) 0.309 m/s
+2; (c) T1 = 7.67 N, T2 = 9.22 N 
+P10.34 
+(a) For F = 25.1 N, R = 1.00 m. For F = 10.0 N, R = 25.1 m; (b) No. 
+Infinitely many pairs of values that satisfy this requirement may exist: 
+for any F ≤ 50.0 N, R = 25.1 N ⋅ m/F, as long as R ≤ 3.00 m.
+
+--- PAGE 67 ---
+582     Rotation of a Rigid Object About a Fixed Axis 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.36 
+(a) 1.95 s; (b) If the pulley were massless, the acceleration would be 
+larger by a factor 35/32.5 and the time short by the square root of the 
+factor 32.5/35. That is, the time would be reduced by 3.64%. 
+P10.38 
+10
+0 kg ⋅ m
+2 = 1 kg ⋅ m
+2 
+P10.40 
+(a) See P10.40(a) for full description; (b) See P10.40(b) for full 
+description 
+P10.42 
+I ′
+y =
+r2dm =
+x2 M
+L dx = M
+L
+x3
+3
+0
+L
+= 1
+3 ML2
+0
+L∫
+all mass
+∫
+ 
+P10.44 
+(a) 92.0 kg⋅m
+2; (b) 184 J; (c) 6.00 m/s, 4.00 m/s, 8.00 m/s; (d) 184 J;  
+(e) The kinetic energies computed in parts (b) and (d) are the same. 
+P10.46 
+13
+24 MR2ω 2 
+P10.48 
+276 J 
+P10.50 
+v =
+2 m1 −m2
+(
+)gh
+m1 + m2 + I
+R2
+ and ω =
+2 m1 −m2
+(
+)gh
+m1R2 + m2R2 + I 
+P10.52 
+The situation is impossible because the range is only 3.86 km, not city-
+wide. 
+P10.54 
+(a) 6.90 J; (b) 8.73 rad/s; (c) 2.44 m/s; (d) The speed it attains in 
+swinging is greater by 1.043 2 times 
+P10.56 
+mr2 2gh
+v2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P10.58 
+(a) 74.3 W; (b) 401 W 
+P10.60 
+rolling:  v f =
+10gh/7 ; sliding:  v f =
+2gh; The time to roll is longer by 
+a factor of (0.7/0.5)
+1/2 = 1.18 
+P10.62 
+(a) the cylinder; (b) v2/4gsinθ ; (c) The cylinder does not lose 
+mechanical energy because static friction does not work on it. Its 
+rotation means that it has 50% more kinetic energy than the cube at the 
+start, and so it travels 50% farther up the incline. 
+P10.64 
+(a) 2.38 m/s; (b) The centripetal acceleration at the top is 
+v2
+2
+r = 2.38 m/s
+(
+)
+2
+0.450 m
+= 12.6 m/s2 > g. Thus, the ball must be in contact 
+with the track, with the track pushing downward on it; (c) 4.31 m/s; 
+(d) 
+–1.40m2/s2 ; (e) never makes it to the top of the loop
+
+--- PAGE 68 ---
+Chapter 10     583 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P10.66 
+1
+3
+ the length of the chimney 
+P10.68 
+(a) d = 1890 + 80n
+(
+)
+0.459m
+80n−150
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) 94.1 m; (c) 1.62 m; (d) –5.79 m;  
+(e) The rising car will coast to a stop only for n ≥ 2; (f) For n = 0 or n = 1, 
+the mass of the elevator is less than the counterweight, so the car 
+would accelerate upward if released; (g) 0.459 m 
+P10.70 
+ω t( ) = ω + At + 1
+2 Bt2; (b) ωt + 1
+2 At2 + 1
+6 Bt3 
+P10.72 
+(a) (i) –794 N . m, (ii) –2 510 N . m, (iii) 0 N .  m, (iv) –1 160 N . m,  
+(v) 2 940 N . m; (b) See P10.72(b) for full description. 
+P10.74 
+−0.322 rad/s2 
+P10.76 
+(a) 2.57 × 1029J; (b)−1.63 × 1017J/day 
+P10.78 
+(a) Mg/3; (b) 2g/3; (c) 
+4gh/3 ; (d) The answer is the same. 
+P10.80 
+(a) θ ≤35.5°; (b) 0.184 m from the moving end 
+P10.82 
+(a) aCM = 4F
+3M ; (b) 1
+3 F; (c) 
+8Fd
+3M
+ 
+P10.84 
+(a) 35.0 m/s
+2; (b) 7.35i N; (c) 17.5 m/s
+2; (d) −3.68iN; (e) 0.827 m (from 
+the top) 
+P10.86 
+54.0° 
+P10.88 
+See P10.88 for full design and specifications of flywheel. 
+P10.90 
+(a) See P10.90(a) for full solution; (b) See P10.90(g) for full solution; 
+ 
+(c) 2πri
+h
+1+ vh
+πri
+2 t −1
+⎛
+⎝⎜
+⎞
+⎠⎟; (d) α = −
+hv2
+2πri
+2 1+ vh
+πri
+2 t
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2 
+P10.92 
+(a) See P10.92(a) for full explanation; (b) 2Mg(sinθ −µ cosθ)
+2M + m
+ 
+P10.94 
+R m g −2y
+t2
+⎛
+⎝⎜
+⎞
+⎠⎟−5
+4
+My
+t2
+⎡
+⎣⎢
+⎤
+⎦⎥

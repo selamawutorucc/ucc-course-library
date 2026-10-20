@@ -1,0 +1,67 @@
+UNIVERSITY OF CAPE COAST
+ARHIN KODJO JEFFREY
+SM/SMS/09/0054
+PHY104:  GENERAL PHYSICS PRACTICALS
+EXPERIMENT THREE
+VIBRATION OF STRINGS 
+4TH MARCH 2010
+AIM
+The aim of the experiment is to measure the density of nickel in the form of a wire.
+APPARATUS
+String tensioning device, w. stem			1
+Nickel wire, d=0.3mm, l=100m			1
+Barrel base						1
+Bench clamp						3
+Support rod, square, l=250mm            		3
+Right angle clamp                                                       3
+Rod with hook                                            		1
+Sign holder               					2
+Fish line, l=100m                                                        1
+Metre scale, demo, l=1000mm                   		1
+Spring balance, 100N                                                 	1
+Striking hammer, rubber                                             1
+Photo element f. opt. base plt.                                     1
+Lamp holder E10, housing G1                                	1
+Lamp bulb 6 V/3 W, E10, 10 pcs.                              	1
+Distributor                                                                  	1
+Oscilloscope, 30 MHz, 2 channels                             	1 
+LF amplifier, 220V                                                     1
+Digital counter, 4 decades                          		1
+Plug with push-on sleeve                                            1
+Adapter, BNC socket – 4mm plug                              1
+Adapter, BNC – plug/socket 4mm            		2
+Connector, T type, BNC                            		1 
+Adapter, BNC – socket / 4mm plug pair                    1
+Screened cable, BNC, l=750mm                                1
+DIAGRAM
+THEORY
+Frequency is the number of waves passing an area per unit second. For a periodic wave, frequency is the rate at which the disturbance is repeated. Fundamental frequency is the lowest frequency corresponding to n=1. The fundamental frequency is produced by the first harmonic. The fundamental wave pattern is a transverse standing wave pattern. A standing wave does not travel in one direction or the other as do the individual. The fundamental frequency is produced by plucking the string gently in the middle which sets up the simplest stationary wave. Nodes are places that do not vibrate at all and antinodes are places of maximum vibrations. The fundamental frequency of a spring of length tensioned at both ends is  where T= tension in the string µ=mass per unit length and l= string length
+PROCEDURE
+The apparatus was set up as shown in the diagram above. The string was laid across 2 triangular sliders and clamped between a fixed hook and a spring balance as shown in the diagram. A spring balance was attached to the string tensioner with a fishing line. The tensioning force was set to no greater than 30-40N or otherwise the string would have got broken. The triangular sliders along the measuring scale were used to adjust the string length. The vibrating of the string was optically scanned midway through the sliders. The signal from the photo cell, fitted with an aperture slit was amplified and transmitted to the oscilloscope and the counter.
+The string was vibrating by a gentle tap with the rubber hammer. The counter only started when the vibration had died away.
+The tension in the string was recorded as well as the diameter of the nickel wire. With the tension constant at the recorded value, a string length of 40cm was measured between the two sliders. The counter device was set to frequency (kHz). The sensor was aligned to the string and light so that the counter would read zero.
+The START button was pressed and the wire was gently tapped with the rubber hammer to start vibration. The STOP button was pressed immediately when the vibrations had died away and the frequency was recorded. The experiment was repeated for the value of string lengths of 50, 60, 70, and 80cm.
+Finally a graph of frequency against  was plotted indicating the slope of the graph.
+TABLE OF RESULTS
+CALCULATION 
+Comparing the equation f=  to the general equation of a line y= mx+c, the slope, m =
+DISCUSSION
+From the experiment, it was observed that the frequency was directly proportional to the inverse of the length of the wire. This can be seen from the table of results.  The smallest length of 40cm yielded the highest frequency of 0.124 kHz. The greatest length of 80 cm likewise yielded the smallest frequency of 0.061 kHz. The slope was determined from the graph as 50 Hz.m. The slope was used to find the mass per unit length of the wire which was found to be 1x10-3kgm-1. This mass per unit length was then used to find the density of the wire by dividing it by the cross-sectional area of the wire. Density of the string was found to be 14147.11kg/m3. The literature density of nickel is 8900 kg/m3. This indicates a significant difference in the values. This great difference may be due to distortion in the shape or bends in the string leading to a change in volume. This affected the accuracy of the experiment.
+SOURCES OF ERROR
+The frequencies were hardly stable hence making readings difficult 
+Error due to the non uniformity of the string hence affecting the mass per unit length
+PRECAUTIONS
+It was ensured that the tensioning force was not set beyond 10N in order to prevent the string from breaking
+The experiment was repeated and the average frequency found to ensure accurate results.
+It was ensured that throughout the experiments the tension was kept constant
+CONCLUSION
+The density of the nickel wire calculated (14147.11kgm-3) is not similar to the theoretical value of 8900kgm-3 meaning that the experiment was faulty.
+REFERENCE
+www. wikipedia.com
+ Serway A. Raymond & Faughn S. Jerry, (2003), College Physics, 6th Edition Thomson Learning Inc. Australia, pages 442- 443.
+Frequency / kHz | Frequency / Hz | Length (L) / cm | Length (L) / m |  / m-1
+0.061 | 61 | 80 | 0.80 | 1.25
+0.070 | 70 | 70 | 0.70 | 1.42
+0.082 | 82 | 60 | 0.60 | 1.67
+0.098 | 98 | 50 | 0.50 | 2.00
+0.124 | 124 | 40 | 0.40 | 2.50

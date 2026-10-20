@@ -1,0 +1,428 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+MS Excel Basics
+Microsoft Excel is a spread sheet tool capable of performing calculations, analysing data and integrating information from different programs.
+
+Microsoft Excel is a commercial spread sheet application, written and distributed by Microsoft for Microsoft Windows and Mac OS X.
+
+By default, documents saved in Excel 2010 upwards are saved with the .xlsx extension whereas the file extension of the prior Excel versions are .xls.
+
+--- SLIDE 6 ---
+Getting Started Excel 2019
+   Office 2019 is engineered for Windows 10. 
+    
+   You can start Excel 2019 from the Start menu app list or tile area, the Start screen, or the taskbar search box. 
+
+   You might also have a shortcut to Excel on your desktop or on the Windows taskbar.
+
+--- SLIDE 7 ---
+Getting Started Excel 2019
+ Step 1 − Click the Start button and then select Microsoft excel  from the options panel.
+
+
+--- SLIDE 8 ---
+Getting Started Excel 2019
+ Step 2 − Click on Blank document option from the menu.
+
+--- SLIDE 9 ---
+Getting Started with Excel 2019
+Step 4
+This will launch the Microsoft Excel 2019 application and you will see the following excel window.
+
+
+--- SLIDE 10 ---
+Explore Window in Excel 2019
+Column
+
+--- SLIDE 11 ---
+Explore Window in Excel 2019
+File Tab
+The File tab replaces the Office button from Excel 2007.
+
+You can click it to check the Backstage view.
+
+The backstage view enables you to open or save files, create new sheets, print a sheet, and do other file-related operations.
+
+
+--- SLIDE 12 ---
+ Backstage view
+
+--- SLIDE 13 ---
+Explore Window in Excel 2019
+Quick Access Toolbar
+The Quick Access Toolbar can be located in one of two places: Upper-left corner, on the title bar. (default location)
+
+The Quick Access Toolbar can also be relocated below the ribbon. 
+
+Its purpose is to provide a convenient resting place for the Excel's most frequently used commands.
+
+
+--- SLIDE 14 ---
+Explore Window in Excel 2019
+Ribbon
+
+
+
+
+Ribbon contains commands organized in three components −
+
+Tabs − They appear across the top of the Ribbon and contain groups of related commands. Home, Insert, Page Layout are the examples of ribbon tabs.
+
+Groups − They organize related commands; each group name appears below the group on the Ribbon. For example, group of commands related to fonts or group of commands related to alignment etc.
+
+ Commands − Commands appear within each group as mentioned above.
+
+--- SLIDE 15 ---
+Showing and hiding the Ribbon
+   If you find that the Ribbon takes up too much screen space, you can hide it. 
+   To do this, click the Ribbon Display Options arrow in the upper-right corner of the Ribbon, then select the desired option from the drop-down menu:
+
+
+--- SLIDE 16 ---
+Explore Window in Excel 2019
+Title Bar
+This lies in the middle and at the top of the window.
+
+Title bar shows the program and the sheet titles.
+
+Using the Tell me feature
+The tell me feature can be used to get excel related help anytime you like. 
+This provides nice tutorial on various subjects related to excel.
+
+--- SLIDE 17 ---
+Explore Window in Excel 
+Zoom Control
+Zoom control lets you zoom in for a closer look at your text.
+
+The zoom control consists of a slider that you can slide left or right to zoom in or out.
+
+The + and - buttons can be clicked to increase or decrease the zoom factor
+
+
+--- SLIDE 18 ---
+Explore Window in Excel 
+Worksheet views.
+The group of three buttons located to the left of the Zoom control, near the bottom of the screen, lets you switch among Excel's various sheet views.
+Normal Layout view − This displays the page in normal view.
+Page Layout view − This displays pages exactly as they will appear when printed. This gives a full screen look of the document.
+Page Break view − This shows a preview of where pages will break when printed.
+
+
+--- SLIDE 19 ---
+Explore Window in Excel 
+Sheet Area
+The area where you enter data. 
+
+The flashing vertical bar is called the insertion point.
+
+ It represents the location where text will appear when you type.
+
+--- SLIDE 20 ---
+Explore Window in Excel 
+Row Bar
+Rows are numbered from 1 onwards and keeps on increasing as you keep entering data. 
+
+Maximum limit is 1,048,576 rows.
+
+Column Bar
+Columns are numbered from A onwards and keeps on increasing as you keep entering data. 
+After Z, it will start the series of AA, AB and so on. Maximum limit is 16,384 columns.
+
+--- SLIDE 21 ---
+Explore Window in Excel 
+Status Bar.
+This displays the current status of the active cell in the worksheet.
+A cell can be in either of these fours states:
+Ready mode which indicates that the worksheet is ready to accept user input.
+Edit mode indicates that cell is in editing mode, if it is not activated then you can activate editing mode by double-clicking on a cell.
+A cell enters into Enter mode when a user types data into a cell.
+Point mode triggers when a formula is being entered using a cell reference by mouse pointing or the arrow keys on the keyboard.
+
+--- SLIDE 22 ---
+Entering Values in Excel 
+Sheet area is the place where you type your text.
+
+The flashing vertical bar is called the insertion point and it represents the location where text will appear when you type.
+
+When you click on a box then the box is highlighted.
+
+When you double click the box, the flashing vertical bar appears and you can start entering your data.
+
+--- SLIDE 23 ---
+Entering Values in Excel 
+
+--- SLIDE 24 ---
+Entering Values in Excel 
+
+keep your mouse cursor at the text insertion point and start typing whatever text you would like to type.
+
+We have typed only two words "Hello Excel" as shown below. 
+
+The text appears to the left of the insertion point as you type.
+
+--- SLIDE 25 ---
+Entering Values in Excel 
+
+
+
+
+
+
+
+
+There are following three important points, which would help you while typing −
+Press Tab to go to next column.
+Press Enter to go to next row.
+Press Alt + Enter to enter a new line in the same column.
+
+--- SLIDE 26 ---
+Entering Values in Excel 
+
+--- SLIDE 27 ---
+Entering Values in Excel 
+
+--- SLIDE 28 ---
+Entering Values in Excel 
+Moving with Mouse
+
+
+
+
+
+
+
+
+--- SLIDE 29 ---
+Save Workbook in Excel 
+Step 1 
+Click the File tab and select Save As option.
+
+
+
+
+
+
+
+
+--- SLIDE 30 ---
+Save Workbook in Excel 
+Step 2
+Select a folder where you would like to save the sheet, Enter file name, which you want to give to your sheet and Select a Save as type, by default it is .xlsx format.
+
+
+
+
+
+
+
+
+--- SLIDE 31 ---
+Creating New Worksheet
+Step 1
+Right Click the Sheet Name and select Insert option.
+
+
+
+
+
+
+
+
+--- SLIDE 32 ---
+Creating New Worksheet
+Step 2
+Now you'll see the Insert dialog with select Worksheet option as selected from the general tab. Click the Ok button.
+
+
+
+
+
+
+
+
+--- SLIDE 33 ---
+Creating New Worksheet
+Step 2
+Now you should have your blank sheet as shown below ready to start typing your text.
+
+
+
+
+
+
+
+You can use a short  cut Shift+F11  to create a blank sheet anytime.
+
+
+
+
+
+
+
+
+
+--- SLIDE 34 ---
+Copy Worksheet in Excel 
+Step 1
+Right Click the Sheet Name and select the Move or Copy option.
+
+
+
+
+
+
+
+
+--- SLIDE 35 ---
+Copy Worksheet in Excel 
+Step 2
+Now you'll see the Move or Copy dialog with select Worksheet option as selected from the general tab. Click the Ok button.
+
+
+
+
+
+
+
+
+--- SLIDE 36 ---
+Copy Worksheet in Excel 
+
+
+
+
+
+
+
+
+
+You can rename the sheet by double clicking on it. On double click, the sheet name becomes editable. Enter any name say Sheet5 and press Tab or Enter Key.
+
+
+
+
+
+
+
+
+--- SLIDE 37 ---
+Hiding Worksheet
+Step 1
+Right Click the Sheet Name and select the Hide option. Sheet will get hidden.
+
+
+
+
+
+
+
+
+--- SLIDE 38 ---
+Unhiding Worksheet
+Step 1
+Right Click on any Sheet Name and select the Unhide... option.
+
+
+
+
+
+
+
+
+--- SLIDE 39 ---
+Delete Worksheet in Excel 
+Step 1
+Right Click the Sheet Name and select the Delete option.
+
+
+
+
+
+
+
+
+--- SLIDE 40 ---
+Delete Worksheet in Excel 
+Step 2
+Sheet will get deleted if it is empty, otherwise you'll see a confirmation message.
+Press the Delete Button.
+
+
+
+
+
+--- SLIDE 41 ---
+Close Workbook in Excel 
+Step 1
+Click the Close Button as shown below.
+
+
+
+
+
+--- SLIDE 42 ---
+Close Workbook in Excel 2010
+Step 2
+You'll see a confirmation message to save the workbook.
+Press the Save Button to save the workbook as we did in MS Excel - Save Workbook
+
+
+
+
+
+
+
+--- SLIDE 43 ---
+Open Workbook in Excel 
+Step 1
+Click the File Menu as shown below. You can see the Open option in File Menu.
+
+
+
+
+
+
+--- SLIDE 44 ---
+Open Workbook in Excel 
+Step 2
+Clicking the Open Option will open the browse dialog as shown below. Browse the directory and find the file you need to open.
+
+
+
+
+
+
+--- SLIDE 45 ---
+Open Workbook in Excel 
+Step 3
+Once you select the workbook your workbook will be opened as below.
+
+
+
+
+
+
+--- SLIDE 46 ---
+Context Help in Excel 
+Step 1
+MS Excel provides context sensitive help on mouse over.
+To see context sensitive help for a particular Menu option, hover the mouse over the option for some time. 
+Then you can see the context sensitive Help as shown below.
+
+
+
+
+--- SLIDE 47 ---
+
+--- SLIDE 48 ---
+THANK YOU

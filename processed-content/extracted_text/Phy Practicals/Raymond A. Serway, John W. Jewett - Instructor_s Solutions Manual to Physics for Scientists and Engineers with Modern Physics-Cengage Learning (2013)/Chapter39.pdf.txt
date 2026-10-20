@@ -1,0 +1,7601 @@
+
+--- PAGE 1 ---
+833 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+39 
+Relativity 
+ 
+CHAPTER OUTLINE 
+ 
+39.1 
+The Principle of Galilean Relativity 
+39.2 
+The Michelson-Morley Experiment 
+39.3 
+Einstein’s Principle of Relativity 
+39.4 
+Consequences of the Special Theory of Relativity 
+39.5 
+The Lorentz Transformation Equations 
+39.6 
+The Lorentz Velocity Transformation Equations 
+39.7 
+Relativistic Linear Momentum  
+39.8  
+Relativistic Energy 
+39.9 
+The General Theory of Relativity 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ39.1 
+(i) Answer (a). (ii) Answer (c). (iii) Answer (d). There is no upper 
+limit on the momentum or energy of an electron. As the speed of the 
+electron approaches c, the factor γ  tends to infinity, so both the 
+kinetic energy, K = γ −1
+(
+)mc2, and momentum, p = γ mv, tend to 
+infinity. 
+OQ39.2 
+Answer (d). The relativistic time dilation effect is symmetric between 
+the observers. 
+OQ39.3 
+Answers (b) and (c). According to the second postulate of special 
+relativity (the constancy of the speed of light), both observers will 
+measure the light speed to be c. 
+OQ39.4 
+Answer (c). An oblate spheroid. The dimension in the direction of 
+motion would be contracted but the dimension perpendicular to the 
+motion would be unaltered.
+
+--- PAGE 2 ---
+834     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ39.5 
+Answer (e). The astronaut is moving with constant velocity and is 
+therefore in an inertial reference frame. According to the principle of 
+relativity, all the laws of physics are the same in her reference frame 
+as in any other inertial reference frame. Thus, she should experience 
+no effects due to her motion through space. 
+OQ39.6 
+Answer (b). The dimension parallel to the direction of motion is 
+reduced by the factor γ  and the other dimensions are unchanged. 
+OQ39.7 
+(i) 
+Answer (c). The Earth observer measures the clock in orbit to 
+run slower.  
+ 
+(ii) Answer (b). They are not synchronized. They both tick at the 
+same rate after return, but a time difference has developed 
+between the two clocks. 
+OQ39.8 
+Answer (a) > (c) > (b). The relativistic momentum of a particle is 
+p =
+E2 −ER
+2 c , where E is the total energy of the particle, and 
+ER = mc2 is its rest energy (ER = 0 for the photon). In this problem, 
+each of the particles has the same total energy E. Thus, the particle 
+with the smallest rest energy (photon < electron < proton) has the 
+greatest momentum.  
+OQ39.9 
+Answers (d) and (e). The textbook refers to the postulate summarized 
+in choice (d) as the principle of relativity, and to the postulate in 
+choice (e) as the constancy of the speed of light. 
+OQ39.10 
+Answer (b). By the postulate of the constancy of the speed of light, 
+light from any source travels in vacuum at speed c.  
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ39.1 
+The star and the planet orbit about their common center of mass, 
+thus the star moves in an elliptical path. Just like the light from a star 
+in a binary star system, the spectrum of light from the star would 
+undergo a cyclic series of Doppler shifts depending on the star’s 
+speed and direction of motion relative to the observer. The repetition 
+rate of the Doppler shift pattern is the period of the orbit. 
+Information about the orbit size can be calculated from the size of the 
+Doppler shifts. 
+CQ39.2 
+Suppose a railroad train is moving past you. One way to measure its 
+length is this: You mark the tracks at the cowcatcher forming the 
+front of the moving engine at 9:00:00 AM, while your assistant marks 
+the tracks at the back of the caboose at the same time. Then you find 
+the distance between the marks on the tracks with a tape measure.
+
+--- PAGE 3 ---
+Chapter 39     835 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+You and your assistant must make the marks simultaneously in your 
+frame of reference, for otherwise the motion of the train would make 
+its length different from the distance between marks. 
+CQ39.3 
+(a) 
+Yours does. From your frame of reference, the clocks on the 
+train run slow, so the symphony takes a longer time interval to 
+play on the train. 
+ 
+(b) The observer’s on the train does. From the train’s frame of 
+reference, your clocks run slow, so the symphony takes a longer 
+time interval to play for you. 
+ 
+(c) 
+Each observer measures his symphony as finishing first. 
+CQ39.4 
+Get a Mr. Tompkins book by George Gamow for a wonderful fictional 
+exploration of this question. Because of time dilation, your trip to 
+work would be short, so your coffee would not have time to become 
+cold, and you could leave home later. Driving home in a hurry, you 
+push on the gas pedal not to increase your speed by very much, but 
+rather to make the blocks get shorter. Big Doppler shifts in wave 
+frequencies make red lights look green as you approach them, alter 
+greatly the frequencies of car horns, and make it very difficult to tune 
+a radio to a station. High-speed transportation is very expensive 
+because a small change in speed requires a large change in kinetic 
+energy, resulting in huge fuel use. Crashes would be disastrous 
+because a speeding car has a great amount of kinetic energy, so a 
+collision would generate great damage. There is a five-day delay in 
+transmission when you watch the Olympics in Australia on live 
+television. It takes ninety-five years for sunlight to reach Earth. 
+CQ39.5 
+Acceleration is indicated by a curved line. This can be seen in the 
+middle of Speedo’s world-line in Figure 39.11, where he turns 
+around and begins his trip home. 
+CQ39.6 
+(a) 
+Any physical theory must agree with experimental 
+measurements within some domain. Newtonian mechanics 
+agrees with experiment for objects moving slowly compared to 
+the speed of light. Relativistic mechanics agrees with 
+experiment for objects moving at relativistic speeds. 
+ 
+(b) It is well established that Newtonian mechanics applies to 
+objects moving at speeds a lot less than light, but Newtonian 
+mechanics fails at relativistic speeds. If relativistic mechanics is 
+to be the better theory, it must apply to all physically possible 
+speeds. Relativistic mechanics at nonrelativistic speeds must 
+reduce to Newtonian mechanics, and it does. 
+CQ39.7 
+No. The principle of relativity implies that nothing can travel faster 
+than the speed of light in a vacuum, which is 300 Mm/s. The electron 
+would emit light in a conical shock wave of Cerenkov radiation.
+
+--- PAGE 4 ---
+836     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ39.8 
+According to p = γ mu, doubling the speed u will make the 
+momentum of an object increase by the factor 2
+c2 −u2
+c2 −4u2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+. 
+CQ39.9 
+As the object approaches the speed of light, its kinetic energy grows 
+without limit. It would take an infinite investment of work to 
+accelerate the object to the speed of light. 
+CQ39.10 
+A microwave pulse is reflected from a moving object. The waves that 
+are reflected back are Doppler shifted in frequency according to the 
+speed of the target. The receiver in the radar gun detects the reflected 
+wave and compares its frequency to that of the emitted pulse. Using 
+the frequency shift, the speed can be calculated to high precision. Be 
+forewarned: this technique works if you are either traveling toward 
+or away from your local law enforcement agent! 
+CQ39.11 
+Running “at a speed near that of light” means some other observer 
+measures you to be running near the speed of light. To you, you are 
+at rest in your own inertial frame. You would see the same thing that 
+you see when looking at a mirror when at rest. The theory of 
+relativity tells us that all experiments will give the same results in all 
+inertial frames of reference. 
+CQ39.12 
+(i) 
+Solving for the image location q in terms of the object location p 
+and the focal length f gives 
+ 
+ 
+ 
+q =
+pf
+p −f
+ 
+ 
+ 
+We note that when p = f, the image is formed at infinity. Let us, 
+for example, take an object initially a distance pi = 2f from the 
+mirror. Its speed, in approaching f in a finite amount of time is 
+ 
+ 
+ 
+v = p −f
+Δt
+= 2 f −f
+Δt
+= f
+Δt
+ 
+ 
+ 
+At the same time, the location of the image moves from 
+qi = (2 f ) f /(2 f −f ) = 2 f to qf = ∞, i.e., covering an infinite 
+distance in a finite amount of time. The speed of the image thus 
+exceeds the speed of light c. 
+ 
+(ii) For simplicity, we assume that the distant screen is curved with 
+a radius of curvature R. The linear speed of the spot on the 
+screen is then given by v = ω R, where ω is the angular speed of 
+rotation of the laser pointer. With sufficiently large ω and R, the 
+speed of the spot moving on the screen can exceed c.
+
+--- PAGE 5 ---
+Chapter 39     837 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(iii) Neither of these examples violates the principle of relativity. In 
+the first case, the image transtions from being real to being 
+virtual when p = f.  In the second case, we have the intersection 
+of a light beam with a screen. A point of tranition or intersection 
+is not made of matter so it has no mass, and hence no energy. A 
+bug momentarily at the intersection point could squeak or 
+reflect light. A second bug would have to wait for sound or light 
+to travel across the distance between the first bug and himself, 
+to get the message; neither of these actions would result in 
+communication reaching the second bug sooner than the 
+intersection point reaches him. 
+CQ39.13 
+Special relativity describes the relationship between physical 
+quantities and laws in inertial reference frames: that is, reference 
+frames that are not accelerating. General relativity describes the 
+relationship between physical quantities and laws in all reference 
+frames. 
+CQ39.14 
+Because of gravitational time dilation, the downstairs clock runs 
+more slowly because it is closer to the Earth and hence in a stronger 
+gravitational field than the upstairs clock. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 39.1 
+The Principle of Galilean Relativity 
+P39.1 
+By Equation 4.20, uPA = uPB + vBA, with motion in one dimension,  
+ 
+ 
+ubaseball, ground = ubaseball, truck + vtruck, ground
+ubaseball, ground = −20.0 m/s + 10.0 m/s = −10.0 m/s 
+ 
+In other words, 10.0 m/s toward the left in Figure P39.1 . 
+P39.2 
+In the laboratory frame of reference, Newton’s second law is valid: 
+
+F = ma . Laboratory observer 1 watches some object accelerate under 
+applied forces. Call the instantaneous velocity of the object v1 = vO1 
+(the velocity of object O relative to observer 1 in laboratory frame) and 
+its acceleration dv1
+dt = a1. A second observer has instantaneous velocity 
+v21 relative to the first. In general, the velocity of the object in the 
+frame of the second observer is  
+ 
+ 
+ 
+v2 = vO2 = vO1 + v12 = v1 −v21
+
+--- PAGE 6 ---
+838     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+If the relative instantaneous velocity v21 of the second observer is 
+constant, the second observer measures the acceleration  
+ 
+ 
+ 
+a2 = dv2
+dt = dv1
+dt = a1 
+ 
+ 
+This is the same as that measured by the first observer. In this 
+nonrelativistic case, they measure the same forces and masses as 
+well. Thus, the second observer also confirms that 
+
+F = ma. 
+ 
+(b) If the second observer’s frame is accelerating, then the 
+instantaneous relative velocity v21 is not constant. The second 
+observer measures an acceleration of  
+ 
+ 
+ 
+a2 = dv2
+dt = d v1 −v21
+(
+)
+dt
+= a1 −d v21
+(
+)
+dt
+= a1 −′a ,
+ 
+ 
+ 
+where   d v21
+(
+)
+dt
+= ′a 
+ 
+ 
+The observer in the accelerating frame measures the acceleration 
+of the mass as being a2 = a1 −′a . If Newton’s second law held for 
+the accelerating frame, that observer would expect to find valid 
+the relation 
+
+F2 = ma2, or 
+
+F1 = ma2 (since 
+
+F1 =
+
+F2 and the mass is 
+unchanged in each). But, instead, the accelerating frame observer 
+finds that 
+
+F2 = ma2 −m ′a , which is not Newton’s second law. 
+P39.3 
+From the triangle in ANS. FIG. P39.3,  
+ 
+ 
+φ = sin−1 v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+29.8 × 103 m/s
+2.998 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.70 × 10−3 degrees = 9.94 × 10−5 rad
+ 
+ 
+ANS. FIG. P39.3
+
+--- PAGE 7 ---
+Chapter 39     839 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.4 
+In the rest frame,  
+ 
+ 
+ 
+pi = m1v1i + m2v2i = 2 000 kg
+(
+) 20.0 m/s
+(
+) + 1 500 kg
+(
+) 0 m/s
+(
+)
+= 4.00 × 104 kg ⋅m/s
+p f = m1 + m2
+(
+)v f = 2 000 kg + 1 500 kg
+(
+)v f
+ 
+ 
+Since pi = p f , 
+ 
+ 
+ 
+ 
+v f =
+pi
+m1 + m2
+= 4.00 × 104 kg ⋅m/s
+2 000 kg + 1 500 kg = 11.429 m/s 
+ 
+In the moving frame, these velocities are all reduced by +10.0 m/s. 
+ 
+ 
+ 
+′v1i = v1i −′v = 20.0 m/s −+10.0 m/s
+(
+) = 10.0 m/s
+′v2i = v2i −′v = 0 m/s −+10.0 m/s
+(
+) = −10.0 m/s
+′v f = 11.429 m/s −+10.0 m/s
+(
+) = 1.429 m/s
+ 
+ 
+Our initial momentum is then 
+ 
+ 
+ 
+′pi = m1 ′v1i + m2 ′v2i
+= 2 000 kg
+(
+) 10.0 m/s
+(
+)+ 1 500 kg
+(
+) −10.0 m/s
+(
+)
+= 5 000 kg⋅m/s
+ 
+ 
+and our final momentum has the same value:  
+ 
+ 
+ 
+′p f = 2 000 kg + 1 500 kg
+(
+) ′v f = 3 500 kg
+(
+) 1.429 m/s
+(
+)
+= 5 000 kg ⋅m/s
+ 
+ 
+ 
+ 
+Section 39.2 
+The Michelson-Morley Experiment 
+Section 39.3 
+Einstein’s Principle of Relativity 
+Section 39.4 
+Consequences of the Special Theory of Relativity 
+P39.5 
+In the rest frame of the spacecraft, the Earth-star gap travels past it at 
+speed u. The distance from Earth to the star is a proper length in the 
+Earth’s frame:  
+ 
+ 
+L = LP
+γ = LP 1−u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+Solving for the speed of the spacecraft gives,  
+ 
+ 
+u = c 1−
+L
+LP
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= c 1−2.00 ly
+5.00 ly
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.917c
+
+--- PAGE 8 ---
+840     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.6 
+(a) 
+The length of the meter stick measured by the observer moving at 
+speed v = 0.900 c relative to the meter stick is 
+ 
+ 
+ 
+L = Lp γ = Lp 1−v c
+(
+)
+2 = 1.00 m
+(
+) 1−0.900
+(
+)
+2 = 0.436 m 
+ 
+(b) If the observer moves relative to Earth in the direction opposite 
+the motion of the meter stick relative to Earth, the velocity of the 
+observer relative to the meter stick is greater than that in part (a). 
+The measured length of the meter stick will be less than 0.436 m 
+under these conditions, but so small it is unobservable. 
+P39.7 
+A clock running at one-half the rate of a clock at rest takes twice the 
+time to register the same time interval: Δt = 2Δtp.  
+ 
+ 
+ 
+Δt =
+Δtp
+1−v c
+(
+)
+2
+⎡⎣
+⎤⎦
+1 2  so  
+v = c 1−
+Δtp
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+ 
+ 
+ 
+For    Δt = 2Δtp , 
+ 
+ 
+ 
+ 
+v = c 1−
+Δtp
+2Δtp
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= c 1−1
+4
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+= 0.866c 
+P39.8 
+For v
+c = 0.990 , γ = 7.09. 
+ 
+(a) 
+The muon’s lifetime as measured in the Earth’s rest frame is 
+ 
+ 
+ 
+Δt = LP
+v = 4.60 km
+0.990c =
+4.60 × 103 m
+0.990 3.00 × 108 m/s
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1.55 × 10−5 s = 15.5 µs
+ 
+ 
+ 
+and the lifetime measured in the muon’s rest frame is 
+ 
+ 
+ 
+Δtp = Δt
+γ =
+1
+7.09(15.5 µs) = 2.18 µs
+ 
+ 
+(b) In the muon’s frame, the Earth is approaching the muon at speed 
+v = 0.990c. During the time interval the muon exists, the Earth 
+travels the distance  
+ 
+ 
+ 
+d = vΔtP = v Δt
+γ = v LP
+γ v = LP
+γ
+= 4.60 × 103 m
+(
+) 1−0.990
+(
+)
+2 = 649 m
+
+--- PAGE 9 ---
+Chapter 39     841 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.9 
+From Equation 39.9 for length contraction, 
+ 
+ 
+ 
+L = Lp 1−v2
+c2 
+ 
+ 
+we solve for the speed v of the meterstick: 
+ 
+ 
+ 
+v = c 1−
+L
+Lp
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Taking L =
+Lp
+2
+ where, Lp = 1.00 m, gives       
+ 
+ 
+  
+ 
+v = c 1−
+Lp 2
+Lp
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= c 1−1
+4 = 0.866c 
+P39.10 
+(a) 
+The time interval between pulses as measured by the astronaut is 
+a proper time:  
+ 
+ 
+ 
+Δtp =
+1 min
+75.0 beats
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+The time interval between pulses as measured by the Earth 
+observer is then:  
+ 
+ 
+ 
+Δt = γΔtp =
+1
+1−0.500
+(
+)
+2
+1 min
+75.0 beats
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.54 × 10−2 min/beat 
+ 
+ 
+Thus, the Earth observer records a pulse rate of  
+ 
+ 
+ 
+1
+Δt =
+1
+γΔtp
+=
+1−0.500
+(
+)
+2
+75.0 beats
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 65.0beats/min 
+ 
+(b) From part (a), the pulse rate is  
+ 
+ 
+ 
+1
+Δt =
+1
+γΔtp
+=
+1−0.990
+(
+)
+2
+75.0 beats
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.5beats/min 
+ 
+ 
+That is, the life span of the astronaut (reckoned by the duration of 
+the total number of his heartbeats) is much longer as measured by 
+an Earth clock than by a clock aboard the space vehicle. 
+P39.11 
+For the light as observed, λ = 650 nm and ′
+λ = 520 nm. From Equation 
+39.10, 
+ 
+ 
+′f = c
+′
+λ =
+1+ v c
+1−v c f =
+1+ v c
+1−v c
+c
+λ
+
+--- PAGE 10 ---
+842     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the velocity, 
+ 
+ 
+1+ v c
+1−v c = λ
+′
+λ
+→
+1+ v
+c =
+λ
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1−v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Then, 
+ 
+ 
+v
+c 1+
+λ
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥=
+λ
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+v
+c =
+λ
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+1+
+λ
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 =
+650 nm
+520 nm
+⎛
+⎝
+⎞
+⎠
+2
+−1
+1+ 650 nm
+520 nm
+⎛
+⎝
+⎞
+⎠
+2 = 0.220
+ 
+ 
+or 
+v = 0.220c = 6.59 × 107 m/s 
+P39.12 
+The spacecraft are identical, so they have the same proper length; thus, 
+your measurements and the astronaut’s measurements are reciprocal.  
+ 
+(a) 
+You measure the proper length of your spacecraft to be 
+ 
+ 
+ 
+ Lp = 20.0 m 
+ 
+(b) You measure the length L of the astronaut’s spacecraft to be 
+ 
+ 
+ 
+ L = 19.0 m 
+ 
+(c) 
+From the astronaut’s measurement of the length L of your 
+spacecraft, 
+ 
+ 
+ 
+L = Lp
+γ = Lp 1−u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+ 
+we solve for the speed of the astronaut’s spacecraft relative to 
+yours: 
+ 
+ 
+ 
+u
+c =
+1−
+L
+Lp
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1−19.0 m
+20.0 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.312
+ 
+ 
+ 
+or 
+u = 0.312c 
+P39.13 
+The astronaut’s measured time interval is a proper time in her 
+reference frame. Therefore, according to an observer on Earth,  
+ 
+ 
+Δt = γ Δtp =
+Δtp
+1−v c
+(
+)
+2 =
+3.00 s
+1−0.800
+(
+)
+2 = 5.00 s
+
+--- PAGE 11 ---
+Chapter 39     843 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.14 
+From the definition of γ , 
+ 
+ 
+γ =
+1
+1−v2 c2
+(
+)
+= 1.010 0 
+ 
+we solve for the speed: 
+ 
+ 
+v = c 1−
+1
+γ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= c 1−
+1
+1.010 0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.140c
+ 
+P39.15 
+The observer measures the proper length of the tunnel, 50.0 m, but 
+measures the train contracted to length 
+ 
+ 
+ 
+L = Lp 1−v2
+c2 = 100 m 1−0.950
+(
+)
+2 = 31.2 m  
+ 
+shorter than the tunnel by 50.0 – 31.2 = 18.8 m. 
+ 
+The trackside observer measures the length to be 31.2 m, so the
+supertrain is measured to fit in the tunnel, with 18.8 m to spare. 
+*P39.16 
+(a) The lifetime of the pi meson measured by an observer on Earth is 
+given by 
+ 
+ 
+ 
+Δt = γ Δtp =
+Δtp
+1−v/c
+(
+)
+2 = 2.6 × 10−8 s
+1−0.98
+(
+)
+2 = 1.3 × 10−7 s  
+ 
+(b) The distance travelled before the meson decays is 
+ 
+ 
+ 
+d = vΔt = 0.98 3.0 × 108 m/s
+(
+) 1.3 × 10−7 s
+(
+) = 38 m 
+ 
+(c) 
+In the absence of time dilation, the meson would travel a distance 
+ 
+ 
+ 
+d = vΔt = 0.98 3.0 × 108 m/s
+(
+) 2.6 × 10−8 s
+(
+) = 7.6 m 
+*P39.17 
+(a) 
+The 0.800c and the 20.0 ly are measured in the Earth frame, 
+ 
+ 
+so in this frame, 
+ 
+ 
+ 
+Δt = x
+v = 20.0 ly
+0.800c =
+20.0 ly
+0.800c
+⎛
+⎝
+⎞
+⎠
+1 c
+1 ly yr
+⎛
+⎝⎜
+⎞
+⎠⎟= 25.0 yr 
+ 
+(b) We see a clock on the meteoroid moving, so we do not measure 
+proper time; that clock measures proper time. 
+ 
+ 
+ 
+Δt = γΔtp: 
+ 
+ 
+ 
+Δtp = Δt
+γ =
+25.0 yr
+1
+1−v2 c2 = 25.0 yr 1−0.8002
+= 25.0 yr 0.600
+(
+) = 15.0 yr
+
+--- PAGE 12 ---
+844     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Method one: We measure the 20.0 ly on a stick stationary in our 
+frame, so it is proper length. The tourist measures it to be 
+contracted to 
+ 
+ 
+ 
+L = Lp
+γ =
+20.0 ly
+1
+1−0.8002 = 20.0 ly
+1.67
+= 12.0 ly 
+ 
+ 
+Method two: The tourist sees the Earth approaching at 0.800c: 
+ 
+ 
+ 
+0.800 ly yr
+(
+) 15.0 yr
+(
+) = 12.0 ly 
+*P39.18 
+The relativistic density is 
+ 
+ 
+ 
+ER
+c2V = γ mc2
+c2V = γ m
+V =
+m
+Lp
+(
+)
+3 1−u c
+(
+)
+2
+⎡⎣
+⎤⎦
+=
+8.00 g
+1.00 cm
+(
+)3 1−0.900
+(
+)2
+[
+]
+= 42.1 g cm3
+ 
+P39.19 
+The spaceship is measured by the Earth observer to be length-
+contracted to 
+ 
+ 
+ 
+L = Lp 1−v2
+c2 
+or 
+L2 = Lp
+2
+1−v2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Also, the contracted length is related to the time required to pass 
+overhead by 
+ 
+ 
+ 
+L = vΔt 
+or 
+L2 = v2 Δt
+(
+)
+2 = v2
+c2 cΔt
+(
+)
+2 
+ 
+Equating these two expressions gives Lp
+2 −Lp
+2 v2
+c2 = cΔt
+(
+)
+2 v2
+c2 . 
+ 
+or 
+ 
+Lp
+2 + cΔt
+(
+)
+2
+⎡⎣
+⎤⎦
+v2
+c2 = Lp
+2 
+ 
+Using the given values Lp = 300 m and Δt = 0.750 × 10−6 s , this becomes 
+ 
+ 
+ 
+1.41× 105 m2
+(
+) v2
+c2 = 9.00 × 104 m2 
+ 
+giving 
+v = 0.800c 
+P39.20 
+The spaceship is measured by Earth observers to be of length L, where 
+ 
+ 
+ 
+L = Lp 1−v2
+c2
+
+--- PAGE 13 ---
+Chapter 39     845 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and L = vΔt 
+ 
+ 
+ 
+vΔt = Lp 1−v2
+c2 
+and 
+v2Δt2 = Lp
+2
+1−v2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Solving for v, 
+ 
+ 
+ 
+ 
+v2 Δt2 +
+Lp
+2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟= Lp
+2 
+ 
+giving 
+v =
+cLp
+c2Δt2 + Lp
+2
+ 
+P39.21 
+(a) 
+When the source moves away from an observer, the observed 
+frequency is 
+ 
+ 
+ 
+′f = f
+c + v
+c −v
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= f
+c −vS
+c + vS
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+ 
+where v = vsource = −vS because the source is moving away from 
+the observer.  
+ 
+ 
+When vs c , the binomial expansion gives 
+ 
+ 
+ 
+c −vS
+c + vS
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 1−
+vS
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+1+
+vS
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1 2
+≈1−vS
+2c
+⎛
+⎝⎜
+⎞
+⎠⎟1−vS
+2c
+⎛
+⎝⎜
+⎞
+⎠⎟≈1−vS
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+So, 
+′f ≈f 1−vS
+c
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+The observed wavelength is found from c =
+′
+λ
+′f = λ f : 
+ 
+ 
+ 
+′
+λ = λ f
+′f
+≈
+λ f
+f 1−vS c
+(
+)
+=
+λ
+1−vS c
+Δλ =
+′
+λ −λ = λ
+1
+1−vS c −1
+⎛
+⎝⎜
+⎞
+⎠⎟= λ
+vS c
+1−vS c
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Since 1−vS
+c ≈1,   Δλ
+λ ≈vS
+c
+ 
+ 
+(b) We use the equation from part (a) with the given values: 
+ 
+ 
+ 
+vS = c Δλ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= c 20.0 nm
+397 nm
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.050 4c
+
+--- PAGE 14 ---
+846     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.22 
+We find Cooper’s speed from Newton’s second law: 
+ 
+ 
+ 
+ GMm
+r2
+= mv2
+r
+ 
+ 
+Solving, 
+ 
+ 
+ 
+v =
+GM
+R + h
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.37 × 106 m + 0.160 × 106 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 7.82 × 103 = 7.82 km/s
+ 
+ 
+Then the time period of one orbit is     
+ 
+ 
+ 
+T = 2π(R + h)
+v
+= 2π(6.53 × 10
+6 m)
+7.82 × 10
+3 m/s
+= 5.25 × 10
+3 s
+ 
+ 
+(a) 
+The time difference for 22 orbits is  
+ 
+ 
+ 
+Δt −Δtp = γ −1
+(
+)Δtp = 
+1−v2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+−1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+22T
+(
+) 
+ 
+ 
+ 
+Δt −Δtp ≈1+ 1
+2
+v2
+c2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟22T
+(
+) = 1
+2
+7.82 × 103 m/s
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+×22 5.25 × 103 s
+(
+) = 39.2µs
+ 
+ 
+(b) For each one orbit Cooper aged less by  
+ 
+ 
+ 
+Δt −Δtp = 39.2 µs
+22
+= 1.78 µs 
+ 
+ 
+The press report is accurate to one digit . 
+P39.23 
+(a) 
+The mirror is approaching the source. Let fm be the frequency as 
+seen by the mirror. Thus,  
+ 
+ 
+ 
+fm = f
+c + v
+c −v
+ 
+ 
+ 
+After reflection, the mirror acts as a source, approaching the 
+receiver. If  f' is the frequency of the reflected wave,  
+ 
+ 
+ 
+′f = fm
+c + v
+c −v
+ 
+ 
+ 
+Combining gives 
+ 
+ 
+ 
+ 
+′f = c + v
+c −v f
+
+--- PAGE 15 ---
+Chapter 39     847 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Using the above result, the beat frequency is  
+ 
+ 
+ 
+fbeat =
+′f −f =
+′f = c + v
+c −v f −f = f
+c + v
+c −v −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+fbeat = f
+c + v −c −v
+(
+)
+c −v
+⎛
+⎝⎜
+⎞
+⎠⎟= f
+2v
+c −v
+⎛
+⎝⎜
+⎞
+⎠⎟≈f 2v
+c = 2v
+c f
+fbeat = 2v
+λ
+ 
+ 
+(c) 
+The wavelength is  
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+10.0 × 109 Hz = 0.030 0 m
+ 
+ 
+ 
+The beat frequency is therefore, 
+ 
+ 
+ 
+fbeat = 2v
+λ = 2( ) 30.0 m/s
+(
+)
+0.030 0 m
+(
+)
+= 2 000 Hz = 2.00 kHz 
+ 
+(d) From part (b), v = fbeatλ
+2
+, so 
+ 
+ 
+ 
+Δv = Δfbeatλ
+2
+= 5.0 Hz
+(
+) 0.030 0 m
+(
+)
+2
+= 0.075 0 m/s ≈0.17 mi/h
+ 
+P39.24 
+(a) 
+In the Earth frame, Speedo’s trip lasts for a time 
+ 
+ 
+ 
+Δt = Δx
+v = 20.0 ly
+0.950c = 21.05 yr 
+ 
+ 
+Speedo’s age advances only by the proper time interval 
+ 
+ 
+ 
+Δtp = Δt
+γ = 21.05 yr 1−0.950
+(
+)
+2 = 6.574 yr  
+ 
+ 
+during his trip. Similarly for Goslo, 
+ 
+ 
+ 
+Δtp = Δx
+v
+1−v2
+c2 =
+20.0 ly
+0.750 ly yr
+1−0.750
+(
+)
+2 = 17.64 yr 
+ 
+ 
+While Speedo has landed on Planet X and is waiting for his 
+brother, he ages by 
+ 
+ 
+ 
+20.0 ly
+0.750 ly yr −
+20.0 ly
+0.950 ly yr = 5.614 yr
+
+--- PAGE 16 ---
+848     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From their departure to when the twins meet, Speedo has aged  
+(6.574 yr + 5.614 yr) = 12.19 yr, and Goslo has aged 17.64 years, 
+for an age difference of  
+ 
+ 
+ 
+17.64 yr −6.574 yr + 5.614 yr
+(
+) = 5.45 yr 
+ 
+(b) 
+Goslo is older.  
+P39.25 
+This problem is slightly more difficult than most, for the simple reason 
+that your calculator probably cannot hold enough decimal places to 
+yield an accurate answer. However, we can bypass the difficulty by 
+noting the approximation  
+ 
+ 
+ 
+1 −v2
+c2 ≈1 −v2
+2c2 
+ 
+ 
+Squaring both sides shows that when v/c is small, these two terms are 
+equivalent. 
+ 
+We evaluate v
+c =
+1 000 × 103 m/h
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.26 × 10−7 
+ 
+ 
+From Equation 39.7, the dilated time interval is 
+ 
+ 
+ 
+Δt = γ Δtp =
+Δtp
+1 −v2
+c2
+ 
+ 
+Rearranging, our approximation yields 
+ 
+ 
+ 
+Δtp =
+1 −v2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt ≈
+1 −v2
+2c2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt 
+ 
+and  
+Δt −Δtp = v2
+2c2 Δt 
+ 
+Substituting,  
+ 
+ 
+ 
+Δt −Δtp =
+9.26 × 10−7
+(
+)
+2
+2
+(3 600 s) 
+ 
+Thus, the time lag of the moving clock is  
+ 
+ 
+ 
+Δt −Δtp = 1.54 × 10−9 s = 1.54 ns
+
+--- PAGE 17 ---
+Chapter 39     849 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.26 
+The orbital speed of the Earth is as described by Newton’s second law: 
+ 
+ 
+ 
+F
+∑
+= ma:     GmSmE
+r2
+= mEv2
+r
+ 
+ 
+Solving for the speed, 
+ 
+ 
+v =
+GmS
+r
+=
+6.67 × 10−11 N⋅m2 /kg2
+(
+) 1.99 × 1030 kg
+(
+)
+1.496 × 1011 m
+= 2.98 × 104 m/s
+ 
+ 
+The maximum frequency received by the extraterrestrials is 
+ 
+ 
+′f max = f
+1+ v c
+1−v c
+= 57.0 × 106 Hz
+(
+)
+1+ 2.98 × 104 m/s
+(
+)
+3.00 × 108 m/s
+(
+)
+1−2.98 × 104 m/s
+(
+)
+3.00 × 108 m/s
+(
+)
+= 57.005 66 × 106 Hz
+ 
+ 
+The minimum frequency received is 
+ 
+ 
+′f min = f
+1+ v c
+1−v c
+= 57.0 × 106 Hz
+(
+)
+1−2.98 × 104 m/s
+(
+)
+3.00 × 108 m/s
+(
+)
+1+ 2.98 × 104 m/s
+(
+)
+3.00 × 108 m/s
+(
+)
+= 56.994 34 × 106 Hz
+ 
+ 
+The difference, which allows them figure out the speed of our planet, is 
+ 
+ 
+57.005 66 −56.994 34
+(
+) × 106 Hz = 1.13 × 104 Hz 
+ 
+ 
+ 
+Section 39.5 
+The Lorentz Transformation Equations 
+P39.27 
+(a) 
+From the Lorentz transformation, the separations between the 
+blue-light and red-light events are described by 
+ 
+ 
+ 
+Δ ′x = γ Δx−vΔt
+(
+) : 0 = γ 2.00 m −v 8.00 × 10−9 s
+(
+)
+⎡⎣
+⎤⎦ 
+ 
+ 
+ 
+v =
+2.00 m
+8.00 × 10−9 s = 2.50 × 108 m/s
+
+--- PAGE 18 ---
+850     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+γ =
+1
+1−2.50 × 108 m/s
+(
+)
+2
+3.00 × 108 m/s
+(
+)
+2 = 1.81
+ 
+ 
+(b) Again from the Lorentz transformation, ′x = γ x −vt
+(
+): 
+ 
+ 
+ 
+′x = 1.81 3.00 m −2.50 × 108 m/s
+(
+) 1.00 × 10−9 s
+(
+)
+⎡⎣
+⎤⎦= 4.98m 
+ 
+(c) 
+′t = γ
+t −v
+c2 x
+⎛
+⎝⎜
+⎞
+⎠⎟:  
+ 
+ 
+′t = 1.81 1.00 × 10−9 s −
+2.50 × 108 m/s
+(
+)
+3.00 × 108 m/s
+(
+)
+2 3.00 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+′t = −1.33 × 10−8s 
+P39.28 
+Let Shannon be fixed in reference from S and see the two light-
+emission events with coordinates x1 = 0, t1 = 0, x2 = 0, t2 = 3.00 µs. Let 
+Kimmie be fixed in reference frame S' and give the events coordinate 
+′x1 = 0 , ′t1 = 0 , ′t2 = 9.00 µs. 
+ 
+(a) 
+Then we have 
+ 
+ 
+ 
+′t2 = γ
+t2 −v
+c2 x2
+⎛
+⎝⎜
+⎞
+⎠⎟
+9.00 µs =
+1
+1−v2 c2 3.00 µs −0
+(
+)
+ 
+ 
+ 
+ 
+1−v2
+c2 = 1
+3
+ 
+ 
+ 
+ 
+v = 0.943c 
+ 
+(b) The coordinate separation of the events is  
+ 
+ 
+ 
+Δ ′x =
+′x2 −′x1 = γ
+x2 −x1
+(
+) −v t2 −t1
+(
+)
+⎡⎣
+⎤⎦
+= 3 0 −0.943c
+(
+) 3.00 × 10−6 s
+(
+)
+⎡⎣
+⎤⎦
+3.00 × 108 m/s
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −2.55 × 103 m
+ 
+ 
+ 
+ 
+Δ ′x = 2.55 × 103 m 
+ 
+ 
+The later pulse is to the left of the origin.
+
+--- PAGE 19 ---
+Chapter 39     851 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.29 
+The rod’s length perpendicular to the motion is the same in both the 
+proper frame of the rod and in the frame in which the rod is moving– 
+our frame: 
+ 
+ 
+ 
+y = sinθ = Py 
+ 
+where Py is the y component of the proper length.  
+ 
+We are given: = 2.00 m , and θ = 30.0°, both measured in our 
+reference frame. Also,  
+ 
+ 
+ 
+γ =
+1
+1−v2 c2 =
+1
+1−0.9952 ≈10.0 
+ 
+As observed in our frame,  
+ 
+ 
+ 
+x = cosθ = 2.00 m
+(
+)cos30.0° = 1.73 m 
+ 
+and  
+y = sinθ = 2.00 m
+(
+)sin30.0° = 1.00 m 
+ 
+Px is a proper length, related to x by   x = Px
+γ . 
+ 
+Therefore, 
+Px = 10.0x = 17.3 m 
+ 
+and  
+ 
+Py = y = 1.00 m 
+ 
+(a) 
+P =
+Px
+(
+)
+2 + Py
+(
+)
+2 =
+x
+γ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ y
+( )
+2 = 17.4 m 
+ 
+(b) In the proper frame,  
+ 
+ 
+  
+θ2 = tan−1 Py
+Px
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+y
+γ x
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 tan30.0°
+γ
+⎛
+⎝⎜
+⎞
+⎠⎟ = 3.30° 
+*P39.30 
+(a) 
+L0
+2 = L0x
+2 + L0y
+2 and L2 = Lx
+2 + Ly
+2 . 
+ 
+ 
+Since the motion is in the x direction, the length of the rod in the y 
+direction does not change: Ly = L0y = L0 sinθ0 and  
+ 
+ 
+ 
+Lx = L0x 1−v
+c( )
+2
+= L0 cosθ0
+(
+) 1−v
+c( )
+2
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+L2 = L0
+2 cos2θ0 1−v
+c( )
+2
+⎡
+⎣⎢
+⎤
+⎦⎥+ L0
+2 sin2θ0 = L0
+2 1−v
+c( )
+2
+cos2θ0
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 20 ---
+852     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+L = L0 1−v
+c( )
+2
+cos2θ0
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+. 
+ (b) tanθ = Ly
+Lx
+=
+L0y
+L0x 1−v c
+(
+)
+2 = γ tanθ0 
+P39.31 
+We use the Lorentz transformation equations 39.11. In frame S, we 
+may take t = 0 for both events, so the coordinates of event A are (x = 
+50.0 m, y = 0, z = 0, t = 0), and the coordinates of event B are (x = 150 m, 
+y = 0, z = 0, t = 0). The time coordinates of event A in frame S' are  
+ 
+ 
+ 
+′tA = γ
+tA −v
+c2 xA
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1
+1−0.800
+(
+)
+2
+0 −0.800c
+c2
+150 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.667 −
+120 m
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −6.67 × 10−7 s
+ 
+ 
+The time coordinates of event B in frame S' are  
+ 
+ 
+ 
+′tB = γ
+tB −v
+c2 xB
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1
+1−0.800
+(
+)
+2
+0 −0.800c
+c2
+50.0 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.667 −
+40.0 m
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −2.22 × 10−7 s
+ 
+ 
+We see that event B occurred earlier. The time elapsed between the 
+events was  
+ 
+ 
+ 
+Δ ′t = ′tA −′tB = γ
+Δt −v
+c2 Δx
+⎛
+⎝⎜
+⎞
+⎠⎟= −γ v
+c2 Δx
+= −1.667
+80.0 m
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= −4.44 × 10−7 s = 444 ns
+
+--- PAGE 21 ---
+Chapter 39     853 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P39.32 
+Section 39.6 
+The Lorentz Velocity Transformation Equations 
+P39.32 
+Take the galaxy as the unmoving frame. 
+Arbitrarily define the jet moving upward to 
+be the object, and the jet moving downward 
+to be the “moving” frame:  
+  
+ 
+ 
+ 
+′ux = velocity of other jet in  
+ 
+ 
+ 
+ 
+ 
+frame of jet  
+ 
+  
+ 
+ux = 
+velocity of other jet in  
+ 
+  
+ 
+ 
+ 
+frame of galaxy center  
+ 
+  
+ 
+ 
+=  0.750c 
+ 
+  
+ 
+v  = 
+speed of galaxy center in frame of jet = –0.750c 
+ 
+ 
+From Equation 39.16, the speed of the upward-moving jet as measured 
+from the downward-moving jet is  
+ 
+  
+ 
+′ux =
+ux −v
+1 −uxv/c2 =
+0.750c −(−0.750c)
+1 −(0.750c)(−0.750c)/c2 =
+1.50c
+1 + 0.7502
+= 0.960c
+ 
+P39.33 
+The question is equivalent to asking for the speed of the patrol craft in 
+the frame of the enemy craft.  
+ 
+ 
+′ux = velocity of patrol craft in frame of enemy craft
+ux = velocity of patrol craft in frame of Earth
+v = speed of Earth in frame of enemy craft
+  
+ 
+From Equation 39.16, 
+ 
+ 
+ 
+′ux =
+ux −v
+1−uxv c2 =
+0.900c −0.800c
+1−0.900
+(
+) 0.800
+(
+)
+= 0.357c 
+*P39.34 
+Let frame S be the Earth frame of reference. Then v = –0.700c. 
+ 
+The components of the velocity of the first spacecraft are 
+ 
+ 
+ 
+ux = 0.600c
+(
+)cos50.0° = 0.386c 
+ 
+and  
+uy = 0.600c
+(
+)sin50.0° = 0.460c. 
+ 
+As measured from the S’ frame of the second spacecraft, 
+ 
+ 
+ 
+′ux =
+ux −v
+1−uxv c2 =
+0.386c −−0.700c
+(
+)
+1−
+0.386c
+(
+) −0.700c
+(
+) c2
+[
+]
+= 1.086c
+1.27 = 0.855c
+
+--- PAGE 22 ---
+854     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+ 
+ 
+ 
+′uy =
+uy
+γ 1−uxv c2
+(
+)
+= 0.460c 1−0.700
+(
+)2
+1−0.386
+(
+) −0.700
+(
+)
+= 0.460c 0.714
+(
+)
+1.27
+= 0.258c
+ 
+ 
+The magnitude of ′
+u is 
+0.855c
+(
+)2 + 0.285c
+(
+)2 = 0.893c 
+ 
+and its direction is at 
+tan−1 0.258c
+0.855c
+(
+) = 16.8° above the ′x axis . 
+*P39.35 
+Taking to the right as positive, it is given that the velocity of the rocket 
+relative to observer A is vRA = +0.92c. If observer B observes the rocket 
+to have a velocity vRB = –0.95c, the velocity of observer B relative to the 
+rocket is vBR = +0.95c. The relativistic velocity addition relation then 
+gives the velocity of B relative to the stationary observer A as 
+ 
+ 
+ 
+vBA = vBR + vRA
+1+ vBRvRA
+c2
+=
++0.95c + 0.92c
+1+ 0.95c
+(
+) 0.92c
+(
+)
+c2
+= +0.998c
+  
+ 
+or 
+ 
+0.998c toward the right  
+ 
+ 
+ 
+Section 39.7 
+Relativistic Linear Momentum 
+P39.36 
+(a) 
+p = γ mu; for an electron moving at 0.010 0c, 
+ 
+ 
+ 
+γ =
+1
+1−u c
+(
+)
+2 =
+1
+1−0.010 0
+(
+)
+2 = 1.000 05 ≈1.00 
+ 
+ 
+Thus, p = 1.00 9.11× 10−31 kg
+(
+) 0.010 0
+(
+) 3.00 × 108 m/s
+(
+) 
+ 
+ 
+ 
+p = 2.73 × 10−24 kg ⋅m/s 
+ 
+(b) Following the same steps as used in part (a), we find at 0.500c,  
+γ  = 1.15 and  
+ 
+ 
+ 
+p = 1.58 × 10−22 kg ⋅m/s 
+ 
+(c) 
+At 0.900c, γ  = 2.29  and 
+ 
+ 
+ 
+ 
+p = 5.64 × 10−22 kg ⋅m/s
+
+--- PAGE 23 ---
+Chapter 39     855 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.37 
+(a) 
+The momentum condition 
+ 
+ 
+ 
+ 
+p = γ mu = 3mu
+→
+γ = 3 
+ 
+ 
+From the definition of γ ,  
+ 
+ 
+ 
+γ =
+1
+1−u c
+(
+)
+2
+→
+u = c 1−1
+γ 2 
+ 
+ 
+ 
+u = c 1−1
+32 = c
+8
+9 = 2 2
+3
+c = 0.943c = 2.83 × 108 m/s 
+ 
+(b) From part (a), we see the mass of the particle drops out. 
+The result would be the same . 
+*P39.38 
+From the definition of relativistic linear momentum, 
+ 
+ 
+ 
+p =
+mu
+1−u c
+(
+)
+2  
+ 
+we obtain  
+ 
+ 
+ 
+1−u2
+c2 = m2u2
+p2
+ 
+ 
+which gives: 
+ 
+ 
+ 
+ 
+ 
+1 = u2
+m2
+p2 + 1
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+or  
+c2 = u2
+m2c2
+p2
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+and 
+u =
+c
+m2c2 p2
+(
+) + 1
+. 
+*P39.39 
+(a) 
+Classically, 
+ 
+ 
+ 
+p = mv = m 0.990c
+(
+) = 1.67 × 10−27 kg
+(
+) 0.990
+(
+) 3.00 × 108 m/s
+(
+)
+= 4.96 × 10−19 kg⋅m/s
+  
+ 
+(b) By relativistic calculations, 
+ 
+ 
+ 
+p =
+mu
+1−u c
+(
+)
+2 =
+m 0.990c
+(
+)
+1−0.990
+(
+)2
+= 1.67 × 10−27 kg
+(
+) 0.990
+(
+) 3.00 × 108 m/s
+(
+)
+1−0.990
+(
+)2
+= 3.52 × 10−18 kg⋅m/s
+ 
+ 
+(c) 
+No , neglecting relativistic effects at such speeds would 
+introduce an approximate 86% error in the result.
+
+--- PAGE 24 ---
+856     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.40  
+We can express the proportion relating the speeding fine to the excess 
+momentum as 
+F
+$80.0 =
+pu −p90 km/h
+(
+)
+p190 km/h −p90 km/h
+(
+)
+, where F is the fine, 
+pu =
+mu
+1−u c
+(
+)
+2 is the magnitude of the vehicle’s momentum at speed 
+u, and c = 1.08 × 10
+9 km/h. After substitution of the expression for 
+momentum, the proportion becomes  
+ 
+ 
+ 
+F
+$80.0 =
+mu
+1−u c
+(
+)
+2 −
+m 90.0 km/h
+(
+)
+1−90.0 km/h c
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+m 190.0 km/h
+(
+)
+1−190.0 km/h c
+(
+)
+2 −
+m 90.0 km/h
+(
+)
+1−90.0 km/h c
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+≈
+u
+1−u c
+(
+)
+2 −90.0 km/h
+(
+)
+100.0 km/h
+ 
+ 
+(a) 
+For u = 1 090 km/h,  
+ 
+ 
+ 
+F
+$80.0 ≈
+1 090 km/h
+(
+)
+1−1 090 km/h 1.08 × 109 km/h
+(
+)
+2 −90.0 km/h
+(
+)
+100.0 km/h
+≈1 090 km/h
+(
+) −90.0 km/h
+(
+)
+100.0 km/h
+= 1 000 km/h
+100.0 km/h = 10
+F = $800
+ 
+ 
+(b) For u = 1 000 000 090 km/h,  
+ 
+ 
+ 
+F
+$80.0 ≈
+1
+100 km/h
+⎛
+⎝⎜
+⎞
+⎠⎟
+                   [
+1 000 000 090 km/h
+(
+)
+1−1 000 000 090 km/h 1.08 × 109 km/h
+(
+)
+2
+                                                                                −90.0 km/h
+(
+)]
+ 
+ 
+F
+$80.0 ≈2.648
+(
+) 1 000 000 090 km/h
+(
+) −90.0 km/h
+(
+)
+100.0 km/h
+ 
+ 
+ 
+ 
+F = $2.12 × 109
+
+--- PAGE 25 ---
+Chapter 39     857 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.41 
+The ratio of relativistic to classical momentum is 
+ 
+ 
+ 
+p −mu
+mu
+= γ mu −mu
+mu
+= γ −1 
+ 
+From the definition of γ , 
+ 
+ 
+ 
+γ −1 =
+1
+1−u c
+(
+)
+2 −1 ≈1+ 1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 = 1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+The ratio is then 
+ 
+ 
+ 
+p −mu
+mu
+≈1
+2
+90.0 m/s
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+4.51× 10−14 
+P39.42 
+Using the relativistic form, p =
+mu
+1−u c
+(
+)
+2 = γ mu, we find the 
+difference Δp from the classical momentum, mu: 
+ 
+ 
+ 
+Δp = γ mu−mu = γ −1
+(
+)mu 
+ 
+(a) 
+The difference is 1.00% when γ −1
+(
+)mu = 0.010 0γ mu:  
+ 
+ 
+ 
+γ =
+1
+0.990 =
+1
+1−u c
+(
+)
+2 
+ 
+ 
+thus,  
+ 
+ 
+ 
+ 
+1−
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.990
+(
+)
+2 , and 
+u = 0.141c 
+ 
+(b) The difference is 10.0% when γ −1
+(
+)mu = 0.100γ mu: 
+ 
+ 
+ 
+γ =
+1
+0.900 =
+1
+1−u c
+(
+)
+2 
+ 
+ 
+thus, 1−
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.900
+(
+)
+2 
+and 
+u = 0.436c 
+P39.43 
+Relativistic momentum of the system of fragments must be conserved. 
+For total momentum to be zero after as it was before, we must have, 
+with subscript 2 referring to the heavier fragment, and subscript 1 to 
+the lighter, p2 = p1, 
+ 
+or 
+ 
+γ 2m2u2 = γ 1m1u1 = 2.50 × 10−28 kg
+1−0.893
+(
+)
+2 × 0.893c
+(
+)
+
+--- PAGE 26 ---
+858     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+1.67 × 10−27 kg
+(
+)u2
+1−u2 c
+(
+)
+2
+= 4.960 × 10−28 kg
+(
+)c 
+ 
+Proceeding to solve, we find  
+ 
+ 
+ 
+1.67 × 10−27
+4.960 × 10−28
+u2
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1−u2
+2
+c2 
+ 
+ 
+ 
+12.3 u2
+2
+c2 = 1  and 
+u2 = 0.285c 
+ 
+ 
+ 
+Section 39.8 
+Relativistic Energy 
+*P39.44 
+We use the equation ΔE = γ 1 −γ 2
+(
+)mc2 . For an electron, 
+mc2 = 0.511 MeV. 
+ 
+(a) 
+ΔE =
+1
+1−0.810
+(
+) −
+1
+1−0.250
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟mc2 = 0.582 MeV 
+ 
+(b) 
+ΔE =
+1
+1−0.990
+(
+)2 −
+1
+1−0.810
+⎛
+⎝⎜
+⎞
+⎠⎟mc2 = 2.45 MeV 
+*P39.45 
+(a) 
+K = E −ER = 5ER 
+  
+E = 6ER = 6 9.11× 10−31 kg
+(
+) 3.00 × 108 m s
+(
+)
+2 = 4.92 × 10−13 J
+= 3.07 MeV
+ 
+ 
+(b) 
+E = γ mc2 = γ ER 
+ 
+ 
+Thus, γ = E
+ER
+= 6 =
+1
+1−u2 c2 which yields 
+u = 0.986c 
+P39.46 
+(a) 
+To find the speed of the protons with E = γ mc2 = 400mc2, we 
+write 
+ 
+ 
+ 
+γ =
+1
+1−u c
+(
+)
+2
+→
+u = c 1−1
+γ 2 
+ 
+ 
+So, 
+u = c 1−
+1
+400
+(
+)
+2 = 0.999 997c
+
+--- PAGE 27 ---
+Chapter 39     859 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From Example 39.9, for a proton, mc
+2 = 938 MeV. Then 
+ 
+ 
+ 
+K = γ −1
+(
+)mc2 = 399 938 MeV
+(
+) = 3.74 × 105 MeV 
+P39.47 
+At u = 0.950c, it will be useful to know the gamma factor:  
+ 
+ 
+ 
+γ =
+1
+1 – u2/c2 =
+1
+1 – 0.9502 = 3.20 
+ 
+(a) 
+The rest energy is  
+ 
+ 
+ 
+ER = mc2 = 1.67 × 10−27 kg
+(
+) 2.998 × 108 m/s
+(
+)
+2
+= 1.50 × 10−10 J
+= 1.50 × 10−10 J
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 938 MeV
+ 
+ 
+ 
+ 
+(We use a value for c accurate to four digits so that we can be 
+sure to get an answer accurate to three digits. Through the rest of 
+the book we will use values for physical constants accurate to 
+four digits or to three, whichever we like. We will still quote 
+answers to three digits, and you can still think of the last digit as 
+uncertain.) 
+ 
+(b) The total energy is 
+ 
+ 
+  
+E = γ mc2 = γ ER = (3.20)(938 MeV) = 3.00 GeV 
+ 
+(c) 
+The kinetic energy is 
+ 
+ 
+ 
+ 
+ 
+K = E −ER = 3.00 GeV – 938 MeV = 2.07 GeV 
+P39.48 
+(a) 
+Using the classical equation, 
+ 
+ 
+ 
+K = 1
+2 mu2 = 1
+2 78.0 kg
+(
+) 1.06 × 105 m/s
+(
+)
+2 = 4.38 × 1011 J 
+ 
+(b) Using the relativistic equation, K =
+1
+1−u c
+(
+)
+2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+mc2: 
+ 
+ 
+ 
+K =
+1
+1−
+1.06 × 105
+2.998 × 108
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 −1
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+⎥
+78.0 kg
+(
+) 3.00 × 108 m/s
+(
+)
+2
+= 4.38× 1011J
+
+--- PAGE 28 ---
+860     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+When u
+c 1, the binomial series expansion gives 
+ 
+ 
+ 
+1−
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−1 2
+≈1+ 1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+Thus, 1−
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−1 2
+−1 ≈1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ and the relativistic expression for 
+kinetic energy becomes K ≈1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mc 2 = 1
+2 mu 2. That is, in the 
+limit of speeds much smaller than the speed of light, the 
+relativistic and classical expressions yield the same results. In this 
+situation the two kinetic energy values are experimentally 
+indistinguishable.  The fastest-moving macroscopic objects 
+launched by human beings move sufficiently slowly compared to 
+light that relativistic corrections to their energy are negligible. 
+P39.49 
+The work–kinetic energy theorem is W = ΔK = K f −Ki, which for 
+relativistic speeds (u comparable to c) is:  
+ 
+ 
+ 
+W =
+1
+1 – uf
+2/c2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+mc2 −
+1
+1 – ui
+2/c2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+mc2 
+ 
+or, simplified, 
+ 
+ 
+ 
+  
+W = 1/ 1 – uf
+2/c2 −1/ 1 – ui
+2/c2
+(
+)mc2 
+ 
+From our specialized equation, 
+ 
+(a) 
+W =
+1
+1 – 0.7502 −
+1
+1 – 0.5002
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+                × 1.67 × 10−27 kg
+(
+) 3.00 × 108 m/s
+(
+)
+2
+ 
+ 
+ 
+ 
+W = (1.512 −1.155) 1.50 × 10−10 J
+(
+) = 5.37 × 10−11 J = 336 MeV
+ 
+ 
+ 
+(b) 
+W =
+1
+1 – 0.9952 −
+1
+1 – 0.5002
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+                  1.67 × 10−27 kg
+(
+) 3.00 × 108 m/s
+(
+)
+2
+ 
+ 
+ 
+W = 10.01 −1.155
+(
+) 1.50 × 10−10 J
+(
+) = 1.33 × 10−9 J = 8.32 GeV
+
+--- PAGE 29 ---
+Chapter 39     861 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.50 
+The relativistic kinetic energy of an object of mass m and speed u  
+ 
+is Kr =
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟mc2. The classical equation is Kc = 1
+2 mu2 . Their 
+ratio is  
+ 
+ 
+ 
+Kr
+Kc
+=
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟mc2
+1
+2 mu2
+=
+2
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+u2 c2
+= 2
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1
+u2 c2
+Kr
+Kc
+= 2
+1
+1−0.100
+(
+)
+2 −1
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+1
+0.100
+(
+)
+2 = 1.007 56
+ 
+ 
+For still smaller speeds the agreement will be still better. 
+P39.51 
+Given E = 2mc
+2, where mc
+2 = 938 MeV from Example 39.9. We use 
+Equation 39.27: 
+ 
+ 
+ 
+E2 = p2c2 + mc2
+(
+)
+2
+2mc2
+(
+)
+2 = p2c2 + mc2
+(
+)
+2
+4 mc2
+(
+)
+2 = p2c2 + mc2
+(
+)
+2
+→
+p2c2 = 3 mc2
+(
+)
+2
+ 
+ 
+Solving for the momentum then gives 
+ 
+ 
+ 
+p =
+3 mc2
+(
+)
+c
+=
+3 938 MeV
+(
+)
+c
+= 1.62 × 103 MeV c
+ 
+P39.52 
+(a) 
+E = γ mc2 = 20.0 GeV with mc
+2 = 0.511 MeV for electrons. 
+ 
+ 
+Thus, γ = 20.0 × 109 eV
+0.511× 106 eV = 3.91× 104 . 
+ 
+(b) 
+γ =
+1
+1−u c
+(
+)
+2
+→
+u = c 1−1
+γ 2 = 0.999 999 999 7c 
+ 
+(c) 
+L = Lp 1−
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+Lp
+γ = 3.00 × 103 m
+3.91× 104
+= 7.67 × 10−2 m = 7.67 cm
+
+--- PAGE 30 ---
+862     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.53  
+(a) 
+E = 2.86 × 105 J leaves the system, so the final mass is smaller . 
+ 
+(b) The mass-energy relation says that E = mc2. Therefore, 
+ 
+ 
+ 
+m = E
+c2 =
+2.86 × 105 J
+3.00 × 108 m/s
+(
+)
+2 = 3.18 × 10−12 kg 
+ 
+(c) 
+It is too small a fraction of 9.00 g to be measured . 
+P39.54 
+The loss of mass in the nuclear reactor is 
+ 
+ 
+ 
+Δm = E
+c2 = PΔt
+c2
+= 0.800 1.00 × 109 J/s
+(
+) 3.00 yr
+(
+) 3.16 × 107 s/yr
+(
+)
+3.00 × 108 m/s
+(
+)
+2
+= 0.842 kg
+ 
+P39.55 
+The power output of the Sun is 
+ 
+ 
+ 
+P = dE
+dt =
+d mc2
+(
+)
+dt
+= c2 dm
+dt = 3.85 × 1026 W 
+ 
+Thus, 
+dm
+dt =
+3.85 × 1026 J/s
+3.00 × 108 m/s
+(
+)
+2 = 4.28 × 109 kg/s 
+P39.56 
+Total energy is conserved. The photon must have enough energy to be 
+able to create an electron and a positron, both having the same rest 
+mass: 
+ 
+  
+ 
+ 
+Eγ ≥2mec2 = 1.02 MeV
+→
+Eγ ≥1.02 MeV 
+P39.57 
+We use Equation 39.23 for relativistic kinetic energy. 
+ 
+(a) 
+The change in kinetic energy of the spaceship is the minimum 
+energy required to accelerate the spaceship. From Equation 39.23, 
+relativistic kinetic energy is given by 
+ 
+ 
+ 
+K = γ −1
+(
+)mc2 =
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟mc2
+
+--- PAGE 31 ---
+Chapter 39     863 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The change in kinetic energy is then 
+ 
+ 
+ 
+ΔK = γ f −1
+(
+)mc2 −γ i −1
+(
+)mc2 = γ f −γ i
+(
+)mc2
+=
+1
+1−uf
+2 c2 −
+1
+1−ui
+2 c2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟mc2
+=
+1
+1−0.700
+(
+)
+2 −
+1
+1−0
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟mc2
+= 1.40 −1
+(
+) 2.40 × 106 kg
+(
+) 2.998 × 108 m/s
+(
+)
+2
+= 8.63 × 1022 J
+ 
+ 
+ 
+(b) We use Einstein’s famous mass-energy relation, and equate the 
+rest energy of the fuel to the change in kinetic energy of the 
+spacecraft: 
+ 
+ 
+ 
+E = mc2 = ΔK 
+ 
+ 
+The required mass of fuel is then  
+ 
+  
+ 
+m = ΔK
+c2 =
+1
+1−0.700
+(
+)
+2 −1
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟2.40 × 106 kg
+(
+) = 9.61× 105 kg
+ 
+P39.58 
+We are told to start from E = γ mc2 and p = γ mu. Squaring both 
+equations gives 
+ 
+ 
+ 
+ 
+ 
+E2 = γ mc2
+(
+)
+2 
+and 
+p2 = γ mu
+(
+)
+2 
+ 
+ 
+We choose to multiply the second equation by c2 and subtract it from 
+the first: 
+ 
+ 
+ 
+ 
+E2 −p2c2 = γ mc2
+(
+)
+2 −(γ mu)2c2 
+We factor to obtain 
+ 
+ 
+ 
+E2 −p2c2 = γ 2
+mc2
+(
+) mc2
+(
+) −mc2
+(
+) mu2
+(
+)
+⎡⎣
+⎤⎦
+ 
+Extracting the (mc
+2) factors gives 
+ 
+ 
+ 
+E2 −p2c2 = γ 2 mc2
+(
+)
+2 1 −u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 32 ---
+864     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+We substitute the definition of γ : 
+ 
+ 
+E2 −p2c2 =
+1 −u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+mc2
+(
+)
+2 1 −u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+The γ 2 factors divide out, leaving 
+ 
+  
+ 
+ 
+E2 −p2c2 = mc2
+(
+)
+2 
+P39.59  
+From K = γ −1
+(
+)mc2 =
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟mc2, we have 
+ 
+ 
+ 
+K
+mc2 + 1 =
+1
+1−u2 c2 = K + mc2
+mc2
+ 
+ 
+ 
+ 
+1−u2
+c2 =
+m2c4
+K + mc2
+(
+)
+2
+u2
+c2 = 1−
+mc2
+(
+)
+2
+K + mc2
+(
+)
+2
+u = c 1−
+mc2
+K + mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+ 
+ 
+(a) 
+Electron: u = c 1−
+0.511
+2.511
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 0.979c 
+ 
+(b) Proton: u = c 1−
+938
+940
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 0.065 2c 
+ 
+(c) 
+uelectron
+uproton
+= 0.979c
+0.065 2c = 15.0 
+In this case the electron is moving relativistically, but the classical 
+expression 1
+2 mv2 is accurate to two digits for the proton. 
+ 
+(d) Electron: u = c 1−
+0.511
+2 000.511
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 0.999 999 97c 
+ 
+ 
+Proton: u = c 1−
+938
+2 938
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 0.948c
+
+--- PAGE 33 ---
+Chapter 39     865 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+uelectron
+uproton
+=
+c 1−
+0.511
+2 000.511
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+c 1−
+938
+2 938
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 1.06
+ 
+As the kinetic energies of both particles become large, their 
+speeds approach c. By contrast, classically the speed would 
+become large without any finite limit. 
+P39.60 
+The kinetic energy of the car is given by 
+ 
+ 
+ 
+K = γ −1
+(
+)mc2 =
+1−u2 c2
+(
+)
+−1 2 −1
+(
+)mc2 
+ 
+We use the series expansion from Appendix B.5: 
+ 
+ 
+ 
+K = mc2 1+ −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟(−u2 c2) + −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 (−u2 c2)2 + ... −1
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+ 
+K = 1
+2 mu2 + 3
+8 m u4
+c2 + ... 
+ 
+The actual kinetic energy, given by this relativistic equation, is 
+larger than the classical 1
+2 mu2. 
+ 
+The difference, for m = 1 000 kg and u = 25 m/s, is 
+ 
+ 
+ 
+3
+8 m u4
+c2 = 3
+8(1 000 kg)
+(25 m/s)4
+(3.00 × 108m/s)2 = 1.6 × 10−9J ~ 10−9J 
+P39.61 
+We use, together, both the energy version and the momentum version 
+of the isolated system model. By conservation of system energy, 
+ 
+ 
+ 
+mπc2 = γ mµc2 + pν c 
+ 
+By conservation of system momentum: 
+ 
+ 
+ 
+ 
+pν = −pµ = −γ mµu 
+ 
+Substituting the second equation into the first, 
+ 
+ 
+ 
+mπc2 = γ mµc2 + γ mµuc 
+ 
+Simplified, this equation then reads  
+ 
+ 
+ 
+mπ = mµ(γ + γ u/c)
+
+--- PAGE 34 ---
+866     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting the masses, 
+ 
+ 
+ 
+ 
+ 
+273me = (207me)(γ + γ u/c) 
+ 
+ 
+where the rest energy of an electron is 
+ 
+ 
+ 
+ 
+ 
+mec2 = 0.511 MeV 
+ 
+Numerically, 
+ 
+ 
+ 
+  
+273me
+207me
+=
+1 + u/c
+1 – (u/c)2 =
+1 + u/c
+1 −u/c 
+ 
+Solving for the muon speed,  
+ 
+ 
+ 
+u
+c = 2732 −2072
+2732 + 2072 = 0.270 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+ 
+γ =
+1
+1 – u2/c2 = 1.038 5 
+ 
+ 
+(a) 
+and the muon’s kinetic energy is  
+ 
+ 
+ 
+ 
+Kµ = (0.038 5)(207 × 0.511 MeV) = 4.08 MeV 
+ 
+ 
+(b) The energy of the antineutrino is 
+ 
+ 
+ 
+Kν = (273 × 0.511 MeV) −(207 × 0.511 MeV + 4.08 MeV)
+= 29.6 MeV
+ 
+ 
+P39.62 
+(a) 
+The initial system is isolated . 
+ 
+(b) 
+Isolated system: conservation of energy, and isolated system:
+conservation of momentum.
+ 
+ 
+(c) 
+We must conserve both energy and 
+relativistic momentum of the system of 
+fragments. With subscript 1 referring to 
+the 0.987c particle and subscript 2 to the 
+0.868c particle, 
+ 
+ 
+ 
+γ 1 =
+1
+1−0.987
+(
+)
+2 = 6.22 and  
+ 
+ 
+ 
+γ 2 =
+1
+1−0.868
+(
+)
+2 = 2.01 
+ANS. FIG. P39.62
+
+--- PAGE 35 ---
+Chapter 39     867 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) Conservation of energy gives E1 + E2 = Etotal 
+ 
+ 
+which is 
+ 
+ 
+ 
+ 
+γ 1m1c2 + γ 2m2c2 = mtotalc2 
+ 
+ 
+or 
+6.22m1 + 2.01m2 = 3.34 × 10−27 kg 
+ 
+ 
+This reduces to: 3.09m1 + m2 = 1.66 × 10−27 kg 
+[1] 
+ 
+(e) 
+Since the final momentum of the system must equal zero, p1 = p2 
+gives  
+ 
+ 
+ 
+γ 1m1u1 = γ 2m2u2 
+ 
+ 
+or 
+6.22
+(
+) 0.987c
+(
+)m1 = 2.01
+(
+) 0.868c
+(
+)m2 
+ 
+ 
+which becomes   m2 = 3.52m1 
+[2] 
+ 
+(f) 
+Substituting [2] into [1] gives 
+ 
+ 
+ 
+3.09m1 + 3.52m1 = 1.66 × 10−27 kg 
+ 
+ 
+thus, m1 = 2.51× 10−28 kg and m2 = 8.84 × 10−28 kg 
+P39.63 
+Let m = 1.99 × 10
+−26 kg, and u = uˆi = 0.500cˆi. An isolated system of two 
+particles of mass m and m′ = m/3 collide with the respective velocities 
+u and −u , resulting in a particle with mass M and velocity v f = v fˆi. 
+By conservation of the x component of momentum (γ mu): 
+ 
+  
+ 
+mu
+1−u2 c2 +
+m −u
+(
+)
+3 1−u2 c2 =
+Mv f
+1−v f
+2 c2
+2mu
+3 1−u2 c2 =
+Mv f
+1−v f
+2 c2
+ 
+[1]
+ 
+ 
+By conservation of total energy (γ mc
+2): 
+ 
+ 
+ 
+mc2
+1−u2 c2 +
+mc2
+3 1−u2 c2 =
+Mc2
+1−v f
+2 c2
+4mc2
+3 1−u2 c2 =
+Mc2
+1−v f
+2 c2
+ 
+[2]
+ 
+ 
+To start solving, we divide the momentum equation [1] by the energy 
+equation [2], giving v f = 2u
+4 = u
+2 .
+
+--- PAGE 36 ---
+868     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, substituting the value of the final speed back into the energy 
+equation [2], we get 
+ 
+ 
+ 
+Mc2
+1−u2 4c2 =
+4mc2
+3 1−u2 c2
+2Mc2
+4 −u2 c2 =
+4mc2
+3 1−u2 c2
+M = 2m 4 −u2 c2
+3 1−u2 c2
+=
+2 1.99 × 10−26 kg
+(
+) 4 −0.500
+(
+)
+2
+3 1−0.500
+(
+)
+2
+M = 2.97 × 10−26 kg
+ 
+P39.64 
+(a) 
+By conservation of the x component of momentum (γ mu): 
+ 
+  
+ 
+mu
+1−u2 c2 +
+m −u
+(
+)
+3 1−u2 c2 =
+Mv f
+1−v f
+2 c2
+2mu
+3 1−u2 c2 =
+Mv f
+1−v f
+2 c2
+ 
+[1]
+ 
+ 
+ 
+By conservation of total energy (γ mc
+2): 
+ 
+ 
+ 
+mc2
+1−u2 c2 +
+mc2
+3 1−u2 c2 =
+Mc2
+1−v f
+2 c2
+4mc2
+3 1−u2 c2 =
+Mc2
+1−v f
+2 c2
+ 
+[2]
+ 
+ 
+ 
+To start solving, we divide the momentum equation [1] by the 
+energy equation [2], giving v f = 2u
+4 = u
+2 . Then, substituting the 
+value of the final speed back into the energy equation [2], we get 
+ 
+ 
+ 
+Mc2
+1−u2 4c2 =
+4mc2
+3 1−u2 c2
+2Mc2
+4 −u2 c2 =
+4mc2
+3 1−u2 c2
+M = 2m 4 −u2 c2
+3 1−u2 c2
+
+--- PAGE 37 ---
+Chapter 39     869 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As u →0, M = 2m 4 −u2 c2
+3 1−u2 c2
+→2m 4
+3 1
+= 4m
+3
+ 
+ 
+(c) 
+The answer to part (b) is in agreement with the classical result,
+which is the arithmetic sum of the masses of the two colliding
+particles.
+ 
+ 
+ 
+ 
+Section 39.9 
+The General Theory of Relativity 
+P39.65 
+(a) 
+For the satellite, Newton’s second law gives 
+ 
+ 
+ 
+ 
+F
+∑
+= ma:     GMEm
+r2
+= mv2
+r
+= m
+r
+2π r
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+  
+ 
+which gives 
+ 
+ 
+ 
+GMET 2 = 4π 2r3 
+ 
+ 
+Solving for the orbital radius, 
+ 
+ 
+ 
+r = GMET 2
+4π 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+r =
+6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 43 080 s
+(
+)
+2
+4π 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 3
+ = 2.66 × 107 m
+ 
+ 
+(b) 
+v = 2π r
+T
+=
+2π 2.66 × 107 m
+(
+)
+43 080 s
+= 3.87 × 103 m/s 
+(c) 
+From the relationship of frequency and period: 
+ 
+ 
+ 
+f = 1
+T
+→
+df = −dT
+T 2 = −f
+dT
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+df
+f = −dT
+T
+ 
+We see the fractional decrease in frequency is equal in magnitude 
+to the fractional change in period. 
+The small fractional decrease in frequency received is equal in 
+magnitude to the fractional increase in period of the moving 
+oscillator due to time dilation: 
+ 
+df
+f = −dT
+T = −γΔtP −ΔtP
+ΔtP
+= −γ −1
+(
+)
+
+--- PAGE 38 ---
+870     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+df
+f = −
+1
+1−v c
+(
+)
+2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+= 1−
+1
+1−v c
+(
+)
+2
+≈1−1+ 1
+2
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −1
+2
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= −1
+2
+3.87 × 103 m/s
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= −8.34 × 10−11
+ 
+ 
+(d) The orbit altitude is large compared to the radius of the Earth, so 
+we must use 
+ 
+ 
+ 
+Ug = −GMEm
+r
+ 
+ 
+ 
+The change in gravitational potential energy is 
+ 
+ 
+ 
+ΔUg = −6.67 × 10−11 N⋅m2
+kg2
+⎛
+⎝⎜
+⎞
+⎠⎟
+      × 5.98 × 1024 kg
+(
+)m
+1
+2.66 × 107 m −
+1
+6.37 × 106 m
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 4.76 × 107 J/kg
+(
+)m
+ 
+ 
+ 
+Then 
+ 
+ 
+ 
+Δf
+f = ΔUg
+mc2 =
+4.76 × 107 J/kg
+(
+) m
+m 3.00 × 108 m/s
+(
+)
+2 = +5.29 × 10−10
+ 
+ 
+(e) 
+−8.34 × 10−11 + 5.29 × 10−10 = +4.46 × 10−10 
+ 
+ 
+ 
+Additional Problems 
+P39.66 
+(a) 
+When Ke = Kp,   mec2 γ e −1
+(
+) = mpc2 γ p −1
+(
+) 
+ 
+ 
+In this case, mec2 = 0.511 MeV, mpc2 = 938 MeV 
+ 
+ 
+and γ e = 1−0.750
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1 2
+= 1.511 9
+
+--- PAGE 39 ---
+Chapter 39     871 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting,  γ p = 1+ mec2 γ e −1
+(
+)
+mpc2
+= 1+ 0.511 MeV
+(
+) 1.511 9 −1
+(
+)
+938 MeV
+= 1.000 279
+ 
+ 
+ 
+But   
+γ p =
+1
+1−up c
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2 
+ 
+ 
+Therefore,  up = c 1−γ p
+−2 = 0.023 6c 
+ 
+(b) When pe = pp ,  γ pmpup = γ emeue or γ pup = γ emeue
+mp
+ 
+ 
+ 
+Thus,  γ pup =
+1.511 9
+(
+) 0.511 MeV c2
+(
+) 0.750c
+(
+)
+938 MeV c2
+= 6.177 2 × 10−4c 
+ 
+ 
+and 
+up
+c = 6.177 2 × 10−4 1−
+up
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+which yields up = 6.18 × 10−4c = 185 km/s 
+P39.67 
+The original rest energy of four protons is 
+ 
+ 
+  
+ER = 4(938.78 MeV) = 3 755.12 MeV  
+ 
+The energy given off is  
+ 
+ 
+  
+ΔE = (3 755.12 −3 728.4) MeV = 26.7 MeV 
+ 
+The fractional energy released is 
+ 
+ 
+ 
+ 
+ΔE
+ER
+= 26.7 MeV
+3 755 MeV × 100% =
+0.712%
+ 
+P39.68 
+From the particle under constant speed model, find the travel time for 
+Speedo from Goslo’s reference frame: 
+ 
+ 
+ 
+Δt = d
+u = 
+2 50 ly
+(
+)
+0.85c
+c ⋅yr
+ly
+⎛
+⎝⎜
+⎞
+⎠⎟ = 118 yr 
+ 
+Therefore, when Speedo arrives back on Earth, 118 years have passed 
+and Goslo would have to be 158 years old. Furthermore, Speedo will 
+be 102 years old. Perhaps future medical breakthroughs may extend 
+the life expectancy to 158 years and beyond, but that is impossible at 
+present.
+
+--- PAGE 40 ---
+872     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P39.69 
+(a) 
+Consider the raindrops moving toward the station, at speed v. 
+They receive radio waves with the Doppler-enhanced frequency 
+′f = f
+c + v
+c −v , where f = 2.85 GHz. These raindrops reflect the 
+waves at frequency ′f . The waves are received by the station 
+with another upward Doppler shift in frequency to 
+ 
+ 
+ 
+ 
+′′
+f
+=
+′f
+c + v
+c −v = f
+c + v
+c −v
+c + v
+c −v 
+ 
+ 
+ 
+ 
+2.85 × 109 Hz + 254 Hz = 2.85 × 109 Hz c + v
+c −v
+(
+)
+1+ 8.91× 10−8 = c + v
+c −v
+ 
+ 
+ 
+ 
+ 
+c + 8.91× 10−8c −v −8.91× 10−8v = c + v
+8.91× 10−8c = 2.000 000 089v
+v = 4.46 × 10−8
+(
+) 3.00 × 108 m s
+(
+) = 13.4 m s
+ 
+ 
+ 
+The same calculation with 254 Hz replaced by –254 Hz applies to 
+the receding raindrops and given the same velocity magnitude. 
+Thus the velocities are 13.4 m/s toward the station and 13.4 m/s 
+away from the station. 
+ 
+(b) Radio waves travel to the rain and back again in 180 µs, so the 
+one-way distance is 1
+2 3.00 × 108 m s
+(
+) 180 × 10−6 s
+(
+) = 27 000 m. 
+The frequency shifts indicate the batch of raindrops are whirling 
+around a common center separated by 1° of arc. The diameter of 
+the vortex is  
+ 
+ 
+ 
+s = rθ = 27 000 m
+(
+) 1°
+(
+) π rad
+180°
+⎛
+⎝
+⎞
+⎠= 471 m 
+ 
+ 
+Its radius is therefore 1
+2 471 m
+(
+) = 236 m and the angular speed of 
+the rain is ω = v
+r = 13.4 m s
+236 m
+= 0.056 7 rad s . A Doppler 
+weather radar computer performs a calculation like this to detect 
+a “tornado vortex signature.” 
+*P39.70 
+From energy conservation, we have 
+ 
+ 
+ 
+1 400 kg
+(
+)c2
+1−02
++ 900 kg
+(
+)c2
+1−0.8502 =
+Mc2
+1−v2 c2
+
+--- PAGE 41 ---
+Chapter 39     873 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+3 108 kg
+(
+) 1−v2
+c2 = M 
+ 
+From momentum conservation, we have 
+ 
+ 
+ 
+ 
+0 + 900 kg
+(
+) 0.850c
+(
+)
+1−0.8502
+=
+Mv
+1−v2 c2
+ 
+ 
+ 
+ 
+1 452 kg
+(
+) 1−v2
+c2 = Mv
+c
+ 
+ 
+(a) 
+Dividing the momentum equation by the energy equation gives  
+ 
+ 
+ 
+v
+c = 1 452
+3 108 = 0.467 , or 
+v = 0.467c 
+ 
+(b) Now by substitution, 3 108 kg
+(
+) 1−0.4672 =
+M = 2.75 × 103 kg . 
+*P39.71 
+(a) 
+Observers on Earth measure the distance to Andromeda to be  
+ 
+ 
+ 
+d = 2.00 × 106 ly = 2.00 × 106 ly
+(
+)c  
+ 
+ 
+The time for the trip, in Earth’s frame of reference, is  
+ 
+ 
+ 
+Δt = γ Δtp =
+30.0 yr
+1−v/c
+(
+)
+2
+  
+ 
+ 
+The required speed is then 
+ 
+ 
+ 
+v = d
+Δt =
+2.00 × 106 ly
+(
+)c
+30.0 yr
+(
+)
+1−v/c
+(
+)
+2
+ 
+ 
+ 
+which gives, suppressing units, 
+ 
+ 
+ 
+1.50 × 10−5
+(
+) v/c
+(
+) =
+1−v/c
+(
+)
+2 
+ 
+ 
+Squaring both sides of this equation and solving for v/c yields  
+ 
+ 
+ 
+v
+c =
+1
+1+ 2.25 × 10−10
+ 
+ 
+ 
+Then, the approximation 
+1
+1+ x = 1−x
+2 gives  
+ 
+ 
+ 
+v
+c = 1−2.25 × 10−10
+2
+= 1−1.12 × 10−10
+
+--- PAGE 42 ---
+874     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Let v
+c =
+1
+1+ x , where x = 2.25 × 10−10.. Then, 
+ 
+ 
+ 
+1−
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1−
+1
+1+ x =
+x
+1+ x
+  
+ 
+ 
+and 
+ 
+ 
+ 
+γ =
+1
+1−
+v
+c
+⎛
+⎝
+⎞
+⎠
+2 =
+1+ x
+x
+=
+1+ 1
+x
+  
+ 
+ 
+The kinetic energy of the spacecraft is given by 
+ 
+  
+ 
+KE = γ −1
+(
+)mc2 =
+1+ 1
+x −1
+⎛
+⎝⎜
+⎞
+⎠⎟mc2
+ 
+ 
+  
+Thus, 
+ 
+  
+ 
+KE =
+1+
+1
+2.25 × 10−10 −1
+⎛
+⎝⎜
+⎞
+⎠⎟1.00 × 106 kg
+(
+) 3.00 × 108 m/s
+(
+)
+2
+= 5.99991× 1027 J = 6.00 × 1027 J
+  
+ 
+(c) 
+The cost of this energy is 
+ 
+  
+ 
+cost = KE × rate =
+6.00 × 1027 J
+(
+)
+1 kWh
+3.60 × 106 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥$0.13/kWh
+(
+)
+= $2.17 × 1020
+  
+*P39.72 
+In this case, the proper time is T0 (the time measured by the students 
+on a clock at rest relative to them). The dilated time measured by the 
+professor is: 
+ 
+ 
+ 
+Δt = γ T0 
+ 
+where Δt = T + t. Here T is the time she waits before sending a signal 
+and t is the time required for the signal to reach the students. Thus, we 
+have: 
+ 
+ 
+ 
+T + t = γ T0 
+[1] 
+ 
+To determine the travel time t, realize that the distance the students will 
+have moved beyond the professor before the signal reaches them is: 
+ 
+ 
+ 
+ 
+d = v T + t
+(
+) 
+ 
+The time required for the signal to travel this distance is: 
+ 
+ 
+ 
+t = d
+c = v
+c( ) T + t
+(
+)
+
+--- PAGE 43 ---
+Chapter 39     875 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for t gives: 
+ 
+ 
+ 
+t =
+v c
+(
+)T
+1−v c
+(
+)
+ 
+ 
+Substituting this into equation [1] yields: 
+ 
+ 
+ 
+ 
+T +
+v c
+(
+)T
+1−v c
+(
+) = γ T0
+ 
+ 
+or 
+ 
+T
+1−v c = γ T0 . 
+ 
+Then  
+ 
+ 
+ 
+T = T0
+1−v c
+(
+)
+1−v2 c2
+(
+)
+= T0
+1−v c
+(
+)
+1+ v c
+(
+)
+[
+] 1−v c
+(
+)
+[
+]
+= T0
+1−v c
+(
+)
+1+ v c
+(
+)
+ 
+*P39.73 
+(a) 
+The proper lifetime is measured in the ship’s reference frame, and 
+Earth-based observers measure a dilated lifetime of 
+ 
+ 
+ 
+Δt = γ Δtp =
+Δtp
+1−v/c
+(
+)
+2 =
+15.0 yr
+1−0.700
+(
+)
+2 = 21.0 yr
+ 
+ 
+(b) As measured by mission control, the distance to the ship is 
+ 
+ 
+ 
+d = vΔt = 0.700c
+(
+) 21.0 yr
+(
+) =
+0.700
+(
+) 1.00 ly/yr
+(
+)
+⎡⎣
+⎤⎦21.0 yr
+(
+)
+= 14.7 ly
+ 
+  
+(c) 
+Looking out the rear window, the astronauts see Earth recede at a 
+rate of v = 0.700c. The distance it has receded, as measured by the 
+astronauts, when the batteries fail is 
+ 
+ 
+ 
+d = v Δtp
+(
+) = 0.700c
+(
+) 15.0 yr
+(
+) =
+0.700
+(
+) 1.00 ly/yr
+(
+)
+⎡⎣
+⎤⎦15.0 yr
+(
+)
+= 10.5 ly
+  
+ 
+(d) Mission control gets signals for 21.0 yr while the battery is 
+operating and then for 14.7 yr after the battery stops powering the 
+transmitter, 14.7 ly away. The total time that signals are received 
+is 21.0 yr + 14.7 yr = 35.7 yr .  
+P39.74 
+(a) 
+We let H represent K mc2 . Then,  
+ 
+ 
+ 
+ 
+H + 1 =
+1
+1−u2 c2
+
+--- PAGE 44 ---
+876     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+1−u2 c2 =
+1
+H 2 + 2H + 1
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+u2
+c2 = 1−
+1
+H 2 + 2H + 1
+=
+H 2 + 2H
+H 2 + 2H + 1
+ 
+ 
+ 
+ 
+and u = c
+H 2 + 2H
+H 2 + 2H + 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+  
+(b) 
+u goes to 0 as K goes to 0. 
+ 
+(c) 
+u approaches c as K increases without limit. 
+ 
+(d) The acceleration is given by 
+ 
+ 
+ 
+a = du
+dt = d
+dt c
+H 2 + 2H
+H 2 + 2H + 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+ 
+a = c 1
+2
+H 2 + 2H
+H 2 + 2H + 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+      ×
+H 2 + 2H + 1
+⎡⎣
+⎤⎦2H + 2
+[
+]−H 2 + 2H
+⎡⎣
+⎤⎦2H + 2
+[
+]
+H 2 + 2H + 1
+⎡⎣
+⎤⎦
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+      × d(K mc2)
+dt
+ 
+ 
+ 
+ 
+a = c H 2 + 2H + 1
+H 2 + 2H
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+H + 1
+H + 1
+[
+]
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+P
+mc 2
+=
+P
+mcH 1 2(H + 2)1 2(H + 1)2
+ 
+ 
+ 
+where P = dK
+dt . 
+ 
+(e) 
+When H is small ( H 1), we have approximately 
+ 
+ 
+ 
+a =
+P
+mcH 1 2(2)1 2(1)2 =
+P
+mcH 1 221 2 =
+P
+mc
+K
+mc2
+⎛
+⎝
+⎞
+⎠
+1 2
+21/2
+=
+P
+2mK
+(
+)
+1 2
+ 
+ 
+ 
+in agreement with the nonrelativistic case.
+
+--- PAGE 45 ---
+Chapter 39     877 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+When H is large the acceleration approaches 
+ 
+ 
+ 
+a =
+P
+mcH 1 2(H + 2)1 2(H + 1)2 →
+P
+mcH 1 2(H)1 2(H)2 =
+P
+mcH 3
+=
+P
+mc
+K
+mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 = m2c5P
+K 3
+ 
+ 
+(g) 
+As energy is steadily imparted to the particle, the particle’s
+acceleration decreases. It decreases steeply, proportionally to
+1/K 3 at high energy. In this way the particle’s speed cannot
+reach or surpass a certain upper limit, which is the speed of
+light in vacuum.
+ 
+ 
+*P39.75 
+(a) 
+From Problem 71,  
+ 
+ 
+ 
+v
+c =
+1
+1+ 2.25 × 10−10
+ 
+ 
+ 
+and 
+ 
+  
+ 
+γ =
+1
+1−
+1
+1+ 2.25 × 10−10
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 =
+1
+1−
+1
+1+ 2.25 × 10−10
+⎛
+⎝
+⎞
+⎠
+= 6.67 × 104
+ 
+ 
+(b) The astronaut’s speed, from Problem 71, is  
+ 
+  
+ 
+v =
+1
+1+ 2.25 × 10−10 c
+ 
+ 
+  
+The time difference between the astronaut’s trip and that of the 
+beam of light is then  
+ 
+  
+ 
+Δt = d
+v −d
+c = d 1
+v −1
+c
+⎛
+⎝⎜
+⎞
+⎠⎟= d
+c
+c
+v −1
+⎛
+⎝⎜
+⎞
+⎠⎟= d
+c
+1+ x −1
+(
+) ≈d
+c 1+ x
+2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= d
+c
+x
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+  
+Where x = 2.25 × 10−10. Substituting numerical values,  
+ 
+  
+ 
+Δt = 2.00 × 106 ly
+(
+) 9.46 × 1015 m/ly
+(
+)
+3.00 × 108 m/s
+2.25 × 10−10
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7 095 s = 1.96 h
+
+--- PAGE 46 ---
+878     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.76 
+The energy of the first fragment is given by  
+ 
+ 
+ 
+E1
+2 = p1
+2c2 + m1c2
+(
+)
+2 = 1.75 MeV
+(
+)
+2 + 1.00 MeV
+(
+)
+2 
+ 
+ 
+ 
+E1 = 2.02 MeV 
+ 
+For the second, 
+ 
+ 
+ 
+E2
+2 = 2.00 MeV
+(
+)
+2 + 1.50 MeV
+(
+)
+2 
+ 
+ 
+ 
+E2 = 2.50 MeV 
+ 
+(a) 
+Energy is conserved, so the unstable object had 
+E = E1 + E2 = 4.52 MeV. Each component of momentum is 
+conserved, so for the original object 
+ 
+ 
+ 
+p2 = px
+2 + py
+2 =
+1.75 MeV
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++
+2.00 MeV
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Then, using Equation 39.27, we find the mass of the original 
+object: 
+ 
+ 
+ 
+E2 = p2c2 + mc2
+(
+)
+2 
+ 
+  
+ 
+4.52 MeV
+(
+)
+2 =
+1.75 MeV
+(
+)
+2 + 2.00 MeV
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥+ mc2
+(
+)
+2 
+ 
+ 
+ 
+m = 3.65 MeV
+c2
+ 
+ 
+(b)  Now E = γ mc2 gives 
+ 
+ 
+ 
+4.52 MeV =
+1
+1−u2 c2 3.65 MeV 
+ 
+ 
+ 
+1−u2
+c2 = 0.654   which gives  u = 0.589c 
+P39.77 
+The relativistic kinetic energy of such a proton is  
+ 
+ 
+ 
+K = γ −1
+(
+)mc2 = 1013 MeV 
+ 
+ 
+Its rest energy is  
+ 
+ 
+ 
+ 
+mc2 = 1.67 × 10−27 kg
+(
+) 2.998 × 108 m/s
+(
+)
+2
+                              ×
+1eV
+1.60 × 10−19 kg · m2/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 938 MeV
+ 
+ 
+ 
+So 
+ 
+1013 MeV = (γ −1)(938 MeV)
+
+--- PAGE 47 ---
+Chapter 39     879 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and therefore, γ = 1.07 × 1010. The proton’s speed in the galaxy’s 
+reference frame can be found from 
+ 
+ 
+ 
+γ = 1/ 1 – u2/c2 
+so 
+1 – u2/c2 = 8.80 × 10−21 
+ 
+ and  
+u = c 1−8.80 × 10−21 ≈1−4.40 × 10−21
+(
+)c ≈3.00 × 108m/s 
+ 
+ 
+The proton’s speed is nearly as large as the speed of light. In the galaxy 
+frame, the traversal time is  
+ 
+ 
+ 
+Δt = x/u = 105 light years/c = 105 years 
+ 
+(a) 
+This is dilated from the proper time measured in the proton’s 
+frame. The proper time interval is found from Δt = γ Δtp: 
+ 
+ 
+ 
+Δtp = Δt/γ = 105 yr/1.07 × 1010 = 9.38 × 10−6 years  =  296 s 
+ 
+ 
+ 
+Δt 102 s or 103 s 
+ 
+(b) The proton sees the galaxy moving by at a speed nearly equal to c, 
+passing in 296 s:  
+ 
+ 
+ 
+ 
+ΔLproton frame = uΔtp = 3.00 × 108 m/s
+(
+)(296 s)
+= 8.88 × 107 km ∼108 km
+ 
+ 
+ 
+ 
+ 
+ΔLproton frame = 8.88 × 1010 m
+(
+)
+1 ly
+9.46 × 1015 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 9.39 × 10−6 ly ∼10−5 ly
+ 
+P39.78 
+Look at the situation from the instructors’ viewpoint since they are at 
+rest relative to the clock, and hence measure the proper time. The Earth 
+moves with velocity v = −0.280c relative to the instructors while the 
+students move with a velocity ′u = −0.600c relative to Earth. Using the 
+velocity addition equation, the velocity of the students relative to the 
+instructors (and hence the clock) is: 
+ 
+ 
+ 
+u =
+v + ′u
+1+ v ′u c2 =
+−0.280c
+(
+) −0.600c
+(
+)
+1+ −0.280c
+(
+) −0.600c
+(
+) c2 = −0.753c  
+ 
+(students relative to clock) 
+ 
+(a) 
+With a proper time interval of Δtp = 50.0 min, the time interval 
+measured by the students is: 
+ 
+ 
+ 
+Δt = γ Δtp with γ =
+1
+1−0.753c
+(
+)
+2 c2
+= 1.52
+
+--- PAGE 48 ---
+880     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, the students measure the exam to last  
+ 
+ 
+ 
+T = 1.52 50.0 min
+(
+) = 76.0 minutes 
+ 
+(b) The duration of the exam as measured by observers on Earth is: 
+ 
+ 
+ 
+Δt = γ Δtp  with  γ =
+1
+1−0.280c
+(
+)
+2 c2
+  so   
+ 
+ 
+ 
+T = 1.04(50.0 min) = 52.1 minutes 
+P39.79 
+(a) 
+The speed of light in water is c/1.33, so the electron’s speed is 
+1.10c/1.333. Then 
+ 
+ 
+ 
+γ =
+1
+1−(1.10 1.333)2 = 1.770  
+ 
+ 
+and the total energy is 
+ 
+ 
+ 
+E = γ mc2 = 1.770 0.511 MeV
+(
+) = 0.905 MeV  
+ 
+(b) The electron’s kinetic energy is 
+ 
+ 
+ 
+K = E −mc2 = 0.905 MeV −0.511 MeV = 0.394 MeV 
+ 
+(c) 
+The electron’s momentum is found from 
+ 
+ 
+ 
+pc =
+E2 −(mc2)2 =
+γ 2 −1  mc2
+=
+γ 2 −1 0.511 MeV
+(
+) = 0.747 MeV
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+p = 0.747 MeV
+c
+= 0.747 × 106 1.602 × 10−19 J
+(
+)
+3.00 × 108 m/s
+= 3.99 × 10−22 kg⋅m/s
+ 
+ 
+(d) From Figure 17.11, the angle between the particle (source of 
+waves) and the shock wave is 
+ 
+ 
+ 
+sinθ = v vS 
+ 
+  
+where v is the wave speed, which is the speed of light in water, 
+and vS is the source speed. Then 
+ 
+ 
+ 
+sinθ = v vS = 1 1.10
+→
+θ = 65.4°
+
+--- PAGE 49 ---
+Chapter 39     881 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.80 
+(a) 
+From Equation 39.18, the speed of light in the laboratory frame is 
+ 
+ 
+ 
+u =
+v + c
+n
+1+ v c n
+(
+)
+c2
+= c (1+ nv c)
+n (1+ v nc) 
+ 
+(b) When v is much less than c we have 
+ 
+ 
+ 
+u = c
+n 1+ nv
+c
+⎛
+⎝⎜
+⎞
+⎠⎟1+ v
+nc
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+≈c
+n 1+ nv
+c
+⎛
+⎝⎜
+⎞
+⎠⎟1−v
+nc
+⎛
+⎝⎜
+⎞
+⎠⎟
+≈c
+n 1+ nv
+c −v
+nc
+⎛
+⎝⎜
+⎞
+⎠⎟= c
+n + v −v
+n2
+ 
+ 
+(c) 
+If light travels at speed c/n in the water, and the water travels at 
+speed v, then the Galilean velocity transformation Equation 4.20 
+would indeed give c/n + v for the speed of light in the moving 
+water. The third term – v/n
+2 does represent a relativistic effect 
+that was observed decades before the Michelson-Morley 
+experiment. It is a piece of twentieth-century physics that 
+dropped into the nineteenth century. We could say that light is 
+intrinsically relativistic. 
+ 
+(d) To take the limit as v approaches c we must go back to 
+u = c (1+ nv c)
+n (1+ v nc)
+. As v →c , 
+ 
+ 
+ 
+u →c (1+ nc c)
+n (1+ c nc) = c(1+ n)
+n + 1
+= c 
+P39.81 
+(a) 
+Assuming the Sun-mass system is isolated, the energy (work) 
+required to remove a mass m from the Sun’s surface to infinity is 
+equal to the change in potential energy of the system. If the work 
+equals the rest energy mc2, then 
+ 
+  
+ 
+W = ΔE = ΔK + ΔU = 0 + U f −Ui
+(
+)
+mc2 = 0 −−GMsm
+Rg
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+mc2 = GMsm
+Rg
+→
+Rg = GMs
+c2
+ 
+ 
+(b) 
+Rg = GMs
+c2
+=
+6.67 × 10−11 N.m2 /kg2
+(
+) 1.99 × 1030 kg
+(
+)
+3.00 × 108 m/s
+(
+)
+2
+ 
+ 
+ 
+Rg = 1.47 × 103 m = 1.47 km
+
+--- PAGE 50 ---
+882     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.82 
+We find the speed of the electrons after accelerating through a 
+potential difference ΔV from Equation 39.23: 
+ 
+ 
+K = eΔV =  γ  − 1
+(
+)mc2 = 
+1
+1 −  u c
+(
+)
+2  − 1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟mc2 
+ 
+then 
+ 
+ 
+1
+1 −  u c
+(
+)
+2  = eΔV
+mc2  + 1 = eΔV + mc2
+mc2
+ 
+ 
+or 
+ 
+ 
+1 −  u c
+(
+)
+2 = 
+mc2
+eΔV + mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+Solving, 
+ 
+ 
+u
+c  =  1− 
+m
+eΔV c2 + m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Substituting numerical values and suppressing units, 
+ 
+ 
+u
+c  =  1 − 
+9.11 × 10−31 kg
+(
+)
+1.60 × 10−19 C
+(
+) 8.40 × 104 V
+(
+)
+3.00 × 108 m/s
+(
+)
+2
++ 9.11 × 10−31 kg
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+⎥
+2
+u = 0.512c
+ 
+ 
+Because this speed is more than half the speed of light, there is no way 
+to double its speed, regardless of the increased accelerating voltage. If 
+the accelerating voltage is quadrupled to 336 kV, the speed of the 
+electrons rises to u = 0.798c. 
+P39.83 
+(a) 
+Take the spaceship as the primed frame, moving toward the right 
+at v = +0.600c. Then ′ux = +0.800c, and 
+ 
+ 
+ 
+ux =
+′ux + v
+1+
+′uxv
+(
+) c2 =
+0.800c + 0.600c
+1+ 0.800
+(
+) 0.600
+(
+)
+= 0.946c 
+ 
+(b) 
+L =
+Lp
+γ
+: 
+L = 0.200 ly
+(
+) 1−0.600
+(
+)
+2 = 0.160 ly 
+ 
+(c) 
+The aliens observe the 0.160-ly interval decreasing because the 
+probe reduces it from one end at 0.800c and the Earth reduces it at 
+the other end at 0.600c.
+
+--- PAGE 51 ---
+Chapter 39     883 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 
+time =
+0.160 ly
+0.800c + 0.600c = 0.114 yr 
+ 
+(d) In Earth’s reference frame, the kinetic energy of the landing craft is 
+ 
+ 
+ 
+K =
+1
+1−u2 c2 −1
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟mc2 
+ 
+ 
+ 
+ 
+K =
+1
+1−0.946
+(
+)
+2 −1
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟4.00 × 105 kg
+(
+) 3.00 × 108 m/s
+(
+)
+2
+= 7.50 × 1022 J
+ 
+P39.84 
+(a) 
+Take m = 1.00 kg. The classical kinetic energy is 
+ 
+ 
+ 
+Kc = 1
+2 mu2 = 1
+2 mc2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4.50 × 1016 J
+(
+) u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+ 
+and the actual kinetic energy is  
+ 
+ 
+Kr =
+1
+1−u c
+(
+)
+2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+mc2 = 9.00 × 1016 J
+(
+)
+1
+1−u c
+(
+)
+2 −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+ 
+ 
+ 
+Using these expressions, we generate the graph in ANS. GRAPH 
+P39.84. 
+ 
+ 
+u
+c
+Kc J( )
+Kr J( )
+0.000
+0.000
+0.000
+0.100
+0.045 × 1016
+0.045 3 × 1016
+0.200
+0.180 × 1016
+0.186 × 1016
+0.300
+0.405 × 1016
+0.435 × 1016
+0.400
+0.720 × 1016
+0.820 × 1016
+0.500
+1.13 × 1016
+1.39 × 1016
+0.600
+1.62 × 1016
+2.25 × 1016
+0.700
+2.21× 1016
+3.60 × 1016
+0.800
+2.88 × 1016
+6.00 × 1016
+0.900
+3.65 × 1016
+11.6 × 1016
+0.990
+4.41× 1016
+54.8 × 1016
+ 
+ANS. GRAPH P39.84
+
+--- PAGE 52 ---
+884     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Kc = 0.990Kr , when 1
+2
+u
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.990
+1
+1−u c
+(
+)
+2 −1
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+, yielding  
+ 
+ 
+ 
+u = 0.115c 
+ 
+(c) 
+Similarly, Kc = 0.950Kr  when u = 0.257c . 
+ 
+(d) 
+Kc = 0.500Kr when u = 0.786c . 
+P39.85 
+Both observers measure the speed of light to be c. 
+ 
+(a) 
+Call the total travel time ΔtS. An observer at rest relative to the 
+mirror sees the light travel a distance d1 = d from the spacecraft to 
+the mirror, but a distance d2 = d −vΔtS from the mirror back to the 
+spacecraft because the spacecraft has traveled the distance 
+vΔtS forward. Therefore, the total distance traveled by the light is 
+ 
+ 
+ 
+D = d1 + d2
+d + d −vΔtS
+(
+) = cΔtS
+ΔtS = 2d
+c + v =
+2d
+c + 0.650c =
+2 5.66 × 1010 m
+(
+)
+1.650 3.00 × 108 m/s
+(
+)
+= 229 s
+ 
+ 
+(b) The observer in the spacecraft measures a length-contracted 
+initial distance to the mirror of 
+ 
+ 
+ 
+L = d 1−v2
+c2 
+ 
+ 
+and the mirror moving toward the ship at speed v. Consider the 
+motion of the light toward the mirror in time interval Δt1: light 
+travels toward the mirror at speed c while the mirror travels toward 
+the spacecraft at speed v; together, they travel the distance L: 
+ 
+ 
+ 
+cΔt1 + vΔt1 = L
+Δt1 =
+L
+c + v
+ 
+ 
+ 
+When light strikes the mirror, it is a distance ′
+L = L −vΔt1 from 
+the spacecraft. The light must travel back through this same 
+distance to return to the spacecraft: 
+  
+ 
+ 
+cΔt2 = L −vΔt1
+→
+Δt2 = L
+c −v
+c Δt1
+
+--- PAGE 53 ---
+Chapter 39     885 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The total travel time is 
+ 
+ 
+ 
+Δt1 + Δt2 =
+L
+c + v + L
+c −v
+c Δt1 =
+L
+c + v + L
+c −v
+c
+L
+c + v
+⎛
+⎝⎜
+⎞
+⎠⎟
+= Lc + L c + v
+(
+)−Lv
+c c + v
+(
+)
+=
+2Lc
+c c + v
+(
+) =
+2
+c + v
+(
+)d 1−v2
+c2
+=
+2
+c + v
+(
+)d
+c2 −v2
+c
+ 
+ 
+ 
+ 
+Δt1 + Δt2 = 2d
+c
+c −v
+c + v = 2d
+c
+c −0.650c
+c + 0.650c
+= 2 5.66 × 1010 m
+(
+)
+3.00 × 108 m/s
+(
+)
+0.350
+1.650
+= 174 s
+ 
+P39.86 
+Both observers measure the speed of light to be c.  
+ 
+(a) 
+Call the total travel time ΔtS. An observer at rest relative to the 
+mirror sees the light travel a distance d1 = d from the spacecraft to 
+the mirror, but a distance d2 = d −vΔtS from the mirror back to the 
+spacecraft because the spacecraft has traveled the distance vΔtS 
+forward. Therefore, the total distance traveled by the light is  
+ 
+ 
+ 
+D = d1 + d2
+d + d −vΔtS
+(
+) = cΔtS
+ΔtS =
+2d
+c + v
+ 
+ 
+(b) The observer in the spacecraft measures a length-contracted 
+initial distance to the mirror of 
+ 
+ 
+ 
+L = d 1−v2
+c2 
+ 
+ 
+and the mirror moving toward the ship at speed v. Consider the 
+motion of the light toward the mirror in time interval Δt1: light 
+travels toward the mirror at speed c while the mirror travels toward 
+the spacecraft at speed v; together, they travel the distance L:  
+ 
+ 
+ 
+cΔt1 + vΔt1 = L
+Δt1 =
+L
+c + v
+
+--- PAGE 54 ---
+886     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+When light strikes the mirror, it is a distance L' = L −vΔt1 from 
+the spacecraft. The light must travel back through this same 
+distance to return to the spacecraft:  
+ 
+ 
+ 
+cΔt2 = L −vΔt1     →    Δt2 = L
+c −v
+c Δt1
+ 
+ 
+ 
+The total travel time is  
+ 
+ 
+Δt1 + Δt2 =
+L
+c + v + L
+c −v
+c Δt1
+=
+L
+c + v + L
+c −v
+c
+L
+c + v
+⎛
+⎝⎜
+⎞
+⎠⎟
+= Lc + L c + v
+(
+) −Lv
+c c + v
+(
+)
+=
+2Lc
+c c + v
+(
+)
+=
+2
+c + v
+(
+)
+d 1−v2
+c2
+=
+2
+c + v
+(
+)
+d
+c2 −v2
+c
+Δt1 + Δt2 = 2d
+c
+c −v
+c + v
+ 
+P39.87 
+Since the total momentum is zero before decay, it is necessary that 
+after the decay 
+ 
+ 
+ 
+pnucleus = pphoton =
+Eγ
+c = 14.0 keV
+c
+ 
+ 
+Also, for the recoiling nucleus, E2 = p2c2 + mc2
+(
+)
+2 with 
+ 
+ 
+ 
+Mc2 = 8.60 × 10−9 J = 5.38 × 1010 eV = 5.38 × 107 keV 
+ 
+Thus,  
+Mc2 + K
+(
+)
+2 = 14.0 keV
+(
+)
+2 + Mc2
+(
+)
+2 
+ 
+or  
+ 
+ 
+ 
+1+
+K
+Mc 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+14.0 keV
+Mc 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1 
+ 
+Because the term 14.0 keV
+Mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 1, evaluating 14.0 keV
+Mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1 on a 
+calculator gives 1.
+
+--- PAGE 55 ---
+Chapter 39     887 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We need to expand 14.0 keV
+Mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1 using the Binomial Theorem: 
+ 
+ 
+ 
+1+
+K
+Mc2 =
+1+ 14.0 keV
+Mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+≈1+ 1
+2
+14.0 keV
+Mc2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+ 
+K ≈
+14.0 keV
+(
+)
+2
+2Mc2
+=
+14.0 × 103 eV
+(
+)
+2
+2 53.8 × 109 eV
+(
+)
+= 1.82 × 10−3 eV 
+ 
+ 
+ 
+Challenge Problems 
+P39.88 
+(a) 
+At any speed, the momentum of the particle is given by 
+ 
+ 
+ 
+p = γ mu =
+mu
+1−u c
+(
+)
+2 
+ 
+ 
+With Newton’s law expressed as F = qE = dp
+dt , we have  
+ 
+ 
+ 
+qE = d
+dt mu 1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+ 
+qE = m 1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2 du
+dt + 1
+2 mu 1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−3 2
+2u
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+du
+dt
+ 
+ 
+ 
+so 
+qE
+m = du
+dt
+1−u2 c2 + u2 c2
+1−u2 c2
+(
+)
+3 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+ 
+ 
+ 
+and 
+a = du
+dt = qE
+m
+1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+ 
+ 
+(b) For u small compared to c, the relativistic expression reduces to 
+the classical a = qE
+m
+. As u approaches c, the acceleration 
+approaches zero, so that the object can never reach the speed of 
+light.
+
+--- PAGE 56 ---
+888     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We can use the result of (a) to find the velocity u at time t:  
+ 
+ 
+ 
+a = du
+dt = qE
+m
+1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+→
+du
+1−u2 c2
+(
+)
+3 2
+0
+u
+∫
+=
+qE
+m dt
+0
+t
+∫
+u
+1−u2 c2
+(
+)
+1 2 = qEt
+m
+u2 =
+qEt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+u =
+qEct
+m2c2 + q2E2t2
+ 
+ 
+ 
+Now, we can use this result to find position x at time t:  
+ 
+ 
+ 
+dx
+dt = u =
+qEct
+m2c2 + q2E2t2
+x = udt
+0
+t
+∫
+= qEc
+tdt
+m2c2 + q2E2t2
+0
+t
+∫
+= c
+qE
+m2c2 + q2E2t2
+0
+t
+x = c
+qE
+m2c2 + q2E2t2 −mc
+(
+)
+ 
+P39.89 
+(a) 
+Take the two colliding protons as the system 
+ 
+ 
+ 
+E1 = K + mc2  
+E2 = mc2 
+ 
+ 
+ 
+E1
+2 = p1
+2c2 + m2c4 
+p2 = 0 
+ 
+ 
+In the final state, 
+ 
+ 
+ 
+E f = K f + Mc2 = p f
+2c2 + M2c4  
+ 
+ 
+By energy conservation, E1 + E2 = E f , so 
+ 
+ 
+ 
+E1
+2 + 2E1E2 + E2
+2 = E f
+2 
+ 
+ 
+ 
+p1
+2c2 + m2c4 + 2 K + mc2
+(
+)mc2 + m2c4
+= p f
+2c2 + M2c4
+ 
+ 
+ 
+By conservation of momentum, p1 = p f , so  
+ 
+ 
+ 
+p1
+2c2 + m2c4 + 2 K + mc2
+(
+)mc2 + m2c4
+= p f
+2c2 + M2c4
+
+--- PAGE 57 ---
+Chapter 39     889 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and we have then 
+ 
+ 
+ 
+ 
+M2c4 = 2Kmc2 + 4m2c4 = 4Km2c4
+2mc2
++ 4m2c4 
+ 
+ 
+ 
+Mc2 = 2mc2 1+
+K
+2mc2 
+ 
+ANS. FIG. P39.89 
+ 
+(b) By contrast, for colliding beams we have, in the original state, 
+ 
+ 
+ 
+ 
+E1 = K + mc2 
+E2 = K + mc2 
+ 
+ 
+In the final state, 
+ 
+ 
+ 
+ 
+E f = Mc2 
+ 
+ 
+ 
+E1 + E2 = E f : 
+ 
+ 
+ 
+ 
+ 
+K + mc2 + K + mc2 = Mc2 
+ 
+ 
+ 
+ 
+Mc2 = 2mc2 1+
+K
+2mc2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P39.90 
+We choose to write down the answer to part (b) first. 
+ 
+(b) Consider a hermit who lives on an asteroid halfway between the 
+Sun and Tau Ceti, stationary with respect to both. Just as our 
+spaceship is passing him, he also sees the blast waves from both 
+explosions. Judging both stars to be stationary, this observer 
+concludes that the two stars blew up simultaneously .
+
+--- PAGE 58 ---
+890     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+We in the spaceship moving past the hermit do not calculate the 
+explosions to be simultaneous. We measure the distance we have 
+traveled from the Sun as 
+ 
+ 
+ 
+L = Lp 1−
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 6.00 ly
+(
+) 1−0.800
+(
+)
+2 = 3.60 ly 
+ 
+ 
+We see the Sun flying away from us at 0.800c while the light from 
+the Sun approaches at 1.00c. Thus, the gap between the Sun and 
+its blast wave has opened at 1.80c, and the time we calculate to 
+have elapsed since the Sun exploded is 
+ 
+ 
+ 
+3.60 ly
+1.80c = 2.00 yr 
+ 
+ 
+We see Tau Ceti as moving toward us at 0.800c, while its light 
+approaches at 1.00c, only 0.200c faster. We measure the gap 
+between that star and its blast wave as 3.60 ly and growing at 
+0.200c. We calculate that it must have been opening for 
+ 
+ 
+ 
+3.60 ly
+0.200c = 18.0 yr 
+ 
+ 
+and conclude that Tau Ceti exploded 16.0 years before the Sun . 
+P39.91 
+(a) 
+Since Dina is in the same reference frame, S′, as Owen, she 
+measures the ball to have the same speed Owen observes, namely  
+ 
+ 
+ 
+′ux = 0.800c 
+ 
+(b) Within the frame S′, the ball travels 1.80 × 1012 m at a speed of 
+0.800c, so  
+ 
+ 
+ 
+Δ ′t =
+Lp
+′ux
+=
+1.80 × 1012 m
+0.800 3.00 × 108 m/s
+(
+)
+= 7.50 × 103 s 
+ 
+(c) 
+In the S frame, the distance between Dina and Owen is a proper 
+length; therefore,  
+ 
+ 
+ 
+L = Lp 1−v2
+c2 = 1.80 × 1012 m
+(
+) 1−
+0.600c
+(
+)
+2
+c2
+= 1.44 × 1012 m 
+ 
+ 
+Since v = 0.600c and ′ux = −0.800c, the velocity Ed measures for 
+the ball is 
+ 
+ 
+ 
+ux =
+′ux + v
+1+ ′uxv c2 =
+−0.800c
+(
+) + 0.600c
+(
+)
+1+ −0.800
+(
+) 0.600
+(
+)
+= −0.385c
+
+--- PAGE 59 ---
+Chapter 39     891 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) Ed measures the ball and Dina to be initially separated by 
+1.44 × 1012 m. Dina’s motion at 0.600c and the ball’s motion at 
+0.385c cover this distance from both ends. The gap closes at the 
+rate 0.600c + 0.385c = 0.985c, so the ball and catcher meet after a 
+time 
+ 
+  
+ 
+ 
+Δt =
+1.44 × 1012 m
+0.985 3.00 × 108 m/s
+(
+)
+= 4.88 × 103 s
+
+--- PAGE 60 ---
+892     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P39.2 
+(a–b) See P39.2 for full explanation. 
+P39.4 
+See P39.4 for full explanation. 
+P39.6 
+(a) 0.436 m; (b) less than 0.436 m 
+P39.8 
+(a) 2.18 µs ; (b) 649 m 
+P39.10 
+65.0 beats/min; (b) 10.5 beats/min 
+P39.12 
+(a) Lp = 20.0 m; (b) L = 19.0 m; (c) 0.312c 
+P39.14 
+0.140c 
+P39.16 
+(a) 1.3 × 10−7 s; (b) 38 m; (c) 7.6 m 
+P39.18 
+42.1 g/cm3 
+P39.20 
+v =
+cLp
+c2Δt2 + Lp
+2 
+P39.22 
+(a) 39.2 µs ; (b) accurate to one digit 
+P39.24 
+(a) 5.45 yr; (b) Goslo 
+P39.26 
+1.13 × 10
+4 Hz 
+P39.28 
+(a) v = 0.943c; (b) 2.55 × 10
+3 m  
+P39.30 
+(a) L = L0 1−v
+c( )
+2
+cos2θ0
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+; (b) γ tanθ0 
+P39.32 
+0.960c 
+P39.34 
+0.893c, 16.8° above the x’ axis 
+P39.36 
+(a) 2.73 × 10−24 kg ⋅m/s; (b) 1.58 × 10−22 kg ⋅m/s;  
+(c) 5.64 × 10−22 kg ⋅m/s 
+P39.38 
+u =
+c
+m2c2 p2
+(
+) + 1
+ 
+P39.40 
+(a) $800; (b) $2.12 × 10
+9 
+P39.42 
+(a) 0.141c; (b) 0.436c 
+P39.44 
+(a) 0.582 MeV; (b) 2.45 MeV 
+P39.46 
+(a) 0.999997c; (b) 3.74 × 10
+5 MeV 
+P39.48 
+(a) 4.38 × 10
+11 J; (b) 4.38 × 10
+11; (c) See P39.48(c) for full explanation.
+
+--- PAGE 61 ---
+Chapter 39     893 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.50 
+See P39.50 for full explanation. 
+P39.52 
+(a) 3.91 × 10
+4; (b) 0.9999999997c; (c) 7.67 cm 
+P39.54 
+0.842 kg 
+P39.56 
+1.20 MeV 
+P39.58 
+See P39.58 for full explanation. 
+P39.60 
+larger; ~10
+−9 J 
+P39.62 
+(a) isolated; (b) isolated system: conservation of energy and isolated 
+system: conservation of momentum; (c) 6.22 and 2.01;  
+(d) 3.09m1 + m2 = 1.66 × 10−27 kg ; (e) m2 = 3.52m1;  
+(f) m1 = 2.51× 10−28 kg and m2 = 8.84 × 10−28 kg 
+P39.64 
+(a) M = 2m 4 −u2 c2
+3 1−u2 c2
+; (b) 4m
+3
+; (c) The answer to part (b) is in 
+agreement with the classical result, which is the arithmetic sum of the 
+masses of the two colliding particles. 
+P39.66 
+(a) 0.023 6c ; (b) 6.18 × 10
+−4c 
+P39.68 
+When Speedo arrives back on Earth, 118 years have passed, and Goslo 
+would be 158 years old. That is impossible at the present time. 
+P39.70 
+(a) 0.467c; (b) 2.75 × 103 kg 
+P39.72 
+See P39.72 for full explanation. 
+P39.74 
+(a) u = c
+H 2 + 2H
+H 2 + 2H + 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+; (b) u goes to 0 as K goes to 0; (c) u 
+approaches c as K increases without limit; (d) 
+P
+mcH 1 2(H + 2)1 2(H + 1)2 ; 
+(e) See P39.74(e) for full explanation; (f) See P39.74(f) for full 
+explanation; (g) As energy is steadily imparted to particle, the 
+particle’s acceleration decreases. It decreases steeply, proportionally to 
+1/K3 at high energy. In this way the particle’s speed cannot reach or 
+surpass a certain upper limit, which is the speed of light in vacuum. 
+P39.76 
+(a) m = 3.65 MeV
+c2
+; (b) v = 0.589c 
+P39.78 
+(a) 76.0 minutes; (b) 52.1 minutes 
+P39.80 
+(a–c) See P39.80 for full explanation; (d) c
+
+--- PAGE 62 ---
+894     Relativity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P39.82 
+Because the speed of the electrons after accelerating through a 
+potential difference ΔV is more than half the speed of light, there is no 
+way to double its speed, regardless of the increased accelerating 
+voltage. 
+P39.84 
+(a) See ANS. GRAPH P39.84; (b) 0.115c; (c) 0.257c; (d) 0.786c 
+P39.86 
+(a) 2d
+c + v
+; (b) 2d
+c
+c −v
+c + v
+ 
+P39.88 
+(a) a = du
+dt = qE
+m
+1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+; (b) For u small compared to c, the relativistic 
+expression reduces to the classical a = qE
+m
+. As u approaches c, the 
+acceleration approaches zero, so that the object can never reach the 
+speed of light; (c) u =
+qEct
+m2c2 + q2E2t2 and x = c
+qE
+m2c2 + q2E2t2 −mc
+(
+) 
+P39.90 
+(a) Tau Ceti exploded 16.0 years before the Sun; (b) The two stars blew 
+up simultaneously.

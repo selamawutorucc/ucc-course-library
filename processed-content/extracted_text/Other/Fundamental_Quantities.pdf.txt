@@ -1,0 +1,2000 @@
+
+--- PAGE 1 ---
+1
+PHYSICAL QUANTITIES 
+ 
+Physical Quantities and Units 
+The field of physics is divided into the areas of mechanics, waves, optics, 
+thermodynamics, and electricity which make up the classical physics developed 
+between the sixteenth and nineteenth centuries Galileo, Newton, Faraday, Maxwell, 
+and others. Physics also includes modern topics developed in the twentieth century, 
+such as relativity, quantum physics, and quantum field theory, as well as their 
+appropriate applications in condensed matter, atomic and nuclear phenomenon, 
+elementary particles, and astrophysics. Physics is sometimes defined as the study 
+of energy and matter and their relationships. Physics is also inherently a science of 
+measurements and the ultimate test for any theory in physics is its agreement with 
+observations and the measurements of the physical phenomenon. Thus, any number 
+or set of numbers used for the quantitative description of a physical phenomenon is 
+called a physical quantity. To define a physical quantity we must have a procedure 
+for measuring such quantity or specify a way of calculating it. We measure a 
+physical quantity in its own units and by comparison with a standard unit.  
+ 
+SI standard units 
+By international agreement a small number of physical quantities such as length, 
+time and mass (called Fundamental quantities) have been assigned standard units. 
+We can define all other physical quantities in terms of these fundamental quantities. 
+The units of these fundamental quantities are standard units (Table 1.1) and are both 
+accessible and invariable.
+
+--- PAGE 2 ---
+2
+Table 1.1 SI units for fundamental quantities 
+Quantity 
+Unit Name 
+Unit Symbol 
+Length 
+meter 
+m 
+Time 
+second 
+s 
+Mass 
+kilogram 
+kg 
+Temperature 
+kelvin 
+K 
+Electric 
+Charge 
+Coulomb 
+C 
+Amount of a 
+substance 
+mole 
+mol 
+ 
+Derived Units 
+ 
+Table 1.2 SI units for derived quantities 
+Quantity 
+Unit Name 
+Unit Symbol 
+Angle 
+radian 
+rad 
+Solid angle 
+steradian 
+sr 
+Area 
+square meter 
+m2 
+Volume 
+cubic meter 
+m3 
+Density 
+kilogram per cubic meter 
+kg/m3 
+Velocity 
+meter per second 
+m/s 
+Acceleration 
+meter per second squared 
+m/s2 
+Angular velocity 
+radian per second 
+rad/s 
+Angular 
+acceleration 
+radian per second squared 
+rad/s2 
+Force 
+Newton 
+N (kg m/s2) 
+Torque 
+newton-meter 
+Nm 
+Work, Energy, heat 
+joule 
+J (N m) 
+Power, radiant flux 
+watt 
+W 
+Pressure, stress 
+pascal 
+Pa (N/m2) 
+Frequency 
+hertz 
+Hz (1/s)
+
+--- PAGE 3 ---
+3
+Electric current 
+ampere 
+A 
+Voltage 
+Volt 
+V (W/A) 
+Electric field 
+volt per meter 
+V/m 
+Electrical 
+resistance 
+ohm 
+Ω (V/A) 
+Capacitance 
+farad 
+F (A s/V) 
+Magnetic flux 
+weber 
+Wb (V s) 
+Inductance 
+henry 
+H (V s/A) 
+Magnetic Flux 
+density 
+tesla 
+T (Wb/m2) 
+Luminous flux 
+lumen 
+Lm 
+Luminance 
+lux 
+lx 
+Activity 
+(radioactive) 
+becquerel 
+Bq (s-1) 
+Absorbed dose 
+gray 
+Gy (J/kg) 
+Dose equivalent 
+sievert 
+Sv (J/kg) 
+ 
+Standard Prefixes 
+In physics we sometimes deal with numbers that are very small and other times we 
+deal with numbers which are very large. It gets cumbersome to write numbers in 
+the conventional decimal notation. Once the fundamental units are defined, it now 
+becomes easy to introduce larger and smaller units for the same physical quantities. 
+In the metric system measurements additional units always relate to the 
+fundamental units by multiples of 10 or10
+1 . The multiplicative factors are most 
+conveniently expressed in exponential notation; thus
+4
+10
+10000 =
+,
+2
+10
+100
+1
+−
+=
+ etc.
+
+--- PAGE 4 ---
+4
+The names of the additional units are always derived by adding a prefix to the name 
+of the fundamental units. 
+ 
+Table 1.3 Prefixes for the power of ten 
+Power of ten 
+Prefix 
+Abbreviation 
+24
+10− 
+yocto- 
+y 
+21
+10− 
+zepto- 
+z 
+18
+10− 
+atto- 
+a 
+15
+10− 
+fermto- 
+f 
+12
+10− 
+pico- 
+p 
+9
+10− 
+nano- 
+n 
+6
+10− 
+micro- 
+μ 
+3
+10− 
+milli- 
+m 
+2
+10− 
+centi- 
+c 
+3
+10 
+kilo- 
+k 
+6
+10 
+mega- 
+M 
+9
+10 
+giga- 
+G 
+12
+10 
+tera- 
+T 
+15
+10 
+peta- 
+P 
+18
+10 
+exa- 
+E 
+21
+10 
+zetta- 
+Z 
+24
+10 
+yotta- 
+Y
+
+--- PAGE 5 ---
+5
+The following are a few examples of the use of the multiples of ten and their 
+prefixes. 
+ 
+1 nanometer = 1nm = 10-9 m 
+1 micrometer = 1μm = 10-6 m 
+1 millimeter = 1mm = 10-3 m 
+1 centimeter = 1cm = 10-2 m 
+1 kilometer = 1km = 103 m 
+1 milligram = 1mg = 10-6kg 
+1 gram = 1g = 10-3 kg 
+1 nanosecond = 1ns = 10-9 s  
+1 microsecond = 1ms =10-3 s 
+ 
+Unit Conversions 
+Relations among physical quantities are often expressed by equations in which 
+physical quantities are represented by algebraic symbols.  An algebraic symbol 
+always denotes both a number and a unit. For example, x might represent distance 
+of 5m, t a time of 30s and m a mass of 10kg. We often need to convert the units in 
+which a physical quantity is expressed. We do so by multiplying the original 
+measurement by a conversion factor which is a ratio of the units in question that 
+equals unity. For example 
+1
+60
+min
+1
+=
+s
+and 
+1
+min
+1
+60
+=
+s
+
+--- PAGE 6 ---
+6
+This is so because multiplying any physical quantity (or algebraic symbol) by unity 
+leaves the quantity unchanged. For example we can convert 5min into seconds by 
+multiplying it by the conversion factor of min
+1
+60s to have 
+s
+s
+300
+)
+n
+mi
+1
+60
+)(
+n
+mi
+5
+(
+)1
+min)(
+5
+(
+min
+5
+=
+
+
+=
+=
+ 
+Dimensions 
+The fundamental quantities used in physical descriptions are called dimensions. For 
+example length, time and mass are dimensions. You could measure the distance 
+between two points and express it in units of meters, centimeters, or feet, but the 
+quantity would still have the dimension of length. It is common to express 
+dimensional quantities by bracketed symbols as [L], [M] and [T] for length, mass 
+and time respectively. Derived quantities are a combination of dimensions. For 
+example, velocity v has dimensions of 
+]
+[
+]
+[
+T
+L
+ (think of it as meters/second = 
+length/time) and volume, V has dimensions
+]
+[
+]
+[
+]
+[
+L
+L
+L
+
+
+, or
+]
+[
+3L
+.  
+ 
+Exercise 1.1 What is dimension (or the dimension of a physical quantity)? What is 
+the dimension of acceleration? 
+ 
+Solution: 
+The dimensions of a physical quantity are the powers (or exponents) to which the 
+base or the fundamental quantities are raised to represent that quantity. For 
+example, acceleration can be expressed as
+
+--- PAGE 7 ---
+7
+2
+2
+2
+2
+]
+[
+]
+[
+)
+(
+−
+=
+=
+=
+=
+LT
+T
+L
+time
+length
+time
+length
+on
+accelerati
+ 
+ 
+The dimensions of acceleration are then given by 
+]
+[
+]
+[
+2
+−
+= LT
+on
+accelerati
+ 
+Thus, we conclude that, acceleration has no or zero dimension in mass, one 
+dimension in length, and -2 dimensions in time. Any quantity raised to zero is equal 
+to 1. So, all those fundamental quantities that do not appear in the dimensional 
+formula of acceleration have dimension 0. For example, here, the dimension of 
+mass is 0. 
+ 
+Dimensions and unit analysis 
+Any equation must always be dimensionally consistent or homogenous-this means 
+that any two terms added or subtracted in an equation must have the same units. For 
+example given the equation: 3.0m + 2.0m = 5.0m (similar to
+c
+b
+a
+=
++
+), comparing 
+both sides we have 
+]
+[
+]
+[
+]
+[
+L
+L
+L
+=
++
+or in words length plus length gives you another 
+length not 2[L]. The above procedure for checking units in equations is called 
+dimensional analysis. It is formally defined as a procedure by which the 
+dimensional consistency of any equation may be checked. One major advantage of 
+dimensional analysis is its usefulness for checking whether an equation that has 
+been derived or being used to solve a problem has the correct form. The dimensions 
+and units of some common quantities are given in Table 1.3. 
+ 
+Exercise 1.2 What are dimensional equations?
+
+--- PAGE 8 ---
+8
+Solution: 
+Dimensional equations are equations, which represent the dimensions of a physical 
+quantity in terms of the fundamental quantities. When one equates a physical 
+quantity with its dimensional formula then we have a dimensional equation of the 
+physical quantity. The dimensional equations can be obtained from the equations 
+representing the relations between the physical quantities. This is something that 
+we have been doing, writing the quantity on the left hand side of the equation and 
+its dimensions on the right hand side. 
+ 
+Example 1.3 In the gas equation
+RT
+b
+V
+V
+a
+p
+=
+−
++
+)
+)(
+(
+2
+, what are the dimensions 
+of the constants a and b? 
+ 
+Solution: 
+The dimensions of the terms in the equation are as follows: 
+2
+1
+2
+2
+]
+Area
+[
+]
+Force
+[
+]
+Pressure
+[
+]
+[
+−
+−
+−
+=
+=
+=
+=
+T
+ML
+L
+MLT
+p
+ 
+3
+]
+[
+]
+[
+L
+volume
+V
+=
+=
+ 
+Since 
+2
+V
+a is added to pressure and we assume the given equation to be homogenous 
+it must be pressure. 
+2
+1
+6
+2
+2
+]
+[
+]
+[
+]
+[
+]
+[
+−
+−
+=
+=
+=
+=
+
+
+
+
+
+T
+ML
+p
+L
+a
+V
+a
+V
+a
+ 
+ 
+2
+5
+6
+2
+1
+]
+[
+−
+−
+−
+=
+
+=
+
+T
+ML
+L
+T
+ML
+a
+  
+ 
+ 
+ 
+ 
+ 
+ 
+The constant b must represent a volume since it is being subtracted from a volume
+
+--- PAGE 9 ---
+9
+3
+]
+[
+L
+b =
+
+ 
+ 
+Example 1.4 By using dimensional analysis, derive an expression for the volume 
+V of water passing any section of a pipe in time (i.e. the rate of volume flow
+t
+V
+) 
+if it depends on (a) the coefficient of viscosity η of the liquid (Note: 
+1
+1
+]
+[
+−
+−
+=
+T
+ML
+
+(b) the radius r of the pipe (c) the pressure gradient
+l
+p
+
+, where Δp 
+is the pressure difference between the ends of the pipe and l its length. 
+ 
+Solution: 
+We express the relations of the flow rate to the viscosity, radius and pressure 
+gradient as: 
+z
+y
+x
+l
+p
+r
+k
+t
+V
+
+
+
+
+= 
+ 
+Where k is a dimensionless constant and x, y and z are unknown indices. Since each 
+side of the equation must have the same dimensions we can write 
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+z
+y
+x
+l
+p
+r
+t
+V
+]
+][
+[
+ 
+z
+y
+x
+T
+ML
+L
+T
+ML
+T
+L
+)
+(
+)
+(
+)
+(
+2
+2
+1
+1
+1
+3
+−
+−
+−
+−
+−=
+
+ 
+z
+z
+z
+y
+x
+x
+x
+T
+L
+M
+L
+T
+L
+M
+T
+L
+2
+2
+1
+3
+−
+−
+−
+−
+−
+
+
+=
+
+ 
+z
+x
+z
+x
+y
+z
+x
+T
+L
+M
+T
+L
+M
+2
+2
+1
+3
+0
+−
+−
+−
+−
++
+−=
+
+ 
+Equating the indices of M, L and T on both sides 
+For M: 
+z
+x +
+=
+0
+ 
+ 
+ 
+ 
+(1) 
+For L: 
+z
+x
+y
+2
+3
+−
+−
+=
+  
+ 
+ 
+(2) 
+For T: 
+z
+x
+2
+1
+−
+−
+=
+−
+  
+ 
+ 
+(3)
+
+--- PAGE 10 ---
+10
+Solving equations 1, 2 and 3 simultaneously gives
+1
+−
+=
+x
+, 
+1
+=
+z
+and 
+4
+=
+y
+. The 
+relationship is therefore 
+
+
+
+
+=
+l
+p
+r
+k
+t
+V
+
+4
+ 
+This relation is called Poiseuille’s Law or relation. (note that 
+8
+
+=
+k
+) 
+ 
+Example 1.5 Consider a sphere of radius r moving with velocity v through a fluid 
+whose coefficient of viscosity is η. The sphere experiences a viscous force F which 
+acts in the opposite direction to that in which the sphere is moving. Use dimensional 
+analysis to obtain an expression for
+v
+r
+F
+
+
+. 
+ 
+Solution: 
+z
+y
+x
+v
+kr
+F
+
+=
+ 
+]
+][
+][
+[
+]
+[
+z
+y
+x
+v
+r
+F
+
+=
+ 
+z
+y
+x
+LT
+T
+ML
+L
+MLT
+)
+(
+)
+(
+1
+1
+1
+2
+−
+−
+−
+−=
+ 
+z
+y
+z
+y
+x
+y
+T
+L
+M
+T
+L
+M
+−
+−
++
+−
+−=
+2
+1
+1
+ 
+For M: 
+y
+=
+1
+  
+ 
+ 
+ 
+(1) 
+For L: 
+z
+y
+x
++
+−
+=
+1
+ 
+ 
+ 
+ 
+(2) 
+For T: 
+z
+y −
+−
+=
+−2
+  
+ 
+ 
+(3) 
+Solving equations 1, 2 and 3 simultaneously gives
+1
+=
+y
+, 
+1
+=
+z
+and
+1
+=
+x
+. Thus 
+v
+kr
+F
+
+=
+ 
+Note that
+
+6
+=
+k
+. 
+ 
+Example 1.6 Check if the following equations are dimensionally correct:
+
+--- PAGE 11 ---
+11
+      (a) 
+at
+x =
+ (b) 
+2
+at
+x =
+, where x is distance, a is acceleration and t is time. 
+Solution: 
+(a) Equation 
+at
+x =
+ can be expressed dimensionally as 
+      
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+2
+T
+L
+T
+T
+L
+L
+=
+
+=
+ which is not true. Thus 
+at
+x =
+ cannot be a correct     
+equation. 
+(b) Equation 
+2
+at
+x =
+ can be expressed dimensionally as 
+      
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+2
+2
+L
+T
+T
+L
+L
+=
+
+=
+. This equation is dimensionally correct but as you      
+will see later it is not always physically correct. The correct form of 
+2
+at
+x =
+both dimensionally and physically is
+2
+2
+1 at
+x =
+. The fraction 2
+1 has no 
+dimensions i.e. it is a dimensionless number. Doing dimensional analysis with 
+the symbols is fine but in practice it is often more convenient to use actual unit 
+abbreviations such as m, s, and kg. Units can also be treated as symbols and 
+canceled. Using units instead of symbols in dimensional analysis is called units 
+analysis. 
+Exercise 1.7 Is the equation
+2
+2
+1
+at
+ut
+s
++
+=
+ dimensionally consistent? 
+ 
+Solution: 
+We are given 
+2
+2
+1
+at
+ut
+s
++
+=
+ or  
+s(displacement) = u(initial velocity) X t(time) + 1/2 X a(acceleration)X t2(time) 
+We solve by going through the following steps: 
+Step 1: Identify the terms in the equation and identify which symbol stands for 
+which physical quantity.
+
+--- PAGE 12 ---
+12
+There are three terms here: s, ut, at2 
+ 
+Step 2: Write down the dimensional formula of each symbol used in the equation 
+[s] = [L], [u] = [LT-1], [t] = [T], [a] = [LT-2] 
+Step 3: Calculate the dimension of each term in the equation. 
+Term 1: [s] = [L] 
+Term 2: [ut] = [LT -1.T] = [L] 
+Term 3: [at2] = [LT-2.T2] = [L] 
+Note that, as stated above, we have canceled dimensions from numerator and 
+denominator like [T -2.T2]. 
+Conclusion: The equation is dimensionally consistent since all the terms have the 
+same dimensions. 
+ 
+Note: The following kinds of terms are dimensionless in an equation. 
+ 
+• A pure number or the ratio of similar physical quantities, such as angle as 
+the ratio (length/length), refractive index as the ratio (speed of light in 
+vacuum/speed of light in medium) etc are dimensionless.  
+• The arguments of special functions, such as the trigonometric, logarithmic 
+and exponential functions are also dimensionless. 
+ 
+Example 1.8 Check the dimensional consistency of the following equations: 
+(a)
+ma
+mv
+K
++
+=
+2
+)
+2
+1(
+(b) 
+2
+)
+2
+1(
+mv
+K =
+ (c) 
+2
+)
+16
+3
+(
+mv
+K =
+ 
+ 
+Solution:
+
+--- PAGE 13 ---
+13
+(a) The first term (on the LHS), 
+nt
+Displaceme
+Force
+=
+=
+=
+Work
+Energy
+Kinetic
+K
+ 
+]
+[
+]
+[
+]
+[
+]
+[
+2
+2
+2
+−
+−
+=
+
+=
+
+T
+ML
+L
+MLT
+K
+ 
+The second term involves, m = Mass and v = velocity; and it has dimensions: 
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+][
+2
+1[
+]
+)
+2
+1
+[(
+2
+2
+2
+2
+2
+1
+2
+2
+2
+−
+−
+−
+=
+
+=
+
+=
+
+=
+
+=
+T
+ML
+T
+L
+M
+LT
+M
+v
+m
+v
+m
+mv
+ 
+The third term involves, m = Mass and a = acceleration 
+]
+[
+]
+][
+[
+]
+][
+[
+]
+[
+2
+2
+−
+−
+=
+=
+=
+MLT
+LT
+M
+a
+m
+ma
+ 
+It can be recognized that the dimensions of the first two terms have the same 
+dimension but that of the third term differs. Therefore the equation 
+ma
+mv
+K
++
+=
+2
+)
+2
+1(
+ is dimensionally inconsistent. 
+ 
+(b) 
+The 
+first 
+term 
+(on 
+the 
+LHS), 
+nt
+Displaceme
+Force
+Work
+Energy
+Kinetic
+
+=
+=
+=
+K
+ 
+]
+[
+]
+[
+]
+[
+]
+[
+2
+2
+2
+−
+−
+=
+
+=
+
+T
+ML
+L
+MLT
+K
+ 
+The second term involves, m = Mass and v = velocity; and it has dimensions: 
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+][
+2
+1[
+]
+)
+2
+1
+[(
+2
+2
+2
+2
+2
+1
+2
+2
+2
+−
+−
+−
+=
+
+=
+
+=
+
+=
+
+=
+T
+ML
+T
+L
+M
+LT
+M
+v
+m
+v
+m
+mv
+ 
+Since the dimensions of the two terms of the equation are dimensionally similar 
+then the equation 
+2
+)
+2
+1(
+mv
+K =
+ is dimensionally consistent. 
+ 
+(c) Just like in (a) and (b), the first term (on the LHS), 
+ce
+Dis
+Force
+Work
+Energy
+Kinetic
+K
+tan
+
+=
+=
+=
+ 
+]
+[
+]
+[
+]
+[
+]
+[
+2
+2
+2
+−
+−
+=
+
+=
+
+T
+ML
+L
+MLT
+K
+ 
+The second term involves, m = Mass and v = velocity; and it has dimensions:
+
+--- PAGE 14 ---
+14
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+][
+16
+3
+[
+]
+)
+16
+3
+[(
+2
+2
+2
+2
+2
+1
+2
+2
+2
+−
+−
+−
+=
+
+=
+
+=
+
+=
+
+=
+T
+ML
+T
+L
+M
+LT
+M
+v
+m
+v
+m
+mv
+Since the dimensions of the two terms of the equation are dimensionally similar 
+then the equation 
+2
+)
+16
+3
+(
+mv
+K =
+ is dimensionally consistent. Note that the 
+dimension of a number, an argument or a ratio is unity. 
+ 
+Table 1.4 Dimensions and Units 
+Quantity 
+Dimension 
+Unit 
+mass 
+[M] 
+kg 
+time 
+[T] 
+s 
+length 
+[L] 
+m 
+area 
+[L2] 
+m2 
+volume 
+[L3] 
+m3 
+velocity 
+]
+[
+]
+[
+T
+L
+ 
+m/s 
+Acceleration (a or g) 
+]
+[
+]
+[
+2
+T
+L
+ 
+m/s2 
+ 
+Precision and Accuracy 
+Accuracy is a measure of how close a result of an experimental observation comes 
+to the “true” value. Precision on the other hand is a measure of how carefully a 
+result is determined without reference to any “true” value. Measurements can never 
+be made with absolute precision in that physical quantities obtained from 
+experimental observations always have some uncertainty. A distance measured 
+with an ordinary ruler or meter rule is usually precise only to the nearest millimeter, 
+whilst a precision micrometer caliper can measure a distance to the nearest 0.01mm
+
+--- PAGE 15 ---
+15
+or even less. The precision of a measurement or number is often indicated by 
+following the number with the symbol ± and a second number indicating the 
+maximum likely error. Errors are defined as the difference between measured 
+experimental values and the “true” value. It is generally applied to the uncertainty 
+in measurements but not blunders or mistakes. If for example, the diameter of a 
+metal rod is given as 48.64±0.01mm, then it means that the true value is likely to 
+be less than 48.65 or greater than 48.63. Precision can also be expressed in terms 
+of the maximum likely fractional error or percentage error. A resistor labeled 47Ω, 
+10% probably has true resistance differing from 47Ω by no more than 10% of 47Ω 
+or about 5Ω i.e. the true resistance is between 42Ω and 52Ω. 
+ 
+Significant Figures 
+If a student is asked to find the numerical value of π by using a calculator, after 
+measuring the diameter and circumference of a circle as 135mm and 424mm 
+respectively, pi is the ratio of the circumference to the diameter of a circle. They 
+get an answer like 3.140740741…… Depending on the type of calculator, they 
+could get decimal places more than the number stated. Does this number or any 
+other agree with the true value of π (correct value to ten digits is 3.141592654) or 
+not is the question. To answer this question we must recognize that at least the last 
+six digits in the student’s calculation are meaningless unless they imply a greater 
+precision in the result than possible with their measurement of π. The number of 
+meaningful digits in a number is called the number of significant figures. In general, 
+no numerical result can have more significant figures than do numbers from which 
+it was computed. Thus the student’s value of π has only three significant figures
+
+--- PAGE 16 ---
+16
+and should be stated as 3.14 or (3.141 when rounded of to four figures). The rules 
+for significant figures and rounding offs are as follows: 
+ 
+Rules for Significant Figures: 
+1. The leftmost nonzero digit is the most significant digit/figure. 
+2. If there is no decimal point, the rightmost nonzero digit is the least 
+significant digit/figure. 
+3. If there is a decimal point, the rightmost digit is the least significant 
+digit/figure, even if it is zero. 
+4. All digits between the least and the most significant digits are counted as 
+the significant figures. 
+ 
+Round off: 
+Rounding off is simply to truncate a number to the specified number of significant 
+figures and treat the excess (remainder) digits as a decimal fraction. 
+1. If the fraction is equal to or greater than 
+2
+1 (0.5) then increase the new 
+least significant figure by one. 
+2. If the fraction is less than 
+2
+1 (0.5) then leave the new least significant 
+figure unchanged. 
+ 
+Rules for Reporting with the proper Significant Figures. 
+Addition/Subtraction 
+When adding or subtracting numbers, leave the same number of decimal places in 
+the answer as there is in the number with the least number of significant figures.
+
+--- PAGE 17 ---
+17
+• For example, suppose we need to add 701.3, 104.0, 41.216 and 0.5462. The 
+result from the calculator is 847.0622. Now, look at the data and observe 
+that in the two of the numbers being added it is not clear what the figure in 
+the second decimal place is. The result must be rounded off to one decimal 
+place by dropping 622. Hence, the answer with proper numbers of 
+significant is 847.0. 
+ 
+Multiplication/Division 
+When multiplying and dividing numbers, leave as many significant figures in the 
+answer as there are in the number with the fewest number of significant figures. 
+Usually, multiplication and division produce more figures that are significant thus, 
+the result must be rounded off. 
+• For example, suppose the measured length and width of a plate is 2.64cm 
+and 
+1.18cm 
+respectively. 
+The 
+area 
+therefore 
+equals
+2
+1152
+.3
+16
+.1
+64
+.2
+cm
+cm
+cm
+=
+
+. The result appears to have five significant 
+figures, although the original quantities have three each. Therefore, the 
+result can only have three significant figures and is 3.12cm2 (rounded off to 
+three significant figures i.e. rounded to the second decimal place) 
+ 
+Example 1.9 Express the following numbers in scientific notation with three 
+significant figures: (a) 0.00241 (b) 79,241 (c) 0.000452. 
+ 
+Solution: 
+The numbers are expressed in scientific notation with three significant as: 
+(a) 0.00241= 
+3
+10
+41
+.2
+−
+
+ 
+(b) 79,241 =
+4
+10
+92
+.7
+
+ [Note: 7.9241 has been rounded off to 7.92]
+
+--- PAGE 18 ---
+18
+(c) 0.0000452 =
+5
+10
+52
+.4
+−
+
+ 
+ 
+Example 1.10 Express the following numbers as their decimal equivalents: 
+(a) 
+2
+10
+6.
+49
+−
+
+ (b) 
+4
+10
+50
+.6
+−
+
+−
+(c) 
+3
+10
+4291
+.0
+
+ (d) 
+0
+10
+21
+.1
+
+ 
+ 
+Solution: 
+The decimal equivalents are as follows: 
+(a) 
+2
+10
+6.
+49
+−
+
+= 0.496  
+[by moving the decimal point two places left] 
+(b) 
+4
+10
+50
+.6
+−
+
+−
+= -0.000650 [by moving the decimal point four places left] 
+(c) 
+3
+10
+4291
+.0
+
+= 429.1 
+[by moving the decimal point three places right] 
+(d) 
+0
+10
+21
+.1
+
+ = 12.1 
+ 
+ 
+Example 1.11 Express the final result of the following expressions in scientific 
+notation: (a) 
+0000521
+.0
+5.
+51
+
+ (b) 
+8.
+91
+1.
+83
+2348
+−
+. 
+Solution: 
+(a) 
+0000521
+.0
+5.
+51
+
+ 
+First, express each term in the expression in scientific notation before final 
+computation. 
+4
+4
+5
+1
+10
+8315
+.
+26
+10
+)
+21
+.5
+15
+.5
+(
+)
+10
+21
+.5
+(
+)
+10
+15
+.5
+(
+0000521
+.0
+5.
+51
+−
+−
+−
+
+=
+
+
+=
+
+
+
+=
+
+ 
+The result is not correctly nwritten in scientific notation. To get the decimal place 
+in the right place , we move one decimal place to the left, increasing the exponent 
+by +1. Thus, the final answer in scientific notation is
+3
+10
+68315
+.2
+−
+
+. Keeping the
+
+--- PAGE 19 ---
+19
+results up to three significant figures, we round off the result and rewrite it as
+3
+10
+68
+.2
+−
+
+. 
+ 
+(b) We first express each number in the fraction in scientific notation. 
+2
+1
+3
+1
+1
+3
+10
+70
+.2
+10
+87
+.0
+10
+348
+.2
+10
+18
+.9
+10
+31
+.8
+10
+348
+.2
+8.
+91
+1.
+83
+2348
+
+−
+=
+
+−
+
+=
+
+−
+
+
+=
+−
+ 
+Here the result is shown in scientific notation up to three significant figures. 
+ 
+Equations and Greek symbols 
+Different symbols and letters are used when stating and solving equations in 
+physics. Table 1.5 shows symbols used in writing physical equations and Table 1.6 
+shows Greek letters are often used to represent physical quantities in equations. 
+Table 1.5 Symbols and letters in physical equations 
+SYMBOL 
+MEANING 
+SYMBOL 
+MEANING 
+= 
+Equal to 
+ 
+Therefore 
+ 
+Approximately equal to 
+ 
+Sum 
+~ 
+Same order as 
+ 
+Product 
+> 
+Greater than 
+ 
+Square root 
+ 
+Greater than or equal to 
+x ! 
+Factorial of x 
+< 
+Less than 
+ 
+Not equal to 
+ 
+Less than or equal to 
+ 
+Infinity 
+>> 
+Much greater than 
+ 
+Proportional to 
+<< 
+Much less than 
+ 
+Plus or minus 
+ 
+Equivalent to 
+ 
+Minus or plus 
+ 
+Implies 
+x
+ 
+Change in x 
+/ 
+Divided by
+
+--- PAGE 20 ---
+20
+Table 1.6 Greek letters 
+Letter 
+Uppercase 
+Lowercase Letter 
+Uppercase 
+Lowercase 
+Alpha 
+A 
+ 
+Nu 
+ 
+ 
+Beta 
+B 
+ 
+Xi 
+ 
+ 
+Gamma 
+ 
+ 
+Omicron 
+ 
+ 
+Delta 
+ 
+ 
+Pi 
+ 
+ 
+Epsilon 
+E 
+ 
+Rho 
+ 
+ 
+Zeta 
+ 
+ 
+Sigma 
+ 
+ 
+Eta 
+H 
+ 
+Tau 
+ 
+ 
+Theta 
+ 
+ 
+Upsilon 
+ 
+ 
+Iota 
+ 
+ 
+Phi 
+ 
+ 
+Kappa 
+ 
+ 
+Chi 
+ 
+ 
+Lambda 
+ 
+ 
+Psi 
+ 
+ 
+Mu 
+ 
+ 
+Omega 
+ 
+

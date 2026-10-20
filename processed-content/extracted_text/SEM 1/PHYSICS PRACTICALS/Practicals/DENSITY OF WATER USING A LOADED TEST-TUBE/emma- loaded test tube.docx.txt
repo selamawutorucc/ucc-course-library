@@ -1,0 +1,52 @@
+TITLE: Determination of density of a liquid using a loaded test-tube.
+AIM:  To determine the density of a liquid using a loaded test-tube.
+APPARATUS:  A wide test-tube fitted with a millimeter scale (e.g. by inserting a strip of mm graph paper, marked at cm intervals from the bottom inside it), a deep beaker, some lead shots, set of weights, vernier calipers, a liquid (water).
+DIAGRAM
+THEORY
+Density can be defined as the mass of a substance per unit volume of the substance in kg/m3 or g/cm3.If the radius of the test-tube is r cm and the mean depth of immersion in cm per g is n (where n is the slope of the graph of the depth of immersion against additional load). Then the volume of liquid displaced by the addition of 1gramme to the test-tube =Πr2 n cm3. If the density of the liquid is p gcm-3, then the weight of the liquid displaced =Πr2 n cm3.  Hence by Archimedes’ principle:
+                       πr2 n p=1.    Then the density of the liquid p=r2 )-1 gcm-3
+METHOD 
+Sufficient sand was placed in a tube to make it float vertically in the liquid and the level (Xo) at which it floated was noted. Weights were placed in the tube and in each case the reading X of the scale against the liquid level was noted.  A graph of depth of immersion (d) = (x-x0) against additional load was drawn. The external radius of the test-tube was found by using the vernier callipers. Four readings were taken and the average found. The test tube was made to oscillate vertically for 10 oscillations. This was repeated four times. The periodic time T was obtained by dividing the time for oscillation by the number of oscillations. The value of g acceleration due to gravity was found.
+ RESULTS
+TABLE OF RESULTS
+Let Xo=initial water level in beaker       t =time for vertical oscillation    R = radius of the test tube
+Let X = water level as weights are put in tube    D =diameter of the test tube    Tav = average time
+Table of masses and the water levels in the beaker      
+Table for the Period for 10 vertical oscillationshy
+Table for the radius of the test tube.
+GRAPH
+ Figure 1: A graph of depth of immersion (d) in centimeters against mass in grams.
+CALCULATION:
+From the theory, T =2π( L/g)
+                                T2 =4π2l /g   ;   g =4π2l /T2 
+    T= 0.768s     l =14.5 cm
+G = 4 x π2 x 14.5 cm          =970.5cm/s                                                                                                                                                                                                                                
+              (0.768)2/s        
+Also from Archimedes principle, ρ = (πr2n )-1     ,r =radius of test tube,  n = slope of graph 
+                          Density = (π x 0.7752cm x 0.57cm2/g )-1   =  0.93g/cm3
+DISCUSSION
+Two important quantities were verified in this experiment; the density of a liquid and the acceleration due to gravity. The density of the liquid was 0.93g/cm3 and is close to the density of water in theory of 1g/cm3. A deviation of 0.07 was realized. This was due to the inaccuracies in the reading through the beaker and the instability of the test tube in the water. Also, a value of the acceleration due to gravity was checked. A value of 970.5cm/s2 or 9.705m/s2 was obtained in the experiment. This deviated by 0.095 from the value of 9.8 m/s2 seen in theory. The earth is not a perfect sphere and this primarily accounted for this deviation in practical. The experiment can be described as being close to success.
+SOURCES OF ERROR:
+Error was due to wind that affected the vertical oscillations.
+Error was due to inaccurate readings taken from the vernier caliper
+Error as a result expansion of the test-tube due to heat transfer from handling. 
+PRECAUTION: 
+It was ensured that the test-tube did not touch the side of the beaker by placing it co-axially with the transparent vessel for accuracy.
+It was ensured that readings were taken from the meniscus at eye level.
+It was ensured that the sand was gently poured in the test tube to avoid spillage and floatation in the liquid. 
+CONCLUSION:
+ From the experiment, the density of the liquid was 0.93g/cm3 and the liquid used is water. The acceleration due to gravity is 970.5cm/s or9.71ms/s.
+REFERENCES 
+RAYMOND A.SERWAY, JERRY S.FAUGHN (2003); COLLEGE PHYSICS SIXTH (6TH) EDITION, PUBLISHED BY THOMSON LEARNING COMPANY, CANADA, PAGE 269-270.
+RAYMOND A SERWAY (1998), PRINCIPLES OF PHYSICS, SECOND (2ND) EDITION, HARCOURT COLLEGE PUBLISHERS, FORTH WORTH, U.S.A. PAGE 6.
+M.N. SRINIVASAN, S. BALASUBRAMANIAN: A TEXTBOOK OF PRACTICAL PHYSICS. 
+Mass/g | X/cm | D= X –X0 /cm
+1.0 | 12.2 | 0.6
+2.0 | 12.6 | 1.0
+3.0 | 13.2 | 1.6
+4.0 | 13.7 | 2.1
+5.0 | 14.5 | 2.9
+t1 /s | t2 /s | t3 /s | t4 /s | Tav /s | T =Tav /10   /s
+7.74 | 7.60 | 7.60 | 7.78 | 7.68 | 0.768
+D1 /mm | D2 /mm | D3 /mm | D4 /mm | Dav /mm | R = Dav /2/ mm
+15.5 | 15.5 | 15.6 | 15.4 | 15.5 | 7.75

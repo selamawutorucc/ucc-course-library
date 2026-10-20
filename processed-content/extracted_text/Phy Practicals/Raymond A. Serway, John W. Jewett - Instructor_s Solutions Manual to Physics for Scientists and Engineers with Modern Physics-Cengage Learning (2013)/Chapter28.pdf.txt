@@ -1,0 +1,6901 @@
+
+--- PAGE 1 ---
+240 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+28 
+Direct-Current Circuits 
+ 
+CHAPTER OUTLINE 
+ 
+28.1  
+Electromotive Force 
+28.2  
+Resistors in Series and Parallel 
+28.3  
+Kirchhoff ’s Rules 
+28.4 
+RC Circuits 
+28.5 
+Household Wiring and Electrical Safety 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ28.1 
+Answer (a). When the breaker trips to off, current does not go 
+through the device. 
+OQ28.2 
+(i) Answer (d). The terminal potential difference is ΔV = ε −Ir, 
+where current I within the battery is considered positive when it 
+flows from the negative to the positive terminal. When I = 0, ΔV = ε 
+ 
+(ii) Answer (b). When the battery is absorbing electrical energy, the 
+current within the battery flows from the positive to the negative 
+terminal; in this case, I is considered negative, making 
+ΔV = ε −Ir = ε + I r > ε. 
+OQ28.3 
+Answer (c). In a series connection, the same current exists in each 
+element. The potential difference across a resistor in this series 
+connection is directly proportional to the resistance of that resistor, 
+ΔV = IR, and independent of its location within the series 
+connection. 
+OQ28.4 
+Answer (b). because the appliances are connected in parallel, the 
+total power used is proportion to the total current: 
+ 
+ 
+ 
+Pi
+∑
+=
+IiΔV
+∑
+= ΔV
+Ii
+∑
+→
+Ii
+∑
+=
+Pi
+∑
+ΔV
+
+--- PAGE 2 ---
+Chapter 28     241 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+ 
+ 
+ 
+Ii
+∑
+= Pheater + Ptoaster + Poven
+ΔV
+= 1.30 × 103 + 1.00 × 103 + 1.54 × 103
+(
+) W
+120 V
+= 32.0 A
+ 
+OQ28.5 
+Answer (b). When the two identical resistors are in series, the current 
+supplied by the battery is I = ΔV/2R, and the total power delivered 
+is Ps = ΔV
+(
+)I = ΔV
+(
+)
+2 2R. With the resistors connected in parallel, the 
+potential difference across each resistor is ∆V and the power 
+delivered to each resistor is P1 = ΔV
+(
+)
+2 R. Thus, the total power 
+delivered in this case is 
+ 
+ 
+ 
+Pp = 2P1 = 2 ΔV
+(
+)
+2
+R
+= 4
+ΔV
+(
+)
+2
+2R
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 4Ps = 4 8.0 W
+(
+) = 32 W 
+OQ28.6 
+Answer (a), (d). According to the relationship for resistors in series, 
+ 
+ 
+ 
+Req = R1 + R2 + 
+ 
+the sum Req is always larger than any of the resistances R1, R2, etc. 
+OQ28.7 
+Answer (d). The equivalent resistance for the series combination of 
+five identical resistors is Req = 5R, and the equivalent capacitance of 
+five identical capacitors in parallel is Ceq = 5C. The time constant for 
+the circuit is therefore τ = ReqCeq = 5R
+(
+) 5C
+(
+) = 25RC . 
+OQ28.8 
+Answers (b) and (d). The current is the same in each series resistor, as 
+described by Kirchhoff’s junction rule. The potential difference in 
+each resistor is different because ΔV = IR and each R is different. 
+OQ28.9 
+Answer (a). The potential is the same across each parallel resistor, 
+but the current and power in each resistor is different because 
+I = ΔV/R and P = IΔV and each R is different. 
+OQ28.10 
+Answer (b) and (c). The same potential difference exists across all 
+elements connected in parallel with each other, while the current 
+through each element is inversely proportional to the resistance of 
+that element I = ΔV/R
+(
+). 
+OQ28.11 
+Answer (b). Each headlight’s terminals are connected to the positive 
+and negative terminals of the battery so that each headlight can 
+operate if the other is burned out. 
+OQ28.12 
+(i) The ranking of potentials are: a > d > b = c > e. For both batteries to 
+be delivering electric energy, currents are in the direction a to b, and d 
+to c, and so current flows downward through e. Point e is at zero
+
+--- PAGE 3 ---
+242     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+potential. Points b and c are at the same higher potential, d (equal to 9 
+V) is still higher, and a (equal to 12 V) is highest of all. 
+ 
+(ii) The ranking of magnitudes of current are: e > a = b > c = d. The 
+current through e must be the sum of the other two currents. The 
+change in potential from a to b is greater than the change in potential 
+from d to c, so the current from a to b must be greater. 
+OQ28.13 
+Answer (b). According to the relationship for resistors in parallel, 
+ 
+ 
+ 
+1
+Req
+= 1
+R1
++ 1
+R2
++ 
+ 
+the larger the sum on the right-hand side of the equation, 
+1/R1 + 1/R2 +, the smaller the equivalent resistance Req; therefore, 
+Req is always smaller than any of the resistances R1, R2, etc. 
+OQ28.14 
+Answers: (i) (b) (ii) (a) (iii) (a) (iv) (b) (v) (a) (vi) (a). Closing the 
+switch lights lamp C. The action increases the battery current so it 
+decreases the terminal voltage of the battery. Lamps A and B are in 
+series, so they carry the same current, but when the terminal voltage 
+of the battery drops, the total voltage drops across lamps A and B 
+combined, thus reducing the potential difference across each. Total 
+power delivered to the lamps increases because the current through 
+the battery increases. 
+OQ28.15 
+Answers: (i) (a) (ii) (d) (iii) (a) (iv) (a) (v) d (vi) (a). Closing the switch 
+removes lamp C from the circuit, decreasing the resistance seen by 
+the battery, and so increasing the current in the battery. Lamps A and 
+B are in series, so the potential difference across each is proportional 
+to the current. Total power delivered to the lamps increases because 
+the current through the battery increases. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ28.1 
+(a) 
+No. As is the case with the bird in CQ28.3, the resistance of a 
+small length of wire is small, so the potential change along that 
+length is small. 
+ 
+(b) No! When she eventually touches the ground, she will act as a 
+connection to ground, resulting in perhaps several thousand 
+volts across her. 
+CQ28.2 
+Answer their question with a challenge. If the student is just looking 
+at a diagram, provide the materials to build the circuit. If you are 
+looking at a circuit where the second bulb really is fainter, get the 
+student to unscrew them both and interchange them. But check that
+
+--- PAGE 4 ---
+Chapter 28     243 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the student’s understanding of potential has not been impaired: if 
+you add wires to bypass and short out the first bulb, the second gets 
+brighter. 
+CQ28.3 
+Because the resistance of a short length of wire is small, the change in 
+potential along that length is small; therefore, there is essentially zero 
+difference in potential between the bird’s feet. Then negligible current 
+goes through the bird. The resistance through the bird’s body 
+between its feet is much larger than the resistance through the wire 
+between the same two points. 
+CQ28.4 
+ 
+ 
+ 
+CQ28.5 
+Two runs in series: 
+ = one run down one slope followed 
+by a second run down a second slope. 
+ 
+Three runs in parallel: 
+ = parallel runs down the same hill 
+so that the change in elevation is the same for each. 
+ 
+Junction of one lift and two runs: 
+. 
+ 
+Gustav Robert Kirchhoff, Professor of Physics at Heidelberg and 
+Berlin, was master of the obvious. A junction rule: The number of 
+skiers coming into any junction must be equal to the number of 
+skiers leaving. A loop rule: the total change in altitude must be zero 
+for any skier completing a closed path. 
+CQ28.6 
+The bulb will light up for a while immediately after the switch is 
+closed. As the capacitor charges, the bulb gets progressively dimmer. 
+When the capacitor is fully charged the current in the circuit is zero 
+and the bulb does not glow at all. If the value of RC is small, this 
+whole process might occupy a very short time interval. 
+CQ28.7 
+(a) 
+The hospital maintenance worker is right. A hospital room is 
+full of electrical grounds, including the bed frame. If your 
+grandmother touched the faulty knob and the bed frame at the
+
+--- PAGE 5 ---
+244     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+same time, she could receive quite a jolt, as there would be a 
+potential difference of 120 V across her. If the 120 V is DC, the 
+shock could send her into ventricular fibrillation, and the 
+hospital staff could use the defibrillator you read about in 
+Chapter 26. If the 120 V is AC, which is most likely, the current 
+could produce external and internal burns along the path of 
+conduction. 
+ 
+(b) Likely no one got a shock from the radio back at home because 
+her bedroom contained no electrical grounds—no conductors 
+connected to zero volts. Just like the bird in CQ28.3, granny 
+could touch the “hot” knob without getting a shock so long as 
+there was no path to ground to supply a potential difference 
+across her. A new appliance in the bedroom or a flood could 
+make the radio lethal. Repair it or discard it. Enjoy the news 
+from Lake Wobegon on the new plastic radio. 
+CQ28.8 
+(a) 
+Both 120-V and 240-V lines can deliver injurious or lethal 
+shocks, but there is a somewhat better safety factor with the 
+lower voltage. To say it a different way, the insulation on a 120-
+V line can be thinner. 
+ 
+(b) On the other hand, a 240-V device carries less current to operate 
+a device with the same power, so the conductor itself can be 
+thinner. Finally, the last step-down transformer can also be 
+somewhat smaller if it has to go down only to 240 volts from the 
+high voltage of the main power line. 
+CQ28.9 
+No. If there is one battery in a circuit, the current inside it will be 
+from its negative terminal to its positive terminal. Whenever a 
+battery is delivering energy to a circuit, it will carry current in this 
+direction. On the other hand, when another source of emf is charging 
+the battery in question, it will have a current pushed through it from 
+its positive terminal to its negative terminal. 
+CQ28.10 
+In Figure 20.13, temperature is similar to electric potential, and 
+temperature difference ΔT = Th −Tc is similar to voltage ΔV. Energy 
+transfer is similar to electric current. The upper picture is similar to a 
+series circuit, where the resistors (rods) carry the same current 
+(energy transfer by conduction), and the sum of the voltages 
+(temperature differences) across the rods equals the total voltage 
+(total temperature difference) across both resistors (rods). The lower 
+picture is similar to a parallel circuit, where the resistors (rods) have 
+the same voltage (temperature difference) but carry different currents 
+(energy transfer by conduction).
+
+--- PAGE 6 ---
+Chapter 28     245 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 28.1 
+Electromotive Force 
+P28.1 
+(a) 
+Combining Joule’s law, P = IΔV, and 
+the definition of resistance, ΔV = IR, gives  
+ 
+ 
+ 
+R = ΔV
+(
+)
+2
+P
+= 11.6 V
+(
+)
+2
+20.0 W = 6.73 Ω
+ 
+ 
+(b) The electromotive force of the battery must 
+equal the voltage drops across the 
+resistances: ε = IR + Ir, where I = ΔV/R.  
+ 
+ 
+ 
+r = ε – IR
+(
+)
+I
+= ε – ΔV
+(
+)R
+ΔV
+= 15.0 V – 11.6 V
+(
+) 6.73 Ω
+(
+)
+11.6 V
+= 1.97 Ω
+ 
+P28.2 
+The total resistance is R = 3.00 V
+0.600 A = 5.00 Ω. 
+ 
+ 
+ANS. FIG. P28.2 
+ 
+(a) 
+Rlamp = R −rbatteries = 5.00 Ω −0.408 Ω = 4.59 Ω 
+ 
+(b) 
+Pbatteries
+Ptotal
+= 0.408 Ω
+(
+)I 2
+5.00 Ω
+(
+)I 2 = 0.081 6 = 8.16% 
+P28.3 
+(a) 
+Here ε = I (R + r), 
+ 
+ 
+so     
+ 
+ 
+ 
+I = ε
+R + r =
+12.6 V
+5.00 Ω + 0.080 0 Ω
+(
+)
+= 2.48 A.
+ 
+ 
+ 
+Then,  
+ 
+ 
+ 
+ΔV = IR = 2.48 A
+(
+) 5.00 Ω
+(
+)
+= 12.4 V
+ 
+ANS. FIG. P28.1 
+R 
+0.255 Ω 
+0.153 Ω 
+1.50 V 
+1.50 V 
+ANS. FIG. P28.3(a)
+
+--- PAGE 7 ---
+246     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Let I1 and I2 be the currents  
+flowing through the battery  
+and the headlights, respectively. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+I1 = I2 + 35.0 A 
+ 
+ 
+and ε −I1R −I2R = 0 
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+ε = I2 + 35.0 A
+(
+) 0.080 0 Ω
+(
+)
+                + I2 5.00 Ω
+(
+) = 12.6 V
+ 
+ 
+ 
+giving I2 = 1.93 A. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+ΔV2 = 1.93 A
+(
+) 5.00 Ω
+(
+) = 9.65 V 
+P28.4 
+(a) 
+At maximum power transfer, r = R. Equal powers are delivered to 
+r and R. The efficiency is 50.0%. 
+ 
+(b) For maximum fractional energy transfer to R, we want zero 
+energy absorbed by r, so we want r = 0. 
+ 
+(c) 
+High efficiency. The electric company’s economic interest is to 
+minimize internal energy production in its power lines, so that it 
+can sell a large fraction of the energy output of its generators to 
+the customers. 
+ 
+(d) High power transfer. Energy by electric transmission is so cheap 
+compared to the sound system that she does not spend extra 
+money to buy an efficient amplifier. 
+ 
+ 
+ 
+Section 28.2 
+Resistors in Series and Parallel 
+P28.5 
+(a) 
+Since all the current in the circuit must pass 
+through the series 100-Ω resistor, 
+ 
+ 
+ 
+Pmax = Imax
+2
+R 
+ 
+ 
+so 
+Imax =
+P
+R =
+25.0 W
+100 Ω = 0.500 A. 
+ 
+ 
+ 
+Req = 100 Ω +
+1
+100 + 1
+100
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+Ω = 150 Ω 
+ANS. FIG. P28.3(b) 
+ANS. FIG. P28.5 
+a
+
+--- PAGE 8 ---
+Chapter 28     247 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ΔVmax = ReqImax = 75.0 V 
+ 
+(b) From a to b in the circuit, the power delivered is 
+ 
+ 
+ 
+Pseries = 25.0 W for the first resistor, and 
+ 
+ 
+ 
+Pparallel = I 2R = 0.250 A
+(
+)
+2 100 Ω
+(
+) = 6.25 W 
+ 
+ 
+for each of the two parallel resistors. 
+ 
+(c) 
+P = IΔV = 0.500 A
+(
+) 75.0 V
+(
+) = 37.5 W 
+P28.6 
+(a) 
+The 120-V potential difference is applied across the series
+combination of the two conductors in the extension cord and
+the lightbulb. The potential difference across the lightbulb is
+less than 120 V, and its power is less than 75 W.
+ 
+ 
+(b) See the circuit diagram in ANS. FIG. P28.6; 
+the 192-Ω resistor is the lightbulb (see 
+below). 
+ 
+(c) 
+First, find the operating resistance of the 
+lightbulb: 
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+R
+  
+ 
+ 
+ 
+or 
+ R = ΔV
+(
+)
+2
+P
+= 120 V
+(
+)
+2
+75.0 W = 192 Ω 
+ 
+ 
+From the circuit, the total resistance is 193.6 Ω. The current is 
+ 
+ 
+ 
+I = 120 V
+193.6 Ω = 0.620 A 
+ 
+ 
+so the power delivered to the lightbulb is 
+ 
+ 
+ 
+P = I 2ΔR = 0.620 A
+(
+)
+2 192 Ω
+(
+) = 73.8 W 
+P28.7 
+The equivalent resistance of the parallel combination of three identical 
+resistors is 
+ 
+ 
+1
+Rp
+= 1
+R1
++ 1
+R2
++ 1
+R3
+= 3
+R   or   Rp = R
+3
+ 
+ 
+The total resistance of the series combination between points a and b is 
+then 
+ 
+ 
+Rab = R + Rp + R = 2R + R
+3 = 7
+3 R 
+ANS. FIG. P28.6
+
+--- PAGE 9 ---
+248     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.8 
+(a) 
+ By Ohm’s law, the current in A is IA = ε/R . The equivalent 
+resistance of the series combination of bulbs B and C is 2R. Thus, 
+the current in each of these bulbs is IB = IC = ε 2R . 
+ 
+(b) 
+B and C have the same brightness because they carry the same
+current.
+ 
+ 
+(c) 
+A is brighter than B or C because it carries twice as much current. 
+P28.9 
+If we turn the given diagram on its side and change the lengths of the 
+wires, we find that it is the same as ANS. FIG. P28.9(a). The 20.0-Ω and 
+5.00-Ω resistors are in series, so the first reduction is 
+shown in ANS. FIG. P28.9(b). In addition, since the 
+10.0-Ω, 5.00-Ω, and 25.0-Ω resistors are then in 
+parallel, we can solve  
+for their equivalent resistance as: 
+ 
+ 
+1
+Req
+=
+1
+10.0 Ω +
+1
+5.00 Ω +
+1
+25.0 Ω →Req = 2.94 Ω 
+ 
+This is shown in ANS. FIG. P28.9(c), which in turn 
+reduces to the circuit shown in ANS. FIG. P28.9(d), 
+from which we see that the total resistance of the 
+circuit is 12.94 Ω. 
+ 
+Next, we work backwards through the diagrams 
+applying I = ΔV
+R and ΔV = IR alternately to every 
+resistor, real and equivalent. The total 12.94-Ω 
+resistor is connected across 25.0 V, so the current 
+through the battery in every diagram is 
+ 
+ 
+I = ΔV
+R = 25.0 V
+12.94 Ω = 1.93 A 
+ 
+In ANS. FIG. P28.9(c), this 1.93 A goes through 
+the 2.94-Ω equivalent resistor to give a potential 
+difference of: 
+ 
+ 
+ΔV = IR = 1.93 A
+(
+) 2.94 Ω
+(
+) = 5.68 V 
+ 
+From ANS. FIG. P28.9(b), we see that this potential difference is the 
+same as the potential difference ΔVab across the 10-Ω resistor and the 
+5.00-Ω resistor. 
+ANS. FIG. P28.9
+
+--- PAGE 10 ---
+Chapter 28     249 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus we have first found the answer to part (b), which is 
+ 
+ 
+ΔVab = 5.68 V 
+ 
+Since the current through the 20.0-Ω resistor is also the current through 
+the 25.0-Ω line ab, 
+ 
+ 
+I = ΔVab
+Rab
+= 5.68 V
+25.0 Ω = 0.227 A = 227 mA 
+P28.10 
+(a) 
+Connect two 50-Ω resistors in parallel to get 25 Ω. Then
+connect that parallel combination in series with a 20-Ω for
+a total resistance of 45 Ω.
+ 
+ 
+(b) 
+Connect two 50-Ω resistors in parallel to get 25 Ω. Also, connect
+two 20-Ω resistors in parallel to get 10 Ω. Then, connect these two
+combinations in series with each other to obtain 35 Ω.
+ 
+P28.11 
+When S is open, R1, R2, and R3 are in series with the battery. Thus, 
+ 
+ 
+ 
+R1 + R2 + R3 =
+6 V
+10−3 A = 6 kΩ 
+[1] 
+ 
+When S is closed in position a, the parallel combination of the two R2’s 
+is in series with R1, R3, and the battery. Thus, 
+ 
+ 
+R1 + 1
+2 R2 + R3 =
+6 V
+1.2 × 10−3 A = 5 kΩ 
+[2] 
+ 
+When S is closed in position b, R1 and R2 are in series with the battery 
+and R3 is shorted. Thus, 
+ 
+ 
+R1 + R2 =
+6 V
+2 × 10−3 A = 3 kΩ 
+[3] 
+ 
+Subtracting [3] from [1] gives  R3 = 3 kΩ. 
+ 
+Subtracting [2] from [1] gives  R2 = 2 kΩ. 
+ 
+Then, from [3],   
+ 
+R1 = 1 kΩ. 
+ 
+Answers: (a) R1 = 1.00 kΩ   (b) R2 = 2.00 kΩ   (c) R3 = 3.00 kΩ 
+P28.12 
+When S is open, R1, R2, and R3 are in series with the battery. Thus, 
+ 
+ 
+ 
+R1 + R2 + R3 = ε
+I0
+ 
+[1]
+
+--- PAGE 11 ---
+250     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+When S is closed in position a, the parallel combination of the two R2’s 
+is in series with R1, R3, and the battery. Thus, 
+ 
+ 
+ 
+R1 + 1
+2 R2 + R3 = ε
+Ia
+ 
+[2] 
+ 
+When S is closed in position b, R1 and R2 are in series with the battery. 
+R3 is shorted. Thus: 
+ 
+ 
+ 
+R1 + R2 = ε
+Ib
+  
+[3] 
+ 
+Subtracting [3] from [1] gives 
+ 
+ 
+ 
+R1 + R2 + R3
+(
+)−R1 + R2
+(
+) = ε
+I0
+−ε
+Ib
+R3 = ε
+1
+I0
+−1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Subtracting [2] from [1] gives 
+ 
+ 
+ 
+R1 + R2 + R3
+(
+)−R1 + 1
+2 R2 + R3
+⎛
+⎝⎜
+⎞
+⎠⎟= ε
+I0
+−ε
+Ia
+1
+2 R2 = ε
+1
+I0
+−1
+Ia
+⎛
+⎝⎜
+⎞
+⎠⎟
+R2 = 2ε
+1
+I0
+−1
+Ia
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Then, from [3], 
+ 
+ 
+ 
+R1 + R2 = ε
+Ib
+R1 = ε
+Ib
+−R2
+R1 = ε
+Ib
+−2ε
+1
+I0
+−1
+Ia
+⎛
+⎝⎜
+⎞
+⎠⎟
+R1 = ε −2
+I0
++ 2
+Ia
++ 1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Answers: (a) R1 = ε −2
+I0
++ 2
+Ia
++ 1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟  (b) R2 = 2ε
+1
+I0
+−1
+Ia
+⎛
+⎝⎜
+⎞
+⎠⎟  
+(c) R3 = ε
+1
+I0
+−1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 12 ---
+Chapter 28     251 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P28.13 
+(a) 
+The equivalent resistance of the two 
+parallel resistors is  
+ 
+ 
+ 
+Rp =
+1
+1 7.00 Ω
+(
+) + 1 10.0 Ω
+(
+) = 4.12 Ω 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+Rs = R1 + R2 + R3 = 4.00 + 4.12 + 9.00
+= 17.1 Ω
+ 
+ 
+(b) 
+ΔV = IR 
+ 
+ 
+34.0 V = I 17.1 Ω
+(
+) 
+ 
+ 
+ 
+I = 1.99 A for the 4.00-Ω and 9.00-Ω resistors. 
+ 
+ 
+Applying ΔV = IR, 
+ 
+ 
+ 
+1.99 A
+(
+) 4.12 Ω
+(
+) = 8.18 V 
+ 
+ 
+ 
+8.18 V = I 7.00 Ω
+(
+) 
+ 
+ 
+so 
+I = 1.17 A for the 7.00-Ω resistor. Finally,  
+ 
+ 
+ 
+8.18 V = I 10.0 Ω
+(
+) 
+ 
+ 
+so 
+I = 0.818 A for the 10.0-Ω resistor. 
+P28.14 
+(a) 
+The resistance between a and b decreases. The original resistance 
+is 
+ 
+ 
+ 
+R +
+1
+1
+90 + 10
++
+1
+10 + 90
+= R + 50 Ω 
+ 
+ 
+Closing the switch changes the resistance to 
+ 
+ 
+ 
+R +
+1
+1
+90
++ 1
+10
++
+1
+1
+10
++ 1
+90
+= R + 18 Ω 
+ 
+(b) We require R + 18 Ω = 0.50(R + 50 Ω), so R = 14.0 Ω. 
+P28.15 
+Denoting the two resistors as x and y, and suppressing units, 
+ 
+ 
+ 
+x + y = 690, and 1
+150 = 1
+x + 1
+y 
+ 
+ 
+ 
+1
+150 = 1
+x +
+1
+690 −x = 690 −x
+(
+)+ x
+x 690 −x
+(
+)
+ 
+ANS. FIG. P28.13
+
+--- PAGE 13 ---
+252     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+x2 −690x + 103 500 = 0
+x = 690 ±
+690
+(
+)
+2 −414 000
+2
+x = 470 Ω
+y = 220 Ω
+ 
+P28.16 
+(a) 
+The resistors 2, 3, and 4 can be combined to a single 2R resistor. 
+This is in series with resistor 1, with resistance R, so the 
+equivalent resistance of the whole circuit is 3R. In series, potential 
+difference is shared in proportion to the resistance, so resistor 1 
+gets 1
+3 of the battery voltage and the 2-3-4 parallel combination 
+gets 2
+3 of the battery voltage. This is the potential difference 
+across resistor 4, but resistors 2 and 3 must share this voltage. 1
+3 
+goes to 2 and 2
+3 to 3. The ranking by potential difference is  
+ 
+ 
+ 
+ΔV4 > ΔV3 > ΔV1 > ΔV2 
+ 
+ 
+Based on the reasoning above the potential differences are  
+ 
+ 
+ 
+ΔV1 = ε
+3 , ΔV2 = 2ε
+9 , ΔV3 = 4ε
+9 , ΔV4 = 2ε
+3
+ 
+ 
+(b) All the current goes through resistor 1, so it gets the most. The 
+current then splits at the parallel combination. Resistor 4 gets 
+more than half, because the resistance in that branch is less than 
+in the other branch. Resistors 2 and 3 have equal currents because 
+they are in series. The ranking by current is  
+ 
+ 
+ 
+I1 > I4 > I2 = I3 
+ 
+ 
+Resistor 1 has a current of I. Because the resistance of 2 and 3 in 
+series is twice that of resistor 4, twice as much current goes 
+through 4 as through 2 and 3. The current through the resistors 
+are  
+ 
+ 
+ 
+I1 = I, I2 = I3 = I
+3 , I4 = 2I
+3
+ 
+ 
+(c) 
+Increasing resistor 3 increases the equivalent resistance of the 
+entire circuit. The current in the circuit, which is the current 
+through resistor 1, decreases. This decreases the potential 
+difference across resistor 1, increasing the potential difference 
+across the parallel combination. With a larger potential difference 
+the current through resistor 4 is increased. With more current
+
+--- PAGE 14 ---
+Chapter 28     253 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+through 4, and less in the circuit to start with, the current through 
+resistors 2 and 3 must decrease. To summarize,  
+ 
+ 
+ 
+I4 increases and I1, I2, and I3 decrease 
+ 
+(d) If resistor 3 has an infinite resistance it blocks any current from 
+passing through that branch, and the circuit effectively is just 
+resistor 1 and resistor 4 in series with the battery. The circuit now 
+has an equivalent resistance of 4R. The current in the circuit drops 
+to 3
+4 of the original current because the resistance has increased 
+by 4
+3 . All this current passes through resistors 1 and 4, and none 
+passes through 2 or 3. Therefore, 
+ 
+ 
+ 
+I1 = 3I
+4 , I2 = I3 = 0, I4 = 3I
+4
+ 
+P28.17 
+(a) 
+The parallel combination of the 6.0 Ω and 12 Ω resistors has an 
+equivalent resistance of 
+ 
+ 
+ 
+1
+Rp1
+=
+1
+6.0 Ω +
+1
+12 Ω = 2 + 1
+12 Ω    
+ 
+ 
+or 
+Rp1 = 12 Ω
+3
+= 4.0 Ω 
+ 
+ 
+Similarly, the equivalent resistance of the 4.0 Ω and 8.0 Ω parallel 
+combination is 
+ 
+ 
+ 
+1
+Rp2
+=
+1
+4.0 Ω +
+1
+8.0 Ω = 2 + 1
+8.0 Ω    
+ 
+ 
+or  
+Rp2 = 8 Ω
+3 
+ 
+ 
+The total resistance of the series combination between points a 
+and b is then 
+ 
+ 
+ 
+Rab = Rp1 + 5.0 Ω + Rp2 = 4.0 Ω + 5.0 Ω + 8.0
+3 Ω
+= 35
+3 Ω = 11.7 Ω
+
+--- PAGE 15 ---
+254     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If ΔVab = 35 V, the total current from a to b is Iab = ΔVab Rab = 
+35 V
+35 Ω 3
+(
+) = 3.0 A and the potential differences across the two 
+parallel combinations are 
+ 
+ 
+ 
+ΔVp1 = IabRp1 = 3.0 A
+(
+) 4.0 Ω
+(
+) = 12 V  
+ 
+ 
+and ΔVp2 = IabRp2 = 3.0 A
+(
+) 8.0
+3 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= 8.0 V 
+ 
+ 
+so the individual currents through the various resistors are: 
+ 
+ 
+ 
+I12 = ΔVp1 12 Ω = 1.0 A    
+ 
+ 
+ 
+I6 = ΔVp1 6.0 Ω = 2.0 A 
+ 
+ 
+ 
+I5 = Iab = 3.0 A 
+ 
+ 
+ 
+I8 = ΔVp2 8.0 Ω = 1.0 A   
+ 
+ 
+and I4 = ΔVp2 4.0 Ω = 2.0 A 
+P28.18 
+We assume that the metal wand makes low-resistance contact with the 
+person’s hand and that the resistance through the person’s body is 
+negligible compared to the resistance Rshoes of the shoe soles. The 
+equivalent resistance seen by the power supply is 1.00 MΩ + Rshoes. The 
+current through both resistors is 
+50.0 V
+1.00 MΩ + Rshoes
+. The voltmeter 
+displays 
+ 
+ 
+ 
+ΔV = I 1.00 MΩ
+(
+)
+ΔV =
+50.0 V
+1.00 MΩ + Rshoes
+= 1.00 MΩ
+ 
+ 
+(a) 
+We solve to obtain 
+ 
+ 
+ 
+50.0 V 1.00 MΩ
+(
+) = ΔV 1.00 MΩ
+(
+) + ΔV Rshoes
+(
+) 
+ 
+ 
+ 
+Rshoes = 1.00 MΩ
+(
+) 50.0 −ΔV
+(
+)
+ΔV
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+Rshoes = 50.0 −ΔV
+ΔV
+ 
+ 
+ 
+where resistance is measured in MΩ.
+
+--- PAGE 16 ---
+Chapter 28     255 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) With Rshoes →0 , the current through the person’s body is 
+ 
+ 
+ 
+50.0 V
+1.00 MΩ = 50.0 µA    The current will never exceed 50 µA. 
+P28.19 
+To find the current in each resistor, we find the resistance seen by the 
+battery. The given circuit reduces as shown in ANS. FIG. P28.19(a), 
+since  
+ 
+ 
+ 
+1
+(1/1.00 Ω) + (1/3.00 Ω )  = 0.750 Ω 
+ 
+In ANS. FIG. P28.19(b),  
+ 
+ 
+ 
+I = 18.0 V/6.75 Ω = 2.67 A 
+ 
+This is also the current in ANS. FIG. P28.19(a), so 
+ the 2.00-Ω and 4.00-Ω resistors convert powers  
+ 
+ 
+P2 = IΔV = I 2R = 2.67 A
+(
+)
+2 2.00 Ω
+(
+) = 14.2 W  
+ 
+and P4 = I 2R = 2.67 A
+(
+)
+2 4.00 Ω
+(
+) = 28.4 W 
+ 
+The voltage across the 0.750-Ω resistor in  
+ANS. FIG. P28.19(a), and across both the 3.00-Ω  
+and the 1.00-Ω resistors in Figure P28.19, is  
+ 
+ 
+ΔV = IR = 2.67 A
+(
+) 0.750 Ω
+(
+) = 2.00 V 
+ 
+Then for the 3.00-Ω resistor, 
+ 
+ 
+I = ΔV
+R = 2.00 V
+3.00 Ω
+ 
+ 
+and the power is 
+ 
+ 
+P3 = IΔV =
+2.00 V
+3.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟(2.00 V) = 1.33 W
+ 
+ 
+For the 1.00-Ω resistor, 
+ 
+ 
+I = 2.00 V
+1.00 Ω
+and
+P1 =
+2.00 V
+1.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟(2.00 V) = 4.00 W
+ 
+P28.20 
+The resistance of the combination of extra resistors must be 
+7
+3 R − R =  4
+3 R. The possible combinations are: one resistor: R; two 
+resistors: 2R, 1
+2 R; three resistors: 3R, 1
+3 R, 2
+3 R, 3
+2 R. None of these is 
+4
+3 R, so the desired resistance cannot be achieved. 
+ 
+ 
+ANS. FIG. P28.19
+
+--- PAGE 17 ---
+256     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.21 
+(a) 
+The equivalent resistance of this first parallel combination is 
+ 
+ 
+ 
+1
+Rp1
+=
+1
+10.0 Ω +
+1
+5.00 Ω   or   Rp1 = 3.33 Ω 
+ 
+ANS. FIG. P28.21 
+ 
+ 
+For this series combination, 
+ 
+ 
+ 
+Rupper = Rp1 + 4.00 Ω = 7.33 Ω 
+ 
+ 
+For the second parallel combination, 
+ 
+ 
+ 
+1
+Rp2
+=
+1
+Rupper
++
+1
+3.00 Ω =
+1
+7.33 Ω +
+1
+3.00 Ω  or  Rp2 = 2.13 Ω 
+ 
+ 
+For the second series combination (and hence the entire resistor 
+network) 
+ 
+ 
+ 
+Rtotal = 2.00 Ω + Rp2 = 2.00 Ω + 2.13 Ω = 4.13 Ω 
+ 
+ 
+The total current supplied by the battery is   
+Itotal = ΔV
+Rtotal
+= 8.00 V
+4.13 Ω = 1.94 A 
+ 
+ 
+The potential drop across the 2.00 Ω resistor is 
+ 
+ 
+ 
+ΔV2 = R2Itotal = 2.00 Ω
+(
+) 1.94 A
+(
+) = 3.88 V 
+ 
+ 
+The potential drop across the second parallel combination must 
+be 
+ 
+ 
+ 
+ΔVp2 = ΔV −ΔV2 = 8.00 V −3.88 V = 4.12 V 
+ 
+(b) So the current through the 3.00 Ω resistor is  
+ 
+ 
+ 
+Itotal = ΔVp2
+R3
+= 4.12 V
+3.00 Ω = 1.38 A
+
+--- PAGE 18 ---
+Chapter 28     257 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 28.3 
+Kirchhoff ’s Rules 
+*P28.22  We need one voltmeter across each resistor 
+and each battery. These are shown with  V   in 
+ANS. FIG. P28.22. From Kirchhoff’s junction 
+rule, we need one ammeter in each segment 
+of the circuit. Ammeters are shown with  A  in 
+ANS. FIG. P28.22. ANS. FIG. P28.22 is the 
+complete answer to this problem.  
+ 
+ 
+P28.23 
+We name currents I1, I2, and I3 as shown in  
+ANS. FIG. P28.23. From Kirchhoff’s current  
+rule, I3 = I1 + I2. 
+ 
+Applying Kirchhoff’s voltage rule to the  
+loop containing I2 and I3, 
+ 
+ 
+ 
+12.0 V −4.00 Ω
+(
+)I3
+                  −6.00 Ω
+(
+)I2 −4.00 V = 0
+8.00 = 4.00
+(
+)I3 + 6.00
+(
+)I2
+ 
+ 
+Applying Kirchhoff’s voltage rule to the loop containing I1 and I2, 
+ 
+ 
+ 
+−6.00 Ω
+(
+)I2 −4.00 V + 8.00 Ω
+(
+)I1 = 0 
+ 
+or 
+ 
+8.00 Ω
+(
+)I1 = 4.00 + 6.00 Ω
+(
+)I2 
+ 
+Solving the above linear system (by substituting I1 + I2 for I3), we 
+proceed to the pair of simultaneous equations: 
+ 
+ 
+ 
+8 = 4I1 + 4I2 + 6I2
+8I1 = 4 + 6I2
+⎧
+⎨
+⎩
+   or   
+8 = 4I1 + 10I2
+I2 = 4
+3 I1 −2
+3
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+and to the single equation 
+ 
+ 
+ 
+8 = 4I1 + 10 4
+3 I1 −2
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 52
+3 I1 −20
+3    
+ 
+ 
+which gives 
+ 
+ 
+ 
+I1 = 3
+52 8 + 20
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.846 A 
+ 
+Then 
+I2 = I2 = 4
+3 0.846
+(
+) −2
+3 = 0.462 
+ANS. FIG. P28.23 
+ 
+ANS. FIG. P28.22
+
+--- PAGE 19 ---
+258     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and  
+I3 = I1 + I2 = 1.31 A  
+ 
+give  
+I1 = 846 mA, I2 = 462 mA, I3 = 1.31 A 
+ 
+(a) 
+The results are: 0.846 A down in the 8.00-Ω resistor; 0.462 A down 
+in the middle branch; 1.31 A up in the right-hand branch. 
+ 
+(b) For 4.00-V battery:    
+ 
+ 
+ 
+ΔU = PΔt = ΔV
+(
+)IΔt = 4.00 V
+(
+) −0.462 A
+(
+) 120 s
+(
+) = −222 J  
+ 
+ 
+For 12.0-V battery:  
+ 
+ 
+ 
+ΔU = 12.0 V
+(
+) 1.31 A
+(
+) 120 s
+(
+) = 1.88 kJ 
+ 
+ 
+The results are: –222 J by the 4.00-V battery and 1.88 kJ by the 
+12.0-V battery. 
+ 
+(c) 
+To the 8.00-Ω resistor:   
+ 
+ 
+ 
+ΔU = I 2RΔt = 0.846 A
+(
+)
+2 8.00 Ω
+(
+) 120 s
+(
+) = 687 J 
+ 
+ 
+To the 5.00-Ω resistor:   
+ 
+ 
+ 
+ΔU = 0.462 A
+(
+)
+2 5.00 Ω
+(
+) 120 s
+(
+) = 128 J 
+ 
+ 
+To the 1.00-Ω resistor in the center branch:   
+ 
+ 
+ 
+0.462 A
+(
+)
+2 1.00 Ω
+(
+) 120 s
+(
+) = 25.6 J  
+ 
+ 
+To the 3.00-Ω resistor:    
+ 
+ 
+ 
+1.31 A
+(
+)
+2 3.00 Ω
+(
+) 120 s
+(
+) = 616 J 
+ 
+ 
+To the 1.00-Ω resistor in the right-hand branch:  
+ 
+ 
+ 
+1.31 A
+(
+)
+2 1.00 Ω
+(
+) 120 s
+(
+) = 205 J 
+ 
+(d) 
+Chemical energy in the 12.0-V battery is transformed 
+into internal energy in the resistors. The 4.00-V battery 
+is being charged, so its chemical potential energy is 
+increasing at the expense of some of the chemical 
+potential energy in the 12.0-V battery.
+ 
+ 
+(e) 
+Either sum the results in part (b):   –222 J + 1.88 kJ = 1.66 kJ, 
+ 
+ 
+or in part (c):  687 J + 128 J + 25.6 J + 616 J +205 J = 1.66 kJ 
+ 
+ 
+The total amount of energy transformed is 1.66 kJ.
+
+--- PAGE 20 ---
+Chapter 28     259 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.24 
+We name the currents I1, I2, and I3 and arbitrarily choose current 
+directions as labeled in ANS. FIG. P28.24. 
+ 
+ANS FIG. P28.24 
+ 
+ 
+(a) 
+From the point rule for the junction below point b, 
+ 
+ 
+ 
+ 
+–I1 + I2 + I3 = 0 
+[1] 
+ 
+ 
+ 
+Traversing the top loop counterclockwise gives the voltage loop 
+equation 
+ 
+ 
+ 
+ 
++12.0 V – (2.00 ) I3 – (4.00 ) I1 = 0 
+[2] 
+ 
+ 
+ 
+Traversing the bottom loop CCW,  
+ 
+ 
+ 
+ 
++8.00 V – (6.00 ) I2 + (2.00 )I3 = 0 
+[3] 
+ 
+ 
+ 
+Solving for I1 from equation [2],  
+ 
+ 
+ 
+ 
+I1 = 12.0 V −2.00 Ω
+(
+)I3
+4.00 Ω
+  
+ 
+ 
+ 
+Solving for I2 from equation [3],  
+ 
+ 
+ 
+ 
+I2 = 8.00 V + 2.00 Ω
+(
+)I3
+6.00 Ω
+  
+ 
+ 
+ 
+Substituting both of these values into equation [1], we find  
+ 
+ 
+ 
+−3.00 V −0.500I3
+(
+)+ 1.33 V+0.333I3 + I3 = 0  
+ 
+ 
+ 
+so 
+−1.67 V + 1.833I3 = 0 
+ 
+ 
+ 
+and the current in the 2.00-Ω resistor is I3 = 909 mA 
+ 
+  
+(b) Through the center wire, 
+ 
+ 
+  
+ 
+ 
+Va −0.909 A
+(
+) 2.00 Ω
+(
+) = Vb  
+ 
+  
+Therefore,  
+ 
+  
+ 
+Vb −Va = −1.82 V , with Va > Vb
+
+--- PAGE 21 ---
+260     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.25 
+(a) 
+Let I6 represent the current in the ammeter and the top 6-Ω 
+resistor. The bottom 6-Ω resistor has the same potential difference 
+across it, so it carries an equal current. 
+ 
+ 
+We assume both I6 in the upper branch and I6 in the lower branch 
+flow to the right. We assume current I10 flows to the left through 
+the 10-Ω resistor. For the top loop we have 
+ 
+ 
+ 
+6.00 – 10.0I10 – 6.00I6 = 0   →   I10 = 0.6 – 0.6 I6  
+[1] 
+ 
+ 
+We assume current I5 flows to the left through the 5-Ω resistor. 
+For the bottom loop, 
+ 
+ 
+ 
+4.50 – 5.00I5 – 6.00I6 = 0   →   I5 = 0.9 – 1.2 I6 
+[2] 
+ 
+ 
+For the junctions on the left side, taken together, 
+ 
+ 
+ 
++I10 + I5 – I6 – I6 = 0  
+[3] 
+ 
+ 
+Substituting I10 and I5 into [3], we have 
+ 
+ 
+ 
+(0.6 – 0.6 I6) + (0.9 – 1.2 I6) – 2 I6 = 0 → I6 = 1.5/3.8 = 0.395 A 
+ 
+(b) The loop theorem for the little loop containing the voltmeter gives 
+ 
+ 
+ 
++ 6.00 V – ∆V – 4.50 V = 0  →ΔV = 1.50 V 
+P28.26 
+(a) 
+The first equation represents 
+Kirchhoff’s loop theorem. We 
+choose to think of it as 
+describing a clockwise trip 
+around the left-hand loop in a 
+circuit; see ANS. FIG. P28.26(a).  
+ 
+ 
+For the right-hand loop see  
+ANS. FIG. P28.26(b). The  
+junctions must be between the  
+5.80-V emf and the 370-Ω resistor 
+and between the 370-Ω resistor 
+and the 150-Ω resistor. Then we  
+have ANS. FIG. P28.26(c).  
+This is consistent with the  
+third equation, 
+ 
+ 
+ 
+I1 + I3 −I2 = 0
+I2 = I1 + I3
+ 
+ANS. FIG. P28.26(a) 
+ANS. FIG. P28.26(b) 
+ANS. FIG. P28.26(c)
+
+--- PAGE 22 ---
+Chapter 28     261 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Suppressing units, we substitute: 
+ 
+ 
+ 
+−220I1 + 5.80 −370I1 −370I3 = 0
++370I1 + 370I3 + 150I3 −3.10 = 0
+ 
+ 
+ 
+Next , I3 = 5.80 −590I1
+370
+ 
+ 
+ 
+ 
+370I1 + 520
+370 5.80 −590I1
+(
+) −3.1 = 0
+370I1 + 8.15 −829I1 −3.10 = 0
+I1 = 5.05 V
+459 Ω = 11.0 mA in the 220-Ω resistor and out of
+the positive pole of the 5.80-V battery
+I3 = 5.80 −590 0.011 0
+(
+)
+370
+= −1.87 mA
+The current is 1.87 mA in the 150-Ω resistor and out of the
+negative pole of the 3.10-V battery. 
+I2 = 11.0 −1.87 = 9.13 mA in the 370-Ω resistor
+ 
+P28.27 
+Label the currents in the branches as shown in 
+ANS. FIG. P28.27(a). Reduce the circuit by 
+combining the two parallel resistors as shown in 
+ANS. FIG. P28.27(b). 
+ 
+Apply Kirchhoff’s loop rule to both loops in ANS. 
+FIG. P28.27(b) to obtain: 
+ 
+ 
+ 
+2.71R
+(
+)I1 + 1.71R
+(
+)I2 = 250 V 
+ 
+ 
+ 
+1.71R
+(
+)I1 + 3.71R
+(
+)I2 = 500 V 
+ 
+With R = 1 000 Ω, simultaneous solution of these 
+equations yields: 
+ 
+ 
+ 
+I1 = 10.0 mA 
+ 
+ 
+ 
+I2 = 130.0 mA 
+ 
+From ANS. FIG. P28.27(b), Vc −Va = I1 + I2
+(
+) 1.71R
+(
+) = 240 V. 
+ 
+Thus, from ANS. FIG. P28.27(a), I4 = Vc −Va
+4R
+= 240 V
+4 000 Ω = 60.0 mA. 
+ 
+Finally, applying Kirchhoff’s point rule at point a in ANS. FIG. 
+P28.27(a) gives: 
+ 
+ 
+ 
+I = I4 −I1 = 60.0 mA −10.0 mA = +50.0 mA 
+ 
+ANS. FIG. P28.27(a) 
+ 
+ANS. FIG. P28.27(b)
+
+--- PAGE 23 ---
+262     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+I = 50.0 mA from point a to point e . 
+P28.28 
+Using Kirchhoff’s rules and suppressing units, 
+ 
+ 
+ 
+12.0 −0.01
+(
+)I1 −0.06
+(
+)I3 = 0 
+[1] 
+ 
+ 
+ 
+12.0 + 1.00
+(
+)I2 −0.06
+(
+)I3 = 0 
+[2] 
+ 
+and  
+I1 = I2 + I3. 
+[3] 
+ 
+Substitute [3] into [1]: 
+ 
+ 
+ 
+12.0 −0.01
+(
+) I2 + I3
+(
+) −0.06
+(
+)I3 = 0
+12.0 −0.01
+(
+)I2 −0.07
+(
+)I3 = 0      
+ 
+[4]
+ 
+ 
+ANS. FIG. P28.28 
+ 
+Solving [4] and [2] simultaneously gives 
+ 
+(a) 
+I3 = 172A = 172 A downward in the starter. 
+ 
+(b) 
+I2 = −1.70A = 1.70 A upward in the dead battery. 
+ 
+(c) 
+No, the current in the dead battery is upward in Figure 
+P28.28, so it is not being charged. The dead battery is 
+providing a small amount of power to operate the starter, 
+so it is not really “dead.”
+ 
+P28.29 
+(a) 
+For the upper loop:  
+ 
+ 
+ 
++15.0 V −7.00 Ω
+(
+)I1
+          −2.00 A
+(
+) 5.00 Ω
+(
+) = 0
+ 
+ 
+ 
+ 
+5.00 = 7.00I1   so  I1 = 0.714 A 
+ 
+(b) For the center-left junction: 
+ 
+ 
+ 
+ I3 = I1 + I2 = 2.00 A 
+ANS. FIG. P28.29
+
+--- PAGE 24 ---
+Chapter 28     263 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+where I3 is the current through the ammeter (assumed to travel to 
+the right): 
+ 
+ 
+ 
+0.714 + I2 = 2.00   so   I2 = 1.29 A 
+ 
+(c) 
+For the lower loop:  
+ 
+ 
+ 
++ε −2.00 Ω
+(
+) 1.29 A
+(
+) −5.00 Ω
+(
+) 2.00 A
+(
+) = 0 →ε = 12.6 V 
+P28.30 
+Name the currents as shown in ANS. FIG. P28.30. Then  
+ 
+ 
+ 
+y = w + x + z 
+ 
+ANS. FIG. P28.30 
+ 
+The loop equations are (suppressing units): 
+ 
+ 
+ 
+−200w −40.0 + 80.0x = 0
+−80.0x + 40.0 + 360 −20.0y = 0
++360 −20.0y −70.0z + 80.0 = 0
+⎫
+⎬⎪
+⎭⎪
+   →    
+x = 2.50w + 0.500
+20.0 = 4.00x + 1.00y
+22.0 = 1.00y + 3.50z
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+Use y = w + x + z to eliminate y by substitution: 
+ 
+ 
+ 
+x = 2.50w + 0.500
+20.0 = 4.00x + 1.00y →20.0 = 4.00x + 1.00(w + x + z)
+22.0 = 1.00y + 3.50z →22.0 = 1.00(w + x + z) + 3.50z
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+ 
+                                        →
+x = 2.50w + 0.500
+20.0 = 5.00x + 1.00w + 1.00z
+22.0 = 1.00w + 1.00x + 4.50z
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+Eliminate x: 
+ 
+ 
+ 
+20.0 = 5.00 2.50w + 0.500
+(
+) + 1.00w + 1.00z
+22.0 = 1.00w + 1.00 2.50w + 0.500
+(
+) + 4.50z
+⎫
+⎬
+⎭⎪
+ 
+                                                 →   17.5 = 13.5w + 1.00z
+21.5 = 3.50w + 4.50z
+⎧
+⎨
+⎩
+ 
+ 
+Eliminate z = 17.5 – 13.5w to obtain 
+ 
+ 
+ 
+21.5 = 3.50w + 4.50 17.5 −13.5w
+(
+)
+21.5 = 3.50w + 4.50 17.5
+(
+) −4.50 13.5w
+(
+)
+→57.25 = 57.25w →w = 1.00
+ 
+ 
+(a) 
+w = 1.00 A upward in the 200-Ω resistor
+
+--- PAGE 25 ---
+264     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+z = 17.5 −13.5w = 17.5 −13.5 1.00
+(
+)
+=
+4.00 A upward in the 70.0-Ω resisor
+ 
+ 
+ 
+x = 2.50w + 0.500 = 2.50 1.00
+(
+) + 0.500
+= 3.00 A upward in the 80.0-Ω resistor
+ 
+ 
+ 
+y = w + x + z = 1.00 + 3.00 + 4.00
+= 8.00 A downward in the 20.0-Ω resistor
+ 
+ 
+(b) For the 200-Ω resistor, ΔV = IR = 1.00 A
+(
+) 200 Ω
+(
+) = 200 V 
+*P28.31 
+(a) 
+We name the currents I1, I2, and I3 as  
+shown in ANS. FIG. P28.31.  
+Applying Kirchhoff’s loop rule to  
+loop abcfa gives 
+ 
+ 
+ 
++ε1 −ε2 −R2I2 −R1I1 = 0  
+ 
+ 
+or, 
+ 
+ 
+ 
+70.0 V −60.0 V
+     −3.00 kΩ
+(
+)I2 −2.00 kΩ
+(
+)I1 = 0
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+3I2 + 2I1 = 10.0 mA 
+ 
+ 
+or 
+I1 = 5.00 mA −1.50I2 
+[1] 
+ 
+ 
+Applying the loop rule to loop 
+ yields 
+ 
+ 
+ 
++ε3 −R3I3 −ε2 −R2I2 = 0 
+ 
+ 
+which gives 
+ 
+ 
+ 
+80.0 V −4.00 kΩ
+(
+)I3 −60.0 V −3.00 kΩ
+(
+)I2 = 0 
+ 
+ 
+or 
+3I2 + 4I3 = 20.0 mA 
+ 
+ 
+and I3 = 5.00 mA −0.750I2 
+[2] 
+ 
+  
+Finally, applying Kirchhoff’s junction rule at junction c gives 
+ 
+ 
+ 
+I2 = I1 + I3 
+[3] 
+ 
+  
+Substituting equations [1] and [2] into [3] yields 
+ 
+ 
+ 
+I2 = 5.00 mA −1.50I2 + 5.00 mA −0.750I2 
+ 
+ 
+or 
+3.25I2 = 10.0 mA 
+ 
+ANS. FIG. P28.31
+
+--- PAGE 26 ---
+Chapter 28     265 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This gives I2 = 10.0 mA
+3.25
+= 3.08 mA . Then, equation [1] yields 
+ 
+ 
+ 
+I1 = 5.00 mA −1.50I2 = 5.00 mA −1.50 3.08 mA
+(
+) = 0.385 mA 
+ 
+ 
+and from equation [2], 
+ 
+ 
+ 
+I3 = 5.00 mA −0.750I2 = 5.00 mA −0.750 3.08 mA
+(
+)
+= 2.69 mA
+ 
+ 
+(b) Start at point c and go to point f, recording changes in potential to 
+obtain 
+ 
+  
+ 
+Vf −Vc = −ε2 −R2I2
+= −60.0 V −3.00 × 103 Ω
+(
+) 3.08 × 10−3 A
+(
+) = −69.2 V
+  
+ 
+  
+or 
+ΔV cf = 69.2 V and point c is at the higher potential . 
+P28.32 
+Following the path of I1 from a to b, and recording changes in potential 
+gives 
+ 
+ 
+ 
+Vb −Va = +24.0 V −6.00 Ω
+(
+) 3.00 A
+(
+) =+6.00 V 
+ 
+ANS. FIG. P28.32 
+ 
+Now, following the path of I2 from a to b, and recording changes in 
+potential gives 
+ 
+ 
+ 
+Vb −Va = −3.00 Ω
+(
+)I2 = +6.00 V   →   I2 =−2.00 A 
+ 
+which means the initial choice of the direction of I2 in Figure P28.32 
+was incorrect. Applying Kirchhoff’s junction rule at point a gives 
+ 
+ 
+ 
+I3 = I1 + I2 = 3.00 A+ −2.00 A
+(
+)=1.00 A 
+ 
+The results are: 
+ 
+(a) 
+I2 is directed from b toward a and has a magnitude of 2.00 A. 
+ 
+(b) 
+I3 = 1.00 A and flows in the direction shown in Figure P28.32.
+
+--- PAGE 27 ---
+266     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+No. Neither of the equations used to find I2 and I3 
+contained ε and R. The third equation that we could 
+generate from Kirchhoff’s rules contains both the 
+unknowns. Therefore, we have only one equation 
+with two unknowns.
+ 
+P28.33 
+(a) 
+Applying Kirchhoff’s junction rule at point a gives 
+ 
+ 
+ 
+I3 = I1 + I2 
+  
+[1] 
+ 
+ 
+Using the loop rule on the lower loop yields 
+ 
+ 
+ 
++12.0 −12.0I2 −16.0I3 = 0   or   I2 = 1.00 −4.00I3
+3.00 
+[2] 
+ 
+ANS. FIG. P28.33 
+ 
+ 
+Applying the loop rule to loop forming the outer perimeter of the 
+circuit gives 
+ 
+ 
+ 
++24.0 −28.0I1 −16.0I3 = 0   or    I1 = 24.0 −16.0I3
+28.0
+ 
+[3] 
+ 
+ 
+Substituting equations [2] and [3] into [1] yields  
+ 
+ 
+ 
+I3 = 24.0 −16.0I3
+28.0
++ 1.00 −4.00I3
+3.00
+  
+ 
+ 
+and multiplying by 84 to eliminate fractions: 
+ 
+ 
+ 
+84.0I3 = 72.0 −48.0I3 + 84.0 −112I3 
+244I3 = 156 
+I3 = 0.639 A
+ 
+ 
+ 
+Then, equation [2] gives I2 = 0.148 A and equation [3] yields   
+I1 = 0.492 A . 
+  
+(b) The power delivered to each of the resistors in this circuit is: 
+ 
+ 
+ 
+P28.0 Ω = I1
+2R28.0 Ω = 0.492 A
+(
+)
+2 28.0 Ω
+(
+) = 6.77 W
+
+--- PAGE 28 ---
+Chapter 28     267 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.0 Ω = I2
+2R12.0 Ω = 0.148 A
+(
+)
+2 12.0 Ω
+(
+) = 0.261 W 
+ 
+ 
+ 
+P16.0 Ω = I3
+2R16.0 Ω = 0.639 A
+(
+)
+2 16.0 Ω
+(
+) = 6.54 W 
+P28.34 
+(a) 
+Going counterclockwise around the upper loop and suppressing 
+units, Kirchhoff’s loop rule gives 
+ 
+ 
+ 
+−11.0I2 + 12.0 −7.00I2 −5.00I1 + 18.0 −8.00I1 = 0 
+ 
+ 
+or  
+13.0I1 + 18.0I2 = 30.0 . 
+[1] 
+ 
+ANS. FIG. P28.34 
+ 
+(b) Going counterclockwise around the lower loop: 
+ 
+ 
+ 
+−5.00I3 + 36.0 + 7.00I2 −12.0 + 11.0I2 = 0 
+ 
+ 
+or 
+18.0I2 −5.00I3 = −24.0 . 
+[2] 
+ 
+(c) 
+Applying the junction rule at the node in the left end of the circuit 
+gives I1 −I2 −I3 = 0 
+[3] 
+ 
+(d) Solving equation [3] for I3 yields     I3 = I1 −I2 
+[4] 
+ 
+(e) 
+Substituting equation [4] into [2] gives 
+ 
+ 
+ 
+5.00 I1 −I2
+(
+) −18.0I2 = 24.0 
+ 
+ 
+or 
+5.00I1 −23.0I2 = 24.0 . 
+[5] 
+ 
+(f) 
+Solving equation [5] for I1 yields I1 = 24.0 + 23.0I2
+(
+) 5 . 
+Substituting this into equation [1] gives 
+ 
+ 
+ 
+13.0I1 + 18.0I2 = 30.0 
+ 
+ 
+ 
+13.0 24.0 + 23.0I2
+(
+)
+5.00
++ 18.0I2 = 30.0
+13.0 24.0 + 23.0I2
+(
+)+ 5.00 18.0I2
+(
+) = 5.00 30.0
+(
+)
+ 
+ 
+ 
+ 
+389I2 = −162   →   I2 = −162 389   →   I2 = −0.416 A
+
+--- PAGE 29 ---
+268     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, from equation [2], I1 = 30 −18I2
+(
+) 13 which yields   
+ 
+ 
+ 
+I1 = 2.88 A 
+ 
+(g) Equation [4] gives  
+ 
+ 
+ 
+I3 = I1 −I2 = 2.88 A −−0.416 A
+(
+)   →   I3 = 3.30 A 
+ 
+(h) 
+The negative sign in the answer for I2 means that this 
+current flows in the opposite direction to that shown in 
+the circuit diagram and assumed during the solution. 
+That is, the actual current in the middle branch of the 
+circuit flows from right to left and has a magnitude of 
+0.416 A.
+ 
+*P28.35 
+Refer to ANS. FIG. P28.35.  
+Applying Kirchhoff’s junction  
+rule at junction a gives 
+ 
+ 
+ 
+I3 = I1 + I2 
+  
+[1] 
+ 
+Using Kirchhoff’s loop rule on  
+the leftmost loop yields 
+ 
+ 
+ 
+ 
+−3.00 V −4.00 Ω
+(
+)I3 −5.00 Ω
+(
+)I1 + 12.0 V = 0 
+ 
+so 
+ 
+I1 = 9.00 A −4.00I3
+5.00
+= 1.80 A −0.800I3 
+[2] 
+ 
+For the rightmost loop, 
+ 
+ 
+ 
+−3.00 V −4.00 Ω
+(
+)I3 −3.00 Ω + 2.00 Ω
+(
+)I2 + 18.0 V = 0 
+ 
+and  
+I2 = 15.0 A −4.00I3
+5.00
+= 3.00 A −0.800I3 
+[3] 
+ 
+Substituting equations [2] and [3] into [1] and simplifying gives 
+2.60I3 = 4.80 A and I3 = 1.846 A. Then equations [2] and [3] yield 
+I1 = 0.323 A and I2 = 1.523 A. 
+ 
+Therefore, the potential differences across the resistors are 
+ 
+ 
+ 
+ΔV2 = I2 2.00 Ω
+(
+) = 1.523 A
+(
+) 2.00 Ω
+(
+) = 3.05 V  
+ 
+ 
+ 
+ΔV3 = I2 3.00 Ω
+(
+) = 1.523 A
+(
+) 3.00 Ω
+(
+) = 4.57 V 
+ 
+ 
+ 
+ΔV4 = I3 4.00 Ω
+(
+) = 1.846 A
+(
+) 4.00 Ω
+(
+) = 7.38 V 
+ 
+ 
+ 
+ΔV5 = I1 5.00 Ω
+(
+) = 0.323 A
+(
+) 5.00 Ω
+(
+) = 1.62 V 
+ 
+ANS. FIG. P28.35
+
+--- PAGE 30 ---
+Chapter 28     269 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.36 
+(a) 
+No. Some simplification could be made by recognizing that the 
+2.0 Ω and 4.0 Ω resistors are in series, adding to give a total of 6.0 
+Ω; and the 5.0 Ω and 1.0 Ω resistors form a series combination 
+with a total resistance of 6.0 Ω. 
+The circuit cannot be simplified any further, and Kirchhoff’s
+rules must be used to analyze it.
+ 
+ 
+ANS. FIG. P28.36 
+ 
+(b) Applying Kirchhoff’s junction rule at junction a gives 
+ 
+ 
+ 
+I1 = I2 + I3 
+ 
+[1] 
+ 
+ 
+Using Kirchhoff’s loop rule on the upper loop yields 
+ 
+ 
+ 
++24.0 V −2.00 + 4.0
+(
+)I1 −3.00
+(
+)I3 = 0 
+ 
+ 
+or 
+I3 = 8.00 A −2.00I1 
+[2] 
+ 
+ 
+and for the lower loop, 
+ 
+ 
+ 
++12.0 V + 3.00
+(
+)I3 −1.00 + 5.00
+(
+)I2 = 0 
+ 
+ 
+Using equation [2], this reduces to 
+ 
+ 
+ 
+I2 = 12.0 V + 3.00 8.00 A −2.00I1
+(
+)
+6.00
+ 
+ 
+ 
+giving 
+ 
+ 
+ 
+ 
+I2 = 6.00 A −1.00I1 
+[3] 
+ 
+ 
+Substituting equations [2] and [3] into [1] gives I1 = 3.50 A 
+ 
+(c) 
+Then, equation [3] gives I2 = 2.50 A , and 
+ 
+(d) Equation [2] yields I3 = 1.00 A
+
+--- PAGE 31 ---
+270     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 28.4 
+RC Circuits 
+P28.37 
+(a) 
+The time constant of the circuit is 
+ 
+ 
+ 
+τ = RC = 100 Ω
+(
+) 20.0 × 10−6 F
+(
+) = 2.00 × 10−3 s = 2.00 ms 
+ 
+(b) The maximum charge on the capacitor is given by Equation 28.13: 
+ 
+ 
+ 
+Qmax = Cε = 20.0 × 10−6 F
+(
+) 9.00 V
+(
+) = 1.80 × 10−4 C
+ 
+ 
+(c) 
+We use q t( ) = Qmax 1−e−t RC
+(
+) , when t = RC. Then, 
+ 
+ 
+ 
+q t( ) = Qmax 1−e−RC RC
+(
+) = Qmax 1−e−1
+(
+) = 1.80 × 10−4 C
+(
+) 1−e−1
+(
+)
+= 1.14 × 10−4 C
+ 
+P28.38 
+(a) 
+The time constant is  
+ 
+ 
+ 
+RC = 1.00 × 106 Ω
+(
+) 5.00 × 10−6 F
+(
+) = 5.00 s 
+ 
+(b) After a long time interval, the capacitor is “charged to thirty volts,” 
+separating charges of  
+ 
+ 
+ 
+Q = Cε = 5.00 × 10−6 C
+(
+) 30.0 V
+(
+) = 150 µC 
+ 
+(c) 
+I t( ) = ε
+R e−t RC =
+30.0 V
+1.00 × 106 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟exp
+−10.0 s
+1.00 × 106 Ω
+(
+) 5.00 × 10−6 F
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 4.06 µA
+ 
+P28.39 
+(a) 
+From I t( ) = −I0e−t RC , 
+ 
+ 
+ 
+I0 = Q
+RC =
+5.10 × 10−6 C
+1 300 Ω
+(
+) 2.00 × 10−9 F
+(
+)
+= 1.96 A
+I t( ) = −1.96 A
+(
+)exp
+−9.00 × 10−6 s
+1 300 Ω
+(
+) 2.00 × 10−9 F
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= −61.6 mA
+ 
+ 
+(b) 
+q t( ) = Qe−t RC = 5.10 µC
+(
+)exp
+−8.00 × 10−6 s
+1 300 Ω
+(
+) 2.00 × 10−9 F
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.235 µC
+ 
+ 
+(c) 
+The magnitude of the maximum current is I0 = 1.96 A . 
+P28.40 
+The potential difference across the capacitor is 
+ 
+ 
+ 
+ΔV t( ) = ΔVmax 1−e−t RC
+(
+)
+
+--- PAGE 32 ---
+Chapter 28     271 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Using 1 farad = 1 s/Ω,  
+ 
+ 
+ 
+4.00 V = 10.0 V
+(
+) 1−e
+−3.00 s
+(
+)
+R 10.0×10−6 s Ω
+(
+)
+⎡⎣
+⎤⎦
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+0.400 = 1.00 −e
+−3.00×105 Ω
+(
+) R 
+ 
+or 
+ 
+e
+−3.00×105 Ω
+(
+) R = 0.600. 
+ 
+Taking the natural logarithm of both sides,   
+ 
+ 
+ 
+ 
+−3.00 × 105 Ω
+R
+= ln 0.600
+(
+)
+ 
+ 
+and    
+R = −3.00 × 105 Ω
+ln 0.600
+(
+)
+= +5.87 × 105 Ω = 587 kΩ . 
+P28.41 
+(a) 
+Before the switch is closed, the two resistors are in series. The 
+time constant is 
+ 
+ 
+ 
+τ = R1 + R2
+(
+)C = 1.50 × 105 Ω
+(
+) 10.0 × 10−6 F
+(
+) = 1.50 s 
+ 
+(b) After the switch is closed, the capacitor discharges through 
+resistor R2. The time constant is 
+ 
+ 
+ 
+τ = 1.00 × 105 Ω
+(
+) 10.0 × 10−6 F
+(
+) = 1.00 s 
+ 
+(c) 
+Before the switch is closed, there is no current in the circuit 
+because the capacitor is fully charged, and the voltage across the 
+capacitor is ε. After the switch is closed, current flows clockwise 
+from the battery to resistor R1 and down through the switch, and 
+current from the capacitor flows counterclockwise and down 
+through the switch to resistor R2; the result is that the total current 
+through the switch is I1 + I2. 
+ 
+ 
+Going clockwise around the left loop, 
+ 
+ 
+ 
+ε −I1R1 = 0 →I1 = ε
+R1
+ 
+ 
+ 
+so the battery carries current     I1 =
+10.0 V
+50.0 × 103 Ω = 200 µA. 
+ 
+ 
+Going counterclockwise around the right loop, 
+ 
+ 
+ 
+q
+C −I2R2 = 0 →I2 =
+q
+R2C = ε
+R2
+e
+−t R2C
+(
+)
+
+--- PAGE 33 ---
+272     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so the 100-kΩ resistor carries current of magnitude  
+ 
+ 
+ 
+I2 = ε
+R2
+e−t RC =
+10.0 V
+100 × 103 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟e−t 1.00 s 
+ 
+ 
+and the switch carries downward current    
+ 
+ 
+ 
+I1 + I2 = 200 µA + 100 µA
+(
+)e−t 1.00 s 
+P28.42 
+(a) 
+Before the switch is closed, the two resistors are in series. The 
+time constant is 
+ 
+ 
+ 
+τ =
+R1 + R2
+(
+)C 
+ 
+(b) After the switch is closed, the capacitor discharges through 
+resistor R2. The time constant is 
+ 
+ 
+ 
+τ = R2C 
+ 
+(c) 
+Before the switch is closed, there is no current in the circuit 
+because the capacitor is fully charged, and the voltage across the 
+capacitor is ε. After the switch is closed, current flows clockwise 
+from the battery to resistor R1 and down through the switch, and 
+current from the capacitor flows counterclockwise and down 
+through the switch to resistor R2; the result is that the total current 
+through the switch is I1 + I2. Going clockwise around the left loop, 
+ 
+ 
+ 
+ε −I1R1 = 0 →I1 = ε
+R1
+ is the current in the battery. 
+ 
+ 
+Going counterclockwise around the right loop, 
+ 
+ 
+ 
+q
+C −I2R2 = 0 →I2 =
+q
+R2C = ε
+R2
+e
+−t R2C
+(
+)  
+ 
+ 
+is the magnitude of the current in R2. The total current through 
+the switch is 
+ 
+ 
+ 
+I1 + I2 = ε
+R1
++ ε
+R2
+e
+−t R2C
+(
+) = ε
+1
+R1
++ 1
+R2
+e
+−t R2C
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P28.43 
+(a) 
+Call the potential at the left junction VL and at 
+the right VR. After a “long” time, the capacitor 
+is fully charged.  
+ 
+ 
+ 
+IL = 10.0 V
+5.00 Ω = 2.00 A
+VL = 10.0 V −2.00 A
+(
+) 1.00 Ω
+(
+) = 8.00 V
+ ANS. FIG. P28.43(a)
+
+--- PAGE 34 ---
+Chapter 28     273 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+IR = 10.0 V
+10.0 Ω = 1.00 A 
+ 
+ 
+ 
+VR = 10.0 V
+(
+) −8.00 Ω
+(
+) 1.00 A
+(
+) = 2.00 V 
+ 
+ 
+Therefore,  ΔV = VL −VR = 8.00 −2.00 = 6.00 V 
+ 
+(b) We suppose the battery is pulled out 
+leaving an open circuit. We are left 
+with ANS. FIG. P28.43(b), which can be 
+reduced to the equivalent circuits 
+shown in ANS. FIG. P28.43(c) and 
+ANS. FIG. P28.43(d).  From ANS. FIG.  
+P28.43(d), we can see that the capacitor discharges through a  
+3.60-Ω equivalent resistance.  
+ 
+ 
+According to 
+q = Qe
+–t/RC, 
+ 
+ 
+we calculate that qC = QCe
+–t/RC 
+ 
+ 
+and ΔV = ΔVie−t/RC. 
+ 
+ 
+We proceed to solve for t: 
+ 
+ 
+ 
+ΔV
+ΔVi
+= e−t/RC   or    ΔVi
+ΔV = e+t/RC 
+ 
+ 
+Take natural logarithms of both sides: 
+ 
+ 
+ 
+ln ΔVi
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟= t/RC
+ 
+ 
+ 
+so 
+t = RCln ΔVi
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.60 Ω
+(
+) 1.00 × 10−6 F
+(
+)ln
+ΔVi
+0.100ΔVi
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.60 × 10−6 s
+(
+)ln10
+= 8.29 µs
+ 
+P28.44 
+We are to calculate 
+ 
+ 
+ 
+e−2t RC dt
+0
+∞
+∫
+= −RC
+2
+e−2t RC −2dt
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+∫
+= −RC
+2 e−2t RC
+0
+∞= −RC
+2
+e−∞−e0
+⎡⎣
+⎤⎦
+= −RC
+2
+0 −1
+[
+]= + RC
+2
+ 
+ANS. FIG. P28.43(b) 
+ANS. FIG. P28.43(c) 
+ANS. FIG. P28.43(d)
+
+--- PAGE 35 ---
+274     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.45 
+(a) 
+The charge remaining on the capacitor after time t is q = Qe−t τ . 
+ 
+ 
+Thus, if q = 0.750Q, then 
+ 
+ 
+ 
+0.750Q = Qe−t/τ
+e−t/τ = 0.750
+t = −τ ln 0.750
+(
+) = −1.50 s
+(
+)ln 0.750
+(
+) = 0.432 s
+ 
+ 
+(b) τ = RC, so    
+ 
+ 
+ 
+C = τ
+R =
+1.50 s
+250 × 103 Ω = 6.00 × 10−6 F = 6.00 µF 
+ 
+ 
+ 
+Section 28.5 
+Household Wiring and Electrical Safety 
+P28.46 
+(a) 
+P = IΔV: 
+So for the heater, I = P
+ΔV = 1 500 W
+120 V
+= 12.5 A . 
+ 
+ 
+For the toaster,    I = 750 W
+120 V = 6.25 A . 
+ 
+ 
+And for the grill, I = 1 000 W
+120 V
+= 8.33 A . 
+ 
+(b) The total current drawn is 12.5 A + 6.25 A + 8.33 A = 27.1 A. 
+ 
+ 
+The current draw is greater than 25.0 amps, so this circuit will
+trip the circuit breaker.
+ 
+*P28.47 
+From P = ΔV
+(
+)2/R, the resistance of the element is 
+ 
+ 
+ 
+R = ΔV
+(
+)2
+P
+= 240 V
+(
+)2
+3 000 W = 19.2 Ω
+ 
+ 
+When the element is connected to a 120-V source, we find that 
+ 
+(a) 
+I = ΔV
+R = 120 V
+19.2 Ω = 6.25 A 
+ 
+(b) 
+P = IΔV = 6.25 A
+(
+) 120 V
+(
+) = 750 W 
+P28.48 
+(a) 
+Suppose that the insulation between either of your fingers and the 
+conductor adjacent is a chunk of rubber with contact area 4 mm
+2 
+and thickness 1 mm. Its resistance is 
+ 
+ 
+ 
+R = ρ
+A ≈
+1013 Ω⋅m
+(
+) 10−3 m
+(
+)
+4 × 10−6 m2
+≈2 × 1015 Ω
+
+--- PAGE 36 ---
+Chapter 28     275 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The current will be driven by 120 V through total resistance 
+(series) 
+ 
+ 
+ 
+2 × 1015 Ω + 104 Ω + 2 × 1015 Ω ≈5 × 1015 Ω 
+ 
+ 
+It is: I = ΔV
+R ~
+120 V
+5 × 1015 Ω ~ 10−14 A 
+ 
+(b) The resistors form a voltage divider, with the center of your hand 
+at potential Vh
+2
+, where Vh is the potential of the “hot” wire. The 
+potential difference between your finger and thumb is  
+ 
+ 
+ 
+ΔV = IR ~ 10−14 A
+(
+) 104 Ω
+(
+) ~ 10−10 V 
+ 
+ 
+So the points where the rubber meets your fingers are at 
+potentials of 
+ 
+ 
+ 
+~ Vh
+2 + 10−10 V   and   ~ Vh
+2 −10−10 V 
+ 
+ 
+ 
+Additional Problems 
+P28.49 
+(a) 
+With the lightbulbs in series, the equivalent resistance is Req = 3R, 
+and the current is given by I = ε
+3R . Then, 
+ 
+ 
+ 
+Pseries = ε I = ε 2
+3R
+ 
+ 
+(b) With the lightbulbs in parallel, the equivalent resistance is  
+ 
+ 
+ 
+Req =
+1
+1 R
+(
+) + 1 R
+(
+) + 1 R
+(
+)
+= R
+3  
+ 
+ 
+the current is given by I = 3ε
+R . Then, 
+ 
+ 
+ 
+Pparallel = ε I =
+3ε 2
+R
+ 
+ 
+(c) 
+Nine times more power is converted in the parallel connection.
+
+--- PAGE 37 ---
+276     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.50 
+The resistive network between a an b reduces, in the stages shown in 
+ANS. FIG. P28.50, to an equivalent resistance of Req = 7.49 Ω . 
+ 
+ANS. FIG. P28.50 
+P28.51 
+The set of four batteries boosts the electric potential of each bit of 
+charge that goes through them by 4 × 1.50 V = 6.00 V. The chemical 
+energy they store is 
+ 
+ 
+ 
+ΔU = qΔV = 240 C
+(
+) 6.00 J/C
+(
+) = 1 440 J  
+ 
+The radio draws current     
+ 
+ 
+ 
+I = ΔV
+R = 6.00 V
+200 Ω = 0.030 0 A. 
+ 
+So, its power is  
+ 
+ 
+ 
+P = IΔV = 0.030 0 A
+(
+) 6.00 V
+(
+) = 0.180 J/s 
+ 
+Then for the time the energy lasts, we have P = E
+Δt :      
+ 
+ 
+ 
+Δt = E
+P =
+1 440 J
+0.180 J s = 8.00 × 103 s 
+ 
+We could also compute this from I = Q
+Δt :     
+ 
+ 
+ 
+Δt = Q
+I =
+240 C
+0.030 0 A = 8.00 × 103 s = 2.22 h 
+P28.52 
+The battery current is 
+ 
+ 
+ 
+150 + 45.0 + 14.0 + 4.00
+(
+) mA = 213 mA 
+ 
+ANS. FIG. P28.52 
+ 
+(a) 
+The resistor with highest resistance is that carrying 4.00 mA. 
+Doubling its resistance will reduce the current it carries to
+
+--- PAGE 38 ---
+Chapter 28     277 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+2.00 mA. Then the total current is (150 + 45 + 14 + 2) mA =  
+211 mA, nearly the same as before. The ratio is 211
+213 = 0.991 . 
+ 
+(b) The resistor with least resistance carries 150 mA. Doubling its 
+resistance changes this current to 75 mA and changes the total to 
+ 
+ 
+(75 + 45 + 14 + 4) mA = 138 mA. The ratio is 138
+213 = 0.648 . 
+ 
+(c) 
+The energy flows are precisely analogous to the currents 
+in parts (a) and (b). The ceiling has the smallest R value 
+of the thermal resistors in parallel, so increasing its thermal 
+resistance will produce the biggest reduction in the total 
+energy flow.
+ 
+P28.53 
+Several seconds is many time constants, so the capacitor is fully 
+charged and (d) the current in its branch is zero. 
+ 
+For the center loop, Kirchhoff’s loop rule gives 
+ 
+ 
+  
++8 + (3 Ω) I2 – (5 Ω)I1 = 0          
+ 
+or 
+ 
+I1 = 1.6 + 0.6I2 
+[1] 
+ 
+For the right-hand loop, Kirchhoff’s loop rule gives  
+ 
+ 
+ 
++4 V – (3 Ω) I2 – (5 Ω) I3 = 0     
+ 
+or 
+ 
+I3 = 0.8 – 0.6I2 
+[2] 
+ 
+For the top junction, Kirchhoff’s junction rule gives 
+ 
+ 
+ 
++ I1 + I2 – I3 = 0 
+[3] 
+ 
+Now we eliminate I1 and I3 by substituting [1] and [2] into [3]. 
+Suppressing units, 
+ 
+ 
+ 
+1.6 + 0.6I2 + I2 – 0.8 + 0.6I2 = 0  →  I2 = –0.8/2.2 = –0.3636 
+ 
+(b) 
+The current in 3 Ω is 0.364 A down. 
+ 
+(a) 
+Now, from [2], we find I3 = 0.8 – 0.6(– 0.364) = 1.02 A down in 4 V 
+and in 5 Ω. 
+ 
+(c) 
+From [1] we have I1 = 1.6 + 0.6(– 0.364) = 1.38 A up in the 8 V 
+battery. 
+ 
+(e) 
+For the left loop  +3 V – (Q/6 µF) + 8 V = 0,   so   Q = (6 µF) (11 V) 
+= 66.0 µC
+
+--- PAGE 39 ---
+278     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.54 
+The current in the battery is 
+15 V
+10 Ω +
+1
+1
+5 Ω + 1
+8 Ω
+= 1.15 A. 
+ 
+The voltage across 5 Ω is 15 V – (10 Ω) (1.15 A) = 3.53 V. 
+ 
+(a) 
+The current in it is 3.53 V/5 Ω = 0.706 A. 
+ 
+(b) P = (3.53 V) (0.706 A) = 2.49 W. 
+ 
+(c) 
+Only the circuit in Figure P28.54(c) requires the use of Kirchhoff’s
+rules for solution. In the other circuits the 5-Ω and 8-Ω resistors
+are still in parallel with each other.
+ 
+ 
+(d) 
+The power is lowest in Figure P28.54 c( ). The circuits in 
+Figures P28.54 b
+( ) and P28.54 d
+( ) have in effect 30-V 
+batteries driving the current. The power is lowest in 
+Figure P28.54(c) because the current in the 10-W resistor 
+is lowest because the battery voltage driving the current 
+is lowest.
+  
+P28.55 
+(a) 
+R = ΔV
+I
+=
+6.00 V
+3.00 × 10−3 A = 2.00 × 103 Ω = 2.00 kΩ 
+ 
+(b) The resistance in the circuit consists of a series combination with 
+an equivalent resistance of Req = 5.00 Ω. The emf of the battery is 
+then 
+ 
+ 
+ 
+ε = IReq = 3.00 × 10−3 A
+(
+) 5.00 × 103 Ω
+(
+) = 15.0 V 
+ 
+ANS. FIG. P28.55 
+ 
+(c) 
+ΔV3 = IR3 = 3.00 × 10−3 A
+(
+) 3.00 × 103 Ω
+(
+) = 9.00 V
+
+--- PAGE 40 ---
+Chapter 28     279 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.56 
+The equivalent resistance is Req = R + Rp, where Rp is the total resistance 
+of the three parallel branches; 
+ 
+ 
+ 
+Rp =
+1
+120 Ω +
+1
+40.0 Ω +
+1
+R + 5.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+=
+1
+30.0 Ω +
+1
+R + 5.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 30.0 Ω
+(
+) R + 5.00 Ω
+(
+)
+R + 35.0 Ω
+ 
+ 
+Thus,    
+ 
+ 
+ 
+75.0 Ω = R + 30.0 Ω
+(
+) R + 5.00 Ω
+(
+)
+R + 35.0 Ω
+= R2 + 65.0 Ω
+(
+)R + 150 Ω2
+R + 35.0 Ω
+ 
+ 
+which reduces to  
+ 
+ 
+ 
+R2 −10.0 Ω
+(
+)R −2 475 Ω2 = 0  
+ 
+or  
+ 
+R −55 Ω
+(
+) R + 45 Ω
+(
+) = 0 
+ 
+Only the positive solution is physically acceptable, so R = 55.0 Ω . 
+P28.57 
+(a) 
+Using Kirchhoff’s loop rule for the closed loop,  
+ 
+ 
+ 
++12.0 – 2.00I – 4.00I = 0 
+ 
+ 
+so  I = 2.00 A 
+ 
+ 
+Then, 
+ 
+ 
+ 
+Vb −Va = +4.00 V −2.00 A
+(
+) 4.00 Ω
+(
+) −0( ) 10.0 Ω
+(
+) = −4.00 V 
+ 
+ 
+Thus, ΔVab = 4.00 V 
+ 
+(b) 
+Vb −Va = −4.00 V  →  Va = Vb + 4.00 V ; thus, 
+a is at the higher potential . 
+P28.58 
+Find an expression for the power delivered to the load resistance R: 
+ 
+ 
+ 
+P = I 2R = 
+ε
+r + R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R     →      r + R
+(
+)
+2 = ε 2
+P R = aR
+ 
+ 
+where 
+a = ε 2
+P
+ 
+ 
+Carry out the squaring process: 
+ 
+ 
+ 
+r2 + 2rR + R2 = aR   
+ 
+ 
+ 
+R2 +  2r − a
+(
+)R + r2 = 0    
+R2 + bR + r2 = 0
+
+--- PAGE 41 ---
+280     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+where 
+b = 2r − a = 2r − ε 2
+P
+. 
+ 
+Solve the quadratic equation: 
+ 
+ 
+ 
+R = −b ±  b2 − 4r2
+2
+ 
+ 
+Evaluate b: 
+ 
+ 
+ 
+b = 2 1.20 Ω
+(
+) −  9.20 V
+(
+)
+2
+21.2 W  = −1.59 Ω 
+ 
+Substitute numerical values into the expression for R: 
+ 
+ 
+ 
+R = −−1.59 Ω
+(
+) ± 
+−1.59 Ω
+(
+)
+2 − 4 1.20 Ω
+(
+)
+2
+2
+ 
+= 1.59 Ω ±  −3.22 Ω2
+2
+ 
+ 
+There is no real solution to this expression for R. Therefore, no load 
+resistor can extract 21.2 W from this battery. 
+P28.59 
+The charging circuit is shown in the left-hand panel of ANS. FIG. P28.59. 
+Kirchhoff’s loop rule gives 
+ 
+ 
+ 
++14.7 V – 13.2 V – I (0.850 Ω ) = 0 
+ 
+ 
+so the charging current is 
+ 
+ 
+ 
+ 
+I  = 1.5 V/0.850 Ω = 1.76 A.  
+ 
+ 
+The charge passing through the battery as it charges is  
+ 
+ 
+ 
+q = IΔt = 1.76 A
+(
+) 1.80 h
+(
+) = 3.18 A⋅h = 11.4 kC 
+ 
+ 
+ 
+ANS. FIG. P28.59 
+ 
+ 
+We can think of this charge as indexing a certain number of 
+chemical reactions, producing a certain quantity of high-energy 
+molecules in the battery. When the battery returns to its original state 
+in discharging, we assume that the same number of reverse reactions 
+uses up all of the high-energy chemical. In our model, the same charge 
+passes through the battery in discharging, in the opposite direction.
+
+--- PAGE 42 ---
+Chapter 28     281 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The discharge current is then 
+ 
+ 
+ 
+I = q
+Δt = 3.18 A⋅h
+7.30 h
+= 0.435 A 
+ 
+ 
+In the discharge circuit , shown in the right-hand panel of ANS. FIG. 
+P28.59, the loop rule gives 
+ 
+ 
+ 
+13.2 V – (0.435 A)(0.850 Ω ) – (0.435 A)R = 0 
+ 
+ 
+so the load resistance R is 12.8 V/0.435 A = 29.5 Ω. Now we can get 
+around to thinking about energy. The energy output of the 14.7-V 
+power supply is  
+ 
+ 
+qΔV = 3.18 A⋅h
+(
+) 14.7 V
+(
+) = 46.7 W⋅h = 168 kJ 
+ 
+ 
+The energy delivered to the load during discharge is  
+ 
+ 
+qΔV = qIR = 3.18 A⋅h
+(
+) 0.435 A
+(
+) 29.5 Ω
+(
+) = 40.8 W⋅h = 147 kJ  
+ 
+The storage efficiency is 40.8 W⋅h
+46.7 W⋅h = 0.873 = 87.3% .  
+P28.60 
+(a) 
+The resistors combine to an equivalent resistance of Req = 15.0 Ω 
+as shown in ANS. FIGs P28.60(a-e). 
+ 
+ANS. FIG. P28.60(a) 
+ 
+ANS. FIG. P28.60(b) 
+ 
+ANS. FIG. P28.60(c)
+
+--- PAGE 43 ---
+282     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P28.60(d) 
+ 
+ANS. FIG. P28.60(e) 
+ 
+ 
+From ANS. FIG. P28.60(e),  
+ 
+ 
+ 
+I1 = ΔVab
+Req
+= 15.0 V
+15.0 Ω =1.00 A 
+ 
+ 
+Then, from ANS. FIG. P28.60(d), 
+ 
+ 
+ 
+ΔVac = ΔVdb = I1 6.00 Ω
+(
+) = 6.00 V  
+ 
+ 
+and ΔVcd = I1 3.00 Ω
+(
+) = 3.00 V 
+ 
+ 
+From ANS. FIG. P28.60(c), 
+ 
+ 
+ 
+I2 = I3 =
+ΔVcd
+6.00 Ω = 3.00 V
+6.00 Ω =0.500 A 
+ 
+ 
+From ANS. FIG. P28.60(b), 
+ 
+ 
+ 
+ 
+ΔVed = I3 3.60 Ω
+(
+) = 1.80 V 
+ 
+ 
+Then, from ANS. FIG. P28.60(a), 
+ 
+ 
+ 
+I4 =
+ΔVed
+6.00 Ω = 1.80 V
+6.00 Ω =0.300 A 
+ 
+ 
+and I5 =
+ΔVfd
+9.00 Ω =
+ΔVed
+9.00 Ω = 1.80 V
+9.00 Ω =0.200 A 
+ 
+ 
+From ANS. FIG. P28.60(b),  
+ 
+ 
+ 
+ΔVce = I3 2.40 Ω
+(
+) =1.20 V. 
+ 
+ 
+The collected results are: 
+ 
+(b) 
+ΔVac = ΔVdb = 6.00 V, ΔVce = 1.20 V, ΔVfd = ΔVed = 1.80 V, 
+ΔVcd = 3.00 V
+
+--- PAGE 44 ---
+Chapter 28     283 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+I1 = 1.00 A, I2 = 0.500 A, I3 = 0.500 A, I4 = 0.300 A, I5 = 0.200 A 
+ 
+(d) The power dissipated in each resistor is found from P = ΔV
+(
+)
+2 R 
+with the following results: 
+ 
+ 
+ 
+Pac = ΔV
+(
+)ac
+2
+Rac
+= 6.00 V
+(
+)
+2
+6.00 Ω
+= 6.00 W     
+ 
+ 
+ 
+Pce = ΔV
+(
+)ce
+2
+Rce
+= 1.20 V
+(
+)
+2
+2.40 Ω
+= 0.600 W 
+ 
+ 
+ 
+Ped = ΔV
+(
+)ed
+2
+Red
+= 1.80 V
+(
+)
+2
+6.00 Ω
+= 0.540 W    
+ 
+ 
+ 
+Pfd =
+ΔV
+(
+) fd
+2
+R fd
+= 1.80 V
+(
+)
+2
+9.00 Ω
+= 0.360 W 
+ 
+ 
+ 
+Pcd = ΔV
+(
+)cd
+2
+Rcd
+= 3.00 V
+(
+)
+2
+6.00 Ω
+= 1.50 W     
+ 
+ 
+ 
+Pdb = ΔV
+(
+)db
+2
+Rdb
+= 6.00 V
+(
+)
+2
+6.00 Ω
+= 6.00 W 
+P28.61 
+Let the two resistances be x and y. 
+ 
+ANS. FIG. P28.61 
+ 
+Then, 
+ 
+ 
+ 
+ 
+Rs = x + y = Ps
+I 2 =
+225 W
+5.00 A
+(
+)
+2 = 9.00 Ω →y = 9.00 Ω −x 
+ 
+and  
+Rp =
+xy
+x + y =
+Pp
+I 2 = 50.0 W
+5.00 A
+(
+)
+2 = 2.00 Ω 
+ 
+so 
+ 
+x 9.00 Ω −x
+(
+)
+x + 9.00 Ω −x
+(
+)
+= 2.00 Ω 
+ 
+ 
+ 
+ 
+x2 −9.00x + 18.0 = 0
+
+--- PAGE 45 ---
+284     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Factoring the second equation,  
+ 
+ 
+ 
+x −6.00
+(
+) x −3.00
+(
+) = 0 
+ 
+so 
+ 
+x = 6.00 Ω    or     x = 3.00 Ω 
+ 
+Then, y = 9.00 Ω – x gives  
+ 
+ 
+ 
+y = 3.00 Ω    or    y = 6.00 Ω 
+ 
+There is only one physical answer: The two resistances are 6.00 Ω 
+and 3.00 Ω . 
+P28.62 
+Refer to ANS. FIG. P28.61 above. Let the two resistances be x and y. 
+ 
+Then, Rs = x + y = Ps
+I 2    and    Rp =
+xy
+x + y =
+Pp
+I 2 . 
+ 
+From the first equation, y = Ps
+I 2 −x, and the second 
+ 
+becomes 
+x Ps I 2 −x
+(
+)
+x + Ps I 2 −x
+(
+)
+=
+Pp
+I 2 or x2 −
+Ps
+I 2
+⎛
+⎝⎜
+⎞
+⎠⎟x +
+PsPp
+I 4
+= 0. 
+ 
+Using the quadratic formula, x =
+Ps ±
+Ps
+2 −4PsPp
+2I 2
+. 
+ 
+Then, y = Ps
+I 2 −x gives y =
+Ps 
+Ps
+2 −4PsPp
+2I 2
+. 
+ 
+The two resistances are Ps +
+Ps
+2 −4PsPp
+2I 2
+ and Ps −
+Ps
+2 −4PsPp
+2I 2
+. 
+P28.63 
+(a) 
+The equivalent capacitance of this parallel combination is 
+ 
+ 
+ Ceq = C1 + C2 = 3.00 µF+2.00 µF=5.00 µF 
+ 
+ 
+When fully charged by a 12.0-V battery, the total stored charge 
+before the switch is closed is 
+ 
+ 
+ Q0 = Ceq ΔV
+(
+) = 5.00 µF
+(
+) 12.0 V
+(
+) = 60.0 µC 
+ 
+ 
+Once the switch is closed, the time constant of the resulting RC 
+circuit is 
+ 
+ 
+ τ = RCeq = 5.00 × 102 Ω
+(
+) 5.00 µF
+(
+) = 2.50 × 10−3 s = 2.50 ms 
+ 
+ 
+Thus, at t = 1.00 ms after closing the switch, the remaining total 
+stored charge is 
+ 
+ 
+ 
+q = Q0e−t τ = 60.0 µC
+(
+)e−1.00 ms 2.50 ms = 60.0 µC
+(
+)e−0.400 = 40.2 µC
+
+--- PAGE 46 ---
+Chapter 28     285 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The potential difference across the parallel combination of 
+capacitors is then 
+ 
+ 
+ 
+ΔV = q
+Ceq
+= 40.2 µC
+5.00 µF = 8.04 V 
+ 
+ 
+and the charge remaining on the 3.00 µF capacitor will be 
+ 
+ 
+ 
+q3 = C3 ΔV
+(
+) = 3.00 µF
+(
+) 8.04 V
+(
+) = 24.1 µC 
+ 
+(b) The charge remaining on the 2.00 µF at this time is 
+ 
+ 
+ 
+q2 = q −q3 = 40.2 µC −24.1 µC = 16.1 µC 
+ 
+ 
+or, alternately,      
+ 
+ 
+ 
+q2 = C2 ΔV
+(
+) = 2.00 µF
+(
+) 8.04 V
+(
+) = 16.1 µC 
+ 
+(c) 
+Since the resistor is in parallel with the capacitors, it has the same 
+potential difference across it as do the capacitors at all times. 
+Thus, Ohm’s law gives 
+ 
+ 
+ 
+I = ΔV
+R =
+8.04 V
+5.00 × 102 Ω = 1.61× 10−2 A = 16.1 mA 
+P28.64 
+(a) 
+Around the circuit, 
+ 
+ 
+ 
+ε −I
+R
+∑
+(
+)−ε1 +ε2
+(
+) = 0 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+40.0 V −4.00 A
+(
+) 2.00 + 0.300 + 0.300 + R
+(
+)Ω
+[
+]
+                                                         −6.00 + 6.00
+(
+) V = 0
+ 
+ 
+ 
+ so 
+R = 4.40 Ω 
+ 
+(b) Inside the supply, 
+ 
+ 
+ 
+P = I 2R = 4.00 A
+(
+)
+2 2.00 Ω
+(
+) = 32.0 W 
+ 
+(c) 
+Inside both batteries together,
+ 
+P = I 2R = 4.00 A
+(
+)
+2 0.600 Ω
+(
+) = 9.60 W 
+ 
+(d) For the limiting resistor, 
+ 
+ 
+ 
+ 
+P = 4.00 A
+(
+)
+2 4.40 Ω
+(
+) = 70.4 W 
+ 
+(e) 
+P = I ε1 + ε2
+(
+) = 4.00 A
+(
+) 6.00 + 6.00
+(
+) V
+[
+] = 48.0 W
+
+--- PAGE 47 ---
+286     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.65 
+The total resistance in the circuit is 
+ 
+ 
+ 
+R =
+1
+R1
++ 1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+=
+1
+2.00 kΩ +
+1
+3.00 kΩ
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 1.20 kΩ 
+ 
+and the total capacitance is  
+ 
+ 
+ 
+C = C1 + C2 = 2.00 µF + 3.00 µF = 5.00 µF 
+ 
+Thus, 
+Qmax = Cε = 5.0 µF
+(
+) 120 V
+(
+) = 600 µC 
+ 
+and   
+τ = RC = 1.2 × 103 Ω
+(
+) 5.0 × 10−6 F
+(
+) = 6.0 × 10−3 s = 6.0 s
+1 000 
+ 
+The total stored charge at any time t is then 
+ 
+ 
+  
+q = q1 + q2 = Qmax 1−e−t τ
+(
+)    
+ 
+or     
+q1 + q2 = 600 µC
+(
+) 1−e−1 000t 6.0 s
+(
+) 
+[1] 
+ 
+Since the capacitors are in parallel with each other, the same potential 
+difference exists across both at any time. 
+ 
+Therefore, 
+ 
+ 
+ 
+ΔV
+(
+)C = q1
+C1
+= q2
+C2
+→
+q2 =
+C2
+C1
+⎛
+⎝⎜
+⎞
+⎠⎟q1 = 1.5q1 
+[2] 
+ 
+(a) 
+Substituting equation [2] into [1] gives 
+ 
+ 
+ 
+2.5q1 = 600 µC
+(
+) 1−e−1 000t 6.0 s
+(
+)
+q1 =
+600 µC
+2.5
+⎛
+⎝⎜
+⎞
+⎠⎟1−e
+−t 6.0 s 1 000
+(
+)
+(
+)
+q1 = 240 µC 1−e−t 6 ms
+(
+)
+ 
+ 
+ 
+or   
+q = 240 1−e−t 6
+(
+) , where q is in microcoulombs and t is in 
+milliseconds. 
+ 
+(b) and from equation [2], 
+ 
+ 
+ 
+q2 = 1.5q1 = 1.5 240 µC 1−e−t 6 ms
+(
+)
+⎡⎣
+⎤⎦= 360 µC 1−e−t 6 ms
+(
+) 
+ 
+ 
+or,  q = 360 1−e−t 6
+(
+) , where q is in microcoulombs and t is in 
+milliseconds.
+
+--- PAGE 48 ---
+Chapter 28     287 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.66 
+(a) 
+In the diagram we could show the two 
+resistors connected top end to top end 
+and bottom end to bottom end with 
+wires; we represent this connection 
+instead by showing the bottom ends of 
+both resistors connected to ground. The 
+ground represents a conductor that is 
+always at zero volts, and also can carry 
+any current. Think of I, R1, and R2 as 
+known quantities. We represent the 
+current in R1 as the unknown I1. Then 
+the current in the second resistor must by I – I1. The total potential 
+difference clockwise around the little loop containing both resistors 
+must be zero: 
+ 
+ 
+ 
+ 
+–(I – I1)R2 + I1R1 + 0 
+ 
+ 
+ 
+We can already solve for I1 in terms of the total current: 
+ 
+ 
+ 
+ 
+−IR2 + I1R2 + I1R1 = 0     →     I1 = IR2 / R1 + R2
+(
+)
+  
+ 
+ 
+ 
+Then the current in the second resistor is  
+ 
+ 
+ 
+ 
+I2 = I – I1 = I – IR2 /(R1 + R2) = I(R1 + R2 – R2)/(R1 + R2) 
+ 
+ 
+ 
+ 
+I2 = IR1 / R1 + R2
+(
+)
+  
+ 
+ 
+(b) Continue to think of I, R1, and R2 as known quantities and I1 as an 
+unknown. The power being converted by both resistors together 
+is P = I1
+2R1 + (I – I1)
+2R2. Because the current is squared, the power 
+would be extra large if all of the current went through either one 
+of the resistors with zero current in the other. The minimum 
+power condition must be with a more equitable division of 
+current, and we find it by taking the derivative of P with respect 
+to I1 and setting the derivative equal to zero:  
+ 
+ 
+ 
+ 
+dP/dI1 = 2 I1R1 + 2(I – I1)(0 – 1)R2 = 0 
+ 
+ 
+ 
+Again we can solve directly for the real value of I1 in 
+ 
+ 
+ 
+ 
+ I1R1 – IR2 + I1R2 = 0 
+as 
+I1 = IR2/(R1 + R2)  
+ 
+ 
+ 
+So then again 
+  
+ 
+ 
+ 
+ I2 = I – I1 = IR1/(R1 + R2)  
+ 
+ 
+ 
+This power-minimizing division of current is the same as the 
+voltage-equalizing division of current that we found in part (a), so 
+the proof is complete. 
+ 
+ 
+ANS. FIG. P28.66
+
+--- PAGE 49 ---
+288     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.67 
+(a) 
+The charge on the capacitor at this instant is  
+ 
+ 
+ 
+q = CΔV 1−e−t RC
+(
+) 
+ 
+ 
+ 
+q = 1.00 × 10−6 F
+(
+) 10.0 V
+(
+) 1−e
+−10.0 s
+2.00×106  Ω
+(
+) 1.00×10−6  F
+(
+)
+⎡⎣
+⎤⎦
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 9.93 µC
+ 
+ 
+(b) The current in the resistor is given by  
+ 
+ 
+ 
+I = dq
+dt =
+ΔV
+R
+⎛
+⎝⎜
+⎞
+⎠⎟e−t RC 
+ 
+ 
+ 
+I =
+10.0 V
+2.00 × 106 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟e−5.00 = 3.37 × 10−8 A = 33.7 nA 
+ 
+(c) 
+Since the energy stored in the capacitor is U = q
+2/2C, the rate of 
+storing energy is  
+ 
+ 
+ 
+dU
+dt = d
+dt
+1
+2
+q2
+C
+⎛
+⎝⎜
+⎞
+⎠⎟=
+q
+C
+⎛
+⎝⎜
+⎞
+⎠⎟
+dq
+dt =
+q
+C
+⎛
+⎝⎜
+⎞
+⎠⎟I 
+ 
+ 
+ 
+dU
+dt =
+9.93 × 10−6 C
+1.00 × 10−6 C V
+⎛
+⎝⎜
+⎞
+⎠⎟3.37 × 10−8 A
+(
+)
+= 3.34 × 10−7 W = 334 nW
+ 
+ 
+(d) 
+Pbattery = Iε = 3.37 × 10−8 A
+(
+) 10.0 V
+(
+) = 3.37 × 10−7 W = 337 nW 
+ 
+ 
+The battery power could also be computed as the sum of the 
+instantaneous powers delivered to the resistor and to the 
+capacitor: 
+ 
+ 
+ 
+I 2R + dU
+dt = 33.7 × 10−9 A
+(
+) 2.00 × 106 Ω
+(
+)+ 334 nW = 337 nW
+  
+P28.68 
+The battery supplies energy at a changing rate  
+ 
+ 
+ 
+dE
+dt = P = εI = ε ε
+R e−t RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Then the total energy put out by the battery is 
+ 
+dE
+∫
+=
+ε 2
+R exp −t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟d
+t=0
+∞
+∫
+ 
+ 
+ 
+ 
+dE
+∫
+= ε 2
+R −RC
+(
+) exp −t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟−dt
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+∫
+= −ε 2Cexp −t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+= −ε 2C 0 −1
+[
+]= ε 2C
+
+--- PAGE 50 ---
+Chapter 28     289 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The power delivered to the resistor is  
+ 
+ 
+  
+dE
+dt = P = ΔVRI = I 2R = Rε 2
+R2 exp −2t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+So the total internal energy appearing in the resistor is   
+dE
+∫
+= ε 2
+R exp −2t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟dt
+0
+∞
+∫
+ 
+ 
+ 
+ 
+dE
+∫
+= ε 2
+R
+−RC
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+exp −2t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟−2dt
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+∫
+= −ε 2C
+2 exp −2t
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+= −ε 2C
+2
+0 −1
+[
+]= ε 2C
+2
+ 
+ 
+The energy finally stored in the capacitor is U = 1
+2 C ΔV
+(
+)
+2 = 1
+2 Cε 2. 
+Thus, energy of the circuit is conserved, ε 2C = 1
+2ε 2C + 1
+2ε 2C, and 
+resistor and capacitor share equally in the energy from the battery. 
+P28.69 
+(a) 
+We find the resistance intrinsic to the vacuum cleaner: 
+ 
+ 
+ 
+P = IΔV = ΔV
+(
+)
+2
+R
+R = ΔV
+(
+)
+2
+P
+= 120 V
+(
+)
+2
+535 W = 26.9 Ω
+ 
+ 
+ 
+with the inexpensive cord, the equivalent resistance is 
+ 
+ 
+ 
+RTot = R + 2r
+= 26.9 Ω + 2 0.9 Ω
+(
+) = 28.7 Ω 
+ 
+ 
+so the current throughout the circuit is 
+ 
+ 
+ 
+I = ΔV
+RTot
+= 120 V
+28.7 Ω = 4.18 A 
+ 
+ 
+and the cleaner power is 
+ 
+ 
+ 
+Pcleaner = I ΔV
+(
+)cleaner = I 2R = 4.18 A
+(
+)
+2 26.9 Ω
+(
+) = 470 W 
+ 
+ 
+In symbols,  
+ 
+ 
+ 
+Rtot = R + 2r , I =
+ΔV
+R + 2r and Pcleaner = I 2R =
+ΔV
+(
+)
+2 R
+R + 2r
+(
+)
+2
+
+--- PAGE 51 ---
+290     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P28.69 
+ 
+(b) Using Pcleaner = I 2R =
+ΔV
+(
+)
+2 R
+R + 2r
+(
+)
+2 , we find that 
+ 
+ 
+ 
+R + 2r =
+ΔV
+(
+)
+2 R
+Pcleaner
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2 
+ 
+ 
+solving for r gives 
+ 
+ 
+ 
+r = ΔV
+2
+R
+Pcleaner
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+−R
+2 = 120 V
+2
+26.9 Ω
+525 W
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+−26.9 Ω
+2
+= 0.128 Ω = ρ
+A = ρ4
+π d2
+ 
+ 
+ 
+then, 
+ 
+ 
+ 
+d =
+4ρ
+π r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+4 1.7 × 10−8 Ω⋅m
+(
+) 15 m
+(
+)
+π 0.128 Ω
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 1.60 mm or more
+ 
+ 
+(c) 
+To move from 525 W to 532 W will require a lot more copper: 
+ 
+ 
+ 
+r = ΔV
+2
+R
+Pcleaner
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+−R
+2 = 120 V
+2
+26.9 Ω
+532 W
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+−26.9 Ω
+2
+= 0.037 9 Ω
+d =
+4ρ
+π r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+4 1.7 × 10−8 Ω⋅m
+(
+) 15 m
+(
+)
+π 0.037 9 Ω
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 2.93 mm or more
+
+--- PAGE 52 ---
+Chapter 28     291 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.70 
+(a) 
+When the capacitor is fully charged, no current exists in its 
+branch. The current in the left resistors is IL = 5.00 V/83.0Ω. The 
+current in the right resistors is IR = 5.00 V/(2.00 Ω + R). 
+ 
+ 
+Relative to the positive side of the battery, the left capacitor plate 
+is at voltage 
+ 
+ 
+ 
+VL = 5.00 V −3.00 Ω
+(
+) 5.00 V
+83.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.00 V
+(
+) 1−3.00
+83.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+ 
+and the right plate is at voltage 
+ 
+ 
+ 
+VR = 5.00 V −2.00 Ω
+(
+) 5.00 V
+(
+)
+2.00 Ω + R
+= 5.00 V
+(
+) 1−
+2.00
+2.00 + R
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+where R is in ohms.  The voltage across the capacitor is 
+ 
+ 
+ 
+ΔV = VL −VR = 5.00 V
+(
+) 1−3.00
+83.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                       −5.00 V
+(
+) 1−
+2.00
+2.00 + R
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔV = 5.00 V
+(
+)
+2.00
+2.00 + R −3.00
+83.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+The charge on the capacitor is 
+ 
+ 
+ 
+q = CΔV = 3.00 µC
+(
+) 5.00 V
+(
+)
+2.00
+2.00 + R −3.00
+83.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+q = 15.0 µC
+(
+)
+2.00
+2.00 + R −3.00
+83.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+q =
+30.0
+2.00 + R −0.542, where q is in microcoulombs 
+                                   and R is in ohms.
+ 
+ 
+(b) With R = 10.0 Ω,  
+ 
+ 
+ 
+q =
+30.0
+2.00 + R −0.542 =
+30.0
+2.00 + 10.0 −0.542 = 1.96 µC
+ 
+ 
+(c) 
+Yes. Setting q = 0, and solving for R, 
+ 
+ 
+ 
+q = 15.0 µC
+(
+)
+2.00
+2.00 + R −3.00
+83.0
+⎡
+⎣⎢
+⎤
+⎦⎥= 0
+  
+ 
+ 
+ 
+R = 2.00 83.0
+(
+)
+3.00
+−2.00 = 53.3 Ω
+
+--- PAGE 53 ---
+292     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) By inspection, the maximum charge occurs for R = 0. It is 
+ 
+ 
+ 
+q = 15.0 µC
+(
+)
+2.00
+2.00 + 0 −3.00
+83.0
+⎡
+⎣⎢
+⎤
+⎦⎥= 14.5 µC 
+ 
+(e) 
+Yes. Taking R = ∞ corresponds to disconnecting the wire to 
+remove the branch containing R: 
+ 
+ 
+ 
+q = 15.0 µC
+(
+)
+2.00
+2.00 + ∞−3.00
+83.0 = 15.0 µC
+(
+) 3.00
+83.0 = 0.542 µC 
+P28.71 
+(a) 
+With the switch closed, current exists in a simple series circuit as 
+shown. The capacitors carry no current. For R2 we have 
+ 
+ 
+ 
+P = I 2R2  and  I =
+P
+R2
+=
+2.40 V ⋅A
+7 000 V A = 18.5 mA 
+ 
+ANS. FIG. P28.71(a) 
+ 
+ 
+The potential difference across R1 and C1 is 
+ 
+ 
+ 
+ΔV = IR1 = 1.85 × 10−2 A
+(
+) 4 000 V A
+(
+) = 74.1 V 
+ 
+ 
+The charge on C1 is 
+ 
+ 
+ 
+Q = C1ΔV = 3.00 × 10−6 C V
+(
+) 74.1 V
+(
+) = 222 µC 
+ 
+ 
+The potential difference across R2 and C2 is 
+ 
+ 
+ 
+ΔV = IR2 = 1.85 × 10−2 A
+(
+) 7 000 Ω
+(
+) = 130 V 
+ 
+ 
+The charge on C2 
+ 
+ 
+ 
+Q = C2ΔV = 6.00 × 10−6 C V
+(
+) 130 V
+(
+) = 778 µC 
+ 
+ 
+The battery emf is 
+ 
+ 
+ 
+IReq = I R1 + R2
+(
+) = 1.85 × 10−2 A
+(
+) 4 000 Ω + 7 000 Ω
+(
+) = 204 V 
+ 
+(b) In equilibrium after the switch has been opened, no current exists. 
+The potential difference across each resistor is zero. The full 204 V 
+appears across both capacitors. The new charge on C2 is 
+ 
+ 
+ 
+Q = C2ΔV = 6.00 × 10−6 C V
+(
+) 204 V
+(
+) = 1 222 µC
+
+--- PAGE 54 ---
+Chapter 28     293 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+for a change of 1 222 µC −778 µC =
+444 µC . 
+ 
+ANS. FIG. P28.71(b) 
+P28.72 
+(a) 
+First determine the resistance of each light bulb. From P = ΔV
+(
+)
+2
+R
+, 
+we have 
+ 
+ 
+ 
+R = ΔV
+(
+)
+2
+P
+= 120 V
+(
+)
+2
+60.0 W = 240 Ω 
+ 
+ 
+We obtain the equivalent resistance Req of the network of light 
+bulbs by identifying series and parallel equivalent resistances: 
+ 
+ 
+ 
+Req = R1 +
+1
+1 R2
+(
+) + 1 R3
+(
+)
+= 240 Ω + 120 Ω = 360 Ω 
+ 
+ 
+The total power dissipated in the 360 Ω is     
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+Req
+= 120 V
+(
+)
+2
+360 Ω
+= 40.0 W 
+ 
+(b) The current through the network is given by ΔV = IReq:  
+ 
+ 
+ 
+I = 120 V
+360 Ω = 1
+3 A 
+ 
+ 
+The potential difference across R1 is     
+ 
+ 
+ 
+ΔV1 = IR1 =
+1
+3 A
+⎛
+⎝⎜
+⎞
+⎠⎟240 Ω
+(
+) = 80.0 V
+  
+ 
+ 
+The potential difference ΔV23 across the parallel combination of 
+R2 and R3 is 
+ 
+ 
+ 
+ΔV23 = IR23 =
+1
+3 A
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+1 240 Ω
+(
+) + 1 240 Ω
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= 40.0 V 
+P28.73 
+(a) 
+First let us flatten the circuit on a 2-D plane as shown in ANS. 
+FIG. P28.73; then reorganize it to a format easier to read. Notice 
+that the two resistors shown in the top horizontal branch carry 
+the same current as the resistors in the horizontal branch second 
+from the top. The center junctions in these two branches are at the 
+same potential. The vertical resistor between these two junctions
+
+--- PAGE 55 ---
+294     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+has no potential difference across it and carries no current. This 
+middle resistor can be removed without affecting the circuit. The 
+remaining resistors over the three parallel branches have 
+equivalent resistance 
+ 
+ 
+ 
+Req =
+1
+20 + 1
+20 + 1
+10
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 5.00 Ω 
+ 
+ANS. FIG. P28.73 
+ 
+(b) So the current through the battery is 
+ 
+ 
+ 
+ΔV
+Req
+= 12.0 V
+5.00 Ω = 2.40 A 
+P28.74 
+(a) 
+The emf of the battery is 9.30 V . 
+ 
+(b) Its internal resistance is given by  
+ 
+ 
+ 
+ΔV = 9.30 V −3.70 A
+(
+)r = 0     →     r = 2.51 Ω  
+ 
+(c) 
+The batteries are in series: Total emf = 2(9.30 V) = 18.6 V. 
+ 
+(d) The batteries are in series, so their total internal resistance is  
+2r = 5.03 Ω. The maximum current is given by 
+ 
+ 
+ 
+I = ΔV
+R = 18.6 V
+5.03 Ω = 3.70 A
+  
+ 
+(e) 
+For the circuit the total series resistance is  
+ 
+ 
+ 
+Req = 2r + 12.0 Ω = 17.0 Ω
+
+--- PAGE 56 ---
+Chapter 28     295 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and 
+ 
+ 
+ 
+I = ΔV
+R = 18.6 V
+17.0 Ω = 1.09 A
+ 
+ 
+(f) 
+P = I 2R = 1.09 A
+(
+)
+2 12.0 Ω
+(
+) = 14.3 W  
+ 
+(g) The two 12.0-Ω resistors in parallel are equivalent to one 6.00-Ω, 
+Resistor, and this is in series with the internal resistances of the 
+batteries: Req = 6.00 Ω + 2r = 11.0 Ω. Therefore, the current in the 
+batteries is 
+ 
+ 
+ 
+I = ΔV
+R = 18.6 V
+11.0 Ω = 1.69 A
+ 
+ 
+ 
+and the terminal voltage across both batteries is 
+ 
+ 
+ 
+ΔV = ε −I 2r
+(
+) = 18.6 V −1.69 A
+(
+) 5.03 Ω
+(
+) = 10.1 V  
+ 
+ 
+The power delivered to each resistor is  
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+R
+= 10.1 V
+(
+)
+2
+12.0 Ω = 8.54 W
+ 
+ 
+(h) 
+Because of the internal resistance of the batteries, the terminal
+voltage of the pair of batteries is not the same in both cases.
+ 
+P28.75 
+(a) 
+After steady-state conditions have been reached, there is no DC 
+current through the capacitor. 
+ 
+ 
+Thus, for R3  :   IR3 = 0 steady-state
+(
+) 
+ 
+ 
+For the other two resistors, the steady-state current is simply 
+determined by the 9.00-V emf across the 12-kΩ and 15-kΩ 
+resistors in series: 
+ 
+ 
+For R1 and R2:     
+ 
+ 
+ 
+I R1+R2
+(
+) =
+ε
+R1 + R2
+=
+9.00 V
+12.0 kΩ + 15.0 kΩ
+(
+)
+= 333 µA steady-state
+(
+)
+ 
+  
+(b) After the transient currents have ceased, the potential difference 
+across C is the same as the potential difference across R2(= IR2) 
+because there is no voltage drop across R3. Therefore, the charge 
+Q on C is 
+ 
+ 
+ 
+Q = C ΔV
+(
+)R2 = C IR2
+(
+) = 10.0 µF
+(
+) 333 µA
+(
+) 15.0 kΩ
+(
+)
+= 50.0 µC
+
+--- PAGE 57 ---
+296     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P28.75(b) 
+  
+(c) 
+When the switch is opened, the branch containing R1 is no longer 
+part of the circuit. The capacitor discharges through (R2 + R3) with 
+a time constant of  
+ 
+ 
+ 
+(R2 + R3)C = (15.0 kΩ + 3.00 kΩ)(10.0 µF) = 0.180 s 
+ 
+ 
+The initial current Ii in this discharge circuit is determined by the 
+initial potential difference across the capacitor applied to (R2 + R3) 
+in series: 
+ 
+ 
+ 
+Ii =
+ΔV
+(
+)C
+R2 + R3
+(
+)
+=
+IR2
+R2 + R3
+(
+)
+=
+333 µA
+(
+) 15.0 kΩ
+(
+)
+15.0 kΩ + 3.00 kΩ
+(
+)
+= 278 µA 
+ 
+ANS. FIG. P28.75(c) 
+ 
+ 
+Thus, when the switch is opened, the current through R2 changes 
+instantaneously from 333 µA (downward) to 278 µA (downward) 
+as shown in the graph. Thereafter, it decays according to 
+ 
+ 
+ 
+IR2 = Iie
+−t R2 +R3
+(
+)C =
+278 µA
+(
+)e−t 0.180 s
+(
+) for t > 0
+(
+) 
+ 
+(d) The charge q on the capacitor decays from Qi to Qi
+5
+ according to 
+ 
+ 
+ 
+q = Qie
+−t R2 +R3
+(
+)C
+Qi
+5 = Qie
+−t 0.180 s
+(
+)
+5 = et 0.180 s
+ln5 =
+t
+180 ms
+t = 0.180 s
+(
+) ln5
+(
+) = 290 ms
+
+--- PAGE 58 ---
+Chapter 28     297 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.76 
+From the hint, the equivalent resistance of   
+ 
+ 
+That is, 
+RT +
+1
+1 RL + 1 Req
+= Req 
+ 
+ 
+ 
+RT +
+RLReq
+RL + Req
+= Req
+RTRL + RTReq + RLReq = RLReq + Req
+2
+Req
+2 −RTReq −RTRL = 0
+Req =
+RT ±
+RT
+2 −4 1( ) −RTRL
+(
+)
+2 1( )
+ 
+ 
+Only the + sign is physical: 
+ 
+ 
+ 
+Req = 1
+2
+4RTRL + RT
+2 + RT
+(
+) 
+ 
+For example, if   RT = 1 Ω and RL = 20 Ω, then Req = 5 Ω. 
+P28.77 
+(a) 
+For the first measurement, the equivalent circuit is as shown in 
+the top panel of ANS. FIG. P28.77. 
+ 
+ 
+ 
+Rab = R1 = Ry + Ry = 2Ry 
+ 
+ 
+so 
+Ry = 1
+2 R1. 
+[1] 
+ 
+ 
+For the second measurement, the  
+equivalent circuit is shown in the  
+bottom panel of ANS. FIG. P28.77. 
+Thus, 
+ 
+ 
+ 
+ 
+Rac = R2 = 1
+2 Ry + Rx 
+[2] 
+ 
+ 
+Substitute [1] into [2] to obtain: 
+ 
+ 
+ 
+R2 = 1
+2
+1
+2 R1
+⎛
+⎝⎜
+⎞
+⎠⎟+Rx ,   or   Rx = R2 −1
+4 R1 
+ 
+(b) If R1 = 13.0 Ω and R2 = 6.00 Ω, then Rx = 2.75 Ω . 
+ 
+ 
+The antenna is inadequately grounded since this exceeds the 
+limit of 2.00 Ω. 
+ANS. FIG. P28.77
+
+--- PAGE 59 ---
+298     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.78 
+ΔV = ε e−t RC  so   ln
+ε
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+RC
+⎛
+⎝⎜
+⎞
+⎠⎟t. 
+ 
+A plot of ln
+ε
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟ versus t should be a straight line with slope equal to 
+1
+RC
+, as shown in ANS. FIG. P28.78. 
+ 
+ANS. FIG. P28.78 
+ 
+Using the given data values: 
+ 
+(a) 
+A least-square fit to this data yields the graph shown in ANS. 
+FIG. P28.78. 
+ 
+ 
+ 
+xi
+∑
+= 282, 
+xi
+2
+∑
+= 1.86 × 104, 
+ 
+ 
+ 
+xiyi
+∑
+= 244, 
+yi
+∑
+= 4.03 , N = 8 
+ 
+ 
+ 
+Slope = N
+xiyi
+∑
+(
+) −
+xi
+∑
+(
+)
+yi
+∑
+(
+)
+N
+xi
+2
+∑
+(
+) −
+xi
+∑
+(
+)
+2
+= 0.011 8 
+ 
+t (s) 
+∆V (V) 
+ln(ε/∆V) 
+0 
+6.19 
+0 
+4.87 
+5.55 
+0.109 
+11.1 
+4.93 
+0.228 
+19.4 
+4.34 
+0.355 
+30.8 
+3.72 
+0.509 
+46.6 
+3.09 
+0.695 
+67.3 
+2.47 
+0.919 
+102.2 
+1.83 
+1.219
+
+--- PAGE 60 ---
+Chapter 28     299 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Intercept =
+xi
+2
+∑
+(
+)
+yi
+∑
+(
+) −
+xi
+∑
+(
+)
+xiyi
+∑
+(
+)
+N
+xi
+2
+∑
+(
+) −
+xi
+∑
+(
+)
+2
+= 0.088 2 
+ 
+ 
+The equation of the best fit line is: ln
+ε
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.011 8
+(
+)t + 0.088 2 
+ 
+(b) Thus, the time constant is 
+ 
+ 
+ 
+τ = RC =
+1
+slope =
+1
+0.011 8 = 84.7 s 
+ 
+ 
+and the capacitance is   
+ 
+ 
+ 
+C = τ
+R =
+84.7 s
+10.0 × 106 Ω = 8.47 µF
+ 
+P28.79 
+A certain quantity of energy ΔEint = PΔt is required to raise the 
+temperature of the water to 100°C in time interval Δt. For the power 
+delivered to the heaters we have P = IΔV = (ΔV)2
+R
+ where  ΔV is a 
+constant. Thus, comparing coils 1 and 2, we have for the energy 
+ΔEint = (ΔV)2Δt
+R1
+= (ΔV)22Δt
+R2
+. Therefore, R2 = 2R1. 
+ 
+(a) 
+When connected in parallel, the coils present equivalent 
+resistance 
+ 
+ 
+ 
+1
+Rp
+= 1
+R1
++ 1
+R2
+= 1
+R1
++
+1
+2R1
+=
+3
+2R1
+→
+Rp = 2
+3 R1. 
+ 
+ 
+Now,     
+ 
+ 
+ 
+ΔEint = (ΔV)2Δt
+R1
+=
+(ΔV)2Δtp
+2
+3 R1
+→
+Δtp = 2
+3 Δt 
+ 
+(b) For the series connection, Rs = R1 + R2 = R1 + 2R1 = 3R1 and 
+ 
+ 
+ 
+ΔEint = (ΔV)2Δt
+R1
+= (ΔV)2Δts
+3R1
+→
+Δts = 3Δt 
+P28.80 
+When connected in series, the equivalent resistance is 
+Req = R1 + R2 ++ Rn = nR . Thus, the current is Is = (ΔV) Req , and the 
+power consumed by the series configuration is 
+ 
+ 
+ 
+Ps = IsΔV = (ΔV)2
+Req
+= (ΔV)2
+nR
+
+--- PAGE 61 ---
+300     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the parallel connection, the power consumed by each individual 
+resistor is P1 = (ΔV)2
+R
+, and the total power consumption is 
+ 
+ 
+ 
+Pp = nP1 = n(ΔV)2
+R
+ 
+ 
+Therefore, Ps
+Pp
+= ΔV
+(
+)
+2
+nR
+⋅
+R
+n ΔV
+(
+)
+2 = 1
+n2   or   Ps = 1
+n2 Pp 
+P28.81 
+We model the person’s body and street shoes as shown in ANS. FIG. 
+P28.81. For the discharge to reach 100 V, 
+ 
+ 
+ 
+q t( ) = Qe−t RC = CΔV t( ) = CΔV0e−t RC 
+ 
+ 
+ 
+ΔV
+ΔV0
+= e−t RC
+→
+ΔV0
+ΔV = e+t RC 
+ 
+ 
+ 
+→
+t
+RC = ln ΔV0
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ANS. FIG. P28.81 
+ 
+The equivalent capacitance for parallel capacitors is  
+ 
+ 
+ 
+150 pF + 80.0 pF = 230 pF. 
+ 
+(a) 
+For R = 5.00 MΩ, a change from 3 000 V to 100 V requires that 
+ 
+ 
+ 
+t = RCln ΔV0
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟= 5 000 × 106 Ω
+(
+) 230 × 10−12 F
+(
+)ln 3 000 V
+100 V
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.91 s
+ 
+ 
+(b) For R = 1.00 MΩ, the same change requires that 
+ 
+ 
+ 
+t = RCln ΔV0
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.00 × 106 Ω
+(
+) 230 × 10−12 F
+(
+)ln 3 000 V
+100 V
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.82 × 10−4 s = 782 µs
+
+--- PAGE 62 ---
+Chapter 28     301 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P28.82 
+Start at the point when the 
+voltage has just reached 2
+3 ΔV 
+and the switch has just closed. 
+The voltage is 2
+3 ΔV and is 
+decaying towards 0 V with a 
+time constant R2C. 
+ 
+ 
+ΔVC t( ) = 2
+3 ΔV
+⎡
+⎣⎢
+⎤
+⎦⎥e−t R2C 
+ 
+We want to know when ΔVC(t) 
+will reach 1
+3 ΔV. 
+ 
+Therefore, 1
+3 ΔV = 2
+3 ΔV
+⎡
+⎣⎢
+⎤
+⎦⎥e−t R2C 
+ 
+ 
+ 
+e−t R2C = 1
+2 
+ 
+ 
+ 
+t1 = R2Cln2 
+ 
+After the switch opens, the voltage is 1
+3 ΔV, increasing toward ΔV 
+with time constant (R1 + R2)C: 
+ 
+ 
+ 
+ΔVC t( ) = ΔV −2
+3 ΔV
+⎡
+⎣⎢
+⎤
+⎦⎥e
+−t R1 +R2
+(
+)C 
+ 
+When  
+ΔVC t( ) = 2
+3 ΔV, 
+ 
+ 
+ 
+2
+3 ΔV = ΔV −2
+3 ΔVe
+−t R1 +R2
+(
+)C   or   e
+−t R1+R2
+(
+)C = 1
+2 
+ 
+so 
+ 
+t2 = R1 + R2
+(
+)Cln2  and  T = t1 + t2 =
+R1 + 2R2
+(
+)Cln2 
+P28.83 
+Assume a set of currents as shown in the circuit diagram in ANS. FIG. 
+P28.83. Applying Kirchhoff’s loop rule to the leftmost loop and 
+suppressing units gives 
+ 
+ 
+ 
++75.0 −5.00
+(
+)I −30.0
+(
+) I −I1
+(
+) = 0
+75.0 −35.0I + 30.0I1 = 0
+ 
+ 
+or      
+7 I – 6 I1 = 15 
+[1] 
+ 
+ANS. FIG. P28.82
+
+--- PAGE 63 ---
+302     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P28.83 
+ 
+For the rightmost loop, the loop rule gives, suppressing units, 
+ 
+ 
+ 
+−40.0 + R
+(
+)I1 + 30.0
+(
+) I −I1
+(
+) = 0
+−70.0 + R
+(
+)I1 + 30.0I = 0
+ 
+ 
+or      
+I =
+7
+3 + R
+30
+⎛
+⎝⎜
+⎞
+⎠⎟I1 
+[2] 
+ 
+Substituting equation [2] into [1] and simplifying gives 
+ 
+ 
+ 
+(310 + 7 R) I1 = 450 
+[3] 
+ 
+Also, it is known that PR = I1
+2R = 20.0 W , 
+ 
+so       
+R = 20.0 W
+I1
+2
+ 
+[4] 
+ 
+Substituting equation [4] into [3] yields 
+ 
+ 
+ 
+310I1 + 140
+I1
+= 450 
+ 
+or 
+ 
+310I1
+2 −450I1 + 140 = 0 
+ 
+Using the quadratic formula, 
+ 
+ 
+ 
+   I1 = −−450
+(
+) ±
+−450
+(
+)
+2 −4 310
+(
+) 140
+(
+)
+2 310
+(
+)
+= 450 ± 170
+620
+ 
+ 
+yielding I1 = 1.00 A and I1 = 0.452 A. Then, from R = 20.0 W
+I1
+2
+, we find 
+two possible values for the resistance R. These are:   
+ 
+ 
+ 
+ R = 20.0 Ω   or   R = 98.1 Ω
+
+--- PAGE 64 ---
+Chapter 28     303 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P28.2 
+(a) 4.59 Ω; (b) 8.16% 
+P28.4 
+(a) 50%; (b) 0; (c) High efficiency; (d) High power transfer 
+P28.6 
+(a) The 120-V potential difference is applied across the series 
+combination of the two conductors in the extension cord and the 
+lightbulb. The potential difference across the lightbulb is less than 120 
+V, and its power is less than 75 W; (b) See ANS. FIG. P28.6; (c) 73.8 W 
+P28.8 
+(a) IA = ε/R, IB = IC = ε/2R; (b) B and C have the same brightness 
+because they carry the same current; (c) A is brighter than B or C 
+because it carries twice as much current. 
+P28.10 
+(a) Connect two 50-Ω resistors in parallel to get 25 Ω. Then connect that 
+parallel combination in series with a 20 Ω for a total resistance of 45 Ω; 
+(b) Connect two 50-Ω resistors in parallel to get 2 Ω. Also, connect two 
+20 Ω resistors in parallel to get 10 Ω. Then connect these two 
+combinations in a series with each other to obtain 35 Ω. 
+P28.12 
+(a) R1 = ε −2
+I0
++ 2
+Ia
++ 1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) R2 = 2ε
+1
+I0
+−1
+Ia
+⎛
+⎝⎜
+⎞
+⎠⎟; (c) R3 = ε
+1
+I0
+−1
+Ib
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P28.14 
+(a) decreases; (b) 14 Ω 
+P28.16 
+(a) ΔV1 = ε
+3 , ΔV2 = 2ε
+9 , ΔV3 = 4ε
+9 , ΔV4 = 2ε
+3 ;  
+(b) I1 = I, I2 = I3 = I
+3 , I4 = 2I
+3 ; (c) I4 increases and I1, I2, and I3 decrease; 
+(d) I1 = 3I
+4 , I2 = I3 = 0, I4 = 3I
+4 
+P28.18 
+(a) See P28.18(a) for the full solution; (b) The current never exceeds  
+50 µA. 
+P28.20 
+None of these is 4
+3 R, so the desired resistance cannot be achieved. 
+P28.22 
+(a) See ANS. FIG. P28.22 
+P28.24 
+(a) I3 = 909 mA; (b) –1.82 V 
+P28.26 
+(a) See ANS. FIG. P28.26; (b) 11.0 mA in the 220-Ω resistor and out of 
+the positive pole of the 5.80-V battery; The current is 1.87 mA in the 
+150-Ω resistor and out of the negative pole of the 3.10-V battery;  
+9.13 mA in the 370-Ω resistor
+
+--- PAGE 65 ---
+304     Direct-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.28 
+(a) 172 A downward; (b) 1.70 A downward; (c) No, the current in the 
+dead battery is upward in Figure P28.28, so it is not being charged. The 
+dead  battery is providing a small amount of power to operate the 
+starter, so it is not really "dead." 
+P28.30 
+(a) w = 1.00 A upward in 200 Ω; z = 4.00 A upward in 70.0 Ω; x = 3.00 A 
+upward in 80.0 Ω; y = 8.00 A downward in 20.0 Ω; (b) 200 V 
+P28.32 
+(a) I2 is directed from b toward a and has a magnitude of 2.00 A;  
+(b) I3 = 1.00 A; (c) No. Neither of the equations used to find I2 and I3 
+contained ε and R. The third equation that we could generate from 
+Kirchhoff’s rules contains both the unknowns. Therefore, we have only 
+one equation with two unknowns. 
+P28.34 
+(a) 13.0I1 + 18.0I2 = 30.0 ; (b) 18.0I2 −5.00I3 = −24.0; (c) I1 −I2 −I3 = 0 ; 
+(d) I3 = I1 −I2 ; (e) 5.00I1 −23.0I2 = 24.0; (f) I2 = −0.416 A and  
+I1 = 2.88 A; (g) I3 = 3.30 A; (h) The negative sign in the answer for I2 
+means that this current flows in the opposite direction to that shown in 
+the circuit diagram and assumed during the solution. That is, the 
+actual current in the middle branch of the circuit flows from right to 
+left and has a magnitude of 0.416 A. 
+P28.36 
+(a) No. The circuit cannot be simplified further, and Kirchhoff’s rules 
+must be used to analyze it; (b) I1 = 3.50 A; (c) I2 = 2.50 A; (d) I3 = 1.00 A 
+P28.38 
+(a) 5.00 s; (b) 150 µC; (c) 4.06 µA 
+P28.40 
+587 kΩ 
+P28.42 
+(a) (R1 + R2)C; (b) R2C; (c) ε
+1
+R1
++ 1
+R2
+e
+−t R2C
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P28.44 
++ RC
+2
+ 
+P28.46 
+(a) For the heater, 12.5 A; For the toaster, 6.25 A; For the grill, 8.33 A; 
+(b) The current draw is greater than 25.0 amps, so this circuit will trip 
+the circuit breaker. 
+P28.48 
+(a) ~10
+–14; (b) ~ Vh
+2 + 10−10 V and ~ Vh
+2 −10−10 V 
+P28.50 
+7.49 Ω 
+P28.52 
+(a) 0.991; (b) 0.648; (c) The energy flows are precisely analogous to the 
+currents in parts (a) and (b). The ceiling has the smallest R value of the 
+thermal resistors in parallel, so increasing its thermal resistance will 
+produce the biggest reduction in the total energy flow.
+
+--- PAGE 66 ---
+Chapter 28     305 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P28.54 
+(a) 0.706 A; (b) 2.49 W; (c) Only the circuit in Figure P28.54(c) requires 
+the use of Kirchhoff’s rules for solution. In the other circuits, the 5-Ω 
+and 8-Ω resistors are still in parallel with each other; (c) The power is 
+lowest in Figure P28.54(c). The circuits in Figures P28.54(b) and 
+P28.54(d) have in effect 30-V batteries driving the current. 
+P28.56 
+55.0 Ω 
+P28.58 
+See P28.58 for full explanation. 
+P28.60 
+(a) 15.0 Ω; (b) ΔVac = ΔVdb = 6.00 V, ΔVce = 1.20 V, ΔVfd = ΔVed = 1.80 V, 
+ΔVcd = 3.00 V; (c) I1 = 1.00 A, I2 = 0.500 A, I3 = 0.500 A, I4 = 0.300 A,  
+I5 = 0.200 A; (d) Pac = 6.00 W, Pce = 0.600 W, Ped = 0.540 W, Pfd = 0.360 W, 
+Pcd = 1.50 W, Pdb = 6.00 W 
+P28.62 
+Ps +
+Ps
+2 −4PsPp
+2I 2
+ and Ps −
+Ps
+2 −4PsPp
+2I 2
+ 
+P28.64 
+(a) 4.40 Ω; (b) 32.0 W; (c) 9.60 W; (d) 70.4 W; (e) 48.0 W 
+P28.66 
+(a) I1 =
+IR2
+R1 + R2
+ and 
+IR1
+R1 + R2
+= I2 ; (b) See P28.66(b) for full proof. 
+P28.68 
+See P28.68 for full explanation. 
+P28.70 
+(a) q =
+30.0
+2.00 + R −0.542 , where q is in microcoulombs and R is in ohms; 
+(b) 1.96 µC; (c) Yes; 53.3 Ω; (d) 14.5 µC; (e) Yes. Taking R = ∞ 
+corresponds to disconnecting the wire; 0.542 µC 
+P28.72 
+(a) 40.0 W; (b) 80.0 V and 40.0 V 
+P28.74 
+(a) 9.30 V; (b) 2.51 Ω; (c) 18.6 V; (d) 3.70 A; (e) 1.09 A; (f) 14.3 W;  
+(g) 8.54 W; (h) Because of the internal resistance of the batteries, the 
+terminal voltage of the pair of batteries is not the same in both cases. 
+P28.76 
+See P28.76 for full explanation. 
+P28.78 
+(a) ln
+ε
+ΔV
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.011 8
+(
+)t + 0.088 2; (b) The time constant is 84.7 s and the 
+capacitance is 8.47 µF. 
+P28.80 
+Ps = 1
+n2 Pp 
+P28.82 
+R1 + 2R2
+(
+)Cln2

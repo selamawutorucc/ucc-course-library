@@ -1,0 +1,41 @@
+
+--- SHEET: Sales Data ---
+Westbrook Parker Sales Data |  |  |  |  |  | 
+Salesperson | May | June | July | August | September | October
+Albertson, Kathy | 3799 | 557 | 3863 | 1117 | 8237 | 8690
+Allenson, Carol | 18930 | 1042 | 9355 | 1100 | 10185 | 18749
+Altman, Zoey | 5725 | 3072 | 6702 | 2116 | 13452 | 8046
+Bittiman, William | 1344 | 3755 | 4415 | 1089 | 4404 | 20114
+Brennan, Michael | 8296 | 3152 | 11601 | 1122 | 3170 | 10733
+Carlson, David | 3945 | 4056 | 3726 | 1135 | 8817 | 18524
+Collman, Harry | 8337 | 4906 | 9007 | 2113 | 13090 | 13953
+Counts, Elizabeth | 3742 | 521 | 4505 | 1024 | 3528 | 15275
+David, Chloe | 7605 | 3428 | 3973 | 1716 | 4839 | 13085
+Davis, William | 5304 | 1562 | 2945 | 1176 | 9642 | 13714
+Dumlao, Richard | 9333 | 2779 | 7549 | 1101 | 5850 | 15065
+Farmer, Kim | 1103 | 3470 | 3862 | 1040 | 10024 | 18389
+Ferguson, Elizabeth | 1333 | 1913 | 4596 | 1126 | 5503 | 10686
+Flores, Tia | 12398 | 2883 | 2142 | 2014 | 13547 | 21983
+Ford, Victor | 3251 | 4931 | 8283 | 1054 | 9543 | 11967
+Hodges, Melissa | 4624 | 4798 | 8420 | 1389 | 10468 | 12677
+Jameson, Robinson | 2552 | 4459 | 2248 | 1058 | 6267 | 14982
+Kellerman, Frances | 4281 | 4172 | 11074 | 1282 | 2365 | 9380
+
+--- SHEET: Challenge ---
+First Quarter Grades |  |  |  |  |  |  |  |  | 
+Student Name | Unit 1 Quiz 1 | Unit 1 Test | Unit 2 Quiz 1 | Unit 2 Quiz 2 | Unit 2 Test | Unit 3 Quiz 1 | Unit 3 Test | 1st Quarter Project | Midterm
+Jackson Love | 70 | 75 | 88 | 90 | 72 | 69 | 75 | 93 | 85
+Priya Patel | 97 | 100 | 92 | 95 | 96 | 68 | 95 | 92 | 93
+Sharia Clemmons | 95 | 97 | 45 | 79 | 83 | 95 | 94 | 100 | 92
+Ming Lu | 91 | 93 | 89 | 95 | 97 | 84 | 85 | 88 | 99
+Sadie Carter | 86 | 84 | 93 | 89 | 94 | 77 | 88 | 87 | 86
+Jensen Howard | 54 | 70 | 87 | 72 | 85 | 65 | 74 | 94 | 70
+Tyriq Hilton | 77 | 85 | 76 | 90 | 68 | 72 | 78 | 94 | 87
+Maria Saldana | 100 | 96 | 93 | 87 | 88 | 87 | 92 | 95 | 95
+Kyle Jacobs | 90 | 89 | 91 | 93 | 94 | 88 | 95 | 88 | 95
+John Feinstein | 89 | 67 | 84 | 87 | 85 | 80 | 90 | 93 | 95
+Carter Zhou | 75 | 68 | 82 | 83 | 85 | 84 | 66 | 50 | 68
+Jose Marco Hernandez | 93 | 87 | 86 | 91 | 93 | 95 | 82 | 99 | 85
+Betsy Michaels | 90 | 95 | 80 | 73 | 76 | 71 | 88 | 85 | 77
+Dexter Cooper | 62 | 71 | 76 | 84 | 80 | 85 | 87 | 93 | 68
+Quanisha Johnson | 100 | 98 | 86 | 89 | 93 | 95 | 96 | 97 | 92

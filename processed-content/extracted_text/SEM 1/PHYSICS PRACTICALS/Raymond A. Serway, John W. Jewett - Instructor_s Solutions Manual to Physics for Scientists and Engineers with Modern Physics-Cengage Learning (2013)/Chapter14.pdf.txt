@@ -1,0 +1,5848 @@
+
+--- PAGE 1 ---
+738 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+14 
+Fluid Mechanics 
+ 
+CHAPTER OUTLINE 
+ 
+14.1  
+Pressure 
+14.2  
+Variation of Pressure with Depth 
+14.3  
+Pressure Measurements 
+14.4  
+Buoyant Forces and Archimedes’s Principle 
+14.5  
+Fluid Dynamics 
+14.6 
+Bernoulli’s Equation 
+14.7 
+Other Applications of Fluid Dynamics 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ14.1 
+Answer (c). Both must be built the same. A dam must be constructed 
+to withstand the pressure at the bottom of the dam. The pressure at 
+the bottom of a dam due to water is P = ρgh, where h is the height of 
+the water. If both reservoirs are equally high (meaning the water is 
+equally deep), the pressure is the same regardless of width. 
+OQ14.2 
+Answer (b), (e). The buoyant force on an object is equal to the weight 
+of the volume of water displaced by that object. 
+OQ14.3 
+Answer (d), (e). The buoyant force on the block is equal to the 
+WEIGHT of the volume of water it displaces.  
+OQ14.4 
+Answer (b). The apple does not change volume appreciably in a 
+dunking bucket, and the water also keeps constant density. Then the 
+buoyant force is constant at all depths. 
+OQ14.5 
+Answer (c). The water keeps nearly constant density as it increases in 
+pressure with depth. The beach ball is compressed to smaller volume 
+as you take it deeper, so the buoyant force decreases. Note that the
+
+--- PAGE 2 ---
+Chapter 14     739 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+situation this question considers is different from that of OQ14.2. In 
+OQ14.2, the beach ball is fully inflated at a pressure higher than 1 
+atm, and the tension from the plastic balances the excess pressure. So 
+even when the ball is 1 m under water, the water pressure increases, 
+so the plastic tension decreases, but the inside pressure remains 
+practically constant, hence no volume change. 
+OQ14.6 
+Answer (a), (c). Both spheres have the same volume, so the buoyant 
+force is the same on each. The lead sphere weighs more, so its string 
+tension must be greater. 
+OQ14.7 
+Answer (c). The absolute pressure at depth h below the surface of a 
+fluid having density ρ is P = P0 + ρgh, where P0 is the pressure at the 
+upper surface of that fluid. The fluid in each of the three vessels has 
+density ρ = ρwater, the top of each vessel is open to the atmosphere so 
+that P0 = Patm in each case, and the bottom is at the same depth h 
+below the upper surface for the three vessels. Thus, the pressure P at 
+the bottom of each vessel is the same. 
+OQ14.8 
+Answer (b). Ice on the continent of Antarctica is above sea level. At 
+the north pole, the melting of the ice floating in the ocean will not 
+raise the ocean level (see OQ14.15). 
+OQ14.9 
+Answer (c). The normal force from the bottom plus the buoyant force 
+from the water together balance the weight of the boat.  
+OQ14.10 
+(i) Answer (b). (ii) Answer (c). When the steel is underwater, the 
+water exerts on the steel a buoyant force that was not present when 
+the steel was on top surrounded by air. Thus, slightly less wood will 
+be below the water line on the wooden block. It will float higher. In 
+both orientations the compound floating object displaces its own 
+weight of water, so it displaces equal volumes of water. The water 
+level in the tub will be unchanged when the object is turned over. 
+OQ14.11 
+Answer (b). The excess pressure is transmitted undiminished 
+throughout the container. It will compress air inside the wood. The 
+water driven into the pores of the wood raises the block’s average 
+density and makes if float lower in the water. Add some thumbtacks 
+to reach neutral buoyancy and you can make the wood sink or rise at 
+will by subtly squeezing a large clear–plastic soft–drink bottle. René 
+Descartes invented this toy or trick, called a Cartesian diver. 
+OQ14.12 
+Answer (b). The level of the pond falls. This is because the anchor 
+displaces more water while in the boat. A floating object displaces a 
+volume of water whose weight is equal to the weight of the object. A 
+submerged object displaces a volume of water equal to the volume of 
+the object. Because the density of the anchor is greater than that of 
+water, a volume of water that weighs the same as the anchor will be
+
+--- PAGE 3 ---
+740     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+greater than the volume of the anchor. 
+OQ14.13 
+Answer: (b) = (d) = (e) > (a) > (c). Objects (a) and (c) float, and (e) 
+barely floats (we ignore the thin-walled bottle). On them the buoyant 
+forces are equal to the gravitational forces exerted on them, so the 
+ranking is (e) greater than (a) and (e) greater than (c). Objects (b) and 
+(d) sink, and have volumes equal to (e), so they feel equal-size 
+buoyant forces: (e) = (b) = (d). 
+OQ14.14 
+Answer (d). You want the water drop-Earth system to have four 
+times the gravitational potential energy, relative to where the water 
+drop leaves the nozzle, as a water drop turns around at the top of the 
+fountain. Therefore, you want it to start out with four times the 
+kinetic energy, which means with twice the speed at the nozzle. 
+Given the constant volume flow rate Av, you want the area to be two 
+times smaller. If the nozzle has a circular opening, you need to 
+decrease its radius only by the square root of two. 
+OQ14.15 
+Answer (c). The water level stays the same. The solid ice displaced its 
+own mass of liquid water. The meltwater does the same. 
+OQ14.16 
+Answer (e). Since the pipe is horizontal, each part of it is at the same 
+vertical level or has the same y coordinate. Thus, from Bernoulli’s 
+equation P + 1
+2 ρv2 + ρgy = constant, we see that the sum of the 
+pressure and the kinetic energy per unit volume ( P + 1
+2 ρv2 ) must 
+also be constant throughout the pipe. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ14.1 
+The horizontal force exerted by the outside fluid, on an area element 
+of the object’s side wall, has equal magnitude and opposite direction 
+to the horizontal force the fluid exerts on another element 
+diametrically opposite the first. 
+CQ14.2 
+The weight depends upon the total volume of water in the glass. The 
+pressure at the bottom depends only on the depth. With a cylindrical 
+glass, the water pushes only horizontally on the side walls and does 
+not contribute to an extra downward force above that felt by the 
+base. On the other hand, if the glass is wide at the top with a conical 
+shape, the water pushes outward and downward on each bit of side 
+wall. The downward components add up to an extra downward 
+force, more than that exerted on the small base area. 
+CQ14.3 
+The air in your lungs, the blood in your arteries and veins, and the
+
+--- PAGE 4 ---
+Chapter 14     741 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+protoplasm in each cell exert nearly the same pressure, so that the 
+wall of your chest can be in equilibrium. 
+CQ14.4 
+Yes. The propulsive force of the fish on the water causes the scale 
+reading to fluctuate. Its average value will still be equal to the total 
+weight of bucket, water, and fish. In other words, the center of mass 
+of the fish-water-bucket system is moving around when the fish 
+swims. Therefore, the net force acting on the system cannot be a 
+constant. Apart from the weights (which are constants), the vertical 
+force from the scale is the only external force on the system: it 
+changes as the center of mass moves (accelerates). So the scale 
+reading changes. 
+CQ14.5 
+(a) 
+The greater air pressure inside the spacecraft causes air to be 
+expelled through the hole. 
+ 
+(b) Clap your shoe or wallet over the hole, or a seat cushion, or 
+your hand. Anything that can sustain a force on the order of  
+100 N is strong enough to cover the hole and greatly slow down 
+the escape of the cabin air. You need not worry about the air 
+rushing out instantly, or about your body being “sucked” 
+through the hole, or about your blood boiling or your body 
+exploding. If the cabin pressure drops a lot, your ears will pop 
+and the saliva in your mouth may boil—at body temperature—
+but you will still have a couple of minutes to plug the hole and 
+put on your emergency oxygen mask. Passengers who have 
+been drinking carbonated beverages may find that the carbon 
+dioxide suddenly comes out of solution in their stomachs, 
+distending their vests, making them belch, and all but frothing 
+from their ears; so you might warn them of this effect. 
+CQ14.6 
+The rapidly moving air above the ball exerts less pressure than the 
+atmospheric pressure below the ball. This can give substantial lift to 
+balance the weight of the ball. 
+CQ14.7 
+Imagine there have been large water demands and the water vessel 
+at the top is half full. The depth of water from the upper water 
+surface to the ground is still large. Therefore, the pressure at the base 
+of the water is only slightly reduced from that due to a full tank, 
+resulting in adequate water pressure at residents’ faucets. If the 
+water tank were a tall cylinder, a half-full tank would be only half as 
+deep and the pressure at residents’ faucets would be only half as 
+great. Also, the water level in a tall cylinder would drop faster, 
+because its cross-sectional area is smaller, so it would have to be 
+replaced more often. 
+CQ14.8 
+Like the ball, the balloon will remain in front of you. It will not bob 
+up to the ceiling. Air pressure will be no higher at the floor of the
+
+--- PAGE 5 ---
+742     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+sealed car than at the ceiling. The balloon will experience no buoyant 
+force. You might equally well switch off gravity. In the freely falling 
+elevator, everything is effectively “weightless,” so the air does not 
+exert a buoyant force on anything. 
+CQ14.9 
+(a) Yes. (b) Yes. (c) The buoyant force is a conservative force. It does 
+positive work on an object moving upward in a fluid and an equal 
+amount of negative work on the object moving down between the 
+same two elevations. [Note that mechanical energy, K + U, is not 
+conserved here because of viscous drag from the water.] Potential 
+energy is not associated with the object on which the buoyant force 
+acts, but with the system of objects interacting by the buoyant force. 
+This system is the immersed object and the fluid. 
+CQ14.10 
+The metal is more dense than water. If the metal is sufficiently thin, it 
+can float like a ship, with the lip of the dish above the water line. 
+Most of the volume below the water line is filled with air. The mass 
+of the dish divided by the volume of the part below the water line is 
+just equal to the density of water. Placing a bar of soap into this space 
+to replace the air raises the average density of the compound object 
+and the density can become greater than that of water. The dish sinks 
+with its cargo. 
+CQ14.11 
+Use a balance to determine its mass. Then partially fill a graduated 
+cylinder with water. Immerse the rock in the water and determine 
+the volume of water displaced. Divide the mass by the volume and 
+you have the density. It may be more precise to hang the rock from a 
+string, measure the force required to support it under water, and 
+subtract to find the buoyant force. The buoyant force can be thought 
+of as the weight of so many grams of water, which is that number of 
+cubic centimeters of water, which is the volume of the submerged 
+rock. This volume with the actual rock mass tells you its density. 
+CQ14.12 
+The diet drink fluid has no dissolved sugar, so its density is less than 
+that of the regular drink. Try it. 
+CQ14.13 
+At lower elevation the water pressure is greater because pressure 
+increases with increasing depth below the water surface in the 
+reservoir (or water tower). The penthouse apartment is not so far 
+below the water surface. The pressure behind a closed faucet is 
+weaker there and the flow weaker from an open faucet. Your fire 
+department likely has a record of the precise elevation of every fire 
+hydrant. 
+CQ14.14 
+The boat floats higher in the ocean than in the inland lake. According 
+to Archimedes’s principle, the magnitude of buoyant force on the 
+ship is equal to the weight of the water displaced by the ship. 
+Because the density of salty ocean water is greater than fresh lake
+
+--- PAGE 6 ---
+Chapter 14     743 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+water, less ocean water needs to be displaced to enable the ship to 
+float. 
+CQ14.15 
+The ski jumper gives her body the shape of an airfoil. She deflects the 
+air stream downward as it rushes past and the airstream deflects her 
+upward by Newton’s third law. The air exerts on her a lift force, 
+giving her a higher and longer trajectory. 
+ 
+ANS FIG. CQ14.15 
+CQ14.16 
+When taking off into the wind, the increased airspeed over the wings 
+gives a larger lifting force, enabling the pilot to take off in a shorter 
+length of runway. 
+CQ14.17 
+A breeze from any direction speeds up to go over the mound and the 
+air pressure drops. Air then flows through the burrow from the 
+lower entrance to the upper entrance. 
+CQ14.18 
+(a) 
+Since the velocity of the air in the right-hand section of the pipe 
+is lower than that in the middle, the pressure is higher. 
+ 
+(b) The equation that predicts the same pressure in the far right- 
+and left-hand sections of the tube assumes laminar flow without 
+viscosity. The equation also assumes the fluid is incompressible, 
+but air is not. Also, the left-hand tube is open to the atmosphere 
+while the right-hand tube is not. Internal friction will cause 
+some loss of mechanical energy, and turbulence will also 
+progressively reduce the pressure. If the pressure at the left 
+were not lower than at the right, the flow would stop.  
+CQ14.19 
+The stored corn in the silo acts as a fluid: the greater the depth, the 
+greater the pressure on the sides of the silo. The metal bands are 
+placed closer, or doubled, at lower portions to provide more force to 
+balance the force from the greater pressure.
+
+--- PAGE 7 ---
+744     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 14.1 
+Pressure	  
+P14.1 
+We shall assume that each chair leg supports one-fourth of the total 
+weight so the normal force each leg exerts on the floor is n = mg/4. The 
+pressure of each leg on the floor is then 
+ 
+ 
+ 
+Pleg =
+n
+Aleg
+= mg 4
+πr2
+=
+95.0 kg
+(
+) 9.80 m s2
+(
+)
+4π 0.500 × 10−2 m
+(
+)
+2 = 2.96 × 106 Pa 
+P14.2 
+(a) 
+If the particles in the nucleus are closely packed with negligible 
+space between them, the average nuclear density should be 
+approximately that of a proton or neutron. That is 
+ 
+ 
+ 
+ρnucleus ≈mproton
+Vproton
+= mproton
+4πr3 3 3 1.67 × 10−27 kg
+(
+)
+4π 1× 10−15 m
+(
+)
+3  
+4 × 1017 kg m3
+ 
+ 
+(b) 
+The density of an atom is about 1014 times greater than 
+the density of iron and other common solids and liquids. 
+This shows that an atom is mostly empty space. Liquids 
+and solids, as well as gases, are mostly empty space.
+ 
+P14.3 
+(a) 
+P = F
+A =
+50.0 kg
+(
+) 9.80 m/s2
+(
+)
+π 0.500 × 10−2 m
+(
+)
+2
+= 6.24 × 106 N m2 
+ 
+(b)  The pressure from the heel might damage the vinyl floor
+ covering.
+ 
+P14.4 
+The Earth’s surface area is 4πR2. The force pushing inward over this 
+area amounts to 
+ 
+ 
+ 
+F = P0A = P0 4πR2
+(
+) 
+ 
+This force is the weight of the air: 
+ 
+  
+ 
+Fg = mg = P0 4πR2
+(
+)
+
+--- PAGE 8 ---
+Chapter 14     745 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so, assuming g is everywhere the same, the mass of the air is  
+ 
+  
+ 
+m =
+P0 4πR2
+(
+)
+g
+=
+1.013 × 105 N/m2
+(
+) 4π 6.37 × 106 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+9.80 m/s2
+= 5.27 × 1018 kg
+ 
+P14.5 
+The definition of density, ρ = m/V, is often most directly useful in the 
+form m = ρV. 
+ 
+ 
+ 
+so
+ρ
+ρ
+=
+=
+=
+
+
+V
+wh
+m
+V
+wh 
+ 
+Thus 
+ 
+m = (19.3 × 103 kg/m3)(4.50 cm)(11.0 cm)(26.0 cm)
+= (19.3 × 103 kg/m3)(1 290 cm3)(1 m3/106 cm3) = 24.8 kg
+ 
+ 
+ 
+	  
+Section 15.2 
+Variation of Pressure with Depth 
+P14.6 
+(a) 
+Suppose the “vacuum cleaner” functions as a high–vacuum 
+pump. The air below the brick will exert on it a lifting force 
+ 
+ 
+ 
+F = PA = 1.013 × 105 Pa
+(
+) π 1.43 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦= 65.1 N
+ 
+ 
+(b) The octopus can pull the bottom away from the top shell with a 
+force that could be no larger than 
+ 
+ 
+ 
+F = PA = P0 + ρgh
+(
+)A
+= 1.013 × 105 Pa + 1 030 kg m3
+(
+) 9.80 m s2
+(
+) 32.3 m
+(
+)
+⎡⎣
+⎤⎦
+                                                              × π 1.43 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+F = 275 N
+ 
+P14.7 
+Assuming the spring obeys Hooke’s law, the increase in force on the 
+piston required to compress the spring an additional amount Δx is 
+ 
+ 
+ 
+ΔF = F −F0 = P −P0
+(
+)A = k Δx
+(
+) 
+ 
+The gauge pressure at depth h beneath the surface of a fluid is  
+ 
+ 
+ 
+P −P0 = ρgh
+
+--- PAGE 9 ---
+746     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so we have 
+ 
+ 
+ 
+ρghA = k Δx
+(
+)  
+ 
+or the required depth is  
+ 
+ 
+ 
+h = k Δx
+(
+) ρgA  
+ 
+If k = 1 250 N/m, A = π d
+2/4, d = 1.20 × 10
+−2 m, and the fluid is water  
+(ρ = 1.00 × 10
+3  kg/m
+3), the depth required to compress the spring an 
+additional Δx = 0.750 × 10−2 m is 
+ 
+ 
+ 
+h = 8.46 m  
+P14.8 
+Since the pressure is the same on both sides, F1
+A1
+= F2
+A2
+, and  
+ 
+in this case, 15 000 N
+200 cm2 =
+F2
+3.00 cm2  
+or 
+F2 = 225 N 
+P14.9 
+Fg = 80.0 kg
+(
+) 9.80 m s2
+(
+) = 784 N 
+ 
+When the cup barely supports the student, the normal force of the 
+ceiling is zero and the cup is in equilibrium. 
+ 
+ 
+Fg = F = PA = 1.013 × 105 Pa
+(
+)A
+A =
+Fg
+P =
+784 N
+1.013 × 105 Pa = 7.74 × 10−3 m2
+ 
+P14.10 
+The pressure on the bottom due to the water is Pb = ρgz = 1.96 × 104 Pa. 
+ 
+(a) 
+The force exerted by the water on the bottom is then  
+ 
+ 
+ 
+Fb = PbA = 1.96 × 104 Pa
+(
+) 30.0 m
+(
+) 10.0 m
+(
+)
+= 5.88 × 106 N  down
+ 
+ 
+ 
+Pressure varies with depth. On a strip of height dz and length L, 
+the force is dF = PdA = PLdz = ρgzLdz, which gives the integral 
+ 
+ 
+ 
+F =
+ρgzLdz = 1
+2 ρgLh2
+0
+h
+∫
+=
+1
+2 ρgh
+⎛
+⎝⎜
+⎞
+⎠⎟Lh = PaverageA 
+ 
+(b) On each end, 
+ 
+ 
+ 
+F = PaverageA = 9.80 × 103 Pa
+(
+) 20.0 m2
+(
+) = 196 kN  outward 
+ 
+(c) 
+On the side, 
+ 
+ 
+ 
+F = PaverageA = 9.80 × 103 Pa
+(
+) 60.0 m2
+(
+) = 588 kN  outward
+
+--- PAGE 10 ---
+Chapter 14     747 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.11 
+(a) 
+At a depth of 27.5 m, the absolute pressure is 
+ 
+ 
+ 
+P = P0 + ρgh = 101.3 × 103 Pa
+               + 1.00 × 103 kg m3
+(
+) 9.80 m s2
+(
+) 27.5 m
+(
+)
+= 3.71× 105 Pa
+ 
+ 
+(b) The inward force the water will exert on the window is 
+ 
+ 
+ 
+F = PA = P πr2
+(
+) = 3.71× 105 Pa
+(
+)π
+35.0 × 10−2 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 3.57 × 104 N
+ 
+P14.12 
+We imagine Superman can produce a perfect vacuum in the straw. 
+Take point 1, at position y1 = 0, to be at the water’s surface and point 2, 
+at position y2 = length of straw, to be at the upper end of the straw. 
+What is the greatest length of straw that will allow Superman to drink? 
+Solve for y2: 
+ 
+ 
+ 
+P1 + ρgy1 = P2 + ρgy2 
+ 
+ 
+ 
+1.013 × 10
+5 Pa + 0 = 0 + (10
+3 kg/m
+3)(9.80 m/s
+2)y2    
+ 
+or 
+ 
+y2 = 10.3 m. 
+ 
+The situation is impossible because the longest straw Superman can 
+use and still get a drink is less than 12.0 m.
+ 
+*P14.13 
+The excess water pressure (over air pressure) halfway down is 
+ 
+ 
+ 
+Pgauge = ρgh = 1 000 kg/m3
+(
+) 9.80 m/s2
+(
+) 1.20 m
+(
+)
+= 1.18 × 104 Pa
+ 
+ 
+The force on the wall due to the water is 
+ 
+ 
+ 
+F = PgaugeA = 1.18 × 104 Pa
+(
+) 2.40 m
+(
+) 9.60 m
+(
+)
+= 2.71× 105 N
+ 
+ 
+horizontally toward the back of the hole. 
+*P14.14 
+We first find the absolute pressure at the interface between oil and 
+water: 
+ 
+ 
+ 
+P1 = P0 + ρoilghoil
+= 1.013 × 10
+5 Pa + 700 kg/m
+3
+(
+) 9.80 m/s
+2
+(
+) 0.300 m
+(
+)
+= 1.03 × 10
+5 Pa
+
+--- PAGE 11 ---
+748     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This is the pressure at the top of the water. To find the absolute 
+pressure at the bottom, we use  
+ 
+ 
+ 
+P2 = P1 + ρwaterghwater
+= 1.03 × 10
+5 Pa + 10
+3 kg/m
+3
+(
+) 9.80 m/s
+2
+(
+) 0.200 m
+(
+)
+= 1.05 × 10
+5 Pa
+ 
+P14.15 
+The air outside and water inside both 
+exert atmospheric pressure, so only the 
+excess water pressure ρgh counts for the 
+net force. Take a strip of hatch between 
+depth h and h + dh. It feels force 
+ 
+ 
+dF = PdA = ρgh 2.00 m
+(
+)dh 
+ 
+(a) 
+The total force is 
+ 
+ 
+ 
+F =
+dF =
+ρgh 2.00 m
+(
+)dh
+h=1.00 m
+2.00 m
+∫
+∫
+F = ρg 2.00 m
+(
+) h2
+2
+1.00 m
+2.00 m
+= 1 000 kg m3
+(
+) 9.80 m s
+2
+(
+) 2.00 m
+(
+)
+2
+×
+2.00 m
+(
+)
+2 −1.00 m
+(
+)
+2
+⎡⎣
+⎤⎦
+F = 29.4 kN to the right
+(
+)
+ 
+ 
+(b) The lever arm of dF is the distance h −1.00 m
+(
+) from hinge to 
+strip: 
+ 
+ 
+ 
+τ =
+dτ
+∫
+=
+ρgh 2.00 m
+(
+) h −1.00 m
+(
+)dh
+h=1.00 m
+2.00 m
+∫
+τ = ρg 2.00 m
+(
+) h3
+3 −1.00 m
+(
+) h2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1.00 m
+2.00 m
+τ = 1 000 kg m3
+(
+) 9.80 m s2
+(
+) 2.00 m
+(
+) 7.00 m3
+3
+−3.00 m3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+τ = 16.3 kN ⋅m counterclockwise
+ 
+P14.16 
+The air outside and water inside both exert atmospheric pressure, so 
+only the excess water pressure ρgh counts for the net force.  
+ 
+(a) 
+At a distance y from the top of the water, take a strip of hatch 
+between depth y and y + dy. It feels force 
+ 
+ 
+ 
+dF = PdA = Pwdy = (ρgyw)dy 
+ANS. FIG. P14.15
+
+--- PAGE 12 ---
+Chapter 14     749 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The total force is 
+ 
+ 
+ 
+F =
+ρgwydy = 1
+2 ρgwy2
+d−h
+d
+d−h
+d
+∫
+= 1
+2 ρgw d2 −d −h
+(
+)
+2
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+ 
+F = 1
+2 ρgwh 2d −h
+(
+) 
+ 
+(b) The lever arm of dF is the distance [y – (d – h)] from hinge to strip: 
+ 
+  
+  
+τ =
+ρgwy y −d −h
+(
+)
+[
+]dy
+d−h
+d
+∫
+= ρgw
+y2 −y d −h
+(
+)
+⎡⎣
+⎤⎦dy
+d−h
+d
+∫
+= ρgw y3
+3 −d −h
+(
+)y2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+d−h
+d
+= ρgw
+6
+2d3 −2 d −h
+(
+)
+3 −3 d −h
+(
+)d2 + 3 d −h
+(
+)
+3
+⎡⎣
+⎤⎦
+= ρgw
+6
+2d3 −3 d −h
+(
+)d2 + d −h
+(
+)
+3
+⎡⎣
+⎤⎦
+= ρgw
+6
+2d3 −3d3 + 3d2h + d3 −3d2h + 3dh2 −h3
+⎡⎣
+⎤⎦
+τ = ρgw
+6
++ 3dh2 −h3
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+ 
+τ = 1
+2 ρgw dh2 −1
+3 h3
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+*P14.17 
+The fluid in the hydraulic jack is originally exerting the same pressure 
+as the air outside. This pressure P0 results in zero net force on either 
+piston. For the equilibrium of piston 2 we require 
+ 
+ 
+ 
+500 lb = P −P0
+(
+)A = P −P0
+(
+)π 1.50 in.
+2
+(
+)
+2 
+ 
+Let F1 represent the force the lever bar exerts on piston 1. Then 
+similarly 
+ 
+ 
+ 
+F1 = P −P0
+(
+)π 0.250 in.
+2
+(
+)
+2 
+ 
+We ignore the weights of the pistons, sliding friction, and the slight 
+difference in fluid pressure P due to the height difference between 
+points 1 and 2. By division, 
+ 
+ 
+ 
+F1
+500 lb = 0.250 in.
+1.50 in.
+(
+)
+2
+     →     F1 = 500 lb
+36.0
+
+--- PAGE 13 ---
+750     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We say the hydraulic lift has an ideal mechanical advantage of 36. 
+Next for the lever bar we ignore weight and friction, assume 
+equilibrium, and take torques about the fixed hinge. 
+ 
+ 
+ 
+τ
+∑
+= 0 gives F1 2.00 in.
+(
+) −F 12.0 in.
+(
+) = 0 , or F = F1
+6 . 
+ 
+The lever has an ideal mechanical advantage of 6. By substitution, 
+ 
+ 
+ 
+F = 500 lb
+36⋅6 = 2.31 lb
+ 
+P14.18 
+The bell is uniformly compressed, so we can model it with any shape. 
+We choose a sphere of diameter 3.00 m. 
+ 
+The pressure on the ball is given by P = Patm + ρwgh, so the change in 
+pressure on the ball from when it is on the surface of the ocean to 
+when it is at the bottom of the ocean is ΔP = ρwgh. 
+ 
+In addition, 
+ 
+ 
+ 
+ΔV = −VΔP
+B
+= −ρwghV
+B
+= −4πρwghr3
+3B
+  
+ 
+where B is the bulk modulus. Substituting, 
+ 
+ 
+ 
+ΔV = −4π 1 030 kg/m3
+(
+) 9.80 m/s2
+(
+) 1 000 m
+(
+) 1.50 m
+(
+)
+3
+3 14.0 × 1010 Pa
+(
+)
+ΔV = −1.02 × 10−3 m3
+ 
+ 
+From V = 4
+3 πr3 →dV = 4πr2dr, we use r = 1.50 m, set dV = ∆V, and 
+solve for dr: 
+ 
+ 
+ 
+dr = –3.60 × 10
+–5 m 
+ 
+Therefore, the diameter decreases by 0.072 1 mm. 
+ 
+ 
+	  
+Section 14.3 
+Pressure Measurements 
+P14.19 
+A drop of 20.0 mm of mercury is a pressure change of  
+ 
+ 
+ΔP = ρgΔh = 13.6 × 103 kg/m3
+(
+) 9.80 m/s2
+(
+) −20.0 × 10−3 m
+(
+)
+= −2.66 × 103 Pa
+  
+ 
+ 
+P = P0 + ΔP0 = 1.013 −0.026 6
+(
+) × 105 Pa = 0.986 × 105 Pa
+
+--- PAGE 14 ---
+Chapter 14     751 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P14.21 
+P14.20 
+ (a) P = P0 + ρgh and the gauge pressure is 
+ 
+ 
+ 
+P −P0 = ρgh = 1 000 kg
+(
+) 9.8 m/s2
+(
+) 0.160 m
+(
+)
+= 1.57 kPa = 1.57 × 103 Pa
+(
+)
+1 atm
+1.013 × 105 Pa
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.015 5 atm
+ 
+ 
+  
+It would lift a mercury column to height 
+ 
+  
+  
+h = P −P0
+ρg
+=
+1 568 Pa
+13 600 kg/m3
+(
+) 9.80 m/s2
+(
+)
+= 11.8 mm
+ 
+ 
+(b) 
+Blockage of the fluid within the spinal column or between
+the skull and the spinal column would prevent the fluid level
+from rising.
+ 
+P14.21 
+(a) 
+To find the height of the column of wine, we use 
+ 
+ 
+ 
+P0 = ρgh 
+ 
+ 
+then 
+ 
+ 
+ 
+h = P0
+ρg
+=
+1.013 × 105 Pa
+0.984 × 103 kg/m3
+(
+) 9.80 m/s2
+(
+)
+= 10.5 m
+ 
+ 
+(b) 
+No. The vacuum is not as good because 
+some alcohol and water will evaporate. 
+The equilibrium vapor pressures of  alcohol 
+and water are higher than the vapor pressure 
+of mercury.
+ 
+P14.22 
+(a) 
+Using the definition of density, 
+we have 
+ 
+ 
+hw = mwater
+A2ρwater
+=
+100 g
+5.00 cm2
+(
+) 1.00 g/cm3
+(
+)
+= 20.0 cm
+ 
+ANS. FIG. P14.22
+
+--- PAGE 15 ---
+752     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) ANS. FIG. P14.22 (b) represents the situation after the water is 
+added. A volume A2h2
+(
+) of mercury has been displaced by water 
+in the right tube. The additional volume of mercury now in the 
+left tube is A1h. Since the total volume of mercury has not 
+changed, 
+ 
+ 
+ 
+A2h2 = A1h   or   h2 = A1
+A2
+h 
+[1] 
+ 
+ 
+At the level of the mercury–water interface in the right tube, we 
+may write the absolute pressure as: 
+ 
+ 
+ 
+P = P0 + ρwaterghw 
+ 
+ 
+The pressure at this same level in the left tube is given by 
+ 
+ 
+ 
+P = P0 + ρHgg h + h2
+(
+) = P0 + ρwaterghw 
+ 
+ 
+which, using equation [1] above, reduces to 
+ 
+ 
+ 
+ρHgh 1+ A1
+A2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= ρwaterhw 
+ 
+ 
+or 
+h =
+ρwaterhw
+ρHg 1+ A1/A2
+(
+)
+. 
+ 
+ 
+Thus, the level of mercury has risen a distance of 
+ 
+ 
+ 
+h =
+1.00 g/cm3
+(
+) 20.0 cm
+(
+)
+13.6 g/cm3
+(
+) 1+ 10.0 5.00
+(
+)
+ 
+ 
+ 
+  
+h = 0.490 cm above the original level.  
+P14.23 
+(a) 
+We can directly write the bottom pressure as P = P0 + ρgh, or we 
+can say that the bottom of the tank must support the weight of the 
+water: 
+ 
+ 
+ 
+PA − P0A = mwaterg = ρVg = ρAhg  
+ 
+ 
+which gives again 
+ 
+ 
+ 
+P = P0 + ρgh 
+ 
+ 
+The absolute pressure at depth h = 1.50 m is  
+ 
+ 
+ 
+P = P0 + ρgh = 101.3 kPa + (1 000 kg/m
+3)(9.80 m/s
+2)(1.50 m)  
+ 
+ 
+ 
+  = 116 kPa
+
+--- PAGE 16 ---
+Chapter 14     753 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Now the bottom of the tank must support the weight of the whole 
+contents. Before the people enter, P = 116 kPa. Afterwards,  
+ 
+ 
+ 
+ΔP = Mg
+A = 150 kg
+(
+) 9.80 m/s2
+(
+)
+π 3.00 m
+(
+)
+2
+= 52.0 Pa
+  
+P14.24 
+(a) 
+We can directly write the bottom pressure as P = P0 + ρgh, or we 
+can say that the bottom of the tank must support the weight of the 
+water: 
+ 
+ 
+ 
+PA − P0A = mwaterg = ρVg = ρAhg 
+ 
+ 
+which gives again  
+ 
+ 
+ 
+ P = P0 + ρgh 
+ 
+(b) Now, the bottom of the tank must support the weight of the 
+whole contents: 
+ 
+ 
+ 
+PbA − P0A = mwaterg + Mg = ρVg + Mg = ρAhg + Mg 
+ 
+ 
+and this gives 
+ 
+ 
+ 
+Pb = P0 + ρhg + Mg/A    
+ 
+ 
+Then  
+ 
+ 
+ 
+ΔP = Pb −P = Mg
+A
+  
+ 
+ 
+	  
+Section 14.4 
+Buoyant Forces and Archimedes’s Principle 
+P14.25 
+At equilibrium 
+F
+∑
+= 0    or    Fapp + mg = B, 
+ 
+where B is the buoyant force. 
+ 
+The applied force is  
+Fapp = B −mg, 
+ 
+where  
+B = V ρwater
+(
+)g 
+ 
+and  
+ 
+m = Vρball 
+ 
+So,  
+ 
+Fapp = Vg ρwater −ρball
+(
+) = 4
+3πr3g ρwater −ρball
+(
+): 
+ 
+ 
+Fapp = 4
+3 π 1.90 × 10−2 m
+(
+)
+3 9.80 m/s2
+(
+) 103 kg/m3 −84.0 kg/m3
+(
+)
+= 0.258 N down
+
+--- PAGE 17 ---
+754     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.26 
+Refer to Figure P14.26. We observe from the left-hand diagram,  
+ 
+ 
+ 
+Fy
+∑
+= 0    →    T1 = Fg = mobjectg = ρobjectgVobject
+  
+ 
+and from the right-hand diagram,  
+ 
+ 
+Fy
+∑
+= 0    →    T2 + B = Fg    →    T2 + B = T1
+ 
+ 
+which gives 
+ 
+ 
+T2 −T1 = B 
+ 
+where the buoyant force is  
+ 
+ 
+ 
+ 
+B = mwater g = ρwVobject g 
+ 
+Now the density of the object is  
+ 
+ 
+ 
+ 
+ρobject = mobject
+Vobject
+=
+T1 g
+B ρwg
+(
+)
+= ρwT1
+B
+ 
+ 
+ 
+ 
+ 
+ρobject = ρwT1
+T1 −T2
+=
+1 000 kg m3
+(
+) 5.00 N
+(
+)
+1.50 N
+= 3.33 × 103 kg/m3
+ 
+P14.27 
+(a) 
+We start with P = P0 + ρgh. 
+ 
+  
+Taking P0 = 1.013 × 105 N/m2,  
+ 
+  
+ρwater = 1 000 kg/m
+3, and h = 5.00 cm, 
+ 
+  
+we find 
+Ptop = 1.017 9 × 105 N/m2. 
+ 
+  
+For  h = 17.0 cm, we get  
+ 
+ 
+  
+ 
+Pbot = 1.029 7 × 105 N/m2 
+ 
+  
+Since the areas of the top and bottom are  
+ 
+  
+ 
+A = 0.100 m
+(
+)
+2 = 10−2 m2 
+ 
+  
+we find 
+ 
+ 
+  
+ 
+Ftop = PtopA = 1.017 9 × 103 N 
+ 
+  
+and Fbot = 1.029 7 × 103 N . 
+ 
+(b) The tension in the string is the scale reading: 
+ 
+  
+ 
+T = Mg − B 
+ 
+  
+where   
+ 
+  
+ 
+B = ρwVg = 103 kg/m3
+(
+) 1.20 × 10−3 m3
+(
+) 9.80 m/s2
+(
+) = 11.8 N 
+ANS. FIG. P14.27
+
+--- PAGE 18 ---
+Chapter 14     755 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+  
+and    
+ 
+  
+ 
+Mg = 10.0 kg
+(
+) 9.80 m/s2
+(
+) = 98.0 N 
+ 
+  
+Therefore,    
+ 
+  
+ 
+T = Mg −B = 98.0 N −11.8 N = 86.2 N 
+ 
+(c) 
+Fbot −Ftop = 1.0297 −1.0179
+(
+) × 103 N = 11.8 N 
+ 
+  
+which is equal to B found in part (b). 
+P14.28 
+(a) 
+The balloon is nearly in equilibrium: 
+ 
+  
+ 
+Fy
+∑
+= may ⇒B−Fg
+( )helium −Fg
+( )payload = 0
+ 
+ 
+ or     
+ρairgV −ρheliumgV −mpayloadg = 0 
+ 
+ This reduces to 
+ 
+  
+ 
+mpayload = ρair −ρhelium
+(
+)V
+= 1.29 kg/m3 −0.179 kg/m3
+(
+) 400 m3
+(
+)
+mpayload =
+444 kg
+ 
+ 
+(b) Similarly, 
+ 
+  
+ 
+mpayload = ρair −ρhydrogen
+(
+)V
+= 1.29 kg/m3 −0.089 9 kg/m3
+(
+) 400 m3
+(
+)
+mpayload =
+480 kg
+ 
+ 
+ 
+The surrounding air does the lifting, nearly the same for the two 
+balloons. 
+P14.29 
+(a) 
+The cube has sides of length L. When floating, the horizontal top 
+surface lies a distance h above the water’s surface. The buoyant 
+force supports the weight of the block:  
+ 
+ 
+ 
+B = ρwaterVobjectg = ρwaterL2 L −h
+(
+)g = ρwoodL3g  
+ 
+ 
+Solve for h:  
+ 
+ 
+ 
+h = L −L ρwood / ρwater
+(
+) = L 1−ρwood / ρwater
+(
+)
+= 20.0 cm
+(
+) 1−0.650
+(
+) = 7.00 cm
+ 
+ 
+(b) The buoyant force supports the weight of both blocks: 
+ 
+ 
+ 
+B = Fg + Mg, where M = mass of lead 
+ 
+ 
+ 
+ρwaterL3g = ρwoodL3g + Mg   →   M = ρwater −ρwood
+(
+)L3
+
+--- PAGE 19 ---
+756     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+M = (1.00 kg/m3 − 0.650 kg/m3)(20.0 m)
+3 =  2.80 kg 
+P14.30 
+By Archimedes’s principle, the weight of the 50 planes is equal to the 
+weight of a horizontal slice of water 11.0 cm thick and circumscribed 
+by the water line: 
+ 
+ 
+ΔB = ρwaterg ΔV
+(
+)
+50 2.90 × 104 kg
+(
+)g = 1030 kg m3
+(
+)g 0.110 m
+(
+)A
+ 
+ 
+giving A = 1.28 × 104 m2 . The acceleration of gravity does not affect 
+the answer. 
+P14.31 
+(a) 
+The buoyant force of glycerin supports the weight of the sphere 
+which is supported by the buoyant force of water.  
+ 
+ 
+ 
+B = ρglycerin 0.40V
+(
+) = ρwater
+V
+2
+ 
+ 
+  
+ 
+ρglycerin =
+ρwater
+2 0.40
+(
+)
+= 1 000 kg/m3
+0.80
+= 1 250 kg/m3
+ 
+ 
+(b) The buoyant force from the water supports the weight of the 
+sphere: 
+ 
+  
+ 
+B = Fg 
+ 
+  
+ 
+B = ρwater
+V
+2 = ρsphereV 
+ 
+  
+ 
+ρsphere = ρwater
+2
+= 500 kg/m3 
+P14.32 
+Constant velocity implies zero acceleration, which means that the 
+submersible is in equilibrium under the gravitational force, the 
+upward buoyant force, and the upward resistance force: 
+ 
+ 
+Fy
+∑
+= may = 0:
+          −1.20 × 104 kg + m
+(
+)g + ρwgV + 1100 N = 0
+ 
+ 
+ 
+where m is the mass of the added water and V is the sphere’s volume. 
+Substituting, 
+ 
+ 
+1.20 × 104 kg + m
+               = 1.03 × 103 kg/m3
+(
+) 4
+3π 1.50 m
+(
+)
+3
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1100 N
+9.80 m/s2
+
+--- PAGE 20 ---
+Chapter 14     757 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+m = 2.67 × 103 kg . 
+*P14.33 
+(a) 
+While the system floats, B = wtotal = wblock + wsteel , or 
+ 
+ 
+ 
+ ρw gVsubmerged = ρb gVb + msteel g 
+ 
+ 
+When msteel = 0.310 kg , Vsubmerged = Vb = 5.24 × 10−4 m3 giving 
+ 
+ 
+ 
+ρb = ρwVb −msteel
+Vb
+= ρw −msteel
+Vb
+= 1.00 × 103 kg m3 −
+0.310 kg
+5.24 × 10−4 m3
+= 408 kg m3
+ 
+ 
+(b) If the total weight of the block + steel system is reduced, by 
+having msteel < 0.310 kg, a smaller buoyant force is needed to 
+allow the system to float in equilibrium. Thus, the block will 
+displace a smaller volume of water and will be only partially 
+submerged in the water. 
+ 
+(c) 
+The block is fully submerged when msteel = 0.310 kg. The mass of 
+the steel object can increase slightly above this value without 
+causing it and the block to sink to the bottom. As the mass of the 
+steel object is gradually increased above 0.310 kg, the steel object 
+begins to submerge, displacing additional water, and providing a 
+slight increase in the buoyant force. With a density of about eight 
+times that of water, the steel object will be able to displace 
+approximately 0.310 kg/8 = 0.039 kg of additional water before it 
+becomes fully submerged. At this point, the steel object will have 
+a mass of about 0.349 kg and will be unable to displace any 
+additional water. Any further increase in the mass of the object 
+causes it and the block to sink to the bottom. In conclusion, 
+the block + steel system will sink if mstee ≥0.350 kg. 
+P14.34 
+(a) 
+Fy
+∑
+= 0: B −T −Fg = 0 →B −15.0 N −10.0 N = 0 
+ 
+  
+B = 25.0 N 
+ 
+(b) The oil pushes horizontally inward on each side of the block. 
+ 
+(c) 
+The string tension increases. The water under the block pushes up 
+on the block more strongly than before because the water is under 
+higher pressure due to the weight of the oil above it.
+
+--- PAGE 21 ---
+758     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The pressure of the oil’s weight on the water is P = ρoilgh, where h 
+is the height of the oil. This pressure is transmitted to the bottom 
+of the block, so the extra upward force on the block is Foil = PA = 
+ρoilghA = ρoilg∆V, where ∆V = hA is the volume of the block below 
+the top surface of the oil. 
+ 
+ 
+The force from the oil and the buoyant force of water balance the 
+tension and the weight of the block: 
+ 
+ 
+ 
+Fy = 0:   Foil + B −T −Fg = 0
+∑
+Foil + 25.0 N −60.0 N −15.0 N = 0
+              Foil = 50.0 N
+ 
+ 
+ 
+The ratio of Foil and B are  
+ 
+ 
+ 
+Fup
+B =
+ρoilgΔV
+ρwaterg V 4
+(
+)
+→ΔV
+V =
+Fup
+4B
+ρwater
+ρoil
+ 
+ 
+ 
+ 
+ΔV
+V =
+50.0 N
+4(25.0 N)
+1 000 kg/m3
+800 kg/m3 = 0.625
+ 
+ 
+ 
+The additional fraction of the block’s volume below the top 
+surface of the oil is 62.5%. 
+P14.35 
+(a) 
+Since the balloon is fully submerged in air, Vsubmerged = Vb = 325 m
+3, 
+and 
+ 
+ 
+ 
+B = ρairgVb = 1.20 kg m3
+(
+) 9.80 m s2
+(
+) 325 m3
+(
+)
+= 3.82 × 103 N
+ 
+ 
+(b) 
+Fy
+∑
+= B−wb −wHe = B−mbg −ρHegVb = B−mb + ρHeV
+(
+)g
+= 3.82 × 103 N
+     −226 kg + 0.179 kg m3
+(
+) 325 m3
+(
+)
+⎡⎣
+⎤⎦9.80 m s2
+(
+)
+= +1.04 × 103 N
+ 
+ 
+ 
+Since 
+Fy
+∑
+= may > 0, ay will be positive (upward), and 
+the balloon rises . 
+ 
+(c) 
+If the balloon and load are in equilibrium,  
+ 
+ 
+ 
+Fy
+∑
+= B−wb −wHe
+(
+)−wload = 0
+
+--- PAGE 22 ---
+Chapter 14     759 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and  
+ 
+ 
+ 
+wload = B −wb −wHe
+(
+) = 1.04 × 103 N 
+ 
+ 
+Thus, the mass of the load is 
+ 
+ 
+ 
+mload = wload
+g
+= 1.04 × 103 N
+9.80 m s2
+= 106 kg 
+P14.36 
+Let A represent the horizontal cross-sectional area of the rod, which we 
+presume to be constant. The rod is in equilibrium: 
+ 
+ 
+ 
+Fy
+∑
+= 0:     −mg + B = 0 = −ρ0Vwhole rodg + ρfluidVimmersedg   
+ 
+ 
+ 
+ρ0ALg = ρA L −h
+(
+)g 
+ 
+The density of the liquid is ρ = ρ0L
+L −h.  
+P14.37 
+We use the result of Problem 14.36. For the rod floating in a liquid of 
+density 0.98 g/cm
+3, 
+ 
+ 
+ 
+ρ = ρ0
+L
+L −h
+0.98 g/cm3 =
+ρ0L
+L −0.2 cm
+(
+)
+0.98 g/cm3
+(
+)L −0.98 g/cm3
+(
+)0.2 cm = ρ0L
+ 
+ 
+For floating in the dense liquid, 
+ 
+ 
+ 
+1.14 g/cm3 =
+ρ0L
+L −1.80 cm
+(
+)
+1.14 g/cm3
+(
+)L −1.14 g/cm3
+(
+) 1.80 cm
+(
+) = ρ0L
+ 
+ 
+(a) 
+By substitution, and suppressing units, 
+ 
+ 
+ 
+1.14L −1.14 1.80
+(
+) = 0.98L −0.200 0.98
+(
+)
+0.16L = 1.856
+L = 11.6 cm
+ 
+ 
+(b) Substituting back, 
+ 
+ 
+ 
+0.98 g/cm3
+(
+) 11.6 cm −0.200 cm
+(
+) = ρ0 11.6 cm
+(
+)
+ρ0 = 0.963 g/cm3
+ 
+ 
+(c) 
+No; the density ρ is not linear in h.
+
+--- PAGE 23 ---
+760     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.38 
+(a) 
+We can estimate the total buoyant force of the 600 toy balloons as 
+ 
+ 
+ 
+Btotal = 600⋅Bsingle
+balloon
+= 600 ρairgVballoon
+(
+)
+= 600 ρairg 4π
+3 r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 600
+1.20 kg m3
+(
+) 9.80 m s2
+(
+) 4π
+3
+0.50 m
+(
+)
+3
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 3.7 × 103 N = 3.7 kN
+ 
+ 
+(b) We estimate the net upward force by applying Newton’s second 
+law in the vertical direction: 
+ 
+ 
+ 
+Fy
+∑
+= Btotal −mtotalg
+= 3.7 × 103 N −600 0.30 kg
+(
+) 9.8 m s2
+(
+)
+= 1.9 × 103 N = 1.9 kN
+ 
+ 
+ 
+This net force was sufficient to lift Ashpole, his parachute, and 
+other supplies.  
+ 
+(c) 
+Atmospheric pressure at this high altitude is much lower than at 
+Earth’s surface , so the balloons expanded and eventually burst. 
+P14.39 
+We assume that the mass of the balloon envelope is included in the  
+400 kg. We assume that the 400-kg total load is much denser than air 
+and so has negligible volume compared to the helium. At z = 8 000 m, 
+the density of air is 
+ 
+ 
+ 
+ρair = ρ0e−z 8 000 = (1.20 kg/m3)e−1
+= (1.20 kg/m3)(0.368)
+= 0.441 kg/m3
+ 
+ 
+Think of the balloon reaching equilibrium at this height. The weight of 
+its payload is Mg = (400 kg)(9.80 m/s
+2) = 3 920 N. The weight of the 
+helium in it is mg = ρHeVg. 
+ 
+ 
+ 
+Fy = 0
+∑
+     →    +ρairVg −Mg −ρHeVg = 0 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+(ρair −ρHe)V = M 
+ 
+and  
+ 
+ 
+ 
+V =
+M
+ρair −ρHe
+=
+400 kg
+(0.441−0.179) kg/m3 = 1.52 × 103 m3
+
+--- PAGE 24 ---
+Chapter 14     761 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 14.5 
+Fluid Dynamics 
+Section 14.6 
+Bernoulli’s Equation 
+P14.40 
+(a) 
+The cross-sectional area of the hose is  
+ 
+ 
+ 
+A = πr2 = πd2 /4 = π 2.74 cm
+(
+)
+2 /4  
+ 
+ 
+and the volume flow rate (volume per unit time) is  
+ 
+ 
+ 
+Av = 25.0 L/1.50 min 
+ 
+ 
+Thus, 
+ 
+ 
+  
+v = 25.0 L 1.50 min
+A
+=
+25.0 L
+1.50 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+π ⋅2.74
+(
+)
+2 cm2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+103 cm3
+1 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 47.1 cm s
+(
+)
+1 m
+102 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.471 m s
+ 
+ 
+(b) 
+A2
+A1
+= πd2
+2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+πd1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+d2
+d1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+9
+    or   A2 = A1
+9
+ 
+ 
+ 
+Then from the equation of continuity, A2v2 = A1v1 , we find 
+ 
+ 
+ 
+v2 =
+A1
+A2
+⎛
+⎝⎜
+⎞
+⎠⎟v1 = 9 0.471 m s
+(
+) = 4.24 m s 
+P14.41 
+Assuming the top is open to the atmosphere, then  
+ 
+ 
+  
+P1 = P0 
+ 
+Note P2 = P0 . The water pushes on the air just as hard as the air pushes 
+on the water. 
+ 
+ 
+ 
+Flow rate = 2.50 × 10−3 m3 min = 4.17 × 10−5 m3 s 
+ 
+(a) 
+A1 >> A2 
+so 
+ v1 << v2 
+ 
+ 
+Assuming v1 = 0, 
+ 
+ 
+ 
+P1 + ρv1
+2
+2 + ρgy1 = P2 + ρv2
+2
+2 + ρgy2
+v2 =
+2gy1 =
+2 9.80 m/s2
+(
+) 16.0 m
+(
+) = 17.7 m/s
+ 
+ 
+(b) Flow rate = A2v2 =
+πd2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟17.7 m/s
+(
+) = 4.17 × 10−5 m3/s 
+ 
+ 
+ 
+d = 1.73 × 10−3 m = 1.73 mm
+
+--- PAGE 25 ---
+762     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.42 
+(a) 
+The mass flow rate and the volume flow rate are constant: 
+ 
+ 
+ 
+ρA1v1 = ρA2v2   →   πr1
+2v1 = πr2
+2v2 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+(3.00 cm)2v1 = (1.50 cm)2v2   →   v2 = 4v1
+ 
+ 
+ 
+ 
+For ideal flow, 
+ 
+ 
+ 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2 
+ 
+  
+ 
+1.75 × 104 Pa + 0 + 1
+2 1 000 kg m3
+(
+) v1
+(
+)
+2
+                        = 1.20 × 104 Pa +(1000)(9.8)(0.250) Pa
+                                                      + 1
+2 1 000 kg m3
+(
+)(4v1)2
+ 
+ 
+  
+Solving for v1 gives 
+ 
+  
+ 
+v1 =
+3 050 Pa
+7 500 kg m3 = 0.638 m s
+ 
+ 
+(b) From part (a), we have 
+ 
+ 
+ 
+v2 = 4v1 = 2.55 m/s 
+ 
+(c) 
+The volume flow rate is 
+ 
+ 
+ 
+πr1
+2v1 = π(0.030 0 m)2(0.638 m/s) = 1.80 × 10−3 m3/s 
+P14.43 
+The volume flow rate is 
+ 
+ 
+ 
+ΔV
+Δt = 125 cm3
+16.3 s
+= 7.67 cm3 s = Av1 
+ 
+where d = 0.96 cm and A = πr2 = 0.724 cm2. The speed at the top of the 
+falling column is 
+ 
+ 
+ 
+v1 = ΔV/Δt
+A
+= 7.67 cm3/s
+0.724 cm3 = 10.6 cm/s
+ 
+ 
+Take point 2 at 13 cm below: 
+ 
+ 
+ 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2
+
+--- PAGE 26 ---
+Chapter 14     763 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P14.44 
+ 
+ 
+ 
+P0 + 1 000 kg m3
+(
+) 9.80 m/s2
+(
+)0.130 m
+                    + 1
+2 1 000 kg m3
+(
+) 0.106 m s
+(
+)
+2
+= P0 + 0 + 1
+2 1 000 kg m3
+(
+)v2
+2
+ 
+ 
+solving for the velocity gives 
+ 
+ 
+ 
+v2 =
+2 9.80 m/s2
+(
+) 0.130 m
+(
+) + 0.106 m/s
+(
+)
+2 = 1.60 m/s
+ 
+ 
+The volume flow rate is constant: 
+ 
+ 
+ 
+7.67 cm3 s = π d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+160 cm s
+d = 0.247 cm
+ 
+P14.44 
+Take point  at the free surface of the water in the 
+tank and  inside the nozzle. 
+ 
+(a) 
+With the cork in place, 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2  
+ 
+ 
+becomes  
+ 
+ 
+ 
+P0 + 1 000 kg/m3
+(
+) 9.80 m/s2
+(
+) 7.50 m
+(
+) + 0 = P2 + 0 + 0 
+P2 −P0 = 7.35 × 104 Pa 
+ 
+ 
+For the stopper, 
+ 
+ 
+ 
+ 
+Fx
+∑
+= 0 
+ 
+ 
+ 
+Fwater −Fair −f = 0
+P2A −P0A = f
+f = 7.35 × 104 Pa
+(
+)π 0.011 0 m
+(
+)
+2 = 27.9 N
+ 
+ 
+(b) Now Bernoulli’s equation gives 
+ 
+ 
+ 
+P0 + 7.35 × 104 Pa + 0 = P0 + 0 + 1
+2 1 000 kg/m3
+(
+)v2
+2
+v2 = 12.1 m/s
+
+--- PAGE 27 ---
+764     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The quantity leaving the nozzle in 2 h is  
+ 
+ 
+  
+ρV = ρAv2t
+= 1 000 kg/m3
+(
+)π 0.011 0 m
+(
+)
+2 12.1 m/s
+(
+) 7 200 s
+(
+)
+= 3.32 × 104 kg
+ 
+ 
+(c) 
+Take point 1 in the wide hose and 2 just outside the nozzle. 
+Applying the continuity equation: 
+ 
+ 
+ 
+A1v1 = A2v2
+π 6.60 cm
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v1 = π
+2.20 cm
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+12.1 m/s
+(
+)
+v1 = 12.1 m/s
+9
+= 1.35 m/s
+ 
+ 
+ 
+ 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2
+P1 + 0 + 1
+2 1 000 kg/m3
+(
+) 1.35 m/s
+(
+)
+2
+           = P0 + 0 + 1
+2 1 000 kg/m3
+(
+) 12.1 m/s
+(
+)
+2
+P1 −P0 = 7.35 × 104 Pa −9.07 × 102 Pa = 7.26 × 104 Pa
+ 
+P14.45 
+(a) 
+Between sea surface and clogged hole:      
+ 
+ 
+ 
+P1 + 1
+2 ρv1
+2 + ρgy1 = P2 + 1
+2 ρv2
+2 + ρgy2 
+ 
+ 
+ 
+1 atm + 0 + 1 030 kg/m3
+(
+) 9.80 m/s2
+(
+) 2.00 m
+(
+) = P2 + 0 + 0    
+ 
+ 
+ 
+P2 = 1 atm + 20.2 kPa 
+ 
+ 
+The air on the back of his hand pushes opposite the water, so the 
+net force on his hand is 
+ 
+ 
+ 
+F = PA = 20.2 × 103 N/m2
+(
+) π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟1.2 × 10−2 m
+(
+)
+2  
+ 
+ 
+ 
+F = 2.28 N toward Holland 
+ 
+(b) Now, Bernoulli’s equation gives 
+ 
+ 
+ 
+1 atm + 0 + 20.2 kPa = 1 atm + 1
+2 1 030 kg/m3
+(
+)v2
+2 + 0
+ 
+ 
+ 
+ 
+v2 = 6.26 m/s
+
+--- PAGE 28 ---
+Chapter 14     765 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The volume rate of flow is  
+ 
+ 
+ 
+A2v2 = π
+4 1.2 × 10−2 m
+(
+)
+2 6.26 m/s
+(
+) = 7.08 × 10−4 m3/s
+  
+ 
+ 
+One acre–foot is 4 047 m2 × 0.304 8 m = 1 234 m3. 
+ 
+ 
+Requiring 
+1 234 m3
+7.08 × 10−4 m3/s = 1.74 × 106 s = 20.2 days. 
+P14.46 
+(a) 
+Power is the rate of energy flow as a function of time: 
+ 
+ 
+ 
+P = ΔE
+Δt = Δmgh
+Δt
+=
+Δm
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟gh = Rgh 
+ 
+(b) The power delivered by the Grand Coulee dam is 
+ 
+ 
+ 
+PEL = 0.85 8.50 × 105 kg/s
+(
+) 9.80 m/s2
+(
+) 87.0 m
+(
+) = 616  MW 
+P14.47 
+(a) 
+The cross-sectinal area is the same everywhere, so the speed is the 
+same everywhere: 
+ 
+ 
+ 
+P + 1
+2 ρv2 + ρgy
+⎛
+⎝⎜
+⎞
+⎠⎟
+river
+= P + 1
+2 ρv2 + ρgy
+⎛
+⎝⎜
+⎞
+⎠⎟
+rim
+ 
+ 
+ 
+ 
+P + 0 + ρg 564 m
+(
+) = 1 atm + 0 + ρg 2 096 m
+(
+)
+P = 1 atm + 1 000 kg/m3
+(
+) 9.80 m/s2
+(
+) 1 532 m
+(
+)
+  = 1 atm + 15.0 MPa
+ 
+ 
+(b) The volume flow rate is 4 500 m3/d = Av = πd2v
+4
+. 
+ 
+ 
+ 
+v = 4 500 m3/d
+(
+)
+1 d
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+π 0.150 m
+(
+)
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.95 m/s
+ 
+P14.48 
+(a) 
+The volume flow rate is the same at the two points: A1v1 = A2v2: 
+ 
+ 
+ 
+π 1 cm
+(
+)
+2 v1 = π 0.5 cm
+(
+)
+2 v2   →   v2 = 4v1
+ 
+ 
+ 
+We assume the tubes are at the same elevation: 
+ 
+ 
+ 
+P1 + 1
+2 ρv1
+2 + ρgy1 = P2 + 1
+2 ρv2
+2 + ρgy2
+P1 −P2 = ΔP = 1
+2 ρ(4v1)2 + 0 −1
+2 ρv1
+2
+ΔP = 1
+2 (850 kg/m3) 15v1
+2    
+v1 = 0.012 5 m/s
+(
+) ΔP     
+ 
+ 
+ 
+where the pressure is in pascals.
+
+--- PAGE 29 ---
+766     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The volume flow rate is  
+ 
+ 
+ 
+π 0.01 m
+(
+)
+2 0.0125 m/s
+(
+) ΔP
+             =
+3.93 × 10−6 m3/s
+(
+) ΔP,   where ΔP is in pascals
+ 
+ 
+(b) For ΔP = 6.00 kPa,  
+ 
+ 
+ 
+3.93 × 10−6 m3/s
+(
+) 6 000 Pa = 0.305 L/s 
+ 
+(c)  With pressure difference 2 times larger, the flow rate is larger by 
+the square root of 2:  
+ 
+ 
+ 
+2 0.305 L/s
+(
+) = 0.431 L/s  
+P14.49 
+(a) 
+Since the tube is horizontal, y1 = y2 and the 
+gravity terms in Bernoulli’s equation 
+cancel, leaving 
+ 
+ 
+ 
+P1 + 1
+2 ρv1
+2 = P2 + 1
+2 ρv2
+2 
+ 
+ 
+or 
+ 
+ 
+ 
+v2
+2 −v1
+2 = 2 P1 −P2
+(
+)
+ρ
+=
+2 1.20 × 103 Pa
+(
+)
+7.00 × 102 kg m3 
+ 
+ 
+and 
+ 
+ 
+ 
+v2
+2 −v1
+2 = 3.43 m2 s2 
+[1] 
+ 
+ 
+From the continuity equation, A1v1 = A2v2, we find 
+ 
+ 
+ 
+v2 =
+A1
+A2
+⎛
+⎝⎜
+⎞
+⎠⎟v1 =
+r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v1 =
+2.40 cm
+1.20 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v1 
+ 
+ 
+or 
+ 
+ 
+ 
+v2 = 4v1 
+ 
+[2] 
+ 
+ 
+Substituting equation [2] into [1] yields 15v1
+2 = 3.43 m2 s2 and  
+ 
+ 
+ 
+v1 = 0.478 m/s 
+ 
+ 
+Then, equation [2] gives  
+ 
+ 
+ 
+v2 = 4 0.478 m/s
+(
+) = 1.91 m/s 
+ANS. FIG. P14.49
+
+--- PAGE 30 ---
+Chapter 14     767 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The volume flow rate is 
+ 
+ 
+ 
+A1v1 = A2v2 = πr2
+2
+(
+)v2 = π 1.20 × 10−2 m
+(
+)
+2 1.91 m/s
+(
+)
+= 8.64 × 10−4 m3/s
+ 
+P14.50 
+(a) 
+For upward flight of a water-drop projectile from geyser vent to 
+fountain–top, vyf
+2 = vyi
+2 + 2ayΔy. 
+ 
+ 
+Then 0 = vi
+2 + 2 −9.80 m s2
+(
+) +40.0 m
+(
+)   and  vi = 28.0 m/s . 
+ 
+(b) Between geyser vent and fountain-top:  
+ 
+ 
+ 
+P1 + 1
+2 ρv1
+2 + ρgy1 = P2 + 1
+2 ρv2
+2 + ρgy2 
+ 
+ 
+Air is so low in density that very nearly P1 = P2 = 1 atm. Then, 
+ 
+ 
+ 
+1
+2 v1
+2 + 0 = 0 + 9.80 m/s2
+(
+) 40.0 m
+(
+) 
+ 
+ 
+ 
+v1 = 28.0 m/s 
+ 
+(c) 
+The answers agree precisely. The models are consistent with
+each other.
+ 
+ 
+(d) Between the chamber and the fountain-top: 
+P1 + 1
+2 ρv1
+2 + ρgy1 = P2 + 1
+2 ρv2
+2 + ρgy2 
+ 
+ 
+P1 + 0 + 1 000 kg m3
+(
+) 9.80 m s2
+(
+) −175 m
+(
+)
+= P0 + 0 + 1 000 kg m3
+(
+) 9.80 m s2
+(
+) +40.0 m
+(
+)
+P1 −P0 = 1 000 kg m3
+(
+) 9.80 m s2
+(
+) 215 m
+(
+) = 2.11 MPa
+ 
+ 
+ 
+	  
+Section 14.7 
+Other Applications of Fluid Dynamics 
+P14.51 
+The assumption of incompressibility is surely unrealistic, but allows an 
+estimate of the speed. From Bernoulli’s equation, 
+ 
+ 
+ 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2
+1.00 atm + 0 + 0 = 0.287 atm + 0 + 1
+2 1.20 kg/m3
+(
+)v2
+2
+
+--- PAGE 31 ---
+768     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P14.53 
+ 
+solving for the velocity gives 
+ 
+ 
+ 
+v2 =
+2 1.00 −0.287
+(
+) 1.013 × 105 N/m2
+(
+)
+1.20 kg/m3
+= 347 m/s
+ 
+P14.52 
+(a) 
+Force balance requires that 
+ 
+ 
+ 
+Mg = P1 −P2
+(
+)A  
+ 
+ 
+ 
+16 000 kg
+(
+) 9.80 m/s2
+(
+)
+2 40.0 m2
+(
+)
+= 7.00 × 104 Pa −P2
+ 
+ 
+ 
+ 
+∴P2 = 7.0 × 104 Pa −0.196 × 104 Pa = 6.80 × 104 Pa 
+ 
+(b) 
+Higher. With the inclusion of another upward force due to
+deflection of air downward, the pressure difference does not
+need to be as great to keep the airplane in flight.
+ 
+P14.53 
+(a) 
+We use Bernoulli’s equation, 
+ 
+ 
+ 
+P0 + ρgh + 0 = P0 + 0 + 1
+2 ρv3
+2  
+ 
+ 
+which gives v3 =
+2gh. 
+ 
+ 
+If  h = 1.00 m, then v3 = 4.43 m/s . 
+ 
+(b) Again, from Bernoulli’s equation, 
+ 
+ 
+ 
+P + ρgy + 1
+2 ρv2
+2 = P0 + 0 + 1
+2 ρv3
+2 
+ 
+ 
+Since v2 = v3, 
+ 
+ 
+ 
+P = P0 −ρgy 
+ 
+ 
+Since P ≥2.3 kPa, the greatest possible siphon height is given by 
+ 
+ 
+ 
+y ≤P0 −P
+ρg
+= 1.013 × 105 Pa −2.30 × 103 Pa
+103 kg/m3
+(
+) 9.80 m/s2
+(
+)
+= 10.1 m
+ 
+P14.54 
+Take points 1 and 2 in the air just inside and outside the window pane. 
+ 
+ 
+ 
+P1 + 1
+2 ρv1
+2 + ρgy1 = P2 + 1
+2 ρv2
+2 + ρgy2
+P0 + 0 = P2 + 1
+2 1.20 kg/m3
+(
+) 11.2 m/s
+(
+)
+2
+→
+P2 = P0 −75.3 Pa
+
+--- PAGE 32 ---
+Chapter 14     769 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+The total force exerted by the air is outward, 
+ 
+ 
+ 
+P1A −P2A = P0A −P0A + 75.3 N/m2
+(
+) 4.00 m
+(
+) 1.50 m
+(
+)
+= 452 N outward
+ 
+ 
+(b) 
+P1A −P2A = 1
+2 ρv2
+2A = 1
+2 1.20 kg/m3
+(
+) 22.4 m/s
+(
+)
+2 4.00 m
+(
+) 1.50 m
+(
+)
+= 1.81 kN outward
+ 
+P14.55 
+In the reservoir, the gauge pressure is 
+ 
+ 
+ 
+ΔP =
+2.00 N
+2.50 × 10−5 m2
+= 8.00 × 104 Pa
+ 
+ 
+ 
+From the equation of 
+continuity, we have  
+ 
+ 
+  
+ 
+A1v1 = A2v2
+2.50 × 10−5 m2
+(
+)v1 = 1.00 × 10−8 m2
+(
+)v2  so  v1 = 4.00 × 10−4
+(
+)v2
+  
+ 
+Thus, v1
+2 is negligible in comparison to v2
+2 . In Bernoulli’s equation, 
+(P1 −P2) + 1
+2 ρv1
+2 + ρgy1 = 1
+2 ρv2
+2 + ρgy2 , the term in v1
+2 is essentially zero 
+and the terms in y1 and y2 cancel each other. Then,  
+ 
+ 
+ 
+v2 =
+2(P1 −P2)
+ρ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+=
+2(8.00 × 104 Pa)
+1 000 kg/m3
+= 12.6 m/s 
+ 
+ 
+ 
+Additional Problems 
+*P14.56 
+The water exerts a buoyant force on the air, given by 
+ 
+ 
+ 
+B = ρfluidgV = 1 000 kg/m3
+(
+) 9.80 m/s2
+(
+) 10.0 L
+(
+) 1 m3
+103 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 98.0 N up
+  
+ 
+The weight of the air is 
+ 
+ 
+ 
+Fg = ρ gV = 2.40 kg/m3
+(
+) 9.80 m/s2
+(
+) 10.0 × 10−3 m3
+(
+)
+= 0.235 N down
+ 
+ 
+To transport the air down at constant speed requires a downward 
+force D in +98.0 N – 0.235 N – D = 0, D = 97.8 N, and work 
+ 
+ 
+ 
+W =
+
+D⋅
+
+d = 97.8 N
+(
+) 10.3 m
+(
+) cos 0° = 1.01 kJ 
+ 
+ANS. FIG. P14.55
+
+--- PAGE 33 ---
+770     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.57 
+(a) 
+At a depth of 1 000 m, 
+ 
+ 
+ 
+P = P0 + ρgh = 1.013 × 105 Pa
+                              + 1 030 kg m3
+(
+) 9.80 m s2
+(
+) 1 000 m
+(
+)
+ 
+ 
+ 
+ 
+P = 1.02 × 107 Pa 
+ 
+(b) The buoyant force on the submarine at this depth is 
+ 
+ 
+ 
+B = ρgV = ρg 4
+3 πr3 = 1 030 kg m3
+(
+) 9.80 m s2
+(
+) 4
+3 π(2.50 m)3
+= 6.61× 105 N
+ 
+P14.58 
+The pressure on the surface of the two hemispheres is constant at all 
+points, and the force on each element of 
+surface area is directed along the radius of the 
+hemispheres. The applied force along the axis 
+must balance the force on the “effective” area, 
+which is the projection of the actual surface 
+onto a plane perpendicular to the x axis, 
+A = πR2. Therefore, 
+ 
+ 
+ 
+ 
+F =
+P0 −P
+(
+)πR2 
+P14.59 
+(a) 
+The weight of the ball must be equal to the buoyant force of the 
+water: 
+ 
+ 
+ 
+1.26 kg g = ρwater
+4
+3 πrouter
+3
+g
+router =
+3 × 1.26 kg
+4π 1 000 kg m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 6.70 cm
+ 
+ 
+(b) The mass of the ball is determined by the density of aluminum: 
+ 
+ 
+ 
+m = ρAlV = ρAl
+4
+3 πr0
+3 −4
+3 πri
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.26 kg = 2700 kg m3 4
+3 π
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.067 m
+(
+)
+3 −ri
+3
+(
+)
+1.11 × 10−4 m3 = 3.01 × 10−4 m3 −ri
+3
+ri = 1.89 × 10−4 m3
+(
+)
+1 3 = 5.74 cm
+ 
+ANS. FIG. P14.58
+
+--- PAGE 34 ---
+Chapter 14     771 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.60 
+(a) 
+A particle in equilibrium model 
+ 
+(b) When the balloon comes into equilibrium, we must have 
+ 
+ 
+ 
+Fy
+∑
+= B−Fb −F He −Fs = 0
+ 
+ 
+ 
+where B is the buoyant force, Fb the weight of the balloon, FHe the 
+weight of the helium, and Fs the weight of the segment of string 
+above the ground. 
+ 
+(c) 
+Write expressions for each of the terms in the force equation: 
+ 
+ 
+ 
+B = ρairVg = ρair
+4
+3 πr3g
+Fb = mbg
+F He = ρHeVg = ρHe
+4
+3 πr3g
+ 
+ 
+ 
+and   Fs = msg;   where ms = m h
+ 
+ 
+ 
+Therefore, we have 
+ 
+ 
+ 
+ρairVg −mb g −ρHeVg −ms g = 0 
+ 
+ 
+or  
+ ms = ρair −ρHe
+(
+)V −mb →ms = ρair −ρHe
+(
+) 4
+3 πr2 −mb 
+ 
+(d) 
+ms =  (1.20–0.179) kg/m3
+⎡⎣
+⎤⎦
+4
+3 π(0.400 m)3
+⎡
+⎣⎢
+⎤
+⎦⎥– 0.250 kg
+ =  0.023 7 kg
+ 
+ 
+(e) 
+ms = m h
+
+→h = ms
+m  = (2.00 m) 0.023 7 kg
+0.050 0 kg  =  0.948 m 
+P14.61 
+Consider the diagram in ANS. FIG. P14.61 and apply Bernoulli’s 
+equation to points A and B, taking y = 0 at the level of point B, and 
+recognizing that vA is approximately zero. This gives: 
+ 
+ 
+ 
+PA + 1
+2 ρw 0( )
+2 + ρwg h −Lsinθ
+(
+) = PB + 1
+2 ρwvB
+2 + ρwg 0( ) 
+ 
+Now, recognize that PA = PB = Patmosphere since both points are open to 
+the atmosphere (neglecting variation of atmospheric pressure with 
+altitude). Thus, we obtain 
+ 
+ 
+ 
+vB =
+2g h −Lsinθ
+(
+)
+
+--- PAGE 35 ---
+772     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now the problem reduces to one of projectile motion with vyi = vB sin θ. 
+Then using, vyf
+2 = vyi
+2 + 2a Δy
+(
+), where y = ymax,vyf = 0, and a = –g, we 
+find 
+ 
+ 
+ 
+Δy =
+0 −vyi
+2
+2a
+= −vB
+2 sin2θ
+2 −g
+(
+)
+= 2g h −Lsinθ
+(
+)
+[
+]sin2θ
+2g
+Δy = h −Lsinθ
+(
+)sin2θ
+ 
+ 
+ 
+ 
+Δy = 10.0 m −2.00 m
+(
+)sin30.0°
+[
+]sin2 30.0°
+ymax = 2.25 m above the level where the water emerges
+(
+)
+ 
+ 
+ 
+ANS. FIG. P14.61 
+P14.62 
+The “balanced” condition is one in which the apparent weight of the 
+body equals the apparent weight of the weights. This condition can be 
+written as 
+ 
+ 
+ 
+Fg −B =
+′
+Fg −
+′
+B 
+ 
+where B and B′ are the buoyant forces on the body and weights, 
+respectively. The buoyant force experienced by an object of volume V 
+in air equals 
+ 
+ 
+ 
+Buoyant force = Volume of object
+(
+)ρairg 
+ 
+so we have B = Vρairg  and 
+ 
+ 
+ 
+ 
+′
+B =
+′
+Fg
+ρg
+⎛
+⎝⎜
+⎞
+⎠⎟ρairg 
+ 
+Therefore, Fg =
+′
+Fg + V −
+′
+Fg
+ρg
+⎛
+⎝⎜
+⎞
+⎠⎟ρairg.
+
+--- PAGE 36 ---
+Chapter 14     773 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.63 
+Assume vinside ≈0. From Bernoulli’s equation,  
+ 
+ 
+ 
+P + 0 + 0 = 1 atm + 1
+2 1 000 kg/m3
+(
+) 30.0 m/s
+(
+)
+2
+                                + 1 000 kg/m3
+(
+) 9.80 m/s2
+(
+) 0.500 m
+(
+)
+ 
+ 
+ 
+ 
+Pgauge = P −1 atm = 4.50 × 105 Pa + 4.90 × 103 Pa
+        =
+455 kPa
+ 
+P14.64 
+Let the ball be released at point 1, enter the liquid at point 2, attain 
+maximum depth at point 3, and pop through the surface on the way 
+up at point 4. 
+ 
+(a) 
+Energy conservation for the fall through the air: 
+ 
+ 
+ 
+Ki +Ui = K f +U f 
+ 
+ 
+ 
+0 + mgy1 = 1
+2 mv2
+2
+v2 =
+2gy1 =
+2 9.80 m/s2
+(
+) 3.30 m
+(
+) = 8.04 m/s
+ 
+ 
+(b) 
+The gravitational force and the buoyant force. 
+ 
+ 
+The gravitational force is  
+ 
+ 
+ 
+mg = (2.10 kg)(9.80 N/kg) = 20.6 N down  
+ 
+ 
+and the buoyant force is  
+ 
+ 
+ 
+mfluidg = ρfluidVobjectg = ρfluid 4/3
+(
+)πr3g
+= 1 230 kg/m3
+(
+) 4π/3
+(
+) 0.090 0 m
+(
+)
+3 9.80 m/s2
+(
+)
+= 36.8 N up
+ 
+ 
+(c) 
+The buoyant force is greater than the gravitational force. 
+ 
+ 
+The net upward force on the ball brings its downward motion to
+a stop.
+ 
+ 
+ 
+We choose to use the work-kinetic energy theorem. 
+ 
+ 
+ 
+1
+2 mv2
+2 + Fnet ⋅Δy = 1
+2 mv3
+2 
+ 
+ 
+ 
+1
+2 2.10 kg
+(
+) 8.04 m s
+(
+)
+2 + 36.8 N −20.6 N
+(
+) −Δy
+(
+) = 0
+ 
+ 
+ 
+ 
+Δy = 67.9 J/16.2 N = 4.18 m
+
+--- PAGE 37 ---
+774     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The same net force acts on the ball over the same distance as it 
+moves down and as it moves up, to produce the same speed 
+change. Thus v4 = 8.04 m/s . 
+ 
+(e) 
+The time intervals are equal , because the ball moves with the 
+same range of speeds over equal distance intervals. 
+ 
+(f) 
+With friction present, Δtdown is less than Δtup. The magnitude 
+of the ball’s acceleration on the way down is greater than its 
+acceleration on the way up. The two  motions cover equal 
+distances and both have zero speed at one end point, so the 
+downward trip with larger-magnitude acceleration must take 
+less time.
+ 
+P14.65 
+At equilibrium, 
+Fy
+∑
+= 0:     B−Fspring −Fg, He −Fg, balloon = 0 
+ 
+giving  
+Fspring = kL = B−mHe + mballoon
+(
+)g  
+ 
+But B = weight of displaced air = ρairVg 
+ 
+and  
+ 
+mHe = ρHeV 
+ 
+Therefore, we have kL = ρairVg −ρHeVg −mballoong 
+ 
+or 
+ 
+ 
+L = ρair −ρHe
+(
+)V −mballoon
+k
+g 
+ 
+From the data given, 
+ 
+ 
+L =
+1.20 −0.179
+(
+) kg/m3
+⎡⎣
+⎤⎦5.00 m3
+(
+)−2.00 × 10−3 kg
+90.0 N m
+9.80 m s2
+(
+)
+ 
+ 
+Thus, this gives L = 0.556 m. 
+ 
+ANS. FIG. P14.65
+
+--- PAGE 38 ---
+Chapter 14     775 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P14.66 
+Consider spherical balloons of radius 12.5 cm containing helium at STP 
+and immersed in air at 0°C and 1 atm. If the rubber envelope has mass 
+5.00 g, the upward force on each is 
+ 
+ 
+ 
+Fup = B−Fg,He −Fg,env = ρairVg −ρHeVg −menvg
+Fup = ρair −ρHe
+(
+) 4
+3πr3
+(
+)g −menvg
+Fup =
+1.29 −0.179
+(
+) kg/m3
+[
+] 4
+3π 0.125 m
+(
+)3
+⎡
+⎣⎢
+⎤
+⎦⎥9.80 m/s2
+(
+)
+                                   −5.00 × 10−3 kg
+(
+) 9.80 m/s2
+(
+) = 0.040 1 N
+ 
+ 
+If your weight (including harness, strings, and submarine sandwich) is 
+ 
+ 
+ 
+70.0 kg 9.80 m/s2
+(
+) = 686 N 
+ 
+you need this many balloons: 
+ 
+ 
+ 
+686 N
+0.040 1 N = 17 000 ~ 104 
+P14.67 
+The buoyant force B supports the weights of the raft and the boy. 
+Using M = mass of boy, V = volume of raft, ρst = density of Styrofoam, 
+and ρw = density of water, and the volume of the raft is  
+ 
+ 
+ 
+V = (1.00 m)(1.00 m)(0.050 m) = 0.050 m
+3 
+ 
+From Newton’s second law, 
+ 
+ 
+ 
+Fy
+∑
+= 0:    B−Mg −ρstgV = 0   →   ρwgV −Mg −ρstgV = 0 
+ 
+Solving for ρst we get  
+ 
+ 
+ 
+ρst = ρw −M
+V = 1 000 kg/m3 −
+42.0 kg
+0.050 0 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 160 kg/m3 
+*P14.68 
+(a) 
+The blood flowing through the artery is similar to water flowing 
+through a pipe. We substitute numerical values into the equation 
+for the Reynolds number: 
+ 
+ 
+ 
+Re =  1.06 × 103 kg/m3
+(
+) 6.70 × 10−2 m/s
+(
+) 3.00 × 10−2 m
+(
+)
+3.00 × 10−3 Pa · s 
+ 
+= 710
+ 
+ 
+ 
+Because this result is less than 2 300, the flow is laminar. 
+  
+(b)  Denote the situation in part (a) using subscripts 1. In the 
+expression for the Reynolds number for the capillary, which we
+
+--- PAGE 39 ---
+776     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+denote as situation 2, incorporate the continuity equation for 
+fluids as the blood flows into the smaller blood vessel: 
+ 
+ 
+ 
+Re2 =  ρv2d2
+µ
+ = 
+ρv1
+A1
+A2
+⎛
+⎝⎜
+⎞
+⎠⎟2r2
+(
+)
+µ
+ = 
+ρv1
+πr1
+2
+πr2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2r2
+(
+)
+µ
+ = 2ρv1r1
+2
+µr2
+ 
+ 
+ 
+Solve the resulting equation for the radius of the capillary: 
+ 
+ 
+ 
+r2 =  2ρv1r1
+2
+µ Re2
+(
+)
+ 
+ 
+ 
+Substitute numerical values, including a Reynolds number 
+representing turbulent flow: 
+ 
+ 
+ 
+r2 = 2 1.06 × 103 kg/m3
+(
+) 6.70 × 10−2 m/s
+(
+) 1.50 × 10−2 m
+(
+)
+2
+3.00 × 10−3 Pa · s
+(
+) 4 000
+(
+)
+ 
+    =  2.66 × 10−3 m
+ 
+ 
+(c)  
+The situation in the human body is not represented by a 
+large artery feeding into a single capillary as in part (b). 
+The artery branches into smaller vessels and eventually 
+into approximately 10 billion capillaries. Even though the 
+radius of each capillary is very small, the overall area through 
+which the blood flows in all the capillaries is larger than the 
+area of the artery in part (a).  Consequently, in the expression 
+for the Reynolds number, both the speed of the blood and the 
+diameter is very small for each capillary, representing a very 
+low value for the Reynolds number and, consequently, laminar 
+flow.
+  
+P14.69 
+(a) 
+P = ρgh gives 1.013 × 105 Pa = 1.29 kg/m3
+(
+) 9.80 m/s2
+(
+)h.  
+ 
+ 
+h = 8.01 km 
+ 
+(b) For Mt. Everest,  29 300 ft = 8.88 km, Yes .
+
+--- PAGE 40 ---
+Chapter 14     777 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P14.70 
+P14.70 
+(a) 
+The torque is  
+ 
+ 
+ 
+ 
+τ =
+dτ
+∫
+=
+rdF
+∫
+ 
+ 
+ 
+From ANS. FIG. P14.70, 
+ 
+ 
+ 
+τ =
+y ρg H −y
+(
+)wdy
+⎡⎣
+⎤⎦
+0
+H
+∫
+=
+1
+6 ρgwH 3
+ 
+ 
+(b) The total force is given as 1
+2 ρgwH 2. 
+ 
+ 
+If this were applied at a height yeff such that 
+the torque remains unchanged, we have 
+ 
+ 
+ 
+1
+6 ρgwH 3 = yeff
+1
+2 ρgwH 2
+⎡
+⎣⎢
+⎤
+⎦⎥  and 
+yeff =
+1
+3 H 
+P14.71 
+Looking first at the top scale and the iron block, we have 
+ 
+ 
+ 
+T + B = Fg, iron 
+ 
+where T is the tension in the spring scale, B is the buoyant force, and 
+Fg, iron is the weight of the iron block. Now if miron is the mass of the 
+iron block, we have 
+ 
+ 
+ 
+miron = ρironV 
+ 
+ 
+so 
+ 
+ V = miron
+ρiron
+= Vdisplaced oil 
+ 
+Then,  
+B = ρoilVirong 
+ 
+Therefore,  
+ 
+ 
+ 
+T = Fg, iron −ρoilVirong = mirong −ρoil
+miron
+ρiron
+ 
+ 
+or 
+ 
+ 
+ 
+ 
+T = 1−ρoil
+ρiron
+⎛
+⎝⎜
+⎞
+⎠⎟mirong
+= 1−916 kg/m3
+7 860 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 kg
+(
+) 9.80 m/s2
+(
+)
+= 17.3 N
+
+--- PAGE 41 ---
+778     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Next, we look at the bottom scale which reads n (i.e., exerts an upward 
+normal force n on the system). Consider the external vertical forces 
+acting on the beaker-oil-iron combination. 
+ 
+ 
+ 
+Fy
+∑
+= 0 gives 
+ 
+ 
+ 
+T + n −Fg,beaker −Fg,oil −Fg,iron = 0 → 
+ 
+ 
+ 
+n = mbeaker+moil+miron
+(
+)g −T = 5.00 kg
+(
+) 9.80 m/s2
+(
+) −17.3 N 
+ 
+Thus, n = 31.7 N is the lower scale reading.  
+P14.72 
+Looking at the top scale and the iron block: 
+ 
+T + B = Fg, Fe, 
+where 
+B = ρoVFeg = ρo
+mFe
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟g 
+ 
+is the buoyant force exerted on the iron block by the oil. 
+ 
+Thus, T = Fg, Fe −B = mFeg −ρo
+mFe
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟g, 
+ 
+or 
+T =
+1−ρo
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟mFeg is the reading on the top scale. 
+ 
+Now, consider the bottom scale, which exerts an upward force of n on 
+the beaker-oil-iron combination. 
+ 
+ 
+ 
+Fy
+∑
+= 0: 
+ 
+ 
+ 
+ 
+T + n −Fg,beaker −Fg,oil −Fg,Fe = 0
+n = (mb + mo + mFe)g −T
+n = (mb + mo + mFe)g −1−ρo
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟mFeg
+ 
+ 
+or the reading of the bottom scale is  
+ 
+ 
+ 
+n = mb + mo +
+ρo
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟ mFe
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ g
+ 
+P14.73 
+Let f represent the fraction of the volume V occupied by zinc in the 
+new coin. We have m = ρV for both coins: 
+ 
+ 
+ 
+3.083 g = (8.920 g cm3)V 
+ 
+and  
+2.517 g = 7.133 g/cm3
+(
+)( f V)+ 8.920 g/cm3
+(
+)(1−f )V
+
+--- PAGE 42 ---
+Chapter 14     779 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+By substitution, 
+ 
+ 
+ 
+2.517 g = (7.133 g cm3) f V + 3.083 g −(8.920 g cm3) f V
+f V =
+3.083 g – 2.517 g
+8.920 g cm3 – 7.133 g cm3
+ 
+ 
+ 
+and again substituting to eliminate the volume, 
+ 
+  
+ 
+ 
+f =
+0.566 g
+1.787 g cm3
+8.920 g cm3
+3.083 g 
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.916 4 = 91.64%
+ 
+*P14.74 
+Let  represent the length below water at equilibrium and M the 
+tube’s mass: 
+ 
+ 
+ 
+Fy = 0
+∑
+ 
+gives 
+−Mg + ρπ r2g = 0 
+ 
+Now with any excursion x from equilibrium: 
+ 
+ 
+ 
+−Mg + ρπ r2 −x
+(
+)g = Ma 
+ 
+Subtracting the equilibrium equation gives:  
+ 
+ 
+ 
+−ρπ r2gx = Ma 
+ 
+ 
+ 
+a = −ρπ r2g
+M
+⎛
+⎝⎜
+⎞
+⎠⎟x = −ω 2x
+ 
+ 
+The opposite direction and direct proportionality of a to x imply SHM 
+with angular frequency 
+ 
+ 
+ 
+ω =
+ρπ r2g
+M
+ 
+ 
+ 
+ 
+T = 2π
+ω =
+2
+r
+π M
+ρ g
+ 
+P14.75 
+Pascal’s principle, F1
+A1
+= F2
+A2
+, or Fpedal
+AMaster
+cylinder
+= Fbrake
+Abrake
+cylinder
+, gives 
+ 
+ 
+ 
+Fbrake =
+Abrake cylinder
+Amaster cylinder
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟Fpedal =
+6.4 cm2
+1.8 cm2
+⎛
+⎝⎜
+⎞
+⎠⎟44 N
+(
+) = 156 N 
+ 
+This is the normal force exerted on the brake shoe. The frictional force 
+is 
+ 
+ 
+ 
+f = µkn = 0.50 156 N
+(
+) = 78 N 
+ 
+and the torque is τ = f ⋅rdrum = 78 N
+(
+) 0.34 m
+(
+) = 27 N ⋅m .
+
+--- PAGE 43 ---
+780     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P14.76 
+(a) 
+Since the upward buoyant force is balanced by the weight of the 
+sphere, 
+ 
+ 
+ m1g = ρVg = ρ 4
+3 πR3
+(
+)g 
+ 
+ 
+In this problem, ρ = 0.789 45 g/cm3 at 20.0°C, and R = 1.00 cm, so 
+we find 
+ 
+ 
+ 
+m1 = ρ 4
+3 πR3
+(
+) = 0.789 45 g/cm3
+(
+) 4
+3 π 1.00 cm
+(
+)3
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 3.307 g
+ 
+ 
+(b) Following the same procedure as in part (a), with 
+′
+ρ = 0.780 97 g/cm3 at 30.0°C, we find 
+ 
+ 
+ 
+m2 =
+′
+ρ
+4
+3 πR3
+(
+) = 0.780 97 g/cm3
+(
+) 4
+3 π 1.00 cm
+(
+)3
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 3.271 g
+ 
+ 
+(c) 
+When the first sphere is resting on the bottom of the tube, 
+n + B = Fg1 = m1g, where n is the normal force. 
+ 
+ 
+Since B =
+′
+ρ Vg, 
+ 
+ 
+ 
+n = m1g −
+′
+ρ Vg
+= 3.307 g −0.780 97 g/cm3
+(
+) 4
+3 π 1.00 cm
+(
+)3
+⎡
+⎣⎢
+⎤
+⎦⎥980 cm/s2
+(
+)
+n = 34.8 g ⋅cm/s2 = 3.48 × 10−4 N
+ 
+P14.77 
+The disk (mass M = 10.0 kg, radius R = 0.250 m) has moment of inertia 
+I = 1
+2 MR2. The disk slows from ωi = 300 rev/min to ω f = 0 in time 
+interval Δt = 60.0 s. Its angular acceleration is 
+ 
+ 
+ 
+α = Δω
+Δt =
+ω f −ωi
+Δt
+= −ωi
+Δt
+ 
+ 
+Frictional torque from the brake pad slows the wheel. Friction has 
+moment arm d = 0.220 m. The relation between friction and angular 
+acceleration is 
+ 
+ 
+ 
+τ
+∑
+= Iα:   −fd = Iα  →  f = −I
+dα = −
+1
+2 MR2
+d
+−ω i
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+→f = MR2ω i
+2dΔt
+
+--- PAGE 44 ---
+Chapter 14     781 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The normal force and coefficient of friction (µk = 0.500) between the 
+brake pad and the disk determine the amount of friction. We can write 
+an expression for the normal force: 
+ 
+ 
+ 
+f = µkn  →  n = f
+µk
+= MR2ωi
+2µkdΔt
+ 
+ 
+The pressure of the brake fluid acting on a piston of area A (diameter  
+D = 5.00 cm, radius r = D/2 = 0.0250 m) produces the normal force that 
+the brake pad exerts on the disk. The pressure in the brake fluid is 
+ 
+ 
+ 
+P =
+n
+πr2 =
+MR2ωi
+2µkdΔt
+(
+)πr2 
+ 
+ 
+ 
+P =
+(10.0 kg) 0.250 m
+(
+)
+2
+300 rev
+min
+⎛
+⎝
+⎞
+⎠
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60.0 s
+⎛
+⎝
+⎞
+⎠
+⎡
+⎣⎢
+⎤
+⎦⎥
+2 0.500
+(
+) 0.220 m
+(
+) 60.0 s
+(
+)π 0.0250 m
+(
+)
+2
+= 758 Pa
+ 
+P14.78 
+(a) 
+Since the pistol is fired horizontally, the emerging water stream 
+has initial velocity components of (v0x = vnozzle,v0y = 0). Then, 
+Δy = v0yt + 1
+2 ayt2, with ay = −g, gives the time of flight as 
+ 
+ 
+ 
+t =
+2 Δy
+(
+)
+ay
+=
+2 −1.50 m
+(
+)
+−9.80 m s2 = 0.553 s 
+ 
+(b) With ax = 0, and v0x = vnozzle, the horizontal range of the emergent 
+stream is Δx = vnozzlet, where t is the time of flight from above. 
+Thus, the speed of the water emerging from the nozzle is 
+ 
+ 
+ 
+vnozzle = Δx
+t = 8.00 m
+0.553 s = 14.5 m s 
+ 
+(c) 
+From the equation of continuity, A1v1 = A2v2, the speed of the 
+water in the larger cylinder is v1 = (A2/A1)v2 = (A2/A1)vnozzle, or 
+ 
+ 
+ 
+v1 = πr2
+2
+πr1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟vnozzle =
+r2
+r1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+vnozzle =
+1.00 mm
+10.0 mm
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+14.5 m s
+(
+)
+= 0.145 m s
+ 
+ 
+(d) The pressure at the nozzle is atmospheric pressure, or 
+P2 = 1.013 × 105 Pa .
+
+--- PAGE 45 ---
+782     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+With the two cylinders horizontal, y1 = y2 and gravity terms from 
+Bernoulli’s equation can be neglected, leaving  
+ 
+ 
+ 
+P1 + 1
+2 ρwv1
+2 = P2 + 1
+2 ρwv2
+2  
+ 
+ 
+so the needed pressure in the larger cylinder is 
+ 
+ 
+ 
+P1 = P2 + ρw
+2
+v2
+2 −v1
+2
+(
+)
+= 1.013 × 105 Pa
+        + 1.00 × 103 kg m3
+2
+14.5 m s
+(
+)
+2 −0.145 m s
+(
+)
+2
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+P1 = 2.06 × 105 Pa 
+ 
+(f) 
+To create an overpressure of ΔP = 2.06 × 105 Pa= 1.05 × 105 Pa in 
+the larger cylinder, the force that must be exerted on the piston is 
+ 
+ 
+ 
+F1 = ΔP
+(
+)A1 = ΔP
+(
+) πr1
+2
+(
+)
+= 1.05 × 105 Pa
+(
+)π 1.00 × 10−2 m
+(
+)
+2
+= 33.0 N
+ 
+P14.79 
+Energy for the fluid-Earth system is conserved. 
+ 
+ 
+ 
+K +U
+(
+)i = K +U
+(
+) f
+0 + mgL
+2
++ 0 = 1
+2 mv2 + 0
+v =
+gL =
+2.00 m
+(
+) 9.80 m/s2
+(
+) =
+4.43 m/s
+ 
+P14.80 
+(a) 
+The flow rate, Av, as given may be expressed as follows: 
+ 
+ 
+ 
+25.0 liters
+30.0 s
+= 0.833 liters/s = 833 cm3/s
+ 
+ 
+ 
+The area of the faucet tap is π cm2, so we can find the velocity as 
+ 
+v = flow rate
+A
+= 833 cm3/s
+π cm2
+= 265 cm/s = 2.65 m/s
+ 
+ 
+(b) We choose point 1 to be in the entrance pipe and point 2 to be at 
+the faucet tap. A1v1 = A2v2 gives v1 = 0.295 m/s. Bernoulli’s 
+equation is: 
+ 
+ 
+ 
+P1 −P2 = 1
+2 ρ v2
+2 −v1
+2
+(
+) + ρg y2 −y1
+(
+)
+
+--- PAGE 46 ---
+Chapter 14     783 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and gives 
+ 
+P1 −P2 = 1
+2 103 kg/m3
+(
+)
+2.65 m/s
+(
+)
+2 −0.295 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
++ 103 kg/m3
+(
+) 9.80 m/s
+(
+) 2.00 m
+(
+)
+ 
+ 
+ 
+or  
+Pgauge = P1 −P2 = 2.31× 104 Pa . 
+P14.81 
+(a) 
+Consider the pressure at points A and B in ANS. FIG. P14.81(b).  
+ 
+ 
+Using the left tube: PA = Patm + ρ
+w g L −h
+(
+) 
+ 
+ 
+Using the right tube: PB = Patm + ρogL 
+ 
+ 
+But Pascal’s principle says that PA = PB. 
+ 
+ 
+Therefore, Patm + ρ
+w g L −h
+(
+) = Patm + ρogL 
+ 
+ 
+or 
+ρwh = ρw −ρo
+(
+)L, giving 
+ 
+ 
+ 
+h =
+ρw −ρo
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟L
+=
+1 000 kg/m3 −750 kg/m3
+1 000 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟5.00 cm
+(
+)
+= 1.25 cm
+ 
+ 
+(b) Consider part (c) of the diagram showing  
+the situation when the air flow over the left  
+tube equalizes the fluid levels in the two  
+tubes. First, apply Bernoulli’s equation to  
+points A and B (yA = yB, vA = v, and  
+vB = 0). 
+ 
+ 
+This gives: 
+ 
+ 
+ 
+ 
+PA + 1
+2 ρav2 + ρagyA
+           = PB + 1
+2 ρa 0( )
+2 + ρagyB
+  
+ 
+ 
+and since yA = yB , this reduces to  
+ 
+ 
+ 
+PB −PA = 1
+2 ρav2 
+ [1] 
+ 
+ 
+Now consider points C and D, both at the level of the oil-water 
+interface in the right tube. Using the variation of pressure with 
+ANS. FIG. P14.81
+
+--- PAGE 47 ---
+784     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+depth in static fluids, we have 
+ 
+ 
+ 
+PC = PA + ρagH + ρwgL     
+ 
+ 
+and PD = PB + ρagH + ρogL 
+ 
+ 
+But Pascal’s principle says that PC = PD. Equating these two gives: 
+ 
+ 
+ 
+PB + ρagH + ρogL = PA + ρagH + ρwgL 
+ 
+ 
+or 
+PB −PA = ρw −ρo
+(
+)gL 
+[2] 
+ 
+ 
+Substitute equation [1] for PB −PA into [2] to obtain 
+1
+2 ρav2 = ρw −ρo
+(
+)gL 
+ 
+ 
+or 
+ 
+ 
+ 
+ 
+v =
+2gL ρw −ρo
+(
+)
+ρa
+=
+2 9.80 m/s2
+(
+) 0.050 0 m
+(
+) 1 000 kg/m3 −750 kg/m3
+1.20 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+v = 14.3 m/s
+  
+P14.82 
+Take point  at the free water surface in the tank and point  at the 
+bottom end of the tube: 
+ 
+ 
+ 
+P1 + ρgy1 + 1
+2 ρv1
+2 = P2 + ρgy2 + 1
+2 ρv2
+2
+P0 + ρgd + 0 = P0 + 0 + 1
+2 ρv2
+2
+v2 =
+2gd
+ 
+ 
+The volume flow rate is V
+t
+= Ah
+t
+= v2 ′
+A . Then t = Ah
+v2
+′
+A =
+Ah
+′
+A
+2gd .  
+P14.83 
+(a) 
+For diverging streamlines that pass just above and just below the 
+hydrofoil, we have 
+ 
+ 
+ 
+Pt + ρgyt + 1
+2
+ρvt
+2 = Pb + ρgyb + 1
+2
+ρvb
+2
+
+--- PAGE 48 ---
+Chapter 14     785 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Ignoring the buoyant force means taking yt ≈yb: 
+ 
+ 
+ 
+Pt + 1
+2
+ρ nvb
+(
+)
+2 = Pb + 1
+2
+ρvb
+2
+Pb −Pt = 1
+2
+ρvb
+2 n2 −1
+(
+)
+ 
+ 
+ 
+The lift force is Pb −Pt
+(
+)A = 1
+2 ρvb
+2 n2 −1
+(
+)A. 
+ 
+(b) For liftoff, 
+ 
+ 
+ 
+1
+2
+ρvb
+2 n2 −1
+(
+)A = Mg
+vb =
+2Mg
+ρ n2 −1
+(
+)A
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+1 2
+ 
+ 
+ 
+The speed of the boat relative to the shore must be nearly equal to 
+this speed of the water below the hydrofoil relative to the boat. 
+*P14.84 
+First, consider the path from the viewpoint of projectile motion to find 
+the speed at which the water emerges from the tank. From 
+Δy = vyit + 1
+2 ayt2  with vyi = 0, Δy = −1.00 m, and ay = −g,  we find the 
+time of flight as 
+ 
+ 
+ 
+t =
+2 Δy
+(
+)
+ay
+=
+2.00 m
+g
+= 0.452 s
+  
+ 
+From the horizontal motion, the speed of the water coming out of the 
+hole is 
+ 
+ 
+ 
+v2 = vxi = Δx
+t = 0.600 m
+0.452 s = 1.33 m/s
+  
+ 
+We now use Bernoulli’s equation, with point 1 at the top of the tank 
+and point 2 at the level of the hole. With P1 = P1 = Patm  and v1 ≈0, this 
+gives  
+ 
+ 
+ 
+ρgy1 = ρgy2 + 1
+2 ρv2
+2 
+ 
+or 
+ 
+ 
+ 
+h = y1 −y2 = v2
+2
+2g = 1.33 m/s
+(
+)
+2
+2g
+= 9.00 × 10−2 m = 9.00 cm
+
+--- PAGE 49 ---
+786     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P14.85 
+Let s stand for the edge of the cube, h for the depth of immersion, ρice 
+for the density of the ice, ρw for the density of water, and ρal for the 
+density of the alcohol. 
+ 
+(a) 
+According to Archimedes’s principle, at equilibrium we have 
+ 
+ 
+ 
+B = Fg 
+ 
+ 
+ 
+ρwghs2 = ρicegs3 ⇒h = s ρice
+ρw
+ 
+ 
+ 
+With ρice = 0.917 × 103 kg/m3, 
+ 
+ 
+ 
+ρw = 1.00 × 103 kg/m3 
+ 
+ 
+and s = 20.0 mm,  
+ 
+ 
+we obtain h = 20.0 0.917
+(
+) = 18.34 mm ≈18.3 mm 
+ 
+(b) We assume that the top of the cube is still above the alcohol 
+surface. Letting hal stand for the thickness of the alcohol layer, we 
+have 
+ 
+ 
+ 
+ρalgs2hal + ρwgs2hw = ρicegs3     so    hw =
+ρice
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟s −
+ρal
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟hal. 
+ 
+ 
+With ρal = 0.806 × 103 kg/m3 
+ 
+ 
+and hal = 5.00 mm, 
+ 
+ 
+we obtain hw = 18.34 −0.806 5.00
+(
+) = 14.31 mm ≈14.3 mm . 
+ 
+ 
+To check our assumption above, the bottom of the cube is below 
+the top surface of the alcohol 14.4 mm + 5.00 mm = 19.3 mm, so 
+the top of the cube is above the surface of the alcohol 20.0 mm – 
+19.3 mm = 0.7 mm. The assumption was valid.  
+ 
+(c) 
+Here , ′hw = s −′hal, so Archimedes’s principle gives 
+ 
+ 
+ 
+ρalgs2 ′hal + ρwgs2 s −′hal
+(
+) = ρicegs3 ⇒ρal ′hal + ρw s −′hal
+(
+) = ρices
+′hal = s ρw −ρice
+(
+)
+ρw −ρal
+(
+)
+= 20.0 mm
+(
+) 1.000 −0.917
+(
+)
+1.000 −0.806
+(
+)
+    = 8.557 ≈8.56 mm
+
+--- PAGE 50 ---
+Chapter 14     787 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.86 
+Assume the top of the barge without the pile of iron has height H0 
+above the surface of the water. When a mass of iron MFe is added to the 
+barge, the barge sinks a distance ΔH until the buoyant force from the 
+water equals the additional weight of the iron. The barge is a square 
+with sides of length L, so the volume of displaced water is L2ΔH, and 
+the buoyant force supporting the extra weight is  
+ 
+ 
+ 
+B = ρwL2ΔH
+(
+)g = MFeg 
+ 
+where ρw is the density of water.  
+ 
+The scrap iron pile has the shape of a cone, and the volume of a cone of 
+base radius R and central height h is Vcone = πR2h/3; therefore, the mass 
+of the iron is MFe = ρFeπR
+2h/3, where ρFe is the density of iron. We 
+find the distance the barge sinks with a pile of iron:  
+ 
+ 
+ 
+B = ρwL
+2ΔH
+(
+)g = MFeg
+ρwL
+2ΔH
+(
+)g = ρFeπR
+2h/3
+(
+)g →ΔH =
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+R
+2
+L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟h
+ 
+ 
+If the iron is piled to a height h, the barge will sink by the distance ΔH, 
+so the distance from the water level to the top of the iron pile is 
+Dtop = H0 −ΔH + h. 
+ 
+For the situation of the problem, side L = 2r, and the initial conical pile 
+of scrap iron has radius R = r and height is h = r. The distance the barge 
+sinks is  
+ 
+ 
+ 
+ΔH =
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+R
+2
+L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟h
+ΔH =
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+r
+2
+(2r)
+2
+⎛
+⎝⎜
+⎞
+⎠⎟r =
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+r
+2
+4r
+2
+⎛
+⎝⎜
+⎞
+⎠⎟r =
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+12
+⎛
+⎝⎜
+⎞
+⎠⎟r
+ 
+ 
+and the height of the top of the pile above the water is 
+ 
+ 
+ 
+Dtop = H0 −ΔH + h = H0 −
+ρFe
+ρw
+⎛
+⎝⎜
+⎞
+⎠⎟
+π
+12
+⎛
+⎝⎜
+⎞
+⎠⎟r + r
+ 
+ 
+For ρw = 1.00 × 103 kg/m3 and ρFe = 7.86 × 103 kg/m3, this expression 
+becomes  
+ 
+ 
+ 
+Dtop = H0 −7.86× 103
+1.00× 103
+⎛
+⎝⎜
+⎞
+⎠⎟π
+12
+⎛
+⎝⎜
+⎞
+⎠⎟r + r = H0 −2.06r + r
+Dtop = H0 −1.06r
+
+--- PAGE 51 ---
+788     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This distance is too large to allow the barge to go under the bridge: 
+ 
+ 
+ 
+Dtop = H0 −1.06r ≥Dbridge 
+ 
+When the pile is reduced to a height h′, but still with the same base 
+radius R = r, the distance the barge sinks is  
+ 
+ 
+ 
+ΔH = ρFe
+ρw
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟π
+12
+⎛
+⎝⎜
+⎞
+⎠⎟h′ = 2.06h′ 
+ 
+The height of the top of the pile above the water is now 
+ 
+ 
+ 
+′
+Dtop = H0 −ΔH + ′h = H0 −2.06 ′h + ′h = H0 −1.06 ′h 
+ 
+but this means the top of the pile is now higher! To check this, recall 
+that the height of the pile is reduced, so ′h < r:  
+ 
+ 
+ 
+′
+Dtop > Dtop 
+ 
+ 
+ 
+H0 −1.06 ′h > H0 −1.06r   →   −1.06 ′h > −1.06r   →   ′h < r 
+ 
+ which is true. 
+ 
+The situation is impossible because lowering the height of the iron
+pile on the barge while keeping the base radius the same results in
+the top of the pile rising higher above the water level.
+ 
+P14.87 
+The incremental version of P −P0 = ρgy is dP = −ρgdy. 
+ 
+We assume that the density of air is proportional to pressure,  
+ 
+or  P
+ρ = P0
+ρ0
+. Combining these two equations we have  
+ 
+ 
+ 
+dP = −P ρ0
+P0
+gdy 
+ 
+Integrating both sides, 
+ 
+ 
+ 
+dP
+P
+P0
+P
+∫
+= −g ρ0
+P0
+dy
+0
+y
+∫
+ 
+ 
+gives 
+ln
+P
+P0
+⎛
+⎝⎜
+⎞
+⎠⎟= −ρ0gy
+P0
+ 
+ 
+Defining α = ρ0g
+P0
+ then gives P = P0e−αy.
+
+--- PAGE 52 ---
+Chapter 14     789 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P14.2 
+(a) ~4 × 10
+17 kg/m
+3; (b) See P14.2 for the full description. 
+P14.4 
+5.27 × 10
+18 kg 
+P14.6 
+(a) 65.1 N; (b) 275 N 
+P14.8 
+225 N 
+P14.10 
+(a) 5.88 × 10
+6 N down; (b) 196 kN outward; (c) 588 kN outward 
+P14.12 
+The situation is impossible because the longest straw Superman can 
+use and still get a drink is less than 12.0 m. 
+P14.14 
+1.05 × 10
+5 Pa 
+P14.16 
+(a) F = 1
+2 ρgwh 2d −h
+(
+); (b) τ = 1
+2 ρgh dh2 −1
+3 h3
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P14.18 
+0.072 1 mm 
+P14.20 
+(a) 14.7 kPa, 0.015 5 atm, 11.8 m; (b) Blockage of the fluid within the 
+spinal column or between the skull and the spinal column would 
+prevent the fluid level from rising. 
+P14.22 
+(a) 20.0 cm; (b) 0.490 cm 
+P14.24 
+(a) P = P0 + ρgh; (b) Mg/A 
+P14.26 
+3.33 × 10
+3 kg/m
+3 
+P14.28 
+(a) 444 kg; (b) 480 kg 
+P14.30 
+1.28 × 10
+4 m
+2 
+P14.32 
+2.67 × 10
+3 kg 
+P14.34 
+(a) B = 25.0 N; (b) horizontally inward; (c) The string tension increases. 
+The water under the block pushes up on the block more strongly than 
+before because the water is under higher pressure due to the weight of 
+the oil above it; (d) 62.5% 
+P14.36 
+See P14.36 for the full derivation. 
+P14.38 
+(a) 3.7 kN; (b) 1.9 kN; (c) Atmospheric pressure at this high altitude is 
+much lower than at the Earth’s surface 
+P14.40 
+(a) 0.471 m/s; (b) 4.24 m/s 
+P14.42 
+(a) 0.638 m/s; (b) 2.55 m/s; (c) 1.80 × 10
+–3 m
+3/s 
+P14.44 
+(a) 27.9 N; (b) 3.32 × 10
+4 kg; (c) 7.26 × 10
+4 Pa
+
+--- PAGE 53 ---
+790     Fluid Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.46 
+(a) P = ΔE
+Δt = Δmgh
+Δt
+=
+Δm
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟gh = Rgh; (b) 616 MW 
+P14.48 
+(a) 3.93 × 10−6 m3/s
+(
+) ΔP where ΔP is in pascal; (b) 0.305 L/s;  
+(c) 0.431 L/s 
+P14.50 
+(a) 28.0 m/s; (b) 28.0 m/s; (c) The answers agree precisely. The models 
+are consistent with each other. (d) 2.11 MPa 
+P14.52 
+(a) 6.80 × 10
+4 Pa; (b) Higher. With the inclusion of another upward 
+force due to deflection of air downward, the pressure difference does 
+not need to be as great to keep the airplane in flight. 
+P14.54 
+(a) 452 N outward; (b) 1.81 kN outward 
+P14.56 
+1.01 kJ 
+P14.58 
+P0 −P
+(
+)πR2 
+P14.60 
+(a) A particle in equilibrium model; (b) 
+Fy
+∑
+= B −Fb −FHe −Fs = 0; 
+(c) ms = ρair −ρHe
+(
+) 4
+3 πr
+2 −mb; (d) 0.023 7 kg; (e) 0.948 m 
+P14.62 
+See P14.62 for full description. 
+P14.64 
+(a) 8.04 m/s; (b) The gravitational force and the buoyant force; (c) The 
+net upward force on the ball brings it downward motion to a stop,  
+4.18 m; (d) 8.04 m/s; (e) The time intervals are equal; (f) See P14.64(f) 
+for a full conceptual argument. 
+P14.66 
+~10
+4 
+P14.68 
+(a) See P14.68(a) for full description; (b) 2.66 × 10
+–3 m; (c) The situation 
+in the human body is not represented by a large artery feeding into a 
+single capillary as in part (b). See P14.68(c) for full explanation. 
+P14.70 
+(a) 1
+6 ρgwH
+3; (b) 1
+3 H 
+P14.72 
+T = 1−ρo
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟mFeg, n = mb + mo +
+ρo
+ρFe
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥g 
+P14.74 
+2
+r
+π M
+ρ g
+ 
+P14.76 
+(a) 3.307 g; (b) 3.271 g; (c) 3.48 × 10
+–4 N 
+P14.78 
+(a) 0.553 s; (b) 14.5 m/s; (c) 0.145 m/s; (d) P2 = 1.013 × 10
+5 Pa;  
+(e) 2.06 × 10
+5 Pa; (f) 33.0 N
+
+--- PAGE 54 ---
+Chapter 14     791 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P14.80 
+(a) 2.65 m/s; (b) 2.31 × 10
+4 Pa 
+P14.82 
+See P14.82 for the full answer. 
+P14.84 
+9.00 cm 
+P14.86 
+The situation is impossible because lowering the height of the iron pile 
+on the barge while keeping the base radius the same results in the top 
+of the pile rising higher above the water level.

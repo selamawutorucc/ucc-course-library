@@ -1,0 +1,54 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL								SM/SMS/10/0026
+MED 112					GROUP 19
+EXPERIMENT 5									19TH FEBRUARY, 2010
+TITLE: MEASUREMENT OF LOW RESISTANCE
+AIM: This experiment aims to determine and plot the current/volt characteristics of metal (copper and aluminum) and to calculate their resistances.
+APPARATUS: Heat conductivity rod, Cu and Al (1 each), universal measuring amplifier (1), digital multimeter (2), power supply 0-12 V DC/6 V, 12 V AC (1), connecting cord, l = 100mm, yellow (2), connecting cord, l = 250mm, red and blue (1 each), connecting cord, l = 500mm, red and blue (2 and 1 respectively), connecting cord, l = 750mm, yellow and blue (2 and 1 respectively), and connecting cord, l = 2000mm, yellow (1)
+DIAGRAM:
+THEORY: Resistivity of a metal conductor can be determined from the resistance R of the metal  conductor and its dimensions. The resistance of a metal conductor is the ability of the conductor to inhibit the flow of current passing through it. The resistance in conductors is due to collisions between electrons carrying current with fixed atoms within the conductor. These collisions prevent the free flow of charges and hence prevent the flow of current. A conductor with low resistance allows large amount of current to pass through it.  A conductor with high resistance will only allow small amount of current to pass through it.
+From Ohm’s law which states that when a voltage (potential difference) ∆V is applied across the ends of a conductor, the current in the conductor is found to be proportional to the applied voltage. This law will hold if the temperature of the conductor is kept constant.
+That is: 
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V against I is a straight line through the origin with a slope equal to the resistance R.
+The resistivity of the conductor can therefore be determined since the resistance is directly proportional to the length and inversely proportional to the area.
+Where R is the resistance of the metal rod, ρ is its resistivity, l is the length of the rod and A is the cross-sectional area of the rod. Rearranging this equation to obtain resistivity gives the equation
+METHOD: The amplifier was set to low drift; R = 104Ώ, and the amplification at 103, the counter constant at 0 sec. Using an ammeter, the metal rod was connected to the mains, and the voltage source was set to 12V. The current was varied at constant intervals of 0.2A. The voltage drop was the measured and recorded at two stocks on the side of the rod, using the amplifier for each current selected. The procedure was repeated using the aluminum rod.
+TABLE OF VALUES: 
+Least count of ammeter = 0.01 A
+Least count of voltmeter = 0.001 V
+COPPER ROD
+ALUMINIUM ROD
+GRAPH OF CURRENT AGAINST VOLTAGE FOR BOTH RODS.
+CALCULATION: From the graph, the resistance of the copper rod which is the slope of its graph is 0.012Ω and that of the aluminum rod is 0.018Ω.Therefore the resistivity of the copper rod is
+
+ R=0.012Ω, A=4.91×10⁻⁴m², l=0.315m
+The resistivity of copper is given by       
+When R=0.018 Ω, A=4.91×10⁻⁴m², l=0.315m
+The resistivity of aluminum is given by 
+DISCUSSION
+The resistivity of a metal conductor determines whether a conductor has low resistance or not. For cylindrical metal rods, the resistance depends on the length and cross-sectional area. Since resistance is directly proportional to the length and inversely proportional to its area, resistance increases as the length increases. The resistance decreases as the cross-sectional area increases since more current can flow through the rod. From the graph and the calculation, it can be observed that the resistances of both copper and aluminum are 0.012Ω and 0.018Ω respectively which differ slightly due to their different resistivity although they are of the same dimensions.
+CONCLUSION
+From the experiment performed and the data obtained, the resistivity of a conductor can be obtained by measuring its resistance and dimensions. 
+SOURCE OF ERROR
+Errors might be due to the following:
+ Errors might be due to overheating of the main power supply
+Errors might be due to faulty apparatus.
+PRECAUTION
+All connections were tightly connected to prevent a break in the continuity of the circuit.
+The metal rod was not touched often to prevent increase in temperature of the rod.
+REFERENCE                                                                                                                                                                                                            
+Raymond A.Serway, Jerry S.Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536.
+Current/A | Voltage/V
+0.00 | 0.334
+0.20 | 0.337
+0.40 | 0.340
+0.60 | 0.342
+0.80 | 0.344
+1.00 | 0.346
+Current/A | Voltage/V
+0.00 | 0.335
+0.20 | 0.339
+0.40 | 0.342
+0.60 | 0.346
+0.80 | 0.350
+1.00 | 0.353

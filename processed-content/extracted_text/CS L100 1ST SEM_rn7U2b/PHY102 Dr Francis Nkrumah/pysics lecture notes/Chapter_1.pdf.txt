@@ -1,0 +1,299 @@
+
+--- PAGE 1 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+1
+Chapter 1 : Introduction 
+It is doubtless fact that people always want to know about the mysteries of nature and the 
+world around them since they are born. So they start thinking and formulating their views on 
+nature. Lots of natural facts were collected by various experimental observations. This is 
+Science!  
+The word “Science” originally based on the Latin verb “Scientia” that means “To Know”. So, 
+Science means “to know nature (and its laws) by observations! 
+Science needs scientific methods to find its way. The Scientific method can be given as 
+followings: 
+- 
+-         Systematic observations, 
+- 
+-         Formulation of reasons (called hypothesis –that means “not certain”), 
+- 
+-         Theoretical predictions, 
+- 
+-         Experimental verifications of theoretical predictions –that means “theory is 
+invalid until it gives same experimental verification”-) 
+ 
+So, what is the relationship between Science and Physics? It is well known that the Physics is 
+a branch of Science. But what is Physics? 
+Before answering, let me introduce some history: It was proposed by the thinkers of old time 
+that air, water, fire and soil (not wood! ) are the elements from which the entire Universe is 
+made. Later, it was released that Universe is composed of Matter and Radiation. After that 
+point, the radiation is called by its universal name “Energy”. So then, the Matter and the 
+Radiation are defined. 
+The Matter is defined as “any substance that occupies space and has mass in universe.” 
+and 
+The Energy is defined as “capacity to do WORK -any thing that occupies NO space and has 
+NO mass-”. 
+ 
+That is the answer of what the Physics is: 
+Physics (in Latin alphabet: 
+
+
+
+ which means “NATURE”) is the branch of Science that 
+deals with different forms of Energy, its effect on Matter and its relations with Matter.
+
+--- PAGE 2 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+2
+Measurement and Units 
+A large part of science is based upon the creation of mathematical models that 
+describe physical phenomena. For example, the subject of Newtonian Mechanics 
+describes how objects will behave when they are subject to forces. We can use 
+Newtonian Mechanics to model our solar system allowing us to accurately predict the 
+positions of the sun and the planets.  However, to relate the mathematical description 
+to the real world requires that there is a mutually agreed upon measurement system so 
+that, for example, the distance between the earth and the sun is assigned the same 
+numerical value by different scientists in different parts of the world. To accomplish 
+this task we use a mutually agreed upon system of units.  
+Currently, there are actually two widely used systems of units.  The first-British 
+Engineering Units-is, strangely enough, used primarily in the USA and almost no 
+place else (certainly not in Britain!).  The second is the Metric System (or Systeme 
+International [SI] –it is in French-) which is an internationally agreed upon standard. 
+(In 1971, 14th Conference of The International Bureau of Weights and Measures, 
+IBWM, has agreed upon the standards and Units). We will mostly use the metric 
+system (SI) for problems in this class.  
+The Standard Prefixes used in SI Units 
+One nice thing about the SI system is that there is a uniform prefix system that is used 
+across all measured quantities.  For example the prefix kilo means 1000.  Thus a 
+kilogram is 1000 grams or a kilometer is 1000 meters.  All of the prefixes are some 
+multiple of 10; thus, there is no remembering awkward quantities such as 12 inchs in 
+one foot, three feet in a yard, 5280 feet in a mile etc.  You should memorize the 
+following prefixes (I actually hope that you pretty much know most of them already!).  
+You should also be able to manipulate quantities in scientific notation. Try the 
+problems at the bottom of this page to see if you are up on working with numbers in 
+SCIENTIFIC NOTATION. 
+The Basic Units: Meter, Kilogram, and Second 
+Prefix 
+Multiplier 
+tera 
+1012 
+giga 
+109 
+mega 
+106 
+kilo 
+103 
+deca 
+10 
+centi 
+10-2 
+milli 
+10-3 
+micro 
+10-6 
+nano 
+10-9 
+femto 
+10-15
+
+--- PAGE 3 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+3
+Most of the quantities that we will discuss this semester have units that are expressable 
+as some combination of the three basic quantities Meter, Kilogram, Second which 
+measure length, mass, and time respectively. 
+UNIT 
+SYMBOL 
+DESCRIPTION 
+Meter 
+m 
+Measures length 
+Kilogram 
+kg 
+Measures mass (different than weight!) 
+Second 
+s 
+Measures time 
+ 
+Significant Figures 
+It is important to be honest when reporting a measurement, so that it does not appear to be 
+more accurate than the equipment used to make the measurement allows. We can achieve this 
+by controlling the number of digits, or significant figures, used to report the measurement. 
+Determining the Number of Significant Figures 
+The number of significant figures in a measurement, such as 2.531, is equal to the number of 
+digits that are known with some degree of confidence (2, 5, and 3) plus the last digit (1), 
+which is an estimate or approximation. As we improve the sensitivity of the equipment used 
+to make a measurement, the number of significant figures increases.  
+Postage Scale 
+ 3 ±1 g  
+ 1 significant figure 
+Two-pan balance 
+ 2.53 ±0.01 g 
+ 3 significant figures 
+Analytical balance 
+ 2.531 ±0.001 g 
+ 4 significant figures 
+Rules for counting significant figures are summarized below.  
+Zeros within a number are always significant. Both 4308 and 40.05 contain four significant 
+figures.  (Because; 4308 is 4308 -or 4.308*103- and 40.05 is 40.05 –or 4005*10-2-). 
+Zeros that do nothing but set the decimal point are not significant. Thus, 470,000 has two 
+significant figures. (Because 470,000 is 47*104). 
+Trailing zeros that aren’t needed to hold the decimal point are significant. For example, 4.00 
+has three significant figures. (Because 4.00 is merely 4.00 –it includes .00 accuracy) 
+If you are not sure whether a digit is significant, assume that it isn’t. For example, if the 
+directions for an experiment read: “Add the sample to 400 mL of water,” assume the volume 
+of water is known to one significant figure.  
+Count all the numbers when using Scientific Notation. For Example, 1.30 x 10-2 has three 
+significant figures.
+
+--- PAGE 4 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+4
+Addition and Subtraction with Significant Figures 
+When combining measurements with different degrees of accuracy and precision, the 
+accuracy of the final answer can be no greater than the least accurate measurement. This 
+principle can be translated into a simple rule for addition and subtraction: When 
+measurements are added or subtracted, the answer can contain no more decimal places than 
+the least accurate measurement.  
+     150.0     g H2O 
++       0.507 g salt  
+     150.5     g solution  
+ 
+Multiplication and Division with Significant Figures  
+The same principle governs the use of significant figures in multiplication and division: the 
+final result can be no more accurate than the least accurate measurement. In this case, 
+however, we count the significant figures in each measurement, not the number of decimal 
+places: When measurements are multiplied or divided, the answer can contain no more 
+significant figures than the least accurate measurement.  
+Example: To illustrate this rule, let’s calculate the cost of the copper in an old penny that is 
+pure copper. Let’s assume that the penny has a mass of 2.531 grams, that it is essentially pure 
+copper, and that the price of copper is 67 cents per pound. We can start by from grams to 
+pounds.  
+2.531 g  x  1 lb / 453.6 g  = .005579 lbs 
+We then use the price of a pound of copper to calculate the cost of the copper metal. 
+.005579 lbs   x   67 cents / lb  =   .37 cents 
+There are four significant figures in both the mass of the penny (2.531) and the number of 
+grams in a pound (453.6). But there are only two significant figures in the price of copper, so 
+the final answer can only have two significant figures.  
+Rounding 
+When the answer to a calculation contains too many significant figures, it must be rounded 
+off.  
+There are 10 digits that can occur in the last decimal place in a calculation. One way of 
+rounding off involves underestimating the answer for five of these digits (0, 1, 2, 3, and 4) 
+and overestimating the answer for the other five (5, 6, 7, 8, and 9). This approach to rounding 
+off is summarized as follows.  
+If the digit is smaller than 5, drop this digit and leave the remaining number unchanged. Thus, 
+1.684 becomes 1.68.
+
+--- PAGE 5 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+5
+If the digit is 5 or larger, drop this digit and add 1 to the preceding digit. Thus, 1.247 becomes 
+1.25.  
+ 
+EXAMPLE: 
+Using a ruler that can measure in mm, the height of a pencil is measured by three different 
+observer: 
+- 
+-         1st person measures the height by 14cm 
+- 
+-         2nd person measures the height by 14,2cm 
+- 
+-         3rd person measures the height by 14,23cm 
+ 
+As seen in results; 
+1st person could measure the height in mm but he did not! It is rough measurement! 
+2nd person does the measurement by using the mm division of the ruler. Since the 
+measurement can be done by this ruler, it is acceptable.  
+3rd person does his experiment in mm including some assumption (14,23cm);  but in this 
+assumption, he did not take care of the uncertainty of the measurement done in mm 
+dimension. This measurement includes some errors! Well; all numbers, including the error, 
+are called Significant figures. So that, 14,23cm=142,3mm that means there are 4 significant 
+figures. 
+142 , 3mm 
+exact value  The value including 
+error 
+ 
+ 
+Questions  
+1. Express the following numbers in scientific notation: 
+(a) 0.015 
+ 
+(b) 0.0000002  
+(c) 54800 
+ 
+(d) 76  
+2. A car travels at a constant speed of 33ms-1.  How many kilometers does it travel in 
+10 minutes?  
+3.  How many nanoseconds are there in a day?
+
+--- PAGE 6 ---
+Lecture 1: Measurement and Significant Figures 
+ 
+ 
+6
+4.  You are 2 km away from a lightning strike.  How long does it take the light of the 
+lightning flash to reach you?  How long does it take for the sound (the thunder) to 
+reach you?  The speed of light can be taken to be 3x108 m/s and the speed of sound to 
+be 340 m/s (approximately).  
+5. What is the difference between mass and weight?  Are the units pounds and kilograms both 
+units of mass, or are they units or weight or ...? 
+ 
+Answers 
+1. (a) 1.5 x 10-2 
+(b) 2 x 10-7 
+(c) 5.48 x 104 (d) 7.6 x 101 = 7.6 x 10  
+2. 33 x 10 x 60 = 19800 m = 19.8 km 
+3. 24 hr/day x 60 min/hr x 60 s/min x 109 ns /s = 8.64 x 1013 ns/day. 
+4. Since 
+t
+x
+v
+
+
+, then 
+v
+x
+t
+
+
+. For sound the time is 
+s
+t
+88
+.5
+340
+2000 
+
+. For light the time is 
+s
+t
+6
+8
+10
+67
+.6
+10
+3
+2000
+
+
+
+
+
+. 
+5. We should have a discussion of this in class (hope you were there!). Briefly mass is a 
+measure of a body's inertia, in other words, a body's resistance to a change in its state of 
+motion. Mass is the same everywhere (even out in deep space where the body is 
+"weightless"). Weight is the force a body experiences due to a gravitational attraction-thus the 
+units of weight must be the unit of force. Kilogram is a measure of mass. Newton is a measure 
+of weight.  In the British Engineering system mass is measured in units of slugs.

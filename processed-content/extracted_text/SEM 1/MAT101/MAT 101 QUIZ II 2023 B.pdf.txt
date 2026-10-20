@@ -1,0 +1,173 @@
+
+--- PAGE 1 ---
+DEPARTMENT OF MATHEMATICS
+UNIVERSITY OF CAPE COAST
+MAT 101: ALGEBRA AND TRIGONOMETRY
+QUIZ II
+ATTEMPT ALL QUESTIONS.
+TIME ALLOWED: 50 MINS
+NAME:........................................................................
+INDEX NUMBER:..........................................
+Circle the most appropriate choice.
+1. Find the oblique asymptote for the function C(t) = t3+50
+3t2+t, t ≥0.
+A. C = 3t −9
+C. C = 1
+3t −1
+9
+B. C = 0
+D. No oblique asymptote
+2. Determine the vertex of the equation y = (x+3)2–5 which is a translation
+of the parent function y = x2.
+A. (3, 5)
+B. (−3, −5)
+C. (−5, 3)
+D. (5, −3)
+3. Which equation will shift the graph of y = x2 left by 5 units and up by 6
+units?
+A. y = (x + 6)2 −5
+C. y = (x + 5)2 −6
+B. y = (x + 5)2 + 6
+D. y = (x −5)2 + 6
+4. What is the fourth term of the expansion of (3x −2)5?
+A. −240x
+B. −720x2
+C. 720x2
+D. 1080x3
+5. For the rational function f(x) = −4x2+18x+16
+x2+8x+7
+, find all vertical and hori-
+zontal asymptotes.
+A. vertical asymptotes x = 1 and x = −7, horizontal asymptote y = −4.
+B. vertical asymptotes x = −1 and x = −7, horizontal asymptote y = −1/4.
+C. no vertical asymptotes, horizontal asymptote y = −4.
+D. vertical asymptotes x = −1 and x = −7, horizontal asymptote y = −4.
+1
+
+--- PAGE 2 ---
+6. The fourth term in the expansion of (x −2y)12 is:
+A. −1760x9y3
+C. −1670x9y3
+B. −7160x9y3
+D. −1607x9y3
+7. Which of the following functions has no horizontal asymptote?
+A. f(x) =
+x2−2
+x3−9x−4
+C. f(x) = 9x2−2x−3
+x2+8x−2
+B. f(x) = 5x4−2x3−x+7
+−x3+3x2−4
+D. f(x) =
+1
+x2−x
+8. What is the equation of the absolute value function?
+A. f(x) = |x + 4|
+C. f(x) = |x −4|
+B. f(x) = |x| + 4
+D. f(x) = |x| −4
+9. Let f(x) be a function and q > 1. Which of the following is a true
+statement?
+A. −f(x) is a reflection of f(x) in y-axis
+B. f(x
+q) is a shrink in y-direction by factor q
+C. f(qx) is a translation of f(x), q units to the left.
+D. 1
+qf(x) is a shrink in y-direction by factor q
+2
+
+--- PAGE 3 ---
+10. Given that f(x) = x2+1
+x2−3. Determine the domain and the range of f(x).
+A. Domain = {x : x ∈R, except x = ±
+√
+3} and range = (−∞, −1
+3] ∪
+(1, ∞)
+B. Domain = {x : x ∈R, x̸ = ±
+√
+3} and range = (−∞, −1
+3) ∪[1, ∞)
+C. Domain = {x : x ∈R, x̸ = ±
+√
+3} and range = (−∞, 1
+3) ∪[1, ∞)
+D. Domain = {x : x ∈R, x̸ = ±
+√
+3} and range = (−∞, 1
+3] ∪(1, ∞)
+11. Which of the following is a rational function with an x-intercept of
+(−1, 0), a hole at x = 3 and a vertical asymptote at x = 4?
+A. y = (x−1)(x+3)
+(x+4)(x+3)
+C. y = (x−4)(x−3)
+(x+1)(x−3)
+B. y = (x+1)(x−3)
+(x−4)(x−3)
+D. y = (x+4)(x+3)
+(x+1)(x+3)
+12. Choose the correct graph that matches with the equation.
+13. If log27 x = 1
+6, find x.
+A.
+√
+3
+B. 3
+C. 9
+D. 27
+3
+
+--- PAGE 4 ---
+14. Simplify log(4lm
+k ).
+A. 2 log 2 + log l + log m −log k
+C. log 4 −log l −log m −log k
+B. log 2 + log l −log m + log k
+D. log 4 + log l + log m + log k
+15. Determine the domain of the function f(x) =
+4
+x2+1.
+A. {x : x ∈R}
+B. {x : x ∈R, x̸ = 1}
+C. {x : x ∈R, x̸ = −1}
+D. {x : x ∈R, x̸ = 4}
+16. Which of the following asymptotes will the graph of the function
+f(x) = (x−1)(x+2)
+(x+2)(x−3) have?
+A. Vertical and Horizontal Asymptotes
+B. Vertical and Oblique Asymptotes
+C. Oblique and Horizontal Asymptotes
+D. No asymptotes
+17. Find the 8th term of the sequence whose general term
+Un = 2n2 −3n + 1.
+A. 105
+B. 110
+C. 115
+D. 120
+18. What is the domain of the function f(x) = x
+1
+2?
+A. (2, ∞)
+B. (−∞, 1)
+C. [0, ∞)
+D. [1, 2)
+19. Find m if log8 m + log8
+1
+6 = 2
+3.
+A. 4
+B. 12
+C. 18
+D. 24
+20. Determine the values of G and H if
+4x−5
+x2−x−2 ≡
+G
+x−2 +
+H
+x+1.
+A. G = 1, H = 3
+C. G = 3, H = 1
+B. G = 1, H = −3
+D. G = 3, H = −1
+4

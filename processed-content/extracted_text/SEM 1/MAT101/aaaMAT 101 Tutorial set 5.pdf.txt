@@ -1,0 +1,48 @@
+
+--- PAGE 1 ---
+UNIVERSITY OF CAPE COAST
+DEPARTMENT OF MATHEMATICS
+MAT 101: ALGEBRA AND TRIGONOMETRY
+TUTORIAL SET 5.
+1. Convert the following from degrees to radians
+(a) 60◦
+(b) −45◦
+(c) 107◦
+(d) 90◦
+2. Convert the following from radians to degree
+(a) π
+6 radians.
+(b) 3π
+2 radians.
+(c) −7π
+4
+radians.
+3. Given sinθ =
+√
+5
+5 and cosθ = 2
+√
+5
+5 , find the value of
+cosecθ, cotθ, tanθ and secantθ.
+4. Express 3cosθ + 4sinθ in the form Rcos(θ −α) where
+R and α are constants, R > 0 and 0 < α < 90◦.
+(a) Hence find the maximum and minimum value of
+3cosθ + 4sinθ and the corresponding values of θ.
+(b) Using your solution in above, solve
+3cosθ + 4sinθ = 5
+2. where 0 < θ < 180◦.
+5(a). Use the double angle formulae and identity
+cos(A + B) = cosAcosB −sinAsinB to obtain an
+expression for cosx only.
+(b) Prove that
+cosx
+1+sinx + 1+sinx
+cosx
+= 2secx.
+(c) Hence find, for 0 < x < 2π, all solutions of
+cosx
+1+sinx + 1+sinx
+cosx
+= 4.
+1

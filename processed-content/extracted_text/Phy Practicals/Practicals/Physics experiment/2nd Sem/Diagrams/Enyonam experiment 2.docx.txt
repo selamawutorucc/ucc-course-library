@@ -1,0 +1,49 @@
+ENYONAM KWAWUKUME
+SM/SMS/08/0030
+DATE  11/11/2008
+TITLE  EXPERIMENT WITH A BIFILAR SUSPENSION
+AIM    To draw a graph showing the relation between the time and the small rotational oscillation and the distance between the threads.
+APPARATUS
+Meter rule (, cotton thread, two retort stand and stop watch (.
+DIAGRAM
+THEORY
+The meter rule swings through a small angle, φ. The tension in each thread is F, the vertical and horizontal components of F are:
+                                Vertical component: F cos φ.
+                               Horizontal component:  F sin φ .
+The suspended rule is also displaced through a small angle Ө (the length of the rule is taken to be d).Hence if m is the mass of the meter rule, then from ’s second law of motion, the total horizontal force is equal to:
+2Fcosφ =mg
+For small angles: 2F=mg
+ Also the restoring couple =F sin φ*d=1/2 mg* φ *d. 
+Now for small angles 1/2dθ=l φ.
+Therefore,      ϴ
+The equation of motion is therefore       
+where I is the moment of inertia about the vertical axis through the centre of gravity and Ö is the angular acceleration. The motion is thus a simple harmonic motion and the period is: 
+Dividing through by 2               
+When the above equation of compared to the equation of a straight line it seen that it has a gradient of -1.
+METHOD
+A loop of thread was tied at both ends of the meter rule .The rule was suspended from two clamps at each ends. The lengths of the threads were adjusted to be made equal. The loop of thread was put 1cm from each end of the rule and set  into vertical oscillation through a small angle .The time taken for 20 oscillations was recorded for the length of 98cm(the horizontal distance between the loops of thread). The timing was repeated and recorded The loops of thread was pushed a further  2cm from both ends to get a distance of 94cm between the loops of thread and the time taken for 20 oscillations was recorded . The timing was repeated and recorded. The experiment was repeated for three other distances between the loops by each time moving the loops of thread 2cm from both ends. The timings were recorded in each case.
+TABLE OF RESULTS
+GRAPH 
+       Figure 1: A GRAPH OF LOG T AGAINST LOG D.
+DISCUSSION
+The aim of this experiment is to show the relation between the time for small rotational oscillation and the distance between the threads. To know this aim, a cotton thread was tied around a meter rule and suspended from a support. The lengths of the cotton thread were adjusted so that they were equal. The loops were placed 1cm from each end of the rule and the time for 20 oscillations taken after displacing the rule through a small angle. After, the length of the loop on the rule was increased by intervals of 2cm at a time and in each case the time for 20 oscillations was recorded. During oscillations it was realized that whenever the angle at which the rule was displaced was large, the value of t also increased. From the table of result, it can be seen that decrease in d caused an increase in t. Also from the graph, it was noticed that log d increased as log t decreased. This means that the period of oscillation depends on the distance between the two loops of thread. The period can also be said to depend on the lengths of the thread to the clamps. The graph has a slope of -1.345, which is approximately equal to the theoretical value of -1.00.The difference might be due to errors in equipments and air resistances in the laboratory.
+SOURCES OF ERROR
+Error may be due to the presence of air resistance that affected the outcome of the experiment by forcing the meter rule into elliptical oscillation.
+The little difference between the heights of the two loops of thread also affected the experiment.
+The center of gravity of the metre rule may not have been on the 50th mark therefore distorting the equilibrium.
+PRECAUTION
+It was ensured that the meter rule was displaced through a small angle so that its effect on the period was infinitesimally small.
+It was ensured that the meter rule was released gently from its displaced position to attain free oscillations rather than subjecting it to forced oscillation.
+It was ensured that the d measured was equal to the distance between the two clamps of the retort stand for each new experiment. 
+CONCLUSIO
+ From the experiment, the time for rotational oscillation depends on the distance d between the threads.
+REFERENCES
+RAYMOND A. SERWAY, JERRY S. FAUGHN (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER,  PAGE 312-315.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH SDITION, WESLEY PUBLISHING COMPANY, PAGE 466-469.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION, PAGE 158.
+d/cm | Log d | t1/s1 | t2/s2 | t/s | T(=t/20)/s | Log T
+96.0 | 1.9828 | 19.19 | 19.16 | 19.17 | 0.95875 | -0.01829
+92.0 | 1.9638 | 19.41 | 19.44 | 19.43 | 0.9712 | -0.01269
+88.0 | 1.9445 | 20.28 | 20.31 | 20.30 | 1.01475 | 0.00636
+84.0 | 1.9243 | 21.60 | 21.35 | 21.35 | 1.07375 | 0.0309
+80.0 | 1.9031 | 22.56 | 22.21 | 22.39 | 1.11925 | 0.048921

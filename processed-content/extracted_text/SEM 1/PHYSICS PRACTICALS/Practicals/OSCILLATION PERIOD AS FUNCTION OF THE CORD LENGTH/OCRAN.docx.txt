@@ -1,0 +1,47 @@
+OCRAN MICHAEL							SM /SMS/10/0005
+					16th September, 2010
+					     GROUP 20
+					EXPERIMENT 11	
+TITLE: Mathematical Pendulum
+AIM: To determine the oscillation period as a function of the cord length using small deflections.
+APPARATUS: Light barrier, power supply(5 V DC), steel ball with eyelet, meter scale, a pair of cursors, thread(100 cm),right angled clamp, clamping pads on stem, support rod, tripod base, stopwatch.
+EXPERIMENTAL SETUP FOR DETERMINING THE OSCILLATION PERIOD OF A MATHEMATICAL PENDULUMETHOD: The steel ball was tied to one end of the thread and the other end was fixed in the clamping pads on the stem. The light barrier was fixed to the support rod with a clamp firmly. The light barrier was switched on and it was configured to read at zero.  The steel ball with thread length 30 cm was displaced at a small angle and allowed to oscillate 20 oscillations through the light barrier and time was recorded using the stopwatch. The procedure was repeated for thread lengths 40cm, 50 cm, 60 cm and 70 cm.
+THEORY: 
+						Generally Force F= mass (m) x acceleration (a)	
+						Therefore m. a= mg sin ϴ
+						Acceleration a =-g sin ϴ………. (1)
+						From the diagram sin ϴ=   (substituting  into eqn 1)
+						a= -
+						Acceleration of a body performing simple harmonic                      
+						Motion is giving by   a=-ω2x		
+						Comparing both expressions for acceleration, then
+						ω2=    →    ω=  
+						Period of SHM is T=   substituting for ω it becomes
+						T = 2π  
+TABLE OF RESULTS
+CALCULATION:  Squaring both sides of the equation: T2 = (
+Using T2 the slope will be equal to  
+Hence                            g=  
+Slope =           = 
+       = 3.82 s2/m
+Therefore g=  = 
+        g = 
+         g = 10.33 m/s2
+DISCUSSION: The period T of a simple pendulum does not depend on a mass or weight of the steel ball. Rather it depends directly on the following factors:
+Length : The period depends on the square root of the length. The bigger the length the bigger the period and vice versa.
+Acceleration due to gravity: The period depends inversely on the square root of acceleration due to gravity. Areas where g is small the period is big and vice versa.
+SOURCES OF ERROR:
+Resistance of the air affects the oscillation and eventually damping it.
+The length of the thread might not have been accurately measured.
+The angle of deflection for each experiment was not constant.
+PRECAUTIONS:
+The experiment was repeated for each value of L.
+The pendulum was displaced through a small angle of deflection.
+It was ensured that in each case the light barrier was switched to                   mode.
+CONCLUSION:  The acceleration due to gravity and the function of a cord length can be determined by the oscillation period using small deflections. 
+Length(L) | t1 | t2 | (t1 + t2)/2 | Period(T) | T2
+30 | 22.47 | 22.59 | 22.53 | 1.13 | 1.275
+40 | 25.53 | 25.65 | 25.59 | 1.23 | 1.637
+50 | 28.59 | 28.71 | 28.65 | 1.43 | 2.052
+60 | 31.22 | 31.03 | 31.12 | 1.56 | 2.421
+70 | 34.33 | 34.37 | 34.35 | 1.72 | 2.949

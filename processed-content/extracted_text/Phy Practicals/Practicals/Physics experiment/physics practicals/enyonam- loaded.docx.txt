@@ -1,0 +1,45 @@
+DATE:  11/11/2008
+TITLE   An experiment to investigate the ’s law of cooling for a liquid.
+AIM    To verify Newton’s law of cooling for water.
+APPARATUS
+Copper calorimeter with outer jacket, copper stirrer, thermometer (0C - 100C), beaker, ice, analytical balance (±0.01g), electric heater
+DIAGRAM
+THEORY
+METHOD
+A calorimeter is placed on a wooden board (bad conductor) and placed near an open window. Room temperature is measured using a thermometer and recorded as 1C. Water is heated in a beaker to 90C, using an electric heater. The calorimeter is filled with the heated water to within a centimeter from the top and the lid is put on top. The thermometer and the stirrer are put in place. Keeping the cooling water well stirred, the temperatures at one minute intervals were taken till it drop to 35C. The room temperature was recorded again at the end of the experiment with a thermometer and was recorded as 2C. The results were recorded in a tabular form. The mean room temperature was obtained by finding the average of 1C and 2C. 
+TABLE OF RESULTS
+Least count of thermometer = 0.1℃
+Least count of stop watch =0.015s
+Initial temperature of water = 90oC
+Temperature of surrounding = 31oC
+Temperature of surrounding after the experiment = 30oC
+GRAPH
+CALCULATION
+DISCUSSION
+SOURCES OF ERROR
+PRECAUTION
+CONCLUSION
+ From the experiment,
+REFERENCES 
+RAYMOND A. SERWAY, JERRY S. FAUGHN (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER,  PAGE 312-315.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH SDITION, WESLEY PUBLISHING COMPANY, PAGE 466-469.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION, PAGE 158.
+Time/min | Temperature |  | Time/min | Temperature
+0 | 90 |  | 18 | 46
+1 | 84 |  | 19 | 45
+2 | 82 |  | 20 | 44
+3 | 78 |  | 21 | 43
+4 | 75 |  | 22 | 42
+5 | 73 |  | 23 | 41
+6 | 69 |  | 24 | 40
+7 | 67 |  | 25 | 39
+8 | 64 |  | 26 | 39
+9 | 62 |  | 27 | 38
+10 | 60 |  | 28 | 37
+11 | 58 |  | 29 | 37
+12 | 56 |  | 30 | 36
+13 | 54 |  | 31 | 36
+14 | 53 |  | 32 | 36
+15 | 51 |  | 33 | 35
+16 | 49 |  |  | 
+17 | 48 |  |  | 

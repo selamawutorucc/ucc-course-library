@@ -1,0 +1,620 @@
+
+--- PAGE 1 ---
+Introduction to BSc 
+Computer Science Degree
+Dr. Elliot Attipoe
+Level 100 Academic Advisor 
+T: 024 387 9458
+E: eattipoe@ucc.edu.gh
+LinkedIn: Elliot Attipoe
+Facebook: @elliot.attipoe (Sena Attipoe)
+
+--- PAGE 2 ---
+What Carrers can you pursue 
+with a BSc in Computer 
+Science?
+
+--- PAGE 3 ---
+
+
+--- PAGE 4 ---
+What Does the Computer Science Degree Give You?
+•
+Programming 
+•
+Algorithms 
+•
+Data structures 
+•
+Computer architecture 
+•
+Operating systems 
+•
+Databases 
+•
+Computer networks 
+•
+Software engineering 
+•
+Artificial intelligence 
+•
+Cybersecurity 
+•
+Mathematics 
+•
+Statistics 
+•
+Theory of computation 
+•
+Problem solving
+
+--- PAGE 5 ---
+A computer scientist is a builder
+“design algorithms, build software, develop intelligent systems, 
+analyse data, secure systems and create new computing 
+solutions.”
+
+--- PAGE 6 ---
+The Competitive Graduate Profile
+BSc Computer Science
++ Strong Programming Skills
++ Professional Certification
++ Digital Badges
++ Projects and Portfolio
++ Internship/Experience
++ Communication and Teamwork
+= Competitive Computer Science Graduate
+
+--- PAGE 7 ---
+Certifications vs digital badges
+Both matter, but they do different things.
+Professional certification
+Usually broader, exam-based and 
+recognised by employers or industry 
+bodies.
+Examples: CCNA, Security+, AWS Cloud Practitioner, 
+Azure Fundamentals, ISC2 CC
+Digital badge
+Usually smaller and skill-specific: a 
+course, lab, learning path or practical 
+achievement.
+Examples: Microsoft Learn badges, Cisco NetAcad 
+badges, AWS Skill Builder, Google Cloud Skills Boost
+
+--- PAGE 8 ---
+Software Engineering
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Software Engineer
+Backend Developer
+Frontend Developer
+Full-Stack Developer
+Credentials to explore
+GitHub Foundations
+GitHub Actions
+AWS Developer
+Oracle Java
+Skills to practise
+Python/Java/C++   •   Git & GitHub   •   APIs   •   Testing   •   Software Design
+
+--- PAGE 9 ---
+Artificial Intelligence
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+AI Engineer
+Generative AI Engineer
+AI App Developer
+AI Researcher
+Credentials to explore
+Azure AI-900
+AWS AI Practitioner
+Microsoft Applied Skills
+Google AI badges
+Skills to practise
+Programming   •   Algorithms   •   Linear algebra   •   Statistics   •   Responsible AI
+
+--- PAGE 10 ---
+Machine Learning Engineering
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+ML Engineer
+MLOps Engineer
+Applied Scientist
+Research Engineer
+Credentials to explore
+AWS ML Engineer
+Python ML badges
+TensorFlow/PyTorch
+Cloud ML labs
+Skills to practise
+Python   •   NumPy/pandas   •   Model evaluation   •   Cloud   •   MLOps
+
+--- PAGE 11 ---
+Data Science
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Data Scientist
+Data Analyst
+Research Data Analyst
+BI Analyst
+Credentials to explore
+Azure DP-900
+IBM Data Science
+Kaggle certificates
+Google Data
+Skills to practise
+Python/R   •   SQL   •   Statistics   •   Visualization   •   Research methods
+
+--- PAGE 12 ---
+Data Engineering
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Data Engineer
+Big Data Engineer
+Analytics Engineer
+Data Platform Engineer
+Credentials to explore
+Azure Data
+AWS Data
+Google Cloud Data
+SQL badges
+Skills to practise
+SQL   •   ETL/ELT   •   Data warehouses   •   Cloud storage   •   Distributed systems
+
+--- PAGE 13 ---
+Cybersecurity
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Cybersecurity Analyst
+Security Engineer
+SOC Analyst
+Penetration Tester
+Credentials to explore
+ISC2 CC
+Security+
+Cisco CyberOps
+Microsoft SC-900
+Skills to practise
+Linux   •   Networking   •   Threats   •   Access control   •   Ethical practice
+
+--- PAGE 14 ---
+Ethical Hacking & Penetration Testing
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Ethical Hacker
+Red-Team Specialist
+Vulnerability Analyst
+App Security Tester
+Credentials to explore
+Security+
+eJPT
+OSCP later
+Web security labs
+Skills to practise
+Linux   •   Web technologies   •   Cryptography   •   Authorization   •   Reporting
+
+--- PAGE 15 ---
+Cloud Computing
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Cloud Engineer
+Cloud Developer
+Cloud Architect
+Cloud Security Engineer
+Credentials to explore
+AWS Cloud Practitioner
+Azure Fundamentals
+Google Cloud Digital Leader
+AWS Developer
+Skills to practise
+Cloud concepts   •   Storage   •   Compute   •   IAM   •   Cost awareness
+
+--- PAGE 16 ---
+Cloud certification pathways
+Start with fundamentals, then move into role-based credentials.
+AW
+S
+AWS
+Cloud Practitioner → Developer or 
+Solutions Architect Associate → 
+specialist/professional growth
+AZ
+Microsoft Azure
+Azure Fundamentals → AI/Data/Security 
+Fundamentals → role-based Azure 
+credentials
+G
+Google Cloud
+Cloud Digital Leader → Associate Cloud 
+Engineer → professional-level credentials
+
+--- PAGE 17 ---
+DevOps & Platform Engineering
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+DevOps Engineer
+Platform Engineer
+SRE
+Build & Release Engineer
+Credentials to explore
+LFCA/LFCS
+KCNA
+CKA
+CKAD
+Skills to practise
+Linux   •   Git   •   Docker   •   Kubernetes   •   CI/CD
+
+--- PAGE 18 ---
+Linux & Systems Programming
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Linux Engineer
+Systems Programmer
+Infrastructure Engineer
+Embedded Software Engineer
+Credentials to explore
+LFCA
+LFCS
+Linux+
+Red Hat
+Skills to practise
+Linux   •   C/C++   •   Operating systems   •   Bash   •   Virtualization
+
+--- PAGE 19 ---
+Database Engineering
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Database Developer
+DB Administrator
+Database Engineer
+Data Architect
+Credentials to explore
+SQL badges
+Oracle
+Microsoft
+Cloud databases
+Skills to practise
+SQL   •   Relational design   •   Normalization   •   Transactions   •   NoSQL
+
+--- PAGE 20 ---
+Networking
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Network Engineer
+Network Software Engineer
+Cloud Network Engineer
+Network Security Engineer
+Credentials to explore
+Cisco CCNA
+Cisco NetAcad
+Network+
+Wireless basics
+Skills to practise
+IP addressing   •   Routing   •   Switching   •   Distributed systems   •   IoT
+
+--- PAGE 21 ---
+Embedded Systems & IoT
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Embedded Software Engineer
+Firmware Developer
+IoT Engineer
+Robotics Software Engineer
+Credentials to explore
+C/C++ badges
+IoT badges
+Linux basics
+Hardware labs
+Skills to practise
+C/C++   •   Microcontrollers   •   Sensors   •   Real-time computing   •   Networking
+
+--- PAGE 22 ---
+Game Development & Computer Graphics
+Career roles, certifications and badges that can support this pathway.
+Possible roles
+Game Developer
+Graphics Programmer
+Simulation Developer
+AR/VR Developer
+Credentials to explore
+Unity badges
+Unreal learning
+C++/C#
+Graphics courses
+Skills to practise
+Linear algebra   •   Graphics   •   C++/C#   •   Game engines   •   Portfolio
+
+--- PAGE 23 ---
+Research & Academia
+Computer Science is also a research discipline.
+BSc Computer Science →
+Research Assistantship →
+MSc / MPhil
+→
+PhD
+→
+Researcher / Lecturer / 
+Scientist
+
+--- PAGE 24 ---
+
+
+--- PAGE 25 ---
+Build projects around your career path
+Projects convert learning into evidence.
+Software Engineering
+Web application • mobile app • API • 
+database system
+AI / ML
+Classifier • recommendation system • 
+NLP app • computer vision app
+Cybersecurity
+Secure application • home security lab • 
+log-analysis project
+Data Science
+Dashboard • predictive model • data-
+analysis notebook
+Cloud
+Cloud-hosted app • serverless app • 
+containerized application
+
+--- PAGE 26 ---
+GitHub should become part of your professional identity
+Begin using GitHub early and let it show your growth.
+①
+Source code
+Store coursework 
+and personal 
+projects with clear 
+folder structure.
+②
+Version control
+Practise commits, 
+branches and 
+collaboration.
+③
+Documentation
+Use README files 
+to explain what 
+the project does.
+④
+Progress over time
+Level 100 → Level 200 
+→ Level 300 → Final-
+year project.
+
+--- PAGE 27 ---
+Build a digital 
+professional profile
+Your online profile should tell a coherent story before 
+you graduate.
+LinkedIn profile
+GitHub portfolio
+Digital badges
+Projects
+Internships
+Professional email
+19  |  BSc Information Technology Career Pathways
+
+--- PAGE 28 ---
+Four-year roadmap
+Grow from freshman curiosity to graduate readiness.
+Level 100
+Explore
+intro badges, basic 
+coding, Linux, 
+mathematics
+→
+Level 200
+Specialise
+one or two directions 
+and first certification
+→
+Level 300
+Build
+projects, labs, 
+internship and 
+competitions
+→
+Level 400
+Position
+portfolio, final-year 
+project and job-ready 
+profile
+
+--- PAGE 29 ---
+Skills no certification can replace
+Algorithms
+Data structures
+Programming
+Mathematics
+Debugging
+Logical reasoning
+Communication
+Teamwork
+Technical writing
+Research ability
+Professional ethics
+
+--- PAGE 30 ---
+The role of AI in your career
+Use AI as a learning assistant, not as a replacement for thinking.
+✓
+Use AI for support
+Code explanation, debugging 
+assistance, documentation, 
+brainstorming, testing and prototyping.
+!
+Still understand the work
+The code, algorithm, security 
+implications, accuracy, bias, testing and 
+ethics.
+→
+Strong message
+Do not allow AI to replace your thinking 
+while you are learning how to think 
+computationally.
+
+--- PAGE 31 ---
+Graduate with more than a transcript
+“Your degree gives the foundation. Your projects prove what you 
+can build. Your certifications validate specialisation. Your attitude 
+determines how far you will go.”
+
+--- PAGE 32 ---
+Final question for you
+When you graduate four years from now, what evidence apart from your degree will prove you are ready?
+1
+Which CS career interests me?
+2
+What skills does that career require?
+3
+Which courses in my BSc CS support it?
+4
+Which certification aligns with it?
+5
+Which badges can I earn along the way?
+6
+What projects can I build to demonstrate the skill?
+
+--- PAGE 33 ---
+Online Courses
+• University-quality / full learning paths (free)
+• MIT OpenCourseWare (OCW)  – full course materials (notes, exams, 
+videos) for many CS/IT topics.
+• CS50 (Harvard - top-tier intro CS + programming; you can start free 
+(audit)
+• freeCodeCamp – 100% free coding curriculum + projects + certifications.
+• edX (audit mode) – many courses can be audited for $0 (cert usually 
+paid).
+33
+
+--- PAGE 34 ---
+Online Courses
+• Official vendor training (free learning content)
+• Microsoft Learn – free learning paths for Azure, security, Microsoft 365, 
+etc.
+• AWS Skill Builder / AWS Digital Training – free AWS courses (and more 
+via Skill Builder).
+• Cisco Networking Academy (NetAcad) – free self-paced courses 
+(networking, cybersecurity, Linux, Python).
+• Google Career Certificates (on Coursera) – popular IT Support / 
+Cybersecurity / Data Analytics tracks (often trial/aid options).
+34
+
+--- PAGE 35 ---
+Online Courses
+• Cybersecurity hands-on (free labs/training)
+• PortSwigger Web Security Academy – excellent free web app security 
+lessons + labs.
+• TryHackMe – browser-based security practice; many beginner 
+resources/rooms are free (some paths require paid).
+• Data & analytics (free, practical)
+• Kaggle Learn – short, hands-on micro-courses (Python, Pandas, SQL, ML)
+• Git / GitHub & collaboration (free)
+• GitHub Skills – interactive beginner-to-intermediate mini-courses 
+(GitHub basics, Markdown, etc.)
+35
+
+--- PAGE 36 ---
+Big course platforms (many IT subjects)
+• Coursera – university + industry courses (often audit/free trial)
+• edX – university courses (often free to audit)
+• Udemy – huge catalog; usually paid (frequent discounts)
+• Pluralsight – strong for IT/professional tech (subscription; trials 
+sometimes)
+• LinkedIn Learning – practical career courses (subscription; trials 
+sometimes)
+• Skillshare – creative + tech basics (subscription)
+36
+
+--- PAGE 37 ---
+Free, beginner-friendly learning
+• Khan Academy – basics in computing, math foundations
+• freeCodeCamp – free web dev + coding paths with projects
+• The Odin Project – free full-stack web development
+• W3Schools – quick tutorials + references (web tech, SQL)
+• GeeksforGeeks – coding + CS/IT topics, interview prep
+• TutorialsPoint – wide IT tutorials (quick reference style)
+37
+
+--- PAGE 38 ---
+CSC101: Introduction to Computing (3 Credit Hour)
+• Course Description
+• Explores essential concepts in computer systems, hardware, software, 
+data representation, and operating systems.
+• Covers the basics of computer networks, the Internet, and cloud 
+computing architectures.
+• Introduces computational thinking, algorithms, and foundational 
+programming concepts to solve real-world problems.
+• Examines databases, information systems, cybersecurity principles, 
+artificial intelligence, and emerging technologies.
+• Analyzes the ethical and societal impacts of technology while building 
+critical skills needed for advanced CS coursework.
+
+--- PAGE 39 ---
+Course Structure
+Week
+Content
+1
+Introduction to Computing
+2
+Computer Hardware and Basic Architecture
+3
+Data Representation and Digital Information
+4
+Computer Software and Operating Systems
+5
+Computer Networks, Internet and Cloud Computing
+6
+Computational Thinking and Algorithms
+7
+Introduction to Programming Concepts
+8
+Databases, Data and Information Systems 
+9
+Cybersecurity, Ethics and Responsible Computing
+10
+Emerging Technologies and the Future of Computing
+
+--- PAGE 40 ---
+Assessment
+Assessment Component
+Weight
+Quizzes / Class Exercises
+20%
+Individual Assignment
+10%
+Group Assignment / Presentation
+10%
+Total Continuous Assessment
+40%
+•
+End-of-Semester Examination (60%).
+•
+Continuous Assessment — 40%
+
+--- PAGE 41 ---
+Reading List
+1.
+Vermaat, M. E., Sebok, S. L., Freund, S. M., Campbell, J. T., & Frydenberg, M. 
+(2023). Discovering computers: Digital technology, data, and devices. Cengage 
+Learning. 
+2.
+Evans, A., Martin, K., & Poatsy, M. A. (2022). Technology in action complete (17th 
+ed.). Pearson. 
+3.
+Forouzan, B. A. (2021). Foundations of computer science (4th ed.). Cengage 
+Learning. 
+4.
+Morley, D., & Parker, C. S. (2021). Understanding computers: Today and tomorrow, 
+comprehensive (17th ed.). Cengage Learning. 
+5.
+Reynolds, G. W. (2022). Ethics in information technology (7th ed.). Cengage 
+Learning. 
+6.
+Stallings, W. (2022). Computer organization and architecture: Designing for 
+performance (11th ed.). Pearson. 
+7.
+Russell, S. J., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th 
+ed.). Pearson.

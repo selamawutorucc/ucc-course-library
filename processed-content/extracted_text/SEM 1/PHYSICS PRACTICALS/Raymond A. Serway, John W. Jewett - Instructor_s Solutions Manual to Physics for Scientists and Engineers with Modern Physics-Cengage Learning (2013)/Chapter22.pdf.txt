@@ -1,0 +1,5599 @@
+
+--- PAGE 1 ---
+1147 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+22 
+Heat Engines, Entropy, and the 
+Second Law of Thermodynamics 
+ 
+CHAPTER OUTLINE 
+ 
+22.1  
+Heat Engines and the Second Law of Thermodynamics 
+22.2 
+Heat Pumps and Refrigerators 
+22.3  
+Reversible and Irreversible Processes 
+22.4  
+The Carnot Engine 
+22.5  
+Gasoline and Diesel Engines 
+22.6 
+Entropy 
+22.7 
+Changes in Entropy for Thermodynamic Systems 
+22.8 
+Entropy and the Second Law 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ22.1 
+Answer (d). The second law says that you must put in some work to 
+pump heat from a lower-temperature to a higher-temperature 
+location. But it can be very little work if the two temperatures are 
+very nearly equal. 
+OQ22.2 
+Answer (d). Heat input will not necessarily produce an entropy 
+increase, because a heat input could go on simultaneously with a 
+larger work output, to carry the gas to a lower-temperature, lower-
+entropy final state. Work input will not necessarily produce an 
+entropy increase, because work input could go on simultaneously 
+with heat output to carry the gas to a lower-volume, lower-entropy 
+final state. Either temperature increase at constant volume, or 
+volume increase at constant temperature, or simultaneous increases 
+in both temperature and volume, will necessarily end in a higher-
+entropy final state.
+
+--- PAGE 2 ---
+1148     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ22.3 
+Answer (c). The coefficient of performance of this refrigerator is 
+ 
+ 
+ 
+COP = Qc
+W = 115 kJ
+18.0 kJ = 6.39
+ 
+OQ22.4 
+Answer (c). Choice (c) is a statement of the first law of 
+thermodynamics, not the second law. Choices (a), (b), (d), and (e) are 
+alternative statements of the second law, (a) being the Kelvin-Planck 
+formulation, (b) the Carnot statement, (d) the Clausius statement, 
+and (e) summarizes the primary consequence of all these various 
+statements. 
+OQ22.5 
+(i) Answer (b). (ii) Answer (a). (iii) Answer (b). (iv) Answer (a). (v) 
+Answer (c). (vi) Answer (a). For any cyclic process the total input 
+energy must be equal to the total output energy. This is a 
+consequence of the first law of thermodynamics. It is satisfied by 
+processes (ii), (iv), (v), and (vi) but not by processes (i) and (iii). The 
+second law says that a cyclic process that takes in energy by heat 
+must put out some of the energy by heat. This is not satisfied for 
+process (v). 
+OQ22.6 
+Answer (a). The air conditioner operates on a cyclic process so the 
+change in the internal energy of the refrigerant is zero. Then, the 
+conservation of energy gives the thermal energy exhausted to the 
+room as Qh = Qc + Weng, where Qc is the thermal energy the air 
+conditioner removes from the room and Weng is the work done to 
+operate the device. Since Weng > 0, the air conditioner is returning 
+more thermal energy to the room than it is removing, so the average 
+temperature in the room will increase. 
+OQ22.7 
+Answer (c). The maximum theoretical efficiency (the Carnot 
+efficiency) of a device operating between absolute temperatures Tc < 
+Th is ec = 1 − Tc/Th. For the given steam turbine, this is 
+ 
+ 
+ 
+ec = 1−3.0 × 102 K
+450 K
+= 0.33
+or
+33%. 
+OQ22.8 
+Answer (d). The whole Universe must have an entropy change of 
+zero or more. The environment around the system comprises the rest 
+of the Universe, and must have an entropy change of +8.0 J/K, or 
+more. 
+OQ22.9 
+Answer: E > D > C > B > A. Recall that for and ideal gas, PV = nRT, 
+and Cv = 3R/2 and Cp = 5R/2. 
+ 
+Process A: isobaric, volume V goes to 0.5V, so temperature T goes to 
+0.5T, dQ = nCpdT, so dS = nCpdT/T; therefore ΔS = −5
+2 nRln2.
+
+--- PAGE 3 ---
+Chapter 22     1149 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Process B: isothermal, volume V goes to 0.5V, so temperature T is 
+constant and pressure P goes to 2P, dQ = pdV = nRT(dV/V), so dS =  
+nR(dV/V); therefore ΔS = –nR ln 2. 
+ 
+Process C: adiabatic, Q = 0; therefore ΔS = 0. 
+ 
+Process D: isovolumetric, pressure P goes to 2P, so temperature T 
+goes to 2T, dQ = nCvdT, so dS = n Cv dT/T; therefore ΔS = 3
+2 nRln2. 
+ 
+Process E: isobaric, volume V goes to 2V; therefore ΔS = 5
+2 nRln2. 
+OQ22.10 
+Answer (b). From conservation of energy, the energy input to the 
+engine must be 
+ 
+ 
+ 
+Qh = Weng + Qc = 15.0 kJ + 37.0 kJ = 52.0 kJ 
+ 
+so the efficiency is 
+ 
+ 
+ 
+e =
+Weng
+Qc
+= 15.0 kJ
+52.0 kJ = 0.288
+or
+28.8%. 
+OQ22.11 
+Answer (b). In the reversible adiabatic expansion OA, the gas does 
+work against a piston, takes in no energy by heat, and so drops in 
+internal energy and in temperature. In the free adiabatic expansion 
+OB, there is no piston, no work output, constant internal energy, and 
+constant temperature for the ideal gas. Point A is at a lower 
+temperature than O and point C is at an even lower temperature. The 
+only point that could possibly have the same temperature as O is 
+point B. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ22.1 
+(a) 
+The reduced flow rate of ‘cooling water’ reduces the amount of 
+heat exhaust Qc that the plant can put out each second. Even 
+with constant efficiency, the rate at which the turbines can take 
+in heat is reduced and so is the rate at which they can put out 
+work to the generators. If anything, the efficiency will drop, 
+because the smaller amount of water carrying the heat exhaust 
+will tend to run hotter. The steam going through the turbines 
+will undergo a smaller temperature change. Thus there are two 
+reasons for the work output to drop. 
+ 
+(b) The engineer’s version of events, as seen from inside the plant, 
+is complete and correct. Hot steam pushes hard on the front of a 
+turbine blade. Still-warm steam pushes less hard on the back of
+
+--- PAGE 4 ---
+1150     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the blade, which turns in response to the pressure difference. 
+Higher temperature at the heat exhaust port in the lake works 
+its way back to a corresponding higher temperature of the 
+steam leaving a turbine blade, a smaller temperature drop 
+across the blade, and a lower work output. 
+CQ22.2 
+One: Energy flows by heat from a hot bowl of chili into the cooler 
+surrounding air. Heat lost by the hot stuff is equal to heat gained by 
+the cold stuff, but the entropy decrease of the hot stuff is less than the 
+entropy increase of the cold stuff. 
+ 
+Two: As you inflate a soft car tire at a service station, air from a tank 
+at high pressure expands to fill a larger volume. That air increases in 
+entropy and the surrounding atmosphere undergoes no significant 
+entropy change. 
+ 
+Three: The brakes of your car get warm as you come to a stop. The 
+shoes and drums increase in entropy and nothing loses energy by 
+heat, so nothing decreases in entropy. 
+CQ22.3 
+No. The first law of thermodynamics is a statement about energy 
+conservation, while the second is a statement about stable thermal 
+equilibrium. They are by no means mutually exclusive. For the 
+particular case of a cycling heat engine, the first law implies 
+Qh = Weng + Qc , and the second law implies Qc > 0. 
+CQ22.4 
+Take an automobile as an example. According to the first law or the 
+idea of energy conservation, it must take in all the energy it puts out. 
+Its energy source is chemical energy in gasoline. During the 
+combustion process, some of that energy goes into moving the 
+pistons and eventually into the mechanical motion of the car. The 
+chemical potential energy turning into internal energy can be 
+modeled as energy input by heat. The second law says that not all of 
+the energy input can become output mechanical energy. Much of the 
+input energy must and does become energy output by heat, which, 
+through the cooling system, is dissipated into the atmosphere. 
+Moreover, there are numerous places where friction, both mechanical 
+and fluid, turns mechanical energy into internal energy. In even the 
+most efficient internal combustion engine cars, less than 30% of the 
+energy from the fuel actually goes into moving the car. The rest ends 
+up as useless internal energy in the atmosphere. 
+CQ22.5 
+Either statement can be considered an instructive analogy. We 
+choose to take the first view. All processes require energy, either as 
+energy content or as energy input. The kinetic energy that it 
+possessed at its formation continues to make the Earth go around. 
+Energy released by nuclear reactions in the core of the Sun drives 
+weather on the Earth and essentially all processes in the biosphere.
+
+--- PAGE 5 ---
+Chapter 22     1151 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The energy intensity of sunlight controls how lush a forest or jungle 
+can be and how warm a planet is. Continuous energy input is not 
+required for the motion of the planet. Continuous energy input is 
+required for life because energy tends to be continuously degraded, 
+as heat flows into lower-temperature sinks. The continuously 
+increasing entropy of the Universe is the index to energy-transfers 
+completed.  
+CQ22.6 
+(a) A slice of hot pizza cools off. Road friction brings a skidding car 
+to a stop. A cup falls to the floor and shatters. Your cat dies. Any 
+process is irreversible if it looks funny or frightening when shown in 
+a videotape running backwards. (b) The free flight of a projectile is 
+nearly reversible. 
+CQ22.7 
+(a) 
+When the two sides of the semiconductor are at different 
+temperatures, an electric potential (voltage) is generated across 
+the material, which can drive electric current through an 
+external circuit. The two cups at 50°C contain the same amount 
+of internal energy as the pair of hot and cold cups. But no 
+energy flows by heat through the converter bridging between 
+them and no voltage is generated across the semiconductors. 
+ 
+(b) A heat engine must put out exhaust energy by heat. The cold 
+cup provides a sink to absorb output or wasted energy by heat, 
+which has nowhere to go between two cups of equally warm 
+water. 
+CQ22.8 
+A higher steam temperature means that more energy can be 
+extracted from the steam. For a constant temperature heat sink at Tc, 
+and steam at Th, the efficiency of the power plant goes as 
+Th −Tc
+Th
+= 1−Tc
+Th
+ and is maximized for a high Th. 
+CQ22.9 
+(a) 
+For an expanding ideal gas at constant temperature, the internal 
+energy stays constant. The gas must absorb by heat the same 
+amount of energy that it puts out by work. Then its entropy 
+change is ΔS = ΔQ
+T = nRln V2
+V1
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+(b) For a reversible adiabatic expansion, ΔQ = 0 and ΔS = 0. An 
+ideal gas undergoing an irreversible adiabatic expansion can 
+have any positive value for ΔS up to the value given in part (a). 
+CQ22.10 
+No. Your roommate creates “order” locally, but as she works, she 
+transfers energy by heat to the room, causing the net entropy to 
+increase. An analogy used by Carnot is instructive: A waterfall 
+continuously converts mechanical energy into internal energy. It
+
+--- PAGE 6 ---
+1152     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+continuously creates entropy as the motion of the falling water turns 
+into molecular motion at the bottom of the falls. We humans put 
+turbines into the waterfall, diverting some of the energy stream to 
+our use. Water flows spontaneously from high to low elevation and 
+energy spontaneously flows by heat from high to low temperature. 
+Into the great flow of solar radiation from Sun to Earth, living things 
+put themselves. They live on energy flow, more than just on energy. 
+A basking snake diverts energy from a high-temperature source (the 
+Sun) through itself temporarily, before the energy inevitably is 
+radiated from the body of the snake to a low-temperature sink (outer 
+space). A tree builds cellulose molecules and we build libraries and 
+babies who look like their grandmothers, all out of a thin diverted 
+stream in the universal flow of energy. We do not violate the second 
+law, for we build local reductions in the entropy of one thing within 
+the inexorable increase in the total entropy of the Universe. 
+CQ22.11 
+No. An engine with no thermal pollution would absorb energy from 
+a reservoir and convert it completely into work; this is a clear 
+violation of the second law of thermodynamics. 
+CQ22.12 
+(a) Shaking opens up spaces between jellybeans. The smaller ones 
+more often can fall down into spaces below them. (b) The 
+accumulation of larger candies on top and smaller ones on the 
+bottom implies a small decrease in one contribution to the total 
+entropy, but the second law is not violated. The total entropy 
+increases as the system warms up, its increase in internal energy 
+coming from the work put into shaking the box and also from a small 
+decrease in gravitational potential energy as the beans settle 
+compactly together. 
+CQ22.13 
+First, the efficiency of the automobile engine cannot exceed the 
+Carnot efficiency: it is limited by the temperature of burning fuel and 
+the temperature of the environment into which the exhaust is 
+dumped. Second, the engine block cannot be allowed to go over a 
+certain temperature. Third, any practical engine has friction, 
+incomplete burning of fuel, and limits set by timing and energy 
+transfer by heat.
+
+--- PAGE 7 ---
+Chapter 22     1153 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 22.1 
+Heat Engines and the  
+Second Law of Thermodynamics	  
+P22.1 
+(a) 
+We have e =
+Weng
+Qh
+= 1−Qc
+Qh
+    →    Qc
+Qh
+= 1−e    →    Qh = Qc
+1−e 
+ 
+ 
+With Qc = 8 000 J, we have Qh = Qc
+1−e = 8 000 J
+1−0.250 =  10.7 kJ 
+ 
+(b) The work per cycle is 
+ 
+ 
+ 
+ 
+Weng = Qh – Qc = 2 667 J 
+ 
+ 
+From the definition of output power,  
+ 
+ 
+ 
+P = Weng
+Δt
+ 
+ 
+ 
+we have the time for one cycle: 
+ 
+ 
+ 
+Δt =
+Weng
+P
+= 2 667 J
+5 000 J/s = 0.533 s
+ 
+P22.2 
+(a) 
+The efficiency of a heat engine is e = Wenv Qh , where Wenv is the 
+work done by the engine and Qh is the energy absorbed from 
+the higher temperature reservoir. Thus, if Wenv = Qh 4, the 
+efficiency is e = 1 4 = 0.25  or  25% . 
+ 
+(b) From conservation of energy, the energy exhausted to the lower 
+temperature reservoir is Qc = Qh −Wenv. Therefore, if 
+Wenv = Qh 4 , we have Qc = 3 Qh 4 or Qc
+Qh = 3 4 . 
+P22.3 
+(a) 
+The efficiency of the engine is 
+ 
+ 
+ 
+ e =
+Weng
+Qh
+= 25.0 J
+360 J = 0.069 4 or 6.94% 
+ 
+(b) The energy expelled to the cold reservoir during each cycle is 
+ 
+ 
+ 
+Qc = Qh −Weng = 360 J −25.0 J = 335 J
+
+--- PAGE 8 ---
+1154     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.4 
+The engine’s output work we identify with the kinetic energy of the 
+bullet: 
+ 
+ 
+ 
+Weng = K = 1
+2 mv2 = 1
+2 0.002 4 kg
+(
+) 320 m s
+(
+)
+2 = 123 J
+e =
+Weng
+Qh
+Qh =
+Weng
+e
+= 123 J
+0.011 = 1.12 × 104 J
+Qh = Weng + Qc
+ 
+ 
+The energy exhaust is 
+ 
+ 
+ 
+Qc = Qh −Weng = 1.12 × 104 J −123 J = 1.10 × 104 J
+Q = mcΔT
+ΔT = Q
+mc = 1.10 × 104 J ⋅kg°C
+(1.80 kg)(448 J)
+= 13.7°C
+ 
+P22.5 
+(a) 
+The engine’s efficiency is given by 
+ 
+ 
+ 
+ 
+e = Weng
+Qh
+= Qh −Qc
+Qh
+= 1−Qc
+Qh
+= 1−1.20 kJ
+1.70 kJ
+= 0.294 (or 29.4%)
+ 
+ 
+(b) During each cycle, the work done by the engine is 
+ 
+ 
+ 
+Weng = Qh −Qc = 1.70 kJ −1.20 kJ = 5.00 × 102 J 
+ 
+(c) 
+The power transferred out of the engine is 
+ 
+ 
+ 
+P =
+Weng
+Δt = 5.00 × 102 J
+0.300 s
+= 1.67 × 103 W = 1.67 kW 
+P22.6 
+(a) 
+The input energy each hour is 
+ 
+ 
+ 
+7.89 × 103 J revolution
+(
+) 2 500 rev min
+(
+) 60 min
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                                  = 1.18 × 109 J h
+ 
+ 
+ 
+implying fuel input 1.18 × 109 J h
+(
+)
+1 L
+4.03 × 107 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 29.4 L h .
+
+--- PAGE 9 ---
+Chapter 22     1155 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Qh = Weng + Qc . For a continuous-transfer process we may divide 
+by time to have 
+ 
+ 
+ 
+Qh
+Δt =
+Weng
+Δt + Qc
+Δt
+ 
+ 
+ 
+Useful power output =
+Weng
+Δt = Qh
+Δt −Qc
+Δt
+ 
+ 
+ 
+=
+7.89 × 103 J
+revolution −4.58 × 103 J
+revolution
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 500 rev
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.38 × 105 W
+Peng = 1.38 × 105 W
+(
+)
+1 hp
+746 W
+⎛
+⎝⎜
+⎞
+⎠⎟= 185 hp
+ 
+ 
+(c) 
+Peng = τω ⇒τ =
+Peng
+ω
+=
+1.38 × 105 J s
+2 500 rev 60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 rev
+2π rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 527 N ⋅m 
+ 
+(d) 
+Qc
+Δt =
+4.58 × 103 J
+revolution
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 500 rev
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.91× 105 W 
+P22.7 
+The energy to melt a mass ΔmHg of Hg is Qc = mHgLf . The energy 
+absorbed to freeze ΔmAl of aluminum is Qh = mAlLf . The efficiency is 
+ 
+ 
+ 
+e = 1−Qc
+Qh
+= 1−ΔmHgLHg
+ΔmAlLAl
+= 1−15.0 g
+(
+) 1.18 × 104 J kg
+(
+)
+1.00 g
+(
+) 3.97 × 105 J kg
+(
+)
+= 0.554 = 55.4%
+ 
+ 
+ 
+	  
+Section 22.2 
+Heat Pumps and Refrigerators 
+P22.8 
+COP refrigerator
+(
+) = Qc
+W
+ 
+ 
+(a) 
+If Qc = 120 J and COP = 5.00, then W = 24.0 J . 
+ 
+(b) 
+Qh = Qc + W = 120 J + 24 J = 144 J 
+P22.9 
+(a) 
+The work done on the refrigerant in each cycle is  
+ 
+ 
+ 
+W = QH −QL = 625 kJ −550 kJ = 75.0 kJ
+
+--- PAGE 10 ---
+1156     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The coefficient of performance of a refrigerator is: 
+ 
+ 
+ 
+COP = QL
+W =
+QL
+QH −QL
+ 
+ 
+ 
+Solving numerically: 
+ 
+ 
+ 
+COP = QL
+W =
+QL
+QH −QL
+=
+550 kJ
+625 kJ −550 kJ = 7.33
+ 
+P22.10 
+(a) 
+The coefficient of performance of a heat pump is COP = Qh W , 
+where Qh is the thermal energy delivered to the warm space and 
+W is the work input required to operate the heat pump. 
+Therefore, 
+ 
+ 
+ 
+Qh = W ⋅COP = P ⋅Δt
+(
+)⋅COP
+=
+7.03 × 103 J
+s
+⎛
+⎝⎜
+⎞
+⎠⎟8.00 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥3.80 = 7.69 × 108 J
+ 
+ 
+(b) The energy extracted from the cold space (outside air) is 
+ 
+ 
+ 
+Qc = Qh −W = Qh −Qh
+COP = Qh
+1−
+1
+COP
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or 
+Qc = 7.69 × 108 J
+(
+) 1−
+1
+3.80
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.67 × 108 J 
+*P22.11 
+COP = 3.00 = Qc
+W . Therefore, W = Qc
+3.00 . 
+ 
+The heat removed each minute is 
+ 
+ 
+ 
+QC
+t = 0.030 0 kg
+(
+) 4 186 J kg°C
+(
+) 22.0°C
+(
+)
+     + 0.030 0 kg
+(
+) 3.33 × 105 J kg
+(
+)
+     + 0.030 0 kg
+(
+) 2 090 J kg°C
+(
+) 20.0°C
+(
+)
+= 1.40 × 104 J min = 233 J/s
+ 
+ 
+Thus, the work done per second = P = 233 J/s
+3.00
+= 77.8 W . 
+P22.12 
+(a) 
+The coefficient of performance of a heat pump is 
+ 
+ 
+ 
+COPh.p. = QH
+W =
+QH
+QH −QL
+
+--- PAGE 11 ---
+Chapter 22     1157 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Because work (energy) is power times time W = PΔt
+(
+), the 
+equation above may be rearranged to obtain the heat added to the 
+home: 
+ 
+ 
+ 
+QH = COP⋅W = COP⋅PΔt
+= 4.20
+(
+) 1.75 × 103 J/s
+(
+) 3600 s
+(
+) = 2.65 × 107 J
+ 
+ 
+(b) The coefficient of performance of a refrigerator or air conditioner 
+is 
+ 
+ 
+ 
+COPrefr. = QL
+W =
+QL
+QH −QL
+ 
+ 
+ 
+and can be written in terms of the coefficient of performance of a 
+heat pump because: 
+ 
+ 
+ 
+W = QH −QL: 
+ 
+ 
+ 
+COPrefr. = QL
+W = QH −W
+QH −QL
+=
+QH
+QH −QL
++
+W
+QH −QL
+ 
+ 
+ 
+Where the first term on the far right is identically the coefficient 
+of performance of the heat pump, and the second term is 
+identically one (because W = QH −QL ). Thus, 
+ 
+ 
+ 
+COPrefr. =
+QH
+QH −QL
++
+W
+QH −QL
+= COPh.p. −1 = 4.20
+(
+)−1
+= 3.20
+ 
+P22.13 
+(a) 
+The energy use by the freezer each day is 
+ 
+ 
+ 
+W = P⋅Δt = 457 kWh
+y
+⎛
+⎝⎜
+⎞
+⎠⎟
+3.60 × 106 J
+1 kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 1 y
+365 d
+⎛
+⎝⎜
+⎞
+⎠⎟⋅1 d
+(
+)
+= 4.51× 106 J
+ 
+ 
+ (b) From the definition of the coefficient of performance for a 
+refrigerator, COP
+(
+)R = Qc W , the thermal energy removed from 
+the cold space each day is 
+ 
+ 
+ 
+Qc = COP
+(
+)R ⋅W = 6.30 4.51× 106 J
+(
+) = 2.84 × 107 J
+
+--- PAGE 12 ---
+1158     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ (c) The water must be cooled 20.0°C before it will start to freeze, so 
+the thermal energy that must be removed from mass m of water 
+to freeze it is Qc = mcw ΔT + mLf . The mass of water that can be 
+frozen each day is then 
+ 
+ 
+ 
+m =
+Qc
+cw ΔT + Lf
+=
+2.84 × 107 J
+4186 J kg⋅°C
+(
+) 20.0°C
+(
+)+ 3.33 × 105 J kg
+= 68.1 kg
+ 
+ 
+ 
+	  
+Section 22.3 
+Reversible and Irreversible Processes 
+Section 22.4 
+The Carnot Engine 
+P22.14 
+The maximum possible efficiency for a heat engine operating between 
+reservoirs with absolute temperatures of Tc = 25° + 273 = 298 K and  
+Th = 375° + 273 = 648 K is the Carnot efficiency: 
+ 
+ 
+ 
+ec = 1−Tc
+Th
+= 1−298 K
+648 K = 0.540 or 54.0%
+(
+)
+ 
+P22.15 
+We use the Carnot expression for maximum possible efficiency, and 
+the definition of efficiency to find the useful output. The engine is a 
+steam turbine in an electric generating station with 
+ 
+ 
+ 
+Tc = 430°C = 703 K
+and
+Th = 1 870°C = 2 143 K 
+ 
+(a) 
+eC = ΔT
+Th
+= 1 440 K
+2 143 K = 0.672 = 67.2% 
+ 
+(b) 
+e = Weng/Qh = 0.420
+     and    
+Qh = 1.40 × 105 J 
+ 
+ 
+for one second of operation, so  
+ 
+ 
+ 
+Weng = 0.420 Qh = 5.88 × 104 J 
+ 
+ 
+and the power is  
+ 
+ 
+ 
+P =
+Weng
+Δt = 5.88 × 104 J
+1 s
+= 58.8 kW 
+P22.16 
+The efficiency of a Carnot engine operating between these 
+temperatures is 
+ 
+ 
+ 
+eC = 1 − Tc
+Th
+ = 1 − 273 K
+293 K  = 0.068 3 = 6.83%
+
+--- PAGE 13 ---
+Chapter 22     1159 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore, there is no way that the inventor’s engine can have an 
+efficiency of 0.110 = 11.0%. 
+P22.17 
+e =
+Weng
+Qh
+= ec = 1−Tc
+Th
+     →     
+Weng / Δt
+Qh / Δt =
+P
+Qh Δt = 1−Tc
+Th
+ 
+ 
+(a) 
+Qh =
+Weng
+e
+=
+PΔt
+1−(Tc /Th) =
+1.50 × 105 W
+(
+) 3 600 s
+(
+)
+1−293 K /773 K
+(
+)
+= 8.70 × 108 J 
+ 
+(b) 
+Qc = Qh −Weng = Qh −PΔt
+= 8.70 × 108 J −1.50 × 105 W
+(
+) 3 600 s
+(
+)
+= 3.30 × 108 J
+ 
+P22.18 
+e =
+Weng
+Qh
+= ec = 1−Tc
+Th
+     →     
+Weng / Δt
+Qh / Δt =
+P
+Qh Δt = 1−Tc
+Th
+ 
+ 
+(a) 
+Qh =
+Weng
+e
+=
+PΔt
+1−(Tc /Th) = PΔt
+Th
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) 
+Qc = Qh −Weng = Qh −PΔt = PΔt
+Th
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟−PΔt 
+ 
+ 
+     = PΔt
+Th
+Th −Tc
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟= PΔt Th −Th −Tc
+(
+)
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟= PΔt
+Tc
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P22.19 
+COP
+(
+)refrig = Tc
+ΔT = 270 K
+30.0 K = 9.00 
+P22.20 
+(a) 
+For a complete cycle, ΔEint = 0 and    
+ 
+ 
+ 
+W = Qh −Qc = Qc
+Qh
+(
+)
+Qc
+−1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+The text shows that for a Carnot cycle (and only for a reversible 
+cycle), Qh
+Qc
+= Th
+Tc
+. Therefore, W = Th −Tc
+Tc
+Qc . 
+ 
+(b) We have the definition of the coefficient of performance for a 
+refrigerator, COP = Qc
+W
+. Using the result from part (a), this 
+becomes COP =
+Tc
+Th −Tc
+.
+
+--- PAGE 14 ---
+1160     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.21 
+COP
+(
+)heat pump = Qc + W
+W
+= Th
+ΔT = 295 K
+25 K = 11.8 
+P22.22 
+COP
+(
+)Carnot refrig = Tc
+ΔT = 4.00 K
+289 K = 0.013 8 = Qc
+W
+ 
+ 
+∴W = 72.2 J per 1 J of energy removed by heat. 
+P22.23 
+We wish to evaluate COP = Qc W for a refrigerator, which is a Carnot 
+engine run in reverse. For a Carnot engine, 
+ 
+ 
+ 
+Qh = Qc + W
+e = W
+Qh
+=
+W
+Qc + W
+⎫
+⎬⎪
+⎭⎪
+→1
+e = Qc + W
+W
+= Qc
+W + 1   
+ 
+ 
+which gives 
+ 
+ 
+ 
+ COP = Qc
+W = 1
+e −1
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+ COP = 1
+e −1 =
+1
+0.350 −1 = 1.86 . 
+*P22.24 
+The Carnot summer efficiency is 
+ 
+ 
+ 
+ec,s = 1−Tc
+Th
+= 1−273 K + 20.0°C
+(
+)
+273 K + 350°C
+(
+) = 0.530
+ 
+ 
+And in winter,  
+ 
+ 
+ 
+ec,w = 1−283
+623 = 0.546
+ 
+ 
+Then the actual winter efficiency is 
+ 
+ 
+ 
+ 
+0.320 0.546
+0.530
+(
+) = 0.330   or   33.0%
+  
+P22.25 
+(a) 
+The absolute temperature of the cold reservoir is  
+Tc = 20.0° + 273 = 293 K. If the Carnot efficiency is to be  
+eC = 0.650, it is necessary that 
+ 
+ 
+ 
+1−Tc
+Th
+= 0.650     or     Tc
+Th
+= 0.350     and     Th = Tc
+0.35
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+Th = 293 K
+0.35 = 837 K 
+or 
+Th = 837 −273 = 564°C
+
+--- PAGE 15 ---
+Chapter 22     1161 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+No. A real engine will always have an efficiency less than the
+Carnot efficiency because it operates in an irreversible manner.
+ 
+P22.26 
+(a) 
+eC = 1−Tc
+Th
+= 1−350 K
+500 K = 0.300 
+ 
+(b) We differentiate eC = 1−Tc/Th to find  
+ 
+ 
+ 
+dec
+dTh
+= 0 −Tc −1
+(
+)Th
+−2 = Tc
+Th
+2 =
+350 K
+500 K
+(
+)
+2 = 1.40 × 10−3 K−1  
+ 
+(c) 
+We differentiate eC = 1 – Tc/Th to find  
+ 
+ 
+ 
+dec
+dTc
+= 0 −1
+Th
+= −
+1
+500 K = −2.00 × 10−3 K−1 
+ 
+(d) 
+No. The derivative in part (c) depends only on Th. 
+P22.27 
+Isothermal expansion at Th = 523 K 
+ 
+Isothermal compression at Tc = 323 K 
+ 
+Gas absorbs 1 200 J during expansion. 
+ 
+(a) 
+For a Carnot cycle, 
+ec = 1−Tc
+Th
+ 
+ 
+ 
+For any engine, 
+e =
+Weng
+Qh
+= 1−
+Qc
+Qh
+ 
+ 
+ 
+Therefore, for a Carnot engine, 1−Tc
+Th
+= 1−
+Qc
+Qh
+ 
+ 
+ 
+Then we have 
+ 
+ 
+ 
+ 
+Qc = Qh
+Tc
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟= (1 200 J) 323 K
+523 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 741 J
+ 
+ 
+ 
+(b) The work we can calculate as  
+ 
+ 
+ 
+Weng = Qh −Qc = 1 200 J −741 J
+(
+) =
+459 J 
+P22.28 
+(a) 
+emax = 1−Tc
+Th
+= 1−278 K
+293 K = 5.12 × 10−2 = 5.12% 
+ 
+(b) 
+P =
+Weng
+Δt = 75.0 × 106 J s
+
+--- PAGE 16 ---
+1162     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore, Weng = 75.0 × 106 J s
+(
+) 3 600 s h
+(
+) = 2.70 × 1011 J h. 
+ 
+ 
+From e =
+Weng
+Qh
+ we find  
+ 
+ 
+  
+Qh =
+Weng
+e
+= 2.70 × 1011 J h
+5.12 × 10−2
+= 5.27 × 1012 J h = 5.27 TJ h 
+ 
+(c) 
+As fossil-fuel prices rise, this way to use solar energy will become
+a good buy.
+ 
+*P22.29 
+(a) 
+With reservoirs at absolute temperatures of Tc = 80.0°C + 273 = 
+353 K and Th = 350°C + 273 = 623 K, the Carnot efficiency is 
+ 
+ 
+ 
+eC = 1−Tc
+Th
+= 1−353 K
+623 K = 0.433    or 43.3%
+(
+)
+ 
+ 
+ 
+so the maximum power output is 
+ 
+ 
+ 
+Pmax = Weng
+Δt = eC Qh
+Δt
+= 0.433 21.0 kJ
+(
+)
+1.00 s
+= 9.10 kW
+ 
+ 
+(b) From e = 1−Qc
+Qh
+,  the energy expelled by heat each cycle is 
+ 
+ 
+ 
+Qc = Qh 1−e
+(
+) = (21.0 kJ) 1−0.433
+(
+) = 11.9 kJ 
+P22.30 
+(a) 
+e =
+Weng1 + Weng2
+Q1h
+= e1Q1h + e2Q2h
+Q1h
+ 
+ 
+ 
+Now, Q2h = Q1c = Q1h − Weng1 = Q1h − e1Q1h, 
+ 
+ 
+so 
+ 
+ 
+ 
+e = e1Q1h + e2 Q1h −e1Q1h
+(
+)
+Q1h
+= e1 + e2 −e1e2 
+ 
+(b) 
+e = e1 + e2 −e1e2 = 1−Ti
+Th
++ 1−Tc
+Ti
+−1−Ti
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟1−Tc
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2 −Ti
+Th
+−Tc
+Ti
+−1+ Ti
+Th
++ Tc
+Ti
+−Tc
+Th
+= 1−Tc
+Th
+ 
+ 
+(c) 
+The combination of reversible engines is itself a reversible engine
+so it has the Carnot efficiency. No improvement in net efficiency
+has resulted.
+
+--- PAGE 17 ---
+Chapter 22     1163 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) With Weng2 = Weng1, e =
+Weng1 + Weng2
+Q1h
+=
+2Weng1
+Q1h
+= 2e1 
+ 
+ 
+ 
+1−Tc
+Th
+= 2 1−Ti
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟
+0 −Tc
+Th
+= 1−2Ti
+Th
+ 
+ 
+ 
+ 
+2Ti = Th + Tc
+Ti = 1
+2 Th + Tc
+(
+)
+ 
+ 
+(e) 
+e1 = e2 = 1−Ti
+Th
+= 1−Tc
+Ti
+ 
+ 
+ 
+Ti
+2 = TcTh
+Ti = ThTc
+(
+)
+1 2
+ 
+P22.31 
+(a) 
+In an adiabatic process, PfVf
+γ = PiVi
+γ . Also, PfVf
+Tf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+=
+PiVi
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+. 
+ 
+ 
+Dividing the second equation by the first yields Tf = Ti
+Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+(
+) γ
+. 
+ 
+ 
+Since γ = 5
+3 for argon, γ −1
+γ
+= 2
+5 = 0.400 and we have 
+ 
+ 
+ 
+Tf = 1 073 K
+(
+) 300 × 103 Pa
+1.50 × 106 Pa
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.400
+= 564 K
+ 
+ 
+(b) 
+ΔEint = nCVΔT = Q −Weng = 0 −Weng, so Weng = −nCVΔT, 
+ 
+ 
+and the power output is (suppressing the units of R) 
+ 
+ 
+P = Weng
+Δt = −nCVΔT
+Δt
+=
+−80.0 kg
+(
+) 1 mol 0.039 9 kg
+(
+) 3
+2
+⎛
+⎝
+⎞
+⎠8.314
+(
+) 564 K −1 073 K
+(
+)
+60.0 s
+P = 2.12 × 105 W = 212 kW
+ 
+ 
+(c) 
+eC = 1−Tc
+Th
+= 1−564 K
+1 073 K = 0.475    or  47.5%
+
+--- PAGE 18 ---
+1164     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.32 
+(a) 
+First, consider the adiabatic process D →A: 
+ 
+ 
+ 
+PDVD
+γ = PAVA
+γ   so    
+ 
+ 
+ 
+PD = PA
+VA
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= 1 400 kPa
+(
+) 10.0 L
+15.0 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 3
+= 712 kPa
+ 
+ 
+ 
+Also, nRTD
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟VD
+γ =
+nRTA
+VA
+⎛
+⎝⎜
+⎞
+⎠⎟VA
+γ , 
+ 
+ 
+or TD = TA
+VA
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+= 720 K
+(
+) 10.0
+15.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 3
+= 549 K . 
+ 
+ 
+Now, consider the isothermal process C →D: TC = TD = 549 K 
+ 
+ 
+ 
+PC = PD
+VD
+VC
+⎛
+⎝⎜
+⎞
+⎠⎟= PA
+VA
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+VD
+VC
+⎛
+⎝⎜
+⎞
+⎠⎟= PAVA
+γ
+VCVD
+γ −1 
+ 
+ 
+ 
+PC = 1 400 kPa
+(
+) 10.0 L
+(
+)
+5 3
+24.0 L
+(
+) 15.0 L
+(
+)
+2 3
+=
+445 kPa
+ 
+ 
+ 
+Next, consider the adiabatic process B →C: PBVB
+γ = PCVC
+γ 
+ 
+ 
+But, PC = PAVA
+γ
+VCVD
+γ −1 from above. Also considering the isothermal 
+process,  PB = PA
+VA
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+Hence, PA
+VA
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟VB
+γ =
+PAVA
+γ
+VCVD
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟VC
+γ , which reduces to 
+ 
+ 
+ 
+VB = VAVC
+VD
+= 10.0 L
+(
+) 24.0 L
+(
+)
+15.0 L
+= 16.0 L
+ 
+ 
+ 
+Finally, PB = PA
+VA
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 400 kPa
+(
+) 10.0 L
+16.0 L
+⎛
+⎝⎜
+⎞
+⎠⎟= 875 kPa . 
+State 
+P (kPa) 
+V (L) 
+T (K) 
+A 
+1 400 
+10.0 
+720 
+B 
+875 
+16.0 
+720 
+C 
+445 
+24.0 
+549 
+D 
+712 
+15.0 
+549 
+TABLE P22.32(a)
+
+--- PAGE 19 ---
+Chapter 22     1165 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For the isothermal process A →B:   ΔEint = nCVΔT = 0 so  
+ 
+ 
+ 
+Q = −W = nRT ln VB
+VA
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.34 mol
+(
+) 8.314 J mol ⋅K
+(
+) 720 K
+(
+)ln 16.0 L
+10.0 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= +6.58 kJ
+ 
+ 
+ 
+For the adiabatic process B →C: Q = 0 
+ 
+ 
+ 
+ΔEint = nCV TC −TB
+(
+)
+= 2.34 mol
+(
+) 3
+2 8.314 J mol ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥549 K −720 K
+(
+)
+= −4.98 kJ
+ 
+ 
+ 
+and W = −Q + ΔEint = 0 + −4.98 kJ
+(
+) = −4.98 kJ . 
+ 
+ 
+For the isothermal process C →D: ΔEint = nCVΔT = 0 and  
+ 
+ 
+ 
+Q = −W = nRT ln VD
+VC
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.34 mol
+(
+) 8.314 J mol ⋅K
+(
+) 549 K
+(
+)ln 15.0 L
+24.0 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −5.02 kJ
+ 
+ 
+ 
+Finally, for the adiabatic process D →A:  Q = 0 
+ 
+ 
+ 
+ΔEint = nCV TA −TD
+(
+)
+= 2.34 mol
+(
+) 3
+2 8.314 J mol ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥720 K −549 K
+(
+)
+= +4.98 kJ
+ 
+ 
+ 
+and W = −Q + ΔEint = 0 + 4.98 kJ = +4.98 kJ
+
+--- PAGE 20 ---
+1166     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Process 
+Q (kJ) 
+W (kJ) 
+ΔEint (kJ)
+ 
+A →B 
++6.58 
+–6.58 
+0 
+B →C 
+0 
+–4.98 
+–4.98 
+C →D 
+–5.02 
++5.02 
+0 
+D →A 
+0 
++4.98 
++4.98 
+ABCDA 
++1.56 
+–1.56 
+0 
+TABLE P22.32(b) 
+ 
+ 
+The work done by the engine is the negative of the work input. 
+The output work Weng is given by the work column in TABLE 
+P22.32(b) with all signs reversed. 
+ 
+(c) 
+e =
+Weng
+Qh
+= −WABCD
+QA→B
+= 1.56 kJ
+6.58 kJ = 0.237    or    23.7% 
+ 
+(d) 
+ec = 1−Tc
+Th
+= 1−549 K
+720 K = 0.237    or    23.7% 
+P22.33 
+(a) 
+“The actual efficiency is two thirds the Carnot efficiency” reads as 
+an equation 
+ 
+ 
+ 
+Weng
+Qh
+=
+Weng
+Qc + Weng
+= 2
+3 1−Tc
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟= 2
+3
+Th −Tc
+Th
+ 
+ 
+ 
+All the T’s represent absolute temperatures. Then 
+ 
+ 
+ 
+Qc + Weng
+Weng
+= 1.5 Th
+Th −Tc
+   →    Qc
+Weng
+= 1.5 Th
+Th −Tc
+−1 = 1.5 Th −Th + Tc
+Th −Tc
+ 
+ 
+ 
+ 
+Qc = Weng
+0.5 Th + Tc
+Th −Tc
+→Qc
+Δt =
+Weng
+Δt
+0.5 Th + Tc
+Th −Tc
+ 
+ 
+ 
+Qc
+Δt  = 1.40 0.5Th + 383
+Th − 383
+⎛
+⎝⎜
+⎞
+⎠⎟, where Qc/Δt is in megawatts and T is
+in kelvins.
+ 
+ 
+(b) 
+The exhaust power decreases as the firebox temperature increases.
+
+--- PAGE 21 ---
+Chapter 22     1167 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Qc
+Δt = 1.40 MW
+(
+) 0.5 Th + 383 K
+Th −383 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.40 MW
+(
+) 0.5(1 073 K)+ 383 K
+1 073 K −383 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.87 MW
+ 
+ 
+(d) We require 
+ 
+ 
+ 
+Qc
+Δt = 1
+2 1.87 MW
+(
+) = 1.40 MW
+(
+) 0.5 Th + 383 K
+Th −383 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.5 Th + 383 K
+Th −383 K
+= 0.666
+0.5 Th + 383 K = 0.666Th −255 K
+Th = 638 K/0.166 = 3.84 × 103 K
+ 
+ 
+(e) 
+The minimum possible heat exhaust power is approached as the 
+firebox temperature goes to infinity, and it is Qc /Δt =    
+1.40 MW(0.5/1) = 0.700 MW. The heat exhaust power cannot be 
+as small as (1/4)(1.87 MW) = 0.466 MW.  So no answer exists. The 
+energy exhaust cannot be that small. 
+P22.34 
+We determine the power required from 
+ 
+ 
+ 
+Qc
+W = COPc refrigerator
+(
+) =
+Tc
+Th −Tc
+=
+Qc / Δt
+W / Δt 
+ 
+ 
+ 
+0.150 W
+W / Δt = 260 K
+40.0 K
+P = W
+Δt = 0.150 W
+(
+) 40.0 K
+260 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 23.1 mW
+ 
+P22.35 
+The coefficient of performance of the device is 
+ 
+ 
+ 
+COP = 0.100 COPCarnot cycle  
+ 
+or 
+ 
+Qh
+W = 0.100
+Qh
+W
+⎛
+⎝⎜
+⎞
+⎠⎟
+Carnot cycle
+= 0.100
+1
+Carnot efficiency
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Qh
+W = 0.100
+Th
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.100
+293 K
+293 K −268 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.17 
+ 
+Thus, 1.17 joules of energy enter the room by heat for each joule of 
+work done.
+
+--- PAGE 22 ---
+1168     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 22.5 
+Gasoline and Diesel Engines 
+P22.36 
+Compression ratio = 6.00, γ = 1.40 
+ 
+(a) 
+Efficiency of an Otto engine: e = 1−V2
+V1
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+ 
+ 
+ 
+ 
+e = 1−
+1
+6.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.400
+= 51.2% 
+ 
+(b) If actual efficiency e’ = 15.0%, the fraction of fuel wasted is 
+(assuming complete combustion of the air-fuel mixture) 
+e −′e = 36.2% . 
+P22.37 
+(a) 
+For adiabatic expansion, PiVi
+γ = PfVf
+γ . Therefore, 
+ 
+ 
+ 
+Pf = Pi
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= (3.00 × 106 Pa) 50.0 cm3
+300 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.40
+= 2.44 × 105 Pa
+ 
+ 
+ 
+(b) 
+Since Q = 0, we have Weng = Q −ΔE = −nCVΔT = −nCV(Tf −Ti). 
+ 
+ 
+From γ = CP
+CV = CV + R
+CV
+,  we get (γ −1)CV = R, so that 
+ 
+ 
+ 
+CV =
+R
+1.40 – 1 = 2.50 R
+ 
+ 
+ 
+The work done by the gas in expanding is then 
+ 
+ 
+ 
+Weng = n(2.50 R)(Ti −Tf ) = 2.50PiVi −2.50PfVf
+= 2.50
+3.00 × 106 Pa
+(
+) 50.0 × 10−6 m3
+(
+)
+⎡⎣
+                  −2.44 × 105 Pa
+(
+) 300 × 10−6 m3
+(
+)⎤⎦
+= 192 J
+ 
+P22.38 
+The energy transferred by heat over the  
+paths CD and BA is zero since they are  
+adiabatic.  
+ 
+Over path BC: QBC = nCP (TC − TB) > 0 
+ 
+Over path DA: QDA = nCV (TA − TD) < 0 
+ 
+Therefore, Qc = QDA and Qh = QBC. 
+ANS. FIG. P22.38
+
+--- PAGE 23 ---
+Chapter 22     1169 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The efficiency is then 
+ 
+ 
+ 
+e = 1−Qc
+Qh
+= 1−TD −TA
+(
+)CV
+TC −TB
+(
+)CP
+= 1−1
+γ
+TD −TA
+TC −TB
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+Section 22.6 
+Entropy 
+P22.39 
+Each marble is returned to the bag before the next is drawn, so the 
+probability of drawing a red one is the same as drawing a green one.  
+ 
+(a) 
+ 
+Result 
+Possible Combinations 
+Total 
+All red 
+RRR 
+1 
+2R, 1G 
+RRG, RGR, GRR 
+3 
+1R, 2G 
+RGG, GRG, GGR 
+3 
+All green 
+GGG 
+1 
+TABLE P22.39(a) 
+ 
+(b)  
+Result 
+Possible Combinations 
+Total 
+All red 
+RRRRR 
+1 
+4R, 1G 
+RRRRG, RRRGR, RRGRR, RGRRR, 
+GRRRR 
+5 
+3R, 2G 
+RRRGG, RRGRG, RGRRG, GRRRG, 
+RRGGR, RGRGR, GRRGR, RGGRR, 
+GRGRR, GGRRR 
+10 
+2R, 3G 
+GGGRR, GGRGR, GRGGR, RGGGR, 
+GGRRG, GRGRG, RGGRG, GRRGG, 
+RGRGG, RRGGG 
+10 
+1R, 4G 
+RGGGG, GRGGG, GGRGG, GGGRG, 
+GGGGR 
+5 
+All green 
+GGGGG 
+1 
+TABLE P22.39(b)
+
+--- PAGE 24 ---
+1170     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.40 
+(a) 
+The table is shown in TABLE P22.40 below.  
+ 
+(b) On the basis of the table, the most probable recorded result of a 
+toss is 2 heads and 2 tails . 
+ 
+Result 
+Possible Combinations 
+Total 
+All heads 
+HHHH 
+1 
+3H, 1T 
+THHH, HTHH, HHTH, HHHT 
+4 
+2H, 2T 
+TTHH, THTH, THHT, HTTH, HTHT, 
+HHTT 
+6 
+1H, 3T 
+HTTT, THTT, TTHT, TTTH 
+4 
+All tails 
+TTTT 
+1 
+TABLE P22.40 
+P22.41 
+(a) 
+A 12 can only be obtained one way, as 6 + 6. 
+ 
+(b) A 7 can be obtained six ways: 6 + 1, 5 + 2, 4 + 3, 3 + 4, 2 + 5, 
+and 1 + 6. 
+ 
+ 
+	  
+Section 22.7 
+Changes in Entropy for Thermodynamic Systems 
+Section 22.8 
+Entropy and the Second Law 
+P22.42 
+For a freezing process, 
+ 
+ 
+ 
+ΔS = ΔQ
+T =
+−0.500 kg
+(
+) 3.33 × 105 J kg
+(
+)
+273 K
+= −610 J K 
+P22.43 
+The hot water has negative energy input by heat, given by Q = mcΔT. 
+The surrounding room has positive energy input of this same number 
+of joules, which we can write as Qroom = mc ΔT
+(
+)water . Imagine the room 
+absorbing this energy reversibly by heat, from a stove at 20.001°C. Then 
+its entropy increase is Qroom/T: 
+ 
+ 
+ΔS = Qr
+T = mcw ΔT
+T
+= 0.125 kg
+(
+) 4186 J kg⋅°C
+(
+) 80°C
+(
+)
+293 K
+= 143 J K
+
+--- PAGE 25 ---
+Chapter 22     1171 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P22.44 
+ciron = 448 J kg ⋅°C; cwater = 4 186 J kg ⋅°C 
+ 
+From Qcold = −Qhot: 
+ 
+ 
+ 
+4.00 kg
+(
+) 4 186 J kg ⋅°C
+(
+) Tf −10.0°C
+(
+)
+                        = −1.00 kg
+(
+) 448 J kg ⋅°C
+(
+) Tf −900°C
+(
+)
+ 
+ 
+which yields Tf = 33.2°C = 306.3 K. Then,  
+ 
+ 
+ 
+ΔS =
+cwatermwaterdT
+T
+283 K
+306.3 K
+∫
++
+cironmirondT
+T
+1 173 K
+306.3 K
+∫
+ΔS = cwatermwater ln 306.3 K
+283 K
+(
+) + cironmiron ln 306.3 K
+1 173 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔS = 4 186 J kg ⋅K
+(
+) 4.00 kg
+(
+) 0.078 7
+(
+)
+                                 + 448 J kg ⋅K
+(
+) 1.00 kg
+(
+) −1.34
+(
+)
+ΔS = 717 J K
+ 
+*P22.45 
+The car ends up in the same thermodynamic state as it started, so it 
+undergoes zero changes in entropy. The original kinetic energy of the 
+car is transferred by heat to the surrounding air, adding to the internal 
+energy of the air. Its change in entropy is 
+ 
+ 
+ 
+ΔS =
+1
+2 mv2
+T
+=
+1
+2 1 500 kg
+(
+) 20.0 m/s
+(
+)2
+293 K
+= 1.02 kJ K
+ 
+P22.46 
+The total momentum before collision is zero, so the combined mass 
+must be at rest after the collision. The energy dissipated by heat equals 
+the total initial kinetic energy, 
+ 
+ 
+Q = 2 1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2000 kg
+(
+) 20.0 m s
+(
+)
+2 = 8.00 × 105 J = 800 kJ 
+ 
+With the environment at an absolute temperature of T = 23 + 273 = 296 
+K, the change in entropy is 
+ 
+ 
+ΔS = ΔQr
+T
+= 800 kJ
+296 K = 2.70 kJ K 
+P22.47 
+The potential energy lost by the log is eventually transferred by heat 
+into thermal energy of the environment, so Q = mgh, and the change in 
+entropy is 
+ 
+ 
+ΔS = Q
+T = mgh
+T
+=
+70.0 kg
+(
+) 9.80 m s2
+(
+) 25.0 m
+(
+)
+300 K
+= 57.2 J K
+
+--- PAGE 26 ---
+1172     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.48 
+(a) 
+This is a free expansion process. From Equation 22.17,  
+ 
+ 
+ 
+ΔS = nRln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= (1.00 mol)(8.314 J mol ⋅K) ln 2
+1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.76 J K
+ 
+  
+(b) The gas is expanding into an evacuated region. Therefore, W = 0. 
+It expands so fast that energy has no time to flow by heat: Q = 0. But 
+ΔEint = Q + W, so in this case ΔEint = 0. For an ideal gas, the internal 
+energy is a function of the temperature and no other variables, so 
+with ΔEint = 0, there is no change in temperature . 
+ 
+ 
+ANS. FIG. P22.48 
+P22.49 
+Each gas expands into the other half of the container as though the 
+other gas were not there; therefore, consider each gas to undergo a free 
+expansion process in which its volume doubles. From Equation 22.17, 
+the entropy change is twice that for a single gas: 
+ 
+ 
+ 
+ΔS = 2 nRln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+    = 2
+0.044 0
+(
+) 8.314 J mol ⋅K
+(
+) ln2
+(
+)
+⎡⎣
+⎤⎦
+    = 0.507 J K
+ 
+ 
+ANS. FIG. P22.49
+
+--- PAGE 27 ---
+Chapter 22     1173 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P22.50 
+We take data from Tables 20.1 and 20.2, and we assume a constant 
+specific heat for each phase. As the ice is warmed from –12.0°C to 0°C, 
+its entropy increases by 
+ 
+ 
+ 
+ΔS =
+dQ
+T
+i
+f
+∫
+=
+mcicedT
+T
+261 K
+273 K
+∫
+= mcice
+T −1 dT
+261 K
+273 K
+∫
+= mcice lnT 261 K
+273 K
+ΔS = 0.027 9 kg
+(
+) 2 090 J kg ⋅°C
+(
+) ln273 K −ln261 K
+(
+)
+= 0.027 9 kg
+(
+) 2 090 J kg ⋅°C
+(
+) ln 273 K
+261 K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+ΔS = 2.62 J K
+ 
+ 
+As the ice melts its entropy change is 
+ 
+ 
+ 
+ΔS = Q
+T = mLf
+T
+= 0.027 9 kg
+(
+) 3.33 × 105 J kg
+(
+)
+273 K
+= 34.0 J K
+ 
+ 
+As liquid water warms from 273 K to 373 K, 
+ 
+ 
+ 
+ΔS =
+mcliquiddT
+T
+i
+f
+∫
+= mcliquid ln Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.027 9 kg
+(
+) 4 186 J kg ⋅°C
+(
+)ln 373 K
+273 K
+(
+) = 36.5 J K
+ 
+ 
+As the water boils and the steam warms, 
+ 
+ 
+ 
+ΔS = mLv
+T
++ mcsteam ln Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+ΔS = 0.027 9 kg
+(
+) 2.26 × 106 J kg
+(
+)
+373 K
+                 + 0.027 9 kg
+(
+) 2 010 J kg ⋅°C
+(
+)ln 388 K
+373 K
+(
+)
+= 169 J K + 2.21 J K
+ 
+ 
+The total entropy change is 
+ 
+ 
+ 
+ΔStot = 2.62 + 34.0 + 36.5 + 169 + 2.21
+(
+) J K = 244 J K 
+ 
+For steam at constant pressure, the molar specific heat in Table 20.1 
+implies a specific heat of 35.4 J mol ⋅K
+(
+)
+1 mol
+0.018 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 970 J kg ⋅K, 
+nearly agreeing with 2 010 J/kg . K. 
+*P22.51 
+The change in entropy is given by  
+ 
+ 
+ΔS =
+dQ
+T
+i
+f
+∫
+=
+mc dT
+T
+Ti
+Tf
+∫
+
+--- PAGE 28 ---
+1174     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Here T means the absolute temperature. We would ordinarily think of 
+dT as the change in the Celsius temperature, but one Celsius degree of 
+temperature change is the same size as one kelvin of change, so dT is 
+also the change in absolute T. 
+ 
+ 
+ΔS = mclnT Ti
+Tf = mcln Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.250 kg
+(
+) 4 186 J kg⋅K
+(
+)ln 353 K
+293 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 195 J K
+ 
+P22.52 
+Sitting here writing, I convert chemical energy from molecules in food, 
+into internal energy that leaves my body by heat into the room-
+temperature surroundings. My rate of energy output is equal to my 
+metabolic rate, 
+ 
+ 
+ 
+2 500 kcal d =
+2 500 × 103 cal
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+4.186 J
+1 cal
+⎛
+⎝⎜
+⎞
+⎠⎟= 120 W
+ 
+ 
+My body is in steady state, changing little in entropy, as the 
+environment increases in entropy at the rate 
+ 
+ 
+ 
+ΔS
+Δt = Q T
+Δt = Q Δt
+T
+= 120 W
+293 K = 0.4 W K ~ 1 W K
+ 
+ 
+When using powerful appliances or an automobile, my personal 
+contribution to entropy production is much greater than the above 
+estimate, based only on metabolism. 
+P22.53 
+The change in entropy of a reservoir is ΔS = Qr T , where Qr is the 
+energy absorbed (Qr > 0) or expelled (Qr < 0) by the reservoir, and T is 
+the absolute temperature of the reservoir. 
+ 
+(a) 
+For the hot reservoir: ΔSh = −2.50 × 103 J
+725 K
+= −3.45 J K 
+ 
+(b) For the cold reservoir: ΔSc = +2.50 × 103 J
+310 K
+= +8.06 J K 
+ 
+(c) 
+For the Universe:  
+ 
+ 
+ 
+ΔSU = ΔSh + ΔSc = −3.45 J K + 8.06 J K = +4.61 J K 
+P22.54 
+The change in entropy of a reservoir is ΔS = Qr T , where Qr is the 
+energy absorbed (Qr > 0) or expelled (Qr < 0) by the reservoir, and T is 
+the absolute temperature of the reservoir. 
+ 
+(a) 
+Energy is transferred from the hot reservoir by heat: Qh = −Q,
+
+--- PAGE 29 ---
+Chapter 22     1175 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and ΔSh = −Q
+Th
+. 
+ 
+(b) Energy is transferred to the cold reservoir by heat: Qc = +Q, and 
+ΔSc = Q
+Tc
+. 
+ 
+(c) 
+For the Universe, ΔSU = ΔSh + ΔSc = Q
+1
+Tc
+−1
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+P22.55 
+ΔS = Q2
+T2
+−Q1
+T1
+=
+1 000 J
+290 K −1 000 J
+5 800 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.28 J K 
+*P22.56 
+Define T1 = Temp Cream = 5.00°C = 278 K.  
+ 
+Define T2 = Temp Coffee = 60.0°C = 333 K.  
+ 
+The final temperature of the mixture is  
+ 
+ 
+ 
+Tf = (20.0 g)T1 + (200 g)T2
+220 g
+= 55.0°C = 328 K
+  
+ 
+The entropy change due to this mixing is  
+ 
+ 
+ 
+ΔS = 20.0 g
+(
+)
+cVdT
+T
+T1
+Tf∫
++ 200 g
+(
+)
+cVdT
+T
+T2
+Tf∫
+= 84.0 J K
+(
+)ln Tf
+T1
+⎛
+⎝⎜
+⎞
+⎠⎟+ 840 J K
+(
+)ln Tf
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 84.0 K J
+(
+)ln 328 K
+278 K
+(
+) + 840 J K
+(
+)ln 328 K
+333 K
+(
+)
+ΔS = +1.18 J K
+ 
+*P22.57 
+We first determine the energy that must be extracted from tap water at 
+10.0°C to produce ice at –20.0°C: 
+ 
+ 
+ 
+Qc = mcΔT + mL + mcΔT 
+ 
+ 
+ 
+Qc = 0.500 kg
+(
+) 4 186 J kg ⋅°C
+(
+) 10.0°C
+(
+)
+                    + 0.500 kg
+(
+) 3.33 × 105 J kg
+(
+)
+                    + 0.500 kg
+(
+) 2 090 J kg ⋅°C
+(
+) 20.0°C
+(
+)
+= 2.08 × 105 J
+
+--- PAGE 30 ---
+1176     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The work required to accomplish this is then found from 
+ 
+ 
+ 
+Qc
+W = COPc refrigerator
+(
+) =
+Tc
+Th −Tc
+ 
+ 
+or 
+ 
+ 
+ 
+W = Qc Th −Tc
+(
+)
+Tc
+= 2.08 × 105 J
+(
+) 20.0°C −−20.0°C
+(
+)
+[
+]
+273 K −20.0°C
+= 32.9 kJ
+ 
+P22.58 
+We are given Tc = 273 K. 
+ 
+(a) 
+For steam at 100°C, Th = 373 K and 
+ 
+ 
+ 
+e = 1−Tc
+Th
+= 1−273 K
+373 K = 0.268 
+ 
+(b) For superheated steam at 200°C, Th = 473 K and 
+ 
+ 
+ 
+e = 1−Tc
+Th
+= 1−273 K
+473 K = 0.423 
+P22.59 
+Qh = 3W, and for an engine, Qh = W + Qc = 3W    →    Qc = 2W. 
+ 
+(a) 
+e = W
+Qh
+= W
+3W = 1
+3 
+ 
+(b) 
+Qc
+ Qh
+  = 2W
+3W  =  2
+3 
+P22.60 
+The conversion of gravitational potential energy into kinetic energy as 
+the water falls is reversible. But the subsequent conversion into 
+internal energy is not. We imagine arriving at the same final state by 
+adding energy by heat, in amount mgy, to the water from a stove at a 
+temperature infinitesimally above 20.0°C. Then, 
+ 
+ 
+ 
+ΔS
+Δt =
+dQr Δt
+T
+∫
+= Q Δt
+T
+= mgy Δt
+T
+=
+5 000 m3 s
+(
+) 1 000 kg m3
+(
+) 9.80 m s2
+(
+) 50.0 m
+(
+)
+293 K
+      =  8.36 × 106  J K ⋅ s
+ 
+P22.61 
+The maximum (Carnot) or ideal efficiency is 
+ 
+ 
+ 
+eideal = 1−Tc
+Th
+
+--- PAGE 31 ---
+Chapter 22     1177 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(where we note that the temperatures must be given in kelvin.) Thus, 
+ 
+eideal = 1−Tc
+Th
+= 1−185°C + 273°
+(
+)
+545°C + 273°
+(
+) = 1−458.15K
+818.15K
+= 0.440 = 44.0%
+ 
+P22.62 
+(a) 
+10.0 Btu h
+W
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 055 J
+1 Btu
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 W
+1 J s
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.93 
+ 
+(b) The energy extracted by heat from the cold side divided by 
+required work input is by definition the coefficient of 
+performance for a refrigerator: 
+COP
+(
+)refrigerator 
+ 
+(c) 
+With an EER of 5,  
+ 
+ 
+ 
+5 Btu
+h ⋅W = 10 000 Btu h
+P
+  
+ 
+ 
+which gives 
+ 
+ 
+ 
+P = 10 000 Btu h
+5 Btu h ⋅W = 2 000 W = 2.00 kW
+ 
+ 
+ 
+Energy purchased is PΔt = 2.00 kW
+(
+) 1 500 h
+(
+) = 3.00 × 103 kWh. 
+ 
+ 
+Cost = 3.00 × 103 kWh
+(
+) 0.170 $ kWh
+(
+) = $510:   
+ 
+ 
+ 
+With EER 5, $510 
+ 
+ 
+With EER 10,  
+ 
+ 
+ 
+10 Btu
+h ⋅W = 10 000 Btu h
+P
+→P = 10 000 Btu h
+10 Btu h ⋅W = 1 000 W = 1.00 kW
+  
+ 
+ 
+Energy purchased is PΔt = 1.00 kW
+(
+) 1 500 h
+(
+) = 1.50 × 103 kWh 
+ 
+ 
+Cost = 1.50 × 103 kWh
+(
+) 0.170 $ kWh
+(
+) = $255 :   
+ 
+ 
+ 
+With EER 10, $255 
+ 
+ 
+Thus, the cost for air conditioning is half as much for an air
+conditioner with EER 10 compared with an air conditioner
+with EER 5.
+
+--- PAGE 32 ---
+1178     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.63 
+(a) 
+Pelectric = HET
+Δt so if all the electric energy is converted into internal 
+energy, the steady-state condition of the house is described by 
+HET = Q . 
+ 
+ 
+Therefore,   Pelectric = Q
+Δt = 5.00 kW . 
+  
+(b) For a heat pump,    COP
+(
+)Carnot = Th
+ΔT = 295 K
+27.0 K = 10.93 
+ 
+ 
+Actual    COP = 0.6 10.93
+(
+) = 6.56 = Qh
+W = Qh Δt
+W Δt 
+ 
+ 
+Therefore, to bring 5 000 W of energy into the house only requires 
+input power  
+ 
+ 
+ 
+Pheat pump = W
+Δt = Qh Δt
+COP = 5 000 W
+6.56
+= 763 W
+ 
+*P22.64 
+(a) 
+The energy transferred to the gas by heat is 
+ 
+ 
+ 
+Q = mcΔT = 1.00 mol
+(
+) 20.79 J/mol⋅K
+(
+) 120 K
+(
+)
+= 2.49 × 103 J = 2.49 kJ
+  
+ 
+(b) Treating the neon as a monatomic ideal gas, Equation 21.25 gives 
+the change in internal energy as ΔU = 3
+2 nRΔT, or 
+ 
+ 
+ 
+ΔU = 3
+2 1.00 mol
+(
+) 8.314 J/mol⋅K
+(
+) 120 K
+(
+)
+= 1.50 × 103 J = 1.50 kJ
+ 
+ 
+(c) 
+From the first law, the work done on the gas is 
+ 
+ 
+ 
+W = ΔU −Q = 1.50 × 103 J −2.49 × 103 J = −990 J 
+P22.65 
+Energy transfer by heat for infinitesimal temperature change dT is  
+dQ = nCdT, where C is the molar specific heat for either constant 
+volume (CV = 5R/2) or pressure (CP = 7R/2) for air, a diatomic gas. The 
+corresponding entropy change is  
+ 
+ 
+dS = dQr
+T
+= nCdT
+T
+     →     ΔS =
+nCdT
+T
+Ti
+Tf
+∫
+= nC ln
+Tf
+Ti
+, 
+ 
+with Ti = 25.0 + 273 = 298 K   and   Tf = −18.0 + 273 = 255 K .
+
+--- PAGE 33 ---
+Chapter 22     1179 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+ΔS = nCV ln Tf
+Ti
+= n 5
+2 R ln 255 K
+298 K
+⎛
+⎝⎜
+⎞
+⎠⎟= −0.390nR 
+ 
+(b) 
+ΔS = nCP ln Tf
+Ti
+= n7
+2 R ln 255 K
+298 K
+⎛
+⎝⎜
+⎞
+⎠⎟= −0.545nR 
+P22.66 
+(a) 
+The coefficient of performance of an air conditioner is defined as 
+ 
+ 
+ 
+COP
+(
+)ac = Qc
+W =
+Qc
+Qh −Qc
+=
+1
+Qh
+Qc −1 
+ 
+ 
+But when a device operates on the Carnot cycle, Qh
+Qc = Th Tc . 
+Thus, the coefficient of performance for a Carnot heat pump 
+would be 
+ 
+ 
+ 
+COP
+(
+)ac =
+1
+Th Tc −1 =
+Tc
+Th −Tc
+ 
+ 
+(b) From the result of part (a) above, we observe that the COP of a 
+Carnot air conditioner would increase if the temperature 
+difference Th – Tc becomes smaller . 
+ 
+(c) 
+If Tc = 20° + 273 = 293 K and Th = 40° + 273 = 313 K, the COP of a 
+Carnot heat pump would be 
+ 
+ 
+ 
+COP
+(
+)ac,C =
+Tc
+Th −Tc
+=
+293 K
+313 K −293 K = 14.6 
+P22.67 
+(a) 
+For the constant volume process AB,  
+ 
+ 
+ 
+QAB = ΔEint, AB = 3
+2 nRΔT = 3
+2 nR 3Ti −Ti
+(
+) = 3nRTi 
+ 
+(b) For an isothermal process,    Q = nRT ln V2
+V1
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+Therefore, for process BC,    QBC = 3nRTi ln2 . 
+ 
+(c) 
+For the constant volume process CD,  
+ 
+ 
+ 
+QCD = ΔEint, CD = 3
+2 nRΔT = 3
+2 nR Ti −3Ti
+(
+) = −3nRTi
+
+--- PAGE 34 ---
+1180     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P22.67 
+ 
+ 
+(d) For an isothermal process DA,    QDA = nRTi ln 1
+2 = −nRTi ln2 . 
+ 
+(e) 
+Qh = QAB + QBC = 3nRTi + 3nRTi ln2 = 3nRTi 1+ ln2
+(
+) 
+ 
+(f) 
+Since the change in temperature for the complete cycle is zero,  
+ 
+ 
+ 
+ΔEint = 0  and  Weng = Q 
+ 
+ 
+and work done by the engine is  
+ 
+ 
+ 
+W = Q = QAB + QBC + QCD + QDA
+= 3nRTi + 3nRTi ln2 −3nRTi −nRTi ln2
+W = 2nRTi ln2
+ 
+ 
+(g) The efficiency is     
+ 
+ 
+ 
+ec = Weng
+Qh
+= Q
+Qh
+=
+2ln2
+3 1+ ln2
+(
+) = 0.273
+ 
+P22.68 
+For the Carnot engine,      
+ 
+ 
+ec = 1−Tc
+Th
+= 1−300 K
+750 K = 0.600 
+ 
+Also,    ec =
+Weng
+Qh
+, 
+ 
+so     Qh  = 
+Weng
+ec
+ = 150 J
+0.600 = 250 J 
+ 
+and     Qc = Qh −Weng = 250 J −150 J = 100 J. 
+ 
+(a) 
+Qh =
+Weng
+eS
+= 150 J
+0.700 = 214 J 
+ANS. FIG. P22.68
+
+--- PAGE 35 ---
+Chapter 22     1181 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Qc = Qh −Weng =
+Weng
+eS
+−150 J = 64.3 J
+ 
+ 
+(b) When engine S delivers 150 J of work to the Carnot engine, the 
+Carnot engine transfers 250 J to the firebox while engine S takes 
+214 J from the firebox: 
+ 
+ 
+ 
+Qh,net = −
+Weng
+eS
++ 250 J = 35.7 J
+ 
+ 
+ 
+and the Carnot engine removes 100 J from the environment while 
+engine S returns 64.3 J:  
+ 
+ 
+ 
+Qc,net = 64.3 J −100 J = 35.7 J 
+ 
+ 
+The total energy the firebox puts out equals the total energy
+transferred to the environment.
+ 
+ 
+ANS. FIG. P22.68(a–b) 
+ 
+(c) 
+The net flow of energy by heat from the cold to the hot reservoir
+without work input is impossible.
+ 
+ 
+(d) For engine S:    Qc,S = Qh,S −Weng S =
+Weng S
+eS
+−Weng S 
+ 
+ 
+so work output is   Weng S =
+Qc,S
+1
+eS −1 = 100 J
+1
+0.700 −1 = 233 J 
+ 
+ 
+and energy input to engine S is   
+ 
+ 
+ 
+Qh,S = Qc,S + Weng S = 233 J + 100 J = 333 J 
+ 
+(e) 
+Engine S contributes 150 J out of 233 J to running the Carnot 
+engine: 
+ 
+ 
+ 
+Qh,net = Qh,S −250 J = 333 J −250 J = 83.3 J 
+ 
+ 
+This is the net energy lost by the firebox.
+
+--- PAGE 36 ---
+1182     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+The remaining work output is 
+ 
+ 
+ 
+Wnet = Weng S −250 J = 233 J −150 J = 83.3 J 
+ 
+(g) 
+Qc,net = 0 
+ 
+ANS. FIG. P22.68(e–g) 
+ 
+(h) 
+The output of 83.3 J of energy from the heat engine by work in
+a cyclic process without any exhaust by heat is impossible.
+ 
+ 
+(i) 
+Both engines operate in cycles, so    ΔSS = ΔSCarnot = 0. 
+ 
+ 
+For the reservoirs, ΔSh = −Qh
+Th
+  and  ΔSc = + Qc
+Tc
+. 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+ΔStotal = ΔSS + ΔSCarnot + ΔSh + ΔSc = 0 + 0 −83.3 J
+750 K +
+0
+300 K
+= −0.111 J K
+  
+ 
+(j) 
+A decrease in total entropy is impossible. 
+P22.69 
+(a) 
+Let state i represent the gas before its compression and state f 
+afterwards, Vf = Vi
+8
+. For a diatomic ideal gas, CV = 5
+2 R, Cp = 7
+2 R, 
+and γ =
+Cp
+CV
+= 1.40. Next, 
+ 
+ 
+ 
+PiVi
+γ = PfVf
+γ
+Pf = Pi
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= Pi81.40 = 18.4Pi
+PiVi = nRTi
+PfVf = 18.4PiVi
+8
+= 2.30PiVi = 2.30nRTi = nRTf
+
+--- PAGE 37 ---
+Chapter 22     1183 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+Tf = 2.30Ti 
+ 
+ 
+ 
+ΔEint = nCVΔT = n 5
+2 R Tf −Ti
+(
+) = 5
+2 nR 1.30Ti
+(
+) = 5
+2 1.30PiVi
+(
+)
+= 5
+2 1.30
+(
+) 1.013 × 105 N m2
+(
+) 0.120 × 10−3 m3
+(
+) = 39.4 J
+ 
+ 
+ 
+Since the process is adiabatic, Q = 0 and ΔEint = Q + W gives  
+ 
+ 
+ 
+W = 39.4 J 
+ 
+ (b) The moment of inertia of the wheel is  
+ 
+ 
+ 
+I = 1
+2 MR2 = 1
+2 5.10 kg
+(
+) 0.085 0 m
+(
+)
+2 = 0.018 4 kg ⋅m2  
+ 
+ 
+We want the flywheel to do work 39.4 J, so the work on the 
+flywheel should be –39.4 J: 
+ 
+ 
+ 
+Krot i + W = Krot f
+1
+2 Iωi
+2 −39.4 J = 0
+ωi =
+2 39.4 J
+(
+)
+0.018 4 kg ⋅m2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 65.4 rad/s = 625 rev/min
+ 
+ 
+(c) 
+Now we want W = 0.05Krot i: 
+ 
+ 
+39.4 J = 0.05 1
+2 0.018 4 kg ⋅m2
+(
+)ωi
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ωi =
+2 789 J
+(
+)
+0.018 4 kg ⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 293 rad/s = 2.79 × 103 rev/min
+ 
+P22.70 
+Like a refrigerator, an air conditioner has as its purpose the removal of 
+energy by heat from the cold reservoir. 
+ 
+Its ideal COP is COPCarnot =
+Tc
+Th −Tc
+= 280 K
+20.0 K = 14.0. 
+ 
+(a) 
+Its actual COP is  
+ 
+ 
+ 
+0.400 14.0
+(
+) = 5.60 =
+Qc
+Qh −Qc
+=
+Qc Δt
+Qh Δt −Qc Δt 
+ 
+ 
+ 
+5.60 Qh
+Δt −5.60 Qc
+Δt = Qc
+Δt
+
+--- PAGE 38 ---
+1184     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+5.60 10.0 kW
+(
+) = 6.60 Qc
+Δt
+     and     Qc
+Δt = 8.48 kW 
+ 
+(b) 
+Qh = Weng + Qc :  
+ 
+ 
+Weng
+Δt = Qh
+Δt −Qc
+Δt = 10.0 kW −8.48 kW = 1.52 kW 
+ 
+(c) 
+The air conditioner operates in a cycle, so the entropy of the 
+working fluid does not change. The hot reservoir increases in 
+entropy by 
+ 
+ 
+ 
+Qh
+Th
+=
+10.0 × 103 J s
+(
+) 3 600 s
+(
+)
+300 K
+= 1.20 × 105 J K
+ 
+ 
+ 
+The cold room decreases in entropy by 
+ 
+ 
+ 
+ΔS = −Qc
+Tc
+= −
+8.48 × 103 J s
+(
+) 3 600 s
+(
+)
+280 K
+    = −1.09 × 105 J K
+ 
+ 
+ 
+The net entropy change is positive, as it must be: 
+ 
+ 
+ 
++1.20 × 105 J K −1.09 × 105 J K = 1.09 × 104 J K 
+ 
+(d) The new ideal COP is COPCarnot =
+Tc
+Th −Tc
+= 280 K
+25 K = 11.2. 
+ 
+ 
+We suppose the actual COP is 0.400(11.2) = 4.48. 
+ 
+ 
+As a fraction of the original 5.60, this is 4.48
+5.60 = 0.800, so the 
+fractional change is to drop by 20.0% . 
+P22.71 
+eC = 1−Tc
+Th
+=
+Weng
+Qh
+=
+Weng / Δt
+Qh / Δt :   Qh
+Δt =
+P
+1−Tc Th
+(
+)
+=
+PTh
+Th −Tc
+ 
+ 
+Qh = Weng + Qc :      Qc
+Δt = Qh
+Δt −
+Weng
+Δt
+ 
+ 
+Qc
+Δt =
+PTh
+Th −Tc
+−P =
+PTc
+Th −Tc
+ 
+ 
+Qc = mcΔT:       Qc
+Δt =
+Δm
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟cΔT =
+PTc
+Th −Tc
+
+--- PAGE 39 ---
+Chapter 22     1185 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Δm
+Δt =
+PTc
+Th −Tc
+(
+)cΔT 
+ 
+Δm
+Δt =
+1.00 × 109 W
+(
+) 300 K
+(
+)
+200 K
+(
+) 4 186 J kg ⋅°C
+(
+) 6.00°C
+(
+)
+= 5.97 × 104 kg s
+ 
+P22.72 
+eC = 1−Tc
+Th
+=
+Weng
+Qh
+=
+Weng / Δt
+Qh / Δt :     Qh
+Δt =
+P
+1−(Tc /Th) =
+PTh
+Th −Tc
+ 
+ 
+Qc
+Δt =
+Qh
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟−P =
+PTc
+Th −Tc
+ 
+ 
+But Qc = mcΔT, where c is the specific heat of water. 
+ 
+Therefore, Qc
+Δt =
+Δm
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟cΔT =
+PTc
+Th −Tc
+ 
+ 
+and     Δm
+Δt =
+PTc
+Th −Tc
+(
+)cΔT . 
+P22.73 
+(a) 
+For the isothermal process AB, the work on the gas is 
+ 
+ 
+ 
+WAB = −PAVA ln VB
+VA
+⎛
+⎝⎜
+⎞
+⎠⎟
+WAB = −5 1.013 × 105 Pa
+(
+) 10.0 × 10−3 m3
+(
+)ln 50.0 L
+10.0 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+WAB = −8.15 × 103 J
+ 
+ 
+ 
+where we have used 1.00 atm = 1.013 × 10
+5 Pa and  
+1.00 L = 1.00 × 10
+–3 m
+3. 
+ 
+ 
+ 
+WBC = −PBΔV = −1.013 × 105 Pa
+(
+)
+10.0 −50.0
+(
+) × 10−3
+⎡⎣
+⎤⎦m3
+= +4.05 × 103 J
+ 
+ 
+ 
+ 
+WCA = 0     and     Weng = −WAB −WBC = 4.10 × 103 J = 4.10 kJ 
+ 
+ANS. FIG. P22.73
+
+--- PAGE 40 ---
+1186     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(b) Since AB is an isothermal process, ΔEint, AB = 0 
+ 
+ 
+and QAB = –WAB = 8.15 × 10
+3 J. 
+ 
+ 
+For an ideal monatomic gas, CV = 3R
+2
+ and CP = 5R
+2 . 
+ 
+ 
+ 
+TB = TA = PBVB
+nR =
+1.013 × 105 Pa
+(
+) 50.0 × 10−3 m3
+(
+)
+R
+= 5.06 × 103
+R
+ 
+ 
+ 
+Also, TC = PCVC
+nR =
+1.013 × 105 Pa
+(
+) 10.0 × 10−3 m3
+(
+)
+R
+= 1.01× 103
+R
+ 
+ 
+ 
+ 
+QCA = nCVΔT = 1.00 3
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟
+5.06 × 103 −1.01× 103
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.08 kJ 
+ 
+ 
+so the total energy absorbed by heat is  
+ 
+ 
+ 
+QAB + QCA = 8.15 kJ + 6.08 kJ = 1.42 × 104 J 
+ 
+(c) 
+QBC = nCPΔT = 5
+2 nRΔT
+(
+) = 5
+2 PBΔVBC 
+ 
+ 
+QBC = 5
+2 1.013 × 105
+(
+)
+10.0 −50.0
+(
+) × 10−3
+⎡⎣
+⎤⎦= −1.01× 104 J
+= 1.01× 104 J
+ 
+ 
+(d) 
+e =
+Weng
+Qh
+=
+Weng
+QAB + QCA
+= 4.10 × 103 J
+1.42 × 104 J = 0.289   or 28.9% 
+ 
+(e) 
+A Carnot engine operating between Thot = TA = 5 060/R and Tcold = 
+TC = 1 010/R has eC = 1−Tc/Th = 1−1/5 =  80.0%. The efficiency 
+of the cycle is much lower than that of a Carnot engine operating 
+between the same temperature extremes. 
+P22.74 
+(a) 
+The ideal gas at constant temperature keeps constant internal 
+energy. As it puts out energy by work in expanding, it must take 
+in an equal amount of energy by heat. Thus its entropy increases. 
+Let Pi , Vi , and Ti represent the state of the gas before the 
+isothermal expansion. Let PC , VC , and Ti represent the state after 
+this process, so that PiVi = PCVC. Let Pi , 3Vi , and Tf  represent the 
+state after the adiabatic compression. 
+ 
+ 
+Then  
+PCVC
+γ = Pi 3Vi
+(
+)
+γ
+
+--- PAGE 41 ---
+Chapter 22     1187 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting  
+PC = PiVi
+VC
+ 
+ 
+ 
+gives  
+PiViVC
+γ −1 = Pi 3γ Vi
+γ
+(
+) 
+ 
+ 
+Then  
+VC
+γ −1 = 3γ Vi
+γ −1   and   VC
+Vi
+= 3
+γ
+γ −1
+(
+) 
+ 
+ 
+The work output in the isothermal expansion is 
+ 
+ 
+ 
+W =
+PdV
+i
+C
+∫
+= nRTi
+V −1 dV
+i
+C
+∫
+= nRTi ln VC
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= nRTi ln 3
+γ
+γ −1
+(
+)
+(
+) = nRTi
+γ
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟ln3
+ 
+ 
+ 
+This is also the input heat, so the entropy change is 
+ 
+ 
+ 
+ΔS = Q
+T = nR
+γ
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟ln3
+ 
+ 
+ 
+Since    CP = γ CV = CV + R, 
+ 
+ 
+we have   γ −1
+(
+)CV = R, CV =
+R
+γ −1 
+ 
+ 
+and    CP = γ R
+γ −1. 
+ 
+ 
+Then the result is    ΔS = nCP ln3 . 
+ 
+(b) 
+The pair of processes considered here carries the gas from the
+initial state in P22.77 to the final state here. Entropy is a function
+of state. Entropy change does not depend on path. Therefore the
+entropy change in P22.77 equals ΔSisothermal + ΔSadiabatic in this
+problem. Since ΔSadiabatic = 0, the answers to P22.77 and P22.74(a)
+must be the same.
+ 
+P22.75 
+We recognize that Tc = T1 and Th = T2, and Qc = 350 J and Qh = –1 000 J. 
+ 
+ 
+ 
+ΔShot = Qh
+Th
+= −Qh
+T2
+= −1000 J
+600 K
+ΔScold = Qc
+Tc
+= Qc
+T1
+= +750 J
+350 K
+
+--- PAGE 42 ---
+1188     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+ΔSU = ΔShot + ΔScold = −1 000 J
+600 K −750 J
+350 K = 0.476 J K 
+ 
+(b) 
+eC = 1−T1
+T2
+= 1−350 K
+600 K = 0.417 
+ 
+ 
+Weng = eC Qh = 0.417 1 000 J
+(
+) =
+417 J 
+ 
+(c) 
+ΔW = WC − Wreal 
+= eC Qh  −  Qh  −  Qc
+(
+) 
+=  1 − Tc
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟Qh  −  Qh  −  Qc
+(
+)
+=  Qh  − Tc
+Th
+  Qh
+⎛
+⎝⎜
+⎞
+⎠⎟  −  Qh  −  Qc
+(
+) 
+=  Qc  − Tc
+Th
+  Qh  = Tc  Qc
+Tc
+ −  Qh
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟
+= TcΔSU  = T1ΔSU
+ 
+P22.76 
+At point A, PiVi = nRTi     and     n = 1.00 mol. 
+ 
+At point B, 3PiVi = nRTB     so     TB = 3Ti. 
+ 
+At point C, 3Pi
+(
+) 2Vi
+(
+) = nRTC   and  TC = 6Ti. 
+ 
+At point D, Pi 2Vi
+(
+) = nRTD     so     TD = 2Ti. 
+ 
+The heat for each step in the cycle is found 
+using CV = 3R
+2 and CP = 5R
+2
+: 
+ 
+ 
+QAB = nCV 3Ti −Ti
+(
+) = 3nRTi
+QBC = nCP 6Ti −3Ti
+(
+) = 7.50nRTi
+QCD = nCV 2Ti −6Ti
+(
+) = −6nRTi
+QDA = nCP Ti −2Ti
+(
+) = −2.50nRTi
+ 
+ 
+(a) 
+Therefore, Qentering = Qh = QAB +QBC = 3nRTi + 7.5nRTi = 10.5nRTi . 
+ 
+(b) 
+Qleaving = Qc = QCD +QDA = −6nRTi −2.50nRTi = 8.50nRTi
+ 
+ 
+(c) 
+Actual efficiency: e = Qh −Qc
+Qh
+= 10.5nRTi −8.5nRTi
+10.5nRTi
+= 0.190 
+ANS. FIG. P22.76
+
+--- PAGE 43 ---
+Chapter 22     1189 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) Carnot efficiency: eC = 1−Tc
+Th
+= 1−Ti
+6Ti
+= 0.833 
+ 
+ 
+The Carnot efficiency is much higher. 
+P22.77 
+ΔS =
+dQ
+T
+i
+f
+∫
+=
+nCPdT
+T
+= nCP
+i
+f
+∫
+T −1
+i
+f
+∫
+dT = nCP lnT Ti
+Tf = nCP lnTf −lnTi
+(
+)
+= nCP ln
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ΔS = nCP ln
+PVf
+nR
+nR
+PVi
+⎛
+⎝⎜
+⎞
+⎠⎟= nCP ln P 3Vi
+(
+)
+nR
+nR
+PVi
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= nCP ln3
+ 
+P22.78 
+(a) 
+water:   Twater = 35.0°F     →      5
+9 35.0 −32.0
+(
+)°C
+→     1.67 + 273.15
+(
+) K = 274.82 K
+ 
+ 
+ 
+body:   Tbody = 98.6°F     →     5
+9 98.6 −32.0
+(
+)°C
+→     37.0 + 273.15
+(
+) K = 310.15 K 
+ 
+ 
+ 
+ΔScold water =
+dQ
+T
+∫
+= mwc ×
+dT
+T
+Twater
+Tbody
+∫
+= mwc × ln
+Tbody
+Twater
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔSbody = −Q
+Tbody
+= −
+mwc Tbody −Twater
+(
+)
+Tbody
+ΔSsystem = ΔScold water + ΔSbody
+            = 0.454 kg
+(
+) 4 186 J kg ⋅K
+(
+) × ln 310.15
+274.82
+⎛
+⎝⎜
+⎞
+⎠⎟
+−0.454 kg
+(
+) 4 186 J kg ⋅K
+(
+) 310.15 −274.82
+(
+)
+310.15
+= 13.4 J K
+ 
+ 
+(b) Conservation of energy, Qhot = −Qcold, gives 
+ 
+ 
+ 
+mw c TF −Twater
+(
+) = −mAth c TF −Tbody
+(
+)
+mw TF −Twater
+(
+) = −mAth TF −Tbody
+(
+)
+mwTF −mwTwater = −mAthTF + mAthTbody
+mw + mAth
+(
+)TF = mwTwater + mAthTbody
+
+--- PAGE 44 ---
+1190     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for TF, 
+ 
+ 
+ 
+TF = mwTwater + mAthTbody
+mw + mAth
+= 0.454 kg
+(
+) 274.82 K
+(
+)+ 70.0 kg
+(
+) 310.15 K
+(
+)
+0.454 kg + 70.0 kg
+= 309.92 K = 310 K
+ 
+ 
+(c) 
+ΔS = Δ ′Sice water + Δ ′Sbody
+= mwc × ln
+TF
+Twater
+⎛
+⎝⎜
+⎞
+⎠⎟+ mAthc × ln
+TF
+Tbody
+⎛
+⎝⎜
+⎞
+⎠⎟
+    = 0.454 kg
+(
+) 4 186 J kg ⋅K
+(
+)ln 309.92
+274.82
+⎛
+⎝⎜
+⎞
+⎠⎟
+             + 70.0 kg
+(
+) 4 186 J kg ⋅K
+(
+)ln 309.92
+310.15
+⎛
+⎝⎜
+⎞
+⎠⎟
+    = 11.1 J K
+ 
+ 
+(d) 
+Smaller by less than 1% 
+P22.79 
+(a) 
+W =
+PdV
+Vi
+Vf
+∫
+= nRT
+dV
+V
+Vi
+2Vi
+∫
+= 1.00
+(
+)RT ln 2Vi
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= RT ln2 
+ 
+(b) 
+Yes. 
+ 
+(c) 
+No. The second law refers to an engine operating in a cycle,
+whereas this problem involves only a single process.
+ 
+P22.80 
+When energy enters a substance by heat, we describe the process with 
+Equation 20.4, Q = mcΔT. This is a reversible process; if energy leaves 
+the substance, the temperature drops down again. Therefore, the 
+entropy change for one of the samples of water is 
+ 
+ 
+ 
+ΔS =  dQ
+T  = 
+mcdT
+T
+Ti
+Tf
+∫
+∫
+ = mcln
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Consequently, the entropy change for both samples of water is 
+ 
+ 
+ 
+ΔStotal = ΔShot + ΔScold 
+= mcln
+Tf
+Thi
+⎛
+⎝⎜
+⎞
+⎠⎟ + mcln
+Tf
+Tci
+⎛
+⎝⎜
+⎞
+⎠⎟ = mcln
+Tf
+Thi
+⎛
+⎝⎜
+⎞
+⎠⎟
+Tf
+Tci
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+ 
+ 
+ 
+1.00 kg
+(
+) 4 186 J/kg ⋅°C
+(
+)ln
+293 K
+303 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+293 K
+283 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ = 4.88 J/K
+
+--- PAGE 45 ---
+Chapter 22     1191 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This is not zero. While the statements about energy transfer by heat
+are true, the mixing process is irreversible. After the water has come
+to equilibrium, it will not spontaneously separate again into warm
+and cool water. Therefore, there is an entropy increase of the mixture
+during this irreversible process.
+ 
+ 
+ 
+	  
+Challenge Problems 
+P22.81 
+(a) 
+Given: PA = 25.0 atm and PC = 1.00 atm 
+ 
+ 
+Use the equation of state for an ideal gas: 
+ 
+ 
+ 
+ 
+V = nRT
+P
+VA = 1.00 8.314 J mol ⋅K
+(
+) 600 K
+(
+)
+25.0 1.013 × 105 Pa
+(
+)
+= 1.97 × 10−3 m3
+VC = 1.00 8.314 J mol ⋅K
+(
+) 400 K
+(
+)
+1.013 × 105 Pa
+= 32.8 × 10−3 m3
+ 
+ 
+ 
+Since AB is isothermal, 
+PAVA = PBVB , 
+ 
+ 
+and since BC is adiabatic, PBVB
+γ = PCVC
+γ . 
+ 
+ANS. FIG. P22.81 
+ 
+ 
+Combining these expressions,  
+ 
+ 
+ 
+VB =
+PC
+PA
+⎛
+⎝⎜
+⎞
+⎠⎟
+VC
+γ
+VA
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 γ −1
+(
+)
+=
+1.00 atm
+25.0 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+32.8 × 10−3 m3
+(
+)
+1.40
+1.97 × 10−3 m3
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 0.400
+(
+)
+= 11.9 × 10−3 m3
+
+--- PAGE 46 ---
+1192     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Similarly,  
+ 
+ 
+ 
+VD =
+PA
+PC
+⎛
+⎝⎜
+⎞
+⎠⎟
+VA
+γ
+VC
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 γ −1
+(
+)
+=
+25.0 atm
+1.00 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.97 × 10−3 m3
+(
+)
+1.40
+32.8 × 10−3 m3
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 0.400
+(
+)
+= 5.44 × 10−3 m3
+ 
+ 
+ 
+Since AB is isothermal,    PAVA = PBVB 
+ 
+ 
+and PB = PA
+VA
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟= 25.0 atm
+(
+) 1.97 × 10−3 m3
+11.9 × 10−3 m3
+⎛
+⎝⎜
+⎞
+⎠⎟=
+4.14 atm 
+ 
+ 
+Also, CD is an isothermal and  
+ 
+ 
+ 
+PD = PC
+VC
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.00 atm
+(
+) 32.8 × 10−3 m3
+5.44 × 10−3 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.03 atm
+  
+ 
+(b) Energy is added by heat to the gas during the process AB. For the 
+isothermal process, ΔEint = 0, and the first law gives  
+ 
+ 
+ 
+QAB = −WAB = nRTh ln VB
+VA
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or   
+ 
+ 
+ 
+Qh = QAB = 1.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 600 K
+(
+)ln 11.9 atm
+1.97 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.97 kJ
+ 
+ 
+ 
+Then, from e =
+Weng
+Qh
+, the net work done per cycle is  
+ 
+ 
+ 
+Weng = ec Qh = 0.333 8.97 kJ
+(
+) = 2.99 kJ 
+P22.82 
+The quantity of gas is  
+ 
+ 
+ 
+n = PAVA
+RTA
+= 100 × 103 Pa
+(
+) 500 × 10−6 m3
+(
+)
+8.314 J mol⋅K
+(
+) 293 K
+(
+)
+= 0.020 5 mol
+ 
+ 
+(a) 
+In process A→ B, 
+ 
+ 
+ 
+PB = PA
+VA
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= 100 × 103 Pa
+(
+) 8.00
+(
+)
+1.40 = 1.84 × 106 Pa
+
+--- PAGE 47 ---
+Chapter 22     1193 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+TB = PBVB
+nR = 1.84 × 106 Pa
+(
+) 500 × 10−6 m3 8.00
+(
+)
+0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+)
+= 673 K
+ 
+VA VB = 8.00    →    VB = VA 8.00 = 500 8 = 62.5 cm3 
+ 
+ 
+State C: 
+ 
+ 
+ 
+VC = VB 
+ 
+ 
+ 
+PC = nRTC
+VC
+= 0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+) 1 023 K
+(
+)
+62.5 × 10−6 m3
+= 2.79 × 106 Pa
+ 
+ 
+ 
+State D:  
+ 
+ 
+ 
+VD = VA  
+ 
+ 
+In process C→D: 
+ 
+ 
+PD = PC
+VC
+VD
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= 2.79 × 106 Pa
+(
+)
+1
+8.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.40
+= 1.52 × 105 Pa
+TD = PDVD
+nR =
+1.52 × 105 Pa
+(
+) 500 × 10−6 m3
+(
+)
+0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+)
+= 445 K
+ 
+ 
+ 
+TABLE P22.82(a) tabulates these results: 
+ 
+T (K) 
+P (kPa) 
+V (cm
+3) 
+A 
+293 
+100 
+500 
+B 
+673 
+1.84 × 10
+3 
+62.5 
+C 
+1023 
+2.79 × 10
+3 
+62.5 
+D 
+445 
+152 
+500 
+ 
+ 
+ 
+ 
+TABLE P22.82(a) 
+ 
+(b) In the adiabatic process A→B, Q = 0, 
+ 
+ 
+ 
+ΔEint, A→B = 5
+2 nR TB −TA
+(
+)
+              = 5
+2 0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+) 673 K – 293 K
+(
+)
+= 162 J
+ 
+ 
+ 
+and ΔEint, AB = 162 J = Q −Wout = 0 −Wout
+→
+WAB = −162 J
+
+--- PAGE 48 ---
+1194     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In the isovolumetric process B→C, W = 0 
+ 
+ 
+ 
+ΔEint, B→C = 5
+2 nR TC −TB
+(
+)
+              = 5
+2 0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+) 1 023 K −673 K
+(
+)
+= 149 J
+ΔEint, B→C = 149 J = Q −Wout = Q −0    →    QBC = 149 J
+ 
+ 
+ 
+In the adiabatic process C→D, Q = 0 
+ 
+ 
+ 
+ΔEint, C→D = 5
+2 nR TD −TC
+(
+)
+                 = 5
+2 0.020 5 mol
+(
+) 8.314 J mol⋅K
+(
+) 445 K −1 023 K
+(
+)
+= −246 J
+ΔEint, C→D = −246 J = Q −Wout = 0 −Wout     →    WCD = 246 J
+ 
+ 
+ 
+For the entire cycle, ΔEint, net = 5
+2 nRΔT = 0: 
+ 
+ 
+ 
+Weng = −162 J + 0 + 246.3 J + 0 = 84.3 J
+ΔEint = Qnet +Weng = 0     →      Qnet = −Weng = 84.3 J
+ 
+ 
+ 
+TABLE P22.82(b) tabulates these results:  
+ 
+Q 
+Weng 
+ΔEint 
+A→B 
+0 
+–162 
+162 
+B→C 
+149 
+0 
+149 
+C→D 
+0 
+246 
+–246 
+D→A 
+–65.0 
+0 
+–65.0 
+ABCD 
+84.3 
+84.3 
+0 
+ 
+ 
+ 
+ 
+TABLE P22.82(b) 
+ 
+(c) 
+From B→C, the input energy is Qh = 149 J . 
+ 
+(d) From D→A, the energy exhaust is Qc = 65.0 J . 
+ 
+(e) 
+From ABCDA, Weng = 84.3 J .
+
+--- PAGE 49 ---
+Chapter 22     1195 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+The efficiency is: e =
+Weng
+Qh
+= 84.3 J
+149 J = 0.565 
+ 
+(g) Let f represent the angular speed of the crankshaft. Then f
+2
+ is the 
+frequency at which we obtain work in the amount of 84.3 J/cycle: 
+ 
+ 
+ 
+1 000 J s =
+f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟84.3 J cycle
+(
+)
+f =
+2 000 J s
+84.3 J cycle = 23.7 rev s = 1.42 × 103 rev min
+
+--- PAGE 50 ---
+1196     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P22.2 
+(a) 0.25 or 25%; (b) QC / Qh = 3/4 
+P22.4 
+13.7°C 
+P22.6 
+(a) 29.4 L/h; (b) 185 hp; (c) 527 N · m; (d) 1.91 × 10
+5 W 
+P22.8 
+(a) 24.0 J; (b) 144 J 
+P22.10 
+(a) 7.69 × 10
+8 J; (b) 5.67 × 10
+8 J 
+P22.12 
+(a) 2.65 × 10
+7 J; (b) 3.20 
+P22.14 
+0.540 or 54.0% 
+P22.16 
+The efficiency of a Carnot engine operating between these 
+temperatures is 6.83%. Therefore, there is no way that the inventor’s 
+engine can have an efficiency of 0.110 = 11.0%. 
+P22.18 
+(a) PΔt
+Th
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) PΔt
+Tc
+Th −Tc
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P22.20 
+(a) See P22.20(a) for the full solution; (b) See P22.20(b) for the full 
+solution. 
+P22.22 
+72.2 J 
+P22.24 
+0.330 or 33.0% 
+P22.26 
+(a) 0.300; (b) 1.40 × 10
+−3 K
+−1; (c) −2.00 ×10
+−3 K
+−1; (d) No. The derivative 
+in part (c) depends only on Th 
+P22.28 
+(a) 5.12%; (b) 5.27 TJ/h; (c) As fossil-fuel prices rise, this way to use 
+solar energy will become a good buy. 
+P22.30 
+(a) See P22.30(a) for full explanation; (b) 1−Tc
+Th
+; (c) The combination of 
+reversible engines is itself a reversible engine so it has the Carnot 
+efficiency. No improvement in net efficiency has resulted; (d) 
+Ti = 1
+2 Th + Tc
+(
+) ;  
+(e) Ti = ThTc
+(
+)
+1/2 
+P22.32 
+(a) See TABLE P22.32(a); (b) See TABLE P22.32(b); (c) 23.7%; (d) 23.7% 
+P22.34 
+23.1 mW 
+P22.36 
+(a) 51.2%; (b) 36.2% 
+P22.38 
+See P22.38 for the full derivation
+
+--- PAGE 51 ---
+Chapter 22     1197 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.40 
+(a) See TABLE P22.40; (b) 2 heads and 2 tails 
+P22.42 
+−610 J/K 
+P22.44 
+717 J/K 
+P22.46 
+2.70 kJ/K 
+P22.48 
+(a) 5.76 J/K; (b) no change in temperature 
+P22.50 
+244 J/K 
+P22.52 
+1 W/K 
+P22.54 
+(a) ΔSh = −Q
+Th
+; (b) ΔSc = −Q
+Tc
+; (c) Q
+1
+Tc
+−1
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P22.56 
++1.18 J/K 
+P22.58 
+(a) 0.268; (b) 0.423 
+P22.60 
+8.36 × 10
+6 J/K · s 
+P22.62 
+(a) 2.93; (b) (COP)refrigerator; (c) with EER 5, $510, with EER 10, $255; 
+Thus, the cost for air conditioning is half as much for an air conditioner 
+with EER 10 compared with an air conditioner with EER 5. 
+P22.64 
+(a) 2.49 kJ; (b) 1.50 kJ; (c) –990 J 
+P22.66 
+(a) 
+Tc
+Th −Tc
+; (b) smaller; (c) 14.6 
+P22.68 
+(a) 214 J and 64.3 J; (b) 35.7 J and 35.7 J. The total energy the firebox 
+puts out equals to the total energy transferred to the environment; (c) 
+The net flow of energy by heat from the cold to the hot reservoir 
+without work input is possible; (d) Weng S = 233 J, Qh,S = 333 J;  
+(e) 83.3 J; (f) 83.3 J; (g) 0; (h) The output of 83.8 J of energy from the 
+heat engine by work in a cyclic process without any exhaust by heat is 
+impossible; (i) −0.111 J/K; (j) A decrease in total entropy is impossible. 
+P22.70 
+(a) 8.48 kW; (b) 1.52 kW; (c) 1.09 × 10
+4 J/K; (d) drop by 20.0% 
+P22.72 
+PTc
+Th −Tc
+(
+)cΔT 
+P22.74 
+(a) ΔS = nCp ln3; (b) The pair of processes considered here carries the 
+gas from the initial state in P22.77 to the final state here. Entropy is a 
+function of state. Entropy change does not depend on path. Therefore, 
+the entropy change in P22.77 equals ΔSisothermal + ΔSadiabatic in this 
+problem. Since ΔSadiabatic = 0, the answers to P22.77 and P22.74(a) must 
+be the same.
+
+--- PAGE 52 ---
+1198     Heat Engines, Entropy, and the Second Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.76 
+(a) 10.5 nRTi; (b) 8.50 nRTi; (c) 0.190; (d) 0.833; The Carnot efficiency is 
+much higher. 
+P22.78 
+(a) 13.4 J/K; (b) 310 K; (c) 11.1 J/K; (d) smaller by less than 1% 
+P22.80 
+The computed change in entropy is 4.88 J/K, which is not zero. While 
+the statements about energy transfer by heat are true, the mixing 
+process is irreversible. After the water has come to equilibrium, it will 
+not spontaneously separate again into warm and cool water. 
+Therefore, there is an entropy increase of the mixture during the 
+irreversible process. 
+P22.82 
+(a) See TABLE P22.82(a); (b) See TABLE P22.82(b); (c) 149 J; (d) 65.0 J; 
+(e) 84.3 J; (f) 0.565; (g) 1.42 × 10
+3 rev/min

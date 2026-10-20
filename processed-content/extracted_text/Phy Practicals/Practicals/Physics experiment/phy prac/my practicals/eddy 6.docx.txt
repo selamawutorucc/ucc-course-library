@@ -1,0 +1,43 @@
+Name:
+Group 8
+Registration Number: SM/SMS/09/00
+	Title: EXPERIMENT WITH A BIFILAR SUSPENSION
+Experiment 6
+Date: 29th November, 2009
+AIM:Verifying the motion of simple harmonic motion of bifilar suspension.
+APPARATUS:
+A meter rule, Cotton thread ,Stop watch, Retort stands and clamps
+DIAGRAM:
+THEORY:
+	The metre rule swings through a very small angle σ, (the vertical threads of lengths displaced through small angle σ) and the tension in each thread is F, then the vertical and horizontal  components of F are F cosσ (vertical) and F sinσ (horizontal). The suspended meter rule is also displaced through a small angle φ (the length of the metre rule taking to be d). Hence if m is the mass of the meter rule, 2F cosσ = mg
+MATHEMATICAL EQUATION:
+For small angle 2F = mg.
+The restoring couple = F sin σ × d =  mg × σ.
+Now for small angles,  dφ = 1σ.
+Therefore mg.σ.d =  mg φ. The equation f motion is therefore:
+mgφ = -1φ,
+That is φ = -      where t is the Moment of Inertia about a vertical axis through the centre of gravity and φ is the angular acceleration. The motion is thus a simple harmonic motion and the period is T= 2π2
+PROCEEDURE:
+The retort stand and clamp was assembled and then tied with cotton thread vertically held by two small wooden boards. The cotton thread was then tied securely to the metre rule from each E end of the clamp. The upper loops on the support were adjusted so that the threads were vertical. 
+The meter rule was then displaced through a very small angle about the vertical axis and then the time of twenty oscillations was then taken by the stop watch. The distance at both ends was started off with one centimetre and then it was increased to two centimetres.
+The distance between them was then measures and timings for the oscillations were then noted down in at a table.
+OBSERVATION:     Number of oscillation: 20
+ Period = time/number of oscillation.
+ Discussion: The aim of this experiment is to show the relation between the time for small rotational oscillation and the distance between the threads. To know this aim, a cotton thread was tied around a meter rule and suspended from a support. The lengths of the cotton thread were adjusted so that they were equal. The loops were placed 1cm from each end of the rule and the time for 20 oscillations taken after displacing the rule through a small angle. After, the length of the loop on the rule was increased by intervals of 2cm at a time and in each case the time for 20 oscillations was recorded. During oscillations it was realized that whenever the angle at which the rule was displaced was large, the value of t also increased. From the table of result, it can be seen that decrease in d caused an increase in t. Also from the graph, it was noticed that log d increased as log t decreased. This means that the period of oscillation depends on the distance between the two loops of thread. The period can also be said to depend on the lengths of the thread to the clamps. The graph has a slope of -1.345, which is approximately equal to the theoretical value of -1.00.The difference might be due to errors in equipments and air resistances in the laboratory.
+ERRORS:
+	The rule was set swinging through a large angle and this made the meter rule swing on more than one place.
+	The experiment was performed near an opened window. 
+PRECAUTIONS:
+	The rule should be swung through very small angle or displacement in order to keep the meter rule in simple harmonic motion that is through only one plane.
+	In take the distance between the rule, parallax error should be noted so as to avoid them.
+	The experiment should be performed in an enclosed area so as to prevent any kind of distraction during the experiment.
+CONCLUSION:
+The moment of inertia about the vertical axis through the centre of gravity and the angular acceleration was shown and proved. Thus the motion of the bifilar suspension experiment was simple harmonic motion.
+References:
+(www.encarta.com )   Cutnell physics on simple harmonic motion.    Principle of physics
+d/cm |          t1/s | t2/s | t3/s | t(avg)/s | Log t | Log d
+98.0 | 15.16 | 15.14 | 15.19 | 15.16 | 1.18 | 1.99
+96.0 | 15.37 | 15.25 | 15.28 | 15.30 | 1.18 | 1.98
+92.0 | 15.90 | 15.88 | 15.97 | 15.92 | 1.20 | 1.96
+88.0 | 16.40 | 16.56 | 16.48 | 16.48 | 1.22 | 1.94
+84.0 | 17.84 | 17.91 | 17.94 | 17.90 | 1.25 | 1.92

@@ -1,0 +1,788 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Excel - Cell Basics
+Whenever you work with Excel, you'll enter information—or content—into cells. 
+
+Cells are the basic building blocks of a worksheet.
+
+You'll need to learn the basics of cells and cell content to calculate, analyze, and organize data in Excel.
+
+--- SLIDE 6 ---
+Understanding cells
+Every worksheet is made up of thousands of rectangles, which are called cells. 
+
+A cell is the intersection of a row and a column. In other words, it's where a row and column meet.
+
+Columns are identified by letters (A, B, C), while rows are identified by numbers (1, 2, 3). 
+
+Each cell has its own name—or cell address—based on its column and row. 
+
+In the example below, the selected cell intersects column C and row 5, so the cell address is C5.
+
+--- SLIDE 7 ---
+Understanding cells
+
+
+
+
+
+
+
+
+Note that the cell address also appears in the Name box in the top-left corner, and that a cell’s column and row headings are highlighted when the cell is selected.
+
+--- SLIDE 8 ---
+Understanding cells
+You can also select multiple cells at the same time. A group of cells is known as a cell range. 
+
+Rather than a single cell address, you will refer to a cell range using the cell addresses of the first and last cells in the cell range, separated by a colon. 
+
+For example, a cell range that included cells A1, A2, A3, A4, and A5 would be written as A1:A5. Take a look at the different cell ranges below:
+
+--- SLIDE 9 ---
+Understanding cells
+Cell range A1:A8
+
+--- SLIDE 10 ---
+Understanding cells
+Cell range A1:F1
+
+--- SLIDE 11 ---
+Understanding cells
+Cell range A1:F8
+
+--- SLIDE 12 ---
+To select a cell
+To input or edit cell content, you'll first need to select the cell.
+
+Click a cell to select it. In our example, we'll select cell D9.
+
+A border will appear around the selected cell, and the column heading and row heading will be highlighted. 
+
+The cell will remain selected until you click another cell in the worksheet.
+
+--- SLIDE 13 ---
+To select a cell
+
+--- SLIDE 14 ---
+To select a cell range
+Click and drag the mouse until all of the adjoining cells you want to select are highlighted. 
+
+In our example, we'll select the cell range B5:C18.
+
+Release the mouse to select the desired cell range.
+
+The cells will remain selected until you click another cell in the worksheet.
+
+--- SLIDE 15 ---
+To select a cell range
+
+--- SLIDE 16 ---
+Cell content
+Any information you enter into a spreadsheet will be stored in a cell. 
+
+Each cell can contain different types of content, including text, formatting, formulas, and functions.
+
+
+
+--- SLIDE 17 ---
+Cell content
+Text: Cells can contain text, such as letters, numbers, and dates.
+
+--- SLIDE 18 ---
+Cell content
+Formatting attributes: Cells can contain formatting attributes that change the way letters, numbers, and dates are displayed. For example, percentages can appear as 0.15 or 15%. You can even change a cell's text or background color.
+
+--- SLIDE 19 ---
+Cell content
+Formulas and functions: Cells can contain formulas and functions that calculate cell values. In our example, SUM(B2:B8) adds the value of each cell in the cell range B2:B8 and displays the total in cell B9.
+
+--- SLIDE 20 ---
+To insert content
+Click a cell to select it. In our example, we'll select cell F9. 
+
+--- SLIDE 21 ---
+To delete (or clear) cell content
+Select the cell(s) with content you want to delete. In our example, we'll select the cell range A10:H10.
+
+--- SLIDE 22 ---
+To delete (or clear) cell content
+Select the Clear command on the Home tab, then click Clear Contents.
+
+--- SLIDE 23 ---
+To delete (or clear) cell content
+The cell contents will be deleted.
+
+
+--- SLIDE 24 ---
+To delete cells
+There is an important difference between deleting the content of a cell and deleting the cell itself. If you delete the entire cell, the cells below it will shift to fill in the gaps and replace the deleted cells.
+Select the cell(s) you want to delete. In our example, we'll select A10:H10.
+
+
+--- SLIDE 25 ---
+To delete cells
+Select the Delete command from the Home tab on the Ribbon.
+
+
+--- SLIDE 26 ---
+To delete cells
+The cells below will shift up and fill in the gaps.
+
+--- SLIDE 27 ---
+To copy and paste cell content
+Excel allows you to copy content that is already entered into your spreadsheet and paste this content to other cells, which can save you time and effort.
+Select the cell(s) you want to copy. In our example, we'll select F9.
+
+
+--- SLIDE 28 ---
+To copy and paste cell content
+Click the Copy command on the Home tab, or press Ctrl+C on your keyboard.
+
+
+--- SLIDE 29 ---
+To copy and paste cell content
+Select the cell(s) where you want to paste the content. In our example, we'll select F12:F17. 
+The copied cell(s) will have a dashed box around them.
+
+--- SLIDE 30 ---
+To copy and paste cell content
+Click the Paste command on the Home tab, or press Ctrl+V on your keyboard.
+
+--- SLIDE 31 ---
+To copy and paste cell content
+The content will be pasted into the selected cells.
+
+--- SLIDE 32 ---
+To access additional paste options
+You can also access additional paste options, which are especially convenient when working with cells that contain formulas or formatting. Just click the drop-down arrow on the Paste command to see these options.
+
+--- SLIDE 33 ---
+To access additional paste options
+Instead of choosing commands from the Ribbon, you can access commands quickly by right-clicking. Simply select the cell(s) you want to format, then right-click the mouse. A drop-down menu will appear, where you'll find several commands that are also located on the Ribbon.
+
+
+--- SLIDE 34 ---
+To cut and paste cell content
+Unlike copying and pasting, which duplicates cell content, cutting allows you to move content between cells.
+Select the cell(s) you want to cut. In our example, we'll select G5:G6.
+Right-click the mouse and select the Cut command. You can also use the command on the Home tab, or press Ctrl+X on your keyboard.
+
+
+--- SLIDE 35 ---
+To cut and paste cell content
+Select the cells where you want to paste the content. In our example, we'll select F10:F11. The cut cells will now have a dashed box around them.
+Right-click the mouse and select the Paste command. You can also use the command on the Home tab, or press Ctrl+V on your keyboard.
+
+
+--- SLIDE 36 ---
+To cut and paste cell content
+The cut content will be removed from the original cells and pasted into the selected cells.
+
+--- SLIDE 37 ---
+To drag and drop cells
+Instead of cutting, copying, and pasting, you can drag and drop cells to move their contents.
+Select the cell(s) you want to move. In our example, we'll select H4:H12.
+Hover the mouse over the border of the selected cell(s) until the mouse changes to a pointer with four arrows.
+
+--- SLIDE 38 ---
+To drag and drop cells
+Click and drag the cells to the desired location. In our example, we'll move them to G4:G12.
+
+--- SLIDE 39 ---
+To drag and drop cells
+Release the mouse. The cells will be dropped in the selected location.
+
+--- SLIDE 40 ---
+To use the fill handle
+If you're copying cell content to adjacent cells in the same row or column, the fill handle is a good alternative to the copy and paste commands.
+Select the cell(s) containing the content you want to use, then hover the mouse over the lower-right corner of the cell so the fill handle appears.
+
+--- SLIDE 41 ---
+To use the fill handle
+Click and drag the fill handle until all of the cells you want to fill are selected. In our example, we'll select G13:G17.
+
+--- SLIDE 42 ---
+To use the fill handle
+Release the mouse to fill the selected cells.
+
+--- SLIDE 43 ---
+To continue a series with the fill handle
+The fill handle can also be used to continue a series. 
+
+Whenever the content of a row or column follows a sequential order, like numbers (1, 2, 3) or days (Monday, Tuesday, Wednesday), the fill handle can guess what should come next in the series. 
+
+In most cases, you will need to select multiple cells before using the fill handle to help Excel determine the series order. 
+
+Let's take a look at an example:
+
+--- SLIDE 44 ---
+To continue a series with the fill handle
+Select the cell range that contains the series you want to continue. 
+In our example, we'll select E4:G4.
+Click and drag the fill handle to continue the series.
+
+
+--- SLIDE 45 ---
+To continue a series with the fill handle
+Release the mouse. If Excel understood the series, it will be continued in the selected cells. 
+In our example, Excel added Part 4, Part 5, and Part 6 to H4:J4.
+
+--- SLIDE 46 ---
+Excel - Modifying Columns, Rows, and Cells
+By default, every row and column of a new workbook is set to the same height and width.
+
+
+Excel allows you to modify column width and row height in different ways, including wrapping text and merging cells.
+
+--- SLIDE 47 ---
+To modify column width
+In our example below, column C is too narrow to display all of the content in these cells. We can make all of this content visible by changing the width of column C.
+Position the mouse over the column line in the column heading so the cursor becomes a double arrow.
+
+--- SLIDE 48 ---
+To modify column width
+Click and drag the mouse to increase or decrease the column width.
+
+--- SLIDE 49 ---
+To modify column width
+Release the mouse. The column width will be changed.
+
+--- SLIDE 50 ---
+To AutoFit column width
+The AutoFit feature will allow you to set a column's width to fit its content automatically.
+Position the mouse over the column line in the column heading so the cursor becomes a double arrow.
+
+--- SLIDE 51 ---
+To AutoFit column width
+Double-click the mouse. The column width will be changed automatically to fit the content.
+
+--- SLIDE 52 ---
+To modify row height
+Position the cursor over the row line so the cursor becomes a double arrow.
+
+--- SLIDE 53 ---
+To modify row height
+Click and drag the mouse to increase or decrease the row height.
+
+--- SLIDE 54 ---
+To modify row height
+Release the mouse. The height of the selected row will be changed.
+
+--- SLIDE 55 ---
+To modify all rows or columns
+Instead of resizing rows and columns individually, you can modify the height and width of every row and column at the same time. 
+
+This method allows you to set a uniform size for every row and column in your worksheet. 
+
+In our example, we will set a uniform row height.
+
+--- SLIDE 56 ---
+To modify all rows or columns
+Locate and click the Select All button just below the name box to select every cell in the worksheet.
+
+--- SLIDE 57 ---
+To modify all rows or columns
+Position the mouse over a row line so the cursor becomes a double arrow.
+Click and drag the mouse to increase or decrease the row height, then release the mouse when you are satisfied. The row height will be changed for the entire worksheet.
+
+--- SLIDE 58 ---
+Inserting, deleting, moving, and hiding rows and columns
+
+After you've been working with a workbook for a while, you may find that you want to insert new columns or rows, delete certain rows or columns, move them to a different location in the worksheet, or even hide them.
+
+--- SLIDE 59 ---
+To insert rows
+Select the row heading below where you want the new row to appear. In this example, we want to insert a row between rows 4 and 5, so we'll select row 5.
+
+--- SLIDE 60 ---
+To insert rows
+Click the Insert command on the Home tab.
+
+
+
+
+The new row will appear above the selected row.
+
+--- SLIDE 61 ---
+To insert rows
+When inserting new rows, columns, or cells, you will see a paintbrush icon next to the inserted cells. This button allows you to choose how Excel formats these cells. By default, Excel formats inserted rows with the same formatting as the cells in the row above. To access additional options, hover your mouse over the icon, then click the drop-down arrow.
+
+
+--- SLIDE 62 ---
+To insert columns
+Select the column heading to the right of where you want the new column to appear. For example, if you want to insert a column between columns D and E, select column E.
+
+--- SLIDE 63 ---
+To insert columns
+Click the Insert command on the Home tab.
+
+
+
+
+
+
+--- SLIDE 64 ---
+To insert columns
+The new column will appear to the left of the selected column.
+
+--- SLIDE 65 ---
+To delete a row or column
+It's easy to delete a row or column that you no longer need. In our example we'll delete a row, but you can delete a column the same way.
+Select the row you want to delete. In our example, we'll select row 9.
+
+--- SLIDE 66 ---
+To delete a row or column
+Click the Delete command on the Home tab.
+
+--- SLIDE 67 ---
+To delete a row or column
+The selected row will be deleted, and those around it will shift. In our example, row 10 has moved up, so it's now row 9.
+
+--- SLIDE 68 ---
+To delete a row or column
+It's important to understand the difference between deleting a row or column and simply clearing its contents. If you want to remove the content from a row or column without causing others to shift, right-click a heading, then select Clear Contents from the drop-down menu.
+
+
+--- SLIDE 69 ---
+To move a row or column
+Sometimes you may want to move a column or row to rearrange the content of your worksheet. In our example we'll move a column, but you can move a row in the same way.
+Select the desired column heading for the column you want to move.
+
+--- SLIDE 70 ---
+To move a row or column
+Click the Cut command on the Home tab, or press Ctrl+X on your keyboard.
+
+--- SLIDE 71 ---
+To move a row or column
+Select the column heading to the right of where you want to move the column. For example, if you want to move a column between columns E and F, select column F.
+
+--- SLIDE 72 ---
+To move a row or column
+Click the Insert command on the Home tab, then select Insert Cut Cells from the drop-down menu.
+
+--- SLIDE 73 ---
+To move a row or column
+The column will be moved to the selected location, and the columns around it will shift.
+
+--- SLIDE 74 ---
+To move a row or column
+You can also access the Cut and Insert commands by right-clicking the mouse and selecting the desired commands from the drop-down menu.
+
+
+--- SLIDE 75 ---
+To hide and unhide a row or column
+At times, you may want to compare certain rows or columns without changing the organization of your worksheet. 
+
+To do this, Excel allows you to hide rows and columns as needed. 
+
+In our example we'll hide a few columns, but you can hide rows in the same way.
+
+--- SLIDE 76 ---
+To hide and unhide a row or column
+Select the columns you want to hide, right-click the mouse, then select Hide from the formatting menu. In our example, we'll hide columns C, D, and E.
+
+--- SLIDE 77 ---
+To hide and unhide a row or column
+The columns will be hidden. The green column line indicates the location of the hidden columns.
+
+--- SLIDE 78 ---
+To hide and unhide a row or column
+To unhide the columns, select the columns on both sides of the hidden columns. In our example, we'll select columns B and F. Then right-click the mouse and select Unhide from the formatting menu.
+
+--- SLIDE 79 ---
+To hide and unhide a row or column
+The hidden columns will reappear.
+
+--- SLIDE 80 ---
+Wrapping text and merging cells
+Whenever you have too much cell content to be displayed in a single cell, you may decide to wrap the text or merge the cell rather than resize a column. 
+
+Wrapping the text will automatically modify a cell's row height, allowing cell contents to be displayed on multiple lines. 
+
+Merging allows you to combine a cell with adjacent empty cells to create one large cell.
+
+--- SLIDE 81 ---
+To wrap text in cells
+Select the cells you want to wrap. In this example, we'll select the cells in column C.
+Click the Wrap Text command on the Home tab.
+
+--- SLIDE 82 ---
+To wrap text in cells
+The text in the selected cells will be wrapped.
+
+
+
+
+
+
+
+
+Click the Wrap Text command again to unwrap the text.
+
+--- SLIDE 83 ---
+To merge cells using the Merge & Center command
+Select the cell range you want to merge. In our example, we'll select A1:F1.
+Click the Merge & Center command on the Home tab. 
+In our example, we'll select the cell range A1:F1.
+
+--- SLIDE 84 ---
+To merge cells using the Merge & Center command
+The selected cells will be merged, and the text will be centered.
+
+--- SLIDE 85 ---
+To access additional merge options
+If you click the drop-down arrow next to the Merge & Center command on the Home tab, the Merge drop-down menu will appear.
+
+
+--- SLIDE 86 ---
+To access additional merge options
+From here, you can choose to:
+Merge & Center: This merges the selected cells into one cell and centers the text.
+
+Merge Across: This merges the selected cells into larger cells while keeping each row separate.
+
+Merge Cells: This merges the selected cells into one cell but does not center the text.
+
+Unmerge Cells: This unmerges selected cells.
+
+
+--- SLIDE 87 ---
+Centering across selection
+Merging can be useful for organizing your data, but it can also create problems later on. 
+
+For example, it can be difficult to move, copy, and paste content from merged cells. 
+
+A good alternative to merging is to Center Across Selection, which creates a similar effect without actually combining cells.
+
+--- SLIDE 88 ---
+To use Center Across Selection
+Select the desired cell range. In our example, we'll select A1:F1. Note: If you already merged these cells, you should unmerge them before continuing to step 2.
+Click the small arrow in the lower-right corner of the Alignment group on the Home tab.
+
+
+--- SLIDE 89 ---
+To use Center Across Selection
+A dialog box will appear. Locate and select the Horizontal drop-down menu, select Center Across Selection, then click OK.
+
+
+--- SLIDE 90 ---
+To use Center Across Selection
+The content will be centered across the selected cell range. As you can see, this creates the same visual result as merging and centering, but it preserves each cell within A1:F1.
+
+
+--- SLIDE 91 ---
+Excel - Formatting Cells
+All cell content uses the same formatting by default, which can make it difficult to read a workbook with a lot of information. 
+
+Basic formatting can customize the look and feel of your workbook, allowing you to draw attention to specific sections and making your content easier to view and understand.
+
+--- SLIDE 92 ---
+Excel - Formatting Cells
+All cell content uses the same formatting by default, which can make it difficult to read a workbook with a lot of information. 
+
+Basic formatting can customize the look and feel of your workbook, allowing you to draw attention to specific sections and making your content easier to view and understand.
+
+--- SLIDE 93 ---
+Excel - Formatting Cells
+All cell content uses the same formatting by default, which can make it difficult to read a workbook with a lot of information. 
+
+Basic formatting can customize the look and feel of your workbook, allowing you to draw attention to specific sections and making your content easier to view and understand.
+
+--- SLIDE 94 ---
+To change the font size
+Select the cell(s) you want to modify.
+
+
+--- SLIDE 95 ---
+To change the font size
+On the Home tab, click the drop-down arrow next to the Font Size command, then select the desired font size. In our example, we will choose 24 to make the text larger.
+
+--- SLIDE 96 ---
+To change the font size
+The text will change to the selected font size.
+
+--- SLIDE 97 ---
+To change the font size
+The text will change to the selected font size.
+
+
+
+
+You can also use the Increase Font Size and Decrease Font Size commands or enter a custom font size using your keyboard.
+
+--- SLIDE 98 ---
+To change the font
+By default, the font of each new workbook is set to Calibri. However, Excel provides many other fonts you can use to customize your cell text. 
+
+
+In the example below, we'll format our title cell to help distinguish it from the rest of the worksheet.
+
+--- SLIDE 99 ---
+To change the font
+Select the cell(s) you want to modify.
+
+
+
+
+
+--- SLIDE 100 ---
+To change the font
+On the Home tab, click the drop-down arrow next to the Font command, then select the desired font. In our example, we'll choose Century Gothic.
+
+--- SLIDE 101 ---
+To change the font
+The text will change to the selected font.
+
+--- SLIDE 102 ---
+To change the font color
+Select the cell(s) you want to modify.
+
+
+
+On the Home tab, click the drop-down arrow next to the Font Color command, then select the desired font color. In our example, we'll choose Green.
+
+--- SLIDE 103 ---
+To change the font color
+The text will change to the selected font color.
+
+
+
+
+Select More Colors at the bottom of the menu to access additional color options. We've changed the font color to a bright pink.
+
+--- SLIDE 104 ---
+To use the Bold, Italic, and Underline commands
+Select the cell(s) you want to modify.
+
+
+
+
+Click the Bold (B), Italic (I), or Underline (U) command on the Home tab. In our example, we'll make the selected cells bold.
+
+--- SLIDE 105 ---
+To use the Bold, Italic, and Underline commands
+The selected style will be applied to the text.
+
+
+
+
+
+You can also press Ctrl+B on your keyboard to make selected text bold, Ctrl+I to apply italics, and Ctrl+U to apply an underline.
+
+--- SLIDE 106 ---
+Cell borders and fill colors
+Cell borders and fill colors allow you to create clear and defined boundaries for different sections of your worksheet. 
+
+Below, we'll add cell borders and fill color to our header cells to help distinguish them from the rest of the worksheet.
+
+--- SLIDE 107 ---
+To add a fill color
+Select the cell(s) you want to modify.
+
+--- SLIDE 108 ---
+To add a fill color
+On the Home tab, click the drop-down arrow next to the Fill Color command, then select the fill color you want to use. In our example, we'll choose a dark gray.
+
+--- SLIDE 109 ---
+To add a fill color
+The selected fill color will appear in the selected cells. We've also changed the font color to white to make it more readable with this dark fill color.
+
+--- SLIDE 110 ---
+To add a border
+Select the cell(s) you want to modify.
+
+--- SLIDE 111 ---
+To add a border
+On the Home tab, click the drop-down arrow next to the Borders command, then select the border style you want to use. In our example, we'll choose to display All Borders.
+
+--- SLIDE 112 ---
+To add a border
+The selected border style will appear.
+
+
+
+
+You can draw borders and change the line style and color of borders with the Draw Borders tools at the bottom of the Borders drop-down menu.
+
+
+
+--- SLIDE 113 ---
+Cell styles
+Instead of formatting cells manually, you can use Excel's predesigned cell styles. 
+
+Cell styles are a quick way to include professional formatting for different parts of your workbook, like titles and headers.
+
+--- SLIDE 114 ---
+To apply a cell style
+In our example, we'll apply a new cell style to our existing title and header cells.
+Select the cell(s) you want to modify.
+
+--- SLIDE 115 ---
+To apply a cell style
+Click the Cell Styles command on the Home tab, then choose the desired style from the drop-down menu.
+
+--- SLIDE 116 ---
+To apply a cell style
+The selected cell style will appear.
+
+--- SLIDE 117 ---
+Excel - Working with Multiple Worksheets
+Every workbook contains at least one worksheet by default. 
+
+When working with a large amount of data, you can create multiple worksheets to help organize your workbook and make it easier to find content. 
+
+You can also group worksheets to quickly add information to multiple worksheets at the same time.
+
+--- SLIDE 118 ---
+Excel - Working with Multiple Worksheets
+Every workbook contains at least one worksheet by default. 
+
+When working with a large amount of data, you can create multiple worksheets to help organize your workbook and make it easier to find content. 
+
+You can also group worksheets to quickly add information to multiple worksheets at the same time.
+
+--- SLIDE 119 ---
+To insert a new worksheet
+Locate and select the New sheet button near the bottom-right corner of the Excel window.
+
+--- SLIDE 120 ---
+To insert a new worksheet
+A new blank worksheet will appear.
+
+--- SLIDE 121 ---
+To copy a worksheet
+If you need to duplicate the content of one worksheet to another, Excel allows you to copy an existing worksheet.
+Right-click the worksheet you want to copy, then select Move or Copy from the worksheet menu.
+
+--- SLIDE 122 ---
+To copy a worksheet
+The Move or Copy dialog box will appear. Choose where the sheet will appear in the Before sheet: field. In our example, we'll choose (move to end) to place the worksheet to the right of the existing worksheet.
+Check the box next to Create a copy, then click OK.
+
+--- SLIDE 123 ---
+To copy a worksheet
+The worksheet will be copied. It will have the same title as the original worksheet, as well as a version number. In our example, we copied the November worksheet, so our new worksheet is named November (2). All content from the November worksheet has also been copied to the new worksheet.
+
+--- SLIDE 124 ---
+To rename a worksheet
+Right-click the worksheet you want to rename, then select Rename from the worksheet menu.
+
+--- SLIDE 125 ---
+To rename a worksheet
+Type the desired name for the worksheet.
+Click anywhere outside the worksheet tab, or press Enter on your keyboard. The worksheet will be renamed.
+
+--- SLIDE 126 ---
+To move a worksheet
+Click and drag the worksheet you want to move until a small black arrow appears above the desired location.
+
+
+
+Release the mouse. The worksheet will be moved.
+
+
+--- SLIDE 127 ---
+To change the worksheet tab color
+Right-click the desired worksheet tab, and hover the mouse over Tab Color. The Color menu will appear.
+Select the desired color.
+
+--- SLIDE 128 ---
+To change the worksheet tab color
+The worksheet tab color will be changed.
+
+--- SLIDE 129 ---
+To change the worksheet tab color
+The worksheet tab color is considerably less noticeable when the worksheet is selected. Select another worksheet to see how the color will appear when the worksheet is not selected.
+
+
+--- SLIDE 130 ---
+To delete a worksheet
+Right-click the worksheet you want to delete, then select Delete from the worksheet menu.
+
+--- SLIDE 131 ---
+To delete a worksheet
+The worksheet will be deleted from your workbook.
+
+
+
+
+
+
+
+NOTE: If you want to prevent specific worksheets from being edited or deleted, you can protect them by right-clicking the desired worksheet and selecting Protect Sheet from the worksheet menu.
+
+--- SLIDE 132 ---
+Switching between worksheets
+If you want to view a different worksheet, you can simply click the tab to switch to that worksheet.
+
+However, with larger workbooks this can sometimes become tedious, as it may require scrolling through all of the tabs to find the one you want. 
+
+Instead, you can simply right-click the scroll arrows in the lower-left corner, as shown below.
+
+
+--- SLIDE 133 ---
+Switching between worksheets
+A dialog box will appear with a list of all of the sheets in your workbook. You can then double-click the sheet you want to jump to.
+
+
+
+--- SLIDE 134 ---
+Grouping and ungrouping worksheets
+You can work with each worksheet individually, or you can work with multiple worksheets at the same time. 
+
+Several worksheets can be combined into a group. 
+
+Any changes made to one worksheet in a group will be made to every worksheet in that group.
+
+--- SLIDE 135 ---
+To group worksheets
+Select the first worksheet you want to include in the worksheet group.
+
+
+
+Press and hold the Ctrl key on your keyboard. Select the next worksheet you want in the group.
+
+
+--- SLIDE 136 ---
+To group worksheets
+Continue to select worksheets until all of the worksheets you want to group are selected, then release the Ctrl key. The worksheets are now grouped.
+
+
+
+NOTE:
+While worksheets are grouped, you can navigate to any worksheet within the group. 
+Any changes made to one worksheet will appear on every worksheet in the group. 
+However, if you select a worksheet that is not in the group, all of your worksheets will become ungrouped.
+
+--- SLIDE 137 ---
+To ungroup worksheets
+Right-click a worksheet in the group, then select Ungroup Sheets from the worksheet menu.
+
+
+
+
+
+
+
+--- SLIDE 138 ---
+To ungroup worksheets
+
+The worksheets will be ungrouped. You can also click any worksheet not included in the group to ungroup all worksheets.
+
+
+
+--- SLIDE 139 ---
+
+--- SLIDE 140 ---
+THANK YOU

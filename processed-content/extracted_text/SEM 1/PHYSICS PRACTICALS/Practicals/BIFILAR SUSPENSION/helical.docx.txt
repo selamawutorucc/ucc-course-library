@@ -1,0 +1,47 @@
+AIM:
+Verifying the motion of simple harmonic motion of bifilar suspension.
+APPARATUS:
+A meter rule
+Cotton thread
+Stop watch
+Retort stands and clamps
+DIAGRAM:
+THEORY:
+	The metre rule swings through a very small angle σ, (the vertical threads of lengths displaced through small angle σ) and the tension in each thread is F, then the vertical and horizontal  components of F are F cosσ (vertical) and F sinσ (horizontal). The suspended meter rule is also displaced through a small angle φ (the length of the metre rule taking to be d). Hence if m is the mass of the meter rule, 2F cosσ = mg
+MATHEMATICAL EQUATION:
+For small angle 2F = mg.
+The restoring couple = F sin σ × d =  mg × σ.
+Now for small angles,  dφ = 1σ.
+Therefore mg.σ.d =  mg φ. The equation f motion is therefore:
+mgφ = -1φ,
+That is φ = -      where t is the Moment of Inertia about a vertical axis through the centre of gravity and φ is the angular acceleration. The motion is thus a simple harmonic motion and the period is T= 2π2
+GRAPH:
+CALCULATION:
+DISCUSSION:
+PROCEEDURE:
+The retort stand and clamp was assembled and then tied with cotton thread vertically held by two small wooden boards. The cotton thread was then tied securely to the metre rule from each E end of the clamp. The upper loops on the support were adjusted so that the threads were vertical. 
+The meter rule was then displaced through a very small angle about the vertical axis and then the time of twenty oscillations was then taken by the stop watch. The distance at both ends was started off with one centimetre and then it was increased to two centimetres.
+The distance between them was then measures and timings for the oscillations were then noted down in at a table.
+OBSERVATIONS:
+Number of oscillation: 20
+Period = time/number of oscillation.
+RESULTS
+ERRORS:
+	The rule was set swinging through a large angle and this made the meter rule swing on more than one place.
+	The experiment was performed near an opened window. 
+PRECAUTIONS:
+	The rule should be swung through very small angle or displacement in order to keep the meter rule in simple harmonic motion that is through only one plane.
+	In take the distance between the rule, parallax error should be noted so as to avoid them.
+	The experiment should be performed in an enclosed area so as to prevent any kind of distraction during the experiment.
+CONCLUSION:
+The moment of inertia about the vertical axis through the centre of gravity and the angular acceleration was shown and proved. Thus the motion of the bifilar suspension experiment was simple harmonic motion.
+References:
+www.encarta.com
+Cutnell physics on simple harmonic motion.
+Principle of physics
+d/cm |          t1/s | t2/s | t/s | Log t | Log d
+98.0 | 17.60 | 17.62 | 17.61 | 1.246 | 1.991
+96.0 | 18.49 | 17.80 | 18.12 | 1.258 | 1.982
+92.0 | 18.69 | 17.87 | 18.27 | 1.262 | 1.964
+88.0 | 18.81 | 18.94 | 18.88 | 1.276 | 1.944
+84.0 | 19.00 | 18.92 | 18.96 | 1.278 | 1.924

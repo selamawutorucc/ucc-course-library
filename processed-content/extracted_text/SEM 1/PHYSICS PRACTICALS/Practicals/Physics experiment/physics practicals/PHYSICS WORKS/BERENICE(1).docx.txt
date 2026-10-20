@@ -1,0 +1,114 @@
+PHYSICS PACTICALS
+KARIKARI APPAU KYEREWAA BERNICE
+SM/SMS/08/0011
+10/10/2008
+EXPERIMENT 7
+TITLE: EXPRIMENT TO DETERMINE THE SURFACE TENSION OF WATER BY CAPILARY METHOD.
+AIM: TO DETERMINE THE SURFACE TENSION OF WATER BY CAPILARY METHOD.
+THEORY: Surface tension is a natural phenomenon in which the surface of a liquid acts like an elastic membrane. Any equilibrium configuration of an object is one in which the energy is minimum therefore, a fluid would take on a shape such that its surface area is as small as possible. For a given volume, a spherical shape is the one with the smallest surface area; water therefore takes on a spherical shape. Surface tension in a film of liquid is defined as the ratio of the magnitude of the surface tension F to the length L along which the force acts. That is;
+T= .... (1)                     Where;
+                                                               F= the net force directed tangential to the depressed part of the water surface.
+T= surface tension
+           F=surface tension force
+                                  L= length along which the force acts
+F=TL
+  =T (2r) ...... (2)           Where;
+                                                               F= the vertical component due to surface tension
+                                                               r = radius of the capillary tube
+                                                               = the angle of contact
+                                                               L=	
+	However, for a the liquid in a capillary tube to be in equilibrium, the upward force of surface tension must be equal to the weight of the cylinder of water of height h inside the capillary tube. That is;
+Weight of water, W =Mg
+M= V
+W=Vg
+V =h
+        W =h ... (3) where
+W= weight of water
+= density of water 
+                    g= acceleration due to gravity
+                                     h= height of the water in capillary tube 
+Equating (2) and (3)
+T (2r) cos=ρgh
+ But for water, =0
+Hence, the equation becomes:
+T (2r) =gh
+With very fine capillary tubes, the meniscus surface is considered to be hemispherical and the weight of the water above the lowest part of the meniscus: 
+T(2r)= g + gh
+T(2r) = g(h)
+T= )
+APPARATUS:   
+A set of three capillary tubes 
+Travelling microscope 
+(Precision: _ 0.001cm)
+Beaker
+Conical flask 
+Retort stand and clamp
+Strong caustic soda solution
+Rubber ban
+Nitric acid
+Venier callipers
+Thermometer(0.1)
+DIAGRAM OF THE EXPERIMENT
+When taking the height of the liquid :
+obser		                      Capillary tube
+Retort stand
+Conical flask
+Travelling Microscope
+When taking the diameter of the capillary tube:
+Capillary tube
+							Retort stand
+Travelling microscope
+PROCEDURE:  
+Firstly, the conical flask was filled to the brim (almost overflowing) with water.
+The initial height was obtained by measuring the height of the water in the conical flask with the aid of a travelling microscope. The capillary tube was clamped on to the retort stand with about one quarter of it immersed in the water in the conical flask. The height to which the meniscus of the water rose is measured with the travelling microscope again.
+The reading was taken from both the main and the vernier scale and recorded at once.
+The capillary tube was removed from the water and then clamped in a horizontal position. The inner diameter of the tube was measured in order to get the radius of it. The entire process is repeated for two other tubes. 
+OBSERVATION:
+Least count on the main scale: - 0.05cm
+Least count on the vernier scale: - 0.001cm
+Table of Results
+Initial height (h0/cm) = 1.153cm
+Calculations
+Assuming that =1000kg/m3 and g=9.8m/s2
+For Capillary tube 1:
+r= 0.528cm= 0.528*10-2 m
+h=4.051cm= 4.051*10-2 m
+From the theory,
+=
+=0.453N/m
+For capillary tube 2:
+r= 0.323cm=0.323*10-2m
+h= 2.999cm=2.999*10-2m
+From the theory,
+ )
+=
+=0.491N/m
+For capillary tube 3:
+r= 0.528cm=0.528*10-2m
+h=1.007cm=1.007*10-2m
+From the theory,
+ )
+=+
+=0.306N/m
+Average of T= 
+=0.417N/m
+Sources of Error
+Errors may be due to impurities in the water causing a reduction in the value of the surface tension.  
+Errors may be due to fluctuations in temperature which did not give a stable surface tension value of water at a particular temperature.
+The image of the diameter seen through the travelling microscope was not uniform hence the precise dimensions could not be obtained.
+ Errors may be due to inaccurate calibration of the main and vernier scales of the slightly eroded travelling microscope.  
+The mechanism of the travelling microscope that keeps the focus stationary was not functioning properly hence the level of the height at which the meniscus was kept on changing.
+PRECAUTIONS
+It was ensured that all measurements were repeated and their average found in order to avoid random error.
+It was ensured that the height to which the meniscus rises in the capillary tube was measured at the eye level to avoid palarax.
+It was ensured that the microscope was stable as readings were taken from the main and vernier scale.
+It was ensured that the three capillary tubes were not interchanged as the experiment was being carried out.
+DISCUSSION AND CONCLUSION
+ The theoretical value of the surface tension of water at 20 is 0.073N/m from College Physics. From the experiment however, the surface tension of water was found to be  0.417N/m at a temperature of 30. It can therefore be deduced that the surface tension of liquids decreases with increasing temperature. This can be attested to the fact that the faster moving molecules of a hot liquid are not bound together as strongly as are those in a cooler liquid. Also, the mechanism of the travelling microscope that keeps focus after the level of the meniscus has been located was not functioning properly this might have affected the readings of the meniscus resulting in errors. Therefore it was found that the height of the liquid kept on changing as readings were being taken. The diameter of the capillary tube observed through the microscope was not uniform so accurate values of the radii were not obtained. Lastly, the structure of the main scale as well as the vernier scale made it difficult for exact values to be read. This is because the whole scale could not be seen through the magnifying glass so one had to count the graduations and calculate the value. Moreover impurities in the water might have also contributed to the experimental error.
+REFERENCES;
+Raymond A. Serway andJerry S Faughn,College Physics 5th Edition 1999 
+Harcourt College Publishers, 
+Capillary tube  | Height of meniscus(h/cm) | Height of water(∆h=h-h0)/cm | 1stDiameter(d1/cm) | 2ndDiameter(d2/cm) | Diameter difference(∆d/cm) | Radius (r =/cm)
+1 | 5.204 | 4.051 | 6.256 | 5.201 | 1.055 | 0.224
+2 | 4.152 | 2.999 | 6.355 | 5.709 | 0.646 | 0.323
+3 | 2.160 | 1.007 | 4.606 | 4.158 | 0.448 | 0.528

@@ -1,0 +1,76 @@
+Yaw Ofosu Ansong (Snr)
+SM/SMS/09/0029
+EXPERIMENT 3
+DEFORMATION OF SOLID BODIES
+7TH October, 2009
+TITLE: An experiment to measure the deformation caused by weight of “mass pieces” on two helical springs (3N/m and 20N/m).
+AIM:  To measure the deformation caused by the weight of “mass pieces” on two helical springs (3N/m and 20N/m).
+Apparatus: Support base, Support rod (600mm), Double clamp, Weight holder (10g), Slotted weight (10g), Slotted weight (50g), Helical spring (3 N/m) , Helical spring (20N/m) , Holding pin, Glass tube holder, Measuring tape (2m)
+
+Diagram
+Theory
+Hooke’s law states that “provided the elastic limit of a body is not exceeded, the extension of an elastic body is proportional to the loads producing these extensions”.  In symbols, it implies F=k.∆l where F is the force produced by the load, k is the constant of proportionality (also known as the spring constant) and ∆l is the extension produced by the mass piece. If the spring is compressed or stretched a small distance from its equilibrium position, the spring will exert a force on the body given by the Hooke’s law above. The spring’s constant is an indication of the spring’s stiffness. A large value for the spring constant indicate that the spring is stiff while a lower value for k indicates a soft spring. Generally, springs with large k can balance larger forces than one with small k. the value of k for a given spring is constant, but different for different springs. This means the force exerted by a spring is variable.
+
+Sketch of expected graph
+
+
+
+
+
+
+Method
+ 	The stand was set up with the support base, the support rod and the double clamp. The holding pin was fixed in the double clamp and the 3 N/m helical spring hang in it. The glass tube holder was then clamped on the base of the support rod. The extended measuring tape was then clamp in it. The length of the measuring tape was then adjusted such that its zero mark was exactly at the same level as the lower end of the helical spring. The weight holder which had a mass of 10g was then hung on the hooked end of the spring and the extension   recorded. The mass was then increased by 10g increments to a total of 50g and the corresponding extensions length   recorded. This was done to a total of 50g. All the values for the mass m and extension  were recorded and tabulated. 
+ 	The 3N/m helical spring was then removed from the double clamp and the 20N/m helical spring hung on the holding pin. The measuring tape was adjusted till its zero mark was even with the lower end of the spring. The 20g mass was then increased up to a sum of 140g and the corresponding extensions in length determined and tabulated.
+All the values obtained were tabulated.
+TABLE OF RESULTS
+Helical Spring (3N/m)
+Helical Spring (20N/m)
+GRAPHS OF DEFLECTION AGAINST WEIGHT
+Calculation
+From experimental theory; slope =  
+
+therefore, k =  
+
+K for first spring(3N/m)
+=  . 
+For first graph slope = 29.5cm/N =0.295 m/N
+
+K =  = 3.389 N/m 
+
+
+K for second spring(20N/m)
+For second graph slope = 5.35cm/N =0.05350 m/N
+
+K =  = 18.6916N/m
+
+A careful observation of the graphs obtained from the experiment reveals that both graphs have a positive gradient. Also, both graphs are straight line graphs. Hence in both springs, Hooke’s law is obeyed. However, from the graphs obtained, it is obvious that for each change in weight, the extension produced in the first spring is relatively lesser as compared to the extension produced per change in weight for the second spring. Therefore spring 1 is less stiff as compared to spring 2. In both experiments, the elastic limt was not exceeded, hence both graphs were striaght line graphs. Hence Hooke’s law was obyed by both springs throughout the experiment. None of the springs were therefore deformed by the mass pieces. A careful observation of both graphs also reveals that; values for the two springs do not lie on the same graph. This is because both springs have different spring constants and therefore produce different extensions per unit weight added. Since both graphs are straight line graphs, we infer that the extension of the two springs is proportional to the weight and thus to the mass since acceleration due to gravity on earth is constant (9.8m/s²). Graph 1 had an intercept of 1.25, which is in line with the theory of the experiment, however Graph 2, had an intercept of 0.05 as against the expected intercept of 0.0. Such a variation can be attributed to errors that occurred during the experiment. From the experimental setup, it was known that spring 1 had a constant of 3 N/m whilst spring 2 had a constant of 20 N/m. The experimental values however give a spring constant of 3.389 N/m and 18.6916N/m for the first and second springs respectively. The experimental value of the spring constant for spring 2 had an error of 6.54% whilst that of spring 1 had an error of approximately 12.97%. 
+
+
+
+SOURCES OF ERRORS
+1. Reading of the extension could have presented an error (parallax) since eye level could not be maintained at a perfect horizontal level to the measuring tape during the reading process.
+2. Measuring tape might have displaced during the experiment unknowingly producing slightly inaccurate readings.
+PRECAUTIONS
+The experiment was done several times over to produce an average reading in order to ensure a high degree of accuracy.
+Changing of weights was done with in order to avoid displacing of the measuring tape.
+CONCLUSION
+Different springs have different spring constants. Hooke’s law is obeyed by elastic bodies that are not deformed.
+
+REFERENCES:
+ Physics, Giancoli, sixth edition, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005.
+Physics for Scientists & Engineers, Serway Raymond A., Saunders College Publishing, fourth edition, Philadelphia, 1996.
+
+Mass m/g | Weight(force) Fg/N | Deflection Δl/cm
+10 | 0.1 | 4.0
+20 | 0.2 | 7.5
+30 | 0.3 | 10.0
+40 | 0.4 | 13.0
+50 | 0.5 | 16.0
+Mass m/g | Weight (Force) Fg/N | Deflection Δl/cm
+20 | 0.2 | 1.1
+40 | 0.4 | 2.1
+60 | 0.6 | 3.4
+80 | 0.8 | 4.4
+100 | 1.0 | 5.3
+120 | 1.2 | 6.4
+140 | 1.4 | 7.5

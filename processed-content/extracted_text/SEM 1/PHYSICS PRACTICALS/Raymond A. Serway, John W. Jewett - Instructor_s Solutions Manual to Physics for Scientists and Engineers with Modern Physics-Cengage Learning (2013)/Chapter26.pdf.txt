@@ -1,0 +1,5545 @@
+
+--- PAGE 1 ---
+151 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+26 
+Capacitance and Dielectrics 
+ 
+CHAPTER OUTLINE 
+ 
+26.1  
+Definition of Capacitance 
+26.2 
+Calculating Capacitance 
+26.3 
+Combinations of Capacitors 
+26.4  
+Energy Stored in a Charged Capacitor 
+26.5  
+Capacitors with Dielectrics 
+26.6 
+Electric Dipole in an Electric Field 
+26.7 
+An Atomic Description of Dielectrics 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ26.1 
+(i) 
+Answer (a). Because C =κ ∈0 A d and the dielectric constant κ 
+increases.  
+ 
+(ii) Answer (a). Because ΔV is constant, and C increases, so 
+Q = CΔV increases.  
+ 
+(iii) Answer (c). 
+ 
+(iv) Answer (a). Because ΔV is constant, and C increases,  
+UE = 1
+2 C ΔV
+(
+)
+2 increases.  
+OQ26.2 
+Answer (b). The capacitance of a metal sphere is proportional to its 
+radius (C = Q/V = R/ke), and its volume is proportional to radius 
+cubed; therefore, the capacitance of a metal sphere is proportional to 
+the cube root of the volume: 3
+1/3.
+
+--- PAGE 2 ---
+152     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ26.3 
+Answer (a).  
+ 
+ 
+ 
+C = κ ∈0 A
+d
+= 1.00 × 102
+(
+) 8.85 × 10−12 C2/N⋅m2
+(
+) 1.00 × 10−4 m2
+(
+)
+1.00 × 10−3 m 
+= 8.85 × 10−11 F   or    88.5 pF
+ 
+OQ26.4 
+Answer (c). The voltage remains constant, but C decreases by a factor 
+of 2 because C = κ ∈0 A d →κ ∈0 A
+2d
+(
+) = C 2. Therefore,  
+ 
+ 
+ 
+UE = 1
+2 C ΔV
+(
+)
+2   →   1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 C
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV
+(
+)
+2 = 1
+2UE
+  
+OQ26.5 
+Answer (b). Choice (a) is not true because 1/Ceq is always larger than 
+1/C1 + 1/C2 + 1/C3. Choice (c) is not true because capacitors in series 
+carry the same charge Q, and the voltage across capacitance Ci is  
+ΔVi = Q/Ci. Choices (d) and (e) are not true because capacitors in 
+series carry the same charge.  
+OQ26.6 
+Answer (b). Let C = the capacitance of an individual capacitor, and 
+CS represent the equivalent capacitance of the group in series. While 
+being charged in parallel, each capacitor receives charge  
+ 
+ 
+ 
+Q = CΔVcharge = 5.00 × 10−4 F
+(
+) 800 V
+(
+) = 0.400 C 
+ 
+While being discharged in series,  
+ 
+ 
+ 
+ΔVdischarge = Q
+Cs
+=
+Q
+C 10 =
+0.400 C
+5.00 × 10−5 F = 8.00 kV 
+ 
+(or 10 times the original voltage). 
+OQ26.7 
+(i) 
+Answer (b), because Q = CΔV.  
+ 
+(ii) Answer (a), because UE = 1
+2 C ΔV
+(
+)
+2 .  
+OQ26.8 
+Answer (d). Let C2 be the capacitance of the large capacitor and C1 
+that of the small one. The equivalent capacitance is  
+ 
+ 
+ 
+Ceq =
+1
+1 C1 + 1 C2
+=
+1
+C1 + C2
+C1C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= C1
+C2
+C2 + C1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+This is slightly less than C1.
+
+--- PAGE 3 ---
+Chapter 26     153 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ26.9 
+Answer (a). Charge Q remains fixed, but the capacitance doubles: 
+C = κ ∈0 A d →2κ
+(
+)∈0 A d = 2C. Therefore, ΔV = Q/C → Q/(2C) = 
+ΔV /2. 
+OQ26.10 
+(i) Answer (c). For capacitors in parallel, choices (a), (b), (d), and (e) 
+are not true because the potential difference ∆V is the same, and the 
+charge across capacitance Ci is Qi = Ci ΔV .  
+ 
+(ii) Answer (e). Although the charges on capacitors in series are the 
+same, the equivalent capacitance is less than the capacitance of any of 
+the capacitors in the group, because 1/Ceq is always larger than 1/C1 
++ 1/C2 + 1/C3; therefore, choices (a) and (c) are not true. Choices (b), 
+(c), and (d) are not true because the charge Q is the same, and choice 
+(c) is also not true because the potential difference across capacitance 
+Ci is ΔVi = Q/Ci.  
+OQ26.11 
+Answer (b). The charge stays constant but C decreases by a factor of 2 
+because C =κ ∈0 A d →κ ∈0 A
+2d
+(
+) = C 2. Therefore,  
+ 
+ 
+ 
+UE = Q2
+2C   →   
+Q2
+2 1
+2 C
+⎛
+⎝
+⎞
+⎠
+= 2UE
+ 
+OQ26.12 
+We find the capacitance, voltage, charge, and energy for each 
+capacitor. 
+ 
+(a) 
+C = 20 μF 
+ΔV = 4 V 
+Q = CΔV = 80 μC 
+UE = 1
+2 QΔV = 160 μJ 
+ 
+(b) C = 30 μF 
+ΔV = Q/C = 3 V 
+Q = 90 μC 
+ 
+UE = 135 μJ 
+ 
+(c) 
+C = Q/∆V = 40 μF  
+ΔV = 2 V 
+Q = 80 μC 
+ 
+UE = 80 μJ 
+ 
+(d) C = 10 μF 
+ΔV = (2U/C)
+1/2 = 5 V Q = 50 μC 
+ 
+UE = 125 μJ 
+ 
+(e) 
+C = 2UE / ΔV
+(
+)
+2 = 5 µF ΔV = 10 V 
+Q = 50 μC 
+ 
+UE = 250 μJ 
+ 
+ 
+(i) 
+The ranking by capacitance is c > b > a > d > e. 
+ 
+ 
+(ii) 
+The ranking by voltage ΔV is e > d > a > b > c. 
+ 
+ 
+(iii) 
+The ranking by charge Q is b > a = c > d = e. 
+ 
+ 
+(iv) 
+The ranking by energy UE is e > a > b > d > c.
+
+--- PAGE 4 ---
+154     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ26.13 
+(a) False. (b) True. The equation C = Q/ΔV implies that as charge Q 
+approaches zero, the voltage ΔV also approaches zero so that their 
+ratio remains constant.  
+OQ26.14 
+(i) 
+Answer (b). Because C =κ ∈0 A d and the plate separation d 
+increases.  
+ 
+(ii) Answer (c).  
+ 
+(iii) Answer ( c). Because E = Q/κ ∈0 A remains the same.  
+ 
+(iv) Answer (a). Because ΔV = Ed and d increases.  
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ26.1 
+(a) The capacitor may be charged!  
+ 
+(b) Discharge the capacitor by connecting its terminals together.  
+CQ26.2 
+Put a material with higher dielectric strength between the plates, or 
+evacuate the space between the plates. At very high voltages, you 
+may want to cool off the plates or choose to make them of a different 
+chemically stable material, because atoms in the plates themselves 
+can ionize, showing thermionic emission under high electric fields. 
+CQ26.3 
+The primary choice would be the dielectric. You would want to 
+choose a dielectric that has a large dielectric constant and dielectric 
+strength, such as strontium titanate, where κ ≈233 (Table 26.1). A 
+convenient choice could be thick plastic or Mylar. Secondly, 
+geometry would be a factor. To maximize capacitance, one would 
+want the individual plates as close as possible, since the capacitance 
+is proportional to the inverse of the plate separation—hence the need 
+for a dielectric with a high dielectric strength. Also, one would want 
+to build, instead of a single parallel plate capacitor, several capacitors 
+in parallel. This could be achieved through “stacking” the plates of 
+the capacitor. For example, you can alternately lay down sheets of a 
+conducting material, such as aluminum foil, sandwiched between 
+sheets of insulating dielectric. Making sure that none of the 
+conducting sheets are in contact with their immediate neighbors, 
+connect every other plate together. ANS. FIG. CQ26.3 illustrates this 
+idea. 
+ 
+This technique is often used when “home-brewing” signal capacitors 
+for radio applications, as they can withstand huge potential 
+differences without flashover (without either discharge between 
+plates around the dielectric or dielectric breakdown). One variation 
+on this technique is to sandwich together flexible materials such as
+
+--- PAGE 5 ---
+Chapter 26     155 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+aluminum roof flashing and thick plastic, so the whole product can 
+be rolled up into a “capacitor burrito” and placed in an insulating 
+tube, such as a PVC pipe, and then filled with motor oil (again to 
+prevent flashover). 
+ 
+ 
+ANS. FIG. CQ26.3 
+CQ26.4 
+The dielectric decreases the electric field between the plates, causing 
+the potential difference to decrease for the same amount of charge. 
+More charge may be placed on the capacitor before the capacitor 
+experiences dielectric breakdown (resulting in charge jumping from 
+one plate to the other, and in a path being burned through the 
+dielectric) because the electric forces between charges on opposite 
+plates are smaller. The capacitor can have a higher maximum 
+operating voltage, allowing it to hold more charge.  
+CQ26.5 
+The work done, W = QΔV, is the work done by an external agent, 
+like a battery, to move a charge through a potential difference, ΔV. 
+To determine the energy in a charged capacitor, we must add the 
+work done to move bits of charge from one plate to the other. 
+Initially, there is no potential difference between the plates of an 
+uncharged capacitor. As more charge is transferred from one plate to 
+the other, the potential difference increases, meaning that more work 
+is needed to transfer each additional bit of charge. The total work is 
+given by W = 1
+2 QΔV. Another explanation is that the charge Q is 
+moved through an average potential difference 1
+2 ΔV, requiring total 
+work W = 1
+2 QΔV. 
+*CQ26.6 
+The potential difference must decrease. Since there is no external 
+power supply, the charge on the capacitor, Q, will remain constant—
+that is, assuming that the resistance of the meter is sufficiently large. 
+Adding a dielectric increases the capacitance, which must therefore 
+decrease the potential difference between the plates.
+
+--- PAGE 6 ---
+156     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ26.7 
+A capacitor stores energy in the electric field between the plates. This 
+is most easily seen when using a “dissectible” capacitor. If the 
+capacitor is charged, carefully pull it apart into its component pieces. 
+One will find that very little residual charge remains on each plate. 
+When reassembled, the capacitor is suddenly “recharged”—by 
+induction—due to the electric field set up and “stored” in the 
+dielectric. This proves to be an instructive classroom demonstration, 
+especially when you ask a student to reconstruct the capacitor 
+without supplying him/her with any rubber gloves or other 
+insulating material. (Of course, this is after they sign a liability 
+waiver.) 
+CQ26.8 
+The work you do to pull the plates apart becomes additional electric 
+potential energy stored in the capacitor. The charge is constant and 
+the capacitance decreases but the potential difference increases to 
+drive up the potential energy 1
+2 QΔV. The electric field between the 
+plates is constant in strength but fills more volume as you pull the 
+plates apart. 
+ 
+ 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 20.1 
+Definition of Capacitance 
+P26.1 
+(a)  From Equation 26.1 for the definition of capacitance, C = Q
+ΔV , we 
+have 
+ 
+ 
+ 
+ΔV = Q
+C = 27.0 µC
+3.00 µF = 9.00 V
+ 
+ 
+(b) Similarly, 
+ 
+ 
+ 
+ΔV = Q
+C = 36.0 µC
+3.00 µF = 12.0 V 
+P26.2 
+(a) 
+C = Q
+ΔV = 10.0 × 10−6 C
+10.0 V
+= 1.00 × 10−6 F = 1.00 µF 
+ 
+(b) 
+ΔV = Q
+C = 100 × 10−6 C
+1.00 × 10−6 F = 100 V
+
+--- PAGE 7 ---
+Chapter 26     157 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.3 
+(a) 
+Q = CΔV = 4.00 × 10−6 F
+(
+) 12.0 V
+(
+) = 4.80 × 10−5 C = 48.0 µC 
+ 
+(b) 
+Q = CΔV = 4.00 × 10−6 F
+(
+) 1.50 V
+(
+) = 6.00 × 10−6 C = 6.00 µC 
+ 
+ 
+ 
+Section 26.2 
+Calculating Capacitance 
+P26.4 
+(a) 
+For a spherical capacitor with inner radius a and outer radius b,  
+ 
+ 
+ 
+ 
+ 
+C =
+ab
+ke b −a
+(
+) =
+0.070 0 m
+(
+) 0.140 m
+(
+)
+8.99 × 109 N⋅m2/C2
+(
+) 0.140 m −0.070 0 m
+(
+)
+= 15.6 pF
+ 
+ 
+(b) 
+ΔV = Q
+C = 4.00 × 10–6 C  
+1.56 × 10–11 F = 2.57 × 105 V = 257 kV 
+P26.5 
+(a) 
+The capacitance of a cylindrical capacitor is
+  
+ 
+ 
+ 
+C =
+
+2ke ln b/a
+(
+)
+=
+50.0 m
+2 8.99 × 109 N⋅m2/C2
+(
+)ln 7.27 mm/2.58 mm
+(
+)
+= 2.68 nF
+ 
+ 
+(b) Method 1:  ΔV = 2keλ ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+λ = Q
+= 8.10 × 10−6 C
+50.0 m
+= 1.62 × 10−7 C m
+ 
+ 
+ 
+ 
+ΔV = 2 8.99 × 109 N ⋅m2/C2
+(
+) 1.62 × 10−7 C/m
+(
+)ln 7.27 mm
+2.58 mm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.02 kV
+ 
+ 
+ 
+Method 2:  ΔV = Q
+C = 8.10 × 10−6 C
+2.68 × 10−9 F = 3.02 kV 
+P26.6 
+(a) 
+C = κ ∈0 A
+d
+=
+1.00
+(
+) 8.85 × 10−12 C2 /N ⋅m2
+(
+) 1.00 × 103 m
+(
+)
+2
+800 m
+= 11.1 nF
+
+--- PAGE 8 ---
+158     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The potential between ground and cloud is 
+ 
+ 
+ 
+ΔV = Ed = 3.00 × 106 N/C
+(
+) 800 m
+(
+) = 2.40 × 109 V
+Q = C ΔV
+(
+) = 11.1× 10−9 C/ V
+(
+) 2.40 × 109 V
+(
+) = 26.6 C
+ 
+P26.7 
+We have Q = CΔV and C =∈0 A/d. Thus, Q = ∈0 AΔV/d 
+ 
+The surface charge density on each plate has the same magnitude, given 
+by  
+ 
+ 
+σ = Q
+A = ∈0 ΔV
+d
+ 
+ 
+Thus,  
+ 
+ 
+d = ∈0 ΔV
+Q/A = 8.85 × 10–12 C2/N⋅m2
+(
+)(150 V)
+30.0 × 10–9 C/cm2
+(
+)
+ 
+ 
+ 
+ 
+d =
+4.43 × 10–2 V⋅C ⋅cm2
+N ⋅m2 
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 m2
+(
+)
+104 cm2
+(
+)
+J
+V⋅C
+N⋅m
+J
+= 4.43 µm
+ 
+P26.8 
+(a) 
+C = κ ∈0 A
+d
+= 1.00
+(
+) 8.85 × 10−12 C2 N⋅m2
+(
+) 2.30 × 10−4 m2
+(
+)
+1.50 × 10−3 m
+= 1.36 × 10−12 F = 1.36 pF
+ 
+ 
+(b) 
+Q = CΔV = 1.36 pF
+(
+) 12.0 V
+(
+) = 16.3 pC  
+ 
+(c) 
+E = ΔV
+d =
+12.0 V
+1.50 × 10−3 m = 8.00 × 103 V/m 
+P26.9 
+(a) 
+The potential difference between two points in a uniform electric 
+field is ΔV = Ed, so 
+ 
+ 
+ 
+E = ΔV
+d =
+20.0 V
+1.80 × 10–3 m = 1.11× 104 V/m
+ 
+ 
+ 
+(b) The electric field between capacitor plates is E = σ
+∈0
+, so σ = ∈0 E: 
+ 
+ 
+ 
+σ = 8.85 × 10–12 C2/N⋅m2
+(
+) 1.11× 104 V/m
+(
+) = 9.83 × 10–8 C/m2
+= 98.3 nC/m2
+
+--- PAGE 9 ---
+Chapter 26     159 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+For a parallel-plate capacitor, C = ∈0 A
+d
+: 
+ 
+ 
+ 
+C = 8.85 × 10–12 C2/N ⋅m2
+(
+) 7.60 × 10–4 m2
+(
+)
+1.80 × 10–3 m 
+= 3.74 × 10–12 F = 3.74 pF
+  
+ 
+(d) The charge on each plate is Q = CΔV: 
+ 
+ 
+ 
+Q = 3.74 × 10−12 F
+(
+) 20.0 V
+(
+) = 74.7 pC 
+P26.10 
+With θ = π, the plates are out of mesh and the 
+overlap area is zero. With θ = 0, the overlap area is 
+that of a semi-circle, π R2
+2
+. By proportion, the 
+effective area of a single sheet of charge is  
+ 
+ 
+ 
+π −θ
+(
+)R2
+2
+ 
+ 
+When there are two plates in each comb, the number of adjoining 
+sheets of positive and negative charge is 3, as shown in the sketch. 
+When there are N plates on each comb, the number of parallel 
+capacitors is 2N – 1 and the total capacitance is 
+ 
+ 
+ 
+C = 2N −1
+(
+)∈0 Aeffective
+distance = 2N −1
+(
+)∈0 π −θ
+(
+)R2 2
+d 2
+=
+2N −1
+(
+)∈0 π −θ
+(
+)R2
+d
+ 
+P26.11 
+(a) 
+The electric field outside a spherical charge distribution of radius 
+R is E = keq/r
+2. Therefore,  
+ 
+ 
+ 
+q = Er2
+ke
+=
+4.90 × 104 N/C
+(
+) 0.210 m
+(
+)
+2
+8.99 × 109 N ⋅m2 /C2
+= 0.240 µC
+ 
+ 
+ 
+Then 
+ 
+ 
+ 
+σ = q
+A = 0.240 × 10−6 C
+4π 0.120 m
+(
+)
+2 = 1.33 µC/m2
+ 
+ 
+ 
+(b) For an isolated charged sphere of radius R,  
+ 
+ 
+ 
+ 
+C = 4π ∈0 r = 4π 8.85 × 10−12 C2 N ⋅m2
+(
+) 0.120 m
+(
+) = 13.3 pF 
+ANS. FIG. P26.10
+
+--- PAGE 10 ---
+160     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.12 
+Fy
+∑
+= 0:    T cosθ −mg = 0 
+ 
+Fx
+∑
+= 0:    T sinθ −Eq = 0 
+ 
+Dividing,  tanθ = Eq
+mg , 
+ 
+so  
+E = mg
+q tanθ 
+ 
+and ΔV = Ed =
+mgdtanθ
+q
+. 
+ 
+ 
+ 
+Section 26.3 
+Combinations of Capacitors 
+P26.13 
+(a) 
+Capacitors in parallel add. Thus, the equivalent capacitor has a 
+value of 
+ 
+ 
+ 
+Ceq = C1 + C2 = 5.00 µF + 12.0 µF = 17.0 µF 
+ 
+(b) The potential difference across each branch is the same and equal 
+to the voltage of the battery. 
+ 
+ 
+ 
+ΔV = 9.00 V 
+ 
+(c) 
+Q5 = CΔV = 5.00 µF
+(
+) 9.00 V
+(
+) = 45.0 µC 
+ 
+ 
+Q12 = CΔV = 12.0 µF
+(
+) 9.00 V
+(
+) = 108 µC 
+P26.14 
+(a) 
+In series capacitors add as    
+ 
+ 
+ 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+=
+1
+5.00 µF +
+1
+12.0 µF 
+ 
+ 
+ 
+Ceq = 3.53 µF 
+ 
+(c) 
+We must answer part (c) first before we can answer part (b). The 
+charge on the equivalent capacitor is  
+ 
+ 
+ 
+Qeq = CeqΔV = 3.53 µF
+(
+) 9.00 V
+(
+) = 31.8 µC 
+ 
+ 
+Each of the series capacitors has this same charge on it. 
+ 
+ 
+So 
+Q1 = Q2 = 31.8 µC .
+
+--- PAGE 11 ---
+Chapter 26     161 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The potential difference across each is  
+ 
+ 
+ 
+ΔV1 = Q1
+C1
+= 31.8 µC
+5.00 µF = 6.35 V 
+ 
+ 
+ 
+ΔV2 = Q2
+C2
+= 31.8 µC
+12.0 µF = 2.65 V 
+P26.15 
+(a) 
+When connected in series, the equivalent capacitance is 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+, or 
+ 
+ 
+ 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+=
+1
+4.20 µF +
+1
+8.50 µF →Ceq = 2.81 µF 
+ 
+(b) When connected in parallel, the equivalent capacitance is  
+ 
+ 
+ 
+Ceq = C1 + C2 = 4.20 µF + 8.50 µF = 12.70 µF 
+P26.16 
+(a) 
+When connected in series, the equivalent capacitance is 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+, or 
+ 
+ 
+ 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+=
+1
+2.50 µF +
+1
+6.25 µF →Ceq = 1.79 µF 
+ 
+ 
+Capacitors in series carry the same charge as their equivalent 
+capacitance:  
+ 
+ 
+ 
+Q = Ceq ΔV
+(
+) = 1.79 µF
+(
+) 6.00 V
+(
+) = 10.7 µC on each capacitor 
+ 
+(b) When connected in parallel, each capacitor has the same potential 
+difference across it. The charge stored on each capacitor is then 
+ 
+ 
+For C1 = 2.50 µF :   Q1 = C1 ΔV
+(
+) = 2.50 µF
+(
+) 6.00 V
+(
+) = 15.0 µC 
+ 
+ 
+For C2 = 6.25 µF :   Q2 = C2 ΔV
+(
+) = 6.25 µF
+(
+) 6.00 V
+(
+) = 37.5 µC 
+P26.17 
+(a) 
+In series , to reduce the effective capacitance: 
+ 
+ 
+ 
+1
+32.0 µF =
+1
+34.8 µF + 1
+Cs
+→1
+Cs
+=
+1
+32.0 µF −
+1
+34.8 µF
+→Cs = 398 µF
+
+--- PAGE 12 ---
+162     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) In parallel , to increase the total capacitance: 
+ 
+ 
+ 
+29.8 µF + Cp = 32.0 µF
+Cp = 2.20 µF
+ 
+P26.18 
+The capacitance of the combination of extra capacitors must be 
+7
+3 C − C =  4
+3 C. The possible combinations are: one capacitor: C; two 
+capacitors: 2C or 1
+2 C; three capacitors: 3C, 1
+3 C, 2
+3 C or 3
+2 C. None of 
+these is 4
+3 C, so the desired capacitance cannot be achieved.  
+P26.19 
+(a) 
+The equivalent capacitance of the series combination in the upper 
+branch is  
+ 
+ 
+ 
+1
+Cupper
+= 1
+C1
++ 1
+C2
+=
+1
+3.00 µF +
+1
+6.00 µF →Cupper = 2.00 µF 
+ 
+ 
+Likewise, the equivalent capacitance of the series combination in 
+the lower branch is 
+ 
+ 
+ 
+1
+Clower
+= 1
+C1
++ 1
+C2
+=
+1
+2.00 µF +
+1
+4.00 µF →Clower = 1.33 µF 
+ 
+ 
+These two equivalent capacitances are connected in parallel with 
+each other, so the equivalent capacitance for the entire circuit is 
+ 
+ 
+ 
+Ceq = Cupper + Clower = 2.00 µF + 1.33 µF = 3.33 µF 
+ 
+(b) Note that the same potential difference, equal to the potential 
+difference of the battery, exists across both the upper and lower 
+branches. Each of the capacitors in series combination holds the 
+same charge as that on the equivalent capacitor. For the upper 
+branch:  
+ 
+ 
+ 
+Q3 = Q6 = Qupper = Cupper ΔV
+(
+) = 2.00 µF
+(
+) 90.0 V
+(
+) = 180 µC s 
+ 
+ 
+so, 
+180 µC on the 3.00-µF and the 6.00-µF capacitors 
+ 
+ 
+For the lower branch: 
+ 
+ 
+ 
+Q2 = Q4 = Qlower = Clower ΔV
+(
+) = 1.33 µF
+(
+) 90.0 V
+(
+) = 120 µC 
+ 
+ 
+so, 
+120 µC on the 2.00-µF and 4.00-µF capacitors
+
+--- PAGE 13 ---
+Chapter 26     163 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The potential difference across each of the capacitors in the circuit 
+is: 
+ 
+ 
+ 
+ΔV2 = Q2
+C2
+= 120 µC
+2.00 µF = 60.0 V      
+ 
+ 
+ 
+ΔV3 = Q3
+C3
+= 180 µC
+3.00 µF = 60.0 V 
+ 
+ 
+ 
+60.0 V across the 3.00-µF and the 2.00-µF capacitors 
+ 
+ 
+ 
+ΔV4 = Q4
+C4
+= 120 µC
+4.00 µF = 30.0 V      
+ 
+ 
+ 
+ΔV6 = Q6
+C6
+= 180 µC
+6.00 µF = 30.0 V 
+ 
+ 
+ 
+30.0 V across the 6.00-µF and the 4.00-µF capacitors 
+P26.20 
+(a) 
+Capacitors 2 and 3 are in parallel and present equivalent 
+capacitance 6C. This is in series with capacitor 1, so the battery 
+sees capacitance 
+1
+3C + 1
+6C
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= 2C . 
+ 
+(b) If they were initially uncharged, C1  stores the same charge as C2 
+and C3 together. With greater capacitance, C3 stores more charge 
+than C2. Then Q1 > Q3 > Q2 . 
+ 
+(c) 
+The C2 || C3
+(
+) equivalent capacitor stores the same charge as C1. 
+Since it has greater capacitance, ΔV = Q
+C implies that it has 
+smaller potential difference across it than C1. In parallel with each 
+other, C2 and C3 have equal voltages: ΔV1 > ΔV2 = ΔV3 . 
+ 
+(d) If C3 is increased, the overall equivalent capacitance increases. 
+More charge moves through the battery and Q increases. As ∆V1 
+increases, ∆V2 must decrease so Q2 decreases. Then Q3 must 
+increase even more: Q3 and Q1 increase; Q2 decreases . 
+P26.21 
+Call C the capacitance of one capacitor and n the number of capacitors. 
+The equivalent capacitance for n capacitors in parallel is  
+ 
+ 
+Cp = C1 + C2 + . . . + Cn = nC
+
+--- PAGE 14 ---
+164     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The relationship for n capacitors in series is  
+ 
+ 
+1
+Cs
+= 1
+C1
++ 1
+C2
++ . . . + 1
+Cn
+= n
+C 
+ 
+Therefore, 
+ 
+  
+Cp
+Cs = nC
+C/n = n2
+or
+n =
+Cp /Cs =
+100 = 10
+ 
+P26.22 
+(a) 
+In the upper section, each C1-C2 pair, on either 
+side of C3
+ , are in series:  
+ 
+ 
+ 
+Cs =
+1
+5.00 +
+1
+10.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 3.33 µF 
+ 
+ 
+and both C1-C2 pairs are in parallel to C3: 
+ 
+ 
+ 
+Cupper = 2 3.33
+(
+) + 2.00 = 8.67 µF 
+ 
+ 
+In the lower section, the C2-C2 pair are in parallel:  
+ 
+ 
+ 
+Clower = 2 10.0
+(
+) = 20.0 µF 
+ 
+ 
+The upper section is in series with the lower section: 
+ 
+ 
+ 
+Ceq =
+1
+8.67 +
+1
+20.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 6.05 µF 
+ 
+(b) Capacitors in series carry the same charge as their equivalent 
+capacitor; therefore, the upper section, equivalent to a 8.67-µF 
+capacitor, and the lower section, equivalent to a 20.0-µF capacitor, 
+carry the same charge as a 6.05-µF capacitor:  
+ 
+ 
+ 
+Qupper = Qeq = CeqΔV = 6.05 µF
+(
+) 60.0 V
+(
+) 363 µC 
+ 
+ 
+The upper section is equivalent to capacitor C3 and two 3.33-µF 
+capacitors in parallel, and the voltage across each is the same as 
+that across a 8.67-µF capacitor:  
+ 
+ 
+ 
+ΔVupper =
+Qeq
+Ceq
+= 363 µC
+8.67 µF 41.9 V 
+ 
+ 
+Therefore, the charge on C3 is  
+ 
+ 
+ 
+Q3 = C3ΔV3 2.00 µF
+(
+) 41.9 V
+(
+) = 83.7 µC 
+ANS. FIG. P26.22
+
+--- PAGE 15 ---
+Chapter 26     165 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.23 
+ (a) We simplify the circuit of Figure P26.23 in three steps as shown in 
+ANS. FIG. P26.23 panels (a), (b), and (c). First, the 15.0-µF and 
+3.00-µF capacitors in series are equivalent to  
+ 
+ 
+ 
+ 
+1
+(1/15.0 µF) + (1/3.00 µF) 
+= 2.50 µF 
+ 
+ 
+ 
+Next, the 2.50-µF capacitor combines 
+in parallel with the 6.00-µF capacitor, 
+creating an equivalent capacitance of 
+8.50 µF. At last, this 8.50-µF equivalent 
+capacitor and the 20.0-µF capacitor are 
+in series, equivalent to  
+ 
+  
+1
+(1/8.50 µF) + (1/20.00 µF) = 5.96 µF 
+ 
+ 
+ 
+(b) We find the charge on each capacitor 
+and the voltage across each by working 
+backwards through solution figures 
+(c)–(a), alternately applying Q = CΔV 
+and ΔV = Q/C to every capacitor, real 
+or equivalent. For the 5.96-µF capacitor, 
+we have  
+ 
+ 
+ 
+ 
+Q = CΔV = 5.96 µF
+(
+) 15.0 V
+(
+)
+= 89.5 µC
+  
+ 
+ 
+ 
+Thus, if a is higher in potential than b, just 89.5 µC flows between 
+the wires and the plates to charge the capacitors in each picture. In 
+(b) we have, for the 8.5-µF capacitor, 
+ 
+ 
+ 
+ 
+ΔVac = Q
+C = 89.5 µC
+8.50 µF = 10.5 V 
+ 
+ 
+ 
+and for the 20.0-µF capacitor in (b), (a), and the original circuit, we 
+have Q20 = 89.5 µC. Then 
+ 
+ 
+ 
+ 
+ 
+ΔVcb = Q
+C = 89.5 µC
+20.0 µF = 4.47 V 
+ 
+ 
+ 
+Next, the circuit in diagram (a) is equivalent to that in (b), so  
+ΔVcb = 4.47 V and ΔVac = 10.5 V. 
+ 
+ 
+ 
+For the 2.50-µF capacitor, ΔV = 10.5 V and  
+ 
+ 
+ 
+ 
+Q = CΔV = 2.50 µF
+(
+) 10.5 V
+(
+) = 26.3 µC 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ANS. FIG. P26.23
+
+--- PAGE 16 ---
+166     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+For the 6.00-µF capacitor, ∆V = 10.5 V and  
+ 
+ 
+ 
+ 
+Q6  = C∆V = (6.00 µF)(10.5 V) = 63.2 µC 
+ 
+ 
+ 
+Now, 26.3 µC having flowed in the upper parallel branch in (a), 
+back in the original circuit we have Q15 = 26.3 µC and  
+Q3 = 26.3 µC. 
+P26.24 
+(a) 
+C = Q
+ΔV . When S1 is closed, the charge on C1 
+will be 
+ 
+ 
+ 
+Q = CΔV = 6.00 µF
+(
+) 20.0 V
+(
+) = 120 µC 
+ 
+(b)  When S1 is opened and S2 is closed, the total 
+charge will remain constant and be shared by 
+the two capacitors. We let primed symbols represent the new 
+charges on the capacitors, in 
+′
+Q1 = 120µC −
+′
+Q2. The potential 
+differences across the two capacitors will be equal.  
+ 
+ 
+ 
+Δ
+′
+V = 
+′
+Q1
+C1
+=
+′
+Q2
+C2
+or
+120 µC –
+′
+Q2
+6.00 µF
+ =
+′
+Q2
+3.00 µF 
+ 
+ 
+Then we do the algebra to find  
+ 
+ 
+ 
+ 
+′
+Q2 = 360
+9.00 µC =
+40.0 µC
+ 
+ 
+ 
+and  
+′
+Q1 = 120 µC −40.0 µC = 80.0 µC . 
+P26.25 
+Cs =
+1
+5.00 +
+1
+7.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 2.92 µF
+Cp = 2.92 + 4.00 + 6.00 = 12.9 µF
+ 
+P26.26 
+(a) 
+First, we replace the parallel combination 
+between points b and c by its equivalent 
+capacitance, 
+Cbc = 2.00 µF + 6.00 µF = 8.00 µF . 
+Then, we have three capacitors in 
+series between points a and d. The 
+equivalent capacitance for this 
+circuit is therefore 
+ 
+ 
+ 
+1
+Ceq
+= 1
+Cab
++ 1
+Cbc
++ 1
+Ccd
+=
+3
+8.00 µF 
+ANS. FIG. P26.24 
+ANS. FIG. P26.25 
+ 
+ANS. FIG. P26.26
+
+--- PAGE 17 ---
+Chapter 26     167 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+giving 
+ 
+ 
+ 
+Ceq = 8.00 µF
+3
+= 2.67 µF 
+ 
+(b) The charge on each capacitor in the series is the same as the 
+charge on the equivalent capacitor:  
+ 
+ 
+ 
+Qab = Qbc = Qcd = Ceq ΔVad
+(
+) = 2.67 µF
+(
+) 9.00 V
+(
+) = 24.0 µC 
+ 
+ 
+Then, note that ΔVbc = Qbc
+Cbc
+= 24.0 µC
+8.00 µF = 3.00 V. The charge on each 
+capacitor in the original circuit is: 
+ 
+ 
+On the 8.00 µF between a and b:    
+ 
+ 
+ 
+Q8 = Qab = 24.0 µC 
+ 
+ 
+On the 8.00 µF between c and d:    
+ 
+ 
+ 
+Q8 = Qcd = 24.0 µC 
+ 
+ 
+On the 2.00 µF  between b and c:    
+ 
+ 
+ 
+Q2 = C2 ΔVbc
+(
+) = 2.00 µF
+(
+) 3.00 V
+(
+) = 6.00 µC 
+ 
+ 
+On the 6.00 µF between b and c:    
+ 
+ 
+ 
+Q6 = C6 ΔVbc
+(
+) = 6.00 µF
+(
+) 3.00 V
+(
+) = 18.0 µC 
+ 
+(c) 
+We earlier found that ΔVbc = 3.00 V . The two 8.00 µF capacitors 
+have the same voltage: ΔV8 = ΔV8 = Q
+C = 24.0 µC
+8.00 µF = 3.00 V , so we 
+conclude that the potential difference across each capacitor is the 
+same: ΔV8 = ΔV2 = ΔV6 = ΔV8 = 3.00 V . 
+P26.27 
+Cp = C1 + C2  and  1
+Cs
+= 1
+C1
++ 1
+C2
+. Substitute C2 = Cp – C1:       
+ 
+ 
+ 
+1
+Cs
+= 1
+C1
++
+1
+Cp −C1
+=
+Cp −C1 + C1
+C1 Cp −C1
+(
+)
+ 
+ 
+Simplifying,  
+ 
+ 
+ 
+ 
+C1
+2 −C1Cp + CpCs = 0 
+ 
+ 
+ 
+C1 =
+Cp ±
+Cp
+2 −4CpCs
+2
+= 1
+2 Cp ±
+1
+4 Cp
+2 −CpCs
+
+--- PAGE 18 ---
+168     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We choose arbitrarily the + sign. (This choice can be arbitrary, since 
+with the case of the minus sign, we would get the same two answers 
+with their names interchanged.) 
+ 
+ 
+ 
+C1 = 1
+2 Cp +
+1
+4 Cp
+2 −CpCs
+= 1
+2 9.00 pF
+(
+)+
+1
+4 9.00 pF
+(
+)
+2 −9.00 pF
+(
+) 2.00 pF
+(
+)
+= 6.00 pF
+C2 = Cp −C1 = 1
+2 Cp −
+1
+4 Cp
+2 −CpCs
+= 1
+2 9.00 pF
+(
+)−1.50 pF = 3.00 pF
+ 
+P26.28 
+Cp = C1 + C2  and  1
+Cs
+= 1
+C1
++ 1
+C2
+. 
+ 
+Substitute 
+ 
+ 
+ 
+ 
+C2 = Cp – C1:     
+1
+Cs
+= 1
+C1
++
+1
+Cp −C1
+=
+Cp −C1 + C1
+C1 Cp −C1
+(
+)
+ 
+ 
+Simplifying, 
+ 
+ 
+ 
+ 
+C1
+2 −C1Cp + CpCs = 0 
+ 
+and  
+C1 =
+Cp ±
+Cp
+2 −4CpCs
+2
+= 1
+2 Cp +
+1
+4 Cp
+2 −CpCs 
+ 
+where the positive sign was arbitrarily chosen (choosing the negative 
+sign gives the same values for the capacitances, with the names 
+reversed). Then, from C2 = Cp – C1, we obtain 
+ 
+ 
+ 
+C2 =
+1
+2 Cp −
+1
+4 Cp
+2 −CpCs
+ 
+P26.29 
+For C1 connected by itself, C1ΔV = 30.8 µC where ΔV is the battery 
+voltage: ΔV = 30.8 µC
+C1
+. 
+ 
+For C1 and C2 in series: 
+ 
+ 
+ 
+1
+1 C1 + 1 C2
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV = 23.1 µC
+
+--- PAGE 19 ---
+Chapter 26     169 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+substituting, 30.8 µC
+C1
+= 23.1 µC
+C1
++ 23.1 µC
+C2
+   which gives  C1 = 0.333C2 
+ 
+For C1 and C3 in series: 
+ 
+ 
+ 
+1
+1 C1 + 1 C3
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV = 25.2 µC 
+ 
+ 
+ 
+30.8 µC
+C1
+= 25.2 µC
+C1
++ 25.2 µC
+C3
+      which gives   C1 = 0.222C3 
+ 
+For all three: 
+ 
+ 
+  
+Q =
+1
+1 C1 + 1 C2 + 1 C3
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV =
+C1ΔV
+1+ C1 C2 + C1 C3
+=
+30.8 µC
+1+ 0.333 + 0.222 = 19.8 µC
+ 
+ 
+This is the charge on each one of the three. 
+ 
+ 
+ 
+Section 26.4 
+Energy Stored in a Charged Capacitor 
+P26.30 
+From UE = 1
+2 CΔV 2, we have 
+ 
+ 
+ 
+ΔV =
+2UE
+C
+=
+2 300 J
+(
+)
+30.0 × 10−6 F = 4.47 × 103 V
+ 
+P26.31 
+The energy stored in the capacitor is given by  
+ 
+ 
+UE = Q2
+2C = 1
+2 QΔV = 1
+2 54.0 × 10−6 C
+(
+) 12.0 V
+(
+) = 3.24 × 10−4 J
+ 
+P26.32 
+(a) 
+UE = 1
+2 C ΔV
+(
+)
+2 = 1
+2 3.00 µF
+(
+) 12.0 V
+(
+)
+2 = 216 µJ 
+ 
+(b) 
+UE = 1
+2 C ΔV
+(
+)
+2 = 1
+2 3.00 µF
+(
+) 6.00 V
+(
+)
+2 = 54.0 µJ 
+P26.33 
+(a) 
+Q = CΔV = 150 × 10−12 F
+(
+) 10 × 103 V
+(
+) = 1.50 × 10−6 C = 1.50 µC 
+ 
+(b) From UE = 1
+2 C ΔV
+(
+)
+2 , 
+ 
+ 
+ 
+ΔV =
+2UE
+C
+=
+2 250 × 10−6 J
+(
+)
+150 × 10−12 F = 1.83 × 103 V = 1.83 kV
+
+--- PAGE 20 ---
+170     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.34 
+(a) 
+The equivalent capacitance of a series combination of C1 and C2 is 
+ 
+ 
+ 
+1
+Ceq
+= 1
+C1
++ 1
+C2
+=
+1
+18.0 µF +
+1
+36.0 µF →Ceq = 12.0 µF 
+ 
+(b) This series combination is connected to a 12.0-V battery, the total 
+stored energy is  
+ 
+ 
+ 
+UE, eq = 1
+2 Ceq ΔV
+(
+)
+2 = 1
+2 12.0 × 10−6 F
+(
+) 12.0 V
+(
+)
+2 = 8.64 × 10−4 J
+ 
+ 
+(c) 
+Capacitors in series carry the same charge as their equivalent 
+capacitor. The charge stored on each of the two capacitors in the 
+series combination is 
+ 
+ 
+ 
+Q1 = Q2 = Qtotal = Ceq ΔV
+(
+) = 12.0 µF
+(
+) 12.0 V
+(
+)
+= 144 µC = 1.44 × 10−4 C
+ 
+ 
+ 
+and the energy stored in each of the individual capacitors is:  
+ 
+ 
+18.0 µF capacitor:
+ 
+UE1 = Q1
+2
+2C1
+= 1.44 × 10−4 C
+(
+)
+2
+2 18.0 × 10−6 F
+(
+)
+= 5.76 × 10−4 J
+ 
+ 
+ 
+36.0 µF capacitor:  
+ 
+ 
+ 
+UE2 = Q2
+2
+2C2
+= 1.44 × 10−4 C
+(
+)
+2
+2 36.0 × 10−6 F
+(
+)
+= 2.88 × 10−4 J
+ 
+ 
+(d) 
+UE1 +UE2 = 5.76 × 10−4 J + 2.88 × 10−4 J = 8.64 × 10−4 J = UE, eq, 
+which is one reason why the 12.0 µF capacitor is considered 
+to be equivalent to the two capacitors. 
+ 
+ 
+(e) 
+The total energy of the equivalent capacitance will always equal
+the sum of the energies stored in the individual capacitors.
+ 
+ 
+(f) 
+If C1 and C2 were connected in parallel rather than in series, the 
+equivalent capacitance would be Ceq = C1 + C2 = 18.0 µF + 36.0 µF 
+= 54.0 µF. If the total energy stored in this parallel combination is 
+to be the same as stored in the original series combination, it is 
+necessary that  
+ 
+ 
+ 
+1
+2 Ceq ΔV
+(
+)
+2 = UE, eq
+
+--- PAGE 21 ---
+Chapter 26     171 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From which we obtain 
+ 
+ 
+ 
+ΔV =
+2UE, eq
+Ceq
+=
+2 8.64 × 10−4 J
+(
+)
+54.0 × 10−6 F
+= 5.66 V
+ 
+ 
+(g) Because the potential difference is the same across the two 
+capacitors when connected in parallel, and UE = 1
+2 C ΔV
+(
+)
+2 , 
+the larger capacitor C2 stores more energy. 
+P26.35 
+(a) 
+Because the capacitors are connected in parallel, their voltage 
+remains the same: 
+ 
+ 
+ 
+UE = 1
+2 C ΔV
+(
+)
+2 + 1
+2 C ΔV
+(
+)
+2 = C ΔV
+(
+)
+2
+= 10.0 × 10−6 µF
+(
+) 50.0 V
+(
+)
+2
+= 2.50 × 10−2 J
+ 
+ 
+(b) Because C = κ ∈0 A
+d
+ and d → 2d, the altered capacitor has new 
+capacitance to 
+′
+C = C
+2 . The total charge is the same as before:  
+ 
+ 
+ 
+Qinitial = Qfinal
+C ΔV
+(
+) + C ΔV
+(
+) = C Δ ′
+V
+(
+) + C
+2 Δ ′
+V
+(
+)
+2C ΔV
+(
+) = 3
+2 C Δ ′
+V
+(
+)   →   Δ ′
+V = 4
+3 ΔV = 4
+3 50.0 V
+(
+) = 66.7 V
+ 
+ 
+(c) 
+New 
+′
+UE = 1
+2 C ΔV′
+(
+)
+2 + 1
+2
+1
+2 C
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV′
+(
+)
+2 = 3
+4 C ΔV′
+(
+)
+2 = 3
+4 C 4ΔV
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+ 
+′
+UE = 4
+3 C ΔV
+(
+)
+2 = 4
+3UE = 4
+3 2.50 × 10−2 J
+(
+) = 3.30 × 10−2 J
+ 
+ 
+(d) 
+Positive work is done by the agent pulling the plates apart. 
+P26.36 
+Before the capacitors are connected, each has voltage ∆V and charge Q.  
+ 
+(a) 
+Connecting plates of like sign places the capacitors in parallel, so 
+the voltage on each capacitor remains the same.  
+ 
+ 
+ 
+UE, total = 1
+2 C ΔV
+(
+)
+2 + 1
+2 C ΔV
+(
+)
+2 = C ΔV
+(
+)
+2
+
+--- PAGE 22 ---
+172     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Because C = ∈0 A
+d
+, the altered capacitor has new capacitance 
+C′ = ∈0 A
+2d = C
+2 , and this change in capacitance results in a new 
+potential difference Δ ′
+V across the parallel capacitors. We can 
+solve for the new potential difference because the total charge 
+remains the same:  
+ 
+ 
+ 
+2Q = C ΔV
+(
+)+ C ΔV
+(
+) = C Δ ′
+V
+(
+)+ C
+2 Δ ′
+V
+(
+)   →   Δ ′
+V = 4ΔV
+3
+ 
+ 
+(c) 
+Each capacitor has potential difference ∆V′:  
+ 
+ 
+′
+UE, total = 1
+2 C ΔV′
+(
+)
+2 + 1
+2 C′ ΔV′
+(
+)
+2 = 1
+2 C 4ΔV
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1
+2
+C
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+4ΔV
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 12
+9 C ΔV
+(
+)
+2 = 4C ΔV
+(
+)
+2
+3
+ 
+ 
+(d) 
+Positive work is done by the agent pulling the plates apart. 
+P26.37 
+(a) 
+The circuit diagram for capacitors connected 
+in parallel is shown in ANS. FIG. P26.37(a).  
+ 
+(b) 
+UE = 1
+2 C ΔV
+(
+)
+2 , and  
+ 
+ 
+Cp = C1 + C2 = 25.0 µF + 5.00 µF
+= 30.0 µF
+ 
+ 
+ 
+UE = 1
+2 30.0 × 10−6
+(
+) 100
+(
+)
+2 = 0.150 J
+ 
+ 
+(c) 
+Cs =
+1
+C1
++ 1
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+=
+1
+25.0 µF +
+1
+5.00 µF
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 4.17 µF 
+ 
+ 
+UE = 1
+2 C ΔV
+(
+)
+2
+ΔV =
+2UE
+C
+=
+2 0.150 J
+(
+)
+4.17 × 10−6 F = 268 V
+ 
+ 
+(d) The circuit diagram for capacitors 
+connected in series is shown in ANS. 
+FIG. P26.37(d). 
+ 
+ 
+ANS. FIG. P26.37(a) 
+ 
+ANS. FIG. P26.37(d)
+
+--- PAGE 23 ---
+Chapter 26     173 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.38 
+To prove this, we follow the hint, and calculate the work done in 
+separating the plates, which equals the potential energy stored in the 
+charged capacitor: 
+ 
+ 
+ 
+UE = 1
+2
+Q2
+C =
+F∫dx
+ 
+ 
+Now from the fundamental theorem of calculus, dUE = Fdx  
+ 
+and  
+F =  d
+dxUE = d
+dx
+Q2
+2C
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2
+d
+dx
+Q2
+A ∈0 /x
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Performing the differentiation,  
+ 
+ 
+ 
+F = 1
+2
+d
+dx
+Q2x
+A ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟=
+Q2
+2 ∈0 A
+ 
+P26.39 
+The energy transferred is  
+ 
+ 
+ 
+TET = 1
+2 QΔV = 1
+2 50.0 C
+(
+) 1.00 × 108 V
+(
+) = 2.50 × 109 J 
+ 
+and 1% of this (or ΔEint = 2.50 × 107 J ) is absorbed by the tree. If m is 
+the amount of water boiled away, then   
+ 
+ 
+ 
+ΔEint = m 4 186 J kg⋅°C
+(
+) 100°C −30.0°C
+(
+)
+                                              + m 2.26 × 106 J kg
+(
+)
+= 2.50 × 107 J
+  
+ 
+giving 
+m = 9.79 kg . 
+P26.40 
+(a) 
+According to Equation 26.2, we may think of a sphere of radius R 
+that holds charge Q as having a capacitance C = R
+ke
+. The energy 
+stored is  
+ 
+ 
+ 
+UE = 1
+2 C ΔV
+(
+)
+2 = 1
+2
+R
+ke
+⎛
+⎝⎜
+⎞
+⎠⎟
+keQ
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+keQ2
+2R
+ 
+ 
+(b) The total energy is  
+ 
+ 
+ 
+UE = UE1 +UE2 = 1
+2
+q1
+2
+C1
++ 1
+2
+q2
+2
+C2
+= 1
+2
+q1
+2
+R1 ke
++ 1
+2
+Q −q1
+(
+)
+2
+R2 ke
+= keq1
+2
+2R1
++ ke Q −q1
+(
+)
+2
+2R2
+
+--- PAGE 24 ---
+174     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+For a minimum we set dUE
+dq1
+= 0: 
+ 
+ 
+ 
+2keq1
+2R1
++ 2ke Q −q1
+(
+)
+2R2
+−1
+(
+) = 0   
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+R2q1 = R1Q −R1q1   →   q1 =
+R1Q
+R1 + R2
+ 
+ 
+(d) 
+q2 = Q −q1 =
+R2Q
+R1 + R2
+ 
+ 
+(e) 
+V1 = keq1
+R1
+=
+keR1Q
+R1 R1 + R2
+(
+)
+→V1 =
+keQ
+R1 + R2
+, and  
+ 
+ 
+V2 = keq2
+R2
+=
+keR2Q
+R2 R1 + R2
+(
+)
+→V2 =
+keQ
+R1 + R2
+ 
+ 
+(f) 
+V1 −V2 = 0 
+P26.41 
+Originally, the capacitance of each pair of plates is C = ∈0 A
+d
+, but after 
+the switch is closed and the distance d is changed to d′ = 0.500d, the 
+plates have new capacitance  
+ 
+ 
+′
+C = ∈0 A
+′d
+= ∈0 A
+d 2 = 2 ∈0 A
+d
+= 2C
+ 
+ 
+The capacitors are identical and in series, so each has half the total 
+voltage (ΔV) = 100 V.  
+ 
+(a) 
+The plates are in series, so each collects the same charge:  
+ 
+ 
+ 
+Q =
+′
+C ΔV
+(
+) = 2C ΔV
+(
+) = 2 2.00 µC
+(
+) 100 V
+(
+) = 400 µC 
+ 
+(b) Each plate contributes half of the total electric field between the 
+plates, E
+2 = σ
+2 ∈0
+=
+Q
+2 ∈0 A , where Q = 2C(ΔV) is the magnitude of 
+the charge on a plate, from (a) above. The electric force that each 
+plate exerts on the charge of its neighboring plate is  
+ 
+ 
+ 
+F = Q E
+2 =
+Q2
+2 ∈0 A = 2C ΔV
+(
+)
+[
+]
+2
+2 ∈0 A
+= 2C2 ΔV
+(
+)
+2
+∈0 A d
+(
+)d = 2C ΔV
+(
+)
+2
+d
+ 
+ 
+ 
+and this force is balanced by the spring force F = kx on each plate.
+
+--- PAGE 25 ---
+Chapter 26     175 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Each spring stretches by distance x = d
+4
+, so we obtain 
+ 
+ 
+ 
+2C ΔV
+(
+)
+2
+d
+= k d
+4
+ 
+ 
+ 
+and solving for the force constant gives 
+ 
+ 
+ 
+ k = 8C ΔV
+(
+)
+2
+d2
+= 8 2.00 × 10−6 F
+(
+) 100 V
+(
+)
+2
+8.00 × 10−3 m
+(
+)
+2
+= 2.50 kN m
+ 
+ 
+ 
+ 
+Section 26.5 
+Capacitors with Dielectrics 
+P26.42 
+(a) 
+Consider two sheets of aluminum foil, each 40 cm by 100 cm, with 
+one sheet of plastic between them.  
+ 
+(b) Suppose the plastic has κ ≈3, Emax ~ 107 V/m, and thickness  
+1 mil = 2.54 cm
+1 000
+.  
+ 
+ 
+Then,  C = κ ∈0 A
+d
+~
+3 8.85 × 10−12 C2 /N ⋅m2
+(
+) 0.400 m2
+(
+)
+2.54 × 10−5 m
+~ 10−6 F 
+ 
+(c) 
+ΔVmax = Emaxd ~ 107 V/m
+(
+) 2.54 × 10−5 m
+(
+) ~ 102 V 
+P26.43 
+Qmax = CΔVmax, but ΔVmax = Emaxd. 
+ 
+Also, 
+C = κ ∈0 A
+d
+. 
+ 
+Thus, 
+Qmax = κ ∈0 A
+d
+Emaxd
+(
+) = κ ∈0 AEmax. 
+ 
+(a) 
+With air between the plates, from Table 26.1, the dielectric 
+constant is κ = 1.00, and the dielectric strength is 
+Emax = 3.00 × 106 V m. Therefore, 
+ 
+ 
+ 
+Qmax = κ ∈0 AEmax
+= 8.85 × 10−12 F/m
+(
+) 5.00 × 10−4 m2
+(
+) 3.00 × 106 V/m
+(
+)
+= 13.3 nC
+
+--- PAGE 26 ---
+176     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) With polystyrene between the plates, from Table 26.1, κ = 2.56 
+and Emax = 24.0 × 106 V/m. 
+ 
+ 
+ 
+Qmax =κ ∈0 AEmax
+= 2.56 8.85 × 10−12 F/m
+(
+) 5.00 × 10−4 m2
+(
+)
+                                                × 24.0 × 106 V/m
+(
+)
+ = 272 nC
+ 
+P26.44 
+(a) 
+Note that the charge on the plates remains constant at the original 
+value, Q0, as the dielectric is inserted. Thus, the change in the 
+potential difference, ΔV = Q/C, is due to a change in capacitance 
+alone. The ratio of the final and initial capacitances is 
+ 
+ 
+ 
+C f
+Ci
+= κ ∈0 A d
+∈0 A d =κ
+    
+ 
+ 
+and 
+C f
+Ci
+=
+Q0
+ΔV
+(
+) f
+Q0
+ΔV
+(
+)i
+=
+ΔV
+(
+)i
+ΔV
+(
+) f
+= 85.0 V
+25.0 V = 3.40 
+ 
+ 
+Thus, the dielectric constant of the inserted material is κ = 3.40 . 
+ 
+(b) The material is probably nylon (see Table 26.1). 
+ 
+(c) 
+The presence of a dielectric weakens the field between plates, and 
+the weaker field, for the same charge on the plates, results in a 
+smaller potential difference. If the dielectric only partially filled 
+the space between the plates, the field is weakened only within 
+the dielectric and not in the remaining air-filled space, so the 
+potential difference would not be as small. The voltage would lie 
+somewhere between 25.0 V and 85.0 V. 
+P26.45 
+(a) 
+C = κ ∈0 A
+d
+=
+2.10 8.85 × 10−12 F m
+(
+) 1.75 × 10−4 m2
+(
+)
+4.00 × 10−5 m
+= 8.13 × 10−11F
+= 81.3 pF
+ 
+ 
+(b) 
+ΔVmax = Emaxd = 60.0 × 106 V/m
+(
+) 4.00 × 10−5 m
+(
+) = 2.40 kV
+
+--- PAGE 27 ---
+Chapter 26     177 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.46 
+ANS. FIG. P26.46 exaggerates how the 
+strips can be offset to avoid contact 
+between the two foils. It shows how a 
+second paper strip can be used to roll the 
+capacitor into a convenient cylindrical 
+shape with electrical contacts at the two 
+ends. We suppose that the overlapping 
+width of the two metallic strips is still  
+w = 7.00 cm. Then for the area of the plates 
+we have A = w in C = κ∈0 A/d = κ∈0 w/d. 
+Solving the equation gives
+ 
+ 
+ 
+ 
+=
+Cd
+κ ∈0 w =
+(9.50 × 10−8 F)(2.50 × 10−5 m)
+3.70(8.85 × 10−12 C2/N ⋅m2)(0.070 0 m) = 1.04 m
+ 
+P26.47 
+Originally, 
+Ci = ∈0 A
+d
+=
+Q
+ΔV
+(
+)i
+. 
+ 
+(a) 
+The charge is the same before and after immersion, with value 
+ 
+ 
+ 
+Q = Ci ΔV
+(
+)i = ∈0 A ΔV
+(
+)i
+d
+ 
+ 
+ 
+ 
+Q =
+8.85 × 10−12 C2 /N ⋅m2
+(
+) 25.0 × 10−4 m2
+(
+) 250 V
+(
+)
+1.50 × 10−2 m
+= 369 pC
+ 
+ 
+(b) Finally, 
+ 
+ 
+ 
+C f = κ ∈0 A
+d
+=
+Q
+ΔV
+(
+) f
+: 
+ 
+ 
+ 
+C f =
+80
+(
+) 8.85 × 10−12 C2 /N ⋅m2
+(
+) 25.0 × 10−4 m2
+(
+)
+1.50 × 10−2 m
+= 1.20 × 10−10 F
+ 
+ 
+ 
+and 
+ΔV
+(
+) f = Q
+C f
+= Ci ΔV
+(
+)i
+C f
+=
+∈0 A/d
+(
+)
+κ ∈0 A/d
+(
+)
+ΔV
+(
+)i = ΔV
+(
+)i
+κ
+= 250 V
+80
+= 3.10 V
+  
+ 
+(c) 
+Originally, Ui = 1
+2 Ci ΔV
+(
+)i
+2 = ∈0 A ΔV
+(
+)i
+2
+2d
+. 
+ 
+ 
+Finally, 
+U f = 1
+2 C f ΔV
+(
+) f
+2 = 1
+2
+κ ∈0 A
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔV
+(
+)i
+κ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= ∈0 A ΔV
+(
+)i
+2
+2dκ
+, 
+ANS. FIG. P26.46
+
+--- PAGE 28 ---
+178     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+where, from Table 26.1, κ = 80 for distilled water. So,  
+ 
+ 
+ 
+ΔU = U f −Ui
+= ∈0 A ΔV
+(
+)i
+2
+2dκ
+−∈0 A ΔV
+(
+)i
+2
+2d
+= ∈0 A ΔV
+(
+)i
+2
+2d
+1
+κ −1
+⎛
+⎝⎜
+⎞
+⎠⎟= ∈0 A ΔV
+(
+)i
+2 1−κ
+(
+)
+2dκ
+ 
+ 
+ 
+ 
+ΔU =
+8.85 × 10−12 C2 N ⋅m2
+(
+) 25.0 × 10−4 m2
+(
+) 250 V
+(
+)
+2 1−80
+(
+)
+2 1.50 × 10−2 m
+(
+) 80
+(
+)
+= –4.55 × 10−8 J = −45.5 nJ
+ 
+P26.48 
+The given combination of capacitors is equivalent to the circuit 
+diagram shown in ANS. FIG. P26.48. 
+ 
+ANS. FIG. P26.48 
+ 
+Put charge Q on point A. Then, 
+ 
+ 
+Q = 40.0 µF
+(
+)ΔVAB = 10.0 µF
+(
+)ΔVBC = 40.0 µF
+(
+)ΔVCD 
+ 
+So, ΔVBC = 4ΔVAB = 4ΔVCD , and the center capacitor will break down 
+first, at ∆VBC = 15.0 V. When this occurs, 
+ 
+ 
+ΔVAB = ΔVCD = 1
+4 ΔVBC
+(
+) = 3.75 V 
+ 
+and VAD = VAB + VBC + VCD = 3.75 V + 15.0 V + 3.75 V = 22.5 V . 
+P26.49 
+(a) 
+We use the equation UE = Q
+2/2C to find the potential energy of 
+the capacitor. As we will see, the potential difference ΔV changes 
+as the dielectric is withdrawn. The initial and final energies are 
+UE,i = Q2
+2Ci
+ and UE, f = Q2
+2C f
+. But the initial capacitance (with the 
+dielectric) is Ci = κC f . Therefore, UE, f = κ Q2
+2Ci
+=κUE,i. Since the 
+work done by the external force in removing the dielectric equals 
+the change in potential energy, we have 
+ 
+ 
+ 
+W = U f −Ui = κUi −Ui = κ −1
+(
+)Ui = κ −1
+(
+) Q2
+2Ci
+
+--- PAGE 29 ---
+Chapter 26     179 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+To express this relation in terms of potential difference ΔVi, we 
+substitute Q = Ci ΔVi
+(
+), and evaluate:  
+ 
+ 
+ 
+W = 1
+2 Ci ΔVi
+(
+)
+2 κ −1
+(
+) = 1
+2 2.00 × 10−9 F
+(
+) 100 V
+(
+)
+2 5.00 −1.00
+(
+)
+= 4.00 × 10−5 J = 40.0 µJ
+ 
+ 
+ 
+The positive result confirms that the final energy of the capacitor 
+is greater than the initial energy. The extra energy comes from the 
+work done on the system by the external force that pulled out the 
+dielectric. 
+ 
+(b) The final potential difference across the capacitor is ΔVf = Q
+C f
+. 
+ 
+ 
+Substituting C f = Ci
+κ
+ and Q = Ci ΔVi
+(
+) gives  
+ 
+ 
+ 
+ΔVf = kΔVi = 5.00(100 V) = 500 V 
+ 
+ 
+Even though the capacitor is isolated and its charge remains 
+constant, the potential difference across the plates does increase 
+in this case. 
+ 
+ 
+ 
+Section 26.6 
+Electric Dipole in an Electric Field 
+P26.50 
+(a) 
+The displacement from negative to positive charge is 
+ 
+ 
+ 
+2a = −1.20ˆi + 1.10ˆj
+(
+) mm −1.40ˆi −1.30ˆj
+(
+) mm
+= −2.60ˆi + 2.40ˆj
+(
+)× 10−3 m
+ 
+ 
+ 
+The electric dipole moment is p = 2aq 
+ 
+ 
+ 
+p = 3.50 × 10−9 C
+(
+) −2.60ˆi + 2.40ˆj
+(
+)× 10−3 m
+=
+−9.10ˆi + 8.40ˆj
+(
+)× 10−12 C⋅m
+ 
+ 
+ 
+(b) The torque exerted by the field on the dipole is  
+ 
+ 
+ 
+τ = p×
+
+E
+=
+−9.10ˆi + 8.40ˆj
+(
+)× 10−12 C⋅m
+⎡⎣
+⎤⎦×
+7.80ˆi −4.90ˆj
+(
+)× 103 N C
+⎡⎣
+⎤⎦
+= +44.6 ˆk −65.5 ˆk
+(
+)× 10−9 N⋅m = −2.09 × 10−8 ˆk N⋅m
+
+--- PAGE 30 ---
+180     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Relative to zero energy when it is perpendicular to the field, the 
+dipole has potential energy  
+ 
+ 
+ 
+U = −p⋅
+
+E
+= −
+−9.10ˆi + 8.40ˆj
+(
+)× 10−12 C⋅m
+⎡⎣
+⎤⎦
+                              ⋅
+7.80ˆi −4.90ˆj
+(
+)× 103 N C
+⎡⎣
+⎤⎦
+= 71.0 + 41.2
+(
+)× 10−9 J = 112 nJ
+ 
+ 
+ 
+(d) For convenience we compute the magnitudes 
+ 
+ 
+ 
+p =
+9.10
+(
+)
+2 + 8.40
+(
+)
+2 × 10−12 C⋅m = 12.4 × 10−12 C⋅m 
+ 
+ 
+and 
+
+E =
+7.80
+(
+)
+2 + 4.90
+(
+)
+2 × 103 N C = 9.21× 103 N C 
+ 
+ 
+The maximum potential energy occurs when the dipole moment 
+is opposite in direction to the field, and is  
+ 
+ 
+ 
+Umax = −p⋅
+
+E = −p
+
+E (−1) = p
+
+E = 114 nJ   
+ 
+ 
+The minimum potential energy configuration is the stable 
+equilibrium position with the dipole aligned with the field. The 
+value is Umin = −114 nJ 
+ 
+ 
+Then the difference, representing the range of potential energies 
+available to the dipole, is Umax −Umin = 228 nJ . 
+P26.51 
+(a) 
+The electric field produced by the line 
+of charge has radial symmetry about 
+the y axis. According to Equation 24.7 
+in Example 24.4, the electric field to 
+the right of the y axis is  
+ 
+ 
+ 
+
+E = E r( )ˆi = 2ke
+λ
+r
+ˆi 
+ 
+ 
+Let x = 25.0 cm represent the 
+coordinate of the center of the dipole 
+charge, and let 2a = 2.00 cm represent the distance between the 
+charges. Then r−= x −acosθ is the coordinate of the negative 
+charge and r+ = x + acosθ is the coordinate of the positive charge. 
+ 
+ 
+The force on the positive charge is  
+ 
+ 
+ 
+
+F+ = qE r+
+( )ˆi = q 2ke
+λ
+r+
+ˆi
+⎛
+⎝⎜
+⎞
+⎠⎟= 2ke
+qλ
+x + acosθ
+ˆi 
+ 
+ANS. FIG. P26.51
+
+--- PAGE 31 ---
+Chapter 26     181 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and the force on the negative charge is 
+ 
+ 
+ 
+
+F−= −qE r−
+( )ˆi = −q 2ke
+λ
+r−
+ˆi
+⎛
+⎝⎜
+⎞
+⎠⎟= −2ke
+qλ
+x −acosθ
+ˆi 
+ 
+ 
+The force on the dipole is  
+ 
+ 
+ 
+
+F =
+
+F+ +
+
+F−= 2ke
+qλ
+x + acosθ −2ke
+qλ
+x −acosθ
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi
+= 2keqλ
+1
+x + acosθ −
+1
+x −acosθ
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi
+= 2keqλ
+x −acosθ
+(
+)−x + acosθ
+(
+)
+x2 + acosθ
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi
+= −
+4keaqλ cosθ
+x2 + acosθ
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi
+ 
+ 
+ 
+Substituting numerical values and suppressing units, 
+ 
+ 
+ 
+
+F = −4 8.99 × 109
+(
+) 0.010 0
+(
+) 10.0 × 10−6
+(
+) 2.00 × 10−6
+(
+)cos35.0°
+0.250
+(
+)
+2 +
+0.010 0
+(
+) cos35.0°
+(
+)
+[
+]
+2
+ˆi
+= −9.42 × 10−2ˆi N
+ 
+P26.52 
+Let x represent the coordinate of the negative charge. Then x + 2acosθ 
+is the coordinate of the positive charge. The force on the negative 
+charge is 
+
+F−= −qE x
+( )ˆi. The force on the positive charge is 
+ 
+ 
+
+F+ = +qE x + 2acosθ
+(
+)ˆi ≈q E x
+( )+ dE
+dx
+⎛
+⎝⎜
+⎞
+⎠⎟2acosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi 
+ 
+ANS. FIG. P26.52 
+ 
+The force on the dipole is altogether  
+ 
+ 
+
+F =
+
+F−+
+
+F+ = q dE
+dx 2acosθ
+(
+)ˆi =
+p dE
+dx cosθ ˆi
+
+--- PAGE 32 ---
+182     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 26.7 
+An Atomic Description of Dielectrics 
+P26.53 
+(a) 
+Consider a gaussian surface in the form of a cylindrical pillbox 
+with ends of area 
+′
+A << A parallel to the sheet. The side wall of 
+the cylinder passes no flux of electric field since this surface is 
+everywhere parallel to the field. Gauss’s law becomes 
+E ′
+A + E ′
+A = Q
+∈A
+′
+A , so E =
+Q
+2 ∈A
+ directed away from the 
+positive sheet. 
+ 
+(b) In the space between the sheets, each creates field 
+Q
+2 ∈A
+ away 
+from the positive and toward the negative sheet. Together, they 
+create a field of 
+ 
+ 
+ 
+E = Q
+∈A
+ 
+ 
+(c) 
+Assume that the field is in the positive x-direction. Then, the 
+potential of the positive plate relative to the negative plate is 
+ 
+ 
+ 
+ΔV = −
+
+E⋅ds
+−plate
++plate
+∫
+= −
+Q
+∈A
+ˆi⋅−ˆidx
+(
+)
+−plate
++plate
+∫
+= + Qd
+∈A
+ 
+ 
+(d) Capacitance is defined by: C = Q
+ΔV =
+Q
+Qd ∈A = ∈A
+d
+= κ ∈0 A
+d
+. 
+ 
+ 
+ 
+Additional Problems 
+P26.54 
+The stages for the reduction of this circuit are shown in ANS. FIG. 
+P26.54 below.  
+ 
+ 
+ANS. FIG. P26.54 
+ 
+Thus,    Ceq = 6.25 µF
+
+--- PAGE 33 ---
+Chapter 26     183 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.55 
+(a) 
+Each face of P2 carries charge, so the three-plate system is 
+equivalent to what is shown in ANS. FIG. P26.55 below. 
+ 
+ANS. FIG. P26.55 
+ 
+Each capacitor by itself has capacitance 
+ 
+ 
+C = κ ∈0 A
+d
+= 1 8.85 × 10−12 C2 /N⋅m2
+(
+) 7.50 × 10−4 m2
+(
+)
+1.19 × 10−3 m
+= 5.58 pF
+ 
+ 
+ Then equivalent capacitance = 5.58 pF + 5.58 pF = 11.2 pF . 
+ 
+(b) 
+Q = CΔV + CΔV = 11.2 × 10−12 F
+(
+) 12 V
+(
+) = 134 pC 
+ 
+(c) 
+Now P3 has charge on two surfaces and in effect three capacitors 
+are in parallel: 
+ 
+ 
+C = 3 5.58 pF
+(
+) = 16.7 pF 
+ 
+(d) Only one face of P4 carries charge: 
+ 
+ 
+Q = CΔV = 5.58 × 10−12 F
+(
+) 12 V
+(
+) = 66.9 pC 
+P26.56 
+The upper pair of capacitors, 3-µF and 6-µF, are in series. Their 
+equivalent capacitance is  
+ 
+ 
+1
+3.00 +
+1
+6.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 2.00 µF 
+ 
+The lower pair of capacitors, 2-µF and 4-µF, are in series. Their 
+equivalent capacitance is  
+ 
+ 
+1
+2.00 +
+1
+4.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 1.33 µF 
+ 
+The upper pair are in parallel to the lower pair, so the total capacitance 
+is  
+ 
+ 
+Ceq = 2.00µF + 1.33µF = 3.33µF 
+ 
+(a) 
+The total energy stored in the full circuit is then 
+ 
+ 
+ 
+Energy stored
+(
+)total = 1
+2 Ceq ΔV
+(
+)
+2 = 1
+2 3.33 × 10−6 F
+(
+) 90.0 V
+(
+)
+2
+= 1.35 × 10−2 J = 13.5 × 10−3 J = 13.5 mJ
+
+--- PAGE 34 ---
+184     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Refer to P26.19 for the calculation of the charges used below. The 
+energy stored in each individual capacitor is 
+ 
+ 
+For 2.00 µF:   
+Energy stored
+(
+)2 = Q2
+2
+2C2
+=
+120 × 10−6 C
+(
+)
+2
+2 2.00 × 10−6 F
+(
+)
+= 3.60 × 10−3 J
+= 3.60 mJ
+ 
+ 
+ 
+For 3.00 µF:    
+Energy stored
+(
+)3 = Q3
+2
+2C3
+=
+180 × 10−6 C
+(
+)
+2
+2 3.00 × 10−6 F
+(
+)
+= 5.40 × 10−3 J
+= 5.40 mJ
+ 
+ 
+ 
+For 4.00 µF:     
+Energy stored
+(
+)4 = Q4
+2
+2C4
+=
+120 × 10−6 C
+(
+)
+2
+2 4.00 × 10−6 F
+(
+)
+= 1.80 × 10−3 J
+= 1.80 mJ
+ 
+ 
+ 
+For 6.00 µF:    
+Energy stored
+(
+)6 = Q6
+2
+2C6
+=
+180 × 10−6 C
+(
+)
+2
+2 6.00 × 10−6 F
+(
+)
+= 2.70 × 10−3 J
+= 2.70 mJ
+ 
+ 
+(c) 
+Energy stored = 3.60 + 5.40 + 1.80 + 2.70
+(
+) mJ = 13.5 mJ = 
+Energy stored
+(
+)total 
+ 
+ 
+The total energy stored by the system equals the sum of the
+energies stored in the individual capacitors.
+ 
+*P26.57 
+From Equation 26.13,  
+ 
+ 
+ 
+uE = UE
+V = 1
+2∈0 E2 
+ 
+Solving for the volume gives 
+ 
+ 
+ 
+V =
+UE
+1
+2∈0 E2 =
+1.00 × 10−7 J
+1
+2 8.85 × 10−12 C2/N⋅m2
+(
+) 3 000 V/m
+(
+)
+2
+= 2.51× 10−3 m3
+= 2.51× 10−3 m3
+(
+) 1 000 L
+m3
+(
+) = 2.51 L
+
+--- PAGE 35 ---
+Chapter 26     185 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.58 
+Imagine the center plate is split along its midplane 
+and pulled apart. We have two capacitors in parallel, 
+supporting the same ∆V and carrying total charge Q. 
+The upper capacitor has capacitance C1 = ∈0 A
+d
+ and 
+the lower C2 = ∈0 A
+2d . Charge flows from ground onto 
+each of the outside plates so that  
+ 
+ 
+ 
+Q1 + Q2 = Q  and   ΔV1 = ΔV2 = ΔV. 
+ 
+Then  
+Q1
+C1
+= Q2
+C2
+= Q1d
+∈0 A = Q22d
+∈0 A   →  Q1 = 2Q2   →   2Q2 + Q2 = Q. 
+ 
+(a) 
+Q2 = Q
+3 . On the lower plate the charge is −Q
+3 . 
+ 
+ 
+Q1 = 2Q
+3 . On the upper plate the charge is −2Q
+3
+ 
+ 
+(b) 
+ΔV = Q1
+C1
+=
+2Qd
+3∈0 A 
+P26.59 
+The dielectric strength is Emax = 2.00 × 10
+8 V/m = ΔVmax
+d
+, 
+ 
+so we have for the distance between plates d =
+ΔVmax
+Emax
+. 
+ 
+Now to also satisfy C = κ ∈0A
+d
+= 0.250 × 10–6 F with κ = 3.00, we 
+combine by substitution to solve for the plate area:  
+ 
+  
+A = Cd
+κ ∈0 = CΔVmax
+κ ∈0 Emax =
+(0.250 × 10–6 F)(4 000 V)
+(3.00)(8.85 × 10–12 F/m)(2.00 × 108 V/m)
+= 0.188 m2
+ 
+P26.60 
+We can use the energy UC stored in the capacitor to find the potential 
+difference across the plates: 
+ 
+ 
+ 
+UC =  1
+2 C ΔV
+(
+)
+2   →    ΔV = 
+2UC
+C
+ 
+ANS. FIG. P26.58
+
+--- PAGE 36 ---
+186     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+When the particle moves between the plates, the change in potential 
+energy of the charge-field system is 
+ 
+ 
+ 
+ΔUsystem = qΔV = −q 2UC
+C
+ 
+ 
+where we have noted that the potential difference is negative from the 
+positive plate to the negative plate. Apply the isolated system (energy) 
+model to the charge-field system: 
+ 
+ 
+ 
+ΔK + ΔUsystem = 0   →  ΔK = −ΔUsystem = q 2UC
+C
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+ΔK =  −3.00 × 10−6 C
+(
+)
+2 0.050 0 J
+(
+)
+10.0 × 10−6 F
+ = −3.00 × 10−4 J 
+ 
+This decrease in kinetic energy of the particle is more than the energy 
+with which it began. Therefore, the particle does not arrive at the 
+negative plate but rather turns around and moves back to the positive 
+plate.  
+*P26.61 
+(a) 
+V = m
+ρ = 1.00 × 10−12 kg
+1 100 kg m3 = 9.09 × 10−16 m3 
+ 
+ 
+Since V = 4π r3
+3
+, the radius is r = 3V
+4π
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 3
+, and the surface area is  
+ 
+ 
+ 
+A = 4π r2 = 4π 3V
+4π
+⎡
+⎣⎢
+⎤
+⎦⎥
+2 3
+= 4π 3 9.09 × 10−16 m3
+(
+)
+4π
+⎡
+⎣⎢
+⎤
+⎦⎥
+2 3
+=
+4.54 × 10−10 m2
+ 
+ 
+(b) 
+C = κ ∈0 A
+d
+= 5.00
+(
+) 8.85 × 10−12 C2 N ⋅m2
+(
+) 4.54 × 10−10 m2
+(
+)
+100 × 10−9 m
+= 2.01× 10−13 F
+ 
+ 
+(c) 
+Q = C ΔV
+(
+) = 2.01× 10−13 F
+(
+) 100 × 10−3 V
+(
+) = 2.01× 10−14 C , 
+ 
+ 
+and the number of electronic charges is 
+ 
+ 
+ 
+n = Q
+e = 2.01× 10−14 C
+1.60 × 10−19 C = 1.26 × 105
+
+--- PAGE 37 ---
+Chapter 26     187 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.62 
+(a) 
+With the liquid filling the space between the plates to height fd, 
+the top of the fluid at the air-fluid interface develops an induced 
+dipole layer of charge so that it acts as a thin plate with opposite 
+charge on its upper and lower sides; thus, the partially filled 
+capacitor behaves as two capacitors in series connected at the 
+interface. The upper and lower capacitors have separate 
+capacitances:  
+ 
+ 
+ 
+Cup = 1∈0 A
+d(1−f ) and Cdown = 6.5∈0 A
+fd
+ 
+ 
+ 
+The equivalent series capacitance is  
+ 
+ 
+ 
+C f =
+1
+d(1−f )
+∈0 A
++
+fd
+6.5∈0 A
+=
+6.5∈0 A
+6.5d −6.5df + fd
+= ∈0 A
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.5
+6.5 −5.5 f
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 25.0 µF(1−0.846 f )−1
+ 
+ 
+(b) For f = 0, the capacitor is empty so we can expect capacitance 
+25.0 µF . For f = 0,  
+ 
+ 
+ 
+C f = 25.0 µF(1−0.846 f )−1 = 25.0 µF(1−0)−1 = 25.0 µF 
+ 
+ 
+and the general expression agrees . 
+ 
+(c) 
+For f = 1, we expect 6.5(25.0 µF) = 162 µF . For f = 1,  
+  
+ 
+ 
+C f = 25.0 µF(1−0.846 f )−1 = 25.0 µF(1−0.846)−1 = 162 µF 
+ 
+ 
+and the general expression agrees . 
+P26.63 
+The initial charge on the larger capacitor is 
+ 
+ 
+ 
+Q = CΔV = 10.0 µF
+(
+) 15.0 V
+(
+) = 150 µC 
+ 
+An additional charge q is pushed through the 50.0-V battery, giving the 
+smaller capacitor charge q and the larger charge 150 µC + q. 
+ 
+Then 
+50.0 V =
+q
+5.00 µF + 150 µC + q
+10.0 µF
+. 
+ 
+ 
+ 
+500 µC = 2q + 150 µC + q
+q = 117 µC
+
+--- PAGE 38 ---
+188     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+So across the 5.00-µF capacitor,  
+ 
+ 
+ 
+ΔV = q
+C = 117 µC
+5.00 µF = 23.3 V
+ 
+ 
+Across the 10.0-µF capacitor, 
+ 
+ 
+ 
+ 
+ΔV = 150 µC + 117 µC
+10.0 µF
+= 26.7 V
+ 
+*P26.64 
+From Gauss's Law, for the electric field inside the 
+cylinder, 2π rE = qin
+∈0
+. 
+ 
+so 
+ 
+E =
+λ
+2π r ∈0
+. 
+ 
+ 
+ 
+ΔV = −
+
+E⋅dr
+r1
+r2
+∫
+=
+λ
+2π r∈0
+dr
+r1
+r2
+∫
+=
+λ
+2π ∈0
+ln r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Recognizing that λmax
+2π ∈0
+= Emaxrinner, we obtain 
+ 
+ 
+ 
+ΔV = 1.20 × 106 V m
+(
+) 0.100 × 10−3 m
+(
+)ln
+25.0 m
+0.200 m
+(
+)
+ΔVmax = 579 V
+ 
+P26.65 
+Where the metal block and the plates overlap, the electric field 
+between the plates is zero. The plates do not lose charge in the 
+overlapping region, but opposite charge induced on the surfaces  
+of the inserted portion of the block cancels the field from charge  
+on the plates. The unfilled portion of the capacitor has capacitance     
+ 
+ 
+ 
+C = ∈0 A
+d
+= ∈0 −x
+(
+)
+d
+ 
+ 
+The effective charge on this portion (the charge producing the 
+remaining electric field between the plates) is proportional to the 
+unblocked area:  
+ 
+ 
+ 
+Q = −x
+(
+)Q0
+
+ 
+ 
+(a) 
+The stored energy is 
+ 
+ 
+ 
+U = Q2
+2C =
+−x
+(
+)Q0 
+[
+]
+2
+2∈0 −x
+(
+) d =
+Q0
+2d −x
+(
+)
+2∈0 3
+ 
+ANS. FIG. P26.64
+
+--- PAGE 39 ---
+Chapter 26     189 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+F = −dU
+dx = −d
+dx
+Q0
+2 −x
+(
+)d
+2∈0 3
+⎛
+⎝⎜
+⎞
+⎠⎟= + Q0
+2d
+2∈0 3 
+ 
+ 
+
+F =
+Q0
+2d
+2∈0 3 to the right (into the capacitor: the block is pulled in) 
+ 
+(c) 
+Stress = F
+d =
+Q0
+2
+2∈0 4 
+ 
+(d) The energy density is 
+ 
+ 
+ 
+uE = 1
+2∈0 E2 = 1
+2∈0
+σ
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1
+2∈0
+Q
+A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1
+2∈0
+−x
+(
+)Q0 
+−x
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+=
+Q0
+2
+2∈0 4
+ 
+ 
+ (e) 
+They are precisely the same. 
+P26.66 
+(a) 
+Put charge Q on the sphere of radius a and –Q on the other 
+sphere. Relative to V = 0 at infinity, because d is larger compared 
+to a and to b. 
+ 
+ 
+The potential at the surface of a is approximately    Va = keQ
+a
+−keQ
+d
+ 
+ 
+ 
+and the potential of b is approximately    Vb = −keQ
+b
++ keQ
+d
+. 
+ 
+ 
+The difference in potential is    Va −Vb = keQ
+a
++ keQ
+b
+−keQ
+d −keQ
+d
+ 
+ 
+ 
+and C =
+Q
+Va −Vb
+=
+4π ∈0
+1
+a
+⎛
+⎝
+⎞
+⎠+ 1
+b
+⎛
+⎝
+⎞
+⎠−2
+d
+⎛
+⎝
+⎞
+⎠
+ 
+ 
+(b) As d →∞, 1
+d
+  becomes negligible compared to 1
+a
+ and 1
+b
+. Then, 
+ 
+ 
+ 
+C =
+4π ∈0
+1
+a
+⎛
+⎝
+⎞
+⎠+ 1
+b
+⎛
+⎝
+⎞
+⎠
+   and   1
+C =
+1
+4π ∈0 a +
+1
+4π ∈0 b
+ 
+ 
+ 
+as for two spheres in series.
+
+--- PAGE 40 ---
+190     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.67 
+Call the unknown capacitance Cu. The charge remains the same:  
+ 
+ 
+ 
+Q = Cu ΔVi
+(
+) = Cu + C
+(
+) ΔVf
+(
+)
+Cu =
+C ΔVf
+(
+)
+ΔVi
+(
+) −ΔVf
+(
+)
+= 10.0 µF
+(
+) 30.0 V
+(
+)
+100 V −30.0 V
+(
+)
+= 4.29 µF
+ 
+P26.68 
+(a) 
+ 
+C0 = ∈0 A
+d
+= Q0
+ΔV0
+ for a capacitor with air or vacuum beteen its 
+plates.  When the dielectric is inserted at constant voltage, 
+ 
+ 
+ 
+C =κC0 = Q
+ΔV0
+ 
+ 
+ 
+The original energy is 
+ 
+ 
+ 
+UE0 = C0 ΔV0
+(
+)
+2
+2
+ 
+ 
+ 
+and the final energy is 
+ 
+ 
+ 
+UE = C ΔV0
+(
+)
+2
+2
+= κC0 ΔV0
+2
+(
+)
+2
+ 
+ 
+ 
+therefore, 
+ 
+ 
+ 
+UE
+UE0
+=κ
+ 
+ 
+(b) The electric field between the plates polarizes molecules within the 
+dielectric; therefore the field does work on charge within the 
+molecules to create electric dipoles. The extra energy comes from 
+(part of the) electrical work done by the battery in separating that 
+charge. 
+ 
+(c) 
+The charge on the plates increases because the voltage remains 
+the same:  
+ 
+ 
+ 
+Q0 = C0ΔV0 
+ 
+ 
+and Q = CΔV0 = κC0ΔV0 
+ 
+ 
+so the charge increases according to 
+Q
+Q0
+= κ .
+
+--- PAGE 41 ---
+Chapter 26     191 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.69 
+Initially (capacitors charged in parallel), 
+ 
+ 
+ 
+q1 = C1 ΔV
+(
+) = 6.00 µF
+(
+) 250 V
+(
+) = 1 500 µC 
+ 
+ 
+ 
+q2 = C2 ΔV
+(
+) = 2.00 µF
+(
+) 250 V
+(
+) = 500 µC 
+ 
+After reconnection (positive plate to negative plate), 
+ 
+ 
+ 
+′qtotal = q1 −q2 = 1 000 µC      
+ 
+and   
+Δ ′
+V =
+′qtotal
+Ctotal
+= 1 000 µC
+8.00 µF = 125 V 
+ 
+Therefore, 
+ 
+ 
+ 
+′q1 = C1 Δ ′
+V
+(
+) = 6.00 µF
+(
+) 125 V
+(
+) = 750 µC 
+ 
+ 
+ 
+′q2 = C2 Δ ′
+V
+(
+) = 2.00 µF
+(
+) 125 V
+(
+) = 250 µC 
+P26.70 
+The condition that we are testing is that the capacitance increases by 
+less than 10%, or, 
+ 
+ 
+ 
+′
+C
+C < 1.10 
+ 
+Substituting the expressions for C and C′ from Example 26.1, we have 
+ 
+ 
+ 
+′
+C
+C =
+
+2ke ln b 1.10a
+(
+)
+
+2ke ln b a
+(
+)
+=
+ln b a
+(
+)
+ln b 1.10a
+(
+)
+< 1.10 
+ 
+This becomes 
+ 
+ 
+ 
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟< 1.10ln
+b
+1.10a
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.10ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1.10ln
+1
+1.10
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.10ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟−1.10ln 1.10
+(
+)
+ 
+ 
+We can rewrite this as 
+ 
+ 
+ 
+−0.10ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟< −1.10ln 1.10
+(
+)
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟> 11.0ln 1.10
+(
+) = ln 1.10
+(
+)
+11.0
+ 
+ 
+where we have reversed the direction of the inequality because we 
+multiplied the whole expression by –1 to remove the negative signs.
+
+--- PAGE 42 ---
+192     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Comparing the arguments of the logarithms on both sides of the 
+inequality, we see that 
+ 
+ 
+ 
+b
+a > 1.10
+(
+)
+11.0 = 2.85 
+ 
+Thus, if b > 2.85a, the increase in capacitance is less than 10% and it is 
+more effective to increase . 
+P26.71 
+Placing two identical capacitor is series will split the voltage evenly 
+between them, giving each a voltage of 45 V, but the total capacitance 
+will be half of what is needed. To double the capacitance, another pair 
+of series capacitors must be placed in parallel with the first pair, as 
+shown in ANS. FIG. P26.71A. The equivalent capacitance is  
+ 
+ 
+ 
+1
+100 µF +
+1
+100 µF
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
++
+1
+100 µF +
+1
+100 µF
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 100 µF 
+ 
+Another possibility shown in ANS. FIG. P26.71B: two capacitors in 
+parallel, connected in series to another pair of capacitors in parallel; the 
+voltage across each parallel section is then 45 V. The equivalent 
+capacitance is 
+ 
+ 
+ 
+1
+100 µF + 100 µF
+(
+)
+−1 + 100 µF + 100 µF
+(
+)
+−1 = 100 µF 
+ 
+ANS. FIG. P26.71A 
+ 
+ANS. FIG. P26.71B 
+ 
+(a) 
+One capacitor cannot be used by itself — it would burn out. She
+can use two capacitors in series, connected in parallel to another
+two capacitors in series. Another possibility is two capacitors in
+parallel, connected in series to another two capacitors in parallel.
+In either case, one capacitor will be left over.
+ 
+ 
+(b) 
+Each of the four capacitors will be exposed to a maximum
+voltage of 45 V.
+
+--- PAGE 43 ---
+Chapter 26     193 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P26.72 
+From Example 26.1, when there is a vacuum between the conductors, 
+the voltage between them is 
+ 
+ 
+ 
+ΔV = Vb – Va = 2keλ ln b 
+a
+⎛
+⎝⎜
+⎞
+⎠⎟=
+λ 
+2π ∈0
+ln b 
+a
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+With a dielectric, a factor 1/κ must be included, and the equation 
+becomes  
+ 
+ 
+ 
+ΔV =
+λ 
+2πκ ∈0 ln b
+a( )
+ 
+ 
+The electric field is  
+ 
+ 
+ 
+E =
+λ 
+2πκ ∈0 r 
+ 
+So when E = Emax at r = a,  
+ 
+ 
+ 
+λmax 
+2πκ ∈0
+= Emaxa
+and
+ΔVmax =
+λmax 
+2πκ ∈0
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= Emaxa ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Thus,  
+ 
+ 
+ΔVmax = 18.0 × 106 V/m
+(
+) 0.800 × 10−3 m
+(
+)ln
+3.00 mm
+0.800 mm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 19.0 kV
+ 
+P26.73 
+According to the suggestion, the combination of  
+capacitors shown is equivalent to 
+ 
+ 
+Then, from ANS. FIG. P26.73, 
+ 
+ 
+ 
+1
+C = 1
+C0
++
+1
+C + C0
++ 1
+C0
+= C + C0 + C0 + C + C0
+C0 C + C0
+(
+)
+ 
+ 
+ 
+ 
+C0C + C0
+2 = 2C2 + 3C0C
+2C2 + 2C0C −C0
+2 = 0
+C =
+−2C0 ±
+4C0
+2 + 4 2C0
+2
+(
+)
+4
+ 
+ 
+Only the positive root is physical: 
+ 
+ 
+ 
+C = C0
+2
+3 −1
+(
+) 
+ 
+ 
+ANS. FIG. P26.73
+
+--- PAGE 44 ---
+194     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.74 
+Let charge λ per length be on one wire and –λ be on the other. The 
+electric field due to the charge on the positive wire is perpendicular to 
+the wire, radial, and of magnitude 
+ 
+ 
+E+ =
+λ
+2π ∈0 r
+ 
+ 
+The potential difference between the surfaces of the wires due to the 
+presence of this charge is 
+ 
+ 
+ΔV1 = −
+
+E⋅dr
+−wire
++wire
+∫
+= −
+λ
+2π ∈0
+dr
+r
+D−r
+r
+∫
+=
+λ
+2π ∈0
+ln D−r
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The presence of the linear charge density –λ on the negative wire 
+makes an identical contribution to the potential difference between the 
+wires. Therefore, the total potential difference is 
+ 
+ 
+ΔV = 2 ΔV1
+(
+) =
+λ
+π ∈0
+ln D−r
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+With D much larger than r we have nearly ΔV =
+λ
+π ∈0
+ln D
+r
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+and the capacitance of this system of two wires, each of length , is 
+ 
+ 
+C = Q
+ΔV = λ
+ΔV =
+λ
+λ π ∈0
+(
+)ln D r
+[
+]
+= π ∈0 
+ln D r
+[
+]
+ 
+ 
+The capacitance per unit length is C
+=
+π ∈0
+ln D r
+[
+]
+. 
+P26.75 
+By symmetry, the potential difference across 3C is zero, so the circuit 
+reduces to (see ANS. FIG. P26.75): 
+ 
+ 
+ 
+Ceq =
+1
+2C + 1
+4C
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 8
+6 C = 4
+3 C 
+ 
+ANS. FIG. P26.75 
+P26.76 
+(a) 
+Consider a strip of width dx and length W at position x from the 
+front left corner. The capacitance of the lower portion of this strip 
+is κ 1 ∈0 W dx
+t x L
+. The capacitance of the upper portion is κ 2 ∈0 W dx
+t 1−x L
+(
+)
+.
+
+--- PAGE 45 ---
+Chapter 26     195 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The series combination of the two elements has capacitance 
+ 
+ 
+ 
+1
+tx
+κ 1 ∈0 WL dx +
+t(L −x)
+κ 2 ∈0 W Ldx
+= κ 1κ 2 ∈0 W Ldx
+κ 2tx +κ 1tL −κ 1tx
+ 
+ 
+ 
+The whole capacitance is a combination of elements in parallel:  
+ 
+ 
+ 
+C =
+κ 1κ 2 ∈0 W Ldx
+κ 2 −κ 1
+(
+)tx +κ 1tL
+0
+L∫
+   =
+1
+κ 2 −κ 1
+(
+)t
+κ 1κ 2 ∈0 W L κ 2 −κ 1
+(
+)tdx
+κ 2 −κ 1
+(
+)tx +κ 1tL
+0
+L∫
+   = κ 1κ 2 ∈0 W L
+κ 2 −κ 1
+(
+)t ln
+κ 2 −κ 1
+(
+)tx +κ 1tL
+⎡⎣
+⎤⎦0
+L
+= κ 1κ 2 ∈0 WL
+κ 2 −κ 1
+(
+)t ln
+κ 2 −κ 1
+(
+)tL +κ 1tL
+0 +κ 1tL
+⎡
+⎣⎢
+⎤
+⎦⎥
+= κ 1κ 2 ∈0 WL
+κ 2 −κ 1
+(
+)t ln κ 2
+κ 1
+⎡
+⎣⎢
+⎤
+⎦⎥= κ 1κ 2 ∈0 WL
+(−1) κ 2 −κ 1
+(
+)t ln
+κ 2
+κ 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= κ 1κ 2 ∈0 WL
+κ 1 −κ 2
+(
+)t ln κ 1
+κ 2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+(b) The capacitor physically has the same capacitance if it is turned 
+upside down, so the answer should be the same with κ1 and κ2 
+interchanged. We have proven that it has this property in the 
+solution to part (a). 
+ 
+(c) 
+Let κ1 = κ2 (1 + x). Then C = κ 2(1+ x)κ 2 ∈0 WL
+κ 2xt
+ln 1+ x
+[
+].  
+ 
+ 
+As x approaches zero we have C = κ(1+ 0)∈0 WL
+xt
+x = κ ∈0 WL
+t
+ as 
+was to be shown. 
+P26.77 
+Assume a potential difference across a and b, and notice that the 
+potential difference across 8.00 µF the capacitor must be zero by 
+symmetry. Then the equivalent capacitance can be determined from 
+the circuit shown in ANS. FIG. P26.77, and is Cab = 3.00 µF . 
+ 
+ANS. FIG. P26.77
+
+--- PAGE 46 ---
+196     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.78 
+(a) 
+The portion of the device containing the dielectric has plate area 
+x and capacitance C1 = κ ∈0 x
+d
+. The unfilled part has area 
+−x
+(
+) and capacitance C2 = ∈0 −x
+(
+)
+d
+. The total capacitance is 
+C1 + C2 = ∈0 
+d
++ x κ −1
+(
+)
+[
+] .
+ 
+ 
+(b) The stored energy is U = 1
+2
+Q2
+C =
+Q2d
+2∈0 + x κ −1
+(
+)
+[
+]
+. 
+ 
+(c) 
+
+F = −dU
+dx
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi =
+Q2d κ −1
+(
+)
+2∈0 + x κ −1
+(
+)
+[
+]
+2 ˆi . When x = 0, the original 
+value of the force is Q2d κ −1
+(
+)
+2 ∈0 3
+ˆi. As the dielectric slides in, the 
+charges on the plates redistribute themselves. The force decreases 
+to its final value, when x = , of Q2d κ −1
+(
+)
+2 ∈0 3κ 2 ˆi. 
+ 
+(d) At x = 
+2
+, 
+
+F = 2Q2d κ −1
+(
+)
+∈0 3 κ + 1
+(
+)
+2 ˆi. 
+ 
+ 
+For the constant charge on the capacitor and the initial voltage we 
+have the relationship 
+ 
+ 
+ 
+Q = C0ΔV = ∈0 2ΔV
+d
+ 
+ 
+ 
+Then the force is 
+
+F = 2 ∈0 ΔV
+(
+)
+2 κ −1
+(
+)
+d κ + 1
+(
+)
+2
+ˆi. 
+ 
+ 
+
+F =
+2 8.85 × 10−12 C2/N ⋅m2
+(
+) 0.050 0 m
+(
+) 2.00 × 103 V
+(
+)
+2 4.50 −1
+(
+)
+0.002 00 m
+(
+) 4.50 + 1
+(
+)
+2
+ˆi
+= 205ˆi  µN
+
+--- PAGE 47 ---
+Chapter 26     197 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P26.2 
+(a) 1.00 µF; (b) 100 V 
+P26.4 
+(a) 15.6 pF; (b) 257 kV 
+P26.6 
+(a) 11.1 nF; (b) 26.6 C 
+P26.8 
+(a) 1.36 pF; (b) 16.3 pC; (c) 8.00 × 10
+3 V/m 
+P26.10 
+2N −1
+(
+)∈0 π −θ
+(
+)R2
+d
+ 
+P26.12 
+mgdtanθ
+q
+ 
+P26.14 (a) 3.53 µF; (b) 6.35 V and 2.65 V; (c) 31.8 µC 
+P26.16 (a) 10.7 µC; (b) 15.0 µC  and 37.5 µC 
+P26.18 None of the possible combinations of the extra capacitors is 4
+3 C , so the 
+desired capacitance cannot be achieved. 
+P26.20 (a) 2C; (b) Q1 > Q3 > Q2; (c) ΔV1 > ΔV2 > ΔV3; (d) Q3 and Q1 increase; Q2 
+decreases 
+P26.22 (a)6.05 µF ; (b) 83.7 µC 
+P26.24 120 µC ; (b) 40.0 µC and 80.0 µC 
+P26.26 (a) 2.67 µF ; (b) 24.0 µC , 24.0 µC , 6.00 µC , 18.0 µC ; (c) 3.00 V 
+P26.28 C1 = 1
+2 Cp +
+1
+4 Cp
+2 −CpCs and C2 = 1
+2 Cp −
+1
+4 Cp
+2 −CpCs 
+P26.30 4.47 × 10
+3 V 
+P26.32 (a) 216 µJ ; (b) 54.0 µJ 
+P26.34 (a) 12.0 µF ; (b) 8.64 × 10
+-4 J; (c) U1 = 5.76 × 10
+-4 J and U2 = 2.88 × 10
+-4 J; (d) 
+U1 +U2 = 5.76 × 10−4J + 2.88 × 10−4 J = 8.64 × 10−4J = Ueq , which is one 
+reason why the 12.0 µF capacitor is considered to be equivalent to the 
+two capacitors; (e) The total energy of the equivalent capacitance will 
+always equal the sum of the energies stored in the individual capacitors; 
+(f) 5.66 V; (g) The larger capacitor C2 stores more energy. 
+P26.36 (a) C ΔV
+(
+)
+2 ; (b) Δ ′
+V = 4ΔV
+3
+; (c) 4C ΔV
+(
+)
+2
+3
+; (d) Positive work is done by 
+the agent pulling the plates apart.
+
+--- PAGE 48 ---
+198     Capacitance and Dielectrics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.38 
+Q2
+2 ∈0 A 
+P26.40 (a) keQ2
+2R ; (b) keq1
+2
+2R1
++ ke Q −q1
+(
+)
+2
+2R2
+; (c) 
+R1Q
+R1 + R2
+; (d) 
+R2Q
+R1 + R2
+; 
+ 
+(e) V1 =
+keQ
+R1 + R2
+ and V2 =
+keQ
+R1 + R2
+; (f) 0 
+P26.42 (a) Consider two sheets of aluminum foil, each 40 cm by 100 cm, with 
+one sheet of plastic between them; (b) 10
+–6 F; (c) 10
+2 V 
+P26.44 (a) κ = 3.40 ; (b) nylon; (c) The voltage would lie somewhere between 
+25.0 V and 85.0 V. 
+P26.46 1.04 m 
+P26.48 22.5 V 
+P26.50 (a) −9.10ˆi + 8.40ˆj
+(
+)× 10−12 C⋅m; (b) −2.09 × 10−8 ˆk N⋅m; (c) 112 nJ;  
+(d) 228 nJ 
+ 
+ 
+ 
+ 
+ 
+P26.52 
+p dE
+dx cosθˆi 
+P26.54 6.25 µF 
+P26.56 (a) 13.5 mJ; (b) 3.60 mJ, 5.40 mJ, 1.80 mJ, 2.70 mJ; (c) The total energy 
+stored by the system equals the sum of the energies stored in the 
+individual capacitors. 
+P26.58 (a) On the lower plate the charge is −Q
+3
+, and on the upper plate the 
+charge is −2Q
+3 ; (b) 2Qd
+3∈0 A 
+P26.60 The decrease in kinetic energy of the particle is more than the energy 
+with which it began. Therefore, the particle does not arrive at the 
+negative plate but rather turns around and moves back to the positive 
+plate.  
+P26.62 (a) 2.50µF 1−0.846 f
+(
+)
+−1 ; (b) 25.0µF , the general expression agrees;  
+(c) 162 µF; The general expression agrees. 
+P26.64 579 V
+
+--- PAGE 49 ---
+Chapter 26     199 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P26.66 (a) See P26.66(a) for full explanation; (b) 
+1
+4π ∈0 a +
+1
+4π ∈0 b 
+P26.68 (a) See P26.68(a) for full explanation; (b) The electric field between the 
+plates polarizes molecules within the dielectric; therefore the field does 
+work on charge within the molecules to create electric dipoles. The extra 
+energy comes from (part of the) electrical work done by the battery in 
+separating that charge; (c) Q
+Q0
+= κ 
+P26.70 See P26.70 for full mathematical verification. 
+P26.72 19.0 kV 
+P26.74 
+C
+=
+π ∈0
+1n D r
+[
+] 
+P26.76 (a) κ 1κ 2 ∈0 WL
+κ 1 −κ 2
+(
+)t ln κ 1
+κ 2
+⎡
+⎣⎢
+⎤
+⎦⎥; (b) The capacitor physically has the same 
+capacitance if it is turned upside down, so the answer should be the 
+same with κ 1 and κ 2 interchanged. We have proven that it has this 
+property in the solution to part (a); (c) See P26.76(c) for full explanation. 
+P26.78 (a) ∈0 
+d
++ x κ −1
+(
+)
+[
+]; (b) 
+Q2d
+2∈0 + x κ −1
+(
+)
+[
+]
+; (c) 
+Q2d κ −1
+(
+)
+2∈0 + x κ −1
+(
+)
+[
+]
+2 ˆi; 
+ 
+(d) 205ˆi  µN

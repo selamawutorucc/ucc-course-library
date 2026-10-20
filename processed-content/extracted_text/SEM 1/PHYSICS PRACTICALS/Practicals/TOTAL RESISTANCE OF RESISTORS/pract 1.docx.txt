@@ -1,0 +1,48 @@
+TITLE:  Wheatstone Bridge Experiment
+AIM: To determine the total resistance of resistors connected in parallel and in series.
+APPARATUS: 
+Slide wire measuring bridge, Connection box, Standard PEK carbon resistor, Unknown PEK carbon resistors, Power supply, and 5V/1A, +/- 15V, Digital multimeter 07134.00, Connection cord, and 500mm, red, yellow and blue.
+DIAGRAM:
+THEORY:
+Wheatstone ridge is an instrument used in getting accurate resistance. This consists of four Resisters of resistance, R1, R2, R3 and R4 connected side by side together to form a closed circuit. The current flowing in the circuit divides into two branches. Varying the resistances, a stage is reached when no current flows through the galvanometer placed at the centre, indicating zero that is when C and Y are at the same potential (there is no potential between C and Y). The potential difference across R equals that across the length l2 and the potential difference across Rx equals l1.          Then R/RX =l2/l1   and Rx=R l1/l2
+For resisters R1 and R2 in Series and Parallel the equivalent resistance are respectively
+RX=R1 + R2 and 1/Rp =1/R1 +1/R2.
+METHOD:  
+The values of the resisters to be determined were made invisible and encoded as follows: A, B, C, D and E. The experimental setup was as shown above.  Resister A and the Standard resister R was connected using a connection box.
+The power supply was switched on and the correctness of the connection was checked by touching the bridge wire at the extreme ends (X and Y) with the slider (jockey) J and also the negative and positive readings were observed on the digital multimeter G. The balance point was located on the wire at J, the position where there is zero reading on the digital multimeter. The length l1 from the end X to the balanced point and also l2 was measured.  The experiment was repeated with 
+(i)	The unknown resistances B, C, D and E.
+(ii)	Two unknown resistors AB connected in series Rs.
+(iii)	The two unknown resisters were then connected in parallel Rp.
+TABLE OF RESULTS:
+Series connection using Resister AB
+Parallel connection using Resister AB
+CALCULATION:
+   ,   Rx
+RA=680Ω×                 RC=680Ω×             RE=680Ω×
+RA=0.323Ω                     RC= 9.52Ω                   RE= 6.8Ω
+RB=680Ω×                 RD=680Ω×
+RB=46.24                     RD= 22.44Ω
+Rs=R1+R2	
+Rs=A+B	
+Rs=46.563Ω	Rp=0.321Ω
+Discussion:
+The potential difference across R equals the length l2 and the potential difference across Rx equals the length l1. With the unknown resistor B, l2 was equal to l1 and the B was equal to the known resistor R. when resistors A and B were connected in series the total resistance was found to be 46.563Ω. When the resistors were connected in parallel the total resistance was found to be 0.321Ω. The total resistance in the series connection was more than that of the parallel connection.
+PRECAUTIONS:
+It was ensured that connections of the circuit were well tightened.
+It was ensured that the measuring resistance R was successively in order of magnitude to Rx.
+It was ensured that the instruments (setting 100mA=100mV) were balanced to zero by moving the slide J before all readings were taken.
+CONCLUSION:  
+At balanced point, the potential at C was found to be equal to the potential at J and no current flowed through the digital multimeter.
+REFERENCES:
+(1)Faughn .J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+(2)Nelkon .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+RESISTOR |  |  | 
+A | 322 | 678 | 0.475
+B | 64 | 936 | 0.068
+C | 14 | 986 | 0.014
+D | 32 | 968 | 0.033
+E | 10 | 990 | 0.010
+L1/mm | L2/mm
+352 | 648
+L1/mm | L2/mm
+56 | 944

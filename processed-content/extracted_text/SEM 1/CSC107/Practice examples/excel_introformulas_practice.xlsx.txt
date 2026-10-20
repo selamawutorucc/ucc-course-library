@@ -1,0 +1,29 @@
+
+--- SHEET: Sheet1 ---
+ | Budget & Paper Supplies
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  |  |  |  |  |  |  |  | 
+PAPER SUPPLY ORDERS |  |  |  |  |  |  |  |  |  | 
+ITEM | QUANTITY | PRICE PER UNIT | LINE TOTAL |  |  |  |  |  |  | 
+Plastic Silverware (box of 100) | 15 | 8.75 |  |  |  |  |  |  |  | 
+Napkins (box of 250) | 18 | 2.59 |  |  |  |  |  |  |  | 
+Plates (box of 50) | 9 | 14.25 |  |  |  |  |  |  |  | 
+Plastic Cups (box of 100) | 12 | 2.99 |  |  |  |  |  |  |  | 
+TOTAL |  |  |  |  |  |  |  |  |  | 
+ |  | JUNE BUDGET | 1200 |  |  |  |  |  |  | 
+ |  | JULY BUDGET | 1500 |  |  |  |  |  |  | 
+ |  | TOTAL |  |  |  |  |  |  |  | 
+
+--- SHEET: Challenge ---
+ | Customer Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  |  |  |  |  |  |  |  | 
+Customer Invoice #19480 |  |  |  |  |  |  |  |  |  | 
+ITEM | QUANTITY | PRICE PER UNIT | LINE TOTAL |  |  |  |  |  |  | 
+Empanadas: Braised Short Rib | 15 | 3.75 |  |  |  |  |  |  |  | 
+Emapandas: Nutella and Banana | 18 | 2.59 |  |  |  |  |  |  |  | 
+Sides: Fried Plantains | 15 | 1.98 |  |  |  |  |  |  |  | 
+Sides: Rice and Black Beans | 12 | 2.15 |  |  |  |  |  |  |  | 
+TOTAL |  |  | =D4+D5+D6 |  |  |  |  |  |  | 

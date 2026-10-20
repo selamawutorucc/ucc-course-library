@@ -1,0 +1,90 @@
+
+--- SLIDE 1 ---
+USING MAIL MERGE TO CREATE LETTERS IN MICROSOFT WORD
+PRESENTED BY GROUP NINE MEMBERS.
+ADENTWI EMMANUEL
+ASARE MICHAEL
+ARHIN PHILIP ROGER
+PEPRAH KINGSFORD
+OSEI ASIEDU KENNETH
+VILLARS MARY ADWOA
+AWUAH CHARLES
+ETSUAH KINGSLEY KOBENA
+KYEREMEH TABIRI HARRISON
+FOSU TABITHA OFORIWAA
+AMUNI NICHOLAS WISDOM
+
+
+--- SLIDE 2 ---
+Mail merge
+Mail merge is a feature within most data processing applications that enables users to send a similar letter or document to multiple recipients. It enables connecting a single form template with a data source that contains information about the recipient’s name, address and other predefined and supported data
+
+The mail merge process involves the following: 1. The Main Document  2.Data Source
+The Main Document – contains the text and graphics that are the same for each version of merge
+Data Source – a file that contain the information to be merged into a document. The name and the addressed of the recipients of a letter
+
+--- SLIDE 3 ---
+Steps to open mail merge-(form) letter
+Open MS Word and create a new blank documents
+On your tab area click on mailing
+Click start mail merge
+Click step by step mail merge wizard
+
+Steps to the letter creating
+Step 1       select  document type
+Click on letter at the right side of the dialog box
+Click next (starting document) at the right down side of the dialog
+Step 2         select starting document
+Use the current document 
+Click next (select recipients) at the right down
+
+
+--- SLIDE 4 ---
+Steps to open mail merge-(form) letterStep 3      select recipients    
+ 
+
+
+
+
+
+
+
+
+If using an existing list under select recipient
+Click use an existing list
+Click browse 
+Select the file
+Open
+Select the worksheet tab name that contain the data
+Click OK
+If using outlook under select recipient
+Click select from outlook
+Click on choose contact folder
+
+If using type new list under select recipient
+Click on type a new list 
+Click on create
+A dialogue box will be open called (new addressed list)
+Fill in every detail
+Click OK
+
+
+--- SLIDE 5 ---
+Letter writingIf you haven’t write your letter you can do so now
+On the dialog at the right side
+Click on addressed block to add recipients addresses at the top of the document
+A dialog box will open called (insert addressed block), check boxes and select option on the left until the addressed appears the way you want it to 
+check if everything is done then click OK
+
+On the dialog at the right side 
+Click on greetings line (this is done to check the salutation eg. Dear, hi,………)
+A dialog box will open called (insert greeting line) 
+When everything is done click OK
+
+--- SLIDE 6 ---
+Preview your letterthis is when you can check every recipient letter and the ones you might wish to exclude 
+COMPLETE THE MERGE
+MAIL MERGE IS NOW READY TO PRODUCE THE LETTER TO EACH RECIPIENT
+
+--- SLIDE 7 ---
+End of the lettering session in mail merge

@@ -1,0 +1,26 @@
+TABLE OF RESULTS
+GRAPH
+CALCULATION
+The slope of the graph is 68.434. From the formula
+But
+
+Therefore
+
+DISCUSSION
+From the graph and the formula used, the focal length of the converging lens was found to be 17.1 cm .The value 17.1 cm is very close to the approximate value of the converging lens obtained which was 16.2cm. The difference between the two values might have been due to the inability of the converging lens to focus sharply the image of the distant object on the screen.
+CONCLUSION
+From the experiment and the results obtained it can be realized that the focal length of a converging lens can be determined by measuring the distances between the illuminated object and the different images which are the sharp image and magnified image produced by varying the position of the converging lens.
+SOURCE OF ERROR
+PRECAUTION
+I ensured that the wire was clean and free from dust in order to get sharp images.
+I located sharp images.
+I took readings of l, x and y from the centre mark of the lens holder.
+REFERENCE
+Raymond A.Serway, Jerry S.Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536. 
+Nelkon M and Parker P (1995);  Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 270-280.
+L/cm | x/cm | y/cm | (x-y)=d/cm | d²/cm² | L²/cm² | (l²-d²)/cm²
+70.0 | 40.7 | 28.9 | 11.8 | 139.24 | 4900 | 4760.76
+75.0 | 48.8 | 25.5 | 23.3 | 543.89 | 5625 | 5082.17
+80.0 | 24.3 | 55.2 | -30.9 | 954.81 | 6400 | 5445.19
+85.0 | 23.8 | 61.5 | -37.7 | 1421.29 | 7225 | 5803.71
+90.0 | 22.7 | 67.3 | -44.6 | 1989.16 | 8100 | 6110.84

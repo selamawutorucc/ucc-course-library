@@ -1,0 +1,2189 @@
+
+--- PAGE 1 ---
+Sheet\ME-346 
+1
+DEPARTMENT OF MECHANICAL ENGINEERING 
+BANGLADESH UNIVERSITY OF ENGINEERING AND TECHNOLOGY, DHAKA. 
+ 
+Applied Mechanics and Material Laboratory 
+ 
+ME-346: MECHANICS OF MACHINERY SESSIONAL 
+ 
+Mechanical engineers deal with machines. Machines consist of different parts and/or links 
+connected together in such a way that for a given input (motion or force) a desired output 
+(motion or force) is obtained. In order to know the characteristics of a machine, one should know 
+the behaviour of a body in motion with or without reference to forces involved. In Mechanics of 
+Machinery Sessional, students are urged to familiarize themselves with various properties of 
+bodies in motion. They should also be able to solve numerical problems. 
+ 
+The following experiments are to be done in one term: 
+ 
+Set. No. Expt. No. Name of the Experiment 
+1 
+1 
+Static and Dynamic Balancing of a Shaft 
+1 
+2 
+Bifilar Suspension 
+2 
+3 
+Free Vibration of a Single Degree of Freedom System 
+2 
+4 
+Determining Mass Moment of Inertia of a Flywheel 
+3 
+5 
+Study of Compound Pendulum 
+3 
+6 
+Study of Gyroscope 
+4 
+7 
+Critical Speed of a Shaft 
+4 
+8 
+Study of Cam 
+    
+YOU MUST READ THE INSTRUCTIONS CAREFULLY BEFORE COMING TO THE 
+CLASS. 
+ 
+Submission of Reports: 
+ 
+The students must submit their reports at the end of the class. Reports should be brief and must 
+be submitted in a file. Name of the student, roll number, group and session should be clearly 
+written on the top cover of the file as well as on the top sheet of each set of experiments. 
+ 
+For ease of identification, each group of students should use coloured files as recommended by 
+the teachers. 
+ 
+The report should include the following items: 
+ 
+1. 
+Set number and experiment number 
+2. 
+Name of the experiment 
+3. 
+Objectives of the experiment 
+4. 
+Names (only) of the apparatus 
+5. 
+Schematic diagram of the experimental set-up 
+6. 
+Experimental data 
+7. 
+Sample calculations 
+8. 
+Graphs and results 
+9. 
+Discussions 
+ 
+NOTE: 
+Items I through 5 should be prepared by each student before coming to perform 
+experiments. 
+ 
+Each student must bring with him SCALE, PEN, PENCIL, ERASER, GEOMETRY / 
+INSTRUMENT BOX, PLAIN PAPERS, GRAPH PAPERS, etc.
+
+--- PAGE 2 ---
+Sheet\ME-346 
+2
+EXPERIMENT NO. 1 
+STATIC AND DYNAMIC BALANCING OF A SHAFT 
+ 
+OBJECTIVES: 
+ 
+1. 
+To calculate angular and longitudinal positions of counter balancing weights for static 
+and dynamic balancing of an unbalanced rotating mass system. 
+2. 
+To check experimentally that the positions of counter balancing weights calculated as 
+above are correct. 
+ 
+THEORY: 
+ 
+A shaft is said to be statically balanced if the shaft can rest, without turning, at any angular 
+position in its bearings. This condition is attained when the sum of the centrifugal forces on the 
+shaft due to unbalanced masses is zero in any radial direction. The centrifugal force due to 
+unbalanced mass of weight Wi with its centre of gravity at a radial distance ri is proportional to 
+Wi ri. For a shaft to be statically balanced, the summation of components of all such forces 
+should be zero in any radial direction. That is, 
+ 
+                                                                      
+0
+r
+W
+i
+i
+i
+
+
+ 
+A shaft is said to be dynamically balanced when it does not vibrate in its running state. To make 
+a shaft dynamically balanced, it must first be statically balanced. In addition, the sum of the 
+moments of centrifugal forces due to the attached masses about any axis perpendicular to the 
+axis of the shaft must be zero. This condition is fulfilled when 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+
+
+i
+i
+i
+i l
+r
+W
+ 
+ 
+where li is the distance of the attached mass from one end of the shaft. 
+ 
+APPARATUS: 
+ 
+Static and dynamic balancing machine. 
+ 
+The machine consists of two frames - a small rectangular main frame and a large rectangular 
+support frame which stands vertically up on a platform. The shaft to be balanced is mounted in 
+the main frame and may be run by an electric motor attached to the lower member of the frame. 
+The axial distance of the masses can be measured by a scale attached to the lower member. The 
+position of masses is determined with the help of a protractor fitted to one end of the shaft. Four 
+different masses are provided which may be clamped on to the shaft at any axial and angular 
+positions. 
+ 
+PROCEDURES: 
+ 
+A. 
+STATIC BALANCING 
+ 
+1. 
+Clamp blocks 1 and 2 on to the shaft at given (known) angular positions and at any 
+convenient axial positions. The shaft becomes statically unbalanced. See figure below. 
+ 
+r4
+r3
+r2
+r1
+W4
+W3
+W2
+W1
+3
+4
+2
+1
+Y
+X
+3
+4
+W1r1
+W2r2
+W3r3
+W4r4
+ 
+ 
+2. 
+To balance the shaft, blocks 3 and 4 are to be clamped at some angular positions which 
+will satisfy the following equations for static balancing;
+
+--- PAGE 3 ---
+Sheet\ME-346 
+3
+ 
+0
+cos
+)
+(
+)
+(
+
+
+
+i
+i
+i
+t
+x
+i
+i
+c
+r
+W
+r
+W
+
+ 
+0
+sin
+)
+r
+W
+(
+)
+r
+W
+(
+i
+i
+i
+t
+y
+i
+i
+t
+
+
+
+
+  
+ 
+ 
+ 
+The angular positions of blocks 3 and 4 can be found from the above equations. Knowing 
+the Wr-values of the four blocks, one should be able to find the unknown angles with the 
+help of the force polygon. 
+ 
+3. 
+Clamp blocks 3 and 4 on the shaft at the determined angles. 
+ 
+4. 
+They should be statically balanced. Verify that the shaft rests in its bearings at any 
+angular positions. 
+ 
+ 
+B. 
+DYNAMIC BALANCING: 
+ 
+1. 
+Take the main frame off from its rigid support and suspend it parallel to the support 
+frame with the help of three springs. Put on the motor belt. 
+2. 
+Place blocks 1 and 2 at given axial and radial positions. Radial positions being calculated 
+earlier, axial positions of blocks 3 and 4 have to be determined for dynamic balancing 
+analytically be using the following equations or graphically by using the couple polygon; 
+ 
+0
+)
+sin
+(
+)
+(
+
+
+
+i
+i
+i
+i
+t
+x
+i
+i
+i
+c
+L
+r
+W
+l
+r
+W
+
+ 
+ 
+ 
+0
+)
+cos
+(
+)
+(
+
+
+
+i
+i
+i
+i
+t
+y
+i
+i
+i
+c
+L
+r
+W
+l
+r
+W
+
+ 
+ 
+ 
+Let their axial positions be indicated by L3 and L4 as required for dynamic balancing. 
+ 
+l4
+l2
+l3
+l1
+Reference Plane
+3
+4
+W1r1l1
+W2r2l2
+W3r3l3
+W4r4l4
+ 
+ 
+3. 
+Clamp locks 3 and 4 at the calculated angular and axial positions. 
+4. 
+Switch on the motor to run the shaft and verify that the shaft does not vibrate. 
+ 
+ 
+DISCUSSIONS: 
+ 
+1. 
+While verifying the stages of balancing experimentally did you notice any deviation from 
+the ideal state? What were the deviations? 
+2. 
+State the reasons for deviations if there were any. 
+3. 
+Why dynamic balancing is so important to us? 
+4. 
+Is the effect of unbalance of the shaft the same at all speeds of the shaft? If not, what is 
+the most dangerous speed?
+
+--- PAGE 4 ---
+Sheet\ME-346 
+4
+ 
+EXPERIMENT NO. 2 
+BIFILAR SUSPENSION 
+ 
+OBJECTIVES: 
+ 
+The objectives of the experiment are to determine experimentally the moment of inertia and the 
+radius of gyration about its centre of gravity and to compare them with theoretical values. 
+ 
+THEORY: 
+ 
+The bifilar suspension is used to determine the moment of inertia of a body about an axis passing 
+through its centre of gravity. The body is suspended by two parallel cords of length “l”, at a 
+distance “d” apart. If the mass of the body is “M”, then the tension in either cord is Mg/2. If the 
+system is now displaced through s small angle  at its central axis, then an angular displacement 
+ will be produced at the supports (see figure below). 
+ 
+d
+Mg
+l
+A
+B
+B'
+A'
+
+
+Q
+ 
+ 
+If both angles are small, then 
+
+
+
+
+
+
+
+
+2
+d
+ 
+
+ 
+ 
+The restoring force at the point of attachment of the thread B and B1 will be – 
+ 
+ 
+ 
+)
+small
+for
+(  
+2
+Mg
+sin
+2
+Mg
+
+
+
+ 
+ 
+Since 
+
+
+
+
+
+
+
+
+2
+d
+ 
+ 
+
+
+, the restoring force = 
+
+4
+d
+Mg , and the restoring couple is thus 
+
+4
+d
+Mgd
+
+
+. 
+ 
+Giving an equation of motion 
+0
+I
+4
+.
+Mgd
+.,
+e.i
+4
+.
+Mgd
+I
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Therefore, the motion is S.H.M. of periodic time, 
+2
+Mgd
+41
+2
+T
+
+
+
+ 
+Therefore,  
+
+2
+2
+2
+16
+T
+mgd
+I
+
+
+  
+Alternatively, T may be expressed as: 
+M
+I
+K
+ 
+ since
+ ,
+g
+ 
+d
+K
+2
+.
+2
+T
+2 
+
+
+
+ 
+where d is the distance between the wires (m) 
+ 
+ is the length of suspension (m) 
+ 
+K is the radius of gyration of the body about its centre of gravity. 
+ 
+ 
+APPARATUS: 
+ 
+The Universal Vibration Apparatus and a uniform rectangular bar suspended by fine wires.
+
+--- PAGE 5 ---
+Sheet\ME-346 
+5
+PROCEDURES: 
+ 
+Suspend the beam by wires and adjust it to some suitable length l. Measure the distance between 
+the threads “d” accurately, before displacing the beam through some small angle. Measure time 
+for 20 oscillations, from which the periodic time may be calculated. Repeat the procedure three 
+times. 
+ 
+Change the length of the wires l and time a further 20 swings. The periodic times should be 
+calculated for four such lengths. The inertia of the body may be increased by placing the two 
+masses on either side of the centre line, and repeating the procedure four times for various values 
+of l and b (b being the distance of separation of the masses). Having determined the parameters l, 
+b, d and T, the radius of gyration K may be calculated from: 
+ 
+ 
+ 
+ 
+
+g
+4
+Td
+K
+which
+from
+,
+g
+I
+d
+K
+4
+T
+
+
+
+
+ 
+ 
+In order to calculate moments of inertia, the mass of the beam (unloaded) is required. 
+ 
+DATA AND RESULTS: 
+ 
+The data should be presented in a tabular format like the sample table shown below: 
+ 
+Test 
+No. 
+I 
+(m) 
+d 
+(m) 
+T 
+(S) 
+K 
+(m) 
+2
+K 
+(m2) 
+M 
+(kg) 
+I 
+(kg-m2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCUSSIONS: 
+ 
+1. 
+How would one determine the radius of gyration, and hence moment of inertia, of any 
+body using the bifilar suspension? 
+ 
+2. 
+Are the theoretical and experimental values of K and I in good agreement? If not so, what 
+may be the reason(s)?
+
+--- PAGE 6 ---
+Sheet\ME-346 
+6
+EXPERIMENT NO. 3 
+FREE VIBRATION OF A SINGLE DEGREE OF FREEDOM SYSTEM 
+ 
+OBJECTIVES: 
+ 
+To determine the frequency of small vibration of a pendulum by theoretical and experimental 
+means. 
+ 
+THEORY: 
+A. 
+FREE VIBRATION WITHOUT SPRINGS 
+ 
+Let  be the angle of inclination and l be the length of the bar, W be the weight of the pendulum 
+(refer to the figure below). Assume that the weight of the bar is negligibly small. 
+ 
+Then, for any angular displacement , of the pendulum. 
+Kinetic Energy (K.E.) = [W()2/2g], where  is the velocity of the pendulum. 
+Change in potential energy due to vertical displacement is – 
+ 
+W (1-cos) = W2
+2
+
+ 
+Therefore, the total energy for the set-up is  
+ 
+2
+W
+g
+2
+)
+(
+W
+2
+2
+
+
+
+
+
+ = constant 
+ 
+i.e., 
+
+
+l
+g.
+2
+2
+
+
+ constant  => 
+0
+l
+g
+dt
+d 2
+
+
+
+
+ 
+ 
+The frequency of vibration is  =
+
+g
+  and the time period 
+ 
+
+/
+g
+2
+2
+T
+
+
+
+
+ 
+ 
+B. 
+FREE VIBRATION  WITH SPRINGS 
+If the spring constants of the two springs are K1 and K2 respectively, then the equivalent spring 
+constant (see figure) should be 
+ 
+K = K1 + K2 
+ 
+The kinetic and the potential energies are the same as those in the case of the 
+set-up without spring. The stain energy for the springs is – 
+
+
+
+
+a
+ce
+sin
+)
+a
+(
+2
+K
+K
+2
+1
+2
+2
+
+
+ 
+Therefore, the total energy of the system is – 
+ 
+
+
+
+2
+2
+2
+)
+a
+(
+2
+K
+2
+W
+g
+2
+)
+(
+W
+
+
+
+
+
+constant 
+ 
+
+
+
+
+
+
+
+
+
+2
+2
+2
+2
+W
+Kga
+g
+
+
+
+
+constant 
+ 
+Then frequency 
+2
+2
+W
+Kga
+g
+
+
+
+
+ and period 
+2
+2
+W
+Kga
+g
+2
+2
+T
+
+
+
+
+
+
+
+ 
+ 
+ 
+Mg
+
+l
+Mg
+
+l
+a
+K1
+K2
+=DOF
+
+--- PAGE 7 ---
+Sheet\ME-346 
+7
+APPARATUS: 
+ 
+1. 
+Measure W and . The values of spring constants are given below. 
+ 
+2. 
+Displace the pendulum through a small angle and let go. Record the time for 20 
+oscillations. Repeat the procedure at least thrice and calculate the average frequency 
+without springs. 
+ 
+3. 
+Repeat step 3 for at least two more values of a. 
+ 
+4. 
+compare the experimentally found frequencies with the theoretical ones. 
+ 
+ 
+DATA AND RESULTS 
+ 
+Weight of the pendulum, W = 1.5 lb. 
+Length of the bar, l = 18.5 inch. 
+Spring constant for spring 1, K1 = 3.3 lb/in 
+spring constant for spring 2, K2 = 3.3 lb/in 
+Equivalent spring constant, K = 6.6 lb/in 
+Length, a = 
+ 
+Sample data sheet for the experimental set-up without springs: 
+ 
+No. of 
+Obs. 
+Time for 20 
+oscillations (sec.) 
+Average time for 20 
+oscillations (sec.) 
+Experimental 
+frequency 
+Theoretical 
+frequency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sample data sheet for the experimental set-up with springs: 
+ 
+No. of 
+Obs. 
+Length a 
+(mm) 
+Time for 20 
+oscillations 
+(sec.) 
+Average time for 
+20 oscillations 
+(sec.) 
+Experimental 
+frequency 
+Theoretical 
+frequency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCUSSIONS: 
+ 
+Write down the reasons for the variations in the experimental and theoretical values, if there is 
+any.
+
+--- PAGE 8 ---
+Sheet\ME-346 
+8
+EXPERIMENT NO. 4 
+DETERMINING MASS MOMENT OF INERTIA OF A FLYWHEEL 
+ 
+OBJECTIVES 
+ 
+The objectives of the experiment are as follows: 
+ 
+1. 
+To determine the mass moment of inertia of a flywheel by falling weight method. 
+2. 
+To determine the radius of gyration. 
+3. 
+To determine the frictional torque. 
+ 
+THEORY 
+ 
+Notations used: 
+ 
+ 
+angular acceleration  
+ 
+d 
+diameter of the shaft with allowance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for the rope 
+m 
+attached mass  
+ 
+ 
+T 
+torque 
+Tt 
+theoretical torque 
+ 
+ 
+Tf 
+frictional torque 
+t 
+time of fall 
+ 
+ 
+ 
+h 
+height of fall 
+a 
+linear acceleration 
+ 
+ 
+I 
+mass moment of inertia 
+k 
+radius of gyration 
+ 
+ 
+M 
+mass of the flywheel 
+ 
+ 
+Governing equations: 
+ 
+ 
+T 
+= 
+I 
+ 
+ 
+ 
+(1) 
+ 
+T 
+= 
+Tt – Tf  
+ 
+ 
+(2) 
+ 
+Tt 
+= 
+(mg-ma) (d/2)  
+ 
+(3) 
+ 
+h 
+= 
+½ (at2)  
+ 
+ 
+(4) 
+ 
+a 
+= 
+2h/t2 
+ 
+ 
+ 
+(5) 
+ 
+ 
+= 
+2a/d 
+ 
+ 
+ 
+(6) 
+ 
+I 
+= 
+Mk2 
+ 
+ 
+ 
+(7) 
+ 
+k 
+= 
+M
+I /
+ 
+ 
+ 
+(8) 
+ 
+In the above equations, values of m, t, h, g, and d are known and T, Tt, Tf, a, and I are unknown. 
+ 
+Tt – Tf = I(2a/d) 
+ 
+=> (mg-ma) 
+2
+f
+t
+h
+2.
+d
+2
+.I
+T
+2
+d
+
+
+ 
+[from eqns. (3) and (5)] 
+ 
+=> m(g-2h/t2) d/2 – Tf = 4hI/dt2 
+ 
+=> m(gt2-2h) d/2 – Tft2 = 4hI/d 
+ 
+=> m(gt2-2h) =
+2
+2
+f
+d
+hI
+8
+d
+t
+T
+2
+
+ 
+ 
+In the above equation, the only variables are m and t. Note that the above equation is of the form 
+ 
+y = mx + c 
+ 
+where m(gt2 – 2h) is one variable on the ordinate, t2 is the other variable on the abscissa and 
+2Tf/d is the slope. Therefore, if one draws a graph with these axes, one can obtain the value of Tf 
+from the slope, and the value of I from the intercept on the ordinate. Once the moment of inertia 
+becomes known, the radius of gyration can be calculated from eqn. (8).
+
+--- PAGE 9 ---
+Sheet\ME-346 
+9
+APPARATUS 
+ 
+The test rig, stop watch, scale, mass holder and masses. 
+ 
+The test rig consists of a shaft resting on two ball bearings. The flywheel is mounted on the shaft. 
+An inextensible cord carrying a mass holder is tied and wrapped around the shaft. One or more 
+masses can be placed on the mass holder. If the load is sufficient to overcome the bearing 
+friction, the cord unwinds from the shaft and the mass starts falling until stopped by a steel plate 
+at the base. 
+ 
+PROCEDURE 
+ 
+1. 
+Place the 0.964 kg weight on the holder. Turn the flywheel to wound the cord until the 
+weight is at a height 1.473 metres. 
+ 
+2. 
+Release the flywheel and start the stop watch simultaneously. The weight will start 
+falling. Measure the time of fall. Repeat the step at least thrice. Calculate the average 
+time of fall. (Accurate timing is very important in this experiment.) 
+ 
+3. 
+Gradually increase the weight and repeat step 2 for at least 6 different weights. Always 
+keep the height at 1.473 metres. (Suggested weights are 0.964, 1,490, 2,490, 4,830 and 
+9,500 kg). 
+ 
+4. 
+Plot a graph with m(gt2-2h) along the ordinate and t2 along the abscissa. The graph should 
+be a straight line. From the graph, find the intercept on the ordinate and calculate the 
+mass moment of inertia from the following formula: 
+ 
+I = d2/8h  (Intercept on the ordinate) 
+ 
+ 
+5. 
+Calculate the radius of gyration from the value of I. 
+ 
+6. 
+Find the slope of the line and hence the friction torque by using the following formula: 
+ 
+Tf 
+)
+(
+*
+2
+slope
+d 
+
+
+
+
+
+
+ 
+ 
+DATA AND RESULTS 
+ 
+M 
+= 
+15.391 kg 
+d 
+= 
+0.032 m 
+h 
+= 
+1.473 m 
+mass of the holder, m1 = 0.45 kg 
+ 
+Sample data sheet: 
+ 
+No. 
+of 
+Obs. 
+Attached 
+mass, m2 
+(kg) 
+Total mass,  
+m = (m1+m2) 
+Time of fall (sec.) 
+Average 
+time of fall 
+(sec.) 
+t2 
+m(gt2-2h) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCUSSIONS 
+ 
+The graph you have drawn should be a straight line. If it is not, state reasons. State any other 
+points you find necessary to be stated.
+
+--- PAGE 10 ---
+Sheet\ME-346 
+10 
+EXPERIMENT NO. 5 
+STUDY OF COMPOUND PENDULUM 
+ 
+OBJECTIVES 
+ 
+The objectives of the experiment are to find out the radius of gyration and the moment of inertia 
+of a compound pendulum and compare the experimental values with the theoretical values. 
+ 
+THEORY 
+ 
+When a rigid body, suspended from a point (as shown in the figure), is displaced through a small 
+angle , the restoring couple- Mgh sin  = -mgh (for small ) is produced. The equation of 
+motion is – 
+ 
+- mgh = 
+I
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+ 
+where, M = 
+mass of the rod 
+ 
+h  = 
+distance of the centre of gravity from the point of suspension 
+ 
+  = 
+angle of vertical displacement 
+ 
+I  = 
+moment of inertia for the rod about the axis through the point of suspension 
+ 
+  = acceleration of the system 
+ 
+The motion is simple harmonic and the periodic time, T is – 
+ 
+
+)
+Mgh
+/
+I
+2
+T
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+If Ig is the moment of inertia about c.g. then 
+ 
+I = Ig + Mh2 (according to the parallel axis theorem)  
+ 
+ 
+ 
+ 
+(3) 
+ 
+and Ig = Mk2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+where,  K is the radius of gyration. Therefore, 
+ 
+gh
+h
+K
+T
+2
+2
+2
+
+
+ 
+ 
+By varying the value of h and evaluating T, the radius of gyration of the rod 
+about its centre of gravity may be calculated and compared with the theoretical 
+value. 
+ 
+APPARATUS 
+ 
+The compound pendulum consists of a 12.7 mm diameter steel rod 0.914 m long. The rod is 
+supported by an adjustable knife edge on the cross member. The knife edge can be moved along 
+the rod to alter the value of h, i.e., the distance of the c.g. from the point of suspension. 
+ 
+EXPERIMENTAL PROCEDURE 
+ 
+The centre of gravity of the rod is measured from the given length of the rod. The position of the 
+c.g. is at a distance of (L/2) from either end, where L is the length of the rod. The knife edge is 
+tightened at a given position so that it swings freely without any rotation at the support. The time 
+for 30 oscillations is taken after displacing the pendulum through a small vertical angle. The time 
+of 30 oscillations are recorded at least three times at any given value of L1. The average of these 
+values gives the periodic time T. 
+ 
+Repeat the whole procedure to find out the periodic time T for each of the SEVEN different 
+values of h. IT IS ADVISABLE TO REMOVE THE ROD FROM THE CROSS BEAM AND 
+DO ANY ADJUSTMENTS AWAY FROM THE PORTAL FRAME. 
+ 
+L/2
+G
+h
+L1
+
+--- PAGE 11 ---
+Sheet\ME-346 
+11 
+ 
+The values of K can be calculated from the values of h and T from equation (5). These values are 
+then compared with the theoretical values calculated from – 
+ 
+K = L1/3 (Routh’s Rule) 
+ 
+DATA AND RESULTS 
+ 
+Length of the rod = 0.914 m 
+Diameter of the rod = 12.7 mm 
+Mass of the rod = 894.6 gm 
+ 
+Format of the Table: 
+ 
+No. 
+of 
+Obs. 
+Effective 
+Length 
+L1 (m) 
+Value 
+of h 
+(m) 
+Time of 30 oscillations (sec) 
+Periodic 
+Time  
+T (sec) 
+Expt. 
+value 
+of  
+K (m) 
+Theoretical 
+value of  
+K (m) 
+Expt. 
+value of 
+ I  
+(kg-m2) 
+Theoretical 
+value of  
+I  
+(kg-m2) 
+t1 
+t2 
+t3 
+t4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FURTHER CONSIDERATIONS 
+ 
+1. 
+Calculate the length of the equivalent simple pendulum for one of the above observations 
+by considering the time period of the simple pendulum to be equal to that of the 
+compound pendulum. 
+ 
+2. 
+Find the two values of h which satisfy the resulting quadratic equation giving equal 
+vibration times. 
+ 
+3. 
+Investigate, using the equation. 
+ 
+h2 – hL1 + K2 = 0 
+ 
+the fact that if a distance K2/h1 is measured along the axis from G, remote from the point 
+of suspension O to another point O', so that OO' = L1 and the periodic time about O' is the 
+same as that about O.
+
+--- PAGE 12 ---
+Sheet\ME-346 
+12 
+EXPERIMENT NO. 6 
+STUDY OF GYROSCOPE 
+ 
+OBJECTIVES 
+ 
+To determine the relation between the reaction torque and the processional speed. 
+ 
+APPARATUS 
+ 
+Gyroscope, weights, hanger, stop watch. 
+ 
+THEORY 
+ 
+The change in the direction of the axis of spin of a Gyroscope is 
+referred to as precession. A constant couple T (with axis parallel 
+to Y) will produce a constant precessional speed, (around axis 
+Z). 
+ 
+T = J 
+ 
+For a uniformly rotating disk, ( = constant) 
+ 
+J = constant 
+ 
+The couple has a proportional relationship with the precessional speed. 
+ 
+ 
+PROCEDURE 
+ 
+1. 
+Connect the Gyroscope to 110 VAC supply. The disk will rotate and keep the axis 
+horizontal. 
+ 
+2. 
+Add weight on the shaft of the disk on one side. Note the weight (or applied couple). 
+Measure the precessional speed by noting the time required by the disk to make 5 or 6 
+complete revolutions. Repeat 6 times with different loads gradually increasing the value. 
+ 
+3. 
+Repeat the above procedure by applying loads on the other side of the shaft. 
+ 
+4. 
+Plot the torque versus precessional speed curve. Check deviation of the experimental 
+points from a straight line relationship and comment on the deviations, if any. 
+ 
+ 
+Load arm = 
+ 
+No. of 
+obs. 
+Weight 
+gm 
+Torque  
+gm-cm 
+Time of 
+precession  
+sec 
+No. of 
+revolutions 
+Precessional 
+speed  
+rad/sec 
+1.  
+ 
+ 
+ 
+ 
+ 
+2.  
+ 
+ 
+ 
+ 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+4.  
+ 
+ 
+ 
+ 
+ 
+5.  
+ 
+ 
+ 
+ 
+ 
+6.  
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES: 
+Textbooks on Theory of Machines. 
+ 
+X
+Y
+Z
+I
+b
+a
+d
+O
+
+
+Axis of shaft
+Axis of precession
+Applied couple
+
+--- PAGE 13 ---
+Sheet\ME-346 
+13 
+EXPERIMENT NO. 7 
+CRITICAL SPEED OF A SHAFT 
+ 
+OBJECTIVES 
+ 
+The objective of the experiment is to determine experimentally the critical speed of a 
+transversely loaded rotating shaft and to compare it with the theoretically calculated value. 
+ 
+THEORY 
+ 
+In this exercise, only simply supported beam cases (bearings at two ends) are considered. It is 
+known that the critical rotational speed in radians per second is equal to the circular natural 
+frequency of transverse vibration. This statement is correct when concentrated masses are carried 
+on shafts. For the case of an elastic system, if the spring constant is K then the natural frequency 
+of vibration with mass m is given by- 
+ 
+ =  (K/m) 
+ 
+But W = mg = Ky, where y = static deflection. 
+ 
+a
+b
+L
+m1
+m2
+ 
+ 
+ 
+Therefore,  =  {(W/y) / (W/g)} =  (g/y) rad/sec 
+(2) 
+ 
+Similarly, within the elastic limit for the case of a simply supported beam 
+ 
+ =  (g/y) rad/sec 
+(3) 
+ 
+where, y = static deflection of the beam due to the weight W. 
+ 
+Therefore, 
+ 
+min
+/
+rev
+y
+g
+2
+60
+n o
+
+
+ 
+min
+/
+rev
+y
+g
+30
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+where, g and y must be in consistent units. 
+ 
+Consider the following cases: 
+Case-1: (Refer to the figure shown above) 
+ 
+When the mass is not at mid-point, i.e., a ≠ b, then the deflection of the shaft is given by- 
+ 
+EIL
+3
+b
+Wa
+y
+2
+2
+
+ 
+ 
+When W is due to the masses m1 and m2 together. 
+ 
+Case-2: (Refer to the figure shown above) 
+ 
+When the mass is at the mid-point, i.e., a = b, then the deflection of the beam is given by- 
+ 
+EI
+48
+WL
+y
+3
+
+
+--- PAGE 14 ---
+Sheet\ME-346 
+14 
+When W is due to the masses m1 and m2 together. 
+ 
+Case-3: (Refer to the following figures) 
+ 
+When the two masses are separate, Dunkerley’s Formula for critical speed can be applied- 
+ 
+...
+..........
+n
+1
+n
+1
+n
+1
+2
+2
+2
+1
+c
+c
+2
+c
+
+
+ 
+ 
+where, nc1 = 
+1y
+g
+30
+
+ [when only m1 is used] 
+ 
+nc2 = 
+2y
+g
+30
+
+ [when only m2 is used] 
+ 
+L
+m1
+m2
+L/4
+L/4
+L/2
+L
+m1
+m2
+L/4
+L/4
+L/2
+ 
+ 
+In this case, two critical speeds will be obtained. One speed can be found for the mode of the 
+shaft as shown in the above figure (top). If the speed is further increased, the shaft will start 
+rotating like that shown in figure (bottom) with a node at the centre. For this mode, 
+ 
+EI
+48
+)
+2
+/
+L
+(
+W
+y
+3
+
+ 
+ 
+ 
+NOTATIONS 
+ 
+nc 
+= 
+critical speed of the shaft (rpm) 
+ 
+= 
+critical speed of the shaft (rad/sec) 
+d 
+= 
+diameter of the shaft (m) 
+I 
+= 
+polar moment of inertia of the shaft (m4) 
+E 
+= 
+modulus of elasticity of the shaft material (for steel E = 210 GN/m2) 
+L 
+= 
+length of the shaft (m) [NOTE: 25 mm should be deducted for each weight due to 
+their stiffening effects on the shaft] 
+y 
+= 
+deflection of the shaft due to the weights (m) [self weight of the shaft is 
+neglected] 
+W 
+= 
+weight of the attached mass (N) 
+m1 
+= 
+1 kg;  
+W1 
+= 
+9.81 N 
+m2 
+= 
+1 kg;  
+W2 
+= 
+9.81 N 
+ 
+APPARATUS 
+ 
+The Critical Revolution Machine, MT215, weights, scale and slide callipers. 
+ 
+ATTENTION 
+ 
+THE MAXIMUM DISTANCE BETWEEN THE TWO INNER BEARINGS IS 450mm. 
+DISTANCE BETWEEN THE CONSECUTIVE MARKS ON THE SHAFT IS 50mm. BEFORE 
+STARTING THE MACHINE, PLEASE CHECK THAT THE MASSES ARE TIGHTLY 
+SCREWED ONTO THE SHAFT. ALSO MAKE SURE THAT THE INPUT VOLTAGE TO 
+THE MACHINE IS 110V.
+
+--- PAGE 15 ---
+Sheet\ME-346 
+15 
+EXPERIMENTAL PROCEDURE 
+ 
+1. 
+Set a suitable length L of the shaft by sliding the two block bearings along the shaft. The 
+maximum length of the shaft should not exceed 400mm. 
+ 
+2. 
+For Cases 1 and 2, the two masses should be brought together to obtain a punctiform 
+mass. The masses are locked on the shaft by tightening the screws attached to them. (The 
+axially free bearings should be placed in such a way that a clearance of about 5 mm is 
+obtained between the mass and the bearing. These bearings are used to prevent a greater 
+than permissible deflection of the shaft). 
+ 
+3. 
+Connect the machine to 110V AC source. Make sure that the speed control knob is at the 
+zero position before the machine is switched on. Increase the speed of the shaft by 
+turning the speed control knob slowly and gradually. Make note of the speed from the 
+dial when the critical speed is attained. Enter the value in the data sheet and compare the 
+value with the theoretically calculated value. Repeat the procedure three times. One 
+should take care about not to keep the speed of the shaft at its critical level for more than 
+2 seconds. 
+ 
+ 
+DATA AND RESULTS 
+ 
+Diameter of the shaft, D = 6.0 mm 
+Polar moment of inertia f the shaft, 
+4
+D
+64
+I 
+ 
+ 
+Format of the Table 
+ 
+Case-1: Two masses are together, but not at the mid point, a ≠ b 
+ 
+No. of 
+Obs. 
+Observed 
+nc (rpm) 
+Average 
+nc (rpm) 
+length of 
+shaft, L (m) 
+Length 
+a (m) 
+Length 
+b (m) 
+Length 
+y (m) 
+Calculated nc 
+(rpm) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case-1: Two masses are together and at the mid point, a = b 
+ 
+No. of 
+Obs. 
+Observed 
+nc (rpm) 
+Average 
+nc (rpm) 
+length of 
+shaft, L (m) 
+Length 
+a (m) 
+Length 
+b (m) 
+Length 
+y (m) 
+Calculated nc 
+(rpm) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case-3: Two masses are separate 
+ 
+No. of 
+Obs. 
+Observed 
+nc (rpm) 
+Average 
+nc (rpm) 
+length of 
+shaft, L (m) 
+Length 
+a (m) 
+Length 
+b (m) 
+Length 
+y (m) 
+Calculated nc 
+(rpm) 
+Without 
+node 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With a 
+node 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES 
+ 
+Textbooks on Theory of Machine and Mechanical Vibrations (Chapters or sections on Critical 
+Speed).
+
+--- PAGE 16 ---
+Sheet\ME-346 
+16 
+EXPERIMENT NO. 8 
+STUDY OF CAMS 
+ 
+OBJECTIVES 
+ 
+The objectives of the experiments are as follows: 
+ 
+1. 
+To measure the displacement of the follower at different cam angles. 
+2. 
+To plot the displacement versus cam angle curves, and 
+3. 
+To compare the actual curves with the theoretical curves. 
+ 
+THEORY 
+ 
+(a) 
+Rise with uniform motion: 
+ 
+The rise is given by- 
+ 
+
+
+
+
+
+
+
+
+
+2 
+ 
+ 
+ 
+    
+          
+ 
+d
+ -
+  
+ 
+Y
+ 
+ 
+ 
+ 0
+      
+          
+,
+ 
+d
+ 
+ 
+Y
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+(1) 
+where, d = maximum rise in inches 
+ 
+= angle of cam displacement interval in radians 
+ 
+ = cam angle in radians 
+ 
+Different values of  is substituted into eqn. (1) to get the corresponding values of Y. 
+ 
+(b) 
+Rise with constant acceleration and deceleration: 
+ 
+The displacement Y is given by: 
+ 
+;
+)
+/
+(
+d
+2
+y
+2
+
+
+
+         
+5.0
+/
+
+
+
+ 
+    = d[1-2(1 – (/))2];      /    0.5 
+ 
+With constant velocity, the angle of cam rotation is proportional to the time t. 
+ 
+(c) 
+Simple harmonic motion 
+ 
+The displacement of the follower with simple harmonic motion is given by- 
+ 
+
+
+
+
+
+
+
+
+
+cos
+1
+2
+d
+Y
+ 
+(3) 
+ 
+where, 
+ 
+d 
+= 
+maximum rise in inches 
+ 
+= 
+angle of cam displacement interval in radians 
+ 
+= 
+cam angle in radians 
+ 
+PROCEDURE 
+ 
+1. 
+Place a cam on the shaft and screw on a follower on the follower rod. 
+2. 
+Wrap a graph paper on the drum 
+3. 
+Place a dial gauge on the horizontal support plate with its pointer on the follower 
+attachment. 
+4. 
+Rotate the cam shaft with the handle. The attached pencil will mark the displacement 
+diagram on the graph paper. Take readings from the dial gauge at different cam angle. 
+5. 
+Repeat procedure 1 to 4 with other cam and follower combinations.
+
+--- PAGE 17 ---
+Sheet\ME-346 
+17 
+ 
+DATA AND RESULTS 
+ 
+Format of the table 
+ 
+ 
+ 
+ 
+REFERENCES 
+ 
+Textbooks on Theory of Machines Applied Kinematics. 
+ 
+No. 
+of 
+Obs 
+Cam 
+Angle 
+() 
+Radians 
+Dial 
+Gauge 
+Reading 
+Inches 
+Total Rise 
+Angle () 
+Radians 
+Maximum 
+Rise (d) 
+Inches 
+Theoretical Displacement  
+ 
+
+
+d
+Y 
+ 
+Inches 
+Constant 
+Acceln 
+& Deceln 
+Simple 
+Harmonic 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5

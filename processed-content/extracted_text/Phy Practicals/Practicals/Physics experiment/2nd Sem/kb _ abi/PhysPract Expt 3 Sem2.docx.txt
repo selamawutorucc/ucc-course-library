@@ -1,0 +1,73 @@
+TITLE: VIBRATION OF STRINGS
+AIM: To measure the frequency of a string (nickel) with d=0.3mm, as a function of the tensioning string and the length of the string and hence measure the density of the string.
+APPARATUS
+String tensioning device(w. stem);nickel wire(diameter=0.3mm,length =100m);bench clamp –PASS ;fish line (length=100);Digital counter; barrel base(PASS);rod with hook ;lamp holder; lamp bulb(6V/3W) ;photo element f. opt. Base pl.; sign holder ;oscilloscope ;digital counter ;LF Amplifier, Connecting cord(L=750mm,blue),Connecting cord(L=750mm,red) ;meter scale (demo=1000mm) ;distributor ;adapter(BNC socket,4mm) ;connector(T type);spring balance.
+DIAGRAM
+THEORY
+Standing waves arise because identical waves (equal frequency, velocity and amplitude) travel on a string in opposite directions in the same medium and combine in accord with the principle of superposition on each other. Consider a string that has length L and is fixed at both ends. The string has numerous natural patterns of vibration known as normal modes and each of these has a characteristic frequency. The normal modes form a harmonic series. The first harmonic with the lowest frequency is called the fundamental note and its frequency is referred to as the fundamental frequency. The second harmonic is also known as the first overtone.
+Consider the normal mode in which the centre is an antinode and the ends are nodes, the length of the string equals λ/2.
+L=λ1/2
+λ1= 2L
+In general, the wavelengths of the various normal modes can be expressed as:
+λn= where n refers to nth mode of vibration.
+The natural frequencies associated with these modes are obtained from the relationship f=v/ λ, where the wave speed is the same for all frequencies. Based on this:
+fn= =
+v= where T = tension in the string and µ= mass per unit length.
+fn=
+Therefore, for the lowest frequency corresponding to n=1:
+f1=.
+It follows therefore that the frequency of a stretched string is inversely proportional to its length       f α 1/l. The pitch of a note is inversely proportional to the length of a string for the same string under the same tension.
+METHOD
+A nickel wire string was laid across 2 triangular sliders and clamped between a fixed hook and a spring balance. The spring balance was attached to a string tensioner with a fishing line. The string length was set by moving the triangular sliders along the measuring scale. The vibration of the string was optically scanned midway between the sliders. The signal from the photocell, fitted with an aperture slit was amplified and transmitted to the oscilloscope and the counter/ timer.  The tension in the string was set to a fixed value and recorded as 10N. The diameter of the string was also measured and recorded.  Keeping the tension in the string constant at the recorded value, a string length l = 40cm was measured between the two triangular sliders. The counter /timer device was set to frequency (kHz).  The sensor was aligned to the string and light so that the counter read zero and the start button was pressed. The wire was gently tapped with the rubber hammer to start the vibrations. The stop button was pressed when the harmonics had died away and frequency became stable. This frequency was then recorded. This was repeated for four other values of l=50, 60, 70, 80 cm
+RESULTS
+Fixed tension: 10N
+Material of string: Nickel
+Diameter of string: 0.3mm
+Fig.1 : Table of Results 
+GRAPH
+CALCULATIONS
+Comparing the equation f=  to the general equation of a line y= mx+c, the slope, m =
+From the graph, the slope = 69.57 Hz/m at fixed tension T = 10N 
+69.57Hz/m = 
+139.14 = 
+19359.9396 = 
+Mass per unit length,µ =5.17 x 10-4kg/m
+density (d)= 
+d=
+Volume of a cylinder =∏r2l. Since the string is cylindrical,
+d=  
+d = x 
+but  = mass per unit length 
+d= μ× 
+r =  =  =0.00015m
+d =5.17 x 10-4kg/m x
+d =7.27 x 103kg/m3
+DISCUSSION
+	From the experiment, it was observed that the frequency was inversely proportional to the length. This can be seen from the table of results.  The smallest length of 40cm yielded the highest frequency of 175 Hz. The greatest length of 80 cm likewise yielded the smallest frequency of 89 Hz.  The density of the string was found to be 7.27×103 kg/m3 .The literature density of nickel is 8900 kg/m3. The difference in the experimental value and the literature value may be due to distortion in the shape or bends in the string leading to a change in volume. This affected the accuracy of the experiment.
+SOURCES OF ERROR
+The frequencies were hardly stable hence making readings difficult 
+Error due to the non uniformity of the string hence affecting the mass per unit length
+PRECAUTIONS
+It was ensured that the tensioning force was not set beyond 30N in order to prevent the string from breaking
+The experiment was repeated and the average frequency found to ensure accurate results.
+It was ensured that throughout the experiments the tension was kept constant
+CONCLUSION
+The slope of the graph was 69.57Hz/m at fixed tension, T = 10N. Mass per unit length µ is                5.17 x10-4kg/m and density of the string, d is 7.27 x 10-3kg/m3. It can be concluded that the frequency is inversely proportional to the length of the string.
+REFERENCES
+Serway A. Raymond & Faughn S. Jerry,(2003), College Physics,6th Edition Thomson Learning Inc. Australia,pages 442- 443.
+Nelkon and Parker(1995) Advanced Level Physics (7th Edition) CBS Publishers, New Delhi(India), pgs 214 - 218
+
+School of Medical Sciences
+        MED 112 General Physics II (Practical)
+Experiment 3
+
+
+ABIGAIL HARDING
+Student number: SM/SMS/09/0048
+Date: Thursday 25th February 2010
+Length of String(l/cm) | l/m | 1/l (m-1) | f1/Hz | f2/kHz | fav /kHz | fav/Hz
+40 | 0.40 | 2.50 | 0.175 | 0.175 | 0.175 | 175.0
+50 | 0.50 | 2.00 | 0.142 | 0.143 | 0.141 | 141.0
+60 | 0.60 | 1.67 | 0.118 | 0.117 | 0.116 | 116.0
+70 | 0.70 | 1.43 | 0.100 | 0.100 | 0.100 | 100.0
+80 | 0.80 | 1.25 | 0.890 | 0.890 | 0.890 | 89.0

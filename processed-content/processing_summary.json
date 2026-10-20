@@ -1,0 +1,15 @@
+{
+  "inventory": "C:\\Users\\FM Selasie\\Documents\\ucc-processing-output\\inventory.csv",
+  "indexed_records": 1750,
+  "text_files_copied": 1466,
+  "missing_extracted_text": 284,
+  "empty_text_files": 0,
+  "sensitive_files_skipped": 1,
+  "text_status_counts": {
+    "EXTRACTED_TEXT_FOUND": 1466,
+    "MISSING": 284
+  },
+  "index_file": "C:\\Users\\FM Selasie\\Documents\\GitHub\\ucc-course-library\\processed-content\\index.csv",
+  "text_folder": "C:\\Users\\FM Selasie\\Documents\\GitHub\\ucc-course-library\\processed-content\\extracted_text",
+  "note": "Text extraction does not mean a document has been fully read or reviewed. Verify scanned pages, tables, images, and short or missing text."
+}

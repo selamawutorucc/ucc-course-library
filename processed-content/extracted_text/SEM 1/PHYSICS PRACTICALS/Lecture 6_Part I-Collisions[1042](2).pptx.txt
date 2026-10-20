@@ -1,0 +1,103 @@
+
+--- SLIDE 1 ---
+Collisions/Momentum/Impulse
+
+--- SLIDE 2 ---
+Collisions – Characteristics 
+The term collision represents an event during which two particles come close to each other and interact by means of forces.
+May involve physical contact, but must be generalized to include cases with interaction without physical contact
+The interaction forces are assumed to be much greater than any external forces present.
+This means the impulse approximation can be used.
+
+
+--- SLIDE 3 ---
+Collisions – Example 1 
+Collisions may be the result of direct contact.
+
+The impulsive forces may vary in time in complicated ways.
+This force is internal to the system.
+
+Momentum is conserved.
+
+--- SLIDE 4 ---
+Collisions – Example 2
+The collision need not include physical contact between the objects.
+There are still forces between the particles.
+This type of collision can be analyzed in the same way as those that include physical contact.
+
+--- SLIDE 5 ---
+Types of Collisions
+In an elastic collision, momentum and kinetic energy are conserved.
+Perfectly elastic collisions occur on a microscopic level; objects don’t stick together after collision
+In macroscopic collisions, only approximately elastic collisions actually occur.
+Generally some energy is lost to deformation, sound, etc.
+There must be no transformation of kinetic energy into other types of energy within the system.
+In an inelastic collision, kinetic energy is not conserved, although momentum is still conserved.
+If the objects stick together after the collision, it is a perfectly inelastic collision.
+
+--- SLIDE 6 ---
+Collisions, cont.
+In an inelastic collision, some kinetic energy is lost, but the objects do not necessarily stick together.
+Momentum is conserved in all collisions
+
+--- SLIDE 7 ---
+Perfectly Inelastic Collisions
+Momentum of an isolated system is conserved in any collision, so the total momentum before the collision is equal to the total momentum of the composite system after the collision.
+
+Since the objects stick together, they share the same velocity after the collision.
+
+
+--- SLIDE 8 ---
+Elastic Collisions
+Both momentum and kinetic energy are conserved.
+
+
+
+
+
+
+
+
+
+
+
+Typically, there are two unknowns to solve for and so you need two equations.
+
+
+--- SLIDE 9 ---
+Elastic Collisions, cont.
+The kinetic energy equation can be difficult to use.
+With some algebraic manipulation, a different equation can be used.
+v1i – v2i = v1f + v2f
+This equation, along with conservation of momentum, can be used to solve for the two unknowns.
+It can only be used with a one-dimensional, elastic collision between two objects.
+Using this equation eliminates the need for using an equation with quadratic terms (from the kinetic energy equation).
+Remember to use the appropriate signs for all velocities.
+		
+
+
+--- SLIDE 10 ---
+Elastic Collisions, final
+Example of some special cases:
+m1 = m2 – the particles exchange velocities
+When a very heavy particle collides head-on with a very light one initially at rest, the heavy particle continues in motion unaltered and the light particle rebounds with a speed of about twice the initial speed of the heavy particle.
+When a very light particle collides head-on with a very heavy particle initially at rest, the light particle has its velocity reversed and the heavy particle remains approximately at rest.
+
+--- SLIDE 11 ---
+Problem-Solving Strategy: One-Dimensional Collisions
+Conceptualize
+Image the collision occurring in your mind.
+Draw simple diagrams of the particles before and after the collision.
+Include appropriate velocity vectors.
+Categorize
+Is the system of particles isolated?
+Is the collision elastic, inelastic or perfectly inelastic?
+
+--- SLIDE 12 ---
+Problem-Solving Strategy: One-Dimensional Collisions
+Analyze
+Set up the mathematical representation of the problem.
+Solve for the unknown(s).
+Finalize
+Check to see if the answers are consistent with the mental and pictorial representations.
+Check to be sure your results are realistic.

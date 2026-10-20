@@ -1,0 +1,59 @@
+NAME: EDWARD KYEI-ACHEAMPONG
+INDEX NUMBER: SM/SMS/09/0032
+PHYSICS 101
+GROUP NINE (9)
+TITLE: The water equivalent of a calorimeter
+AIM: To determine the water equivalence of a calorimeter using the principle of conservation of heat
+APPARATUS: A copper calorimeter with an outer jacket, a stirrer made from a bare copper wire, a thermometer (calibrated from 0  to 100), a beaker, ice, electronic balance (Libror EB-3200s-A, serial number D400902191, Readability=0.1g), a clamp
+DIAGRAM:
+ELECTRONIC BALANCE
+THEORY: 
+Heat gained by calorimeter and cold water= Heat lost by warm water
+MICW (3-1) + MCCC (3-1) = MFCW (2-3)
+Where MI = Mass of cold water
+              MC = Mass of calorimeter
+              MF = Mass of warm water
+              CW = Specific heat capacity of water
+              CC = Specific heat capacity of calorimeter
+.
+                           MICW (3-1) + MCCC (3-1) = MFCW (2-3)
+  But CC = CW,  since the water equivalent is the mass of water that has the specific capacity of the calorimeter.
+                            Cw (MI+MC) (3-1) = MFCW (2-3)
+                             (MI+MC)3-1) = MF (2-3)
+But MI = M1 - M0,    MF = M2 - M1     and    Mc = w
+(M1-M0+w) (3-1) = (M2-M1) (2-3)
+PROCEDURE: The calorimeter and stirrer were first weighed together with the electronic balance and recorded as M0. Iced cold water then poured into the calorimeter to about one third its volume and was weighed with the stirrer and the mass was recorded as M1.  After the calorimeter was place in its outer jacket and left to stand until it acquires a temperature of about 5 below room temperature. Temperature is recorded as 1. Heated water of about 15 above room temperature, 2, was added to the water in the calorimeter increasing the volume to about two thirds the calorimeter’s. The mixture was then stirred with a stirrer and it maximum temperature reached was recorded with a thermometer, say 3. At this point the calorimeter and its content was weighed and recorded, say M2.
+OBSERVATION:
+CALCULATION: Heat gained by calorimeter and cold water = heat lost by warm water.
+From the above,
+(M1-M0+w) (3-1) = (M2-M1) (2-3) where
+W is the water equivalent of calorimeter and stirrer.
+(91.0-54.4+w) (31-22) = (127.6-91.0) (42-31)
+W = - 36.6
+     = 8.13g
+PRECAUTION:
+1. The thermometer was held with a clamp to avoid contact with the skin whose temperature might be recorded 
+2. The calorimeter was well covered to ensure minimal loss of heat from the system.
+3. The thermometer was wiped after ever reading to avoid introducing water clanged to it into new readings.
+4. The thermometer was allowed to cool each time before taking readings to avoid transfer of heat which could affect the expected result.
+CONCLUSION: The water equivalent of the calorimeter was found to be 8.13g 
+Room temperature
+ | 27                           
+
+Mass of calorimeter and stirrer, M0
+ | 54.4g
+`
+
+Mass of calorimeter, stirrer and cold water, M1
+ | 91.0g
+
+Mass of calorimeter, stirrer and mixture, M2
+ | 127.6g
+
+Initial temperature of cold water, 1
+ | 22
+
+Initial temperature of warm water,2
+ | 42
+
+Initial temperature of mixture,3 | 31

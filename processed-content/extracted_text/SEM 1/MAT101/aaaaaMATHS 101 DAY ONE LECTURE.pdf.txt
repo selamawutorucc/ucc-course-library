@@ -1,0 +1,207 @@
+
+--- PAGE 1 ---
+SETS 
+Union and Intersection of Sets 
+The Union of Sets: The union of two sets say A and B written as (𝐴∪𝐵) is the set which 
+consists of all the elements that belong to A or to B or to both.  
+Mathematically written as 𝐴∪𝐵= {𝑥∈𝑀 𝑜𝑟 𝑥∈𝐴  𝑜𝑟 𝑥∈𝐵) 
+ 
+Representation on a Venn Diagram 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intersection of Sets: The intersection of the sets A and B (𝐴∩𝐵) is the set which consists of 
+elements that belong to both A and B. Mathematically written as 
+ 𝐴∩𝐵= {𝑥∈𝑀 𝑜𝑟 𝑥∈𝐴 𝑎𝑛𝑑 𝑥∈𝐵} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Theorem 
+Let A, B and C be sets. 
+Then, 
+i. 𝐴∪𝐴= 𝐴∩𝐴= 𝐴 
+ii. 𝐴∪𝐵= 𝐵∪𝐴 
+   𝐴∩𝐵= 𝐵∩𝐴
+
+--- PAGE 2 ---
+iii. (𝐴∪𝐵) ∪𝐶= 𝐴∪(𝐵∪𝐶) 
+     (𝐴∩𝐵) ∩𝐶= 𝐴∩(𝐵∩𝐶) 
+iv. 𝐴∪(𝐵∩𝐶) = (𝐴∪𝐵) ∩(𝐴∪𝐶) 
+    𝐴∩(𝐵∪𝐶) = (𝐴∩𝐵) ∪(𝐴∩𝐶) 
+ 
+This implies that the union and intersection is always commutative and associate. 
+ 
+Proving the first part of iv 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+𝐴∪(𝐵∩𝐶) = (𝐴∪𝐵) ∩(𝐴∪𝐶) 
+Using 𝐴⊆𝐵 𝑎𝑛𝑑 𝐵⊆𝐴 𝑡ℎ𝑒𝑛 𝐴= 𝐵 
+Let 𝑥∈𝐴∪(𝐵∩𝐶) 
+⇒𝑥∈𝐴 𝑜𝑟 𝑥∈(𝐵∩𝐶) 
+Taking 𝑥∈𝐴 
+⇒𝑥∈𝐴 𝑜𝑟 𝑥∈𝐵 𝑎𝑛𝑑 𝑥∈𝐴 𝑜𝑟 𝑥∈𝐶 
+⟹𝑥∈(𝐴∪𝐵) 𝑎𝑛𝑑 𝑥∈(𝐴∪𝐶) 
+⇒𝑥∈(𝐴∪𝐵) ∩(𝐴∪𝐶) 
+Take 𝑥∈(𝐵∩𝐶) 
+⇒𝑥∈𝐵 𝑎𝑛𝑑 𝑥∈𝐶 
+⇒𝑥∈𝐴 𝑜𝑟 𝑥∈𝐵 𝑎𝑛𝑑 𝑥∈𝐴 𝑜𝑟 𝑥∈𝐶 
+⇒𝑥∈(𝐴∪𝐵)𝑎𝑛𝑑 𝑥∈(𝐴∪𝐶) 
+𝑥∈(𝐴∪𝐵) ∩(𝐴∪𝐶) 
+Since 𝐴∪(𝐵∩𝐶) ⊆(𝐴∪𝐵) ∩(𝐴∪𝐶) 𝑎𝑛𝑑 (𝐴∪𝐵) ∩(𝐴∪𝐶) ⊆𝐴∪(𝐵∩𝐶) 
+∴𝐴∪(𝐵∩𝐶) = (𝐴∪𝐵) ∩(𝐴∪𝐶) 
+ 
+Definition: Let A and B be subsets of the universal set (U), the difference of A and B is 
+written as 𝐴−𝐵 is the set 𝐴−𝐵= {𝑥: 𝑥∈𝑎𝑛𝑑 𝑥∉𝐵} = 𝐴∩𝐵|  
+𝑈= {1, 2, 3, 4, 5, 6} 
+𝐴= {1, 2, 3} 
+𝐵= {3, 4, 5} 
+𝐴−𝐵= {1, 2} 
+𝐵−𝐴= {4, 5) 
+ 
+Theorem: De Morgan’s Laws 
+i. (𝐴∩𝐵)| = 𝐴| ∪𝐵| 
+(𝐴∪𝐵)| = 𝐴| ∩𝐵| 
+ii. 𝐴∩(𝐴∩𝐵|)| = 𝐴∩𝐵 
+𝐴−(𝐴−𝐵) = (𝐴∩𝐵) 
+iii. 𝐴∩(𝐵∪𝐶)| = (𝐴∩𝐵|) ∩(𝐴∩𝐶|)
+
+--- PAGE 3 ---
+𝐴−(𝐵∪𝐶) = (𝐴−𝐵) ∩(𝐴−𝐶) 
+iv. 𝐴∩(𝐵∩𝐶)| = (𝐴∩𝐵|) ∪(𝐴∩𝐶|) 
+𝐴−(𝐵∩𝐶) = (𝐴−𝐵) ∪(𝐴−𝐶) 
+ 
+Proving the First Theorem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(𝐴∩𝐵)| 
+Let 𝑥∈(𝐴∩𝐵)| 
+⇒𝑥∉(𝐴∩𝐵) 
+⇒𝑥∈𝐴 𝑎𝑛𝑑 𝑥∉𝐵 
+⟹𝑥∈𝐴| 𝑜𝑟 𝑥∉𝐵| 
+⇒𝑥∈𝐴| 𝑜𝑟 𝑥∉𝐵𝐼 
+⇒𝑥∈𝐴| ∪𝐵| 
+ 
+Proving the third law 
+ 
+ 
+Let 𝑥∈𝐴∩(𝐵∪𝐶)| 
+⇒𝑥∈𝐴 𝑎𝑛𝑑 𝑥∉(𝐵∪𝐶) 
+⇒𝑥∈𝐴 𝑎𝑛𝑑 𝑥 ∉(𝐵∪𝐶) 
+⇒𝑥∈𝐴 𝑎𝑛𝑑 𝑥∉𝐵 𝑜𝑟 𝑥∉𝐶 
+⇒𝑥∈𝐴 𝑎𝑛𝑑 𝑥∈𝐵|𝑜𝑟 𝑥∉𝐶| 
+⇒(𝑥∈𝐴 𝑎𝑛𝑑 𝑥 ∈𝐵|) 𝑎𝑛𝑑 (𝑥∈𝐴 𝑎𝑛𝑑 𝑥 ∈𝐶) 
+⇒(𝑥∈𝐴 𝑎𝑛𝑑 𝑥∈𝐵|) 𝑎𝑛𝑑 (𝑥∈𝐴 𝑎𝑛𝑑 𝑥∈) 
+⇒𝑥∈(𝐴∩𝐵|) ∩(𝐴∩𝐶|)
+
+--- PAGE 4 ---
+Cartesian Product of Sets 
+ 
+𝑆× 𝑇= {𝑠, 𝑡} ∈𝑆× 𝑇} 
+The cartesian product of two sets S and T is defined as 𝑆× 𝑇= {𝑃/𝑃 = (𝑠, 𝑡), 𝑠∈𝑆, 𝑡∈𝑇) 
+That is, the set of all ordered pairs of elements (s, t) such that the first member of each pair 
+always belongs to S and the second member always belong to T.  
+ 
+𝑆= {2, 4} 𝑇= {2, 4, 7} 
+𝑆× 𝑇= {2,2)(2, 4), (2, 7), (4, 2), (4, 4), (4, 7)} 
+Some properties of Cartesian Product of Sets 
+i. Two elements of S × T are equal if and only if they are identical. 
+i.e. (s, t) = (a, b) ⇒𝑆= 𝑎 𝑎𝑛𝑑 𝑡= 𝑏 
+ 
+2. If 𝑠= ∅  𝑜𝑟 𝑇= ∅ 𝑡ℎ𝑒𝑛 𝑆× 𝑇= ∅ 
+3. 𝑆× 𝑇≠𝑇× 𝑆 
+4. The cartesian product of sets is not associative.  
+ 
+Prove that A × B = B × A if and only if either A – B or at least one set is empty. 
+Proof 
+Let A = B, A × B = B × 
+B × B = B × B = B2 
+A × B = ∅, = 𝐵× 𝐴 
+Assuming that 𝐴= ∅, 𝐵= ∅ 
+Let A × B = B × A 
+And also let (a, b) ∈ A × B 
+⇒ a ∈ A and b ∈ B 
+(b, a) ∈ B × A 
+⇒b ∈ B and a ∈ A 
+Since A ⊆ B and B ⊆ A 
+∴ A = B 
+ 
+A × (B × C) ≠(𝐴× 𝐵) × 
+Prove that  
+A × (B × C) = (A × B) × 
+If and only if at least one of the sets A, B, C is empty.
+
+--- PAGE 5 ---
+Proof 
+Assume A = ∅, B = ∅ or C = ∅ 
+A × (B × C) = ∅ = (A × B × C) 
+Let (x, y) ∈ A × (B ×) and assume A ≠∅, B ≠∅ and C ≠∅ 
+⇒ 𝑥∈𝐴 𝑎𝑛𝑑 𝑦 ∈(𝐵×) 
+And let (x, y) ∈(𝐴× 𝐵) × 𝐶 
+⇒𝑥∈(𝐴× 𝐵)𝑎𝑛𝑑 𝑦∈𝐶 
+But if 𝑥∈𝐴, 𝑥∉(𝐴× 𝐵) 𝑎𝑛𝑑 𝑦 ∈(𝐵× 𝐶)𝑦∉𝐶 and this is a contradiction to the earlier 
+statement.  
+∴ A, B, C are empty or at least one is empty. 
+ 
+Let A = {1, 2}, B = {3, 4} and C = {5, 6} 
+Find A × B × C = {(1, 3, 5), (1, 3, 6), (1, 4, 5), (1, 4, 6), (2, 3, 5), (2, 3, 6), (2, 4, 5), (2,4,6)} 
+ 
+Example 2: Let 𝐴= {1 ≤𝑥≤2} 
+𝐵= {−2 ≤𝑥≤3} 
+Sketch and describe the graph of A × B in the XY plane 
+ 
+Solution 
+𝐴× 𝐵
+= {(1, −2) … , (1,0) … , (1,3), … (1.5, 2), … (1.5,0), … , (1.5,3), … (2, −2), … (2,0) … , (2,3)} 
+ 
+ 
+The graph is a rectangular figure with vertices,  
+(1, -2), (3, -2), (3, 3) and (1, 3) 
+ 
+This was solved in class but solve it and see if you get the concept 
+And also try to prove the rest of the De Morgan’s Laws 
+If 𝐴= {𝑥≤2} 𝑎𝑛𝑑 𝐵= {−1 ≤𝑥≤3} 
+ 
+Find A × B and hence sketch a graph of A × B and describe the type of graph drawn.

@@ -1,0 +1,5960 @@
+
+--- PAGE 1 ---
+684 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+13 
+Universal Gravitation 
+ 
+CHAPTER OUTLINE 
+ 
+13.1 
+Newton’s Law of Universal Gravitation 
+13.2 
+Free-Fall Acceleration and the Gravitational Force 
+13.3 
+Analysis Model: Particle in a Field (Gravitational) 
+13.4 
+Kepler’s Laws and the Motion of Planets 
+13.5 
+Gravitational Potential Energy 
+13.6 
+Energy Considerations in Planetary and Satellite Motion 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ13.1 
+Answer (c). Ten terms are needed in the potential energy: 
+ 
+ 
+U = U12 + U13 + U14 + U15 + U23 + U24 + U25 + U34 + U35 + U45 
+OQ13.2 
+The ranking is a > b = c. The gravitational potential energy of the 
+Earth-Sun system is negative and twice as large in magnitude as the 
+kinetic energy of the Earth relative to the Sun. Then the total energy 
+is negative and equal in absolute value to the kinetic energy.  
+OQ13.3 
+Answer (d). The satellite experiences a gravitational force, always 
+directed toward the center of its orbit, and supplying the centripetal 
+force required to hold it in its orbit. This force gives the satellite a 
+centripetal acceleration, even if it is moving with constant angular 
+speed. At each point on the circular orbit, the gravitational force is 
+directed along a radius line of the path, and is perpendicular to the 
+motion of the satellite, so this force does no work on the satellite. 
+OQ13.4 
+Answer (d). Having twice the mass would make the surface 
+gravitational field two times larger. But the inverse square law says 
+that having twice the radius would make the surface acceleration due 
+to gravitation four times smaller. Altogether, g at the surface of B
+
+--- PAGE 2 ---
+Chapter 13     685 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+becomes (2 m/s
+2)(2)/4 = 1 m/s
+2. 
+OQ13.5 
+Answer (b). Switching off gravity would let the atmosphere 
+evaporate away, but switching off the atmosphere has no effect on 
+the planet’s gravitational field. 
+OQ13.6 
+Answer (b). The mass of a spherical body of radius R and 
+density ρ is M = ρV = ρ(4πR
+3/3). The escape velocity from the 
+surface of this body may then be written in either of the following 
+equivalent forms: 
+ 
+ 
+vesc =
+2GM
+R
+    and vesc =
+2G
+R
+4πρR3
+3
+⎛
+⎝⎜
+⎞
+⎠⎟=
+8πρGR2
+3
+ 
+ 
+We see that the escape velocity depends on the three properties 
+(mass, density, and radius) of the planet. Also, the weight of an 
+object on the surface of the planet is Fg = mg = GMm/R
+2, giving 
+ 
+ 
+g = GM R2 = G
+R2 ρ 4πR3
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 4
+3 πρGR 
+ 
+The free-fall acceleration at the planet’s surface then depends on the 
+same properties as does the escape velocity. Changing the value of g 
+would necessarily change the escape velocity. Of the listed 
+quantities, the only one that does not affect the escape velocity is the 
+mass of the object. 
+OQ13.7 
+(i) 
+Answer (e). According to the inverse square law, 1/4
+2 = 16 times 
+smaller. 
+ 
+(ii) Answer (c). mv
+2/r = GMm/r
+2 predicts that v is proportional to 
+(1/r)
+1/2, so it becomes (1/4)
+1/2 = 1/2 as large. 
+ 
+(iii) Answer (a). According to Kepler’s third law, (4
+3)
+1/2 = 8 times 
+larger; also, the circumference is 4 times larger and the speed 
+1/2 as large: 4/(1/2) = 8. 
+OQ13.8 
+Answer (b). The Earth is farthest from the sun around July 4 every 
+year, when it is summer in the northern hemisphere and winter in 
+the southern hemisphere. As described by Kepler’s second law, this 
+is when the planet is moving slowest in its orbit. Thus it takes more 
+time for the planet to plod around the 180° span containing the 
+minimum-speed point. 
+OQ13.9 
+The ranking is b > a > c = d > e. The force is proportional to the 
+product of the masses and inversely proportional to the square of the 
+separation distance, so we compute m1m2/r
+2 for each case: (a) 2·3/1
+2 = 
+6 (b) 18 (c) 18/4 = 4.5 (d) 4.5 (e) 16/4 = 4.
+
+--- PAGE 3 ---
+686     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ13.10 
+Answer (c). The International Space Station orbits just above the 
+atmosphere, only a few hundred kilometers above the ground. This 
+distance is small compared to the radius of the Earth, so the 
+gravitational force on the astronaut is only slightly less than on the 
+ground. We might think the gravitational force is zero or nearly zero, 
+because the orbiting astronauts appear to be weightless. They and the 
+space station are in free fall, so the normal force of the space station’s 
+wall/floor/ceiling on the astronauts is zero; they float freely around 
+the cabin. 
+OQ13.11 
+Answer (e). We assume that the elliptical orbit is so elongated that 
+the Sun, at one focus, is almost at one end of the major axis. If the 
+period, T, is expressed in years and the semimajor axis, a, in 
+astronomical units (AU), Kepler’s third law states that T
+2 = a
+3. 
+Thus, for Halley’s comet, with a period of T = 76 y, the semimajor 
+axis of its orbit is 
+ 
+ 
+a =
+76
+(
+)
+2
+3
+= 18 AU 
+ 
+The length of the major axis, and the approximate maximum distance 
+from the Sun, is 2a = 36 AU. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ13.1 
+(a) The gravitational force is conservative. (b) Yes. An encounter with 
+a stationary mass cannot permanently speed up a spacecraft. But 
+Jupiter is moving. A spacecraft flying across its orbit just behind the 
+planet will gain kinetic energy because of the change in potential 
+energy of the spacecraft-planet system. This is a collision because the 
+spacecraft and planet exert forces on each other while they are 
+isolated from outside forces. It is an elastic collision because only 
+conservative forces are involved. (c) The planet loses kinetic energy 
+as the spacecraft gains it. 
+CQ13.2 
+Cavendish determined G. Then from g = GM
+R2 , one may determine 
+the mass of the Earth. The term “weighed” is better expressed as 
+“massed.” 
+CQ13.3 
+For a satellite in orbit, one focus of an elliptical orbit, or the center of 
+a circular orbit, must be located at the center of the Earth. If the 
+satellite is over the northern hemisphere for half of its orbit, it must 
+be over the southern hemisphere for the other half. We could share 
+with Easter Island a satellite that would look straight down on 
+Arizona each morning and vertically down on Easter Island each
+
+--- PAGE 4 ---
+Chapter 13     687 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+evening. 
+CQ13.4 
+(a) 
+Every point q on the sphere that does not lie along the axis 
+connecting the center of the sphere and the particle will have 
+companion point q' for which the components of the 
+gravitational force perpendicular to the axis will cancel. Point  q' 
+can be found by rotating the sphere through 180° about the axis. 
+ 
+(b) The forces will not necessarily cancel if the mass is not 
+uniformly distributed, unless the center of mass of the 
+nonuniform sphere still lies along the axis. 
+ 
+ANS. FIG. CQ13.4 
+CQ13.5 
+The angular momentum of a planet going around a sun is 
+conserved. (a) The speed of the planet is maximum at closest 
+approach. (b) The speed is a minimum at farthest distance. These two 
+points, perihelion and aphelion respectively, are 180° apart, at 
+opposite ends of the major axis of the orbit. 
+CQ13.6 
+Set the universal description of the gravitational force, Fg = GMXm
+RX
+2
+, 
+equal to the local description, Fg = magravitational, where Mx and Rx are 
+the mass and radius of planet X, respectively, and m is the mass of a 
+“test particle.” Divide both sides by m. 
+CQ13.7 
+(a) 
+In one sense, ‘no’. If the object is at the very center of the Earth 
+there is no other mass located there for comparison and the 
+formula does not apply in the same way it was being applied 
+while the object was some distance from the center. In another 
+sense, ‘yes’. One would have to compare, though, the distance 
+between the object with mass m to the other individual masses 
+that make up the Earth. 
+ 
+(b) The gravitational force of the Earth on an object at its center 
+must be zero, not infinite as one interpretation of Equation 11.1 
+would suggest. All the bits of matter that make up the Earth 
+pull in different outward directions on the object, causing the 
+net force on it to be zero. 
+CQ13.8 
+The escape speed from the Earth is 11.2 km/s and that from the
+
+--- PAGE 5 ---
+688     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Moon is 2.3 km/s, smaller by a factor of 5. The energy required—and 
+fuel—would be proportional to v
+2, or 25 times more fuel is required 
+to leave the Earth versus leaving the Moon. 
+CQ13.9 
+Air resistance causes a decrease in the energy of the satellite-Earth 
+system. This reduces the radius of the orbit, bringing the satellite 
+closer to the surface of the Earth. A satellite in a smaller orbit, 
+however, must travel faster. Thus, the effect of air resistance is to 
+speed up the satellite! 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 13.1 
+Newton’s Law of Universal Gravitation 
+P13.1 
+This is a direct application of the equation expressing Newton’s law of 
+gravitation: 
+ 
+ 
+ 
+F = GMm
+r2
+= 6.67 × 10−11 N ⋅m2/kg2
+(
+)
+1.50 kg
+(
+) 15.0 × 10−3 kg
+(
+)
+4.50 × 10−2 m
+(
+)
+2
+= 7.41 × 10−10 N
+ 
+P13.2 
+For two 70-kg persons, modeled as spheres, 
+ 
+ 
+Fg = Gm1m2
+r2
+= 6.67 × 10−11 N⋅m2/kg2
+(
+) 70 kg
+(
+) 70 kg
+(
+)
+2 m
+(
+)
+2
+~ 10−7 N
+ 
+P13.3 
+(a) 
+At the midpoint between the two objects, the forces exerted by the 
+200-kg and 500-kg objects are oppositely directed, 
+ 
+ 
+and from 
+Fg = Gm1m2
+r2
+ 
+ 
+ 
+we have 
+F
+∑
+= G 50.0 kg
+(
+) 500 kg −200 kg
+(
+)
+2.00 m
+(
+)
+2
+= 2.50 × 10−7 N 
+toward the 500-kg object.  
+ 
+ (b) At a point between the two objects at a distance d from the 
+500-kg object, the net force on the 50.0-kg object will be zero 
+when  
+ 
+ 
+ 
+ 
+G 50.0 kg
+(
+) 200 kg
+(
+)
+4.00 m −d
+(
+)
+2
+= G 50.0 kg
+(
+) 500 kg
+(
+)
+d2
+
+--- PAGE 6 ---
+Chapter 13     689 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+To solve, cross-multiply to clear of fractions and take the square 
+root of both sides. The result is 
+d = 2.45 m  from the 500-kg object toward the smaller object . 
+P13.4 
+(a) 
+The Sun-Earth distance is 1.496 × 10
+11 m and the Earth-Moon 
+distance is 3.84 × 10
+8 m, so the distance from the Sun to the Moon 
+during a solar eclipse is  
+ 
+ 
+ 
+1.496 × 10
+11 m − 3.84 × 10
+8 m = 1.492 × 10
+11 m 
+ 
+ 
+The mass of the Sun, Earth, and Moon are 
+ 
+ 
+ 
+ 
+MS = 1.99 × 1030 kg 
+ 
+ 
+ 
+ME = 5.98 × 1024 kg 
+ 
+ 
+and MM = 7.36 × 1022 kg 
+ 
+ 
+We have  
+ 
+ 
+  
+FSM = Gm1m2
+r2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 1.99 × 1030 kg
+(
+) 7.36 × 1022 kg
+(
+)
+1.492 × 1011 m
+(
+)
+2
+= 4.39 × 1020 N
+ 
+ 
+(b) 
+FEM =
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 7.36 × 1022 kg
+(
+)
+3.84 × 108 m
+(
+)
+2
+= 1.99 × 1020 N
+ 
+ 
+ (c) FSE =
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 1.99 × 1030 kg
+(
+) 5.98 × 1024 kg
+(
+)
+1.496 × 1011 m
+(
+)
+2
+= 3.55 × 1022 N
+ 
+ 
+(d) 
+The force exerted by the Sun on the Moon is much stronger than
+the force of the Earth on the Moon. In a sense, the Moon orbits the
+Sun more  than it orbits the Earth. The Moon’s path is everywhere
+concave toward the Sun. Only by subtracting out the solar orbital
+motion of the Earth-Moon system do we see the Moon orbiting
+the center of mass of this system.
+
+--- PAGE 7 ---
+690     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.5 
+With one metric ton = 1 000 kg, 
+ 
+ 
+ 
+F = m1g = Gm1m2
+r2
+ 
+ 
+ 
+ 
+g = Gm2
+r2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 4.00 × 107 kg
+(
+)
+100 m
+(
+)
+2
+= 2.67 × 10−7 m/s2
+ 
+P13.6 
+The force exerted on the 4.00-kg mass by the 
+2.00-kg mass is directed upward and given 
+by 
+ 
+ 
+ 
+
+F12 = G m2m1
+r12
+2
+ˆj
+= 6.67 × 10−11 N⋅m2/kg2
+(
+)
+              4.00 kg
+(
+) 2.00 kg
+(
+)
+3.00 m
+(
+)
+2
+ˆj
+= 5.93 × 10−11ˆj N
+ 
+ 
+The force exerted on the 4.00-kg mass by the 6.00-kg mass is directed to 
+the left:  
+ 
+ 
+ 
+
+F32 = G m2m3
+r32
+2
+−ˆi
+( )
+= −6.67 × 10−11 N⋅m2/kg2
+(
+)
+4.00 kg
+(
+) 6.00 kg
+(
+)
+4.00 m
+(
+)
+2
+ˆi
+= −10.0 × 10−11ˆi N
+ 
+  
+Therefore, the resultant force on the 4.00-kg mass is  
+ 
+ 
+ 
+
+F4 =
+
+F24 +
+
+F64 = 
+−10.0ˆi + 5.93ˆj
+(
+) × 10−11 N  
+*P13.7 
+The magnitude of the gravitational force is given by 
+ 
+ 
+ 
+F = Gm1m2
+r2
+= 6.672 × 10−11 N · m2/kg2
+(
+) 2.00 kg
+(
+) 2.00 kg
+(
+)
+0.300 m
+(
+)2
+= 2.97 × 10−9 N
+ 
+P13.8 
+Assume the masses of the sphere are the same. Using Fg = Gm1m2
+r2
+, we 
+would find that the mass of a sphere is 1.22 × 10
+5 kg! If the spheres 
+have at most a radius of 0.500 m, the density of spheres would be at 
+ANS. FIG. P13.6
+
+--- PAGE 8 ---
+Chapter 13     691 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+least 2.34 × 10
+5 kg/m
+3, which is ten times the density of the most dense 
+element, osmium.  
+ 
+The situation is impossible because no known element could compose
+the spheres.
+ 
+P13.9 
+We are given m1 + m2 = 5.00 kg, which means that m2 = 5.00 kg − m1. 
+Newton’s law of universal gravitation then becomes 
+ 
+ 
+F = G m1m2
+r2
+      ⇒1.00 × 10−8 N
+                  = 6.67 × 10−11 N⋅m2/kg2
+(
+)
+m1 5.00 kg −m1
+(
+)
+0.200 m
+(
+)
+2
+      5.00 kg
+(
+)m1 −m1
+2 = 1.00 × 10−8 N
+(
+) 0.040 0 m2
+(
+)
+6.67 × 10−11 N⋅m2/kg2
+= 6.00 kg2
+ 
+ 
+Thus, 
+m1
+2 −5.00 kg
+(
+)m1 + 6.00 kg = 0 
+ 
+or 
+m1 −3.00 kg
+(
+) m1 −2.00 kg
+(
+) = 0 
+ 
+giving m1 = 3.00 kg, so m2 = 2.00 kg . The answer m1 = 2.00 kg and  
+m2 = 3.00 kg is physically equivalent. 
+P13.10 
+Let θ represent the angle each cable makes with the 
+vertical, L the cable length, x the distance each ball is 
+displaced by the gravitational force, and d = 1 m the 
+original distance between them. Then r = d − 2x is the 
+separation of the balls. We have  
+ 
+ 
+ 
+Fy
+∑
+= 0:
+T cosθ −mg = 0
+Fx
+∑
+= 0:
+T sinθ −Gmm
+r2
+= 0
+ 
+ 
+Then 
+tanθ = Gmm
+r2mg 
+ 
+ 
+ 
+x
+L2 −x2 =
+Gm
+g d −2x
+(
+)
+2
+→    x d −2x
+(
+)
+2 = Gm
+g
+L2 −x2 
+ANS. FIG. P13.10
+
+--- PAGE 9 ---
+692     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The factor Gm
+g
+ is numerically small. We expect that x is very small 
+compared to both L and d, so we can treat the term (d − 2x) as d, and  
+(L
+2 − x
+2) as L
+2. We then have 
+ 
+ 
+ 
+x 1 m
+(
+)
+2 =
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 100 kg
+(
+)
+9.80 m/s2
+(
+)
+45.00 m
+(
+)
+x = 3.06 × 10−8 m
+ 
+ 
+ 
+ 
+Section 13.2 
+Free-Fall Acceleration and the Gravitational Force 
+P13.11 
+The distance of the meteor from the center of Earth is R + 3R = 4R. 
+Calculate the acceleration of gravity at this distance. 
+ 
+ 
+ 
+g = GM
+r2
+= (6.67 × 10−11 N ⋅m2/kg2)(5.98 × 1024 kg)
+[4(6.37 × 106 m)]2
+= 0.614 m/s2, towardEarth
+ 
+P13.12 
+The gravitational field at the surface of the Earth or Moon is given by 
+g = GM
+R2 .
+ 
+ 
+ 
+The expression for density is ρ = M
+V =
+M
+4
+3πR3 , 
+ 
+so 
+ 
+M = 4
+3πρR3 
+ 
+and  
+g =
+G 4
+3πρR3
+⎛
+⎝
+⎞
+⎠
+R2
+= 4
+3GπρR 
+ 
+ 
+Noting that this equation applies to both the Moon and the Earth, and 
+dividing the two equations, 
+ 
+ 
+ 
+ 
+gM
+gE =
+4
+3GπρMRM
+4
+3GπρERE
+= ρMRM
+ρERE
+
+--- PAGE 10 ---
+Chapter 13     693 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting for the fractions, 
+ 
+ 
+ 
+1
+6 = ρM
+ρE
+1
+4( )
+and   ρM
+ρE = 4
+6 = 2
+3
+ 
+P13.13 
+(a) 
+For the gravitational force on an object in the neighborhood of 
+Miranda, we have 
+ 
+ 
+ 
+mobjg =
+GmobjmMiranda
+rMiranda
+2
+g = GmMiranda
+rMiranda
+2
+=
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 6.68 × 1019 kg
+(
+)
+242 × 103 m
+(
+)
+2
+  = 0.076 1 m/s2
+ 
+ 
+(b) We ignore the difference (of about 4%) in g between the lip and 
+the base of the cliff. For the vertical motion of the athlete, we have 
+ 
+ 
+ 
+y f = yi + vyi + 1
+2 ayt2
+−5 000 m = 0 + 0 + 1
+2 −0.076 1 m/s2
+(
+)t2
+t =
+2 5 000 m
+(
+)s2
+0.076 1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= 363 s
+ 
+ 
+(c) 
+x f = xi + vxit + 1
+2 axt2 = 0 + 8.50 m/s
+(
+) 363 s
+(
+)+ 0 = 3.08 × 103 m 
+ 
+ 
+We ignore the curvature of the surface (of about 0.7°) over the 
+athlete’s trajectory. 
+ 
+(d) 
+vxf = vxi = 8.50 m/s 
+ 
+ 
+vyf = vyi + ayt = 0 −0.076 1 m/s2
+(
+) 363 s
+(
+) = −27.6 m/s 
+ 
+ 
+Thus v f = 8.50ˆi −27.6ˆj
+(
+) m/s =
+8.502 + 27.62 m/s at 
+tan−1 27.6 m/s
+8.50 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= 72.9° below the x axis. 
+ 
+ 
+v f = 28.9 m/s at 72.9° below the horizontal
+
+--- PAGE 11 ---
+694     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 13.3 
+Analysis Model: Particle in a Field (Gravitational) 
+P13.14 
+(a) 
+g1 = g2 =
+MG
+r2 + a2 
+ 
+ 
+g1y = −g2y 
+ 
+ 
+ 
+gy = g1y + g2y = 0 
+ 
+ 
+g1x = g2x = g2 cosθ 
+ 
+ 
+cosθ =
+r
+a2 + r2
+(
+)
+1/2 
+ 
+ 
+ 
+g = 2g2x −ˆi
+(
+) 
+ 
+ 
+or 
+g =
+2MGr
+r2 + a2
+(
+)
+3 2 toward the center of mass 
+ 
+(b) 
+At r = 0, the fields of the two objects are equal in magnitude and
+opposite in direction, to add to zero.
+ 
+ 
+(c) 
+As r →0, 2MGr(r2 + a2)−3/2 approaches 2MG(0)/a3 = 0. 
+ 
+(d) 
+When r is much greater than a, the angles the field vectors make
+with the x axis become smaller. At very great distances, the field
+vectors are almost parallel to the axis; therefore, they begin to
+look like the field vector from a single object of mass 2M.
+ 
+ 
+(e) 
+As r becomes much larger than a, the expression approaches
+2MGr(r2 + 02)−3/2 = 2MGr/r3 = 2MG/r2 as required.
+ 
+P13.15 
+The vector gravitational field at point O is given by 
+ 
+ 
+g = Gm
+l2 ˆi + Gm
+l2 ˆj + Gm
+2l2 cos45.0°ˆi + sin 45.0ˆj
+(
+) 
+ 
+so  
+g = Gm
+l2
+1+
+1
+2 2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi + ˆj
+(
+) or 
+ 
+g = Gm
+l2
+2 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟toward the opposite corner. 
+ANS. FIG. P13.14
+
+--- PAGE 12 ---
+Chapter 13     695 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P13.15 
+P13.16 
+(a) 
+F = GMm
+r2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 100 1.99 × 1030 kg
+(
+) 103 kg
+(
+)
+⎡⎣
+⎤⎦
+1.00 × 104 m + 50.0 m
+(
+)
+2
+= 1.31× 1017 N
+ 
+ 
+(b) 
+ΔF = GMm
+rfront
+2
+−GMm
+rback
+2
+ 
+ 
+ 
+Δg = ΔF
+m =
+GM rback
+2
+−rfront
+2
+(
+)
+rfront
+2
+rback
+2
+ 
+ 
+ 
+Δg = 6.67 × 10−11 N ⋅m2/kg2
+(
+)
+          
+100 1.99 × 1030 kg
+(
+)
+⎡⎣
+⎤⎦
+1.01× 104 m
+(
+)
+2 −1.00 × 104 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+1.00 × 104 m
+(
+)
+2 1.01× 104 m
+(
+)
+2
+Δg = 2.62 × 1012 N/kg
+ 
+ 
+ 
+ 
+Section 13.4 
+Kepler’s Laws and the Motion of Planets 
+P13.17 
+The gravitational force on mass located at distance r from the center of 
+the Earth is Fg = mg = GMEm/r2. Thus, the acceleration of gravity at 
+this location is g = GME/r2. If g = 9.00 m/s
+2 at the location of the 
+satellite, the radius of its orbit must be 
+ 
+ 
+r =
+GME
+g
+=
+6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+9.00 m/s2
+= 6.66 × 106 m
+ 
+ 
+From Kepler’s third law for Earth satellites, T 2 = 4π 2r3GMES, the 
+period is found to be 
+ANS. FIG. P13.16
+
+--- PAGE 13 ---
+696     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+T = 2π
+r3
+GME
+= 2π
+6.66 × 106 m
+(
+)
+3
+6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+= 5.41× 103 s
+ 
+ 
+or 
+ 
+ 
+T = 5.41× 103 s
+(
+)
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.50 h = 90.0 min 
+P13.18 
+The gravitational force exerted by Jupiter on Io causes the centripetal 
+acceleration of Io. A force diagram of the satellite would show one 
+downward arrow. 
+ 
+ 
+ 
+Fon Io
+∑
+= MIoa:    GMJMIo
+r2
+= MIov2
+r
+= MIo
+r
+2πr
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4π 2rMIo
+T 2
+ 
+ 
+Thus the mass of Io divides out and we have Kepler’s third law with  
+m << M, 
+ 
+ 
+ 
+MJ = 4π 2r3
+GT 2 =
+4π 2(4.22 × 108m)3
+(6.67 × 10−11N⋅m2/kg2)(1.77 d)2
+1 d
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+and  
+MJ = 1.90 × 1027 kg (approximately 316 Earth masses)  
+P13.19 
+(a) 
+The desired path is an elliptical trajectory with the Sun at one of 
+the foci, the departure planet at the perihelion, and the target 
+planet at the aphelion. The perihelion distance rD is the radius of 
+the departure planet’s orbit, while the aphelion distance rT is the 
+radius of the target planet’s orbit. The semimajor axis of the 
+desired trajectory is then a = rD + rT
+(
+)/2. 
+ 
+ANS. FIG. P13.19 
+ 
+ 
+If Earth is the departure planet, rD = 1.496 × 1011 m = 1.00 AU
+
+--- PAGE 14 ---
+Chapter 13     697 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+With Mars as the target planet, 
+ 
+ 
+ 
+rT = 2.28 × 1011 m
+1 AU
+1.496 × 1011 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.52 AU 
+ 
+ 
+Thus, the semimajor axis of the minimum energy trajectory is 
+ 
+ 
+ 
+a = rD + rT
+2
+= 1.00 AU + 1.52 AU
+2
+= 1.26 AU 
+ 
+ 
+Kepler’s third law, T
+2 = a
+3, then gives the time for a full trip 
+around this path as 
+ 
+ 
+ 
+T =
+a3 =
+1.26 AU
+(
+)
+3 = 1.41 yr 
+ 
+ 
+so the time for a one-way trip from Earth to Mars is 
+ 
+ 
+ 
+Δt = 1
+2 T = 1.41 yr
+2
+= 0.71 yr 
+ 
+(b) 
+This trip cannot be taken at just any time. The departure must
+be timed so that the spacecraft arrives at the aphelion when the
+target planet is located there.
+ 
+P13.20 
+(a) 
+The particle does possess angular momentum, because it is
+not headed straight for the origin.
+ 
+ 
+(b) 
+Its angular momentum is constant. There are no identified
+outside influences acting on the object.
+ 
+ 
+(c) 
+Since speed is constant, the distance traveled between tA and
+tB is equal to the distance traveled between tC and tD. The area
+of a triangle is equal to one-half its (base) width across one side
+times its (height) dimension perpendicular to that side.
+So   1
+2 bv0 tB −tA
+(
+) = 1
+2 bv0 tD −tC
+(
+)
+states that the particle’s radius vector sweeps out equal areas in
+equal times.
+
+--- PAGE 15 ---
+698     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.21 
+Applying Newton’s second law, 
+F
+∑
+= ma yields 
+Fg = mac for each star:  
+ 
+ 
+ 
+GMM
+2r
+(
+)
+2 = Mv2
+r
+      or 
+M = 4v2r
+G
+ 
+ 
+We can write r in terms of the period, T, by 
+considering the time and distance of one complete 
+cycle. The distance traveled in one orbit is the 
+circumference of the stars’ common orbit, so 
+2πr = vT. Therefore, 
+ 
+ 
+ 
+M = 4v2r
+G
+= 4v2
+G
+vT
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+so,  
+M = 2v3T
+πG = 2 220 × 103 m/s
+(
+)
+3 14.4 d
+(
+) 86 400 s/d
+(
+)
+π 6.67 × 10−11 N⋅m2/kg2
+(
+)
+= 1.26 × 1032 kg = 63.3 solar masses
+  
+P13.22 
+To find the angular displacement of planet Y, we 
+apply Newton’s second law: 
+ 
+ 
+ 
+F = ma
+∑
+:   
+GmplanetMstar
+r2
+=
+mplanetv2
+r
+ 
+ 
+Then, using v = rω,  
+ 
+ 
+ 
+GMstar
+r
+= v2 = r2ω 2
+GMstar = r3ω 2 = rx
+3ω x
+2 = ry
+3ω y
+2
+ 
+ 
+solving for the angular velocity of planet Y gives 
+ 
+ 
+ω y = ω x
+rx
+ry
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+=
+90.0°
+5.00yr
+⎛
+⎝⎜
+⎞
+⎠⎟33 2 = 468°
+5.00yr
+ 
+ 
+So, given that there are 360° in one revolution we 
+convert 468° to find that planet Y has turned through 
+1.30 revolutions . 
+ANS. FIG. P13.21 
+ANS. FIG. P13.22
+
+--- PAGE 16 ---
+Chapter 13     699 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.23 
+By Kepler’s third law, T
+2 = ka
+3 (a = semimajor 
+axis). For any object orbiting the Sun, with T in 
+years and a in AU, k = 1.00. Therefore, for 
+Comet Halley, and suppressing units, 
+ 
+ 
+ 
+(75.6)2 = (1.00) 0.570 + y
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 
+ 
+The farthest distance the comet gets from the 
+Sun is 
+ 
+ 
+ 
+y = 2 75.6
+(
+)
+2 3 −0.570 = 35.2 AU  
+ 
+(out around the orbit of Pluto). 
+*P13.24 
+By conservation of angular momentum for the satellite, rpvp = rava, or   
+ 
+ 
+ 
+vp
+va
+= ra
+rp
+= 2 289 km + 6.37 × 103 km
+459 km + 6.37 × 103 km = 8 659 km
+6 829 km = 1.27
+ 
+ 
+We do not need to know the period. 
+P13.25 
+For an object in orbit about Earth, Kepler’s third law gives the relation 
+between the orbital period T and the average radius of the orbit 
+(“semimajor axis”) as 
+ 
+ 
+ 
+T 2 =
+4π 2
+GME
+⎛
+⎝⎜
+⎞
+⎠⎟r3 
+ 
+We assume that the two given distances in the problem statements are 
+the perigee and apogee, respectively. 
+ 
+Thus, if the average radius is 
+ 
+ 
+ 
+r = rmin + rmax
+2
+= 6 670 km + 385 000 km
+2
+= 1.96 × 105 km = 1.96 × 108 m
+ 
+ 
+The period (time for a round trip from Earth to the Moon) would be 
+ 
+ 
+ 
+T = 2π
+r3
+GME
+= 2π
+1.96 × 108 m
+(
+)
+3
+6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+= 8.63 × 105 s
+ 
+ANS. FIG. P13.23
+
+--- PAGE 17 ---
+700     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The time for a one-way trip from Earth to the Moon is then 
+ 
+ 
+ 
+Δt = 1
+2 T =
+8.63 × 105 s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1day
+8.64 × 104 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.99 d
+ 
+P13.26 
+The gravitational force on a small parcel of material at the star’s 
+equator supplies the necessary centripetal acceleration: 
+ 
+ 
+ 
+GMsm
+Rs
+2
+= mv2
+Rs
+= mRsω 2 
+ 
+so 
+ 
+ω =
+GMs
+Rs
+3
+=
+6.67 × 10−11N ⋅m2/kg2
+(
+) 2 1.99 × 1030 kg
+(
+)
+⎡⎣
+⎤⎦
+10.0 × 103 m
+(
+)
+3
+ 
+ 
+ 
+ 
+ω = 1.63 × 104 rad/s 
+P13.27 
+We find the satellite’s altitude from 
+ 
+ 
+ 
+GMJ
+RJ + d
+(
+)
+2 =
+4π 2 RJ + d
+(
+)
+T 2
+ 
+ 
+where d is the altitude of the satellite above Jupiter’s cloud tops. Then, 
+ 
+ 
+ 
+GMJT 2 = 4π 2 RJ + d
+(
+)
+3
+6.67 × 10−11 N⋅m2/kg2
+(
+) 1.90 × 1027 kg
+(
+) 9.84 × 3 600
+(
+)
+2
+                                                           = 4π 2 6.99 × 107 + d
+(
+)
+3
+ 
+ 
+which gives 
+ 
+d = 8.92 × 107 m = 89 200 km above the planet 
+P13.28 
+(a) 
+In T
+2 = 4 π
+2a
+3/GMcentral we take a = 3.84 × 10
+8 m. 
+ 
+ 
+ 
+Mcentral = 4π 2a3
+GT 2
+=
+4π 2(3.84 × 108 m)3
+(6.67 × 10−11 N⋅m2/kg2)(27.3 × 86 400 s)2
+= 6.02 × 1024 kg
+ 
+ 
+ 
+This is a little larger than 5.98 × 10
+24 kg.
+
+--- PAGE 18 ---
+Chapter 13     701 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+The Earth wobbles a bit as the Moon orbits it, so both objects 
+move nearly in circles about their center of mass, staying on 
+opposite sides of it. The radius of the Moon’s orbit is therefore 
+a bit less than the Earth-Moon distance.
+ 
+P13.29 
+The speed of a planet in a circular orbit is given by  
+ 
+ 
+ 
+F
+∑
+= ma:
+GMsunm
+r2
+= mv2
+r
+→
+v =
+GMsun
+r
+ 
+ 
+(a) 
+For Mercury, the speed is 
+ 
+ 
+ 
+vM =
+(6.67 × 10−11 N ⋅m2/kg2)(1.99 × 1030 kg)
+5.79 × 1010 m
+= 4.79 × 104 m/s
+ 
+ 
+ 
+and for Pluto, 
+ 
+ 
+ 
+vp =
+(6.67 × 10−11 N ⋅m2/kg2)(1.99 × 1030 kg)
+5.91× 1012 m
+= 4.74 × 103 m/s
+ 
+ 
+ 
+With greater speed, Mercury will eventually move farther from 
+the Sun than Pluto. 
+ 
+(b) With original distances rP and rM perpendicular to their lines of 
+motion, they will be equally far from the Sun at time t, where  
+ 
+ 
+ 
+rP
+2 + vP
+2t2 =
+rM
+2 + vM
+2 t2
+rP
+2 −rM
+2 = vM
+2 −vP
+2
+(
+)t2
+t =
+5.91× 1012 m
+(
+)
+2 −5.79 × 1010 m
+(
+)
+2
+4.79 × 104 m/s
+(
+)
+2 −4.74 × 103 m/s
+(
+)
+2
+ =
+3.49 × 1025 m2
+2.27 × 109 m2/s2 = 1.24 × 108 s = 3.93 yr
+
+--- PAGE 19 ---
+702     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 13.5 
+Gravitational Potential Energy 
+P13.30 
+(a) 
+We compute the gravitational potential energy of the satellite-
+Earth system from 
+ 
+ 
+ 
+U = −GMEm
+r
+= −6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+6.37 + 2.00
+(
+)× 106 m
+= −4.77 × 109 J
+ 
+ 
+(b), (c) The satellite and Earth exert forces of equal magnitude on each 
+other, directed downward on the satellite and upward on Earth. 
+The magnitude of this force is  
+ 
+ 
+ 
+F = GMEm
+r2
+= 6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+8.37 × 106 m
+(
+)
+2
+= 569 N
+ 
+P13.31 
+The work done by the Moon’s gravitational field is equal to the 
+negative of the change of potential energy of the meteor-Moon system: 
+ 
+ 
+ 
+Wint = −ΔU = −−Gm1m2
+r
+−0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+Wint = (6.67 × 10−11 N ⋅m2/kg2)(7.36 × 1022 kg)(1.00 × 103 kg)
+1.74 × 106 m
+= 2.82 × 109 J
+ 
+*P13.32 
+The enery required is equal to the change in gravitational potential 
+energy of the object-Earth system: 
+ 
+ 
+ 
+U = −G Mm
+r
+ and g = GME
+RE
+2
+ so that 
+ 
+ 
+ 
+ΔU = −GMm
+1
+3RE
+−1
+RE
+⎛
+⎝⎜
+⎞
+⎠⎟= 2
+3 mgRE
+ΔU = 2
+3 1 000 kg
+(
+) 9.80 m s2
+(
+) 6.37 × 106 m
+(
+) = 4.17 × 1010 J
+
+--- PAGE 20 ---
+Chapter 13     703 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.33 
+(a) 
+The definition of density gives  
+ 
+ 
+ 
+ρ = MS
+4
+3πrE
+2 = 3 1.99 × 1030 kg
+(
+)
+4π 6.37 × 106 m
+(
+)
+3 = 1.84 × 109 kg/m3
+ 
+ 
+  
+(b) For an object of mass m on its surface, mg = GMS m/RE
+2. Thus, 
+ 
+ 
+ 
+g = GMS
+rE
+2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 1.99 × 1030 kg
+(
+)
+6.37 × 106 m
+(
+)
+2
+= 3.27 × 106 m/s2
+ 
+ 
+(c) 
+Relative to Ug = 0 at infinity, the potential energy of the object-star 
+system at the surface of the white dwarf is 
+ 
+ 
+ 
+Ug = −GMSm
+rE
+= −6.67 × 10−11 N⋅m2/kg2
+(
+) 1.99 × 1030 kg
+(
+) 1.00 kg
+(
+)
+6.37 × 106 m
+= −2.08 × 1013 J
+ 
+P13.34 
+(a) 
+Energy conservation of the object-Earth system from release to 
+radius r: 
+ 
+ 
+ 
+K +Ug
+(
+)altitude h = K +Ug
+(
+)radius r
+0 −GMEm
+RE + h = 1
+2 mv2 −GMEm
+r
+v = 2GME
+1
+r −
+1
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1/2
+= −dr
+dt
+ 
+ 
+(b) 
+dt
+i
+f
+∫
+=
+−dr
+v
+i
+f
+∫
+=
+dr
+v
+f
+i
+∫
+. The time of fall is, suppressing units, 
+ 
+ 
+ 
+Δt =
+2GME
+1
+r −
+1
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−1/2
+dr
+RE
+RE+h
+∫
+Δt = 2 × 6.67 × 10−11 × 5.98 × 1024
+(
+)
+−1/2
+                    × 
+1
+r −
+1
+6.87 × 106 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1/2
+dr
+6.37×106 m
+6.87×106 m
+∫
+
+--- PAGE 21 ---
+704     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We can enter this expression directly into a mathematical 
+calculation program.  
+ 
+ 
+Alternatively, to save typing we can change variables to u =
+r
+106 . 
+Then  
+ 
+ 
+ 
+Δt = 7.977 × 1014
+(
+)
+−1/2
+1
+106u −
+1
+6.87 × 106
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+106 du
+6.37
+6.87
+∫
+= 3.541× 10−8
+106
+106
+(
+)
+−1/2
+1
+u −
+1
+6.87
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+du
+6.37
+6.87
+∫
+ 
+ 
+ 
+A mathematics program returns the value 9.596 for this integral, 
+giving for the time of fall 
+ 
+ 
+ 
+Δt = 3.541 × 10−8 × 109 × 9.596 = 339.8 = 340 s  
+P13.35 
+(a) 
+Since the particles are located at the corners of an equilateral 
+triangle, the distances between all particle pairs is equal to  
+0.300 m. The gravitational potential energy of the system is then 
+ 
+ 
+ 
+UTot = U12 +U13 +U23 = 3U12 = 3 −Gm1m2
+r12
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+UTot = −3 6.67 × 10−11 N⋅m2/kg2
+(
+) 5.00 × 10−3 kg
+(
+)
+2
+0.300 m
+= −1.67 × 10−14 J
+ 
+ 
+(b) 
+Each particle feels a net force of attraction toward the midpoint
+between the other two. Each moves toward the center of the
+triangle with the same acceleration. They collide simultaneously
+at the center of the triangle.
+ 
+ 
+ 
+ 
+Section 13.6 
+Energy Considerations in  
+Planetary and Satellite Motion 
+P13.36 
+We use the isolated system model for energy: 
+ 
+ 
+ 
+Ki + Ui = Kf  + Uf
+
+--- PAGE 22 ---
+Chapter 13     705 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+1
+2 mvi
+2 + GMEm
+1
+rf
+−1
+ri
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 mv f
+2 
+ 
+which becomes 
+ 
+ 
+ 
+1
+2 vi
+2 +GME 0 −1
+RE
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 v f
+2
+ 
+ 
+or 
+ 
+v f
+2 = v1
+2 −2GME
+RE
+ 
+ 
+and  
+v f = v1
+2 −2GME
+RE
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+ 
+v f =
+2.00 × 104 m/s
+(
+)
+2 −2 6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.37 × 106 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+1/2
+= 1.66 × 104 m/s
+ 
+*P13.37 
+To determine the energy transformed to internal energy, we begin by 
+calculating the change in kinetic energy of the satellite. To find the 
+initial kinetic energy, we use 
+ 
+ 
+ 
+vi
+2
+RE + h =
+GME
+RE + h
+(
+)
+2 
+ 
+which gives  
+ 
+ 
+ 
+Ki = 1
+2 mvi
+2 = 1
+2
+GMEm
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1
+2
+6.67 × 10−11 N ⋅m2 kg2
+(
+) 5.98 × 1024 kg
+(
+) 500 kg
+(
+)
+6.37 × 106 m + 0.500 × 106 m
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.45 × 1010 J
+ 
+ 
+ 
+Also,  
+K f = 1
+2 mv f
+2 = 1
+2 500 kg
+(
+) 2.00 × 103 m s
+(
+)
+2 = 1.00 × 109 J.
+
+--- PAGE 23 ---
+706     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The change in gravitational potential energy of the satellite-Earth 
+system is 
+ 
+ 
+  
+ΔU = GMEm
+Ri
+−GMEm
+R f
+= GMEm
+1
+Ri
+−1
+R f
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.67 × 10−11 N ⋅m2 kg2
+(
+) 5.98 × 1024 kg
+(
+) 500 kg
+(
+)
+                                                          × −1.14 × 10−8 m−1
+(
+)
+= −2.27 × 109 J
+ 
+ 
+The energy transformed into internal energy due to friction is then 
+ 
+ 
+  
+ΔEint = Ki −K f −ΔU = 14.5 −1.00 + 2.27
+(
+)× 109 J
+= 1.58 × 1010 J
+ 
+P13.38 
+To obtain the orbital velocity, we use   
+ 
+ 
+ 
+ 
+F
+∑
+= mMG
+R2
+= mv2
+R
+ 
+ 
+or 
+ 
+v =
+MG
+R
+ 
+ 
+We can obtain the escape velocity from 
+ 
+ 
+ 
+ 
+1
+2 mvesc
+2 = mMG
+R
+ 
+ 
+or 
+ 
+vesc =
+2MG
+R
+=
+2v 
+P13.39 
+(a) 
+The total energy of the satellite-Earth system at a given orbital 
+altitude is given by 
+ 
+ 
+ 
+Etot = −GMm
+2r
+ 
+ 
+ 
+The energy needed to increase the satellite’s orbit is then, 
+suppressing units, 
+ 
+ 
+ 
+ΔE = GMm
+2
+1
+ri
+−1
+rf
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.67 × 10−11
+(
+) 5.98 × 1024
+(
+)
+2
+103 kg
+103 m
+1
+6 370 + 100 −
+1
+6 370 + 200
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔE = 4.69 × 108 J = 469 MJ
+
+--- PAGE 24 ---
+Chapter 13     707 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Both in the original orbit and in the final orbit, the total energy
+is negative, with an absolute value equal to the positive kinetic
+energy. The potential energy is negative and twice as large as
+the total energy. As the satellite is lifted from the lower to the
+higher orbit, the gravitational energy increases, the kinetic energy
+decreases, and the total energy increases. The value of each
+becomes closer to zero. Numerically, the gravitational energy
+increases by 938 MJ, the kinetic energy decreases by 469 MJ,
+and the total energy increases by 469 MJ.
+ 
+P13.40 
+(a) 
+The major axis of the orbit is 2a = 50.5 AU  so  a = 25.25 AU. 
+ 
+ 
+Further, in the textbook’s diagram of an ellipse, a + c = 50 AU,  
+so  c = 24.75 AU. Then 
+ 
+ 
+ 
+e = c
+a = 24.75
+25.25 = 0.980 
+ 
+(b) In T
+2 = Ks a
+3 for objects in solar orbit, the Earth gives us 
+ 
+ 
+ 
+1 yr
+(
+)
+2 = Ks 1 AU
+(
+)
+3 Ks =
+1 yr
+(
+)
+2
+1 AU
+(
+)
+3 
+ 
+ 
+Then 
+ 
+ 
+ 
+ 
+T 2 =
+1 yr
+(
+)
+2
+1 AU
+(
+)
+3 25.25 AU
+(
+)
+3     → T = 127 yr 
+ 
+(c) 
+U = −GMm
+r
+= −
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 1.99 × 1030 kg
+(
+) 1.20 × 1010 kg
+(
+)
+50 1.496 × 1011 m
+(
+)
+= −2.13 × 1017 J
+ 
+*P13.41 
+For her jump on Earth, 
+ 
+ 
+ 
+ 
+1
+2 mvi
+2 = mgy f 
+[1] 
+ 
+which gives 
+ 
+ 
+ 
+vi =
+2gy f =
+2 9.80 m/s
+(
+) 0.500 m
+(
+) = 3.13 m/s
+
+--- PAGE 25 ---
+708     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We assume that she has the same takeoff speed on the asteroid. Here 
+ 
+ 
+ 
+1
+2 mvi
+2 −GMAm
+RA
+= 0 + 0 
+[2]  
+ 
+The equality of densities between planet and asteroid,  
+ 
+ 
+ 
+ρ =
+ME
+4
+3π RE
+3 =
+MA
+4
+3π RA
+3
+  
+ 
+implies 
+ 
+ 
+ 
+ 
+MA =
+RA
+RE
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+ME 
+ 
+[3]  
+ 
+Note also at Earth’s surface 
+ 
+ 
+ 
+ 
+g = GME
+RE
+2
+ 
+[4] 
+ 
+Combining the equations [2], [1], [3], and [4] by substitution gives 
+ 
+ 
+ 
+1
+2 vi
+2 = GMA
+RA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GME
+RE
+2 y f = GMERA
+2
+RE
+3
+ 
+ 
+ 
+ 
+RA
+2 = y fRE = 0.500 m
+(
+) 6.37 × 106 m
+(
+) 
+ 
+ 
+ 
+RA = 1.78 × 103 m 
+*P13.42 
+For a satellite in an orbit of radius r around the Earth, the total energy 
+of the satellite-Earth system is E = −GME
+2r . Thus, in changing from a 
+circular orbit of radius r = 2RE to one of radius r = 3RE, the required 
+work is 
+ 
+ 
+ 
+W = ΔE = −GMEm
+2rf
++ GMEm
+2ri
+= GMEm
+1
+4RE
+−
+1
+6RE
+⎡
+⎣⎢
+⎤
+⎦⎥=
+GMEm
+12RE
+
+--- PAGE 26 ---
+Chapter 13     709 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P13.43 
+(a) 
+The work must provide the increase in gravitational energy: 
+ 
+ 
+ 
+W = ΔUg = Ugf −Ugi
+= −GMEMp
+rf
++ GMEMp
+ri
+= −GMEMp
+RE + y + GMEMp
+RE
+= GMEMp
+1
+RE
+−
+1
+RE + y
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+6.67 × 10−11 N ⋅m2
+kg2
+⎛
+⎝⎜
+⎞
+⎠⎟5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+                                   ×
+1
+6.37 × 106 m −
+1
+7.37 × 106 m
+(
+)
+W = 850 MJ
+ 
+ 
+(b) In a circular orbit, gravity supplies the centripetal force: 
+ 
+ 
+ 
+GMEMp
+RE + y
+(
+)
+2 = Mpv2
+RE + y 
+ 
+ 
+Then,  
+ 
+ 
+ 
+1
+2 Mpv2 = 1
+2
+GMEMp
+RE + y
+(
+)
+ 
+ 
+ 
+So, additional work = kinetic energy required is 
+ 
+ 
+ 
+ΔW = 1
+2
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+7.37 × 106 m
+= 2.71× 109 J
+ 
+P13.44 
+(a) 
+The escape velocity from the solar system, starting at Earth’s 
+orbit, is given by 
+ 
+ 
+ 
+vsolar escape =
+2MSunG
+RSun
+=
+2 1.99 × 1030 kg
+(
+) 6.67 × 10−11 N⋅m2 /kg2
+(
+)
+1.50 × 109 m
+= 42.1 km/s
+
+--- PAGE 27 ---
+710     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Let x represent the variable distance from the Sun. Then, 
+ 
+ 
+ 
+v =
+2MSunG
+x
+   →   x =
+v2
+2MSunG
+ 
+ 
+ 
+If v = 125 000 km
+3 600 s
+= 34.7 m/s, then  
+ 
+ 
+ 
+x =
+v2
+2MSunG =
+34.7 m/s
+(
+)
+2
+2 1.99 × 1030 kg
+(
+) 6.67 × 10−11 N⋅m2 /kg2
+(
+)
+= 2.20 × 1011 m
+ 
+ 
+ 
+Note that at or beyond the orbit of Mars, 125 000 km/h is 
+sufficient for escape. 
+P13.45 
+Fc = FG  gives mv2
+r
+= GmME
+r2
+ 
+ 
+which reduces to v =
+GME
+r
+ 
+ 
+and period = 2πr
+v
+= 2πr
+r
+GME
+. 
+ 
+(a) 
+r = RE + 200 km = 6 370 km + 200 km = 6 570 km 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+period = 2π 6.57 × 106 m
+(
+)
+                  ×
+6.57 × 106 m
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+T = 5.30 × 103 s = 88.3 min = 1.47 h
+ 
+ 
+(b) 
+v =
+GME
+r
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.57 × 106 m
+= 7.79 km/s
+ 
+ 
+(c) 
+K f +U f = Ki +Ui + energy input  gives  
+ 
+ 
+ 
+input = 1
+2 mv f
+2 −1
+2 mvi
+2 +
+−GMEm
+rf
+⎛
+⎝⎜
+⎞
+⎠⎟−
+−GMEm
+ri
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+[1]
+
+--- PAGE 28 ---
+Chapter 13     711 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ri = RE = 6.37 × 106 m
+vi =
+2πRE
+86 400 s = 4.63 × 102 m/s 
+ 
+ 
+Substituting the appropriate values into [1] yields: 
+minimum energy input = 6.43 × 109 J 
+P13.46 
+The gravitational force supplies the needed centripetal acceleration. 
+ 
+Thus, 
+GMEm
+RE + h
+(
+)
+2 = mv2
+RE + h 
+or 
+v2 = GME
+RE + h 
+ 
+(a) 
+T = 2πr
+v
+= 2π RE + h
+(
+)
+GME
+RE +h
+(
+)
+= 2π
+RE + h
+(
+)
+3
+GME
+  
+ 
+(b) 
+v =
+GME
+RE + h
+ 
+ 
+(c) 
+Minimum energy input is 
+ 
+ 
+ 
+ 
+ΔEmin = K f +Ugf
+(
+) −Ki −Ugi
+(
+) 
+ 
+ 
+This choice has the object starting with energy 
+ 
+ 
+ 
+ 
+Ki = 1
+2 mvi
+2 
+ 
+ 
+with vi =
+2πRE
+1.00 day =
+2πRE
+86 400 s    and 
+Ugi = −GMEm
+RE
+. 
+ 
+ 
+Thus, 
+ 
+ΔEmin = 1
+2 m
+GME
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟−GMEm
+RE + h −1
+2 m
+4π 2RE
+2
+86 400 s
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ GMEm
+RE
+ 
+ 
+ 
+or 
+ΔEmin = GMEm
+RE + 2h
+2RE RE + h
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥−
+2π 2RE
+2m
+86 400 s
+(
+)
+2 . 
+P13.47 
+(a) 
+Gravitational screening does not exist. The presence of the 
+satellite has no effect on the force the planet exerts on the 
+rocket.
+
+--- PAGE 29 ---
+712     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ (b) The rocket has a gravitational potential energy with respect to 
+Ganymede 
+ 
+ 
+ 
+U1 = −Gm1m2
+r
+= −
+6.67 × 10−11 N ⋅m2
+(
+)m2 1.495 × 1023 kg
+(
+)
+2.64 × 106 m
+(
+)kg2
+U1 = −3.78 × 106 m2/s2
+(
+)m2
+ 
+ 
+ 
+The rocket’s gravitational potential energy with respect to 
+Jupiter at the distance of Ganymede is  
+ 
+ 
+ 
+U2 = −Gm1m2
+r
+= −
+6.67 × 10−11 N ⋅m2
+(
+)m2 1.90 × 1027 kg
+(
+)
+1.071× 109 m
+(
+)kg2
+U2 = −1.18 × 108 m2 /s2
+(
+)m2
+ 
+ 
+ 
+To escape from both requires 
+ 
+ 
+ 
+1
+2 m2vesc
+2 = +
+3.78 × 106 + 1.18 × 108
+(
+) m2/s2
+⎡⎣
+⎤⎦m2
+vesc =
+2 × 1.22 × 108 m2 /s2
+(
+) = 15.6 km/s
+ 
+P13.48 
+(a) 
+For the satellite 
+F
+∑
+= ma; GmME
+r2
+= mvi
+2
+r
+ gives 
+ 
+ 
+ 
+vi =
+GME
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+ 
+ 
+(b) Conservation of momentum in the forward direction for the 
+exploding satellite gives: 
+ 
+ 
+ 
+mv
+∑
+(
+)i =
+mv
+∑
+(
+) f
+5mvi = 4mv + m0
+v = 5
+4 vi =
+5
+4
+GME
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+ 
+ 
+(c) 
+With velocity perpendicular to radius, the orbiting fragment is at 
+perigee. Its apogee distance and speed are related to r and v 
+by 4mrv = 4mrf vf  and 
+ 
+ 
+ 
+1
+2 4mv2 −GME4m
+r
+= 1
+2 4mv f
+2 −GME4m
+rf
+
+--- PAGE 30 ---
+Chapter 13     713 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting v f = vr
+rf
+ we have  
+ 
+ 
+ 
+1
+2 v2 −GME
+r
+= 1
+2
+v2r2
+rf
+2 −GME
+rf
+ 
+ 
+ 
+Further, substituting v2 = 25
+16
+GME
+r
+ gives 
+ 
+ 
+ 
+25
+32
+GME
+r
+−GME
+r
+= 25
+32
+GMEr
+rf
+2
+−GME
+rf
+−7
+32r = 25r
+32rf
+2 −1
+rf
+ 
+ 
+ 
+Clearing fractions we have −7rf
+2 = 25r2 −32rrf , or 
+7
+rf
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−32
+rf
+r
+⎛
+⎝⎜
+⎞
+⎠⎟+ 25 = 0  
+ 
+ 
+giving rf
+r = +32 ±
+322 −4 7( ) 25
+(
+)
+14
+= 50
+14
+ or 14
+14
+.  
+ 
+ 
+The latter root describes the starting point. 
+ 
+ 
+The outer end of the orbit has 
+rf
+r = 25
+7 :  rf = 25r
+7
+ 
+*P13.49 
+The height attained is not small compared to the radius of the Earth, so 
+U = mgy does not apply; U = −GM1M2
+r
+ does. From launch to apogee at 
+height h, conservation of energy gives 
+ 
+ 
+ 
+Ki +Ui + ΔEmech = K f +U f  
+ 
+ 
+ 
+1
+2 Mpvi
+2 −GMEMp
+RE
++ 0 = 0 −GMEMp
+RE + h
+ 
+ 
+The mass of the projectile cancels out, giving 
+ 
+ 
+ 
+1
+2 vi
+2 −GME
+RE
+= GME
+RE + h
+RE + h =
+GME
+1
+2 vi
+2 −GME
+RE
+
+--- PAGE 31 ---
+714     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+h =
+GME
+1
+2 vi
+2 −GME
+RE
+−RE
+=
+6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+1
+2 10.0 × 103 m/s
+(
+)
+2 −6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.37 × 106 m
+(
+)
+                                                                                    −6.37 × 106 m
+= 2.52 × 107 m
+ 
+ 
+ 
+ 
+Additional Problems 
+P13.50 
+(a) 
+When the rocket engine shuts off at an altitude of 250 km, we may 
+consider the rocket to be beyond Earth’s atmosphere. Then, its 
+mechanical energy will remain constant from that instant until it 
+comes to rest momentarily at the maximum altitude. That is, 
+KE f + PE f = KEi + PEi, or 
+ 
+ 
+ 
+0 −GME m
+rmax
+= 1
+2 mvi
+2 −GME m
+ri
+ 
+or 
+1
+rmax
+= −
+vi
+2
+2GME
++ 1
+ri
+ 
+ 
+ 
+With rl = RE + 250 km = 6.37 × 10
+6 m + 250 × 10
+3 m = 6.62 × 10
+6 m 
+and vi = 6.00 km/s = 6.00 × 10
+3 m/s, this gives 
+ 
+ 
+ 
+1
+rmax
+= −
+6.00 × 103 m/s
+(
+)
+2
+2 6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
++
+1
+6.62 × 106 m
+= 1.06 × 10−7 m−1
+ 
+ 
+ 
+or rmax = 9.44 × 10
+6 m. The maximum distance from Earth’s surface 
+is then 
+ 
+ 
+ 
+hmax = rmax – RE = 9.44 × 10
+6 m – 6.37 × 10
+6 m = 3.07 × 106m 
+ 
+(b) If the rocket were fired from a launch site on the equator, it would 
+have a significant eastward component of velocity because of the 
+Earth’s rotation about its axis. Hence, compared to being fired 
+from the South Pole, the rocket’s initial speed would be greater, 
+and the rocket would travel farther from Earth .
+
+--- PAGE 32 ---
+Chapter 13     715 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.51 
+For a 6.00-km diameter cylinder, r = 3 000 m and to simulate  
+1g = 9.80 m/s
+2,
+ 
+ 
+ 
+ 
+g = v2
+r = ω 2r
+ω =
+g
+r = 0.057 2 rad/s
+ 
+ 
+The required rotation rate of the cylinder is 1 rev
+110 s
+. 
+ 
+(For a description of proposed cities in space, see Gerard K. O’Neill 
+in Physics Today, Sept. 1974. and the Wikipedia article on “Rotating 
+Wheel Space Station at 
+http://en.wikipedia.org/wiki/Rotating_wheel_space_station)  
+*P13.52 
+To approximate the height of the sulfur, set mv2
+2
+= mgIoh, with  
+h = 70 000 m and gIo = GM
+r2
+= 1.79 m s2 . This gives 
+ 
+ 
+ 
+v =
+2gIoh =
+2 1.79 m/s2
+(
+) 70 000 m
+(
+)
+≈500 m s over 1 000 mi h
+(
+)
+ 
+ 
+We can obtain a more precise answer from conservation of energy: 
+ 
+ 
+ 
+1
+2 mv2 −GMm
+r1
+= −GMm
+r2
+ 
+ 
+ 
+ 
+1
+2 v2 = 6.67 × 10−11 N⋅m2 kg2
+(
+) 8.90 × 1022 kg
+(
+)
+                                   ×
+1
+1.82 × 106 m −
+1
+1.89 × 106 m
+(
+)
+ 
+ 
+ 
+ 
+ 
+v =
+492 m/s 
+*P13.53 
+(a) 
+The radius of the satellite’s orbit is  
+ 
+ 
+ 
+r = RE + h = 6.37 × 106 m + 2.80 × 106 m = 9.17 × 106 m  
+ 
+ 
+Then, modifying Kepler’s third law for orbital motion about the 
+Earth rather than the Sun, we have 
+ 
+ 
+ 
+T 2 =
+4π 2
+GME
+⎛
+⎝⎜
+⎞
+⎠⎟r3 =
+4π 2 9.17 × 106 m
+(
+)
+3
+6.67 × 10−11 N⋅m2 kg2
+(
+) 5.98 × 1024 kg
+(
+)
+= 7.63 × 107 s2
+
+--- PAGE 33 ---
+716     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+T = 8.74 × 103 s
+(
+)
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.43 h  
+ 
+(b) The constant tangential speed of the satellite is 
+ 
+ 
+ 
+v = 2πr
+T
+= 2π 9.17 × 106 m
+(
+)
+8.74 × 103 s
+= 6.60 × 103 m/s = 6.60 km/s
+  
+ 
+(c) 
+The satellite’s only acceleration is centripetal acceleration, so 
+ 
+ 
+ 
+a = ac = v2
+r = 6.60 × 103 m/s
+(
+)
+2
+9.17 × 106 m
+= 4.74 m/s2 toward the Earth
+  
+P13.54 
+If one uses the result v =
+GM
+r
+ and the relation v = (2π r/T), one finds 
+the radius of the orbit to be smaller than the radius of the Earth, so the 
+spacecraft would need to be in orbit underground. 
+P13.55 
+The acceleration of an object at the center of 
+the Earth due to the gravitational force of the 
+Moon is given by a = G MM
+d2 . 
+ 
+At the point A nearest the Moon, 
+ 
+ 
+ 
+a+ = G
+MM
+d −RE
+(
+)
+2
+ 
+ 
+At the point B farthest from the Moon, 
+ 
+ 
+ 
+ 
+a−= G
+MM
+d + RE
+(
+)
+2
+ 
+ 
+From the above, we have 
+ 
+ 
+ 
+ΔgM
+g
+= a+ −a−
+(
+)
+g
+= GMM
+g
+1
+d −RE
+(
+)
+2 −
+1
+d + RE
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+Evaluating this expression, we find across the planet  
+ 
+ΔgM
+g
+=
+6.67 × 10−11 N ⋅m2 kg2
+(
+) 7.36 × 1022 kg
+(
+)
+9.80 m/s2
+×
+1
+3.84 × 108 m −6.37 × 106 m
+(
+)
+2 −
+1
+3.84 × 108 m + 6.37 × 106 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 2.25 × 10−7
+ 
+ANS. FIG. P13.55
+
+--- PAGE 34 ---
+Chapter 13     717 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.56 
+(a) 
+The only force acting on the astronaut is the normal force exerted 
+on him by the “floor” of the cabin. The normal force supplies the 
+centripetal force: 
+ 
+ 
+ 
+Fc = mv2
+r
+   
+and 
+n = mg
+2 
+ 
+This gives 
+ 
+ 
+  
+mv2
+r
+= mg
+2 →v =
+gr
+2
+v =
+(9.80m/s2)(10.0m)
+2
+→v = 7.00 m/s
+ 
+ 
+ 
+Since v = rω, we have 
+ 
+ 
+ 
+ω = v
+r = 7.00 m/s
+10.0 m
+= 0.700 rad/s
+ 
+ 
+ANS. FIG. P13.56 
+ 
+(b) 
+Because his feet stay in place on the floor, his head will be
+moving at the same tangential speed as his feet. However,
+his feet and his head are travelling in circles of different radii.
+ 
+ 
+(c) 
+If he stands up without holding on to anything with his hands,
+the only force on his body is radial. Because the wall of the
+cabin near the traveler's head moves in a smaller circle, it
+moves at a slower  tangential speed than that of the traveler's
+head so his head moves toward the wall—if he is not careful,
+there could be a collision. This is an example of the Coriolis
+force investigated in Section 6.3. Holding onto to a rigid support
+with his hands will provide a tangential force to the traveler to
+slow the upper part of his body down.
+
+--- PAGE 35 ---
+718     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.57 
+(a) 
+Ignoring air resistance, the energy conservation for the object-
+Earth system from firing to apex is given by, 
+ 
+ 
+ 
+K +Ug
+(
+)i = K +Ug
+(
+) f
+1
+2 mvi
+2 −GmME
+RE
+= 0 −GmME
+RE + h
+ 
+ 
+ 
+where 1
+2 mvesc
+2 = GmME
+RE
+. Then  
+ 
+ 
+ 
+1
+2 vi
+2 −1
+2 vesc
+2 = −1
+2 vesc
+2
+RE
+RE + h
+vesc
+2 −vi
+2 = vesc
+2 RE
+RE + h
+ 
+ 
+ 
+ 
+1
+vesc
+2 −vi
+2 = RE + h
+vesc
+2 RE
+ 
+ 
+ 
+ 
+h =
+vesc
+2 RE
+vesc
+2 −vi
+2 −RE = vesc
+2 RE −vesc
+2 RE + vi
+2RE
+vesc
+2 −vi
+2
+h =
+REvi
+2
+vesc
+2 −vi
+2
+ 
+ 
+ 
+ 
+h =
+6.37 × 106 m
+(
+) 8.76 km/s
+(
+)
+2
+11.2 km/s
+(
+)
+2 −8.76 km/s
+(
+)
+2 = 1.00 × 107 m
+ 
+ 
+(b) The fall of the meteorite is the time-reversal of the upward flight 
+of the projectile, so it is described by the same energy equation:  
+ 
+ 
+ 
+vi
+2 = vesc
+2
+1−
+RE
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= vesc
+2
+h
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 11.2 × 103 m/s
+(
+)
+2
+2.51× 107 m
+6.37 × 106 m + 2.51× 107 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.00 × 108 m2 /s2
+vi = 1.00 × 104 m/s
+
+--- PAGE 36 ---
+Chapter 13     719 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.58 
+(a) 
+Ignoring air resistance, the energy conservation for the object-
+Earth system from firing to apex is given by, 
+ 
+ 
+ 
+K +Ug
+(
+)i = K +Ug
+(
+) f
+1
+2 mvi
+2 −GmME
+RE
+= 0 −GmME
+RE + h
+ 
+ 
+ 
+where 1
+2 mvesc
+2 = GmME
+RE
+. Then  
+ 
+ 
+ 
+1
+2 vi
+2 −1
+2 vesc
+2 = −1
+2 vesc
+2
+RE
+RE + h
+vesc
+2 −vi
+2 = vesc
+2 RE
+RE + h
+ 
+ 
+ 
+ 
+1
+vesc
+2 −vi
+2 = RE + h
+vesc
+2 RE
+ 
+ 
+ 
+ 
+h =
+vesc
+2 RE
+vesc
+2 −vi
+2 −RE = vesc
+2 RE −vesc
+2 RE + vi
+2RE
+vesc
+2 −vi
+2
+h =
+REvi
+2
+vesc
+2 −vi
+2
+ 
+ 
+(b) The fall of the meteorite is the time-reversal of the upward flight 
+of the projectile, so it is described by the same energy equation. 
+From (a) above, replacing vi with vf , we have 
+ 
+ 
+ 
+v f
+2 = vesc
+2 −vesc
+2
+RE
+RE + h
+v f
+2 = vesc
+2
+1−
+RE
+RE + h
+⎛
+⎝⎜
+⎞
+⎠⎟
+v f = vesc
+h
+RE + h
+ 
+ 
+(c) 
+With vi << vesc, h ≈REvi
+2
+vesc
+2
+= REvi
+2RE
+2GME
+. But g = GME
+RE
+2
+, so h = vi
+2
+2g
+, in 
+agreement with 02 = vi
+2 + 2 −g
+(
+) h −0
+(
+).
+
+--- PAGE 37 ---
+720     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.59 
+(a) 
+Let R represent the radius of the asteroid. Then its volume is 
+4
+3 π R3 and its mass is ρ 4
+3 π R3. For your orbital motion, 
+F
+∑
+= ma 
+gives  
+ 
+ 
+ 
+Gm1m2
+R2
+= m2v2
+R
+    →  Gρ4π R3
+3R2
+= v2
+R
+ 
+ 
+ 
+solving for R, 
+ 
+ 
+ 
+R =
+3v2
+Gρ4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+=
+3 8.50 m/s
+(
+)
+2
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 1 100 kg/m3
+(
+)4π
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1/2
+= 1.53 × 104 m
+ 
+ 
+(b) 
+ρ 4
+3 π R3 = 1 100 kg/m3
+(
+) 4
+3 π 1.53 × 104 m
+(
+)
+3 = 1.66 × 1016 kg 
+ 
+(c) 
+v = 2π R
+T
+T = 2π R
+v
+=
+2π 1.53 × 104 m
+(
+)
+8.5 m/s
+= 1.13 × 104 s = 3.15 h 
+ 
+(d) For an illustrative model, we take your mass as 90.0 kg and 
+assume the asteroid is originally at rest. Angular momentum is 
+conserved for the asteroid-you system: 
+ 
+ 
+ 
+Li
+∑
+=
+Lf
+∑
+0 = m2vR −Iω
+0 = m2vR −2
+5 m1R2
+2π
+Tasteroid
+m2v = 4π
+5
+m1R
+Tasteroid
+Tasteroid = 4π m1R
+5m2v =
+4π 1.66 × 1016 kg
+(
+) 1.53 × 104 m
+(
+)
+5 90.0 kg
+(
+) 8.50 m/s
+(
+)
+= 8.37 × 1017 s = 26.5 billion years
+ 
+ 
+ 
+Thus your running does not produce significant rotation of the
+asteroid if it is originally stationary and does not significantly
+affect any rotation it does have.
+ 
+ 
+ 
+This problem is realistic. Many asteroids, such as Ida and Eros, 
+are roughly 30 km in diameter. They are typically irregular in
+
+--- PAGE 38 ---
+Chapter 13     721 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+shape and not spherical. Satellites such as Phobos (of Mars), 
+Adrastea (of Jupiter), Calypso (of Saturn), and Ophelia (of Uranus) 
+would allow a visitor the same experience of easy orbital motion. 
+So would many Kuiper Belt objects.  
+P13.60 
+(a) 
+The two appropriate isolated system models are conservation
+of momentum and conservation of energy applied to the system
+consisting of the two spheres.
+ 
+ 
+(b) Applying conservation of momentum to the system, we find 
+ 
+ 
+ 
+m1
+v1i + m2
+v2i = m1
+v1 f + m2
+v2 f
+0 + 0 = M v1 f + 2M v2 f
+v1 f = −2v2 f
+ 
+ 
+(c) 
+Applying conservation of energy to the system, we find 
+ 
+ 
+ 
+Ki +Ui + ΔE = K f +U f
+0 −Gm1m2
+ri
++ 0 = 1
+2 m1v1 f
+2 + 1
+2 m2v2 f
+2 −Gm1m2
+rf
+ 
+ 
+ 
+ 
+−GM 2M
+(
+)
+12R
+= 1
+2 Mv1 f
+2 + 1
+2 2M
+(
+)v2 f
+2 −GM 2M
+(
+)
+4R
+ 
+ 
+ 
+ 
+1
+2 Mv1 f
+2 = GM
+2R −GM
+6R −v2 f
+2
+v1 f =
+2GM
+3R −2v2 f
+2
+ 
+ 
+(d) Combining the results for parts (b) and (c), 
+ 
+ 
+ 
+2v2 f =
+2GM
+3R −2v2 f
+2
+6v2 f
+2 = 2GM
+3R
+v2 =
+1
+3
+G M
+R
+      v1 = 2
+3
+G M
+R  
+ 
+P13.61 
+(a) 
+At infinite separation U = 0 and at rest K = 0. Since the system is 
+isolated, the energy and momentum of the two-planet system is 
+conserved. We have 
+ 
+ 
+ 
+0 = 1
+2 m1v1
+2 + 1
+2 m2v2
+2 −Gm1m2
+d
+ 
+[1]
+
+--- PAGE 39 ---
+722     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and 
+ 
+ 
+ 
+0 = m1v1 −m2v2 
+[2] 
+ 
+ 
+because the initial momentum of the system is zero. 
+ 
+ 
+Combine equations [1] and [2]: 
+ 
+ 
+ 
+v1 = m2
+2G
+d m1 + m2
+(
+)
+ 
+and 
+v2 = m1
+2G
+d m1 + m2
+(
+)
+ 
+ 
+ 
+The relative velocity is then 
+ 
+ 
+ 
+vr = v1 −−v2
+(
+) =
+2G m1 + m2
+(
+)
+d
+ 
+ 
+ (b) The instant before the collision, the distance between the planets 
+is d = r1 + r2. Substitute given numerical values into the equation 
+found for v1 and v2 in part (a) to find 
+ 
+ 
+ 
+v1 = 1.03 × 104 m/s 
+and 
+v2 = 2.58 × 103 m/s 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+K1 = 1
+2 m1v1
+2 = 1.07 × 1032 J and K2 = 1
+2 m2v2
+2 = 2.67 × 1031 J 
+P13.62 
+(a) 
+The free-fall acceleration produced by the Earth is  
+ 
+ 
+ 
+g = GME
+r2
+= GMEr−2 (directed downward) 
+ 
+ 
+Its rate of change is  
+ 
+ 
+ 
+dg
+dr = GME −2
+(
+)r−3 = −2GMEr−3 
+ 
+ 
+The minus sign indicates that g decreases with increasing height. 
+At the Earth’s surface, 
+ 
+ 
+ 
+dg
+dr = −2GME
+RE
+3
+ 
+ 
+(b) For small differences, 
+ 
+ 
+ 
+Δg
+Δr = Δg
+h
+= 2GME
+RE
+3
+ 
+ 
+ 
+Thus,
+
+--- PAGE 40 ---
+Chapter 13     723 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Δg = 2GMEh
+RE
+3
+ 
+ 
+(c) 
+Δg =
+2 6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 6.00 m
+(
+)
+6.37 × 106 m
+(
+)
+3
+= 1.85 × 10−5 m/s2
+ 
+P13.63 
+(a) 
+Each bit of mass dm in the ring is at the same distance from the 
+object at A. The separate contributions −Gmdm
+r
+ to the system 
+energy add up to −
+GmMring
+r
+. When the object is at A, this is  
+ 
+ 
+−(6.67 × 10−11 N ⋅m2/kg2)(1 000 kg)(2.36 × 1020 kg)
+1.00 × 108 m
+(
+)
+2 + 2.00 × 108 m
+(
+)
+2
+= −7.04 N
+ 
+ 
+(b) When the object is at the center of the ring, the potential energy of 
+the system is  
+ 
+ 
+ 
+−
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 1 000 kg
+(
+) 2.36 × 1020 kg
+(
+)
+1.00 × 108 m
+                                                                         = −1.57 × 105 J
+ 
+ 
+(c) 
+Total energy of the object-ring system is conserved: 
+ 
+ 
+ 
+K +Ug
+(
+)A = K +Ug
+(
+)B
+0 −7.04 × 104 J = 1
+2 1 000 kg
+(
+)vB
+2 −1.57 × 105 J
+vB =
+2 × 8.70 × 104 J
+1 000 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= 13.2 m/s
+ 
+*P13.64 
+The original orbit radius is  
+ 
+ 
+ 
+r = a = 6.37 × 106 m + 500 × 103 m = 6.87 × 106 m 
+ 
+The original energy is 
+ 
+ 
+ 
+Ei = −GMm
+2a
+= −6.67 × 10−11 N⋅m2 kg2
+(
+) 5.98 × 1024 kg
+(
+) 104 kg
+(
+)
+2 6.87 × 106 m
+(
+)
+= −2.90 × 1011 J
+
+--- PAGE 41 ---
+724     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We assume that the perigee distance in the new orbit is 6.87 × 10
+6 m. 
+Then the major axis is 2a = 6.87 × 106 m + 2.00 × 107 m = 2.69 × 107 m 
+and the final energy is 
+ 
+ 
+ 
+E f = −GMm
+2a
+= −6.67 × 10−11 N⋅m2 kg2
+(
+) 5.98 × 1024 kg
+(
+) 104 kg
+(
+)
+2.69 × 107 m
+= −1.48 × 1011 J
+ 
+ 
+The energy input required from the engine is  
+ 
+ 
+ 
+E f −Ei = −1.48 × 1011 J −−2.90 × 1011 J
+(
+) = 1.42 × 1011 J
+ 
+P13.65 
+From the walk, 2πr = 25 000 m. Thus, the radius of the planet is  
+ 
+ 
+ 
+r = 25 000 m
+2π
+= 3.98 × 103 m 
+ 
+From the drop: 
+ 
+ 
+ 
+ 
+Δy = 1
+2 gt2 = 1
+2 g 29.2 s
+(
+)
+2 = 1.40 m 
+ 
+so, 
+ 
+ 
+ 
+g = 2 1.40 m
+(
+)
+29.2 s
+(
+)
+2 = 3.28 × 10−3 m/s2 = MG
+r2
+ 
+ 
+which gives 
+ 
+ 
+ 
+M = 7.79 × 1014 kg
+ 
+P13.66 
+The distance between the orbiting stars is 
+d = 2r cos30° =
+3r since cos30° =
+3
+2 . The net 
+inward force on one orbiting star is  
+ 
+ 
+Gmm
+d2
+cos30° + GMm
+r2
+                     + Gmm
+d2
+cos30° = mv2
+r
+Gm2cos30°
+3r2
++ GM
+r2 = 4π 2r2
+rT 2
+G
+m
+3 + M
+⎛
+⎝⎜
+⎞
+⎠⎟= 4π 2r3
+T 2
+ 
+ANS. FIG. P13.66
+
+--- PAGE 42 ---
+Chapter 13     725 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+solving for the period gives 
+ 
+ 
+T 2 =
+4π 2r3
+G M + m/ 3
+(
+)
+T = 2π
+r3
+G M + m/ 3
+(
+)
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+1/2
+ 
+P13.67 
+(a) 
+We find the period from 
+ 
+ 
+ 
+T = 2πr
+v
+= 2π 30 000 × 9.46 × 1015 m
+(
+)
+2.50 × 105 m/s
+= 7 × 1015 s
+= 2 × 108 yr
+ 
+ 
+(b) We estimate the mass of the Milky Way from 
+ 
+ 
+ 
+M = 4π 2a3
+GT 2 =
+4π 2 30 000 × 9.46 × 1015 m
+(
+)
+3
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 7.13 × 1015 s
+(
+)
+2
+= 2.66 × 1041 kg
+, 
+ 
+ 
+or about 1041 kg 
+ 
+ 
+Note that this is the mass of the galaxy contained within the Sun’s 
+orbit of the galactic center. Recent studies show that the true mass 
+of the galaxy, including an extended halo of dark matter, is at 
+least an order of magnitude larger than our estimate. 
+ 
+(c) 
+A solar mass is about 1 × 10
+30 kg: 10
+41/10
+30 = 10
+11 
+ 
+ 
+The number of stars is on the order of 1011 . 
+P13.68 
+Energy conservation for the two-sphere system from release to contact:  
+ 
+ 
+ 
+−Gmm
+R
+= −Gmm
+2r
++ 1
+2 mv2 + 1
+2 mv2
+Gm
+1
+2r −1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= v2
+→
+v = Gm
+1
+2r −1
+R
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+ 
+ 
+(a) 
+The injected momentum is the final momentum of each sphere, 
+ 
+ 
+ 
+mv = m2/2 Gm
+1
+2r −1
+R
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+=
+Gm3
+1
+2r −1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+
+--- PAGE 43 ---
+726     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If they now collide elastically each sphere reverses its velocity 
+to receive impulse 
+ 
+ 
+ 
+mv −−mv
+(
+) = 2mv = 2 Gm3
+1
+2r −1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+ 
+P13.69 
+(a) 
+The net torque exerted on the Earth is zero. Therefore, the angular 
+momentum of the Earth is conserved. We use this to find the 
+speed at aphelion: 
+ 
+ 
+ 
+mrava = mrpvp  
+ 
+ 
+and  
+ 
+ 
+ 
+va = vp
+rp
+ra
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.027 × 104 m/s
+(
+) 1.471
+1.521
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.93 × 104 m/s
+  
+ 
+(b) 
+Kp = 1
+2 mvp
+2 = 1
+2 5.98 × 1024 kg
+(
+) 3.027 × 104 m/s
+(
+)
+2 = 2.74 × 1033 J 
+ 
+ 
+Up = −GmM
+rp
+= −
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 1.99 × 1030 kg
+(
+)
+1.471× 1011 m
+= −5.40 × 1033 J
+ 
+ 
+(c) 
+Using the same form as in part (b),  
+ 
+ 
+ 
+Ka = 2.57 × 1033 J and Ua = −5.22 × 1033 J 
+ 
+(d) Compare to find that   
+ 
+ 
+ 
+Kp +Up = −2.66 × 1033 J and Ka +Ua = −2.65 × 1033 J . 
+ 
+ 
+They agree, with a small rounding error. 
+P13.70 
+For both circular orbits, 
+ 
+ 
+ 
+F
+∑
+= ma: GMEm
+r2
+= mv2
+r
+v =
+GME
+r
+ 
+ANS. FIG. P13.70
+
+--- PAGE 44 ---
+Chapter 13     727 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+The original speed is 
+ 
+ 
+ 
+vi =
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.37 × 106 m + 2.00 × 105 m
+= 7.79 × 103 m/s
+ 
+ 
+(b) The final speed is 
+ 
+ 
+ 
+vi =
+6.67 × 10−11 N ⋅m2 /kg2
+(
+) 5.98 × 1024 kg
+(
+)
+6.47 × 106 m
+= 7.85 × 103 m/s
+ 
+ 
+ 
+The energy of the satellite-Earth system is 
+ 
+ 
+ 
+K +Ug = 1
+2 mv2 −GMEm
+r
+= 1
+2 mGME
+r
+−GME
+r
+= −GMEm
+2r
+ 
+ 
+(c) 
+Originally, 
+ 
+ 
+ 
+Ei = −
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+2 6.57 × 106 m
+(
+)
+= −3.04 × 109 J
+ 
+ 
+(d) Finally, 
+ 
+ 
+ 
+E f = −6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 100 kg
+(
+)
+2 6.47 × 106 m
+(
+)
+= −3.08 × 109 J
+ 
+ 
+(e) 
+Thus the object speeds up as it spirals down to the planet. The 
+loss of gravitational energy is so large that the total energy 
+decreases by  
+ 
+ 
+ 
+Ei −E f = −3.04 × 109 J −−3.08 × 109 J
+(
+) = 4.69 × 107 J 
+ 
+(f) 
+The only forces on the object are the backward force of air 
+resistance R, comparatively very small in magnitude, and the 
+force of gravity. Because the spiral path of the satellite is not 
+perpendicular to the gravitational force, 
+one component of the gravitational force pulls forward 
+on the satellite
+ 
+ 
+ 
+ to do positive work and make its speed increase.
+
+--- PAGE 45 ---
+728     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.71 
+The centripetal acceleration of the blob comes from gravitational 
+acceleration: 
+ 
+ 
+ 
+v2
+r = McG
+r2
+= 4π 2r2
+T 2r
+GMcT 2 = 4π 2r3
+ 
+ 
+Solving for the radius gives 
+ 
+ 
+r =
+6.67 × 10−11 N⋅m2/kg2
+(
+) 20
+(
+) 1.99 × 1030 kg
+(
+) 5.00 × 10−3 s
+(
+)
+2
+4π 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1/3
+rorbit = 119 km
+ 
+P13.72 
+From Kepler’s third law, minimum period means minimum orbit size. 
+The “treetop satellite” in Problem 38 has minimum period. The radius 
+of the satellite’s circular orbit is essentially equal to the radius R of the 
+planet. 
+ 
+ 
+ 
+F
+∑
+= ma:
+GMm
+R2
+= mv2
+R
+= m
+R
+2πR
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+ 
+ 
+GρV =
+R2 4π 2R2
+(
+)
+RT 2
+Gρ 4
+3 πR3
+⎛
+⎝⎜
+⎞
+⎠⎟= 4π 2R3
+T 2
+ 
+ 
+The radius divides out:  T 2Gρ = 3π   →
+T =
+3π
+Gρ
+ 
+P13.73 
+Let m represent the mass of the meteoroid and vi 
+its speed when far away. No torque acts on the 
+meteoroid, so its angular momentum is conserved 
+as it moves between the distant point and the 
+point where it grazes the Earth, moving 
+perpendicular to the radius: 
+ 
+ 
+ 
+Li = Lf : mri × vi = mrf × v f
+m 3REvi
+(
+) = mREv f
+v f = 3vi
+ 
+ANS. FIG. P13.73
+
+--- PAGE 46 ---
+Chapter 13     729 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now, the energy of the meteoroid-Earth system is also conserved:  
+ 
+ 
+ 
+K +Ug
+(
+)i = K +Ug
+(
+) f : 1
+2 mvi
+2 + 0 = 1
+2 mv f
+2 −GMEm
+RE
+1
+2 vi
+2 = 1
+2 9vi
+2
+(
+) −GME
+RE
+ 
+ 
+ 
+ 
+GME
+RE
+= 4vi
+2: 
+vi =
+GME
+4RE
+ 
+P13.74 
+If we choose the coordinate of the center of mass at the origin, then 
+ 
+ 
+ 
+0 = Mr2 −mr1
+(
+)
+M + m
+ 
+and 
+Mr2 = mr1 
+ 
+(Note: this is equivalent to saying that the net torque must be zero and 
+the two experience no angular acceleration.) For each mass F = ma so  
+ 
+ 
+ 
+mr1ω1
+2 = MGm
+d2
+ 
+and 
+Mr2ω2
+2 = MGm
+d2
+ 
+ 
+ANS. FIG. P13.74 
+ 
+Combining these two equations and using d = r1 + r2 gives 
+r1 + r2
+(
+)ω 2 = M + m
+(
+)G
+d2
+ with 
+ 
+ 
+ 
+ω1 = ω2 = ω 
+ 
+and 
+ 
+ 
+ 
+T = 2π
+ω
+ 
+ 
+we find 
+ 
+ 
+ 
+T 2 =
+4π 2d3
+G M + m
+(
+)
+
+--- PAGE 47 ---
+730     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.75 
+The gravitational forces the particles exert on each other are in the x 
+direction. They do not affect the velocity of the center of mass. Energy 
+is conserved for the pair of particles in a reference frame coasting along 
+with their center of mass, and momentum conservation means that the 
+identical particles move toward each other with equal speeds in this 
+frame: 
+ 
+ 
+ 
+Ugi + Ki + Ki = Ugf + Kf + Kf 
+ 
+ 
+ 
+−Gm1m2
+ri
++ 0 = −Gm1m2
+rf
++ 1
+2 m1v2 + 1
+2 m2v2
+−(6.67 × 10−11 N⋅m2/kg2)(1 000 kg)2
+20.0 m
+= −(6.67 × 10−11 N⋅m2/kg2)(1 000 kg)2
+2.00 m
++ 2 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟(1 000 kg)v2
+3.00 × 10−5 J
+1 000 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= v = 1.73 × 10−4 m/s
+ 
+ 
+Then their vector velocities are (800 + 1.73 × 10−4) ˆi m/s and 
+(800 −1.73 × 10−4)ˆi m/s for the trailing particle and the leading 
+particle, respectively.
+ 
+P13.76 
+(a) 
+The gravitational force exerted on m by the Earth (mass ME) 
+accelerates m according to g2 = GME
+r2
+. The equal-magnitude force 
+exerted on the Earth by m produces acceleration of the Earth 
+given by g1 = Gm
+r2 . The acceleration of relative approach is then 
+ 
+ 
+ 
+ 
+g2 + g1 = Gm
+r2 + GME
+r2
+=
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg + m
+(
+)
+1.20 × 107 m
+(
+)
+2
+=  2.77 m/s2
+(
+)  1 + 
+m
+5.98 ×1024 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) and (c) Here m = 5 kg and m = 2000 kg are both negligible 
+compared to the mass of the Earth, so the acceleration of relative 
+approach is just 2.77 m/s2 .
+
+--- PAGE 48 ---
+Chapter 13     731 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) Substituting m = 2.00 × 10
+24 kg into the expression for (g1 + g2) 
+above gives 
+ 
+ 
+ 
+g1 + g2 = 3.70 m/s2 
+ 
+(e) 
+Any object with mass small compared to the Earth starts to
+fall with acceleration 2.77 m/s2. As m increases to become
+comparable to the mass of the Earth, the acceleration increases,
+and can become arbitrarily large. It approaches a direct pro-
+portionality to m.
+ 
+P13.77 
+For the Earth, 
+F
+∑
+= ma:
+GMsm
+r2
+= mv2
+r
+= m
+r
+2πr
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Then 
+ 
+GMsT 2 = 4π 2r3 
+ 
+Also, the angular momentum L = mvr = m 2πr
+T r is a constant for the 
+Earth. We eliminate r =
+LT
+2πm between the equations: 
+ 
+ 
+ 
+GMsT 2 = 4π 2
+LT
+2πm
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2
+  gives 
+GMsT 1/2 = 4π 2
+L
+2πm
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2
+ 
+ 
+Now the rates of change with time t are described by 
+ 
+ 
+ 
+GMs
+1
+2 T −1/2 dT
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟+ G 1dMs
+dt T 1/2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+ 
+ 
+or 
+ 
+ 
+ 
+dT
+dt = −dMs
+dt
+2 T
+Ms
+⎛
+⎝⎜
+⎞
+⎠⎟≈ΔT
+Δt
+ 
+ 
+which gives 
+ 
+ 
+ 
+ΔT ≈−Δt dMs
+dt
+2 T
+Ms
+⎛
+⎝⎜
+⎞
+⎠⎟
+              = −5 000 yr
+(
+) 3.16 × 107 s
+1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟−3.64 × 109 kg/s
+(
+)
+                                                              × 2
+1 yr
+1.99 × 1030 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔT = 5.78 × 10−10 s
+
+--- PAGE 49 ---
+732     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P13.78 
+Let m represent the mass of the spacecraft, rE the radius of the Earth’s 
+orbit, and x the distance from Earth to the spacecraft. 
+ 
+The Sun exerts on the spacecraft a radial inward force of  
+ 
+ 
+ 
+ 
+Fs = GMsm
+rE −x
+(
+)
+2 
+ 
+while the Earth exerts on it a radial outward force of  
+ 
+ 
+ 
+FE = GMEm
+x2
+ 
+ 
+The net force on the spacecraft must produce the correct centripetal 
+acceleration for it to have an orbital period of 1.000 year. 
+ 
+Thus, FS −FE = GMSm
+rE −x
+(
+)
+2 −GMEm
+x2
+=
+mv2
+rE −x
+(
+)
+=
+m
+rE −x
+(
+)
+2π rE −x
+(
+)
+T
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+ 
+ 
+which reduces to  
+GMS
+rE −x
+(
+)
+2 −GME
+x2
+= 4π 2 rE −x
+(
+)
+T 2
+ 
+[1] 
+ 
+Cleared of fractions, this equation would contain powers of x ranging 
+from the fifth to the zeroth. We do not solve it algebraically. We may 
+test the assertion that x is 1.48 × 10
+9 m by substituting it into the 
+equation, along with the following data: MS = 1.99 × 10
+30 kg,  
+ME = 5.974 × 10
+24 kg, rE = 1.496 × 10
+11 m, and T = 1.000 yr = 3.156 × 10
+7 s. 
+ 
+With x = 1.48 × 10
+9 m, the result is  
+ 
+ 
+ 
+6.053 × 10−3 m/s2 −1.82 × 10−3 m/s2 ≈5.870 8 × 10−3 m/s2 
+ 
+or 
+ 
+5.870 9 × 10−3 m/s2 ≈5.870 8 × 10−3 m/s2 
+ 
+To three-digit precision, the solution is 1.48 × 109m. 
+ 
+As an equation of fifth degree, equation [1] has five roots. The Sun-
+Earth system has five Lagrange points, all revolving around the Sun 
+synchronously with the Earth. The SOHO and ACE satellites are at 
+one. Another is beyond the far side of the Sun. Another is beyond the 
+night side of the Earth. Two more are on the Earth’s orbit, ahead of the 
+planet and behind it by 60°. The twin satellites of NASA’s STEREO 
+mission, giving three-dimensional views of the Sun from orbital 
+positions ahead of and trailing Earth, passed through these Lagrange 
+points in 2009. The Greek and Trojan asteroids are at the co-orbital 
+Lagrange points of the Jupiter-Sun system.
+
+--- PAGE 50 ---
+Chapter 13     733 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.79 
+(a) 
+From the data about perigee, the energy of the satellite-Earth 
+system is  
+ 
+ 
+ 
+E = 1
+2 mvp
+2 −GMEm
+rp
+= 1
+2 1.60 kg
+(
+) 8.23 × 103 m/s
+(
+)
+2
+                        −
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 1.60 kg
+(
+)
+7.02 × 106 m
+ 
+ 
+ 
+or 
+E =  −3.67 × 107 J 
+ 
+(b) 
+L = mvr sinθ = mvprp sin90.0°
+= 1.60 kg
+(
+) 8.23 × 103 m/s
+(
+) 7.02 × 106 m
+(
+)
+=  9.24 × 1010 kg ⋅m2/s
+ 
+ 
+(c) 
+Since both the energy of the satellite-Earth system and the 
+angular momentum of the Earth are conserved, 
+ 
+ 
+at apogee we must have 
+ 
+ 
+ 
+ 
+1
+2 mva
+2 −GMm
+ra
+= E 
+ 
+ 
+and mvara sin90.0° = L 
+ 
+ 
+Thus,
+ 
+1
+2 1.60 kg
+(
+)va
+2
+                −
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+) 1.60 kg
+(
+)
+ra
+                = −3.67 × 107 J
+ 
+ 
+ 
+and 1.60 kg
+(
+)vara = 9.24 × 1010 kg ⋅m2/s 
+ 
+ 
+Solving simultaneously, and suppressing units, 
+ 
+ 
+ 
+1
+2 1.60
+(
+)va
+2 −
+6.67 × 10−11
+(
+) 5.98 × 1024
+(
+) 1.60
+(
+) 1.60
+(
+)va
+9.24 × 1010
+                                                                          = −3.67 × 107
+ 
+ 
+ 
+which reduces to 
+ 
+ 
+ 
+ 
+0.800va
+2 −11 046va + 3.672 3 × 107 = 0 
+ 
+ 
+so 
+va =
+11 046 ±
+11 046
+(
+)
+2 −4 0.800
+(
+) 3.672 3 × 107
+(
+)
+2 0.800
+(
+)
+
+--- PAGE 51 ---
+734     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This gives va = 8 230 m/s or 5 580 m/s . The smaller answer 
+refers to the velocity at the apogee while the larger refers to 
+perigee. 
+ 
+ 
+Thus,
+ 
+ra =
+L
+mva
+=
+9.24 × 1010 kg ⋅m2/s
+1.60 kg
+(
+) 5.58 × 103 m/s
+(
+)
+= 1.04 × 107 m 
+ 
+(d) The major axis is 2a = rp + ra, so the semimajor axis is 
+ 
+ 
+ 
+a = 1
+2 7.02 × 106 m + 1.04 × 107 m
+(
+) = 8.69 × 106 m 
+ 
+(e) 
+T =
+4π 2a3
+GME
+=
+4π 2 8.69 × 106 m
+(
+)
+3
+6.67 × 10−11 N ⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+ 
+ 
+ 
+T = 8 060 s = 134 min 
+*P13.80 
+(a) 
+Energy of the spacecraft-Mars system is conserved as the 
+spacecraft moves between a very distant point and the point of 
+closest approach: 
+ 
+ 
+ 
+0 + 0 = 1
+2 mvr
+2 −GMMarsm
+r
+vr =
+2GMMars
+r
+ 
+ 
+ 
+After the engine burn, for a circular orbit we have 
+ 
+ 
+ 
+F
+∑
+= ma:
+GMMarsm
+r2
+= mv0
+2
+r
+v0 =
+GMMars
+r
+ 
+ 
+ 
+The percentage reduction from the original speed is 
+ 
+ 
+ 
+vr −v0
+vr
+=
+2v0 −v0
+2v0
+=
+2 −1
+2
+× 100% = 29.3% 
+ 
+(b) The answer to part (a) applies with no changes , as the solution 
+to part (a) shows.
+
+--- PAGE 52 ---
+Chapter 13     735 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P13.2 
+~10
+−7 N 
+P13.4 
+(a) 4.39 × 1020 N; (b) 1.99 × 1020 N; (c) 3.55 × 1022 N; (d) The force exerted 
+by the Sun on the Moon is much stronger than the force of the Earth on 
+the Moon. 
+P13.6 
+−10.0ˆi + 5.93ˆj
+(
+) × 10−11 N 
+P13.8 
+The situation is impossible because no known element could compose 
+the spheres. 
+P13.10 
+3.06 × 10–8 m 
+P13.12 
+2
+3
+ 
+P13.14 
+(a) 
+2MGr
+r2 + a2
+(
+)
+3/2 toward the center of mass; (b) At r = 0, the fields of the 
+two objects are equal in magnitude and opposite in direction, to add to 
+zero; (c) As r →0,2MGr r2 + a2
+(
+)
+−3/2 approaches 2MG(0)/a
+3 = 0; (d) 
+When r is much greater than a, the angles the field vectors make with 
+the x axis become smaller. At very great distances, the field vectors are 
+almost parallel to the axis; therefore they begin to look like the field 
+vector from a single object of mass 2M; (e) As r becomes much larger 
+than a, the expression approaches 
+2MGr r2 + 02
+(
+)
+−3/2 = 2MGr/r3 = 2MG/r2 as required. 
+P13.16 
+(a) 1.31 × 1017 N; (b) 2.62 × 1012 N/kg 
+P13.18 
+1.90 × 10
+27 kg 
+P13.20 
+(a) The particle does posses angular momentum because it is not 
+headed straight for the origin. (b) Its angular momentum is constant. 
+There are no identified outside influences acting on the object. (c) See 
+P13.20(c) for full explanation. 
+P13.22 
+1.30 revolutions 
+P13.24 
+1.27 
+P13.26 
+1.63 × 10
+4 rad/s 
+P13.28 
+(a) 6.02 × 10
+24 kg; (b) The Earth wobbles a bit as the Moon orbits it, so 
+both objects move nearly in circles about their center of mass, staying 
+on opposite sides of it.
+
+--- PAGE 53 ---
+736     Universal Gravitation  
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.30 
+(a) −4.77 × 10
+9 J; (b) 569 N 
+P13.32 
+4.17 × 10
+10 J 
+P13.34 
+(a) See P13.34 for full description; (b) 340 s 
+P13.36 
+1.66 × 10
+4 m/s  
+P13.38 
+2v 
+P13.40 
+(a) 0.980; (b) 127 yr; (c) –2.13 × 10
+17 J 
+P13.42 
+GMEm
+12RE
+ 
+P13.44 
+(a) 42.1 km/s; (b) 2.20 × 10
+11 m  
+P13.46 
+(a) 2π
+RE + h
+(
+)
+3
+GME
+; (b) 
+GME
+RE + h ; (c) GMEm
+RE + 2h
+2RE RE + h
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥−
+2π 2RE
+2m
+86 400 s
+(
+)
+2 
+P13.48 
+(a) vi =
+GME
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+; (b) 5
+4
+GME
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+; (c) rf = 25r
+7
+ 
+P13.50 
+(a) 3.07 × 10
+6 m; (b) the rocket would travel farther from Earth  
+P13.52 
+492 m/s 
+P13.54 
+If one uses the result v =
+GM
+r
+ and the relation v = (2πτ/T), one finds 
+the radius of the orbit to be smaller than the radius of the Earth, so the 
+spacecraft would need to be in orbit underground. 
+P13.56 
+(a) 0.700 rad/s; (b) Because his feet stay in place on the floor, his head 
+will be moving at the same tangential speed as his feet.  However, his 
+feet and his head are travelling in circles of different radii; (c) If he’s 
+not careful, there could be a collision between his head and the wall 
+(see P13.56 for full explanation) 
+P13.58 
+(a) h =
+REvi
+2
+vesc
+2 −vi
+2 ; (b) v f = vesc
+h
+RE + h ; (c) With 
+v1 << vesc,h ≈REvi
+2
+vesc
+2
+= REvi
+2RE
+2GME
+. But g = GME
+RE
+2 , so h = vi
+2
+2g
+ in agreement 
+with 02 = vi
+2 + 2 −g
+(
+) h −0
+(
+).
+
+--- PAGE 54 ---
+Chapter 13     737 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P13.60 
+(a) The two appropriate isolated system models are conservation of 
+momentum and conservation of energy applied to the system 
+consisting of the two spheres; (b) −2v2 f ; (c) 
+2GM
+3R −2v2 f
+2 ;  
+(d) v2 = 1
+3
+G M
+R , v1 = 2
+3
+G M
+R 
+P13.62 
+(a) dg
+dr = −2GME
+RE
+3
+; (b) Δg = 2GMEh
+RE
+3
+; (c) 1.85 × 10
+−5 m/s
+2 
+P13.64 
+1.42 × 1011 J 
+P13.66 
+See P13.66 for the full answer.  
+P13.68 
+(a) mv = GM3
+1
+2r −1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+; (b) 2 GM3
+1
+2r −1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+ 
+P13.70 
+(a) 7.79 × 10
+3 m/s; (b) 7.85 × 10
+3 m/s; (c) −3.04 × 10
+9 J; (d) −3.08 × 10
+9 J; 
+(e) 4.69 × 10
+7 J; (f) one component of the gravitational force pulls 
+forward on the satellite  
+P13.72 
+See P13.72 for full description. 
+P13.74 
+See P13.74 for full description. 
+P13.76 
+(a) 2.77 m/s2
+(
+) 1+
+m
+5.98 × 1024 kg
+⎛
+⎝⎜
+⎞
+⎠⎟; (b and c) 2.77 m/s
+2; (d) 3.70 m/s
+2; 
+(e) Any object with mass small compared to the Earth starts to fall with 
+acceleration 2.77 m/s
+2. As m increases to become comparable to the 
+mass of the Earth, the acceleration increases and can become arbitrarily 
+large. It approaches a direct proportionality to m. 
+P13.78 
+See P13.78 for full description. 
+P13.80 
+(a) 29.3%; (b) no changes

@@ -1,0 +1,6675 @@
+
+--- PAGE 1 ---
+948 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+41 
+Quantum Mechanics 
+ 
+CHAPTER OUTLINE 
+ 
+41.1  
+The Wave Function 
+41.2  
+Analysis Model: Quantum Particle Under Boundary Conditions 
+41.3 
+The Schrödinger Equation 
+41.4 
+A Particle in a Well of Finite Height 
+41.5 
+Tunneling Through a Potential Energy Barrier 
+41.6 
+Applications of Tunneling 
+41.7 
+The Simple Harmonic Oscillator 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ41.1 
+Answer (b). Fewer particles are reflected as the height of the 
+potential barrier decreases and approaches the energy of the 
+particles. By Equations 41.22 and 41.23, the transmission coefficient 
+T ≈e−2CL, where C =
+2m U −E
+(
+) , increases as U − E decreases, so 
+the reflection coefficient R = 1−T ≈1−e−2CL decreases as U − E 
+decreases. 
+OQ41.2 
+The ranking is answer (b) > (a) > (c) > (e) > (d). From Equation 41.14, 
+consider the quantity 
+ 
+ 
+E =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2: 
+ 
+(a) 
+h2
+8m1 3 nm
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥1( )
+2 = 1
+9
+h2
+8m1
+ nm−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 2 ---
+Chapter 41     949 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+h2
+8m1 3 nm
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥2( )
+2 = 4
+9
+h2
+8m1
+ nm−1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(c) 
+h2
+8 2m1
+(
+) 3 nm
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1( )
+2 = 1
+18
+h2
+8m1
+ nm−1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(d) 
+0( )
+2
+8m1 3 nm
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥1( )
+2 = 0 
+ 
+(e) 
+h2
+8m1 6 nm
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥1( )
+2 = 1
+36
+h2
+8m1
+ nm−1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+OQ41.3 
+(a) 
+True. Examples: An electron has mass and charge, but it can 
+also display interference effects. 
+ 
+(b) False. An electron has rest energy ER = mec
+2. 
+ 
+(c) 
+True. A moving electron possesses kinetic energy. 
+ 
+(d) True. p = meu. 
+ 
+(e) 
+True. 
+OQ41.4 
+(a) 
+True. Examples: A photon behaves as a particle in the 
+photoelectric effect and as a wave in double-slit interference. 
+ 
+(b) True. A photon cannot have rest energy (mass) because it is 
+never at rest: it travels at the speed of light. 
+ 
+(c) 
+True. E = hf. 
+ 
+(d) True. p = E/c. 
+ 
+(e) 
+True. 
+OQ41.5 
+Answer (d). The probability of finding the particle is at the antinodes 
+(places of greatest amplitude) of the standing wave. 
+OQ41.6 
+Compare the ground state wave functions in Figures 41.4 and 41.7 in 
+the text. In the square well with infinitely high walls, the particle’s 
+simplest wave function has strict nodes separated by the length L of 
+the well. The particle’s wavelength is 2L, its momentum h/2L, and its 
+energy p
+2/2m = h
+2/8mL
+2. In the well with walls of only finite height, 
+the wave function has nonzero amplitude at the walls, and it extends 
+outside the walls. 
+ 
+(i) 
+Answer (a). The ground state wave function extends somewhat 
+outside the walls of the finite well, so the particle’s wavelength 
+is longer.
+
+--- PAGE 3 ---
+950     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) Answer (b). The particle’s momentum in its ground state is 
+smaller because p = h/λ and the wave function has a larger 
+wavelength. 
+ 
+(iii) Answer (b). The particle has less energy because is has smaller 
+momentum. 
+OQ41.7 
+Answer (e). From the relation between the square of the wave 
+function and the probability P of finding the particle in the interval 
+Δx = (7 nm − 4 nm) = 3 nm, we have 
+ 
+ 
+ψ
+2 Δx = P
+→
+ψ =
+P
+Δx =
+0.48
+3 nm = 0.40 nm−1 
+OQ41.8 
+Answer (a). Because of the exponential tailing of the wave function 
+within the barrier, the tunneling current is more sensitive to the 
+width of the barrier than to its height. Notice that the exponent term 
+CL in the transmission coefficient T ≈e−2CL, where 
+C =
+2m U −E
+(
+) , decreases more if L decreases than if U decreases 
+by the same percentage. 
+OQ41.9 
+Answer (c). Other points see a wider potential-energy barrier and 
+carry much less tunneling current. 
+OQ41.10 
+Answer (d). The probability of finding the particle is greatest at the 
+place of greatest amplitude of the wave function. The next most 
+likely place is point b, after that, points a and e appear to be equally 
+probable. The particle would never be found at point c. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ41.1 
+Consider the Heisenberg uncertainty principle. It implies that 
+electrons initially moving at the same speed and accelerated by an 
+electric field through the same distance need not all have the same 
+measured speed after being accelerated. Perhaps the philosopher 
+could have said “it is necessary for the very existence of science that 
+the same conditions always produce the same results within the 
+uncertainty of the measurements.” 
+CQ41.2 
+Consider a particle bound to a restricted region of space. If its 
+minimum energy were zero, then the particle could have zero 
+momentum and zero uncertainty in its momentum. At the same time, 
+the uncertainty in its position would not be infinite, but equal to the 
+width of the region. In such a case, the uncertainty product ΔxΔpx 
+would be zero, violating the uncertainty principle. This contradiction 
+proves that the minimum energy of the particle is not zero.
+
+--- PAGE 4 ---
+Chapter 41     951 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ41.3 
+The motion of the quantum particle does not consist of moving 
+through successive points. The particle has no definite position. It 
+can sometimes be found on one side of a node and sometimes on the 
+other side, but never at the node itself. There is no contradiction here, 
+for the quantum particle is moving as a wave. It is not a classical 
+particle. In particular, the particle does not speed up to infinite speed 
+to cross the node. 
+CQ41.4 
+(a) 
+ψ (x) becomes infinite as x →∞. 
+ 
+(b) ψ (x) is discontinuous and becomes infinite at x = π/2, 3π/2,… 
+CQ41.5 
+A particle’s wave function represents its state, containing all the 
+information there is about its location and motion. The squared 
+absolute value of its wave function tells where we would classically 
+think of the particle as spending most its time. Ψ
+2 is the probability 
+distribution function for the position of the particle. 
+CQ41.6 
+In quantum mechanics, particles are treated as wave functions, not 
+classical particles. In classical mechanics, the kinetic energy is never 
+negative. That implies that E ≥U. Treating the particle as a wave, the 
+Schrödinger equation predicts that there is a nonzero probability that 
+a particle can tunnel through a barrier—a region in which E < U. 
+CQ41.7 
+Both (d) and (e) are not physically significant. Wave function (d) is 
+not acceptable because ψ is not single-valued. Wave function (e) is 
+not acceptable because ψ is discontinuous (as is its slope). 
+CQ41.8 
+Newton’s 1st and 2nd laws are used to determine the motion of a 
+particle of large mass. The Schrödinger equation is not used to 
+determine the motion of a particle of small mass; rather, it is used to 
+determine the state of the wave function of a particle of small mass. 
+In particular, the states of atomic electrons are confined-wave states 
+whose wave functions are solutions to the Schrödinger equation. 
+Anything that we can know about a particle comes from its wave 
+function.
+
+--- PAGE 5 ---
+952     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 41.1 
+The Wave Function 
+P41.1 
+(a) 
+The wave function, 
+ 
+ 
+ 
+ ψ x
+( ) = Ae
+i 5×1010x
+(
+) = Acos 5 × 1010x
+(
+)+ iAsin 5 × 1010x
+(
+)
+ 
+ 
+ 
+ will go through one full cycle between x1 = 0 and (5.00 × 10
+10)x2 = 
+2π. The wavelength is then 
+ 
+ 
+ 
+λ = x2 −x1 =
+2π
+5.00 × 1010 m−1 = 1.26 × 10–10 m
+ 
+ 
+ 
+To say the same thing, we can inspect Ae
+i 5 × 1010x
+(
+) to see that the 
+wave number is k = 5.00 × 10
+10 m
+–1 = 2π/λ. 
+ 
+(b) Since λ = h/p, the momentum is  
+ 
+ 
+ 
+p = h
+λ = 6.626 × 10–34 J⋅s
+1.26 × 10–10 m = 5.27 × 10–24 kg⋅m/s
+   
+ 
+(c) 
+The electron’s kinetic energy is  
+ 
+ 
+ 
+K = 1
+2 mu2 = p2
+2m 
+= 5.27 × 10–24 kg⋅m/s
+(
+)
+2
+2 9.11× 10–31 kg
+(
+)
+1 eV
+1.602 × 10–19 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 95.3 eV
+ 
+ 
+ 
+[We use u to represent the speed of a particle with mass in chapters 
+39, 40, and 41.] 
+P41.2 
+(a) 
+See ANS. FIG. P41.2 for a graph of f (x)
+A
+= e−x /a for the range 
+−3 < x
+a < 3 . 
+ 
+ANS. FIG. P41.2
+
+--- PAGE 6 ---
+Chapter 41     953 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Normalization requires 
+ 
+ 
+ 
+ψ
+2 dx
+all space
+∫
+= 1:
+ 
+ 
+ 
+ 
+ 
+A2e−2 x /adx
+−∞
+∞
+∫
+= 2 A2e−2 x /adx
+0
+∞
+∫
+= 1
+−aA2e−2 x /a
+0
+∞= aA2 = 1
+→
+A =
+1
+a
+ 
+ 
+(c) 
+P =
+e−2 x /a
+a
+dx
+−a
+a
+∫
+= 2 e−2 x /a
+a
+dx
+0
+a
+∫
+= −e−2x/a
+0
+a = −e−2 + 1 = 0.865 
+P41.3 
+(a) 
+Normalization requires     
+ 
+ 
+ 
+ψ
+2 dx
+all space
+∫
+= 1: 
+ 
+ 
+ 
+ 
+A2x2dx
+0
+1.00
+∫
+= 1
+A2x3
+3
+0
+1.00
+= A23
+3 = 1
+→
+A =
+3
+ 
+ 
+(b) 
+P =
+3x2 dx
+0.300
+0.400
+∫
+= x3
+0.300
+0.400 = 0.400
+(
+)
+2 −0.300
+(
+)
+2 = 0.037 0 
+ 
+(c) 
+The expectation value is  
+ 
+ 
+ 
+x =
+ψ * xψ dx
+all space
+∫
+=
+3x3 dx
+0
+1.00
+∫
+= 3x4
+4
+0
+1.00
+= 0.750
+ 
+P41.4 
+The probability is given by 
+ 
+ 
+ 
+P =
+ψ x
+( )
+2
+−a
+a
+∫
+=
+a
+π x2 + a2
+(
+)
+dx
+−a
+a
+∫
+=
+a
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟tan−1 x
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+−a
+a
+ 
+ 
+ 
+ 
+P = 1
+π tan−1 1−tan−1 −1
+(
+)
+⎡⎣
+⎤⎦= 1
+π
+π
+4 −−π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 1
+2
+
+--- PAGE 7 ---
+954     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 41.2 
+Analysis Model: Quantum Particle  
+Under Boundary Conditions 
+P41.5 
+(a) 
+The energy of a quantum particle confined to a line segment is 
+ 
+ 
+ 
+En = h2n2
+8mL2  
+ 
+ 
+Here we have for the ground state 
+ 
+ 
+ 
+E1 =
+6.626 × 10–34 J · s
+(
+)
+2 (1)2
+8 1.67 × 10–27kg
+(
+) 2.00 × 10–14m
+(
+)
+2
+= 8.22 × 10–14J = 0.513 MeV  
+ 
+ 
+ 
+and for the first and second excited states, which are states 2 and 3, 
+ 
+ 
+ 
+E2 = 4E1 = 2.05 MeV   and   E3 = 9E1 = 4.62 MeV 
+ 
+(b) 
+They do; the MeV is the natural unit for energy radiated by an 
+atomic nucleus. 
+ 
+ 
+Stated differently: Scattering experiments show that an atomic 
+nucleus is a three-dimensional object always less than 15 fm in 
+diameter. This one-dimensional box 20 fm long is a good model in 
+energy terms. 
+P41.6 
+From Equation 41.14, the allowed energy levels of a particle in a box is 
+ 
+ 
+ 
+En =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2,       n = 1, 2, 3,...
+ 
+ 
+(a) 
+For L = 1.00 nm, 
+ 
+ 
+ 
+En =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2
+=
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.626 × 10−34 J ⋅s
+(
+)
+2
+8 9.11× 10−31 kg
+(
+) 1.00 × 10−9 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+n2
+= 0.377n2 = 6 eV
+n ≈4
+ 
+ 
+(b) For n = 4, En = 0.377 4
+( )
+2 = 6.03 eV 
+P41.7 
+(a) 
+From Equation 41.14, the allowed energy levels of an electron in a 
+box is 
+ 
+ 
+ 
+En =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2 
+n = 1, 2, 3, . . .
+
+--- PAGE 8 ---
+Chapter 41     955 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+En =
+6.626 × 10−34 J ⋅s
+(
+)
+2
+8 9.11× 10−31 kg
+(
+) 0.100 × 10−9 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+n2
+= 6.02 × 10−18 J
+(
+)n2 = 37.7 eV
+(
+)n2
+ 
+ 
+ANS. FIG. P41.7 
+ 
+(b) When the electron falls from higher level ni to lower level nf , it 
+emits energy 
+ 
+ 
+ 
+ΔEn =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟ni
+2 −nf
+2
+(
+) = 37.7 eV
+(
+) ni
+2 −nf
+2
+(
+) 
+ 
+ 
+by emitting a photon of wavelength 
+ 
+ 
+ 
+λ = hc
+ΔEn
+=
+8mecL2
+h ni
+2 −nf
+2
+(
+)
+=
+8 9.109 × 10−31 kg
+(
+) 2.998 × 108 m/s
+(
+) 0.100 × 10−9 m
+(
+)
+2
+6.626 × 10−34 J ⋅s
+(
+) ni
+2 −nf
+2
+(
+)
+                                                                             ×
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 33.0 nm
+ni
+2 −nf
+2
+(
+)
+ 
+ 
+ 
+For example, for the transition 4 →3, the wavelength is 
+ 
+ 
+ 
+λ = 33.0 nm
+4
+( )
+2 −3( )
+2 = 4.71 nm 
+ 
+ 
+The wavelengths produced by all possible transitions are: 
+Transition 4 → 3 4 → 2 4 → 1 3 → 2 3 → 1 2 → 1 
+λ (nm) 
+4.71 
+2.75 
+2.20 
+6.59 
+4.12 
+11.0
+
+--- PAGE 9 ---
+956     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.8 
+The energy of the photon is 
+ 
+ 
+ 
+E = hc
+λ = 1 240 eV ⋅nm
+6.06 mm
+1 mm
+106nm
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.05 × 10−4eV
+ 
+ 
+The allowed energies of the proton in the box are 
+ 
+ 
+ 
+En =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2
+=
+6.626 × 10−34 J ⋅s
+(
+)
+2
+8 1.673 × 10−27  kg
+(
+) 1.00 × 10−9 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟n2
+= 2.05 × 10−4 eV
+(
+)n2
+ 
+ 
+The smallest possible energy for a transition between states is from  
+n = 1 to n = 2, which has energy 
+ 
+ 
+ 
+ΔEn = 2.05 × 10−4 eV
+(
+) 22 −12
+(
+) = 6.14 × 10−4 eV 
+ 
+The photon does not have enough energy to cause this transition. The 
+photon energy would be sufficient to cause a transition from n = 0 to  
+n = 1, but the n = 0 state does not exist for the particle in a box. 
+P41.9 
+From Equation 41.14,  
+ 
+ 
+ 
+ΔE = hc
+λ =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟22 −12
+⎡⎣
+⎤⎦=
+3h2
+8meL2 
+ 
+Solving for the length of the box then gives 
+ 
+ 
+ 
+L =
+3hλ
+8mec
+=
+3 6.626 × 10−34 J⋅s
+(
+) 694.3 × 10−9 m
+(
+)
+8 9.11× 10−31 kg
+(
+) 3.00 × 108 m/s
+(
+)
+= 7.95 × 10−10 m = 0.795 nm
+ 
+P41.10 
+From Equation 41.14,  
+ 
+ 
+ 
+ΔE = hc
+λ =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟22 −12
+⎡⎣
+⎤⎦=
+3h2
+8meL2 
+ 
+Solving for the length of the box then gives 
+ 
+ 
+ 
+L =
+3hλ
+8mec
+
+--- PAGE 10 ---
+Chapter 41     957 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.11 
+From Equation 41.14, the allowed energy levels of a particle in a box is 
+ 
+ 
+ 
+En =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2 = n2E1       n = 1, 2, 3, … 
+ 
+For a proton (m = 1.673 × 10
+–27 kg) in a 10.0-fm wide box: 
+ 
+ 
+ 
+E1 =
+6.626 × 10−34 J ⋅s
+(
+)
+2
+8 1.673 × 10−27 kg
+(
+) 10.0 × 10−15 m
+(
+)
+2
+= 3.28 × 10−13 J
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.05 × 106 eV = 2.05 MeV
+ 
+ 
+(a) 
+The energy of the emitted photon is 
+ 
+ 
+ 
+E = ΔEn = E2 −E1 = 2( )
+2 E1 −E1 = 3E1 = 6.14 MeV 
+ 
+(b) The wavelength of the photon is 
+ 
+ 
+ 
+λ = hc
+E = 1 240 eV ⋅nm
+6.14 × 106 eV
+= 2.02 × 10−4 nm = 2.02 × 10−13 m = 202 × 10−15 m = 202 fm
+ 
+ 
+(c) 
+This is a gamma ray, according to the electromagnetic spectrum 
+chart in Chapter 34. 
+P41.12 
+The ground state energy of a particle (mass m) in a 1-dimensional box 
+of width L is E1 =
+h2
+8mL2 . 
+ 
+(a) 
+For a proton (m = 1.67 × 10
+–27 kg) in a 0.200-nm wide box: 
+ 
+ 
+ 
+E1 =
+6.626 × 10−34 J⋅s
+(
+)
+2
+8 1.67 × 10−27 kg
+(
+) 2.00 × 10−10 m
+(
+)
+2
+= 8.22 × 10−22 J = 5.13 × 10−3 eV
+ 
+ 
+(b) For an electron (m = 9.11 × 10
+–31 kg) in the same size box: 
+ 
+ 
+ 
+E1 =
+6.626 × 10−34 J⋅s
+(
+)
+2
+8 9.11× 10−31 kg
+(
+) 2.00 × 10−10 m
+(
+)
+2
+= 1.51× 10−18 J = 9.41 eV
+ 
+ 
+(c) 
+The electron has a much higher energy because it is much less 
+massive.
+
+--- PAGE 11 ---
+958     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.13 
+E1 = 2.00 eV = 3.20 × 10
+–19 J. For the ground state, 
+ 
+ 
+ 
+ 
+E1 =
+h2
+8meL2 
+(a) 
+The length of the region is 
+  
+L =
+h
+8meE1
+=
+6.626 × 10−34 J⋅s
+8 9.11× 10−31 kg
+(
+) 3.20 × 10−19 J
+(
+)
+= 4.34 × 10−10 m = 0.434 nm
+  
+ 
+(b) For the excited states, En =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2 = n2E1 . For the first excited 
+state, ΔE = E2 −E1 = 4E1 −E1 = 3E1 = 6.00 eV 
+P41.14 
+(a) 
+The classical kinetic energy of the particle is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 4.00 × 10−3 kg
+(
+) 1.00 × 10−3 m/s
+(
+)
+2
+= 2.00 × 10−9 J
+ 
+(b) The length L can be found from 
+ 
+ 
+ 
+E =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+L = n
+h2
+8mE = 2
+6.626 × 10−34 J⋅s
+(
+)
+2
+8 4.00 × 10−3 kg
+(
+) 2.00 × 10−9 J
+(
+)
+= 1.66 × 10−28 m
+ 
+ 
+(c) 
+No. The length of the box would have to be much smaller than
+the size of a nucleus ( ~ 10–14 m) to confine the particle.
+ 
+*P41.15 
+(a) 
+The energies of the confined electron are En =
+h2
+8meL2 n2.  Its 
+energy gain in the quantum jump from state 1 to state 4 is 
+h2
+8meL2 42 −12
+(
+), and this is the photon energy h215
+8meL2 = hf = hc
+λ . 
+Then 8mecL2 = 15hλ and L =
+15hλ
+8mec
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+.
+
+--- PAGE 12 ---
+Chapter 41     959 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Let ′
+λ represent the wavelength of the photon emitted:  
+ 
+ 
+ 
+hc
+′
+λ =
+h2
+8meL2 42 −
+h2
+8meL2 22 = 12h2
+8meL2 
+ 
+ 
+Then hc
+λ
+′
+λ
+hc = h215 8meL2
+(
+)
+8meL212h2
+= 5
+4 and 
+′
+λ = 1.25λ . 
+P41.16 
+(a) 
+From ΔxΔp ≥
+2 , with Δx = L, Δp ≥
+
+2Δx = 
+2L , so the uncertainty 
+in momentum must be at least Δp ≈
+
+2L
+. 
+ 
+(b) Its energy is all kinetic, so  
+ 
+ 
+ 
+E = p2
+2m = (Δp)2
+2m ≈
+2
+8mL2 =
+h2
+(4π)28mL2
+ 
+ 
+(c) 
+Compare the result of part (b) to the result h
+2/8mL
+2 for the wave 
+function as a standing wave. This estimate is too low by 4π 2 ≈40 
+times, but it correctly displays the pattern of dependence of the 
+energy on the mass and on the length of the well. 
+P41.17 
+(a) 
+ψ
+2 dx
+−∞
+∞
+∫
+= 1 becomes 
+ 
+ 
+ 
+A2
+cos2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+−L 4
+L 4
+∫
+= A2
+1+ cos 2 2π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+−L 4
+L 4
+∫
+= 1
+A2
+2
+x + L
+4π cos 4π x L
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+−L 4
+L 4
+= 1
+A2
+2
+L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 →
+A = 2
+L
+ 
+ 
+(b) The probability of finding the particle between 0 and L
+8
+ is 
+ 
+ 
+ 
+ψ
+2 dx
+0
+L 8
+∫
+= A2
+cos2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L 8
+∫
+= A2
+2
+x + L
+4π cos 4π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L 8
+1
+2
+4
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+L
+8 + L
+4π sin π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 1
+4 + 1
+2π = 0.409
+
+--- PAGE 13 ---
+960     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.18 
+Normalization requires 
+ψ
+all space
+∫
+2dx = 1: 
+ 
+ 
+ 
+A2 sin2
+nπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+=
+A2 1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx = 1
+0
+L
+∫
+= A2
+2
+x −L
+2π sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L
+= 1
+= A2
+2
+L −L
+2π sin2π
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L
+= A2L
+2
+= 1
+A =
+2
+L
+ 
+P41.19 
+(a) 
+The expectation value is x = ψ * xψ dx
+0
+L
+∫
+: 
+ 
+ 
+ 
+x =
+x 2
+L sin2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+= 2
+L
+x
+1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+dx
+0
+L
+∫
+= 1
+L
+x 1−cos 4π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+ 
+ 
+ 
+From integral tables, we find that 
+ 
+ 
+ 
+x = 1
+L
+x2
+2
+0
+L
+−1
+L
+L2
+16π 2
+4π x
+L
+sin 4π x
+L
++ cos 4π x
+L
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L
+= L
+2
+ 
+ 
+(b) The probability of finding the particle in the range  
+0.490L ≤ x ≤ 0.510L is 
+ 
+ 
+ 
+P = 2
+L
+sin2 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0.490L
+0.510L
+∫
+= 2
+L
+1−cos 2 2π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0.490L
+0.510L
+∫
+= 1
+L x −L
+2π sin 4π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.490L
+0.510L
+= 0.020 −1
+4π sin2.04π −sin1.96π
+(
+) = 5.26 × 10−5
+ 
+ 
+(c) 
+The probability of finding the particle in the range  
+0.240L ≤ x ≤ 0.260L is 
+ 
+ 
+ 
+P = 1
+L x −L
+2π sin 4π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.240L
+0.260L
+= 3.99 × 10−2
+
+--- PAGE 14 ---
+Chapter 41     961 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+In the n = 2 graph in the text’s Figure 41.4(b), it is more probable
+to find the particle either near x = L 4 or x = 3L 4 than at the
+center, where the probability density is zero. Nevertheless, the
+symmetry of the distribution means that the average position is
+x = L 2.
+ 
+P41.20 
+(a) 
+The most probable positions of the particle are x = L/4, L/2, and 
+3L/4. 
+ 
+(b) 
+We look for sin (3πx/L) taking on its extreme values 1 and –1 so 
+that the squared wave function is as large as it can be. The result 
+can also be found by studying Figure 41.4b. The most probable 
+locations are at the antinodes of the standing wave pattern n = 3, 
+which has three antinodes that are equally spaced, one at the 
+center, and two a distance L/4 from either end. 
+P41.21 
+(a) 
+The probability of finding the electron between x = 0 and  
+x = 0.100 nm = L/3 is 
+ 
+ 
+ 
+ψ 1
+2 dx
+0
+L/3
+∫
+= 2
+L
+sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L/3
+∫
+= 2
+L
+1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0
+L/3
+∫
+= 1
+L x −L
+2π sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L/3
+= 1
+3 −1
+2π sin 2π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+3 −0.866
+2π
+= 0.196
+ 
+ 
+(b) Classically, the particle moves back and forth steadily, spending 
+equal time intervals in each third of the line. The classical 
+probability is 0.333, which is significantly larger. 
+ 
+(c) 
+The probability is  
+ 
+ 
+ 
+ψ 99
+2 dx
+0
+L/3
+∫
+= 2
+L
+sin2 99π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L/3
+∫
+= 1
+L
+1−cos 198π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+L/3
+∫
+= 1
+L x −
+L
+198π sin 198π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L/3
+= 1
+3 −
+1
+198π sin 66π
+(
+) = 1
+3 −0 = 0.333
+  
+ 
+ 
+The probability is 0.333 for both classical and quantum models.
+
+--- PAGE 15 ---
+962     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.22 
+(a) 
+From Equation 41.13, ψ 1 x
+( ) =
+2
+L sin π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟. The probability of 
+finding the particle between x = 0 and x =  is 
+ 
+ 
+ 
+ψ 1
+2 dx
+0
+
+∫
+= 2
+L
+sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+
+∫
+= 2
+L
+1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0
+
+∫
+= 1
+L x −L
+2π sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+
+= 
+L −1
+2π sin 2π 
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) The probability function is sketched in ANS. FIG. P41.22(b). 
+ 
+ANS. FIG. P41.22(b) 
+ 
+(c) 
+The wave function is zero for x < 0 and for x > L. The 
+probability at = 0 must be zero because the particle 
+is never found at x < 0 or exactly at x = 0. The probability
+at = L must be 1 for normalization: the particle is always 
+found somewhere in the range 0 < x < L.
+ 
+ 
+(d) The probability of finding the particle between x = 0 and x =  is 
+2
+3
+, and between x =  and x = L is 1
+3
+. 
+ 
+ 
+Thus,  
+ψ 1
+2 dx
+0
+
+∫
+= 2
+3 
+ 
+ 
+ 
+ 
+∴
+L −1
+2π sin 2π 
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= 2
+3
+ 
+ 
+ 
+or, defining u = 
+L ,  
+u −1
+2π sin2π u = 2
+3
+
+--- PAGE 16 ---
+Chapter 41     963 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This equation for u can be solved by homing in on the solution 
+with a calculator, the result being u = 
+L = 0.585 , or = 0.585L 
+to three digits. 
+P41.23 
+(a) 
+The probability is 
+ 
+ 
+ 
+P =
+ψ 1
+2 dx
+0
+L/3
+∫
+= 2
+L
+sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L/3
+∫
+= 2
+L
+1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0
+L/3
+∫
+= 1
+L x −L
+2π sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L 3
+= 1
+L
+L
+3 −L
+2π sin 2π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1
+3 −1
+2π sin 2π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1
+3 −
+3
+4π
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.196
+ 
+ 
+(b) The probability density is symmetric about x = L
+2 . Thus, the 
+probability of finding the particle between x = 2L
+3 and x = L is the 
+same, 0.196. Therefore, the probability of finding it in the range 
+L
+3 ≤x ≤2L
+3 is P = 1.00 −2 0.196
+(
+) = 0.609 . 
+ 
+ANS. FIG. P41.23(b)
+
+--- PAGE 17 ---
+964     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 41.3 
+The Schrödinger Equation 
+P41.24 
+From 
+ψ = Ae
+i kx −ωt
+(
+) 
+[1] 
+ 
+we evaluate 
+ 
+ 
+ 
+ 
+dψ
+dx = ikAe
+i kx −ωt
+(
+) 
+ 
+and 
+d2ψ
+dx2 = −k2Ae
+i kx −ωt
+(
+) 
+[2]
+ 
+ 
+We substitute equations [1] and [2] into the Schrödinger equation, so 
+that Equation 41.15,  
+ 
+ 
+−2
+2m
+d2ψ
+dx2 + Uψ = Eψ 
+ 
+becomes the test equation 
+ 
+ 
+ 
+−2
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟−k2Ae
+i kx −ωt
+(
+)
+(
+) + 0 = EAe
+i kx −ωt
+(
+) 
+[3] 
+ 
+The wave function ψ = Ae
+i kx −ωt
+(
+) is a solution to the Schrödinger 
+equation if equation [3] is true. Both sides depend on A, x, and t in the 
+same way, so we can cancel several factors, and determine that we 
+have a solution if  
+ 
+ 
+2k2
+2m = E 
+ 
+But this is true for a nonrelativistic particle with mass in a region 
+where the potential energy is zero, since  
+ 
+ 
+2k2
+2m =
+1
+2m
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+(h/λ)2
+2m
+= p2
+2m
+using de Broglie's equation
+
+
+
+
+
+                                         = m2u2
+2m = 1
+2 mu2 = K = K + U
+recall U=0
+
+
+
+
+= E 
+ 
+ 
+where K is the kinetic energy. Therefore, the given wave function 
+does satisfy Equation 41.15. 
+P41.25 
+(a) 
+Given the function 
+ 
+ 
+ 
+ψ x
+( ) = Acoskx + Bsin kx 
+ 
+ 
+Its derivative with respect to x is 
+ 
+ 
+ 
+∂ψ
+∂x = −kAsin kx + kBcoskx
+
+--- PAGE 18 ---
+Chapter 41     965 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+And its second derivative is 
+ 
+ 
+ 
+∂2ψ
+∂x2 = −k2Acoskx −k2Bsin kx
+= −k2 Acoskx + Bsin kx
+(
+) = −k2ψ
+ 
+ 
+ 
+The Schrödinger equation is satisfied if 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 +Uψ = Eψ , 
+where    U = 0: 
+ 
+ 
+ 
+−2
+2m −k2ψ
+(
+) = Eψ     →     2k2
+2m ψ = Eψ
+ 
+ 
+ 
+This is true as an identity (functional equality) for all x if 
+E = 2k2
+2m
+, which is true because E = K + U = K + 0 = K, and  
+ 
+ 
+ 
+2k2
+2m = 1
+2m
+ 
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2m
+h
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= p2
+2m = K 
+ 
+(b) From part (a), E = 2k2
+2m . 
+P41.26 
+(a) 
+These are standing wave patterns with nodes at the ends and n 
+antinodes. 
+ 
+ 
+For n = 1, the wave function is 
+ 
+ 
+ 
+ψ 1 x
+( ) =
+2
+L cos π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+and the probability density is 
+ 
+ 
+ 
+P1 x
+( ) = ψ 1 x
+( )
+2 = 2
+L cos2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+For n = 2, the wave function is 
+ 
+ 
+ 
+ψ 2 x
+( ) =
+2
+L sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+and the probability density is  
+ 
+ 
+ 
+P2 x
+( ) = ψ 2 x
+( )
+2 = 2
+L sin2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+For n = 3, the wave function is     
+ 
+ 
+ 
+ψ 3 x
+( ) =
+2
+L cos 3π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 19 ---
+966     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and the probability density is  
+ 
+ 
+ 
+P3 x
+( ) = ψ 3 x
+( )
+2 = 2
+L cos2
+3π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) The wave functions and probability densities are shown in ANS. 
+FIG. P41.26(b). 
+ 
+ANS. FIG. P41.26(b) 
+P41.27 
+(a) 
+Setting the total energy E equal to zero and rearranging the 
+Schrödinger equation to isolate the potential energy function 
+gives 
+ 
+ 
+ 
+2
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+d2ψ
+dx2 +U x
+( )ψ = 0
+U x
+( ) =
+2
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+ψ
+d2ψ
+dx2
+ 
+ 
+ 
+If 
+ψ x
+( ) = Axe−x2 L2 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+d2ψ
+dx2 = 4Ax3 −6AxL2
+(
+) e−x2 L2
+L4
+ 
+ 
+ 
+or 
+d2ψ
+dx2 =
+4x2 −6L2
+(
+)
+L4
+ψ x
+( ) 
+ 
+ 
+and U x
+( ) =
+2
+2mL2
+4x2
+L2 −6
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 20 ---
+Chapter 41     967 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) U(x) is sketched in ANS. FIG. P41.27(b). 
+ 
+ANS. FIG. P41.27(b) 
+P41.28 
+(a) 
+ψ x
+( ) = A 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+dψ
+dx = −2Ax
+L2
+→
+d2ψ
+dx2 = −2A
+L2 
+ 
+ 
+Schrödinger’s equation:       
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 +Uψ = Eψ 
+ 
+ 
+becomes 
+ 
+ 
+ 
+ 
+−2
+2m −2A
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟+
+−2x2
+(
+)
+mL2 L2 −x2
+(
+)
+A 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟= EA 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−2
+2m −2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟+
+−2x2
+(
+) L2 −x2
+(
+)
+mL4 L2 −x2
+(
+)
+= E 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mL2 +
+−2x2
+(
+)
+mL4
+= E 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mL2 1−x2
+L4
+⎛
+⎝⎜
+⎞
+⎠⎟= E 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+This will be true for all x if 
+E = 2
+L2m . 
+ 
+(b) Note that the wave function ψ x
+( ) is an even function; therefore, 
+we may write the normalization condition as 
+ 
+ 
+ 
+ψ
+2 dx
+−L
+L
+∫
+= 1 =
+A2 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+dx
+−L
+L
+∫
+= 2 A2 1−x2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+dx
+0
+L
+∫
+= 2A2
+1−2x2
+L2 + x4
+L4
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+
+--- PAGE 21 ---
+968     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+1 = 2A2 x −2x3
+3L2 + x5
+5L4
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L
+= 2A2 L −2
+3 L + L
+5
+⎡
+⎣⎢
+⎤
+⎦⎥
+= A2 16L
+15
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+A =
+15
+16L
+ 
+ 
+(c) 
+As in part (b), because the wave function is an even function, the 
+probability is 
+ 
+ 
+ 
+P =
+ψ 2 dx
+−L 3
+L 3
+∫
+=
+ψ 2 dx
+0
+L 3
+∫
+= 2 15
+16L
+1−2x2
+L2 + x4
+L4
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L 3
+∫
+= 15
+8L x −2x3
+3L2 + x5
+5L5
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L 3
+= 15
+8L
+L
+3 −2L
+81 +
+L
+1215
+⎡
+⎣⎢
+⎤
+⎦⎥= 47
+81 = 0.580
+ 
+ 
+ 
+ 
+Section 41.4 
+A Particle in a Well of Finite Height 
+P41.29  
+(a) 
+For n = 4, the wave function has two maxima and two minima 
+(four extrema), as shown in the left-hand panel of ANS. FIG. 
+P41.29.  
+ 
+(b) For n = 4, the probability function has four maxima. as shown in 
+the right-hand panel of ANS. FIG. P41.29.  
+ 
+ANS. FIG. P41.29 
+P41.30 
+(a) 
+See ANS. FIG. P41.30(a).  
+ 
+ANS. FIG. P41.30(a)
+
+--- PAGE 22 ---
+Chapter 41     969 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The wavelength inside the box is 2L. The wave function 
+penetrates the wall, but the wavelength of the transmitted wave 
+traveling to the left is the same, 2L , because U = 0 on both sides 
+of the wall, so the energy and momentum and, therefore, the 
+wavelength, are the same. 
+ 
+ 
+ 
+Section 41.5 
+Tunneling Through a Potential Energy Barrier 
+P41.31 
+The decay constant for the wave function inside the barrier is: 
+ 
+ 
+ 
+C =
+2m U −E
+(
+)
+
+=
+2 9.11× 10–31 kg
+(
+) 10.0 eV −5.00 eV
+(
+) 1.60 × 10–19 J/eV
+(
+)
+6.626 × 10–34 J ⋅s/2π
+= 1.14 × 1010 m–1
+ 
+(a) 
+The approximate probability of transmission is  
+ 
+T ≈e−2CL = e
+−2 1.14 × 1010 m–1
+(
+) 2.00 × 10–10 m
+(
+) = 0.010 3 
+ 
+ 
+or a 1% chance of transmission. 
+ 
+(b) 
+R = 1−T = 0.990 , a 99% chance of reflection. 
+P41.32 
+(a) 
+T = e−2CL,  where       
+ 
+ 
+ 
+C =
+2m U −E
+(
+)
+
+=
+2 9.11× 10−31 kg
+(
+) 5.00 −4.50
+(
+) 1.60 × 10−19 J
+(
+) 
+1.055 × 10−34 J⋅s
+= 3.62 × 109 m−1
+ 
+ 
+ 
+and T = e−2CL = exp −2 3.62 × 109 m−1
+(
+) 950 × 10−12 m
+(
+)
+⎡⎣
+⎤⎦
+= exp −6.88
+(
+) = 1.03 × 10−3
+ 
+ 
+(b) We require e−2CL = 10−6. Taking logarithms, 
+ 
+ 
+ 
+−2CL = ln10−6 = −6ln10
+L = 3ln10
+C
+=
+3ln10
+3.62 × 109 m−1 = 1.91× 10−9 m = 1.91 nm
+
+--- PAGE 23 ---
+970     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.33 
+The original tunneling probability is T = e−2CL, where 
+ 
+ 
+ 
+C =
+2m U −E
+(
+)
+
+=
+2 9.11× 10−31 kg
+(
+) 20.0 −12.0
+(
+) 1.60 × 10−19 J
+(
+)
+6.626 × 10−34 J⋅s 2π
+= 1.448 1× 1010 m−1
+ 
+ 
+The photon energy is hf = hc
+λ = 1 240 eV ⋅nm
+546 nm
+= 2.27 eV, to make the 
+electron’s new kinetic energy 12.0 + 2.27 = 14.27 eV and its decay 
+coefficient inside the barrier 
+ 
+ 
+ 
+′
+C =
+2m U −E
+(
+)
+
+=
+2 9.11× 10−31 kg
+(
+) 20.0 −14.27
+(
+) 1.60 × 10−19 J
+(
+)
+6.626 × 10−34 J⋅s 2π
+= 1.225 5 × 1010 m−1
+ 
+ 
+Now the factor of increase in transmission probability is  
+ 
+ 
+ 
+e−2
+′
+C L
+e−2CL = e2L C−
+′
+C
+(
+) = e
+2 1.00×10−9 m
+(
+) 0.223×1010 m−1
+(
+) = e4.45 = 85.9 
+ 
+ 
+ 
+Section 41.6 
+Applications of Tunneling 
+P41.34 
+With the wave function proportional to e
+–CL, the transmission 
+coefficient and the tunneling current are proportional to ψ
+2 , to e
+–2CL. 
+Then, 
+ 
+ 
+I 0.500 nm
+(
+)
+I 0.515 nm
+(
+)
+= e
+−2 10.0 nm
+(
+) 0.500 nm
+(
+)
+e
+−2 10.0 nm
+(
+) 0.515 nm
+(
+) = e20.0 0.015
+(
+) = 1.35 
+P41.35 
+With transmission coefficient e
+–2CL, the fractional change in 
+transmission is 
+ 
+ 
+e
+−2 10.0 nm
+(
+)L −e
+−2 10.0 nm
+(
+) L+0.002 00 nm
+(
+)
+e
+−2 10.0 nm
+(
+)L
+= 1−e
+−20.0 0.002 00
+(
+)
+= 0.039 2 = 3.92%
+
+--- PAGE 24 ---
+Chapter 41     971 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 41.7 
+The Simple Harmonic Oscillator 
+P41.36 
+(a) 
+The wave function is given by ψ = Axe−bx2 , so     
+ 
+ 
+ 
+dψ
+dx = Ae−bx2 −2bx2Ae−bx2 
+ 
+ 
+and 
+ 
+ 
+ 
+d2ψ
+dx2 = −2bxAe−bx2 −4bxAe−bx2
+⎡⎣
+⎤⎦+ 4b2x3e−bx2 = −6bψ + 4b2x2ψ 
+ 
+ 
+Substitute into Equation 41.24: 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 + 1
+2 mω 2x2ψ = Eψ
+−2
+2m −6bψ + 4b2x2ψ
+⎡⎣
+⎤⎦+ 1
+2 mω 2x2ψ = Eψ
+3b2
+m ψ −2b22
+m
+x2ψ = −1
+2 mω 2x2ψ + Eψ
+ 
+ 
+ 
+For this to be true as an identity, the coefficients of like terms 
+must be the same for all values of x. So we must have both 
+ 
+ 
+ 
+2b22
+m
+= 1
+2 mω 2
+→
+b2 = m2ω 2
+42    and    3b2
+m
+= E 
+ 
+(b) Therefore,    b = mω
+2
+    and    E = 3b2
+m
+= 3
+2 ω 
+ 
+(c) 
+The energy levels are En = n + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ω = 3
+2 ω , so n = 1, which 
+corresponds to the first excited state . 
+P41.37 
+The longest wavelength corresponds to minimum photon energy, 
+which must be equal to the spacing between energy levels of the 
+oscillator. From E = ω, we have 
+ 
+ 
+hc
+λ = 
+k
+m = h
+2π
+k
+m
+ 
+ 
+or 
+ 
+ 
+λ = 2πc
+m
+k = 2π 3.00 × 108 m/s
+(
+) 9.11× 10−31 kg
+8.99 N/m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 600 nm
+
+--- PAGE 25 ---
+972     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.38 
+The longest wavelength corresponds to minimum photon energy, 
+which must be equal to the spacing between energy levels of the 
+oscillator, which is (from Equation 41.28) 
+ 
+ 
+E = ω
+hc
+λ = 
+k
+m = h
+2π
+k
+m
+λ = 2πc
+m
+k
+ 
+P41.39 
+(a) 
+With ψ = Be
+−mω 2
+(
+)x2 , the normalization condition 
+ψ
+2 dx
+all x∫
+= 1 
+becomes 
+ 
+ 
+ 
+1 =
+B2e
+−2 mω 2
+(
+)x2 dx
+−∞
+∞
+∫
+= 2B2 e
+−mω 
+(
+)x2 dx
+0
+∞
+∫
+                                 = 2B2 1
+2
+π
+mω = B2
+π 
+mω
+ 
+ 
+ 
+where Table B.6 in Appendix B was used to evaluate the integral. 
+ 
+ 
+Thus, B =
+mω
+π 
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+. 
+ 
+(b) For small δ, the probability of finding the particle in the range 
+−δ
+2 < x < δ
+2 is 
+ 
+ 
+ 
+ψ
+2 dx
+−δ 2
+δ 2
+∫
+≈δ ψ 0( )
+2 = δB2e−0 = δ
+mω
+π 
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+P41.40 
+(a) 
+For the center of mass to be fixed, m1u1 + m2u2 = 0 . Then 
+ 
+ 
+ 
+u = u1 + u2 = u1 + m1
+m2
+u1 = m2 + m1
+m2
+u1
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+u1 =
+m2u
+m1 + m2
+ 
+ 
+ 
+Also, 
+ 
+ 
+ 
+u = m2
+m1
+u2 + u2 =
+m2 + m1
+m1
+⎛
+⎝⎜
+⎞
+⎠⎟u2
+→
+u2 =
+m1u
+m1 + m2
+
+--- PAGE 26 ---
+Chapter 41     973 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substitute for u1 and u2 : 
+ 
+ 
+ 
+1
+2 m1u1
+2 + 1
+2 m2u2
+2 + 1
+2 kx2 = 1
+2
+m1m2
+2u2
+m1 + m2
+(
+)
+2 + 1
+2
+m2m1
+2u2
+m1 + m2
+(
+)
+2 + 1
+2 kx2
+= 1
+2
+m1m2 m1 + m2
+(
+)
+m1 + m2
+(
+)
+2
+u2 + 1
+2 kx2
+= 1
+2 µu2 + 1
+2 kx2
+ 
+ 
+(b) Because the total energy is constant 
+ 
+ 
+ 
+d
+dx
+1
+2 µ u2 + 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+0 = 1
+2 µ 2u du
+dx + 1
+2 k2x = µ dx
+dt
+du
+dx + kx = µ du
+dt + kx = µa + kx
+µa = −kx
+a = −kx
+µ
+ 
+ 
+ 
+This is the condition for simple harmonic motion; the acceleration 
+of the equivalent particle is a negative constant times the 
+displacement from equilibrium. 
+ 
+(c) 
+By identification with a = −ω 2x,  
+ 
+ 
+ 
+ω =
+k
+µ = 2π f and f = 1
+2π
+k
+µ 
+P41.41 
+(a) 
+With x = 0 and px = 0 , the average value of x
+2 is Δx
+(
+)
+2 and the 
+average value of px
+2 is Δpx
+(
+)
+2 . We know Δx ≥
+
+2Δpx
+. 
+ 
+ 
+The average of the energy is constant: 
+ 
+ 
+ 
+E =
+px
+2
+2m + k
+2 x2 = px
+2
+2m + k
+2 x2
+E = Δpx
+(
+)
+2
+2m
++ k
+2 Δx
+(
+)
+2 ≥Δpx
+(
+)
+2
+2m
++ k
+2
+
+2Δpx
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+E ≥Δpx
+(
+)
+2
+2m
++
+k2
+8 Δpx
+(
+)
+2
+ 
+ 
+ 
+We rewrite the last equation as   
+E ≥px
+2
+2m + k2
+8px
+2
+
+--- PAGE 27 ---
+974     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) To minimize E as a function of Δpx
+(
+)
+2 , we require 
+ 
+ 
+ 
+d
+d
+Δpx
+(
+)
+2
+⎡⎣
+⎤⎦
+Δpx
+(
+)
+2
+2m
++
+k2
+8 Δpx
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0
+1
+2m + k2
+8
+−1
+(
+)
+1
+Δpx
+(
+)
+4 = 0
+ 
+ 
+ 
+Then 
+ 
+ 
+ 
+k2
+8 Δpx
+(
+)
+4 = 1
+2m →
+Δpx
+(
+)
+2 =
+2mk2
+8
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= mk
+2
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+E ≥Δpx
+(
+)
+2
+2m
++
+k2
+8 Δpx
+(
+)
+2 = mk
+2 2m
+(
+) +
+k22
+8mk
+= 
+4
+k
+m + 
+4
+k
+m = 
+2
+k
+m
+ 
+ 
+ 
+Therefore, Emin = 
+2
+k
+m = ω
+2
+ 
+P41.42 
+Equation 41.26 is ψ = Be
+−mω 2
+(
+)x2 , so 
+ 
+ 
+ 
+dψ
+dx = −mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟xψ    and     d2ψ
+dx2 =
+mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+x2ψ + −mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟ψ 
+ 
+Substitute into Equation 41.24: 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 + 1
+2 mω 2x2ψ = Eψ
+−2
+2m
+mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+x2ψ + −mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟ψ
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥+ 1
+2 mω 2x2ψ = Eψ
+−1
+2 mω 2x2ψ + ω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ψ + 1
+2 mω 2x2ψ = Eψ
+ω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ψ = Eψ
+ 
+ 
+which is satisfied provided that E = ω
+2
+.
+
+--- PAGE 28 ---
+Chapter 41     975 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P41.43 
+(a) 
+The particle’s wavelength is 
+ 
+ 
+ 
+λ = 2L
+n = 2L
+1 = 2.00 × 10−10 m 
+(b) Its momentum is 
+ 
+p = h
+λ = 6.626 × 10−34 J ⋅s
+2.00 × 10−10 m = 3.31× 10−24 kg ⋅m/s 
+(c) 
+And its energy is 
+ 
+E = p2
+2m =
+3.31× 10−24 kg ⋅m/s
+(
+)
+2
+2 2.00 × 10−28 kg
+(
+)
+= 0.171 eV 
+P41.44 
+(a) 
+From Equation 41.4 for ψ x
+( ) = Aeikx, the first and second 
+derivatives are 
+ 
+ 
+ 
+d
+dx Aeikx
+(
+) = ikAeikx   and    d2ψ
+dx2 = −k2Aeikx 
+ 
+ 
+Then 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 = −2
+2m −k2Aeikx
+(
+) = 2k2
+2m
+Aeikx
+(
+)
+= 1
+2m
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+Aeikx
+(
+)
+= 1
+2m
+h
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+Aeikx
+(
+) = p2
+2mψ = Kψ
+ 
+ 
+(b) For ψ x
+( ) = Asin 2π x
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= Asin kx,  
+ 
+ 
+ 
+d
+dx Asin kx
+(
+) = Ak coskx      and      d2ψ
+dx2 = −Ak2 sin kx. 
+ 
+ 
+Then, similarly to the proof in part (a), 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 = −2
+2m −Ak2 sin kx
+(
+) = 2k2
+2m
+Ak2 sin kx
+(
+) = p2
+2mψ
+= Kψ
+
+--- PAGE 29 ---
+976     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.45 
+From Equation 41.13, ψ 2(x) =
+2
+L sin 2πx
+L
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+The probability of finding the particle between x = 0 and x = L/4 is 
+ 
+ 
+ψ
+2 dx
+0
+L 4
+∫
+=
+2
+L sin2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L/4
+∫
+= 2
+L
+1−cos 2 2π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0
+L/4
+∫
+1
+L x −L
+4π sin 4π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+L 4
+= 1
+L
+L
+4 −L
+4π sin π
+( )
+⎡
+⎣⎢
+⎤
+⎦⎥= 1
+4 = 0.250
+ 
+P41.46 
+If we had n = 0 for a quantum particle in a box, its momentum would 
+be zero. The uncertainty in its momentum would be zero. The 
+uncertainty in its position would not be infinite, but just equal to the 
+width of the box. Then the uncertainty product would be zero, to 
+violate the uncertainty principle. The contradiction shows that the 
+quantum number cannot be zero. In its ground state the particle has 
+some nonzero zero-point energy. 
+P41.47 
+T = e
+–2CL, where C =
+2m U −E
+(
+)
+
+ and where m is in kilograms, and U 
+and E are in joules. 
+(a) 
+We compute 
+ 
+C =
+2 9.11× 10−31 kg
+(
+)
+0.010 0 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+⎡⎣
+⎤⎦
+1.055 × 10−34 J⋅s
+= 5.12 × 108 m−1
+ 
+Then, 
+ 
+2CL = 2 5.12 × 108 m−1
+(
+) 0.100 × 10−9 m
+(
+) = 0.102 
+ 
+ 
+and T = e−0.102 = 0.903 
+(b) We compute 
+ 
+C =
+2 9.11× 10−31 kg
+(
+)
+1.00 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+⎡⎣
+⎤⎦
+1.055 × 10−34 J⋅s
+= 5.12 × 109 m−1
+ 
+Then, 
+ 
+ 
+ 
+2CL = 2 5.12 × 109 m−1
+(
+) 0.100 × 10−9 m
+(
+) = 1.02 
+ 
+ 
+and T = e−1.02 = 0.359
+
+--- PAGE 30 ---
+Chapter 41     977 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We compute 
+ 
+ 
+ 
+C =
+2 6.65 × 10−27 kg
+(
+)
+1.00 × 106 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+⎡⎣
+⎤⎦
+1.055 × 10−34 J⋅s
+= 4.37 × 1014 m−1
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+2CL = 2 4.37 × 1014 m−1
+(
+) 1.00 × 10−15 m
+(
+) = 0.875 
+ 
+ 
+and T = e−0.875 = 0.417 
+ 
+(d) We compute 
+ 
+ 
+ 
+2CL = 2
+2 8.00 kg
+(
+) 1.00 J
+(
+)
+1.055 × 10−34 J⋅s
+0.020 0 m
+(
+) = 1.52 × 1033
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+T = e−1.52×1033 = e(ln 10)(−1.52×1033 /ln 10) = 10−6.59×1032 
+P41.48 
+From Equation 41.14, the energy levels of an electron in an infinitely 
+deep potential well are proportional to n
+2. If the energy of the ground 
+state, n = 1, is E1 = 0.300 eV, the energy levels of the states n = 2, 3, and 
+4 are 
+ 
+ 
+ 
+E2 = 22 0.300 eV
+(
+) = 1.20 eV
+E3 = 32 0.300 eV
+(
+) = 2.70 eV
+E4 = 42 0.300 eV
+(
+) = 4.80 eV
+ 
+ 
+(a) 
+For the transition from the n = 3 level to the n = 1 level, the 
+electron loses energy 
+ 
+ 
+ 
+E = hc
+λ = E3 −E1 = 2.70 eV −0.300 eV = 2.40 eV
+λ = hc
+ΔE = 1240 eV⋅nm
+2.40 eV
+= 517 nm
+ 
+ 
+(b) For the transition from level 2 to level 1, 
+ 
+ 
+ 
+E = 1.20 eV – 0.300 eV = 0.900 eV 
+ 
+ 
+and 
+ 
+ 
+ 
+λ = hc
+ΔE = 1240 eV⋅nm
+0.900 eV
+= 1 380 nm = 1.38 µm
+ 
+ 
+ 
+This photon, with wavelength greater than 700 nm, is in the 
+infrared region.
+
+--- PAGE 31 ---
+978     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In like manner, we find 
+ 
+ 
+for 3 to 2:  
+ΔE = 1.50 eV, and λ = 827 nm, infrared  
+ 
+ 
+for 4 to 1: 
+ΔE = 4.50 eV, and λ = 275 nm, ultraviolet 
+ 
+ 
+for 4 to 2:  
+ΔE = 3.60 eV, and λ = 344 nm, near ultraviolet  
+ 
+ 
+for 4 to 3: 
+ΔE = 2.10 eV, and λ = 590 nm, yellow-orange visible  
+P41.49 
+(a) 
+From E = hf, the frequency is 
+ 
+ 
+ 
+f = E
+h =
+1.80 eV
+(
+)
+6.626 × 10−34 J ⋅s
+(
+)
+1.602 × 10−19 J
+1.00 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.35 × 1014 Hz = 435 × 1012 Hz = 435 THz
+ 
+ 
+(b) The wavelength of the emitted photon is 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+4.35 × 1014 Hz = 6.89 × 10−7 m = 689 nm 
+ 
+(c) 
+We use ΔEΔt ≥
+2 , so 
+ 
+ 
+ 
+ΔE ≥
+2Δt =
+h
+4π Δt
+(
+) = 6.626 × 10−34 J⋅s
+4π 2.00 × 10−6 s
+(
+)
+ΔE ≥2.64 × 10−29 J = 1.65 × 10−10 eV = 165 × 10−12 eV
+    = 165 peV
+ 
+ 
+ 
+The uncertainty is 165 peV or more. 
+P41.50 
+Suppose the marble has mass 20 g. Suppose the wall of the box is 12 
+cm high and 2 mm thick. While it is inside the wall, 
+ 
+ 
+ 
+U = mgy = 0.02 kg
+(
+) 9.8 m/s2
+(
+) 0.12 m
+(
+) = 0.023 5 J 
+ 
+and   
+ 
+ 
+ 
+ 
+E = K = 1
+2 mu2 = 1
+2 0.02 kg
+(
+) 0.8 m/s
+(
+)
+2 = 0.006 4 J 
+ 
+Then,   
+ 
+ 
+ 
+ 
+C =
+2m U −E
+(
+)
+
+=
+2 0.02 kg
+(
+) 0.017 1 J
+(
+)
+1.055 × 10−34 J ⋅s
+= 2.5 × 1032 m−1
+
+--- PAGE 32 ---
+Chapter 41     979 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the transmission coefficient is 
+ 
+ 
+ 
+e−2CL = e
+−2 2.5×1032
+(
+) 2×10−3
+(
+) = e−10×1029 = e
+−2.30 4.3×1029
+(
+)
+= 10−4.3×1029 = ~ 10−1030
+ 
+P41.51 
+(a) 
+From Equation 41.14, the allowed energy levels are 
+ 
+ 
+ 
+En =
+h2
+8mL2
+⎛
+⎝⎜
+⎞
+⎠⎟n2        n = 1, 2, 3, … 
+ 
+ 
+The energy of the absorbed photon is 
+ 
+ 
+ 
+E = ΔEn = E3 −E1 =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟(3)2 −
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟(1)2 = 8
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+We determine the length of the box from 
+ 
+ 
+ 
+hc
+λ =
+h2
+meL2
+→
+L =
+hλ
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2 
+ 
+(b) The energy lost during the n = 3 to n = 2 transition is 
+ 
+ 
+ 
+′
+E = E3 −E2 =
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟3( )
+2 −
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟2( )
+2 = 5
+h2
+8meL2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+The wavelength of the emitted photon is then 
+ 
+ 
+ 
+hc
+′
+λ =
+5h2
+8meL2 = 5h2
+8 me
+me c
+hλ
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+′
+λ = 8
+5 λ 
+P41.52 
+x2 =
+x2 ψ
+2 dx
+−∞
+∞
+∫
+ 
+ 
+For a one-dimensional box of width L, from Equation 41.18, 
+ 
+ 
+ψ n =
+2
+L sin nπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+x2 = 2
+L x2 sin2
+nπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+  
+ 
+With the substitution 
+ 
+ 
+ 
+y = nπ x
+L
+→dy = nπ
+L dx
+x = L
+nπ y →dx = L
+nπ dy
+
+--- PAGE 33 ---
+980     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+the integral becomes (from integral tables) 
+ 
+ 
+ 
+x2 = 2
+L
+L
+nπ
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+x2 sin2 ydy
+0
+nπ
+∫
+= 2L2
+nπ
+(
+)
+3
+y3
+6 −
+y2
+4 −1
+8
+⎛
+⎝⎜
+⎞
+⎠⎟sin2y −y
+4 cos2y
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+nπ
+= 2L2
+nπ
+(
+)
+3
+nπ
+(
+)
+3
+6
+−nπ
+4 cos2 nπ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 2L2
+nπ
+(
+)
+3
+nπ
+(
+)
+3
+6
+−nπ
+4
+⎡
+⎣⎢
+⎤
+⎦⎥= L2
+3 −
+L2
+2n2π 2
+ 
+P41.53 
+(a) 
+The requirements that nλ
+2 = L and p = h
+λ = nh
+2L are still valid. 
+From the relativistic energy of the particle,  
+ 
+ 
+ 
+E =
+pc
+(
+)
+2 + mc2
+(
+)
+2 ⇒En =
+nhc
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mc2
+(
+)
+2 
+ 
+ 
+its kinetic energy is therefore 
+ 
+ 
+ 
+Kn = En −mc2 =
+nhc
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mc2
+(
+)
+2 −mc2
+ 
+ 
+(b) Taking L = 1.00 × 10
+–12 m, m = 9.11 × 10
+–31 kg, and n = 1, we find 
+ 
+ 
+ 
+Kn =
+nhc
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mc2
+(
+)
+2 −mc2
+=
+1( ) 6.626 × 10−34 J⋅s
+(
+) 2.998 × 108 m s
+(
+)
+2 1.00 × 10−12 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+⎧
+⎨⎪
+⎩⎪
++
+9.11× 10−31 kg
+(
+) 2.998 × 108 m
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2 ⎫
+⎬⎪
+⎭⎪
+1/2
+              −9.11× 10−31 kg
+(
+) 2.998 × 108 m
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4.68 × 10−14 J
+ 
+ 
+(c) 
+The particle’s nonrelativistic energy is  
+E1 =
+h2
+8mL2 =
+6.626 × 10−34 J⋅s
+(
+)
+2
+8 9.11× 10−31 kg
+(
+) 1.00 × 10−12 m
+(
+)
+2 = 6.02 × 10−14 J
+
+--- PAGE 34 ---
+Chapter 41     981 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Comparing this to K1, we see that this value is too large by 
+28.6% . 
+P41.54 
+Looking at Figure 41.7, we see that wavelengths for a particle in a finite 
+well are longer than those for a particle in an infinite well. Therefore, 
+the energies of the allowed states should be lower for a finite well than 
+for an infinite well. As a result, the photons from the source have too 
+much energy to be absorbed or, equivalently, the photons have a 
+frequency that is too high. In order to lower their apparent frequency 
+using the Doppler shift, the source would have to move away from the 
+particle in the finite square well, not toward it. 
+ P41.55 
+(a) 
+For a particle with wave function 
+ 
+ 
+ 
+ψ x
+( ) =
+2
+ae−x a
+for x > 0
+0
+for x < 0
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+ 
+The probability densities are 
+ 
+ 
+ 
+ψ x
+( )
+2 = 0   
+for x < 0     
+ 
+ 
+and ψ 2 x
+( ) = 2
+a e−2x a 
+for x > 0. 
+ 
+ 
+ANS. FIG. P41.55. shows a sketch of the probability density for 
+this particle. 
+ 
+ANS. FIG. P41.55 
+ 
+(b) The probability is obtained from 
+ 
+ 
+ 
+Prob x < 0
+(
+) =
+ψ x
+( )
+2 dx
+−∞
+0
+∫
+=
+0( )dx
+−∞
+0
+∫
+= 0 
+(c) 
+For the wave function to be normalized, we require  
+ 
+ψ x
+( )
+2 dx
+−∞
+∞
+∫
+=
+ψ
+2 dx
+−∞
+0
+∫
++
+ψ
+2 dx
+0
+∞
+∫
+= 1 
+Performing the integration gives 
+ 
+ 
+ 
+0dx
+−∞
+0
+∫
++
+2
+a
+⎛
+⎝⎜
+⎞
+⎠⎟e−2x adx
+0
+∞
+∫
+= 0 −e−2x a
+0
+∞= −e−∞−1
+(
+) = 1
+
+--- PAGE 35 ---
+982     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(d) The probability is obtained from  
+ 
+Prob 0 < x < a
+(
+) = ψ
+2 dx
+0
+a
+∫
+=
+2
+a
+⎛
+⎝⎜
+⎞
+⎠⎟e−2x a dx
+0
+a
+∫
+= −e−2x a
+0
+a
+= 1−e−2 = 0.865
+ 
+P41.56 
+(a) 
+Taking Lx = Ly = L, we see that the expression for E becomes 
+ 
+ 
+ 
+E =
+h2
+8meL2 nx
+2 + ny
+2
+(
+) 
+ 
+ 
+The general form of the wave function is  
+ 
+ 
+ 
+ψ ∼sin nxπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟sin
+nyπ y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+For a normalizable wave function, neither nx nor ny can be zero, 
+otherwise ψ = 0. 
+ 
+(b) The ground state corresponds to nx = ny = 1 . 
+ 
+(c) 
+The energy of the ground state is 
+ 
+ 
+ 
+E1, 1 =
+h2
+8meL2 12 + 12
+(
+) =
+h2
+4meL2 
+ 
+(d) For the first excited state, nx = 1 and ny = 2, or nx = 2 and ny = 1. 
+ 
+(e) 
+For the second excited state, nx = 2 and ny = 2. 
+ 
+(f) 
+The second excited state, corresponding to nx = 2, ny = 2, has an 
+energy of 
+ 
+ 
+ 
+E2, 2 =
+h2
+8meL2 22 + 22
+(
+) =
+h2
+meL2 
+ 
+(g) The energy difference between the ground state and the second 
+excited state is 
+ 
+ 
+ 
+ΔE = E2, 2 −E1, 1 =
+h2
+meL2 −
+h2
+4meL2 =
+3h2
+4meL2 
+ 
+(h) 
+ΔE =
+3h2
+4meL2 = hc
+λ
+→
+λ = 4mecL2
+3h
+
+--- PAGE 36 ---
+Chapter 41     983 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.57 
+(a) 
+The expectation value is 
+ 
+ 
+ 
+x 0 =
+x
+a
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+e−ax2dx
+−∞
+∞
+∫
+= 0 
+ 
+ 
+since the integrand is an odd function of x. 
+(b) The expectation value is  
+ 
+ 
+x 1 =
+x 4a3
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+x2e−ax2dx
+−∞
+∞
+∫
+= 0 
+ 
+since the integrand is an odd function of x. 
+(c) 
+The expectation value is  
+ 
+ 
+ 
+x 01 =
+x 1
+2 ψ 0 +ψ 1
+(
+)
+2 dx
+−∞
+∞
+∫
+= 1
+2 x 0 + 1
+2 x 1 +
+xψ 0 x
+( )ψ 1 x
+( )dx
+−∞
+∞
+∫
+ 
+ 
+ 
+The first two terms are zero, from (a) and (b). Thus, 
+ 
+ 
+ 
+x 01 =
+x
+a
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+e−ax2 2
+4a3
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+xe−ax2 2 dx
+−∞
+∞
+∫
+= 2 2a2
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+x2e−ax2 dx
+0
+∞
+∫
+= 2 2a2
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2 1
+4
+π
+a3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+1
+2a
+ 
+ 
+ 
+Where we have used Table B.6 in the Appendix to evaluate the 
+integral. 
+P41.58 
+With one slit open, 
+ 
+ 
+ 
+P1 = ψ 1
+2     or     P2 = ψ 2
+2 
+ 
+With both slits open,     
+ 
+ 
+ 
+P = ψ 1 +ψ 2
+2 
+ 
+At a maximum, the wave functions are in phase     
+ 
+ 
+ 
+Pmax = ψ 1 + ψ 2
+(
+)
+2 
+ 
+At a minimum, the wave functions are out of phase, 
+ 
+ 
+ 
+Pmin = ψ 1 −ψ 2
+(
+)
+2
+
+--- PAGE 37 ---
+984     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now, 
+ 
+ 
+ 
+P1
+P2
+= ψ 1
+2
+ψ 2
+2 = 25.0 , 
+ 
+ so  
+ψ 1
+ψ 2
+= 5.00 
+ 
+and  
+Pmax
+Pmin
+=
+ψ 1 + ψ 2
+(
+)
+2
+ψ 1 −ψ 2
+(
+)
+2 =
+5.00 ψ 2 + ψ 2
+(
+)
+2
+5.00 ψ 2 −ψ 2
+(
+)
+2 = 6.00
+(
+)
+2
+4.00
+(
+)
+2 = 36.0
+16.0 = 2.25 
+ 
+ 
+ 
+Challenge Problems 
+P41.59 
+(a) 
+The claim is that Schrödinger’s 
+equation 
+ 
+ 
+ 
+∂2ψ
+∂x2 = −2m
+2 E −U
+(
+)ψ 
+ 
+ 
+has the solutions 
+ 
+ 
+ 
+ψ 1 = Aeik1x + Be−ik1x [region I] 
+ 
+ 
+ 
+ψ 2 = Ceik2x 
+ 
+[region II] 
+ 
+ 
+Check that the solution for region I satisfies Schrödinger’s 
+equation: 
+ 
+ 
+ 
+∂2ψ 1
+∂x2 = −2m
+2 Eψ 1
+∂2
+∂x2 Aeik1x
+(
+) + ∂2
+∂x2 Be−ik1x
+(
+) = −2m
+2 E Aeik1x + Be−ik1x
+(
+)
+−k
+1
+2 Aeik1x
+(
+) −k1
+2 Be−ik1x
+(
+) = −2m
+2 E Aeik1x + Be−ik1x
+(
+)
+−k
+1
+2 Aeik1x + Be−ik1x
+(
+) = −2m
+2 E Aeik1x + Be−ik1x
+(
+)
+ 
+ 
+ 
+The last line is true if k
+1
+2 = 2m
+2 E, which it is because 
+ 
+ 
+ 
+E = p2
+2m = k1
+(
+)
+2
+2m
+→k1 =
+2mE
+
+ 
+ 
+ 
+Therefore, the equation is satisfied in region I. 
+ANS. FIG. P41.59(a)
+
+--- PAGE 38 ---
+Chapter 41     985 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Check that the solution for region II satisfies Schrödinger’s 
+equation: 
+ 
+ 
+ 
+∂2ψ 2
+∂x2 = −2m
+2 E −U
+(
+)ψ 2
+∂2
+∂x2 Ceik2x
+(
+) = −2m
+2 E −U
+(
+) Ceik2x
+(
+)
+−k
+2
+2 Ceik2x
+(
+) = −2m
+2 E −U
+(
+) Ceik2x
+(
+)
+ 
+ 
+ 
+The last line is true if k
+2
+2 = 2m
+2
+E −U
+(
+), which it is because 
+ 
+ 
+ 
+E = p2
+2m +U = k2
+(
+)
+2
+2m
+→k2 =
+2m E −U
+(
+)
+
+ 
+ 
+ 
+Therefore, the equation is satisfied in region II. We apply boundary 
+conditions. Matching functions and derivatives at x = 0, we find that 
+ 
+ 
+ 
+ψ 1
+(
+)0 = ψ 2
+(
+)0 
+gives     A + B = C, 
+ 
+ 
+and 
+dψ 1
+dx
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+=
+dψ 2
+dx
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+ 
+gives     k1 A −B
+(
+) = k2C. 
+ 
+ 
+Then    B = 1−k2 k1
+1+ k2 k1
+A    and    C =
+2
+1+ k2 k1
+A. 
+ 
+ 
+Incident wave Ae
+ikx reflects Be
+–ikx, with probability 
+ 
+ 
+ 
+R = B2
+A2 = 1−k2 k1
+(
+)
+2
+1+ k2 k1
+(
+)
+2 =
+k1 −k2
+(
+)
+2
+k1 + k2
+(
+)
+2 
+ 
+(b) With E = 7.00 eV and U = 5.00 eV: 
+ 
+ 
+ 
+k2
+k1
+=
+E −U
+E
+=
+2.00 eV
+7.00 eV = 0.535 
+ 
+ 
+The reflection probability is    R = 1−0.535
+(
+)
+2
+1+ 0.535
+(
+)
+2 = 0.092 0 . 
+ 
+(c) 
+The probability of transmission is    T = 1−R = 0.908 . 
+P41.60 
+(a) 
+The potential energy of the system is given by 
+ 
+ 
+ 
+U =
+e2
+4π ∈0 d
+−1+ 1
+2 −1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟+ −1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ −1
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥= −7 3
+(
+)e2
+4π ∈0 d
+= −7kee2
+3d
+
+--- PAGE 39 ---
+986     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) There are two electrons, each with minimum energy E1. From 
+Equation 41.14, the total energy is 
+ 
+ 
+ 
+K = 2E1 =
+2h2
+8me 3d
+(
+)
+2 =
+h2
+36med2 
+ 
+(c) 
+The total energy of the system is 
+ 
+ 
+ 
+E = K +U =
+h2
+36med2 −7kee2
+3d
+ 
+ 
+ 
+For a minimum, we require dE
+d d( )
+= 0. Differentiating, 
+ 
+ 
+ 
+dE
+d d( ) = 0
+d
+d d( )
+h2
+36med2 −7kee2
+3d
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+−2
+(
+)
+h2
+36med3 −−1
+(
+)7kee2
+3d2 = 0
+h2
+18med3 = 7kee2
+3d2
+d =
+3h2
+7 18me
+(
+)kee =
+h2
+42mekee2
+ 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+d =
+6.626 × 10−34 J ⋅s
+(
+)
+2
+42
+(
+) 9.11× 10−31 kg
+(
+) 8.99 × 109 N ⋅m2/C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+= 4.99 × 10−11 m = 49.9 pm
+ 
+ 
+(d) The lithium spacing is d and the number of atoms N in volume V 
+is related by Nd
+3 = V, and the density is Nm
+V
+, where m is the mass 
+of one atom. We have: 
+ 
+ 
+ 
+density = Nm
+V = Nm
+Nd3 = m
+d3
+
+--- PAGE 40 ---
+Chapter 41     987 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From which we obtain 
+ 
+ 
+ 
+d =
+m
+density
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+6.94 g
+mol
+1 mol
+6.022 × 1023 atoms
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.530 g
+cm3
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+1 3
+= 2.79 × 10−8 cm = 2.79 × 10−10 mm = 279 pm
+  
+ 
+ 
+The lithium interatomic spacing of 280 pm is 5.59 times larger.
+Therefore, it is of the same order of magnitude as the interatomic
+spacing 2d here.
+ 
+P41.61 
+The wave functions and probability densities are the same as those 
+shown in Active Figure 41.4 of the textbook. From Equation 41.13, the 
+wave functions are 
+ 
+ 
+ψ n =
+2
+L sin nπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ where n = 1, 2, 3… 
+ 
+(a) 
+ For n = 1, 
+ 
+ 
+ 
+P1 =
+ψ 1
+2 dx
+0.150 nm
+0.350 nm
+∫
+=
+2
+1.00 nm
+⎛
+⎝⎜
+⎞
+⎠⎟
+sin2
+π x
+1.00 nm
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0.150
+0.350
+∫
+= 2.00 nm
+(
+) x
+2 −1.00 nm
+4π
+sin
+2π x
+1.00 nm
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.150 nm
+0.350 nm
+ 
+ 
+ 
+In the above result we used  
+ 
+ 
+ 
+sin2 ax
+(
+)dx
+∫
+=
+x
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−
+1
+4a
+⎛
+⎝⎜
+⎞
+⎠⎟sin 2ax
+(
+) 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+P1 = 1.00 nm
+(
+) x −1.00 nm
+2π
+sin
+2π x
+1.00 nm
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.150 nm
+0.350 nm
+ 
+ 
+ 
+ 
+P1 = 1.00 nm
+(
+) 0.350 nm −0.150 nm
+⎧
+⎨
+⎩
+                 
+−1.00 nm
+2π
+sin 0.700π
+(
+)−sin 0.300π
+(
+)
+[
+]
+⎫
+⎬
+⎭
+= 0.200
+
+--- PAGE 41 ---
+988     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+P2 =
+2
+1.00
+sin2
+2π x
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0.150
+0.350
+∫
+= 2.00 x
+2 −1.00
+8π sin 4π x
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.150
+0.350
+ 
+ 
+ 
+P2 = 1.00 x −1.00
+4π sin 4π x
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+0.150
+0.350
+= 1.00
+0.350 −0.150
+(
+) −1.00
+4π
+sin 1.40π
+(
+) −sin 0.600π
+(
+)
+[
+]
+{
+}
+= 0.351
+ 
+ 
+Using En = n2h2
+8mL2 , we find that  
+ 
+(c) 
+E1 = 0.377 eV    and     
+ 
+(d) 
+E2 = 1.51 eV 
+P41.62 
+(a) and (b) The Wave functions are shown in ANS. FIG. P41.62(a) and 
+ANS. FIG. P41.62(b). 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P41.62(a) 
+ANS. FIG. P41.62(b) 
+ 
+(c) 
+ψ  is continuous and ψ →0 as x →±∞. The function can be 
+normalized. It describes a particle bound near x = 0. 
+ 
+(d) Since ψ  is symmetric, 
+ 
+ 
+ 
+ψ
+2 dx
+−∞
+∞
+∫
+= 2 ψ
+2 dx
+0
+∞
+∫
+= 1 
+ 
+ 
+or 
+2A2 e−2α x dx
+0
+∞
+∫
+=
+2A2
+−2α
+⎛
+⎝⎜
+⎞
+⎠⎟e−∞−e0
+(
+) = 1. 
+ 
+ 
+This gives A =
+α . 
+ 
+(e) 
+The probability of finding the particle between –1/2α and 
++1/2α is  
+  
+P−1 2α
+(
+)→1 2α
+(
+) = 2
+a
+(
+)
+2
+e−2α x dx
+x=0
+1 2α
+∫
+=
+2α
+−2α
+⎛
+⎝⎜
+⎞
+⎠⎟e−2α 2α −1
+(
+)
+= 1−e−1
+(
+) = 0.632
+
+--- PAGE 42 ---
+Chapter 41     989 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.63 
+(a) 
+Recall from Section 41.7 that the potential energy of a harmonic 
+oscillator is 1
+2 kx2 = 1
+2 mω 2x2 . We can find the energy of the 
+oscillator E by substituting the wave function into the 
+Schrödinger equation. 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 +Uψ = Eψ
+→
+−2
+2m
+d2ψ
+dx2 + 1
+2 mω 2x2ψ = Eψ 
+ 
+ 
+From ψ = Bxe
+−mω 2
+(
+)x2 , we have 
+ 
+ 
+ 
+dψ
+dx = Be
+−mω 2
+(
+)x2 + Bx −mω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2xe
+−mω 2
+(
+)x2
+= Be
+−mω 2
+(
+)x2 −B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟x2e
+−mω 2
+(
+)x2
+d2ψ
+dx2 = Bx −mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟xe
+−mω 2
+(
+)x2 −B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟2xe
+−mω 2
+(
+)x2
+                                 −B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟x2 −mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟xe
+−mω 2
+(
+)x2
+d2ψ
+dx2 = −3B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟xe
+−mω 2
+(
+)x2 + B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+x3e
+−mω 2
+(
+)x2
+ 
+ 
+ 
+Substituting the above into the Schrödinger equation, we have 
+ 
+ 
+ 
+−2
+2m
+d2ψ
+dx2 + 1
+2 mω 2x2ψ = Eψ
+−2
+2m −3B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟xe
+−mω 2
+(
+)x2 + B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+x3e
+−mω 2
+(
+)x2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+                                                     + 1
+2 mω 2x2 Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦
+= E Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦
+3ω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦+
+−1
+2 mω 2x2
+⎛
+⎝⎜
+⎞
+⎠⎟Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦
+                                                 +
+1
+2 mω 2x2
+⎛
+⎝⎜
+⎞
+⎠⎟Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦
+= E Bxe
+−mω 2
+(
+)x2
+⎡⎣
+⎤⎦
+3ω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Bxe
+−mω 2
+(
+)x2
+(
+) = E Bxe
+−mω 2
+(
+)x2
+(
+)
+
+--- PAGE 43 ---
+990     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The last line is true if E = 3ω
+2
+. 
+ 
+(b) We never find the particle at x = 0 because ψ = 0 there. 
+ 
+(c) 
+ψ  is maximized if 
+ 
+ 
+ 
+dψ
+dx = Be
+−mω 2
+(
+)x2 −B mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟x2e
+−mω 2
+(
+)x2 = 0
+1−
+mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟x2 = 0
+ 
+ 
+ 
+which is true at x = ±
+
+mω . 
+ 
+(d) We require   
+ψ
+2 dx
+−∞
+∞
+∫
+= 1: 
+ 
+ 
+ 
+1 =
+B2x2e
+−mω 
+(
+)x2dx
+−∞
+∞
+∫
+= 2B2 x2e
+−mω 
+(
+)x2dx
+∫
+= 2B2 1
+4
+π
+mω 
+(
+)
+3 = B2 π 1 2
+2
+
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+ 
+ 
+ 
+Then,      
+ 
+ 
+ 
+B = 21 2
+π 1 4
+mω
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 4
+=
+4m3ω 3
+π 3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+ 
+ 
+(e) 
+At x = 2 mω
+(
+)
+1 2 , the potential energy is  
+  
+1
+2 mω 2x2 = 1
+2 mω 2
+4
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟= 2ω
+ 
+This is larger than the total energy 3ω
+2
+, so there is zero classical 
+probability of finding the particle here. 
+ 
+(f) 
+The actual probability is given by 
+ 
+P = ψ
+2 dx = Bxe
+−mω 2
+(
+)x2
+(
+)
+2
+δ 
+ 
+ 
+ 
+P = δB2x2e
+−mω 
+(
+)x2 = δ
+4m3ω 3
+π 3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+4
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟e
+−mω 
+(
+)x2
+= δ
+2
+π 1 2
+m3 2ω 3 2
+3 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟e
+−mω 
+(
+)4 mω
+(
+) = 8δ
+mω
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+e−4
+
+--- PAGE 44 ---
+Chapter 41     991 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.64 
+(a) 
+To find the normalization constant, we note that ψ
+2 dx
+0
+L
+∫
+= 1, or 
+ 
+ 
+ 
+A2
+sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟+ 16sin2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟+ 8sin π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+L
+∫
+= 1 
+ 
+ 
+Noting that 
+ 
+ 
+ 
+sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+=
+1−cos 2 π x L
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+0
+L
+∫
+= x
+2 −L
+π
+sin 2π x L
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+0
+L
+= L
+2
+ 
+ 
+ 
+the integral becomes 
+ 
+ 
+ 
+ψ
+2 dx
+0
+L
+∫
+= A2
+L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 16 L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 8 sin π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 = A2
+L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 16 L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎧⎨⎩
+                   +8 sin π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟2sin π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟cos π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+L
+∫
+⎫
+⎬⎪
+⎭⎪
+1 = A2 17L
+2 + 16 sin2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟cos π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+L
+∫
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 = A2 17L
+2 + 16L
+3π sin3 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+x=0
+x=L
+⎡
+⎣
+⎢⎢
+⎤
+⎦
+⎥⎥
+= A2 17L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+A =
+2
+17L
+ 
+ 
+(b) To determine the relationship between A and B, we note that 
+ψ
+2 dx
+−a
+a
+∫
+= 1. Therefore, 
+ 
+ 
+ 
+A
+2 cos2 π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟+ B
+2 sin2 π x
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+−a
+a
+∫
+                             + 2 A B cos π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟sin π x
+a
+⎛
+⎝⎜
+⎞
+⎠⎟⎤
+⎦⎥dx = 1
+
+--- PAGE 45 ---
+992     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Noting that 
+ 
+ 
+ 
+sin2 π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+−a
+a
+∫
+=
+1−cos 2 π x 2a
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+−a
+a
+∫
+= x
+2 + 2L
+π
+sin π x a
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−a
+a
+= a
+ 
+ 
+  
+and 
+ 
+ 
+ 
+cos2 π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+−a
+a
+∫
+=
+1+ cos 2 π x 2a
+(
+)
+⎡⎣
+⎤⎦
+2
+dx
+−a
+a
+∫
+= x
+2 + 2L
+π
+sin π x a
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−a
+a
+= a
+ 
+ 
+ 
+the integral becomes 
+ 
+ 
+ 
+A
+2 a + B
+2 a +
+2 A B cos π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟sin π x
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+−a
+a
+∫
+= 1 
+ 
+The third term is: 
+ 
+ 
+ 
+2 A B
+cos π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟2sin π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟cos π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+−a
+a
+∫
+                                     = 4 A B
+cos2 π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟sin π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+−a
+a
+∫
+                                     = 8a A B
+3π
+cos3 π x
+2a
+⎛
+⎝⎜
+⎞
+⎠⎟
+−a
+a
+= 0
+ 
+ 
+so the whole integral is  
+ 
+ 
+ 
+a A
+2 + B
+2
+(
+) = 1, giving A
+2 + B
+2 = 1
+a
+
+--- PAGE 46 ---
+Chapter 41     993 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P41.2 
+(a) See ANS. FIG. P41.2; (b) 1
+a
+; (c) 0.865 
+P41.4 
+1
+2
+ 
+P41.6 
+(a) n ≈ 4; (b) 6.03 eV 
+P41.8 
+The photon does not have the smallest possible energy to cause the 
+transition between states n = 1 to n = 2. 
+P41.10 
+3hλ
+8mec 
+P41.12 
+(a) 5.13 × 10
+−3 eV; (b) 9.41 eV; (c) The electron has a much higher 
+energy because it is much less massive. 
+P41.14 
+(a) 2.00 × 10
+−9 J; (b) 1.66 × 10
+−28 m; (c) No. The length of the box would 
+have to be much smaller than the size of a nucleus (~10
+−14 m) to confine 
+the particle. 
+P41.16 
+(a) 
+2L
+; (b) 2/8mL2; (c) This estimate is too low by 4π 2 ≈40 times, but 
+it correctly displays the pattern of dependence of the energy on the 
+mass and on the length of the well. 
+P41.18 
+See P41.18 for full explanation. 
+P41.20 
+(a) x = L/4, L/2, and 3 L/4; (b) We look for sin (3π x/L) taking on its 
+extreme values 1 and –1 so that the squared wave function is as large 
+as it can be. The result can also be found by studying Figure 41.4b. 
+P41.22 
+(a) 
+L −1
+2π sin 2π 
+L
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) See ANS FIG P41.22(b); (c) The wave function 
+is zero for x < 0 and for x > L. The probability at = 0 must be zero 
+because the particle is never found at x < 0 or exactly at x = 0. The 
+probability at = L must be 1 for normalization: the particle is always 
+found somewhere in the range 0 < x < L; (d) 0.585L 
+P41.24 
+See P41.24 for complete solution.
+
+--- PAGE 47 ---
+994     Quantum Mechanics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.26 
+(a) n = 1:   ψ 1 x
+( ) =
+2
+L cos π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟;   P1 x
+( ) = ψ 1 x
+( )
+2 = 2
+L cos2 π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟,  
+n = 2: ψ 2 x
+( ) =
+2
+L sin 2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟;   P2 x
+( ) = ψ 2 x
+( )
+2 = 2
+L sin2
+2π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟,  
+n = 3:  ψ 3 x
+( ) =
+2
+L cos 3π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟;   P3 x
+( ) = ψ 3 x
+( )
+2 = 2
+L cos2
+3π x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟;  
+(b) See ANS FIG. P41.26(b). 
+P41.28 
+(a) 2
+L2m ; (b) 
+15
+16L ; (c) 0.580 
+P41.30 
+(a) See ANS. FIG. P41.30(a); (b) 2L 
+P41.32 
+(a) 1.03 × 10−3;
+ 
+ (b) 1.91 nm  
+P41.34 
+1.35 
+P41.36 
+(a) See P41.36(a) for full explanation; (b) b = mω
+2 and 3
+2 ω ;  
+(c) first excited state 
+P41.38 
+2πc
+m
+k 
+P41.40 
+(a) See P41.40(a) for full explanation; (b) See P41.40(b) for full 
+explanation; (c) f = 1
+2π
+k
+µ
+ 
+P41.42 
+See P41.42 for full explanation. 
+P41.44 
+(a–b) See P41.44(a) and (b) for full explanations. 
+P41.46 
+See P41.46 for full explanation. 
+P41.48 
+(a) See P41.48(a) for full proof; (b) For 2 to 1, λ = 1.38 µm, infrared; For 
+3 to 2, λ = 827 nm, infrared; For 4 to 1, λ = 275 nm, ultraviolet; For 4 to 
+2, λ = 344 nm, near ultraviolet; For 4 to 3, λ = 590 nm, yellow-orange 
+visible. 
+P41.50 
+∼10−1030 
+P41.52 
+See P41.52 for full explanation.
+
+--- PAGE 48 ---
+Chapter 41     995 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P41.54 
+Looking at Figure 41.7, we see that wavelengths for a particle in a finite 
+well are longer than those for a particle in an infinite well. Therefore, 
+the energies of the allowed states should be lower for a finite well than 
+for an infinite well. As a result, the photons from the source have too 
+much energy to be absorbed or, equivalently, the photons have a 
+frequency that is too high. In order to lower their apparent frequency 
+using the Doppler shift, the source would have to move away from the 
+particle in the finite square well, not toward it. 
+P41.56 
+(a) E =
+h2
+8meL2 nx
+2 + ny
+2
+(
+); (b) nx = ny = 1; (c) 
+h2
+4meL2 ; (d) nx = 1 and ny = 2, or 
+nx = 2 and ny = 1; (e) nx = 2 and ny = 2; (f) h2
+meL2 ; (g) 3h2
+4meL2 ; (h) 4mecL2
+3h
+ 
+P41.58 
+2.25 
+P41.60 
+(a) −7kee2
+3d
+; (b) 
+h2
+36med2 ; (c) 49.9 pm; (d) The lithium interatomic 
+spacing of 280 pm is 5.59 times larger. Therefore, it is of the same order 
+of magnitude as the interatomic spacing 2d here. 
+P41.62 
+(a) See ANS. FIG. P41.62(a); (b) See ANS. FIG. P41.62(b); (c) ψ is 
+continuous and ψ →0 as x →±∞. The function can be normalized. It 
+describes a particle bound near x = 0; (d) A =
+α ; (e) 0.632 
+P41.64 
+(a) A =
+2
+17L ; (b) A
+2 + B
+2 = 1
+a

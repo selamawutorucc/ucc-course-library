@@ -1,0 +1,2745 @@
+
+--- PAGE 1 ---
+PHY 101 - Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 - Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 - MechanicsPHY 101 - Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 - Mechanics PHY 101 - Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 - Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 - Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 - 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 - Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 - Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – 
+Mechanics PHY 101 – Mechanics PHY 101 – Mechanics PHY 101 – Mechanics 
+PHY 101
+M
+h
+i
+PHY 101
+M
+h
+i
+PHY 101
+M
+h
+i
+PHY 101
+ 
+ 
+ 
+PHY 101 – GENERAL PHYSICS I 
+(MECHANICS) 
+ 
+ 
+ 
+2014/15 SESSION  
+ 
+ 
+Ajiboye, Y.  & Badmus O.G.
+
+--- PAGE 2 ---
+Page 1 of 40 
+ 
+Course Outline 
+• Measurement in Physics  
+• Space and Time 
+• Units and Dimension 
+• Kinematics 
+• Fundamental Laws of Mechanics 
+• Statics and Dynamics 
+• Work and Energy 
+• Conservation laws   
+ 
+WORK PLAN 
+Week 1 
+ 
+Week 2 
+ 
+Week 3 
+ 
+Week 4 
+ 
+Week 5 
+ 
+Week 6 
+ 
+Week 7 
+ 
+Week 8  
+ 
+Week 9 
+ 
+Week 10  
+ 
+Week 11  
+ 
+Week 13 
+ 
+Week 14  
+ 
+Week 15 
+REVISION
+
+--- PAGE 3 ---
+Page 2 of 40 
+ 
+1.0 
+MEASUREMENT 
+ 
+Physics is a science based upon exact measurement of physical quantities. Therefore 
+it is essential that student first becomes familiar with the various methods of 
+measurement and the units in which these measurements are expressed.  
+ 
+A unit is a value quantity or magnitude in terms of which other values, quantities or 
+magnitudes are expressed.  
+ 
+1.1 
+FUNDAMENTAL QUANTITIES AND UNITS  
+ 
+A fundamental quantity also known as base quantity is a quantity which cannot 
+be expressed in terms of any other physical quantity. The units in which the 
+fundamental quantities are measured are called fundamental units. In mechanics 
+(study of the effects of external forces on bodies at rest or in motion), the quantities 
+length, mass and time are chosen as fundamental quantities.  
+ 
+Fundamental Quantity  
+Fundamental Unit  
+Unit Symbol  
+Length 
+Meter 
+m 
+Mass 
+Second 
+s 
+Time 
+Kilogram 
+kg 
+ 
+1.2 
+SYSTEM OF UNITS  
+ 
+The following systems of units have been in use –  
+(i) 
+The French or C.G.S (Centimeter, Gramme, Second) System; 
+(ii) 
+The British or F.P.S (Foot, Pound, Secons) System; 
+(iii) 
+The M.K.S (Metre, Kilogram, Second) System; and  
+(iv) 
+The S.I. (International System of Units).  
+ 
+1.3 
+THE INTERNATIONAL SYSTEM OF UNITS (S.I.) 
+ 
+The S.I. is the latest version of the system of units and only system likely to be used 
+all over the world. This system consists of seven base or fundamental units from 
+which we can derive other possible quantities of science. They are  
+ 
+S.No Physical Quantity 
+Unit 
+Unit Symbol 
+1. 
+Length 
+Meter 
+M 
+2. 
+Mass 
+Kilogram 
+Kg 
+3. 
+Time 
+Second 
+S
+
+--- PAGE 4 ---
+Page 3 of 40 
+ 
+4. 
+Electric Current 
+Ampere 
+A 
+5. 
+Temperature 
+Kelvin 
+K 
+6. 
+Amount of  
+Substance 
+Mole 
+Mol 
+7. 
+Luminous Intensity 
+Candela 
+Cd 
+ 
+1.4 
+CONCEPT OF DIMENSION  
+ 
+Dimension of a physical quantity simply indicates the physical quantities which 
+appear in that quantity and gives absolutely no idea about the magnitude of the 
+quantity. In mechanics the length, mass and time are taken as the three base 
+dimensions and are expressed by as letter [L], [M] and [T] respectively. Hence, a 
+formula which indicates the relation between the derived unit and the fundamental 
+units is called dimensional formula.  
+ 
+Example 1: Deduce the dimensional formula for the following physical quantities: 
+(a) Velocity, (b) acceleration, (c) force, (d) pressure, (e) work, and (f) power.  
+ 
+Solution:  
+( )                                            
+                 
+  
+[ ]
+[ ] [    ] 
+      
+                                                         [      ] 
+ 
+( )                                                 
+                 
+ 
+[    ]
+[ ]
+ [    ]
+ [      ] 
+ 
+( )                                                                  
+ 
+ [ ] [    ] [     ] 
+ 
+( )                                         
+                  
+[     ]
+[  ]
+ [       ] 
+ 
+Students to attempt ( ) and( ).  
+ 
+Example 2: Deduce the dimensional formula for (a) modulus of elasticity( ), and 
+(b) coefficient of viscosity( ).
+
+--- PAGE 5 ---
+Page 4 of 40 
+ 
+Solution:  
+( )         
+       
+         
+⁄
+                               
+⁄
+                                        
+                                        
+[     ] [ ]
+[  ] [ ]
+ [       ] 
+ 
+( )                              ( )                                                      
+                                                                                        
+                
+   
+ 
+ 
+(    
+⁄
+)  
+                                                        
+                                         
+ 
+[     ] [ ]
+[  ] [    ] 
+[      ]
+[     ] [       ] 
+ 
+1.4 
+USES OF DIMENSIONAL EQUATIONS  
+ 
+(a) 
+To check the homogeneity of a derived physical equation (i.e. to check the 
+correctness of a physical equation).  
+ 
+ 
+Example 3: 
+Show that the following relation for the time period of a body executing 
+simple harmonic motion is correct.  
+    √ 
+  
+where   and   are the displacement and acceleration due to gravity 
+respectively.  
+ 
+Solution:  
+ 
+For the relation to be correct, the dimension of L.H.S must be equal to 
+dimension of R.H.S  
+                               
+                   
+[              ]  
+⁄
+[              ]  
+⁄ 
+[ ]  
+⁄
+[    ]  
+⁄ 
+[ ]  
+⁄
+[ ]  
+⁄
+
+--- PAGE 6 ---
+Page 5 of 40 
+ 
+Since 
+                                     , 
+the 
+relation 
+is 
+dimensionally correct.  
+ 
+(b) 
+To derive a relationship between different physical quantities. 
+ 
+ 
+Example 4: 
+If the frequency   of a stretched string depends upon the length   of the 
+string, the tension   in the string and the mass per unit length   of the string. 
+Establish a relation for the frequency using the concept of dimension.  
+ 
+ 
+Solution:  
+ 
+ 
+                          ( ) 
+                        ( ) 
+[              ] [              ]  [              ]  [              ]  
+[       ] [ ]  [     ]  [    ]  
+[ ] [ ] [ ]   [ ]   [ ]     [ ]    
+                     
+                   ( ) 
+                     ( ) 
+                    ( ) 
+              ( )                
+               ( ) 
+             ( )     ( )          
+ 
+      
+    
+               ( ) 
+             ( )     ( )      ( ) 
+   
+  (  
+ )   
+                  ( ) 
+             ( ) ( )     ( )     ( )          
+         
+⁄    
+⁄ 
+    
+ √ 
+       ( ) 
+Equation ( ) is the required relation.  
+ 
+ 
+(c) 
+To derive the unit of a Physical Quantity
+
+--- PAGE 7 ---
+Page 6 of 40 
+ 
+Example 5: 
+The viscous drag F between two layers of liquid with surface area of contact A 
+in a region of velocity gradient     
+⁄
+ is given by 
+                                     
+⁄
+ 
+where   is the coefficient of viscosity of the liquid. Obtain the unit for  . 
+ 
+Solution:  
+ 
+        
+⁄
+ 
+                                     
+   
+ 
+ 
+    
+⁄
+ 
+                     [     ] 
+                          [  ] 
+                      [    ] 
+                          [ ] 
+               
+[     ][ ]
+[  ][    ]       
+              
+                    
+ 
+1.5 
+LIMITATIONS OF DIMENSIONAL ANALYSIS  
+ 
+(i) 
+The method does not provide any information about the magnitude of 
+dimensionless variables and dimensionless constants.  
+(ii) 
+The method cannot be used if the quantities depend upon more than 
+three-dimensional quantities: M,L and T. 
+(iii) 
+The method is not applicable if the relationship involves trigonometric, 
+exponential and logarithmic functions.  
+ 
+EXERCISE 
+1) Show on the basis of dimensional analysis that the following relations are 
+correct:  
+a.          , where   is the initial velocity,   is final velocity,   is 
+acceleration of the body and   is the distance moved.  
+b.        
+⁄
+ where   is the density of earth,   is the gravitational 
+constant,   is the radius of the earth and   is acceleration due to 
+gravity.  
+2) The speed of sound   in a medium depends on its wavelength  , the young 
+modulus  , and the density  , of the medium. Use the method of dimensional 
+analysis to derive a formula for the speed of sound in a medium. (Unit for 
+Young Modulus  :         )
+
+--- PAGE 8 ---
+Page 7 of 40 
+ 
+2.0 
+VECTORS  
+ 
+Physical quantities can generally be classified as (i) Scalars and (ii) Vectors.  
+ 
+Scalars are physical quantities which possess only magnitude and no direction in 
+space. Examples are mass, time, temperature, volume, speed etc. On the other hand, 
+Vectors are physical quantities which have both magnitude and direction in space. 
+Examples are force, velocity, acceleration, etc.  
+ 
+2.1 
+RESOLUTION OF VECTORS  
+ 
+ 
+A two dimensional vector can be represented as the sum of two vectors. Consider 
+figure A above, the vector  ⃗ can be expressed as 
+ ⃗  ⃗   ⃗      ⃗    ̂    ̂                     
+Vectors  ⃗  and  ⃗  are called vector components of  ⃗.  ̂ and  ̂ are unit vectors along 
+the   axis and   axis respectively. A unit vector is a vector that has a magnitude of 
+exactly 1 and specify a particular direction.  
+ 
+Let   be the angle which the vector  ⃗ makes with the positive  -axis, then we have  
+ 
+                                       
+                      | ⃗|   √                          
+       
+  
+                   
+ 
+In three dimensions, a vector  ⃗ can be expressed as
+
+--- PAGE 9 ---
+Page 8 of 40 
+ 
+ ⃗  ⃗   ⃗   ⃗      ⃗    ̂    ̂    ̂                     
+Here, the magnitude is expressed as  
+| ⃗|   √                              
+ 
+2.2 
+ADDITION/SUBTRACTION OF VECTORS BY COMPONENTS 
+ 
+Example:  
+If  ⃗   ̂   ̂   ̂ and  ⃗⃗  ̂   ̂   ̂. Find the magnitude of ( ⃗  ⃗⃗) and ( ⃗ 
+ ⃗⃗). 
+ 
+Solution:  
+( ⃗  ⃗⃗) (  ̂   ̂   ̂) ( ̂   ̂   ̂)   ̂   ̂   ̂ 
+( ⃗  ⃗⃗) (  ̂   ̂   ̂) ( ̂   ̂   ̂)  ̂  ̂  ̂ 
+Hence their magnitudes will be  
+| ⃗  ⃗⃗| √( )  ( )  ( )  √    
+| ⃗  ⃗⃗| √( )  (  )  (  )  √  
+ 
+2.3 
+MULTIPLICATION OF VECTORS 
+ 
+ 
+(i) 
+Dot Product or Scalar Product  
+ 
+The scalar product of two vectors is defined as the product of the magnitude 
+of two vectors and the cosine of the smaller angle between them.  
+ ⃗  ⃗⃗ | ⃗|| ⃗⃗|              
+ 
+where   is a scalar quantity.  
+ 
+ 
+Example: 
+Find the angle between the two vectors  ⃗   ̂   ̂   ̂ and  ⃗⃗   ̂   ̂  
+  ̂.  
+Solution:  
+ ⃗  ⃗⃗ | ⃗|| ⃗⃗|     
+ ⃗  ⃗⃗                         (  )   
+| ⃗| √         √   
+| ⃗⃗| √      (  )  √   
+      ⃗  ⃗⃗
+| ⃗|| ⃗⃗|
+ 
+ 
+√   √
+
+--- PAGE 10 ---
+Page 9 of 40 
+ 
+ 
+ 
+(ii) 
+Cross Product or Vector product 
+  
+ 
+The vector product of two vectors is defined as a vector having a magnitude 
+equal to the product of the magnitudes of the two vectors and the sine of the 
+angle between them and is in the direction perpendicular to the plane 
+containing the two vectors. Thus if  ⃗ and  ⃗⃗ are two vectors, then their vector 
+product (or cross product), written as  ⃗  ⃗⃗, is a vector  ⃗ defined as  
+ ⃗  ⃗  ⃗⃗ | ⃗|| ⃗⃗|      
+where   is the angle between the two vectors and   is the unit vector 
+perpendicular to the plane of vectors  ⃗ and  ⃗⃗. 
+ 
+ 
+3.0 
+KINEMATICS 
+ 
+Kinematics is the study of the motion of objects without referring to what causes the 
+motion. Motion is a change in position in a time interval.  
+ 
+3.1 
+MOTION IN ONE DIMENSION/MOTION ALONG A STRAIGHT LINE  
+ 
+A straight line motion or one-dimensional motion could either be vertical (like that 
+of a falling body), horizontal, or slanted, but it must be straight.  
+ 
+3.1.1 POSITION AND DISPLACEMENT  
+ 
+The position of an object in space is its location relative to some reference point, 
+often the origin (or zero point). For example, a particle might be located at     , 
+which means the position of the particle is    in positive direction from the origin. 
+Meanwhile, the displacement is the change from one position    to another 
+position   . It is given as  
+                      (   ) 
+ 
+3.1.2 AVERAGE VELOCITY AND AVERAGE SPEED  
+ 
+The average velocity is the ratio of the displacement    tht occurs during a 
+particular time interval    to that interval. It is a vector quantity and is expressed as:  
+       
+        
+     
+                (   ) 
+    
+       
+        
+     
+                (   )
+
+--- PAGE 11 ---
+Page 10 of 40 
+ 
+ 
+The average speed is the ratio of the total distance covered by a particle to the time. 
+It is a scalar and is expressed as:  
+                   
+  
+           (   ) 
+ 
+3.1.3 INSTANTANEOUS VELOCITY AND SPEED  
+ 
+The instantaneous velocity describes how fast a particle is moving at a given instant. 
+It is expressed as:  
+     
+    
+  
+     
+                (   ) 
+Speed is the magnitude of instantaneous velocity; that is, speed is velocity that has 
+no indication of direction either in words or via an algebraic sign. For example, a 
+velocity of       or       is associated with a speed of     .  
+ 
+Example 6: 
+The position of a particle moving on an   axis is given by                 , 
+with   in meters and   in seconds. What is its velocity at       ? Is the velocity 
+constant, or is it continuously changing?  
+ 
+Solution:  
+    
+    (              )
+  
+       ( )(   )   
+               ( ) 
+ 
+At       , 
+         (   )      
+  
+          ( )                                           ( )                                 
+ 
+3.1.4 ACCELERATION  
+ 
+When a particle’s velocity changes, the particle is said to undergo acceleration. The 
+average acceleration      over a time interval    is  
+       
+        
+     
+               
+where the particle has velocity    at time    and then velocity    at time   . The 
+instantaneous acceleration (or simply acceleration) is the derivative of velocity 
+with respect to time:
+
+--- PAGE 12 ---
+Page 11 of 40 
+ 
+Equation     can also be written as  
+   
+  ( )  
+  (  
+  )    
+                    
+In words, the acceleration of a particle at any instant is the second derivative of its 
+position  ( ) with respect to time.  
+ 
+Example 7:  
+A particle’s position on the  -axis is given by           , with   in meters and 
+  in seconds. (a) find the particle’s velocity function  ( ) and acceleration  ( ). (b) Is 
+there ever a time when    ? 
+ 
+Solution:  
+( )                 
+    
+  (        )         
+                       
+    
+  (       )    
+( )                        
+                           
+⁄   
+             
+ 
+ 
+3.2 
+MOTION IN TWO AND THREE DIMENSIONS 
+ 
+The concept of position, velocity and acceleration for motion along a straight line is 
+similar to that two and three dimension, but more complex.  
+ 
+3.2.1 Position and Displacement  
+ 
+The position vector  ⃗ is used to specify the position of a particle in space. It is 
+generally expressed in the unit vector notation as  
+ ⃗   ̂   ̂   ̂                 (   ) 
+where   ̂   ̂ and   ̂ are the vector components of  ⃗, and the coefficients      and   
+are its scalar components.
+
+--- PAGE 13 ---
+Page 12 of 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If a particle moves from point 1 to point 2 during a certain time interval, the position 
+vector changes from  ⃗  to  ⃗ , then the particle’s displacement is  
+  ⃗  ⃗   ⃗                   (   ) 
+ 
+Example 8:  
+The position vector of a particle is initially  ⃗  (   ) ̂ (  ) ̂ (  ) ̂ and then 
+later is  ⃗  (  ) ̂ (  ) ̂ (  ) ̂. What is the particle’s displacement   ⃗ from  ⃗  
+to  ⃗ ? 
+ 
+Solution:  
+  ⃗  ⃗   ⃗  [  (  )] ̂ [   ] ̂ [   ] ̂ 
+  ⃗ (   ) ̂ (  ) ̂ 
+ 
+Example 9:  
+A rabbit runs across a parking lot. The coordinates of the rabbit as a function of time 
+  are:                  and                  with   in seconds and   
+and   in meters. At      , what is the rabbit’s position vector  ⃗ in unit vector 
+notation and as a magnitude and an angle?  
+ 
+Solution: 
+ ⃗   ̂   ̂ 
+At       
+      (  )     (  )          
+      (  )     (  )         
+  ⃗ (     ) ̂ (    ) ̂ 
+The magnitude of the position vector  ⃗ is  
+  √      √(    )  (   )         
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⃗
+
+--- PAGE 14 ---
+Page 13 of 40 
+ 
+The angle of  ⃗ is  
+        
+       (   
+    )         
+ 
+3.2.1 Average Velocity and Instantaneous Velocity  
+ 
+If a particle moves through a displacement   ⃗ in a time interval   , then  its average 
+velocity  ⃗    is  
+ ⃗      ⃗
+      ̂    ̂    ̂
+  
+   
+   ̂   
+   ̂   
+   ̂                      
+ 
+When we speak of the velocity of a particle, we usually mean the particle’s 
+instantaneous velocity  ⃗⃗⃗. It is expressed as  
+ ⃗   ⃗
+     
+   ̂   
+   ̂   
+   ̂    ̂    ̂    ̂                   
+ 
+Example 10:  
+Find the velocity  ⃗ at time       of the rabbit in example 9 in unit vector notation 
+and as a magnitude and angle.  
+ 
+Solution:  
+The components of the velocity are    and     
+     
+    
+  ( )  
+  (               )           
+                (  )             
+     
+    
+  ( )  
+  (              )           
+                (  )             
+ ⃗    ̂    ̂ 
+ ⃗ (       ) ̂ (       ) ̂ 
+              ⃗   √        √(    )  (    )          
+       (  
+  
+)       (    
+    )        
+ 
+3.2.2 Average Acceleration and Instantaneous Acceleration  
+ 
+The average acceleration is defined as the change in velocity from  ⃗  to  ⃗  in a time 
+interval   . It is mathematically expressed as  
+ ⃗     ⃗   ⃗ 
+  
+   ⃗
+
+--- PAGE 15 ---
+Page 14 of 40 
+ 
+ 
+The instantaneous acceleration  ⃗ (or acceleration) is the limit of average velocity as 
+   approaches zero. It is expressed mathematically as  
+ ⃗    
+    
+  ⃗
+     ⃗
+                     
+We note that 
+ ⃗   ⃗
+    
+  ( ⃗)  
+  (   ̂    ̂    ̂) 
+ ⃗    
+   ̂    
+   ̂    
+   ̂ 
+ ⃗    ̂    ̂    ̂ 
+ 
+3.2.3 Constant Acceleration  
+ 
+In many types of motion, the acceleration is either constant or approximately so. 
+The following equations describe the motion of a particle with constant 
+acceleration:  
+s/n 
+Equation  
+1. 
+        
+2. 
+       
+     
+3. 
+     
+      
+4. 
+   
+ (    )  
+5. 
+      
+     
+Note that these equations are only applicable if 
+acceleration is constant. 
+ 
+EXERCISE: 
+A driver spotted a police car and he braked from a speed of         to a speed of 
+       
+during 
+a 
+displacement 
+of 
+   , 
+at 
+a 
+constant 
+acceleration. 
+( )                            
+( )                                                            
+ 
+Example 11:  
+Find the acceleration  ⃗ at time       of the rabbit in example 10 in unit vector 
+notation and as a magnitude and angle.  
+ 
+Solution: 
+      
+    
+  (  )  
+  (         )
+
+--- PAGE 16 ---
+Page 15 of 40 
+ 
+      
+    
+  (  )  
+  (         )          
+ ⃗ (        ) ̂ (        ) ̂ 
+              ⃗   √(    )  (    )           
+         
+  
+      (    
+    )         
+ 
+EXERCISE  
+A particle with velocity  ⃗     ̂   ̂ in meters per second at     undergoes a 
+constant acceleration  ⃗ of magnitude         at an angle        from the 
+positive direction of the   axis. What is the particle’s velocity  ⃗ at     , in unit 
+vector notation and as a magnitude and an angle? 
+      ⃗     ̂    ̂ (   )          
+ 
+            
+ 
+3.3 
+PROJECTILE MOTION  
+ 
+A projectile is a particle which moves in a vertical plane with some initial velocity 
+ ⃗  but its acceleration is always the free fall acceleration  ⃗ which is downward. 
+Example of a projectile is a golf ball. The motion of a projectile is called projectile 
+motion.  
+Consider the figure below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When an object is object is projected at an angle to the horizontal, as shown in figure 
+above, the following should be noted: 
+(i) 
+the horizontal component of the velocity     is constant; 
+(ii) 
+the vertical component of the velocity     changes; 
+(iii) 
+the vertical component of the velocity is zero at the highest point;  
+(iv) 
+the vertical acceleration       throughout the motion, while the horizontal 
+acceleration    is zero. 
+ 
+          
+ 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+     ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⃗
+
+--- PAGE 17 ---
+Page 16 of 40 
+ 
+ 
+In projectile motion, the horizontal motion and the vertical motion are independent 
+of each other; that is, neither motion affects the other.  
+ 
+Vertical motion:  
+Initial velocity           , acceleration       
+Let   be the maximum height reached. At maximum height     . 
+            
+     
+       
+  (      )   (  )  
+    
+           
+    
+      
+  
+                   
+Let the time taken to reach the maximum height be  .  
+                      
+         (  )  
+            
+        
+ 
+                  
+When the object landed on the ground, the vertical displacement    . Let   be the 
+total time of flight. 
+                  
+      
+           
+ (  )   
+                              
+          
+    
+  
+         
+         
+ 
+                    
+ 
+Horizontal Motion:  
+Initial velocity                    ,      
+To obtain the range (horizontal displacement) of the projectile, we use  
+           
+      
+The range   of the projectile is
+
+--- PAGE 18 ---
+Page 17 of 40 
+ 
+  (      ) (       
+ 
+) 
+    
+ (         )
+ 
+ 
+                       
+    
+      
+ 
+                  
+The maximum value of   is 
+   
+  and it occurs when        , or            
+   . Therefore the maximum range is obtained if the object is projected at an angle 
+    to the horizontal. 
+ 
+Example 12: 
+A pirate ship is      from a military island base.  A military cannon (large gun on 
+wheels) located at sea level fires balls at initial speed         . ( ) At what angle 
+  from the horizontal must a ball be fired to hit the ship? ( ) How far should the 
+pirate ship be from the cannon if it is to be beyond the maximum range of the 
+cannonballs?  
+ 
+Solution: 
+( )                                                                 
+      
+ 
+ 
+        
+    
+        (  
+   )      (       
+   
+)                   
+        
+ 
+ 
+         
+ 
+( )                                                               
+      
+ 
+ 
+                                
+         (     )
+   
+ 
+       
+                                (          )
+
+--- PAGE 19 ---
+Page 18 of 40 
+ 
+Example 13: 
+A projectile shot at an angle of     above the horizontal strikes a building     away 
+at a point     above the point of projection. Find the magnitude and direction of 
+the velocity of the projectile as it strikes the building.  
+ 
+Solution: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Horizontal motion 
+              
+      
+                        
+          
+  
+ 
+       
+  
+           
+  
+ 
+Vertical motion  
+              
+      
+                        
+           
+     
+             (  
+  
+)  
+         
+    
+              
+   
+ 
+            
+        
+  
+ 
+  
+            
+                                 
+                                 
+              
+                 ( )           
+                 (    )               
+             
+ 
+ 
+ 
+ 
+Building 
+ 
+ 
+ 
+ 
+ 
+ 
+           ⃗
+
+--- PAGE 20 ---
+Page 19 of 40 
+ 
+  √        √(     )  (     )           
+       (     
+     )         
+ 
+EXERCISE 
+ 
+1. 
+A projectile leaves the ground at an angle of     to the horizontal. Its kinetic 
+energy is  . Neglecting air resistance, find in terms of   its kinetic energy at 
+the highest point of the motion. (Answer: 
+ 
+  ) 
+ 
+2. 
+An object is released from an aeroplane which is diving at an angle of     
+from the horizontal with a speed of      . If the plane is at a height of 
+      from the ground when the object is released, find  
+ 
+(a) 
+the velocity of the object when it hits the ground.  
+ 
+(b) 
+the time taken for the object to reach the ground.  
+ 
+ 
+4.0 
+DYNAMICS  
+ 
+Dynamics is a branch of mechanics which deals with the forces that give rise to 
+motion. Just as kinematics describes how objects move without describing the force 
+that caused the motion, Newton’s laws of motion are the foundation of dynamics 
+which describes the motion and force responsible for the motion.  
+ 
+4.1 
+FORCE  
+ 
+Force is that which changes the velocity of an object. Force is a vector quantity. An 
+external force is one which lies outside of the system being considered.  
+ 
+4.1.1 TYPES OF FORCES  
+ 
+Contact Force is that in which one object has to be in contact with another to exert 
+a force on it. A push or pull on an object are examples of contact force.  
+ 
+Tension  ⃗⃗⃗ is the force on a string or chain tending to stretch it.  
+ 
+Normal force  ⃗⃗⃗  is the force which acts perpendicular to a surface which supports 
+an object.
+
+--- PAGE 21 ---
+Page 20 of 40 
+ 
+Weight  ⃗⃗⃗⃗⃗ of an object is the force with which gravity pulls downward upon it. It is 
+given as  ⃗⃗⃗⃗   ⃗. It is equal to the gravitational force on the body.  
+ 
+Frictional force  ⃗⃗ is the force on a body when the body when the body slides or 
+attempts to slide along a surface and is always parallel to the surface and directed so 
+as to oppose the motion of the body.  
+  
+Other important forces include 
+gravitational force 
+or 
+simply gravity, 
+electromagnetic force, nuclear force.  
+ 
+4.1.2 NET FORCE  
+ 
+The net force is the vector sum of all force vectors that act on an object. It is 
+expressed as:  
+ ⃗    ∑ ⃗ 
+ 
+   
+  ⃗   ⃗     ⃗                   
+In Cartesian components, the net force are given by  
+ ⃗      ∑      ⃗     ⃗       ⃗   
+ 
+   
+ 
+                          ⃗      ∑      ⃗     ⃗       ⃗   
+ 
+   
+                   
+ ⃗      ∑      ⃗     ⃗       ⃗   
+ 
+   
+ 
+ 
+4.2 
+NEWTON’S LAWS OF MOTION  
+ 
+4.2.1 Newton’s First Law 
+ 
+If no net force acts on a body (i.e.  ⃗⃗⃗     ), then the body’s velocity cannot 
+change; that is, the body cannot accelerate. If it was moving, it will remain in 
+motion in a straight line with the same constant velocity. 
+ 
+4.2.2 Newton’s Second Law 
+ 
+If a net external force,  ⃗⃗⃗    acts on an object with mass  , the force will cause an 
+acceleration,  ⃗⃗⃗, in the same direction as the force. Mathematically, the law is 
+expressed as:  
+ ⃗⃗⃗      ⃗⃗⃗
+
+--- PAGE 22 ---
+Page 21 of 40 
+ 
+Which may be written in Cartesian components as  
+ ⃗                 ⃗                  ⃗                              
+ 
+ 
+4.2.3 Newton’s Third Law  
+ 
+The forces that two interacting objects exert on each other are always exactly 
+equal in magnitude and opposite in direction:  
+ ⃗      ⃗                    
+ 
+Example 14:  
+Three forces that act on a particle are given by  ⃗  (   ̂    ̂    ̂)   ⃗  
+(    ̂    ̂    ̂)       ⃗  (    ̂) . Find their resultant (net) vector. Also 
+find the magnitude of the resultant to two significant figures.  
+ 
+Solution:  
+ ⃗     ⃗   ⃗   ⃗  
+ ⃗      [   ̂ (    ̂)]    ̂  
+ ⃗      [    ̂    ̂]      ̂  
+ ⃗      [   ̂    ̂    ̂]     ̂  
+ ⃗    [  ̂    ̂    ̂]  
+  | ⃗   | √   (   )      √        
+ 
+Example 15:  
+Five coplanar forces act on an object as shown in the figure below. Find the resultant 
+of the forces. The magnitude of the forces are:       ,       ,       , 
+      ,       .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   ⃗       
+ 
+       ⃗  
+ 
+ 
+ 
+ 
+ 
+                         
+ 
+ ⃗  
+ 
+ 
+ 
+          
+ 
+ 
+            ⃗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       ⃗
+
+--- PAGE 23 ---
+Page 22 of 40 
+ 
+ 
+Solution:  
+ ⃗     ⃗   ⃗   ⃗   ⃗   ⃗  
+ ⃗   ⃗⃗⃗     ⃗⃗⃗             ̂          ̂ 
+ ⃗   ⃗⃗⃗    ̂    ̂ 
+ ⃗    ⃗⃗⃗    ̂     ̂ 
+ ⃗    ⃗⃗⃗    ̂  ⃗⃗⃗    ̂           ̂          ̂ 
+ ⃗    ⃗⃗⃗     ⃗⃗⃗                       
+ 
+ ⃗           ̂          ̂     ̂       ̂ 
+ ⃗     ̂ 
+ ⃗      ̂ 
+ ⃗            ̂          ̂       ̂     ̂ 
+ ⃗                            ̂       ̂ 
+ 
+ ⃗      (                 ) ̂        ̂   
+ ⃗      (                  ) ̂        ̂   
+ ⃗    √(    )  (    )       
+ 
+Example 16:  
+A mass of      was suspended with two ropes as shown in the figure below. What 
+is the tension in each rope if      ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solution:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ Ceiling 
+ 
+ 
+ 
+  
+ 
+           
+ 
+ 
+ 
+ 
+   ⃗⃗  
+ 
+         ⃗⃗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+    
+ 
+ 
+ Ceiling 
+ 
+ 
+ 
+  
+ 
+           
+ 
+ 
+ 
+ 
+   ⃗⃗  
+ 
+         ⃗⃗  
+ 
+ 
+ 
+              
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         ⃗⃗⃗⃗
+
+--- PAGE 24 ---
+Page 23 of 40 
+ 
+ ⃗    ∑ ⃗   ( ⃗)  ( )   
+∑ ⃗   ⃗⃗    ⃗⃗   (             ) ̂   
+∑ ⃗   ⃗⃗    ⃗⃗    ⃗⃗⃗⃗ [                (   )] ̂   
+                                         
+ ⃗⃗   ⃗⃗   ⃗⃗ 
+              
+                  
+             
+  
+   
+        
+       
+ 
+Example 17: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A cord holds stationary a block of mass        on a frictionless plane that is 
+inclined at angle      . ( ) What is the magnitude of the tension  ⃗⃗ on the block 
+from the cord and the normal force  ⃗⃗⃗ on the block from the plane? ( )If the cord is 
+cut, so that the body slides down the plane, calculate the acceleration of the body.  
+ 
+Solution: 
+ 
+( )  
+The free body diagram is sketched as  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+                    
+ 
+ 
+ 
+ 
+       ⃗⃗⃗ 
+ ⃗⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ⃗
+
+--- PAGE 25 ---
+Page 24 of 40 
+ 
+ 
+ 
+We note from Newton’s 2nd law,  ⃗      ⃗ 
+ ⃗⃗  ⃗⃗⃗  ⃗    ⃗                ( ) 
+ ⃗      (                                   ) 
+ ⃗⃗  ⃗⃗⃗  ⃗                   ( ) 
+                                              
+                                                            
+                                         
+                                          
+                                                              
+                                    
+                                    
+                             
+ 
+( )                                ⃗⃗                                                      
+          ( )         
+              
+           
+         
+              
+             
+ 
+ 
+5.0 
+KINETIC ENERGY, WORK, AND POWER  
+ 
+5.1 
+KINETIC ENERGY 
+The kinetic energy   is energy associated with the state of motion of a particle and 
+is defined as:  
+   
+                      
+where  , is the mass of the particle and   is the speed of the particle which is well 
+below the speed of light. Its S.I. unit is the joule (J).  
+ 
+Example 18:  
+A car of mass        being driven at a speed limit of          has a kinetic energy 
+of:  
+      
+      
+ (    )(    )
+
+--- PAGE 26 ---
+Page 25 of 40 
+ 
+5.2 
+WORK  
+Work   is the energy transferred to or from an object by means of a force acting on 
+the object. Energy transferred to the object is positive work, and energy transferred 
+from the object is negative work. It is a scalar quantity.  
+ 
+The work done by a force can be defined as the product of the magnitude of the 
+displacement and the component of the force in the direction of the displacement. 
+The unit of work in S.I. is the Joule (J).  
+ 
+Consider the figure below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Work can be expressed mathematically as  
+                     (   ) 
+   
+   ⃗  ⃗              (   ) 
+Equation (   ) is especially useful for calculating the work when  ⃗ and  ⃗ are given 
+in unit vector notations.  
+ 
+Consider the figure below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If a force displaces the particle through a distance   , then the work done    by the 
+forced is  
+    ⃗   ⃗              (   ) 
+The total work done by the force in moving the particle from initial point   to final 
+point   will be  
+  ∫ ⃗   ⃗
+ 
+ 
+ ∫   
+ 
+ 
+                    (   ) 
+ 
+ 
+ 
+ 
+ 
+ 
+             ⃗ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+  
+ 
+ 
+ 
+              ⃗ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+               
+ 
+ 
+ 
+            ⃗⃗
+
+--- PAGE 27 ---
+Page 26 of 40 
+ 
+5.3 
+WORK-KINETIC ENERGY THEOREM  
+ 
+The work-kinetic energy theorem states that “when a body is acted upon by a force 
+or resultant force, the work done by the force is equal to the change in kinetic 
+energy of the body.”  
+ 
+Proof:  
+  ∫ ⃗   ⃗
+ 
+ 
+ ∫       
+ 
+ 
+ 
+       ⃗                                       ⃗       
+  ∫   
+ 
+ 
+ ∫    
+ 
+ 
+ 
+  ∫ (  
+  )  
+ 
+ 
+ ∫ 
+ 
+ 
+(  
+  
+  
+  )   
+  ∫ 
+ 
+ 
+  
+      ∫    
+ 
+ 
+  ∫   
+ 
+ 
+ 
+   [  
+ ]
+ 
+ 
+  [
+  
+ 
+    
+ 
+ ] 
+   
+    
+   
+    
+              (   ) 
+        
+                   (   ) 
+ 
+5.4 
+POWER  
+ 
+Power is the rate of doing work. If an amount of work    is done in a small interval 
+of time   , the power   is  
+     
+    
+  
+     
+                 (   ) 
+Power is a scalar quantity and its unit is     which is also called the watt ( ).  
+ 
+For a constant force  
+    
+    ⃗   ⃗
+    ⃗  ⃗        (   ) 
+                                  ⃗   ⃗
+   
+If  ⃗ acts at an angle   to  ⃗, then  
+   ⃗  ⃗                     (    )
+
+--- PAGE 28 ---
+Page 27 of 40 
+ 
+Example 19:  
+A body moves with velocity  ⃗ (  ̂   ̂   ̂)    under the influence of a 
+constant force  ⃗ (  ̂   ̂   ̂) . Determine ( ) the instantaneous power; ( ) 
+the angle between  ⃗ and  ⃗.  
+ 
+Solution: 
+( )                    ⃗  ⃗⃗  
+                                 (  ̂   ̂   ̂) (  ̂   ̂   ̂)            
+( )                     
+                         [ 
+  ] 
+                    | ⃗| √      (  )  √   
+                    | ⃗| √      (  )  √   
+                         [ 
+  ]      [
+  
+√   √  
+]        
+ 
+Example 20:  
+A crate slides across an oily parking lot through a displacement  ⃗ (   ) ̂ while a 
+steady wind pushes against the crate with a force  ⃗ (  ) ̂ (   ) ̂. ( ) 
+Calculate the work done by the wind, ( ) if the crate has a kinetic energy of     at 
+the beginning of the displacement  ⃗, what is the kinetic energy at the end of  ⃗?  
+ 
+Solution:  
+( )          ⃗  ⃗ (  ̂   ̂) (   ̂) (  ̂   ̂) (   ̂   ̂)     
+( )                  
+                              
+ 
+EXERCISE  
+A constant force  ⃗ (  ̂   ̂   ̂)  moves a particle from position  ⃗  
+(  ̂  ̂   ̂)  to a position  ⃗  (  ̂   ̂  ̂) . Calculate the work done by the 
+force. [       ] 
+ 
+6.0 
+POTENTIAL ENERGY  
+Potential energy   is the energy that can be associated with the configuration (or 
+arrangement) of a system of objects that exerts forces on one another.  
+ 
+Consider a tennis ball thrown upward as shown in figure 6.1 below.
+
+--- PAGE 29 ---
+Page 28 of 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As the ball is thrown upward, the gravitational force does negative work on it by 
+decreasing its kinetic energy. As the ball descends, the gravitational force does 
+positive work on it by increasing its kinetic energy. Thus the change in potential 
+energy is defined to equal the negative of work done. That is  
+                    (   ) 
+Recall that  
+  ∫
+ ( )  
+  
+  
+ 
+      ∫
+ ( )  
+  
+  
+             (   ) 
+ 
+6.1 
+GRAVITATIONAL POTENTIAL ENERGY  
+Gravitational potential energy is the potential energy associated with a system 
+consisting of Earth and a nearby particle.  
+    ∫
+ ( )  
+  
+  
+  ∫
+(   )  
+  
+  
+   ∫
+  
+  
+  
+   [ ]  
+     (     ) 
+                     (   ) 
+Usually, reference point    is taken as zero.  
+                    (   ) 
+ 
+Example 21:  
+A mass of     hangs    above the ground. What is the gravitational potential 
+energy of the mass-earth system at ( ) the ground, (  ) a height of    above the 
+ground, and (   ) a height of 6m.  
+ 
+Solution:  
+( )         (     )       (   )     
+(  )       (     )       (   )       
+(   )      (     )       (   )        
+ 
+ 
+ 
+ 
+-ve work done 
+by gravitational 
+force 
++ve work done by 
+gravitational 
+force
+
+--- PAGE 30 ---
+Page 29 of 40 
+ 
+6.2 
+ELASTIC POTENTIAL ENERGY  
+Elastic potential energy is the energy associated with the state of compression or 
+extension of an elastic object. For a spring that exerts a force       when its free 
+end has displacement  , the elastic potential is  
+    ∫
+   
+  
+  
+  ∫
+(   )  
+  
+  
+  ∫
+   
+  
+  
+ 
+  [  
+ ]
+  
+  
+  
+    
+   
+    
+                   (   ) 
+ 
+6.3 
+CONSERVATION OF MECHANICAL ENERGY  
+We recall from equation (   )  
+                   (   ) 
+Also, we recall from equation (   ) 
+                   (   ) 
+Combining equations (   ) and (   ) 
+       
+       (     ) 
+Rearranging  
+                         (   ) 
+In words,  
+(                      
+                     ) (                              
+                         
+) 
+Equation (   ) is the conservation of mechanical energy equation.  
+ 
+The principle of conservation of mechanical energy states that: In an isolated 
+system, the kinetic energy and potential energy can change, but their sum, the 
+mechanical energy      of the system cannot change. That is  
+                           (   ) 
+ 
+7.0 
+CENTER OF MASS  
+The center of mass of a body or a system of bodies is the point that moves as though 
+all of the masses were concentrated there and all external forces were applied there.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+   
+ 
+ 
+              
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7.1
+
+--- PAGE 31 ---
+Page 30 of 40 
+ 
+ 
+We define the position of the center of mass (com) of the two-particle separated by 
+a distance   in figure     as: 
+     
+  
+     
+               (   ) 
+We arbitrarily chose the origin of the   axis to coincide with the particle of mass   . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If the origin is located farther from the particles, the position of the center of mass is 
+calculated as:  
+              
+     
+              (   ) 
+Generally, for   particles along   axis  
+                          
+ 
+  
+ ∑    
+ 
+   
+              (   ) 
+where                . 
+ 
+If the particles are distributed in three dimensions, the center of mass must be 
+identified by three coordinates.  
+      
+ ∑    
+ 
+   
+           
+ ∑    
+ 
+   
+           
+ ∑    
+ 
+   
+              (   ) 
+ 
+Example 22:  
+Three particles of mass                    and          form an 
+equilateral triangle of edge length        . Where is the center of mass of this 
+three-particle system?  
+ 
+Solution:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+                   
+ 
+                             
+ 
+ 
+  
+ 
+               
+ 
+  
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7.2
+
+--- PAGE 32 ---
+Page 31 of 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The distance   can be obtained using Pythagoras theorem  
+           
+  
+  
+                            
+   √            
+                   
+ 
+ 
+(   )( ) (   )(   ) (   )(  )
+   
+      
+ 
+                   
+ 
+ 
+(   )( ) (   )( ) (   )(   )
+   
+      
+ 
+8.0 
+COLLISION  
+ 
+A Collision is an isolated event in which two or more bodies exert relatively strong 
+forces on each other for a relatively short time.  
+ 
+8.1 
+ELASTIC AND INELASTIC COLLISION  
+A collision is said to be elastic if the total kinetic energy of the system of two 
+colliding bodies is unchanged by the collision (i.e. conserved). Whereas, if the kinetic 
+energy of the system is not conserved, such a collision is called an inelastic 
+collision.  
+ 
+In every day collision such as collision of two cars, kinetic energy is not conserved, 
+since some kinetic energy will be lost in form of heat and sound.  
+ 
+8.2 
+LINEAR MOMENTUM  
+In physics, momentum  ⃗ is defined as the product of an object’s mass and its 
+velocity: 
+ ⃗   ⃗               (   ) 
+By Newton’s second law of motion, momentum is related to force by
+
+--- PAGE 33 ---
+Page 32 of 40 
+ 
+ ⃗   ⃗
+                (   ) 
+ 
+8.3 
+LAW OF CONSERVATION OF LINEAR MOMENTUM  
+The law states that: In a closed, isolated system, the linear momentum of each 
+colliding body may change but the total linear momentum  ⃗⃗⃗ of the system 
+cannot change, whether the collision is elastic or inelastic.  
+ ⃗⃗                     ⃗⃗   ⃗⃗             (   ) 
+where   and   denote initial and final respectively.  
+ 
+8.4 
+ELASTIC COLLISIONS IN ONE DIMENSION  
+ 
+Consider the collision of two masses    and    along   axis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By conservation of linear momentum, we have  
+                                     (   ) 
+Also, kinetic energy is conserved for elastic collision. So, we have  
+ 
+      
+   
+      
+   
+      
+   
+      
+               (   ) 
+Equations      and     can be used simultaneously if there are two unknowns.  
+ 
+Example 23:  
+A truck of mass        moving with a velocity of        hits from behind a car of 
+mass        on a straight line path with it. If the vehicles move with different 
+velocities after collision, calculate the velocities of the truck and the car after 
+collision if the car was originally stationary.  
+ 
+Solution:  
+                                    ( ) 
+ 
+      
+   
+      
+   
+      
+   
+      
+               (  ) 
+    (   )     ( )                           (   ) 
+ 
+ (    )(   )   
+ (    )( )   
+ (    )   
+   
+ (    )   
+           (  ) 
+Before 
+ 
+ 
+         ⃗⃗⃗    
+    ⃗⃗⃗   
+ 
+ 
+          
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+             
+       
+After 
+ 
+ 
+ 
+ 
+ 
+ ⃗   
+       ⃗    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 8.1
+
+--- PAGE 34 ---
+Page 33 of 40 
+ 
+Equations (   ) and (  ) reduces to  
+                                ( ) 
+             
+        
+               (  ) 
+Solving equations ( ) and (  ) simultaneously, we obtain  
+                                    
+ 
+9.0 
+UNIFORM CIRCULAR MOTION  
+ 
+A particle is said to be in uniform circular motion if it travels around a circle or a 
+circular arc at a constant (uniform) speed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9.1 shows the relation between the velocity and acceleration vectors at 
+different stages during uniform circular motion.  
+ 
+The following points must be noted: 
+(i) 
+Although the speed is uniform, the velocity (a vector) changes in direction, 
+therefore, a particle in uniform circular motion accelerates.  
+(ii) 
+The velocity vector  ⃗ is always directed tangent to the circle in the direction 
+of the motion.  
+(iii) 
+The acceleration is always directed radially inward, therefore the acceleration 
+is called centripetal acceleration.  
+(iv) 
+The magnitude of the centripetal acceleration is: 
+    
+               (   ) 
+ 
+where   is the radius of the circle and   is the speed of the particle. 
+(v) 
+The particle travels the circumference of the circle in time  
+     
+               (   ) 
+ 
+where   is called the period of revolution.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+     ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             ⃗ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            ⃗
+
+--- PAGE 35 ---
+Page 34 of 40 
+ 
+EXERCISE  
+Prove that the centripetal acceleration is   
+  
+ . 
+ 
+Solution:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⃗    ̂    ̂ 
+ ⃗ (      ) ̂ (     ) ̂ 
+                   
+             
+  
+ ⃗ (   
+ ) ̂ (  
+ ) ̂ 
+ ⃗   ⃗
+    
+  ( ⃗) (  
+ 
+  
+  ) ̂ ( 
+ 
+  
+  ) ̂ 
+       
+                       
+            
+ ⃗ (  
+      ) ̂ ( 
+      ) ̂ 
+  | ⃗| √(  
+      )
+ 
+ ( 
+      )
+ 
+ 
+ √(  
+ )
+ 
+(     ) (  
+ )
+ 
+(     ) 
+ √(  
+ )
+ 
+(           ) √(  
+ )
+ 
+   
+  
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            ⃗
+
+--- PAGE 36 ---
+Page 35 of 40 
+ 
+10.0 ROTATION  
+ 
+10.1 RIGID BODY 
+A rigid body is a body is a body that can rotate with all its part locked together and 
+without a change in its shape.  
+ 
+10.2 ROTATION  
+Rotation occurs when every point of a rigid body moves in a circle whose center lies 
+on the axis of rotation, and every point moves through the same angle during a 
+particular time interval.  
+ 
+10.3  ANGULAR POSITION ( ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Angular position   is the angle of a reference line relative to a fixed direction, say  .  
+   
+    (   )               (    ) 
+where   is the length of arc and   is the radius of the circle.   is measured in radians 
+(   ).  
+ 
+10.4 ANGULAR DISPLACEMENT  
+A body undergoes angular displacement if it changes angular position from    to   . 
+It is expressed as:  
+                      (    ) 
+ 
+10.5 ANGULAR VELOCITY AND SPEED 
+The average angular speed      is the ratio of the angular displacement    to time 
+   of a body undergoing rotation. It is expressed as: 
+       
+                     
+The instantaneous angular velocity  ⃗⃗⃗⃗ of the body is: 
+ ⃗⃗⃗    
+    
+  
+     
+                (    ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+   
+Rotation 
+axis
+
+--- PAGE 37 ---
+Page 36 of 40 
+ 
+The magnitude of the body’s angular velocity is the angular speed  . 
+ 
+10.6 ANGULAR ACCELERATION  
+The average angular acceleration is expressed as  
+       
+        
+     
+             (    ) 
+The instantaneous angular acceleration   of a body is expressed as:  
+     
+    
+  
+     
+                (    ) 
+ 
+10.7 RELATING THE ANGULAR AND LINEAR VARIABLES  
+ 
+Since for a rigid body, all particles make one revolution in the same amount of time, 
+they all have the same angular speed  . When a rigid body rotates, each particle in 
+the body moves in its own circle about that axis.  
+ 
+Recall from equation     .  
+ 
+                               (    ) 
+          
+    
+  (  )    
+      
+                              (    ) 
+where   is the linear speed and   is the angular speed.  
+ 
+A rigid body in rotational motion will have two forms of acceleration.  
+( )                                    
+    
+  (  )    
+                   (    ) 
+( )                                
+  
+(  ) 
+ 
+                 (     ) 
+ 
+10.8 KINETIC ENERGY OF ROTATION  
+We cannot apply the formula   
+ 
+     to rigid body such as compact disc because, 
+the kinetic energy of its center of mass is zero (                 ).  
+ 
+ 
+ 
+ 
+ 
+Instead, we treat the compact disc as a collection of particles with different speeds.
+
+--- PAGE 38 ---
+Page 37 of 40 
+ 
+  ∑ 
+     
+  
+           
+  ∑ 
+   (   )  
+   
+ (∑    
+ )   
+The quantity in parenthesis is called the rotational inertia or moment of inertia I 
+of the body with respect to the axis of rotation.  
+    
+                 (     ) 
+where 
+  ∑    
+               (     ) 
+ 
+10.9 PERPENDICULAR AXES THEOREM 
+ 
+Statement of the theorem: The moments of inertia of any plane lamina about an 
+axis normal to the plane of the lamina is equal to the sum of the moments of inertia 
+about any two mutually perpendicular axis passing through the given axis and lying 
+in the plane of the lamina. That is,  
+                      (     ) 
+Proof:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The position vector of particle with mass    in the    plane is: 
+ ⃗⃗     ⃗    ⃗ 
+So that, the moment of inertia of particle    is     
+ . 
+                                                              
+   ∑    
+  
+ 
+   
+∑  (  
+    
+ )
+ 
+   
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+         ⃗ 
+ 
+ 
+           
+ 
+ 
+ 
+           ⃗  
+ 
+ 
+    ⃗⃗
+
+--- PAGE 39 ---
+Page 38 of 40 
+ 
+ ∑    
+ 
+ 
+   
+ ∑  
+ 
+   
+  
+  
+         
+ 
+ 
+11.0 GRAVITATION  
+ 
+Gravitation is the tendency of bodies to move toward each other. Isaac Newton 
+proposed a force law that we call Newton’s Law of gravitation.  
+ 
+11.1 NEWTON’S LAW OF GRAVITATION  
+ 
+The Law states that: Every particle attracts any other particle with a 
+gravitational force whose magnitude is given by 
+       
+  
+   (               
+            
+)              (    ) 
+where    and    are the masses of the particle,   is the distance between them, and 
+  is the gravitational constant with a value                     .  
+ 
+11.2 SUPERPOSITION PRINCIPLE  
+ 
+This is a principle that says the net force on a particle is the vectorial summation 
+of forces of attraction between the particle and individual interacting particles. 
+Mathematically, the principle is expressed as  
+ ⃗      ∑ ⃗  
+ 
+   
+  ⃗    ⃗    ⃗      ⃗                (    ) 
+if there are   interacting particles. Here,  ⃗      is the net force on particle 1.  
+ 
+For extended object, we write the principle as  
+ ⃗  ∫  ⃗             (    ) 
+ 
+Example 24:
+
+--- PAGE 40 ---
+Page 39 of 40 
+ 
+The figure shows an arrangement of three particles.                 , and 
+distance      . What is the magnitude of the net gravitational force  ⃗     that 
+acts on particle 1 due to other particles.  
+ 
+Solution:  
+ 
+ 
+ 
+ 
+ 
+ 
+By superposition principle  
+ ⃗      ⃗    ⃗   
+ ⃗       ̂     ̂     ̂ 
+ ⃗       ̂     ̂      ̂ 
+         
+  
+ 
+(         )( )( )
+(    ) 
+         
+         
+(  )  
+(         )( )( )
+(    ) 
+         
+ ⃗       ̂         ̂ 
+ ⃗        ̂          ̂ 
+ ⃗      ⃗    ⃗           ̂ (         ̂) 
+      √(   )  (    )  
+      √(      )  (       )  
+                
+ 
+EXERCISE  
+ 
+(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      ⃗   
+ 
+ 
+ 
+ 
+ 
+     ⃗
+
+--- PAGE 41 ---
+Page 40 of 40 
+ 
+Five particles are arranged as shown in the figure above.           
+                    and      . What is the gravitational force 
+ ⃗     on particle 1 due to the other particles.  
+ 
+(2) 
+What must be the separation between a       particle and a       particle 
+for their gravitational attraction to have a magnitude of           ? 
+ 
+(3) 
+In the figure below, two spheres of mass   and a third sphere of mass   form 
+an equilateral triangle. The net gravitational force on that central sphere from 
+the three other spheres is zero. ( ) What is   in terms of  ? ( ) If we double 
+the value of   , what is the magnitude of the net gravitational force on the 
+central sphere?

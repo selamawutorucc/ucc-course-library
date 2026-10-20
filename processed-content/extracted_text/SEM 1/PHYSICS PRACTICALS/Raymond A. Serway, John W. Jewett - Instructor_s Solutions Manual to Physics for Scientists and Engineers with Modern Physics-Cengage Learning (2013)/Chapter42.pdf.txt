@@ -1,0 +1,6833 @@
+
+--- PAGE 1 ---
+996 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+42 
+Atomic Physics 
+ 
+CHAPTER OUTLINE 
+ 
+42.1  
+Atomic Spectra of Gases 
+42.2 
+Early Models of the Atom 
+42.3  
+Bohr’s Model of the Hydrogen Atom  
+42.4 
+The Quantum Model of the Hydrogen Atom 
+42.5  
+The Wave Functions for Hydrogen 
+42.6 
+Physical Interpretation of the Quantum Numbers 
+42.7  
+The Exclusion Principle and the Periodic Table 
+42.8 
+More on Atomic Spectra: Visible and X-Ray 
+42.9 
+Spontaneous and Stimulated Transitions 
+42.10 
+Lasers 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ42.1 
+(i) Answer (e). (ii) Answer (c). The M means that the electron falls 
+into the M shell, for which n = 3. The β means the electron comes 
+from two shells above M: the O shell, for which n = 5. Mα would 
+refer to 4 → 3 and Mβ refers to 5 → 3.  
+OQ42.2 
+Answer (c). All states associated with = 2 are referred to as d states. 
+Thus, all 10 possible quantum states having n = 3, = 2 are called 3d 
+states.
+
+--- PAGE 2 ---
+Chapter 42     997 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ42.3 
+Answer (d). Wavelengths of the hydrogen spectrum are given by 
+1 λ = RH 1 nf
+2 −1 ni
+2
+(
+), where RH is the Rydberg constant. For the 
+transition ni = 5 to nf = 3, we have 
+ 
+ 
+1
+λ = 1.097 × 107 m−1
+(
+)
+1
+32 −1
+52
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.80 × 105 m−1
+λ = 1.28 × 10−6 m
+ 
+OQ42.4 
+Answer (e). With a principal quantum number of n = 3, there are 3 
+possible values of the orbital quantum number, = 0, 1, 2. There are 
+a total of 2 2+ 1
+(
+) possible quantum states for each value of , 
+2+ 1 possible values of the orbital magnetic quantum number m, 
+and 2 possible spin orientations (ms = ± 1
+2) for each value of m. 
+Thus, the number of states are  
+ 
+ 
+3s states (n = 3,= 0): 
+2[2(0) + 1] = 2 
+ 
+ 
+3p states (n = 3,= 1): 
+2[2(1) + 1] = 6 
+ 
+ 
+3d states (n = 3,= 2): 
+2[2(2) + 1] = 10 
+ 
+The grand total of n = 3 states is 2 + 6 + 10 = 18.  
+OQ42.5 
+Answer (c). It is an experimental fact the charge on the electron is 
+quantized. The Bohr model does not introduce this as a new 
+assumption. 
+OQ42.6 
+(i) Answer (b). (ii) Answer (e). From the discussion of Equations 42.8 
+and 42.9, K = kee2
+2r
+ and Ue = −kee2
+r
+. If  
+ 
+ 
+−E = K +Ue = + kee2
+2r −kee2
+r
+= −kee2
+2r
+, then E = kee2
+2r
+. 
+ 
+Therefore, K = E and Ue = –2E. 
+OQ42.7 
+Answer (e). The structure of the periodic table is the result of the 
+Pauli exclusion principle, which states that no two electrons in an 
+atom can ever have the same set of values for the set of quantum 
+numbers n, , m, and ms. 
+OQ42.8 
+(a) 
+Yes, provided that the energy of the photon is precisely enough 
+to put the electron into one of the allowed energy states. 
+Strangely—more precisely non-classically—enough, if the 
+energy of the photon is not sufficient to put the electron into a 
+particular excited energy level, the photon will not interact with 
+the atom at all!
+
+--- PAGE 3 ---
+998     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Yes, a photon of any energy greater than 13.6 eV will ionize the 
+atom. Any energy above 13.6 eV will go into kinetic energy of 
+the newly liberated electron. 
+OQ42.9 
+Answers (b) and (e). Choice (b) is not possible because the Pauli 
+exclusion principle limits the number of electrons in any p subshell to 
+a maximum of 6. Choice (e) is impossible because the selection rules 
+of quantum mechanics limit the maximum value of  to n – 1. Thus, 
+a 2d state (n = 2, = 2 ) cannot exist. 
+OQ42.10 
+Answer (e). Since the electron is in some bound quantum state of the 
+atom, the atom is not ionized and choice (a) is false. The fact that the 
+electron is in a d state means that its orbital quantum number is 
+= 2, so choice (b) is false. Also, since the maximum value of  is  
+n – 1, choice (c) is false. Finally, the ground state of hydrogen is a 1s 
+state, so choice (d) is false. Choice (e) is true because the magnitude 
+of the orbital angular momentum is L =
++ 1
+(
+)=
+2 2 + 1
+(
+)=
+6. 
+OQ42.11 
+(i) 
+In order of energy change, the ranking is a > d > c > b. 
+ 
+(ii) In order of decreasing photon wavelength, the ranking is  
+c = d > b > a. 
+ 
+ 
+We calculate the energy of the photon according to 
+ΔE = 13.6 eV
+(
+)
+1
+ni
+2 −1
+nf
+2
+⎛
+⎝⎜
+⎞
+⎠⎟, where ΔE > 0 means the photon is 
+absorbed and ΔE < 0 means the photon is emitted. We calculate 
+the wavelength according to λ = hc
+ΔE = 1 240 eV ⋅nm
+ΔE
+. 
+ 
+ 
+(a) ni = 2 and nf = 5, 
+ΔE = 2.86 eV (absorption)
+λ = 434 nm 
+ 
+ 
+(b) ni = 5 and nf = 3, 
+ΔE = −0.967 eV (emission)
+λ = 1 280 nm 
+ 
+ 
+(c)  ni = 7 and nf = 4, 
+ΔE = −0.572 eV (emission)
+λ = 2 170 nm 
+ 
+ 
+(d) ni = 4 and nf = 7, 
+ΔE = 0.572 eV (absorption)
+λ = 2 170 nm 
+OQ42.12 
+Answer (c). The photon carries energy, thus an electron must lose 
+energy.  
+OQ42.13 
+(a) 
+Yes. As n →∞, En = −13.6 eV /n2 →0, and the electron remains 
+in a bound state. 
+ 
+(b) No. To produce a spectral line, the electron must make a 
+transition from a higher energy bound state to a lower energy 
+bound state. The greatest frequency is that of the Lyman series 
+limit, caused by the transition from n = ∞ to n = 1.
+
+--- PAGE 4 ---
+Chapter 42     999 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Yes. Photons with large wavelengths, corresponding to low 
+photon energies, can be produced by transitions between 
+adjacent states with n large.  
+OQ42.14 
+(i) 
+Answer (d). The spin quantum number ms = ±1 2. 
+ 
+(ii) Answers (c) and (d).  The orbital magnetic quantum number m 
+has the range −,−+ 1,. . .,−1,0,1,. . ., −1,, and spin quantum 
+number ms = ±1 2. 
+ 
+(iii) Answers (b) and (c). The orbital quantum number has values 
+= 0,1,2,. . .,n −1, and, as stated above, m can be zero.  
+OQ42.15 
+Answer (a). The bombarding electron can give up all or part of its 
+kinetic energy to the atom. The energy required to raise the atom 
+from its ground state to its first excited state is  
+ 
+ 
+ΔE = E2 −E1 = −13.6 eV
+22
+−−13.6 eV
+12
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.2 eV 
+ 
+The bombarding electron can give up this energy to the atom and 
+carry off the remaining 0.3 eV. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ42.1 
+Stimulated emission coerces atoms to emit photons along a specific 
+axis and in phase rather than in the random directions and phases of 
+spontaneously emitted photons. The photons that are emitted 
+through stimulation can be made to accumulate over time. The 
+fraction allowed to escape constitutes the intense, collimated, and 
+coherent laser beam. If this process relied solely on spontaneous 
+emission, the emitted photons would not exit the laser tube or crystal 
+in the same direction. Neither would they be coherent with one 
+another. 
+CQ42.2 
+In a neutral helium atom, one electron can be modeled as moving in 
+an electric field created by the nucleus and the other electron. 
+According to Gauss’s law, if the electron is above the ground state it 
+moves in the electric field of a net charge of +2e – 1e = +1e. We say 
+the nuclear charge is screened by the inner electron. The electron in a 
+He
++ ion moves in the field of the unscreened nuclear charge of 2 
+protons. Then the potential energy function for the electron is about 
+double that of one electron in the neutral atom. 
+CQ42.3 
+Fundamentally, three quantum numbers describe an orbital wave 
+function because we live in three-dimensional space. They arise 
+mathematically from boundary conditions on the wave function,
+
+--- PAGE 5 ---
+1000     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+expressed as a product of a function of r, a function of θ, and a 
+function of φ. 
+CQ42.4 
+Bohr’s theory pictures the electron as moving in a flat circle like a 
+classical particle described by 
+F
+∑
+= ma. Schrödinger’s theory 
+pictures the electron as a cloud of probability amplitude in the three-
+dimensional space around the hydrogen nucleus, with its motion 
+described by a wave equation. In the Bohr model, angular 
+momentum can take the values L = n, n = 1, 2, 3, . . ., so the ground-
+state angular momentum is 1; in the Schrödinger model, angular 
+momentum can take the values L =
++ 1
+(
+), = 0, 1, . . ., n – 1, so 
+the ground-state angular momentum ( n = 1→= 0 ) is zero. Both 
+models predict that the electron’s energy is limited to discrete energy 
+levels, given by –13.6 eV/n
+2, with n = 1, 2, 3, . . . . 
+CQ42.5 
+Practically speaking, no. Ions have a net charge and the magnetic 
+force q v ×
+
+B
+(
+) would deflect the beam, making it difficult to separate 
+the atoms with different orientations of magnetic moments. 
+CQ42.6 
+The deflecting force on an atom with a magnetic moment is 
+proportional to the gradient of the magnetic field. Thus, atoms with 
+oppositely directed magnetic moments would be deflected in opposite 
+directions in an inhomogeneous magnetic field. 
+CQ42.7 
+If the exclusion principle were not valid, the elements and their 
+chemical behavior would be grossly different because every electron 
+would end up in the lowest energy level of the atom. All matter would 
+be nearly alike in its chemistry and composition, since the shell 
+structures of all elements would be identical. Most materials would 
+have a much higher density. The spectra of atoms and molecules would 
+be very simple, and there would be very little color in the world. 
+CQ42.8 
+Bohr modeled the electron as moving in a perfect circle, with zero 
+uncertainty in its radial coordinate. Then its radial velocity is always 
+zero with zero uncertainty. Bohr’s theory violates the uncertainty 
+principle by making the uncertainty product ΔrΔpr be zero, less than 
+the minimum allowable 2 . 
+CQ42.9 
+The three elements have similar electronic configurations. Each has 
+filled inner shells plus one electron in an outer s orbital. Their single 
+outer electrons largely determine their chemical interactions with 
+other atoms. 
+CQ42.10 
+Each of the electrons must have at least one quantum number 
+different from the quantum numbers of each of the other electrons. 
+They can differ (in ms ) by being spin-up or spin-down. They can also 
+differ (in ) in angular momentum. Those electrons with = 1 can
+
+--- PAGE 6 ---
+Chapter 42     1001 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+differ (in m) in orientation of angular momentum. For n = 2, = 0 or 
+1. If = 0, m= 0, and ms = ±1/2, for a total of two different states. 
+For = 1, m= −1, 0, +1, and ms = ±1/2, for a total of six different 
+states.  
+CQ42.11 
+If an electron moved like a hockey puck, it could have any arbitrary 
+frequency of revolution around an atomic nucleus. If it behaved like 
+a charge in a radio antenna, it would radiate light with frequency 
+equal to its own frequency of oscillation. Thus, the electron in 
+hydrogen atoms would emit a continuous spectrum, electromagnetic 
+waves of all frequencies smeared together. 
+CQ42.12 
+No. Laser light is collimated. The energy generally travels in the 
+same direction. The intensity of a laser beam stays remarkably 
+constant, independent of the distance it has traveled. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 42.1 
+Atomic Spectra of Gases 
+P42.1 
+(a) 
+The wavelengths in the Lyman series of hydrogen are given by  
+ 
+ 
+ 
+1
+λ = RH 1−1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where n = 2, 3, 4,… , and the Rydberg constant is  
+RH = 1.097 373 2 × 107 m−1.This can also be written as  
+ 
+ 
+ 
+λ =
+1
+RH
+⎛
+⎝⎜
+⎞
+⎠⎟
+n2
+n2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+therefore, the first three wavelengths in this series are 
+ 
+ 
+ 
+λ1 =
+1
+1.097 373 2 × 107 m−1
+22
+22 −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.215 × 10−7 m
+= 121.5 nm
+ 
+ 
+ 
+ 
+λ2 =
+1
+1.097 373 2 × 107 m−1
+32
+32 −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.025 × 10−7 m
+= 102.5 nm
+ 
+ 
+ 
+ 
+λ3 =
+1
+1.097 373 2 × 107 m−1
+42
+42 −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.720 × 10−8 m
+= 97.20 nm
+ 
+ 
+(b) These wavelengths are all in the ultraviolet of the spectrum.
+
+--- PAGE 7 ---
+1002     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.2 
+(a) 
+The wavelengths in the Paschen series of hydrogen are given by  
+ 
+ 
+ 
+1
+λ = RH
+1
+32 −1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where n = 4, 5, 6,… , and the Rydberg constant is 
+RH = 1.097 373 2 × 107 m−1. This can also be written as  
+ 
+ 
+ 
+λ =
+1
+RH
+⎛
+⎝⎜
+⎞
+⎠⎟
+9n2
+n2 −9
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+therefore, the first three wavelengths in this series are 
+ 
+ 
+ 
+λ1 =
+1
+1.097 373 2 × 107 m−1
+9(4)2
+42 −9
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.875 × 10−6 m
+= 1 875 nm
+ 
+ 
+ 
+ 
+λ2 =
+1
+1.097 373 2 × 107 m−1
+9(5)2
+52 −9
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.281× 10−6 m
+= 1 281 nm
+ 
+ 
+ 
+ 
+λ1 =
+1
+1.097 373 2 × 107 m−1
+9(6)2
+62 −9
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.094 × 10−6 m
+= 1 094 nm
+ 
+ 
+(b) These wavelengths are all in the infrared region of the spectrum. 
+P42.3 
+(a) 
+The fifth excited state must lie above the second excited state by 
+the photon energy 
+ 
+ 
+ 
+E52 = hf = hc
+λ =
+6.626 × 10−34 J ⋅s 
+(
+) 3.00 × 108 m/s
+(
+)
+520 × 10−9 m
+= 3.82 × 10−19 J
+ 
+ 
+ 
+The sixth excited state exceeds the second in energy by  
+ 
+ 
+ 
+E62 =
+6.626 × 10−34 J ⋅s 
+(
+) 3.00 × 108 m/s
+(
+)
+410 × 10−9 m
+= 4.85 × 10−19 J
+ 
+ 
+ 
+Then the sixth excited state is above the fifth by  
+ 
+ 
+ 
+4.85 −3.82
+(
+) × 10−19 J = 1.03 × 10−19 J
+
+--- PAGE 8 ---
+Chapter 42     1003 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In the 6 to 5 transition the atom emits a photon with the infrared 
+wavelength  
+ 
+ 
+ 
+λ = hc
+E65
+=
+6.626 × 10−34 J ⋅s 
+(
+) 3.00 × 108 m/s
+(
+)
+1.03 × 10−19 J
+= 1.94 × 10−6 m = 1.94 µm
+ 
+P42.4 
+(a) 
+Denote the energy level n of the atom by En. For the transition  
+m → 1, the energy of the emitted photon and its wavelength λm1 
+are related thus:  
+ 
+ 
+ 
+ΔEm1 = Em −E1 = hc
+λm1
+ 
+ 
+ 
+For the transition n → 1, the energy of the emitted photon and its 
+wavelength λn1 are related similarly:  
+ 
+ 
+ 
+ΔEn1 = En −E1 = hc
+λn1
+ 
+ 
+ 
+Therefore, for the transition m → n, the energy of the emitted 
+photon and its wavelength λmn (where m is the higher state, so 
+λn1 > λm1) can be related as  
+ 
+ 
+ 
+ΔEmn = Em −En = hc
+λmn
+ΔEmn = Em −E1
+(
+) −En −E1
+(
+) = hc
+λmn
+= hc
+λm1
+−hc
+λn1
+= hc
+λmn
+→
+1
+λmn
+=
+1
+λm1
+−1
+λn1
+ 
+ 
+ 
+This result may be written as λmn =
+1
+1/λm1 −1/λn1
+. 
+ 
+(b) Multiply the result of part (a) by 2π and apply the definition 
+kij = 2π λij : 
+ 
+ 
+ 
+2π
+1
+λmn
+=
+1
+λm1
+−1
+λn1
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+kmn = km1 −kn1
+
+--- PAGE 9 ---
+1004     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.5 
+Our equation is 1
+λ  = RH
+1
+nf
+2  −  1
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ where RH = 1.097 373 2 × 107 m−1. 
+ 
+With our notation we have identified what Rydberg did not know, that 
+the integers are the principal quantum numbers of the original and 
+final atomic states in the photon emission process. For the Lyman 
+series, we have nf = 1, and ni = 2, 3, 4 , …  We solve for the quantum 
+number of the original state  
+ 
+ 
+1
+ni
+2 = 1
+nf
+2 −
+1
+RHλ     →     ni =
+1
+nf
+2 −
+1
+RHλ
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+   
+ 
+(a) 
+and substitute the given values. 
+ 
+ 
+ 
+ni =
+1
+12 −
+1
+94.96 × 10−9m × 1.097 × 107m−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+= 5
+  
+ 
+ 
+ 
+The electron makes a transition from energy level 5 to the ground 
+state to emit light in this spectral line. 
+ 
+(b) and (c) By Figure 42.8, spectral lines in the Balmer and Paschen 
+series all have much longer wavelengths, since much smaller 
+energy losses put the atom into energy levels 2 or 3.  The 
+expressions  
+ 
+ 
+ 
+ni =
+1
+22 −
+1
+94.96 × 10−9m × 1.097 × 107m−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+ 
+ 
+ 
+and ni =
+1
+32 −
+1
+94.96 × 10−9m × 1.097 × 107m−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1/2
+ 
+ 
+ 
+are imaginary quantities, not real positive integers. The Lyman-
+delta wavelength given cannot be part of the Balmer or the 
+Paschen series. 
+ 
+ 
+ 
+Section 42.2 
+Early Models of the Atom 
+P42.6 
+According to a classical model, the electron 
+moving as a particle in uniform circular motion 
+about the proton in the hydrogen atom 
+experiences a force kee
+2/r
+2; and from Newton’s 
+second law, F = ma, its acceleration is kee
+2/mer
+2.  
+ANS. FIG. P42.6
+
+--- PAGE 10 ---
+Chapter 42     1005 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Using the fact that the Coulomb constant is ke  = 
+1
+4π ∈0
+, the 
+centripetal acceleration is  
+ 
+ 
+ 
+a = v2
+r = F
+me
+=
+e2
+4π ∈0 r2me
+→
+mev2 =
+e2
+4π ∈0 r
+ 
+ 
+ 
+The total energy is  
+ 
+ 
+ 
+E = K +U = mev2
+2
+−
+e2
+4π ∈0 r = −
+e2
+8π ∈0 r
+ 
+ 
+ 
+Substitute the expressions for E and a into the relation for dE
+dt
+: 
+ 
+ 
+ 
+dE
+dt =
+−1
+6π ∈0
+e2a2
+c3
+e2
+8π ∈0 r2
+dr
+dt =
+−e2
+6π ∈0 c3
+e2
+4π ∈0 r2me
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Therefore, dr
+dt = −
+e4
+12π 2 ∈0
+2 me
+2c3
+1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+(b) From the result of part (a), we have  
+ 
+ 
+ 
+T =
+dt
+0
+T
+∫
+= −
+12π 2 ∈0
+2 r2me
+2c3
+e4
+dr
+2.00×10−10 m
+0
+∫
+=
+12π 2 ∈0
+2 r2me
+2c3
+e4
+dr
+0
+2.00×10−10 m
+∫
+= 12π 2 ∈0
+2 me
+2c3
+e4
+r3
+3 0
+2.00×10−10
+=
+12π 2 8.85 × 10−12 C
+(
+)
+2 9.11× 10−31 kg
+(
+)
+2 3.00 × 108 m/s
+(
+)
+3
+1.60 × 10−19 C
+(
+)
+4
+                                                                    ×
+2.00 × 10−10 m
+(
+)
+3
+3
+= 8.46 × 10−10 s = 0.846 ns
+ 
+ 
+ 
+Since atoms last much longer than 0.8 ns, the classical laws 
+(fortunately!) do not hold for systems of atomic size.
+
+--- PAGE 11 ---
+1006     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.7 
+(a) 
+The point of closest approach is found when  
+ 
+ 
+ 
+E = Ki +Ui = K f +U f
+Ki + 0 = 0 + keqαqAu
+rmin
+ 
+ 
+ 
+ 
+→
+rmin = ke 2e
+(
+) 79e
+(
+)
+Ki
+ 
+ 
+ 
+ 
+rmin =
+8.99 × 109 N ⋅m2 C2
+(
+) 158
+(
+) 1.602 × 10−19 C
+(
+)
+2
+4.00 × 106 eV
+(
+) 1.602 × 10−19 J eV
+(
+)
+= 5.69 × 10−14 m
+ 
+ 
+(b) The maximum force exerted on the alpha particle is 
+ 
+ 
+ 
+Fmax = keqαqAu
+rmin
+2
+=
+8.99 × 109 N ⋅m2 C2
+(
+) 158
+(
+) 1.602 × 10−19 C
+(
+)
+2
+5.69 × 10−14 m
+(
+)
+2
+= 11.3 N
+  
+ 
+ 
+away from the nucleus. 
+ 
+ 
+ 
+Section 42.3 
+Bohr’s Model of the Hydrogen Atom 
+*P42.8 
+From the equation just above Equation 42.9 in the text, 1
+2 mev2 = kee2
+2r ,  
+we have  
+ 
+ 
+ 
+v2 = kee2
+mer
+ 
+ 
+and using  
+ 
+ 
+ 
+rn = n22
+mekee2
+ 
+ 
+we obtain 
+ 
+ 
+ 
+vn
+2 =
+kee2
+me n22 mekee2
+(
+)
+ 
+ 
+or 
+ 
+ 
+ 
+ 
+vn = kee2
+n
+
+--- PAGE 12 ---
+Chapter 42     1007 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P42.9 
+We use En = −13.6 eV
+n2
+.  To ionize the atom when the electron is in the  
+nth level, it is necessary to add an amount of energy given by 
+ 
+ 
+ 
+E = −En = 13.6 eV
+n2
+ 
+ 
+(a) 
+Thus, in the ground state where n = 1, we have E = 13.6 eV . 
+ 
+(b) In the n = 3 level, E = 13.6 eV
+32
+= 1.51 eV . 
+P42.10 
+The allowed energy levels of the hydrogen atom are given by  
+ 
+ 
+En = −13.6 eV
+n2
+ where n = 1, 2, 3. . . 
+ 
+A transition in which a lower state ni absorbs a photon of energy ΔE 
+results in a higher state nf , and energy is conserved:  
+ 
+ 
+Ei + ΔE = E f 
+ 
+or 
+ 
+ 
+ 
+ΔE = E f −Ei = −13.6 eV
+nf
+2
+−−13.6 eV
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 13.6 eV
+1
+ni
+2 −1
+nf
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+For the transition ni = 2 to nf = 5,  
+ 
+ 
+ 
+ΔE = 13.6 eV
+1
+22 −1
+52
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.86 eV 
+ 
+(b) For the transition ni = 4 to nf = 6,  
+ 
+ 
+ 
+ΔE = 13.6 eV
+1
+42 −1
+62
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.472 eV 
+P42.11 
+The allowed energy levels of the hydrogen atom are given by  
+ 
+ 
+En = −13.6 eV
+n2
+ where n = 1, 2, 3. . . 
+ 
+In a transition for higher state ni to lower state nf , a photon of energy 
+ΔE is emitted, and energy is conserved:  
+ 
+ 
+Ei + ΔE = E f 
+ 
+or 
+ 
+ 
+ 
+ΔE = E f −Ei = −13.6 eV
+nf
+2
+−−13.6 eV
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 13.6 eV
+1
+ni
+2 −1
+nf
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 13 ---
+1008     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+For the transition ni = 5 to nf = 3,  
+ 
+ 
+ 
+ΔE = 13.6 eV
+1
+32 −1
+52
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.967 eV 
+ 
+(b) To find the wavelength of the emitted photon, we use Equation 
+42.5: 
+ 
+ 
+ 
+ΔE = 0.967 eV = hf = hc
+λ
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+λ = hc
+ΔE = 1 240 eV⋅nm
+0.967 eV
+= 1 282 nm = 1.28 µm
+ 
+ 
+(c) 
+The frequency of the emitted photon is 
+ 
+ 
+ 
+f = c
+λ = 3.00 × 108 m/s
+1 282 × 10−9 m = 2.34 × 1014 Hz 
+P42.12 
+(a) 
+The longest wavelength implies lowest frequency and smallest 
+energy. The electron makes a transition from n = 3 to n = 2: 
+ 
+ 
+ 
+ΔE = −13.6 eV
+32
++ 13.6 eV
+22
+= 1.89 eV 
+ 
+(b) The photon’s wavelength is  
+ 
+ 
+ 
+λ = c
+f = hc
+ΔE = 1 240 eV ⋅nm
+1.89 eV
+(
+)
+= 656 nm
+ 
+ 
+ 
+This is the red Balmer-alpha line, which gives its characteristic 
+color to the chromosphere of the Sun and to photographs of the 
+Orion nebula. 
+ 
+(c) 
+The shortest wavelength implies highest frequency and greatest 
+energy. The electron makes a transition from n = ∞ to n = 2:  
+ 
+ 
+ 
+ΔE = −13.6 eV
+∞
++ 13.6 eV
+22
+= 3.40 eV 
+ 
+(d) The photon’s wavelength is 
+ 
+ 
+ 
+λ = c
+f = hc
+ΔE = 1 240 eV ⋅nm
+3.40 eV
+= 365 nm
+ 
+ 
+(e) 
+This is the Balmer series limit, 365 nm , in the near ultraviolet.
+
+--- PAGE 14 ---
+Chapter 42     1009 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.13 
+(a) 
+From the equation just above Equation 42.9 in the text, v1 =
+kee2
+mer1
+ 
+where, from Equation 42.10, 
+ 
+ 
+ 
+r1 = 1( )
+2 a0 = 0.005 29 nm = 5.29 × 10−11 m 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+v1 =
+8.99 × 109 N⋅m2 C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+9.11× 10−31 kg
+(
+) 5.29 × 10−11 m
+(
+)
+= 2.19 × 106 m/s
+ 
+ 
+(b) The kinetic energy of the electron is 
+ 
+ 
+ 
+K1 = 1
+2 mev1
+2 = 1
+2 9.11× 10−31 kg
+(
+) 2.19 × 106 m/s
+(
+)
+2
+= 2.18 × 10−18 J = 13.6 eV
+ 
+ 
+(c)  The electric potential energy of the atom is 
+ 
+ 
+  
+U1 = −kee2
+r1
+= −8.99 × 109 N⋅m2 C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+5.29 × 10−11 m
+= −4.35 × 10−18 J = −27.2 eV
+ 
+*P42.14 
+Each atom gives up its kinetic energy in emitting a photon, so 
+ 
+ 
+ 
+ 
+1
+2 mv2 = hc
+λ = 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+1.216 × 10−7 m
+(
+)
+= 1.63 × 10−18 J
+ 
+ 
+Their speed before the collision is 
+ 
+ 
+ 
+v =
+2(1.63 × 10−18 J)
+1.67 × 10−27 kg =
+4.42 × 104 m/s
+ 
+*P42.15 
+(a) 
+The speed of the moon in its orbit is  
+ 
+ 
+ 
+v = 2π r
+T
+= 2π 3.84 × 108 m
+(
+)
+2.36 × 106 s
+= 1.02 × 103 m/s 
+ 
+ 
+so,  
+ 
+ 
+ 
+L = mvr = 7.36 × 1022 kg
+(
+) 1.02 × 103 m/s
+(
+) 3.84 × 108 m
+(
+)
+= 2.89 × 1034 kg ⋅m2 s
+
+--- PAGE 15 ---
+1010     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ (b) We have L = n, 
+ 
+ 
+or 
+n = L
+= 2.89 × 1034 kg ⋅m2 s
+1.055 × 10−34 J ⋅s
+= 2.74 × 1068 . 
+ 
+(c) 
+We have 
+n= L = mvr = m GMe
+r
+(
+)
+1 2
+r, 
+ 
+ 
+so 
+r =
+2
+m2GMe
+n2 = Rn2 and Δr
+r = n + 1
+(
+)2 R −n2R
+n2R
+= 2n + 1
+n2
+, 
+ 
+ 
+which is approximately equal to 2
+n = 7.30 × 10−69 . 
+P42.16 
+(a) 
+The collection of excited atoms must make these six transitions to 
+get back to state one: 4 → 1, 4 → 2, and 4 → 3; 3 → 1 and 3 → 2;  
+2 → 1. Thus, the absorbed photon changes the atomic state from  
+1 to 4: 
+ 
+ 
+ 
+E1 + hf = E4
+→
+hf = E4 −E1,    where    En = −13.6 eV
+n2
+ 
+ 
+ 
+The incoming photons have energy  
+ 
+ 
+ 
+hf = ΔE = E f −Ei = −0.850 eV −−13.6 eV
+(
+) = 12.75 eV = hc
+λ
+ 
+ 
+ 
+and wavelength  
+ 
+ 
+ 
+λ = hc
+ΔE = 1 240 eV ⋅nm
+12.75 eV
+= 97.3 nm
+ 
+ 
+(b) The longest of the six wavelengths corresponds to the lowest 
+photon energy, emitted in the transition 4 → 3. By energy 
+conservation, E4 = hf + E3 and 
+ 
+ 
+ 
+hf = E4 −E3 = 13.6 eV
+1
+32 −1
+42
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.661 eV = hc
+λ
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+λ =
+hc
+E4 −E3
+= 1 240 eV ⋅nm
+0.661 eV
+= 1 876 nm = 1.88 µm
+ 
+ 
+(c) 
+The wavelength is in the infrared region of the spectrum. 
+ 
+(d) The wavelength is part of the Paschen series, since the lower state 
+has n = 3. 
+ 
+(e) 
+The shortest wavelength emitted is from the transition 4 → 1, and 
+it is the same as the wavelength absorbed: 97.3 nm. 
+ 
+(f) 
+The wavelength is in the ultraviolet region of the spectrum.
+
+--- PAGE 16 ---
+Chapter 42     1011 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) The wavelength is part of the Lyman series, since the lower state 
+has n = 1. 
+P42.17 
+(a) 
+From Equation 42.12,  
+ 
+ 
+ 
+rn = n2a0 = n2(0.052 9 nm) 
+ 
+ 
+and r3 = 3
+( )
+2 (0.052 9 nm) = 0.476 nm 
+ 
+(b) Using Equation 42.8, we calculate the momentum of the electron:  
+ 
+ 
+mev2 = me
+kee2
+mer2
+=
+mekee2
+r2
+=
+9.11× 10−31 kg
+(
+) 8.99 × 109 N ⋅m2 C2
+(
+) 1.602 × 10−19 C
+(
+)
+2
+0.476 × 10−9 m
+= 6.64 × 10−25 kg ⋅m/s
+ 
+ 
+ 
+The de Broglie wavelength for the electron is  
+ 
+ 
+ 
+λ = h
+mv =
+6.626 × 10−34 J ⋅s
+6.64 × 10−25 kg ⋅m/s = 9.97 × 10−10 m = 0.997 nm 
+P42.18 
+We note, during our calculations, that the nominal velocity of the 
+electron is less than 1% of the speed of light; therefore, we do not 
+need to use relativistic equations.  
+ 
+(a) 
+By Bohr’s theory and Equation 42.12,  
+ 
+ 
+ 
+rn = n2a0
+r2 = 2( )
+2 0.052 9 nm
+(
+) = 0.212 nm
+ 
+ 
+(b) Since mevr = n, 
+ 
+ 
+ 
+p = mev = n
+r  = 2 1.054 6  ×  10–34 J · s
+(
+)
+2.12  ×  10–10 m
+=  9.97 × 10–25 kg · m/s
+  
+ 
+(c) 
+
+L = r × p becomes   
+ 
+ 
+ 
+L2 = mev2r2 = 9.97 × 10−25 kg⋅m/s
+(
+) 0.212 × 10−9 m
+(
+)
+= 2.11× 10−34 kg⋅m2/s
+ 
+ 
+(d) Next, the speed is  
+ 
+ 
+ 
+v = p
+me
+= 9.97 × 10–25 kg · m/s
+9.11 × 10–31 kg
+ = 1.09 × 106 m/s
+
+--- PAGE 17 ---
+1012     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+So the kinetic energy is K =  1
+2 mev2: 
+ 
+ 
+ 
+K = 9.11 × 10–31 kg
+(
+) 1.09 × 106m/s
+(
+)
+2
+2
+=
+5.45 × 10–19 J
+1.602 × 10–19 J/eV = 3.40 eV
+ 
+ 
+(e) 
+From Chapter 25, the electric potential energy is U = ke
+q1q2
+r
+:  
+ 
+ 
+ 
+U = −kee2
+r  = −8.99  ×  109 N · m2 /C2
+(
+) 1.602  ×  10–19 C
+(
+)
+2
+2.12  ×  10–10 m
+= −1.09 × 10–18 J = –6.80 eV
+ 
+ 
+(f) 
+Thus the total energy is  
+ 
+ 
+ 
+E = K + U = −5.45 × 10–19 J = –3.40 J 
+P42.19 
+(a) 
+The photon has energy 2.28 eV, and 13.6 eV
+22
+= 3.40 eV is required 
+to ionize a hydrogen atom from state n = 2. So while the photon 
+cannot ionize a hydrogen atom pre-excited to n = 2, it can ionize a 
+hydrogen atom in the n = 3 state, with energy 
+−13.6 eV
+32
+= −1.51 eV.
+ 
+ 
+(b) The electron thus freed can have kinetic energy  
+ 
+ 
+ 
+Ke = 2.28 eV −1.51 eV = 0.769 eV = 1
+2 mev2 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+v =
+2 0.769 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+9.11× 10−31 kg
+= 5.20 × 105 m/s
+= 520 km/s
+ 
+P42.20 
+(a) 
+From the Bohr theory, we find the speed of the electron: 
+ 
+ 
+ L = mevr = n
+→
+v = n
+mer 
+ 
+ 
+The period of its orbital motion is T = 2πr
+v
+= 2πrmer
+n
+.
+
+--- PAGE 18 ---
+Chapter 42     1013 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting the orbital radius r = n22
+mekee2 , we find  
+ 
+ 
+ 
+T = 2πmen44
+nme
+2ke
+2e4 = 2π3
+meke
+2e4 n3 
+ 
+ 
+Thus we have the periods determined in terms of the ground-
+state period 
+ 
+ 
+ 
+t0 = 2π3
+meke
+2e4
+=
+2π(1.054 6 × 10−34 J⋅s)3
+9.11× 10−31 kg
+(
+)(8.99 × 109 N⋅m2/C2)2(1.602 × 10−19 C)4 
+= 1.52 × 10−16 s = 152 × 10−18 s = 152 as
+ 
+ 
+(b) In the n = 2 state, the period is  
+ 
+ 
+ 
+T = t0n3 = t0 2( )
+3 = 8t0 = 1.22 × 10−15 s 
+ 
+ 
+The number of orbits completed in the excited state is  
+ 
+ 
+ 
+N = 10 × 10−6 s
+T
+=
+10 × 10−6 s
+1.22 × 10−15 s = 8.23 × 109 revolutions 
+ 
+(c) 
+Its lifetime in electron years is comparable to the lifetime of the 
+Sun in Earth years, so we can think of it as a long time. 
+P42.21 
+(a) 
+The energy levels of a hydrogen-like ion 
+whose charge number is Z are given by  
+ 
+ 
+ 
+En = −13.6 eV
+(
+) Z2
+n2 
+ 
+ 
+Thus for helium (Z = 2), the energy levels 
+are 
+ 
+ 
+ 
+En = −54.4 eV
+n2
+n = 1, 2, 3, . . . 
+ 
+ 
+The enegy level diagram for helium is 
+shown in ANS. FIG. P42.21. 
+ 
+(b) For He
++, Z = 2, so we see that the ionization energy (the energy 
+required to take the electron from the n = 1 to the n = ∞ state) is 
+ 
+ 
+ 
+E = E∞−E1 = 0 −−13.6 eV
+(
+) 2( )
+2
+1( )
+2
+= 54.4 eV 
+ 
+ 
+ 
+ 
+ANS. FIG. P42.21
+
+--- PAGE 19 ---
+1014     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 42.4 
+The Quantum Model of the Hydrogen Atom 
+P42.22 
+The reduced mass of positronium is less than hydrogen, so the photon 
+energy will be less for positronium than for hydrogen. This means that 
+the wavelength of the emitted photon will be longer than 656.3 nm. On 
+the other hand, helium has about the same reduced mass but more 
+charge than hydrogen, so its transition energy will be larger, 
+corresponding to a wavelength shorter than 656.3 nm. 
+ 
+All the factors in the given equation are constant for this problem 
+except for the reduced mass and the nuclear charge. Therefore, the 
+wavelength corresponding to the energy difference for the transition 
+can be found simply from the ratio of mass and charge variables. 
+ 
+For hydrogen,   µ =
+mpme
+mp + me
+≈me. The photon energy is  ΔE = E3 −E2.   
+ 
+Its wavelength is λ = 656.3 nm, where λ = c
+f = hc
+ΔE . 
+ 
+(a) 
+For positronium,   µ =
+meme
+me + me
+= me
+2 , 
+ 
+ 
+so the energy of each level is one half as large as in hydrogen. The 
+photon energy is inversely proportional to its wavelength, so for 
+positronium, 
+ 
+ 
+ 
+λ32 = 2 656.3 nm
+(
+) = 1.31 µm    (in the infrared region) 
+ 
+(b) For He
++, µ ≈me , q1 = e, and q2 = 2e, so the transition energy is  
+2
+2 = 4 times larger than hydrogen. Then,  
+ 
+ 
+ 
+λ32 =
+656
+4
+⎛
+⎝⎜
+⎞
+⎠⎟ nm = 164 nm (in the ultraviolet region) 
+P42.23 
+(a) 
+For this problem, refer to the equation from Problem 22, with  
+q1 = q2 = e.  For a particular transition from ni to nf ,  
+ 
+ 
+ 
+ΔEH = −µHke
+2e4
+22
+1
+nf
+2 −1
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= hc
+λH
+  
+ 
+ 
+and ΔED = −µDke
+2e4
+22
+1
+nf
+2 −1
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= hc
+λD
+,  
+ 
+ 
+where µH =
+memp
+me + mp
+ and µD =
+memD
+me + mD
+.
+
+--- PAGE 20 ---
+Chapter 42     1015 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+By division, ΔEH
+ΔED
+= µH
+µD
+=
+λD
+λ H
+ or λD =
+µH
+µD
+⎛
+⎝⎜
+⎞
+⎠⎟λ H. Then,  
+ 
+ 
+ 
+λH −λD = 1−µH
+µD
+⎛
+⎝⎜
+⎞
+⎠⎟λH
+ 
+ 
+(b) 
+µH
+µD
+=
+memp
+me + mp
+⎛
+⎝⎜
+⎞
+⎠⎟
+me + mD
+memD
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.007 276 u
+(
+) 0.000 549 u + 2.013 553 u
+(
+)
+0.000 549 u + 1.007 276 u
+(
+) 2.013 553 u
+(
+)
+= 0.999 728
+ 
+ 
+ 
+λH −λD = 1−0.999 728
+(
+) 656.3 nm
+(
+) = 0.179 nm 
+P42.24 
+(a) 
+The uncertainty principle is represented by ΔxΔp ≥ 
+2 . 
+ 
+ 
+Thus, if Δx = r,
+Δp ≥  
+2r .  
+ 
+(b) The minimum uncertainty would be attained only if the wave 
+function had a particular (gaussian) waveform. We assume that 
+the momentum uncertainty is just twice as large as its minimum 
+possible value: Δp = 
+r . Then the kinetic energy is
+ 
+K = p2
+2me
+≈Δp
+(
+)
+2
+2me
+=
+2
+2mer2 
+ 
+(c) 
+The electric potential energy is U = −kee2
+r
+ so the total energy is   
+ 
+ 
+ 
+E = K +U ≈
+2
+2mer2 −kee2
+r
+. 
+ 
+(d) To minimize E as a function of r, we require  
+ 
+ 
+ 
+ 
+ 
+dE
+dr = −2
+mer3 + kee2
+r2 = 0
+→
+r =
+2
+mekee2 = a0 (the Bohr radius) 
+ 
+(e) 
+Then the energy is  
+ 
+ 
+ 
+E = 2
+2me
+mekee2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−kee2
+mekee2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −meke
+2e4
+22
+
+--- PAGE 21 ---
+1016     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+E = −meke
+2e4
+22
+= −meke
+2e4
+22
+= −
+9.109 × 10−31 kg
+(
+) 8.988 × 109 N ⋅m2/C2
+(
+)
+2 1.602 × 10−19 C
+(
+)
+4
+2 6.626 × 10−34 J ⋅s 2π
+(
+)
+2
+= −2.179 × 10−18 J
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −13.6 eV
+ 
+ 
+(f) 
+With our particular choice for the momentum uncertainty as 
+double its minimum possible value, we find our results are in 
+agreement with the Bohr theory. 
+ 
+ 
+ 
+Section 42.5 
+The Wave Functions for Hydrogen 
+P42.25 
+ψ 1s r( ) =
+1
+π a0
+3 e−r a0 is the ground state hydrogen wave function. 
+ 
+P1s r( ) = 4r2
+a0
+3 e−2r a0 is the ground state radial probability distribution 
+function. The plots are shown in ANS. FIG. P42.25. 
+ 
+ 
+ 
+ANS. FIG. P42.25
+
+--- PAGE 22 ---
+Chapter 42     1017 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.26 
+(a) 
+We first find the first and second derivatives of the wave 
+function: 
+ 
+ 
+ 
+ψ =
+1
+π a0
+3 e−r a0
+→
+2
+r
+dψ
+dr = 2
+r
+−1
+π a0
+5 e−r a0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= −2
+ra0
+ψ 
+ 
+ 
+and d2ψ
+dr2 =
+1
+π a0
+7 e−r a0 = 1
+a0
+2 ψ 
+ 
+ 
+Substitution into the Schrödinger equation to test the validity of 
+the solution yields  
+ 
+ 
+ 
+−2
+2me
+1
+a0
+2 −2
+ra0
+⎛
+⎝⎜
+⎞
+⎠⎟ψ −
+e2
+4π ∈0 rψ = Eψ
+ 
+ 
+ 
+But, from Equation 42.11, a0 =
+2
+mekee2 = 2 4π ∈0
+(
+)
+mee2
+, thus 
+ 
+ 
+ 
+−2
+2me
+1
+a0
+2 −2
+ra0
+⎛
+⎝⎜
+⎞
+⎠⎟ψ −
+e2
+4π ∈0 rψ = Eψ
+−2
+2me
+1
+a0
+2 ψ +
+2
+mer
+1
+a0
+ψ −
+e2
+4π ∈0 rψ
+⎡
+⎣⎢
+⎤
+⎦⎥= Eψ
+−2
+2me
+1
+a0
+2 ψ +
+2
+me r
+me e2
+4π ∈0 2 −
+e2
+4π ∈0 r
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ψ = Eψ
+−2
+2me
+1
+a0
+2 ψ = Eψ
+ 
+ 
+ 
+The Schrödinger equation is satisfied if E = −2
+2me
+1
+a0
+2 . 
+ 
+(b) Substituting a0 =
+2
+mekee2 for one factor of a0, we find that  
+ 
+ 
+ 
+E = −2
+2me
+1
+a0
+2 = −2
+2 me
+1
+a0
+me kee2
+2
+= E = −kee2
+2a0
+ 
+P42.27 
+The wave function given is 
+ 
+ 
+ 
+ψ = 1
+3
+1
+2a0
+(
+)
+3 2
+r
+a0
+e−r 2a0
+
+--- PAGE 23 ---
+1018     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so, by Equation 42.24,  
+ 
+ 
+ 
+Pr = 4π r2 ψ
+2 = 4π r2
+r2
+24a0
+5 e−r a0 
+ 
+Setting 
+dP
+dr = 4π
+24a0
+5 4r3e−r a0 + r4 −1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r a0
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 0, we obtain 
+ 
+ 
+ 
+4r3 + −r4
+a0
+⎡
+⎣⎢
+⎤
+⎦⎥= 0
+ 
+ 
+Solving for r, this is a maximum at r = 4a0 . 
+P42.28 
+(a) 
+ψ
+2 dV
+∫
+= 4π
+ψ
+2 r2dr
+0
+∞
+∫
+= 4π
+1
+π a0
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+r2e−2r a0dr
+0
+∞
+∫
+. Using integral 
+tables, 
+ 
+ 
+ 
+ψ
+2 dV
+∫
+= −2
+a0
+2 e−2r a0
+r2 + a0r + a0
+2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+0
+∞
+= −2
+a0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−a0
+2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 
+ 
+ 
+so the wave function as given is normalized. 
+ 
+(b) 
+Pa0 /2→3a0 /2 = 4π
+ψ
+2 r2dr
+a0 2
+3a0 2
+∫
+= 4π
+1
+π a0
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+r2e−2r a0dr
+a0 2
+3a0 2
+∫
+. Again, using 
+integral tables,  
+ 
+ 
+ 
+Pa0 /2→3a0 /2 = −2
+a0
+2 e−2r a0
+r2 + a0r + a0
+2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+a0 2
+3a0 2
+= −2
+a0
+2 e−3 17a0
+2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟−e−1 5a0
+2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 0.497
+ 
+P42.29 
+The hydrogen ground-state radial probability density is, from 
+Equation 42.25,  
+ 
+ 
+ 
+P1s r( ) = 4π r2 ψ 1s
+2 = 4r2
+a0
+3 exp −2r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+The number of observations at 2a0 is, by proportion,  
+ 
+ 
+ 
+N = 1 000
+(
+) P1s 2a0
+(
+)
+P1s a0 2
+(
+)
+= 1 000
+(
+) 2a0
+(
+)
+2
+a0 2
+(
+)
+2
+e−4a0 a0
+e−a0 a0 = 1 000
+(
+) 16
+(
+)e−3
+= 797 times
+
+--- PAGE 24 ---
+Chapter 42     1019 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 42.6 
+Physical Interpretation of the Quantum Numbers 
+P42.30 
+(a) 
+In the 3d subshell, n = 3 and = 2, we have 
+n 
+3 
+3
+3
+3
+3
+3
+3
+3
+3
+3 
+ 
+2 
+2
+2
+2
+2
+2
+2
+2
+2
+2 
+m 
++2 
++2
++1
++1
+0
+0
+–1
+–1
+–2
+–2 
+ms 
++1/2 –1/2 +1/2
+–1/2 +1/2
+–1/2 +1/2
+–1/2 +1/2 –1/2 
+ 
+ 
+(a total of 10 states.) 
+ 
+(b) In the 3p subshell, n = 3 and = 1, we have 
+n 
+3 
+3 
+3
+3 
+3 
+3 
+ 
+1 
+1 
+1
+1 
+1 
+1 
+m 
++1 
++1 
+0
+0 
+–1 
+–1 
+ms 
++1/2 
+–1/2 +1/2
+–1/2 +1/2 
+–1/2 
+ 
+ 
+(a total of 6 states.) 
+*P42.31 
+From Equation 42.27, L =
++ 1
+(
+) (suppressing units): 
+ 
+ 
+4.714 × 10−34 =
++ 1
+(
+) 6.626 × 10−34
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
++ 1
+(
+) = 4.714 × 10−34
+(
+)
+2 2π
+(
+)2
+6.626 × 10−34
+(
+)
+2
+= 1.998 × 101 ≈20 = 4 4 + 1
+(
+)
+ 
+ 
+so 
+= 4 . 
+P42.32 
+(a) 
+For a 3d state, n = 3 and = 2. Therefore,     
+ 
+ 
+ 
+L =
++ 1
+(
+)=
+6= 2.58 × 10−34 J⋅s 
+ 
+(b) 
+m can have the values     –2, –1, 0, 1, and 2, 
+ 
+ 
+so      Lz can have the values −2, −, 0,  and 2.
+
+--- PAGE 25 ---
+1020     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Using the relation cosθ = Lz
+L , we find the possible values of θ
+ :  
+ 
+ 
+ 
+145°, 114°, 90.0°, 65.9°, and 35.3° 
+P42.33 
+From Equation 42.27, L =
++ 1
+(
+). 
+ 
+(a) 
+For the d state, = 2, and L =
+6= 2.58 × 10−34 J ⋅s . 
+ 
+(b) For the f state, = 3, and L =
+12= 2 3= 3.65 × 10−34 J ⋅s . 
+P42.34 
+ (a) For n = 1, we have  = 0, m = 0, ms = ± 1
+2 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This yields 2n2 = 2 1( )
+2 = 2 sets.  
+ 
+ 
+(b) For n = 2, we have  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This yields 2n2 = 2 2( )
+2 = 8 sets.  
+ 
+ 
+ 
+Note that the number is twice the number of m values. Also, for 
+each  there are 2+ 1
+(
+) different m values. Finally, l can take on 
+values ranging from 0 to n – 1. 
+n 
+ 
+m 
+ms 
+1 
+0 
+0 
+–1/2 
+1 
+0 
+0 
++1/2 
+n 
+ 
+m 
+ms 
+2 
+0 
+0 
+±1/2 
+2 
+1 
+–1 
+±1/2 
+2 
+1 
+0 
+±1/2 
+2 
+1 
++1 
+±1/2
+
+--- PAGE 26 ---
+Chapter 42     1021 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+So the general expression is number = 
+2(2+ 1)
+=0
+n−1
+∑
+. 
+ 
+ 
+The series is an arithmetic progression like 2 + 6 + 10 + 14. 
+ 
+ 
+The sum is 
+4
+0
+n−1
+∑
+ + 
+2
+0
+n−1
+∑ = 4 n2 − n
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ + 2n = 2n2. 
+ 
+(c) 
+n = 3:    2(1) + 2(3) + 2(5) = 2 + 6 + 10 = 18   or  2n2 = 2 3( )
+2 = 18 
+ 
+(d) n = 4:    2(1) + 2(3) + 2(5) + 2(7) = 32 
+or   2n2 = 2 4
+( )
+2 = 32 
+ 
+(e) 
+n = 5:     32 + 2(9) = 32 + 18 = 50 or   2n2 = 2 5( )
+2 = 50 
+P42.35 
+In the N shell, n = 4. For n = 4,  can take on values of 0, 1, 2, and 3. For 
+each value of , m can be − to  in integral steps. Thus, the 
+maximum value for m is 3. Since Lz = m, the maximum value for Lz 
+is Lz = 3. 
+P42.36 
+(a) 
+Modeling it as a solid sphere, the density of a proton is,  
+ 
+ 
+ 
+ρ = m
+V =
+1.67 × 10−27 kg
+4 3
+(
+)π 1.00 × 10−15 m
+(
+)
+3 = 3.99 × 1017 kg/m3
+  
+ 
+(b) The radius of an electron modelled as a solid sphere is, 
+ 
+ 
+ 
+r =
+3m
+4π ρ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+3 9.11× 10−31 kg
+(
+)
+4π 3.99 × 1017 kg/m3
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 3
+= 8.17 × 10−17 m = 81.7 × 10−18 m = 8.17 am
+ 
+ 
+(c) 
+The moment of inertia of the spinning electron is 
+ 
+ 
+ 
+I = 2
+5 mr2 = 2
+5 9.11× 10−31 kg
+(
+) 8.17 × 10−17 m
+(
+)
+2
+= 2.43 × 10−63 kg ⋅m2
+ 
+ 
+ 
+ 
+Lz = Iω = 
+2 = Iv
+r
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+v = r
+2I =
+6.626 × 10−34 J ⋅s
+(
+) 8.17 × 10−17 m
+(
+)
+2π 2 × 2.43 × 10−63 kg ⋅m2
+(
+)
+= 1.77 × 1012 m/s = 1.77 Tm/s
+ 
+ 
+(d) It is 5.91 × 10
+3c, which is huge compared with the speed of light 
+and impossible.
+
+--- PAGE 27 ---
+1022     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.37 
+The 5th excited state has n = 6, energy E6 = −13.6 eV
+6( )
+2
+= −0.378 eV. 
+ 
+The atom loses this much energy:  
+ 
+ 
+ 
+E = hc
+λ =
+6.626 × 10−34 J ⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+1 090 × 10−9 m
+(
+) 1.60 × 10−19 J eV
+(
+)
+= 1.14 eV 
+ 
+to end up with energy –0.378 eV – 1.14 eV = –1.52 eV 
+ 
+which is the energy in state 3: −13.6 eV
+33
+= −1.51 eV 
+ 
+While n = 3,  can be as large as 2, giving angular momentum  
+ 
+ 
+ 
+L =
++ 1
+(
+)=
+6= 2.58 × 10−34 J ⋅s 
+P42.38 
+The energy of the photon is 
+ 
+ 
+ 
+Eph = 1 240 eV ⋅nm
+88.0 eV
+ = 14.1 eV 
+ 
+The maximum energy of the ejected photoelectron from the aluminum 
+surface is 
+ 
+ 
+ 
+Kmax  = Eph − φ = 14.1 eV − 4.08 eV = 10.0 eV 
+ 
+where the work function φ for aluminum is found from Table 40.1. 
+This electron energy is not enough to excite the hydrogen atom from 
+its ground state to even the first exited state. 
+P42.39 
+The 3d subshell has n = 3 and  = 2. Also, we have s = 1. Altogether 
+we can have n = 3, = 2, m= –2, –1, 0, 1, 2, s = 1, and ms = –1, 0, 1, 
+leading to the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+m
+ –2 
+–2 
+–2 
+–1 
+–1 
+–1 
+0 
+0 
+0 
+1 
+1 
+1 
+2 
+2 
+2 
+s 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+ms 
+–1 
+0 
+1 
+–1 
+0 
+1 
+–1 
+0 
+1 
+–1 
+0 
+1 
+–1 
+0 
+1
+
+--- PAGE 28 ---
+Chapter 42     1023 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 42.7 
+The Exclusion Principle and the Periodic Table 
+P42.40 
+(a) 
+The 4s subshell, for potassium and calcium, before the 3d subshell 
+starts to fill for scandium through zinc.  
+ 
+(b) 
+We would expect [Ar]3d44s2 to have lower energy, but
+[Ar]3d54s1 has more unpaired spins and lower energy 
+according to Hund’s rule. 
+ 
+ 
+(c) 
+It is the ground-state configuration of chromium. 
+P42.41 
+(a) 
+1s22s22p4 
+ 
+(b) For the 1s electrons, 
+ 
+ 
+ 
+ 
+n = 1, = 0, m= 0, ms = + 1
+2 and −1
+2 
+ 
+For the two 2s electrons, 
+ 
+ 
+ 
+ 
+n = 2, = 0, m= 0, ms = + 1
+2 and −1
+2 
+ 
+For the four 2p electrons, 
+ 
+ 
+ 
+ 
+n = 2, = 1, m= –1, 0, 1, and ms = + 1
+2 and −1
+2 
+P42.42 
+Electronic configuration:    sodium to argon 
+ 
+Orbitals 1s, 2s, and 2p are filled (and not shown). 
+ 
+ 
+3s 
+ 
+3p 
+ 
+4s 
+ 
+Na
+11 ⇑         
+     
+     
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s1 
+ 
+Mg
+12 ⇑ ⇓      
+     
+     
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s2 
+ 
+Al
+13 ⇑ ⇓ ⇑    
+     
+     
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p1 
+ 
+Si
+14 
+⇑ ⇓ ⇑    
+⇑    
+     
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p2 
+ 
+P
+15 
+⇑ ⇓ ⇑    
+⇑    
+⇑    
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p3 
+ 
+S
+16 
+⇑ ⇓ ⇑ ⇓ 
+⇑    
+⇑    
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p4 
+ 
+Cl
+17 ⇑ ⇓ ⇑ ⇓ 
+⇑ ⇓ 
+⇑    
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p5 
+ 
+Ar
+18 ⇑ ⇓ ⇑ ⇓ 
+⇑ ⇓ 
+⇑ ⇓ 
+     
+1s22s22p6
+⎡⎣
+⎤⎦3s23p6 
+ 
+K
+19 
+⇑ ⇓ ⇑ ⇓ 
+⇑ ⇓ 
+⇑ ⇓ 
+⇑    
+1s22s22p63s23p6
+⎡⎣
+⎤⎦4s1
+
+--- PAGE 29 ---
+1024     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.43 
+In the table of electronic configurations in the text, or on a periodic 
+table, we look for the element whose last electron is in a 3p state and 
+which has three electrons outside a closed shell. Its electron 
+configuration then ends in 3s
+2 3p
+1. The element is aluminum . 
+P42.44 
+(a) Note that the possible values for  range from zero to n – 1. 
+ 
+n +  
+1 2 3 
+4 
+5 
+6 
+7 
+subshell 1s 2s 2p, 3s 3p, 4s 3d, 4p, 5s 4d, 5p, 6s 4f, 5d, 6p, 7s 
+ 
+ 
+The order is 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s. 
+P42.45 
+(a) 
+For electron one and also for electron two, n = 3 and = 1; 
+possible values are m= 1, 0, –1 and ms = 1/2, –1/2. The exclusion 
+principle requires that the electrons cannot have identical sets of 
+quantum numbers. The possible states are listed here in columns 
+giving the other quantum numbers: 
+electron 
+m 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+one 
+ms 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+electron 
+m 
+1 
+0 
+0 
+–1 –1 
+1 
+0 
+0 
+–1 –1 1 
+1 
+0 
+–1 –1 
+two 
+ms 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+ 
+ electron m 0 
+0 
+0 
+0 
+0 –1 –1 –1 –1 –1 –1 –1 –1 –1 –1 
+ one 
+ms 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+ electron m 1 
+1 
+0 –1 –1 1 
+1 
+0 
+0 –1 1 
+1 
+0 
+0 –1 
+ two 
+ms 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+−1
+2
+ 
+1
+2
+ 
+1
+2
+ 
+−1
+2
+ 
+1
+2
+
+--- PAGE 30 ---
+Chapter 42     1025 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+There are 6 × 5 = 30 allowed states, since electron one can have 
+any of three possible values for m for both spin up and spin 
+down, amounting to six states, and the second electron can have 
+any of the other five states. 
+ 
+(b) Were it not for the exclusion principle, there would be 6 × 6 = 36 
+possible states, six for each electron independently. 
+P42.46 
+Listing subshells in the order of filling, we have for element 110, 
+ 
+1s22s22p63s23p64s23d104p65s24d105p66s24 f 145d106p67s25 f 146d8 
+ 
+In order of increasing principal quantum number, this is 
+ 
+1s22s22p63s23p63d104s24p64d104 f 145s25p65d105 f 146s26p66d87s2 
+P42.47 
+In the ground state of sodium, the outermost electron is in an s state. 
+This state is spherically symmetric, so it generates no magnetic field by 
+orbital motion, and has the same energy no matter whether the 
+electron is spin-up or spin-down. The energies of the states 3p ↑ and 
+3p ↓ above 3s are hf1 = hc
+λ and hf2 = hc
+λ2
+. 
+ 
+The energy difference is 
+ 
+ 
+ 
+2µBB = hc
+1
+λ1
+−1
+λ2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+so  
+ 
+ 
+  
+B = hc
+2µB
+1
+λ1
+−1
+λ2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m s
+(
+)
+2 9.27 × 10−24 J T
+(
+)
+                             ×
+1
+588.995 × 10−9 m −
+1
+589.592 × 10−9 m
+(
+)
+= 18.4 T
+
+--- PAGE 31 ---
+1026     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 42.8 
+More on Atomic Spectra: Visible and X-Ray 
+*P42.48 
+Some electrons can give all their kinetic energy Ke = eΔV to the 
+creation of a single photon of x-radiation, with 
+ 
+ 
+ 
+hf = hc
+λ = eΔV
+λ = hc
+eΔV = 6.626 1× 10−34 J ⋅s
+(
+) 2.997 9 × 108 m s
+(
+)
+1.602 2 × 10−19 C
+(
+)ΔV
+=
+1 240 nm ⋅V
+ΔV
+ 
+P42.49 
+A photon of maximum energy or minimum wavelength is produced 
+when the electron gives up all of its kinetic energy in a single collision 
+within the target. Thus,  
+ 
+ 
+Emax = hc
+λmin
+= KE = eΔV
+ 
+ 
+For a minimum wavelength of λmin = 70.0 pm = 70.0 × 10−12 m , the 
+required accelerating voltage is  
+ 
+ 
+ΔV =
+hc
+eλmin
+= 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+1.60 × 10−19 C
+(
+) 70.0 × 10−12 m
+(
+)
+= 1.77 × 104 V = 17.7 kV
+ 
+P42.50 
+The shortest wavelength is produced when the electron gives up all of 
+its kinetic energy as a photon in a single collision within the target. For 
+an accelerating voltage of 40.0 keV, the kinetic energy of the electrons is  
+ 
+ 
+KE = eΔV = e 40.0 kV
+(
+) = 40.0 keV 
+ 
+For the shortest wavelength produced, 
+ 
+ 
+Emax = hc
+λmin
+= KE = eΔV
+ 
+ 
+and 
+λmin = hc
+eΔV = 1 240 eV⋅nm
+40.0 × 103 eV
+(
+)
+= 0.031 0 nm 
+P42.51 
+(a) 
+For bismuth, Z = 83. Following Example 42.5, the electron in the 
+M shell (n = 3) is shielded from the nuclear charge by one electron 
+in the L shell (n = 1) and eight electrons in the K shell (n = 2). Its 
+energy is  
+ 
+ 
+ 
+EM ≈−Z −9
+(
+)
+2 13.6 eV
+3( )
+2
+= −13.6 eV 74
+(
+)
+2
+3( )
+2
+
+--- PAGE 32 ---
+Chapter 42     1027 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The electrons in the L shell (n = 2) are shielded from the nuclear 
+charge by one electron in the K shell, so (from page 1324)  
+ 
+ 
+ 
+EL ≈−Z −1
+(
+)
+2 13.6 eV
+2( )
+2
+= −13.6 eV 82
+(
+)
+2
+2( )
+2 
+ 
+ 
+When the electron drops from the M to the L shell of the atom, it 
+emits a photon of energy 
+ 
+ 
+ 
+Ephoton = EM −EL ≈13.6 eV −74
+(
+)
+2
+3
+( )
+2 + 82
+(
+)
+2
+2
+( )
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.46 × 104 eV ≈15 keV
+ 
+ 
+(b) The wavelength of the emitted x-ray is given by 
+ 
+ 
+ 
+λ = 1.240 keV⋅nm
+E
+= 1.240 keV⋅nm
+15 keV
+≈0.083 nm = 8.3 × 10−11 m
+ 
+P42.52 
+(a) 
+For the 3p state, En =
+−13.6 eV Zeff
+2
+n2
+ becomes 
+ 
+ 
+ 
+ 
+−3.0 eV =
+−13.6 eV Zeff
+2
+32
+    so     Zeff = 1.4 
+ 
+ 
+For the 3d state 
+ 
+ 
+ 
+ 
+−1.5 eV =
+−13.6 eV Zeff
+2
+32
+   so     Zeff = 1.0 
+ 
+(b) When the outermost electron in sodium is promoted from the 3s 
+state into a 3p state, its wave function still overlaps somewhat 
+with the ten electrons below it. It therefore sees the +11e nuclear 
+charge not fully screened, and on the average moves in an electric 
+field like that created by a particle with charge +11e – 9.6e = 1.4e. 
+When this valence electron is lifted farther to a 3d state, it is 
+essentially entirely outside the cloud of ten electrons below it, and 
+moves in the field of a net charge +11e – 10e = 1e. 
+P42.53 
+(a) 
+Recall ≤n −1. For n = 3, = 0, 1, 2. If = 2 , then m= 2 , 1, 0, –1, 
+–2; if = 1, then m= 1, 0, –1; if = 0, then m= 0 . 
+ 
+(b) The He
++ ion is a one-electron atom, so all states are have the same 
+energy, determined by the principal quantum number n:  
+ 
+ 
+ 
+E3 = −Z2E0
+n2
+= −22 13.606 eV
+(
+)
+32
+= −6.05 eV
+
+--- PAGE 33 ---
+1028     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P42.54 
+The K series includes transitions from 
+higher levels down to the K shell (n = 1). 
+Transitions from higher n produce 
+photons of higher energy. The ionization 
+energy for the K shell is 69.5 keV, so the 
+energy of the K shell is –69.5 keV.  
+ 
+The photon energies are  
+ 
+ 
+ 
+E = hc
+λ = 1 240 eV ⋅nm
+λ
+= 1.240 keV ⋅nm
+λ
+ 
+λ (nm) 
+photon 
+energy  
+(keV) 
+transition 
+energy of level (keV) 
+level 
+λ1 = 0.018 5 
+67.03 
+n = 4 → 1 
+–69.5 + 67.03 = –2.47 
+N 
+λ2 = 0.020 9 
+59.3 
+n = 3 → 1 
+–69.5 + 59.3 = –10.2 
+M 
+λ3 = 0.021 5 
+57.7 
+n = 2 → 1 
+–69.5 + 57.7 = –11.8 
+L 
+ 
+The ionization energy for the K shell is 69.5 keV, so the ionization 
+energies for the other shells are: 
+ 
+ 
+L shell = 11.8 keV   M shell = 10.2 keV   N shell = 2.47 keV 
+P42.55 
+Following the reasoning of Example 42.5, when the electron is in the K 
+shell (n = 1), from Equation 42.37, its energy is  
+ 
+ 
+ 
+EK ≈−Z2 13.6 eV
+(
+) 
+ 
+When the electron was in the L shell (n = 2), the nuclear charge is 
+shielded by one electron in the K shell, so (from page 1324)  
+ 
+ 
+ 
+EL ≈−Z −1
+(
+)
+2 13.6 eV
+22
+ 
+ 
+When the electron drops from the L to the K shell of the atom, it emits 
+a photon of energy (for Z = 42)  
+ 
+ 
+ 
+Ephoton = EL −EK ≈13.6 eV
+(
+) −41
+(
+)
+2
+4
++ 42
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 1.83 × 104 eV 
+ANS. FIG. P42.54
+
+--- PAGE 34 ---
+Chapter 42     1029 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+with wavelength  
+ 
+ 
+ 
+λ =
+hc
+Ephoton
+= 1 240 eV ⋅nm
+1.83 × 104 eV = 6.79 × 10−2 nm = 0.068 nm
+ 
+P42.56 
+(a) 
+All of the kinetic energy of an electron after its acceleration 
+through a potential difference ΔV goes into producing a single 
+photon:  
+ 
+ 
+ 
+E = hc
+λ = eΔV
+→
+ΔV = hc
+eλ = 1240 eV⋅nm
+eλ 
+= 1240 V⋅nm
+λ
+ 
+ 
+(b) 
+The potential difference is inversely proportional to the 
+wavelength. 
+ 
+(c) 
+Yes. It predicts a minimum wavelength of 33.5 pm when the
+accelerating voltage is 37 keV, in agreement with the minimum
+wavelength in the figure.
+ 
+ 
+(d) 
+Yes, but it might be unlikely for a very high energy electron to
+stop in a single interaction to produce a high-energy gamma ray,
+and it might be difficult to observe the very low intensity radio
+waves produced as bremsstrahlung by low-energy electrons.
+ 
+ 
+(e) 
+The potential difference goes to infinity as the wavelength goes
+to zero.
+ 
+ 
+(f) 
+The potential difference goes to zero as the wavelength goes to
+infinity.
+ 
+P42.57 
+The concepts for this problem are discussed in Example 42.5. An 
+electron makes a transition from the M to the K shell. From Equation 
+42.37, when the electron is in the K shell, its energy is  
+ 
+ 
+EK ≈−Z2 13.6 eV
+(
+) 
+ 
+When the electron was in the M shell, because nine electrons shield the 
+nuclear charge—one in the L shell (n = 1) and eight in the K shell  
+(n = 2)—its energy is  
+ 
+ 
+EM ≈−Z −9
+(
+)
+2 13.6 eV
+3( )
+2
+
+--- PAGE 35 ---
+1030     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, as the electron drops from the M to the K shell, it emits a photon 
+of energy  
+ 
+ 
+Ephoton = EM −EK ≈13.6 eV
+(
+) −Z −9
+(
+)
+2
+9
++ Z2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 13.6 eV
+(
+) −Z2 −18Z + 81
+9
+⎛
+⎝⎜
+⎞
+⎠⎟+ Z2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 13.6 eV
+(
+) 8
+9 Z2 + 2Z −9
+⎛
+⎝⎜
+⎞
+⎠⎟= hc
+λ
+ 
+ 
+Therefore, we have the relation  
+ 
+ 
+13.6 eV
+(
+) 8
+9 Z2 + 2Z −9
+⎛
+⎝⎜
+⎞
+⎠⎟= hc
+λ
+8
+9 Z2 + 2Z −9 =
+hc
+13.6 eV
+(
+)λ =
+1 240 eV⋅nm
+(
+)
+13.6 eV
+(
+) 0.101 nm
+(
+) = 902.7
+8
+9 Z2 + 2Z −911.7 = 0
+ 
+ 
+Solving for Z gives  
+ 
+ 
+Z = −2
+( )±
+2
+( )
+2 −4 8 9
+(
+) −911.7
+(
+)
+2 8 9
+(
+)
+= −1±
+1+ 8 9
+(
+) 911.7
+(
+)
+8 9
+(
+)
+= −1± 28.5
+8 9
+(
+)
+ 
+ 
+The positive solution is physical:  
+ 
+ 
+Z = −1+ 28.5
+8 9
+(
+)
+= 30.9 
+ 
+The nearest whole number for Z is 31, which corresponds to the 
+element gallium .
+
+--- PAGE 36 ---
+Chapter 42     1031 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 42.9 
+Spontaneous and Stimulated Transitions 
+Section 42.10 
+Lasers 
+P42.58 
+The electron in the E3* state drops to the E2 state, emitting a photon of 
+energy hf. The process conserves energy:  
+ 
+ 
+E3* = E2 + hf
+→
+hf = E3* − E2 
+ 
+The photon’s energy is
+ 
+hf = E3* − E2 = 20.66 −18.70
+(
+) eV = 1.96 eV = hc
+λ
+ 
+ 
+and its wavelength is 
+ 
+ 
+λ = hc
+E = 1 240 eV⋅nm
+1.96 eV
+= 633 nm
+ 
+P42.59 
+(a) 
+We use Equation 42.5, E = hf = 0.117 eV, and solve for f: 
+ 
+ 
+ 
+f = E
+h =
+0.117 eV
+6.626 × 10−34 J ⋅s
+1.60 × 10−19 J
+eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.83 × 1013 s−1 = 28.3 × 1012 s−1 = 28.3 THz
+ 
+ 
+(b) The wavelength of the laser is 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+2.83 × 1013 s−1 = 10.6 µm 
+ 
+(c) 
+This is in the infrared portion of the electromagnetic spectrum. 
+P42.60 
+(a) 
+We find the energy from 
+ 
+ 
+ 
+ΔE = E4* −E2 = hc
+λ
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+E2 = E4* −hc
+λ
+= 20.66 eV
+   −6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+543 × 10−9 m
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 18.37 eV
+ 
+ 
+(b) The light in the cavity is incident perpendicularly on the mirrors. 
+Some of the light reflects off the front surface of the silicon 
+dioxide layer while some enters the layer and then reflects off the 
+titanium oxide layer on its other side. The index of refraction of
+
+--- PAGE 37 ---
+1032     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+titanium oxide (1.9–2.6) is greater the index of refraction of silicon 
+dioxide (1.458), so there is automatically a 180° shift of the ray 
+reflecting off the silicon dioxide. To minimize reflection at a 
+vacuum wavelength of 632.8 nm, the net phase difference 
+between reflected rays should be 180°, so the extra distance 
+traveled by the ray passing into the silicon dioxide should be one 
+whole wavelength: 
+ 
+ 
+ 
+2t = λ
+n
+t = λ
+2n = 632.8 nm
+2 1.458
+(
+)
+= 217 nm
+ 
+ 
+(c) 
+For the green light to experience constructive interference, the net 
+phase difference should be 360°, including contributions of 180° 
+by reflection and 180° by extra distance traveled: 
+ 
+ 
+ 
+2t = λ
+2n
+t = λ
+4n = 543 nm
+4 1.458
+(
+)
+= 93.1 nm
+ 
+P42.61 
+The energy in each pulse is  
+ 
+ 
+E = PΔt = 1.00 × 106 W
+(
+) 1.00 × 10–8 s
+(
+) = 1.00 × 10–2 J 
+ 
+The energy of each photon is  
+ 
+ 
+Eγ = hf = hc
+λ = 6.626 × 10–34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+694.3 × 10–9 m
+= 2.86 × 10–19 J
+ 
+ 
+So the number of photons in the pulse is  
+ 
+ 
+N = E
+Eγ
+=
+1.00 × 10–2 J
+2.86  ×  10–19 J/photon = 3.49 × 1016 photons
+ 
+P42.62 
+(a) 
+The equilibrium ratio is  
+ 
+ 
+ 
+N4*
+N3
+=
+Nge−E3 kBT
+Nge−E2 kBT = e
+−E3 −E2
+(
+) kBT = e−ΔE kBT 
+ 
+ 
+where the temperature T = 27.0 °C + 273.15 = 300.2 K, and the 
+energy difference (from Figure P42.60) is  
+ 
+ 
+ 
+ΔE = E4* −E3 = 20.66 eV −18.70 eV = 1.96 eV
+
+--- PAGE 38 ---
+Chapter 42     1033 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+N4*
+N3
+= e−ΔE kBT = e
+−1.96 eV
+(
+) 1.602×10−19 J/eV
+(
+)
+1.381×10−23 J K
+(
+) 300.2 K
+(
+)
+= 1.26 × 10−33
+ 
+ 
+(b) Now, we require N4*
+N3
+= e−ΔE kBT = 1.02 
+ 
+ 
+where  
+ΔE = E4* −E3 = 1.96 eV 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+ln 1.02
+(
+) = −
+1.96 eV
+(
+) 1.602 × 10−19 J/eV
+(
+)
+1.381× 10−23 J K
+(
+)T
+T = −1.15 × 106 K
+ 
+ 
+(c) 
+The population inversion requires the temperature be negative. 
+Because ΔE = E4* −E3 > 0, and in any real equilibrium state T > 0, 
+the ratio N4 * N3 = e−ΔE kBT < 1. Thus, a population inversion 
+cannot happen in thermal equilibrium. 
+P42.63 
+(a) 
+The energy of the pulse is spread over the area of a circle of 
+radius R = 15.0 µm: 
+ 
+ 
+ 
+I = P
+A = ΔE Δt
+πR2
+= 3.00 × 10−3 J 1.00 × 10−9 s
+π 15.0 × 10−6 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 4.24 × 1015 W m2
+ 
+ 
+(b) The absorbed energy falls within the area of a circle of radius  
+r = 0.300 nm: 
+ 
+ 
+ 
+ΔE = IΔtA =
+ΔE Δt
+πR2
+⎛
+⎝⎜
+⎞
+⎠⎟Δtπr2 = ΔE
+r2
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.00 × 10−3 J
+(
+)
+0.300 × 10−9 m
+(
+)
+2
+15.0 × 10−6 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1.20 × 10−12 J
+
+--- PAGE 39 ---
+1034     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P42.64 
+(a) 
+The distance between nodes is λ
+2 , so we require solutions to 
+35.124 103 cm = N
+2 λ, where N is an integer and λ is in the 
+required range. The midpoint of the range is 632.809 10 nm, 
+giving  
+ 
+ 
+ 
+Ntrial = 2 35.124 103 × 10−2 m
+(
+)
+632.809 1× 109 m
+= 1 110 101.07 
+ 
+ 
+So we try N = 1 110 101, 1 110 102, 1 110 100, 1 110 103, and so on: 
+ 
+ 
+ 
+λ1 = 2 35.124 103 × 10−2 m
+(
+)
+1 110 101
+= 632.809 14 nm
+λ2 = 2 35.124 103 × 10−2 m
+(
+)
+1 110 102
+= 632.808 57 nm
+λ3 = 2 35.124 103 × 10−2 m
+(
+)
+1 110 100
+= 632.809 71 nm
+ 
+ 
+ 
+ 
+λtrial = 2 35.124 103 × 10−2 m
+(
+)
+1 110 103
+= 632.808 00 nm  
+ 
+ 
+outside the range. Thus the laser light has just three 
+wavelength components. 
+ 
+(b) The rms speed is obtained from 1
+2 m0v2 = 3
+2 kT. We use the 
+periodic table for the mass of a neon atom. Then, 
+ 
+ 
+ 
+v =
+3kT
+m0
+=
+3 1.38 × 10−23 J K
+(
+) 393 K
+(
+)
+20.18 u
+1 u
+1.66 × 10−27 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 697 m s
+ 
+ 
+(c) 
+For a neon atom moving toward one mirror at the rms speed as it 
+emits, the Doppler shift is described by 
+ 
+ 
+ 
+′f = f
+c + v
+c −v = c
+′
+λ = c
+λ
+c + v
+c −v
+′
+λ = λ
+c −v
+c + v = 632.809 1 nm
+(
+)
+3 × 108 −697
+3 × 108 + 697 = 632.807 63 nm
+ 
+ 
+ 
+This is outside the given range. Many atoms are moving faster 
+than the rms speed, so we should expect still more Doppler 
+broadening of the resonance amplification peak.
+
+--- PAGE 40 ---
+Chapter 42     1035 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P42.65 
+To ionize the atom, it is necessary that nf →∞. The required energy is 
+then 
+ 
+ 
+ 
+ΔE = E f −Ei = −13.6 eV
+1
+nf
+2 −1
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −13.6 eV
+1
+∞−1
+ni
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 13.6 eV
+ni
+2
+ 
+ 
+(a) 
+If ni = 1, the required energy is  
+ 
+ 
+ 
+ΔE = 13.6 eV
+12
+= 13.6 eV 
+ 
+(b) If ni = 3,    
+ 
+ 
+ 
+ΔE = 13.6 eV
+32
+= 1.51 eV 
+P42.66 
+The sliver atoms (Z = 108) move as particles initially traveling in the x 
+direction at speed u with constant acceleration in the z direction:  
+ 
+ 
+ 
+Δz = 1
+2 a Δt
+(
+)
+2 = 1
+2
+Fz
+m0
+⎛
+⎝⎜
+⎞
+⎠⎟Δt
+(
+)
+2 = µz dBz dz
+(
+)
+2m0
+Δx
+u
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+    
+ 
+where   µz = e
+2me
+, so 
+ 
+ 
+ 
+Δz =
+e
+4mem0
+Δx
+u
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 dBz
+dz
+ 
+ 
+Therefore,  
+ 
+ 
+dBz
+dz = 4m0meΔzv2
+eΔx2
+=
+4
+108
+(
+) 1.66 × 10−27 kg
+(
+)
+⎡⎣
+⎤⎦9.11× 10−31 kg
+(
+) 10−3 m
+(
+) 100 m/s
+(
+)
+2
+1.60 × 10−19 C
+(
+) 1.05 × 10−34 J ⋅s
+(
+) 1.00 m
+(
+)
+2
+dBz
+dz = 0.389 T/m
+ 
+P42.67 
+The wave function for the 2s state is given by Equation 42.26: 
+ 
+ 
+ 
+ψ 2s r( ) =
+1
+4 2π
+1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+2 −r
+a0
+⎡
+⎣⎢
+⎤
+⎦⎥e−r 2a0
+
+--- PAGE 41 ---
+1036     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Taking r = a0 = 0.529 × 10−10 m, we find 
+ 
+ 
+ 
+ψ 2s a0
+(
+) =
+1
+4 2π
+1
+0.529 × 10−10 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+2 −1
+[
+]e−1 2
+= 1.57 × 1014 m−3 2
+ 
+ 
+(b) 
+ψ 2s a0
+(
+)
+2 = 1.57 × 1014 m−3 2
+(
+)
+2 = 2.47 × 1028 m−3 
+ 
+(c) 
+Using Equation 42.24 and the result of part (b) gives 
+ 
+ 
+ 
+P2s a0
+(
+) = 4π a0
+2 ψ 2s a0
+(
+)
+2 = 8.69 × 108 m−1 
+P42.68 
+(a) 
+The energy difference between these two states is equal to the 
+energy that is absorbed. Thus, 
+ 
+ 
+ 
+ΔE = E2 −E1 = −13.6 eV
+(
+)
+4
+−−13.6 eV
+(
+)
+1
+= 10.2 eV
+= 1.63 × 10−18 J
+ 
+ 
+(b) 
+E = 3
+2 kBT    or    T = 2E
+3kB
+=
+2 1.63 × 10−18 J
+(
+)
+3 1.38 × 10−23 J K
+(
+)
+= 7.88 × 104 K 
+P42.69 
+To evaluate the energy difference, we imagine the z component of the 
+electron’s magnetic moment as continuously variable. In turning it 
+from alignment with the field to the opposite direction, the field does 
+work according to Equation 10.22, 
+ 
+ 
+W =  dW
+∫
+ = 
+τ  dθ
+0
+180°
+∫
+ = 
+µBsinθ dθ
+0
+π∫
+ = −µBcosθ
+0
+π  = 2µB 
+ 
+To make the electron flip, the photon must carry energy 
+ΔE = 2µBB = hf . Therefore, 
+ 
+ 
+f =  2µBB
+h
+= 2 9.27 × 10–24 J/T
+(
+)(0.350 T)
+6.626 × 10–34 J⋅s
+= 9.79 × 109 Hz = 9.79 GHz
+ 
+P42.70 
+We suppose that the electron that makes the transition is shielded from 
+the electric field of the full nuclear charge by the one K-shell electron 
+originally below it. With Z = 24, its original energy is  
+ 
+ 
+ 
+E = −(Z − 1)2(13.6 eV)
+1
+22
+⎛
+⎝⎜
+⎞
+⎠⎟ = −1.80 keV 
+ 
+Its final energy is   E = −Z2(13.6 eV)
+1
+12
+⎛
+⎝⎜
+⎞
+⎠⎟= −7.83 keV.
+
+--- PAGE 42 ---
+Chapter 42     1037 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The magnitude of the electron’s energy loss is  
+ 
+ 
+ 
+7.83 keV – 1.80 keV = 6.04 keV 
+ 
+Then, instead of coming out as an x-ray photon, this +6.04 keV can be 
+transferred to the single 4s electron. Suppose that it is shielded by the 
+22 electrons in the K, L, and M shells. To break the outermost electron 
+out of the atom, producing a Cr
+2+ ion, requires an energy investment of  
+ 
+ 
+ 
+Eionize = (Z − 22)2(13.6 eV)
+42
+ = 22(13.6 eV)
+16
+ = 3.40 eV 
+ 
+Then the remaining energy that can appear as kinetic energy is  
+ 
+ 
+ 
+K = ΔE −Eionize = 6 035 eV −3.4 eV = 6.03 keV 
+ 
+Because of conservation of momentum for the ion-electron system and 
+the tiny mass of the electron compared to that of the Cr
+2+ ion, almost 
+all of this kinetic energy will belong to the electron. 
+*P42.71 
+From Figure 42.20, a typical ionization energy is 8 eV. For internal 
+energy to ionize most of the atoms we require 
+ 
+ 
+ 
+3
+2 kBT = 8 eV:    
+          T = 2 × 8 1.60 × 10−19 J
+(
+)
+3 1.38 × 10−23 J K
+(
+) ~ between 104 K and 105 K
+ 
+*P40.72 
+From Equation 42.26,  
+ 
+ 
+ 
+ψ 2s = 1
+4 2π
+(
+)−1 2
+1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r 2a0 = A 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r 2a0 
+ 
+Differentiating gives 
+ 
+ 
+ 
+ 
+dψ
+dr = Ae−r 2a0
+−2
+a0
++
+r
+2a0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Differentiating a second time gives,  
+ 
+ 
+ 
+d2ψ
+dr2 =
+Ae−r 2a0
+a0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+2 −r
+4a0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Substituting into Schrödinger’s equation and dividing by Ae−r 2a0 , we 
+will have a solution if 
+ 
+ 
+ 
+−5
+4
+2
+mea0
+2 + kee2
+a0
++
+2r
+8mea0
+3 + 22
+mea0r −2kee2
+r
+= 2E −Er
+a0
+
+--- PAGE 43 ---
+1038     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now with a0 =
+2
+mee2ke
+, this reduces to 
+ 
+ 
+ 
+−mee4ke
+2
+82
+2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟= E 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+This is true, so ψ 2s is a solution to the Schrödinger equation, provided 
+E = 1
+4 E1 = −3.40 eV. 
+*P42.73 
+The expectation value of 1/r is found from 
+ 
+ 
+1
+r
+=
+4r2
+a0
+3 e−2r a0 1
+r dr
+0
+∞
+∫
+= 4
+a0
+3
+re−2 a0
+(
+)r dr
+0
+∞
+∫
+= 4
+a0
+3
+1
+2
+a0( )
+2 =
+1
+a0
+ 
+ 
+We compare this to 1
+r =
+1
+3a0
+2
+= 2
+3a0
+, and find that the average 
+reciprocal value is NOT the reciprocal of the average value. 
+P42.74 
+The fact that there are five values of the z component of orbital angular 
+momentum tells us that there are five values of m, which, in turn, 
+tells us that = 2. From Equation 42.28, we can find the maximum 
+value of m: 
+ 
+ 
+ 
+Lz = m
+→
+m = Lz
+ =  3.16 × 10−34
+1.055 × 10−34  = 3 
+ 
+In order to have a maximum value of m equal to 3, we need to have 
+= 3, which is inconsistent with the first result. 
+P42.75 
+(a) 
+The size of the quantum jump in the electron’s energy is 
+ 
+ 
+ 
+ΔE = eB
+me
+=
+1.60 × 10−19 C
+(
+) 6.626 × 10−34 J ⋅s
+(
+) 5.26 T
+(
+)
+2π 9.11× 10−31 kg
+(
+)
+= 9.75 × 10−23 J
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.09 × 10−4 eV = 609 µeV
+ 
+ 
+(b) The energy available from the walls of the container is 
+ 
+ 
+ 
+kBT = 1.38 × 10−23 J K
+(
+) 80 × 10−3 K
+(
+) = 1.10 × 10−24 J = 6.9 µeV 
+ 
+(c) 
+The photon’s frequency is 
+ 
+ 
+ 
+f = ΔE
+h =
+9.75 × 10−23 J
+6.626 × 10-34 J ⋅s = 1.47 × 1011 Hz = 147 × 109 Hz
+= 147 GHz
+
+--- PAGE 44 ---
+Chapter 42     1039 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The photon’s wavelength is 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+1.47 × 1011 Hz = 2.04 × 10−3 m = 2.04 mm 
+P42.76 
+(a) 
+Using the same procedure that was used in the Bohr model of the 
+hydrogen atom, we apply Newton’s second law to the Earth. We 
+simply replace the Coulomb force by the gravitational force 
+exerted by the Sun on the Earth and find 
+ 
+ 
+ 
+G MSME
+r2
+= ME
+v2
+r
+ 
+[1] 
+ 
+ 
+where v is the orbital speed of the Earth. Next, we apply the 
+postulate that angular momentum of the Earth is quantized in 
+multiples of :: 
+ 
+ 
+ 
+MEvr = n
+n = 1, 2, 3, …
+(
+) 
+ 
+ 
+Solving for v gives 
+ 
+ 
+ 
+v = n
+MEr 
+ 
+[2] 
+ 
+ 
+Substituting [2] into [1], we find 
+ 
+ 
+ 
+r =
+n22
+GMSME
+2  
+[3] 
+ 
+(b) Solving equation [3] for n gives 
+ 
+ 
+ 
+n =
+GMSr ME
+
+ 
+[4] 
+ 
+ 
+Taking MS = 1.99 × 10
+30 kg, ME = 5.98 × 10
+24 kg, r = 1.496 × 10
+11 m, 
+ 
+ 
+G = 6.67 × 10−11 N ⋅m2 kg2 , and = 1.055 × 10−34 J ⋅s , we find 
+ 
+ 
+ 
+n = 2.53 × 1074 
+ 
+(c) 
+We can use equation [3] to determine the radii for the orbits 
+corresponding to the quantum numbers n and n + 1: 
+ 
+ 
+ 
+rn =
+n22
+GMSME
+2    and    rn+1 = n + 1
+(
+)
+2 2
+GMSME
+2 
+ 
+ 
+Hence, the separation between these two orbits is 
+ 
+ 
+ 
+Δr =
+2
+GMSME
+2
+n + 1
+(
+)
+2 −n2
+⎡⎣
+⎤⎦=
+2
+GMSME
+2 2n + 1
+(
+)
+
+--- PAGE 45 ---
+1040     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Since n is very large, we can neglect the number 1 in the 
+parentheses and express the separation as 
+ 
+ 
+ 
+Δr ≈
+2
+GMSME
+2 2n
+(
+)
+=
+1.054 6 × 10−34 J⋅s
+(
+)
+2
+6.67 × 10−11 N⋅m2 kg2
+(
+) 1.99 × 1030 kg
+(
+) 5.98 × 1024 kg
+(
+)
+2
+                                                                     × 2 2.53 × 1074
+(
+)
+⎡⎣
+⎤⎦
+= 1.18 × 10−63 m
+ 
+ 
+(d) This number is much smaller than the radius of an atomic nucleus 
+(~ 10
+–15 m), so the distance between quantized orbits of the Earth 
+is too small to observe. 
+P42.77 
+The average squared separation distance is 
+ 
+ 
+ 
+r2 =
+ψ 1s
+∗
+all space
+∫
+r2ψ 1sdV
+=
+1
+π a0
+3 e−r a0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟r2
+1
+π a0
+3 e−r a0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟4π r2 dr
+r=0
+∞∫
+= 4
+a0
+3
+r4e−2r a0 dr
+0
+∞∫
+ 
+ 
+We use 
+xn
+0
+∞∫
+e−axdx = n!
+an+1 from Table B.6:   
+ 
+ 
+ 
+r2 = 4
+a0
+3
+4!
+2/ a0
+(
+)
+5 = 96a0
+2
+32 = 3a0
+2 
+ 
+The root-mean-square uncertainty in r is 
+ 
+ 
+ 
+Δr =
+r2 −r
+2 = 3a0
+2 −
+3a0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+= 3a0
+2 −9a0
+2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+3
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+a0 = 0.866a0
+ 
+P42.78 
+(a) 
+From Equations 42.22 – 42.25,  
+ 
+ 
+ 
+P =
+P1s
+′r( )d ′r
+r
+∞
+∫
+= 4
+a0
+3
+′r 2e−2 ′r a0d ′r
+r
+∞
+∫
+= −2 ′r 2
+a0
+2 + 2 ′r
+a0
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟e−2 ′r a0
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+r
+∞
+=
+2r2
+a0
+2 + 2r
+a0
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟e−2r a0
+
+--- PAGE 46 ---
+Chapter 42     1041 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The graph is shown in ANS. FIG. P42.78. 
+ 
+ANS. FIG. P42.78 
+ 
+(c) 
+The probability of finding the electron inside or outside the 
+sphere of radius r is 1
+2 : 
+ 
+ 
+ 
+2r2
+a0
+2 + 2r
+a0
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟e−2r a0 = 1
+2   or    z2 + 2z + 2 = ez   
+ 
+ 
+where   z = 2r
+a0
+. 
+ 
+ 
+One can home in on a solution to this transcendental equation for 
+r on a calculator, the result being r = 1.34a0 to three digits. 
+P42.79 
+(a) 
+The energy emitted by the atom is  
+ 
+ 
+ 
+ΔE = E4 −E2 = −13.6 eV
+1
+42 −1
+22
+⎛
+⎝⎜
+⎞
+⎠⎟ = 2.55 eV 
+ 
+ 
+The wavelength of the photon produced is then 
+ 
+ 
+ 
+λ = hc
+Eγ
+= hc
+ΔE = 1 240 eV ⋅nm
+2.55 nm
+= 486 nm
+ 
+ 
+(b) Since momentum must be conserved, the photon and the atom go 
+in opposite directions with equal magnitude momenta. Thus, 
+p = matomv = h
+λ , or  
+ 
+ 
+ 
+v =
+h
+matomλ =
+6.626 × 10−34 J ⋅s
+1.67 × 10−27 kg
+(
+) 4.86 × 10−7 m
+(
+)
+= 0.816 m/s
+
+--- PAGE 47 ---
+1042     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.80 
+(a) 
+The energy of the ground state is  
+ 
+ 
+ 
+E1 = −
+hc
+λseries limit
+= −1 240 eV ⋅nm
+152.0 nm
+= −8.16 eV
+  
+ 
+ 
+From the wavelength of the Lyman α line:  
+ 
+ 
+ 
+E2 −E1 = hc
+λ = 1 240 nm ⋅eV
+202.6 nm
+= 6.12 eV
+ 
+ 
+ 
+ 
+E2 = E1 + 6.12 eV = −2.04 eV 
+ 
+ 
+The wavelength of the Lyman β line gives  
+ 
+ 
+ 
+E3 −E1 = 1 240 nm ⋅eV
+170.9 nm
+= 7.26 eV
+ 
+ 
+ 
+so 
+E3 = −0.902 eV . 
+ 
+ 
+Next, using the Lyman γ line gives  
+ 
+ 
+ 
+E4 −E1 = 1 240 nm ⋅eV
+162.1 nm
+= 7.65 eV
+ 
+ 
+ 
+and E4 = −0.508 eV . 
+ 
+ 
+From the Lyman δ line,  
+ 
+ 
+ 
+E5 −E1 = 1 240 nm ⋅eV
+158.3 nm
+= 7.83 eV
+ 
+ 
+ 
+so 
+E5 = −0.325 eV . 
+ 
+(b) For the Balmer series, 
+ 
+ 
+ 
+ 
+hc
+λ = Ei −E2, or λ = 1 240 nm ⋅eV
+Ei −E2
+ 
+ 
+ 
+For the α line, Ei = E3 and so  
+ 
+ 
+ 
+λa =
+1 240 nm ⋅eV
+−0.902 eV
+(
+) −−2.04 eV
+(
+)
+= 1 090 nm 
+ 
+ 
+Similarly, the wavelengths of the β line, γ line, and the short 
+wavelength limit are found to be: 811 nm, 724 nm, and 609 nm . 
+ 
+(c) 
+Using Equation 42.2, 1
+λ = RH 1−1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟, the Lyman series for 
+hydrogen contains the lines: α (n = 2) = 122 nm, β (n = 3) = 103 
+nm, γ (n = 4) = 97.2 nm, δ (n = 5) = 94.9 nm, the short wavelength 
+limit (n →∞) = 91.1 nm.
+
+--- PAGE 48 ---
+Chapter 42     1043 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Computing 60.0% of the wavelengths of the spectral lines shown 
+on the energy-level diagram gives: 
+ 
+ 
+ 
+0.600 202.6 nm
+(
+) = 122 nm    
+ 
+ 
+ 
+0.600 170.9 nm
+(
+) = 103 nm 
+ 
+ 
+ 
+0.600 162.1 nm
+(
+) = 97.3 nm 
+ 
+ 
+ 
+0.600 158.3 nm
+(
+) = 95.0 nm 
+ 
+ 
+ 
+0.600 152.0 nm
+(
+) = 91.2 nm 
+ 
+ 
+These are seen to be the wavelengths of the α, β, γ, and δ lines as 
+well as the short wavelength limit for the Lyman series in 
+Hydrogen. 
+ 
+(d) The observed wavelengths could be the result of Doppler shift 
+when the source moves away from the Earth. The required speed 
+of the source is found from 
+ 
+ 
+ 
+ 
+′f
+f = λ
+′
+λ =
+c −v
+c + v = 0.600     yielding   v = 0.471c. 
+ 
+ 
+The spectrum could be that of hydrogen, Doppler-shifted 
+by motion away from us at speed 0.471c.
+ 
+P42.81 
+We use Equation 42.26: 
+ 
+ 
+ψ 2s(r) = 
+1
+4 2π
+1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2
+2 −  r
+a0
+⎡
+⎣⎢
+⎤
+⎦⎥e−r/2a0 
+ 
+ 
+(a)  By Equation 42.24, 
+ 
+P r( ) = 4π r2 ψ
+2 =
+r2
+8a0
+3 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+e−r a0
+ 
+ 
+(b) The derivative of the radial probability is  
+ 
+ 
+ 
+dP r( )
+dr
+= 1
+8a0
+3 2r 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−2r2
+1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+                                                      −r2 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎤
+⎦
+⎥
+⎥
+e−r a0
+
+--- PAGE 49 ---
+1044     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Simplifying the expression, 
+ 
+ 
+ 
+dP r( )
+dr
+= 1
+8a0
+3 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r a0 4r −2r2
+a0
+−2r2
+a0
+−2r2
+a0
+−r3
+a0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+=
+r
+8a0
+5 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r a0 4a0
+2 −6ra0 + r2
+⎡⎣
+⎤⎦
+=
+r
+8a0
+5 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r a0 r2 −6ra0 + 4a0
+2
+⎡⎣
+⎤⎦
+ 
+ 
+(c) 
+Its extremes are given by 
+ 
+ 
+ 
+dP
+dr =
+r
+8a0
+5 2 −r
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟e−r a0 r2 −6ra0 + 4a0
+2
+⎡⎣
+⎤⎦= 0 
+ 
+ 
+The roots of dP
+dr = 0 at r = 0, r = 2a0, and r = ∞ are minima with 
+P(r) = 0 (as shown in Figure 42.12). 
+ 
+(d) We require r2 −6ra0 + 4a0
+2 = 0. The solutions are  
+ 
+ 
+ 
+r =
+−−6a0
+(
+) ±
+−6a0
+(
+)
+2 −4 1( ) 4a0
+2
+(
+)
+2
+= 6a0 ±
+20a0
+2
+2
+=
+3 ±
+5
+(
+)a0
+ 
+ 
+(e) 
+We substitute the last two roots into P(r) to determine the most 
+probable value: 
+ 
+ 
+When r = 3 −
+5
+(
+)a0 = 0.764a0, 
+ 
+ 
+ 
+P r( ) = 0.764a0
+(
+)
+2
+8a0
+3
+2 −0.764a0
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+e−0.764
+= 0.764
+(
+)
+2
+8a0
+2 −0.764
+(
+)
+2 e−0.764 = 0.051 9
+a0
+ 
+ 
+ 
+When r = 3 +
+5
+(
+)a0 = 5.236a0, 
+ 
+ 
+ 
+P r( ) = 5.236a0
+(
+)
+2
+8a0
+3
+2 −5.236a0
+a0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+e−5.236
+= 5.236
+(
+)
+2
+8a0
+2 −5.236
+(
+)
+2 e−5.236 = 0.191
+a0
+ 
+ 
+ 
+Therefore, the most probable value of r is 
+r = 3 +
+5
+(
+)a0 →P = 0.191 a0 .
+
+--- PAGE 50 ---
+Chapter 42     1045 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.82 
+(a) 
+One molecule’s share of volume is,  
+ 
+ 
+ 
+Al: V =
+27.0 g
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+6.02 × 1023 molecules
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.00 × 10−6 m3
+2.70 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.66 × 10−29 m3
+ 
+ 
+ 
+ 
+D ≈
+V
+3
+= 2.55 × 10−10 m~10−1 nm 
+ 
+ 
+ 
+U:  V =
+238 g
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+6.02 × 1023 molecules
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.00 × 10−6 m3
+18.9 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.09 × 10−29 m3
+ 
+ 
+ 
+ 
+D ≈
+V
+3
+= 2.76 × 10−10 m ~ 10−1 nm 
+ 
+(b) 
+The outermost electron in any atom sees the nuclear charge
+screened by all the electrons below it. If we can visualize a single
+outermost electron, it moves in the electric field of net charge 
++Ze −Z −1
+(
+)e = +e, the charge of a single proton, as felt by the
+electron in hydrogen. So the Bohr radius sets the scale for the
+outside diameter of every atom. An innermost electron, on the
+other hand, sees the nuclear charge unscreened, and the scale size
+of its (K-shell) orbit is a0 Z .
+ 
+P42.83 
+(a) 
+The length of the pulse is      
+ 
+ 
+ 
+ΔL = cΔt = 3.00 × 108 m/s
+(
+) 14.0 × 10−12 s
+(
+) = 4.20 mm 
+ 
+(b) The energy of each photon is  
+ 
+ 
+ 
+E = hc
+λ = 2.86 × 10−19 J  
+ 
+ 
+so the number of photons in the pulse is 
+ 
+ 
+ 
+N =
+3.00 J
+2.86 × 10−19 J/photon = 1.05 × 1019 photons 
+ 
+(c) 
+The volume of the pulse is  
+ 
+ 
+ 
+V = ΔLπr2 = 4.20 mm
+(
+) π 3.00 mm
+(
+)
+2
+⎡⎣
+⎤⎦= 119 mm3 
+ 
+ 
+resulting in a photon density of  
+ 
+ 
+ 
+n = 1.05 × 1019 photons
+119 mm3
+= 8.82 × 1016 mm−3
+
+--- PAGE 51 ---
+1046     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.84 
+(a) 
+The length of the pulse is ΔL = cΔt . 
+ 
+(b) The energy of each photon is E = hc
+λ , so 
+ 
+ 
+ 
+ 
+N = TER
+E =
+λTER
+hc
+ 
+ 
+(c) 
+The volume of the pulse is  
+ 
+ 
+ 
+V = ΔLπ d2
+4 = cΔtπ d2
+4
+  
+ 
+ 
+ resulting in a photon density of 
+ 
+ 
+ 
+ n = N
+V =
+λTER
+hc cΔtπ d2 4
+(
+)
+=
+4λTER
+πhc2d2Δt 
+P42.85 
+The fermions are described by the exclusion principle. Two of them, 
+one spin-up and one spin-down, will be in the ground energy level, in 
+a standing wave pattern with one antinode: 
+ 
+ 
+ 
+dNN = 1
+2 λ = L →λ = 2L = h
+p ,  
+ 
+and  
+p = h
+2L →K = 1
+2 mv2 = p2
+2m =
+h2
+8mL2 . 
+ 
+The third must be in the next higher level, in a standing wave pattern 
+with two antinodes: 
+ 
+ 
+ 
+2dNN = 2 λ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= L →λ = L ,      
+ 
+and  
+p = h
+L →K = p2
+2m =
+h2
+2mL2 . 
+ 
+The total energy is then  
+ 
+ 
+ 
+ 
+h2
+8mL2 +
+h2
+8mL2 +
+h2
+2mL2 =
+3h2
+4mL2
+ 
+P42.86 
+An ionization energy of 4.10 eV means the ground state energy is  
+–4.10 eV. The photon energies tell us the separation of the energy 
+levels:  
+ 
+ 
+E = hc
+λ = 1 240 eV ⋅nm
+λ
+= ΔE 
+ 
+Then, 
+λ1 = 310 nm ,    so 
+ΔE1 = 4.00 eV
+
+--- PAGE 52 ---
+Chapter 42     1047 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+λ2 = 400 nm ,     
+ΔE2 = 3.10 eV 
+ 
+ 
+λ3 = 1 378 nm ,     
+ΔE3 = 0.900 eV 
+ 
+The energy level diagram having the fewest levels and consistent with 
+these energies is shown in ANS. FIG. P42.86. 
+ 
+ 
+ 
+ANS. FIG. 42.86 
+P42.87 
+The general radial probability distribution function is  
+ 
+ 
+P(r) = 4πr2 ψ
+2 
+ 
+With ψ 1s =  πa0
+3
+(
+)
+−1/2 e−r/a0 , it is P(r) = 4r2a0
+−3e−2r/a0 . 
+ 
+The required probability is then  
+ 
+ 
+P = 
+P(r)dr
+2.50a0
+∞∫
+ = ∫2.50a0
+∞
+4r2
+a0
+3 e−2r/a0 dr
+ 
+ 
+Let z = 2r/a0 and dz = 2dr/a0. Then we want P = 1
+2
+z2e−z dz
+5.00
+∞∫
+. 
+ 
+Performing this integration by parts,  
+ 
+ 
+P = −1
+2 z2 + 2z + 2
+(
+)e−z
+5.00
+∞
+ 
+ 
+ 
+P = −1
+2 (0)+ 1
+2 (25.0 + 10.0 + 2.00)e−5.00 =
+37
+2
+⎛
+⎝⎜
+⎞
+⎠⎟(0.006 74) = 0.125
+ 
+P42.88 
+From Equations 42.22 – 42.25, 
+ 
+ 
+P =
+P1s(r)dr
+βa0
+∞
+∫
+=
+4r2
+a0
+3 e−2r a0 dr
+βa0
+∞
+∫
+= 1
+2
+z2e−z dz
+2β
+∞
+∫
+,    where    z ≡2r
+a0
+ 
+ 
+ 
+P = −1
+2 z2 + 2z + 2
+(
+)e−z
+2β
+∞
+= −1
+2 0[ ]+ 1
+2
+2β
+(
+)
+2 + 4β + 2
+⎡⎣
+⎤⎦e−2β
+= e−2β 2β 2 + 2β + 1
+(
+)
+
+--- PAGE 53 ---
+1048     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P42.89 
+(a) 
+Let r represent the distance between the electron and the positron. 
+The two move in a circle of radius r/2 around their center of mass 
+with opposite velocities. The total angular momentum of the 
+electron-positron system is quantized according to 
+ 
+ 
+ 
+Ln = mvr
+2
++ mvr
+2
+= n  
+where    n = 1, 2, 3, … 
+ 
+ 
+For each particle, 
+F
+∑
+= ma expands to     
+ 
+ 
+ 
+kee2
+r2 = mv2
+r 2
+ 
+ 
+ 
+We can eliminate v = n
+mr to find     
+ 
+ 
+ 
+kee2
+r
+= 2mn22
+m2r2
+ 
+ 
+ 
+So the separation distances are     
+ 
+ 
+ 
+r = 2n22
+mkee2 = 2a0n2
+ 
+ 
+ 
+Comparing this result to Equations 42.10 and 42.11, we see the 
+allowed separation distances are two times the allowed radii of 
+the Bohr hydrogen atom. Therefore, 
+ 
+ 
+rn = 0.106n
+2, where rn is in nanometers and n = 1, 2, 3,… 
+ 
+(b) The orbital radii are r
+2 = a0n2, the same as for the electron in 
+hydrogen. The energy can be calculated from    
+ 
+ 
+ 
+E = K +U = 1
+2 mv2 + 1
+2 mv2 −kee2
+r
+ 
+ 
+ 
+Since mv2 = kee2
+2r
+,
+ 
+E = kee2
+2r −kee2
+r
+= −kee2
+2r = −kee2
+4a0n2 
+ 
+ 
+Comparing this result to Equations 42.13 and 42.14, we see the 
+allowed energies are half those of the Bohr hydrogen atom. 
+Therefore,  
+ 
+ 
+En = −6.80
+n2 , where En is in electron volts and n = 1, 2, 3,…
+
+--- PAGE 54 ---
+Chapter 42     1049 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.90 
+(a) 
+Suppose the atoms move in the +x direction. The absorption of a 
+photon by an atom is a completely inelastic collision, described by 
+ 
+ 
+ 
+mviˆi + h
+λ −ˆi
+( ) = mv fˆi    so    v f −vi = −h
+mλ 
+ 
+ 
+This happens promptly every time an atom has fallen back into 
+the ground state, so it happens every 10−8 s = Δt. Then, 
+ 
+ 
+ 
+a =
+v f −vi
+Δt
+= −
+h
+mλΔt ~ −
+6.626 × 10−34 J ⋅s
+10−25 kg
+(
+) 500 × 10−9 m
+(
+) 10−8 s
+(
+)
+~ −106 m s2
+ 
+ 
+(b) With constant average acceleration, 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2aΔx    0 ~ 103 m/s
+(
+)
+2 + 2 −106 m/s2
+(
+)Δx 
+ 
+ 
+so  
+Δx ~
+103 m/s
+(
+)
+2
+106 m/s2
+~ 1 m . 
+P42.91 
+(a) 
+From Equation 42.13, the allowed energies are En = kee2
+2a0
+1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+where, from Equation 42.11, the Bohr radius is  
+ 
+ 
+ 
+a0 =
+2
+mekee2 = h 2π
+(
+)
+2
+mekee2 = 
+h2
+4π 2mekee2 
+ 
+ 
+Combining these gives 
+ 
+ 
+ 
+En = kee2
+2
+4π 2mekee2
+h2
+1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2π 2meke
+2e4
+h2
+1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+For a transition from state n to state n – 1, 
+ 
+ 
+ 
+hf = ΔE =
+2π 2meke
+2e4
+h2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+n −1
+(
+)
+2 −1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+hf = ΔE =
+2π 2meke
+2e4
+h2
+⎛
+⎝⎜
+⎞
+⎠⎟
+n2 −n2 −2n + 1
+(
+)
+n2 n −1
+(
+)
+2
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+ 
+f =
+2π 2meke
+2e4
+h3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2n−1
+n2 n−1
+(
+)
+2
+
+--- PAGE 55 ---
+1050     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As n →∞, we find the quantum result:  
+ 
+ 
+ 
+f →2π 2meke
+2e4
+h3
+2
+n3 = 4π 2meke
+2e4
+h3n3
+ 
+ 
+ 
+The classical frequency is f =
+v
+2π r , where classically, from 
+Equation 42.8, v2 = kee2
+me r . By substituting, the relation for the 
+classical frequency becomes  
+ 
+ 
+ 
+f =
+v
+2π r =
+1
+2π r
+kee2
+me r =
+kee2
+4π 2mer3 
+ 
+ 
+From Equation 42.10, the radius r = rn = n22
+mekee2 =
+n2h2
+4π 2 mekee2 ; 
+substituting this yields 
+ 
+ 
+ 
+f =
+kee2
+4π 2mer3 =
+kee2
+4π 2me
+4π 2 mekee2
+n2h2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+=
+4π 2
+(
+)
+2 me
+2ke
+4e8
+n6h6
+= 4π 2meke
+2e4
+h3n3
+ 
+ 
+ 
+The classical frequency is 4π 2meke
+2e4 h3n3 . We see that the Bohr 
+result for large n reduces to the classical result.
+
+--- PAGE 56 ---
+Chapter 42     1051 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P42.2 
+(a) 1 875 nm, 1 282 nm, 1 094 nm; (b) infrared 
+P42.4 
+(a) λmn =
+1
+1/λm1 −1/λn1
+; (b) kmn = km1 −kn1 
+P42.6 
+(a) See P42.6(a) for full explanation; (b) 0.846 ns 
+P42.8 
+See P42.8 for full explanation. 
+P42.10 
+(a) 2.86 eV; (b) 0.472 eV 
+P42.12 
+(a) 1.89 eV; (b) 656 nm; (c) 3.40 eV; (d) 365 nm; (e) 365 nm 
+P42.14 
+4.42 × 104 m/s 
+P42.16 
+(a) 97.3 nm; (b) 1.88 µm; (c) infrared; (d) Paschen; (e) 97.3 nm;  
+(f) ultraviolet; (g) Lyman 
+P42.18 
+(a) 0.212 nm; (b) 9.97 × 10
+–25 kg · m/s; (c) 2.11 × 10
+–34 kg · m
+2/s; 
+(d) 3.40 eV; (e) –6.80 eV; (f) –3.40 eV 
+P42.20 
+(a) 152 as; (b) 8.23 × 10
+9 revolutions; (c) Its lifetime in electron years is 
+comparable to the lifetime of the Sun in Earth years, so we can think of 
+it as a long time. 
+P42.22 
+(a) 1.31 µm; (b) 164 nm 
+P42.24 
+(a) 
+2r
+; (b) 
+2
+2mer2 ; (c) 
+2
+2mer2 −kee2
+r
+; (d) 
+2
+mekee2 = a0; (e) –13.6 eV;  
+(f) We find our results are in agreement with the Bohr theory. 
+P42.26 
+(a) See P42.26(a) for full explanation; (b) E = −kee2
+2a0
+ 
+P42.28 
+(a) 1; (b) 0.497 
+P42.30 
+(a) See P42.30(a) for a list of all sets; (b) See P42.30(b) for a list of all 
+sets. 
+P42.32 
+(a) 
+6; (b) Lz can have the values −2, −, 0,  and 2; (c) 145°, 114°, 
+90.0°, 65.9°, and 35.3° 
+P42.34 
+(a) 2; (b) 8; (c) 18; (d) 32; (e) 50 
+P42.36 
+(a) 3.99 × 10
+17 kg/m
+3; (b) 8.17 am; (c) 1.77 Tm/s; (d) It is 5.91 × 10
+3c, 
+which is huge compared with the speed of light and impossible. 
+P42.38 
+The electron energy is not enough to excite the hydrogen atom from its 
+ground state to even the first excited state.
+
+--- PAGE 57 ---
+1052     Atomic Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.40 
+(a) the 4s subshell; (b) We would expect [Ar]3d
+44s
+2 to have lower 
+energy, but [Ar]3d
+54s
+1 has more unpaired spins and lower energy 
+according to Hund’s rule; (c) chromium 
+P42.42 
+See P42.42 for the complete table. 
+P42.44 
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s 
+P42.46 
+1s22s22p63s23p63d104s24p64d104 f 145s25p65d105 f 146s26p66d87s2 
+P42.48 
+See P42.48 for full explanation. 
+P42.50 
+0.310 nm 
+P42.52 
+(a) For the 3p state, 1.4 and for the 3d state, 1.0; (b) See P42.52(b) for full 
+explanation. 
+P42.54 
+L shell = 11.8 keV, M shell = 10.2 keV, N shell = 2.47 keV 
+P42.56 
+(a) 1240 V ⋅nm
+λ
+; (b) The potential difference is inversely proportional 
+to the wavelength; (c) Yes. It predicts a minimum wavelength of 33.5 
+pm when the accelerating voltage is 37 keV, in agreement with the 
+minimum wavelength in the figure; (d) Yes, but it might be unlikely 
+for a very high energy electron to stop in a single interaction to 
+produce a high-energy gamma ray, and it might be difficult to observe 
+the very low intensity radio waves produced as bremsstrahlung by 
+low-energy electrons; (e) The potential difference goes to infinity as the 
+wavelength goes to zero; (f) The potential difference goes to zero as the 
+wavelength goes to infinity. 
+P42.58 
+633 nm 
+P42.60 
+(a) 18.37 eV; (b) 217 nm; (c) 93.1 nm 
+P42.62 
+(a) 1.26 × 10–33; (b) –1.15 × 106 K; (c) A population inversion cannot 
+happen in thermal equilibrium. 
+P42.64 
+(a) λ1 = 632.809 14 nm, λ2 = 632.808 57 nm, λ3 = 632.809 71 nm, three; 
+(b) 697 m/s (c) See P42.64(c) for full description. 
+P42.66 
+0.389 T/m 
+P42.68 
+(a) 1.63 × 10
+–18 J; (b) 7.88 × 10
+4 K 
+P42.70 
+5.39 keV 
+P42.72 
+See P42.72 for full explanation. 
+P42.74 
+In order to have a maximum value of m equal to 3, we need to have 
+= 3, which is inconsistent with the first result.
+
+--- PAGE 58 ---
+Chapter 42     1053 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P42.76 
+(a) See P42.76(a) for full explanation; (b) 2.53 × 10
+74; (c) 1.18 × 10
+–63 m; 
+(d) This number is much smaller than the radius of an atomic nucleus 
+(~10
+–15 m), so the distance between quantized orbits of the Earth is too 
+small to observe. 
+P42.78 
+(a) 2r2
+a0
+2 + 2r
+a0
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟e−2r a0 ; (b) See ANS. FIG. P42.78; (c) 1.34 a0 
+P42.80 
+(a) –8.16 eV, –2.04 eV, –0.902 eV, –0.508 eV, –0.325 eV; (b) 1 090 nm,  
+811 nm, 724 nm, and 609 nm; (c) 122 nm, 103 nm, 97.3 nm, 95.0 nm, 
+91.2 nm; (d) The spectrum could be that of hydrogen, Doppler-shifted 
+by motion away from us at speed 0.471c. 
+P42.82 
+(a) Al: 2.55 × 10
+–10 m ~ 10
+–1 nm and U: 2.76 × 10
+–10 m ~ 10
+–1 nm; (b) The 
+outermost electron in any atom sees the nuclear charge screened by all 
+the electrons below it. If we can visualize a single outermost electron, it 
+moves in the electric field of net charge +Ze – (Z – 1)e = +e, the charge 
+of a single proton, as felt by the electron in hydrogen. So the Bohr 
+radius sets the scale for the outside diameter of every atom. An 
+innermost electron, on the other hand, sees the nuclear charge 
+unscreened, and the scale size of its (K-shell) orbit is a0/Z. 
+P42.84 
+(a) cΔt; (b) λTER
+hc
+; (c) 
+4λTER
+πhc2d2Δt
+ 
+P42.86 
+See ANS. FIG P42.86 for the energy-level diagram. 
+P42.88 
+e−2β 2β 2 + 2β + 1
+(
+) 
+P42.90 
+(a) −10
+6 m/s
+2; (b) ~1 m

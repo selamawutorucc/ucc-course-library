@@ -1,0 +1,1253 @@
+
+--- PAGE 1 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+1
+Chapter 3: Motion in One Dimension  
+In this lesson we will discuss motion in one dimension. The oldest one of the Physics subjects 
+is the Mechanics that investigates the motion of a body. It deals not only with a football, but 
+also with the path of a spacecraft that goes from the Earth to the Mars! The Mechanics can be 
+divided into two parts: Kinematics and Dynamics. 
+ 
+The kinematics aims the motion. It is important for the kinematics that which the path body 
+follows. It answers the questions such that: Where the motion started? Where the motion 
+stopped? What time has taken for the complete of motion? What the velocity body had?. 
+ 
+The dynamics deals with the effects that create the motion or change the motion or stop the 
+motion. It takes into account the forces and the properties of the body that can affect the 
+motion. 
+ 
+After that point, we will enter into the world of kinematics, first. The One-Dimensional 
+Motion is the starting point for the kinematics. We will introduce some definitions like 
+displacement, velocity and acceleration, and derive equations of motion for bodies moving in 
+one-dimension with constant acceleration. We will also apply these equations to the situation 
+of a body moving under the influence of gravity alone.  
+ 
+As Leonardo Da Vinci said, “To understand motion is to understand nature”, we need to 
+understand the motion by observing and doing practice (experiment) on it, first. The reason is 
+quite simple. Those things that are of interest in science are the things that undergo change. It 
+is basic principle that: to understand how something works, you have to see it in action. The 
+workings of the universe include anything in the universe which experiences change 
+according to some repetitive pattern. It is fact that change could be in the form of a chemical 
+reaction, an increase or decrease in the population of butterflies, etc. In nature, the easiest 
+changes to observe are those of motion: An object is moved from one position in space to 
+another. In fact, the motion generally leaves the object itself unchanged and thus simplifies 
+the observation. 
+ 
+We first need some definitions to identify the motion. It begins by defining the change in 
+position of a particle. We call it “displacement”. 
+ 
+Displacement is defined to be the change in position or distance that an object has moved and 
+is given by the equation;  
+ 
+1
+2
+r
+r
+r
+   
+(3.1)
+where 
+2r is the final position and 
+1r is the initial position. The arrow indicates that 
+displacement is a vector quantity: it has direction and magnitude, as we mentioned before. In 
+fact, r is in 3-dimension and written as 
+k
+z
+jy
+ix
+r
+ˆ
+ˆ
+ˆ
+. In our calculations, we will only 
+take x-component of r into account. In 1-dimension, there are only two possible directions 
+that can be specified with either a plus (+) or a minus (-) sign. As we know, other examples of 
+vectors are velocity, acceleration and force. In contrast, scalar quantities have only 
+magnitude. Some examples of scalars are speed, mass, temperature and energy.
+
+--- PAGE 2 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+2
+It is not enough to define the displacement for a motion. In order to be useful, we also need to 
+specify something about time. After all, a motion that causes a displacement of 1 meter can be 
+large or small depending on whether it took a second or a thousand years to do it. The 
+international standard unit of time is the second. Hence, time and space are inextricably linked 
+in physics since we need both to explain motion and motion is fundamental to all areas of 
+physics. In the language of mathematics, we describe the changes in position, 
+i
+f
+x
+x
+x
+ or 
+time as 
+ 
+i
+f
+t
+t
+t
+ 
+(3.2)
+ 
+where the i and f subscripts depict initial and final, respectively. Generally, ti= t0=0. 
+ 
+There is no doubt that this use of symbols requires some patience if you are not already 
+comfortable with it. The normal tendency of students new to physics is to immediately replace 
+symbols with numbers as soon as possible. Experience will show you that this is generally not 
+a good thing to do. What's most important to you is the very practical problem of mistakes: 
+you tend to make more algebra errors with numbers than with symbols (despite what your 
+instincts may tell you, this is always true!). What's most important to a scientist, however, is 
+that the symbols represent the essence. The numbers are hardly ever the important point in 
+understanding what's going on. Numbers can be changed by situation, choice, or any number 
+of unexplained reasons, but the mathematical description of what happens to the symbols is 
+what represents the underlying truth. In other words, if you derive an equation by 
+mathematical rules that correctly describe the way nature works it is the equation that is 
+always true. The numbers that go into the equation can vary by large amounts, but whatever 
+their values, they must always satisfy the equation! Our hope for the course is to make the 
+language of the equations second nature to you so that the essence of the science represented 
+by them is clear. Not for “now”, but also for “future”. 
+ 
+If we continue our rather legal-sounding definitions, it is noted that there are two other aspects 
+of motion that are important. The first is that we would like to quantify the amount of motion 
+taking place. Therefore, we should define the average velocity or speed of an object. As we 
+said above, the idea of quantifying motion involves both the distance traveled by the body and 
+the time the body took to travel it. For that reason, it makes since to define the average 
+velocity that is the displacement over total time, 
+av
+v
+, as follows:  
+ 
+t
+x
+x
+t
+t
+x
+x
+Time
+Elapsed
+nt
+Displaceme
+Total
+t
+x
+v
+i
+f
+i
+f
+i
+f
+av
+ 
+(3.3)
+ 
+This equation has the right characteristics for what we desire: if the time interval is small or 
+the displacement is large, we have a large value for 
+av
+v
+, i.e. a lot of motion is taking place. 
+ 
+On the other hand, if the time interval is large or the displacement is small, then the average 
+velocity is small, i.e. not much is happening as far as motion is concerned. Notice that on the 
+graphs like the ones we showed above, the average velocity is just the slope of the x vs. t data.  
+Note: 
+t is always > 0 so the sign of depends only on the sign of 
+x.
+
+--- PAGE 3 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+3
+t 
+tf 
+ti 
+xf 
+xi 
+A 
+B 
+slope=v 
+x 
+t 
+Graphical interpretation of velocity: 
+Consider 1-dimensional motion from point A (with coordinates xi , ti ) to point B (at xf , tf ). 
+We can plot the trajectory on a graph (see Figure 3.1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1: Graphical interpretation of velocity 
+ 
+Then 
+av
+v
+ from Eq. (3.3) is just the slope of the line joining A and B. We have to notice that 
+we only deal with the final and initial point. We know “nothing” about the motion of the body 
+that moves between point A and point B. We do not know what path the body followed OR 
+what the shape of the body is OR what kinds of forces are applied on the body OR the body 
+applied on surroundings? It means that you wake up in the dormitory and have gone to class 
+in the morning and returned to the dormitory after 8 hours. Since the total displacement is 
+“ZERO”, your average velocity is “ZERO”.   
+ 
+Let’s assume that the average velocity of the particle be different for different time intervals. 
+In that condition, the particle’s velocity will differ for each time interval and it will be 
+necessary to calculate its velocity for a given certain time, t. This leads us to define 
+instantaneous velocity. Since the particle may not follow a straight line on its path, the 
+displacement vectors of that particle will differ from each one by direction and magnitude. If 
+the displacement occurs in time t after a certain time t, then the displacement will be r. If 
+the displacement is infinitesimal small, then the velocity will take a certain value for that time 
+interval. In Mathematics, 
+ 
+dt
+x
+d
+t
+x
+v
+t
+0
+lim
+ 
+(3.4)
+ 
+This is the instantaneous velocity of the particle and its magnitude is called speed. 
+ 
+Average acceleration is the change in velocity over the change in time:  
+ 
+t
+v
+v
+t
+t
+v
+v
+t
+v
+a
+i
+f
+i
+f
+i
+f
+av
+ 
+(3.5)
+ 
+The direction of the acceleration is in the direction of the vector v, and its magnitude is 
+|v/t |.
+
+--- PAGE 4 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+4
+As we have followed before, we can find the Instantaneous acceleration of the body; 
+Instantaneous acceleration is calculated by taking shorter and shorter time intervals, i.e. 
+taking 
+0
+t
+: 
+ 
+dt
+v
+d
+t
+v
+a
+t
+0
+lim
+ 
+(3.6)
+ 
+It should be noted that:  
+Acceleration is the rate of change of velocity. 
+When velocity and acceleration are in the same direction, speed increases with time. 
+When velocity and acceleration are in opposite directions, speed decreases with time.  
+Graphical interpretation of acceleration: On a graph of v versus t, the average acceleration 
+between A and B is the slope of the line between A and B, and the instantaneous acceleration 
+at A is the tangent to the curve at A.  
+ 
+From now on “velocity” and “acceleration” will refer to the instantaneous quantities.  
+ 
+One Dimensional Motion with Constant Acceleration 
+As it is understood from the subtitle, constant acceleration means velocity increases or 
+decreases at the same rate throughout the motion. Example: an object falling near the earth's 
+surface (neglecting air resistance).  
+ 
+Derivation of Kinematics Equations of Motion 
+We choose 
+x
+i
+i
+i
+v
+v
+x
+x
+t
+0
+0,
+,0
+ and 
+x
+f
+f
+f
+v
+v
+x
+x
+t
+t
+,
+,
+. Since a =constant, then 
+a
+a
+. Then Eq. (3.5) can be written as 
+t
+v
+v
+a
+x
+x
+x
+0 , or 
+ 
+t
+a
+v
+v
+x
+x
+x
+0
+ 
+(3.7)
+ 
+Since “a ” is constant, vx changes uniformly and 
+)
+(
+2
+1
+0
+x
+x
+x
+v
+v
+v
+. From Eq. (3.3), we know 
+that 
+t
+x
+x
+v x
+0 . Now, we can combine 
+t
+v
+v
+t
+v
+x
+x
+x
+x
+x
+)
+(
+2
+1
+0
+0
+ and can use Eq. (3.7) we 
+get:   
+ 
+2
+0
+0
+0
+0
+0
+0
+2
+1
+)
+(
+2
+1
+)
+(
+2
+1
+t
+a
+t
+v
+x
+x
+t
+a
+v
+v
+t
+v
+v
+t
+v
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+ 
+(3.8) 
+This is the equation of motion for a particle in 1-dimension, with a constant acceleration. 
+ 
+If we rewrite Eq. (3.7), we find 
+x
+x
+x
+x
+x
+x
+a
+v
+v
+t
+t
+a
+v
+v
+/)
+(
+0
+0
+. Then substituting this 
+result into the last term of Eq. (3.8) we find
+
+--- PAGE 5 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+5
+)
+(
+2
+0
+2
+0
+2
+x
+x
+a
+v
+v
+x
+x
+x
+(3.9)
+ 
+It should be noted that this equation does not depend on time, t.  
+ 
+Freely Falling Bodies 
+ 
+We call that a freely falling object is an object that moves under the influence of gravity 
+only. By neglecting air resistance, all objects in free fall in the earth's gravitational field have 
+a constant acceleration that is directed towards the earth's center, or perpendicular to the 
+earth's surface, and of magnitude 
+.
+/
+81
+.9
+2s
+m
+g
+a
+ If motion is straight up and down and we 
+can choose a coordinate system with the positive y-axis pointing up and perpendicular to the 
+earth's surface, then we can describe the motion with Eq. (3.7), Eq. (3.8), Eq. (3.9) with 
+y
+x
+g
+a
+,
+. (Negative sign arises because the coordinate system is changed and the 
+acceleration direction is downward.)  
+ 
+So that, equations of motion for the 1-dimensional vertical motion of an object in free-fall can 
+be written as following: 
+ 
+y
+g
+v
+v
+gt
+t
+v
+y
+y
+t
+g
+v
+v
+y
+y
+y
+y
+y
+y
+2
+2
+1
+2
+0
+2
+2
+0
+0
+0
+ 
+(3.10)
+  
+Note: Since the acceleration due to gravity is the same for any object, a heavy object does not 
+fall faster than a light object.  
+ 
+One Dimensional Motion with Variable Acceleration 
+The procedure is the same as we have done in the previous section. The velocity vector is  
+ 
+k
+dt
+dz
+j
+dt
+dy
+i
+dt
+dx
+v
+k
+z
+jy
+ix
+dt
+d
+dt
+r
+d
+v
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+. 
+(3.11)
+ 
+Then the acceleration is given as 
+ 
+dt
+v
+d
+a
+. 
+(3.12)
+ 
+Since the acceleration is variable, then it can’t be written as a constant. We should write the 
+equation with respect to the velocity vector components, taking derivation of them. So that,
+
+--- PAGE 6 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+6
+k
+a
+j
+a
+i
+a
+a
+k
+v
+j
+v
+i
+v
+dt
+d
+a
+z
+y
+x
+z
+y
+x
+ˆ
+ˆ
+ˆ
+)ˆ
+ˆ
+ˆ
+(
+ 
+(3.13)
+ 
+In the one-dimensional system, we can write the equation; 
+ 
+i
+a
+a
+xˆ 
+(3.14)
+ 
+ 
+Examples and Problems 
+Question 3.1: 
+Assume that a car decelerates at 2.0m/s2 and comes to a stop after traveling 25m. 
+a) Find the speed of the car at the start of the deceleration and 
+b) Find the time required to come to a stop. 
+Solution 3.1: 
+We are given: 
+?
+25
+/
+0.2
+2
+v
+m
+x
+s
+m
+a
+ 
+a) From 
+ 
+s
+m
+v
+v
+ax
+v
+v
+ax
+v
+v
+/
+10
+100
+)
+25
+)(
+2
+(
+2
+0
+2
+2
+0
+2
+0
+2
+2
+0
+2
+0
+2
+ 
+b) From v = v0 + at we have 
+.
+5
+2
+10
+0
+s
+a
+v
+v
+t
+ 
+ 
+ 
+Question 3.2: 
+Assume that a car traveling at a constant speed of 30m/s passes a police car at rest. The 
+policeman starts to move at the moment the speeder passes his car and accelerates at a 
+constant rate of 3.0m/s2 until he pulls even with the speeding car. 
+a) Find the time required for the policeman to catch the speeder and 
+b) Find the distance traveled during the chase.  
+Solution 3.2: 
+We are given, for the speeder:  
+s
+m
+vs
+/
+30
+0
+, constant speed, then 
+0
+s
+a
+ 
+and for the policeman:  
+2
+0
+/
+0.3
+s
+m
+a p
+ 
+ 
+a) The distance traveled by the speeder is given as 
+t
+t
+v
+x
+s
+s
+30 . Distance traveled by 
+policeman 
+2
+0
+0
+2
+1
+t
+a
+t
+v
+x
+x
+p
+p
+p
+p
+. When the policeman catches the speeder 
+p
+s
+x
+x
+or,
+
+--- PAGE 7 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+7
+2
+3
+0
+0
+30
+2t
+t
+x
+x
+s
+s
+, 
+Solving for t we have 
+0
+t
+ and 
+s
+t
+20
+)
+30
+(
+3
+2
+. The first solution tells us that the speeder 
+and the policeman started at the same point at 
+0
+t
+, and the second one tells us that it takes 
+20 s for the policeman to catch up to the speeder.  
+ 
+b) Substituting back in above we find the distance that the speeder has taken  
+m
+xs
+600
+)
+20
+(
+30
+ 
+And also for the policeman 
+m
+t
+a
+t
+v
+x
+x
+p
+p
+p
+p
+600
+)
+20
+)(
+3
+(
+2
+1
+0
+0
+2
+1
+2
+2
+0
+0
+ 
+ 
+ 
+Question 3.3: 
+A rocket moves upward, starting from rest with an acceleration of 29.4m/s2 for 4 s. At the end 
+of this time, it runs out of fuel and continues to move upward. How high does it go totally? 
+Solution 3.3: 
+For the first stage of the flight we are given: 
+s
+t
+for
+s
+m
+a
+4
+/
+4.
+29
+2
+ 
+This gives us the velocity and position at the end of the first stage of the flight: 
+s
+m
+at
+v
+v
+/
+6.
+117
+)
+4
+(
+4.
+29
+0
+0
+1
+ 
+and 
+m
+at
+t
+v
+y
+y
+o
+2.
+235
+)
+4
+)(
+4.
+29
+(
+2
+1
+0
+0
+2
+1
+2
+2
+0
+1
+ 
+For the second stage of the flight, the rocket will go upward with its velocity till it stops (That 
+is the Newton’s Motion Law).So, we start with 
+2
+1
+/
+8.9
+/
+6.
+117
+s
+m
+g
+a
+s
+m
+v
+ 
+And we end up with 
+0
+2v
+. We want to find the distance traveled in the second stage 
+(
+1
+2
+y
+y
+). We have,  
+m
+g
+v
+v
+y
+y
+y
+y
+a
+v
+v
+6.
+705
+)
+8.9
+(
+2
+)
+6.
+117
+(
+0
+2
+)
+(
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+. 
+Therefore, the total distance taken by the rocket is 
+m
+m
+y
+y
+8.
+940
+6.
+705
+2.
+235
+6.
+705
+1
+2
+ 
+ 
+ 
+Question 3.4: 
+A train with a constant speed of 60km/h goes east for 40min. Then it goes 
+
+45 north-east for 
+20min. And finally it goes west for 50min. What is the average velocity of the train? 
+Solution 3.4: 
+We are given, for the train:  
+min
+/
+1
+/
+60
+0
+km
+h
+km
+v
+
+--- PAGE 8 ---
+Lecture 3: Motion in One Dimension 
+ 
+ 
+ 
+8
+west
+t
+east
+north
+t
+east
+t
+min,
+50
+45
+min,
+20
+min,
+40
+3
+2
+1
+
+ 
+If we write the position vectors for the train for each motion: 
+i
+i
+t
+v
+d
+j
+i
+j
+t
+v
+i
+t
+v
+d
+i
+i
+i
+t
+v
+d
+ˆ
+50
+)ˆ
+)(
+(
+)ˆ
+ˆ(
+2
+10
+ˆ
+)
+sin
+(
+ˆ)
+cos
+(
+ˆ
+40
+ˆ)
+40
+*
+1(
+ˆ)
+(
+3
+0
+3
+2
+0
+2
+0
+2
+1
+0
+1
+, 
+The average velocity is given by; 
+7.
+73
+)
+11
+/)1
+2
+(
+11
+/
+2
+(
+tan
+/
+0.8
+min
+/
+13
+.0
+11
+)
+2
+(
+11
+)1
+2
+(
+min
+/
+110
+ˆ
+2
+10
+ˆ)1
+2
+(
+10
+50
+20
+40
+)ˆ
+50
+(
+)ˆ
+ˆ(
+2
+10
+ˆ
+40
+1
+2
+2
+3
+2
+1
+h
+km
+km
+v
+km
+j
+i
+i
+j
+i
+i
+v
+t
+d
+d
+d
+t
+d
+Time
+Elapsed
+nt
+Displaceme
+Total
+v
+average
+average
+average
+ 
+ is the angle between the final vector and east direction. 
+ 
+ 
+Question 3.5: 
+The motion of a particle is given by 
+3
+3
+2
+t
+t
+x
+, where x is distance in meter and t is time 
+in sec.  
+a) Find the velocity of the particle after 10 sec. 
+b) Find also acceleration of the particle. State whether acceleration is uniform of variable. 
+Solution 3.5: 
+We are given, for the particle: 
+3
+3
+2
+t
+t
+x
+,equation of motion for a particle in 1-D. 
+To find the velocity of the particle at a certain time, we should take the differentiation of the 
+equation of motion: 
+3
+2
+]
+3
+3
+[ 2
+t
+v
+t
+t
+dt
+d
+dt
+dx
+v
+, 
+We find the velocity equation of that particle. Then, for the 10second, 
+s
+m
+s
+t
+v
+/
+23
+3
+)
+10
+(
+2
+)
+10
+(
+, 
+This is the velocity of the particle at time t=10seconds. 
+To find the acceleration of the particle, we differentiate the velocity w.r.t. time t, then 
+2
+/
+2
+]3
+2
+[
+s
+m
+a
+t
+dt
+d
+dt
+dv
+a
+, 
+In final equation, it is seen that the acceleration does not depend on time and has constant 
+value of 
+2
+/
+2
+s
+m
+a
+. Therefore the acceleration of the particle is uniform (constant) and not 
+variable.

@@ -1,0 +1,201 @@
+
+--- SLIDE 1 ---
+Hardware I
+
+--- SLIDE 2 ---
+Overview
+Introduction
+Data Representation
+Processor
+Memory
+Bus Channel
+Power Supply
+
+
+--- SLIDE 3 ---
+Introduction
+Computer
+Hardware
+Tangible
+Software	
+Intangible
+Computer System
+Hardware
+Software
+Liveware
+Users 
+
+--- SLIDE 4 ---
+Data Representation
+In order to understand how computers process data, it is essential to understand how they represent data.
+Data can be represented in analog or digital form
+Analog is continuous
+E.g. 1.0, 1.01, 1.02, etc
+Digital is discrete
+E.g. 1, 2, 3, 
+Binary Digits (bit)
+2 states
+On / True / Electric Charge Present 
+
+
+Off / False / Electric Charge Absent
+
+
+--- SLIDE 5 ---
+BinaryDigit
+Computers represents data in digital form
+Text
+Numeric
+Image
+Sound
+Video
+Bits form Byte
+Simple bit represents two states
+Byte, collection of bits
+# of bits contained in a byte are defined by the c0ding scheme
+Coding Scheme
+American Standard Code for Information Interchange (ASCII)
+7-bit for data + 1-bit for parity check
+28 = 256
+De facto standard
+Universal Code (UNICODE)
+UTF-8, UTF-16, UTF-32
+Widely used standard
+Extended Binary Coded Decimal Interchange Code (EBCDIC)
+8-bit
+Mainly for mainframe computers
+
+--- SLIDE 6 ---
+Byte the Word
+Byte collection
+Word (2 bytes / 16 bits)
+Double Word (4 bytes / 32 bits)
+Quad Word (8 bytes / 64 bits)
+Half Word (1 byte / 8 bits)
+
+
+--- SLIDE 7 ---
+Component
+Building blocks of the computer
+Components are physical and tangible
+Hardware (IPO)
+Input
+Processing
+Output
+Storage
+Communication
+
+
+--- SLIDE 8 ---
+Processor
+
+--- SLIDE 9 ---
+Processor contd.
+Central Processing Unit / Microprocessor
+Interprets and execute basic instructions that operate the computer
+Components (Parts) of the CPU
+Control Unit
+Arithmetic Logic Unit (ALU)
+Registers
+
+--- SLIDE 10 ---
+Control Unit
+Directs and coordinates computer operations
+Interprets instructions
+Initiates appropriate action to carry out the instruction
+Controls and directs the ALU, registers and buses
+
+--- SLIDE 11 ---
+ALU
+Performs arithmetic and comparison operations
+Arithmetic – addition, division, multiplication & subtraction
+Comparison – less than, greater than, equal
+
+--- SLIDE 12 ---
+Register
+A staging area built into the CPU
+Internal registers can only be accessed by the CPU
+Some are user-accessible
+Common types of registers
+Instruction Register (IR)
+Holds instruction that is currently being executed
+Memory Buffer Register (MBR)
+Holds data being transferred to/from main memory
+Memory Address Register (MAR)
+Holds the address (location) of the main memory for storing or retrieving data
+Program Counter (PC)
+Holds the address of the next instruction to be executed
+
+
+--- SLIDE 13 ---
+The processor structure
+
+--- SLIDE 14 ---
+Machine Cycle
+Activities that take place during processor execution
+Machine Cycle made up of two stages
+Instruction cycle
+Fetch
+Decode
+Execution cycle
+Execute
+Store 
+
+--- SLIDE 15 ---
+Bus Channel
+A pathway for transmitting electrical signals between devices and components.
+Bits travel on a bus
+Data Bus
+Transmit bits that represents actual data
+Address Bus
+Transmits bits that represent the location (address) of where the data resides in memory
+Bus Width
+Determines the number of bits that can be transmitted at one time
+Bus width influences the processor’s word
+Buses have clocks that controls transmission speed of the bus
+
+--- SLIDE 16 ---
+Bus contd.
+Kinds of Buses
+System bus
+Connects the processor to the main memory
+Part of the motherboard
+Also called Front Side Bus (FSB)
+Backside bus (BSB)
+Connects the processor to the cache
+Expansion bus
+Connects the processor to other peripheral devices
+E.g. video card
+Examples of buses
+USB (Universal Serial Bus)
+SATA 
+SCSI (Small Computer System Interface)
+PCI
+Thunderbolt
+
+--- SLIDE 17 ---
+Power Supply
+Computers run on electrical power
+Electrical charge
+Represents data (bits)
+Provides power to drive the components
+2 forms of electrical charge
+Alternating Current (AC)
+Unstable and spike prone
+110 ~ 240 volts
+Direct Current (DC)
+Stable
+5 ~ 15 volts
+Power supply converts AC to DC
+Contain a voltage switch
+Fan to dissipate heat
+
+
+--- SLIDE 18 ---
+Power Supply contd.
+
+--- SLIDE 19 ---
+Acknowledgement
+www.davescomputertips.com
+www.bechtle.com
+www.learningcomputerscienceonline.com

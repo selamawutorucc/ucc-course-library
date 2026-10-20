@@ -1,0 +1,245 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Insert Data in Excel 2010
+
+In MS Excel, there are 1048576*16384 cells.
+
+MS Excel cell can have Text, Numeric value or formulas. 
+
+An MS Excel cell can have maximum of 32000 characters.
+
+--- SLIDE 6 ---
+Inserting Data
+ 
+For inserting data in MS Excel, just activate the cell type text or number and press enter or Navigation keys.
+
+
+--- SLIDE 7 ---
+Inserting Formula
+
+For inserting formula in MS Excel go to the formula bar, enter the formula and then press enter or navigation key. See the screen-shot below to understand it.
+
+--- SLIDE 8 ---
+Modifying Cell Content
+For modifying the cell content just activate the cell, enter a new value and then press enter or navigation key to see the changes. See the screen-shot below to understand it.
+
+
+--- SLIDE 9 ---
+Select Data in Excel 2010
+Select with Mouse
+Drag the mouse over the data you want to select. It will select those cells as shown below.
+
+--- SLIDE 10 ---
+Select Data in Excel 2010
+Select with Special
+If you want to select specific region, select any cell in that region. Pressing F5 will show the below dialogue box.
+
+
+
+--- SLIDE 11 ---
+Select Data in Excel 2010
+Select with Special
+Click on Special button to see the below dialogue box. Select current region from the radio buttons. Click on ok to see the current region selected.
+
+
+
+
+--- SLIDE 12 ---
+Select Data in Excel 2010
+Select with Special
+As you can see in the below screen, the data is selected for the current region.
+
+
+--- SLIDE 13 ---
+Delete Data in Excel 2010
+Delete with Mouse
+Select the data you want to delete. Right Click on the sheet. Select the delete option, to delete the data.
+
+
+--- SLIDE 14 ---
+Delete Data in Excel 2010
+Delete with Delete Key
+Select the data you want to delete. Press on the Delete Button from the keyboard, it will delete the data.
+
+
+--- SLIDE 15 ---
+Delete Data in Excel 2010
+Selective Delete for Rows
+Select the rows, which you want to delete with Mouse click + Control Key.
+Then right click to show the various options.
+Select the Delete option to delete the selected rows.
+
+
+--- SLIDE 16 ---
+Move Data in Excel 2010
+Step 1
+Select the data you want to Move. Right Click and Select the cut option.
+
+
+--- SLIDE 17 ---
+Move Data in Excel 2010
+Step 2
+Select the first cell where you want to move the data. Right click on it and paste the data. You can see the data is moved now.
+
+
+--- SLIDE 18 ---
+Rows & Columns in Excel 2010
+MS Excel is in tabular format consisting of rows and columns.
+
+Row runs horizontally while Column runs vertically.
+
+Each row is identified by row number, which runs vertically at the left side of the sheet.
+
+Each column is identified by column header, which runs horizontally at the top of the sheet.
+
+
+--- SLIDE 19 ---
+Rows & Columns in Excel 2010
+
+For MS Excel 2010, Row numbers ranges from 1 to 1048576; in total 1048576 rows.
+
+Columns ranges from A to XFD; in total 16384 columns.
+
+--- SLIDE 20 ---
+Navigation with Rows and Columns
+You can go to the last row by clicking Control + Down Navigation arrow.
+You can go to the last column by clicking Control + Right Navigation arrow.
+
+--- SLIDE 21 ---
+Cell Introduction
+
+The intersection of rows and columns is called cell.
+Cell is identified with Combination of column header and row number.
+For example − A1, A2.
+
+--- SLIDE 22 ---
+Copy & Paste in Excel 2010
+To copy and paste, just select the cells you want to copy. Choose copy option after right click or press Control + C.
+
+Select the cell where you need to paste this copied content. Right click and select paste option or press Control + V.
+
+--- SLIDE 23 ---
+Copy Paste using Office Clipboard
+When you copy data in MS Excel, it puts the copied content in Windows and Office Clipboard.
+You can view the clipboard content by Home → Clipboard.
+View the clipboard content.
+Select the cell where you need to paste. Click on paste, to paste the content.
+
+--- SLIDE 24 ---
+Copy Paste in Special way
+Select the document you want to copy.
+Select the cell where you need to paste. 
+Click on paste special to open the dialogue box.
+
+
+--- SLIDE 25 ---
+Copy Paste in Special way
+Below are the various options available in paste special.
+
+All − Pastes the cell’s contents, formats, and data validation from the Windows Clipboard.
+
+Formulas − Pastes formulas, but not formatting.
+
+Values − Pastes only values not the formulas.
+
+Formats − Pastes only the formatting of the source range.
+
+--- SLIDE 26 ---
+Copy Paste in Special way
+Below are the various options available in paste special.
+
+Comments − Pastes the comments with the respective cells.
+
+Validation − Pastes validation applied in the cells.
+
+All using source theme − Pastes formulas, and all formatting.
+
+All except borders − Pastes everything except borders that appear in the source range.
+
+--- SLIDE 27 ---
+Copy Paste in Special way
+Below are the various options available in paste special.
+
+Column Width − Pastes formulas, and also duplicates the column width of the copied cells.
+
+Formulas & Number Formats − Pastes formulas and number formatting only.
+
+Values & Number Formats − Pastes the results of formulas, plus the number.
+
+--- SLIDE 28 ---
+Copy Paste in Special way
+Below are the various options available in paste special.
+
+Merge Conditional Formatting − This icon is displayed only when the copied cells contain conditional formatting. When clicked, it merges the copied conditional formatting with any conditional formatting in the destination range.
+
+Transpose − Changes the orientation of the copied range. Rows become columns, and columns become rows. Any formulas in the copied range are adjusted so that they work properly when transposed.
+
+--- SLIDE 29 ---
+Find and Replace Dialogue
+To access the Find & Replace, Choose Home → Find & Select → Find or press Control + F Key. 
+
+--- SLIDE 30 ---
+Find and Replace Dialogue
+You can see the Find and Replace dialogue as below.
+ 
+
+--- SLIDE 31 ---
+Find and Replace Dialogue
+You can replace the found text with the new text in the Replace tab.
+ 
+
+--- SLIDE 32 ---
+Find and Replace Dialogue
+Now, let us see the various options available under the Find dialogue.
+
+Within − Specifying the search should be in Sheet or workbook.
+
+Search By − Specifying the internal search method by rows or by columns.
+
+Look In − If you want to find text in formula as well, then select this option.
+
+Match Case − If you want to match the case like lower case or upper case of words, then check this option.
+
+Match Entire Cell Content − If you want the exact match of the word with cell, then check this option.
+
+
+--- SLIDE 33 ---
+Spell Check in Excel 2010
+To access the spell checker, Choose Review ➪ Spelling or press F7.
+To check the spelling in just a particular range, select the range before you activate the spell checker.
+If the spell checker finds any words it does not recognize as correct, it displays the Spelling dialogue with suggested options.
+
+
+--- SLIDE 34 ---
+Zoom In/Out in Excel 2010
+By default, everything on screen is displayed at 100% in MS Excel.
+You can change the zoom percentage from 10% (Minimum) to 400% (Maximum).
+Zooming doesn’t change the font size, so it has no effect on the printed output.
+
+--- SLIDE 35 ---
+Zoom In
+You can zoom in the workbook by moving the slider to the right. 
+
+It will change the only view of the workbook.
+
+
+--- SLIDE 36 ---
+Zoom Out
+You can zoom out the workbook by moving the slider to the left.
+
+It will change the only view of the workbook. 
+
+--- SLIDE 37 ---
+
+--- SLIDE 38 ---
+THANK YOU

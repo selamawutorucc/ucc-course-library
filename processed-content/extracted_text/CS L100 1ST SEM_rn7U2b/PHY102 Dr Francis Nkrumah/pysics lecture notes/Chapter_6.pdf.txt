@@ -1,0 +1,816 @@
+
+--- PAGE 1 ---
+Lecture 6: Work and Energy 
+ 
+ 
+ 
+1
+Chapter 6: Work and Energy 
+Introduction 
+So far we have just learned everything about Newtonian Physics: Kinematics in which the 
+motion itself is investigated and Dynamics in which the reasons and affects of the motion is 
+investigated. What we are going to study next is derived from what we have learned. 
+However, the results we will obtain are more refined, and possibly will need a deeper 
+conceptual understanding. 
+The Work done by a constant force 
+We give the definition of the concept of work in physics, and worry about the reason and 
+motivation later. In a simplest way of saying it, the work in physics is a product of the 
+displacement of an object and the parallel component 
+of the force applied on that object as it moves. Let us 
+consider an example to illustrate what we mean: A box 
+is pulled by a force F, which makes an angle  with 
+the horizontal, to move a distance d to the right. What 
+is the work done by the force? We can see from the 
+diagram that the force F is not in the same direction of 
+the displacement. So we can decompose the force F 
+into perpendicular and parallel components: 
+But the work done by this force on the object is given by 
+It is clearly seen that if
+
+90
+
+
+, the work is positive, in which case, the force contributes the 
+effect of speeding up the object; if 
+
+90
+
+
+, the work is negative, and the force contributes the 
+effect of slowing down the object; the work is zero when 
+
+90
+
+
+. 
+ 
+It can be concluded that the condition for a force on an object to do non-zero work: 
+a) The object has to move. While it is a great workout to hold still some heavy weight, 
+you do not do any work from the point of view of physics. (Most people think that it 
+takes a lot of work to hold a 250kg weight in the air: The weight is not moving, 
+though, so in the sense of physics no work is done. It is important to realize how our 
+definition differs from a common one, and stick to the physical understanding of 
+work.) 
+ 
+b) The force has not to be perpendicular to the motion. In the above example, the normal 
+force and gravity is perpendicular to the (horizontal) displacement, so they contribute 
+no work. 
+ 
+ 
+It should be noted also that when we talk about F = ma, F has to be a net (or total) force 
+acting on the object. About work, on the other hand, we can talk about the work done by an 
+individual force. 
+)
+cos(
+||
+
+F
+F 
+, 
+and 
+)
+sin(
+F
+F 
+
+ 
+(6.1) 
+)
+cos(
+||
+
+d
+F
+d
+F
+W
+
+
+ 
+(6.2)
+
+--- PAGE 2 ---
+Lecture 6: Work and Energy 
+ 
+ 
+ 
+2
+Dot product of two vectors 
+We know that the work is scalar and it is a certain product of the force and the displacement. 
+We know that both force and displacement are vectors. We have also learned some things 
+about the rules of vectors in the previous Chapters and now let us discuss the product of two 
+vectors. Work is a scalar and then it is a scalar product of two vectors: 
+where  is the angle between the two vectors. As we mentioned before, the scalar product is 
+also called dot product, since conventionally, we use a dot to denote the product. 
+ 
+At this point, we will discuss some properties 
+of the scalar product: Let us consider two 
+vectors A and B shown in the figure. We 
+know that the dot product of two vectors can 
+be defined as the projection of one vector ( A ) on the other vector ( B ), or vice versa. We 
+know that 
+and then we can write 
+ 
+This implies us that the work done by a force can be stated in two equivalent ways: 
+a. Work done by a force is equal to the product of the displacement and the parallel 
+component of the force along the displacement. 
+ 
+b. Work done by a force is equal to the product of the force and the parallel component 
+of the displacement along the direction of the force. 
+ 
+The Scalar (dot) product can be done if the vector components are given: If the vectors A and 
+B are given as 
+then the result is given by 
+where 
+1
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+
+
+
+
+
+
+k
+k
+j
+j
+i
+i
+. 
+ 
+ 
+ 
+ 
+ 
+)
+cos(
+d
+F
+d
+F
+W
+
+
+
+ 
+(6.3) 
+)
+cos(
+B
+A
+B
+A
+
+
+ 
+2
+A
+A
+A
+
+
+ 
+A
+B
+B
+A
+
+
+
+ 
+)
+)
+(
+C
+A
+B
+A
+C
+B
+A
+
+
+
+
+
+
+ 
+(6.4) 
+)
+cos(
+,
+)
+cos(
+||
+||
+
+
+B
+B
+and
+A
+A
+
+
+ 
+A
+B
+B
+A
+B
+A
+||
+||
+
+
+
+ 
+(6.5) 
+k
+b
+j
+b
+i
+b
+B
+and
+k
+a
+j
+a
+i
+a
+A
+z
+y
+x
+z
+y
+x
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+
+
+
+
+
+
+ 
+(6.6) 
+z
+z
+y
+y
+x
+x
+b
+a
+b
+a
+b
+a
+B
+A
+
+
+
+
+ 
+(6.7)
+
+--- PAGE 3 ---
+Lecture 6: Work and Energy 
+ 
+ 
+ 
+3
+The Work done by a non-constant force 
+In the previous section, the force is assumed to be constant. Unfortunately, forces are not 
+constant in general. So, how does one compute the work? As we do always, we divide the 
+whole into the parts: We can slice the displacement into small segments, in each small 
+segment the force can be viewed as a constant, so the work done by the force in such a small 
+segment is given by 
+For one-dimension, it can be written as 
+This is the work done in this infinitesimal segment. The force will be applied to the object and 
+there will be an initial point where the motion starts and a final point where the motion ends. 
+If we sum these infinitesimal works, then 
+As 
+0
+
+x
+, the summation will be an integral between points where the motion starts and 
+ends: 
+So, the work done by a non-constant force that is applied to object between the points 
+1x and 
+2x is given by 
+It should be noticed that the force is x-dependent. 
+ 
+As we know that the simplest varying force is the spring force, as 
+shown in the figure. We observe that the more you stretch the spring, 
+the more force you need. If we don't stretch it too much to break it, the 
+force we need to stretch a spring is 
+where k is a constant (spring constant), and x is the amount stretched or 
+compressed from its normal length. By the action and reaction, the 
+spring we exert a force to pull back the spring into its normal length, 
+which is given by 
+the minus sign here implies that the direction of the force is always the opposite to the 
+displacement x. 
+ 
+Work done by a spring force from x to its normal position (x=0) is given by 
+Here, the minus sign indicates that the displacement of the mass attached to the spring is 
+opposite to the spring force. In fact, the best way to determine the sign is to inspect the 
+r
+F
+r
+F
+W
+
+
+
+
+
+
+. 
+(6.8) 
+x
+F
+x
+F
+W
+
+
+
+
+
+
+. 
+(6.9) 
+
+
+x
+F
+W
+. 
+(6.10) 
+
+
+
+
+
+
+
+2
+1
+0
+lim
+x
+x
+x
+Fdx
+x
+F
+W
+. 
+(6.11) 
+
+
+2
+1
+)
+(
+x
+x
+dx
+x
+F
+W
+. 
+(6.12) 
+kx
+F 
+. 
+(6.13) 
+kx
+Fs
+
+
+. 
+(6.14) 
+2
+0
+2
+0
+0
+2
+1
+2
+)
+(
+2
+1
+kx
+x
+k
+dx
+x
+k
+dx
+kx
+dx
+x
+F
+W
+x
+x
+x
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+(6.15)
+
+--- PAGE 4 ---
+Lecture 6: Work and Energy 
+ 
+ 
+ 
+4
+situation. If the spring force is in the same direction as the displacement, then the work is 
+positive; if the spring force is in the opposite direction as the displacement, then the work is 
+negative. 
+ 
+The general formula for the work done by a non-constant force is given as line integral in 
+three dimensions by using the same procedure we have done through Equation (6.8) to 
+Equation (6.11): 
+ 
+Work-Energy relation 
+How do we use work? What is its significant in the mechanics? We derive an equation in 
+which a relation is obtained between work and energy, especially kinetic energy. 
+ 
+We know the Newton second law that defines the acceleration of a body: 
+This is the one-dimensional acceleration of a body. If the object moves with a constant 
+acceleration from 
+ix to 
+fx with the velocities 
+iv to 
+fv , then we can write 
+and 
+Let us calculate the net work done on the object by the net force applied on it: 
+inserting the net force term into this equation, we get 
+If we define
+2
+2
+1 v
+m
+K 
+, then we get 
+This is the work-energy theorem: The work done by the net force on an object is equal the 
+change of its kinetic energy. 
+ 
+We should note that in this derivation, we only used the Newton's 2nd law, and some 
+mathematics. We did not make any assumption on the properties of the forces, thus the work-
+r
+F
+W
+
+
+
+
+ 
+)ˆ
+ˆ
+ˆ
+(
+)ˆ
+ˆ
+ˆ
+(
+k
+dz
+j
+dy
+i
+dx
+k
+F
+j
+F
+i
+F
+W
+z
+y
+x
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+f
+i
+z
+y
+x
+dz
+F
+dy
+F
+dx
+F
+W
+ 
+(6.16) 
+m
+F
+a
+x
+x 
+
+ 
+(6.17) 
+)
+(
+2
+2
+2
+i
+f
+x
+i
+f
+x
+x
+a
+v
+v
+
+
+
+ 
+(6.18) 
+2
+2
+2
+1
+2
+1
+)
+(
+i
+f
+i
+f
+x
+v
+v
+x
+x
+a
+
+
+
+ 
+(6.19) 
+
+
+
+i
+f
+x
+net
+x
+x
+F
+W
+
+
+
+, 
+(6.20) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+2
+1
+2
+1
+i
+f
+i
+f
+x
+i
+f
+x
+net
+v
+v
+m
+x
+x
+a
+m
+x
+x
+ma
+W
+ 
+2
+2
+2
+1
+2
+1
+i
+f
+net
+v
+m
+v
+m
+W
+
+
+. 
+(6.21) 
+i
+f
+net
+K
+K
+W
+
+
+. 
+(6.22)
+
+--- PAGE 5 ---
+Lecture 6: Work and Energy 
+ 
+ 
+ 
+5
+energy principle above can be universally applied. In fact, the work-energy is correct even in 
+the area where the Newtonian physics is no longer valid. 
+The Power 
+The “Power” is the speed of the work done. As we know the Mechanical Systems, an engine 
+for example, are not limited by the amount of work they can do, but rather by the rate at 
+which they can perform the work. So; this quantity, the rate at which work is done, is defined 
+as power. From this very simple definition, we can come up with a simple equation for the 
+average power of a system. If the system does an amount of work, W, over a period of time, T, 
+then the average power is simply given by:  
+It is important to remember that this equation gives the average power over a given time, not 
+the instantaneous power. Again we should remember, because in the equation of the work, W, 
+increases with x, even if a constant force is exerted, the work done by the force increases with 
+displacement, meaning the power is not constant. To find the instantaneous power, we must 
+use some calculus again: The instantaneous power means that the time interval for the work 
+done becomes zero, then we should differentiate the work with respect to time: 
+In the sense of this second equation for power, power is the rate of change of the work done 
+by the system. From this equation, we can derive another equation for instantaneous power 
+that does not rely on calculus. Given a force that acts at an angle θ to the displacement of the 
+particle, 
+In the last term of the Equation (6.24), it is obviously seen that we can the power equation as 
+Though the calculus is not necessarily important to remember, the final equation is quite 
+valuable. We now have two simple, numerical equations for both the average and 
+instantaneous power of a system. It should be noted that, in analyzing this equation, we can 
+see that if the force is parallel to the velocity of the particle, then the power delivered is 
+simply P = Fv.  
+ 
+Up to now, we have just mentioned about the equations for the power: what about its unit? 
+The unit of power is the joule per second which is more commonly called a “Watt” (Watt is 
+the surname of James Watt (1735-1819) who has spent his life for studying on the steam 
+machines). Another unit commonly used to measure power, especially in everyday situations, 
+is “the horsepower”, which is equivalent to about 746 Watts. As we know in our daily life, 
+the rate at which our automobiles do work is measured in horsepower. Power, unlike work or 
+energy, is not really a "building block" for further studies in physics. We do not derive other 
+concepts from our understanding of power. It is far more applicable for practical use with 
+machinery that delivers force. That said, power remains an important and useful concept in 
+classical mechanics, and often comes up in physics courses. 
+t
+W
+P 
+ 
+(6.23) 
+dt
+dW
+P 
+ 
+(6.24) 
+
+
+
+
+dt
+x
+F
+d
+P
+dt
+x
+F
+d
+P
+dt
+dW
+P
+)
+cos(
+
+
+
+
+
+
+ 
+
+
+v
+F
+P
+dt
+dx
+F
+dt
+x
+F
+d
+P
+)
+cos(
+)
+cos(
+)
+cos(
+
+
+
+
+
+
+
+ 
+(6.24) 
+v
+F
+P
+v
+F
+P
+
+
+
+
+)
+cos(
+ 
+(6.25)

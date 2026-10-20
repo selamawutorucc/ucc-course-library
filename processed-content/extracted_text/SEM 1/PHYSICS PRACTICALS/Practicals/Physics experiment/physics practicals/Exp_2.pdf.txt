@@ -1,0 +1,325 @@
+
+--- PAGE 1 ---
+1
+EXPERIMENT 2 
+Measurement of g: Use of a simple pendulum 
+ 
+ 
+OBJECTIVE: To measure the acceleration due to gravity using a simple pendulum. 
+ 
+Textbook reference: pp10-15 
+ 
+ 
+INTRODUCTION: 
+ 
+Many things in nature wiggle in a periodic fashion. That is, they vibrate. One such 
+example is a simple pendulum. If we suspend a mass at the end of a piece of string, we 
+have a simple pendulum. Here, the to and fro motion represents a periodic motion used in 
+times past to control the motion of grandfather and cuckoo clocks. Such oscillatory 
+motion is called simple harmonic motion.  It was Galileo who first observed that the time 
+a pendulum takes to swing back and forth through small distances depends only on the 
+length of the pendulum The time of this to and fro motion, called the period, does not 
+depend on the mass of the pendulum or on the size of the arc through which it swings. 
+Another factor involved in the period of motion is, the acceleration due to gravity (g), 
+which on the earth is 9.8 m/s2.  It follows then that a long pendulum has a greater period 
+than a shorter pendulum.  
+ 
+ 
+ 
+ 
+Before coming to lab, you should visit the following web site: 
+ 
+http://www.myphysicslab.com/pendulum1.html 
+This simulation shows a simple pendulum operating under gravity. For small oscillations 
+the pendulum is linear, but it is non-linear for larger oscillations.  
+You can change parameters in the simulation such as mass, gravity, and friction 
+(damping). You can drag the pendulum with your mouse to change the starting position. I 
+ 
+ 
+ 
+ 
+ 
+With the assumption of small angles, the frequency and 
+period of the pendulum are independent of the initial 
+angular displacement amplitude. All simple pendulums 
+should have the same period regardless of their initial 
+angle (and regardless of their masses).
+
+--- PAGE 2 ---
+2
+ 
+The period T for a simple pendulum does not depend on 
+the mass or the initial angular displacement, but depends 
+only on the length L of the string and the value of the 
+gravitational field strength g, according to  
+  
+ 
+ 
+PROCEDURE: 
+ 
+The period T of a simple pendulum (measured in seconds) is given by the formula: 
+ 
+ 
+ 
+ 
+ 
+ 
+T=2 π √ (L/g)  
+ 
+ 
+ 
+(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T = time for 30 oscillations  
+ 
+(2) 
+ 
+ 
+ 
+ 
+ 
+ 
+30 oscillations 
+ 
+using equation (1) to solve for “g”, L is the length of the pendulum (measured in meters) 
+and g is the acceleration due to gravity (measured in meters/sec2). Now with a bit of 
+algebraic rearranging, we may solve Eq. (1) for the acceleration due to gravity g. (You 
+should derive this result on your own). 
+ 
+ 
+ 
+ 
+ 
+g =  4π²L/T2 
+ 
+ 
+ 
+ 
+ 
+  (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Measure the length of the pendulum to the middle of the pendulum bob.  Record 
+the length of the pendulum in the table below.   
+ 
+2. With the help of a lab partner, set the pendulum in motion until it completes 30 to 
+and fro oscillations, taking care to record this time. Then the period T for one 
+oscillation is just the number recorded divided by 30 using (eq. 2). 
+ 
+3. You will make a total of eight measurements for g using two different masses at 
+four different values for the length L.  
+ 
+ 
+ 
+Note: π = 3.14,   4 π² = 39.44
+
+--- PAGE 3 ---
+3
+ 
+ 
+ 
+       
+ L (meters) 
+mass             Time for 30 oscillations       Period T (seconds)               T²      
+     g =  39.44L/T2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Average value of g =   __________ 
+ 
+ 
+ 
+QUESTIONS: 
+ 
+ 
+1) 
+From your data what effect does changing the mass have on the period (for a  
+given value of the length L)? 
+ 
+ 
+ 
+ 
+2) 
+What role, if any, does air resistance have on your results? Explain your 
+reasoning. 
+ 
+ 
+ 
+ 
+3) 
+Would you conclude that Galileo was correct in his observation that the  
+            period of a simple pendulum depends only on the length of the pendulum? 
+ 
+ 
+ 
+ 
+4) 
+On the moon, the acceleration due to gravity is one-sixth that of earth. That is 
+ 
+ 
+ 
+ 
+gmoon =  gearth /6 = (9.8 m/s2)/6  = 1.63 m/s2. 
+ 
+ 
+ 
+      What effect, if any, would this have on the period of a pendulum of length L? 
+                  How would the period of this pendulum differ from an equivalent one on                        
+                  earth?
+
+--- PAGE 4 ---
+4
+ 
+ 
+ 
+ 
+REACTION TIME 
+ 
+ 
+Purpose:  To measure your personal reaction time. 
+ 
+ 
+Discussion:  
+Reaction time is the time interval between receiving a signal and acting on it – for 
+example, the time between a tap on the knee and the resulting jerk of the leg.  Reaction 
+time often affects the making of measurements, as for example in using a stopwatch to 
+measure the time for a 100-m dash.  The watch is started after the gun sounds and is 
+stopped after the tape is broken.  Both actions involve reaction time. 
+ 
+Procedure: 
+ 
+Hold a centimeter ruler so that the midpoint hangs between your partner’s fingers.  
+Challenge your partner to catch it by snapping his or her fingers shut when you release it. 
+ 
+The distance the centimeter ruler will fall is found using: 
+ 
+ 
+d = ½ at² 
+ 
+a=g=9.80 (m/s²), is the constant acceleration for all free-falling objects, regardless of 
+their mass or weight.   
+ 
+Simple rearrangement gives the time of fall in seconds 
+ 
+t² = 2d 
+      g 
+ 
+ 
+t = √ (2/980) x √ (d) 
+ 
+ 
+t = 0.045√ (d) 
+ 
+ 
+(For d in cm, t in s, we use g = 980cm/s²)
+
+--- PAGE 5 ---
+5
+ 
+ 
+ 
+ 
+Have your partner similarly drop a centimeter ruler between your fingers.  Catch it and 
+note the number of centimeters that passed during your reaction time.  Then calculate 
+your reaction time using the formula 
+ 
+t = 0.045√ (d) 
+ 
+where d is the distance in centimeters. 
+ 
+ 
+Reaction time = _____________________________ 
+ 
+ 
+ 
+ 
+Questions: 
+ 
+1. What is your evidence for believing or disbelieving that your reaction time is 
+always the same?  Is your reaction time different for different stimuli? 
+ 
+2. Suggest possible explanations why reaction times are different for different 
+people. 
+ 
+3. Will the reaction time significantly affect measurements you might make using 
+instruments for this course?  How could you minimize its role? 
+ 
+4. What role does reaction time play in applying the brakes to a car in an emergency 
+situation?  Estimate the distance a car travels at 100 km/h during your reaction 
+time in braking. 
+ 
+5. Give examples for which reaction time is important in sports.

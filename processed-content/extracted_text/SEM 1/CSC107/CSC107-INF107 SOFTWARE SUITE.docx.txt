@@ -1,0 +1,191 @@
+University of Cape Coast
+College of Agriculture & Natural Sciences
+School of Physical Sciences
+Department of Computer Science & Information Technology
+ CSC 106/INF 106: Software Suite 					Credit Hours: 3
+Objective 
+This course will allow students to become productive by acquiring a basic understanding of Microsoft Word, Microsoft Excel, and Microsoft PowerPoint, and to learn to share data between these applications
+Course Description 
+This course uses the world’s most popular suite of business applications for productivity and efficiency. It teaches the most basic features as well as focuses on the more advanced tools that all students will find useful. The course provides business productivity application for the management and manipulation of data. It provides skills to create dynamic and professional presentations. 
+Expected Outcome 
+By the end of the course, students will be able to 
+Understand which tasks each of the major office programs can perform.
+Independently create professional-looking documents, presentations, and spreadsheets. 
+Understand advanced Office functions, including Mail Merge (Word) and Formulas (Excel). 
+Understand how to use Word, Excel, and PowerPoint in a variety of professional, educational and personal situations. 
+Course Outline 
+
+MS WORD
+a. Getting Started with Word
+i. Navigate in Microsoft word
+ii. Create and save Word Documents
+iii. Editing Documents
+iv. Preview and Print Documents
+v. Customize the Word Environment
+b. Formatting Text and Paragraphs
+i. Selection of texts and paragraphs for formatting
+ii. Apply Character Formatting
+iii. Apply same Format Styles to several Paragraphs
+iv. Control Paragraph Layout
+v. Align and Indent Text Using Tabs
+ vi. Apply Borders and Shading
+c. Creating and Managing Lists
+i. Display Text in Bulleted or Numbered Lists
+ii. Sort a List 
+iii. Format a List
+d. Adding Tables to a Document 
+i. Insert a Table
+ii. Modify a Table
+iii. Format a Table
+iv. Convert Text to a Table
+e. Inserting Graphic Objects
+i. Insert Symbols and Special Characters
+ii. Add Images to a Document
+iii. Draw Shapes
+iv. Create complex Illustrations with SmartArt
+f. Manipulating Images
+i. Integrate Pictures and Texts
+ii. Adjust Image Appearance
+iii. Insert Other Media Elements
+g. Controlling Page Appearance
+i. Apply a Page Border and Colour 
+ii. Add Headers and Footers
+iii. Control Page Layout 
+iv. Add a Watermark
+h. Preparing to Publish a Document
+i. Check Spelling, Grammar, and Readability 
+ii. Check Accessibility
+iii. Save a Document to Other Formats
+i. Adding Document References and Links
+i. Add Captions
+ii. Add Cross- References
+iii. Add Bookmarks 
+iv. Add Hyperlinks
+v. Insert Footnotes and Endnotes 
+vi. Add Citations and a Bibliography
+j. Securing a Document
+i. Add a Digital Signature to a Document
+ ii. Set Formatting and Editing Restrictions
+iii. Restrict Document Access
+MS EXCEL
+a. Securing a Document
+i. Add a Digital Signature to a Document 
+ii. Set Formatting and Editing Restrictions
+iii. Restrict Document Access 
+b. Introduction to Excel
+i. The general uses of Excel Application
+ii. Creating a New Workbook
+iii. Navigating in Excel
+iv. Using Excel Menus
+v. Using Excel Toolbars: Hiding, Displaying, and Moving Toolbars
+vi. Entering Values in a worksheet and Selecting a Cell range
+vii. Previewing and Printing a Worksheet
+viii. Saving and re-opening a Workbook
+c. Formatting Fonts and Values
+i. Adjusting Row Height and Column Width
+ii. Changing Cell Alignment
+iii. Adding Borders
+iv. Using the Format Painter and AutoFormat
+v. Merging Cells, Rotating Text, and using AutoFit
+vi. Auto filling Cells 
+d. Managing Workbooks
+i. Switching between Sheets in a Workbook
+ii. Inserting, Renaming, and Deleting Work-
+sheets
+iii. Protecting a Workbook
+iv. Hiding Columns, Rows and Sheets
+e. Editing a Workbook
+i. Entering Date Values and Using AutoComplete
+ii. Editing, Clearing, and Replacing Cell Contents
+iii. Cutting, Copying, and Pasting Cells
+iv. Moving and Copying Cells with Drag and Drop
+v. Collecting and Pasting Multiple Items
+vi. Inserting and Deleting Cells, Rows, and Columns
+vii. Inserting Cell Comments
+f. Working with Formulas
+i. Creating a basic Formula
+ii. Calculating Value Totals with AutoSum
+iii. Editing and copying Formulas
+iv. Formulas with Several Operators and Cell Ranges
+g. Creating and Working with Charts
+i. Creating a Chart
+ii. Moving and Resizing a Chart
+iii. Formatting and Editing Objects in a Chart 
+iv. Changing a Chart’s Source Data
+v. Working with Pie Charts
+vi. Adding Titles, Gridlines, and a Data Table
+vii. Annotating a Chart viii. Using Fill Effects
+h. Data Analysis and Pivot Tables
+i. Creating a PivotTable
+ii Specifying the Data a PivotTable Analyzes 
+iii. Changing a PivotTable’s Calculation
+iv. Selecting what appears in a PivotTable
+v. Grouping dates in a PivotTable 
+vi. Updating a PivotTable
+vii. Formatting and Charting a PivotTable
+i. Importing and Exporting data from Excel
+i. Inserting an Excel Worksheet into a Word Document
+ii. Importing data from Word into Excel Work- sheet
+iii. Inserting a Graphic into a Worksheet
+
+ Ms PowerPoint 
+a. Creating a Presentation Using a Wizard
+i. Exploring and Moving around a Presentation
+ii. Changing Text in the Outline Pane, Slide Pane
+iii. Changing Presentation Views, Properties
+iv. Previewing Slides and Saving Presentations
+b. Working with a Presentation
+i. Using a Design Template
+ii. Entering Text into Slide/ Notes Pane
+iii. Creating a new Slide
+iv. Editing in Normal View
+v. Rearranging Slides in Slide Sorter View vi. Showing Slides
+c. Adding and Modifying Texts
+i. Selecting and Deselecting Objects
+ii. Adding and Formatting Texts to Slides 
+iii. Adding a Background to Texts
+iv. Adding a Hyperlink
+d. Adding Graphical Elements to Your 
+Presentation
+i. Insert Images 
+ii. Insert Shapes
+e. Modifying Objects in Your Presentation 
+i. Changing the Shape of an Object
+ii. Edit Objects
+iii. Format and Group objects 
+iv. Arrange Objects
+v. Animate Objects
+f. Inserting Information into PowerPoint
+i. Inserting a Clip Art Image
+ii. Scaling an Image
+iii. Re-Colouring a Clip Art Image
+iv. Inserting and Formatting a Table
+v. Inserting a Graph, Excel, and Organizational Charts
+vi. Inserting and Modifying a Picture
+g. Producing a Slide Show
+i. Navigating in a Slide Show View
+ii. Annotating Slides during a Slide Show
+iii. Setting Texts Transitions
+ iv. Animating Slides
+v. Hiding a Slide during a Slide Show
+h. Creating a Multimedia Presentation
+i. Inserting Sounds, Movies 
+ii. Setting Slide Timings
+iii. Rehearsing Slide Timings 
+iv. Recording a Narration
+i. Delivering Your Presentation
+i. Creating a Custom Show 
+ii. Rehearsing a Slide Show
+iii. Collaborating on Presentations
+ iv. Packaging a Presentation
+v. Running a Slide Show
+vi. Broadcasting a Presentation to the Web
+
+ASSESSMENT;
+Quizzes/Exams – 40% 
+Exams - 60% 
+READING LIST
+Cox, Joyce . Joan Lambert,  (2010). 2010 Microsoft office system step by step.  Microsoft Word. Microsoft Press.
+Curtis D Frye (2010). 2010. Microsoft office system step by step.  Microsoft Excel. Microsoft Press.   
+
+Guy Hart-Davis, Beginning Microsoft Office 2010. Master the most useful features of Word, Excel, PowerPoint, Outlook, and OneNote Apress 

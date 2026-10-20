@@ -1,0 +1,699 @@
+
+--- PAGE 1 ---
+CHAPTER SIX 
+ 
+ELASTICITY 
+ 
+When an external force acts on a body which is not free to move, the molecules of the body are 
+shifted to new positions. This change results in the deformation of the body because its size and 
+shape changes. The applied force which caused changes in the body is referred to as a deforming 
+force. Some materials become permanently deformed even when the deforming force has been 
+removed. There are certain materials which tend to recover their size and shape after the deforming 
+force has been removed. Such materials are called elastic materials because the molecules tend to 
+regain their original positions. Whenever a deforming force is applied to an elastic body, an 
+internal force or a restoring force is set up in the body which acts in opposite direction to the 
+deforming force. 
+ 
+Elasticity is the property of a material by virtue of which it regains its original length, volume and 
+shape after the deforming forces have been removed. 
+ 
+Stress  
+ 
+Stress is a measure of the strength of a force that is causing a deformation.  
+Stress is defined as the deforming force acting per unit area of a body. Its SI unit is Nm-2. 
+ 
+Deforming Force
+Stress
+Cross sectional Area
+=
+                                                             6.1 
+ 
+(a) Tensile stress 
+In tensile stress the deforming force stretches the body in one direction. This causes the body to 
+increase in length. This is also known as longitudinal stress. 
+Consider a long wire fixed to a rigid support at one end as shown in Figure 6.1. Let a deforming 
+force F be applied normally outwards at the free end. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+l 
+F 
+l 
+Figure 6.1
+
+--- PAGE 2 ---
+Let us also assume that the wire extends a length l in the direction of the force. Then,  
+ 
+ 
+Deforming Force
+Tensile stress
+Cross sectional Area
+=
+                              6.2 
+ 
+(b) Compressional stress 
+It is the restoring force developed per unit cross sectional area of a body when the body is 
+compressed. The deforming force causes the length of the body to decrease. 
+ 
+ 
+(c) Tangential or shearing stress 
+When the deforming force acts tangentially over an area of a body, it causes the body to get sheared 
+through an angle. Such a deformation results from a tangential stress. 
+ 
+(d) Hydrostatic or Bulk stress 
+In this type of stress, the deforming force acts uniformly and equally from all sides of the body’s 
+surface. Bulk stress causes the entire body’s size to decrease. 
+ 
+Strain 
+It is the fractional deformation resulting from a stress. This means that any type of stress has a 
+corresponding strain. Strain has no unit. 
+ 
+(a) Tensile or longitudinal strain 
+When the deforming force produces a change in length, then the strain becomes the extension per 
+unit length. Suppose that a wire of length l is stretched to a new length l
+l
++under stress. Then,   
+ 
+l
+l
+length
+original
+length
+in
+change
+strain
+Tensile
+
+=
+=
+ 
+ 
+ 
+ 
+                                                      6.3     
+                                                  
+Therefore, within the elastic limit, tensile strain can be defined as the ratio of the change in length 
+to the original length.  
+ 
+(b) Shear strain
+
+--- PAGE 3 ---
+If the deforming force produces a change in the shape of a body, then the strain is measured by the 
+angle through which a line originally perpendicular to the fixed plane is turned. Within the elastic 
+limit, shear strain is measured by the ratio of the relative displacement of one plane to its distance 
+from the fixed plane. 
+So, shear strain can be defined as the relative displacement between two parallel planes which are 
+a unit distance apart. 
+ 
+(c) Bulk strain 
+When the deforming force produces a change in volume, then the strain becomes the bulk strain. 
+Suppose a body of volume V is compressed to a new volume V
+V
+−
+under stress. Then,  
+ 
+ 
+ o
+ 
+ o
+change in v lume
+V
+Bulk strain
+original v lume
+V
+
+=
+=
+                                                  6.4 
+ 
+Therefore, within the elastic limit, bulk strain can be defined as the ratio of the change in volume 
+to the original volume.  
+ 
+Example 6.1. What are stress and strain? 
+ 
+Solution 
+Stress is a measure of the strength of the agent that is causing a deformation. If a force F is applied, 
+possibly obliquely, to a surface of area A, then 
+stress=
+force
+area of surface on which force acts = 𝐹
+𝐴 
+The units of stress are those of pressure. 
+Strain is the fractional deformation resulting from a stress. It is measured by the ration of the 
+change in some dimension of a body to the original dimension in which the change occurred. 
+strain= change in dimension
+original dimension 
+Strain has no units because it is a ratio of like quantities.  
+ 
+PLASTICITY 
+Plasticity is the property of a body remaining deformed even after the deforming force has been 
+removed.
+
+--- PAGE 4 ---
+Plastic bodies do not show any tendency to recover their original shape and size when the force 
+acting on them is removed. Forces exerted on plastic materials cause dislocation in their crystal 
+lattices. If a metal is deformed beyond its elastic limit, it exhibits plastic behavior.  
+ 
+Hooke’s law 
+The law states that the extension is proportional to 
+the force or tension in 
+a wire if the elastic limit is not exceeded OR provided 
+the elastic limit is not 
+exceeded, stress is directly proportional to strain. 
+Let us consider a wire supported at a fixed point as 
+shown in Figure 6.2. 
+When a load is placed on the wire, it extends and the 
+extension e is read as 
+change in length. Figure 6.3 shows a typical Stress –
+Strain graph if the 
+thin wire is loaded with increasing weights. From the 
+graph, within region 
+OA, the wire obeys Hooke’s law. However a further 
+increase 
+in 
+load 
+increases the tension in the wire until a point is 
+reached where the 
+proportionality limit is exceeded i.e., the wire cannot 
+return to its initial 
+state or position when it is off-loaded. This is the 
+yield point which is 
+indicated by kinks in the wire. A further increase in 
+the 
+load 
+causes 
+plastic deformation where the wire stretches and 
+increases in length 
+permanently and becomes thinner. Finally the wire breaks after reaching the breaking point with 
+more loads on the wire. The break is due to the inability of the tension in the wire to support the 
+applied load on the wire. The tensile stress in the wire is the force per unit area. Tensile strain is 
+extension per unit length. The modulus of elasticity is a measure of the stiffness of the material. 
+From the graph, three important mechanical properties can be obtained. (i) yield strength  
+(ii) tensile strength (iii) modulus of elasticity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loads 
+Thin wire 
+Figure 6.2 
+Tensile 
+stress 
+Tensile strain 
+0
+A 
+L
+y 
+S
+B
+OA= proportional limit 
+L = elastic limit 
+y = yield point 
+S = tensile strength 
+B = wire breaks 
+Oy= elastic deformation 
+yS= plastic deformation 
+Figure 6.3  A typical Stress verses Strain graph
+
+--- PAGE 5 ---
+Example 6.2. Define elasticity, Hooke’s law, elastic limit, and ultimate strength. 
+ 
+Solution 
+Elasticity is that property by virtue of which a body returns to its original size and shape when the 
+forces that deformed it are removed. 
+Hooke’s law can be stated in terms of stress and strain. If the system obeys Hooke’s law, then 
+stress ∝ strain. We then define a constant the modulus of elasticity, by the relation 
+modulus of elasticity= stress
+strain 
+The modulus has the same units as stress. In the case of pure tension, the modulus is called Young’s 
+modulus. 
+The elastic limit is the smallest value of the stress required to produce a permanent distortion in a 
+body. When a stress in excess of this limit is applied, the body will not return exactly to its original 
+state after the stress is removed. 
+The ultimate strength is the smallest value of stress required to break the body. 
+ 
+Young’s Modulus of elasticity  
+From Hooke’s law, within the elastic limit stress is proportional to strain.  
+That is, Force F  extensione . 
+ 
+k
+=
+F
+e                                                                                6.5 
+ 
+Dividing both sides of Equation 6.5 by the area A 
+ 
+k
+A
+A
+=
+F
+e 
+but the area A
+l l
+=  
+F
+k e
+A
+l l
+=
+
+--- PAGE 6 ---
+,   
+,
+,   
+F
+k
+e
+stress
+constant K
+strain
+A
+l
+l
+=
+=
+=
+ 
+Therefore,    stress
+K strain
+=
+
+ 
+ Constant 
+Strain
+Stress
+K =
+                                                                    6.6        
+K is a constant known as Modulus of Elasticity. 
+If the change is an increase in length, then K becomes Young Modulus of Elasticity denoted byY . 
+Therefore, Young’s Modulus of Elasticity is defined as 
+Strain
+Tensile
+Stress
+Tensile
+Y
+ 
+ 
+=
+                                                                         6.7 
+Mathematically, 
+ 
+ 
+F
+l
+F
+l
+Y
+A
+l
+A
+l
+
+=
+
+=
+                                                                   6.8 
+Note that Young’s Modulus applies to only solids. 
+ 
+Example 6.3. A prismatic bar with square cross section (20mm x 20mm) and length L= 3.0m is 
+subjected to an axial tensile force of 50kN. The measured elongation of the bar is L= 1.5mm. 
+Calculate the tensile stress and strain in the bar. Hence find the Young’s modulus of the 
+prismatic bar. 
+   
+Solution 
+ 
+ 
+ 
+ 
+ 
+MPa
+mm
+kN
+Area
+cross
+Force
+stress
+Tensile
+125
+)
+20
+ x 
+20
+(
+50
+ 
+sectional
+ 
+ 
+2 =
+=
+=
+ 
+ 
+4
+3
+10
+0.5
+0.3
+10
+5.1
+ 
+ 
+−
+−
+=
+=
+=
+x
+m
+m
+x
+length
+original
+elongation
+strain
+Tensile
+ 
+ 
+MPa
+x
+MPa
+strain
+Tensile
+stress
+Tensile
+modulus
+s
+Young
+25
+10
+0.5
+125
+ 
+ 
+ 
+'
+4 =
+=
+=
+−
+ 
+ 
+Example 6.4. What is Young’s modulus? 
+ 
+20mm 
+50kN 
+3.0m
+
+--- PAGE 7 ---
+Solution 
+Young’s modulus (or tensile modulus) describes the length elasticity of a material. Suppose a wire 
+or rod of original length L and cross sectional area A elongates an amount ∆𝐿 under a stretching 
+force F applied to its end. Then 
+ tensile stress = 
+𝐹
+𝐴      tensile strain =
+∆𝐿
+𝐿 
+and      Young's modulus=𝑌=
+stress
+strain =
+𝐹𝐴
+⁄
+∆𝐿𝐿
+⁄ =
+𝐹𝐿
+𝐴∆𝐿   
+The value of Y depends only on the material of the wire or rod not on its dimensions. 
+ 
+Example 6.5. An iron rod 4 m long and 0.5 cm2 in cross section stretches 1 mm when a mass of 
+225 kg is hung from its lower end. Compute Young’s modulus for the iron. 
+ 
+Solution 
+𝑌=
+stress
+strain =
+𝐹𝐴
+⁄
+∆𝐿𝐿
+⁄ where 
+∆𝐿
+𝐿= (1 × 10−3m) 4 m
+⁄
+= 0.25 × 10−3, 𝐴= 0.5 × 10−4m2, and 𝐹=
+(225kg)(9.8 m s2
+⁄
+) = 2205 N. Substituting, we get 𝑌= 1.76 × 1011 N m2 = 176 MPa
+⁄
+ 
+ 
+Example 6.6. If we consider the rod of example Example 6.5 to be a spring, within its elastic 
+limit, what is the effective force constant of this spring? 
+ 
+Solution 
+𝐹= 𝑌𝐴∆𝐿𝐿= 𝑘∆𝐿
+⁄
+, where k is by definition the force constant. Thus 
+𝑘= 𝑌𝐴
+𝐿= (1.76 × 1011 N m2
+⁄
+)(0.5 × 10−4m2)
+4 m
+= 2.2 MN m
+⁄
+ 
+ 
+Shear Modulus of Elasticity or Modulus of Rigidity 
+If the deforming force produces a change in the shape of the body, then from Equation 6.6, the 
+constant K becomes Shear Modulus of Elasticity, which is denoted byG .  
+Therefore Equation 6.6 becomes,  
+Strain
+Shear
+Stress
+Shear
+G
+ 
+ 
+=
+                                                                            6.9 
+Let us consider a rectangular block with the front vertical face labeled QRST as shown in Figure 
+6.4a. If a tangential force F is applied on the upper parts, say ST, of the block, a reaction force will
+
+--- PAGE 8 ---
+also be set up at the bottom face, QR. These two tangential forces will cause the shape of the block 
+to change but the volume will be unaltered.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As you go up from the bottom each layer slides past the neighbor by the same margin making the 
+block to suffer a tangential shear. 
+Therefore, the shear stress is given by the tangential force per unit area as F A. 
+Also, the corresponding shear strain is given by the tangent of the angle of shear as tan
+x y
+
+
+=
+ 
+where  is the angular displacement from the initial position. 
+ 
+ 
+Shear Stress
+F
+x
+F
+y
+G
+Shear Strain
+A
+y
+A
+x
+
+=
+=
+
+=
+                                                    6.10 
+ 
+So, the Shear Modulus or Modulus of rigidity is defined as the ratio of the shear stress to the shear 
+strain. 
+Note that Shear Modulus applies to solids and liquids. 
+ 
+ 
+Bulk Modulus 
+ 
+Bulk Modulus applies to a change in volume of a body if a deforming force acts uniformly over 
+the surface of the body. Suppose we apply a force normally and uniformly over an area of a sphere 
+of volume V such that the volume decreases by V
+
+. In this case there will be no change in shape 
+of the sphere. Such a uniform pressure acting normally to the entire surface of the body is termed 
+Hydrostatic pressure. 
+ 
+ 
+ 
+ 
+F 
+F 
+Q                                             R 
+T             T’                             S             S’ 
+ 
+x 
+y 
+Figure 6.4  Shear deformation of a rectangular 
+block by a tangential force 
+(a) 
+(b) 
+V 
+P 
+Figure 6.5 A uniform pressure acting normally 
+ to the entire surface of the body
+
+--- PAGE 9 ---
+Considering the volume change, the constant K in Equation 6.6 becomes the Bulk Modulus of 
+elasticity. 
+Therefore, Bulk Modulus of elasticity is, 
+ 
+ 
+Bulk Stress
+K
+Bulk Strain
+=
+.                                                                                 6.11 
+The pressure applied to compress the body is called the Bulk Stress which is given by
+F
+P
+A
+
+=
+. 
+The corresponding fractional change in volume is called the Bulk strain and it is given by
+
+
+
+
+
+
+
+−V
+V
+. The negative sign denotes the decrease in volume. 
+V
+V
+P
+V
+V
+A
+F
+V
+V
+A
+F
+Strain
+Bulk
+Stress
+Bulk
+K
+
+
+=
+
+
+=
+
+
+=
+=
+ 
+ 
+                                   6.12 
+So, the Bulk Modulus is defined as the ratio of normal stress to the volumetric strain. 
+Note that the Bulk Modulus applies to all phases of matter. 
+Example 6.7. Determine the fractional change in volume as the pressure of the atmosphere (0.1 
+MPa) around a metal block is reduced to zero by placing the block in vacuum. The bulk modulus 
+for the metal is 125000 MPa. 
+ 
+Solution 
+𝐵=
+−∆𝑝
+∆𝑉𝑉
+⁄ or 
+∆𝑉
+𝑉= −
+∆𝑝
+𝐵=
+−(−0.1)
+125000 = 8 × 10−7 
+ 
+Example 6.8. How large a pressure must be applied to water if it is to be compressed by 0.1 
+percent? What is the ratio of this pressure to atmospheric pressure, 101 kPa? The bulk modulus of 
+water is 2100 MPa. 
+Solution 
+The volume strain 
+∆𝑉
+𝑉= 1.0 × 10−3; set 𝐵= 𝑝(∆𝑉𝑉0
+⁄
+⁄
+) to find
+
+--- PAGE 10 ---
+𝑝= (2.1 × 109)(1.0 × 10−3) = 2100 kPa. 
+Dividing by the atmospheric pressure, the ratio is 21. 
+ 
+Exercise 6 
+1. A metal wire 75cm long and 0.13cm in diameter stretches 0.035cm when a load of 8.0kg 
+is hung on its end. Find the stress, the strain, and the Young’s modulus (Y) for the 
+material of the wire.                                                                               (Ans: stress=5.91
+107Pa; strain=4.6710-4;  y=127GPa ) 
+2.  A solid cylindrical steel column is 4.0m long and 9.0cm in diameter. What will be its 
+decrease in length when carrying a load of 80,000kg? (Y=1.91011Pa) (Ans: Δ 
+L=2.6mm ) 
+3. A 60Kg woman stands on a light, cubical box that is 5cm on each edge. The box sits on 
+the floor. What pressure does the box exerts on the floor? Ans: P=240kPa ) 
+4. An iron rod 4m long and 0.5cm2 in cross section stretches 1mm when a mass of 225kg is 
+hung from its lower end. Compute Young’s modulus for the iron. Ans: 176GPa ) 
+5. Find the density and specific gravity of ethyl alcohol if 63.3g occupies 80.0mL.  (Ans: 
+791kgm-3;  0.791) 
+6. A load of 50kg is applied to the lower end of a steel rod 80cm long and 0.60cm in 
+diameter. How much will the rod stretch? Y=190GPa for steel. (Ans: 73μm ) 
+7. Compute the volume change of a solid copper cube, 40mm on each edge, when subjected 
+to a pressure of 20MPa. The bulk modulus for copper is 125GPa. Ans: -10mm3 ) 
+6.10 The compressibility of water is 510-10m2/N. find the decrease I volume of 100mL of 
+water when subjected to a pressure of 15MPa.                                                                                              
+(Ans: 0.75mL)
+
+--- PAGE 11 ---
+6.11  A body of mass 2kg is attached to the end of a vertical wire of length 2m and diameter 
+0.64mm and the extension is 0.60mm. Calculate (a) tensile stress (b) tensile strain (c) Young 
+Modulus (E) [Take g = 9.8ms-2]   
+ 
+6.12 A vertical wire is suspended from one end . a weight of 20N is attached to the other end 
+to stretch the wire. If the weight extends the wire by 1mm, calculate the energy gained by the 
+wire. 
+ 
+6.13. If a force of 100N stretches a string by 0.1cm, find (a) the elastic constant  (b) the work 
+done in stretching the string 0.3cm if the elastic limit is not exceeded. 
+ 
+6.14 A uniform steel wire has cross sectional area 3mm2 and length 10m. A mass of  10kg is 
+attached at one end. If the Young Modulus (E) of the       steel is 10-2Nm-2, calculate the 
+extension produced. [Take g = 9.8ms-2]

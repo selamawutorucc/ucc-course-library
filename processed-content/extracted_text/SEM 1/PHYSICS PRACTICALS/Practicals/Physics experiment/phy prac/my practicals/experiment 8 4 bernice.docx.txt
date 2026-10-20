@@ -1,0 +1,101 @@
+Karikari Appau Kyerewaa Bernice                             DATE: 20TH MARCH 2008.                                                  SM/SMS/08/0011                                                                                                 EXPERIMENT 8 
+TITLE: REFRACTION OF LIGHT
+AIM: To determine the refractive index of a glass block using Snell’s law.
+APPARATUS: glass block, 4 optical pins, protractor (), drawing paper, a pair of   compass.
+DIAGRAM
+THEORY
+Refraction is the change in the direction of light ray as it goes from one material to another. When a ray PA is incident in air on the air-glass boundary, it is refracted towards the normal NAN when it enters the glass (Fig. 1).some of the light is also reflected at A along AS but AS is a weak ray compared with the refracted ray. The ray AB in glass is also refracted at the glass-air boundary along BQ in air, away from the normal at B.
+                                   P	N	 Reflected ray, S, (weak)
+Incident ray	A
+ Refracted ray	O
+                                                                                       B	Emergent ray
+	Fig. 1
+From Snells law n (refractive index)  
+Where are the angle of incidence and angle of refraction respectively. From the diagram    
+But n    so n      
+PROCEDURE
+The glass block was placed on the white sheet of paper pinned to the drawing board. The edges of the glass block were traced on the drawing sheet and it corners labeled ABCD. The normal NOM was drawn. The angle of incidence  was drawn and two pins P1 and P2 were pushed into the paper along the line to represent the incident ray. The glass block was carefully replaced on the paper. The images of P1 and P2 were found by looking through the glass block along the side CD. While looking, two pins P4 and P3 were pushed on the drawing sheet so that they were in a straight line with the images of P1 and P2.the glass block was removed and the points P3 and P4 joined with a straight line. The line was produced to meet the side CD at Z. This is the emergent ray. Z and O (the point of mergence and the point of incidence) were joined. This represented the refracted ray. With centre O and a suitable radius, a circle cutting through the incident and the refracted ray at R and Q respectively was drawn. With set square perpendiculars RP and QS was drawn unto the normal NOM.RP, QS and the angle of refraction were measured and recorded. The experiment was repeated for angle of incidence  
+TABLE OF RESULTS
+GRAPH                                                                                                                                                                                                         
+A GRAPH OF RP AGAINST QS.
+A GRAPH OF Y(cm) AGAINST  TAN RO
+28
+ CALCULATION
+(1)From the graph of RP against QS, the slope was found to be 1.527. This value represents the refractive index of the glass block.
+(2)The slope of Y against tan ro was found on the graph above to be 6.108cm.
+(3)
+DISCUSSION
+In this experiment the index of refraction of the glass block was found to be 1.626.this value gives a measure of the bending of light when it travelled from air through the glass. But the theoretical value for refractive index is 1.52, which differs from the experimental value by 0.106.this deviation occurred because of errors encountered when the experiment was being performed. 
+SOURCES OF ERROR
+Error due to parallax, since the eye may not accurately push the pin into where the image points are formed on the paper.
+The glass block was not transparent enough and this caused blurring of some of the images.
+PRECAUTIONS
+It was ensured that the object point P1 and P2 were more than 3cm to get accurate results.
+It was ensured that enough light was in the laboratory for the optical pins at the object points to be seen through the transparent block for the images to be seen.
+It was ensured that the rectangular block was placed on its outline on the sheet until the images were viewed.
+CONCLUSION
+The refractive index of the glass block was found to be 1.626.
+REFERENCES
+Nelkon and Parker (1995) Advanced level physics, 7th edition. Published by CBS publishers and distributors, New Delhi; India. Pages 509-511 read.
+Young and Freedman (1999) University Physics, 9th edition. Addison-Wesley publishing company; New York. Pages 1085
+Physics Practical Work
+Experiment 8
+Ethel Osei - Tutu
+SM/SMS/08/0001
+Experiment 8					        	Date: 20th March, 2009
+TITLE: REFRACTION OF LIGHT
+AIM: To determine the refractive index of a glass block using Snell’s law.
+APPARATUS: glass block, optical pins, protractor (0.1º), drawing paper, a pair of   compass.
+DIAGRAM
+THEORY
+Refraction is the bending of a wave when it enters a medium where it has different speed. The refraction of light when it passes from a fast medium to a slow medium bends the light ray toward the normal to the boundary between the two media. The amount of bending depends on the indices of refraction of the two media
+As the speed of light is reduced in the slower medium, the wavelength is shortened proportionately. The frequency is unchanged; it is a characteristic of the source of the light and unaffected by medium changes.
+When we talk about the speed of light, we're usually talking about the speed of light in a vacuum, which is 3.00 x 108 m/s. When light travels through something else, such as glass, diamond, or plastic, it travels at a different speed. The speed of light in a given material is related to a quantity called the index of refraction, n, which is defined as the ratio of the speed of light in vacuum to the speed of light in the medium: 
+index of refraction : n = c / v 
+When a ray PA is incident in air on the air-glass boundary, it is refracted towards the normal  when it enters the glass (Fig. 1).some of the light is also reflected at A along AS but AS is a weak ray compared with the refracted ray. The ray AB in glass is also refracted at the glass-air boundary along BQ in air, away from the normal at B.
+From Snells law n (refractive index)  
+Where are the angle of incidence and angle of refraction respectively. From the diagram    
+But n    so n      
+PROCEDURE
+The glass block was placed on the white sheet of paper pinned to the drawing board. The edges of the glass block were traced on the drawing sheet and it corners labeled ABCD. The normal NOM was drawn. The angle of incidence i = 20º was drawn and two pins P1 and P2 were pushed into the paper along the line to represent the incident ray. The glass block was carefully replaced on the paper. The images of P1 and P2 were found by looking through the glass block along the side CD. While looking, two pins P4 and P3 were pushed on the drawing sheet so that they were in a straight line with the images of P1 and P2.the glass block was removed and the points P3 and P4 joined with a straight line. The line was produced to meet the side CD at Z. This is the emergent ray. Z and O (the point of mergence and the point of incidence) were joined. This represented the refracted ray. With centre O and a suitable radius, a circle cutting through the incident and the refracted ray at R and Q respectively was drawn. With set square perpendiculars RP and QS was drawn unto the normal NOM.RP, QS and the angle of refraction were measured and recorded. The experiment was repeated for angle of incidence i= 40º, 50º, 60º and 70º 
+TABLE OF RESULTS
+A graph of RP/mm against QS/mm
+        y = 1.5179x + 0.3036
+A graph of Y/mm against tan rº
+y = 60.706x - 0.182
+CALCULATION
+(1)From the graph of RP against QS, the slope was found to be 1.5179. This value represents the refractive index of the glass block.
+(2)The slope of Y against tan ro was found on the graph above to be 60.706mm.
+n = 1.5179
+c = 3.0 × 10^8 m/s
+n = c/v
+v = c/n
+   = (3.0×10^8) / 1.5179
+   = 1.976414784 × 10^8
+   = 1.976 × 10^8
+DISCUSSION
+From the experiment, it was observed that the angles of incidence were always greater than the angles of refraction. It is therefore deduced that the glass medium is denser and a such was expected to have a higher refractive index than air. In this experiment, the refractive index of the glass block was found to be 1.5179. This value is the approximate refractive index of crown glass.
+Also, from the calculation of speed of light in glass was found to be approximately 1.976 × 10^8 which is less than the speed of light in air, as expected.
+SOURCES OF ERROR
+Error due to parallax could have occurred. 
+The glass block was not transparent enough and this caused blurring of some of the images.
+PRECAUTIONS
+It was ensured that the object point P1 and P2 were more than 3cm to get accurate results.
+It was ensured that the rectangular block was placed on its outline on the sheet until the images were viewed.
+CONCLUSION
+The refractive index of the glass block was found to be 1.5179.
+REFERENCES
+Nelkon and Parker (1995) Advanced level physics, 7th edition. Published by CBS publishers and distributors, ; . Pages 509-511.
+Young and Freedman (1999) University Physics, 9th edition. Addison-Wesley publishing company; . Page 1085
+ |  |  |  |  | 
+20 | 13 | 0.2309 | 0.9 | 0.6 | 1.4
+40 | 26 | 0.4877 | 1.8 | 1.1 | 3.0
+50 | 30 | 0.5774 | 2.1 | 1.3 | 3.7
+60 | 36 | 0.7265 | 2.5 | 1.5 | 4.5
+70 | 38 | 0.7813 | 2.8 | 1.6 | 4.9
+i/º | r/º | tan rº | RP/mm | QS/mm | Y/mm
+20 | 13 | 0.2309 | 8 | 5 | 14
+40 | 25 | 0.4663 | 15 | 10 | 28
+50 | 29 | 0.5543 | 19 | 12 | 33
+60 | 35 | 0.7002 | 21 | 14 | 43
+70 | 38 | 0.7813 | 22 | 14 | 47

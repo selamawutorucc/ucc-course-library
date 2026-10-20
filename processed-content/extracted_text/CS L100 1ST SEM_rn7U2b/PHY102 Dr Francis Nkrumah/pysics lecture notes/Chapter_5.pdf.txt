@@ -1,0 +1,384 @@
+
+--- PAGE 1 ---
+Lecture 5: Newton’s Laws of Motion (Particle Dynamics I) 
+ 
+ 
+1
+Chapter 5:  Newton’s Laws of Motion  
+                          (Particle Dynamics I) 
+Introduction 
+Having learned how to describe motion, we can now turn to the more fundamental question of 
+what causes motion. An object is set into motion when it is pushed or pulled or subjected to a 
+force. The force can be described by the effect that accelerates or decelerates the object or 
+make changes in its position or in its shape. Such effects are described accurately by general 
+laws of motion, were first stated fully by Sir Isaac Newton (1642-1727). 
+ 
+In his Principia, Newton reduced the basic principles of mechanics to three laws:  
+ 
+“Every body continues in its state of rest, or uniform motion in a straight line, unless 
+compelled to change that state by forces impressed upon it. The change of motion of 
+an object is proportional to the force impressed upon it, and is made in the direction 
+of the straight line in which the force is impressed. To every action there is always 
+opposed an equal reaction; or, the mutual actions of two bodies upon each other are 
+always equal and directed to contrary parts.” 
+ 
+These laws are known as Newton's first law of motion, Newton's second law of motion, and 
+Newton's third law of motion, respectively. In this lecture, we shall examine each of these 
+laws in detail, and then give some simple illustrations of their use. 
+ 
+Newton's first law of motion (Law of Inertia) 
+After Aristotle, Galileo has spent much time for observing motion of a body. He has 
+recognized the motion of a body occurs under some forces that describe the motion and there 
+is any reason somehow the motion ends. So, Newton's first law was actually discovered by 
+Galileo and perfected by Descartes (who added the crucial proviso “in a straight line”'). This 
+law states that if the motion of a given body is not disturbed by external influences then the 
+body moves with constant velocity. In other words: 
+ 
+ 
+“If an object is at rest then it will remain at rest or if it is moving along a straight line 
+ 
+with uniform speed the it will continue to keep moving unless an external force is 
+ 
+applied on it to change its existing state.” (Newton’s First Law of motion is also 
+ 
+known as law of inertia). 
+ 
+This law defines us the force while the second law provide us the means how to measure the 
+force. Mathematically, the displacement 
+of the body as a function of time can be written 
+where r and v are constant vectors. As illustrated in Figure 1, the body's trajectory is a 
+straight-line which passes through point 
+0r at time 
+0
+t
+ and runs parallel to v . The special 
+case is in which 
+0
+v
+ the body simply remains at rest.  
+ 
+t
+v
+r
+r
+0
+ 
+(5.1)
+
+--- PAGE 2 ---
+Lecture 5: Newton’s Laws of Motion (Particle Dynamics I) 
+ 
+ 
+2
+t = t 
+t=0 
+r0 
+r 
+v 
+straight 
+line 
+ Nowadays, Newton's first law strikes us as almost a 
+statement of the obvious. However, in Galileo's time 
+this was far from being the case. From the time of the 
+ancient Greeks, philosophers--observing that objects set 
+into motion on the Earth's surface eventually come to 
+rest--had concluded that the natural state of motion of 
+objects was that they should remain at rest. Hence, they 
+reasoned, any object that moves does so under the 
+influence of an external influence, or force, exerted on 
+it by some other object. It took the genius of Galileo to 
+realize that an object set into motion on the Earth's 
+surface eventually comes to rest under the influence of 
+frictional forces, and that if these forces could 
+somehow be abstracted from the motion then it would 
+continue forever.  
+ 
+Newton's second law of motion (Fundamental Law of Dynamics) 
+Newton’s first law states that when no net force acts on an object, it stays at rest or in motion 
+with a constant velocity. The second law tells us what happens when this force is not zero. 
+Newton used the word “motion”' to mean what we nowadays call momentum. It is necessary 
+to take into account since the change in the momentum in time is the net force applied on the 
+object.  
+ 
+ 
+The second law tells us that 
+ 
+ 
+“The rate of change of momentum of a body is proportional to the applied force and 
+ 
+the change takes in the direction in which the force acts. There is a proportionality 
+ 
+constant called mass, the proportion of  the force to the acceleration, that is always  
+ 
+constant for a given object.” 
+ 
+To obtain the mathematical representations, let the momentum P of a body be simply defined 
+as the product of its mass m and its velocityv : i.e.,  
+v
+m
+P
+ 
+(5.2)
+Since the change in the momentum in time t causes a force, then 
+t
+P
+F
+ 
+(5.3)
+where the F vector represents the net influence, or force, exerted on the object, whose 
+motion is under investigation, by other objects. Then the momentum change is given by 
+Equation (5.1) 
+v
+m
+P
+v
+m
+P
+ 
+(5.4)
+inserting this result into the Equation (5.3), we get 
+a
+m
+F
+t
+v
+m
+F
+t
+v
+m
+t
+P
+F
+ that means 
+a
+m
+F
+ 
+(5.5)
+ 
+Figure 1: Straight line motion
+
+--- PAGE 3 ---
+Lecture 5: Newton’s Laws of Motion (Particle Dynamics I) 
+ 
+ 
+3
+As seen in the above; an object with constant mass, the above law reduces to its more 
+conventional form. In other words, the net force exerted on a given object by other objects 
+equals the product of that object's mass and its acceleration. Of course, this law is entirely 
+devoid of content unless we have some independent means of quantifying the forces exerted 
+between different objects. In the Equation (5.5), assume that values have values of 1. Then the 
+Equation (5.5) states that 1kg*m/s2 Force to a 1kg of mass gives 1m/s2 acceleration to this 
+mass. So, the unit of Force is kg*m/s2 that is called 1N (1 Newton). 
+ 
+Newton's third law of motion (The Law of Reaction) 
+Suppose that there are just two objects in the Universe: You and the Earth! And you are 
+walking on a street. At each step, your feet exert a force to the ground to move forward. Is it 
+true? Maybe the ground exerts some force in the opposite direction to you to slide under your 
+feet!  
+ 
+Suppose, now, that there are many objects in the Universe (as is, indeed, the case). According 
+to Newton's third law, if object b exerts a force 
+ab
+f
+ on object a then object a must exert an 
+equal and opposite force 
+ab
+ba
+f
+f
+ on object b , as seen Figure 2. That means b applies an 
+action on a , then as a result of this, a applies a reaction on b . It follows that all of the 
+forces acting in the Universe can ultimately be grouped into equal and opposite action-
+reaction pairs. Note, incidentally, that an action and its associated reaction always act on 
+different bodies. 
+ 
+The third law states that 
+ 
+“To every action there is always an equal and opposite reaction.” 
+ 
+Why do we need 
+Newton's third law?  
+ 
+Actually, it is almost 
+a matter of common 
+sense. Suppose that 
+bodies 
+a and b 
+constitute 
+an 
+isolated system. If 
+ab
+ba
+f
+f
+ then this system exerts a non-zero net force 
+ba
+ab
+f
+f
+f
+ on 
+itself, without the aid of any external agency. It will, therefore, accelerate forever under its 
+own steam. 
+ 
+We know, from experience, that this sort of behaviour does not occur in real life. For instance, 
+I cannot grab hold of my shoelaces and, thereby, pick myself up off the ground. In other 
+words, I cannot self-generate a force that will spontaneously lift me into the air: I need to 
+exert forces on other objects around me in order to achieve this. Thus, Newton's third law 
+essentially acts as a guarantee against the absurdity of self-generated forces.  
+ 
+ 
+ 
+Figure 2: Newton’s Third Law (Action-Reaction)
+
+--- PAGE 4 ---
+Lecture 5: Newton’s Laws of Motion (Particle Dynamics I) 
+ 
+ 
+4
+Mass and Weight 
+In fact, the terms mass and weight are often confused with one another. However, in physics 
+their meanings are quite distinct. 
+ 
+An object’s mass is a measure of its inertia: This means its reluctance to deviate from uniform 
+straight-line motion under the influence of external forces. According to Newton's second 
+law, Equation (5.5), if two objects of differing masses are acted upon by forces of the same 
+magnitude, then the resultant acceleration of the larger mass is less than that of the smaller 
+mass. In other words, it is more difficult to force the larger mass to deviate from its preferred 
+state of uniform motion in a straight line. Incidentally, the mass of a body is an intrinsic 
+property of that body, and, therefore, does not change if the body is moved to a different 
+place.  
+ 
+Figure 3: Weight 
+Imagine a block of iron resting on the surface of the Earth as seen in Figure 3. The block 
+applies a downward force 
+gf due to the gravitational attraction of the Earth. The magnitude 
+of the force is mg , where m is the mass of the block and g is the acceleration due to gravity 
+at the surface of the Earth. The block transmits this force to the ground below it, which is 
+supporting it, and, thereby, preventing it from accelerating downwards. In other words, the 
+block exerts a downward force
+W
+f
+, of magnitude mg , on the ground immediately beneath it. 
+We usually refer to this force (or the magnitude of this force) as the weight of the block. 
+According to Newton's third law, the ground below the block exerts an upward reaction force 
+Rf on the block. This force is also of magnitude mg . Thus, the net force acting on the block 
+is 
+0
+R
+g
+f
+f
+, which accounts for the fact that the block remains stationary. Where, you 
+might ask, is the equal and opposite reaction to the force of gravitational attraction 
+gf exerted 
+by the Earth on the block of iron? It turns out that this reaction is exerted at the centre of the 
+Earth. In other words, the Earth attracts the block of iron, and the block of iron attracts the 
+Earth by an equal amount. However, since the Earth is far more massive than the block, the 
+force exerted by the iron block at the centre of the Earth has no observable consequence. So 
+far, we have established that the weight W of a body is the magnitude of the downward force 
+it exerts on any object, which supports it. Thus, 
+mg
+W
+ where m is the mass of the body 
+and g is the local acceleration due to gravity. Since weight is a force, it is measured in 
+Newton. A body's weight is location dependent, and is not, therefore, an intrinsic property of 
+that body. For instance, a body weighing 
+N
+10
+ on the surface of the Earth will only weigh 
+about 
+N
+8.3
+ on the surface of Mars, due to the weaker surface gravity of Mars relative to the 
+Earth.
+
+--- PAGE 5 ---
+Lecture 5: Newton’s Laws of Motion (Particle Dynamics I) 
+ 
+ 
+5
+Consider a block of mass m resting on the floor of an elevator, as shown in 
+Figure 4. Suppose that the elevator is accelerating upwards with 
+acceleration a . How does this acceleration affect the weight of the block? 
+Of course, the block experiences a downward force mg due to gravity. Let 
+W be the weight of the block: by definition, this is the size of the 
+downward force exerted by the block on the floor of the elevator. From 
+Newton's third law, the floor of the elevator exerts an upward reaction force 
+of magnitude N on the block. 
+ 
+Let us apply Newton's second law, Equation (5.5), to the motion of the 
+block. The mass of the block is m , and its upward acceleration is a . 
+Furthermore, the block is subject to two forces: a downward force mg due 
+to gravity, and an upward reaction force N . Hence,  
+a
+m
+W
+N
+ 
+(5.6)
+then 
+ma
+mg
+N
+  
+(on the y-axis) 
+(5.7)
+This equation can be rearranged to give  
+)
+(
+a
+g
+m
+N
+ 
+(5.8)
+where the apparent weight will be greater than the actual weight. Clearly, it means that the 
+upward acceleration of the elevator has the effect of increasing the weight W of the block: for 
+instance, if the elevator accelerates upwards at 
+2
+/
+81
+.9
+s
+m
+g
+ then the weight of the block is 
+doubled. Conversely, if the elevator accelerates downward (i.e., if a becomes negative) then 
+the weight of the block is reduced: for instance, if the elevator accelerates downward at 
+2
+/
+g
+ 
+then the weight of the block is halved. Incidentally, these weight changes could easily be 
+measured by placing some scales between the block and the floor of the elevator.  
+ 
+Suppose that the downward acceleration of the elevator matches the acceleration due to 
+gravity, i.e. 
+g
+a
+. In this case, we will write 
+0
+W
+. In other words, the block becomes 
+weightless! This is the principle behind the so-called “Vomit Comet” used by NASA's 
+Johnson Space Centre to train prospective astronauts in the effects of weightlessness. The 
+“Vomit Comet” is actually a KC-135 (a predecessor of the Boeing 707 which is typically used 
+for refueling military aircraft). The plane typically ascends to 30,000ft and then accelerates 
+downwards at g (i.e., drops like a stone) for about 20s, allowing its passengers to feel the 
+effects of weightlessness during this period. All of the weightless scenes in the film Apollo 11 
+were shot in this manner. 
+ 
+Finally, let us suppose that the downward acceleration of the elevator exceeds the acceleration 
+due to gravity: i.e. 
+g
+a
+. In this case, the block acquires a negative weight! What actually 
+happens is that the block flies off the floor of the elevator and slams into the ceiling (if there is 
+a ceiling!). That means: When things have settled down, the block exerts an upward force 
+(negative weight) |W | on the ceiling of the elevator. 
+ 
+Figure 4: Weight 
+in an elevator

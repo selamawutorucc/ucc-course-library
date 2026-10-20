@@ -1,0 +1,44 @@
+
+--- SHEET: Catering Invoice ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  | 
+
+Invoice #:  5690B Date:    05/15/16
+MENU ITEM | UNIT PRICE | QUANTITY | LINE TOTAL
+Tamales: Carnitas | 2.29 | 20 | =B3*C3
+Tamales: Vegetable | 2.29 | 30 | =B4*C4
+Empanadas: Nutella & Banana | 3.99 | 40 | =B5*C5
+TAX |  |  | 
+TOTAL |  |  | 
+
+--- SHEET: Catering Subtotal ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 | 
+
+Invoice #:  5690B
+Date:    05/15/16
+MENU ITEM | UNIT PRICE | QUANTITY
+Empanadas: Poblano & Cheese | 2.79 | 35
+Empanadas: Spicy Sweet Potato | 2.29 | 20
+SUBTOTAL |  | 
+TOTAL W/ TAX |  | 
+
+--- SHEET: Challenge ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  | 
+
+Invoice #:  6710A Date:    10/15/16
+MENU ITEM | UNIT PRICE | QUANTITY | LINE TOTAL
+Empanadas: Buffalo Chicken | 2.98 | 20 | =B3*C3
+Empanadas: Braised Short Rib | 2.98 | 30 | =B4*C4
+Empanadas: Fig and Goat Cheese | 3.75 | 25 | =B5*C5
+Sides: Black beans and rice | 1.98 | 40 | =B6*C6
+TAX |  |  | 
+TOTAL |  |  | 
+TOTAL AFTER DISCOUNT: |  |  | 

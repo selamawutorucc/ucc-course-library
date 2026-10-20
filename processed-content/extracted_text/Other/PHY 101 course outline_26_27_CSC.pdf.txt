@@ -1,0 +1,487 @@
+
+--- PAGE 1 ---
+21st CENTURY COURSE OUTLINE FOR 2026/2027. 
+UNIVERSITY OF CAPE COAST 
+DEPARTMENT OF PHYSICS 
+FIRST SEMESTER-2026/2027 ACADEMIC YEAR 
+Course Code /Title: 
+PHY 101 
+GENERAL PHYSICS 1 (THEORY) 
+Credit:  (2 hours of lecture) 
+Lecturer: 
+Mr. Yusif Owusu   
+Office:  
+Physics Postgraduate Laboratory 
+Office Hours: As announced in class 
+Phone:  
+03321 32168 (Physics Office) and +233 541029972 (personal) 
+E-mail: 
+ yowusu002@stu.ucc.edu.gh 
+Meeting hours: See Time table – Any Extra Meeting Hour Needed (To be discussed in class) 
+Course Description 
+This course provides an introduction to general physics and in mechanics. The content deals with: 
+Introduction to mechanics, vectors, dynamics, kinematics, work and energy, elasticity, fluids and 
+thermodynamics. 
+ 
+ 
+ 
+ 
+ 
+Course Objectives: 
+At the end of the course, the student should be able to: 
+• 
+Identify physical quantities and standard units, deduce derived quantities from the fundamentals 
+and convert other units to SI units. 
+• 
+Differentiate between vectors and scalar quantities, identify components of vector, and apply 
+mathematical operators like addition, subtraction and multiplication on vectors. 
+• Define force, discuss types of forces, discuss Newton’s laws of motion, explain impulse and 
+momentum, discuss inelastic and elastic collision, strings and pulleys, inclined planes. 
+• Explain displacement, speed, velocity and acceleration, plot graphs of motion, and discuss the 
+following types of motion :( Circular motion, simple harmonic motion and projectile motion). 
+• Explain work, energy and power, derive expressions for work, kinetic energy, potential energy and 
+power. 
+• Explain elasticity, define Hooke’s law and describe an experiment to verify Hooke’s law, discuss 
+young’s modulus, shear modulus and bulk modulus.
+
+--- PAGE 2 ---
+• Explain the state of matter, explain density and relative density, discuss pressure in liquids, describe 
+an experiment to verify Pascal’s law and explain buoyancy and Archimedes principle. 
+• Explain kinetic theory of gases, discuss temperature scales, explain lab and clinical thermometers, 
+discuss heat capacities of matter and explain thermal conductivity. 
+ 
+ 
+Mode of Teaching: 
+The course is taught in two modes via face-to-face classroom setting and E-learning platform with relevant 
+teaching (visual and audio-visual) aids to enhance students’ understanding of the concepts. Lectures are 
+done in the form of discussion where students are allowed to express themselves in other to bring divers 
+ideas about the topic under consideration which promotes intellectual flexibility.  For each group 
+presentation, a leader is chosen by the members of the team and the rest support him/her. This help 
+individual students to improve their leadership skills. At end of every major topic, students are given trial 
+questions to solve to enable them to reflect on what have been discussed. 
+ 
+Mode of Assessment: Two (2) quizzes which carry 10 marks each, Assignments (10 marks) and Power 
+point presentations (10 marks). The created groups of students are given different topics to analyze 
+critically and present in class (Power point presentation). 
+Exams: The exams (60%) consist of qualitative and quantitative problems similar to those discussed in class and those 
+assigned for homework. 
+WEEK 
+TOPICS  
+OBJECTIVES 
+ACTIVITY 
+CORE VALUES 
+1 
+Introduction to 
+mechanics 
+➢ Fundamental and 
+Derived Quantities, 
+Standard Prefixes, 
+Unit Conversions 
+➢ Dimensional 
+Analysis    
+ 
+1. Identify physical 
+quantities and 
+standard units. 
+2. Deduce derived 
+quantities from the 
+fundamentals. 
+3. Write figures in 
+standard forms and 
+prefixes. 
+4. Convert other units 
+to SI units. 
+5. Apply dimension 
+analysis on some 
+equations.   
+ 
+Discussion of 
+physical 
+quantities and 
+their SI units. 
+Using 
+fundamental 
+quantities to 
+obtain SI units 
+of speed, force, 
+volume, etc. 
+Apply 
+dimension 
+analysis on 
+pressure, area, 
+volume, 
+density, etc. 
+Equal 
+opportunities and 
+brainstorming 
+enhanced. Identify 
+and derive. 
+ 
+2 & 3 
+Scalars and vectors  
+➢ Components of a 
+vector 
+➢ Unit vectors 
+➢ Addition and 
+subtraction of vectors 
+1. Identify scalar 
+and vector 
+quantities. 
+2. Identify 
+components of 
+vectors. 
+Discussion on 
+scalar and 
+vector 
+quantities with 
+examples. 
+Identifying 
+components of 
+Reason  
+Solve 
+Identify 
+Empowerment  
+ 
+ 
+Quiz 1
+
+--- PAGE 3 ---
+➢ Multiplication of 
+vectors 
+3.  Apply 
+mathematical 
+operators like 
+addition, 
+subtraction and 
+multiplication on 
+vectors. 
+vectors, 
+calculating their 
+magnitudes, 
+directions and 
+unit vectors. 
+Solve problems 
+on vectors. 
+  
+4 & 5 
+Dynamics 
+➢ Force and types of 
+forces  
+➢ Newton’s laws of 
+motion 
+➢ Impulse and 
+momentum 
+➢ Inelastic and elastic 
+collisions  
+➢ Strings, pulleys and 
+inclined planes   
+ 
+1. Define force. 
+2. Discuss types of 
+forces. 
+3. Discuss 
+Newton’s laws 
+of motion. 
+4. Explain impulse 
+and momentum.  
+5. Discuss inelastic 
+and elastic 
+collision, strings 
+and pulleys, 
+inclined planes. 
+Lecture/ 
+Discussion on 
+forces and types 
+of forces. 
+Power point 
+presentation by 
+groups on 
+Newton’s law 
+of motion. 
+Discussion and 
+solving 
+questions on 
+elastic and 
+inelastic 
+collisions, 
+strings, pulleys 
+and inclined 
+plane.   
+ 
+Assignment in 
+groups.  
+Team work 
+Leadership skills 
+Use of ICT 
+Equal opportunity 
+and empowerment 
+ 
+ 
+6 & 7 
+Kinematics  
+➢ Displacement, speed, 
+velocity and 
+acceleration  
+➢ Graphs of motion 
+➢ Circular motion  
+➢ Simple harmonic 
+motion 
+➢ Projectile motion 
+1. Explain 
+displacement, 
+speed, velocity 
+and acceleration. 
+2. Plot graphs of 
+motion. 
+3. Discuss the 
+following types 
+of motion: 
+i. 
+Circular 
+motion 
+ii. 
+Simple 
+harmonic 
+motion. 
+iii. 
+Projectile 
+motion  
+Lecture/ 
+Discussion on 
+displacement, 
+speed, velocity 
+and 
+acceleration.  
+Plotting 
+displacement-
+time graph, 
+velocity- time 
+graph, and 
+acceleration-
+time graph. 
+Discuss and 
+solve problems 
+on circular 
+motion, simple 
+harmonic 
+motion and 
+projectile 
+motion. 
+Students are 
+given 
+Assignment in 
+groups.  
+Team work 
+Leadership skills 
+Use of ICT 
+Equal opportunity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quiz 2
+
+--- PAGE 4 ---
+assignment on 
+the different 
+types of 
+motions. 
+  
+8 
+Work, Energy and 
+Power 
+ 
+ 
+1. Explain work, 
+energy and 
+power. 
+2. Derive 
+expressions for 
+work, kinetic 
+energy, potential 
+energy and 
+power. 
+3. Solve questions. 
+Lecture/ 
+Discussion on 
+work energy 
+and power. 
+Guiding 
+students to 
+solve problems 
+on work, energy 
+and power. 
+Students are 
+given problems 
+to solve. 
+  
+Assignment in a 
+groups.  
+Team work 
+Leadership skills 
+Use of ICT 
+Equal opportunity 
+9 & 10 
+Elasticity  
+➢ Stress and string  
+➢ Young’s modulus  
+➢ Shear modulus 
+➢ Bulk modulus 
+➢ Hooke’s law 
+ 
+ 
+1. Explain 
+elasticity. 
+2. Define Hooke’s 
+law. 
+3. Describe an 
+experiment to 
+verify Hooke’s 
+law. 
+4. Discuss young’s 
+modulus, shear 
+modulus and 
+bulk modulus. 
+5. Solve problems. 
+Lecture/ 
+Discussion on 
+elasticity and 
+Hooke’s law. 
+Describing an 
+experiment to 
+verify Hooke’s 
+law 
+Power point 
+presentation by 
+groups on 
+young’s 
+modulus, shear 
+modulus and 
+bulk modulus. 
+ 
+Assignment in 
+groups.  
+Team work 
+Leadership skills 
+Use of ICT 
+Equal opportunity 
+and empowerment. 
+ 
+11 
+Fluids 
+➢ State of matter (liquid 
+and gas) 
+➢ Density and Relative 
+density 
+➢ Pressure in liquids  
+➢ Pascal’s law 
+➢ Buoyancy and 
+Archimedes principle  
+ 
+ 
+1. Explain the state 
+of matter. 
+2. Explain density 
+and relative 
+density. 
+3. Discuss pressure 
+in liquids. 
+4. Describe an 
+experiment to 
+verify Pascal’s 
+law. 
+5. Explain 
+buoyancy and 
+Archimedes 
+principle. 
+Lecture/ 
+Discussion on 
+state of matter. 
+Explaining 
+density and 
+relative density. 
+Discussion on 
+pressure in 
+liquids. 
+Describing an 
+experiment to 
+verify Pascal’s 
+law. 
+Discussing on 
+buoyancy and 
+Reason  
+Solve 
+Identify 
+Empowerment  
+Team work
+
+--- PAGE 5 ---
+Tutorial sessions: 1 hour per week where Quizzes and Assignments are thoroughly discussed. 
+Reference 
+1. Halliday, D., Resnick, R., & Walker, J. (2021). Fundamentals of Physics (12th ed.). John Wiley & 
+Sons. 
+2. Serway, R. A., & Jewett, J. W. (2018). Physics for scientists and engineers. Cengage learning 
+ 
+3. Cutnell, J. D., & Johnson, K. W. (2014). Physics, Volume One: Chapters 1-17 (Vol. 1). John Wiley 
+& Sons. 
+ 
+ 
+Archimedes 
+principle 
+ 
+12 
+Heat energy 
+➢ Kinetic theory of 
+gases 
+➢ Temperature scales 
+➢ Lab and clinical 
+thermometers 
+compared 
+➢ Heat capacities of 
+matter  
+➢ Thermal conductivity 
+1. Explain kinetic 
+theory of gases. 
+2. Discuss 
+temperature 
+scales. 
+3. Explain lab and 
+clinical 
+thermometers. 
+4. Discuss heat 
+capacities of 
+matter. 
+5. Explain thermal 
+conductivity. 
+Lecture/ 
+Discussion on 
+kinetic theory 
+of gases and 
+temperature 
+scales. 
+Discussion on 
+lab and clinical 
+thermometer. 
+Power point 
+presentation by 
+groups on heat 
+capacities and 
+thermal 
+conductivity. 
+ 
+Assignment in 
+groups.  
+Team work 
+Leadership skills 
+Use of ICT 
+Equal opportunity 
+and empowerment. 
+ 
+13 
+Revision

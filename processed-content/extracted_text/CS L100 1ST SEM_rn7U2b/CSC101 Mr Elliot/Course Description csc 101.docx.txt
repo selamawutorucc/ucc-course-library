@@ -1,0 +1,175 @@
+UNIVERSITY OF CAPE COAST
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCES
+ SCHOOL OF PHYSICAL SCIENCES
+DEPARTMENT OF COMPUTER SCIENCE & INFORMATION TECHNOLOGY
+COURSE INFORMATION 
+Course Code: CSC 101
+Course Title: Introduction to Computers
+Credit hours: 3
+Semester: One
+Class Hours: Tuesdays 8:30am-10:30am @ NLT12 and Wednesdays 9:30-10:30am @ NLT12
+CONTACT DETAILS OF INSTRUCTOR 
+Name: Elliot Attipoe
+Email: eattipoe@ucc.edu.gh
+Mobile: 0243879458
+Office Hours: Wednesday – Friday, 10:00am – 3:00pm
+READING TEXT(S)
+Vermaat, M., E., Sebok, S., L., and Freund, S., M. (2014). Discovering Computers: Technology in a World of Computers, Mobile Devices, and the Internet, Course Technology, Cengage Learning
+Vermaat, M., Sebok, S. L., Freund, S. M., Frydenberg, M., & Campbell, J. T. (2016).
+Enhanced Discovering Computers© 2017. Nelson Education.
+National. (2015). Introduction to Computers and Information Technology. Prentice Hall.
+Halterman, R. L. (2019). Fundamentals of Python programming.
+COURSE DESCRIPTION
+This course introduces students to the application of computers and software in computer science. Students will learn fundamental concepts of hardware, software, networking, computer security, e-commerce, Google applications and programming in python. Additional lectures examine social, legal, ethical issues including privacy, intellectual property, health concerns, green computing, and accessibility. Students will also learn techniques to search, evaluate, validate, and cite information found online. Student s are also introduced to programming using the python programming language. The approaches that would be used in the delivery of this course would prepare students to be mindful of gender roles and issues about equity and inclusion by paying attention to the learning progress of all students.
+COURSE OBJECTIVES
+After successful completion of the course, the students will be able to:
+understand basic functions of computer hardware and software components including operating system functions
+evaluate specifications of computers and make informed decision when purchasing computers and other related technological devices.
+explain the applications of scanning technologies such as barcode, QR code, RFID and biometrics in society.
+identify various networks (LAN, WAN, intranet), protocols (TCP/IP, SMTP, POP & IMAP, HTTP & HTTPS, DNS), media types (wire pair, coaxial cable, fiber optics, microwave, radio frequency, infra-red), and network hardware (router, hub, gateway)
+know how to use search techniques (inclusion, exclusion, wildcards, phrase, Boolean search), evaluate the information found on Web pages (chat rooms, newsgroups, RSS, podcasting sites, Wikipedia, blogs), and cite electronic and printed references
+understand computer viruses, biometric devices, encryption technique, digital signature, email filtering, firewall, and precautions on Web
+understand ethical issues regarding copyright, software licenses, information privacy, intellectual property, content filtering, Spam, and laws enacted with regards to SPAM, children’s protection on Web, electronic communication, and electronic theft
+understand the use of tools, techniques and technology to safeguard computing resources.
+describe the basic phases of software development: analysis, design, coding, and testing
+construct  simple Python programs that performs inputs, calculations, and outputs
+COURSE CONTENT 
+Chapter One: Introduction to Computer Science 
+explain the computer science field 
+differentiate between computer science and information technology 
+career prospects in computing
+Chapter Two: Digital Literacy
+Emerging technologies in ICT
+Types of computers 
+Factors to consider when buying computers
+Components of computers (hardware and software)
+Software availability 
+Advantages and disadvantages of computers/technology in the society
+Chapter Three: Computer Hardware
+Understanding the system unit 
+Role of CPU
+Data representation 
+Selecting and using input devices 
+Selecting and using output devices 
+Selecting and using storage devices 
+Scanning technologies and devices (Barcode, QR Code, RFID and biometrics) 
+Types of printers 
+Computer ergonomics
+Chapter Four: The Internet
+Evolution of the Internet in the World and Ghana  
+Connecting to the Internet 
+Domain names and IP addresses 
+Types of websites 
+Evaluating the accuracy of websites
+Services on the Internet
+Searching for Information on the web
+E-commerce and types of E-commerce sites
+Internet revenue models 
+Netiquette
+Chapter Five: Digital Safety, Ethic and Security
+Technological ethical issues (unauthorized access and use, piracy, information accuracy, information privacy, intellectual property rights and green computing)
+Digital security risk
+Information systems vulnerabilities 
+Technology, tools and techniques for protecting computing systems and information resources
+Chapter Six: Introduction to Python programming language
+Fundamentals of Python 
+Working with Data 
+Input and Output 
+Making Decisions 
+Loops 
+Chapter Seven: Social media management
+Importance of social media management
+Choosing the right social media platforms 
+Using the right social media management tools 
+Managing and analyzing social media audience 
+Social media monitoring and reporting
+TEACHING AND LEARNING STRATEGIES
+case studies
+simulations
+discussion method
+group work
+project
+Problem-Solving
+lecture and exposition
+hands-on/lab sessions 
+ASSESSMENT
+A combination of formative and summative assessment including group tasks, quizzes, assignments and examination will be used.
+Student Assessment System
+CONTINUOUS ASSESSMENT:       40%
+END-OF-SEMESTER EXAMINATION: 60%
+The Continuous Assessment component consists of take home assignment, class quizzes and tests, and project work. This component give students the chance to demonstrate their abilities on a wider variety of learning tasks and a broader variety of work environments than is possible under formal examination conditions. For example, through Continuous Assessment students can learn the values and processes of team work, plan and solve real-life problems.
+GRADING SCALE
+The University uses letter grades and numerical weightings corresponding to the letter grades. The numerical weightings reflect the quality of performance. Total numerical weightings reflect the quality of performance. Total raw scores (combination of continuous assessment and end-of-semester examination) are converted according to the following scheme:
+COURSE POLICY
+Attendance: 100% attendance is required. Attendance to all sessions is compulsory. By the University regulations you must support any absenteeism by the appropriate report. 
+Code of conduct: You should be punctual at all sessions and conduct yourself at same in a professional manner. You must also switch your phone to silent mode.
+Cheating/Plagiarism: Cheating and plagiarism of any kind will not be tolerated and will attract the appropriate sanctions as stipulated in the students’ handbook.
+Assignment submission: All work should be submitted by the deadline. 
+Referencing: Use APA style in your essays/project write-up as stipulated in the School of Graduate Studies theses and dissertation guide.
+SCHEDULE 
+RAW SCORE | GRADE | CREDIT VALUE | INTERPRETATION
+80 – 100 | A | 4.0 | Excellent
+75 – 79 | B+ | 3.5 | Very Good
+70 – 74 | B | 3.0 | Good
+65 – 69 | C+ | 2.5 | Average
+60 – 64 | C | 2.0 | Fair
+55 -59 | D+ | 1.5 | Barely Satisfactory
+50 – 54 | D | 1.0 | Weak Pass
+Below 50 | E |  | Fail
+Week | Content  | Objective 
+Students will be able to: | Activities 
+1 | Introduction to Computer Science  | explain the fields of computer science 
+differentiate between computer science and information technology degrees  
+identify career prospects in computing | Lecture/Discussion
+2 | Digital Literacy  | explore emerging technologies in ICT 
+definition of computer
+categorize computers  
+identify factors to consider when buying computers
+identify and explain the various components of computers 
+explain the role the OS
+explain the advantages and disadvantages of technology in the 21st century.
+ | Discussion/group work
+3 | Computer Hardware  | check the specifications of computer system.
+explain the meaning of the specifications and its impact on computer systems 
+Understand how data is represented on the computer system.  
+Explain how scanning technologies such as Barcode, QR Code, RFID and biometrics are used in applications.
+Understand how to practice ergonomic principles to reduce risk of injuries whiles using computers. | Group work/Discussion/Lecture
+4 & 5 | The Internet  | Discuss the evolution of the Internet in the World and Ghana.
+Explain the fundamentals and computer networks.
+Describe various broadband Internet connections
+Describe the purpose of an IP address and its relationship to a domain name
+describe a criteria used to evaluate the accuracy of websites and other online resources for academic work
+Describe uses of various types of websites: 
+Explain benefits and risks of using online social networks
+Explain e-commerce and the various types
+Describe ways of generating revenue online
+Identify the rules of netiquette | Group work/ Class Discussion/Case Studies
+6 | Digital Safety, Ethic and Security  | Discuss areas of computer ethics such as unauthorized access and use of computers, piracy, information accuracy, information privacy, intellectual property rights and green computing. 
+Explain why computing systems are vulnerable to attacks and destruction.
+Describe various types of Internet and network attacks (malware, botnets, denial of service attacks, back
+doors, and spoofing) and explain ways to safeguard against these attacks, including firewalls
+Discuss techniques to prevent unauthorized computer access and use, including access controls, user
+names, passwords, possessed objects, and biometric devices
+Explain ways that software manufacturers protect against software piracy
+Discuss how encryption, digital signatures, and digital certificates work
+Identify safeguards against hardware theft, vandalism, and failure
+Explain options available for backing up
+Discuss other tools, technique and technology for protecting information resources 
+ | Project/Discussion/ Case Studies/Lecture
+7-9 | Introduction to Python programming language  | Describe the basic phases of software development: analysis, design, coding, and testing
+Use strings for the terminal input and output of text
+Use integers and floating-point numbers in arithmetic operations
+Construct arithmetic expressions
+Initialize and use variables with appropriate names
+Import functions from library modules
+Call functions with arguments and use returned values appropriately
+Construct a simple Python program that performs inputs, calculations, and outputs
+Write a loop to repeat a sequence of actions a fixed number of times
+Write a loop that counts down and a loop that counts up
+Write an entry-controlled loop that halts when a condition becomes false
+Construct appropriate conditions for condition-controlled loops and selection statements
+Use logical operators to construct compound Boolean expressions | Project/ Simulation, Problem-Solving, Discussions, Hands-on/lab sessions
+10 | Social Media Management  | Explain the importance of social media management
+Choose the right social media platforms 
+Understand and use the right social media management tools   | Group work and presentations
+11-12 | Revision  |  | 

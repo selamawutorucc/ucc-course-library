@@ -1,0 +1,65 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL								SM/SMS/10/0026
+MED 112				GROUP 19
+EXPERIMENT 3									19TH FEBRUARY, 2010
+VIBRATION OF STRINGS
+AIM: 
+This experiment aims to determine and measure the density of a material in the form of a string (e.g. constantan).
+APPARATUS:  String tensioning device (1), nickel wire (1), meter scale, demo, l = 1000mm (1), spring balance (1), striking rubber hammer (1), photo element f. opt. base plt. (1), lamp holder E10, housing G1 (1), lamp bulb 6 V/3 W, E10 (1), distributor (1), oscilloscope, 30 MHz, 2 channels (1), LF amplifier, 220 V (1), digital counter, 4 decades (1), plug with push-on sleeve (1), adapter, BNC socket – 4mm (2), adapter, BNC-plug/socket 4mm (1), connector, T type, BNC (1), screened cable, BNC, l = 750mm, screened cable, BNC, l = 300mm, connecting cord, l = 750mm (red and blue, 1 each).
+DIAGRAM/SETUP:
+THEORY: The fundamental frequency of a string of length l tensioned at both ends is given by: f = 1/2L x (√T/µ), where T = tension and µ = mass per unit length. This theory basically states that the frequency at which a string vibrates is directly equivalent to one over twice the length of the string multiplied by the squared root of the tension in the string over the squared root of the mass per unit length of the string. Standing waves arise because identical waves (equal frequency, velocity and amplitude) travel on a string in opposite directions in the same medium and combine in accord with the principle of superposition on each other. Consider a string that has length L and is fixed at both ends. The string has numerous natural patterns of vibration known as normal modes and each of these has a characteristic frequency. The normal modes form a harmonic series. The first harmonic with the lowest frequency is called the fundamental note and its frequency is referred to as the fundamental frequency. The second harmonic is also known as the first overtone.
+Consider the normal mode in which the centre is an antinode and the ends are nodes, the length of the string equals λ/2.
+L=λ1/2
+λ1= 2L
+In general, the wavelengths of the various normal modes can be expressed as:
+λn= where n refers to nth mode of vibration.
+The natural frequencies associated with these modes are obtained from the relationship f=v/ λ, where the wave speed is the same for all frequencies. Based on this:
+fn= =
+v= where T = tension in the string and µ= mass per unit length.
+fn=
+Therefore, for the lowest frequency corresponding to n=1:
+f1=.
+It follows therefore that the frequency of a stretched string is inversely proportional to its length       f α 1/l. The pitch of a note is inversely proportional to the length of a string for the same string under the same tension.
+PROCEDURE: The string was laid across two triangular sliders clamped between a fixed hook and a spring balance, as shown above. The string balance was attached to a string tensioned with fishing line. The tensioned force was exactly 10 N. The string length was set by moving the triangular sliders along the measuring scale. The vibration of the string was then optically scanned midway between the sliders. The signal from the photo-cell, fitted with an aperture slit, was amplified and transmitted to the oscilloscope and the counter/timer. The string vibration was to be started with a gentle tap of the rubber hammer, and the counter/timer was to be started once the harmonics had died away. The tension and diameter of the nickel string used were measured and recorded. With the tension constant at 10 N, a string length of 40cm was measured between the two triangular sliders, the counter/timer device was set to record frequency (KHz), the sensor was aligned to the string using light so that the counter read zero, the start button was pushed and then the string was struck gently at the middle, between the two triangular sliders, to start the vibrations. Once the frequency became stable; the harmonics died away, the stop button was pushed and the frequency was recorded. The process was repeated for four other values of the l = 50, 60, 70, and 80 cm. The frequency at these lengths was recorded.
+TABLE OF RESULTS (OBSERVATIONS):
+Calculation of µ (mass per unit length) and density of string:
+Using the equation: f = 1/2L (√T/ µ), which can be simplified as:
+[f (2L)]2 = (√T/ µ) 2
+[f (2L)]2 = (T/µ)
+µ [f (2L)]2 = T
+µ = T/ [f (2L)]2, the mass per unit length of each string of different length can be determined as follows:
+For string of length 40cm,
+µ = 10/ [0.127(2x40)]2
+µ = 0.0969
+For string of length 50cm,
+µ = 10/[0.102(2x50)]2
+µ = 0.0961
+For string of length 60cm,
+µ = 10/[0.085(2x60)]2
+µ = 0.961
+For string of length 70cm,
+µ = 10/[0.073(2x70)]2
+µ =  0.0957
+For string of length 80cm,
+µ = 10/[0.061(2x80)]2
+µ = 0.105
+GRAPH OF F/KHZ AGAINST 1/L:
+DISCUSSION:
+According to the results obtained from the experiment; looking at the first table, with constant tension of 10N in a string, the frequency of vibration decreases as the length of the string increases. That is an inverse proportionality relation. Although the same string was used in this experiment, the change in length of the string had a direct influence on the mass per unit length of the string, as is shown in the calculations above. It can also be observed that the frequency of vibration in the string was directly dependent on the tension in the string and inversely dependent on the mass per unit length of the string. The graph shows a correlation between the frequency of vibration and one by each of the lengths of the string used in the experiment. It clearly shows an inverse relationship between frequency and the length of the string, as the slope of the graph shows. In view of these observations, it can be concluded from the simplified equation of the theory above that theory is correct.
+SORCES OF ERROR:
+- Errors may have occurred from the measuring instrument, which was moved when the length of the string was being set. This may have caused inaccuracy in length determinations.
+- The digital oscilloscope may have given inaccurate readings of the exact frequency of vibration because of inaccuracy in placing the string directly in front of its scanner.
+PRECAUTIONS:
+- The equipment was reset after every reading.
+- The string was struck at the same point each time to ensure accuracy and uniformity in each of the values of frequency taken.
+ CONCLUSION:
+The aim of the experiment to determine the density; the mass per unit length of the string was achieved, and the theory was proved to be accurate.
+REFERENCES:
+Serway A. Raymond & Faughn S. Jerry, (2003), College Physics, 6th Edition Thomson Learning Inc. Australia, pages 442- 443.
+Nelkon and Parker(1995) Advanced Level Physics (7th Edition) CBS Publishers, New Delhi(India), pgs 214 - 218
+L/cm | F/KHz | 1/L
+40 | 0.127 | 0.025
+50 | 0.102 | 0.020
+60 | 0.085 | 0.017
+70 | 0.073 | 0.014
+80 | 0.061 | 0.013

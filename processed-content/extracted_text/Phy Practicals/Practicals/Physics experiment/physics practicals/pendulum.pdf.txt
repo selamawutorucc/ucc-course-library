@@ -1,0 +1,998 @@
+
+--- PAGE 1 ---
+Aim :  To study how the time period of a simple pendulum changes when
+its amplitude is changed.  
+Name: Suvrat Raju
+Class: XIID
+Board Roll No.: 
+———————————
+Teacher’s Signature
+
+--- PAGE 2 ---
+Table of Contents
+Aim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+Apparatus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+Theory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+General Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+The time period for small amplitudes . . . . . . . . . . .3
+The equation of motion for large amplitudes . . . . . .5
+The Jacobian elliptic functions . . . . . . . . . . . . . . . . .9
+Time period for large amplitudes . . . . . . . . . . . . . . . . . . . . .12
+Details about the method of experimentation  . . . . . . . . . . .15
+Procedure   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+Observations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Calculations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Graph . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+Result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+Precautions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+Sources of Error . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+
+--- PAGE 3 ---
+Aim
+To study how the time period of a simple pendulum changes when its
+amplitude is changed. 
+Suvrat Raju
+Physics Project
+1
+
+--- PAGE 4 ---
+Apparatus
+Small heavy bob,
+String,
+Clamp Stand,
+Split Cork,
+Glass rod,
+Stop watch,
+Vernier Calipers,
+Scissors,
+Match Box,
+Candle.
+Suvrat Raju
+Physics Project
+2
+
+--- PAGE 5 ---
+Theory
+Introduction
+A simple pendulum ideally consists of a small heavy bob attached to a rigid
+support by means of a light inextensible string.  When we speak of the motion
+of the simple pendulum, we refer to the oscillations it performs, when the
+bob is taken to a height (the string remaining taut) and released. 
+Further, with reference to the above kind of motion, we define amplitude,
+time-period, and frequency as follows
+Amplitude :-  The amplitude of a simple pendulum is defined as the
+maximum angular deviation from the mean position of the bob.
+Oscillations :- If the pendulum moves from one extreme position to the other
+and back to the first it is said to have performed one oscillation.
+Time Period :- The time period of the simple pendulum is defined as the
+time required by the pendulum to complete one oscillation.
+Frequency :- The frequency of the simple pendulum is defined as the number
+of oscillations performed per unit time.
+General Discussion
+The time period for small amplitudes
+For very small amplitudes, the motion of the
+simple pendulum may be approximated by
+simple harmonic motion. In this case we have
+:
+F  =  mg sin θ,
+(1)
+where F  is the restoring force acting on the
+pendulum, m is the mass of the bob, g is the
+acceleration due to gravity and θ is the angular
+displacement.
+Further, for small θ,
+θ
+l
+mgmg cosθ
+mg sinθ
+Fig. 1: The geometry of the simple
+pendulum
+Suvrat Raju
+Physics Project
+3
+
+--- PAGE 6 ---
+sin θ ≈ θ.
+(2)
+Therefore, equation  (1) reduces to 
+F  ≈  mg θ.
+(3)
+By Newton’s second law of motion, 
+F  =  mx...
+(4)
+Here, x  =  l sin θ = l θ, by virtue of (2), so  x..  =  l θ.., and  using (3) and (4),
+we get
+θ.. = −g
+l θ
+(5)
+This is the same as the equation of motion for the simple harmonic motion
+θ.  =  −p2θ,
+(6) 
+with 
+p2 = g
+l , 
+(7)
+which has the solution 
+θ = A sin(pt+ϕ),
+(8)
+Suvrat Raju
+Physics Project
+4
+
+--- PAGE 7 ---
+representing a simple harmonic motion with amplitude A, and initial phase ϕ.
+The time period for this simple harmonic motion is 2π
+p . Putting back the value
+of p  from equation  (7) we get the well-known expression for the time period
+of the simple pendulum as:
+T = 2π√⎯
+l
+g
+(9)
+The equation of motion for large amplitudes
+The above expression, however,  is not valid for large amplitudes, since
+the assumption sin θ ≈ θ no longer provides a good approximation for large
+θ. Therefore, we shall now endeavour to derive an exact equation of motion
+for the simple pendulum which will include the case of large amplitudes.  We
+will see that the differential equation obtained is not analytically solvable.
+The analysis is interesting because it shows that the time period of the simple
+pendulum is dependent on the amplitude.
+Let  l  be the length  of the pendulum and let P,  K, and E  be respectively
+the potential energy, kinetic energy and total energy of the system.  Then 
+P = − mgl cos θ,
+(10)
+and
+K = 1
+2ml2θ
+. 2
+(11)
+since the velocity of the center of mass, at any instant, is lθ.. Hence,
+E = P + K = 1
+2ml2 θ
+. 2 − mgl cos θ
+(12)
+Suvrat Raju
+Physics Project
+5
+
+--- PAGE 8 ---
+At its maximum displacement the pendulum is instantaneously at rest. That
+is, if α is the amplitude of the pendulum, then for θ = α we have θ. = 0.
+Substituting in  (12) we get
+E = − mgl cos α
+(13)
+Therefore,  equation (12) reduces to 
+−mgl  cos α = 1
+2ml2θ
+. 2 − mgl  cos θ
+(14)
+⇒ 1
+2ml2 θ
+. 2 = mgl cos θ − mgl cos α
+⇒ θ
+. 2 = 2p2 ( cos θ − cos α ) = 4p2 ( sin2 α
+2 − sin2 θ
+2 ),
+(15)
+where p2 = g
+l , as before, and the second equality follows from the well-
+known identity cos θ = cos (θ
+2 + θ
+2) = cos2 θ
+2 − sin2 θ
+2 = 1− 2 sin2 θ
+2.
+Let us define ϕ by 
+sin ϕ  =  
+sin θ
+2
+sin α
+2
+⇒ sin θ
+2 = sin α
+2 sin ϕ.
+(16)
+Differentiating (16), we get  
+Suvrat Raju
+Physics Project
+6
+
+--- PAGE 9 ---
+1
+2 cos θ
+2 ⋅ θ. = sin α
+2 cos ϕ ⋅ ϕ.
+(17)
+Multiplying (15) by 1
+4 cos2 θ
+2 , we get
+1
+4cos2 θ
+2 ⋅ θ
+. 2 = p2cos2 θ
+2 ⋅ ( sin2 α
+2 − sin2 θ
+2 ).
+(18)
+The l.h.s. of (18) is the square of the l.h.s. of (17), so it may be replaced by
+the square of the r.h.s. of (17)  to obtain
+sin2 α
+2 cos2 ϕ ⋅ ϕ
+. 2 = p2cos2 θ
+2 ⋅ ( sin2 α
+2 − sin2 θ
+2 ).
+(19)
+Substituting for sin2 θ
+2  in the r.h.s. from (16), we obtain
+sin2 α
+2 cos2 ϕ ⋅ ϕ
+. 2 = p2cos2 θ
+2 ⋅ ( sin2 α
+2 − sin2 α
+2 sin2 ϕ)
+(20)
+⇒sin2 α
+2 cos2 ϕ ⋅ ϕ
+. 2 = p2 cos2 θ
+2 sin2 α
+2 cos2 ϕ.
+(21)
+⇒ϕ
+. 2 = p2(1 − sin2 θ
+2),
+(22)
+upon canceling the common factors. 
+Again using (16), 
+ϕ
+. 2 = p2 (1 − sin2 α
+2 sin2 ϕ ).
+(23)
+Suvrat Raju
+Physics Project
+7
+
+--- PAGE 10 ---
+If we multiply this equation by cos2 ϕ , we get 
+ϕ
+. 2cos2 ϕ = p2cos2 ϕ(1 − sin2 α
+2sin2 ϕ).
+(24) 
+If we now put,
+y = sin ϕ = 
+sin θ
+2
+sin α
+2
+,
+(25)
+we have
+y. = ϕ. cos ϕ
+(26) 
+and  
+1 − y2 = cos2 ϕ.
+(27)
+Further,  putting
+k = sinα
+2
+(28)
+and substituting in  (24), we get
+y
+.2 = p2(1 − y2)(1 − k2y2).
+(29)
+Suvrat Raju
+Physics Project
+8
+
+--- PAGE 11 ---
+To get rid of the constant p2 let us define a new variable 
+x = pt
+(30)
+so that
+dy
+dx = dy ⁄ dt
+dx ⁄ dt = y.
+p  .
+(31)
+Substituting in (29) we get
+⎛
+⎜
+⎝
+dy
+dx
+⎞
+⎟
+⎠
+2
+ = (1 − y2)(1 − k2y2)
+(32)
+The Jacobian elliptic functions
+The above equation (32) cannot be solved in terms of elementary functions.
+Nor is the above form suited for numerical computations. Thus, it is obvious
+from physical considerations that the angular displacement of the pendulum
+reaches a maximum and then starts diminishing. Hence, from the definition
+of y in (25), and the definition of ϕ in (16), it is clear that y must reach a
+maximum and then start decreasing. Hence, the sign of dy
+dx will change as y
+crosses its maximum.  But, for numerical computation, the sign of the square
+root must be specified unambiguously. In order to do this,  we now need to
+transform the above equation.
+We define the function sn (x) to be that solution of  (32) which satisfies the
+conditions 
+sn(0) =0,        sn′(0) > 0.
+(33)
+Suvrat Raju
+Physics Project
+9
+
+--- PAGE 12 ---
+Using sn (x),  we define two more function cn (x) and dn (x) as follows 
+cn2 x  = 1 − sn2 x,    cn 0 = 1,
+(34)
+dn2 x  = 1 − k2 sn2 x     dn 0 = 1,
+(35)
+with the further condition that the function and their derivatives be con-
+tinuous. 
+Since sn (x) has been defined as a solution of equation (32), it satisfies that
+equation. That is, 
+⎛
+⎜
+⎝
+d
+dxsn x⎞
+⎟
+⎠
+2
+ = (1 − sn2 x)(1 − k2sn2 x).
+(36)
+Substituting from (34) and (35) we get  
+⎛
+⎜
+⎝
+d
+dxsn x⎞
+⎟
+⎠
+2
+ = cn2 x ⋅ dn2 x.
+(37)
+We can now specify the sign of the square root in (32). This specification,
+due to the mathematician Jacobi, now takes on the elegant form
+ d
+dxsn x = cn x dn x.
+(38)
+Differentiating  (34), we get
+2 cn x  d
+dx cn x = −2 sn x  d
+dx sn x = −2sn x cn x dn x.
+(39)
+Suvrat Raju
+Physics Project
+10
+
+--- PAGE 13 ---
+where the second equality follows from an application of (38). Thus, cancel-
+ing 2cn x from both sides, we obtain
+d
+dxcn x = − sn x dn x
+(40)
+Similarly, differentiating (35), we get
+2dn x d
+dxdn x = −2k2sn x d
+dxsn x = −2k2sn x cn x dn x
+where the second equality again follows from (38). The above equation
+simplifies to 
+d
+dxdn x = − k2 sn x cn x
+(41)
+These three simultaneous differential equations (38), (40), and (41) can now
+be numerically solved to obtain the values of sn x, cn x, dn x. This also solves
+the equation (32), which, by definition of sn x,  has the solution 
+y = sn x + constant.
+(42)
+Using the definition of y in (25), and the definition of x in (30), this allows
+us to express the angular displacement θ as a function of time t. 
+θ = 2 sin−1 [sin α
+2 ⋅ sn(pt) + constant]
+(43)
+Suvrat Raju
+Physics Project
+11
+
+--- PAGE 14 ---
+where the constant is fixed by the initial conditions. 
+The three functions sn x, cn x,  and dn x are known as the Jacobian elliptic
+functions.  As can be seen from the definition (35), for k = 0, the function
+dn x ≡ 1. For this case of k = 0, the equations (38) and (34) are satisfied by
+the usual trigonometric functions, so that sn x reduces to sin x, and cn x
+reduces to cos x. Thus, the Jacobian elliptic functions may be considered
+generalizations of the trigonometric functions. The graphs of these periodic
+functions also are very similar to those of the trigonometric functions, though
+not  identical.
+Time period for large amplitudes
+The results of numerically computing the time-period of sn x  are given
+below. This computation shows that theoretically the time period of the
+simple pendulum must change with the amplitude From equation  (43) we
+can see, that the θ is periodic with the same period as that of sn. Also,
+according to the standard result,† sn x has the period  4K, where
+4K = ∫ 
+0
+1
+ 
+dy
+√⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+(1 − y2)(1 − k2y2)
+(44)
+Using x = pt, the time period of oscillation of the simple pendulum is given
+by 
+T = 4K
+p = 4
+p∫ 
+0
+1
+ 
+dy
+√⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+(1 − y2)(1 − k2y2)
+(45) 
+substituting y = sin ϕ back into the equation, we get 
+Suvrat Raju
+Physics Project
+12
+†
+J.L Synge and B.A. Griffith, Principles of Mechanics , McGraw-Hill, New York, 1959, Third Edition, p 334.
+
+--- PAGE 15 ---
+T = 4
+p∫ 
+0
+π
+2
+ 
+dϕ
+√⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+(1 − k2sin2 ϕ)
+(46)
+As already observed, this elliptic integral must be evaluated numerically. But
+an analytical approximation may be used as a quick check of the numerical
+computation. On binomial expansion of the integrand in (46) we get,
+T = 4
+p  ∫ 
+0
+π
+2
+     
+⎛
+⎜
+⎝
+⎜
+⎜
+1 + 1
+2k 2sin2 ϕ + 1⋅3
+2⋅4 k 4sin4 ϕ + …+ 
+⎞
+⎟
+⎠
+⎟
+⎟
+dϕ.
+(47)
+Now,
+∫ 
+0
+π
+2
+    d ϕ = π
+2,
+(48) 
+while, 
+I = ∫ sin2ϕ dϕ = ∫ sin ϕ ⋅ sin ϕ = ∫ (−cos ϕ)′ ⋅ sin ϕ dϕ = −cos ϕ ⋅ sin ϕ + ∫ cos2 ϕ
+= −cos ϕ sin ϕ + ∫ (1−sin2 ϕ)dϕ = −cos ϕ sin ϕ + ∫ dϕ − ∫ sin2 ϕ dϕ.
+Hence,
+ 2I = −cos ϕ sin ϕ + ∫ dϕ, which implies
+∫ sin2 ϕ = 1⁄2∫ dϕ − 1⁄2 sin ϕ cos ϕ
+(49)
+so that, 
+Suvrat Raju
+Physics Project
+13
+
+--- PAGE 16 ---
+∫ 
+0
+π
+2
+    sin2 ϕ d ϕ = 1
+2 ⋅ π
+2.
+(50)
+Similarly,
+ I1 = ∫ sin4 ϕ dϕ = ∫ sin3 ϕ ⋅ sin ϕ dϕ = ∫ sin3 ϕ ⋅ (−cos ϕ)′ dϕ
+= −sin3 ϕ cos ϕ + ∫ cos ϕ ⋅ 3sin2 ϕ ⋅ cos ϕ dϕ 
+= −sin3 ϕ cos ϕ + ∫ 3sin2 ϕ(1−sin2 ϕ)dϕ
+= −sin3ϕ cos ϕ +3∫ sin2ϕ dϕ −3I1, which implies
+∫ sin4ϕ = 3
+4 ∫ sin2ϕ dϕ − 1
+4sin3ϕ cos ϕ
+(51)
+so that 
+∫ 
+0
+π
+2
+    sin4 ϕ d ϕ = 3
+4 ⋅ 1
+2 ⋅ π
+2
+(52)
+which gives us 
+T = 2π
+p 
+⎛
+⎜
+⎝
+⎜
+⎜
+1 + ⎛
+⎜
+⎝
+1
+2
+⎞
+⎟
+⎠
+2
+k2 +⎛
+⎜
+⎝
+1
+2 ⋅ 3
+4
+⎞
+⎟
+⎠
+2
+k4 + ... 
+⎞
+⎟
+⎠
+⎟
+⎟
+(53)
+Putting back p2=g
+l  and k = sin1
+2α and taking only the first term in (53) we
+get as the  first approximation, 
+Suvrat Raju
+Physics Project
+14
+
+--- PAGE 17 ---
+T = 2π√⎯
+l
+g
+(54)
+which agrees with equation (9).
+On taking the second term in (53) we get an improved second approximation,
+T = 2π√⎯
+l
+g  ⎛⎜⎝
+1 + α2
+16
+⎞⎟⎠
+(55)
+which clearly shows us that the time period varies rather significantly with
+the amplitude.
+Details about the method of experimentation 
+While trying to test the above theory, the primary practical problem that arose
+was to find a method to measure the amplitude accurately.  The second
+problem was to ensure that the bob oscillated in one plane. The third problem
+was to ensure, that no force was inadvertently applied while releasing the
+bob. All three problems were solved by using the apparatus detailed  in the
+diagram.
+Mainly, the apparatus consisted of a clamp
+stand to which a split cork was attached, and
+through which the string BC(see figure) was
+passed and tied to the bob. By varying the
+length of the string, the length of the simple
+pendulum could be varied. Further, a horizon-
+tal  glass rod was also attached  to  the stand.
+Now another string of known length AC was
+tied to the bob, and was looped over the glass
+rod as shown. By measuring  AB and using the
+two known lengths AC and BC, the angle θ
+could be calculated using trigonometry. 
+Now, when the reading was to be taken, the
+string  attached to the glass rod was cut causing
+the bob to start oscillating. This ensured that no external force was applied
+to the bob, and this also ensured  that  it moved in a single plane.  
+Bob
+Clamp Stand
+String(to be
+cut)
+String
+θ
+A
+B
+C
+Fig: 2 A shematic depiction of the appratus
+Suvrat Raju
+Physics Project
+15
+
+--- PAGE 18 ---
+Procedure  
+1) First the radius of the bob was measured using Vernier calipers. 
+2) Now a string was tied to the bob, and  a length of 100 cm(including the
+hook and the radius of the bob) was marked. 
+3) The string was now passed through a split cork attached to a clamp stand.
+It was lowered, till the length through the split cork exactly equaled 100 cm.
+4) Now, a horizontal glass rod was also clamped to the stand at one end and
+another stand, exactly  parallel to the original stand, at the other end. The
+arrangement was such that the top of the rod touched the split cork.
+5) Now another string was tied to the bob. A known length was marked out
+on it.
+6) This string was  now tied at the glass rod, at a specific distance  from the
+split cork so that the amplitude equaled a desired angle.
+7) Now this second string was burnt, using a candle, and the stop watch was
+started. 
+8)  After a specified number of oscillations, the stop watch was stopped. The
+elapsed time was divided  by the number of oscillations to give the time
+period.
+9) This procedure was repeated both for different angles and for different
+lengths of the pendulum.
+Suvrat Raju
+Physics Project
+16
+
+--- PAGE 19 ---
+Observations 
+Two sets of observations were taken. In one, the length of the simple
+pendulum was 100 cm and  20 oscillations were timed. In the other, the length
+of the pendulum was 80 cm and 10 oscillations were timed.  These numbers
+were taken, because for a larger number of oscillations, the amplitude was
+observed to change considerably due to damping. This was also done, in
+order to get maximum variety, as factors such as damping would effect the
+second set less, but random errors would be minimized in the first. 
+Least count of the stop watch — 0.1 s
+Least count of the metre scale — 0.1 cm 
+radius of the bob — 0.9 cm
+Length of the pendulum — 100 cm
+No of oscillations timed — 20
+S. No 
+Amplitude (0)
+Time
+required (s)
+Observed
+Time period
+(s)
+Expected
+Time period
+(s)
+Classical
+Time period
+(s)
+1
+60
+41.9
+2.095
+2.153
+2.006
+2
+55
+41.7
+2.085
+2.128
+2.006
+3
+50
+41.5
+2.075
+2.107
+2.006
+4
+45
+41.4
+2.070
+2.086
+2.006
+5
+40
+41.2
+2.060
+2.069
+2.006
+6
+35
+41.0
+2.050
+2.054
+2.006
+7
+30
+40.9
+2.045
+2.041
+2.006
+8
+25
+40.6
+2.030
+2.030
+2.006
+9
+20
+40.4
+2.020
+2.021
+2.006
+10
+15
+40.0
+2.000
+2.015
+2.006
+Suvrat Raju
+Physics Project
+17
+
+--- PAGE 20 ---
+Length of the pendulum — 80 cm
+No of oscillations timed — 10
+S. No 
+Amplitude(0)
+Time required
+(s)
+Observed
+Time Period
+(s)
+Expected
+Time Period
+(s)
+Classical
+Time period
+(s)
+1
+60
+19.0
+1.900
+1.926
+1.794
+2
+45
+18.3
+1.830
+1.866
+1.794
+3
+30
+18.1
+1.810
+1.826
+1.794
+4
+15
+18.0
+1.800
+1.802
+1.794
+Suvrat Raju
+Physics Project
+18
+
+--- PAGE 21 ---
+Calculations
+The values in the “expected time period” column of the observation table
+were obtained by calculating the  time period by simultaneously solving the
+system of equations (38) ,  (40) and (41)  numerically. All computations for
+numerical solution of the differential equations were carried out on a 486
+DX2 processor running DOS 6.22 using a double precision 8th order Runge-
+Kutta algorithm  (the coefficients of Dormand and Prince)  in the  executable
+software CALCODE. The software also computes the sections of the solution
+using a high-order interpolation scheme, and the regula falsi  method.  The
+time period was calculated by noting the difference between successive zeros
+of the function sn(x). 
+Inputs to the executable are the three first-order equations (38), (40), (41),
+entered symbolically, with the convention that
+y1 = sn,     y2 = cn     y3 = dn
+(56)
+The input parameters for these equations are the values of p, and k given
+respectively by (7), and (28): these values can evidently be calculated from
+a knowledge of the length of the string, l, the acceleration due to gravity, g,
+and the amplitude α, and are tabulated below for the actual settings used.
+These values of p, and k  suffice to fix the time period of oscillation. A small
+auxiliary computer program was written to calculate p  and k. The initial data
+are the same in all cases, and are given by (33), (34), and (35), viz.,
+y1 (0) = 0, y2(0) = 1, y3(0) = 1.
+The table below also compares the time period calculated numerically by the
+above sophisticated numerical method with the approximation given by
+(55).
+Suvrat Raju
+Physics Project
+19
+
+--- PAGE 22 ---
+p = (g ⁄ l)
+1⁄2 (l = length)
+S. No.
+α
+k = sin α
+2 (α = amplitude)
+Time
+period
+from
+CALCODE
+2π
+p
+Time
+period
+from
+equation
+(55)
+3.131557
+(l = 1.00 m)
+1
+60
+0.5
+2.153242
+2.006409
+2.143926
+2
+55
+0.461749
+2.128457
+2.121962
+3
+50
+0.422618
+2.106942
+2.101907
+4
+45
+0.382683
+2.086612
+2.083763
+5
+40
+0.342020
+2.069291
+2.067528
+6
+35
+0.300706
+2.054229
+2.053203
+7
+30
+0.258819
+2.041338
+2.040789
+8
+25
+0.216440
+2.030548
+2.030284
+9
+20
+0.173648
+2.021796
+2.021689
+10
+15
+0.130526
+2.015038
+2.015004
+3.501187
+(l = 0.8 m)
+1
+60
+0.5
+1.925918
+1.794587
+1.917580
+2
+45
+0.382683
+1.866322
+1.863774
+3
+30
+0.258819
+1.825828
+1.825337
+4
+15
+0.130526
+1.802304
+1.802274
+Suvrat Raju
+Physics Project
+20
+
+--- PAGE 23 ---
+Graph
+Two graphs were plotted, one for each set of readings.
+The classical time period, the expected time period, and the observed time
+period were depicted on the graph together.
+Suvrat Raju
+Physics Project
+21
+
+--- PAGE 24 ---
+Result
+The variation in the time period of a simple pendulum, on change in
+amplitude was studied.
+ (i) An accurate expression for derived both for the equation of motion and
+the time period  for large amplitudes. This was verified within experimental
+errors.
+(ii) A graph was plotted between the Amplitude and the Time Period.
+Suvrat Raju
+Physics Project
+22
+
+--- PAGE 25 ---
+Precautions
+1) The length of the simple pendulum must take into account, both the length
+of the hook and the radius of the bob.
+2)The string should not be stretched excessively, while measuring the length.
+3)The stop watch should be started immediately after the second supporting
+string is burnt.
+4)The glass rod, should be completely horizontal.
+5)The glass rod, should touch the cork, and should not have a very large
+diameter, as it is assumed to be a straight line, in calculations.
+6)Before the string is burnt, the bob should be absolutely stationary. During
+motion, care should be taken, that no torque acts on the bob, and the string
+does not coil up on itself.
+Suvrat Raju
+Physics Project
+23
+
+--- PAGE 26 ---
+Sources of Error
+1) The major source of error was damping due to friction at the point of
+suspension, and also due to air. Due to this friction, the total energy of the
+bob does not remain exactly constant. Instead,  the total energy continuously
+decreases along with the amplitude. Hence, also, the time period changes
+from oscillation to oscillation. The experimental arrangement, therefore,
+does not reflect the theoretical assumptions very accurately. Hence one can
+observe a systematic departure from the theoretically calculated values. 
+2)Extraneous sources, such as air currents can also cause random errors.
+3) Errors are also caused by the least count of the stop watch and the metre
+scale, the thickness of the glass rod, the slight extensibility and mass of the
+string and the slight non spherical shape of the bob 
+Suvrat Raju
+Physics Project
+24
+
+--- PAGE 27 ---
+Discussion
+The graph of the Time Period vs the Amplitude clearly shows  that though
+the theory provides a very close approximation to the observations initially,
+a steady deviation is shown as the amplitude increases.
+This is partly because of the various sources of error like the extensibility of
+the string, the slight non-spherical shape of the bob, the least count of the
+stop watch etc.  but also partly because the modeling of the physical situation
+is not exact. 
+The project may be improved by using a more sophisticated theoretical model
+which takes damping into account. This would also require a superior
+apparatus. A better quality string, a thinner glass rod, and a stop watch with
+a smaller least count would be useful. A heavier bob would allow more
+oscillations to be timed, and would improve accuracy.
+Suvrat Raju
+Physics Project
+25
+
+--- PAGE 28 ---
+Bibliography
+J.L Synge and B.A Griffith, Principles of Mechanics, McGraw-Hill, New
+York,  1959, pp 330–335.
+G. F Simmons, Differential Equations, Tata McGraw-Hill, New Delhi, 1972,
+pp 21–24.
+D. Halliday, R. Resnick and K.S Krane, Physics,  Wiley, Singapore, 1994,
+pp 321–324.
+Suvrat Raju
+Physics Project
+26

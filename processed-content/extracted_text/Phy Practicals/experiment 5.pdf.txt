@@ -1,0 +1,152 @@
+
+--- PAGE 1 ---
+AIM 
+The aim is to plot the current/voltage characteristics of metal rods (copper and aluminium) and to 
+calculate their resistivity. 
+ 
+APPARATUS 
+ Heat conductivity rod (copper) 
+ Heat conductivity rod (aluminium) 
+ Universal measuring amplifier 
+ Digital multimeter 
+ Power supply 0-12V, DC/6V, 12V/AC 
+ Connecting rod, l = 100mm, yellow 
+ Connecting rod, l = 250mm, red 
+ Connecting rod, l = 250mm, blue 
+ Connecting rod, l = 500mm, red  
+ Connecting rod, l = 500mm, blue 
+ Connecting rod, l = 750mm, yellow 
+ Connecting rod, l = 750mm, blue 
+ Connecting rod, l = 2000mm, yellow 
+ 
+DIAGRAM
+
+--- PAGE 2 ---
+THEORY 
+The resistivity ρ of a metal is determined from the resistance R of the rod and its dimensions. 
+The rod has a diameter of 2.5cm (cross sectional area   
+   
+             ) and is 31.5cm 
+long (i.e. length l) between the two voltmeter connections. 
+From ohm’s law, the resistance of the rod is given as   
+ 
+     
+ 
+  
+ 
+PROCEDURE 
+The copper rod was connected to the mains with an ammeter as shown in the diagram above. The 
+voltage source was set to 12V. The current was varied at constant intervals of 0.2A. The voltage 
+drop across the rod at the two sockets on the side were measured and recorded using the 
+amplifier for each current selected. The experiment was then repeated using the aluminium rod 
+in place of the copper rod. A graph of voltage against current was plotted for each metal rod on 
+the same graph sheet and the slope was determined. The slope was then used to determine the 
+resistivity of the metal rods. 
+ 
+TABLE OF RESULTS 
+COPPER 
+ 
+ALUMINIUM 
+I/A 
+Pd /mV 
+ 
+I/A 
+Pd/mV 
+0.0 
+0.196 
+ 
+0.0 
+0.195 
+0.2 
+0.199 
+ 
+0.2 
+0.200 
+0.4 
+0.201 
+ 
+0.4 
+0.204 
+0.6 
+0.204 
+ 
+0.6 
+0.207 
+0.8 
+0.206 
+ 
+0.8 
+0.210 
+1.0 
+0.208 
+ 
+1.0 
+0.214 
+1.2 
+0.211 
+ 
+1.2 
+0.218
+
+--- PAGE 3 ---
+y = 0.0121x + 0.1963 
+y = 0.0184x + 0.1958 
+0.19
+0.195
+0.2
+0.205
+0.21
+0.215
+0.22
+0.225
+0.23
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+VOLTAGE/ mV 
+CURRENT / I 
+A Graph Of Voltage/V Against Current/I 
+Copper 
+aluminium
+
+--- PAGE 4 ---
+CALCULATION  
+For the copper rod  
+        
+                      
+            
+             
+For the Aluminium rod, 
+        
+                        
+             
+             
+DISCUSSION 
+The graph of voltage against current produces a slope which is equivalent to the resistance of the 
+rod used i.e.           where R is the resistance of the rod. 
+So for the copper rod the slope, and in that case the resistance, was found to be 1.207x10-5Ω. 
+And for the aluminium rod, the slope or resistance was found to be 1.842x10-5Ω. The resistance 
+calculated from both rods though are different from the theoretical values of resistances (  ) for 
+copper and aluminium respectively. This deviation could probably be attributed to wrongful 
+conversions and calculation.  
+SOURCES OF ERROR 
+Due to the use of the amplifier, there might have been wrong conversion of the values read into 
+the actual values. 
+PRECAUTIONS 
+1. The experiment was repeated for each rod so as to produce consistent values on the 
+voltmeter. 
+2. Whenever the experiment was repeated, the power supply was switched off and the 
+connection cords were inspected again to make sure they were all at their right places. 
+CONCLUSION 
+The resistance of the copper and aluminium rods was 1.207x10-5Ω and 1.842x10-5Ω respectively 
+(a deviation from the theoretical values). 
+REFERENCE 
+Walter C. MICHELS et al., PHYSICS: Principles and Application; Houghton Mifflin Company, 
+Boston, 1977.

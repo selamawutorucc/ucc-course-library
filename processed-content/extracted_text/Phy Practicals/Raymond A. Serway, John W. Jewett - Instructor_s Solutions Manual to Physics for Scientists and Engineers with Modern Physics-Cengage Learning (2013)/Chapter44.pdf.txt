@@ -1,0 +1,5378 @@
+
+--- PAGE 1 ---
+1099 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+44 
+Nuclear Physics 
+ 
+CHAPTER OUTLINE 
+ 
+44.1  
+Some Properties of Nuclei 
+44.2  
+Nuclear Binding Energy 
+44.3  
+Nuclear Models 
+44.4 
+Radioactivity 
+44.5 
+The Decay Processes 
+44.6 
+Natural Radioactivity 
+44.7  
+Nuclear Reactions 
+44.8 
+Nuclear Magnetic Resonance and Magnetic Resonance Imaging 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ44.1 
+Answer (b). The frequency increases linearly with the magnetic field 
+strength because the magnetic potential energy −µ •
+
+B is 
+proportional to the magnetic field strength.  
+OQ44.2 
+Answer (a). In the beta decay of 36
+95Kr, the emitted particles are an 
+electron, −1
+0e, and an antineutrino, νe. The emitted particles contain a 
+total charge of –e and zero nucleons. Thus, to conserve both charge 
+and nucleon number, the daughter nucleus must be 37
+95Rb, which 
+contains Z = 37 protons and A – Z = 95 – 37 = 58 neutrons. (Recall 
+that the electron and an antineutrino are produced by the decay on a 
+neutron into a proton.)
+
+--- PAGE 2 ---
+1100     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ44.3 
+Answer (c). The emitted particle is not a nucleon because there is no 
+change in nucleon number, and conservation of charge requires  
+15 = 16 + Z → Z = –1, so the emitted particle is an electron. From 
+Equation 44.19, we see that 15
+32P decays by means of beta decay: 
+15
+32P →16
+32S + −1
+0e + νe. 
+OQ44.4 
+Answer (d). In a large sample, one half of the radioactive nuclei 
+initially present remain in the sample after one half-life has elapsed. 
+Hence, the fraction of the original number of radioactive nuclei 
+remaining after n half-lives have elapsed is (1/2)
+n = 1/2
+n. In this case 
+the number of half-lives that have elapsed is Δt T1 2 = 14 d 3.6 d ≈4. 
+Therefore, the approximate fraction of the original sample that 
+remains undecayed is 1/2
+4 = 1/16. 
+OQ44.5 
+(i) 
+Answer (b). Since the samples are of the same radioactive 
+isotope, their half-lives are the same.  
+ 
+(ii) Answer (b). When prepared, sample G has twice the activity 
+(number of radioactive decays per second) of sample H. The 
+activity of a sample experiences exponential decay also; 
+therefore, after 5 half-lives, the activity of sample G is decreased 
+by a factor of 2
+5, and after 5 half-lives the activity of sample H is 
+decreased by a factor of 2
+5. So after 5 half-lives, the ratio of 
+activities is still 2:1. 
+OQ44.6 
+Answer (b). A gamma ray photon carries no nucleon number and no 
+charge, so there can be no change in these quantities.  
+OQ44.7 
+Answer (c). The nucleus 18
+40X contains A = 40 total nucleons, of which 
+Z = 18 are protons. The remaining A – Z = 40 – 18 = 22 are neutrons. 
+OQ44.8 
+Answer (b). Conservation of nucleon number requires 144 = 140 + A 
+→ A = 4, and conservation of charge requires 60 = 58 + Z → Z = 2. 
+The particle is 2
+4X = 2
+4He. 
+OQ44.9 
+Answer (d). The Q value for the reaction 4
+9Be + 2
+4He →
+ 6
+12C + 0
+1n is 
+(using masses from Table 44.2) 
+ 
+ 
+ 
+Q = Δm
+(
+)c2 = m
+4
+9Be + m
+2
+4 He −m
+6
+12 C −mn
+(
+)c2
+= 9.012 182 u + 4.002 603 u
+[
+                 −12.000 000 u −1.008 665 u]× 931.5 Mev u
+(
+)
+= 5.70 MeV
+ 
+OQ44.10 
+(i) 
+Answer (a). The liquid drop model gives a simpler account of a 
+nuclear fission reaction, including the energy released and the 
+probable fission product nuclei.
+
+--- PAGE 3 ---
+Chapter 44     1101 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) Answer (b). The shell model predicts magnetic moments by 
+necessarily describing the spin and orbital angular momentum 
+states of the nucleons.  
+ 
+(iii) Answer (b). Again, the shell model wins when it comes to 
+predicting the spectrum of an excited nucleus, as it allows only 
+quantized energy states, and thus only specific transitions. 
+OQ44.11 
+Answer (d). A free neutron can undergo beta decay into a proton 
+plus an electron and an antineutrino because its mass is greater than 
+the mass of a free proton. Energy conservation prevents a free proton 
+from decaying into a neutron plus a positron and a neutrino. (A 
+proton bound inside a nucleus can undergo beta decay into a neutron 
+if the final mass of the nucleus is less than that of the original 
+nucleus, as for example in the beta decay of sodium-22: 
+11
+22Na →e+ + ν + 10
+22Ne.) 
+OQ44.12 
+Answer (d). The reaction energy is the amount of energy released as 
+a result of a nuclear reaction. Equation 44.29 in the text implies that 
+the reaction energy is (initial mass – final mass) c
+2. The Q-value is 
+taken as positive for an exothermic reaction.  
+OQ44.13 
+Answer (c). To conserve nucleon number (mass number), it is 
+necessary that A + 4 = 234, or A = 230. Conservation of charge 
+(atomic number) demands that Z + 2 = 90, or Z = 88. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ44.1 
+The alpha particle and the daughter nucleus carry equal amounts of 
+momentum in opposite directions. Since kinetic energy can be 
+written as p2
+2m , the small-mass alpha particle has much more of the 
+decay energy than the recoiling nucleus. 
+CQ44.2 
+The statement is false. Both patterns show monotonic decrease over 
+time, but with very different shapes. For radioactive decay, 
+maximum activity occurs at time zero. Cohorts of people now living 
+will be dying most rapidly perhaps forty years from now. Everyone 
+now living will be dead within less than two centuries, while the 
+mathematical model of radioactive decay tails off exponentially 
+forever. A radioactive nucleus never gets old. It has constant 
+probability of decay however long it has existed. 
+CQ44.3 
+An alpha particle contains two protons and two neutrons. Because 
+the nuclei of heavy hydrogen (D and T) contain only one proton, they 
+cannot emit an alpha particle.
+
+--- PAGE 4 ---
+1102     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ44.4 
+In alpha decay, there are only two final particles, the alpha particle 
+and the daughter nucleus. There are also two conservation 
+principles, energy and momentum, that apply to the process. As a 
+result, the alpha particle must be ejected with a discrete energy to 
+satisfy both conservation principles. Beta decay, however, is a three-
+particle decay involving the beta particle, the neutrino (or 
+antineutrino), and the daughter nucleus. As a result, the energy and 
+momentum can be shared in a variety of ways among the three 
+particles while still satisfying the two conservation principles. This 
+explains why the beta particle can have a continuous range of 
+energies.  
+CQ44.5 
+Carbon dating cannot generally be used to estimate the age of a rock, 
+because the rock was not alive to receive carbon, and hence 
+radioactive carbon-14, from the environment. Only the ages of 
+objects that were once alive can be estimated with carbon dating. 
+CQ44.6 
+The larger rest energy of the neutron means that a free proton in 
+space will not spontaneously decay into a neutron and a positron. 
+When the proton is in the nucleus, however, you must consider the 
+total rest energy of the nucleus. If it is energetically favorable for the 
+nucleus to have one fewer proton and one more neutron, then the 
+process of positron decay will occur to achieve this lower energy. 
+CQ44.7 
+I refers to nuclear spin quantum number.  
+ 
+(a) 
+Iz may have 2I + 1 = 2 5
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1 = 6 values for I = 5
+2
+, namely 5
+2
+, 3
+2
+, 
+1
+2
+, −1
+2
+, −3
+2
+, and −5
+2
+. 
+ 
+(b) For I = 3, there are 2I + 1 = 2(3) + 1 = 7 possible values for Iz. 
+CQ44.8 
+Extra neutrons are required to overcome the increasing electrostatic 
+repulsion of the protons. The neutrons participate in the net 
+attractive effect of the nuclear force, but feel no Coulomb repulsion. 
+CQ44.9 
+Nuclei with more nucleons than bismuth-209 are unstable because 
+the electrical repulsion forces among all of the protons is stronger 
+than the nuclear attractive force between nucleons. 
+CQ44.10 
+The nuclear force favors the formation of neutron-proton pairs, so a 
+stable nucleus cannot be too far away from having equal numbers of 
+protons and neutrons. This effect sets the upper boundary of the 
+zone of stability on the neutron-proton diagram. All of the protons 
+repel one another electrically, so a stable nucleus cannot have too 
+many protons. This effect sets the lower boundary of the zone of 
+stability.
+
+--- PAGE 5 ---
+Chapter 44     1103 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ44.11 
+Nucleus Y will be more unstable. The nucleus with the higher 
+binding energy requires more energy to be disassembled into its 
+constituent parts and has less available energy to release in a decay.  
+CQ44.12 
+After one half-life, one half the radioactive atoms have decayed. 
+After the second half-life, one half of the remaining atoms have 
+decayed. Therefore, 1
+2 + 1
+4 = 3
+4
+ of the original radioactive atoms have 
+decayed after two half-lives. 
+CQ44.13 
+Long-lived progenitors at the top of each of the three natural 
+radioactive series are the sources of our radium. As an example, 
+thorium-232 with a half-life of 14 Gyr produces radium-228 and 
+radium-224 at stages in its series of decays. 
+CQ44.14 
+Yes. The daughter nucleus can be left in its ground state or 
+sometimes in one of a set of excited states. If the energy carried by 
+the alpha particle is mysteriously low, the daughter nucleus can 
+quickly emit the missing energy in a gamma ray. 
+CQ44.15 
+The alpha particle does not make contact with the nucleus because of 
+electrostatic repulsion between the positively-charged nucleus and 
+the +2e alpha particle. To drive the alpha particle into the nucleus 
+would require extremely high kinetic energy. 
+CQ44.16 
+The samples would have started with more carbon-14 than we first 
+thought. We would increase our estimates of their ages. 
+CQ44.17 
+The photon and the neutrino are similar in that both particles have 
+zero charge and little or no mass. (The photon has zero mass, but 
+evidence suggests that neutrinos have a very small mass.) Both 
+particles are capable of transferring both energy and momentum. 
+They differ in that the photon has spin 1 and is involved in 
+electromagnetic interactions, while the neutrino has spin 1
+2 , interacts 
+through the weak interaction, and is closely related to beta decay.
+
+--- PAGE 6 ---
+1104     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 44.1 
+Some Properties of Nuclei 
+P44.1 
+The average nuclear radii are r = r0A
+1/3, where r0 = 1.2 × 10
+–15 m = 1.2 fm 
+and A is the mass number. 
+ 
+(a) 
+For 1
+2H , 
+r = 1.2 fm
+(
+) 2( )
+1 3 = 1.5 fm 
+ 
+(b) For 27
+60 Co , 
+r = 1.2 fm
+(
+) 60
+(
+)
+1 3 = 4.7 fm 
+ 
+(c) 
+For 79
+197Au , 
+r = 1.2 fm
+(
+) 197
+(
+)
+1 3 = 7.0 fm 
+ 
+(d) For 94
+239Pu , 
+r = 1.2 fm
+(
+) 239
+(
+)
+1 3 = 7.4 fm 
+P44.2 
+(a) 
+Approximate nuclear radii are given by r = r0A
+1/3. Thus, if a 
+nucleus of atomic number A has a radius approximately two-
+thirds that of 88
+230Ra, we should have 
+ 
+ 
+ 
+r = r0A1 3 = 2
+3 r0 230
+(
+)
+1 3 
+ 
+ 
+or 
+A = 23
+33 230
+(
+) = 8
+27 230
+(
+) ≈68 
+ 
+(b) 
+One possible nucleus is 30
+68Zn . 
+ 
+(c) 
+Isotopes of other elements to the left and right of zinc in
+the periodic table (from manganese to bromine) may 
+have the same mass number.
+ 
+P44.3 
+(a) 
+The initial kinetic energy of the alpha particle must equal the 
+electrostatic potential energy at the distance of closest approach. 
+ 
+ 
+ 
+Ki = Uf = keqQ
+rmin
+rmin = keqQ
+Ki
+=
+8.99 × 109 N ⋅m2 C2
+(
+) 2( ) 79
+(
+) 1.60 × 10−19 C
+(
+)
+2
+0.500 MeV
+(
+) 1.60 × 10−13 J/MeV
+(
+)
+= 4.55 × 10−13 m = 455 × 10−15 m = 455 fm
+ 
+ 
+(b) Following the same logic as in part (a),  
+ 
+ 
+ 
+Ki = 1
+2 mαvi
+2 = keqQ
+rmin
+
+--- PAGE 7 ---
+Chapter 44     1105 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Now, for rmin = 300 fm = 300 × 10
+–15 m, solving for the initial 
+velocity gives 
+ 
+ 
+ 
+vi =
+2keqQ
+mαrmin
+=
+2 8.99 × 109 N ⋅m2 /C2
+(
+) 2( ) 79
+(
+) 1.602 × 10−19 C
+(
+)
+2
+6.645 × 10−27 kg
+(
+) 300 × 10−15 m
+(
+)
+ 
+ 
+ 
+ 
+vi = 6.05 × 106 m/s 
+P44.4 
+An iron nucleus (in hemoglobin) has a few more neutrons than 
+protons, but in a typical water molecule there are eight neutrons and 
+ten protons. So protons and neutrons are nearly equally numerous in 
+your body, each contributing mass (say) 35 kg: 
+ 
+(a) 
+35 kg
+1 nucleon
+1.67 × 10−27 kg
+⎛
+⎝⎜
+⎞
+⎠⎟~ 1028 protons , 
+ 
+(b) and ~ 1028 neutrons . 
+ 
+(c) 
+The electron number is precisely equal to the proton number, 
+~ 10
+28 electrons . 
+P44.5 
+(a) 
+29
+65Cu has an A number of 65, so the radius of its nucleus is 
+ 
+ 
+ 
+r = r0A1 3 = 1.2 fm
+(
+) 65
+(
+)
+1 3 = 4.8 fm 
+ 
+(b) The volume of the nucleus, assumed to be spherical in shape, is 
+ 
+ 
+ 
+V = 4
+3πr3 = 4
+3π r0
+3A
+⎡⎣
+⎤⎦= 4
+3π
+1.2 × 10−15 m
+(
+)
+3 65
+(
+)
+⎡⎣
+⎤⎦
+= 4.7 × 10−43 m3
+ 
+ 
+(c) 
+The density of the nucleus is 
+ 
+ 
+ 
+ρ = m
+V =
+Am
+4
+3π r0
+3A
+⎡⎣
+⎤⎦
+= 3m
+4πr0
+3 = 3 1.66 × 10−27 kg
+(
+)
+4π 1.2 × 10−15 m
+(
+)
+3
+= 2.3 × 1017 kg/m3
+ 
+P44.6 
+From ME = ρn V = ρn (4π r3 3) , we find 
+ 
+ 
+r =
+3ME
+4π ρn
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+3 5.98 × 1024 kg
+(
+)
+4π 2.30 × 1017 kg/m3
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 3
+= 184 m
+
+--- PAGE 8 ---
+1106     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.7 
+The number of neutrons in a star of two solar masses is 
+ 
+ 
+ 
+A =
+2 1.99 × 1030 kg
+(
+)
+1.67 × 10−27 kg neutron = 2.38 × 1057 neutrons 
+ 
+Therefore, 
+ 
+ 
+ 
+r = r0A1 3 = 1.20 × 10−15 m
+(
+) 2.38 × 1057
+(
+)
+1 3
+= 1.6 × 104 m = 16 km
+ 
+P44.8 
+(a) 
+The electric potential energy between two protons is  
+ 
+ 
+ 
+U = ke
+q1q2
+r
+= ke
+e2
+r
+= 8.99 × 109 N⋅m2 C2
+(
+)
+1.60 × 10−19 C
+(
+)
+2
+4.00 × 10−15 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+                                               ×
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 MeV
+106 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.360 MeV
+ 
+ 
+(b) 
+Figure P44.8 shows the highest point in the curve at about
+4 MeV, a factor of ten higher than the value in (a).
+ 
+P44.9 
+By energy conservation,  
+ 
+ 
+ 
+1
+2 mv2 = qΔV:
+2mΔV = qr2B2 
+ 
+By Newton’s second law,  
+ 
+ 
+ 
+mv2
+r
+= qvB:
+r =
+2mΔV
+qB2
+ 
+ 
+Comparing radii for particles with different masses but with the same 
+charge, we find that  
+ 
+ 
+ 
+r2
+r1
+=
+2m2ΔV qB2
+2m1ΔV qB2 =
+m2
+m1
+ 
+ 
+For 
+12C: m1 = 12 u and r1 = 7.89 cm 
+ 
+For  
+13C:  
+ 
+ 
+ 
+r2
+r1
+=
+r2
+7.89 cm =
+m2
+m1
+=
+13
+12
+→
+8.21 cm
+
+--- PAGE 9 ---
+Chapter 44     1107 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.10 
+By energy conservation,  
+ 
+ 
+ 
+1
+2 mv2 = qΔV:
+2mΔV = qr2B2 
+ 
+By Newton’s second law,  
+ 
+ 
+ 
+mv2
+r
+= qvB:
+r =
+2mΔV
+qB2
+ 
+ 
+Comparing radii for particles with different masses but with the same 
+charge, we find that  
+ 
+ 
+ 
+r2
+r1
+=
+2m2ΔV qB2
+2m1ΔV qB2 =
+m2
+m1
+          →  
+r2 =
+m2
+m1
+r1 
+*P44.11 
+(a) 
+The magnitude of the maximum Coulomb force is given by 
+ 
+ 
+ 
+Fmax = keq1q2
+rmin
+2
+=
+8.99 × 109 N⋅m2 C2
+(
+)
+2
+( ) 6( ) 1.60 × 10−19 C
+(
+)
+2
+⎡⎣
+⎤⎦
+1.00 × 10−14 m
+(
+)
+2
+= 27.6 N
+ 
+ 
+(b) From Newton’s second law, 
+ 
+ 
+ 
+amax = Fmax
+mα
+=
+27.6 N
+6.64 × 10−27 kg = 4.16 × 1027 m/s2  
+ 
+(c) 
+The potential energy of the system at the time of the maximum 
+force is 
+ 
+ 
+ 
+Umax = keq1q2
+rmin
+=
+8.99 × 109 N⋅m2 C2
+(
+)
+2
+( ) 6( ) 1.60 × 10−19 C
+(
+)
+2
+⎡⎣
+⎤⎦
+1.00 × 10−14 m
+(
+)
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+                                                 ×
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 MeV
+106 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.73 MeV
+
+--- PAGE 10 ---
+1108     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.12 
+We obtain the alpha particle’s momentum from 
+ 
+ 
+ 
+Eα = 7.70 MeV = 1
+2 mv2 = 1
+2
+mv
+(
+)
+2
+m
+→
+mv =
+2mEα 
+ 
+(a) 
+The de Broglie wavelength of the alpha particle is (mass from 
+Table 44.1)  
+ 
+ 
+ 
+λ =
+h
+mαvα
+=
+h
+2mαEα
+=
+6.626 × 10−34 J ⋅s
+2 6.64 × 10−27 kg
+(
+) 7.70 × 106 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+= 5.18 × 10−15 m = 5.18 fm
+ 
+ 
+(b) Since λ is much less than the distance of closest approach, the 
+alpha particle may be considered a particle. 
+P44.13 
+The volume of each of the golf balls is 
+ 
+ 
+ 
+V = 4
+3 π r4 = 4
+3 π 0.021 5 m
+(
+)
+3 = 4.16 × 10−5 m3 
+ 
+We take the nuclear density from Example 44.2. Then, the mass of a 
+golf-ball sized nuclear matter is 
+ 
+ 
+ 
+m = ρV = 2.3 × 1017 kg/m3
+(
+) 4.16 × 10−5 m3
+(
+) = 9.6 × 1012 kg 
+ 
+and the gravitational force between two such balls is 
+ 
+ 
+ 
+F = G m1m2
+r2
+= 6.67 × 10−11 N ⋅m2 /kg2
+(
+)
+9.6 × 1012 kg
+(
+)
+2
+1.00 m
+(
+)
+2
+ 
+ 
+ 
+ 
+F = 6.1× 1015 N toward each other. 
+P44.14 
+(a) 
+Let V represent the volume of the tank. The number of molecules 
+present is  
+ 
+ 
+ 
+N = nNA = PV
+RT =
+1.013 × 105 N/m2
+(
+)V
+8.315 J/mol⋅K
+(
+) 273 K
+(
+) 6.022 × 1023
+(
+)
+= 2.69 × 1025 m−3
+(
+)V
+ 
+ 
+ 
+The volume of one molecule is  
+ 
+ 
+ 
+2 4
+3 πr3
+⎛
+⎝⎜
+⎞
+⎠⎟= 8π
+3
+1.00 × 10−10 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 1.047 × 10−30 m3
+
+--- PAGE 11 ---
+Chapter 44     1109 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The volume of all the molecules is  
+ 
+ 
+ 
+2.69 × 1025 m−3
+(
+)V 1.047 × 10−30 m3
+(
+) = 2.82 × 10–5 V 
+ 
+ 
+So the fraction of the volume occupied by the hydrogen 
+molecules is 2.82 × 10–5. An atom is precisely one half of a 
+molecule. 
+ 
+(b) The fraction occupied by the nucleus is found from 
+ 
+ 
+ 
+nuclear volume
+atomic volume =
+4
+3πr3
+4
+3π(d/2)3 =
+r
+d/2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+=
+1.20 × 10−15 m
+0.500 × 10−10 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 1.38 × 10−14
+  
+ 
+ 
+In linear dimension, the nucleus is small inside the atom in the 
+way a fat strawberry is small inside the width of the Grand 
+Canyon. In terms of volume, the nucleus is really small.  
+ 
+ 
+ 
+Section 44.2 
+Nuclear Binding Energy 
+P44.15 
+Using Equation 44.2, the binding energy per nucleon is  
+ 
+ 
+ 
+Eb
+A =
+ZM H
+(
+) + Nmn −M
+Z
+AX
+(
+)
+⎡⎣
+⎤⎦
+A
+931.5 MeV
+u
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Using atomic masses as given in Table 44.2, 
+ 
+(a) 
+For 1
+2H: 
+ 
+ 
+ 
+ 
+Eb
+A = 1 1.007 825 u
+(
+)+ 1 1.008 665 u
+(
+)−2.014 102 u
+2
+=
+0.002 388 u
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+931.5 MeV
+u
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.11 MeV
+ 
+ 
+(b) For 2
+4He: 
+ 
+ 
+ 
+ 
+Eb
+A = 2 1.007 825 u
+(
+)+ 2 1.008 665 u
+(
+)−4.002 603 u
+4
+=
+0.030 377 u
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+931.5 MeV
+u
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.07 MeV
+
+--- PAGE 12 ---
+1110     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+For 26
+56Fe: 
+ 
+ 
+ 
+Eb
+A = 26 1.007 825 u
+(
+)+ 30 1.008 665 u
+(
+)−55.934 942 u
+56
+=
+0.528 458 u
+56
+⎛
+⎝⎜
+⎞
+⎠⎟
+931.5 MeV
+u
+⎛
+⎝⎜
+⎞
+⎠⎟= 8.79 MeV
+ 
+ 
+(d) For 92
+238U: 
+ 
+ 
+ 
+Eb
+A = 92 1.007 825 u
+(
+)+ 146 1.008 665 u
+(
+)−238.050 783 u
+238
+=
+1.934 207 u
+238
+⎛
+⎝⎜
+⎞
+⎠⎟
+931.5 MeV
+u
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.57 MeV
+ 
+P44.16 
+We use Equation 44.2,  
+ 
+ 
+Eb MeV
+(
+) = ZM H
+(
+) + Nmn −M
+Z
+AX
+(
+)
+⎡⎣
+⎤⎦931.494 MeV/u
+(
+) 
+ 
+Then, for 11
+23Na ,  
+ 
+ 
+Eb
+11
+23Na
+(
+) = 11M H
+(
+)+ 12mn −M
+11
+23Na
+(
+)
+⎡⎣
+⎤⎦931.494 MeV/u
+(
+)
+= 11 1.007 825 u
+(
+)+ 12 1.008 665 u
+(
+)−22.989 769 u
+⎡⎣
+⎤⎦
+                                                       × 931.494 MeV/u
+(
+)
+= 186.565 MeV
+ 
+ 
+and  
+Eb
+A = 186.565 MeV
+23
+= 8.11 MeV 
+ 
+For 12
+23Mg , 
+ 
+ 
+Eb = Eb
+12
+23Mg
+(
+)
+= 12M H
+(
+)+ 11mn −M
+12
+23Mg
+(
+)
+⎡⎣
+⎤⎦931.494 MeV/u
+(
+)
+= 12 1.007 825 u
+(
+)+ 11 1.008 665 u
+(
+)−22.994 124 u
+⎡⎣
+⎤⎦
+                                                      × 931.494 MeV/u
+(
+)
+= 181.726 MeV
+ 
+ 
+and  
+Eb
+A = 181.726 MeV
+23
+= 7.90 MeV 
+ 
+The difference is  
+ 
+ 
+ 
+ΔEb
+A = Eb
+11
+23Na
+(
+)−Eb
+12
+23Mg
+(
+)
+A
+= 8.11 MeV −7.90 MeV = 0.210 MeV
+
+--- PAGE 13 ---
+Chapter 44     1111 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The binding energy per nucleon is greater for 11
+23Na by 0.210 MeV . 
+There is less proton repulsion in 11
+23Na; it is the more stable nucleus. 
+P44.17 
+From Equation 44.2, the binding energy of a nucleus is  
+ 
+ 
+ 
+Eb MeV
+(
+) = ZM H
+(
+) + Nmn −M
+Z
+AX
+(
+)
+⎡⎣
+⎤⎦931.494 MeV/u
+(
+) 
+ 
+For 8
+15O: 
+ 
+ 
+ 
+Eb = 8 1.007 825 u
+(
+) + 7 1.008 665 u
+(
+) −15.003 065 u
+[
+]
+× 931.494 MeV/u
+(
+) = 111.96 MeV
+  
+ 
+For 7
+15N: 
+ 
+ 
+ 
+Eb = 7 1.007 825 u
+(
+) + 8 1.008 665 u
+(
+) −15.000 109 u
+[
+]
+× 931.494 MeV/u
+(
+) = 115.49 MeV
+  
+ 
+Therefore, the binding energy is greater for 7
+15N  by 3.54 MeV. 
+P44.18 
+We find the mass difference, ΔM = ZmH + Nmn −M, and then the 
+binding energy per nucleon, Eb
+A = ΔM 931.5
+(
+)
+A
+, in units of MeV. The 
+results are tabulated below. 
+ 
+Nuclei 
+Z 
+N 
+M in u 
+ΔM in u 
+Eb
+A
+ in MeV 
+55Mn 
+25 
+30 
+54.938 050 
+0.517 5 
+8.765 
+56Fe 
+26 
+30 
+55.934 942 
+0.528 46 
+8.790 
+59Co 
+27 
+32 
+58.933 200 
+0.555 35 
+8.768 
+ 
+ 
+∴56Fe has a greater Eb
+A than its neighbors. 
+P44.19 
+(a) 
+The isobar with the highest neutron-to-proton ratio is 
+55
+139Cs ; the 
+ratio is N
+Z = A −Z
+Z
+= 139 −55
+55
+= 84
+55 = 1.53 
+ 
+(b) 
+57
+139La is stable, so has the largest binding energy per nucleon 
+(8.378 MeV).
+
+--- PAGE 14 ---
+1112     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The isobars are close in Figure 44.6, the plot of binding energy per 
+nucleon versus mass number, and there is not much detail, so we 
+may assume they have about the same binding energy, or missing 
+mass. However, neutrons have more mass than protons, so the 
+isobar with more neutrons (thus, fewer protons) should be more 
+massive: 
+55
+139Cs . 
+P44.20 
+(a) 
+The radius of the 
+40Ca nucleus is, 
+ 
+ 
+ 
+R = r0A1 3 = 1.20 × 10−15 m
+(
+) 40
+(
+)
+1 3 = 4.10 × 10−15 m 
+ 
+ 
+The energy required to overcome electrostatic repulsion is 
+ 
+ 
+ 
+U = 3keQ2
+5R
+=
+3 8.99 × 109 N⋅m2/C2
+(
+) 20 1.602 × 10−19 C
+(
+)
+⎡⎣
+⎤⎦
+2
+5 4.10 × 10−15 m
+(
+)
+= 1.35 × 10−11 J = 84.2 MeV
+ 
+ 
+(b) The binding energy of 20
+40Ca (Z = 20, N = A – Z = 20) is (using 
+Equation 44.2 and masses from Table 44.2),  
+ 
+ 
+ 
+Eb = 20 1.007 825 u
+(
+)+ 20 1.008 665 u
+(
+)−39.962 591 u
+⎡⎣
+⎤⎦
+                                                              × 931.5 MeV/u
+(
+)
+= 342 MeV
+ 
+ 
+(c) 
+The nuclear force is so strong that the binding energy greatly
+exceeds the minimum energy needed to overcome electrostatic
+repulsion.
+ 
+P44.21 
+Removal of a neutron from 20
+43Ca would result in the residual nucleus, 
+20
+42Ca . If the required separation energy is ΔEn, the overall process can 
+be described by  
+ 
+ 
+mass
+20
+43Ca
+(
+) + ΔEn = mass
+20
+42Ca
+(
+) + mass n
+( )
+ΔEn = mass
+20
+42Ca
+(
+) + mass n
+( ) −mass
+20
+43Ca
+(
+)
+ 
+ 
+From Table 44.2,  
+ 
+ 
+ΔEn = 41.958 618 u + 1.008 665 u −42.958 767 u
+(
+)
+                                                        × 931.5 MeV/u
+(
+)
+= 7.93 MeV
+
+--- PAGE 15 ---
+Chapter 44     1113 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 44.3 
+Nuclear Models 
+P44.22 
+The curve of binding energy shows that a heavy nucleus of mass 
+number A = 200 has binding energy about 
+ 
+ 
+ 
+7.8 MeV
+nucleon
+⎛
+⎝⎜
+⎞
+⎠⎟(200 nucleons) ≈1.56 GeV 
+ 
+Thus, it is less stable than its potential fission products, two 
+middleweight nuclei of A = 100, together having binding energy 
+ 
+ 
+ 
+2(8.7 MeV/nucleon)(100 nucleons) ≈1.74 GeV 
+ 
+Fission then releases about 
+ 
+ 
+ 
+1.74 GeV −1.56 GeV ~200 MeV 
+ 
+P44.23 
+(a) 
+In Equation 44.3, the first or “Volume” term is, 
+ 
+ 
+ 
+E1 = C1A = (15.7 MeV)(56) = 879 MeV 
+ 
+ 
+The second, or “Surface” term is,
+ 
+E2 = −C2A2 3 = −17.8 MeV
+(
+) 56
+(
+)
+2 3 = −260 MeV 
+ 
+ 
+The third, or “Coulomb” term is, 
+ 
+ 
+ 
+E3 = −C3
+Z Z −1
+(
+)
+A1 3
+= −0.71 MeV
+(
+) 26
+(
+) 25
+(
+)
+56
+(
+)
+1 3
+= −121 MeV
+ 
+ 
+ 
+and the fourth, or “Asymmetry” term is, 
+ 
+ 
+ 
+E4 = C4
+A −2Z
+(
+)
+2
+A
+= −23.6 MeV
+(
+) 56 −52
+(
+)
+2
+56
+= −6.74 MeV 
+ 
+ANS. FIG. P44.22
+
+--- PAGE 16 ---
+1114     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The binding energy is then 
+ 
+ 
+ 
+Eb = C1A −C2A2 3 −C3
+Z Z −1
+(
+)
+A1 3
+−C4
+A −2Z
+(
+)
+2
+A
+= 879 MeV −260 MeV −121 MeV −6.74 MeV = 491 MeV
+ 
+ 
+(b) The percentages for each of the terms is as follows 
+ 
+ 
+ 
+term1: E1
+Eb
+= 179% ; term2 : E2
+Eb
+= −53.0% ; 
+ 
+ 
+ 
+term3: E3
+Eb
+= −24.6% ; term4: E4
+Eb
+= −1.37% 
+P44.24 
+(a) 
+Nucleons on the surface have fewer neighbors with which to
+interact. The surface term is negative to reduce the estimate
+from the volume term, which assumes that all nucleons have
+the same number of neighbors.
+ 
+ 
+(b) The volume to surface ratio for a sphere of radius r is 
+ 
+ 
+ 
+Volume
+Area
+= 4 3
+(
+)π r3
+4π r2
+= 1
+3 r 
+ 
+ 
+The volume to surface ratio for a cube of side length L is 
+ 
+ 
+ 
+Volume
+Area
+= L3
+6L2 = 1
+6 L 
+ 
+ 
+The sphere has a larger ratio to its characteristic length, so it
+would represent a larger binding energy and be more plausible
+for a nuclear shape.
+ 
+ 
+ 
+ 
+Section 44.4 
+Radioactivity 
+*P44.25 
+We use Equation 44.7 for the exponential decay rate of the sample, 
+R = R0e−λ t, where 
+ 
+ 
+ 
+ 
+λ =
+ln2
+26.0 h = 0.026 7 h−1 
+ 
+Since we require a 90% decrease in activity, 
+ 
+ 
+ 
+ R
+R0
+= 0.100 = e−λt   →   ln 0.100
+(
+) = −λ t
+
+--- PAGE 17 ---
+Chapter 44     1115 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+then, 
+ 
+ 
+ 
+t =
+2.30
+0.026 7/h = 86.4 h
+ 
+P44.26 
+(a) 
+From R = R0e−λ t, the decay constant is 
+ 
+ 
+ 
+λ = 1
+t ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+4.00 h
+⎛
+⎝⎜
+⎞
+⎠⎟ln 10.0 mCi
+8.00 mCi
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.58 × 10−2 h−1
+= 1.55 × 10−5 s−1
+ 
+ 
+(b) The half-life is 
+ 
+ 
+ 
+T1 2 = ln2
+λ
+= 12.4 h 
+ 
+(c) 
+The number of original atoms can be found if we convert the 
+initial activity from curies into becquerels (decays per second):  
+1 Ci ≡ 3.70 × l0
+10 Bq.   
+ 
+ 
+ 
+R0 = 10.0 mCi = 10.0 × 10−3 Ci
+(
+) 3.70 × 1010 Bq/Ci
+(
+)
+= 3.70 × 108 Bq
+  
+ 
+ 
+Since R0 = λN0, the original number of nuclei is 
+ 
+ 
+ 
+N0 = R0
+λ = 3.70 × 108 decays/s
+1.55 × 10–5 s
+= 2.39 × 1013 atoms
+ 
+ 
+ 
+(d) The decay rate after thirty hours is  
+ 
+ 
+ 
+R = R0e−λt = 10.0 mCi
+(
+)exp
+−5.58 × 10−2 h−1
+(
+) 30.0 h
+(
+)
+⎡⎣
+⎤⎦
+= 1.88 mCi
+ 
+P44.27 
+The decay law is 
+ 
+ 
+ 
+dN/dt = – λN 
+ 
+Then, the decay constant is 
+ 
+ 
+ 
+λ = −1
+N
+dN
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟= −
+1
+1.00 × 1015 nuclei
+⎛
+⎝⎜
+⎞
+⎠⎟
+−6.00 × 1011 nuclei
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.00 × 10–4 s–1
+ 
+ 
+and the half-life is 
+ 
+ 
+ 
+T1/2 = ln 2
+λ
+= 1.16 × 103 s
+ 
+ 
+(This is 19.3 minutes.)
+
+--- PAGE 18 ---
+1116     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.28 
+According to Equation 44.7, the time dependence of the decay rate is 
+R = R0e−λΔ t . From this equation we can derive a relation between the 
+change in decay rate over the time interval Δt to the decay constant. 
+We start with R = R0e−λΔt. Then, rearranging and taking the natural log 
+of both sides gives 
+ 
+ 
+e−λ Δt = R
+R0
+→
+ln e−λΔt
+(
+) = ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+or 
+−λ Δt = ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟= −ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Solving, 
+ 
+ 
+λ = 1
+Δt ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Now, because λ = ln2
+T1/2
+, we can relate the time interval Δtto the half-
+life:  
+ 
+ 
+λ = 1
+Δt ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+ln2
+T1/2
+=
+1
+ln2
+(
+)Δt ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+T1/2
+=
+1
+ln2
+(
+)Δt ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+T1/2 =
+ln2
+(
+)Δt
+ln R0 R
+(
+)
+ 
+P44.29 
+The number of nuclei that decay during the interval will be  
+ 
+ 
+ 
+ΔN = N1 −N2 = N0 e−λ t1 −e−λ t2
+(
+) 
+ 
+First we find the decay constant λ: 
+ 
+ 
+ 
+ 
+λ = ln2
+T1 2
+= 0.693
+64.8 h = 0.010 7 h−1 = 2.97 × 10−6 s−1 
+ 
+Now we find N0:  
+ 
+ 
+ 
+N0 = R0
+λ =
+40.0 µCi
+(
+)
+2.97 × 10−6 s−1
+3.70 × 104 s−1
+µCi
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.98 × 1011 nuclei
+
+--- PAGE 19 ---
+Chapter 44     1117 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting in these values, 
+ 
+ 
+ 
+N1 −N2 = 4.98 × 1011
+(
+) e
+−ln 2 64.8 h
+(
+) 10.0 h
+(
+) −e
+−ln 2 64.8 h
+(
+) 12.0 h
+(
+)
+⎡⎣
+⎤⎦
+N1 −N2 = 9.47 × 109 nuclei
+ 
+P44.30 
+The number of nuclei that decay during the interval will be  
+ 
+ 
+ 
+N1 −N2 = N0 e−λ t1 −e−λ t2
+(
+) 
+ 
+We wish to write this expression in terms of the half-life T1/2 and the 
+initial decay rate R0. First, from the definition of λ, we have  
+ 
+ 
+ 
+λ = ln2
+T1 2
+→
+e−λ t = e
+ln 2 −t T1 2
+(
+) = 2
+−t T1 2 
+ 
+Now we find N0:  
+ 
+ 
+ 
+N0 = R0
+λ =
+R0T1 2
+ln2
+ 
+ 
+Substituting in these expressions, we find that  
+ 
+ 
+ 
+N1 −N2 =
+R0T1 2
+ln2
+e−λ t1 −e−λ t2
+(
+) =
+R0T1 2
+ln2
+2
+−t1 T1 2 −2
+−t2 T1 2
+(
+) 
+P44.31 
+(a) 
+The decay constant is 
+ 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+8.04 d = 0.0862 d−1
+= 0.0862
+d
+1 d
+24 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.59 × 10−3 h−1
+= 9.98 × 10−7
+ h
+1 h
+3600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.98 × 10−7 s−1
+ 
+ 
+(b) From R = λN, the number of radioactive nuclei in a 6.40 mCi of 
+131 I is  
+ 
+ 
+ 
+N = R
+λ = 6.40 × 10−3 Ci
+9.98 × 10−7 s−1 
+3.70 × 1010 s−1
+Ci
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.37 × 1014 nuclei 
+ 
+(c) 
+From Equation 44.7, R = λN, the decay rate R also undergoes 
+exponential decay; thus, after one half-life, the rate drops from R0 
+to R0/2. The number of half-lives that have elapsed after 40.2 d is 
+n = t/T1/2 = 40.2 d/8.04 d = 5, so the remaining activity of the 
+sample is  
+ 
+ 
+ 
+R = R0
+2n = R0
+25 = 6.40 mCi
+32
+= 0.200 mCi
+
+--- PAGE 20 ---
+1118     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.32 
+(a) 
+From Equation 44.6, the fraction remaining at t = 5.00 yr will be 
+ 
+ 
+ 
+N
+N0
+= e−λt = e
+−t ln 2 T1 2 = e
+−5.00 yr
+(
+)ln 2
+12.33 yr
+(
+) = 0.755 
+ 
+(b) At t = 10.0 yr,  
+ 
+ 
+ 
+N
+N0
+= e−λt = e
+−tln2 T1 2 = e
+−10.0 yr
+(
+)ln2
+12.33 yr
+(
+) = 0.570
+ 
+ 
+(c) 
+At t = 123.3 yr,  
+ 
+ 
+ 
+N
+N0
+= e−λt = e
+−tln2 T1 2 = e
+−123.3 yr
+(
+)ln2
+12.33 yr
+(
+) = e−10ln2 = 9.766 × 10−4  
+ 
+(d) 
+No. The decay model depends on large numbers of nuclei. 
+After some long but finite time, only one undecayed nucleus
+will remain. It is likely that the decay of this final nucleus 
+will occur before infinite time.
+ 
+P44.33 
+The number remaining after time T1/2
+2
+= ln2
+2λ
+ is  
+ 
+ 
+ 
+N = N0e−λt = N0 e−λ ln 2/2λ
+(
+) = N0 e−ln 2
+(
+)
+1/2 = N0
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= N0
+2
+ 
+ 
+The number decaying in this first half of the first half-life is  
+ 
+ 
+ 
+ΔNfirst half = N0 −N0
+2 = 1−1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟N0 = 1−
+2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟N0
+=
+2
+2
+2 −1
+(
+)N0
+ 
+ 
+The number remaining after time T1/2 is N0
+2
+, so the number decaying 
+in the second half of the first half-life is  
+ 
+ 
+ΔNsecond half = N0
+2 −N0
+2 =
+1
+2 −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟N0 =
+2
+2 −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟N0
+= 1
+2
+2 −1
+(
+)N0
+ 
+ 
+The ratio required is then 
+ 
+ 
+ΔNfirst half =
+ΔNsecond half = =
+2
+2
+2 −1
+(
+)N0
+1
+2
+2 −1
+(
+)N0
+=
+2 = 1.41
+
+--- PAGE 21 ---
+Chapter 44     1119 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.34 
+(a) 
+dN2
+dt = rate of change of N2 
+ 
+ 
+ 
+= rate of production of N2 – rate of decay of N2 
+ 
+ 
+ 
+= rate of decay of N1 – rate of decay of N2 
+ 
+ 
+ 
+= λ1N1 −λ2N2 
+ 
+(b) From the trial solution, 
+ 
+ 
+ 
+N2 t( ) = N10λ1
+λ1 −λ2
+e−λ2t −e−λ1t
+(
+) 
+ 
+ 
+ 
+∴dN2
+dt = N10λ1
+λ1 −λ2
+−λ2e−λ2t + λ1e−λ1t
+(
+) 
+[1] 
+ 
+ 
+ 
+dN2
+dt + λ2N2 = N10λ1
+λ1 −λ2
+−λ2e−λ2t + λ1e−λ1t
+(
+)
+                       + N10λ1
+λ1 −λ2
+λ2e−λ2t −λ2e−λ1t
+(
+)
+= N10λ1
+λ1 −λ2
+λ1 −λ2
+(
+)e−λ1t = λ1N1
+ 
+ 
+ 
+So  
+dN2
+dt = λ1N1 −λ2N2 as required. 
+ 
+(c) 
+The functions plotted in ANS. FIG. P44.34(c) are 
+ 
+ 
+ 
+Po nuclei: N1 t( ) = 1 000e
+−ln 2 3.10 min
+(
+)t
+Pb nuclei: N2 t( ) = 1 130.8 e
+−ln 2 26.8 min
+(
+)t −e
+−ln 2 3.10 min
+(
+)t
+⎡⎣
+⎤⎦ 
+ 
+ANS. FIG. P44.34(c) 
+ 
+(d) From the graph, tm ≈10.9 min
+
+--- PAGE 22 ---
+1120     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+From equation [1], dN2
+dt = 0 if  
+ 
+ 
+ 
+λ2e−λ2t = λ1e−λ1t 
+ 
+ 
+ 
+∴e
+λ1 −λ2
+(
+)t = λ1
+λ2
+ 
+ 
+ 
+Thus,  t = tm = ln λ1 λ2
+(
+)
+λ1 −λ2
+. 
+ 
+(f) 
+With λ1 = ln2 3.10 min
+(
+), λ2 = ln2 26.8 min
+(
+) , this formula gives  
+ 
+ 
+ 
+tm = ln λ1 λ2
+(
+)
+λ1 −λ2
+=
+ln ln2 3.10 min
+(
+)
+ln2 26.8 min
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+ln2
+3.10 min −
+ln2
+26.8 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+ln 26.8 min
+3.10 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+ln2
+1
+3.10 min −
+1
+26.8 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 10.9 min
+ 
+ 
+ 
+This result is in agreement with the result of part (d). 
+ 
+ 
+ 
+Section 44.5 
+The Decay Processes 
+P44.35 
+Atomic masses are given in Table 44.2.  
+ 
+(a) 
+For this e
++ decay, 
+ 
+ 
+ 
+Q = MX −MY −2me
+(
+)c2
+= 39.962 591 u −39.963 999 u −2 0.000 549 u
+(
+)
+⎡⎣
+⎤⎦
+                                                     × 931.5 MeV/u
+(
+)
+Q = −2.33 MeV
+ 
+ 
+ 
+Since Q < 0, the decay cannot occur spontaneously.
+
+--- PAGE 23 ---
+Chapter 44     1121 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For this alpha decay, 
+ 
+ 
+ 
+Q = MX −MY −2me
+(
+)c2
+= 97.905 287 u −4.002 603 u −93.905 088 u
+[
+]
+                                                     × 931.5 MeV/u
+(
+)
+Q = −2.24 MeV
+ 
+ 
+ 
+Since Q < 0, the decay cannot occur spontaneously. 
+ 
+(c) 
+For this alpha decay, 
+ 
+ 
+ 
+Q = MX −MY −2me
+(
+)c2
+= 143.910 083 u −4.002 603 u −139.905 434 u
+[
+]
+                                                     × 931.5 MeV/u
+(
+)
+Q = 1.91 MeV
+ 
+ 
+ 
+Since Q > 0, the decay can occur spontaneously. 
+P44.36 
+(a) 
+The reaction is 
+1
+3H →2
+3He + e−+ ν. 
+ 
+ 
+Adding one electron, the reaction becomes  
+ 
+ 
+ 
+1
+3H nucleus + e−→2
+3He nucleus + 2e−+ ν 
+ 
+ 
+Ignoring the slight difference in ionization energies, we have 
+ 
+ 
+ 
+1
+3H atom →2
+3He atom + ν 
+ 
+(b) The total energy released is the Q value:  
+ 
+ 
+ 
+Q = MH-3 −MHe-3
+(
+)c2
+Q = 3.016 049 u −3.016 029 u
+(
+) 931.5 MeV u
+(
+)
+= 0.018 6 MeV = 18.6 keV
+ 
+P44.37 
+From Equation 44.21, carbon-14 undergoes beta decay:   
+ 
+ 
+6
+14C →
+7
+14N + e−+ ν 
+ 
+Adding six electrons to each side, this is the same as   
+ 
+ 
+6
+14C atom →
+7
+14N atom + ν 
+ 
+The Q value is  
+ 
+ 
+Q = MC-14 −MN-14 −mν
+(
+)c2
+= 14.003 242 u −14.003 074 u −0
+[
+] 931.5 MeV/u
+(
+)
+= 0.156 MeV
+
+--- PAGE 24 ---
+1122     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.38 
+Total Z and A are conserved.  
+ 
+(a) 
+A gamma ray has zero charge and it contains no protons or 
+neutrons. So for a gamma ray Z = 0 and A = 0. Keeping the total 
+values of Z and A for the system conserved requires Z = 28 and A 
+= 65 for X. With this atomic number it must be nickel, and the 
+nucleus must be in an excited state, so X is 
+28
+65Ni∗. 
+ 
+(b) An alpha particle, α = 2
+4He, has Z = 2 and A = 4. Total initial Z is 
+84, and total initial A is 215, so for X we require 
+ 
+ 
+ 
+Z = 84 = ZX + 2       →      ZX = 82     →    Pb, and  
+ 
+ 
+ 
+A = 215 = AX + 4     →      AX = 211,     →    X is 
+82
+211Pb . 
+ 
+(c) 
+A positron, e+ = 1
+0e , has charge the same as a nucleus with Z = 1. 
+A neutrino, 0
+0ν, has no charge. Neither contains any protons or 
+neutrons. So X must have by conservation Z = 26 + 1 + 0 = 27; so, 
+X is Co. And A = 55 + 0 + 0 = 55: X is 
+27
+55Co . 
+P44.39 
+Atomic masses are given in Table 44.2. We calculate the energy 
+released by the reaction, its Q-value, as 
+ 
+ 
+ 
+Q = MU-238 −MTh-234 −MHe-4
+(
+)c2 
+ 
+ 
+ 
+Q = 238.050 783 −234.043 596 −4.002 603
+(
+) u 931.5 MeV u
+(
+)
+= 4.27 MeV
+ 
+P44.40 
+(a) 
+The decay constant is λ = ln2/10 h = 0.0693/h. The number of 
+parent nuclei is given by NP = NP, 0 e−λt = 1.00 × 106
+(
+)e−0.0693t , where 
+t is in hours. 
+ 
+ 
+The number of daughter nuclei is equal to the number of missing 
+parent nuclei, 
+ 
+ 
+Nd = NP, 0 −NP, 0 e−λt = 1.00 × 106
+(
+) 1−e−0.0693t
+(
+), where t is in hours.
+ 
+ 
+(b) 
+The number of daughter nuclei starts from zero at t = 0. The
+number of stable product nuclei always increases with time and
+asymptotically approaches 1.00 × 106 as t increases without limit.
+ 
+ 
+(c) 
+The minimum number of daughter nuclei is zero at t = 0. The
+maximum number of daughter nuclei asymptotically approaches
+1.00 × 106 as t increases without limit.
+
+--- PAGE 25 ---
+Chapter 44     1123 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The rate of change is  
+ 
+ 
+ 
+dNd
+dt = 1.00 × 106
+(
+)(0 + 0.0693 e−0.0693t) = 6.93 × 104e−0.0693t  
+ 
+ 
+ where dNd
+dt
+ is in decays per hour and t is in hours. The rate of 
+change has its maximum value, 6.93 × 10
+4 h
+–1, at t = 0, after which 
+the rate decreases more and more, approaching zero as t 
+increases without limit. 
+P44.41 
+(a) 
+The reaction for one particle is e−+ p →n + ν . 
+ 
+(b) For nuclei, 
+8
+15O + e−→
+7
+15N + ν. 
+ 
+ 
+Add seven electrons to both sides to obtain  
+ 
+ 
+ 
+8
+15O atom →
+7
+15N atom + ν 
+ 
+ 
+From Table 44.2 of atomic masses, 
+ 
+ 
+ 
+Q = 15.003 065 u −15.000 109 u
+(
+) 931.5 MeV u
+(
+)
+= 2.75 MeV
+ 
+P44.42 
+(a) 
+The number of carbon atoms in the sample is 
+ 
+ 
+ 
+NC =
+0.021 0 g
+12.0 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 atoms
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.05 × 1021 
+  
+ 
+(b) 1 in 7.70 × 10
+11 carbon atoms is a 
+14C atom. Then, 
+ 
+ 
+ 
+N0
+(
+)C-14 = 1.05 × 1021
+1
+7.70 × 1011
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.37 × 109 
+ 
+(c) 
+The decay constant for 
+14C is 
+ 
+ 
+ 
+λC-14 =
+ln2
+5 730 yr = 1.21× 10−4 yr−1
+1 yr
+3.16 × 107s 
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.83 × 10−12 s−1
+ 
+ 
+(d) We use R = λN = λN0e−λ t. At t = 0, 
+ 
+ 
+ 
+R0 = λN0 = 3.83 × 10−12 s−1
+(
+) 1.37 × 109
+(
+) 7 86 400 s
+(
+)
+1 week
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 3.17 × 103 decays week
+ 
+ 
+(e) 
+At time t, 
+R = 837
+0.880 = 951 decays week .
+
+--- PAGE 26 ---
+1124     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f)  Taking logarithms, 
+ 
+ 
+ 
+ 
+ln R
+R0
+= −λt 
+so 
+t = −1
+λ ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+and 
+ 
+ 
+ 
+t =
+−1
+1.21× 10−4 yr−1 ln
+951
+3.17 × 103
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.95 × 103 yr 
+ 
+ 
+ 
+Section 44.6 
+Natural Radioactivity 
+P44.43 
+(a) 
+The conversion is 
+ 
+ 
+ 
+4.00 pCi L =
+4.00 × 10−12 Ci
+1 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+3.70 × 1010 Bq
+1 Ci
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.00 × 103 L
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 148 Bq m3
+ 
+ 
+(b) Each cubic meter of air contains 
+ 
+ 
+ 
+N = R
+λ = R
+T1 2
+ln2
+⎛
+⎝⎜
+⎞
+⎠⎟= 148 Bq/m3
+(
+) 3.82 d
+ln2
+⎛
+⎝⎜
+⎞
+⎠⎟
+86 400 s
+1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.05 × 107 atoms/m3
+ 
+ 
+(c) 
+The density of radon in each cubic meter of air is 
+ 
+ 
+ 
+density = 7.05 × 107 atoms/m3
+(
+)
+1 mol
+6.02 × 1023 atoms
+⎛
+⎝⎜
+⎞
+⎠⎟
+222 g
+1 mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.60 × 10−14 g/m3
+ 
+ 
+ 
+Since air has a density of 1.20 kg/m
+3, the fraction consisting of 
+radon is 
+ 
+ 
+ 
+fraction = 2.60 × 10−14 g/m3
+1 200 g/m3
+= 2.17 × 10−17 
+P44.44 
+The number of radon atoms remaining is 
+ 
+ 
+ 
+ 
+N = N0e
+−ln 2
+(
+)t T1 2 
+ 
+And the fraction remaining is  
+ 
+ 
+ 
+N
+N0
+= e−λ t = e
+−ln 2
+(
+)t T1 2
+
+--- PAGE 27 ---
+Chapter 44     1125 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+With T1/2 = 3.82 d and t = 7.00 d, 
+ 
+ 
+ 
+ 
+N
+N0
+= e−ln 2
+(
+) 7.00
+(
+)
+3.82
+(
+) = 0.281 
+ 
+(b) When t = 1.00 yr = 365.25 d,    
+ 
+ 
+ 
+N
+N0
+= e−ln 2
+(
+) 365.25
+(
+)
+3.82
+(
+) = 1.65 × 10−29 
+ 
+(c) 
+Radon is continuously created as one daughter in the series of 
+decays starting from the long-lived isotope 
+238U. 
+P44.45 
+We find the chemical name by looking up Z in a periodic table. The 
+values in the shaded boxes (235U and 207Pb) in Figure P44.45 were 
+given; all others have been filled in as part of the solution shown in 
+ANS. FIG. P44.45 below. 
+ 
+ 
+ANS. FIG. P44.45
+
+--- PAGE 28 ---
+1126     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.46 
+(a) 
+Let N be the number of 
+238U nuclei and N′ be 
+206Pb nuclei. 
+ 
+ 
+Then N = N0e−λ t and N0 = N + N′ so N = N +
+′
+N
+(
+)e−λ t or 
+eλ t = 1+
+′
+N
+N . Taking logarithms,      
+ 
+ 
+ 
+λt = ln 1+
+′
+N
+N
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+where 
+λ = ln2
+T1 2
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+t =
+T1 2
+ln2
+⎛
+⎝⎜
+⎞
+⎠⎟ln 1+
+′
+N
+N
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+If N
+′
+N = 1.164 for the 238U →206Pb chain with T1/2 = 4.47 × 10
+9 yr, 
+the age is: 
+ 
+ 
+ 
+t =
+4.47 × 109 yr
+ln2
+⎛
+⎝⎜
+⎞
+⎠⎟ln 1+
+1
+1.164
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.00 × 109 yr 
+ 
+(b) From above, eλ t = 1+
+′
+N
+N . Solving for N
+′
+N
+ gives N
+′
+N =
+e−λ t
+1−e−λ t . 
+ 
+ 
+With T = 4.00 × 10
+9 yr and T1/2 = 7.04 × 10
+8 yr for the 235U →207Pb 
+chain, 
+ 
+ 
+ 
+λt =
+ln2
+T1 2
+⎛
+⎝⎜
+⎞
+⎠⎟t =
+ln2
+(
+) 4.00 × 109 yr
+(
+)
+7.04 × 108 yr
+= 3.938 
+ 
+ 
+and  N
+′
+N = 0.019 9 for the 
+235U to 
+207Pb chain. 
+ 
+ 
+With T = 4.00 × 10
+9 yr and T1/2 = 1.41 × 10
+10 yr for the 
+232Th →208Pb chain, 
+ 
+  
+ 
+λt =
+ln2
+(
+) 4.00 × 109 yr
+(
+)
+1.41× 1010 yr
+= 0.196 6 
+ 
+ 
+and  N
+′
+N = 4.60 for the 
+232Th to 
+208Pb chain.
+
+--- PAGE 29 ---
+Chapter 44     1127 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 44.7 
+Nuclear Reactions 
+P44.47 
+Neglect recoil of product nucleus (i.e., do not require momentum 
+conservation for the system of colliding particles). The energy balance 
+gives Kemerging = Kincident + Q. To find Q, 
+ 
+ 
+ 
+Q =
+MH + MAl
+(
+) −MSi + mn
+(
+)
+⎡⎣
+⎤⎦c2
+Q =
+1.007 825 + 26.981 539
+(
+) −26.986 705 + 1.008 665
+(
+)
+[
+] u
+                                                                       × 931.5 MeV u
+(
+)
+= −5.59 MeV
+ 
+ 
+Thus, 
+Kemerging = 6.61 MeV −5.59 MeV = 1.02 MeV . 
+P44.48 
+(a) 
+The Q value of the reaction is given by 
+ 
+ 
+ 
+Q = M 9Be + M 4 He −M 12 C −mn
+⎡⎣
+⎤⎦c2 
+ 
+ 
+ 
+Q = 9.012 182 u + 4.002 603 u
+[
+                 −12.000 000 u −1.008 665 u]
+                                                           × 931.5 MeV u
+(
+)
+= 5.70 MeV
+ 
+ 
+(b) For this reaction, 
+ 
+ 
+ 
+Q = 2M 2 H −M 3 He −mn
+⎡⎣
+⎤⎦ 
+ 
+ 
+ 
+Q = 2 2.014 102 u
+(
+)−3.016 029 u −1.008 665 u
+[
+]
+                                                          × 931.5 MeV u
+(
+)
+= 3.27 MeV
+ 
+ 
+(c) 
+The reaction in part (b) is exothermic because the Q value is 
+positive.  
+P44.49 
+Total A and total Z are conserved.  
+ 
+(a) 
+For X,   A = 24 + 1 – 4 = 21 and Z = 12 + 0 – 2 = 10, so X is 
+10
+21Ne . 
+ 
+(b) A = 235 + 1 – 90 – 2 = 144 and Z = 92 + 0 – 38 – 0 = 54,  
+so X is 
+54
+144Xe . 
+ 
+(c) 
+A = 2 – 2 = 0 and Z = 2 – 1 = +1, so X must be a positron. 
+ 
+ 
+As it is ejected, it is accompanied by a neutrino:    
+ 
+ 
+ 
+X +
+′
+X =
+1
+0e+ + ν
+
+--- PAGE 30 ---
+1128     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.50 
+(a) 
+79
+197Au + 0
+1n →
+79
+198Au* →
+80
+198Hg + −1
+0e + ν 
+ 
+Note the conservation of baryon number (which you can think of 
+as nucleon census number and call mass number in this chapter) 
+in the superscripts: 197 + 1 = 198 + 0. Note the conservation of 
+charge in the subscripts: 79 + 0 = 80 – 1. 
+ 
+(b) Consider adding 79 electrons: 
+ 
+ 
+ 
+79
+197Au atom + 0
+1n →
+80
+198Hg atom + ν + Q 
+ 
+ 
+Then, 
+ 
+ 
+ 
+Q = M197 Au + mn −M198 Hg
+⎡⎣
+⎤⎦c2
+Q = 196.966 552 u + 1.008 665 u −197.966 752 u
+[
+] 
+                                                         × 931.5 MeV u
+(
+)
+= 7.89 MeV
+ 
+P44.51 
+We consult Table 44.2 for the masses.  For the first reaction, 
+ 
+ 
+4
+9Be + 1.665 MeV →4
+8Be + 0
+1n 
+ 
+so 
+M
+4
+8Be = M
+4
+9Be −Q
+c2 −mn 
+ 
+ 
+M
+4
+8Be = 9.012 182 u −−1.665 MeV
+(
+)
+931.5 MeV u −1.008 665 u
+= 8.005 3 u
+ 
+ 
+For the second reaction, 
+ 
+ 
+4
+9Be + 0
+1n →
+4
+10Be + 6.812 MeV 
+ 
+so    
+M
+4
+10Be = M
+4
+9Be + mn −Q
+c2 
+ 
+ 
+M
+4
+10Be = 9.012 182 u + 1.008 665 u −6.812 MeV
+931.5 MeV u
+= 10.013 5 u
+
+--- PAGE 31 ---
+Chapter 44     1129 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 44.8 
+Nuclear Magnetic Resonance and  
+Magnetic Resonance Imaging 
+P44.52 
+It is the quantum particle under boundary conditions model that is 
+behind the general rules: With angular momentum quantum number I, 
+the magnitude of the angular momentum must be 
+I(I + 1) . Whether 
+I is an integer or a half-integer, the allowed values for one component 
+of angular momentum being measured range from +I to +(I – 1)  to 
+… to −I. Conditions that the wave function for a quantum particle 
+must satisfy, for self-consistency under rotations in three-dimensional 
+space, impose these requirements. We call a component being 
+measured the z component. It can be measured more directly, as in a 
+nuclear magnetic resonance experiment, or less directly, as from the 
+way the angular momentum influences the intrinsic energy levels of a 
+system and the number of available states within an energy level. 
+ 
+(a) 
+With I = 5/2, the magnitude of the angular momentum is  
+ 
+ 
+ 
+I(I + 1) =
+5
+2 ( 5
+2 + 1) =
+35 /2
+     = 2.958 04(6.626 × 10−34 J⋅s)/2π
+= 3.119 × 10−34 kg⋅m2/s
+ 
+ 
+ 
+The z component can take the values +5/2 , +3/2 , +/2 , −/2 , 
+−3/2 , and −5/2. These identifications are shown in ANS. FIG. 
+P44.52(a). 
+ 
+(b) Similarly, with I = 4, the magnitude of the angular momentum of 
+a nucleus is 
+I(I + 1) =
+4(4 + 1) =
+20  and its z component 
+must have one of the nine values +4, +3 , +2 , +, 0, −, –2, 
+–3, –4, as shown in ANS. FIG. P44.52(b). 
+ 
+ANS. FIG. P44.52
+
+--- PAGE 32 ---
+1130     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.53 
+From page 1406 and Equation 44.31, the magnetic moment is 
+−1.913 5µn for the neutron and 2.792 8µn for the proton, where 
+µn = 5.05 × 10−27 J T is the nuclear magneton.  
+ 
+(a) 
+The Larmor frequency of free neutrons is 
+ 
+ 
+ 
+fn = 2µB
+h
+=
+2
+1.913 5
+(
+) 5.05 × 10−27 J T
+(
+)
+⎡⎣
+⎤⎦1.00 T
+(
+)
+6.626 × 10−34 J⋅s
+= 29.2 MHz
+ 
+ 
+(b) The Larmor frequency of free protons is 
+ 
+ 
+ 
+fp =
+2
+2.792 8
+(
+) 5.05 × 10−27 J T
+(
+)
+⎡⎣
+⎤⎦1.00 T
+(
+)
+6.626 × 10−34 J ⋅s
+= 42.6 MHz 
+ 
+(c) 
+In the Earth’s magnetic field, 
+ 
+ 
+ 
+fp =
+2
+2.792 8
+(
+) 5.05 × 10−27 J T
+(
+)
+⎡⎣
+⎤⎦50.0 × 10−6 T
+(
+)
+6.626 × 10−34 J ⋅s
+= 2.13 kHz 
+ 
+ 
+ 
+Additional Problems 
+*P44.54 
+From R = R0e−λt and T1/2 = 5 730 yr for 14C, the age of the sample is 
+ 
+ 
+ 
+t = −1
+λ ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟= −T1/2
+ln R/R0
+(
+)
+ln2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −5 730 yr
+(
+) ln 0.600
+(
+)
+ln2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 4.22 × 103 yr
+ 
+*P44.55 
+From R = R0e−λt , the elapsed time is 
+ 
+ 
+ 
+t = −1
+λ ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟= −T1/2
+ln R/R0
+(
+)
+ln2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −14.0 d
+(
+)
+ln 20.0 mCi
+200 mCi
+⎛
+⎝
+⎞
+⎠
+ln2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+= 46.5 d
+ 
+P44.56 
+The proposed reaction can be written as 
+ 
+ 
+ 
+5
+10B +  2
+4He     →    1
+1H  +   6
+12C  
+ 
+While electric charge is conserved (5 + 2 = 1 + 6), the number of 
+nucleons is not (10 + 4 ≠ 1 + 12). Therefore, this reaction cannot occur.
+
+--- PAGE 33 ---
+Chapter 44     1131 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.57 
+(a) 
+From Equation 44.1,  
+ 
+ 
+ 
+r = aA1 3 = 1.2 fm
+(
+)A1 3 = 1.2 × 10−15 m
+(
+)A1 3 
+ 
+ 
+When A = 12, r = 1.2 fm 12
+(
+)
+1 3 = 2.7 × 10−15 m = 2.7 fm 
+ 
+(b) 
+F =
+ke Z −1
+(
+)e2
+r2
+=
+8.99 × 109 N ⋅m2 C2
+(
+) Z −1
+(
+) 1.60 × 10−19 C
+(
+)
+2
+r2
+ 
+ 
+ 
+When Z = 6 and r = 1.2 × 10−15 m
+(
+) 12
+(
+)
+1 3 , F = 1.5 × 102 N . 
+ 
+(c) 
+U = keq1q2
+r
+=
+ke Z −1
+(
+)e2
+r
+=
+8.99 × 109
+(
+) Z −1
+(
+) 1.6 × 10−19
+(
+)
+2
+r
+ 
+ 
+ 
+When Z = 6 and r = 1.2 × 10−15 m
+(
+) 12
+(
+)
+1 3 , 
+U = 4.2 × 10−13 J = 2.6 MeV 
+ 
+(d) A = 238, Z = 92, and r = 1.2 fm 238
+(
+)
+1 3 = 7.4 × 10−15 m = 7.4 fm 
+ 
+ 
+ 
+F = 3.8 × 102 N 
+and 
+U = 2.8 × 10−12 J = 18 MeV 
+P44.58 
+(a) 
+The process cannot occur because energy input would be 
+required. Note that the mass of the proton is less than the sum of 
+the masses of the neutron and positron (electron): 
+ 
+ 
+ 
+mn + me+ > mp
+1.008 665 u + 0.000 549 u
+1.009 214 u > 1.007 276 u
+ 
+ 
+ 
+Therefore, the reaction p →n + e+ + ν would violate the law of 
+conservation of energy.  
+ 
+(b) The required energy can come from the electrostatic repulsion of 
+protons in the parent nucleus. 
+ 
+(c) 
+Add seven electrons to both sides of the reaction for nuclei 
+7
+13N →
+6
+13C + e+ + ν to obtain the reaction for neutral atoms 
+7
+13N atom →
+6
+13C atom + e+ + e−+ν. 
+ 
+ 
+ 
+Q = m
+13N
+(
+)−m
+13C
+(
+)−me+ −me−−mν
+⎡⎣
+⎤⎦c2
+Q = 13.005 739 u −13.003 355 u −2 5.49 × 10−4 u
+(
+)−0
+⎡⎣
+⎤⎦
+                                             × 931.5 MeV u
+(
+)
+= 1.20 MeV
+
+--- PAGE 34 ---
+1132     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.59 
+E = −µ ⋅
+
+B so the energies are E1 = +µB andE2 = −µB , where B = 12.5 T, 
+µ = 2.792 8µn , and µn = 5.05 × 10−27 J T . The energy difference is  
+ 
+ 
+ΔE = 2µB = 2 2.792 8
+(
+) 5.05 × 10−27 J T
+(
+) 12.5 T
+(
+)
+= 3.53 × 10−25 J = 2.20 × 10−6eV = 2.20 µeV
+ 
+P44.60 
+We check the Q value of this reaction: 
+ 
+ 
+Q = 238.050 788 u −237.051 144 u −1.007 825 u
+[
+]
+                                                            × 931.5 MeV u
+(
+)
+= −7.62 MeV
+ 
+ 
+The Q value of this hypothetical decay is calculated to be
+–7.62 MeV, which means you would have to add this 
+much energy to the 238U nucleus to make it emit a proton.
+ 
+P44.61 
+(a) 
+The system of a separated proton and electron puts out energy 
+13.606 eV to become a hydrogen atom in its ground state. This 
+decrease in its rest energy appears also as a decrease in mass: the 
+mass is smaller . 
+ 
+(b) The mass difference is 
+ 
+ 
+ 
+Δm = E
+c2 =
+13.6 eV
+3.00 × 108 m s
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.42 × 10−35 kg
+(
+)
+1 u
+1.66 × 10−27 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.46 × 10−8 u
+ 
+ 
+(c) 
+As a percentage of the total mass, 
+ 
+ 
+ 
+1.46 × 10−8 u
+1.007 825 u = 1.45 × 10−8 = 1.45 × 10−6% 
+ 
+(d) 
+No. The textbook table lists 1.007 825 u as the atomic mass of 
+hydrogen. This correction of 0.000 000 01 u is on the order of 100 
+times too small to affect the values listed. 
+P44.62 
+We check the Q value of the 
+57Co nuclei decay by e
++:  
+ 
+ 
+ 
+27
+57Co →26
+57Fe + +1
+0e + ν 
+ 
+Mass values appear in Table 44.2. For this reaction, 
+ 
+ 
+ 
+Q = 56.936 291−56.935 394 −2 0.000 549
+(
+)
+⎡⎣
+⎤⎦u 931.5 MeV u
+(
+)
+= −0.187 MeV
+
+--- PAGE 35 ---
+Chapter 44     1133 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The nucleus 57Co cannot decay by e+ emission because 
+the Q value is – 0.187 MeV.
+  
+P44.63 
+(a) 
+The number of nuclei at t = 0 is given by 
+ 
+ 
+ 
+N0 =
+mass
+mass per atom =
+1.00 kg
+(239.05 u) 1.66 × 10−27 kg u
+(
+)
+= 2.52 × 1024
+ 
+ 
+(b) To find the initial activity, we first compute the ecay constant: 
+ 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+2.412 × 104 yr
+(
+) 3.156 × 107 s yr
+(
+)
+= 9.106 × 10−13 s−1 
+ 
+ 
+Then, 
+ 
+ 
+ 
+R0 = λN0 = 9.106 × 10−13 s−1
+(
+) 2.52 × 1024
+(
+) = 2.29 × 1012 Bq 
+ 
+(c) 
+From R = R0e−λt ,  
+ 
+ 
+ 
+t = −1
+λ ln
+R
+R0
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+λ ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+t =
+1
+9.106 × 10−13 s−1 ln 2.29 × 1012 Bq
+0.100 Bq
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.38 × 1013 s
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.07 × 106yr
+ 
+P44.64 
+(a) 
+One liter of milk contains this many 40K nuclei: 
+ 
+ 
+ 
+N = (2.00 g) 6.02 × 1023 nuclei mol
+39.1 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.011 7
+100
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.60 × 1018 nuclei
+λ = ln2
+T1 2
+=
+ln2
+1.28 × 109 yr
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.72 × 10−17 s−1
+R = λN = 1.72 × 10−17 s−1
+(
+) 3.60 × 1018
+(
+) = 61.8 Bq
+ 
+ 
+ 
+The activity is 61.8 Bq L . 
+ 
+(b) For the iodine, R = R0e−λt, with λ =
+ln2
+8.04 d
+. Then, 
+ 
+ 
+ 
+t = 1
+λ ln R0
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= 8.04 d
+ln2 ln 2 000
+61.8
+⎛
+⎝⎜
+⎞
+⎠⎟= 40.3 d
+
+--- PAGE 36 ---
+1134     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.65 
+We have NU-235 = N0, U- 235e−λU-235t 
+ 
+and  
+NU-238 = N0, U-238e−λU-238t, 
+ 
+so 
+ 
+NU-235
+NU-238
+= 0.007 25 = e
+−ln 2
+(
+)t T1/2, U-235 + ln 2
+(
+)t T1/2, U-238
+(
+) 
+ 
+Taking logarithms, 
+ 
+ 
+ 
+−4.93 = −
+ln2
+0.704 × 109 yr
++
+ln2
+4.47 × 109 yr
+⎛
+⎝⎜
+⎞
+⎠⎟t 
+ 
+ 
+ 
+−4.93 = −
+1
+0.704 × 109 yr
++
+1
+4.47 × 109 yr
+⎛
+⎝⎜
+⎞
+⎠⎟ln2
+(
+)t 
+ 
+ 
+ 
+t =
+−4.93
+−1.20 × 10−9 yr−1
+(
+)ln2
+= 5.94 × 109 yr = 5.94 Gyr 
+P44.66 
+(a) 
+See ANS. FIG. P44.66. A least-square fit to the graph yields: 
+ 
+ 
+ 
+λ = −slope = −−0.250 h−1
+(
+) = 0.250 h−1 
+ 
+ 
+and 
+ 
+ 
+ 
+ln(cpm)
+t=0 = intercept = 8.30 
+ 
+ 
+ 
+ 
+ANS. FIG. P44.66 
+ 
+(b) From part (a),  
+ 
+ 
+ 
+λ = 0.250 h−1
+1 h
+60.0 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.17 × 10−3 min−1 
+ 
+ 
+and T1 2 = ln2
+λ
+=
+ln2
+4.17 × 10−3 min−1 = 166 min = 2.77 h 
+ 
+(c) 
+From part (a), intercept = ln cpm
+(
+)0 = 8.30. 
+ 
+ 
+Thus, cpm
+(
+)0 = e8.30 counts min = 4.02 × 103 counts min .
+
+--- PAGE 37 ---
+Chapter 44     1135 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) At t = 0, 
+ 
+ 
+ 
+N0 = R0
+λ = 1
+λ
+cpm
+(
+)0
+Eff
+=
+4.02 × 103 counts min
+4.17 × 10−3 min−1
+(
+) 0.100
+(
+)
+= 9.65 × 106 atoms
+ 
+P44.67 
+(a) 
+If ΔE is the energy difference between the excited and ground 
+states of the nucleus of mass M, and hf is the energy of the 
+emitted photon, conservation of energy for the nucleus-photon 
+system gives 
+ 
+ 
+ 
+ΔE = hf + Er 
+[1] 
+ 
+ 
+where Er is the recoil energy of the nucleus, which can be 
+expressed as 
+ 
+ 
+ 
+Er = Mv2
+2
+=
+Mv
+(
+)
+2
+2M
+ 
+[2] 
+ 
+ 
+Since system momentum must also be conserved, we have 
+ 
+ 
+ 
+Mv = hf
+c 
+[3] 
+ 
+ 
+Hence, Er can be expressed as Er =
+hf
+(
+)
+2
+2Mc2 . 
+ 
+ 
+When hf << Mc2, we can make the approximation that hf ≈ΔE, 
+ 
+ 
+so 
+Er ≈ΔE
+(
+)
+2
+2Mc2 . 
+ 
+(b) 
+Er =
+ΔE
+(
+)
+2
+2Mc2 ,  where  ΔE = 0.014 4 MeV 
+ 
+ 
+and Mc2 = (57 u)(931.5 MeV u) = 5.31× 104 MeV. 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+Er =
+1.44 × 10−2 MeV
+(
+)
+2
+2 5.31× 104 MeV
+(
+)
+= 1.95 × 10−9 MeV = 1.95 × 10−3 eV 
+P44.68 
+(a) 
+If we assume all the 
+87Sr came from 87Rb, then N = N0e−λ t yields 
+ 
+ 
+ 
+t = −1
+λ ln
+N
+N0
+⎛
+⎝⎜
+⎞
+⎠⎟= T1 2
+ln2 ln N0
+N
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 38 ---
+1136     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+where 
+N = NRb-87 
+ 
+ 
+and  
+N0 = NSr-87 + NRb-87. 
+ 
+ 
+ 
+t =
+4.75 × 1010 yr
+(
+)
+ln2
+ln 1.82 × 1010 + 1.07 × 109
+1.82 × 1010
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.91× 109 yr 
+ 
+(b) It could be no older. The rock could be younger if some 
+87Sr were originally present. We must make some assumption 
+about the original quantity of radioactive material. In part (a) we 
+assumed that the rock originally contained no strontium. 
+P44.69 
+The time of flight is given by Δt = d/v. Since K = 1
+2 mv2, 
+ 
+ 
+Δt =
+d
+2K
+m
+=
+10.0 × 103 m
+2(0.040 0 eV) 1.60 × 10–19 J/eV
+(
+) 
+1.67 × 10–27  kg 
+= 3.61 s
+ 
+ 
+The decay constant is  
+ 
+ 
+λ = 0.693
+T1/2
+=
+0.693
+(10.4 min)(60 s/min) = 1.11× 10−3 s–l 
+ 
+Therefore we have 
+ 
+ 
+λΔt = 1.11× 10−3 s
+(
+)(3.61 s) = 4.01× 10–3 = 0.004 01 
+ 
+And the fraction remaining is 
+ 
+ 
+N
+N0
+= e–λΔt = e– 0.004 01 = 0.996 0.  
+ 
+Hence, the fraction that has decayed in this time interval is 
+ 
+ 
+ 
+1– N
+N0
+= 0.004 01
+or
+0.401%
+ 
+ 
+P44.70 
+(a) 
+For cobalt-56, 
+ 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+77.1 d
+365.25 d
+1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.28 yr−1 
+ 
+ 
+The elapsed time from July 1054 to July 2010 is 956 yr. Then, 
+R = R0e−λ t implies 
+ 
+ 
+ 
+ R
+R0
+= e−λt = e
+−3.28 yr−1
+(
+) 956 yr
+(
+) = e−3 139 = e−ln10
+(
+)1 363 = ~ 10−1 363
+
+--- PAGE 39 ---
+Chapter 44     1137 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For carbon-14, 
+ 
+ 
+ 
+λ =
+ln2
+5 730 yr = 1.21× 10−4 yr−1 
+ 
+ 
+and 
+ 
+ 
+ 
+R
+R0
+= e−λt = e
+−1.21×10−4 yr−1
+(
+) 956 yr
+(
+) = e−0.116 = 0.891
+ 
+P44.71 
+(a) 
+For the electron capture, 
+ 
+ 
+ 
+43
+93Tc + −1
+0e →42
+93Mo + γ  
+ 
+ 
+For positron emission, 
+ 
+ 
+ 
+43
+93Tc →42
+93Mo + +1
+0e + γ 
+ 
+ 
+The daughter nucleus in both forms of decay is 42
+93Mo . 
+ 
+(b) We usually calculate 
+the Q value under the 
+assumption that the 
+daughter nucleus is in 
+its ground state, but for 
+these decays, the Q 
+value gives the upper 
+limit of energy 
+available to the 
+daughter nucleus to be 
+above its ground state.  
+ 
+ 
+For electron capture, 
+the disintegration energy is  
+ 
+     
+ 
+ 
+ 
+Q = M 93 Tc −M 93 Mo
+⎡⎣
+⎤⎦c2  
+ 
+ 
+ 
+Q = 92.910 2 u −92.906 8 u
+[
+] 931.5 MeV u
+(
+)
+= 3.17 MeV > 2.44 MeV
+  
+ 
+ 
+so electron capture provides enough energy for 42
+93Mo to be in all 
+levels above its ground state.  
+ 
+ 
+For e+ emission, the disintegration energy is  
+ 
+ 
+ 
+′
+Q = M 93 Tc −M 93 Mo −2me
+⎡⎣
+⎤⎦c2 . 
+ 
+ 
+ 
+′
+Q = 92.910 2 u −92.906 8 u −2(0.000 549 u)
+[
+](931.5 MeV/u)
+= 2.14 MeV
+ 
+ 
+ANS. FIG. P44.71
+
+--- PAGE 40 ---
+1138     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so e+ emission does not supply enough energy for 42
+93Mo to be in 
+the 4.22 MeV state, only 1.35 MeV, 1.48 MeV, and 1.35 MeV above 
+ground (see ANS. FIG. P44.71). 
+P44.72 
+We start with R = R0e−λt, and take the natural logarithm of both sides, 
+giving lnR = lnR0 −λt, which is the equation of a straight line with 
+slope = λ. The logarithmic plot shown in Figure P44.72 is fitted by  
+ 
+ 
+ 
+lnR = 8.44 −0.262t 
+ 
+If t is measured in minutes, then decay constant λ is 0.262 per minute. 
+The half–life is 
+ 
+ 
+ 
+T1 2 = ln2
+λ
+=
+ln2
+0.262 min = 2.64 min 
+ 
+The reported half–life of 137Ba is 2.55 min. The difference reflects 
+experimental uncertainties. 
+P44.73 
+(a) 
+With mn and vn as the mass and speed of the neutrons, Equation 
+9.24 for elastic collisions becomes for the two collisions, after 
+making appropriate notational changes,  
+ 
+ 
+ 
+v1 =
+2mn
+mn + m1
+⎛
+⎝⎜
+⎞
+⎠⎟vn , and v2 =
+2mn
+mn + m2
+⎛
+⎝⎜
+⎞
+⎠⎟vn 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+mn + m2
+(
+)v2 = mn + m1
+(
+)v1 = 2mnvn
+mn v2 −v1
+(
+) = m1v1 −m2v2
+→
+mn = m1v1 −m2v2
+v2 −v1
+ 
+ 
+(b) We obtain the neutron mass from 
+ 
+ 
+ 
+mn =
+1 u
+(
+) 3.30 × 107 m s
+(
+) −14 u
+(
+) 4.70 × 106 m s
+(
+)
+4.70 × 106 m s −3.30 × 107 m s
+= 1.16 u 
+P44.74 
+(a) 
+We treat the collision of the two particles a and X as a perfectly 
+inelastic collision: the kinetic energy that is converted into 
+internal energy supplies the missing energy Q, permitting the 
+conversion of the particles into Y and b.  
+ 
+ 
+Initially, the projectile Ma moves with velocity va while the 
+target MX is at rest. We have from momentum conservation for 
+the projectile-target system: 
+ 
+ 
+ 
+Mava = Ma + MX
+(
+)vc
+
+--- PAGE 41 ---
+Chapter 44     1139 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The initial energy is 
+ 
+ 
+ 
+ 
+Ei = 1
+2 Mava
+2 
+ 
+ 
+The final kinetic energy is:  
+ 
+ 
+ 
+E f = 1
+2 Ma + MX
+(
+)vc
+2 = 1
+2 Ma + MX
+(
+)
+Mava
+Ma + MX
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+=
+Ma
+Ma + MX
+⎡
+⎣⎢
+⎤
+⎦⎥Ei
+ 
+ 
+ 
+From this, we see that E f is always less than Ei and the change in 
+energy, E f −Ei , is given by 
+ 
+ 
+ 
+E f −Ei =
+Ma
+Ma + MX
+−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥Ei = −
+MX
+Ma + MX
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥Ei 
+ 
+ 
+This loss of kinetic energy in the isolated system corresponds to 
+an increase in mass-energy during the reaction. Thus, the absolute 
+value of this kinetic energy change is equal to –Q (remember that 
+Q is negative in an endothermic reaction). The initial kinetic 
+energy Ei is the threshold energy Eth. Therefore, 
+ 
+ 
+ 
+ 
+−Q =
+MX
+Ma + MX
+⎡
+⎣⎢
+⎤
+⎦⎥Eth
+ 
+ 
+ 
+or 
+Eth = −Q MX + Ma
+MX
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −Q 1+ Ma
+MX
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥. 
+ 
+(b) We first calculate the Q value for the reaction:  
+ 
+ 
+ 
+Q = MN-14 + MHe-4 −MO-17 −MH-1
+⎡⎣
+⎤⎦c2 
+ 
+ 
+ 
+Q = 14.003 074 u + 4.002 603 u −16.999 132 u −1.007 825 u
+[
+]
+× 931.5 MeV u
+(
+)
+= −1.19 MeV
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+Eth = −Q MX + Ma
+MX
+⎡
+⎣⎢
+⎤
+⎦⎥= −−1.19 MeV
+(
+) 1+ 4.002 603 u
+14.003 074 u
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.53 MeV
+
+--- PAGE 42 ---
+1140     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.75 
+We have the following information: NX(0) = 2.50NY(0),  
+ 
+NX(3 d) = 4.20NY(3 d), and T1 2Y = 1.60 d. The nuclei decay 
+exponentially:  
+ 
+ 
+ 
+NX(3 d) = 4.20NY(3 d)
+NX(0)e−λX 3 d
+(
+) = 4.20NY(0)e−λY 3 d
+(
+) = 4.20 NX(0)
+2.50 e−λY 3 d
+(
+)
+e 3 d
+(
+)λX = 2.5
+4.2 e 3 d
+(
+)λY
+ 
+ 
+ 
+Taking the natural logarithm of both sides, 
+ 
+ 
+ 
+3 d
+(
+)λX = ln 2.5
+4.2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 3 d
+(
+)λY
+3 d
+(
+) 0.693
+T1 2 X
+= ln 2.5
+4.2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 3 d
+(
+) 0.693
+1.60 d = 0.781
+ 
+ 
+ 
+The half-life of X is T1 2 X = 2.66 d 
+P44.76 
+We have the following information: NX(0)
+NY(0) = r1, NX(Δt)
+NY(Δt) = r2, and  
+T1 2Y = TY. The nuclei decay exponentially:   
+ 
+ 
+ 
+NX(Δt) = r2NY(Δt)
+NX(0)e−λXΔt = r2NY(0)e−λYΔt =
+r2
+r1
+⎛
+⎝⎜
+⎞
+⎠⎟NX(0)e−λYΔt
+e−ΔtλX = r2
+r1
+e−ΔtλY
+ 
+ 
+Taking the natural logarithm of both sides, 
+ 
+ 
+ 
+−ΔtλX = ln r2
+r1
+⎛
+⎝⎜
+⎞
+⎠⎟−ΔtλY
+Δt ln2
+TX
+= −ln r2
+r1
+⎛
+⎝⎜
+⎞
+⎠⎟+ Δt ln2
+TY
+= ln r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟+ Δt ln2
+TY
+ 
+ 
+ 
+ 
+1
+TX
+= ln r1 r2
+(
+)
+Δtln2 + 1
+TY
+= TY ln r1 r2
+(
+)+ Δtln2
+TYΔtln2
+=
+ln 2 r1 r2
+(
+)
+TY Δt
+⎡⎣
+⎤⎦
+TY ln2
+ 
+ 
+The half-life of X is TX =
+TY ln2
+ln 2 r1 r2
+(
+)
+TY Δt
+⎡⎣
+⎤⎦
+
+--- PAGE 43 ---
+Chapter 44     1141 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P44.77 
+The electric charge density in the sphere is 
+ 
+ 
+ρ =
+Ze
+4 3
+(
+)π R3
+ 
+ 
+Using Gauss’s Law inside the sphere, 
+ 
+ 
+E⋅4π r2 =
+4 3
+(
+)π r3
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+Ze
+4 3
+(
+)π R3
+:  
+ 
+or 
+E =
+1
+4π ∈0
+Ze
+R3
+⎛
+⎝⎜
+⎞
+⎠⎟r          r ≤R
+(
+) 
+ 
+ 
+Outside the sphere, the field is  
+ 
+ 
+ 
+E =
+1
+4π ∈0
+Ze
+r2          r ≥R
+(
+)
+  
+ 
+ 
+We now find the electrostatic energy 
+ 
+ 
+U =
+1
+2 ∈0 E2
+⎛
+⎝⎜
+⎞
+⎠⎟4π r2 dr
+r=0
+∞
+∫
+ 
+ 
+ 
+U = 1
+2 ∈0
+Ze
+4π ∈0 R3
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+r
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+2
+4π r2 dr
+0
+R
+∫
++ 1
+2 ∈0
+1
+4π ∈0
+Ze
+r2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+4π r2 dr
+R
+∞
+∫
+= 2π ∈0
+Ze
+4π ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+r2
+R6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+r2 dr
+0
+R
+∫
++ 2π ∈0
+Ze
+4π ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+r4
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+R
+∞
+∫
+r2dr
+= Z2e2
+8π ∈0
+r4
+R6 dr
+0
+R
+∫
++
+dr
+r2
+R
+∞
+∫
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= Z2e2
+8π ∈0
+R5
+5R6
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+R
+−1
+r
+⎛
+⎝⎜⎞
+⎠⎟
+R
+∞
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= Z2e2
+8π ∈0
+R5
+5R6 + 1
+R
+⎡
+⎣⎢
+⎤
+⎦⎥= 3
+20
+Z2e2
+π ∈0 R = 3
+5
+1
+4π ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+Z2e2
+R
+ 
+ 
+or  
+U =
+3
+20
+Z2e2
+π ∈0 R = 3keZ2e2
+5R
+ 
+P44.78 
+(a) 
+Add two electrons to both sides of the reaction to have it in 
+neutral-atom terms: 
+ 
+ 
+ 
+4 1
+1H atom →2
+4He atom + Q → Q = Δmc2 = 4M
+1
+1H −M
+2
+4 He
+⎡⎣
+⎤⎦c2
+
+--- PAGE 44 ---
+1142     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The Q value is then 
+ 
+ 
+ 
+Q = 4 1.007 825 u
+(
+) −4.002 603 u
+⎡⎣
+⎤⎦
+× 931.5 MeV u
+(
+) 1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.28 × 10−12 J
+ 
+ 
+(b) The Sun is comprised of  
+ 
+ 
+ 
+N =
+1.99 × 1030 kg
+1.67 × 10−27 kg atom = 1.19 × 1057 atoms
+= 1.19 × 1057 protons
+ 
+ 
+(c) 
+The energy that could be created by this many protons in this 
+reaction is 
+ 
+ 
+ 
+1.19 × 1057 protons
+(
+)
+4.28 × 10−12 J
+4 protons
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.27 × 1045 
+ 
+ 
+Then, since P = E
+Δt
+, 
+ 
+ 
+ 
+Δt = E
+P = 1.27 × 1045 J
+3.85 × 1026 W = 3.31× 1018 s = 105 billion years
+ 
+ 
+(d) 
+The time interval in (c) is an order of magnitude larger 
+than the expected remaining lifetime of the Sun. Only 
+the hydrogen in a relatively small core is available as a 
+nuclear fuel. Only in the core are temperatures and 
+densities high enough for the fusion reaction to be 
+self-sustaining.
+
+--- PAGE 45 ---
+Chapter 44     1143 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P44.2 
+(a) 68; (b) 30
+68Zn ; (c) Isotopes of other elements to the left and right of 
+zinc in the periodic table (from manganese to bromine) may have the 
+same mass number. 
+P44.4 
+~10
+28 protons; (b) 10
+28 neutrons; (c) ~10
+28 electrons 
+P44.6 
+184 m 
+P44.8 
+(a) 0.360 MeV; (b) Figure P44.8 shows the highest point in the curve at 
+about 4 MeV, a factor of ten higher than the value in (a).  
+P44.10 
+r2 =
+m2
+m1
+r1 
+P44.12 
+(a) 5.18 fm; (b) λ is much less than the distance of closest approach 
+P44.14 
+(a) 2.82 × 10
+–5; (b) 1.38 × 10
+–14 
+P44.16 
+0.210 MeV 
+P44.18 
+See P44.18 for full explanation. 
+P44.20 
+(a) 84.2 MeV; (b) 342 MeV; (c) The nuclear force is so strong that the 
+binding energy greatly exceeds the minimum energy needed to 
+overcome electrostatic repulsion. 
+P44.22 
+~200 MeV 
+P44.24 
+(a) Nucleons on the surface have fewer neighbors with which to 
+interact. The surface term is negative to reduce the estimate from the 
+volume term, which assumes that all nucleons have the same number 
+of neighbors; (b) sphere, 1
+3 r, cube, 1
+6 L. The sphere has a larger ratio to 
+its characteristic length, so it would represent a larger binding energy 
+and be more plausible for a nuclear shape. 
+P44.26 
+(a)1.55 × 10−5 s−1; (b) 12.4 h; (c) 2.39 × 1013 atoms; (d) 1.88 mCi 
+P44.28 
+See P44.28 for full explanation. 
+P44.30 
+R0T1 2
+ln2
+2
+−t1 T1 2 −2
+−t2 T1 2
+(
+) 
+P44.32 
+(a) 0.755; (b) 0.570; (c) 9.766 × 10−4; (d) No. The decay model depends 
+on large numbers of nuclei. After some long but finite time, only one 
+undecayed nucleus will remain. It is likely that the decay of this final 
+nucleus will occur before infinite time.
+
+--- PAGE 46 ---
+1144     Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.34 
+(a) See P44.34(a) for full explanation; (b) See P44.34(b) for full 
+explanation; (c) See ANS. FIG. P44.34(c); (d) 10.9 min;  
+(e) tm =
+ln λ1 λ2
+(
+)
+λ1 −λ2
+; (f) 10.9 min 
+P44.36 
+(a) See P44.36(a) for full explanation; (b) 18.6 keV 
+P44.38 
+(a) 28
+65Ni∗; (b) 82
+211Pb; (c) 27
+55Co 
+P44.40 
+(a) Nd = NP, 0 −NP, 0 e−λt = 1.00 × 106
+(
+) 1−e−0.0693t
+(
+) , where t is in hours;  
+(b) The number of daughter nuclei starts from zero at t = 0. The 
+number of stable product nuclei always increases with time and 
+asymptotically approaches 1.00 × 10
+6 as t increases without limit;  
+(c) The minimum number of daughter nuclei is zero at t = 0. The 
+maximum number of daughter nuclei asymptotically approaches  
+1.00 × 10
+6 as t increases without limit; (d) The rate of change has its 
+maximum value, 6.93 × 10
+4 h
+–1, at t = 0, after which the rate decreases 
+more and more, approaching zero as t increases without limit. 
+P44.42 
+(a) 1.05 × 1021; (b) 1.37 × 109; (c) 3.83 × 10−12 s−1;  
+(d) 3.17 × 103 decays week ; (e) 951 decays/week; (f) 9.95 × 103 yr 
+P44.44 
+(a) 0.281; (b)1.65 × 10−29 ; (c) Radon is continuously created. 
+P44.46 
+(a) 4.00 × 109 yr ; (b) N
+′
+N = 0.019 9
+235U to 
+207Pb chain and N
+′
+N = 4.60 for 
+the 
+232Th to 
+208Pb chain 
+P44.48 
+(a) 5.70 MeV; (b) 3.27 MeV; (c) exothermic 
+P44.50 
+(a) 79
+197Au + 0
+1n →
+79
+198Au* →
+80
+198Hg + −1
+0e + ν ; (b) 7.89 MeV 
+P44.52 
+See ANS. FIG. P44.52(a) and (b). 
+P44.54 
+4.42 × 103 yr 
+P44.56 
+While electric charge is conserved (5 + 2 = 1 + 6), the number of 
+nucleons is not (10 + 4 ≠ 1 + 12). Therefore, this reaction cannot occur. 
+P44.58 
+(a) The process cannot occur because energy input would be required; 
+(b) Required energy can come from the electrostatic repulsion;  
+(c) 1.20 MeV 
+P44.60 
+The Q value of this hypothetical decay is calculated to be –7.62 MeV, 
+which means you would have to add this much energy to the 
+238U 
+nucleus to make it emit a proton.
+
+--- PAGE 47 ---
+Chapter 44     1145 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P44.62 
+The nucleus 
+57Co cannot decay by e
++ emission because the Q value is  
+–0.187 MeV. 
+P44.64 
+(a) 61.8 Bq/L; (b) 40.3 d 
+P44.66 
+(a) See ANS. FIG. P44.66; (b) 4.17 × 10−3 min−1, 2.77 h; 
+(c) 4.02 × 103 counts min ; (d) 9.65 × 106 atoms 
+P44.68 
+(a) 3.91× 109 yr ; (b) no older 
+P44.70 
+(a)~ 10−1 363; (b) 0.891 
+P44.72 
+2.64 min 
+P44.74 
+(a) See P44.74(a) for full explanation; (b) 1.53 MeV 
+P44.76 
+TY ln2
+ln 2 r1 r2
+(
+)
+TY Δt
+⎡⎣
+⎤⎦
+ 
+P44.78 
+(a) 4.28 × 10−12 J; (b) 1.19 × 1057 atoms; (c) 105 billion years; (d) The 
+time interval in (c) is an order of magnitude larger than the expected 
+remaining lifetime of the Sun. Only the hydrogen in a relatively small 
+core is available as a nuclear fuel. Only in the core are temperatures 
+and densities high enough for the fusion reaction to be self-sustaining.

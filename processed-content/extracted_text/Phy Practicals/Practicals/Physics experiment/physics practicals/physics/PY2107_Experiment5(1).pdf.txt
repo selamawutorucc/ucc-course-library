@@ -1,0 +1,220 @@
+
+--- PAGE 1 ---
+THERMAL PHYSICS LABORATORY:
+CUBIC EXPANSIVITY OF A LIQUID AS A FUNCTION OF TEMPERATURE
+The cubic expansivity of a substance is formally deﬁned as the limit of the fractional
+change in volume that comes about due to some change in temperature at constant
+pressure as the temperature change becomes inﬁnitesimally small (goes to zero):
+β
+=
+lim(ΔT →0)ΔV/V
+ΔT
+= 1
+V
+∂V
+∂T
+
+P
+Thus, β could be determined experimentally by measuring the volume of a substance
+as a function of temperature.
+In the experiment you will be doing something equivalent but slightly diﬀerent: mea-
+suring the mass of a hot liquid displaced by a ﬁxed volume as a function of temperture
+as the liquid cools. The ﬁxed volume is the volume of a “Mathiessen sinker,” which
+is a sealed glass bulb partially ﬁlled with lead shot such that it just sinks in water
+at room temperature. The mass of ﬂuid displaced by the bulb is measured using
+Archimedes’ Principle: as the ﬂuid cools, its density increases, the mass of ﬂuid
+displaced by the bulb increases, and the upward bouyant force increases.
+Since you will be dealing with the temperature-dependent mass of the ﬂuid displaced
+by the bulb, we need to re-write the expression for β in terms of changes in this
+mass.
+In the formula above, a ﬁxed mass mo of substance is assumed.
+Writing
+V (T) = mo/ρ(T), where ρ(T) is the temperature-dependent density, we obtain
+1
+V
+∂V
+∂T
+
+P
+=
+ρ
+mo
+ ∂
+∂T
+mo
+ρ
+
+P
+=
+ρ
+mo
+
+−mo
+ρ2
+∂ρ
+∂T
+
+P
+=
+−1
+ρ
+ ∂ρ
+∂T
+
+P
+β
+=
+−
+∂ln ρ
+∂T
+
+P
+The advantage of this formula is that it can be applied to the experimental setup you
+will be using, where, instead of a ﬁxed mass occupying a variable volume, you have
+a variable mass of ﬂuid occupying a ﬁxed volume Vo:
+m(T)
+=
+ρ(T)Vo
+ln m(T)
+=
+ln ρ(T) + ln Vo
+β
+=
+−
+∂ln ρ
+∂T
+
+P
+= −
+∂ln m
+∂T
+
+P
+1
+
+--- PAGE 2 ---
+EXPERIMENTAL PROCEDURE
+1. Ensure that the unloaded triple beam balance reads zero. Weigh the Math-
+iessen sinker in air. You should strive to obtain all mass measurements in this
+experiment with accuracy to the smallest sub-division on the 0-1 gm scale, i.e.
+a hundredth of a gram.
+2. Heat the water to about 75◦C and very carefully transfer the beaker and water
+to the support stand on the balance.
+3. Carefully lower the bulb, suspended by a thread from the balance, into the
+beaker of hot water. Ensure that the sinker is fully submerged. Weigh the bulb
+again, ensuring that the beaker is not in contact with the balance, and record
+the corresponding temperature of the water.
+4. Record the temperature and the mass of the fully-submerged sinker as the
+water cools to tap-water temperature. Initially, one reading should be taken for
+every 0.1 gm mass decrease, which should correspond to two or three degrees
+of temperature decrease. As the temperature becomes lower, you will notice a
+steady growth in the temperature drop per 0.1 gm increase in the sinker mass.
+When this temperature drop exceeds ﬁve degrees, reduce the mass increment
+between readings to 0.05 gm.
+Note: A convenient way to make the mass and temperature measurements is
+as follows. After a measurement, adjust the rider on the 1-gm beam so that it is
+sitting on the next mass increment you want to measure; initially, the sinker will
+be somewhat more massive than the water it displaces (i.e. the beam pointer will
+be above the balanced position). As the water cools, the beam pointer will come
+down toward the balanced position - you can then wait for the beam pointer to
+pass through the balanced position and read the temperature corresponding to
+this time (you don’t have to scramble to read the mass, because you speciﬁed it
+just after the previous measurement). Then adjust the rider on the 1-gm beam
+so that it is sitting on the next mass you want to measure and carry on in this
+fashion.
+5. Initially, the cooling rate will be such that prompt recording of temperature
+and mass will be required in order to achieve a good density of data points.
+The cooling rate will gradually slow, since it is proportional to the constantly
+decreasing diﬀerence between the temperatures of the water and air. The latter
+stages of the cooling process can be accelerated by removing some water from
+the beaker and replacing it with tap water using the equipment provided. But,
+if you do this, be careful not to disturb the balance, and ensure that any drops
+of water that attach to the balance or its wire frame are dried oﬀ!
+2
+
+--- PAGE 3 ---
+DATA ANALYSIS
+Setting Up
+You are free to use any software package you wish to do this data analysis.
+1. Enter your temperature (in degrees Celsius) and mass readings as two columns
+of data in a spreadsheet.
+2. Add another column of data with the mass of the water displaced, obtained by
+subtracting each mass reading from the mass of the bulb in air.
+3. Add another column of data with ln m(T).
+General Examination of the Data
+1. Make a plot of your points for ln m(T) vs. temperature for your entire dataset.
+2. Obtain a linear ﬁt to the data:
+ln m(T)
+=
+a + bT
+and verify that such a ﬁt does not provide a fully adequate description of the
+data points by plotting the points and the ﬁt.
+3. Now obtain a quadratic ﬁt to the data:
+ln m(T)
+=
+a + bT + cT 2
+Does this seem to provide a good ﬁt to the data – does it seem to reproduce
+well all the bumps and dips in the temperature dependence for ln m(T)?
+4. Now obtain a cubic polynomial ﬁt to the data:
+ln m(T)
+=
+a + bT + cT 2 + dT 3
+Is the ﬁt provided by this function visibly better than the ﬁt provided by the
+quadratic ﬁt?
+5. Find the root-mean-square diﬀerences between your N data points and the
+quadratic and cubic polynomial ﬁts f(T), together with the corresponding rms
+percentage errors:
+
+
+
+ 1
+N
+N
+
+i=1
+(Datai −f(Ti))2
+
+
+
+ 1
+N
+N
+
+i=1
+Datai −f(Ti)
+Datai
+2
+Do these quantities for the two diﬀerent polynomial ﬁts indicate that one ﬁt is
+signiﬁcantly better than the other?
+3
+
+--- PAGE 4 ---
+Determination of the Cubic Expansivity
+1. Determine a polynomial approximation for β as a function of the temperature by
+taking the negative derivative of the cubic polynomial ﬁt used to approximated
+ln m(T) as a function of T:
+β
+=
+−b −2cT −3dT 2
+2. The most precise experimental determination of the cubic expansivity of water
+at 1 atm pressure is very accurately interpolated by the function
+β
+=
+10−6
+−68 + 16.9T
+1 + 0.01629T −4.68 × 10−5T 2
+where T is likewise in degrees Celsius – we will take this to be a mathematical
+expression for the “true” value of β. Make a plot of the expression you got in
+step 1 just above together with a plot of this function – how well do the two
+functions agree? If the two functions don’t have roughly the same magnitude,
+check – you may have made a mistake somewhere.
+3. Make a plot of the diﬀerence between these two functions for each of the temper-
+atures you measured. Do the two functions agree equally well throughout the
+entire temperature range, or are there certain intervals of temperature where
+they don’t agree as well? If the latter, do you have any ideas about why this
+might be the case?
+4. Find a value for β for water for atmospheric pressure and some temperature
+in your range of measured temperatures in a handbook or other reference book
+– how does this value compare with the value indicated by your data for that
+temperature?
+4

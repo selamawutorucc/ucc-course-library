@@ -1,0 +1,143 @@
+TITLE   :An experiment to determine the deformation solid bodies
+AIM     :To determine the deformation of bodies
+APPARATUS: Support base, Support rod,600mm, Double clamp, Weight holder, 10, Slotted weight, 10, Slotted weight 10, Helical spring , 3N/m, Helical spring, 20N/m, Holding pin, Glass tube holder, Measuring tape, 2m
+DIAGRAM:
+THEORY: Hooke’s law states that the force applied to an elastic body is directly proportional to the extension of the body provided the elastic limit is not exceeded. If an applied force varies linearly with position, the force can be defined as where is called the force constant. Once such physical system where this force exists is with a common helical spring acting on a body. If the spring is stretched or compressed a small distance from its equilibrium position, the spring will exert a force on the body given by Hooke's Law, namely 
+Where is known as the spring force. Here the constant of proportionality, , is the known as the spring constant, and is the displacement of the body from its equilibrium position (at = 0 ). The spring constant is an indication of the spring's stiffness. A large value for indicates that the spring is stiff. A low value for means the spring is soft. Generally speaking, springs with large values can balance larger forces than springs with low values. 
+The negative sign in Equation 1 indicates that the direction of is always opposite the direction of the displacement. This implies that the spring force is a restoring force. In other words, the spring force always acts to restore, or return, the body to the equilibrium position regardless of the direction of the displacement.
+
+When a mass, , is suspended from a spring and the system is allowed to reach equilibrium, as shown in Figure 2, Newton's Second Law tells us that the magnitude of the spring force equals the weight of the body, . Therefore, if we know the mass of a body at equilibrium, we can determine the spring force acting on the body. 
+
+Equation 1 applies to springs that are initially unstretched. When the body undergoes an arbitrary displacement from some initial position, , to some final position, , this equation can be written as 
+where is the body's displacement.
+METHOD  :A stand with the support base was set up, the support rod and the double clamp according to Fig.3.1.The holding pin was fixed in the double clamp and the 3N/m helical spring hanged in it. The glass tube holder was clamped on the base of the support rod and the extended measuring tape clamped in it. The length of the measuring tape was adjusted so that it’s zero mark was exactly at the same level as the lower end of the helical spring. The weight  holder (m=10g) was hanged on the hooked end of the spring and the extension     recorded he mass was increased by 10g increments to a total of 50g and the corresponding extensions length     recorded.All values for the mass m and the extension    were recorded as in the table below.The 20N/m helical spring was hanged on the holding pin and measuring tape moving up or down until it’s zero mark was even with the lower end of the spring. The weight holder was hanged with a 10g mass piece (sum=20g) on the spring’s hook and the extension   noted.The mass in 20g increment was increased up to a total of 200g and the corresponding extensions in length recorded. 
+TITLE :An experiment to determine the viscosity measurement with the falling –ball viscometer
+AIM :To determine the viscosity measurement with the falling-ball viscometer
+APPARATUS :Stop watch, immersion thermostat, lab thermometer, falling ball viscometer ,thermometer, funnel ,Top dia.55mm,Glass beaker. short 250ml,Rubber tubing.0.8mm ,Bath for the thermostat .Makrolon ,Accessory set f. immersion thermo
+DIAGRAM :
+Diagram
+Theory
+If a sphere of radius r and density σ moves with velocity υ in a fluid of viscosity η and of density, then for very small velocities, the resistance W of the sphere is:
+        (Stokes’ law) 	(1).
+If the fluid is not of infinite extent, then, as an approximation,
+)     (referred to as Ladenburg correction.)
+if the liquid is in a cylindrical vessel of radius R and the height of the cylinder is
+The force which acts on the sphere in the gravitational field of the earth because of the density difference between the sphere and the fluid is
+,               (2)            where  is the acceleration due to gravity. From (1) and (2) with W=F, it follows that  
+                 (3). So a graph of r2 against v is plotted. Since the falling ball viscometer has an inclined plane with additional rotary motion of the ball, (3) applies only approximately, with a correction factor. For many liquids it is an exponential of the viscosity function of temperature
+                             (4)
+The constant b in (4) is the activation energy for viscous flow.
+ can be explained as a Boltzmann factor, which states that the proportion of the molecules which have sufficient energy to overcome the barriers before the flow sets in.
+Procedure
+The experiment was set up as is shown in the diagram above. The viscometer was filled with the liquid glycerin. A temperature of 350C was maintained through the experiment using the thermostat and bath for about 15minutes. The alloy balls given were weighed on the electronic balance to determine their masses. The diameter of the ball was taken thereafter with the use of a micrometer screw gauge. Readings were obtained on each of the three ball bearings. These readings were recorded as d/mm. the ball bearings were dropped down the internal cylinder of the viscometer that is through the glycerin, one after the other. For each drop, the time taken for the ball to cover a specified distance was recorded using a stopwatch 
+METHOD : The experimental set up was arranged in accordance with the figure above. The viscometer was adjusted with the adjustable feet on the stand base and the built-in spirit level. When swivelling the measurement section, the locking pin must be engaged in the slot inserted on the measurement section. The clean dry viscometer tube was filled with the liquid to be investigate , to just below the brim and the, and then the ball was inserted. Care was taken that there was no air bubbles in the liquid or adhering to the ball. It was found that the smallest bubbles detached themselves from the ball if it was pressed into the liquid with a glass rod. Then the hollow stopper was carefully inserted in the viscometer tube and secured. Before the measurements for temperature-dependence, the temperature was kept constant for 10 minutes. After the ball was placed in the gravity tube, viscometer was allowed to equilibrate to the selected working temperature T for approximately 10 minutes before 3-5 falling times t were determined.     
+Temperature of the experiment =350C
+Least count of the micrometer screw gauge: 0.01mm
+Least count of stop watch = 0.01s
+Least count of meter rule = 0.1cm
+Fixed distance = 4.5cm = 0.045m
+Where η= dynamic viscosity of fluid
+            g= acceleration due to gravity
+            r= radius of sphere
+            v= settling velocity of ball
+            σ= density of sphere
+            ρ= density of fluid
+Discussion
+Viscosity refers to the degree of internal friction in a fluid. A highly viscous fluid is the one which possess high resistance on the motion of a body moving through it. Consider the equation proposed by Strokes, that is;
+r2 = (η/ (σg - ρg)) Vt
+Viscosity of a liquid is directly proportional to the square of the radius but inversely proportional to the velocity of the sphere through it.
+ From the results obtained, it was observed that for the initial three stages of readings taking, the radius of the ball bearing decreased with an increase in velocity. It can be deduced that the decrease in the size of the ball bearings caused a decrease in the viscous drag of glycerine on the ball bearings and hence moved more and more smoothly with increasing velocities. 
+Sources of error
+-Error due to impurities in the glycerine 
+-Error due to air bubbles in the glycerine.
+-Error due to imperfect streamline due to dents or scratches on the ball bearing. 
+Precaution
+-It was ensured that the air bubbles were removed as much as possible.
+-It was ensured that the internal cylinder in the viscometer was properly cleaned to avoid any other liquid from hindering the experiment and to produce a clear visible cylinder.
+-Errors due to parallax were avoided during the reading of the distance on the cylinder.
+Conclusion
+From the results obtained from the calculation it can be concluded that for any spherical body moving down a liquid, as the size (square of the radius) increases, the viscous drag i.e. viscosity of the liquid increase to decrease the velocity of the body. Hence the viscosity of a liquid depends on the shape and the velocity of the falling body. The terminal velocity of the ball bearings falling through glycerin is small enough for it to be reached before turbulence occurs, and its measurement provides a method of determining the viscosity of such a liquid (glycerin).Viscosity also decreases with an increase in temperature.
+Reference
+   1. Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published                                                   by Thomson Learning company, Canada, page 285-292.  
+   2. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College      Publishers, Forth Worth, U.S.A.page 425-430.     
+SM/SMS/09/0034
+EXPERIMENT 4
+VISCOSITY MEASUREMENT WITH THE FALLING BALL-
+PHY-103
+7th OCT. ’09.
+AIM
+To verify Stokes’ law which states that if a sphere of radius r and density σ moves with a velocity v in a fluid (this experiment used the fluid of glycerin) of viscosity η and of density ρ, therefore very small velocities, the resistance W of the sphere is .
+To determine the viscosity of a fluid (glycerin) 
+APPARATUS
+Stop watch. Interruption type
+Immersion thermostat
+Lab thermometer falling ball viscometer
+Glycerin
+Rubber tubes (0.8mm)
+Bath for thermostat (makrolon)
+Accessory set f. immersion thermo.
+DIAGRAM
+THEORY
+If a sphere of radius r and density σ moves with velocity υ in a fluid of viscosity η and of density, then for very small velocities, the resistance W of the sphere is:
+        (Stokes’ law) 	(1).
+If the fluid is not of infinite extent, then, as an approximation,
+)     (referred to as Ladenburg correction.)
+if the liquid is in a cylindrical vessel of radius R and the height of the cylinder is
+The force which acts on the sphere in the gravitational field of the earth because of the density difference between the sphere and the fluid is
+,               (2)            where  is the acceleration due to gravity. From (1) and (2) with W=F, it follows that  
+                 (3). So a graph of r2 against v is plotted. Since the falling ball viscometer has an inclined plane with additional rotary motion of the ball, (3) applies only approximately, with a correction factor. For many liquids it is an exponential of the viscosity function of temperature
+                             (4)
+The constant b in (4) is the activation energy for viscous flow.
+ can be explained as a Boltzmann factor, which states that the proportion of the molecules which have sufficient energy to overcome the barriers before the flow sets in.
+PROCEDURE
+The experiment was set up as is shown in the diagram above. The viscometer was filled with the liquid glycerin. A temperature of 350C was maintained through the experiment using the thermostat and bath for about 15minutes. The alloy balls given were weighed on the electronic balance to determine their masses. The diameter of the ball was taken thereafter with the use of a micrometer screw gauge. Readings were obtained on each of the three ball bearings. These readings were recorded as d/mm. the ball bearings were dropped down the internal cylinder of the viscometer that is through the glycerin, one after the other. For each drop, the time taken for the ball to cover a specified distance was recorded using a stopwatch 
+TABLE OF RESULTS
+A GRAPH OF r2 AGAINST VELOCITY(v)
+CALCULATIONS
+Temperature of the experiment =350C
+Least count of the micrometer screw gauge: 0.01mm
+Least count of stop watch = 0.01s
+Least count of meter rule = 0.1cm
+Fixed distance = 4.5cm = 0.045m
+Where η= dynamic viscosity of fluid
+            g= acceleration due to gravity
+            r= radius of sphere
+            v= settling velocity of ball
+            σ= density of sphere
+            ρ= density of fluid
+Comparing this equation to y=mx+c, it implies that  where m is slope
+It implies  =   
+DISCUSSION
+Viscosity refers to the degree of internal friction in a fluid. A highly viscous fluid is the one which possess high resistance on the motion of a body moving through it. Consider the equation proposed by Strokes, that is;
+r2 = (η/ (σg - ρg)) Vt
+Viscosity of a liquid is directly proportional to the square of the radius but inversely proportional to the velocity of the sphere through it.
+ From the results obtained, it was observed that for the initial three stages of readings taking, the radius of the ball bearing decreased with an increase in velocity. It can be deduced that the decrease in the size of the ball bearings caused a decrease in the viscous drag of glycerin on the ball bearings and hence moved more and more smoothly with increasing velocities. 
+SOURCES OF ERRORS
+1. Impurities in the glycerin may produce errors in reading.
+2. Air bubbles may still be present in the glycerin.
+3. Ball bearing may not be perfectly streamlined due to dents or scratches on them.
+PRECAUTIONS
+1. The air bubbles were removed as much as possible.
+2. The internal cylinder in the viscometer was properly cleaned to avoid any other liquid from hindering the experiment and to produce a clear visible cylinder.
+3. Errors due to parallax were avoided during the reading of the distance on the cylinder.
+CONCLUSION
+From the results obtained from the calculation it can be concluded that for any spherical body moving down a liquid, as the size (square of the radius) increases, the viscous drag i.e. viscosity of the liquid increase to decrease the velocity of the body. Hence the viscosity of a liquid depends on the shape and the velocity of the falling body. The terminal velocity of the ball bearings falling through glycerin is small enough for it to be reached before turbulence occurs, and its measurement provides a method of determining the viscosity of such a liquid (glycerin).Viscosity also decreases with an increase in temperature.
+REFERENCES
+   1. Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada, page 285-292.  
+   2. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College  Publishers, Forth Worth, U.S.A.page 425-430.     
+ss
+ | (1) 
+  | Figure 1a.When the displacement is to the right ( > 0) the spring force is directed to the left ( < 0).  |   | Figure 1b.When the displacement is to the left ( < 0) the spring force is directed to the right ( > 0).  |  
+  |  |  |  | 
+  |   |   |   |  
+  | Figure 1c. In both cases shown in Figures 1a and 1b, the effect of the spring force is to return the system to the equilibrium position. At this position, = 0 and the spring is unstretched, signifying = 0.  | Figure 1c. In both cases shown in Figures 1a and 1b, the effect of the spring force is to return the system to the equilibrium position. At this position, = 0 and the spring is unstretched, signifying = 0.  | Figure 1c. In both cases shown in Figures 1a and 1b, the effect of the spring force is to return the system to the equilibrium position. At this position, = 0 and the spring is unstretched, signifying = 0.  |  
+ 
+
+Figure 2. A body of mass, , is suspended from a spring having a spring constant, . If the system is in equilibrium the spring force is balanced by the weight of the body. 
+ | (2) 
+Ball | Diameter(d)/mm | Diameter(d m | Time t/s | Velocity( v x10-2 )/ms-1 | Radius         (r  x10-3 )/m | (r2/m2
+1 | 15.43 | 1.543 | 82.00 | 0.55 | 7.715 | 5.95
+2 | 14.18 | 1.428 | 9.52 | 4.72 | 7.140 | 5.10
+3 | 12.11 | 1.211 | 1.69 | 26.63 | 6.055 | 3.67
+4 | 11.22 | 1.122 | 1.08 | 41.70 | 5.610 | 3.15
+5 | 7.54 | 0.754 | 0.55 | 81.80 | 3.770 | 1.42

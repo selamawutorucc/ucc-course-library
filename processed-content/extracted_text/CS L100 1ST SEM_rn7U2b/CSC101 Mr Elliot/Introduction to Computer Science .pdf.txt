@@ -1,0 +1,259 @@
+
+--- PAGE 1 ---
+CSC101: INTRODUCTION TO 
+COMPUTING 
+ELLIOT ATTIPOE
+TEL: 024 387 9458
+EMAIL: EATTIPOE@UCC.EDU.GH
+1
+
+--- PAGE 2 ---
+COURSE OUTLINE 
+• Topics 
+• Digital Literacy
+• Computer Hardware
+• The Internet & Networks
+• Digital Safety and Security 
+• Introduction to Python Programming 
+• Digital Marketing 
+2
+
+--- PAGE 3 ---
+ASSESSMENT 
+•Continuous Assessment (40%)
+•Quizzes 
+•Homework 
+•Presentations 
+•Exams (60%)
+3
+
+--- PAGE 4 ---
+LEARNING MANAGEMENT SYSTEM (E-LEARNING)
+4
+
+--- PAGE 5 ---
+WHY DID YOU 
+CHOOSE TO STUDY 
+COMPUTER 
+SCIENCE?
+5
+
+--- PAGE 6 ---
+REASONS TO MAJOR IN COMPUTING (ACM)
+1. Computing is part of everything we do!
+2. Expertise in computing enables you to solve complex, 
+challenging problems.
+3. Computing enables you to make a positive difference in 
+the world.
+4. Computing offers many types of lucrative careers.
+6
+
+--- PAGE 7 ---
+REASONS TO MAJOR IN COMPUTING (ACM)
+5. Computing jobs are here to stay, regardless of where 
+you are located.
+6. Computing offers great opportunities for true creativity 
+and innovativeness.
+7. Computing is an essential part of well-rounded academic 
+preparation.
+8. Future opportunities in computing are without boundaries.
+7
+
+--- PAGE 8 ---
+WHAT DO YOU 
+WANT TO DO WITH 
+A COMPUTER 
+SCIENCE DEGREE?
+8
+
+--- PAGE 9 ---
+9
+
+--- PAGE 10 ---
+WHAT IS THE DIFFERENCE 
+BETWEEN 
+COMPUTER SCIENCE 
+AND 
+INFORMATION TECHNOLOGY 
+10
+
+--- PAGE 11 ---
+CS VS IT
+•Computer science refers to designing and building 
+computers and computer programs. 
+•Information technology refers to maintaining and 
+troubleshooting those computers and their networks, 
+systems, and databases to ensure they run smoothly.
+11
+
+--- PAGE 12 ---
+CS VS IT
+•Information technology) careers are more about installing, 
+maintaining, and improving computer systems, operating 
+networks, and databases. 
+•Computer science (CS) focuses on using mathematics to 
+program systems to run more efficiently, including in 
+design and development.
+12
+
+--- PAGE 13 ---
+CS VS IT
+•Computer science professionals use mathematics to 
+develop and improve computer programs. 
+•IT professionals install, implement, and maintain these 
+programs and apply them to businesses. 
+•Computer science professionals use skills in mathematics 
+and theories to make information technology possible
+•IT professionals use skills to communicate with businesses to 
+meet their needs through technology.
+13
+
+--- PAGE 14 ---
+COMPUTER SCIENCE VS. IT CAREERS
+•Jobs grounded in computer science will broadly mean 
+working with programming languages or data to develop 
+or improve products. 
+•Jobs in IT will focus more heavily on the operation of 
+computers, their networks, and systems, so that others in an 
+organization can do their work smoothly.
+14
+
+--- PAGE 15 ---
+15
+
+--- PAGE 16 ---
+STRUCTURE OF CS PROGRAM (LEVEL 100)
+CSC 101: Introduction to Computing 
+CSC 102 Programming Techniques 
+CSC 107: Software Suite
+PHY 101: General Physics I (Theory)
+PHY 103: General Physics I (Practical)
+MAT101: Algebra and Trigonometry 
+MAT 102: Analytic Geometry and Calculus 
+PHY 102: General Physics II (Theory)
+PHY 104: General Physics II (Practical)
+STA 102: Introduction to Statistics 
+16
+
+--- PAGE 17 ---
+STRUCTURE OF CS PROGRAM (LEVEL 200)
+CSC 203: Programming and Problem Analysis I
+CSC 211: Computer Architecture
+CSC 213: Database Management I
+MAT 201 Introduction to Abstract Algebra 
+MAT 203: Further Calculus 
+CSC 212: Algorithms
+CSC 214: Operating Systems 
+CSC 216: Database Management II
+MAT 202: Vector Algebra and Differential Equations
+STA 202: Further Statistics 
+17
+
+--- PAGE 18 ---
+STRUCTURE OF CS PROGRAM (LEVEL 300)
+CSC 311: Computer Security 
+CSC 315: Discrete Mathematics 
+CSC 317: Software Engineering 
+CSC 319: Data Structures:
+MAT 301: Advanced Calculus I
+CSC 302: Programming and Problem Analysis II (Java)
+CSC 312: Human Computer Interface
+CSC 314: Network Computing I
+CSC 316: Web Technologies 
+CSC 399: Research Methods 
+18
+
+--- PAGE 19 ---
+STRUCTURE OF CS PROGRAM (LEVEL 300)
+CSC 401: Introduction to Compilers 
+CSC 405: Advanced Operating Systems 
+CSC 411: Introduction to Artificial Intelligence
+CSC 413: Computer Graphics
+CSC 415: Network Computing II
+CSC 402: Numerical Analysis 
+CSC 406: Systems Administration 
+CSC412: Cryptography and Network Security 
+CSC 408: Operations Research 
+CSC 499: Project Work 
+19
+
+--- PAGE 20 ---
+20
+
+--- PAGE 21 ---
+21
+
+--- PAGE 22 ---
+COMPUTER SCIENCE SPECIALIZATION 
+• Artificial Intelligence
+• Skills: Mathematics and analysis, algorithms, predictive modeling
+• Common Roles: Artificial Intelligence Architect, Artificial 
+Intelligence Researcher, Machine Learning Engineer
+• Computer-Human Interface
+• Skills: Communication, interpersonal skills, attention to visual detail, 
+mapping how people use software and systems
+• Common Roles: User Experience (UX) Designer, User Experience 
+Researcher, Interaction Designer
+22
+
+--- PAGE 23 ---
+COMPUTER SCIENCE SPECIALIZATION 
+• Computer Graphics
+• Skills: Attention to visual and artistic detail, collaboration, creativity
+• Common Roles: Mobile Application Developer, iOS Developer, 
+Android Developer
+•
+• Information Security
+• Skills: Communication, threat/vulnerability management, 
+knowledge of security compliance rules and regulations
+• Common Roles: Security Engineer, Network Security Analyst, 
+System Security Analyst
+23
+
+--- PAGE 24 ---
+COMPUTER SCIENCE SPECIALIZATION 
+• Programming Languages
+• Skills: Coding and scripting in multiple languages, collaboration
+• Common Roles: Full-Stack Web Developer, Front-End Developer, 
+Game Developer, Software Programmer
+• Software Engineering
+• kills: Coding and scripting, communication, collaboration
+• Common Roles: Software Development Engineer, Software 
+Engineer
+24
+
+--- PAGE 25 ---
+COMPUTER SCIENCE SPECIALIZATION 
+• Game Design
+• kills: Attention to visual detail, collaboration, coding, and scripting
+• Common Roles: Video Game Designer, Video Game Developer, 
+Software Engineer
+• Data Science
+• Skills: Mathematics and analytics, attention to detail, predictive 
+modeling
+• Common Roles: Data Scientist, Data Analyst, Business Intelligence 
+Analyst, Machine Learning Engineer, Information Scientist, 
+Database Administrator
+25
+
+--- PAGE 26 ---
+COMPUTER SCIENCE SPECIALIZATION 
+• Networks
+• Skills: Diagnose and troubleshoot network issues, design network 
+architecture
+• Common Roles: Network Administrator, Network Analyst, 
+Network Architect
+• Theory
+• Skills: Mathematics and analytics, predictive modeling and 
+probability, big-picture planning
+• Common roles: Algorithm Scientist, Machine Learning Engineer
+26
+
+--- PAGE 27 ---
+ASSIGNMENT 
+• What is Artificial intelligence? 
+• List 10 applications of Artificial intelligence? 
+• Discuss roles, benefits and drawbacks of artificial intelligence?
+• Deadline: January 31, 2023
+• Do not exceed 2 pages
+27

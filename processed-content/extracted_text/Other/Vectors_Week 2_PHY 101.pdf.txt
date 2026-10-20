@@ -1,0 +1,1370 @@
+
+--- PAGE 1 ---
+VECTORS AND SCALARS AND COMPONENTS OF A VECTOR 
+         
+All physical quantities can be grouped into scalars and vectors. In Physics, scalars and vectors are 
+used to explain concepts. Mass, distance and speed are examples of scalars. Displacement, 
+velocity, acceleration and force are examples of vectors. Also, this session teaches you how to 
+break a given vector into its components. A vector lying in an x-y plane and directed at an angle 
+has both x-component and y-component. How to determine magnitude and direction of vectors are 
+also discussed. This session introduces you to another method of adding two vectors. The 
+parallelogram law of vectors is used to find the resultants of two vectors. This law can be applied 
+graphically or by calculation to find the resultant of two vectors. 
+ 
+Objectives  
+At the end of this session you should be able to: 
+1. explain scalars and give examples. 
+2. explain vectors and give examples 
+3. distinguish between a scalar and a vector. 
+4. components of any given vector. 
+5. magnitudes of vectors. 
+6. directions of vectors.  
+7. define a unit vector. 
+8. find the unit vector of a given vector. 
+9. write a vector in the position vector notation. 
+10. add and subtract vectors graphically. 
+11. add and subtract vectors by calculations. 
+12. apply the laws of vector algebra to do calculations. 
+13. understand the parallelogram law of vectors; 
+14. to use the law to find resultants of two or more vectors. 
+                                                                                                          
+Vectors and Scalars 
+In Physics, physical quantities are grouped into scalars and vectors. Not all physical quantities 
+involve a direction. 
+ A scalar quantity is specified by a single value with an appropriate unit and has no direction. That 
+is, a scalar quantity has only magnitude but no direction. Physical quantities like temperature, 
+volume, mass, time intervals, pressure and energy are examples of scalars because they have only 
+magnitudes with unit.  
+A vector quantity has magnitude as well as direction. It is typically represented by an arrow whose 
+direction is the same as that of the quantity and whose length is proportional to the quantity’s 
+magnitude. The direction of a vector is often expressed as an anticlockwise angle of rotation of the 
+vector about its "tail" (starting point) from due East. Using this convention, a vector E with a 
+direction of 40 degrees is a vector that has been rotated 40 degrees in an anticlockwise direction 
+relative to due east as shown in Figure 1.1. Examples of vector quantities are displacement, 
+velocity and acceleration.
+
+--- PAGE 2 ---
+40o anti clockwise rotation from East 
+ 
+ 
+ 
+                 
+ 
+ 
+                  Figure 1.1 Vector E is rotated through an angle 
+                      40 degrees in the anticlockwise direction. 
+                                                                                                                                           
+Components of a Vector 
+A vector that starts from the origin and is directed along the customary axes (ie. x, y, and z) will 
+have only one component. For example, if a vector D moves 2 units along the x-axis, its 
+components will read as D (2,0) which means that it has only x-component.  
+ 
+In situations where a vector is directed at angles to the customary coordinate axes, a useful method 
+will be employed to transform the vector into two parts with each part being directed along the 
+coordinate axes. For example, a vector that is directed northwest can be thought of as having two 
+parts (ie. a northward part and a westward part). A vector with coordinate B (3,4) will have 3 units 
+along the x-axis and 4 units along the y-axis.  
+ 
+Consider a vector A lying in the xy plane and making an arbitrary angle θ with the positive x axis 
+as shown in Figure 1.2.  
+ 
+ 
+UNIT VECTORS AND LAWS OF VECTOR ALGEBRA 
+In this session you will be introduced to unit vectors which are used to specify a given direction 
+and have no other physical significance so that it lacks both dimension and unit. They help you to 
+write vectors in vector notation. Unit vectors also help you to identify the components of vectors 
+with ease. 
+                                                                                                                                                                                    
+ 
+Figure 1.2 Any vector A lying in the xy plane can be 
+represented by a vector Ax lying along the x axis and by  
+a vector Ay lying along the y axis, where A = Ax + Ay 
+y 
+x 
+A 
+Ay 
+Ax 
+O 
+θ 
+E
+
+--- PAGE 3 ---
+Unit Vectors 
+A unit vector is a vector that has a magnitude of 1 and points in a particular direction. It is denoted 
+by 𝑢̂. Unit vectors are used to specify a given direction and have no other physical significance so 
+that it lacks both dimension and unit. The unit vectors in the positive directions of the x, y, z axes 
+are represented by ,i jandk as shown in Figure 1.3. The unit vectors form a set of mutually 
+perpendicular vectors in a right-handed coordinate system as shown in Figure 1.3. 
+Mathematically, a unit vector is given by the ratio of a vector to its magnitude. 
+ That is 𝑢̂ =
+𝒖̅
+|𝒖|.                           
+The magnitude of each unit vector equals 1; that is
+1
+=
+=
+=
+i
+j
+k
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consider a vector A lying in the xy plane as shown in Figure 1.4. The product of the component 
+x
+A and the unit vector i is the vector
+x
+A i , which lies on the x axis and has magnitude
+x
+A . 
+y
+A j is 
+a vector of magnitude 
+y
+A lying on the y axis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                y 
+ 
+ 
+ 
+ 
+                
+                j 
+ 
+ 
+            k                    i                                         x   
+ 
+   z       
+Figure 1.3 Unit vectors i, j and k define the directions of a 
+right-handed rectangular coordinate system. 
+y 
+x 
+A 
+Ayj 
+Axi 
+O 
+Figure 1.4  Vector A = Axi + Ayj lying in the xy 
+plane has components Ax and Ay
+
+--- PAGE 4 ---
+The unit vector notation for the vector A then is 
+j
+i
+A
+y
+x
+A
+A +
+=
+                                                                          1.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If a point lies in the xy plane with Cartesian coordinates(
+)
+,x y as shown in  
+Figure 1.5, then its position vector r in unit-vector form is given by 
+x
+y
+=
++
+r
+i
+j                                                                                1.6 
+Equation 1.6 tells us that the components of r are the lengths x and y . 
+If we want to add vectors A and B in component form so that the resultant is 
+=
++
+R
+A
+B then, 
+(
+) (
+)
+x
+y
+x
+y
+A
+A
+B
+B
+=
++
++
++
+R
+i
+j
+i
+j                                                     1.7 
+or 
+(
+)
+(
+)
+A
+B
+A
+B
+=
++
++
++
+R
+i
+j                                                           1.8 
+But 
+x
+y
+R
+R
+=
++
+R
+i
+j, so that the components of the resultant vector are 
+x
+x
+x
+y
+y
+y
+R
+A
+B
+R
+A
+B
+=
++
+=
++
+                                                                             1.9 
+ 
+The magnitude of R then becomes 
+(
+)
+(
+)
+2
+2
+2
+2
+x
+y
+x
+x
+y
+y
+R
+R
+R
+A
+B
+A
+B
+=
++
+=
++
++
++
+                               1.10 
+and the angle that R makes with the x axis is 
+tan
+y
+y
+y
+x
+x
+x
+R
+A
+B
+R
+A
+B
+
++
+=
+=
++
+                                                                1.11 
+ 
+ 
+ 
+y 
+x 
+r 
+O 
+(x,y) 
+Figure 1.5  The point whose Cartesian coordinates  
+are (x, y) can be represented by the position vector 
+ r = xi + yj
+
+--- PAGE 5 ---
+If A and B both have ,x y and z components, they can be expressed in the form 
+x
+y
+z
+x
+y
+z
+A
+A
+A
+B
+B
+B
+=
++
++
+=
++
++
+A
+i
+j
+k
+B
+i
+j
+k                                                                   1.12 
+The sum of A and B is 
+(
+)
+(
+)
+(
+)
+x
+x
+y
+y
+z
+z
+A
+B
+A
+B
+A
+B
+=
++
++
++
++
++
+R
+i
+j
+k                                 1.13 
+ 
+Laws of Vector Algebra 
+If A, B and C are vectors and p and q are scalars, then 
+1. A + B = B + A                                     Commutative Law for Addition 
+2. A + (B +C) = (A + B) + C                   Associative Law for Addition 
+3. p(qA) = (pq)A = q(pA)                        Associative Law of Multiplication 
+4. (p + q )A = pA + qA                            Distributive Law 
+5. p(A + B) = pA + pB                             Distributive Law 
+ 
+Note that in these Laws only multiplication of a vector by one or more scalars is defined. 
+ 
+Example 1.2. A 5N force acts on a body at an angle of 30o to the horizontal. 
+i. 
+Find the components of the Force F. 
+ii. 
+Write down F in the position vector notation  
+iii. 
+Find the unit vector of F 
+ 
+Solution 
+i. 
+Using the trigonometric ratios, 
+      The force along the horizontal direction Fx = F cosθ = 5 cos30o = 4.33N; 
+      The force along the vertical direction Fy = F sinθ = 5 sin30o = 2.5N 
+ii. 
+F = 4.33i + 2.5j 
+iii. 
+Unit vector 𝐹̂ = 
+𝐹⃗
+|𝐹| = 
+ 4.33i + 2.5j
+5
+= 
+4.33
+5 𝒊+
+2.5
+5 𝒋   
+ 
+Example 1.3.  Given a vector A = 2i + 5j, find the 
+i. 
+magnitude of vector A  
+ii. 
+direction of the vector A 
+ 
+Solution 
+i. 
+Magnitude of vector |𝐴| = √22 + 52 = √4 + 25 = 5.4 𝑢𝑛𝑖𝑡 
+ii. 
+𝑡𝑎𝑛𝜃= 
+5
+2 = 2.5 
+θ = tan−1 2.5 = 68.20 
+ 
+Example 1.4. A particle traveled a distance of 10 km from point O to point A at an angle of 60° 
+north-east, then another 15 km to point B due east. Find the 
+i. 
+position vector 𝑂𝐵⃗⃗⃗⃗⃗⃗ 
+ii. 
+distance between points O and B? 
+iii. 
+direction of vector 𝑂𝐵⃗⃗⃗⃗⃗⃗
+
+--- PAGE 6 ---
+Solution 
+i. 
+ 𝑂𝐴⃗⃗⃗⃗⃗⃗= 10 𝑐𝑜𝑠600𝒊+ 10 𝑠𝑖𝑛600𝒋= 5𝒊+ 8.66𝒋 
+ 𝐴𝐵⃗⃗⃗⃗⃗⃗= 15 𝑐𝑜𝑠00𝒊+ 10 𝑠𝑖𝑛00𝒋= 15𝒊+ 0𝒋 
+ 𝑂𝐵⃗⃗⃗⃗⃗⃗= 𝑂𝐴⃗⃗⃗⃗⃗⃗+ 𝐴𝐵⃗⃗⃗⃗⃗⃗= (5 + 15)𝒊+ (8.66 + 0)𝒋= 20𝒊+ 8.66𝒋 
+ii. 
+The distance between points O and B is given by 
+ |𝑂𝐵|⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗= √202 + 8.662 = 21.8 𝑚  
+iii. 
+𝑡𝑎𝑛𝜃= 
+8.66
+20 = 0.433 
+θ = tan−1 0.433 = 23.40 
+ 
+Example 1.5. An expeditionary team in search of antiques in a cave travels a net 2.6km 
+westward, 3.9km southward, and 25m upward. What was their displacement vector? 
+ 
+Solution 
+Let their horizontal displacement be
+h
+d . Then by the Pythagoras theorem the magnitude of 
+h
+d is 
+(
+)
+(
+)
+2
+2
+2.6
+3.9
+4.69
+h
+d
+km
+km
+km
+=
++
+=
+ 
+ 
+The angle of their displacement vector relative to the west is given by  
+3.9
+tan
+1.5
+2.6
+km
+km
+=
+=
+ 
+or 
+1
+0
+tan 1.5
+56
+
+−
+=
+=
+ 
+ 
+We now find the magnitude of the overall displacement d , 
+km
+km
+km
+d
+69
+.4
+)
+025
+.0
+(
+)
+69
+.4
+(
+2
+2
+=
++
+=
+ and the angle , 
+1
+0
+0.025
+tan
+0.3
+4.69
+km
+km
+
+−
+=
+=
+.  
+ 
+Example 1.6. Find the sum of two vectors A and B lying in the xy plane and given by  
+(
+)
+2
+2
+m
+=
++
+A
+i
+j
+and 
+(
+)
+2
+4
+m
+=
+−
+B
+i
+j
+. 
+ 
+Solution 
+The general expression for A is 
+x
+y
+A
+A
+=
++
+A
+i
+j and comparing we see that 
+x
+A = 2m and 
+y
+A = 2m. 
+Also, 
+x
+B = 2m and 
+y
+B = -4m. Using Equation 1.8 to obtain the resultant vector R we have 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+4
+4
+2
+m
+m
+m
+=
++
+=
++
++
+−
+=
+−
+R
+A
+B
+i
+j
+i
+j
+ 
+or 
+4
+x
+R
+m
+=
+ and  
+2
+y
+R
+m
+= −
+ 
+The magnitude of R is given by Equation 1.10: 
+(
+)
+(
+)
+2
+2
+2
+2
+4
+2
+4.5
+x
+y
+R
+R
+R
+m
+m
+m
+=
++
+=
++ −
+=
+
+--- PAGE 7 ---
+From Equation 1.11 we find the direction of R as, 
+2
+tan
+0.5
+4
+y
+x
+R
+m
+R
+m
+
+−
+=
+=
+= −
+ 
+(
+)
+1
+0
+tan
+0.5
+27
+
+−
+=
+−
+= −
+clockwise from the x-axis. 
+Example 1.7. A car travels 20km due north and then 35km in a direction 
+0
+60 west of north, as 
+shown in Figure 1.6. Find the magnitude and direction of the car’s resultant displacement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solution 
+This problem can be solved in two different ways: 1. Geometrical method using graph paper and 
+protractor and by calculation. The geometrical method is as in Figure 1.6. The displacement R is 
+the resultant when the two individual displacements A and B are added. 
+Algebraically, the magnitude of the resultant R can be obtained from the law of cosines as applied 
+to the triangle. The angle is given as 
+0
+0
+0
+180
+60
+120
+=
+−
+=
+and 
+2
+2
+2
+2
+cos
+R
+A
+B
+AB
+
+=
++
+−
+, so that 
+ 
+(
+)
+(
+)
+(
+)(
+)
+2
+2
+2
+2
+0
+2
+cos
+20
+35
+2 20
+35
+cos120
+48.2
+R
+A
+B
+AB
+R
+km
+km
+km
+km
+R
+km
+
+=
++
+−
+=
++
+−
+=
+ 
+ 
+From the law of sines, the direction of R is 
+0
+0
+sin
+sin
+35
+sin
+sin
+sin120
+0.629
+48.2
+38.9
+B
+R
+B
+km
+R
+km
+
+
+
+
+
+=
+=
+=
+=
+=
+ 
+The resultant displacement of the car is 48.2km in a direction 
+0
+38.9 west of north.  
+                                              y (km) 
+ 
+ 
+ 
+                                                 40 
+                        
+                      B                    
+                               
+                                      600 
+                                                20 
+                        R 
+                                             A 
+                                                                
+ 
+ 
+                     -20               0 
+x(km) 
+Figure 1.6   Graphical method for finding the resultant displacement 
+vector R = A + B
+
+--- PAGE 8 ---
+This vector can be expressed as the sum of two other vectors Ax and Ay. From Figure 1.2, the three 
+vectors form a right triangle and that A = Ax + Ay. The vectors Ax and Ay are often referred to as 
+“the components of the vector A,” written as Ax and Ay (with no boldface). The component Ax 
+represents the projection of A along the x axis, and the component Ay represents the projection of 
+A along the y axis. If Ax points in the positive x direction the component Ax is positive and vice 
+versa. The same is true for the component Ay. From Figure 1.2 and the definition of sine and 
+cosine, then cos
+x
+A
+A
+=
+ and sin
+y
+A
+A
+=
+. Hence the components of A are 
+cos
+xA
+A
+
+=
+                                                                                      1.1 
+sin
+y
+A
+A
+
+=
+                                                                                      1.2 
+ 
+It follows from Figure 1.1 that the magnitude and direction of A are related to its components 
+through the expressions 
+2
+2
+X
+y
+A
+A
+A
+=
++
+                                                                                    1.3 
+1
+tan
+x
+y
+A
+A
+
+−
+
+=
+
+
+
+
+
+
+                                                                                   1.4 
+Notice that the signs of the components Ax and Ay depend on the angle θ. As an example, if θ = 
+1250, then 
+x
+A is negative and 
+y
+A is positive. If θ = 2350, then both 
+x
+A and 
+y
+A are negative. 
+ 
+ 
+GRAPHICAL ADDITION AND SUBTRACTION OF VECTORS 
+ 
+In this session you are taught how to add or subtract any number of given vectors graphically and 
+also by calculation. For graphical work you will need a ruler, protractor, a sheet of paper and a 
+pencil. You are also introduced to the Laws of vector algebra to guide you in your vector 
+calculations.  
+ 
+Figure 1.2 Any vector A lying in the xy plane can be 
+represented by a vector Ax lying along the x axis and by  
+a vector Ay lying along the y axis, where A = Ax + Ay 
+y 
+x 
+A 
+Ay 
+Ax 
+O 
+θ
+
+--- PAGE 9 ---
+Vector Algebra 
+A vector is represented analytically by a bold-faced letter such as A. Geometrically it is represented 
+by an arrow PQ where P is called the initial point and Q is called the terminal point. The magnitude 
+or length of the vector is then denoted by |𝐴|. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.7: (a) A position vector A between two points P and Q.  (b) Two vectors A and B having 
+same magnitude and same direction (c) The vectors A and -A have the same magnitude but are in 
+opposite direction.  
+ 
+The operations of addition, subtraction and multiplication familiar in the algebra of real numbers 
+are with suitable definitions capable of extension to an algebra of vectors. 
+The following definitions are fundamental. 
+1. Two vectors A and B are equal if they have the same magnitude and direction regardless 
+of their initial points. Thus A = B in figure 1.7b. 
+2. A vector having direction opposite to that of vector A but with the same length is denoted 
+by –A as in figure 1.7c. 
+3. The sum or resultant of vectors A and B of figure 1.8a is a vector C formed by placing the 
+initial point of B on the terminal point of A and joining the initial point of A to the terminal 
+point of B [see figure 1.8b]. We write C = A + B. This definition is equivalent to the 
+parallelogram law for vector addition as indicated in figure 1.8c. 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+Figure 1.8: (a) A and B are two independent vectors.  (b) Vector C is the sum or resultant of the 
+vectors A and B (c) Vector C is the sum or resultant of the vectors A and B showing the 
+parallelogram law of vector addition.  
+ 
+1. The difference of vectors A and B, represented by A – B, is that vector C which when 
+added to B gives A. Equivalently, A – B may be defined as A + (- B). If A = B, then A – 
+B is defined as the null or zero vector represented by 0. This has a magnitude of zero but 
+its direction is not defined.  
+2. The product of a vector A by a scalar ρ is a vector ρA or Aρ with magnitude |𝜌| times the 
+magnitude of A and direction the same as or opposite to that of A according as ρ is positive 
+or negative. If ρ = 0, ρA = 0, the null vector. 
+A
+P
+Q 
+A
+B
+A
+-A
+(a) 
+(c) 
+(b) 
+B 
+C = A + B 
+A 
+(c) 
+B 
+A
+C = A + B 
+(b) 
+B 
+A 
+(a)
+
+--- PAGE 10 ---
+
+
+--- PAGE 11 ---
+
+
+--- PAGE 12 ---
+PARALLELOGRAM LAW OF VECTORS 
+The parallelogram law of vectors is another useful law for the addition of two vectors. 
+Consider two vectors P and Q as shown in Figure 1.9a. Displace vector Q parallel to itself till the 
+tail of Q touches the tail of P. Complete the parallelogram as shown in Figure 1.9b. Applying the 
+triangle law of vectors to the vector triangle OAC, we get 
+        
++
+=
+OA
+AC
+OC   or   
++
+=
+P
+Q
+R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+So, the two vectors are represented completely by the two adjacent sides of the parallelogram and 
+the diagonal drawn through the meeting point of the tails gives the resultant vector. 
+ 
+The parallelogram law of vectors states that if two vectors, acting simultaneously at a point, can 
+be represented both in magnitude and direction by the two adjacent sides of a parallelogram drawn 
+from a point, then the resultant is represented completely both in magnitude and direction by the 
+diagonal of the parallelogram passing through that point. 
+ 
+Now, let us analytically calculate the magnitude and direction of the resultant vector R. 
+ 
+Q 
+P 
+Q 
+P 
+R 
+O 
+A 
+C 
+(a)                                       
+ 
+ 
+(b) 
+ 
+Figure 1.9: (a) P are Q two separate vectors (b) vector Q is displaced parallel to itself till its tail 
+touches the tail of P. Broken lines are then constructed to complete the parallelogram.
+
+--- PAGE 13 ---
+Let  be the angle between the two given vectors P and Q. Refer to Figure 1.10. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From C we draw a perpendicular CN on an extension of OA to form a right-angled triangle ANC 
+so that 
+ 
+
+
+
+sin
+or  
+    
+sin
+or   
+     
+sin
+Q
+CN
+AC
+CN
+AC
+CN
+=
+=
+=
+ ,                             1.14 
+AC
+OB
+Q
+=
+=
+                                                                                             1.15 
+and also,  
+
+
+
+cos
+or  
+    
+cos
+or   
+     
+cos
+Q
+AN
+AC
+AN
+AC
+AN
+=
+=
+=
+                               1.16 
+Now,  
+cos
+ON
+OA
+AN
+P
+Q
+
+=
++
+=
++
+ 
+Consider the right-angled triangleONC . 
+2
+2
+2
+OC
+ON
+CN
+=
++
+                                                                                      1.17 
+Or   
+(
+)
+(
+)
+2
+2
+2
+cos
+sin
+R
+P
+Q
+Q
+
+
+=
++
++
+ 
+2
+2
+2
+2
+2
+2
+cos
+2
+cos
+sin
+R
+P
+Q
+PQ
+Q
+
+
+
+=
++
++
++
+ 
+2
+2
+2
+2
+2
+2
+cos
+sin
+2
+cos
+R
+P
+Q
+Q
+PQ
+
+
+
+=
++
++
++
+ 
+(
+)
+2
+2
+2
+2
+2
+cos
+sin
+2
+cos
+R
+P
+Q
+PQ
+
+
+=
++
++
++
+ 
+2
+2
+2
+2
+cos
+R
+P
+Q
+PQ
+
+=
++
++
+            since   
+2
+2
+cos
+sin
+1
+
+
++
+= . Then    
+
+cos
+2
+2
+2
+PQ
+Q
+P
+R
++
++
+=
+                                                                 1.18 
+ 
+Equation 1.18 is the required expression for the magnitude of the resultant of two vectors P and Q 
+inclined to each other at an angle. 
+ 
+Example 1.8.  Two forces 5N and 7N act on a 10kg body. If the angle between the two forces is 
+60o, calculate the magnitude and direction of the resultant force on the body. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+P 
+R 
+O 
+A 
+C 
+N 
+ 
+Figure 1.10:  
+B
+
+--- PAGE 14 ---
+Solution  
+Completing the parallelogram gives R as the resultant force acting on the body. 
+Applying the cosine rule, 
+R2 = 52 + 72 + 2(5)(7) cos 60o  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+)
+N
+R
+44
+.
+10
+70
+5.0
+49
+25
+=
++
++
+=
+ 
+Using the sine rule to find the direction of the resultant force gives 
+44
+.
+10
+120
+sin
+5
+sin
+=
+
+    
+120
+sin
+44
+.
+10
+5
+sin
+=
+
+ 
+ = sin-1(0.415) = 24.5o 
+5N 
+7N 
+R
+60o 
+120o
+

@@ -1,0 +1,55 @@
+     ABENA OFEIBEA KUMI
+        SM/SMS/10/0006
+           EXPERIMENT 11
+       PHYSICS PRACTICAL
+      4TH NOVEMBER,2010
+                                             EXPERIMENT 1
+DETERMINATION OF THE ACCELERATION DUE TO GRAVITY USING THE                                           
+                                     MATHEMATICAL PENDULUM
+AIM: To determine the oscillation period as a function of the cord length and also, to determine the acceleration due to gravity.
+APPARATUS:  Light barrier with counter, power supply (5V DC/2.4 A), steel ball with eyelet (d=24.4mm and32mm), meter scale, demo,(l=1000), cursors,1 pair, thread (l=100m), right angle clamp, clamping pads on stem, support rod, tripod base, stop watch.
+DIAGRAM: 
+METHOD:  The apparatus was set-up as shown in the diagram above. The steel ball was tied to one end of the thread and the other end was fixed in the clamping pads on the stem. The light barrier was switched on and it was made sure that the counter read zero. The ball was then displaced at a very small angle α and allowed to oscillate  through the light barrier counter with a thread length of 60cm. The stop-watch was used to time 20 oscillations (when the counter read 40,since the light barrier was used to measure a half cycle). The procedure was repeated for four other values of the length (l), of the thread. The results were tabulated and a graph of Period, T, as ordinate and  , as abscissa was plotted.
+THEORY: 
+With respect to the diagram above, assuming the vibrating mass is at B at some instant, here,  OB= y and angle  at B  and is equal to . The tension, T, in the wire has no component in this direction and PB is perpendicular to the tangent at B. Thus, since  then,  where, a, is acceleration along the arc OB, the minus sign indicates that the force is towards O and displacement, y, is measured along the arc from θ but in the opposite direction. Assuming θ is small; this implies that   (in radians). Also, , Hence . 
+Therefore, , where . Since the acceleration is proportional to the distance y from a fixed point, the motion of the vibrating mass is simple harmonic motion. Further the period . 
+This implies that  =. At a place on the earth when g is constant, the period, T, depends only on the length, l, of the pendulum.
+   ; T=period of oscillation
+                          l=length of pendulum
+                         g=acceleration due to gravity                       
+          ; 
+Comparing with the equation of a straight line ie.  ;
+T/s is the ordinate,
+ /cm is the abscissa also, 
+the slope m=  and 
+            EXPECTED GRAPH
+T/s
+                                                                     /
+TABLE OF VALUES:
+Least count on meter rule: 0.01
+                                         A Graph of T/s against  /
+CALCULATION:
+From the experiment, the slope,m=1.909, From theory,
+=10.83ms-2
+DISCUSSION:
+The aim of this experiment was to find the acceleration due to gravity ‘g’. This was to be done by making g the subject in the equation    and drawing a graph of Time (T/s) against √L(√m),with a positive gradient and intercept of 0. The expected graph was obtained with a positive gradient .The equation of the line was y=1.909x+0.074 and the slope was           m =1.909.The theoretical value of g is 10m/  however the value of  g  found was  ,which is 0.835units more than the theoretical value. This could be due to  an error  such as damping that occurred during the experiment .
+SOURCES OF ERROR:
+Disturbance of the oscillation of the pendulum due to atmospheric pressure, thereby resulting in inaccurate results.
+One could not tell the exact point the thread had a 10cm interval with another interval, thereby leading to inaccurate readings.
+        3.    Damping due to air resistance resulted in uneven oscillation.
+ Inaccurate lengths due old and marked-out parts on the thread
+PRECAUTIONS
+It was ensured that the pendulum was deflected at small angles in order to ensure accurate results.
+It was ensured that the measurements of 10cm interval done on the thread were done correctly, in order to obtain accurate results.
+I t was ensured that the pendulum always hang within the counter in order to read accurate results from it.
+CONCLUSION: From the experiment, the acceleration due to gravity was 10.83ms-2
+REFERENCE:
+RAYMOND A. SERWAY, JERRY S. FAUGHN (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH EDITION, WESLEY PUBLISHING COMPANY.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION.
+     l/cm |     l/m |     t1/s |     t2/s |  tav=)/s | T=( tav/20)/s |    /m
+60.0 | 0.6 | 31.03 | 31.13 | 31.08 | 1.5540 | 0.7746
+50.0 | 0.5 | 28.50 | 28.56 | 28.53 | 1.4265 | 0.7071
+40.0 | 0.4 | 25.53 | 25.50 | 25.52 | 1.2760 | 0.6325
+30.0 | 0.3 | 22.44 | 22.46 | 22.45 | 1.1225 | 0.5477
+20.0 | 0.2 | 18.53 | 18.60 | 18.57 | 0.9285 | 0.4472

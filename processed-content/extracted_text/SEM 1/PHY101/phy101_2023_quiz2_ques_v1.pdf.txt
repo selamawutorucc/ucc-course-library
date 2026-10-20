@@ -1,0 +1,93 @@
+
+--- PAGE 1 ---
+* 
+ 
+1 
+ 
+UNIVERSITY OF CAPE COAST 
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCES 
+SCHOOL OF PHYSICAL SCIENCES 
+DEPARTMENT OF PHYSICS* 
+FIRST SEMESTER: 2022/2023 
+PHY 101: GENERAL PHYSICS I (THEORY)– GROUP 15 
+QUIZ 2 - DURATION: =40 MINS 
+TOTAL (20 MARKS) - ANSWER ALL QUESTIONS  
+INDEX NUMBER.:………………………. NAME:………………………………………. 
+DO THE ROUGH WORK OR WORKINGS THE QUESTION PAPER. 
+Use for Q1-Q3.  
+A 5.0g bullet moving at 100m/s strikes a log. Assume that the bullet undergoes a uniform 
+deceleration and stops at 6cm.  
+Q1. What the time does it take for the bullet to stop in the log? Ans ………  
+Q2. What is the impulse on the log? Ans ……… 
+Q3. What is the average force experienced by the log? Ans ……… 
+Use for Q4.  
+A ball of 0.4kg mass and a speed of 3m/s has a head-on, completely elastic collision with a 0.6kg 
+mass initially at rest.  
+Q4. Find the speeds on both bodies after the collision. 
+1v =
+ 
+and  
+2v =
+ 
+Use for Q5.  
+A body of mass 8kg is on the point of slipping down a plane of inclination 30o, what force 
+applied parallel to the plane will just move it up the plane? [Take g=10ms-2] 
+Q5. Ans…. 
+Use for Q6.  
+ 
+Q6. What is =
+. 
+Q7. Mr. Tetteh and his driver are traveling to Cape Coast in a Toyota pickup which is moving at 
+90 km/h down a straight highway. The driver of the pickup sees an accident in the distance and 
+slows down to 40 km/h in 5.0 s. What is the average acceleration of the Toyota pickup?  
+Ans ………
+
+--- PAGE 2 ---
+* 
+ 
+2 
+ 
+Q8. If a rabbit’s velocity is 
+j
+i
+2.7
+62
+.0
+2 +
+−
+=
+t
+v
+, find the accelerationa at the time
+5
+t
+s
+=
+, in unit-
+vector notation and in magnitude notation.  
+Ans ……… 
+Ans ……… 
+Q9. A car traveling at a speed of +12 m/s accelerates at a rate of +4 m/s2 for a time of 5s. What is 
+the car's speed at the end of 5s? Ans ………  
+Use for Q11-Q14.  
+A ball is dropped from rest from a high window of a tall building and falls to the ground in 3s. 
+Neglecting air resistance. [Assume that g = 10 m/s].   
+Q11. What is the speed of the ball just before it hits the ground? Ans ……… 
+Q12. What is the distance the ball has fallen from where it was released till it hit the ground? 
+Ans ……… 
+Q13. What is the ball’s acceleration? Ans ……… 
+Q14. What distance will it travel in the last second (i.e. between t = 2s and t = 3s)? Ans ……… 
+Use for Q15-Q17.  
+A 200 g mass vibrates horizontally without friction at the end of a horizontal spring for which k = 
+7.0 N/m. The mass is displaced 5.0 cm from equilibrium and released 
+Q15. What the maximum speed of the body? Ans ……… 
+Q16. What is the speed of the body when it is 3.0 cm from the equilibrium position? Ans ……… 
+Q18. A ball of mass 1.5kg is thrown vertically upwards from the ground with an initial velocity 
+of 100ms-1. Calculate the potential energy at a point A, 50m above the ground. Ans ……… 
+Q19. Find the work done in moving an object along a straight line from (3, 2, -1) to (2, -1, 4) in a 
+force field given by F = 4i – 3j +2k. Calculate the power dissipated if it took 4s to move the 
+object to its final position. Ans ……… 
+Ans ……… 
+Q20. How much work is done by an applied force to lift a 15N block 3.0m vertically at a 
+constant speed? 
+Ans ………

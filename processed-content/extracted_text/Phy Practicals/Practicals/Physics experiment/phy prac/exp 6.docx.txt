@@ -1,0 +1,67 @@
+EXPERIMENT 6
+                                                                                                                                          18/02/10
+TITLE: MEASUREMENT OF LOW RESISTANCE
+AIM: To determine the resistances of some connecting cords of different lengths.
+APPARATUS: ammeter, voltmeter, power source, amplifier, connecting cords of 36cm, 61cm and 86cm; connection box, connecting cords of different lengths.
+DIAGRAM
+THEORY
+The resistance of a metal conductor is the ability of the connecting cord to inhibit the flow of current passing through it. The resistance in connecting cords is due to collisions between electrons carrying current with fixed atoms within the cord. These collisions prevent the free flow of charges and hence prevent the flow of current. A connecting cord with low resistance allows large amount of current to pass through it.  A connecting with high resistance will only allow small amount of current to pass through it.
+From Ohm’s law which states that when a voltage (potential difference) ∆V is applied across the ends of a conductor, the current in the conductor is found to be proportional to the applied voltage. This law will hold if the temperature of the conductor is kept constant.
+That is    
+
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V against I is a straight line through the origin with a slope equal to the resistance R.
+The resistance is directly proportional to the length and inversely proportional to the area.
+Where R is the resistance of the connecting cord, ρ is its resistivity, l is the length of the cord and A is the cross-sectional area of the cord. Since the resistance of a conductor is directly proportional to the length, an increase in length of the connecting cord means an increase in resistance in the cord. A decrease in the length of the cord will cause a decrease in resistance and hence allow more current to pass through.
+METHOD:
+A connection box, a power supply and an ammeter were connected in series by connecting cords. The input of the amplifier was connected to the sockets of the connecting cord of unknown resistance. The output of the amplifier was also connected to the voltmeter. The voltage source was set to 12V. The current was then varied at constant intervals of 0.2 A. The voltage drop across the connecting cord for each current selected was measured using the voltmeter. The experiment was repeated for the remaining cords of different lengths provided.
+TABLE OF VALUES
+ Settings of the amplifier: low drift, R=10⁴Ω
+Amplification: 10³, Timer constant: 0 sec.
+L= length of connecting cord.
+L=36cm                                                                                                             L=61cm
+L=86cm
+GRAPH
+A Graph of V/V against I/A.
+CALCULATION
+From the graph, the resistance of the 36cm cord which is the slope of its graph is 2.178Ω, that of the 61cm cord is 3.991Ω and that of the 86cm cord is 6.01Ω. These resistances are seen from the graph above as 
+R= V/I, 
+This is the slope of the graph.
+But, 
+R represents the slope of the graph.
+Since A and ρ are equal for each cord, comparing R and l shows a direct proportion.
+Hence an increase in the length of the connecting cord results in an increase in the slope, R which is the resistance.
+DISCUSSION
+From the graph, an increase in the length of the connecting cord results in an increase in the resistance. The length of the cord therefore is directly proportional to the resistance.
+CONCLUSION
+The resistances of the 36cm cord, the 61cm cord and the 86cm cord were found to be 2.178Ω, 3.991Ω and 6.01Ω respectively.
+SOURCES OF ERROR
+Errors may have been due to overheating of the main power supply.
+Errors may have been due to the apparatus being faulty.
+PRECAUTIONS
+All connections were tightly connected to prevent a break in the continuity of the circuit.
+The power source was put off to prevent heating. 
+Short circuiting was avoided.
+REFERENCE
+Raymond A.Serway, Jerry S.Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536. 
+Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 270-280.
+I/A | V/v
+0.2 | 0.65
+0.4 | 1.48
+0.6 | 2.28
+0.8 | 3.08
+1.0 | 3.86
+1.2 | 4.65
+I/A | V/v
+0.2 | 0.30
+0.4 | 0.73
+0.6 | 1.18
+0.8 | 1.60
+1.0 | 2.04
+1.2 | 2.48
+I/A | V/v
+0.2 | 1.08
+0.4 | 2.28
+0.6 | 3.48
+0.8 | 4.66
+1.0 | 5.91
+1.2 | 7.08

@@ -1,0 +1,8339 @@
+
+--- PAGE 1 ---
+438 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+9 
+Linear Momentum and Collisions 
+ 
+CHAPTER OUTLINE 
+ 
+9.1 
+Linear Momentum 
+9.2 
+Analysis Model: Isolated System (Momentum) 
+9.3 
+Analysis Model: Nonisolated System (Momentum) 
+9.4 
+Collisions in One Dimension 
+9.5 
+Collisions in Two Dimensions 
+9.6 
+The Center of Mass 
+9.7  
+Systems of Many Particles 
+9.8 
+Deformable Systems 
+9.9 
+Rocket Propulsion 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ9.1 
+Think about how much the vector momentum of the Frisbee changes 
+in a horizontal plane. This will be the same in magnitude as your 
+momentum change. Since you start from rest, this quantity directly 
+controls your final speed. Thus (b) is largest and (c) is smallest. In 
+between them, (e) is larger than (a) and (a) is larger than (c). Also (a) is 
+equal to (d), because the ice can exert a normal force to prevent you 
+from recoiling straight down when you throw the Frisbee up. The 
+assembled answer is b > e > a = d > c. 
+OQ9.2 
+(a) 
+No: mechanical energy turns into internal energy in the coupling 
+process. 
+ 
+(b) No: the Earth feeds momentum into the boxcar during the 
+downhill rolling process. 
+ 
+(c) 
+Yes: total energy is constant as it turns from gravitational into 
+kinetic.
+
+--- PAGE 2 ---
+Chapter 9     439 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) Yes: If the boxcar starts moving north, the Earth, very slowly, 
+starts moving south. 
+ 
+(e) 
+No: internal energy appears. 
+ 
+(f)  Yes: Only forces internal to the two-car system act. 
+OQ9.3 
+(i) 
+Answer (c). During the short time the collision lasts, the total 
+system momentum is constant. Whatever momentum one loses 
+the other gains. 
+ 
+(ii)  Answer (a). The problem implies that the tractor’s momentum is 
+negligible compared to the car’s momentum before the collision. 
+It also implies that the car carries most of the kinetic energy of the 
+system. The collision slows down the car and speeds up the 
+tractor, so that they have the same final speed. The faster-moving 
+car loses more energy than the slower tractor gains because a lot 
+of the car’s original kinetic energy is converted into internal 
+energy. 
+OQ9.4 
+Answer (a). We have m1 = 2 kg, v1i = 4 m/s; m2 = 1 kg, and v1i = 0. We 
+find the velocity of the 1-kg mass using the equation derived in Section 
+9.4 for an elastic collision: 
+ 
+ 
+ 
+v2 f =
+2m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i +
+m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v2i
+v2 f =
+4 kg
+3 kg
+⎛
+⎝⎜
+⎞
+⎠⎟4 m/s
+(
+) +
+1 kg
+3 kg
+⎛
+⎝⎜
+⎞
+⎠⎟0( ) = 5.33 m/s
+ 
+OQ9.5 
+Answer (c). We choose the original direction of motion of the cart as 
+the positive direction. Then, vi = 6 m/s and vf = −2 m/s. The change in 
+the momentum of the cart is 
+ 
+ 
+ 
+Δp = mv f −mvi = m v f −vi
+(
+) = (5 kg)(−2 m/s −6 m/s)
+= −40 kg⋅m/s.
+ 
+OQ9.6 
+Answer (c). The impulse given to the ball is I = FavgΔt = mv f −mvi. 
+Choosing the direction of the final velocity of the ball as the positive 
+direction, this gives 
+ 
+ 
+ 
+Favg =
+m v f − vi
+(
+)
+Δt
+= 57.0 × 10−3 kg
+(
+) 25.0 m/s −(−21.0 m/s)
+[
+]
+0.060 s
+= 43.7 kg⋅m/s2 = 43.7 N
+
+--- PAGE 3 ---
+440     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ9.7 
+Answer (a). The magnitude of momentum is proportional to speed and 
+the kinetic energy is proportional to speed squared. The speed of the 
+rocket becomes 4 times larger, so the kinetic energy becomes 16 times 
+larger. 
+OQ9.8 
+Answer (d). The magnitude of momentum is proportional to speed 
+and the kinetic energy is proportional to speed squared. The speed of 
+the rocket becomes 2 times larger, so the magnitude of the momentum 
+becomes 2 times larger. 
+OQ9.9 
+ Answer (c). The kinetic energy of a particle may be written as 
+ 
+ 
+ 
+KE = mv2
+2
+= m2v2
+2m = mv
+(
+)
+2
+2m
+= p2
+2m
+ 
+ 
+The ratio of the kinetic energies of two particles is then 
+ 
+ 
+ 
+KE
+(
+)2
+KE
+(
+)1
+= p2
+2 2m2
+p1
+2 2m1
+=
+p2
+p1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+m1
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+We see that, if the magnitudes of the momenta are equal (p2 = p1), the 
+kinetic energies will be equal only if the masses are also equal. The 
+correct response is then (c). 
+OQ9.10 
+Answer (d). Expressing the kinetic energy as KE = p
+2/2m, we see that 
+the ratio of the magnitudes of the momenta of two particles is 
+ 
+ 
+ 
+p2
+p1
+=
+2m2(KE)2
+2m1(KE)1
+=
+m2
+m1
+⎛
+⎝⎜
+⎞
+⎠⎟
+(KE)2
+(KE)1
+ 
+ 
+Thus, we see that if the particles have equal kinetic energies [(KE)2 = 
+(KE)1], the magnitudes of their momenta are equal only if the masses 
+are also equal. However, momentum is a vector quantity and we can 
+say the two particles have equal momenta only it both the magnitudes 
+and directions are equal, making choice (d) the correct answer. 
+OQ9.11 
+Answer (b). Before collision, the bullet, mass m1 = 10.0 g, has speed  
+v1i = vb, and the block, mass m2 = 200 g, has speed v2i = 0. After collision, 
+the objects have a common speed (velocity) v1f = v2f = v. The collision of 
+the bullet with the block is completely inelastic: 
+ 
+ 
+ 
+m1v1i + m2v2 = m1v1f + m2v2f 
+ 
+ 
+ 
+m1vb = (m1 + m2)v , 
+so  
+vb = v m1 + m2
+m1
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 4 ---
+Chapter 9     441 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The kinetic friction, fk = µkn, slows down the block with acceleration of 
+magnitude µkg. The block slides to a stop through a distance d = 8.00 m. 
+Using v f
+2 = vi
+2 + 2a(x f −xi), we find the speed of the block just after the 
+collision: 
+ 
+ 
+ 
+v =
+2(0.400)(9.80 m/s2)(8.00 m) = 7.92 m/s. 
+ 
+Using the results above, the speed of the bullet before collision is 
+ 
+ 
+ 
+vb = (7.92m/s)  10 + 200
+10.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 166 m/s. 
+OQ9.12 
+Answer (c). The masses move through the same distance under the 
+same force. Equal net work inputs imply equal kinetic energies. 
+OQ9.13 
+Answer (a). The same force gives the larger mass a smaller 
+acceleration, so the larger mass takes a longer time interval to move 
+through the same distance; therefore, the impulse given to the larger 
+mass is larger, which means the larger mass will have a greater final 
+momentum. 
+OQ9.14 
+Answer (d). Momentum of the ball-Earth system is conserved. Mutual 
+gravitation brings the ball and the Earth together into one system. As 
+the ball moves downward, the Earth moves upward, although with an 
+acceleration on the order of 10
+25 times smaller than that of the ball. The 
+two objects meet, rebound, and separate. 
+OQ9.15 
+Answer (d). Momentum is the same before and after the collision. 
+Before the collision the momentum is 
+ 
+ 
+ 
+m1v1 + m2v2 = 3 kg
+(
+) +2 m/s
+(
+)+ 2 kg
+(
+) −4 m/s
+(
+) = −2 kg⋅m/s  
+OQ9.16 
+Answer (a). The ball gives more rightward momentum to the block 
+when the ball reverses its momentum. 
+OQ9.17 
+Answer (c). Assuming that the collision was head-on so that, after 
+impact, the wreckage moves in the original direction of the car’s 
+motion, conservation of momentum during the impact gives 
+ 
+ 
+ 
+mc + mt
+(
+)v f = mcv0c + mtv0t = mcv + mt(0) 
+ 
+or 
+ 
+ 
+ 
+v f =
+mc
+mc + mt
+⎛
+⎝⎜
+⎞
+⎠⎟v =
+m
+m + 2m
+⎛
+⎝⎜
+⎞
+⎠⎟v = v
+3
+
+--- PAGE 5 ---
+442     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ9.18 
+Answer (c). Billiard balls all have the same mass and collisions 
+between them may be considered to be elastic. The dual requirements 
+of conservation of kinetic energy and conservation of momentum in a 
+one-dimensional, elastic collision are summarized by the two relations: 
+ 
+ 
+ 
+m1v1i + m2v2i = m1v1 f + m2v2 f 
+[1] 
+ 
+and 
+ 
+ 
+ 
+v1i −v2i = v1 f −v2 f
+(
+) 
+[2] 
+ 
+In this case, m1 = m2 and the masses cancel out of the first equation. 
+Call the blue ball #1 and the red ball #2 so that v1i = −3v, v2i = +v,  
+v 1f = vblue, and v2f = vred. Then, the two equations become 
+ 
+ 
+ 
+−3v + v = vblue + vred      or           vblue + vred = v 
+[1] 
+ 
+and 
+ 
+ 
+ 
+−3v −v = −vblue −vred
+(
+)      or           vblue −vred
+(
+) = 4v 
+[2] 
+ 
+Adding the final versions of these equations yields 2vblue = 2v, or vblue = 
+v. Substituting this result into either [1] or [2] above then yields vred = 
+−3v. 
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ9.1 
+The passenger must undergo a certain momentum change in the 
+collision. This means that a certain impulse must be exerted on the 
+passenger by the steering wheel, the window, an air bag, or something. 
+By increasing the distance over which the momentum change occurs, 
+the time interval during which this change occurs is also increased, 
+resulting in the force on the passenger being decreased. 
+CQ9.2 
+If the golfer does not “follow through,” the club is slowed down by the 
+golfer before it hits the ball, so the club has less momentum available 
+to transfer to the ball during the collision. 
+CQ9.3 
+Its speed decreases as its mass increases. There are no external 
+horizontal forces acting on the box, so its momentum cannot change as 
+it moves along the horizontal surface. As the box slowly fills with 
+water, its mass increases with time. Because the product mv must be 
+constant, and because m is increasing, the speed of the box must 
+decrease. Note that the vertically falling rain has no horizontal 
+momentum of its own, so the box must “share” its momentum with 
+the rain it catches.
+
+--- PAGE 6 ---
+Chapter 9     443 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ9.4 
+(a) 
+It does not carry force, force requires another object on which to 
+act. 
+ 
+(b) It cannot deliver more kinetic energy than it possesses. This 
+would violate the law of energy conservation. 
+ 
+(c) 
+It can deliver more momentum in a collision than it possesses in 
+its flight, by bouncing from the object it strikes. 
+CQ9.5 
+Momentum conservation is not violated if we choose as our system the 
+planet along with you. When you receive an impulse forward, the 
+Earth receives the same size impulse backwards. The resulting 
+acceleration of the Earth due to this impulse is much smaller than your 
+acceleration forward, but the planet’s backward momentum is equal in 
+magnitude to your forward momentum. If we choose you as the 
+system, momentum conservation is not violated because you are not 
+an isolated system. 
+CQ9.6 
+The rifle has a much lower speed than the bullet and much less kinetic 
+energy. Also, the butt distributes the recoil force over an area much 
+larger than that of the bullet. 
+CQ9.7 
+The time interval over which the egg is stopped by the sheet (more for 
+a faster missile) is much longer than the time interval over which the 
+egg is stopped by a wall. For the same change in momentum, the 
+longer the time interval, the smaller the force required to stop the egg. 
+The sheet increases the time interval so that the stopping force is never 
+too large. 
+CQ9.8 
+(a) 
+Assuming that both hands are never in contact with a ball, and 
+one hand is in contact with any one ball 20% of the time, the total 
+contact time with the system of three balls is 3(20%) = 60% of the 
+time. The center of mass of the balls is in free fall, moving up and 
+then down with the acceleration due to gravity, during the 40% of 
+the time when the juggler’s hands are empty. During the 60% of 
+the time when the juggler is engaged in catching and tossing, the 
+center of mass must accelerate up with a somewhat smaller 
+average acceleration. The center of mass moves around in a little 
+closed loop with a parabolic top and likely a circular bottom, 
+making three revolutions for every one revolution that one ball 
+makes. 
+ 
+(b) On average, in one cycle of the system, the center of mass of the 
+balls does not change position, so its average acceleration is zero 
+(i.e., the average net force on the system is zero). Letting T 
+represent the time for one cycle and Fg the weight of one ball, we 
+have FJ(0.60T) = 3FgT, and FJ = 5Fg. The average force exerted by 
+the juggler is five times the weight of one ball.
+
+--- PAGE 7 ---
+444     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ9.9 
+(a) 
+In empty space, the center of mass of a rocket-plus-fuel system 
+does not accelerate during a burn, because no outside force acts 
+on this system. The rocket body itself does accelerate as it blows 
+exhaust containing momentum out the back. 
+ 
+(b) According to the text’s ‘basic expression for rocket propulsion,’ 
+the change in speed of the rocket body will be larger than the 
+speed of the exhaust relative to the rocket, if the final mass is less 
+than 37% of the original mass. 
+CQ9.10 
+To generalize broadly, around 1740 the English favored position (a), 
+the Germans position (b), and the French position (c). But in France 
+Emilie de Chatelet translated Newton’s Principia and argued for a 
+more inclusive view. A Frenchman, Jean D’Alembert, is most 
+responsible for showing that each theory is consistent with the others. 
+All the theories are equally correct. Each is useful for giving a 
+mathematically simple and conceptually clear solution for some 
+problems. There is another comprehensive mechanical theory, the 
+angular impulse–angular momentum theorem, which we will glimpse 
+in Chapter 11. It identifies the product of the torque of a force and the 
+time it acts as the cause of a change in motion, and change in angular 
+momentum as the effect. 
+ 
+We have here an example of how scientific theories are different from 
+what people call a theory in everyday life. People who think that 
+different theories are mutually exclusive should bring their thinking 
+up to date to around 1750. 
+CQ9.11 
+No. Impulse, 
+
+FΔt, depends on the force and the time interval during 
+which it is applied. 
+CQ9.12 
+No. Work depends on the force and on the displacement over which it 
+acts. 
+CQ9.13 
+(a) 
+Linear momentum is conserved since there are no external forces 
+acting on the system. The fragments go off in different directions 
+and their vector momenta add to zero. 
+ 
+(b)  Kinetic energy is not conserved because the chemical potential 
+energy initially in the explosive is converted into kinetic energy of 
+the pieces of the bomb.
+
+--- PAGE 8 ---
+Chapter 9     445 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 9.1 
+Linear Momentum 
+P9.1 
+(a) 
+The momentum is p = mv, so v = p/m and the kinetic energy is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 m
+p
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= p2
+2m
+ 
+ 
+(b) 
+K = 1
+2 mv2 implies v =
+2K
+m
+ so p = mv = m 2K
+m =
+2mK . 
+P9.2 
+K = p
+2/2m, and hence, p =
+2mK. Thus, 
+ 
+ 
+ 
+m = p2
+2 ⋅K =
+25.0 kg ⋅m/s
+(
+)
+2
+2 275 J
+(
+)
+= 1.14 kg 
+ 
+and 
+ 
+ 
+ 
+v = p
+m =
+2m K
+( )
+m
+=
+2 K
+( )
+m
+=
+2 275 J
+(
+)
+1.14 kg = 22.0 m/s
+ 
+P9.3 
+We apply the impulse-momentum theorem to relate the change in the 
+horizontal momentum of the sled to the horizontal force acting on it: 
+ 
+ 
+  
+Δpx = FxΔt →Fx = Δpx
+Δt =
+mvxf −mvxi
+Δt
+Fx = −17.5 kg
+(
+) 3.50 m/s
+(
+)
+8.75 s
+Fx = 7.00 N
+ 
+*P9.4 
+We are given m = 3.00 kg and v = 3.00ˆi −4.00ˆj
+(
+) m/s.  
+ 
+(a) 
+The vector momentum is then 
+ 
+ 
+ 
+p = mv = 3.00 kg
+(
+)
+3.00ˆi −4.00ˆj
+(
+) m/s
+⎡⎣
+⎤⎦
+= 9.00ˆi −12.0ˆj
+(
+) kg⋅m/s
+ 
+ 
+ 
+Thus, px = 9.00 kg ⋅m/s and  py = −12.0 kg ⋅m/s . 
+ 
+(b) 
+p =
+px
+2 + py
+2 =
+9.00 kg ⋅m/s
+(
+)
+2 + 12.0 kg ⋅m/s
+(
+)
+2
+= 15.0 kg ⋅m/s
+
+--- PAGE 9 ---
+446     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+at an angle of 
+ 
+ 
+ 
+ 
+θ = tan−1
+py
+px
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −1.33
+(
+) = 307° 
+P9.5 
+We apply the impulse-momentum theorem to find the average force 
+the bat exerts on the baseball: 
+ 
+ 
+  
+Δp =
+
+FΔt →
+
+F = Δp
+Δt = m
+v f −vi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Choosing the direction toward home plate as the positive x direction, 
+we have vi = 45.0 m/s
+(
+)ˆi, v f = 55.0 m/s
+(
+)ˆj, and Δt = 2.00 ms: 
+ 
+ 
+ 
+
+Fon ball = m
+v f −vi
+Δt
+= 0.145 kg
+(
+) 55.0 m/s
+(
+)ˆj −45.0 m/s
+(
+)ˆi
+2.00 × 10−3 s
+ 
+ 
+ 
+ 
+
+Fon ball = −3.26ˆi + 3.99ˆj
+(
+) N 
+ 
+By Newton’s third law,  
+ 
+ 
+ 
+
+Fon bat = −
+
+Fon ball    so    
+Fon bat = +3.26ˆi −3.99ˆj
+(
+) N 
+ 
+ 
+ 
+Section 9.2 
+Analysis Model: Isolated system (Momentum)	  
+P9.6 
+(a) 
+The girl-plank system is isolated, so horizontal momentum is 
+conserved. 
+ 
+ 
+We measure momentum relative to the ice: pgi + ppi = pgf + ppf . 
+ 
+ 
+The motion is in one dimension, so we can write,  
+ 
+ 
+ 
+vgiˆi = vgpˆi + vpiˆi →vgi = vgp + vpi 
+ 
+ 
+where vgi denotes the velocity of the girl relative to the ice, vgp the 
+velocity of the girl relative to the plank, and vpi the velocity of the 
+plank relative to the ice. The momentum equation becomes 
+ 
+ 
+ 
+0 = mgvgiˆi + mpvpiˆi →0 = mgvgi + mpvpi
+0 = mg vgp + vpi
+(
+)+ mpvpi
+0 = mgvgp + mg + mp
+(
+)vpi →vpi = −
+mg
+mg + mp
+⎛
+⎝⎜
+⎞
+⎠⎟vgp
+
+--- PAGE 10 ---
+Chapter 9     447 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+solving for the velocity of the plank gives 
+ 
+ 
+ 
+vpi = −
+mg
+mg + mp
+⎛
+⎝⎜
+⎞
+⎠⎟vgp = −
+45.0 kg
+45.0 kg + 150 kg
+⎛
+⎝⎜
+⎞
+⎠⎟1.50 m/s
+(
+)
+vpi = −0.346 m/s
+ 
+ 
+(b) Using our result above, we find that 
+ 
+ 
+ 
+vgi = vgp + vpi = (1.50 m/s) + (−0.346 m/s)
+vgi = 1.15 m/s
+ 
+P9.7 
+(a) 
+The girl-plank system is isolated, so horizontal momentum is 
+conserved. 
+ 
+ 
+We measure momentum relative to the ice: pgi + ppi = pgf + ppf . 
+ 
+ 
+The motion is in one dimension, so we can write  
+ 
+ 
+ 
+vgiˆi = vgpˆi + vpiˆi →vgi = vgp + vpi
+ 
+ 
+ 
+where vgi denotes the velocity of the girl relative to the ice, vgp the 
+velocity of the girl relative to the plank, and vpi the velocity of the 
+plank relative to the ice. The momentum equation becomes 
+ 
+ 
+  
+0 = mgvgiˆi + mpvpiˆi →0 = mgvgi + mpvpi
+0 = mg vgp + vpi
+(
+)+ mpvpi
+0 = mgvgp + mg + mp
+(
+)vpi
+ 
+ 
+ 
+solving for the velocity of the plank gives 
+ 
+ 
+  
+vpi = −
+mg
+mg + mp
+⎛
+⎝⎜
+⎞
+⎠⎟vgp 
+ 
+(b) Using our result above, we find that 
+ 
+ 
+ 
+vgi = vgp + vpi = vgp
+mg + mp
+(
+)
+mg + mp
+−
+mg
+mg + mp
+vgp
+vgi =
+mg + mp
+(
+)vgp −mgvgp
+mg + mp
+ 
+ 
+ 
+ 
+vgi = mgvgp + mpvgp −mgvgp
+mg + mp
+
+--- PAGE 11 ---
+448     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+vgi =
+mp
+mg + mp
+⎛
+⎝⎜
+⎞
+⎠⎟vgp 
+P9.8 
+(a)  Brother and sister exert equal-magnitude oppositely-directed 
+forces on each other for the same time interval; therefore, the 
+impulses acting on them are equal and opposite. Taking east as 
+the positive direction, we have 
+ 
+ 
+impulse on boy: I = FΔt = Δp = 65.0 kg
+(
+) −2.90 m/s
+(
+) = −189 N⋅s  
+ 
+ 
+impulse on girl: I = −FΔt = −Δp = +189 N⋅s = mv f 
+ 
+ 
+Her speed is then 
+ 
+ 
+ 
+v f = I
+m = 189 N⋅s
+40.0 kg = 4.71 m/s
+  
+ 
+ 
+meaning she moves at 4.71 m/s east . 
+ 
+(b) original chemical potential energy in girl’s body = total final 
+kinetic energy 
+ 
+ 
+ 
+Uchemical = 1
+2 mboyvboy
+2
++ 1
+2 mgirlvgirl
+2
+= 1
+2 65.0 kg
+(
+) 2.90 m/s
+(
+)
+2 + 1
+2 40.0 kg
+(
+) 4.71 m/s
+(
+)
+2
+= 717 J
+  
+ 
+(c) 
+Yes. System momentum is conserved with the value zero. 
+ 
+(d) The forces on the two siblings are internal forces, which cannot 
+change the momentum of the system— the system is isolated . 
+ 
+(e) 
+Even though there is motion afterward, the final momenta are
+of equal magnitude in opposite directions so the final momentum
+of the system is still zero.
+
+--- PAGE 12 ---
+Chapter 9     449 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P9.9 
+We assume that the velocity of the blood is constant over the 0.160 s. 
+Then the patient’s body and pallet will have a constant velocity of 
+6 × 10−5 m
+0.160 s
+= 3.75 × 10−4 m/s in the opposite direction. Momentum 
+conservation gives 
+ 
+ 
+ 
+p1i + p2i = p1 f + p2 f : 
+ 
+ 
+ 
+0 = mblood 0.500 m s
+(
+) + 54.0 kg
+(
+) −3.75 × 10−4 m/s
+(
+) 
+ 
+ 
+ 
+mblood = 0.040 5 kg =
+40.5 g 
+P9.10 
+I have mass 72.0 kg and can jump to raise my center of gravity 25.0 cm. 
+I leave the ground with speed given by 
+ 
+ 
+ 
+v f
+2 −vi
+2 = 2a x f −xi
+(
+):        0 −vi
+2 = 2 −9.80 m/s2
+(
+) 0.250 m
+(
+)
+ 
+ 
+ 
+ 
+vi = 2.20 m/s 
+ 
+Total momentum of the system of the Earth and me is conserved as I 
+push the planet down and myself up: 
+ 
+ 
+ 
+0 = 5.98 × 1024 kg
+(
+) −ve
+(
+) + 85.0 kg
+(
+) 2.20 m/s
+(
+)
+ve 10−23 m/s
+ 
+P9.11 
+(a) 
+For the system of two blocks Δp = 0, or 
+i
+f
+p
+p
+=
+. Therefore,  
+ 
+ 
+ 
+0 = mvm + 3m
+(
+) 2.00 m/s
+(
+) 
+ 
+ 
+Solving gives vm = −6.00 m/s (motion toward the left). 
+ 
+(b) 
+1
+2 kx2 = 1
+2 mvM
+2 + 1
+2 3m
+(
+)v3M
+2
+= 1
+2 (0.350 kg)(−6.00 m/s)2 + 3
+2 (0.350 kg)(2.00 m/s)2
+= 8.40 J
+ 
+ 
+(c) 
+The original energy is in the spring. 
+ 
+(d)  A force had to be exerted over a displacement to compress the 
+spring, transferring energy into it by work. 
+The cord exerts force, but over no displacement.  
+ 
+(e)  
+System momentum is conserved with the value zero.
+
+--- PAGE 13 ---
+450     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f)  The forces on the two blocks are internal forces, which cannot 
+change the momentum of the system— the system is isolated. 
+ 
+(g) 
+Even though there is motion afterward, the final momenta are
+of equal magnitude in opposite directions so the final momentum
+of the system is still zero.
+ 
+ 
+ 
+ 
+Section 9.3 
+Analysis Model: Nonisolated system (Momentum)	  
+P9.12 
+(a) 
+I = FavgΔt, where I is the impulse the man must deliver to the 
+child: 
+ 
+ 
+ 
+I = FavgΔt = Δpchild = mchild v f −vi →Favg =
+mchild v f −vi
+Δt
+ 
+ 
+ 
+Solving for the average force gives 
+ 
+  
+ 
+Favg =
+mchild v f −vi
+Δt
+= 12.0 kg
+(
+) 0 −60 mi/h
+0.10 s
+0.447 m/s
+1 mi/h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.22 × 103 N
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+Favg = 3.22 × 103 N
+(
+) 0.224 8 lb
+1 N
+⎛
+⎝⎜
+⎞
+⎠⎟≈720 lb
+ 
+ 
+(b) 
+The man’s claim is nonsense. He would not be able to exert a 
+force of this magnitude on the child. In reality, the violent forces 
+during the collision would tear the child from his arms. 
+ 
+(c) 
+These devices are essential for the safety of small children. 
+P9.13 
+(a) 
+The impulse delivered to the ball is  
+equal to the area under the F-t graph.  
+We have a triangle and so to get its  
+area we multiply half its height times  
+its width: 
+ 
+ 
+ 
+I =
+Fdt
+∫
+ = area under curve 
+ 
+ 
+  
+I = 1
+2 1.50 × 10−3 s
+(
+) 18 000 N
+(
+) = 13.5 N ⋅s 
+ 
+ANS. FIG. P9.13
+
+--- PAGE 14 ---
+Chapter 9     451 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b)  F =
+13.5 N ⋅s
+1.50 × 10−3 s = 9.00 kN 
+P9.14 
+(a)  The impulse the floor exerts on the ball is equal to the change in 
+momentum of the ball: 
+ 
+ 
+ 
+Δp = m v f −vi
+(
+) = m v f −vi
+(
+)ˆj
+= 0.300 kg
+(
+) 5.42 m/s
+(
+)−−5.86 m/s
+(
+)
+[
+]ˆj
+= 3.38 kg⋅m/s ˆj
+ 
+ 
+(b)  Estimating the contact time interval to be 0.05 s, from the 
+impulse-momentum theorem, we find 
+ 
+ 
+ 
+
+F = Δp
+Δt = 3.38 kg ⋅m/s ˆj
+0.05 s
+→
+
+F = 7 × 102 N ˆj 
+P9.15 
+(a) 
+The mechanical energy of the isolated spring-mass system is 
+conserved: 
+ 
+ 
+ 
+ 
+Ki +Usi = K f +Usf     
+0 + 1
+2 kx2 = 1
+2 mv2 + 0
+v = x
+k
+m
+ 
+ 
+(b) 
+I = p f −pi = mv f −0 = mx
+k
+m = x km 
+ 
+(c) 
+For the glider, W = K f −Ki = 1
+2 mv2 −0 = 1
+2 kx2 
+ 
+ 
+The mass makes no difference to the work. 
+*P9.16 
+We take the x axis directed toward the pitcher. 
+ 
+(a) 
+In the x direction, pxi + Ix = pxf : 
+ 
+ 
+ 
+Ix = pxf −pxi
+= 0.200 kg
+(
+) 40.0 m/s
+(
+)cos30.0°
+                       −0.200 kg
+(
+) 15.0 m/s
+(
+) −cos45.0°
+(
+)
+= 9.05 N⋅s
+
+--- PAGE 15 ---
+452     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In the y direction, pyi + Iy = pyf :  
+ 
+ 
+ 
+Iy = pyf −pyi
+= 0.200 kg
+(
+) 40.0 m/s
+(
+)sin30.0°
+                       −0.200 kg
+(
+) 15.0 m/s
+(
+) −sin 45.0°
+(
+)
+= 6.12 N⋅s
+ 
+ 
+ 
+Therefore, 
+
+I =
+9.05ˆi + 6.12ˆj
+(
+) N ⋅s 
+ 
+(b) 
+
+I = 1
+2 0 +
+
+Fm
+(
+) 4.00 ms
+(
+) +
+
+Fm 20.0 ms
+(
+) + 1
+2
+
+Fm 4.00 ms
+(
+) 
+ 
+ 
+
+Fm × 24.0 × 10−3 s = 9.05ˆi + 6.12ˆj
+(
+) N ⋅s
+
+Fm =
+377ˆi + 255ˆj
+(
+) N
+ 
+*P9.17 
+(a) 
+From the kinematic equations, 
+ 
+ 
+ 
+Δt = Δx
+vavg
+=
+2Δx
+v f + vi
+=
+2 1.20 m
+(
+)
+0 + 25.0 m/s = 9.60 × 10−2 s
+  
+ 
+(b) We find the average force from the momentum-impulse theorem: 
+ 
+ 
+ 
+Favg = Δp
+Δt = mΔv
+Δt = 1 400 kg
+(
+) 25.0 m/s −0
+(
+)
+9.60 × 10−2 s
+= 3.65 × 105 N
+  
+ 
+(c) 
+Using the particle under constant acceleration model, 
+ 
+ 
+ 
+aavg = Δv
+Δt = 25.0 m/s −0
+9.60 × 10−2 s = 260 m/s2
+(
+)
+1 g
+9.80 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 26.5g 
+P9.18 
+We assume that the initial direction of the ball is in the –x direction. 
+ 
+(a)  The impulse delivered to the ball is given by   
+ 
+ 
+ 
+
+I = Δp = p f − pi
+= 0.060 0 kg
+(
+) 40.0 m/s
+(
+)ˆi −0.060 0 m/s
+(
+) 20.0 m/s
+(
+) −ˆi
+( )
+= 3.60ˆi N⋅s
+ 
+ 
+(b) We choose the tennis ball as a nonisolated system for energy.  Let 
+the time interval be from just before the ball is hit until just after.  
+Equation 9.2 for conservation of energy becomes 
+ 
+ 
+ 
+ΔK + ΔEint = TMW 
+ 
+ 
+Solving for the energy sum ΔEint −TMW and substituting gives  
+ 
+ 
+ 
+ΔEint −TMW = −ΔK = −1
+2 mv f
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 m vi
+2 −v f
+2
+(
+)
+
+--- PAGE 16 ---
+Chapter 9     453 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting numerical values gives, 
+ 
+ 
+ 
+ΔEint −TMW = −1
+2 0.060 0 kg
+(
+)
+20.0 m/s
+(
+)
+2 −40.0 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
+= 36.0 J
+ 
+ 
+ 
+There is no way of knowing how the energy splits between 
+ΔEint and TMW without more information. 
+P9.19 
+(a)  The impulse is in the x direction and equal to the area under the 
+F-t graph: 
+ 
+ 
+ 
+I =
+0 + 4 N
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2 s −0
+(
+)+ 4 N
+(
+) 3 s −2 s
+(
+)+
+4 N+0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟5 s −3 s
+(
+)
+= 12.0 N⋅s
+  
+ 
+ 
+ 
+
+I = 12.0 N ⋅s ˆi 
+ 
+(b) From the momentum-impulse theorem, 
+ 
+ 
+ 
+mvi +
+
+FΔt = mv f
+v f = vi +
+
+FΔt
+m = 0 + 12.0 ˆi N⋅s
+2.50 kg
+= 4.80 ˆi m/s
+ 
+ 
+(c) 
+From the same equation,  
+ 
+ 
+ 
+v f = vi +
+
+FΔt
+m = −2.00 ˆi m/s + 12.0 ˆi N⋅s
+2.50 kg
+= 2.80 ˆi m/s
+ 
+ 
+(d) 
+
+FavgΔt = 12.0ˆi N⋅s =
+
+Favg(5.00 s)
+→
+
+Favg = 2.40ˆi N 
+P9.20 
+(a)  A graph of the expression for force shows a parabola opening 
+down, with the value zero at the beginning and end of the 0.800-s 
+interval. We integrate the given force to find the impulse: 
+ 
+ 
+ 
+I =
+Fdt
+0
+0.800s
+∫
+=
+(9 200 t N/s −11 500 t2 N/s2)dt
+0
+0.800s
+∫
+= 1
+2 (9 200 N/s)t2 −1
+3(11 500 N/s2)t3
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+0.800s
+= 1
+2 (9 200 N/s)(0.800 s)2 −1
+3(11 500 N/s2)(0.800 s)3
+= 2 944 N⋅s −1 963 N⋅s = 981  N⋅s
+ 
+ 
+ 
+The athlete imparts a downward impulse to the platform, so the 
+platform imparts to her an impulse of 981 N ⋅s, up.
+
+--- PAGE 17 ---
+454     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b)  We could find her impact speed as a free-fall calculation, but we 
+choose to write it as a conservation-of-energy calculation:  
+ 
+ 
+ 
+mgytop = 1
+2 mvimpact
+2
+  
+ 
+ 
+ 
+vimpact =
+2gytop =
+2 9.80 m/s2
+(
+) 0.600 m
+(
+)
+= 3.43 m/s, down
+ 
+ 
+(c)  Gravity, as well as the platform, imparts impulse to her during 
+the interaction with the platform 
+ 
+ 
+  
+I = Δp
+Igrav + Iplatform = mv f −mvi
+−mgΔt + Iplatform = mv f −mvi
+ 
+ 
+ 
+solving for the final velocity gives 
+ 
+ 
+  
+v f = vi −mgΔt + Iplatform
+m
+= −3.43 m/s
+(
+)−9.80 m/s2
+(
+) 0.800 s
+(
+)+ 981 N⋅s
+65.0 kg
+= 3.83 m/s, up
+ 
+ 
+ 
+Note that the athlete is putting a lot of effort into jumping and 
+does not exert any force “on herself.” The usefulness of the force 
+platform is to measure her effort by showing the force she exerts 
+on the floor. 
+ 
+(d) Again energy is conserved in upward flight: 
+ 
+ 
+ 
+mgytop = 1
+2 mvtakeoff
+2
+ 
+ 
+ 
+ which gives 
+ 
+ 
+ 
+ytop = vtakeoff
+2
+2g
+=
+3.83 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 0.748 m
+ 
+P9.21 
+After 3.00 s of pouring, the bucket contains  
+ 
+ 
+(3.00 s)(0.250 L/s) = 0.750 liter  
+ 
+of water, with mass (0.750 L)(1 kg/1 L) = 0.750 kg, and feeling 
+gravitational force (0.750 kg)(9.80 m/s
+2) = 7.35 N. The scale through the 
+bucket must exert 7.35 N upward on this stationary water to support 
+its weight. The scale must exert another 7.35 N to support the 0.750-kg
+
+--- PAGE 18 ---
+Chapter 9     455 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+bucket itself. 
+ 
+Water is entering the bucket with speed given by  
+ 
+ 
+ 
+mgytop = 1
+2 mvimpact
+2
+  
+ 
+ 
+ 
+vimpact =
+2gytop =
+2 9.80 m/s2
+(
+) 2.60 m
+(
+)
+= 7.14 m/s, downward
+ 
+ 
+The scale exerts an extra upward force to stop the downward motion 
+of this additional water, as described by 
+ 
+ 
+ 
+mvimpact + Fextrat = mv f  
+ 
+The rate of change of momentum is the force itself: 
+ 
+ 
+ 
+dm
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟vimpact + Fextra = 0
+ 
+ 
+which gives 
+ 
+ 
+ 
+Fextra = −dm
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟vimpact = −0.250 kg/s
+(
+) −7.14 m/s
+(
+) = 1.78 N
+ 
+ 
+Altogether the scale must exert 7.35 N + 7.35 N + 1.78 N = 16.5 N 
+ 
+ 
+ 
+Section 9.4 
+Collisions in One Dimension	  
+P9.22 
+(a) 
+Conservation of momentum gives  
+ 
+ 
+ 
+mTvTf + mCvCf = mTvTi + mCvCi  
+ 
+ 
+Solving for the final velocity of the truck gives 
+ 
+vTf =
+mTvTi + mC vCi −vCf
+(
+)
+mT
+    = 9 000 kg
+(
+) 20.0 m/s
+(
+)+ 1 200 kg
+(
+)[ 25.0 −18.0
+(
+) m/s]
+9 000 kg
+vTf = 20.9 m/s East
+
+--- PAGE 19 ---
+456     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) We compute the change in mechanical energy of the car-truck 
+system from 
+ 
+ 
+ 
+ΔKE = KE f −KEi = 1
+2 mCvCf
+2 + 1
+2 mTvTf
+2
+⎡
+⎣⎢
+⎤
+⎦⎥−1
+2 mCvCi
+2 + 1
+2 mTvTi
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1
+2 mC vCf
+2 − vCi
+2
+(
+)+ mT vTf
+2 − vTi
+2
+(
+)
+⎡⎣
+⎤⎦
+= 1
+2
+1 200 kg
+(
+) (18.0 m/s)2 −(25.0 m/s)2
+⎡⎣
+⎤⎦
+{
+              + 9 000 kg
+(
+) (20.9 m/s)2 −(20.0 m/s)2
+⎡⎣
+⎤⎦}
+ΔKE = – 8.68 × 103 J
+ 
+ 
+ 
+Note: If 20.9 m/s were used to determine the energy lost instead 
+of 20.9333 as the answer to part (a), the answer would be very 
+different. We have kept extra digits in all intermediate answers 
+until the problem is complete. 
+ 
+(c) 
+The mechanical energy of the car-truck system has decreased. 
+Most of the energy was transformed to internal energy with some 
+being carried away by sound. 
+P9.23 
+Momentum is conserved for the bullet-block system: 
+ 
+ 
+ 
+mv + 0 = m+ M
+(
+)v f
+  
+ 
+ 
+ 
+v =
+m+ M
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v f =
+10.0 × 10−3 kg + 5.00 kg
+10.0 × 10−3 kg
+⎛
+⎝⎜
+⎞
+⎠⎟0.600 m/s
+(
+)
+= 301 m/s
+ 
+P9.24 
+The collision is completely inelastic. 
+ 
+(a)  Momentum is conserved by the collision: 
+ 
+ 
+  
+p1i + p2i = p1f + p2f →m1v1i + m2v2i = m1v1 f + m2v2 f
+mv1 + 2m
+(
+)v2 = mv f + 2mv f = 3mv f
+v f = mv1 + 2mv2
+3m
+→v f = 1
+3 v1 + 2v2
+(
+)
+
+--- PAGE 20 ---
+Chapter 9     457 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.26
+ 
+(b) We compute the change in mechanical energy of the car-truck 
+system from 
+  
+ 
+ 
+ΔK = K f −Ki = 1
+2 3m
+(
+)v f
+2 −1
+2 mv1
+2 + 1
+2 2m
+(
+)v2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ΔK = 3m
+2
+1
+3 v1 + 2v2
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+−1
+2 mv1
+2 + 1
+2 2m
+(
+)v2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ΔK = 3m
+2
+v1
+2
+9 + 4v1v2
+9
++ 4v2
+2
+9
+⎛
+⎝⎜
+⎞
+⎠⎟−mv1
+2
+2
+−mv2
+2
+= m v1
+2
+6 + 2v1v2
+3
++ 2v2
+2
+3 −v1
+2
+2 −v2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔK = m v1
+2
+6 + 4v1v2
+6
++ 4v2
+2
+6 −3v1
+2
+6 −6v2
+2
+6
+⎛
+⎝⎜
+⎞
+⎠⎟
+= m −2v1
+2
+6 + 4v1v2
+6
+−2v2
+2
+6
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔK = −m
+3 v1
+2 + v2
+2 −2v1v2
+(
+)
+ 
+*P9.25 
+(a) 
+We write the law of conservation of momentum as  
+ 
+ 
+ 
+mv1i + 3mv2i = 4mv f  
+ 
+ 
+or 
+v f = 4.00 m/s + 3 2.00 m/s
+(
+)
+4
+= 2.50 m/s 
+ 
+(b) 
+K f −Ki = 1
+2 4m
+(
+)v f
+2 −1
+2 mv1i
+2 + 1
+2 3m
+(
+)v2i
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1
+2 2.50 × 104 kg
+(
+)[4(2.50 m/s)2
+                     −(4.00 m/s)2 −3(2.00 m/s)2]
+= −3.75 × 104 J
+ 
+*P9.26 
+(a) 
+The internal forces exerted 
+by the actor do not change 
+the total momentum of the 
+system of the four cars and 
+the movie actor. 
+Conservation of momentum  
+gives  
+ 
+ 
+ 
+4m
+(
+)vi = 3m
+(
+) 2.00 m s
+(
+) + m 4.00 m s
+(
+)
+vi = 6.00 m s + 4.00 m s
+4
+= 2.50 m s
+ 
+r
+
+--- PAGE 21 ---
+458     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Wactor = K f −Ki
+= 1
+2
+3m
+(
+) 2.00 m s
+(
+)
+2 + m 4.00 m s
+(
+)
+2
+⎡⎣
+⎤⎦−1
+2 4m
+(
+) 2.50 m s
+(
+)
+2
+ 
+ 
+ 
+Wactor = 2.50 × 104 kg
+(
+)
+2
+12.0 + 16.0 −25.0
+(
+) m s
+(
+)
+2 = 37.5 kJ 
+ 
+(c) 
+The event considered here is the time reversal of the 
+perfectly inelastic collision in the previous problem. 
+The same momentum conservation equation describes 
+both processes.
+ 
+P9.27 
+(a)  From the text’s analysis of a one-dimensional elastic collision with 
+an originally stationary target, the x component of the neutron’s 
+velocity changes from vi to v1f = (1 − 12)vi/13 = −11vi/13. The x 
+component of the target nucleus velocity is v2f = 2vi/13. 
+ 
+ 
+The neutron started with kinetic energy  1
+2 m1vi
+2. 
+ 
+ 
+The target nucleus ends up with kinetic energy 1
+2 12m1
+(
+) 2vi
+13
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+. 
+ 
+ 
+Then the fraction transferred is 
+ 
+ 
+ 
+1
+2 12m1
+(
+)(2vi /13)2
+1
+2 m1vi
+2
+= 48
+169 = 0.284
+  
+ 
+ 
+Because the collision is elastic, the other 71.6% of the original 
+energy stays with the neutron. The carbon is functioning as a 
+moderator in the reactor, slowing down neutrons to make them 
+more likely to produce reactions in the fuel. 
+ 
+(b)  The final kinetic energy of the neutron is 
+ 
+ 
+ 
+Kn = (0.716)(1.60 × 10−13 J) = 1.15 × 10−13 J
+   
+ 
+ 
+and the final kinetic energy of the carbon nucleus is 
+ 
+ 
+ 
+KC = (0.284)(1.60 × 10−13 J) = 4.54 × 10−14 J
+ 
+*P9.28 
+Let’s first analyze the situation in which the wood block, of mass  
+mw = 1.00 kg, is held in a vise.  The bullet of mass mb = 7.00 g is initially 
+moving with speed vb and then comes to rest in the block due to the 
+kinetic friction force fk between the block and the bullet as the bullet
+
+--- PAGE 22 ---
+Chapter 9     459 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+deforms the wood fibers and moves them out of the way.  The result is 
+an increase in internal energy in the wood and the bullet.  Identify the 
+wood and the bullet as an isolated system for energy during the 
+collision: 
+ 
+ 
+ΔK + ΔEint = 0 
+ 
+Substituting for the energies: 
+ 
+ 
+0 −1
+2 mbv b
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ fkd = 0 
+[1] 
+ 
+where d = 8.00 cm is the depth of penetration of the bullet in the wood. 
+ 
+Now consider the second situation, where the block is sitting on a 
+frictionless surface and the bullet is fired into it. Identify the wood and 
+the bullet as an isolated system for energy during the collision: 
+ 
+ 
+ΔK + ΔEint = 0 
+ 
+Substituting for the energies: 
+ 
+ 
+1
+2 mb + mw
+(
+)v f
+2 −1
+2 mbv b
+2
+⎡
+⎣⎢
+⎤
+⎦⎥+ fk ′d = 0 
+[2] 
+ 
+where vf is the speed with which the block and imbedded bullet slide 
+across the table after the collision and d’ is the depth of penetration of 
+the bullet in this situation. Identify the wood and the bullet as an 
+isolated system for momentum during the collision: 
+ 
+ 
+Δp = 0 →
+pi = pf →
+mbvb = mb + mw
+(
+)v f 
+[3] 
+ 
+Solving equation [3] for vb, we obtain 
+ 
+ 
+vb =
+mb + mw
+(
+)v f
+mb
+ 
+[4] 
+ 
+Solving equation [1] for fkd and substituting for vb from equation [4] 
+above: 
+ 
+ 
+fkd = 1
+2 mbv b
+2 = 1
+2 mb
+mb + mw
+(
+)v f
+mb
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+= 1
+2
+mb + mw
+(
+)
+2
+mb
+v f
+2 
+[5]
+
+--- PAGE 23 ---
+460     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving equation [2] for fkd’ and substituting for vb from equation [4]: 
+ 
+ 
+fk ′d = −1
+2 mb + mw
+(
+)v f
+2 −1
+2 mbv b
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= −1
+2 mb + mw
+(
+)v f
+2 −1
+2 mb
+mb + mw
+(
+)v f
+mb
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+fk ′d = 1
+2
+mw
+mb
+mb + mw
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥v f
+2
+ 
+[6]
+ 
+ 
+Dividing equation [6] by [5] gives 
+ 
+ 
+fk ′d
+fkd =
+′d
+d =
+1
+2
+mw
+mb
+mb + mw
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥v f
+2
+1
+2
+mb + mw
+(
+)
+2
+mb
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+v f
+2
+=
+mw
+mb + mw
+ 
+ 
+Solving for d’ and substituting numerical values gives 
+ 
+ 
+′d =
+mw
+mb + mw
+⎛
+⎝⎜
+⎞
+⎠⎟d =
+1.00 kg
+0.007 00 kg +1.00 kg
+⎡
+⎣⎢
+⎤
+⎦⎥8.00 cm
+(
+) = 7.94 cm
+ 
+*P9.29 
+(a) 
+The speed v of both balls just before the basketball reaches the 
+ground may be found from vyf
+2 = vyi
+2 + 2ayΔy as 
+ 
+ 
+ 
+v =
+vyi
+2 + 2ayΔy =
+0 + 2 −g
+(
+) −h
+(
+) =
+2gh
+=
+2 9.80 m/s2
+(
+) 1.20 m
+(
+) = 4.85 m/s
+ 
+ 
+(b) Immediately after the basketball rebounds from the floor, it and 
+the tennis ball meet in an elastic collision. The velocities of the 
+two balls just before collision are 
+ 
+ 
+ 
+for the tennis ball (subscript t): 
+vti = −v  
+ 
+ 
+and for the basketball (subscript b):  
+vbi = +v 
+ 
+ 
+We determine the velocity of the tennis ball immediately after this 
+elastic collision as follows: 
+ 
+ 
+Momentum conservation gives 
+ 
+ 
+ 
+mtvtf + mbvbf = mtvti + mbvbi 
+ 
+ 
+or 
+mtvtf + mbvbf = mb −mt
+(
+)v 
+[1]
+
+--- PAGE 24 ---
+Chapter 9     461 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From the criteria for a perfectly elastic collision: 
+ 
+ 
+ 
+vti −vbi = −vtf −vbf
+(
+)
+ 
+ 
+ 
+or 
+vbf = vtf + vti −vbi = vtf −2v 
+[2] 
+ 
+ 
+Substituting equation [2] into [1] gives 
+ 
+ 
+ 
+mtvtf + mb vtf −2v
+(
+) = mb −mt
+(
+)v 
+ 
+ 
+or the upward speed of the tennis ball immediately after the 
+collision is 
+ 
+ 
+ 
+vtf =
+3mb −mt
+mt + mb
+⎛
+⎝⎜
+⎞
+⎠⎟v =
+3mb −mt
+mt + mb
+⎛
+⎝⎜
+⎞
+⎠⎟
+2gh
+ 
+ 
+ 
+The vertical displacement of the tennis ball during its rebound 
+following the collision is given by vyf
+2 = vyi
+2 + 2ayΔy as 
+ 
+ 
+ 
+Δy = vyf
+2 −vyi
+2
+2ay
+= 0 −vtf
+2
+2 −g
+(
+)
+=
+1
+2g
+⎛
+⎝⎜
+⎞
+⎠⎟
+3mb −mt
+mt + mb
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2g h
+(
+)
+=
+3mb −mt
+mt + mb
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+h
+ 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+Δy = 3 590 g
+(
+)−57.0 g
+(
+)
+57.0 g + 590 g
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+1.20 m
+(
+) = 8.41 m
+ 
+P9.30 
+Energy is conserved for the bob-Earth system  
+between bottom and top of the swing. At the top the  
+stiff rod is in compression and the bob nearly at rest. 
+ 
+ 
+ 
+Ki +Ui = K f +U f :
+1
+2 Mvb
+2 + 0 = 0 + Mg2 
+ 
+ 
+ 
+vb
+2 = 4g
+so
+vb = 2 g 
+ 
+Momentum of the bob-bullet system is conserved in the collision: 
+ 
+ 
+ 
+mv = m v
+2 + M 2 g
+(
+)
+→
+v = 4M
+m
+g 
+ANS. FIG. P9.30
+
+--- PAGE 25 ---
+462     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.31 
+The collision between the clay and the wooden block is completely 
+inelastic. Momentum is conserved by the collision. Find the relation 
+between the speed of the clay (C) just before impact and the speed of 
+the clay+block (CB) just after impact: 
+ 
+ 
+ 
+pBi + pCi = pBf + pCf →mBvBi + mCvCi = mBvBf + mCvCf
+M 0( ) + mvC = mvCB + MvCB = m + M
+(
+)vCB
+vC = m + M
+(
+)
+m
+vCB
+ 
+ 
+Now use conservation of energy in the presence of friction forces to 
+find the relation between the speed vCB  just after impact and the 
+distance the block slides before stopping: 
+ 
+ 
+ 
+ΔK + ΔEint = 0:     0 −1
+2 (m + M)vCB
+2 −fd = 0    
+and  −fd = −µnd = −µ(m + M)gd
+→1
+2 (m + M)vCB
+2 = µ(m + M)gd →vCB =
+2µgd
+ 
+ 
+Combining our results, we have 
+ 
+ 
+ 
+vC = (m + M)
+m
+2µgd
+= (12.0 g + 100 g)
+12.0 g
+2(0.650) 9.80 m/s2
+(
+)(7.50 m)
+ 
+ 
+ 
+ 
+vC = 91.2 m/s 
+P9.32 
+The collision between the clay and the wooden block is completely 
+inelastic. Momentum is conserved by the collision. Find the relation 
+between the speed of the clay (C) just before impact and the speed of 
+the clay+block (CB) just after impact: 
+ 
+ 
+ 
+pBi + pCi = pBf + pCf →mBvBi + mCvCi = mBvBf + mCvCf
+M 0( ) + mvC = mvCB + MvCB = m + M
+(
+)vCB
+vC = m + M
+(
+)
+m
+vCB
+ 
+ 
+Now use conservation of energy in the presence of friction forces to 
+find the relation between the speed vCB just after impact and the 
+distance the block slides before stopping: 
+ 
+ 
+ 
+ΔK + ΔEint = 0:     0 −1
+2 m+ M
+(
+)vCB
+2 −fd = 0
+and                      −fd = −µnd = −µ m+ M
+(
+)gd
+
+--- PAGE 26 ---
+Chapter 9     463 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, 
+ 
+ 
+ 
+1
+2 m+ M
+(
+)vCB
+2 = µ m+ M
+(
+)gd →vCB =
+2µgd
+ 
+ 
+Combining our results, we have 
+ 
+ 
+ 
+vC = m + M
+(
+)
+m
+2µgd
+ 
+P9.33 
+The mechanical energy of the isolated 
+block-Earth system is conserved as the 
+block of mass m1 slides down the track. 
+First we find v1, the speed of m1 at B 
+before collision: 
+ 
+ 
+ 
+Ki + Ui = Kf + Uf 
+ 
+ 
+ 
+1
+2 m1v1
+2 + 0 = 0 + m1gh
+v1 =
+2(9.80 m/s2)(5.00 m) = 9.90 m/s
+ 
+ 
+Now we use the text’s analysis of one-dimensional elastic collisions to 
+find v1
+ f , the speed of m1 at B just after collision. 
+ 
+ 
+ 
+v1 f = m1 −m2
+m1 + m2
+v1 = −1
+3 9.90
+(
+) m/s = −3.30 m/s 
+ 
+Now the 5-kg block bounces back up to its highest point after collision 
+according to 
+ 
+ 
+ 
+m1ghmax = 1
+2 m1v1 f
+2 
+ 
+which gives 
+ 
+ 
+ 
+hmax = v1 f
+2
+2g = −3.30 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 0.556 m
+ 
+P9.34 
+(a)  Using conservation of momentum, 
+p
+∑
+(
+)before =
+p
+∑
+(
+)after , gives 
+ 
+ 
+ 
+4.00 kg
+(
+) 5.00 m/s
+(
+) + 10.0 kg
+(
+) 3.00 m/s
+(
+)
+                   + 3.00 kg
+(
+) −4.00 m/s
+(
+) =
+4.00 + 10.0 + 3.00
+(
+) kg
+[
+]v
+ 
+ 
+ 
+Therefore, v = +2.24 m/s, or 2.24 m/s toward the right .
+ 
+ 
+(b) 
+No. For example, if the 10.0-kg and 3.00-kg masses were to 
+ANS. FIG. P9.33
+
+--- PAGE 27 ---
+464     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.35 
+stick together first, they would move with a speed given by 
+solving 
+ 
+ 
+ 
+(13.0 kg)v1 = (10.0 kg)(3.00 m/s) + (3.00 kg)(−4.00 m/s)    
+ 
+ 
+or v1 = +1.38 m s 
+ 
+ 
+Then when this 13.0-kg combined mass collides with the 4.00-kg 
+mass, we have 
+ 
+ 
+ 
+ 
+(17.0 kg)v = (13.0 kg)(1.38 m s)+(4.00 kg)(5.00 m s)  
+ 
+ 
+ 
+and v = +2.24 m/s, just as in part (a).  
+ 
+ 
+ 
+Coupling order makes no difference to the final velocity. 
+ 
+ 
+ 
+Section 9.5 
+Collisions in Two Dimensions	  
+*P9.35 
+(a) 
+We write equations expressing  
+conservation of the x and y  
+components of momentum,  
+with reference to the figures  
+on the right. Let the puck initially  
+at rest be m2. In the x direction, 
+ 
+ 
+ 
+m1v1i = m1v1 f cos θ + m2v2 f cos φ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+v2 f cos φ = m1v1i −m1v1 f cos θ
+m2
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+v2 f cos φ =
+1
+0.300 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+                       [ 0.200 kg
+(
+) 2.00 m s
+(
+)
+                              −0.200 kg
+(
+) 1.00 m s
+(
+)cos 53.0°]
+ 
+ 
+ 
+ In the y direction, 
+ 
+ 
+ 
+0 = m1v1 f sinθ −m2v2 f sinφ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+ 
+v2 f sinφ = m1v1 f sinθ
+m2
+ 
+r
+r
+r
+
+--- PAGE 28 ---
+Chapter 9     465 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+ 
+ 
+ 
+0 = 0.200 kg
+(
+) 1.00 m s
+(
+)sin53.0° −0.300 kg
+(
+) v2 f sinφ
+(
+) 
+ 
+ 
+From these equations, we find  
+ 
+ 
+ 
+tanφ = sinφ
+cosφ = 0.532
+0.932 = 0.571   or     φ = 29.7° 
+ 
+ 
+Then  v2 f =
+0.160 kg ⋅m/s
+0.300 kg
+(
+) sin29.7°
+(
+) = 1.07 m/s 
+ 
+(b) 
+Ki = 1
+2 (0.200 kg)(2.00 m/s)
+2 = 0.400 J and  
+ 
+ 
+K f = 1
+2 (0.200 kg)(1.00 m/s)2 + 1
+2 (0.300 kg)(1.07 m/s)2 = 0.273 J 
+ 
+ 
+flost = ΔK
+Ki
+= K f −Ki
+Ki
+= 0.273 J −0.400 J
+0.400 J
+= −0.318 
+P9.36 
+We use conservation of momentum for the 
+system of two vehicles for both northward 
+and eastward components, to find the 
+original speed of car number 2. 
+ 
+For the eastward direction: 
+ 
+ 
+ 
+m 13.0 m/s
+(
+) = 2mVf cos55.0° 
+ 
+For the northward direction: 
+ 
+ 
+ 
+mv2i = 2mVf sin55.0° 
+ 
+Divide the northward equation by the eastward equation to find: 
+ 
+ 
+  
+v2i = 13.0 m s
+(
+) tan55.0° = 18.6 m/s = 41.5 mi/h 
+ 
+Thus, the driver of the northbound car was untruthful. His original
+speed was more than 35 mi/h.
+ 
+P9.37 
+We will use conservation of both the x component and the y 
+component of momentum for the two-puck system, which we can 
+write as a single vector equation. 
+ 
+ 
+ 
+ 
+m1
+v1i + m2
+v2i = m1
+v1 f + m2
+v2 f 
+ANS. FIG. P8.26
+
+--- PAGE 29 ---
+466     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Both objects have the same final velocity, which we call v f . Doing the 
+algebra and substituting to solve for the one unknown gives 
+ 
+ 
+ 
+ 
+v f = m1
+v1i + m2
+v2i
+m1 + m2
+= (3.00 kg)(5.00ˆi m/s) + (2.00 kg)(−3.00ˆj m/s)
+3.00 kg + 2.00 kg
+ 
+ 
+and calculating gives v f = 15.0ˆi −6.00ˆj
+5.00
+ m/s = (3.00ˆi −1.20ˆj) m/s 
+ 
+P9.38 
+We write the conservation of momentum in the x direction, pxf = pxi , as 
+ 
+ 
+ 
+mvO cos37.0° + mvY cos53.0° = m 5.00 m s
+(
+) 
+ 
+ 
+ 
+0.799vO + 0.602vY = 5.00 m/s 
+[1] 
+ 
+and the conservation of momentum in the y direction, pyf = pyi, as  
+ 
+ 
+ 
+mvO sin37.0° − mvY sin53.0° = 0 
+ 
+ 
+ 
+0.602vO = 0.799vY 
+[2] 
+ 
+Solving equations [1] and [2] simultaneously gives, 
+ 
+ 
+ 
+vO = 3.99 m/s and vY = 3.01 m/s 
+ 
+ANS. FIG. P9.38 
+P9.39 
+ANS. FIG. P9.38 illustrates the collision. We write the conservation of 
+momentum in the x direction, pxf = pxi , as  
+ 
+ 
+ 
+mvO cos θ + mvY cos 90.0° −θ
+(
+) = mvi
+vO cos θ + vY sin θ = vi
+ 
+[1]
+
+--- PAGE 30 ---
+Chapter 9     467 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.40 
+ 
+and the conservation of momentum in the y direction, pyf = pyi, as  
+ 
+ 
+ 
+mvO sin θ −mvY cos 90.0° −θ
+(
+) = 0
+vO sin θ = vY cos θ
+ 
+[2] 
+ 
+From equation [2], 
+ 
+ 
+ 
+vO = vY
+cos θ
+sin θ
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+[3] 
+ 
+Substituting into equation [1], 
+ 
+ 
+ 
+vY
+cos2θ
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟+ vY sinθ = vi 
+ 
+so  
+ 
+ 
+  
+vY cos2θ + sin2θ
+(
+) = vi sinθ, and  vY = vi sinθ 
+ 
+Then, from equation [3], vO = vi cosθ . 
+ 
+We did not need to write down an equation expressing conservation of 
+mechanical energy. In this situation, the requirement on perpendicular 
+final velocities is equivalent to the condition of elasticity. 
+*P9.40 
+(a) 
+The vector expression for 
+conservation of momentum,  
+pi = p f gives pxi = pxf and pyi = pyf . 
+ 
+ 
+ 
+mvi = mvcos θ + mvcos φ 
+[1] 
+ 
+ 
+ 
+0 = mvsinθ + mvsinφ 
+[2] 
+ 
+ 
+From [2], sinθ = −sinφ so θ = −φ. 
+ 
+ 
+ 
+Furthermore, energy conservation for the system of two protons 
+requires 
+ 
+ 
+ 
+1
+2 mvi
+2 = 1
+2 mv2 + 1
+2 mv2 
+ 
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+  
+v = vi
+2
+
+--- PAGE 31 ---
+468     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.41 
+ 
+(b) Hence, [1] gives 
+ 
+ 
+ 
+ 
+vi = 2vi cosθ
+2
+  
+ 
+ 
+ 
+ 
+ 
+ with θ =
+45.0° and φ = −45.0° . 
+P9.41 
+By conservation of momentum for the  
+system of the two billiard balls (with all  
+masses equal), in the x and y directions  
+separately, 
+ 
+ 
+5.00 m/s + 0 = (4.33 m/s)cos30.0° + v2 fx
+v2 fx = 1.25 m s
+0 = (4.33 m/s)sin30.0° + v2 fy
+v2 fy = −2.16 m/s
+v2 f = 2.50 m/s at −60.0°
+ 
+ 
+Note that we did not need to explicitly use the fact that the collision is 
+perfectly elastic. 
+P9.42 
+(a)  
+The opponent grabs the fullback and does not let go, so the
+two players move together at the end of their interaction—
+thus the collision is perfectly inelastic.
+ 
+ 
+(b)  First, we conserve momentum for the system of two football 
+players in the x direction (the direction of travel of the fullback): 
+ 
+ 
+  
+(90.0 kg)(5.00 m/s) + 0 = (185 kg)V cosθ 
+ 
+ 
+where θ is the angle between the direction of the final velocity V 
+and the x axis. We find 
+ 
+ 
+ 
+V cos θ = 2.43 m/s 
+[1] 
+Now consider conservation of momentum of the system in the y 
+direction (the direction of travel of the opponent): 
+ 
+ 
+  
+(95.0 kg)(3.00 m/s) + 0 = (185 kg)V sin θ 
+ 
+ 
+which gives   
+ 
+ 
+ 
+V sinθ = 1.54 m/s 
+ 
+[2] 
+ 
+ 
+Divide equation [2] by [1]: 
+ 
+ 
+ 
+tanθ = 1.54
+2.43 = 0.633
+
+--- PAGE 32 ---
+Chapter 9     469 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From which, θ = 32.3° . 
+ 
+ 
+Then, either [1] or [2] gives V = 2.88 m/s . 
+ 
+(c)  Ki = 1
+2 (90.0 kg)(5.00 m s)2 + 1
+2 (95.0 kg)(3.00 m s)2 = 1.55 × 103 J 
+ 
+ 
+K f = 1
+2 (185 kg)(2.88 m s)2 = 7.67 × 102 J 
+ 
+ 
+Thus, the kinetic energy lost is 786 J into internal energy . 
+P9.43 
+(a) 
+With three particles, the total final momentum of the system is 
+m1
+v1 f + m2
+v2 f + m3
+v3 f and it must be zero to equal the original 
+momentum. The mass of the third particle is  
+ 
+ 
+ 
+m3 = (17.0 − 5.00 − 8.40) × 10
+−27 kg 
+ 
+ 
+or 
+m3 = 3.60 × 10
+−27 kg 
+ 
+ 
+Solving m1
+v1 f + m2
+v2 f + m3
+v3 f = 0 for v3 f gives 
+ 
+ 
+ 
+v3 f = −
+m1
+v1 f + m2
+v2 f
+m3
+ 
+ 
+ 
+ 
+v3 f = – (3.36ˆi + 3.00ˆj) × 10–20 kg⋅m/s
+3.60 × 10–27  kg
+= (–9.33 × 106ˆi – 8.33 × 106ˆj) m/s
+ 
+ 
+ANS. FIG. P9.43 
+ 
+(b)  The original kinetic energy of the system is zero. 
+ 
+ 
+The final kinetic energy is  K = K1f + K2f + K3f . 
+ 
+ 
+The terms are 
+ 
+ 
+ 
+K1 f = 1
+2 (5.00 × 10−27 kg)(6.00 × 106 m/s)2 = 9.00 × 10−14 J
+
+--- PAGE 33 ---
+470     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+K2 f = 1
+2 (8.40 × 10–27 kg)(4.00 × 106 m/s)2 = 6.72 × 10−14 J
+ 
+ 
+ 
+ 
+K3 f = 1
+2 (3.60 × 10−27 kg)
+           × (−9.33 × 106 m/s)2 +(−8.33 × 106 m/s)2
+⎡⎣
+⎤⎦
+= 28.2 × 10−14 J
+ 
+ 
+ 
+Then the system kinetic energy is 
+ 
+ 
+ 
+ 
+K = 9.00 × 10
+−14  J + 6.72 × 10
+−14 J + 28.2 × 10
+−14 J 
+  
+ 
+ 
+ 
+= 4.39 × 10
+−13 J
+ 
+ 
+P9.44 
+The initial momentum of the system is 0. Thus, 
+ 
+ 
+ 
+1.20m
+(
+)vBi = m 10.0 m/s
+(
+) 
+ 
+and  
+vBi = 8.33 m/s 
+ 
+From conservation of energy, 
+ 
+ 
+  
+Ki = 1
+2 m(10.0 m s)2 + 1
+2 (1.20m)(8.33 m s)2 = 1
+2 m(183 m2 s2)
+K f = 1
+2 m(vG)2 + 1
+2 (1.20m)(vB)2 = 1
+2
+1
+2 m(183 m2 s2)
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+or 
+  
+vG
+2 + 1.20vB
+2 = 91.7 m2 s2 
+[1] 
+ 
+From conservation of momentum, 
+ 
+ 
+  
+mvG = 1.20m
+(
+)vB 
+ 
+or  
+  
+vG = 1.20vB 
+[2] 
+ 
+Solving [1] and [2] simultaneously, we find 
+ 
+ 
+  
+(1.20vB)2 + 1.20vB
+2 = 91.7 m2 s2          
+vB = (91.7 m2 s2/2.64)1/2
+ 
+ 
+which gives 
+ 
+ 
+  
+vB = 5.89 m/s (speed of blue puck after collision) 
+ 
+and   
+vG = 7.07 m/s (speed of green puck after collision)
+
+--- PAGE 34 ---
+Chapter 9     471 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 9.6 
+The Center of Mass	  
+P9.45 
+The x coordinate of the center of mass is 
+ 
+ 
+  
+xCM =
+mixi
+∑
+mi
+∑
+=
+0 + 0 + 0 + 0
+2.00 kg + 3.00 kg + 2.50 kg + 4.00 kg = 0
+ 
+ 
+and the y coordinate of the center of mass is 
+ 
+ 
+  
+yCM =
+miyi
+∑
+mi
+∑
+=
+1
+2.00 kg + 3.00 kg + 2.50 kg + 4.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+       ×[(2.00 kg)(3.00 m)+(3.00 kg)(2.50 m)
+              +(2.50 kg)(0)+(4.00 kg)(−0.500 m)]
+yCM = 1.00 m
+ 
+ 
+Then  
+rCM = 0ˆi + 1.00ˆj
+(
+) m 
+P9.46 
+Let the x axis start at the Earth’s center and point toward the Moon. 
+ 
+ 
+ 
+xCM = m1x1 + m2x2
+m1 + m2
+= 5.97 × 1024 kg
+(
+) 0
+( )+ 7.35 × 1022 kg
+(
+) 3.84 × 108 m
+(
+)
+6.05 × 1024 kg
+= 4.66 × 106 m from the Earth's center
+ 
+ 
+The center of mass is within the Earth, which has radius 6.37 × 10
+6 m. It 
+is 1.7 Mm below the point on the Earth’s surface where the Moon is 
+straight overhead. 
+P9.47 
+The volume of the monument is that of a thick triangle of base  
+L = 64.8 m, height H = 15.7 m, and width W = 3.60 m: V = ½ LHW = 
+1.83 × 10
+3 m
+3. The monument has mass M = ρV = (3 800 kg/m
+3)V =  
+6.96 × 10
+6 kg. The height of the center of mass (CM) is yCM = H/3 
+(derived below). The amount of work done on the blocks is 
+ 
+ 
+ 
+Ug = MgyCM
+= Mg H
+3 = 6.96 × 106 kg
+(
+) 9.80 m/s2
+(
+) 15.7 m
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.57 × 108 J
+
+--- PAGE 35 ---
+472     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We derive yCM = H/3 here: 
+ 
+We model the monument with the 
+figure shown above. Consider the 
+monument to be composed of slabs of 
+infinitesimal thickness dy stacked on 
+top of each other. A slab at height y  
+has a infinitesimal volume element  
+dV = 2xWdy, where W is the width of 
+the monument and x is a function of height y. 
+ 
+The equation of the sloping side of the monument is 
+ 
+ 
+ 
+y = H −
+H
+L/2 x →y = H −2H
+L x →y = H 1−2
+L x
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+where x ranges from 0 to + L/2. Therefore, 
+ 
+ 
+  
+x = L
+2 1−y
+H
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+where y ranges from 0 to H. The infinitesimal volume of a slab at 
+height y is then 
+ 
+ 
+ 
+dV = 2xWdy = LW 1−y
+H
+⎛
+⎝⎜
+⎞
+⎠⎟dy. 
+ 
+The mass contained in a volume element is dm = ρ
+ dV. 
+ 
+Because of the symmetry of the monument, its CM lies above the 
+origin of the coordinate axes at position yCM: 
+ 
+  
+ 
+yCM = 1
+M
+ydm = 1
+M
+0
+M
+∫
+yρ dV = 1
+M
+0
+V
+∫
+yρLW 1−y
+H
+⎛
+⎝⎜
+⎞
+⎠⎟dy
+0
+H
+∫
+yCM = ρLW
+M
+y −y2
+H
+⎛
+⎝⎜
+⎞
+⎠⎟dy =
+0
+H
+∫
+ρLW
+M
+y2
+2 −y3
+3H
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+H
+= ρLW
+M
+H 2
+2 −H 3
+3H
+⎛
+⎝⎜
+⎞
+⎠⎟
+yCM = ρLWH 2
+M
+1
+2 −1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+6
+ρLWH 2
+1
+2 ρLWH
+⎛
+⎝
+⎞
+⎠
+=
+2
+1
+⎛
+⎝⎜
+⎞
+⎠⎟
+H
+6
+yCM = H
+3
+ 
+ 
+where we have used M = ρ 1
+2 LHW
+⎛
+⎝⎜
+⎞
+⎠⎟.  
+ANS. FIG. P9.47
+
+--- PAGE 36 ---
+Chapter 9     473 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.48 
+P9.48 
+We could analyze the object as nine squares, each 
+represented by an equal-mass particle at its 
+center. But we will have less writing to do if we 
+think of the sheet as composed of three sections, 
+and consider the mass of each section to be at the 
+geometric center of that section. Define the mass 
+per unit area to be σ , and number the rectangles 
+as shown. We can then calculate the mass and 
+identify the center of mass of each section. 
+ 
+ 
+mI = (30.0 cm)(10.0 cm)σ 
+with 
+CMI = (15.0 cm, 5.00 cm) 
+ 
+ 
+mII = (10.0 cm)(20.0 cm)σ 
+with 
+CMII = (5.00 cm, 20.0 cm) 
+ 
+ 
+mIII = (10.0 cm)(10.0 cm)σ with 
+CMIII = (15.0 cm, 25.0 cm) 
+ 
+The overall center of mass is at a point defined by the vector equation: 
+ 
+  
+ 
+rCM ≡
+mi
+ri
+∑
+(
+)
+mi
+∑
+ 
+ 
+Substituting the appropriate values, rCM is calculated to be: 
+ 
+ 
+ 
+rCM =
+1
+σ 300 cm2 + 200 cm2+ 100 cm2
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+                           × σ[(300)(15.0ˆi + 5.00ˆj)
+{
++(200)(5.00ˆi + 20.0ˆj)
+                                                      +(100)(15.0ˆi + 25.0ˆj)] cm3}
+ 
+ 
+Calculating, 
+ 
+ 
+ 
+rCM = 4 500ˆi + 1 500ˆj + 1 000ˆi + 4 000ˆj + 1 500ˆi + 2 500ˆj
+600
+ cm
+ 
+ 
+and evaluating, rCM = (11.7ˆi + 13.3ˆj) cm 
+P9.49 
+This object can be made by wrapping tape around a light, stiff, 
+uniform rod. 
+ 
+(a)  M =
+λ dx
+0
+0.300 m
+∫
+=
+50.0 + 20.0x
+[
+]
+0
+0.300 m
+∫
+dx
+M = 50.0x + 10.0x2
+⎡⎣
+⎤⎦0
+0.300 m = 15.9 g
+
+--- PAGE 37 ---
+474     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b)   xCM =
+xdm
+all mass
+∫
+M
+= 1
+M
+λ xdx
+0
+0.300 m
+∫
+= 1
+M
+50.0x + 20.0x2
+⎡⎣
+⎤⎦dx
+0
+0.300 m
+∫
+   xCM =
+1
+15.9 g 25.0x2 + 20x3
+3
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+0.300 m
+= 0.153 m
+ 
+*P9.50 
+We use a coordinate system centered in 
+the oxygen (O) atom, with the x axis to 
+the right and the y axis upward. Then, 
+from symmetry, 
+ 
+ 
+ 
+xCM = 0 
+ 
+and  
+ 
+ 
+ 
+ 
+yCM =
+miyi
+∑
+mi
+∑
+=
+1
+15.999 u + 1.008 u + 1.008 u
+(
+)
+          × 0 −1.008 u
+(
+) 0.100 nm
+(
+)cos53.0°
+[
+                      −1.008 u
+(
+) 0.100 nm
+(
+)cos53.0°]
+ 
+ 
+The center of mass of the molecule lies on the dotted line
+shown in ANS. FIG. P9.50, 0.006 73 nm below the center 
+of the O atom. 
+ 
+ 
+ 
+ 
+Section 9.7 
+Systems of Many Particles	  
+P9.51 
+(a) 
+vCM =
+mi
+vi
+∑
+M
+= m1
+v1 + m2
+v2
+M
+ 
+ 
+ 
+=
+1
+5.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟[(2.00 kg)(2.00ˆi m s −3.00ˆj m s)
+                  + (3.00 kg)(1.00ˆi m s + 6.00ˆj m s)]
+vCM =
+1.40ˆi + 2.40ˆj
+(
+) m s
+ 
+ 
+(b)  p = MvCM = (5.00 kg)(1.40ˆi + 2.40ˆj) m s = (7.00ˆi + 12.0ˆj) kg ⋅m s 
+ANS. FIG. P9.50
+
+--- PAGE 38 ---
+Chapter 9     475 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P9.52 
+*P9.52 
+(a) 
+ANS. FIG. P9.52 shows the position  
+vectors and velocities of the particles. 
+ 
+(b) Using the definition of the position  
+vector at the center of mass, 
+ 
+ 
+ 
+rCM = m1
+r1 + m2
+r2
+m1 + m2
+rCM =
+1
+2.00 kg + 3.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+                   [ 2.00 kg
+(
+) 1.00 m, 2.00 m
+(
+)
+                    + 3.00 kg
+(
+) −4.00 m, −3.00 m
+(
+)]
+rCM =
+−2.00ˆi −1.00ˆj
+(
+) m
+ 
+ 
+(c) 
+The velocity of the center of mass is 
+ 
+ 
+ 
+vCM =
+
+P
+M = m1
+v1 + m2
+v2
+m1 + m2
+=
+1
+2.00 kg + 3.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+    [ 2.00 kg
+(
+) 3.00 m/s, 0.50 m/s
+(
+)
+           + 3.00 kg
+(
+) 3.00 m/s, −2.00 m/s
+(
+)]
+vCM =
+3.00ˆi −1.00ˆj
+(
+) m/s
+ 
+ 
+(d) The total linear momentum of the system can be calculated as 
+
+P = MvCM or as 
+
+P = m1
+v1 + m2
+v2. Either gives  
+ 
+ 
+ 
+
+P =
+15.0ˆi −5.00ˆj
+(
+) kg ⋅m/s 
+P9.53 
+No outside forces act on the boat-plus-
+lovers system, so its momentum is 
+conserved at zero and the center of mass 
+of the boat-passengers system stays 
+fixed: 
+ 
+ 
+ 
+xCM,i = xCM,f  
+ 
+Define K to be the point where they kiss, 
+and ΔxJ and Δxb as shown in the figure. 
+Since Romeo moves with the boat (and 
+thus ΔxRomeo = Δxb ), let mb be the combined mass of Romeo and the 
+boat. The front of the boat and the shore are to the right in this picture, 
+r
+r
+r
+r
+r
+ANS. FIG. P9.53
+
+--- PAGE 39 ---
+476     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and we take the positive x direction to the right. Then, 
+ 
+ 
+ 
+ 
+mJΔxJ + mbΔxb = 0 
+ 
+Choosing the x axis to point toward the shore, 
+ 
+ 
+ 
+55.0 kg
+(
+)ΔxJ + 77.0 kg + 80.0 kg
+(
+)Δxb = 0  
+ 
+and  
+ΔxJ = −2.85Δxb 
+ 
+ 
+As Juliet moves away from shore, the boat and Romeo glide toward 
+the shore until the original 2.70-m gap between them is closed. We 
+describe the relative motion with the equation 
+ 
+ 
+ 
+ΔxJ + Δxb = 2.70 m 
+ 
+ 
+Here the first term needs absolute value signs because Juliet’s change 
+in position is toward the left. An equivalent equation is then 
+ 
+ 
+ 
+−ΔxJ + Δxb = 2.70 m 
+ 
+Substituting, we find   
+ 
+ 
+ 
++2.85Δxb + Δxb = 2.70 m 
+ 
+so    
+Δxb = 2.70 m
+3.85
+= 0.700 m towards the shore 
+P9.54 
+The vector position of the center of mass is (suppressing units) 
+ 
+ 
+ 
+rCM = m1
+r1 + m2
+r2
+m1 + m2
+=
+3.5
+3ˆi + 3ˆj
+(
+)t + 2ˆjt2
+⎡⎣
+⎤⎦+ 5.5 3ˆi −2ˆit2 + 6ˆjt
+⎡⎣
+⎤⎦
+3.5 + 5.5
+    = 1.83 + 1.17t −1.22t2
+(
+)ˆi + −2.5t + 0.778t2
+(
+)ˆj
+ 
+ 
+(a) 
+At t = 2.50 s, 
+ 
+ 
+ 
+rCM = 1.83 + 1.17 ⋅2.5 −1.22⋅6.25
+(
+)ˆi +(−2.5⋅2.5 + 0.778⋅6.25)ˆj
+=
+−2.89ˆi −1.39ˆj
+(
+) cm
+ 
+ 
+(b)  The velocity of the center of mass is obtained by differentiating 
+the expression for the vector position of the center of mass with 
+respect to time: 
+ 
+ 
+ 
+vCM = drCM
+dt
+= (1.17 −2.44t)ˆi +(−2.5 + 1.56t)ˆj 
+ 
+ 
+At t = 2.50 s, 
+ 
+ 
+ 
+vCM = (1.17 −2.44⋅2.5)ˆi +(−2.5 + 1.56⋅2.5)ˆj
+= ( −4.94ˆi + 1.39ˆj) cm/s
+
+--- PAGE 40 ---
+Chapter 9     477 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Now, the total linear momentum is the total mass times the 
+velocity of the center of mass. 
+ 
+ 
+  
+p = (9.00 g)( −4.94ˆi + 1.39ˆj) cm/s 
+= ( −44.5ˆi + 12.5ˆj) g⋅cm/s 
+ 
+ 
+(c) 
+As was shown in part (b), −4.94ˆi + 1.39ˆj
+(
+) cm/s 
+ 
+(d)  Differentiating again, aCM = dvCM
+dt
+= −2.44
+(
+)ˆi + 1.56ˆj 
+ 
+ 
+The center of mass acceleration is −2.44ˆi + 1.56ˆj
+(
+) cm/s2 at t = 
+2.50 s and at all times. 
+ 
+(e)  The net force on the system is equal to the total mass times the 
+acceleration of the center of mass:  
+ 
+ 
+ 
+
+Fnet = 9.00 g
+(
+) −2.44ˆi + 1.56ˆj
+(
+) cm/s2 =
+−220ˆi + 140ˆj
+(
+) µN
+ 
+P9.55 
+(a)  Conservation of momentum for the two-ball system gives us: 
+ 
+ 
+  
+0.200 kg
+(
+)(1.50 m s) + 0.300 kg
+(
+)(−0.400 m s)
+                             = 0.200 kg
+(
+)v1 f + 0.300 kg
+(
+)v2 f
+ 
+ 
+ 
+Relative velocity equation: 
+ 
+ 
+ 
+v2 f −v1 f = 1.90 m/s 
+ 
+ 
+Then, suppressing units, we have  
+ 
+ 
+ 
+ 0.300 −0.120 = 0.200v1 f + 0.300(1.90 + v1 f ) 
+ 
+ 
+  
+v1 f = −0.780 m s
+v2 f = 1.12 m s 
+ 
+ 
+ 
+v1 f = −0.780ˆi m s
+v2 f = 1.12ˆi m s 
+ 
+(b)  Before, vCM = 0.200 kg
+(
+) 1.50 m/s
+(
+)ˆi + 0.300 kg
+(
+) −0.400 m/s
+(
+)ˆi
+0.500 kg
+vCM = 0.360 m/s
+(
+)ˆi
+ 
+ 
+ 
+Afterwards, the center of mass must move at the same velocity, 
+because the momentum of the system is conserved.
+
+--- PAGE 41 ---
+478     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 9.8 
+Deformable Systems	  
+P9.56 
+(a) 
+Yes The only horizontal force on the vehicle is the frictional 
+force exerted by the floor, so it gives the vehicle all of its final 
+momentum, (6.00 kg)(3.00ˆi m/s) = 18.0ˆi kg⋅m/s . 
+ 
+(b)  
+No. The friction force exerted by the floor on each stationary bit
+of caterpillar tread acts over no distance, so it does zero work.
+ 
+ 
+(c)  
+Yes, we could say that the final momentum of the cart came
+from the floor or from the Earth through the floor.
+ 
+ 
+(d)  
+No. The kinetic energy came from the original gravitational
+potential energy of the Earth-elevated load system, in the
+amount KE = 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟6.00 kg
+(
+) 3.00 m/s
+(
+)
+2 = 27.0 J.
+ 
+ 
+(e)  
+Yes. The acceleration is caused by the static friction force exerted
+by the floor that prevents the wheels from slipping backward.
+ 
+P9.57 
+(a)  When the cart hits the bumper it immediately stops, and the 
+hanging particle keeps moving with its original speed vi. The 
+particle swings up as a pendulum on a fixed pivot, keeping 
+constant energy. Measure elevations from the pivot: 
+ 
+ 
+ 
+1
+2 mvi
+2 + mg −L
+(
+) = 0 + mg −L cos θ
+(
+)   
+ 
+ 
+ 
+Then vi =
+2gL 1−cosθ
+(
+) 
+ 
+(b) The bumper continues to exert a force to the left until the particle 
+has swung down to its lowest point . This leftward force is 
+necessary to reverse the rightward motion of the particle and 
+accelerate it to the left. 
+P9.58 
+(a)  
+Yes The floor exerts a force, larger than the person’s weight over 
+time as he is taking off. 
+ 
+(b)  
+No The work by the floor on the person is zero because the force 
+exerted by the floor acts over zero distance.
+
+--- PAGE 42 ---
+Chapter 9     479 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+He leaves the floor with a speed given by 1
+2 mv2 = mgy f , or  
+ 
+ 
+ 
+v =
+2gy f =
+2 9.80 m/s2
+(
+) 0.150 m
+(
+) = 1.71 m/s 
+ 
+ 
+so his momentum immediately after he leaves the floor is  
+ 
+p = mv = 60.0 kg
+(
+) 1.71 m/s up
+(
+) = 103 kg⋅m/s up  
+ 
+(d)  
+Yes. You could say that it came from the planet, that gained
+momentum 103 kg ⋅m/s down, but it came through the force
+exerted by the floor over a time interval on the person, so it
+came through the floor or from the floor through direct contact.
+ 
+ 
+(e)  His kinetic energy is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 60.0 kg
+(
+) 1.71 m/s
+(
+)
+2 = 88.2 J
+  
+ 
+(f)  
+No. The energy came from chemical energy in the person’s
+leg muscles. The floor did no work on the person.
+ 
+P9.59 
+Consider the motion of the center of mass (CM) of the system of the 
+two pucks. Because the pucks have equal mass m, the CM lies at the 
+midpoint of the line connecting the pucks. 
+ 
+(a)  The force F accelerates the CM to the right at the rate 
+ 
+ 
+ 
+aCM = F
+2m
+ 
+ 
+ 
+According to Figure P9.59, when the force has moved through 
+distance d, the CM has moves through distance DCM = d −1
+2 . We 
+can find the speed of the CM, which is the same as the speed v of 
+the pucks when they meet and stick together: 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2aCM x f −xi
+(
+)
+vCM
+2
+= 0 + 2
+F
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟d −1
+2 
+⎛
+⎝⎜
+⎞
+⎠⎟→        v = vCM =
+F 2d −
+(
+)
+2m
+
+--- PAGE 43 ---
+480     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The force F does work on the system through distance d, the work 
+done is W = Fd. Relate this work to the change in kinetic energy 
+and internal energy: 
+ 
+ 
+ 
+ΔK + ΔEint = W
+where ΔK = 1
+2 2m
+(
+)vCM
+2
+= m
+F 2d −
+(
+)
+2m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+=
+F 2d −
+(
+)
+2
+F 2d −
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ ΔEint = Fd →ΔEint = Fd −
+F 2d −
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ΔEint = Fd −Fd + F
+2
+ΔEint = F
+2
+ 
+ 
+ 
+ 
+Section 9.9 
+Rocket Propulsion	  
+P9.60 
+(a) 
+The fuel burns at a rate given by 
+ 
+ 
+ 
+dM
+dt = 12.7 g
+1.90 s = 6.68 × 10−3 kg/s 
+ 
+ 
+From the rocket thrust equation, 
+ 
+ 
+ 
+Thrust = ve
+dM
+dt : 5.26 N = ve 6.68 × 10−3 kg/s
+(
+) 
+ 
+ 
+  
+ve = 787 m/s 
+ 
+(b) 
+v f −vi = ve ln
+Mi
+M f
+⎛
+⎝⎜
+⎞
+⎠⎟: 
+ 
+ 
+ 
+v f −0 = 787 m/s
+(
+)ln
+53.5 g + 25.5 g
+53.5 g + 25.5 g −12.7 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+v f = 138 m/s
+
+--- PAGE 44 ---
+Chapter 9     481 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P9.61 
+The force exerted on the water by the hose is 
+ 
+ 
+ 
+F = Δpwater
+Δt
+= mv f −mvi
+Δt
+= 0.600 kg
+(
+) 25.0 m s
+(
+) −0
+1.00 s
+= 15.0 N
+ 
+ 
+According to Newton’s third law, the water exerts a force of equal 
+magnitude back on the hose. Thus, the gardener must apply a 15.0-N 
+force (in the direction of the velocity of the exiting water stream) to 
+hold the hose stationary. 
+P9.62 
+(a) 
+The thrust, F, is equal to the time rate of change of momentum as 
+fuel is exhausted from the rocket. 
+ 
+  
+ 
+F = dp
+dt = d
+dt mve
+(
+) 
+ 
+ 
+Since the exhaust velocity ve is a constant, 
+ 
+ 
+ 
+F = ve(dm/dt), where dm/dt = 1.50 × 104 kg/s 
+ 
+ 
+and ve = 2.60 × 103 m/s.  
+ 
+ 
+Then F = 2.60 × 103m/s
+(
+) 1.50 × 104kg/s
+(
+) = 3.90 × 107 N 
+ 
+ 
+(b) Applying ∑F = ma gives 
+ 
+ 
+ 
+ 
+Fy = Thrust −Mg = Ma
+∑
+: 
+3.90 × 107 N −3.00 × 106 kg
+(
+) 9.80 m/s2
+(
+) = 3.00 × 106 kg
+(
+)a
+ 
+ 
+ 
+ 
+a = 3.20 m/s2 
+P9.63 
+In v = veln Mi
+M f
+ we solve for Mi . 
+ 
+(a) 
+Mi = ev/ve M f    →    Mi = e5 3.00 × 103 kg
+(
+) = 4.45 × 105 kg 
+ 
+ 
+The mass of fuel and oxidizer is  
+ 
+ 
+ 
+ΔM = Mi −M f = 445 −3.00
+(
+) × 103kg
+                    
+= 442 metric tons
+ 
+ 
+(b) 
+ΔM = e2 3.00 metric tons
+(
+) −3.00 metric tons = 19.2 metric tons
+
+--- PAGE 45 ---
+482     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+This is much less than the suggested value of 442/2.5. Mathe-
+matically, the logarithm in the rocket propulsion equation is not a
+linear function. Physically, a higher exhaust speed has an extra-
+large cumulative effect on the rocket body’s final speed, by
+counting again and again in the speed the body attains second
+after second during its burn.
+ 
+P9.64 
+(a)  From the equation for rocket propulsion in the text, 
+ 
+ 
+  
+v −0 = veln
+Mi
+M f
+⎛
+⎝⎜
+⎞
+⎠⎟= −veln
+M f
+Mi
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Now, M f = Mi −kt, so v = −ve ln Mi −kt
+Mi
+⎛
+⎝⎜
+⎞
+⎠⎟= −ve ln 1−k
+Mi
+t
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+With the definition, Tp ≡Mi
+k , this becomes 
+ 
+ 
+  
+v t( ) = −ve ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b)  With, ve = 1 500 m/s, and Tp = 144 s,  
+ 
+ 
+ 
+v = −1 500 m/s
+(
+)ln 1−
+t
+144 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+t (s) 
+v (m/s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ANS. FIG. P9.64(b) 
+0 
+ 0 
+20 
+224 
+40 
+488 
+60 
+808 
+80 
+1 220 
+100 
+1 780 
+120 
+2 690 
+132 
+3 730
+
+--- PAGE 46 ---
+Chapter 9     483 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+a t( ) = dv
+dt =
+d −ve ln 1−
+t
+Tp
+(
+)
+⎡
+⎣
+⎤
+⎦
+dt
+= −ve
+1
+1−
+t
+Tp
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟−1
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟=
+ve
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+1−
+t
+Tp
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟,  
+ 
+ 
+or a t( ) =
+ve
+Tp −t 
+ 
+(d)  With, ve = 1 500 m/s, and Tp = 144 s, a = 1 500 m/s
+144 s −t . 
+t (s) 
+a (m/s
+2) 
+ 
+ 
+ 
+ ANS. FIG. P9.64(d) 
+ 
+0 
+10.4 
+20 
+12.1 
+40 
+14.4 
+60 
+17.9 
+80 
+23.4 
+100 
+34.1 
+120 
+62.5 
+132 
+125 
+ 
+ 
+(e) 
+x t( ) = 0 +
+vdt
+0
+t
+∫
+=
+−ve ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+dt
+0
+t
+∫
+= veTp ln 1−t
+Tp
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+−dt
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+t
+∫
+ 
+ 
+ 
+x t( ) = veTp
+1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟−1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥0
+t
+x t( ) = ve Tp −t
+(
+)ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟+ vet
+ 
+ 
+(f)  With, ve = 1.500 m/s = 1.50 km/s, and Tp = 144 s, 
+ 
+ 
+ 
+x = 1.50(144 −t)ln 1−
+t
+144
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1.50t
+
+--- PAGE 47 ---
+484     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+t (s) 
+x (m) 
+ 
+ 
+ 
+ANS. FIG. P9.64(f) 
+ 
+0 
+0 
+20 
+2.19 
+40 
+9.23 
+60 
+22.1 
+80 
+42.2 
+100 
+71.7 
+120 
+115 
+132 
+153 
+ 
+ 
+ 
+Additional Problems	  
+P9.65 
+(a)  At the highest point, the velocity of the ball is zero, so momentum 
+is also zero . 
+ 
+(b)  Use vyf
+2 = vyi
+2 + 2a y f −yi
+(
+) to find the maximum height Hmax: 
+ 
+ 
+ 
+0 = vi + 2 −g
+(
+)Hmax
+ 
+ 
+ 
+or 
+Hmax = vi
+2
+2g 
+ 
+ 
+Now, find the speed of the ball for y f −yi
+(
+) = 1
+2 Hmax:  
+ 
+ 
+ 
+v f
+2 = vi
+2 = 2(−g) 1
+2 Hmax
+⎛
+⎝⎜
+⎞
+⎠⎟
+= vi
+2 −2g 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+vi
+2
+2g
+⎛
+⎝⎜
+⎞
+⎠⎟= vi
+2 −1
+2 vi
+2 = 1
+2 vi
+2
+ 
+ 
+ 
+which gives v f = vi
+2 
+ 
+ 
+Then, p f = mv f = mvi
+2
+, upward
+
+--- PAGE 48 ---
+Chapter 9     485 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.66 
+(a)  The system is isolated because the skater is on frictionless ice — if 
+it were otherwise, she would be able to move. Initially, the 
+horizontal momentum of the system is zero, and this quantity is 
+conserved; so when she throws the gloves in one direction, she 
+will move in the opposite direction because the total momentum 
+will remain zero. The system has total mass M. After the skater 
+throws the gloves, the mass of the gloves, m, is moving with 
+velocity vgloves and the mass of the skater less the gloves, M – m, is 
+moving with velocity vgirl: 
+ 
+ 
+ 
+p1i + p2i = p1f + p2f
+0 = M −m
+(
+) vgirl + mvgloves →vgirl = −
+m
+M −m
+⎛
+⎝⎜
+⎞
+⎠⎟
+vgloves
+ 
+ 
+ 
+The term M – m is the total mass less the mass of the gloves. 
+ 
+(b)  
+As she throws the gloves and exerts a force on them, the gloves
+exert an equal and opposite force on her (Newton’s third law)
+that causes her to accelerate from rest to reach the velocity vgirl.
+ 
+P9.67 
+In 
+
+FΔt = Δ(mv), one component gives  
+ 
+ 
+ 
+Δpy = m vyf −vyi
+(
+) = m vcos60.0° −vcos60.0°
+(
+) = 0  
+ 
+ 
+So the wall does not exert a force on the ball in the y direction. The 
+other component gives 
+ 
+ 
+ 
+ 
+Δpx = m vxf −vxi
+(
+) = m −vsin60.0° −vsin60.0°
+(
+)
+= −2mvsin60.0° = −2 3.00 kg
+(
+) 10.0 m/s
+(
+)sin60.0°
+= −52.0 kg⋅m/s
+ 
+ 
+So 
+ 
+
+F = Δp
+Δt = Δpxˆi
+Δt
+= –52.0ˆi kg ⋅m/s
+0.200 s
+= –260ˆi N 
+P9.68 
+(a)  In the same symbols as in the text’s Example, the original kinetic 
+energy is  
+ 
+ 
+ 
+KA = 1
+2 m1v1A
+2  
+ 
+ 
+The example shows that the kinetic energy immediately after 
+latching together is  
+ 
+ 
+ 
+KB = 1
+2
+m1v1A
+2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 49 ---
+486     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so the fraction of kinetic energy remaining as kinetic energy is  
+ 
+ 
+ 
+KB KA = m1/ m1 + m2
+(
+)
+ 
+ 
+(b)  Momentum is conserved in the collision so momentum after 
+divided by momentum before is 1.00 . 
+ 
+(c)  
+Energy is an entirely different thing from momentum. A 
+comparison: When a photographer’s single-use flashbulb 
+flashes, a magnesium filament oxidizes. Chemical energy 
+disappears. (Internal energy appears and light carries some 
+energy away.) The measured mass of the flashbulb is the 
+same before and after. It can be the same in spite of the 100% 
+energy conversion, because energy and mass are  totally 
+different things in classical physics. In the ballistic pendulum, 
+conversion of energy from mechanical into internal does not 
+upset conservation of mass or conservation of momentum.
+ 
+*P9.69 
+(a) 
+Conservation of momentum for  
+this totally inelastic collision  
+gives 
+ 
+ 
+ 
+mpvi = (mp + mc)v f 
+ 
+ 
+ 
+60.0 kg
+(
+) 4.00 m/s
+(
+)
+              = 120 kg + 60.0 kg
+(
+)v f
+ 
+ 
+ 
+ 
+v f = 1.33ˆi m/s 
+ 
+(b) To obtain the force of friction, we first consider Newton’s second 
+law in the y direction, 
+Fy
+∑
+= 0, which gives 
+ 
+ 
+ 
+n −60.0 kg
+(
+) 9.80 m/s
+(
+) = 0 
+ 
+ 
+or n = 588 N. The force of friction is then  
+ 
+ 
+ 
+fk = µkn = 0.400
+(
+) 588 N
+(
+) = 235 N 
+ 
+ 
+ 
+
+f k = −235ˆi N 
+ 
+(c) 
+The change in the person’s momentum equals the impulse, or  
+ 
+ 
+ 
+ pi + I = p f 
+ 
+ 
+ 
+mvi + Ft = mv f 
+ANS. FIG. P9.69
+
+--- PAGE 50 ---
+Chapter 9     487 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+60.0 kg
+(
+) 4.00 m/s
+(
+) −235 N
+(
+)t = 60.0 kg
+(
+) 1.33 m/s
+(
+)
+t = 0.680 s
+ 
+ 
+(d) The change in momentum of the person is 
+ 
+ 
+ 
+ 
+mv f −mvi = 60.0 kg
+(
+) 1.33 −4.00
+(
+)ˆi m/s = −160ˆi N⋅s  
+ 
+ 
+The change in momentum of the cart is  
+ 
+ 
+ 
+120 kg
+(
+) 1.33 m/s
+(
+)−0 = +160ˆi N⋅s 
+  
+(e) 
+x f −xi = 1
+2 vi + v f
+(
+)t = 1
+2
+4.00 + 1.33
+(
+) m/s
+[
+] 0.680 s
+(
+) = 1.81 m 
+  
+(f) 
+x f −xi = 1
+2 vi + v f
+(
+)t = 1
+2 0 + 1.33 m/s
+(
+) 0.680 s
+(
+) = 0.454 m 
+  
+(g) 
+1
+2 mv f
+2 −1
+2 mvi
+2 = 1
+2 60.0 kg
+(
+) 1.33 m/s
+(
+)2
+                                −1
+2 60.0 kg
+(
+) 4.00 m s
+(
+)
+2 = −427 J
+ 
+ 
+(h) 
+1
+2 mv f
+2 −1
+2 mvi
+2 = 1
+2 120 kg
+(
+) 1.33 m/s
+(
+)2 −0 = 107 J 
+ 
+(i) 
+The force exerted by the person on the cart must be equal in
+magnitude and opposite in direction to the force exerted by
+the cart on the person. The changes in momentum of the two
+objects must be equal in magnitude and must add to zero.
+Their changes in kinetic energy are different in magnitude and
+do not add to zero. The following represent two ways of 
+thinking about why. The distance moved by the cart is 
+different from the distance moved by the point of application
+of the friction force to the cart. The total change in mechanical
+energy for both objects together, –320 J, becomes +320 J of 
+additional internal energy in this perfectly inelastic collision.
+ 
+ 
+*P9.70 
+(a) 
+Use conservation of the 
+horizontal component of 
+momentum for the system of 
+the shell, the cannon, and the 
+carriage, from just before to just 
+after the cannon firing: 
+ 
+ 
+ 
+pxf = pxi 
+ANS. FIG. P9.70
+
+--- PAGE 51 ---
+488     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ mshellvshell cos45.0° + mcannonvrecoil = 0 
+ 
+ 
+ 200 kg
+(
+) 125 m/s
+(
+)cos45.0° + 5 000 kg
+(
+)vrecoil = 0 
+ 
+ 
+or 
+vrecoil = −3.54 m/s 
+ 
+(b) Use conservation of energy for the system of the cannon, the 
+carriage, and the spring from right after the cannon is fired to the 
+instant when the cannon comes to rest. 
+ 
+ 
+ K f +Ugf +Usf = Ki +Ugi +Usi 
+ 
+ 
+ 0 + 0 + 1
+2 kxmax
+2
+= 1
+2 mvrecoil
+2
++ 0 + 0 
+ 
+ 
+ xmax =
+mvrecoil
+2
+k
+=
+5 000 kg
+(
+) −3.54 m/s
+(
+)2
+2.00 × 104 N/m
+= 1.77 m 
+ 
+(c) 
+Fs, max = kxmax 
+ 
+ 
+ 
+Fs, max = 2.00 × 104 N m
+(
+) 1.77 m
+(
+) = 3.54 × 104 N 
+ 
+(d) 
+No. The spring exerts a force on the system during the firing. 
+The force represents an impulse, so the momentum of the system 
+is not conserved in the horizontal direction. Consider the vertical 
+direction. There are two vertical forces on the system: the normal 
+force from the ground and the gravitational force. During the 
+firing, the normal force is larger than the gravitational force. 
+Therefore, there is a net impulse on the system in the upward 
+direction. The impulse accounts for the initial vertical momentum 
+component of the projectile. 
+P9.71 
+(a)  Momentum of the bullet-block system is conserved in the 
+collision, so you can relate the speed of the block and bullet right 
+after the collision to the initial speed of the bullet. Then, you can 
+use conservation of mechanical energy for the bullet-block-Earth 
+system to relate the speed after the collision to the maximum 
+height. 
+ 
+(b)  Momentum is conserved by the collision. Find the relation 
+between the speed of the bullet vi just before impact and the 
+speed of the bullet + block v just after impact: 
+ 
+ 
+ 
+ 
+p1i + p2i = p1 f + p2 f →m1v1i + m2v2i = m1v1 f + m2v2i
+                                     mvi + M 0( ) = mv + Mv = m + M
+(
+)v
+                →              vi = m + M
+(
+)
+m
+v
+
+--- PAGE 52 ---
+Chapter 9     489 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For the bullet-block-Earth system, total energy is conserved. Find 
+the relation between the speed of the bullet-block v and the height 
+h the block climbs to: 
+ 
+ 
+  
+Ki +Ui = K f +U f
+1
+2 m + M
+(
+)v2 + 0 = m + M
+(
+)gh →v =
+2gh
+ 
+ 
+ 
+Combining our results, we find 
+ 
+ 
+  
+vi = m+ M
+m
+2gh =
+1.255 kg
+0.005 00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 9.80 m/s2
+(
+) 0.220 m
+(
+)
+vi = 521 m/s
+ 
+P9.72 
+(a)  Momentum of the bullet-block system is conserved in the 
+collision, so you can relate the speed of the block and bullet right 
+after the collision to the initial speed of the bullet. Then, you can 
+use conservation of mechanical energy for the bullet-block-Earth 
+system to relate the speed after the collision to the maximum 
+height. 
+ 
+(b)  Momentum is conserved by the collision. Find the relation 
+between the speed of the bullet vi just before impact and the 
+speed of the bullet + block v just after impact: 
+ 
+ 
+ 
+p1i + p2i = p1 f + p2 f →m1v1i + m2v2i = m1v1 f + m2v2i
+                                     mvi + M 0( ) = mv + Mv = m + M
+(
+)v
+                →              vi = m + M
+(
+)
+m
+v
+ 
+ 
+ 
+For the bullet-block-Earth system, total energy is conserved. Find 
+the relation between the speed of the bullet-block v and the height 
+h the block climbs to: 
+Ki +Ui = K f +U f
+1
+2 m + M
+(
+)v2 + 0 = m + M
+(
+)gh →v =
+2gh
+ 
+ 
+Combining our results, we find vi = m + M
+m
+2gh .
+
+--- PAGE 53 ---
+490     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P9.73 
+Momentum conservation for the system of 
+the two objects can be written as 
+ 
+ 
+ 
+3mvi −mvi = mv1 f + 3mv2 f 
+ 
+The relative velocity equation then gives 
+ 
+ 
+ 
+v1i −v2 i = −v1 f + v2 f 
+ 
+ 
+or 
+ 
+ 
+ 
+−vi −vi = −v1 f + v2 f
+2vi = v1 f + 3v2 f
+ 
+ 
+Which gives 
+ 
+ 
+ 
+0 = 4v2 f 
+ 
+or 
+ 
+v1 f = 2vi
+ and v2 f = 0 . 
+P9.74 
+(a)  
+The mass of the sleigh plus you is 270 kg. Your velocity is 
+7.50 m/s in the x direction. You unbolt a 15.0-kg seat and 
+throw it back at the ravening wolves, giving it a speed of 
+8.00 m/s relative to you. Find the velocity of the sleigh 
+afterward, and the velocity of the seat relative to the ground.
+ 
+ 
+(b) We substitute v1f = 8.00 m/s – v2f : 
+ 
+ 
+ 
+270 kg
+(
+) 7.50 m/s
+(
+) = 15.0 kg
+(
+) −8.00 m/s + v2 f
+(
+)+ 255 kg
+(
+)v2 f
+2 025 kg⋅m/s = −120 kg⋅m/s + 270 kg
+(
+)v2 f
+ 
+ 
+ 
+ 
+v2 f = 2 145 m/s
+270
+= 7.94 m/s
+v1 f = 8.00 m/s −7.94 m/s = 0.055 6 m/s
+ 
+ 
+ 
+The final velocity of the seat is −0.055 6ˆi m/s. That of the
+sleigh is 7.94ˆi m/s.
+ 
+ 
+(c) 
+You transform potential energy stored in your body into kinetic 
+energy of the system: 
+ 
+ 
+ 
+ΔK + ΔUbody = 0
+ΔUbody = −ΔK = Ki −K f
+ 
+ANS. FIG. P9.73 
+r
+r
+r
+r
+1f
+2f
+
+--- PAGE 54 ---
+Chapter 9     491 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ΔUbody = 1
+2 270 kg
+(
+) 7.50 m/s
+(
+)
+2
+           −1
+2 (15.0 kg)(0.0556 m/s)2
+⎡
+⎣⎢
+                           + 1
+2 (255 kg)(7.94 m/s)2 ⎤
+⎦⎥
+ΔUbody = 7 594 J −0.023 1 J + 8 047 J
+[
+]
+ΔUbody = −453 J
+ 
+P9.75 
+(a)  When the spring is fully compressed, each cart moves with same 
+velocity v. Apply conservation of momentum for the system of 
+two gliders 
+ 
+ 
+  
+pi = p f :       m1v1 + m2v2 = m1 + m2
+(
+)v →   v = m1v1 + m2v2
+m1 + m2
+ 
+ 
+(b)  Only conservative forces act; therefore, ∆E = 0.  
+ 
+ 
+ 
+1
+2 m1v1
+2 + 1
+2 m1v2
+2 = 1
+2 m1 + m2
+(
+)v2 + 1
+2 kxm
+2 
+ 
+ 
+Substitute for v from (a) and solve for xm. 
+ 
+ 
+ 
+xm
+2 =
+1
+k m1 + m2
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟[ m1 + m2
+(
+)m1v1
+2 + m1 + m2
+(
+)m2v2
+2
+                                     −m1v1
+(
+)
+2 −m2v2
+(
+)
+2 −2m1m2v1v2]
+xm =
+m1m2 v1
+2 + v2
+2 −2v1v2
+(
+)
+k m1 + m2
+(
+)
+=
+v1 −v2
+(
+)
+m1m2
+k m1 + m2
+(
+)
+ 
+ 
+(c) 
+m1v1 + m2v2 = m1v1f + m2v2f 
+ 
+ 
+Conservation of momentum: m1 v1 −v1 f
+(
+) = m2 v2 f −v2
+(
+) 
+[1] 
+ 
+ 
+Conservation of energy: 
+1
+2 m1v1
+2 + 1
+2 m2v2
+2 = 1
+2 m1v1 f
+2 + 1
+2 m2v2 f
+2 
+ 
+ 
+which simplifies to: 
+m1 v1
+2 −v1 f
+2
+(
+) = m2 v2 f
+2 −v2
+2
+(
+) 
+ 
+ 
+Factoring gives
+ 
+m1 v1 −v1 f
+(
+) v1 + v1 f
+(
+) = m2 v2 f −v2
+(
+)⋅v2 f + v2
+(
+)
+
+--- PAGE 55 ---
+492     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and with the use of the momentum equation (equation [1]), 
+ 
+ 
+this reduces to 
+v1 + v1 f = v2 f + v2 
+ 
+ 
+or 
+ 
+v1 f = v2 f + v2 −v1 
+[2] 
+ 
+ 
+Substituting equation [2] into equation [1] and simplifying yields 
+ 
+ 
+  
+v2 f =
+2m1v1 + m2 −m1
+(
+)v2
+m1 + m2
+ 
+ 
+ 
+Upon substitution of this expression for into equation [2], one 
+finds 
+ 
+ 
+  
+v1 f =
+m1 −m2
+(
+)v1 + 2m2v2
+m1 + m2
+ 
+ 
+ 
+Observe that these results are the same as two equations given in 
+the chapter text for the situation of a perfectly elastic collision in 
+one dimension. Whatever the details of how the spring behaves, 
+this collision ends up being just such a perfectly elastic collision in 
+one dimension. 
+P9.76 
+We hope the momentum of the equipment provides enough recoil so 
+that the astronaut can reach the ship before he loses life support! But 
+can he do it? 
+ 
+Relative to the spacecraft, the astronaut has a momentum  
+p = (150 kg)(20 m/s) = 3 000 kg · m/s away from the spacecraft. He 
+must throw enough equipment away so that his momentum is reduced 
+to at least zero relative to the spacecraft, so the equipment must have 
+momentum of at least 3 000 kg · m/s relative to the spacecraft. If he 
+throws the equipment at 5.00 m/s relative to himself in a direction 
+away from the spacecraft, the velocity of the equipment will be 25.0 
+m/s away from the spacecraft. How much mass travelling at 25.0 m/s 
+is necessary to equate to a momentum of 3 000 kg · m/s? 
+ 
+ 
+  
+p = 3 000 kg ⋅m/s = m(25.0 m/s)    
+ 
+which gives 
+ 
+ 
+ 
+m = 3 000 kg⋅m/s
+25.0 m/s
+= 120 kg
+ 
+ 
+In order for his motion to reverse under these condition, the final mass
+of the astronaut and space suit is 30 kg, much less than is reasonable.
+
+--- PAGE 56 ---
+Chapter 9     493 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.77 
+Use conservation of mechanical energy for a block-Earth system in 
+which the block slides down a frictionless surface from a height h: 
+ 
+ 
+ 
+K +Ug
+(
+)i = K +Ug
+(
+) f →1
+2 mv2 + 0 = 0 + mgh →v =
+2gh 
+ 
+Note this also applies in reverse, a mass travelling at speed v will climb 
+to a height h on a frictionless surface: h = v2
+2g . 
+ 
+From above, we see that because each block starts from the same 
+height h, each block has the same speed v when it meets the other 
+block: 
+ 
+ 
+ 
+v1 = v2 = v =
+2 9.80 m/s2
+(
+) 5.00 m
+(
+) = 9.90 m/s 
+ 
+Apply conservation of momentum to the two-block system: 
+ 
+ 
+ 
+m1v1 f + m2v2 f = m1v + m2 −v
+(
+)
+m1v1 f + m2v2 f = m1 −m2
+(
+)v
+ 
+[1] 
+ 
+For an elastic, head-on collision: 
+ 
+ 
+ 
+v1i −v2i = v1 f −v2 f
+v −−v
+(
+) = v2 f −v1 f
+v2 f = v1 f + 2v
+ 
+[2]
+ 
+ 
+Substituting equation [2] into [1] gives 
+ 
+ 
+ 
+m1v1 f + m2 v1 f + 2v
+(
+) = m1 −m2
+(
+)v
+m1 + m2
+(
+)v1 f = m1 −m2
+(
+)v −2m2v
+v1 f =
+m1 −3m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v = 2.00 kg −3(4.00 kg)
+2.00 kg + 4.00 kg
+⎡
+⎣⎢
+⎤
+⎦⎥(9.90 m/s)
+     = −16.5 m/s
+ 
+ 
+Using this result and equation [2], we have 
+ 
+ 
+ 
+v2 f = v1 f + 2v =
+m1 −3m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v + 2v
+v2 f =
+3m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v = 3(2.00 kg)−4.00 kg
+2.00 kg + 4.00 kg
+⎡
+⎣⎢
+⎤
+⎦⎥(9.90 m/s)
+= 3.30 m/s
+
+--- PAGE 57 ---
+494     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Using our result above, we find the height that each block rises to: 
+ 
+ 
+ 
+h1 =
+v1 f
+2
+2 g = −16.5 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 13.9 m     
+ 
+and   
+h2 =
+v2 f
+2
+2 g = (3.30 m/s)2
+2 9.80 m/s2
+(
+)
+= 0.556 m 
+P9.78 
+(a) 
+Proceeding step by step, we find the stone’s speed just before 
+collision, using energy conservation for the stone-Earth system: 
+ 
+ 
+ 
+magyi = 1
+2 mavi
+2 
+ 
+ 
+which gives 
+ 
+ 
+ 
+vi =
+2gh = [2(9.80 m/s2)(1.80 m)]1/2 = 5.94 m/s 
+ 
+ 
+Now for the elastic collision with the stationary cannonball, we 
+use the specialized Equation 9.22 from the chapter text, with  
+m1 = 80.0 kg and m2 = m: 
+ 
+ 
+ 
+vcannonball = v2 f = 2m1v1i
+m1 + m2
+= 2 80.0 kg
+(
+) 5.94 m/s
+(
+)
+80.0 kg + m
+= 950 kg⋅m/s
+80.0 kg + m
+  
+ 
+ 
+The time for the cannonball’s fall into the ocean is given by 
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2 →−36.0 = 1
+2 −9.80
+(
+)t2 →t = 2.71 s
+ 
+ 
+ 
+so its horizontal range is 
+ 
+ 
+ 
+R = v2 ft = 2.71 s
+(
+) 950 kg⋅m/s
+80.0 kg + m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.58 × 103 kg⋅m
+80.0 kg + m
+ 
+ 
+(b) The maximum value for R occurs for m →0, and is 
+ 
+ 
+ 
+R = 2.58 × 103 kg⋅m
+80.0 kg + m
+= 2.58 × 103 kg⋅m
+80.0 kg + 0
+= 32.2 m
+ 
+ 
+(c) 
+As indicated in part (b), the maximum range corresponds to 
+0
+m →
+
+--- PAGE 58 ---
+Chapter 9     495 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+Yes, until the cannonball splashes down. No; the kinetic energy of
+the system is split between the stone and the cannonball after the
+collision and we don’t know how it is split without using the
+conservation of momentum principle.
+ 
+ 
+(e) 
+The range is equal to the product of vcannonball, the speed of the 
+cannonball after the collision, and t, the time at which the 
+cannonball reaches the ocean. But vcannonball is proportional to vi, the 
+speed of the stone just before striking the cannonball, which is, in 
+turn, proportional to the square root of g. The time t at which the 
+cannonball strikes the ocean is inversely proportional to the 
+square root of g. Therefore, the product R = (vcannonball)t is 
+independent of g. At a location with weaker gravity, the stone 
+would be moving more slowly before the collision, but the 
+cannonball would follow the same trajectory, moving more 
+slowly over a longer time interval. 
+P9.79 
+We will use the subscript 1 for the blue bead and the subscript 2 for the 
+green bead. Conservation of mechanical energy for the blue bead-Earth 
+system, Ki + Ui = Kf + Uf , can be written as 
+ 
+ 
+1
+2 mv1
+2 + 0 = 0 + m g h
+ 
+ 
+where v1 is the speed of the blue bead at point B just before it collides 
+with the green bead. Solving for v1 gives  
+ 
+ 
+v1 =
+2 gh =
+2 9.80 m/s2
+(
+) 1.50 m
+(
+) = 5.42 m/s 
+ 
+Now recall Equations 9.21 and 9.22 for an elastic collision: 
+ 
+ 
+v1 f =
+m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i +
+2m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v2i        
+v2 f =
+2m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i + m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v2i
+ 
+ 
+For this collision, the green bead is at rest, so v2i = 0, and Equation 9.22 
+simplifies to 
+ 
+ 
+v2 f =
+2m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i + m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v2i =
+2m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i
+
+--- PAGE 59 ---
+496     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Plugging in gives 
+ 
+ 
+v2 f =
+2 0.400 kg
+(
+)
+0.400 kg + 0.600 kg
+⎛
+⎝⎜
+⎞
+⎠⎟5.42 m/s
+(
+) = 4.34 m/s
+ 
+ 
+Now, we use conservation of the mechanical energy of the green bead 
+after collision to find the maximum height the ball will reach. This 
+gives 
+ 
+ 
+0 + m2g ymax = 1
+2 m2v2 f
+2 + 0
+ 
+ 
+Solving for ymax gives 
+ 
+ 
+ymax = v2 f
+2
+2g =
+4.34 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 0.960 m
+ 
+P9.80 
+(a)  The initial momentum of the system 
+is zero, which remains constant 
+throughout the motion. Therefore, 
+when m1 leaves the wedge, we must 
+have 
+ 
+ 
+ 
+m2vwedge + m1vblock = 0 
+ 
+ 
+or 
+ 
+ 
+ 
+(3.00 kg)vwedge  
+ 
+ 
+ 
+ 
++ (0.500 kg)(+4.00 m/s) = 0 
+ 
+ 
+so  vwedge = −0.667 m/s 
+ 
+(b)  Using conservation of energy for the block-wedge-Earth system 
+as the block slides down the smooth (frictionless) wedge, we have 
+ 
+ 
+  
+Kblock +Usystem
+⎡⎣
+⎤⎦i + Kwedge
+⎡⎣
+⎤⎦i = Kblock +Usystem
+⎡⎣
+⎤⎦f + Kwedge
+⎡⎣
+⎤⎦f 
+ 
+ 
+ 
+or 
+0 + m1gh
+[
+]+ 0 =
+1
+2 m1 4.00 m/s
+(
+)
+2 + 0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2 m2 −0.667 m/s
+(
+)
+2  
+ 
+ 
+ 
+which gives h = 0.952 m 
+ANS. FIG. P9.80
+
+--- PAGE 60 ---
+Chapter 9     497 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P9.81 
+Using conservation of momentum 
+from just before to just after the 
+impact of the bullet with the block: 
+ 
+ 
+ 
+mvi = (M+ m)vf 
+ 
+or 
+ 
+vi =
+M + m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v f 
+[1] 
+ 
+The speed of the block and 
+embedded bullet just after impact 
+may be found using kinematic 
+equations: 
+ 
+ 
+ 
+ d = vf t   and   h = 1
+2 gt2 
+ 
+Thus, 
+t =
+2h
+g and v f = d
+t = d
+g
+2h =
+gd2
+2h 
+ 
+Substituting into [1] from above gives  
+ 
+ 
+ 
+vi =
+M + m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+gd2
+2h =
+250 g + 8.00 g
+8.00 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+9.80 m/s2
+(
+) 2.00 m
+(
+)
+2
+2 1.00 m
+(
+)
+= 143 m/s
+ 
+P9.82 
+Refer to ANS. FIG. P9.81. Using conservation of momentum from just 
+before to just after the impact of the bullet with the block: 
+ 
+ 
+ 
+mvi = (M+ m)vf 
+ 
+or 
+ 
+vi =
+M + m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v f 
+[1] 
+ 
+The speed of the block and embedded bullet just after impact may be 
+found using kinematic equations: 
+ 
+ 
+ 
+ d = vf t   and   h = 1
+2 gt2 
+ 
+Thus, 
+t =
+2h
+g and v f = d
+t = d
+g
+2h =
+gd2
+2h 
+ 
+Substituting into [1] from above gives vi =
+M + m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+gd2
+2h . 
+ANS. FIG. P9.81
+
+--- PAGE 61 ---
+498     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.83 
+(a)  From conservation of momentum, 
+ 
+ 
+ 
+p1i + p2i = p1 f + p2 f →m1v1i + m2v2i = m1v1 f + m2v2i  
+ 
+ 
+ 
+0.500 kg
+(
+) 2.00ˆi −3.00ˆj+ 1.00 ˆk
+(
+) m/s
+                    + 1.50 kg
+(
+) −1.00ˆi + 2.00ˆj−3.00 ˆk
+(
+) m/s
+                            = 0.500 kg
+(
+) −1.00ˆi + 3.00ˆj−8.00 ˆk
+(
+) m/s
+                                                                         + 1.50 kg 
+(
+) v2 f
+ 
+ 
+ 
+ 
+v2 f =
+1
+1.50 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+−0.500ˆi + 1.50ˆj−4.00 ˆk
+(
+) kg⋅m/s
+⎡
+⎣
+                              + 0.500ˆi −1.50ˆj+ 4.00 ˆk
+(
+) kg⋅m/s⎤
+⎦
+= 0
+ 
+ 
+ 
+The original kinetic energy is 
+ 
+ 
+ 
+1
+2 0.500 kg
+(
+) 22 + 32 + 12
+(
+) m2/s2
+                          + 1
+2 1.50 kg
+(
+) 12 + 22 + 32
+(
+) m2/s2 = 14.0 J
+ 
+ 
+ 
+The final kinetic energy is  
+ 
+ 
+ 
+1
+2 0.500 kg
+(
+) 12 + 32 + 82
+(
+) m2/s2 + 0 = 18.5 J
+ 
+ 
+ 
+different from the original energy so the collision is inelastic . 
+ 
+(b)  We follow the same steps as in part (a): 
+ 
+ 
+ 
+−0.500ˆi + 1.50ˆj−4.00 ˆk
+(
+) kg⋅m/s
+                 = 0.500 kg
+(
+) −0.250ˆi + 0.750ˆj−2.00 ˆk
+(
+) m/s
+                                                                       + 1.50 kg
+(
+) v2 f
+ 
+ 
+ 
+ 
+v2 f =
+1
+1.50 kg
+⎛
+⎝⎜
+⎞
+⎠⎟−0.5ˆi + 1.5ˆj−4 ˆk
+(
+)kg⋅m/s
+                                  + 0.125ˆi −0.375ˆj+ 1ˆk
+(
+)kg⋅m/s
+=
+−0.250ˆi + 0.750ˆj−2.00 ˆk
+(
+)m/s
+ 
+ 
+ 
+We see v2f = v1 f so the collision is perfectly inelastic .
+
+--- PAGE 62 ---
+Chapter 9     499 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Again, from conservation of momentum, 
+ 
+ 
+ 
+−0.500ˆi + 1.50ˆj−4.00 ˆk
+(
+) kg⋅m/s
+               = 0.500 kg
+(
+) −1ˆi + 3ˆj+ aˆk
+(
+)m/s + 1.50 kg
+(
+) v2 f
+ 
+ 
+ 
+v2 f =
+1
+1.50 kg
+⎛
+⎝⎜
+⎞
+⎠⎟−0.500ˆi + 1.50ˆj−4.00 ˆk
+(
+) kg⋅m/s
+                             + 0.500ˆi −1.50ˆj−0.500aˆk
+(
+) kg⋅m/s
+=
+−2.67 −0.333a
+(
+) ˆk m/s
+ 
+ 
+ 
+Then, from conservation of energy: 
+ 
+ 
+ 
+14.0 J = 1
+2 0.500 kg
+(
+) 12 + 32 + a2
+(
+) m2/s2
+                   + 1
+2 1.50 kg
+(
+)(2.67 + 0.333a)2 m2/s2
+= 2.50 J + 0.250a2 + 5.33 J + 1.33a + 0.0833a2
+ 
+ 
+ 
+This gives, suppressing units, a quadratic equation in a, 
+ 
+ 
+ 
+0 = 0.333a2 + 1.33a −6.167 = 0 
+ 
+ 
+which solves to give 
+ 
+ 
+ 
+a = −1.33 ±
+1.332 −4(0.333)(−6.167)
+0.667
+ 
+ 
+ 
+With a = 2.74 ,   
+ 
+ 
+ 
+v2f2f = −2.67 −0.333 2.74
+(
+)
+(
+) ˆk m/s = −3.58 ˆk m/s 
+ 
+ 
+With a = −6.74 , 
+ 
+ 
+ 
+ v2f2f = −2.67 −0.333 −6.74
+(
+)
+(
+) ˆk m/s = −0.419 ˆk m/s 
+P9.84 
+Consider the motion of the firefighter during the three intervals: (1) 
+before, (2) during, and (3) after collision with the platform. 
+ 
+(a) 
+While falling a height of 4.00 m, her speed changes from vi = 0 to 
+v1 as found from 
+ 
+ 
+ 
+ΔE = K f +U f
+(
+) −Ki –Ui
+(
+)
+K f = ΔE −U f + Ki +Ui
+
+--- PAGE 63 ---
+500     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS FIG. P9.84 
+ 
+ 
+When the initial position of the platform is taken as the zero level 
+of gravitational potential, we have 
+ 
+ 
+ 
+1
+2 mv1
+2 = fh cos 180°
+(
+) −0 + 0 + mgh 
+ 
+ 
+Solving for v1 gives 
+ 
+ 
+ 
+v1 =
+2(−fh + mgh)
+m
+=
+2 −300 N
+(
+)(4.00 m)+ 75.0 kg
+(
+)(9.80 m/s2) 4.00 m
+(
+)
+⎡⎣
+⎤⎦
+75.0 kg
+= 6.81 m/s
+ 
+ 
+(b) During the inelastic collision, momentum of the firefighter-
+platform system is conserved; and if v2 is the speed of the 
+firefighter and platform just after collision, we have  
+mv1 = (m + M)v2, or 
+ 
+ 
+ 
+v2 = m1v1
+m+ M = 75.0 kg
+(
+) 6.81 m/s
+(
+)
+75.0 kg + 20.0 kg
+= 5.38 m/s
+ 
+ 
+ 
+Following the collision and again solving for the work done by 
+nonconservative forces, using the distances as labeled in the 
+figure, we have (with the zero level of gravitational potential at 
+the initial position of the platform) 
+ 
+ 
+ 
+ΔE = K f +U fg +U fs −Ki −Uig −Uis 
+ 
+ 
+or 
+−fs = 0 + (m + M)g(−s) + 1
+2 ks2 −1
+2 (m + M)v2 −0 −0
+
+--- PAGE 64 ---
+Chapter 9     501 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This results in a quadratic equation in s: 
+ 
+ 
+ 2 000s
+2 – (931)s + 300s – 1 375 = 0  
+ 
+ 
+with solution s = 1.00 m 
+P9.85 
+Each primate swings down according to 
+ 
+ 
+  
+mgR = 1
+2 mv1
+2  and  MgR = 1
+2 Mv1
+2   →   v1 =
+2gR
+ 
+ 
+For the collision,  
+ 
+ 
+ 
+−mv1 + Mv1 = + m + M
+(
+)v2 
+ 
+ 
+  
+v2 = M −m
+M + m v1
+ 
+ 
+While the primates are swinging up, 
+  
+ 
+ 
+1
+2 (M + m)v2
+2 = (M + m)gR(1−cos35°) 
+ 
+ 
+ 
+v2 =
+2gR(1−cos35.0°) 
+ 
+ 
+ 
+2gR(1−cos35.0°)(M + m) = (M −m) 2gR
+0.425M + 0.425m = M −m
+1.425m = 0.575M
+ 
+ 
+which gives 
+ 
+ 
+ 
+m
+M = 0.403 
+P9.86  
+ (a) We can obtain the initial speed of the projectile by utilizing 
+conservation of momentum: 
+ 
+ 
+ 
+m1v1A + 0 = m1 + m2
+(
+)vB
+ 
+ 
+ 
+Solving for v1A gives 
+ 
+ 
+ 
+v1A = m1 + m2
+m1
+2gh
+v1A ≅6.29 m/s
+  
+ 
+ 
+(b) We begin with the kinematic equations in the x and y direction: 
+ 
+ 
+ 
+x = x0 + vx0t + 1
+2 axt2
+y = y0 + vy0t + 1
+2 ayt2
+
+--- PAGE 65 ---
+502     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+And simplify by plugging in x0 = y0 = 0, vy0 = 0, vx0= v1A, ax = 0, and 
+ay = g:  
+ 
+ 
+ 
+1
+2 gt2 = y and x = v1At 
+ 
+ 
+Combining them gives 
+ 
+ 
+ 
+v1A =
+x
+2y g
+= x
+g
+2y 
+ 
+ 
+Substituting the numerical values from the problem statement 
+gives 
+ 
+ 
+ 
+v1A = x
+g
+2y = 2.57 m
+(
+)
+9.80 m/s2
+2 0.853 m
+(
+) = 6.16 m/s
+ 
+ 
+(c) 
+Most of the 2% difference between the values for speed could
+be accounted for by air resistance.
+ 
+ 
+ANS. FIG. P9.86 
+P9.87 
+The force exerted by the spring on each block is in magnitude. 
+ 
+ 
+ 
+Fs = kx = 3.85 N/m
+(
+) 0.08 m
+(
+) = 0.308 N 
+ 
+(a) 
+With no friction, the elastic energy in the spring becomes kinetic 
+energy of the blocks, which have momenta of equal magnitude in 
+opposite directions. The blocks move with constant speed after 
+they leave the spring. From conservation of energy, 
+ 
+ 
+ 
+K +U
+(
+)i = K +U
+(
+) f
+ 
+ 
+ 
+ 
+1
+2 kx2 = 1
+2 m1v1 f
+2 + 1
+2 m2v2 f
+2
+
+--- PAGE 66 ---
+Chapter 9     503 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+1
+2 (3.85 N/m)(0.080 0 m)2
+           = 1
+2 (0.250 kg)v1 f
+2 + 1
+2 (0.500 kg)v2 f
+2
+ 
+[1]
+ 
+ 
+ 
+And from conservation of linear momentum, 
+ 
+ 
+ 
+m1
+v1i + m2
+v2i = m1
+v1 f + m2
+v2 f 
+ 
+ 
+ 
+0 = (0.250 kg)v1 f (−ˆi) + (0.500 kg)v2 fˆi
+v1 f = 2v2 f
+ 
+ 
+ 
+Substituting this into [1] gives 
+ 
+ 
+ 
+0.012 3 J = 1
+2 (0.250 kg) 2v2 f
+(
+)
+2 + 1
+2 (0.500 kg)v2 f
+2
+= 1
+2 (1.50 kg)v2 f
+2
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+v2 f =
+0.012 3 J
+0.750 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 0.128 m/s
+v2 f = 0.128ˆi m/s
+v1 f = 2(0.128 m/s) = 0.256 m/s
+v1 f = −0.256ˆi m/s
+ 
+ 
+(b) For the lighter block,  
+ 
+ 
+ 
+Fy = may,
+∑
+n−0.250 kg 9.80 m/s2
+(
+) = 0,    n = 2.45 N, 
+ 
+ 
+ 
+fk = µkn = 0.1 2.45 N
+(
+) = 0.245 N.  
+ 
+ 
+We assume that the maximum force of static friction is a similar 
+size. Since 0.308 N is larger than 0.245 N, this block moves. For 
+the heavier block, the normal force and the frictional force are 
+twice as large: fk = 0.490 N. Since 0.308 N is less than this, the 
+heavier block stands still. In this case, the frictional forces exerted 
+by the floor change the momentum of the two-block system. The 
+lighter block will gain speed as long as the spring force is larger 
+than the friction force: that is until the spring compression 
+becomes xf  given by  
+ 
+ 
+ 
+Fs = kx, 0.245 N = (3.85 N.m)xf , 0.063 6 m = xf 
+ 
+ 
+Now for the energy of the lighter block as it moves to this 
+maximum-speed point, we have 
+ 
+ 
+ 
+Ki +Ui −fkd = K f +U f
+
+--- PAGE 67 ---
+504     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+0 + 0.012 3 J −0.245 N
+(
+)(0.08 −0.063 6 m)
+                     = 1
+2 (0.250 kg)v f
+2 + 1
+2 (3.85 N/m)(0.063 6 m)2
+ 
+ 
+ 
+ 
+0.012 3 J −0.004 01 J = 1
+2 (0.250 kg)v f
+2 + 0.007 80 J
+2(0.000 515 J)
+0.250 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= v f = 0.064 2 m/s
+ 
+ 
+ 
+Thus for the heavier block the maximum velocity is 0 and for 
+the lighter block, −0.064 2ˆi m/s . 
+ 
+(c) 
+For the lighter block, fk = 0.462(2.45 N) = 1.13 N. The force of static 
+friction must be at least as large. The 0.308-N spring force is too 
+small to produce motion of either block. Each has 0 maximum 
+speed. 
+P9.88 
+The orbital speed of the Earth is 
+ 
+ 
+ 
+vE = 2πr
+T
+= 2π 1.496 × 1011 m
+(
+)
+3.156 × 107 s
+= 2.98 × 104 m/s
+ 
+ 
+In six months the Earth reverses its direction, to undergo momentum 
+change 
+ 
+ 
+ 
+mE ΔvE = 2mEvE = 2 5.98 × 1024 kg
+(
+) 2.98 × 104 m/s
+(
+)
+= 3.56 × 1029 kg⋅m/s
+ 
+ 
+Relative to the center of mass, the Sun always has momentum of the 
+same magnitude in the opposite direction. Its 6-month momentum 
+change is the same size, mS ΔvS = 3.56 × 1029 kg ⋅m/s 
+ 
+Then 
+ΔvS = 3.56 × 1029 kg ⋅m/s
+1.991× 1030 kg
+= 0.179 m/s 
+ 
+ANS. FIG. P9.88
+
+--- PAGE 68 ---
+Chapter 9     505 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.89 
+(a) 
+We find the speed when the 
+bullet emerges from the block 
+by using momentum 
+conservation: 
+ 
+ 
+ 
+mvi = MVi + mv 
+ 
+ 
+The block moves a distance of 
+5.00 cm. Assume for an 
+approximation that the block 
+quickly reaches its maximum 
+velocity, Vi , and the bullet 
+kept going with a constant 
+velocity, v. The block then 
+compresses the spring and stops. After the collision, the 
+mechanical energy is conserved in the block-spring system: 
+ 
+ 
+ 
+1
+2 MVi
+2 = 1
+2 kx2 
+ 
+ 
+  
+Vi =
+900 N/m
+(
+) 5.00 × 10−2 m
+(
+)
+2
+1.00 kg
+= 1.50 m/s
+v = mvi −MVi
+m
+= 5.00 × 10−3 kg
+(
+)(400 m/s)−(1.00 kg)(1.50 m/s)
+5.00 × 10−3 kg
+v = 100 m/s
+ 
+ 
+(b) Identifying the system as the block and the bullet and the time 
+interval from just before the collision to just after the collision, 
+ 
+ 
+ 
+ΔK + ΔEint  = 0   gives
+ΔEint  = −ΔK  =  −1
+2 mv2 + 1
+2 MVi
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Then 
+ 
+ 
+  
+ΔEint  =  −1
+2 (0.005 00 kg)(100 m/s)2 
+⎡
+⎣⎢
+ 
+                             
+             +  1
+2 (1.00 kg)(1.50 m/s)2
+      −  1
+2 (0.005 00 kg)(400 m/s)2
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+         =  374 J
+ 
+ANS. FIG. P9.89
+
+--- PAGE 69 ---
+506     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.90 
+(a) 
+We have, from the impulse-momentum theorem, pi +
+
+Ft = p f : 
+ 
+ 
+ 
+(3.00 kg)(7.00 m/s)ˆj+ 12.0ˆi N
+(
+)(5.00 s) = (3.00 kg)v f
+ 
+ 
+ 
+ 
+v f =
+20.0ˆi + 7.00ˆj
+(
+) m/s 
+ 
+(b) The particle’s acceleration is 
+ 
+ 
+ 
+a =
+v f −vi
+t
+=
+20.0ˆi + 7.00ˆj−7.00ˆj
+(
+) m/s
+5.00 s
+= 4.00ˆi m/s2
+ 
+ 
+(c)  From Newton’s second law, 
+ 
+ 
+ 
+a =
+
+F
+∑
+m = 12.0ˆi N
+3.00 kg = 4.00ˆi m/s2
+ 
+ 
+(d) The vector displacement of the particle is 
+ 
+ 
+ 
+Δr = vit + 1
+2
+at2
+= 7.00 m sˆj
+(
+)(5.00 s)+ 1
+2 4.00 m/s2ˆi
+(
+)(5.00 s)2
+Δr =
+50.0ˆi + 35.0ˆj
+(
+) m
+ 
+ 
+ 
+(e) 
+Now, from the work-kinetic energy theorem, the work done on 
+the particle is 
+ 
+ 
+W =
+
+F⋅Δr = 12.0ˆi N
+(
+) 50.0ˆi m + 35.0ˆj m
+(
+) = 600 J 
+ 
+(f) 
+The final kinetic energy of the particle is 
+ 
+ 
+ 
+1
+2 mv f
+2 = 1
+2 (3.00 kg) 20.0ˆi + 7.00ˆj
+(
+)⋅20.0ˆi + 7.00ˆj
+(
+) m2/s2 
+ 
+ 
+ 
+1
+2 mv f
+2 = (1.50 kg) 449 m2/s2
+(
+) = 674 J 
+ 
+(g) The final kinetic energy of the particle is  
+ 
+ 
+ 
+1
+2 mvi
+2 + W = 1
+2 (3.00 kg)(7.00 m/s)2 + 600 J = 674 J 
+ 
+(h) 
+The accelerations computed in different ways agree. The 
+kinetic energies computed in different ways agree. The three
+theories are consistent.
+
+--- PAGE 70 ---
+Chapter 9     507 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.91 
+We note that the initial velocity of the target particle is zero (that is, 
+v2i = 0). Then, from conservation of momentum, 
+ 
+ 
+ 
+m1v1 f + m2v2 f = m1v1i + 0 
+[1] 
+ 
+For head-on elastic collisions, v1i −v2i = v1 f −v2 f
+(
+), and with v2i = 0, 
+this gives 
+ 
+ 
+ 
+v2 f = v1i + v1 f 
+[2] 
+ 
+Substituting equation [2] into [1] yields 
+ 
+ 
+ 
+m1v1 f + m2 v1i + v1 f
+(
+) = m1v1i
+ 
+ 
+or 
+ 
+ 
+ 
+m1 + m2
+(
+)v1 f = m1 −m2
+(
+)v1i
+ 
+ 
+which gives  
+ 
+ 
+ 
+v1 f =
+m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i 
+[3] 
+ 
+Now, we substitute equation [3] into [2] to obtain 
+ 
+ 
+ 
+v2 f = v1i + m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i =
+2m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i 
+[4] 
+ 
+Equations [3] and [4] can now be used to answer both parts (a) and (b). 
+ 
+(a) 
+If m1 = 2.00 g,m2 = 1.00 g, and v1i = 8.00 m/s, then 
+ 
+ 
+  
+v1 f =
+m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i =
+2.00 g −1.00 g
+2.00 g + 1.00 g
+⎛
+⎝⎜
+⎞
+⎠⎟8.00 m/s
+(
+) = 2.67 m/s
+ 
+ 
+ 
+ 
+v2 f =
+2m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i =
+2 2.00 g
+(
+)
+2.00 g + 1.00 g
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥8.00 m/s
+(
+) = 10.7 m/s
+ 
+ 
+(b) If m1 = 2.00 g,m2 = 10.0 g, and v1i = 8.00 m/s, we find 
+ 
+ 
+  
+v1 f =
+m1 −m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i =
+2.00 g −10.0 g
+2.00 g + 10.0 g
+⎛
+⎝⎜
+⎞
+⎠⎟8.00 m/s
+(
+) = 5.33 m/s
+ 
+ 
+ 
+ 
+v2 f =
+2m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1i =
+2 2.00 g
+(
+)
+2.00 g + 10.0 g
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥8.00 m/s
+(
+) = 2.67 m/s
+
+--- PAGE 71 ---
+508     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The final kinetic energy of the 2.00-g particle in each case is: 
+ 
+ 
+Case (a):  
+ 
+ 
+ 
+KE1 f = 1
+2 m1v1 f
+2 = 1
+2 2.00 × 10−3 kg
+(
+) 2.67 m/s
+(
+)
+2 = 7.11× 10−3 J
+  
+ 
+ 
+Case (b):  
+ 
+ 
+ 
+KE1 f = 1
+2 m1v1 f
+2 = 1
+2 2.00 × 10−3 kg
+(
+) 5.33 m/s
+(
+)
+2 = 2.84 × 10−2 J
+ 
+ 
+ 
+Since the incident kinetic energy is the same in cases (a) and (b), 
+we observe that 
+the incident particle loses more kinetic energy in case (a),
+in which the target mass is 1.00 g.
+  
+ 
+ 
+ 
+Challenge Problems	  
+P9.92 
+Take the origin at the center of curvature. 
+We have L = 1
+4 2πr, r = 2L
+π . An incremental 
+bit of the rod at angle θ from the x axis has 
+mass given by dm
+rdθ = m
+L , dm = mr
+L dθ, where 
+we have used the definition of radian 
+measure. Now 
+ 
+ 
+yCM = 1
+M
+ydm
+all mass
+∫
+= 1
+M
+r sinθ
+θ =45°
+135°
+∫
+Mr
+L dθ = r2
+L
+sinθ dθ
+45°
+135°
+∫
+=
+2L
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 1
+L(−cosθ)
+45°
+135°
+= 4L
+π 2
+1
+2
++ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 4 2L
+π 2
+ 
+ 
+The top of the bar is above the origin by r = 2L
+π , so the center of mass 
+is below the middle of the bar by 
+ 
+ 
+ 2L
+π −4 2L
+π 2
+= 2
+π
+1−2 2
+π
+⎛
+⎝⎜
+⎞
+⎠⎟L = 0.063 5 L
+ 
+P9.93 
+The x component of momentum for the system of the two objects is 
+ 
+ 
+  
+p1ix + p2ix = p1fx + p2fx 
+ 
+ANS. FIG. P9.92
+
+--- PAGE 72 ---
+Chapter 9     509 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+  
+–mvi + 3mvi = 0 + 3mv2x 
+ 
+The y component of momentum of the system is 
+ 
+ 
+ 
+0 + 0 = –mv1y + 3mv2y 
+ 
+By conservation of energy of the system, 
++ 1
+2 mvi
+2 + 1
+2 3mvi
+2 = 1
+2 mv1y
+2 + 1
+2 3m v2x
+2 + v2y
+2
+(
+) 
+ 
+we have v2x = 2vi
+3
+ 
+ 
+also  
+v1y = 3v2y 
+ 
+So the energy equation becomes 
+ 
+ 
+ 
+ 
+4vi
+2 = 9v2y
+2 + 4vi
+2
+3 + 3v2y
+2 
+ 
+ 
+ 
+8vi
+2
+3
+= 12v2y
+2 
+ 
+or  
+ 
+v2y =
+2vi
+3
+ 
+ 
+(a) 
+The object of mass m has final speed 
+ 
+ 
+ 
+ 
+v1y = 3v2y =
+2vi 
+ 
+ 
+and the object of mass 3m moves at 
+ 
+ 
+ 
+ 
+v2x
+2 + v2y
+2 =
+4vi
+2
+9 + 2vi
+2
+9
+ 
+ 
+ 
+ 
+v2x
+2 + v2y
+2 =
+2
+3 vi 
+ 
+(b) 
+θ = tan−1 v2y
+v2x
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+θ = tan−1
+2vi
+3
+3
+2vi
+⎛
+⎝⎜
+⎞
+⎠⎟= 35.3°
+
+--- PAGE 73 ---
+510     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.94 
+A picture one second later differs by showing five extra kilograms of 
+sand moving on the belt. 
+ 
+(a) 
+dp
+dt  = d(mv)
+dt
+ = v dm
+dt  = (0.750 m/s)(5.00 kg/s) =  3.75 N 
+ 
+(b) The only horizontal force on the sand is belt friction, which causes 
+the momentum of the sand to change: F = dp
+dt = 3.75 N as above. 
+ 
+(c) 
+The belt is in equilibrium: 
+ 
+ 
+ 
+Fx = max:
+ +Fext −f = 0   and   Fext
+∑
+= 3.75 N 
+ 
+(d)  W = FΔr cosθ = 3.75 N
+(
+) 0.750 m
+(
+)cos0° = 2.81 J 
+ 
+(e)  
+dK
+dt =
+d 1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dt
+= 1
+2 v2 dm
+dt = 1
+2 0.750 m/s
+(
+)
+2 5.00 kg/s
+(
+) = 1.41 J/s 
+ 
+(f) 
+One-half of the work input becomes kinetic energy of the 
+moving sand and the other half becomes additional internal 
+energy. The internal energy appears when the sand does not 
+elastically bounce under the hopper, but has friction eliminate 
+its horizontal motion relative to the belt. By contrast, all of the 
+impulse input becomes momentum of the moving sand.
+ 
+P9.95 
+Depending on the length of the cord and the time interval ∆t for which 
+the force is applied, the sphere may have moved very little when the 
+force is removed, or we may have x1 and x2 nearly equal, or the sphere 
+may have swung back, or it may have swung back and forth several 
+times. Our solution applies equally to all of these cases. 
+ 
+(a) 
+The applied force is constant, so the center of mass of the glider-
+sphere system moves with constant acceleration. It starts, we 
+define, from x = 0 and moves to (x1 + x2)/2. Let v1 and v2 represent 
+the horizontal components of velocity of glider and sphere at the 
+moment the force stops. Then the velocity of the center of mass is 
+vCM = (v1 + v2)/2, and because the acceleration is constant we have  
+ 
+ 
+ 
+x1 + x2
+2
+=
+v1 + v2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δt
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+ 
+which gives 
+ 
+ 
+ 
+Δt = 2 x1 + x2
+v1 + v2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 74 ---
+Chapter 9     511 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The impulse-momentum theorem for the glider-sphere system is 
+ 
+ 
+ 
+FΔt = mv1 + mv2  
+ 
+ 
+or 
+ 
+ 
+ 
+2F x1 + x2
+v1 + v2
+⎛
+⎝⎜
+⎞
+⎠⎟= m v1 + v2
+(
+)
+2F x1 + x2
+(
+) = m v1 + v2
+(
+)
+2
+ 
+ 
+ 
+Dividing both sides by 4m and rearranging gives 
+ 
+ 
+ 
+2F x1 + x2
+(
+)
+4m
+= m v1 + v2
+(
+)
+2
+4m
+F x1 + x2
+(
+)
+2m
+= v1 + v2
+(
+)
+2
+4
+= vCM
+2
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+vCM =
+F x1 + x2
+(
+)
+2m
+ 
+ 
+(b) The applied force does work that becomes, after the force is 
+removed, kinetic energy of the constant-velocity center-of-mass 
+motion plus kinetic energy of the vibration of the glider and 
+sphere relative to their center of mass. The applied force acts only 
+on the glider, so the work-energy theorem for the pushing 
+process is 
+ 
+ 
+ 
+Fx1 = 1
+2 2m
+(
+)vCM
+2
++ Evib
+  
+ 
+ 
+Substitution gives  
+ 
+ 
+ 
+Fx1 = 1
+2 2m
+(
+) F x1 + x2
+(
+)
+2m
+⎡
+⎣⎢
+⎤
+⎦⎥+ Evib = 1
+2 Fx1 + 1
+2 Fx2 + Evib
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+Evib = 1
+2 Fx1 −1
+2 Fx2
+ 
+ 
+ 
+When the cord makes its largest angle with the vertical, the 
+vibrational motion is turning around. No kinetic energy is 
+associated with the vibration at this moment, but only 
+gravitational energy: 
+ 
+ 
+ 
+mgL 1−cosθ
+(
+) = F x1 −x2
+(
+)/2
+
+--- PAGE 75 ---
+512     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving gives  
+ 
+ 
+ 
+θ = cos−1[1−F x1 −x2
+(
+)/2mgL]
+ 
+P9.96 
+The force exerted by the table is equal to the change in momentum of 
+each of the links in the chain. By the calculus chain rule of derivatives, 
+ 
+ 
+ 
+F1 = dp
+dt =
+d mv
+(
+)
+dt
+= v dm
+dt + m dv
+dt
+ 
+ 
+We choose to account for the change in momentum of each link by 
+having it pass from our area of interest just before it hits the table, so 
+that 
+ 
+ 
+ 
+v dm
+dt ≠0 and  m dv
+dt = 0 
+ 
+Since the mass per unit length is uniform, we can  
+express each link of length dx as having a mass dm: 
+ 
+ 
+ 
+dm = M
+L dx 
+ 
+The magnitude of the force on the falling chain is the force that will be 
+necessary to stop each of the elements dm. 
+ 
+ 
+ 
+F1 = v dm
+dt = v M
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+dx
+dt =
+M
+L
+⎛
+⎝⎜
+⎞
+⎠⎟v2 
+ 
+After falling a distance x, the square of the velocity of each link v
+2 = 2gx 
+(from kinematics), hence 
+ 
+ 
+ 
+F1 = 2Mgx
+L
+ 
+ 
+The links already on the table have a total length x, and their weight is 
+supported by a force F2: 
+ 
+ 
+ 
+F2 = Mgx
+L
+ 
+ 
+Hence, the total force on the chain is 
+ 
+ 
+ 
+Ftotal = F1 + F2 = 3Mgx
+L
+ 
+ 
+That is, the total force is three times the weight of the chain on the table at 
+that instant. 
+ 
+ 
+ANS. FIG. P9.96
+
+--- PAGE 76 ---
+Chapter 9     513 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P9.2 
+1.14 kg; 22.0 m/s 
+P9.4 
+(a) px = 9.00 kg⋅m/s, py = −12.0 kg⋅m/s; (b) 15.0 kg . m/s 
+P9.6 
+(a) vpi = −0.346 m/s ; (b) vgi = 1.15 m/s 
+P9.8 
+(a) 4.71 m/s East; (b) 717 J 
+P9.10 
+10
+−23 m/s 
+P9.12 
+(a) 3.22 × 10
+3 N, 720 lb; (b) not valid; (c) These devices are essential for 
+the safety of small children. 
+P9.14 
+(a) Δp = 3.38 kg ⋅m/s ˆj; (b) 
+
+F = 7 × 102 Nˆj 
+P9.16 
+(a) 9.05ˆi + 6.12ˆj
+(
+) N ⋅s; (b) 377ˆi + 255ˆj
+(
+) N 
+P9.18 
+(a) 3.60ˆi N⋅s away from the racket; (b) −36.0 J 
+P9.20 
+(a) 981 N ⋅s, up; (b) 3.43 m/s, down; (c) 3.83 m/s, up; (d) 0.748 m 
+P9.22 
+(a) 20.9 m/s East; (b) −8.68 × 103 J; (c) Most of the energy was 
+transformed to internal energy with some being carried away by 
+sound. 
+P9.24 
+(a) v f = 1
+3 v1 + 2v2
+(
+) ; (b) ΔK = −m
+3 v1
+2 + v2
+2 −2v1v2
+(
+) 
+P9.26 
+(a) 2.50 m/s; (b) 37.5 kJ; (c) The event considered in this problem is the 
+time reversal of the perfectly inelastic collision in Problem 9.25. The 
+same momentum conservation equation describes both processes. 
+P9.28 
+7.94 cm 
+P9.30 
+v = 4M
+m
+g 
+P9.32 
+vc =
+m + M
+(
+)
+m
+2µgd 
+P9.34 
+(a) 2.24 m/s toward the right; (b) No. Coupling order makes no 
+difference to the final velocity. 
+P9.36 
+The driver of the northbound car was untruthful. His original speed 
+was more than 35 mi/h. 
+P9.38 
+vO = 3.99 m/s and vY = 3.01 m/s
+
+--- PAGE 77 ---
+514     Linear Momentum and Collisions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.40 
+v = vi
+2 , 45.0°, –45.0° 
+P9.42 
+The opponent grabs the fullback and does not let go, so the two 
+players move together at the end of their interaction; (b) θ = 32.3°, 2.88 
+m/s; (c) 786 J into internal energy 
+P9.44 
+vB = 5.89 m/s; vG = 7.07 m/s 
+P9.46 
+4.67 ×10
+6 m from the Earth’s center 
+P9.48 
+11.7 cm; 13.3 cm 
+P9.50 
+The center of mass of the molecule lies on the dotted line shown in 
+ANS. FIG. P9.50, 0.006 73 nm below the center of the O atom. 
+P9.52 
+(a) See ANS. FIG. P8.42; (b) −2.00ˆi −1.00ˆj
+(
+) m ; (c) 3.00ˆi −1.00ˆj
+(
+) m/s ; 
+(d) 15.0ˆi −5.00ˆj
+(
+) kg ⋅m/s 
+P9.54 
+(a) −2.89ˆi −1.39ˆj
+(
+)cm; (b) −44.5ˆi + 12.5ˆj
+(
+)g ⋅cm/s;  
+(c) −4.94ˆi + 1.39ˆj
+(
+)cm/s ; (d) −2.44ˆi + 1.56ˆj
+(
+)cm/s2 ;  
+(e) −220ˆi + 140ˆj
+(
+)µN 
+P9.56 
+(a) 
+Yes. 18.0ˆi kg⋅m/s; (b) No. The friction force exerted by the floor 
+on each stationary bit of caterpillar tread acts over no distance, so it 
+does zero work; (c) Yes, we could say that the final momentum of the 
+card came from the floor or from the Earth through the floor; (d) No. 
+The kinetic energy came from the original gravitational potential 
+energy of the Earth-elevated load system, in the amount 27.0 J; (e) Yes. 
+The acceleration is caused by the static friction force exerted by the 
+floor that prevents the wheels from slipping backward. 
+P9.58 
+(a) yes; (b) no; (c) 103 kg·m/s, up; (d) yes; (e) 88.2 J; (f) no, the energy 
+came from chemical energy in the person’s leg muscles 
+P9.60 
+(a) 787 m/s; (b) 138 m/s 
+P9.62 
+(a) 3.90 × 10
+7 N; (b) 3.20 m/s
+2 
+P9.64 
+(a) −ve ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) See ANS. FIG. P9.64(b); (c) 
+ve
+Tp −t ; (d) See ANS. 
+FIG. P9.64(d); (e) ve Tp −t
+(
+)ln 1−t
+Tp
+⎛
+⎝⎜
+⎞
+⎠⎟+ vet ; (f) See ANS. FIG. P9.64(f)
+
+--- PAGE 78 ---
+Chapter 9     515 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P9.66 
+(a) −
+m
+M −m
+⎛
+⎝⎜
+⎞
+⎠⎟
+vgloves ; (b) As she throws the gloves and exerts a force on 
+them, the gloves exert an equal and opposite force on her that causes 
+her to accelerate from rest to reach the velocity vgirl . 
+P9.68 
+(a) KE KA = m1/ m1 + m2
+(
+) ; (b) 1.00; (c) See P9.68(c) for argument. 
+P9.70 
+(a) –3.54 m/s; (b) 1.77 m; (c) 3.54 × 104 N; (d) No 
+P9.72 
+(a) See P9.72(a) for description; (b) vi = m + M
+m
+2gh 
+P9.74 
+(a) See P9.74 for complete statement; (b) The final velocity of the seat is 
+−0.055 6ˆi m/s. That of the sleigh is 7.94ˆi m/s; (c) −453 J 
+P9.76 
+In order for his motion to reverse under these conditions, the final 
+mass of the astronaut and space suit is 30 kg, much less than is 
+reasonable. 
+P9.78 
+(a) 2.58 × 103 kg ⋅m/(80 kg + m) ; (b) 32.2 m; (c) m → 0; (d) See P9.78(d) 
+for complete answer; (e) See P9.78(e) for complete answer. 
+P9.80 
+(a) −0.667 m/s; (b) h = 0.952 m 
+P9.82 
+M + m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+gd2
+2h
+ 
+P9.84 
+(a) 6.81 m/s; (b) s = 1.00 m 
+P9.86 
+(a) 6.29 m/s; (b) 6.16 m/s; (c) Most of the 2% difference between the 
+values for speed could be accounted for by air resistance. 
+P9.88 
+0.179 m/s 
+P9.90 
+(a) (20.0ˆi + 7.00ˆj) m/s; (b) 4.00ˆi m/s2 ; (c) 4.00ˆi m/s2 ;  
+ 
+(d) (50.0ˆi + 35.0ˆj) m; (e) 600 J; (f) 674 J; (g) 674 J; (h) The accelerations 
+computed in different ways agree. The kinetic energies computed in 
+different ways agree. The three theories are consistent. 
+P9.92 
+0.063 5L 
+P9.94 
+(a) 3.75 N; (b) 3.75 N; (c) 3.75 N; (d) 2.81 J; (e) 1.41 J/s; (f) One-half of 
+the work input becomes kinetic energy of the moving sand and the 
+other half becomes additional internal energy. The internal energy 
+appears when the sand does not elastically bounce under the hopper, 
+but has friction eliminate its horizontal motion relative to the belt. By 
+contrast, all of the impulse input becomes momentum of the moving 
+sand. 
+P9.96 
+3Mgx
+L

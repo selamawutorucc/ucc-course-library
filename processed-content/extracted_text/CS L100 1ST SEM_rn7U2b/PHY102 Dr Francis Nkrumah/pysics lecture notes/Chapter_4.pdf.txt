@@ -1,0 +1,2175 @@
+
+--- PAGE 1 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+1
+Chapter 4: Motion in Two Dimensions 
+Part-1 
+In this lesson we will discuss motion in two dimensions. In two dimensions, it is necessary to 
+use vector notation to describe physical quantities with both magnitude and direction. In this 
+chapter, we will begin by defining displacement, velocity and acceleration as vectors in two 
+dimensions. Then, we will discuss the solution of projectile motion problems in two 
+dimensions, such as the motion of a cannon fired at a target at an angle, the motion of a cliff 
+diver jumped straight off or the motion of a nuclear bomb dropped from a fighter at a height. 
+ 
+In the first section, some definitions are given. In the second section, derivations for the 
+equations of motion in two-dimensions are shown. The equations for the uniform speed 
+circular motion and the non uniform speed circular motion are derived in the third section. In 
+the last section, the relative motion in two dimensions is contained. Analytical and numerical 
+examples are solved at the end of each section. 
+Displacement, Velocity and Acceleration in 2-Dimensions 
+As we mentioned in 1-dimension, the vector nature of velocity and acceleration is taken into 
+account by the sign (positive or negative) of the quantity. In 2-dimensions we must use 2 
+components to specify a velocity or acceleration vector. That is the merely difference, in 
+equations, which may be enough to make something difficult! 
+ 
+If there is a vector lying in the X-Y plane, it can be written as a component in the X-direction 
+added to a component in the Y-direction. Let A be a two-component vector in the X-Y plane. 
+Then it is written as 
+j
+A
+i
+A
+A
+y
+x
+ˆ
+ˆ
+ where 
+x
+A and 
+y
+A are the X and Y components of the 
+vector A  (See Figure 4.1a-b). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.1: Components of a vector 
+ 
+From Fig. 1b, we see that 
+)
+cos(
+A
+Ax
+ and 
+)
+sin(
+A
+Ay
+, and also 
+2
+2
+y
+x
+A
+A
+A
+ 
+If there two vectors, there will be a third one whose magnitude and direction is found by the 
+vector operation on the others. Let us call C be the resultant vector of the addition of A with 
+B . Then, it is written as;
+
+--- PAGE 2 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+2
+j
+A
+i
+A
+A
+y
+x
+ˆ
+ˆ
+ and 
+j
+B
+i
+B
+B
+y
+x
+ˆ
+ˆ
+ 
+B
+A
+C
+ 
+j
+C
+i
+C
+C
+j
+B
+A
+i
+B
+A
+C
+y
+x
+y
+y
+x
+x
+ˆ
+ˆ
+ˆ
+)
+(
+ˆ)
+(
+ 
+ 
+where 
+x
+x
+x
+B
+A
+C
+ and 
+y
+y
+y
+B
+A
+C
+. See Figure 4.2 for the representation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.2: Vector addition, resultant vector and their components 
+ 
+It is seen also in Figure 4.2 that the resultant vector represents change in position of an object 
+from point A to point B. So, the resultant vector is a displacement vector of an object that 
+moves from A to B. 
+ 
+Displacement  
+In Figure 4.3, an object is initially at position 
+)
+( i
+i t
+r
+ at time ti (point A). Some time later, tf , 
+the object is at position 
+)
+( f
+f t
+r
+ (point B). The displacement vector of the object is given by:  
+i
+f
+r
+r
+r
+   
+(4.1)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.3: Displacement vector 
+ 
+x 
+y 
+xf 
+xi 
+A 
+B 
+yi 
+yf 
+0 
+ir 
+fr 
+r 
+)ˆ(i
+x
+ 
+)ˆ
+( j
+y
+
+--- PAGE 3 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+3
+ 
+Average Velocity  
+Using the result of displacement, we can find the average velocity of the object between time 
+intervals: 
+0
+0
+t
+t
+r
+r
+t
+t
+r
+r
+Time
+Elapsed
+nt
+Displaceme
+Total
+t
+r
+v
+f
+f
+i
+f
+i
+f
+av
+ 
+(4.2)
+Generally, the initial conditions are assumed to be at “0” point. We will use this notation for 
+the initial condition after that point. As with the 1-dimensional definition, average velocity is 
+independent of the path between the end points. 
+ 
+Instantaneous Velocity  
+As it is mentioned in the previous chapter, the instantaneous velocity is given by 
+dt
+r
+d
+t
+r
+v
+t
+0
+lim
+ 
+(4.3)
+ 
+Average Acceleration  
+It is the change in velocity over the change in time:  
+0
+0
+t
+t
+v
+v
+t
+v
+a
+f
+f
+av
+ 
+(4.4)
+ 
+The direction of the acceleration is in the direction of the vector v, and its magnitude is 
+|v/t |. 
+ 
+Instantaneous Acceleration  
+As we have followed before, Instantaneous acceleration is calculated by taking shorter and 
+shorter time intervals, i.e. when 
+0
+t
+, then; 
+dt
+v
+d
+t
+v
+a
+t
+0
+lim
+ 
+(4.5)
+Note: a particle can accelerate in different ways:  
+1.  
+The magnitude of v can change in time, while the direction of motion stays the same.  
+2.  
+The magnitude of v , |v | , can stay constant, while the direction of motion changes. 
+ 
+This only happens in more than one dimension. 
+3.  
+Both |v | and the direction of v can change.  
+ 
+Motion in 2D with Uniform (Constant) Acceleration 
+We know that 
+0
+0
+0
+0
+)
+(
+)
+(
+t
+t
+t
+v
+t
+v
+t
+t
+v
+v
+t
+v
+a
+f
+f
+f
+f
+av
+. 
+(4.6)
+
+--- PAGE 4 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+4
+In case of uniform acceleration, the average acceleration would be equal to the instantaneous 
+acceleration. Since the definition of average acceleration is as above, then the instantaneous 
+acceleration may be written as 
+0
+0)
+(
+)
+(
+t
+t
+t
+v
+t
+v
+a
+f
+f
+ 
+(4.7)
+From that equation, we can write the velocity equation as 
+)
+(
+)
+(
+)
+(
+0
+0
+t
+t
+a
+t
+v
+t
+v
+f
+f
+. 
+(4.8)
+As the motion is in 2-dimensional space, the unit vectors along x and y-axis will be iˆ and jˆ , 
+respectively. So taking the rectangular components of acceleration (even it is uniform!) and 
+the initial velocity, we get  
+j
+t
+t
+a
+v
+i
+t
+t
+a
+v
+t
+v
+f
+y
+y
+f
+x
+x
+f
+ˆ
+)
+(
+ˆ
+)
+(
+)
+(
+0
+0
+. 
+(4.9)
+This is the equation of velocity of an object with uniform acceleration in 2-dimensional 
+motion. Note that the sub-indices “x” and “y” show the initial values of the parameters along 
+the x-axis and y-axis. 
+ 
+The position vector of the object is written by using Eq. (4.2), 
+)
+(
+)
+(
+)
+(
+0
+0
+t
+t
+v
+t
+r
+t
+r
+f
+av
+f
+ 
+(4.10)
+Since the velocity of the object increases uniformly, then we can write it 
+)
+(
+)
+(
+2
+1
+0t
+v
+t
+v
+v
+f
+av
+ 
+(4.11)
+as we have done in the previous Chapter. Replacing this result into the Eq. (4.11), then we get 
+the position vector of the object in terms of velocity and acceleration: 
+)
+(
+)
+(
+)
+(
+0
+0
+t
+t
+v
+t
+r
+t
+r
+f
+av
+f
+ 
+)
+(
+)
+(
+)
+(
+2
+1
+)
+(
+)
+(
+0
+0
+0
+t
+t
+t
+v
+t
+v
+t
+r
+t
+r
+f
+f
+f
+ 
+(4.12)
+and since the final velocity is given as in Eq. (4.8), then the result for the position vector in 
+terms of the initial values can be given as 
+)
+(
+)
+(
+)
+(
+2
+1
+)
+(
+)
+(
+0
+0
+0
+t
+t
+t
+v
+t
+v
+t
+r
+t
+r
+f
+f
+f
+ 
+)
+(
+)
+(
+)
+(
+)
+(
+2
+1
+)
+(
+)
+(
+0
+0
+0
+0
+0
+t
+t
+t
+v
+t
+t
+a
+t
+v
+t
+r
+t
+r
+f
+f
+f
+ 
+2
+0
+0
+0
+0
+)
+(
+2
+1
+)
+(
+)
+(
+)
+(
+)
+(
+t
+t
+a
+t
+t
+t
+v
+t
+r
+t
+r
+f
+f
+f
+. 
+(4.13)
+It is noted that all variables are in 2-dimension. For simplicity this equation may be written as 
+follows by comparing the coefficient of  iˆ and jˆ . Since 
+)
+(
+)
+(
+)
+(
+f
+f
+f
+t
+y
+t
+x
+t
+r
+ 
+(4.14)
+then 
+2
+0
+0
+0
+)
+(
+2
+1
+)
+(
+)
+(
+)
+(
+t
+t
+a
+t
+t
+v
+t
+x
+t
+x
+f
+x
+f
+x
+f
+ 
+2
+0
+0
+0
+)
+(
+2
+1
+)
+(
+)
+(
+)
+(
+t
+t
+a
+t
+t
+v
+t
+y
+t
+y
+f
+y
+f
+y
+f
+ 
+(4.15)
+
+--- PAGE 5 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+5
+where the sub-indices “x” and “y” show the initial values of the parameters along the x-axis 
+and y-axis, again. 
+ 
+Projectile Motion  
+As we know well, the projectile motion is a particular kind of 2 dimensional motion. Firstly, 
+we will make the following assumptions:  
+ 
+The only force present is the force due to gravity.  
+ 
+The magnitude of the acceleration due to gravity is 
+2
+/
+8.9
+s
+m
+g
+g
+. We choose a 
+coordinate system in which the positive y-axis points up perpendicular to the earth's 
+surface. This definition gives us that 
+2
+/
+8.9
+)ˆ
+(
+s
+m
+j
+g
+ay
+ and
+0
+xa
+.  
+ 
+The rotation of the earth does not affect the motion. 
+Initial Conditions:  
+We choose the coordinate system so that the particle leaves the origin (
+0
+,0
+0
+0
+y
+x
+) at time 
+0
+it
+ with an initial velocity of 
+iv . The Procedure for Solving Projectile Motion Problems 
+are as followings: 
+ 
+1. We will separate the motion into the x (horizontal) part and y (vertical) part.  
+ 
+2. Then we will consider each part separately using the appropriate equations. The 
+equations of motion, for each component, become: 
+a. x-motion ( ax =0); 
+ 
+ 
+It is seen from Eq. (4.9) that the x-component of the velocity will only have 
+initial value. So, 
+.)
+(
+ˆ
+)
+cos(
+ˆ
+0
+0
+const
+i
+v
+v
+i
+v
+v
+x
+x
+x
+ 
+(4.16a) 
+i
+t
+v
+t
+x
+i
+t
+v
+t
+x
+x
+ˆ
+)
+cos(
+)
+(
+ˆ
+)
+(
+0
+0
+ 
+(4.16b) 
+b. y-motion (
+2
+/
+8.9
+)ˆ
+(
+s
+m
+j
+g
+ay
+); 
+ 
+ 
+It is seen that only the gravitational force is applied on the motion of the body ; 
+then the y-component of the velocity will be given as 
+j
+gt
+j
+v
+t
+v
+j
+gt
+j
+v
+t
+v
+y
+y
+y
+ˆ
+ˆ
+)
+sin(
+)
+(
+ˆ
+ˆ
+)
+(
+0
+0
+ 
+(4.17a) 
+j
+gt
+j
+t
+v
+j
+y
+t
+y
+j
+gt
+j
+t
+v
+j
+y
+t
+y
+y
+ˆ
+2
+1
+ˆ
+)
+sin(
+ˆ
+)
+(
+ˆ
+2
+1
+ˆ
+ˆ
+)
+(
+2
+0
+0
+2
+0
+0
+ 
+(4.17b) 
+We can also write the velocity equation that is time-independent (as we have done in previous 
+Chapter.) 
+)
+(
+2
+)
+(
+2
+0
+2
+t
+gy
+v
+t
+v
+y
+y
+ 
+(4.18)
+
+--- PAGE 6 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+6
+Note that this result is obviously just a magnitude. The direction of the velocity may be 
+decided by the values of the last term, position vector-y(t)-, of the equation. 
+3. Finally, we will solve the resulting system of equations for the unknown quantities.  
+ 
+It is also worth to practice on the results obtained above. If the time variable in Eq. (4.16b) is 
+inserted into the Eq. (4.17b), then it is seen that the position equation of the object becomes as 
+parabolic equation. 
+2
+2
+2
+)
+(
+cos
+2
+)
+tan(
+x
+v
+g
+x
+y
+ 
+(4.19) 
+It means that the path of the object in the projectile motion is parabolic: 
+2
+x
+c
+x
+b
+a
+y
+ 
+(4.20) 
+In the projectile motion, there will be a final distance on the x-axis the object arrives. If the 
+Eq. (4.19) is solved for x when y=0, then the range of projectile is found that 
+g
+v
+R
+)
+2
+sin(
+2
+0
+ 
+(4.21) 
+It is obvious that 
+
+45 for the max range, 
+max
+R
+. 
+ 
+The max height that the object reaches can be found by using the Eq. (4.18). Since the vertical 
+velocity will be “0” when the object reaches the highest height, then  
+)
+(
+2
+0
+2
+0
+t
+gy
+v y
+, and 
+j
+v
+v y
+ˆ
+)
+sin(
+0
+0
+, then 
+max
+2
+0
+2
+))
+(
+sin
+(
+0
+gy
+v
+, finally 
+g
+v
+y
+2
+)
+(
+sin 2
+2
+0
+max
+ 
+(4.22) 
+is found, see Figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.4: The projectile motion 
+ 
+The total time for all these motion is found by using Eq. (4.17a). Since the velocity of the 
+object is zero at a time “t” when it reaches at the highest point but the horizontal velocity has 
+some magnitude, then we can write 
+j
+gt
+j
+v
+j
+gt
+j
+v
+t
+v
+y
+y
+ˆ
+ˆ
+)
+sin(
+0
+ˆ
+ˆ
+)
+(
+0
+0
+ 
+(4.23) 
+then 
+g
+v
+t
+)
+sin(
+0
+ 
+(4.24)
+
+--- PAGE 7 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+7
+This is the time expression for the object that has reached the highest point, A, where the 
+vertical component of the velocity is “zero”. It is seen that it takes some time for that object 
+falling from point A to B since the projectile does a parabolic path. So, the total time for the 
+projectile to reach from 0 to B in a parabolic path is 
+g
+v
+t
+T
+)
+sin(
+2
+2
+0
+ 
+(4.25) 
+ 
+Examples and Problems 
+Question 4.1: 
+A bombardment aircraft having velocity of 180mi/h leaves its bomb with 300 angle downward 
+in horizontal line. The horizontal distance between the point the bomb leaved and the point 
+where it hits the ground is 701m. 
+a) Find the height at which the aircraft leaves the bomb and 
+b) Find the flight time of the bomb. 
+ 
+ 
+Solution 4.1: 
+We are given: 
+,
+701
+,
+30
+,
+/
+5.
+80
+/
+180
+0
+0
+0
+m
+x
+s
+m
+h
+mi
+v
+ 
+ 
+The point where the bomb is leaved is assumed to be “0” point. Then 
+)
+cos(
+)
+cos(
+ˆ
+2
+1
+ˆ
+)
+sin(
+ˆ
+2
+1
+)
+sin(
+,0
+0
+0
+0
+0
+2
+0
+0
+2
+0
+0
+0
+v
+x
+t
+ti
+v
+x
+and
+j
+gt
+jt
+v
+j
+y
+y
+at
+t
+v
+y
+y
+y
+ 
+ 
+If we replace “t” in the equation of height, then 
+j
+v
+x
+g
+j
+v
+x
+v
+jy
+then
+j
+gt
+jt
+v
+jy
+ˆ
+)
+cos(
+2
+1
+ˆ
+)
+cos(
+)
+sin(
+0
+ˆ
+,ˆ
+2
+1
+ˆ
+)
+sin(
+0
+ˆ
+2
+0
+0
+0
+0
+0
+2
+0
+ 
+ 
+The solution of the is equation for the unknown, y , gives us that 
+j
+y
+ˆ
+900 
+ 
+This means that the bomb goes downward vertically. To find the time for the bomb to reach 
+the ground is 
+s
+t
+s
+m
+m
+t
+v
+x
+t
+15
+.
+10
+)
+30
+cos(
+/
+5.
+80
+701
+)
+cos(
+0
+0
+
+--- PAGE 8 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+8
+ 
+ 
+ 
+ 
+Question 4.2: 
+Assume that your young sister swings on a rope above the local swimming hole on a hot day 
+in her summer holiday (See Figure 4.5). She lets go of the rope when her initial velocity is 
+2.05 m/s at an angle of 35.0° above the horizontal. If her flight in air takes for 1.10 s, how 
+high above the water was she when she let go of the rope? 
+ 
+ 
+Solution 4.2: 
+We are given: 
+s
+t
+s
+m
+v
+Flight
+10
+.1
+35
+/
+05
+.2
+0
+0
+ 
+Firstly, we should find the velocity vectors in x and y- directions: 
+)ˆ
+(
+/
+176
+.1
+)
+35
+sin(
+05
+.2
+ˆ
+)
+sin(
+0
+0
+0
+j
+s
+m
+v
+j
+v
+v
+y
+y
+ 
+)ˆ(
+/
+679
+.1
+ˆ)
+35
+cos(
+05
+.2
+ˆ)
+cos(
+0
+0
+0
+i
+s
+m
+i
+x
+i
+v
+x
+y
+y
+ 
+At the end of the flight time, she will enter 
+into the water. 
+ 
+Since the final height is “0” then the total 
+displacement in the vertical position is 
+just 
+j
+gt
+j
+t
+v
+j
+y
+then
+j
+gt
+jt
+v
+j
+y
+jy
+Flight
+Flight
+ˆ
+2
+1
+ˆ
+)
+sin(
+ˆ
+0
+ˆ
+2
+1
+ˆ
+)
+sin(
+ˆ
+ˆ
+2
+0
+0
+2
+0
+0
+ 
+Where the velocity vector is taken “+” since the motion is 350 upward initially. Then 
+j
+s
+s
+m
+j
+s
+s
+m
+j
+y
+j
+gt
+j
+t
+v
+j
+y
+Flight
+Flight
+y
+ˆ
+)
+10
+.1
+)(
+/
+8.9
+(
+2
+1
+ˆ
+)
+10
+.1
+)(
+/
+176
+.1(
+ˆ
+ˆ
+2
+1
+ˆ
+ˆ
+2
+2
+0
+2
+0
+0
+ 
+then the initial height is found as 
+)ˆ
+(
+641
+.4
+ˆ
+0
+j
+m
+j
+y
+ 
+It should be noted that the result means that the motion is in (-) vertical direction! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.5: Swinging girl on a rope above water
+
+--- PAGE 9 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+9
+Part-2 
+Circular Motion in Two Dimensions (Uniform Speed) 
+A particle moving along a circular path constant speed is said to be in uniform circular 
+motion. As the particle moves around the circle, its angular position on the circle changes. So 
+being a tangent at each position, the velocity vector is perpendicular to the position vector r. 
+Since the speed of the particle is constant (for the first case) so that the magnitude of the 
+velocity is constant; but the direction of the velocity vector is changing from one position to 
+another position as time goes. Therefore such type of motion has an acceleration whose 
+magnitude remains constant but direction changes from one position to another one. This 
+acceleration is called “centrifugal acceleration”. The difference between centripetal and 
+centrifugal accelerations is quite simple - centrifugal forces do not exist while centripetal 
+accelerations do.  As with most simple statements, there is a great deal more to understanding 
+this issue than simply memorizing which of the accelerations does or does not exist.  To 
+understand the centripetal acceleration and the fictitious centrifugal acceleration, let's first 
+examine the words centripetal and centrifugal. 
+ centri is derived from the Latin centr meaning "center." 
+ petal is derived from the Latin petere meaning "seek." 
+ fugal is derived from the Latin fugere meaning "to flee" as in fugitive. 
+So, literally, the centripetal acceleration is a "center-seeking" force.  The fictitious centrifugal 
+acceleration is, literally, a non-existing "center-fleeing" acceleration. 
+ 
+Let us impose on a point-mass object the condition that it is on a 
+circular path at any time. The vector velocity of this object is always 
+tangent to the circle therefore it changes direction in time, as the 
+object moves along the circle. Consequently, the circular motion is a 
+accelerated motion, simply because the direction of vector velocity 
+changes, even if its magnitude (speed) remains constant. The 
+problem now becomes to find out what force generates the 
+acceleration that keeps the object moving on a circle. 
+ 
+Consider an initial object position A and a position B where the 
+object reaches after a time interval t (Figure 6). The velocity vectors 
+at A and B are shown in the Figure as v0 and vf, respectively. The arc 
+of circle traveled by the object in the time interval t is called s.  Force simplicity, in this 
+example, the magnitude of velocity (speed) to be constant.  Such a motion of an object on a 
+circle, with constant speed (v), is called "uniform circular motion".  Again, such a motion is 
+an "accelerated motion" just because the direction of the vector velocity changes. Since the 
+object displaces its position with time, its displacement changes by an amount of 
+ in 
+t 
+time. The rate of change of this angular displacement with respect to time is given by 
+t
+w
+ 
+(4.26)
+and this change is called “angular velocity”. For the limit condition;  
+
+w
+dt
+d
+t
+w
+t
+0
+lim
+. 
+(4.27)
+Since the angle changes from 0 to 2 in time T, then the angular velocity can be written as 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6: Diagram of a 
+point-mass object moving 
+along a circular path. 
+ 
+0
+
+--- PAGE 10 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+10
+T
+w
+2
+. 
+where the T is the “period” of the particle that takes time for “1 revolution”. So, the revolution 
+for 1 second is written as 
+T
+f
+1 . 
+This is the “frequency” of the particle orbiting around a center. Then the angular velocity can 
+be written as 
+f
+w
+2
+. 
+ 
+The linear velocity of the object is written as, 
+w
+r
+v
+t
+r
+t
+w
+v
+r
+t
+w
+r
+s
+t
+s
+v
+. 
+(4.28)
+and so that the relation between the angular velocity and the linear velocity is given by the 
+equation 
+wr
+v
+. 
+(4.29)
+It should be noted that the linear velocity does not change in “r” direction; it only changes in 
+angular positions. Then it is concluded that the linear velocity has a magnitude of “wr” but its 
+direction vector in “r” remains constant. Because of this, there is just magnitude-relation 
+between w and v. 
+ 
+Since the acceleration, a, is the change in velocity over time: 
+t
+v
+a
+   
+(4.30)
+We notice that acceleration is a vector, v, multiplied by a scalar, 1/ t.  So, the direction of 
+the acceleration will be the same as the direction of the change in velocity, v.  So what is the 
+vector "change of velocity" v? 
+The "change" in any physical quantity is defined as the final quantity minus the initial 
+quantity.  So, the change in velocity is the final vector velocity minus the initial vector 
+velocity: 
+0v
+v
+v
+f
+   
+(4.31)
+ 
+To find the vector v we graphically subtract vector v0 from vector vf 
+(Figure 7).  Note: for clarity, we have moved the points of origin of both 
+vectors vf and v0 to a common point, out of Figure 6.  (Remember, since 
+a vector is defined only by magnitude and direction, its point of origin is 
+irrelevant.)  Figure 7 shows the vector v in red color.  We can now 
+transport it back into the initial Figure (Figure 6), preserving its 
+magnitude and direction as given in Figure 7.  After executing this 
+operation, we call the Figure 8. So, we can draw in Figure 8 all three 
+vectors (a - blue, F- green, and v - red) parallel to each other (Here, the 
+“F” is the force that is the subject of next Chapter.) 
+ 
+ 
+ 
+Figure 7: Evaluation 
+of 
+0v
+v
+v
+f
+
+--- PAGE 11 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+11
+It should be noticed the direction of all these three vectors; they are 
+all directed toward the center of the circle and are, therefore, 
+"center-seeking" or centripetal. 
+ 
+Derivation of an Analytic Expression for “a” 
+Now, in order to derive an analytic expression for “a”, we use the 
+following property of two "similar" isosceles triangles, as show in 
+Figure 9: 
+ 
+ 
+For the triangles in 
+Figure 6 and Figure 
+7, this relationship is: 
+ 
+ 
+from which: 
+s
+r
+v
+v
+ 
+(4.33)
+Divide this equation by the time interval t: 
+t
+s
+r
+v
+t
+v
+ 
+(4.34)
+then 
+r
+v
+a
+v
+r
+v
+a
+r
+r
+2
+ 
+(4.35)
+This expression represents the magnitude of ar (centripetal acceleration). If we want to 
+express them as vectors, it becomes: 
+r
+r
+v
+ar
+ˆ
+2
+ 
+(4.36)
+where (r-hat) represents the "unit vector" along r and it is obvious that the acceleration has 
+minus sign in direction. The centripetal acceleration is along the inward radius. It can be seen 
+in Figure 7 that as v becomes smaller and smaller then its direction becomes inward radius 
+(it directs into the origin “0”!). 
+In the Cartesian coordinates, the variables can be understood more easily as seen in Figure 10. 
+Figure 10: Positional vector diagram of a point-mass object moving along a circular path and 
+its x and y- axis components. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8:  Same as Figure 
+6, showing the vectors F, a, 
+and v. 
+ 
+ 
+Figure 9: The relation between the sides of 
+"similar" isosceles triangles. 
+v
+v
+s
+r
+   
+(4.32)
+0
+
+--- PAGE 12 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+12
+The location of the object at any moment – that means the equation of motion - relative to the 
+center of rotation is given by 
+j
+r
+i
+r
+j
+r
+i
+r
+t
+r
+y
+x
+ˆ
+)
+sin(
+ˆ)
+cos(
+ˆ
+ˆ
+)
+(
+ 
+(4.37)
+using the Equation (4.26), then 
+j
+wt
+r
+i
+wt
+r
+t
+r
+ˆ
+)
+sin(
+ˆ)
+cos(
+)
+(
+ 
+(4.38)
+where i and j, with the little hats, are the unit vectors in the x and y-directions. The Eq. (4.38) 
+is the equation of motion for the body in the Cartesian coordinates. 
+ 
+The object's velocity is easily found by taking the derivative of its location with respect to 
+time: 
+j
+wt
+rw
+i
+wt
+rw
+t
+v
+j
+wt
+r
+i
+wt
+r
+dt
+d
+dt
+t
+r
+d
+t
+v
+ˆ
+)
+cos(
+ˆ)
+sin(
+)
+(
+ˆ
+)
+sin(
+ˆ)
+cos(
+)
+(
+)
+(
+ 
+(4.39)
+This velocity is always tangent to the circle or equivalently, 
+)
+(t
+v
+ is always perpendicular to 
+position vector, r, and 
+0
+)
+(
+r
+t
+v
+ 
+ 
+The object's acceleration is easily found by taking the derivative of its velocity with respect to 
+time: 
+)
+(
+)
+(
+ˆ
+)
+sin(
+ˆ)
+cos(
+)
+(
+ˆ
+)
+sin(
+ˆ)
+cos(
+)
+(
+ˆ
+)
+cos(
+ˆ)
+sin(
+)
+(
+)
+(
+2
+2
+2
+2
+t
+r
+w
+t
+a
+j
+wt
+r
+i
+wt
+r
+w
+t
+a
+j
+wt
+rw
+i
+wt
+rw
+t
+a
+j
+wt
+rw
+i
+wt
+rw
+dt
+d
+dt
+t
+v
+d
+t
+a
+ 
+(4.40)
+It is obviously seen that the direction of the object's acceleration 
+)
+(t
+a
+ is opposite r , i.e., 
+)
+(t
+a
+ 
+directed towards the center of motion. 
+ 
+Examples and Problems 
+Question 4.3: 
+What is the centripetal acceleration of the satellite orbiting at 640km above the Equator if it 
+takes 98min for one revolution around the earth? (rearth=6370km) (Note that the result will the 
+“g” at this height!) 
+ 
+Solution 4.3: 
+We are given: 
+s
+t
+km
+r
+km
+h
+earth
+8580
+min
+98
+6370
+,
+640
+ 
+ 
+Since the radius at which the satellite orbits is the distance of the satellite to the center of the 
+earth, then the total distance of it to the orbiting center is 
+m
+km
+r
+km
+km
+r
+h
+r
+earth
+6
+10
+01
+.7
+7010
+6370
+640
+ 
+ 
+then the acceleration of the satellite is
+
+--- PAGE 13 ---
+Lecture 4: Motion in Two Dimensions 
+ 
+ 
+ 
+13
+2
+2
+2
+6
+2
+2
+2
+2
+2
+2
+/
+0.8
+)
+5880
+(
+)
+10
+01
+.7
+(
+4
+4
+2
+s
+m
+s
+m
+a
+t
+r
+t
+t
+r
+t
+v
+a
+ 
+ 
+ 
+Question 4.4: 
+An object orbiting uniformly around a center, having radius of 1km, spreads 
+01 angle in 0.1s.  
+a. What is the linear velocity of this object? 
+b. What is the acceleration of the object? 
+c. Find the position vector in x and y components of that object for t=1s. 
+ 
+Solution 4.4: 
+We are given: 
+km
+r
+s
+t
+1
+,
+1.0
+,
+10
+ 
+ 
+ 
+Since the object displaces 1degree in 0.1second, then 
+sec
+/
+36
+2
+1.0
+)
+360
+/
+2
+*
+1(
+1.0
+1
+0
+0
+0
+rad
+w
+t
+w
+ 
+ 
+Then the linear velocity 
+s
+m
+v
+rad
+km
+wr
+v
+/
+45
+.
+174
+36
+2000
+sec
+/
+36
+2
+*
+1
+ 
+ 
+The acceleration is 
+2
+2
+2
+/
+43
+.
+30
+1000
+45
+.
+174
+s
+m
+a
+r
+v
+a
+ 
+ 
+ 
+The position vector is given by 
+j
+wt
+r
+i
+wt
+r
+t
+r
+ˆ
+)
+sin(
+ˆ)
+cos(
+)
+(
+ 
+then 
+j
+t
+i
+t
+t
+r
+ˆ
+)
+36
+2
+sin(
+1000
+ˆ)
+36
+2
+cos(
+1000
+)
+(
+. 
+For the 1second, the position vector components are: 
+j
+i
+t
+r
+j
+i
+t
+r
+ˆ
+65
+.
+173
+ˆ
+81
+.
+984
+)1
+(
+ˆ
+)1
+*
+36
+2
+sin(
+1000
+ˆ)1
+*
+36
+2
+cos(
+1000
+)1
+(
+. 
+So, 
+x=984.81m and y=173.65m

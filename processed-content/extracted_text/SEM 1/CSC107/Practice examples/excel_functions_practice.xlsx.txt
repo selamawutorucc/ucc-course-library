@@ -1,0 +1,56 @@
+
+--- SHEET: Purchase Order ---
+ | Food Service Supplies
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  |  |  |  | 
+ITEM | QUANTITY | UNIT PRICE | LINE TOTAL | ORDERED | RECEIVED | IN TRANSIT
+Tomatoes (case of 12) | 3 | 17.44 | =B3*C3 | 2015-10-12 00:00:00 | 2015-10-15 00:00:00 | 
+Black Beans (case of 10) | 5 | 20.14 | =B4*C4 | 2015-10-12 00:00:00 | 2015-10-17 00:00:00 | 
+All Purpose Flour (50 lb.) | 5 | 14.05 | =B5*C5 | 2015-10-12 00:00:00 | 2015-10-14 00:00:00 | 
+Corn Meal/Maza (25 lb.) | 5 | 18.69 | =B6*C6 | 2015-10-12 00:00:00 | 2015-10-15 00:00:00 | 
+Brown Rice (25 lb.) | 5 | 10.99 | =B7*C7 | 2015-10-12 00:00:00 | 2015-10-15 00:00:00 | 
+Lime Juice (1 gallon) | 5 | 11.99 | =B8*C8 | 2015-10-16 00:00:00 | 2015-10-20 00:00:00 | 
+Tomato Juice (case of 10) | 3 | 19.49 | =B9*C9 | 2015-10-16 00:00:00 | 2015-10-19 00:00:00 | 
+Hot Sauce (1 gallon) | 8 | 7.35 | =B10*C10 | 2015-10-16 00:00:00 | 2015-10-20 00:00:00 | 
+Salsa, Medium (1 gallon) | 12 | 8.47 | =B11*C11 | 2015-10-19 00:00:00 | 2015-10-23 00:00:00 | 
+Olive Oil (2.5 gallon) | 4 | 28.69 | =B12*C12 | 2015-10-19 00:00:00 | 2015-10-24 00:00:00 | 
+ |  | TOTAL |  |  |  | 
+PURCHASE ORDER SUMMARY |  |  |  |  |  | 
+Total items ordered |  |  |  |  |  | 
+Most expensive item |  |  |  |  |  | 
+Average days in transit |  |  |  |  |  | 
+
+--- SHEET: Cookie Sales ---
+Frontier Kids Cookie Sales |  |  |  |  |  |  |  |  |  |  |  |  | 
+Troop Name | Troop ID | Units Sold |  |  |  |  |  |  |  |  |  |  | 
+North Bend | #3506 | 1004 |  |  |  |  |  |  |  |  |  |  | 
+Silver Lake | #2745 | 938 |  |  |  |  |  |  |  |  |  |  | 
+Mountain Top | #1038 | 745 |  |  |  |  |  |  |  |  |  |  | 
+Rocky Trail | #3759 | 729 |  |  |  |  |  |  |  |  |  |  | 
+Forest Path | #4157 | 862 |  |  |  |  |  |  |  |  |  |  | 
+Green Valley | #1932 | 890 |  |  |  |  |  |  |  |  |  |  | 
+River View | #4233 | 775 |  |  |  |  |  |  |  |  |  |  | 
+ | Average Units |  |  |  |  |  |  |  |  |  |  |  | 
+
+--- SHEET: Challenge ---
+First Quarter Grades |  |  |  |  |  |  |  |  | 
+Student Name | Unit 1 Quiz 1 | Unit 1 Test | Unit 2 Quiz 1 | Unit 2 Quiz 2 | Average |  |  |  | 
+Jackson Love | 70 | 75 | 88 | 90 |  |  |  |  | 
+Priya Patel | 97 | 100 | 92 | 95 |  |  |  |  | 
+Sharia Clemmons | 95 | 97 | 45 | 79 |  |  |  |  | 
+Ming Lu | 91 | 93 | 89 | 95 |  |  |  |  | 
+Sadie Carter | 86 | 84 | 93 | 89 |  |  |  |  | 
+Jensen Howard | 54 | 70 | 87 | 72 |  |  |  |  | 
+Tyriq Hilton | 77 | 85 | 76 | 90 |  |  |  |  | 
+Maria Saldana | 100 | 96 | 93 | 87 |  |  |  |  | 
+Kyle Jacobs | 90 | 89 | 91 | 93 |  |  |  |  | 
+John Feinstein | 89 | 67 | 84 | 87 |  |  |  |  | 
+Carter Zhou | 75 | 68 | 82 | 83 |  |  |  |  | 
+Jose Marco Hernandez | 93 | 87 | 86 | 91 |  |  |  |  | 
+Betsy Michaels | 90 | 95 | 80 | 73 |  |  |  |  | 
+Dexter Cooper | 62 | 71 | 76 | 84 |  |  |  |  | 
+Quanisha Johnson | 100 | 98 | 86 | 89 |  |  |  |  | 
+Lowest Score |  |  |  |  |  |  |  |  | 
+Median Score |  |  |  |  |  |  |  |  | 
+Highest Score |  |  |  |  |  |  |  |  | 

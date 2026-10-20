@@ -1,0 +1,56 @@
+TITLE:   Determination of the Focal Length of a Converging Lens using Optical pins                                               (No parallax    method)
+AIM: To determine the focal length of a converging lens
+APARATUS: Convex lens, meter rule, white screen and optical pins 
+DIAGRAM
+THEORY
+	When a group of rays parallel to the axis pass through the focal point after being converged by the lens, the distance between the focal point and the lens is referred to as the focal distance or length.  If an object of is placed in front of a converging lens at a distance u from the lens it produces an image of distance, v on the screen. The image distance, object distance and the focal length of the lens are linked by the equation,  = +    
+Multiplying through by v 
+   = v+  v
+  = 1+ m
+where magnification,  
+Hence, 
+Therefore a graph of magnification against image distance yields a straight line with a negative intercept and a slope equal to 1/f.  
+                                                                                                                                                                                                                   In the diagram above, l – d is the image distance and d is the object distance. Therefore   is equal to   which is equal to magnification m. A graph of   against l- d yields a straight line with a negative intercept and a slope equal to 1/f.    
+METHOD
+A screen, object pin O, the lens L, and a search pin S were placed on an optical bench as in the diagram above. The pins were placed in such a way that their tips were lying approximately along the axis of the lens.
+The object pin O was positioned at a distance from the lens. An eye was placed behind the search pin S and the search pin was moved towards or away from the lens until it was in no parallax position with the image of the object pin. The distance between the search pin and the object pin was measured as l. l-d was calculated.  The experiment was repeated for other values of the object distance d and in each case l-d,  was calculated. The results were tabulated and a graph of  as ordinate and  as abscissa was plotted. The slope was calculated and the intercept determined from the graph. The reciprocal of the slope was also found and its significance indicated.
+RESULTS
+GRAPH 1 
+CALCULATIONS
+Using   where m=0.0976cm-1, y=1.04 and x=20.8
+The reciprocal of the slope (m) =  
+DISCUSSION
+Using the lens equation   , it was possible to derive the equation .The graph to be produced by the experiment using that equation had to result in a straight line passing through the intercept of -1. As shown above, this was achieved. The straight line of the graph resulted in a slope of 0.0976cm-1 which represented  from the equation given. So the reciprocal of the slope gives the focal length (f) of the lens used and this was 10.2cm approximately.
+The intercept was also determined which was -0.98. This is approximately -1 which tells us that the equation is valid since the theoretical intercept corresponds with the experimental intercept.
+SOURCES OF ERROR
+Error may be due to spherical and chromatic aberrations of lens.
+The search pin as well as the object pin was too loosely attached to the optical bench. 
+Error caused may be due to parallax between the search pin and the image of the object pin.
+Error caused may also be due to the scratches on the lens.
+PRECAUTIONS
+It was ensured that the pins were in no parallax position.
+It was ensured that the tips of the search pins were in line with principal axis of the lens.
+3. The eye was placed exactly in front of the search pin and not at an angle above or below the pins.
+4. The lens was wiped thoroughly to make it clean and clear when looking through it.
+5. A screen was placed behind the set up too ensure a clear view of the images formed.
+6. The experiment was set up in a well lighted surrounding to produce clear images.
+CONCLUSION
+The focal length of the converging lens used in the experiment is 10.2cm. 
+REFERENCE
+1. Serway and Faughn; COLLEGE PHYSICS, 6th edition, Brooks / Cole- Thomson Learning, CA, 2003. Pages 730-733
+2. Young and Freedman (1999). University Physics, 9th edition. Addison-Wesley Publishing Company; New York. Page 1085
+
+School of Medical Sciences
+        MED 112 General Physics II (Practical)
+Experiment 9
+
+
+Student number: SM/SMS/09/0048
+Date: Thursday 4th March 2010
+ |  |  | 
+20.0 | 40.8 | 20.8 | 1.0400
+22.0 | 41.0 | 19.0 | 0.8636
+25.0 | 42.0 | 17.0 | 0.6800
+30.0 | 45.7 | 15.7 | 0.5200
+35.0 | 48.7 | 14.0 | 0.4000
+40.0 | 53.7 | 13.7 | 0.3420

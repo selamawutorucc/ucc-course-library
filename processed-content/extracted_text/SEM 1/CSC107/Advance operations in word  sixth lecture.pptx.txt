@@ -1,0 +1,313 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Word - Printing Documents
+
+Once you've created your document, you may want to print it to view and share your work offline. 
+
+It's easy to preview and print a document in Word using the Print pane.
+
+--- SLIDE 5 ---
+To access the Print pane
+Select the File tab. Backstage view will appear.
+
+
+
+
+Select Print. The Print pane will appear.
+
+
+
+
+--- SLIDE 6 ---
+To access the Print pane
+You can also access the Print pane by pressing Ctrl+P on your keyboard.
+
+--- SLIDE 7 ---
+Printing Documents
+
+--- SLIDE 8 ---
+Printing Documents
+
+--- SLIDE 9 ---
+To print a document
+Navigate to the Print pane, then select the desired printer.
+
+
+--- SLIDE 10 ---
+To print a document
+Enter the number of copies you want to print.
+
+
+--- SLIDE 11 ---
+To print a document
+Select any additional settings if needed.
+Click Print.
+
+
+--- SLIDE 12 ---
+To custom print a document
+If you'd like to print individual pages or page ranges, you'll need to separate each entry with a comma (1, 3, 5-7, or 10-14 for example).
+
+Navigate to the Print pane.
+In the Pages: field, enter the pages you want to print.
+
+Click Print.
+
+
+
+--- SLIDE 13 ---
+Word - Mail Merge
+Mail Merge is a useful tool that allows you to produce multiple letters, labels, envelopes, name tags, and more using information stored in a list, database, or spreadsheet. 
+
+When performing a Mail Merge, you will need a Word document (you can start with an existing one or create a new one) and a recipient list, which is typically an Excel workbook.
+
+--- SLIDE 14 ---
+To use Mail Merge
+Open an existing Word document or create a new one.
+From the Mailings tab, click the Start Mail Merge command and select Step-by-Step Mail Merge Wizard from the drop-down menu.
+
+--- SLIDE 15 ---
+Word - Mail Merge
+Mail Merge is a useful tool that allows you to produce multiple letters, labels, envelopes, name tags, and more using information stored in a list, database, or spreadsheet. 
+
+When performing a Mail Merge, you will need a Word document (you can start with an existing one or create a new one) and a recipient list, which is typically an Excel workbook.
+
+--- SLIDE 16 ---
+Word - Mail Merge
+The Mail Merge pane will appear and guide you through the six main steps to complete a merge.
+
+The following example demonstrates how to create a form letter and merge the letter with a recipient list.
+
+--- SLIDE 17 ---
+Word - Mail Merge
+Step 1
+From the Mail Merge task pane on the right side of the Word window, choose the type of document you want to create. In our example, we'll select Letters. Then click Next: Starting document to move to Step 2.
+
+--- SLIDE 18 ---
+Word - Mail Merge
+Step 2
+Select Use the current document, then click Next: Select recipients to move to Step 3.
+
+--- SLIDE 19 ---
+Word - Mail Merge
+Step 3:
+Now you'll need an address list so Word can automatically place each address into the document.
+
+The list can be in an existing file, such as an Excel workbook, or you can type a new address list from within the Mail Merge Wizard.
+
+--- SLIDE 20 ---
+Word - Mail Merge
+Step 3:
+Select Use an existing list, then click Browse to select the file.
+
+
+--- SLIDE 21 ---
+Word - Mail Merge
+Step 3:
+Locate your file, then click Open.
+
+
+--- SLIDE 22 ---
+Word - Mail Merge
+Step 3:
+If the address list is in an Excel workbook, select the worksheet that contains the list, then click OK.
+
+--- SLIDE 23 ---
+Word - Mail Merge
+Step 3:
+In the Mail Merge Recipients dialog box, you can check or uncheck each box to control which recipients are included in the merge. By default, all recipients should be selected. When you're done, click OK.
+
+--- SLIDE 24 ---
+Word - Mail Merge
+Step 3:
+In the Mail Merge Recipients dialog box, you can check or uncheck each box to control which recipients are included in the merge. By default, all recipients should be selected. When you're done, click OK.
+
+--- SLIDE 25 ---
+Word - Mail Merge
+Step 3:
+Click Next: Write your letter to move to Step 4.
+
+--- SLIDE 26 ---
+Word - Mail Merge
+Step 4:
+Now you're ready to write your letter. When it's printed, each copy of the letter will basically be the same; only the recipient data (such as the name and address) will be different. 
+
+You'll need to add placeholders for the recipient data so Mail Merge knows exactly where to add the data.
+
+--- SLIDE 27 ---
+Word - Mail Merge
+Step 4:
+To insert recipient data:
+Place the insertion point in the document where you want the information to appear.
+
+--- SLIDE 28 ---
+Word - Mail Merge
+Step 4:
+Choose one of the placeholder options. In our example, we'll select Address block.
+
+--- SLIDE 29 ---
+Word - Mail Merge
+Step 4:
+Depending on your selection, a dialog box may appear with various customization options. Select the desired options, then click OK.
+
+
+--- SLIDE 30 ---
+Word - Mail Merge
+Step 4:
+A placeholder will appear in your document (for example, «AddressBlock»).
+
+
+--- SLIDE 31 ---
+Word - Mail Merge
+Step 4:
+Add any other placeholders you want. In our example, we'll add a Greeting line placeholder just above the body of the letter.
+
+
+--- SLIDE 32 ---
+Word - Mail Merge
+Step 4:
+When you're done, click Next: Preview your letters to move to Step 5.
+.
+
+
+--- SLIDE 33 ---
+Word - Mail Merge
+Step 5:
+Preview the letters to make sure the information from the recipient list appears correctly in the letter. You can use the left and right scroll arrows to view each version of the document.
+
+
+
+
+--- SLIDE 34 ---
+Word - Mail Merge
+Step 5:
+If everything looks correct, click Next: Complete the merge to move to Step 6.
+
+
+
+--- SLIDE 35 ---
+Word - Mail Merge
+Step 6:
+Click Print to print the letters.
+
+--- SLIDE 36 ---
+Word - Mail Merge
+Step 6:
+A dialog box will appear. Decide if you want to print All of the letters, the current document (record), or only a select group, then click OK. In our example, we'll print all of the letters.
+
+--- SLIDE 37 ---
+Word - Mail Merge
+Step 6:
+The Print dialog box will appear. Adjust the print settings if needed, then click OK. The letters will be printed.
+
+--- SLIDE 38 ---
+Word - SmartArt Graphics
+SmartArt allows you to communicate information with graphics instead of just using text. 
+
+There are a variety of styles to choose from, which you can use to illustrate many different types of ideas.
+
+--- SLIDE 39 ---
+To insert a SmartArt graphic
+Place the insertion point in the document where you want the SmartArt graphic to appear.
+
+From the Insert tab, select the SmartArt command in the Illustrations group.
+
+--- SLIDE 40 ---
+To insert a SmartArt graphic
+A dialog box will appear. Select a category on the left, choose the desired SmartArt graphic, then click OK.
+
+--- SLIDE 41 ---
+To insert a SmartArt graphic
+The SmartArt graphic will appear in your document.
+
+--- SLIDE 42 ---
+To add text to a SmartArt graphic
+Select the SmartArt graphic. The text pane should appear on the left side. 
+
+If it doesn't appear, you can click the small arrow on the left edge of the graphic.
+
+Enter text next to each bullet in the text pane. The text will appear in the corresponding shape. 
+
+It will be resized automatically to fit inside the shape.
+
+--- SLIDE 43 ---
+To add text to a SmartArt graphic
+NOTE: You can also add text by clicking the desired shape and then typing. This works well if you only need to add text to a few shapes. However, for more complex SmartArt graphics, working in the text pane is often faster and easier.
+
+
+--- SLIDE 44 ---
+To add text to a SmartArt graphic
+
+--- SLIDE 45 ---
+To reorder, add, and delete shapes
+To demote a shape, select the desired bullet, then press the Tab key. The bullet will move to the right, and the shape will move down one level.
+
+--- SLIDE 46 ---
+To reorder, add, and delete shapes
+To promote a shape, select the desired bullet, then press the Backspace key (or Shift+Tab). The bullet will move to the left, and the shape will move up one level.
+
+--- SLIDE 47 ---
+To reorder, add, and delete shapes
+To add a new shape, place the insertion point after the desired bullet, then press Enter. A new bullet will appear in the text pane, and a new shape will appear in the graphic.
+
+--- SLIDE 48 ---
+To reorder, add, and delete shapes
+To remove a shape, keep pressing Backspace until the bullet is deleted. The shape will then be removed. In our example, we'll delete all of the shapes without text.
+
+--- SLIDE 49 ---
+Organizing SmartArt from the Design tab
+If you'd prefer not to use the text pane to organize your SmartArt, you can use the commands on the Design tab in the Create Graphic group. 
+
+Just select the shape you want to modify, then choose the desired command.
+
+--- SLIDE 50 ---
+Organizing SmartArt from the Design tab
+Promote and Demote: Use these commands to move a shape up or down between levels.
+
+
+
+Move Up and Move Down: Use these commands to change the order of shapes on the same level.
+
+--- SLIDE 51 ---
+Organizing SmartArt from the Design tab
+Add Shape: Use this command to add a new shape to your graphic. You can also click the drop-down arrow for more exact placement options.
+
+--- SLIDE 52 ---
+Customizing SmartArt
+There are several SmartArt styles, which allow you to quickly modify the look and feel of your SmartArt. 
+To change the style, select the desired style from the SmartArt styles group.
+
+--- SLIDE 53 ---
+Customizing SmartArt
+You have a variety of color schemes to use with SmartArt. 
+To change the colors, click the Change Colors command and choose the desired option from the drop-down menu.
+
+--- SLIDE 54 ---
+Customizing SmartArt
+You can also customize each shape independently. Just select any shape in the graphic, then choose the desired option from the Format tab.
+
+--- SLIDE 55 ---
+To change the SmartArt layout
+From the Design tab, click the More drop-down arrow in the Layouts group.
+
+--- SLIDE 56 ---
+To change the SmartArt layout
+Choose the desired layout, or click More Layouts to see even more options.
+
+
+
+
+The selected layout will appear.
+
+
+--- SLIDE 57 ---
+
+--- SLIDE 58 ---
+THANK YOU

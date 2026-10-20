@@ -1,0 +1,7359 @@
+
+--- PAGE 1 ---
+674 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+36 
+Image formation 
+ 
+CHAPTER OUTLINE 
+ 
+36.1  
+Images Formed by Flat Mirrors 
+36.2  
+Images Formed by Spherical Mirrors 
+36.3  
+Images Formed by Refraction 
+36.4 
+Images Formed by Thin Lenses 
+36.5 
+Lens Abberations 
+36.6 
+The Camera 
+36.7  
+The Eye 
+36.8 
+The Simple Magnifier 
+36.9 
+The Compound Microscope 
+36.10 
+The Telescope 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ36.1 
+Answer (b). A change in the medium in contact with the outer 
+surface will result in a change in refraction at the outer surface if the 
+surface is curved. Refraction should be limited to the inner surface 
+because the medium inside (air) does not change. The outer surface 
+should be flat so that it will not produce a fuzzy or distorted image 
+for the diver when the mask is used either in air or in water. 
+OQ36.2 
+(i) 
+Answer (c). The image is an upright and virtual at first then 
+inverted and real. A concave (converging) mirror can produce 
+real and virtual images depending on the object distance.  
+ 
+(ii) Answer (c).  When the object passes through the focal point, the 
+image switches from virtual to real.
+
+--- PAGE 2 ---
+Chapter 36     675 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ36.3 
+Answer (b). A converging lens forms real, inverted images of real 
+objects located outside the focal point.  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+50.0cm + 1
+q =
+1
+15.0cm
+→
+q = 21.4cm
+M = −q
+p = −21.4 cm
+50.0 cm  = −0.429
+ 
+ 
+The positive image distance confirms that the image is real, and the 
+negative magnification confirms that the image is inverted. Also,  
+M = –0.429 tells us the image is smaller than the object.  
+OQ36.4 
+(i) 
+Answer (e). A converging lens forms real, inverted images of 
+real objects located farther than the focal length (p > f), and 
+virtual, upright images of real objects located closer than the 
+focal length (p < f).  
+ 
+(ii) Answers (a) and (c). A diverging lens forms a virtual, upright, 
+and diminished image of any real object located any distance 
+from the lens. 
+OQ36.5 
+Answer (d). The entire image is visible, but only at half the intensity. 
+Each point on the object is a source of rays that travel in all 
+directions. Thus, light from all parts of the object goes through all 
+unblocked parts of the lens and forms an image. If you block part of 
+the lens, you are blocking some of the rays, but the remaining ones 
+still come from all parts of the object. 
+OQ36.6 
+Answer (d). The image is upright, so the magnification is positive:  
+ 
+ 
+ 
+M = −q
+p :
++ 1.50 =
+−q
+30.0 cm
+→
+q = −45.0 cm 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+30.0 cm +
+1
+−45.0 cm = 1
+f
+→
+f = 90.0 cm 
+OQ36.7 
+Answer (b). For lens 1, the object distance p1 = 50.0 cm: 
+ 
+ 
+ 
+1
+p1
++ 1
+q1
+= 1
+f1
+:
+1
+50.0 cm + 1
+q1
+=
+1
+15.0 cm
+→
+q1 = 21.4 cm 
+ 
+The image distance is positive, so the image is real and forms 21.4 cm 
+to the right of lens 1.  
+ 
+The image of lens 1 is the object of lens 2. For lens 2, the object 
+distance p2 = 35.0 cm – 21.4 cm = 13.6 cm: 
+ 
+ 
+ 
+1
+p2
++ 1
+q2
+= 1
+f2
+:
+1
+13.6 cm + 1
+q2
+=
+1
+10.0 cm
+→
+q2 = 38.0 cm
+
+--- PAGE 3 ---
+676     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The image distance is positive, so the image is real and forms 38.0 cm 
+to the right of lens 2.  
+ 
+From Equation 36.18, the overall magnification is  
+ 
+ 
+ 
+M = M1M2 =
+−q1
+p1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−q2
+p2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+−21.4cm
+50.0cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+−38.0cm
+13.6cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.20 
+OQ36.8 
+Answer (c). The amount of light focused on the film by a camera is 
+proportional to the area of the aperture through which the light 
+enters the camera. Since the area of a circular opening varies as the 
+square of the diameter of the opening, the light reaching the film is 
+proportional to the square of the diameter of the aperture. Thus, 
+increasing this diameter by a factor of 3 increases the amount of light 
+by a factor of 9.  
+OQ36.9 
+Answer (b). The angle of refraction for the light coming from the fish 
+to the person is 60°. The angle of incidence is smaller, so the fish is 
+deeper than it appears. [Refer to CQ35.16.]  
+OQ36.10 
+The ranking is c > e > a > d > b. In case (c) the object distance is 
+effectively infinite. In (e) the object distance is very large compared to 
+the focal length, but not infinite. In (a) the object distance is a little 
+larger than the focal length. In (d) the object distance is equal to the 
+focal length.  In (b) the object distance is less than the focal length.   
+OQ36.11 
+Answer (d). We can answer this question conceptually by noting that 
+if the lens were surrounded by water, parallel light rays passing into 
+and out of the lens would experience smaller changes in the index of 
+refraction, so they would bend less, and so would focus farther from 
+the lens.  
+ 
+We can answer this question quantitatively if we consider the 
+derivation of the lens makers’ equation (Equation 36.15) for the 
+general case of the lens being surrounded by a medium of index n0. 
+We would conclude that Equation 36.15 takes the general form  
+ 
+ 
+ 
+1
+f =
+n
+n0
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+So, for a lens of crown glass (n = 1.52, from Table 35.1) surrounded 
+by air, n0 = 1, we have  
+ 
+ 
+ 
+1
+f = 1.52 −1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟ = 
+1
+15.0 cm
+
+--- PAGE 4 ---
+Chapter 36     677 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+but for a lens surrounded by water, n0 = 1.333, and we have  
+ 
+ 
+ 
+1
+f =
+1.52
+1.333 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1.52
+1.333 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.52 −1
+(
+)
+1.52 −1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥=
+1.52
+1.333 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.52 −1
+(
+)
+1
+15.0 cm
+f = 55.6 cm
+ 
+OQ36.12 
+Answer (e).  At the smallest distance the object and image distances 
+are equal, p = q:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+p + 1
+p = 1
+f
+2
+p = 1
+f
+→
+p = 2 f = q
+ 
+OQ36.13 
+(i) 
+Answers (a) and (c). The image of a real object formed by a 
+plane mirror is always an upright and virtual image, which is 
+the same size as the object and located as far behind the mirror 
+as the object is in front of the mirror.  
+ 
+(ii) Answer (e). A concave (converging) mirror forms real, inverted 
+images of real objects located outside the focal point (p > f), and 
+virtual, upright images of real objects located inside the focal 
+point (p < f) of the mirror.  
+ 
+(iii) Answer (a) and (c). With a real object in front of a convex 
+(diverging) mirror, the image is always virtual, upright, and 
+diminished in size, and located between the mirror and the focal 
+point. 
+OQ36.14 
+Answer (b). The image is upright, and corresponding parts of the 
+object and image are the same distance from the mirror.
+
+--- PAGE 5 ---
+678     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ36.1 
+(a) 
+Yes. 
+ 
+(b) 
+You have likely seen a 
+Fresnel mirror for 
+sound. The diagram 
+represents first a side 
+view of a band shell. It 
+is a concave mirror for 
+sound, designed to 
+channel sound into a 
+beam toward the 
+audience in front of the 
+band shell. Sections of its surface can be kept at the right 
+orientations as they are pushed around inside a rectangular box 
+to form an auditorium with good diffusion of sound from stage 
+to audience, with a floor plan suggested by the second part of 
+the diagram. 
+CQ36.2 
+(a) 
+The focal point is defined as the location of the image formed by 
+rays originally parallel to the axis. An object at a large but finite 
+distance will radiate rays nearly but not exactly parallel. Infinite 
+object distance describes the definite limiting case in which 
+these rays become parallel.  
+ 
+(b) To measure the focal length of a converging lens, set it up to 
+form an image of the farthest object you can see outside a 
+window. The image distance will be equal to the focal length 
+within one percent or better if the object distance is a hundred 
+times larger or more. 
+CQ36.3 
+Because when you look at the 
+ in your rear view 
+mirror, the apparent left-right inversion clearly displays the name of 
+the AMBULANCE behind you. Do not jam on your brakes when a 
+MIAMI city bus is right behind you. 
+CQ36.4 
+Chromatic aberration arises because a material medium’s refractive 
+index can be wavelength dependent. A mirror changes the direction 
+of light by reflection, not refraction. Light of all wavelengths follows 
+the same path according to the law of reflection, so no chromatic 
+aberration happens. 
+CQ36.5 
+(a) 
+Yes. If the converging lens is immersed in a liquid with an index 
+of refraction significantly greater than that of the lens itself, it 
+will make light from a distant source diverge.  
+ 
+ANS. FIG. CQ36.1
+
+--- PAGE 6 ---
+Chapter 36     679 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) No. This is not the case with a converging (concave) mirror, as 
+the law of reflection has nothing to do with the indices of 
+refraction. 
+CQ36.6 
+As in the diagram, let the center of 
+curvature C of the fishbowl and the 
+bottom of the fish define the optical 
+axis, intersecting the fishbowl at 
+vertex V. A ray from the top of the 
+fish that reaches the bowl surface 
+along a radial line through C has 
+angle of incidence zero and angle of 
+refraction zero. This ray exits from the 
+bowl unchanged in direction. A ray 
+from the top of the fish to V is 
+refracted to bend away from the normal. Its extension back inside 
+the fishbowl determines the location of the image and the 
+characteristics of the image. The image is upright, virtual, and 
+enlarged. 
+CQ36.7 
+(a) 
+An infinite number.  In general, an infinite number of rays leave 
+each point of any object and travel in all directions.  Note that 
+the three principal rays that we use for imaging are just a subset 
+of the infinite number of rays.   
+ 
+(b) All three principal rays can be drawn in a ray diagram, 
+provided that we extend the plane of the lens as shown in 
+Figure CQ36.7. 
+ 
+ANS. FIG. CQ36.7 
+CQ36.8 
+With the meniscus design, when you direct your gaze near the outer 
+circumference of the lens you receive a ray that has passed through 
+glass with more nearly parallel surfaces of entry and exit. Thus, the 
+lens minimally distorts the direction to the object you are looking at. 
+If you wear glasses, turn them around and look through them the 
+wrong way to maximize this distortion. 
+CQ36.9 
+Note that an object at infinity has an image at the focal point of a 
+converging lens, and an object at the focal point of a converging lens 
+ 
+ANS. FIG. CQ36.6
+
+--- PAGE 7 ---
+680     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+has its image at infinity, so we may conclude that the farther an 
+object is from a lens, the closer the image is to the focal point of the 
+lens. Therefore, we expect the image of the farther tree to form closer 
+to the lens, so we conclude that the screen should be moved toward 
+the lens.  
+ 
+We can verify our conclusion using the lens equation:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f  →  1
+q = 1
+f −1
+p = p −f
+fp
+= 1−f p
+f
+  →  q =
+f
+1−f p 
+ 
+For p = x, q =
+f
+1−f x , and for p′ = 2x, ′q =
+f
+1−f 2x < q, so our 
+conclusion is correct. 
+CQ36.10 
+In the diagram, only two of the three principal rays have been used 
+to locate images to reduce the amount of visual clutter. The upright 
+shaded arrows are the objects, and the correspondingly numbered 
+inverted arrows are the images. As you can see, object 2 is closer to 
+the focal point than object 1, and image 2 is farther to the left than 
+image 1. 
+ 
+ANS. FIG. CQ36.10 
+CQ36.11 
+The eyeglasses on the left are diverging lenses that correct for 
+nearsightedness. If you look carefully at the edge of the person’s face 
+through the lens, you will see that everything viewed through these 
+glasses is reduced in size. The eyeglasses on the right are converging 
+lenses, which correct for farsightedness. These lenses make 
+everything that is viewed through them look larger.    
+CQ36.12 
+The eyeglass wearer’s eye is at an object distance from the lens that is 
+quite small—the eye is on the order of 10
+–2 meter from the lens. The 
+focal length of an eyeglass lens is several decimeters, positive or 
+negative. Therefore the image distance will be similar in magnitude 
+to the object distance. The onlooker sees a sharp image of the eye 
+behind the lens. Look closely at Figure CQ36.11a and notice that the 
+wearer’s eyes seem not only to be smaller, but also positioned a bit 
+behind the plane of his face—namely, behind where they would be if 
+he were not wearing glasses. Similarly, in Figure CQ36.11b, his eyes
+
+--- PAGE 8 ---
+Chapter 36     681 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+seem to be magnified and in front of the plane of his face. We as 
+observers take the light information coming from the object through 
+the lens and perceive or photograph the image as if it were an object.  
+CQ36.13 
+Absolutely. Only absorbed light, not transmitted light, contributes 
+internal energy to a transparent object. A clear lens can stay ice-cold 
+and solid as megajoules of light energy pass through it. 
+CQ36.14 
+Make the mirror an efficient reflector (shiny). Make it reflect to the 
+image even rays far from the axis, by giving it a parabolic shape. 
+Most important, make it large in diameter to intercept a lot of solar 
+power. And you get higher temperature if the image is smaller, as 
+you get with shorter focal length; and if the furnace enclosure is an 
+efficient absorber (black). 
+CQ36.15 
+The artist’s statements are accurate, perceptive, and eloquent. The 
+image you see is “almost one’s whole surroundings,” including 
+things behind you and things farther in front of you than the globe is, 
+but nothing eclipsed by the opaque globe or by your head. For 
+example, we cannot see Escher’s index and middle fingers or their 
+reflections in the globe. 
+ 
+The point halfway between your eyes is indeed the focus in a 
+figurative sense, but it is not an optical focus. The principal axis will 
+always lie in a line that runs through the center of the sphere and the 
+bridge of your nose (between your eyes). Outside the globe, you are 
+at the center of your observable universe. If you close one eye, the 
+center of the looking-glass world may hop over to the location of the 
+image of your open eye (depending on which eye is dominant).  
+CQ36.16 
+Both words are inverted, but the word OXIDE looks the same when 
+inverted.   
+CQ36.17 
+Yes, the mirror equation and the magnification equation apply to 
+plane mirrors. A curved mirror is made flat by increasing its radius 
+of curvature without bound, so that its focal length goes to infinity. 
+From 1
+p + 1
+q = 1
+f = 0 we have 1
+p = −1
+q ; therefore, p = –q. The virtual 
+image is as far behind the mirror as the object is in front. The 
+magnification is M = −q
+p = p
+p = 1. The image is right side up and 
+actual size.
+
+--- PAGE 9 ---
+682     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 36.1 
+Images Formed by Flat Mirrors 
+P36.1 
+ANS. FIG. P36.1 shows the path of rays 
+reflected by a mirror of minimum height: 
+rays from the person’s feet and top of his 
+head travel along the respective paths 
+123 and 543 to his eyes. The rays reflect 
+at the bottom and top of the mirror. 
+Because of the law of reflection, the paths 
+can be considered to form the 
+hypotenuses of two pairs of right 
+triangles with common base c: two large 
+similar right triangles with height a, and 
+two small similar right triangles with 
+height b. 
+  
+Rays from his feet enter his eyes a 
+vertical distance 2a from the ground.  
+The rays from the top of his head enter  
+his eyes a distance 2b from the top of his head. His full height is H = 2a 
++ 2b. The mirror has height L = a + b. We see then that  
+ 
+ 
+ 
+L = a + b = H
+2 = 178 cm
+2
+= 89 cm 
+P36.2 
+The virtual image is as far behind the 
+mirror as the choir is in front of the mirror. 
+Thus, the image is 5.30 m behind the 
+mirror. The image of the choir is 0.800 m + 
+5.30 m = 6.10 m from the organist. Using 
+similar triangles: 
+ 
+ 
+ 
+′h
+0.600 m = 6.10 m
+0.800 m
+ 
+ 
+or 
+ 
+′h = 0.600 m
+(
+)
+6.10 m
+0.800 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.58 m 
+P36.3 
+(a) 
+Younger. Light takes a finite time to travel from an object to the 
+mirror and then to the eye. 
+ 
+(b) I stand about 40 cm from my bathroom mirror. I scatter light, 
+which travels to the mirror and back to me in time interval  
+ 
+ 
+ 
+Δt = 2d
+c =
+0.8 m
+3 × 108 m/s ~ 10−9 s , showing me a view of 
+myself as I was then. 
+ANS. FIG. P36.1 
+ANS. FIG. P36.2
+
+--- PAGE 10 ---
+Chapter 36     683 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.4 
+The mirrors are 6.00 m apart. 
+ 
+(1) 
+The first image in the left mirror is 2.00 m behind the mirror, or 
+2.00 m + 2.00 m = 4.00 m from the position of the person. 
+ 
+(2) 
+The first image in the right mirror is located 4.00 m behind the 
+right mirror, but this location is 4.00 m + 6.00 m = 10.0 ft from the 
+left mirror. Thus, the second image in the left mirror is 10.00 m 
+behind the mirror, or 10.00 m + 2.00 m = 12.00 m from the 
+person.  
+ 
+(3) 
+The first image in the left mirror forms an image in the right 
+mirror. This first image is 2.00 m + 6.00 m = 8.00 m from the right 
+mirror, and, thus, an image 8.00 m behind the right mirror is 
+formed. This image in the right mirror also forms an image in the 
+left mirror. The distance from this image in the right mirror to the 
+left mirror is 8.00 m + 6.00 m = 14.00 m. The third image in the left 
+mirror is, thus, 14.00 m behind the mirror, or 14.00 m + 2.00 m = 
+16.00 m from the person. 
+P36.5 
+For a plane mirror, q = –p. Recall from common experience that the 
+position of an image does not shift as a viewer rotates. Thus, to a 
+viewer looking toward a mirror that is turned by 45°, the image 
+distance still follows this rule.  
+ 
+(a) 
+The upper mirror M1 produces a virtual, actual-sized image I1 
+according to  
+ 
+ 
+ 
+M1 = −q1
+p1
+= +1 
+ 
+ 
+As shown in ANS. FIG. P36.5, this image is a distance p1 above the 
+upper mirror. It is the object for mirror M2, at object distance 
+ 
+ 
+ 
+p2 = p1 + h 
+ 
+ 
+The lower mirror produces a virtual, actual-sized, right-side-up 
+image according to 
+ 
+ 
+ 
+q2 = −p2 = −p1 + h
+(
+) 
+ 
+ 
+with  
+ 
+ 
+ 
+M2 = −q2
+p2
+= +1    and    Moverall = M1M2 = 1. 
+ 
+ 
+Thus the final image is at distance p1 + h, behind the lower mirror. 
+ 
+(b) It is virtual .
+
+--- PAGE 11 ---
+684     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Upright 
+ 
+(d) With magnification +1.00 . 
+ 
+(e) 
+No. Left and right are not reversed. In a top view of the 
+periscope, parallel rays from the right and left sides of the object 
+stay parallel and on the right and left. The first mirror switches 
+left and right, but the second mirror switches them again; so, 
+overall left and right are not reversed.  
+ 
+ 
+ANS. FIG. P36.5 
+*P36.6 
+A graphical construction, shown in ANS.  
+FIG. P36.6, produces 5 images, with images I1  
+and I2 directly into the mirrors from the  
+object O, and (O, I3 , I4 ) and (I2 , I1 , I5 ) forming  
+the vertices of equilateral triangles. 
+ 
+ 
+P36.7 
+We assume that she looks only at images in the nearest mirror. The 
+mirrors are 3.00 m apart.  
+ 
+(a) 
+With her palm located 1.00 m in front of the nearest mirror, that 
+she sees its image 1.00 m behind the nearest mirror. 
+ 
+(b) The nearest mirror shows the palm of her hand.  
+ 
+ANS. FIG. P36.6
+
+--- PAGE 12 ---
+Chapter 36     685 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Her hand is 2.00 m from the farthest mirror, so its image forms 
+2.00 m behind the farthest mirror, but this image is 2.00 m + 3.00 
+m = 5.00 m from the nearest mirror, so the image she sees is 5.00 
+m behind the nearest mirror. 
+ 
+(d) The image is that of the back of her hand reflected in the farthest 
+mirror. 
+ 
+(e) 
+The farthest mirror forms an image of the first image of part (a), 
+which is 1.00 m + 3.00 m = 4.00 m from the farthest mirror; this 
+image is then 4.00 m behind the farthest mirror, so it is 4.00 m + 
+3.00 m = 7.00 m in front of the nearest mirror, so the image she 
+sees is 7.00 m behind the nearest mirror.  
+ 
+(f) 
+This is the image of the palm reflected back from the nearest to 
+the farthest and back to the nearest mirror.  
+ 
+(g) Since all images are located behind the mirror, and all images 
+result from light reflected in a mirror, all are virtual images . 
+ 
+ 
+ 
+Section 36.2 
+Images Formed by Spherical Mirrors 
+P36.8 
+(a) 
+A concave mirror is a converging mirror, so the focal length  
+f = +20.0 cm. Then, 1
+p + 1
+q = 1
+f gives     
+ 
+ 
+ 
+1
+50.0 cm + 1
+q =
+1
+20.0 cm
+→
+q = +33.3 cm 
+ 
+ 
+Since q > 0, the image is located 33.3 cm in front of the mirror . 
+ 
+(b) 
+M = −  q
+p = −  33.3 cm
+(
+)
+50.0 cm = −0.666 
+ 
+(c) 
+The image distance is positive, so the image is real.  
+ 
+(d) The magnification is negative, so the image is inverted. 
+P36.9 
+We apply the mirror equation using the sign conventions listed in the 
+textbook chapter.  
+ 
+(i) 
+The mirror equation gives 
+ 
+ 
+ 
+1
+q = 1
+f −1
+p =
+1
+10.0 cm −
+1
+40.0 cm
+→
+q = 13.3 cm 
+ 
+ 
+ 
+and 
+M = q
+p = −13.3 cm
+40.0 cm = −0.333 
+ 
+ 
+(a) 
+The image is 13.3 cm in front of the mirror.
+
+--- PAGE 13 ---
+686     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(b) The image distance is positive, so the image is  real. 
+ 
+ 
+(c) 
+The magnification is negative, so the image is inverted. 
+ 
+ 
+(d) From above, M = −0.333 . The value of M indicates that the 
+image is inverted and one-third the height of the object. 
+ 
+ANS. FIG. P36.9(i) 
+ 
+ 
+The ray diagram traced in ANS. FIG. P36.9(i) shows this 
+identification more clearly, and that the image is inverted.  
+ 
+(ii) Again, from the mirror equation, 
+ 
+ 
+ 
+1
+q = 1
+f −1
+p =
+1
+10.0 cm −
+1
+20.0 cm
+→
+q = 20.0 cm 
+ 
+ 
+and 
+ 
+ 
+ 
+M = q
+p = −20.0 cm
+20.0 cm = −1.00 
+ 
+ 
+The ray diagram for this case is shown in ANS. FIG. P36.9(ii). 
+ 
+ 
+(a) 
+The image is 20.0 cm in front of the mirror.  
+ 
+ 
+(b) The image distance is positive, so the image is real. 
+ 
+ 
+(c) 
+The magnification is negative, so the image is inverted.  
+ 
+ 
+(d) From above, M = −1.00 . The value of M indicates that the 
+image is inverted and the same height as the object in this 
+special case. 
+ 
+ANS. FIG. P36.9(ii)
+
+--- PAGE 14 ---
+Chapter 36     687 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(iii) (a) 
+The object is now at the focal point of the mirror. Following 
+the same steps gives 
+ 
+ 
+ 
+ 
+q =
+1
+2/R −1/ p =
+1
+2/(20.0 cm)−1/(10.0 cm) = 1
+0 = ∞
+ 
+ 
+ 
+ 
+We can say that no image is formed, or that the image is at 
+an infinite distance.  The ray diagram for this case is shown 
+in ANS. FIG. P36.9(iii). 
+ 
+(b) In this special case the reflected rays do not intersect. We cannot 
+classify the image as real or virtual as no image is formed  
+ 
+(c) 
+We cannot classify the image as upright or inverted as no image 
+is formed.  
+ 
+ 
+A screen placed at a large distance in front of the mirror can 
+intercept the reflected light energy, showing the appearance of an 
+upside-down real image, but it is not sharp for any finite distance. 
+You can look into the mirror to view the image as a right side up 
+virtual image, with your eye focused on infinity.  
+ 
+(d) The magnification is M = −q
+p = −
+∞
+20.0 cm = ∞. 
+ 
+ 
+In this special case, if we say no image is formed at a finite 
+distance, it has no finite magnification. If we say the image is at 
+infinity, then its height and its magnification are also infinite. 
+There is no physical difference between +∞ and −∞. 
+ 
+ANS. FIG. P36.9(iii) 
+P36.10 
+(a) 
+To approximate paraxial rays, the rays should be drawn so that 
+they reflect at the vertical plane that passes through the vertex of 
+the mirror, rather than at the mirror’s surface, as done in the 
+textbook. For this reason, the concave surface of the mirror 
+appears flat in ANS. FIG. P36.10. 
+ 
+(b) 
+q = –40.0 cm, so the image is behind the mirror.
+
+--- PAGE 15 ---
+688     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P36.10 
+ 
+(c) 
+M = +2.00, so the image is enlarged and upright. 
+ 
+(d) The mirror is concave (converging), so f = +40.0 cm. 
+ 
+ 
+ 
+1
+q = 1
+f −1
+p =
+1
+40.0 cm −
+1
+20.0 m    →    q = −40.0 cm 
+ 
+ 
+and M = −q
+p = −−40.0 cm
+(
+)
+20.0 cm
+= +2.00 
+P36.11 
+The convex mirror is described by 
+ 
+ 
+ 
+f = R
+2 = –40.0 cm
+2
+= –20.0 cm
+ 
+ 
+ANS. FIG. P36.11 shows the ray diagram for this situation. 
+ 
+ANS. FIG. P36.11 
+ 
+(a) 
+Then 1
+p + 1
+q =  1
+f
+ gives 
+ 
+ 
+ 
+q =
+1
+1/ f −1/ p =
+1
+1/ −20.0 cm
+(
+)−1/ 30.0 cm
+(
+) = −12.0 cm
+ 
+ 
+ 
+The magnification factor is  
+ 
+ 
+ 
+M = – q
+p = – –12.0 cm
+30.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= +0.400
+
+--- PAGE 16 ---
+Chapter 36     689 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The image is behind the mirror, upright, virtual, and diminished.  
+ 
+(b) Following the same steps,  
+ 
+ 
+ 
+q =
+1
+1/ f −1/ p =
+1
+1/ −20.0 cm
+(
+)−1/ 60.0 cm
+(
+) = −15.0 cm
+ 
+ 
+ 
+ 
+and M = –q
+p = – –15.0 cm
+60.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= +0.250 . 
+ 
+(c) 
+Since M > 0, the images are both upright . 
+P36.12 
+(a) 
+The mirror is convex (diverging), so  
+ 
+ 
+ 
+f = −R
+2 = −0.550 m
+2
+= −0.275 m 
+ 
+ 
+ 
+1
+q = 1
+f −1
+p =
+1
+−0.275 m −
+1
+10.0 m     
+ 
+ 
+gives q = −0.267 m = −26.7 cm . 
+ 
+ 
+The image distance is negative; thus, the image is virtual. The 
+image is 26.7 cm behind the mirror.  
+ 
+(b) 
+M = −q
+p = −−0.267
+10.0 m = +0.026 7 
+ 
+ 
+The magnification is positive, so the image is upright. 
+ 
+(c) 
+From above, M = 0.026 7 . 
+P36.13 
+(a) 
+The mirror is convex (diverging), so f = –10.0 cm. 
+ 
+ 
+ 
+1
+q = 1
+f −1
+p =
+1
+−10.0 cm −
+1
+30.0 m
+→
+q = −7.50 cm 
+ 
+ 
+The image distance is negative; thus, the image is virtual. The 
+image is 7.50 cm behind the mirror.  
+ 
+(b) From M = −q
+p = −−7.50
+30.0 cm = +0.250, we see that the magnification 
+is positive, so the image is upright. 
+ 
+(c) 
+M =  ′h
+h
+→
+′h = Mh = +0.250 2.00 cm
+(
+) = 0.500 cm
+
+--- PAGE 17 ---
+690     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.14 
+(a) 
+Since the object is in front of the mirror, p > 0, and p = 1.00 cm. 
+With the image behind the mirror, the image is virtual, so q < 0, 
+and q = –10.0 cm. The mirror equation gives for the radius of 
+curvature  
+ 
+ 
+ 
+1
+f = 2
+R = 1
+p + 1
+q =
+1
+1.00 cm +
+1
+−10.0 cm
+→
+f = R
+2 = 1.11 cm
+R = +2.22 cm
+ 
+ 
+ 
+A positive radius means the mirror is converging, so it is a 
+concave mirror. 
+ 
+(b) The magnification is M = −q
+p = −−10.0 cm
+(
+)
+1.00 cm
+= +10.0 . 
+P36.15 
+The niche acts as a cylindrical mirror that reflects sound. This is a 
+mirror with a vertical axis and a radius R = 2.50 m: its focal length 
+f = R
+2 = 1.25 m. To the extent that we can treat sound as being 
+composed of “rays of sound,” we can find the point of focus of sound 
+waves by using the same method we use for rays of light.  
+ 
+In a vertical plane the sound disperses as usual, but that radiated in a 
+horizontal plane is concentrated in a sound image at distance q from 
+the back of the niche, where 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f
+→
+1
+2.00 m + 1
+q =
+1
+1.25 m 
+ 
+ 
+ 
+q = 3.33 m from the deepest point in the niche . 
+P36.16 
+A convex mirror diverges light rays incident upon it, so the mirror in 
+this problem cannot focus the Sun’s rays to a point.  
+P36.17 
+From the definition of magnification, M = −q
+p , which gives 
+ 
+ 
+ 
+q = −Mp = −0.013 0 30 cm
+(
+) = −0.390 cm 
+ 
+Then, from the mirror-lens equation, 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f = 2
+R
+1
+30.0 cm +
+1
+−0.390 cm = 2
+R
+R = −0.790 cm
+ 
+ 
+The cornea is convex, with radius of curvature 0.790 cm .
+
+--- PAGE 18 ---
+Chapter 36     691 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.18 
+The ball is a convex mirror with a diameter of 8.50 cm: 
+ 
+ 
+ 
+R = –4.25 cm     and     f = R
+2 = −2.125 cm 
+ 
+(a) 
+We have 
+ 
+ 
+ 
+M = 3
+4 = −q
+p
+→
+q = −3
+4 p 
+ 
+ 
+By the mirror equation,  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f 
+ 
+ 
+ 
+1
+p +
+1
+−3 4
+(
+)p =
+1
+−2.125 cm 
+ 
+ 
+or 
+3
+3p −4
+3p =
+1
+−2.125 cm = −1
+3p
+→
+p = + 0.708 m 
+ 
+ 
+The object is 0.708 m in front of the sphere. 
+ 
+(b) From ANS. FIG. P36.18, the image is upright, virtual, and 
+diminished. 
+P36.19 
+(a) 
+The image is inverted and 4.00 times larger, so the magnification 
+is  
+ 
+ 
+ 
+M = −4.00 = −q
+p
+→
+q = 4.00p 
+ 
+ 
+Thus the image is farther from the mirror than the object.  
+ 
+ 
+The object and images distances are related by  
+ 
+ 
+ 
+q −p = 0.600 m = 4.00p −p = 3.00p
+→
+p = 0.200 m,     
+ 
+ 
+and q = 0.800 m. 
+ 
+ 
+By the mirror equation,  
+ 
+ 
+ 
+1
+f = 1
+p + 1
+q =
+1
+0.200 m +
+1
+0.800 m
+→
+f = 0.160 m 
+ 
+(b) A convex (diverging) mirror forms an upright, virtual image, so 
+the magnification is   
+ 
+ 
+ 
+M = +0.500 = −q
+p
+→
+q = −0.500p 
+ 
+ 
+The image is virtual, so it is behind the mirror, and the image 
+distance is negative. The object and images distances are related 
+ANS. FIG. P36.18
+
+--- PAGE 19 ---
+692     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+by  
+ 
+ 
+ 
+q + p = 0.600 m = −q + p = −−0.500p
+(
+) + p = 1.50p 
+ 
+ 
+ 
+p = 0.400 m
+→
+q = −0.200 m 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f =
+1
+0.400 m +
+1
+−0.200 m
+→
+f = −0.400 m 
+P36.20 
+(a) 
+The image is inverted, and a > 1 times larger, so the magnification is 
+ 
+ 
+ 
+M = −a = −q
+p
+→
+q = ap 
+ 
+ 
+Thus the image is farther from the mirror than the object.  
+ 
+ 
+The object and image distances are related by  
+ 
+ 
+ 
+q −p = d = ap −p = a −1
+(
+)p
+→
+p =
+d
+a −1,
+q =
+ad
+a −1
+ 
+ 
+ 
+By the mirror equation, 
+ 
+ 
+ 
+1
+f = 1
+p + 1
+q = a −1
+d
++ a −1
+ad = a a −1
+(
+) + a −1
+(
+)
+ad
+= a2 −1
+ad
+f =
+ad
+a2 −1
+ 
+ 
+(b) The image is upright, and a < 1, so the magnification is: 
+ 
+ 
+ 
+M = a = −q
+p
+→
+q = −ap 
+ 
+ 
+The image is virtual, so it is behind the mirror, and the image 
+distance is negative. The object and image distances are related by  
+ 
+ 
+ 
+q + p = d = −q + p = −−ap
+(
+) + p = a + 1
+(
+)p
+p =
+d
+1+ a
+and
+q = −ap = −ad
+1+ a
+ 
+ 
+ 
+By the mirror equation,  
+ 
+ 
+ 
+1
+f = 1
+p + 1
+q = 1+ a
+d
++ 1+ a
+−ad = a 1+ a
+(
+) −1+ a
+(
+)
+ad
+= a2 −1
+ad
+f =
+ad
+a2 −1
+ 
+P36.21 
+From the magnification equation,  
+ 
+ 
+ 
+M =
+′h
+h = +4.00 cm
+10.0 cm = +0.400 = −q
+p
+
+--- PAGE 20 ---
+Chapter 36     693 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which gives q = –0.400p, so the image must be virtual. 
+ 
+(a) 
+It is a (diverging) convex mirror that produces a diminished, 
+upright virtual image. 
+ 
+(b) We must have 
+ 
+ 
+ 
+p + q = 42.0 cm = p −q 
+ 
+ 
+ 
+p = 42.0 cm + q 
+ 
+ 
+ 
+p = 42.0 cm – 0.400p 
+ 
+ 
+ 
+p = 42.0 cm
+1.40
+= 30.0 cm 
+ 
+ 
+The mirror is at the 30.0-cm mark . 
+ 
+(c) 
+1
+p + 1
+q = 1
+f =
+1
+30 cm +
+1
+−0.400 30 cm
+(
+)
+= 1
+f = −0.050 0 cm 
+f = −20.0 cm 
+ 
+ 
+The ray diagram looks like Figure 36.13(c) in the text. 
+P36.22 
+(a) 
+Since the mirror is concave, R > 0, giving f = R
+2 = +12.0 cm . The 
+magnification is positive because the image is upright: 
+ 
+ 
+ 
+M = −q
+p = +3
+→
+q = −3p 
+ 
+ 
+The mirror equation is then 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f
+1
+p −1
+3p = 2
+3p =
+1
+12.0 cm
+→
+p = 8.00 cm
+ 
+ 
+(b) ANS. FIG. P36.22(b) shows the principal ray diagram for this 
+situation. 
+ 
+ANS. FIG. P36.22(b)
+
+--- PAGE 21 ---
+694     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The image distance is negative, so the image is virtual. The rays 
+of light do not actually come from the position of the image.  
+P36.23 
+Assume that the object distance is the same in both cases (i.e., her face 
+is the same distance from the hubcap regardless of which way it is 
+turned). Also realize that the near image (q = –10.0 cm) occurs when 
+using the convex side of the hubcap. Applying the mirror equation to 
+both cases gives: 
+ 
+concave side: R = R ,     q = –30.0 cm 
+ 
+ 
+ 
+1
+p −
+1
+30.0 = 2
+R    or    2
+R = 30.0 cm −p
+30.0 cm
+(
+)p 
+[1] 
+ 
+convex side:  R = −R ,     q = –10.0 cm 
+ 
+ 
+ 
+1
+p −
+1
+10.0 = −2
+R    or    2
+R = p −10.0 cm
+10.0 cm
+(
+)p 
+[2] 
+ 
+(a) 
+Equating equations [1] and [2] gives: 
+ 
+ 
+ 
+30.0 cm −p
+3.00
+= p −10.0 cm    or     p = 15.0 cm 
+ 
+ 
+Thus, her face is 15.0 cm from the hubcap. 
+ 
+(b) Using the above result (p = 15.0 cm) in equation [1] gives: 
+ 
+ 
+ 
+2
+R = 30.0 cm −15.0 cm
+30.0 cm
+(
+) 15.0 cm
+(
+)     or     2
+R =
+1
+30.0 cm      
+ 
+ 
+and R = 60.0 cm. 
+ 
+ 
+The radius of the hubcap is 60.0 cm . 
+P36.24 
+(a) 
+We assume the object is real; thus the object distance p is positive. 
+The mirror is convex, so it is a diverging mirror, and we have 
+f = −f = −8.00 cm . The image is virtual, so q = −q . Since we 
+also know that q = p 3 , the mirror equation gives 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+p −3
+p = 1
+f     or     −2
+p =
+1
+−8.00 cm    
+ 
+ 
+so  p = +16.0 cm 
+ 
+ 
+This means that the object is 16.0 cm from the mirror. 
+ 
+(b) The magnification is M = −q p = + q p = +1 3 = +0.333 . 
+ 
+(c) 
+Thus, the image is upright and one-third the size of the object.
+
+--- PAGE 22 ---
+Chapter 36     695 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.25 
+(a) 
+The image forms on a screen, so it is real and in front of the mirror, 
+so q = p + 5.00 m, because p is positive. The magnification is  
+ 
+ 
+ 
+M = −q
+p = −5.00     or     q = 5.00p 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+p + 5.00 m = 5.00p     →     p = 1.25 m      
+ 
+ 
+and     q = p + 5.00 m = 6.25 m. From 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f =
+1
+1.25 m +
+1
+6.25 m
+→
+f = +1.04 m 
+ 
+ 
+The focal length is positive, so the mirror is a converging mirror:  
+concave. 
+ 
+(b) 
+f = +1.04 m = R
+2 →R = 2.08 m 
+ 
+(c) 
+From part (a), p = 1.25 m; the mirror should be 1.25 m from the 
+object. 
+P36.26 
+(a) 
+The image starts from a point whose height above the mirror 
+vertex is given by 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f = 2
+R
+ 
+ 
+ 
+ 
+1
+3.00 m + 1
+q =
+1
+0.500 m
+→
+q = 0.600 m
+ 
+ 
+ 
+As the ball falls, p decreases and q increases. Ball and image pass 
+when q1 = p1. When this is true, 
+ 
+ 
+ 
+1
+p1
++ 1
+p1
+=
+1
+0.500 m = 2
+p1
+→
+p1 = 1.00 m,
+ 
+ 
+ 
+which is at the focal point. 
+ 
+ 
+As the ball passes the focal point, the image switches from 
+infinitely far above the mirror to infinitely far below the mirror. 
+As the ball approaches the mirror from above, the virtual image 
+approaches the mirror from below, reaching it together when  
+p2 = q2 = 0. 
+ 
+(b) The falling ball passes its real image when it has fallen 
+ 
+ 
+ 
+Δy = 3.00 m −1.00 m = 2.00 m = 1
+2 gt2
+
+--- PAGE 23 ---
+696     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives t =
+2 2.00 m
+(
+)
+9.80 m s2 = 0.639 s . 
+ 
+ 
+The ball reaches its virtual image when it reaches the surface of 
+the mirror, which is when it has traversed  
+ 
+ 
+ 
+Δy = 3.00 m −0 = 3.00 m = 1
+2 gt2 
+ 
+ 
+which gives t =
+2 3.00 m
+(
+)
+9.80 m/s2 = 0.782 s . 
+P36.27 
+(a) 
+The flat mirror produces an image according to q = –p = –24.0 cm. 
+The image is behind the mirror, with the distance from your eyes 
+given by  
+ 
+ 
+ 
+1.55 m + 24.0 m = 25.6 m 
+ 
+(b) The image is the same size as the object, so  
+ 
+ 
+ 
+θ = h
+d = 1.50 m
+25.6 m = 0.058 7 rad  
+ 
+(c) 
+1
+p + 1
+q = 1
+f = 2
+R 
+ 
+ 
+ 
+1
+24 m + 1
+q =
+2
+−2 m
+(
+)
+→
+q = −0.960 m 
+ 
+ 
+This image is behind the mirror, distant from your eyes by  
+ 
+ 
+ 
+1.55 m + 0.960 m = 2.51 m 
+ 
+(d) The image size is given by M =
+′h
+h = −q
+p : 
+ 
+ 
+ 
+′h = −h q
+p = −1.50 m −0.960 m
+24 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.060 0 m
+ 
+ 
+ 
+So its angular size at your eye is ′
+θ =
+′h
+d = 0.06 m
+2.51 m = 0.023 9 rad . 
+ 
+(e) 
+Your brain assumes that the car is 1.50 m high and calculates its 
+distance as 
+ 
+ 
+ 
+′d = h
+′
+θ = 1.50 m
+0.023 9 = 62.8 m
+
+--- PAGE 24 ---
+Chapter 36     697 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P36.28 
+The focal length of the mirror may be found from the given object and 
+image distances as  
+ 
+ 
+1
+f = 1
+p + 1
+q
+ 
+ 
+Solving for the focal length f gives 
+ 
+ 
+f =
+pq
+p + q = 152 cm
+(
+) 18.0 cm
+(
+)
+152 cm + 18.0 cm = +16.1 cm
+  
+ 
+For an upright image twice the size of the object, the magnification is 
+ 
+ 
+M = −q
+p = +2.00
+ 
+ 
+which gives q = –2.00p. 
+ 
+Then, using the mirror equation again, 1
+f = 1
+p + 1
+q becomes 
+ 
+ 
+1
+p + 1
+q = 1
+p −
+1
+2.00p = 2 −1
+2.00p = 1
+f
+ 
+ 
+or 
+p =
+f
+2.00 = 16.1 cm
+2.00
+= 8.05 cm 
+ 
+ 
+ 
+Section 36.3 
+Images Formed by Refraction 
+P36.29 
+The image forms within the rod.  
+ 
+ 
+ 
+n1
+p + n2
+q = n2 −n1
+R
+   →   1.00
+p
++ 1.50
+q
+= 1.50 −1.00
+6.00 cm
+=
+1
+12.0 cm
+ 
+ 
+(a) 
+1.00
+20.0 cm + 1.50
+q
+=
+1
+12.0 cm
+→
+q = 45.0 cm 
+ 
+(b) 
+1.00
+10.0 cm + 1.50
+q
+=
+1
+12.0 cm
+→
+q = −90.0 cm 
+ 
+(c) 
+1.00
+3.0 cm + 1.50
+q
+=
+1
+12.0 cm
+→
+q = −6.00 cm 
+P36.30 
+n1
+p + n2
+q = n2 −n1
+R
+= 0     and    R →∞ 
+ 
+q = −n2
+n1
+p = −
+1
+1.309 50.0 cm
+(
+) = −38.2 cm
+
+--- PAGE 25 ---
+698     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, the virtual image of the dust speck is 
+38.2 cm below the top surface of the ice. 
+P36.31 
+For a plane refracting (water) surface R →∞
+(
+) 
+ 
+ 
+ 
+n1
+p + n2
+q = n2 −n1
+R
+     becomes     q =−n2
+n1
+p 
+ 
+(a) 
+When the pool is full, p = 2.00 m and 
+q =−
+1.00
+1.333
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 m
+(
+) = −1.50 m  
+ 
+ 
+or the pool appears to be 1.50 m deep.  
+ 
+(b) If the pool is half filled, then p = 1.00 m and q = – 0.750 m. Thus, 
+the bottom of the pool appears to be 0.750 m below the water 
+surface or 1.75 m below ground level. 
+P36.32 
+Since the center of curvature of the surface is on the side the light 
+comes from, R < 0 giving R = –4.00 cm. For the line, p = 4.00 cm; then, 
+ 
+ 
+ 
+n1
+p + n2
+q = n2 −n1
+R
+      
+ 
+becomes      
+ 
+ 
+ 
+1.00
+q
+= 1.00 −1.50
+−4.00 cm −
+1.50
+4.00 cm  
+ 
+or 
+ 
+q = –4.00 cm 
+ 
+Thus, the magnification M =
+′h
+h =−n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+q
+p gives  
+ 
+ 
+ 
+′h = −
+n1q
+n2p
+⎛
+⎝⎜
+⎞
+⎠⎟h = −1.50 −4.00 cm
+(
+)
+1.00 4.00 cm
+(
+)
+2.50 mm
+(
+) = 3.75 mm 
+P36.33 
+The water’s surface has no curvature. When R →∞, the equation 
+n1
+p + n2
+q = n2 −n1
+R
+, which describes image formation at a single 
+refracting surface, becomes q = −p n2
+n1
+⎛
+⎝⎜
+⎞
+⎠⎟. We use this to locate the final 
+images of the two surfaces of the glass plate. First, find the image the 
+glass forms of the bottom of the plate. [From Table 35.1, for flint glass, 
+n1 = 1.66.] 
+ 
+ 
+ 
+qB1 = −1.33
+1.66
+⎛
+⎝⎜
+⎞
+⎠⎟8.00 cm
+(
+) = −6.41 cm
+
+--- PAGE 26 ---
+Chapter 36     699 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This virtual image is 6.41 cm below the top surface of the glass, or 
+18.41 cm below the water surface. Next, use this image as an object and 
+locate the image the water forms of the bottom of the plate. 
+ 
+ 
+ 
+qB2 = −1.00
+1.33
+⎛
+⎝⎜
+⎞
+⎠⎟18.41 cm
+(
+) = −13.84 cm
+= 13.84 cm below the water surface
+  
+ 
+Now find image the water forms of the top surface of the glass. 
+ 
+ 
+ 
+q3 = −
+1
+1.33
+⎛
+⎝⎜
+⎞
+⎠⎟12.0 cm
+(
+) = −9.02 cm
+= 9.02 cm below the water surface
+  
+ 
+Therefore, the apparent thickness of the glass is  
+ 
+ 
+ 
+Δt = 13.84 cm −9.02 cm = 4.82 cm  
+P36.34 
+Refer to Figure P36.34 in the textbook. In the right triangle lying 
+between O and the center of the curved surface, tanθ1 = h/p. In the 
+right triangle lying between I and the center of the surface, tan 
+θ2 = −′h /q . We need the negative sign because the image height is 
+counted as negative while the angle is not. We substitute into the given 
+ 
+ 
+n1 tan θ1 = n2 tan θ2 
+ 
+to obtain  
+ 
+ 
+n1 h/p = −n2 ′h /q 
+ 
+Then the magnification, defined by M = h′/h, is given by  
+ 
+ 
+M = ′h /h = –n1 q/n2 p 
+P36.35 
+From Equation 36.8 for image formation by a single refracting surface, 
+ 
+ 
+n1
+p + n2
+q = n2 – n1
+R
+ 
+ 
+We solve for q to find  
+ 
+ 
+q =
+n2Rp
+p n2 – n1
+(
+) – n1R . 
+ 
+In this case, n1 = 1.50, n2 = 1.00, p = 10.0 cm, and R = –15.0 cm. 
+ 
+So the image location is  
+ 
+ 
+q =
+(1.00)( – 15.0 cm)(10.0 cm)
+ (10.0 cm)(1.00 – 1.50) – (1.50)( – 15.0 cm) = −8.57 cm 
+ 
+apparent depth is 8.57 cm
+
+--- PAGE 27 ---
+700     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.36 
+The center of curvature is on the object side, so the radius of curvature 
+is negative: R = −R = −225 cm. 
+ 
+(a) 
+(i) 
+p = 5.00 cm: 
+ 
+ 
+ 
+ 
+n1
+p + n2
+q = n2 −n1
+R
+1.333
+5.00 cm + 1.000
+q
+= 1.000 −1.333
+−225 cm
+→
+q = −3.77 cm
+ 
+ 
+ 
+ 
+The image is virtual and 3.77 cm from the front wall, in the 
+water. 
+ 
+ 
+(ii) p = 25.0 cm: 
+ 
+ 
+ 
+ 
+n1
+p + n2
+q = n2 −n1
+R
+1.333
+25.0 cm + 1.000
+q
+= 1.000 −1.333
+−225 cm
+→
+q = −19.3 cm
+ 
+ 
+ 
+ 
+The image is virtual and 19.3 cm from the front wall, in the 
+water. 
+ 
+(b) From Problem 34, the magnification is M = −n1q
+n2p . 
+ 
+ 
+(i) 
+M = −n1q
+n2p = −1.333 −3.77 cm
+(
+)
+1.00(5.00 cm)
+= +1.01 
+ 
+ 
+(ii) 
+M = −n1q
+n2p = −1.333 −19.2 cm
+(
+)
+1.000(25.0 cm) = +1.03 
+ 
+(c) 
+The plastic has uniform thickness, so the surfaces of entry and
+exit for any particular ray are very nearly parallel.  The ray is
+slightly displaced, but it would not be changed in direction by
+going through the plastic wall with air on both sides. Only the
+difference between the air and water is responsible for the
+refraction of the light.
+ 
+ 
+(d) 
+Yes 
+ 
+(e) 
+If p = R , from n1
+p + n2
+q = n2 −n1
+R
+= n1 −n2
+R
+ we have  
+ 
+ 
+ 
+n1
+R + n2
+q = n1 −n2
+R
+→
+n2
+q = −n2
+R
+
+--- PAGE 28 ---
+Chapter 36     701 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+then q = −R . 
+ 
+ 
+If p > R (but also p < 4.00 R , if the image is to be virtual—see 
+NOTE below), then 
+ 
+ 
+ 
+p > R
+→
+1
+R > 1
+p
+→
+1
+R −1
+p > 0 
+ 
+ 
+and 
+ 
+ 
+ 
+n1
+p + n2
+q = n1 −n2
+R
+n2
+q = n1
+R −n2
+R −n1
+p
+1
+q = −1
+R + n1
+n2
+1
+R −1
+p
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+q = −1
+R + 1.333
+(
+)
+1
+R −1
+p
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+q = 1
+R −1.333
+(
+)
+1
+R −1
+p
+⎛
+⎝⎜
+⎞
+⎠⎟< 1
+R →q > R
+ 
+ 
+ 
+[Assuming that p < 4.00 R .] For example, if p = 2 R , 
+ 
+ 
+ 
+1
+q = −1
+R + 1.333
+(
+)
+1
+R −
+1
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+R
+−1+ 1.333
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −0.3335
+R
+q = −3.00 R
+M = −n1q
+n2p = −1.333 −3.00 R
+(
+)
+1.000 2 R
+(
+)
+= +2.00
+ 
+ 
+Summarizing our results:  
+ 
+If p = R , then q = −p = −R ; if p > R , then q > R . For example, if
+p = 2 R , then q = −3.00 R and M = +2.00.
+ 
+ 
+NOTE: In the equation n1
+p + n2
+q = n2 −n1
+R
+= n1 −n2
+R
+, the term n1 −n2
+R
+ is 
+positive because n1 > n2. If the image is to be virtual, then q must be 
+negative, and so the term n1 −n2
+(
+) R must be less than n1/p: 
+ 
+ 
+ 
+n1 −n2
+R
+< n1
+p
+→
+p <
+n1
+n1 −n2
+R =
+1.333
+1.333 −1.000 R = 4.00 R
+
+--- PAGE 29 ---
+702     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.37 
+For a plane surface (R = ∞), n1
+p + n2
+q = n2 −n1
+R
+ becomes q = −n2p
+n1
+. 
+ 
+Thus, the magnitudes of the rate of change in the image and object 
+positions are related by 
+ 
+ 
+ 
+dq
+dt = n2
+n1
+dp
+dt 
+ 
+If the fish swims toward the wall with a speed of 2.00 cm/s, the speed 
+of the image is given by 
+ 
+ 
+ 
+vimage = dq
+dt = 1.00
+1.33 2.00 cm/s
+(
+) = 1.50 cm/s 
+ 
+ 
+ 
+Section 36.4 
+Images Formed by Thin Lenses 
+*P36.38 
+(a) 
+From 1
+q = 1
+f −1
+p =
+1
+25.0 cm −
+1
+26.0 cm , we obtain 
+ 
+ 
+q = 650 cm . 
+ 
+ 
+The image is real, inverted, and enlarged . 
+  
+(b) From 1
+q = 1
+f −1
+p =
+1
+25.0 cm −
+1
+24.0 cm , we obtain 
+ 
+ 
+q = −600 cm . 
+ 
+ 
+The image is virtual, upright, and enlarged . 
+*P36.39 
+(a) 
+From the mirror-and-lens equation,  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :      
+1
+32.0 cm +
+1
+8.00 cm = 1
+f  
+ 
+ 
+so 
+f = 6.40 cm . 
+ 
+(b) 
+M = −q
+p = −8.00 cm
+32.0 cm = −0.250 
+  
+(c) 
+Since f > 0, the lens is converging .
+
+--- PAGE 30 ---
+Chapter 36     703 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.40 
+(a) 
+From the mirror-and-lens equation, 1
+p + 1
+q = 1
+f : 
+ 
+ 
+ 
+1
+20.0 cm + 1
+q =
+1
+−32.0 cm
+(
+) 
+ 
+ 
+ 
+→   q = −
+1
+20.0 +
+1
+32.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= −12.3 cm
+ 
+ 
+ANS. FIG. P36.40 
+ 
+ 
+Refer to ANS. FIG. P36.40. The image distance is negative, hence 
+the image is virtual; thus, it forms 12.3 cm to the left of the lens. 
+ 
+(b) 
+M = −q
+p = −−12.3 cm
+(
+)
+20.0 cm
+= 0.615 
+ 
+(c) 
+See the ray diagram shown in ANS. FIG. P36.40. 
+P36.41 
+The image is inverted:  
+ 
+ 
+ 
+M =
+′h
+h = −1.80 m
+0.024 0 m = −75.0 →q = 75.0p
+ 
+ 
+The distance from slide to screen d = p + q = 3.00 m: 
+ 
+ 
+ 
+d = p + q = p + 75.0p = 76.0p
+p =
+d
+76.0 = 3.00 m
+76.0
+= 0.039 5 m
+ 
+ 
+ 
+ 
+p = 39.5 mm 
+ 
+and  
+q = 75.0p = 2.96 m. 
+ 
+(a) 
+1
+f = 1
+p + 1
+q =
+1
+0.039 5 m +
+1
+2.96 m →
+f = 0.039 0 m= 39.0 mm 
+ 
+(b) From above, p = 39.5 mm . 
+P36.42 
+(a) 
+We are told that p = 5f. From the thin lens equation, 1
+p + 1
+q = 1
+f , 
+we have 
+ 
+ 
+ 
+1
+5.00 f + 1
+q = 1
+f
+→
+1
+q = 1
+f −
+1
+5.00 f = 4.00
+5.00 f
+
+--- PAGE 31 ---
+704     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+q = 5.00
+4.00 f = +1.25 f 
+ 
+ 
+The image distance is positive, hence the image is real. 
+ 
+ 
+The image is in back of the lens at a distance of 1.25 f 
+from the lens.
+ 
+ 
+(b) 
+M = −q
+p = −1.25 f
+5.00 f = −0.250 
+ 
+(c) 
+From part (a), the image distance is positive, hence the image is 
+real . 
+P36.43 
+Let R1 = outer radius and R2 = inner radius: 
+ 
+ 
+ 
+1
+f = n−1
+(
+)
+1
+R1
+−1
+R2
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.50 −1
+(
+)
+1
+2.00 m −
+1
+2.50 cm
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 0.050 0 cm−1
+ 
+ 
+so 
+f = 20.0 cm . 
+P36.44 
+Your scale drawings should look similar to those given below:  
+ 
+(i) 
+See diagram in ANS. FIG. P36.44(i).  
+ 
+ 
+(a) 
+A carefully drawn-to-scale version of ANS FIG. P36.44(i) 
+should yield an inverted image 20.0 cm in back of the lens 
+and the same size as the object. 
+ 
+ANS. FIG. P36.44(i) 
+ 
+ 
+(b) The image forms behind the lens, so the image is real. 
+ 
+ 
+(c) 
+The figure shows that the image is inverted. 
+ 
+ 
+(d) The height of the image is the same as the height of the 
+object, so M = –1.00. 
+ 
+ 
+(e) 
+1
+p + 1
+q = 1
+f :   
+1
+20.0cm + 1
+q =
+1
+10.0cm →q = +20.0cm 
+ 
+ 
+ 
+A positive image distance means that the image is real.  
+ 
+ 
+ 
+The magnification is M = −q
+p = −+20.0cm
+20.0cm = −1.00
+
+--- PAGE 32 ---
+Chapter 36     705 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+A negative magnification means that the image is inverted.  
+ 
+ 
+ 
+Algebraic answers agree, and we can express values to
+three significant figures: q = 20.0 cm, M = –1.00.
+ 
+ 
+(ii) See diagram in ANS. FIG. P36.44(ii). 
+ 
+ANS. FIG. P36.44(ii) 
+  
+ 
+(a) 
+A carefully drawn-to-scale version of ANS FIG. P36.44(ii) 
+should yield an upright, virtual image located 10 cm in front 
+of the lens and twice the size of the object.  
+ 
+ 
+(b) The image forms in front of the lens, so the image is virtual. 
+ 
+ 
+(c) 
+The figure shows that the image is upright. 
+ 
+ 
+(d) The height of the image is twice that of the object, so  
+M = +2.00. 
+ 
+ 
+(e) 
+1
+p + 1
+q = 1
+f :    
+1
+5.00 cm + 1
+q =
+1
+10.0 cm →q = −10.0 cm 
+ 
+ 
+ 
+A negative image distance means that the image is virtual. 
+ 
+ 
+ 
+The magnification is M = −q
+p = −−10.0 cm
+(
+)
+5.00 cm
+= +2.00 
+ 
+ 
+ 
+A positive magnification means that the image is upright. 
+ 
+ 
+ 
+Algebraic answers agree, and we can express values to
+three significant figures: q = –10.0 cm, M = +2.00.
+ 
+ 
+ 
+(f) 
+Small variations from the correct directions of rays can
+lead to significant errors in the intersection point of the
+rays.  These variations may lead to the three principal
+rays not intersecting at a single point.
+ 
+P36.45 
+In parts (a) and (b), the images are real, so the image distances are 
+positive. 
+ 
+(a) 
+q = +20.0 cm:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+p +
+1
+20.0 cm =
+1
+10.0 cm   →   p = +20.0 cm
+
+--- PAGE 33 ---
+706     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The object distance is positive, so the object is real.  
+ 
+ 
+The object is 20.0 cm from the lens on the front side. 
+ 
+(b) q = +50.0 cm:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+p +
+1
+50.0 cm =
+1
+10.0 cm
+                      p = +12.5 cm
+ 
+ 
+ 
+The object distance is positive, so the object is real.  
+ 
+ 
+The object is 12.5 cm from the lens on the front side. 
+ 
+(c and d) Now, the images in parts (a) and (b) are virtual, so the image 
+distances are negative. 
+ 
+(c) 
+q = –20.0 cm:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+p +
+1
+−20.0 cm =
+1
+10.0 cm
+                      p = +6.67 cm
+ 
+ 
+ 
+The object distance is positive, so the object is real.  
+ 
+ 
+The object is 6.67 cm from the lens on the front side. 
+ 
+(d) q = –50.0 cm:  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f :
+1
+p +
+1
+−50.0 cm =
+1
+10.0 cm
+                      p = +8.33 cm
+ 
+ 
+ 
+The object distance is positive, so the object is real.  
+ 
+ 
+The object is 8.33 cm from the lens on the front side. 
+P36.46 
+Use the thin lens equation, 1
+p + 1
+q = 1
+f . The magnification is M = −q
+p . 
+ 
+(i) 
+p = 40.0 cm:     
+1
+40.0 cm + 1
+q =
+1
+−20.0 cm
+→
+q = −13.3 cm 
+ 
+ 
+ 
+M = −q
+p = −−13.3 cm
+(
+)
+40.0 cm
+= +0.333 
+ 
+ 
+(a) 
+The image forms 13.3 cm in front of the lens. 
+ 
+ 
+(b) The object distance is negative, so the image is virtual. 
+ 
+ 
+(c) 
+The magnification is positive, so the image is upright. 
+ 
+ 
+(d) From above, M = +0.333
+
+--- PAGE 34 ---
+Chapter 36     707 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) p = 20.0 cm:     
+1
+20.0 cm + 1
+q =
+1
+−20.0 cm
+→
+q = −10.0 cm 
+ 
+ 
+ 
+M = −q
+p = −−10.0 cm
+(
+)
+20.0 cm
+= +0.500 
+ 
+ 
+(a) 
+The image forms 10.0 cm in front of the lens.  
+ 
+ 
+(b)  The object distance is negative, so the image is virtual.  
+ 
+ 
+(c) 
+The magnification is positive, so the image is upright.  
+ 
+ 
+(d) From above, M = +0.500 
+ 
+(iii) p = 10.0 cm:     
+1
+10.0 cm + 1
+q =
+1
+−20.0 cm
+→
+q = −6.67 cm 
+ 
+ 
+ 
+M = −q
+p = −−6.67 cm
+(
+)
+10.0 cm
+= +0.667 
+ 
+ 
+(a) 
+The image forms 6.67 cm in front of the lens.  
+ 
+ 
+(b) The object distance is negative, so the image is virtual.  
+ 
+ 
+(c) 
+The magnification is positive, so the image is upright.  
+ 
+ 
+(d) From above, M = +0.667 
+P36.47 
+We are looking at an enlarged, upright,  
+virtual image. Therefore, M = +2 and  
+not –2. Looking through the lens, you  
+see the image beyond the lens.  
+Therefore, the image is virtual, with  
+q = –2.84 cm.  
+ 
+ 
+Now,   
+M =
+′h
+h = 2 = – q
+p  
+ 
+so 
+ 
+p = – q
+2 = 1.42 cm 
+ 
+ 
+A check is that p is positive, as it must  
+be for a real object. 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+f =
+1
+p + 1
+q
+⎛
+⎝⎜
+⎞
+⎠⎟
+–1
+=
+1
+1.42 cm +
+1
+(–2.84 cm)
+⎡
+⎣⎢
+⎤
+⎦⎥
+–1
+= 2.84 cm
+ 
+ 
+ 
+ANS. FIG. P36.47(a) 
+ 
+ 
+ 
+ANS. FIG. P36.47(b)
+
+--- PAGE 35 ---
+708     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.48 
+From the thin lens equation, since the focal length of the lens is 
+constant, 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f : p−1 + q−1 = constant 
+ 
+Differentiating both sides with respect to ρ then gives 
+−1p−2 −1q−2 dq
+dp = 0
+dq
+dp = −q2
+p2
+→
+dq = −q2
+p2 dp
+ 
+P36.49 
+We apply the lens maker’s equation. The centers of curvature of the 
+lens surfaces are on opposite sides, so the second surface has a 
+negative radius  
+ 
+(a) 
+1
+f = n −1
+(
+)
+1
+R1
+−1
+R2
+⎡
+⎣⎢
+⎤
+⎦⎥= 0.440
+(
+)
+1
+12.0 cm −
+1
+−18.0 cm
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+ 
+f = 16.4 cm 
+ 
+(b) 
+1
+f = 0.440
+(
+)
+1
+18.0 cm −
+1
+−12.0 cm
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+ 
+f = 16.4 cm 
+ 
+ANS. FIG. P36.49 
+P36.50 
+(a) 
+1
+pa
++ 1
+qa
+= 1
+f
+becomes
+1
+30.0 cm + 1
+qa
+=
+1
+14.0 cm →
+qa = 26.3 cm
+1
+pd
++ 1
+qd
+= 1
+f
+becomes
+1
+20.0 cm + 1
+qd
+=
+1
+14.0 cm →
+qd = 46.7 cm
+ 
+ 
+ 
+′hb = hMa = h −qa
+pa
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.0 cm
+(
+) −26.3 cm
+30.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= −8.75 cm
+′hc = hMd = h −qd
+pd
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.0 cm
+(
+) −46.7 cm
+20.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= −23.3 cm
+
+--- PAGE 36 ---
+Chapter 36     709 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) See ANS. FIG. P36.50(b). 
+ 
+ 
+ANS. FIG. P36.50(b) 
+ 
+ 
+The square is imaged as a trapezoid. 
+ 
+(c) 
+The equation follows from h′ h= −q p and 1 p + 1 q = 1 f . 
+ 
+ 
+1
+p + 1
+q = 1
+f    becomes    1
+p + 1
+q =
+1
+14 cm    or    1
+p =
+1
+14 cm −1
+q . 
+ 
+ 
+′h = hM = h −q
+p
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.0 cm
+(
+)q
+1
+14 cm −1
+q
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(d) 
+The integral stated adds up the areas of ribbons covering 
+the whole image, each with vertical dimension 
+′h and 
+horizontal width dq.
+ 
+ 
+(e) 
+We have  
+ 
+ 
+′h dq
+qa
+qd
+∫
+= 10.0 cm
+(
+)
+q2
+28.0 cm −q
+⎛
+⎝⎜
+⎞
+⎠⎟
+26.3  cm
+46.7 cm
+= 10.0 cm
+(
+)
+46.7 cm
+(
+)
+2 −26.3 cm
+(
+)
+2
+28.0 cm
+−46.7 cm + 26.3 cm
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+= 328 cm2
+ 
+P36.51 
+In 1
+p + 1
+q = 1
+f   or   p
+–1 + q
+–1 = constant, we differentiate with respect to 
+time: 
+ 
+ 
+ 
+−1 p−2
+(
+) dp
+dt −1 q−2
+(
+) dq
+dt = 0
+dq
+dt = −q2
+p2
+dp
+dt
+
+--- PAGE 37 ---
+710     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We must find the momentary image location q: 
+ 
+ 
+ 
+1
+20.0 m + 1
+q =
+1
+0.300 m 
+ 
+ 
+ 
+q = 0.305 m 
+ 
+Now    
+dq
+dt = −0.305 m
+(
+)
+2
+20.0 m
+(
+)
+2
+5.00 m/s
+(
+) = −0.001 16 m/s = 1.16 mm/s. 
+ 
+(a) 
+The speed is 1.16 mm/s. 
+ 
+(b) Increasing q is away from the lens, negative q is toward the lens. 
+The motion of the image is towards the lens because dq/dt is 
+negative.  
+P36.52 
+Let the object distance be p. Then the image distance is d – p. Set up the 
+lens equation: 
+ 
+ 
+ 
+1
+p + 1
+q =  1
+f
+→1
+p + 
+1
+d − p =  1
+f 
+ 
+Rearrange the equation to generate the following quadratic equation: 
+ 
+ 
+ 
+p2 − dp + df  = 0 
+ 
+Solve with the quadratic formula: 
+ 
+ 
+ 
+p = d ±  d2 − 4df
+2
+ 
+[1] 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+p = 2.00 m ± 
+2.00 m
+(
+)
+2 − 4 2.00 m
+(
+) 0.600 m
+(
+)
+2
+ 
+= 2.00 m ±  −0.800 m2
+2
+ 
+ 
+This expression has no real solutions. Therefore, we cannot find even 
+one position between the object and the screen at which an image is 
+formed on the screen. From equation [1], we see that a real value of p 
+will result only if d
+2 > 4df, or d > 4f, in which case the plus/minus sign 
+in equation [1] will give us two real values for p. 
+*P36.53 
+From the thin lens equation, 1
+p + 1
+q =  1
+f , we obtain 
+ 
+ 
+q1 =
+p1 f1
+p1 −f1
+= 4.00 cm
+(
+) 8.00 cm
+(
+)
+4.00 cm −8.00 cm = −8.00 cm
+
+--- PAGE 38 ---
+Chapter 36     711 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The magnification by the first lens is  
+ 
+ 
+M1 = – q1
+p1
+= −−8.00 cm
+(
+)
+4.00 cm
+= +2.00
+ 
+ 
+The virtual image formed by the first lens is the object for the second 
+lens, so  
+ 
+ 
+p2 = 6.00 cm + q1 = 6.00 cm + 8.00 cm = +14.00 cm  
+ 
+and the thin lens equation gives 
+ 
+ 
+q2 =
+p2 f2
+p2 −f2
+= 14.0 cm
+(
+) −16.0 cm
+(
+)
+14.0 cm −−16.0 cm
+(
+) = −7.47 cm
+ 
+ 
+The magnification by the second lens is  
+ 
+ 
+M2 = – q2
+p2
+= −−7.47 cm
+(
+)
+14.0 cm
+= +0.533
+ 
+ 
+so the overall magnification is  
+ 
+ 
+M = M1M2 = +2.00
+(
+) +0.533
+(
+) = +1.07 
+ 
+The position of the final image is 7.47 cm in front of the second lens, 
+and its height is  
+ 
+ 
+′h = Mh = M1M2 = +1.07
+(
+) 1.00 cm
+(
+) = 1.07 cm 
+ 
+Since M > 0, the final image is upright, and since q2 < 0, this image is 
+virtual. 
+ 
+ 
+ 
+Section 36.5 
+Lens Abberations 
+P36.54 
+Rays from a very distant object are effectively parallel, and the lens is 
+diverging; therefore, the image is virtual and forms at the focal point.   
+ 
+(a) 
+The focal length of the lens is given by 
+ 
+ 
+ 
+1
+f = n −1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.53 −1.00
+(
+)
+1
+−32.5 cm −
+1
+42.5 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+f = −34.7 cm
+ 
+ 
+ 
+Note that R1 is negative because the center of curvature of the first 
+surface is on the virtual image side. 
+ 
+ 
+The violet image forms at −34.7 cm
+
+--- PAGE 39 ---
+712     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS FIG. P36.54 
+ 
+(b) For red light,  
+ 
+ 
+ 
+1
+f = 1.51−1.00
+(
+)
+1
+−32.5 cm −
+1
+42.5 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+f = −36.1 cm
+ 
+ 
+ 
+The red image forms at −36.1 cm . 
+P36.55 
+Ray h1 is undeviated at the plane surface and strikes the second surface 
+at angle of incidence given by 
+ 
+ 
+θ1 = sin−1 h1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 0.500 cm
+20.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.43° 
+ 
+Then,  
+ 
+ 
+1.00sinθ2 = 1.60sinθ1 = 1.60
+(
+)
+0.500
+20.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+θ2 = 2.29°
+ 
+ 
+ANS. FIG. P36.55 
+ 
+The angle this emerging ray makes with the horizontal is 
+θ2 −θ1 = 0.860° .
+
+--- PAGE 40 ---
+Chapter 36     713 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The ray crosses the axis at a point farther out by f1 (the focal length):  
+ 
+ 
+f1 =
+h1
+tan θ2 −θ1
+(
+)
+=
+0.500 cm
+tan 0.860°
+(
+)
+= 33.3 cm 
+ 
+Because of the curved surface of the lens, the point of exit for this ray is 
+horizontally slightly to the left of the lens vertex (where the principal 
+axis intersects the curved surface of the lens), by the distance  
+ 
+ 
+R 1−cosθ1
+(
+) = 20.0 cm 1−cos 1.43°
+(
+)
+[
+] = 0.006 25 cm 
+ 
+Therefore, ray h1 crosses the axis at this distance from the vertex: 
+ 
+ 
+x1 = f1 −R 1−cosθ1
+(
+) = 33.3 cm −0.006 25 cm = 33.3 cm 
+ 
+Now we repeat the above calculation for ray h2: 
+ 
+ 
+θ = sin−1 12.0 cm
+20.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 36.9°
+ 
+ 
+Then, 
+ 
+ 
+1.00sinθ2 = 1.60sinθ1 = 1.60
+(
+) 12.00
+20.0
+⎛
+⎝⎜
+⎞
+⎠⎟→θ2 = 73.7°
+ 
+ 
+ 
+f2 =
+h2
+tan θ1 −θ2
+(
+)
+= 12.0 cm
+tan36.8° = 16.0 cm
+x2 = f2 −R 1−cosθ2
+(
+)
+= 16.0 cm
+(
+)−20.0 cm 1−cos 36.9°
+(
+)
+[
+] = 12.0 cm
+ 
+ 
+Now 
+Δx = x1 −x2 = 33.3 cm −12.0 cm = 21.3 cm 
+ 
+ 
+ 
+Section 36.6 
+The Camera 
+P36.56 
+The same light intensity is received from the subject, and the same 
+light energy on the film is required: 
+ 
+ 
+IA1Δt1 = IA2Δt2
+π d1
+2
+4 Δt1 = π d2
+2
+4 Δt2
+ 
+ 
+Substituting f-stops and shutter speeds, 
+ 
+ 
+f
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+15 s
+⎛
+⎝⎜
+⎞
+⎠⎟= d2
+2
+1
+125 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 41 ---
+714     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+solving, 
+ 
+ 
+d2 =
+125
+15
+f
+4 =
+f
+1.39 =
+f
+1.4
+ 
+ 
+We can verify this by noting that changing the shutter speed from 
+1
+15 s to 
+1
+125 s is approximately a factor of 8 decrease in the exposure 
+time, and requires a three f-stop increase (each increasing the area by a 
+factor of 2), from f-4 down to f-2.8, f-2.0, and f-1.4.  
+*P36.57 
+To properly focus the image of a distant object, the lens must be at a 
+distance equal to the focal length from the film (q1 = 65.0 mm). For the 
+closer object: 
+ 
+ 
+ 
+1
+p2
++ 1
+q2
+= 1
+f
+ 
+ 
+becomes 
+1
+2 000 mm + 1
+q2
+=
+1
+65.0 mm , 
+ 
+and  
+q2 = 65.0 mm
+(
+)
+2 000
+2 000 −65.0
+(
+). 
+ 
+The lens must be moved away from the film by a distance 
+ 
+ 
+ 
+D = q2 −q1 = 65.0 mm
+(
+)
+2 000
+2 000 −65.0
+(
+) −65.0 mm = 2.18 mm
+ 
+ 
+ 
+ 
+Section 36.7 
+The Eye 
+P36.58 
+The lens should take parallel light rays from a very distant object  
+(p = ∞) and make them diverge from a virtual image at the woman’s 
+far point, which is 25.0 cm beyond the lens, at q = –25.0 cm. 
+ 
+(a) 
+P = 1
+f = 1
+p + 1
+q = 1
+∞−
+1
+0.250 m = −4.00 diopters 
+ 
+(b) The power is negative: a diverging lens . 
+*P36.59 
+The corrective lens must form an upright, virtual image at the near 
+point of the eye (i.e., q = –60.0 cm in this case) for objects located 25.0 
+cm in front of the eye (p = +25.0 cm). From the thin-lens equation,  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f
+
+--- PAGE 42 ---
+Chapter 36     715 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+the required focal length of the corrective lens is 
+ 
+ 
+ 
+f =
+pq
+p + q = 25.0 cm
+(
+) −60.0 cm
+(
+)
+25.0 cm −60.0 cm
+= +42.9 cm
+ 
+ 
+and the power (in diopters) of this lens will be 
+ 
+ 
+ 
+P =
+1
+fin meters
+=
+1
++0.429 m = +2.33 diopters
+ 
+*P36.60 
+(a) 
+f = 1
+P =
+1
+−4.00 diopters = −0.250 m = −25.0 cm 
+ 
+(b) The corrective lens forms virtual images of very distant objects 
+( p →∞) at q = f = –25.0 cm. Thus, the person must be very 
+nearsighted , unable to see objects clearly when they are more 
+than 25.0 cm + 2.00 cm = 27.0 cm from the eye. 
+ 
+(c) 
+If contact lenses are to be worn, the far point of the eye will be 
+27.0 cm in front of the lens, so the needed focal length will be  
+f = q = –27.0 cm, and the power is 
+ 
+ 
+ 
+P =
+1
+fin meters
+=
+1
+−0.270 m = −3.70 diopters
+ 
+P36.61 
+For starlight going through a nearsighted person’s glasses,  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f
+1
+∞+
+1
+−0.800 m
+(
+)
+= 1
+f = −1.25 diopters
+ 
+ 
+For a nearby object (the image is virtual),  
+ 
+ 
+ 
+1
+p +
+1
+−0.180 m
+(
+)
+= −1.25 m−1 
+ 
+so 
+ 
+p = 23.2 cm . 
+*P36.62 
+(a) 
+When the child clearly sees objects at her far point 
+pmax = 125 cm
+(
+), the lens-cornea combination has assumed a focal 
+length suitable for forming the image on the retina (q = 2.00 cm). 
+The thin-lens equation gives the optical power under these 
+conditions as 
+ 
+ 
+ 
+ 
+Pfar =
+1
+fin meters
+= 1
+p + 1
+q =
+1
+1.25 m +
+1
+0.020 0 m
+= +50.8 diopters
+
+--- PAGE 43 ---
+716     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+When the eye is focused (q = 2.00 cm) on objects at her near point 
+pmin = 10.0 cm
+(
+), the optical power of the lens-cornea combination 
+is 
+ 
+ 
+ 
+ 
+Pnear =
+1
+fin meters
+= 1
+p + 1
+q =
+1
+0.100 m +
+1
+0.020 0 m
+= +60.0 diopters
+ 
+ 
+ 
+Therefore, the range of the power of the lens-cornea combination 
+is +50.8 diopters ≤P ≤60.0 diopters . 
+ 
+(b) If the child is to see very distant objects ( p →∞) clearly, her 
+eyeglass lens must form an erect, virtual image at the far point of 
+her eye (q = –125 cm). The optical power of the required lens is 
+ 
+ 
+ 
+ 
+P =
+1
+fin meters
+= 1
+p + 1
+q = 0 +
+1
+−0.125 m = −0.800 diopters
+ 
+ 
+ 
+Since the power, and hence the focal length, of this lens is 
+negative, it is diverging .  
+*P36.63 
+(a) 
+The upper portion of the lens should form an upright, virtual 
+image of very distant objects p ≈∞
+(
+)  at the far point of the eye  
+(q = –1.50 m). The thin-lens equation then gives f = q = –1.50 m, so 
+the needed power is 
+ 
+ 
+ 
+P =
+1
+fin meters
+=
+1
+−1.50 m = −0.667 diopters
+ 
+ 
+(b) The lower part of the lens should form an upright, virtual image 
+at the near point of the eye (q = –30.0 cm) when the object distance 
+is p = 25.0 cm. From the thin-lens equation, 
+ 
+ 
+ 
+f =
+pq
+p + q = 25.0 cm
+(
+) −30.0 cm
+(
+)
+25.0 cm −30.0 cm
+= +1.50 × 10
+2 cm = +1.50 m
+ 
+ 
+ 
+Therefore, the power is P = 1
+f =
+1
++1.50 m = +0.667 diopters .  
+*P36.64 
+n1
+p + n2
+q = n2 −n1
+R
+   so 
+1.00
+∞+
+1.40
+21.0 mm = 1.40 −1.00
+6.00 mm 
+ 
+and 0.066 7 = 0.066 7. 
+ 
+They agree. The image is inverted, real, and diminished.
+
+--- PAGE 44 ---
+Chapter 36     717 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P36.65 
+(a) 
+Yes, a single lens can correct the patient's vision. The patient 
+needs corrective action in both the near vision (to allow clear 
+viewing of objects between 45.0 cm and the normal near point of 
+25.0 cm) and the distant vision (to allow clear viewing of objects 
+more than 85.0 cm away). A single lens solution is for the patient 
+to wear a bifocal or progressive lens. Alternately, the patient must 
+purchase two pairs of glasses, one for reading, and one for distant 
+vision. 
+ 
+(b) To correct the near vision, the lens must form an upright, virtual 
+image at the patient’s near point (q = –45.0 cm) when a real object 
+is at the normal near point (p = +25.0 cm). The thin-lens equation 
+gives the needed focal length as 
+ 
+ 
+ 
+ 
+f =
+pq
+p + q = 25.0 cm
+(
+) −45.0 cm
+(
+)
+25.0 cm −45.0 cm
+= +56.3 cm
+ 
+ 
+ 
+so the required power in diopters is 
+ 
+ 
+ 
+ 
+P =
+1
+fin meters
+=
+1
++0.563 m = +1.78 diopters
+ 
+ 
+(c) 
+To correct the distant vision, the lens must form an upright, 
+virtual image at the patient’s far point (q = –85.0 cm) for the most 
+distant objects ( p →∞). The thin-lens equation gives the needed 
+focal length as f = q = –85.0 cm, so the needed power is 
+ 
+ 
+ 
+ 
+P =
+1
+fin meters
+=
+1
+−0.850 m = −1.18 diopters
+ 
+ 
+ 
+ 
+Section 36.8 
+The Simple Magnifyer 
+P36.66 
+(a) 
+Angular magnification is a maximum when the image is at the 
+near point of the eye: q = 25.0 cm. From the thin lens equation:  
+ 
+ 
+ 
+1
+p +
+1
+−25.0 cm
+(
+)
+=
+1
+5.00 cm    or    p = 4.17 cm 
+ 
+(b) From Equation 36.24,  
+ 
+ 
+ 
+M = −q
+p = 1+ 25.0 cm
+f
+= 1+ 25.0 cm
+5.00 cm = 6.00
+
+--- PAGE 45 ---
+718     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 36.9 
+The Compound Microscope 
+P36.67 
+Using Equation 36.26,  
+ 
+ 
+M ≈−
+L
+fo
+⎛
+⎝⎜
+⎞
+⎠⎟
+25.0 cm
+fe
+⎛
+⎝⎜
+⎞
+⎠⎟= −
+23.0 cm
+0.400 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+25.0 cm
+2.50 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= −575
+  
+ 
+ 
+ 
+Section 36.10 
+The Telescope 
+P36.68 
+fo = 20.0 m,   fe = 0.025 0 m 
+ 
+(a) 
+From Equation 36.27, The angular magnification produced by this 
+telescope is  
+ 
+ 
+ 
+m = −fo
+fe
+= −800 
+ 
+(b) Since m < 0, the image is inverted . 
+P36.69 
+Let I0 represent the intensity of the light from the nebula and θ0 its 
+angular diameter. With the first telescope, the image diameter h′ on the 
+film is given by  
+ 
+ 
+ 
+θo = −′h
+fo
+ as ′h = −θo 2 000 mm
+(
+) 
+ 
+The light power captured by the telescope aperture is  
+ 
+ 
+ 
+P1 = I0A1 = I0
+π 200 mm
+(
+)
+2
+4
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+and the light energy focused on the film during the exposure is  
+ 
+ 
+ 
+E1 = P1Δt1 = I0
+π 200 mm
+(
+)
+2
+4
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥1.50 min
+(
+) 
+ 
+Likewise, the light power captured by the aperture of the second 
+telescope is  
+ 
+ 
+ 
+P2 = I0A2 = I0
+π 60.0 mm
+(
+)
+2
+4
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥  
+ 
+and the light energy is  
+ 
+ 
+ 
+E2 = I0
+π 60.0 mm
+(
+)
+2
+4
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥Δt2
+
+--- PAGE 46 ---
+Chapter 36     719 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore, to have the same light energy per unit area, it is necessary 
+that 
+ 
+ 
+ 
+I0 π 60.0 mm
+(
+)
+2 4
+⎡⎣
+⎤⎦Δt2
+π θo 900 mm
+(
+)
+2 4
+⎡⎣
+⎤⎦
+=
+I0 π 200 mm
+(
+)
+2 4
+⎡⎣
+⎤⎦1.50 min
+(
+)
+π θo 2 000 mm
+(
+)
+2 4
+⎡⎣
+⎤⎦
+ 
+ 
+The required exposure time with the second telescope is 
+ 
+ 
+ 
+Δt2 =
+200 mm
+(
+)
+2 900 mm
+(
+)
+2
+60.0 mm
+(
+)
+2 2 000 mm
+(
+)
+2 1.50 min
+(
+) = 3.38 min 
+P36.70 
+(a) 
+The mirror-and-lens equation, 1
+p + 1
+q = 1
+f , gives 
+ 
+ 
+ 
+q =
+1
+1 f −1 p =
+1
+p −f
+(
+) fp =
+fp
+p −f 
+ 
+ 
+Then,  
+ 
+ 
+ 
+M =
+′h
+h = −q
+p = −
+f
+p −f     
+ 
+ 
+gives ′h =
+f h
+f −p 
+ 
+(b) For p >> f, f −p ≈−p . Then, ′h = −hf
+p
+ 
+ 
+(c) 
+Suppose the telescope observes the space station at the zenith: 
+ 
+ 
+ 
+′h = −hf
+p = −108.6 m
+(
+) 4.00 m
+(
+)
+407 × 103 m
+= −1.07 mm 
+ 
+ 
+ 
+Additional Problems 
+P36.71 
+(a) 
+For the lens in air, 
+ 
+ 
+ 
+1
+f = n−1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+79.0 cm = 1.55 −1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+For the same lens in water,  
+ 
+ 
+ 
+1
+′f =
+n2
+n1
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 47 ---
+720     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+1
+′f =
+1.55
+1.333 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+By division, 
+ 
+ 
+ 
+1 79.0 cm
+1/ ′f
+=
+0.55
+1.55
+1.333 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+′f
+79.0 cm →
+′f = 267 cm 
+ 
+(b) The path of a reflected ray does not depend on the refractive 
+index of the medium which the reflecting surface bounds. 
+Therefore the focal length of a mirror does not change when it is 
+put into a different medium: ′f = R
+2 = f = 79.0 cm . 
+P36.72 
+The real image formed by the concave mirror serves as a real object for 
+the convex mirror with p = 50 cm and q = –10 cm. Therefore, 
+ 
+ 
+ 
+1
+f = 1
+p + 1
+q     →     1
+f =
+1
+50.0 cm +
+1
+−10.0 cm
+(
+) 
+ 
+gives    
+ f = –12.5 cm    and    R = 2 f = −25.0 cm . 
+P36.73 
+Only a diverging lens gives an upright, diminished image. Therefore, 
+the image is virtual and between the object and the lens (the image is 
+closer to the lens), and q < 0. We have   
+ 
+ 
+ 
+d = p −q = p + q,    and    M = −q
+p ,     
+ 
+so   
+q = –Mp    and    d = p – Mp. 
+ 
+Therefore, p =
+d
+1−M : 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f = 1
+p +
+1
+−Mp = −M + 1
+−Mp = 1−M
+(
+)
+2
+−Md
+f =
+−Md
+1−M
+(
+)
+2 = −0.500
+(
+) 20.0 cm
+(
+)
+1−0.500
+(
+)
+2
+= −40.0 cm
+ 
+P36.74 
+For a single lens, an object and its image cannot be on opposite sides of 
+the lens if the image is upright. The object and image must be on the 
+same side of the lens; thus the image is virtual, and q < 0. Because the 
+image is upright, M > 0.
+
+--- PAGE 48 ---
+Chapter 36     721 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If the image is between the object and the lens (the image is closer to 
+the lens), we have   
+ 
+ 
+ 
+d = p −q = p + q,   so   q = d – p:  
+ 
+ 
+ 
+M = −q
+p    so    q = −Mp = d −p →p =
+d
+1−M
+ 
+ 
+Substituting into the thin lens equation, 1
+p + 1
+q = 1
+f , gives 
+ 
+ 
+ 
+1
+p +
+1
+−Mp
+(
+)
+= 1
+f
+ 
+ 
+Solving, 
+ 
+ 
+ 
+M
+Mp +
+1
+−Mp
+(
+)
+= 1
+f = M −1
+Mp = M −1
+M
+1−M
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= −1−M
+(
+)
+2
+Md
+ 
+ 
+ 
+ 
+→
+f =
+−Md
+1−M
+(
+)
+2
+ 
+ 
+Since M is positive, the lens is diverging.  
+ 
+If the object is between the image and the lens (the object is closer to 
+the lens), the lens is converging. We have   
+ 
+ 
+ d = q −p = −q −p   →   q = −d −p 
+ 
+Substituting into the thin lens equation, 1
+p + 1
+q = 1
+f , gives 
+ 
+ 
+ 
+1
+p +
+1
+−Mp
+(
+)
+= 1
+f
+ 
+ 
+Solving, 
+ 
+ 
+ 
+M
+Mp +
+1
+−Mp
+(
+)
+= 1
+f = M −1
+Mp = M −1
+M
+M −1
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= M −1
+(
+)
+2
+Md
+ 
+ 
+ 
+ 
+→
+f =
+Md
+M −1
+(
+)
+2
+ 
+ 
+Since M is positive, the lens is converging.
+
+--- PAGE 49 ---
+722     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P36.75 
+The lens for the left eye forms an upright, virtual image at qL =  
+–50.0 cm when the object distance is pL = 25.0 cm, so the thin lens 
+equation 1
+p + 1
+q = 1
+f , gives its focal length as 
+ 
+ 
+ 
+fL =
+pLqL
+pL + qL
+= 25.0 cm
+(
+) −50.0 cm
+(
+)
+25.0 cm −50.0 cm
+= 50.0 cm
+  
+ 
+Similarly for the other lens, qR = –100 cm when pR = 25.0 cm, and fR = 
+33.3 cm.  
+ 
+(a) 
+Using the lens for the left eye as the objective, 
+ 
+ 
+ 
+m = fo
+fc
+= 50.0 cm
+33.3 cm = 1.50
+  
+ 
+(b) Using the lens for the right eye as the eyepiece and, for maximum 
+magnification, requiring that the final image be formed at the 
+normal near point (qe =–25.0 cm) gives the object distance for the 
+eyepiece as 
+ 
+ 
+ 
+pe = qe fe
+qe −fe
+= −25.0 cm
+(
+) 33.3 cm
+(
+)
+−25.0 cm −33.3 cm = +14.3 cm
+ 
+ 
+ 
+The maximum magnification by the eyepiece is then 
+ 
+ 
+ 
+me = 1+ 25.0 cm
+fe
+= 1+ 25.0 cm
+33.3 cm = +1.75
+ 
+ 
+ 
+and the image distance for the objective is 
+ 
+ 
+ 
+q1 = L −pe = 10.0 cm −14.3 cm = −4.28 cm  
+ 
+ 
+The thin lens equation then gives the object distance for the 
+objective as 
+ 
+ 
+ 
+p1 = q1 f1
+q1 −f1
+= −4.28 cm
+(
+) 50.0 cm
+(
+)
+−4.28 cm −50.0 cm = +3.95 cm
+ 
+ 
+ 
+The magnification by the objective is then 
+ 
+ 
+ 
+M1 = −q1
+p1
+= −−4.28 cm
+(
+)
+3.95 cm
+= +1.08
+ 
+ 
+ 
+and the overall magnification is  
+ 
+ 
+ 
+m = M1me = +1.08
+(
+) +1.75
+(
+) = 1.90
+
+--- PAGE 50 ---
+Chapter 36     723 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P36.76 
+The image will be inverted. With h = 6.00 cm, we require  
+h’ = –1.00 mm.  
+ 
+(a) 
+M =
+′h
+h = −q
+p gives 
+ 
+ 
+ 
+q = −p ′h
+h = −50.0 mm
+(
+) −1.00 mm
+60.0 mm
+(
+) = 0.833 mm 
+ 
+(b) From 1
+p + 1
+q = 1
+f =
+1
+50.0 mm +
+1
+0.833 mm , we obtain 
+ 
+ 
+ 
+f = 0.820 mm 
+P36.77 
+(a) 
+Start with the first pass through the lens. 
+ 
+ 
+ 
+1
+q1
+= 1
+f1
+−1
+p1
+=
+1
+80.0 cm −
+1
+100 cm  
+ 
+ 
+gives   q1 = +400 cm  or 400 cm to right of the lens.  
+ 
+ 
+The object of the mirror is 400 cm – 100 cm = 300 cm to the right 
+of the mirror, so the object is virtual. Therefore, for the mirror,  
+p2 = –300 cm: 
+ 
+ 
+ 
+1
+q2
+= 1
+f2
+−1
+p2
+=
+1
+(−50.0 cm) −
+1
+(−300 cm) 
+ 
+ 
+ 
+gives   q2 = –60.0 cm or 60.0 cm to the right of the mirror.  
+ 
+ 
+The image formed by the mirror is 100 cm + 60 cm = 160 cm to the 
+right of the lens. Therefore, for the second pass through the lens, 
+p3 = 160 cm:  
+ 
+ 
+ 
+1
+q3
+= 1
+f1
+−1
+p3
+=
+1
+80.0 cm −
+1
+160 cm     
+ 
+ 
+or 
+q3 = 160 cm to the left of lens . 
+ 
+(b) 
+M1 = −q1
+p1
+= −400 cm
+100 cm = −4.00    M2 = −q2
+p2
+= −(−60.0 cm)
+(−300 cm) = −1
+5 
+ 
+ 
+M3 = −q3
+p3
+= −160 cm
+160 cm = −1    M = M1M2M3 = −0.800 
+ 
+(c) 
+Since M < 0 the final image is inverted .
+
+--- PAGE 51 ---
+724     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.78 
+(a) 
+We start with the final image and work backward. From Figure 
+P36.78, the final image is virtual (to left of lens 2) and x = 30.0 cm, 
+so  
+ 
+ 
+ 
+q2 = −50.0 cm −30.0 cm
+(
+) =−20.0 cm 
+ 
+ 
+The thin lens equation then gives 
+ 
+ 
+ 
+1
+p2
++ 1
+q2
+= 1
+f2
+:
+1
+p2
++
+1
+−20.0 cm =
+1
+20.0 cm →p2 = +10.0 cm 
+ 
+ 
+The image formed by the first lens serves as the object for the 
+second lens and is located 10.0 cm in front of the second lens. 
+ 
+ 
+Thus, q1 = 50.0 cm – 10.0 cm = 40.0 cm and the thin lens equation 
+gives 
+ 
+ 
+ 
+1
+p1
++ 1
+q1
+= 1
+f1
+:
+1
+p1
++
+1
+40.0 cm =
+1
+10.0 cm →p1 = +13.3 cm 
+ 
+ 
+The original object should be located 13.3 cm in front of the first 
+lens . 
+ 
+(b) The overall magnification is 
+ 
+ 
+ 
+M = M1M2 = −q1
+p1
+⎛
+⎝⎜
+⎞
+⎠⎟−q2
+p2
+⎛
+⎝⎜
+⎞
+⎠⎟= −40.0 cm
+13.3 cm
+⎛
+⎝⎜
+⎞
+⎠⎟−−20.0 cm
+(
+)
+10.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −6.00
+ 
+ 
+(c) 
+Since M < 0, the final image is inverted . 
+ 
+(d) Since q2 < 0, it is virtual . 
+P36.79 
+(a) 
+With light going through the piece of glass from left to right, the 
+radius of the first surface is positive and that of the second surface 
+is negative according to the sign convention of Table 36.2. Thus, 
+R1 = + 2.00 cm and R2 = – 4.00 cm. Applying n1
+p + n2
+q = n2 −n1
+R
+ to 
+the first surface gives 
+ 
+ 
+ 
+1.00
+1.00 cm + 1.50
+q1
+= 1.50 −1.00
++2.00 cm 
+ 
+ 
+which yields q1 = – 2.00 cm. The first surface forms a virtual image 
+2.00 cm to the left of that surface and 16.0 cm to the left of the 
+second surface.
+
+--- PAGE 52 ---
+Chapter 36     725 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The image formed by the first surface is the object for the second 
+surface, so p2 = + 16.0 cm    and    n1
+p + n2
+q = n2 −n1
+R
+ gives 
+ 
+ 
+ 1.50
+16.0 cm + 1.00
+q2
+= 1.00 −1.50
+−4.00 cm    or    q2 = + 32.0 cm 
+ 
+ 
+32.0 cm to the right of the second surface 
+ 
+(b) The final image distance is positive, so the image is real. 
+P36.80 
+(a) 
+When the meterstick coordinate of the object is 0, its object 
+distance is pi = 32 cm. When the meterstick coordinate of the 
+object is x, its object distance is p = 32 cm – x. The image distance 
+from the lens is given by the thin lens equation, 1
+p + 1
+q = 1
+f  (in the 
+following, all variables are in units of cm, and units are 
+suppressed). Substituting,  
+ 
+ 
+ 
+1
+32.0 −x + 1
+q =
+1
+26.0
+ 
+ 
+ 
+Solving for q then gives 
+ 
+ 
+ 
+1
+q =
+1
+26.0 −
+1
+32.0 −x
+(
+) = 32.0 −x
+(
+)−26.0
+26.0 32.0 −x
+(
+) =
+6.0 −x
+26.0 32.0 −x
+(
+)
+q = 832 −26.0x
+6.0 −x
+ 
+ 
+ 
+The image distance q is measured from the position of the lens.  
+The image coordinate on the meterstick is  
+ 
+ 
+ 
+′x = 32.0 + q = 32.0 + 832 −26.0x
+6.0 −x
+= 32.0 6.0 −x
+(
+) + 832 −26.0x
+6.0 −x
+ 
+ 
+ 
+ 
+′x = 1024 −58.0x
+6.0 −x
+where x and x' are in centimeters. 
+  
+(b) The image starts at the position xi' = 171 cm and moves in the 
+positive x direction, faster and faster, and as the object 
+approaches the position x = 6 cm (the focal point of the lens), the 
+image goes out to infinity. At the instant the object is at x = 6 cm, 
+the rays from the top of the object are parallel as they leave the 
+lens: their intersection point can be described as at x' = ∞ to the 
+right or equally well at x' = –∞ on the left. From x' = –∞ the image 
+continues moving to the right, now slowing down. It reaches, for 
+example, –280 cm when the object is at 8 cm, and –55 cm when 
+the object is finally at 12 cm.
+
+--- PAGE 53 ---
+726     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+object position (cm) 
+image position (cm) 
+x 
+x' 
+0 
+170.7 
+1 
+193.2 
+2 
+227.0 
+3 
+283.3 
+4 
+396.0 
+5 
+734.0 
+6 
+infinity 
+7 
+–618.0 
+8 
+–280.0 
+9 
+–167.3 
+10 
+–111.0 
+11 
+–77.2 
+12 
+–54.7 
+ 
+ 
+(c) 
+The image moves to infinity and beyond—meaning it moves
+forward to infinity (on the right), jumps back to minus infinity
+(on the left), and then proceeds forward again.
+ 
+ 
+(d) 
+The image usually travels to the right, except when it jumps
+from plus infinity (right) to minus infinity (left).
+ 
+P36.81 
+(a) 
+1
+p1
++ 1
+q1
+= 1
+f1
+= 2
+R →
+1
+q1
+= 1
+f1
+−1
+p1
+=
+1
+10.0 cm −
+1
+12.5 cm 
+ 
+ 
+so    q1 = 50.0 cm (a real image, to left of mirror).This serves as an 
+object for the lens (a virtual object, to left of lens) with object 
+distance p2 = 25.0 cm – 50.0 cm = –25.0 cm, so 
+ 
+ 
+ 
+1
+q2
+= 1
+f2
+−1
+p2
+=
+1
+−16.7 cm
+(
+)
+−
+1
+−25.0 cm
+(
+)
+
+--- PAGE 54 ---
+Chapter 36     727 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+q2 = –50.3 cm (a virtual image),  
+ 
+ 
+meaning 50.3 cm to the right of the lens. Thus, the final image is 
+located 25.3 cm to right of mirror . 
+ 
+(b) The final image distance is negative (–50.3 cm), so the image is 
+virtual. 
+ 
+ 
+Calculate the overall magnification M = M1M2: 
+ 
+ 
+ 
+M1 = −q1
+p1
+= −50.0 cm
+12.5 cm = −4.00
+M2 = −q2
+p2
+= −−50.3 cm
+(
+)
+−25.0 cm
+(
+)
+= −2.01
+ 
+ 
+ 
+Then M = M1M2 = 8.05. 
+ 
+(c) 
+The magnification is positive, so the image is upright. 
+ 
+(d) From above, M = M1M2 = 8.05 . 
+P36.82 
+(a) 
+Have the beam pass through the diverging lens first, then the 
+converging lens. The rays of light entering the diverging lens are 
+parallel, so they behave as though they come from an object at 
+infinity (p = ∞):  
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f    1
+∞+ 1
+q =
+1
+−12.0 cm 
+ 
+ 
+or 
+q = –12.0 cm. 
+ 
+ANS. FIG. P36.82 
+ 
+ 
+Use this image as a real object for the converging lens, placing it 
+at the focal point on the object side of the lens, at p = 21.0 cm. 
+Then 
+ 
+ 
+ 
+1
+p + 1
+q = 1
+f
+→
+1
+21 cm + 1
+q =
+1
+21 cm 
+ 
+ 
+or 
+q = ∞. 
+ 
+ 
+The exiting rays will be parallel. The lenses must be 21.0 cm –  
+12.0 cm = 9.00 cm apart.
+
+--- PAGE 55 ---
+728     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Refer to ANS. FIG. P36.82. By similar triangles,  
+ 
+ 
+ 
+d2
+d1
+= 21.0 cm
+12.0 cm = 1.75 times 
+P36.83 
+(a) 
+I =
+P
+4π r2 =
+4.50 W
+4π 1.60 × 10−2 m
+(
+)
+2 = 1.40 kW/m2 
+ 
+(b) 
+I =
+P
+4πr2 =
+4.50 W
+4π 7.20 m
+(
+)
+2 = 6.91 mW/m2 
+ 
+(c) 
+1
+p + 1
+q = 1
+f : 
+1
+7.20 m + 1
+q =
+1
+0.350 m 
+ 
+ 
+→ q = 0.368 m 
+ 
+ 
+ 
+M =
+′h
+3.20 cm = −q
+p = −0.368 m
+7.20 m 
+ 
+ 
+→ 
+′h = 0.164 cm 
+ 
+(d) The lens intercepts power given by 
+ 
+ 
+ 
+P = IA = 6.91× 10−3 W/m2
+(
+) π
+4 0.150 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+and puts it all onto the image where 
+ 
+ 
+ 
+I = P
+A =
+6.91× 10−3 W/m2
+(
+) π 15.0 cm
+(
+)
+2 4
+⎡⎣
+⎤⎦
+π 0.164 cm
+(
+)
+2 4
+ 
+ 
+ 
+ 
+I = 58.1 W/m2 
+P36.84 
+A hemisphere is too thick to be described 
+as a thin lens. The light is undeviated on 
+entry into the flat face. We next consider 
+the light’s exit from the second surface, 
+for which R = –6.00 cm. The incident rays 
+are parallel, so p = ∞. 
+ 
+Then, 
+n1
+p + n2
+q = n2 −n1
+R
+ 
+ 
+becomes 0 + 1
+q = 1.00 −1.56
+−6.00 cm 
+ 
+and 
+q = 10.7 cm . 
+ 
+ANS. FIG. P36.84
+
+--- PAGE 56 ---
+Chapter 36     729 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.85 
+Use the lens makers’ equation, Equation 36.15, and the conventions of 
+Table 36.2. The first lens has focal length described by 
+ 
+ 
+1
+f1
+= n1 −1
+(
+)
+1
+R1,1
+−
+1
+R1,2
+⎛
+⎝⎜
+⎞
+⎠⎟= n1 −1
+(
+)
+1
+∞−1
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= 1−n1
+R
+ 
+ 
+For the second lens 
+ 
+ 
+1
+f2
+= n2 −1
+(
+)
+1
+R2,1
+−
+1
+R2,2
+⎛
+⎝⎜
+⎞
+⎠⎟= n2 −1
+(
+)
+1
++R −1
+−R
+⎛
+⎝⎜
+⎞
+⎠⎟= + 2 n2 −1
+(
+)
+R
+ 
+ 
+Let an object be placed at any distance p1 large compared to the 
+thickness of the doublet. The first lens forms an image according to 
+ 
+ 
+1
+p1
++ 1
+q1
+= 1
+f1
+1
+q1
+= 1−n1
+R
+−1
+p1
+ 
+ 
+This virtual (q1 < 0) image (to the left of lens 1) is a real object for the 
+second lens at distance p2 = –q1. For the second lens 
+ 
+ 
+1
+p2
++ 1
+q2
+= 1
+f2
+1
+q2
+= 2n2 −2
+R
+−1
+p2
+= 2n2 −2
+R
++ 1
+q1
+= 2n2 −2
+R
++ 1−n1
+R
+−1
+p1
+    = 2n2 −n1 −1
+R
+−1
+p1
+ 
+ 
+Then 1
+p1
++ 1
+q2
+= 2n2 −n1 −1
+R
+ so the doublet behaves like a single lens 
+with 1
+f = 2n2 −n1 −1
+R
+. 
+P36.86 
+Find the image position for light traveling to the left through the lens: 
+ 
+ 
+ 
+1
+p + 1
+q =  1
+fL
+→q = 
+pfL
+p −  fL
+ =  0.300 m
+(
+) 0.200 m
+(
+)
+0.300 m − 0.200 m  = 0.600 m 
+ 
+Therefore, this image forms 0.600 m to the left of the lens. Find the 
+image formed by light traveling to the right toward the mirror from an 
+object distance of 1.30 m – 0.300 m = 1.00 m: 
+ 
+ 
+ 
+1
+pM
+ +  1
+qM
+ =  1
+fM
+
+--- PAGE 57 ---
+730     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving and substituting numerical values gives 
+ 
+ 
+ 
+qM  = 
+pM fM
+pM  −  fM
+ =  1.00 m
+(
+) 0.500 m
+(
+)
+1.00 m − 0.500 m  = 1.00 m
+ 
+ 
+This image forms at the position of the original object. Therefore, as 
+light continues to the left through the lens, it will form an image at a 
+position 0.600 m to the left of the lens. As a result, both images form at 
+the same position and there are not two locations at which the student 
+can hold a screen to see images formed by this system.  
+P36.87 
+For the first lens, the thin lens equation gives  
+ 
+ 
+ 
+q1 =
+f1p1
+p1 −f1
+= −6.00 cm
+(
+) 12.0 cm
+(
+)
+12.0 cm −−6.00 cm
+(
+)
+= −4.00 cm 
+ 
+The first lens forms an image 4.00 cm to its left. The rays between the lenses 
+diverge from this image, so the second lens receives diverging light. It 
+sees a real object at distance 
+ 
+ 
+ 
+p2 = d – (–4.00 cm) = d + 4.00 cm 
+ 
+For the second lens, when we require that q2 →∞, the mirror-lens 
+equation becomes p2 = f2 = 12.0 cm. 
+ 
+Since the object for the converging lens must be 12.0 cm to its left, and 
+since this object is the image for the diverging lens, which is 4.00 cm to 
+its left, the two lenses must be separated by 8.00 cm. 
+ 
+ 
+Mathematically,  
+ 
+ 
+ 
+d + 4.00 cm = f2 = 12.0 cm →d = 8.00 cm 
+P36.88 
+For the first lens, the thin lens equation gives  
+ 
+ 
+ 
+q1 =
+f1p
+p −f1
+ 
+ 
+We require that q2 →∞ for the second lens; the thin lens equation 
+gives p2 = f2, where, in this case, 
+ 
+ 
+ 
+p2 = d −q1 = d −
+f1p
+p −f1
+ 
+ 
+Therefore, from p2 = f2,  
+ 
+ 
+ 
+d −
+f1p
+p −f1
+= f2
+d =
+f1p
+p −f1
++ f2 = f1p + f2 p −f1
+(
+)
+p −f1
+= p f1 + f2
+(
+)−f1 f2
+p −f1
+
+--- PAGE 58 ---
+Chapter 36     731 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.89 
+The inverted image is formed by light that leaves the object and goes 
+directly through the lens, never having reflected from the mirror. For 
+the formation of this inverted image, we have 
+ 
+ 
+ 
+M = −q1
+p1
+= −1.50   giving   q1 = +1.50p1 
+ 
+The thin lens equation then gives (with p and q in centimeters) 
+ 
+ 
+ 
+1
+p1
++
+1
+1.50p1
+=
+1
+10.0
+1.50
+1.50p1
++
+1
+1.50p1
+=
+1
+10.0
+2.50
+1.50p1
+=
+1
+10.0
+ 
+ 
+giving  
+p1 = 10.0 2.50
+1.50
+⎛
+⎝⎜
+⎞
+⎠⎟= 16.7 cm . 
+ 
+The upright image is formed by light that passes through the lens after 
+reflecting from the mirror. The object for the lens in this upright image 
+formation is the image formed by the mirror. In order for the lens to 
+form the upright image at the same location as the inverted image, the 
+image formed by the mirror must be located at the position of the 
+original object (so the object distances, and hence image distances, are 
+the same for both the inverted and upright images formed by the lens). 
+Therefore, the object distance and the image distance for the mirror are 
+equal, and their common value is 
+ 
+ 
+ 
+qmirror = pmirror = 40.0 −p1 = 40.0 −16.7 = +23.3 
+ 
+The mirror equation, 
+1
+pmirror
++
+1
+qmirror
+=
+1
+fmirror
+, then gives 
+ 
+ 
+ 
+1
+fmirror
+=
+1
+23.3 cm +
+1
+23.3 cm =
+2
+23.3 cm 
+ 
+or 
+ 
+ fmirror = + 23.3 cm
+2
+= +11.7 cm . 
+P36.90 
+(a) 
+In the first situation, 1
+p1
++ 1
+q1
+= 1
+f , and  
+ 
+ 
+ 
+p1 + q1 = 1.50 →q1 = 1.50 −p1 
+ 
+ 
+where f, p, and q are in meters.  
+ 
+ 
+Substituting, we have 1
+f = 1
+p1
++
+1
+1.50 −p1
+.
+
+--- PAGE 59 ---
+732     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P36.90 
+ 
+(b) In the second situation, 1
+p2
++ 1
+q2
+= 1
+f , 
+ 
+ 
+ 
+p2 = p1 + 0.900 m  and  q2 = q1 – 0.900 m = 0.600 m – p1, 
+ 
+ 
+where f, p, and q are in meters. 
+ 
+ 
+Substituting, we have  
+1
+f =
+1
+p1 + 0.900 +
+1
+0.600 −p1
+. 
+ 
+(c) 
+Both lens equation are equal: 
+ 
+ 
+ 
+1
+p1
++ 1
+q1
+= 1
+f = 1
+p2
++ 1
+q2
+ 
+ 
+ 
+ 
+1
+p1
++
+1
+1.50 −p1
+=
+1
+p1 + 0.900 +
+1
+0.600 −p1
+1.50 −p1 + p1
+p1 1.50 −p1
+(
+)
+= 0.600 −p1 + p1 + 0.900
+p1 + 0.900
+(
+) 0.600 −p1
+(
+)
+1.50
+p1 1.50 −p1
+(
+)
+=
+1.50
+p1 + 0.900
+(
+) 0.600 −p1
+(
+)
+ 
+ 
+ 
+Simplified, this becomes  
+ 
+ 
+ 
+p1 1.50 −p1
+(
+) = p1 + 0.900
+(
+) 0.600 −p1
+(
+) 
+ 
+ 
+ 
+1.50p1 −p
+1
+2 = 0.600 −0.900
+(
+)p1 + 0.900
+(
+) 0.600
+(
+) −p
+1
+2
+1.80p1 = 0.540
+p1 = 0.300 m
+ 
+ 
+(d) From part (a), 1
+f = 1
+p1
++
+1
+1.50 −p1
+: 
+ 
+ 
+ 
+1
+f =
+1
+0.300 +
+1
+1.50 −0.300
+f = 0.240 m
+
+--- PAGE 60 ---
+Chapter 36     733 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.91 
+(a) 
+For the mirror, f = R
+2 = +1.50 m. In addition, because the distance 
+to the Sun is so much larger than any other distances, we can take  
+p = ∞. 
+ 
+ 
+The mirror equation, 1
+p + 1
+q = 1
+f , then gives q = f = 1.50 m in front 
+of the mirror. 
+ 
+(b) Now, in M = −q
+p =
+′h
+h  , 
+ 
+ 
+the magnification is nearly zero, but we can be more precise: 
+h
+p = 0.533° is the angular diameter of the object. Thus,  
+ 
+ 
+ 
+′h = −h
+p q = −
+0.533°
+(
+) π rad
+180°
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥1.50 m
+(
+) = −0.014 0 m
+= −1.40 cm
+ 
+ 
+ 
+and the image diameter is 1.40 cm. 
+P36.92 
+(a) 
+For lens one, as shown in the top panel in ANS. FIG. P36.92, 
+ 
+ 
+ 
+1
+40.0 cm + 1
+q1
+=
+1
+30.0 cm
+q1 = 120 cm
+ 
+ 
+ 
+This real image is the object of the second lens: I1 = O2 ; it is behind 
+the lens, as shown in the middle panel in ANS. FIG. P36.92, so it 
+is a virtual object for the second lens. That is, the object distance is 
+ 
+ 
+ 
+p2 = 110 cm −120 cm = −10.0 cm
+1
+−10.0 cm + 1
+q2
+=
+1
+−20.0 cm :
+q2 = 20.0 cm
+ 
+ 
+(b) From part (a),  
+ 
+ 
+ 
+M1 = −q1
+p1
+= −120 cm
+40.0 cm = −3.00 
+ 
+ 
+ 
+M2 = −q2
+p2
+= −
+20.0 cm
+−10.0 cm
+(
+)
+= +2.00 
+ 
+ 
+ 
+Moverall = M1M2 = −6.00
+
+--- PAGE 61 ---
+734     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Moverall < 0 , so final image is inverted . 
+ 
+(d) If lens two is a converging lens (bottom panel in ANS. FIG. 
+P36.92): 
+ 
+ 
+ 
+1
+−10.0 cm + 1
+q2
+=
+1
+20.0 cm
+q2 = 6.67 cm
+ 
+ 
+ 
+ 
+M2 = −
+6.67 cm
+−10.0 cm
+(
+)
+= +0.667
+Moverall = M1M2 = −2.00
+ 
+ 
+ 
+Again, Moverall < 0 and the final image is inverted . 
+ 
+ANS. FIG. P36.92
+
+--- PAGE 62 ---
+Chapter 36     735 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P36.93 
+(a) 
+For the light the mirror intercepts, the power is given by 
+ 
+ 
+ 
+P = I0A = I0π Ra
+2 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+350 W = 1 000 W/m2
+(
+)π Ra
+2 
+ 
+ 
+and Ra = 0.334 m or larger . 
+ 
+(b) In 1
+p + 1
+q = 1
+f = 2
+R we have p →∞, so q = R
+2
+ and 
+ 
+ 
+ 
+M =
+′h
+h = −q
+p , 
+ 
+ 
+so  
+′h = −q h
+p
+⎛
+⎝⎜
+⎞
+⎠⎟= −R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.533° π rad
+180°
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= −R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟9.30 m rad
+(
+) 
+ 
+ 
+where h
+p is the angle the Sun subtends. 
+ 
+ 
+The intensity at the image is then  
+ 
+ 
+ 
+I =
+P
+π ′h 2 4 = 4I0π Ra
+2
+π ′h 2
+= 4I0 Ra
+2
+′h 2
+I =
+4I0Ra
+2
+R 2
+(
+)
+2 9.30 × 10−3 rad
+(
+)
+2
+120 × 103 W/m2 =
+16 1 000 W/m2
+(
+)Ra
+2
+R2 9.30 × 10−3 rad
+(
+)
+2
+Ra
+2
+R2 = 6.49 × 10−4
+ 
+ 
+ 
+So, Ra
+R = 0.025 5 or larger . 
+P36.94 
+(a) 
+From the thin lens equation, 
+ 
+ 
+ 
+1
+q1
+= 1
+f1
+−1
+p1
+=
+1
+5 cm −
+1
+7.5 cm →q1 = 15 cm 
+ 
+ 
+and, from the definition of magnification, 
+ 
+ 
+ 
+M1 = −q1
+p1
+= −15 cm
+7.5 cm = −2
+
+--- PAGE 63 ---
+736     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, for a combination of two lenses, 
+ 
+ 
+ 
+M = M1M2 : 1 = −2
+(
+)M2 
+ 
+ 
+or 
+ 
+ 
+ 
+M2 = −1
+2 = −q2
+p2
+→p2 = 2q2
+ 
+ 
+ 
+From the thin lens equation for the second lens, 
+ 
+ 
+ 
+1
+p2
++ 1
+q2
+= 1
+f2
+:
+1
+2q2
++ 1
+q2
+=
+1
+10 cm →q2 = 15 cm, p2 = 30 cm
+ 
+ 
+ 
+So the distance between the object and the screen is 
+ 
+ 
+ 
+p1 + q1 + p2 + q2 = 7.5 cm + 15 cm + 30 cm + 15 cm = 67.5 cm 
+ 
+(b) In the following, if no units are shown, assume all distances (p, q, 
+and f) are in units of cm. 
+ 
+ 
+For lens 1, we have 1
+′p1
++ 1
+′q1
+= 1
+f1
+= 1
+5 . Solve for ′q1 in terms of ′p1 : 
+ 
+ 
+ 
+′q1 =
+5 ′p1
+′p1 −5 
+[1] 
+ 
+ 
+Now we have 
+′
+M1 = −′q1
+′p1
+= −
+5
+′p1 −5 , using [1]. From 
+′
+M =
+′
+M1
+′
+M2 = 3, we have 
+ 
+ 
+ 
+′
+M2 =
+′
+M
+′
+M1
+= −3
+5
+′p1 −5
+(
+) = −′q2
+′p2
+ 
+ 
+ 
+ 
+′q2 = 3
+5 ′p2
+′p1 −5
+(
+) 
+[2] 
+ 
+ 
+Substitute [2] into the lens equation for lens 2, 
+1
+′p2
++ 1
+′q2
+= 1
+f2
+=
+1
+10 cm , and obtain ′p2 in terms of ′p1 : 
+ 
+ 
+ 
+′p2 = 10 3 ′p1 −10
+(
+)
+3
+′p1 −5
+(
+)
+ 
+[3] 
+ 
+ 
+Substitute [3] into [2], to obtain ′q2 in terms of ′p1 : 
+ 
+ 
+ 
+′q2 = 2 3 ′p1 −10
+(
+) 
+[4] 
+ 
+ 
+We know that the distance from object to the screen is a constant:   
+ 
+ 
+ 
+′p1 + ′q1 + ′p2 + ′q2 = a constant 
+[5]
+
+--- PAGE 64 ---
+Chapter 36     737 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Using [1], [3], and [4], and the value obtained in part (a), [5] 
+becomes  
+ 
+ 
+ 
+′p1 + 5 ′p1
+′p1 −5 + 10 3 ′p1 −10
+(
+)
+3
+′p −5
+(
+)
++ 2 3 ′p1 −10
+(
+) = 67.5 
+[6] 
+ 
+ 
+Multiplying equation [6] by 3
+′p1 −5
+(
+) , we have  
+ 
+ 
+ 
+3
+′p1 −5
+(
+)
+⎡⎣
+⎤⎦′p1 + 15 ′p1 + 10 3 ′p1 −10
+(
+)
+                        + 2 3 ′p1 −10
+(
+) 3
+′p1 −5
+(
+)
+⎡⎣
+⎤⎦= 67.5 3
+′p1 −5
+(
+)
+⎡⎣
+⎤⎦
+3 ′p1
+2 −15 ′p1 + 15 ′p1 + 30 ′p1
+                       −100 + 6 3 ′p1
+2 −25 ′p1 + 50
+(
+) = 202.5 ′p1 −1012.5
+3 ′p1
+2 + 30 ′p1 −100 + 18 ′p1
+2 −150 ′p1 + 300 −202.5 ′p1 + 1012.5 = 0
+ 
+ 
+ 
+This reduces to the quadratic equation  
+ 
+ 
+ 
+21 ′p1
+2 −322.5 ′p1 + 1 212.5 = 0 
+ 
+ 
+which has solutions ′p1 = 8.784 cm and 6.573 cm. 
+ 
+ 
+Case 1: 
+′p1 = 8.784 cm 
+ 
+ 
+ 
+∴
+′p1 −p1 = 8.784 cm −7.50 cm = 1.28 cm 
+ 
+ 
+ 
+From [4]:    ′q2 = 32.7 cm 
+ 
+ 
+ 
+∴
+′q2 −q2 = 32.7 cm −15.0 cm = 17.7 cm 
+ 
+ 
+Case 2:    ′p1 = 6.573 cm 
+ 
+ 
+ 
+∴
+′p1 −p1 = 6.573 cm −7.50 cm = −0.927 cm 
+ 
+ 
+ 
+From [4]:    ′q2 = 19.44 cm 
+ 
+ 
+ 
+∴
+′q2 = q2 = 19.44 cm −15.0 cm = 4.44 cm 
+ 
+ 
+From these results it is concluded that: 
+ 
+ 
+The lenses can be displaced in two ways. The first lens can be
+moved 1.28 cm farther from the object and the second lens
+17.7 cm toward the object. Alternatively, the first lens can be
+moved 0.927 cm toward the object and the second lens 4.44 cm
+toward the object.
+
+--- PAGE 65 ---
+738     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.95 
+(a) 
+The lens makers’ equation, 1
+f = n −1
+(
+)
+1
+R1
++ 1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟, becomes:  
+ 
+ 
+ 
+1
+5.00 cm = n −1
+(
+)
+1
+9.00 cm −
+1
+−11.0 cm
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+ 
+giving n = 1.99 . 
+ 
+(b) As the light passes through the lens for the first time, the thin lens 
+equation, 1
+p1
++ 1
+q1
+= 1
+f , becomes: 
+ 
+ 
+ 
+1
+8.00 cm + 1
+q1
+=
+1
+5.00 cm 
+ 
+ 
+giving    q1 = 13.3 cm,    and    M1 = −q1
+p1
+= −13.3 cm
+8.00 cm = −1.67. 
+ 
+ 
+This image becomes the object for the concave mirror with: 
+ 
+ 
+ 
+pM = 20.0 cm −q1 = 20.0 cm −13.3 cm = 6.67 cm 
+ 
+ 
+and f = R
+2 = +4.00 cm. 
+ 
+ 
+The mirror equation becomes:  
+1
+6.67 cm + 1
+qM
+=
+1
+4.00 cm , 
+ 
+ 
+giving 
+qM = 10.0 cm, 
+ 
+ 
+and  
+M2 = −qM
+pM
+= −10.0 cm
+6.67 cm = −1.50. 
+ 
+ 
+The image formed by the mirror serves as a real object for the lens 
+on the second pass of the light through the lens, with 
+ 
+ 
+ 
+p3 = 20.0 cm −qM = +10.0 cm 
+ 
+ 
+The thin lens equation yields: 
+1
+10.0 cm + 1
+q3
+=
+1
+5.00 cm , 
+ 
+ 
+or 
+q3 = 10.0 cm 
+ 
+ 
+and M3 = −q3
+p3
+= −10.0 cm
+10.0 cm = −1.00. 
+ 
+ 
+The final image is a real image located 
+10.0 cm to the left of the lens . 
+ 
+(c) 
+From above, we find the overall magnification:  
+ 
+ 
+ 
+Mtotal = M1M2M3 = −2.50
+
+--- PAGE 66 ---
+Chapter 36     739 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The overall magnification is negative, so the final image is 
+inverted.  
+P36.96 
+(a) 
+The object is located at the focal point of 
+the upper mirror. Thus, the upper 
+mirror creates an image at infinity (i.e., 
+parallel rays leave this mirror). For the 
+upper mirror, the object is real, and the 
+mirror equation, 1
+p + 1
+q = 1
+f , gives  
+ 
+ 
+ 
+1
+7.50 cm + 1
+q1
+=
+1
+7.50 cm
+→q1 ≈∞ (very large)
+ 
+ 
+ 
+The lower mirror focuses these parallel 
+rays at its focal point, located at the hole 
+in the upper mirror. For the lower 
+mirror, the object is virtual (behind the mirror), p2 ≈−∞: 
+ 
+ 
+ 
+1
+−∞+ 1
+q2
+=
+1
+7.50 cm →q2 = 7.50 cm 
+ 
+ 
+The overall magnification is 
+ 
+ 
+ 
+M = m1m2 =
+−q1
+p1
+⎛
+⎝⎜
+⎞
+⎠⎟
+−q2
+p2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+∞
+7.50 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+7.50 cm
+−∞
+⎛
+⎝⎜
+⎞
+⎠⎟= −1 
+ 
+ 
+Thus, the image is real, inverted, and actual size . 
+ 
+(b) Light travels the same path regardless of direction, so light shined 
+on the image is directed to the actual object inside, and the light 
+then reflects and is directed back to the outside. Light directed 
+into the hole in the upper mirror reflects as shown in the lower 
+figure, to behave as if it were reflecting from the image. 
+P36.97 
+First, we solve for the image formed by light traveling to the left 
+through the lens. The object distance is pL = p, so  
+ 
+ 
+1
+pL
++ 1
+qL
+= 1
+fL
+→
+1
+qL
+= 1
+fL
+−1
+p 
+ 
+Next, we solve for the image formed by light traveling to the right and 
+reflecting off the mirror. The object distance is pM = d – p, so 
+ 
+ 
+1
+pM
++ 1
+qM
+= 1
+fM
+→
+1
+qM
+= 1
+fM
+−1
+pM
+= pM −fM
+fMpM
+qM =
+fMpM
+pM −fM
+= fM d −p
+(
+)
+d −p −fM
+ 
+ANS. FIG. P36.96
+
+--- PAGE 67 ---
+740     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If qM is positive (real image), the image formed by the mirror will be to 
+its left, and if qM is negative (virtual image), the image formed by the 
+mirror will be to its right; for either case, the image formed by the 
+mirror acts as an object for the lens at a distance ′pL :  
+ 
+ 
+′pL = d −qM = d −
+fM d −p
+(
+)
+d −p
+(
+)−fM
+= d d −p −fM
+(
+)−fM d −p
+(
+)
+d −p −fM
+ 
+ 
+We solve for the position of the final image q′L: 
+ 
+ 
+1
+′qL
+= 1
+fL
+−1
+′pL
+= 1
+fL
+−
+d −p −fM
+d d −p −fM
+(
+) −fM d −p
+(
+) 
+ 
+For the two images formed by the lens to be at the same place,  
+ 
+ 
+1
+qL
+= 1
+′qL
+→
+1
+fL
+−1
+pL
+= 1
+fL
+−1
+′pL
+→
+′pL = pL 
+ 
+Therefore,  
+ 
+ 
+d d −p −fM
+(
+) −fM d −p
+(
+)
+d −p −fM
+= p
+d d −p −fM
+(
+) −fM d −p
+(
+) = p d −p −fM
+(
+)
+d2 −pd −fMd −fMd + fMp = pd −p2 −fMp
+d2 −2 p + fM
+(
+)d + 2 fMp + p2
+(
+) = 0
+ 
+ 
+Solving for d then gives  
+ 
+ 
+d =
+2 p + fM
+(
+) ±
+4 p + fM
+(
+)
+2 −4 1( ) 2 fMp + p2
+(
+)
+2 1( )
+d =
+2 p + fM
+(
+) ±
+4p2 + 8 fMp + 4 f
+M
+2 −8 fMp −4p2
+2
+d =
+2 p + fM
+(
+) ±
+4 f
+M
+2
+2
+= p + fM
+(
+) ± fM
+ 
+ 
+Therefore, d = p and d = p + 2 fM .
+
+--- PAGE 68 ---
+Chapter 36     741 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P36.2 
+4.58 m 
+P36.4 
+(1) 4.00 m; (2) 12.00 m; (3) 16.00 m 
+P36.6 
+See ANS. FIG. P36.6 for the locations of the five images. 
+P36.8 
+(a) 33.3 cm in front of the mirror; (b) –0.666; (c) real; (d) inverted 
+P36.10 
+(a) See ANS FIG P36.10; (b) q = –40.0 cm, so the image is behind the 
+mirror; (c) M = +2.00, so the image is enlarged and upright; (d) See 
+P36.10(d) for full explanation. 
+P36.12 
+(a) –26.7 cm; (b) upright; (c) 0.026 7 
+P36.14 
+(a) +2.22 cm; (b) +10.0  
+P36.16 
+A convex mirror diverges light rays incident upon it, so the mirror in 
+this problem cannot focus the Sun’s rays to a point. 
+P36.18 
+(a) 0.708 m in front of the sphere; (b) upright 
+P36.20 
+(a) 
+ad
+a2 −1
+; (b) 
+ad
+a2 −1
+ 
+P36.22 
+(a) 8.00 cm; (b) See ANS. FIG. P36.22(b); (c) virtual 
+P36.24 
+(a) 16.0 cm from the mirror; (b) +0.333; (c) upright 
+P36.26 
+(a) See P36.26(a) for full explanation; (b) real image at 0.639 s and 
+virtual image at 0.782 s 
+P36.28 
+8.05 cm 
+P36.30 
+38.2 cm below the top surface 
+P36.32 
+3.75 mm 
+P36.34 
+See P36.34 for full explanation. 
+P36.36 
+(a) (i) 3.77 cm from the front of the wall, in the water, (ii) 19.3 cm from 
+the front wall, in the water; (b) (i) +1.01, (ii) +1.03; (c) The plastic has 
+uniform thickness, so the surfaces of entry and exit for any particular 
+ray are very nearly parallel. The ray is slightly displaced, but it would 
+not be changed in direction by going through the plastic wall with air 
+on both sides. Only the difference between the air and water is 
+responsible for the refraction of the light; (d) yes; (e) If p = R , then 
+q = –p = – R ; if p > R , then q > R . For example, if p = 2 R , then 
+q = –3.00 R and M = +2.00. 
+P36.38 
+(a) 650 cm, real, inverted, enlarged; (b) –600 cm, virtual, upright, 
+enlarged
+
+--- PAGE 69 ---
+742     Image Formation 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.40 
+(a) 12.3 cm to the left of the lens; (b) 0.615; (c) See ANS. FIG. P36.40. 
+P36.42 
+(a) The image is in back of the lens at a distance of 1.25f from the lens; 
+(b) –0.250; (c) real 
+P36.44 
+(i) See ANS. FIG P36.44(i): (a) 20.0 cm in back of the lens, (b) real,  
+(c) inverted, (d) M = –1.00, (e) Algebraic answers agree, and we can 
+express values to three significant figures: q = 20.0 cm, M = –1.00;  
+(ii) See ANS. FIG. P36.44(ii): (a) 10 cm front of the lens, (b) virtual,  
+(c) upright, (d) M = +2.00, (e) Algebraic answers agree, and we can 
+express values to three significant figures: q = –10.0 cm, M = +2.00,  
+(f) Small variations from the correct directions of rays can lead to 
+significant errors in the intersection point of the rays. These variations 
+may lead to the three principal rays not intersecting at a single point. 
+P36.46 
+(i): (a) 13.3 cm in front of the lens, (b) virtual, (c) upright, (d) +0.333; 
+(ii): (a) 10.0 cm in front of the lens, (b) virtual, (c) upright, (d) +0.500; 
+(iii): (a) 6.67 cm in front of the lens, (b) virtual, (c) upright, (d) +0.667 
+P36.48 
+dq = −q2
+p2 dp 
+P36.50 
+(a) qa = 26.3 cm, qd = 46.7 cm, –8.75 cm, –23.3 cm; (b) See ANS. FIG. 
+P36.50(b); (c) See P36.50(c) for full explanation; (d) The integral stated 
+adds up the areas of ribbons covering the whole image, each with 
+vertical dimension |h′| and horizontal width dq; (e) 328 cm
+2. 
+P36.52 
+See P36.52 for full explanation. 
+P36.54 
+(a) –34.7 cm; (b) –36.1 cm 
+P36.56 
+f/1.4 
+P36.58 
+(a) –4.00 diopters; (b) diverging lens 
+P36.60 
+(a) –25.0 cm; (b) nearsighted; (c) –3.70 diopters 
+P36.62 
+(a) +50.8 diopters ≤P ≤60.0 diopters; (b) –0.800 diopters, diverging 
+P36.64 
+The image is inverted, real, and diminished. 
+P36.66 
+(a) 4.17 cm; (b) 6.00 
+P36.68 
+(a) –800; (b) inverted 
+P36.70 
+(a) See P36.70(a) for full explanation; (b) −hf
+p ; (c) –1.07 mm 
+P36.72 
+–25.0 cm 
+P36.74 
+f =
+−Md
+1−M
+(
+)
+2 when the lens is diverging; f =
+Md
+M −1
+(
+)
+2 when the lens is 
+converging
+
+--- PAGE 70 ---
+Chapter 36     743 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P36.76 
+(a) 0.833 mm; (b) 0.820 mm 
+P36.78 
+(a) 13.3 cm in front of the first lens; (b) –6.00; (c) inverted; (d) virtual 
+P36.80 
+(a) ′x = 1024 −58.0x
+6.0 −x
+ where x and x′ is are in centimeters; (b) See 
+P36.80(b) for full explanation; (c) The image moves to infinity and 
+beyond—meaning it moves forward to infinity (on the right), jumps 
+back to minus infinity (on the left), and then proceeds forward again; 
+(d) The image usually travels to the right, except when it jumps from 
+plus infinity (right) to minus infinity (left). 
+P36.82 
+(a) See P36.82(a) for full explanation; (b) 1.75 times 
+P36.84 
+q = 10.7 cm 
+P36.86 
+See P36.86 for full explanation 
+P36.88 
+p f1 + f2
+(
+) −f1 f2
+p −f1
+ 
+P36.90 
+(a) 1
+f = 1
+p1
++
+1
+1.50 −p1
+; (b) 1
+f =
+1
+p1 + 0.900 +
+1
+0.600 −p1
+; (c) 0.300 m;  
+(d) 0.240 m 
+P36.92 
+(a) 20.0 cm; (b) –6.00; (c) inverted; (d) q2 = 6.67 cm and Moverall = –2.00, 
+inverted 
+P36.94 
+(a) 67.5 cm; (b) The lenses can be displaced in two ways. The first lens 
+can be moved 1.28 cm farther from the object and the second lens 17.7 
+cm toward the object. Alternatively, the first lens can be moved 0.927 
+cm toward the object and the second lens 4.44 cm toward the object. 
+P36.96 
+(a) The image is real, inverted, and actual size; (b) Light travels the 
+same path regardless of direction, so light shined on the image is 
+directed to the actual object inside, and the light then reflects and is 
+directed back to the outside. Light directed into the hole in the upper 
+mirror reflects as shown in the lower figure, to behave as if it were 
+reflecting from the image.

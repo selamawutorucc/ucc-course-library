@@ -1,0 +1,56 @@
+SM/SMS/09/0021
+THE COEFFICIENT OF CUBICAL EXPANSION OF LIQUID USING SPECIFIC GRAVITY BOTTLE 
+        EXPERIMENT 10
+                                                     SALOMEY ABABIO
+                                                                        21/10/09
+: Determination of the coefficient of cubical expansion of liquid using specific gravity bottle.
+Aim:  To determine the coefficient of glycerine, using specific gravity bottle.
+Apparatus:  specific gravity bottle, electronic balance, glycerine, water bath, clamp and stand, thermometer, cotton thread, filter paper
+Diagram: 
+THEORY:
+change. A similar phenomenon occurs for solids as well. A simple approximate relation governs the thermal expansion in length, Δl, of most solids:
+β is the coefficient of linear expansion.
+A comparison analysis applied to a solid of isotropic material demonstrates that the coefficient of volume expansion is, α=3β.
+	Since this principle works for both solids and liquids, the coefficients of both the liquid and the container must be considered, when performing any experiment on expansion. Therefore, for a liquid being heated, the expansion of the container is taken into consideration, and the expression is given by:
+Where,		
+		m0 is mass of the container
+		m1 is mass of container + liquid before heating
+		m2 is mass of the container + liquid, after heating
+		t1 is the initial temperature of the liquid
+		t2 is the final temperature of the liquid
+		g is the coefficient of cubical expansion of the container
+PROCEEDURE:
+The specific gravity bottle was rinsed with methylated spirit and then it was allowed to dry, to hasten the process air it blown into it. The bottle is then weighed on the electronic weighing balance. After the gravity bottle is then filled with glycerine from a beaker. The stopper is then inserted and the bottle was handled less to prevent it from warming, the outside of the gravity bottle was wiped thoroughly with a filter paper. The now filled gravity bottle is then weighed again on the electronic balance,  the temperature of the glycerine in the bottle is then taken. A cotton thread is then tied tightly and then suspended bottle from the clamp so that it is almost completely immersed in the water. It was then heated in the water – bath and then it was boiled until the temperature is a 100 degree Celsius. The bottle is then removed and the wiped thoroughly with a filter paper. It was then cooled and the bottle reweighed.
+CALCULATION
+From the theory,
+Substituting the experimental values into it,
+Procedure: The specific gravity bottle together with its stopper was weighed after it had been cleaned by rinsing out with methylated spirit. The mass of the cleaned, dried and empty bottle with its stopper was recorded, say, M0 . The specific gravity bottle was then filled with glycerine from a beaker in which the temperature of the glycerine at the time of filling was taken, say, t1(0C) with a thermometer. After that, the stopper of the bottle of the bottle was inserted and the overflow was wiped off completely with filter paper. It was ensured that the bottle was handled as little as possible to avoid warming it. The new mass of the specific gravity bottle was recorded, say, M1, using the electronic balance. A piece of cotton thread was then tied securely around the neck of the bottle and used to suspend it from the clamp, in a way that it was almost totally immersed in the water bath. The water bath was then heated to boil the water for some time and its temperature was taken, say, t2 (0C), with the thermometer, after which the heat was taken off. The bottle was wiped clean and allowed to cool. After cooling for sometime, the bottle was reweighed and its mass was recorded, say M2.
+Observation:
+Electronic balance:  Sartorius CP323P,   d = 0.001g (80g),  0.002g (160g),  0.005g (320g)
+Discussion of errors:
+Sources of error like buoyancy effect, air current acting upon the object by surrounding air caused an increase or decrease in the original value due to density of air, impure glycerine delayed expansion and reduced the boiling point of the glycerine when it was heated, and the corroded balance pan affected the accuracy of the mass.
+Precautions:
+It was ensured that the balance was tarred before measurements were taken.
+It was ensured that the specific gravity bottle was rinsed with methylated spirit to avoid traces
+of water for accuracy.
+      3. Error may be due to holding of specific gravity bottle which caused change in temperature.
+      4. Errors may be due to impure glycerine. 
+ERRORS:
+Expansion of the glass of the thermometer
+PRECAUTIONS:
+The stopper of the specific gravity bottle was fitted tightly to avoid spillage.
+The specific gravity bottle was fully immersed in the water bath to ensure uniform temperature distribution
+It was ensured that the balance was tarred before measurements were taken.
+It was ensured that the specific gravity bottle was rinsed with methylated spirit to avoid traces
+of water for accuracy.
+      5. Error may be due to holding of specific gravity bottle which caused change in temperature.
+CONCLUSION:
+The coefficient of cubic expansion of glycerine was found to be 6.17×10-4K-1.
+REFERENCES:
+3.Nelkon M and Parker P(1995);Advanced Level Physics Seventh(7th)Edition, Published by Longman International Education, Oxford,U.K. Page 711.
+ Weight of bottle and stopper                                                                    (M0)                                            |                 26.925
+
+ Weight of bottle and stopper full at t1                                                     (M1) |                 88.208
+ Weight of bottle and stopper after cooling from the boiling water   (M2) |                 86.596
+Temperature of glycerine at moment of filling                                        (t1) 0C |                    27
+Temperature of boiling water                                                                     (t2) 0C |                   100

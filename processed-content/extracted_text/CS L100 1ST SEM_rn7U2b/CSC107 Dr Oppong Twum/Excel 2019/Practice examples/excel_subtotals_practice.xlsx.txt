@@ -1,0 +1,62 @@
+
+--- SHEET: Sheet1 ---
+Homeroom # | First Name | Last Name | Payment Method | T-Shirt Size | 
+105 | Melissa | White | Debit Card | Small | 
+105 | Esther | Yaron | Pending | Small | 
+135 | Anisa | Naser | Check Bounced | Small | 
+220-A | Brigid | Ellison | Cash | Small | 
+220-A | Christopher | Peyton-Gomez | Check | Small | 
+220-B | Michael | Lazar | Cash | Small | 
+220-B | Malik | Reynolds | Cash | Small | 
+220-B | Wendy | Shaw | Cash | Small | 
+105 | Nathan | Albee | Check | Medium | 
+105 | Christiana | Chen | Check Bounced | Medium | 
+105 | Sidney | Kelly | Check | Medium | 
+110 | Matt | Benson | Money Order | Medium | 
+110 | Gabriel | Del Toro | Cash | Medium | 
+135 | James | Panarello | Check | Medium | 
+135 | Chantal | Weller | Debit Card | Medium | 
+220-A | Chevonne | Means | Money Order | Medium | 
+220-B | Samantha | Bell | Check | Medium | 
+220-B | Avery | Kelly | Debit Card | Medium | 
+105 | Derek | MacDonald | Cash | Large | 
+110 | Kris | Ackerman | Money Order | Large | 
+110 | Regina | Olivera | Pending | Large | 
+135 | Jordan | Weller | Money Order | Large | 
+135 | Alex | Yuen | Wrong Amount | Large | 
+135 | Lia | Richards | Cash | X-Large | 
+220-A | Juan | Flores | Pending | X-Large | 
+220-B | Tyrese | Hanlon | Debit Card | X-Large | 
+220-B | Karla | Nichols | Money Order | X-Large | 
+
+--- SHEET: Challenge ---
+First Name | Last Name | Grade | Amount Raised
+Sandra | Parker | 8 | 100
+Kim | Li | 9 | 75
+Maxwell | Huang | 8 | 5
+Joseph | Smith | 10 | 25
+Alec | Jessup | 11 | 30
+Leslie | Pollock | 9 | 150
+Sriya | Chopra | 12 | 75
+Isabel | Mendez | 12 | 36
+Jermaine | Rossi | 9 | 54
+Phillip | Jackson | 10 | 89
+Ana | Portofino | 10 | 23
+Katherine | Sansa | 11 | 27
+Lee | Chang | 8 | 90
+Tiquana | Johnson | 12 | 67
+Braxton | Gerrard | 11 | 84
+Will | Kipley | 9 | 110
+Muhammed | Assaf | 10 | 250
+Watson | Merrigold | 11 | 7
+Gabriela | Potter | 11 | 90
+Gustaf | Handle | 8 | 22
+Jenna | Bates | 8 | 83
+Thor | Gundersen | 12 | 45
+Lilly | Bell | 9 | 91
+Martin | Campbell | 9 | 103
+Shiva | Niall | 11 | 107
+Jessa | Hart | 10 | 8
+Matthew | Brainerd | 8 | 11
+Mariela | Villalobos | 10 | 37
+Juan | Flores | 12 | 17

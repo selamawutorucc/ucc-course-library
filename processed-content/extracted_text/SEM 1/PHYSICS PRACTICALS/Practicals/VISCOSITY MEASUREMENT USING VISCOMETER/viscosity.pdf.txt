@@ -1,0 +1,463 @@
+
+--- PAGE 1 ---
+1
+MEASUREMENT OF VISCOSITY USING A FALLING BALL 
+VISCOMETER 
+ 
+ 
+ 
+Objectives: 
+To measure the viscosity of water/ methanol/glycerine as a function of temperature. 
+ 
+Apparatus:  
+(i) Falling ball viscometer (ii) Circulating water bath with an immersion thermostat,(iii) 
+Viscometer balls, (iv) Pyknometer, (v) Retort stand, (vi) Weighing balance, (vii) 
+Volumetric flask, (viii) Stopwatch, (ix) Thermometers, (x) Glasswares, (xi) Cleaning 
+accessories and (xii) Distilled water/Methanol (laboratory grade)/Glycerine.  
+ 
+Introduction: 
+Viscosity is a measure of the resistance of a fluid which is being deformed by 
+either shear stress or tensile stress. In everyday terms (and for fluids only), viscosity is 
+“thickness”. Thus, water is “thin”, having a lower viscosity, while honey is “thick”, 
+having a higher viscosity. Put simply, the less viscous the fluid is, the greater its ease of 
+movement (fluidity).In general, in any flow, layers move at different velocities and the 
+fluid’s viscosity arises from the shear stress between the layers that ultimately opposes 
+any applied force.  
+In a Newtonian fluid, the relation between the shear stress and the strain rate is linear 
+with the constant of proportionality defined as the viscosity. In the case of a non-
+Newtonian fluid, the flow properties cannot be described by a single constant viscosity. 
+Some non-Newtonian fluids thicken when a shear stress is applied, e.g. cornflour 
+suspensions, and some can become runnier under shear stress, e.g. non-drip paint. 
+Industrially, understanding the viscous properties of liquids is extremely important and 
+relevant to the transport of fluids as well as to the development and performance of 
+paints, lubricants and food-stuffs.  
+ 
+Theoretical background 
+A body moving in a fluid is acted on by a frictional force in the opposite direction 
+to its direction of travel. The magnitude of this force depends on the geometry of the 
+body, its velocity, and the internal friction of the fluid. A measure for the internal friction 
+is given by the dynamic viscosity η. For a sphere of radius r moving at velocity ω in an 
+infinitely extended fluid of dynamic viscosity η, G.G. Stokes derived an expression for 
+the frictional force:  
+ω
+η
+π
+⋅
+⋅
+⋅
+=
+r
+F
+6
+1
+ 
+ (1) 
+ 
+If the sphere falls vertically in the fluid, after a time, it will move at a constant velocity ω, 
+and all the forces acting on the sphere will be in equilibrium (Fig. 1): the frictional force 
+F1 which acts upwards, the buoyancy force F2 which also acts upwards and the downward 
+acting gravitational force F3. The two
+ forces F2 and F3 are given by:
+
+--- PAGE 2 ---
+2
+g
+r
+F
+⋅
+⋅
+⋅
+=
+1
+3
+2
+3
+4
+ρ
+π
+ 
+(2) 
+g
+r
+F
+⋅
+⋅
+⋅
+=
+2
+3
+3
+3
+4
+ρ
+π
+ (3) 
+where   ρ
+1 = density of the fluid  
+ρ
+2 = density of the sphere  
+            g = gravitational acceleration  
+The equilibrium between these three forces can 
+be described by:  
+            
+3
+2
+1
+F
+F
+F
+=
++
+ (4) 
+The viscosity can, therefore, be determined by 
+measuring the rate of fall ω:  
+(
+)
+ω
+ρ
+ρ
+η
+g
+r
+⋅
+−
+⋅
+⋅
+=
+1
+2
+2
+9
+2
+ 
+(5) 
+ 
+where ω can be determined by measuring the fall time t over a given distance s. The 
+viscosity then becomes:  
+(
+)
+(
+) t
+K
+s
+t
+g
+r
+⋅
+−
+⋅
+=
+⋅
+⋅
+−
+⋅
+⋅
+=
+1
+2
+1
+2
+2
+9
+2
+ρ
+ρ
+ρ
+ρ
+η
+ (6) 
+Here
+s
+g
+r
+K
+⋅
+⋅
+=
+2
+9
+2
+, is known as ball constant. For the present experimental set up the ball 
+constants are pre-determined using standard liquids with known value of viscosity. 
+In practice, equation 6 has to be corrected since the assumption that the fluid 
+extends infinitely in all directions is unrealistic and the velocity distribution of the fluid 
+particles relative to the surface of the sphere is affected by the finite dimensions of the 
+fluid. If the finite inner radius R and length L of the cylinder containing the fluid is taken 
+into account, the expression for viscosity is modified using Ladenburg correction as 
+follows: 
+(
+)
+
+
+
+
+
++
+⋅
+
+
+
+
++
+⋅
+−
+⋅
+=
+L
+r
+R
+r
+t
+K
+3.3
+1
+4.2
+1
+1
+2
+ρ
+ρ
+η
+ (7) 
+ 
+While Stokes’ Law is straight forward, it is subject to some limitations. 
+Specifically, this relationship is valid only for ‘laminar’ flow. Laminar flow is defined as 
+a condition where fluid particles move along in smooth paths in lamina (fluid layers 
+gliding over one another). The alternate flow condition is termed ‘turbulent’ flow. This 
+latter condition is characterized by fluid particles that move in random in irregular paths 
+causing an exchange of momentum between particles. 
+Units: The SI physical unit of viscosity is Pascal-second (Pa.s, equivalent to N.s/m2 or 
+kg/ms). The CGS unit is poise (P), named after Jean Louis Marie Poiseuille. It is more 
+commonly expressed as centipoise (cP) or milli Pascal-second (mPa.s). The convertion 
+factor is 1cP = 1mPa·s = 0.001Pa·s. Water at 200C has a viscosity of 1.0020 cP or 
+0.001002 kilogram/meter second. 
+Fig. 1
+
+--- PAGE 3 ---
+3
+Temperature dependence: The viscosity is a function of the temperature and the 
+structure of the system. For many liquids the relation of the viscosity with temperature is 
+described by an empirically determined exponential function 
+RT
+E
+e
+C
+−
+=
+=
+.
+1
+ϕ
+η
+ 
+(9) 
+Here, φ is the fluidity of the liquid, C represents a system-dependent constant; R = 
+8.31441 J·K–1· mol–1, universal gas constant, T is the absolute temperature, E is an 
+expression of the molar energy which is required to overcome the internal friction. This 
+activation energy can be determined from the slope of the graph between ln η and 1/T, 
+using the linear relation 
+C
+T
+R
+E
+ln
+1
+.
+ln
+−
+
+
+
+
+
+
+
+
+
+
+
+
+=
+η
+ 
+(10) 
+ 
+ 
+Experimental Setup 
+ 
+1. Falling ball viscometer 
+The falling ball viscometer 
+is based on Stokes’ Law, and is 
+what we will use in this laboratory 
+investigation (Fig. 2). This type of 
+viscometer consists of a circular 
+cylinder of inner diameter 15.94 ± 
+0.01 mm, filled by the substance 
+under investigation. 
+A standard ball is allowed to 
+fall down this tube over a calibrated 
+distance of 100 mm. The falling time is recorded and then utilized to determine the 
+viscosity at a preset temperature. The measuring tube is jacketed by means of an outer 
+glass tube, which encloses some room to be filled with a temperature controlled liquid. 
+The measuring tube is fastened to the stand in such a way that its axis is inclined with 
+respect to the vertical by 10° during the measurement to ensure that the ball falls along 
+the axis of the tube. The measuring tube together with the jacket may be pivoted in order 
+to turn the tube upside down again to let the ball return to the initial position before a 
+measurement. The measuring tube is closed on both sides by two stoppers, one of which 
+contains a capillary and a small reservoir. This stopper prevents undesirable changes of 
+pressure in the liquid sample and has a passage for air bubbles when the temperature is 
+being changed. The stand may be leveled by means of its water level and the leveling 
+screws. The easily interchangeable thermometer allows a precise temperature control. 
+ 
+2. Temperature control  
+The Falling Ball Viscometer may be controlled in the temperature range 10 to 
+80ºC using the circulator provided. The sample should rest for at least 15 minutes in the 
+measuring tube at the test temperature before the measurement is started. 
+ 
+Fig. 2
+
+--- PAGE 4 ---
+4
+Procedure:  
+ 
+1. Loading the sample:  
+All parts of the viscometer in direct contact with the 
+sample must be kept clean and dry.  
+A sample volume of approximately 45 cm3 
+is poured into 
+the measuring tube 1 up to 20 mm below the tube (Fig. 3). 
+The ball 2 is then introduced into the tube and the hollow 
+stopper 13 placed on top. The liquid should reach a level 
+just beyond the top of the capillary 15 in the stopper; top 
+up if necessary. The sample in the tube must be free of air 
+bubbles.  
+Before measurements are recorded, the ball should run up 
+and down the tube at least once to improve the 
+homogeneity of the samples and its temperature 
+uniformity. 
+ 
+ 
+2. Setting the temperature:  
+To start with, set the temperature of the thermostat at room temperature. The 
+liquid in the tube may take approximately 15 minutes to settle down at the set 
+temperature. 
+ 
+3. Determination of density of the liquid: 
+ 
+First ensure that the thermometer attached to the outside circulating bath displays 
+a steady temperature at the set value. Take a clean and dry pyknometer and weigh it 
+empty using the weighing balance. Fill it with the sample liquid and fix it to the retort 
+stand. Place it in the thermostatic water bath for approximately 15 minutes. Subsequent to 
+bubble-free closure with the accompanying stopper and a quick external drying reweigh 
+the filled pyknometer. Let m1 and m2 be the mass of the empty and filled pyknometer, 
+respectively. Then the density of the liquid at a given temperature is determined as 
+
+	
+
+    	
+ 
+ 
+4. Measuring the falling times:  
+(a) The measuring tube assembly locates into a fixed position of 10º to the vertical. By 
+turning the assembly over through 180º, the ball is set to the measuring position.  
+(b) Use a stopwatch to measure the time taken for the ball to fall between the lines 
+marked at a distance of 10 cm apart on the measuring tube. The measuring period starts 
+and ends when the lower edge of the ball crosses the upper and lower lines, respectively. 
+(c) Turning the assembly through 180º again returns the ball to its starting position. Take 
+3-5 readings for the falling time and calculate the average. 
+ 
+5. Temperature dependence: Repeat the steps from 2-4 for at least 5 different 
+temperatures. Tabulate the data. 
+ 
+Fig. 3
+
+--- PAGE 5 ---
+5
+Observations: 
+Specification of Ball#1 
+ 
+*The ball#1 is calibrated by the manufacturer and the ball const K is determined for a 
+standard liquid of viscosity ηstandard = 4.63mPa.s and density ρ
+standard = 0.81g/cm3 with 
+average falling time t = 417.7s and the following equation is used. 
+ 
+
+ 	. " 
+Specification of Viscometer tube 
+Inner diameter of the measuring tube = 1.594 ± 0.001 cm, 
+Length of the cylinder = 22.7 ± 0.1 cm 
+ 
+Specification of Pyknometer  Mass of empty pyknometer, m1 = …..gm 
+ 
+ 
+ 
+ 
+Volume capacity = 25cc 
+Table:  
+Obs. 
+No. 
+Temperature 
+T (0K) 
+Density ρ
+1 
+(g/cm3) 
+Falling time 
+t1(s)          t2(s)         t3 (s)       Average t (s) 
+Viscosity η 
+(mPa.s) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph: Plot a graph between ln η and 1/T to find the temperature dependence of 
+viscosity of distilled water/methanol. Estimate the values of E and C from graph. 
+ 
+ 
+Discussions: 
+ 
+Precautions: 
+1. Make all the components clean and dry before starting measurement. 
+2. Avoid any physical contact with the circulating bath. 
+3. Avoid contaminating the balls, use tweezers or tissue paper to hold the balls. 
+4. The measuring cylinder should be bubble-free.  
+5. Measure the falling times carefully. 
+References: 
+1. D.R. Rohendra etal., Europian J. Phys. Vol. 33, pp. 1457, (2012) 
+2. Thermo haake-Falling Ball Viscometer (user manual) for calibration of viscometer. 
+Material 
+Density  ρ
+2(g/cm
+3)
+ 
+Diameter (mm) 
+Ball Const. (K)* 
+mPa · s · cm3/g · s 
+Recomm. 
+visc. Range 
+mPa.s 
+boron silica glass 
+2.2 
+15.81 ± 0.01 
+0.007 
+0.6-10

@@ -1,0 +1,167 @@
+
+--- PAGE 1 ---
+UNIVERSITY OF CAPE COAST
+DEPARTMENT OF MATHEMATICS
+MAT101: ALGEBRA AND TRIGONOMETRY
+TUTORIAL SET 1
+Attempt all questions.
+1. Given that A, B and C are subsets of U. Show that:
+(a)
+i. A ∩B = B ∩A
+ii. A ∪B = B ∪A
+(b) A ∪(A ∩B) = A ∩(A ∪B)
+2. Given A = {1, 2, 3, · · · , 10} and B = {2, 4, 6, · · · }. Find
+a. A ∩B.
+b. A ∪B
+c. (A ∩B)′
+d. (A ∪B)′
+e. A′ ∩B′
+f. A′ ∪B′
+3. Given that A, B and C are sets, prove the following:
+(a) (A ∪B) ∪C = A ∪(B ∪C)
+(b) (A ∩B) ∩C = A ∩(B ∩C)
+(c) A ∪(B ∩C) = (A ∪B) ∩(A ∪C)
+(d) A ∩(B ∪C) = (A ∩B) ∪(A ∩C)
+(e) (A ∩B)′ = A′ ∪B′
+(f) (A ∪B)′ = A′ ∩B′
+(g) A ∩(A ∩B′)′ = A ∩B
+(h) A ∩(B ∪C)′ = (A ∩B′) ∩(A ∩C′)
+(i) A ∩(B ∩C)′ = (A ∩B′) ∪(A ∩C′)
+4. Let A and B be any two sets, prove whether or not
+(a) (A −B) ∩(A −C) = A −(B ∪C)
+(b) (A −B) ∪(A −C) = A −(B ∩C)
+5. Prove that A ∪(A ∩B) = A ∩(A ∪B) = A
+6. Verify that the following results are true
+(a) (A ∪B ∪C)′ = A′ ∩B′ ∩C′
+(b) (A ∩B ∩C)′ = A′ ∪B′ ∪C′
+In each case illustrate the results using Venn diagrams
+7.
+(a) Prove that for the sets A and B, A x B = B x A if and only if A = B or at least one
+is empty.
+(b) Prove that (A x B) x C = A x (B x C) if and only if at least one is empty.
+8.
+(a) List all the members of A x B if
+A = { first four natural numbers }
+B = { integers between -2 and 2 }.
+(b) If A = {-5,3}, B = {2,4,6} and C = {0,1}. Find A x B x C.
+9. Let A = {1 ≤x ≤3}, B = {2 ≤x ≤3}. Sketch the graphs A × B and B × A in the
+plane. Describe your sketch in each case.
+1
+
+--- PAGE 2 ---
+10. Let A = {1 ⩽x ⩽2}, B = {0 ⩽x ⩽1} and C = {−1 ⩽x ⩽2}. Sketch in the xyz
+space the graph of A × B × C. Describe your sketch.
+11. Given that A = {3, 5} and B = {2, 4, 6}, find
+(a) A × B
+(b) B × A
+(c) What conclusion can you draw from (a) and (b).
+12. If n(A −B) = 18, n(A ∪B) = 70 and n(A ∩B) = 25, then find n(B)
+13. As part of St. Ann’s College custom, the college awarded medals in different categories.
+35 medals in Music, 13 Medals in Dance and 18 medals in Poetry. If these medals went to
+a total of 46 students and only 5 got medals in all the three categories, how many received
+medals in exactly two of the categories?
+14. In a group of students, 25 study Computer, 28 study Health, 20 study Mathematics, 9
+study Computer only, 12 study Health only, 8 study Computer and Health only and 5
+study Health and Mathematics only.
+(a) Draw a Venn diagram to illustrate the above information.
+(b) How many students are there altogether?
+(c) Find how many students study all the subjects.
+15. A survey of the characteristics of 100 small businesses that have failed revealed that 95 of
+them either were overcapitalized, had inexperienced management, or had a poor location.
+Four of the businesses had all three of these characteristics. Forty businesses were over-
+capitalized but had experienced management and good location. Fifteen businesses had
+inexperienced management but sufficient capitalization and good location. Seven were
+overcapitalized and had poor location. Ten had inexperienced management and poor lo-
+cation. How many of the businesses had poor location? Which of the three characteristics
+was most prevalent in the failed businesses?
+16. A study in the Department of Languages and Linguistics at the University of Cape Coast
+shows that of the 400 students in the department, 200 take French(F), 300 take English(E),
+and 50 take Twi(T). The study shows that 150 take both French and English, 30 take
+both French and Twi, and 20 take both English and Twi. Five students take all the three
+Languages. Use a Venn diagram to find the number of people in the sets given in (i) to
+(v).
+i. T ∩(F ∪E)
+ii. (T ∪F ∪E)′
+iii. T ∪E ∪F ′
+iv. T ′
+v. F ∩E′ ∩T ′
+17. The cornea, the pupil and the retina have shown to be the most affected part of the eye
+of any glaucoma patient. A study at ANI eye care has revealed that out of some selected
+glaucoma patients, 19 were defected in the cornea, 27 in the pupil and 21 in the retina. 23
+of the patients were encountered with at least two defections whilst 17 were encountered
+with exactly two of the defections. How many glaucoma patients had defections in the
+cornea, pupil and retina? Hence, find the number of glaucoma patients used in the study
+if all the patients had at least one of the defections.
+2
+
+--- PAGE 3 ---
+18. Given the following functions f(x) = 3x3 −2, g(x) = √x + 1 and h(x) = 2
+x2
+(a) Which of the functions is/are even, odd or neither?
+(b) Find the domain and inverse of the functions
+(c) Determine f o g(x), h o g(x), h o h(x) and hence evaluate g o h o f(x) at x = 1
+2.
+19. If f(x) = 2x3 + x −3 and g(x) = x −1, evaluate f(x).g(x) −[f(x) + g(x)].
+20. Given that f(x) = 2x + 1, find g(x) if g(x) = 2[f(x)]2 −1.
+21. Evaluate
+f(x) =
+(
+5x −2,
+x < 6
+x2,
+x ≥6
+Find f(−10), f(12) and f(0).
+22. Find the domain and the inverse of the following functions
+(a) f(x) = 6x2 −7x+
+1
+(b) f(x) = (x−3)3+1
+(c)
+p
+4x2 −y = 2
+(d) f(x) = 5 −3x
+5x −3
+(e)
+2
+3√x + 5 = 3y
+23. The lines 4x + 5y −5 = 0 and 2x + 4y −3 = 0 intersect at N. Find the equation of the
+line through N perpendicular to the line x + 2y = 0.
+24. Graph the following functions showing the intercepts and the vertex where applicable
+(a) f(x) = x2 + 2x −2
+(b) y = −√x + 3
+(c) y = |x −20| −20
+(d) f(x) =
+x3
+x2 −16
+(e) f(x) =
+2
+1 −x2
+(f) f(x) =
+x
+x2 −xx −2
+25. Solve the following equations using the method of completing the square
+(a) x2 + 4x = 2
+(b) x2 −6x −15 = 0
+(c) f(x) = 20x2 + 32x −3
+(d) (y −2)2 = 4y −12
+(e) √x −4 + x = 6
+(f) √6 −2x + x = 2(x + 15) −9
+26. A function f(x) = 4x2 + kx + 9. Find the values of k, If x-axis is a tangent to the curve.
+27. Given that x2 + 2x + 3 −k(x2 −2x −3) = 0 always has real roots, find the range of
+values of k.
+28. What are the values of h and k if 2x3 −10x2 + 11x −7 = (x −4)(2x2 + hx + 3) + k.
+29. Given z(x) = 6x3 + bx2 −52x + 15, z(2) = 35 and z(−5) = 0. Determine all the zeros
+of z(x).
+3
+
+--- PAGE 4 ---
+30. Factorize completely and sketch the graphs of
+(a) x4 + 6x2 −7 = 0
+(b) x3 −4x2 + 4x −6 = 0
+(c) 4x3−x2+16x−4 = 0
+31. Given that h(a) = 6a3 + 11a2 −4a −9 and a = 2
+3 is a root, write h(a) as q(a) + r(a)
+d(a).
+32. If α and β are the roots of the equation 4x2 + 7x + 3 = 0, Find the value of 1
+α2 + 1
+β2.
+4

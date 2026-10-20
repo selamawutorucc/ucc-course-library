@@ -1,0 +1,7835 @@
+
+--- PAGE 1 ---
+197 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+5 
+The Laws of Motion  
+ 
+CHAPTER OUTLINE 
+ 
+5.1 
+The Concept of Force 
+5.2 
+Newton’s First Law and Inertial Frames 
+5.3 
+Mass 
+5.4 
+Newton’s Second Law 
+5.5 
+The Gravitational Force and Weight 
+5.6 
+Newton’s Third Law 
+5.7 
+Analysis Models Using Newton’s Second Law 
+5.8 
+Forces of Friction  
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ5.1 
+Answer (d). The stopping distance will be the same if the mass of the 
+truck is doubled. The normal force and the friction force both double, 
+so the backward acceleration remains the same as without the load.  
+OQ5.2 
+Answer (b). Newton’s 3rd law describes all objects, breaking or whole. 
+The force that the locomotive exerted on the wall is the same as that 
+exerted by the wall on the locomotive. The framing around the wall 
+could not exert so strong a force on the section of the wall that broke 
+out.  
+OQ5.3 
+Since they are on the order of a thousand times denser than the 
+surrounding air, we assume the snowballs are in free fall. The net force
+
+--- PAGE 2 ---
+198     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+on each is the gravitational force exerted by the Earth, which does not 
+depend on their speed or direction of motion but only on the snowball 
+mass. Thus we can rank the missiles just by mass: d > a = e > b > c. 
+OQ5.4 
+Answer (e). The stopping distance will decrease by a factor of four if 
+the initial speed is cut in half. 
+OQ5.5 
+Answer (b). An air track or air table is a wonderful thing. It exactly 
+cancels out the force of the Earth’s gravity on the gliding object, to 
+display free motion and to imitate the effect of being far away in space. 
+OQ5.6 
+Answer (b). 200 N must be greater than the force of friction for the 
+box’s acceleration to be forward. 
+OQ5.7 
+Answer (a). Assuming that the cord connecting m1 and m2 has constant 
+length, the two masses are a fixed distance (measured along the cord) 
+apart. Thus, their speeds must always be the same, which means that 
+their accelerations must have equal magnitudes. The magnitude of the 
+downward acceleration of m2 is given by Newton’s second law as 
+ 
+ 
+ 
+a2 =
+Fy
+∑
+m2
+= m2g −T
+m2
+= g −
+T
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟< g
+ 
+ 
+where T is the tension in the cord, and downward has been chosen as 
+the positive direction.  
+OQ5.8 
+Answer (d). Formulas a, b, and e have the wrong units for speed. 
+Formulas a and c would give an imaginary answer.  
+OQ5.9 
+Answer (b). As the trailer leaks sand at a constant rate, the total mass 
+of the vehicle (truck, trailer, and remaining sand) decreases at a steady 
+rate. Then, with a constant net force present, Newton’s second law 
+states that the magnitude of the vehicle’s acceleration (a = Fnet/m) will 
+steadily increase.  
+OQ5.10 
+Answer (c). When the truck accelerates forward, the crate has the 
+natural tendency to remain at rest, so the truck tends to slip under the 
+crate, leaving it behind. However, friction between the crate and the 
+bed of the truck acts in such a manner as to oppose this relative motion 
+between truck and crate. Thus, the friction force acting on the crate will 
+be in the forward horizontal direction and tend to accelerate the crate 
+forward. The crate will slide only when the coefficient of static friction 
+is inadequate to prevent slipping.
+
+--- PAGE 3 ---
+Chapter 5     199 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ5.11 
+Both answers (d) and (e) are not true: (d) is not true because the value 
+of the velocity’s constant magnitude need not be zero, and (e) is not 
+true because there may be no force acting on the object. An object in 
+equilibrium has zero acceleration (a = 0) , so both the magnitude and 
+direction of the object’s velocity must be constant. Also, Newton’s 
+second law states that the net force acting on an object in equilibrium is 
+zero.  
+OQ5.12 
+Answer (d). All the other possibilities would make the total force on 
+the crate be different from zero. 
+OQ5.13 
+Answers (a), (c), and (d). A free-body diagram shows the forces 
+exerted on the object by other objects, and the net force is the sum of 
+those forces.  
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ5.1 
+A portion of each leaf of grass extends above the metal bar. This 
+portion must accelerate in order for the leaf to bend out of the way. If 
+the bar moves fast enough, the grass will not have time to increase its 
+speed to match the speed of the bar. The leaf’s mass is small, but when 
+its acceleration is very large, the force exerted by the bar on the leaf 
+puts the leaf under tension large enough to shear it off. 
+CQ5.2 
+When the hands are shaken, there is a large acceleration of the surfaces 
+of the hands. If the water drops were to stay on the hands, they must 
+accelerate along with the hands. The only force that can provide this 
+acceleration is the friction force between the water and the hands. 
+(There are adhesive forces also, but let’s not worry about those.) The 
+static friction force is not large enough to keep the water stationary 
+with respect to the skin at this large acceleration. Therefore, the water 
+breaks free and slides along the skin surface. Eventually, the water 
+reaches the end of a finger and then slides off into the air. This is an 
+example of Newton’s first law in action in that the drops continue in 
+motion while the hand is stopped. 
+CQ5.3 
+When the bus starts moving, the mass of Claudette is accelerated by 
+the force of the back of the seat on her body. Clark is standing, 
+however, and the only force on him is the friction between his shoes 
+and the floor of the bus. Thus, when the bus starts moving, his feet 
+start accelerating forward, but the rest of his body experiences almost 
+no accelerating force (only that due to his being attached to his 
+accelerating feet!). As a consequence, his body tends to stay almost at 
+rest, according to Newton’s first law, relative to the ground. Relative to 
+Claudette, however, he is moving toward her and falls into her lap.
+
+--- PAGE 4 ---
+200     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ5.4 
+The resultant force is zero, as the acceleration is zero. 
+CQ5.5 
+First ask, “Was the bus moving forward or backing up?” If it was 
+moving forward, the passenger is lying. A fast stop would make the 
+suitcase fly toward the front of the bus, not toward the rear. If the bus 
+was backing up at any reasonable speed, a sudden stop could not 
+make a suitcase fly far. Fine her for malicious litigiousness.  
+CQ5.6 
+Many individuals have a misconception that throwing a ball in the air 
+gives the ball some kind of a “force of motion” that the ball carries 
+after it leaves the hand. This is the “force of the throw” that is 
+mentioned in the problem. The upward motion of the ball is explained 
+by saying that the “force of the throw” exceeds the gravitational 
+force—of course, this explanation confuses upward velocity with 
+downward acceleration—the hand applies a force on the ball only 
+while they are in contact; once the ball leaves the hand, the hand no 
+longer has any influence on the ball’s motion. The only property of the 
+ball that it carries from its interaction with the hand is the initial 
+upward velocity imparted to it by the thrower. Once the ball leaves the 
+hand, the only force on the ball is the gravitational force. (a) If there 
+were a “force of the throw” felt by the ball after it leaves the hand and 
+the force exceeded the gravitational force, the ball would accelerate 
+upward, not downward! (b) If the “force of the throw” equaled the 
+gravitational force, the ball would move upward with a constant 
+velocity, rather than slowing down and coming back down! (c) The 
+magnitude is zero because there is no “force of the throw.” (d) The ball 
+moves away from the hand because the hand imparts a velocity to the 
+ball and then the hand stops moving. 
+CQ5.7 
+(a) force: The Earth attracts the ball downward with the force of 
+gravity—reaction force: the ball attracts the Earth upward with the 
+force of gravity; force: the hand pushes up on the ball—reaction force: 
+the ball pushes down on the hand. 
+ 
+(b) force: The Earth attracts the ball downward with the force of 
+gravity—reaction force: the ball attracts the Earth upward with the 
+force of gravity. 
+CQ5.8 
+(a) The air inside pushes outward on each patch of rubber, exerting a 
+force perpendicular to that section of area. The air outside pushes 
+perpendicularly inward, but not quite so strongly. (b) As the balloon 
+takes off, all of the sections of rubber feel essentially the same outward 
+forces as before, but the now-open hole at the opening on the west side 
+feels no force – except for a small amount of drag to the west from the 
+escaping air. The vector sum of the forces on the rubber is to the east.
+
+--- PAGE 5 ---
+Chapter 5     201 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The small-mass balloon moves east with a large acceleration. (c) Hot 
+combustion products in the combustion chamber push outward on all 
+the walls of the chamber, but there is nothing for them to push on at 
+the open rocket nozzle. The net force exerted by the gases on the 
+chamber is up if the nozzle is pointing down. This force is larger than 
+the gravitational force on the rocket body, and makes it accelerate 
+upward. 
+CQ5.9 
+The molecules of the floor resist the ball on impact and push the ball 
+back, upward. The actual force acting is due to the forces between 
+molecules that allow the floor to keep its integrity and to prevent the 
+ball from passing through. Notice that for a ball passing through a 
+window, the molecular forces weren’t strong enough. 
+CQ5.10 
+The tension in the rope when pulling the car is twice that in the tug-of-
+war. One could consider the car as behaving like another team of 
+twenty more people. 
+CQ5.11 
+An object cannot exert a force on itself, so as to cause acceleration. If it 
+could, then objects would be able to accelerate themselves, without 
+interacting with the environment. You cannot lift yourself by tugging 
+on your bootstraps.  
+CQ5.12 
+Yes. The table bends down more to exert a larger upward force. The 
+deformation is easy to see for a block of foam plastic. The sag of a table 
+can be displayed with, for example, an optical lever. 
+CQ5.13 
+As the barbell goes through the bottom of a cycle, the lifter exerts an 
+upward force on it, and the scale reads the larger upward force that the 
+floor exerts on them together. Around the top of the weight’s motion, 
+the scale reads less than average. If the weightlifter throws the barbell 
+upward so that it loses contact with his hands, the reading on the scale 
+will return to normal, reading just the weight of the weightlifter, until 
+the barbell lands back in his hands, at which time the reading will 
+jump upward. 
+CQ5.14 
+The sack of sand moves up with the athlete, regardless of how quickly 
+the athlete climbs. Since the athlete and the sack of sand have the same 
+weight, the acceleration of the system must be zero. 
+CQ5.15 
+If you slam on the brakes, your tires will skid on the road. The force of 
+kinetic friction between the tires and the road is less than the 
+maximum static friction force. Antilock brakes work by “pumping” the 
+brakes (much more rapidly than you can) to minimize skidding of the 
+tires on the road.
+
+--- PAGE 6 ---
+202     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ5.16 
+(a) Larger: the tension in A must accelerate two blocks and not just 
+one. (b) Equal. Whenever A moves by 1 cm, B moves by 1 cm. The two 
+blocks have equal speeds at every instant and have equal accelerations. 
+(c) Yes, backward, equal. The force of cord B on block 1 is the tension 
+in the cord. 
+CQ5.17 
+As you pull away from a stoplight, friction exerted by the ground on 
+the tires of the car accelerates the car forward. As you begin running 
+forward from rest, friction exerted by the floor on your shoes causes 
+your acceleration. 
+CQ5.18 
+It is impossible to string a horizontal cable without its sagging a bit. 
+Since the cable has a mass, gravity pulls it downward. A vertical 
+component of the tension must balance the weight for the cable to be in 
+equilibrium. If the cable were completely horizontal, then there would 
+be no vertical component of the tension to balance the weight. If a 
+physicist would testify in court, the city employees would win. 
+CQ5.19 
+(a) Yes, as exerted by a vertical wall on a ladder leaning against it. (b) 
+Yes, as exerted by a hammer driving a tent stake into the ground. (c) 
+Yes, as the ball accelerates upward in bouncing from the floor. (d) No; 
+the two forces describe the same interaction. 
+CQ5.20 
+The clever boy bends his knees to lower his body, then starts to 
+straighten his knees to push his body up—that is when the branch 
+breaks. In order to give himself an upward acceleration, he must push 
+down on the branch with a force greater than his weight so that the 
+branch pushes up on him with a force greater than his weight. 
+CQ5.21 
+(a) As a man takes a step, the action is the force his foot exerts on the 
+Earth; the reaction is the force of the Earth on his foot. (b) The action is 
+the force exerted on the girl’s back by the snowball; the reaction is the 
+force exerted on the snowball by the girl’s back. (c) The action is the 
+force of the glove on the ball; the reaction is the force of the ball on the 
+glove. (d) The action is the force exerted on the window by the air 
+molecules; the reaction is the force on the air molecules exerted by the 
+window. We could in each case interchange the terms “action” and 
+“reaction.” 
+CQ5.22 
+(a) Both students slide toward each other. When student A pulls on 
+the rope, the rope pulls back, causing her to slide toward Student B. 
+The rope also pulls on the pulley, so Student B slides because he is 
+gripping a rope attached to the pulley. (b) Both chairs slide because 
+there is tension in the rope that pulls on both Student A and the pulley 
+connected to Student B. (c) Both chairs slide because when Student B 
+pulls on his rope, he pulls the pulley which puts tension into the rope
+
+--- PAGE 7 ---
+Chapter 5     203 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+passing over the pulley to Student A. (d) Both chairs slide because 
+when Student A pulls on the rope, it pulls on her and also pulls on the 
+pulley. 
+CQ5.23 
+If you have ever seen a car stuck on an icy road, with its wheels 
+spinning wildly, you know the car has great difficulty moving forward 
+until it “catches” on a rough patch. (a) Friction exerted by the road is 
+the force making the car accelerate forward. Burning gasoline can 
+provide energy for the motion, but only external forces—forces exerted 
+by objects outside—can accelerate the car. (b) If the car moves forward 
+slowly as it speeds up, then its tires do not slip on the surface. The 
+rubber contacting the road moves toward the rear of the car, and static 
+friction opposes relative sliding motion by exerting a force on the 
+rubber toward the front of the car. If the car is under control (and not 
+skidding), the relative speed is zero along the lines where the rubber 
+meets the road, and static friction acts rather than kinetic friction.  
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 5.1 
+The Concept of Force 
+Section 5.2 
+Newton’s First Law and Inertial Frames 
+Section 5.3 
+Mass 
+Section 5.4 
+Newton’s Second Law 
+Section 5.5 
+The Gravitational Force and Weight 
+Section 5.6 
+Newton’s Third Law 
+*P5.1 
+(a) 
+The woman’s weight is the magnitude of the gravitational force 
+acting on her, given by 
+ 
+ 
+ 
+Fg = mg = 120 lb = 4.448 N lb
+(
+) 120 lb
+(
+) = 534 N 
+(b) Her mass is m = Fg
+g =
+534 N
+9.80 m s2 = 54.5 kg 
+*P5.2 
+We are given Fg = mg = 900 N , from which we can find the man’s mass, 
+ 
+ 
+m =
+900 N
+9.80 m s2 = 91.8 kg 
+ 
+Then, his weight on Jupiter is given by 
+ 
+ 
+Fg
+(
+)on Jupiter = 91.8 kg 25.9 m s2
+(
+) = 2.38 kN
+
+--- PAGE 8 ---
+204     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.3 
+We use Newton’s second law to find the force as a vector and then the 
+Pythagorean theorem to find its magnitude. The givens are m = 3.00 kg 
+and a = 2.00ˆi + 5.00ˆj
+(
+) m s2 . 
+ 
+(a) 
+The total vector force is 
+ 
+ 
+ 
+∑
+
+F = ma = (3.00 kg)(2.00ˆi + 5.00ˆj) m/s2 = (6.00ˆi + 15.0ˆj) N 
+ 
+(b) Its magnitude is  
+ 
+ 
+ 
+
+F =
+Fx
+(
+)
+2 + Fy
+( )
+2 =
+(6.00 N)2 +(15.0 N)2 = 16.2 N 
+ 
+P5.4 
+Using the reference axes shown in Figure P5.4, we see that 
+ 
+ 
+ 
+Fx
+∑
+= T cos14.0° −T cos14.0° = 0 
+ 
+and 
+ 
+ 
+ 
+Fy
+∑
+= −T sin14.0° −T sin14.0° = −2T sin14.0° 
+ 
+Thus, the magnitude of the resultant force exerted on the tooth by the 
+wire brace is 
+ 
+ 
+ 
+R =
+Fx
+∑
+(
+)
+2 +
+Fy
+∑
+(
+)
+2 =
+0 + −2T sin14.0°
+(
+)
+2 = 2T sin14.0°
+ 
+ 
+or 
+ 
+ 
+ 
+R = 2 18.0 N
+(
+)sin14.0° = 8.71 N 
+P5.5 
+We use the particle under constant acceleration and particle under a 
+net force models. We first calculate the acceleration of the puck: 
+ 
+ 
+ 
+a = Δv
+Δt =
+8.00ˆi +10.0ˆj
+(
+)m/s – 3.00ˆi m/s 
+8.00 s
+= 0.625ˆi m/s2 + 1.25ˆj m/s2
+ 
+ 
+ 
+In 
+
+F
+∑
+= ma, the only horizontal force is the thrust 
+
+F of the rocket: 
+ 
+ 
+(a) 
+
+F = (4.00 kg) 0.625ˆi m/s2 + 1.25ˆj m/s2
+(
+) =
+2.50ˆi + 5.00ˆj
+(
+) N 
+ 
+(b) Its magnitude is |
+
+F|=
+(2.50 N)2 + (5.00 N)2 = 5.59 N
+
+--- PAGE 9 ---
+Chapter 5     205 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.6 
+(a) 
+Let the x axis be in the original direction of the molecule’s motion. 
+Then, from v f = vi + at, we have  
+ 
+ 
+ 
+a = v f −vi
+t
+= −670 m/s −670 m/s
+3.00 × 10−13 s
+= −4.47 × 1015 m/s2  
+ 
+(b) For the molecule, 
+
+F = ma
+∑
+. Its weight is negligible. 
+ 
+ 
+ 
+
+Fwall on molecule = 4.68 × 10−26 kg
+(
+) −4.47 × 1015 m s2
+(
+)
+= −2.09 × 10−10 N
+
+Fmolecule on wall = +2.09 × 10−10 N
+ 
+*P5.7 
+Imagine a quick trip by jet, on which you do not visit the rest room and 
+your perspiration is just canceled out by a glass of tomato juice. By 
+subtraction, Fg
+(
+)p = mgp and Fg
+(
+)C = mgC give  
+ 
+ 
+ 
+ΔFg = m gp −gC
+(
+) 
+ 
+For a person whose mass is 90.0 kg, the change in weight is  
+ 
+ 
+ 
+ΔFg = 90.0 kg 9.809 5 −9.780 8
+(
+) = 2.58 N 
+A precise balance scale, as in a doctor’s office, reads the same in 
+different locations because it compares you with the standard masses 
+on its beams. A typical bathroom scale is not precise enough to reveal 
+this difference. 
+P5.8 
+The force on the car is given by 
+
+F = ma
+∑
+, or, in one dimension, 
+F
+∑
+= ma. Whether the car is moving to the left or the right, since it’s 
+moving at constant speed, a = 0 and therefore 
+F
+∑
+= 0 for both parts 
+(a) and (b). 
+P5.9 
+We find the mass of the baseball from its weight: w = mg, so m = w/g = 
+2.21 N/9.80 m/s
+2 = 0.226 kg.  
+ 
+(a) 
+We use x f = xi + 1
+2 (vi + v f )t and x f −xi = Δx, with vi = 0,  
+vf = 18.0 m/s, and Δt = t = 170 ms = 0.170 s:  
+ 
+ 
+ 
+Δx = 1
+2 (vi + v f )Δt
+Δx = 1
+2 (0 + 18.0 m/s)(0.170 s) = 1.53 m
+
+--- PAGE 10 ---
+206     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) We solve for acceleration using vxf = vxi + axt, which gives 
+ 
+ 
+ 
+ax = vxf −vxi
+t
+ 
+ 
+ 
+where a is in m/s
+2, v is in m/s, and t in s. Substituting gives 
+ 
+ 
+ 
+ax = 18.0 m/s −0
+0.170 s
+= 106 m/s2 
+ 
+ 
+Call 
+
+F1 = force of pitcher on ball, and 
+
+F2 = force of Earth on ball 
+(weight). We know that 
+ 
+ 
+ 
+
+F
+∑
+=
+
+F1 +
+
+F2 = ma 
+ 
+ 
+Writing this equation in terms of its components gives 
+ 
+ 
+ 
+Fx
+∑
+= F1x + F2x = max 
+Fy
+∑
+= F1y + F2y = may
+ 
+ 
+ 
+ 
+Fx
+∑
+= F1x + 0 = max 
+Fy
+∑
+= F1y −2.21 N = 0 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+F1x = 0.226 kg
+(
+) 106 m/s2
+(
+) = 23.9 N  and  F1y = 2.21 N  
+ 
+ 
+Then, 
+ 
+ 
+ 
+F1 =
+F1x
+(
+)
+2 + F1y
+(
+)
+2
+=
+23.9 N
+(
+)
+2 + 2.21 N
+(
+)
+2 = 24.0 N
+ 
+ 
+ 
+and θ = tan−1 2.21 N
+23.9 N
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.29° 
+ 
+ 
+The pitcher exerts a force of 24.0 N forward at 5.29° above
+the horizontal.
+ 
+P5.10 
+(a) 
+Use Δx = 1
+2 (vi + v f )Δt, where vi = 0, vf = v, and Δt = t:  
+ 
+ 
+ 
+Δx = 1
+2 (vi + v f )Δt = 1
+2 vt
+
+--- PAGE 11 ---
+Chapter 5     207 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Use vxf = vxi + axt: 
+ 
+ 
+ 
+vxf = vxi + axt →ax =
+vxf −vxi
+t
+→ax = v −0
+t
+= v
+t
+ 
+ 
+ 
+Call 
+
+F1 = force of pitcher on ball, and 
+
+F2 = −Fg = −mg = 
+gravitational force on ball. We know that 
+ 
+ 
+ 
+
+F
+∑
+=
+
+F1 +
+
+F2 = ma 
+ 
+ 
+writing this equation in terms of its components gives 
+ 
+ 
+ 
+Fx
+∑
+= F1x + F2x = max 
+Fy
+∑
+= F1y + F2y = may
+ 
+ 
+ 
+ 
+Fx
+∑
+= F1x + 0 = max 
+Fy
+∑
+= F1y −mg = 0 
+ 
+ 
+Solving and substituting from above, 
+ 
+ 
+ 
+F1x = mv/t 
+F1y = mg 
+ 
+ 
+then the magnitude of F1 is 
+ 
+ 
+ 
+F1 =
+F1x
+(
+)
+2 + F1y
+(
+)
+2
+=
+mv/t
+(
+)
+2 + mg
+(
+)
+2 = m
+v/t
+(
+)
+2 + g2
+ 
+ 
+ 
+and its direction is  
+ 
+ 
+ 
+θ = tan−1
+mg
+mv/t
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+gt
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P5.11 
+Since this is a linear acceleration problem, we can use Newton’s second 
+law to find the force as long as the electron does not approach 
+relativistic speeds (as long as its speed is much less than 3 × 108 m/s), 
+which is certainly the case for this problem. We know the initial and 
+final velocities, and the distance involved, so from these we can find 
+the acceleration needed to determine the force. 
+ 
+(a) 
+From 
+v f
+2 = vi
+2 + 2ax  and  
+F
+∑
+= ma, 
+we 
+can 
+solve 
+for 
+the 
+acceleration and then the force: a =
+v f
+2 – vi
+2
+2x
+
+--- PAGE 12 ---
+208     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting to eliminate a, 
+F
+∑
+=
+m v f
+2 – vi
+2
+(
+)
+2x
+ 
+ 
+ 
+Substituting the given information, 
+ 
+ 
+F
+∑
+=
+9.11 × 10–31 kg
+(
+)
+7.00 × 105 m/s
+(
+)
+2 – 3.00 × 105 m/s
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+2(0.050 0 m)
+ 
+ 
+  
+F
+∑
+= 3.64 × 10–18 N 
+ 
+ 
+(b) The Earth exerts on the electron the force called weight, 
+ 
+ 
+ 
+Fg = mg = (9.11 × 10–31kg)(9.80 m/s2) = 8.93 × 10–30N 
+ 
+ 
+The accelerating force is  
+ 
+ 
+4.08 × 1011 times the weight of the electron. 
+P5.12 
+We first find the acceleration of the object: 
+ 
+ 
+ 
+rf −ri = vit + 1
+2
+at2
+4.20 mˆi −3.30 mˆj = 0 + 1
+2
+a 1.20 s
+(
+)
+2 = 0.720 s2
+(
+)a
+a = 5.83ˆi −4.58ˆj
+(
+) m s2
+ 
+ 
+Now 
+
+F
+∑
+= ma becomes 
+ 
+ 
+ 
+
+Fg +
+
+F2 = ma
+
+F2 = 2.80 kg 5.83ˆi −4.58ˆj
+(
+) m s2 + 2.80 kg
+(
+) 9.80 m s2
+(
+)ˆj
+
+F2 =
+16.3ˆi + 14.6ˆj
+(
+) N
+ 
+P5.13 
+(a) 
+Force exerted by spring on hand, to the left; force exerted by
+spring on wall, to the right.
+
+--- PAGE 13 ---
+Chapter 5     209 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Force exerted by wagon on handle, downward to the left. Force 
+exerted by wagon on planet, upward. Force exerted by wagon on
+ground, downward.
+ 
+ 
+(c) 
+Force exerted by football on player, downward to the right. Force
+exerted by football on planet, upward.
+ 
+ 
+(d) 
+Force exerted by small-mass object on large-mass object, 
+to the left.
+ 
+ 
+(e) 
+Force exerted by negative charge on positive charge, to the left. 
+ 
+(f) 
+Force exerted by iron on magnet, to the left. 
+P5.14 
+The free-body diagrams are shown in ANS. FIG. P5.14 below. 
+ 
+(a) 
+ncb = normal force of cushion on brick
+mb
+g = gravitational force on brick
+ 
+ 
+(b) 
+npc = normal force of pavement on cushion
+mb
+g = gravitational force on cushion
+
+Fbc = force of brick on cushion
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+brick 
+cushion 
+  
+ 
+(a) 
+(b) 
+ANS. FIG.P5.14
+
+--- PAGE 14 ---
+210     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+force: normal force of cushion on brick (ncb)→reaction force:
+force of brick on cushion (
+
+Fbc)
+force: gravitational force of Earth on brick (mb
+g)→reaction
+force: gravitational force of brick on Earth 
+force: normal force of pavement on cushion (npc)→reaction
+force: force of cushion on pavement
+force: gravitational force of Earth on cushion (mc
+g)→reaction
+force: gravitational force of cushion on Earth
+ 
+*P5.15 
+(a) 
+We start from the sum of the two forces: 
+ 
+ 
+ 
+
+F
+∑
+=
+
+F1 +
+
+F2 = −6.00ˆi −4.00ˆj
+(
+)+ −3.00ˆi + 7.00ˆj
+(
+)
+= −9.00ˆi + 3.00ˆj
+(
+) N
+ 
+ 
+ 
+The acceleration is then:  
+ 
+ 
+ 
+a = axˆi + ayˆj =
+
+F
+∑
+m =
+−9.00ˆi + 3.00ˆj
+(
+) N
+2.00 kg
+= −4.50ˆi + 1.50ˆj
+(
+) m s2
+ 
+ 
+and the velocity is found from  
+ 
+ 
+v f = vxˆi + vyˆj = vi + at = at 
+ 
+v f =
+−4.50ˆi + 1.50ˆj
+(
+) m/s2
+⎡⎣
+⎤⎦10.0 s
+(
+)
+=
+−45.0ˆi + 15.0ˆj
+(
+) m/s
+ 
+(b) The direction of motion makes angle θ with the x direction. 
+ 
+ 
+θ = tan−1 vy
+vx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −15.0 m s
+45.0 m s
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+θ = −18.4° + 180° = 162° from the + x axis
+
+--- PAGE 15 ---
+Chapter 5     211 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(c) 
+Displacement: 
+ 
+ 
+x-displacement = x f −xi = vxit + 1
+2 axt2
+= 1
+2 −4.50 m s2
+(
+) 10.0 s
+(
+)2 = −225 m
+ 
+ 
+y-displacement = y f −yi = vyit + 1
+2 ayt2
+= 1
+2 +1.50 m s2
+(
+) 10.0 s
+(
+)2 = +75.0 m
+ 
+ 
+Δr =
+−225ˆi + 75.0ˆj
+(
+) m 
+(d) Position: 
+rf = ri + Δr 
+ 
+rf = −2.00ˆi + 4.00ˆj
+(
+) + −225ˆi + 75.0ˆj
+(
+) =
+−227ˆi + 79.0ˆj
+(
+) m 
+*P5.16 
+Since the two forces are perpendicular to each other, their resultant is 
+ 
+ 
+ 
+FR =
+180 N
+(
+)
+2 + 390 N
+(
+)
+2 = 430 N  
+ 
+at an angle of  
+ 
+ 
+ 
+θ = tan−1 390 N
+180 N
+⎛
+⎝⎜
+⎞
+⎠⎟= 65.2° N of E
+  
+ 
+From Newton’s second law, 
+ 
+ 
+ 
+a = FR
+m = 430 N
+270 kg = 1.59 m/s2  
+ 
+or 
+ 
+ 
+ 
+a = 1.59 m/s2 at 65.2° N of E  
+P5.17 
+(a) 
+With the wind force being horizontal, the only vertical force 
+acting on the object is its own weight, mg. This gives the object a 
+downward acceleration of 
+ 
+ 
+ 
+ay =
+Fy
+∑
+m
+= −mg
+m
+= −g
+
+--- PAGE 16 ---
+212     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The time required to undergo a vertical displacement Δy = −h, 
+starting with initial vertical velocity v0y = 0, is found from 
+Δy = v0yt + 1
+2 ayt2 as 
+ 
+ 
+ 
+−h = 0 −g
+2 t2       or       t =
+2h
+g
+ 
+ 
+(b) The only horizontal force acting on the object is that due to the 
+wind, so 
+Fx
+∑
+= F and the horizontal acceleration will be  
+ 
+ 
+ 
+ax =
+Fx
+∑
+m
+= F
+m
+ 
+ 
+(c) 
+With v0x = 0, the horizontal displacement the object undergoes 
+while falling a vertical distance h is given by Δx = voxt + 1
+2 axt2 as 
+ 
+ 
+ 
+Δx = 0 + 1
+2
+F
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2h
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= Fh
+mg
+ 
+ 
+(d) The total acceleration of this object while it is falling will be 
+ 
+ 
+ 
+a =
+ax
+2 + ay
+2 =
+F m
+(
+)
+2 + −g
+(
+)
+2 =
+F m
+(
+)
+2 + g2 
+P5.18 
+For the same force F, acting on different masses F = m1a1 and F = m2a2. 
+Setting these expressions for F equal to one another gives: 
+ 
+(a) 
+m1
+m2
+= a2
+a1
+=
+1
+3
+ 
+ 
+(b) The acceleration of the combined object is found from 
+ 
+ 
+F = m1 + m2
+(
+)a = 4m1a 
+ 
+ 
+or 
+a =
+F
+4m1
+= 1
+4 3.00 m/s2
+(
+) = 0.750 m/s2
+
+--- PAGE 17 ---
+Chapter 5     213 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.19 
+P5.19 
+We use the particle under a net force model and add the forces as 
+vectors. Then Newton’s second law tells us the acceleration. 
+ 
+ 
+(a) 
+
+F
+∑
+=
+
+F1 +
+
+F2 = (20.0ˆi + 15.0ˆj) N 
+ 
+  
+ 
+Newton’s second law gives, with m = 5.00 kg, 
+ 
+ 
+ 
+a =
+
+F
+∑
+m = 4.00ˆi +3.00ˆj
+(
+) m/s2  
+ 
+ 
+or  a = 5.00 m s2 at θ = 36.9° 
+ 
+(b) In this configuration, 
+ 
+ 
+ 
+F2x = 15.0cos60.0° = 7.50 N
+F2y = 15.0sin60.0° = 13.0 N
+
+F2 = 7.50ˆi + 13.0ˆj
+(
+) N
+  
+ 
+ 
+Then, 
+ 
+ 
+ 
+
+F
+∑
+=
+
+F1 +
+
+F2 = 20.0ˆi + 7.50ˆi + 13.0ˆj
+(
+)
+⎡⎣
+⎤⎦ N
+= (27.5ˆi + 13.0ˆj) N
+ 
+ 
+ 
+and a =
+
+F
+∑
+m = 5.50ˆi + 2.60ˆj
+(
+) m/s2 = 6.08 m/s2 at 25.3° 
+P5.20 
+(a) 
+You and the Earth exert equal forces on each other: my g = ME aE. If 
+your mass is 70.0 kg, 
+ 
+ 
+ 
+aE =
+70.0 kg
+(
+) 9.80 m s2
+(
+)
+5.98 × 1024 kg
+= ~ 10−22 m s2 
+[1] 
+ 
+(b) You and the planet move for equal time intervals Δt according to 
+Δx = 1
+2 a(Δt)2 . If the seat is 50.0 cm high, 
+ 
+ 
+ 
+2Δxy
+ay
+=
+2ΔxE
+aE
+ 
+ 
+ 
+ 
+ΔxE = aE
+ay
+Δxy
+
+--- PAGE 18 ---
+214     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We substitute for aE
+ay
+ from [1] to obtain 
+ 
+ 
+ 
+ΔxE = 70.0 kg(0.500 m)
+5.98 × 1024 kg
+ 
+ 
+ 
+ 
+ΔxE 10−23 m 
+P5.21 
+(a) 
+15.0 lb up, to counterbalance the Earth’s force on the block. 
+ 
+(b) 
+5.00 lb up, the forces on the block are now the Earth pulling 
+down with 15.0 lb and the rope pulling up with 10.0 lb. The forces 
+from the floor and rope together balance the weight.  
+ 
+(c) 
+0, the block now accelerates up away from the floor. 
+P5.22 
+
+F
+∑
+= ma reads 
+ 
+ 
+−2.00ˆi + 2.00ˆj + 5.00ˆi −3.00ˆj −45.0ˆi
+(
+) N = m 3.75 m s2
+(
+)ˆa 
+ 
+where ˆa represents the direction of a: 
+ 
+ 
+−42.0ˆi −1.00ˆj
+(
+) N = m 3.75 m s2
+(
+)ˆa 
+ 
+ 
+
+F
+∑
+=
+42.0
+(
+)
+2 + 1.00
+(
+)
+2 N at tan−1 1.00
+42.0
+⎛
+⎝⎜
+⎞
+⎠⎟ below the –x axis 
+ 
+ 
+
+F
+∑
+= 42.0 N at 181° = m 3.75 m s2
+(
+)ˆa 
+ 
+For the vectors to be equal, their magnitudes and their directions must 
+be equal. 
+ 
+(a) 
+Therefore ˆa is at 181° counter-clockwise from the x axis 
+ 
+(b) 
+m =
+42.0 N
+3.75 m s2 = 11.2 kg 
+ 
+(c) 
+v =|v|= 0 + a t = (3.75 m/s2)(10.00 s) = 37.5 m/s
+
+--- PAGE 19 ---
+Chapter 5     215 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+v = vi+|a|t = 0 +
+
+F
+m t 
+ 
+ 
+v =
+−42.0ˆi −1.00ˆj
+(
+) N
+11.2 kg
+10.0 s
+(
+) = −37.5ˆi −0.893ˆj
+(
+) m/s
+ 
+ 
+ 
+So, v f =
+−37.5ˆi −0.893ˆj
+(
+) m s 
+* 
+Choose the +x 
+direction to be 
+horizontal and 
+forward with 
+the +y vertical 
+and upward. 
+The common 
+acceleration of the car and trailer then has components of 
+ax = +2.15 m s2 and ay = 0. 
+ 
+(a) The net force on the car is horizontal and given by 
+ 
+ 
+ 
+Fx
+∑
+(
+)car = F −T = mcarax = 1 000 kg
+(
+) 2.15 m s2
+(
+)
+= 2.15 × 103 N forward
+ 
+ 
+(b) The net force on the trailer is also horizontal and given by  
+ 
+ 
+Fx
+∑
+(
+)trailer = +T = mtrailerax = 300 kg
+(
+) 2.15 m s2
+(
+)
+= 645 N forward
+ 
+(c) 
+Consider the free-body diagrams of the car and trailer. The only 
+horizontal force acting on the trailer is T = 645 N forward, exerted 
+on the trailer by the car. Newton’s third law then states that the 
+force the trailer exerts on the car is 645 N toward the rear . 
+(d) The road exerts two forces on the car. These are F and nc shown 
+in the free-body diagram of the car. From part (a), 
+F = T + 2.15 × 103 N = +2.80 × 103 N. Also, 
+Fy
+∑
+(
+)car = nc −Fgc = mcaray = 0, so nc = Fgc = mcarg = 9.80 × 103 N. 
+The resultant force exerted on the car by the road is then  
+Rcar =
+F2 + nc
+2 =
+2.80 × 103 N
+(
+)
+2 + 9.80 × 103 N
+(
+)
+2
+= 1.02 × 104 N
+ 
+T
+nT
+FgT
+T
+F 
+nc
+Fgc
+Trailer 
+300 kg 
+Car 
+1 000 kg 
+nc
+Rcar
+F
+?
+ANS. FIG. P5.23
+
+--- PAGE 20 ---
+216     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+at θ = tan−1 nc
+F( ) = tan−1 3.51
+(
+) = 74.1° above the horizontal and 
+forward. Newton’s third law then states that the resultant force 
+exerted on the road by the car is 
+1.02 × 104 N at 74.1° below the horizontal and rearward . 
+P5.24 
+v = vi −kx implies the acceleration is given by 
+ 
+ 
+ 
+ 
+a = dv
+dt = 0 −k dx
+dt = −kv 
+ 
+Then the total force is  
+ 
+ 
+ 
+F
+∑
+= ma = m −kv
+(
+) 
+ 
+The resistive force is opposite to the velocity: 
+ 
+ 
+ 
+ 
+
+F
+∑
+= −kmv
+ 
+ 
+ 
+ 
+Section 5.7 
+Analysis Models Using Newton’s Second Law 
+P5.25 
+As the worker through the pole 
+exerts on the lake bottom a force of 
+240 N downward at 35° behind the 
+vertical, the lake bottom through 
+the pole exerts a force of 240 N 
+upward at 35° ahead of the 
+vertical. With the x axis horizontally 
+forward, the pole force on the boat is  
+ 
+ 
+ 
+240cos35°ˆj+ 240sin35°ˆi
+(
+) N = 138ˆi + 197ˆj
+(
+) N 
+ 
+The gravitational force of the whole Earth on boat and worker is Fg = 
+mg = 370 kg (9.8 m/s
+2) = 3 630 N down. The acceleration of the boat is 
+purely horizontal, so 
+ 
+ 
+ 
+Fy
+∑
+= may gives +B + 197 N – 3 630 N = 0 
+ 
+(a) 
+The buoyant force is B = 3.43 × 103 N . 
+ANS. FIG. P5.25
+
+--- PAGE 21 ---
+Chapter 5     217 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The acceleration is given by  
+ 
+ 
+ 
+Fx
+∑
+= max:     + 138 N −47.5 N = 370 kg
+(
+)a 
+ 
+a = 90.2 N
+370 kg = 0.244 m/s2 
+According to the constant-acceleration model,  
+ 
+vx  f = vxi + axt
+= 0.857 m/s + (0.244 m/s
+2)(0.450 s)
+= 0.967 m/s
+v f = 0.967ˆi m/s
+ 
+P5.26 
+(a) 
+The left-hand diagram in 
+ANS. FIG. P5.26(a) shows 
+the geometry of the situation 
+and lets us find the angle of 
+the string with the 
+horizontal:  
+ 
+ 
+ 
+cosθ = 28/35.7 = 0.784  
+ 
+ 
+or 
+θ = 38.3° 
+ 
+ 
+The right-hand diagram in ANS. FIG. P5.26(a) is the free-body 
+diagram. The weight of the bolt is  
+ 
+ 
+ 
+w = mg = (0.065 kg)(9.80 m/s
+2) = 0.637 N 
+ 
+(b) To find the tension in the string, we apply Newton’s second law 
+in the x and y directions: 
+ 
+ 
+ 
+Fx
+∑
+= max: −T cos 38.3° + Fmagnetic = 0 
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= may: + T sin 38.3° −0.637 N = 0  
+[2] 
+ 
+ 
+from equation [2],  
+ 
+ 
+ 
+T = 0.637 N
+sin38.3° = 1.03 N
+  
+ 
+(c) 
+Now, from equation [1], 
+ 
+ 
+ 
+Fmagnetic = T cos38.3° = 1.03 N
+(
+)cos38.3° = 0.805 N to the right  
+ANS. FIG. P5.26(a)
+
+--- PAGE 22 ---
+218     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.27 
+(a) 
+P cos 40.0° −n = 0 and P sin 40.0° −220 N = 0
+P = 342 N and n = 262 N
+ 
+ 
+(b) 
+P −n cos 40.0° −220 N sin 40.0° = 0
+and n sin 40.0° −220 N cos 40.0° = 0
+n = 262 N and P = 342 N.
+ 
+ 
+(c) 
+The results agree. The methods are basically of the same level
+of difficulty. Each involves one equation in one unknown and
+one equation in two unknowns. If we are interested in n 
+without finding P, method (b) is simpler.
+ 
+P5.28 
+(a) 
+Isolate either mass:  
+ 
+ 
+ 
+T + mg = ma = 0
+T = mg
+ 
+ 
+ 
+The scale reads the tension T, so 
+ 
+ 
+ 
+T = mg = 5.00 kg
+(
+) 9.80 m s2
+(
+) = 49.0 N 
+ 
+(b) The solution to part (a) is also the solution  
+to (b). 
+ 
+(c) 
+Isolate the pulley:  
+ 
+ 
+ 
+
+T2 + 2
+
+T1 = 0
+T2 = 2 T1 = 2mg = 98.0 N
+ 
+ 
+(d) 
+
+F
+∑
+= n +
+
+T + mg = 0 
+ 
+ 
+Take the component along the incline, 
+ 
+ 
+ 
+nx + Tx + mgx = 0 
+ 
+ 
+or 
+0 +T −mgsin30.0° = 0 
+ 
+ 
+ 
+T = mgsin30.0° = mg
+2
+= 5.00 kg
+(
+) 9.80 m/s2
+(
+)
+2
+= 24.5 N
+ 
+ANS. FIG. P5.28 
+(a) and (b) 
+ANS. FIG. P5.28(c) 
+ANS. FIG. P5.28(d)
+
+--- PAGE 23 ---
+Chapter 5     219 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P5.29 
+(a) 
+The resultant external force acting on this system, consisting of all 
+three blocks having a total mass of 6.0 kg, is 42 N directed 
+horizontally toward the right. Thus, the acceleration produced is 
+ 
+ 
+ 
+a =
+F
+∑
+m = 42 N
+6.0 kg = 7.0 m/s2 horizontally to the right
+  
+ 
+(b) Draw a free-body diagram of the 3.0-kg block and apply 
+Newton’s second law to the horizontal forces acting on this block: 
+ 
+ 
+ 
+Fx = max
+∑
+:  
+ 
+ 
+ 
+ 
+42 N −T = 3.0 kg
+(
+) 7.0 m/s2
+(
+)    →    T = 21 N  
+ 
+(c) 
+The force accelerating the 2.0-kg block is the force exerted on it by 
+the 1.0-kg block. Therefore, this force is given by 
+ 
+ 
+ 
+ 
+F = ma = 2.0 kg
+(
+) 7.0 m/s2
+(
+) = 14 N  
+ 
+ 
+ 
+or 
+
+F = 14 N horizontally to the right  
+P5.30 
+(a) ANS. FIG. P5.30 shows the forces on the  
+object. The two forces acting on the block are  
+the normal force, n, and the weight, mg. If  
+the block is considered to be a point mass  
+and the x axis is chosen to be parallel to the  
+plane, then the free-body diagram will be as  
+shown in the figure to the right. The angle  
+θ is the angle of inclination of the plane.  
+Applying Newton’s second law for the  
+accelerating system (and taking the direction up the plane as the 
+positive x direction), we have 
+ 
+ 
+ 
+Fy
+∑
+= n −mgcosθ = 0:  n = mg cosθ 
+ 
+ 
+ 
+Fx
+∑
+= −mgsinθ = ma :  a = –g sinθ 
+ 
+(b) When θ = 15.0°, 
+ 
+ 
+ 
+a = −2.54 m s2 
+ANS. FIG. P5.30(a)
+
+--- PAGE 24 ---
+220     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Starting from rest, 
+ 
+ 
+v f
+2 = vi
+2 + 2a x f −xi
+(
+) = 2aΔx
+v f =
+2 a Δx =
+2 −2.54 m/s2 2.00 m
+(
+) = 3.19 m/s
+ 
+P5.31 
+We use Newton’s second law with the forces in the x and y directions 
+in equilibrium. 
+ 
+(a) 
+At the point where the bird is perched, the wire’s midpoint, the 
+forces acting on the wire are the tension forces and the force of 
+gravity acting on the bird. These forces are shown in ANS. FIG. 
+P5.31(a) below.  
+ 
+ANS. FIG. P5.31(a) 
+ 
+(b) The mass of the bird is m = 1.00 kg, so the force of gravity on the 
+bird, its weight, is mg = (1.00 kg)(9.80 m/s2) = 9.80 N. To calculate 
+the angle α in the free-body diagram, we note that the base of the 
+triangle is 25.0 m, so that  
+ 
+ 
+  
+tanα = 0.200 m
+25.0 m     →     α = 0.458°
+  
+ 
+ 
+Each of the tension forces has x and y components given by  
+ 
+ 
+ 
+ 
+Tx = T cosα   and    Ty = T sinα  
+ 
+ 
+The x components of the two tension forces cancel out. In the y 
+direction,  
+ 
+ 
+ 
+ 
+Fy
+∑
+= 2T sinα −mg = 0 
+ 
+ 
+which gives 
+ 
+ 
+ 
+T =
+mg
+2sinα =
+9.80 N
+2sin0.458° = 613 N
+
+--- PAGE 25 ---
+Chapter 5     221 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.33 
+P5.32 
+To find the net force, we differentiate the equations for the position of 
+the particle once with respect to time to obtain the velocity, and once 
+again to obtain the acceleration: 
+ 
+ 
+vx = dx
+dt = d
+dt 5t2 −1
+(
+) = 10t, vy = dy
+dt = d
+dt 3t3 + 2
+(
+) = 9t2 
+ 
+ 
+ax = dvx
+dt = 10, ay =
+dvy
+dt = 18t 
+ 
+Then, at t = 2.00 s, ax = 10.0 m/s
+2, ay = 36.0 m/s
+2, and Newton’s second 
+law gives us 
+ 
+ 
+Fx
+∑
+= max:  3.00 kg(10.0 m/s
+2) = 30.0 N 
+ 
+ 
+Fy
+∑
+= may:  3.00 kg(36.0 m/s
+2) = 108 N 
+ 
+ 
+F
+∑
+=
+Fx
+2 + Fy
+2 = 112 N 
+P5.33 
+From equilibrium of the sack:  
+ 
+ 
+T3 = Fg 
+[1] 
+ 
+From ∑Fy = 0 for the knot:  
+ 
+ 
+T1 sinθ1 + T2 sinθ2 = Fg 
+[2] 
+ 
+From ∑Fx = 0 for the knot:  
+ 
+ 
+T1 cosθ1 = T2 cosθ2 
+[3] 
+ 
+Eliminate T2 by using T2 = T1 cosθ1 /cosθ2  
+and solve for T1: 
+ 
+ 
+T1 =
+Fg cosθ2
+sinθ1 cosθ2 + cosθ1 sinθ2
+(
+)
+=
+Fg cosθ2
+sin θ1 +θ2
+(
+)
+T3 = Fg = 325 N
+T1 = Fg
+cos40.0°
+sin100.0°
+⎛
+⎝⎜
+⎞
+⎠⎟= 253 N
+T2 = T1
+cosθ1
+cosθ2
+⎛
+⎝⎜
+⎞
+⎠⎟= 253 N
+(
+) cos60.0°
+cos40.0°
+⎛
+⎝⎜
+⎞
+⎠⎟= 165 N
+
+--- PAGE 26 ---
+222     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.34 
+See the solution for T1 in Problem 5.33. The equations indicate that the 
+tension is directly proportional to Fg.  
+*P5.35 
+Let us call the forces exerted by each person F1 and F2 . Thus, for 
+pulling in the same direction, Newton’s second law becomes 
+ 
+ 
+ 
+F1 + F2 = 200 kg
+(
+) 1.52 m/s2
+(
+) 
+ 
+or 
+F1 + F2 = 304 N 
+[1] 
+ 
+When pulling in opposite directions,  
+ 
+ 
+F1 −F2 = 200 kg
+(
+) −0.518 m/s2
+(
+) 
+ 
+or 
+F1 −F2 = −104 N 
+[2] 
+ 
+Solving [1] and [2] simultaneously, we find  
+ 
+F1 = 100 N and F2 = 204 N 
+*P5.36 
+(a) 
+First construct a free-body 
+diagram for the 5.00-kg mass as 
+shown in the Figure 5.36a. Since 
+the mass is in equilibrium, we 
+can require T3 −49.0 N = 0 or 
+T3 = 49.0 N. Next, construct a 
+free-body diagram for the knot 
+as shown in ANS. FIG. P5.36(a). 
+ 
+ 
+Again, since the system is 
+moving at constant velocity,  
+a = 0, and applying Newton’s 
+second law in component form 
+gives 
+ 
+Fx
+∑
+= T2 cos50.0° −T1 cos40.0° = 0
+Fy
+∑
+= T2 sin50.0° +T1 sin 40.0° −49.0 N = 0 
+ 
+Solving the above equations simultaneously for T1 and T2 gives 
+T1 = 31.5 N and T2 = 37.5 N and above we found 
+T3 = 49.0 N . 
+5 kg
+49 N
+40°
+50°
+r
+T3
+r
+T1
+r
+T2
+r
+T3
+ANS. FIG. 5.36(a) 
+10 kg
+98 N
+r
+T3
+r
+T1
+r
+T2
+r
+T3
+= 98 N
+ANS. FIG. 5.36(b) 
+60.0°
+
+--- PAGE 27 ---
+Chapter 5     223 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.37  
+(b) Proceed as in part (a) and construct a free-body diagram for the 
+mass and for the knot as shown in ANS. FIG. P5.36(b). Applying 
+Newton’s second law in each case (for a constant-velocity 
+system), we find: 
+ 
+ 
+T3 −98.0 N = 0
+T2 −T1 cos60.0° = 0
+T1 sin60.0° −T3 = 0
+ 
+ 
+Solving this set of equations we find: 
+T1 = 113 N, T2 = 56.6 N, and T3 = 98.0 N  
+P5.37 
+Choose a coordinate system with ˆi East and ˆj 
+North. The acceleration is 
+ 
+ 
+a = [(10.0 cos 30.0°)ˆi + (10.0 sin 30.0°)ˆj] m/s2
+= (8.66ˆi + 5.00ˆj) m/s2
+ 
+ 
+ 
+From Newton’s second law, 
+ 
+ 
+ 
+
+F
+∑
+= ma = (1.00 kg)(8.66ˆi m/s2 + 5.00ˆj m/s2)
+= (8.66ˆi + 5.00ˆj) N  
+ 
+ 
+ 
+and  
+
+F
+∑ = 
+
+F1 + 
+
+F2 
+ 
+ 
+So the force we want is  
+ 
+ 
+
+F1 = 
+
+F
+∑
+− 
+
+F2 = (8.66ˆi + 5.00ˆj −5.00ˆj) N
+= 8.66ˆi N = 8.66 N east
+ 
+P5.38 
+(a) 
+Assuming frictionless pulleys, the 
+tension is uniform through the entire 
+length of the rope. Thus, the tension at 
+the point where the rope attaches to the 
+leg is the same as that at the 8.00-kg 
+block. ANS. FIG. P5.38(a) gives a free-
+body diagram of the suspended block. 
+Recognizing that the block has zero 
+acceleration, Newton’s second law 
+gives 
+ 
+ 
+ 
+Fy
+∑
+= T −mg = 0 
+ANS. FIG. P5.38
+
+--- PAGE 28 ---
+224     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+T = mg = 8.00 kg
+(
+) 9.80 m s2
+(
+) = 78.4 N 
+ 
+(b) ANS. FIG. P5.38(b) gives a free-body diagram of the pulley near 
+the foot. Here, F is the magnitude of the force the foot exerts on 
+the pulley. By Newton’s third law, this is the same as the 
+magnitude of the force the pulley exerts on the foot. Applying the 
+second law gives 
+ 
+ 
+ 
+Fx
+∑
+= T +T cos70.0° −F = max = 0 
+ 
+ 
+or 
+ 
+ 
+ 
+F = T 1+ cos70.0°
+(
+) = 78.4 N
+(
+) 1+ cos70.0°
+(
+) = 105 N 
+*P5.39 
+(a) 
+Assume the car and mass accelerate 
+horizontally. We consider the forces 
+on the suspended object. 
+  
+ 
+Fy
+∑
+= may: +T cosθ −mg = 0 
+  
+ 
+Fx
+∑
+= max: +T sinθ = ma 
+  
+Substitute T = mg
+cosθ from the first 
+equation into the second, 
+  
+ 
+mgsinθ
+cosθ
+= mgtanθ = ma 
+ 
+ 
+  
+a = gtanθ 
+ 
+(b) 
+a = 9.80 m s2
+(
+)tan23.0° = 4.16 m s2  
+P5.40 
+(a) 
+The forces on the objects are shown 
+in ANS. FIG. P5.40. 
+(b) and (c) First, consider m1, the block 
+moving along the horizontal. The 
+only force in the direction of 
+movement is T. Thus,  
+ 
+ 
+ 
+Fx
+∑
+= ma 
+mrg
+r
+T
+ra
+ANS. FIG. P5.39 
+ANS. FIG. P5.40
+
+--- PAGE 29 ---
+Chapter 5     225 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+T = (5.00 kg)a 
+ [1] 
+Next consider m2, the block that moves vertically. The forces on it 
+are the tension T and its weight, 88.2 N. 
+ 
+ 
+We have 
+Fy
+∑
+= ma: 
+ 
+ 
+ 
+88.2 N – T = (9.00 kg)a 
+[2] 
+Note that both blocks must have the same magnitude of 
+acceleration. Equations [1] and [2] can be added to give 88.2 N = 
+(14.0 kg)a. Then 
+ 
+ 
+ 
+a = 6.30 m s2 and T = 31.5 N 
+P5.41 
+(a) and (b) The slope of the graph of upward velocity versus time is the 
+acceleration of the person’s body. At both time 0 and time 0.5 s, 
+this slope is (18 cm/s)/0.6 s = 30 cm/s
+2. 
+ 
+ 
+For the person’s body, 
+ 
+ 
+ 
+Fy
+∑
+= may :
+          + Fbar −64.0 kg
+(
+) 9.80 m/s2
+(
+) = 64.0 kg
+(
+) 0.3 m/s2
+(
+)
+ 
+ 
+ 
+Note that there is no floor touching the person to exert a normal 
+force, and that he does not exert any extra force “on himself.” 
+Solving, Fbar = 646 N up . 
+ 
+(c) 
+ay = slope of vy versus t graph = 0 at t = 1.1 s. The person is 
+moving with maximum speed and is momentarily in equilibrium:  
+ 
+ 
+ 
+Fy
+∑
+= may :
+          + Fbar −64.0 kg
+(
+) 9.80 m/s2
+(
+) = 0
+ 
+ 
+ 
+ 
+Fbar = 627 N up 
+ 
+(d) ay = slope of vy versus t graph = (0 – 24 cm/s)/(1.7 s – 1.3 s) = 
+ –60 cm/s
+2 
+ 
+ 
+ 
+Fy
+∑
+= may :
+          + Fbar −64.0 kg
+(
+) 9.80 m/s2
+(
+) = 64.0 kg
+(
+) −0.6 m/s2
+(
+)
+ 
+ 
+ 
+Fbar = 589 N up
+
+--- PAGE 30 ---
+226     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.42 
+P5.42 
+m1 = 2.00 kg, m2 = 6.00 kg, θ = 55.0° 
+(a) 
+The forces on the objects are  
+shown in ANS. FIG. P5.42. 
+ 
+(b) 
+Fx
+∑
+= m2gsinθ −T = m2a and  
+ 
+ 
+T −m1g = m1a
+a = m2gsinθ −m1g
+m1 + m2
+= 6.00 kg
+(
+) 9.80 m/s2
+(
+)sin55.0° −2.00 kg
+(
+) 9.80 m/s2
+(
+)
+2.00 kg + 6.00 kg
+= 3.57 m s2
+ 
+ 
+ 
+(c) 
+T = m1 a + g
+(
+) = 2.00 kg
+(
+) 3.57 m/s2 + 9.80 m/s2
+(
+) = 26.7 N 
+ 
+(d) Since vi = 0 , v f = at = 3.57 m s2
+(
+) 2.00 s
+(
+) = 7.14 m s . 
+P5.43 
+(a) 
+Free-body diagrams of the two blocks 
+are shown in ANS. FIG. P5.43. Note 
+that each block experiences a 
+downward gravitational force 
+ 
+ 
+Fg = 3.50 kg
+(
+) 9.80 m s2
+(
+) = 34.3 N 
+Also, each has the same upward 
+acceleration as the elevator, in this case 
+ay = +1.60 m/s
+2. 
+ 
+ 
+Applying Newton’s second law to the lower block: 
+ 
+ 
+ 
+Fy
+∑
+= may     ⇒     T2 −Fg = may
+ 
+ 
+ 
+or  
+ 
+T2 = Fg + may = 34.3 N + 3.50 kg
+(
+) 1.60 m s2
+(
+) = 39.9 N 
+ 
+ 
+Next, applying Newton’s second law to the upper block: 
+ 
+ 
+ 
+Fy
+∑
+= may     ⇒     T1 −T2 −Fg = may
+ 
+ 
+ 
+or 
+ 
+ 
+T1 = T2 + Fg + may = 39.9 N + 34.3 N + 3.50 kg
+(
+) 1.60 m s2
+(
+)
+= 79.8 N
+ 
+ANS. FIG. P5.43
+
+--- PAGE 31 ---
+Chapter 5     227 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(b) Note that the tension is greater in the upper string, and this string 
+will break first as the acceleration of the system increases. Thus, 
+we wish to find the value of ay when T1 = 85.0. Making use of the 
+general relationships derived in (a) above gives: 
+ 
+T1 = T2 + Fg + may = Fg + may
+(
+) + Fg + may = 2Fg + 2may 
+ 
+ 
+or 
+ 
+ 
+ 
+ay =
+T1 −2Fg
+2m
+= 85.0 N −2 34.3 N
+(
+)
+2 3.50 kg
+(
+)
+= 2.34 m s2 
+P5.44 
+(a) 
+Free-body diagrams of the two blocks 
+are shown in ANS. FIG. P5.44. Note 
+that each block experiences a 
+downward gravitational force Fg = mg. 
+ 
+Also, each has the same upward 
+acceleration as the elevator, ay = +a. 
+ 
+Applying Newton’s second law to the 
+lower block: 
+ 
+ 
+ 
+Fy
+∑
+= may     ⇒     T2 −Fg = may
+ 
+ 
+ 
+or   T2 = mg + ma = m g + a
+(
+) 
+ 
+ 
+Next, applying Newton’s second law to the upper block: 
+ 
+ 
+ 
+Fy
+∑
+= may     ⇒     T1 −T2 −Fg = may
+ 
+ 
+ 
+or 
+ 
+T1 = T2 + Fg + may = mg + ma
+(
+) + mg + ma = 2 mg + ma
+(
+)
+= 2m(g + a) = 2T2
+ 
+(b) Note that T1 = 2T2, so the upper string breaks first as the 
+acceleration of the system increases. 
+ 
+(c) 
+When the upper string breaks, both blocks will be in free fall with 
+a = –g. Then, using the results of part (a), T2 = m (g + a) = m (g – g) 
+= 0 and T1 = 2T2 = 0 . 
+ANS. FIG. P5.44
+
+--- PAGE 32 ---
+228     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.45 
+Forces acting on m1 = 2.00-kg block: 
+ 
+ 
+ 
+T – m1g = m1a 
+[1] 
+ 
+Forces acting on m2 = 8.00-kg block: 
+ 
+ 
+ 
+Fx – T = m2a 
+[2] 
+ 
+(a) 
+Eliminate T and solve for a: 
+ 
+ 
+ 
+a = Fx −m1g
+m1 + m2
+ 
+ 
+ 
+ 
+a > 0 for Fx > m1g = 19.6 N 
+ 
+(b) Eliminate a and solve for T: 
+ 
+ 
+ 
+T =
+m1
+m1 + m2
+Fx + m2g
+(
+) 
+ 
+ 
+ 
+T = 0 for Fx ≤−m2g = −78.4 N 
+ 
+Note that if Fx < –m2g, the cord is loose, so mass m2 is in free fall 
+and mass m1 accelerates under the action of Fx only.  
+ 
+(c) 
+See ANS. FIG. P5.45. 
+ 
+ 
+ 
+ 
+P5.46 
+(a) 
+Pulley P2 has acceleration a1. 
+Since m2 moves twice the distance P2 moves 
+in the same time, m2 has twice the 
+acceleration of P2, i.e., a2 = 2a1 . 
+ 
+(b) From the figure, and using  
+ 
+ 
+F
+∑
+= ma:
+m1g −T1 = m1a1
+[1]
+T2 = m2a2 = 2m2a1
+[2]
+T1 −2T2 = 0
+[3]
+ 
+Fx, N 
+–100 
+–78.4 
+–50.0 
+0 
+50.0 
+100 
+ax, m/s
+2 
+–12.5 
+–9.80 
+–6.96 
+–1.96 
+3.04 
+8.04 
+ANS. FIG. P5.45  
+ANS. FIG. P5.46
+
+--- PAGE 33 ---
+Chapter 5     229 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Equation [1] becomes m1g – 2T2 = m1a1. This equation combined 
+with equation [2] yields  
+ 
+ 
+ 
+T2
+m2
+2m2 + m2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= m1g 
+ 
+ 
+ 
+T2 =
+m1m2
+2m2 + 1
+2 m1
+g and 
+T2 =
+m1m2
+m2 + 1
+4 m1
+g 
+ 
+(c) 
+From the values of T2 and T1, we find that 
+ 
+ 
+ 
+a2 = T2
+m2
+=
+m1g
+2m2 + 1
+2 m1
+ and a1 = 1
+2 a2 =
+m1g
+4m2 + m1
+ 
+*P5.47 
+We use the particle under constant 
+acceleration and particle under a net force 
+models. Newton’s law applies for each 
+axis. After it leaves your hand, the block’s 
+speed changes only because of one 
+component of its weight: 
+ 
+ 
+Fx
+∑
+= max               
+−mgsin20.0° = ma 
+ 
+ 
+v f
+2 = vi
+2 + 2a x f −xi
+(
+) 
+ 
+Taking v f = 0, vi = 5.00 m/s, and 
+a = −gsin 20.0°
+(
+) gives, suppressing units, 
+ 
+ 
+0 = 5.00
+(
+)2 −2 9.80
+(
+)sin 20.0°
+(
+) x f −0
+(
+) 
+ 
+or 
+ 
+ 
+x f =
+25.0
+2 9.80
+(
+)sin 20.0°
+(
+) = 3.73 m 
+*P5.48 
+We assume the vertical bar is in 
+compression, pushing up on the pin 
+with force A, and the tilted bar is in 
+tension, exerting force B on the pin 
+at –50.0°. 
+r
+Fg
+ra
+rn
+rvi
+rn
+ 
+ANS. FIG. P5.47  
+30°
+50°
+2 500 N
+2 500 N cos30°
+2 500 N sin30°
+sin50°
+B
+cos50°
+B
+A
+r
+B
+r
+A
+ANS. FIG. P5.48
+
+--- PAGE 34 ---
+230     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Fx
+∑
+= 0:     
+ 
+ 
+−2 500 Ncos30° + Bcos50° = 0 
+ 
+ 
+B = 3.37 × 103 N 
+ 
+Fy
+∑
+= 0: 
+ 
+ 
+−2 500 Nsin30° + A −3.37 × 103 N sin50° = 0 
+ 
+ 
+A = 3.83 × 103 N 
+ 
+Positive answers confirm that  
+	  
+	  
+	  
+B is in tension and A is in compression. 
+P5.49 
+Since it has a larger mass, we expect the 
+8.00-kg block to move down the plane. 
+The acceleration for both blocks should 
+have the same magnitude since they are 
+joined together by a non-stretching 
+string. Define up the left-hand plane as  
+positive for the 3.50-kg object and down  
+the right-hand plane as positive for the 8.00-kg object. 
+ 
+ 
+ 
+F1
+∑
+= m1a1:     −m1gsin35.0° +T = m1a
+F2
+∑
+= m2a2:       m2gsin35.0° −T = m2a
+  
+ 
+and, suppressing units, 
+ 
+ 
+−3.50
+(
+) 9.80
+(
+)sin35.0° + T = 3.50a
+8.00
+(
+) 9.80
+(
+)sin35.0° −T = 8.00a. 
+ 
+Adding, we obtain +45.0 N −19.7 N = 11.5 kg
+(
+)a. 
+(a) 
+Thus the acceleration is a = 2.20 m s2 . By substitution, 
+ 
+ 
+−19.7 N + T = 3.50 kg
+(
+) 2.20 m s2
+(
+) = 7.70 N 
+(b) The tension is T = 27.4 N 
+ANS. FIG. P5.49
+
+--- PAGE 35 ---
+Chapter 5     231 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.50 
+Both blocks move with acceleration a =
+m2 −m1
+m2 + m1
+⎛
+⎝⎜
+⎞
+⎠⎟g: 
+ 
+ 
+ 
+a =
+7 kg −2 kg
+7 kg + 2 kg
+⎛
+⎝⎜
+⎞
+⎠⎟9.80 m/s2
+(
+) = 5.44 m/s2
+ 
+ 
+(a) 
+Take the upward direction as positive for m1. 
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ax y f −yi
+(
+) 
+ 
+ 
+ 
+0 = −2.4 m s
+(
+)
+2 + 2 5.44 m s2
+(
+) y f −0
+(
+) 
+ 
+ 
+ 
+y f = −5.76 m2 s2
+2 5.44 m s2
+(
+)
+= −0.529 m
+y f = 0.529 m below its initial level
+ 
+ 
+(b) 
+vyf = vyi + ayt:
+vyf = −2.40 m/s + 5.44 m/s2
+(
+) 1.80 s
+(
+)
+vyf = 7.40 m/s upward
+ 
+P5.51 
+We draw a force diagram and apply Newton’s 
+second law for each part of the elevator trip to find 
+the scale force. The acceleration can be found from 
+the change in speed divided by the elapsed time. 
+ 
+Consider the force diagram of the man shown as 
+two arrows. The force F is the upward force exerted 
+on the man by the scale, and his weight is 
+ 
+ 
+ 
+Fg = mg = (72.0 kg)(9.80 m/s
+2) = 706 N 
+With +y defined to be upwards, Newton’s  
+second law gives 
+ 
+ 
+ 
+F
+∑
+y = +Fs −Fg = ma 
+ 
+ 
+Thus, we calculate the upward scale force to be  
+ 
+ 
+ 
+Fs = 706 N + (72.0 kg)a 
+[1] 
+ 
+where a is the acceleration the man experiences as the elevator changes 
+speed. 
+ANS. FIG. P5.51
+
+--- PAGE 36 ---
+232     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Before the elevator starts moving, the elevator’s acceleration is 
+zero (a = 0). Therefore, equation [1] gives the force exerted by the 
+scale on the man as 706 N upward, and the man exerts a 
+downward force of 706 N on the scale. 
+ 
+ 
+(b) During the first 0.800 s of motion, the man accelerates at a rate of 
+ 
+ 
+  
+ax = Δv
+Δt = 1.20 m/s – 0
+0.800 s
+= 1.50 m s2 
+ 
+  
+Substituting a into equation [1] then gives 
+ 
+ 
+  
+F = 706 N + (72.0 kg)(1.50 m/s
+2) = 814 N 
+ 
+(c) 
+While the elevator is traveling upward at constant speed, the 
+acceleration is zero and equation [1] again gives a scale force 
+F = 706 N . 
+ 
+ 
+(d) During the last 1.50 s, the elevator first has an upward velocity of 
+1.20 m/s, and then comes to rest with an acceleration of 
+ 
+ 
+  
+a = Δv
+Δt = 0 – 1.20 m/s
+1.50 s
+= – 0.800 m s2 
+ 
+ 
+ 
+Thus, the force of the man on the scale is 
+ 
+ 
+ 
+F = 706 N + (72.0 kg)(−0.800 m/s
+2) = 648 N 
+ 
+ 
+ 
+Section 5.8 
+Forces of Friction 
+*P5.52 
+If the load is on the point of sliding  
+forward on the bed of the slowing  
+truck, static friction acts backward  
+on the load with its maximum value,  
+to give it the same acceleration as the  
+truck: 
+ 
+ 
+ 
+ΣFx = max: 
+−fs = mloadax 
+ 
+ 
+ 
+ΣFy = may: 
+n −mloadg = 0 
+ANS. FIG. P5.52 
+r
+r
+r
+
+--- PAGE 37 ---
+Chapter 5     233 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the normal force and substituting into the x equation gives: 
+ 
+ 
+ 
+−µsmloadg = mloadax    or 
+ax = −µsg 
+ 
+We can then use  
+ 
+ 
+ 
+vxf
+2 = vxi
+2 + 2ax x f −xi
+(
+) 
+ 
+ 
+Which becomes 
+ 
+ 
+ 
+0 = vxi
+2 + 2 −µsg
+(
+) x f −0
+(
+) 
+ 
+(a) 
+x f =
+vxi
+2
+2µsg =
+12.0 m s
+(
+)
+2
+2 0.500
+(
+) 9.80 m s2
+(
+)
+= 14.7 m 
+ 
+(b) From the expression x f =
+vxi
+2
+2µsg ,  
+ 
+ 
+neither mass affects the answer 
+P5.53 
+Using m = 12.0 × 10
+–3 kg, vi = 260 m/s, vf = 0, ∆x = (xf – xi) = 0.230 m, 
+and vf
+2 = vi
+2 + 2a(xf – xi), we find the acceleration of the bullet:  
+a = –1.47 × 10
+5 m/s
+2.  Newton’s second law then gives 
+ 
+ 
+ 
+Fx
+∑
+= max 
+ 
+ 
+ 
+fk = ma =  –1.76 × 10
+5 N 
+ 
+The (kinetic) friction force is 1.76 × 105 N in the negative x direction . 
+P5.54 
+We apply Newton’s second law to the car to determine the maximum 
+static friction force acting on the car: 
+ 
+ 
+ 
+Fy
+∑
+= may:
++n −mg = 0
+fs ≤µsn = µsmg
+ 
+ 
+This maximum magnitude of static friction acts so long as the tires roll 
+without skidding. 
+ 
+ 
+ 
+Fx
+∑
+= max →−fs = ma
+
+--- PAGE 38 ---
+234     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The maximum acceleration is  
+ 
+ 
+ 
+a = −µsg 
+ 
+The initial and final conditions are: xi = 0, vi = 50.0 mi/h = 22.4 m/s, 
+and vf = 0. Then, 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2a(x f −xi) →vi
+2 = 2µsgx f 
+ 
+(a) 
+x f =
+vi
+2
+2µsg 
+ 
+ 
+x f =
+22.4 m s
+(
+)
+2
+2 0.100
+(
+) 9.80 m s2
+(
+)
+= 256 m 
+ 
+(b) 
+x f =
+vi
+2
+2µsg
+ 
+ 
+ 
+x f =
+22.4 m s
+(
+)
+2
+2 0.600
+(
+) 9.80 m s2
+(
+)
+= 42.7 m 
+P5.55 
+For equilibrium: f = F and n = Fg. Also, f = µn, i.e.,  
+ 
+ 
+ 
+µ = f
+n = F
+Fg
+ 
+ 
+In parts (a) and (b), we replace F with the 
+magnitude of the applied force and µ with the 
+appropriate coefficient of friction. 
+ 
+(a) 
+The coefficient of static friction is found from  
+ 
+ 
+ 
+µs = F
+Fg
+=
+75.0 N
+25.0 kg
+(
+) 9.80 m/s2
+(
+)
+= 0.306
+ 
+ 
+(b) The coefficient of kinetic friction is found from 
+ 
+ 
+ 
+µk = F
+Fg
+=
+60.0 N
+25.0 kg
+(
+) 9.80 m/s2
+(
+)
+= 0.245
+ 
+ANS. FIG. P5.55
+
+--- PAGE 39 ---
+Chapter 5     235 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.56 
+Find the acceleration of the car, which is the same as the acceleration of 
+the book because the book does not slide. 
+ 
+For the car: vi = 72.0 km/h = 20.0 m/s, vf = 0, ∆x = (xf  – xi) = 30.0 m. 
+Using vf
+2 = vi
+2 + 2a(xf – xi), we find the acceleration of the car:  
+ 
+ 
+ 
+a = –6.67 m/s
+2 
+ 
+Now, find the maximum acceleration that friction can provide. Because 
+the book does not slide, static friction provides the force that slows 
+down the book. We have the coefficient of static friction, µs = 0.550, and 
+we know fs ≤ µsn. The book is on a horizontal seat, so friction acts in the 
+horizontal direction, and the vertical normal force that the seat exerts 
+on the book is equal in magnitude to the force of gravity on the book:  
+n = Fg = mg. For maximum acceleration, the static friction force will be 
+a maximum, so fs = µsn = µsmg. Applying Newton’s second law, we 
+find the acceleration that friction can provide for the book:  
+ 
+ 
+ 
+Fx
+∑
+= max: 
+ 
+ 
+ 
+ 
+–fs = ma 
+ 
+ 
+ 
+ 
+–µsmg = ma  
+ 
+which gives 
+a = –µs g = –(0.550)(9.80 m/s
+2) = –5.39 m/s
+2, which is 
+too small for the stated conditions.  
+ 
+The situation is impossible because maximum static friction 
+cannot provide the acceleration necessary to keep the book 
+stationary on the seat.
+ 
+P5.57 
+The x and y components of Newton’s second law as the eraser begins 
+to slip are 
+ 
+ 
+ 
+−f + mgsinθ = 0 and +n −mgcosθ = 0  
+ 
+with f = µs n or µk n, these equations yield  
+ 
+ 
+ 
+µs = tanθc = tan36.0° = 0.727 
+ 
+ 
+ 
+µk = tanθc = tan30.0° = 0.577
+
+--- PAGE 40 ---
+236     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.58 
+We assume that all the weight is on the rear wheels of the car. 
+(a) 
+We find the record time from  
+ 
+F = ma:   µsmg = ma    or  a = µsg  
+ 
+ 
+But  
+ 
+ 
+ 
+Δx = at2
+2 = µsgt2
+2
+ 
+ 
+ 
+so 
+µs = 2Δx
+gt2 
+ 
+ 
+ 
+µs = 2 0.250 mi
+(
+) 1 609 m mi
+(
+)
+9.80 m s2
+(
+) 4.43 s
+(
+)
+2
+= 4.18 
+ 
+(b) 
+Time would increase, as the wheels would skid and only kinetic
+friction would act; or perhaps the car would flip over.
+ 
+P5.59 
+Maximum static friction provides the force that produces maximum 
+acceleration, resulting in a minimum time interval to accelerate 
+through Δx = 3.00 m. We know that the maximum force of static 
+friction is fs = µsn. If the shoe is on a horizontal surface, friction acts in 
+the horizontal direction. Assuming that the vertical normal force is 
+maximal, equal in magnitude to the force of gravity on the person, we 
+have n = Fg = mg; therefore, the maximum static friction force is 
+ 
+ 
+ 
+fs = µsn = µsmg 
+ 
+Applying Newton’s second law: 
+ 
+ 
+ 
+Fx
+∑
+= max: 
+ 
+ 
+ 
+ 
+fs = ma 
+ 
+ 
+ 
+ 
+µsmg = ma   →   a = µsg  
+ 
+We find the time interval Δt = t to accelerate from rest through Δx = 
+3.00 m using x f = xi + vxit + 1
+2 axt2: 
+ 
+ 
+ 
+Δx = 1
+2 ax(Δt)2 →Δt =
+2Δx
+ax
+=
+2Δx
+µsg
+
+--- PAGE 41 ---
+Chapter 5     237 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+For µs = 0.500, Δt= 1.11 s 
+ 
+(b) For µs = 0.800, Δt= 0.875 s 
+P5.60 
+(a) 
+See the free-body diagram of the suitcase in 
+ANS. FIG. P5.60(a).  
+ 
+(b) msuitcase = 20.0 kg, F = 35.0 N 
+ 
+ 
+Fx
+∑
+= max:
+−20.0 N + F cosθ = 0
+Fy
+∑
+= may:
++n + F sinθ −Fg = 0 
+ 
+ 
+F cosθ = 20.0 N
+cosθ = 20.0 N
+35.0 N = 0.571
+θ = 55.2°
+ 
+ 
+(c) 
+With Fg = (20.0 kg)(9.80 m/s2),  
+ 
+ 
+ 
+n = Fg −Fsinθ = 196 N −35.0 N
+(
+) 0.821
+(
+)
+[
+] 
+ 
+ 
+ 
+n = 167 N 
+P5.61 
+We are given: m = 3.00 kg, θ = 30.0°, x = 2.00 m,  
+t = 1.50 s 
+ 
+(a) 
+At constant acceleration, 
+ 
+ 
+ 
+x f = vit + 1
+2 at2 
+ 
+ 
+Solving,  
+ 
+ 
+ 
+a = 
+2 x f – vit
+(
+)
+t2
+ = 2(2.00 m – 0)
+(1.50 s)2
+ =  1.78 m/s2 
+ 
+From the acceleration, we can calculate the friction force, answer (c), 
+next. 
+ 
+(c) 
+Take the positive x axis down parallel to the incline, in the 
+direction of the acceleration. We apply Newton’s second law: 
+ 
+ 
+ 
+Fx = mg sin θ −f = ma
+∑
+ 
+ANS. FIG. P5.60(a)  
+ANS. FIG. P5.61
+
+--- PAGE 42 ---
+238     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving, 
+f = m(g sin θ −a ) 
+ 
+ 
+Substituting,  
+ 
+ 
+ 
+f = (3.00 kg)[(9.80 m/s
+2)sin 30.0° − 1.78 m/s
+2] = 9.37 N 
+ 
+(b) Applying Newton’s law in the y direction (perpendicular to the 
+incline), we have no burrowing-in or taking-off motion. Then the 
+y component of acceleration is zero: 
+ 
+ 
+ 
+ 
+Fy = n – mg cos θ = 0
+∑
+ 
+ 
+ 
+Thus 
+n = mg cos θ 
+ 
+ 
+Because  
+f = µkn 
+ 
+ 
+we have 
+µk =
+f
+mg cosθ =
+9.37 N
+(3.00 kg) 9.80 m/s2
+(
+)cos 30.0= 0.368 
+ 
+(d) 
+v f = vi + at
+so
+v f = 0 +(1.78 m/s2)(1.50 s) = 2.67 m/s
+ 
+*P5.62 
+The free-body diagrams for this problem are shown in ANS. FIG. 
+P5.62.  
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P5.62 
+ 
+From the free-body diagram for the person,  
+ 
+ 
+ 
+Fx
+∑
+= F1 sin 22.0°
+(
+) −F2 sin 22.0°
+(
+) = 0 
+ 
+which gives F1 = F2 = F. Then, 
+Fy
+∑
+= 2F cos22.0° + 85.0 lbs −170 lbs = 0 
+yields F = 45.8 lb. 
+22.0° 
+22.0° 
++y
++y
++x
++x
+f
+F = 45.8 lb
+22.0°
+Fg = 170 lb
+F2
+F1
+ntip
+n
+Fg
+ground
+ lb
+=
+=
+2
+85 0.
+Free-Body Diagram  
+ 
+Free-Body Diagram 
+ 
+of Person 
+ 
+of Crutch Tip
+
+--- PAGE 43 ---
+Chapter 5     239 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Now consider the free-body diagram of a crutch tip. 
+ 
+ 
+ 
+Fx
+∑
+= f −45.8 lb
+(
+)sin22.0° = 0 
+ 
+ 
+or f = 17.2 lb.  
+ 
+ 
+ 
+Fy
+∑
+= ntip −45.8 lb
+(
+)cos22.0° = 0 
+ 
+ 
+which gives ntip = 42.5 lb. 
+For minimum coefficient of friction, the crutch tip will be on the 
+verge of slipping, so f =
+fs
+(
+)max = µsntip and  
+ 
+µs =
+f
+ntip
+= 17.2 lb
+42.5 lb = 0.404 
+  
+(b) As found above, the compression force in each crutch is 
+ 
+ 
+ 
+F1 = F2 = F =
+45.8 lb 
+P5.63 
+Newton’s second law for the 5.00-kg mass gives  
+ 
+ 
+T – fk = (5.00 kg)a 
+ 
+Similarly, for the 9.00-kg mass, 
+ 
+ 
+(9.00 kg)g – T = (9.00 kg)a  
+ 
+Adding these two equations gives: 
+ 
+ 
+9.00 kg
+(
+) 9.80 m/s2
+(
+)
+     −0.200 5.00 kg
+(
+) 9.80 m/s2
+(
+)
+                                    = 14.0 kg
+(
+)a
+ 
+ 
+Which yields a = 5.60 m/s2. Plugging this into  
+the first equation above gives  
+ 
+ 
+T = 5.00 kg
+(
+) 5.60 m/s2
+(
+) + 0.200 5.00 kg
+(
+) 9.80 m/s2
+(
+) = 37.8 N 
+ 
+ANS. FIG. P5.63
+
+--- PAGE 44 ---
+240     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.64(a) 
+P5.64 
+(a) 
+The free-body diagrams for each object 
+appear on the right. 
+ 
+(b) Let a represent the positive magnitude of 
+the acceleration −aˆj of m1, of the 
+acceleration −aˆi of m2, and of the 
+acceleration +aˆj of m3. Call T12 the 
+tension in the left cord and T23 the tension 
+in the cord on the right. 
+ 
+ 
+For m1, 
+Fy
+∑
+= may: 
+ 
+ 
+ 
+ 
++T12 −m1g = −m1a 
+ 
+ 
+For m2, 
+Fx
+∑
+= max: 
+ 
+ 
+ 
+ 
+ 
+−T12 + µkn + T23 = −m2a 
+ 
+ 
+and   
+Fy
+∑
+= may , giving n−m2g = 0. 
+ 
+ 
+ 
+For m3, 
+Fy
+∑
+= may , giving T23 −m3g = +m3a. 
+ 
+ 
+We have three simultaneous equations: 
+ 
+ 
+ 
+−T12 + 39.2 N = 4.00 kg
+(
+)a
++T12 −0.350 9.80 N
+(
+) −T23 = 1.00 kg
+(
+)a
++T23 −19.6 N = 2.00 kg
+(
+)a
+ 
+ 
+ 
+Add them up (this cancels out the tensions): 
+ 
+ 
+ 
++39.2 N −3.43 N −19.6 N = 7.00 kg
+(
+)a 
+ 
+ 
+ 
+a = 2.31 m s2 , down for m1, left for m2, and up for m3
+ 
+ 
+(c) 
+Now −T12 + 39.2 N = 4.00 kg
+(
+) 2.31 m s2
+(
+) 
+ 
+ 
+ 
+T12 = 30.0 N 
+ 
+ 
+and T23 −19.6 N = 2.00 kg
+(
+) 2.31 m s2
+(
+) 
+ 
+ 
+ 
+T23 = 24.2 N
+
+--- PAGE 45 ---
+Chapter 5     241 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) If the tabletop were smooth, friction disappears (µk = 0), and so 
+the acceleration would become larger. For a larger acceleration, 
+according to the equations above, the tensions change: 
+ 
+ 
+ 
+T12 = m1g −m1a →T12 decreases 
+ 
+ 
+ 
+T23 = m3g + m3a →T23 increases 
+P5.65 
+Because the cord has constant length, 
+both blocks move the same number 
+of centimeters in each second and so 
+move with the same acceleration. To 
+find just this acceleration, we could 
+model the 30-kg system as a particle 
+under a net force. That method 
+would not help to finding the tension, 
+so we treat the two blocks as separate 
+accelerating particles. 
+ 
+(a) 
+ANS. FIG. P5.65 shows the free-body diagrams for the two blocks. 
+The tension force exerted by block 1 on block 2 is the same size as 
+the tension force exerted by object 2 on object 1. The tension in a 
+light string is a constant along its length, and tells how strongly 
+the string pulls on objects at both ends. 
+ 
+ 
+(b) We use the free-body diagrams to apply Newton’s second law. 
+ 
+ 
+ 
+For m1: 
+Fx = T −f1 = m1a
+∑
+or
+T = m1a + f1 
+[1] 
+ 
+ 
+ 
+And also 
+Fy = n1 −m1g = 0
+∑
+or
+n1 = m1g 
+ 
+ 
+ 
+Also, the definition of the coefficient of friction gives 
+ 
+ 
+ 
+ 
+f1 = µn1 = (0.100)(12.0 kg)(9.80 m/s
+2) = 11.8 N 
+ 
+ 
+ 
+For m2: 
+Fx
+∑
+= F – T – f2 = ma 
+[2] 
+ 
+ 
+ 
+Also from the y component, n2 – m2g = 0
+or
+n2 = m2g 
+ 
+ 
+ 
+And again f2 = µn2 = (0.100)(18.0 kg)(9.80 m/s
+2) = 17.6 N 
+ 
+ 
+ 
+Substituting T from equation [1] into [2], we get  
+ 
+ 
+ 
+ 
+F −m1a −f1 −f2 = m2a
+or
+F −f1 −f2 = m2a + m1a 
+ANS. FIG. P5.65
+
+--- PAGE 46 ---
+242     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Solving for a,  
+ 
+ 
+ 
+ 
+ 
+a = F – f1 – f2
+m1 + m2
+= (68.0 N –11.8 N–17.6 N)
+(12.0 kg+18.0 kg)
+= 1.29 m s2 
+ 
+ 
+(c) 
+From equation [1],  
+ 
+ 
+ 
+ 
+T = m1a + f1 = (12.0 kg)(1.29 m/s
+2) + 11.8 N = 27.2 N 
+P5.66 
+(a) 
+To find the maximum possible value of P, 
+imagine impending upward motion as 
+case 1. Setting 
+Fx
+∑
+= 0: 
+ 
+ 
+ 
+Pcos50.0° −n = 0 
+ 
+ 
+with fs, max = µsn: 
+ 
+ 
+ 
+fs, max = µsPcos50.0°
+= 0.250 0.643
+(
+)P = 0.161P
+ 
+ 
+ 
+Setting 
+Fy
+∑
+= 0: 
+ 
+ 
+ 
+Psin50.0° −0.161P
+         −3.00 kg
+(
+) 9.80 m/s2
+(
+) = 0
+Pmax = 48.6 N
+   
+ 
+ 
+To find the minimum possible value of P, consider impending 
+downward motion. As in case 1, 
+ 
+ 
+ 
+fs, max = 0.161P 
+ 
+ 
+Setting 
+Fy
+∑
+= 0: 
+ 
+ 
+ 
+Psin50.0° + 0.161P −3.00 kg
+(
+) 9.80 m/s2
+(
+) = 0
+Pmin = 31.7 N
+ 
+ 
+(b) 
+If P > 48.6 N, the block slides up the wall.  If P < 31.7 N, the block
+slides down the wall.
+ 
+ANS. FIG. P5.66
+
+--- PAGE 47 ---
+Chapter 5     243 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We repeat the calculation as in part (a) with the new angle. 
+ 
+ 
+Consider impending upward motion as case 1. Setting  
+ 
+ 
+ 
+Fx
+∑
+= 0:
+Pcos13° −n = 0
+fs, max = µsn:
+fs, max = µsPcos13°
+= 0.250 0.974
+(
+)P = 0.244P
+ 
+ 
+ 
+Setting  
+ 
+ 
+ 
+Fy
+∑
+= 0:
+Psin13° −0.244P −3.00 kg
+(
+) 9.80 m/s2
+(
+) = 0
+Pmax = −1 580 N
+ 
+ 
+ 
+The push cannot really be negative. However large or small it is, 
+it cannot produce upward motion. To find the minimum possible 
+value of P, consider impending downward motion. As in case 1, 
+ 
+ 
+ 
+fs, max = 0.244P 
+ 
+ 
+Setting 
+ 
+ 
+ 
+Fy
+∑
+= 0:
+Psin13° + 0.244P −3.00 kg
+(
+) 9.80 m/s2
+(
+) = 0
+Pmin = 62.7 N
+ 
+ 
+ 
+P ≥62.7 N. The block cannot slide up the wall. If P < 62.7 N, the
+block slides down the wall.
+ 
+P5.67 
+We must consider separately the rock when it is 
+in contact with the roof and when it has gone 
+over the top into free fall. In the first case, we take 
+x and y as parallel and perpendicular to the 
+surface of the roof: 
+ 
+ 
+Fy
+∑
+= may:
++n −mgcosθ = 0
+n = mgcosθ 
+ 
+then friction is fk = µkn = µkmgcosθ 
+ 
+ 
+Fx
+∑
+= max:
+−fk −mgsinθ = max 
+ANS. FIG. P5.67
+
+--- PAGE 48 ---
+244     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ax = −µkgcosθ −gsinθ = −0.400cos37.0° −sin37.0°
+(
+)(9.80 m s2)
+= −9.03 m s2
+ 
+ 
+The rock goes ballistic with speed given by 
+ 
+vxf
+2 = vxi
+2 + 2ax x f −xi
+(
+) = 15 m s
+(
+)
+2 + 2 −9.03 m s2
+(
+) 10 m −0
+(
+)
+= 44.4 m2 s2
+vxf = 6.67 m s
+ 
+ 
+For the free fall, we take x and y horizontal and vertical: 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+)
+y f =
+vyf
+2 −vyi
+2
+2ay
+= 0 −6.67 m s sin37°
+(
+)
+2
+2 −9.8 m s2
+(
+)
+= 0.822 m above the top of the roof
+   
+ 
+Then ytot = 10.0 m sin37.0° + 0.822 m = 6.84 m . 
+P5.68 
+The motion of the salmon as it breaks the surface of the water and 
+eventually leaves must be modeled in two steps. The first is over a 
+distance of 0.750 m, until half of the salmon is above the surface, while 
+a constant force, P, is applied upward. In this motion, the initial 
+velocity of the salmon as it nears the surface is 3.58 m/s and ends with 
+the salmon having a velocity, v½, when it is half out of the water. This 
+is then the initial velocity for the second motion, where gravity is a 
+second force to be considered acting on the fish. This motion is again 
+over a distance of 0.750 m, and results with the salmon having a final 
+velocity of 6.26 m/s. 
+ 
+The vertical motion equations, in each case, would be 
+ 
+ 
+ 
+a1y = v1yf
+2 −v1yi
+2
+2 Δy
+= v1 2
+2 −3.58 m s
+(
+)
+2
+2 0.750 m
+(
+)
+= v1 2
+2 −12.8 m2 s2
+(
+)
+1.50 m
+ 
+ 
+and 
+ 
+ 
+ 
+a2y = v2yf
+2
+−v2yi
+2
+2 Δy
+= 6.26 m s
+(
+)
+2 −v1 2
+2
+2 0.750 m
+(
+)
+= 39.2 m2 s2
+(
+)−v1 2
+2
+1.50 m
+
+--- PAGE 49 ---
+Chapter 5     245 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the square of the velocity in each case and equating the 
+expressions, we find 
+ 
+ 
+ 
+v1 2
+2 = 1.50 m
+(
+)a1y + 12.8 m2 s2
+(
+) 
+ 
+ 
+ 
+v1 2
+2 = 39.2 m2 s2
+(
+) −1.50 m
+(
+)a2y 
+ 
+ 
+ 
+1.50 m
+(
+)a1y + 12.8 m2 s2
+(
+) = 39.2 m2 s2
+(
+) −1.50 m
+(
+)a2y
+a1y = 17.6 m s2
+(
+) −a2y
+ 
+ 
+In the first motion, the relationship between the net acceleration and 
+the net force can be written as 
+ 
+ 
+ 
+Fy = P = ma1y
+∑
+P = 61.0 kg
+(
+)a1y
+ 
+ 
+Substituting from above, 
+ 
+ 
+ 
+P = 61.0 kg
+(
+)
+17.6 m s2
+(
+)−a2y
+⎡⎣
+⎤⎦
+P = 1 070 N −61.0 kg
+(
+)a2y
+ 
+ 
+In the second motion, the relationship between the net acceleration and 
+the net force can be written as 
+ 
+ 
+ 
+Fy = P −mg = ma2y
+∑
+P = mg + ma2y = 61.0 kg
+(
+) 9.80 m s2
+(
+)+ 61.0 kg
+(
+)a2y
+P = 598 N + 61.0 kg
+(
+)a2y
+ 
+ 
+Equating these two equations for, P, 
+ 
+ 
+ 
+1 070 N −61.0 kg
+(
+)a2y = 598 N + 61.0 kg
+(
+)a2y
+−122.0 kg
+(
+)a2y = −472 N
+a2y = 3.87 m s2
+ 
+ 
+Plugging into either of the above, 
+ 
+ 
+ 
+P = 598 N + 61.0 kg
+(
+) 3.87 m s2
+(
+)
+P = 834 N
+
+--- PAGE 50 ---
+246     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.69 
+Take +x in the direction of motion of the tablecloth. For the mug: 
+ 
+ 
+ 
+Fx
+∑
+= max:
+0.1 N = 0.2 kg ax
+ax = 0.5 m s2
+ 
+ 
+Relative to the tablecloth, the acceleration of the mug is 0.500 m/s
+2 – 
+3.00 m/s
+2 = –2.50 m/s
+2. The mug reaches the edge of the tablecloth 
+after time given by 
+ 
+ 
+ 
+Δ x = vxit + 1
+2 axt2
+−0.300 m = 0 + 1
+2 −2.50 m s2
+(
+)t2
+t = 0.490 s
+ 
+ 
+The motion of the mug relative to tabletop is over distance 
+ 
+ 
+ 
+1
+2 axt2 = 1
+2 0.500 m s2
+(
+) 0.490 s
+(
+)
+2 = 0.060 0 m
+ 
+ 
+The tablecloth slides 36 cm over the table in this process. 
+*P5.70 
+(a) 
+The free-body diagrams are shown in the figure below. 
+r
+r
+r
+r
+r
+r
+r
+r
+ 
+ANS. FIG. P5.70(a) 
+ 
+ 
+f1 and n1  appear in both diagrams as action-reaction pairs. 
+ 
+(b) For the 5.00-kg mass, Newton’s second law in the y direction 
+gives: 
+ 
+ 
+ 
+ 
+n1 = m1g = 5.00 kg
+(
+) 9.80 m/s2
+(
+) = 49.0 N 
+ 
+ 
+ 
+In the x direction, 
+ 
+ 
+ 
+f1 −T = 0
+
+--- PAGE 51 ---
+Chapter 5     247 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+T = f1 = µ mg = 0.200 5.00 kg
+(
+) 9.80 m/s2
+(
+) = 9.80 N 
+For the 10.0-kg mass, Newton’s second law in the x direction 
+gives: 
+ 
+ 
+ 
+ 
+45.0 N −f1 −f2 = 10.0 kg
+(
+)a 
+ 
+ 
+In the y direction, 
+ 
+ 
+ 
+n2 −n1 −98.0 N = 0 
+ 
+ 
+ 
+f2 = µ n2 = µ n1 + 98.0 N
+(
+) = 0.20 49.0 N + 98.0 N
+(
+) = 29.4 N 
+ 
+ 
+ 
+ 
+45.0 N −9.80 N −29.4 N = 10.0 kg
+(
+)a 
+ 
+ 
+ 
+a = 0.580 m/s2 
+*P5.71 
+For the right-hand block (m1), 
+F1
+∑
+= m1a 
+gives 
+ 
+ 
+ 
+−m1gsin35.0° −fk,1 + T = m1a 
+ 
+or 
+ 
+ 
+−3.50 kg
+(
+) 9.80 m/s2
+(
+)sin35.0°
+              −µs 3.50 kg
+(
+) 9.80 m/s2
+(
+)cos35.0° + T
+                                                        = 3.50 kg
+(
+) 1.50 m/s2
+(
+)
+ 
+[1]
+ 
+ 
+For the left-hand block (m2), 
+F2
+∑
+= m2a gives 
+ 
+ 
++m2gsin35.0° −fk,2 −T = m2a 
+ 
+ 
++ 8.00 kg
+(
+) 9.80 m/s2
+(
+)sin35.0° −
+    µs 8.00 kg
+(
+) 9.80 m/s2
+(
+)cos35.0° −T = 8.00 kg
+(
+) 1.50 m/s2
+(
+) 
+[2]
+ 
+ 
+Solving equations [1] and [2] simultaneously gives 
+ 
+(a) 
+µk = 0.087 1 
+ 
+(b) 
+T = 27.4 N 
+ 
+ 
+ 
+ANS. FIG. P5.71
+
+--- PAGE 52 ---
+248     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P5.72 
+(a) 
+Choose the black glider plus magnet as the system. 
+ 
+ 
+ 
+Fx
+∑
+= max →+0.823 N = 0.24 kg
+(
+)a 
+ 
+ 
+ 
+a = 3.43 m/s2 toward the scrap iron
+ 
+ 
+(b) The force of attraction the magnet exerts on the scrap iron is the 
+same as in (a): 
+ 
+ 
+ 
+ablack = 3.43 m/s2 toward the scrap iron 
+ 
+ 
+By Newton’s third law, the force the black glider exerts on the 
+magnet is equal and opposite to the force exerted on the scrap 
+iron: 
+ 
+ 
+ 
+Fx
+∑
+= max →−0.823 N = −0.12 kg
+(
+) a 
+ 
+ 
+ 
+a = −6.86 m/s2 toward the magnet
+ 
+P5.73 
+Let situation 1 be the original situation, with 
+F1
+∑
+= m1a1 = m1 8.40 mi h ⋅s
+(
+). Let situation 2 be the case with larger 
+force 
+F2
+∑
+= 1+ 0.24
+(
+)
+F1
+∑
+= m1a2 = 1.24m1a1, so a2 = 1.24a1. Let situation 
+3 be the case with the original force but with smaller mass: 
+ 
+ 
+ 
+F3
+∑
+=
+F1
+∑
+= m3a3 = 1−0.24
+(
+)m1a3
+a3 =
+F1
+∑
+0.76m1
+= 1.32a1
+ 
+(a) 
+With 1.32a greater than 1.24a1, reducing the mass gives a 
+larger increase in acceleration. 
+(b) Now with both changes, 
+ 
+ 
+F4
+∑
+= m4a4 
+ 
+1.24
+F1
+∑
+= 0.76m1a4
+a4 = 1.24
+0.76
+F1
+∑
+m1
+= 1.24
+0.76 8.40 mi h ⋅s
+(
+) = 13.7 mi h ⋅s
+
+--- PAGE 53 ---
+Chapter 5     249 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.74 
+Find the acceleration of the block according to the kinematic equations. 
+The book travels through a displacement of 1.00 m in a time interval of 
+0.483 s. Use the equation x f = xi + vxit + 1
+2 axt2, where 
+Δx = x f −xi = 1.00 m, Δt = t = 0.483 s, and vi = 0: 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2 →a = 2Δx
+t2
+= 8.57 m/s2 
+ 
+Now, find the acceleration of the block caused by the forces. See the 
+free-body diagram below. We take the positive y axis is perpendicular 
+to the incline; the positive x axis is parallel and down the incline. 
+ 
+ 
+ 
+∑Fy = may: 
+ 
+ 
+ 
+ 
+n −mg cos θ = 0 →n = mg cos θ 
+ 
+ 
+ 
+∑Fx = max: 
+ 
+ 
+ 
+ 
+mg sin θ −fk = ma  
+ 
+where 
+fk = µkn = µkmg cos θ 
+ 
+Substituting the express for kinetic friction into the 
+x-component equation gives 
+ 
+ 
+ 
+mg sin θ −µkmg cos θ = ma →a = g(sin θ −µk cos θ) 
+ 
+For µk = 0.300, and θ = 60.0°, a = 7.02 m/s
+2. 
+ 
+The situation is impossible because these forces on the book cannot 
+produce the acceleration described.
+ 
+P5.75 
+(a) 
+Since the puck is on a horizontal surface, the normal force is 
+vertical. With ay = 0, we see that 
+ 
+ 
+ 
+Fy
+∑
+= may →n −mg = 0   or   n = mg 
+ 
+ 
+Once the puck leaves the stick, the only horizontal force is a 
+friction force in the negative x direction (to oppose the motion of 
+the puck). The acceleration of the puck is 
+ 
+ 
+ 
+ax = ΣFx
+m = −fk
+m = −µkn
+m
+= −µk mg
+(
+)
+m
+= −µkg 
+ANS. FIG. P5.74
+
+--- PAGE 54 ---
+250     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Then vxf
+2 = vxi
+2 + 2aΔx gives the horizontal displacement of the 
+puck before coming to rest as  
+ 
+ 
+ 
+Δx =
+vxf
+2 −vxi
+2
+2ax
+=
+0 −vi
+2
+2 −µkg
+(
+)
+=
+vi
+2
+2µkg 
+*P5.76 
+(a) 
+Let x represent the position of the glider along the air track. Then 
+z2 = x2 + h0
+2 , x = z2 −h0
+2
+(
+)
+1 2 , and vx = dx
+dt = 1
+2 z2 −h0
+2
+(
+)
+−1 2 2z
+(
+) dz
+dt . 
+Now dz
+dt is the rate at which the string passes over the pulley, so 
+it is equal to vy of the counterweight. 
+ 
+ 
+ 
+vx = z z2 −h0
+2
+(
+)
+−1 2 vy = uvy 
+(b) 
+ax = dvx
+dt = d
+dt uvy = u dvy
+dt + vy
+du
+dt  
+ 
+At release from rest, vy = 0 and ax = uay . 
+(c) 
+sin30.0° = 80.0 cm
+z
+, z = 1.60 m, 
+ 
+ 
+u = z2 −h0
+2
+(
+)
+−1 2 z =
+1.6 m
+(
+)2 −0.8 m
+(
+)2
+⎡⎣
+⎤⎦
+−1 2 1.6 m
+(
+) = 1.15 m 
+ 
+ 
+For the counterweight, 
+Fy
+∑
+= may:  
+ 
+ 
+ 
+T −0.5 kg
+(
+) 9.80 m/s2
+(
+) = −0.5 kg
+(
+)ay 
+ 
+ 
+ 
+ay = −2 kg−1
+(
+)T + 9.80 m/s2
+(
+) 
+ 
+ 
+For the glider, 
+Fx
+∑
+= max: 
+ 
+ 
+ 
+T cos30° = 1.00 kg
+(
+) ax = 1.15 kg
+(
+)ay
+= 1.15 kg
+(
+) −2 kg−1
+(
+)T + 9.80 m/s2
+[
+]
+= −2.31T + 11.3 N
+ 
+ 
+ 
+ 
+3.18T = 11.3 N
+T = 3.56 N
+
+--- PAGE 55 ---
+Chapter 5     251 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P5.77 
+When an object of mass m is on this frictionless incline, the only force 
+acting parallel to the incline is the parallel component of weight, 
+mgsinθ, directed down the incline. The acceleration is then 
+ 
+ 
+ 
+a = mgsinθ
+m
+= gsinθ = 9.80 m/s2
+(
+)sin35.0° = 5.62 m/s2  
+ 
+directed down the incline.  
+ 
+(a) 
+Taking up the incline as positive, the time for the sled projected 
+up the incline to come to rest is given by 
+ 
+ 
+ 
+t = v f −vi
+a
+= 0 −5.00 m/s
+−5.62 m/s2 = 0.890 s
+  
+ 
+ 
+The distance the sled travels up the incline in this time is 
+ 
+ 
+ 
+Δx = vavgt =
+v f + vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+0 + 5.00 m/s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟0.890 s
+(
+) = 2.23 m
+  
+(b) The time required for the first sled to return to the bottom of the 
+incline is the same as the time needed to go up, that is, t = 0.890 s. 
+In this time, the second sled must travel down the entire 10.0-m 
+length of the incline. The needed initial velocity is found from  
+ 
+Δx = vit + 1
+2 at2 
+which gives 
+ 
+vi = Δx
+t −at
+2 = −10.0 m
+0.890 s −−5.62 m/s2
+(
+) 0.890 s
+(
+)
+2
+= −8.74 m/s
+ 
+or 
+8.74 m/s down the incline  
+P5.78 
+(a) 
+free-body diagrams of block and rope are shown in ANS. FIG. 
+P5.78(a): 
+ 
+ANS. FIG. P5.78(a)
+
+--- PAGE 56 ---
+252     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Applying Newton’s second law to the rope yields 
+ 
+ 
+ 
+Fx
+∑
+= max     ⇒     F −T = mra     or     T = F −mra 
+[1] 
+ 
+ 
+Then, applying Newton’s second law to the block, we find 
+ 
+ 
+ 
+Fx
+∑
+= max     ⇒T = mba     or     F −mra = mba 
+ 
+ 
+which gives  
+ 
+ 
+ 
+a =
+F
+mb + mr
+ 
+ 
+(c) 
+Substituting the acceleration found above back into equation [1] 
+gives the tension at the left end of the rope as 
+ 
+T = F −mra = F −mr
+F
+mb + mr
+⎛
+⎝⎜
+⎞
+⎠⎟= F
+mb + mr −mr
+mb + mr
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or   
+T =
+mb
+mb + mr
+⎛
+⎝⎜
+⎞
+⎠⎟F 
+ 
+(d) From the result of (c) above, we see that as mr approaches zero, T 
+approaches F. Thus, 
+ 
+ 
+the tension in a cord of negligible mass is constant along 
+its length.
+ 
+P5.79 
+(a) 
+The free-body diagrams of the two blocks shown in ANS. FIG. 
+P5.79(a): 
+ 
+ANS. FIG. P5.79(a) 
+ 
+ 
+Vertical forces sum to zero because the blocks move on a 
+horizontal surface; therefore, ay = 0 for each block.
+
+--- PAGE 57 ---
+Chapter 5     253 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+∑F1y = m1ay: 
+∑F2y = m2ay: 
+ 
+ 
+ 
+−m1g + n1 = 0 →n1 = m1g 
+−m2g + n2 = 0 →n2 = m2g 
+ 
+ 
+Kinetic friction is: 
+Kinetic friction is: 
+ 
+ 
+ 
+f1 = µ1n1 = µ1m1g 
+f2 = µ2n2 = µ2m2g 
+ 
+(b) 
+The net force on the system of the blocks would be equal to the
+magnitude of the force, F, minus the friction force on each
+block. The blocks will have the same acceleration.
+ 
+ 
+(c) 
+The net force on the mass, m1, would be equal to the force, F, 
+minus the friction force on m1 and the force P 21, as identified 
+in the free-body diagram.
+ 
+ 
+(d) 
+The net force on the mass, m2, would be equal to the force, P12, 
+minus the friction force on m2, as identified in the free-body 
+diagram.
+ 
+ 
+(e) 
+The blocks are pushed to the right by force 
+
+F, so kinetic friction 
+
+f 
+acts on each block to the left. Each block has the same horizontal 
+acceleration, ax = a. Each block exerts an equal and opposite force 
+on the other, so those forces have the same magnitude:  
+P12 = P21 = P. 
+ 
+ 
+ 
+∑F1x = m1ax: 
+∑F2x = m2ax: 
+ 
+ 
+ 
+F – P –f1 = m1a 
+P – f2 = m2a 
+ 
+ 
+ 
+F −P −µ1m1g = m1a 
+P −µ2m2g = m2a 
+ 
+(f) 
+Adding the above two equations of x components, we find 
+ 
+ 
+ 
+F −P −µ1m1g + P −µ2m2g = m1a + m2a
+F −µ1m1g −µ2m2g = (m1 + m2)a →
+a = F −µ1m1g −µ2m2g
+m1 + m2
+
+--- PAGE 58 ---
+254     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) From the x component equation for block 2, we have 
+ 
+ 
+ 
+P −µ2m2g = m2a →P = µ2m2g + m2a
+P =
+m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟F + µ2 −µ1
+(
+)m1g
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+We see that when the coefficients of friction are equal, µ1 = µ2, the 
+magnitude P is independent of friction. 
+P5.80 
+(a) 
+The cable does not stretch: Whenever one car moves 1 cm, the 
+other moves 1 cm. 
+ 
+ 
+At any instant they have the same velocity and at all instants they
+have the same acceleration.
+ 
+ 
+(b) Consider the BMW as the object. 
+ 
+ 
+ 
+Fy = may:
+∑
+         +T −mg = ma
+         +T – (1 461 kg)(9.80 m/s2)= 1 461 kg
+(
+)(1.25 m/s2)
+ 
+ 
+ 
+T = 1.61× 104 N
+ 
+ 
+(c) 
+Consider both cars as the object. 
+ 
+ 
+ 
+Fy = may:
+∑
+         +T −m+ M
+(
+)g = m+ M
+(
+)a
+         +T – (1 461 kg + 1 207 kg)(9.80 m/s2)
+                                     = (1 461 kg + 1 207 kg)(1.25 m/s2)
+ 
+ 
+ 
+ 
+Tabove = 2.95 × 104 N 
+P5.81 
+(a) 
+ANS. FIG. P5.81(a) shows the free-body diagrams for this 
+problem. 
+ 
+ 
+Note that the same-size force n acts up on Nick and down on 
+chair, and cancels out in the diagram. The same-size force T =  
+250 N acts up on Nick and up on chair, and appears twice in the 
+diagram.
+
+--- PAGE 59 ---
+Chapter 5     255 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P5.81(a) 
+ 
+ 
+(b) First consider Nick and the chair together as the system. Note that 
+two ropes support the system, and T = 250 N in each rope. 
+ 
+ 
+ 
+Applying 
+F = ma,
+∑
+ 
+2T −(160 N + 320 N) = ma 
+ 
+ 
+ 
+where  
+ 
+m =
+480 N
+9.80 m s2 = 49.0 kg 
+ 
+ 
+ 
+Solving for a gives  
+a = (500 –  480) N
+49.0 kg
+= 0.408 m s2 
+ 
+ 
+(c) 
+On Nick, we apply 
+ 
+ 
+ 
+ 
+ 
+F = ma:
+∑
+ 
+n + T – 320 N = ma 
+ 
+ 
+where 
+ 
+m =
+320 N
+9.80 m/s2 = 32.7 kg 
+ 
+ 
+The normal force is the one remaining unknown: 
+ 
+ 
+ 
+ 
+ 
+320 N –
+n
+ma
+T
+=
++
+ 
+ 
+ 
+Substituting, 
+n = (32.7 kg) 0.408 m s2
+(
+) + 320 N – 250 N 
+ 
+ 
+gives 
+n = 83.3 N
+
+--- PAGE 60 ---
+256     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.82 
+P5.82 
+See ANS. FIG. P5.82 showing the free-body  
+diagrams. The rope has tension T. 
+(a) 
+As soon as Nick passes the rope to  
+the other child, 
+ 
+ 
+Nick and the seat, with total weight 
+480 N, will accelerate down and the 
+child, with smaller weight 440 N, will 
+accelerate up.
+ 
+ 
+On Nick and the seat, 
+ 
+ 
+Fy =
+∑
++ 480 N −T =
+480 N
+9.80 m s2 a
+ 
+ 
+On the child, 
+ 
+Fy
+∑
+= +T −440 N =
+440 N
+9.80 m s2 a
+ 
+ 
+Adding, 
+ 
+ 
++ 480 N −T + T −440 N = 49.0 kg + 44.9 kg
+(
+)a
+a =
+40 N
+93.9 kg = 0.426 m s2 = a
+ 
+ 
+The rope tension is T = 440 N + (44.9 kg)(0.426 m/s
+2) = 459 N.  
+(b) The rope must support Nick and the seat, so the rope tension is 
+480 N. 
+ 
+In problem 81, a rope tension of 250 N does not make the rope 
+break. In part (a), the rope is strong enough to support tension 
+459 N. But now the tension everywhere in the rope is 480 N, 
+so it can exceed the breaking strength of the rope.
+ 
+The tension in the chain supporting the pulley is 480 N + 480 N = 
+960 N, so the chain may break first.
+
+--- PAGE 61 ---
+Chapter 5     257 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.84 
+P5.83 
+(a) 
+See free-body diagrams in ANS. FIG. P5.83. 
+ 
+(b) We write 
+Fx
+∑
+= max for each object. 
+ 
+ 
+ 
+18 N −P = 2 kg
+(
+)a
+P −Q = 3 kg
+(
+)a
+Q = 4 kg
+(
+)a
+ 
+ 
+ 
+Adding gives 
+ 
+ 
+ 
+18 N = 9 kg
+(
+)a →a = 2.00 m s2 
+ 
+(c) 
+The resultant force on any object is ∑
+
+F = ma: All have the same 
+acceleration: 
+ 
+ 
+ 
+
+F
+∑
+= (4 kg)(2 m/s2) = 8.00 N on the 4-kg object
+
+F
+∑
+= (3 kg)(2 m/s2) = 6.00 N on the 3-kg object
+
+F
+∑
+= (2 kg)(2 m/s2) = 2.00 N on the 2-kg object
+ 
+ 
+(d) From above, P = 18 N – (2 kg)a → P = 14.0 N , and Q = (4 kg)a → 
+Q = 8.00 N . 
+ 
+(e) 
+Introducing the heavy block reduces the acceleration because
+the mass of the system (plasterboard-heavy block-you) is greater.
+The 3-kg block models the heavy block of wood. The contact
+force on your back is represented by Q, which is much less than
+the force F. The difference between F and Q is the net force
+causing acceleration of the 5-kg pair of objects.
+ 
+P5.84 
+(a) 
+For the system to start 
+to move when released,  
+the force tending to move  
+m2 down the incline,  
+m2g sin θ, must exceed  
+the maximum friction  
+force which can retard  
+the motion: 
+ 
+ 
+ 
+fmax = f1,max + f2,max = µs,1n1 + µs,2n2
+fmax = µs,1m1g + µs,2m2gcosθ
+ 
+ANS. FIG. P5.83
+
+--- PAGE 62 ---
+258     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.47 
+ 
+ 
+From the table of coefficients of friction in the text, we take  
+µs,1 = 0.610 (aluminum on steel) and µs,2 = 0.530 (copper on steel). 
+With 
+ 
+ 
+ 
+m1 = 2.00 kg, m2 = 6.00 kg, θ = 30.0° 
+ 
+ 
+the maximum friction force is found to be fmax = 38.9 N. This 
+exceeds the force tending to cause the system to move, 
+ 
+m2gsinθ = 6.00 kg 9.80 m s2
+(
+)sin30° = 29.4 N . Hence, 
+ 
+ 
+the system will not start to move when released 
+ 
+(b) and (c) No answer because the blocks do not move. 
+ 
+(d) The friction forces increase in magnitude until the total friction 
+force retarding the motion, f = f1 + f2, equals the force tending to 
+set the system in motion. That is, until 
+ 
+ 
+ 
+f = m2gsinθ = 29.4 N 
+P5.85 
+(a) 
+See ANS. FIG. P5.85 showing the 
+forces. All forces are in the vertical 
+direction. The lifting can be done at 
+constant speed, with zero 
+acceleration and total force zero on 
+each object. 
+ 
+(b) For M, 
+F
+∑
+= 0 = T5 – Mg 
+ 
+ 
+so 
+ 
+T5 = Mg 
+Assume 
+frictionless 
+pulleys. 
+The 
+tension is constant throughout a light, 
+continuous rope. Therefore, T1 = T2 = 
+T3. 
+For the bottom pulley, 
+ 
+ 
+ 
+ 
+F
+∑
+= 0 = T2 +T3 – T5 
+so 
+2T2 = T5. Then T1 = T2 = T3 = Mg
+2
+, T4 = 3Mg
+2
+, and 
+T5 = Mg . 
+ANS. FIG. 5.85
+
+--- PAGE 63 ---
+Chapter 5     259 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.86 
+ 
+(c) 
+Since F = T1, we have F = Mg
+2
+. 
+*P5.86 
+(a) 
+Consider forces on the midpoint of the 
+rope. It is nearly in equilibrium just 
+before the car begins to move. Take the y 
+axis in the direction of the force you exert: 
+ 
+ 
+Fy
+∑
+= may:      −T sinθ + f −T sinθ = 0 
+ 
+ 
+T =
+f
+2sinθ
+ 
+ 
+(b) 
+T = 100 N
+2sin7° =
+410 N 
+*P5.87 
+The acceleration of the system is found 
+from 
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2  
+ 
+since vyi = 0, we obtain 
+ 
+ 
+ 
+a = 2Δy
+t2
+= 2 1.00 m
+(
+)
+1.20 s
+(
+)
+2 = 1.39 m/s2
+  
+ 
+Using the free-body diagram for m2, Newton’s second law gives 
+ 
+ 
+ 
+Fy2 = m2
+∑
+a:
+m2g −T = m2a
+T = m2 g −a
+(
+)
+= 5.00 kg
+(
+) 9.80 m/s2 −1.39 m/s2
+(
+)
+= 42.1 N
+  
+ 
+ 
+Then, applying Newton’s second law to the horizontal motion of m1,  
+ 
+ 
+ 
+Fx1 = m1
+∑
+a:
+T −f = m1a
+f = T −m1a
+= 42.1 N −10.0 kg
+(
+) 1.39 m/s2
+(
+) = 28.2 N
+ 
+r
+r
+r
+ANS. FIG. 5.87
+
+--- PAGE 64 ---
+260     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Since n = m1g = 98.0 N, we have 
+ 
+ 
+ 
+µk = f
+n = 28.2 N
+98.0 N = 0.288
+  
+*P5.88 
+Applying Newton’s second law to 
+each object gives: 
+ 
+ 
+T1 = f1 + 2m gsinθ + a
+(
+) 
+[1] 
+ 
+ 
+T2 −T1 = f2 + m gsinθ + a
+(
+) [2] 
+ 
+ 
+T2 = M g −a
+(
+) 
+[3] 
+ 
+(a), (b) Assuming that the system is 
+in equilibrium (a = 0) and that 
+the incline is frictionless, (f1 = 
+f2 = 0), the equations reduce to 
+ 
+ 
+ 
+T1 = 2mgsinθ
+ 
+[1’] 
+ 
+ 
+ 
+T2 −T1 = mgsinθ 
+[2’] 
+ 
+ 
+ 
+T2 = Mg 
+[3’] 
+ 
+ 
+Substituting [1’] and [3’] into equation [2’] then gives 
+ 
+ 
+ 
+ 
+ 
+M = 3msinθ 
+ 
+ 
+so equation [3’] becomes T2 = 3mgsinθ 
+ 
+(c), (d) M = 6msinθ (double the value found above), and  f1 = f2 = 0. 
+With these conditions present, the equations become 
+T1 = 2m gsinθ + a
+(
+), T2 −T1 = m gsinθ + a
+(
+) and 
+T2 = 6msinθ g −a
+(
+). Solved simultaneously, these yield  
+ 
+ 
+a =
+gsinθ
+1+ 2sinθ
+, T1 = 4mgsinθ
+1+ sinθ
+1+ 2sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ and  
+ 
+ 
+T2 = 6mgsinθ
+1+ sinθ
+1+ 2sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+ANS. FIG. P5.88
+
+--- PAGE 65 ---
+Chapter 5     261 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Equilibrium (a = 0) and impending motion up the incline, so 
+M = Mmax while f1 = 2µsmgcosθ and f2 = µsmgcosθ, both 
+directed down the incline. Under these conditions, the equations 
+become T1 = 2mg sinθ + µs cosθ
+(
+), T2 −T1 = mg sinθ + µs cosθ
+(
+), 
+and T2 = Mmaxg, which yield Mmax = 3m sinθ + µs cosθ
+(
+) . 
+ 
+(f) 
+Equilibrium (a = 0) and impending motion down the incline, so 
+M = Mmin , while f1 = 2µsmgcosθ and f2 = µsmgcosθ, both 
+directed up the incline. Under these conditions, the equations are 
+T1 = 2mg sinθ −µs cosθ
+(
+), T2 −T1 = mg sinθ −µs cosθ
+(
+), and 
+T2 = Mming, which yield Mmin = 3m sinθ −µs cosθ
+(
+) . When this 
+expression gives a negative value, it corresponds physically to a 
+mass M hanging from a cord over a pulley at the bottom end of 
+the incline. 
+ 
+(g) 
+T2,max −T2,min = Mmaxg −Mming = 6µsmgcosθ 
+P5.89 
+(a) 
+The crate is in equilibrium, just before it starts to move. Let the 
+normal force acting on it be n and the friction force, fs. 
+ 
+ 
+Resolving vertically: ∑Fy = may gives 
+ 
+ 
+ 
+n = Fg + Psin θ 
+ 
+ 
+Horizontally, ∑Fx = max gives 
+ 
+ 
+ 
+P cos θ = f 
+ 
+ 
+But, 
+ 
+ 
+ 
+fs ≤µsn 
+ 
+ 
+i.e., 
+ 
+ 
+ 
+Pcosθ ≤µs Fg + Psinθ
+(
+) 
+ 
+ 
+or 
+ 
+ 
+ 
+P cosθ −µs sinθ
+(
+) ≤µsFg 
+ 
+ 
+Divide by cos θ : 
+ 
+ 
+ 
+P 1−µs tanθ
+(
+) ≤µsFg secθ 
+ANS. FIG. P5.89
+
+--- PAGE 66 ---
+262     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then 
+ 
+ 
+ 
+Pminimum =
+µsFg secθ
+1−µs tanθ
+ 
+ 
+(b) 
+To set the crate into motion, the x component (P cosθ) must
+overcome friction fs = µsn:
+P cosθ ≥µsn = µs (Fg + P sin θ)
+P cosθ −µs sin θ
+(
+) ≥µs Fg
+For this condition to be satisfied, it must be true that
+cosθ −µs sin θ
+(
+) > 0 →µs tan θ < 1→tanθ < 1
+µs
+If this condition is not met, no value of P can move the crate.
+ 
+P5.90 
+(a) 
+See table below and graph in ANS. FIG. P5.90(a). 
+t(s) 
+t
+2(s
+2) 
+x(m) 
+0 
+0 
+0 
+1.02 
+1.04 0 
+0.100 
+1.53 
+2.34 1 
+0.200 
+2.01 
+4.04 0 
+0.350 
+2.64 
+6.97 0 
+0.500 
+3.30 
+10.89 
+0.750 
+3.75 
+14.06 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P5.90(a)
+
+--- PAGE 67 ---
+Chapter 5     263 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From x = 1
+2 at2 the slope of a graph of x versus t
+2 is 1
+2 a, and 
+ 
+ 
+ 
+a = 2 × slope = 2 0.071 4 m s2
+(
+) = 0.143 m s2 
+ 
+(c) 
+From ′a = gsinθ, 
+ 
+ 
+ 
+′a = 9.80 m s2 1.77 4
+127.1
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.137 m s2 , different by 4%. 
+ 
+ 
+The difference is accounted for by the uncertainty in the data, 
+which we may estimate from the third point as  
+ 
+ 
+ 
+0.350 −0.071 4
+(
+) 4.04
+(
+)
+0.350
+= 18% 
+ 
+ 
+ 
+Thus the acceleration values agree. 
+P5.91 
+(a) 
+The net force on the cushion is in a fixed direction, downward 
+and forward making angle θ = tan
+−1(F/mg) with the vertical. 
+ 
+ 
+Because the cushion starts from rest, the direction of its line of
+motion will be the same as that of the net force.
+We show the path is a straight line another way. In terms of a
+standard coordinate system, the x and y coordinates of the
+cushion are
+y = h −1
+2 gt2
+x = 1
+2 F/m
+(
+)t2 →t2 = 2m/F
+(
+)x
+Substitution of t2 into the equation for y gives
+y = h −mg/f
+(
+)x
+which is an equation for a straight line.
+ 
+ 
+(b) 
+Because the cushion starts from rest, it will move in the direction
+of the net force which is the direction of its acceleration; therefore,
+it will move with increasing speed and its velocity changes
+in magnitude.
+
+--- PAGE 68 ---
+264     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Since the line of motion is in the direction of the net force, they 
+both make the same angle with the vertical. Refer to Figure P5.91 
+in the textbook: in terms of a right triangle with angle θ, height h, 
+and base x, 
+ 
+ 
+ 
+tan θ = x/h = F/mg →x = hF/mg
+x =
+(8.00 m)(2.40 N)
+(1.20 kg)(9.80 m/s2)
+ 
+ 
+ 
+and the cushion will land a distance  
+ 
+ 
+ x = 1.63 m from the base of the building . 
+ 
+(d) The cushion will move along a tilted parabola. If the cushion were 
+experiencing a constant net force directed vertically downward 
+(as is normal with gravity), and if its initial velocity were down 
+and somewhat to the left, the trajectory would have the shape of a 
+parabola that we would expect for projectile motion. Because the 
+constant net force is “sideways”—at an angle θ counterclockwise 
+from the vertical—the cushion would travel a similar trajectory as 
+described above, but rotated counterclockwise by the angle θ so 
+that the initial velocity is directed downward. See the figures. 
+ 
+ANS. FIG. P5.91(d) 
+P5.92 
+(a) 
+When block 2 moves down 1 cm, block 1 moves 2 cm forward, so 
+block 1 always has twice the speed of block 2, and a1 = 2a2 
+relates the magnitudes of the accelerations. 
+ 
+(b) Let T represent the uniform tension in the cord.  
+ 
+ 
+For block 1 as object, 
+ 
+ 
+ 
+Fx
+∑
+= m1a1:
+T = m1a1 = m1 2a2
+(
+)
+T = 2m1a2
+ 
+[1]
+
+--- PAGE 69 ---
+Chapter 5     265 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For block 2 as object,  
+ 
+ 
+ 
+Fy
+∑
+= m2a2:
+T + T −m2g = m2 −a2
+(
+)
+2T −m2g = −m2a2
+ 
+[2] 
+ 
+ 
+To solve simultaneously we substitute equation [1] into equation 
+[2]: 
+ 
+ 
+ 
+2 2m1a2
+(
+) −m2g = −m2a2 →4m1a2 + m2a2 = m2g
+a2 =
+m2g
+4m1 + m2
+ 
+ 
+ 
+for m2 = 1.30 kg: a2 = 12.7 N (1.30 kg + 4 m1)−1 down 
+ 
+(c) 
+If m1 is very much less than 1.30 kg, a2 approaches  
+ 
+ 
+ 
+12.7 N/1.30 kg = 9.80 m/s2 down 
+ 
+(d) If m1 approaches infinity, a2 approaches zero . 
+ 
+(e) 
+From equation (2) above, 2T = m2g + m2a2 = 12.74 N + 0, 
+T = 6.37 N 
+ 
+(f) 
+Yes. As m1 approaches zero, block 2 is essentially in free fall. As
+m2 becomes negligible compared to m1, m2 has very little weight,
+so the system is nearly in equilibrium.
+ 
+P5.93 
+We will use 
+F
+∑
+= ma on 
+each object, so we draw 
+force diagrams for the  
+M + m1 + m2 system, and 
+also for blocks m1 and m2. 
+Remembering that 
+normal forces are always 
+perpendicular to the 
+contacting surface, and 
+always push on a body, 
+draw n1 and n2 as shown. 
+Note that m1 is in contact with the cart, and therefore feels a normal 
+force exerted by the cart. Remembering that ropes always pull on 
+ANS. FIG. P5.93
+
+--- PAGE 70 ---
+266     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+bodies toward the center of the rope, draw the tension force 
+
+T. Finally, 
+draw the gravitational force on each block, which always points 
+downwards. 
+ 
+Applying 
+F
+∑
+= ma, 
+ 
+For m1:  
+ 
+T –m1g = 0 
+ 
+For m2:  
+ 
+T = m2a 
+ 
+Eliminating T, 
+ 
+ 
+ 
+ 
+a = m1g
+m2
+ 
+ 
+For all three blocks: 
+ 
+ 
+ 
+ 
+F = M + m1 + m2
+(
+) m1g
+m2
+ 
+P5.94 
+(a) 
+Fy
+∑
+= may: 
+ 
+ 
+n −mgcosθ = 0 
+ 
+ 
+or n = 8.40 kg
+(
+) 9.80 m/s2
+(
+)cosθ
+n = 82.3 N
+(
+)cosθ
+ 
+ 
+(b) 
+Fx
+∑
+= max: 
+ 
+ 
+mgsinθ = ma 
+ 
+ 
+or 
+ 
+ 
+a = gsinθ
+a = 9.80 m s2
+(
+)sinθ 
+ANS. FIG. P5.94
+
+--- PAGE 71 ---
+Chapter 5     267 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+ 
+θ, deg 
+n, N 
+a, m/s
+2 
+0.00 
+82.3 
+0.00 
+5.00 
+82.0 
+0.854 
+10.0 
+81.1 
+1.70 
+15.0 
+79.5 
+2.54 
+20.0 
+77.4 
+3.35 
+25.0 
+74.6 
+4.14 
+30.0 
+71.3 
+4.90 
+35.0 
+67.4 
+5.62 
+40.0 
+63.1 
+6.30 
+45.0 
+58.2 
+6.93 
+50.0 
+52.9 
+7.51 
+55.0 
+47.2 
+8.03 
+60.0 
+41.2 
+8.49 
+65.0 
+34.8 
+8.88 
+70.0 
+28.2 
+9.21 
+75.0 
+21.3 
+9.47 
+80.0 
+14.3 
+9.65 
+85.0 
+7.17 
+9.76 
+90.0 
+0.00 
+9.80 
+ 
+ 
+(d) 
+At 0°, the normal force is the full weight and the acceleration is
+zero. At 90°, the mass is in free fall next to the vertical incline.
+
+--- PAGE 72 ---
+268     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.95 
+P5.95 
+Refer to the free-body diagram in ANS. FIG. 
+P5.95. Choose the x axis pointing down the 
+slope so that the string makes the angle θ with 
+the vertical. The acceleration is obtained from  
+vf = vi + at: 
+ 
+ 
+a = (v f – vi)/t = (30.0 m/s2 – 0)/6.00 s
+a = 5.00 m/s2
+ 
+Because the string stays perpendicular to the  
+ceiling, we know that the toy moves with the  
+same acceleration as the van, 5.00 m/s
+2 parallel  
+to the hill. We take the x axis in this direction, so 
+ 
+ax = 5.00 m/s2
+and
+ay = 0 
+The only forces on the toy are the string tension in the y direction and 
+the planet’s gravitational force, as shown in the force diagram. The size 
+of the latter is mg = (0.100 kg)(9.80 m/s
+2) = 0.980 N 
+(a) 
+Using 
+Fx
+∑
+= max gives (0.980 N) sinθ = (0.100 kg)(5.00 m/s
+2) 
+ 
+Then sinθ = 0.510 and θ = 30.7° 
+(b) Using 
+Fy
+∑
+= may gives +T − (0.980 N) cosθ = 0 
+ 
+T = (0.980 N) cos 30.7° = 0.843 N 
+ 
+ 
+ 
+Challenge Problems 
+P5.96 
+
+F
+∑
+= ma gives the object’s acceleration: 
+ 
+ 
+ 
+a =
+
+F
+∑
+m =
+8.00ˆi −4.00tˆj
+(
+) N
+2.00 kg
+a = 4.00 m s2
+(
+)ˆi −2.00 m s3
+(
+)tˆj = dv
+dt
+
+--- PAGE 73 ---
+Chapter 5     269 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+To arrive at an equation for the instantaneous velocity of object, 
+we must integrate the above equation. 
+ 
+ 
+ 
+dv = 4.00 m s2
+(
+)dtˆi −2.00 m s3
+(
+)tdtˆj
+dv
+∫
+=
+4.00 m s2
+(
+)dtˆi
+∫
+−
+2.00 m s3
+(
+)tdtˆj
+∫
+v =
+4.00 m s2
+(
+)t + c1
+⎡⎣
+⎤⎦ˆi −
+1.00 m s3
+(
+)t2 + c2
+⎡⎣
+⎤⎦ˆj
+ 
+ 
+ 
+In order to evaluate the constants of integration, we observe that 
+the object is at rest when t = 0 s. 
+ 
+ 
+ 
+v t = 0
+(
+) = 0 =
+4.00 m s2
+(
+)0 + c1
+⎡⎣
+⎤⎦ˆi −
+1.00 m s3
+(
+)02 + c2
+⎡⎣
+⎤⎦ˆj 
+ 
+ 
+or 
+c1 = c2 = 0 
+ 
+ 
+and 
+ 
+ 
+ 
+v =
+4.00 m s2
+(
+)t
+⎡⎣
+⎤⎦ˆi −
+1.00 m s3
+(
+)t2
+⎡⎣
+⎤⎦ˆj 
+ 
+ 
+Thus, when v = 15.0 m/s, 
+ 
+ 
+ 
+v = 15.0 m s =
+4.00 m s2
+(
+)t
+⎡⎣
+⎤⎦
+2 +
+1.00 m s3
+(
+)t2
+⎡⎣
+⎤⎦
+2
+15.0 m s =
+16.0 m2 s4
+(
+)t2
+⎡⎣
+⎤⎦+
+1.00 m2 s6
+(
+)t4
+⎡⎣
+⎤⎦
+225 m2 s2 =
+16.0 m2 s4
+(
+)t2
+⎡⎣
+⎤⎦+
+1.00 m2 s6
+(
+)t4
+⎡⎣
+⎤⎦
+0 = 1.00 m2 s6
+(
+)t4 + 16.0 m2 s4
+(
+)t2 −225 m2 s2
+ 
+ 
+ 
+We now need a solution to the above equation, in order to find t. 
+The equation can be factored as, 
+ 
+ 
+ 
+0 = t2 −9
+(
+) t2 + 25
+(
+) 
+ 
+ 
+The solution for t, here, comes from the first factor: 
+ 
+ 
+ 
+t2 −9.00 = 0
+t = ±3.00 s = 3.00 s
+
+--- PAGE 74 ---
+270     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) In order to find the object’s position at this time, we need to 
+integrate the velocity equation, using the assumption that the 
+objects starts at the origin (the constants of integration will again 
+be equal to 0, as before). 
+ 
+ 
+ 
+dr = 4.00 m s2
+(
+)tdtˆi −1.00 m s3
+(
+)t2dtˆj
+dr
+∫
+=
+4.00 m s2
+(
+)tdtˆi
+∫
+−
+1.00 m s3
+(
+)t2 dtˆj
+∫
+r =
+2.00 m s2
+(
+)t2
+⎡⎣
+⎤⎦ˆi −
+0.333 m s3
+(
+)t3
+⎡⎣
+⎤⎦ˆj
+ 
+ 
+ 
+Now, using the time above and finding the magnitude of this 
+displacement vector, 
+ 
+ 
+ 
+r =
+2.00 m s2
+(
+) 3.00 s
+(
+)
+2
+⎡⎣
+⎤⎦
+2 +
+0.333 m s3
+(
+) 3.00 s
+(
+)
+3
+⎡⎣
+⎤⎦
+2
+r = 20.1 m
+ 
+ 
+(c) 
+Using the displacement vector found in part (b), 
+ 
+ 
+ 
+r =
+2.00 m s2
+(
+)t2
+⎡⎣
+⎤⎦ˆi −
+0.333 m s3
+(
+)t3
+⎡⎣
+⎤⎦ˆj
+r =
+2.00 m s2
+(
+) 3.00 s
+(
+)
+2
+⎡⎣
+⎤⎦ˆi −
+0.333 m s3
+(
+) 3.00 s
+(
+)
+3
+⎡⎣
+⎤⎦ˆj
+r = 18.0 m
+(
+)ˆi −9.00 m
+(
+)ˆj
+ 
+P5.97 
+Since the board is in equilibrium, ∑Fx = 0 and we see that the normal 
+forces must be the same on both sides of the board. Also, if the 
+minimum normal forces (compression forces) are being applied, the 
+board is on the verge of slipping and the friction force on each side is  
+ 
+ 
+ 
+f =
+fs
+( )max = µsn 
+ 
+ANS. FIG. P5.97
+
+--- PAGE 75 ---
+Chapter 5     271 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The board is also in equilibrium in the vertical direction, so 
+ 
+ 
+ 
+Fy
+∑
+= 2 f −Fg = 0 , or f =
+Fg
+2
+ 
+ 
+The minimum compression force needed is then 
+ 
+ 
+ 
+n = f
+µs
+=
+Fg
+2µs
+= 95.5 N
+2 0.663
+(
+)
+= 72.0 N 
+*P5.98 
+We apply Newton’s second law to each of the three 
+masses, reading the forces from ANS. FIG. P5.98:
+ 
+m2 a −A
+(
+) = T ⇒
+a = T
+m2
++ A 
+[1] 
+ 
+ 
+MA = Rx = T ⇒
+A = T
+M
+ 
+[2] 
+ 
+ 
+m1a = m1g −T ⇒
+T = m1 g −a
+(
+) 
+[3] 
+ 
+(a) 
+Substitute the value for a from [1] into [3] and solve for T: 
+ 
+T = m1 g −
+T
+m2
++ A
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+Substitute for A from [2]: 
+ 
+T = m1 g −
+T
+m2
++ T
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥⇒T = m2g
+m1M
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+(b) Solve [3] for a and substitute value of T: 
+ 
+ 
+a = g −T
+m1
+= g −m2g
+M
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= g 1−
+m2M
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+=
+gm1 m2 + M
+(
+)
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+  
+r
+r
+r
+r
+r
+r
+ANS. FIG. P5.98 
+m2
+ 
+m1
+
+--- PAGE 76 ---
+272     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(c) 
+From [2], A = T
+M . Substitute the value of T: 
+ 
+ 
+A = T
+M =
+m1m2g
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+(d) The acceleration of m1 is given by 
+ 
+ 
+a −A =
+m1Mg
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+P5.99 
+(a) 
+The cord makes angle θ with the horizontal where  
+ 
+ 
+ 
+θ = tan−1 0.100 m
+0.400 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 14.0°
+ 
+ 
+ 
+Applying Newton’s second law in the y direction gives 
+ 
+ 
+ 
+Fy
+∑
+= may:
+T sinθ −mg + n = 0
++10 N
+(
+)sin14.0° −2.20 kg
+(
+) 9.80 m/s2
+(
+)+ n = 0
+  
+ 
+ 
+which gives n = 19.1 N. Applying Newton’s second law in the x 
+direction then gives 
+ 
+ 
+ 
+Fx
+∑
+= max:
+T cosθ −fk = ma
+T cosθ −µkn = ma
++10 N
+(
+)cos14.0° −0.400 19.1 N
+(
+) = 2.20 kg
+(
+) a
+  
+ 
+ 
+which gives 
+ 
+ 
+ 
+a = 0.931 m/s2
+
+--- PAGE 77 ---
+Chapter 5     273 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+When xis large we have n = 21.6 N, fk = 8.62 N, and 
+a = (10 N – 8.62 N)/2.2 kg = 0.625 m/s2.
+As x decreases, the acceleration increases gradually, passes
+through a maximum, and then drops more rapidly, becoming
+negative. At x = 0 it reaches the value a = [0 −0.4(21.6 N −10 N)]/
+2.2 kg = −2.10 m/s2.
+ 
+ 
+(c) 
+We carry through the same calculations as in part (a) for a 
+variable angle, for which cosθ = x[x
+2 + (0.100 m)
+2]
+−1/2 and  
+sinθ = (0.100 m)[x
+2 + (0.100 m)
+2]
+−1/2. We find 
+ 
+ 
+ 
+a =
+1
+2.20 kg
+⎛
+⎝⎜
+⎞
+⎠⎟10 N
+(
+)x x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2
+                     −0.400 21.6 N −10 N
+(
+) 0.100
+(
+) x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2
+(
+)
+a = 4.55x x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2 −3.92 + 0.182 x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2
+ 
+ 
+ 
+Now to maximize a we take its derivative with respect to x and 
+set it equal to zero: 
+ 
+ 
+ 
+da
+dx = 4.55 x2 + 0.1002
+(
+)
+−1/2 + 4.55x −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2x x2 + 0.1002
+(
+)
+−3/2
+                                             + 0.182 −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2x x2 + 0.1002
+(
+)
+−3/2 = 0
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+4.55 x2 + 0.12
+(
+)−4.55x2 −0.182x = 0     
+ 
+ 
+or 
+x = 0.250 m 
+ 
+ 
+At this point, suppressing units, 
+ 
+ 
+ 
+a = 4.55
+(
+) 0.250
+(
+) 0.2502 + 0.1002
+⎡⎣
+⎤⎦
+−1/2 −3.92
+                                       + 0.182 0.2502 + 0.1002
+⎡⎣
+⎤⎦
+−1/2
+= 0.976 m/s2
+
+--- PAGE 78 ---
+274     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.100 
+ 
+(d) We solve, suppressing units, 
+ 
+ 
+ 
+0 = 4.55x x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2 −3.92 + 0.182 x2 + 0.1002
+⎡⎣
+⎤⎦
+−1/2
+3.92 x2 + 0.1002
+⎡⎣
+⎤⎦
+1/2 = 4.55x + 0.182
+15.4 x2 + 0.1002
+⎡⎣
+⎤⎦= 20.7x2 + 1.65x + 0.033 1
+ 
+ 
+ 
+which gives the quadratic equation 
+ 
+ 
+ 
+5.29x2 + 1.65x −0.121 = 0 
+ 
+ 
+Only the positive root is directly meaningful, so 
+ 
+ 
+ 
+x = 0.0610 m 
+P5.100 
+The force diagram is shown on the right. With motion impending,  
+ 
+ 
+n + T sinθ −mg = 0
+f = µs mg −T sinθ
+(
+)
+ 
+ 
+and 
+ 
+ 
+T cosθ −µsmg + µsT sinθ = 0 
+ 
+so 
+T =
+µsmg
+cosθ + µs sinθ 
+ 
+To minimize T, we maximize cosθ + µs sinθ: 
+ 
+ 
+d
+dθ cosθ + µs sinθ
+(
+) = 0 = −sinθ + µs cosθ 
+ 
+Therefore, the angle where tension T is a minimum is  
+ 
+ 
+θ = tan−1 µs
+(
+) = tan−1 0.350
+(
+) = 19.3° 
+ 
+What is the tension at this angle? From above, 
+ 
+ 
+T = 0.350 1.30 kg
+(
+) 9.80 m/s2
+(
+)
+cos19.3° + 0.350sin19.3°
+= 4.21 N
+ 
+ 
+The situation is impossible because at the angle of minimum tension,
+the tension exceeds 4.00 N.
+
+--- PAGE 79 ---
+Chapter 5     275 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.101 
+(a) 
+Following the in-chapter example about a block on a frictionless 
+incline, we have 
+ 
+ 
+ 
+a = gsinθ = 9.80 m s2
+(
+)sin30.0° 
+ 
+ 
+ 
+a = 4.90 m s2 
+ 
+(b) The block slides distance x on the incline, with 
+sin30.0° = 0.500 m
+x
+. 
+ 
+ 
+ 
+x = 1.00 m: v f
+2 = vi
+2 + 2a x f −xi
+(
+) = 0 + 2 4.90 m s2
+(
+) 1.00 m
+(
+) 
+ 
+ 
+ 
+v f = 3.13 m s after time ts =
+2x f
+v f
+= 2 1.00 m
+(
+)
+3.13 m s = 0.639 s 
+ 
+(c) 
+To calculate the horizontal range of the block, we need to first 
+determine the time interval during which it is in free fall.  We use 
+y f −yi = vyit + 1
+2 ayt2, and substitute, noting that  
+vyi = (–3.13 m/s) sin 30.0°. 
+ 
+ 
+ 
+−2.00 = −3.13 m s
+(
+)sin30.0°t −1
+2 9.80 m s2
+(
+)t2
+4.90 m s2
+(
+)t2 + 1.56 m s
+(
+)t −2.00 m = 0
+ 
+ 
+ 
+ 
+Solving for t gives 
+ 
+ 
+t =
+−1.56 m s ±
+1.56 m s
+(
+)
+2 −4 4.90 m s2
+(
+) −2.00 m
+(
+)
+9.80 m s2
+ 
+ 
+ 
+Only the positive root is physical, with t = 0.499 s. The horizontal 
+range of the block is then 
+ 
+ 
+ 
+x f = vxt =
+3.13 m s
+(
+)cos30.0°
+⎡⎣
+⎤⎦0.499 s
+(
+) = 1.35 m 
+ 
+(d) The total time from release to impact is then  
+ 
+ 
+ 
+total time = ts + t = 0.639 s + 0.499 s = 1.14 s
+
+--- PAGE 80 ---
+276     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.102 
+ 
+(e) 
+The mass of the block makes no difference , as acceleration due to 
+gravity, whether an object is in free fall or on a frictionless incline, 
+is independent of the mass of the object.  
+P5.102 
+Throughout its up and down motion after release the block has 
+ 
+Fy
+∑
+= may:
++n −mgcosθ = 0
+n = mgcosθ
+ 
+ 
+Let 
+
+R = Rxˆi + Ryˆj represent the force of table  
+on incline. We have 
+ 
+Fx
+∑
+= max:
++Rx −nsinθ = 0
+Rx = mgcosθ sinθ
+Fy
+∑
+= may:
+−Mg −ncosθ + Ry = 0
+Ry = Mg + mgcos2θ
+ 
+
+R = mgcosθ sinθ  to the right + M + mcos2θ
+(
+)g upward 
+*P5.103 
+(a) 
+First, draw a free-body diagram of the 
+top block (top panel in ANS. FIG. 
+P5.103). Since ay = 0, n1 = 19.6 N, and  
+ 
+ 
+ 
+fk = µkn1 = 0.300 19.6 N
+(
+)
+= 5.88 N
+ 
+ 
+ 
+From 
+Fx
+∑
+= maT , 
+ 
+ 
+ 
+10.0 N −5.88 N = 2.00 kg
+(
+)aT 
+ 
+ 
+or aT = 2.06 m/s2 (for top block). Now 
+draw a free-body diagram (middle 
+figure) of the bottom block and 
+observe that 
+Fx
+∑
+= MaB gives 
+f = 5.88 N = 8.00 kg
+(
+)aB or 
+aB = 0.735 m/s2 (for the bottom 
+block). In time t, the distance each 
+block moves (starting from rest) is 
+r
+r
+r
+r
+r
+r
+r
+ANS. FIG. P5.103
+
+--- PAGE 81 ---
+Chapter 5     277 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P5.104 
+dT = 1
+2 aTt2 and dB = 1
+2 aBt2. For the top block to reach the right 
+edge of the bottom block (see bottom figure), it is necessary that 
+dT = dB + L or  
+ 
+ 
+ 
+1
+2 2.06 m/s2
+(
+)t2 = 1
+2 0.735 m/s2
+(
+)t2 + 3.00 m 
+ 
+ 
+which gives t = 2.13 s . 
+ 
+(b) From above, dB = 1
+2 0.735 m s2
+(
+) 2.13 s
+(
+)2 = 1.67 m . 
+P5.104 
+(a) 
+Apply Newton’s second law  
+to two points where butter- 
+flies are attached on either  
+half of mobile (the other half  
+is the same, by symmetry). 
+ 
+ 
+T2 cosθ2 −T1 cosθ1 = 0 
+[1] 
+ 
+ 
+T1 sinθ1 −T2 sinθ2 −mg = 0 [2] 
+ 
+ 
+T2 cosθ2 −T3 = 0 
+[3] 
+ 
+ 
+T2 sinθ2 −mg = 0 
+[4] 
+ 
+ 
+Substituting [4] into [2] for T2 sinθ2 , 
+ 
+ 
+ 
+T1 sinθ1 −mg −mg = 0 
+ 
+ 
+Then 
+ 
+ 
+ 
+T1 = 2mg
+sinθ1
+ 
+ 
+ 
+Substitute [3] into [1] for T2 cosθ2: 
+T3 −T1 cosθ1 = 0, T3 = T1 cosθ1 
+ 
+ 
+Substitute value of T1: 
+ 
+ 
+ 
+T3 = 2mg cosθ1
+sinθ1
+=
+2mg
+tanθ1
+= T3
+
+--- PAGE 82 ---
+278     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From equation [4], 
+ 
+ 
+ 
+T2 =
+mg
+sinθ2
+ 
+ 
+(b) Divide [4] by [3]: 
+ 
+ 
+ 
+T2 sinθ2
+T2 cosθ2
+= mg
+T3
+ 
+ 
+ 
+Substitute value of T3: 
+tanθ2 = mgtanθ1
+2mg
+, θ2 = tan−1 tanθ1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Then we can finish answering part (a): 
+ 
+ 
+ 
+T2 =
+mg
+sin tan−1
+1
+2 tanθ1
+(
+)
+⎡⎣
+⎤⎦
+ 
+ 
+(c) 
+D is the horizontal distance between the points at which the two 
+ends of the string are attached to the ceiling. 
+ 
+ 
+ 
+D = 2cosθ1 + 2cosθ2 +  and L = 5
+D = L
+5 2cosθ1 + 2cos tan−1 1
+2 tanθ1
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+
+--- PAGE 83 ---
+Chapter 5     279 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P5.2 
+2.38 kN 
+P5.4 
+8.71 N 
+P5.6 
+(a) –4.47 × 10
+15 m/s
+2; (b) +2.09 × 10
+–10 N 
+P5.8 
+(a) zero; (b) zero 
+P5.10 
+(a) 1
+2 vt ; (b) magnitude: m
+v/t
+(
+)
+2 + g2 , direction: tan−1
+gt
+v
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P5.12 
+16.3ˆi + 14.6ˆj
+(
+) N 
+P5.14 
+(a–c) See free-body diagrams and corresponding forces in P5.14. 
+P5.16 
+1.59 m/s
+2 at 65.2° N of E 
+P5.18 
+(a) 1
+3
+; (b) 0.750 m/s
+2 
+P5.20 
+(a) ~10
+−22 m/s
+2; (b) ∆x ~ 10
+–23 m 
+P5.22 
+(a) ˆa is at 181°; (b) 11.2 kg; (c) 37.5 m/s; (d) −37.5ˆi −0.893ˆj
+(
+) m/s 
+P5.24 
+
+F
+∑
+= −kmv 
+P5.26 
+(a) See ANS. FIG. P5.26; (b) 1.03 N; (c) 0.805 N to the right 
+P5.28 
+(a) 49.0 N; (b) 49.0 N; (c) 98.0 N; (d) 24.5 N 
+P5.30 
+(a) See ANS. FIG. P5.30(a); (b) –2.54 m/s2; (c) 3.19 m/s 
+P5.32 
+112 N 
+P5.34 
+See P5.33 for complete derivation. 
+P5.36 
+(a) T1 = 31.5 N, T2 = 37.5 N, T3 = 49.0 N; (b) T1 = 113 N, T2 = 56.6 N,  
+T3 = 98.0 N 
+P5.38 
+(a) 78.4 N; (b) 105 N 
+P5.40 
+a = 6.30 m/s
+2 and T = 31.5 N
+
+--- PAGE 84 ---
+280     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.42 
+(a) See ANS FIG P5.42; (b) 3.57 m/s
+2; (c) 26.7 N; (d) 7.14 m/s 
+P5.44 
+(a) 2m(g + a); (b) T1 = 2T2, so the upper string breaks first; (c) 0, 0 
+P5.46 
+(a) a2 = 2a1; (b) T2 =
+m1m2
+2m2 + 1
+2 m1
+g and T2 =
+m1m2
+m2 + 1
+4 m1
+g ; (c) 
+m1g
+2m2 + 1
+2 m1
+ 
+and 
+m1g
+4m2 + m1
+ 
+P5.48 
+B = 3.37 × 103 N , A = 3.83 × 103 N , B is in tension and A is in 
+compression. 
+P5.50 
+(a) 0.529 m below its initial level; (b) 7.40 m/s upward 
+P5.52 
+(a) 14.7 m; (b) neither mass is necessary 
+P5.54 
+(a) 256 m; (b) 42.7 m 
+P5.56 
+The situation is impossible because maximum static friction cannot 
+provide the acceleration necessary to keep the book stationary on the 
+seat. 
+P5.58 
+(a) 4.18; (b) Time would increase, as the wheels would skid and only 
+kinetic friction would act; or perhaps the car would flip over. 
+P5.60 
+(a) See ANS. FIG. P5.60; (b) θ = 55.2°; (c) n = 167 N 
+P5.62 
+(a) 0.404; (b) 45.8 lb 
+P5.64 
+(a) See ANS. FIG. P5.64; (b) 2.31 m/s
+2, down for m1, left for m2, and up 
+for m3; (c) T12 = 30.0 N and T23 = 24.2 N; (d) T12 decreases and T23 
+increases 
+P5.66 
+(a) 48.6 N, 31. 7 N; (b) If P > 48.6 N, the block slides up the wall. If  
+P < 31.7 N, the block slides down the wall; (c) 62.7 N, P > 62.7 N, the 
+block cannot slide up the wall. If P < 62.7 N, the block slides down the 
+wall 
+P5.68 
+834 N 
+P5.70 
+(a) See P5.70 for complete solution; (b) 9.80 N, 0.580 m/s2 
+P5.72 
+(a) 3.43 m/s
+2 toward the scrap iron; (b) 3.43 m/s
+2 toward the scrap 
+iron; (c) −6.86 m/s
+2 toward the magnet
+
+--- PAGE 85 ---
+Chapter 5     281 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.74 
+The situation is impossible because these forces on the book cannot 
+produce the acceleration described. 
+P4.76 
+(a) and (b) See P5.76 for complete derivation; (c) 3.56 N 
+P5.78 
+(a) See ANS. FIG. P5.78(a); (b) a =
+F
+mb + mr
+; (c) T =
+mb
+mb + mr
+⎛
+⎝⎜
+⎞
+⎠⎟F ; (d) the 
+tension in a cord of  negligible mass is constant along its length 
+P5.80 
+(a) At any instant they have the same velocity and at all instants they 
+have the same acceleration; (b) 1.61 × 10
+4 N; (c) 2.95 × 10
+4 N 
+P5.82 
+(a) Nick and the seat, with total weight 480 N, will accelerate down 
+and the child, with smaller weight 440 N, will accelerate up; (b) In 
+P5.81, a rope tension of 250 N does not make the rope break. In part 
+(a), the rope is strong enough to support tension 459 N. But now the 
+tension everywhere in the rope is 480 N, so it can exceed the breaking 
+strength of the rope. 
+P5.84 
+(a) The system will not start to move when released; (b and c) no 
+answer; (d) f = m2gsinθ = 29.4 N 
+P5.86 
+(a) T =
+f
+2sinθ ; (b) 410 N 
+P5.88 
+(a) M = 3msinθ; (b) T1 = 2mgsinθ, T2 = 3mgsinθ; (c) a =
+gsinθ
+1+ 2sinθ ;  
+(d) T1 = 4mgsinθ
+1+ sinθ
+1+ 2sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟, T2 = 6mgsinθ
+1+ sinθ
+1+ 2sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟;  
+(e) Mmax = 3m sinθ + µs cosθ
+(
+); (f) Mmin = 3m sinθ −µs cosθ
+(
+);  
+(g) T2,max −T2,min = Mmaxg −Mming = 6µsmgcosθ 
+P5.90 
+See table in P5.90 and ANS. FIG P5.90; (b) 0.143 m/s
+2; (c) The 
+acceleration values agree. 
+P5.92 
+(a) a1 = 2a2; (b) a2 = 12.7 N (1.30 kg + 4m1)
+–1 down; (c) 9.80 m/s
+2 down; 
+(d) a2 approaches zero; (e) T = 6.37 N; (f) yes 
+P5.94 
+(a) n = (8.23 N) cos θ; (b) a = (9.80 m/s
+2) sin θ; (c) See ANS. FIG P5.94;  
+(d) At 0˚, the normal force is the full weight, and the acceleration is 
+zero. At 90˚ the mass is in free fall next to the vertical incline. 
+P5.96 
+(a) 3.00 s; (b) 20.1 m; (c) 18.0m
+(
+)ˆi −9.00m
+(
+)ˆj
+
+--- PAGE 86 ---
+282     The Laws of Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P5.98 
+(a) m2g
+m1M
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥; (b) 
+gm1 m2 + M
+(
+)
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥;  
+(c) 
+m1m2g
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥; (d) 
+m1Mg
+m2M + m1 m2 + M
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+P5.100 
+The situation is impossible because at the angle of minimum tension, 
+the tension exceeds 4.00 N 
+P5.102 
+
+R = mgcosθ sinθ to the right + M + mcos2θ
+(
+)g upward 
+P5.104 
+(a) T1 = 2mg
+sinθ1
+, 2mg
+tanθ1
+= T3 ; (b) θ2 = tan−1 tanθ1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+T2 = −
+mg
+sin tan−1
+1
+2 tanθ1
+(
+)
+⎡⎣
+⎤⎦
+; (c) See P5.104 for complete explanation.

@@ -1,0 +1,5326 @@
+
+--- PAGE 1 ---
+283 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+6 
+Circular Motion and Other 
+Applications of Newton’s Laws 
+ 
+CHAPTER OUTLINE 
+ 
+6.1 
+Extending the Particle in Uniform Circular Motion Model 
+6.2 
+Nonuniform Circular Motion 
+6.3 
+Motion in Accelerated Frames 
+6.4 
+Motion in the Presence of Velocity-Dependent Resistive Forces 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ6.1 
+(a) A > C = D > B = E = 0. At constant speed, centripetal acceleration is 
+largest when radius is smallest. A straight path has infinite radius of 
+curvature. (b) Velocity is north at A, west at B, and south at C. (c) 
+Acceleration is west at A, nonexistent at B, east at C, to be radially 
+inward. 
+OQ6.2 
+Answer (a). Her speed increases, until she reaches terminal speed. 
+OQ6.3 
+(a) Yes. Its path is an arc of a circle; the direction of its velocity is 
+changing. (b) No. Its speed is not changing. 
+OQ6.4 
+(a) Yes, point C. Total acceleration here is centripetal acceleration, 
+straight up. (b) Yes, point A. The speed at A is zero where the bob is 
+reversing direction. Total acceleration here is tangential acceleration, to 
+the right and downward perpendicular to the cord. (c) No. (d) Yes, 
+point B. Total acceleration here is to the right and either downwards or 
+upwards depending on whether the magnitude of the centripetal 
+acceleration is smaller or larger than the magnitude of the tangential 
+acceleration.
+
+--- PAGE 2 ---
+284     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ6.5 
+Answer (b). The magnitude of acceleration decreases as the speed 
+increases because the air resistance force increases, counterbalancing 
+more and more of the gravitational force. 
+OQ6.6 
+(a) No. When v = 0, v
+2/r = 0. 
+ 
+(b) Yes. Its speed is changing because it is reversing direction.  
+OQ6.7 
+(i) Answer (c). The iPod shifts backward relative to the student’s hand. 
+The cord then pulls the iPod upward and forward, to make it gain 
+speed horizontally forward along with the airplane. (ii) Answer (b). 
+The angle stays constant while the plane has constant acceleration. 
+This experiment is described in the book Science from your Airplane 
+Window by Elizabeth Wood. 
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ6.1 
+(a) Friction, either static or kinetic, exerted by the roadway where it 
+meets the rubber tires accelerates the car forward and then maintains 
+its speed by counterbalancing resistance forces. Most of the time static 
+friction is at work. But even kinetic friction (racers starting) will still 
+move the car forward, although not as efficiently. (b) The air around 
+the propeller pushes forward on its blades. Evidence is that the 
+propeller blade pushes the air toward the back of the plane. (c) The 
+water pushes the blade of the oar toward the bow. Evidence is that the 
+blade of the oar pushes the water toward the stern. 
+CQ6.2 
+The drag force is proportional to the speed squared and to the effective 
+area of the falling object. At terminal velocity, the drag and gravity 
+forces are in balance. When the parachute opens, its effective area 
+increases greatly, causing the drag force to increase greatly. Because 
+the drag and gravity forces are no longer in balance, the greater drag 
+force causes the speed to decrease, causing the drag force to decrease 
+until it and the force of gravity are in balance again. 
+CQ6.3 
+The speed changes. The tangential force component causes tangential 
+acceleration. 
+CQ6.4 
+(a) The object will move in a circle at a constant speed.  
+ 
+(b) The object will move in a straight line at a changing speed. 
+CQ6.5 
+The person in the elevator is in an accelerating reference frame. The 
+apparent acceleration due to gravity, “g,” is changed inside the 
+elevator. “g” = g ± a 
+CQ6.6 
+I would not accept that statement for two reasons. First, to be “beyond 
+the pull of gravity,” one would have to be infinitely far away from all
+
+--- PAGE 3 ---
+Chapter 6     285 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+other matter. Second, astronauts in orbit are moving in a circular path. 
+It is the gravitational pull of Earth on the astronauts that keeps them in 
+orbit. In the space shuttle, just above the atmosphere, gravity is only 
+slightly weaker than at the Earth’s surface. Gravity does its job most 
+clearly on an orbiting spacecraft, because the craft feels no other forces 
+and is in free fall. 
+CQ6.7 
+This is the same principle as the centrifuge. All the material inside the 
+cylinder tends to move along a straight-line path, but the walls of the 
+cylinder exert an inward force to keep everything moving around in a 
+circular path. 
+CQ6.8 
+(a) The larger drop has higher terminal speed. In the case of spheres, 
+the text demonstrates that terminal speed is proportional to the square 
+root of radius. (b) When moving with terminal speed, an object is in 
+equilibrium and has zero acceleration. 
+CQ6.9 
+Blood pressure cannot supply the force necessary both to balance the 
+gravitational force and to provide the centripetal acceleration to keep 
+blood flowing up to the pilot’s brain. 
+CQ6.10 
+The water has inertia. The water tends to move along a straight line, 
+but the bucket pulls it in and around in a circle. 
+CQ6.11 
+The current consensus is that the laws of physics are probabilistic in 
+nature on the fundamental level. For example, the Uncertainty 
+Principle (to be discussed later) states that the position and velocity 
+(actually, momentum) of any particle cannot both be known exactly, so 
+the resulting predictions cannot be exact. For another example, the 
+moment of the decay of any given radioactive atomic nucleus cannot 
+be predicted, only the average rate of decay of a large number of nuclei 
+can be predicted—in this sense, quantum mechanics implies that the 
+future is indeterminate. How the laws of physics are related to our 
+sense of free will is open to debate.
+
+--- PAGE 4 ---
+286     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 6.1 
+Extending the Particle in 
+Uniform Circular Motion Model	  
+P6.1 
+We are given m = 3.00 kg, r = 0.800 m. The string will break if the 
+tension exceeds the weight corresponding to 25.0 kg, so 
+ 
+ 
+Tmax = Mg = (25.0 kg)(9.80 m/s2) = 245 N 
+ 
+When the 3.00-kg mass rotates in a horizontal circle, the tension causes 
+the centripetal acceleration, 
+ 
+so  
+T = mv2
+r
+ 
+ 
+Then 
+ 
+ 
+v2 = rT
+m = 0.800 m
+(
+)T
+3.00 kg
+≤0.800 m
+(
+)Tmax
+3.00 kg
+= 0.800 m
+(
+) 245 N
+(
+)
+3.00 kg
+= 65.3 m2/s2
+ 
+ 
+This represents the maximum value of v2, or  
+ 
+ 
+0 ≤v ≤
+65.3 m/s 
+ 
+which gives 
+ 
+ 
+0 ≤v ≤8.08 m s 
+P6.2 
+(a) 
+The astronaut’s orbital speed is found from Newton’s second law, 
+with  
+ 
+ 
+ 
+Fy
+∑
+= may: mgmoon down = mv2
+r
+ down 
+ 
+ 
+solving for the velocity gives 
+ 
+ 
+ 
+v =
+gmoonr =
+1.52 m s2
+(
+) 1.7 × 106 m + 100 × 103 m
+(
+)
+v = 1.65 × 103 m s
+ 
+ 
+(b) To find the period, we use v = 2πr
+T
+ and solve for T:  
+ 
+ 
+ 
+T =
+2π 1.8 × 106 m
+(
+)
+1.65 × 103 m s = 6.84 × 103 s = 1.90 h 
+ANS. FIG. P6.1
+
+--- PAGE 5 ---
+Chapter 6     287 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.3 
+(a) 
+The force acting on the electron in the Bohr model of the 
+hydrogen atom is directed radially inward and is equal to  
+ 
+ 
+ 
+F = mv2
+r
+= 9.11× 10−31 kg
+(
+) 2.20 × 106 m s
+(
+)
+2
+0.529 × 10−10 m
+= 8.33 × 10−8 N inward
+ 
+ 
+(b) 
+a = v2
+r = 2.20 × 106 m s
+(
+)
+2
+0.529 × 10−10 m = 9.15 × 1022 m s2 inward 
+P6.4 
+In 
+F
+∑
+= m v2
+r , both m and r are unknown but remain constant. 
+Symbolically, write  
+ 
+ 
+ 
+Fslow
+∑
+=
+m
+r
+⎛
+⎝⎜
+⎞
+⎠⎟14.0 m s
+(
+)
+2 and 
+Ffast
+∑
+=
+m
+r
+⎛
+⎝⎜
+⎞
+⎠⎟18.0 m s
+(
+)
+2 
+ 
+Therefore, 
+F
+∑
+ is proportional to v
+2 and increases by a factor of 
+18.0
+14.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ as v increases from 14.0 m/s to 18.0 m/s. The total force at the 
+higher speed is then 
+ 
+ 
+Ffast
+∑
+=
+18.0
+14.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+Fslow
+∑
+=
+18.0
+14.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+130 N
+(
+) = 215 N 
+ 
+This force must be horizontally inward to produce the driver’s 
+centripetal acceleration. 
+P6.5 
+We neglecting relativistic effects. With 1 u = 1.661 x 10
+–27 kg, and from 
+Newton’s second law, we obtain 
+ 
+ 
+F = mac = mv2
+r
+= 2 × 1.661× 10−27 kg
+(
+)
+2.998 × 107 m s
+(
+)
+2
+0.480 m
+(
+)
+= 6.22 × 10−12 N
+ 
+P6.6 
+(a) 
+The car’s speed around the curve is found from 
+ 
+ 
+ 
+v = 235 m
+36.0 s = 6.53 m s
+ 
+ 
+ 
+This is the answer to part (b) of this problem. We calculate the 
+radius of the curve from 1
+4 2πr
+(
+) = 235 m, which gives r = 150 m.
+
+--- PAGE 6 ---
+288     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The car’s acceleration at point B is then 
+ 
+ 
+ 
+ar =
+v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟ toward the center
+= 6.53 m s
+(
+)
+2
+150 m
+ at 35.0° north of west
+= 0.285 m s2
+(
+) cos35.0° −ˆi
+( )+ sin35.0°ˆj
+(
+)
+=
+−0.233ˆi + 0.163ˆj
+(
+) m s2
+ 
+ 
+(b) From part (a), v = 6.53 m s 
+ 
+(c) 
+We find the average acceleration from 
+ 
+ 
+ 
+aavg =
+v f −vi
+(
+)
+Δt
+=
+6.53ˆj−6.53ˆi
+(
+) m s
+36.0 s
+=
+−0.181ˆi + 0.181ˆj
+(
+) m s2
+ 
+P6.7 
+Standing on the inner surface of the rim, and moving with it, each 
+person will feel a normal force exerted by the rim. This inward force 
+causes the 3.00 m/s
+2 centripetal acceleration: 
+ 
+ 
+ 
+ac = v2/r   so   v =
+acr =
+3.00 m s2
+(
+) 60.0 m
+(
+) = 13.4 m s 
+The period of rotation comes from v = 2πr
+T
+:   
+T = 2πr
+v
+= 2π 60.0 m
+(
+)
+13.4 m s
+= 28.1 s 
+ 
+so the frequency of rotation is      
+ 
+ 
+ 
+f = 1
+T =
+1
+28.1 s =
+1
+28.1 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.14 rev min
+ 
+P6.8 
+ANS. FIG. P6.8 shows the free-body diagram for this problem.  
+ 
+(a) 
+The forces acting on the pendulum in the vertical direction must 
+be in balance since the acceleration of the bob in this direction is 
+zero. From Newton’s second law in the y direction,  
+ 
+ 
+ 
+Fy = T cosθ −mg = 0
+∑
+
+--- PAGE 7 ---
+Chapter 6     289 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for the tension T gives 
+ 
+ 
+ 
+T = mg
+cosθ = 80.0 kg
+(
+) 9.80 m s2
+(
+)
+cos5.00°
+= 787 N 
+ 
+ 
+In vector form, 
+ 
+ 
+ 
+
+T = T sinθˆi +T cosθˆj
+=
+68.6 N
+(
+)ˆi + 784 N
+(
+)ˆj
+ 
+ 
+(b) From Newton’s second law in the x direction,  
+ 
+ 
+ 
+Fx = T sinθ = mac
+∑
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+ac = T sinθ
+m
+= 787 N
+(
+)sin5.00°
+80.0 kg
+= 0.857 m/s2
+ 
+ 
+ 
+toward the center of the circle. 
+ 
+ 
+The length of the wire is unnecessary information. We could, on 
+the other hand, use it to find the radius of the circle, the speed of 
+the bob, and the period of the motion. 
+P6.9 
+ANS. FIG. P6.9 shows the constant 
+maximum speed of the turntable and the 
+centripetal acceleration of the coin. 
+ 
+(a) 
+The force of static friction causes 
+the centripetal acceleration.  
+ 
+(b) From ANS. FIG. P6.9, 
+ 
+ 
+ 
+maˆi = f ˆi + nˆj + mg −ˆj
+( ) 
+ 
+ 
+ 
+Fy
+∑
+= 0 = n −mg 
+ 
+ 
+thus, n = mg and 
+Fr
+∑
+= m v2
+r = f = µn = µmg
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+µ = v2
+rg =
+50.0 cm s
+(
+)
+2
+30.0 cm
+(
+) 980 cm s2
+(
+)
+= 0.085 0
+ 
+ANS. FIG. P6.8 
+ANS. FIG. P6.9
+
+--- PAGE 8 ---
+290     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.10 
+We solve for the tensions in the two strings: 
+ 
+ 
+ 
+Fg = mg = 4.00 kg
+(
+) 9.80 m s2
+(
+) = 39.2 N 
+ 
+The angle θ is given by  
+ 
+ 
+ 
+θ = sin−1 1.50 m
+2.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.6°
+ 
+ 
+The radius of the circle is then 
+ 
+ 
+ 
+r = 2.00 m
+(
+)cos48.6° = 1.32 m 
+ 
+Applying Newton’s second law,  
+ 
+ 
+ 
+Fx
+∑
+= max = mv2
+r
+Ta cos48.6° +Tb cos48.6° = 4.00 kg
+(
+) 3.00 m/s
+(
+)
+2
+1.32 m
+Ta +Tb = 27.27 N
+cos48.6° = 41.2 N
+ 
+[1]
+ 
+ 
+ 
+ 
+Fy
+∑
+= may:   Ta sin 48.6° −Tb sin 48.6° −39.2 N = 0
+Ta −Tb = 39.2 N
+sin 48.6° = 52.3 N
+ 
+[2]
+ 
+ 
+To solve simultaneously, we add the equations in Ta and Tb: 
+ 
+ 
+ 
+(Ta + Tb) + (Ta – Tb) = 41.2 N + 52.3 N 
+ 
+ 
+ 
+Ta = 93.8 N
+2
+= 46.9 N 
+ 
+This means that Tb = 41.2 N – Ta = –5.7 N, which we may interpret as 
+meaning the lower string pushes rather than pulls! 
+ 
+The situation is impossible because the speed of the object is too
+small, requiring that the lower string act like a rod and push rather
+than like a string and pull.
+ 
+ 
+To answer the What if?, we go back to equation [2] above and 
+substitute mg for the weight of the object.  Then, 
+ 
+ 
+ 
+Fy
+∑
+= may:   Ta sin 48.6° −Tb sin 48.6° −mg = 0
+Ta −Tb = (4.00 kg)g
+sin 48.6° = 5.33g
+ 
+ANS. FIG. P6.10
+
+--- PAGE 9 ---
+Chapter 6     291 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We then add this equation to equation [2] to obtain  
+ 
+ 
+ 
+(Ta + Tb) + (Ta – Tb) = 41.2 N + 5.33g 
+ 
+or 
+ 
+Ta = 20.6 N + 2.67g and Tb = 41.2 N −Ta = 41.2 N −2.67g  
+ 
+For this situation to be possible, Tb must be > 0, or g < 7.72 m/s2. This is 
+certainly the case on the surface of the Moon and on Mars. 
+P6.11 
+Call the mass of the egg crate m. The forces on it 
+are its weight Fg = mg vertically down, the 
+normal force n of the truck bed vertically up, 
+and static friction fs directed to oppose relative 
+sliding motion of the crate on the truck bed. The 
+friction force is directed radially inward. It is 
+the only horizontal force on the crate, so it 
+must provide the centripetal acceleration. 
+When the truck has maximum speed, friction fs 
+will have its maximum value with fs = µsn. 
+Newton’s second law in component form becomes 
+ 
+ 
+Fy
+∑
+= may 
+giving 
+n – mg = 0 or 
+n = mg 
+ 
+ 
+Fx
+∑
+= max 
+giving 
+fs = mar 
+From these three equations, 
+ 
+ 
+ 
+µsn ≤mv2
+r
+ 
+and 
+µsmg ≤mv2
+r
+  
+The mass divides out. The maximum speed is then  
+ 
+ 
+ 
+v ≤
+µsrg =
+0.600 35.0 m
+(
+) 9.80 m/s2
+(
+)
+→
+v ≤14.3 m/s 
+ 
+ 
+ 
+Section 6.2 
+Nonuniform Circular Motion 	  
+P6.12 
+(a) 
+The external forces acting on the water are  
+ 
+ 
+ 
+the gravitational force  
+ 
+ 
+and the contact force exerted on the water by the pail . 
+ 
+(b) The contact force exerted by the pail is the most important in 
+causing the water to move in a circle. If the gravitational force 
+acted alone, the water would follow the parabolic path of a 
+projectile. 
+ANS. FIG. P6.11
+
+--- PAGE 10 ---
+292     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P6.14 
+ 
+(c) 
+When the pail is inverted at the top of the circular path, it cannot 
+hold the water up to prevent it from falling out. If the water is not 
+to spill, the pail must be moving fast enough that the required 
+centripetal force is at least as large as the gravitational force. That 
+is, we must have 
+ 
+ 
+ 
+m v2
+r ≥mg  or  v ≥
+rg =
+1.00m
+(
+) 9.80m s2
+(
+) = 3.13 m s 
+ 
+(d) If the pail were to suddenly disappear when it is at the top of the 
+circle and moving at 3.13 m/s, the water would follow the  
+parabolic path of a projectile launched with initial velocity 
+components of vxi = 3.13 m/s, vyi = 0. 
+P6.13 
+(a) 
+The hawk’s centripetal acceleration is 
+ 
+ 
+ 
+ac = v2
+r = 4.00 m s
+(
+)
+2
+12.0 m
+= 1.33 m s2 
+ 
+(b) The magnitude of the acceleration vector is 
+ 
+ 
+ 
+a =
+ac
+2 + at
+2
+=
+1.33 m/s2
+(
+)
+2 + 1.20 m/s2
+(
+)
+2 = 1.79 m/s2
+ 
+ 
+ 
+at an angle  
+ 
+ 
+ 
+θ = tan−1 ac
+at
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 1.33 m/s2
+1.20 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.0° inward
+ 
+6.14 
+We first draw a force diagram that shows 
+the forces acting on the child-seat system 
+and apply Newton’s second law to solve 
+the problem. The child’s path is an arc of a 
+circle, since the top ends of the chains are 
+fixed. Then at the lowest point the child’s 
+motion is changing in direction: He moves 
+with centripetal acceleration even as his 
+speed is not changing and his tangential 
+acceleration is zero. 
+ 
+(a) 
+ANS. FIG. P6.14 shows that the only 
+forces acting on the system of child + seat are the tensions in the 
+two chains and the weight of the boy:  
+ 
+ 
+ 
+F
+∑
+= Fnet = 2T −mg = ma = mv2
+r
+  
+ANS. FIG. P6.13
+
+--- PAGE 11 ---
+Chapter 6     293 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+with  
+ 
+ 
+ 
+Fnet = 2T −mg = 2 350 N
+(
+)−40.0 kg
+(
+) 9.80 m/s2
+(
+) = 308 N 
+ 
+ 
+solving for v gives 
+ 
+ 
+ 
+v =
+Fnetr
+m
+=
+(308 N)(3.00 m)
+40.0 kg
+= 4.81 m/s
+ 
+ 
+(b) The normal force from the seat on the child accelerates the child 
+in the same way that the total tension in the chain accelerates the 
+child-seat system. Therefore, n = 2T = 700 N . 
+P6.15 
+See the forces acting on seat (child) in ANS. FIG. P6.14. 
+ 
+(a) 
+F
+∑
+= 2T −Mg = Mv2
+R
+ 
+ 
+ 
+v2 = 2T −Mg
+(
+)
+R
+M
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+v =
+2T −Mg
+(
+)
+R
+M
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) 
+n −Mg = F = Mv2
+R
+ 
+ 
+ 
+n = Mg + Mv2
+R
+ 
+P6.16 
+(a) 
+We apply Newton’s second law at 
+point A, with v = 20.0 m/s,  
+n = force of track on roller coaster, 
+and R = 10.0 m: 
+ 
+ 
+ 
+F
+∑
+= Mv2
+R
+= n−Mg
+ 
+ 
+ 
+From this we find 
+ 
+ 
+ 
+n = Mg + Mv2
+R
+= 500 kg
+(
+) 9.80 m s2
+(
+) +
+500 kg
+(
+) 20.0 m s2
+(
+)
+10.0 m
+n = 4 900 N + 20 000 N = 2.49 × 104 N
+ 
+ 
+(b) At point B, the centripetal acceleration is now downward, and 
+Newton’s second law now gives  
+ 
+ 
+ 
+F
+∑
+= n−Mg = −Mv2
+R
+ 
+ANS. FIG. P6.16
+
+--- PAGE 12 ---
+294     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The maximum speed at B corresponds to the case where the 
+rollercoaster begins to fly off the track, or when n = 0. Then, 
+ 
+ 
+ 
+−Mg = −Mvmax
+2
+R
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+vmax =
+Rg =
+15.0 m
+(
+) 9.80 m/s2
+(
+) = 12.1 m/s
+ 
+P6.17 
+(a) 
+ac = v2
+r
+ 
+ 
+ 
+ 
+r = v2
+ac
+=
+13.0 m s
+(
+)
+2
+2 9.80 m s2
+(
+)
+= 8.62 m 
+ 
+(b) Let n be the force exerted by the rail. 
+ 
+ 
+Newton’s second law gives 
+ 
+ 
+ 
+Mg + n = Mv2
+r
+ 
+ 
+ 
+ 
+n = M v2
+r −g
+⎛
+⎝⎜
+⎞
+⎠⎟= M 2g −g
+(
+) =
+Mg, downward 
+ 
+(c) 
+ac = v2
+r , or ac = 13.0 m s
+(
+)
+2
+20.0 m
+= 8.45 m s2 
+ 
+(d) If the force exerted by the rail is n1, 
+ 
+ 
+then n1 + Mg = Mv2
+r
+= Mac 
+ 
+ 
+ 
+n1 = M ac −g
+(
+) which is < 0 since ac = 8.45 m/s
+2 
+ 
+ 
+Thus, the normal force would have to point away from the
+center of the curve. Unless they have belts, the riders will fall
+from the cars.
+ 
+ 
+ 
+In a teardrop-shaped loop, the radius of curvature r decreases,
+causing the centripetal acceleration to increase. The speed
+would decrease as the car rises (because of gravity), but the
+overall effect is that the required centripetal force increases,
+meaning the normal force increases--there is less danger if
+not wearing a seatbelt.
+ 
+ANS. FIG. P6.17
+
+--- PAGE 13 ---
+Chapter 6     295 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.18 
+(a) 
+Consider radial forces on the object, taking inward as positive. 
+ 
+ 
+ 
+∑Fr = mar:     T −mgcosθ = mv2
+r
+ 
+ 
+ 
+Solving for the tension gives 
+ 
+ 
+ 
+T = mgcosθ + mv2
+r
+  
+= (0.500 kg)(9.80 m/s2)cos 20.0°
+                     +(0.500 kg)(8.00 m/s)2/2.00 m
+= 4.60 N + 16.0 N = 20.6 N
+ 
+ 
+(b) We already found the radial component of acceleration,  
+ 
+ 
+ 
+ar = v2
+r = 8.00 m/s
+(
+)
+2
+2.00 m
+= 32.0 m/s2 inward
+ 
+ 
+  
+ 
+ 
+Consider the tangential forces on the object: 
+ 
+ 
+ 
+Ft
+∑
+= mat:     mgsinθ = mat  
+ 
+ 
+Solving for the tangential component of acceleration gives 
+ 
+ 
+ 
+at = gsinθ = 9.80 m/s2
+(
+)sin20.0°
+= 3.35 m/s2 downward tangent to the circle
+ 
+ 
+(c) 
+The magnitude of the acceleration is  
+ 
+ 
+ 
+a =
+ar
+2 + at
+2 =
+32.0 m/s2
+(
+)
+2 + 3.35 m/s2
+(
+)
+2 = 32.2 m/s2  
+ 
+ 
+at an angle of  
+ 
+ 
+ 
+tan−1 3.35 m/s2
+32.0 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.98°
+  
+ 
+ 
+Thus, the acceleration is  
+ 
+ 
+ 
+32.2 m/s2 inward and below the cord at 5.98° 
+ 
+(d) 
+No change. 
+ 
+(e) 
+If the object is swinging down it is gaining speed, and if the object
+is swinging up it is losing speed, but the forces are the same;
+therefore, its acceleration is regardless of the direction of swing.
+
+--- PAGE 14 ---
+296     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P6.19 
+P6.19 
+Let the tension at the lowest point be T. From  
+Newton’s second law, 
+F
+∑
+= ma and  
+ 
+ 
+T −mg = mac = mv2
+r
+T = m g + v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+T = 85.0 kg
+(
+) 9.80 m s2 + 8.00 m s
+(
+)
+2
+10.0 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+   = 1.38 kN > 1 000 N
+ 
+  
+He doesn’t make it across the river because the vine breaks. 
+ 
+ 
+ 
+Section 6.3 
+Motion in Accelerated Frames	  
+P6.20 
+(a) 
+From 
+Fx
+∑
+= Ma, we obtain  
+ 
+ 
+ 
+a = T
+M = 18.0 N
+5.00 kg = 3.60 m s
+2 to the right 
+ 
+(b) If v = const, a = 0, so T = 0 . (This is also an equilibrium 
+situation.) 
+ 
+(c) 
+Someone in the car (noninertial observer) claims that the forces
+on the mass along x are T and a fictitious force (– Ma).
+ 
+ 
+(d) 
+Someone at rest outside the car (inertial observer) claims that T
+is the only force on M in the x direction.
+ 
+ 
+ANS. FIG. P6.20
+
+--- PAGE 15 ---
+Chapter 6     297 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.21 
+The only forces acting on the suspended object are the 
+force of gravity mg and the force of tension T forward 
+and upward at angle θ with the vertical, as shown in 
+the free-body diagram in ANS. FIG. P6.21. Applying 
+Newton’s second law in the x and y directions, 
+ 
+ 
+Fx
+∑
+= T sinθ = ma 
+[1] 
+ 
+ 
+Fy
+∑
+= T cosθ −mg = 0 
+ 
+or 
+T cosθ = mg 
+[2] 
+ 
+(a) 
+Dividing equation [1] by [2] gives  
+ 
+ 
+ 
+tanθ = a
+g = 3.00 m s
+2
+9.80 m s
+2 = 0.306 
+ 
+ 
+Solving for θ, 
+θ = 17.0° 
+ 
+(b) From equation [1],  
+ 
+ 
+ 
+T = ma
+sinθ =
+0.500 kg
+(
+) 3.00 m s
+2
+(
+)
+sin 17.0°
+(
+)
+= 5.12 N 
+P6.22 
+In an inertial reference frame, the girl is accelerating horizontally 
+inward at 
+ 
+ 
+ 
+v2
+r = 5.70 m s
+(
+)
+2
+2.40 m
+= 13.5 m s
+2 
+ 
+In her own noninertial frame, her head feels a horizontally outward 
+fictitious force equal to its mass times this acceleration. Together this 
+force and the weight of her head add to have a magnitude equal to the 
+mass of her head times an acceleration of  
+ 
+ 
+ 
+g2 +
+v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+9.80 m/s2
+(
+)
+2 + 13.5 m/s2
+(
+)
+2 = 16.7 m s2
+ 
+ 
+This is larger than g by a factor of 16.7 m/s
+9.80 m/s = 1.71. 
+ 
+Thus, the force required to lift her head is larger by this factor, or the 
+required force is 
+ 
+ 
+ 
+F = 1.71 55.0 N
+(
+) = 93.8 N 
+ANS. FIG. P6.21
+
+--- PAGE 16 ---
+298     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.23 
+The scale reads the upward normal force exerted by the floor on the 
+passenger. The maximum force occurs during upward acceleration 
+(when starting an upward trip or ending a downward trip). The 
+minimum normal force occurs with downward acceleration. For each 
+respective situation, 
+ 
+ 
+ 
+Fy
+∑
+= may 
+becomes for starting 
++591 N − mg = +ma 
+ 
+ 
+ 
+ 
+ 
+and for stopping  
++391 N − mg = −ma 
+ 
+where a represents the magnitude of the acceleration. 
+ 
+ 
+(a) 
+These two simultaneous equations can be added to eliminate a 
+and solve for mg: 
+ 
+ 
+ 
+ 
++ 591 N − mg + 391 N − mg = 0 
+ 
+ 
+ 
+or 
+982 N – 2mg = 0 
+ 
+ 
+ 
+ 
+Fg = mg = 982 N
+2
+= 491 N
+ 
+ 
+ 
+ 
+(b) From the definition of weight, m = Fg
+g =
+491 N
+9.80 m s2 = 50.1 kg 
+ 
+ 
+ 
+(c) 
+Substituting back gives +591 N − 491 N = (50.1 kg)a, or  
+ 
+ 
+ 
+ 
+a = 100 N
+50.1 kg = 2.00 m/s2  
+P6.24 
+Consider forces on the backpack as it slides in the Earth frame of 
+reference. 
+ 
+ 
+ 
+Fy
+∑
+= may:
++n−mg = ma, n = m g + a
+(
+), fk = µkm g + a
+(
+)
+Fx
+∑
+= max:
+−µkm g + a
+(
+) = max
+ 
+ 
+The motion across the floor is described by  
+ 
+ 
+  
+L = vt + 1
+2 axt2 = vt −1
+2 µk g + a
+(
+)t2 
+ 
+We solve for µk: 
+ 
+ 
+ 
+vt −L = 1
+2 µk g + a
+(
+)t2 
+ 
+ 
+ 
+µk = 2 vt −L
+(
+)
+g + a
+(
+)t2
+ 
+P6.25 
+The water moves at speed  
+ 
+ 
+ 
+v = 2πr
+T
+= 2π 0.120 m
+(
+)
+7.25 s
+= 0.104 m s
+
+--- PAGE 17 ---
+Chapter 6     299 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The top layer of water feels a downward force of gravity mg and an 
+outward fictitious force in the turntable frame of reference,  
+ 
+ 
+ 
+mv2
+r
+= m 0.104 m s
+(
+)
+2
+0.12 m
+= m 9.01× 10−2 m s
+2 
+ 
+It behaves as if it were stationary in a gravity field pointing downward 
+and outward at  
+ 
+ 
+ 
+tan−1 0.090 1 m s2
+9.8 m s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.527°
+ 
+ 
+Its surface slopes upward toward the outside, making this angle with 
+the horizontal. 
+ 
+ 
+ 
+Section 6.4 
+Motion in the Presence of  
+Velocity-Dependent Resistive Forces	  
+P6.26 
+(a) 
+ρ = m
+V , A = 0.020 1 m
+2, R = 1
+2 ρairADvT
+2 = mg 
+ 
+ 
+m = ρbeadV = 0.830 g cm3 4
+3 π 8.00 cm
+(
+)
+3
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.78 kg 
+ 
+ 
+Assuming a drag coefficient of D = 0.500 for this spherical object, 
+and taking the density of air at 20°C from the endpapers, we have 
+ 
+ 
+ 
+vT =
+2 1.78 kg
+(
+) 9.80 m s2
+(
+)
+0.500 1.20 kg m3
+(
+) 0.020 1 m2
+(
+)
+= 53.8 m s
+ 
+ 
+(b) From v f
+2 = vi
+2 + 2gh = 0 + 2gh, we solve for h:  
+ 
+ 
+ 
+h =
+v f
+2
+2g =
+53.8 m s
+(
+)
+2
+2 9.80 m s2
+(
+)
+= 148 m 
+P6.27 
+With 100 km/h = 27.8 m/s, the resistive force is 
+ 
+ 
+ 
+R = 1
+2 DρAv2 = 1
+2 0.250
+(
+) 1.20 kg m3
+(
+) 2.20 m2
+(
+) 27.8 m s
+(
+)
+2
+= 255 N
+a = −R
+m = −255 N
+1 200 kg = −0.212 m s2
+
+--- PAGE 18 ---
+300     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.28 
+Given m = 80.0 kg, vT = 50.0 m/s, we write 
+ 
+ 
+ 
+mg = DρAvT
+2
+2
+ 
+ 
+which gives 
+ 
+ 
+DρA
+2
+= mg
+vT
+2 = 0.314 kg m
+ 
+ 
+(a) 
+At v = 30.0 m/s, 
+ 
+ 
+ 
+ 
+a = g −DρAv2 2
+m
+= 9.80 m/s2 −0.314 kg/m
+(
+) 30.0 m/s
+(
+)
+2
+80.0 kg
+= 6.27 m/s2 downward
+ 
+ 
+(b) At v = 50.0 m/s, terminal velocity has been reached. 
+ 
+ 
+ 
+ 
+Fy
+∑
+= 0 = mg −R
+⇒R = mg = 80.0 kg
+(
+) 9.80 m s2
+(
+) = 784 N directed up
+ 
+ 
+(c) 
+At 
+v = 30.0 m/s, 
+ 
+ 
+ 
+ 
+DρAv2
+2
+= 0.314 kg/m
+(
+) 30.0 m/s
+(
+)
+2 = 283 N upward 
+ 
+P6.29 
+Since the upward velocity is constant, the resultant force on the ball is 
+zero. Thus, the upward applied force equals the sum of the 
+gravitational and drag forces (both downward):  
+ 
+ 
+ 
+F = mg + bv 
+ 
+The mass of the copper ball is 
+ 
+ 
+ 
+m = 4πρr3
+3
+=
+4
+3
+⎛
+⎝⎜
+⎞
+⎠⎟π 8.92 × 103 kg m3
+(
+) 2.00 × 10−2 m
+(
+)
+3
+= 0.299 kg
+ 
+ 
+The applied force is then 
+ 
+ 
+ 
+F = mg + bv = 0.299 kg
+(
+) 9.80 m/s2
+(
+)
+                     + 0.950 kg/s
+(
+) 9.00 × 10−2 m/s
+(
+)
+= 3.01 N
+ 
+P6.30 
+(a) 
+The acceleration of the Styrofoam is given by  
+ 
+ 
+ 
+a = g – Bv
+
+--- PAGE 19 ---
+Chapter 6     301 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+When v = vT, a = 0 and g = BvT →B = g
+vT
+ 
+ 
+ 
+The Styrofoam falls 1.50 m at constant speed vT in 5.00 s. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+vT = h
+Δt = 1.50 m
+5.00 s = 0.300 m/s
+ 
+ 
+ 
+Then 
+ 
+ 
+ 
+ 
+B = g
+vT
+= 9.80 m/s2
+0.300 m/s = 32.7 s−1
+ 
+ 
+(b) At t = 0, v = 0, and a = g = 9.80 m s2 down 
+ 
+(c) 
+When v = 0.150 m/s,  
+ 
+ 
+ 
+a = g −Bv
+= 9.80 m/s2 −32.7 s−1
+(
+) 0.150 m/s
+(
+)
+= 4.90 m/s2 down
+  
+P6.31 
+We have a particle under a net force in the special case of a resistive 
+force proportional to speed, and also under the influence of the 
+gravitational force.  
+ 
+(a) 
+The speed v varies with time according to Equation 6.6, 
+ 
+ 
+v = mg
+b
+1 – e–bt/m
+(
+) = vT 1 – e–t/τ
+(
+) 
+ 
+where vT = mg/b is the terminal speed.  Hence, 
+ 
+ 
+  
+b = mg
+vT
+=
+3.00 × 10−3 kg
+(
+) 9.80 m s2
+(
+)
+2.00 × 10−2 m s
+= 1.47 N ⋅s m 
+ 
+ 
+(b) To find the time interval for v to reach 0.632vT, we substitute  
+v = 0.632vT into Equation 6.6, giving 
+ 
+ 
+ 
+0.632vT = vT (1 − e
+−bt/m) 
+or  
+0.368 = e
+−(1.47t/0.003 00) 
+ 
+ 
+Solve for t by taking the natural logarithm of each side of the 
+equation:  
+ 
+ 
+ 
+ln(0.368) = –
+1.47 t
+3.00 × 10–3
+or
+–1 = –
+1.47 t
+3.00 × 10–3
+
+--- PAGE 20 ---
+302     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+t = −m
+b
+⎛
+⎝⎜
+⎞
+⎠⎟ln 0.368
+(
+) = 2.04 × 10−3 s 
+ 
+ 
+(c) 
+At terminal speed, R = vTb = mg.  Therefore, 
+ 
+ 
+  
+R = vTb = mg = 3.00 × 10−3 kg
+(
+) 9.80 m/s2
+(
+) = 2.94 × 10−2 N 
+ 
+P6.32 
+We write  
+ 
+ 
+ 
+−kmv2 = −1
+2 DρAv2 
+ 
+ so 
+ 
+ 
+ 
+k = DρA
+2m = 0.305 1.20 kg m3
+(
+) 4.2 × 10−3 m2
+(
+)
+2 0.145 kg
+(
+)
+= 5.3 × 10−3 m
+ 
+ 
+solving for the velocity as the ball crosses home plate gives 
+ 
+ 
+v = vie−kx = 40.2 m s
+(
+)e
+−5.3×10−3 m
+(
+) 18.3 m
+(
+) = 36.5 m s
+ 
+P6.33 
+We start with Newton’s second law, 
+ 
+ 
+ 
+F
+∑
+= ma 
+ 
+substituting,  
+ 
+ 
+ 
+−kmv2 = m dv
+dt
+−kdt = dv
+v2
+−k dt
+0
+t
+∫
+=
+v−2 dv
+vi
+v
+∫
+ 
+ 
+integrating both sides gives 
+ 
+ 
+ 
+−k t −0
+(
+) = v−1
+−1 vi
+v
+= −1
+v + 1
+vi
+1
+v = 1
+vi
++ kt = 1+ vikt
+vi
+v =
+vi
+1+ vikt
+
+--- PAGE 21 ---
+Chapter 6     303 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.34 
+(a) 
+Since the window is vertical, the normal force is horizontal and is 
+given by n = 4.00 N. To find the vertical component of the force, 
+we note that the force of kinetic friction is given by  
+ 
+ 
+ 
+fk = µkn = 0.900(4.00 N) = 3.60 N upward 
+ 
+ 
+to oppose downward motion. Newton’s second law then becomes 
+ 
+ 
+ 
+∑Fy = may: 
++3.6 N −(0.16 kg)(9.8 m/s2) + Py = 0
+Py = −2.03 N = 2.03 N down
+ 
+ 
+(b) Now, with the increased downward force, Newton’s second law 
+gives  
+ 
+ 
+ 
+Fy
+∑
+= may:  
++ 3.60 N −(0.160 kg)(9.80 m/s2)−1.25(2.03 N)
+= 0.160 kg ay
+ 
+ 
+ 
+then 
+ 
+ 
+ 
+ay = −0.508 N/0.16 kg = −3.18 m/s2 = 3.18 m/s2 down 
+ 
+(c) 
+At terminal velocity,  
+ 
+ 
+ 
+∑Fy = may:    +(20.0 N⋅s/m)vT −(0.160 kg)(9.80 m/s2)
+                                             −1.25(2.03 N) = 0
+ 
+ 
+ 
+Solving for the terminal velocity gives 
+ 
+ 
+ 
+vT = 4.11 N/(20 N ⋅s/m) = 0.205 m/s down 
+P6.35 
+(a) 
+We must fit the equation v = vie
+−ct to the two data points: 
+ 
+ 
+At t = 0, v = 10.0 m/s, so v = vie
+−ct      becomes 
+ 
+ 
+ 
+ 
+ 
+10.0 m/s = vi e
+0 = (vi)(1) 
+ 
+ 
+ 
+which gives vi = 10.0 m/s 
+ 
+ 
+At t = 20.0 s, v = 5.00 m/s so the equation becomes 
+ 
+ 
+ 
+ 
+5.00 m/s = (10.0 m/s)e
+−c(20.0 s) 
+ 
+ 
+ 
+giving 
+0.500 = e
+−c(20.0 s) 
+ 
+ 
+or 
+ 
+−20.0c = ln 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ → c = −ln
+1
+2( )
+20.0 = 3.47 × 10−2 s−1 
+ 
+(b) At t = 40.0 s 
+ 
+ 
+ 
+v = 10.0 m s
+(
+)e−40.0c = 10.0 m s
+(
+) 0.250
+(
+) = 2.50 m s
+
+--- PAGE 22 ---
+304     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The acceleration is the rate of change of the velocity: 
+ 
+  
+ 
+a = dv
+dt =  d
+dt vie–ct = vi e–ct
+(
+)(–c) = – c vie–ct
+(
+)
+= –cv
+ 
+ 
+ 
+ 
+Thus, the acceleration is a negative constant times the speed. 
+P6.36 
+In R = 1
+2 DρAv2 , we estimate that the coefficient of drag for an open 
+palm is D = 1.00, the density of air is ρ = 1.20 kg m3 , the area of an 
+open palm is A = 0.100 m
+(
+) 0.160 m
+(
+) = 1.60 × 10−2 m2, and v = 29.0 m/s 
+(65 miles per hour). The resistance force is then 
+ 
+ 
+R = 1
+2 1.00
+(
+) 1.20 kg m3
+(
+) 1.60 × 10−2 m2
+(
+) 29.0 m s
+(
+)
+2 = 8.07 N
+ 
+ 
+or 
+R ~ 101 N 
+ 
+ 
+ 
+Additional Problems 
+P6.37 
+Because the car travels at a constant speed, it has no tangential 
+acceleration, but it does have centripetal acceleration because it travels 
+along a circular arc. The direction of the centripetal acceleration is 
+toward the center of curvature, and the direction of velocity is tangent 
+to the curve. 
+ 
+Point A 
+ 
+ 
+direction of velocity:   East 
+ 
+ 
+direction of the centripetal acceleration:   South 
+ 
+Point B 
+ 
+ 
+direction of velocity:   South 
+ 
+ 
+direction of the centripetal acceleration:   West 
+P6.38 
+The free-body diagram of the passenger is shown in 
+ANS. FIG. P6.38. From Newton’s second law, 
+ 
+ 
+ 
+∑Fy = may 
+ 
+ 
+ 
+n−mg = mv2
+r
+ 
+ANS. FIG. P6.38
+
+--- PAGE 23 ---
+Chapter 6     305 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which gives 
+ 
+ 
+ 
+n = mg + mv2
+r
+= (50 kg)(9.80 m s2)+ 50.0 kg
+(
+) 19 m s
+(
+)
+2
+25 m
+= 1.2 × 103 N
+ 
+P6.39 
+The free-body diagram of the rock is  
+shown in ANS. FIG. P6.39. Take the  
+x direction inward toward the center  
+of the circle. The mass of the rock  
+does not change. We know when  
+r1 = 2.50 m, v1 = 20.4 m/s, and  
+T1 = 50.0 N. To find T2 when  
+r2 = 1.00 m, and v2 = 51.0 m/s, we 
+use Newton’s second law in the  
+horizontal direction: 
+ 
+ 
+ 
+ 
+∑Fx = max 
+ 
+In both cases,  
+ 
+ 
+ 
+T1 = mv1
+2
+r 1
+   and   T2 = mv2
+2
+r2
+ 
+ 
+Taking the ratio of the two tensions gives 
+ 
+ 
+ 
+T2
+T1
+= v2
+2
+v1
+2   r1
+r2
+=
+51.0 m/s
+20.4 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+  2.50 m
+1.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 15.6
+ 
+ 
+then 
+ 
+ 
+ 
+T2 = 15.6T1 = 15.6 50.0 N
+(
+) = 781 N 
+ 
+We assume the tension in the string is not altered by friction from the 
+hole in the table.  
+P6.40 
+(a) 
+We first convert the speed of the car to SI units: 
+ 
+ 
+ 
+v = 30 km h
+(
+)
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 000 m
+1 km
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.33 m s
+ 
+ 
+ 
+Newton’s second law in the vertical direction 
+then gives 
+ 
+ 
+ 
+Fy
+∑
+= may:      + n−mg = −mv2
+r
+ 
+ANS. FIG. P6.39 
+ANS. FIG. P6.40
+
+--- PAGE 24 ---
+306     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for the normal force, 
+ 
+ 
+ 
+n = m g −v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1 800 kg
+(
+) 9.80 m/s2 −8.33 m/s
+(
+)
+2
+20.4 m
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 1.15 × 104 N up
+ 
+ 
+(b) At the maximum speed, the weight of the car is just enough to 
+provide the centripetal force, so n = 0. Then mg = mv2
+r
+ and 
+ 
+ 
+ 
+v =
+gr =
+9.80 m/s2
+(
+) 20.4 m
+(
+) = 14.1 m/s = 50.9 km/h 
+P6.41 
+(a) 
+The free-body diagram in ANS. FIG. P6.40 shows the forces on 
+the car in the vertical direction. Newton’s second law then gives 
+ 
+ 
+ 
+Fy
+∑
+= may = mv2
+R
+ 
+ 
+ 
+ 
+mg −n = mv2
+R
+ 
+n = mg −mv2
+R
+ 
+ 
+(b) When n = 0, 
+mg = mv2
+R
+ 
+ 
+ 
+Then, v =
+gR 
+A more gently curved bump, with larger radius, allows the car to 
+have a higher speed without leaving the road. This speed is 
+proportional to the square root of the radius. 
+P6.42 
+The free-body diagram for the object is 
+shown in ANS. FIG. P6.42. The object travels 
+in a circle of radius r = L cos θ about the 
+vertical rod. 
+ 
+Taking inward toward the center of the circle 
+as the positive x direction, we have  
+ 
+ 
+ 
+∑Fx = max: 
+n sin θ = mv2
+r
+ 
+ 
+ 
+ 
+∑Fy = may: 
+ 
+ 
+ 
+ 
+ 
+n cos θ −mg = 0 →n cos θ = mg 
+ANS. FIG. P6.42
+
+--- PAGE 25 ---
+Chapter 6     307 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Dividing, we find  
+ 
+ 
+ 
+n sin θ
+n cosθ = mv2/r
+gr
+     →     tanθ = v2
+gr
+ 
+ 
+Solving for v gives 
+ 
+ 
+ 
+v2 = grtan θ
+v2 = g(L cosθ)tan θ
+v = (gL sin θ)1/2
+ 
+P6.43 
+Let vi represent the speed of the object at time 0. We have 
+dv
+v
+vi
+v∫
+= −b
+m
+dt               ln v
+i
+t∫
+vi
+v = −b
+m t i
+t
+ln v −ln vi = −b
+m t −0
+(
+)     ln v/ vi
+(
+) = −bt
+m
+v/ vi = e−bt/m                   v = vie−bt/m
+ 
+ 
+From its original value, the speed decreases rapidly at first and then 
+more and more slowly, asymptotically approaching zero. 
+ 
+In this model the object keeps losing speed forever. It travels a
+finite distance in stopping.
+ 
+ 
+The distance it travels is given by 
+ 
+ 
+ 
+dr
+0
+r∫
+= vi
+e−bt/m
+0
+t∫
+dt 
+ 
+ 
+ 
+r = −m
+b vi
+e−bt/m
+0
+t∫
+−b
+m dt
+⎛
+⎝⎜
+⎞
+⎠⎟= −m
+b vi e−bt/m
+0
+t
+= −m
+b vi e−bt/m −1
+(
+) = mvi
+b
+1−e−bt/m
+(
+)
+ 
+ 
+As t goes to infinity, the distance approaches mvi
+b
+1−0
+(
+) = mvi b. 
+P6.44 
+The radius of the path of object 1 is twice that of 
+object 2. Because the strings are always “collinear,” 
+both objects take the same time interval to travel 
+around their respective circles; therefore, the speed 
+of object 1 is twice that of object 2.  
+The free-body diagrams are shown in ANS. FIG. 
+P6.44. We are given m1
+ = 4.00 kg, m2 = 3.00 kg,  
+v = 4.00 m/s, and = 0.500 m. 
+ANS. FIG. P6.44
+
+--- PAGE 26 ---
+308     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Taking down as the positive direction, we have  
+ 
+ 
+Object 1: T1 + m1g = m1v1
+2
+r 1
+,   where v1 = 2v, r1 = 2. 
+ 
+ 
+Object 2: T2 −T1 + m2g = m2v2
+2
+r2
+,   where v2 = v, r2 = 2. 
+ 
+(a) 
+From above:  
+ 
+ 
+ 
+T1 = m1v1
+2
+r1
+−m1g = m1
+v1
+2
+r1
+−g
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+T1 = 4.00 kg
+(
+)
+2 4.00 m/s
+(
+)
+[
+]
+2
+2 0.500 m
+(
+)
+−9.80 m/s2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+ 
+T1 = 216.8 N = 217 N 
+ 
+(b) From above:  
+ 
+ 
+ 
+T2 = T1 + m2v2
+2
+r2
+−m2g 
+ 
+ 
+ 
+T2 = T1 + m2
+v2
+2
+r2
+−g
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+T2 = T1 + 3.00 kg
+(
+)
+4.00 m/s
+(
+)
+2
+0.500 m
+−9.80 m/s2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+ 
+T2 = 216.8 N + 66.6 N = 283.4 N = 283 N 
+ 
+(c) 
+From above, T2 > T1 always, so string 2 will break first. 
+P6.45 
+(a) 
+At each point on the vertical circular path, 
+two forces are acting on the ball (see ANS. 
+FIG. P6.45): 
+ 
+ 
+(1) 
+The downward gravitational force 
+with constant magnitude Fg = mg 
+ 
+ 
+(2) 
+The tension force in the string, 
+always directed toward the
+center of the path 
+ 
+ANS. FIG. P6.45
+
+--- PAGE 27 ---
+Chapter 6     309 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) ANS. FIG. P6.45 shows the forces acting on the ball when it is at 
+the highest point on the path (left-hand diagram) and when it is 
+at the bottom of the circular path (right-hand diagram). Note that 
+the gravitational force has the same magnitude and direction at 
+each point on the circular path. The tension force varies in 
+magnitude at different points and is always directed toward the 
+center of the path. 
+ 
+(c) 
+At the top of the circle, Fc = mv
+2/r = T + Fg, or 
+ 
+ 
+ 
+T = mv2
+r
+−Fg = mv2
+r
+−mg = m v2
+r −g
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.275 kg
+(
+)
+5.20 m s
+(
+)
+2
+0.850 m
+−9.80 m s2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 6.05 N
+ 
+ 
+(d) At the bottom of the circle, Fc = mv
+2/r = T – Fg = T – mg, and 
+solving for the speed gives 
+ 
+ 
+ 
+v2 = r
+m T −mg
+(
+) = r T
+m −g
+⎛
+⎝⎜
+⎞
+⎠⎟    and    v =
+r T
+m −g
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+If the string is at the breaking point at the bottom of the circle, 
+then T = 22.5 N, and the speed of the object at this point must be 
+ 
+ 
+ 
+v =
+0.850 m
+(
+)
+22.5 N
+0.275 kg −9.80 m s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.82 m s 
+P6.46 
+The free-body diagram is shown on the 
+right, where it is assumed that friction 
+points up the incline, otherwise, the child 
+would slide down the incline. The net force 
+is directed left toward the center of the 
+circular path in which the child travels. The 
+radius of this path is R = dcosθ.  
+ 
+Three forces act on the child, a normal 
+force, static friction, and gravity. The 
+relations of their force components are: 
+ 
+ 
+ 
+Fx:
+fs cos θ −n sin θ = mv2/R
+∑
+ 
+[1] 
+ 
+ 
+ 
+Fy:
+fs sin θ + n cos θ −mg = 0 →
+∑
+fs sin θ + n cos θ = mg
+ 
+[2] 
+ 
+Solve for the static friction and normal force. 
+ANS. FIG. P6.46
+
+--- PAGE 28 ---
+310     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+To solve for static friction, multiply equation [1] by cos θ and equation 
+[2] by sin θ and add: 
+ 
+ 
+ 
+cosθ fs cosθ −nsinθ
+[
+]+ sinθ fs sinθ −ncosθ
+[
+]
+                                              = cosθ mv2
+R
+⎛
+⎝⎜
+⎞
+⎠⎟+ sinθ mg
+(
+)
+  
+ 
+ 
+ 
+fs = mgsinθ + mv2
+R
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ
+ 
+ 
+To solve for the normal force, multiply equation [1] by –sin θ and 
+equation [2] by cos θ and add: 
+ 
+ 
+ 
+−sinθ fs cosθ −nsinθ
+[
+]+ cosθ fs sinθ −ncosθ
+[
+]
+                                              = −sinθ mv2
+R
+⎛
+⎝⎜
+⎞
+⎠⎟+ cosθ mg
+(
+)
+ 
+ 
+ 
+ 
+n = mgcosθ −mv2
+R
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ 
+ 
+In the above, we have used sin2θ + cos2θ = 1.  
+ 
+If the above equations are to be consistent, static friction and the 
+normal force must satisfy the condition fs ≤ µsn; this means 
+ 
+ 
+ 
+(mg) sin θ + (mv2 R)cos θ ≤µs[(mg) cos θ −(mv2 R)sin θ]→
+v2(cos θ + µs sin θ) ≤g R(µs cos θ −sin θ)
+ 
+ 
+Using this result, and that R = d cos θ, we have the requirement that 
+ 
+ 
+ 
+v ≤
+gdcosθ(µs cosθ −sinθ)
+(cosθ + µs sinθ)
+ 
+ 
+If this condition cannot be met, if v is too large, the physical situation 
+cannot exist. 
+ 
+The values given in the problem are d = 5.32 m, µs = 0.700, θ = 20.0°, 
+and v = 3.75 m/s. Check whether the given value of v satisfies the 
+above condition: 
+ 
+ 
+ 
+9.80 m/s2
+(
+) 5.32 m
+(
+)cos20.0° 0.700
+(
+)cos20.0° − sin20.0°
+[
+]
+cos20.0° + 0.700 sin20.0°
+(
+)
+= 3.62 m/s
+ 
+ 
+The situation is impossible because the speed of the child given
+in the problem is too large: static friction could not keep the child
+ in place on the incline.
+
+--- PAGE 29 ---
+Chapter 6     311 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.47 
+(a) 
+The speed of the bag is  
+ 
+ 
+ 
+2π 7.46 m
+(
+)
+38 s
+= 1.23 m s 
+ 
+ 
+The total force on it must add to 
+ 
+ 
+ 
+mac = mv2
+r
+= 30 kg
+(
+) 1.23 m s
+(
+)
+2
+7.46 m
+= 6.12 N
+ 
+ 
+ 
+Newton’s second law gives 
+ 
+ 
+ 
+Fx
+∑
+= max:
+fs cos20.0° −nsin20.0° = 6.12 N
+Fy
+∑
+= may:
+fs sin20.0° + ncos20.0°
+                                        −30.0 kg
+(
+) 9.80 m s2
+(
+) = 0
+ 
+ 
+ 
+Solving for the normal force gives 
+ 
+ 
+ 
+n = fs cos20.0° −6.12 N
+sin20.0°
+ 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+fs sin20.0° + fs
+cos2 20.0°
+sin20.0° −6.12 N
+(
+)cos20.0°
+sin20.0° = 294 N
+fs 2.92
+(
+) = 294 N + 16.8 N
+fs = 106 N
+ 
+ 
+(b) The speed of the bag is now  
+ 
+ 
+ 
+v = 2π 7.94 m
+(
+)
+34 s
+= 1.47 m s
+ 
+ 
+ 
+which corresponds to a total force of  
+ 
+ 
+ 
+mac = mv2
+r
+= 30 kg
+(
+) 1.47 m s
+(
+)
+2
+7.94 m
+= 8.13 N
+ 
+ 
+ 
+Newton’s second law then gives 
+ 
+ 
+ 
+fs cos20 −nsin20 = 8.13 N
+fs sin20 + ncos20 = 294 N
+ 
+ 
+ 
+Solving for n, 
+ 
+ 
+ 
+n = fs cos20.0° −8.13 N
+sin20.0°
+ 
+ANS. FIG. P6.47
+
+--- PAGE 30 ---
+312     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P6.49 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+fs sin20.0° + fs
+cos2 20.0°
+sin20.0° −8.13 N
+(
+)cos20.0°
+sin20.0° = 294 N
+fs 2.92
+(
+) = 294 N + 22.4 N
+fs = 108 N
+n = 108 N
+(
+)cos20.0° −8.13 N
+sin20.0°
+= 273 N
+µs = fs
+n = 108 N
+273 N = 0.396
+ 
+P6.48 
+When the cloth is at a lower  
+angle θ, the radial component  
+of 
+F
+∑
+= ma reads  
+ 
+ 
+n + mgsinθ = mv2
+r
+ 
+ 
+At θ = 68.0°, the normal force  
+drops  to zero and gsin68° = v2
+r : 
+ 
+ 
+v =
+rgsin68° =
+0.33 m
+(
+) 9.8 m s2
+(
+)sin68° = 1.73 m s 
+ 
+The rate of revolution is  
+ 
+angular speed = 1.73 m s
+(
+) 1 rev
+2πr
+⎛
+⎝⎜
+⎞
+⎠⎟
+2πr
+2π 0.33 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.835 rev s = 50.1 rev min
+ 
+P6.49 
+The graph in Figure 6.16b is 
+shown in ANS. FIG. P6.49. 
+ 
+(a) 
+The graph line is straight, 
+so we may use any two 
+points on it to find the 
+slope. It is convenient to 
+take the origin as one 
+point, and we read  
+(9.9 m
+2/s
+2, 0.16 N) as the 
+coordinates of another 
+point. Then the slope is
+  
+ 
+ 
+ 
+slope = 0.160 N −0
+9.9 m2 s2 = 0.016 2 kg m
+ 
+ANS. FIG. P6.48
+
+--- PAGE 31 ---
+Chapter 6     313 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) In R = 1
+2 DρAv2, we identify the vertical-axis variable as R and 
+the horizontal-axis variable as v
+2. Then the slope is  
+ 
+ 
+ 
+slope = R
+v2 =
+1
+2 DρAv2
+v2
+=
+1
+2 DρA 
+ 
+(c) 
+We follow the directions in the problem statement: 
+ 
+ 
+ 
+1
+2 DρA = 0.0162 kg m 
+ 
+ 
+ 
+D =
+2 0.0162 kg m
+(
+)
+1.20 kg m3
+(
+)π 0.105 m
+(
+)
+2 = 0.778 
+ 
+(d) From the table, the eighth point is at force  
+ 
+ 
+ 
+mg = 8 1.64 × 10−3 kg
+(
+) 9.80 m s2
+(
+) = 0.129 N  
+ 
+ 
+and horizontal coordinate (2.80 m/s)
+2. The vertical coordinate of 
+the line is here 
+ 
+ 
+ 
+0.016 2 kg m
+(
+) 2.80 m s
+(
+)
+2 = 0.127 N 
+ 
+ 
+The scatter percentage is 
+ 
+ 
+ 
+0.129 N −0.127 N
+0.127 N
+= 1.5% 
+ 
+(e) 
+The interpretation of the graph can be stated thus: 
+ 
+ 
+For stacked coffee filters falling at terminal speed, a graph 
+of air resistance force as a function of squared speed 
+demonstrates that the force is proportional to the speed 
+squared within the experimental uncertainty estimated 
+as 2%. This proportionality agrees with that described by 
+the theoretical equation R = 1
+2 DρAv2. The value of the 
+constant slope of the graph implies that the drag 
+coefficient for coffee filters is D = 0.78 ± 2%.
+
+--- PAGE 32 ---
+314     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.50 
+(a) 
+The forces acting on the ice cube are the Earth’s gravitational 
+force, straight down, and the basin’s normal force, upward and 
+inward at 35.0° with the vertical. We choose the x and y axes to be 
+horizontal and vertical, so that the acceleration is purely in the x 
+direction. Then 
+ 
+ 
+ 
+Fx = max
+∑
+:
+n sin 35° = mv2/R 
+ 
+ 
+ 
+Fy = may:
+∑
+n cos 35° −mg = 0 
+ 
+ 
+Dividing eliminates the normal force:  
+ 
+ 
+ 
+n sin 35.0° n cos 35.0° = mv2/Rmg 
+ 
+ 
+ 
+tan 35.0° = v
+2/Rg 
+ 
+ 
+ 
+v =
+Rgtan35.0° =
+6.86 m/s2
+(
+)R 
+ 
+(b) 
+The mass is unnecessary. 
+ 
+(c) 
+The answer to (a) indicates that the speed is proportional to the 
+square root of the radius, so increasing the radius will make the 
+required speed increase. 
+ 
+(d) The period of revolution is given by  
+ 
+ 
+ 
+T = 2πR
+v
+=
+2πR
+Rgtan35.0°
+= 2.40 s/ m
+(
+) R 
+ 
+ 
+When the radius increases, the period increases. 
+ 
+(e) 
+On a larger circle, the ice cube’s speed is proportional to R but
+ the distance it travels is proportional to R, so the time interval
+required is proportional to R
+R =
+R.
+ 
+P6.51 
+Take the positive x axis up the hill. Newton’s second law in the x 
+direction then gives 
+ 
+ 
+Fx
+∑
+= max:     +T sinθ −mgsinφ = ma 
+ 
+from which we obtain 
+ 
+ 
+a = T
+m sinθ −gsinφ 
+[1] 
+ 
+In the y direction, 
+ 
+ 
+Fy
+∑
+= may:     +T cosθ −mgcosφ = 0
+
+--- PAGE 33 ---
+Chapter 6     315 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the tension gives 
+ 
+ 
+T = mgcosφ
+cosθ
+ 
+[2] 
+ 
+Substituting for T from [2] into [1] gives 
+ 
+ 
+a = gcosφ sinθ
+cosθ
+−gsinφ
+a =
+g cosφ tanθ −sinφ
+(
+)
+ 
+P6.52 
+(a) 
+We first convert miles per hour to feet per second: 
+ 
+ 
+ 
+v = 300 mi h
+(
+)
+88.0 ft s
+60.0 mi h
+⎛
+⎝⎜
+⎞
+⎠⎟= 440 ft s at the top of the loop 
+and v = 450 mi/h = 660 ft/s at the bottom of the loop. 
+ 
+ 
+At the lowest point, his seat exerts an upward force; therefore, his 
+weight seems to increase. His apparent weight is 
+ 
+ 
+ 
+′
+Fg = mg + m v2
+r = 160 lb+
+160 lb
+32.0 ft/s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+660 ft/s
+(
+)
+2
+1 200 ft
+= 1 975 lb
+ 
+ 
+(b) At the highest point, the force of the seat on the pilot is directed 
+down and 
+ 
+ 
+ 
+′
+Fg = mg −m v2
+r = 160 lb−
+160 lb
+32.0 ft/s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+440 ft/s
+(
+)
+2
+1 200 ft
+= −647 lb
+ 
+ 
+ 
+Since the plane is upside down, the seat exerts this downward 
+force as a normal force. 
+ 
+(c) 
+When ′
+Fg =0, then mg = mv2
+R . If we vary the aircraft's R and v
+such that this equation is satisfied, then the pilot feels weightless.
+ 
+P6.53 
+(a) 
+The only horizontal force on the car is the force of friction,
+with a maximum value determined by the surface roughness
+(described by the coefficient of static friction) and the normal
+force (here equal to the gravitational force on the car).
+ 
+ 
+(b) From Newton’s second law in one dimension, 
+ 
+ 
+ 
+Fx = max:
+∑
+−f = ma
+→   a = −f
+m = v2 −v0
+2
+(
+) 2 x −x0
+(
+)
+
+--- PAGE 34 ---
+316     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+solving for the stopping distance gives 
+ 
+ 
+ 
+x −x0 = m v2 −v0
+2
+(
+)
+2 f
+=
+1 200 kg
+(
+) 02 −20.0 m s
+(
+)
+2
+⎡⎣
+⎤⎦
+2 −7 000 N
+(
+)
+= 34.3 m
+ 
+ 
+(c) 
+Newton’s second law now gives 
+ 
+ 
+ 
+f = mv2
+r
+ 
+ 
+ 
+or 
+r = mv2
+f
+= 1 200 kg
+(
+) 20.0 m/s
+(
+)
+2
+7 000 N
+= 68.6 m 
+ 
+ 
+A top view shows that you can avoid running into the wall by 
+turning through a quarter-circle, if you start at least this far away 
+from the wall. 
+ 
+(d) 
+Braking is better. You should not turn the wheel. If 
+you used any of the available friction force to change 
+the direction of the car, it would be unavailable to 
+slow the car, and the stopping distance would be 
+longer.
+ 
+ 
+(e) 
+The conclusion is true in general. The radius of the curve you
+can barely make is twice your minimum stopping distance.
+ 
+P6.54 
+(a) 
+Since the object of mass m2 is in equilibrium, 
+Fy
+∑
+= T −m2g = 0 
+ 
+ 
+or T = m2g . 
+ 
+(b) The tension in the string provides the required centripetal 
+acceleration of the puck. 
+ 
+ 
+Thus, Fc = T = m2g . 
+ 
+(c) 
+From Fc = m1v2
+R
+, 
+ 
+ 
+we have v =
+RFc
+m1
+=
+m2
+m1
+⎛
+⎝⎜
+⎞
+⎠⎟gR
+
+--- PAGE 35 ---
+Chapter 6     317 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P6.55 
+ 
+(d) 
+The puck will spiral inward, gaining speed as it does so. It gains 
+speed because the extra-large string tension pulls at an angle of 
+less than 90° to the direction of the inward-spiraling velocity, 
+producing forward tangential acceleration as well as inward 
+radial acceleration of the puck. 
+ 
+(e) 
+The puck will spiral outward, slowing down as it does so. 
+P6.55 
+(a) 
+The gravitational force exerted by the 
+planet on the person is 
+ 
+ 
+ 
+ 
+mg = (75.0 kg)(9.80 m/s
+2)  
+ 
+ 
+ 
+ 
+ 
+= 735 N down 
+Let n represent the force exerted on the 
+person by a scale, which is an upward 
+force whose size is her “apparent 
+weight.” The true weight is mg down. 
+For the person at the equator, summing 
+up forces on the object in the direction towards the Earth’s center 
+gives 
+F
+∑
+= ma: 
+ 
+ 
+ 
+mg − n = mac 
+ 
+ 
+ 
+where  ac = v
+2/RE = 0.033 7 m/s
+2 
+ 
+ 
+ 
+is the centripetal acceleration directed toward the center of the 
+Earth. 
+ 
+ 
+ 
+Thus, we can solve part (c) before part (b) by noting that    
+ 
+ 
+ 
+ 
+ n = m(g − ac) < mg 
+ 
+ 
+(c) 
+or mg = n + mac > n.  
+ 
+ 
+ 
+The gravitational force is greater. The normal force is smaller,
+just as one experiences at the top of a moving ferris wheel.
+ 
+ 
+ 
+(b) If m = 75.0 kg and g = 9.80 m/s
+2, at the equator we have  
+ 
+ 
+ 
+n = m(g − ac) = (75.0 kg)(9.800 m/s
+2 – 0.033 7 m/s
+2) = 732 N 
+ 
+P6.56 
+(a) 
+v = vi + kx implies the acceleration is  
+ 
+ 
+ 
+a = dv
+dt = 0 + k dx
+dt = +kv
+
+--- PAGE 36 ---
+318     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P6.57 
+ 
+(b) The total force is 
+ 
+ 
+ 
+ 
+F
+∑
+= ma = m +kv
+(
+) 
+ 
+ 
+As a vector, the force is parallel or antiparallel to the velocity: 
+ 
+ 
+ 
+
+F
+∑
+= kmv 
+ 
+(c) 
+For k positive, some feedback mechanism could be used to
+impose such a force on an object for a while. The object’s
+speed rises exponentially.
+ 
+ 
+(d) 
+For k negative, think of a duck landing on a lake, where the
+water exerts a resistive force on the duck proportional to its
+speed.
+ 
+P6.57 
+(a) 
+As shown in the free-body diagram on the right, the mass at the 
+end of the chain is in vertical equilibrium. Thus,  
+ 
+ 
+ 
+T cosθ = mg 
+[1] 
+Horizontally, the mass is accelerating  
+toward the center of a circle of radius r: 
+ 
+T sinθ = mar = mv2
+r
+ 
+[2] 
+Here, r is the sum of the radius of the  
+circular platform R = D/2 = 4.00 m  
+and 2.50 sinθ :   
+ 
+ 
+ 
+ 
+r = 2.50sinθ + 4.00
+(
+) m
+r = 2.50sin28.0° + 4.00
+(
+) m
+= 5.17 m
+ 
+ 
+ 
+We solve for the tension T from [1]: 
+ 
+ 
+ 
+T cosθ = mg →T = mg
+cosθ
+ 
+ 
+ 
+and substitute into [2] to obtain  
+ 
+ 
+ 
+tanθ = ar
+g = v2
+gr
+ 
+ 
+ 
+ 
+v2 = gr tanθ = 9.80 m/s2
+(
+) 5.17 m
+(
+) tan28.0°
+(
+) 
+ 
+ 
+ 
+v = 5.19 m/s
+
+--- PAGE 37 ---
+Chapter 6     319 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P6.59 
+ 
+(b) The free-body diagram for the child is shown in ANS. FIG. P6.57.  
+ 
+(c) 
+T = mg
+cosθ =
+40.0 kg
+(
+) 9.80 m s2
+(
+)
+cos28.0°
+= 444 N 
+P6.58 
+(a) 
+The putty, when dislodged, rises and returns to the original level 
+in time t. To find t, we use vf = vi + at: i.e., –v = + v – gt or t = 2v
+g , 
+where v is the speed of a point on the rim of the wheel. 
+ 
+ 
+If R is the radius of the wheel, v = 2πR
+t
+, so t = 2v
+g = 2πR
+v
+. 
+ 
+ 
+Thus, v2 = πRg and v =
+πRg . 
+ 
+(b) The putty is dislodged when F, the force holding it to the wheel, 
+is  
+ 
+ 
+ 
+F = mv2
+R
+= mπ g 
+P6.59 
+(a) 
+The wall’s normal force pushes inward: 
+ 
+ 
+ 
+ 
+Finward
+∑
+= mainward
+  
+ 
+ 
+ 
+becomes 
+ 
+ 
+ 
+ 
+ 
+n = mv2
+R
+= m
+R
+2πR
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4π 2Rm
+T 2
+ 
+ 
+ 
+The friction and weight balance:  
+ 
+ 
+ 
+Fupward
+∑
+= maupward
+ 
+ 
+ 
+becomes 
+ 
+ 
++f – mg = 0  
+ 
+ 
+so with the person just ready to start sliding down,     
+ 
+ 
+ 
+fs = μsn = mg 
+ 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+ 
+ 
+µsn = µs
+4π 2Rm
+T 2
+= mg  
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+ 
+ 
+T 2 = 4π 2Rµs
+g
+
+--- PAGE 38 ---
+320     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+gives 
+ 
+ 
+ 
+ 
+ 
+T =
+4π 2Rµs
+g
+ 
+ 
+(b) 
+The gravitational and friction forces 
+remain constant. (Static friction adjusts 
+to support the weight.) The normal
+force increases. The person remains in 
+motion with the wall.
+ 
+ 
+ 
+(c) 
+The gravitational force remains constant. 
+The normal and friction forces decrease. 
+The person slides relative to the wall and 
+downward into the pit.
+ 
+P6.60 
+(a) 
+t(s) 
+d (m) 
+t(s) 
+d (m) 
+ 1.00 
+4.88 
+ 11.0 
+399 
+ 2.00 
+18.9 
+ 12.0 
+452 
+ 3.00 
+42.1 
+ 13.0 
+505 
+ 4.00 
+43.8 
+ 14.0 
+558 
+ 5.00 
+112 
+ 15.0 
+611 
+ 6.00 
+154 
+ 16.0 
+664 
+ 7.00 
+199 
+ 17.0 
+717 
+ 8.00 
+246 
+ 18.0 
+770 
+ 9.00 
+296 
+ 19.0 
+823 
+ 10.0 
+347 
+ 20.0 
+876
+
+--- PAGE 39 ---
+Chapter 6     321 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P6.61 
+ 
+(b) 
+ 
+ 
+(c) 
+A straight line fits the points from t = 11.0 s to 20.0 s quite 
+precisely. Its slope is the terminal speed. 
+ 
+ 
+ 
+vT = slope = 876 m −399 m
+20.0 s −11.0 s = 53.0 m s 
+P6.61 
+(a) 
+If the car is about to slip down the incline, f is directed up the 
+incline. 
+ 
+ 
+ 
+Fy
+∑
+= ncosθ + f sinθ −mg = 0  
+ 
+ 
+where f = µsn. Substituting,  
+ 
+ 
+ 
+n =
+mg
+cosθ 1+ µs tanθ
+(
+)  
+ 
+ 
+and f =
+µsmg
+cosθ 1+ µs tanθ
+(
+)
+ 
+ 
+ 
+Then, 
+Fx
+∑
+= nsinθ −f cosθ = m vmin
+2
+R 
+yields 
+ 
+ 
+ 
+vmin =
+Rg tanθ −µs
+(
+)
+1+ µs tanθ
+ 
+When the car is about to slip up the 
+incline, f is directed down the incline.
+
+--- PAGE 40 ---
+322     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Then, 
+ 
+ 
+ 
+Fy
+∑
+= ncosθ −f sinθ −mg = 0,  with f = µsn 
+ 
+ 
+This yields 
+ 
+ 
+ 
+n =
+mg
+cosθ 1−µs tanθ
+(
+)
+  and  f =
+µsmg
+cosθ 1−µs tanθ
+(
+)
+ 
+ 
+ 
+In this case, 
+Fx
+∑
+= nsinθ + f cosθ = m vmax
+2
+R
+, which gives 
+ 
+ 
+ 
+vmax =
+Rg tanθ + µs
+(
+)
+1−µs tanθ
+ 
+ 
+(b) If vmin =
+Rg tanθ −µs
+(
+)
+1+ µs tanθ
+= 0 , then µs = tanθ . 
+P6.62 
+There are three forces on the child, a vertical normal force, 
+a horizontal force (combination of friction and a horizontal 
+force from a seat belt), and gravity. 
+ 
+ 
+ 
+Fx:
+Fs = mv2 R
+∑
+ 
+ 
+ 
+ 
+Fy:
+n−mg = 0 →n = mg
+∑
+ 
+ 
+The magnitude of the net force is 
+ 
+ 
+ 
+Fnet =
+mv2 R
+(
+)
+2 + mg
+(
+)
+2  
+ 
+with a direction of 
+ 
+ 
+ 
+θ = tan−1
+mg
+mv2 R
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= tan−1 gR
+v2
+⎡
+⎣⎢
+⎤
+⎦⎥ above the horizontal 
+ 
+For m = 40.0 kg and R = 10.0 m: 
+ 
+ 
+ 
+Fnet =
+40.0 kg
+(
+) 3.00 m/s
+(
+)
+2
+10.0 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
++
+40.0 kg
+(
+) 9.80 m/s2
+(
+)
+⎡⎣
+⎤⎦
+2 
+ 
+ 
+ 
+Fnet = 394 N 
+ 
+direction:  θ = tan−1
+9.80 m/s2
+(
+) 10.0 m
+(
+)
+3.00 m/s
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+→
+θ = 84.7° 
+ANS. FIG. P6.62
+
+--- PAGE 41 ---
+Chapter 6     323 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P6.63 
+P6.63 
+The plane’s acceleration is toward the 
+center of the circle of motion, so it is 
+horizontal.  The radius of the circle of 
+motion is (60.0 m) cos 20.0° = 56.4 m and 
+the acceleration is 
+ 
+ 
+ 
+ac = v2
+r = 35 m s
+(
+)
+2
+56.4 m
+= 21.7 m s2
+ 
+ 
+We can also calculate the weight of the 
+airplane:  
+ 
+ 
+ 
+Fg = mg  
+ 
+ 
+ 
+= (0.750 kg)(9.80 m/s
+2)  
+ 
+ 
+ 
+= 7.35 N 
+ 
+We define our axes for convenience. In this case, two of the forces—
+one of them our force of interest—are directed along the 20.0° line. We 
+define the x axis to be directed in the +
+
+T direction, and the y axis to be 
+directed in the direction of lift. With these definitions, the x component 
+of the centripetal acceleration is  
+ 
+ 
+ 
+acx = ac cos 20.0° 
+ 
+and  
+∑Fx = max   yields T + Fg sin 20.0° = macx  
+ 
+Solving for T, 
+ 
+ 
+ 
+ 
+ 
+T = macx − Fg sin 20.0° 
+ 
+Substituting, 
+ 
+ 
+ 
+ 
+T = (0.750 kg)(21.7 m/s
+2) cos 20.0° − (7.35 N) sin 20.0° 
+ 
+Computing, 
+ 
+ 
+ 
+ 
+T = 15.3 N − 2.51 N = 12.8 N 
+*P6.64 
+(a) 
+While the car negotiates the curve, the 
+accelerometer is at the angle θ. 
+ 
+ 
+Horizontally: 
+T sinθ = mv2
+r
+ 
+ 
+ 
+Vertically: 
+T cosθ = mg 
+ 
+ 
+where r is the radius of the curve, and v is the 
+speed of the car.  
+r
+r
+r
+ANS. FIG. P6.64
+
+--- PAGE 42 ---
+324     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+By division, 
+tanθ = v2
+rg 
+ 
+ 
+Then  
+ 
+ 
+ 
+ac = v2
+r = gtanθ: 
+ 
+ 
+ 
+ 
+ac = 9.80 m s2
+(
+)tan15.0° 
+ 
+ 
+ 
+ac = 2.63 m/s2 
+ 
+(b) 
+r = v2
+ac
+ gives  
+r = 23.0 m/s
+(
+)2
+2.63 m/s2 = 201 m 
+ 
+(c) 
+v2 = rgtanθ = 201 m
+(
+) 9.80 m s2
+(
+)tan9.00° 
+ 
+ 
+ 
+v = 17.7 m/s 
+ 
+ 
+ 
+Challenge Problems 
+P6.65 
+We find the terminal speed from 
+ 
+ 
+ 
+v =
+mg
+b
+⎛
+⎝⎜
+⎞
+⎠⎟1−exp −bt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥  
+[1] 
+ 
+where exp(x) = e
+x is the exponential function. 
+ 
+At t →∞:  
+v →vT = mg
+b 
+ 
+At t = 5.54 s: 
+0.500vT = vT 1−exp −b 5.54 s
+(
+)
+9.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+Solving, 
+ 
+ 
+ 
+exp −b 5.54 s
+(
+)
+9.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.500
+−b 5.54 s
+(
+)
+9.00 kg
+= ln0.500 = −0.693
+b = 9.00 kg
+(
+) 0.693
+(
+)
+5.54 s
+= 1.13 kg s
+
+--- PAGE 43 ---
+Chapter 6     325 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+From vT = mg
+b , we have 
+ 
+ 
+ 
+vT =
+9.00 kg
+(
+) 9.80 m s2
+(
+)
+1.13 kg s
+= 78.3 m s 
+ 
+(b) We substitute 0.750vT on the left-hand side of equation [1]: 
+ 
+ 
+ 
+0.750vT = vT 1−exp −1.13t
+9.00 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥     
+ 
+ 
+and solve for t: 
+ 
+ 
+ 
+exp −1.13t
+9.00 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.250 
+ 
+ 
+ 
+t = 9.00 ln0.250
+(
+)
+−1.13
+ s = 11.1 s 
+ 
+(c) 
+We differentiate equation [1] with respect to time, 
+ 
+ 
+ 
+dx
+dt =
+mg
+b
+⎛
+⎝⎜
+⎞
+⎠⎟1−exp −bt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥  
+ 
+ 
+then, integrate both sides 
+ 
+ 
+ 
+dx
+x0
+x
+∫
+=
+mg
+b
+⎛
+⎝⎜
+⎞
+⎠⎟1−exp −bt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥dt
+0
+t
+∫
+ 
+ 
+ 
+ 
+x −x0 = mgt
+b
++ m2g
+b2
+⎛
+⎝⎜
+⎞
+⎠⎟exp −bt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+t
+= mgt
+b
++ m2g
+b2
+⎛
+⎝⎜
+⎞
+⎠⎟exp −bt
+m
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+At t = 5.54 s, 
+ 
+ 
+x = 9.00 kg
+(
+) 9.80 m s2
+(
+)
+5.54 s
+1.13 kg s
+⎛
+⎝⎜
+⎞
+⎠⎟
+               +
+9.00 kg
+(
+)
+2 9.80 m s2
+(
+)
+1.13 kg s
+(
+)
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟exp −0.693
+(
+)−1
+[
+]
+x = 434 m + 626 m −0.500
+(
+) = 121 m
+
+--- PAGE 44 ---
+326     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.66 
+(a) 
+From Problem 6.33, 
+ 
+ 
+ 
+v = dx
+dt =
+vi
+1+ vikt
+dx
+0
+x
+∫
+=
+vi
+dt
+1+ vikt
+0
+t
+∫
+= 1
+k
+vikdt
+1+ vikt
+0
+t
+∫
+x 0
+x = 1
+k ln 1+ vikt
+(
+) 0
+t
+x −0 = 1
+k ln 1+ vikt
+(
+) −ln1
+⎡⎣
+⎤⎦
+x = 1
+k ln 1+ vikt
+(
+)
+ 
+ 
+(b) We have ln 1+ vikt
+(
+) = kx 
+ 
+ 
+ 
+1+ vikt = ekx   so   v =
+vi
+1+ vikt = vi
+ekx = vie−kx = v
+    
+P6.67 
+Let the x axis point eastward, the y axis upward, and the z axis point 
+southward. 
+ 
+(a) 
+The range is Z = vi
+2 sin2θi
+g
+ 
+ 
+ 
+The initial speed of the ball is therefore 
+ 
+ 
+ 
+vi =
+gZ
+sin2θi
+=
+9.80 m/s2
+(
+) 285 m
+(
+)
+sin96.0°
+= 53.0 m/s
+ 
+ 
+ 
+The time the ball is in the air is found from Δy = viyt + 1
+2 ayt2 as 
+0 = 53.0 m s
+(
+) sin 48.0°
+(
+)t −4.90 m s2
+(
+)t2 
+ 
+ 
+giving t = 8.04 s . 
+ 
+(b) 
+vxi = 2πRe cosφi
+86 400 s
+= 2π 6.37 × 106 m
+(
+)cos35.0°
+86 400 s
+= 379 m s 
+ 
+(c) 
+360° of latitude corresponds to a distance of 2πRe, so 285 m is a 
+change in latitude of 
+ 
+ 
+ 
+Δφ =
+S
+2πRe
+⎛
+⎝⎜
+⎞
+⎠⎟360°
+(
+) =
+285 m
+2π 6.37 × 106 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟360°
+(
+)
+= 2.56 × 10−3 degrees
+
+--- PAGE 45 ---
+Chapter 6     327 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The final latitude is then  
+ 
+ 
+ 
+φ f = φi −Δφ = 35.0° −0.002 56° = 34.997 4° 
+ 
+ 
+The cup is moving eastward at a speed  
+ 
+ 
+ 
+vxf = 2πRe cosφ f
+86 400 s
+ 
+ 
+ 
+which is larger than the eastward velocity of the tee by 
+ 
+ 
+ 
+Δvx = vxf −vxi =
+2πRe
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟cosφ f −cosφi
+⎡⎣
+⎤⎦
+=
+2πRe
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟cos φ −Δφ
+(
+)−cosφi
+⎡⎣
+⎤⎦
+=
+2πRe
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟cosφi cosΔφ + sinφi sin Δφ −cosφi
+[
+]
+ 
+ 
+ 
+Since Δφ is such a small angle, cosΔφ ≈1 and  
+ 
+ 
+ 
+Δvx ≈
+2πRe
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟sinφi sin Δφ
+ 
+ 
+ 
+ 
+Δvx ≈2π 6.37 × 106 m
+(
+)
+86 400 s
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+sin35.0°sin0.002 56°
+= 1.19 × 10−2 m s
+ 
+ 
+(d) 
+Δx = Δvx
+(
+)t = 1.19 × 10−2 m s
+(
+) 8.04 s
+(
+) = 0.095 5 m = 9.55 cm 
+P6.68 
+(a) 
+We let R represent the radius of the hoop and T represent the 
+period of its rotation. The bead moves in a circle with radius 
+r = Rsinθ at a speed of 
+ 
+ 
+ 
+v = 2πr
+T
+= 2πRsinθ
+T
+ 
+ 
+ 
+The normal force has an inward radial  
+component of n sinθ and an upward component  
+of n cosθ . 
+ 
+ 
+ 
+Fy
+∑
+= may:
+ncosθ −mg = 0 
+ 
+ 
+or 
+ 
+ 
+ 
+n = mg
+cosθ
+ 
+ANS. FIG. P6.68
+
+--- PAGE 46 ---
+328     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then 
+Fx
+∑
+= nsinθ = m v2
+r  becomes  
+mg
+cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ =
+m
+Rsinθ
+2πRsinθ
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+which reduces to gsinθ
+cosθ = 4π 2Rsinθ
+T 2
+ 
+ 
+ 
+This has two solutions: sinθ = 0      ⇒     θ = 0° 
+[1] 
+ 
+ 
+and cosθ = gT 2
+4π 2R 
+[2] 
+ 
+ 
+If R = 15.0 cm and T = 0.450 s, the second solution yields 
+ 
+ 
+ 
+cosθ =
+9.80 m s2
+(
+) 0.450 s
+(
+)
+2
+4π 2 0.150 m
+(
+)
+= 0.335   or   θ = 70.4° 
+ 
+ 
+Thus, in this case, the bead can ride at two positions: θ = 70.4° 
+and θ = 0° . 
+ 
+(b) At this slower rotation, solution [2] above becomes 
+ 
+ 
+ 
+cosθ =
+9.80 m s2
+(
+) 0.850 s
+(
+)
+2
+4π 2 0.150 m
+(
+)
+= 1.20 , which is impossible. 
+ 
+ 
+In this case, the bead can ride only at the bottom of the loop, 
+θ = 0° . 
+ 
+(c) 
+There is only one solution for (b) because the period is too large. 
+ 
+(d) 
+The equation that the angle must satisfy has two solutions
+whenever 4π 2R > gT 2 but only the solution 0° otherwise.
+The loop’s rotation must be faster than a certain threshold
+value in order for the bead to move away from the lowest
+position. Zero is always a solution for the angle.
+ 
+ 
+(e) 
+From the derivation of the solution in (a), there are never more
+than two solutions.
+ 
+P6.69 
+At terminal velocity, the accelerating force of gravity is balanced by 
+friction drag: 
+ 
+ 
+ 
+mg = arv + br2v2
+
+--- PAGE 47 ---
+Chapter 6     329 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+With r = 10.0 µm, mg = 3.10 × 10−9
+(
+)v + 0.870 × 10−10
+(
+)v2 
+ 
+ 
+For water, m = ρV = 1 000 kg m3 4
+3 π 10−5 m
+(
+)
+3
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+ 
+mg = 4.11× 10−11 = 3.10 × 10−9
+(
+)v + 0.870 × 10−10
+(
+)v2 
+ 
+ 
+Assuming v is small, ignore the second term on the right hand 
+side: v = 0.013 2 m/s 
+ 
+(b) With r = 100 µm, mg = 3.10 × 10−8
+(
+)v + 0.870 × 10−8
+(
+)v2 
+ 
+ 
+Here we cannot ignore the second term because the coefficients 
+are of nearly equal magnitude. 
+ 
+ 
+ 
+mg = 4.11× 10−8 = 3.10 × 10−8
+(
+)v + 0.870 × 10−8
+(
+)v2 
+ 
+ 
+Taking the positive root, 
+ 
+ 
+ 
+v = −3.10 +
+3.10
+(
+)
+2 + 4 0.870
+(
+) 4.11
+(
+)
+2 0.870
+(
+)
+= 1.03 m s
+ 
+ 
+(c) 
+With r = 1.00 mm, mg = 3.10 × 10−7
+(
+)v + 0.870 × 10−6
+(
+)v2 
+ 
+ 
+Assuming v > 1 m/s, and ignoring the first term: 
+ 
+ 
+4.11× 10−5 = 0.870 × 10−6
+(
+)v2      v = 6.87 m s 
+P6.70 
+At a latitude of 35°, the centripetal acceleration of a plumb bob is 
+directed at 35° to the local normal, as can be seen from the following 
+diagram below at left. 
+ 
+Therefore, if we look at a diagram of the forces on the plumb bob and 
+its acceleration with the local normal in a vertical orientation, we see 
+the second diagram in ANS. FIG. P6.70:
+
+--- PAGE 48 ---
+330     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P6.70 
+ 
+We first find the centripetal acceleration of the plumb bob. The first 
+figure shows that the radius of the circular path of the plumb bob is  
+R cos 35.0°, where R is the radius of the Earth. The acceleration is 
+ 
+ 
+ 
+ac =  v2
+r  = 1
+r
+2πr
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ =  4π 2r
+T 2  =  4π 2Rcos35.0°
+T 2
+    =   4π 2 6.37 × 106 m
+(
+)cos35.0°
+86 400 s
+(
+)
+2
+ = 0.027 6 m/s2
+ 
+ 
+Apply the particle under a net force model to the plumb bob in both x 
+and y directions in the second diagram: 
+ 
+ 
+ 
+x:  T sinφ = mac sin35.0°
+y:  mg − T cosφ = mac cos35.0°
+ 
+ 
+Divide the equations: 
+ 
+ 
+ 
+tanφ = 
+ac sin35.0°
+g − ac cos35.0° 
+ 
+ 
+ 
+tanφ = 
+0.027 6 m/s2
+(
+)sin35.0°
+9.80 m/s2 −  0.027 6 m/s2
+(
+)cos35.0° = 1.62 ×10−3
+ 
+ 
+ 
+ 
+φ = tan−1 1.62 × 10−3
+(
+) =  0.092 8°
+
+--- PAGE 49 ---
+Chapter 6     331 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P6.2 
+(a) 1.65 × 10
+3 m/s; (b) 6.84 × 10
+3 s 
+P6.4 
+215 N, horizontally inward 
+P6.6 
+(a) −0.233ˆi + 0.163ˆj
+(
+) m/s2 ; (b) 6.53 m/s, −0.181ˆi + 0.181ˆj
+(
+) m/s2 
+P6.8 
+(a) 68.6 N
+(
+)ˆi + 784 N
+(
+)ˆj; (b) a = 0.857 m/s
+2 
+P6.10 
+The situation is impossible because the speed of the object is too small, 
+requiring that the lower string act like a rod and push rather than like 
+a string and pull. 
+P6.12 
+(a) the gravitational force and the contact force exerted on the water by 
+the pail; (b) contact force exerted by the pail; (c) 3.13 m/s; (d) the water 
+would follow the parabolic path of a projectile 
+P6.14 
+(a) 4.81 m/s; (b) 700 N 
+P6.16 
+(a) 2.49 × 10
+4 N; (b) 12.1 m/s 
+P6.18 
+(a) 20.6 N; (b) 32.0 m/s
+2 inward, 3.35 m/s
+2 downward tangent to the 
+circle; (c) 32.2 m/s
+2 inward and below the cord at 5.98˚; (d) no change; 
+(e) acceleration is regardless of the direction of swing 
+P6.20 
+(a) 3.60 m/s
+2; (b) T = 0; (c) noninertial observer in the car claims that 
+the forces on the mass along x are T and a fictitious force (−Ma); (d) 
+inertial observer outside the car claims that T is the only force on M in 
+the x direction 
+P6.22 
+93.8 N 
+P6.24 
+2 vt −L
+(
+)
+g + a
+(
+)t2 
+P6.26 
+(a) 53.8 m/s; (b) 148 m 
+P6.28 
+(a) 6.27 m/s
+2 downward; (b) 784 N directed up; (c) 283 N upward 
+P6.30 
+(a) 32.7 s–1; (b) 9.80 m/s
+2 down; (c) 4.90 m/s
+2 down 
+P6.32 
+36.5 m/s   
+P6.34 
+(a) 2.03 N down; (b) 3.18 m/s
+2 down; (c) 0.205 m/s down 
+P6.36 
+10
+1 N 
+P6.38 
+1.2 × 10
+3 N 
+P6.40 
+(a) 1.15 × 10
+4 N up; (b) 14.1 m/s 
+P6.42 
+See Problem 6.42 for full derivation.
+
+--- PAGE 50 ---
+332     Circular Motion and Other Applications of Newton’s Laws 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P6.44 
+(a) 217 N; (b) 283 N; (c) T2 > T1 always, so string 2 will break first 
+P6.46 
+The situation is impossible because the speed of the child given in the 
+problem is too large: static friction could not keep the child in place on 
+the incline 
+P6.48 
+0.835 rev/s 
+P6.50 
+(a) v =
+Rgtan35.0° =
+6.86 m/s2
+(
+)R ; (b) the mass is unnecessary;  
+(c) increasing the radius will make the required speed increase; (d) 
+when the radius increases, the period increases; (e) the time interval 
+required is proportional to R/
+R =
+R 
+P6.52 
+(a) 1 975 lb; (b) −647 lb; (c) When ′
+Fg = 0, then mg = mv2
+R . 
+P6.54 
+(a) m2g; (b) m2g; (c) 
+m2
+m1
+⎛
+⎝⎜
+⎞
+⎠⎟gR ; (d) The puck will spiral inward, gaining 
+speed as it does so; (e) The puck will spiral outward, slowing down as 
+it does so 
+P6.56 
+(a) a = +kv; (b) 
+
+F
+∑
+= kmv ; (c) some feedback mechanism could be used 
+to impose such a force on an object; (d) think of a duck landing on a 
+lake, where the water exerts a resistive force on the duck proportional 
+to its speed 
+P6.58 
+(a) πRg ; (b) mπ g 
+P6.60 
+(a) See table in P6.60 (a); (b) See graph in P6.60 (b); (c) 53.0 m/s 
+P6.62 
+84.7° 
+P6.64 
+(a) 2.63 m/s2; (b) 201 m; (c) 17.7 m/s 
+P6.66 
+(a) x = 1
+k ln 1+ vikt
+(
+); (b) v = vie−kx 
+P6.68 
+(a) θ  = 70.4° and θ = 0°; (b) θ = 0°; (c) the period is too large; (d) Zero 
+is always a solution for the angle; (e) there are never more than two 
+solutions 
+P6.70 
+0.092 8°

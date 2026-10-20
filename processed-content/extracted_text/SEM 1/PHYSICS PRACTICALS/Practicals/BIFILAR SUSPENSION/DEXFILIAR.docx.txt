@@ -1,0 +1,46 @@
+SM/SMS/10/0005						22ND October, 2010
+EXPERIMENT 6	                                                           GROUP 20
+TITLE:  EXPERIMENT WITH A BIFILAR SUSPENSION
+AIM: (i) To draw a graph showing the relation between the time for small rotational                                       oscillation and the distance between the threads.  
+ 	 (ii) To suspend two vertical threads arranged symmetrically.
+APPARATUS: Meter rule (, cotton thread, two retort stands and a stop watch (.
+DIAGRAM:
+METHOD
+A loop of thread was tied at both ends of the meter rule .The rule was suspended from two clamps at each end. The lengths of the threads were adjusted until they were equal. The loop of thread was put 1cm from each end of the rule and set  into vertical oscillation through a small angle .The time taken for 20 oscillations was recorded for the length of 98cm(the horizontal distance between the loops of thread). The timing was repeated and recorded The loops of thread was pushed a further  2cm from both ends to get a distance of 94cm between the loops of thread and the time taken for 20 oscillations was recorded . The timing was repeated and recorded. The experiment was repeated for three other distances between the loops by each time moving the loops of thread 2cm from both ends. The timings were recorded in each case.
+THEORY
+The meter rule swings through a small angle, φ. The tension in each thread is F, the vertical and horizontal components of F are:
+                                Vertical component: F cos φ.
+                               Horizontal component:  F sin φ .
+The suspended rule is also displaced through a small angle Ө (the length of the rule is taken to be d).Hence if m is the mass of the meter rule, then from Newton’s second law of motion, the total horizontal force is equal to:
+2Fcosφ =mg
+For small angles: 2F=mg,       F  mg/2
+ Also the restoring couple =F sin φ*d=1/2 mg* φ *d. 
+Now for small angles 1/2dθ=l φ.
+Therefore,      
+The equation of motion is therefore       
+Where l is the moment of inertia about the vertical axis through the centre of gravity and Ö is the angular acceleration. The motion is thus a simple harmonic motion and the period is: 
+Dividing through by 2,     log T                     
+The above equation is compared to the equation of a straight line, it seen that it has a gradient of -1.
+TABLE OF RESULTS
+GRAPH OF Log t AGAINST Log d 
+DISCUSSION
+From the table of results, it can be seen that a decrease in distance, d caused an increase in time, t. Also from the graph, it was noticed that log d increased as log t decreased. This means that the period of oscillation depends on the distance between the two loops of thread and it implies that the period of oscillation is inversely proportional to the distance between the loops. The period can also be said to depend on the lengths of the thread to the clamps. During oscillations it was realized that whenever the angle at which the rule was displaced was large, the value of t also increased.  The graph had a slope of – 1.2. The differences in the values might be due to errors in equipments and air resistances in the laboratory.
+SOURCES OF ERROR
+Error may be due to the presence of air resistance that affected the outcome of the experiment by forcing the meter rule into elliptical oscillation.
+xThe little difference between the heights of the two loops of thread also affected the experiment.
+The center of gravity of the meter rule may not have been on the 50th mark therefore distorting the equilibrium of the set-up.
+PRECAUTION
+It was ensured that the meter rule was displaced through a small angle so that its effect on the period was infinitely small.
+It was ensured that the meter rule was released gently from its displaced position to attain free oscillations rather than subjecting it to forced oscillation.
+It was ensured that the d measured was equal to the distance between the two clamps of the retort stand for each new experiment. 
+CONCLUSION
+ From the experiment, it was observed that the time for rotational oscillation depends on the distance d between the threads and this was represented on the graph. The graph was a straight line with a positive intercept of 1.99 and a slope of -1.2. Also, the meter rule was successfully suspended by the two vertical threads arranged horizontally.
+REFERENCES
+Serway Raymond A. (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, and Forth Worth, U.S.A. Pages 425-430.
+Nelkon M. and Parker P. (1995); Advanced Level Physics, Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 711.
+d/cm | Log d | t1/s1 | t2/s2 | t/s | T(=t/20)/s | Log t
+98.0 | 1.991 | 18.91 | 18.85 | 18.88 | 0.994 | 1.276
+94.0 | 1.973 | 19.47 | 19.75 | 19.61 | 0.980 | 1.292
+90.0 | 1.954 | 20.59 | 20.72 | 20.65 | 1.032 | 1.315
+86.0 | 1.934 | 21.28 | 21.22 | 21.25 | 1.063 | 1.327
+   82.0 | 1.914 | 23.03 | 23.32 | 23.18 | 1.159 | 1.365

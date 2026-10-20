@@ -1,0 +1,42 @@
+EXPERIMENT 8
+TITLE: REFRACTION OF LIGHT
+AIM: To determine the refractive index of a glass block using Snell’s law
+APPARATUS:
+One glass block
+Four optical pins
+A protractor
+A pair of compass
+An A4 drawing paper
+Set square
+DIAGRAM:
+THEORY:
+Refraction is a phenomenon where there is a change in direction and velocity of light when  light travelling in a transparent medium enters another transparent medium of different index of the two media. The refractive index a glass is constant which density. For the first law of refraction, it states that ‘the incident ray, the refracted ray and the normal at the point of incidence all lie in the same plane’ and the second law which is Snell’s law states that the ratio of the sine of the angle of incidence in one medium to the sine of the angle of refraction in another medium is constant for two media. The constant is called the refractive 1.5.
+METHOD:
+The glass block was placed on the white sheet of paper which has been pinned on the drawing board. The edges of the glass block were traced and the corners were labeled ABCD as shown in the diagram. The normal NOM was drawn. An angle of incidence of 20◦ and two pins P1 and P2 were pushed into the paper along the line to represent the incident ray. The glass block was carefully replaced. The glass was looked through along the side CD to find the images P1 and P2. While looking, the pins P3 and P4 were pushed so that they were in a straight line with the images of P1 and P2. The glass block was removed and P3 and P4 were joined, it was produced to meet the side CD to meet at Z. This was the emergent ray. Z and O were joined (the point of mergence and point of incidence). This represented the refracted ray. With the centre O and a suitable radius, a circle was drawn cutting the incident and the refracted rays R and Q respectively. With set squares, perpendiculars RP and QS were drawn onto the normal NOM. RP and QS were measured and recorded onto the normal NOM. RP, QS and refraction r were measured and recorded.
+TABLE OF RESULTS:
+Radius of circle=cm
+GRAPH:
+CALCULATIONS:
+From the graph, the slope is 1.41. The slope represents the refractive index. Thus the refractive index is 1.41
+GRAPH 2:
+CALCULATIONS:
+From the graph, the slope is 1.41. The slope represents the refractive index. Therefore, the refractive index is 1.41.
+DISCUSSIONS:
+From the experiment, it was observed that as RP increases, QS decreases. Thus RP is inversely proportional to QS. It was also observed that as Y increases, tan r also increased. Thus Y is directly proportional to tan r.  
+CONCLUSION:
+The refractive index of the glass block has been determined to be 1.41. The difference between this and that of the actual refractive index which is 1.5 is 0.9. The difference was due to errors made in the lab. This then can be said to be in accordance to Snell’s law.
+SOURCES OF ERROR:
+Errors may have been due to bent pins.
+PRECAUTIONS:
+The optical pins were placed erect.
+The distance between the optical pins was at least 5cm.
+There was no parallax between the pins.
+REFERENCES:
+A.F ABBOTT, C. PHYS., F. INST. P. FIFTH EDITION 1989.  AUTHOR: SIR JOHN COCKCROFT, O.M., F.R.S. PG. 251- 253.
+www.wikipedia.com
+i/◦ | Y/mm | r/◦ | Tan r | RP/cm | QS/mm
+20.0 | 14 | 13.0 | 0.231 | 13 | 9
+40.0 | 31 | 26.0 | 0.477 | 24 | 12
+50.0 | 37 | 31.0 | 0.601 | 29 | 19
+60.0 | 44 | 35.0 | 0.700 | 32 | 21
+70.0 | 51 | 39.0 | 0.810 | 35 | 24

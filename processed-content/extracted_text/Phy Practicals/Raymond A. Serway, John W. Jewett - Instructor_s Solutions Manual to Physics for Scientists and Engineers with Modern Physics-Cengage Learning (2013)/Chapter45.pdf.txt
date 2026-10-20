@@ -1,0 +1,5846 @@
+
+--- PAGE 1 ---
+1146 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+45 
+Applications of Nuclear Physics 
+ 
+CHAPTER OUTLINE 
+ 
+45.1  
+Interactions Involving Neutrons 
+45.2  
+Nuclear Fission 
+45.3  
+Nuclear Reactors 
+45.4 
+Nuclear Fusion 
+45.5  
+Radiation Damage 
+45.6 
+Uses of Radiation 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ45.1 
+Answer (c). We compute the change in mass number A: 235 + 1 – 137 
+– 96 = 3. All the protons that start out in the uranium nucleus end up 
+in the fission product nuclei. 
+OQ45.2 
+Answer (d). The best particles to trigger a fission reaction of the 
+uranium nuclei are slow moving neutrons. Fast moving neutrons 
+may not stay in close proximity with a uranium nucleus long enough 
+to have a good probability of being captured by the nucleus so that a 
+reaction can occur. Positively charged particles, such as protons and 
+alpha particles, have difficulty approaching the target nuclei because 
+of Coulomb repulsion. 
+OQ45.3 
+Answer (c). The total energy released was  
+ 
+ 
+E = (17 × 103 ton) 4.2 × 109 J 1 ton
+(
+) = 7.1× 1013 J 
+ 
+and according to the mass-energy equivalence, the mass converted 
+was  
+ 
+ 
+m = E
+c2 =
+7.1× 1013 J
+3.00 × 108 m s
+(
+)
+2 = 7.9 × 10−4 kg = 0.79 g 1 g
+
+--- PAGE 2 ---
+Chapter 45     1147 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ45.4 
+The ranking is (b) > (c) > (a) > (d). See Table 45.1 for the RBE factors. 
+Dose (a) is 1 rem. Dose (b) is (1 rad × 10) = 10 rem. Doses (c) and (d) 
+are (1 rad × 4 or 5) = 4 to 5 rem, but dose (d) is to the hands only (less 
+mass has absorbed the radiation). If we assume that (a) and (b) as 
+well as (c) were whole-body doses to many kilograms of tissue (more 
+mass has absorbed the radiation), we find the ranking stated. 
+OQ45.5 
+Answer (c). The function of the moderator is to slow down the 
+neutrons released by one fission so that they can efficiently cause 
+more fissions. 
+OQ45.6 
+The ranking is Q1 > Q2 > Q3 > 0. Because all of the reactions involve 
+108 nucleons, we can look just at the change in binding-energy-per-
+nucleon as shown on the curve of binding energy. The jump from 
+lithium to carbon is the biggest jump (~ 5.4 → 7.7 MeV), and next the 
+jump from A = 27 to A = 54 (~ 8.3 → 8.8 MeV), which is near the peak 
+of the curve. The step up for fission from A = 108 to A = 54 (~ 8.7 → 
+8.8 MeV) is smallest. All the reactions result in an increase in 
+binding-energy-per-nucleon, so both of the fusion reactions 
+described and the fission reaction put out energy, so Q is positive for 
+all. 
+ 
+Imagine turning the curve of binding energy upside down so that it 
+bends down like a cross-section of a bathtub. On such a curve of total 
+energy per nucleon versus mass number it is easy to identify the 
+fusion of small nuclei, the fission of large nuclei, and even the alpha 
+decay of uranium, as exoenergetic processes. The most stable nucleus 
+is at the drain of the bathtub, with minimum energy. 
+OQ45.7 
+Answer (d). The particles lose energy by collisions with nuclei in the 
+bubble chamber to make their speed and their cyclotron radii  
+r = mv/qB decrease. 
+OQ45.8 
+Answer (b). The cyclotron radius is given by  
+ 
+ 
+r = mv qB =
+2
+1
+2 m2v2
+(
+) qB =
+2mK qB 
+ 
+K and B are the same for both particles, but the ratio 
+m q is smaller 
+for the electron; therefore, the path of the electron has a smaller 
+radius, meaning the electron is deflected more. 
+OQ45.9 
+Answer (b). The nuclei must be energetic enough to overcome the 
+Coulomb repulsion between them so that they can get close enough 
+to fuse, and numerous enough for many collisions to occur in a short 
+period of time so that the reaction produces more energy than it 
+requires to operate.
+
+--- PAGE 3 ---
+1148     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ45.1 
+The two factors presenting the most technical difficulties are the 
+requirements of a high plasma density and a high plasma 
+temperature. These two conditions must occur simultaneously. 
+CQ45.2 
+For the deuterium nuclei to fuse, they must be close enough to each 
+other for the nuclear forces to overcome the Coulomb repulsion of 
+the protons—this is why the ion density is a factor. The more time 
+that the nuclei in a sample spend in close proximity, the more nuclei 
+will fuse—hence the confinement time is a factor. 
+CQ45.3 
+The products of fusion reactors are generally not themselves 
+unstable, while fission reactions result in a chain of reactions which 
+almost all have some unstable products, because they have an excess 
+of neutrons. 
+CQ45.4 
+The advantage of a fission reaction is that it can generate much more 
+electrical energy per gram of fuel compared to fossil fuels. Also, 
+fission reactors do not emit greenhouse gases as combustion 
+byproducts like fossil fuels—the only necessary environmental 
+discharge is heat. The cost involved in producing fissile material is 
+comparable to the cost of pumping, transporting, and refining fossil 
+fuel. 
+ 
+The disadvantage is that some of the products of a fission reaction 
+are radioactive—and some of those have long half-lives. The other 
+problem is that there will be a point at which enough fuel is spent 
+that the fuel rods do not supply power economically and need to be 
+replaced. The fuel rods are still radioactive after removal. Both the 
+waste and the “spent” fuel rods present serious health and 
+environmental hazards that can last for tens of thousands of years. 
+Accidents and sabotage involving nuclear reactors can be very 
+serious, as can accidents and sabotage involving fossil fuels. 
+CQ45.5 
+Fusion of light nuclei to a heavier nucleus releases energy. Fission of 
+a heavy nucleus to lighter nuclei releases energy. Both processes are 
+steps towards greater stability on the curve of binding energy, Figure 
+44.5. The energy release per nucleon is typically greater for fusion, 
+and this process is harder to control. 
+CQ45.6 
+The excitation energy comes from the binding energy of the extra 
+nucleon. 
+CQ45.7 
+Advantages of fusion: high energy yield, no emission of greenhouse 
+gases, fuel very easy to obtain, reactor cannot go supercritical like a 
+fission reactor and low amounts of radioactive waste.
+
+--- PAGE 4 ---
+Chapter 45     1149 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Disadvantages: requires high energy input to sustain reaction, 
+lithium and helium are scarce, and neutrons released by the reaction 
+cause structural damage to reactor housing. 
+CQ45.8 
+For each additional dynode, a larger applied voltage is needed, and 
+hence a larger output from a power supply—“infinite” amplification 
+would not be practical. Nor would it be desirable: the goal is to 
+connect the tube output to a simple counter, so a massive pulse 
+amplitude is not needed. If you made the detector sensitive to 
+weaker and weaker signals, you would make it more and more 
+sensitive to background noise. 
+CQ45.9 
+The hydrogen nuclei in water molecules have mass similar to that of 
+a neutron, so that they can efficiently rob a fast-moving neutron of 
+kinetic energy as they scatter it. A neutron bouncing off a more 
+massive nucleus would lose less energy, so it would continue to 
+travel through the shield. Once the neutron is slowed down, a 
+hydrogen nucleus can absorb it in the reaction n + 1
+1H →1
+2H. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 45.1 
+Interactions Involving Neutrons 
+Section 45.2 
+Nuclear Fission 
+*P45.1 
+The energy consumed by a 100-W lightbulb in a 1.0-h time period is 
+ 
+ 
+E = PΔt = 100 J/s
+(
+) 1.0 h
+(
+) 3600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.6 × 105 J
+  
+ 
+The number of fission events, yielding an average of 208 MeV each, 
+required to produce this quantity of energy is 
+ 
+ 
+n =
+E
+208 MeV = 3.6 × 105 J
+208 MeV
+1 MeV
+1.60 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.1× 1016
+  
+P45.2 
+The mass of U-235 producing the same amount of energy as 1 000 kg of 
+coal is 
+ 
+ 
+m = 3.30 × 1010 J
+(
+)
+1 MeV
+1.60 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+                  × 1 U-235 nucleus
+200 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+235 g
+6.02 × 1023 nucleus
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.403 g
+
+--- PAGE 5 ---
+1150     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.3 
+Three different fission reactions are possible: 
+ 
+ 
+0
+1n +
+92
+235U →38
+90Sr +
+54
+144Xe + 2 0
+1n
+54
+144Xe 
+ 
+ 
+0
+1n +
+92
+235U →38
+90Sr +
+54
+143Xe + 3 0
+1n
+54
+143Xe 
+ 
+ 
+0
+1n +
+92
+235U →38
+90Sr +
+54
+142Xe + 4 0
+1n
+54
+142Xe 
+P45.4 
+If the electrical power output of 1.00 GW is 40.0% of the power derived 
+from fission reactions, the power output of the fission process is 
+ 
+ 
+1.00 GW
+0.400
+= 2.50 × 109 J s
+(
+) 8.64 × 104 s d
+(
+) = 2.16 × 1014 J d 
+ 
+The number of fissions per day is  
+ 
+ 
+2.16 × 1014 J d
+(
+)
+1 fission
+200 × 106 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.75 × 1024 d−1
+ 
+ 
+This also is the number of 
+235U nuclei used, so the mass of 
+235U used per 
+day is 
+ 
+ 
+6.75 × 1024 nuclei d
+(
+)
+235 g mol
+6.02 × 1023 nuclei mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.63 × 103 g d = 2.63 kg d
+ 
+ 
+In contrast, a coal-burning steam plant producing the same electrical 
+power uses more than 6 × 10
+6 kg/d of coal. 
+P45.5 
+First, the thorium is bombarded: 
+ 
+ 
+0
+1n  +  90
+232 Th   →     90
+233 Th 
+ 
+ 
+Then, the thorium decays by beta emission: 
+ 
+ 
+  90
+233 Th   →     91
+233 Pa +  −1
+0e + ν 
+ 
+ 
+Protactinium-233 has more neutrons than the more stable 
+protactinium-231, so it too decays by beta emission: 
+ 
+ 
+  91
+233Pa   →     92
+233U + −1
+0e + ν 
+P45.6 
+(a) 
+The energy released is equal to the Q value, given by 
+ 
+ 
+ 
+Q = Δm
+(
+)c2 = mn + MU-235 −MBa-141 −MKr-92 −3mn
+[
+]c2 
+ 
+ 
+with 
+ 
+ 
+ 
+Δm = 1.008 665 u + 235.043 923 u −140.914 4
+[
+ u
+                    −91.926 2 u −3 1.008 665 u
+(
+)] = 0.185 993 u
+
+--- PAGE 6 ---
+Chapter 45     1151 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+Q = 0.185 993 u
+(
+) 931.5 MeV u
+(
+) = 173 MeV 
+ 
+(b) The fraction of rest energy transformed is 
+ 
+ 
+ 
+f = Δm
+mi
+= 0.185 993 u
+236.05 u
+= 7.88 × 10−4 = 0.078 8% 
+P45.7 
+The energy released in the reaction 0
+1 n +  92
+235U → 38
+88Sr +  54
+136Xe + 12 0
+1 n 
+is  
+ 
+ 
+Q = Δm
+(
+)c2 = m
+  92
+235 U −11mn −m
+38
+88 Sr −m
+ 54
+136 Xe
+⎡⎣
+⎤⎦c2
+= 235.043 923 u −11 1.008 665 u
+(
+)
+⎡⎣
+         −87.905 614 u −135.907 220 u] 931.5 MeV u
+(
+)
+= 126 MeV
+ 
+P45.8 
+In N collisions, the energy is reduced from 2.00 MeV to 0.039 eV:  
+ 
+ 
+2.00 × 106 eV
+(
+) 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+N
+≤0.039 eV
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+N
+≤
+0.039
+2.00 × 106
+N ln 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟≤ln
+0.039
+2.00 × 106
+⎛
+⎝⎜
+⎞
+⎠⎟
+N ln 2
+( ) ≥ln 2.00 × 106
+0.039
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+which gives 
+ 
+ 
+N ≥25.6  →  N = 26 
+P45.9 
+The mass defect is  
+ 
+ 
+Δm = mn + MU
+(
+)−MZr + MTe + 3mn
+(
+)
+Δm = 1.008 665 u + 235.043 923 u
+[
+            −97.912 7 u −134.916 5 u −3 1.008 665 u
+(
+)⎤⎦
+= 0.197 393 u
+ 
+ 
+The energy equivalent is  
+ 
+ 
+Δmc2 = 0.197 393 u
+(
+)c2 931.5 MeV c2
+ u
+⎛
+⎝⎜
+⎞
+⎠⎟= 184 MeV
+
+--- PAGE 7 ---
+1152     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.10 
+(a) 
+At a concentration of c = 3 mg/m
+3 = 3 × 10
+–3 g/m
+3, the mass of 
+uranium dissolved in the oceans covering two-thirds of Earth’s 
+surface to an average depth of havg = 4 km is  
+ 
+ 
+ 
+mU = cV = c
+2
+3 A
+(
+)⋅hav = c
+2
+3 4πRE
+2
+(
+)
+⎡⎣
+⎤⎦⋅hav 
+ 
+ 
+or 
+ 
+ 
+ 
+mU = 3 × 10−3 g
+m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+3
+⎛
+⎝⎜
+⎞
+⎠⎟4π 6.38 × 106 m
+(
+)
+2 4 × 103 m
+(
+)
+= 4 × 1015 g
+ 
+ 
+(b) Fissionable 
+235U makes up 0.700% of the mass of uranium 
+computed above. If we assume all of the 
+235U is collected and 
+caused to undergo fission, with the release of about 200 MeV per 
+event, the potential energy supply is  
+ 
+ 
+ 
+E = number of 235 U atoms
+(
+) 200 MeV
+(
+)
+= 0.700
+100
+mU
+m235Uatom
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟200 MeV
+(
+)
+ 
+ 
+ 
+and at a consumption rate of P = 1.5 × 10
+13 J/s, the time interval 
+this could supply the world’s energy needs is Δt = E/P, or 
+ 
+ 
+ 
+Δt = 0.700
+100
+mU
+m235Uatom
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟200 MeV
+(
+)
+P
+= 0.700
+100
+4 × 1015 g
+235 u
+(
+) 1.66 × 10−27 kg u
+(
+)
+1 kg
+103 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+              ×
+200 MeV
+1.50 × 1013 J s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+1 yr
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟⎤
+⎦⎥
+= 5 × 103 yr
+ 
+ 
+ 
+(Compare this value to that in part (b) of Problem 17, which is a 
+more realistic estimate of the time interval for the uranium that 
+can be extracted reasonably from the Earth.)  
+ 
+(c) 
+The uranium comes from rocks and minerals dissolved in water
+and carried into the ocean by rivers.
+ 
+ 
+(d) No. Uranium cannot be replenished by the radioactive decay of 
+other elements on Earth.
+
+--- PAGE 8 ---
+Chapter 45     1153 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.11 
+One kg of enriched uranium contains 3.40% 92
+235U, so the mass of 
+uranium-235 is 
+ 
+ 
+ 
+m235 = 0.034 0(1 000 g) = 34.0 g 
+ 
+In terms of number of nuclei, this is equivalent to 
+ 
+ 
+N235 = (34.0 g)
+1
+235 g/mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 atoms/mol
+(
+)
+= 8.71× 1022 nuclei
+ 
+ 
+If all these nuclei fission, the energy released is equal to 
+ 
+ 
+8.71× 1022 nuclei
+(
+) 200 × 106 eV/nucleus
+(
+)
+× 1.602 × 10–19 J/eV
+(
+) = 2.79 × 1012 J
+ 
+ 
+Now, for the engine, 
+ 
+ 
+efficiency = work output
+heat input
+or
+e = PΔrcosθ
+Qh
+ 
+ 
+So the distance the ship can travel per kilogram of uranium fuel is 
+ 
+ 
+Δr =
+eQh
+Pcos 0°
+(
+) = 0.200 2.79 × 1012 J
+(
+)
+1.00 × 105 N
+= 5.58 × 106 m
+ 
+ 
+ 
+ 
+Section 45.3 
+Nuclear Reactors 
+*P45.12 
+(a) 
+With a specific gravity of 4.00, the density of soil is 
+ρ = 4.00 × 103 kg/m3. Thus, the mass of the top 1.00 m of soil is 
+ 
+ 
+ 
+m = ρV = 4.00 × 103 kg/m3
+(
+)
+1.00 m
+(
+) 43 560 ft2
+(
+)
+1 m
+3.281 ft
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 1.62 × 107 kg
+ 
+ 
+ 
+At a rate of 1 part per million, the mass of uranium in this soil is  
+ 
+ 
+ 
+mU = m
+106 = 1.62 × 107 kg
+106
+= 16.2 kg
+ 
+ 
+(b) Since 0.720% of naturally occurring uranium is 92
+235U, the mass of 
+92
+235U in the soil of part (a) is 
+ 
+ 
+ 
+m
+92
+235 U = 7.20 × 10−3
+(
+)mU = 7.20 × 10−3
+(
+) 16.2 kg
+(
+)
+= 0.117 kg = 117 g
+
+--- PAGE 9 ---
+1154     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.13 
+In one minute there are N =
+60.0 s
+1.20 × 10−3 s = 5.00 × 104 fissions. 
+ 
+So the rate increases by a factor of 1.000 25
+(
+)
+50 000 = 2.68 × 105 . 
+P45.14 
+(a) 
+For a sphere: V = 4
+3 π r3 →r =
+3V
+4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+, so  
+ 
+ 
+ 
+A
+V =
+4π r2
+4 3
+(
+)π r3 = 3
+r =
+36π
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 4.84V −1 3 
+ 
+(b) For a cube: V = 3 →= V1 3 , so  
+ 
+ 
+ 
+A
+V = 62
+3 = 6
+= 6V −1 3 
+ 
+(c) 
+For a parallelepiped: V = 2a3 →a =
+V
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+, so 
+ 
+ 
+ 
+A
+V =
+2a2 + 8a2
+(
+)
+2a3
+= 5
+a = 5
+2
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+250
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 6.30V −1 3
+ 
+ 
+(d) The answers show that the sphere has the smallest surface area 
+for a given volume and the brick has the greatest surface area of 
+the three. Therefore, The sphere has minimum leakage and the 
+parallelepiped has maximum leakage. 
+P45.15 
+Recall the radius of a nucleus of mass number A is r = aA
+1/3, where  
+a = 1.2 fm. The center to center distance of the nuclei of helium (A = 4) 
+and gold (A = 197) is the sum of their combined radii: 
+ 
+ 
+r = 1.2 fm
+(
+) 4
+( )
+1 3 + 1.2 fm
+(
+) 197
+(
+)
+1 3 = 8.9 fm = 8.9 × 10−15 m 
+ 
+ The electric potential energy is  
+ 
+ 
+U = qV = keq1q2
+r
+= 8.99 × 109 N⋅m2 /C2
+(
+) 2
+( ) 79
+(
+) 1.60 × 10−19 C
+(
+) e
+8.9 × 10−15 m
+= 2.6 × 107 eV = 26 MeV
+ 
+P45.16 
+The power after three months is P = 10.0 MW = 1.00 × 10
+7 J/s. If each 
+decay delivers 1.00 MeV = 1.60 × 10
+–13 J, then the number of decays/s 
+ 
+ 
+= 1.00 × 107 J/s
+1.60 × 10−13 J = 6.25 × 1019 Bq
+
+--- PAGE 10 ---
+Chapter 45     1155 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.17 
+(a) 
+Do not think of the “reserve” as being held in reserve. We are 
+depleting it as fast as we choose. The remaining current balance 
+of irreplaceable 
+235U is 0.7% of the whole mass of uranium: 
+ 
+ 
+ 
+0.007 00
+(
+) 4.40 × 106 tons
+(
+) 103 kg
+1 ton
+⎛
+⎝⎜
+⎞
+⎠⎟
+103 g
+1 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.08 × 1010 g
+ 
+ 
+(b) The number of moles of 
+235U in the reserve is 
+ 
+ 
+ 
+n = m
+M = 3.08 × 1010 g
+235 g/mole = 1.31× 108 mole
+ 
+ 
+(c) 
+The number of moles found in part (b) corresponds to  
+ 
+ 
+ 
+N = nNA = 1.31× 108 mole
+(
+) 6.02 × 1023 atom
+1 mole
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 nucleus
+1 atom
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.89 × 1031 nuclei
+ 
+ 
+ 
+(d) We imagine each nucleus as fissioning, to release 
+ 
+ 
+ 
+7.89 × 1031 fissions
+(
+) 200 MeV
+1 fission
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.52 × 1021 J
+ 
+  
+(e) 
+The definition of power is represented by  
+P = (energy converted)/ Δt, so we have 
+ 
+ 
+ 
+Δt = energy
+P
+= 2.52 × 1021 J
+1.5 × 1013 J/s = 1.68 × 108 s
+(
+)
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.33 yr
+ 
+ 
+(f) 
+Fission is not sufficient to supply the entire world with energy at
+a price of $130 or less per kilogram of uranium.
+ 
+P45.18 
+Assuming that the impossibility is not that he can have this control 
+over the process (which, as far as we know presently, is impossible), 
+let’s see what else might be wrong. The reaction can be written 
+ 
+ 
+0
+1n  +   92
+235U   →    57
+141La  +   35
+94Br  +  n
+0
+1n
+(
+) 
+ 
+where n is the number of neutrons released in the fission reaction. By 
+balancing the equation for electric charge and number of nucleons, we 
+find that n = 1. If one incoming neutron results in just one outgoing 
+neutron, the possibility of a chain reaction is not there, so this nuclear 
+reactor will not work.
+
+--- PAGE 11 ---
+1156     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P45.19 
+The total energy required for one year is 
+ 
+ 
+ 
+E = 2 000 kWh/month
+(
+) 3.60 × 106 J/kWh
+(
+) 12.0 months
+(
+)
+= 8.64 × 1010 J
+  
+ 
+The number of fission events needed will be 
+ 
+ 
+N =
+E
+Eevent
+=
+8.64 × 1010 J
+208 MeV
+(
+) 1.60 × 10−13 J/MeV
+(
+)
+= 2.60 × 1021
+ 
+ 
+and the mass of this number of 
+235U  atoms is 
+ 
+ 
+m =
+N
+NA
+⎛
+⎝⎜
+⎞
+⎠⎟Mmol =
+2.60 × 1021 atoms
+6.02 × 1023 atoms/mol
+⎛
+⎝⎜
+⎞
+⎠⎟235 g/mol
+(
+)
+= 1.01 g
+ 
+P45.20 
+(a) 
+Since K = p
+2/2m, we have 
+  
+ 
+ 
+p =
+2mK =
+2m 3
+2 kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+3(1.675 × 10−27 kg)(1.38 × 10−23 J/K) 300 K
+(
+)
+= 4.56 × 10−24 kg⋅m/s
+ 
+ 
+(b) The de Broglie wavelength of the particle is 
+ 
+ 
+ 
+λ = h
+p =
+6.626 × 10−34 J ⋅s
+4.56 × 10−24 kg ⋅m/s = 1.45 × 10−10 m = 0.145 nm 
+ 
+(c) 
+This size has the same order of magnitude as an atom’s outer
+electron cloud, and is vastly larger than a nucleus.
+ 
+ 
+ 
+ 
+Section 45.4 
+Nuclear Fusion 
+P45.21 
+(a) 
+Helium fusion proceeds according to 
+ 
+ 
+ 
+2
+4 He + 2
+4He →
+4
+8Be + γ 
+ 
+(b) The beryllium produced by helium fusion fuses with another 
+alpha particle according to 
+ 
+ 
+ 
+4
+8Be + 2
+4He →
+ 6
+12C + γ
+
+--- PAGE 12 ---
+Chapter 45     1157 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The total energy released in this pair of fusion reactions is 
+ 
+ 
+ 
+Q = Δm
+(
+)c2 = 2m4 He −m8 B
+⎡⎣
+⎤⎦c2 + m8 B +m4 He −m12 C
+⎡⎣
+⎤⎦c2
+= 3m4 He −m12 C
+⎡⎣
+⎤⎦c2
+= 3 4.002 602 u
+(
+)−12.000 000 u
+⎡⎣
+⎤⎦931.5 MeV u
+(
+)
+= 7.27 MeV
+ 
+P45.22 
+From Equation 45.2, the energy released in the reaction 
+1
+2H + 1
+3H →2
+4He + 0
+1n is 17.59 MeV per event. The total energy required 
+for the year is 
+ 
+ 
+E = 2 000 kWh month
+(
+) 12.0 months
+(
+) 3.60 × 106 J kWh
+(
+)
+= 8.64 × 1010 J
+ 
+ 
+so the number of fusion events needed for the year is 
+ 
+ 
+N = E
+Q =
+8.64 × 1010 J
+17.59 MeV event
+(
+) 1.602 × 10−13 J MeV
+(
+)
+= 3.07 × 1022 events
+ 
+P45.23 
+The energy released in the reaction 1
+1H + 1
+2H →2
+3He + γ is 
+ 
+ 
+Q = Δm
+(
+)c2 = m
+1
+1H + m
+1
+2 H −m
+2
+3 He
+⎡⎣
+⎤⎦c2
+= 1.007 825 u + 2.014 102 u −3.016 029 u
+[
+] 931.5 MeV u
+(
+)
+= 5.49 MeV
+ 
+P45.24 
+(a) 
+We assume that the nuclei are stationary at closest approach, so 
+that the electrostatic potential energy equals the total energy E. 
+Then, from the isolated system model, 
+ 
+ 
+ 
+K f +U f = Ki +Ui     →     U f = E 
+ 
+ 
+then, 
+ 
+ 
+ 
+ke Z1e
+(
+) Z2e
+(
+)
+rmin
+= E
+ 
+ 
+ 
+ 
+E = 8.99 × 109 N⋅m2 C2
+(
+) 1.60 × 10−19 C
+(
+)
+2 Z1Z2
+1.00 × 10−14 m
+1 keV
+1.60 × 10−16 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 144 keV
+(
+)Z1Z2
+ 
+ 
+ 
+or E = 144Z1Z2 where E is in keV. 
+ 
+(b) 
+The energy is proportional to each atomic number.
+
+--- PAGE 13 ---
+1158     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Take Z1 = 1 and Z2 = 59 or vice versa. This choice minimizes the 
+product Z1 Z2. If extra cleverness is allowed, take Z1 = 0 and  
+Z2 = 60: use neutrons as the bombarding particles. A neutron is a 
+nucleon but not an atomic nucleus. 
+ 
+(d) For both the D-D and the D-T reactions, Z1 = Z2 = 1. Thus, the 
+minimum energy required in both cases is 
+ 
+ 
+ 
+E = 2.30 × 10−14 J
+(
+)
+1 MeV
+1.60 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 144 keV for both, according to this model.
+ 
+ 
+ 
+Section 45.4 in the text gives more accurate values for the critical 
+ignition temperatures, of about 52 keV for D-D fusion and 6 keV 
+for D-T fusion. The nuclei can fuse by tunneling. A triton moves 
+more slowly than a deuteron at a given temperature. Then D-T 
+collisions last longer than D-D collisions and have much greater 
+tunneling probabilities. 
+P45.25 
+(a) 
+The Q value for the D-T reaction is 17.59 MeV (from Equation 
+45.4).  Specific energy content in fuel for D-T reaction (from Table 
+44.2, mass = 2.014 u + 3.016 u = 5.030 u): 
+ 
+ 
+ 
+17.59 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+)
+5.030 u
+(
+) 1.6605 × 10−27 kg u
+(
+)
+= 3.37 × 1014 J kg 
+ 
+ 
+The rate of fuel burning for the D-T reaction is then 
+ 
+ 
+ 
+rDT =
+3.00 × 109 J s
+(
+) 3 600 s hr
+(
+)
+3.37 × 1014 J kg
+(
+) 10−3 kg g
+(
+)
+= 32.1 g h burning of D and T
+ 
+ 
+(b) Using energy values from Equation 45.4, the specific energy 
+content in fuel for D-D reaction is:  
+ 
+ 
+ 
+Q = 1
+2 3.27 + 4.03
+(
+) = 3.65 MeV 
+ 
+ 
+From Table 44.2, the D-D mass is = 2(2.014 u) = 4.018 u. The 
+specific energy content in D-D fuel is 
+ 
+ 
+ 
+3.65 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+)
+4.028 u
+(
+) 1.6605 × 10−27 kg u
+(
+)
+= 8.73 × 1013 J kg
+
+--- PAGE 14 ---
+Chapter 45     1159 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and the rate of fuel burning for the D-D reaction is 
+ 
+ 
+ 
+rDD =
+3.00 × 109 J s
+(
+) 3 600 s hr
+(
+)
+8.73 × 1013 J kg
+(
+) 10−3 kg g
+(
+)
+= 124 g h 
+P45.26 
+(a) 
+The radius of a nucleus with mass number A is r = aA
+1/3, where  
+a = 1.2 fm. The distance of closest approach is equal to the center 
+to center distance of the two nuclei: 
+ 
+ 
+ 
+rf = rD + rT = 1.20 × 10−15 m
+(
+)
+2
+( )
+1 3 + 3
+( )
+1 3
+⎡⎣
+⎤⎦
+= 3.24 × 10−15 m = 3.24 fm
+ 
+ 
+(b) At this distance, the electric potential energy is 
+ 
+ 
+ 
+U f = kee2
+rf
+= 8.99 × 109 N⋅m2 C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+3.24 × 10−15 m
+= 7.10 × 10−14 J = 444 keV
+ 
+ 
+(c) 
+Conserving momentum, mDvi = mD + mT
+(
+)v f or  
+ 
+ 
+ 
+v f =
+mD
+mD + mT
+⎛
+⎝⎜
+⎞
+⎠⎟vi =
+2
+5 vi 
+ 
+(d) To find the minimum initial kinetic energy of the deuteron, we 
+use Ki + Ui = Kf + Uf , where Ui = 0 because the deuteron starts 
+from very far away (infinity), and with the result from part (c),  
+ 
+ 
+ 
+Ki + 0 = 1
+2 mD + mT
+(
+)v f
+2 +U f
+Ki = 1
+2 mD + mT
+(
+)
+mD
+mD + mT
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+vi
+2 +U f
+ 
+ 
+ 
+With some re-arrangement, we have  
+ 
+ 
+ 
+Ki =
+mD
+mD + mT
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 mDvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+U f =
+mD
+mD + mT
+⎛
+⎝⎜
+⎞
+⎠⎟Ki +U f 
+ 
+ 
+or 
+ 
+ 
+ 
+1−
+mD
+mD + mT
+⎛
+⎝⎜
+⎞
+⎠⎟Ki = U f
+ 
+ 
+ 
+solving for the initial kinetic energy then gives 
+ 
+ 
+ 
+Ki = U f
+mD + mT
+mT
+⎛
+⎝⎜
+⎞
+⎠⎟= 5
+3 444 keV
+(
+) = 740 keV
+
+--- PAGE 15 ---
+1160     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+The nuclei can fuse possibly by tunneling through the potential 
+energy barrier. 
+P45.27 
+(a) 
+V = 317 × 106 mi3
+(
+) 1 609 m
+1 mi
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 1.32 × 1018 m3 
+ 
+ 
+From the periodic table, H has atomic mass 1.007 9 and O has 
+atomic mass 15.999 4, so water has atomic mass 18.015 2. 
+ 
+ 
+ 
+mwater = ρV = 103 kg m3
+(
+) 1.32 × 1018 m3
+(
+) = 1.32 × 1021 kg
+mH2 =
+MH2
+MH2O
+⎛
+⎝⎜
+⎞
+⎠⎟mH2O =
+2.016
+18.015
+⎛
+⎝⎜
+⎞
+⎠⎟1.32 × 1021 kg
+(
+)
+= 1.48 × 1020 kg
+mDeuterium = 0.030 0%
+(
+)mH2 = 0.030 0 × 10−2
+(
+) 1.48 × 1020 kg
+(
+)
+= 4.43 × 1016 kg
+ 
+ 
+ 
+The number of deuterium nuclei in this mass is 
+ 
+ 
+ 
+N = mDeuterium
+mDeuteron
+=
+4.43 × 1016 kg
+2.014 u
+(
+) 1.66 × 10−27 kg u
+(
+)
+= 1.33 × 1043 
+ 
+ 
+Since two deuterium nuclei are used per fusion, 1
+2H + 1
+2H →2
+4He, 
+the number of events is N
+2 = 6.63 × 1042. 
+ 
+ 
+The energy released per event is 
+ 
+ 
+ 
+Q = M 2 H + M 2 H −M 4 He
+⎡⎣
+⎤⎦c2
+= 2 2.014 102
+(
+) −4.002 603
+[
+]u 931.5 MeV u
+(
+)
+= 23.8 MeV
+ 
+ 
+ 
+The total energy available is then 
+ 
+ 
+ 
+E =
+N
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Q = 6.63 × 1042
+(
+) 23.8 MeV
+(
+) 1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.53 × 1031 J
+ 
+ 
+(b) The time this energy could possibly meet world requirements is 
+ 
+ 
+ 
+Δt = E
+P =
+2.53 × 1031 J
+100 1.50 × 1013 J s
+(
+)
+= 1.69 × 1016 s
+(
+)
+1 yr
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.34 × 108 yr
+
+--- PAGE 16 ---
+Chapter 45     1161 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.28 
+(a) 
+Including both ions and electrons, the number of particles in the 
+plasma is N = 2nV, where n is the ion density and V is the volume 
+of the container. Application of Equation 21.6 gives the total 
+energy as 
+ 
+ 
+ 
+E = 3
+2 NkBT = 3nVkBT
+    = 3 2.00 × 1013 cm−3
+(
+)
+50.0 m3
+(
+) 106 cm3
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                     × 1.38 × 10−23 J K
+(
+) 4.00 × 108 K
+(
+)
+E = 1.66 × 107 J
+ 
+ 
+(b) The specific heat of water is c = 4 186 J/kg . °C, and the energy 
+required to raise the temperature of one kilogram of water from 
+27.0°C to 100°C is given by Equation 20.4: 
+ 
+ 
+ 
+Q = mcΔT = 1.00 kg
+(
+) 4 186 J/kg⋅°C
+(
+) 100°C −27.0°C
+(
+)
+= 3.06 × 105 J
+  
+ 
+ 
+From Table 20.2, the heat of vaporization of water is 
+Lv = 2.26 × 106 J kg , so that a total of  
+ 
+ 
+ 
+E1 kg = 3.06 × 105 J + 2.26 × 106 J = 2.57 × 106 J  
+ 
+ 
+is required to boil away each kilogram of water initially at 27.0°C. 
+The mass of water that could be boiled away is therefore 
+ 
+ 
+ 
+m =
+E
+E1 kg
+=
+1.66 × 107 J
+2.57 × 106 J kg = 6.45 kg
+ 
+P45.29 
+ (a) Taking m ≈ 2mp for deuterons, we have   
+ 
+ 
+ 
+ 
+1
+2 mv2 = 3
+2 kBT
+ 
+ 
+ 
+ 
+The root-mean-square speed is 
+ 
+ 
+ 
+ 
+vrms =
+3kBT
+2mp
+=
+3 1.38 × 10–23 J/K
+(
+) 4.00 × 108 K
+(
+)
+2 1.67 × 10–27  kg
+(
+)
+= 2.23 × 106 m/s
+ 
+ 
+ 
+(b) The confinement time in the absence of confinement measures is 
+ 
+ 
+ 
+ 
+Δt = x
+v =
+0.100 m
+2.23 × 106 m/s 10–7 s
+
+--- PAGE 17 ---
+1162     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.30 
+ (a) By adding 1 + 6 = 7 and 1 + 12 = 13, we have 1
+1H +
+6
+12C →
+7
+13N + γ so 
+nucleus A is 
+13N.  
+ 
+(b) Now 13 – 0 = 13 and 7 – 1 = 6, so the positron decay is 
+7
+13N →
+6
+13C + 1
+0e + ν and nucleus B is 
+13C.  
+ 
+(c) 
+Similarly, we have 1
+1H +
+6
+13C →
+7
+14N + γ and nucleus C is 
+14N.  
+ 
+(d) The hydrogen nuclei keep piling on like rugby players after a 
+tackle. We have 1
+1H +
+7
+14N →
+8
+15O + γ and nucleus D is 
+15O.  
+ 
+(e) 
+Now 8
+15O →
+7
+15N + 1
+0e + ν, so nucleus E is 
+15N.  
+ 
+(f) 
+We calculate 15 + 1 – 4 = 12 and 7 + 1 – 2 = 6 to identify 
+1
+1H +
+7
+15N →
+6
+12C + 2
+4He and nucleus F is 
+12C. 
+ 
+(g) 
+The original carbon-12 nucleus is returned. One carbon nucleus 
+can participate in the fusions of colossal numbers of hydrogen 
+nuclei, four after four. Carbon is a catalyst.  
+ 
+ 
+The two positrons immediately annihilate with electrons 
+according to 1
+0e + −1
+0e →2γ . The overall reaction, obtained by 
+adding all eight reactions, can be represented as 
+ 
+ 
+ 
+1
+1H +
+6
+12C + 1
+1H + 1
+1H + 1
+1H + 2 −1
+0e →2
+4He +
+6
+12C + 7γ + 2ν 
+ 
+ 
+This simplifies to 4
+1
+1H
+(
+)+ 2 −1
+0e →2
+4He + 2ν . The net reaction is 
+identical to the net reaction in the proton–proton cycle which 
+predominates in the Sun. In energy terms the reaction can be 
+considered as 4
+1
+1H atom
+(
+) →2
+4He atom + 26.7 MeV, where the Q 
+value of energy output was computed in Chapter 39, Problem 67 
+and again in Problem 59 in this chapter. 
+P45.31 
+(a) 
+Lawson’s criterion for the D-T reaction is nτ ≥1014 s cm3. For a 
+confinement time of τ = 1.00 s, this requires a minimum ion 
+density of n = 1014 cm−3 . 
+ 
+(b) At the ignition temperature of T = 4.5 × 10
+7 K and the ion density 
+found above, the plasma pressure is 
+ 
+ 
+ 
+P = 2nkBT
+= 2
+1014 cm−3
+(
+) 106 cm3
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥1.38 × 10−23 J K
+(
+) 4.5 × 107 K
+(
+)
+ = 1.2 × 105 J m3
+
+--- PAGE 18 ---
+Chapter 45     1163 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The required magnetic energy density is then 
+ 
+ 
+ 
+uB = B2
+2µ0
+≥10P = 10 1.2 × 105 J
+m3
+(
+) = 1.2 × 106 J
+m3 
+ 
+ 
+which requires a magnetic field of magnitude  
+ 
+ 
+ 
+B ≥
+2µ0 10P
+(
+) =
+2 4π × 10−7 N
+A2
+(
+) 1.24 × 106 J
+m3
+(
+)
+= 1.8 T
+ 
+ 
+ 
+This is a very strong field. 
+ 
+ 
+ 
+Section 45.5 
+Radiation Damage 
+P45.32 
+(a) 
+The number of x-ray images made per year is (assuming a 2-week 
+vacation)  
+ 
+ 
+ 
+n = 8 x-ray d
+(
+) 5 d wk
+(
+) 50 wk yr
+(
+) = 2.0 × 103 x-ray yr 
+ 
+ 
+The average dose per photograph is 
+ 
+ 
+ 
+5.0 rem yr
+2.0 × 103 x-ray yr = 2.5 × 10−3 rem x-ray = 2.5 mrem x-ray 
+ 
+(b) The technician receives low-level background radiation at a rate 
+of 0.13 rem/yr. The ration dose of 5.0 rem/yr received as a result 
+of the job to background is  
+ 
+ 
+ 
+5.0 rem yr
+0.13 rem yr = 38 
+ 
+ 
+The technician’s occupational exposure is high compared to
+background radiation—it is 38 times 0.13 rem/yr.
+ 
+P45.33 
+(a) 
+I = I0e−µ x, so x = −1
+µ ln
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟, with µ = 1.59 cm
+–1. 
+ 
+ 
+When the intensity I = I0
+2 ,
+ 
+x = −
+1
+1.59 cm−1 ln 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.436 cm 
+ 
+(b) When I =
+I0
+1.00 × 104 ,
+ 
+x = −
+1
+1.59 cm−1 ln
+1
+1.00 × 104
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.79 cm
+
+--- PAGE 19 ---
+1164     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.34 
+(a) 
+I = I0e−µ x, so x = −1
+µ ln
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+When intensity I = I0
+2 , x = −1
+µ ln
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟= −1
+µ ln 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= ln 2( )
+µ
+. 
+ 
+(b) When intensity I = f I0, x = −1
+µ ln
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟= −1
+µ ln f( ) = −ln f
+µ
+. 
+P45.35 
+The source delivers 100 mrad of 2.00-MeV γ -rays/h at a 1.00-m 
+distance. The RBE for these γ -rays is 1.0 (from Table 45.1). 
+ 
+(a) 
+From Equation 45.6,  
+ 
+ 
+ 
+dose in rem = dose in rad × RBE
+1.00 rem = dose in rad × 1.0   
+ 
+ 
+ 
+or, 
+ dose in rad = 1.00 rad = 100 × 10−3 rad/h
+(
+)Δt 
+ 
+ 
+which gives Δt = 10.0 h. 
+ 
+ 
+Thus a person would have to stand there 10.0 hours to receive 
+1.00 rem from a 100-mrad/h source. 
+ 
+(b) If the γ -radiation is emitted isotropically, the dosage rate falls off 
+as 1
+r2 . 
+ 
+ 
+Thus a dosage 10.0 mrad/h would be received at a distance 
+r =
+10.0 m = 3.16 m . 
+*P45.36 
+For each gray (GY) or radiation, 1 J of energy is delivered to each 
+kilogram of absorbing material. Thus, the total energy delivered in this 
+whole body dose to a 75.0-kg person is 
+ 
+ 
+ 
+E = 0.250 Gy
+(
+) 1 J/kg
+Gy
+⎛
+⎝⎜
+⎞
+⎠⎟75.0 kg
+(
+) = 18.8 J
+  
+P45.37 
+By definition, one rad increases the energy of one kilogram of the 
+absorbing material by 1.00 × 10
+-2 J. The energy starts as energy carried 
+by electromagnetic radiation, and turns entirely into internal energy. 
+The 1 000 rad or  10.0 gray = 10.0 Gy will then put 10.0 J/kg into the 
+body, to raise its temperature by the same amount as 10.0 J/kg of 
+energy input by heat from a higher-temperature energy source. In 
+Q = mcΔT we have Q/m = 10.0   J/kg and  
+ 
+ 
+ΔT = Q
+m
+1
+c = 10.0 J/kg
+(
+)
+1
+4 186 J/kg⋅°C
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.39 × 10−3 °C
+
+--- PAGE 20 ---
+Chapter 45     1165 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.38 
+Assume all the energy from the x-ray machine is absorbed by the 
+water and that no energy leaves the cup of water by heat or thermal 
+radiation. The energy input to the cup and the temperature of the 
+water are related by 
+ 
+ 
+TER = mcΔT 
+ 
+Because the power input P is equal to TER/ΔT, we have 
+ 
+ 
+PΔt = mcΔT   →    Δt = mcΔT
+P
+ 
+ 
+where we have solved for the time interval required to raise the 
+temperature of the water.  We note that the temperature of the water 
+will increase until it is 100°C, after which the latent heat of 
+vaporization of Lv = 2.26 × 106 J kg would have to be added to boil the 
+water. For the purposes of this problem, we limit ourselves to 
+increasing the temperature of the water to 100°C. Substituting 
+numerical values gives 
+ 
+ 
+Δt =  m 4 186 J/kg ⋅°C
+(
+) 50.0°C
+(
+)
+10.0 rad/s
+(
+) 1 × 10–2 J/kg
+(
+)m
+ = 2.09 × 106 s = 24.2 d 
+ 
+Therefore, it would take over 24 days just to increase the water’s 
+temperature to 100°C, and much longer to boil it, and this technique 
+will not work for a 20-minute coffee break! 
+P45.39 
+The number of nuclei in the original sample is 
+ 
+ 
+N0 =
+mass present
+mass of nucleus =
+5.00 kg
+89.907 7 u
+(
+) 1.66 × 10–27  kg/u
+(
+)
+= 3.35 × 1025 nuclei
+ 
+ 
+The decay constant is 
+ 
+ 
+λ = ln2
+T1/2
+= 0.693
+29.1 yr = 2.38 × 10–2 yr–1 = 4.53 × 10–8 min–1 
+ 
+The original activity is  
+ 
+ 
+R0 = λN0 = 4.53 × 10–8 min–1
+(
+) 3.35 × 1025 nuclei
+(
+)
+= 1.52 × 1018 decays/min
+ 
+ 
+The law of decay then gives us 
+ 
+ 
+R
+R0
+=
+10.0 decays/min
+1.52 × 1018 decays/min = 6.59  × 10–18 =  e–λt
+
+--- PAGE 21 ---
+1166     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the time interval is  
+ 
+ 
+ 
+t = −ln R/R0
+(
+)
+λ
+= −ln 6.59 × 10–18
+(
+)
+2.38 × 10–2 yr–1 = 1.66 × 103 yr
+ 
+P45.40 
+If half of the 0.140-MeV gamma rays are absorbed by the patient, the 
+total energy absorbed is 
+ 
+ 
+E = 0.140 MeV
+(
+)
+2
+1.00 × 10−8 g
+98.9 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 nuclei
+1 mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 4.26 × 1012 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+) = 0.682 J
+ 
+ 
+Thus, the dose received is Dose = 0.682 J
+60.0 kg
+1 rad
+10−2 J kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.14 rad 
+P45.41 
+The decay constant is λ = ln2 T1 2 = ln2 17.0 d . The number of nuclei 
+remaining after 30.0 days is  
+ 
+ 
+N = N0e−λT = N0 exp
+−ln2
+17.0 d
+⎛
+⎝⎜
+⎞
+⎠⎟30.0 d
+⎡
+⎣⎢
+⎤
+⎦⎥= 0.294N0 
+ 
+The number decayed is N0 – N = N0 (1 – 0.294) = 0.706N0. 
+ 
+Then the energy release is  
+ 
+ 
+2.12 J = 0.706N0
+(
+) 21.0 × 103 eV
+(
+) 1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+N0 =
+2.12 J
+2.37 × 10−15 J = 8.94 × 1014
+ 
+ 
+(a) 
+The initial activity is 
+ 
+ 
+ 
+R0 = λN0 =
+ln2
+17.0 d 8.94 × 1014
+(
+)
+1 d
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.22 × 108 Bq 
+ 
+(b) We find the total mass contained in the seeds from 
+ 
+ 
+ 
+original sample mass = m = N0mone atom
+= 8.94 × 1014
+103 u
+(
+) 1.66 × 10−27 kg
+1 u
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+  
+ 
+ 
+Then, 
+ 
+ 
+ 
+m = 1.53 × 10−10 kg = 1.53 × 10−7 g = 153 ng
+
+--- PAGE 22 ---
+Chapter 45     1167 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.42 
+The nuclei initially absorbed are (mass from Table 44.2)  
+ 
+ 
+N0 = 1.00 × 10−9 g
+(
+) 6.02 × 1023 nuclei mol
+89.9 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.70 × 1012 
+ 
+The number of decays in time t is  
+ 
+ 
+ΔN = N0 −N = N0 1−e−λt
+(
+) = N0 1−e
+−ln2
+(
+)t T1 2
+(
+)
+  
+ 
+At the end of 1 year, 
+ 
+ 
+ΔN = N0 −N = 6.70 × 1012
+(
+) 1−exp
+−ln2
+29.1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟1.00 yr
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 1.58 × 1011
+ 
+ 
+The energy deposited is  
+ 
+ 
+E = 1.58 × 1011
+(
+) 1.10 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+) = 0.027 7 J 
+ 
+Thus, the dose received is  
+ 
+ 
+Dose =
+0.027 7 J
+70.0 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.96 × 10−4 J kg = 0.039 6 rad
+  
+ 
+ 
+ 
+Section 45.6 
+Uses of Radiation 
+P45.43 
+(a) 
+With I x
+( ) = 1
+2 I0 , I x
+( ) = I0e−µx becomes 
+ 
+ 
+ 
+1
+2 I0 = I0e−0.72x mm
+2 = e+0.72x mm →ln2 = 0.72x mm →x = ln2
+(
+) mm
+0.72
+= 0.963 mm
+ 
+ 
+(b) The intensity reaching the detector through x1 = 0.800 mm of steel 
+is I1 = I0e−µx1. That transmitted by thickness x2 = 0.700 mm is 
+I2 = I0e−µx2 . The fractional change is   
+ 
+ 
+ 
+I2 −I1
+I1
+= I0e−µx2 −I0e−µx1
+I0e−µx1
+= eµ(x1 −x2 ) −1 = e(0.720/mm)(0.100 mm) −1
+          = e0.0720 −1 = +0.074 7 = 7.47%
+ 
+ 
+ 
+As the thickness decreases, the intensity increases by 7.47%.
+
+--- PAGE 23 ---
+1168     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.44 
+(a) 
+Starting with N = 0 radioactive atoms at t = 0, the rate of increase 
+is (production – decay) 
+ 
+ 
+ 
+dN
+dt = R −λN    so    dN = R −λ N
+(
+)dt. 
+ 
+ 
+The variables are separable. 
+ 
+ 
+ 
+dN
+R −λ N
+0
+N
+∫
+= dt
+0
+t
+∫
+:     −1
+λ ln R −λ N
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= t
+ 
+ 
+ 
+so  
+ln R −λN
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= −λt    and     R −λ N
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= e−λ t . 
+ 
+ 
+Therefore 
+1−λ
+R N = e−λ t   →   N = R
+λ 1−e−λ t
+(
+). 
+ 
+(b) The maximum number of radioactive nuclei would be R
+λ
+. 
+P45.45 
+(a) 
+The number of photons is 104 MeV
+1.04 MeV = 9.62 × 103. Since only 50% 
+of the photons are detected, the number of 
+65Cu nuclei decaying is 
+twice this value, or 1.92 × 10
+4. In two half-lives, three-fourths of 
+the original nuclei decay, so 3
+4 N0 = 1.92 × 104 and N0 = 2.56 × 10
+4. 
+This is 1% of the 
+65Cu, so the number of 
+65Cu is 2.56 × 106 ~ 106 . 
+ 
+(b) Natural copper is 69.17% 
+63Cu and 30.83% 
+65Cu. Thus, if the 
+sample contains NCu copper atoms, the number of atoms of each 
+isotope is N63 = 0.691 7 NCu and N65 = 0.308 3 NCu. Therefore,  
+ 
+ 
+ 
+N63
+N65
+= 0.691 7
+0.308 3  
+ 
+ 
+or  
+N63 =
+0.6917
+0.3083
+⎛
+⎝⎜
+⎞
+⎠⎟N65 =
+0.6917
+0.3083
+⎛
+⎝⎜
+⎞
+⎠⎟2.56 × 106
+(
+) = 5.75 × 106 
+ 
+ 
+The total mass of copper present is then    
+ 
+ 
+ 
+mCu = 62.93 u
+(
+)N63 + 64.93 u
+(
+)N65
+mCu =
+62.93 u
+(
+) 5.75 × 106
+(
+)+ 64.93 u
+(
+) 2.56 × 106
+(
+)
+⎡⎣
+⎤⎦
+                                                    × 1.66 × 10−24 g u
+(
+)
+= 8.77 × 10−16 g ~ 10−15 g
+
+--- PAGE 24 ---
+Chapter 45     1169 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P45.46 
+(a) 
+The energy released by the 1
+1H +
+5
+11B →3
+2
+4He
+(
+) reaction is 
+ 
+ 
+ 
+Q = M
+1
+1H + M
+5
+11B −3M
+2
+4 He
+⎡⎣
+⎤⎦c2 
+ 
+ 
+ 
+Q = 1.007 825 u+11.009 305 u −3 4.002 603 u
+(
+)
+⎡⎣
+⎤⎦
+                                                            × 931.5 MeV u
+(
+)
+= 8.68 MeV
+ 
+ 
+(b) 
+The particles must have enough kinetic energy to overcome their
+mutual electrostatic repulsion so that they can get close enough
+to fuse.
+ 
+P45.47 
+From momentum conservation, we have  
+ 
+ 
+ 
+0 = mLi
+vLi + mα
+vα or mLivLi = mαvα 
+ 
+Thus,  
+ 
+ 
+ 
+KLi = 1
+2 mLivLi
+2 = 1
+2
+mLivLi
+(
+)
+2
+mLi
+= mαvα
+(
+)
+2
+2mLi
+=
+mα
+2
+2mLi
+⎛
+⎝⎜
+⎞
+⎠⎟vα
+2 
+ 
+ 
+ 
+KLi =
+4.002 6 u
+(
+)
+2 7.016 0 u
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+9.25 × 106 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1.14 u
+(
+) 1.66 × 10−27 kg/u
+(
+) 9.25 × 106 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+KLi = 1.62 × 10−13 J = 1.01 MeV
+ 
+P45.48 
+(a) 
+We have I = 1
+2 ρv ωsmax
+(
+)
+2 , and from Equation 17.10, I = ΔPmax
+(
+)
+2
+2ρv
+. 
+Substituting the second expression for I into the first and solving 
+for smax gives 
+ 
+ 
+ 
+smax = 1
+ω
+2I
+ρv
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 1
+ω
+2
+ρv
+ΔPmax
+(
+)
+2
+2ρv
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= ΔPmax
+ωρv
+ 
+ 
+ 
+Solving for ΔPmax and assuming smax ~ 2.5 m, 
+ 
+ 
+ 
+ΔPmax = ωρvsmax = 1 s−1
+(
+) 1.20 kg/m3
+(
+) 343 m/s
+(
+) 2.5 m
+(
+)
+103 Pa
+
+--- PAGE 25 ---
+1170     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The change in volume is given by 
+ 
+ 
+ 
+ΔV = 4π r2Δr = 4π 14.0 × 103 m
+(
+)
+2 2.5 m
+(
+)
+= 1.23 × 108 m3 ~ 6 × 109 m3
+ 
+ 
+(c) 
+The energy carried by the blast wave is 
+ 
+ 
+ 
+W = ΔPmax
+(
+) ΔV
+(
+) = 103 Pa
+(
+) 6 × 109 m3
+(
+) = 6 × 1012 J  
+ 
+(d) Since the blast wave carries only 10% of the bomb’s energy, 
+6 × 1016 J = 1
+10 yield
+(
+) , and the bomb yield is then 
+ 
+ 
+ 
+yield = 6 × 1013 J ~1014 J 
+ 
+(e) 
+The yield in terms of tons of TNT is 
+ 
+ 
+ 
+6 × 1013 J
+4.2 × 109 J ton TNT = 1.42 × 104 ton TNT ~ 104 ton TNT 
+*P45.49 
+The Japanese call it the original child bomb. 
+ 
+(a) 
+Suppose each 235U fission releases 208 MeV of energy. Then, the 
+number of nuclei that must have undergone fission is 
+ 
+ 
+ 
+N =
+total release
+energy per nuclei =
+5 × 1013 J
+208 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+)
+= 1.5 × 1024 nuclei
+. 
+ 
+(b) 
+mass =
+1.5 × 1024 nuclei
+6.02 × 1023 nuclei mol
+⎛
+⎝⎜
+⎞
+⎠⎟235 g mol
+(
+) ≈0.6 kg 
+P45.50 
+(a) 
+Subtracting the background counts, the decay counts are  
+N1 = 372 – 5(15) = 297 in the first 5.00 min interval and  
+N2 = 337 – 5(15) = 262 in the second. The midpoints of the time 
+intervals are separated by T = 5.00 min. We use R = R0e−λt, taking 
+t = T and identifying R0 = N1/T = 297/5 min and R = N2/T = 
+262/5 min. We have then  
+ 
+ 
+ 
+N2
+T =
+N1
+T
+⎛
+⎝⎜
+⎞
+⎠⎟e−λT     or      262
+5 min =
+297
+5 min
+⎛
+⎝⎜
+⎞
+⎠⎟e
+−ln 2 T1 2
+(
+) 5.00 min
+(
+)  
+ 
+ 
+which gives 
+ 
+ 
+ 
+e
+−ln 2 T1 2
+(
+)T = N2
+N1
+     or     e
+−ln 2 T1 2
+(
+) 5.00 min
+(
+) = 262
+297
+
+--- PAGE 26 ---
+Chapter 45     1171 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+−ln2
+T1 2
+T = ln N2
+N1
+⎛
+⎝⎜
+⎞
+⎠⎟
+or
+−ln2
+T1 2
+T = ln 262
+297
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+The half-life is then 
+ 
+ 
+ 
+T1 2 =
+−ln2
+ln N2 N1
+(
+)
+T =
+−ln2
+ln 262 297
+(
+)
+5.00 min
+(
+) = 27.6 min
+ 
+ 
+ 
+NOTE: If it seems questionable to set instantaneous decay rates 
+equal to average decay rates, to let R0 = N1/T and R = N2/T, see 
+the Alternate Solution to (a) below. The results are the same. 
+ 
+(b) The average count rate is about  
+ 
+ 
+ 
+1
+2
+262
+5 min +
+297
+5 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟1 s−1 
+ 
+ 
+but the counts are randomly spaced in time, meaning some 
+counts near the beginning and end of each 5.00-min interval 
+should or should not have been counted. Let’s assume that the 
+count incidence could vary by as much as 5 seconds, so we shall 
+assume a count uncertainty of ±5. The smallest likely value for the 
+half-life is then given by 
+ 
+ 
+ 
+ln 262 −5
+297 + 5
+⎛
+⎝⎜
+⎞
+⎠⎟= −ln2
+T1 2
+5.00 min
+(
+), giving T1 2
+(
+)min = 21.5 min 
+ 
+ 
+The largest credible value is found from 
+ 
+ 
+ 
+ln 262 + 5
+297 −5
+⎛
+⎝⎜
+⎞
+⎠⎟= −ln2
+T1 2
+5.00 min
+(
+), yielding T1 2
+(
+)max = 38.7 min 
+ 
+ 
+Thus, the half-life is about  
+ 
+ 
+ 
+T1 2 =
+38.5 + 21.7
+2
+⎛
+⎝⎜
+⎞
+⎠⎟± 38.5 −21.7
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ min
+= 30 ± 8
+(
+) min = 30 min± 27%
+ 
+ 
+ 
+Alternate Solution to (a) The amount of the radioactive sample at 
+time t is N = N0e−λt , where we do not know N0. The number of 
+decay counts between t = 0 and t = T are  
+ 
+ 
+ 
+N1 = N0 1−e−λT
+(
+) = 297 
+ 
+ 
+and the number of decay counts between t = 0 and t = 2T are  
+ 
+ 
+ 
+N1 + N2 = N0 1−e−λ2T
+(
+) = 297 + 262 = 559
+
+--- PAGE 27 ---
+1172     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+To eliminate N0, we consider the ratio of the counts: 
+ 
+ 
+ 
+r = N1 + N2
+N1
+=
+N0 1−e−λ 2T
+(
+)
+N0 1−e−λT
+(
+)
+= 559
+297
+r =
+1−e−λ 2T
+(
+)
+1−e−λT
+(
+)
+=
+1−e−λT
+(
+) 1+ e−λT
+(
+)
+1−e−λT
+(
+)
+= 1+ e−λT
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+e−λT = r −1 = N1 + N2
+N1
+−1 = N2
+N1
+     →     e
+−ln 2 T1 2
+(
+)T = N2
+N1
+ 
+ 
+ 
+which leads to the same result as above, T1 2 =
+−ln2
+ln N2 N1
+(
+)
+T . 
+P45.51 
+(a) 
+The energy amplification is 
+ 
+ 
+E
+E0
+=
+1
+2 CΔV 2
+0.500 MeV =
+1
+2 5.00 × 10–12 F
+(
+) 1.00 × 103 V
+(
+)
+2
+0.500 MeV
+(
+) 1.60 × 10–13 J/MeV
+(
+)
+= 3.12 × 107
+ 
+ 
+ 
+(b) The number of electrons is 
+ 
+ 
+ 
+N = Q
+e = CΔV
+e
+= 5.00 × 10–12 F
+(
+) 1.00 × 103 V
+(
+)
+1.60 × 10–19 C
+= 3.12 × 1010 electrons
+ 
+P45.52 
+(a) 
+To conserve momentum, the two fragments must move in 
+opposite directions with speeds v1 and v2 such that 
+ 
+ 
+ 
+m1v1 = m2v2     or    v2 =
+m1
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟v1 
+ 
+ 
+The kinetic energies after the break-up are then 
+ 
+ 
+ 
+K1 = 1
+2 m1v1
+2     and     K2 = 1
+2 m2v2
+2 = 1
+2 m2
+m1
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v1
+2 =
+m1
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟K1 
+ 
+ 
+The fraction of the total kinetic energy carried off by m1 is  
+ 
+ 
+ 
+K1
+Ktot
+=
+K1
+K1 + K2
+=
+K1
+K1 + m1 m2
+(
+)K1
+=
+m2
+m1 + m2
+
+--- PAGE 28 ---
+Chapter 45     1173 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and the fraction carried off by m2 is  
+ 
+ 
+ 
+K2
+Ktot
+= 1−K1
+Ktot
+= 1−
+m2
+m1 + m2
+=
+m1
+m1 + m2
+ 
+ 
+(b) The disintegration energy is  
+ 
+ 
+ 
+Q = 236.045 562 u −86.920 711 u −148.934 370 u
+(
+)
+                                                            × 931.5 MeV u
+(
+)
+= 177.4 MeV= 177 MeV
+ 
+ 
+(c) 
+Immediately after fission, this Q-value is the total kinetic energy 
+of the fission products. From part (a),  
+ 
+ 
+ 
+K1
+Ktot
+=
+m2
+m1 + m2
+= KBr
+Q
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+KBr = Q
+mLa
+mBr + mLa
+= 177.4 MeV
+(
+)
+149 u
+87 u + 149 u
+⎛
+⎝⎜
+⎞
+⎠⎟= 112.0 MeV
+ 
+ 
+ 
+and KLa = Q −KBr = 177.4 MeV −112.0 MeV = 65.4 MeV 
+ 
+(d) The speed of the fragments is given by 
+ 
+ 
+ 
+vBr =
+2KBr
+mBr
+=
+2 112 × 106 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+87 u
+(
+) 1.66 × 10−27 kg u
+(
+)
+= 1.58 × 107 m s = 15.8 Mm/s
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+vLa =
+2KLa
+mLa
+=
+2 65.4 × 106 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+149 u
+(
+) 1.66 × 10−27 kg u
+(
+)
+= 9.20 × 106 m s = 9.30 Mm/s
+ 
+*P45.53 
+(a) 
+For each of the following six steps, the subscripts a - f of Q refer to 
+the corresponding step in Problem 45.30. 
+ 
+ 
+For 12C + 1H →13N + Q, 
+ 
+ 
+ 
+Qa = 12.000 000 + 1.007 825 −13.005 739
+(
+) 931.5 MeV
+(
+)
+= 1.94 MeV
+ 
+ 
+ 
+For the second step, add seven electrons to both sides to get: 
+ 
+ 
+ 
+13N atom →13C atom + e+ + e−+ Q
+
+--- PAGE 29 ---
+1174     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+Qb = 13.005 739 −13.003 355 −2 0.000 549
+(
+)
+[
+] 931.5 MeV
+(
+)
+= 1.20 MeV
+Qc = 13.003 355 + 1.007 825 −14.003 074
+[
+] 931.5 MeV
+(
+)
+= 7.55 MeV
+Qd = 14.003 074 + 1.007 825 −15.003 065
+[
+] 931.5 MeV
+(
+)
+= 7.30 MeV
+Qe = 15.003 065 −15.000 109 −2 0.000 549
+(
+)
+[
+] 931.5 MeV
+(
+)
+= 1.73 MeV
+Q f = 15.000 109 + 1.007 825 −12 −4.002 603
+[
+] 931.5 MeV
+(
+)
+= 4.97 MeV
+ 
+ 
+(b) The energy released in the annihilations is 
+ 
+ 
+ 
+Q3 = Q7 = 2 0.000 549
+(
+) 931.5 MeV
+(
+)
+= 1.02 MeV
+ 
+ 
+(c) 
+The sum is 26.7 MeV , the same as for the proton-proton cycle. 
+ 
+(d) Not all of the energy released appears as internal energy in the 
+star. When a neutrino is created, it will likely fly directly out of 
+the star without interacting with any other particle. 
+P45.54 
+The original activity per area is  
+ 
+ 
+5.00 × 106 Ci
+104 km2
+1 km
+103 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 5.00 × 10−4 Ci/m2 
+ 
+The half-life is 29.1 yr. The decay law, N = N0 e–λt, becomes the law of 
+decrease of activity, R = R0 e–λt . If the material is not transported, it 
+describes the time evolution of activity per area, R/A = R0/A e–λt . 
+Solving for the time t gives 
+ 
+ 
+eλt = R0 / A
+R/ A
+→
+t = 1
+λ ln R0 / A
+R/ A
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+t =
+29.1 yr
+ln2
+⎛
+⎝⎜
+⎞
+⎠⎟ln R0 / A
+R/ A
+⎛
+⎝⎜
+⎞
+⎠⎟= 29.1 yr
+ln2
+ln 5.00 × 10−4 Ci/m2
+2.00 × 10−6 Ci/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 232 yr
+
+--- PAGE 30 ---
+Chapter 45     1175 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.55 
+The number of nuclei in 3.80 kg of 94
+238Pu is 
+ 
+ 
+ 
+N0 =
+3 800 g
+238.049 560 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.022 × 1023 nuclei mol
+(
+)
+= 9.61× 1024 nuclei
+ 
+ 
+The half-life of 94
+238Pu is 87.7 years, so the decay constant is given by 
+ 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+87.7 yr
+(
+) 3.155 × 107 s yr
+(
+)
+= 2.51× 10−10 s−1 
+ 
+The initial activity is 
+ 
+ 
+ 
+R0 = λN0 = 2.51× 10−10 s−1
+(
+) 9.61× 1024 nuclei
+(
+) = 2.41× 1015 Bq 
+ 
+The energy released in each 94
+238Pu →
+92
+234U + 2
+4He reaction is 
+ 
+ 
+ 
+Q = M
+94
+238 Pu −M
+92
+234 U −M
+2
+4 He
+⎡⎣
+⎤⎦c2:
+Q = 238.049 560 u −234.040 952 u −4.002 603 u
+[
+]
+                                                            × 931.5 MeV u
+(
+)
+= 5.59 MeV
+ 
+ 
+Thus, assuming a conversion efficiency of 3.20%, the initial power 
+output of the battery is 
+ 
+ 
+ 
+P = 0.032 0
+(
+)R0Q
+= 0.032 0
+(
+) 2.41× 1015 decays s
+(
+) 5.59 MeV decay
+(
+)
+× 1.602 × 10−13 J MeV
+(
+)
+= 69.0 W
+ 
+P45.56 
+The number of hydrogen-3 nuclei is 
+ 
+ 
+N = 50.0 m3
+(
+) 2.00 × 1014  particles
+cm3
+⎛
+⎝⎜
+⎞
+⎠⎟100 cm/m
+(
+)
+3
+= 1.00 × 1022 particles
+ 
+ 
+The decay constant is  
+ 
+ 
+λ = ln2
+T1/2
+=
+0.693
+12.3 yr
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 yr
+3.16 × 107  s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.78 × 10–9 s–1 
+ 
+The activity is then 
+ 
+ 
+R = λN = 1.78 × 10–9 s–1
+(
+) 1.00 × 1022 nuclei
+(
+) = 1.78 × 1013 Bq
+
+--- PAGE 31 ---
+1176     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In curies this is  
+ 
+ 
+R = 1.78 × 1013 Bq
+(
+)
+1 Ci
+3.70 × 1010 Bq
+⎛
+⎝⎜
+⎞
+⎠⎟= 482 Ci
+ 
+ 
+482 Ci, which is less than the fission inventory by on the order of a 
+hundred million times. 
+P45.57 
+The complete fissioning of 1.00 gram of 
+235U releases 
+ 
+ 
+ 
+Q =
+1.00 g
+235 grams mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 atoms
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+× 200 MeV
+fission
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−13 J
+MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.20 × 1010 J
+ 
+ 
+If all this energy could be utilized to convert m kilograms of 20.0°C 
+water to 400°C steam (see Chapter 20 of text for values), then  
+ 
+ 
+ 
+Q = mcw ΔT + mLv + mcs ΔT
+Q = m
+4 186 J kg °C
+(
+) 80.0 °C
+(
+) + 2.26 × 106 J kg
+⎡⎣
++ 2 010 J kg °C
+(
+) 300 °C
+(
+)⎤⎦
+ 
+ 
+Therefore,  m =
+8.20 × 1010 J
+3.20 × 106 J kg = 2.56 × 104 kg 
+P45.58 
+When mass m of 
+235U undergoes complete fission, releasing energy E 
+per fission event, the total energy released is 
+ 
+ 
+ 
+Q =
+m
+MU-235
+⎛
+⎝⎜
+⎞
+⎠⎟NAE 
+ 
+where NA is Avogadro’s number. If all this energy could be utilized to 
+convert a mass mw of liquid water at Tc into steam at Th, then 
+ 
+ 
+ 
+Q = mw c w 100°C −Tc
+(
+) + Lv + c s Th −100°C
+(
+)
+⎡⎣
+⎤⎦ 
+ 
+where cw is the specific heat of liquid water, Lv is the latent heat of 
+vaporization, and cs is the specific heat of steam. Solving for the mass 
+of water converted gives 
+ 
+ 
+ 
+mw =
+Q
+c w 100°C −Tc
+(
+) + Lv + c s Th −100°C
+(
+)
+⎡⎣
+⎤⎦
+=
+ 
+mNAE
+MU-235 cw 100 − Tc
+(
+) + Lv + cs Th – 100
+(
+)
+⎡⎣
+⎤⎦
+
+--- PAGE 32 ---
+Chapter 45     1177 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.59 
+(a) 
+QI = MA + MB −MC −ME
+[
+]c2,    and     
+ 
+ 
+QII = MC + MD −MF −MG
+[
+]c2 
+ 
+ 
+Qnet = QI + QII = MA + MB −MC −ME + MC + MD −MF −MG
+[
+]c2 
+ 
+ 
+Qnet = QI + QII = MA + MB + MD −ME −MF −MG
+[
+]c2 
+ 
+ 
+Thus, reactions may be added. Any product like C used in a 
+subsequent reaction does not contribute to the energy balance. 
+ 
+(b) Adding all five reactions gives 
+ 
+ 
+ 
+1
+1H + 1
+1H+ −1
+0e + 1
+1H+ 1
+1H+ −1
+0e →2
+4He + 2ν 
+ 
+ 
+ 
+4 1
+1H + 2 −1
+0e →2
+4He + 2ν 
+ 
+ 
+Adding two electrons to each side gives  
+ 
+ 
+ 
+4 1
+1H atom →2
+4He atom + 2ν 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+Qnet = 4M
+1
+1H −M
+2
+4 He
+⎡⎣
+⎤⎦c2
+= 4 1.007 825 u
+(
+) −4.002 603 u
+[
+] 931.5 MeV u
+(
+)
+= 26.7 MeV
+ 
+P45.60 
+(a) 
+From the definition of the volume of a cube and the definition of 
+mass density, we have V = 3 = m
+ρ , so  
+ 
+ 
+ 
+=
+m
+ρ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+70.0 kg
+19.1× 103 kg m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 0.154 m = 15.4 cm 
+ 
+(b) We add 92 electrons to both sides of the given nuclear reaction. 
+Then it becomes  
+ 
+ 
+ 
+92
+238U atom →8 2
+4He atom +
+82
+206Pb atom 
+ 
+ 
+The Q value of this reaction is 
+ 
+ 
+ 
+Q = M
+92
+238 U −8M
+2
+4 He −M
+82
+206 Pb
+⎡⎣
+⎤⎦c2
+= 238.050 783−8 4.002 603
+(
+)−205.974 449
+⎡⎣
+⎤⎦931.5 MeV u
+(
+)
+Q = 51.7 MeV
+
+--- PAGE 33 ---
+1178     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The number of decays per second is the decay rate R, and the
+energy released in each decay is Q. Then the energy released
+per unit time interval is P = QR.
+ 
+ 
+(d) The decay rate for all steps in the radioactive series in steady state 
+is set by the parent uranium: 
+ 
+ 
+ 
+N =
+7.00 × 104 g
+238 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 nuclei mol
+(
+)
+= 1.77 × 1026 nuclei
+ 
+ 
+ 
+The decay constant is 
+ 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+4.47 × 109 yr = 1.55 × 10−10 1
+yr
+ 
+ 
+ 
+and the rate of decays is then 
+ 
+ 
+ 
+R = λN = 1.55 × 10−10 1
+yr
+⎛
+⎝⎜
+⎞
+⎠⎟1.77 × 1026 nuclei
+(
+)
+= 2.75 × 1016 decays yr
+ 
+ 
+ 
+so, 
+P = QR = 51.7 MeV
+(
+) 2.75 × 1016 yr−1
+(
+) 1.60 × 10−13 J MeV
+(
+)
+= 2.27 × 105 J yr
+ 
+ 
+(e) 
+We know that  
+ 
+ 
+ 
+dose in rem = dose in rad × RBE  
+ 
+ 
+or 
+ 
+ 
+ 
+5.00 rem/yr = (dose in rad/yr)(1.10)  
+ 
+ 
+giving  
+ 
+ 
+ 
+(dose in rad/yr) = 4.55 rad/yr 
+ 
+ 
+The allowed whole-body dose is then  
+ 
+ 
+ 
+70.0 kg
+(
+) 4.55 rad yr
+(
+) 10−2 J kg
+1 rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.18 J yr 
+P45.61 
+(a) 
+The mass of the pellet is 
+ 
+ 
+ 
+m = ρV = ρ 4π
+3 r3 = 0.200 g cm3
+(
+) 4π
+3
+1.50 × 10−2 cm
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 3.53 × 10−7 g
+
+--- PAGE 34 ---
+Chapter 45     1179 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The pellet consists of equal numbers of 
+2H and 
+3H atoms, so the 
+average molar mass is 2.50 and the total number of atoms is 
+ 
+ 
+ 
+N =
+3.53 × 10−7 g
+2.50 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 atoms mol
+(
+)
+= 8.51× 1016 atoms
+ 
+ 
+ 
+When the pellet is vaporized, the plasma will consist of 2N 
+particles (N nuclei and N electrons). The total energy delivered to 
+the plasma is 1.00% of 200 kJ or 2.00 kJ. The temperature of the 
+plasma is found from E = 2N
+(
+) 3
+2 kBT
+(
+) as 
+ 
+ 
+ 
+T =
+E
+3NkB
+=
+2.00 × 103 J
+3 8.51× 1016
+(
+) 1.38 × 10−23 J K
+(
+)
+= 5.68 × 108 K 
+ 
+(b) Each fusion event uses 2 nuclei, so N/2 events will occur. From 
+Equation 45.4, the energy released by one fusion event is 17.59 
+MeV, so the total energy released will be  
+ 
+ 
+ 
+E =
+N
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Q =
+8.51× 1016
+2
+⎛
+⎝⎜
+⎞
+⎠⎟17.59 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+)
+= 1.20 × 105 J = 120 kJ
+ 
+P45.62 
+(a) 
+From the given equation, the ratio of the two intensities is 
+ 
+ 
+ 
+I2
+I1
+= I0e−µ2x
+I0e−µ1x = e−µ2 −µ1
+(
+)x 
+ 
+(b) Substituting numerical values into the equation in part (a) gives 
+ 
+ 
+ 
+I50
+I100
+= exp −5.40 cm−1 −41.0 cm−1
+(
+) 0.100 cm
+(
+)
+⎡⎣
+⎤⎦= e3.56 = 35.2 
+ 
+(c) 
+Here, x = 10.0 mm = 1.00 cm, and 
+ 
+ 
+ 
+I50
+I100
+= exp −5.40 cm−1 −41.0 cm−1
+(
+) 1.00 cm
+(
+)
+⎡⎣
+⎤⎦= e35.6
+= 2.89 × 1015
+ 
+ 
+ 
+Thus, a 1.00-cm-thick aluminum plate has essentially removed the 
+long-wavelength x-rays from the beam. 
+P45.63 
+The momentum of the alpha particle and that of the neutron must add 
+to zero, so their velocities must be in opposite directions with 
+magnitudes related by 
+ 
+ 
+mn
+vn + mα
+vα = 0 or (1.008 7 u)vn = (4.002 6 u) vα
+
+--- PAGE 35 ---
+1180     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+At the same time, their kinetic energies must add to 17.6 MeV: 
+ 
+ 
+E = 1
+2 mnvn
+2 + 1
+2 mαvα
+2 = 1
+2 (1.008 7 u)vn
+2 + 1
+2 (4.002 6 u)vα
+2
+= 17.6 MeV
+ 
+ 
+Substitute vα = 0.252 0vn to obtain 
+ 
+ 
+ 
+E = 0.504 35 u
+(
+)vn
+2 + 0.127 10 u
+(
+)vn
+2
+= 17.6 MeV
+1 u
+931.494 MeV/c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Solving for vn then gives 
+ 
+ 
+vn =
+0.018 9c2
+0.631 45 = 0.173c = 5.19 × 107 m/s
+ 
+ 
+Since this speed is not too much greater than 0.1c, we can get a 
+reasonable estimate of the kinetic energy of the neutron from the 
+classical equation, 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 1.008 7 u
+(
+) 0.173c
+(
+)
+2 931.494 MeV/c2
+u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 14.1 MeV
+ 
+ 
+For a more accurate calculation of the kinetic energy, we should use 
+relativistic expressions. Conservation of energy for this reaction 
+requires that  
+ 
+ 
+En + Eα = mnc2 + Kn
+(
+) + mαc2 + Kα
+(
+) = mnc2 + mαc2 + K 
+[1] 
+ 
+where K = 17.6 MeV is the total kinetic energy, and conservation of 
+momentum for this reaction requires that 
+ 
+ 
+pn + pα = 0
+→
+pn = pα 
+[2] 
+ 
+From the relation between total energy, mass, and momentum of a 
+particle, we have  
+ 
+ 
+E2 = p2c2 + mc 2
+(
+)
+2
+→
+p2c2 = E2 −mc 2
+(
+)
+2 
+[3] 
+ 
+From equations [2] and [3], we may write  
+ 
+ 
+pn
+2c2 = pα
+2c2
+En
+2 −mnc 2
+(
+)
+2 = Eα
+2 −mαc 2
+(
+)
+2
+En
+2 −Eα
+2 = mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+En −Eα
+(
+) En + Eα
+(
+) = mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+
+--- PAGE 36 ---
+Chapter 45     1181 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting the above expression into equation [1] gives 
+ 
+ 
+En −Eα
+(
+) mnc2 + mαc2 + K
+(
+) = mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+En −Eα = mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+mnc2 + mαc2 + K
+(
+)
+Eα = En −mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+mnc2 + mαc2 + K
+(
+)
+ 
+ 
+Substituting this result back into equation [1] gives 
+ 
+ 
+En + En −
+mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+mnc2 + mαc2 + K
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= mnc2 + mαc2 + K
+2En = mnc2 + mαc2 + K
+(
+) +
+mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+mnc2 + mαc2 + K
+(
+)
+En =
+mnc2 + mαc2 + K
+(
+)
+2 + mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+2 mnc2 + mαc2 + K
+(
+)
+ 
+ 
+To find the kinetic energy of the neutron, we note that En = mnc2 + Kn:  
+ 
+ 
+En =
+mnc2 + mαc2 + K
+(
+)
+2 + mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+2 mnc2 + mαc2 + K
+(
+)
+= mnc2 + Kn
+Kn =
+mnc2 + mαc2 + K
+(
+)
+2 + mnc 2
+(
+)
+2 −mαc 2
+(
+)
+2
+2 mnc2 + mαc2 + K
+(
+)
+−mnc2
+ 
+ 
+For K = 17.6 MeV,  
+ 
+ 
+mnc2 = 1.008 7 u
+(
+)c2 931.494 MeV c2 ⋅u
+(
+) = 939.60 MeV 
+ 
+and  
+mαc2 = 4.002 6 u
+(
+)c2 931.494 MeV c2 ⋅u
+(
+) = 3 728.4 MeV 
+ 
+we find that Kn = 14.0 MeV . 
+P45.64 
+(a) 
+The number of Pu nuclei in 1.00 kg is  
+ 
+ 
+ 
+6.02 × 1023 nuclei mol
+239.05 g mol
+1 000 g
+(
+) = 2.52 × 1024 nuclei 
+ 
+ 
+The total energy is  
+ 
+ 
+ 
+25.2 × 1023 nuclei
+(
+) 1 fission
+nucleus
+⎛
+⎝⎜
+⎞
+⎠⎟
+200 MeV
+ fission
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.04 × 1026 MeV
+
+--- PAGE 37 ---
+1182     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+E = 5.04 × 1026 MeV
+(
+) 4.44 × 10−20 kWh MeV
+(
+)
+= 2.24 × 107 kWh
+ 
+ 
+ 
+or   22 million kWh. 
+ 
+(b) 
+E = Δmc2 = 3.016 049 u + 2.014 102 u −4.002 603 u −1.008 665 u
+(
+)
+× 931.5 MeV u
+(
+)
+  
+ 
+ 
+E = 17.6 MeV for each D-T fusion 
+ 
+(c) 
+En = total number of D nuclei
+(
+) 17.6 MeV
+(
+) 4.44 × 10−20 kWh/MeV
+(
+) 
+ 
+ 
+En =
+6.02 × 1023
+mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 000 g
+2.014 g/mol
+⎛
+⎝⎜
+⎞
+⎠⎟17.6 MeV
+(
+)
+× 4.44 × 10−20 kWh/MeV
+(
+)
+      = 2.34 × 108 kWh
+ 
+ 
+(d) 
+En = the number of C atoms in 1.00 kg
+(
+) ×
+4.20 eV
+kg
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+En =
+6.02 × 1026
+12 g
+⎛
+⎝⎜
+⎞
+⎠⎟4.20 × 10−6 MeV
+(
+) 4.44 × 10−20 kWh/MeV
+(
+)
+= 9.36 kWh
+ 
+ 
+(e) 
+Coal is cheap at this moment in human history. We 
+hope that safety and waste disposal problems can 
+be solved so that nuclear energy can be affordable 
+before scarcity drives up the price of fossil fuels. Burning 
+coal in the open puts carbon dioxide into the atmosphere, 
+worsening global warming. Plutonium is a very
+dangerous material to have sitting around.
+ 
+P45.65 
+(a) 
+We have 1.00 kg – (1.00 kg)(0.007 20) – (1.00 kg)(0.000 0500) =  
+0.993 kg of 
+238U, comprising  
+ 
+ 
+ 
+N = 0.993 kg
+(
+) 6.02 × 1023 nuclei
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+0.238 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.51× 1024 nuclei
+
+--- PAGE 38 ---
+Chapter 45     1183 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+with activity  
+ 
+ 
+ 
+R = λN =
+ln2
+4.47 × 109 yr 2.51× 1024 nuclei
+(
+)
+                                  ×
+1 yr
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 Ci
+3.70 × 1010 s−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.3 × 10−4 Ci = 330 µCi
+ 
+ 
+ 
+We have (1.00 kg)(0.007 20) = 0.007 2 kg of 
+235U, comprising  
+ 
+ 
+ 
+N = 0.007 2 kg
+(
+) 6.02 × 1023 nuclei
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+0.235 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.84 × 1022 nuclei
+ 
+ 
+ 
+with activity  
+ 
+ 
+ 
+R = λN =
+ln2
+7.04 × 108 yr 1.84 × 1022 nuclei
+(
+)
+                                  ×
+1 yr
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 Ci
+3.70 × 1010 s−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.6 × 10−5 Ci = 16 µCi
+ 
+ 
+ 
+We have (1.00 kg)(0.000 0500) = 5.00 × 10
+–5 kg of 
+234U, comprising  
+ 
+ 
+ 
+N = 5.00 × 10−5 kg
+(
+) 6.02 × 1023 nuclei
+ mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+0.234 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.29 × 1020 nuclei
+ 
+ 
+ 
+with activity  
+ 
+ 
+ 
+R = λN =
+ln2
+2.44 × 105 yr 1.29 × 1020 nuclei
+(
+)
+                                  ×
+1 yr
+3.16 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 Ci
+3.70 × 1010 s−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.1× 10−4 Ci = 310 µCi
+ 
+ 
+(b) The total activity is (330 + 16 + 310) µCi = 656 µCi, so the fractional 
+contributions are, respectively, 330/656 = 50%, 16/656 = 2.4%, 
+and 310/656 =  47% 
+ 
+(c) 
+It is dangerous, notably if the material is inhaled as a 
+powder. With precautions to minimize human contact, 
+however, microcurie sources are routinely used in 
+laboratories.
+
+--- PAGE 39 ---
+1184     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.66 
+(a) 
+The number of molecules in 1.00 liter of water (mass = 1 000 g) is 
+ 
+ 
+ 
+N =
+1.00 × 103 g
+18.0 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 molecules mol
+(
+)
+= 3.34 × 1025 molecules
+ 
+ 
+ 
+The number of deuterium nuclei contained in these molecules is 
+ 
+ 
+ 
+′
+N = 3.34 × 1025 molecules
+(
+)
+1 deuteron
+3 300 molecules
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.01× 1022 deuterons
+ 
+ 
+ 
+Since 2 deuterons are consumed per fusion event, the number of 
+events possible is 
+′
+N
+2 = 5.07 × 1021 reactions, and the energy 
+released is 
+ 
+ 
+ 
+Efusion = 5.07 × 1021 reactions
+(
+) 3.27 MeV reaction
+(
+)
+= 1.66 × 1022 MeV
+ 
+ 
+ 
+ 
+Efusion = 1.66 × 1022 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+) = 2.65 × 109 J 
+ 
+(b) In comparison to burning 1.00 liter of gasoline, the energy from 
+the fusion of deuterium is  
+ 
+ 
+ 
+Efusion
+Egasoline
+= 2.65 × 109 J
+3.40 × 107 J = 78.0 times larger 
+P45.67 
+(a) 
+At 6 × 10
+8 K, the average kinetic energy of a carbon atom is 
+ 
+ 
+ 
+3
+2 kBT = 1.5
+(
+) 8.62 × 10−5 eV K
+(
+) 6 × 108 K
+(
+) = 8 × 104 eV 
+ 
+ 
+Note that 6 × 10
+8 K is about 6
+2 = 36 times larger than 1.5 × 10
+7 K, 
+the core temperature of the Sun. This factor corresponds to the 
+higher potential-energy barrier to carbon fusion compared to 
+hydrogen fusion. It could be misleading to compare it to the 
+temperature ~ 10
+8 K required for fusion in a low-density plasma 
+in a fusion reactor. 
+ 
+(b) The energy released is 
+ 
+ 
+ 
+Q = 2MC12 −MNe20 −MHe4
+⎡⎣
+⎤⎦c2
+Q = 2 12.000 000 u
+(
+) −19.992 440 u −4.002 603 u
+[
+]
+                                                                × 931.5 MeV u
+(
+)
+=
+4.62 MeV
+
+--- PAGE 40 ---
+Chapter 45     1185 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In the second reaction, 
+ 
+ 
+ 
+Q = 2MC12 −MMg24
+⎡⎣
+⎤⎦c2
+Q = 2 12.000 000 u
+(
+) −23.985 042 u
+[
+] 931.5 MeV u
+(
+)
+= 13.9 MeV
+ 
+ 
+(c) 
+The energy released is the energy of reaction of the number of 
+carbon nuclei in a 2.00-kg sample, which corresponds to 
+ 
+ 
+ 
+ΔE = 2.00 × 103 g
+(
+) 6.02 × 1023 atoms mol
+12.0 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+× 4.62 MeV fusion event
+2 nuclei fusion event
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 kWh
+2.25 × 1019 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔE =
+1.00 × 1026
+(
+) 4.62
+(
+)
+2 2.25 × 1019
+(
+)
+kWh = 1.03 × 107 kWh
+ 
+P45.68 
+From Table 44.2 of isotopic masses, the half-life of 
+32P is 14.26 d. Thus, 
+the decay constant is 
+ 
+ 
+λ = ln2
+T1 2
+=
+ln2
+14.26 d = 0.048 6 d−1 = 5.63 × 10−7 s−1 
+ 
+and the initial number of nuclei is 
+ 
+ 
+N0 = R0
+λ = 5.22 × 106 decay s
+5.63 × 10−7 s−1
+= 9.28 × 1012 nuclei 
+ 
+At t = 10.0 days, the number remaining is 
+ 
+ 
+N = N0 e−λt = 9.28 × 1012 nuclei
+(
+)exp −0.048 6 d−1
+(
+) 10.0 d
+(
+)
+⎡⎣
+⎤⎦
+= 5.71× 1012 nuclei
+ 
+ 
+so the number of decays has been N0 – N = 3.57 × 10
+12 and the energy 
+released is 
+ 
+ 
+E = 3.57 × 1012
+(
+) 700 keV
+(
+) 1.60 × 10−16 J keV
+(
+) = 0.400 J 
+ 
+If this energy is absorbed by 100 g of tissue, the absorbed dose is 
+ 
+ 
+Dose =
+0.400 J
+0.100 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 rad
+10−2 J kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 400 rad 
+P45.69 
+(a) 
+The thermal power transferred to the water is Pw = 0.970 (waste 
+heat): 
+ 
+ 
+ 
+Pw = 0.970 3 065 MW −1 000 MW
+(
+)= 2.00 × 109 J s
+
+--- PAGE 41 ---
+1186     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+rw is the mass of water heated per hour: 
+ 
+ 
+ 
+rw =
+Pw
+c ΔT
+(
+)
+=
+2.00 × 109 J s
+(
+) 3600 s h
+(
+)
+4186 J kg ⋅°C
+(
+) 3.50 °C
+(
+)
+= 4.92 × 108 kg h 
+ 
+ 
+Then, the volume used per hour is    
+4.91× 108 kg h
+1.00 × 103 kg m3 = 4.92 × 105 m3 h 
+ 
+(b) The 
+235U fuel is consumed at a rate 
+ 
+ 
+ 
+rf =
+3 065 × 106 J s
+7.80 × 1010 J g
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 kg
+1 000 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.141 kg h 
+P45.70 
+We add two electrons to both sides of the given reaction. 
+ 
+Then, 
+4 1
+1H atom →2
+4He atom + 2ν, 
+ 
+where 
+Q = Δm
+(
+)c2 = 4 1.007 825 u
+(
+) −4.002603 u
+⎡⎣
+⎤⎦931.5 MeV u
+(
+)
+= 26.7 MeV
+ 
+ 
+or 
+ 
+Q = 26.7 MeV
+(
+) 1.60 × 10−13 J MeV
+(
+) = 4.28 × 10−12 J 
+ 
+The proton fusion rate is then 
+ 
+ 
+ 
+rate =
+power output
+energy per proton =
+3.85 × 1026 J s
+4.28 × 10−12 J
+(
+)
+4 protons
+(
+)
+= 3.60 × 1038 protons s
+ 
+ 
+ 
+ 
+Challenge Problems 
+P45.71 
+The initial specific activity of 
+59Fe in the steel is 
+ 
+ 
+ 
+R m
+(
+)0 = 20.0 µCi
+0.200 kg =
+100 µCi
+kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+3.70 × 104 Bq
+1 µCi
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.70 × 106 Bq kg
+ 
+ 
+The decay constant of 
+59Fe is λ =
+ln2
+45.1 d
+1 d
+24 h
+⎛
+⎝⎜
+⎞
+⎠⎟.
+
+--- PAGE 42 ---
+Chapter 45     1187 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+After 1 000 h, the activity is  
+ 
+ 
+ 
+R
+m =
+R
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+e−λ t
+= 3.70 × 106 Bq kg
+(
+)exp −
+ln2
+45.1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 d
+24 h
+⎛
+⎝⎜
+⎞
+⎠⎟1 000 h
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.95 × 106 Bq kg
+ 
+ 
+The activity of the oil is  
+ 
+ 
+ 
+Roil =
+800
+60.0 Bq liter
+⎛
+⎝⎜
+⎞
+⎠⎟(6.50 liters) = 86.7 Bq 
+ 
+Therefore,    
+ 
+ 
+ 
+min oil =
+Roil
+R m
+(
+)
+=
+86.7 Bq
+1.95 × 106 Bq kg = 4.44 × 10−5 kg 
+ 
+So that the wear rate is 4.45 × 10−5 kg
+1 000 h
+=
+4.44 × 10−8 kg h . 
+P45.72 
+(a) 
+The number of fissions occurring in the zeroth, first, second, …, 
+nth generation is 
+ 
+ 
+ 
+N0, N0K, N0K 2, …, N0K n 
+ 
+ 
+The total number of fissions that have occurred up to and 
+including the nth generation is 
+ 
+ 
+ 
+N = N0 + N0K + N0K 2 +…+ N0K n = N0 1+ K + K 2 +…+ K n
+(
+) 
+ 
+ 
+Note that the factoring of the difference of two squares, a
+2 – 1 =  
+(a + 1) (a – 1), can be generalized to a difference of two quantities 
+to any power, 
+ 
+ 
+ 
+a3 −1 = a2 + a + 1
+(
+) a −1
+(
+)
+an+1 −1 = an + an−1 +…+ a2 + a + 1
+(
+) a −1
+(
+)
+ 
+ 
+ 
+Thus, K n + K n−1 +…+ K 2 + K + 1 = K n+1 −1
+K −1 
+ 
+ 
+and 
+N = N0
+K n+1 −1
+K −1
+ 
+ 
+(b) The number of U-235 nuclei is 
+ 
+ 
+ 
+N = 5.50 kg
+(
+) 1 atom
+235 u
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 u
+1.66 × 10−27 kg
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.41× 1025 nuclei
+
+--- PAGE 43 ---
+1188     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We solve the equation from part (a) for n, the number of 
+generations: 
+ 
+ 
+ 
+N
+N0
+K −1
+(
+) = K n+1 −1 
+ 
+ 
+ 
+N
+N0
+K −1
+(
+) + 1 = K n K
+( ) 
+ 
+ 
+ 
+nln K = ln N K −1
+(
+) N0 + 1
+K
+⎛
+⎝⎜
+⎞
+⎠⎟= ln N K −1
+(
+)
+N0
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟−ln K
+n = ln N K −1
+(
+) N0 + 1
+(
+)
+ln K
+−1 = ln 1.41× 1025 0.1
+(
+) 1020 + 1
+(
+)
+ln1.1
+−1
+  = 99.2
+ 
+ 
+ 
+Therefore time must be allotted for 100 generations: 
+ 
+ 
+ 
+Δtb = 100 10 × 10−9 s
+(
+) = 1.00 × 10−6 s = 1.00 µs 
+ 
+(c) 
+The speed of sound in uranium is 
+ 
+ 
+ 
+v =
+B
+ρ =
+150 × 109 N m2
+18.7 × 103 kg m3 = 2.83 × 103 m s = 2.83 km/s 
+ 
+(d) From the definitions of volume and mass density,V = 4
+3 π r3 = m
+ρ , 
+and  
+ 
+ 
+ 
+r =
+3m
+4πρ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+3 5.5 kg
+(
+)
+4π 18.7 × 103 kg m3
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 4.13 × 10−2 m 
+ 
+ 
+then, the time interval is given by 
+ 
+ 
+ 
+Δtd = r
+v = 4.13 × 10−2 m
+2.83 × 103 m s = 1.46 × 10−5 s = 14.6 µs 
+ 
+(e) 
+14.6 µs is greater than 1 µs, so the entire bomb can fission. The 
+destructive energy released is 
+ 
+ 
+ 
+1.41× 1025 nuclei
+(
+)
+200 × 106 eV
+fissioning nucleus
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.51× 1014 J
+1 ton TNT
+4.20 × 109 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.08 × 105 ton TNT
+= 108 kilotons of TNT
+
+--- PAGE 44 ---
+Chapter 45     1189 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+What if? If the bomb did not have an “initiator” to inject 10
+20 
+neutrons at the moment when the critical mass is assembled, the 
+number of generations would be 
+ 
+ 
+ 
+n =
+ln 1.41× 1025 0.1
+(
+) 1+ 1
+(
+)
+ln1.1
+−1 = 582.4   
+ 
+ 
+requiring   583 10 × 10−9 s
+(
+) = 5.83 µs 
+ 
+ 
+This time is not very short compared with 14.6 µs, so this bomb 
+would likely release much less energy. 
+P45.73 
+(a) 
+EI = 10.0 eVis the energy required to liberate an electron from a 
+dynode. Let ni be the number of electrons incident upon a 
+dynode, each having gained energy eΔV as it was accelerated to 
+this dynode. The number of electrons that will be freed from this 
+dynode is Ni = nie ΔV
+EI
+. 
+ 
+ 
+At the first dynode, ni = 1 and  
+ 
+ 
+ 
+N1 = 1( )e 100 V
+(
+)
+10.0 eV
+= 101 electrons 
+ 
+(b) For the second dynode, ni = N1 = 10
+1, so  
+ 
+ 
+ 
+N2 = (101)e 100 V
+(
+)
+10.0 eV
+= 102 
+ 
+ 
+At the third dynode, ni = N2 = 10
+2 and  
+ 
+ 
+ 
+N3 = (102)e 100 V
+(
+)
+10.0 eV
+= 103 
+ 
+ 
+Observing the developing pattern, we see that the number of 
+electrons incident on the nth dynode is nn = Nn−1 = 10n−1 , so for 
+the seventh and last dynode is n7 = N6 = 106 . 
+ 
+(c) 
+The number of electrons incident on the last dynode is n7 = 10
+6. 
+The total energy these electrons deliver to that dynode is given by 
+ 
+ 
+ 
+E = nie ΔV
+(
+) = 106e 700 V −600 V
+(
+) = 108 eV
+
+--- PAGE 45 ---
+1190     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P45.2 
+0.403 g 
+P45.4 
+2.63 kg/d 
+P45.6 
+(a) 173 MeV; (b) 0.078 8% 
+P45.8 
+26 
+P45.10 
+(a) 4 × 10
+15 g; (b) 5 ×10
+3 yr; (c) The uranium comes from rocks and 
+minerals dissolved in water and carried into the ocean by rivers;  
+(d) No. 
+P45.12 
+(a) 16.2 kg; (b) 117 g 
+P45.14 
+(a) 4.84V
+−1/3; (b) 6V
+−1/3; (c) 6.30V
+−1/3; (d) The sphere has minimum 
+leakage and the parallelepiped has minimum leakage. 
+P45.16 
+6.25 × 10
+19 Bq 
+P45.18 
+By balancing the equation for electric charge and number of nucleons, 
+we find that n = 1. If one incoming neutron results in just one outgoing 
+neutron, the possibility of a chain reaction is not there, so this nuclear 
+reactor will not work. 
+P45.20 
+(a) 4.56 × 10−24 kg⋅m/s; (b) 0.145 nm; (c) This size has the same order 
+of magnitude as an atom’s outer electron cloud, and is vastly larger 
+than a nucleus. 
+P45.22 
+3.07 × 10
+22 events 
+P45.24 
+(a) E = 144Z1Z2 where E is in keV; (b) The energy is proportional to 
+each atomic number; (c) Take Z1 = 1 and Z2 = 59 or vice versa. This 
+choice minimizes the product Z1 Z2; (d) 144 keV for both, according to 
+this model 
+P45.26 
+(a) 3.24 fm; (b) 444 keV; (c) 2
+5 vi ; (d) 740 keV; (e) possibly by tunneling 
+P45.28 
+(a) 1.66 × 10
+7 J; (b) 6.45 kg 
+P45.30 
+(a)  7
+13N ; (b)  6
+13C ; (c)  7
+14N ; (d)  8
+15O ; (e)  7
+15N ; (f)  6
+12C ; (g) The original 
+carbon-12 nucleus is returned so the overall reaction is 
+4
+1
+1H
+(
+)  →    2
+4He. 
+P45.32 
+(a) 2.5 mrem/x-ray; (b) The technician’s occupational exposure is high 
+compared to background radiation; it is 38 times 0.13 rem/yr.
+
+--- PAGE 46 ---
+Chapter 45     1191 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.34 
+(a) ln 2( )
+µ
+; (b) −ln f
+µ
+ 
+P45.36 
+18.8 J 
+P45.38 
+It would take over 24 days to raise the temperature of the water to 
+100°C and even longer to boil it, so this technique will not work for a 
+20-minute coffee break! 
+P45.40 
+1.14 rad 
+P45.42 
+3.96 × 10
+–4 J/kg 
+P45.44 
+(a) See P45.44(a) for full explanation; (b) R
+λ
+ 
+P45.46 
+(a) 8.68 MeV; (b) The particles must have enough kinetic energy to 
+overcome their mutual electrostatic repulsion so that they can get close 
+enough to fuse. 
+P45.48 
+(a) 10
+3 Pa; (b) 6 × 10
+9 m
+3; (c) 6 × 10
+12 J; (d) ~10
+14 J; (e) ~ 10
+4 ton TNT 
+P45.50 
+(a) 27.6 min; (b) 30 min ± 27% 
+P45.52 
+(a) See P45.52(a) for full explanation; (b) 177 MeV; (c) KBr = 112.0 MeV, 
+KLa = 65.4 MeV; (d) vBr = 15.8 Mm/s, vLa = 9.30 Mm/s  
+P45.54 
+232 yr 
+P45.56 
+482 Ci, less than the fission inventory by on the order of a hundred 
+million times. 
+P45.58 
+ 
+mNAE
+MU-235 cw 100 − Tc
+(
+) + Lv + cs Th – 100
+(
+)
+⎡⎣
+⎤⎦
+ 
+P45.60 
+(a) 15.4 cm; (b) 51.7 MeV; (c) The number of decays per second is the 
+decay rate R, and the energy released in each decay is Q. Then the 
+energy released per unit time interval is P = QR; (d) 2.27 × 10
+5 J/yr;  
+(e) 3.18 J/yr 
+P45.62 
+(a) See P45.62(a) for full explanation; (b) 35.2; (c) 2.89 × 10
+15 
+P45.64 
+(a) 2.24 × 10
+7 kWh; (b) 17.6 MeV for each D-T fusion; (c) 2.34 × 10
+8 kWh; 
+(d) 9.36 kWh; (e) Coal is cheap at this moment in human history. We 
+hope that safety and waste disposal problems can be solved so that 
+nuclear energy can be affordable before scarcity drives up the price of 
+fossil fuels. Burning coal in the open puts carbon dioxide into the 
+atmosphere, worsening global warming. Plutonium is a very 
+dangerous material to have sitting around. 
+P45.66 
+(a) 2.65 × 10
+9 J; (b) 78.0 times larger
+
+--- PAGE 47 ---
+1192     Applications of Nuclear Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P45.68 
+400 rad 
+P45.70 
+3.60 × 10
+38 protons/s 
+P45.72 
+(a) See P45.72(a) for full explanation; (b) 1.00 µs; (c) 2.83 km/s;  
+(d) 14.6 µs; (e) 108 kilotons of TNT

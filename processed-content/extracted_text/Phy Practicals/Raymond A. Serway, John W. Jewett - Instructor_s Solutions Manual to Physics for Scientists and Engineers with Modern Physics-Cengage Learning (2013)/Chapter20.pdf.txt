@@ -1,0 +1,5478 @@
+
+--- PAGE 1 ---
+1043 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+20 
+The First Law of Thermodynamics 
+ 
+CHAPTER OUTLINE 
+ 
+20.1  
+Heat and Internal Energy 
+20.2  
+Specific Heat and Calorimetry 
+20.3  
+Latent Heat 
+20.4 
+Work and Heat in Thermodynamic Processes 
+20.5  
+The First Law of Thermodynamics 
+20.6 
+Some Applications of the First Law of Thermodynamics 
+20.7 
+Energy Transfer Mechanisms in Thermal Processes 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ20.1 
+Answer (b). The work done on a gas 
+equals the area under the process 
+curve in a PV diagram. In an isobaric 
+process, the pressure is constant, so Pf 
+= Pi and the work done is the area 
+under curve 1–2 in ANS. FIG. OQ20.1. 
+For an isothermal process, the ideal 
+gas law gives PfVf = PiVi , so Pf = 
+(Vi/Vf) Pi = 2Pi   and the work done is 
+the area under curve 1–3 in ANS. FIG. 
+OQ20.1. For an adiabatic process, 
+PfVf
+γ = PiVi
+γ = constant (see Ch. 21), so 
+Pf = (Vi Vf)γ Pi  and Pf = 2γ Pi > 2Pi since γ > 1 for all ideal gases. The 
+work done in an adiabatic process is the area under curve 1–4, which 
+exceeds that done in either of the other processes. 
+ANS. FIG. OQ20.1
+
+--- PAGE 2 ---
+1044     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ20.2 
+Answer (d). The high specific heat will keep the end in the fire from 
+warming up very fast. The low conductivity will make the handle 
+end warm up only very slowly. 
+OQ20.3 
+Answer (a). Do a few trials with water at different original 
+temperatures and choose the one where room temperature is 
+halfway between the original and the final temperature of the water. 
+Then you can reasonably assume that the contents of the calorimeter 
+gained and lost equal quantities of heat to the surroundings, for net 
+transfer zero. James Joule did it like this in his basement in London. 
+OQ20.4 
+Answer (c). Since less energy was required to produce a 5°C rise in 
+the temperature of the ice than was required to produce a 5°C rise in 
+temperature of an equal mass of water, we conclude that the specific 
+heat of ice c = Q/m ΔT
+(
+)
+[
+] is less than that of water. 
+OQ20.5 
+Answer (e). The required energy input is 
+ 
+ 
+ 
+Q = mc ΔT
+(
+) = 5.00 kg
+(
+) 128 J kg ⋅°C
+(
+) 327°C −20.0°C
+(
+)
+= 1.96 × 105 J 
+ 
+OQ20.6 
+Answer (c). With a specific heat half as large, the ΔT is twice as great 
+in the ethyl alcohol. 
+OQ20.7 
+Answer (d). From the relation Q = mcΔT, the change in temperature 
+of a substance depends on the quantity of energy Q added to that 
+substance, and its specific heat and mass: ΔT = Q/mc. The masses of 
+the substances are not given. 
+OQ20.8 
+Rankings (e) > (a) = (b) = (c) > (d). We think of the product mcΔT in 
+each case, with c = 1 for water and about 0.5 for beryllium: (a) 1 · 1 · 6 
+= 6, (b) 2 · 1 · 3 = 6, (c) 2 · 1 · 3 = 6, (d) 2(0.5)3 = 3, (e) > 6 because a 
+large quantity of energy input is required to melt the ice. 
+OQ20.9 
+(i) Answer (d). (ii) Answer (d). Internal energy and temperature both 
+increase by minuscule amounts due to the work input. 
+OQ20.10 
+Answer (b). The total change in internal energy is zero. 
+ 
+ 
+ 
+QCu +Qwater +QAl = 0
+100 g
+(
+) 0.092 cal
+g °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −95.0°C
+(
+)
++ 200 g
+(
+) 1.00 cal
+g °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −15.0°C
+(
+)
++ 280 g
+(
+) 0.215 cal
+g °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −15.0°C
+(
+) = 0
+
+--- PAGE 3 ---
+Chapter 20     1045 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+9.20Tf −874°C + 200Tf −3 000°C + 60.2Tf −903°C = 0
+269.4Tf = 4 777°C
+Tf = 17.7°C
+ 
+OQ20.11 
+Answer (e). Twice the radius means four times the surface area. 
+Twice the absolute temperature makes T
+4 sixteen times larger in 
+Stefan’s law. The total effect is 4 × 16 = 64. 
+OQ20.12 
+Answer (d). During istothermal compression, the temperature 
+remains unchanged. The internal energy of an ideal gas is 
+proportional to its absolute temperature. As the gas is compressed, 
+positive work is done on the gas but also energy is transferred from 
+the gas by heat because the total change in internal energy is zero. 
+OQ20.13 
+Answer (c) only. By definition, in an adiabatic process, no energy is 
+transferred to or from the gas by heat. In an expansion process, the 
+gas does work on the environment. Since there is no energy input by 
+heat, the first law of thermodynamics says that the internal energy of 
+the ideal gas must decrease, meaning the temperature will decrease. 
+Also, in an adiabatic process, PVγ = constant, meaning that the 
+pressure must decrease as the volume increases. 
+OQ20.14 
+Answer (b) only. In an isobaric process on an ideal gas, pressure is 
+constant while the gas either expands or is compressed. Since the 
+volume of the gas is changing, work is done either on or by the gas. 
+Also, from the ideal gas law with pressure constant, PΔV = nRΔT; 
+thus, the gas must undergo a change in temperature having the same 
+sign as the change in volume. If ΔV > 0, then both ΔT and the 
+change in the internal energy of the gas are positive ( ΔU > 0). 
+However, when ΔV > 0, the work done on the gas is negative ( ΔW < 
+0), and the first law of thermodynamics says that there must be a 
+positive transfer of energy by heat to the gas (Q = ΔU – W > 0). 
+When ΔV < 0, a similar argument shows that ΔU < 0, W > 0, and Q = 
+ΔU – W < 0. Thus, all of the other listed choices are false statements. 
+OQ20.15 
+Answer (d). The temperature of the ice must be raised to the melting 
+point, ΔT = +20.0°C, before it will start to melt. The total energy 
+input required to melt the 1.00 kg of ice is 
+ 
+ 
+ 
+Q = mcice ΔT
+(
+)+ mLf = 1.00 kg
+(
+)
+2 090 J kg⋅°C
+(
+) 20.0°C
+(
+)
+⎡⎣
+                                                   + 3.33 × 105 J/kg⎤⎦= 3.75 × 105 J 
+ 
+ 
+The time the heating element will need to supply this quantity of 
+energy is 
+ 
+ 
+ 
+Δt = Q
+P =
+3.75 × 105 J
+1.00 × 103 J s = 375 s
+(
+) 1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.25 min
+
+--- PAGE 4 ---
+1046     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ20.1 
+Rubbing a surface results in friction converting kinetic energy to 
+thermal energy. Metal, being a good thermal conductor, allows 
+energy to transfer swiftly out of the rubbed area to the surrounding 
+areas, resulting in a swift fall in temperature. Wood, being a poor 
+conductor, permits a slower rate of transfer, so the temperature of the 
+rubbed area does not fall as swiftly.  
+CQ20.2 
+Keep them dry. The air pockets in the pad conduct energy by heat, 
+but only slowly. Wet pads would absorb some energy in warming up 
+themselves, but the pot would still be hot and the water would 
+quickly conduct a lot of energy right into you. 
+CQ20.3 
+Heat is a method of transferring energy, not energy contained in an 
+object. Further, a low-temperature object with large mass, or an 
+object made of a material with high specific heat, can contain more 
+internal energy than a higher-temperature object.  
+CQ20.4 
+There are three properties to consider here: thermal conductivity, 
+specific heat, and mass. With dry aluminum, the thermal 
+conductivity of aluminum is much greater than that of (dry) skin. 
+This means that the internal energy in the aluminum can more 
+readily be transferred to the atmosphere than to your fingers. In 
+essence, your skin acts as a thermal insulator. If the aluminum is wet, 
+it can wet the outer layer of your skin to make it into a good thermal 
+conductor; then more energy from the aluminum can transfer to you. 
+Further, the water itself, with additional mass and with a relatively 
+large specific heat compared to aluminum, can be a significant source 
+of extra energy to burn you. In practical terms, when you let go of a 
+hot, dry piece of aluminum foil, the energy transfer by heat 
+immediately ends. When you let go of a hot and wet piece of 
+aluminum foil, the hot water sticks to your skin, continuing the heat 
+transfer, and resulting in more energy transfer by heat to you! 
+CQ20.5 
+If the system is isolated, no energy enters or leaves the system by 
+heat, work, or other transfer processes. Within the system energy can 
+change from one form to another, but since energy is conserved these 
+transformations cannot affect the total amount of energy. The total 
+energy is constant. 
+CQ20.6 
+(a) 
+Warm a pot of coffee on a hot stove. 
+ 
+(b) Place an ice cube at 0ºC in warm water—the ice will absorb 
+energy while melting, but not increase in temperature. 
+ 
+(c) 
+Let a high-pressure gas at room temperature slowly expand by 
+pushing on a piston. Energy comes out of the gas by work in a
+
+--- PAGE 5 ---
+Chapter 20     1047 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+constant-temperature expansion as the same quantity of energy 
+flows by heat in from the surroundings. 
+ 
+(d) Warm your hands by rubbing them together. Heat your tepid 
+coffee in a microwave oven. Energy input by work, by 
+electromagnetic radiation, or by other means, can all alike 
+produce a temperature increase. 
+ 
+(e) 
+Davy’s experiment is an example of this process. 
+CQ20.7 
+(a) 
+Yes, wrap the blanket around the ice chest. The environment is 
+warmer than the ice, so the blanket prevents energy transfer by 
+heat from the environment to the ice.  
+ 
+(b) Explain to your little sister that her body is warmer than the 
+environment and requires energy transfer by heat into the air to 
+remain at a fixed temperature. The blanket will prevent this 
+conduction and cause her to feel warmer, not cool like the ice. 
+CQ20.8 
+Ice is a poor thermal conductor, and it has a high specific heat. The 
+idea behind wetting fruit is that a coating of ice prevents the fruit 
+from cooling below the freezing temperature even as the air outside 
+is colder, and also to protect plants from frost. When frost melts it 
+takes its heat from the fruit, and kills it. When ice melts it takes heat 
+from the air, so it acts as insulation for the fruit.  
+CQ20.9 
+The person should add the cream immediately when the coffee is 
+poured. Then the smaller temperature difference between coffee and 
+environment will reduce the rate of energy transfer out of the cup 
+during the several minutes. 
+CQ20.10 
+The sunlight hitting the peaks warms the air immediately around 
+them. This air, which is slightly warmer and less dense than the 
+surrounding air, rises, as it is buoyed up by cooler air from the valley 
+below. The air from the valley flows up toward the sunny peaks, 
+creating the morning breeze.  
+CQ20.11 
+Because water has a high specific heat, it can absorb or lose quite a 
+bit of energy and not experience much change in temperature. The 
+water would act as a means of preventing the temperature in the 
+cellar from varying much so that stored goods would neither freeze 
+nor become too warm. 
+CQ20.12 
+The steam locomotive engine is one perfect example of turning 
+internal energy into mechanical energy. Liquid water is heated past 
+the point of vaporization. Through a controlled mechanical process, 
+the expanding water vapor is allowed to push a piston. The 
+translational kinetic energy of the piston is usually turned into 
+rotational kinetic energy of the drive wheel.
+
+--- PAGE 6 ---
+1048     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 20.1 
+Heat and Internal Energy	  
+P20.1 
+(a) 
+The energy equivalent of 540 Calories is found from  
+ 
+ 
+ 
+Q = 540 Cal
+103 cal
+1 Cal
+⎛
+⎝⎜
+⎞
+⎠⎟
+4.186 J
+1 cal
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.26 × 106 J 
+ 
+(b) The work done lifting her weight mg up one stair of height h is  
+W1 = mgh. Thus, the total work done in climbing N stairs is  
+W = Nmgh, and we have Q = Nmgh, or 
+ 
+ 
+ 
+N =
+Q
+mgh =
+2.26 × 106 J
+55.0 kg
+(
+) 9.80 m s2
+(
+) 0.150 m
+(
+)
+2.80 × 104 stairs 
+ 
+(c) 
+If only 25% of the energy from the donut goes into mechanical 
+energy, we have 
+ 
+ 
+ 
+N = 0.25Q
+mgh = 0.25
+Q
+mgh
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.25 2.80 × 104 stairs
+(
+)
+= 6.99 × 103 stairs
+ 
+ 
+ 
+	  
+Section 17.2 
+Specific Heat and Calorimetry 
+P20.2 
+The container is thermally insulated, so no energy is transferred by 
+heat:  
+ 
+ 
+ 
+Q = 0 
+ 
+and  
+ΔEint = Q + Winput = 0 + Winput = 2mgh 
+ 
+The work on the falling weights is equal to the work done on the water 
+in the container by the rotating blades. This work results in an increase 
+in internal energy of the water: 
+ 
+ 
+ 
+2mgh = ΔEint = mwatercΔT 
+ 
+ 
+ 
+ΔT = 2mgh
+mwaterc =
+2 1.50 kg
+(
+) 9.80 m s2
+(
+) 3.00 m
+(
+)
+0.200 kg
+(
+) 4 186 J kg ⋅°C
+(
+)
+=
+88.2 J
+837 J °C
+= 0.105°C
+
+--- PAGE 7 ---
+Chapter 20     1049 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.3 
+The system is thermally isolated, so 
+ 
+ 
+Qwater + QAl + QCu = 0
+0.250 kg
+(
+) 4 186
+J
+kg °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −20.0°C
+(
+)
++ 0.400 kg
+(
+) 900
+J
+kg °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −26.0°C
+(
+)
++ 0.100 kg
+(
+) 387
+J
+kg °C
+⎛
+⎝⎜
+⎞
+⎠⎟Tf −100°C
+(
+) = 0
+1 046.5Tf −20 930°C + 360Tf −9 360°C + 38.7Tf −3 870°C = 0
+1 445.2Tf = 34 160°C
+Tf = 23.6°C
+ 
+P20.4 
+As mass m of water drops from top to bottom of the falls, the 
+gravitational potential energy given up (and hence, the kinetic energy 
+gained) is Q = mgh. If all of this goes into raising the temperature,  
+Q = mcΔT, and the rise in temperature will be 
+ 
+ 
+ΔT =
+Q
+mcwater
+=
+m gh
+mcwater
+=
+9.80 m s2
+(
+) 807 m
+(
+)
+4 186 J kg ⋅°C
+= 1.89°C 
+ 
+and the final temperature is  
+ 
+ 
+Tf = Ti + ΔT = 15.0°C + 1.89°C = 16.9°C 
+P20.5 
+When thermal equilibrium is reached, the water and aluminum will 
+have a common temperature of Tf = 65.0ºC. Assuming that the water-
+aluminum system is thermally isolated from the environment,  
+Qcold = –Qhot: 
+ 
+ 
+mwcw Tf −Ti,w
+(
+) = −mAlcAl Tf −Ti,Al
+(
+)  
+ 
+or 
+ 
+mw =
+−mAlcAl Tf −Ti,Al
+(
+)
+cw Tf −Ti,w
+(
+)
+     = −1.85 kg
+(
+) 900 J kg ⋅°C
+(
+) 65.0°C −150°C
+(
+)
+4 186 J kg ⋅°C
+(
+) 65.0°C −25.0°C
+(
+)
+= 0.845 kg
+
+--- PAGE 8 ---
+1050     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.6 
+We find its specific heat from the definition, which is contained in the 
+equation Q = mcsilverΔT for energy input by heat to produce a 
+temperature change. Solving, we have 
+ 
+ 
+ 
+csilver =
+Q
+mΔT
+ 
+ 
+ 
+ 
+csilver =
+1.23 × 103J
+(0.525 kg)(10.0°C) = 234 J/kg⋅°C
+ 
+P20.7 
+We imagine the stone energy reservoir has a large area in contact with 
+air and is always at nearly the same temperature as the air. Its 
+overnight loss of energy is described by 
+ 
+ 
+ 
+P = Q
+Δt = mcΔT
+Δt
+ 
+ 
+ 
+ 
+m = PΔt
+cΔT =
+−6 000 J s
+(
+) 14 h
+(
+) 3 600 s h
+(
+)
+850 J kg ⋅°C
+(
+) 18.0°C −38.0°C
+(
+)
+=
+3.02 × 108 J
+850 J kg ⋅°C
+(
+) 20.0°C
+(
+)
+= 1.78 × 104 kg
+ 
+*P20.8 
+From Q = mcΔT we find 
+ 
+ 
+ 
+ΔT = Q
+mc =
+1 200 J
+0.050 0 kg
+(
+) 387 J kg ⋅°C
+(
+) = 62.0°C
+ 
+ 
+Thus, the final temperature is 25.0°C + 62.0°C = 87.0°C . 
+P20.9 
+Let us find the energy transferred in one minute: 
+ 
+ 
+ 
+Q = mcupccup + mwatercwater
+⎡⎣
+⎤⎦ΔT
+Q =
+0.200 kg
+(
+) 900 J kg⋅°C
+(
+)+ 0.800 kg
+(
+) 4 186 J kg⋅°C
+(
+)
+⎡⎣
+⎤⎦
+                                                                     × −1.50°C
+(
+) = −5 290 J
+ 
+ 
+If this much energy is removed from the system each minute, the rate 
+of removal is 
+ 
+ 
+ 
+P = Q
+Δt = 5 290 J
+60.0 s = 88.2 J s = 88.2 W 
+P20.10 
+We use Qcold = −Qhot to find the equilibrium temperature: 
+ 
+ 
+ 
+mAlcAl Tf −Tc
+(
+) + mccw Tf −Tc
+(
+) = −mhcw Tf −Th
+(
+) 
+ 
+ 
+ 
+mAlcAl + mccw
+(
+)Tf −mAlcAl + mccw
+(
+)Tc = −mhcwTf + mhcwTh
+ 
+ 
+ 
+ 
+mAlcAl + mccw + mhcw
+(
+)Tf = mAlcAl + mccw
+(
+)Tc + mhcwTh
+
+--- PAGE 9 ---
+Chapter 20     1051 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+solving for the final temperature gives 
+ 
+ 
+ 
+Tf =
+mAlcAl + mccw
+(
+)Tc + mhcwTh
+mAlcAl + mccw + mhcw
+ 
+P20.11 
+We assume that the water-horseshoe system is thermally isolated 
+(insulated) from the environment for the short time required for the 
+horseshoe to cool off and the water to warm up. Then the total energy 
+input from the surroundings is zero, as expressed by QFe  + Qwater = 0: 
+ 
+ 
+ 
+(mcΔT)Fe + (mcΔT)water = 0 
+ 
+ 
+ 
+mFecFe(T −600°C) + mwcw(T −25.0°C) = 0  
+ 
+Note that the first term in this equation is a negative number of joules, 
+representing energy lost by the originally hot subsystem, and the 
+second term is a positive number with the same absolute value, 
+representing energy gained by heat by the cold stuff. Solving for the 
+final temperature gives 
+ 
+ 
+ 
+T = mwcw(25.0oC) + mFecFe(600oC)
+mFecFe + mwcw
+ 
+ 
+Substituting cw = 4 186 J/kg . °C and cFe = 448 J/kg . °C and 
+suppressing units, we obtain 
+ 
+ 
+ 
+T = (20.0)(4 186)(25.0°C) + (1.50)(448)(600°C)
+(1.50)(448) + (20.0 kg)(4 186)
+= 29.6°C
+ 
+P20.12 
+(a) 
+The work that the bit does in deforming the block, breaking chips 
+off, and giving them kinetic energy is not a final destination for 
+energy. All of this work turns entirely into internal energy as soon 
+as the chips stop their macroscopic motion. The amount of energy 
+input to the steel is the work done by the bit: 
+ 
+ 
+ 
+W =
+
+F ⋅Δr = 3.20 N
+(
+) 40.0 m s
+(
+) 15.0 s
+(
+)cos0.00° = 1 920 J 
+ 
+ 
+To evaluate the temperature change produced by this energy we 
+imagine injecting the same quantity of energy as heat from a 
+stove. The bit, chips, and block all undergo the same temperature 
+change. Any difference in temperature between one bit of steel 
+and another would erase itself by causing an energy transfer by 
+heat from the temporarily hotter to the colder region. 
+ 
+ 
+ 
+Q = mcΔT
+ΔT = Q
+mc =
+1 920 J
+0.267 kg
+(
+) 448 J kg ⋅°C
+(
+)
+= 16.1°C
+
+--- PAGE 10 ---
+1052     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) See part (a). The same amount of work is done. 16.1°C 
+ 
+(c) 
+It makes no difference whether the drill bit is dull or sharp, 
+or how far into the block it cuts. The answers to (a) and (b) 
+are the same because all of the work done by the bit on the 
+block constitutes energy being transferred into the internal 
+energy of the steel.
+ 
+P20.13 
+(a) 
+To find the specific heat of the unknown sample, we start with 
+Qcold = – Qhot and substitute: 
+ 
+ 
+ 
+mwcw + mccc
+(
+) Tf −Tc
+(
+) = −mCucCu Tf −TCu
+(
+) −munkcunk Tf −Tunk
+(
+) 
+ 
+ 
+where w is for water, c the calorimeter, Cu the copper sample, and 
+“unk” the unknown. 
+ 
+ 
+ 
+0.250 kg
+(
+) 4 186 J kg ⋅°C
+(
+) + 0.100 kg
+(
+) 900 J kg ⋅°C
+(
+)
+⎡⎣
+⎤⎦
+                                                                        20.0°C −10.0°C
+(
+)
+= −0.050 0 kg
+(
+) 387 J kg ⋅°C
+(
+) 20.0 −80.0
+(
+)°C
+                                           −0.070 0 kg
+(
+)cunk 20.0°C −100°C
+(
+)
+1.020 4 × 104 J = 5.60 kg ⋅°C
+(
+)cunk
+cunk = 1.82 × 103 J kg ⋅°C
+  
+ 
+(b) 
+We cannot make definite identification. It might be beryllium. 
+ 
+(c) 
+The material might be an unknown alloy or a material 
+not listed in the table.
+ 
+P20.14 
+(a) 
+Expressing the percentage change as f = 0.60, we have  
+ 
+ 
+ 
+f( ) mgh
+(
+) = mcΔT     →     ΔT = fgh
+c
+ 
+ 
+ 
+ 
+ΔT = 0.600
+(
+) 9.80 m s2
+(
+) 50.0 m
+(
+)
+387 J kg⋅°C
+= 0.760°C = T −25.0°C
+ 
+ 
+which gives  T = 25.8°C 
+ 
+(b) 
+As shown above, the symbolic result from part (a) shows 
+no dependence on mass. Both the change in gravitational 
+potential energy and the change in internal energy of the 
+system depend on the mass, so the mass cancels.
+
+--- PAGE 11 ---
+Chapter 20     1053 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.15 
+(a) 
+The gas comes to an equilibrium temperature according to 
+ 
+ 
+ 
+mcΔT
+(
+)cold = −mcΔT
+(
+)hot
+n1Mc Tf −300 K
+(
+) + n2Mc Tf −450 K
+(
+) = 0
+ 
+ 
+ 
+The molar mass M and specific heat divide out, and we can 
+express n in terms of P, V, and T, using PV = nRT:  
+ 
+ 
+ 
+P1V1
+T1
+Mc Tf −T1
+(
+) + P2V2
+T2
+Mc Tf −T2
+(
+) = 0
+P1V1
+T1
+Tf −P1V1
+T1
+T1 + P2V2
+T2
+Tf −P2V2
+T2
+T2 = 0
+Tf
+P1V1
+T1
++ P2V2
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟= P1V1 + P2V2
+ 
+ 
+ 
+Tf =
+P1V1 + P2V2
+P1V1
+T1
++ P2V2
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1.75 atm
+(
+) 16.8 L
+(
+)+ 2.25 atm
+(
+) 22.4 L
+(
+)
+1.75 atm
+(
+) 16.8 L
+(
+)
+300 K
++ 2.25 atm
+(
+) 22.4 L
+(
+)
+450 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 380 K
+ 
+ 
+(b) The pressure of the whole sample in its final state is 
+ 
+ 
+ 
+Pf = n1 + n2
+(
+) R
+Vf
+Tf =
+P1V1
+RT1
++ P2V2
+RT2
+⎛
+⎝⎜
+⎞
+⎠⎟
+R
+V1 +V2
+⎛
+⎝⎜
+⎞
+⎠⎟
+P1V1 + P2V2
+P1V1
+T1
++ P2V2
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Pf =
+P1V1 + P2V2
+V1 +V2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1.75 atm
+(
+) 16.8 L
+(
+)+ 2.25 atm
+(
+) 22.4 L
+(
+)
+16.8 L + 22.4 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.04 atm
+ 
+ 
+ 
+	  
+Section 20.3 
+Latent Heat 
+*P20.16 
+To find the amount of steam to be condensed, we begin with  
+ 
+ 
+ 
+Qcold = −Qhot 
+ 
+With the steam at 100°C, this becomes 
+ 
+ 
+ 
+mwcw + mccc
+(
+) Tf −Ti
+(
+) = −ms −Lv + cw Tf −100
+(
+)
+⎡⎣
+⎤⎦
+
+--- PAGE 12 ---
+1054     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+0.250 kg
+(
+) 4 186 J kg⋅°C
+(
+)+ 0.050 0 kg
+(
+) 387 J kg⋅°C
+(
+)
+[
+]
+50.0°C −20.0°C
+(
+)
+   = −ms −2.26 × 106 J kg + 4 186 J kg⋅°C
+(
+) 50.0°C −100°C
+(
+)
+[
+]
+ 
+ 
+Solving for the mass of steam gives 
+ 
+ 
+ 
+ms =
+3.20 × 104 J
+2.47 × 106 J kg = 0.012 9 kg = 12.9 g steam
+ 
+*20.17 
+We assume that all work done against friction is used to melt the snow. 
+Equation 8.2 for conservation of energy then gives 
+ 
+ 
+Wskier = Qsnow  
+ 
+or 
+f ⋅d = msnowLf  
+ 
+where 
+f = µkn = µk mskierg
+(
+)  
+ 
+Substituting and solving for the distance gives 
+ 
+ 
+d =
+msnowLf
+µk mskierg
+(
+)
+=
+1.00 kg
+(
+) 3.33 × 105 J/kg
+(
+)
+0.200 75.0 kg
+(
+) 9.80 m/s2
+(
+)
+= 2.27 × 103 m = 2.27 km
+ 
+P20.18 
+The energy input needed is the sum of the following terms: 
+ 
+ 
+ 
+Qneeded = energy to reach melting point
+(
+)+ energy to melt
+(
+)
++ energy to reach boiling point
+(
+)
+ + energy to vaporize
+(
+)
++ energy to reach 110°C
+(
+)
+ 
+ 
+Thus, we have 
+ 
+ 
+ 
+Qneeded = 0.040 0 kg
+(
+)
+2 090 J kg⋅°C
+(
+) 10.0°C
+(
+)
+⎡⎣
++ 3.33 × 105 J kg
+(
+)+ 4 186 J kg⋅°C
+(
+) 100°C
+(
+)
++ 2.26 × 106 J kg
+(
+)+ 2 010 J kg⋅°C
+(
+) 10.0°C
+(
+)⎤⎦
+Qneeded = 1.22 × 105 J
+ 
+P20.19 
+Remember that energy must be supplied to melt the ice before its 
+temperature will begin to rise. Then, assuming a thermally isolated 
+system, Qcold = –Qhot, or 
+ 
+miceLf + micecwater Tf −0°C
+(
+) = −mwcwater Tf −25°C
+(
+)
+
+--- PAGE 13 ---
+Chapter 20     1055 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+ 
+ 
+Tf =
+mwcwater 25°C
+(
+) −miceLf
+mice + mw
+(
+)cwater
+   =
+825 g
+(
+) 4 186 J kg ⋅°C
+(
+) 25°C
+(
+) −75 g
+(
+) 3.33 × 105 J kg
+(
+)
+75 g + 825 g
+(
+) 4 186 J kg ⋅°C
+(
+)
+ 
+ 
+yielding  Tf = 16.3°C 
+P20.20 
+The bullet will not melt all the ice, so its final temperature is 0°C. 
+ 
+Then, conservation of energy gives 
+ 
+ 
+ 
+1
+2 mv2 + mc ΔT
+⎛
+⎝⎜
+⎞
+⎠⎟
+bullet
+= mwLf
+ 
+ 
+where mw is the mass of melted ice. Solving for mw gives, 
+ 
+ 
+ 
+mw =
+3.00 × 10−3 kg
+3.33 × 105 J kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+                    ×
+0.500
+(
+) 240 m s
+(
+)
+2 + 128 J kg ⋅°C
+(
+) 30.0°C
+(
+)
+⎡⎣
+⎤⎦
+mw = 86.4 J + 11.5 J
+333 000 J kg = 0.294 g
+ 
+P20.21 
+(a) 
+With 10.0 g of steam added to 50.0 g of ice, we first compute the 
+energy required to melt all the ice: 
+ 
+ 
+ 
+Q1 = energy to melt all the ice
+(
+)
+= 50.0 × 10−3 kg
+(
+) 3.33 × 105 J kg
+(
+) = 1.67 × 104 J
+ 
+ 
+ 
+Also, the energy required to raise the temperature of the melted 
+ice to 100°C is  
+ 
+ 
+ 
+Q2 = energy to raise temp of ice to 100°C
+(
+)
+= 50.0 × 10−3 kg
+(
+) 4 186 J kg⋅°C
+(
+) 100°C
+(
+) = 2.09 × 104 J
+ 
+ 
+ 
+Thus, the total energy to melt all of the ice and raise its 
+temperature to 100°C is 
+ 
+ 
+ 
+Q1 +Q2 = 1.67 × 104 J + 2.09 × 104 J = 3.76 × 104 J  
+ 
+ 
+The energy available from the condensation of 10.0 g of steam is 
+ 
+ 
+ 
+Q3 = energy available as steam condenses
+(
+)
+= 10.0 × 10−3 kg
+(
+) 2.26 × 106 J kg
+(
+) = 2.26 × 104 J
+
+--- PAGE 14 ---
+1056     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, we see that Q3 > Q1, but Q3 < Q1 + Q2, which means that all 
+of the ice will melt, Δmice = 50.0 g , but the final temperature of 
+the mixture will be Tf < 100ºC. To find the final temperature Tf, we 
+use Qcold = −Qhot, or 
+ 
+ 
+ 
+miceLf + micecwΔTice = −msteamLv −msteamcwΔTsteam 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+50.0 × 10−3 kg
+(
+) 3.33 × 105 J kg
+(
+)
+   + 50.0 × 10−3 kg
+(
+) 4 186 J kg⋅°C
+(
+) Tf −0°C
+(
+)
+                       = −10.0 × 10−3 kg
+(
+) −2.26 × 106 J kg
+(
+)
+                            −10.0 × 10−3 kg
+(
+) 4 186 J kg⋅°C
+(
+) Tf −100°C
+(
+)
+ 
+ 
+ 
+From which we obtain 
+ 
+ 
+ 
+Tf = 40.4°C 
+ 
+(b) Since the mass of steam is much smaller than in part (a), we know 
+that the condensation of steam will not be sufficient to melt all of 
+the ice and raise its temperature to 100°C. We do need to 
+determine whether the condensation of steam can supply 
+sufficient energy to melt all of the ice. Recall from part (a) that 
+ 
+ 
+ 
+Q1 = energy to melt all the ice
+(
+) = 1.67 × 104 J 
+ 
+ 
+The energy given up as the 1.00 g of steam condenses is 
+ 
+ 
+ 
+Q2 =
+energy given up
+as steam condenses
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+= 10−3 kg
+(
+) 2.26 × 106 J kg
+(
+)
+= 2.26 × 103 J
+ 
+ 
+ 
+Also, 
+ 
+ 
+ 
+Q3 =
+energy given up as condensed
+steam cools to 0°C
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+= 10−3 kg
+(
+) 4 186 J kg⋅°C
+(
+) 100°C
+(
+) = 419 J
+ 
+ 
+ 
+Since Q2 + Q3 < Q1 , therefore all of the steam will cool to 0°C, 
+and Tf = 0°C with some ice remaining. Let us now find the mass 
+of ice which must melt to condense the steam and cool the 
+condensate to 0°C. Again from Qcold = −Qhot, 
+ 
+ 
+ 
+miceLf = Q2 +Q3 = 2.68 × 103 J
+
+--- PAGE 15 ---
+Chapter 20     1057 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+mice =
+2.68 × 103 J
+3.33 × 105 J kg = 8.04 × 10−3 kg = 8.04 g  of ice melts
+ 
+ 
+ 
+Therefore, there is 42.0 g of ice left over, also at 0ºC. 
+P20.22 
+The boiling point of nitrogen is 77.3 K. Using units of joules, we have 
+ 
+ 
+ 
+Q = mCucCuΔT = mN2 Lvap
+(
+)N2 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+1.00 kg
+(
+) 387 J kg ⋅°C
+(
+) 293 −77.3
+(
+)°C = m 2.01× 105 J kg
+(
+)
+m = 0.415 kg
+ 
+P20.23 
+(a) 
+Since the heat required to melt 250 g of ice at 0°C exceeds the heat 
+required to cool 600 g of water from 18°C to 0°C, the final 
+temperature of the system (water + ice) must be 0°C . 
+ 
+(b) Let m represent the mass of ice that melts before the system 
+reaches equilibrium at 0°C. 
+ 
+ 
+ 
+Qcold = −Qhot
+mLf = −mwcw 0°C −Ti
+(
+)
+m 3.33 × 105 J kg
+(
+) = −0.600 kg
+(
+) 4 186 J kg ⋅°C
+(
+)
+0°C −18.0°C
+(
+)
+m = 136 g, so the ice remaining = 250 g −136 g = 114 g
+ 
+P20.24 
+(a) 
+Let n represent the number of stops. Follow the energy: 
+ 
+ 
+ 
+nK = mcΔT
+n 1
+2 (1 500 kg)(25.0 m/s)2
+⎡
+⎣⎢
+⎤
+⎦⎥
+                       = 6.00 kg
+(
+)(900 J/kg ⋅°C)(660°C −20.0°C)
+n = 3.46 × 106 J
+4.69 × 105 J = 7.37
+ 
+ 
+ 
+Thus 7 stops can happen before melting begins.
+
+--- PAGE 16 ---
+1058     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+As the car stops it transforms part of its kinetic energy into
+internal energy due to air resistance. As soon as the brakes
+rise above the air temperature they transfer energy by heat
+into the air, and transfer it very fast if they attain a high
+temperature.
+ 
+ 
+ 
+ 
+Section 20.4 
+Work and Heat in Thermodynamic Processes 
+P20.25 
+For constant pressure, W = −
+PdV
+Vi
+Vf∫
+= −PΔV = −P(Vf −Vi). Rather than 
+evaluating the pressure numerically from atmospheric pressure plus 
+the pressure due to the weight of the piston, we can just use the ideal 
+gas law to write in the volumes, obtaining 
+ 
+ 
+ 
+W = −P nRTh
+P
+−nRTc
+P
+⎛
+⎝⎜
+⎞
+⎠⎟= −nR Th −Tc
+(
+) 
+ 
+Therefore,  
+ 
+ 
+ 
+W = −nRΔT = −0.200 mol
+(
+) 8.314 J/mol⋅K
+(
+) 280 K
+(
+) = −466 J  
+P20.26 
+W = −PdV
+i
+f
+∫
+= −P dV
+i
+f
+∫
+= −PΔV = −nRΔT = −nR T2 −T1
+(
+)  
+ 
+The negative sign for work on the sample indicates that the expanding 
+gas does positive work. The quantity of work is directly proportional to 
+the quantity of gas and to the temperature change. 
+P20.27 
+During the warming process P =
+Pi
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟V. 
+ 
+(a) 
+W = −PdV
+i
+f
+∫
+= −
+Pi
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟VdV
+Vi
+3Vi
+∫
+ 
+ 
+ 
+W = −
+Pi
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟
+V 2
+2
+Vi
+3Vi
+= −Pi
+2Vi
+9Vi
+2 −Vi
+2
+(
+) = −4PiVi 
+ 
+(b) PV = nRT gives 
+ 
+ 
+ 
+Pi
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟V
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥V = nRT →T =
+Pi
+nRVi
+⎛
+⎝⎜
+⎞
+⎠⎟V 2
+
+--- PAGE 17 ---
+Chapter 20     1059 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+It is proportional to the square of the volume, according to
+T = (Pi/nRVi)V 2.
+ 
+P20.28 
+(a) 
+W = −PdV
+∫
+ 
+ 
+ 
+W = −6.00 × 106 Pa
+(
+) 2.00 m3 −1.00 m3
+(
+) +
+−4.00 × 106 Pa
+(
+) 3.00 m3 −2.00 m3
+(
+) +
+−2.00 × 106 Pa
+(
+) 4.00 m3 −3.00 m3
+(
+)
+Wi→f = −12.0 MJ
+ 
+ 
+(b) 
+Wf →i = +12.0 MJ 
+ 
+ 
+ANS. FIG. P20.28 
+P20.29 
+The work done on the gas is the negative of 
+the area under the curve P = αV 2, from Vi to 
+Vf . The work on the gas is negative, to mean 
+that the expanding gas does positive work. We 
+will find its amount by doing the integral 
+ 
+ 
+ 
+W = −PdV
+i
+f
+∫
+ 
+ 
+ 
+ 
+W = −αV 2dV
+i
+f
+∫
+= −1
+3α Vf
+3 −Vi
+3
+(
+)
+Vf = 2Vi = 2 1.00 m3
+(
+) = 2.00 m3
+ 
+ 
+ 
+ 
+W = −1
+3
+5.00 atm m6
+(
+) 1.013 × 105 Pa atm
+(
+)
+⎡⎣
+⎤⎦
+                                         ×
+2.00 m3
+(
+)
+3 −1.00 m3
+(
+)
+3
+⎡
+⎣
+⎤
+⎦
+= −1.18 MJ
+ 
+ANS. FIG. P20.29
+
+--- PAGE 18 ---
+1060     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+	  
+Section 20.5 
+The First Law of Thermodynamics 
+P20.30 
+(a) 
+Refer to ANS. FIG. P20.30. From the first law, for a cyclic process, 
+Q = –W = Area of triangle, so 
+ 
+ 
+ 
+Q = 1
+2 4.00 m3
+(
+) 6.00 kPa
+(
+)
+= 12.0 kJ
+ 
+ 
+(b) 
+Q = −W = −12.0 kJ 
+ 
+ANS. FIG. P20.30 
+P20.31 
+Refer to ANS. FIG. P20.30. We tabulate the signs for Q, W, and ΔEint 
+below: 
+ 
+Q W 
+ΔEint  
+BC 
+– 
+0 
+– 
+Q = ΔEint since WBC = 0
+(
+) 
+CA – 
++ 
+– 
+ΔEint < 0 and W > 0, so Q < 0
+(
+) 
+AB + 
+– 
++ 
+(W < 0, ΔEint > 0 since ΔEint < 0 
+for B →C →A; so Q > 0)
+ 
+ 
+P20.32 
+From the first law of thermodynamics, 
+ 
+ 
+ 
+ΔEint  = Q + W = 10.0 J + 12.0 J = +22.0 J 
+ 
+The change in internal energy is a positive number, which would be 
+consistent with an increase in temperature of the gas, but the problem 
+statement indicates a decrease in temperature.
+
+--- PAGE 19 ---
+Chapter 20     1061 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.33 
+From the first law of thermodynamics, ΔEint = Q +W, so 
+ 
+Q = ΔEint −W = −500 J −220 J = −720 J 
+ 
+The negative sign indicates that positive energy is transferred from the 
+system by heat. 
+P20.34 
+Because the gas goes through a cycle, the overall change in internal 
+energy must be zero: 
+ 
+ 
+ 
+ΔEint  = ΔEint,AB + ΔEint,BC + ΔEint,CD + ΔEint,DA = 0 
+         →   ΔEint,AB = −ΔEint,BC − ΔEint,CD − ΔEint,DA
+ 
+ 
+Recognize that ∆Eint = 0 for the isothermal process CD and substitute 
+from the first law for the other internal energy changes: 
+ 
+ 
+ANS. FIG. P20.34 
+ 
+ 
+ 
+ΔEint,AB = −QBC + WBC
+(
+) −  QDA + WDA
+(
+)
+             = −QBC − PBΔVBC
+(
+) −  QDA − PDΔVDA
+(
+)
+             = −QBC + QDA
+(
+) +  PBΔVBC + PDΔVDA
+(
+)
+             = −345 kJ − 371 kJ
+(
+) 
++ 
+3.00 atm
+(
+) 0.310 m3
+(
+) +  1.00 atm
+(
+) −1.00 m3
+(
+)
+⎡⎣
+⎤⎦
+× 1.013 × 105 Pa
+1 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.29 × 104J
+
+--- PAGE 20 ---
+1062     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 20.6 
+Some Applications of the  
+First Law of Thermodynamics 
+P20.35 
+(a) 
+Rearranging  PV = nRT  we get 
+Vi = nRT
+Pi
+ 
+ 
+ 
+The initial volume is 
+ 
+ 
+ 
+Vi = (2.00 mol)(8.314 J/mol⋅K)(300 K) 
+(0.400 atm) 1.013 × 105 Pa/atm
+(
+) 
+1 Pa
+N m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.123 m3
+ 
+ 
+ 
+For isothermal compression, PV is constant, so  PiVi = PfVf  and the 
+final volume is 
+ 
+ 
+ 
+Vf = Vi
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.123 m3
+(
+) 0.400 atm
+1.20 atm
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.041 0 m3
+ 
+ 
+(b) 
+W = −PdV
+∫
+= −nRT ln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= −4.99 × 103 J
+(
+)ln 1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= +5.48 kJ 
+  
+(c) 
+The ideal gas keeps constant temperature so ΔEint = 0 = Q + W 
+and the heat is Q = −5.48 kJ . 
+ 
+P20.36 
+(a) 
+We choose as a system the H2O molecules that all participate in 
+the phase change. For a constant-pressure process,  
+ 
+ 
+ 
+W = −PΔV = −P Vs −Vw
+(
+)  
+ 
+ 
+where Vs is the volume of the steam and Vw is the volume of the 
+liquid water. We can find them respectively from 
+ 
+ 
+ 
+PVs = nRT
+and
+Vw = m/p = nM/p. 
+ 
+ 
+Calculating each work term, 
+ 
+ 
+ 
+PVs = (1.00 mol) 8.314
+J
+K·mol
+⎛
+⎝⎜
+⎞
+⎠⎟(373 K) = 3 101 J
+PVw = (1.00 mol)(18.0 g/mol) 1.013 × 105 N m2
+1.00 × 106 g m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.82 J
+ 
+ 
+ 
+Thus the work done is  
+ 
+ 
+ 
+ 
+W = −3 101 J + 1.82 J = −3.10 kJ 
+ 
+(b) The energy input by heat is 
+ 
+ 
+ 
+ 
+Q = LvΔm = 18.0 g
+(
+) 2.26 × 106 J/kg
+(
+) = 40.7 kJ
+
+--- PAGE 21 ---
+Chapter 20     1063 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so the change in internal energy is 
+ 
+ 
+ 
+ 
+ΔEint = Q +W = 40.7 kJ −3.10 kJ = 37.6 kJ 
+P20.37 
+(a) 
+We use the energy version of the nonisolated system model. 
+ 
+ 
+ 
+ΔEint = Q +W 
+ 
+ 
+where W = −PΔV for a constant-pressure process so that 
+ 
+ 
+ 
+ 
+ΔEint = Q −PΔV
+= 12.5 kJ −2.50 kPa 3.00 m3 −1.00 m3
+(
+) = 7.50 kJ
+ 
+ 
+(b) Since pressure and quantity of gas are constant, we have from the 
+equation of state 
+ 
+ 
+ 
+V1
+T1
+= V2
+T2
+  
+ 
+ 
+and 
+ 
+ 
+ 
+T2 = V2
+V1
+T1 =
+3.00 m3
+1.00 m3
+⎛
+⎝⎜
+⎞
+⎠⎟300 K
+(
+) = 900 K
+ 
+P20.38 
+(a) 
+W = −nRT ln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= −PfVf ln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Suppressing units,   
+ 
+ 
+ 
+Vi = Vf exp + W
+PfVf
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.025 0
+(
+)exp
+−3 000
+0.025 0 1.013 × 105
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.007 65 m3
+ 
+ 
+(b) 
+Tf =
+PfVf
+nR =
+1.013 × 105 Pa 0.025 0 m3
+(
+)
+1.00 mol 8.314 J K ⋅mol
+(
+)
+= 305 K 
+P20.39 
+(a) 
+W = −PΔV = −P 3αVΔT
+[
+]
+= −1.013 × 105 N m2
+(
+)
+            × 3 24.0 × 10−6°C−1
+(
+)
+1.00 kg
+2.70 × 103 kg m3
+⎛
+⎝⎜
+⎞
+⎠⎟18.0°C
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+W = −0.048 6 J
+ 
+ 
+(b) 
+Q = cmΔT = 900 J kg ⋅°C
+(
+) 1.00 kg
+(
+) 18.0°C
+(
+) = 16.2 kJ 
+ 
+(c) 
+ΔEint = Q + W = 16.2 kJ −48.6 mJ = 16.2 kJ
+
+--- PAGE 22 ---
+1064     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.40 
+From conservation of energy, ΔEint, ABC = ΔEint, AC. 
+ 
+(a) 
+From the first law of thermodynamics, we have 
+ 
+ 
+ 
+ΔEint, ABC = QABC + WABC 
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+QABC = ΔEint, ABC −WABC = 800 J + 500 J = 1 300 J 
+ 
+(b) 
+WCD = −PCΔVCD, ΔVAB = −ΔVCD, and PA = 5PC 
+ 
+ 
+Then, WCD = 1
+5 PAΔVAB = −1
+5WAB = 100 J . 
+ 
+ 
+(+ means that work is done on the system) 
+ 
+(c) 
+WCDA = WCD so that  
+ 
+ 
+ 
+QCA = ΔEint, CA −WCDA = −800 J −100 J = −900 J 
+ 
+ 
+(– means that energy must be removed from the system by heat) 
+ 
+(d) 
+ΔEint, CD = ΔEint, CDA −ΔEint, DA = −800 J −500 J = −1 300 J 
+ 
+ 
+and QCD = ΔEint, CD −WCD = −1 300 J −100 J = −1 400 J . 
+ 
+ 
+ANS. FIG. P20.40 
+ 
+P20.41 
+(a) 
+The work done during each step of the cycle equals the negative 
+of the area under that segment of the PV curve. 
+ 
+ 
+ 
+W = WAB + WBC + WCD + WDA
+W = 0 −3Pi 3Vi −Vi
+(
+) + 0 −Pi Vi −3Vi
+(
+) + 0
+W = −4PiVi = −4nRTi
+W = −4 1.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 273 K
+(
+) = 9.08 kJ
+
+--- PAGE 23 ---
+Chapter 20     1065 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The initial and final values of T for the system are equal. 
+ 
+ 
+Therefore, ΔEint = 0 and Q = −W = 9.08 kJ . 
+ 
+ANS. FIG. P20.41 
+ 
+P20.42 
+(a) 
+The work done during each step of the cycle equals the negative 
+of the area under that segment of the PV curve shown in ANS. 
+FIG. P20.41. 
+ 
+ 
+ 
+W = WAB + WBC + WCD + WDA
+W = 0 −3Pi 3Vi −Vi
+(
+) + 0 −Pi Vi −3Vi
+(
+) + 0 = −4PiVi
+ 
+ 
+(b) The initial and final values of T for the system are equal. 
+ 
+ 
+Therefore, ΔEint = 0 and Q = −W = 4PiVi . 
+ 
+ 
+	  
+Section 20.7 
+Energy Transfer Mechanisms in Thermal Processes 
+P20.43 
+(a) 
+The rate of energy transfer by conduction through a material of 
+area A, thickness L, with thermal conductivity k, and 
+temperatures Th > Tc on opposite sides is P = kA (Th –  Tc)/L. For 
+the given windowpane, this is 
+ 
+ 
+ 
+P = 0.8 W m⋅C
+(
+) 1.0 m
+(
+) 2.0 m
+(
+)
+[
+] 25.0°C −0°C
+(
+)
+0.620 × 10−2 m
+= 6.45 × 103 W
+ 
+ 
+(b) The total energy lost per day is 
+ 
+ 
+ 
+E = P ⋅Δt = 6.45 × 103 J s
+(
+) 8.64 × 104 s
+(
+) = 5.57 × 108 J
+
+--- PAGE 24 ---
+1066     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.44 
+The thermal conductivity of concrete is k = 1.3 J/s · m · ºC, so the 
+energy transfer rate through the slab is 
+ 
+ 
+ 
+P = kA Th −Tc
+(
+)
+L
+= 0.8 W m⋅C
+(
+) 5.00 m2
+(
+)
+20°C
+(
+)
+12.0 × 10−2 m
+= 667 W
+ 
+P20.45 
+The net rate of energy transfer from his skin is 
+ 
+ 
+ 
+Pnet = σAe T 4 −T0
+4
+(
+)
+      = 5.67 × 10−8 W m2 ⋅K4
+(
+) 1.50 m2
+(
+)
+                           × 0.900
+(
+)
+308 K
+(
+)
+4 −293 K
+(
+)
+4
+⎡⎣
+⎤⎦= 125 W
+ 
+ 
+Note that the temperatures must be in kelvins. The energy loss in ten 
+minutes is 
+ 
+TER = PnetΔt = 125 J s
+(
+) 600 s
+(
+) = 74.8 kJ 
+ 
+In the infrared, the person shines brighter than a hundred-watt light 
+bulb. 
+P20.46 
+We find the power output of the Sun from Equation 20.19, Stefan’s 
+law: 
+ 
+ 
+ 
+P = σ AeT 4
+= 5.669 6 × 10−8 W m2 ⋅K4
+(
+) 4π 6.96 × 108 m
+(
+)
+2
+⎡⎣
+⎤⎦
+                                                         × 0.986
+(
+) 5 800 K
+(
+)
+4
+= 3.85 × 1026 W
+ 
+P20.47 
+From Stefan’s law, 
+ 
+ 
+P = σAeT 4 
+ 
+ 
+2.00 W = 5.67 × 10−8 W m2 ⋅K4
+(
+) 0.250 × 10−6 m2
+(
+) 0.950
+(
+)T 4
+T = 1.49 × 1014 K4
+(
+)
+1 4 = 3.49 × 103 K
+ 
+P20.48 
+We suppose the Earth below is an insulator. The square meter must 
+radiate in the infrared as much energy as it absorbs, P = σAeT 4. 
+Assuming that e = 1.00 for blackbody blacktop: 
+ 
+ 
+ 
+1 000 W = 5.67 × 10−8 W m2 ⋅K4
+(
+) 1.00 m2
+(
+) 1.00
+(
+)T 4 
+ 
+ 
+ 
+T = 1.76 × 1010 K4
+(
+)
+1 4 = 364 K (You can cook an egg on it.)
+
+--- PAGE 25 ---
+Chapter 20     1067 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.49 
+(a) 
+Because the bulb is evacuated, the filament loses energy by 
+radiation but not by convection; we ignore energy loss by 
+conduction. We convert the temperatures given in Celsius to 
+Kelvin, with Th = 2 100°C = 2 373 K and Tc = 2 000°C = 2 273 K. 
+Then, from Stefan’s law, the power ratio is 
+ 
+ 
+ 
+eσ ATh
+4/eσ ATc
+4 = 2 373/2 273
+(
+)
+4 = 1.19 
+ 
+(b) The radiating area is the lateral surface area of the cylindrical 
+filament, 2πr. Now we want 
+ 
+ 
+ 
+eσ 2πrhTh
+4 = eσ 2πrcTc
+4 
+ 
+ 
+so 
+rc/rh = 1.19 
+*P20.50 
+We use Equation 20.16 for the rate of energy transfer by conduction: 
+ 
+ 
+ 
+P = kA Th −Tc
+(
+)
+L
+= 0.210 W m ⋅°C
+(
+) 1.40 m2
+(
+) 37.0°C −34.0°C
+0.025 0 m
+(
+)
+= 35.3 W = 35.3 J s
+(
+)
+1 kcal
+4 186 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 600 s
+1 h
+(
+) = 30.3 kcal h
+ 
+ 
+Since this is much less than 240 kcal/h, blood flow is essential to cool 
+the body. 
+*P20.51 
+When the temperature of the junction stabilizes, the energy transfer 
+rate must be the same for each of the rods, or PCu = PAl. The cross-
+sectional areas of the rods are equal, and if the temperature of the 
+junction is 50.0°C, the temperature difference is ΔT = 50.0°C for each 
+rod. Thus, 
+ 
+ 
+PCu = kCuA ΔT
+LCu
+⎛
+⎝⎜
+⎞
+⎠⎟= kAlA ΔT
+LAl
+⎛
+⎝⎜
+⎞
+⎠⎟= PAl 
+ 
+which gives 
+ 
+ 
+LAl =
+kAl
+kCu
+⎛
+⎝⎜
+⎞
+⎠⎟LCu =
+238 W/m⋅°C
+397 W/m⋅°C
+⎛
+⎝
+⎞
+⎠15.0 cm
+(
+) = 9.00 cm
+ 
+*P20.52 
+From P = k A ΔT
+L , we have 
+ 
+ 
+ 
+k = PL
+AΔT = 10.0 W
+(
+) 0.040 0 m
+(
+)
+1.20 m2
+(
+) 15.0°C
+(
+) = 2.22 × 10−2 W m ⋅°C
+
+--- PAGE 26 ---
+1068     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.53 
+(a) 
+The R-value of the window is the sum of the R-values for the two 
+0.125-in window panes, which Table 20.4 lists as 0.890, plus the 
+layer of air in between. Since the Table 20.4 lists the R-value for an 
+air space of 3.50 in, the total R-value becomes 
+ 
+ 
+ 
+R = 0.890 + 0.250
+3.50
+⎛
+⎝⎜
+⎞
+⎠⎟1.01+ 0.890
+⎡
+⎣⎢
+⎤
+⎦⎥
+ft2 ⋅°F⋅h
+Btu
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.85 ft2 ⋅°F⋅h
+Btu
+ 
+ 
+(b) Since A and (T2 – T1) are constants, heat flow is reduced by a 
+factor of 1.85
+0.890 = 2.08 . 
+P20.54 
+(a) 
+ 
+Intensity is defined as power per area perpendicular to 
+the direction of energy flow. The direction of sunlight is 
+along the line from the Sun to the object. The perpendicular
+area is the projected flat circular area enclosed by the 
+terminator—the line that separates day from night on the 
+object. The object radiates infrared light outward in all
+directions. The area perpendicular to this energy flow 
+is its spherical surface area.
+ 
+ 
+(b) The sphere of radius R absorbs sunlight over area π R
+2. It radiates 
+over area 4π R
+2. Then, in steady state, 
+ 
+ 
+ 
+Pin = Pout
+e 1 370 W m2
+(
+)π R2 = eσ 4π R2
+(
+)T 4 
+ 
+ 
+The emissivity e, the radius R, and π all cancel. Therefore, 
+ 
+ 
+ 
+T =
+1 370 W m2
+4 5.67 × 10−8 W m2 ⋅K4
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 4
+= 279 K = 6°C 
+ 
+ 
+It is chilly, well below temperatures we find comfortable. 
+P20.55 
+Call the gold bar Object 1 and the silver bar Object 2. Each is a 
+nonisolated system in steady state. When energy transfer by heat 
+reaches a steady state, the flow rate through each will be the same, so 
+that the junction can stay at constant temperature thereafter, with as 
+much heat coming in through the gold as goes out through the silver. 
+ 
+ 
+ 
+P1 = P2
+or
+k1A1ΔT1
+L1
+= k2A2ΔT2
+L2
+
+--- PAGE 27 ---
+Chapter 20     1069 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In this case, L1 = L2 and A1= A2, so k1ΔT1 = k2ΔT2. 
+ 
+Let T3 be the temperature at the junction; then 
+ 
+ 
+ 
+k1(80.0°C − T3) = k2(T3 − 30.0°C) 
+ 
+Rearranging, we find 
+ 
+ 
+ 
+T3 = (80.0°C) k1 + (30.0°C)k2
+k1 + k2
+ 
+ 
+ 
+ 
+T3 = (80.0°C)(314 W/m ⋅°C) + (30.0°C)(427 W/m⋅°C) 
+314 W/m ⋅°C + 427 W/m⋅°C
+= 51.2°C
+ 
+P20.56 
+(a) 
+The heat leaving the box during the day is given by  
+ 
+ 
+ 
+P = kA TH −Tc
+(
+)
+L
+= Q
+Δt
+ 
+ 
+ 
+ 
+Q = 0.012 0 W
+m°C
+⎛
+⎝⎜
+⎞
+⎠⎟0.490 m2
+(
+) 37.0°C −23.0°C
+0.045 0 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                        × 12 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.90 × 104 J
+ 
+ 
+ 
+The heat lost at night is 
+ 
+ 
+ 
+Q = 0.012 0 W
+m°C
+⎛
+⎝⎜
+⎞
+⎠⎟0.490 m2
+(
+) 37.0°C −16.0°C
+0.045 0 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                        × 12 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.19 × 105 J
+ 
+ 
+ 
+The total heat is 1.19 × 10
+5 J + 7.90 × 10
+4 J = 1.98 × 10
+5 J. It must be 
+supplied by the solidifying wax: Q = mL 
+ 
+ 
+ 
+m = Q
+L =
+1.98 × 105 J
+205 × 103 J kg = 0.964 kg or more 
+ 
+(b) 
+The test samples and the inner surface of the insulation can be
+prewarmed to 37.0°C as the box is assembled. Then nothing
+changes in temperature during the test period and the masses
+of the test samples and insulation make no difference.
+
+--- PAGE 28 ---
+1070     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.57 
+(a) 
+Suppose the pizza is 60 cm in diameter and = 2.0 cm thick, 
+sizzling at 100°C. It cannot transfer energy by conduction or 
+convection. It radiates according to P = σ AeT 4. Here, A is its 
+surface area, given by 
+ 
+ 
+ 
+A = 2π r2 + 2π r= 2π 0.30 m
+(
+)
+2 + 2π 0.30 m
+(
+) 0.02 m
+(
+)
+= 0.60 m2
+ 
+ 
+ 
+Suppose it is dark in the infrared, with emissivity about 0.8. Then 
+ 
+ 
+ 
+P = 5.67 × 10−8 W m2 ⋅K4
+(
+) 0.60 m2
+(
+) 0.80
+(
+) 373 K
+(
+)
+4
+= 530 W ~ 103 W
+ 
+ 
+(b) If the density of the pizza is half that of water, its mass is 
+ 
+ 
+ 
+m = ρV = ρπ r2= 500 kg m3
+(
+)π 0.30 m
+(
+)
+2 0.02 m
+(
+) = 2.8 kg 
+ 
+ 
+There’s a lot of water in the cheese, but a lot of air in the crust, so 
+we estimate a specific heat for the pizza between that of water 
+and that of air. Suppose its specific heat is c = 3 000 J kg⋅°C. The 
+drop in temperature of the pizza is described by 
+ 
+ 
+ 
+TER = mc Tf −Ti
+(
+)
+P = dTER
+dt
+= mc dTf
+dt −0
+dTf
+dt = P
+mc =
+530 J s
+2.8 kg
+(
+) 3000 J kg⋅°C
+(
+)
+= 0.063 °C s ~ 10−1 K s
+ 
+ 
+ 
+	  
+Additional Problems 
+*P20.58 
+(a) 
+Along the direct path IF (ANS. FIG. P20.58), the work done on the 
+gas is the negative of the area under the curve, or 
+ 
+ 
+ 
+W = −1.00 atm
+(
+) 4.00 L −2.00 L
+(
+)
+[
+              + 1
+2 4.00 atm −1.00 atm
+(
+) 4.00 L −2.00 L
+(
+)]
+= −5.00 atm⋅L
+(
+) 1.013 × 105 Pa
+1 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+10−3 m3
+1 L
+⎛
+⎝⎜
+⎞
+⎠⎟= −507 J
+
+--- PAGE 29 ---
+Chapter 20     1071 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ΔU = Q +W = 418 J −507 J = −88.5 J  
+ 
+(b) Along path IAF, the work done on the gas is 
+ 
+ 
+ 
+W = −4.00 atm
+(
+) 4.00 L −2.00 L
+(
+) 1.013 × 105 Pa
+1 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+10−3 m3
+1 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −810 J
+ 
+ 
+ 
+From the first law,  
+ 
+ 
+ 
+Q = ΔU −W = −88.5 J −−810 J
+(
+) = 722 J 
+ 
+ANS. FIG. P20.58 
+*P20.59 
+The constant pressure is 
+ 
+ 
+ 
+P = 1.50 atm
+(
+) 1.013 × 105 Pa
+1 atm
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.52 × 105 Pa
+ 
+ 
+and the work done on the gas is W = −P ΔV
+(
+). 
+ 
+(a) 
+Here, ΔV = 4.00 m3 and 
+ 
+ 
+ 
+W = −P ΔV
+(
+) = −1.52 × 105 Pa
+(
+) 4.00 m3
+(
+) = −6.08 × 105 J 
+ 
+(b) In this case, ΔV = −3.00 m3, so  
+ 
+ 
+ 
+W = −P ΔV
+(
+) = −1.52 × 105 Pa
+(
+) −3.00 m3
+(
+) = 4.56 × 105 J 
+P20.60 
+The mass of nitrogen vaporized in a 4.00 h period is 
+ 
+ 
+m = Q
+Lf
+= P⋅Δt
+(
+)
+Lf
+= 25.0 J s
+(
+) 4.00 h
+(
+) 3 600 s h
+(
+)
+2.01× 105 J kg
+= 1.79 kg
+ 
+P20.61 
+(a) 
+Before conduction has time to become important, the energy lost 
+by the rod equals the energy gained by the helium. Therefore, 
+ 
+ 
+ 
+mLv
+(
+)He = mc ΔT
+(
+)Al
+ 
+ 
+ 
+or 
+ρVLv
+(
+)He = ρVc ΔT
+(
+)Al ,
+
+--- PAGE 30 ---
+1072     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so  
+VHe = ρVc ΔT
+(
+)Al
+ρLv
+(
+)He
+: 
+ 
+ 
+ 
+VHe =
+2 700 kg m3
+(
+) 6.25 × 10−5  m3
+(
+)
+125 kg m3
+(
+) 2.09 × 104 J kg
+(
+)
+                                ×
+900 J/kg ⋅°C
+(
+) 295.8 K
+(
+) 1°C
+1 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+ 
+VHe = 1.72 × 10−2 m3
+(
+)
+1 L
+10−3 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 17.2 liters
+ 
+ 
+(b) The rate at which energy is supplied to the rod in order to 
+maintain constant temperatures is given by 
+ 
+ 
+ 
+P = kA dT
+dx
+⎛
+⎝⎜
+⎞
+⎠⎟= 3 100 W/m ⋅K
+(
+) 2.50 × 10−4 m2
+(
+) 295.8 K
+0.250 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 917 W
+ 
+ 
+ 
+This power supplied to the helium will produce a “boil-off” rate 
+of 
+ 
+ 
+ 
+P
+ρLv
+=
+917 W
+125 kg m3
+(
+) 2.09 × 104 J kg
+(
+)
+= 3.51 × 10−4 m3 s
+= 0.351 L s
+ 
+P20.62 
+(a) 
+Isolated system (momentum). The collision is a perfectly inelastic 
+collision, where momentum is conserved, but kinetic energy is 
+not (it is transformed into internal energy). 
+ 
+(b) Momentum is conserved; thus: 
+ 
+ 
+ 
+m1
+v1 + m2
+v2 = m1 + m2
+(
+) v →v = m1
+v1 + m2
+v2
+m1 + m2
+ 
+ 
+ 
+Substituting in numerically (positive to the right): 
+ 
+ 
+ 
+v = m1
+v1 + m2
+v2
+m1 + m2
+= 12.0 g
+(
+) +300 m/s
+(
+)+ 8.00 g
+(
+) −400 m/s
+(
+)
+12.0 g + 8.00 g
+= +20.0 m/s
+ 
+ 
+ 
+The final velocity is 20.0 m/s to the right .
+
+--- PAGE 31 ---
+Chapter 20     1073 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The initial kinetic energy is 
+ 
+ 
+ 
+Ki = 1
+2 m1v1
+2 + 1
+2 m1v1
+2 
+ 
+ 
+ 
+Ki = 1
+2 12.0 × 10−3 kg
+(
+) 300.0 m/s
+(
+)
+2
+             + 1
+2 8.00 × 10−3 kg
+(
+) −400.0 m/s
+(
+)
+2 = 1 180 J
+ 
+ 
+ 
+The final kinetic energy is: 
+ 
+ 
+   
+K f = 1
+2 m1 + m2
+(
+)v2 
+ 
+ 
+  
+K f = 1
+2 12.0 × 10−3 kg + 8.00 × 10−3 kg
+(
+) 20.0 m/s
+(
+)
+2 = 4.00 J
+ 
+ 
+ 
+The amount of kinetic energy transformed into internal energy is 
+ 
+ 
+ 
+ΔK = K f −Ki = 4.00 J −1180 J = −1176 J = 1.18 × 103 J 
+ 
+(d) 
+No . If this amount of heat is added to the mass of the bullets, the 
+following amount will be needed to heat the bullets to their 
+melting temperature: 
+ 
+ 
+ 
+Q = mcΔT
+= 20.0 × 10−3 kg
+(
+) 128 J/kg ⋅°C
+(
+) 327.3°C −30.0°C
+(
+)
+= 761 J
+ 
+ 
+ 
+At the beginning of the process, 1 176 joules are generated by the 
+collision; therefore, the bullets will be heated to the melting point, 
+with heat still available to start the melting process: 
+ 
+ 
+ 
+1 176 J −761 J = 415 J 
+ 
+ 
+Therefore, 415 J are available to melt the bullets. The amount of 
+heat needed to melt all of the combined mass of the two bullets is: 
+ 
+ 
+ 
+Q = mL = 20.0 × 10−3 kg
+(
+) 2.45 × 104 J/kg
+(
+) = 490 J 
+ 
+ 
+There are only 415 J available; so the lead does not entirely melt 
+due to the collision. 
+ 
+(e) 
+Because there is not enough energy available to melt all the mass 
+of the bullets, the final temperature is the melting point of lead, 
+327.3°C .
+
+--- PAGE 32 ---
+1074     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+The total mass of the melted lead is: 
+ 
+ 
+ 
+Q = mL →m = Q
+L =
+415 J
+2.45 × 104 J/kg
+(
+)
+= 0.016 94 kg = 16.9 g
+ 
+ 
+ 
+leaving behind 20.0 g – 16.9 g = 3.10 g of unmelted solid lead: 
+ 
+ 
+ 
+3.10 g of solid lead and 16.9 g of liquid lead 
+P20.63 
+Q = mcΔT = ρV
+(
+)cΔT so that when a constant temperature difference 
+ΔT is maintained, the rate of adding energy to the liquid is 
+P = dQ
+dt = ρ dV
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟cΔT = ρRcΔT and the specific heat of the liquid is 
+ 
+ 
+ 
+c =
+P
+ρRΔT
+=
+200 W
+900 kg/m3 2.00 L/min
+(
+) 1 min
+60 s
+⎛
+⎝
+⎞
+⎠3.50°C
+(
+)
+1 L
+10−3 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.90 × 103 
+J
+kg⋅°C
+ 
+P20.64 
+Q = mcΔT = ρV
+(
+)cΔT so that when a constant temperature difference 
+ΔT is maintained, the rate of adding energy to the liquid is 
+P = dQ
+dt = ρ dV
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟cΔT = ρRcΔT and the specific heat of the liquid is 
+c =
+P
+ρRΔT .
+ 
+P20.65 
+The disk is isolated, so angular momentum is conserved by the disk 
+system. The initial moment of inertia of the disk is 
+ 
+ 
+ 
+1
+2 MR2 = 1
+2 ρVR2 = 1
+2 ρ πR2t
+(
+)R2
+= 1
+2 8 920 kg m3
+(
+)π 28 m
+(
+)
+4 1.2 m
+= 1.033 × 1010 kg ⋅m2
+ 
+ 
+The rotation speeds up as the disk cools off, according to 
+ 
+ 
+ 
+Iiωi = I fω f
+1
+2 MRi
+2ωi = 1
+2 MR f
+2ω f = 1
+2 MRi
+2 1−α ΔT
+(
+)
+2 ω f
+
+--- PAGE 33 ---
+Chapter 20     1075 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ω f = ω i
+1
+1−α ΔT
+(
+)
+2
+= 25 rad s
+(
+)
+1
+1−17 × 10−6 °C
+(
+)
+−1
+(
+) 830°C
+(
+)
+⎡⎣
+⎤⎦
+2
+= 25.720 7 rad s
+ 
+ 
+(a) 
+The kinetic energy increases by 
+ 
+ 
+ 
+1
+2 I fω f
+2 −1
+2 Iiωi
+2 = 1
+2 Iiωi
+(
+)ω f −1
+2 Iiωi
+2 = 1
+2 Iiωi ω f −ωi
+(
+)
+= 1
+2 1.033 × 1010 kg ⋅m2 25 rad s
+(
+)
+⎡⎣
+⎤⎦
+                                     × 0.720 7 rad s
+(
+)
+= 9.31× 1010 J
+ 
+ 
+(b) 
+ΔEint = mcΔT = 2.64 × 107 kg 387 J kg ⋅°C
+(
+) 20°C −850°C
+(
+)
+= −8.47 × 1012 J
+ 
+ 
+(c) 
+Solve the appropriate reduction of Equation 8.2 for the energy 
+radiated by the disk: 
+ 
+ 
+ 
+ΔK + ΔEint  = TER   
+ 
+ 
+TER  = ΔK + ΔEint  = 9.31 × 1010J  − 8.47 × 1012J
+=  −8.38 × 1012J
+ 
+P20.66 
+(a) 
+First, energy must be removed from the liquid water to cool it
+to 0ºC. Next, energy must be removed from the water at 0ºC to
+freeze it, which corresponds to a liquid-to-solid phase transition.
+Finally, once all the water has frozen, additional energy must
+be removed from the ice to cool it from 0ºC to – 8.00ºC.
+ 
+ 
+(b) The total energy that must be removed is 
+ 
+ 
+ 
+Q = Qcool water
+to 0°C
++ Qfreeze
+at 0°C
++ Qcool ice
+to −8.00°C
+= mwcw 0°C −Ti + mwLf + mwcice Tf −0°C
+
+--- PAGE 34 ---
+1076     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+ 
+ 
+ 
+Q = 75.0 × 10−3 kg
+(
+)
+4 186 J/kg⋅°C
+(
+) −20.0°C
+⎡⎣
+              + 3.33 × 105 J/kg + 2 090 J/kg⋅°C
+(
+) −8.00°C ⎤⎦
+= 3.25 × 104 J = 32.5 kJ
+ 
+*P20.67 
+(a) 
+The energy thus far gained by the copper equals the energy lost 
+by the silver. Your down parka is an excellent insulator. 
+ 
+ 
+ 
+Qcold = −Qhot 
+ 
+ 
+or 
+mCucCu Tf −Ti
+(
+)Cu = −mAgcAg Tf −Ti
+(
+)Ag : 
+ 
+ 
+ 
+9.00 g
+(
+) 387 J kg ⋅°C
+(
+) 16.0°C
+(
+) = −14.0 g
+(
+) 234 J kg ⋅°C
+(
+)
+                                                                            × Tf −30.0°C
+(
+)Ag
+Tf −30.0°C
+(
+)Ag = −17.0°C
+ 
+ 
+ 
+so 
+Tf , Ag = 13.0°C . 
+ 
+(b) Differentiating the energy gain-and-loss equation gives 
+mAgcAg
+dT
+dt
+(
+)
+Ag
+= −mCucCu
+dT
+dt
+(
+)
+Cu
+ 
+ 
+ 
+ 
+dT
+dt
+(
+)
+Ag
+= −mCucCu
+mAgcAg
+dT
+dt
+(
+)
+Cu
+= −9.00 g
+(
+) 387 J kg ⋅°C
+(
+)
+14.0 g
+(
+) 234 J kg ⋅°C
+(
+) +0.500°C s
+(
+)
+dT
+dt
+(
+)
+Ag
+= −0.532°C s 
+negative sign ⇒ decreasing temperature
+(
+)
+ 
+*P20.68 
+(a) 
+The chemical energy input becomes partly work output and 
+partly internal energy. The energy flow each second is described 
+by 
+ 
+ 
+ 
+400 kcal h = 60 J s + mL
+Δt = 400 kcal h
+(
+) 4 186 J
+1 kcal
+(
+)
+1 h
+3 600 s
+(
+)
+= 465 W
+m
+Δt L = 465 W −60 W = 405 J s
+m
+Δt =
+405 J s
+2.26 × 106 J kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 600 s
+1 h
+(
+) = 0.645 kg h
+
+--- PAGE 35 ---
+Chapter 20     1077 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+  
+(b) The rate of fat burning is ideally 400 kcal h
+9 kcal g
+= 0.044 4 kg h.
+ 
+The 
+0.044 4 kg/h of water produced by metabolism is this fraction of 
+the water needed for cooling: 0.044 4 kg h
+0.645 kg h = 0.068 9 = 6.89%. 
+Moral: drink plenty of water while you exercise. 
+*P20.69 
+(a) 
+The rate of energy conversion is given by  
+ 
+ 
+ 
+Fv = 50.0 N
+(
+) 40.0 m s
+(
+) = 2 000 W 
+ 
+(b) Energy received by each object is (1 000 W)(10 s) = 104 J  
+= 2 389 cal. The specific heat of iron is 0.107 cal/g . °C, so the heat 
+capacity of each object is 5.00 × 103 × 0.107 = 535.0 cal °C. 
+ 
+ 
+ 
+ΔT =
+2 389 cal
+535.0 cal °C =
+4.47°C 
+*P20.70 
+We find the quantity of water vapor in one exhaled breath. 
+ 
+PV = nRT: 
+ 
+ 
+ 
+n = PV
+RT = 3.20 × 103 N m2
+(
+) 0.600 × 10−3 m3
+(
+)
+8.314 J mol⋅K
+(
+) 273 K + 37°C
+(
+)
+= 7.45 × 10−4 mol
+ 
+ 
+The molar mass of water (H2O ) is M = [2(1.00)+16.0] g/mol  
+= 0.018 0 kg/mol. The mass of water vapor exhaled in one breath is  
+ 
+ 
+ 
+msample = nM = 7.45 × 10−4 mol
+(
+) 0.0180 kg mol
+(
+)
+= 1.34 × 10−5 kg
+ 
+ 
+The energy absorbed from your body as the water evaporates can be 
+estimated as  
+ 
+ 
+ 
+Q = mL = 1.34 × 10−5 kg 2.26 × 106 J kg
+(
+) = 30.3 J 
+ 
+Your rate of energy loss is  
+ 
+ 
+ 
+P = Q
+Δt =
+30.3 J
+breath
+(
+)
+22.0 breath
+min
+(
+)
+1 min
+60 s
+(
+) = 11.1 W
+ 
+ 
+Note that unlike a human, a dog does not perspire. Instead, the dog 
+pants, and maximizes energy loss through the pathway considered 
+here.
+
+--- PAGE 36 ---
+1078     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P20.71 
+The energy conservation equation is  Qcold = −Qhot, or 
+ 
+ 
+miceLf +
+mice + mw
+(
+)cw + mcupcCu
+⎡⎣
+⎤⎦12.0°C −0°C
+(
+)
+                                                = −mPbcPb 12.0°C −98.0°C
+(
+)
+ 
+ 
+This gives 
+ 
+ 
+mPb =
+1
+cPb 86.0°C
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥miceLf +
+mice + mw
+(
+)cw + mcupcCu
+⎡⎣
+⎤⎦12.0°C
+(
+)
+{
+}
+=
+1
+128 J/kg⋅°C
+(
+) 86.0°C
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+0.040 0 kg
+(
+) 3.33 × 105 J/kg
+(
+)
+{
+                                                
+                          +
+0.240 kg
+(
+) 4 186 J/kg⋅°C
+(
+)
+⎡⎣
+                          + 0.100 kg
+(
+) 387 J/kg⋅°C
+(
+)⎤⎦12.0°C
+(
+)}
+= 2.35 kg
+ 
+P20.72  
+(a) 
+Work done on the gas is the negative of the 
+area under the PV curve: 
+ 
+ 
+ 
+W = −Pi
+Vi
+2 −Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= + PiVi
+2
+ 
+ 
+ 
+Put the cylinder into a refrigerator at 
+absolute temperature Ti/2. Let the 
+piston move freely as the gas cools.
+ 
+ 
+(b) In this case the area under the curve is 
+W = −PdV
+∫
+. Since the process is isothermal, 
+ 
+ 
+ 
+PV = PiVi = 4Pi
+Vi
+4
+⎛
+⎝⎜
+⎞
+⎠⎟= nRTi 
+ 
+ 
+and 
+ 
+ 
+ 
+W = −
+dV
+V
+⎛
+⎝⎜
+⎞
+⎠⎟PiVi
+(
+)
+Vi
+Vi 4
+∫
+= −PiVi ln Vi 4
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= PiVi ln 4
+= +1.39PiVi
+ 
+ 
+ 
+With the gas in a constant-temperature bath at Ti, slowly push
+the piston in.
+ 
+ 
+ANS. FIG. P20.72
+
+--- PAGE 37 ---
+Chapter 20     1079 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The area under the curve is 0 and W = 0 . 
+ 
+ 
+Lock the piston in place and hold the cylinder over 
+a hotplate at 3Ti.
+ 
+ 
+ 
+The student may be confused that the integral in part (c) is not 
+explicitly covered in calculus class. Mathematicians ordinarily 
+study integrals of functions, but the pressure is not a single-
+valued function of volume in a isovolumetric process. Our 
+physics idea of an integral is more general. It still corresponds to 
+the idea of area under the graph line. 
+P20.73 
+From Equation 8.2, for the isolated system of the meteorite and the 
+Earth and for the time interval from when the meteorite is very far 
+from Earth until just after it hits the Earth’s surface, 
+ 
+ 
+ 
+ΔK + ΔUg  + ΔEint  = 0     →     ΔEint  = −ΔK − ΔUg 
+ 
+The problem statement says that the internal energy increase of the 
+system is shared equally by the meteorite and the Earth, so the change 
+in internal energy for the meteorite alone is 
+ 
+ 
+ 
+ΔEint,meteorite = 1
+2 ΔEint  = −1
+2 ΔK −  1
+2 ΔUg
+ 
+ 
+Substitute for the energies: 
+ 
+ 
+ 
+ΔEint,meteorite =  −1
+2 0 −  1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ −  1
+2 −GMEm
+RE
+ − 0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+=  1
+4 mvi
+2 + GMEm
+2RE
+ 
+ 
+Given the large amount of energy available for a meteorite falling to 
+Earth, we expect the meteorite to both melt and vaporize as its 
+temperature rises. Therefore, the internal energy change for the 
+meteorite can be expressed as 
+ 
+ 
+ 
+ΔEint,meteorite =  mcΔT solid + Lfm + mcΔT liquid + Lvm + mcΔT gas
+                  =  m cΔT solid + Lf  + cΔT liquid + Lv + cΔT gas
+(
+)
+ 
+ 
+Setting the two expressions for the internal energy change of the 
+meteorite equal gives us 
+ 
+ 
+ 
+ΔT gas =
+1
+4 vi
+2 + GME
+2RE
+ − cΔT solid − Lf  − cΔT liquid − Lv
+cgas
+
+--- PAGE 38 ---
+1080     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+ΔT gas =
+1
+1170 J/kg  ⋅ °C
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+                        × 1
+4 1.40 × 104 m/s
+(
+)
+2
+⎡
+⎣⎢
+                               
+                          +  6.67 × 10−11 N⋅m2/kg2
+(
+) 5.98 × 1024 kg
+(
+)
+2 6.37 × 106 m
+(
+)
+                               −  900 J/kg  ⋅ °C
+(
+) 660°C + 15.0°C 
+(
+)
+                                − 3.97 × 105 J/kg 
+                                −  1 170 J/kg  ⋅ °C
+(
+) 2 450°C − 660°C 
+(
+) 
+                                − 1.14 × 107  J/kg
+          = 56 247°C
+ 
+ 
+This is the change in temperature from the boiling point of aluminum, 
+so to find the final temperature, add 2 450°C and express to three 
+significant figures: 
+ 
+ 
+Tf  = 56 247°C + 2 450°C =  5.87  ×  104°C 
+P20.74 
+The time interval to boil the water is related to the solar power P 
+absorbed by the water and the energy transfer TER required: 
+ 
+ 
+ 
+Δt = TER
+P
+ 
+ 
+The energy transfer required is 
+ 
+ 
+ 
+TER  = mcΔT 
+ 
+The solar power is 
+ 
+ 
+ 
+P =  fIA =  fI π d2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟ = 1
+4 πd2 fI
+ 
+ 
+Combining all three equations, 
+ 
+ 
+ 
+Δt = 
+mcΔT
+1
+4πd2 fI
+⎛
+⎝
+⎞
+⎠
+ =  4mcΔT
+πd2 fI  
+=  4 1.50 kg
+(
+) 4 186 J/kg⋅°C
+(
+) 80.0°C
+(
+)
+π 0.600 m
+(
+)
+2 0.400
+(
+) 600 W/m2
+(
+)
+     = 7.40 × 103 s  = 2.06 h
+
+--- PAGE 39 ---
+Chapter 20     1081 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If we include setup time and coffee brewing time, this time interval 
+approaches 2.5 hours. In the morning, the solar intensity is not the 
+maximum amount, which occurs later in the day. Therefore, the 
+reduced intensity in the morning will increase the time interval 
+further. Furthermore, we have not included the energy transfer 
+necessary to raise the temperature of the container in which the water 
+resides. These considerations will push the required time interval even 
+higher, so that most of the morning is used in making coffee and there 
+is no time left for a morning hike. 
+P20.75 
+(a) 
+The power radiated by the quiet Sun is given by Stefan’s law: 
+ 
+ 
+ 
+P = σ AeT 4
+= 5.67 × 10−8 W m2K4
+(
+) 5.1× 1014 m2
+⎡⎣
+⎤⎦0.965
+(
+) 5 800 K
+(
+)
+4
+= 3.16 × 1022 W
+ 
+ 
+(b) The power output of the patch of sunspot is 
+ 
+ 
+ 
+P = 5.67 × 10−8 W m2 ⋅K4
+(
+)
+            ×
+0.100 5.10 × 1014 m2
+(
+)
+⎡⎣
+⎤⎦0.965
+(
+) 4 800 K
+(
+)
+4
+{
+            + 0.900 5.10 × 1014 m2
+(
+)
+⎡⎣
+⎤⎦0.965
+(
+) 5 890 K
+(
+)
+4}
+= 3.17 × 1022 W
+ 
+ 
+(c) 
+This is larger than 3.158 × 1022 W by 1.29 × 1020 W
+3.16 × 1022 W = 0.408% 
+ 
+(d) 
+Tavg = 0.100 4 800 K
+(
+)+ 0.900 5 890 K
+(
+) = 5.78 × 103 K 
+P20.76 
+(a) 
+The block starts with Ki = 1
+2 mvi
+2 = 1
+2 1.60 kg
+(
+) 2.50 m s
+(
+)
+2 = 5.00 J. 
+ 
+ 
+Write the appropriate reduction of Equation 8.2 for the isolated 
+copper-ice system: 
+ 
+ 
+ 
+ΔK + ΔEint  = 0     →     
+0 −  1
+2 mCuv2
+⎛
+⎝⎜
+⎞
+⎠⎟ + Lf Δm = 0   →   
+Δm = mCuv2
+2Lf
+ 
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+Δm =  1.60 kg
+(
+) 2.50 m/s
+(
+)
+2
+2 3.33 × 105 J/kg
+(
+)
+ = 1.50 × 10−5 kg =  15.0 mg
+
+--- PAGE 40 ---
+1082     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For the block as a system: Q = 0 (no energy transfers by heat since 
+there is no temperature difference), ΔEint = 0 (no temperature or 
+change of state). 
+ 
+ 
+For the block-ice system,   ΔEmech = −ΔK  =  −5.00 J . 
+ 
+(c) 
+For the ice as a system: Q = 0 (no energy transfers by heat since 
+there is no temperature difference), ΔEint = ΔmLf = 5.00 J 
+(change of state—some ice melts). 
+ 
+(d) This is basically the same system as treated in part (a), treated in 
+the same manner: 
+ 
+ 
+ 
+Ki = 5.00 J  and  mice = 15.0 mg 
+ 
+(e) 
+For the block of ice as the system: Q = 0 (no energy transfers by 
+heat since there is no temperature difference), 
+ΔEint = ΔmLf = 5.00 J (change of state—some ice melts). 
+ 
+ 
+For the block-ice system,  ΔEmech = −ΔK  =  −5.00 J . 
+ 
+(f) 
+For the metal sheet as a system, Q = 0 (no temperature difference), 
+ΔEint = 0 (no change in state or temperature). 
+ 
+(g) Write the appropriate reduction of Equation 8.2 for the isolated 
+copper-copper system: 
+ 
+ 
+ 
+ΔK + ΔEint  = 0     →     ΔEint  = −ΔK 
+ 
+ 
+Because of the symmetry of the system, each copper slab 
+possesses half of the internal energy change of the system: 
+ 
+ 
+ 
+ΔEint,copper =   1
+2 ΔEint  = −1
+2 ΔK = −1
+2 0 −  1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟ = 1
+4 mv2 
+ 
+ 
+The internal energy change of the copper slab is related to its 
+temperature change: 
+ 
+ 
+ 
+ΔEint,copper = mcΔT = 1
+4 mv2   →   ΔT = v2
+4c
+ 
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+ΔT = 
+2.50 m/s
+(
+)
+2
+4 387 J/kg  ⋅ °C
+(
+)
+ =  4.04 × 10−3 °C 
+ 
+(h) For the sliding slab, Q = 0 (no temperature difference), 
+ΔEint = 2.50 J (friction transfers kinetic energy into internal 
+energy). 
+ 
+ 
+For the two-slab system, ΔEmech = −5.00 J (ΔK = −5.00 J).
+
+--- PAGE 41 ---
+Chapter 20     1083 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(i) 
+For the stationary slab, Q = 0 (no temperature difference), 
+ΔEint = 2.50 J (friction transfers kinetic energy into internal 
+energy). 
+ 
+ 
+For each object in each situation, the general continuity equation 
+for energy, in the form ΔK + ΔEint = Q , correctly describes the 
+relationship between energy transfers and changes in the object’s 
+energy content. 
+P20.77 
+From Q = LvΔm, the rate of boiling is described by 
+ 
+ 
+ 
+Power = Q
+Δt = LvΔm
+Δt
+  
+ 
+so that the mass flow rate of steam from the kettle is 
+ 
+ 
+ 
+Δm
+Δt = Power
+Lv
+ 
+ 
+The symbols Δm for mass vaporized and m for mass leaving the kettle 
+have the same meaning, but recall that M represents the molar mass. 
+Even though it is on the point of liquefaction, we model the water 
+vapor as an ideal gas. The volume flow rate V /Δt of the fluid is the 
+cross-sectional area of the spout multiplied by the speed of flow, 
+forming the product Av. 
+ 
+ 
+ 
+P0V = nRT =
+m
+M
+⎛
+⎝⎜
+⎞
+⎠⎟RT
+P0V
+Δt = m
+Δt
+RT
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+P0Av = Power
+Lv
+RT
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+v = Power
+(
+)RT
+MLvP0A
+ 
+ 
+Suppressing units,  
+ 
+ 
+v =
+1 000
+(
+) 8.314
+(
+) 373
+(
+)
+0.018 0
+(
+) 2.26 × 106
+(
+) 1.013 × 105
+(
+) 2.00 × 10−4
+(
+)
+= 3.76 m/s
+ 
+P20.78 
+A = Aend walls + Aends of attic + Aside walls + Aroof 
+ 
+A = 2 8.00 m × 5.00 m
+(
+)+ 2 2 × 1
+2 × 4.00 m × 4.00 m
+(
+)tan37.0°
+⎡
+⎣⎢
+⎤
+⎦⎥
++ 2 10.0 m × 5.00 m
+(
+)+ 2 10.0 m
+(
+)
+4.00 m
+cos 37.0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 42 ---
+1084     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+A = 304 m2
+P = kAΔT
+L
+= 4.80 × 10−4 kW m⋅°C
+(
+) 304 m2
+(
+) 25.0°C
+(
+)
+0.210 m
+= 17.4 kW
+= 4.15 kcal s
+ 
+ 
+Thus, the energy transferred through the walls per day by heat is 
+ 
+ 
+4.15 kcal s
+(
+) 86 400 s
+(
+) = 3.59 × 105 kcal day 
+ 
+The gas needed to replace this transfer is 3.59 × 105 kcal day
+9 300 kcal m3
+ 
+= 38.6 m3 day 
+P20.79 
+Energy goes in at a constant rate P. For the period from 50.0 min to 
+60.0 min, after the ice has melted, 
+ 
+ 
+PΔt = Q = mcΔT 
+ 
+ 
+P 10.0 min
+(
+) = 10 kg + mi
+(
+) 4 186 J kg ⋅°C
+(
+) 2.00°C −0°C
+(
+) 
+ 
+ 
+P 10.0 min
+(
+) = 83.7 kJ + 8.37 kJ kg
+(
+)mi 
+[1] 
+ 
+For the period from 0 to 50.0 min, as the ice is melting, 
+ 
+ 
+PΔt = Q = miLf 
+ 
+ 
+P 50.0 min
+(
+) = mi 3.33 × 105 J kg
+(
+) 
+ 
+Substitute P =
+mi 3.33 × 105 J kg
+(
+)
+50.0 min
+ into equation [1] to find 
+ 
+ 
+mi 3.33 × 105 J kg
+(
+)
+5.00
+= 83.7 kJ + 8.37 kJ kg
+(
+)mi
+mi =
+83.7 kJ
+66.6 −8.37
+(
+) kJ kg = 1.44 kg
+ 
+ 
+ANS. FIG. P20.79
+
+--- PAGE 43 ---
+Chapter 20     1085 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.80 
+(a) 
+From conservation of energy, where the subscript w is for water 
+and the subscript c is for the calorimeter, 
+ 
+ 
+ 
+Qcold = −Qhot 
+or 
+QAl = −Qw +Qc
+(
+) 
+ 
+ 
+ 
+mAlcAl Tf −Ti
+(
+)Al = −mwcw + mccc
+(
+) Tf −Ti
+(
+)w
+0.200 kg
+(
+)cAl +39.3°C
+(
+)
+                          = −
+0.400 kg
+(
+) 4 186 J kg ⋅°C
+(
+)
+⎡⎣
+                                  + 0.040 0 kg
+(
+) 630 J kg ⋅°C
+(
+)⎤⎦−3.70°C
+(
+)
+cAl = 6.29 × 103 J
+7.86 kg ⋅°C = 800 J kg ⋅°C
+ 
+ 
+(b) 
+900 −800
+900
+= 11% 
+ 
+ 
+This differs from the tabulated value by 11%, so the values agree
+within 15%.
+ 
+ 
+ 
+	  
+Challenge Problems 
+P20.81 
+(a) 
+The speed of rise of the piston is the same as the rate at which the 
+height h of the steam above the water is increasing due to the 
+boiling process. The volume of the gas is the area A of the 
+cylinder times the height h: 
+ 
+ 
+v = dh
+dt  =  d
+dt
+V
+A
+⎛
+⎝⎜
+⎞
+⎠⎟
+The volume of steam can be replaced using the ideal gas law, in
+which the pressure P and temperature T are constant:
+v =  1
+A
+d
+dt
+nRT
+P
+⎛
+⎝⎜
+⎞
+⎠⎟ = RT
+PA
+dn
+dt
+The combination PA is the force applied by the gas on the piston.
+Assuming that the speed of the piston is constant, the piston is in
+equilibrium so this force is equal to the product of atmospheric
+pressure P0 and the area of the piston plus the weight mpg of the
+piston.
+F = P0A + mpg
+
+--- PAGE 44 ---
+1086     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The number of moles n is the ratio of the mass 
+mg of the gas to the molecular mass Mw: 
+ 
+ 
+ 
+n =
+mg
+Mw
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+which may both be substituted into our velocity 
+equation: 
+ 
+ 
+ 
+v = 
+RT
+mpg + P0A
+⎛
+⎝⎜
+⎞
+⎠⎟
+d
+dt
+mg
+Mw
+⎛
+⎝⎜
+⎞
+⎠⎟
+ = 
+RT
+mpg + P0A
+(
+)Mw
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+dmg
+dt
+ 
+ 
+ 
+The change in the mass of the steam is related to the latent heat of 
+vaporization by Equation 20.7: 
+ 
+ 
+ 
+Q = ± Δm
+(
+)L
+→dmg
+dt = d
+dt
+Q
+Lv
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+v = 
+RT
+mpg + P0A
+(
+)Mw
+d
+dt
+Q
+Lv
+⎛
+⎝⎜
+⎞
+⎠⎟= 
+RT
+mpg + P0A
+(
+)MwLv
+dQ
+dt 
+ 
+ 
+Finally, the rate at which energy is entering the cylinder is the 
+power, (Power): (Notice that here we are careful to distinguish 
+power from pressure P which normally would use the same 
+symbols.) 
+ 
+ 
+ 
+v = 
+RT Power
+(
+)
+mpg + P0A
+(
+)MwLv
+ 
+ 
+ 
+Now we substitute numerical values, suppressing units: 
+ 
+ 
+ 
+v = 
+8.314
+(
+) 373
+(
+) 100
+(
+)
+3.00
+(
+) 9.80
+(
+)+ 1.013 × 105
+(
+) π
+( ) 0.0750
+(
+)
+2
+⎡⎣
+⎤⎦0.0180
+(
+) 2.26 × 106
+(
+)
+   = 4.19 × 10−3 m/s =  4.19 mm/s
+ 
+ 
+(b) Begin the same way as part (a): 
+ 
+ 
+ 
+v = dh
+dt  =  d
+dt
+V
+A
+⎛
+⎝⎜
+⎞
+⎠⎟ =  1
+A
+d
+dt
+nRT
+P
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ANS. FIG. P20.81
+
+--- PAGE 45 ---
+Chapter 20     1087 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In this situation, however, the number of moles n is fixed and the 
+temperature T changes: 
+ 
+ 
+ 
+v =  nR
+PA
+⎛
+⎝⎜
+⎞
+⎠⎟
+dT
+dt  = 
+nR
+mpg + P0A
+(
+)
+ 
+ 
+ 
+The temperature change is related to the energy input by means 
+of Equation 20.4: 
+ 
+ 
+ 
+Q = mcΔT →dT
+dt = d
+dt
+Q
+mgc
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+which may be substituted into our velocity equation: 
+ 
+ 
+ 
+v = 
+nR
+mpg + P0A
+(
+)
+d
+dt
+Q
+mgc
+⎛
+⎝⎜
+⎞
+⎠⎟ = 
+mgR
+mpg + P0A
+(
+)mgcMw
+dQ
+dt
+v = 
+R Power
+(
+)
+mpg + P0A
+(
+)cMw
+ 
+ 
+ 
+Substitute numerical values, suppressing units, 
+ 
+ 
+ 
+v = 
+8.314
+(
+) 100
+(
+)
+3.00
+(
+) 9.80
+(
+)+ 1.013 × 105
+(
+) π
+( ) 0.0750
+(
+)
+2
+⎡⎣
+⎤⎦2 010
+(
+) 0.018 0
+(
+)
+ 
+   = 0.012 6 m/s  =  12.6 mm/s
+ 
+P20.82 
+(a) 
+If the energy transfer P through one spherical surface within the 
+shell were different from the energy transfer through another 
+sphere, the temperature would be changing at a radius between 
+the layers, so the steady state would not yet be established. 
+ 
+ 
+The equation dT/dr = P/4πkr2 represents the law of 
+thermal conduction, incorporating the definition of 
+thermal conductivity, applied to a spherical surface 
+within the shell. The rate of energy transfer P must be 
+the same for all radii so that each bit of material
+stays at a temperature that is constant in time.
+ 
+ 
+(b) we separate the variables T and r in the thermal conduction 
+equation and integrate the equation between points on the 
+interior and exterior surfaces. 
+ 
+ 
+ 
+dT =
+P
+4πk
+dr
+r2
+0.03
+0.07
+∫
+5
+40∫
+ 
+ 
+ 
+where T is in degrees Celsius, P is in watts, and r is in meters.
+
+--- PAGE 46 ---
+1088     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The integral yields 
+ 
+ 
+ 
+T 5
+40 =
+P
+4πk   r−1
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.03
+0.07
+40 −5 =
+P
+4π 0.8
+(
+) −
+1
+0.07 +
+1
+0.03
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+P = 18.5 W 
+ 
+(d) With P now known, we separate the variables again and integrate 
+between a point on the interior surface and any point within the 
+shell. 
+ 
+ 
+ 
+dT =
+P
+4πk
+dr
+r2
+0.03
+r∫
+5
+T∫
+  
+ 
+(e) 
+Integrating, we find 
+ 
+ 
+ 
+T 5
+T =
+P
+4πk
+r−1
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.03
+r
+    →       T − 5 =
+18.5
+4π 0.8
+(
+)
+−1
+r +
+1
+0.0300
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+T = 5 + 1.84
+1
+0.030 0 − 1
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+Where T is in degrees Celsius and r is in meters
+ 
+ 
+(f) 
+T = 5 + 1.84
+1
+0.0300 − 1
+r
+⎛
+⎝⎜
+⎞
+⎠⎟= 5 + 1.84
+1
+0.0300 − 
+1
+0.0500
+⎛
+⎝⎜
+⎞
+⎠⎟= 29.5oC 
+P20.83 
+LρAdx
+dt
+= kA ΔT
+x
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Lρ
+xdx
+4.00
+8.00
+∫
+= kΔT dt
+0
+Δt
+∫
+Lρ x2
+2
+4.00
+8.00
+= kΔTΔt
+3.33 × 105 J kg
+(
+) 917 kg m3
+(
+)
+0.080 0 m
+(
+)
+2 −0.040 0 m
+(
+)
+2
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+2.00 W m ⋅°C
+(
+) 10.0°C
+(
+)Δt
+Δt = 3.66 × 104 s = 10.2 h
+
+--- PAGE 47 ---
+Chapter 20     1089 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.84 
+(a) 
+See ANS. FIG. P20.84. For a cylindrical shell of radius r, height L, 
+and thickness dr, the equation for thermal conduction, 
+ 
+ 
+ 
+dQ
+dt = −kA dT
+dx
+     becomes     dQ
+dt = −k 2π rL
+(
+) dT
+dr
+ 
+ 
+ 
+Under equilibrium conditions, dQ
+dt
+ is constant; therefore, 
+ 
+ 
+ 
+dT = −dQ
+dt
+1
+2π kL
+⎛
+⎝⎜
+⎞
+⎠⎟
+dr
+r
+⎛
+⎝⎜
+⎞
+⎠⎟     and     
+dT
+Ta
+Tb∫
+= −dQ
+dt
+1
+2π kL
+⎛
+⎝⎜
+⎞
+⎠⎟
+dr
+r
+a
+b∫
+ 
+ 
+ 
+ 
+Tb −Ta = −dQ
+dt
+1
+2π kL
+⎛
+⎝⎜
+⎞
+⎠⎟ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+But Ta > Tb, so  dQ
+dt = 2π kL
+Ta −Tb
+(
+)
+ln b a
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+(b) From part (a), the rate of energy flow through the wall is 
+ 
+ 
+ 
+dQ
+dt = 2π kL Ta −Tb
+(
+)
+ln b a
+(
+)
+dQ
+dt =
+2π 4.00 × 10−5 cal s ⋅cm ⋅°C
+(
+) 3 500 cm
+(
+) 60.0°C
+(
+)
+ln 256 cm 250 cm
+(
+)
+dQ
+dt = 2.23 × 103 cal s = 9.32 kW
+ 
+ 
+ 
+This is the rate of energy loss from the plane by heat, and 
+consequently is the rate at which energy must be supplied in 
+order to maintain a constant temperature. 
+ 
+ANS. FIG. P20.84(b)
+
+--- PAGE 48 ---
+1090     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P20.2 
+0.105° C 
+P20.4 
+16.9° C 
+P20.6 
+0.234 kJ/kg ⋅ °C 
+P20.8 
+87.0°C 
+P20.10 
+mAlcAl + mccw
+(
+)Tc + mhcwTh
+mAlcAl + mccw + mhcw
+ 
+P20.12 
+(a) 16.1°C; (b) 16.1°C; (c) It makes no difference whether the drill bit is 
+dull or sharp, or how far into the block it cuts. The answers to (a) and 
+(b) are the same because all of the work done by the bit on the block 
+constitutes energy being transferred into the internal energy of the 
+steel. 
+P20.14 
+(a) T = 25.8°C; (b) The symbolic result from part (a) shows no 
+dependence on mass. Both the change in gravitational potential energy 
+and the change in internal energy of the system depend on the mass, 
+so the mass cancels. 
+P20.16 
+12.9 g steam 
+P20.18 
+1.22 × 10
+5 J 
+P20.20 
+0.294 g 
+P20.22 
+0.415 kg 
+P20.24 
+(a) 7; (b) As the car stops, it transforms part of its kinetic energy into 
+internal energy due to air resistance. As soon as the brakes rise above 
+the air temperature, they transfer energy by heat into the air and 
+transfer it very fast if they attain a high temperature. 
+P20.26 
+–nR(T2 – T1) 
+P20.28 
+(a) −12.0 MJ; (b) + 12.0 MJ 
+P20.30 
+(a) 12.0 kJ; (b) −12.0 kJ 
+P20.32 
+From the first law of thermodynamics, ∆Eint = Q + W = 10.0 J + 12.0 J = 
++22.0 J. The change in internal energy is a positive number, which 
+would be consistent with an increase in temperature of the gas, but the 
+problem statement indicates a decrease in temperature. 
+P20.34 
+4.29 × 10
+4 J 
+P20.36 
+(a) −3.10 kJ; (b) 37.6 kJ 
+P20.38 
+(a) 0.007 65 m
+3; (b) 305 K
+
+--- PAGE 49 ---
+Chapter 20     1091 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P20.40 
+(a) 1 300 J; (b) 100 J; (c) −900 J; (d) −1 400 J 
+P20.42 
+(a) −4 PiVi; (b) 4 PiVi 
+P20.44 
+667 W 
+P20.46 
+3.85 × 10
+26 W 
+P20.48 
+364 K 
+P20.50 
+30.3 kcal/h 
+P20.52 
+2.22 × 10–2 W/m . °C 
+P20.54 
+(a) Intensity is defined as power per area perpendicular to the 
+direction of energy flow. The direction of sunlight is along the line 
+from the Sun to an object. The perpendicular area is the projected flat 
+circular area enclosed by the terminator. The object radiates infrared 
+light outward in all directions. The area perpendicular to this energy 
+flow is its spherical surface area; (b) 279 K, it is chilly, well below room 
+temperatures we find comfortable. 
+P20.56 
+(a) 0.964 kg or more; (b) The test samples and the inner surface of the 
+insulation can be pre-warmed to 37.0° as the box is assembled. Then, 
+nothing changes in temperature during the test period and the masses 
+of the test samples and insulation make no difference. 
+P20.58 
+(a) –88.5 J; (b) 722 J 
+P20.60 
+1.79 kg 
+P20.62 
+(a) Isolated system (momentum). The collision is a perfectly inelastic 
+collision, where momentum is conserved, but kinetic energy is not. (It 
+is transformed to internal energy); (b) 20.0 m/s to the right; (c) 1.18 × 
+10
+3 J; (d) No; (e) 327.3°C; (f) 3.1 g of solid lead and 16.9 g of liquid lead 
+P20.64 
+P
+ρRΔT 
+P20.66 
+(a) First, energy must be removed from the liquid water to cool it to  
+0° C. Next, energy must be removed from the water at 0° C to freeze it, 
+which corresponds to a liquid-to-solid phase transition. Finally, once 
+all the water has frozen, additional energy must be removed from the 
+ice to cool it from 0° to −8.00°C; (b) 32.5 kJ  
+P20.68 
+(a) 0.645 kg/h; (b) 0.068 9 
+P20.70 
+11.1 W 
+P20.72 
+(a) + PiVi
+2
+; Put the cylinder into a refrigerator at absolute temperature 
+T/2. Let the piston move freely as the gas cools; (b) +1.39PiVi; With the 
+gas in a constant-temperature bath at Tf , slowly push the piston in; (c)
+
+--- PAGE 50 ---
+1092     The First Law of Thermodynamics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+W = 0; Lock the piston in place and hold the cylinder over at hotplate 
+at 3Tf . 
+P20.74 
+Most of the morning is used in making coffee, and there is no time left 
+for a morning hike. 
+P20.76 
+(a) 15.0 mg; (b) −5.00 J; (c) 5.00 J; (d) 15.0 mg; (e) 5.00 J; (f) ΔEint = 0; 
+(g) 4.04 × 10
+−3 °C; (h) Q = 0; ΔEint = 250 J; ΔEmech = −5.00 J; (i) Q = 0; 
+ΔEint = 2.50 J 
+P20.78 
+38.6 m
+3/day 
+P20.80 
+(a) 800 J/kg ∙ °C; (b) This differs from the tabulated value by 11%, so 
+the values agree within 15%. 
+P20.82 
+(a) The equation dT/dr = P/4πkr
+2 represents the law of thermal 
+conduction, incorporating the definition of thermal conductivity, 
+applied to a spherical surface within the shell. The rate of energy 
+transfer P must be the same for all radii so that each bit of material 
+stays at a temperature that is constant in time; (b) See P20.70(b) for full 
+proof; (c) 18.5 W; (d) See P20.70(d) for full proof;  
+(e) T = 5 + 1.84
+1
+0.030 0 − 1
+r
+⎛
+⎝⎜
+⎞
+⎠⎟, where T is in degrees Celsius and r is in 
+meters; (f) 29.5° C 
+P20.84 
+(a) dQ
+dt = 2πkL
+Ta −Tb
+(
+)
+ln b/ a
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥; (b) 9.32 kW

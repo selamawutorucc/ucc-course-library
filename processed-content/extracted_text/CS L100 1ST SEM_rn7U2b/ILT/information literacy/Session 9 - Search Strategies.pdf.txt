@@ -1,0 +1,235 @@
+
+--- PAGE 1 ---
+ILT 101
+College of Humanities and Legal Studies 
+Faculty of Arts
+Information Literacy  Skills Unit
+INFORMATION LITERACY SKILLS 
+Session 7: INTERNET SEARCH 
+STRATEGIES
+
+--- PAGE 2 ---
+GENERAL OBJECTIVE
+This session aims to :
+• Increase the students’ Information searching 
+skills
+E
+i
+t d
+t ’
+ith kill
+d k
+l d
+• Equip students’ with skills and  knowledge on  
+tools available for searching  information on the 
+Internet
+• Equip students’ with skills to evaluate 
+information on the Internet 
+@Information Literacy Unit, UCC
+
+--- PAGE 3 ---
+Steps to effective Searching
+1. Define your information need
+2. Choose your search terms
+3. Decide on which sources to use
+4. Find out how the search tool functions
+5. Run your search
+6. Review and refine your search
+Note:
+• Steps 1-3 can be done away from the computer
+@Information Literacy Unit, UCC
+
+--- PAGE 4 ---
+Internet searching
+
+--- PAGE 5 ---
+Step 1: Define your information need
+• What sort of information are you looking for?
+• – Specific information, e.g. a fact or date
+– Reference source, e.g. data book, encyclopaedia, dictionary, 
+the Web or even a textbook are usually best.
+• General information e g research areas
+• General information, e.g. research areas
+– May require more thought, including how much information is 
+needed and at what depth
+• Who is going to use the information?
+• – Researcher? Academic? First year student?
+– These might affect which sort of information you require
+@Information Literacy Unit, UCC
+
+--- PAGE 6 ---
+Step 2: Choose your search terms
+• What unique words do you think will appear 
+in the site/article you want?
+• Are there any key phrases?
+A
+h
+l
+i
+lli
+• Are there any synonyms, alternative spellings, 
+plurals or capitals that you need to consider
+• What broader topic is it a part of or related 
+to?
+@Information Literacy Unit, UCC
+
+--- PAGE 7 ---
+AN EXPLAINED EXAMPLE
+I want to find information about the health implications of 
+water pollution
+•Keywords–’water’ ‘pollution’ ‘health’
+•Broader topics–‘environmental degradation’ or ‘agricultural 
+management’ or ‘health’
+•Synonyms: 
+•– Water: rivers, lakes, sea, coastal ,’domestic water’, etc
+•– Pollution: ‘oil spills’, chemical, biological, toxicity, etc
+•– illness, disease, etc
+•Alternative spellings: none
+•Plurals: river(s), lake(s), disease(s)
+•Capitals: name of a specific lake, disease, region
+@Information Literacy Unit, UCC
+
+--- PAGE 8 ---
+Step 3: Decide ON the sources to use
+What sources are appropriate for your information need?
+•– Individuals’ and organisations’ home pages
+•– Newspapers and magazines
+•– Subject directories, databases, catalogues
+j
+g
+•– Journals—titles, abstracts or full text
+•– Reference resources, e.g., encyclopaedias, dictionaries
+•– Books
+•– Grey literature, e.g. government publications
+•– Print or electronic
+@Information Literacy Unit, UCC
+
+--- PAGE 9 ---
+Step 4: Find Out How the search tool 
+functions
+Electronic search tools all function slightly 
+differently and may use:
+• Boolean operators
+Ph
+hi
+• Phrase searching
+• Case sensitivity
+• Truncation or wildcard functions
+@Information Literacy Unit, UCC
+
+--- PAGE 10 ---
+Boolean searching
+• Boolean searching is the conventional basis for
+searching most computerized systems, including
+bibliographic databases.
+• Primary operators AND, OR, NOT
+y p
+,
+,
+• In some cases NOT can be indicated with the minus
+sign (“-“). Also “+” = AND and “|” = OR in some
+databases. The expressions “Must contain” or “all of
+these words” implies the operator AND, whereas
+“Any of the words” implies the operator OR.
+@Information Literacy Unit, UCC
+
+--- PAGE 11 ---
+\
+
+--- PAGE 12 ---
+OTHER SEARCH TOOL FUNCTIONS
+• Phrase searching: allows you to search for an 
+exact phrase
+• Truncation/wildcards: allows you to search for 
+alternative spellings
+alternative spellings
+• Case sensitivity: recognition of upper or lower 
+cases in search terms
+• Fields: searches in fields such as the title, URL 
+or links
+@Information Literacy Unit, UCC
+
+--- PAGE 13 ---
+Step 5: Run the search
+• Take the terms/keywords you have decided on
+• Find the sources from which you are going to 
+search
+d h ‘
+l ’
+fi d
+h
+h
+• Read the ‘Help’ page to find out how that 
+particular source uses Boolean commands, 
+wildcards, etc
+• Run the search
+@Information Literacy Unit, UCC
+
+--- PAGE 14 ---
+Step 6: Review and revise your search
+• Hopefully you have found what you are 
+looking for, or at least places to start from, but
+• Be prepared to review and revise your search 
+scope and strategy
+scope and strategy
+• Try new sources of information 
+• Start the process again if you need to
+@Information Literacy Unit, UCC
+@Information Literacy Unit UCC
+
+--- PAGE 15 ---
+WHY EFFECTIVE SEARCHING IS 
+IMPORTANT?
+• There are huge resources online 
+• www is not indexed/catalogued and so we need 
+to formulate searches carefully
+• We need to have effective use of 
+– Computers
+– Bandwidth 
+– Time
+– Money
+
+--- PAGE 16 ---
+Evaluation of information from the internet
+The need for evaluation
+• The Internet is a large electronic network which has 
+no centralized monitor and is not regulated for 
+reliability, authority, or accuracy
+Wh
+h i
+d
+t d
+th I t
+t it’
+• When research is conducted on the Internet, it’s
+important to evaluate the credibility of the sites 
+visited. 
+• The author’s credentials, educational background, 
+expertise on the topic, the author’s association with 
+a credible institution etc. are very relevant.
+@Information Literacy Unit, UCC
+
+--- PAGE 17 ---
+Evaluation continued
+In evaluating information from the internet the 
+following criteria should be used:
+• Reliability
+• Authority
+• Credibility
+• Accuracy/completeness
+• Relevancy
+• Currency 
+@Information Literacy Unit, UCC
+
+--- PAGE 18 ---
+Reading List
+A. Entsua-Mensah, C (Ed.)(2015). Information 
+literacy skills: A course book (Revised Edition). 
+Cape Coast: Library Publication Committee.
+B. Apte, S.D. (2015). Advanced digital signal 
+processing New Delhi Wiley India Private
+processing. New Delhi: Wiley India Private 
+Limited.
+C. Eisenberg,M.B., Lowe, C.A. & Spitzer, K.L.(2008). 
+Information literacy: An essential skills for the 
+information age. Ohio: Linworth Books

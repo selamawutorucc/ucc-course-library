@@ -1,0 +1,132 @@
+INTRODUCTION TO COMPUTING
+CHAPTER ONE: COMPUTERS, DEVICES AND THE WEB
+A __________ is an Internet-capable phone that usually also includes a calendar, an address book, a calculator, a notepad, games, and several other apps (Smartphone)
+Mobile devices that combine the features of a Smartphone with a tablet is sometimes called a ___________ (phablet)
+____________ involves having a current knowledge and understanding of computers, mobile devices, the web and related technologies. (Digital Literacy)
+The electric device, operating under the control of instructions stored in its own memory, that can accept data, process the data according to specified rules, produce information and store the information for future use is known as ___________ (Computer)
+A _______________is a short audio recording sent to or from a Smartphone or other mobile device. (voice mail message)
+______________ is a collection of related instructions organized for a common purpose. (Program)
+The electronic and mechanical components of a computer is known as ____________ (Hardware)
+_____________ are steps that tell the computer how to perform a particular task is known as _________ (Instructions)
+A ____________ is a portable personal computer, designed so that a user can carry it from place to place. (Mobile computer)
+A __________is a short note, typically fewer than 300 characters, sent to or from a Smartphone or other mobile device. (Text message)
+A computer that can perform all of its input processing, output and storage activities by itself and is intended to be used  by one person at a time is known as __________________
+ (Personal computer) 
+ A _________is a short video clip, usually about 30 seconds, sent to or from a Smartphone or other mobile device. (Video message)
+ A  photo or other image, sometimes along with sound and text, sent to or from a Smartphone or other mobile device is referred to as ____________ (Picture message)
+A _____________is a device that allows you to take photos and store the photographed images digitally (Digital camera)
+A _____________ can communicate wirelessly with other devices and include apps similar to those on a Smartphone. (Smart digital camera)
+A __________is a mobile device on which you can store, organize, and play or view digital media. (Portable media player)
+___________is a device, typically used in a home that streams digital media from a computer or network to a television, projector, or some other entertainment device. (Streaming media player)
+A mobile device that is used primarily for reading e-books is known as _____________ (e-book reader)
+An/A____________, is an electronic version of a printed book, readable on computers and other digital devices. (e-book, or digital book)
+A ______________is a small, mobile computing consumer device designed to be worn.            (Wearable device)
+Anyone who interacts with a computer or mobile device and utilizes the information it generates is called _____________.  (User)
+A ___________is a mobile computing device designed for single-player or multiplayer video games. (Game console)
+__________is a collection of unprocessed items, which can include text, numbers, images, audio, and video. (Data)
+An ___________is any hardware component that allows you to enter data and instructions into a computer or mobile device. (Input device)
+A thin light weight mobile computer with a screen in its lid and a keyboard in its base is known as a ___________ (Laptop)
+A __________contains keys you press to enter data and instructions into a computer or mobile device. (keyboard)
+A laptop that is less than one inch thick and weighs about three pounds or less sometimes is referred to as ________________. (Ultrathin laptop)
+A__________ is an input device that enables you to speak into a computer or mobile device. (Microphone)
+A ___________is a digital video (DV) camera that allows you to capture video and usually audio input for your computer or mobile device. (Webcam)
+A laptop is sometimes called a ____________. (Note book computer)
+A ____________is a light-sensing input device that converts printed text and images into a form the computer can process. (Scanner)
+The motion made on a touch screen with the top of one or more fingers or hand is referred to as a ____________. (Gesture)
+An__________ is any hardware component that conveys information from a computer or mobile device to one or more people. (Output device)
+A__________ is an output device that produces text and graphics on a physical medium, such as paper or other material. (Printer)
+A personal computer designed to be in a stationary location, where all of its components fit on or under a desk or table is called a _________________. (Desktop computer)
+____________consists of electronic components that store instructions waiting to be executed and the data needed by those instructions. (Memory)
+A computer keeps data, instructions, and information on a _____________(Storage media)
+A __________________records and/or retrieves items to and from storage media. (Storage device)
+A type of desktop that uses the same case to house the display and processing circuitry is known as ______________. (All-in-one desktop)
+A ___________ is a storage device that contains one or more inflexible, circular platters that use magnetic particles to store data, instructions, and information. (Hard disk)
+A ____________is a storage device that typically uses flash memory to store data, instructions, and information. (Solid-State Drive (SSD))
+An ____________is a separate, portable, freestanding hard disk or SSD that usually connect to the computer with a cable. (External hard drive)
+A ________________is a portable flash memory storage device that you plug in a USB port. (USB flash drive)
+A ____________is removable flash memory, usually no bigger than 1.5 inches in height or width that you insert in and remove from a slot in a computer, mobile device, or card reader/writer. (Memory card)
+A______ is a named collection of stored data, instructions, or information and can contain text, images, audio, and video. (File)
+___________is an Internet service that provides remote storage to computer users. (Cloud storage)
+A computer dedicated to providing one or more services to other computers or devices on a network is known as a _______. (Server)
+A___________ is a duplicate of content on a storage medium that you can use in case the original is lost, damaged, or destroyed. (Backup)
+The ____________is a global library of information available to anyone connected to the Internet. (World Wide Web)
+A collection of computers and devices connected together is often called a__________( Network)
+The _________is a worldwide collection of computer networks that connects millions of businesses, government agencies, educational institutions, and individuals. (Internet)
+___________is the process of transferring content from a server on the Internet to a computer or mobile device (Downloading)
+Each electronic document on the web is called a____________ (Webpage)
+A computer small enough to hold in the hand is called ____________ (Mobile device)
+A ____________is a collection of related webpages, which are stored on a web server. (Website)
+A ____________is a computer that delivers requested webpages to your computer or mobile device. (Web server)
+___________ is a built-in connection to other documents, graphics, audio files, videos, webpages, or websites. (Hyperlink)
+_______________refers to the activity of using links to explore the web. (Surfing)
+When a computer or device connects to a network, it is said to be ____________. (Online)
+A__________ is software that enables users with an Internet connection to access and view webpage on a computer or mobile device. (Browser)
+A ___________is software that finds websites, webpages, images, videos, news, maps, and other information related to a specific topic. (Search engine)
+A__________________ is a website that encourages members in its online community to share their interests, ideas, stories, photos, music, and videos with other registered users. (Social networking site)
+_______________, short for malicious software, is software that acts without a user’s knowledge and deliberately alters the computer’s or mobile device’s operations (Malware)
+____________involves reducing the electricity consumed and environmental waste generated when using a computer. (Green computing)
+An ________________is a set of programs that coordinates all the activities among computer or mobile device hardware. (Operating system)
+An __________consists of programs designed to make users more productive and/or assist them with personal tasks (Application)
+A ____________is someone who develops programs and apps or writes the instructions that direct the computer or mobile device to process data into information. (Software developer)
+A _________________is hardware capable of transferring items from computers and devices to transmission media and vice versa. (Communications device)
+A __________is a wireless network that provides Internet connections to mobile computers and devices (Hot spot)
+A system that attempts to imitate the behavior of the human brain is known as _____________________. ( Neural network)
+A ___________is an informal website consisting of time-stamped articles (posts) in a diary or journal format, usually listed in reverse chronological order. (Blog)
+A __________is recorded media that users can download or stream to a computer or portable media player (Podcast)
+A __________is a collaborative website that allows users to create, add to, modify, or delete the content via their browser (Wiki)
+________________refers to the use of computers to assist with manufacturing processes, such as fabrication and assembly. (Computer-aided manufacturing (CAM))
+A _____________ is a user who requires the capabilities of a powerful computer. (Power user)
+TRUE/FALSE (DISCOVERING COMPUTERS, 2016)
+Electronic components in computers process data using instructions, which are the steps that tell the computer how to perform a particular task. (TRUE)
+An all-in-one contains a separate tower. (FALSE)
+Smartphones typically communicate wirelessly with other devices or computers. (TRUE)
+Data conveys meaning to users, and information is a collection of unprocessed items, which can include text, numbers, images, audio, and video. (FALSE)
+A headset is a type of input device. (FALSE)
+A scanner is a light-sensing output device. (FALSE)
+Although some forms of memory are permanent, most memory keeps data and instructions                                                                                        temporarily, meaning its contents are erased when the computer is turned off. (TRUE)
+A solid-state drive contains one or more inflexible, circular platters that use magnetic particles to store data, instructions, and information. (FALSE)
+The terms, web and Internet, are interchangeable. (FALSE)
+One way to protect your computer from malware is to scan any removable media before using it. (TRUE)
+Operating systems are a widely recognized example of system software. (TRUE)
+You usually do not need to install web apps before you can run them. (TRUE)
+MULTIPLE CHOICE (DISCOVERING COMPUTERS, 2016)
+A(n)________ is any hardware component that allows you to enter data and instructions into a computer or mobile device. 
+output device
+communications device
+input device
+display
+Which of the following is not an example of an output device? 
+scanner
+printer
+display
+speaker
+__________consists of electronic components that store instructions waiting to be executed and the data needed by those instructions. 
+Storage
+Cloud storage
+Solid-state drives
+Memory
+_____________is an Internet service that provides remote storage to computer users. 
+Smart TV
+Cloud storage
+Solid-state drive(SSD)
+Bluetooth
+A computer that delivers requested webpages to your computer or mobile device is a(n) _________
+VoIP computer
+web server
+FTP device
+hard drive
+A is software that enables users with an Internet connection to access and view webpages on a computer    or mobile device. 
+search engine
+wiki
+browser
+digital media player
+___________uses short-range radio signals to enable computers and devices to communicate with each other. 
+Cellular radio
+Bluetooth
+Wi-Fi
+A hot spot
+A(n)____________ is a collaborative website that allows users to create, add to, modify, or delete the content via their browser. 
+podcast
+blog
+online social network
+wiki

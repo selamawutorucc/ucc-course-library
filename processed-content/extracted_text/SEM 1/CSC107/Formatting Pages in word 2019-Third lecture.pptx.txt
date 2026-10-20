@@ -1,0 +1,496 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Adjust Page Margins in Word 
+A margin is the space between the text and the edge of your document. 
+
+By default, a new document's margins are set to Normal, which means it has a one-inch space between the text and each edge. 
+
+Depending on your needs, Word allows you to change your document's margin size.
+
+--- SLIDE 5 ---
+To format page margins
+Word has a variety of predefined margin sizes to choose from.
+Step 1 
+Select the Layout tab, then click the Margins command.
+
+--- SLIDE 6 ---
+To format page margins
+Step 2
+A drop-down menu will appear. Click the predefined margin size you want.
+The margins of the document will be changed.
+
+
+--- SLIDE 7 ---
+To use custom margins
+Word also allows you to customize the size of your margins in the Page Setup dialog box.
+Step 1 
+From the Layout tab, click Margins. Select Custom Margins from the drop-down menu.
+
+
+--- SLIDE 8 ---
+To use custom margins
+Step 2
+The Page Setup dialog box will appear.
+Adjust the values for each margin, then click OK.
+The margins of the document will be changed.
+
+--- SLIDE 9 ---
+Adjust Margins Using Gutter
+
+If you are going to bind the document and want to add an extra amount of space on one edge for the binding, enter that amount in the Gutter text box. 
+Step 1
+Select the side the gutter is on with the Gutter Position drop-down list. 
+
+After setting all the desired values for all the margins, click the OK button to apply the margins.
+
+
+
+--- SLIDE 10 ---
+Adjust Margins Using Gutter
+
+--- SLIDE 11 ---
+Page Orientation in Word 
+Page Orientation is useful when you print your pages.
+
+Word offers two page orientation options: landscape and portrait.
+
+Landscape means the page is oriented horizontally.
+
+Portrait means the page is oriented vertically.
+
+By default, Microsoft Word shows a page in portrait orientation 
+
+You can change the page orientation from portrait to landscape orientation. 
+
+--- SLIDE 12 ---
+Change Page Orientation
+Step 1  
+Select the Layout tab
+
+Click the Orientation command in the Page Setup group.
+
+
+--- SLIDE 13 ---
+Change Page Orientation
+Step 2  
+A drop-down menu will appear. Click either Portrait or Landscape to change the page orientation.
+The page orientation of the document will be changed.
+
+
+
+--- SLIDE 14 ---
+Page size
+By default, the page size of a new document is 8.5 inches by 11 inches. 
+
+Depending on your project, you may need to adjust your document's page size. 
+
+It's important to note that before modifying the default page size, you should check to see which page sizes your printer can accommodate.
+
+--- SLIDE 15 ---
+To change the page size
+Word has a variety of predefined page sizes to choose from.
+Step 1  
+Select the Layout tab, then click the Size command.
+
+
+
+--- SLIDE 16 ---
+To change the page size
+A drop-down menu will appear. The current page size is highlighted. Click the desired predefined page size.
+
+
+
+
+
+
+
+
+--- SLIDE 17 ---
+To use a custom page size
+Word also allows you to customize the page size in the Page Setup dialog box.
+Step 1 
+From the Layout tab, click Size. Select More Paper Sizes from the drop-down menu.
+
+--- SLIDE 18 ---
+To use a custom page size
+Step 2 
+The Page Setup dialog box will appear.
+Adjust the values for Width and Height, then click OK.
+
+
+--- SLIDE 19 ---
+Header and Footer in Word 
+The header is a section of the document that appears in the top margin, while the footer is a section of the document that appears in the bottom margin.
+
+Headers and footers generally contain additional information such as page numbers, dates, an author's name, and footnotes, which can help keep longer documents organized and make them easier to read. 
+
+Text entered in the header or footer will appear on each page of the document.
+
+--- SLIDE 20 ---
+Add Header and Footer
+Step 1 
+Double-click anywhere on the top or bottom margin of your document. In our example, we'll double-click the top margin.
+
+
+--- SLIDE 21 ---
+Add Header and Footer
+Step 2
+The header or footer will open, and a Design tab will appear on the right side of the Ribbon. The insertion point will appear in the header or footer.
+
+--- SLIDE 22 ---
+Add Header and Footer
+Step 3
+Type the desired information into the header or footer. In our example, we'll type the author's name and the date.
+
+--- SLIDE 23 ---
+Add Header and Footer
+When you're finished, click Close Header and Footer. You can also press the Esc key.
+
+
+--- SLIDE 24 ---
+Add Header and Footer
+The header or footer text will appear.
+
+
+You can follow a similar procedure to add footer in your document.
+
+--- SLIDE 25 ---
+To insert a preset header or footer
+Step 1
+Select the Insert tab, then click the Header or Footer command. In our example, we'll click the Header command.
+
+
+--- SLIDE 26 ---
+To insert a preset header or footer
+Step 2
+In the menu that appears, select the desired preset header or footer.
+
+
+--- SLIDE 27 ---
+To insert a preset header or footer
+Step 3
+The header or footer will appear. Many preset headers and footers contain text placeholders called Content Control fields. 
+These fields are good for adding information like the document title, author's name, date, and page number. (Type “Things Fall Apart the center cannot hold”)
+
+
+--- SLIDE 28 ---
+To insert a preset header or footer
+Step 3
+
+
+--- SLIDE 29 ---
+Add Header and Footer
+When you're finished, click Close Header and Footer. You can also press the Esc key.
+
+
+--- SLIDE 30 ---
+Edit Header and Footer
+Step 1
+Click the Insert tab
+
+Click either the Header button or Footer button or whatever you want to edit. 
+
+Assume you are going to edit the Header, so when you click the Header button it will display a list of options including the Edit Header option.
+
+--- SLIDE 31 ---
+Edit Header and Footer
+
+--- SLIDE 32 ---
+Edit Header and Footer
+Step 2
+Click on the Edit Header option and Word will display the editable header as shown in the following screenshot.
+Step 3 
+Now you can edit your document header and once you are done, click Close Header and Footer to come out of the edit header mode.
+
+--- SLIDE 33 ---
+Remove/Delete Content Control
+Step 1
+If you want to delete a Content Control field, right-click it and select Remove Content Control from the menu that appears.
+
+
+--- SLIDE 34 ---
+Hide the first-page header and footer
+
+For some documents, you may not want the first page to show the header and footer, like if you have a cover page and want to start the page numbering on the second page.
+ 
+If you want to hide the first-page header and footer, check the box next to Different First Page.
+
+
+--- SLIDE 35 ---
+Add Page Numbers in Word 
+Microsoft Word automatically assigns page numbers on the pages of your document.
+
+Typically, page numbers are printed either in header or footer but you have the option that can display the page number in the left or right margins at the top or the bottom of a page.
+
+--- SLIDE 36 ---
+Add Page Numbers
+Step 1
+Click the Insert tab, and click the Page Number button available in the header and footer section.
+
+This will display a list of options to display the page number at the top, bottom, current position etc.
+
+--- SLIDE 37 ---
+Add Page Numbers
+Step 2
+When you move your mouse pointer over the available options, it displays further styles of page numbers to be displayed. 
+For example, when I take the mouse pointer at the Bottom of Page option it displays the following list of styles.
+
+
+--- SLIDE 38 ---
+Add Page Numbers
+Step 3
+ Finally, select any one of the page number styles. I selected the Accent Bar 1 style by clicking over it. 
+You will be directed to the Page Footer modification mode. Click the Close Header and Footer button to come out of the Footer Edit mode.
+
+
+--- SLIDE 39 ---
+Remove Page Numbers
+Step 1
+Click the Insert tab, and 
+Click the Page Number button available in the header and footer section. 
+
+This will display a list of options to display page number at the top, bottom, current position, etc.
+
+At the bottom, you will have the Remove Page Numbers option. Just click this option and it will delete all the page numbers set in your document.
+
+--- SLIDE 40 ---
+Remove Page Numbers
+Step 1
+
+
+--- SLIDE 41 ---
+To insert the date or time into a header or footer
+Step 1
+Click the Insert tab, and 
+Click the Header button available in the header and footer section. 
+
+
+--- SLIDE 42 ---
+To insert the date or time into a header or footer
+Step 2
+The Design tab will appear. Click the Date & Time command.
+
+
+
+
+--- SLIDE 43 ---
+To insert the date or time into a header or footer
+Step 3
+The Date and Time dialog box will appear. Select the desired date or time format.
+Check the box next to Update automatically if you want the date to change every time you open the document.
+Click OK.
+
+
+--- SLIDE 44 ---
+To insert the date or time into a header or footer
+Step 4
+The date will appear in the header.
+
+
+
+--- SLIDE 45 ---
+Insert Page Breaks in Word 
+
+Microsoft Word automatically starts a new page when the current page fills with text but you can insert a page break to force Word to start text on a new page.
+
+You can insert a page break using either the mouse or the keyboard.
+
+--- SLIDE 46 ---
+Insert Page Breaks
+Step 1
+Bring your insertion point immediately before the text that has to appear on a new page.
+Step 2 
+Click the Insert tab, and click the Page Break button available in the Pages group.
+
+--- SLIDE 47 ---
+Insert Page Breaks
+Step 2 
+Word inserts a page break and moves all text after the page break onto a new page. 
+You can also use the Ctrl + Enter keys to create a page break at the pointed location.
+
+
+
+--- SLIDE 48 ---
+Show Page Breaks in Documents
+Step 1
+By default, page breaks are invisible. If you want to see the breaks in your document, click the Show/Hide command on the Home tab.
+
+
+
+
+--- SLIDE 49 ---
+Delete a Page Break
+
+Just put the insertion point on the previous page of the page break that needs to be deleted. 
+
+Press the Delete key multiple times until both the pages get merged.
+
+--- SLIDE 50 ---
+Section breaks
+Section breaks create a barrier between different parts of a document, allowing you to format each section independently. 
+
+For example, you may want one section to have two columns without adding columns to the entire document. 
+
+Word offers several types of section breaks.
+
+--- SLIDE 51 ---
+Section breaks
+Next Page: This option inserts a section break and moves text after the break to the next page of the document.
+
+Continuous: This option inserts a section break and allows you to continue working on the same page.
+
+Even Page and Odd Page: These options add a section break and move the text after the break to the next even or odd page. These options may be useful when you need to begin a new section on an even or odd page (like with a new chapter of a book).
+
+--- SLIDE 52 ---
+Section breaks
+
+--- SLIDE 53 ---
+To insert a section break
+Place the insertion point where you want to create the break. In our example, we'll place it at the end of the paragraph one. we want to make it two-column formatting.
+
+--- SLIDE 54 ---
+To insert a section break
+On the Page Layout tab, click the Breaks command, then select the desired section break from the drop-down menu. 
+
+In our example, we'll select Continuous so our paragraph remains on the same page as the columns.
+
+--- SLIDE 55 ---
+To insert a section break
+
+--- SLIDE 56 ---
+To insert a section break
+A section break will appear in the document.
+The text before and after the section break can now be formatted separately. In our example, we'll apply two-column formatting to the paragraph.
+
+--- SLIDE 57 ---
+To insert a section break
+The formatting will be applied to the current section of the document. 
+In our example, the text above the section break uses two-column formatting, while the paragraph below the break uses one-column formatting.
+
+
+--- SLIDE 58 ---
+Adding Columns to word document
+Sometimes the information you include in your document is best displayed in columns. 
+
+Columns can help improve readability, especially with certain types of documents—like newspaper articles, newsletters, and flyers.
+
+Word also allows you to adjust your columns by adding column breaks.
+
+--- SLIDE 59 ---
+Adding Columns to word document
+Select the text you want to format.
+
+
+--- SLIDE 60 ---
+Adding Columns to word document
+Select the Layout tab, then click the Columns command. A drop-down menu will appear.
+Select the number of columns you want to create.
+
+--- SLIDE 61 ---
+Adding Columns to word document
+The text will format into two columns.
+
+
+--- SLIDE 62 ---
+To remove columns
+To remove column formatting, place the insertion point anywhere in the columns, then click the Columns command on the Layout tab. Select One from the drop-down menu that appears.
+
+
+
+
+--- SLIDE 63 ---
+Insert Blank Pages in Word 
+
+
+A blank page is a page which does not have any text or any other content over it. 
+
+--- SLIDE 64 ---
+Insert Blank Pages
+Step 1
+ Bring your insertion point immediately before the text where you want to insert a blank page.
+Step 2 
+Click the Insert tab, and click the Blank Page button available in the Pages group.
+
+
+--- SLIDE 65 ---
+Insert Blank Pages
+Step 2 
+Word inserts a new blank page and moves all the text after the page break onto a new page.
+
+
+
+--- SLIDE 66 ---
+Delete Blank Pages
+Step 1
+Click the Home tab
+Click the Show/Hide ¶ paragraph marks button available in the Paragraph group or simply press the Ctrl + Shift + * keys. This will display all the page breaks as shown below.
+
+
+--- SLIDE 67 ---
+Delete Blank Pages
+Step 2
+Bring your cursor immediately before the Page Break mark available on the blank page and press the Delete Key. 
+
+This will delete the blank page 
+
+Again you can click the Show/Hide ¶ paragraph marks button to hide all the paragraph marks.
+
+
+--- SLIDE 68 ---
+Add Cover Pages in Word 
+Step 1
+Click the Insert tab.
+Click the Cover Page button available in the Pages group. This will display a list of Built-in Cover Pages as shown below.
+
+
+--- SLIDE 69 ---
+Add Cover Pages in Word 2010
+Step 2
+Choose a cover page from the options available in the gallery. 
+
+The selected cover page will be added as the first page of your document which can later be modified according to the requirements.
+
+If you want to place the cover page elsewhere except the first page, 
+
+Right-click the cover page in the gallery and select the location you want from the menu that appears.
+
+
+--- SLIDE 70 ---
+Add Cover Pages in Word 2010
+Step 2
+
+
+--- SLIDE 71 ---
+Delete Cover Pages
+Step 1
+Click the Insert tab.
+
+Click the Cover Page button available in the Pages group. 
+
+This will display a list of Built-in Cover Pages as shown below. 
+
+You will find a Remove Current Cover Page option available at the bottom of the cover page gallery.
+
+
+--- SLIDE 72 ---
+Delete Cover Pages
+Step 1
+
+
+--- SLIDE 73 ---
+Delete Cover Pages
+Step 2
+Click the Remove Current Cover Page option and your cover page will be deleted from your document.
+
+
+--- SLIDE 74 ---
+
+--- SLIDE 75 ---
+THANK YOU

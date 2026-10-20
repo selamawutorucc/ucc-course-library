@@ -1,0 +1,42 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL					SM/SMS/10/0026
+MED 111				GROUP 7
+EXPERIMENT 5						28TH OCTOBER, 2010
+TITLE: EXPERIMENT WITH A HELICAL SPRING
+AIM: To graphically show the relation of the time for vertical oscillation of a helical spring to the load and determine the effective mass of the spring (m) from the graph.
+APPARATUS:
+Spiral spring
+Slotted weight
+Stop watch
+Diagram
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Theory 
+This experiment revolves around the Hooke’s law which states that the extension produced in a material is proportional to the applied load provided the elastic limit is not exceeded. Taking the force constant of the spring to be F (Newton per meter) and the load under the spring to be M (kg), if the spring is pulled X meters, the extra restoring force called into play is by the Hooke’s law equal to FX Newton’s. When the spring is released, the equation of motion is:
+FX= -Ma, where a is the acceleration towards the equilibrium position.
+. 
+This shows that the motion is simple harmonic and so the period T is expressed as . Although this equation appears to produce a straight line on an M against T2 graph with the line passing through the origin, this is not so based on the values obtained from the experiment. This is because the effective mass (m) of the spring has been neglected and the equation is to be written as
+. This means that  , where m is the negative intercept on the M axis.
+Procedure
+A spring was suspended from a clamp on a firm support and a load by means of the slotted weight was attached to the lower free end of the spring until it was possible to measure the time for 20 vertical oscillation made by the load. Then the experiment was repeated for a second timing. This whole procedure was repeated with increasing values of the load. Each time, the time was measured for 20 vertical oscillations twice.   
+TABLE OF RESULTS
+A GRAPH OF M AGAINST T2
+Comparing the equation  to the theoretical equation            , it implies that ,    N/m
+Again, from the comparison, kg = 5g
+Discussion
+The graph produced by the experimental values produces a straight line nearly passing through the origin. Again a negative intercept is also obtained with a positive gradient showing that the mass of a load is directly proportional to the time of vertical oscillation of a helical spring. Also the mass of the spring which is usually neglected is almost insignificant compared to the masses that were used in the experiment. This explains why the mass is not considered in theoretical equation.  
+Sources of error
+Errors in reading might have resulted from the air resistance in the room and wind passing in the room.
+Errors might have resulted in the reading of time since it quite impossible to exactly measure the time of release to the end of the 20th oscillation.
+Precaution
+Windows and doors were closed at the time of the experiment to prevent wind from rushing into the room.
+The load on the spring was displaced by a small distance 
+Conclusion
+Hence it can be conclude that the time of oscillation of a helical spring depends on the load mass and also that the mass of the helical spring is relatively small.
+Reference
+Albano, M. (1977). PHYSICS: Principles and Application. Houghton Mifflin Company, Boston.
+Mass g | Mass kg | (T1)/s |  (T2)/s |  /s | 
+       T2/s2
+50 | 0.05 | 7.40 | 7.65 | 7.53 | 56.70
+70 | 0.07 | 8.03 | 8.04 | 8.04 | 64.64
+90 | 0.09 | 9.03 | 9.03 | 9.03 | 81.54
+110 | 0.11 | 10.00 | 9.85 | 9.93 | 98.60
+130 | 0.13 | 10.68 | 10.87 | 10.78 | 116.21

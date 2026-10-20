@@ -1,0 +1,190 @@
+
+--- SHEET: Sheet1 ---
+NAME | PROGRAMME | INDEX NUMBER
+Elyon Gibert Kofi Forson | BSC COMPUTER SCIENCE | PS/CSC/22/0128
+Asibon Benjamin | BSC COMPUTER SCIENCE | PS/CSC/22/0019
+Taopheeq Agboh | BSC COMPUTER SCIENCE | PS/CSC/22/0056
+Grant Sarfo Darkwa | BSC COMPUTER SCIENCE | PS/CSC/22/0022
+Bruce Sam kwesi | BSC COMPUTER SCIENCE | PS/CSC/22/0134
+Alidu Ridwan Issifu | BSC COMPUTER SCIENCE | PS/CSC/22/0121
+Emmanuel Gayivor | BSC COMPUTER SCIENCE | PS/CSC/22/0049
+Opoku Emmanuel Ampofo | BSC COMPUTER SCIENCE | PS/CSC/22/0237
+Kotey Foster Niikwei | BSC COMPUTER SCIENCE | 
+Oduro Simon | BSC COMPUTER SCIENCE | 
+Samuel Kusi Addai | BSC COMPUTER SCIENCE | PS/CSC/22/0151
+Mantey Rachel Cindy Awurabena | BSC COMPUTER SCIENCE | PS/CSC/22/0158
+Nana Kwame Appiah Mensah | BSC COMPUTER SCIENCE | PS/CSC/22/0229
+Ugbanjab Elisha | BSC COMPUTER SCIENCE | PS/CSC/22/0185
+Eugene Morcher | BSC COMPUTER SCIENCE | PS/CSC/22/0098
+Okaidjah Gillise Ayitey Oko | BSC COMPUTER SCIENCE | PS/CSC/22/0163
+Abdul Majeed Mohammed | BSC COMPUTER SCIENCE | PS/CSC/22/0065
+Aliabu thywill | BSC COMPUTER SCIENCE | PS/CSC/22/0115
+Nicholas Eddah | BSC COMPUTER SCIENCE | PS/CSC/22/0174
+Godsway Pebbie Mensah | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0203
+Angelina Oduro | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0240
+Domfeh Sarpong | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0002
+Rapheal McPeter Kwesi | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0252
+Gertrude Akua Kankamah | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0175
+Nana Kwame Baffoe Buah | BSC (INFORMATION TECHNOLOGY) | 
+Acheampong Wiafe Eugene | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0032
+Richard Kologbon | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0015
+Osei Kelvin Lord Coffie | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0021
+Bless Selassie Kpogo | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0050
+Abengbo Richard | BSC (INFORMATION TECHNOLOGY) | 
+Joseph Arthur | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0146
+Stanley Bart-Addison | BSC (INFORMATION TECHNOLOGY) | 
+Confidence Atiawin Atibila | BSC (INFORMATION TECHNOLOGY) | 
+Ampah Grace | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0219
+Patrick Ankomah | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0055
+Abanyie Michael Kwame | BSC (INFORMATION TECHNOLOGY) | PS/ITC/22/0159
+Richard Bindecha Gmamyipoan | BSC (MATHEMATICS) | PS/MAT/22/0008
+Emmanuel Dadzie | BSC (MATHS AND STATISTICS | PS/MST/22/0016
+Raymond Darko  | BSC (MATHS AND STATISTICS | 
+Tetteh Emmanuel | BSC (MATHS AND STATISTICS | 
+Aikins Solomon | BSC (MATHS AND STATISTICS | PS/MST/22/0026
+Marriam Aba Sam | BSC (MATHS AND STATISTICS | 
+Asamoah Ronald Anthony Naylor | BSC (MATHS AND STATISTICS | PS/MST/22/0023
+Danquah Princemark | BSC (MATHS AND STATISTICS | PS/MST/22/0015
+Boateng Daniel | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0040
+Kwabena Yeboah | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0005
+Gyan Isaac | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0012
+Paa Kwesi Aggrey Fynn | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0035
+Arthur Ezekiel Bentum | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0011
+Ahudey Solomon Tetteh | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0047
+Stephen Dadzie | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0023
+Emmanuel Dadzie | BSC( MATHS WITH ECONOMICS) | PS/MEC/22/0022
+Egbenyah Lorenzo Kofi | BSC MATTHEMATICS AND BUSINESS | PS/MBU/22/0002
+Gifty Asare | BSC (PSYCHOLOGY ) | EF/BPS/22/0004
+Esinam Cara | BSC (PSYCHOLOGY ) | EF/BPS/22/0153
+Bernice Nako Ayiku | BSC (PSYCHOLOGY ) | EF/BPS/22/0013
+Samuel Asare Boateng | BSC (FORENSIC SCINECE ) | BS/FSC/22/0020
+Princess Mensah | BSC (FORENSIC SCINECE ) | 
+Ebenezer Arthur | BSC (FORENSIC SCINECE ) | BS/FSC/22/0058
+Lydia Dede Tetteh | BSC (BIOCHEMISTRY ) | BS/BCH/22/0023
+Brempong Jesse Reginal | BSC (BIOCHEMISTRY ) | 
+Priscilla Hammond | BSC (BIOCHEMISTRY ) | BS/BCH/22/0017
+Boadi Emmanuel | BSC (BIOCHEMISTRY ) | BS/BCH/22/0035
+Enoku Bright | BSC (BIOCHEMISTRY ) | BS/BCH/22/0108
+Amankwah Derrick | BSC (BIOCHEMISTRY ) | BS/BCH/22/0063
+Deborah Amene Yobo  | BSC (BIOCHEMISTRY ) | BS/BCH/22/0092
+Esther Josephine Offei Darko | BSC (ACTUARIAL SCIENCE ) | PS/ASC/22/0017
+Audrey Adams | BSC (ACTUARIAL SCIENCE ) | PS/ASC/22/0037
+Jaffar Tajudeen | BSC (ENGINEERING PHYSICS ) | PS/EPH/22/0019
+Vincent Opare | BSC (ENGINEERING PHYSICS ) | PS/EPH/22/0002
+Ametefe Foster Kwame | BSC (ENGINEERING PHYSICS ) | PS/EPH/22/0009
+Mark Jojoe Acheampong | BSC (METEOROLOGY AND ATMOSPHERIC PHYSICS ) | PS/MAP/22/0005
+Okoto Clinton Osei | BSC (INDUSTRIAL CHEMISTRY) | PS/ICH/22/0005
+Osei Ahenkuro Edmond | LABORATORY TECHNOLOGY | PS/LAB/22/0003
+Kwadzodeh Denzel Kafui | LABORATORY TECHNOLOGY | PS/LAB/22/0181
+Smith Joseph Danquah | LABORATORY TECHNOLOGY | PS/LAB/22/0131
+Meindo David M. | LABORATORY TECHNOLOGY | PS/LAB/22/0042
+Assina Gertrude Yenbila | LABORATORY TECHNOLOGY | PS/LAB/22/0064
+Arthur Bright kwame | LABORATORY TECHNOLOGY | PS/LAB/22/0159
+Isabella Jackson | LABORATORY TECHNOLOGY | PS/LAB/22/0123
+Acheampong Martin Ofori | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0030
+Baning Ransford Nkansah | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0040
+Adomako Mabel | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0112
+Tairu Faeez | B.ED (INFORMATION TECHNOLOGY) | 
+Amenya Elikplim | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0109
+Amissah Moses | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0079
+Musah Yakubu | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0037
+Tetteh Jessica Ayeko | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0023
+Asah Ohene Emmanuel | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0012
+Alhassan Fatayi | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0100
+Gideon Yeboah | B.ED (INFORMATION TECHNOLOGY) | 
+Stephen Fianya | B.ED (INFORMATION TECHNOLOGY) | 
+Evan Abekah | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0069
+Anane John Akparibo | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0033
+Daniel Wadie Dapaah | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0071
+Tom Agyei | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0110
+Osei Desmond Junior | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0116
+Atie Joshua | B.ED (INFORMATION TECHNOLOGY) | 
+Gyan Kelvin | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0122
+Mohammed Sani Issah | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0105
+George Osei Wusu | B.ED (INFORMATION TECHNOLOGY) | ET/INT/22/0027
+Edna Asare | B.ED (ART) | EH/ART/22/0169
+Osei Raymond | B.ED (ART) | 
+Banu issifu Diyaka | B.ED (ART) | EH/ART/22/0167
+Akuffo Koran Emmanuella | B.ED (ART) | EH/ART/22/0033
+Edward Akuoko Adomako | B.ED (ART) | 
+Kwawu Irene Sitsofe | B.ED (ART) | EH/ART/22/0147
+Audrey Akuba Nyame  | B.ED (ART) | EH/ART/22/0277
+Nana Kwame Baffoe Buah | B.ED (ART) | 
+Josephine Adwoa Foawah Baidoo | B.ED (ART) | EH/ART/22/0165
+Wumbei Adam | B.ED (ART) | EH/ART/22/0082
+Rose Adu-Ampoah | B.ED (ART) | EH/ART/22/0090
+Linda Agyeiwaa Osae | B.ED (ART) | EH/ART/22/0004
+Assan Daniella Amofoah | B.ED (ART) | EH/ART/22/0162
+Antwi Franka | B.ED (ART) | EH/ART/22/0198
+Maria Issah | B.ED (ART) | EH/ART/22/0213
+Ndele Ebenezer | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0065
+Adzadi Cornelius Kojo | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0197
+Alhassan Fatimata | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0167
+Ebenezer Sarfo | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0023
+Emmanuel Nartey Teye | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0169
+Appau MaRk Afriyie | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0003
+Nketia Aboagye Eunice | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0O97
+Akoamah Ernestina | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0066
+Buabeng Isaac Fitson | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0165
+Sylvester Abban | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0140
+Ababio Kingsley | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0188
+Anna Tina Taylor | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0131
+Irene Aboagyewaa Odane | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0076
+Andrews Ndur Nyame | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0200
+Agbemade Samuel | B.ED (SOCIAL SCIENCE ) | EH/BSS/22/0181
+Irene Laarba | B.ED  (SOCIAL SCIENCE) | EH/BSS/22/0105
+Alili Ruhanatu Precious | B.ED (PRIMARY ) | EF/PRI/22/0009
+David Korang  | B.ED (EARLY CHILDHOOD EDUCATION) | EF/ECH/22/0008
+Espiranza Twum Barimah | B.ED (EARLY CHILDHOOD EDUCATION) | EF/ECH/22/0001
+Amankwa Bright Asiedu | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0022
+Safia Surakatu Umar | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0006
+Addai Richard Ansah | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0031
+Nkaryo Stephen Akwasi | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0049
+Akplobi Bright | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0035
+Owusu Clifford Agyena-Ansah | B.ED (BASIC JUNIOR HIGH SCHOOL) | EF/JHS/22/0042
+Pirimbo bernard | B.ED (HYPER ) | 
+Dominic saani | B.ED (HYPER ) | ET/HPE/22/0046
+Twum-Antwi Ofori | B.ED (HYPER ) | ET/HPE/22/0010
+Harrison Richard | B.ED (SCIENCE  ) | ET/SCI/22/0051
+Osei Gyamera Clement | B.ED (SCIENCE  ) | ET/SCI/22/0043
+Mohammed Sherifudeen | B.ED (SCIENCE  ) | ET/SCI/22/0046
+Baforkor Ibrahim Lukman | B.ED (SCIENCE  ) | ET/INT/22/0010
+Linda Agyeiwaa Osae | B.ED (ACCOUNTING ) | 
+Rose Adu-Ampomah | B.ED (ACCOUNTING ) | 
+Stephen Kofi Boakye | B.ED (ACCOUNTING ) | EH/ACT/22/0082
+Grace Mensah | B.ED (ACCOUNTING ) | 
+Racheal Addo | B.ED (ACCOUNTING ) | 
+Kezzia-Moses Mensah | B.ED (ACCOUNTING ) |   
+Wapeah solomon | B.ED (MATHEMATICS ) | ET/MAT/22/0107
+Afram Ernest | B.ED (MATHEMATICS ) | ET/MAT/22/0024
+Yobo Sampson | B.ED (MATHEMATICS ) | ET/MAT/22/0121
+Masawud Abdul Rashid | B.ED (MATHEMATICS ) | ET/INT/22/0009
+Mary Darko | B.ED (MATHEMATICS ) | ET/MAT/22/0106
+Okyere Stephen | B.ED (MATHEMATICS ) | ET/MAT/22/0136
+Mohammed Luqmaan Saana | B.ED (MATHEMATICS ) | ET/MAT/22/0096
+Mens Abraham Oduro | B.ED (MATHS AND CHEMISTRY ) | ET/MAT/22/0122
+Klinogo Kwabena Felix | B.ED (MATHEMATICS AND PHYSICS | ET/MAT/22/0097
+Nutassey Abraham | B.ED (MATHEMATICS AND MANAGEMENT) | ET/MAT/22/0109
+Fuglo Cephas | B.ED (MATHEMATICS AND GEO ) | ET/MAT/22/0072
+Richard Festus Amponsah | B.ED (MATHEMATICS AND ACCOUNTING ) | ET/MAT/22/0129
+Emmanuel Essel | B.ED (MANAGEMENT ) | EH/MGT/22/0014
+Antwi Claudia | B.ED (MANAGEMENT ) | EH/MGT/22/0013
+Adam Salifu Sharif | B.ED (MANAGEMENT ) | EH/MGT/22/0009
+Kwabena Acheampong Ntori | B.ED (SOCIAL STUDIES ) | 
+Kirsty Dzidzo Treku | B.ED (COMMUNICATION DESIGN ) | ET/CMD/22/0045
+Jude Amakye | B.ED (COMMUNICATION DESIGN ) | ET/CMD/22/0014
+Mohammed Adams |  | EH/ACT/22/0121
+Nyatsoe Cyrilla |  | ET/CTM/22/0003
+Elizabeth Awuni |  | EF/BPS/22/0096
+Fordjour Edmond |  | ET/CTM/22/0027
+Asamoah Christian |  | EH/SST/22/0039
+Acheampong Ntori Kwabena |  | EH/SST/22/0011
+Yimbropul Dorcas |  | EH/SST/22/0075
+Yobo Amene Deborah |  | BS/BCH/22/0092
+Priscilla Hammond |  | BS/BCH/22/0017
+Raymond Osei |  | ET/CMD/22/0018
+Darlington Francis Asare |  | ET/CMD/22/0026
+
+--- SHEET: Sheet2 ---
+
+--- SHEET: Sheet3 ---

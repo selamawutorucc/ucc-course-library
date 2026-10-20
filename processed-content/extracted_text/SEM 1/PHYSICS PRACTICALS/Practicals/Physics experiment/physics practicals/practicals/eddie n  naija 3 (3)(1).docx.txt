@@ -1,0 +1,35 @@
+EXPERIMENT NUMBER: 3
+TITLE: VIBRATION OF STRINGS
+AIM: TO MEASURE THE DENSITY OF CONSTANTINE IN THE FORM OF A SPRING
+APPARATUS: 1 String tensioning device, 1 Constantine wire (d=0.3mm, l=100m), 1 Barrel base, 3 bench clamps, 3 support rods, 3 right angle clamps, 1 rod with hook, 2 sign holders, 1 fish line (l=100m), meter scale (l=100m), 1 rubber striking wire, 1 photo element  f. opt. base.plt, 1 lamp holder E10, 1lamp bulb ( 6V/3W, 10pcs), 1 distributor, 1 oscilloscope (30MHz), 1 spring balance (100N), LF amplifier( 220V), digital counter(4 decades), connector, adapter, 1 screened cable,1 connecting cord.
+DIAGRAM
+THEORY                                                                                                                                                                                          The fundamental frequency of a string of length l tensioned at both ends is given by                                     f=   where f is frequency of the vibrating string, l is length of the string, T is the tension in the string and  is the mass per unit length of the string. Comparing this to the equation of a straight line y =mx+c,           f=y, slope, m= and x=1/l, then mass per unit length of the string can be calculated if the slope of the graph is known. The density of the string can then be calculated from m=  from     and µ=. Where v= volume, m= mass of string and r=radius of string.
+PROCEDURE                                                                                                                                                                               The Constantine wire (string) was laid across two triangular sliders and clamped between a fixed hook and a spring balance. The spring balance was then attached to a string tensioner with a fishing line. The tensioning force was kept at 10N. The string length was set by moving the triangular sliders along the measuring scale. It was ensured that the strings outside the sliders didn’t vibrate by gently touching them any time they vibrate. This was carefully done so that string tension was not altered. The photo-cell was set such that the vibration of the Constantine wire was optically scanned midway between the sliders. The signal from the photo-cell fitted with an aperture slit was amplified and transmitted to the oscilloscope and the counter. The Constantine wire was gently tapped with the rubber hammer to set the string into vibration. The counter was only started once the harmonics had died away.                                The string was set, and the tension in it and its diameter were measured and recorded. The counter device was set to frequency. The sensor was aligned to the string and light so that the counter read zero. Keeping the tension in the string constant, at the recorded value, a string length of l =40cm was measured between the two triangular sliders. The start button was pressed and the wire was gently tapped with the rubber hammer to start the vibrations. The stop button was pressed when the harmonics had died away and the frequency was measured. The experiment was repeated for four other values of l= 50, 60, 70, 80cm.
+TABLE OF RESULTS 
+Diameter of string, d =0.30mm                                                                                                                                             Radius of string, r =0.15mm                                                                                                                                                 Tension in string, T =10N
+GRAPH
+CALCULATION                                                                                                                                                                    From the graph, the slope, m is 50Hz/m.                                                                                                                       from m=,       50=     →µ=0.001kgm3.
+But µ=   →0.001= 
+    →m= 0.1kg.
+From v     →v = 3.142(0.15/1000)2100
+V=0.9426m3
+→ =  =  = 0.11kg/m3
+DISCUSSION
+The experiment was done to measure the density of Constantine in a form of a string. The Constantine wire (string) was laid across two triangular sliders and clamped between a fixed hook and a spring balance. With all the precautions put in place, the Constantine wire was gently tapped with the rubber hammer to set the string into vibration. The counter was started once the harmonics had died away and these were the values obtained, at l=40, 50, 60, 70, 80cm the frequencies f, were 0.0705, 0.1365, 0.1135, 0.0975, 0.085kHz respectively. After the experiment,  was found to be 0.036kgm3 and the density of the density of the string was found to be 0.11kg/m3. but comparing this with the actual value which is 8900kg/m3 there is  a big difference in the result. This difference is as result of error. Some of these errors are as follows. There might have been vibrations outside the two sliders which could not have been detected. The string might have not been in line with the sensor due to the frequent adjustments of the length thereby introducing errors in the readings of the frequencies.    
+SOURCES OF ERROR 
+There might have been vibrations outside the two sliders which could not have been detected.
+The string might have not been in line with the sensor due to the frequent adjustments of the length thereby introducing errors in the readings of the frequencies.   
+PRECAUTIONS
+The experiment was repeated and the average was taken to get accurate results
+The sensor and the light were carefully aligned to the string so that the counter read zero before the experiment began. This ensured accurate readings.
+CONCLUSION
+The density, of the Constantine wire was found to be 0.11kg/m3.
+REFERENCES
+Nelkon and Parker (1995),Advanced Level Physics, 7th edition. Published by CBS Publishers and Distributers, New York. Page 591-597.
+Young and Freedom(1999), University Physics, 9th edition.Addison-Wesley Publishing Company, New York. 1090.
+Length, l/m | 1/l /1/m | Frequency f1/ | Frequencyf2/ | /
+40 | 2.50 | 0.070 | 0.071 | 0.0705
+50 | 2.00 | 0.136 | 0.137 | 0.1365
+60 | 1.67 | 0.113 | 0.114 | 0.1135
+70 | 1.43 | 0.096 | 0.099 | 0.0975
+80 |        1.25 | 0.085 | 0.085 | 0.085

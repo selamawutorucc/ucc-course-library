@@ -1,0 +1,394 @@
+
+--- PAGE 1 ---
+LEP
+1.4.04
+Viscosity measurements with the falling ball viscometer
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+21404
+1
+Related topics
+Liquid, Newtonian liquid, Stokes law, fluidity, dynamic and
+kinematic viscosity, viscosity measurements.
+Principle and task
+Due to internal friction among their particles, liquids and gases
+have different viscosities. The viscosity, a function of the sub-
+stance’s structure and its temperature, can be experimentally
+determined, for example, by measuring the rate of fall of a ball
+in a tube filled with the liquid to be investigated.
+Equipment
+Falling ball viscometer
+18220.00
+1
+Thermometer, 24..+51C, f. 18220.00
+18220.02
+1
+Immersion thermostat A100
+46994.93
+1
+Accessory set for A100
+46994.02
+1
+Bath for thermostat, Makrolon
+08487.02
+1
+Retort stand, h 750 mm
+37694.00
+1
+Right angle clamp
+37697.00
+1
+Universal clamp with joint
+37716.00
+1
+Pyknometer, calibrated, 25 ml
+03023.00
+1
+Volumetric flask 100 ml, IGJ12/21
+36548.00
+9
+Glass beaker, tall, 150 ml
+36003.00
+11
+Glass beaker, short, 250 ml
+36013.00
+1
+Pasteur pipettes, 250 pcs
+36590.00
+1
+Rubber caps, 10 pcs
+39275.03
+1
+Hose clip, diam. 8-12 mm
+40996.01
+6
+Rubber tubing, i.d. 7 mm
+39282.00
+6
+Stopwatch, digital, 1/100 sec.
+03071.01
+1
+Laboratory balance, data outp. 620 g
+45023.93
+1
+Wash bottle, plastic, 500 ml
+33931.00
+2
+Methanol
+500 ml
+30142.50
+2
+Water, distilled
+5 l
+31246.81
+1
+Problems
+Measure the viscosity
+1. of methanol-water mixtures of various composition at a
+constant temperature,
+2. of water as a function of the temperature and
+3. of methanol as a function of temperature.
+From the temperature dependence of the viscosity, calculate
+the energy barriers for the displaceability of water and metha-
+nol.
+Set-up and procedure
+Perform the experimental set-up according to Fig. 1. Connect
+the falling ball viscometer to the pump connection unit of the
+thermostat with rubber tubing (secure the tubing connections
+with hose clips!). Fill the bath of the circulating thermostat with
+R
+Fig. 1: Experimental set up: Viscosity measurements with the falling ball viscometer.
+
+--- PAGE 2 ---
+LEP
+1.4.04
+Viscosity measurements with the falling ball viscometer
+21404
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+2
+distilled or demineralised water to avoid furring. Connect the
+cooling coil of the thermostat to the water supply line with
+tubing (secure the tubing connections with hose clips!).
+In addition, prepare the falling ball viscometer according to its
+operating instructions; calibrate it; and for each experiment fill
+it with the liquid to be investigated (water, methanol or metha-
+nol-water mixtures according to Tab. 1) in such a manner that
+it is bubble-free.
+Ball number 1, which is made of borosilicate glass, is appro-
+priate for investigations in the given viscosity range. Its cha-
+racteristic data can be obtained from the enclosed test certi-
+ficate. After the ball has been placed in the gravity tube, first
+allow the viscometer to equilibrate to the selected working
+temperature T for approximately 10 minutes before determin-
+ing 3 to 5 falling times t. Calculate the arithmetic mean of the
+measured values in each case.
+A constant working temperature of 298 K is recommended for
+the viscosity measurements in methanol- water mixtures
+(Problem a).
+Conduct the investigations on the temperature dependence of
+the viscosity of pure liquids (Problems b and c) in steps of 5 K
+in the temperature range between 293 K and 323 K. Parallel to
+this, determine the density of the respective liquids, which is
+required for the calculations. To do this, weigh the clean and
+dry pycnometer; fill it with the liquid to be investigated; fix it to
+the retort stand, and equilibrate it in the thermostatic water
+bath for approximately 15 minutes. Subsequent to bubble-free
+closure with the accompanying stopper and a quick external
+drying, reweigh the filled pycnometer. From the mass differen-
+ce of the two weighings and the volume of the pycnometer,
+determine the density of the liquid. Rinse the gravity tube and
+the pycnometer thoroughly with the next liquid to be investi-
+gated each time before it is refilled.
+Tab. 1: Literature values for the density r and the dynamic
+viscosity h of methanol-water mixtures of different
+compositions at constant temperature (T = 298.15 K)
+m(CH3OH)
+m(H2O)
+r
+h
+/g
+/g
+/g· cm–3
+/mPa· s
+0
+100
+0.9970
+0.897
+10
+90
+0.9804
+1.178
+20
+80
+0.9649
+1.419
+30
+70
+0.9492
+1.581
+40
+60
+09316
+1.671
+50
+50
+0.9122
+1.577
+60
+40
+0.8910
+1.427
+70
+30
+0.8675
+1.234
+80
+20
+0.8424
+1.025
+90
+10
+0.8158
+0.788
+100
+0
+0.7867
+0.557
+Tab. 2: Literature values for the density r and the dynamic
+viscosity h of water and methanol at different tempe-
+ratures
+Water
+Methanol
+T / K
+r
+h
+r
+h
+/g·cm–3
+/mPa·s
+/g·cm–3
+/mPa·s
+293.15
+0.9982
+1.002
+0.7915
+0.608
+398.15
+0.9970
+0.897
+0.7868
+0.557
+303.15
+0.9956
+0.797
+0.7819
+0.529
+308.15
+0.9940
+0.726
+0.7774
+0487
+313.15
+0.9922
+0.653
+0.7729
+0.458
+218.15
+0.9902
+0.597
+0.7690
+0.425
+323.15
+0.9880
+0.548
+0.7650
+0.396
+Note
+The measurements are time consuming and take approxima-
+tely 10 hours when painstakingly performed. It is therefore
+appropriate to divide the experiment according to the three
+given problems or to have them performed optionally. Another
+possibility is to have the complete experiment carried out on
+two laboratory days.
+Theory and evaluation
+The dynamic viscosity h of a liquid (1) is defined by the force
+F which is required to move two parallel layers of liquid both
+having the area A and separated by dx with the velocity dv
+with respect to each other.
+h = 
+F
+(1)
+A
+By relating the dynamic viscosity to the density r of the liquid,
+one obtains the kinematic viscosity v (2); the reciprocal of the
+dynamic viscosity is designated as fluidity w (3).
+v = h
+(2)
+w = 1
+(3)
+A spherical particle with a radius r moves in a liquid under the
+influence of a force F and the viscosity w with a constant ve-
+locity v.
+v =      F     
+(4)
+(Stokes Law)
+For the fall of a sphere in the gravitational field of the earth the
+motive force Fis equal to the product of the acceleration of
+gravity g and the effective mass m, which can be expressed
+as the density difference between the sphere (r1) and the
+liquid (r2).
+6 p h r
+h
+r
+dv
+dv
+R
+
+--- PAGE 3 ---
+R
+F =  m’ g = 4 p r3 g (r1 – r2)
+(5)
+The correlation (6) for the calculation of the viscosity, which is
+derived from (4) and (5), is only considered as the limit law for
+expanded media (the radius can be neglected with respect to
+that of the gravity tube); otherwise, the relationship can be
+approximated by corrections (Ladenburg Correction).
+h =  2 g r2 (r1 – r2)
+(6)
+For commercial falling ball viscometers with sets of calibrated
+spheres, the constants in equation (6) are combined with the
+apparative factors to form the spherical constant K; this
+makes the calculations much simpler:
+h =  K t (r1 – r2)
+(7)
+(t =  rate of fall of the sphere for a measuring distance of
+s = 100 mm)
+The density r2 of the liquid at temperature T which is contain-
+ed in eqn. (7), can be calculated using the relationship
+r2 = m
+(8)
+(m = mass of the liquid; V = volume of the pycnometer)
+using the experimentally determined pycnometer data or
+alternatively that obtained from Tables 1 and 2.
+The viscosity is a function of the structure of the system and
+the temperature. The alteration in the measured viscosity in
+which the composition of methanol-water mixtures are ex-
+pressed as the mass fraction w (9.1) or the mole fraction x
+(9.2) is an expression of the non-ideal behaviour of the liquids.
+It correlates to additional mixing phenomena such as mixing
+volume (volume contraction) and mixing enthaIpy.
+w1 = 
+m1
+(9.1)
+(wi=
+mass fraction, rni = mass of the substance i)
+n1
+x1 =  n1 + n2
+=  m1 + m2
+(9.2)
+(wi = mole fraction, ni quantity of substance, mi = mass of the
+substance i, Mi = molar mass of substance i)
+For many liquids the reduction of the viscosity with tempera-
+ture is described by an empirically determined exponential
+function (10).
+1 =  w =  C e – E
+(10)
+(R = 8.31441 J·K–1· mol–1, universal gas constant)
+In this relationship which is analogous to the Arrhenius equa-
+tion, C represents a system-dependent constant; E is an
+expression of the molar energy which is required to overcome
+the internal friction. This activation energy can be determined
+from the slope obtained by the linear relation (10.1) between In
+h and 1/T (Fig. 4).
+In h = E ·  1
+– In C.
+(10.1)
+T
+R
+RT
+h
+M2
+M1
+m1
+M1
+m1 + m2
+V
+g v
+3
+LEP
+1.4.04
+Viscosity measurements with the falling ball viscometer
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+21404
+3
+Fig. 2: Dependence of the viscosity h of the methanol-water
+system on the composition described by the mass
+traction w at constant temperature (T= 298 K).
+Fig. 3: Dependence of the viscosity h of the methanol water
+system on the composition described by the mole
+fraction x at constant temperature (T= 298K).
+
+--- PAGE 4 ---
+LEP
+1.4.04
+Viscosity measurements with the falling ball viscometer
+21404
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+4
+Data and results
+The experimentally determined viscosities are presented gra-
+phically in the Figures 2 to 4 as a function of the composition
+of the methanol-water mixtures or of the temperature.
+The following values are determined for the slopes of the line-
+ar relationships between In h and 1/T, which are obtained by
+linear regression analysis:
+D(ln h) /D(1/T) = 1.799 · 103 K (H2O) and
+D(ln h) /D(1/T) = 1.134 · 103 K (CH3OH).
+Substituting these values in Eq. (10.1), the corresponding
+energy barriers are obtained
+E = 14.8 kJ· mol–1 (H2O) and E = 9.4 kJ· mol–1 (CH3OH).
+The energy barriers, which are obtained by using the literatu-
+re values for h (given in Table 2), are E = 15.9 kJ· mol–1 and
+E = 11.1 kJ· mol–1.
+R
+Fig. 4: Temperature dependence of the dynamic viscosity h
+of water (o) and methanol (+), respectively.

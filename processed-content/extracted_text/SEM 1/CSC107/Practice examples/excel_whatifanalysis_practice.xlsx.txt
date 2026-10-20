@@ -1,0 +1,26 @@
+
+--- SHEET: Grades ---
+Assignment | Grade
+Paper 1 | 58
+Paper 2 | 70
+Quiz | 72
+Lab | 60
+Final Exam | 
+Final Grade | 
+
+--- SHEET: Event Planning ---
+Guest Budget | 
+Reservation fee | 230
+Price per person | 14.5
+Number of guests | 
+Budget | =B2+B3*B4
+
+--- SHEET: Challenge ---
+Month | Sales
+January | 157274
+February | 187349
+March | 179291
+April | 202025
+May | 212685
+June | 
+Mid-Year Average | 

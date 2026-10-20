@@ -1,0 +1,35 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL								SM/SMS/10/0026
+MED 112					GROUP 19
+EXPERIMENT 2 									3RD MARCH, 2011
+TITLE:  Wheatstone Bridge Experiment
+AIM: To determine the unknown resistance of a wire as a function of its cross-section.
+APPARATUS: Resistance wire board, Slide wire measuring bridge, Connection box, Standard PEK carbon resistor, Unknown PEK carbon resistors, Power supply, 5V/1A, +/-15V, Digital multimeter 07134.00, Connection cord, 500mm, red, yellow andTHEORY: Wheatstone ridge is an instrument used in getting accurate resistance.For the Wheatstone bridge circuit, at the balanced point, the potential at C equals the potential at J and no current flows through the digital multimeter.   The potential difference across R equals R equal that across the length l2 and the potential difference across Rx equals l1
+Then, 
+The resistance, R of a metal in the form of a wire is directly proportional to its length l and inversely proportional to its cross-sectional area. That is
+      and     R = ρ   ,
+Where ρ is the constant of proportionality called Resistivity.
+Resistivity is the resistance of a wire of unit length and unit cross-sectional area. The resistivity of a wire is also defined mathematically as;
+Ρ = R   unit is Ωm.
+METHOD: The experimental setup was as shown above.  Resister Q and the Standard resister R was connected using a connection box. The power supply was switched on and the correctness of the connection was checked by touching the bridge wire at the extreme ends (X and Y) with the slider (jockey) J and also the negative and positive readings were observed on the digital multimeter G. The balance point was located on the wire at J, the position where there is zero reading on the digital multimeter. The length l1 from the end X to the balanced point and also l2 was measured.  The experiment was repeated with the resistances wires of different diameters.
+TABLE OF RESULTS:
+GRAPH OF /Ω AS ABCISSA AND l/A /m-1
+CALCULATION:
+         = 0.616  = 2.516      
+                                     = 4.993
+SOURCES OF ERROR:
+Error of parallax may have occurred when readings were being taken from the galvanometer.
+PRECAUTIONS: 
+1.	It was ensured that connections of the circuit were well tightened.
+2.	It was ensured that the measuring resistance R was successively in order of magnitude to Rx.
+CONCLUSION
+ The resistivity of the Constantan wire is 5.0 x 10-7Ωm.
+REFERENCES:
+(1) Faughn J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+(2)Nelkon M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+Diameter of wire/mm | L1/mm  | L2/mm  | Cross sectional area (A) /mm2 | Cross sectional
+ area/m2 | l/A /m-1 | /Ω
+0.35 | 342 | 658 | 0.785 | 7.850x10-4 | 1273885.350 | 0.616
+0.7 | 117 | 883 | 0.196 | 1.960x10-4 | 5102040.816 | 2.516
+0.5 | 205 | 795 | 0.385 | 3.850x10-4 | 2597402.597 | 1.287
+1.0 | 61 | 939 | 0.096 | 9.600x10-5 | 10416666.670 | 4.993

@@ -1,0 +1,5067 @@
+
+--- PAGE 1 ---
+306 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+29 
+Magnetic Fields 
+ 
+CHAPTER OUTLINE 
+ 
+29.1  
+Analysis Model: Particle in a Field (Magnetic) 
+29.2  
+Motion of a Charged Particle in a Uniform Magnetic Field 
+29.3 
+Applications Involving Charged Particles Moving in a Magnetic Field 
+29.4  
+Magnetic Force on a Current-Carrying Conductor 
+29.5 
+Torque on a Current Loop in a Uniform Magnetic Field 
+22.6 
+The Hall Effect 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ29.1 
+Answers (c) and (e). The magnitude of the magnetic force 
+experienced by a charged particle in a magnetic field is given by 
+FB = q vBsinθ, where v is the speed of the particle and θ is the angle 
+between the direction of the particle’s velocity and the direction of 
+the magnetic field. If either v = 0 [choice (e)] or sin θ = 0 [choice (c)], 
+this force has zero magnitude.  
+OQ29.2 
+The ranking is (c) > (a) = (d) > (e) > (b). We consider the quantity  
+FB = |qvB sin θ|, in units of e (m/s)(T). (a) θ = 90° and FB =  
+(1 × 10
+6) (10
+–3) (1) = 1 000. (b) θ = 0° and FB = (1 × 10
+6) (10
+–3) (0) = 0.  
+(c) θ = 90° and FB = (2 × 10
+6 )(10
+–3) (1) = 2 000. For (d) θ = 90° and  
+FB = (1 × 10
+6)(1 × 10
+–3)(1) = 1 000 (e) θ = 45° and  
+FB = (1 × 10
+6)(10
+–3)(0.707) = 707.  
+OQ29.3 
+Answer (c). It is not necessarily zero. If the magnetic field is parallel 
+or antiparallel to the velocity of the charged particle, then the particle 
+will experience no magnetic force.
+
+--- PAGE 2 ---
+Chapter 29     307 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ29.4 
+Answer (c). Use the right-hand rule for the cross produce to 
+determine the direction of the magnetic force, 
+
+FB = qv ×
+
+B. When the 
+proton first enters the field, it experiences a force directed upward, 
+toward the top of the page. This will deflect the proton upward, and 
+as the proton’s velocity changes direction, the force changes direction 
+always staying perpendicular to the velocity. The force, being 
+perpendicular to the motion, causes the particle to follow a circular 
+path, with no change in speed, as long as it is in the field. After 
+completing a half circle, the proton will exit the field traveling 
+toward the left. 
+OQ29.5 
+Answer (c). 
+
+FB = qv ×
+
+B and ˆi × (−ˆk) = ˆj. 
+OQ29.6 
+Answer (c). The magnetic force must balance the weight of the rod. 
+From Equation 29.10,  
+ 
+ 
+ 
+
+FB = I
+
+L ×
+
+B →FB = ILBsinθ 
+ 
+For maximum current, θ = 90°, and we have ILB sin 90° = mg, from 
+which we obtain  
+ 
+ 
+ 
+I = mg
+LB = 0.050 0 kg
+(
+) 9.80 m/s2
+(
+)
+1.00 m
+(
+) 0.100 T
+(
+)
+= 4.90 A
+ 
+OQ29.7 
+(i) Answer (b). The magnitude of the magnetic force experienced by 
+the electron is given by FB = q vBsinθ = evB because q = −e = e , and 
+the angle between the electron’s velocity and the magnetic field is θ = 
+90°. We see that force is proportion to speed. 
+ 
+(ii) Answer (a). According to Equation 29.3, r = mv/qB; thus, electron 
+A has a smaller radius of curvature.  
+OQ29.8 
+(i) 
+Answer (c).  
+ 
+(ii) Answer (c). FE = q E and FB = q vBsinθ . 
+ 
+(iii) Answer (c). 
+
+F = q
+
+E and 
+
+FB = qv ×
+
+B.  
+ 
+(iv) Answer (a). 
+
+F = q
+
+E and 
+
+FB = qv ×
+
+B. 
+ 
+(v)  Answer (d). But FB = q vBsinθ is zero if θ = ±90°.  
+ 
+(vi) Answer (b). FB = q vBsinθ is non-zero unless θ = ±90°. 
+ 
+(vii) Answer (b). Because 
+
+FB = qv ×
+
+B is perpendicular to the 
+particle’s velocity.  
+ 
+(viii) Answer (b). FB = q vBsinθ .
+
+--- PAGE 3 ---
+308     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ29.9 
+Answer (c). The magnitude of the magnetic force experienced by the 
+electron is given by FB = q vBsinθ , where the angle between the 
+electron’s velocity and the magnetic field is θ = 55.0°, and the 
+magnitude of the electron’s (negative) charge is q = −e = e . The 
+magnitude of the force is  
+ 
+  
+  
+FB = q vBsinθ
+= 1.60 × 10−19 C
+(
+) 2.50 × 106 m/s
+(
+) 3.00 × 10−5 T
+(
+)sin55.0°
+= 9.83 × 10−18 N
+. 
+ 
+Use the right-hand rule for the cross produce to determine the 
+direction of the magnetic force, 
+
+FB = qv ×
+
+B. The force is upward on a 
+positive charge but downward on a negative charge.  
+OQ29.10 
+Answers (d) and (e). The force that a magnetic field exerts on a 
+moving charge is always perpendicular to both the direction of the 
+field and the direction of the particle’s motion. Since the force is 
+perpendicular to the direction of motion, it does no work on the 
+particle and hence does not alter its speed. Because the speed is 
+unchanged, both the kinetic energy and the magnitude of the linear 
+momentum will be constant.  
+OQ29.11 
+Answer (d). The electrons will feel a constant electric force and a 
+magnetic force that will change in direction and in magnitude as 
+their speed changes. 
+OQ29.12 
+(a) Yes, as described by 
+
+F = q
+
+E. (b) No, because, as described by  
+ 
+ 
+ 
+
+FB = qv ×
+
+B, when v = 0, FB = 0. 
+ 
+(c) Yes. 
+
+F = q
+
+E does not depend upon velocity. (d) Yes, because the 
+velocity and magnetic field are perpendicular. (e) No, because the 
+wire is uncharged. (f) Yes, because the current and magnetic field are 
+perpendicular. (g) Yes. (h) Yes.  
+OQ22.13 
+Ranking AA > AC > AB. The torque exerted on a single turn coil 
+carrying current I by a magnetic field B is τ = BIAsinθ. The normal 
+perpendicular to the plane of each coil is also perpendicular to the 
+direction of the magnetic field (i.e., θ = 90°). Since B and I are the 
+same for all three coils, the torques exerted on them are proportional 
+to the area A enclosed by each of the coils. Coil A is rectangular with 
+the largest area AA = (1 m)(2 m) = 2 m
+2. Coil C is triangular with area 
+AC = 1
+2 1 m
+(
+) 3 m
+(
+) = 1.5 m2. By inspection of the figure, coil B 
+encloses the smallest area.
+
+--- PAGE 4 ---
+Chapter 29     309 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ29.1 
+No. Changing the velocity of a particle requires an accelerating force. 
+The magnetic force is proportional to the speed of the particle. If the 
+particle is not moving, there can be no magnetic force on it. 
+CQ29.2 
+If you can hook a spring balance to the particle and measure the force 
+on it in a known electric field, then q = F/E  will tell you its charge. 
+You cannot hook a spring balance to an electron. Measuring the 
+acceleration of small particles by observing their deflection in known 
+electric and magnetic fields can tell you the charge-to-mass ratio, but 
+not separately the charge or mass. Both an acceleration produced by 
+an electric field and an acceleration caused by a magnetic field 
+depend on the properties of the particle only by being proportional 
+to the ratio q/m. 
+CQ29.3 
+Yes. If the magnetic field is perpendicular to the plane of the loop, 
+then it exerts no torque on the loop. 
+CQ29.4 
+Send the particle through the uniform field and look at its path. If the 
+path of the particle is parabolic, then the field must be electric, as the 
+electric field exerts a constant force on a charged particle, 
+independent of its velocity. If you shoot a proton through an electric 
+field, it will feel a constant force in the same direction as the electric 
+field—it’s similar to throwing a ball through a gravitational field.  
+ 
+If the path of the particle is helical or circular, then the field is 
+magnetic.  
+ 
+If the path of the particle is straight, then observe the speed of the 
+particle. If the particle accelerates, then the field is electric, as a 
+constant force on a proton with or against its motion will make its 
+speed change. If the speed remains constant, then the field is 
+magnetic. 
+CQ29.5 
+If the current loop feels a torque, it must be caused by a magnetic 
+field. If the current loop feels no torque, try a different orientation—
+the torque is zero if the field is along the axis of the loop. 
+CQ29.6 
+The Earth’s magnetic field exerts force on a  
+charged incoming cosmic ray, tending to make it  
+spiral around a magnetic field line. If the particle  
+energy is low enough, the spiral will be tight  
+enough that the particle will first hit some matter  
+as it follows a field line down into the atmosphere  
+or to the surface at a high geographic latitude. 
+CQ29.7 
+If they are projected in the same direction into the same magnetic 
+field, the charges are of opposite sign.
+  
+ 
+ 
+ANS. FIG. P29.6
+
+--- PAGE 5 ---
+310     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 29.1 
+Analysis Model: Particle in a Field (Magnetic) 
+*P29.1 
+Gravitational force: 
+ 
+ 
+ 
+Fg = mg = 9.11× 10−31 kg
+(
+) 9.80 m s2
+(
+)
+= 8.93 × 10−30 N down
+ 
+ 
+Electric force: 
+ 
+ 
+ 
+ 
+Fe = qE = −1.60 × 10−19 C
+(
+) 100 N C down
+(
+)
+= 1.60 × 10−17 N up
+ 
+ 
+Magnetic force:  
+ 
+ 
+ 
+
+FB = qv ×
+
+B = −1.60 × 10−19 C
+(
+) 6.00 × 106 m s ˆE
+(
+)
+                                        × 50.0 × 10−6 N ⋅s C⋅m ˆN
+(
+)
+= −4.80 × 10−17 N up =
+4.80 × 10−17 N down
+ 
+P29.2 
+See ANS. FIG. P29.2 for right-hand rule diagrams for each of the 
+situations. 
+ 
+(a) 
+up 
+ 
+(b) out of the page, since the charge is negative. 
+ 
+(c) 
+no deflection 
+ 
+(d) into the page 
+ 
+ANS. FIG. P29.2
+
+--- PAGE 6 ---
+Chapter 29     311 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.3 
+To find the direction of the magnetic field, we use 
+
+FB = qv ×
+
+B. Since 
+the particle is positively charged, we can use the right hand rule. In 
+this case, we start with the fingers of the right hand in the direction of 
+v and the thumb pointing in the direction of 
+
+F . As we start closing the 
+hand, our fingers point in the direction of 
+
+B after they have moved 
+90°. The results are 
+ 
+(a) into the page  (b) toward the right  
+(c) toward the bottom of the page 
+P29.4 
+At the equator, the Earth’s  
+magnetic field is horizontally  
+north. Because an electron has  
+negative charge, 
+
+F = qv ×
+
+B is  
+opposite in direction to v ×
+
+B.  
+Figures are drawn looking down. 
+ 
+(a) 
+Down × North = East, so the force is directed West . 
+ 
+(b) North × North = sin 0° = 0: Zero deflection . 
+ 
+(c) 
+West × North = Down, so the force is directed Up . 
+ 
+(d) Southeast × North = Up, so the force is Down . 
+P29.5 
+We use 
+
+FB = qv ×
+
+B. Consider a three-dimensional coordinate system 
+with the xy plane in the plane of this page, the +x direction toward the 
+right edge of the page and the +y direction toward the top of the page. 
+Then, the z axis is perpendicular to the page with the +z direction 
+being upward, out of the page. The magnetic field is directed in the  
++x direction, toward the right. 
+ 
+(a) 
+When a proton (positively charged) moves in the +y direction, the 
+right-hand rule gives the direction of the magnetic force as into 
+the page or in the −z direction . 
+ 
+(b) With velocity in the –y direction, the right-hand rule gives the 
+direction of the force on the proton as out of the page, in 
+the +z direction . 
+ 
+(c) 
+When the proton moves in the +x direction, parallel to the 
+magnetic field, the magnitude of the magnetic force it experiences 
+is F = qvB sin (0°) = 0. The magnetic force is zero in this case. 
+ANS. FIG. P29.4
+
+--- PAGE 7 ---
+312     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.6 
+The magnitude of the force on a moving charge in a magnetic field is  
+FB = qvBsinθ, so 
+ 
+ 
+  
+θ = sin−1
+FB
+qvB
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+ 
+ 
+θ = sin−1
+8.20 × 10–13 N  
+1.60 × 10–19 C
+(
+) 4.00 × 106 m/s
+(
+) 1.70 T
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 48.9° or 131°
+ 
+P29.7 
+We first find the speed of the electron from the isolated system model: 
+ 
+ 
+ 
+ΔK + ΔU
+(
+)i = ΔK + ΔU
+(
+) f →1
+2 mv2 = eΔV : 
+ 
+ 
+ 
+v =
+2eΔV
+m
+=
+2 1.60 × 10−19 C
+(
+) 2 400 J C
+(
+)
+9.11× 10−31 kg
+= 2.90 × 107 m s
+ 
+ 
+(a) 
+FB, max = qvB = 1.60 × 10−19 C
+(
+) 2.90 × 107 m s
+(
+) 1.70 T
+(
+)
+= 7.90 × 10−12 N
+ 
+ 
+(b) 
+FB, min = 0 occurs when v is either parallel to or anti-parallel to 
+
+B. 
+P29.8 
+The force on a charged particle is proportional to the vector product of 
+the velocity and the magnetic field:  
+ 
+ 
+ 
+
+FB = qv ×
+
+B = (1.60 × 10–19 C) (2ˆi – 4ˆj + ˆk)(m/s)×(ˆi + 2ˆj – ˆk) T
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+Since 1 C · m · T/s = 1 N, we can write this in determinant form as:  
+ 
+ 
+ 
+
+FB = (1.60 × 10−19 N) 
+ˆi
+ˆj
+ˆk
+2
+–4
+1
+1
+2
+–1
+ 
+ 
+ 
+Expanding the determinant as described in Equation 11.8, we have 
+ 
+ 
+ 
+
+FB,x = (1.60 × 10–19 N) ( – 4)( – 1) – (1)(2)
+[
+]ˆi 
+ 
+ 
+ 
+
+FB,y = (1.60 × 10–19 N) (1)(1) – (2)(–1)
+[
+]ˆj 
+ 
+ 
+ 
+
+FB,z = (1.60 × 10–19 N) (2)(2) – (1)(–4)
+⎡⎣
+⎤⎦ˆk
+
+--- PAGE 8 ---
+Chapter 29     313 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Again in unit-vector notation,  
+ 
+ 
+ 
+
+FB = (1.60 × 10–19 N)(2ˆi + 3ˆj + 8 ˆk)
+= 3.20ˆi + 4.80ˆj + 12.8ˆk
+(
+)× 10–19 N
+ 
+ 
+ 
+ 
+
+FB =
+3.202 + 4.802 + 12.82
+(
+) × 10–19 N = 13.2 × 10–19 N
+ 
+P29.9 
+(a) 
+The magnetic force is given by 
+ 
+ 
+ 
+F = qvBsinθ
+= 1.60 × 10−19 C
+(
+) 5.02 × 106 m s
+(
+) 0.180 T
+(
+)sin 60.0°
+(
+)
+= 1.25 × 10−13 N
+  
+ 
+(b) From Newton’s second law, 
+ 
+ 
+ 
+a = F
+m = 1.25 × 10−13 N
+1.67 × 10−27 kg = 7.50 × 1013 m s2 
+P29.10 
+(a) 
+The proton experiences maximum force when it moves 
+perpendicular to the magnetic field, and the magnitude of this 
+maximum force is 
+ 
+Fmax = qvBsin90°
+= 1.60 × 10−19 C
+(
+) 6.00 × 106 m s
+(
+) 1.50 T
+(
+) 1( )
+= 1.44 × 10−12 N
+ 
+ 
+(b) From Newton’s second law, 
+ 
+ 
+ 
+amax = Fmax
+mp
+= 1.44 × 10−12 N
+1.67 × 10−27 kg = 8.62 × 1014 m s2 
+ 
+(c) 
+Since the magnitude of the charge of an electron is the same as 
+that of a proton, a force would be exerted on the electron that had 
+the same magnitude as the force on a proton, but in the opposite 
+direction because of its negative charge.  
+ 
+(d) 
+The acceleration of the electron would be much greater than that
+of the proton because the mass of the electron is much smaller.
+ 
+P29.11 
+F = ma = 1.67 × 10−27 kg
+(
+) 2.00 × 1013 m s2
+(
+) = 3.34 × 10−14 N = qvBsin90° 
+ 
+B = F
+qv =
+3.34 × 10−14 N
+1.60 × 10−19 C
+(
+) 1.00 × 107 m s
+(
+)
+= 2.09 × 10−2 T = 20.9 × 10−3 T
+= 20.9 mT
+
+--- PAGE 9 ---
+314     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+From ANS. FIG. P29.11, the right-hand rule 
+shows that B must be in the –y direction to 
+yield a force in the +x direction when v is in 
+the z direction. Therefore, 
+ 
+ 
+ 
+
+B = −20.9 ˆj mT
+ 
+P29.12 
+The problem implies that the particle undergoes a deflection 
+perpendicular to its motion as if the force direction remained constant. 
+Treat this as a projectile motion problem where the particle travels in 
+the horizontal direction but is displaced vertically 0.150 m at a constant 
+acceleration.  
+ 
+We find the acceleration from 
+ 
+ 
+Δy = 1
+2 ayΔt2 →ay = 2Δy
+Δt2 = 2 0.150 m
+(
+)
+1.00 s
+(
+)
+2
+= 0.300 m s2 
+ 
+Then, from Newton’s second law,  
+ 
+ 
+Fy = may = qvB
+q =
+may
+vB =
+1.50 × 10−3 kg
+(
+) 0.300 m s2
+(
+)
+1.50 × 104 m/s
+(
+) 0.150 × 10−3 T
+(
+)
+= 2.00 × 10−4 C = 200. × 10−6 C = 200 µC
+ 
+ 
+ 
+ 
+Section 29.2 
+Motion of a Charged Particle  
+in a Uniform Magnetic Field 
+P29.13 
+(a) 
+The magnetic force acting on the electron provides the centripetal 
+acceleration, holding the electron in the circular path. Therefore, 
+F = q vBsin90° = me v2 r , or  
+ 
+ 
+ 
+r = mev
+eB = 9.11× 10−31 kg
+(
+) 1.50 × 107 m s
+(
+)
+1.60 × 10−19 C
+(
+) 2.00 × 10−3 T
+(
+)
+= 0.042 7 m = 4.27 cm
+ 
+ 
+(b) The time to complete one revolution around the orbit (i.e., the 
+period) is 
+ 
+ 
+ 
+T = distance traveled
+constant speed = 2πr
+v
+= 2π 0.042 7 m
+(
+)
+1.50 × 107 m s = 1.79 × 10−8 s 
+ 
+ANS. FIG. P29.11
+
+--- PAGE 10 ---
+Chapter 29     315 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.14 
+Find the initial horizontal velocity component of an electron in the 
+beam: 
+ 
+ 
+1
+2 mvxi
+2 = q ΔV
+  
+ 
+ 
+vxi = v =
+2 q ΔV
+m
+=
+2(1.60 × 10−19C) 2 500 V
+(
+)
+9.11× 10−31 kg
+= 2.96 × 107 m/s
+ 
+ 
+Gravitational deflection: The electron’s horizontal component of 
+velocity does not change, so its time of flight to the screen is  
+ 
+ 
+Δt = Δx
+v =
+0.350 m
+2.96 × 107 m/s = 1.18 × 10−8 s
+  
+ 
+Its vertical deflection is downward:  
+ 
+ 
+y = 1
+2 g Δt
+(
+)
+2 = 1
+2 9.80 m/s2
+(
+) 1.18 × 10−8 s
+(
+)
+2 = 6.84 × 10−16 m
+ 
+ 
+which is unobservably small. 
+ 
+(a) 
+6.84 × 10−16 m 
+ 
+(b) 
+down 
+ 
+ 
+Magnetic deflection: Use the cross 
+product to find the initial direction of 
+the magnetic force on an electron:  
+ 
+ 
+velocity (north) × magnetic field 
+(down) = –west = east. 
+ 
+ 
+Because the direction of the magnetic 
+force direction is always perpendicular 
+to the velocity, the electron is deflected 
+so that it curves toward the east in a 
+circular path with radius r—see ANS. 
+FIG. 29.14(a):  
+ 
+ 
+ 
+r = mv
+q B = m
+q B
+2 q ΔV
+m
+= 1
+B
+2mΔV
+q
+=
+1
+20.0 × 10–6 T
+2 9.11× 10−31 kg
+(
+) 2 500 V
+(
+)
+1.60 × 10−19 C
+(
+) 
+8.44 m
+ 
+ 
+ 
+The path of the beam to the screen  
+ 
+ANS. FIG. P29.14(a)
+
+--- PAGE 11 ---
+316     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+subtends at the center of curvature an  
+angle θ, as shown in ANS. FIG. 29.14(b): 
+ 
+ 
+ 
+θ = sin−1 x
+r
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 0.350 m
+8.44 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.38°
+  
+ 
+ 
+The deflection to the east is  
+ 
+ 
+ Δy = r 1−cosθ
+(
+)
+= 8.44 m
+(
+) 1−cos2.38°
+(
+)
+= 0.007 26 m = 7.26 mm
+  
+ 
+(c) 
+7.26 mm 
+ 
+(d) 
+east 
+ 
+ 
+The speed of an electron in the beam remains constant, but its 
+velocity direction changes as it travels along the path, and the 
+force direction changes because it is always perpendicular to the 
+velocity; therefore an electron does not move as a projectile with 
+constant vector acceleration perpendicular to a constant 
+northward component of velocity.  
+ 
+(e) 
+The beam moves on an arc of a circle rather than on a parabola. 
+ 
+ 
+However, an electron’s northward velocity component stays 
+nearly constant, changing from vx = v to vx = v cos 2.38°. The 
+relative change is 
+ 
+ 
+ Δvx
+vx
+= vcos2.38° −v
+v
+= 1−cos2.38°
+(
+) = 0.000 863 0.000 9
+ 
+ 
+ 
+that is, 
+ 
+(f) 
+Its northward velocity component stays constant within 0.09%.
+It is a good approximation to think of it as moving on a parabola
+as it really moves on a circle.
+ 
+P29.15 
+An electric field changes the speed of each particle according to  
+(K + U)i = (K + U)f. Therefore, noting that the particles start from rest, 
+we can write 
+ 
+ 
+  
+qΔV = 1
+2 mv2 
+ 
+ 
+After they are fired, the particles have the magnetic field change their 
+direction as described by 
+
+F
+∑
+= ma: 
+ 
+ 
+ 
+ 
+qvB sin 90° = mv2
+r
+thus
+r = mv
+qB = m
+qB
+2qΔV
+m
+= 1
+B
+2mΔV
+q
+ 
+ 
+ANS. FIG. P29.14(b)
+
+--- PAGE 12 ---
+Chapter 29     317 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For the protons, rp = 1
+B
+2mpΔV
+e
+ 
+ 
+(a) 
+For the deuterons,  
+ 
+ 
+  
+rd = 1
+B
+2 2mp
+(
+)ΔV
+e
+=
+2rp
+ 
+ 
+(b) For the alpha particles,  
+ 
+  
+ 
+ 
+rα = 1
+B
+2 4mp
+(
+)ΔV
+2e
+=
+2rp
+ 
+P29.16 
+(a) 
+The magnetic force provides the centripetal force to keep the 
+particle moving on a circle:  
+ 
+ 
+ 
+F
+∑
+= ma     →     qvBsin90.0° = mv2
+R
+ 
+[1] 
+ 
+ 
+and the kinetic energy of the particle is  
+ 
+ 
+ 
+K = 1
+2 mv2 
+[2] 
+ 
+ 
+Both equations have the same term mv
+2 in common:  
+ 
+ 
+From [1], mv
+2 = qvBR, and from [2], mv
+2 = 2K. 
+ 
+ 
+Setting these equal to each other gives 
+ 
+ 
+ 
+mv2 = qvBR = 2K     →     v = 2K
+qBR 
+ 
+(b) From [1], we have m = qBR
+v
+. Using our result from (a), we get  
+ 
+ 
+ 
+m = qBR
+v
+= qBR qBR
+2K
+⎛
+⎝⎜
+⎞
+⎠⎟= q2B2R2
+2K
+ 
+P29.17 
+For each electron, q vBsin90.0° = mv2
+r
+ and v = eBr
+m . 
+ 
+The electrons have no internal structure to absorb energy, so the 
+collision must be perfectly elastic: 
+ 
+ 
+ 
+K = 1
+2 mev1i
+2 + 0 = 1
+2 mev1 f
+2 + 1
+2 mev2 f
+2
+
+--- PAGE 13 ---
+318     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+K = 1
+2 me
+e2B2R1
+2
+me
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 m e2B2R2
+2
+me
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= e2B2
+2me
+R1
+2 + R2
+2
+(
+)
+K = 1.60 × 10−19 C
+(
+)
+2 0.044 0 T
+(
+)
+2
+2 9.11× 10−31 kg
+(
+)
+                          ×
+0.010 0 m
+(
+)
+2 + 0.024 0 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 1.84 × 10−14 J = 115 keV
+ 
+P29.18 
+For each electron, q vBsin90.0° = mv2
+r
+ and v = eBr
+m . 
+ 
+The electrons have no internal structure to absorb energy, so the 
+collision must be perfectly elastic: 
+ 
+ 
+ 
+K = 1
+2 mev1i
+2 + 0 = 1
+2 mev1 f
+2 + 1
+2 mev2 f
+2
+K = 1
+2 me
+e2B2r1
+2
+me
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 me
+e2B2r2
+2
+me
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= e2B2
+2me
+r1
+2 + r2
+2
+(
+)
+ 
+P29.19 
+(a) 
+We begin with qvB = mv2
+R
+, or qRB = mv. 
+ 
+ 
+But, L = mvR = qR
+2B. 
+ 
+ 
+Therefore,    
+ 
+ 
+ 
+R =
+L
+qB =
+4.00 × 10−25 J ⋅s
+1.60 × 10−19 C
+(
+) 1.00 × 10−3 T
+(
+)
+= 0.050 0 m
+= 5.00 cm
+ 
+ 
+(b) Thus,    
+ 
+ 
+ 
+v = L
+mR =
+4.00 × 10−25 J⋅s
+9.11× 10−31 kg
+(
+) 0.050 0 m
+(
+)
+= 8.78 × 106 m s
+ 
+P29.20 
+(a) 
+We must use a right-handed coordinate system, so treat north as 
+the positive x direction, up as the positive y direction, and east as 
+the positive z direction. The ball’s initial velocity is north, and is 
+given by 
+ 
+ 
+ 
+vi = vxiˆi + vyiˆj = vˆi 
+ 
+ 
+and the magnetic field is west, 
+ 
+ 
+ 
+
+B = −Bˆk
+
+--- PAGE 14 ---
+Chapter 29     319 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The trajectory of the ball is that of an object moving under the 
+influence of gravity: projectile motion. The ball’s final velocity is  
+ 
+ 
+ 
+v f = vxfˆi + vyfˆj = vˆi + vyfˆj 
+ 
+ 
+where v = 20.0 m/s, because under gravity, the horizontal 
+component of velocity does not change.  
+ 
+ 
+We find the final y component of velocity of the ball after it falls a 
+distance h and just before it hits the ground:  
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+)
+ 
+ 
+ 
+Substituting and solving, 
+ 
+ 
+ 
+vyf
+2 = 0 + 2 −g
+(
+) −h
+(
+)   →   vyf = −2gh 
+ 
+ 
+The force on the ball just before it hits the ground is  
+ 
+ 
+ 
+
+FB = Qv ×
+
+B = Q vˆi + vyfˆj
+(
+)× −Bˆk
+(
+) = Q vˆi −
+2ghˆj
+(
+)× −Bˆk
+(
+)
+= −QBv ˆi × ˆk
+(
+)+QB 2gh ˆj× ˆk
+(
+) = −QBv −ˆj
+( )+QB 2gh ˆi( )
+= QB
+2ghˆi + vˆj
+⎡⎣
+⎤⎦
+= 5.00 × 10−6 C
+(
+) 0.010 0 T
+(
+)
+                   ×
+2 9.80  m/s2
+(
+) 20.0 m
+(
+)ˆi + 20.0 m/s
+(
+)ˆj
+⎡
+⎣
+⎤
+⎦
+=
+0.990 × 10−6ˆi + 1.00 × 10−6ˆj
+(
+) N
+ 
+ 
+(b) We find the time interval the ball takes to reach the ground under 
+the acceleration due to gravity:  
+ 
+ 
+ 
+Δy = h = 1
+2 gΔt2 →Δt =
+2h
+g =
+2 20.0 m
+(
+)
+9.80 m/s2 = 2.02 s 
+ 
+ 
+We can estimate an extreme upper bound in the change in the 
+ball’s horizontal velocity caused by the magnetic force by 
+assuming the average horizontal component of the force to be half 
+its final maximum horizontal value of 0.990 × 10
+–6 N. For such an 
+average horizontal component over the entire fall, the change in 
+the horizontal velocity would be less than  
+ 
+ 
+ 
+Δvx = axΔt = Fx
+m Δt = 0.5 0.990 × 10−6 N
+(
+)
+0.0300 kg
+2.02 s
+(
+)
+= 3.33 × 10−5 m/s
+
+--- PAGE 15 ---
+320     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Compare this to the initial value of 20.0 m/s:  
+ 
+ 
+ 
+20.0 m/s
+3.33 × 10−5 m/s ≈106 
+ 
+ 
+Yes. In the vertical direction, the gravitational force on the ball
+is 0.294 N, five orders of magnitude larger than the magnetic
+force. In the horizontal direction, the change in the horizontal
+component of velocity due to the magnetic force is six orders of
+magnitude smaller than the horizontal velocity component.
+ 
+P29.21 
+By conservation of energy for the proton-electric field system in the 
+process that set the proton moving, its kinetic energy is  
+ 
+ 
+ 
+E = 1
+2 mv2 = eΔV
+ 
+ 
+so its speed is 
+ 
+ 
+ 
+v =
+2eΔV
+m
+ 
+ 
+Now Newton’s second law for its circular motion in the magnetic field 
+gives 
+ 
+  
+ 
+F
+∑
+= ma which becomes  mv2
+R
+= evB sin90. 
+ 
+ 
+so 
+ 
+B = mv
+eR = m
+eR
+2eΔV
+m
+= 1
+R
+2mΔV
+e
+. 
+ 
+and  
+ 
+ 
+ 
+B =
+1
+5.80 × 1010 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 1.67 × 10−27 kg
+(
+) 10.0 × 106 V
+(
+)
+1.60 × 10−19 C
+= 7.88 × 10−12 T
+ 
+P29.22 
+(a) 
+The boundary between a region of strong magnetic field and a 
+region of zero field cannot be perfectly sharp, but we ignore the 
+thickness of the transition zone. In the field the electron moves on 
+an arc of a circle: 
+ 
+ 
+ 
+F
+∑
+= ma:     q vBsin90° = mv2
+r
+ 
+ 
+ 
+ 
+v
+r = ω = q B
+m =
+1.60 × 10−19 C
+(
+) 10−3 N ⋅s C⋅m
+(
+)
+9.11× 10−31 kg
+= 1.76 × 108 rad/s
+
+--- PAGE 16 ---
+Chapter 29     321 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The time for one half revolution is, from Δθ = ωΔt, 
+ 
+ 
+ 
+Δt = Δθ
+ω =
+π rad
+1.76 × 108 rad s = 1.79 × 10−8 s 
+ 
+(b) The maximum depth of penetration is the radius of the path. The 
+magnetic force cannot alter the kinetic energy of the electron.  
+ 
+ 
+Then, 
+ 
+ 
+ 
+v = ω r = 1.76 × 108 s−1
+(
+) 0.020 0 m
+(
+) = 3.51× 106 m/s 
+ 
+ 
+and 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 9.11× 10−31 kg
+(
+) 3.51× 106 m/s
+(
+)
+2
+= 5.62 × 10−18 J =
+5.62 × 10−18 J
+1.60 × 10−19 J/eV = 35.1 eV
+ 
+P29.23 
+To find the ratio of the masses, we first use conservation of energy to 
+find the velocity of each particle after it has been accelerated by the 
+potential drop: 
+ 
+ 
+1
+2 mv2 = q ΔV
+(
+)    so    v =
+2q ΔV
+(
+)
+m
+ 
+ 
+The radius of the particles’ orbits is given by 
+ 
+ 
+r = mv
+qB = m 2q ΔV
+(
+) m
+qB
+ 
+ 
+Squaring gives, for the first particle, 
+ 
+ 
+r2 = m
+q ⋅2 ΔV
+(
+)
+B2
+  
+ 
+and, for the second particle, 
+ 
+ 
+′r( )
+2 =
+′
+m
+′q ⋅2 ΔV
+(
+)
+B2
+ 
+ 
+Solving for the masses gives 
+ 
+ 
+m = qB2r2
+2 ΔV
+(
+)
+  and  
+′
+m
+(
+) =
+′q( )B2
+′r( )
+2
+2 ΔV
+(
+)
+   
+ 
+so   
+′
+m
+m =
+′q
+q ⋅
+′r( )
+2
+r2
+=
+2e
+e
+⎛
+⎝⎜
+⎞
+⎠⎟
+2R
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 8
+
+--- PAGE 17 ---
+322     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 29.3 
+Applications Involving Charged Particles  
+Moving in a Magnetic Field 
+P29.24 
+(a) 
+The name “cyclotron frequency” refers to the angular frequency 
+or angular speed  
+ 
+ 
+ 
+ 
+ω = qB
+m
+ 
+ 
+ 
+For protons, 
+ 
+ 
+ 
+  
+ω = 1.60 × 10–19 C
+(
+) 0.450 T
+(
+)
+1.67 × 10–27 kg 
+= 4.31× 107 rad/s
+ 
+ 
+ 
+(b) The path radius is  R = mv
+Bq . 
+ 
+  
+Just before the protons escape, their speed is  
+ 
+ 
+ 
+v = BqR
+m = 0.450 T
+(
+) 1.60 × 10–19 C
+(
+) 1.20 m
+(
+)
+1.67 × 10–27 kg 
+= 5.17 × 107 m/s
+ 
+P29.25 
+In the velocity selector, 
+ 
+ 
+ 
+ v = E
+B = 2 500 V m
+0.035 0 T = 7.14 × 104 m/s 
+ 
+In the deflection chamber,  
+ 
+ 
+ 
+r = mv
+qB =
+2.18 × 10−26 kg
+(
+) 7.14 × 104 m/s
+(
+)
+1.60 × 10−19 C
+(
+) 0.035 0 T
+(
+)
+= 0.278 m 
+P29.26 
+We first determine the velocity of the particles from 
+ 
+ 
+ 
+K = 1
+2 mv2 = q ΔV
+(
+)     
+ 
+so    
+v =
+2q ΔV
+(
+)
+m
+ 
+ 
+Then, from 
+ 
+ 
+ 
+
+FB = qv ×
+
+B = mv2
+r
+       
+ 
+we solve for the radius: 
+ 
+ 
+ 
+r = mv
+qB = m
+q
+2q ΔV
+(
+) m
+B
+= 1
+B
+2m ΔV
+(
+)
+q
+
+--- PAGE 18 ---
+Chapter 29     323 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Substituting numerical values for uranium-238, 
+ 
+ 
+ 
+r238 =
+1
+1.20 T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 238 1.66 × 10−27 kg
+(
+)
+⎡⎣
+⎤⎦2 000 V
+(
+)
+1.60 × 10−19 C
+= 8.28 × 10−2 m = 8.28 cm
+ 
+ 
+(b) For uranium-235 ions, 
+ 
+ 
+ 
+r235 =
+1
+1.20 T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 235 1.66 × 10−27 kg
+(
+)
+⎡⎣
+⎤⎦2 000 V
+(
+)
+1.60 × 10−19 C
+= 8.23 × 10−2 m = 8.23 cm
+ 
+ 
+(c) 
+From r = 1
+B
+2m ΔV
+(
+)
+q
+, we see for two different masses mA and
+mB of the same charge q, the ratio of the path radii is rB
+rA
+=
+mB
+mA
+.
+ 
+ 
+(d) 
+The ratio of the path radii is independent of ΔV. 
+ 
+(e) 
+The ratio of the path radii is independent of B. 
+P29.27 
+Note that the “cyclotron frequency” is an angular speed. The motion of 
+the proton is described by 
+ 
+ 
+F
+∑
+= ma: 
+ 
+ 
+ 
+q vBsin90° = mv2
+r
+q B = m v
+r = mω
+ 
+ 
+(a) 
+ω = q B
+m =
+1.60 × 10−19 C
+(
+) 0.800 N ⋅s/C⋅m
+(
+)
+1.67 × 10−27 kg
+(
+)
+kg ⋅m
+N ⋅s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.66 × 107 rad/s
+ 
+ 
+(b) 
+v = ω r = 7.66 × 107 rad/s
+(
+) 0.350 m
+(
+)
+1
+1 rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.68 × 107 m/s 
+ 
+(c) 
+K = 1
+2 mv2 = 1
+2 1.67 × 10−27 kg
+(
+) 2.68 × 107 m/s
+(
+)
+2
+1 eV
+1.6 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.76 × 106 eV
+
+--- PAGE 19 ---
+324     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The kinetic energy of the proton changes by ∆K = e∆V = e(600 V) = 
+600 eV twice during each revolution, so the number of 
+revolutions is 
+ 
+ 
+ 
+3.76 × 106 eV
+2 600 eV
+(
+)
+= 3.13 × 103 revolutions 
+ 
+(e) 
+From θ = ω Δt,   
+ 
+ 
+ 
+Δt = θ
+ω =
+3.13 × 103 rev
+7.66 × 107 rad/s
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.57 × 10−4 s 
+P29.28 
+(a) 
+The path radius is r = mv/qB, which we can write in terms of the 
+(kinetic) energy E of the particle: 
+ 
+ 
+ 
+E = K = 1
+2 mv2
+→
+v =
+2E
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+ 
+so 
+r = mv
+qB = m
+qB
+2E
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= m
+qB
+2
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+E1 2 = m1 221 2
+qB
+E1 2 
+ 
+ 
+Differentiating, we get, 
+ 
+ 
+ 
+dr
+dt = m1 221 2
+qB
+d E1 2
+(
+)
+dt
+= m1 221 2
+qB
+1
+2 E−1 2
+(
+) dE
+dt
+⎡
+⎣⎢
+⎤
+⎦⎥
+= m1 221 2
+qB
+1
+2
+1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+dE
+dt
+= m1 221 2
+qB
+1
+2
+21 2
+m1 2v
+⎡
+⎣⎢
+⎤
+⎦⎥
+dE
+dt =
+1
+qBv
+dE
+dt
+ 
+ 
+ 
+From the relation r = mv/qB, we have v = qBr/m, which we 
+substitute: 
+ 
+ 
+ 
+dr
+dt =
+1
+qBv
+dE
+dt = 1
+qB
+m
+qBr
+dE
+dt =
+m
+q2B2
+1
+r
+dE
+dt 
+ 
+ 
+From the relation for the particle’s average rate of increase in 
+energy (given in the problem), we have 
+ 
+ 
+ 
+dr
+dt =
+m
+q2B2
+1
+r
+q2BΔV
+πm
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+r
+ΔV
+πB
+ 
+ 
+(b) 
+The dashed red line in Figure 29.16a spirals around many times,
+with its turns relatively far apart on the inside and closer together
+on the outside. This demonstrates the 1/r behavior of the rate of
+change in radius exhibited by the result in part (a).
+
+--- PAGE 20 ---
+Chapter 29     325 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+dr
+dt = 1
+r
+ΔV
+πB =
+1
+0.350 m
+600 V
+ π 0.800 T
+(
+)
+= 682 m/s 
+ 
+(d) We use the approximation 
+ 
+ 
+ 
+Δr dr
+dt Δt = dr
+dt T =
+1
+r
+ΔV
+πB
+⎛
+⎝⎜
+⎞
+⎠⎟
+2πm
+qB
+⎛
+⎝⎜
+⎞
+⎠⎟= 2ΔVm
+rqB2
+=
+2 600 V
+(
+) 1.67 × 10−27 kg
+(
+)
+0.350 m
+(
+) 1.60 × 10−19 C
+(
+) 0.800 T
+(
+)
+2
+= 5.59 × 10−5 m = 55.9 µm
+ 
+P29.29 
+Fro the electron to travel undeflected, we require FB = Fe, so     
+ 
+ 
+ 
+qvB = qE 
+ 
+where v =
+2K
+m and K is kinetic energy of the electron. Then, 
+ 
+ 
+ 
+E = vB =
+2K
+m B =
+2 750 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+9.11× 10−31 kg
+0.015 0 T
+(
+)
+= 244 kV/m
+ 
+P29.30 
+(a) 
+Yes: The constituent of the beam is present in all kinds of atoms. 
+ 
+(b) 
+Yes: Everything in the beam has a single charge-to-mass ratio. 
+ 
+(c) 
+In a charged macroscopic object most of the atoms are 
+uncharged. A molecule never has all of its atoms ionized. 
+Any atom other than hydrogen contains neutrons and so 
+has more mass per charge if it is ionized than hydrogen 
+does. The greatest charge-to-mass ratio Thomson could 
+expect was then for ionized hydrogen, 
+          1.6 × 10−19 C/1.67 × 10–27 kg 
+smaller than the value e/m he measured, 
+          1.6 × 10–19 C/9.11× 10–31 kg 
+by 1 836 times. The particles in his beam could not be 
+whole atoms, but rather must be much smaller in mass.
+ 
+ 
+(d) With kinetic energy 100 eV, an electron has speed given by  
+ 
+ 
+ 
+1
+2 mv2 = 100 eV
+
+--- PAGE 21 ---
+326     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+from which we obtain 
+ 
+ 
+ 
+v =
+2 100 eV
+(
+) 1.6 × 10−19 J/eV
+(
+) 
+9.11× 10−31 kg
+= 5.93 × 106 m/s
+ 
+ 
+ 
+The time interval to travel 40.0 cm is  
+ 
+ 
+ 
+Δt = Δx
+v =
+0.400 m
+5.93 × 106 m/s = 6.75 × 10−8 s
+  
+ 
+ 
+If it is fired horizontally it will fall vertically by  
+ 
+ 
+ 
+y = 1
+2 gt2 = 1
+2 9.80 m/s2
+(
+) 6.75 × 10−8 s
+(
+)
+2 = 2.24 × 10−14 m
+  
+ 
+ 
+an immeasurably small amount. An electron with higher energy 
+falls by a smaller amount.  
+ 
+ 
+No. The particles move with speed on the order of ten million
+meters per second, so they fall by an immeasurably small
+amount over a distance of less than 1 m.
+ 
+P29.31 
+From the large triangle in ANS. FIG. P29.31(a):  
+ 
+ 
+ 
+θ = tan−1 25.0
+10.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 68.2° 
+ 
+The electron beam, at the point where it  
+enters the magnetic field region, travels to  
+the right, but the beam, at the point it where  
+emerges from the magnetic field region, has  
+been deflected from its original direction by  
+angle θ. Because the radius R is always  
+perpendicular to the path, the radii drawn  
+to these points form the same angle θ with  
+each other. The length of the hypotenuse of  
+the small right triangle appearing in ANS.  
+FIG. P29.31(a) – shown in close-up in  
+ANS. FIG. P29.31(b) – equals the radius R,  
+and the base of the triangle equals the width  
+of the magnetic field region, 1.00 cm. Therefore,  
+ 
+ 
+ 
+R = 1.00 cm
+sin68.2° = 1.08 cm 
+ 
+Ignoring relativistic correction, the kinetic energy of the electrons is 
+ 
+ 
+ 
+1
+2 mv2 = qΔV     
+ANS. FIG. P29.31(a) 
+ANS. FIG. P29.31(b)
+
+--- PAGE 22 ---
+Chapter 29     327 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+ 
+v =
+2qΔV
+m
+=
+2 1.60 × 10−19 C
+(
+) 50.0 × 103 V
+(
+)ΔV
+9.11× 10−31 kg
+= 1.33 × 108 m/s
+ 
+ 
+From Newton’s second law, mv2
+R
+= qvB , we find the magnetic field: 
+ 
+ 
+ 
+B = mv
+q R =
+9.11× 10−31 kg
+(
+) 1.33 × 108 m/s
+(
+)
+1.60 × 10−19 C
+(
+) 1.08 × 10−2 m
+(
+)
+= 70.0 mT 
+ 
+ 
+ 
+Section 29.4 
+Magnetic Force on a Current-Carrying Conductor 
+P29.32 
+(a) 
+The magnitude of the magnetic force is given by 
+ 
+ 
+ 
+F = ILBsinθ = 3.00 A
+(
+) 0.140 m
+(
+) 0.280 T
+(
+)sin90° = 0.118 N 
+ 
+(b) 
+Neither the direction of the magnetic field nor that of the current 
+is given. Both must be known in order to determine the direction 
+of the magnetic force. In this problem, you can only say that the 
+force is perpendicular to both the wire and the field. 
+P29.33 
+(a) 
+From F = BILsinθ , the magnetic field is 
+ 
+ 
+ 
+B =
+F L
+I sinθ =
+0.120 N/m
+15.0 A
+(
+)sin90° = 8.00 × 10−3 T 
+ 
+(b) 
+The magnetic field must be in the +z direction to produce a
+force in the –y direction when the current is in the +x direction.
+ 
+P29.34 
+(a) 
+FB = ILBsinθ = 5.00 A
+(
+) 2.80 m
+(
+) 0.390 T
+(
+)sin60.0° = 4.73 N 
+ 
+(b) 
+FB = 5.00 A
+(
+) 2.80 m
+(
+) 0.390 T
+(
+)sin90.0° = 5.46 N 
+ 
+(c) 
+FB = 5.00 A
+(
+) 2.80 m
+(
+) 0.390 T
+(
+)sin120° = 4.73 N 
+P22.35 
+The vector magnetic force on the wire is 
+ 
+ 
+ 
+
+FB = I
+
+×
+
+B = 2.40 A
+(
+) 0.750 m
+(
+)ˆi × 1.60 T
+(
+) ˆk =
+−2.88ˆj
+(
+) N
+
+--- PAGE 23 ---
+328     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P22.36 
+At all points on the wire, the magnetic force is upward and the 
+gravitational force is downward. For the entire length L of the wire, 
+apply the particle in equilibrium model, assuming that the wire is 
+levitated as claimed, and then solve for the required magnetic field B: 
+ 
+ 
+ 
+F = FB − Fg
+∑
+ = 0     →    mg = ILB     →    B = mg
+IL
+ 
+ 
+Express the mass of the wire in terms of the density of copper and its 
+volume and the current in terms of the power delivered to the wire of 
+resistance R: 
+ 
+ 
+ 
+B =  ρCuV
+(
+)g
+P R
+(
+)L
+ =  ρCuVg
+L
+R
+P 
+ 
+Substitute for the volume of the wire and its resistance in terms of its 
+length L and area A: 
+ 
+ 
+ 
+B =  ρCu AL
+(
+)g
+L
+ρL A
+P
+ = ρCug
+ρLA
+P
+ 
+ 
+where ρ is the resistivity of copper. Express the length L of the wire in 
+terms of the radius of the Earth and the area A of the wire in terms of 
+its radius: 
+ 
+ 
+ 
+B = ρCug
+ρ 2πRE
+(
+) πr2
+(
+)
+P
+ = πρCugr
+2ρRE
+P
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+B = π 8.92 × 103 kg/m3
+(
+) 9.80 m/s2
+(
+) 1.00 × 10−3 m
+(
+)
+                                 ×
+2 1.7 × 10−8 Ω⋅m
+(
+) 6.37 × 106 m
+(
+)
+100 × 106 W
+= 1.28 × 10−2 T
+ 
+ 
+This field magnitude is far larger than that of the Earth, which is about 
+30 µT at the equator. Therefore, this wire could not be levitated in the 
+Earth’s magnetic field as described. 
+P29.37 
+Refer to ANS. FIG. P29.37. The rod feels 
+force  
+ 
+ 
+
+FB = I
+
+L ×
+
+B
+(
+) = Id ˆk( ) × B −ˆj
+( ) = IdB ˆi( ) 
+ 
+From the work-energy theorem, we have 
+ 
+ 
+Ktrans + Krot
+(
+)i + ΔE = Ktrans + Krot
+(
+) f 
+ 
+ANS. FIG. P29.37
+
+--- PAGE 24 ---
+Chapter 29     329 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+0 + 0 + FBLcosθ = 1
+2 mv2 + 1
+2 Iω 2 
+ 
+or 
+ 
+IdBLcos0° = 1
+2 mv2 + 1
+2
+1
+2 mR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+  
+ 
+and   
+IdBL = 3
+4 mv2 
+ 
+ 
+ 
+v =
+4IdBL
+3m
+=
+4 48.0 A
+(
+) 0.120 m
+(
+) 0.240 T
+(
+) 0.450 m
+(
+)
+3 0.720 kg
+(
+)
+= 1.07 m/s
+ 
+P29.38 
+Refer to ANS. FIG. P29.37 above. The rod feels force  
+ 
+ 
+ 
+
+FB = I
+
+d ×
+
+B
+(
+) = Id ˆk( ) × B −ˆj
+( ) = IdB ˆi( ) 
+ 
+From the work-energy theorem, we have 
+ 
+ 
+ 
+Ktrans + Krot
+(
+)i + ΔE = Ktrans + Krot
+(
+) f
+0 + 0 + FBLcosθ = 1
+2 mv2 + 1
+2 Iω 2
+IBL
+(
+)dcos0° = 1
+2 mv2 + 1
+2
+1
+2 mR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Solving for the velocity gives 
+ 
+ 
+ 
+v =
+4IdBL
+3m
+ 
+P29.39 
+(a) 
+The magnetic force must be upward to lift 
+the wire. For current in the south direction, 
+the magnetic field must be east to 
+produce an upward force, as shown by the 
+right-hand rule in the figure.  
+ 
+(b) 
+FB = ILBsinθ    with    FB = Fg = mg 
+ 
+ 
+mg = ILBsinθ    so    m
+L g = IBsinθ   →   B = m
+L
+g
+I sinθ 
+ 
+ 
+B = m
+L
+g
+I sinθ =
+0.500 × 10−3 kg
+1.00 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+9.80 m/s2
+2.00 A
+(
+)sin90.0°
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.245 T
+ 
+ANS. FIG. P29.39
+
+--- PAGE 25 ---
+330     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.40 
+(a) 
+The magnetic force and the gravitational force both act 
+on the wire.
+ 
+ 
+(b) 
+When the magnetic force is upward and balances the downward
+gravitational force, the net force on the wire is zero, and the wire
+can move upward at constant velocity.
+ 
+ 
+(c) 
+The minimum magnetic filed would be perpendicular to the 
+current in the wire so that the magnetic force is a maximum. For 
+the magnetic force to be directed upward when the current is 
+toward the left, B
+
+ must be directed out of the page. Then, 
+ 
+ 
+ 
+FB = ILBmin sin90° = mg  
+ 
+ 
+from which we obtain 
+ 
+ 
+ 
+Bmin = mg
+I L = 0.015 0 kg
+(
+) 9.80 m/s2
+(
+)
+5.00 A
+(
+) 0.150 m
+(
+)
+= 0.196 T, out of the page
+ 
+ 
+(d) If the field exceeds 0.200 T, the upward magnetic force exceeds 
+the downward gravitational force, so the wire accelerates 
+upward. 
+P29.41 
+(a) 
+The magnitude of the force is 
+ 
+ 
+ 
+F = ILBsinθ
+= 2.20 × 103 A
+(
+) 58.0 m
+(
+) 5.00 × 10−5 N
+(
+)sin65.0°
+= 5.78 N
+ 
+ 
+(b) By the right-hand rule, the direction of the magnetic force is 
+into the page . 
+P29.42 
+(a) 
+Refer to ANS. FIG. P29.42. The magnetic field is perpendicular to 
+all line elements ds on the ring, so the magnetic force d
+
+F = Ids ×
+
+B 
+on each element has magnitude I ds ×
+
+B = IdsB and is radially 
+inward and upward, at angle θ above the radial line. The radially 
+inward components IdsB cos θ tend to squeeze the ring but all 
+cancel out because forces on opposite sides of the ring cancel in 
+pairs. The upward components IdsB sin θ all add to I 2πr
+(
+)Bsinθ .  
+ 
+(a) 
+magnitude: 2πrIB sin θ 
+ 
+(b) direction: up, away from magnet
+
+--- PAGE 26 ---
+Chapter 29     331 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P29.42 
+P29.43 
+Take the x axis east, the y axis up, and the z axis  
+south. The field is 
+ 
+ 
+ 
+
+B = 52.0 µT
+(
+)cos60.0° −ˆk
+(
+)
+            + 52.0 µT
+(
+)sin60.0° −ˆj
+( )
+ 
+ 
+The current then has equivalent length:  
+ 
+ 
+ 
+′
+
+L = 1.40 m −ˆk
+(
+) + 0.850 m ˆj( ) 
+ 
+The magnetic force is then 
+ 
+ 
+
+FB = I ′
+
+L ×
+
+B = 0.035 0 A
+(
+) 0.850ˆj−1.40 ˆk
+(
+) m
+                                                × −45.0ˆj−26.0 ˆk
+(
+)10−6 T
+
+FB = 3.50 × 10−8 N −22.1ˆi −63.0ˆi
+(
+) = 2.98 × 10−6 N −ˆi
+( )
+= 2.98 µN west
+ 
+P29.44 
+For each segment, I = 5.00 A and 
+
+B = 0.020 0ˆj T. 
+ 
+ 
+Segment 
+
+ 
+
+FB = I
+
+×
+
+B
+(
+) 
+(a) 
+ab 
+−0.400 m ˆj 
+0 
+(b) 
+bc 
+0.400 m ˆk 
+−40.0ˆi mN 
+(c) 
+cd 
+−0.400 m ˆi + 0.400 m ˆj 
+−40.0 ˆk mN 
+(d) 
+da 
+0.400 m ˆi −0.400 m ˆk 
+40.0ˆi + 40.0 ˆk
+(
+) mN 
+ 
+ANS. FIG. P29.43
+
+--- PAGE 27 ---
+332     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+The forces on the four segments must add to zero, so the force
+on the fourth segment must be the negative of the resultant of
+the forces on the other three.
+ 
+ 
+ANS. FIG. P29.44 
+ 
+ 
+ 
+Section 29.5 
+Torque on a Current Loop in a  
+Uniform Magnetic Field 
+*P29.45 
+(a) 
+From Equation 29.17, we have  
+ 
+ 
+ 
+τ = µ ×
+
+B 
+ 
+ 
+so 
+τ = 0.10 A⋅m2
+(
+) 0.080 T
+(
+)sin30° = 4.0 mN⋅m . 
+ 
+(b) 
+The potential energy of a system of a magnetic moment in a 
+magnetic field is given by Equation 29.18: 
+ 
+ 
+ 
+U = −µ ⋅
+
+B = µBcosφ = 0.10 A ⋅m2
+(
+) 0.080 T
+(
+)cos30°
+= −6.9 mJ
+ 
+*P29.46 
+The torque on a current loop in a magnetic field is τ = BIAN sinθ , and 
+maximum torque occurs when the field is directed parallel to the plane 
+of the loop (θ = 90°). Thus, 
+ 
+ 
+ 
+τ max = 0.500 T
+(
+) 25.0 × 10−3 A
+(
+)
+                  × π 5.00 × 10−2 m
+(
+)
+2
+⎡⎣
+⎤⎦50.0
+(
+)sin90.0°
+= 4.91× 10−3 N⋅m
+ 
+P29.47 
+(a) 
+The field exerts torque on the needle tending to align it with the 
+field, so the minimum energy orientation of the needle is: 
+ 
+ 
+pointing north at 48.0° below the horizontal 
+ 
+ 
+where its energy is   
+ 
+ 
+ 
+Umin = −µBcos0° = −9.70 × 10−3 A ⋅m2
+(
+) 55.0 × 10−6 T
+(
+)
+= −5.34 × 10−7 J
+
+--- PAGE 28 ---
+Chapter 29     333 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) It has maximum energy when pointing in the opposite direction, 
+south at 48.0° above the horizontal 
+ 
+ 
+where its energy is  
+ 
+ 
+ 
+Umax = −µBcos180° = + 9.70 × 10−3 A ⋅m2
+(
+) 55.0 × 10−6 T
+(
+)
+= +5.34 × 10−7 J
+  
+ 
+(c) 
+From Umin + W = Umax , we have  
+ 
+ 
+ 
+W = Umax −Umin = +5.34 × 10−7 J −−5.34 × 10−7 J
+(
+)
+= 1.07 µJ
+ 
+P29.48 
+(a) 
+From the circumference of the loop, 2
+ π r = 2.00 m, we find its 
+radius to be r = 0.318 m. The magnitude of the magnetic moment 
+is then 
+ 
+ 
+ 
+µ = IA = 17.0 × 10−3 A
+(
+) π 0.318
+(
+)
+2 m2
+⎡⎣
+⎤⎦= 5.41 mA ⋅m2 
+ 
+(b) The torque on the loop is given by Equation 29.17, τ = µ ×
+
+B, and 
+its magnitude is 
+ 
+ 
+ 
+τ = 5.41× 10−3 A ⋅m2
+(
+) 0.800 T
+(
+) = 4.33 mN ⋅m 
+*P29.49 
+The area of the elliptical loop is given by A = πab, where a = 0.200 m 
+and b = 0.150 m. Since the field is parallel to the plane of the loop,  
+θ = 90° and the magnitude of the torque is 
+ 
+ 
+τ = NBIAsinθ
+= 8 2.00 × 10−4 T
+(
+) 6.00 A
+(
+) π 0.200 m
+(
+) 0.150 m
+(
+)
+[
+]sin90.0°
+= 9.05 × 10−4 N⋅m
+  
+ 
+The torque is directed to make the left-hand side of the loop move 
+toward you and the right-hand side move away. 
+P29.50 
+(a) 
+τ = µ ×
+
+B = NIABsinθ 
+ 
+ 
+τ max = 80 10.0 × 10−3 A
+(
+) 0.025 0 m
+(
+) 0.040 0 m
+(
+) 0.800 T
+(
+)sin90.0°
+= 6.40 × 10−4 N ⋅m
+ 
+ 
+(b) 
+Pmax = τ maxω = 6.40 × 10−4 N ⋅m
+(
+) 3 600 rev/min
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.241 W
+
+--- PAGE 29 ---
+334     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+In one half revolution the work is 
+ 
+ 
+ 
+W = Umax −Umin = −µBcos180° −−µBcos0°
+(
+) = 2µB
+= 2NIAB = 2 6.40 × 10−4 N ⋅m
+(
+) = 1.28 × 10−3 J
+ 
+ 
+ 
+In one full revolution, W = 2 1.28 × 10−3 J
+(
+) = 2.56 × 10−3 J . 
+ 
+(d) The time for one revolution is Δt =
+60 s
+3600 rev = 1
+60 s. 
+ 
+ 
+ 
+Pavg = W
+Δt = 2.56 × 10−3 J
+1 60
+(
+) s
+= 0.154 W 
+ 
+ 
+The peak power in (b) is greater by the factor π
+2
+. 
+P29.51 
+(a) 
+τ = NBAI sinφ 
+ 
+ 
+τ = 100 0.800 T
+(
+) 0.400 × 0.300 m2
+(
+) × 1.20 A
+(
+)sin60°
+τ = 9.98 N ⋅m
+ 
+ 
+(b) Note that φ is the angle between the magnetic moment and the 
+
+B 
+field. The loop will rotate so as to align the magnetic moment 
+with the 
+
+B field, clockwise as seen looking down from a position 
+on the positive y axis. 
+ 
+ANS. FIG. P29.51 
+P29.52 
+(a) 
+The current in segment ab is in the +y  
+direction. Thus, by the right-hand rule, the  
+magnetic force on it is in the +x direction . 
+ 
+(b) Imagine the force on segment ab being  
+concentrated at its center. Then, with a  
+pivot at point a (a point on the x axis), this 
+force would tend to rotate segment ab in a clockwise direction 
+about the z axis, so the direction of this 
+torque is in the −z direction . 
+ANS. FIG. P29.52
+
+--- PAGE 30 ---
+Chapter 29     335 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The current in segment cd is in the –y direction, and the right-
+hand rule gives the direction of the magnetic force as the 
+−x direction . 
+ 
+(d) With a pivot at point d (a point on the x axis), the force on 
+segment cd (to the left, in –x direction) would tend to rotate it 
+counterclockwise about the z axis, and the direction of this 
+torque is in the + z direction . 
+ 
+(e) 
+No. 
+ 
+(f) 
+Both the forces and the torques are equal in magnitude and
+opposite in direction, so they sum to zero and cannot affect
+the motion of the loop.
+ 
+ 
+(g) The magnetic force is perpendicular to both the direction of the 
+current in bc (the +x direction) and the magnetic field. As given 
+by the right-hand rule, this places it 
+in the yz plane at 130° counterclockwise from the +y axis. 
+ 
+(h) The force acting on segment bc tends to rotate it counterclockwise 
+about the x axis, so the torque is in the +x direction . 
+ 
+(i) 
+Zero. There is no torque about the x axis because the lever arm 
+of the force on segment ad is zero.   
+ 
+(j) 
+From the answers to (b), (d), (f), and (h), the loop tends to rotate 
+counterclockwise about the x axis.  
+ 
+(k) 
+µ = IAN = 0.900 A
+(
+) 0.500 m
+(
+) 0.300 m
+(
+)
+[
+] 1( ) = 0.135 A ⋅m2 
+ 
+(l) 
+The magnetic moment vector is perpendicular to the plane of the 
+loop (the xy plane), and is therefore parallel to the z axis. Because 
+the current flows clockwise around the loop, the magnetic 
+moment vector is directed downward, in the negative z direction. 
+This means that the angle between it and the direction of the 
+magnetic field is θ = 90.0° + 40.0° = 130° . 
+ 
+(m) τ = µBsinθ = 0.135 A ⋅m2
+(
+) 1.50 T
+(
+)sin 130°
+(
+) = 0.155 N ⋅m 
+P29.53 
+(a) 
+From Equation 29.17, τ = µ ×
+
+B , so the maximum magnitude of 
+the torque on the loop is    
+ 
+ 
+ 
+τ = µ ×
+
+B = µBsinθ = NIABsinθ
+
+--- PAGE 31 ---
+336     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+τ max = NIABsin90.0°
+= 1 5.00 A
+(
+) π 0.050 0 m
+(
+)
+2
+⎡⎣
+⎤⎦3.00 × 10−3 T
+(
+)
+= 118 µN⋅m
+ 
+ 
+(b) The potential energy is given by  
+ 
+ 
+ 
+U = −µ ⋅
+
+B  
+ 
+ 
+so  
+−µB ≤U ≤+µB 
+ 
+ 
+Now, since  
+ 
+ 
+ 
+µB = NIA
+(
+)B
+= 1 5.00 A
+(
+) π 0.050 0 m
+(
+)
+2
+⎡⎣
+⎤⎦3.00 × 10−3 T
+(
+)
+= 118 µJ
+ 
+ 
+ 
+the range of the potential energy is: −118 µJ ≤U ≤+118 µJ . 
+ 
+ 
+ 
+Section 29.6 
+The Hall Effect 
+P29.54 
+(a) 
+ΔVH = IB
+nqt   so   nqt
+I
+=
+B
+ΔVH
+=
+0.080 0 T
+0.700 × 10−6 V = 1.14 × 105 T V 
+ 
+ 
+Then, the unknown field is    
+ 
+ 
+ 
+B =
+nqt
+I
+⎛
+⎝⎜
+⎞
+⎠⎟ΔVH
+(
+)
+= 1.14 × 105 T V
+(
+) 0.330 × 10−6 V
+(
+) = 0.037 7 T = 37.7 mT
+ 
+ 
+(b) 
+nqt
+I
+= 1.14 × 105 T V    so     
+ 
+ 
+ 
+n = 1.14 × 105 T V
+(
+) I
+qt
+= 1.14 × 105 T V
+(
+)
+0.120 A
+1.60 × 10−19 C
+(
+) 2.00 × 10−3 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 4.29 × 1025 m−3
+
+--- PAGE 32 ---
+Chapter 29     337 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.55 
+The magnetic field can be found from the Hall effect voltage, Equation 
+29.22: 
+ 
+ 
+ΔVH = IB
+nqt
+ 
+ 
+Solving for the magnetic field gives 
+ 
+B = nqt ΔVH
+(
+)
+I
+= 8.46 × 1028 m−3
+(
+) 1.60 × 10−19 C
+(
+) 0.500 × 10−2 m
+(
+) 5.10 × 10−12 V
+(
+)
+8.00 A
+B = 4.31× 10−5 T = 43.1 µT
+ 
+ 
+ 
+ 
+Additional Problems 
+P29.56 
+From 
+F
+∑
+= ma , we have 
+ 
+ 
+ 
+qvBsin90.0° = mv2
+r
+ 
+ 
+therefore, the angular frequency for each ion is  
+ 
+ 
+ 
+v
+r = ω = qB
+m = 2π f  
+ 
+and 
+ 
+ 
+ 
+Δω = ω12 −ω14 = qB
+1
+m12
+−1
+m14
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1.60 × 10−19 C
+(
+) 2.40 T
+(
+)
+1.66 × 10−27 kg u
+(
+)
+1
+12.0 u −
+1
+14.0 u
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δω = 2.75 × 106 s−1 = 2.75 Mrad/s
+ 
+P29.57 
+(a) 
+The current carried by the electron is 
+I = ev
+2π r , and the magnetic moment is 
+given by      
+ 
+ 
+ 
+µ = IA =
+ev
+2π r
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+= 9.27 × 10−24 A⋅m2
+ 
+ 
+ANS. FIG. P29.57
+
+--- PAGE 33 ---
+338     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The Bohr model predicts the correct magnetic moment. 
+However, the “planetary model” is seriously deficient in other 
+regards. 
+ 
+(b) 
+Because the electron is (–), its [conventional] current is 
+clockwise, as seen from above, and µ points downward . 
+P29.58 
+(a) 
+Define vector 
+
+h to have the downward direction of the current, 
+and vector 
+
+L to be along the pipe into the page as shown. The 
+electric current experiences a magnetic force : 
+ 
+ 
+ 
+I
+
+h ×
+
+B
+(
+) in the direction of 
+
+L. 
+ 
+ANS. FIG. P29.58 
+ 
+(b) The sodium, consisting of ions and electrons, flows along the pipe 
+transporting no net charge. But inside the section of length L, 
+electrons drift upward to constitute downward electric current  
+J × (area) = J Lw. 
+ 
+ 
+The current then feels a magnetic force I
+
+h ×
+
+B = JLwhBsin90°. 
+ 
+ 
+This force along the pipe axis will make the fluid move, exerting 
+pressure 
+ 
+ 
+ 
+F
+area = JLwhB
+hw
+= JLB 
+ 
+(c) 
+Charge moves within the fluid inside the length L, but 
+charge does not accumulate: the fluid is not charged 
+after it leaves the pump.
+ 
+ 
+(d) 
+It is not current-carrying, and 
+ 
+(e) 
+it is not magnetized.
+
+--- PAGE 34 ---
+Chapter 29     339 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.59 
+(a) 
+The net force is the Lorentz force given by 
+ 
+ 
+ 
+
+F = q
+
+E + qv ×
+
+B = q
+
+E + v ×
+
+B
+(
+)
+
+F = 3.20 × 10−19
+(
+)
+         
+4ˆi −1ˆj −2 ˆk
+(
+) + 2ˆi + 3ˆj −1ˆk
+(
+) × 2ˆi + 4ˆj + 1ˆk
+(
+)
+⎡
+⎣
+⎤
+⎦ N
+ 
+ 
+ 
+Carrying out the indicated operations, we find: 
+ 
+ 
+ 
+
+F =
+3.52ˆi −1.60ˆj
+(
+) × 10−18 N 
+ 
+(b) 
+θ = cos−1 Fx
+F
+⎛
+⎝⎜
+⎞
+⎠⎟= cos−1
+3.52
+3.52
+(
+)
+2 + 1.60
+(
+)
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= 24.4°  
+ 
+ 
+below the +x axis.  
+P29.60 
+(a) 
+At the moment shown in Figure 29.11, the particle must be 
+moving upward in order for the magnetic force on it to be 
+ 
+into the page, toward the center of this turn of its spiral path. 
+Throughout its motion it circulates clockwise. 
+ 
+ANS. FIG. P29.60(a) 
+ 
+(b) After the particle has passed the middle of the bottle and moves 
+into the region of increasing magnetic field, the magnetic force on 
+it has a component to the left (as well as a radially inward 
+component) as shown. This force in the –x direction slows and 
+reverses the particle’s motion along the axis. 
+ 
+ANS. FIG. P29.60(b) 
+ 
+(c) 
+The magnetic force is perpendicular to the velocity and does no 
+work on the particle. The particle keeps constant kinetic energy. 
+As its axial velocity component decreases, its tangential velocity 
+component increases.
+
+--- PAGE 35 ---
+340     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The orbiting particle constitutes a loop of current in the yz plane 
+and therefore a magnetic dipole moment IA = q
+T A in the –x 
+direction. It is like a little bar magnet with its N pole on the left. 
+ 
+ANS. FIG. P29.60(d) 
+P29.61 
+Let Δx1 be the elongation due to the weight of the wire and let Δx2 be 
+the additional elongation of the springs when the magnetic field is 
+turned on. Then Fmagnetic = 2kΔx2 where k is the force constant of the 
+spring and can be determined from k = mg
+2Δx1
+. (The factor 2 is included 
+in the two previous equations since there are 2 springs in parallel.) 
+Combining these two equations, we find 
+ 
+ 
+Fmagnetic = 2
+mg
+2Δx1
+⎛
+⎝⎜
+⎞
+⎠⎟Δx2 = mgΔx2
+Δx1
+; but 
+
+FB = I
+
+L ×
+
+B = ILB 
+ 
+ANS. FIG. P29.61 
+ 
+Therefore, where I = 24.0 V
+12.0 Ω = 2.00 A , 
+ 
+ 
+B = mgΔx2
+ILΔx1
+= 0.100 kg
+(
+) 9.80 m/s2
+(
+) 3.00 × 10−3 m
+(
+)
+2.00 A
+(
+) 0.050 0 m
+(
+) 5.00 × 10−3 m
+(
+)
+= 0.588 T
+ 
+P29.62 
+(a) 
+The particle moves in an arc of a circle with radius 
+ 
+ 
+ 
+r = mv
+qB = 1.67 × 10−27 kg  3 × 107 m/s  C m
+1.6 × 10−19 C  25 × 10−6 N s  
+= 12.5 km 
+ 
+(b) 
+It will not arrive at the center, but will perform a hairpin turn
+and go back parallel to its original direction.
+
+--- PAGE 36 ---
+Chapter 29     341 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.63 
+Let vi represent the original speed of the alpha particle. Let vα and vp 
+represent the particles’ speeds after the collision. We have 
+conservation of momentum  
+ 
+ 
+4mpvi = 4mpvα + mpvp    →    4vi = 4vα + vp 
+ 
+and the relative velocity equation  
+ 
+ 
+v1i −v2i = v2 f −v1 f     →     vi −0 = vp −vα 
+ 
+Eliminating vi, 
+ 
+ 
+4vp −4vα = 4vα + vp    →    3vp = 8vα    →    vα = 3
+8 vp 
+ 
+For the proton’s motion in the magnetic field, 
+ 
+ 
+F
+∑
+= ma    →    evpBsin90° = mpvp
+2
+R
+    →    eBR
+mp
+= vp
+ 
+ 
+For the alpha particle, 
+ 
+ 
+2evαBsin90° = 4mpvα
+2
+rα
+    
+ 
+ 
+and the radius of the alpha particle’s trajectory is given by 
+ 
+ 
+rα = 2mpvα
+eB
+= 2mp
+eB
+3
+8 vp = 2mp
+eB
+3
+8
+eBR
+mp
+=
+3
+4 R
+ 
+P29.64 
+(a) 
+If 
+
+B = Bxˆi + Byˆj + Bz ˆk , then 
+ 
+ 
+ 
+
+FB = qv ×
+
+B = e viˆi
+(
+)× Bxˆi + Byˆj+ Bz ˆk
+(
+) = 0 + eviBy ˆk −eviBzˆj
+  
+ 
+ 
+Since the force actually experienced is 
+
+FB = Fiˆj, observe that 
+ 
+ 
+Bx could have any value , By = 0 , and Bz = −Fi
+evi
+. 
+ 
+(b) If v = −viˆi , then    
+ 
+ 
+ 
+
+FB = qv ×
+
+B = e −viˆi
+(
+) × Bxˆi + 0ˆj −Fi
+evi
+ˆk
+⎛
+⎝⎜
+⎞
+⎠⎟= −Fiˆj 
+ 
+(c) 
+If q = –e and v = −viˆi , then   
+ 
+ 
+ 
+
+FB = qv ×
+
+B = −e −viˆi
+(
+) × Bxˆi + 0ˆj −Fi
+evi
+ˆk
+⎛
+⎝⎜
+⎞
+⎠⎟ = +Fiˆj 
+ 
+ 
+Reversing either the velocity or the sign of the charge reverses the 
+force.
+
+--- PAGE 37 ---
+342     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.65 
+From the particle in equilibrium model, 
+ 
+ 
+ 
+Fy
+∑
+= 0:     + n−mg = 0 
+ 
+ 
+ 
+Fx
+∑
+= 0:     −fk + FB = −µkn+ IBdsin90.0° = 0 
+ 
+Solving for the magnetic field gives 
+ 
+ 
+ 
+B = µkmg
+Id
+=
+0.100 0.200 kg
+(
+) 9.80 m s2
+(
+)
+10.0 A
+(
+) 0.500 m
+(
+)
+= 39.2 mT 
+P29.66 
+From the particle in equilibrium model, 
+ 
+ 
+ 
+Fy
+∑
+= 0:     + n−mg = 0 
+ 
+ 
+ 
+Fx
+∑
+= 0:     −fk + FB = −µkn+ IBdsin90.0° = 0 
+ 
+Solving for the magnetic field gives 
+ 
+ 
+ 
+B = µkmg
+Id
+ 
+P29.67 
+(a) 
+The field should be in the +z-direction, perpendicular to the final 
+as well as to the initial velocity, and with ˆi × ˆk = −ˆj as the 
+direction of the initial force.   
+ 
+(b) 
+r = mv
+qB =
+1.67 × 10−27 kg
+(
+) 20 × 106 m s
+(
+)
+1.60 × 10−19 C
+(
+) 0.3 N ⋅s C⋅m
+(
+)
+= 0.696 m 
+ 
+(c) 
+The path is a quarter circle, of length  
+ 
+ 
+ 
+s = θr =
+π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟0.696 m
+(
+) = 1.09 m 
+ 
+(d) 
+Δt =
+1.09 m
+20.0 × 106 m/s = 54.7 ns 
+P29.68 
+Suppose the input power is 120 W = (120 V)I, which gives a current of  
+ 
+ 
+ 
+I ~ 1 A = 100 A 
+ 
+Also suppose 
+ 
+ 
+ 
+ 
+ω = 2 000 rev min 1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟~ 200 rad s 
+ 
+and the output power is 
+ 
+ 
+ 
+ 
+20 W = τω = τ 200 rad s
+(
+) 
+ 
+The torque is then τ ~ 10−1 N ⋅m
+
+--- PAGE 38 ---
+Chapter 29     343 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Suppose the area is about (3 cm) × (4 cm),   or   A ~ 10−3 m2 
+ 
+Suppose that the field is 
+B ~ 10−1 T 
+ 
+Then, the number of turns in the coil may be found from  
+ 
+ 
+ 
+τ ≅NIAB: 
+ 
+ 
+ 
+ 
+0.1 N ⋅m ~ N 1 C/s
+(
+) 10−3 m2
+(
+) 10−1 N ⋅s/C⋅m
+(
+) 
+ 
+giving    
+N ~ 103 
+ 
+The results are:  
+ 
+(a)  B ~ 10−1 T  (b)  τ ~ 10−1 N ⋅m  (c)  I ~ 1 A = 100 A 
+(d)  A ~ 10−3 m2  (e)  N ~ 103 
+P29.69 
+The sphere is in translational equilibrium; 
+thus 
+ 
+ 
+ 
+fs −Mgsinθ = 0 
+[1] 
+ 
+The sphere is also in rotational 
+equilibrium. If torques are taken about 
+the center of the sphere, the magnetic 
+field produces a clockwise torque of 
+magnitude µBsinθ , and the frictional 
+force a counterclockwise torque of 
+magnitude fsR, where R is the radius of the sphere. Thus, 
+ 
+ 
+fsR −µBsinθ = 0 
+[2] 
+ 
+From [1], we obtain fs = Mg sin θ. Substituting this into [2], the sin θ 
+term will cancel—see part (b) below. One obtains 
+ 
+ 
+µB = MgR 
+[3] 
+ 
+Now, µ = NIπ R2 . Thus [3] gives 
+ 
+(a) 
+I =
+Mg
+π NBR = 0.080 0 kg
+(
+) 9.80 m s2
+(
+)
+π 5
+( ) 0.350 T
+(
+) 0.200 m
+(
+) = 
+0.713 A counterclockwise as seen from above 
+ 
+(b) Substitute [1] into [2] and use µ = NIA = NIπ R2: 
+ 
+ 
+ 
+fsR −µBsinθ = 0
+Mg sinθ
+(
+)R = µB sinθ
+MgR = µB = NIπ R2
+(
+)B
+ 
+ 
+ANS. FIG. P29.69
+
+--- PAGE 39 ---
+344     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+solving for the current gives 
+ 
+ 
+ 
+I =
+Mg
+π NBR
+ 
+ 
+ 
+The current is clearly independent of θ. 
+P29.70 
+The radius of the circular path followed by the particle is 
+ 
+ 
+ 
+r = mv
+qB  = 
+2.00 × 10−13 kg
+(
+) 2.00 × 105 m/s
+(
+)
+1.00 × 10−6 C
+(
+) 0.400 T
+(
+)
+ = 0.100 m 
+ 
+This is exactly equal to the length h of the field region. Therefore, the 
+particle will not exit the field at the top, but rather will complete a 
+semicircle in the magnetic field region and will exit at the bottom, 
+traveling in the opposite direction with the same speed. 
+P29.71 
+(a) 
+When switch S is closed, a total current NI 
+(current I in a total of N conductors) flows 
+toward the right through the lower side of 
+the coil. This results in a downward force 
+of magnitude Fm = B(NI)w being exerted on 
+the coil by the magnetic field, with the 
+requirement that the balance exert a 
+upward force F′ = mg on the coil to bring 
+the system back into balance. 
+ 
+ 
+For the system to be restored to balance, it is necessary that 
+ 
+ 
+ 
+Fm = F′     or     B(NI)w = mg,   giving   B = mg NIw 
+ 
+(b) 
+The magnetic field exerts forces of equal magnitude and opposite
+directions on the two sides of the coils, so the forces cancel each
+other and do not affect the balance of the system. Hence, the
+vertical dimension of the coil is not needed.
+ 
+ 
+(c) 
+B = mg
+NIw =
+20.0 × 10−3 kg
+(
+) 9.80 m s2
+(
+)
+50
+(
+) 0.300 A
+(
+) 5.00 × 10−2 m
+(
+)
+= 0.261 T 
+P29.72 
+(a) 
+The magnetic force acting on ions in the blood stream will deflect 
+positive charges toward point A and negative charges toward 
+point B. This separation of charges produces an electric field 
+directed from A toward B. At equilibrium, the electric force 
+caused by this field must balance the magnetic force, so 
+ 
+ 
+ 
+qvB = qE = q ΔV
+d
+⎛
+⎝⎜
+⎞
+⎠⎟   
+ 
+ 
+ANS. FIG. P29.71
+
+--- PAGE 40 ---
+Chapter 29     345 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives 
+ 
+ 
+ 
+v = ΔV
+Bd =
+160 × 10−6 V
+0.040 0 T
+(
+) 3.00 × 10−3 m
+(
+)
+= 1.33 m s
+ 
+ 
+(b) 
+Positive ions carried by the blood flow experience an upward
+force resulting in the upper wall of the blood vessel at electrode
+A becoming positively charged and the lower wall of the blood
+vessel at electrode B becoming negatively charged.
+ 
+ 
+(c) 
+No. Negative ions moving in the direction of v would be
+deflected toward point B, giving A a higher potential than B.
+Positive ions moving in the direction of v would be deflected
+toward A, again giving A a higher potential than B. Therefore,
+the sign of the potential difference does not depend on whether
+the ions in the blood are positively or negatively charged.
+ 
+P29.73 
+Let vx and v⊥ be the components of the velocity of the positron parallel 
+to and perpendicular to the direction of the magnetic field. 
+ 
+ANS. FIG. P29.73 
+ 
+(a) 
+The pitch of trajectory is the distance moved along x by the 
+positron during each period, T (determined by the cyclotron 
+frequency):  
+ 
+ 
+ 
+p = vxT = vcos85.0°
+(
+) 2π m
+Bq
+⎛
+⎝⎜
+⎞
+⎠⎟
+p =
+5.00 × 106
+(
+) cos85.0°
+(
+) 2π
+(
+) 9.11× 10−31
+(
+)
+0.150 1.60 × 10−19
+(
+)
+= 1.04 × 10−4 m
+ 
+ 
+(b) The equation about circular motion in a magnetic field still 
+applies to the radius of the spiral: 
+ 
+ 
+ 
+r = mv⊥
+Bq = mvsin85.0°
+Bq
+
+--- PAGE 41 ---
+346     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+r =
+9.11× 10−31
+(
+) 5.00 × 106
+(
+) sin85.0°
+(
+)
+0.150
+(
+) 1.60 × 10−19
+(
+)
+= 1.89 × 10−4 m 
+P29.74 
+(a) 
+The torque on the dipole τ = µ ×
+
+B has magnitude µB sin θ  ≈ µBθ, 
+proportional to the angular displacement if the angle is small. It is 
+a restoring torque, tending to turn the dipole toward its 
+equilibrium orientation. Then the statement that its motion is 
+simple harmonic is true for small angular displacements.  
+ 
+(b) The statement is true only for small angular displacements for 
+which sin θ ≈ θ. 
+ 
+(c) 
+τ = Iα  becomes    
+ 
+ 
+ 
+−µBθ = I d2θ/dt2
+→
+d2θ/dt2 = −(µB/I)θ = −ω 2θ 
+ 
+ 
+where ω = (µB/I)1/2 is the angular frequency and  
+ 
+ 
+ 
+f = ω/2π = 1
+2π
+µB
+I
+  
+ 
+ 
+is the frequency in hertz. 
+ 
+(d) The equilibrium orientation of the needle shows the direction of 
+the field. In a stronger field, the frequency is higher.  The 
+frequency is easy to measure precisely over a wide range of 
+values.   
+ 
+(e) 
+From part (c), we see that the frequency is proportional to the 
+square root of the magnetic field strength:  
+ 
+ 
+ 
+f2
+f1
+=
+B2
+B1
+→B2
+B1
+=
+f2
+f1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+B2 = B1
+f2
+f1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 39.2 × 10−6 T
+(
+)
+4.90 Hz
+0.680 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.04 × 10−3 T = 2.04 mT
+ 
+P29.75 
+(a) 
+See the graph in ANS. FIG. P29.75. The Hall voltage is directly 
+proportional to the magnetic field. A least-square fit to the data 
+gives the equation of the best fitting line as: 
+ 
+ 
+ 
+ΔVH = (1.00 × 10−4)B
+where ΔVH is in volts and B is in teslas.
+
+--- PAGE 42 ---
+Chapter 29     347 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P29.75 
+ 
+(b) Comparing the equation of the line which fits the data to 
+ 
+ 
+ 
+ΔVH =
+1
+nqt
+⎛
+⎝⎜
+⎞
+⎠⎟B 
+ 
+ 
+observe that the slope: I
+nqt = 1.00 × 10−4 , or  
+ 
+ 
+ 
+t =
+I
+nq 1.00 × 10−4
+(
+) 
+ 
+ 
+Then, if I = 0.200 A, q = 1.60 × 10
+–19 C, and n = 1.00 × 10
+26 m
+–3, the 
+thickness of the sample is 
+ 
+ 
+ 
+t =
+0.200 A
+1.00 × 1026 m−3
+(
+) 1.60 × 10−19 C
+(
+) 1.00 × 10−4 V T
+(
+)
+= 1.25 × 10−4 m = 0.125 mm
+ 
+P29.76 
+Call the length of the rod L and the tension in each wire alone T
+2
+. 
+Then, at equilibrium: 
+ 
+ 
+ 
+Fx
+∑
+= T sinθ −ILBsin90.0° = 0 or   T sin θ = ILB 
+ 
+ 
+ 
+Fy
+∑
+= T cosθ −mg = 0 
+or   T cos θ = mg 
+ 
+combining the equations gives 
+ 
+ 
+ 
+tanθ = ILB
+mg =
+IB
+m L
+(
+)g 
+ 
+ 
+solving for the magnetic field, 
+    
+ 
+ 
+B = m L
+(
+)g
+I
+tanθ =
+λ g
+I tanθ
+
+--- PAGE 43 ---
+348     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P29.77 
+τ = IAB where the effective current due to the orbiting electrons is 
+I = Δq
+Δt = q
+T and the period of the motion is T = 2π R
+v
+. 
+ 
+The electron’s speed in its orbit is found by requiring keq2
+R2 = mv2
+R
+ or  
+ 
+ 
+ 
+v = q
+ke
+mR
+ 
+ 
+Substituting this expression for v into the equation for T, we find 
+ 
+ 
+ 
+ 
+T = 2π
+mR3
+q2ke
+= 2π
+9.11× 10−31 kg
+(
+) 5.29 × 10−11 m
+(
+)
+3
+1.60 × 10−19 C
+(
+)
+2 8.99 × 109 N⋅m2/C2
+(
+)
+= 1.52 × 10−16 s
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+τ =
+q
+T
+⎛
+⎝⎜
+⎞
+⎠⎟AB =
+1.60 × 10−19 C
+1.52 × 10−16 s
+⎛
+⎝⎜
+⎞
+⎠⎟π 5.29 × 10−11 m
+(
+)
+2
+⎡⎣
+⎤⎦0.400 T
+(
+)
+= 3.70 × 10−24 N⋅m
+ 
+P29.78 
+The magnetic force on each proton, 
+
+FB = qv ×
+
+B = qvBsin90° downward and 
+perpendicular to the velocity vector, causes 
+centripetal acceleration, guiding it into a circular path 
+of radius r, with 
+ 
+ 
+ 
+qvB = mv2
+r
+ 
+ 
+and  
+r = mv
+qB 
+ 
+We compute this radius by first finding the proton’s speed from 
+K = 1
+2 mv2:
+ 
+ 
+ 
+ 
+v =
+2K
+m =
+2 5.00 × 106 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+1.67 × 10−27 kg
+= 3.10 × 107 m s
+ 
+ANS. FIG. P29.78
+
+--- PAGE 44 ---
+Chapter 29     349 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now,  
+r = mv
+qB =
+1.67 × 10−27 kg
+(
+) 3.10 × 107 m s
+(
+)
+1.60 × 10−19 C
+(
+) 0.050 0 N ⋅s C⋅m
+(
+)
+= 6.46 m. 
+ 
+(a) 
+From ANS. FIG. P29.78 observe that 
+ 
+ 
+ 
+sinα = 1.00 m
+r
+=
+1 m
+6.46 m
+α = 8.90°
+ 
+ 
+(b) The magnitude of the proton momentum stays constant, and its 
+final y component is 
+ 
+ 
+ 
+−1.67 × 10−27 kg
+(
+) 3.10 × 107 m s
+(
+)sin8.90°
+                                           = −8.00 × 10−21 kg ⋅m s
+ 
+P29.79 
+A key to solving this problem is that reducing the 
+normal force will reduce the friction force:  
+FB = BIL or B = FB
+IL
+. 
+ 
+When the wire is just able to move,  
+ 
+ 
+ 
+Fy
+∑
+= n + FB cosθ −mg = 0 
+ 
+so      
+n = mg −FB cosθ 
+ 
+and     
+f = µ mg −FB cosθ
+(
+) 
+ 
+Also, 
+Fx
+∑
+= FB sinθ −f = 0 
+ 
+so      
+FB sinθ = f : FB sinθ = µ mg −FB cosθ
+(
+) and FB =
+µmg
+sinθ + µ cosθ 
+ 
+We minimize B by minimizing FB:  
+ 
+ 
+ 
+dFB
+dθ = −µmg
+(
+) cosθ −µ sinθ
+sinθ + µ cosθ
+(
+)
+2 = 0 ⇒µ sinθ = cosθ 
+ 
+Thus, θ = tan−1
+1
+µ
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 5.00
+(
+) = 78.7° for the smallest field, and 
+ 
+ 
+ 
+B = FB
+IL =
+µg
+I
+⎛
+⎝⎜
+⎞
+⎠⎟
+m L
+(
+)
+sinθ + µcosθ
+Bmin =
+0.200
+(
+) 9.80 m s2
+(
+)
+1.50 A
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+0.100 kg m
+sin78.7° + 0.200
+(
+)cos78.7°
+       = 0.128 T
+ 
+ 
+ANS. FIG. P29.79
+
+--- PAGE 45 ---
+350     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The answers are 
+ 
+(a) 
+magnitude: 0.128 T and  
+ 
+(b) direction: 78.7° below the horizontal 
+P29.80 
+(a) 
+The kinetic energy of the proton in joules is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 6.00 MeV = 6.00 × 106 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+= 9.60 × 10−13 J
+ 
+ 
+ 
+From which we find the proton’s velocity to be 
+ 
+ 
+ 
+v =
+2 9.60 × 10−13 J
+(
+)
+1.67 × 10−27 kg = 3.39 × 107 m s
+ 
+ 
+ 
+We can find the radius of the proton’s orbit from 
+ 
+ 
+ 
+FB = qvB = mv2
+R
+   
+ 
+ 
+so 
+R = mv
+qB =
+1.67 × 10−27 kg
+(
+) 3.39 × 107 m s
+(
+)
+1.60 × 10−19 C
+(
+) 1.00 T
+(
+)
+= 0.354 m 
+ 
+ 
+Then, from the diagram, x = 2Rsin 45.0° = 2 0.354 m
+(
+)sin 45.0° = 
+0.501 m . 
+ 
+ANS. FIG. P29.80 
+ 
+(b) From ANS. FIG. P29.80, observe that ′
+θ = 45.0° .
+
+--- PAGE 46 ---
+Chapter 29     351 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P29.2 
+(a) up; (b) out of the page, since the charge is negative; (c) no 
+deflection; (d) into the page 
+P29.4 
+(a) west; (b) zero deflection; (c) up; (d) down 
+P29.6 
+48.9° or 131° 
+P29.8 
+13.2 × 10
+–19 N 
+P29.10 
+(a) 1.44 × 10
+–12 N; (b) 8.62 × 10
+14 m/s
+2; (c) A force would be exerted on 
+the electron that had the same magnitude as the force on a proton but 
+in the opposite direction because of its negative charge; (d) The 
+acceleration of the electron would be much greater than that of the 
+proton because the mass of the electron is much smaller. 
+P29.12 
+200 μC 
+P29.14 
+(a) 6.84 × 10
+–16 m; (b) down; (c) 7.26 mm; (d) east; (e) The beam moves 
+on an arc of a circle rather than on a parabola; (f) Its northward 
+velocity component stays constant within 0.09%. It is a good 
+approximation to think of it as moving on a parabola as it really moves 
+on a circle. 
+P29.16 
+(a) v = 2K
+qBR ; (b) q2B2R2
+2K
+ 
+P29.18 
+e2B2
+2me
+r1
+2 + r2
+2
+(
+) 
+P29.20 
+(a) 0.990 × 10−6ˆi + 1.00 × 10−6ˆj
+(
+) N; (b) Yes. In the vertical direction, the 
+gravitational force on the ball is 0.294 N, five orders of magnitude 
+larger than the magnetic force. In the horizontal direction, the change 
+in the horizontal component of velocity due to the magnetic force is six 
+orders of magnitude smaller than the horizontal velocity component. 
+P29.22 
+1.79 × 10
+–8 s; (b) 35.1 eV 
+P29.24 
+4.31 × 10
+7 rad/s; (b) 5.17 × 10
+7 m/s 
+P29.26 
+(a) 8.28 cm; (b) 8.23 cm; (c) From r = 1
+B
+2m ΔV
+(
+)
+q
+, we see for two 
+different masses mA and mB of the same charge q, the ratio of the path 
+radii is rB
+rA
+=
+mB
+mB
+; (d) The ratio of the path radii is independent of ΔV; 
+(e) The ratio of the path radii is independent of B.
+
+--- PAGE 47 ---
+352     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.28 
+(a) See P29.28 for full explanation; (b) The dashed red line in Figure 
+P29.16(a) spirals around many times, with it turns relatively far apart 
+on the inside and closer together on the outside. This demonstrates the 
+1/r behavior of the rate of change in radius exhibited by the result in 
+part (a); (c) 682 m/s; (d) 55.9 µm 
+P29.30 
+(a) Yes. The constituent of the beam is present in all kinds of atoms;  
+(b) Yes. Everything in the beam has single charge-to-mass ratio; (c) In a 
+charged macroscopic object most of the atoms are uncharged. A 
+molecule never has all of its atoms ionized. Any atoms other than 
+hydrogen contain neutrons and so has more mass per charge if it is 
+ionized than hydrogen does. The greatest charge-to-mass ratio 
+Thomson could expect was then for ionized  hydrogen,  
+1.6 × 10
+–19 C/1.67 × 10
+–27 kg, smaller than the value e/m he measured, 
+1.6 × 10
+–19 C/9.11 × 10
+–31 kg, by 1 836 times. The particles in his beam 
+could not be whole atoms but rather must be much smaller in mass;  
+(d) No. The particles move with speed on the order of ten million 
+meters per second, so they fall by an immeasurably small amount over 
+a distance of less than 1 m. 
+P29.32 
+(a) 0.118 N; (b) Neither the direction of the magnetic field nor that of 
+the current is given. Both must be known in order to determine the 
+direction of the magnetic force. 
+P29.34 
+(a) 4.73 N; (b) 5.46 N; (c) 4.73 N 
+P29.36 
+See P29.36 for full explanation. 
+P29.38 
+4IdBL
+3m
+ 
+P29.40 
+The magnetic force and the gravitational force both act on the wire; (b) 
+When the magnetic force is upward and balances the downward 
+gravitational force, the net force on the wire is zero, and the wire can 
+move can move upward at constant velocity; (c) 0.196 T, out of the 
+page; (d) If the field exceeds 0.20 T, the upward magnetic force exceeds 
+the downward gravitational force, so the wire accelerates upward. 
+P29.42 
+(a) 2πrIB sin θ; (b) up, away from magnet 
+P29.44 
+(a) 0; (b) −40.0ˆi mN ; (c) −40.0 ˆk mN ; (d) 40.0ˆi + 40.0 ˆk
+(
+) mN ; (e) The 
+forces on the four segments must add to zero, so the force on the 
+fourth segment must be the negative of the resultant of the forces on 
+the other three. 
+P29.46 
+4.91× 10−3 N ⋅m 
+P29.48 
+(a) 5.41 mA ⋅m2 ; (b) 4.33 mN ⋅m
+
+--- PAGE 48 ---
+Chapter 29     353 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.50 
+(a) 6.40 × 10−4 N ⋅m; (b) 0.241 W; (c) 2.56 × 10–3 J; (d) 0.154 W 
+P29.52 
+(a) +x direction; (b) torque is in the –z direction; (c) –x direction;  
+(d) torque is in the +z direction; (e) No; (f) Both the forces and the 
+torques are equal in magnitude and opposite in direction, so they sum 
+to zero and cannot affect the motion of the loop; (g) in the yz plane at 
+130° counterclockwise from the +y axis; (h) the +x direction; (i) zero; (j) 
+counterclockwise; (k) 0.135 A ⋅m2; (l) 130°; (m) 0.155 N ⋅m 
+P29.54 
+(a) 37.7 mT; (b) 4.29 × 10
+25 m
+–3 
+P29.56 
+2.75 Mrad/s 
+P29.58 
+(a) The electric current experiences a magnetic force; (b) JLB; (c) Charge 
+moves within the fluid inside the length L, but charge does not 
+accumulate: the fluid is not charged after it leaves the pump; (d) It is 
+not current-carrying; (e) It is not magnetized. 
+P29.60 
+(a–d) See P29.60 for full explanation. 
+P29.62 
+(a) 12.5 km; (b) It will not arrive at the center but will perform a 
+hairpin turn and go back parallel to its original direction. 
+P29.64 
+(a) Bx could have any value, By = 0, Bz = −Fi
+evi
+; (b) −Fiˆj ; (c) +Fiˆj 
+P29.66 
+µkmg
+Id
+ 
+P29.68 
+(a) B ~ 10
+–1 T; (b) τ ~ 10−1 N⋅m; (c) I ~ 1 A = 10
+0 A; (d) A ~ 10
+–3 m
+2;  
+(e) N ~ 10
+3 
+P29.70 
+The particle will not exit the field at the top but rather will complete a 
+semicircle in the magnetic field region and will exit at the bottom, 
+traveling in the opposite direction with the same speed. 
+P29.72 
+(a) 1.33 m/s; (b) Positive ions carried by the blood flow experience an 
+upward force resulting in the upper wall of the blood vessel at 
+electrode A becoming positively charged and the lower wall of the 
+blood vessel at electrode B becoming negatively charged; (b) No. 
+Negative ions moving in the direction of v would be deflected toward 
+point B, giving A a higher potential than B. Positive ions moving in the 
+direction of v would be deflected toward A, again giving A a higher 
+potential than B. Therefore, the sign of the potential difference does not 
+depend on whether the ions in the blood are positively or negatively 
+charged.
+
+--- PAGE 49 ---
+354     Magnetic Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P29.74 
+(a) See P29.74(a) for full explanation; (b) The statement is true only for 
+small angular displacements for which sin θ  ≈ θ ; (c) See P29.74(c) for 
+full explanation; (d) The equilibrium orientation of the needle shows 
+the direction of the field. In a stronger field, the frequency is higher. 
+The frequency is easy to measure precisely over a wide range of 
+values; (e) 2.04 mT 
+P29.76 
+λ g
+I tanθ 
+P29.78 
+(a) α = 8.90° ; (b) −8.00 × 10−21 kg ⋅m s 
+P29.80 
+(a) 0.501 m; (b) 45.0°

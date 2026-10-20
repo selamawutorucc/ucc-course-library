@@ -1,0 +1,346 @@
+
+--- PAGE 1 ---
+Introduction to Python 
+Programming 
+Elliot Attipoe
+1
+
+--- PAGE 2 ---
+What is a programming language?
+1. A programming language is a set of rules 
+that provides a way of telling a computer 
+what operations to perform.
+2. A programming language is a vocabulary 
+and set of grammatical rules for instructing 
+a computer or computing device to perform 
+specific tasks.
+3. A programming language is a set of 
+commands, instructions, and other syntax use 
+to create a software program.
+2
+
+--- PAGE 3 ---
+3
+
+--- PAGE 4 ---
+Top Ranking Programming Languages
+4
+
+--- PAGE 5 ---
+About Python Programming Lang
+•Python is a widely used general-
+purpose, high level programming 
+language. 
+•It was initially designed by Guido van 
+Rossum in 1991
+5
+
+--- PAGE 6 ---
+6
+
+--- PAGE 7 ---
+7
+
+--- PAGE 8 ---
+8
+
+--- PAGE 9 ---
+Basic Mathematics Operations in 
+Python 
+Operator
+Name
++
+Addition
+-
+Subtraction 
+*
+Multiplication 
+/
+Division
+%
+Modulus
+**
+Exponentiation 
+//
+Floor/Integer Division 
+9
+
+--- PAGE 10 ---
+Evaluate the following expressions
+1. 3*1**3
+2. 2 + 3 * 5 / 2
+3. 2 + 3 * 5 // 2
+4. 10 – 4 * 2
+5. (10-4) * 2
+6. 6 + 3 – 5 * 4 / 2 % 2 
+10
+
+--- PAGE 11 ---
+Augmented Assignment Operators
+Operator 
+Name
++=
+Addition assignment 
+-=
+Subtraction assignment 
+*=
+Multiplication assignment
+/=
+Float division assignment 
+//=
+Integer division assignment
+%=
+Remainder assignment 
+**=
+Exponent assignment 
+11
+
+--- PAGE 12 ---
+Assume i = 1, what are the results 
+of the following expressions?
+1. i+=4
+2. i-=4
+3. i*=4
+4. i/=4
+5. i//=4
+6. i%=4
+12
+
+--- PAGE 13 ---
+Comparison Operators 
+Operator
+Operator Name
+==
+Equal to
+!=
+Not Equal to
+>
+Greater Than
+<
+Lesser Than
+>=
+Greater Than or Equal to
+<=
+Lesser Than or Equal to
+13
+
+--- PAGE 14 ---
+What is the output of the following 
+expressions
+1.10 == 12
+2.10 != 12
+3.10 < 12
+4.10 > 12
+5.10 <= 12
+14
+
+--- PAGE 15 ---
+Logical Operators 
+Operator
+Operator Name
+and
+Logical AND
+or
+Logical OR
+not
+Logical NOT
+15
+
+--- PAGE 16 ---
+Evaluate the following expressions 
+1. True and False 
+2. True or False
+3. not(True) and False 
+4. not(True and False) 
+5. (10 < 0) and (10 > 2) 
+6. (10 < 0) or (10 > 2) 
+7. not(10 < 0) or (10 > 2) 
+8. not(10 < 0 or 10 > 2)
+16
+
+--- PAGE 17 ---
+17
+
+--- PAGE 18 ---
+18
+
+--- PAGE 19 ---
+19
+
+--- PAGE 20 ---
+20
+
+--- PAGE 21 ---
+21
+
+--- PAGE 22 ---
+22
+
+--- PAGE 23 ---
+Digital Logic Circuit 
+• Digital circuits make up all computers and computer 
+systems. 
+• The operation of digital circuits is based on Boolean 
+algebra Boolean Logic (AND, OR, and NOT) 
+• These basic functions can be combined in many ways 
+to provide all the functions required in the central 
+processor of a digital computer a digital computer. 
+• Digital circuits operate by performing Boolean 
+operations on binary numbers
+23
+
+--- PAGE 24 ---
+Precedence and Associativity 
+• Operator precedence determines the way in 
+which operators are parsed with respect to 
+each other. 
+• Associativity determines the way in which 
+operators of the same precedence are 
+parsed.
+• Almost all the operators have left-to-right 
+associativity. 
+24
+
+--- PAGE 25 ---
+Operator Precedence in Python 
+Operator
+Meaning 
+( )
+Parentheses 
+**
+Exponent 
+*, /, //,  %
+Multiplication, Division, Floor division, 
+Modulus
+=, -
+Addition, Subtraction 
+==, !=, >, >=, <, <=
+Comparison 
+not
+Logical NOT
+and
+Logical AND
+or
+Logical OR
+25
+
+--- PAGE 26 ---
+Evaluate the following expression
+a) 13 > 12 or 6 < 5
+b) 6 + 3 > 7 and 11 < 2 * 5
+c) 7 + 3 * 2 > 6 * 3 and True 
+d) 5 * 4 > 6 ** 2 and True or False 
+26
+
+--- PAGE 27 ---
+Variables 
+• A variable is a storage location (identified by 
+a memory location) which contains some 
+known or unknown quantity of information 
+referred to as value.
+• Programmers get to choose the names of the 
+variables
+27
+
+--- PAGE 28 ---
+Python Variable Name Rules
+• Can start with a letter or underscore _
+• Can consist of letters and numbers and underscore 
+• Is Case Sensitive 
+• Good examples 
+• name, age tom25, _max
+• Bad examples
+• 45name, #name, age.22
+• Different: name, Name, NAME (case sensitive)
+28
+
+--- PAGE 29 ---
+Reserved words in Python
+29
+
+--- PAGE 30 ---
+Programming Errors
+• Programming errors can be categorized into 
+three types: 
+• syntax errors
+• runtime errors
+• logic errors 
+30
+
+--- PAGE 31 ---
+Syntax Errors 
+• Syntax errors result from errors in code 
+construction, such as mistyping a statement, 
+incorrect indentation, omitting some necessary 
+punctuation, or using an opening parenthesis 
+without a corresponding closing parenthesis. 
+31
+
+--- PAGE 32 ---
+Runtime Errors 
+• Runtime errors are errors that cause a 
+program to terminate abnormally. 
+• They occur while a program is running if the 
+Python interpreter detects an operation that is 
+impossible to carry out. 
+• Input mistakes typically cause runtime errors. 
+32
+
+--- PAGE 33 ---
+Logic Errors 
+• Logic errors occur when a program does not 
+perform the way it was intended to. 
+• Errors of this kind occur for many different 
+reasons. 
+33
+
+--- PAGE 34 ---
+Question 
+•Write a program to compute the volume 
+of a sphere.
+34
+
+--- PAGE 35 ---
+Assignment 
+• Write a program to compute the roots of a 
+quadratic equation.
+35
+Submit source code via the e-learning platform 
+Due Date: May 2, 2022 @ 6pm
+
+--- PAGE 36 ---
+IF…Else statement 
+36
+
+--- PAGE 37 ---
+If…Else Example
+37
+
+--- PAGE 38 ---
+While Loop
+38
+
+--- PAGE 39 ---
+While Loop Example 
+39
+
+--- PAGE 40 ---
+For…Loop
+1.for i in range (5):
+2.
+print ("Hello")
+•for i in range (5):
+•
+print (i+1)
+40
+
+--- PAGE 41 ---
+Assignment 
+• Use the turtle module in Python to draw the 
+following:
+a) The Olympics rings logo 
+b) The Ghana Flag 
+•Submit source code via the e-learning 
+platform
+•Due Date: May 2, 2022 @ 6pm
+41

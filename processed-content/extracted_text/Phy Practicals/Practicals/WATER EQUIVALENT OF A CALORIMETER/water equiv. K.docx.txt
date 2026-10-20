@@ -1,0 +1,53 @@
+NAME: AMOH KWAME BAAH
+INDEX NUMBER: SM/SMS/09/0036 
+MED 107  
+GENERAL PHYSICS PRACTICAL
+DATE: 20 /09/09
+TITLE: EXPERIMENT TO DETERMINE THE WATER EQUIVALENCE OF A CALORIMETER
+AIM: To determine the water equivalence of a calorimeter by applying the principle of         conservation of heat 
+APPARATUS: Electric balance, copper calorimeter with outer jacket and a stirrer, glass beakers, thermometer.
+DIAGRAM:
+THEORY: 
+Assuming no heat leaves the calorimeter after the warm water was poured into the calorimeter
++
+                       QL                           +                            Qc                                                         =         Qs
+Heat lost by warm water, Qs        = mscs (θ2-θ3)
+Heat gained by calorimeter, Qc =mccc (θ3- θ1)
+Heat gained by cold water, QL     =mLcL (θ3- θ1)
+Mass of warm water,  ms
+Mass of cold water,  mL 
+Mass of calorimeter,  mc
+QL     +     Qc     = Qs
+ MLcw(θ3-θ1) + mccc(θ3 –θ1)  =  mscs(θ2-θ3)
+(mLcw+ mccc ) (θ3-θ1)    = mscs(θ2-θ3)
+cc = cs =cw
+(mL+mc  )( cw ) (θ3-θ1)  =ms cw(θ2-θ3)
+         (mL+mc  )(θ3-θ1) =  ms(θ2-θ3)
+But mL = m1 - mo              ms  = m2 - m1                mc   =w
+(m1 - mo  + w) (θ3-θ1) =( m2 - m1 ) (θ2-θ3)
+Where w is the water equivalent of  calorimeter and stirrer             
+PROCEDURE: 
+ The calorimeter with the stirrer was weighed and mass noted as mo. This was done using the electric balance in order to obtain accurate readings. Ice cold water was poured into the calorimeter till it was about one-third full. The mass was weighed and recorded as m1. The calorimeter was placed into its outer jacket and left to stand until it acquired a temperature of about 5oc below the room temperature. The temperature was recorded using a thermometer and recorded as θ1oc. During this time, water was heated up in a beaker until its temperature was about 15oc above room temperature. The thermometer was read and the temperature recorded as θ2oc.                                                                                                       The warm water was poured into the calorimeter containing the ice-cold water until it was about two-thirds full. The highest temperature reached by the mixture which should be about 5oc above the room temperature was read and recorded as θ3oc. The calorimeter was weighed and recorded as m2.
+OBSERVATION:
+It was observed that when the hot water was put in the calorimeter, which already contained cold water, it took much time before the mixture obtained the maximum temperature .
+ The values obtained after readings has been tabulated below;
+*Room temperature = 25oc
+CALCULATIONS:
+           (m1-mo+w)(θ3-θ1)   =  (m2-m1)(θ2-θ3)
+(91.3g-56.5g+w)(30oc-20oc) =  (131.2-91.3)g(40oc-30oc)
+                           348g+10w   =   399g
+                                    10w   =    51
+                                        w   =    5.1
+DISCUSSION:
+The experiment was done to determine the water equivalence of the calorimeter which was 5.1 . The value might not be accurate due to several reasons including the clinging of water to the walls of the beaker which might have contributed to the mass of the beaker. And the inaccurate reading of the thermometer.
+ERRORS:
+The calorimeter had holes in the cover  and the jacket so heat was lost readily than usual
+         PRECAUTIONS:
+The calorimeter was wiped in order to remove all water molecules clinging to the calorimeter which may have added up to the mass of the calorimeter.
+The calorimeter was covered hence reducing heat loss.
+Weight of calorimeter + stirrer                               mo   |                  56.5 g
+Weight of calorimeter + stirrer + cold water        m1   |                   91.3g
+Weight of calorimeter + stirrer + mixture              m2  |                131.2g
+Initial temperature of cold water                          θ1oc |                          20oc
+Initial temperature of warm water                       θ2oc |                          40oc
+Final temperature of mixture                                 θ3oc |                           30oc

@@ -1,0 +1,140 @@
+
+--- PAGE 1 ---
+AIM 
+The aim is to determine the focal length of a converging lens. 
+APPARATUS 
+- 
+Convex lens (1) 
+- 
+Optical pins (2) 
+- 
+Metre rule (1) 
+- 
+White screen (1) 
+DIAGRAM
+
+--- PAGE 2 ---
+THEORY 
+When a group of rays parallel to the axis pass through the focal point after being converged by 
+the lens, the distance between the focal point and the lens is referred to as the focal distance or 
+length. 
+Magnification    
+              
+                 
+From this experiment,     is the image distance and d is the object distance 
+Also,   
+ 
+    
+A graph of magnification against image distance yields a straight line with a negative intercept. 
+PROCEDURE  
+A screen, object pin O, the lens L, and a search pin S were placed on an optical bench as in the 
+diagram above. The pins were placed in such a way that their tips were lying approximately 
+along the axis of the lens. 
+The object pin O was positioned at a distance from the lens. An eye was placed behind the search 
+pin S. the search pin was moved towards or away from the lens until it was in no parallax 
+position with the image of the object pin. The distance between the search pin and the object pin 
+was measured as l. l-d was calculated.  The experiment was repeate for other values of the object 
+distance d and in each case l-d, 
+   
+  was calculated. The results were tabulated and a graph of 
+   
+  
+as ordinate and     as abscissa was plotted. The slope was calculated and the intercept 
+determined from the graph. The reciprocal of the slope was also found and its significance 
+indicated. 
+TABLE OF RESULT 
+     
+     
+       
+   
+ 
+    
+20.0 
+40.8 
+20.8 
+1.0400 
+22.0 
+41.0 
+19.0 
+0.8636 
+25.0 
+42.0 
+17.0 
+0.6800 
+30.0 
+45.4 
+15.4 
+0.5133 
+35.0 
+49.1 
+14.1 
+0.4029 
+40.0 
+54.0 
+14.0 
+0.3500
+
+--- PAGE 3 ---
+y = 0.0984x - 1.0025 
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+0
+5
+10
+15
+20
+25
+(l-d)/d  
+l-d/cm 
+A GRAPH OF (l-d)/d AGAINST (l-d) 
+∆ (l-d)/d 
+∆(l-d)
+
+--- PAGE 4 ---
+CALCULATION 
+         
+    
+ 
+                  
+        
+     
+                
+Using         where m=0.0976cm-1, y=1.04 and x=20.8 
+                                  
+                     
+The reciprocal of the slope (m) = 
+ 
+                             
+DISCUSSION 
+Using the lens equation  
+ 
+  
+ 
+  
+ 
+  , one was able to derive the equation   
+ 
+   .The graph to 
+be produced by the experiment using that equation had to result in a straight line passing through 
+the intercept of -1. As shown above, this was achieved. The straight line of the graph resulted in 
+a slope of 0.0976cm-1 which represented 
+ 
+  from the equation given. So the reciprocal of the slope 
+will give us the focal length (f) of the lens used and this was 10.2cm approximately. 
+The intercept was also determined which was -0.99. This is approximately -1 which tells us that 
+the equation is valid since the theoretical intercept corresponds with the experimental intercept. 
+SOURCES OF ERRORS 
+1. The search pin as well as the object pin were too loosely attached to the optical bench  
+PRECAUTIONS 
+1. The eye was placed exactly in front of the search pin and not at an angle above or below 
+the pins. 
+2. The lens was wiped thoroughly to make it clean and clear when looking through it. 
+3. A screen was placed behind the set up too ensure a clear view of the images formed. 
+4. The experiment was set up in a well lighted surrounding to produce clear images. 
+CONCLUSION 
+The focal length of the converging lens used in the experiment is 10.2cm.

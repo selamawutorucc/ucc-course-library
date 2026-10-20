@@ -1,0 +1,72 @@
+EXPERIMENT 9
+TITLE: Determination of the focal length of a converging lens.
+AIM: To determine the focal length of a converging lens using optical pins by no parallax method.
+APPARATUS: A convex lens, 2 optical pins, a screen and metre rule (0.1cm).
+DIAGRAM
+THEORY: 
+If an object of is placed in front of a converging lens at a distance u from the lens it produces an image of distance, v on the screen. The image distance, object distance and the focal length of the lens are linked by the equation,  = +    
+Multiplying through by v 
+   = xv+  xv
+  = 1+ m
+ = magnification, m                                                                                                                                                                                                                                                                                                          m =  - 1.   
+A graph of magnification against image distance yields a straight line with a negative intercept and a slope equal to 1/f.                                                                                                                                                                                                                     In the diagram above, l – d is the image distance and d is the object distance. Therefore   is equal to   which is equal to magnification m. A graph of   against l- d yields a straight line with a negative intercept and a slope equal to 1/f.    
+METHOD: 
+An object pin O, the lens L and a search pin S were placed on an optical bench. The pins were set in such a way that their tips lie approximately along the axis of the lens. The object pin O was positioned at a distance from the lens. The eye was placed behind the search pin S. The search pin was moved towards and away from the lens until it was in no parallax position with the image of the object pin. The distance between the search pin and the object pin O was measured. l- d was calculated . The experiment was repeated with four other values of the object distance d and in each case l-d and  were calculated. The results are then tabulated
+TABLE OF RESULTS
+Approximate focal length =14cm
+Least count of ruler = 0.1cm
+d(cm) | l(cm) | (l-d)(cm) | 
+20.0 | 71.4 | 51.4 | 2.57
+30.0 | 57.7 | 27.7 | 0.92
+40.0 | 62.5 | 22.5 | 0.56
+50.0 | 69.8 | 19.8 | 0.40
+70.0 | 88.0 | 18.0 | 0.26
+
+
+
+
+
+GRAPH:
+GRAPH OF AGAINST (l –d)(cm)
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+
+CALCULATIONS |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+Comparing the equation of the graph, y=0.069x –0.983, to m =  - 1, 
+the slope   1/f = 0.069                                                                                                                                    f = 1/0.069
+f = 14.49cm
+
+DISCUSSION
+From the calculations above, it can be seen that the value calculated for the focal length f, 14.49 which is the reciprocal of the slope is approximately equal to the approximate focal length of 14cm. Objects at infinity form images at the focal point. This implies that the experiment was well carried out. The slight difference could be due to the difficulty in getting the pins to be at no parallax position. Also the pins were not completely straight
+
+SOURCES OF ERROR: 
+Error may have been due the fact that the search pins were not completely straight.
+Error may also have been due to spherical and chromatic aberrations of the lens.
+
+
+PRECAUTIONS:
+It was ensured that the pins were in no parallax position
+It was ensured that the tips of the search pins were in line with the principal axis of the lens.
+
+CONCLUSION:
+ The slope of the graph was 0.069 and the focal length of the lens was calculated as 14.49cm.
+
+
+REFERENCES:
+Serway. R. A. & Faughn. J. S (1999), ‘College Physics’ Fifth Edition, Harcourt College Publishers, 6277 Sea Harbor Drive, Orlando. Page 771-773.
+ Asiedu P. & Baah-Yeboah A. H. (2004), ‘AKI-OLA SERIES PHYSICS’, Millennium Edition, AKI-OLA Publishers, Accra-Ghana. Page 273
+
+
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 

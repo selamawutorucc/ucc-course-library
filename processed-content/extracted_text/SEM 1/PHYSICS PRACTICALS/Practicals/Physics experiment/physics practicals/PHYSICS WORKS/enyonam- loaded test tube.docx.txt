@@ -1,0 +1,65 @@
+SM/SMS/08/0030
+DATE: 10/15/2008
+TITLE: Determination of density of a liquid using a loaded test-tube.
+AIM:  To determine the density of a liquid using a loaded test-tube.
+APPARATUS:  A wide test-tube fitted with a mm scale (e.g. by inserting a strip of mm graph paper, marked at cm intervals from the bottom inside it), a deep beaker, some sand, set of weights, vernier calipers, a liquid (water), vernier calipers.
+DIAGRAM
+THEORY
+Density can be defined as the mass of a substance per unit volume of the substance in kg/m3 or g/cm3.If the radius of the test-tube is r cm and the mean depth of immersion in cm per g is n (where n is the slope of the depth of immersion against additional load). Then the volume of liquid displaced by the addition of 1gramme to the test-tube =Πr2 n cm3. 
+If the density of the liquid is p gcm-3, then the weight of the liquid displaced =Πr2 n cm3.  Hence by Archimedes’ principle: πr2 n 
+p=1.Then the density of the liquid p=n gm cm-3
+METHOD 
+Sufficient sand was placed in a tube to make it float vertically in the liquid and the level (Xo) at which it floated was noted. Weights were placed in the tube and in each case the reading X of the scale against the liquid level was noted.  A graph of depth of immersion (d) = (x-x0) against additional load was drawn. The external radius of the test-tube was found by using calipers. Four readings were taken. The test tube was made to oscillate vertically for 10 oscillations. This was repeated four times. From the periodical time T the value of g acceleration due to gravity was found.
+ RESULTS
+Least count of scale on tube =0.2
+Least count of vernier calipers: 0.1cm
+Xo =10.2cm
+Least count of test tube reading=0.2cm
+1st radius,r1 = 3.10 cm
+2nd radius r2 =3.10cm
+3rd radius r3= 3.00 cm
+4th radius r4= 3.00cm
+TABLE OF RESULTS
+Average radius of test tube: 
+GRAPH
+ Figure 1: A graph of depth of immersion (d) in centimeters against mass in grams.
+CALCULATION:
+From the theory,
+The density of the liquid, =1/r2 n
+Slope, (n) =0.2cm/g
+            (n)   =1/0.2g/cm
+            (n)     =5g/cm
+    r = 3.05cm
+   Density,= 1/(0.305)2 (5).
+                =1/(0.47).
+                =0.68g/cm3.
+From the table of results, when x=11.2 cm, T= 0.67seconds.
+Using the relation T= 2√ (l /g);
+                 Where l, =x
+  Acceleration due to gravity g, = 42  l /T2
+                                              g= (42) (0.112) m/ (0.67)2 s2
+                                               g= 4.42 m/ 0.45s2.     
+                                               g= 9.82m/ s2
+DISCUSSION
+From the experiment, the density was found to be 0.68g/cm3 whereas the density of water is always 1g/cm3. This value obtained is nearly the same as the actual density of water as the liquid used in the experiment. The acceleration due to gravity was also found to be 9.67m/s2. The actual value of acceleration due to gravity is however 9.8m/s2. the difference in values of density and acceleration due to gravity was due to errors like external wind which affected the vertical oscillation, inaccurate reading taking from the vernier scale and expansion of the test tube as a result of heat transfer from handling.
+SOURCES OF ERROR:
+Error was due to wind that affected the vertical oscillations.
+Error was due to inaccurate readings taken from the vernier caliper
+Error as a result expansion of the test-tube due to heat transfer from handling. 
+PRECAUTION: 
+It was ensured that the test-tube did not touch the side of the beaker by placing it co-axially with the transparent vessel for accuracy.
+It was ensured that readings of x were taken in level with the meniscus of the water in the beaker.
+It was ensured that the sand was gently poured in the test tube to avoid spillage and in floatation in the liquid. 
+It was ensured that the depth of immersion h was repeated for each mass of lead shot.
+CONCLUSION:
+ From the experiment, the density of the water was found to be 0.68g/cm3. 
+REFERENCES 
+RAYMOND A.SERWAY, JERRY S.FAUGHN (2003); COLLEGE PHYSICS SIXTH (6TH) EDITION, PUBLISHED BY THOMSON LEARNING COMPANY, CANADA, PAGE 269-270.
+RAYMOND A SERWAY (1998), PRINCIPLES OF PHYSICS, SECOND (2ND) EDITION, HARCOURT COLLEGE PUBLISHERS, FORTH WORTH, U.S.A. PAGE 6.
+M.N. SRINIVASAN, S. BALASUBRAMANIAN: A TEXTBOOK OF PRACTICAL PHYSICS. 
+Weight | X/cm | d=(X - Xo) | t1/s | t2/s | t3/s | t4/s | tav  | T= t/10
+1 | 10.4 | 0.2 | 6.65 | 6.59 | 5.58 | 6.99 | 6.45 | 0.65
+2 | 10.6 | 0.4 | 6.62 | 6.55 | 6.49 | 6.23 | 6.47 | 0.65
+3 | 10.8 | 0.6 | 5.62 | 6.91 | 6.59 | 6.59 | 6.44 | 0.64
+4 | 11.0 | 0.8 | 6.53 | 6.53 | 5.99 | 5.99 | 6.38 | 0.64
+5 | 11.2 | 1.0 | 6.60 | 6.66 | 6.69 | 6.69 | 6.60 | 0.67

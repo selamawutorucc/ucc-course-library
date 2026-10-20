@@ -1,0 +1,42 @@
+
+--- PAGE 1 ---
+UNIVERSITY OF CAPE COAST
+DEPARTMENT OF MATHEMATICS
+MAT 101: ALGEBRA AND TRIGONOMETRY
+TUTORIAL SET 4.
+1.(a) Given that logba + logca = 2logbalogca, express a in terms of b
+and c.
+(b) Solve for x if log(x + 3) + logx = 1.
+2. Let log2x = k, show that log2x2 =
+1
+1+k.
+Hence or otherwise, solve the equation log2x8−3log22x+6 = 0.
+3.(a) Expand [1 + (1
+2x + x2)]4 by ascending powers of x up the term
+in x5.
+(b) Evaluate (1.0104)4 by putting x = 0.02 in the expansion in (a),
+correct to five decimal places.
+4.(a) Decompose the function f(x) =
+2x
+x2−4 into partial fraction.
+(b) Hence, find the expansion of f(x) as far as the term in x5.
+(c) Show that f(x) may be define as f(x) = −1
+2
+P∞
+r=0
+x2r+1
+4r .
+5.(a) Decompose the function g(x) =
+3+x
+(1+x)2 into partial fraction.
+(b) Expand
+1
+(1+x) and
+2
+(1+x)2.
+6.(a) Use the binomial theorem to expand (a
+3 −2b3)5
+(b) Show that xn+xn+2
+x+x3
+= xn−1.
+1

@@ -1,0 +1,5368 @@
+
+--- PAGE 1 ---
+615 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+35 
+The Nature of Light and 
+the Principles of Ray Optics 
+ 
+CHAPTER OUTLINE 
+ 
+35.1  
+The Nature of Light 
+35.2  
+Measurements of the Speed of Light 
+35.3  
+The Ray Approximation in Ray Optics 
+35.4  
+Analysis Model: Wave Under Reflection 
+35.5 
+Analysis Model: Wave Under Refraction 
+35.6 
+Huygens’s Principle 
+35.7  
+Dispersion 
+35.8 
+Total Internal Reflection 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ35.1 
+The ranking is answer e, c, b, a, d. We consider the quantity λ d : the 
+smaller it is, the better the ray approximation works. The quantity 
+λ d is about (a) 0.34 m/1 m ≈ 0.3, (b) 0.7 µm/2 mm ≈ 0.000 3, (c) 0.4 
+µm/2 mm ≈ 0.000 2, (d) 300 m/1 m ≈ 300, (e) 1 nm/1 mm ≈ 0.000 001. 
+OQ35.2 
+Answer (c). As light travels from one medium to another, both the 
+wavelength of the light and the index of refraction of the medium 
+will change, but the product λn is constant: λ2n2 = λairnair. In going 
+from air into a second medium of index n, according to Equation 
+25.6, n = λ λn = 495 nm 434 nm = 1.14.
+
+--- PAGE 2 ---
+616     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ35.3 
+Answer (b). In going from carbon disulfide (n1 = 1.63) to crown glass 
+(n2 = 1.52), the critical angle for total internal reflection is 
+ 
+ 
+θc = sin−1 n2
+n1
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.52
+1.63
+⎛
+⎝⎜
+⎞
+⎠⎟= 68.8° 
+OQ35.4 
+Answers (a), (b), and (c) are all correct statements. The frequency of a 
+wave does not change when it travels from one medium to another: 
+f1 = f2 →n1λ1 = n2λ2; also, Snell’s law of refraction states 
+n1 sinθ1 = n2 sinθ2. By their definitions, n = c v = c f λ and 
+sinθ = 1 cscθ. Thus, Snell’s law can take these alternate forms: 
+ 
+sinθ1
+v1
+= sinθ2
+v2
+→
+v1
+sinθ1
+=
+v2
+sinθ2
+→cscθ1
+n1
+= cscθ2
+n2
+→
+λ1
+sinθ1
+=
+λ2
+sinθ2
+ 
+ 
+Snell originally stated his law in terms of cosecants. 
+OQ35.5 
+Answer (e). The index of refraction of glass is greater than that of air, 
+which means the speed of light in glass is slower than in air (n = c/v). 
+The frequency does not change, but because the speed decreases, the 
+wavelength also decreases. 
+OQ35.6 
+Answer (b). When light is in water, the relationships between the 
+values of its speed and wavelength to the values of the same 
+quantities in air are nwater =
+c
+vwater
+→vwater =
+c
+nwater
+= 3
+4 c, and 
+nwaterλwater = nairλair →λwater =
+nair
+nwater
+⎛
+⎝⎜
+⎞
+⎠⎟λair ≈3
+4 λair.
+ 
+OQ35.7 
+Answer (c). Water has a greater index of refraction than air. In 
+passing from one of these media into the other, light will be refracted 
+(deviated in direction) unless the angle of incidence is zero (in which 
+case, the angle of refraction is also zero). Because the angle of 
+refraction can be zero only if the angle of incidence is zero, ray B 
+cannot be correct. In refraction, the incident ray and the refracted ray 
+are never on the same side of the line normal to the surface at the 
+point of contact, so ray A cannot be correct. Also in refraction, 
+n2 sinθ2 = n1 sinθ1; thus, if n2 > n1, then θ2 < θ1: the refracted ray 
+makes a smaller angle with the normal in the medium having the 
+higher index of refraction. Therefore, rays D and E cannot be correct, 
+leaving only ray C as a likely path. 
+OQ35.8 
+Answer (c). The time interval is 10
+4 m/(3 × 10
+8 m/s) = 33 µs. 
+OQ35.9 
+Answer (c). For any medium, other than vacuum, the index of 
+refraction for red light is slightly lower (closer to 1) than that for blue 
+light. This means that when light goes from vacuum (or air) into
+
+--- PAGE 3 ---
+Chapter 35     617 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+glass, the red light deviates from its original direction less than does 
+the blue light. Also, as the light reemerges from the glass into 
+vacuum (or air), the red light again deviates less than the blue light. 
+If the two surfaces of the glass are parallel to each other, the red and 
+blue rays will emerge traveling parallel to each other, but displaced 
+laterally from one another. The sketch that best illustrates this 
+process is C. 
+OQ35.10 
+For a wave to experience total internal reflection, it must be traveling 
+in the medium in which it moves slower, in which it has a greater 
+index of refraction. 
+ 
+(i) 
+Answer (a). Water has a greater index of refraction than air. 
+ 
+(ii) Answer (c). The sound travels slower in air than in water. 
+OQ35.11 
+Answer (c). Consider the sketch in ANS. 
+FIG. OQ35.11 and apply Snell’s law to the 
+refraction at each of the three surfaces. 
+Because the surfaces are parallel, the 
+resulting equations are 
+ 
+1.00
+(
+)sinθ = n1 sinα (Top surface) 
+ 
+n1 sinα = n2 sinβ 
+(Middle surface) 
+ 
+n2 sinβ = 1.00
+(
+)sinφ (Bottom surface) 
+ 
+These equations allow us to equate the left side of the first equation 
+with the right side of the last equation: 
+ 
+ 
+ 
+1.00
+(
+)sinθ = 1.00
+(
+)sinφ →φ = θ 
+OQ35.12 
+Color A travels slower in the glass of the prism. Light with the 
+greater change in speed will have the greater deviation in direction. 
+OQ35.13 
+Answer (c). We want a big difference between indices of refraction to 
+have total internal reflection under the widest range of conditions. 
+OQ35.14 
+Answer (a). In a dispersive medium, the index of refraction is largest 
+for the shortest wavelength. Thus, the violet light will be refracted (or 
+bent) the most as it passes through a surface of the crown glass. 
+OQ35.15 
+Answer (b). For a wave to experience total internal reflection, it must 
+be traveling in the medium in which it moves slower, in which it has 
+a greater index of refraction. A light ray, in attempting to go from a 
+medium with index of refraction n1 into a second medium with index 
+of refraction n2, will undergo total internal reflection if n2 < n1 and if 
+the ray strikes the surface at an angle of incidence greater than or 
+equal to the critical angle. 
+ANS. FIG. OQ35.11
+
+--- PAGE 4 ---
+618     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ35.1 
+The water level in a clear glass is observable because light is refracted 
+as it passes from air to water to air. The index of liquid helium is very 
+close to that of air, so very little refraction occurs as light travels from 
+air to helium to the air. 
+CQ35.2 
+At the altitude of the plane the surface of the Earth need not block off 
+the lower half of the rainbow. Thus, the full circle can be seen. You 
+can see such a rainbow by climbing on a stepladder above a garden 
+sprinkler in the middle of a sunny day. Set the sprinkler for fine mist. 
+Do not let the slippery children fall from the ladder. 
+CQ35.3 
+(a) 
+We assume that you and the child are 
+always standing close together. For a flat 
+wall to make an echo of a sound that you 
+make, you must be standing along a 
+normal to the wall. You must be on the 
+order of 100 m away, to make the transit 
+time sufficiently long that you can hear 
+the echo separately from the original 
+sound. Your sound must be loud enough 
+so that you can hear it even at this 
+considerable range. In ANS. FIG. 
+CQ35.3(a), the circle represents an area in 
+which you can be standing. The arrows 
+represent rays of sound. 
+ 
+(b) Now suppose two vertical perpendicular 
+walls form an inside corner that you can 
+see. Some of the sound you radiate 
+horizontally will be headed generally 
+toward the corner. It will reflect from 
+both walls with high efficiency to reverse 
+in direction and come back to you, as 
+shown in ANS. FIG. CQ35.3(b). You can 
+stand anywhere reasonably far away to 
+hear a retroreflected echo of sound you produce. 
+ 
+(c) 
+If the two walls are not perpendicular, the inside corner will not 
+produce retroreflection. You will generally hear no echo of your 
+shout or clap. 
+ 
+(d) If two perpendicular walls have a reasonably narrow gap 
+between them at the corner, you can still hear a clear echo. It is 
+not the corner line itself that retroreflects the sound, but the 
+perpendicular walls on both sides of the corner. [ANS. FIG. 
+CQ35.3(b) applies also in this case.] 
+ 
+ 
+ 
+ANS FIG. CQ35.3
+
+--- PAGE 5 ---
+Chapter 35     619 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+At some angles, sound will reflect from the first wall but not the 
+second; rather, it will pass into the breezeway, as shown in 
+ANS. FIG. CQ35.3(c), so there will be no echo. 
+CQ35.4 
+The stealth fighter is designed so that adjacent panels are not joined 
+at right angles, to prevent any retroreflection of radar signals. This 
+means that radar signals directed at the fighter will not be channeled 
+back toward the detector by reflection. Just as with sound, radar 
+signals can be treated as diverging rays, so that any ray that is by 
+chance reflected back to the detector will be too weak in intensity to 
+distinguish from background noise. 
+CQ35.5 
+“Immediately around the dark shadow of my head, I see a halo 
+brighter than the rest of the dewy grass.” It is called the heiligenschein. 
+Cellini believed that it was a miraculous sign of divine favor 
+pertaining to him alone. Apparently none of the people to whom he 
+showed it told him that they could see halos around their own 
+shadows but not around Cellini’s. Thoreau knew that each person 
+had his own halo. He did not draw any ray diagrams but assumed 
+that it was entirely natural. Between Cellini’s time and Thoreau’s, the 
+Enlightenment and Newton’s explanation of the rainbow had 
+happened. Today the effect is easy to see whenever your shadow 
+falls on a retroreflecting traffic sign, license plate, or road stripe. 
+When a bicyclist’s shadow falls on a paint stripe marking the edge of 
+the road, her halo races along with her. 
+CQ35.6 
+An echo is an example of the reflection of sound. Hearing the noise 
+of a distant highway on a cold morning, when you cannot hear it 
+after the ground warms up, is an example of acoustical refraction. 
+You can use a rubber inner tube (or balloon of the same shape) 
+inflated with helium as an acoustical lens to concentrate sound in the 
+way a lens can focus light: the speed of sound is greater in helium, so 
+wavefronts passing through the helium speed ahead of wavefronts 
+passing through the air in the doughnut hole of the tube, so that the 
+overall shape of the wavefronts changes from plane to concave, 
+resulting in a focusing of the wave. At your next party, see if you can 
+experimentally find the approximate focal point! 
+CQ35.7 
+Highly silvered mirrors reflect about 98% of the incident light. With a 
+2-mirror periscope, that results in approximately a 4% decrease in 
+intensity of light as the light passes through the periscope. This may 
+not seem like much, but in low-light conditions, that lost light may 
+mean the difference between being able to distinguish an enemy 
+armada or an iceberg from the sky beyond. Using prisms results in 
+total internal reflection, meaning that 100% of the incident light is 
+reflected through the periscope. That is the “total” in total internal 
+reflection.
+
+--- PAGE 6 ---
+620     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ35.8 
+Diamond has higher index of refraction than glass and consequently 
+a smaller critical angle for total internal reflection. A brilliant-cut 
+diamond is shaped to admit light from above, reflect it totally at the 
+converging facets on the underside of the jewel, and let the light 
+escape only at the top. Glass will have less light internally reflected. 
+CQ35.9 
+If a laser beam enters a sugar solution with a concentration gradient 
+(density and index of refraction increasing with depth), then the laser 
+beam will be progressively bent downward (toward the normal) as it 
+passes into regions of greater index of refraction. 
+CQ35.10 
+With a vertical shop window, streetlights and his own reflection can 
+impede the window shopper’s clear view of the display. The tilted 
+shop window can put these reflections out of the way. Windows of 
+airport control towers are also tilted like this, as are automobile 
+windshields. 
+ 
+       
+ 
+ 
+ANS. FIG. CQ35.10 
+CQ35.11 
+(a) 
+Light from the lamps along the edges of the sheet enters the 
+plastic, and then the front and back faces of the plastic totally 
+internally reflect it, wherever the plastic has an interface with air. 
+If the refractive index of the grease is intermediate between 1.55 
+and 1.00, some of this light can leave the plastic into the grease 
+and leave the grease into the air. The surface of the grease is 
+rough, so the grease can send out light in all directions. The 
+customer sees the grease shining against a black background. 
+ 
+(b) The spotlight method of producing the same effect is much less 
+efficient. With it, the blackboard absorbs much of the light from 
+the spotlight. 
+ 
+(c) 
+The refractive index of the grease must be less than 1.55. 
+Perhaps the best choice would be 
+1.55 × 1.00 = 1.24. 
+CQ35.12 
+A mirage occurs when light changes direction as it moves between 
+batches of air having different indices of refraction because they 
+have different densities at different temperatures. When the sun 
+makes a blacktop road hot, an apparent wet spot is bright due to 
+refraction of light from the bright sky. The light, originally headed a 
+little below the horizontal, always bends up as it first enters and then 
+leaves sequentially hotter, lower-density, lower-index layers of air 
+closer to the road surface.
+
+--- PAGE 7 ---
+Chapter 35     621 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ35.13 
+Light rays coming from parts of the pencil under water are bent 
+away from the normal as they emerge into the air above. The rays 
+enter the eye (or camera) at angles closer to the horizontal, thus the 
+parts of the pencil under water appear closer to the surface than they 
+actually are, so the pencil appears bent. See CQ35.16 for an 
+illustration of a related effect. 
+CQ35.14 
+No. The speed of light v in any medium except vacuum is less than 
+the speed of light c in vacuum. By definition, the index of refraction  
+n = c/v, thus the index of any material medium is always greater 
+than 1. A material with an index less than 1 is impossible. 
+CQ35.15 
+Light travels through a vacuum at a speed of 300 000 km per second. 
+Thus, an image we see from a distant star or galaxy must have been 
+generated some time ago. For example, the star Altair is 16 light-
+years away; if we look at an image of Altair today, we know only 
+what was happening 16 years ago. This may not initially seem 
+significant, but astronomers who look at other galaxies can gain an 
+idea of what galaxies looked like when they were significantly 
+younger. Thus, it actually makes sense to speak of “looking 
+backward in time.” 
+CQ35.16 
+With no water in the cup, light rays from the coin do not reach the 
+eye because they are blocked by the side of the cup. With water in 
+the cup, light rays are bent away from the normal as they leave the 
+water so that some reach the eye. 
+ 
+ 
+ 
+ 
+ 
+  
+ANS. FIG. CQ35.16(a) 
+ANS. FIG. CQ35.16(b) 
+ 
+ 
+ 
+In ANS. FIG. CQ35.16(a), ray a is blocked by the side of the cup so it 
+cannot enter the eye, and ray b misses the eye. In ANS. FIG. 
+CQ35.16(b), ray a is still blocked by the side of the cup, but ray b 
+refracts at the water’s surface so that it reaches the eye. Ray b seems 
+to come from position B, directly above the coin at position A. 
+CQ35.17 
+(a) 
+Scattered light rays leave the center of the photograph, shown 
+in ANS. FIG. CQ35.17(a), in all horizontal directions between θ1 = 0° 
+and 90° from the normal. When the light rays immediately enter the
+
+--- PAGE 8 ---
+622     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+water they are gathered into a fan, 
+shown in ANS. FIG. CQ35.17(b), 
+between 0° and θ2 max given by 
+ 
+ 
+n1 sinθ1 = n2 sinθ2
+1.00sin90 = 1.333sinθ2 max
+θ2 max = 48.6°
+ 
+ 
+The light rays leave the cylinder 
+without deviation because they travel 
+along the normal everywhere they 
+strike the surface of the glass, so the 
+viewer only receives light from the 
+center of the photograph when he has 
+turned by an angle less than 48.6°. 
+ 
+(b) When the paperweight is turned farther, light at the back 
+surface undergoes total internal reflection, shown in ANS. FIG. 
+CQ35.17(c). The viewer sees things outside the globe on the far side. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 35.1 
+The Nature of Light 
+Section 35.2 
+Measurements of the Speed of Light 
+*P35.1 
+We find the energy of the photons from Equation 35.1, E = hf. 
+ 
+(a) 
+E = hf = 6.63 × 10−34 J⋅s
+(
+) 5.00 × 1017 Hz
+(
+)
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.07 × 103 eV = 2.07 keV
+ 
+ 
+(b) 
+E = hf = hc
+λ
+= 6.63 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+3.00 × 102 nm
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.14 eV
+ 
+P35.2 
+(a) 
+The Moon’s radius is 1.74 × 10
+6 m and the Earth’s radius is 6.37 × 
+10
+6 m. The total distance traveled by the light is: 
+ 
+ 
+ 
+d = 2 3.84 × 108 m −1.74 × 106 m −6.37 × 106 m
+(
+)
+= 7.52 × 108 m
+ 
+ 
+ 
+ 
+ANS. FIG. CQ35.17
+
+--- PAGE 9 ---
+Chapter 35     623 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This takes 2.51 s, so  
+ 
+ 
+ 
+v = 7.52 × 108 m
+2.51 s
+= 3.00 × 108 m/s 
+ 
+(b) The sizes of the objects need to be taken into account. Otherwise 
+the answer would be too large by 2%. 
+P35.3 
+The experiment is most convincing if the wheel turns fast enough to 
+pass outgoing light through one notch and returning light through the 
+next. This requires Δt = 2
+c , or  
+ 
+ 
+θ = ω Δt = ω
+2
+c
+⎛
+⎝⎜
+⎞
+⎠⎟    
+ 
+so    
+ω = cθ
+2=
+2.998 × 108 m/s
+(
+) 2π
+720
+(
+)
+[
+]
+2 11.45 × 103 m
+(
+)
+= 114 rad/s 
+ 
+The returning light would be blocked by a tooth at one-half the 
+angular speed, giving another data point. 
+P35.4 
+The difference is due to the extra time light takes to cross Earth’s orbit. 
+From Δx = cΔt, we have 
+ 
+ 
+c = Δx
+Δt =
+2 1.50 × 108 km
+(
+) 1000 m/km
+(
+)
+22.0 min
+(
+) 60.0 s/min
+(
+)
+= 2.27 × 108 m/s 
+ 
+ 
+ 
+Section 35.3 
+The Ray Approximation in Ray Optics 
+Section 35.4 
+Analysis Model: Wave Under Reflection 
+Section 35.5 
+Analysis Model: Wave Under Refraction 
+P35.5 
+(a) 
+f = c
+λ = 3.00 × 108 m/s
+6.328 × 10−7 m = 4.74 × 1014 Hz 
+ 
+(b) 
+λglass = λair
+n = 632.8 nm
+1.50
+= 422 nm 
+ 
+(c) 
+vglass = cair
+n = 3.00 × 108 m/s
+1.50
+= 2.00 × 108 m/s 
+P35.6 
+Refracted light enters the diver’s eyes. The angle of refraction θ2 is 
+45.0°. From Snell’s law, 
+ 
+ 
+ 
+n1 sinθ1 = n2 sinθ2
+
+--- PAGE 10 ---
+624     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving, 
+ 
+ 
+θ1 = sin−1 1.333sin 45.0°
+(
+)
+= 70.5° from the vertical →19.5° above the horizon
+ 
+ 
+ANS. FIG. P35.6 
+P35.7 
+We find the angle of incidence from Snell’s law, n1 sinθ1 = n2 sinθ2. 
+Solving, 
+ 
+ 
+1.333sinθ1 = 1.52sin19.6°    →    θ1 = 22.5° 
+ 
+The angle of reflection of the beam in water is then also 22.5° . 
+P35.8 
+(a) 
+The dashed lines are parallel, and alternate interior angles are 
+equal between parallel lines, so the angle of refraction law at the 
+air-oil interface is 20.0°. Applying Snell’s law, 
+ 
+ 
+ 
+nair sinθ = noil sinα
+1.00sinθ = 1.48sin20.0° 
+ 
+ 
+yields 
+θ = 30.4° . 
+ 
+(b) The angle of incidence α = 20.0°. Applying 
+Snell’s law at the oil-water interface, 
+ 
+ 
+ 
+nwater sin ′
+θ = noil sinα
+1.33sin ′
+θ = 1.48sin20.0° 
+ 
+ 
+yields 
+′
+θ = 22.3° . 
+P35.9 
+(a) 
+flint glass: v = c
+n = 3.00 × 108 m/s
+1.66
+= 1.81× 108 m/s 
+ 
+(b) water: v = c
+n = 3.00 × 108 m/s
+1.333
+= 2.25 × 108 m/s 
+ 
+(c) 
+cubic zirconia: v = c
+n = 3.00 × 108 m/s
+2.20
+= 1.36 × 108 m/s 
+ANS. FIG. P35.8
+
+--- PAGE 11 ---
+Chapter 35     625 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.10 
+(a) 
+Let AB be the originally horizontal 
+ceiling, BC its originally vertical normal, 
+AD the new ceiling, and DE its normal. 
+Then angle BAD = φ. By definition DE is 
+perpendicular to AD and BC is 
+perpendicular to AB. Then the angle 
+between DE extended and BC is φ 
+because angles are equal when their sides 
+are perpendicular, right side to right side 
+and left side to left side. 
+ 
+(b) Now CBE = φ is the angle of incidence of 
+the vertical light beam. Its angle of 
+reflection is also φ. The angle between the 
+vertical incident beam and the reflected beam is 2φ. 
+ 
+(c) 
+tan2φ = 1.40 cm
+720 cm = 0.001 94    φ = 0.055 7° 
+P35.11 
+From Snell’s law, n2 sinθ2 = n1 sinθ1. Thus, when θ1 = 45.0° and the 
+first medium is air (n1 = 1.00), we have sinθ2 = 1.00
+(
+)sin 45.0° n2 . 
+ 
+(a) 
+For quartz, n2 = 1.458:
+ 
+θ2 = sin−1
+1.00
+(
+)sin 45.0°
+1.458
+⎛
+⎝⎜
+⎞
+⎠⎟= 29.0° 
+ 
+(b) For carbon disulfide, n2 = 1.628:
+ 
+θ2 = sin−1
+1.00
+(
+)sin 45.0°
+1.628
+⎛
+⎝⎜
+⎞
+⎠⎟= 25.7° 
+ 
+(c) 
+For water, n2 = 1.333:
+ 
+θ2 = sin−1
+1.00
+(
+)sin 45.0°
+1.333
+⎛
+⎝⎜
+⎞
+⎠⎟= 32.0° 
+P35.12 
+At entry, the wave under refraction model, expressed as  
+n1 sinθ1 = n2 sinθ2 , gives 
+ 
+ 
+θ2 = sin−1 n1 sinθ1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.000sin30.0°
+1.50
+⎛
+⎝⎜
+⎞
+⎠⎟= 19.5°
+ 
+ 
+ 
+To do ray optics, you must remember some  
+geometry. The surfaces of entry and exit are  
+parallel so their normals are parallel. Then angle  
+θ2 of refraction at entry and the angle θ3 of  
+incidence at exit are alternate interior angles  
+formed by the ray as a transversal cutting  
+ 
+ANS. FIG. P35.10(a) 
+ 
+ANS. FIG. P35.10(b) 
+ANS. FIG. P35.12
+
+--- PAGE 12 ---
+626     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+parallel lines. Therefore, θ3 = θ2 = 19.5° . 
+ 
+ 
+At the exit point, n2 sinθ3 = n1 sinθ4 gives  
+ 
+ 
+θ4 = sin−1 n2 sinθ3
+n1
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.50sin19.5°
+1.000
+⎛
+⎝⎜
+⎞
+⎠⎟= 30.0°
+ 
+ 
+Because θ1 and θ4 are equal, the departing ray in air is parallel to the 
+original ray. 
+P35.13 
+Taking Φ to be the apex angle and δmin to  
+be the angle of minimum deviation (See  
+ANS. FIG. P35.13), from Equation 35.9, the  
+index of refraction of the prism material is 
+ 
+ 
+n =
+sin
+Φ + δmin
+(
+) 2
+⎡⎣
+⎤⎦
+sin Φ 2
+(
+)
+ 
+ 
+Solving for δmin , 
+ 
+ 
+δ min = 2sin−1 nsin Φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−Φ
+= 2sin−1
+2.20
+(
+)sin 25.0°
+(
+)
+[
+]−50.0°
+= 86.8°
+ 
+P35.14 
+(a) 
+The law of refraction n1 sinθ1 = n2 sinθ2  
+can be put into the more general form 
+ 
+ 
+ 
+c
+v1
+sinθ1 = c
+v2
+sinθ2
+sinθ1
+v1
+= sinθ2
+v2
+ 
+ 
+ 
+This is equivalent to Equation 35.3. This form applies to all kinds 
+of waves that move through space. 
+ 
+ 
+In air at 20°C, the speed of sound is 343 m/s. From Table 17.1, the 
+speed of sound in water at 25.0°C is 1493 m/s. The angle of 
+incidence is 13.0°: 
+ 
+ 
+ 
+sin13.0°
+343 m/s =
+sinθ2
+1 493 m/s
+θ2 = 78.3°
+ 
+Φ
+2
+Φ
+2
+θ1
+θ1
+θ2
+θ2
+δmin
+α
+α
+ANS. FIG. P35.13 
+ANS. FIG. P35.14
+
+--- PAGE 13 ---
+Chapter 35     627 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The wave keeps constant frequency in all media: 
+ 
+ 
+ 
+f = v1
+λ1
+= v2
+λ2
+λ2 = v2λ1
+v1
+= 1 493 m/s 0.589 m
+(
+)
+343 m/s
+= 2.56 m
+ 
+ 
+(c) 
+Using Snell’s law, 
+ 
+ 
+ 
+n2 sinθ2 = n1 sinθ1
+1.333sinθ2 = 1.000 293sin13.0°
+θ2 = 9.72°
+ 
+ 
+(d) 
+λ2 = v2λ1
+v1
+= n1λ1
+n2
+= 1.000 293 589 nm
+(
+)
+1.333
+= 442 nm 
+ 
+(e) 
+The light wave slows down as it moves from air to water, but
+the sound wave speeds up by a large factor. The light wave
+bends toward the normal and its wavelength shortens, but the
+sound wave bends away from the normal and its wavelength
+increases.
+ 
+*P35.15 
+From the wave under refraction model, n1 sinθ1 = n2 sinθ2, we solve for 
+the index of refraction n2 in the substance: 
+ 
+ 
+ 
+n2 = 1.333sin37.0°
+sin25.0°
+= 1.90
+ 
+ 
+Then, from the definition of index of refraction, 
+ 
+ 
+ 
+n2 = 1.90 = c
+v :      v =
+c
+1.90 = 1.58 × 108 m/s = 158 Mm/s
+ 
+*P35.16 
+(a) 
+n1 sinθ1 = n2 sinθ2 
+ 
+ 
+1.00sin30.0° = nsin19.24°
+n = 1.52
+ 
+ 
+(c) 
+f = c
+λ = 3.00 × 108 m s
+6.328 × 10−7 m =
+4.74 × 1014 Hz in air and in syrup. 
+ 
+(d) 
+v = c
+n = 3.00 × 108 m s
+1.52
+= 1.98 × 108 m s = 198 Mm s 
+ 
+(b) 
+λ = v
+f = 1.98 × 108 m s
+4.74 × 1014 s−1 =
+417 nm
+
+--- PAGE 14 ---
+628     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P35.17 
+(a) 
+The angle of incidence at the first surface is θ1i = 30.0° , and the 
+angle of refraction is 
+ 
+ 
+ 
+θ1r = sin−1 nair sinθ1i
+nglass
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.0sin30°
+1.5
+⎛
+⎝⎜
+⎞
+⎠⎟= 19° 
+ 
+ 
+Also, α = 90° −θ1r = 71° and β = 180° −60° −α = 49°.  
+ 
+ 
+Therefore, the angle of incidence at the second surface is 
+θ2i = 90° −β = 41° .  The angle of refraction at this surface is 
+ 
+ 
+ 
+θ2r = sin−1 nglass sinθ2i
+nair
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.5sin 41°
+1.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 77°
+ 
+ 
+ 
+ANS. FIG. P35.17 traces the path of the ray of light.  
+ 
+ANS. FIG. P35.17 
+ 
+(b) The angle of reflection at each surface equals the angle of 
+incidence at that surface. Thus, 
+ 
+ 
+ 
+θ1
+( )reflection = θ1i = 30° , and θ1
+( )reflection = θ2i = 41°  
+*P35.18 
+ANS. FIG. P35.18 shows the path of the light ray. α and γ are angles 
+of incidence at mirrors 1 and 2. 
+ 
+ANS. FIG. P35.18 
+ 
+For triangle abca, 
+ 
+ 
+ 
+2α + 2γ + β = 180°
+
+--- PAGE 15 ---
+Chapter 35     629 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+β = 180° −2 α + γ
+(
+). 
+[1] 
+ 
+Now for triangle bcdb, 
+ 
+ 
+ 
+90.0° −α
+(
+) + 90.0° −γ
+(
+)+θ = 180° 
+ 
+or 
+ 
+θ = α + γ . 
+[2] 
+ 
+Substituting equation [2] into equation [1] gives β = 180° −2θ . 
+ 
+Note: From equation [2], γ = θ −α. Thus, the ray will follow a path like 
+that shown only if α < θ. For α > θ, γ is negative and multiple 
+reflections from each mirror will occur before the incident and 
+reflected rays intersect. 
+*P35.19 
+Consider glass with an index of refraction of 1.50, which is 3.00 mm 
+thick. The speed of light in the glass is 
+ 
+ 
+ 
+3.00 × 108 m s
+1.50
+= 2.00 × 108 m s
+ 
+ 
+The extra travel time is  
+ 
+ 
+ 
+3.00 × 10−3 m
+2.00 × 108 m s −3.00 × 10−3 m
+3.00 × 108 m s ~ 10−11 s
+ 
+ 
+For light of wavelength 600 nm in vacuum and wavelength 
+600 nm
+1.50
+= 400 nm in glass, the extra optical path, in wavelengths, is 
+ 
+ 
+ 
+3 × 10−3 m
+4 × 10−7 m −3 × 10−3 m
+6 × 10−7 m ~ 103 wavelengths
+ 
+P35.20 
+(a) 
+Method One: 
+ 
+ 
+The incident ray makes angle α = 90° −θ1 
+with the first mirror. In ANS. FIG. P35.20, 
+the law of reflection implies that θ1 = ′
+θ1 
+ 
+ 
+Then,  
+ 
+ 
+ 
+β = 90° −′
+θ1 = 90 −θ1 = α. 
+ 
+ 
+In the triangle made by the mirrors and the ray passing between 
+them, 
+ 
+ 
+ 
+β + 90° + γ = 180°
+γ = 90° −β
+ 
+ 
+ 
+Further, 
+δ = 90° −γ = β = α 
+ 
+ 
+and ∈ = δ = α. 
+ANS. FIG. P35.20
+
+--- PAGE 16 ---
+630     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus the final ray makes the same angle with the first mirror as 
+did the incident ray. Its direction is opposite to the incident ray. 
+ 
+ 
+Method Two: 
+ 
+ 
+The vector velocity of the incident light has a component vy 
+perpendicular to the first mirror and a component vx 
+perpendicular to the second. The vy component is reversed upon 
+the first reflection, which leaves vx unchanged. The second 
+reflection reverses vx and leaves vy unchanged. The doubly 
+reflected ray then has velocity opposite to the incident ray. 
+ 
+(b) 
+The incident ray has velocity vxˆi + vyˆj + vz ˆk. If all of these
+components are non-zero, the light will reflect from each mirror
+because each component carries the light into the mirror that is
+perpendicular to that component: for example, the x component
+of velocity carries the light into the mirror in the yz plane. Each
+reflection reverses one component and leaves the other two
+unchanged. After all the reflections, the light has velocity
+−vxˆi −vyˆj −vz ˆk, opposite to the incident ray.
+ 
+P35.21 
+(a) 
+From geometry, 
+ 
+ 
+ 
+ 
+1.25 m = d sin 40.0° 
+ 
+ 
+so 
+d = 1.94 m . 
+ 
+(b) 
+50.0° above the horizontal 
+ 
+ 
+or parallel to the incident 
+ray. 
+ 
+P35.22 
+(a) 
+At entry, 
+n1 sinθ1 = n2 sinθ2, 
+ 
+ 
+or 
+1.00sin30.0° = 1.50sinθ2, 
+ 
+ 
+which gives θ2 = 19.5°. 
+ 
+ 
+The distance h the light travels in the medium is given by 
+ 
+ 
+ 
+cosθ2 = 2.00 cm
+h
+ 
+ 
+ 
+or 
+h = 2.00 cm
+cos19.5° = 2.12 cm. 
+ANS. FIG. P35.21
+
+--- PAGE 17 ---
+Chapter 35     631 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The angle of deviation upon entry is 
+ 
+ 
+ 
+α = θ1 −θ2 = 30.0° −19.5° = 10.5° 
+ 
+ 
+The offset distance comes from sinα = d
+h:   
+d = 2.12 cm
+(
+)sin10.5° = 0.387 cm 
+ 
+ANS. FIG. P35.22 
+ 
+(b) The speed of light in the material is 
+ 
+ 
+ 
+v = c
+n = 3.00 × 108 m/s
+1.50
+= 2.00 × 108 m/s 
+ 
+ 
+The distance h traveled by the light is h = 2.12 cm. The time 
+interval is 
+ 
+ 
+ 
+Δt = h
+v = 2.12 × 10−2 m
+2.00 × 108 m/s = 1.06 × 10−10 s = 106 ps
+ 
+P35.23 
+From Table 35.1, the index of refraction of ice is 1.309. The pulses are in 
+step with each other until one enters the ice, then that pulse slows 
+down. The difference in the times of arrival of the pulses is 
+ 
+ 
+Δt = L
+vice
+−L
+vair
+=
+L
+c nice
+−
+L
+c nair
+= nice −nair
+(
+) L
+c
+Δt = 1.309 −1.000
+(
+)
+6.20 m
+3.00 × 108 m/s = 6.39 × 10−9 s = 6.39 ns
+ 
+P35.24 
+Refraction proceeds according to      
+ 
+ 
+1.00
+(
+)sinθ1 = 1.66
+(
+)sinθ2 
+[1] 
+ 
+(a) 
+For the normal component of velocity to be constant, 
+ 
+ 
+ 
+v1 cosθ1 = v2 cosθ2    or    c( )cosθ1 =
+c
+1.66
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ2 
+[2] 
+ 
+ 
+We multiply equations [1] and [2], obtaining: 
+ 
+ 
+ 
+sinθ1 cosθ1 = sinθ2 cosθ2    or    sin2θ1 = sin2θ2
+
+--- PAGE 18 ---
+632     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We do not consider the case θ1 = 0 . The physical solution is 
+ 
+ 
+ 
+2θ1 = 180° −2θ2    or    θ2 = 90.0° −θ1 
+ 
+ 
+Then equation [1] becomes: 
+ 
+ 
+ 
+sinθ1 = 1.66cosθ1
+tanθ1 = 1.66
+θ1 = 58.9°
+ 
+ 
+ 
+Yes, if the angle of incidence is 58.9°. 
+ 
+(b) 
+No. Both the reduction in speed and the bending toward
+the normal reduce the component of velocity parallel to 
+the interface. This component cannot remain constant for 
+a nonzero angle of incidence.
+ 
+P35.25 
+(a) 
+As measured from the diagram, the incidence angle is 60°, and 
+the refraction angle is 35°. From Snell’s law, sinθ2
+sinθ1
+= n1
+n2
+= v2
+v1
+, then 
+sin35°
+sin60° = v2
+c
+ and the speed of light in the block is 2.0 × 108 m/s . 
+ 
+(b) The frequency of the light does not change upon refraction. 
+Knowing the wavelength in a vacuum, we can use the speed of 
+light in a vacuum to determine the frequency: c = fλ, thus 
+3.00 × 108 = f 632.8 × 10−9
+(
+), so the frequency is 4.74 × 1014 Hz . 
+ 
+(c) 
+To find the wavelength of light in the block, we use the same 
+wave speed relation, v = fλ, so 2.0 × 108 = 4.74 × 1014
+(
+)λ, so  
+λglass = 4.20 × 10−7 =
+420 nm . 
+P35.26 
+From Snell’s law, the angle of refraction θ inside the liver is 
+ 
+ 
+ 
+sinθ =
+nmedium
+nliver
+⎛
+⎝⎜
+⎞
+⎠⎟sin50.0° 
+ 
+But    
+nmedium
+nliver
+= c vmedium
+c vliver
+=
+vliver
+vmedium
+= 0.900, 
+ 
+so 
+ 
+θ = sin−1
+0.900
+(
+)sin50.0°
+[
+] = 43.6°. 
+ 
+From the law of reflection, 
+ 
+ 
+ 
+d = 12.0 cm
+2
+= 6.00 cm
+
+--- PAGE 19 ---
+Chapter 35     633 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and    
+h =
+d
+tanθ = 6.00 cm
+tan 43.6° = 6.30 cm . 
+ 
+ANS. FIG. P35.26 
+P35.27 
+The refracted sunlight does not illuminate 
+any part of the bottom when it strikes its far 
+inside edge: 
+ 
+ 
+sinθ1 = nw sinθ2 
+ 
+ 
+sinθ2 =
+1
+1.333 sinθ1
+=
+1
+1.333 sin 90.0° −28.0°
+(
+) = 0.662
+ 
+ 
+ 
+θ2 = sin−1 0.662
+(
+) = 41.5°
+h =
+d
+tanθ2
+= 3.00 m
+tan 41.5° = 3.39 m
+ 
+P35.28 
+Note for use in every part (refer to ANS. FIG. P35.28): from apex angle Φ , 
+ 
+ 
+ 
+Φ + 90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) = 180° 
+ 
+so 
+ 
+θ3 = Φ −θ2 
+ 
+At the first surface the deviation is   
+ 
+ 
+ 
+α = θ1 −θ2 
+ 
+At exit, the deviation is     
+ 
+ 
+ 
+β = θ4 −θ3 
+ 
+The total deviation is therefore    
+ 
+ 
+ 
+δ = α + β = θ1 +θ4 −θ2 −θ3 = θ1 +θ4 −Φ 
+ 
+(a) 
+At entry,     
+ 
+ 
+ 
+n1 sinθ1 = n2 sinθ2    or    θ2 = sin−1 sin 48.6°
+1.50
+⎛
+⎝⎜
+⎞
+⎠⎟= 30.0° 
+ANS. FIG. P35.27 
+ 
+ANS. FIG. P35.28
+
+--- PAGE 20 ---
+634     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, θ3 = 60.0° −30.0° = 30.0° 
+ 
+ 
+At exit, 
+ 
+ 
+ 
+1.50sin30.0° = 1.00sinθ4   
+ 
+ 
+or   θ4 = sin−1 1.50sin 30.0°
+(
+)
+[
+] = 48.6° 
+ 
+ 
+so the path through the prism is symmetric when θ1 = 48.6°. 
+ 
+(b) 
+δ = 48.6° + 48.6° −60.0° = 37.2° 
+ 
+(c) 
+At entry, 
+ 
+ 
+ 
+sinθ2 = sin 45.6°
+1.50
+⇒θ2 = 28.4° 
+ 
+ 
+ 
+θ3 = 60.0° −28.4° = 31.6° 
+ 
+ 
+At exit, 
+ 
+ 
+ 
+sinθ4 = 1.50sin 31.6°
+(
+) ⇒θ4 = 51.7° 
+ 
+ 
+ 
+δ = 45.6° + 51.7° −60.0° = 37.3° 
+ 
+(d) At entry, 
+ 
+ 
+ 
+sinθ2 = sin51.6°
+1.50
+⇒θ2 = 31.5° 
+ 
+ 
+ 
+θ3 = 60.0° −31.5° = 28.5° 
+ 
+ 
+At exit, 
+ 
+ 
+ 
+ 
+sinθ4 = 1.50sin 28.5°
+(
+) ⇒θ4 = 45.7° 
+ 
+ 
+ 
+δ = 51.6° + 45.7° −60.0° = 37.3° 
+P35.29 
+The index of refraction at 700 nm is n(700 nm) = 1.458. 
+ 
+(a) 
+1.00
+(
+)sin75.0° = 1.458sinθ2 ; θ2 = 41.5° 
+ 
+(b) Refer to ANS. FIG. P35.29. Let     
+ 
+ 
+ 
+θ3 + β = 90.0° and θ2 + α = 90.0° 
+ 
+ 
+then, 
+ 
+ 
+ 
+α + β + 60.0° = 180°
+
+--- PAGE 21 ---
+Chapter 35     635 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+So 
+ 
+ 
+ 
+α + β + 60.0° = 180°
+90.0° −θ2
+(
+)+ 90.0° −θ3
+(
+)+ 60.0° = 180°
+60.0° −θ2 −θ3 = 0 ⇒60.0° −41.5° = θ3 = 18.5°
+ 
+ 
+(c) 
+1.458sin18.5° = 1.00sinθ4
+→
+θ4 = 27.6° 
+ 
+(d) 
+γ = θ1 −θ2
+(
+) + θ4 −θ3
+(
+) 
+ 
+ 
+γ = 75.0° −41.5°
+(
+) + 27.6° −18.5°
+(
+) = 42.6° 
+ 
+ANS. FIG. P35.29 
+P35.30 
+The index of refraction of the atmosphere decreases with increasing
+altitude because of the decrease in density of the atmosphere with
+increasing altitude. As indicated in the ray diagram, the sun located
+at S below the horizon appears to be located at ′S .
+ 
+ 
+ANS. FIG. P35.30 
+P35.31 
+For sheets 1 and 2 as described, 
+ 
+ 
+ 
+n1 sin26.5° = n2 sin31.7°
+0.849n1 = n2
+
+--- PAGE 22 ---
+636     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the trial with sheets 3 and 2, 
+ 
+ 
+ 
+n3 sin26.5° = n2 sin36.7°
+0.747n3 = n2
+ 
+ 
+Equate the two expressions for n2: 
+ 
+ 
+ 
+0.747n3 = 0.849n1
+n3 = 1.14n1
+ 
+ 
+For the third trial, 
+ 
+ 
+ 
+n1 sin26.5° = n3 sinθ3 = 1.14n1 sinθ3
+θ3 = 23.1°
+ 
+P35.32 
+(a) 
+Before the container is filled, the  
+ray’s path is as shown in ANS.  
+FIG. P35.32(a). From this figure,  
+observe that 
+ 
+ 
+ 
+sinθ1 = d
+s1
+=
+d
+h2 + d2
+=
+1
+h d
+(
+)
+2 + 1
+ 
+ 
+ 
+After the container is filled, the  
+ray’s path is shown in ANS. FIG.  
+P35.32(b). From this figure, we find  
+that 
+ 
+ 
+ 
+sinθ2 = d 2
+s2
+=
+d 2
+h2 + d 2
+(
+)
+2
+=
+1
+4 h d
+(
+)
+2 + 1
+ 
+ 
+ 
+From Snell’s law, we have 
+ 
+ 
+ 
+1.00sinθ1 = nsinθ2
+1.00
+h d
+(
+)
+2 + 1
+=
+n
+4 h d
+(
+)
+2 + 1
+4 h d
+(
+)
+2 + 1 = n2 h d
+(
+)
+2 + n2
+h d
+(
+)
+2 4 −n2
+(
+) = n2 −1 →h
+d =
+n2 −1
+4 −n2
+ 
+ANS. FIG. P35.32(a) 
+ANS. FIG. P35.32(b)
+
+--- PAGE 23 ---
+Chapter 35     637 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For water, n = 1.333. 
+ 
+ 
+ 
+h
+d =
+n2 −1
+4 −n2
+h
+8.00 cm =
+1.333
+(
+)
+2 −1
+4 −1.333
+(
+)
+2 = 4.73 cm
+ 
+ 
+(c) 
+For n = 1, h = 0. For n = 2, h = ∞. For n > 2, h has no real solution. 
+P35.33 
+Since the light ray strikes the first surface at normal incidence, it passes 
+into the prism without deviation. Thus, the angle of incidence at the 
+second surface (hypotenuse of the triangular prism) is θ1 = 45.0° as 
+shown in the sketch at the right. The angle of refraction is 
+ 
+ 
+θ2 = 45.0° + 15.0° = 60.0° 
+ 
+and Snell’s law gives the index of refraction of the prism material as 
+ 
+ 
+n1 = n2 sinθ2
+sinθ1
+= 1.00
+(
+)sin 60.0°
+(
+)
+sin 45.0°
+(
+)
+= 1.22 
+ 
+ANS. FIG. P35.33 
+P35.34 
+(a) 
+A sketch illustrating the situation and the two triangles needed in 
+the solution is given in ANS. FIG. P35.34. 
+ 
+ANS. FIG. P35.34
+
+--- PAGE 24 ---
+638     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From the triangle under water, the angle of incidence θ1 at the 
+water surface is 
+ 
+ 
+ 
+tanθ1 = 90.0 m
+100 m
+→θ1 = 42.0° 
+ 
+(c) 
+Snell’s law gives the angle of refraction as 
+ 
+ 
+ 
+θ2 = sin−1 nwater sinθ1
+nair
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+1.333
+(
+)sin 42.0°
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟= 63.1° 
+ 
+(d) The refracted beam makes angle φ = 90.0° −θ2 = 26.9° with the 
+horizontal. 
+ 
+(e) 
+In the triangle above the water,  
+ 
+ 
+ 
+h = 210 m
+(
+)tanφ = 210 m
+(
+)tan26.9° = 107 m 
+P35.35 
+The reflected ray and refracted ray are perpendicular to each other, 
+and the angle of reflection θ1 and the angle of refraction θ2 are related 
+by 
+ 
+ 
+θ1 + 90.0° +θ2 = 180.0° →θ2 = 90.0° −θ1 
+ 
+Then, from Snell’s law, 
+ 
+ 
+sinθ1 =
+ng sinθ2
+nair
+= ng sin 90° −θ1
+(
+) = ng cosθ1
+ 
+ 
+Thus, sinθ1
+cosθ1
+= tanθ1 = ng    or    θ1 = tan−1 ng
+(
+) 
+ 
+ 
+ 
+Section 35.6 
+Huygens’s Principle 
+Section 35.7 
+Dispersion 
+P35.36 
+Using Snell’s law gives 
+ 
+(a) 
+θred = sin−1 nair sinθi
+nred
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 (1.000)sin83.0°
+1.331
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.2° 
+ 
+(b) 
+θblue = sin−1 nair sinθi
+nblue
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 (1.000)sin83.0°
+1.340
+⎛
+⎝⎜
+⎞
+⎠⎟= 47.8°
+
+--- PAGE 25 ---
+Chapter 35     639 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.37 
+Using Snell’s law gives 
+ 
+ 
+θred = sin−1 nair sinθi
+nred
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 (1.000)sin50.00°
+1.455
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+and θviolet = sin−1 nair sinθi
+nviolet
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 (1.000)sin50.00°
+1.468
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Thus, the dispersion is θred −θviolet = 0.314° 
+P35.38 
+Recall that if a wave slows down as it passes from one medium into 
+another, its rays tend to bend toward the normal, unless it has normal 
+incidence. Example: the case when light passes from air into water. 
+ 
+(a) 
+For the diagrams of contour lines and wave fronts and rays, see 
+ANS. FIG. P35.38(a) below. 
+ 
+(b) As the waves move to shallower water, the wave fronts slow 
+down, and those closer to shore slow down more. The rays tend 
+to bend toward the normal of the contour lines; or equivalently, 
+the wave fronts bend to become more nearly parallel to the 
+contour lines. See ANS. FIG. P35.38(b) below. 
+ 
+(c) 
+For the diagrams of contour lines and wave fronts and rays, see 
+ANS. FIG. P35.38(c) below. 
+ 
+(d) We suppose that the headlands are steep underwater, as they are 
+above water. The rays are everywhere perpendicular to the wave 
+fronts of the incoming refracting waves. As shown, because the 
+rays tend to bend toward the normal of the contour lines, the rays 
+bend toward the headlands and deliver more energy per length at 
+the headlands. See ANS. FIG. P35.38(d) below. 
+ 
+ANS. FIG. P35.38
+
+--- PAGE 26 ---
+640     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.39 
+For the incoming ray, sinθ2 = sinθ1
+n
+. 
+ 
+Using ANS. FIG. P35.39, 
+ 
+ 
+ 
+θ2
+(
+)violet = sin−1 sin50.0°
+1.66
+⎛
+⎝⎜
+⎞
+⎠⎟= 27.48°
+θ2
+(
+)red = sin−1 sin50.0°
+1.62
+⎛
+⎝⎜
+⎞
+⎠⎟= 28.22°
+ 
+ 
+For the outgoing ray, 
+ 
+ 
+ 
+90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) + 60.0° = 180.0°
+θ3 = 60.0° −θ2
+ 
+ 
+and 
+ 
+ 
+ 
+sinθ4 = nsinθ3 :     
+θ4
+(
+)violet = sin−1 1.66sin32.52°
+[
+]= 63.17°
+θ4
+(
+)red = sin−1 1.62sin31.78°
+[
+]= 58.56°
+ 
+ 
+The angular dispersion is the difference  
+ 
+ 
+  
+Δθ4 = θ4
+(
+)violet −θ4
+(
+)red = 63.17° −58.56° = 4.61°  
+P35.40 
+For the incoming ray, sinθ2 = sinθ1
+n
+. Using ANS. FIG. P35.40, 
+ 
+ 
+ 
+ 
+θ2
+(
+)violet = sin−1 sinθ
+nV
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+θ2
+(
+)red = sin−1 sinθ
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+For the outgoing ray, 
+ 
+ 
+ 
+90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) + Φ = 180.0°
+θ3 = Φ −θ2
+ 
+ 
+and 
+ 
+ 
+ 
+sinθ4 = nsinθ3 :    θ4
+(
+)violet = sin−1 nV sin Φ −sin−1 sinθ
+nV
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+ 
+ 
+θ4
+(
+)red = sin−1 nR sin Φ −sin−1 sinθ
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ANS. FIG. P35.39
+
+--- PAGE 27 ---
+Chapter 35     641 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angular dispersion is the difference 
+ 
+ 
+ 
+Δθ4 = θ4
+(
+)violet −θ4
+(
+)red
+=
+sin−1 nV sin Φ −sin−1 sinθ
+nV
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+                     −sin−1 nR sin Φ −sin−1 sinθ
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+ 
+ 
+Section 35.8 
+Total Internal Reflection 
+P35.41 
+From Equation 35.10, 
+ 
+ 
+sinθc = n2
+n1
+= 1.33
+1.50 →θc = 62.5° 
+P35.42 
+From Equation 35.10, sinθc = n2
+n1
+, where n2 = 1.000 293. Values for n1 
+come from Table 35.1, 
+ 
+(a) 
+θc = sin−1 1.000 293
+2.20
+⎛
+⎝⎜
+⎞
+⎠⎟= 27.0° 
+ 
+(b) 
+θc = sin−1 1.000 293
+1.66
+⎛
+⎝⎜
+⎞
+⎠⎟= 37.1° 
+ 
+(c) 
+θc = sin−1 1.000 293
+1.309
+⎛
+⎝⎜
+⎞
+⎠⎟=
+49.8° 
+P35.43 
+The prism is in air, so at the first refraction, 
+ 
+ 
+ 
+1.00sinθ1 = nsinθ2 
+ 
+The angle of incidence θ3 must be less than the 
+critical angle at the second surface to emerge 
+from the other side. 
+ 
+ 
+ 
+θ3 < θc
+θ3 < sin−1θc = sin−1 n2
+n1
+= sin−1 1.00
+1.50
+⎛
+⎝⎜
+⎞
+⎠⎟
+θ3 < 41.8°
+ 
+ANS. FIG. P35.43
+
+--- PAGE 28 ---
+642     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angles θ2 and θ3 are related by 
+ 
+ 
+ 
+90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) + 60.0° = 180.0°
+θ2 = 60.0° −θ3
+ 
+ 
+Thus, to avoid total internal reflection at the second surface (i.e., have 
+θ3 < 41.8°), it is necessary that θ2 > 18.2°. 
+ 
+Since sinθ1 = nsinθ2, this becomes     
+ 
+ 
+ 
+sinθ1 > 1.50sin18.2° = 0.468 
+ 
+or 
+ 
+θ1 > 27.9° . 
+P35.44 
+The prism is in air, so at the first refraction, 
+ 
+ 
+ 
+1.00sinθ1 = nsinθ2 
+ 
+The angle of incidence θ3 must be less than  
+the critical angle at the second surface to  
+emerge from the other side. 
+ 
+ 
+ 
+θ3 < θc
+θ3 < sin−1θc = sin−1 n2
+n1
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The angles θ2 and θ3 are related: 
+ 
+ 
+ 
+90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) + Φ = 180° 
+ 
+which gives θ2 = Φ −θ3. 
+ 
+Thus, to have θ3 < sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ and avoid total internal reflection at the 
+second surface, it is necessary that θ2 > Φ −sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Since sinθ1 = nsinθ2, this requirement becomes  
+ 
+ 
+ 
+sinθ1 > nsin Φ −sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+or 
+ 
+θ1 > sin−1 nsin Φ −sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Through the application of trigonometric identities,  
+ 
+ 
+ 
+θ1 > sin−1
+n2 −1sinΦ −cosΦ
+(
+) 
+ANS. FIG. P35.44
+
+--- PAGE 29 ---
+Chapter 35     643 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.45 
+At the upper surface, 
+ 
+ 
+ 
+sinθc = nair
+npipe
+= 1.00
+1.36 = 0.735
+→
+θc = 47.3° 
+ 
+Geometry shows that the angle of refraction at the end is 
+ 
+ 
+ 
+φ = 90.0° −θc = 90.0° −47.3° = 42.7° 
+ 
+Then, by Snell’s law at the end,      
+ 
+ 
+ 
+1.00sinθ = 1.36sin 42.7° 
+ 
+gives      
+θ = 67.2° . 
+ 
+The 2-µm diameter is unnecessary information. 
+ 
+ANS. FIG. P35.45 
+P35.46 
+(a) 
+Using the index of refraction values listed in Table 35.1, we find 
+ 
+ 
+ 
+sinθc = n2
+n1
+= 1.000
+2.419 →θc = 24.42° 
+ 
+(b) 
+Because the angle of incidence (35.0°) is greater than the critical
+angle, the light is totally reflected at P.
+ 
+ 
+(c) 
+sinθc = n2
+n1
+= 1.333
+2.419 →θc = 33.44° 
+ 
+(d) The angle of incidence is 35.0°. Yes. In this case, the angle of 
+incidence is just larger than the critical angle, so the light ray 
+again undergoes total internal reflection at P. 
+ 
+(e) 
+The angle of incidence must be reduced below the critical angle 
+for light to exit the diamond, so the diamond should be rotated 
+clockwise. 
+ 
+(f) 
+Rotating the diamond by angle θ clockwise changes the angle of 
+incidence θ1 at point A from 0.00° to θ, causing the angle of 
+refraction θ2 inside the diamond to change from 0.00°: 
+ 
+ 
+ 
+n1 sinθ1 = n2 sinθ2
+1.333sinθ1 = 2.419sinθ2
+
+--- PAGE 30 ---
+644     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Refer to ANS. FIG. P35.46. What is the angle of incidence at P? 
+Extending a line from points A and P parallel to the surfaces of 
+the diamond until they meet at point B, we form a triangle ABP. 
+ 
+ANS. FIG. P35.46 
+ 
+ 
+The angle at vertex B is 35.0° because the extended line AB is 
+parallel to the line EF extended from the base of the diamond. 
+From the sum of the interior angles of ABP, we find the incident 
+angle θ3 at point P: 
+ 
+ 
+ 
+90.0° −θ2
+(
+) + 90.0° −θ3
+(
+) + 35.0° = 180
+θ3 = 35.0° −θ2
+ 
+ 
+ 
+At P, we require that the angle of incidence θ3 results in an angle 
+of refraction of 90.0°: 
+ 
+ 
+ 
+2.419sinθ3 = 1.333sin90.0°
+2.419sin 35.0° −θ2
+(
+) = 1.333
+35.0° −θ2 = sin−1 1.333
+2.419
+ 
+ 
+ 
+solving gives θ2 = 1.561°. Then, from above,  
+ 
+ 
+ 
+1.333sinθ1 = 2.419sinθ2 →θ = 2.83° 
+P35.47 
+The line of sight is 1.20° below the horizontal, so the 
+angle of reflection of the light reaching the truck 
+driver’s eyes is 90.0° – 1.20° = 88.8°. 
+ 
+ 
+ 
+sinθc = n2
+n1
+ 
+ 
+ 
+ 
+n2 = n1 sin88.8° = 1.000 293
+(
+)sin88.8° = 1.000 07 
+ANS. FIG. P35.47
+
+--- PAGE 31 ---
+Chapter 35     645 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Note: Mirages are caused by a continuous variation in index of refraction 
+of the air rather than by total internal reflection. In this problem, the 
+intent is to recognize that the result of the variation in index of refraction 
+is equivalent to the result of a total internal reflection occurring at a 
+single layer of hot air just above the surface of the roadway. This 
+problem MODELS the phenomenon as a total internal reflection. 
+P35.48 
+(a) 
+sinθ2
+sinθ1
+= v2
+v1
+    and    θ2 = 90.0° at the critical angle. 
+ 
+ 
+sin90.0°
+sinθc
+= 1 850 m/s
+343 m/s    so    θc = sin−1 0.185
+(
+) = 10.7° . 
+ 
+(b) Sound can be totally reflected if it is traveling in the medium 
+where it travels slower: air . 
+ 
+(c) 
+Sound in air falling on the wall from most directions
+is 100% reflected,
+ 
+so the wall is a good mirror. 
+P35.49 
+(a) 
+If any ray escapes it will be a ray along the inner edge, because it 
+has the smallest angle of incidence. Its angle of incidence is 
+described by sinθ = R −d
+R
+ and by nsinθ > 1sin90°. Then 
+ 
+ 
+ 
+n R −d
+(
+)
+R
+> 1   →   nR −nd > R   
+                       →   nR −R > nd   →  R >
+nd
+n −1
+  
+ 
+ANS. FIG. P35.49 
+ 
+(b) As d→0 , Rmin →0 . Yes: for very small d, the light strikes the 
+interface at very large angles of incidence. 
+ 
+(c) 
+As n increases, Rmin decreases. Yes: as n increases, the critical 
+angle becomes smaller. 
+ 
+(d) As n decreases toward 1, Rmin increases. Rmin →∞. Yes: as n →1, 
+the critical angle becomes close to 90° and any bend will allow the 
+light to escape.
+
+--- PAGE 32 ---
+646     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Rmin =
+1.40 100 × 10−6 m
+(
+)
+0.40
+= 350 × 10−6 m = 350 µm 
+P35.50 
+(a) 
+In the gasoline gauge, skylight from above travels down the 
+plastic. The rays close to the vertical are totally reflected from the 
+sides of the slab and from both facets at the lower end of the 
+plastic, where it is not immersed in gasoline. This light returns up 
+inside the plastic and makes it look bright. Where the plastic is 
+immersed in gasoline, with index of refraction of about 1.50, total 
+internal reflection should not happen. The light passes out of the 
+lower end of the plastic with little reflected, making this part of 
+the gauge look dark. 
+ 
+(b) To ensure total internal reflection at the plastic-air interface, the 
+critical angle must be less than the angle of incidence, about 45.0°. 
+This places a lower limit on the index of refraction of the plastic: 
+ 
+ 
+ 
+θc ≤45.0°
+sinθc ≤sin 45.0°
+1
+n ≤sin 45.0° →
+n ≥1.41
+ 
+ 
+ 
+To prevent total internal reflection at the plastic-gasoline interface, 
+the critical angle must be greater than the angle of incidence. This 
+places an upper limit on the index of refraction of the plastic: 
+ 
+ 
+ 
+θc ≥45.0°
+sinθc ≥sin 45.0°
+1.50
+n
+≥sin 45.0°
+→
+n ≤2.12
+ 
+ 
+ 
+ 
+Additional Problems 
+*P35.51 
+Using Snell’s law, the index of refraction of the liquid is found to be 
+ 
+  
+nliquid = nair sinθi
+sinθr
+  
+ 
+Thus, the critical angle for light going from this liquid into air is 
+ 
+  
+θc = sin−1
+nair
+nliquid
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+nair
+nair sinθi/sinθr
+⎛
+⎝⎜
+⎞
+⎠⎟
+= sin−1 sinθr
+sinθi
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 sin22.0°
+sin30.0°
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.5°
+
+--- PAGE 33 ---
+Chapter 35     647 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.52 
+(a) 
+′
+θ1 = θ1 = 30.0°     
+ 
+ 
+n1 sinθ1 = n2 sinθ2 
+ 
+ 
+1.00sin30.0° = 1.55sinθ2
+θ2 = 18.8°
+ 
+ 
+(b) 
+′
+θ1 = θ1 = 30.0° 
+ 
+ 
+θ2 = sin−1 n1 sinθ1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.55sin30.0°
+1
+⎛
+⎝⎜
+⎞
+⎠⎟= 50.8°
+ 
+ 
+(c), (d)  The other entries are computed similarly, and are shown in 
+Table P35.52 below. 
+ (c) air into glass, angles in degrees 
+(d) glass into air, angles in degrees 
+incidence 
+reflection 
+refraction 
+incidence 
+reflection 
+refraction 
+0 
+0 
+0 
+0 
+0 
+0 
+10.0 
+10.0 
+6.43 
+10.0 
+10.0 
+15.6 
+20.0 
+20.0 
+12.7 
+20.0 
+20.0 
+32.0 
+30.0 
+30.0 
+18.8 
+30.0 
+30.0 
+50.8 
+40.0 
+40.0 
+24.5 
+40.0 
+40.0 
+85.1 
+50.0 
+50.0 
+29.6 
+50.0 
+50.0 
+none* 
+60.0 
+60.0 
+34.0 
+60.0 
+60.0 
+none* 
+70.0 
+70.0 
+37.3 
+70.0 
+70.0 
+none* 
+80.0 
+80.0 
+39.4 
+80.0 
+80.0 
+none* 
+90.0 
+90.0 
+40.2 
+90.0 
+90.0 
+none* 
+ 
+*total internal reflection 
+TABLE P35.52 
+ANS. FIG. P35.52
+
+--- PAGE 34 ---
+648     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.53 
+The critical angle is found by imagining the 
+refracted ray just grazing the surface (θ2 = 
+90°). The index of refraction of water is n1 = 
+1.333, and n2 = 1.00 for air, so n1sinθc =  
+n2 sin 90° gives θc = sin
+–1 (1/1.333) =  
+sin
+–1(0.750) = 48.6°. 
+ 
+ 
+The radius then satisfies 
+ 
+ 
+ 
+ 
+ 
+tanθc =
+r
+1.00 m
+ 
+ 
+So the diameter is 
+ 
+ 
+ 
+ 
+d = 2 1.00 m
+(
+)tanθc
+[
+] 
+ 
+ 
+ 
+d = 2.00 m
+(
+)tan 48.6° = 2.27 m 
+P35.54 
+If the light ray to the eyes of the scuba diver makes an angle of
+38.0° with the horizontal, it makes an angle of 52.0° with the
+normal to the water surface. This is larger than the critical angle
+of 48.8° found in Example 35.6, however. Therefore, no light
+from above the water will approach the scuba diver’s eyes from
+this direction. The light approaching from this direction will be
+that originating underwater and reflected downward from the
+surface. The Sun will be seen somewhere within a circle whose
+edge is 90.0° – 48.8° = 41.2° above the horizontal.
+ 
+P35.55 
+From the textbook Figure P35.55, we have w = 2b + a, so 
+ 
+ 
+ 
+b = w −a
+2
+= 700 µm −1 µm
+2
+= 349.5 µm
+tanθ2 = b
+t = 349.5 µm
+1 200 µm = 0.291   →   θ2 = 16.2°
+ 
+ 
+ 
+ 
+n1 sinθ1 = n2 sinθ2 
+ 
+For refraction at entry, 
+ 
+ 
+ 
+θ1 = sin−1 n2 sinθ2
+n1
+= sin−1 1.55sin16.2°
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 0.433 = 25.7°
+ 
+P35.56 
+The incident light reaches the left-hand mirror at distance 
+ 
+ 
+ 
+1.00 m
+(
+)tan5.00° = 0.087 5 m 
+ANS. FIG. P35.53
+
+--- PAGE 35 ---
+Chapter 35     649 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+above its bottom edge. The reflected light first reaches the right-hand 
+mirror at height 
+ 
+ 
+ 
+2 0.087 5 m
+(
+) = 0.175 m 
+ 
+It bounces between the mirrors with this 
+distance between points of contact with 
+either. Since 
+ 
+ 
+ 
+ 
+1.00 m
+0.175 m = 5.72
+ 
+ 
+the light reflects 
+ 
+five times from the right-hand mirror and six times from the left . 
+*P35.57 
+(a) 
+The fraction reflected is 
+ 
+ 
+ 
+′S1
+S1
+=
+n2 −n1
+n2 + n1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 1.52 −1.00
+1.52 + 1.00
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 0.042 6 
+ 
+(b) If medium 1 is glass and medium 2 is air, 
+ 
+ 
+ 
+ 
+ 
+ 
+′S1
+S1
+=
+n2 −n1
+n2 + n1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 1.00 −1.52
+1.00 + 1.52
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 0.042 6 
+ 
+ 
+There is no difference . 
+*P35.58 
+(a) 
+With n1 = 1 and n2 = n, the reflected fractional intensity is 
+ 
+ 
+ 
+′S1
+S1
+= n −1
+n + 1
+(
+)
+2
+ 
+ 
+ 
+The remaining intensity must be transmitted: 
+ 
+ 
+ 
+S2
+S1
+= 1−n −1
+n + 1
+(
+)
+2
+= n + 1
+(
+)2 −n −1
+(
+)2
+n + 1
+(
+)2
+= n2 + 2n + 1−n2 + 2n −1
+n + 1
+(
+)2
+=
+4n
+n + 1
+(
+)2
+ 
+ 
+(b) At entry, 
+S2
+S1
+=
+4n
+n + 1
+(
+)2 =
+4 2.419
+(
+)
+2.419 + 1
+(
+)2 = 0.828. 
+ 
+ 
+At exit, 
+S3
+S2
+= 0.828. 
+ 
+ 
+Overall, 
+S3
+S1
+=
+S3
+S2
+⎛
+⎝⎜
+⎞
+⎠⎟
+S2
+S1
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.828
+(
+)2 = 0.685 
+ 
+ 
+or 
+ 
+68.5% . 
+Mirror
+Mirror
+reflected beam
+1.00 m
+5.00°
+1.00 m
+ANS. FIG. P35.56
+
+--- PAGE 36 ---
+650     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.59 
+Let n(x) be the index of refraction at distance x below the top of the 
+atmosphere and n(x = h) = 1.00 293 be its value at Earth’s surface. Then,  
+ 
+ 
+ 
+ 
+n x
+( ) = 1.000 00 + 1.002 93 −1.000 00
+h
+⎛
+⎝⎜
+⎞
+⎠⎟x 
+= 1.000 00 + 0.002 93
+h
+⎛
+⎝⎜
+⎞
+⎠⎟x
+ 
+ 
+(a) 
+The total time interval required to traverse the atmosphere is  
+ 
+ 
+ 
+Δt =
+dx
+v
+0
+h
+∫
+=
+n x
+( )
+c
+dx
+0
+h
+∫
+:     Δt = 1
+c
+1.000 00 +
+0.002 93
+h
+⎛
+⎝⎜
+⎞
+⎠⎟x
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+h
+∫
+Δt = h
+c + 0.002 93
+ch
+h2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= h
+c
+2.002 93
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+100 × 103 m
+3.00 × 108 m/s
+2.002 93
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.33 × 10−4 s = 334 µs
+ 
+ 
+(b) The travel time in the absence of an atmosphere would be h
+c . 
+Thus, the time in the presence of an atmosphere is  
+ 
+ 
+ 
+h c 2.002 93
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−h c
+h c
+=
+0.002 93
+2
+⎛
+⎝⎜
+⎞
+⎠⎟× 100% = 0.147%
+ 
+P35.60 
+Let n(x) be the index of refraction at distance x below the top of the 
+atmosphere and n(x = h) = n be its value at the planet surface. 
+ 
+Then, 
+n x
+( ) = 1.00 +
+n −1.00
+h
+⎛
+⎝⎜
+⎞
+⎠⎟x 
+ 
+(a) 
+The total time interval required to traverse the atmosphere is  
+ 
+ 
+ 
+Δt =
+dx
+v
+0
+h
+∫
+=
+n x
+( )
+c
+dx
+0
+h
+∫
+: Δt = 1
+c
+1.00 +
+n −1.00
+h
+⎛
+⎝⎜
+⎞
+⎠⎟x
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+h
+∫
+ 
+ 
+ 
+ 
+Δt = h
+c + n −1.00
+(
+)
+ch
+h2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+h
+c
+n + 1.00
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) The travel time in the absence of an atmosphere would be h
+c
+. 
+ 
+Thus, the time in the presence of an atmosphere is  
+ 
+ 
+ 
+n + 1.00
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ times larger
+
+--- PAGE 37 ---
+Chapter 35     651 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.61 
+Let the air and glass be medium 1 and 2, respectively. By Snell’s law,  
+ 
+ 
+n2 sinθ2 = n1 sinθ1 
+ 
+or 
+1.56sinθ2 = sinθ1 
+ 
+But the conditions of the problem are such that θ1 = 2θ2 , so 1.56sinθ2 = 
+sin2θ2 We now use the double-angle trig identity suggested: 
+ 
+ 
+1.56sinθ2 = 2sinθ2 cosθ2 
+ 
+or 
+cosθ2 = 1.56
+2
+= 0.780 
+ 
+Thus, 
+θ2 = 38.7° and θ1 = 2θ2 = 77.5° . 
+P35.62 
+In ANS. FIG. P35.62, observe on the left side of the prism that 
+β = 90° −θ1 and α = 90° −θ 1. Thus, β = α. Similarly, on the right side 
+of the prism, δ = 90° −θ2 and ε = 90° −θ2 , giving δ = ε. The incident 
+rays are initially parallel, so observe that the angle between the 
+reflected rays is γ = α + β
+(
+) + ε + δ
+(
+), so γ = 2 α + ε
+(
+) . Finally, observe 
+that the left side of the prism is sloped at angle α from the vertical, and 
+the right side is sloped at angle ε. The angle φ is related to the other 
+angles by 
+ 
+ 
+ 
+φ + 90° −α
+(
+) + 90° −ε
+(
+) = 180° →φ = α + ε 
+ 
+Thus, we obtain the result 
+ 
+ 
+ 
+γ = 2 α + ε
+(
+) = 2φ →φ = 1
+2 γ 
+ 
+ANS. FIG. P35.62
+
+--- PAGE 38 ---
+652     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.63 
+ Light from the diamond reflects totally 
+at the water’s surface at incident angles 
+greater than the critical angle θc . The 
+circular raft must cover the area of the 
+surface through which light from the 
+diamond could emerge. Thus, it must 
+form the base of an inverted cone (with 
+apex at the diamond) whose half angle is at least the critical angle. 
+ 
+ 
+θ ≥θc
+tanθ ≥tanθc
+d 2
+h ≥tanθc →h ≤
+d
+2tanθc
+ 
+ 
+The critical angle at the water-air boundary is  
+ 
+ 
+θc = sin−1
+nair
+nwater
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.000
+1.333
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.61° 
+ 
+Thus, the maximum depth of the water is  
+ 
+ 
+hmax =
+d
+2tanθc
+=
+4.54 m
+2tan 48.61° = 2.00 m 
+*P35.64 
+Consider an insulated box with the imagined one-way mirror forming 
+one face, installed so that 90% of the electromagnetic radiation incident 
+from the outside is transmitted to the inside and only a lower 
+percentage of the electromagnetic waves from the inside make it 
+through to the outside. Suppose the interior and exterior of the box are 
+originally at the same temperature. Objects within and without are 
+radiating and absorbing electromagnetic waves. They would all 
+maintain constant temperature if the box had an open window. With 
+the glass letting more energy in than out, the interior of the box will 
+rise in temperature. But this is impossible, according to Clausius’s 
+statement of the second law. This reduction to a contradiction proves 
+that it is impossible for the one-way mirror to exist. 
+P35.65 
+Define n1 to be the index of refraction of the 
+surrounding medium and n2 to be that for the 
+prism material. We can use the critical angle of 
+42.0° to find the ratio n2
+n1
+: 
+ 
+ 
+ 
+n2 sin 42.0° = n1 sin90.0° 
+ 
+ANS. FIG. P35.63 
+ANS. FIG. P35.65
+
+--- PAGE 39 ---
+Chapter 35     653 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+So,  
+n2
+n1
+=
+1
+sin 42.0° = 1.49 
+ 
+Call the angle of refraction θ2 at the surface 1. The ray inside the prism 
+forms a triangle with surfaces 1 and 2, so the sum of the interior angles 
+of this triangle must be 180°. 
+ 
+Thus, 
+90.0° −θ2
+(
+) + 60.0° + 90.0° −42.0°
+(
+) = 180° 
+ 
+Therefore, θ2 = 18.0°. 
+ 
+Applying Snell’s law at surface 1, n1 sinθ1 = n2 sin18.0° : 
+ 
+ 
+ 
+sinθ1 =
+n2
+n1
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ2 = 1.49sin18.0°      
+ 
+gives 
+θ1 = 27.5° 
+P35.66 
+The number N of reflections the beam makes before exiting at the other 
+end is equal to the length of the slab divided by the component of the 
+displacement of the beam for each reflection: 
+ 
+ 
+ 
+N = 
+L
+t/tanθ2
+(
+)
+ = Ltanθ2
+t
+ 
+ 
+where θ2 is the refracted angle as the beam enters the material. 
+Substitute for this refracted angle in terms of the incident angle by 
+using Snell’s law: 
+ 
+ 
+ 
+N = L
+t tan sin−1 n1 sinθ1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+N =  0.420 m
+0.003 10 m tan sin−1
+1( )sin50.0°
+1.48
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+= 81.96 →81 reflections
+ 
+ 
+Therefore, the beam will exit after making 81 reflections, so it does not 
+make 85 reflections.  
+P35.67 
+A light beam passing the top of the pole makes an angle θ of 40.0° with 
+the horizontal, so its angle of incidence at the water is φ1 = 90.0° −θ . It 
+enters the water’s surface at distance from the pole 
+ 
+ 
+ 
+s1 = L −d
+tanθ
+ 
+ 
+and has an angle of refraction φ2 from 1.00sinφ1 = nsinφ2 .
+
+--- PAGE 40 ---
+654     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P35.67 
+ 
+The beam reaches the bottom after traveling the horizontal distance  
+ 
+ 
+ 
+s2 = dtanφ2 
+ 
+The whole shadow length is 
+ 
+ 
+ 
+s1 + s2 = L −d
+tanθ + dtan sin−1 sinφ1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+Because sinφ1 = sin 90.0° −θ
+(
+) = cosθ, we find that  
+ 
+ 
+ 
+s1 + s2 = L −d
+tanθ + dtan sin−1 cosθ
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 2.00 m
+tan 40.0° + 2.00 m
+(
+)tan sin−1 cos40.0°
+1.33
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 3.79 m
+ 
+P35.68 
+From Table 35.1, the index of refraction of polystyrene is 1.49.  
+ 
+(a) 
+For polystyrene surrounded by air, total internal reflection requires 
+ 
+ 
+ 
+θ3 ≥θc = sin−1 1.00
+1.49
+⎛
+⎝⎜
+⎞
+⎠⎟= 42.2° 
+ 
+ 
+Then from geometry, θ2 = 90.0° −θ3 ≤47.8°. 
+ 
+ 
+From Snell’s law, 
+ 
+ 
+ 
+sinθ1 = 1.49sinθ2 ≤1.49sin 47.8°
+sinθ1 ≤1.10
+ 
+ 
+ 
+Any angle θ1 satisfies this equation. 
+ 
+ 
+Total internal reflection occurs for all values of θ, 
+or the maximum angle is 90°.
+ 
+ 
+(b) For polystyrene surrounded by water, θ3 = sin−1 1.33
+1.49
+⎛
+⎝⎜
+⎞
+⎠⎟= 63.2° 
+ANS. FIG. P35.68
+
+--- PAGE 41 ---
+Chapter 35     655 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and θ2 = 26.8°. 
+ 
+ 
+From Snell’s law, θ1 = 30.3° . 
+ 
+(c) 
+From Table 35.1, the index of carbon disulfide is 1.628 > 1.49. 
+Total internal reflection never occurs as the light moves from 
+lower-index polystyrene into higher-index carbon disulfide. 
+P35.69 
+From ANS. FIG. P35.69, observe that the angle of incidence at A is the 
+same as the prism angle at point O. Given that θ = 60.0°, application of 
+By Snell’s law at point A: 
+ 
+ 
+1.50sinβ = 1.00
+(
+)sin60.0°
+sinβ = sin60.0°
+1.50
+ 
+ 
+ANS. FIG. P35.69 
+ 
+From triangle AOB, we calculate the angle of incidence and reflection, 
+γ, at point B: 
+ 
+ 
+θ + 90.0° −β
+(
+) + 90.0° −γ
+(
+) = 180°   or    γ = θ −β 
+ 
+Now, we find the angle of incidence at point C using triangle BCQ: 
+ 
+ 
+90.0° −γ
+(
+) + 90.0° −δ
+(
+) + 90.0° −θ
+(
+) = 180° 
+ 
+or 
+ 
+ 
+δ = 90.0° −θ + γ
+(
+) = 90.0° −θ +θ −β
+(
+) = 90.0° −2θ + β 
+ 
+Finally, application of Snell’s law at point C gives 
+ 
+ 
+1.00
+(
+)sinφ = 1.50
+(
+)sinδ 
+ 
+or 
+ 
+ 
+φ = sin−1 1.50sin 90.0° −2θ + β
+(
+)
+⎡⎣
+⎤⎦
+= sin−1 1.50sin 90.0°−2 60.0°
+(
+)+ sin−1 sin60.0°
+1.50
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+= 7.91°
+
+--- PAGE 42 ---
+656     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.70 
+(a) 
+The optical day is longer. Incoming 
+sunlight is refracted downward at 
+the top of the atmosphere, so an 
+observer can see the rising Sun 
+when it is still geometrically below 
+the horizon. Light from the setting Sun 
+reaches her after the Sun is below the 
+horizon geometrically. 
+ 
+(b) ANS. FIG. P35.70 illustrates optical sunrise. At the center of the 
+Earth, 
+ 
+ 
+ 
+cosφ =
+6.37 × 106 m
+6.37 × 106 m + 8 614
+φ = 2.98°
+θ2 = 90 −2.98° = 87.0°
+ 
+ 
+ 
+At the top of the atmosphere 
+ 
+ 
+ 
+n1 sinθ1 = n2 sinθ2
+1sinθ1 = 1.000 293sin87.0°
+θ1 = 87.4°
+ 
+ 
+ 
+Deviation upon entry is 
+ 
+ 
+ 
+δ = θ1 −θ2
+δ = 87.364° −87.022° = 0.342°
+ 
+ 
+ 
+Sunrise of the optical day is before geometric sunrise by 
+0.342° 86 400 s
+360°
+⎛
+⎝⎜
+⎞
+⎠⎟= 82.2 s. Optical sunset occurs later too, so the 
+optical day is longer by 164 s . 
+P35.71 
+Observe in ANS. FIG. P35.71 that the angle of 
+incidence at point P is γ, and using triangle 
+OPQ: 
+ 
+ 
+ 
+sinγ = L
+R
+ 
+ 
+Also, 
+cosγ =
+1−sin2 γ =
+R2 −L2
+R
+ 
+ 
+Apply Snell’s law at point P: 
+ 
+ 
+ 
+1.00sinγ = nsinφ 
+ANS. FIG. P35.70 
+ANS. FIG. P35.71
+
+--- PAGE 43 ---
+Chapter 35     657 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, 
+sinφ = sinγ
+n
+= L
+nR 
+ 
+and  
+cosφ =
+1−sin2 φ =
+n2R2 −L2
+nR
+. 
+ 
+From triangle OPS, φ + α + 90.0°
+(
+) + 90.0° −γ
+(
+) = 180°, or the angle of 
+incidence at point S is α = γ −φ . Then, applying Snell’s law at point S 
+ 
+gives    1.00sinθ = nsinα = nsin γ −φ
+(
+) 
+ 
+or 
+ 
+sinθ = nsin γ −φ
+(
+)
+= n sinγ cosφ −cosγ sinφ
+[
+]
+= n
+L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+n2R2 −L2
+nR
+−
+R2 −L2
+R
+L
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= L
+R2
+n2R2 −L2 −
+R2 −L2
+(
+)
+ 
+ 
+thus, 
+θ = sin−1
+L
+R2
+n2R2 −L2 −
+R2 −L2
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥; 
+ 
+or, using from above sinγ = L
+R →γ = sin−1 L
+R and φ = sin−1 L
+nR , 
+ 
+ 
+ 
+sinθ = nsin γ −φ
+(
+) = nsin sin−1 L
+R −sin−1 L
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+θ = sin−1 nsin sin−1 L
+R −sin−1 L
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+P35.72 
+δ = θ1 −θ2 = 10.0°    and    n1 sinθ1 = n2 sinθ2   with   n1 = 1, n2 = 4
+3 . 
+ 
+Thus,   θ1 = sin−1 n2 sinθ2
+(
+) = sin−1 n2 sin θ1 −10.0°
+(
+)
+⎡⎣
+⎤⎦. 
+ 
+(You can use a calculator to home in on an approximate solution to this 
+equation, testing different values of θ1 until you find that θ1 = 36.5° . 
+Alternatively, you can solve for θ1 exactly, as shown below.) 
+ 
+We are given that 
+sinθ1 = 4
+3 sin θ1 −10.0°
+(
+). 
+ 
+This is the sine of a difference, so   
+ 
+ 
+ 
+3
+4 sinθ1 = sinθ1 cos10.0° −cosθ1 sin10.0°
+
+--- PAGE 44 ---
+658     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Rearranging, sin10.0°cosθ1 = cos10.0° −3
+4
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ1, 
+ 
+ 
+ 
+sin10.0°
+cos10.0° −0.750 = tanθ1 
+ 
+and  
+θ1 = tan−1 0.740
+(
+) = 36.5° . 
+P35.73 
+(a) 
+From the geometry shown in ANS. FIG. P35.73, observe that 
+θ1 = 60.0° . Also, from the law of reflection, θ2 = θ1 = 60.0° . 
+ 
+ 
+Therefore, α = 90.0° −θ2 = 30.0°, and θ3 + 90.0° = 180 −α −30.0°   
+or θ3 = 30.0°. 
+ 
+ANS. FIG. P35.73 
+ 
+ 
+Then, since the prism is immersed in water (n2 = 1.333), Snell’s 
+law gives 
+ 
+ 
+ 
+θ4 = sin−1 nglass sinθ3
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+1.66
+(
+)sin30.0°
+1.333
+⎛
+⎝⎜
+⎞
+⎠⎟= 38.5° 
+ 
+(b) For refraction to occur at point P, it is necessary that θc > θ1. Thus, 
+θc = sin−1
+n2
+nglass
+⎛
+⎝⎜
+⎞
+⎠⎟> θ1 , which gives 
+n2 > nglass sinθ1 = 1.66
+(
+)sin60.0° = 1.44 
+P35.74 
+As shown in ANS. FIG. P35.74, the angle of incidence at point A is: 
+ 
+ 
+ 
+θ = sin−1 d 2
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1.00 m
+2.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 30.0° 
+ 
+ANS. FIG. P35.74
+
+--- PAGE 45 ---
+Chapter 35     659 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If the emerging ray is to be parallel to the incident ray, the path must 
+be symmetric about the centerline CB of the cylinder. In the isosceles 
+triangle ABC, 
+ 
+ 
+ 
+γ = α    and   β = 180° −θ 
+ 
+Therefore, α + β + γ = 180° 
+ 
+becomes 2α + 180° −θ = 180° 
+ 
+or  
+ 
+α = θ
+2 = 15.0°. 
+ 
+Then, applying Snell’s law at point A, 
+ 
+ 
+ 
+nsinα = 1.00sinθ
+n = sinθ
+sinα = sin30.0°
+sin15.0° = 1.93
+ 
+P35.75 
+Applying Snell’s law at points A, B, and C gives 
+ 
+ 
+1.40sinα = 1.60sinθ1 
+[1] 
+ 
+ 
+1.20sinβ = 1.40sinα 
+[2] 
+ 
+and 
+1.00sinθ2 = 1.20sinβ 
+[3] 
+ 
+Combining equations [1], [2], and [3] yields  
+ 
+ 
+sinθ2 = 1.60sinθ1 
+[4] 
+ 
+ANS. FIG. P35.75 
+ 
+Note that equation [4] is exactly what Snell’s law would yield if the 
+second and third layers of this “sandwich” were ignored. This will 
+always be true if the surfaces of all the layers are parallel to each other. 
+ 
+(a) 
+If θ1 = 30.0° , then equation [4] gives  
+ 
+ 
+ 
+θ2 = sin−1 1.60sin30.0°
+(
+) = 53.1°
+
+--- PAGE 46 ---
+660     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At the critical angle of incidence on the lowest surface, θ2 = 90.0° . 
+Then, equation [4] gives  
+ 
+ 
+ 
+θ1 = sin−1 sinθ2
+1.60
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 sin90.0°
+1.60
+⎛
+⎝⎜
+⎞
+⎠⎟=38.7° 
+ 
+ 
+Total internal reflection will occur for θ1 ≥38.7° . 
+P35.76 
+(a) 
+At the boundary of the air and glass, the critical angle is given by 
+ 
+ 
+ 
+sinθc = 1
+n
+ 
+ 
+ANS. FIG. P35.76 
+ 
+ 
+Consider the critical ray PBB′:  
+ 
+ 
+ 
+tanθc = d 4
+t
+    or    sinθc
+cosθc
+= d
+4t 
+ 
+ 
+Squaring the last equation gives: 
+ 
+ 
+ 
+sin2θc
+cos2θc
+=
+sin2θc
+1−sin2θc
+=
+d
+4t
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Since sinθc = 1
+n , this becomes   
+1
+n2 −1 =
+d
+4t
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+   or     
+ 
+ 
+ 
+n =
+1+
+4t
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+(b) Solving for d, 
+ 
+ 
+ 
+ 
+d =
+4t
+n2 −1
+ 
+ 
+ 
+Thus, if n = 1.52 and t = 0.600 cm, d = 4 0.600 cm
+(
+)
+1.52
+(
+)
+2 −1
+= 2.10 cm 
+ 
+(c) 
+Since violet light has a larger index of refraction, it will lead to a 
+smaller critical angle and the inner edge of the white halo will be 
+tinged with violet light.
+
+--- PAGE 47 ---
+Chapter 35     661 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.77 
+ (a) Given that θ1 = 45.0°    and    θ2 = 76.0°, 
+ 
+ 
+Snell’s law at the first surface gives 
+ 
+ 
+ 
+nsinα = 1.00sin 45.0° 
+[1] 
+ 
+ANS. FIG. P35.77 
+ 
+ 
+Observe that the angle of incidence at the second surface is 
+ 
+ 
+ 
+β = 90.0° −α 
+ 
+ 
+Thus, Snell’s law at the second surface yields 
+ 
+ 
+ 
+nsinβ = nsin 90.0° −α
+(
+) = 1.00sin76.0° 
+ 
+ 
+or 
+ncosα = sin76.0°. 
+[2] 
+ 
+ 
+Dividing equation [1] by equation [2], we obtain 
+ 
+ 
+ 
+tanα = sin 45.0°
+sin76.0° = 0.729 
+ 
+ 
+or 
+α = 36.1°. 
+ 
+ 
+Then, from equation [1],  
+ 
+ 
+ 
+n = sin 45.0°
+sinα
+= sin 45.0°
+sin36.1° = 1.20 
+ 
+(b) From the sketch, observe that the distance the light travels in the 
+plastic is d =
+L
+sinα . Also, the speed of light in the plastic is v = c
+n , 
+so the time required to travel through the plastic is 
+ 
+ 
+ 
+Δt = d
+v =
+nL
+csinα =
+1.20 0.500 m
+(
+)
+3.00 × 108 m/s
+(
+)sin36.1°
+= 3.40 × 10−9 s = 3.40 ns
+
+--- PAGE 48 ---
+662     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.78 
+(a) 
+See graph in ANS. FIG. P35.78. 
+ 
+sinθ1
+sinθ2
+sinθ1
+sinθ2
+0.174
+0.342
+0.500
+0.643
+0.766
+0.866
+0.940
+0.985
+0.131
+0.261
+0.379
+0.480
+0.576
+0.647
+0.711
+0.740
+1.330 4
+1.312 9
+1.317 7
+1.338 5
+1.328 9
+1.339 0
+1.322 0
+1.331 5
+ 
+ 
+ANS. FIG. P35.78 
+ 
+(b) The straightness of the graph line demonstrates Snell’s 
+proportionality of the sine of the angle of refraction to the sine of 
+the angle of incidence. 
+ 
+(c) 
+The slope of the line is n = 1.327 6 ± 0.01 
+ 
+ 
+The equation sinθ1 = nsinθ2 shows that this slope is the index of 
+refraction, n = 1.328 ± 0.8% 
+P35.79 
+(a) 
+We see the Sun moving from east to west across the sky. Its 
+angular speed is 
+ 
+ 
+ 
+ω = Δθ
+Δt = 2π rad
+86 400 s = 7.27 × 10−5 rad/s 
+ 
+ 
+The direction of sunlight crossing the cell from the window 
+changes at this rate, moving on the opposite wall at speed 
+ 
+ 
+ 
+v = rω = 2.37 m
+(
+) 7.27 × 10−5 rad/s
+(
+)
+= 1.72 × 10−4 m/s = 0.172 mm/s
+ 
+ 
+(b) The mirror folds into the cell the motion that would occur in a 
+room twice as wide: 
+ 
+ 
+ 
+v = rω = 2 0.174 mm/s
+(
+) = 0.345 mm/s 
+ 
+(c), (d)  As the Sun moves southward and upward at 50.0°, we may 
+regard the corner of the window as fixed, and both patches of 
+light move northward and downward at 50.0° .
+
+--- PAGE 49 ---
+Chapter 35     663 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.80 
+Because the enclosure is square and the beam enters at bottom center, 
+and because a light beam travels the same path regardless of its 
+direction on the path, we expect the beam pattern to be symmetric 
+about a vertical line passing through the opening. Therefore, the beam 
+enters the opening at the same angle it exits, the beam strikes each side 
+mirror at the same height, and the beam forms a zigzag pattern that 
+intersects itself at a point (or points) above the center opening; thus, 
+the beam must reflect off the top mirror at its center. Also, because of 
+the law of reflection, the path of the beam is symmetric about a 
+horizontal line passing through the points where the beam reflects off 
+a side mirror. 
+ 
+(a) 
+Call the length of each side of the square L. If the beam is to strike 
+each mirror once, the beam must strike each side mirror at its 
+center, at height L/2 after traveling a horizontal distance L/2. 
+Therefore,  
+ 
+ 
+ 
+tanθ = L 2
+L 2 = 1 →θ = 45.0° 
+ 
+ 
+The beam will exit the enclosure if it enters at angle 45.0° , as 
+shown in ANS. FIG. P35.80(a). 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P35.80(a) 
+ANS. FIG. P35.80(b) 
+ANS. FIG. P35.80(c) 
+ 
+(b) Because the path of the beam is symmetric about a horizontal lines 
+passing through the points where the beam reflects off a side mirror, 
+we can divide the square enclosure into vertically stacked 
+rectangular areas, each a mirror image of the one below. In each, the 
+ray passes upward through the bottom center of the rectangle and 
+exits at its top center until it reflects off the top mirror, then the ray 
+passes back downward through each center until it exits the 
+enclosure. The pattern of the ray’s path is repeated in each rectangle. 
+If the enclosure is divided into n rectangles, the height of each 
+rectangle is L/n, and the beam strikes a side mirror at height L/2n 
+within each rectangle. Therefore, the angle of entry at the opening is  
+ 
+ 
+ 
+tanθ = L 2n
+L 2 = 1
+n
+
+--- PAGE 50 ---
+664     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The cases for n = 2 and 3 are shown in ANS. FIG. 35.80(b) and (c) 
+above. 
+ 
+ 
+Yes. The ray will exit if it enters at an angle θ that satisfies the
+condition tanθ = 1
+n , where n = 1, 2, 3, …
+ 
+ 
+ 
+ 
+Challenge Problems 
+P35.81 
+Horizontal light rays from the setting Sun pass above the hiker. The 
+light rays are twice refracted and once reflected, as in ANS. FIG. 
+P35.81(b). The most intense light reaching the hiker, that which 
+represents the visible rainbow, is located between angles of 40° and 42° 
+from the hiker’s shadow. 
+ 
+(a) 
+ 
+(b) 
+ANS. FIG. P35.81 
+ 
+The hiker sees a greater percentage of the violet inner edge, so we 
+consider the red outer edge. The radius R of the circle of droplets is 
+ 
+ 
+ 
+R = 8.00 km
+(
+)sin 42.0° = 5.35 km 
+ 
+Then the angle φ, between the vertical and the radius where the bow 
+touches the ground, is given by 
+ 
+ 
+ 
+cosφ = 2.00 km
+R
+= 2.00 km
+5.35 km = 0.374
+
+--- PAGE 51 ---
+Chapter 35     665 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or  
+ 
+φ = 68.1°. 
+ 
+The angle filled by the visible bow is  
+ 
+ 
+ 
+360° −2 × 68.1°
+(
+) = 224° 
+ 
+so the visible bow is 224°
+360° = 62.2% of a circle . 
+P35.82 
+The geometry of the situation is shown in 
+ANS. FIG. P35.82, where P is the person 
+and L is the lightbulb. 
+ 
+We have used the law of reflection to claim 
+that the angles on either side of the dashed 
+line at O are equal. From triangle OPC, we 
+see that 
+ 
+ 
+ 
+cosθ =  d
+1
+    and    sinθ =  x1
+1
+ 
+ 
+which can be rearranged to give 
+ 
+ 
+ 
+1 = 
+d
+cosθ    and    x1 = 1 sinθ 
+ [1] 
+ 
+Similarly, from triangle OLB,  
+ 
+ 
+ 
+cosθ = 2d
+2
+    and    sinθ =  x2
+2
+ 
+ 
+which can be rearranged to give 
+ 
+ 
+ 
+2 =  2d
+cosθ    and    x2 = 2 sinθ 
+[2] 
+ 
+Let n = 3.10 from the problem statement. The condition given in the 
+problem is expressed as 
+ 
+ 
+ 
+1 + 2 = n 
+[3] 
+ 
+Substitute for 1 and 2 from equations [1] and [2]: 
+ 
+ 
+ 
+d
+cosθ  +  2d
+cosθ   = n→
+3d
+cosθ   = n 
+[4] 
+ 
+From triangle APL, apply the Pythagorean theorem: 
+ 
+ 
+ 
+2 = d2 +  x1 + x2
+(
+)
+2 
+ 
+Substitute for x1 and x2 from equations [1] and [2]: 
+ 
+ 
+ 
+2 = d2 +  1 sinθ + 2 sinθ
+(
+)
+2 = d2 +  1 + 2
+(
+)
+2 sin2θ 
+ANS. FIG. P35.82
+
+--- PAGE 52 ---
+666     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substitute from equation [3]: 
+ 
+ 
+ 
+2 = d2 + n22 sin2θ →2 1 − n2 sin2θ
+(
+) = d2 
+[5] 
+ 
+Eliminate  between equations [4] and [5]: 
+ 
+ 
+ 
+3d
+ncosθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1 − n2 sin2θ
+(
+) = d2 →9 − 9n2 sin2θ = n2 cos2θ 
+ 
+Simplify this expression: 
+ 
+ 
+ 
+ 9 = 9n2 sin2θ + n2 cos2θ = 8n2 sin2θ + n2 sin2θ + n2 cos2θ 
+    = 8n2 sin2θ + n2 →sinθ = 
+9 − n2
+8n2
+ 
+ 
+If we now substitute n = 3.10, we see that there is no real solution for 
+sin θ. Therefore, it is impossible for the distances to be in this 
+relationship. The largest value that n can have is 3.00, which leads to 
+an incident angle of 0°. 
+ 
+In fact, we could have solved this problem more elegantly (and 
+quickly!) by realizing that the largest ratio of distances would be 
+obtained by bringing the person and the lightbulb as close together as 
+possible given the condition on their distances from the mirror. This 
+would be done by aligning them both above O in the figure so that the 
+light strikes the mirror at normal incidence. Then, the person and 
+lightbulb are separated by a distance d, and the light travels a distance 
+3d. This gives a maximum ratio of 3.00 and we see that a ratio of 3.10 is 
+impossible. 
+P35.83 
+(a) 
+Calling the angle between the dashed line in Figure P35.83 and 
+the reflected laser beam θ, we see that 
+ 
+ 
+ 
+tanθ = 
+x
+L/2  =  2x
+L
+→x =  1
+2 Ltanθ
+ 
+ 
+ 
+Differentiate with respect to time to find the speed of the laser 
+spot on the wall: 
+ 
+ 
+ 
+v = dx
+dt  =  d
+dt
+1
+2 Ltanθ
+⎛
+⎝⎜
+⎞
+⎠⎟ =  1
+2 Lsec2θ dθ
+dt
+ 
+[1] 
+ 
+ 
+From Figure P35.83, we see that 
+ 
+ 
+ 
+secθ = 
+1
+cosθ  = 
+4x2 + L2
+L
+ 
+[2] 
+ 
+ 
+Because the incident ray is stationary, as the mirror turns through 
+angle φ, its normal rotates through angle φ, so the angle of
+
+--- PAGE 53 ---
+Chapter 35     667 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+incidence increases by φ as does the angle of reflection. Therefore, 
+the reflected ray rotates through 2φ. As a consequence, the 
+angular speed of the reflected ray is twice that of the mirror: 
+ 
+ 
+ 
+ωreflected ray  = dθ
+dt  = 2ω 
+[3] 
+ 
+ 
+Substitute equations [2] and [3] into equation [1]: 
+ 
+ 
+ 
+v =  1
+2 L 4x2 + L2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟2ω =   4x2 + L2
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ω
+ 
+ 
+(b) The variable in this expression is x, so we can minimize the speed 
+by setting x = 0. 
+ 
+(c) 
+Let x = 0 in the expression for v: 
+ 
+ 
+ 
+v =  4 0( )
+2 + L2
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ω =  Lω 
+ 
+(d) The maximum speed occurs when the reflected laser beam arrives 
+at a corner of the room, where x = L/2: 
+ 
+ 
+ 
+v =  4 L/2
+(
+)
+2 + L2
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ω =  2Lω 
+ 
+(e) 
+Between the minimum and maximum speed, the reflected laser 
+beam rotates through π/4 radians, so the mirror rotates through 
+π/8 radians. Therefore,  
+ 
+ 
+ 
+Δt =  Δθ
+ω  =
+π
+8ω
+ 
+P35.84 
+(a) 
+In the textbook Figure P35.84, we have r1 =
+a2 + x2 and 
+r2 =
+b2 + d −x
+(
+)
+2 . The speeds in the two media are v1 = c/n1 and 
+v2 = c/n2 so the travel time for the light from P to Q is indeed 
+ 
+ 
+ 
+Δt = r1
+v1
++ r2
+v2
+= n1 a2 + x2
+c
++ n2 b2 + (d −x)2
+c
+ 
+ 
+(b) Now d Δt
+(
+)
+dx
+= n1
+2c
+2x
+a2 + x2 + n2
+2c
+2(d −x)(−1)
+b2 + (d −x)2 = 0 is the requirement 
+for minimal travel time, which simplifies to  
+ 
+ 
+ 
+n1x
+a2 + x2 =
+n2 d −x
+(
+)
+b2 + d −x
+(
+)
+2
+
+--- PAGE 54 ---
+668     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Now sinθ1 =
+x
+a2 + x2 and sinθ2 =
+d −x
+b2 + d −x
+(
+)
+2 , so we have 
+n1 sinθ1 = n2 sinθ2 . 
+P35.85 
+In ANS. FIG. P35.85, a ray travels along path AM from point A to the 
+mirror, reflects and travels along path MB from the mirror to point B. 
+Point A is a vertical distance a above the mirror, and point B is a 
+vertical distance b above the mirror. Points A and B are a horizontal 
+distance d apart. The ray strikes the mirror at point M which is a 
+horizontal distance x from point A. The angle of incidence is θ1 and the 
+angle of reflection is θ2 . 
+ 
+ANS. FIG. P35.85 
+ 
+We have AM =
+a2 + x2 and MB =
+b2 + d −x
+(
+)
+2 . The travel time for 
+the light from A to B is  
+ 
+ 
+Δt = AM
+c
++ MB
+c
+=
+a2 + x2
+c
++
+b2 + (d −x)2
+c
+ 
+ 
+We require a minimal travel time, so  
+ 
+ 
+d Δt
+(
+)
+dx
+= 1
+2c
+2x
+a2 + x2 + 1
+2c
+2(d −x)(−1)
+b2 + (d −x)2 = 0 
+ 
+which simplifies to 
+ 
+ 
+x
+a2 + x2 =
+d −x
+(
+)
+b2 + d −x
+(
+)
+2 
+ 
+This expression is equivalent to  
+ 
+ 
+sinθ1 = sinθ2 →θ1 = θ2 
+P35.86 
+(a) 
+Assume the viewer is far away to the right. In ANS. FIG. 
+P35.86(a), a ray directed toward the viewer comes tangentially 
+from the edge of the glowing sphere and emerges from the 
+atmosphere at angle θ2 . The apparent radius of the glowing 
+sphere is R3 as shown. For the figure, we see that  
+ 
+ 
+ 
+sinθ1 = R1
+R2
+   and   sinθ2 = R3
+R2
+
+--- PAGE 55 ---
+Chapter 35     669 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+nsinθ1 = 1.00sinθ2 
+ 
+ 
+and 
+ 
+ 
+ 
+n R1
+R2
+= R3
+R2
+  →  R3 = nR1
+ 
+ 
+ANS. FIG. P35.86(a) 
+ 
+(b) If a ray is to come tangentially from the edge of the glowing 
+sphere and emerge from the atmosphere, the incident angle θ1 
+must be less than the critical angle, θ1 <θc. Then,  
+ 
+ 
+ 
+sinθ1 < sinθc = 1
+n
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+R1
+R2
+< 1
+n →nR1 < R2 →R2 > nR1
+ 
+ 
+ 
+This is not so for the case we consider here. 
+ 
+ANS. FIG. P35.86(b) 
+ 
+ 
+Thus, the ray considered in part (a) undergoes total internal 
+reflection. In this case a ray traveling toward the viewer must 
+emerge tangentially from the atmosphere, as shown in ANS. FIG. 
+P35.86(b), so the apparent radius of the glowing sphere is the 
+same as the radius of the atmosphere: R3 = R2 .
+
+--- PAGE 56 ---
+670     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P35.87 
+Define T =
+4n
+n + 1
+(
+)2 as the transmission coefficient for one encounter 
+with an interface. For diamond and air, it is 0.828, as in Problem 
+P35.58.  As shown in ANS. FIG. P35.87, the total amount transmitted is 
+ 
+ 
+ 
+T 2 + T 2 1−T
+(
+)2 + T 2 1−T
+(
+)4
++T 2 1−T
+(
+)6 +…+ T 2 1−T
+(
+)2n +…
+ 
+ 
+We have 1−T = 1−0.828 = 0.172, so the total transmission is 
+ 
+ 
+ 
+0.828
+(
+)2 1+ 0.172
+(
+)2 + 0.172
+(
+)4 + 0.172
+(
+)6 +…
+[
+] 
+ 
+To sum this series, define  
+ 
+ 
+  
+F = 1+ 0.172
+(
+)2 + 0.172
+(
+)4 + 0.172
+(
+)6 +… 
+ 
+Note that 0.172
+(
+)2 F = 0.172
+(
+)2 + 0.172
+(
+)4 + 0.172
+(
+)6 +…, and  
+ 
+ 
+ 
+1+ 0.172
+(
+)2 F = 1+ 0.172
+(
+)2 + 0.172
+(
+)4 + 0.172
+(
+)6 +… = F 
+ 
+Then,  
+ 
+ 
+ 
+ 
+1 = F −0.172
+(
+)2 F  or  F =
+1
+1−0.172
+(
+)2 .  
+ 
+The overall transmission is then 
+0.828
+(
+)2
+1−0.172
+(
+)2 = 0.706  or   70.6% .  
+ 
+ANS. FIG. P35.87
+
+--- PAGE 57 ---
+Chapter 35     671 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P35.2 
+(a) 3.00 × 10
+8 m/s; (b) The sizes of the objects need to be taken into 
+account. Otherwise the answer would be too large by 2%. 
+P35.4 
+2.27 × 10
+8 m/s 
+P35.6 
+19.5° above the horizon 
+P35.8 
+(a) θ = 30.4°; (b) θ
+ ′ = 22.3° 
+P35.10 
+(a) See P35.10(a) for full explanation; (b) Now CBE = φ is the angle of 
+incidence of the vertical light beam. Its angle of reflection is also φ. The 
+angle between the vertical incident beam and the reflected beam is 2φ; 
+(c) φ = 0.055 7° 
+P35.12 
+θ2 = 19.5°; θ3 = 19.5°; θ4 = 30.0° 
+P35.14 
+(a) 78.3°; (b) 2.56 m; (c) 9.72°; (d) 442 nm; (e) The light wave slows 
+down as it moves from air to water, but the sound wave speeds up by 
+a larger factor. The light wave bends toward the normal and its 
+wavelength shortens, but the sound wave bends away from the normal 
+and its wavelength increases. 
+P35.16 
+(a) 1.52; (b) 417 nm; (c) 4.74 × 10
+14 Hz; (d) 198 Mm/s 
+P35.18 
+β = 180° −2θ 
+P35.20 
+(a) See P35.20(a) for full explanation; (b) See P35.20(b) for full 
+explanation. 
+P35.22 
+(a) 0.387 cm; (b) 106 ps 
+P35.24 
+(a) Yes, if the angle of incidence is 58.9°; (b) No. Both the reduction in 
+speed and the bending toward the normal reduce the component of 
+velocity parallel to the interface. This component cannot remain 
+constant for a nonzero angle of incidence. 
+P35.26 
+6.30 cm 
+P35.28 
+(a) See P35.28(a) for full explanation; (b) 37.2°; (c) 37.3°; (d) 37.3° 
+P35.30 
+The index of refraction of the atmosphere decreases with increasing 
+altitude because of the decrease in density of the atmosphere with 
+increasing altitude. As indicated in the ray diagram, the Sun located at 
+S below the horizon appears to be located at S′. 
+P35.32 
+(a) h
+d =
+n2 −1
+4 −n2 ; (b) 4.73 cm; (c) For n = 1, h = 0.  For n = 2, h = ∞. For  
+n > 2, h has no real solution. 
+P35.34 
+(a) See ANS. FIG. P35.34; (b) 42.0°; (c) 63.1°; (d) 26.9°; (e) 107 m
+
+--- PAGE 58 ---
+672     The Nature of Light and the Principles of Ray Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.36 
+(a) 48.2°; (b) 47.8° 
+P35.38 
+(a) See ANS. FIG. P35.38(a); (b) As the waves move to shallower water, 
+the wave fronts slow down, and those closer to shore slow down more. 
+The rays tend to bend toward the normal of the contour lines; or 
+equivalently, the wave fronts bend to become more nearly parallel to 
+the contour lines; (c) See ANS. FIG. P35.38(c); (d) We suppose that the 
+headlands are steep underwater, as they are above water. The rays are 
+everywhere perpendicular to the wave fronts of the incoming 
+refracting waves. As shown, because the rays tend to bend toward the 
+normal of the contour lines, the rays bend toward the headlands and 
+deliver more energy per length at the headlands.  
+P35.40 
+sin−1 nV sin Φ −sin−1 sinθ
+nV
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+−sin−1 nR sin Φ −sin−1 sinθ
+nR
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+P35.42 
+(a) 27.0°; (b) 37.1°; (c) 49.8° 
+P35.44 
+θ1 > sin−1 nsin Φ −sin−1 1.00
+n
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎛
+⎝⎜
+⎞
+⎠⎟; θ1 > sin−1
+n2 −1sinΦ −cosΦ
+(
+) 
+P35.46 
+(a) 24.42°; (b) Because the angle of incidence (35.0°) is greater than the 
+critical angle, the light is totally reflected at P; (c) 33.44°; (d) Yes. In this 
+case, the angle of incidence is just larger than the critical angle, so the 
+light ray again undergoes total internal reflection at P; (e) clockwise;  
+(f) 2.83° 
+P35.48 
+(a) 10.7°; (b) air; (c) Sound in air falling on the wall from directions is 
+100% reflected. 
+P35.50 
+(a) See P35.50(a) for full explanation; (b) n ≥1.41 and n ≤2.12 
+P35.52 
+(a) angle of incidence: 30.0°, angle of refraction: 18.8°; (b) angle of 
+incidence: 30.0°, angle of refraction: 50.8°; (c) and (d) See TABLE 
+P35.52. 
+P35.54 
+No light from above the water will approach the scuba diver’s eyes 
+from 48.8° found in Example 35.6. 
+P35.56 
+Five times from the right-hand mirror and six times from the left. 
+P35.58 
+(a) 
+4n
+n + 1
+(
+)2 ; (b) 68.5% 
+P35.60 
+(a) h
+c
+n + 1.00
+2
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) n + 1.00
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ times larger 
+P35.62 
+See P35.62 for full explanation.
+
+--- PAGE 59 ---
+Chapter 35     673 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P35.64 
+Consider an insulated box with the imagined one-way mirror forming 
+one face, installed so that 90% of the electromagnetic radiation incident 
+from the outside is transmitted to the inside and only a lower 
+percentage of the electromagnetic waves from the inside make it 
+through to the outside. Suppose the interior and exterior of the box are 
+originally at the same temperature. Objects within and without are 
+radiating and absorbing electromagnetic waves. They would all 
+maintain constant temperature if the box had an open window. With 
+the glass letting more energy in than out, the interior of the box will 
+rise in temperature. But this is impossible, according to Clausius’s 
+statement of the second law. This reduction to a contradiction proves 
+that it is impossible for the one-way mirror to exist. 
+P35.66 
+The beam will exit after making 81 reflections, so it does not make 85 
+reflections. 
+P35.68 
+(a) Total internal reflection occurs for all values of θ, or the maximum 
+angle is 90°; (b) 30.3°; (c) Total internal reflection never occurs as the 
+light moves from lower-index polystyrene to higher-index carbon 
+disulfide. 
+P35.70 
+(a) The optical day is longer; (b) 164 s 
+P35.72 
+36.5° 
+P35.74 
+1.93 
+P35.76 
+(a) n =
+1+
+4t
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+; (b) 2.10 cm; (c) violet 
+P35.78 
+(a) See ANS. FIG. P35.78; (b) The straightness of the graph line 
+demonstrates Snell’s proportionality of the sine of the angle of 
+refraction to the sine of the angle of incidence; (c) 1.328 ± 0.8% 
+P35.80 
+(a) 45.0°; (b) Yes. The ray will exit if it enters at an angle θ that satisfies 
+the condition tanθ = 1
+n , where n = 1, 2, 3, … 
+P35.82 
+The person and lightbulb are separated by a distance d, and the light 
+travels at a distance 3d. This gives a maximum ratio of 3.00, and we see 
+that a ratio of 3.10 is impossible. 
+P35.84 
+(a–c) See P35.84 for full explanations. 
+P35.86 
+(a) R3 = nR1; (b) R3 = R2

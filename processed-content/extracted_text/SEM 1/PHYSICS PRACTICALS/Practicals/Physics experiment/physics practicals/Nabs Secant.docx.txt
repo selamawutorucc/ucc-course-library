@@ -1,0 +1,5 @@
+NANABANYIN ESSEL
+SM/SMS/10/0026
+21ST SEPTEMBER, 2010
+SECANT LINES.
+A secant (from Latin secare – to cut) line is a line which at a point touches the graph of a function (given as f(x) when x=a) and at a point is parallel to the curve but unlike the tangent is not parallel to the graph due to the difference in the direction of movement of the graph against the movement of the secant line at various points on the graph. A secant line, however, when one of its two points (being a variable) is brought closer to the other (fixed point, x=a) its gradient tends to become that of the tangent.

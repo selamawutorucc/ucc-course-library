@@ -1,0 +1,587 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Introduction to PowerPoint 2010
+Microsoft PowerPoint is a presentation tool that supports text, shapes, graphics, pictures and multimedia along with integration with other Microsoft Office products like Excel.
+
+By default, documents saved in PowerPoint 2010 are saved with the .pptx extension whereas, the file extension of the prior PowerPoint versions is .ppt.
+
+--- SLIDE 6 ---
+Introduction to PowerPoint 2010
+
+
+Microsoft PowerPoint is a commercial presentation application written and distributed by Microsoft for Microsoft Windows and Mac OS X.
+
+--- SLIDE 7 ---
+Getting Started with PowerPoint 2010
+Step 1 
+Click the Start button.
+
+
+--- SLIDE 8 ---
+Getting Started with PowerPoint 2010
+Step 2 
+Click All Programs option from the menu.
+
+
+--- SLIDE 9 ---
+Getting Started with PowerPoint 2010
+Step 3 
+Search for Microsoft Office from the sub menu and click it.
+
+
+--- SLIDE 10 ---
+Getting Started with PowerPoint 2010
+Step 4 
+Search for Microsoft PowerPoint 2010 from the submenu and click it.
+
+
+
+--- SLIDE 11 ---
+Getting Started with PowerPoint 2010
+This will launch the Microsoft PowerPoint 2010 application and you will see the following presentation window.
+
+
+--- SLIDE 12 ---
+Explore Windows in PowerPoint 2010
+
+--- SLIDE 13 ---
+Explore Windows in PowerPoint 2010
+File Tab
+This tab opens the Backstage view which basically allows you to manage the file and settings in PowerPoint. 
+
+You can save presentations, open existing ones and create new presentations based on blank or predefined templates.
+
+--- SLIDE 14 ---
+Explore Windows in PowerPoint 2010
+Ribbon
+ 
+
+
+
+
+
+
+The ribbon contains three(3) components −
+
+Tabs − They appear across the top of the Ribbon and contain groups of related commands. Home, Insert, Design, are examples of ribbon tabs.
+
+Groups − They organize related commands; each group name appears below the group on the Ribbon. For example, a group of commands related to fonts or a group of commands related to Drawing, etc.
+
+Commands − Commands appear within each group as mentioned above.
+
+--- SLIDE 15 ---
+Explore Windows in PowerPoint 2010
+Title Bar
+This is the top section of the window.
+
+It shows the name of the file followed by the name of the program which in this case is Microsoft PowerPoint.
+
+--- SLIDE 16 ---
+Explore Windows in PowerPoint 2010
+Slide Area
+This is the area where the actual slide is created and edited.
+
+You can add, edit and delete text, images, shapes and multimedia in this section.
+
+--- SLIDE 17 ---
+Explore Windows in PowerPoint 2010
+Help
+The Help Icon can be used to get PowerPoint related help anytime you need. 
+
+Clicking on the "?" opens the PowerPoint Help window where you have a list of common topics to browse from.
+
+
+--- SLIDE 18 ---
+Explore Windows in PowerPoint 2010
+Zoom Options
+The zoom control lets you zoom in for a closer look at your text. 
+
+The zoom control consists of a slider that you can slide left or right to zoom in or out, you can click on the - and + buttons to increase or decrease the zoom factor.
+
+The maximum zoom supported by PowerPoint is 400% and 100% is indicated by the mark in the middle.
+
+--- SLIDE 19 ---
+Explore Windows in PowerPoint 2010
+Slide Views
+The group of four(4) buttons located to the left of the Zoom control, near the bottom of the screen.
+
+Normal Layout view − This displays page in normal view with the slide on the right and a list of thumbnails to the left. This view allows you to edit individual slides and also rearrange them.
+
+Slide Sorter view − This displays all the slides as a matrix. This view only allows you to rearrange the slides but not edit the contents of each slide.
+
+Reading View − This view is like a slideshow with access to the Windows task bar in case you need to switch windows. 
+
+Slide Show View- You cannot edit anything in this view.
+
+--- SLIDE 20 ---
+Explore Windows in PowerPoint 2010
+Notes Section
+This sections allows you to add notes for the presentation. 
+
+These notes will not be displayed on the screen during the presentation; these are just quick reference for the presenter.
+
+--- SLIDE 21 ---
+Explore Windows in PowerPoint 2010
+Quick Access Toolbar
+The Quick Access Toolbar can be located in one of two places: Upper-left corner, on the title bar. (default location)
+The Quick Access Toolbar can also be located below the ribbon. 
+This toolbar offers a convenient place to group the most commonly used commands in PowerPoint. 
+
+Slide Tab
+This section is available only in the Normal view. 
+It displays all the slides in sequence. 
+You can add, delete and reorder slides from this section.
+
+--- SLIDE 22 ---
+Backstage View in PowerPoint 2010
+
+In Office 2010, Microsoft replaced the traditional file menu with the new Backstage view. 
+
+This view not only offers all the menu items under the file menu, but additional details which makes management of your files a lot easier.
+
+--- SLIDE 23 ---
+Accessing Backstage View
+
+
+You can access the Backstage view simply by clicking on the File tab.
+
+You can exit this view by clicking on any tab (including the File tab again). 
+
+You can also press the 'Esc' button on the keyboard.
+
+
+
+--- SLIDE 24 ---
+Accessing Backstage View
+
+--- SLIDE 25 ---
+Organization of Backstage View
+The backstage view has three(3) sections or panes.
+
+--- SLIDE 26 ---
+Create Presentation using PowerPoint 2010
+PowerPoint offers a host of tools that will aid you in creating a presentation. 
+These tools are organized logically into various ribbons in PowerPoint.
+
+--- SLIDE 27 ---
+Create Presentation using PowerPoint 2010
+
+--- SLIDE 28 ---
+Add New Slides in PowerPoint 2010
+Step 1 
+Right-click in the Navigation Pane under any existing slide and click on the New Slide option.
+
+
+--- SLIDE 29 ---
+Add New Slides in PowerPoint 2010
+Step 2
+The new slide is inserted. You can now change the layout of this slide to suit your design requirements.
+
+
+--- SLIDE 30 ---
+Add New Slides in PowerPoint 2010
+Step 3
+To change the slide layout, right-click on the newly inserted slide and go to the Layout option where you can choose from the existing layout styles available to you.
+
+
+
+--- SLIDE 31 ---
+Adding Text in Boxes in PowerPoint 2010
+Title Box
+This is typically found on slides with the title layout and in all the slides that have a title box in them. This box is indicated by "Click to add title".
+
+
+--- SLIDE 32 ---
+Adding Text in Boxes in PowerPoint 2010
+Subtitle Box
+This is found only in slides with the Title layout. This is indicated by "Click to add subtitle".
+
+
+--- SLIDE 33 ---
+Adding Text in Boxes in PowerPoint 2010
+Content Box
+This is found in most of the slides that have a placeholder for adding content. This is indicated by "Click to add text".
+As you can see, this box allows you to add text as well as non-text content. 
+
+
+--- SLIDE 34 ---
+Adding Text in Boxes in PowerPoint 2010
+Text Only Box
+This is not a default content box available in PowerPoint, but you can create it using Slide Master, if required. 
+This is also indicated by "Click to add text". The only difference between the Text Only Box and the Content Box is that the former only supports text in the content area.
+
+--- SLIDE 35 ---
+Adding New Text Boxes in PowerPoint 2010
+Step 1
+Click on the Text Box icon in the Home ribbon under the Drawing section.
+
+
+--- SLIDE 36 ---
+Adding New Text Boxes in PowerPoint 2010
+Step 2
+You will get the insert text box cursor that looks like an inverted cross.
+
+Step 3 
+Click to insert a text box. You can now start typing directly into the text box.
+
+
+--- SLIDE 37 ---
+Deleting Existing Slide in PowerPoint 2010
+
+
+You can delete the slides from the Normal view as well as the Slide Sorter view.
+
+In each view, you can delete the slides in two ways.
+
+--- SLIDE 38 ---
+Deleting from Normal View
+Step 1
+Go to the Normal view.
+
+
+--- SLIDE 39 ---
+Deleting from Normal View
+Step 2
+Right-click on the slide to be deleted and select the Delete Slide option.
+
+
+
+
+
+
+
+
+
+
+Alternately, you can select the slide and press the Delete button on your key board.
+
+--- SLIDE 40 ---
+Deleting from Slide Sorter View
+Step 1
+Go to the Slide Sorter view.
+
+
+--- SLIDE 41 ---
+Deleting from Slide Sorter View
+Step 2
+Right-click on the slide to be deleted and select the Delete Slide option.
+
+
+
+
+
+
+
+
+
+
+Alternately, you can select the slide and press the Delete button on your key board.
+
+--- SLIDE 42 ---
+Rearranging Slides in PowerPoint 2010
+
+
+Rearranging slides is important when it comes to organizing the overall presentation flow.
+
+You can rearrange slides from two views in PowerPoint - Normal View and Slide Sorter View.
+
+--- SLIDE 43 ---
+Normal View
+Step 1
+Select the slide to be moved.
+Step 2 
+Left click on the slide and drag it to the position in the sequence where you want to place it. 
+PowerPoint will indicate the insert position with a line in-between existing slides.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 44 ---
+Normal View
+Step 3
+When you get to the right position release the left click button to insert the slide. 
+Alternately you can also cut the selected slide and paste it back in the sequence as shown below.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 45 ---
+Slide Sorter View
+Step 1
+Select the slide to be moved.
+Step 2 
+Left click on the slide and drag it to the position in the sequence where you want to place it. 
+PowerPoint will indicate the insert position with a line in-between existing slides.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 46 ---
+Slide Sorter View
+Step 3
+When you get to the right position release the left click button to insert the slide. 
+Alternately you can also cut the selected slide and paste it back in the sequence as shown below.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 47 ---
+Adding Slide Notes PowerPoint 2010
+
+Slide notes can be very useful tools for presentation.
+
+These notes are not displayed on the screen in the Slideshow mode, but the presenter can see them so they can prepare well to present the slides.
+
+--- SLIDE 48 ---
+Adding Slide Notes PowerPoint 2010
+Step 1
+To locate the slide notes, set the view in Normal mode.
+
+
+
+
+
+
+
+
+
+--- SLIDE 49 ---
+Adding Slide Notes PowerPoint 2010
+Step 2
+The Slide Notes section is indicated by "Click to add notes".
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 50 ---
+Adding Slide Notes PowerPoint 2010
+Step 3
+You can click on the top border and drag the section to increase its size to make it easier to type.
+
+
+
+
+
+
+
+
+
+--- SLIDE 51 ---
+Adding Slide Notes PowerPoint 2010
+Step 4
+Type your text in this section as slide notes.
+
+
+
+
+
+
+
+
+
+--- SLIDE 52 ---
+Working With Outlines in PowerPoint 2010
+
+PowerPoint is a great program that allows you to bring together text, images, shapes and multimedia.
+
+However, sometimes you may just want to review the text without focusing on the non-text aspects of the slide deck. 
+
+This is where the Outline view in PowerPoint is quite useful. 
+
+The Outline view can be accessed from the tab adjacent to the Slide tab in the in the Navigation pane when the slide is in the normal view.
+
+--- SLIDE 53 ---
+Working With Outlines in PowerPoint 2010
+
+--- SLIDE 54 ---
+Working With Outlines in PowerPoint 2010
+
+
+
+
+
+
+
+
+
+The outline view shows just the text content from various slides. 
+This view does not show the text entered in the non-text box like SmartArt, WordArt or any other shapes.
+
+--- SLIDE 55 ---
+Setting Backgrounds in PowerPoint 2010
+Step 1 
+In the Design tab on the ribbon, under the Background group, click the Background Styles command.
+
+
+--- SLIDE 56 ---
+Setting Backgrounds in PowerPoint 2010
+Step 2 
+Select one of the background styles that suits your requirements.
+
+
+
+--- SLIDE 57 ---
+Setting Backgrounds in PowerPoint 2010
+Step 3
+To edit the background for a specific slide, right-click on the desired background slide and select "Apply to Selected Slides".
+
+
+
+--- SLIDE 58 ---
+Setting Backgrounds in PowerPoint 2010
+Step 4
+Selected slide(s) now have the new background.
+
+
+
+
+--- SLIDE 59 ---
+Setting Backgrounds in PowerPoint 2010
+The graphics in the slide background can distract you from the actual content, in such cases you can hide the graphics and retain a plain background.
+To do this, select the slide and check the "Hide Background Graphics" checkbox.
+
+
+
+--- SLIDE 60 ---
+Slide Orientations in PowerPoint 2010
+PowerPoint supports two orientations: landscape and portrait.
+The Landscape layout is the default PowerPoint layout and it is probably the more commonly used one. 
+The Portrait layout is where the shorter edge is horizontal.
+Slide orientations in PowerPoint can be changed from the Design ribbon using the Slide Orientation command.
+
+
+--- SLIDE 61 ---
+Review Presentation in PowerPoint 2010
+Reviewing the presentation can be a very powerful way of eliminating the errors and perfecting the slides.
+
+PowerPoint offers a wide range of reviewing options for you to use. Some of them are automatic or system driven, while others aid other users to collaborate and review the slides.
+
+All the reviewing tools are grouped under the Review ribbon.
+
+
+
+--- SLIDE 62 ---
+Review Presentation in PowerPoint 2010
+
+--- SLIDE 63 ---
+Review Presentation in PowerPoint 2010
+
+--- SLIDE 64 ---
+Adding Slide Numbers in PowerPoint 2010
+Step 1 
+Under the Insert ribbon, Text group click on Slide Number command.
+
+
+--- SLIDE 65 ---
+Adding Slide Numbers in PowerPoint 2010
+Step 2 
+The Header and Footer dialog opens up.
+
+
+--- SLIDE 66 ---
+Adding Slide Numbers in PowerPoint 2010
+Step 3
+Check the Slide number check box.
+
+
+--- SLIDE 67 ---
+Adding Slide Numbers in PowerPoint 2010
+Step 4
+The Preview shows the section where the slide number will be placed.
+
+
+
+--- SLIDE 68 ---
+Adding Header & Footer in PowerPoint 2010
+Step 1
+In the Insert ribbon, click on the Header & Footer menu item.
+
+
+
+
+--- SLIDE 69 ---
+Adding Header & Footer in PowerPoint 2010
+Step 2
+The Header and Footer dialog has two tabs — the Slide tab and the Notes and Handouts tab.
+Step 3 
+You can add details to the slide footer from the Slide tab.
+
+
+
+--- SLIDE 70 ---
+Adding Header & Footer in PowerPoint 2010
+Step 4
+You can add the details to the handouts from the Notes and Handouts tab.
+
+
+--- SLIDE 71 ---
+Saving Presentation in PowerPoint 2010
+Step 1
+Click on the File tab to launch the Backstage view and select Save.
+
+
+
+--- SLIDE 72 ---
+Saving Presentation in PowerPoint 2010
+Step 2
+ In the Save As dialog, type in the file name and click "Save".
+
+
+
+--- SLIDE 73 ---
+Saving Presentation in PowerPoint 2010
+Step 3
+ The default file format is .pptx. 
+If you want to save the file with a different name, choose one of the file types from the "Save as type" dropdown list.
+
+
+
+--- SLIDE 74 ---
+Saving Presentation in PowerPoint 2010
+If you are working on an already saved file, the "Save" option in the Backstage view will directly save the file in the existing format with the existing name.
+
+
+--- SLIDE 75 ---
+
+--- SLIDE 76 ---
+THANK YOU

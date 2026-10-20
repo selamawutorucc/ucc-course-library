@@ -1,0 +1,5072 @@
+
+--- PAGE 1 ---
+200 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+27 
+Current and Resistance 
+ 
+CHAPTER OUTLINE 
+ 
+27.1  
+Electric Current 
+27.2  
+Resistance  
+27.3 
+A Model for Electrical Conduction 
+27.4 
+Resistance and Temperature 
+27.5 
+Superconductors 
+27.6 
+Electrical Power 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ27.1 
+Answer (d). One ampere–hour is (1 C/s)(3 600 s) = 3 600 coulombs. 
+The ampere–hour rating is the quantity of charge that the battery can 
+lift though its nominal potential difference.  
+OQ27.2 
+(i) 
+Answer (e). We require ρL/AA = 3ρL/AB . Then AA /AB = 1/3. 
+ 
+(ii) Answer (d). π
+ rA
+2/π
+ rB
+2 = 1/3 gives  rA/rB = 1/ 3 .  
+OQ27.3 
+The ranking is c > a > b > d > e. Because 
+ 
+(a) 
+I = ΔV /R, so the current becomes 3 times larger. 
+ 
+(b) 
+P = IΔV = I 2R, so the current is 
+3 times larger.  
+ 
+(c) 
+R is 1/4 as large, so the current is 4 times larger. 
+ 
+(d) R is 2 times larger, so the current is 1/2 as large. 
+ 
+(e) 
+R increases by a small percentage, so the current has a small 
+decrease.  
+OQ27.4 
+(i) 
+Answer (a). The cross-sectional area decreases, so the current 
+density increases, thus the drift speed must increase.
+
+--- PAGE 2 ---
+Chapter 27     201 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) Answer (a). The cross-sectional area decreases, so the resistance 
+per unit length, R/L = ρ/A, increases. 
+OQ27.5 
+Answer (c). I = ΔV /R = 1.00 V/10.0 Ω = 0.100 A = 0.100 C/s. 
+Because current is constant, I = dq/dt = Δq/Δt, and we find that  
+ 
+  
+Δq = IΔt = 0.100 C/s
+(
+) 20.0 s
+(
+) = 2.00 C 
+OQ27.6 
+Answer (c). The resistances are: R1 = ρL A = ρL πr2 , 
+R2 = ρL π 2r
+(
+)
+2 = 1 4
+(
+)ρL πr2 , R3 = ρ 2L
+(
+) π 3r
+(
+)
+2 = 2/9
+(
+)ρL πr2 . 
+OQ27.7 
+Answer (a). The new cross-sectional area is three times the original. 
+Originally, R = ρL
+A . Finally, R f = ρ L 3
+(
+)
+3A
+= ρL
+9A = R
+9 . 
+OQ27.8 
+Answer (b). Using R0 = 10.0 Ω at T = 20.0 °C, we have 
+R = R0 1+αΔT
+(
+) or  
+ 
+ 
+α = R R0 −1
+ΔT
+=
+10.6 10.0 −1
+90.0°C −20.0°C
+(
+)
+= 8.57 × 10−4 °C−1 
+ 
+At T = –20.0°C, we have  
+ 
+ 
+R = R0 1+α ΔT
+(
+)
+= 10.0 Ω
+(
+) 1+ 8.57 × 10−4 °C−1 −20.0°C −20.0°C
+(
+)
+⎡⎣
+⎤⎦= 9.66 Ω
+ 
+OQ27.9 
+Answer (a). R = V/I = 2 V/2 A = 1 Ω. 
+OQ27.10 
+Answer (c). Compare resistances:  
+ 
+  
+RA
+RB
+= ρLA π(dA /2)2
+ρLB π(dB /2)2 = LA
+LB
+dB
+2
+dA
+2 = 2LB
+(
+)
+LB
+dB
+2
+2dB
+(
+)
+2 = 2
+4 = 1
+2
+ 
+ 
+Compare powers: PA
+PB
+= ΔV 2 RA
+ΔV 2 RB
+= RB
+RA
+= 2 . 
+OQ27.11 
+Answer (e). RA = ρAL
+A = 2ρB
+(
+)L
+A
+= 2RB . Therefore,  
+ 
+  
+PA
+PB
+= ΔV 2 RA
+ΔV 2 RB
+= RB
+RA
+= 1
+2
+ 
+OQ27.12 
+(i) 
+Answer (a). P = ∆V
+2/R, and ∆V is the same for both bulbs, so the 
+25 W bulb must have higher resistance so that it will have lower 
+power.  
+ 
+(ii) Answer (b). ∆V is the same for both bulbs, so the 100 W bulb 
+must have lower resistance so that it will have more current.
+
+--- PAGE 3 ---
+202     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ27.13 
+Answer (d). Because wire B has twice the radius, it has four times the 
+cross-sectional area of wire A. For wire A, RA = R = ρL/A. For wire B, 
+RB = ρ(2L)/(4A) = (1/2)ρL/A = R/2.  
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ27.1 
+Choose the voltage of the power supply you will use to drive the 
+heater. Next calculate the required resistance R as ΔV 2
+P
+. Knowing 
+the resistivity ρ of the material, choose a combination of wire length 
+and cross-sectional area to make 
+
+A
+⎛
+⎝⎜
+⎞
+⎠⎟=
+R
+ρ
+⎛
+⎝⎜
+⎞
+⎠⎟. You will have to pay 
+for less material if you make both  and A smaller, but if you go too 
+far the wire will have too little surface area to radiate away the 
+energy; then the resistor will melt. 
+CQ27.2 
+Geometry and resistivity. In turn, the resistivity of the material 
+depends on the temperature. 
+CQ27.3 
+The conductor does not follow Ohm’s law, and must have a 
+resistivity that is current-dependent, or more likely temperature-
+dependent. 
+CQ27.4 
+In a normal metal, suppose that we could proceed to a limit of zero 
+resistance by lengthening the average time between collisions. The 
+classical model of conduction then suggests that a constant applied 
+voltage would cause constant acceleration of the free electrons. The 
+drift speed and the current would increase steadily in time. 
+ 
+It is not the situation envisioned in the question, but we can actually 
+switch to zero resistance by substituting a superconducting wire for 
+the normal metal. In this case, the drift velocity of electrons is 
+established by vibrations of atoms in the crystal lattice; the maximum 
+current is limited; and it becomes impossible to establish a potential 
+difference across the superconductor. 
+CQ27.5 
+The resistance of copper increases with temperature, while the 
+resistance of silicon decreases with increasing temperature. The 
+conduction electrons are scattered more by vibrating atoms when 
+copper heats up. Silicon’s charge carrier density increases as 
+temperature increases and more atomic electrons are promoted to 
+become conduction electrons. 
+CQ27.6 
+The amplitude of atomic vibrations increases with temperature. 
+Atoms can then scatter electrons more efficiently.
+
+--- PAGE 4 ---
+Chapter 27     203 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ27.7 
+Because there are so many electrons in a conductor (approximately 
+10
+28 electrons/m
+3) the average velocity of charges is very slow. When 
+you connect a wire to a potential difference, you establish an electric 
+field everywhere in the wire nearly instantaneously, to make 
+electrons start drifting everywhere all at once. 
+CQ27.8 
+Voltage is a measure of potential difference, not of current. “Surge” 
+implies a flow—and only charge, in coulombs, can flow through a 
+system. It would also be correct to say that the victim carried a 
+certain current, in amperes. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 21.1 
+Electric Current 
+*P27.1 
+The drift speed of electrons in the line is 
+ 
+ 
+ 
+vd =
+I
+nqa =
+I
+n e πd2 /4
+(
+)
+  
+ 
+The time to travel the 200-km length of the line is then 
+ 
+ 
+ 
+Δt = L
+vd
+= Ln e πd2
+(
+)
+4I
+  
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+Δt = 200 × 103 m
+(
+) 8.50 × 1028 m−3
+(
+) 1.60 × 10−19 C
+(
+)π 0.02 m
+(
+)
+2
+4 1 000 A
+(
+)
+= 8.55 × 108 s
+(
+)
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 27.1 yr
+ 
+*P27.2 
+The period of revolution for the sphere is T = 2π
+ω , and the average 
+current represented by this revolving charge is I = q
+T =
+qω
+2π
+. 
+P27.3 
+We use I = nqAvd, where n is the number of charge carriers per unit 
+volume, and is identical to the number of atoms per unit volume. We 
+assume a contribution of 1 free electron per atom in the relationship 
+above. For aluminum, which has a molar mass of 27, we know that 
+Avogadro’s number of atoms, NA, has a mass of 27.0 g. Thus, the mass 
+per atom is 
+ 
+ 
+ 
+m = 27.0 g
+NA
+=
+27.0 g
+6.02 × 1023 = 4.49 × 10−23 g atom
+
+--- PAGE 5 ---
+204     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus,  
+ 
+ 
+n = ρ
+m = density of aluminum
+mass per atom
+=
+2.70 g cm3
+4.49 × 10−23 g atom
+ 
+ 
+ 
+n = 6.02 × 1022 atoms cm3 = 6.02 × 1028 atoms m3 
+ 
+Therefore,     
+ 
+ 
+vd =
+I
+nqA =
+5.00 A
+6.02 × 1028 m−3
+(
+) 1.60 × 10−19 C
+(
+) 4.00 × 10−6 m2
+(
+)
+= 1.30 × 10−4 m s
+ 
+ 
+or,   vd = 0.130 mm s . 
+P27.4 
+The period of the electron in its orbit is T = 2πr/v, and the current 
+represented by the orbiting electron is 
+ 
+ 
+I = ΔQ
+Δt = e
+T = v e
+2πr
+= 2.19 × 106 m s
+(
+) 1.60 × 10−19 C
+(
+)
+2π 5.29 × 10−11 m
+(
+)
+= 1.05 × 10−3 C s = 1.05 mA
+ 
+P27.5 
+If N is the number of protons, each with charge e, that hit the target in 
+time ∆t, the average current in the beam is I = ΔQ/Δt = Ne/Δt, giving 
+ 
+ 
+ 
+N = I Δt
+(
+)
+e
+=
+125 × 10−6 C/s
+(
+) 23.0 s
+(
+)
+1.60 × 10−19 C/proton = 1.80 × 1016 protons 
+P27.6 
+(a) 
+From Example 27.1 in the textbook, the density of charge carriers 
+(electrons) in a copper wire is n = 8.46 × 10
+28 electrons/m
+3. With 
+A = πr2 and q = e , the drift speed of electrons in this wire is 
+ 
+ 
+ 
+vd =
+I
+n q A =
+I
+ne πr2
+(
+)
+=
+3.70 C s
+8.46 × 1028 m−3
+(
+) 1.60 × 10−19 C
+(
+)π 1.25 × 10−3 m
+(
+)
+2
+= 5.57 × 10−5 m s
+ 
+ 
+(b) 
+The drift speed is smaller because more electrons are being 
+conducted.  To create the same current, therefore, the drift speed 
+need not be as great.
+
+--- PAGE 6 ---
+Chapter 27     205 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.7 
+From I = dQ
+dt , we have dQ = I dt. 
+ 
+From this, we derive the general integral: 
+Q =
+dQ
+∫
+=
+I dt
+∫
+ 
+ 
+In all three cases, define an end-time, T: 
+Q =
+I0e–t/τ
+0
+T∫
+dt 
+ 
+Integrating from time t = 0 to time t = T:  
+Q =
+–I0τ
+(
+)e–t/τ
+0
+T∫
+– dt
+τ
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+We perform the integral and set Q = 0 at t = 0 to obtain 
+ 
+ 
+ 
+Q = –I0τ e–T/τ – e0
+(
+) = I0τ 1 – e–T/τ
+(
+) 
+ 
+(a) 
+If T = τ: 
+Q τ( ) = I0τ 1−e−1
+(
+) =
+0.632
+(
+)I0τ 
+ 
+(b) If T = 10τ:  
+Q 10τ
+(
+) = I0τ 1−e−10
+(
+) =
+0.999 95
+(
+)I0τ
+ 
+ 
+(c) 
+If T = ∞: 
+Q ∞
+( ) = I0τ 1−e−∞
+(
+) = I0τ 
+P27.8 
+(a) 
+J = I
+A =
+5.00 A
+π 4.00 × 10−3 m
+(
+)
+2 = 99.5 kA m2 
+ 
+(b) 
+Current is the same. 
+ 
+(c) 
+The cross-sectional area is greater; therefore the current density is 
+smaller.  
+ 
+(d) 
+A2 = 4A1     or    πr2
+2 = 4πr1
+2         so          r2 = 2r1 = 0.800 cm . 
+ 
+(e) 
+I = 5.00 A  
+ 
+(f) 
+J2 = 1
+4 J1 = 1
+4 9.95 × 104 A/m2
+(
+) = 2.49 × 104 A/m2 
+P27.9 
+We are given q = 4t
+3 + 5t + 6. The area is 
+ 
+ 
+ 
+A = 2.00 cm2
+(
+) 1.00 m
+100 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.00 × 10−4 m2 
+ 
+(a) 
+I 1.00 s
+(
+) = dq
+dt t=1.00 s
+= 12t2 + 5
+(
+) t=1.00 s = 17.0 A 
+ 
+(b) 
+J = I
+A =
+17.0 A
+2.00 × 10−4 m2 = 85.0 kA m2
+
+--- PAGE 7 ---
+206     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.10 
+(a) 
+We obtain the speed of each deuteron from K = 1
+2 mv2 : 
+ 
+ 
+ 
+ 
+v =
+2K
+m =
+2 2.00 × 106
+(
+) 1.60 × 10−19 J
+(
+)
+2 1.67 × 10−27 kg
+(
+)
+= 1.38 × 107 m/s
+  
+ 
+ 
+The time between deuterons passing a stationary point is t in 
+I = q
+t , so 
+ 
+ 
+ 
+t = q
+I = 1.60 × 10−19 C
+10.0 × 10−6 C s = 1.60 × 10−14 s
+  
+ 
+ 
+So the distance between individual deuterons is  
+ 
+ 
+ 
+vt = (1.38 × 10
+7 m/s)(1.60 × 10
+–14 s) = 2.21× 10−7 m 
+ 
+(b) One nucleus will put its nearest neighbor at potential 
+ 
+ 
+ 
+V = keq
+r = 8.99 × 109 N⋅m2 C2
+(
+) 1.60 × 10−19 C
+(
+)
+2.21× 10−7 m
+= 6.49 × 10−3 V
+ 
+ 
+ 
+This is very small compared to the 2 MV accelerating potential, so 
+repulsion within the beam is a small effect. 
+P27.11 
+(a) 
+J = I
+A =
+8.00 × 10−6 A
+π 1.00 × 10−3 m
+(
+)
+2 = 2.55 A m2
+ 
+ 
+(b) From J = nevd, we have  
+ 
+ 
+ 
+n =
+J
+evd
+=
+2.55 A m2
+1.60 × 10−19 C
+(
+) 3.00 × 108 m s
+(
+)
+= 5.31× 1010 m−3 
+ 
+(c) 
+From I = ΔQ
+Δt , we have  
+ 
+ 
+ 
+Δt = ΔQ
+I
+= NAe
+I
+=
+6.02 × 1023
+(
+) 1.60 × 10−19 C
+(
+)
+8.00 × 10−6 A
+= 1.20 × 1010 s
+ 
+ 
+ 
+(This is about 382 years!)
+
+--- PAGE 8 ---
+Chapter 27     207 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.12 
+To find the total charge passing a point in a given amount of time, we 
+use I = dq
+dt , from which we can write 
+ 
+ 
+q = dq
+∫
+=
+I dt
+∫
+=
+100 A
+(
+)sin 120π t
+s
+⎛
+⎝⎜
+⎞
+⎠⎟dt
+0
+1 240 s
+∫
+q = −100 C
+120π
+cos π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−cos0
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= +100 C
+120π
+= 0.265 C
+ 
+P27.13 
+The molar mass of silver = 107.9 g/mole and the volume V is  
+ 
+ 
+V = area
+(
+) thickness
+(
+) = 700 × 10−4 m2
+(
+) 0.133 × 10−3 m
+(
+)
+= 9.31× 10−6 m3
+ 
+ 
+The mass of silver deposited is 
+ 
+ 
+mAg = ρV = 10.5 × 103 kg m3
+(
+) 9.31× 10−6 m3
+(
+)
+= 9.78 × 10−2 kg
+ 
+ 
+And the number of silver atoms deposited is 
+ 
+ 
+N = 9.78 × 10−2 kg
+(
+) 6.02 × 1023 atoms
+107.9 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 000 g
+1 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.45 × 1023 atoms
+ 
+ 
+The current is then 
+ 
+ 
+I = ΔV
+R = 12.0 V
+1.80 Ω = 6.67 A = 6.67 C s
+ 
+ 
+The time interval required for the silver coating is 
+ 
+ 
+Δt = ΔQ
+I
+= Ne
+I = 5.45 × 1023
+(
+) 1.60 × 10−19 C
+(
+)
+6.67 C s
+= 1.31× 104 s = 3.64 h
+ 
+ 
+ 
+ 
+Section 27.2 
+Resistance 
+P27.14 
+From Equation 27.7, we obtain 
+ 
+ 
+ 
+I = ΔV
+R = 120 V
+240 Ω = 0.500 A = 500 mA
+
+--- PAGE 9 ---
+208     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P27.15 
+From Ohm’s law, R = ΔV /I, and from Equation 27.10,  
+ 
+ 
+ 
+R = ρ/ A = ρ/ πd2 /4
+(
+)  
+ 
+Solving for the resistivity gives 
+ 
+ 
+ 
+ρ = πd2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟R = πd2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔV
+I
+⎛
+⎝⎜
+⎞
+⎠⎟= π 2.00 × 10−3 m
+(
+)
+2
+4 50.0 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+9.11 V
+36.0 A
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.59 × 10−8 Ω⋅m
+ 
+ 
+Then, from Table 27.2, we see that the wire is made of silver . 
+P27.16 
+ΔV = IR  and   R = ρ
+A . The area is   
+ 
+ 
+ 
+A = 0.600 mm2
+(
+)
+1.00 m
+1 000 mm
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 6.00 × 10−7 m2
+ 
+ 
+From the potential difference, we can solve for the current, which gives 
+ 
+ 
+ 
+ΔV = Iρ
+A   →   I = ΔVA
+ρ
+=
+0.900 V
+(
+) 6.00 × 10−7 m2
+(
+)
+5.60 × 10−8 Ω⋅m
+(
+) 1.50 m
+(
+)
+ 
+ 
+ 
+ 
+I = 6.43 A 
+P27.17 
+From the definition of resistance, 
+ 
+ 
+R = ΔV
+I
+= 120 V
+13.5 A = 8.89 Ω 
+P27.18 
+Using R = ρL
+A and data from Table 27.2, we have  
+ 
+ 
+ρCu
+LCu
+πrCu
+2 = ρAl
+LAl
+πrAl
+2 →rAl
+2
+rCu
+2 = ρAl
+ρCu
+ 
+ 
+which yields 
+ 
+ 
+rAl
+rCu
+=
+ρAl
+ρCu
+=
+2.82 × 10−8 Ω⋅m
+1.70 × 10−8 Ω⋅m = 1.29 
+P27.19 
+(a) 
+Given total mass m = ρmV = ρmA    →    A = m
+ρm, where  
+ρm ≡ mass density. 
+ 
+ 
+Taking ρ ≡ resistivity, R = ρ
+A =
+ρ
+m ρm= ρρm2
+m
+.
+
+--- PAGE 10 ---
+Chapter 27     209 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus,   
+ 
+ 
+ 
+=
+mR
+ρρm
+=
+1.00 × 10−3 kg
+(
+) 0.500 Ω
+(
+)
+1.70 × 10−8 Ω⋅m
+(
+) 8.92 × 103 kg/m3
+(
+)
+= 1.82 m
+ 
+ 
+(b) 
+V = m
+ρm
+,   or   π r2= m
+ρm
+ 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+r =
+m
+πρm=
+1.00 × 10−3 kg
+π 8.92 × 103 kg/m3
+(
+) 1.82 m
+(
+)
+= 1.40 × 10−4 m
+ 
+ 
+ 
+The diameter is twice this distance: diameter = 280 µm 
+P27.20 
+(a) 
+Given total mass m = ρmV = ρmA    →    A = m
+ρm,    where    
+ 
+ 
+ρm ≡ mass density. 
+ 
+ 
+Taking ρ ≡ resistivity, R = ρ
+A =
+ρ
+m ρm= ρρm2
+m
+. 
+ 
+ 
+Thus, =
+mR
+ρρm
+. 
+ 
+(b) Volume V = m
+ρm
+,    or  
+ 
+ 
+ 
+1
+4π d2= m
+ρm
+d =
+4
+π
+m
+ρm
+1
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+4
+π
+m
+ρm
+ρρm
+mR
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+4
+π
+m2
+ρm
+2
+ρρm
+mR
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+  =
+4
+π
+ρm
+ρmR
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+ 
+P27.21 
+(a) 
+From the definition of resistance, 
+ 
+ 
+ 
+R = ΔV
+I
+= 120 V
+9.25 A = 13.0 Ω
+ 
+ 
+(b) The resistivity of Nichrome (from Table 27.2) is 1.50 × 10
+–6 Ω ⋅ m.
+
+--- PAGE 11 ---
+210     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+We find the length of wire from 
+ 
+ 
+ 
+R = ρ
+A = ρ
+πr2
+ 
+ 
+ 
+solving for the length  gives 
+ 
+ 
+ 
+= Rπr2
+ρ
+= 13.0 Ω
+(
+)π 2.50 × 10−3 m
+(
+)
+2
+1.50 × 10−6 Ω⋅m
+(
+)
+= 170 m
+  
+ 
+ 
+ 
+Section 27.3 
+A Model for Electrical Conduction 
+*P27.22 
+(a) 
+n is unaffected . 
+ 
+(b) 
+J = I
+A ∝I so it doubles . 
+ 
+(c) 
+J = nevd so vd doubles . 
+ 
+(d) τ = mσ
+nq2 is unchanged as long as σ  does not change due to a 
+temperature change in the conductor. 
+*P27.23 
+J = σE 
+so 
+σ = J
+E = 6.00 × 10−13 A m2
+100 V m
+= 6.00 × 10−15 Ω⋅m
+(
+)−1 . 
+P27.24 
+(a) 
+From Appendix C, the molar mass of iron is  
+ 
+ 
+ 
+MFe = 55.85 g mol = 55.85 g mol
+(
+) 1 kg 103 g
+(
+)
+= 5.58 × 10−2 kg mol
+ 
+ 
+(b) From Table 14.1, the density of iron is ρFe = 7.86 × 103 kg m3 , so 
+the molar density is 
+ 
+ 
+ 
+molar density
+(
+)Fe = ρFe
+MFe
+= 7.86 × 103 kg m3
+5.58 × 10−2 kg mol
+= 1.41× 105 mol m3
+ 
+ 
+(c) 
+The density of iron atoms is 
+ 
+ 
+ 
+density of atoms = NA molar density
+(
+)
+= 6.02 × 1023 atoms
+mol
+⎛
+⎝⎜
+⎞
+⎠⎟1.41× 105 mol
+m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.49 × 1028 atoms
+m3
+
+--- PAGE 12 ---
+Chapter 27     211 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) With two conduction electrons per iron atom, the density of 
+charge carriers is  
+ 
+ 
+ 
+n = charge carriers atom
+(
+) density of atoms
+(
+)
+= 2 electrons
+atom
+⎛
+⎝⎜
+⎞
+⎠⎟8.49 × 1028 atoms
+m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.70 × 1029 electrons m3
+ 
+ 
+(e) 
+With a current of I = 30.0 A and cross-sectional area  
+A = 5.00 × 10
+–6 m
+2, the drift speed of the conduction electrons in 
+this wire is 
+ 
+ 
+ 
+vd =
+I
+nqA =
+30.0 C s
+1.70 × 1029 m−3
+(
+) 1.60 × 10−19 C
+(
+) 5.00 × 10−6 m3
+(
+)
+= 2.21× 10−4 m s
+ 
+P27.25 
+From Equations 27.16 and 27.13, the resistivity and drift velocity can be 
+related to the electric field within the copper wire: 
+ 
+ 
+ 
+ρ =
+m
+ne2τ →τ =
+m
+ρne2
+ 
+ 
+and 
+ 
+ 
+ 
+vd = eE
+m τ = eE
+m
+m
+ρne2 = E
+ρne
+→
+E = ρnevd
+ 
+ 
+where n is the electron density. From Example 27.1,  
+ 
+ 
+ 
+n = NAρCu
+M
+= 6.02×1023  mol−1
+(
+) 8 920 kg/m3
+(
+)
+0.063 5 kg/mol
+= 8.46 × 1028  m−3
+ 
+ 
+The electric field is then 
+ 
+ 
+ 
+E = ρnevd
+E = 1.7 × 10−8  Ω⋅m
+(
+) 8.46 × 1028  m−3
+(
+)
+                    × 1.60 × 10−19  C
+(
+) 7.84 × 10−4  m/s
+(
+)
+= 0.18 V/m
+
+--- PAGE 13 ---
+212     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 27.4 
+Resistance and Temperature 
+P27.26 
+R = R0 1+ α ΔT
+(
+)
+[
+] gives
+ 
+140 Ω = 19.0 Ω
+(
+) 1+ 4.50 × 10−3 °C
+(
+)ΔT
+⎡⎣
+⎤⎦ 
+ 
+Solving,  
+ 
+ 
+ΔT = 1.42 × 103 °C = T −20.0°C 
+ 
+And the final temperature is 
+T = 1.44 × 103 °C 
+P27.27 
+If we ignore thermal expansion, the change in the material’s resistivity 
+with temperature ρ = ρ0[1+ αΔT] implies that the change in resistance 
+is R −R0 = R0αΔT. The fractional change in resistance is defined by  
+f = (R – R0)/R0. Therefore,  
+ 
+ 
+f = R0αΔT
+R0
+= αΔT = 5.00 × 10−3 °C−1
+(
+) 50.0°C −25.0°C
+(
+) = 0.12
+ 
+*P27.28 
+At the low temperature TC  we write  
+ 
+ 
+ 
+RC = ΔV
+IC
+= R0 1+ α TC −T0
+(
+)
+[
+]
+  
+ 
+where T0 = 20.0°C. At the high temperature Th,
+ 
+Rh = ΔV
+Ih
+= ΔV
+1 A = R0 1+ α Th −T0
+(
+)
+[
+]
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+ΔV
+(
+) 1.00 A
+(
+)
+ΔV
+(
+) IC
+= 1+ 3.90 × 10−3 °C
+(
+)−1
+(
+) 58.0°C −20.0°C
+(
+)
+1+ 3.90 × 10−3 °C
+(
+)−1
+(
+) −88.0°C −20.0°C
+(
+)
+ 
+ 
+and  
+IC = 1.00 A
+(
+) 1.15
+0.579
+(
+) = 1.98 A . 
+P27.29 
+We use Equation 27.20 and refer to Table 27.2: 
+ 
+ 
+R = R0 1+ α T −T0
+(
+)
+⎡⎣
+⎤⎦
+= 6.00 Ω
+(
+) 1+ 3.8 × 10−3 °C
+(
+)
+−1
+(
+) 34.0°C −20.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 6.32 Ω
+ 
+P27.30 
+(a) 
+From R = ρL/A, the initial resistance of the mercury is 
+ 
+ 
+ 
+Ri = ρLi
+Ai
+=
+ρLi
+πdi
+2 4 =
+9.58 × 10−7 Ω⋅m
+(
+) 1.000 0 m
+(
+)
+π 1.00 × 10−3 m
+(
+)
+2 4
+= 1.22 Ω
+
+--- PAGE 14 ---
+Chapter 27     213 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Since the volume of mercury is constant, V = A f ⋅Lf = Ai ⋅Li gives 
+the final cross-sectional area as A f = Ai ⋅Li Lf
+(
+). Thus, the final 
+resistance is given by R f =
+ρLf
+A f
+=
+ρLf
+2
+Ai ⋅Li
+. The fractional change in 
+the resistance is then 
+ 
+ 
+ 
+ΔR
+R =
+R f −Ri
+Ri
+=
+R f
+Ri
+−1 =
+ρLf
+2
+Ai ⋅Li
+(
+)
+ρLi Ai
+−1 =
+Lf
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+ΔR
+R =
+100.040 0cm
+100.000 0cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 = 8.00 × 10−4 increase
+ 
+*P27.31 
+(a) 
+The resistance at 20.0°C is 
+ 
+ 
+ 
+R0 = ρ
+A = 1.7 × 10−8 Ω⋅m
+(
+) 34.5 m
+(
+)
+π 0.25 × 10−3 m
+(
+)
+2
+= 2.99 Ω
+ 
+ 
+ 
+and the current is 
+ 
+ 
+ 
+I = ΔV
+R0
+= 9.00 V
+3.00 Ω = 3.01 A
+  
+ 
+(b) At 30.0°C, from Equation 27.20,  
+ 
+ 
+ 
+R = R0 1+α ΔT
+(
+)
+[
+]
+= 2.99 Ω
+(
+) 1+ 3.9 × 10−3 °C
+(
+)
+−1
+(
+) 30.0°C −20.0°C
+(
+)
+⎡⎣
+⎤⎦= 3.10 Ω
+ 
+ 
+ 
+The current is then 
+ 
+ 
+ 
+I = ΔV
+R0
+= 9.00 V
+3.10 Ω = 2.90 A
+ 
+P27.32 
+(a) 
+We require two conditions: 
+ 
+ 
+ 
+R = ρ11
+πr2 + ρ22
+πr2 
+[1] 
+ 
+ 
+where carbon = 1 and Nichrome = 2, and for any ΔT  
+ 
+ 
+ 
+R = ρ11
+πr2 1+ α1ΔT
+(
+) + ρ22
+πr2
+1+ α2ΔT
+(
+) 
+[2] 
+ 
+ 
+Setting equations [1] and [2] equal to each other, we have  
+ 
+ 
+ 
+ρ11
+πr2 + ρ22
+πr2 = ρ11
+πr2 1+α1ΔT
+(
+)+ ρ22
+πr2 1+α 2ΔT
+(
+)
+
+--- PAGE 15 ---
+214     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+simplifying, 
+ 
+ 
+ 
+ρ11
+πr2 + ρ22
+πr2 = ρ11
+πr2 + ρ11
+πr2 α1ΔT + ρ22
+πr2 + ρ22
+πr2 α 2ΔT
+ 
+ 
+ 
+or 
+ρ22
+πr2 α 2ΔT = −ρ11
+πr2 α1ΔT, which gives 
+ 
+ 
+ 
+ρ22α2 = −ρ11α1 
+[3] 
+ 
+ 
+The two equations [1] and [3] are just sufficient to determine 1 
+and 2 . The design goal can be met. 
+ 
+(b) From Table 27.2, α1 = −0.5 × 10−3 °C
+(
+)
+−1 and α2 = 0.4 × 10−3 °C
+(
+)
+−1. 
+ 
+ 
+Use equation [3] to solve for 2 in terms of 1: 
+ 
+ 
+ 
+2 = −ρ1
+ρ2
+α1
+α2
+1 
+ 
+ 
+then substitute this into equation [1]: 
+ 
+ 
+ 
+R = ρ11
+πr2 +
+ρ2
+πr2
+−ρ1
+ρ2
+α1
+α2
+1
+⎛
+⎝⎜
+⎞
+⎠⎟= ρ1
+πr2 1−α1
+α2
+⎛
+⎝⎜
+⎞
+⎠⎟1
+10.0 Ω =
+3.5 × 10−5Ω⋅m
+(
+) 
+π(1.50 × 10−3m)2
+1−−0.5 × 10−3
+0.4 × 10−3
+⎛
+⎝⎜
+⎞
+⎠⎟1
+→1 = 0.898 m
+ 
+ 
+ 
+and so 
+2 = −ρ1
+ρ2
+α1
+α2
+1 = −
+3.5 × 10−5Ω⋅m
+(
+)
+1.50 × 10−6Ω⋅m
+(
+)
+−0.5 × 10−3
+0.4 × 10−3
+⎛
+⎝⎜
+⎞
+⎠⎟1 = 26.2 m 
+ 
+ 
+Therefore, 1 = 0.898 m and 2 = 26.2 m. 
+P27.33 
+(a) 
+The resistivity is computed from ρ = ρ0 1+α T – T0
+(
+)
+⎡⎣
+⎤⎦: 
+ 
+ 
+  
+ρ = 2.82 × 10–8 Ω⋅m
+(
+) 1+ 3.90 × 10–3 °C–1
+(
+) 30.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 3.15 × 10–8 Ω⋅m
+ 
+ 
+ 
+(b)  The current density is  
+ 
+ 
+  
+J = σE = E
+ρ =
+0.200 V/m
+3.15 × 10–8 Ω⋅m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 Ω⋅A
+V
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.35 × 106 A/m2  
+ 
+(c) 
+The current density is related to the current by J = I
+A =
+I
+πr
+2 .  
+ 
+ 
+  
+I = J πr2
+(
+) = 6.35 × 106 A/m2
+(
+) π 5.00 × 10−5 m
+(
+)
+2
+⎡⎣
+⎤⎦= 49.9 mA
+
+--- PAGE 16 ---
+Chapter 27     215 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The mass density gives the number-density of free electrons; we 
+assume that each atom donates one conduction electron: 
+  
+ 
+  
+n =
+2.70 × 103kg
+m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+26.98 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+103g
+kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 free e−
+1 mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.02 × 1028 e−/m3
+ 
+ 
+ 
+Now J = nqvd gives the drift speed as 
+ 
+ 
+  
+vd = J
+nq =
+6.35 × 106 A/m2 
+6.02 × 1028 e–/m3
+(
+) –1.60 × 10–19 C/e–
+(
+)
+= −6.59 × 10−4 m/s
+ 
+ 
+ 
+The sign indicates that the electrons drift opposite to the field and 
+current.  
+ 
+(e) 
+The applied voltage is ΔV = E= 0.200 V/m
+(
+) 2.00 m
+(
+) = 0.400 V . 
+P27.34 
+For aluminum,  
+ 
+ 
+ 
+αE = 3.90 × 10−3 °C−1   (Table 27.2) 
+ 
+and  
+α = 24.0 × 10−6 °C−1    (Table 19.1) 
+ 
+The resistance is then 
+ 
+ 
+ 
+R = ρ
+A = ρ0 1+αEΔT
+(
+)1+αΔT
+(
+)
+A 1+αΔT
+(
+)
+2
+= R0
+1+αEΔT
+(
+)
+1+αΔT
+(
+)
+= 1.23 Ω
+(
+)
+1+ 3.90 × 10−3 °C
+(
+)
+−1
+(
+) 120°C −20.0°C
+(
+)
+1+ 24.0 × 10−6 °C
+(
+)
+−1
+(
+) 120°C −20.0°C
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1.71 Ω
+ 
+P27.35 
+Room temperature is T0 = 20.0°. From Equation 27.19, 
+ 
+ 
+ρAl = ρ0
+(
+)Al 1+α Al T −T0
+(
+)
+⎡⎣
+⎤⎦= 3 ρ0
+(
+)Cu
+ 
+ 
+Then, substituting numerical values from Table 27.2 gives 
+ 
+ 
+T −T0 = 1
+α Al
+3 ρ0
+(
+)Cu
+ρ0
+(
+)Al
+−1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+=
+1
+3.9 × 10−3 °C
+(
+)
+−1
+3 1.7 × 10−8 Ω⋅m
+(
+)
+2.82 × 10−8 Ω⋅m −1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+
+--- PAGE 17 ---
+216     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and solving for the temperature gives 
+ 
+ 
+T −20.0 °C = 207°C
+T = 227°C
+ 
+ 
+where we have assumed three significant figures throughout.  
+ 
+ 
+ 
+Section 27.6 
+Electrical Power 
+*P27.36 
+(a) 
+P = ΔV
+(
+)I = 300 × 103 J C
+(
+) 1.00 × 103 C s
+(
+) = 3.00 × 108 W 
+ 
+A large electric generating station, fed by a trainload of coal each 
+day, converts energy faster. 
+  
+(b) 
+I = P
+A = P
+πr
+2 
+ 
+ 
+P = I π r2
+(
+) = 1 370 W m2
+(
+) π(6.37 × 106 m)2
+[
+] = 1.75 × 1017 W 
+ 
+ 
+Terrestrial solar power is immense compared to lightning and 
+compared to all human energy conversions. 
+*P27.37 
+P = 0.800 1 500 hp
+(
+) 746 W hp
+(
+) = 8.95 × 105 W 
+ 
+Then, from P = IΔV, 
+ 
+ 
+ 
+ 
+I = P
+ΔV = 8.95 × 10
+5 W
+2 000 V
+= 448 A
+  
+P27.38 
+From Equation 27.21, 
+ 
+ 
+ 
+P = IΔV = 500 × 10−6 A 15 × 103 V
+(
+) = 7.50 W 
+P27.39 
+(a) 
+From Equation 27.21, 
+ 
+ 
+ 
+P = IΔV →I = P ΔV = 1.00 × 103 W
+(
+)
+120 V
+(
+) = 8.33 A 
+ 
+(b) From Equation 27.23, 
+ 
+ 
+ 
+P = ΔV 2 R →R = ΔV 2 P = 120 V
+(
+)
+2
+1.00 × 103 W
+(
+) = 14.4 Ω 
+P27.40 
+From Equation 27.21, 
+ 
+ 
+ 
+P = IΔV = 0.200 × 10−3 A
+(
+) 75.0 × 10−3 V
+(
+)
+= 15.0 × 10−6 W = 15.0 µW
+
+--- PAGE 18 ---
+Chapter 27     217 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.41 
+From Equation 27.21, 
+ 
+  
+P = IΔV = 350 × 10−3 A
+(
+) 6.00 V
+(
+) = 2.10 W 
+P27.42 
+If the tank has good insulation, essentially all of the energy electrically 
+transmitted to the heating element becomes internal energy in the 
+water: ΔE internal
+(
+) = E electrical
+(
+).  Our symbol E(electrical) represents the same 
+thing as the textbook’s TET, namely electrically transmitted energy. 
+ 
+ 
+Since 
+ΔE internal
+(
+) = mcΔT  and  E electrical
+(
+) = PΔt = ΔV
+(
+)
+2 Δt/R 
+ 
+ 
+where 
+c = 4 186 J/kg · °C 
+ 
+ 
+the resistance is 
+ 
+  
+ 
+R = (ΔV)2Δt
+cmΔT
+=
+240 V
+(
+)
+2 1 500 s
+(
+)
+4 186 J/kg⋅°C
+(
+) 109 kg
+(
+) 29.0°C
+(
+) = 6.53 Ω
+ 
+P27.43 
+From P = ΔV
+(
+)
+2/R, we find that  
+ 
+ 
+R = ΔVi
+(
+)
+2
+P
+= (120 V)2
+100 W = 144 Ω 
+ 
+ 
+The final current is 
+ 
+ 
+ 
+ 
+I f = ΔVf
+R
+= 140 V
+144 Ω = 0.972 A 
+ 
+ 
+The power during the surge is  
+ 
+ 
+ 
+P =
+ΔVf
+(
+)
+2
+R
+= 140 V
+(
+)
+2
+144 Ω
+= 136 V 
+ 
+So the percentage increase is  
+ 
+  
+ 
+136 W – 100 W
+100 W
+= 0.361 = 36.1%
+ 
+P27.44 
+You pay the electric company for energy transferred in the amount  
+E = PΔt.  
+ 
+(a) 
+PΔt = 40 W
+(
+) 2 weeks
+(
+)
+7 d
+1 week
+⎛
+⎝⎜
+⎞
+⎠⎟
+24 h
+1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.110 $
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+= $1.48
+ 
+ 
+(b) 
+PΔt = 970 W
+(
+) 3 min
+(
+)
+1 h
+60 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.110 $
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.005 34
+
+--- PAGE 19 ---
+218     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+PΔt = 5 200 W
+(
+) 40 min
+(
+)
+1 h
+60 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.110 $
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.381 
+P27.45 
+(a) 
+The total energy stored in the battery is 
+ 
+ 
+ 
+ΔUE = q ΔV
+(
+) = It ΔV
+(
+)
+= 55.0 A⋅h
+(
+) 12.0 V
+(
+)
+1 C
+1 A⋅s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 J
+1 V⋅C
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 W⋅s
+1 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 660 W⋅h = 0.660 kWh
+ 
+ 
+(b) The value of the electricity is 
+ 
+ 
+ 
+Cost = 0.660 kWh
+(
+) $0.110
+1 kWh
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.072 6
+ 
+P27.46 
+(a) 
+The resistance of 1.00 m of 12-gauge copper wire is  
+ 
+ 
+ 
+R = ρ
+A =
+ρ
+π d 2
+(
+)
+2 = 4ρ
+π d2 =
+4 1.7 × 10−8 Ω⋅m
+(
+) 1.00 m
+(
+)
+π 0.205 × 10−2 m
+(
+)
+2
+= 5.2 × 10−3 Ω
+ 
+ 
+ 
+The rate of internal energy production is 
+ 
+ 
+ 
+P = IΔV = I 2R = 20.0 A
+(
+)
+2 5.2 × 10−3 Ω
+(
+) = 2.1 W 
+ 
+(b) 
+R = 4ρ
+π d2 =
+4 2.82 × 10−8 Ω⋅m
+(
+) 1.00 m
+(
+)
+π 0.205 × 10−2 m
+(
+)
+2
+= 8.54 × 10−3 Ω 
+ 
+ 
+P = IΔV = I 2R = 20.0 A
+(
+)
+2 8.54 × 10−3 Ω
+(
+) = 3.42 W 
+ 
+(c) 
+It would not be as safe. If surrounded by thermal insulation, it
+would get much hotter than a copper wire.
+ 
+P27.47 
+The power of the lamp is P = IΔV = U /Δt, where U is the energy 
+transformed. Then the energy you buy, in standard units, is  
+ 
+ 
+U = ΔVIΔt
+= 110 V
+(
+) 1.70 A
+(
+) 1 day
+(
+)
+24 h
+1 day
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 600 s
+h
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 J
+V ⋅C
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 C
+A ⋅s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 16.2 MJ
+
+--- PAGE 20 ---
+Chapter 27     219 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In kilowatt hours, the energy is 
+ 
+ 
+U = ΔVIΔt
+= 110 V
+(
+) 1.70 A
+(
+) 1 day
+(
+)
+24 h
+1 day
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 J
+V ⋅C
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 C
+A ⋅s
+⎛
+⎝⎜
+⎞
+⎠⎟
+W ⋅s
+J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.49 kWh
+ 
+ 
+So operating the lamp costs (4.49 kWh)($0.110/kWh) = $0.494 /day . 
+P27.48 
+The energy taken in by electric transmission for the fluorescent bulb is 
+ 
+ 
+ 
+PΔt = 11 J s 100 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.96 × 106 J
+cost = 3.96 × 106 J $0.110
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+W ⋅s
+J
+⎛
+⎝⎜
+⎞
+⎠⎟
+h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.121
+ 
+ 
+For the incandescent bulb, 
+ 
+ 
+ 
+PΔt = 40 W 100 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.44 × 107 J
+cost = 1.44 × 107 J
+$0.110
+3.6 × 106 J
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.440
+savings = $0.440 −$0.121 = $0.319
+ 
+P27.49 
+First, we compute the resistance of the wire: 
+ 
+ 
+ 
+R = ρ
+A =
+1.50 × 10−6 Ω⋅m
+(
+)25.0 m
+π 0.200 × 10−3 m
+(
+)
+2
+= 298 Ω 
+ 
+The potential drop across the wire is then 
+ 
+ 
+ 
+ΔV = IR = 0.500 A
+(
+) 298 Ω
+(
+) = 149 V 
+ 
+(a) 
+The magnitude of the electric field in the wire is 
+ 
+ 
+ 
+E = ΔV
+
+= 149 V
+25.0 m = 5.97 V m 
+ 
+(b) The power delivered to the wire is 
+ 
+ 
+ 
+P = ΔV
+(
+)I = 149 V
+(
+) 0.500 A
+(
+) = 74.6 W 
+ 
+(c) 
+We use Equation 27.20 and Table 27.2: 
+ 
+ 
+ 
+R = R0 1+α T −T0
+(
+)
+⎡⎣
+⎤⎦= 298 Ω
+(
+) 1+ 0.400 × 10−3 °C
+(
+)320°C
+⎡⎣
+⎤⎦
+= 337 Ω
+
+--- PAGE 21 ---
+220     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+To find the power delivered, we first compute the current flowing 
+through the wire: 
+ 
+ 
+ 
+I = ΔV
+R = 149 V
+337 Ω = 0.443 A
+ 
+ 
+ 
+then, 
+P = ΔV
+(
+)I = 149 V
+(
+) 0.443 A
+(
+) = 66.1 W 
+P27.50 
+The battery takes in energy by electric transmission: 
+ 
+ 
+ 
+PΔt = ΔV
+(
+)I Δt
+(
+) = 2.3 J C
+(
+) 13.5 × 10−3 C s
+(
+) 4.2 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 469 J
+ 
+ 
+It puts out energy by electric transmission: 
+ 
+ 
+ 
+ΔV
+(
+)I Δt
+(
+) = 1.6 J C
+(
+) 18 × 10−3 C s
+(
+) 2.4 h
+(
+) 3 600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 249 J
+ 
+ 
+(a) 
+efficiency = useful output
+total input
+= 249 J
+469 J = 0.530 
+ 
+(b) The only place for the missing energy to go is into internal 
+energy: 
+ 
+ 
+ 
+469 J = 249 J + ΔEint
+ΔEint = 221 J
+ 
+ 
+(c) 
+We imagine toasting the battery over a fire with 221 J of heat 
+input: 
+ 
+ 
+ 
+Q = mcΔT
+ΔT = Q
+mc =
+221 J
+0.015 kg
+(
+) 975 J/kg ⋅°C
+(
+)
+= 15.1°C
+ 
+P27.51 
+We compute the resistance of the wire from 
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+R
+→R = ΔV
+(
+)
+2
+P
+= 110 V
+(
+)
+2
+500 W = 24.2 Ω
+ 
+ 
+(a) 
+Then, Equation 27.10, R = ρ
+A , gives us the length of wire used:    
+ 
+ 
+ 
+= RA
+ρ =
+24.2 Ω
+(
+)π 2.50 × 10−4 m
+(
+)
+2
+1.50 × 10−6 Ω⋅m
+= 3.17 m
+
+--- PAGE 22 ---
+Chapter 27     221 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From Equation 27.20, the resistance of the wire at this 
+temperature is 
+ 
+ 
+ 
+R = R0 1+αΔT
+[
+]= 24.2 Ω 1+ 0.400 × 10−3
+(
+) 1 200 −20
+(
+)
+⎡⎣
+⎤⎦
+= 35.6 Ω
+ 
+ 
+ 
+The power delivered to the coil is then 
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+R
+= 110 V
+(
+)
+2
+35.6 Ω = 340 W
+ 
+P27.52 
+We find the energy transferred into a number N of these clocks in one 
+year: 
+ 
+ 
+TET  = PtotalΔt = NPone clockΔt 
+      =  270 × 106 clocks
+(
+) 2.50 W/clock
+(
+)
+                            × 365 d/yr
+(
+) 24 h/d
+(
+) 1 kW/1000 W
+(
+)
+      = 5.91 × 109 kWh
+ 
+ 
+Divide this energy into the total cost claimed by the politician to find 
+the cost of the electricity:  
+ 
+ 
+cost = 
+$100  ×  106
+5.91 × 109 kWh  = $0.017 /kWh 
+ 
+This is significantly lower than the average cost of electricity in the 
+United States. While the situation is not actually impossible, the 
+politician would have a better argument by using the actual average 
+cost of electricity in the United States, which would raise his estimate 
+of the total cost to operate the clocks to about $650 million every year. 
+P27.53 
+At operating temperature, 
+ 
+(a) 
+P = IΔV = 1.53 A
+(
+) 120 V
+(
+) = 184 W 
+ 
+(b) Use the change in resistance to find the final operating 
+temperature of the toaster. 
+ 
+ 
+ 
+R = R0 1+ αΔT
+(
+) 
+ 
+ 
+ 
+120 V
+1.53 A =
+120 V
+1.80 A
+⎛
+⎝⎜
+⎞
+⎠⎟1+ 0.400 × 10−3 °C
+(
+)
+−1
+(
+)ΔT
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+ΔT = 441°C  
+ 
+ 
+and T = 20.0°C + 441°C = 461°C
+
+--- PAGE 23 ---
+222     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.54 
+Consider a 400-W blow dryer used for ten minutes daily for a year. 
+The energy transferred to the dryer is 
+ 
+ 
+ 
+PΔt = 400 J s
+(
+) 600 s d
+(
+) 365 d
+(
+)
+≈9 × 107 J
+1 kWh
+3.6 × 106 J
+⎛
+⎝⎜
+⎞
+⎠⎟≈20 kWh
+ 
+ 
+We suppose that electrically transmitted energy costs on the order of 
+ten cents per kilowatt-hour. Then the cost of using the dryer for a year 
+is on the order of 
+ 
+ 
+ 
+Cost ≈20 kWh
+(
+) $0.10 kWh
+(
+) = $2 ~ $1 
+P27.55 
+We first compute the power delivered to the resistor: 
+ 
+ 
+ 
+P = IΔV = 2.00 A
+(
+) 120 V
+(
+) = 240 W  
+ 
+The change in internal energy of the water as it is heated from 23.0°C 
+to 100°C is 
+ 
+ 
+ 
+ΔEint = 0.500 kg
+(
+) 4 186 J kg⋅°C
+(
+) 77.0°C
+(
+) = 161 kJ 
+ 
+The time interval required to heat the water is then 
+ 
+ 
+ 
+Δt = ΔEint
+P
+= 1.61× 105 J
+240 W
+= 672 s
+ 
+P27.56 
+(a) 
+We know that 
+ 
+ 
+ 
+efficiency = mechanical power output
+total power input
+= 0.900 = 2.50 hp
+(
+)(746 W/1 hp)
+(120 V) I
+ 
+ 
+ 
+from which, we calculate the current as 
+ 
+ 
+ 
+I = 1 860 J/s
+0.9(120 V) = 2 070 J/s
+120 V
+= 17.3 A
+ 
+ 
+(b) The energy delivered to the motor in 3.00 h is  
+ 
+ 
+ 
+energy input = PinputΔt = 2 070 J/s
+(
+) 3.00 3 600 s
+(
+)
+[
+]
+= 2.24 × 107 J = 22.4 MJ
+  
+ 
+(c) 
+At $0.110/kWh, the cost of running the motor for 3.00 h is 
+ 
+ 
+ 
+cost = 2.24 × 107 J
+(
+) $0.110
+1 kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+103
+J
+W s
+h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.684
+
+--- PAGE 24 ---
+Chapter 27     223 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+*P27.57 
+From Equation 27.22, P = ΔV
+(
+)
+2
+R
+, we find that the total resistance 
+needed in the wire is 
+ 
+ 
+ 
+R = ΔV
+(
+)
+2
+P
+= 20 V
+(
+)
+2
+48 W = 8.3 Ω
+ 
+ 
+We then solve for the length of the wire from Equation 27.10: 
+ 
+ 
+ 
+= RA
+ρ = 8.3 Ω
+(
+) 4.0 × 10−6 m2
+(
+)
+3.0 × 10−8 Ω⋅m
+= 1.1× 103 m = 1.1 km
+  
+P27.58 
+At T0 = 20.0°, R = R0.  Then, from Equation 27.20, 
+ 
+ 
+ 
+R = R0 1+α T −T0
+(
+)
+⎡⎣
+⎤⎦= 2R0
+ 
+ 
+Solving for the change in temperature gives 
+ 
+ 
+ 
+T −T0 = 1
+α =
+1
+3.9 × 10−3 °C
+(
+)
+−1
+T −20.0°C = 256°C    →    T = 276°C
+ 
+P27.59 
+We find the amount of current each headlight draws:  
+ 
+ 
+ 
+P = IΔV →I = P
+ΔV = 36.0 W
+12.0 V = 3.00 A
+ 
+ 
+For two headlights, the total current from battery is 6.00 A. The battery 
+rating is the total amount of charge the battery can deliver, without 
+being recharged, over a time interval Δt at a rate (current) I: 
+ 
+ 
+ 
+ΔQ = IΔt = 90.0 A ⋅h 
+ 
+The total time interval to discharge the battery is then 
+ 
+ 
+ 
+Δt = ΔQ
+I
+= 90.0 A ⋅h
+6.00 A
+= 15.0 h 
+P27.60 
+(a) 
+P = IΔV = ΔV
+(
+)
+2
+R
+→R = ΔV
+(
+)
+2
+P
+ 
+ 
+ 
+Lightbulb A:  
+R = ΔV
+(
+)
+2
+P
+= 120 V
+(
+)
+2
+25.0 W = 576 Ω 
+ 
+ 
+Lightbulb B: 
+R = ΔV
+(
+)
+2
+P
+= 120 V
+(
+)
+2
+100 W = 144 Ω 
+ 
+(b) 
+I = Q
+Δt = P
+ΔV →Δt = QΔV
+P
+= 1.00 C
+(
+) 120 V
+(
+)
+25.0 W
+= 4.80 s
+
+--- PAGE 25 ---
+224     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The charge is the same. It is at a location that is lower in potential. 
+ 
+(d) 
+P = ΔU
+Δt →Δt = ΔU
+P = 1.00 J
+25.0 W = 0.040 0 s 
+ 
+(e) 
+Because of energy conservation, the energy entering and leaving
+the lightbulb is the same. Energy enters the lightbulb by electric
+transmission and leaves by heat and electromagnetic radiation.
+  
+ 
+(f) 
+ΔU = PΔt = 25.0 J s
+(
+) 86 400 s d
+(
+) 30.0 d
+(
+) = 64.8 × 106 J 
+ 
+ 
+Cost = 64.8 × 106 J
+(
+) $0.110 0
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+W ⋅s
+J
+⎛
+⎝⎜
+⎞
+⎠⎟
+h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= $1.98
+ 
+P27.61 
+The resistance of one wire is 0.500 Ω
+mi
+⎛
+⎝⎜
+⎞
+⎠⎟100 mi
+(
+) = 50.0 Ω . 
+ 
+The whole wire is at nominal 700 kV away from ground potential, but 
+the potential difference between its two ends is 
+ 
+ 
+IR = 1 000 A
+(
+) 50.0 Ω
+(
+) = 50.0 kV 
+ 
+Then it radiates as heat power  
+ 
+ 
+P = IΔV = 1 000 A
+(
+) 50.0 × 103 V
+(
+) = 50.0 MW  
+P27.62 
+(a) 
+From ρ = RA
+= ΔV
+(
+)
+I
+A
+ we compute 
+ 
+ 
+  (m)
+R (Ω)
+ρ (Ω⋅m)
+0.540
+1.028
+1.543
+7.25
+14.1
+21.1
+9.80 × 10−7
+9.98 × 10−7
+1.00 × 10−6
+ 
+ 
+(b) 
+ρ = 9.93 × 10−7 Ω⋅m 
+ 
+(c) 
+The average value is within 1% of the tabulated value of
+1.00 × 10−6 Ω⋅m given in Table 27.2.
+
+--- PAGE 26 ---
+Chapter 27     225 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.63 
+The original stored energy is UE,i = 1
+2 QΔVi = 1
+2
+Q2
+C . 
+ 
+(a) 
+When the switch is closed, charge Q distributes itself over the 
+plates of C and 3C in parallel, presenting equivalent capacitance 
+4C. Then the final potential difference is ΔVf = Q
+4C for both. 
+ 
+(b) The smaller capacitor then carries charge CΔVf = Q
+4C C =
+Q
+4
+. 
+The larger capacitor carries charge 3C Q
+4C =
+3Q
+4
+. 
+ 
+(c) 
+The smaller capacitor stores final energy 1
+2 C ΔVf
+(
+)
+2 = 1
+2 C
+Q
+4C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 
+Q2
+32C
+. The larger capacitor possesses energy 
+1
+2 3C
+Q
+4C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+3Q2
+32C
+. 
+ 
+(d) The total final energy is Q2
+32C + 3Q2
+32C = Q2
+8C
+. The loss of potential 
+energy is the energy appearing as internal energy in the resistor:  
+ 
+ 
+ 
+Q2
+2C = Q2
+8C + ΔEint   so   ΔEint =
+3Q2
+8C
+ 
+P27.64 
+(a) 
+The heater should put out constant power 
+ 
+ 
+ 
+P = Q
+Δt =
+mc Tf −Ti
+(
+)
+Δt
+= 0.250 kg
+(
+) 4 186 J/kg⋅°C
+(
+) 100°C −20°C
+(
+)
+4 min
+(
+)
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 349 J s
+ 
+ 
+ 
+Then its resistance should be described by 
+ 
+ 
+ 
+P = ΔV
+(
+)
+2
+R
+→R = ΔV
+(
+)
+2
+P
+= 120 J C
+(
+)
+2
+349 J s
+= 41.3 Ω
+
+--- PAGE 27 ---
+226     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Its resistivity at 100 °C is given by 
+ 
+ 
+ 
+ρ = ρ0 1+α T −T0
+(
+)
+⎡⎣
+⎤⎦= 1.50 × 10−6 Ω⋅m
+(
+) 1+ 0.4 × 10−3 80
+(
+)
+⎡⎣
+⎤⎦
+= 1.55 × 10−6 Ω⋅m
+ 
+ 
+ 
+Then for a wire of circular cross section, from Equation 27.10, 
+ 
+ 
+ 
+R = ρ 
+A = ρ
+
+π r2 = ρ 4
+π d2
+41.3 Ω = 1.55 × 10−6 Ω⋅m
+(
+) 4
+π d2
+
+d2 = 2.09 × 10+7 m     or         d2 = 4.77 × 10−8 m
+(
+)
+ 
+ 
+ 
+One possible choice is = 0.900 m and d = 2.07 × 10
+–4 m. If  and 
+d are made too small, the surface area will be inadequate to 
+transfer heat into the water fast enough to prevent overheating of 
+the filament. To make the volume less than 0.5 cm
+3, we want  
+and d less than those described by π d2
+4 = 0.5 × 10−6 m3 . 
+Substituting d2 = 4.77 × 10−8 m
+(
+) gives 
+π
+4 4.77 × 10−8 m
+(
+)2 = 0.5 × 10−6 m3 , = 3.65 m and  
+d = 4.18 × 10
+–4 m. Thus our answer is:  
+ 
+ 
+Any diameter d and length  related by d2 = (4.77 × 10−8),
+where d and  are in meters.
+ 
+ 
+(b) 
+Yes; for V = 0.500 cm3 of Nichrome, = 3.65 m and d = 0.418 mm. 
+*P27.65 
+The power the beam delivers to the target is 
+ 
+  
+ 
+ 
+P = IΔV = 25.0 × 10−3 A
+(
+) 4.00 × 106 V
+(
+) = 1.00 × 105 W  
+ 
+The mass of cooling water that must flow through the tube each 
+second if the rise in the water temperature is not to exceed 50°C is 
+found from 
+ 
+  
+ 
+ 
+Q = PΔt = Δm
+(
+)cΔT  
+ 
+Therefore, 
+ 
+  
+ 
+ 
+Δm
+Δt =
+P
+cΔT =
+1.00 × 105 J/s
+4 186 J/kg⋅°C
+(
+) 50.0°C
+(
+) = 0.478 kg/s
+
+--- PAGE 28 ---
+Chapter 27     227 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.66 
+(a) 
+Since P = IΔV, we have 
+ 
+ 
+ 
+I = P
+ΔV = 8.00 × 103 W
+12.0 V
+= 667 A 
+ 
+(b) From P = U /Δt, the time the car runs is  
+ 
+ 
+ 
+Δt = ΔU
+P = 2.00 × 107 J
+8.00 × 103 W = 2.50 × 103 s 
+ 
+ 
+So it moves a distance of   
+ 
+ 
+ 
+Δx = vΔt = 20.0 m s
+(
+) 2.50 × 103 s
+(
+) = 50.0 km 
+P27.67 
+(a) 
+Assuming the change in V is uniform:  
+ 
+ 
+ 
+Ex = −dV x
+( )
+dx
+→Ex = −ΔV
+Δx = −
+0 −4.00 V
+(
+)
+0.500 m −0
+(
+)
+= +8.00 V/m  
+ 
+ 
+or 
+8.00 V/m in the positive x direction. 
+ 
+(b) From Equation 27.10, we have  
+ 
+ 
+ 
+R = ρ
+A =
+4.00 × 10−8 Ω⋅m
+(
+) 0.500 m
+(
+)
+π 1.00 × 10−4 m
+(
+)
+2
+= 0.637 Ω 
+ 
+(c) 
+From Equation 27.7,  
+ 
+ 
+ 
+I = ΔV
+R = 4.00 V
+0.637 Ω = 6.28 A 
+ 
+(d) From Equation 27.5, the current density is given by 
+ 
+ 
+ 
+J = I
+A =
+6.28 A
+π 1.00 × 10−4 m
+(
+)
+2 = 2.00 × 108 A m2 = 200 MA m2
+  
+ 
+ 
+The field and the current are both in the x direction. 
+ 
+(e) 
+We intend to derive the equivalent of Equation 27.6. We start with 
+the definition of current density, J = I/A, and, using Equations 
+27.7 and 27.10, note that the current is given by  
+ 
+ 
+ 
+I = ΔV
+R = E
+R = EA
+ρ
+  
+ 
+ 
+Then,  
+ 
+ 
+ 
+J = I
+A = EA/ ρ
+A
+= E
+ρ
+
+--- PAGE 29 ---
+228     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+  
+ 
+ 
+ 
+E = ρJ = 4.00 × 10−8 Ω⋅m
+(
+) 2.00 × 108 A m2
+(
+) = 8.00 V/m 
+P27.68 
+(a) 
+Assuming the change in V is uniform:  
+ 
+ 
+ 
+Ex = −dV x
+( )
+dx
+→Ex = −ΔV
+Δx = −0 −V
+L −0 = + V
+L
+ 
+ 
+ 
+Therefore, the electric field is V/L in the positive x direction. 
+ 
+(b) From Equation 27.10, we have  
+ 
+ 
+ 
+R = ρ
+A =
+ρL
+π d2 4 = 4ρL π d2 
+ 
+(c) 
+From Equation 27.7,  
+ 
+ 
+ 
+I = ΔV R = Vπ d2 4ρL 
+ 
+(d) From Equation 27.5, the current density is given by  
+ 
+ 
+ 
+J = I
+A = Vπ d2 4ρL
+π d2 4
+= V ρL in the positive x direction 
+ 
+ 
+The field and the current both have the same direction. 
+ 
+(e) 
+We intend to derive the equivalent of Equation 27.6. We start with 
+the definition of current density, J = I/A, and, using Equations 
+27.7 and 27.10, note that the current is given by  
+ 
+ 
+ 
+I = ΔV
+R = E
+R = EA
+ρ  
+ 
+ 
+Then,  
+ 
+ 
+ 
+J = I
+A = EA/ ρ
+A
+= E
+ρ 
+ 
+ 
+so 
+ E = ρ J = ρ
+V
+ρL
+⎛
+⎝⎜
+⎞
+⎠⎟= V
+L 
+P27.69 
+Since there are 2 wires, the total length is = 100 m. The resistance of 
+the wires is 
+ 
+ 
+ 
+R =
+0.108 Ω
+300 m
+⎛
+⎝⎜
+⎞
+⎠⎟100 m
+(
+) = 0.036 0 Ω
+ 
+ 
+(a) 
+We find the potential difference at the customer’s house from 
+ 
+ 
+ 
+ΔV
+(
+)home = ΔV
+(
+)line −IR = 120 V −110 A
+(
+) 0.036 0 Ω
+(
+) = 116 V
+
+--- PAGE 30 ---
+Chapter 27     229 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The power delivered to the customer is 
+ 
+ 
+ 
+P = I ΔV
+(
+) = 110 A
+(
+) 116 V
+(
+) = 12.8 kW 
+ 
+(c) 
+The power dissipated in the wires, or the energy produced in the 
+wires, is 
+ 
+ 
+ 
+Pwires = I 2R = 110 A
+(
+)
+2 0.036 0 Ω
+(
+) = 436 W 
+P27.70 
+The original resistance is Ri = ρLi/Ai. The new length is  
+ 
+ 
+L = Li + δ Li = Li(1 + δ ) 
+ 
+(a) 
+Constancy of volume implies AL = AiLi so   
+ 
+ 
+ 
+A = AiLi
+L
+=
+AiLi
+Li(1+δ) =
+Ai
+(1+δ)
+ 
+ 
+ 
+The new resistance is  
+ 
+ 
+ 
+R = ρL
+A = ρLi(1+ δ)
+Ai /(1+ δ) = Ri(1+ δ)2 = Ri(1+ 2δ + δ 2) 
+ 
+(b) The result is exact if the assumptions are precisely true. Our 
+derivation contains no approximation steps where delta is 
+assumed to be small. 
+P27.71 
+(a) 
+A thin cylindrical shell of radius r, thickness dr, and length L 
+contributes resistance 
+ 
+ 
+ 
+dR = ρd
+A =
+ρdr
+2π r
+(
+)L =
+ρ
+2π L
+⎛
+⎝⎜
+⎞
+⎠⎟
+dr
+r 
+ 
+ 
+The resistance of the whole annulus is the series summation of the 
+contributions of the thin shells: 
+ 
+ 
+ 
+R =
+ρ
+2π L
+dr
+r
+rc
+rb
+∫
+=
+ρ
+2π L ln rb
+ra
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) In this equation ΔV
+I
+=
+ρ
+2π L ln rb
+ra
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+Solving, we get 
+ρ = 2π LΔV
+I ln rb ra
+(
+)
+.
+
+--- PAGE 31 ---
+230     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.72 
+The value of 11.4 A is what results from substituting the given voltage 
+and resistance into Equation 27.7. However, the resistance measured 
+for a lightbulb with an ohmmeter is not the resistance at which it 
+operates because of the change in resistivity with temperature. The 
+higher resistance of the filament at the operating temperature brings 
+the current down significantly.  
+P27.73 
+Let α be the temperature coefficient at 20.0°C, and α′ be the 
+temperature coefficient at 0°C. Then ρ = ρ0 1+ α T −20.0°C
+(
+)
+[
+] and 
+ρ =
+′
+ρ 1+
+′
+α T −0°C
+(
+)
+[
+] must both give the correct resistivity at any 
+temperature T. That is, we must have:  
+ 
+ 
+ 
+ρ0 1+ α T −20.0°C
+(
+)
+[
+] =
+′
+ρ 1+
+′
+α T −0°C
+(
+)
+[
+] 
+[1] 
+ 
+Setting T = 0 in equation [1] yields: 
+ 
+ 
+ 
+ 
+′
+ρ = ρ0 1−α 20.0°C
+(
+)
+[
+] 
+ 
+and setting T = 20.0°C in equation [1] gives: 
+ 
+ 
+ 
+ρ0 =
+′
+ρ 1+
+′
+α
+20.0°C
+(
+)
+[
+] 
+ 
+Substitute ρ′ from the first of these results into the second to obtain:  
+ 
+ 
+ 
+ρ0 = ρ0 1−α 20.0°C
+(
+)
+[
+] 1+
+′
+α
+20.0°C
+(
+)
+[
+] 
+ 
+Therefore, 
+ 
+ 
+ 
+1+
+′
+α
+20.0°C
+(
+) =
+1
+1−α 20.0°C
+(
+) 
+ 
+which simplifies:  
+ 
+ 
+ 
+′
+α
+20.0°C
+(
+) =
+1
+1−α 20.0°C
+(
+) −1 = 1−1−α 20.0°C
+(
+)
+[
+]
+1−α 20.0°C
+(
+)
+′
+α
+20.0°C
+(
+) =
+α 20.0°C
+(
+)
+1−α 20.0°C
+(
+) →
+′
+α =
+α
+1−α 20.0°C
+(
+)
+ 
+ 
+Therefore,  
+ 
+ 
+  
+′
+α =
+α
+1−α 20.0°C
+(
+)
+[
+]
+=
+3.8 × 10−3 °C
+(
+)
+−1
+1−3.8 × 10−3 °C
+(
+)
+−1
+(
+) 20.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 4.1× 10−3 °C
+(
+)
+−1
+
+--- PAGE 32 ---
+Chapter 27     231 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.74 
+(a) 
+We begin from ΔV = −E ⋅  or  dV = −E ⋅dx . Then, 
+ 
+ 
+ 
+ΔV = −IR = −E⋅ 
+ 
+ 
+and the current is 
+ 
+ 
+ 
+I = dq
+dt = E⋅
+R = A
+ρE⋅= A
+ρ E = −σ A dV
+dx = σ A dV
+dx
+ 
+ 
+(b) Current flows in the direction of decreasing voltage. Energy flows 
+by heat in the direction of decreasing temperature. 
+P27.75 
+We begin with  
+ 
+ 
+ 
+R = ρ
+A = ρ0 1+α T −T0
+(
+)
+⎡⎣
+⎤⎦0 1+
+′
+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+A0 1+
+′
+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+2
+= ρ00
+A0
+1+α T −T0
+(
+)
+1+
+′
+α T −T0
+(
+)
+. 
+ 
+For copper (for T0 = 20.0°C): ρ0 = 1.700 × 10−8 Ω⋅m , 
+α = 3.900 × 10−3 °C−1 , and 
+′
+α = 17.00 × 10−6 °C−1. Then,  
+ 
+ 
+ 
+R = ρ00
+A0
+1+ α T −T0
+(
+)
+1+
+′
+α T −T0
+(
+)
+R =
+1.700 × 10−8
+(
+) 2.000
+(
+)
+π 0.1000 × 10−3
+(
+)
+2
+1+ 3.900 × 10−3 °C−1
+(
+) 80.00°C
+(
+)
+1+ 17.00 × 10−6 °C−1
+(
+) 80.00°C
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+R = 1.418 Ω
+ 
+P27.76 
+The wire has length , and radius r; its cross-sectional area is A (πr
+2, if 
+circular), which is proportional to r
+2. Because both  and r change with 
+a temperature variation ΔT according to L = L0 1+
+′
+α ΔT
+(
+), the cross-
+sectional area changes according to A = A0 1+
+′
+α ΔT
+(
+)
+2 . 
+ 
+Calling R0 = ρ00
+A0
+ at temperature T0, we have  
+ 
+ 
+R0 = ρ00
+A0
+→R = ρ0 1+α T −T0
+(
+)
+⎡⎣
+⎤⎦0 1+
+′
+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+A0 1+
+′
+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+2
+= ρ0
+A0
+1+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+1+
+′
+α T −T0
+(
+)
+⎡⎣
+⎤⎦
+x
+
+--- PAGE 33 ---
+232     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which gives 
+ 
+ 
+ 
+R = R0
+1+α T −T0
+(
+)
+1+
+′
+α T −T0
+(
+)
+ 
+P27.77 
+(a) 
+Think of the device as two capacitors in parallel. The one on the 
+left has κ 1 = 1, A1 =
+
+2 + x
+⎛
+⎝⎜
+⎞
+⎠⎟. The equivalent capacitance is 
+ 
+ 
+ 
+κ 1 ∈0 A1
+d
++ κ 2 ∈0 A2
+d
+= ∈0 
+d
+
+2 + x
+⎛
+⎝⎜
+⎞
+⎠⎟+ κ ∈0 
+d
+
+2 −x
+⎛
+⎝⎜
+⎞
+⎠⎟
+= ∈0 
+2d + 2x +κ−2κ x
+(
+)
+ 
+ 
+(b) The charge on the capacitor is Q = CΔV 
+ 
+ 
+ 
+Q = ∈0 ΔV
+2d
++ 2x +κ−2κ x
+(
+)
+ 
+ 
+ 
+The current is 
+ 
+ 
+ 
+I = dQ
+dt = dQ
+dx
+dx
+dt = ∈0 ΔV
+2d
+0 + 2 + 0 −2κ
+(
+)v = −∈0 ΔVv
+d
+κ −1
+(
+)
+ 
+ 
+ 
+The negative value indicates that the current drains charge from 
+the capacitor. Positive current is clockwise ∈0 ΔVv
+d
+κ −1
+(
+) . 
+P27.78 
+(a) 
+The resistance of the dielectric block is R = ρ
+A =
+d
+σA . 
+ 
+ 
+The capacitance of the capacitor is C = κ ∈0 A
+d
+. 
+ 
+ 
+Then RC = d
+σ A
+κ ∈0 A
+d
+= κ ∈0
+σ
+ is a characteristic of the material 
+only. 
+ 
+(b) The resistance between the plates of the capacitor is 
+ 
+ 
+ 
+R = κ ∈0
+σ C = ρκ ∈0
+C
+= 75 × 1016 Ω⋅m
+(
+) 3.78
+(
+) 8.85 × 10−12 C2 N⋅m2
+(
+)
+14.0 × 10−9 F
+= 1.79 × 1015 Ω
+
+--- PAGE 34 ---
+Chapter 27     233 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.79 
+The volume of the gram of gold is given by ρ = m
+V . 
+ 
+ 
+V = m
+ρ =
+10−3 kg
+19.3 × 103 kg m3 = 5.18 × 10−8 m3 = A 2.40 × 103 m
+(
+)
+ 
+ 
+Then, A = 2.16 × 10−11 m2 and the resistance is 
+ 
+ 
+R = ρ 
+A = 2.44 × 10−8 Ω⋅m
+(
+) 2.4 × 103 m
+(
+)
+2.16 × 10−11 m2
+= 2.71× 106 Ω
+ 
+P27.80 
+Evaluate I = I0 exp eΔV
+kBT
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ and R = ΔV
+I with 
+ 
+I0 = 1.00 × 10
+–9 A, e = 1.60 × 10
+–19 C, and kB = 1.38 × 10
+–23 J/K. 
+ 
+Parts (a) and (b): The following includes a partial table of calculated
+values and a graph for each of the specified temperatures.
+ 
+ 
+(i) 
+For T = 280 K: 
+ 
+ 
+ 
+ΔV V
+( )
+I A
+(
+)
+R Ω
+( )
+0.400
+0.015 6
+25.6
+0.440
+0.081 8
+5.38
+0.480
+0.429
+1.12
+0.520
+2.25
+0.232
+0.560
+11.8
+0.047 6
+0.600
+61.6
+0.009 7
+ 
+ 
+ANS. FIG. P27.80(i)
+
+--- PAGE 35 ---
+234     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) For T = 300 K: 
+ 
+ 
+ 
+ΔV V
+( )
+I A
+(
+)
+R Ω
+( )
+0.400
+0.005
+77.3
+0.440
+0.024
+18.1
+0.480
+0.114
+4.22
+0.520
+0.534
+0.973
+0.560
+2.51
+0.223
+0.600
+11.8
+0.051
+ 
+ 
+ANS. FIG. P27.80(ii) 
+ 
+(iii) For T = 320 K: 
+ 
+ 
+ 
+ΔV V
+( )
+I A
+(
+)
+R Ω
+( )
+0.400
+0.002 0
+203
+0.440
+0.008 4
+52.5
+0.480
+0.035 7
+13.4
+0.520
+0.152
+3.42
+0.560
+0.648
+0.864
+0.600
+2.76
+0.217
+ 
+ 
+ANS. FIG. P27.80(iii)
+
+--- PAGE 36 ---
+Chapter 27     235 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.81 
+To find the final operating temperature, we begin with 
+ 
+ 
+ 
+R = R0 1+ α T −T0
+(
+)
+⎡⎣
+⎤⎦ 
+ 
+and solve for the temperature T: 
+ 
+ 
+ 
+T = T0 + 1
+α
+R
+R0
+−1
+⎡
+⎣⎢
+⎤
+⎦⎥= T0 + 1
+α
+I0
+I −1
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+In this case, I = I0
+10 , so  
+ 
+ 
+ 
+T = T0 + 1
+α 9( ) = 20° +
+9
+0.004 50 °C = 2 020°C 
+ 
+ 
+ 
+Challenge Problems 
+P27.82 
+(a) 
+We are given  
+α = 1
+ρ
+dρ
+dT
+ 
+ 
+ 
+Separating variables, 
+dρ
+ρ
+ρ0
+ρ∫
+=
+α dT
+T0
+T∫
+. We integrate, on both 
+sides, from the physical situation at temperature T0 to that at 
+temperature T. 
+ 
+ 
+Integrating both sides,  
+ln(ρ/ρ0) = α(T – T0) 
+ 
+ 
+Thus ρ = ρ0e
+α T −T0
+(
+) 
+ 
+(b) From the series expansion ex ≈1+ x, with x much less than 1,  
+ 
+ 
+ 
+ρ ≈ρ0 1+ α T −T0
+(
+)
+⎡⎣
+⎤⎦ 
+P27.83 
+A spherical layer within the shell, with radius r and thickness dr, has 
+resistance 
+ 
+ 
+dR = ρdr
+4πr2 
+ 
+The whole resistance is the absolute value of the quantity 
+ 
+ 
+R =
+dR =
+ρdr
+4πr2 =
+ra
+rb∫
+a
+b∫
+ρ
+4π
+r−1
+−1 ra
+rb
+= −ρ
+4π
+−1
+ra
++ 1
+rb
+⎛
+⎝⎜
+⎞
+⎠⎟= ρ
+4π
+1
+ra
+−1
+rb
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 37 ---
+236     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.84 
+Refer to ANS. FIG. P27.84. The current flows 
+generally parallel to L. Consider a slice of the 
+material perpendicular to this current, of 
+thickness dx, and at distance x from face A. 
+Then the other dimensions of the slice are w 
+and y, where by proportion y – y1
+x
+= y2 – y1
+L
+ 
+so y = y1 +(y2 −y1) x
+L. The bit of resistance which this slice contributes is  
+ 
+ 
+dR = ρdx
+A
+= ρdx
+wy
+=
+ρdx
+w y1 + y2 – y1
+(
+) x/L
+(
+)
+(
+)
+ 
+ 
+The whole resistance is that of all the slices:  
+ 
+ 
+R =
+dR =
+x=0
+L∫
+∫0
+L
+ρdx
+w y1 +
+y2 – y1
+(
+) x/L
+(
+)
+(
+)
+=
+ρ
+w 
+L
+y2 – y1 ∫x=0
+L
+y2 – y1
+(
+)/L
+(
+)dx
+y1 +
+y2 – y1
+(
+) x/L
+(
+)
+ 
+ 
+With u = y1 + y2 – y1
+(
+) x
+L  this is of the form 
+du
+u 
+∫
+, so 
+ 
+ 
+R =
+ρL
+w y2 – y1
+(
+) ln y1 + y2 – y1
+(
+) x/L
+(
+)
+⎡⎣
+⎤⎦x=0
+L
+=
+ρL
+w y2 – y1
+(
+) ln y2 – ln y1
+(
+) =
+ρL
+w y2 – y1
+(
+) ln y2
+y1
+ 
+P27.85 
+From the geometry of the longitudinal section of  
+the resistor shown in ANS. FIG. P27.85, we see that 
+ 
+ 
+ 
+b −r
+(
+)
+y
+= b −a
+(
+)
+h
+ 
+ 
+From this, the radius at a distance y from the base  
+is r = a −b
+(
+) y
+h + b. For a disk-shaped element of volume dR = ρdy
+π r2 :  
+ 
+ 
+R = ρ
+π
+dy
+a −b
+(
+) y h
+(
+) + b
+⎡⎣
+⎤⎦
+2
+0
+h
+∫
+ 
+ 
+Using the integral formula 
+du
+au + b
+(
+)
+2
+∫
+= −
+1
+a au + b
+(
+) , R = ρ
+π
+h
+ab 
+ 
+ 
+ 
+ANS. FIG. P27.84 
+ 
+ANS. FIG. P27.85
+
+--- PAGE 38 ---
+Chapter 27     237 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P27.2 
+qω
+2π
+  
+P27.4 
+1.05 mA 
+P27.6 
+(a) 5.57 × 10
+–5 m/s; (b) The drift speed is smaller because more 
+electrons are being conducted. 
+P27.8 
+(a) 99.5 kA/m
+2; (b) The current is the same; (c) The current density is 
+smaller; (d) 0.800 cm; (e) I = 5.00 A; (f) 2.49 × 10
+4 A/m
+2 
+P27.10 
+(a) 2.21 × 10
+–7 m; (b) The potential of the nearest neighbor is very small 
+compared to the 2 MV accelerating potential, so repulsion within the 
+beam is a small effect. 
+P27.12 
+0.256 C 
+P27.14 
+500 mA 
+P27.16 
+6.43 A 
+P27.18 
+1.29 
+P27.20 
+(a) 
+mR
+ρρm
+; (b) 
+4
+π
+ρm
+ρmR
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/4
+ 
+P27.22 
+(a) unaffected; (b) doubles; (c) doubles; (d) unchanged 
+P27.24 
+(a) 5.58 × 10
+–2 kg/mol; (b) 1.41 × 10
+5 mol/m
+3; (c) 8.49 × 10
+28 atoms
+m3
+;  
+(d) 1.70 × 10
+29 electrons/m
+3; (e) 2.21 × 10
+–4 m/s 
+P27.26 
+T = 1.44 × 10
+3 °C 
+P27.28 
+1.98 A 
+P27.30 
+(a) 1.22 Ω; (b) 8.00 × 10
+–4 increase 
+P27.32 
+(a) The design goal can be met; (b) 1 = 0.898 m and 2 = 26.2 m 
+P27.34 
+1.71 Ω 
+P27.36 
+(a) 3.00 × 108 W; (b) 1.75 × 1017 W 
+P27.38 
+7.50 W 
+P27.40 
+15.0 µW 
+P27.42 
+6.53 Ω 
+P27.44 
+(a) $1.48; (b) $0.005 34; (c) $0.381
+
+--- PAGE 39 ---
+238     Current and Resistance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.46 
+(a) 2.1 W; (b) 3.42 W; (c) It would not be as safe. If surrounded by 
+thermal insulation, it would get much hotter than a copper wire. 
+P27.48 
+$0.319 
+P27.50 
+(a) 0.530; (b) 221 J; (c) 15.1°C 
+P27.52 
+See P27.52 for full explanation. 
+P27.54 
+~ $1 
+P27.56 
+(a) 17.3 A; (b) 22.4 MJ; (c) $0.684 
+P27.58 
+276°C 
+P27.60 
+(a) Lightbulb A = 576 Ω and Lightbulb B = 144 Ω; (b) 4.80 s; (c) The 
+charge is the same. It is at a location that is lower in potential;  
+(d) 0.040 0 s; (e) The energy is the same. Energy enters the lightbulb by 
+electric transmission and leaves by heat and electromagnetic radiation; 
+(f) $1.98 
+P27.62 
+(a) See the table in P27.62(a); (b) 9.93 × 10−7  Ω⋅m; (c) The average value 
+is within 1% of the tabulated value of 1.00 × 10−6 Ω⋅m given in Table 
+27.2. 
+P27.64 
+(a) Any diameter d and length  related by d2 = 4.77 × 10−8
+(
+), where d 
+and  are in meters; (b) Yes; for V = 0.500 cm
+3 of Nichrome, = 3.65 m 
+and d = 0.418 mm. 
+P27.66 
+(a) 667 A; (b) 50.0 km 
+P27.68 
+(a) V/L in the positive x direction; (b) 4 ρL/π d
+2; (c)Vπd2 / 4ρL;  
+(d) V/ρL in the positive x direction; (e) ρJ = ρ
+V
+ρL
+⎛
+⎝⎜
+⎞
+⎠⎟= V
+L = E 
+P27.70 
+See P27.70(a) for the full explanation; (b) The result is exact if the 
+assumptions are precisely true. Our derivation contains no 
+approximation steps where delta is assumed to be small. 
+P27.72 
+The value of 11.4 A is what results from substituting the given voltage 
+and resistance into Equation 27.7. However, the resistance measured 
+for a lightbulb with an ohmmeter is not the resistance at which it 
+operates because of the change in resistivity with temperature. The 
+higher resistance of the filament at the operating temperature brings 
+the current down significantly. 
+P27.74 
+(a) σA dV
+dx
+; (b) Current flows in the direction of decreasing voltage. 
+Energy flows by heat in the direction of decreasing temperature.
+
+--- PAGE 40 ---
+Chapter 27     239 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P27.76 
+R = R0
+1+ α T −T0
+(
+)
+1+
+′
+α T −T0
+(
+)
+ 
+P27.78 
+(a) See P27.78 for full explanation; (b) 1.79 × 10
+15 Ω 
+P27.80 
+(a) See Table P27.80 (i), (ii), and (iii); (b) See ANS. FIG. P27.80 (i), (ii), 
+and (iii). 
+P27.82 
+(a) ρ = ρ0e
+α T −T0
+(
+) ; (b) ρ ≈ρ0 1+ α T −T0
+(
+)
+⎡⎣
+⎤⎦ 
+P27.84 
+ρL
+w y2 −y1
+(
+)
+ln y2
+y1
+⎛
+⎝⎜
+⎞
+⎠⎟

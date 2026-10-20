@@ -1,0 +1,281 @@
+
+--- SLIDE 1 ---
+Welcome(Akwaaba)
+Congratulations
+
+--- SLIDE 2 ---
+Administrivia
+Course Code: INF101
+Course Title: INTRODUCTION TO COMPUTING
+Credit: 3 hours
+Lecturer: Kofi Akotoye 	     (pref. Kofi)
+Office Hours: Tuesday/09:00 – 11:00
+Website: INF101 portal on UCC LMS
+Assessments: 2 Quizzes & Exam
+Offline/Online ?
+Quiz – Fast food
+Exam – Full course dinner
+Announcements/Updates: Course website
+Mobile identity: 
+
+
+--- SLIDE 3 ---
+INTRODUCTION
+
+--- SLIDE 4 ---
+Computer?
+“An electronic device, operating under the control of instructions stored in its own memory, that can accept data (input), process the data according to specified rules, produce information (output), and store the information for future use.” 
+
+--- SLIDE 5 ---
+ComputerMakeup?
+Component (Hardware)
+Material
+Electrical
+Electronic
+Mechanical 
+Function
+Input (Receive)
+Process (Manipulate/Evaluate)
+Output (Produce/Supply)
+Storage (Retain)
+Communicate (Transfer)
+
+--- SLIDE 6 ---
+Computer
+Instructions/Commands (Software/Program/Apps)
+Data (Raw/Unprocessed)
+Text
+Number
+Image
+Sound
+Video
+Information (Processed/Facts/Result)
+Text
+Number
+Image
+Sound
+Video
+Packet
+
+--- SLIDE 7 ---
+How to command the Computer
+User interface
+Command Line Interface (CLI)
+Text driven
+Graphical User Interface (GUI) (or WIMP)
+Menu driven
+Touchscreen
+Voice interface
+Programming language
+1st Generation – Machine language (1GL)
+Uses bits (0/1)
+2nd Generation – Assembly language (2GL)
+Uses mnemonics (mov, add, mul, etc)
+3rd Generation – High level language (3GL)
+Natural language (let, if, break, import, return, etc)
+Programmer friendly
+Machine Independent
+Ex: C, C++, C#, Java, BASIC, Pascal, Fortran, ALGOL, COBOL
+
+
+--- SLIDE 8 ---
+How to command the Computer
+
+4th Generation – Very high-level language (4GL)
+specialized toward very specific programming domains.
+support for database management
+report generation
+mathematical optimization
+GUI development
+web development.
+Ex: SQL, Unix Shell, Oracle Reports, R
+
+5th Generation (5GL)
+Instructions are designed as constraints (conditions) rather than algorithms (steps)
+Also known as logic-based languages or declarative languages.
+Ex: OPS5, Mercury
+
+
+Programming lang. contd.
+
+--- SLIDE 9 ---
+Characteristics of Computers
+Automatic
+Mostly require no human involvement during processing of task
+Speed
+Guarantee fast processing
+Microseconds (10-6)
+Nanoseconds (10-9)
+Picoseconds (10-12)
+Accurate
+Consistently high
+Design dependent
+Garbage In Garbage Out (GIGO)
+Bad input
+Bad programming
+Diligent
+Guarantee continuity of work
+Heat, dust, hacking
+
+
+--- SLIDE 10 ---
+Characteristics of Computers (contd)
+Versatile
+Capable of performing potentially any task
+Task can be reduced to a finite series of logical steps
+Storage
+Capable of keeping large volume of data/information
+Capable of performing efficient house keeping
+Dumb and Zombie!
+Very excellent at carrying out instructions
+Inanimate
+But please treat them with respect 
+
+
+--- SLIDE 11 ---
+Computer History
+Generation  -> Categorized according to Hardware and Software
+First (1940 – 1956)
+Processor: vacuum tube
+Second (1956 – 1963)
+Processor: transistor
+Third (1964 – 1971)
+Processor: integrated circuit (IC)
+Fourth (1971 – 1980)
+Processor: VLSI microprocessor
+Fifth (> 1980)
+Processor: ULSI microprocessor
+
+--- SLIDE 12 ---
+A little back in time
+
+--- SLIDE 13 ---
+First Generation(1940 – 1956)
+Generation | Key Hardware Technologies | Key Software Technologies | Key Characteristics | Examples of Systems
+First | Vacuum tubes
+Electromagnetic relay memory
+Punched cards | Machine & Assembly languages
+Stored program concept
+Mostly scientific applications | Bulky size
+Highly unreliable
+Limited commercial use and costly
+Difficult to use | ENIAC
+EDVAC
+EDSAC
+UNIVAC I 
+IBM 701
+
+--- SLIDE 14 ---
+Digital Trailblazers
+
+--- SLIDE 15 ---
+Second Generation(1956 – 1963)
+Generation | Key Hardware Technologies | Key Software Technologies | Key Characteristics | Examples of Systems
+Second | Transistors
+Magnetic cores memory
+Magnetic tapes
+Disks for secondary storage | Batch operating system
+High-level programming languages
+Scientific and commercial applications | Faster, relatively smaller, more reliable and easier to program
+Costly and commercially unattractive | UNIVAC II
+IBM 7030
+CDC 1604
+Honeywell 400
+
+--- SLIDE 16 ---
+Third Generation(1964 – 1971)
+Generation | Key Hardware Technologies | Key Software Technologies | Key Characteristics | Examples of Systems
+Third | ICs with SSI and MSI technologies
+Larger magnetic core memory
+Larger capacity disk and magnetic tape secondary storage
+Minicomputers | Timesharing operating system
+Standardization of high-level programming languages
+Unbundling of software from hardware | Faster, smaller, more reliable, easier and cheaper to produce
+Commercially, easier to use and easier to upgrade
+Scientific, commercial and interactive online applications | IBM 360/370
+PDP-8
+PDP-11
+CDC 6600
+
+--- SLIDE 17 ---
+Fourth Generation(1971 – 1980)
+Generation | Key Hardware Technologies | Key Software Technologies | Key Characteristics | Examples of Systems
+Fourth | ICs with VLSI technology
+Microprocessor, semiconductor memory
+Large capacity hard disks as in-built secondary storage
+Magnetic tapes and floppy disks as portable storage media
+PC
+Supercomputers based on parallel vector processing and symmetric multiprocessing technologies
+Spread of highspeed computer networks | Operating systems for PCs with GUI and multiple windows on a single terminal session
+Multiprocessing OS with concurrent programming languages
+UNIX OS with C programming language
+Object-oriented design and programming
+PC, network-based and supercomputer applications
+ | Small, affordable, reliable and easy to use PCs
+More powerful and reliable mainframe systems and supercomputers
+Totally general-purpose machines
+Easier to produce commercially
+Easier to upgrade
+Rapid software development possible | IBM PC and clones
+Apple II
+TRS-80
+VAX-9000
+CRAY-1
+CRAY-2
+CRAY-X/MP
+
+--- SLIDE 18 ---
+Fifth Generation(> 1980)
+Generation | Key Hardware Technologies | Key Software Technologies | Key Characteristics | Examples of Systems
+Fifth | ICs with ULSI technology
+Larger capacity main memory
+Hard disks with RAID support
+Optical disks as portable read-only storage media
+Notebooks, powerful desktop PCs and workstations
+Power servers and supercomputers
+Internet
+Cluster computing | Micro-kernel based, multithreading, distributed OS
+Parallel programming libraries like
+MPI & PVM
+Java
+World Wide Web
+Multimedia, internet applications
+More complex supercomputing applications | Portable computers
+Powerful, cheaper, reliable and easier to use desktop machines
+Powerful supercomputers
+High uptime due to hot-pluggable components (PnP)
+Totally general-purpose machines
+Easier to produce commercially, easier to upgrade
+Rapid software development
+ | IBM notebooks
+IBM SP/2
+SUN Workstations
+SGI Origin 2000
+PARAM 10000
+
+
+--- SLIDE 19 ---
+Triviamania
+Computer Engineering
+Design and develop computers (component & function)
+Systems designer, network designer
+Computer Science
+Define and formulate tractable computing solution
+Design and implement algorithms
+System engineer, network engineer, software engineer
+Information Technology
+Integrates computers and algorithms into cutting edge solutions
+System administrator, network administrator, database administrator, system analyst
+Informatics 
+Information transformation
+Data storage and retrieval
+Library science
+Information Systems
+Study task, people and computers to deliver organisational goals
+
+--- SLIDE 20 ---
+Acknowledgement
+Open Door – istockphoto
+Office 365 online gallery
+Wikipedia 
+Computer Hope

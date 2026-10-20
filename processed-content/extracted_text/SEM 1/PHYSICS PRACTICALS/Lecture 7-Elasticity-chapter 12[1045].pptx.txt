@@ -1,0 +1,171 @@
+
+--- SLIDE 1 ---
+Static Equilibrium and Elasticity
+
+--- SLIDE 2 ---
+Static Equilibrium
+Equilibrium implies that the object moves with both constant velocity and constant angular velocity relative to an observer in an inertial reference frame.
+Will deal now with the special case in which both of these velocities are equal to zero
+This is called static equilibrium.
+Static equilibrium is a common situation in engineering.
+The principles involved are of particular interest to civil engineers, architects, and mechanical engineers.
+
+--- SLIDE 3 ---
+Elasticity
+We will disuses how objects deform under load conditions.
+An elastic object returns to its original shape when the deforming forces are removed.
+Various elastic constants will be defined, each corresponding to a different type of deformation.
+LECTURE GOALS
+
+--- SLIDE 4 ---
+     Center of Mass
+An object can be divided into many small particles.
+Each particle will have a specific mass and specific coordinates.
+The x coordinate of the center of mass will be
+
+
+
+Similar expressions can be found for the y and z coordinates.
+
+--- SLIDE 5 ---
+Center of Gravity
+All the various gravitational forces acting on all the various mass elements are equivalent to a single gravitational force acting through a single point called the center of gravity (CG).
+Each particle contributes a torque about an axis through the origin equal in magnitude to the particle’s weight multiplied by its moment arm.
+
+
+--- SLIDE 6 ---
+Center of Gravity, cont
+The torque due to the gravitational force on an object of mass M is the force Mg acting at the center of gravity of the object.
+If g is uniform over the object, then the center of gravity of the object coincides with its center of mass.
+If the object is homogeneous and symmetrical, the center of gravity coincides with its geometric center.
+
+--- SLIDE 7 ---
+Definitions Associated With Deformation
+Stress
+Is proportional to the force causing the deformation
+It is the external force acting on the object per unit cross-sectional area.
+Strain
+Is the result of a stress
+Is a measure of the degree of deformation
+
+--- SLIDE 8 ---
+Elasticity
+So far we have assumed that objects remain rigid when external forces act on them.
+Except springs
+Actually, all objects are deformable to some extent.
+It is possible to change the size and/or shape of the object by applying external forces.
+Internal forces resist the deformation.
+
+--- SLIDE 9 ---
+Elastic Modulus
+The elastic modulus is the constant of proportionality between the stress and the strain.
+For sufficiently small stresses, the stress is directly proportional to the strain.
+It depends on the material being deformed.
+It also depends on the nature of the deformation.
+The elastic modulus, in general, relates what is done to a solid object to how that object responds.
+
+
+
+Various types of deformation have unique elastic moduli.
+
+
+--- SLIDE 10 ---
+Three Types of Moduli
+Young’s Modulus
+Measures the resistance of a solid to a change in its length
+Shear Modulus
+Measures the resistance of motion of the planes within a solid parallel to each other
+Bulk Modulus
+Measures the resistance of solids or liquids to changes in their volume
+
+--- SLIDE 11 ---
+Young’s Modulus
+The bar is stretched by an amount DL under the action of the force F.
+The tensile stress is the ratio of the magnitude of the external force to the cross-sectional area A.
+The tension strain is the ratio of the change in length to the original length.
+Young’s modulus, Y, is the ratio of those two ratios:
+
+
+         Units are N / m2
+
+
+
+
+--- SLIDE 12 ---
+Stress vs. Strain Curve
+Experiments show that for certain stresses, the stress is directly proportional to the strain.
+This is the elastic behavior part of the curve.
+The elastic limit is the maximum stress that can be applied to the substance before it becomes permanently deformed.
+
+
+--- SLIDE 13 ---
+Stress vs. Strain Curve, cont’d.
+When the stress exceeds the elastic limit, the substance will be permanently deformed.
+The curve is no longer a straight line.
+With additional stress, the material ultimately breaks.
+
+--- SLIDE 14 ---
+Shear Modulus
+Another type of deformation occurs when a force acts parallel to one of its faces while the opposite face is held fixed by another force.
+This is called a shear stress.
+For small deformations, no change in volume occurs with this deformation.
+
+
+
+--- SLIDE 15 ---
+Shear Modulus, cont.
+The shear strain is Dx / h.
+Dx is the horizontal distance the sheared face moves.
+h is the height of the object.
+The shear stress is F / A.
+F is the tangential force.
+A is the area of the face being sheared.
+The shear modulus is the ratio of the shear stress to the shear strain.
+
+
+Units are N / m2
+
+--- SLIDE 16 ---
+Bulk Modulus
+Another type of deformation occurs when a force of uniform magnitude is applied perpendicularly over the entire surface of the object.
+The object will undergo a change in volume, but not in shape.
+The volume stress is defined as the ratio of the magnitude of the total force, F, exerted on the surface to the area, A, of the surface.
+This is also called the pressure.
+The volume strain is the ratio of the change in volume to the original volume.
+
+
+--- SLIDE 17 ---
+Bulk Modulus, cont.
+The bulk modulus is the ratio of the volume stress to the volume strain.
+
+
+
+The negative indicates that an increase in pressure will result in a decrease in volume.
+
+
+--- SLIDE 18 ---
+Compressibility
+The compressibility is the inverse of the bulk modulus.
+It may be used instead of the bulk modulus.
+
+
+--- SLIDE 19 ---
+Moduli and Types of Materials
+Both solids and liquids have a bulk modulus.
+Liquids cannot sustain a shearing stress or a tensile stress.
+If a shearing force or a tensile force is applied to a liquid, the liquid will flow in response.
+
+--- SLIDE 20 ---
+Moduli Values
+
+--- SLIDE 21 ---
+Problem
+	A 20-m long steel wire (cross-section 1.0 cm2, Young's modulus 2.0 x 1011 N/m2), is subjected to a load of 25 000 N. How much will the wire stretch under the load?
+
+Ans: 2.5 cm
+
+--- SLIDE 22 ---
+Problem
+	How large a force is necessary to stretch a 2.0-mm diameter copper wire (Y = 11 x 1010 N/m2) by 1.0%?
+
+Ans: 3.5 kN

@@ -1,0 +1,66 @@
+
+--- SHEET: Sheet1 ---
+ID # | Type | Equipment Detail | Checked Out | Checked In | Checked Out By
+3000 | Camera | Saris Lumina Digital Camera | 2015-05-12 00:00:00 | 2015-05-15 00:00:00 | Shannon Nguyen
+3005 | Camera | Saris Zoom Z-60 Digital Camera | 2015-07-27 00:00:00 | 2015-08-06 00:00:00 | Sela Shepard
+1021 | Laptop | 15" EDI SmartPad L200-3 Laptop | 2015-09-15 00:00:00 | 2015-10-01 00:00:00 | Sofie Ragnar
+1022 | Laptop | 15" EDI SmartPad L200-3 Laptop | 2015-08-14 00:00:00 | 2015-08-16 00:00:00 | Hank Sorenson
+1023 | Laptop | 15" EDI SmartPad L200-3 Laptop | 2015-08-08 00:00:00 | 2015-08-15 00:00:00 | Jennifer Weiss
+3070 | Camera | Omega PixL Digital Camcorder | 2015-10-06 00:00:00 |  | Min Seung
+1025 | Laptop | 15" EDI SmartPad L200-4X | 2015-09-26 00:00:00 | 2015-10-04 00:00:00 | Min Seung
+1031 | Laptop | 17" Saris X-10 Laptop | 2015-10-04 00:00:00 |  | Nick Ortiz
+1032 | Laptop | 17" Saris X-10 Laptop | 2015-09-19 00:00:00 |  | Stanley Geyer
+1033 | Laptop | 17" Saris X-10 Laptop | 2015-09-24 00:00:00 | 2015-09-26 00:00:00 | George D'Agosta
+1034 | Laptop | 17" Saris X-10 Laptop | 2015-08-25 00:00:00 | 2015-08-27 00:00:00 | Jay Peralta
+2050 | Other | EDI SmartBoard L500-1 | 2015-10-05 00:00:00 | 2015-10-06 00:00:00 | Anthony Liddell
+2051 | Other | EDI SmartBoard L500-1 | 2015-10-01 00:00:00 | 2015-10-05 00:00:00 | Sofie Ragnar
+3800 | Other | U-Go Saris DigiCam Printer II | 2015-08-04 00:00:00 | 2015-08-05 00:00:00 | Hank Sorenson
+3900 | Other | U-Go Saris Label Maker | 2015-06-13 00:00:00 | 2015-06-20 00:00:00 | Clint Gosse
+4800 | Other | 7N Deluxe Camera Travel Bag | 2015-07-27 00:00:00 | 2015-08-06 00:00:00 | Sela Shepard
+4900 | Other | 7N Light Rolling Laptop Case | 2015-10-04 00:00:00 |  | Jay Peralta
+4905 | Other | 7N Heavy Rolling Laptop Case | 2015-10-04 00:00:00 |  | Nick Ortiz
+6100 | Projector | Omega VisX 1.0 | 2015-09-28 00:00:00 | 2015-10-01 00:00:00 | Win Armitage
+6101 | Projector | Omega VisX 1.0 | 2015-09-26 00:00:00 | 2015-09-27 00:00:00 | Michael Earley
+6102 | Projector | Omega VisX 1.0 | 2015-08-22 00:00:00 | 2015-08-23 00:00:00 | Jamila Kyle
+6200 | Projector | Saris Lux T-80 | 2015-09-01 00:00:00 | 2015-09-04 00:00:00 | Jolie Chaturvedi
+6301 | Projector | Saris Lux T-81 Lite | 2015-09-10 00:00:00 |  | Marques Herndon
+6302 | Projector | Saris Lux T-81 Lite | 2015-09-08 00:00:00 | 2015-09-15 00:00:00 | Dean Sorenson
+1011 | Tablet | Saris SlimPro | 2015-10-04 00:00:00 |  | Jay Peralta
+1012 | Tablet | Saris SlimPro | 2015-09-29 00:00:00 |  | August Zorn
+5020 | TV | 32" Paragon 440 OLED TV | 2015-08-11 00:00:00 | 2015-08-13 00:00:00 | Marta Lao
+5022 | TV | 32" Paragon 440 OLED TV | 2015-07-17 00:00:00 | 2015-07-17 00:00:00 | Carl Langer
+5023 | TV | 50" Paragon 490L LED TV | 2015-10-01 00:00:00 | 2015-10-01 00:00:00 | Margaret Lisbon
+
+--- SHEET: Challenge ---
+ID# | Customer Last Name | Item Description | Item Type | Loan Amount | Deadline
+2549 | Bullock | 1975 Phillip Electric Guitar  | Instrument | 400 | 2015-12-15 00:00:00
+4732 | Carter | 50" LED Suzu Flat Screen TV | Electronics | 500 | 2015-11-28 00:00:00
+3075 | Li | Top Elite Complete Set Golf Clubs | Sporting Goods | 98 | 2015-10-05 00:00:00
+1093 | Assaf | 5 Piece MDJS Metallic Drum Set | Instrument | 125 | 2015-11-14 00:00:00
+1734 | Hernandez | Intro to Biochemistry Hardcover 3rd Ed. | Books | 15 | 2015-12-09 00:00:00
+2045 | Smith | 15" Suzu Laptop  | Electronics | 150 | 2016-01-24 00:00:00
+2975 | Kokumi | 7" 16 GB Sansei Tablet | Electronics | 75 | 2015-09-13 00:00:00
+2368 | Jensen | Fitness Stud Adjustable Kettlebell | Sporting Goods | 10 | 2015-08-07 00:00:00
+3056 | Chang | Michael Sparkler 3 Piece Suit Dark Grey | Clothing | 12 | 2015-10-12 00:00:00
+3856 | Benner | 1st Ed. World of Geometry | Books | 50 | 2015-12-13 00:00:00
+1839 | Oluwatoke | Judy Boston Vintage Dress Red | Clothing | 38 | 2016-02-25 00:00:00
+2965 | Haley | Milano 4/4 Size Cello with Hard Case | Instrument | 200 | 2016-01-18 00:00:00
+2345 | Marquez-Jimenez | Sansei Portable Gaming System Black | Electronics | 100 | 2016-02-02 00:00:00
+1945 | Bullock | .75 Ct Rose Gold and Diamond Earrings | Jewelry | 125 | 2015-12-09 00:00:00
+2968 | Smith | 12" 1TB Hard Drive Sansei Laptop | Electronics | 250 | 2015-08-16 00:00:00
+3167 | Huang | 4th Ed. Hardcover Psychology 101 | Books | 35 | 2016-03-05 00:00:00
+1734 | Flores | Freshwater Pearl Earring/Necklace Set | Jewelry | 45 | 2015-09-24 00:00:00
+1056 | Dwivedi | 1950s Steel Lap Slide Guitar | Instrument | 175 | 2016-04-26 00:00:00
+2754 | Naik | Sansei Electronic Heart Monitor | Sporting Goods | 25 | 2015-12-18 00:00:00
+4790 | Fisher | EDX Black Amber Pro Driver | Sporting Goods | 15 | 2016-02-03 00:00:00
+3047 | Grant | 1.5 Ct Princess Cut Engagement Ring | Jewelry | 2000 | 2016-03-09 00:00:00
+1648 | Maxwell | 8" 64 GB Sansei Tablet  | Electronics | 175 | 2015-07-06 00:00:00
+3890 | Johnson | Tech Elite Sansei Blue Ray Player | Electronics | 55 | 2015-11-15 00:00:00
+4956 | Gorecki | 15.6" 500 GB Sansei Laptop | Electronics | 205 | 2016-01-01 00:00:00
+1034 | Lopes | Ridgeback Luxe Mountain Bike | Sporting Goods | 165 | 2016-02-24 00:00:00
+2376 | Barnes | 6 String Phillip Bass Guitar | Instrument | 500 | 2015-09-16 00:00:00
+1274 | LoFrese | 2.5 Ct Teardrop Ruby Necklace | Jewelry | 175 | 2016-01-14 00:00:00
+2876 | Doan | Astronomy: Study the Stars 10 Ct Series | Books | 20 | 2015-11-02 00:00:00
+4976 | Plant | Set of 10 DVDs | Electronics | 10 | 2016-01-03 00:00:00
+3487 | Wilson | 2014 BBCOR Bat | Sporting Goods | 20 | 2016-02-14 00:00:00
+1579 | Krzywinksi | 5.5" Platinum Tennis Bracelet | Jewelry | 35 | 2015-09-15 00:00:00

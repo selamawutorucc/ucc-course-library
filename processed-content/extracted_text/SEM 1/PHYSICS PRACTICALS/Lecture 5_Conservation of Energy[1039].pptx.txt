@@ -1,0 +1,83 @@
+
+--- SLIDE 1 ---
+Conservation of Energy
+
+--- SLIDE 2 ---
+Energy Review
+Kinetic Energy
+Associated with movement of members of a system
+Potential Energy
+Determined by the configuration of the system
+Gravitational and Elastic Potential Energies will  be studied later
+Internal Energy
+Related to the temperature of the system
+
+--- SLIDE 3 ---
+Types of Systems
+Isolated systems
+Energy does not cross the boundary of the system
+Total energy of the system is constant
+Non-isolated systems
+Energy can cross the system boundary in a variety of ways.
+Total energy of the system changes
+Conservation of energy
+Can be used if no non-conservative forces act within the isolated system
+Applies to biological organisms, technological systems, engineering situations, etc
+
+--- SLIDE 4 ---
+Ways to Transfer Energy Into or Out of A System
+In non-isolated systems, energy crosses the boundary of the system during some time interval due to an interaction with the environment.
+
+Some Means of Energy Transfer: 
+Work
+Mechanical Wave.
+Heat.
+Matter Transfer
+Electrical Transmission 
+Electromagnetic Radiation
+
+
+
+--- SLIDE 5 ---
+Examples of Ways to Transfer Energy
+Section  8.1
+
+--- SLIDE 6 ---
+Conservation of Energy
+Energy is conserved
+This means that energy cannot be created nor destroyed.
+If the total amount of energy in a system changes, it can only be due to the fact that energy has crossed the boundary of the system by some method of energy transfer.
+
+--- SLIDE 7 ---
+Isolated System
+For an isolated system, DEmech = 0
+Remember Emech = K + U
+This is conservation of energy for an isolated system with no non-conservative forces acting.
+
+If non-conservative forces are acting, some energy is transformed into internal energy.
+
+--- SLIDE 8 ---
+Isolated System, cont.
+The changes in energy can be written out and rearranged.
+Kf + Uf = Ki + Ui
+Remember, this applies only to a system in which conservative forces act.
+
+--- SLIDE 9 ---
+Power
+Power is the time rate of energy transfer.
+The instantaneous power is defined as 
+
+
+Using work as the energy transfer method, this can also be written as
+
+
+--- SLIDE 10 ---
+Units of Power
+The SI unit of power is called the watt.
+1 watt = 1 joule / second = 1 kg . m2 / s3
+
+A unit of power in the US Customary system is horsepower.
+1 hp = 746 W
+
+Units of power can also be used to express units of work or energy.
+1 kWh = (1000 W)(3600 s) = 3.6 x106 J

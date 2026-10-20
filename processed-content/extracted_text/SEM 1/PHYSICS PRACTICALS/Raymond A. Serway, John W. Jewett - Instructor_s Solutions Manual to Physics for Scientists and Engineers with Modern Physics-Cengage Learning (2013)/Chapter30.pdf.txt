@@ -1,0 +1,6444 @@
+
+--- PAGE 1 ---
+355 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+30 
+Sources of the Magnetic Field 
+ 
+CHAPTER OUTLINE 
+ 
+30.1  
+The Biot–Savart Law 
+30.2 
+The Magnetic Force Between Two Parallel Conductors 
+30.3  
+Ampère’s Law 
+30.4  
+The Magnetic Field of a Solenoid 
+30.5 
+Gauss’s Law in Magnetism 
+30.6 
+Magnetism in Matter 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ30.1 
+(i) Answer (b). The field is proportional to the current. (ii) Answer 
+(d). The field is inversely proportional to the length of the solenoid. 
+(iii) Answer (b). The field is proportional to the number of turns.  
+(iv) Answer (c). The field does not depend on the radius of the 
+solenoid. All the questions can be answered by referring to Equation 
+30.17, B = µ0NI
+
+. 
+OQ30.2 
+Answer (c). Newton’s third law describes the relationship.  
+OQ30.3 
+(a) No. At least two would be of like sign, so they would repel. (b) 
+Yes, if all are alike in sign. (c) Yes, if all carry current in the same 
+direction. (d) No. If one current-carrying wire repelled the other two, 
+those two would attract each other.  
+OQ30.4 
+Answer (a). The contribution made to the magnetic field at point P 
+by the lower wire is directed out of the page, while the contribution 
+due to the upper wire is directed into the page. Since point P is 
+equidistant from the two wires, and the wires carry the same 
+magnitude currents, these two oppositely directed contributions to 
+the magnetic field have equal magnitudes and cancel each other.
+
+--- PAGE 2 ---
+356     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ30.5 
+Answer (a) and (c). The magnetic field due to the current in the 
+vertical wire is directed into the page on the right side of the wire 
+and out of the page on the left side. The field due to the current in the 
+horizontal wire is out of the page above this wire and into the page 
+below the wire. Thus, the two contributions to the total magnetic 
+field have the same directions at points B (both out of the page) and 
+D (both contributions into the page), while the two contributions 
+have opposite directions at points A and C. The magnitude of the 
+total magnetic field will be greatest at points B and D where the two 
+contributions are in the same direction, and smallest at points A and 
+C where the two contributions are in opposite directions and tend to 
+cancel.  
+OQ30.6 
+(i) Answer (b). Magnetic field lines lie in horizontal planes and go 
+around the wire clockwise as seen from above. East of the wire the 
+field points horizontally south. 
+ 
+(ii) Answer (b). The direction of the magnetic field at a given point is 
+determined by the direction of the conventional current that creates 
+it. 
+*OQ30.7 
+(i) Answer (d). (ii) Answer (c). Current on each side of the frame 
+produces magnetic field lines that wrap around the tubes. The field 
+lines pass into the plane enclosed by the frame (away from you) and 
+then return to pass back through the plane outside the frame (toward 
+you).  
+OQ30.8 
+Answer (a). According to the right-hand rule, the magnetic field at 
+point P due to the current in the wire is directed out of the page, and 
+the magnitude of this field is given by Equation 30.14: B = µ0I 2πr. 
+OQ30.9 
+Answers (c) and (d). Any point in region I is closer to the upper wire, 
+which carries the larger current. At all points in this region, the 
+outward directed field due the upper wire will have a greater 
+magnitude than will the inward directed field due to the lower wire. 
+Thus, the resultant field in region I will be nonzero and out of the 
+page, meaning that choice (d) is a true statement and choice (a) is 
+false. In region II, the field due to each wire is directed into the page, 
+so their magnitudes add and the resultant field cannot be zero at any 
+point in this region. This means that choice (b) is false. In region III, 
+the field due to the upper wire is directed into the page while that 
+due to the lower wire is out of the page. Since points in this region 
+are closer to the wire carrying the smaller current, there are points in 
+this region where the magnitudes of the oppositely directed fields 
+due to the two wires will have equal magnitudes, canceling each 
+other and producing a zero resultant field. Thus, choice (c) is true 
+and choice (e) is false.
+
+--- PAGE 3 ---
+Chapter 30     357 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ30.10 
+Answer (b). Wires carrying currents in opposite directions repel. In 
+regions II and III, the field due to the upper wire is directed into the 
+page. The lower wire, with its current to the left, experiences a 
+downward force in the field of the upper wire.  
+OQ30.11 
+Answers (b) and (c). In each case, electric charge is moving. 
+OQ30.12 
+Answer (a). The adjacent wires carry currents in the same direction. 
+OQ30.13 
+Answer (c). Conceptually, for there to be magnetic flux through a 
+coil, magnetic field lines must pass through the area enclosed by the 
+coil. The magnetic field lines do not pass through the areas of the 
+coils in the xy and xz planes, but they do through the area of the coil 
+in the yz plane. Mathematically, the magnetic flux is ΦB = BA cosθ, 
+where θ is the angle between the normal to the area enclosed by the 
+coil and the magnetic field. The flux is maximum when the field is 
+perpendicular to the area of the coil. The flux is zero when there is no 
+component of magnetic field perpendicular to the loop—that is, 
+when the plane of the loop contains the x axis. 
+OQ30.14 
+The ranking is e > c > b > a > d. Express the fields in units of µ0 
+(ampere/cm):  
+ 
+(a) 
+for a long, straight wire,  
+ 
+ 
+ 
+µ0I 2πr = µ0 3 2π 2( )
+⎡⎣
+⎤⎦= µ0 0.75 π
+[
+](ampere/cm) 
+ 
+(b) for a circular coil,  
+ 
+ 
+ 
+Nµ0I 2r = µ0
+10
+(
+) 0.3
+(
+) 2 2( )
+⎡⎣
+⎤⎦= µ0 0.75
+[
+] (ampere/cm) 
+ 
+(c) 
+for a solenoid,  
+ 
+ 
+ 
+Nµ0I = µ0
+1 000
+(
+) 0.3
+(
+) 200
+⎡⎣
+⎤⎦= µ0 1.5
+[
+] (ampere/cm) 
+ 
+  
+which is also  
+ 
+  
+ 
+4π × 10−7 T ⋅m/A
+(
+) 1.5 A/ 0.01 m
+(
+)
+⎡⎣
+⎤⎦= 0.19× 10−3 T = 0.19 mT 
+ 
+(d) The field is zero at the center of a current-carrying wire.  
+ 
+(e) 
+1 mT is larger than 0.19 mT, so it is largest of all.  
+OQ30.15 
+The ranking is C > A > B. The magnetic field inside a solenoid, 
+carrying current I, with N turns and length L, is B = µ0nI = µ0
+N
+L
+⎛
+⎝⎜
+⎞
+⎠⎟I. 
+Thus, BA = µ0NAI
+LA
+, BB = µ0NAI
+2LA
+= 1
+2
+BA , and BC = µ0 2NA
+(
+)I
+LA 2
+= 4BA.
+
+--- PAGE 4 ---
+358     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ30.1 
+No. The magnetic field created by a single current loop resembles 
+that of a bar magnet – strongest inside the loop, and decreasing in 
+strength as you move away from the loop. Neither is the field 
+uniform in direction – the magnetic field lines loop through the loop. 
+CQ30.2 
+Yes. Either pole of the magnet creates a field that turns the atoms of 
+the domains inside the iron to align their magnetic moments with the 
+external field. Then the nonuniform field exerts a net force on each 
+domain toward the direction in which the field is getting stronger. 
+ 
+A magnet on a refrigerator door goes through the same steps to exert 
+a strong normal force on the door. Then the magnet is supported by a 
+frictional force.  
+CQ30.3 
+The Biot-Savart law considers the contribution of each element of 
+current in a conductor to determine the magnetic field, while for 
+Ampère’s law, one need only know the current passing through a 
+given surface. Given situations of high degrees of symmetry, 
+Ampère’s law is more convenient to use, even though both laws are 
+equally valid in all situations. 
+CQ30.4 
+Apply Ampère’s law to the circular path 
+labeled 1 in the picture. Because the current 
+has a cylindrical symmetry about its central 
+axis, the line integral reduces to the 
+magnitude of the magnetic field times the 
+circumference of the path, but this is equal to 
+zero because there is no current inside this 
+path; therefore, the magnetic field inside the 
+tube must be zero. On the other hand, the 
+current through path 2 is the current carried 
+by the conductor; then the line integral is not equal to zero, so the 
+magnetic field outside the tube is nonzero. 
+CQ30.5 
+Magnetic field lines come out of north magnetic poles. The Earth’s 
+north magnetic pole is off the coast of Antarctica, near the south 
+geographic pole. Straight up.  
+CQ30.6 
+Ampère’s law is valid for all closed paths surrounding a conductor, 
+but not always convenient. There are many paths along which the 
+integral is cumbersome to calculate, although not impossible. 
+Consider a circular path around but not coaxial with a long, straight 
+current-carrying wire. Ampère’s law is useful in calculating 
+
+B if the 
+current in a conductor has sufficient symmetry that the line integral 
+can be reduced to the magnitude of 
+
+B times an integral.  
+ 
+ANS. FIG. CQ30.4
+
+--- PAGE 5 ---
+Chapter 30     359 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ30.7 
+Magnetic domain alignment within the magnet creates an external 
+magnetic field, which in turn induces domain alignment within the 
+first piece of iron, creating another external magnetic field. The field 
+of the first piece of iron in turn can align domains in another iron 
+sample. A nonuniform magnetic field exerts a net force of attraction 
+on the magnetic dipoles of the domains aligned with the field. 
+CQ30.8 
+The shock misaligns the domains. Heating will also decrease 
+magnetism (see Curie Temperature). 
+CQ30.9 
+Zero in each case. The fields have no component perpendicular to 
+the area. 
+CQ30.10 
+(a) 
+The third magnet from the top repels the second one with a 
+force equal to the weight of the top two. The yellow magnet 
+repels the blue one with a force equal to the weight of the blue 
+one. 
+ 
+(b) The rods (or a pencil) prevent motion to the side and prevents 
+the magnets from rotating under their mutual torques. Its 
+constraint changes unstable equilibrium into stable. 
+ 
+(c) 
+Most likely, the disks are magnetized perpendicular to their flat 
+faces, making one face a north pole and the other a south pole. 
+One disk has its north pole on the top side and the adjacent 
+magnets have their north poles on their bottom sides. 
+ 
+(d) If the blue magnet were inverted, it and the yellow one would 
+stick firmly together. The pair would still produce an external 
+field and would float together above the red magnets. 
+CQ30.11 
+In the figure, the magnetic field created by 
+wire 1 at the position of wire 2 is into the 
+paper. Hence, the magnetic force on wire 2 is 
+in direction (current down) × (field into the 
+paper) = (force to the right), away from wire 
+1. Now wire 2 creates a magnetic field into 
+the page at the location of wire 1, so wire 1 
+feels force (current up) × (field into the 
+paper) = (force to the left), away from wire 2. 
+CQ30.12 
+(a) The field can be uniform in magnitude. 
+Gauss’s law for magnetism implies that magnetic field lines never 
+start or stop. If the field is uniform in direction, the lines are parallel 
+and their density stays constant along any one bundle of lines. 
+Therefore, the magnitude of the field has the same value at all points 
+along a line in the direction of the field. (b) The magnitude of the 
+field could vary over a plane perpendicular to the lines, or it could be 
+constant throughout the volume. 
+ 
+ 
+ 
+ANS. FIG. CQ30.11
+
+--- PAGE 6 ---
+360     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 30.1 
+The Biot–Savart Law 
+*P30.1 
+(a) 
+Each coil separately produces field given by B =
+Nµ0IR2
+2 R2 + x2
+(
+)
+3 2 at 
+the point halfway between them. Together they produce field 
+ 
+ 
+ 
+2B =
+Nµ0IR2
+R2 + x2
+(
+)
+3 2 = 4.50 × 10−5 T
+= 50 4π × 10−7 T ⋅m/A
+(
+)I 0.012 m
+(
+)2
+0.012 m
+(
+)2 + 0.011 m
+(
+)2
+⎡⎣
+⎤⎦
+3 2
+= 9.05 × 10−9 T ⋅m3/A
+4.31× 10−6 m3
+I
+ 
+ 
+ 
+ 
+→I = 4.50 × 10−5 T A
+2.10 × 10−3 T
+= 21.5 mA 
+ 
+(b) 
+ΔV = IR = 0.021 5 A
+(
+) 210 Ω
+(
+) =
+4.51 V 
+ 
+(c) 
+P = ΔV
+(
+)I = 4.51 V
+(
+) 0.021 5 A
+(
+) = 96.7 mW 
+P30.2 
+Imagine grasping the conductor with the right hand so the fingers curl 
+around the conductor in the direction of the magnetic field. The thumb 
+then points along the conductor in the direction of the current. The 
+results are 
+ 
+(a) toward the left (b) out of the page (c) lower left to upper right 
+P30.3 
+The magnetic field is given by 
+ 
+ 
+ 
+B = µ0I
+2π r
+=
+4π × 10−7 T ⋅m/A
+(
+) 2.00 A
+(
+)
+2π 0.250 m
+(
+)
+= 1.60× 10−6 T 
+P30.4 
+Model the tornado as a long, straight, vertical conductor and imagine 
+grasping it with the right hand so the fingers point northward on the 
+western side of the tornado (that is, at the observatory’s location). The 
+thumb is directed downward, meaning that the conventional current is 
+downward. The magnitude of the current is found from B = µ0I 2πr a as 
+ 
+ 
+ 
+I = 2πrB
+µ0
+=
+2π 9.00× 103 m
+(
+) 1.50× 10−8 T
+(
+)
+4π × 10−7 T ⋅m A
+=675 A 
+ 
+Thus, the current is 675 A, downward .
+
+--- PAGE 7 ---
+Chapter 30     361 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.5 
+(a) 
+Use Equation 30.4 for the field produced by each side of the 
+square.  
+ 
+ 
+ 
+B = µ0I
+4π a
+sinθ1 −sinθ2
+(
+)  
+ 
+ 
+where θ1 = 45.0°, θ2 = −45.0°, and a = 
+2
+ 
+ 
+ANS. FIG. P30.5 
+ 
+ 
+Each side produces a field into the page. The four sides altogether 
+produce  
+ 
+ 
+ 
+Bcenter = 4B = 4 µ0I
+4π a sinθ1 −sinθ2
+(
+)
+= µ0I
+π 2 sin 45.0° −sin −45.0°
+(
+)
+[
+]
+= 2µ0I
+π 
+2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥= 2 2µ0I
+π 
+ 
+ 
+ 
+  
+B = 2 2 4π × 10−7 T⋅m/A
+(
+) 10.0 A
+(
+)
+π 0.400 m
+(
+)
+= 2 2 × 10−5 T = 28.3 µT into the page
+ 
+ 
+(b) For a single circular turn with 4= 2πR , 
+ 
+ 
+ 
+B = µ0I
+2R = µ0π I
+4
+= 4π × 10−7 T⋅m/A
+(
+) 10.0 A
+(
+)
+4 0.400 m
+(
+)
+= 24.7 µT into the page
+ 
+P30.6 
+Treat the magnetic field as that produced in the center of a ring of 
+radius R carrying current I: from Equation 30.8, the field is B = µ0I
+2R . 
+The current due to the electron is  
+ 
+ 
+ 
+I = Δq
+Δt =
+e
+2πR v = ev
+2πR
+
+--- PAGE 8 ---
+362     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so the magnetic field is  
+ 
+ 
+ 
+B = µ0I
+2R = µ0
+2R
+ev
+2πR
+⎛
+⎝⎜
+⎞
+⎠⎟= µ0
+4π
+ev
+R2
+=
+4π × 10−7 T⋅m/A
+4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−19 C
+(
+) 2.19 × 106 m/s
+(
+)
+5.29 × 10−11 m
+(
+)
+2
+= 12.5 T
+ 
+P30.7 
+We can think of the total magnetic field as the superposition of the 
+field due to the long straight wire, having magnitude µ0I
+2π R and 
+directed into the page, and the field due to the circular loop, having 
+magnitude µ0I
+2R
+ and directed into the page. The resultant magnetic 
+field is:  
+ 
+ 
+ 
+
+B = 1+ 1
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+µ0I
+2R = 1+ 1
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+4π × 10−7 T ⋅m/A
+(
+) 1.00 A
+(
+)
+2 0.150 m
+(
+)
+= 5.52 × 10−6 = 5.52 µT  into the page
+ 
+P30.8 
+We can think of the total magnetic field as the superposition of the 
+field due to the long straight wire (having magnitude µ0I
+2π R and 
+directed into the page) and the field due to the circular loop (having 
+magnitude µ0I
+2R
+ and directed into the page). The resultant magnetic 
+field is: 
+ 
+ 
+ 
+ 
+
+B = 1+ 1
+π
+⎛
+⎝⎜
+⎞
+⎠⎟µ0I
+2R
+ directed into the page
+(
+) 
+P30.9 
+Wire 1 creates at the origin magnetic field: 
+ 
+ 
+ 
+
+B1 = µ0I
+2π r
+ right hand rule = µ0I1
+2π a  
+  = µ0I1
+2π a
+ˆj 
+ 
+(a) 
+If the total field at the origin is 2µ0I1
+2π a
+ˆj = µ0I1
+2π a
+ˆj+
+
+B2 then the second 
+wire must create field according to 
+
+B2 = µ0I1
+2π a
+ˆj =
+µ0I2
+2π 2a
+(
+)
+  
+. 
+ 
+ 
+Then I2 = 2I1 out of the paper .
+
+--- PAGE 9 ---
+Chapter 30     363 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The other possibility is 
+
+B1 +
+
+B2 = 2µ0I1
+2π a −ˆj
+( ) = µ0I1
+2π a
+ˆj +
+
+B2. Then, 
+ 
+ 
+ 
+
+B2 = 3µ0I1
+2π a
+−ˆj
+( ) =
+µ0I2
+2π 2a
+(
+)
+  
+  and I2 = 6I1 into the paper . 
+P30.10 
+The vertical section of wire constitutes one half of an infinitely long, 
+straight wire at distance x from P, so it creates a field equal to  
+ 
+ 
+B = 1
+2
+µ0I
+2πx
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Hold your right hand with extended thumb in the direction of the 
+current; the field is away from you, into the paper.  
+ 
+For each bit of the horizontal section of wire ds is to the left and ˆr is 
+to the right, so ds × ˆr = 0. The horizontal current produces zero field at 
+P. Thus, 
+ 
+ 
+B =
+µ0I
+4π x into the paper
+ 
+P30.11 
+Every element of current creates magnetic field in the same direction, 
+into the page, at the center of the arc. The upper straight portion 
+creates one-half of the field that an infinitely long straight wire would 
+create. The curved portion creates one-quarter of the field that a 
+circular loop produces at its center. The lower straight segment also 
+creates field 1
+2
+µ0I
+2π r . 
+ 
+The total field is 
+
+B =
+1
+2
+µ0I
+2π r + 1
+4
+µ0I
+2r + 1
+2
+µ0I
+2π r
+⎛
+⎝⎜
+⎞
+⎠⎟ into the page
+=
+µ0I
+2r
+1
+π + 1
+4
+⎛
+⎝⎜
+⎞
+⎠⎟ into the plane of the paper
+=
+0.284 15µ0I
+r
+⎛
+⎝⎜
+⎞
+⎠⎟ into the page
+ 
+P30.12 
+Along the axis of a circular loop of radius R, 
+ 
+ 
+ 
+B =
+µ0IR2
+2 x2 + R2
+(
+)
+3 2
+
+--- PAGE 10 ---
+364     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+B
+B0
+=
+1
+x R
+(
+)
+2 + 1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+3 2
+, 
+ 
+where 
+B0 ≡µ0I
+2R . 
+ 
+ANS. FIG. P30.12 
+ 
+x/R 
+B/B0 
+0.00 
+1.00 
+1.00 
+0.354 
+2.00 
+0.089 4 
+3.00 
+0.031 6 
+4.00 
+0.014 3 
+5.00 
+0.007 54 
+ 
+P30.13 
+We use the Biot-Savart law. For bits of wire along the straight-line 
+sections, ds is at 0° or 180° to ˆr, so ds× ˆr = 0. Thus, only the curved 
+section of wire contributes to 
+
+B at P. Hence, ds is tangent to the arc and 
+ˆr is radially inward; so ds× ˆr = ds 1sin90°⊗= ds ⊗. All points along 
+the curve are the same distance r = 0.600 m from the field point, so 
+ 
+ 
+ 
+B=
+d
+
+B
+∫
+all current
+=
+µ0
+4π
+∫
+I ds × ˆr
+r2
+= µ0
+4π
+I
+r2
+ds
+∫
+= µ0
+4π
+I
+r2 s 
+ 
+where s is the arc length of the curved wire, 
+ 
+ 
+ 
+s = rθ = 0.600 m
+(
+) 30.0°
+(
+)
+2π
+360°
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.314 m
+
+--- PAGE 11 ---
+Chapter 30     365 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then,  
+ 
+ 
+ 
+B = 10−7 T ⋅m A
+(
+)
+3.00 A
+(
+)
+0.600 m
+(
+)
+2 0.314 m
+(
+) 
+ 
+ 
+ 
+B = 262 nT  into the page 
+ 
+ANS. FIG. P30.13 
+P30.14 
+(a) 
+Above the pair of wires, the field out of the page of the 50.0-A 
+current will be stronger than the −ˆk
+(
+) field of the 30.0-A current, 
+so they cannot add to zero. Between the wires, both produce 
+fields into the page. They can only add to zero below the wires, at 
+coordinate y = –⎮y⎮. Here the total field is 
+ 
+ 
+ 
+
+B = µ0I
+2π r  
+  + µ0I
+2π r  
+: 
+ 
+ 
+ 
+0 = µ0
+2π
+50.0 A
+y + 0.280 m
+(
+)
+−ˆk
+(
+) + 30.0 A
+y
+ˆk( )
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+50.0 y = 30.0 y + 0.280 m
+(
+)
+50.0 −y
+(
+) = 30.0 0.280 m −y
+(
+)
+−20.0y = 30.0 0.280 m
+(
+)
+y = −0.420 m
+ 
+ 
+ANS. FIG. P30.14 
+ 
+(b) At y = 0.100 m the total field is  
+ 
+ 
+ 
+
+B = µ0I
+2π r  
+  + µ0I
+2π r  
+:
+
+--- PAGE 12 ---
+366     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANS. FIG. P30.15(a) 
+ 
+ 
+ 
+ANS. FIG. P30.15(b) 
+ 
+ 
+ 
+ANS. FIG. P30.15(c) 
+ 
+ 
+ 
+
+B =
+4π × 10−7 T ⋅m A
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+                  ×
+50.0 A
+0.280 −0.100
+(
+) m −ˆk
+(
+) + 30.0 A
+0.100 m −ˆk
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.16 × 10−4 T −ˆk
+(
+)
+ 
+ 
+ 
+The force on the particle is 
+ 
+ 
+ 
+
+F = qv ×
+
+B
+= −2 × 10−6 C
+(
+) 150 × 106 m s
+(
+) ˆi( )
+                         × 1.16 × 10−4 N ⋅s C⋅m
+(
+) −ˆk
+(
+)
+= 3.47 × 10−2 N −ˆj
+( )
+ 
+ 
+(c) 
+We require 
+
+Fe = 3.47 × 10−2 N +ˆj
+( ) = q
+
+E = −2 × 10−6 C
+(
+)
+
+E, 
+ 
+ 
+so 
+
+E = −1.73 × 104ˆj N C . 
+P30.15 
+Label the wires 1, 2, and 3 as shown in  
+ANS. FIG. P30.15(a) and let the magnetic  
+field created by the currents in these  
+wires be 
+
+B1, 
+
+B2, and 
+
+B3, respectively. 
+ 
+(a) 
+At point A:  
+ 
+ 
+ 
+B1 = B2 =
+µ0I
+2π a 2
+(
+)
+  
+ 
+ 
+and B3 =
+µ0I
+2π 3a
+(
+)
+. 
+ 
+ 
+The directions of these fields are  
+shown in ANS. FIG. P30.15(b).  
+Observe that the horizontal  
+components of 
+
+B1 and 
+
+B2 cancel  
+while their vertical components  
+both add onto 
+
+B3. Therefore, the  
+net field at point A is: 
+ 
+ 
+ 
+BA = B1 cos45.0° + B2 cos45.0° + B3
+= µ0I
+2π a
+2
+2
+cos45.0° + 1
+3
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 13 ---
+Chapter 30     367 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+BA =
+4π × 10−7 T ⋅m A
+(
+) 2.00 A
+(
+)
+2π 1.00 × 10−2 m
+(
+)
+2
+2
+cos45° + 1
+3
+⎡
+⎣⎢
+⎤
+⎦⎥
+BA = 53.3 µT toward the bottom of the page
+ 
+ 
+(b) At point B: 
+
+B1 and 
+
+B2 cancel, leaving 
+ 
+ 
+ 
+BB = B3 =
+µ0I
+2π 2a
+(
+)
+BB =
+4π × 10−7 T ⋅m A
+(
+) 2.00 A
+(
+)
+2π 2( ) 1.00× 10−2 m
+(
+)
+= 20.0 µT toward the bottom of the page
+ 
+ 
+(c) 
+At point C: B1 = B2 =
+µ0I
+2π a 2
+(
+)
+and B3 = µ0I
+2πa
+ with the directions 
+shown in ANS. FIG. P30.15(c). Again, the horizontal components 
+of 
+
+B1 and 
+
+B2 cancel. The vertical components both oppose 
+
+B3 
+giving 
+ 
+ 
+ 
+BC = 2
+µ0I
+2π a 2
+(
+)
+cos45.0°
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥−µ0I
+2π a
+= µ0I
+2π a
+2
+2
+cos45.0° −1
+⎡
+⎣⎢
+⎤
+⎦⎥= 0 
+P30.16 
+(a) 
+ANS. FIG. P30.16 shows the various vectors.   
+ 
+ANS. FIG. P30.16 
+  
+(b) The upward lightning current creates field lines in 
+counterclockwise horizontal circles.
+
+--- PAGE 14 ---
+368     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+B = µ0I
+2πr righthand rule
+[
+] 
+= 4π × 10−7 T⋅m/A
+(
+) 20.0 × 103 A
+(
+)
+2π 50.0 m
+(
+)
+ north 
+= 8.00 × 10−5 T north
+ 
+ 
+ 
+The force on the electron is 
+ 
+ 
+ 
+
+F = qv ×
+
+B
+= −1.6 × 10−19 C
+(
+)(300 m/s west)× 8.00 × 10−5 T  north
+(
+)
+= −3.84 × 10−21 N down
+(
+) = 3.84 × 10−21 N up
+ 
+ 
+(c) 
+From Equation 29.3, 
+r = mv
+qB
+=
+9.11× 10−31 kg
+(
+) 300 m/s
+(
+)
+1.60× 10−19 C
+(
+) 8.00× 10−5 T
+(
+)
+= 2.14× 10−5 m .  
+ 
+(d) 
+This distance is negligible compared to 50 m, so the electron does 
+move in a uniform field. 
+ 
+(e) 
+Use Equation 29.4, ω = qB/m, which is equal to 2πN/Δt, where N 
+is the number of revolutions:  
+ 
+ 
+ 
+N = qBΔt
+2πm = 1.60 × 10−19 C
+(
+) 8.00 × 10−5 T
+(
+) 60.0 × 10−6 s
+(
+)
+2π 9.11× 10−31 kg
+(
+)
+= 134 revolutions
+ 
+P30.17 
+Apply the Equation 30.4, B = µ0I
+4π d
+sinθ1 −sinθ2
+(
+), to each of the wires. 
+For the horizontal wire (H), sinθ1 = −
+a
+d2 + a2 and sinθ2 =
+a
+d2 + a2 
+because θ1 measures to the wire’s end point on the –x-axis and θ2  
+measures to the wire’s end point on the +x-axis. For the left vertical 
+wire (VL) and the right vertical wire (VR), sinθ1 =
+d
+d2 + a2 and sin θ2 = 
+1 because both angles measure to the wire’s end points on the +y-axis. 
+ 
+ANS. FIG. P30.17
+
+--- PAGE 15 ---
+Chapter 30     369 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Take out of the page as the positive direction, and into the page as the 
+negative direction. The field at the origin is  
+ 
+ 
+BO = BVL −BH + BVR
+= µ0I
+4π a 1−
+d
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟−µ0I
+4π d
+a
+d2 + a2 −−
+a
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
++ µ0I
+4π a 1−
+d
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= µ0I
+4π a 2 −
+2d
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟−µ0I
+4π d
+2a
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= µ0I
+2π ad d −
+d2
+d2 + a2 −
+a2
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= µ0I
+2π ad d −d2 + a2
+d2 + a2
+⎛
+⎝⎜
+⎞
+⎠⎟= µ0I
+2π ad d −
+a2 + d2
+(
+)
+= −µ0I
+2π ad
+a2 + d2 −d
+(
+)
+ 
+ 
+The field is negative: magnetic field at the origin is 
+µ0I
+2π ad
+a2 + d2 −d
+(
+) 
+into the page.  
+P30.18 
+(a) 
+We use Equation 30.4 in the chapter text  
+for the field created by a straight wire of  
+limited length. The sines of the angles  
+appearing in that equation are equal to  
+the cosines of the complementary angles  
+shown in our diagram. For the distance a  
+from the wire to the field point we have  
+tan30° = a
+L 2
+, a = 0.288 7L. One wire  
+contributes to the field at P 
+ 
+ 
+ 
+B = µ0I
+4π a
+cosθ1 −cosθ2
+(
+) =
+µ0I
+4π 0.288 7L
+(
+)
+cos30° −cos150°
+(
+)
+=
+µ0I 1.732
+(
+)
+4π 0.288 7L
+(
+)
+= 1.50µ0I
+π L
+ 
+ 
+ANS. FIG. P30.18(a)
+
+--- PAGE 16 ---
+370     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Each side contributes the same amount of field in the same 
+direction, which is perpendicularly into the paper in the picture. 
+So the total field is 3 1.50µ0I
+π L
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+4.50µ0I
+π L
+. 
+ 
+(b) As we showed in part (a), one whole side of the triangle creates 
+field at the center µ0I 1.732
+(
+)
+4π a
+. Now one-half of one nearby side of 
+the triangle will be half as far away from point Pb and have a 
+geometrically similar situation. Then it creates at Pb field  
+ 
+ 
+ 
+µ0I 1.732
+(
+)
+4π a 2
+(
+)
+= 2µ0I 1.732
+(
+)
+4π a
+ 
+ 
+ 
+The two half-sides shown crosshatched in the picture create at Pb 
+field  
+ 
+ 
+ 
+2 2µ0I 1.732
+(
+)
+4π a
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 4µ0I 1.732
+(
+)
+4π 0.288 7L
+(
+)
+= 6µ0I
+π L
+ 
+ 
+ 
+The rest of the triangle will contribute somewhat more field in the 
+same direction, so we already have a proof that the field at Pb is 
+stronger . 
+ 
+ANS. FIG. P30.18(b) 
+P30.19 
+Assume that the wire on the right is wire 1 and that on the left is wire 
+2. Also, choose the positive direction for the magnetic field to be out of 
+the page and negative into the page. 
+ 
+(a) 
+At the point half way between the two wires, 
+ 
+ 
+ 
+Bnet = −B1 −B2 = −µ0I1
+2πr1
++ µ0I2
+2πr2
+⎡
+⎣⎢
+⎤
+⎦⎥= −µ0
+2πr
+I1 + I2
+(
+)
+= −
+4π × 10−7 T ⋅m A
+(
+)
+2π 5.00× 10−2 m
+(
+)
+10.0 A
+(
+) = −4.00× 10−5 T
+ 
+ 
+ 
+or 
+Bnet = 40.0 µT  into the page
+
+--- PAGE 17 ---
+Chapter 30     371 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At point P1,  
+ 
+ 
+ 
+Bnet = +B1 −B2 = µ0
+2π
++ I1
+r1
+−I2
+r2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+ 
+Bnet = 4π × 10−7 T⋅m A
+2π
+5.00 A
+0.100 m −5.00 A
+0.200 m
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 5.00 µT out of page
+ 
+ 
+(c) 
+At point P2,  
+ 
+ 
+ 
+Bnet = −B1 + B2 = µ0
+2π
+−I1
+r1
++ I2
+r2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+ 
+Bnet = 4π × 10−7 T ⋅m A
+2π
+−5.00 A
+0.300 m
++ 5.00 A
+0.200 m
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.67 µT out of page
+ 
+P30.20 
+Call the wire carrying a current of 3.00 A wire 1 and the other wire 2. 
+Also, choose the line running from wire 1 to wire 2 as the positive x 
+direction. 
+ 
+ANS. FIG. P30.20(a) 
+ 
+(a) 
+At the point midway between the wires, the field due to each 
+wire is parallel to the y-axis and the net field is 
+ 
+ 
+ 
+Bnet = +B1y −B2y = µ0 I1 −I2
+(
+) 2πr 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+Bnet =
+4π × 10−7 T ⋅m A
+(
+)
+2π 0.100 m
+(
+)
+3.00 A −5.00 A
+(
+) = −4.00× 10−6 T 
+ 
+ 
+or 
+Bnet = 4.00 µT toward the bottom of the page 
+ 
+(b) Refer to ANS. FIG. P30.20(b). At point P, r1 = 0.200 m
+(
+) 2 and B1 
+is directed at θ1 = +135°. The magnitude of B1 is 
+ 
+ 
+ 
+B1 = µ0I1
+2πr1
+=
+4π × 10−7 T ⋅m A
+(
+) 3.00 A
+(
+)
+2π 0.200 2 m
+(
+)
+= 2.12 µT
+
+--- PAGE 18 ---
+372     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P30.20(b) 
+ 
+ 
+The contribution from wire 2 is in the –x direction and has 
+magnitude 
+ 
+ 
+ 
+B2 = µ0I2
+2πr2
+=
+4π × 10−7 T ⋅m A
+(
+) 5.00 A
+(
+)
+2π 0.200 m
+(
+)
+= 5.00 µT 
+ 
+ANS. FIG. P30.20(c) 
+ 
+ 
+Therefore, the components of the net field at point P are: 
+ 
+ 
+ 
+Bx = B1 cos135°+ B2 cos180°
+= 2.12 µT
+(
+)cos135°+ 5.00 µT
+(
+)cos180° = −6.50 µT
+ 
+ 
+ 
+and  
+ 
+ 
+ 
+By = B1 sin135°+ B2 sin180° = 2.12 µT
+(
+)sin135°+ 0 = +1.50 µT 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+Bnet =
+Bx
+2 + By
+2 = 6.67 µT  
+ 
+ 
+at 
+θ = tan−1
+Bx
+By
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= tan−1 6.50 µT
+1.50 µT
+⎛
+⎝⎜
+⎞
+⎠⎟= 77.0°  
+ 
+ 
+in ANS. FIG. P30.20(c), which is 77.0° + 90.0° = 167.0° from the 
+positive x axis. Therefore, 
+ 
+ 
+ 
+B
+
+net = 6.67 µT at 167.0° from the positive x axis .
+
+--- PAGE 19 ---
+Chapter 30     373 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 30.2 
+The Magnetic Force Between  
+Two Parallel Conductors 
+P30.21 
+Let both wires carry current in the x direction, the first at y = 0 and the 
+second at y = 10.0 cm. 
+ 
+(a) 
+
+B = µ0I
+2π r
+ˆk =
+4π × 10−7 T ⋅m A
+(
+) 5.00 A
+(
+)
+2π 0.100 m
+(
+)
+ˆk 
+ 
+ 
+
+B = 1.00× 10−5 T out of the page 
+  
+ 
+ANS. FIG. P30.21(a) 
+ 
+(b) 
+
+FB = I2
+
+×
+
+B = 8.00 A
+(
+)
+1.00 m
+(
+)ˆi × 1.00 × 10−5 T
+(
+) ˆk
+⎡⎣
+⎤⎦
+= 8.00 × 10−5 N
+(
+) −ˆj
+( )
+  
+ 
+ANS. FIG. P30.21(b) 
+ 
+ 
+
+FB = 8.00× 10−5 N toward the first wire 
+ 
+(c) 
+
+B = µ0I
+2π r −ˆk
+(
+) =
+4π × 10−7  T ⋅m A
+(
+) 8.00 A
+(
+)
+2π 0.100 m
+(
+)
+−ˆk
+(
+)
+= 1.60 × 10−5 T
+(
+) −ˆk
+(
+)
+ 
+ 
+ 
+ANS. FIG. P30.21(c) 
+ 
+ 
+
+B = 1.60× 10−5 T into the page 
+ 
+(d) 
+
+FB = I1
+
+×
+
+B = 5.00 A
+(
+)
+1.00 m
+(
+)ˆi × 1.60 × 10−5 T
+(
+) −ˆk
+(
+)
+⎡
+⎣
+⎤
+⎦
+= 8.00 × 10−5 N
+(
+) +ˆj
+( )
+ 
+ 
+ 
+ANS. FIG. P30.21(d)
+
+--- PAGE 20 ---
+374     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+
+FB = 8.00× 10−5 N towards the second wire 
+P30.22 
+(a) 
+The force per unit length that parallel conductors exert on each 
+other is, from Equation 30.12, F = µ0I1I2 2πd . Thus, if 
+F = 2.00× 10−4 N m, I1 = 5.00 A, and d = 4.00 cm, the current in 
+the second wire must be 
+ 
+ 
+ 
+I2 = 2πd
+µ0I1
+F
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+2π 4.00 × 10−2 m
+(
+)
+4π × 10−7 T⋅m A
+(
+) 5.00 A
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2.00 × 10−4 N m
+(
+)
+= 8.00 A
+ 
+ 
+(b) Since parallel conductors carrying currents in the same direction 
+attract each other (see Section 30.2 in the textbook), the currents in 
+these conductors which repel each other must be in 
+opposite directions. 
+ 
+(c) 
+From Equation 30.12, the force is directly proportional to the 
+product of the currents. The result of reversing the direction of 
+either of the currents and doubling the magnitude would be that 
+the force of interaction would be attractive and the magnitude 
+of the force would double . 
+P30.23 
+(a) 
+From Equation 30.12, the force per unit length that one wire 
+exerts on the other is F = µ0I1I2 2πd , where d is the distance 
+separating the two wires. In this case, the value of this force is 
+ 
+ 
+ 
+F
+
+=
+4π × 10−7 T ⋅m A
+(
+) 3.00 A
+(
+)
+2
+2π 6.00× 10−2 m
+(
+)
+= 3.00× 10−5 N m 
+ 
+(b) We can answer this question by consulting Section 30.2 in the 
+textbook, or we can reason it out. Imagine these two wires lying 
+side by side on a table with the two currents flowing toward you, 
+wire 1 on the left and wire 2 on the right. The right-hand rule that 
+relates current to field direction shows the magnetic field due to 
+wire 1 at the location of wire 2 is directed vertically upward. 
+Then, the right-hand rule that relates current and field to force 
+gives the direction of the force experienced by wire 2, with its 
+current flowing through this field, as being to the left, back 
+toward wire 1. Thus, the force one wire exerts on the other is an 
+attractive force.
+
+--- PAGE 21 ---
+Chapter 30     375 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.24 
+Carrying oppositely directed currents, wires 1 and 2 repel each other. 
+If wire 3 were between them, it would have to repel either 1 or 2, so the 
+force on that wire could not be zero. If wire 3 were to the right of wire 
+2, it would feel a larger force exerted by 2 than that exerted by 1, so the 
+total force on 3 could not be zero. Therefore wire 3 must be to the left 
+of both other wires as shown. It must carry downward current so that 
+it can attract wire 2. We answer part (b) first. 
+ 
+ANS. FIG. P30.24 
+ 
+(b) For the equilibrium of wire 3 we have 
+ 
+ 
+ 
+F1 on 3 = F2 on 3:         µ0 1.50 A
+(
+)I3
+2π d
+=
+µ0 4.00 A
+(
+)I3
+2π 20.0 cm + d
+(
+)
+ 
+ 
+ 
+ 
+1.50(20.0 cm + d) = 4.00d 
+ 
+ 
+ 
+d = 30.0 cm
+2.50
+= 12.0 cm to the left of wire 1
+ 
+ 
+(a) 
+Thus the situation is possible in just one way. 
+ 
+(c) 
+For the equilibrium of wire 1, 
+ 
+ 
+ 
+µ0I3 1.50 A
+(
+)
+2π 12.0 cm
+(
+)
+= µ0 4.00 A
+(
+) 1.50 A
+(
+)
+2π 20.0 cm
+(
+)
+  
+ 
+ 
+ 
+I3 = 12
+20 4.00 A
+(
+) = 2.40 A down
+ 
+ 
+ 
+We know that wire 2 must be in equilibrium because the forces on 
+it are equal in magnitude to the forces that it exerts on wires 1 and 
+3, which are equal because they both balance the equal-
+magnitude forces that 1 exerts on 3 and that 3 exerts on 1. 
+P30.25 
+To the right of the long, straight wire, current I1 creates a magnetic 
+field into the page. By symmetry, we note that the magnetic forces on 
+the top and bottom segments of the rectangle cancel. The net force on 
+the vertical segments of the rectangle is (from Equation 30.12):  
+ 
+ 
+
+F =
+
+F1 +
+
+F2 = µ0I1I2
+2π
+1
+c + a −1
+c
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi = µ0I1I2
+2π
+−a
+c c + a
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi
+
+--- PAGE 22 ---
+376     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+
+F = 4π × 10−7 N A2
+(
+) 5.00 A
+(
+) 10.0 A
+(
+) 0.450 m
+(
+)
+2π
+                                                    ×
+−0.150 m
+0.100 m
+(
+) 0.250 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi
+
+F = −2.70 × 10−5ˆi
+(
+) N = −27.0 × 10−6ˆi
+(
+) N = −27.0ˆi µN
+ 
+ 
+ANS. FIG. P30.25 
+P30.26 
+See ANS. FIG. P30.25. By symmetry, we note that the magnetic forces 
+on the top and bottom segments of the rectangle cancel. The net force 
+on the vertical segments of the rectangle is (from Equation 30.12) 
+ 
+ 
+ 
+
+F =
+
+F1 +
+
+F2 = µ0I1I2
+2π
+1
+c + a
+−1
+c
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi = µ0I1I2
+2π
+−a
+c c + a
+(
+)
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟ˆi 
+ 
+ 
+ 
+
+F = µ0I1I2
+2π
+a
+c c + a
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ to the left 
+P30.27 
+To attract, both currents (I1 = 20.0 A, and I2) must be to the right. The 
+attraction is described by (from Equation 30.12)  
+ 
+ 
+F
+
+= µ0I1I2
+2π a 
+ 
+So 
+I2 = F
+
+2π a
+µ0I1
+= 320 × 10−6 N m
+(
+)
+2π 0.500 m
+(
+)
+4π × 10−7 T⋅m/A
+(
+) 20.0 A
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= 40.0 A
+ 
+ 
+ANS. FIG. P30.27
+
+--- PAGE 23 ---
+Chapter 30     377 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The zero-field point must lie between the two wires: this point cannot 
+be above the upper wire or below the lower wire because the fields in 
+these regions have the same direction, out of the page above the upper 
+wire, and into the page below the lower wire. Let y represent the 
+coordinate of the zero-field point above the lower wire; then,  
+r1 = (0.500 m) – y and r2 = y represent the respective distances of 
+currents I1 and I2 to the zero-field point. Taking the positive direction 
+to be out of the page, at the zero-field point,  
+ 
+ 
+B = −B1 + B2
+0 = −µ0I1
+2π r1
++ µ0I2
+2π r2
+ 
+ 
+Eliminating and solving for r1,  
+ 
+ 
+I1
+r1
+= I2
+r2
+   →    r1 = r2
+I1
+I2
+  →  0.500 m
+(
+)−y = y I1
+I2
+ 
+ 
+Then, 
+ 
+ 
+0.500 m
+(
+) = y I1
+I2
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟     
+ y = 0.500 m
+(
+)
+I1
+I2
++ 1
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+0.500 m
+(
+)
+20.0 A
+40.0 A + 1
+⎛
+⎝
+⎞
+⎠
+= 0.333 m
+ 
+P30.28 
+From Equation 30.12, we find the separation distance between the 
+wires as 
+ 
+ 
+ 
+FB
+
+ = µ0I1I2
+2πa
+       →       a = µ0I1I2
+2πFB
+ 
+ 
+Substituting numerical values, 
+ 
+a = 
+4π  × 10−7 T · m/A
+(
+) 10.0 A
+(
+) 10.0 A
+(
+) 0.500 m
+(
+)
+2π 1.00 N
+(
+)
+ 
+= 1.00 × 10−5 m = 10.0 µm
+ 
+ 
+This is the required center-to-center separation distance of the wires, 
+but the wires cannot be this close together. Their minimum possible 
+center-to-center separation distance occurs if the wires are touching, 
+but this value is 2r = 2(250 μm) = 500 μm, which is much larger than 
+the required value above. We could try to obtain this force between 
+wires of smaller diameter, but these wires would have higher 
+resistance and less surface area for radiating energy. It is likely that the 
+wires would melt very shortly after the current begins.
+
+--- PAGE 24 ---
+378     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.29 
+This is almost a standard equilibrium 
+problem involving tension, weight, and a 
+horizontal repulsive force; however, here 
+we must consider the magnetic force per 
+unit length and the weight per unit 
+length. The tension makes an angle θ/2 = 
+8.00° with the vertical. The mass per unit 
+length is λ = mg/L. The separation 
+between the wires is a = 2sinθ 2. 
+ 
+(a) 
+Because the wires repel, the currents are in opposite directions . 
+ 
+(b) For balance, the ratio of the horizontal tension component  
+T sin θ/2 to the vertical tension component T cos θ/2 is equal to 
+the ratio of the horizontal magnetic force per unit length FB/L to 
+the vertical weight per unit length Fg/L: 
+ 
+ 
+ 
+T sinθ 2
+T cosθ 2 = FB L
+Fg L 
+ 
+ 
+But, 
+ 
+ 
+ 
+FB/L = IBsin90.0° = IB = I µ0I
+2πa = µ0I 2
+2πa
+Fg/L = λg
+ 
+ 
+ 
+Rearranging and substituting gives  
+ 
+ 
+ 
+tanθ 2 = µ0I 2 2π a
+λg
+=
+µ0I 2
+2π 2sinθ 2
+(
+)λg
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+I 2 = 4πλg
+µ0
+tanθ 2
+(
+) sinθ 2
+(
+) 
+ 
+ 
+ 
+I 2 = 4π 0.060 0 m
+(
+) 40.0 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+4π × 10−7 T⋅m/A
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+                                                           × tan8.00°
+(
+) sin8.00°
+(
+)
+I = 67.8 A
+ 
+ 
+(c) 
+Smaller. A smaller gravitational force would be pulling down on
+the wires, requiring less magnetic force to raise the wires to the
+same angle and therefore less current.
+ 
+ 
+ 
+ 
+ANS. FIG. P30.29
+
+--- PAGE 25 ---
+Chapter 30     379 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 30.3 
+Ampère’s Law 
+P30.30 
+From 
+
+B⋅d
+
+
+∫
+= µ0I, I = 2π rB
+µ0
+=
+2π 1.00 × 10−3 m
+(
+) 0.100 T
+(
+)
+4π × 10−7 T ⋅m A
+= 500 A . 
+P30.31 
+(a) 
+From Ampère’s law, the magnetic field at point a is given by 
+Ba = µ0Ia
+2π ra
+, where Ia is the net current through the area of the 
+circle of radius ra. In this case, Ia = 1.00 A out of the page (the 
+current in the inner conductor), so 
+ 
+ 
+ 
+Ba =
+4π × 10−7 T ⋅m A
+(
+) 1.00 A
+(
+)
+2π 1.00 × 10−3 m
+(
+)
+= 200 µT toward top of page
+ 
+ 
+(b) Similarly at point b: Bb = µ0Ib
+2π rb
+, where Ib is the net current through 
+the area of the circle having radius rb. Taking out of the page as 
+positive, Ib = 1.00 A – 3.00 A = –2.00 A, or Ib = 2.00 A into the page. 
+Therefore, 
+ 
+ 
+ 
+Bb =
+4π × 10−7 T ⋅m A
+(
+) 2.00 A
+(
+)
+2π 3.00 × 10−3 m
+(
+)
+= 133 µT toward bottom of page
+ 
+P30.32 
+(a) 
+Binner = µ0NI
+2π r
+=
+4π × 10−7 T ⋅m A
+(
+) 900
+(
+) 14.0× 103 A
+(
+)
+2π 0.700 m
+(
+)
+= 3.60 T 
+ 
+(b) 
+Bouter = µ0NI
+2π r =
+4π × 10−7 T ⋅m A
+(
+) 900
+(
+) 14.0 × 103 A
+(
+)
+2π 1.30 m
+(
+)
+= 1.94 T 
+P30.33 
+Let the current I be to the right, in the positive x direction. The proton 
+travels to the left, and is a distance d above the wire. Take up as the 
+positive y direction. At the proton’s location, the current creates a field 
+B = µ0I
+2π d in the positive z direction. The weight of the proton and the 
+magnetic force are in balance:  
+ 
+ 
+ 
+mg −ˆj
+( )+ qv −ˆi
+( )× µ0I
+2π d
+ˆk( ) = 0
+mg −ˆj
+( )+ qvµ0I
+2π d
+ˆj( ) = 0
+
+--- PAGE 26 ---
+380     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+d = qvµ0I
+2π mg
+=
+1.60 × 10−19 C
+(
+) 2.30 × 104 m s
+(
+) 4π × 10−7 T ⋅m A
+(
+) 1.20 × 10−6 A
+(
+)
+2π 1.67 × 10−27 kg
+(
+) 9.80 m s2
+(
+)
+= 5.40 cm
+ 
+P30.34 
+We may regard the sheet as being 
+composed of filaments of current Jsds 
+directed out of the page. According to the 
+Biot-Savart law, the field contribution at a 
+point has the direction ds × ˆr, where ˆr 
+points from the current filament to the 
+point. Consider the field contributions at an 
+arbitrary point P to the right of the sheet. 
+Draw a line normal to the sheet that passes 
+through P. Consider the contributions to 
+the field at P from two filaments that lie 
+along the same vertical line and are 
+equidistant from the normal (and P). The 
+upper filament contributes +z and +x field components, but the lower 
+filament +z and –x field components. The resulting field from both 
+filaments points in the +z-direction. By similar reasoning, the magnetic 
+field at any point on the left side of the sheet points in the –z direction. 
+These same arguments hold for any point within the sheet. Also, the 
+same reasoning shows that for any pair of filaments that lie on the 
+same vertical line, the magnetic field at a point midway between them 
+is zero. Thus, the field has no horizontal component within the sheet.  
+ 
+Therefore, each filament of current creates a contribution to the total 
+field that is parallel to the sheet and perpendicular to the current 
+direction. They create field lines straight up to the right of the sheet 
+and straight down to the left of the sheet. 
+ 
+From Ampère’s law applied to the suggested rectangle, 
+ 
+ 
+ 
+
+B⋅d
+∫
+s = µ0I:     B⋅2+ 0 = µ0Js 
+ 
+Therefore the field is uniform in space, with the magnitude  
+ 
+ 
+ 
+B = µ0Js
+2
+ 
+P30.35 
+(a) 
+In B = µ0I
+2π r
+, the field will be one-tenth as large at a ten-times 
+larger distance: 400 cm . 
+ANS. FIG. P30.34
+
+--- PAGE 27 ---
+Chapter 30     381 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+
+B = µ0I
+2π r1
+ˆk + µ0I
+2π r2
+−ˆk
+(
+) 
+ 
+ 
+so B =
+4π × 10−7 T ⋅m/A
+(
+) 2.00 A
+(
+)
+2π
+1
+0.398 5 m −
+1
+0.401 5 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.50 nT
+ 
+ 
+(c) 
+Call r the distance from cord center to field point and  
+2d = 3.00 mm the distance between conductors. 
+ 
+ 
+ 
+B = µ0I
+2π
+1
+r −d
+−
+1
+r + d
+⎛
+⎝⎜
+⎞
+⎠⎟= µ0I
+2π
+2d
+r2 −d2 
+ 
+ 
+ 
+7.50 × 10−10 T
+     = 2.00 × 10−7 T ⋅m A
+(
+) 2.00 A
+(
+)
+3.00 × 10−3 m
+(
+)
+r2 −2.25 × 10−6 m
+(
+)
+2
+  
+ 
+ 
+so r = 1.26 m . 
+ 
+ 
+The field of the two-conductor cord is weak to start with and falls 
+off rapidly with distance. 
+ 
+(d) The cable creates zero field at exterior points, since a loop in 
+Ampère’s law encloses zero total current. Shall we sell coaxial-
+cable power cords to people who worry about biological damage 
+from weak magnetic fields? 
+P30.36 
+By Ampère’s law, the field at the position of the wire at distance r from 
+the center is due to the fraction of the other 99 wires that lie within the 
+radius r.  
+ 
+
+B⋅d
+∫
+s = µ0I:  
+ 
+ 
+B⋅2πr = µ0 99I πr2
+πR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥    →    B = µ0 99I
+(
+)
+2πr
+r2
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= µ0 99I
+(
+)
+2πR
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ANS. FIG. P30.36
+
+--- PAGE 28 ---
+382     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The field is proportional to r, as shown in ANS. FIG. P30.36. This field 
+points tangent to a circle of radius r and exerts a force 
+
+F = I
+
+×
+
+B on the 
+wire toward the center of the bundle. The magnitude of the force is  
+ 
+ 
+F
+= IBsinθ = I µ0 99
+(
+)I
+2πR
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥sin90° = µ0 99
+(
+)I 2
+2πR
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4π × 10−7 T⋅m/A
+(
+) 99
+(
+) 2.00 A
+(
+)
+2
+2π 0.500 × 10−2 m
+(
+) 
+0.400
+(
+)
+= 6.34 × 10−3 N m
+ 
+ 
+(a)  
+6.34× 10−3 N m 
+ 
+(b) Referring to the figure, the field is clockwise, so at the position of 
+the wire, the field is downward, and the force is 
+inward toward the center of the bundle .  
+ 
+(c) 
+B ∝ r, so B is greatest at the outside of the bundle. Since each wire 
+carries the same current, F is greatest at the outer surface . 
+P30.37 
+We assume the current is vertically upward. 
+ 
+(a) 
+Consider a circle of radius r slightly less than R. It 
+encloses no current, so from 
+ 
+ 
+ 
+
+B⋅ds
+∫
+= µ0Iinside gives B 2π r
+(
+) = 0 , 
+ 
+ 
+we conclude that the magnetic field is zero . 
+ 
+(b) Now let the r be barely larger than R. Ampère’s 
+law becomes 
+ 
+ 
+ 
+B 2π R
+(
+) = µ0I, 
+ 
+ 
+so 
+B = µ0I
+2π R   tangent to the wall . 
+ 
+ 
+By the right-hand rule, the field direction is 
+counterclockwise 
+ (as seen from above). 
+ 
+(c) 
+Consider a strip of the wall of horizontal width ds 
+and length . Its width is so small compared to  
+2π R that the field at its location would be essentially unchanged if 
+the current in the strip were turned off.  
+ 
+ 
+The current it carries is Is = Ids
+2π R
+ up. 
+ANS. FIG. 
+P30.37(a) 
+ANS. FIG. 
+P30.37(b)
+
+--- PAGE 29 ---
+Chapter 30     383 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The force on it is  
+ 
+ 
+ 
+d
+
+F = Is
+
+×
+
+B = Ids
+2π R µ0I
+2π R
+⎛
+⎝⎜
+⎞
+⎠⎟ up
+× intopage
+
+⎡⎣
+⎤⎦
+= µ0I 2ds
+2πR
+(
+)
+2 radiallyinward
+
+ 
+ 
+ 
+The pressure on the strip, and therefore, everywhere on the 
+cylinder, is 
+ 
+ 
+ 
+P = dF
+dA
+= µ0I 2ds
+2πR
+(
+)
+2
+1
+ds
+=
+µ0I 2
+2π R
+(
+)
+2 inward 
+ 
+ 
+The pinch effect makes an effective demonstration when an 
+aluminum can crushes itself as it carries a large current along its 
+length. 
+P30.38 
+Take a circle of radius r1 or r2 to apply 
+
+B ⋅ds = µ0I
+∫
+, where for nonuniform 
+current density I =
+JdA
+∫
+. In this case 
+
+B 
+is parallel to ds and the direction of J is 
+straight through the area element dA, so 
+Ampère’s law gives  
+ 
+ 
+ 
+Bds = µ0
+JdA
+∫
+∫
+ 
+ 
+(a) 
+For r1 < R,  
+ 
+ 
+ 
+2πr1B = µ0
+br
+0
+r1∫
+(2πrdr) = µ02πb r1
+3
+3 −0
+⎡
+⎣⎢
+⎤
+⎦⎥  
+ 
+ 
+and B = 1
+3 µ0br1
+2
+(
+) (inside) 
+ 
+(b) For r2 > R, 
+ 
+ 
+  
+2πr2B = µ0
+br
+0
+R∫
+(2πrdr)   
+ 
+  
+and B = µ0bR3
+3r2
+ (outside) 
+ 
+ 
+ANS. FIG. P30.38
+
+--- PAGE 30 ---
+384     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.39 
+Each wire is distant from P by 
+(= 0.200 m) 
+ 
+ 
+ 
+r =
+2 + 2 2 = 
+2 
+ 
+and each wire produces a field at P of 
+equal magnitude  
+ 
+ 
+ 
+B = µ0I
+2π r 
+ 
+Carrying currents into the page, A 
+produces at P a field to the left and 
+downward at –135°, while B creates a field to the right and downward 
+at –45°. Carrying currents out of the page, C produces a field downward 
+and to the right at –45°, while D’s contribution is downward and to the 
+left. All horizontal components cancel; thus, all remaining components 
+are vertically downward. The magnitude of the resulting field is 
+ 
+ 
+ 
+BP = 4Bcos45.0° = 4 µ0I
+2π r
+cos45.0° = 4
+µ0I
+2π 
+2
+(
+)
+1
+2
+= 2µ0I
+π
+=
+2 4π × 10−7 T ⋅m A
+(
+) 5.00 A
+(
+)
+π 0.200 m
+(
+)
+= 2.00× 10−5 T
+ 
+ 
+The magnetic field is 20.0 µT  toward the bottom of the page . 
+ 
+ 
+ 
+Section 30.4 
+The Magnetic Field of a Solenoid 
+P30.40 
+The magnetic field inside of a solenoid is B = µ0nI = µ0 N/L
+(
+)I. Thus, 
+the number of turns on this solenoid must be 
+ 
+ 
+N = BL
+µ0I
+=
+9.00 T
+(
+) 0.500 m
+(
+)
+4π × 10−7 T ⋅m A
+(
+) 75.0 A
+(
+)
+= 4.77 × 104 turns 
+P30.41 
+The magnetic field at the center of a solenoid is B = µ0
+N
+I, so 
+ 
+ 
+ 
+I = B
+µ0n =
+1.00 × 10−4 T
+(
+) 0.400 m
+(
+)
+4π × 10−7 T ⋅m A
+(
+) 1 000
+(
+)
+= 31.8 mA
+ 
+P30.42 
+In the expression B = Nµ0I/ for the field within a solenoid with 
+radius much less than 20 cm, all we want to do is increase N.  
+ 
+(a) 
+Make the wire as long and thin as possible without melting when 
+it carries the 5-A current. Then the solenoid can have many turns.  
+ANS. FIG. P30.39
+
+--- PAGE 31 ---
+Chapter 30     385 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As small in radius as possible with your experiment fitting inside. 
+Then with a smaller circumference the wire can form a solenoid 
+with more turns. 
+P30.43 
+(a) 
+The field produced by the solenoid in its interior is given by 
+ 
+ 
+ 
+
+B = µ0nI −ˆi
+( ) = 4π × 10−7 T ⋅m A
+(
+)
+30.0
+10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟15.0 A
+(
+) −ˆi
+( ) 
+ 
+ 
+ 
+
+B = −5.65× 10−2 T
+(
+)ˆi 
+ 
+ 
+ 
+The force exerted on side AB of the square current loop is 
+ 
+ 
+ 
+
+FB
+( )AB = I
+
+L ×
+
+B = 0.200 A
+(
+)
+              × 
+2.00 × 10−2 m
+(
+)ˆj × 5.65 × 10−2 T
+(
+) −ˆi
+( )
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+ 
+
+FB
+( )AB = 2.26 × 10−4 N
+(
+) ˆk  
+ 
+ 
+ 
+ANS. FIG. P30.43 
+ 
+ 
+Similarly, each side of the square loop experiences a force, lying 
+in the plane of the loop, of  
+226 µN directed away from the center of the loop .  
+ 
+(b) From the above result, it is seen that the net torque exerted on the 
+square loop by the field of the solenoid is zero . More formally, 
+the magnetic dipole moment of the square loop is given by 
+ 
+ 
+ µ = I
+
+A = 0.200 A
+(
+) 2.00 × 10−2 m
+(
+)
+2 −ˆi
+( ) = −80.0 µA ⋅m2 ˆi 
+ 
+ 
+ 
+The torque exerted on the loop is then 
+ 
+ 
+ 
+τ = µ ×
+
+B = −80.0 µA ⋅m2 ˆi
+(
+) × −5.65 × 10−2 T ˆi
+(
+) = 0
+
+--- PAGE 32 ---
+386     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.44 
+The number of turns is N = 75.0 cm
+0.100 cm = 750. We assume that the 
+solenoid is long enough to qualify as a long solenoid. Then the field 
+within it (not close to the ends) is B = Nµ0I
+
+, so  
+ 
+ 
+ 
+I = B
+Nµ0
+=
+8.00 × 10−3 T
+(
+) 0.750 m
+(
+)
+750 4π × 10−7 T ⋅m/A
+(
+)
+= 6.37 A
+ 
+ 
+The resistance of the wire is 
+ 
+ 
+ 
+R = ρwire
+A
+=
+1.7 × 10−8 Ω⋅m
+(
+)2π 0.050 0 m
+(
+)750
+π 0.050 0 × 10−2 m
+(
+)
+2
+= 5.10 Ω
+ 
+ 
+The power delivered is  
+ 
+ 
+ 
+P = IΔV = I 2R = 6.37 A
+(
+)
+2 5.10 Ω
+(
+) = 207 W 
+ 
+The power required would be smaller if wire were wrapped in several 
+layers. 
+P30.45 
+(a) 
+From R = ρL/A, the required length of wire to be used is 
+L = R ⋅A
+ρ
+. The total number of turns on the solenoid (that is, the 
+number of times this length of wire will go around a 1.00 cm 
+radius cylinder) is 
+ 
+ 
+ 
+N =
+L
+2πr = R⋅A
+2πrρ =
+5.00 Ω
+(
+) π 0.500 × 10−3 m
+(
+)
+2 4
+⎡⎣
+⎤⎦
+2π 1.00 × 10−2 m
+(
+) 1.7 × 10−8 Ω⋅m
+(
+)
+= 9.2 × 102 turns
+ 
+ 
+(b) From B = µ0nI, the number of turns per unit length on the 
+solenoid is 
+ 
+ 
+ 
+n = B
+µ0I
+=
+4.00× 10−2 T
+4π × 10−7 T ⋅m A
+(
+) 4.00 A
+(
+)
+= 7.96× 103 turns m 
+ 
+ 
+Thus, the required length of the solenoid is 
+ 
+ 
+ 
+L = N
+n
+=
+9.2 × 102 turns
+7.96× 103 turns m
+= 0.12 m = 12 cm
+
+--- PAGE 33 ---
+Chapter 30     387 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 30.5 
+Gauss’s Law in Magnetism 
+P30.46 
+(a) 
+The magnetic flux through the flat surface S1 is 
+ 
+ 
+ 
+ΦB
+(
+)flat =
+
+B⋅
+
+A = Bπ R2 cos 180 −θ
+(
+) = −Bπ R2 cosθ 
+ 
+(b) The net flux out of the closed surface is zero: 
+ΦB
+(
+)flat + ΦB
+(
+)curved = 0 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ΦB
+(
+)curved = Bπ R2 cosθ 
+P30.47 
+The flux is defined as ΦB =
+
+B⋅
+
+A 
+ 
+ 
+(a) 
+The flux through the shaded face is ΦB = BxAx + By Ay + Bz Az. The 
+shaded square’s area is in the yz plane, so it counts as an x 
+component of area. Here  
+Ay = Az = 0. Then,  
+ 
+ 
+ 
+ 
+ΦB =
+
+B⋅d
+
+A
+∫
+=
+
+B⋅
+
+A = 5ˆi + 4ˆj+ 3 ˆk
+(
+) T ⋅2.50× 10−2 m
+(
+)
+2 ˆi 
+ 
+ 
+ 
+ 
+ΦB = 3.12 × 10−3 T ⋅m2 = 3.12 × 10−3 Wb = 3.12 mWb 
+ 
+(b) For a closed surface, 
+
+B ⋅d
+
+A
+∫
+= 0, so ΦB
+(
+)total =
+
+B⋅d
+
+A
+∫
+= 0 
+P30.48 
+(a) 
+ΦB =
+
+B⋅
+
+A = BA where A is the cross-sectional area of the 
+solenoid. Then, 
+ 
+ 
+ 
+ΦB = µ0NI
+
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+)
+=
+4π × 10−7 T ⋅m/A
+(
+) 300
+(
+) 12.0 A
+(
+)
+0.300 m
+π 0.012 5 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 7.40× 10−7 Wb = 7.40 µWb
+ 
+ 
+(b) 
+ΦB =
+
+B⋅
+
+A = BA =
+µ0NI
+
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+2 −r1
+2
+(
+)
+⎡⎣
+⎤⎦ 
+ 
+ 
+ΦB =
+4π × 10−7 T⋅m A
+(
+) 300
+(
+) 12.0 A
+(
+)
+0.300 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+                                           ×π
+8.00
+(
+)
+2 −4.00
+(
+)
+2
+⎡⎣
+⎤⎦10−3 m
+(
+)
+2
+= 2.27 µWb
+
+--- PAGE 34 ---
+388     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 30.6 
+Magnetism in Matter 
+P30.49 
+(a) 
+The Bohr magneton is 
+ 
+ 
+ 
+µB = 9.27 × 10–24 J
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+N ⋅m 
+1 J 
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 T 
+N ⋅s/C⋅m 
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 A 
+C/s 
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 9.27 × 10−24A ⋅m2
+ 
+ 
+ 
+The number of unpaired electrons is  
+ 
+ 
+ 
+N = 8.00 × 1022 A ⋅m2 
+9.27 × 10–24 A ⋅m2 = 8.63 × 1045 e− 
+ 
+(b) Each iron atom has two unpaired electrons, so the number of iron 
+atoms required is  
+ 
+ 
+ 
+1
+2 N = 1
+2 (8.63 × 1045) = 4.31× 1045 iron atoms
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+MFe = (4.31× 1045 atoms)(7 900 kg/m3)
+8.50 × 1028 atoms/m3
+= 4.01× 1020 kg
+ 
+P30.50 
+The magnetic moment of one electron is taken as one Bohr magneton 
+μB. Let x represent the number of electrons per atom contributing and n 
+the number of atoms per unit volume. Then nxµB is the magnetic 
+moment per volume and the magnetic field (in the absence of any 
+currents in wires) is B = µ0nxµB = 2.00 T.. Then 
+ 
+ 
+x =
+B
+µ0µBn
+=
+2.00 T
+8.50 × 1028 m−3
+(
+) 4π × 10−7 T⋅m A
+(
+) 9.27 × 10−24 N⋅m T
+(
+)
+= 2.02
+ 
+ 
+ 
+ 
+Additional Problems 
+P30.51 
+The magnetic field inside of a solenoid is B = µ0nI = µ0 N/L
+(
+)I. Thus, 
+the current in this solenoid must be 
+ 
+I = BL
+µ0N = 2.00 × 10−3 T
+(
+) 6.00 × 10−2 m
+(
+)
+4π × 10−7 T⋅m A
+(
+) 30.0
+(
+)
+= 3.18 A
+
+--- PAGE 35 ---
+Chapter 30     389 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P30.52 
+Call the wire along the x-axis wire 1 and the other wire 2. Also, choose 
+the positive direction for the magnetic fields at point P to be out of the 
+page. At point P,  
+ 
+ 
+Bnet = +B1 −B2 = µ0I1
+2πr1
+−µ0I2
+2πr2
+= µ0
+2π
+I1
+r1
+−I2
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+Substituting numerical values, 
+ 
+ 
+Bnet = 4π × 10−7 T⋅m A
+(
+)
+2π
+7.00 A
+3.00 m −6.00 A
+4.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= +1.67 × 10−7 T
+ 
+ 
+ 
+
+Bnet = 0.167 µT out of the page 
+P30.53 
+(a) 
+Suppose you have two 100-W headlights running from a 12-V 
+battery, with the whole I = P
+ΔV
+= 200 W
+12 V
+= 17 A current going 
+through the switch 60 cm from the compass. Suppose the 
+dashboard contains little iron, so µ ≈µ0. Model the current as 
+being from a long, straight wire. Then, 
+ 
+ 
+ 
+B = µ0I
+2π r
+=
+4π × 10−7 T ⋅m/A
+(
+) 17 A
+(
+)
+2π 0.6 m
+(
+)
+~ 10−5 T 
+ 
+(b) If the local geomagnetic field is 5 × 10–5 T, this is 
+~ 10−1 times as large, enough to affect the compass noticeably. 
+P30.54 
+Use Equation 30.7 to find the field at a distance from a current loop 
+equal to the radius of the loop: 
+ 
+ 
+ 
+B = 
+µ0Ia2
+2 a2 + x2
+(
+)
+3/2  = 
+µ0Ia2
+2 a2 + a2
+(
+)
+3/2  = 
+µ0Ia2
+2 2a2
+(
+)
+3/2  
+=  µ0Ia2
+25/2a3  =  µ0I
+25/2a
+ 
+ 
+Solve for the current: 
+ 
+ 
+ 
+I = 25/2aB
+µ0
+ 
+ 
+Let a be the radius of the Earth and substitute numerical values: 
+ 
+ 
+ 
+I = 25/2REB
+µ0
+ = 25/2 6.37 × 106 m
+(
+) 7.00 × 10−5 T
+(
+)
+4π  × 10−7  T⋅m/A
+ 
+= 2.01 × 109 A
+
+--- PAGE 36 ---
+390     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This current would instantly vaporize any wire of reasonable size. For 
+example, if we imagine a 1.00-m segment of copper wire 10 cm in 
+diameter, a huge wire, this current delivers over a terawatt of power to 
+this short segment! Furthermore, the power delivered to such a wire 
+wrapped around the Earth is on the order of 1020 W, which is larger 
+than all of the solar power delivered to the Earth by the Sun. 
+P30.55 
+On the axis of a current loop, the magnetic field is given by  
+ 
+ 
+ 
+B =
+µ0IR2
+2 x2 + R2
+(
+)
+3 2 
+ 
+where in this case I =
+q
+2π ω
+(
+)
+. The magnetic field is directed away 
+from the center, with a magnitude of 
+ 
+ 
+ 
+B =
+µ0ωR2q
+4π x2 + R2
+(
+)
+3 2
+=
+µ0 20.0 rad/s
+(
+) 0.100 m
+(
+)
+2 10.0 × 10−6 C
+(
+)
+4π
+0.050 0 m
+(
+)
+2 + 0.100 m
+(
+)
+2
+⎡⎣
+⎤⎦
+3 2
+= 1.43 × 10−10 T = 143 pT
+ 
+P30.56 
+On the axis of a current loop, the magnetic field is given by  
+ 
+ 
+ 
+B =
+µ0IR2
+2 x2 + R2
+(
+)
+3 2 
+ 
+where in this case I =
+q
+2π ω
+(
+)
+. Therefore,  
+ 
+ 
+ 
+B =
+µ0ωR2q
+4π x2 + R2
+(
+)
+3 2 
+ 
+when x = R
+2 , then 
+ 
+ 
+ 
+B =
+µ0ωR2q
+4π
+5
+4 R2
+(
+)
+3 2 =
+µ0qω
+2.5 5πR 
+P30.57 
+Consider a longitudinal filament of the strip of width dr as shown in 
+the sketch. The contribution to the field at point P due to the current dI 
+in the element dr is 
+ 
+ 
+ 
+dB = µ0dI
+2π r
+
+--- PAGE 37 ---
+Chapter 30     391 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+where dI = I dr
+w
+⎛
+⎝⎜
+⎞
+⎠⎟. Then, 
+ 
+ 
+ 
+
+B =
+d
+
+B
+∫
+=
+µ0I
+2πw
+dr
+r
+ˆk
+b
+b+w
+∫
+=
+µ0I
+2π w
+ln 1+ w
+b
+⎛
+⎝⎜
+⎞
+⎠⎟ˆk 
+ 
+ANS. FIG. P30.57 
+P30.58 
+(a) 
+The horizontal component of Earth’s magnetic field is given by 
+ 
+ 
+ 
+Bh = Bcoil = µ0NI
+2R = 4π × 10−7 T⋅m/A
+(
+) 5
+( ) 0.600 A
+(
+)
+0.300 m
+= 12.6 µT
+ 
+ 
+(b) Refer to ANS. FIG. P30.58. We obtain the total magnetic field from 
+ 
+ 
+ 
+Bh = Bsinφ →B = Bh
+sinφ
+= 12.6 µT
+sin13.0°
+= 56.0 µT 
+ 
+ANS. FIG. P30.58 
+P30.59 
+In ANS FIG. P30.59(a), the upper sheet acts as conventional current to 
+the right. Consider a patch of the sheet of width w parallel to the z axis 
+and length d parallel to the x axis. The charge on it, Δq = σwd, passes a 
+point in time interval Δt = d/v, so the current it constitutes is 
+Δq/Δt = σwd/ d/v
+(
+) = σwv and the linear current density is 
+Js = σwv/w = σ v. 
+ 
+ANS. FIG. P30.59(a)
+
+--- PAGE 38 ---
+392     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We may use Ampere’s law to find the magnitude of the magnetic field 
+produced by a sheet because of the translational symmetry along the z 
+axis. In ANS. FIG. P30.59(b), we look at the upper sheet as it 
+approaches us: the upper sheet (and z-axis) lies in a horizontal plane 
+and the conventional current is out of the page. Choose a closed 
+rectangular path of width w centered about the upper sheet. Because 
+the current it out on the page, we expect the field to point to the right 
+below the sheet and to the left above the sheet.  
+ 
+For the loop, the term 
+
+B ⋅ds is non-zero along the sides parallel to the 
+sheet and zero along the sides perpendicular to the sheet. From 
+Ampere’s law, we find the magnitude of the magnetic field on either 
+side of the sheet:  
+ 
+ 
+
+B ⋅ds
+∫
+= µ0I
+B 2w
+(
+) = µ0 Jsw
+(
+)
+B = µ0Js
+2
+= µ0σ v
+2
+ 
+ 
+ANS. FIG. P30.59(b) 
+ 
+Therefore, the upper sheet creates field 
+
+B = µ0Js
+2
+ˆk above it and 
+µ0Js
+2
+−ˆk
+(
+) below it. Similarly, the lower sheet in its motion toward the 
+right constitutes conventional current toward the left. It creates 
+magnetic field 1
+2
+µ0σ v −ˆk
+(
+) above it and 1
+2
+µ0σ vˆk below it.  
+ 
+(a) 
+Between the plates, their fields add to  
+ 
+ 
+ 
+µ0σ v −ˆk
+(
+) = µ0σ v into the page . 
+ 
+(b) Above both sheets and below both, their equal-magnitude fields 
+add to zero .
+
+--- PAGE 39 ---
+Chapter 30     393 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The upper plate exerts no force on itself. The field of the lower 
+plate, 1
+2
+µ0σ v −ˆk
+(
+) will exert a force on the current in the w by d 
+section, given by 
+ 
+ 
+ 
+
+FB = I
+
+×
+
+B = σ wvdˆi × 1
+2
+µ0σ v −ˆk
+(
+) = 1
+2
+µ0σ 2v2wdˆj 
+ 
+ 
+The force per area is  
+ 
+ 
+ 
+
+FB
+wd = 1
+2
+µ0σ 2v2wd
+wd
+ˆj
+=
+1
+2 µ0σ 2v2  up toward the top of the page
+ 
+ 
+(d) The electrical force on our section of the upper plate is  
+ 
+ 
+ 
+q
+
+Elower = σ wd
+(
+) σ
+2 ∈0
+−ˆj
+( ) = σ 2wd
+2 ∈0
+−ˆj
+( )
+ 
+ 
+ 
+The electrical force per area is σ 2wd
+2 ∈0 wd down = σ 2
+2 ∈0
+ down. To 
+have 1
+2 µ0σ 2v2 = σ 2
+2 ∈0
+ we require  
+ 
+ 
+v =
+1
+µ0 ∈0
+. We will find out in Chapter 34 that this speed
+is the speed of light. We will find out in Chapter 39 that this
+speed is not possible for the capacitor plates.
+  
+P30.60 
+(a) 
+Use Equation 30.7 twice for the field created by a current loop 
+ 
+ 
+ 
+Bx =
+µ0IR2
+2 x2 + R2
+(
+)
+3 2 
+ 
+ANS. FIG. P30.60
+
+--- PAGE 40 ---
+394     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+If each coil has N turns, the field is just N times larger. 
+ 
+ 
+ 
+B = Bx1 + Bx2 = Nµ0IR2
+2
+1
+x2 + R2
+(
+)
+3 2 +
+1
+R −x
+(
+)
+2 + R2
+⎡⎣
+⎤⎦
+3 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+ 
+B = Nµ0IR2
+2
+1
+R2 + x2
+(
+)
+3 2 +
+1
+2R2 + x2 −2xR
+(
+)
+3 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+(b) 
+dB
+dx
+= Nµ0IR2
+2
+−3
+2
+2x
+(
+) x2 + R2
+(
+)
+−5 2 −3
+2
+2R2 + x2 −2xR
+(
+)
+−5 2 2x −2R
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+Substituting x = R
+2 and canceling terms, dB
+dx
+= 0 . 
+ 
+ 
+ 
+d2B
+dx2 = −3Nµ0IR2
+2
+x2 + R2
+(
+)
+−5 2 −5x2 x2 + R2
+(
+)
+−7 2
+⎡⎣
+    + 2R2 + x2 −2xR
+(
+)
+−5 2 −5 x −R
+(
+)
+2 2R2 + x2 −2xR
+(
+)
+−7 2 ⎤⎦
+ 
+ 
+ 
+Again substituting x = R
+2 and canceling terms, d2B
+dx2 = 0 . 
+P30.61 
+We have a pair of Helmholtz coils whose separation distance is equal 
+to their radius R. To find the magnetic field halfway between the coils 
+on their common axis, we use Equation 30.7 to find the field produced 
+on the axis of a loop the distance x = R/2 from its center:  
+ 
+ 
+ 
+B = 2
+µ0IR2
+2
+R 2
+(
+)
+2 + R2
+⎡⎣
+⎤⎦
+3 2 =
+µ0IR2
+1
+4 + 1
+[
+]
+3 2 R3 =
+µ0I
+1.40R for 1 turn 
+ 
+For N turns in each coil,  
+ 
+ 
+ 
+B = µ0NI
+1.40R = 4π × 10−7 T⋅m/A
+(
+)100 10.0 A
+(
+)
+1.40 0.500 m
+(
+)
+= 1.80 × 10−3 T = 1.80 mT
+ 
+P30.62 
+Model the two wires as straight parallel wires (!). From the treatment 
+of this situation in the chapter text (refer to Equation 30.12), we have 
+ 
+(a) 
+FB = µ0I 2
+2π a
+ 
+ 
+ 
+FB =
+4π × 10−7 T ⋅m/A
+(
+) 140 A
+(
+)
+2
+2π
+(
+) 0.100 m
+(
+)
+⎡⎣
+⎤⎦
+2π 1.00× 10−3 m
+(
+)
+= 2.46 N   upward
+
+--- PAGE 41 ---
+Chapter 30     395 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P30.62 
+ 
+(b) 
+Equation 30.7, Bx =
+µ0Ia2
+2 a2 + x2
+(
+)
+3/2 is the expression for 
+the magnetic field produced a distance x above the 
+center of a loop. The magnetic field at the center of the 
+loop or on its axis is much weaker than the magnetic 
+field just outside the wire. The wire has negligible 
+curvature on the scale of 1 mm, so we model the lower 
+loop as a long straight wire to find the field it creates at 
+the location of the upper wire.
+ 
+ 
+(c) 
+The acceleration of the upper loop is found from Newton’s 
+second law: 
+ 
+ 
+ 
+F
+∑
+= mloopaloop = FB −mloopg:  
+ 
+ 
+ 
+ 
+aloop = FB −mloopg
+mloop
+= 2.46 N −0.021 0 kg
+(
+) 9.80 m/s2
+(
+)
+0.021 0 kg
+(
+)
+= 107 m s2   upward
+ 
+P30.63 
+In the textbook Figure P30.63, wire 1 carries current along the x axis 
+and wire 2 carries current along the y axis. 
+ 
+Choosing out of the page as the positive field direction, the field at 
+point P is 
+ 
+ 
+ 
+B = B1 −B2 = µ0
+2π
+I1
+r1
+−I2
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4π × 10−7 T⋅m A
+(
+)
+2π
+5.00 A
+0.400 m −3.00 A
+0.300 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.00 × 10−7 T
+ 
+ 
+The result is positive; therefore, the field at P is 
+ 
+(a) 
+0.500 µT 
+ 
+(b) out of the page
+
+--- PAGE 42 ---
+396     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+At 30.0 cm above the intersection of the wires, the field 
+components are as shown in ANS. FIG. P30.63, where 
+ 
+ 
+ 
+By = −B1 = −µ0I1
+2πr
+= −
+4π × 10−7 T ⋅m A
+(
+) 5.00 A
+(
+)
+2π 0.300 m
+(
+)
+= −3.33× 10−6 T
+ 
+ 
+ 
+and Bx = B2 = µ0I2
+2πr
+=
+4π × 10−7 T ⋅m A
+(
+) 3.00 A
+(
+)
+2π 0.300 m
+(
+)
+= 2.00× 10−6 T 
+ 
+ANS. FIG. P30.63 
+ 
+ 
+The resultant field is 
+ 
+ 
+ 
+B =
+Bx
+2 + By
+2 = 3.89× 10−6 T at θ =tan−1 By
+Bx
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= −59.0° 
+ 
+ 
+or 
+
+B = 3.89 µT  in the xy plane and at 59.0° clockwise 
+      from the +x direction
+ 
+P30.64 
+(a) 
+The magnetic field at the center of a circular current loop of 
+radius R and carrying current I is B = µ0I /2R. The direction of 
+the field at this center is given by the right-hand rule. Taking out 
+of the page (toward the reader) as positive, the net magnetic field 
+at the common center of these coplanar loops is 
+ 
+ 
+ 
+Bnet = B2 −B1 = µ0I2
+2r2
+−µ0I1
+2r1
+= 4π × 10−7 T⋅m A
+(
+)
+2
+3.00 A
+9.00 × 10−2 m −
+5.00 A
+12.0 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −5.24 × 10−6 T →Bnet = 5.24 µT
+ 
+ 
+(b) By our convention above (out of the page is positive), the result of 
+part (a) tells us that the net magnetic field is into the page .
+
+--- PAGE 43 ---
+Chapter 30     397 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+To have Bnet = 0, it is necessary that I2/r2 = I1/r1, or 
+ 
+ 
+ 
+r2 = I2
+I1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟r1 = 3.00 A
+5.00 A
+⎛
+⎝⎜
+⎞
+⎠⎟12.0 cm
+(
+) = 7.20 cm 
+P30.65 
+(a) 
+In d
+
+B =
+µ0
+4π r2 Ids × ˆr , the moving charge constitutes a bit of current 
+as in I = nqvA. For a positive charge the direction of ds is the 
+direction of v , so d
+
+B =
+µ0
+4π r2 nqA ds
+(
+) v × ˆr . Next, A (ds) is the 
+volume occupied by the moving charge, and nA (ds) = 1 for just 
+one charge. Then,  
+ 
+ 
+ 
+
+B = µ0
+4π
+qv × ˆr
+r2
+ 
+ 
+(b) The magnitude of the field is 
+ 
+ 
+B = 4π × 10−7 T⋅m A
+(
+) 1.60 × 10−19 C
+(
+) 2.00 × 107 m s
+(
+)
+4π 1.00 × 10−3 m
+(
+)
+2
+sin90.0°
+= 3.20 × 10−13 T
+ 
+ 
+(c) 
+The magnetic force on a second proton moving in the opposite 
+direction is 
+ 
+ 
+ 
+FB = q v ×
+
+B = 1.60 × 10−19 C
+(
+) 2.00 × 107 m s
+(
+)
+                                               × 3.20 × 10−13 T
+(
+)sin90.0°
+FB = 1.02 × 10−24 N directed away from the first proton
+ 
+ 
+(d) The electric force on a second proton moving in the opposite 
+direction is 
+ 
+ 
+ 
+Fe = qE = keq1q2
+r2
+=
+8.99× 109 N ⋅m2 C2
+(
+) 1.60× 10−19 C
+(
+)
+2
+1.00× 10−3
+(
+)
+2
+ 
+ 
+ 
+ 
+Fe = 2.30× 10−22 N directed away from the first proton 
+P30.66 
+(a) 
+B = µ0I
+2π r
+=
+4π × 10−7 T ⋅m A
+(
+) 24.0 A
+(
+)
+2π 0.017 5 m
+(
+)
+= 2.74× 10−4 T 
+ 
+(b) Because current is diverted through the bar, only half of each rail 
+carries current, so the field produced by each rail is half what an 
+infinitely long wire produces.
+
+--- PAGE 44 ---
+398     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore, at point C, conductor AB produces a field  
+ 
+ 
+ 
+1
+2
+2.74× 10−4 T
+(
+) −ˆj
+( ), 
+  
+conductor DE produces a field of 1
+2
+2.74× 10−4 T
+(
+) −ˆj
+( ), 
+ BD 
+produces no field, and AE produces negligible field. The total 
+field at C is 2.74 × 10−4 T −ˆj
+( ) . 
+ 
+ANS. FIG. P30.66 
+ 
+(c) 
+Under the assumption that the rails are infinitely long, the
+length of rail to the left of the bar does not depend on the
+location of the bar.
+  
+ 
+ 
+The force on the bar is  
+ 
+ 
+ 
+
+FB = I
+
+×
+
+B = 24.0 A
+(
+) 0.035 0 mˆk
+(
+) × 5 2.74 × 10−4 T
+(
+) −ˆj
+( )
+⎡⎣
+⎤⎦
+= 1.15 × 10−3ˆi N
+ 
+ 
+ 
+The field has magnitude  
+ 
+(d) 
+1.15× 10−3 N in the 
+ 
+(e) 
++x direction. 
+ 
+(f) 
+The bar is already so far from AE that it moves through nearly 
+constant magnetic field. 
+Yes, length of the bar, current, and field are constant, 
+so force is constant.
+ 
+ 
+
+
+--- PAGE 45 ---
+Chapter 30     399 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) The acceleration is a =
+
+F
+∑
+m =
+1.15 × 10−3 N
+(
+)ˆi
+3.00 × 10−3 kg = 0.384 m s2
+(
+)ˆi: 
+ 
+ 
+ 
+v f
+2 = vi
+2 + 2ax = 0+ 2 0.384 m s2
+(
+) 1.30 m
+(
+) 
+ 
+ 
+ so 
+v f =
+0.999 m s
+(
+)ˆi . 
+P30.67 
+Each turn creates a field of µ0I
+2R
+ at the center of the coil. In all, they 
+create the field 
+ 
+ 
+B = µ0I
+2
+1
+R1
++ 1
+R2
+++ 1
+R50
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+ANS. FIG. P30.67 
+ 
+Using a spreadsheet to calculate the sum, we have  
+ 
+ 
+B = µ0I
+2
+1
+5.05 +
+1
+5.15 ++
+1
+9.95
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4π × 10−7 T⋅m/A
+(
+)I
+2
+6.931347
+(
+) 100 m−1
+(
+)
+ 
+ 
+Therefore, B = 4.36× 10−4I, where B is in teslas and I is in amperes. 
+P30.68 
+The central wire creates field 
+
+B = µ0I1
+2π R
+ counterclockwise. The curved 
+portions of the loop feel no force since 
+
+×
+
+B = 0 there. The straight 
+portions both feel I
+
+×
+
+B forces to the right, amounting to  
+ 
+ 
+
+FB = I22L µ0I1
+2π R
+= µ0I1I2L
+π R
+ to the right
+
+--- PAGE 46 ---
+400     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P30.69 
+(a) 
+Let the axis of the solenoid lie along the y axis from y = − to y = 
+0. We will determine the field at position y = x: this point will be 
+inside the solenoid if −< x < 0 and outside if x < − or x > 0. We 
+think of solenoid as formed of rings, each of thickness dy. Now I 
+is the symbol for the current in each turn of wire and the number 
+of turns per length is N
+
+⎛
+⎝⎜
+⎞
+⎠⎟. So the number of turns in the ring is 
+N
+
+⎛
+⎝⎜
+⎞
+⎠⎟dy and the current in the ring is Iring = I N
+
+⎛
+⎝⎜
+⎞
+⎠⎟dy. Now, we use 
+Equation 30.7 for the field created by one ring: 
+ 
+ 
+ 
+Bring =
+µ0Iringa2
+2
+x −y
+(
+)
+2 + a2
+⎡⎣
+⎤⎦
+3 2 
+ 
+ 
+where x – y is the distance from the center of the ring, at location 
+y, to the field point (note that y is negative, so x – y = x + |y|). 
+Each ring creates a field in the same direction, along the y axis, so 
+the whole field of the solenoid is 
+ 
+ 
+ 
+B =
+Bring
+all rings
+∑
+=
+µ0Iringa2
+2
+x −y
+(
+)
+2 + a2
+⎡⎣
+⎤⎦
+3 2 →
+∑
+µ0I N 
+(
+)a2dy
+2
+x −y
+(
+)
+2 + a2
+⎡⎣
+⎤⎦
+3 2
+−
+0
+∫
+= µ0INa2
+2
+dy
+x −y
+(
+)
+2 + a2
+⎡⎣
+⎤⎦
+3 2
+−
+0
+∫
+ 
+ 
+ 
+To perform the integral we change variables to u = x – y and  
+dy = –du. Then, 
+ 
+ 
+ 
+B = −µ0INa2
+2
+du
+u2 + a2
+(
+)
+3 2
+x+
+x
+∫
+ 
+ 
+ 
+and then using the table of integrals in the appendix, 
+ 
+ 
+ 
+B = −µ0INa2
+2
+u
+a2 u2 + a2
+x+
+x
+= −µ0IN
+2
+x
+x2 + a2 −
+x + 
+x + 
+(
+)
+2 + a2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= µ0IN
+2
+x + 
+x + 
+(
+)
+2 + a2 −
+x
+x2 + a2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+
+--- PAGE 47 ---
+Chapter 30     401 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If  is much larger than a and x = 0, we have 
+ 
+ 
+ 
+B ≅µ0IN
+2
+
+2 + 0
+⎡
+⎣⎢
+⎤
+⎦⎥= µ0IN
+2
+ 
+ 
+ 
+This is just half the magnitude of the field deep within the 
+solenoid. We would get the same result by substituting x = − to 
+describe the other end. 
+P30.70 
+Consider first a solid cylindrical rod of radius R carrying current 
+toward you, uniformly distributed over its cross-sectional area. To find 
+the field at distance r from its center we consider a circular loop of 
+radius r: 
+ 
+ 
+ 
+
+B⋅ds
+∫
+= µ0Iinside
+B2π r = µ0π r2J
+B = µ0Jr
+2
+
+B = µ0J
+2
+ˆk × r
+ 
+ 
+ANS. FIG. P30.70 
+ 
+Now the total field at P inside the saddle coils is the field due to a solid 
+rod carrying current toward you, centered at the head of vector 
+
+d , plus 
+the field of a solid rod centered at the tail of vector 
+
+d carrying current 
+away from you. 
+ 
+ 
+ 
+
+B1 +
+
+B2 = µ0J
+2
+ˆk × r1 + µ0J
+2
+−ˆk
+(
+)× r2 
+ 
+Now note 
+
+d + r1 = r2 . Then, 
+ 
+ 
+ 
+
+B1 +
+
+B2 = µ0J
+2
+ˆk × r1 −µ0J
+2
+ˆk ×
+
+d + r1
+(
+) = µ0J
+2
+
+d × ˆk
+= µ0Jd
+2
+ down in the diagram
+
+--- PAGE 48 ---
+402     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.71 
+At a point at distance x from the left end of the bar, current I2 creates 
+magnetic field 
+
+B =
+µ0I2
+2π
+h2 + x2 to the left and above the horizontal at 
+angle θ where tanθ = x
+h . This field exerts force on an element of the 
+rod of length dx 
+ 
+ 
+ 
+d
+
+F = I1
+
+×
+
+B = I1
+µ0I2dx
+2π
+h2 + x2
+sinθ
+right hand rule
+=
+µ0I1I2dx
+2π
+h2 + x2
+x
+h2 + x2 into the page
+  
+ 
+ 
+ 
+ 
+d
+
+F = µ0I1I2xdx
+2π h2 + x2
+(
+)
+−ˆk
+(
+) 
+ 
+ANS. FIG. P30.71 
+ 
+The whole force is the sum of the forces on all of the elements of the 
+bar: 
+ 
+ 
+ 
+
+F =
+µ0I1I2xdx
+2π h2 + x2
+(
+)
+−ˆk
+(
+)
+x=0
+
+∫
+=
+µ0I1I2 −ˆk
+(
+)
+4π
+2xdx
+h2 + x2
+0
+
+∫
+=
+µ0I1I2 −ˆk
+(
+)
+4π
+ln h2 + x2
+(
+)
+0
+
+=
+µ0I1I2 −ˆk
+(
+)
+4π
+ln h2 + 2
+(
+)−ln h2
+⎡⎣
+⎤⎦
+=
+10−7 N
+(
+) 100 A
+(
+) 200 A
+(
+) −ˆk
+(
+)
+A2
+ln
+0.500 cm
+(
+)
+2 + 10.0 cm
+(
+)
+2
+0.500 cm
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 2 × 10−3 N −ˆk
+(
+)ln 401 = 1.20 × 10−2 N −ˆk
+(
+)
+
+--- PAGE 49 ---
+Chapter 30     403 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.72  
+(a) 
+See ANS. FIG. P30.72(a). 
+ 
+(currents are into the paper) 
+ANS. FIG. P30.72(a) 
+ 
+at a distance z above the plane of the conductors 
+ANS. FIG. P30.72(b) 
+ 
+(b)  By symmetry, the contribution of each wire to the magnetic field 
+at the origin is the same, but the directions of the fields are 
+opposite, so the total field is zero . We can see this from 
+cancellation of the separate fields in ANS. FIG. P30.72(a).  
+ 
+(d) We choose to do part (d) first. At a point on the z axis, the 
+contribution from each wire has magnitude B =
+µ0I
+2π
+a2 + z2 and is 
+perpendicular to the line from this point to the wire as shown in 
+ANS. FIG. P30.72(b). Combining fields, the vertical components 
+cancel while the horizontal components add, yielding 
+ 
+ 
+ 
+By = 2
+µ0I
+2π
+a2 + z2 sinθ
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+µ0I
+π
+a2 + z2
+z
+a2 + z2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟=
+µ0Iz
+π a2 + z2
+(
+)
+ 
+ 
+ 
+  
+By =
+4π × 10−7
+(
+) 8.00
+(
+)z
+π (0.0300)2 + z2
+⎡⎣
+⎤⎦
+  so 
+ 
+ 
+ 
+
+B = 32 × 10−7 z
+9× 10−4 + z2 ˆj, where 
+
+B is in teslas and z is in meters. 
+ 
+(c) 
+From part (d), taking the limit z → ∞ gives 1/z → 0; so, the field is 
+zero , as we should expect. 
+ 
+(e) 
+The condition for a maximum is: 
+ 
+ 
+ 
+dBy
+dz
+= −µ0Iz 2z
+(
+)
+π a2 + z2
+(
+)
+2 +
+µ0I
+π a2 + z2
+(
+)
+= 0  or  µ0I
+π
+a2 −z2
+(
+)
+a2 + z2
+(
+)
+2 = 0
+
+--- PAGE 50 ---
+404     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, along the z axis, the field is a maximum at 
+d = a = 3.00 cm . 
+ 
+(f) 
+Using the equation derived in part (d), the value of the maximum 
+field is  
+ 
+ 
+ 
+
+B = 32 × 10−7
+(
+) 0.030 0
+(
+)
+9 × 10−4 +(0.030 0)2 ˆj T = 5.33 × 10−5 T = 53.3ˆj µT
+ 
+P30.73 
+(a) 
+From the shape of the wire, 
+ 
+ 
+ 
+r = f (θ) = eθ    →    dr
+dθ
+= eθ = r 
+ 
+ 
+and so we have  
+ 
+ 
+ 
+tan β =
+r
+dr / dθ
+= r
+r
+= 1 →β = 45° = π 4 
+ 
+ 
+ANS. FIG. P30.73 
+ 
+(b) At the origin, there is no contribution from the straight portion of 
+the wire since ds × ˆr = 0 . For the field contribution from the spiral, 
+refer to the figure. The direction of ds × ˆr is out of the page. The 
+magnitude ds × ˆr = sin 3π 4
+(
+) because the angle between ds and 
+ˆr is always 180° – 45° = 135° = 3π/4. 
+ 
+ 
+Also, from the figure,  
+ 
+ 
+ 
+dr = dssinπ 4 = ds
+2 →ds =
+2dr 
+ 
+ 
+The contribution to the magnetic field is then  
+ 
+ 
+ 
+dB = d
+
+B = µ0I
+4π
+(
+)
+ds × ˆr
+(
+)
+r2
+= µ0I
+4π
+(
+)
+ds sinθ ˆr
+r2
+= µ0I
+4π
+(
+)
+2dr
+r2
+sin 3π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 51 ---
+Chapter 30     405 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The total magnetic field is  
+ 
+ 
+ 
+B = µ0I
+4π
+2 dr
+r2
+1
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1
+r2
+θ=0
+2π
+∫
+= µ0I
+4π
+r−2dr
+θ=0
+2π
+∫
+= −µ0I
+4π
+r−1
+(
+)
+θ=0
+2π
+ 
+ 
+ 
+Substitute r = eθ : B = −µ0I
+4π
+e−θ
+⎡⎣
+⎤⎦0
+2π = −µ0I
+4π
+e−2π −e0
+⎡⎣
+⎤⎦= µ0I
+4π
+1−e−2π
+(
+) 
+out of the page. 
+P30.74 
+(a)  Consider the sphere as being built up of little spinning ring 
+elements of radius r, thickness dr, and height dx, centered on the 
+rotation axis. Each ring holds charge dQ:  
+ 
+ 
+ 
+dQ = ρdV = ρ 2π rdr
+(
+) dx
+(
+) 
+ 
+ANS. FIG. P30.74 
+ 
+ 
+Each ring, with angular speed ω, takes a period T = ω/2π to 
+complete one rotation. Thus, each ring carries current 
+ 
+ 
+ 
+dI = dQ
+T
+= ω
+2π
+ρ 2π rdr
+(
+) dx
+(
+)
+⎡⎣
+⎤⎦= ρωrdrdx 
+ 
+ 
+The contribution of each ring element to the magnetic field at a 
+point on the rotation axis a distance x from the center of the 
+sphere is given by Equation 30.7:  
+ 
+ 
+ 
+dB =
+µ0r2dI
+2 x2 + r2
+(
+)
+3 2 
+ 
+ 
+Combining the above terms, the field contribution is of a ring 
+element is 
+ 
+ 
+ 
+dB = µ0ρωr3drdx
+2 x2 + r2
+(
+)
+3 2
+
+--- PAGE 52 ---
+406     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The contributions of all rings gives  
+ 
+ 
+ 
+B =
+µ0ρω
+2
+r3drdx
+x2 + r2
+(
+)
+3 2
+r=0
+R2 −x2
+∫
+x=−R
++R
+∫
+ 
+ 
+ 
+To evaluate the integral, let v = r2 + x2, dv = 2rdr, and r2 = v – x2. 
+ 
+ 
+ 
+B =
+µ0ρω
+2
+v −x2
+(
+)dv
+2v3 2
+dx
+v=x2
+R2
+∫
+x=−R
++R
+∫
+= µ0ρω
+4
+v−1 2 dv −x2
+v−3 2 dv
+v=x2
+R2
+∫
+v=x2
+R2
+∫
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+x=−R
+R
+∫
+B = µ0ρω
+4
+2v1 2
+x2
+R2
++ 2x2
+(
+)v−1 2
+x2
+R2
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+x=−R
+R
+∫
+= µ0ρω
+4
+2 R −x
+(
+)+ 2x2
+1
+R −1
+x
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥dx
+x=−R
+R
+∫
+B = µ0ρω
+4
+2 x2
+R −4 x + 2R
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+−R
+R
+∫
+= 2µ0ρω
+4
+2 x2
+R −4x + 2R
+⎡
+⎣⎢
+⎤
+⎦⎥dx
+0
+R
+∫
+B = 2µ0ρω
+4
+2R3
+3R −4R2
+2
++ 2R2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+µ0ρωR2
+3
+ 
+ 
+(b) From part (a), the current associated with each rotating ring of 
+charge is 
+ 
+ 
+ 
+dI = ρωrdrdx  
+ 
+ 
+The magnetic moment contributed by this ring is 
+ 
+ 
+ 
+dµ = A dI
+(
+) = πr2
+(
+) ρωrdrdx
+(
+) = πωρr3drdx 
+ 
+ 
+The total magnetic moment is  
+ 
+ 
+ 
+µ = πωρ
+r3 dr
+r=0
+R2−x2
+∫
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+dx
+x=−R
++R
+∫
+= πωρ
+R2 −x2
+(
+)
+4
+4
+dx
+x=−R
++R
+∫
+= πωρ
+R2 −x2
+(
+)
+2
+4
+dx
+x=−R
++R
+∫
+
+--- PAGE 53 ---
+Chapter 30     407 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+µ = πωρ
+4
+R4 −2R2x2 + x4
+(
+)dx
+x=−R
++R
+∫
+= πωρ
+4
+R4 2R
+(
+)−2R2 2R3
+3
+⎛
+⎝⎜
+⎞
+⎠⎟+ 2R5
+5
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+ 
+µ = πωρ
+4 R5 2 −4
+3 + 2
+5
+⎛
+⎝⎜
+⎞
+⎠⎟= πωρR5
+4
+16
+15
+⎛
+⎝⎜
+⎞
+⎠⎟=
+4πωρR5
+15
+ 
+P30.75 
+Note that the current I exists in the conductor with a current density 
+J = I
+A
+, where 
+ 
+ 
+ 
+A = π a2 −a2
+4
+−a2
+4
+⎡
+⎣⎢
+⎤
+⎦⎥= π a2
+2
+ 
+ 
+Therefore J = 2I
+π a2 . 
+ 
+ANS. FIG. P30.75 
+ 
+To find the field at either point P1 or P2, find Bs which would exist if the 
+conductor were solid, using Ampère’s law. Next, find B1 and B2 that 
+would be due to the conductors of radius a
+2
+ that could occupy the void 
+where the holes exist. Then use the superposition principle and 
+subtract the field that would be due to the part of the conductor where 
+the holes exist from the field of the solid conductor. 
+ 
+(a) 
+At point P1,  
+ 
+ 
+ 
+Bs =
+µ0J π a2
+(
+)
+2π r
+, B1 = µ0Jπ a 2
+(
+)
+2
+2π r −a 2
+(
+)
+(
+)
+, and B2 = µ0Jπ a 2
+(
+)
+2
+2π r + a 2
+(
+)
+(
+)
+
+--- PAGE 54 ---
+408     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+B = Bs −B1 −B2
+= µ Jπ a2
+2π
+1
+r −
+1
+4 r −a 2
+(
+)
+(
+)
+−
+1
+4 r + a 2
+(
+)
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+B = µ0 2I
+(
+)
+2π
+4r2 −a2 −2r2
+4r r2 −a2 4
+(
+)
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+=
+µ0I
+π r
+2r2 −a2
+4r2 −a2
+⎡
+⎣⎢
+⎤
+⎦⎥ directed to the left
+ 
+ 
+(b) At point P2,  
+ 
+ 
+ 
+Bs =
+µ0J π a2
+(
+)
+2π r
+ and ′
+B1 =
+′
+B2 =
+µ0J π a 2
+(
+)
+2
+2π r2 + a 2
+(
+)
+2 
+ 
+ 
+The horizontal components of ′
+B1 and ′
+B2 cancel while their 
+vertical components add. 
+ 
+ 
+ 
+B = Bs −′
+B1 cosθ −′
+B2 cosθ
+= µ0J π a2
+(
+)
+2π r
+−2
+µ0Jπ a2 4
+2π
+r2 + a2 4
+(
+)
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+r
+r2 + a2 4
+(
+)
+B = µ0J π a2
+(
+)
+2π r
+1−
+r2
+2 r2 + a2 4
+(
+)
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= µ0 2I
+(
+)
+2π r
+1−
+2r2
+4r2 + a2
+⎡
+⎣⎢
+⎤
+⎦⎥
+=
+µ0I
+π r
+2r2 + a2
+4r2 + a2
+⎡
+⎣⎢
+⎤
+⎦⎥ directed toward the top of the page
+ 
+P30.76 
+By symmetry of the arrangement, the magnitude of the net magnetic 
+field at point P is BP = 8B0x where B0 is the contribution to the field due 
+to current in an edge length equal to L
+2
+. In order to calculate B0, we use 
+the Biot-Savart law and consider the plane of the square to be the yz 
+plane with point P on the x-axis. The contribution to the magnetic field 
+at point P due to a current element of length dz and located a distance z 
+along the axis is given by the integral form of the Biot-Savart law as 
+ 
+ 
+ 
+
+B0 = µ0I
+4π
+d
+
+× ˆr
+r2
+∫
+
+--- PAGE 55 ---
+Chapter 30     409 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P30.76 
+ 
+From ANS. FIG. P30.76 we see that  
+ 
+ 
+ 
+r =
+x2 + L2 4+ z2 and d
+
+× ˆr = dzsinθ = dz
+L2 4+ x2
+L2 4+ x2 + z2 
+ 
+By symmetry all components of the field 
+
+B at P cancel except the 
+components along x (perpendicular to the plane of the square); and 
+ 
+ 
+ 
+B0x = B0 cosφ  where  cosφ =
+L 2
+L2 4+ x2 
+ 
+Therefore,  
+ 
+ 
+ 
+
+B0 = B0x = µ0I
+4π
+sinθ cosφdz
+r2
+0
+L 2
+∫
+ 
+ 
+and at P, BP = 8B0x.  
+ 
+Using the expressions given above for sinθ, cosφ, and r, we find 
+ 
+ 
+ 
+BP = 8 µ0I
+4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+L2 4 + x2 + z2
+0
+L 2
+∫
+L2 4 + x2
+L2 4 + x2 + z2
+L 2
+L2 4 + x2 dz
+= µ0IL
+π
+dz
+L2 4 + x2 + z2
+(
+)
+32
+0
+L 2
+∫
+= µ0IL
+8π
+1
+L2 4 + x2
+(
+)
+z
+L2 4 + x2 + z2
+0
+L 2
+= µ0IL
+π
+1
+L2 4 + x2
+(
+)
+L 2
+L2 4 + x2 + L2 4
+−0
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+BP =
+µ0IL2
+2π x2 + L2 4
+(
+)
+x2 + L2 2
+
+--- PAGE 56 ---
+410     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.77 
+(a) 
+From Equation 30.9, the magnetic field produced by one loop at 
+the center of the second loop is given by  
+ 
+ 
+ 
+B = µ0IR2
+2x3
+=
+µ0I π R2
+(
+)
+2π x3
+= µ0µ
+2π x3  
+ 
+ 
+where the magnetic moment of either loop is µ = I π R2
+(
+) . 
+Therefore,  
+ 
+ 
+ 
+Fx = µ dB
+dx = µ d
+dx
+µ0µ
+2π x3
+⎛
+⎝⎜
+⎞
+⎠⎟= µ µ0µ
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+x4
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3µ0 Iπ R2
+(
+)
+2
+2π x4
+=
+3π
+2
+µ0I 2R4
+x4
+ 
+ 
+(b) 
+Fx = 3π
+2
+µ0I 2R4
+x4
+= 3π
+2
+4π × 10−7 T ⋅m A
+(
+) 10.0 A
+(
+)
+2 5.00× 10−3 m
+(
+)
+4
+5.00× 10−2 m
+(
+)
+4
+= 5.92 × 10−8 N
+
+--- PAGE 57 ---
+Chapter 30     411 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P30.2 
+(a) toward the left; (b) out of the page; (c) lower left to upper right 
+P30.4 
+675 A, downward 
+P30.6 
+12.5 T 
+P30.8 
+
+B = 1+ 1
+π
+⎛
+⎝⎜
+⎞
+⎠⎟µ0I
+2R
+ directed into the page
+(
+) 
+P30.10 
+µ0I
+4π x
+ into the paper 
+P30.12 
+See ANS. FIG. P30.12 
+P30.14 
+(a) at y = –0.420 m; (b) 3.47 × 10−2 N −ˆj
+( ) ; (c) −1.73× 104ˆj N C 
+P30.16 
+(a) See ANS. FIG. P30.16; (b) 3.84 × 10–21 N up; (c) 2.14 × 10–5 m; (d) This 
+distance is negligible compared to 50 m, so the electron does move in a 
+uniform field; (e) 134 revolutions 
+P30.18 
+(a) 4.50µ0I
+π L
+; (b) stronger 
+P30.20 
+(a) 4.00 µT toward the bottom of the page; (b) 6.67 µT at 167.0° from the 
+positive x axis 
+P30.22 
+(a) 8.00 A; (b) opposite directions; (c) force of interaction would be 
+attractive and the magnitude of the force would double 
+P30.24 
+(a) The situation is possible in just one way; (b) 12.0 cm to the left of 
+wire 1; (c) 2.40 A down 
+P30.26 
+µ0I1I2
+2π
+a
+c c + a
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ to the left 
+P30.28 
+This is the required center-to-center separation distance of the wires, 
+but the wires cannot be this close together. Their minimum possible 
+center-to-center separation distance occurs if the wires are touching, 
+but this value is 2r = 2(25.0 μm) = 50.0 μm, which is much larger than 
+the required value above.  We could try to obtain this force between 
+wires of smaller diameter, but these wires would have higher 
+resistance and less surface area for radiating energy.  It is likely that 
+the wires would melt very shortly after the current begins. 
+P30.30 
+500 A 
+P30.32 
+(a) 3.60 T; (b) 1.94 T
+
+--- PAGE 58 ---
+412     Sources of the Magnetic Field 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.34 
+µ0Js
+2
+ 
+P30.36 
+(a) 6.34 × 10–3 N/m; (b) inward toward the center of the bundle;  
+(c) greatest at the outer surface 
+P30.38 
+(a) µ0br1
+2
+3
+ for r1 < R or inside the cylinder
+(
+) ; 
+(b) µ0bR3
+3r2
+ for r2 > R or outside the cylinder
+(
+) 
+P30.40 
+4.77 × 104 turns 
+P30.42 
+(a) Make the wire as long and thin as possible without melting when it 
+carries the 5-A current; (b) As small in radius as possible with your 
+experiment fitting inside. Then with a smaller circumference, the wire 
+can form a solenoid with more turns. 
+P30.44 
+207 W 
+P30.46 
+(a) –Bπ R2 cosθ ; (b) Bπ R2 cosθ 
+P30.48 
+(a) 7.40 µWb; (b) 2.27 µWb 
+P30.50 
+2.02 
+P30.52 
+0.167 µT out of the page 
+P30.54 
+This current would instantly vaporize any wire of reasonable size.  For 
+example, if we imagine a 1.00-m segment of copper wire 10 cm in 
+diameter, a huge wire, this current delivers over a terawatt of power to 
+this short segment! Furthermore, the power delivered to such a wire 
+wrapped around the Earth is on the order of 1020 W, which is larger 
+than all of the solar power delivered to the Earth by the Sun. 
+P30.56 
+µ0qω
+2.5 5πR
+ 
+P30.58 
+(a) 12.6 µT; (b) 56.0 µT 
+P30.60 
+(a) B = Bx1 + Bx2 = Nµ0IR2
+2
+1
+x2 + R2
+(
+)
+3 2 +
+1
+R −x
+(
+)
+2 + R2
+⎡⎣
+⎤⎦
+3 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+; (b) See 
+P30.60(b)  for full explanation. 
+P30.62 
+(a) 2.46 N upward; (b) Equation 30.7 is the expression for the magnetic 
+field produced a distance x above the center of a loop. The magnetic 
+field at the center of the loop or on its axis is much weaker than the 
+magnetic field just outside the wire. The wire has negligible curvature 
+on the scale of 1 mm, so we model the lower loop as a long straight 
+wire to find the field it creates at the location of the upper wire; (c) 107 
+m/s2 upward
+
+--- PAGE 59 ---
+Chapter 30     413 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P30.64 
+(a) 5.24 µT; (b) into the page; (c) 7.20 cm 
+P30.66 
+(a) 2.74 × 10–4 T; (b) 2.74× 10−4 T −ˆj
+( ); (c) Under the assumption that the 
+rails are infinitely long, the length of rail to the left of the bar does not 
+depend on the location of the bar; (d) 1.15 × 10–3 N; (e) +x direction;  
+(f) Yes, length of the bar, current, and field are constant, so force is 
+constant; (g) 0.999 m s
+(
+)ˆi 
+P30.68 
+µ0I1I2L
+π R
+ to the right  
+P30.70 
+See P30.70 for full explanation. 
+P30.72 
+(a) See ANS FIG P30.72(a); (b) zero; (c) zero; (d) 
+
+B = 32 × 10−7 z
+9× 10−4 + z2 ˆj, 
+where 
+
+B is in teslas and z is in meters; (e) d = a = 3.00 cm; (f) 53.3ˆj µT 
+P30.74 
+(a) µ0ρωR2
+3
+; (b) 4πωρR5
+15
+ 
+P30.76 
+See P30.76 for full explanation.

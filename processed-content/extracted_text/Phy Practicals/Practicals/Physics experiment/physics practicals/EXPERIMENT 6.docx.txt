@@ -1,0 +1,30 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSSEL						SM/SMS/10/0026
+MED 111				GROUP 7
+EXPERIMENT NUMBER 6				16TH SEPTEMBER, 2010.
+EXPERIMENT WITH THE BIIFILAR SUSPENSION.
+AIM: TO FIND THE RELATION BETWEEN TIME FOR SMALL ROTATIONAL OSCILLATIONS AND DISTANCE BETWEEN THE THREADS.
+APPARATUS: Two equal strands of cotton threads, meter rule, stopwatch, clamps, retort stands.
+DIAGRAM: 
+METHOD: The loops of cotton thread were tied around the meter rule near each end. The rule was suspended from each end of the two clamps. The lengths of the suspending threads were adjusted to equality and the experiment was started with each loop 1 cm from the end of the meter rule. The rule was set swinging through a small angle about the vertical axis. With a stop watch, two determinations were taken for the time for 20 complete oscillations. The horizontal distance (d) between the loops was measured. The loops were each moved a further 2cm from the end at a times and the results were tabulated as follows. A graph plotted with the values of log t as ordinates and values of log d as abscissa.
+TABLE OF RESULTS.
+DISCUSSION: According to the results gained, the time for the oscillations increased with a decrease in the length of the distance between the cotton thread loops on the meter rule which resulted in the graph depicted below.
+A GRAPH OF THE EXPERIMENT WITH LOG D AS ABSCISSA AND LOG T AS ORDINATE.
+THEORY: When the meter rule swings through a small angle ϴ and the tension in each thread is F, then the vertical and horizontal components of F are F cos ϴ and F sin ϴ. Hence if the mass m, of the meter rule, 2F cos ϴ = mg. For small angle 2F=mg.
+The restoring couple=F sin ϴ×d.
+The motion is simple harmonic motion and its period can be calculated with T=2π.
+Where T is the period, l is the length of the thread; m is the mass of the meter rule, d is the distance of the meter rule.
+PRECAUTIONS:
+The upper loops on the support were adjusted so that the threads were vertical.
+The meter rule was displaced through a small angle so that its effect on the period was infinitesimally small.
+Tried to avoid parallax readings.
+SOURCES OF ERROR:
+Parallax reading.
+Time difference in the starting and stopping the stopwatch and the start and end of oscillations.
+CONCLUSION: It can be noted from the graph that there is a direct relation between the time and the length between the loops which gives the straight line graph as seen above and this shows that the period of simple harmonic motion depends on length of the meter rule.
+d/cm | t1/cm | t22/cm | /cm | log d | log t | T=
+98 | 16.95 | 16.94 | 16.95 | 1.99 | 1.23 | 0.85
+94 | 17.50 | 17.44 | 17.47 | 1.97 | 1.24 | 0.87
+90 | 17.60 | 17.60 | 17.60 | 1.95 | 1.25 | 0.88
+86 | 18.00 | 18.10 | 18.05 | 1.93 | 1.26 | 0.90
+82 | 18.49 | 18.40 | 18.45 | 1.91 | 1.27 | 0.92

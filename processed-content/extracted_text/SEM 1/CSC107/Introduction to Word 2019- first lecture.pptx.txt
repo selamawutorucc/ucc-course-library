@@ -1,0 +1,477 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+Objectives Overview
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+What Is Word Processing?
+ Word processing  allows you to create and edit personal and business documents, such as letters, reports, invoices, emails and books.
+
+By default, documents saved in word  are saved with the .docx extension.
+
+--- SLIDE 5 ---
+What Is Word Processing?
+ Microsoft Word can be used for the following purposes −
+To create business documents having various graphics including pictures, charts, and diagrams.
+
+To store and reuse readymade content and formatted elements such as cover pages and sidebars.
+
+To create letters and letterheads for personal and business purpose.
+
+
+--- SLIDE 6 ---
+What Is Word Processing?
+ Microsoft Word can be used for the following purposes −
+
+To design different documents such as resumes or invitation cards etc.
+
+To create a range of correspondence from a simple office memo to legal copies and reference documents.
+
+
+--- SLIDE 7 ---
+Getting Started Word 2019
+    Office 2019 is engineered for Windows 10. 
+    
+   You can start Word 2019 from the Start menu app list or tile area, the Start screen, or the taskbar search box. 
+
+   You might also have a shortcut to Word on your desktop or on the Windows taskbar.
+
+--- SLIDE 8 ---
+Getting Started Word 2019
+ Step 1 − Click the Start button and then select Microsoft Word  from the options panel.
+
+
+--- SLIDE 9 ---
+Getting Started Word 2019
+ Step 2 − Click on Blank document option from the menu.
+
+--- SLIDE 10 ---
+Getting Started Word 2019
+  This will launch the Microsoft Word 2019 application and you will see the following window.
+
+--- SLIDE 11 ---
+Explore Window in Word 2019
+
+--- SLIDE 12 ---
+File Tab
+ The File tab replaces the Office button from Word 2007.
+
+
+
+
+   
+
+
+  The File tab leads to the Backstage view
+   The Backstage view enables you to open new word file or existing word document or save files, print a document, and do other file-related operations.
+
+--- SLIDE 13 ---
+Quick Access Toolbar
+   This you will find just above the File tab.
+
+   This is a convenient resting place for the most frequently used commands in Word.
+
+   By default, it shows the Save, Undo, and Redo commands
+
+   You can customize this toolbar based on your comfort.
+
+--- SLIDE 14 ---
+How to add new commands to the Quick Access Toolbar
+Click the drop-down arrow to the right of the Quick Access Toolbar.
+
+--- SLIDE 15 ---
+How to add new commands to the Quick Access Toolbar
+Select the command (Quick print) you want to add from the menu.
+
+--- SLIDE 16 ---
+How to add new commands to the Quick Access Toolbar
+The command will be added to the Quick Access Toolbar.
+
+--- SLIDE 17 ---
+Ribbon
+
+--- SLIDE 18 ---
+Ribbon
+   Ribbon contains commands organized in three(3) components −
+Tabs − These appear across the top of the Ribbon and contain groups of related commands. Home, Insert, Design Layout are examples of ribbon tabs.
+
+
+
+
+--- SLIDE 19 ---
+Ribbon
+   Ribbon contains commands organized in three(3) components −
+Groups − Each tab contains several groups of related commands. For example, the Font group on the Home tab contains commands for formatting text in your document.
+
+
+
+
+--- SLIDE 20 ---
+Ribbon
+   Ribbon contains commands organized in three(3) components 
+Commands − Commands appear within each group as mentioned above. Example bold, italics, cut, paste and many more.
+Some groups also have a small arrow in the bottom-right corner called the dialog box launcher that you can click for even more options.
+
+
+--- SLIDE 21 ---
+Showing and hiding the Ribbon
+   If you find that the Ribbon takes up too much screen space, you can hide it. 
+   To do this, click the Ribbon Display Options arrow in the upper-right corner of the Ribbon, then select the desired option from the drop-down menu:
+
+
+--- SLIDE 22 ---
+Showing and hiding the Ribbon
+Auto-hide Ribbon: Auto-hide displays your document in full-screen mode and completely hides the Ribbon from view.  To show the Ribbon, click the Expand Ribbon command at the top of screen.
+
+Show Tabs: This option hides all command groups when they're not in use, but tabs will remain visible. To show the Ribbon, simply click a tab.
+
+Show Tabs and Commands: This option maximizes the Ribbon. All of the tabs and commands will be visible. This option is selected by default when you open Word for the first time.
+
+
+
+--- SLIDE 23 ---
+Title bar
+    Located at the top of the app window, the title bar displays the name of the active document and provides tools for managing the app window, ribbon, and content.
+
+   By default the title bar is always named as document 1
+
+  Title bar shows the program and document titles.
+
+--- SLIDE 24 ---
+The area outlined in red contains the minimize, maximize/restore and close buttons for the program window.
+
+
+
+
+
+
+--- SLIDE 25 ---
+These three buttons are on almost every window that opens in a Windows based platform.
+They are on Mac windows as well, but they are circles instead of squares.
+
+
+
+
+
+--- SLIDE 26 ---
+When you click the minimize button the program becomes a button on the Windows taskbar located at the bottom of the screen.
+
+
+
+
+
+
+
+--- SLIDE 27 ---
+You can restore the document to its original shape and size by either:
+Clicking on the button on the task bar one time to restore it to active mode,
+
+
+
+
+
+
+
+--- SLIDE 28 ---
+If you have multiple files from the same program open you will need to select the one you want to restore to active mode. The shortcut for this is ALT + Tab
+
+
+
+
+
+
+
+--- SLIDE 29 ---
+When you click the maximize / restore button the program assumes the same shape and size it was before you minimized it.
+Or
+The program window will fill the screen.
+
+
+
+
+--- SLIDE 30 ---
+When you click the close button the program will ask you if you want to save the changes, if you have made any changes. Once you have responded to this question the program will close.
+
+
+
+
+
+
+--- SLIDE 31 ---
+Rulers
+  
+   Word has two rulers - a horizontal ruler and a vertical ruler. 
+
+   The horizontal ruler appears just beneath the Ribbon and is used to set margins and tab stops.
+
+	The vertical ruler appears on the left edge of the Word window and is used to gauge the vertical position of elements on the page.
+
+  
+
+--- SLIDE 32 ---
+To show or hide the Ruler
+
+--- SLIDE 33 ---
+Using the Tell me feature
+  If you're having trouble finding a command you want, the Tell Me feature can help. It works just like a regular search bar. Type what you're looking for, and a list of options will appear. You can then use the command directly from the menu without having to find it on the Ribbon.
+
+--- SLIDE 34 ---
+Zoom Control
+   The zoom control consists of a slider that you can slide left or right to zoom in or out; you can click the + buttons to increase or – button to decrease the zoom factor.
+	To zoom in or out, click and drag the zoom control slider in the bottom-right corner of the Word window.
+   The number next to the slider displays the current zoom percentage, also called the zoom level.
+
+
+--- SLIDE 35 ---
+Document views 
+   You can choose to view your document in Read Mode, Print Layout, or Web Layout. 
+
+    Switching between different document views is easy. 
+
+    Just locate and select the desired document view command in the bottom-right corner of the Word window.
+
+
+--- SLIDE 36 ---
+Switching document views
+Read Mode: This view opens the document to a full screen. This view is great for reading large amounts of text or simply reviewing your work.
+
+
+--- SLIDE 37 ---
+Switching document views
+Print Layout: This is the default document view in Word. It shows what the document will look like on the printed page.
+
+
+--- SLIDE 38 ---
+Switching document views
+Web Layout: This view displays the document as a webpage, which can be helpful if you're using Word to publish content online.
+
+
+--- SLIDE 39 ---
+Document Area
+  This is the area where you type. 
+   The flashing vertical bar is called the insertion point and it represents the location where text will appear when you type.
+    When a new blank document opens, the insertion point will appear in the top-left corner of the page. 
+
+--- SLIDE 40 ---
+Status Bar
+   This displays the document information as well as the insertion point location. 
+
+   From left to right, this bar contains the total number of pages and words in the document, language, etc.
+
+   You can configure the status bar by right-clicking anywhere on it and by selecting or deselecting options from the provided list.
+
+--- SLIDE 41 ---
+Configuring the Status Bar
+
+--- SLIDE 42 ---
+Backstage View in Word 2019
+   This acts as the central place for managing your documents. 
+
+   The backstage view helps in creating new documents, saving and opening documents, printing and sharing documents, and so on.
+
+   Getting to the Backstage View is easy: Just click the File tab, located in the upper-left corner of the Word Ribbon.  
+
+--- SLIDE 43 ---
+Backstage View in Word 2019
+
+--- SLIDE 44 ---
+Entering Text - Microsoft Word 2019
+   Document area is the area where you type your text. 
+
+   The flashing vertical bar is called the insertion point and it represents the location where the text will appear when you type.
+
+    keep the cursor at the text insertion point and start typing the text. We typed only two words "Hello Word" as shown below.
+
+--- SLIDE 45 ---
+Entering Text - Microsoft Word 2019
+45
+
+--- SLIDE 46 ---
+Move Around in Word 2019
+   To begin with, let us create some sample text. 
+
+   To create a sample text, there is a short cut available. 
+
+   Open a new document and type =rand() and press Enter. Word will create the following content for you.
+
+--- SLIDE 47 ---
+Move Around in Word 2019
+
+--- SLIDE 48 ---
+Moving with Mouse
+   You can easily move the insertion point by clicking in your text anywhere on the screen. 
+
+   There may be instances when a document is voluminous and you cannot see a place where you want to move.
+
+   Here, you will have to right click on the scroll bar to help you move top, bottom of the page, as shown in the following screenshot −
+
+--- SLIDE 49 ---
+Move Around in Word 2019
+
+--- SLIDE 50 ---
+Save and Save As
+   Word offers two ways to save a file: Save and Save As. These options work in similar ways, with a few important differences.
+
+    Save: When you create or edit a document, you'll use the Save command to save your changes. You'll use this command most of the time. When you save a file, you'll only need to choose a file name and location the first time. After that, you can click the Save command to save it with the same name and location.
+    Save As: You'll use this command to create a copy of a document while keeping the original. When you use Save As, you'll need to choose a different name and/or location for the copied version.
+
+--- SLIDE 51 ---
+Save Document in Word 2019
+    It's important to save your document whenever you start a new project or make changes to an existing one. 
+
+    Saving early and often can prevent your work from being lost. 
+
+   You'll also need to pay close attention to where you save the document so it will be easy to find later.
+
+--- SLIDE 52 ---
+Save Document in Word 2019
+
+--- SLIDE 53 ---
+Save Document in Word 2019
+
+--- SLIDE 54 ---
+Save Document in Word 2019
+
+--- SLIDE 55 ---
+Using Save As to make a copy
+   You can also access the Save command by pressing Ctrl+S on your keyboard.
+
+    If you want to save a different version of a document while keeping the original, you can create a copy. 
+
+    For example, if you have a file named Sales Report, you could save it as Sales Report 2 so you'll be able to edit the new file and still refer back to the original version.
+
+ 
+
+--- SLIDE 56 ---
+Using Save As to make a copy
+
+--- SLIDE 57 ---
+AutoRecover in Word 2019
+   Word automatically saves your documents to a temporary folder while you are working on them. 
+
+    If you forget to save your changes or if Word crashes, you can restore the file using AutoRecover.
+
+    By default, Word autosaves every 10 minutes. If you are editing a document for less than 10 minutes, Word may not create an autosaved version.
+
+--- SLIDE 58 ---
+To use AutoRecover
+
+--- SLIDE 59 ---
+To use AutoRecover
+If you don't see the file you need, you can browse all autosaved files from Backstage view. 
+Select the File tab, click on the info tab,  click on Manage document, then choose Recover Unsaved Documents.
+
+--- SLIDE 60 ---
+Exporting documents  in Word 2019
+   By default, Word documents are saved in the .docx file type. 
+
+
+   However, there may be times when you need to use another file type, such as a PDF or Word 97-2003 document. 
+
+  It's easy to export your document from Word to a variety of file types.
+
+--- SLIDE 61 ---
+Exporting documents as a PDF file  in Word 2019
+    Exporting your document as an Adobe Acrobat document, commonly known as a PDF file, can be especially useful if you're sharing a document with someone who does not have Word.
+
+   A PDF file will make it possible for recipients to view—but not edit—the content of your document.
+
+--- SLIDE 62 ---
+Exporting documents as a PDF file  in Word 2019
+
+--- SLIDE 63 ---
+Exporting documents to other file types in Word 2019
+    You may also find it helpful to export your document to other file types, like a Word 97-2003 Document if you need to share with people using an older version of Word or a .txt file if you need a plain-text version of your document.
+
+--- SLIDE 64 ---
+Exporting documents to other file types in Word 2019
+
+--- SLIDE 65 ---
+Exporting documents to other file types in Word 2019
+    You can also use the Save as type drop-down menu in the Save As dialog box to save documents to a variety of file types.
+
+--- SLIDE 66 ---
+Opening a Document in Word 2019
+   A new, blank document always opens when you start Microsoft Word. 
+
+   Suppose you want to start another new document while you are working on another document, or you closed an already opened document and want to start a new document.
+
+--- SLIDE 67 ---
+Opening a Document in Word 2019
+   Step 1 − Click the File tab and select the New option.
+
+	
+
+--- SLIDE 68 ---
+Opening a Document in Word 2019
+   Step 2 − When you select the New option from the first column, it will display a list of templates in the second column. 
+
+  Double-click on the Blank document; this is the first option in the template list.
+	
+
+--- SLIDE 69 ---
+Opening a Document in Word 2019
+
+--- SLIDE 70 ---
+Opening a Document in Word 2019
+   You can use a shortcut to open a blank document anytime. 
+
+   Try using the Ctrl + N keys and you will see a new blank document similar to the one in the above screenshot.
+
+--- SLIDE 71 ---
+Opening Existing Document
+   There may be a situation when you open an existing document and edit it partially or completely. Follow the steps given below to open an existing document 
+
+Step 1 − Click the File tab and select the Open option.
+
+--- SLIDE 72 ---
+Opening Existing Document
+
+--- SLIDE 73 ---
+Opening Existing Document
+   Step 2 − This will display the following file Open dialog box. 
+
+   This lets you navigate through different folders and files, and also lets you select a file which you want to open.
+
+--- SLIDE 74 ---
+Opening Existing Document
+Step 3 − Finally, locate and select a file which you want to open and click the small triangle available on the Open button to open the file. 
+
+
+
+
+
+
+
+  You will have different options to open the file, but simply use the Open option.
+
+--- SLIDE 75 ---
+Closing a Document in Word 2019
+Step 1 − Click the File tab and select the Close option.
+
+--- SLIDE 76 ---
+Closing a Document in Word 2019
+Step 2 − When you select the Close option and if the document is not saved before closing, it will display the following Warning box asking whether the document should be saved or not.
+
+
+
+--- SLIDE 77 ---
+Closing a Document in Word 2019
+Step 3 − 
+To save the changes, click Save, 
+
+Otherwise click Don't Save. 
+
+To go back to the document, click Cancel. This will close the document and if you have other documents open, Word displays the last document you used, otherwise, you see a blank Word window as shown below −
+
+--- SLIDE 78 ---
+Closing a Document in Word 2019
+
+--- SLIDE 79 ---
+
+--- SLIDE 80 ---
+THANK YOU

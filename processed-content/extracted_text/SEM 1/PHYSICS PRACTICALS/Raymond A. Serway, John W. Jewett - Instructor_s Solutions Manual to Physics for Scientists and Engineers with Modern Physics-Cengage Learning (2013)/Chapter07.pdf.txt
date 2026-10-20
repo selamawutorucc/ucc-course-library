@@ -1,0 +1,3990 @@
+
+--- PAGE 1 ---
+333 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+7 
+Energy of a System 
+ 
+CHAPTER OUTLINE 
+ 
+7.1 
+Systems and Environments 
+7.2 
+Work Done by a Constant Force 
+7.3  
+The Scalar Product of Two Vectors 
+7.4 
+Work Done by a Varying Force 
+7.5 
+Kinetic Energy and the Work-Kinetic Energy Theorem 
+7.6 
+Potential Energy of a System 
+7.7 
+Conservative and Nonconservative Forces 
+7.8 
+Relationship Between Conservative Forces and Potential Energy 
+7.9 
+Energy Diagrams and Equilibrium of a System 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ7.1 
+Answer (c). Assuming that the cabinet has negligible speed during the 
+operation, all of the work Alex does is used in increasing the 
+gravitational potential energy of the cabinet-Earth system. However, in 
+addition to increasing the gravitational potential energy of the cabinet-
+Earth system by the same amount as Alex did, John must do work 
+overcoming the friction between the cabinet and ramp. This means 
+that the total work done by John is greater than that done by Alex. 
+OQ7.2 
+Answer (d). The work–energy theorem states that Wnet = ΔK = K f −Ki. 
+Thus, if Wnet = 0, then K f −Ki or 1
+2 mv f
+2 −1
+2 mvi
+2, which leads to the 
+conclusion that the speed is unchanged (vf = vi). The velocity of the 
+particle involves both magnitude (speed) and direction. The work–
+energy theorem shows that the magnitude or speed is unchanged
+
+--- PAGE 2 ---
+334     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+when Wnet = 0, but makes no statement about the direction of the 
+velocity. 
+OQ7.3 
+Answer (a). The work done on the wheelbarrow by the worker is 
+ 
+ 
+ 
+W = (Fcos θ)Δx = (50 N)(5.0 m) = +250 J 
+OQ7.4 
+Answer (c). The system consisting of the cart’s fixed, initial kinetic 
+energy is the mechanical energy that can be transformed due to friction 
+from the surface. Therefore, the loss of mechanical energy is  
+ΔEmech = −fkd = −6 N
+(
+) 0.06 m
+(
+) = 0.36 J. This product must remain the 
+same in all cases. For the cart rolling through gravel, −(9 N)(d) = 0.36 J 
+tells us d = 4 cm. 
+OQ7.5 
+The answer is a > b = e > d > c. Each dot product has magnitude 
+(1)·(1)·cos θ, where θ is the angle between the two factors. Thus for (a) 
+we have cos 0 = 1. For (b) and (e), cos 45º = 0.707. For (c), cos 180º = −1. 
+For (d), cos 90º = 0. 
+OQ7.6 
+Answer (c). The net work needed to accelerate the object from v = 0 to 
+v is 
+ 
+ 
+ 
+W1 = KE1 f −KE1i = 1
+2 mv2 −1
+2 m(0)2 = 1
+2 mv2 
+ 
+The work required to accelerate the object from speed v to speed 2v is 
+ 
+ 
+ 
+W2 = KE2 f −KE2i = 1
+2 m(2v)2 −1
+2 mv2
+= 1
+2 m 4v2 −v2
+(
+) = 3 1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟= 3W1
+ 
+OQ7.7 
+Answer (e). As the block falls freely, only the conservative 
+gravitational force acts on it. Therefore, mechanical energy is 
+conserved, or KEf + PEf = KEi + PEi. Assuming that the block is released 
+from rest (KEi = 0), and taking y = 0 at ground level (PEf = 0), we have 
+that 
+ 
+ 
+KEf = PEi   or   1
+2 mv f
+2 = mgy    and     yi =
+v f
+2
+2g
+ 
+ 
+Thus, to double the final speed, it is necessary to increase the initial 
+height by a factor of four. 
+OQ7.8 
+(i) Answer (b). Tension is perpendicular to the motion. (ii) Answer (c). 
+Air resistance is opposite to the motion. 
+OQ7.9 
+Answer (e). Kinetic energy is proportional to mass.
+
+--- PAGE 3 ---
+Chapter 7     335 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ7.10 
+(i) Answers (c) and (e). The force of block on spring is equal in 
+magnitude and opposite to the force of spring on block. 
+ 
+(ii) Answers (c) and (e). The spring tension exerts equal-magnitude 
+forces toward the center of the spring on objects at both ends. 
+OQ7.11 
+Answer (a). Kinetic energy is proportional to squared speed. Doubling 
+the speed makes an object’s kinetic energy four times larger. 
+OQ7.12 
+Answer (b). Since the rollers on the ramp used by David were 
+frictionless, he did not do any work overcoming nonconservative 
+forces as he slid the block up the ramp. Neglecting any change in 
+kinetic energy of the block (either because the speed was constant or 
+was essentially zero during the lifting process), the work done by 
+either Mark or David equals the increase in the gravitational potential 
+energy of the block-Earth system as the block is lifted from the ground 
+to the truck bed. Because they lift identical blocks through the same 
+vertical distance, they do equal amounts of work. 
+OQ7.13 
+(i) Answer: a = b = c = d. The gravitational acceleration is quite 
+precisely constant at locations separated by much less than the radius 
+of the planet. 
+ 
+(ii) Answer: c = d > a = b. The mass but not the elevation affects the 
+gravitational force. 
+ 
+(iii) Answer: c > b = d > a. Gravitational potential energy of the object-
+Earth system is proportional to mass times height. 
+OQ7.14 
+Answer (d). 4.00 J = 1
+2 k(0.100 m)2. Therefore, k = 800 N/m and to 
+stretch the spring to 0.200 m requires extra work 
+ 
+ 
+ 
+ΔW = 1
+2 (800)(0.200)2 −4.00 J = 12.0 J 
+OQ7.15 
+Answer (a). The system consisting of the cart’s fixed, initial kinetic 
+energy is the mechanical energy that can be transformed due to friction 
+from the surface. Therefore, the loss of mechanical energy is  
+ΔEmech = −fkd = −6 N
+(
+) 0.06 m
+(
+) = 0.36 J. This product must remain the 
+same in all cases. For the cart rolling through gravel,  
+−(fk)(0.18 m) = 0.36 J tells us fk = 2 N. 
+OQ7.16 
+Answer (c). The ice cube is in neutral equilibrium. Its zero acceleration 
+is evidence for equilibrium.
+
+--- PAGE 4 ---
+336     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ7.1 
+Yes. The floor of a rising elevator does work on a passenger. A normal 
+force exerted by a stationary solid surface does no work. 
+CQ7.2 
+Yes. Object 1 exerts some forward force on object 2 as they move 
+through the same displacement. By Newton’s third law, object 2 exerts 
+an equal-size force in the opposite direction on object 1. In  
+W = FΔrcosθ, the factors F and Δr are the same, and θ differs by 180º, 
+so object 2 does −15.0 J of work on object 1. The energy transfer is  
+15 J from object 1 to object 2, which can be counted as a change in 
+energy of −15 J for object 1 and a change in energy of +15 J for object 2. 
+CQ7.3 
+It is sometimes true. If the object is a particle initially at rest, the net 
+work done on the object is equal to its final kinetic energy. If the object 
+is not a particle, the work could go into (or come out of) some other 
+form of energy. If the object is initially moving, its initial kinetic energy 
+must be added to the total work to find the final kinetic energy. 
+CQ7.4 
+The scalar product of two vectors is positive if the angle between them 
+is between 0° and 90°, including 0°. The scalar product is negative 
+when 90° < θ  ≤ 180°. 
+CQ7.5 
+No. Kinetic energy is always positive. Mass and squared speed are 
+both positive. 
+CQ7.6 
+Work is only done in accelerating the ball from rest. The work is done 
+over the effective length of the pitcher’s arm—the distance his hand 
+moves through windup and until release. He extends this distance by 
+taking a step forward. 
+CQ7.7 
+(a) 
+Positive work is done by the chicken on the dirt. 
+ 
+(b) The person does no work on anything in the environment. 
+Perhaps some extra chemical energy goes through being energy 
+transmitted electrically and is converted into internal energy in his 
+brain; but it would be very hard to quantify “extra.” 
+ 
+(c) 
+Positive work is done on the bucket. 
+ 
+(d) Negative work is done on the bucket. 
+ 
+(e) 
+Negative work is done on the person’s torso. 
+CQ7.8 
+(a) 
+Not necessarily. It does if it makes the object’s speed change, but 
+not if it only makes the direction of the velocity change. 
+ 
+(b) Yes, according to Newton’s second law. 
+CQ7.9 
+The gravitational energy of the key-Earth system is lowest when the 
+key is on the floor letter-side-down. The average height of particles in
+
+--- PAGE 5 ---
+Chapter 7     337 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the key is lowest in that configuration. As described by F = −dU/dx, a 
+force pushes the key downhill in potential energy toward the bottom 
+of a graph of potential energy versus orientation angle. Friction 
+removes mechanical energy from the key-Earth system, tending to 
+leave the key in its minimum-potential energy configuration. 
+CQ7.10 
+There is no violation. Choose the book as the system. You did positive 
+work (average force and displacement are in same direction) and the 
+Earth did negative work (average force and displacement are in 
+opposite directions) on the book. The average force you exerted just 
+counterbalanced the weight of the book. The total work on the book is 
+zero, and is equal to its overall change in kinetic energy. 
+CQ7.11 
+k′ = 2k. Think of the original spring as being composed of two half-
+springs. The same force F that stretches the whole spring by x stretches 
+each of the half-springs by x/2; therefore, the spring constant for each 
+of the half-springs is k′ = [F/(x/2)] = 2(F/x) = 2k. 
+CQ7.12 
+A graph of potential energy versus position is a straight horizontal line 
+for a particle in neutral equilibrium. The graph represents a constant 
+function. 
+CQ7.13 
+Yes. As you ride an express subway train, a backpack at your feet has 
+no kinetic energy as measured by you since, according to you, the 
+backpack is not moving. In the frame of reference of someone on the 
+side of the tracks as the train rolls by, the backpack is moving and has 
+mass, and thus has kinetic energy. 
+CQ7.14 
+Force of tension on a ball moving in a circle on the end of a string. 
+Normal force and gravitational force on an object at rest or moving 
+across a level floor. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 7.2 
+Work Done by a Constant Force	  
+P7.1 
+(a) 
+The 35-N force applied by the shopper makes a 25° angle with the 
+displacement of the cart (horizontal). The work done on the cart 
+by the shopper is then 
+ 
+ 
+ 
+ Wshopper = Fcosθ
+(
+)Δx = 35.0 N
+(
+) 50.0 m
+(
+)cos25.0°
+= 1.59 × 103 J
+ 
+ 
+(b) The force exerted by the shopper is now completely horizontal 
+and will be equal to the friction force, since the cart stays at a 
+constant velocity. In part (a), the shopper’s force had a downward
+
+--- PAGE 6 ---
+338     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+vertical component, increasing the normal force on the cart, and 
+thereby the friction force. Because there is no vertical component 
+here, the friction force will be less, and the the force is smaller 
+than before. 
+ 
+(c) 
+Since the horizontal component of the force is less in part (b), the 
+work performed by the shopper on the cart over the same 50.0-m 
+distance is the same as in part (b). 
+P7.2 
+(a) 
+The work done on the raindrop by the gravitational force is given 
+by  
+ 
+ 
+ 
+W = mgh = 3.35 × 10−5 kg
+(
+) 9.80 m/s2
+(
+) 100 m
+(
+) = 3.28 × 10−2 J 
+ 
+(b) Since the raindrop is falling at constant velocity, all forces acting 
+on the drop must be in balance, and R = mg, so  
+ 
+ 
+ 
+Wair resistance = −3.28 × 10−2J 
+P7.3 
+(a) 
+The work done by a constant force is given by 
+ 
+ 
+ 
+W = Fdcosθ 
+ 
+ 
+where θ is the angle between the force and the displacement of 
+the object. In this case, F = –mg and θ = 180°, giving  
+ 
+ 
+ 
+W = (281.5 kg)(9.80 m/s
+2)[(17.1 cm)(1 m/10
+2 cm)] = 472 J 
+ 
+(b) If the object moved upward at constant speed, the net force acting 
+on it was zero. Therefore, the magnitude of the upward force 
+applied by the lifter must have been equal to the weight of the 
+object: 
+ 
+ 
+ 
+F = mg = (281.5 kg)(9.80 m/s
+2) = 2.76 × 10
+3 N = 2.76 kN 
+P7.4 
+Assuming the mass is lifted at constant velocity, the total upward force 
+exerted by the two men equals the weight of the mass: Ftotal = mg = 
+(653.2 kg)(9.80 m/s
+2) = 6.40 × 10
+3 N. They exert this upward force 
+through a total upward displacement of 96 inches (4 inches per lift for 
+each of 24 lifts). The total work would then be 
+ 
+ 
+ 
+Wtotal = (6.40 × 10
+3 N)[(96 in)(0.025 4 m/1 in)] = 1.56 × 104 J 
+P7.5 
+We apply the definition of work by a constant force in the first three 
+parts, but then in the fourth part we add up the answers. The total 
+(net) work is the sum of the amounts of work done by the individual 
+forces, and is the work done by the total (net) force. This identification 
+is not represented by an equation in the chapter text, but is something
+
+--- PAGE 7 ---
+Chapter 7     339 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+you know by thinking about it, without relying on an equation in a list.  
+ 
+The definition of work by a constant force is W = FΔrcosθ.  
+ 
+(a) 
+The applied force does work given by 
+ 
+ 
+ 
+W = FΔrcosθ = 16.0 N
+(
+) 2.20 m
+(
+)cos25.0° = 31.9 J 
+ 
+(b), (c)  The normal force and the weight are both at 90° to the 
+displacement in any time interval. Both do 0 work. 
+ 
+(d) 
+W
+∑
+= 31.9 J + 0 + 0 = 31.9 J 
+P7.6 
+METHOD ONE 
+ 
+Let φ represent the instantaneous angle the rope 
+makes with the vertical as it is swinging up from  
+φi = 0 to φf = 60º. In an incremental bit of motion 
+from angle φ to φ + dφ, the definition of radian 
+measure implies that Δr = 12.0 m
+(
+)dφ. The angle  
+θ  between the incremental displacement and the 
+force of gravity is θ = 90º + φ. Then  
+ 
+ 
+ 
+cos θ = cos (90º + φ) = –sin φ 
+ 
+The work done by the gravitational force on Spiderman is 
+ 
+ 
+ 
+W = Fcosθ dr
+i
+f
+∫
+=
+mg(−sinφ)(12.0 m)dφ
+φ=0
+φ=60°
+∫
+= −mg(12.0 m)
+sinφ dφ
+0
+60°
+∫
+= (−80.0 kg) 9.80 m/s2
+(
+)(12 m)(−cosφ) 0
+60°
+= (−784 N)(12.0 m)(−cos60° + 1) = −4.70 × 103 J
+ 
+ 
+METHOD TWO 
+ 
+The force of gravity on Spiderman is mg = (80 kg)(9.8 m/s
+2) = 784 N 
+down. Only his vertical displacement contributes to the work gravity 
+does. His original y coordinate below the tree limb is –12 m. His final y 
+coordinate is (–12.0 m) cos 60.0º = –6.00 m. His change in elevation is  
+–6.00 m – (–12.0 m). The work done by gravity is 
+ 
+ 
+ 
+W = FΔrcosθ = 784 N
+(
+) 6.00 m
+(
+)cos180° = −4.70 kJ 
+ 
+ 
+ANS. FIG. P7.6
+
+--- PAGE 8 ---
+340     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P7.10 
+Section 7.3 
+The Scalar Product of Two Vectors	  
+P7.7 
+
+A ⋅
+
+B = Axˆi + Ayˆj + Az ˆk
+(
+)⋅Bxˆi + Byˆj + Bz ˆk
+(
+) 
+
+A ⋅
+
+B = AxBx ˆi ⋅ˆi
+(
+) + AxBy ˆi ⋅ˆj
+(
+) + AxBz ˆi ⋅ˆk
+(
+)
+  + AyBx ˆj⋅ˆi
+(
+) + AyBy ˆj⋅ˆj
+(
+) + AyBz ˆj⋅ˆk
+(
+)
+  + AzBx ˆk ⋅ˆi
+(
+) + AzBy ˆk ⋅ˆj
+(
+) + AzBz ˆk ⋅ˆk
+(
+)
+ 
+ 
+And since ˆi ⋅ˆi = ˆj⋅ˆj = ˆk ⋅ˆk = 1 and ˆi ⋅ˆj = ˆi ⋅ˆk = ˆj⋅ˆk = 0, 
+ 
+ 
+
+A ⋅
+
+B =
+AxBx + AyBy + AzBz
+ 
+P7.8 
+A = 5.00; B = 9.00; θ = 50.0º 
+ 
+
+A ⋅
+
+B = ABcosθ = (5.00)(9.00)cos50.0° = 28.9 
+P7.9 
+
+A −
+
+B = 3.00ˆi + ˆj −ˆk
+(
+) −−ˆi + 2.00ˆj + 5.00 ˆk
+(
+) = 4.00ˆi −ˆj −6.00 ˆk 
+
+C ⋅
+
+A −
+
+B
+(
+) = 2.00ˆj −3.00 ˆk
+(
+)⋅4.00ˆi −ˆj −6.00 ˆk
+(
+) = 0 + (−2.00) + (+18.0)
+                 = 16.0
+ 
+P7.10 
+We must first find the angle between the two  
+vectors. It is 
+ 
+ 
+ 
+θ = (360º – 132º) – (118º + 90.0º)  
+= 20.0º 
+ 
+Then 
+ 
+ 
+ 
+
+F⋅r = Frcosθ
+= (32.8 N)(0.173 m)cos20.0°
+ 
+ 
+or 
+ 
+
+F ⋅r = 5.33 N ⋅m = 5.33 J 
+P7.11 
+(a) 
+We use the mathematical representation of the definition of work.  
+ 
+ 
+ 
+W =
+
+F ⋅Δr = Fxx + Fyy = (6.00)(3.00) N ⋅m + (−2.00)(1.00) N ⋅m
+= 16.0 J
+ 
+ 
+(b) 
+θ = cos−1
+
+F ⋅Δr
+FΔr
+⎛
+⎝⎜
+⎞
+⎠⎟
+= cos−1
+16 N ⋅m
+(6.00 N)2 + (−2.00 N)2 ⋅(3.00 m)2 + (1.00 m)2
+= 36.9°
+
+--- PAGE 9 ---
+Chapter 7     341 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.12 
+(a) 
+
+A = 3.00ˆi −2.00ˆj 
+ 
+ 
+
+B = 4.00ˆi −4.00ˆj  
+ 
+ 
+θ = cos−1
+
+A ⋅
+
+B
+AB
+⎛
+⎝⎜
+⎞
+⎠⎟= cos−1
+12.0 + 8.00
+13.0 ⋅
+32.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 11.3°
+ 
+ 
+(b) 
+
+A = −2.00ˆi + 4.00ˆj  
+ 
+ 
+
+B = 3.00ˆi −4.00ˆj + 2.00 ˆk 
+ 
+ 
+cosθ =
+
+A ⋅
+
+B
+AB
+⎛
+⎝⎜
+⎞
+⎠⎟= −6.00 −16.0
+20.0 ⋅
+29.0
+   →   θ = 156º
+ 
+ 
+(c) 
+
+A = ˆi −2.00ˆj + 2.00 ˆk 
+ 
+ 
+
+B = 3.00ˆj + 4.00 ˆk 
+ 
+ 
+ 
+θ = cos−1
+
+A ⋅
+
+B
+AB
+⎛
+⎝⎜
+⎞
+⎠⎟= cos−1
+−6.00 + 8.00
+9.00 ⋅
+25.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 82.3° 
+P7.13 
+Let θ represent the angle between 
+
+A and 
+
+B. Turning by 25.0º makes 
+the dot product larger, so the angle between 
+
+C and 
+
+B must be smaller. 
+We call it θ − 25.0º. Then we have 
+ 
+ 
+ 
+5A cos θ = 30 
+and 
+5A cos (θ − 25.0º) = 35 
+ 
+Then  
+ 
+ 
+ 
+A cos θ = 6 
+and 
+A (cos θ  cos 25.0º + sin θ sin  25.0º) = 7 
+ 
+Dividing,  
+ 
+ 
+ 
+cos 25.0º + tan θ  sin 25.0º = 7/6   
+ 
+or 
+ 
+tan θ = (7/6 − cos 25.0º)/sin 25.0º = 0.616 
+ 
+Which gives  θ = 31.6º. Then the direction angle of A is  
+ 
+ 
+ 
+60.0º − 31.6º = 28.4º  
+ 
+Substituting back,  
+ 
+ 
+ 
+A cos 31.6º = 6   so 
+
+A = 7.05 m at 28.4°
+
+--- PAGE 10 ---
+342     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 7.4 
+Work Done by a Varying Force	  
+P7.14 
+W =
+Fdx
+i
+f
+∫
+= area under curve from xi to xf 
+ 
+(a) 
+xi = 0 and xf = 800 m 
+ 
+ 
+W0→8 = area of triangle ABC 
+ 
+ 
+ 
+ 
+=
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟AC × height
+ 
+ 
+ 
+W0→8 =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟× 8.00 m × 6.00 N
+= 24.0 J
+ 
+ 
+(b) xi = 8.00 m and xf = 10.0 m 
+ 
+ 
+W8→10 = area of ΔCDE =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟CE × height, 
+ 
+ 
+W8→10 =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟× (2.00 m) × (−3.00 N) = −3.00 J 
+ 
+(c) 
+W0→10 = W0→8 + W0→10 = 24.0 + −3.00
+(
+) = 21.0 J 
+P7.15 
+We use the graphical representation of the 
+definition of work. W equals the area under the 
+force-displacement curve. This definition is still 
+written W =
+Fx dx
+∫
+ but it is computed 
+geometrically by identifying triangles and 
+rectangles on the graph. 
+ 
+(a) 
+For the region 0 ≤ x ≤ 5.00 m, 
+ 
+ 
+ 
+W = (3.00 N)(5.00 m)
+2
+= 7.50 J 
+ 
+(b) For the region 5.00 ≤ x ≤ 10.0, 
+W = 3.00 N
+(
+) 5.00 m
+(
+) = 15.0 J 
+ 
+(c) 
+For the region 10.00 ≤ x ≤ 15.0, W = (3.00 N)(5.00 m)
+2
+= 7.50 J 
+ 
+(d) For the region 0 ≤ x ≤ 15.0, 
+W = (7.50 + 7.50 + 15.0) J = 30.0 J 
+ANS. FIG. P7.14 
+ANS. FIG. P7.15
+
+--- PAGE 11 ---
+Chapter 7     343 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.16 
+Fx
+∑
+= max: kx = ma 
+ 
+k = ma
+x
+= (4.70 × 10−3 kg) (0.800) (9.80 m/s2)
+0.500 × 10−2m
+= 7.37 N/m
+ 
+P7.17 
+When the load of mass M = 4.00 kg is hanging on the spring in 
+equilibrium, the upward force exerted by the spring on the load is 
+equal in magnitude to the downward force that the Earth exerts on the 
+load, given by w = Mg. Then we can write Hooke’s law as Mg = +kx. 
+The spring constant, force constant, stiffness constant, or Hooke’s-law 
+constant of the spring is given by  
+ 
+ 
+ 
+k = F
+y = Mg
+y
+= (4.00 kg)(9.80 m/s2)
+2.50 × 10−2 m
+= 1.57 × 103 N/m 
+ 
+(a) 
+For the 1.50-kg mass, 
+ 
+ 
+ 
+y = mg
+k = (1.50 kg)(9.80 m/s2)
+1.57 × 103 N/m
+= 0.009 38 m = 0.938 cm
+ 
+ 
+(b) Work = 1
+2 ky2 = 1
+2 1.57 × 103 N m
+(
+) 4.00 × 10−2 m
+(
+)
+2 = 1.25 J 
+P7.18 
+In F = –kx, F refers to the size of the force that the spring exerts on each 
+end. It pulls down on the doorframe in part (a) in just as real a sense as 
+it pulls on the second person in part (b). 
+ 
+(a) 
+Consider the upward force exerted by the bottom end of the 
+spring, which undergoes a downward displacement that we 
+count as negative: 
+ 
+ 
+ 
+k = –F/x = – (7.50 kg)(9.80 m/s
+2)/(–0.415 m + 0.350 m)  
+ 
+ 
+ = –73.5 N/(–0.065 m) = 1.13 kN/m 
+ 
+(b) Consider the end of the spring on the right, which exerts a force 
+to the left: 
+ 
+ 
+ 
+x = – F/k = –(–190 N)/(1130 N/m) = 0.168 m 
+ 
+ 
+The length of the spring is then  
+ 
+ 
+ 
+0.350 m + 0.168 m = 0.518 m = 51.8 cm 
+ANS. FIG. P7.16
+
+--- PAGE 12 ---
+344     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.19 
+(a) 
+Spring constant is given by F = kx: 
+ 
+ 
+ 
+k = F
+x = 230 N
+0.400 m = 575 N/m
+ 
+ 
+(b) Work = Favgx =
+230 N −0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟(0.400 m) =
+46.0 J 
+P7.20 
+The same force makes both light springs stretch. 
+ 
+(a) 
+The hanging mass moves down by 
+ 
+ 
+ 
+x = x1 + x2 = mg
+k1
++ mg
+k2
+= mg
+1
+k1
++ 1
+k2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.5 kg
+(
+) 9.8 m/s2
+(
+)
+1
+1 200 N/m +
+1
+1 800 N/m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.04 × 10−2 m
+ 
+ 
+(b) We define the effective spring constant as 
+ 
+ 
+ 
+k = F
+x =
+mg
+mg 1 k1 + 1 k2
+(
+)
+=
+1
+k1
++ 1
+k2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+=
+1
+1 200 N/m +
+1
+1 800 N/m
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 720 N/m
+ 
+P7.21 
+(a) 
+The force mg is the tension in each of the springs. The bottom of 
+the upper (first) spring moves down by distance  
+x1 = |F|/k1 = mg/k1. The top of the second spring moves down 
+by this distance, and the second spring also stretches by  
+x2 = mg/k2. The bottom of the lower spring then moves down by 
+distance  
+ 
+  
+ 
+ 
+xtotal = x1 + x2 = mg
+k1
++ mg
+k2
+= mg
+1
+k1
++ 1
+k2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) From the last equation we have   
+ 
+ 
+ 
+mg = x1 + x2
+1
+k1
++ 1
+k2
+ 
+ 
+ 
+ 
+This is of the form  
+ 
+ 
+ 
+ 
+|F|=
+1
+1/ k1 + 1/ k2
+⎛
+⎝⎜
+⎞
+⎠⎟(x1 + x2)
+
+--- PAGE 13 ---
+Chapter 7     345 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+The downward displacement is opposite in direction to the 
+upward force the springs exert on the load, so we may write  
+F = –keff xtotal, with the effective spring constant for the pair of 
+springs given by 
+ 
+  
+ 
+keff =
+1
+1/ k1 + 1/ k2
+ 
+ 
+P7.22 
+k[ ] =
+F
+x
+⎡
+⎣⎢
+⎤
+⎦⎥= N
+m = kg ⋅m/s2
+m
+=
+kg
+s2
+ 
+P7.23 
+(a) 
+If the weight of the first tray stretches all four springs 
+by a distance equal to the thickness of the tray, then the 
+proportionality expressed by Hooke’s law guarantees 
+that each additional tray will have the same effect, so 
+that the top surface of the top tray can always have the 
+same elevation above the floor if springs with the right 
+spring constant are used.
+ 
+ 
+(b) The weight of a tray is (0.580 kg)(9.8 m/s
+2) = 5.68 N. The force 
+1
+4(5.68 N) = 1.42 N should stretch one spring by 0.450 cm, so its 
+spring constant is 
+ 
+ 
+ 
+k = Fs
+x =
+1.42 N
+0.004 5 m = 316 N/m
+ 
+ 
+(c) 
+We did not need to know the length or width of the tray. 
+P7.24 
+The spring exerts on each block an outward force of  
+magnitude 
+ 
+ 
+ 
+Fs = kx = (3.85 N/m)(0.08 m) = 0.308 N 
+ 
+Take the +x direction to the right. For the light block on 
+the left, the vertical forces are given by  
+ 
+ 
+ 
+Fg = mg = (0.250 kg)(9.80 m/s
+2) = 2.45 N 
+ 
+and  
+Fy
+∑
+= 0    
+ 
+so     
+n−2.45 N = 0     →     n = 2.45 N  
+Similarly, for the heavier block, 
+ 
+ 
+n = Fg = (0.500 kg)(9.80 m/s
+2) = 4.90 N 
+ANS. FIG. 
+P7.24
+
+--- PAGE 14 ---
+346     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+For the block on the left,  
+ 
+ 
+ 
+Fx
+∑
+= max:      –0.308 N = (0.250 kg)a 
+ 
+ 
+ 
+ 
+a = −1.23 m/s2 
+ 
+ 
+ For the heavier block,  
+ 
+ 
+ 
++0.308 N = (0.500 kg)a 
+ 
+ 
+ 
+ 
+a = 0.616 m/s2 
+ 
+(b) For the block on the left, fk = µkn = 0.100(2.45 N) = 0.245 N. 
+ 
+ 
+Fx
+∑
+= max 
+ 
+ 
+–0.308 N + 0.245 N = (0.250 kg)a
+ 
+a = −0.252 m/s2 if the force of static friction is not too large . 
+ 
+ 
+For the block on the right, fk = µkn = 0.490 N. The maximum force 
+of static friction would be larger, so no motion would begin and 
+the acceleration is zero . 
+ 
+(c) 
+Left block: fk = 0.462(2.45 N) = 1.13 N. The maximum static friction 
+force would be larger, so the spring force would produce no 
+motion of this block or of the right-hand block, which could feel 
+even more friction force. For both, a = 0 . 
+P7.25 
+(a) 
+The radius to the object makes angle θ 
+with the horizontal. Taking the x axis in 
+the direction of motion tangent to the 
+cylinder, the object’s weight makes an 
+angle θ  with the –x axis. Then, 
+ 
+ 
+ 
+Fx
+∑
+= max
+F −mgcosθ = 0
+F = mgcosθ
+ 
+ 
+(b) 
+W =
+
+F ⋅dr
+i
+f
+∫
+ 
+ 
+ 
+We use radian measure to express the next bit of displacement as 
+dr = R dθ in terms of the next bit of angle moved through: 
+ 
+ 
+ 
+W =
+mgcosθRdθ
+0
+π 2
+∫
+= mgRsinθ 0
+π 2 = mgR(1−0) = mgR 
+ANS. FIG. P7.25
+
+--- PAGE 15 ---
+Chapter 7     347 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.26 
+The force is given by Fx = (8x – 16) N. 
+ 
+(a) 
+See ANS. FIG. P7.26 to the right. 
+ 
+(b) 
+Wnet = −(2.00 m)(16.0 N)
+2
++ (1.00 m)(8.00 N)
+2
+= −12.0 J
+ 
+ 
+ 
+P7.27 
+(a) 
+ 
+F (N) 
+L (mm) 
+F (N) 
+L (mm) 
+0.00 
+0.00 
+12.0 
+98.0 
+2.00 
+15.0 
+14.0 
+112 
+4.00 
+32.0 
+16.0 
+126 
+6.00 
+49.0 
+18.0 
+149 
+8.00 
+64.0 
+20.0 
+175 
+10.0 
+79.0 
+22.0 
+190 
+ 
+ 
+ 
+ 
+ANS FIG. P7.27(a) 
+ 
+(b) By least-squares fitting, its slope is 0.116 N/mm = 116 N/m . 
+ANS. FIG. P7.26
+
+--- PAGE 16 ---
+348     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+To draw the straight line we use all the points listed and also the 
+origin. If the coils of the spring touched each other, a bend or 
+nonlinearity could show up at the bottom end of the graph. If the 
+spring were stretched “too far,” a nonlinearity could show up at 
+the top end. But there is no visible evidence for a bend in the 
+graph near either end. 
+ 
+(d) In the equation F = kx, the spring constant k is the slope of the  
+F-versus-x graph. 
+ 
+  
+ 
+k = 116 N/m 
+ 
+(e) 
+F = kx = (116 N/m)(0.105 m) = 12.2 N 
+P7.28 
+(a) 
+We find the work done by the gas on the bullet by integrating the 
+function given: 
+ 
+ 
+ 
+W =
+
+F ⋅dr
+i
+f
+∫
+ 
+ 
+ 
+ 
+W =
+15 000 N + 10 000x N/m −25 000x2 N/m2
+(
+)
+0
+0.600 m
+∫
+dxcos0°
+ 
+ 
+ 
+ 
+W = 15 000x + 10 000x2
+2
+−25 000x3
+3
+0
+0.600 m
+W = 9.00 kJ + 1.80 kJ −1.80 kJ = 9.00 kJ
+ 
+ 
+(b) Similarly, 
+ 
+ 
+W = (15.0 kN)(1.00 m)
+           + (10.0 kN/m) 1.00 m
+(
+)
+2
+2
+−
+25.0 kN/m2
+(
+)(1.00 m)3
+3
+W = 11.67 kJ = 11.7 kJ
+ 
+ 
+(c) 
+11.7 kJ − 9.00 kJ
+ 9.00 kJ
+× 100% = 29.6%
+The work is greater by 29.6%.
+ 
+P7.29 
+W =
+
+F ⋅dr
+i
+f
+∫
+=
+4xˆi + 3yˆj
+(
+)
+0
+5 m
+∫
+N ⋅dxˆi 
+(4 N m)xdx + 0
+0
+5 m
+∫
+= (4 N/m) x2
+2
+0
+5 m
+= 50.0 J
+
+--- PAGE 17 ---
+Chapter 7     349 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.30 
+We read the coordinates of the two specified points from the graph as 
+ 
+ 
+ 
+a = (5 cm, –2 N) and b = (25 cm, 8 N)  
+ 
+We can then write u as a function of v by first finding the slope of the 
+curve:  
+ 
+ 
+ 
+slope = ub −ua
+vb −va
+= 8 N −−2 N
+(
+)
+25 cm −5 cm = 0.5 N/cm
+  
+ 
+The y intercept of the curve can be found from u = mv + b, where  
+m = 0.5 N/cm is the slope of the curve, and b is the y intercept. 
+Plugging in point a, we obtain 
+ 
+ 
+ 
+ u = mv + b
+−2 N = 0.5 N/cm
+(
+) 5 cm
+(
+)+ b
+b = −4.5 N
+  
+ 
+Then, 
+ 
+ 
+ 
+u = mv + b = 0.5 N/cm
+(
+)v −4.5 N 
+ 
+(a) 
+Integrating the function above, suppressing units, gives 
+ 
+ 
+ 
+udv =
+(0.5v −4.5)dv = 0.5v2/2 −4.5v
+⎡⎣
+⎤⎦
+5
+25
+∫
+a
+b∫
+5
+25
+= 0.25(625 −25)−4.5(25 −5)
+= 150 −90 = 60 N⋅cm = 0.600 J
+ 
+ 
+(b) Reversing the limits of integration just gives us the negative of the 
+quantity: 
+ 
+ 
+ 
+udv = −0.600 J
+b
+a∫
+ 
+ 
+(c) 
+This is an entirely different integral. It is larger because all of the 
+area to be counted up is positive (to the right of v = 0) instead of 
+partly negative (below u = 0). 
+ 
+ 
+ 
+vdu =
+(2u+ 9)du = 2u2/2 + 9u
+⎡⎣
+⎤⎦
+−2
+8∫
+a
+b∫
+−2
+8
+= 64 −(−2)2 + 9(8 + 2)
+= 60 + 90 = 150 N⋅cm = 1.50 J
+
+--- PAGE 18 ---
+350     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 7.5 
+Kinetic Energy and the  
+Work-Kinetic Energy Theorem 
+P7.31 
+vi = 6.00ˆi −1.00ˆj
+(
+) m/s2 
+ 
+(a) 
+vi =
+vix
+2 + viy
+2 =
+37.0 m/s 
+ 
+ 
+Ki = 1
+2 mvi
+2 = 1
+2 (3.00 kg) 37.0 m2/s2
+(
+) = 55.5 J 
+ 
+(b) 
+v f = 8.00ˆi + 4.00ˆj 
+ 
+ 
+v f
+2 = v f ⋅v f = 64.0 + 16.0 = 80.0 m2/s2
+ 
+ 
+ 
+ΔK = K f −Ki = 1
+2 m v f
+2 −vi
+2
+(
+) = 3.00
+2 (80.0) −55.5 = 64.5 J 
+P7.32 
+(a) 
+Since the applied force is horizontal, it is in the direction of the 
+displacement, giving θ = 0º. The work done by this force is then 
+ 
+ 
+ 
+WF0 = F0 cosθ
+(
+)Δx = F0 cos0
+(
+)Δx = F0Δx  
+ 
+ 
+and 
+ 
+ 
+ 
+F0 = WF0
+Δx = 350 J
+12.0 m = 29.2 N 
+ 
+(b) If the applied force is greater than 29.2 N, the crate would 
+accelerate in the direction of the force, so its 
+speed would increase with time. 
+ 
+(c) 
+If the applied force is less than 29.2 N, the 
+crate would slow down and come to rest. 
+P7.33 
+(a) 
+KA = 1
+2 (0.600 kg) 2.00 m/s
+(
+)
+2 = 1.20 J 
+ 
+(b) 
+1
+2 mvB
+2 = KB: vB =
+2KB
+m
+=
+(2)(7.50 J)
+0.600 kg = 5.00 m/s 
+ 
+(c) 
+W
+∑
+= ΔK = KB −KA = 1
+2 m vB
+2 −vA
+2
+(
+) = 7.50 J −1.20 J = 6.30 J
+
+--- PAGE 19 ---
+Chapter 7     351 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.34 
+(a) 
+ΔK = K f −Ki = 1
+2 mv f
+2 −0 =
+W
+∑
+= (area under curve from x = 0 to 
+x = 5.00 m) 
+ 
+ 
+ 
+v f =
+2 area
+(
+)
+m
+=
+2 7.50 J
+(
+)
+4.00 kg = 1.94 m/s
+ 
+ 
+(b) 
+ΔK = K f −Ki = 1
+2 mv f
+2 −0 =
+W
+∑
+= (area under curve from x = 0 to 
+x = 10.0 m) 
+ 
+ 
+ 
+v f =
+2 area
+(
+)
+m
+=
+2 22.5 J
+(
+)
+4.00 kg = 3.35 m/s
+ 
+ 
+(c) 
+ΔK = K f −Ki = 1
+2 mv f
+2 −0 =
+W
+∑
+= (area under curve from x = 0 to 
+x = 15.0 m) 
+ 
+ 
+ 
+v f =
+2 area
+(
+)
+m
+=
+2 30.0 J
+(
+)
+4.00 kg = 3.87 m/s
+ 
+P7.35 
+Consider the work done on the pile driver from the time it starts from 
+rest until it comes to rest at the end of the fall. Let d = 5.00 m represent 
+the distance over which the driver falls freely, and h = 0.12 the distance 
+it moves the piling. 
+ 
+ 
+ 
+W
+∑
+= ΔK:    Wgravity + Wbeam = 1
+2 mv f
+2 −1
+2 mvi
+2 
+ 
+so   
+(mg)(h + d)cos0° + F( )(d)cos180° = 0 −0 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+ 
+F = (mg)(h + d)
+d
+= (2 100 kg) 9.80 m/s2
+(
+)(5.12 m)
+0.120 m
+= 8.78 × 105 N
+ 
+ 
+The force on the pile driver is upward. 
+P7.36 
+(a) 
+v f = 0.096 3.00 × 108 m/s
+(
+) = 2.88 × 107 m/s 
+ 
+ 
+K f = 1
+2 mv f
+2 = 1
+2 9.11× 10−31 kg
+(
+) 2.88 × 107 m/s
+(
+)
+2 = 3.78 × 10−16 J 
+ 
+(b) 
+Ki + W = K f : 0 + FΔr cosθ = K f 
+ 
+ 
+F(0.028 m)cos0° = 3.78 × 10−16 J 
+ 
+ 
+F = 1.35 × 10−14 N
+
+--- PAGE 20 ---
+352     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+F
+∑
+= ma:
+a =
+F
+∑
+m = 1.35 × 10−14 N
+9.11× 10−31 kg = 1.48 × 10+16 m/s2
+ 
+ 
+(d) 
+vxf = vxi + axt:
+2.88 × 107 m/s = 0 + 1.48 × 1016 m/s2
+(
+)t 
+ 
+ 
+t = 1.94 × 10−9 s 
+P7.37 
+(a) 
+Ki +
+W
+∑
+= K f = 1
+2 mv f
+2 
+ 
+ 
+0 +
+W
+∑
+= 1
+2 (15.0 × 10−3 kg)(780 m/s)2 = 4.56 kJ 
+ 
+(b) As shown in part (a), the net work performed on the bullet is 
+4.56 kJ. 
+ 
+(c) 
+F =
+W
+Δr cosθ =
+4.56 × 103 J
+(0.720 m)cos0° = 6.34 kN 
+ 
+(d) 
+a =
+v f
+2 −vi
+2
+2x f
+= (780 m/s)2 −0
+2(0.720 m)
+=
+422 km/s2 
+ 
+(e) 
+F
+∑
+= ma = (15 × 10−3 kg)(422 × 103 m/s2) = 6.34 kN 
+ 
+(f) 
+The forces are the same.  The two theories agree. 
+P7.38 
+(a) 
+As the bullet moves the hero’s hand, work is done on the bullet to 
+decrease its kinetic energy. The average force is opposite to the 
+displacement of the bullet: 
+ 
+ 
+ 
+Wnet = FavgΔxcosθ = −FavgΔx = ΔK 
+ 
+ 
+ 
+Favg = ΔK
+−Δx =
+0 −1
+2 7.80 × 10−3 kg
+(
+) 575 m/s
+(
+)
+2
+−0.055 0 m
+ 
+ 
+ 
+ 
+Favg = 2.34 × 104 N, opposite to the direction of motion
+ 
+ 
+(b) If the average force is constant, the bullet will have a constant 
+acceleration and its average velocity while stopping is 
+v = (v f + vi)/2 . The time required to stop is then 
+ 
+Δt = Δx
+v = 2(Δx)
+v f + vi
+= 2(5.50×10−2m)
+0 + 575 m/s
+= 1.91× 10−4s
+
+--- PAGE 21 ---
+Chapter 7     353 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.39 
+(a) 
+K = 1
+2
+mv
+2 = 1
+2
+m(vx
+2 + vy
+2)  
+ 
+ 
+  = 1
+2
+(5.75 kg)[(5.00 m/s)
+2 + (–3.00 m/s)
+2] = 97.8 J 
+ 
+(b) We know Fx = max and Fy = may. At t = 0, xi = yi = 0, and  
+vxi = 5.00 m/s, vyi = –3.00 m/s; at t = 2.00 s, xf = 8.50 m, yf = 5.00 m. 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2
+ax =
+2(x f −xi −vxit)
+t2
+= 2[8.50 m −0 −(5.00 m/s)(2.00 s)]
+(2.00 s)2
+= −0.75 m/s2
+ 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+ay =
+2(y f −yi −vyit)
+t2
+= 2[5.00 m −0 −(−3.00 m/s)(2.00 s)]
+(2.00 s)2
+= 5.50 m/s2
+ 
+ 
+ 
+ 
+Fx = max = (5.75 kg)(–0.75 m/s
+2) = –4.31 N 
+ 
+ 
+ 
+Fy = may = (5.75 kg)(5.50 m/s
+2) = 31.6 N 
+ 
+ 
+ 
+
+F = −4.31ˆi + 31.6ˆj
+(
+) N
+ 
+ 
+(c) 
+We can obtain the particle’s speed at t = 2.00 s from the particle 
+under constant acceleration model, or from the nonisolated 
+system model. From the former,  
+ 
+ 
+ 
+vxf = vxi + axt = 5.00 m/s
+(
+) + −0.75 m/s2
+(
+) 2.00 s
+(
+) = 3.50 m/s 
+ 
+ 
+ 
+vxf = vyi + ayt = −3.00 m/s
+(
+) + 5.50 m/s2
+(
+) 2.00 s
+(
+) = 8.00 m/s 
+ 
+ 
+ 
+v =
+vx
+2 + vy
+2 =
+(3.50 m/s)2 + (8.00 m/s)2 = 8.73 m/s 
+ 
+ 
+From the nonisolated system model,  
+ 
+ 
+ 
+W
+∑
+= ΔK:    Wext = 1
+2 mv f
+2 −1
+2 mvi
+2 
+ 
+ 
+The work done by the force is given by 
+ 
+ 
+ 
+Wext =
+
+F ⋅Δr = FxΔrx + FyΔry
+= (−4.31 N)(8.50 m) + (31.6 N)(5.00 m) = 121 J
+
+--- PAGE 22 ---
+354     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+then,  
+ 
+ 
+ 
+1
+2 mv f
+2 = Wext + 1
+2 mvi
+2 = 121 J + 97.8 J = 219 J
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+v f =
+2(219 J)
+5.75 kg = 8.73 m/s
+ 
+ 
+ 
+Section 7.6 
+Potential Energy of a System 
+P7.40 
+(a) 
+With our choice for the zero level for  
+potential energy of the car-Earth system  
+when the car is at point B, 
+ 
+ 
+ 
+UB = 0 
+ 
+ 
+When the car is at point A, the potential 
+energy of the car-Earth system is given by 
+ 
+ 
+ 
+UA = mgy 
+ 
+ 
+where y is the vertical height above zero level. With 135 ft  
+= 41.1 m, this height is found as: 
+ 
+ 
+ 
+y = (41.1 m) sin 40.0º = 26.4 m 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+UA = (1 000 kg) 9.80 m/s2
+(
+)(26.4 m) = 2.59 × 105 J 
+ 
+ 
+The change in potential energy of the car-Earth system as the car 
+moves from A to B is 
+ 
+ 
+ 
+UB −UA = 0 −2.59 × 105 J = −2.59 × 105 J 
+ 
+(b) With our choice of the zero configuration for the potential energy 
+of the car-Earth system when the car is at point A, we have 
+UA = 0 . The potential energy of the system when the car is at 
+point B is given by UB = mgy, where y is the vertical distance of 
+point B below point A. In part (a), we found the magnitude of 
+this distance to be 26.5 m. Because this distance is now below the 
+zero reference level, it is a negative number. 
+ANS. FIG. P7.40
+
+--- PAGE 23 ---
+Chapter 7     355 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+UB = (1 000 kg) 9.80 m/s2
+(
+)(−26.5 m) = −2.59 × 105 J 
+ 
+ 
+The change in potential energy when the car moves from A to 
+B is 
+ 
+ 
+ 
+UB −UA = −2.59 × 105 J −0 = −2.59 × 105 J 
+P7.41 
+Use U = mgy, where y is measured relative to a reference level. Here, 
+we measure y to be relative to the top edge of the well, where we take 
+y = 0. 
+ 
+(a) 
+y = 1.3 m:    U = mgy = (0.20 kg)(9.80 m/s
+2)(1.3 m) = +2.5 J 
+ 
+(b) y = –5.0 m:    U = mgy = (0.20 kg)(9.80 m/s
+2)(–5.0 m) = −9.8 J 
+ 
+(c) 
+ΔU = U f −Ui = −9.8 J
+(
+) −2.5 J
+(
+) = −12.3 = −12 J 
+P7.42 
+(a) 
+We take the zero 
+configuration of system 
+potential energy with the 
+child at the lowest point of 
+the arc. When the swing is 
+held horizontal initially, the 
+initial position is 2.00 m 
+above the zero level. Thus, 
+ 
+ 
+ 
+Ug = mgy
+= (400 N)(2.00 m)
+= 800 J
+ 
+ 
+(b) From the sketch, we see that at an angle of 30.0° the child is at a 
+vertical height of (2.00 m) (1 – cos 30.0º) above the lowest point of 
+the arc. Thus, 
+ 
+ 
+ 
+Ug = mgy = (400 N)(2.00 m)(1−cos 30.0°) = 107 J
+ 
+ 
+(c) 
+The zero level has been selected at  
+the lowest point of the arc. Therefore, Ug = 0 at this location. 
+ 
+ 
+ 
+ANS. FIG. P7.42
+
+--- PAGE 24 ---
+356     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 7.7 
+Conservative and Nonconservative Forces 
+P7.43 
+The gravitational force is downward: 
+ 
+ 
+Fg = mg = (4.00 kg)(9.80 m/s
+2) = 39.2 N 
+ 
+(a) 
+Work along OAC = work along OA + 
+work along AC 
+ 
+ 
+ 
+= Fg(OA)cos90.0°
+             + Fg(AC)cos180°
+= (39.2 N)(5.00 m)(0)
+             + (39.2 N)(5.00 m)(−1)
+= −196 J
+ 
+ 
+(b) W along OBC = W along OB + W along BC 
+ 
+ 
+ 
+= (39.2 N)(5.00 m)cos180° + (39.2 N)(5.00 m)cos90.0°
+= −196 J
+ 
+ 
+(c) 
+Work along OC = Fg(OC) cos 135° 
+ 
+ 
+ 
+= (39.2 N) 5.00 ×
+2 m
+(
+) −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −196 J 
+ 
+(d) 
+The results should all be the same, since the gravitational force
+is conservative.
+ 
+P7.44 
+(a) 
+W =
+
+F⋅dr
+∫
+, and if the force is constant, this can be written as 
+ 
+W =
+
+F ⋅dr
+∫
+=
+
+F ⋅rf −ri
+(
+), which depends only on the end points,
+ 
+ 
+and not on the path . 
+ 
+(b) 
+W =
+
+F ⋅dr
+∫
+=
+3ˆi + 4ˆj
+(
+)⋅dxˆi + dyˆj
+(
+)
+∫
+= (3.00 N)
+dx
+0
+5.00 m
+∫
++ (4.00 N)
+dy
+0
+5.00 m
+∫
+ 
+ 
+ 
+W = (3.00 N)x 0
+5.00 m + (4.00 N)y 0
+5.00 m = 15.0 J + 20.0 J = 35.0 J 
+ 
+ 
+The same calculation applies for all paths. 
+ANS. FIG. P7.43
+
+--- PAGE 25 ---
+Chapter 7     357 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.45 
+In the following integrals, remember that 
+ 
+ 
+ˆi ⋅ˆi = ˆj⋅ˆj = 1
+and
+ˆi ⋅ˆj = 0  
+ 
+(a) 
+The work done on the particle in its first section of motion is 
+ 
+ 
+ 
+WOA =
+dxˆi ⋅2yˆi + x2ˆj
+(
+)
+0
+5.00 m
+∫
+=
+2ydx
+0
+5.00 m
+∫
+ 
+ 
+ 
+and since along this path, y = 0, that means WOA = 0. 
+ 
+ 
+In the next part of its path,
+ 
+WAC =
+dyˆj⋅2yˆi + x2ˆj
+(
+)
+0
+5.00 m
+∫
+=
+x2 dy
+0
+5.00 m
+∫
+ 
+ 
+ 
+For x = 5.00 m, WAC = 125 J 
+ 
+ 
+and WOAC = 0 + 125 = 125 J . 
+ 
+(b) Following the same steps,
+ 
+WOB =
+dyˆj⋅2yˆi + x2ˆj
+(
+)
+0
+5.00 m
+∫
+=
+x2 dy
+0
+5.00 m
+∫
+ 
+ 
+ 
+Since along this path, x = 0, that means WOB = 0. 
+ 
+ 
+ 
+WBC =
+dxˆi ⋅2yˆi + x2ˆj
+(
+)
+0
+5.00 m
+∫
+=
+2ydx
+0
+5.00 m
+∫
+ 
+ 
+ 
+Since y = 5.00 m, WBC = 50.0 J. 
+ 
+ 
+ 
+WOAC = 0 + 125 = 125 J 
+ 
+(c) 
+WOC =
+dxˆi + dyˆj
+(
+)⋅2yˆi + x2ˆj
+(
+)
+∫
+=
+2ydx + x2dy
+(
+)
+∫
+ 
+ 
+ 
+Since x = y along OC, WOC =
+2x + x2
+(
+)dx
+0
+5.00 m
+∫
+= 66.7 J 
+ 
+(d) 
+F is nonconservative. 
+ 
+(e) 
+The work done on the particle depends on the path followed
+by the particle.
+ 
+P7.46 
+Along each step of motion, to overcome friction you must push with a 
+force of 3.00 N in the direction of travel along the path, so in the 
+expression for work, cosθ = cos0° = 1. 
+ 
+(a) 
+W = 3.00 N
+(
+) 5.00 m
+(
+) 1( )+ 3.00 N
+(
+) 5.00 m
+(
+) 1( ) = 30.0 J
+
+--- PAGE 26 ---
+358     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The distance CO is (5.00
+2 + 5.00
+2)
+1/2 m = 7.07 m 
+ 
+ 
+W = 3.00 N
+(
+) 5.00 m
+(
+) 1( )+ 3.00 N
+(
+) 5.00 m
+(
+) 1( )
+                                                     + 3.00 N
+(
+) 7.07 m
+(
+) 1( ) = 51.2 J
+ 
+ 
+(c) 
+W = 3.00 N
+(
+) 7.07 m
+(
+) 1( )+ 3.00 N
+(
+) 7.07 m
+(
+) 1( ) = 42.4 J 
+ 
+(d) 
+Friction is a nonconservative force. 
+ 
+ 
+ 
+Section 7.8 
+Relationship Between Conservative Forces and  
+Potential Energy 
+P7.47 
+We use the relation of force to potential energy as the force is the 
+negative derivative of the potential energy with respect to distance: 
+ 
+  
+ 
+U(r) = A
+r
+ 
+ 
+ 
+ 
+Fr = −∂U
+∂r = −d
+dr
+A
+r
+⎛
+⎝⎜
+⎞
+⎠⎟=
+A
+r2
+ 
+ 
+If A is positive, the positive value of radial force indicates a force of 
+repulsion. 
+P7.48 
+We need to be very careful in identifying internal and external work 
+on the book-Earth system. The first 20.0 J, done by the librarian on the 
+system, is external work, so the system now contains an additional  
+20.0 J compared to the initial configuration. When the book falls and 
+the system returns to the initial configuration, the 20.0 J of work done 
+by the gravitational force from the Earth is internal work. This work 
+only transforms the gravitational potential energy of the system to 
+kinetic energy. It does not add more energy to the system. Therefore, 
+the book hits the ground with 20.0 J of kinetic energy. The book-Earth 
+system now has zero gravitational potential energy, for a total energy 
+of 20.0 J, which is the energy put into the system by the librarian. 
+P7.49 
+Fx = −∂U
+∂x = −
+∂3x3y −7x
+(
+)
+∂x
+= −9x2y −7
+(
+) = 7 −9x2y 
+ 
+Fy = −∂U
+∂y = −
+∂3x3y −7x
+(
+)
+∂y
+= −3x3 −0
+(
+) = −3x3
+
+--- PAGE 27 ---
+Chapter 7     359 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, the force acting at the point (x, y) is  
+ 
+ 
+ 
+
+F = Fxˆi + Fyˆj =
+7 −9x2y
+(
+)ˆi −3x3ˆj
+ 
+P7.50 
+(a) 
+We use Equation 7.27 relating the potential energy of the system 
+to the conservative force acting on the particle, with Ui = 0: 
+ 
+ 
+ 
+U = U f −Ui = U f −0
+= −
+−Ax + Bx2
+(
+)dx
+0
+x
+∫
+= A x2
+2 −B x3
+3
+0
+x
+= Ax2
+2
+−Bx3
+3
+ 
+ 
+(b) From (a), U(2.00 m) = 2A – 2.67B, and U(3.00 m) = 4.5A – 9B. 
+ 
+ 
+ 
+ΔU = 4.5A −9B
+(
+) −2A −2.67B
+(
+) = 2.5A −6.33B 
+ 
+(c) 
+If we consider the particle alone as a system, the change in its 
+kinetic energy is the work done by the force on the particle:  
+W = ΔK. For the entire system of which this particle is a member, 
+this work is internal work and equal to the negative of the change 
+in potential energy of the system:  
+ 
+ 
+ 
+ΔK = −ΔU = −2.5A + 6.33B 
+P7.51 
+(a) 
+For a particle moving along the x axis, the definition of work by a 
+variable force is 
+ 
+ 
+ 
+ 
+WF =
+Fxdx
+xi
+xf∫
+ 
+ 
+ 
+ 
+Here  Fx = (2x + 4) N, xi = 1.00 m, and xf = 5.00 m. 
+ 
+ 
+ 
+So  
+ 
+ 
+ 
+ 
+WF =
+(2x + 4)
+1.00 m
+5.00 m
+∫
+dx N ⋅m = x2 + 4x]1.00 m
+5.00 m N ⋅m
+= 52 + 20 −1−4
+(
+) J = 40.0 J
+ 
+ 
+(b) The change in potential energy of the system is the negative of the 
+internal work done by the conservative force on the particle: 
+ΔU = −Wint = −40.0 J 
+ 
+(c) 
+From ΔK = K f −mv1
+2
+2 , we obtain
+ 
+ 
+  
+ 
+ 
+K f = ΔK + mv1
+2
+2
+= 40.0 J + 5.00 kg
+(
+) 3.00 m/s
+(
+)
+2
+2
+= 62.5 J
+
+--- PAGE 28 ---
+360     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 7.9 
+Energy Diagrams and Equilibrium of a System 
+P7.52 
+(a) 
+Fx is zero at points A, C, and E; Fx is positive at point B and
+negative at point D.
+ 
+ 
+(b) 
+A and E are unstable, 
+and C is stable.
+ 
+ 
+(c) 
+ANS. FIG. P7.52 shows the curve for 
+Fx vs. x for this problem. 
+ 
+ 
+P7.53 
+The figure below shows the three 
+equilibrium configurations for a right 
+circular cone. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Problems 
+P7.54 
+(a) 
+
+F = −d
+dx −x3 + 2x2 + 3x
+(
+)ˆi
+=
+3x2 −4x −3
+(
+)ˆi
+ 
+ 
+(b) F = 0 when 
+ 
+ 
+x = 1.87 and – 0.535 . 
+ 
+(c) 
+The stable point is at x = –0.535, 
+point of minimum U(x). 
+ 
+ 
+The unstable point is at 
+ 
+x = 1.87, maximum in U(x). 
+ANS. FIG. P7.53 
+ANS. FIG. P7.52 
+ANS. FIG. P7.54
+
+--- PAGE 29 ---
+Chapter 7     361 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.55 
+Initially, the ball’s velocity is 
+ 
+ 
+v = (40.0 m/s) cos 30.0°ˆi + (40.0 m/s) sin 30.0°ˆj 
+ 
+At its apex, the ball’s velocity is  
+ 
+ 
+v = (40.0 m/s) cos 30.0°ˆi + 0ˆj = (34.6 m/s)ˆi 
+ 
+The ball’s kinetic energy of the ball at this point is 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 (0.150 kg)(34.6 m/s)2 = 90.0 J 
+P7.56 
+We evaluate 
+375dx
+x3 + 3.75x
+12.8
+23.7
+∫
+ by calculating 
+ 
+375(0.100)
+(12.8)3 + 3.75(12.8) +
+375(0.100)
+(12.9)3 + 3.75(12.9)
+                                               +…
+375(0.100)
+(23.6)3 + 3.75(23.6) = 0.806
+ 
+ 
+and 
+ 
+375(0.100)
+(12.9)3 + 3.75(12.9) +
+375(0.100)
+(13.0)3 + 3.75(13.0)
+                                               +…
+375(0.100)
+(23.7)3 + 3.75(23.7) = 0.791
+ 
+ 
+The answer must be between these two values. We may find it more 
+precisely by using a value for Δx smaller than 0.100. Thus, we find the 
+integral to be 0.799 N ⋅m . 
+P7.57 
+(a) 
+The equivalent spring constant for the stel balls is 
+ 
+ 
+ 
+k = F
+x = 16 000 N
+0.000 2 m = 8 × 107 N/m
+ 
+ 
+(b) 
+A time interval . If the interaction occupied no time, the force 
+exerted by each ball on the other could be infinite, and that cannot 
+happen. 
+ 
+(c) 
+We assume that steel has the density of its main constituent, iron, 
+shown in Table 14.1. Then its mass is  
+ 
+ 
+ 
+ρV = ρ 4
+3
+⎛
+⎝⎜
+⎞
+⎠⎟πr3 =
+4π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟7 860 kg/m3
+(
+) 0.025 4 m/2
+(
+)
+3
+= 0.067 4 kg
+  
+ 
+ 
+its kinetic energy is then
+
+--- PAGE 30 ---
+362     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P7.59 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 0.067 4 kg
+(
+) 5 m/s
+(
+)
+2 = 0.8 J
+  
+ 
+(d) Imagine one ball running into an infinitely hard wall and 
+bouncing off elastically. The original kinetic energy becomes 
+elastic potential energy 
+ 
+ 
+ 
+0.843 J = (1/2) (8 × 107 N/m) x2
+x = 0.145 mm ≈0.15mm 
+ 
+(e) 
+The ball does not really stop with constant acceleration, but 
+imagine it moving 0.145 mm forward with average speed  
+(5 m/s + 0)/2 = 2.5 m/s. The time interval over which it stops is 
+then  
+ 
+ 
+ 
+0.145 mm/(2.5 m/s) = 6 × 10−5 s ≈10−4 s 
+P7.58 
+The work done by the applied force is 
+ 
+ 
+ 
+W =
+Fapplieddx
+i
+f
+∫
+=
+−−k1x + k2x2
+(
+)
+⎡⎣
+⎤⎦dx
+0
+xmax
+∫
+=
+k1x dx
+0
+xmax
+∫
++
+k2x2dx
+0
+xmax
+∫
+= k1
+x2
+2
+0
+xmax
++ k2
+x3
+3
+0
+xmax
+= k1
+xmax
+2
+2
++ k2
+xmax
+3
+3
+ 
+P7.59 
+Compare an initial picture of the  
+rolling car with a final picture with  
+both springs compressed. From 
+conservation of energy, we have  
+ 
+ 
+Ki + ∑W = K f 
+ 
+Work by both springs changes the car’s 
+kinetic energy. 
+ 
+ 
+Ki + 1
+2 k1 x1i
+2 −x1 f
+2
+(
+)
+           + 1
+2 k2 x2i
+2 −x2 f
+2
+(
+) = K f
+ 
+ 
+Substituting, 
+ 
+ 
+1
+2 mvi
+2 + 0 −1
+2 (1600 N/m)(0.500 m)2
+       + 0 −1
+2 (3 400 N/m)(0.200 m)2 = 0
+ 
+ 
+Which gives
+
+--- PAGE 31 ---
+Chapter 7     363 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+1
+2 (6 000 kg)vi
+2 −200 J −68.0 J = 0
+ 
+ 
+Solving for vi, 
+ 
+ 
+vi =
+2(268 J)
+6 000 kg = 0.299 m/s
+ 
+P7.60 
+Apply the work-energy theorem to the ball. The spring is initially 
+compressed by xsp,i = d = 5.00 cm. After the ball is released from rest, 
+the spring pushes the ball up the incline the distance d, doing positive 
+work on the ball, and gravity does negative work on the ball as it 
+travels up the incline a distance Δx from its starting point. Solve for 
+Δx. 
+ 
+ 
+ 
+Ki + Ws + Wg = K f
+1
+2 mvi
+2 +
+1
+2 kxsp,i
+2
+−1
+2 kxsp, f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−mgΔ xsinθ = 1
+2 mv f
+2
+0 +
+1
+2 kd2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟−mgΔ xsin10.0° = 0
+ 
+ 
+ 
+ 
+Δx =
+kd2
+2mgsin 10.0° = (1.20 N/cm)(5.00 cm)(0.0500 m)
+2(0.100 kg) 9.80 m/s2
+(
+)sin 10.0°
+= 0.881 m
+ 
+ 
+Thus, the ball travels up the incline a distance of 0.881 m after it is 
+released. 
+ 
+Applying the work-kinetic energy theorem to the ball, one finds
+that it momentarily comes to rest at a distance up the incline of
+only 0.881 m.  This distance is much smaller than the height of a
+professional basketball player, so the ball will not reach the upper
+end of the incline to be put into play in the machine. The ball will
+simply stop momentarily and roll back to the spring; not an exciting
+entertainment for any casino visitor!
+ 
+P7.61 
+(a) 
+
+F1 = (25.0 N) cos35.0°ˆi + sin35.0°ˆj
+(
+) =
+20.5ˆi + 14.3ˆj
+(
+) N 
+ 
+ 
+
+F2 = (42.0 N) cos150°ˆi + sin150°ˆj
+(
+) =
+−36.4ˆi + 21.0ˆj
+(
+) N
+ 
+ 
+(b) 
+
+F
+∑
+=
+
+F1 +
+
+F2 =
+−15.9ˆi + 35.3ˆj
+(
+) N
+
+--- PAGE 32 ---
+364     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+a =
+
+F
+∑
+m =
+−3.18ˆi + 7.07ˆj
+(
+) m/s2 
+ 
+(d) 
+v f = vi + at = 4.00ˆi + 2.50ˆj
+(
+) m/s + −3.18ˆi + 7.07ˆj
+(
+) m/s2
+(
+)(3.00 s) 
+ 
+ 
+v f =
+−5.54ˆi + 23.7ˆj
+(
+) m/s
+ 
+ 
+(e) 
+rf = ri + vit + 1
+2
+at 2 
+ 
+ 
+rf = 0 + 4.00ˆi + 2.50ˆj
+(
+)(m/s)(3.00 s)
+               + 1
+2 −3.18ˆi + 7.07ˆj
+(
+) m/s2
+(
+)(3.00 s)2
+Δr = rf =
+−2.30ˆi + 39.3ˆj
+(
+) m
+ 
+ 
+(f) 
+K f = 1
+2 mvf
+2 = 1
+2 (5.00 kg)
+5.54
+(
+)
+2 + 23.7
+(
+)
+2
+⎡⎣
+⎤⎦m/s2
+(
+) = 1.48 kJ 
+ 
+(g) 
+K f = 1
+2 mvi
+2 +
+
+F ⋅Δr
+∑
+ 
+ 
+ 
+K f = 1
+2 (5.00 kg) (4.00)2 + (2.50)2
+⎡⎣
+⎤⎦m/s
+(
+)
+2
+                     + (−15.9 N)(−2.30 m) + (35.3 N)(39.3 m)
+[
+]
+K f = 55.6 J + 1 426 J = 1.48 kJ
+ 
+ 
+(h) 
+The work-kinetic energy theorem is consistent with Newton’s
+second law, used in deriving it.
+ 
+P7.62 
+(a) 
+We write 
+ 
+ 
+ 
+F = ax
+b 
+ 
+ 
+ 
+1 000 N = a(0.129 m)
+b 
+ 
+ 
+ 
+5 000 N = a(0.315 m)
+b 
+ 
+ 
+Dividing the two equations gives 
+ 
+ 
+ 
+5 =
+0.315
+0.129
+⎛
+⎝⎜
+⎞
+⎠⎟
+b
+= 2.44b
+ln5 = bln2.44
+
+--- PAGE 33 ---
+Chapter 7     365 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+b =
+ln5
+ln2.44 = 1.80
+a =
+1 000 N
+0.129 m
+(
+)
+1.80 = 4.01× 104 N/m1.8
+ 
+ 
+(b) 
+W =
+Fapplied dx
+i
+f
+∫
+=
+axb dx
+0
+x
+∫
+= axb+1
+b + 1 0
+x
+= axb+1
+b + 1 −0 = axb+1
+b + 1 
+ 
+ 
+W = (4.01× 104 N/m1.8)x2.8
+2.80
+ 
+ 
+ 
+For x = 0.250 m, 
+ 
+ 
+ 
+W = (4.01× 104 N/m1.8)(0.250 m)2.8
+2.80
+= (4.01× 104 N/m1.8)(0.250)2.8(m2.8)
+2.80
+ 
+ 
+ 
+ 
+W = (4.01× 104 N ⋅m)(0.250)2.8
+2.80
+= 295 J
+ 
+P7.63 
+The component of the weight force parallel to the incline, mg sin θ, 
+accelerates the block down the incline through a distance d until it 
+encounters the spring, after which the spring force, pushing up the 
+incline, opposes the weight force and slows the block through a 
+distance x until the block eventually is brought to a momentary stop. 
+The weight force does positive work on the block as it slides down the 
+incline through total distance (d + x), and the spring force does 
+negative work on the block as it slides through distance x. The normal 
+force does no work. Applying the work-energy theorem, 
+ 
+ 
+ 
+K i + Wg + Ws = K f
+1
+2 mvi
+2 + mgsinθ(d + x) +
+1
+2 kxsp, i
+2
+−1
+2 kxsp,f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 mvf
+2
+1
+2 mv2 + mgsinθ(d + x) + 0 −1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+ 
+ 
+Dividing by m, we have 
+ 
+ 
+ 
+1
+2 v2 + gsinθ(d + x) −k
+2m x2 = 0  →
+k
+2m x2 −(gsinθ)x −v2
+2 + (gsinθ)d
+⎡
+⎣⎢
+⎤
+⎦⎥= 0
+
+--- PAGE 34 ---
+366     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for x, we have 
+ 
+ 
+ 
+x =
+gsinθ ±
+(gsinθ)2 −4
+k
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟−v2
+2 + (gsinθ)d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+k
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+x =
+gsinθ ±
+(gsinθ)2 +
+k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v2 + 2(gsinθ)d
+⎡⎣
+⎤⎦
+k m
+ 
+ 
+Because distance x must be positive, 
+ 
+ 
+ 
+x =
+gsinθ +
+(gsinθ)2 +
+k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v2 + 2(gsinθ)d
+⎡⎣
+⎤⎦
+k m
+ 
+ 
+For v = 0.750 m/s, k = 500 N/m, m = 2.50 kg, θ = 20.0°, and g =  
+9.80 m/s
+2, we have gsin θ = (9.80 m/s2) sin 20.0° = 3.35 m/s2 and k/m  
+= (500 N/m)/(2.50 kg) = 200 N/m . kg. Suppressing units, we have  
+ 
+ 
+ 
+x =
+3.35 +
+(3.35)2 + 200
+(
+) (0.750)2 + 2(3.35)(0.300)
+⎡⎣
+⎤⎦
+200
+= 0.131 m
+ 
+P7.64 
+The component of the weight force parallel to the incline, mgsin θ, 
+accelerates the block down the incline through a distance d until it 
+encounters the spring, after which the spring force, pushing up the 
+incline, opposes the weight force and slows the block through a 
+distance x until the block eventually is brought to a momentary stop. 
+The weight force does positive work on the block as it slides down the 
+incline through total distance (d + x), and the spring force does 
+negative work on the block as it slides through distance x. The normal 
+force does no work. 
+ 
+Applying the work-energy theorem, 
+ 
+ 
+ 
+Ki + Wg + Ws = K f
+1
+2 mvi
+2 + mgsinθ(d + x) +
+1
+2 kxsp,i
+2
+−1
+2 kxsp,f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 mv f
+2
+ 
+ 
+ 
+ 
+1
+2 mv2 + mgsinθ(d + x) + 0 −1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+
+--- PAGE 35 ---
+Chapter 7     367 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Dividing by m, we have 
+ 
+ 
+ 
+1
+2 v2 + gsinθ(d + x) −k
+2m x2 = 0  →
+k
+2m x2 −(gsinθ)x −v2
+2 + (gsinθ)d
+⎡
+⎣⎢
+⎤
+⎦⎥= 0
+ 
+ 
+Solving for x, we have 
+ 
+ 
+ 
+x =
+gsinθ ±
+(gsinθ)2 −4
+k
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟−v2
+2 +(gsinθ)d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+k
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+x =
+gsinθ ±
+(gsinθ)2 +
+k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v2 + 2(gsinθ)d
+⎡⎣
+⎤⎦
+k m
+ 
+ 
+Because distance x must be positive, 
+ 
+ 
+ 
+x =
+gsinθ +
+(gsinθ)2 +
+k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v2 + 2(gsinθ)d
+⎡⎣
+⎤⎦
+k m
+ 
+P7.65 
+(a) 
+The potential energy of the system at point x is given by 5 plus 
+the negative of the work the force does as a particle feeling the 
+force is carried from x = 0 to location x. 
+ 
+ 
+ 
+ 
+dU = −Fdx
+dU = −
+8e−2x dx      
+0
+x∫
+5
+U∫
+U −5 = −
+8
+−2
+[
+]
+⎛
+⎝⎜
+⎞
+⎠⎟
+e−2x(−2dx)
+0
+x∫
+U = 5 −
+8
+−2
+[
+]
+⎛
+⎝⎜
+⎞
+⎠⎟e−2x
+0
+x = 5 + 4e−2x −4⋅1 = 1+ 4e−2x
+ 
+ 
+(b) 
+The force must be conservative because the work the force does
+on the object on which it acts depends only on the original and
+final positions of the object, not on the path between them.
+There is a uniquely defined potential energy for the associated
+force.
+
+--- PAGE 36 ---
+368     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P7.66 
+(a) 
+The new length of each spring is 
+x2 + L2 , so 
+its extension is 
+x2 + L2 −L and the force it 
+exerts is k
+x2 + L2 −L
+(
+) toward its fixed 
+end. The y components of the two spring 
+forces add to zero. Their x components (with 
+cosθ =
+x
+x
+2 + L
+2 ) add to 
+ 
+ 
+ 
+
+F = −2k
+x2 + L2 −L
+(
+)
+x
+x2 + L2
+ˆi
+= −2kx 1−
+L
+x2 + L2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi
+ 
+ 
+(b) Choose U = 0 at x = 0. Then at any point the potential energy of 
+the system is 
+ 
+ 
+ 
+U x
+( ) = −Fx dx
+0
+x
+∫
+= −
+−2kx +
+2kLx
+x2 + L2
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+0
+x
+∫
+= 2k xdx
+0
+x
+∫
+−2kL
+x
+x2 + L2 dx
+0
+x
+∫
+ 
+ 
+ 
+ 
+U x
+( ) =
+kx2 + 2kL L −
+x2 + L2
+(
+)
+ 
+ 
+(c) 
+U x
+( ) = 40.0 N/m
+(
+)x2 + 96.0 N
+(
+) 1.20 m −
+x2 + 1.44 m2
+(
+) 
+ 
+ 
+For negative x, U(x) has the same value as for positive x. The only 
+equilibrium point (i.e., where Fx = 0) is x = 0 . 
+ 
+ 
+ANS FIG. P7.66(c) 
+ANS. FIG. P7.66 
+x
+
+--- PAGE 37 ---
+Chapter 7     369 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) If we consider the particle alone as a system, the change in its 
+kinetic energy is the work done by the force of the springs on the 
+particle: W = ΔK. For the entire system of particle and springs, 
+this work is internal work and equal to the negative of the change 
+in potential energy of the system: ΔK = −ΔU. From part (c), we 
+evaluate U for x = 0.500 m: 
+ 
+ 
+ 
+U =  40.0 N/m
+(
+)(0.500 m)2 
+       +  96.0 N
+(
+) 1.20 m − 
+0.500 m
+(
+)
+2 + 1.44 m2
+(
+) 
+= 0.400 J
+ 
+ 
+ 
+Now find the speed of the particle: 
+ 
+ 
+ 
+1
+2 mv2 = −ΔU
+v = 
+−2ΔU
+m
+ = 
+−2
+1.18 kg (0 − 0.400 J) =  0.823 m/s
+ 
+P7.67 
+(a) 
+We assume the spring lies in the horizontal plane of the motion, 
+then the radius of the puck’s motion is r = L0 + x, where  
+L0 = 0.155 m is the unstretched length. The spring force causes the 
+puck’s centripetal acceleration: 
+ 
+ 
+ 
+F = mv2/r
+→
+kx = m 2πr/T
+(
+)
+2 /r
+→
+kT 2x = 4π 2mr 
+ 
+ 
+Substituting r = (L0 + x), we have 
+ 
+ 
+ 
+kT 2x = 4π 2m L0 + x
+(
+)
+kx =
+4π 2mL0
+(
+)
+T 2
++
+x 4π 2m
+(
+)
+T 2
+ 
+ 
+ 
+ 
+x k −4π 2m
+T 2
+⎛
+⎝⎜
+⎞
+⎠⎟= 4π 2mL0
+T 2
+x =
+4π 2mL0 T 2
+k −4π 2mL0 T 2
+ 
+ 
+ 
+For k = 4.30 N/m, L0 = 0.155 m, and T = 1.30 s, we have 
+ 
+ 
+ 
+x =
+4π 2m(0.155 m) (1.30 s)2
+4.30 N/m −4π 2m (1.30 s)2
+=
+3.62 m/s2
+(
+)m
+4.30 kg/s2 −23.36 s2
+(
+)m
+=
+(3.62 m)m
+4.30 kg −23.36
+(
+)m
+[
+]
+1 s2
+1 s2
+
+--- PAGE 38 ---
+370     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+x =
+(3.62 m)m
+4.30 kg −(23.4)m 
+ 
+(b) For m = 0.070 kg, 
+ 
+ 
+ 
+x =
+3.62 m
+(
+) 0.070 kg
+[
+]
+4.30 kg −23.36 0.070 kg
+(
+)
+= 0.095 1 m
+ 
+ 
+(c) 
+We double the puck mass and find 
+ 
+ 
+ 
+x =
+3.6208 m
+(
+) 0.140 kg
+[
+]
+4.30 kg −23.360 0.140 kg
+(
+)
+= 0.492 m
+ 
+ 
+ 
+more than twice as big! 
+ 
+(d) For m = 0.180 kg, 
+ 
+ 
+ 
+x =
+3.62 m
+(
+) 0.180 kg
+[
+]
+4.30 kg −23.36 0.180 kg
+(
+)
+= 0.652
+0.0952 m = 6.85 m
+ 
+ 
+ 
+We have to get a bigger table! 
+ 
+(e) 
+When the denominator of the fraction goes to zero, the extension 
+becomes infinite. This happens for 4.3 kg – 23.4 m = 0; that is for  
+m = 0.184 kg. For any larger mass, the spring cannot constrain the 
+motion. The situation is impossible. 
+ 
+(f) 
+The extension is directly proportional to m when m is only
+a few grams. Then it grows faster and faster, diverging to
+infinity for m = 0.184 kg.
+
+--- PAGE 39 ---
+Chapter 7     371 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P7.2 
+(a) 3.28 × 10
+−2 J; (b) −3.28 × 10
+−2 J 
+P7.4 
+1.56 × 10
+4 J 
+P7.6 
+method one: −4.70 × 10
+3 J; method two: −4.70 kJ 
+P7.8 
+28.9 
+P7.10 
+5.33 J 
+P7.12 
+(a) 11.3°; (b) 156°; (c) 82.3° 
+P7.14 
+(a) 24.0 J; (b) −3.00 J; (c) 21.0 J 
+P7.16 
+7.37 N/m 
+P7.18 
+(a) 1.13 kN/m; (b) 0.518 m = 51.8 cm 
+P7.20 
+(a) 2.04 × 10
+−2 m; (b) 720 N/m 
+P7.22 
+kg/s2 
+P7.24 
+(a) −1.23 m/s
+2, 0.616 m/s
+2; (b) −0.252 m/s
+2 if the force of static friction 
+is not too large, zero; (c) 0 
+P7.26 
+(a) See ANS FIG P7.26; (b) −12.0 J 
+P7.28 
+(a) 9.00 kJ; (b) 11.7 kJ; (c) The work is greater by 29.6% 
+P7.30 
+(a) 0.600 J; (b) −0.600 J; (c) 1.50 J 
+P7.32 
+(a) 29.2 N; (b) speed would increase; (c) crate would slow down and 
+come to rest. 
+P7.34 
+(a) 1.94 m/s; (b) 3.35 m/s; (c) 3.87 m/s 
+P7.36 
+(a) 3.78 × 10
+−16 J; (b) 1.35 × 10
+−14 N; (c) 1.48 × 10
++16 m/s
+2; (d) 1.94 × 10
+−9 s 
+P7.38 
+(a) Favg = 2.34 × 104 N , opposite to the direction of motion; (b) 1.91 × 
+10
+−4 s 
+P7.40 
+(a) UB = 0, 2.59 × 10
+5 J; (b) UA = 0, −2.59 × 10
+5 J, −2.59 × 10
+5 J 
+P7.42 
+(a) 800 J; (b) 107 J; (c) Ug = 0 
+P7.44 
+(a) 
+F ⋅rfi −ri
+(
+) , which depends only on end points, and not on the path; 
+(b) 35.0 J 
+P7.46 
+(a) 30.0 J; (b) 51.2 J; (c) 42.4 J; (d) Friction is a nonconservative force 
+P7.48 
+The book hits the ground with 20.0 J of kinetic energy. The book-Earth 
+now has zero gravitational potential energy, for a total energy of 20.0 J, 
+which is the energy put into the system by the librarian.
+
+--- PAGE 40 ---
+372     Energy of a System 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P7.50 
+(a) Ax2
+2
+−Bx3
+3
+; (b) ΔU = 4.5A −9B
+(
+) −2A −2.67B
+(
+) = 2.5A −6.33B ; 
+ 
+(c) ΔK = −ΔU = −2.5A + 6.33B 
+P7.52 
+(a) Fx is zero at points A, C, and E; Fx is positive at point B and negative 
+at point D; (b) A and E are unstable, and C is stable; (c) See ANS FIG 
+P7.52 
+P7.54 
+(a) 3x2 −4x −3
+(
+)ˆi ; (b) 1.87 and −0.535; (c) See ANS. FIG. P7.54 
+P7.56 
+0.799 N ⋅ m 
+P7.58 
+k1
+xmax
+2
+2
++ k2
+xmax
+3
+3
+ 
+P7.60 
+The ball will simply stop momentarily and roll back to the spring. 
+P7.62 
+(a) b = 1.80, a = 4.01 × 10
+4 N/m
+1.8; (b) 295 J 
+P7.64 
+x =
+gsinθ
+gsinθ
+(
+)
+2 +
+k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟v2 + 2(gsinθ)d
+⎡⎣
+⎤⎦
+k /m
+ 
+P7.66 
+(a) −2kx 1−
+L
+x2 + L2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi ; (b) kx2 + 2kL L −
+x2 + L2
+(
+); (c) See ANS. FIG. 
+P7.66(c), x = 0; (d) v = 0.823 m/s

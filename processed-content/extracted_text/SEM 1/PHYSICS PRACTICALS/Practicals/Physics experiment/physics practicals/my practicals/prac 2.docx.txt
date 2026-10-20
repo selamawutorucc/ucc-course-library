@@ -1,0 +1,43 @@
+25th September, 2009
+Title: AN EXPERIMENT TO VERIFY NEWTON’S LAW OF COOLING FOR A LIQUID
+Aim: To Verify Newton’s Law of Cooling for Water
+Apparatus: Small calorimeter, thermometer (0-100), another thermometer held in stand and clamped, watch, beaker and a burner.
+Diagram:
+Theory: Newton’s law of cooling states that for a small difference in temperature between a body and the surrounding the rate gain or loss of heat by the body is proportional to the difference in temperature between the body and the surrounding. When the temperature difference between the heated object and the surrounding is great, the rate at which heat is loss is high. But as it gets closer to the surrounding, the rate at which heat is loss is minimal. At the point where the temperature difference is small, little amount of heat is loss in short time interval, resulting in a gentle slope towards the end of the graph. In the graph of temperature against time, a curve is expected. The slope of the curve at different points is expected to decrease from the beginning to the end.  
+	Mathematically
+Where:    is the temperature of the body
+ Is the temperature of the surrounding
+K is the constant (slope)
+Method: Water is heated in a beaker to 90. The calorimeter is filled with heated water to within centimetre of the top, with the thermometer and stirrer in position. The thermometer is clamped near the calorimeter to record the temperature of the surrounding. The cooling water was well stirred all the time and the temperature of was recorded at minute intervals down to 35. The temperature of the surrounding was recorded again at the end of the experiment. The resulted was recorded in tabular form.
+Observation:
+Temperature of surrounding=27
+Temperature of the surrounding=25
+Mean temperature of the surrounding =26
+
+Calculation
+Discussion:
+The temperature of the cooling water was taken at three minutes intervals. At the end of the first three minutes the temperature had reduced by 7 At the end of the 12th and 15th minutes the temperature had further reduced by 4. The temperature reduced continuously as it approached the temperature of the surrounding. The temperature change at the last two readings was 2 .The graph of temperature against time is a curve with the rate at which heat is loss reduces from the beginning of the experiment to the end as the temperature of the water gets to 35. 
+Errors:  Slashing of water during stirring.
+               Parallax errors when getting readings on the thermometer. 
+ Precautions: The calorimeter was made to stand on a bad conductor to prevent loss of heat by conduction.
+Conclusion: The aim of the experiment has been achieved.
+Time(t/min) | Temperature/
+0 | 90
+3 | 83
+6 | 78
+9 | 71
+12 | 67
+15 | 63
+18 | 59
+21 | 56
+24 | 53
+Time(t/min) | Temperature/
+27 | 50
+30 | 48
+33 | 45
+36 | 44
+39 | 42
+42 | 41
+45 | 38
+48 | 37
+51 | 35

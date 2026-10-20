@@ -1,0 +1,216 @@
+
+--- SLIDE 1 ---
+The Laws of Motion
+
+--- SLIDE 2 ---
+The Laws of Motion
+The description of an object in motion included its position, velocity, and acceleration.
+There was no consideration of what might influence that motion.
+Two main factors need to be addressed to answer questions about why the motion of an object will change.
+Forces acting on the object
+The mass of the object
+Dynamics studies the causes of motion.
+Will start with three basic laws of motion
+Formulated by Sir Isaac Newton	
+
+--- SLIDE 3 ---
+Sir Isaac Newton
+1642 – 1727
+Formulated basic laws of mechanics
+Discovered Law of Universal Gravitation
+Invented form of calculus
+Many observations dealing with light and optics
+
+--- SLIDE 4 ---
+Force
+Forces in everyday experience
+Push on an object to move it
+Throw or kick a ball
+Note: You may push on an object and not be able to move it
+Forces are what cause any change in the velocity of an object.
+Newton’s definition
+A force is that which causes an acceleration
+
+--- SLIDE 5 ---
+Classes of Forces
+Contact forces involve physical contact between two objects
+Examples a, b, c
+Field forces act through empty space
+No physical contact is required
+Examples d, e, f
+
+--- SLIDE 6 ---
+Fundamental Forces
+Gravitational force
+Between objects
+Electromagnetic forces
+Between electric charges
+Nuclear force
+Between subatomic particles
+Weak forces
+Arise in certain radioactive decay processes
+Note: These are all field forces.
+
+--- SLIDE 7 ---
+Newton’s First Law
+If an object does not interact with other objects, it is possible to identify a reference frame in which the object has zero acceleration.
+This is also called the law of inertia.
+It defines a special set of reference frames called inertial frames.
+We call this an inertial frame of reference.
+
+--- SLIDE 8 ---
+Inertial Frames
+Any reference frame that moves with constant velocity relative to an inertial frame is itself an inertial frame.
+If you accelerate relative to an object in an inertial frame, you are observing the object from a non-inertial reference frame.
+A reference frame that moves with constant velocity relative to the distant stars is the best approximation of an inertial frame.
+We can consider the Earth to be such an inertial frame, although it has a small centripetal acceleration associated with its motion.
+
+--- SLIDE 9 ---
+Newton’s First Law – Alternative Statement
+In the absence of external forces, when viewed from an inertial reference frame, an object at rest remains at rest and an object in motion continues in motion with a constant velocity.
+Newton’s First Law describes what happens in the absence of a force.
+Does not describe zero net force
+Also tells us that when no force acts on an object, the acceleration of the object is zero
+Can conclude that any isolated object is either at rest or moving at a constant velocity
+
+The First Law also allows the definition of force as that which causes a change in the motion of an object.
+
+--- SLIDE 10 ---
+Inertia and Mass
+The tendency of an object to resist any attempt to change its velocity is called inertia.
+
+Mass is that property of an object that specifies how much resistance an object exhibits to changes in its velocity. Appropriately, it is referred to as inertial mass
+
+Masses can be defined in terms of the accelerations produced by a given force acting on them:
+
+
+
+The magnitude of the acceleration experienced by an object is inversely proportional to its mass.
+
+--- SLIDE 11 ---
+More About Mass
+Mass is an inherent property of an object.
+Mass is independent of the object’s surroundings.
+Mass is independent of the method used to measure it.
+Mass is a scalar quantity.
+Obeys the rules of ordinary arithmetic
+The SI unit of mass is kg.
+
+
+--- SLIDE 12 ---
+Mass vs. Weight
+Mass and weight are two different quantities.
+Weight is equal to the magnitude of the gravitational force exerted on the object, i.e. W=mg.
+Weight will vary with location.
+
+--- SLIDE 13 ---
+Newton’s Second Law
+When viewed from an inertial reference frame, the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass.
+Force is the cause of changes in motion, as measured by the acceleration.
+Remember, an object can have motion in the absence of forces.
+Algebraically, 
+
+
+
+With a proportionality constant of 1 and speeds much lower than the speed of light.
+
+--- SLIDE 14 ---
+More About Newton’s Second Law
+           is the net force
+This is the vector sum of all the forces acting on the object.
+May also be called the total force, resultant force, or the unbalanced force.
+
+Newton’s Second Law can be expressed in terms of components:
+SFx = m ax
+SFy = m ay
+SFz = m az 
+
+Remember that ma is not a force.
+The sum of the forces is equated to this product of the mass of the object and its acceleration.
+
+--- SLIDE 15 ---
+Units of Force
+The SI unit of force is the newton (N).
+1 N = 1 kg·m / s2
+
+That is, one newton is the force that which causes 1 kg mass to accelerate at 1 m/ s2 
+
+
+
+--- SLIDE 16 ---
+Force of Friction
+
+--- SLIDE 17 ---
+Forces of Friction
+When an object is in motion on a surface or through a viscous medium, there will be a resistance to the motion.
+This is due to the interactions between the object and its environment.
+
+This resistance is called the force of friction.
+
+There are two types of friction: 
+-static friction  
+-kinetic friction
+
+--- SLIDE 18 ---
+Forces of Friction, cont’d.
+Friction is proportional to the normal force.
+fs = µs n and fk= µk n
+μ is the coefficient of friction
+These equations relate the magnitudes of the forces; they are not vector equations.
+For static friction, the equals sign is valid only at impeding motion, the surfaces are on the verge of slipping.
+Use the inequality for static friction if the surfaces are not on the verge of slipping.
+
+--- SLIDE 19 ---
+Forces of Friction, final
+The coefficient of friction depends on the nature of surfaces in contact.
+
+The force of static friction is generally greater than the force of kinetic friction.
+
+The direction of the frictional force is opposite the direction of motion and parallel to the surfaces in contact.
+
+The coefficients of friction are nearly independent of the area of contact.
+
+Note: The above statements are usually referred to as the laws of friction
+
+
+--- SLIDE 20 ---
+Static Friction
+Static friction acts to keep the object from moving.
+As long as the object is not moving, ƒs  = F
+If    increases, so does 
+If    decreases, so does 
+ƒs  µs n means Static Friction
+Remember, the equality holds when the surfaces are on the verge of slipping.
+
+--- SLIDE 21 ---
+Kinetic Friction
+The force of kinetic friction acts when the object is in motion.
+Although µk can vary with speed, we shall neglect any such variations.
+ƒk = µk n
+
+--- SLIDE 22 ---
+Explore Forces of Friction
+Vary the applied force
+Note the value of the frictional force
+Compare the values
+Note what happens when the can starts to move
+
+--- SLIDE 23 ---
+
+--- SLIDE 24 ---
+Newton’s Third Law
+If two objects interact, the force       exerted by object 1 on object 2 is equal in magnitude and opposite in direction to the force       exerted by object 2 on object 1.
+ 
+Note on notation:         is the force exerted by A on B.
+
+--- SLIDE 25 ---
+Newton’s Third Law, Alternative Statement
+The action force is equal in magnitude to the reaction force and opposite in direction.
+One of the forces is the action force, the other is the reaction force.
+It doesn’t matter which is considered the action and which the reaction.
+The action and reaction forces must act on different objects and be of the same type.
+
+--- SLIDE 26 ---
+Action-Reaction, Example
+The force       exerted by object 1 on object 2 is equal in magnitude and opposite in direction to        exerted by object 2 on object 1.
+

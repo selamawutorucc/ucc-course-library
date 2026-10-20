@@ -1,0 +1,72 @@
+TITLE:  MEASUREMENT OF LOW RESISTANCE
+AIM: To determine the resistance of some connecting cords of different lengths by plotting their current/ voltage characteristics
+APPARATUS:
+Heat conductivity rod, copper, heat conductivity rod aluminum, universal multimeter, measuring amplifier, Digital multimeter, Power supply 0-12 V DC/6V, 12 V AC, Connection box, Connecting cord , l= 100mm, yellow, Connecting cord, l=250mm red, Connecting cord, l= 250mm, blue, Connecting cord, l=500mm, red, Connecting cord, l=500mm, blue, Connecting cord l= 750mm, connecting cord, l=750mm, blue, Connecting cord l=2000mm yellow, Connecting cord
+DIAGRAM
+THEORY
+Resistivity of a metal conductor can be determined from the resistance R of the metal conductor and its dimensions. The resistance of a metal conductor is the ability of the conductor to inhibit the flow of current passing through it. From Ohm’s law which states that when a voltage (potential difference) ∆V is applied across the ends of a conductor, the current in the conductor is found to be proportional to the applied voltage. This law will hold if the temperature of the conductor is kept constant.
+The resistance of a piece of wire depends on its length, and its cross-sectional area, or thickness. The longer the wire is, the greater its resistance. If one wire is twice as long as a wire of identical diameter and material, the longer wire offers twice as much resistance as the shorter one. A thicker wire, however, has less resistance, because a thick wire offers more room for an electric current to pass through than a thin wire does. Scientists describe this relationship between resistance, length, and area by saying that resistance is proportional to length and inversely proportional to cross-sectional area. That is:
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V against I is a straight line through the origin with a slope equal to the resistance R.
+The resistivity of the conductor can therefore be determined since the resistance is directly proportional to the length and inversely proportional to the area.
+Where R is the resistance of the metal rod, ρ is its resistivity, l is the length of the rod and A is the cross-sectional area of the rod. Rearranging this equation to obtain resistivity gives the equation
+METHOD:
+One connecting cord, the power supply, and the ammeter in series were connected using the connecting box. The amplifier’s input was connected to the sockets of the connecting cord. The voltmeter was connected to the output of the amplifier. The voltage source was set to 12 V. The current was varied at constant intervals of 0.2A. The voltage drop across the cord was measured for each current selected. The experiment was repeated using the remaining cords provided. A graph of voltage against current was plotted on the same graph. The slope of the graph was determined for each.
+EXPECTED GRAPH:
+V/V
+I/A
+TABLE OF VALUES
+Settings of the amplifier: low drift, R=10⁴Ω
+Amplification: 103, Timer constant: 0 sec.
+Length of connecting cord = 36cm                         
+Length of connecting cord = 61cm
+Length of connecting cord = 86cm
+GRAPH
+A GRAPH OF VOLTAGE,V AGAINST CURRENT,I FOR 36cm , 61cm and 86cm 
+CONNECTING CORDS
+CALCULATIONS:
+From the graph, the resistance of the cords is equal to the slope.                                           
+For the connecting cord of length = 36cm
+m= 2.23 ; ρ=  2.23Ωm
+           For the connecting cord of length = 61cm
+m = 4.03 ; ρ= 4.03Ωm
+For the connecting cord of length =86cm
+m = 6.09 ; ρ= 6.09Ωm
+DISCUSSION
+The 36cm wire yielded a resistance of 2.23Ωm, the 61cm wire had a resistance of 4.03Ωm while the 81cm wire had a resistance of 6.09Ωm. From the initial relation 
+
+It is clear that Resistance is directly proportional to the length of a wire. Hence, the longer the connecting cord, the higher the resistance and the shorter the wire, the lower the resistance. This clearly accounts for the figures obtained above.
+CONCLUSION
+From the experiment performed and the data above, the slope of the graph of voltage against current gives Resistance. Also, the longer the connecting cord, the higher the resistance and the shorter the wire, the lower the resistance.
+SOURCE OF ERROR
+Errors might be due to overheating of the main power supply
+Errors might be due to faulty apparatus.
+PRECAUTIONS
+1. All connections were tightly connected to prevent a break in the continuity of the circuit.
+REFERENCES
+Raymond A.Serway, Jerry S.Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536.
+
+School of Medical Sciences
+        MED 112 General Physics II (Practical)
+Experiment 6
+
+
+Student number: SM/SMS/09/0048
+Date: Thursday 4th March 2010
+V/mV | I/A
+0.26 | 0.2
+0.71 | 0.4
+1.14 | 0.6
+1.59 | 0.8
+2.05 | 1.0
+V/mV | I/A
+0.62 | 0.2
+1.42 | 0.4
+2.26 | 0.6
+3.04 | 0.8
+3.84 | 1.0
+       V /mV | I  /A
+1.04 | 0.2
+2.26 | 0.4
+3.47 | 0.6
+4.67 | 0.8
+5.92 | 1.0

@@ -1,0 +1,64 @@
+TITLE: REFRACTION OF LIGHT
+AIM: To determine focal length of a converging lens
+APARATUS: Illuminated object, Screen, Converging lens, Optical bench, Lens holder, Metre rule.
+DIAGRAM
+THEORY
+Refraction of light can be defined as the change in direction as a result of the change  in the speed of a ray of light as it moves from one material to another causes the ray to deviate from its incident direction. Lenses used in optical instruments, such as eyeglasses, cameras and telescopes are made from materials that refract light. On the average, two types of lenses can be described. These are basically a converging lens and a diverging lens.
+A converging lens has a curved surface with a thickened centre contrary to a diverging lens. In a converging lens, rays that are near (paraxial rays) and parallel to it converge to a single point on the axis after emerging from the lens. This point is known as the focal point F of the lens and the distance between the focal point and the lens is the focal length, f.  A number of methods can be used to find the focal length of a converging lens. The method used in this experiment is the displacement method.
+l=u+v
+d=v-u
+Adding the above equations, we obtain:
+v=
+and subtracting, we obtain:
+u=
+When these two new equations are put into the lens formula:
+Making f the subject:
+f= 
+METHOD
+	Firstly, the approximate focal length, f was obtained by focusing the image of the trees outside the laboratory on to the screen. This value was recorded and 4f was calculated. The illuminated object and the screen were set at a distance of more than 4f apart and the separation l was measured carefully. By placing the lens near the screen, its position was adjusted until a sharp image was formed on the screen; this position was recorded as y. then the lens was moved away from the screen until at a second position x, a magnified image was formed on the screen and sharply focused. The difference between y and x was calculated and recorded as the displacement d. This experiment was repeated for four other values of l and the corresponding d values were recorded.
+RESULTS
+Focal length, f=15.0cm =0.15m
+TABLE OF VALUES PLOTTED ON GRAPH
+GRAPH
+CALCULATIONS
+From the theory, the focal length (f) of a converging lens is:
+f = .
+Comparing the above equation to the equation of a straight line, y=mx:
+y=                       x=l
+and therefore m (which is the slope)= 4f.
+From the graph plotted,slope, m=0.655m.
+Since slope, m=4f          4f=0.655m,      f=0.164m,      f=0.16m           f= 16.0cm
+DISCUSSION
+	In this experiment, a graph of (l2-d2)/m2 was plotted against l/m. A straight line was obtained and this showed that (l2-d2) was directly proportional to l. Therefore, as the values of (l2-d2) increased the corresponding values of l also increased. For instance for a length of 0.72 m, its corresponding value for (l2-d2) was 0.481 m2 and for 0.74 m the value obtained was 0.494 m2 .  The slope was determined to be 0.655 m and this was divided by four to obtain the focal length as 0.16 m (16.0 cm). Comparing this value to the focal length of 15.0 cm obtained for an object focused from infinity, there was a difference of just 1.0 cm. It can be concluded that the experiment carried out was fairly successful. The inability to get the same values in both cases could be primarily attributed to the fact that the decision as to whether an image was sharp enough was subjective. This introduced some inaccuracy into the experiment. 
+SOURCES OF ERROR
+Errors due to spherical aberration of the lens may have made it difficult to obtain sharp images. 
+Errors may be due to the fact that the lens was not made from a material which is highly transparent so not all paraxial rays from the object were brought to a single focus to produce an image of a single focal length.
+PRECAUTIONS
+It was ensured that the distance between the illuminated object and the screen was more than 4f before the lens was moved in order to ensure accuracy of results obtained.
+It was ensured that the illuminated object was bright in order to form clear images to avoid errors.
+It was ensured that parallax error was avoided by taking all the readings at the eye level when measurements were being taken from the metre rule.
+CONCLUSION
+The focal length of the converging lens was determined to be 16.0cm.            
+REFERENCE
+Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada. 
+Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. Pages 731-744
+
+School of Medical Sciences
+        MED 112 General Physics II (Practical)
+Experiment 7
+
+
+Student number: SM/SMS/09/0048
+Date: Thursday 4th March 2010
+Length (l/cm) | l2/cm2 | x/cm | y/cm | d=(x-y)/cm | d2/cm2 | (l2-d2)/cm2
+70.0 | 4900 | 41.8 | 26.5 | 15.3 | 234.09 | 4665.91
+72.0 | 5184 | 44.9 | 25.5 | 19.4 | 376.36 | 4807.64
+74.0 | 5476 | 47.8 | 24.6 | 23.2 | 538.24 | 4937.76
+76.0 | 5776 | 50.9 | 23.7 | 27.2 | 739.84 | 5036.16
+78.0 | 6084 | 53.0 | 23.4 | 29.6 | 876.16 | 5207.84
+l/m | (l2-d2)/m2
+0.70 | 0.467
+0.72 | 0.481
+0.74 | 0.494
+0.76 | 0.504
+0.78 | 0.521

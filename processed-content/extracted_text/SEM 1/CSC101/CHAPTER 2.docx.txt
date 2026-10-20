@@ -1,0 +1,123 @@
+INTRODUCTION TO COMPUTING
+CHAPTER 2: THE INTERNET
+______ is a worldwide collection of networks that connect millions of business, government agencies, educational institutions and individuals. (internet)
+Write the full meanings of the following;
+ARPA _____________ (Advanced Research Project Agency)
+ARPANET___________ (Advanced Research Project Agency Network)
+DSL______________ (Digital Subscriber Line)
+FTTP_____________ (Fiber To The Premises)
+Wi-Fi____________ (Wireless-Fidelity)
+IP address________ (Internet Protocol Address)
+GPS ________________________ (Global Positioning System)
+A small device that connects to the computer and enables additional features when attached is known as ___________(dongle)
+An internet service provider is sometimes called _____________(Internet Access Provider)
+A business that provides individuals and organizations access to the internet free or for a fee is _____________(Internet Service Provider)
+___________ is the amount of data that travels over a network.(bandwidth)
+The content that is stored on media or transmitted over a network is known as _________(data)
+Verizon wireless is an example of ______________(mobile service provider)
+A mobile service provider is sometimes called ____________(wireless data provider)
+An ISP that offers wireless internet access to computers and mobile devices is called___________(mobile service provider)
+The major carriers of network traffic are collectively known as _____________(internet backbone)
+A sequence of numbers that uniquely identifies the location of each computer device connected to the internet is known as ______________(internet protocol address)
+A text-based name that corresponds to the IP address of  a server that hosts a website is called a ______________(domain name)
+The suffix of a domain name is called ________________(top-level domain)
+The organization that controls TLDs is called_________(Internet Corporation for Assigned Names and Numbers ICANN)
+The ______________ is the method that the internet uses to store domain names and their corresponding IP address.(domain name system)
+A server on the internet that is usually associated with an ISP is known as ____________(DNS server)
+An electronic document on the web is called _____________(webpage)
+A collection of webpages is known as __________(web sites)
+A __________ is a computer that delivers requested webpages to your computer or mobile device. (web server)
+An application that enables users with an internet connection to access and view webpages on a computer or mobile device is known as _____________(browser)
+A browser retrieves a webpage using its _____________(web address)
+The text between the protocol and domain name is called ___________(host name)
+ ____________ is an application stored on a web server that you access through a browser.(web app)
+Web app hosts usually provide storage for users’ data and information on their servers known as ______________.(cloud storage)
+ A software that finds websites, webpages and other information related to a specific topic is called _________________(web search engine)
+Search engines require that you enter a word or phrase called _____________(search text)
+Depending on your search text, search engines may respond with numerous search results sometimes called ______(bits)
+A ____________ classifies webpages in an organized set of categories.(subject directories)
+A _______________ is a website that enables members to manage and share media.(media sharing site)
+A website that enables members to organize tags and share links to media and other online content is called a _______________(bookmarking site)
+A ________ is a short descriptive label that you assign to webpages, photos and other digital contents so that it is easier to locate at a later time.(tag)
+An informal website consisting of time-stamped articles or posts in a diary or journal format usually listed in reverse chronological order is known as____________(blog)
+The world wide collection of blogs is known as _____________(blogosphere)
+A _______________ allows users to publish short messages usually between 100 and 200 characters for others to read.(micro blog)
+A type of website that allows users to create, add, modify or delete the website is known as _____________(wiki)
+The process of transferring data in a continuous and even flow, which allows users to access and use a file while it is transferring is known as ______________(streaming)
+A website that offers a variety of internet services from a single convenient location is called a ____________(portal)
+A portal designed for internet-capable mobile devices is known as _____________(wireless portal)
+A website that allows users to collect and compile content from a variety of websites about a particular topic or theme is known as a ___________________(content aggregation website)
+A content aggregation website is sometimes called ___________________(Curation website)
+An application that combines text with media is called ______________(multimedia)
+A visual representation of non-text information is known as ______________(graphic)
+Write the following in full;
+BMP ____________(Bitmap)
+GIF ______________(Graphics Interchange Format)
+JPEG________________(Joint Photographic Experts Group)
+PNG _________________(Portal Network Graphics)
+TIFF _________________(Tagged Image File Format)
+PDF __________________(Portal Document Format)
+The use of computers to simulate real or imagined environment that appears as a three-dimensional (3-D) space is known as _____________(Virtual Reality)
+A program that extends the capability of a browser is called a _______________(Plug-In Or Add-On)
+A website or application that permits users to chat with others who are online at the same time is known as ______________(Chat Room)
+_______________ enables users to speak to other users via their internet connection.                        (Voice Over Internet Protocol)
+______________ is an internet standard that permits file uploading and/or downloading to and from other computers on the internet.(File Transfer Protocol)
+The process of transferring files from a computer or mobile device to a server on the internet is _________________(Uploading)
+A computer that allows users to upload or download files using FTP is known as _____________    (File Transfer Protocol Server)
+The code of acceptable behaviors users should follow while on the internet is known as ____________(Netiquette)
+The __________ web design approach adapts the layout of the website to fit the screen in which it is displayed.(Responsive)
+_____________ refers to internet communications in which both parties communicate at the same time.   (Real Time Instant Messaging)
+TRUE/FALSE DISCOVERING COMPUTERS (2016)
+No single person or government agency controls or owns the Internet. (TRUE)
+The W3C is responsible for maintaining all networks and content on the Internet. (TRUE)
+Users typically pay additional fees for mobile hot spot and tethering services. (TRUE)
+A gigabyte (GB) is the basic storage unit on a computer or mobile device and represents a single character. (FALSE)
+A dynamic webpage’s contents generate each time a user displays the page. (TRUE)
+Most browsers are available for download at no cost. (TRUE)
+Mobile apps sometimes have fewer features than a web app. (TRUE)
+A subject directory is software that finds websites, webpages, images, videos, maps, and other information related to a specific topic. (FALSE)
+When you post digital content online, it is a good idea to tag it so that it is easy to locate and organize. (TRUE)
+The term, blogosphere, refers to the worldwide collection of blogs. (TRUE)
+Tethering is the process of transferring data in a continuous and even flow, which allows users to access and use a file while it is transmitting. (FALSE)
+One way to protect yourself from identity theft online is to retain all your cookies in your browser. (FALSE)
+MULTIPLE CHOICE DISCOVERING COMPUTERS (2016)
+A(n) _____ is any computer that provides services and connections to other computers on a network. (56)
+host
+client
+FTP site
+subject directory
+A(n) _____ is a sequence of numbers that uniquely identifies the location of each computer or device connected to the Internet. (62)
+Internet backbone
+domain name
+IP address
+ccTLD
+You register a domain name through _____, which is an organization that sells and manages domain names. (63)
+a cybersquatter
+a registrar
+ICANN
+an ISP
+The _____ is the method the Internet uses to store domain names and their corresponding IP addresses. (64)
+domain name system (DNS)
+top-level domain (TLD)
+File Transfer Protocol (FTP)
+W3C
+One way to protect your identity while browsing is to use a(n) _____, which is another computer that screens all your incoming and outgoing messages. (66)
+password
+anonymous FTP
+phishing filter
+proxy server
+_____ is a set of rules that defines how webpages transfer on the Internet. (69)
+Top-level domain
+Hypertext Transfer Protocol
+IPv4
+Web 2.0
+A(n) _____ website contains factual material, such as libraries, encyclopedias, dictionaries, directories, guides, and other types of reference. (74)
+wikis and collaboration
+media sharing
+business
+informational and research
+A _____ is a website that offers a variety of Internet services from a single, convenient location. (82)
+LISTSERV
+microblog
+portal
+cache

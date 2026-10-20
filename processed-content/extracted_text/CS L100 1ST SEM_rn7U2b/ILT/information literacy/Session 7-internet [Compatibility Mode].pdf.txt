@@ -1,0 +1,218 @@
+
+--- PAGE 1 ---
+ILT 101
+College of Humanities and Legal Studies 
+Faculty of Arts
+Information Literacy  Skills Unit
+INFORMATION LITERACY SKILLS 
+Session 7: INTRODUCTION  TO THE 
+INTERNET
+
+--- PAGE 2 ---
+Session  Objectives
+At the end of the session, students would be able 
+to: 
+• Have basic appreciation of what constitute the 
+Internet
+Internet
+• Understand the concept of the Computer 
+Networks
+• Known the modes of Accessing the Internet
+• Appreciate the Uses and Misuses of the 
+Internet
+©Information Literacy Unit, UCC
+
+--- PAGE 3 ---
+INTERNET
+– Definition: Simply; A global network of Computer
+Networks
+– The Internet is a large computer network that has
+connections to a vast number of computers all
+around the world.
+– It is not centrally controlled that is; no regulatory
+body,
+individual,
+company,
+institution
+or
+government controls the entire internet.
+– Owners of various parts of the networks maintain
+them.
+© Information Literacy Unit, UCC
+
+--- PAGE 4 ---
+COMPUTER NETWORKS
+• Computer networks are group of computers 
+connected to each other, so they can share 
+information and electronic equipment. 
+• Resources shared on computer networks include 
+hardware (printers, webcam, scanner, digital
+hardware (printers, webcam, scanner, digital 
+cameras, etc.),  software and data/ information. 
+• A computer network usually has a server  (host) 
+which controls other devices (clients) on the 
+network.
+© Information Literacy Unit, UCC
+
+--- PAGE 5 ---
+Types of Computer Networks
+• Local Area Network (LAN)
+• Wide Area Network (LAN)
+• Campus Area Network (CAN)
+• Metropolitan Area Network (MAN)
+Metropolitan Area Network (MAN)
+© Information Literacy Unit, UCC
+
+--- PAGE 6 ---
+INTERNET PROTOCOLS
+• A set of rules that help the different computer
+networks on the Internet to communicate without
+conflict.
+• The standard Internet communication protocols are
+p
+the Transmission Control Protocol (TCP) and the
+Internet Protocol (IP).
+© Information Literacy Unit, UCC
+
+--- PAGE 7 ---
+BRIEF HISTORY OF THE INTERNET
+•
+The Internet is a modern phenomenon which became popular from the latter
+part of 1960s (1969 to be specific).
+•
+The initial network; ARPANET involved four computer networks at four different
+locations designed by U.S. Defense Department's
+•
+The ARPANET was only used to communicate and designed with the purpose of
+having sustainable system that could not be destroyed.
+•
+Numerous modification to this network resulted in the development of the
+W
+ld Wid W b (
+) i 1989
+World Wide Web (www) in 1989 .
+•
+The www made the Internet interactive and also gave it a multimedia nature (i.e.
+possible to host text, sound and graphics).
+•
+In 1990, the Hypertext Transfer Protocol (http) was created to make possible to
+use international networks for web browsing.
+•
+In 1995, Ghana was among the first countries in Sub-Saharan Africa to have 
+Internet access through Network Computer Systems (NCS).
+© Information Literacy Unit, UCC
+
+--- PAGE 8 ---
+ACCESSING THE INTERNET
+•
+Broadly, connection to the Internet could be grouped into two;
+– Dial up and Broadband Access
+Dial-up
+Refers to the Connection of a Personal Computer to the Internet 
+using dial-up modem. 
+With the dial up connection the digital signal from the 
+computer sending the data is converted analog signals  by the 
+modem and made to go through the phone lines into the ISP 
+network and later to the destination of the message.
+The dial up connection does not exceed a speed of 56 kbps.
+© Information Literacy Unit, UCC
+
+--- PAGE 9 ---
+DIAL-UP CONNECTION
+@Information Literacy Unit, UCC
+
+--- PAGE 10 ---
+BROADBAND CONNECTION
+• Refers collectively to faster  or high speed connections 
+to the internet.  The broadband is always on and doesn’t  
+require the client dialing into the service provider’s 
+network always. 
+• Though the most expensive option, it allows for faster
+Though the most expensive option, it allows for faster 
+Internet browsing and downloading of documents and 
+files.
+@Information Literacy Unit, UCC
+
+--- PAGE 11 ---
+TYPES OF BROADBAND CONNECTION
+• Digital Subscriber Line Connection (DSL) 
+• Satellite Modem Connection
+• Cable Modem Connection
+• Wireless Connection
+• Mobile Broadband
+•
+© Information Literacy Unit, UCC
+
+--- PAGE 12 ---
+BANDWIDTH
+• The speed and amount of data or information that is 
+transferred from one place to the other on the Internet. 
+•
+It  is measured in bits per second(bps).
+• The bigger the bandwidth size, the greater the volume of 
+information that could be transmitted at a time and so 
+the faster it
+ill be to mo e information from one place
+the faster it will be to move information  from one place 
+to the other on the Internet.  
+© Information Literacy Unit, UCC
+
+--- PAGE 13 ---
+BROWSERS
+• A browser is a software or a program that is  used to 
+navigate the Internet. 
+• Browsers could be grouped into two: graphic and text-
+based 
+• Eg. Graphic based: Mozilla Firefox, Microsoft Internet 
+Explorer, Safari, Flock,  Opera, Google Chrome, etc
+Eg. text-based; Lynx, Mosaic
+• Browsers could be used for communication and 
+retrieval of information
+• Without a browser you would not be able to access
+Internet
+© Information Literacy Unit, UCC
+
+--- PAGE 14 ---
+Basic User Features of a Web Browser 
+Interface
+Address bar
+Back 
+button
+Forward 
+button
+Stop 
+button
+Refresh/Reload  button
+Search bar
+
+--- PAGE 15 ---
+Uses of the Internet
+• Communication
+• Education and Research
+• E-commerce
+• Information Dissemination
+• Entertainment
+• Online Services
+@Information Literacy Unit, UCC
+
+--- PAGE 16 ---
+Misuse of the Internet
+• Pornography
+• Identity Theft/Fraud
+• Spamming
+• Computer Virus
+@Information Literacy Unit, UCC
+
+--- PAGE 17 ---
+Reading List
+A. Entsua-Mensah, C (Ed.)(2015). Information 
+literacy skills: A course book (Revised Edition). 
+Cape Coast: Library Publication Committee.
+B. Apte, S.D. (2015). Advanced digital signal 
+processing New Delhi Wiley India Private
+processing. New Delhi: Wiley India Private 
+Limited.
+C. Eisenberg,M.B., Lowe, C.A. & Spitzer, K.L.(2008). 
+Information literacy: An essential skills for the 
+information age. Ohio: Linworth Books
+@Information Literacy Unit, UCC

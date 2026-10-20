@@ -1,0 +1,61 @@
+ANIAKWO, LUKE ADAGRAH                                                                                                29/10/2009
+SM/SMS/09/0055
+GROUP 14
+EXPERIMENT 4
+MEASURING VISCOSITY USING THE FALLING BALL METHOD
+AIM
+To verify Stokes’ law which states that if a sphere of radius r and density σ moves with a velocity v in a fluid (this experiment used the fluid of glycerin) of viscosity η and of density ρ, therefore very small velocities, the resistance w of the sphere is .
+To determine the viscosity of a fluid (glycerin).
+APPARATUS
+Five metal balls, Stopwatch, Glycerin, Bath for thermostat, Falling ball viscometer and Micrometer screw gauge.
+DIAGRAM 
+THEORY
+If a sphere of radius r and density σ moves with velocity υ in a fluid of viscosity η and of density, then for very small velocities, the resistance W of the sphere is:
+        (Stokes’ law) 	(1).
+If the fluid is not of infinite extent, then, as an approximation,
+)     (referred to as Ladenburg correction.)
+if the liquid is in a cylindrical vessel of radius R and the height of the cylinder is
+The force which acts on the sphere in the gravitational field of the earth because of the density difference between the sphere and the fluid is
+,                        (2)  where  is the acceleration due to gravity. From (1) and (2) with W=F, it follows that  
+                          (3).   So a graph of r2 against v is plotted. Since the falling ball viscometer has an inclined plane with additional rotary motion of the ball, (3) applies only approximately, with a correction factor. For many liquids it is an exponential of the viscosity function of temperature
+                                        (4)
+The constant b in (4) is the activation energy for viscous flow.
+ can be explained as a Boltzmann factor, which states that the proportion of the molecules which have sufficient energy to overcome the barriers before the flow sets in.
+PROCEDURE
+The experiment was set up as is shown in the diagram above. The viscometer was filled with the liquid glycerin. A temperature of 350C was maintained through the experiment using the thermostat and bath for about 15minutes. The alloy balls given were weighed on the electronic balance to determine their masses. The diameter of the ball was taken thereafter with the use of a micrometer screw gauge. Readings were obtained on each of the three ball bearings. These readings were recorded as d/mm. the ball bearings were dropped down the internal cylinder of the viscometer that is through the glycerin, one after the other. For each drop, the time taken for the ball to cover a specified distance was recorded using a stopwatch.
+TABLE OF RESULTS
+A TABLE OF RADIUS, TIME AND VELOCITY OF METAL BALLS
+Mass of the bigger ball 14.886g
+CALCULATIONS 
+Also Volume of sphere, metal ball is equal to, V3 
+                                   = 4/3(3.1425(7.5725)3)
+                                               = 1.819m3 or 1818.89mm3. 
+Therefore Density of ball,  8.1810-3 g/mm3 or 8183.62Kg/m3.
+GRAPH
+Therefore, comparing the equation, y = -0.445x + 55.49 to the equation of a straight line y = mx + c implies that the gradient, M= -0.445mms2 and intercept, c= 55.49mm2. 
+            Where η= dynamic viscosity of fluid
+            g= acceleration due to gravity
+            r= radius of sphere
+            v= settling velocity of ball
+            σ= density of sphere
+            ρ= density of fluid
+The m= , it implies that,    =7.0586ms.
+DISCUSSION 
+   Viscosity refers to the degree of internal friction in a fluid. A highly viscous fluid is the one which possess high resistance on the motion of a body moving through it. Consider the equation proposed by Strokes, that is;
+Viscosity of a liquid is directly proportional to the square of the radius but inversely proportional to the velocity of the sphere through it.
+Hence from the experimental values obtained as the radius of the metal balls decreased the velocity in turn increased. It can therefore be deduced that as the size of the balls decreased the viscous drag on the balls also decreased and thus the smaller the size the smoother the travel of the ball in high velocity.
+SOURCES OF ERRORS
+Impurities in the glycerin may produce errors in reading.
+Air bubbles may still be present in the glycerin.
+Ball bearing may not be perfectly streamlined due to dents or scratches on them.
+PRECAUTIONS
+The metal ball was dropped gently to avoid the spilling of the glycerin.
+Errors due to parallax were avoided during the reading of the distance on the inner cylinder.
+CONCLUSION
+Within all experimental limits, Stoke’s law was found to be 7.0586ms. Therefore as the radius of a sphere increases the viscous drag on the ball also increases and vice versa.
+d₁/mm | d₂/mm | d = /mm | t/s | r =  /mm | r²/mm² | V = ) /mm/s
+15.15 | 15.14 | 15.145 | 31.34 | 7.5725 | 57.3428 | 1.4359
+13.87 | 13.92 | 13.895 | 3.34 | 6.9475 | 48.2678 | 13.4731
+11.79 | 11.76 | 11.775 | 1.00 | 5.8875 | 34.6627 | 45.0000
+10.50 | 10.93 | 10.715 | 0.82 | 5.3575 | 28.7028 | 54.8780
+7.52 | 7.78 | 7.650 | 0.47 | 3.8250 | 14.6306 | 95.7447

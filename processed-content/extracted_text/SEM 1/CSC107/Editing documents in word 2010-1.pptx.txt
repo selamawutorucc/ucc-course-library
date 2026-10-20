@@ -1,0 +1,603 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Insert Text in Word 2010
+ Microsoft Word provides two(2) ways to insert text in existing text. They are
+
+Insert and Add Text
+
+Insert and Replace Text
+
+--- SLIDE 6 ---
+Insert and Add Text
+ Step 1 
+
+To begin with, let us create some sample text. 
+
+To create a sample text, there is a short cut available.
+
+Open a new document and type =rand() and press Enter.
+
+--- SLIDE 7 ---
+Insert and Add Text
+
+Word will create the following content for you. 
+
+
+
+--- SLIDE 8 ---
+Insert and Add Text
+ Step 2 
+Click the location where you wish to insert text; 
+you can also use the keyboard arrows to locate the place where the text needs to be inserted.
+
+
+--- SLIDE 9 ---
+Insert and Add Text
+ Step 3 
+Start typing the text that needs to be inserted. 
+
+Word inserts the text to the left of the insertion point, moving the existing text to the right.
+
+
+--- SLIDE 10 ---
+Insert and Replace Text
+ Step 1 
+Right-click the status bar  
+select the Overtype option from the displayed menu.
+
+
+--- SLIDE 11 ---
+Insert and Replace Text
+ Step 1 
+When you select the Overtype option, the status bar will show the insert mode as shown below.
+
+
+--- SLIDE 12 ---
+Insert and Replace Text
+ Step 2 
+ Click on the Insert text available at the status bar and it will switch to the Overtype mode as shown below.
+
+
+--- SLIDE 13 ---
+Insert and Replace Text
+ Step 3 
+ Now click the location where the text needs to be inserted or you can use the keyboard arrows to locate the place where the text needs to be inserted.
+
+
+--- SLIDE 14 ---
+Insert and Replace Text
+ Step 4 
+ Start typing the text that needs to be inserted.
+Word will replace the existing text with the newly typed text without moving the position of the exiting test.
+
+
+--- SLIDE 15 ---
+Select Text in Word 2010
+
+Selecting a text is one of the most important skills required while editing a word document.
+
+You can perform various operations on a selected text; you can delete the selected text, copy it, move it, apply formatting to it, change its capitalization, etc.
+
+--- SLIDE 16 ---
+Select Text in Word 2010
+
+The most common method of selecting a text is to click and drag the mouse over the text you want to select. 
+
+The following table lists down a few other simple methods that will help you in selecting text in different scenarios −
+
+--- SLIDE 17 ---
+Select Text in Word 2010
+
+--- SLIDE 18 ---
+Select Text in Word 2010
+NOTE
+Note that only one part of the document can be in the selected state.
+
+If you have one portion of the document in selected state and as soon as you try to select any other part of the document, previous part will automatically be de-selected.
+
+--- SLIDE 19 ---
+Select Text Using the Keyboard
+
+Keyboard provides very good support when you want to select various components of the document as described in the following table
+
+--- SLIDE 20 ---
+Select Text Using the Keyboard
+
+--- SLIDE 21 ---
+Delete Text in Word 2010
+It is very common to delete text and retype the content in your Word document.
+
+You might type something you did not want to type or there is something extra which is not required in the document.
+
+Regardless of the reason, Word offers you various ways of deleting the text in partial or complete content of the document.
+
+--- SLIDE 22 ---
+Using Backspace & Delete Keys
+The most basic deletion technique is to delete characters one at a time by pressing either the backspace key or the delete key.
+
+The following table describes how you can delete single character or a whole word by using either of these two keys
+
+--- SLIDE 23 ---
+Using Backspace & Delete Keys
+
+--- SLIDE 24 ---
+Using Selection Method
+You have learnt how to select various parts of a Word document.
+
+You can make use of that learning to delete those selected parts as described in the following table
+
+--- SLIDE 25 ---
+Using Selection Method
+
+--- SLIDE 26 ---
+Using Selection Method
+
+--- SLIDE 27 ---
+Move Text in Word 2010
+ You can move text from one location in a document to another by using the drag-and-drop technique with the help of mouse. 
+
+This tutorial will teach you how to use the drag and drop technique to move text.
+
+--- SLIDE 28 ---
+Move within the same document
+Step 1  
+Select a portion of the text using any of the text selection methods.
+
+
+--- SLIDE 29 ---
+Move within the same document
+Step 2  
+Now take your mouse pointer over the selected text and hold the left button of the mouse and keep holding it while moving around the document.
+
+--- SLIDE 30 ---
+Move within the same document
+Step 3  
+Take your mouse pointer to the place where you want to move the selected text and release the mouse button. 
+
+You will see that the selected text is moved to the desired location.
+
+--- SLIDE 31 ---
+Move within the same document
+Step 3 
+ 
+
+--- SLIDE 32 ---
+Move within different documents
+Step 1  
+Open a new word document
+
+
+--- SLIDE 33 ---
+Move within different documents
+Step 2
+Keep both the documents opened and to ensure that both documents are visible, click the Arrange All button on the View tab on the Ribbon.
+
+
+--- SLIDE 34 ---
+Move within different documents
+Step 2
+This will display both the documents as shown below
+
+
+--- SLIDE 35 ---
+Move within different documents
+Step 3
+Now, select a portion of the text using any of the text selection methods.
+
+Step 4
+Take your mouse pointer over the selected text and hold the left button of the mouse and keep holding it while moving around the document.
+
+--- SLIDE 36 ---
+Move within different documents
+Step 5
+Take your mouse pointer at the place in the second document where you want to move the selected text and release the mouse button. 
+
+You will see that the selected text is moved to the desired location in the second document.
+
+--- SLIDE 37 ---
+Move within different documents
+Step 5
+
+
+--- SLIDE 38 ---
+Copy & Paste in Word 2010
+To use copy and paste or cut and paste operations, Word makes use of a temporary memory which is called the clipboard.
+
+When you copy or cut a text, it stay on the clipboard temporarily and in the second step you can paste this content at the desired location.
+
+--- SLIDE 39 ---
+Copy & Paste Operation
+The Copy operation will just copy the content from its original place and create a duplicate copy of the content at the desired location without deleting the text from it's the original location.
+
+The Following is the procedure to copy the content in word 
+
+--- SLIDE 40 ---
+Copy & Paste Operation
+Step 1 
+Select a portion of the text using any of the text selection methods.
+
+
+--- SLIDE 41 ---
+Copy & Paste Operation
+Step 2 
+You have various options available to copy the selected text in clipboard. 
+You can make use of any one of the options −
+Using Right-Click: When you right-click on the selected text, it will display the copy option, click this option to copy the selected content in clipboard.
+Using Ribbon Copy Button: After selecting text, you can use the copy button available at the ribbon to copy the selected content in clipboard.
+Using Ctrl + c Keys: After selecting a text, just press Ctrl + c keys to copy the selected content in clipboard.
+
+--- SLIDE 42 ---
+Copy & Paste Operation
+Step 2
+
+
+--- SLIDE 43 ---
+Copy & Paste Operation
+Step 3
+Finally click at the place where you want to copy the selected text and use either of these two simple options
+Using Ribbon Paste Button:  Just click the Paste button available at the ribbon to paste the copied content at the desired location.
+
+Using Ctrl + v Keys − This is simplest way of pasting the content. Just press Ctrl + v keys to paste the content at the new location.
+
+--- SLIDE 44 ---
+Copy & Paste Operation
+Step 3
+
+Note − You can repeat the Paste operation as many times as you like to paste the same content.
+
+--- SLIDE 45 ---
+Cut & Paste Operation
+The Cut operation will cut the content from its original place and move the content from its original location to a new desired location.
+
+The Following is the procedure to cut & paste the content in word
+
+--- SLIDE 46 ---
+Cut & Paste Operation
+Step 1 
+Select a portion of the text using any of the text selection methods.
+
+
+--- SLIDE 47 ---
+Cut & Paste Operation
+Step 2 
+Select a portion of the text using any of the text selection methods.
+
+Now, you have various options available to cut the selected text and put it in the clipboard. 
+
+You can make use of one of these options
+
+--- SLIDE 48 ---
+Cut & Paste Operation
+Step 2 
+Using Right-Click: If right-click on the selected portion of text, it will display cut option, just click this option to cut the selected content and keep it in clipboard.
+Using Ribbon Cut Button: After selecting a portion of text, you can use cut button available at the ribbon to cut the selected content and keep it in clipboard.
+ Using Ctrl + x Keys: After selecting a portion of text, just press Ctrl + x keys to cut the selected content and keep it in clipboard.
+
+--- SLIDE 49 ---
+Cut & Paste Operation
+Step 2 
+
+
+--- SLIDE 50 ---
+Cut & Paste Operation
+Step 3
+Finally, click at the place where you want to move the selected text and use either of these two simple options:
+Using Ribbon Paste Button − Just click the Paste button available at the ribbon to paste the content at the new location.
+
+Using Ctrl + v Keys − This is simplest way of pasting the content. Just press Ctrl + v keys to paste the content at the new location.
+
+
+--- SLIDE 51 ---
+Cut & Paste Operation
+Step 3
+
+Note − You can repeat the Paste operation as many times as you like to paste the same content.
+
+--- SLIDE 52 ---
+Copy, Cut & Paste in different documents
+
+You can use the same procedure that we discussed above to copy and paste or cut and paste content from one document to another document.
+
+just copy or cut the desired content from one document and go into another document where you want to paste the content and use mentioned step to paste the content.
+
+You can use the Alt + Tab keys to switch through the different documents and select the desired destination document.
+
+--- SLIDE 53 ---
+Find & Replace in Word 2010
+
+While working on editing a document you come across a situation very frequently when you want to search a particular word in your document.
+
+Many times you will be willing to replace this word with another word at a few or all the places throughout the document. 
+
+--- SLIDE 54 ---
+Find Command
+Step 1 
+ Type =rand() and press Enter; the following screen will appear.
+
+
+--- SLIDE 55 ---
+Find Command
+Step 2 
+Click the Find option in the Editing group on the Home tab or press Ctrl + F to launch the Navigation pane.
+
+
+--- SLIDE 56 ---
+Find Command
+Step 3 
+Enter a word which you want to search in the Search box 
+
+Word searches for the text you entered and displays the results in the navigation pane.
+
+and highlights the word in the document as in the following screenshot
+
+--- SLIDE 57 ---
+Find Command
+Step 3 
+
+
+--- SLIDE 58 ---
+Find & Replace Operation
+Step 1
+Click the Replace option in the Editing group on the Home tab or 
+press Ctrl + H to launch the Find and Replace dialog box shown.
+
+
+--- SLIDE 59 ---
+Find & Replace Operation
+Step 2
+Type a word which you want to search. 
+
+You can also replace the word using the Find and Replace dialog box as in the following screenshot.
+
+
+--- SLIDE 60 ---
+Find & Replace Operation
+Step 3
+Click the Replace button available on the Find and Replace dialog box and you will see the first occurrence of the searched word would be replaced with the replace with word.
+
+Clicking again on Replace button would replace next occurrence of the searched word.
+
+If you will click Replace All button then it would replace all the found words in one go
+
+--- SLIDE 61 ---
+Spell Check in Word 2010
+Microsoft Word provides a decent Spelling and Grammar Checker which enables you to search for and correct all spelling and grammar mistakes in your document.
+
+Word is intelligent enough to identify misspelled or misused, as well as grammar errors and underlines them as follows.
+
+    A red underline beneath spelling errors.
+    A green underline beneath grammar errors.
+    A blue line under correctly spelled but misused words.
+
+
+--- SLIDE 62 ---
+Check Spelling and Grammar using Review tab
+Step 1  
+Click the Review tab and then click the Spelling & Grammar button.
+
+
+--- SLIDE 63 ---
+Check Spelling and Grammar using Review tab
+Step 2 
+A Spelling and Grammar dialog box will appear and will display the wrong spellings or errors in grammar.
+
+
+
+--- SLIDE 64 ---
+Check Spelling and Grammar using Review tab
+Step 2 
+Now you have following options to fix the spelling mistakes
+
+Ignore: If you are willing to ignore a word, then click this button and Word ignores the word throughout the document.
+
+Ignore All: Like Ignore, but this ignores all occurrences of the same misspelling, not just once but throughout the document.
+
+Add to Dictionary: Choose Add to Dictionary to add the word to the Word spelling dictionary.
+
+--- SLIDE 65 ---
+Check Spelling and Grammar using Review tab
+Step 2 
+Now you have following options to fix the spelling mistakes
+
+Change: This will change the wrong word using the suggested correct word.
+
+Change All: Like Change, but this changes all occurrences of the same misspelling, not just once but throughout the document.
+
+AutoCorrect: If you select a suggestion, Word creates an AutoCorrect entry that automatically corrects this spelling error from now on.
+
+--- SLIDE 66 ---
+Check Spelling and Grammar using Review tab
+Step 2 
+The following are the different options in case you have grammatical mistake
+Next Sentence: You can click Next Sentence to direct the grammar checker to skip ahead to the next sentence.
+
+Explain: The grammar checker displays a description of the rule that caused the sentence to be flagged as a possible error.
+
+Options: This will open the Word Options dialog box to allow you to change the behavior of the grammar checker or spelling options.
+Undo: This will undo the last grammar changed.
+
+
+
+--- SLIDE 67 ---
+Check Spelling and Grammar using Review tab
+Step 3 
+Select one of the given suggestions you want to use and click the Change option to fix the spelling or grammar mistake and repeat the step to fix all the spelling or grammar mistake.
+
+--- SLIDE 68 ---
+Check Spelling and Grammar using Review tab
+Step 4 
+Word displays a dialog box when it finishes checking for spelling and grammar mistakes, finally Click OK.
+
+
+--- SLIDE 69 ---
+Check Spelling and Grammar using Right Click
+If you will right-click the mouse button over a misspelled word, then it will show you the correct suggestions and the above mentioned options to fix the spelling or grammar mistake. 
+
+
+--- SLIDE 70 ---
+Zoom In-Out in Word 2010
+Microsoft Word provides a functionality to apply zoom-in and zoom-out operations on a document.
+
+When we apply the zoom-in operation, it enlarges the size of text whereas applying the zoom-out operation reduces the size of text.
+
+A zoom operation just changes the size of the font on-screen without impacting any other attribute of the document.
+
+--- SLIDE 71 ---
+Zoom-in & Zoom-out using view tab
+Step 1 
+Click the View tab and then click the Zoom button as shown below.
+
+
+--- SLIDE 72 ---
+Zoom-in & Zoom-out using view tab
+Step 2 
+When you click the Zoom button, a Zoom dialog box will appear as shown below. 
+
+
+
+--- SLIDE 73 ---
+Zoom-in & Zoom-out using view tab
+Step 2 
+This will display the zoom options box to select a value to reduce or increase the size of the document on-screen. 
+
+By default, it will be 100%; you can select 200% to increase the size of the font or 75% to reduce the size of the font.
+Step 3
+Once you are done with selecting an option, click OK to apply the changes on the document.
+
+
+--- SLIDE 74 ---
+Zoom-in & Zoom-out using (+) and (-) Buttons
+The following screenshot shows two buttons Zoom-out which is the (-) button and Zoom-in which is the (+) button.
+
+
+--- SLIDE 75 ---
+Zoom-in & Zoom-out using (+) and (-) Buttons
+Step 1  
+Click the Zoom-out button, you will find that your document size will decrease by 10% each time you click the button. 
+
+Similar way, if you click on Zoom-in button your document size will increase by 10% each time you click the button.
+
+Try this simple operation with different values to see the difference. The above screenshot shows 140% zoom-in view of the document.
+
+--- SLIDE 76 ---
+Special Symbols in Word 2010
+
+Your keyboard may not have many characters available but you want to use those characters in your document; in such situations, you have the option to insert Special Symbols.
+
+If you find yourself using a particular symbol frequently, you can assign a keyboard shortcut to it.
+
+--- SLIDE 77 ---
+Insert Special Symbols
+Step 1 
+To insert a special symbol, bring your cursor at the place where you want to insert the symbol.
+
+Click the Insert tab. You will find two options under the symbol button (a) Equation and (b) Symbols.
+
+For now, we are going to understand the use of the Symbol button as shown below.
+
+--- SLIDE 78 ---
+Insert Special Symbols
+Step 1 
+
+
+--- SLIDE 79 ---
+Insert Special Symbols
+Step 2
+When you click the Symbol button, a small list of symbols will appear as shown below.
+
+
+--- SLIDE 80 ---
+Insert Special Symbols
+Step 3
+If you do not find the desired symbol in this small box, then you can click at the More Symbols option to have a wide range of symbols as shown below in the symbol dialog box.
+
+--- SLIDE 81 ---
+Assign Shortcut Key
+
+You can assign a keyboard shortcut to type any of the available symbol. 
+
+The following are the steps to assign Ctrl + Q key to insert the © symbol which is one of the available symbols in the special symbols list.
+
+
+
+--- SLIDE 82 ---
+Assign Shortcut Key
+Step 1 
+Assume you already have the following symbol dialog box opened.
+
+
+--- SLIDE 83 ---
+Assign Shortcut Key
+Step 2 
+Click the symbol for which a shortcut key needs to be assigned. 
+
+Now click Shortcut Key button which will display the following Customize Keyboard dialog box.
+
+--- SLIDE 84 ---
+Assign Shortcut Key
+Step 2 
+
+
+--- SLIDE 85 ---
+Assign Shortcut Key
+Step 3 
+Now type the selected shortcut key in the shortcut key box.
+
+You press Ctrl + Q and then click the Assign button to assign the shortcut key.
+
+Finally, use the Close button to close the dialog box.
+
+Now try to type Ctrl + Q using the keyboard directly and you will find that you are able to type © symbol without going into the symbol dialog box. 
+
+--- SLIDE 86 ---
+Undo Changes in Word 2010
+Microsoft word provides two important features called the Undo and the Repeat or Redo.
+
+The Undo feature is used to undo the previous action and the Repeat or Redo feature is used to repeat the previous action.
+
+For example, if you mistakenly delete text, you can use the Undo feature to recover it.
+
+In a similar way, if you delete a character and you want to delete more characters then you can use the Repeat operation.
+
+--- SLIDE 87 ---
+How to use Undo & Repeat operations
+You can access the Undo and Repeat buttons from the Quick Access toolbar.
+
+You should make a note that the Repeat button is also called Redo button and both the operations have the same meaning.
+
+
+--- SLIDE 88 ---
+How to use Undo & Repeat operations
+Step 1 
+Let us type some text in a blank document. Now click the Repeat (Redo) button and you will see that Word will repeat the same operation for you.
+
+
+--- SLIDE 89 ---
+How to use Undo & Repeat operations
+Step 2 
+Now to examine the undo operation, let us delete the last word operation character by character so that you have the following text remaining in the line.
+
+
+--- SLIDE 90 ---
+How to use Undo & Repeat operations
+Step 3 
+ Let us try to click the Undo button one by one. You will see that Word will recover all the deleted characters one by one after performing a few undo operations.
+
+
+--- SLIDE 91 ---
+Shortcuts to use Undo & Repeat operations
+
+--- SLIDE 92 ---
+
+--- SLIDE 93 ---
+THANK YOU

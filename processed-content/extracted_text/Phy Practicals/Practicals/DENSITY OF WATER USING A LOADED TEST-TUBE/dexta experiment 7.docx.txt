@@ -1,0 +1,47 @@
+SM/SMS/10/0005    						22ndOctober, 2010
+EXPERIMENT 7
+TITLE: Determination of density of a liquid using a loaded test-tube.
+AIM: To determine the density of a liquid using a loaded test-tube.
+APPARATUS:  A wide test-tube fitted with a mm scale (e.g. by inserting a strip of mm graph paper, marked at cm intervals from the bottom inside it), a deep beaker, sand, set of weights, vernier calipers, a liquid, stopwatch.
+DIAGRAM
+PROCEDURE: Enough sand was placed in a test-tube fitted with a mm scale  and made to float vertically in the liquid and the level (XO) at which it floated was noted. Weights were placed in the tube and in each case the reading X of the scale against the liquid level was noted and was made to oscillate vertically for 5 oscillations. This was repeated four times for the different weights and the various times were recorded. The external radius of the test-tube was determined by using the vernier calipers and four readings were taken. The periodic time T was obtained by dividing the time for oscillation by the number of oscillations. The value of g acceleration due to gravity was found. A graph of depth of immersion (d) = (X-XO) against additional load was drawn.
+THEORY: Density can be defined as the mass of a substance per unit volume of the substance in kg/m3 or g/cm3.If the radius of the test-tube is r cm and the mean depth of immersion in cm per g is n (where n is the slope of the depth of immersion against additional load). Then the volume of liquid displaced by the addition of 1gramme to the test-tube =πr2 n cm3. If the density of the liquid is ρ gcm-3, then the weight of the liquid displaced =πr2 n cm3.
+ Hence by Archimedes’ principle: πr2 n ρ= 1
+Then the density of the liquid ρ= gm cm-3
+TABLE OF RESULTS
+Xo= 13.8 cm 
+External radius =  = 16.7mm
+A Graph of Depth of Immersion/cm Against Load/g
+CALCULATION:
+From the theory, ρ=
+Slope (n) = 0.2 cm/g 
+ Radius (r) = 16.7mm = 1.67cm
+ρ= = 
+  = 
+ρ = 0.57 g/cm3
+From the table of results, when x= cm, T= 0.74s
+Using the relation T =    where l = x = 14.0cm=0.14m
+g=    
+g=  
+g=10.1 m/s2     
+DISCUSSION: From the experiment, the density was found to be 0.57 g/cm3. This value obtained is nearly the same as the actual density of water as the liquid used in the experiment. The acceleration due to gravity was also found to be 10.1 m/s2. The actual value of acceleration due to gravity is however 9.8m/s2. the difference in values of density and acceleration due to gravity was due to errors like external wind which affected the vertical oscillation, inaccurate reading taking from the vernier scale and expansion of the test tube as a result of heat transfer from handling.
+SOURCES OF ERROR:
+Error was due to wind that affected the vertical oscillations.
+Error was due to inaccurate readings taken from the vernier caliper
+Error as a result expansion of the test-tube due to heat transfer from handling. 
+PRECAUTIONS: 
+It was ensured that the test-tube did not touch the side of the beaker by placing it co-axially with the transparent vessel for accuracy.
+It was ensured that readings of x were taken in level with the meniscus of the water in the beaker.
+It was ensured that the depth of immersion h was repeated for each mass of lead shot.
+CONCLUSION: From the experiment, the density of the liquid used was found to be 0.57g/cm3. 
+REFERENCES 
+RAYMOND A.SERWAY, JERRY S.FAUGHN (2003); COLLEGE PHYSICS SIXTH (6TH) EDITION, PUBLISHED BY THOMSON LEARNING COMPANY, CANADA, PAGE 269-270.
+RAYMOND A SERWAY (1998), PRINCIPLES OF PHYSICS, SECOND (2ND) EDITION, HARCOURT COLLEGE PUBLISHERS, FORTH WORTH, U.S.A. PAGE 6.
+M.N. SRINIVASAN, S. BALASUBRAMANIAN: A TEXTBOOK OF PRACTICAL PHYSICS. 
+Weights | X/cm | d=(X- X0) | t1/s | t2/s | t3/s | t4/s | t5/s | tav/s | T= t/5
+1 | 14.0 | 0.2 | 3.71 | 3.37 | 3.77 | 3.88 | 3.88 | 3.72 | 0.74
+2 | 14.2 | 0.4 | 3.49 | 3.12 | 3.46 | 3.36 | 3.34 | 3.35 | 0.67
+3 | 14.4 | 0.6 | 3.52 | 3.52 | 3.36 | 3.33 | 3.31 | 3.41 | 0.68
+4 | 14.6 | 0.8 | 3.39 | 3.39 | 3.43 | 3.40 | 3.38 | 3.40 | 0.68
+5 | 14.8 | 1.0 | 3.37 | 3.27 | 3.36 | 3.30 | 3.32 | 3.32 | 0.66
+ |  |  |  |  |  |  |  |  | 

@@ -1,0 +1,502 @@
+
+--- PAGE 1 ---
+1  
+Physical Quantities and Dimensional Analysis 
+ 
+ 
+Physics explains the world around us by identifying meaningful relationships that characterize 
+nature—relationships which are evaluated in terms of physical quantities.  Generically, a “physical 
+quantity” is simply anything to which we can assign a precise numerical value, via some sort of 
+measurement.  Note, though, that the particular values taken by physical quantities are not what 
+matters most; we are interested in how the quantities are related to one another. 
+ 
+• Every measurable quantity has a unique “physical dimension” associated with it. 
+ 
+ “Physical dimension” does not have anything to do with spatial dimension—directions like 
+up/down, left/right or forwards/backwards; we are not talking about whether a quantity describes 
+something in “1D” versus “2D” or “3D”.  Instead: 
+ 
+• Physical dimension is a generic description of the kind of quantity being measured. 
+ 
+Physical dimension is an inherent and unvarying property for a given quantity.  A given quantity can 
+only ever have one specific physical dimension.  The converse, however, is not true: different 
+physical quantities can have the same physical dimension. 
+ 
+Examples: 
+• The height of a building, the diameter of a proton, the distance from the Earth to the Moon, 
+and the thickness of a piece of paper all involve a measurement of a length, L, of some kind.  
+They are all measured in different ways, and might have their values assigned using different 
+units, but they all share the common feature of being a kind of length. 
+ 
+• Time intervals, timestamps, or any other measurement characterizing duration, all share the 
+common feature of having a physical dimension of time, T.  You will never be able to assign 
+a value to a time coordinate using units of length—length and time are fundamentally 
+distinct and inequivalent physical dimensions. 
+ 
+When we talk about a quantity’s physical dimension, using symbols such as L for length, or T for 
+time, we are not using those symbols to represent an actual variable—we will not assign any 
+particular values or use any specific units for those symbols.  Instead, when we write, “this quantity 
+has physical dimension L”, the symbol L really just means “…having a length unit”.  To make this 
+distinction explicit, we will henceforth set aside symbols in square brackets whenever making a 
+statement about physical dimensions.  So: all distances, lengths, heights, and widths have dimension 
+of length, [L], all timestamps and time intervals have dimension of time, [T], and so forth. 
+ 
+The physical dimension of a quantity is determined by how we measure that quantity—and to do 
+that, we need to define an appropriate unit for the measurement.  We can make different choices for 
+the units we use (e.g. the SI system versus the British Engineering system, BE), but whatever those 
+alternative unit choices are, they must all have the same physical dimension.  For example: meters, 
+inches, furlongs, and nautical miles are all very different units, but the all share the common feature 
+of being lengths, [L].
+
+--- PAGE 2 ---
+2  
+Systems of Units 
+A system of units is a complete set of units that can measure any quantity in the universe.  Such a 
+system must have a unit for every possible physical dimension imaginable!  Fortunately, we have 
+found that to describe motion, only three basic physical dimensions are necessary: length [L], mass 
+[M], and time [T]—all other quantities we will need in mechanics can be defined as algebraic 
+combinations of those fundamental unit types. Thus, we need only define the meter, kilogram, and 
+second, in order to be able to measure anything of interest.(1)  Some examples of physical quantities, 
+their dimensions, and derived units are tabulated below. 
+ 
+ 
+Quantity 
+Dimension 
+SI unit 
+equivalent unit 
+ 
+ 
+speed or velocity 
+[L/T]	  
+m/sec 
+— 
+ 
+ 
+acceleration 
+[L/T2]	  
+m/sec2 
+— 
+ 
+ 
+momentum 
+[ML/T]	  
+kg·m/sec 
+— 
+ 
+ 
+force 
+[ML/T2]	  
+kg·m/sec2 
+newton, N 
+ 
+ 
+work or energy 
+[ML2/T2]	  
+kg·m2/sec2 
+joule, J = N·m 
+ 
+ 
+power 
+[ML2/T3]	  
+kg·m2/sec3 
+watt, W = J/sec 
+ 
+Keep in mind that the expressions above for physical dimension do not provide formulas for actually 
+calculating the quantities in question; you do not find a value for acceleration by dividing a length 
+by the square of a time.  The physical dimensions above are simply a statement of the generic kind of 
+thing being measured.  For example, the phrase “momentum has dimension [ML/T]” literally 
+translates as, “a unit of momentum is a mass unit multiplied by a length unit, divided by a time unit”.   
+ 
+Dimensional Analysis 
+It is useful to consider physical dimension because it provides a way to track what symbols mean 
+through long calculations—a process known as dimensional analysis.  Learning to incorporate it into 
+your skillset is not a waste of time.  It helps you to understand the formulas that you are using, to see 
+how different expressions are related to each other, and to commit the most important formulas to 
+memory.  You will also become more efficient at solving problems, spending less time per problem 
+than if you hadn’t this technique.  Finally, and most importantly: you will find that you will make 
+fewer mistakes if you take the time to learn dimensional analysis! 
+ 
+In practice, dimensional analysis involves systematically keeping track of the physical dimensions of 
+every expression you write down. 
+ 
+• A necessary precursor to using dimensional analysis is that you must work problems using 
+symbolic expressions (i.e. “formulas”), rather than numerical values. 
+ 
+Remember that physics is about relationships, not values.  By jumping to numbers right away, you 
+forfeit the ability to see how the relationships fit together, and thus forfeit potential learning.  Make 
+it a habit to work problems symbolically—every problem, every time, no exceptions. 
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+(1) And as any physics student can attest, many things that are not at all interesting…
+
+--- PAGE 3 ---
+3  
+The use of dimensional analysis as a technique boils down to one very fundamental idea: 
+ 
+• In all physically meaningful expressions, physical dimensions must be dealt with algebraically. 
+Conversely, expressions that do not satisfy basic algebraic rules regarding physical dimensions 
+are not physically meaningful. 
+ 
+This simply means that dimensions will track through any mathematical operation that you make: 
+adding, subtracting, multiplying, dividing, or equating.  If the dimensions don’t all match in an 
+equation you’ve just written down, then whatever you’ve written is not physics! 
+ 
+In order to use this idea of “treating physical dimensions as algebraic quantities”, we will set up 
+some basic mathematical rules—nothing new, mind you.  We are just emphasizing how established 
+ideas about basic math operations can also be applied to generic dimensional relationships. 
+ 
+• Products (and Quotients):  The dimension of a product of several variables is the product of 
+the individual dimensions of each of those variables.  (Ditto for ratios.) 
+ 
+Example: A sphere of radius R has a volume given by the expression 4/3 π R3.  The factors 4/3 and π 
+are pure numbers (having no dimension), while radius is a type of length, [L].  Dimensional analysis 
+simply involves the replacement of each variable with its generic type: 
+ 
+4/3 π R3 → [L]3 
+We drop numerical factors because the physical dimension of any pure number is “[1]”—remember, 
+we don’t care about values when performing dimensional analysis, only the kind of thing being 
+measured.  Neither “4/3” nor “π” bring anything to the party, in that regard. 
+ 
+Dimensional analysis tells us that generically, volume measurements (liters, gallons, or cubic 
+centimeters) will always evaluate as the product of three(2) length-type measurements.  We would 
+have reached this exact same conclusion if we had started with the formula for the volume of a box 
+of length L, width W and height H:  volume = L·W·H, so: 
+ 
+L·W·H → [L]·[L]·[L] = [L]3 
+Caution: don’t confuse the symbol “L” representing the actual numerical value for the length of the 
+box (i.e. a variable) with the generic symbol [L] representing the fact that each of the box’s three 
+dimensions is individually a type of length unit (i.e. a physical dimension). 
+ 
+A corollary of this result is that any expression that does not involve the product of three lengths 
+(and nothing else(3)) cannot be an expression describing a volume! 
+ 
+ 
+• Sums (and Differences):  Different terms can only added together in a sum if each term in the 
+sum has the same physical dimension.  (Ditto for subtraction.) 
+ 
+You cannot add a length to a volume, or subtract a mass from a velocity.  Such operations are 
+nonsense, and if your algebraic work in a problem leads to such malarkey, you know there is a 
+mistake somewhere.  Stop right there and track backwards to find and correct the error. 
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+(2) “Three shall be the number thou shall count, and the number of the counting shall be three.” 
+(3) “Four shalt thou not count, neither count two, excepting that thou proceed to three.  Five is right out.”
+
+--- PAGE 4 ---
+4  
+• Equalities:  See the rule on sums.  Recite it three times, twirl around twice, and tattoo it on the 
+inside of your eyelids.  You can NEVER equate two things of unequal dimension. 
+ 
+Example:  Consider a physics course that does not allow any formula sheets for tests, leaving the 
+students with a hundred bazillion formulas to memorize.  It is a safe bet that more than a few will get 
+their mental wires crossed, and end up writing down something like the following for a kinematics 
+problem: 
+v(t) = vo – ½ g t 2 
+This is just plain wrong—and needlessly so.  It does not matter whether or not you can remember 
+the “right” formula; any physics student with even a rudimentary understanding of what’s going on 
+should be able to immediately see that this equation is dimensionally wrong: 
+ 
+• The symbol v(t) represents “velocity at the specific time t ”.  The physical dimension of this 
+quantity is clearly “velocity units”, [L/T]. 
+ 
+• The symbol vo represents “initial velocity at time zero”.  Obviously also of dimension [L/T]. 
+ 
+• The term ½ g t 2 involves the factor “g”, which represents Earth’s gravitational acceleration 
+(dimension [L/T2]), and the factor “t ” representing elapsed time (dimension [T]).  Thus, the final 
+term evaluates overall as: 
+½ g t 2 → [L/T2]·[T]2 = [L] 
+ 
+Don’t forget that the pure number ½ makes no contribution to the overall dimension of the final 
+term. 
+ 
+So here’s why the formula is wrong: on the right-hand side, you can’t subtract a “length” from a 
+“velocity”—and even if you could, you couldn’t equate the resulting “velengthity” on the right with 
+a “velocity” on the left! 
+ 
+Thus, you can often catch mistakes before they happen, by making sure that the formulas you write 
+down at the start of the problem are physically reasonable.  In fact, it’s much easier to memorize 
+formulas correctly in the first place, if you consider the dimensions of all the quantities involved. 
+ 
+In addition, dimensional analysis can alert you to the presence of mistakes you’ve made during a 
+problem—not because you’ve written a formula wrong, but because of a basic math error.  Everyone 
+makes these sorts of errors from time to time—and their cumulative impact on final grades can be 
+costly.  However, if you apply dimensional analysis along the way, you can often spot such an error 
+before it propagates through your work, and avoid wasting time on a dead-end solution. 
+ 
+Example: a particle is at rest from t = 0.0 sec to t = 1.0 sec.  From t = 1.0 sec to t = 3.0 sec, the 
+particle experiences a non-uniform acceleration, given by the time-dependent formula: 
+ 
+𝑎𝑡= 𝐾
+𝑡! 
+where K is an overall physical constant having the value K = 2.0 m.  What is the velocity of the 
+particle at time t = 3.0 sec?  Maybe you don’t know how to solve this problem (yet), but don’t worry 
+about that—you’ll learn it soon enough.
+
+--- PAGE 5 ---
+5  
+Let’s just accept that the correct way to solve the problem is to obtain the final velocity by 
+computing the time-integral of the acceleration: 
+𝑣! = 𝑣! +
+𝑎𝑡𝑑𝑡
+!!
+!!
+ 
+We will solve the problem twice, using two different approaches to compute the integral above—
+first by using a quick numerical computation, and second by using a longer symbolic approach. 
+ 
+Numerical: 
+I will substitute values at the outset—usually not a good idea, but if I am careful to make all of my 
+substitutions using SI units, then things should work out okay, to get a final answer in units of m/s. 
+ 
+𝑣! = 0 +
+!
+!!
+!
+!
+𝑑𝑡= 2
+!"
+!!
+!
+!
+= 2
+!!
+!! !
+!
+= 2
+!!
+!" −
+!!
+! = 5.8 m/s 
+Symbolic: 
+Use the same operations as above, but without numerical substitutions.  But first, note the dimension 
+of the parameter K, based on the value assigned to it: K = 2.0 m → K is a length, [L].  This means 
+that K/t 2 has dimension of [L]/[T]2, matching the known dimension of acceleration.  So far, so good: 
+ 
+𝑣! = 0 +
+𝐾
+𝑡!
+!!
+!!
+𝑑𝑡= 𝐾
+𝑑𝑡
+𝑡!
+!!
+!!
+= 𝐾−3
+𝑡!
+!!
+!!
+= 𝐾−3
+𝑡!
+! −−3
+𝑡!
+!
+= 3𝐾
+𝑡!
+! −3𝐾
+𝑡!
+! 
+ 
+Whoa, Kimosabe!  Both terms on the far right clearly have the same dimension (that’s good), but 
+they don’t match the dimension on the far left of the equation (that’s bad—REALLY bad).  
+Remember: K has dimension of length [L], so 3K/t 3 has dimension [L]/[T]3—that does not match the 
+[L/T] on the far left!  Something has gone wrong in a big way. 
+ 
+Perhaps you saw my mistake in this example at the moment I made it.  Now that you know about the 
+existence of a mistake, you can probably go back and find it yourself.  But finding the mistake isn’t 
+the point, here—the real issue is in knowing that there WAS a mistake, in the first place!  In the 
+numerically-based solution, there were no warning signs to indicate that something was wrong. 
+ 
+You cannot fix a mistake that you do not know about! 
+ 
+Not only can the symbolic approach spotlight the existence of a mistake, but also, by applying 
+further dimensional analysis the error can be tracked down and removed: 
+ 
+When I left off, I had just written: 
+𝑣! = 3𝐾
+𝑡!
+! −3𝐾
+𝑡!
+! 
+Dang it!  There are two extra factors of time [T] in the denominator…where did those pesky buggers 
+come from?  Well, let’s see…I started out with a (1/t 2) in the integrand, and I then integrated that to 
+get a (1/t 3)—hey, wait just a darn minute…that seems fishy.  Integration should raise the power of t, 
+but increasing a power in the denominator actually reduces the power of the expression.  Guess I 
+need to look that part of my solution over more carefully, and review my calculus: 
+ 
+𝑡! 𝑑𝑡=
+!!!!
+!!! + 𝐶    (as long as n ≠ –1)
+
+--- PAGE 6 ---
+6  
+Using n = –2 for a (1/t 2) integrand gives us: 
+ 
+𝑡!! 𝑑𝑡= 𝑡!!!!
+−2 + 1 + 𝐶= 𝑡!!
+−1 + 𝐶= −1
+𝑡+ 𝐶 
+Doh!  I should have written: 
+ 
+𝑣! =
+𝐾
+𝑡!
+!!
+!!
+𝑑𝑡= 𝐾−1
+𝑡
+!!
+!!
+= 𝐾−1
+𝑡!
+−−1
+𝑡!
+= 𝐾
+𝑡!
+−𝐾
+𝑡!
+ 
+Before we substitute numerical values, notice that now the dimension on the far right matches that of 
+the far left; the two extra factors of [T] in the denominator have vanished.  The terms containing K/t 
+have dimension [L]/[T], as required.  We can thus perform the calculation step with confidence, to 
+find: 
+ 
+𝑣! =
+!.!  !
+!.!  ! −
+!.!  !
+!.!  ! = 2.0 m/s – 0.67 m/s = 1.3 m/s 
+ 
+ 
+We’ll look at another example of dimensional analysis in a few moments, but before moving along, 
+there is one last gold nugget to be pried out of the last example.  As you recall, it was stated that the 
+final velocity was found as the definite time integral of the acceleration: 
+ 
+𝑣! = 𝑣! +
+𝑎𝑡𝑑𝑡
+!!
+!!
+ 
+This is a calculus equation rather than a simple algebraic equation, but it is still an equation 
+describing real physics—if it is “meaningful physics”, it must be dimensionally valid.  The initial 
+and final velocities obviously have dimension [L/T], but what about that final term with all that 
+calculus?  Does that it also work out to have dimension [L/T]? 
+ 
+First of all, the “ ∫ ” symbol itself simply denotes continuous summation.  It isn’t a quantity—it is an 
+operand telling you what to do.  It contributes nothing to the physical dimension of the integral. 
+ 
+Next, we have the acceleration a(t).  It is expressed as a function of time, but we’ve already seen 
+how that function evaluates to proper acceleration units; its dimension is [L/T2]. 
+ 
+Finally, there is the differential dt.  Does it have any dimension?  After all—it is infinitesimal: that 
+is, dt → 0.  Can we therefore set its dimension to “0”?  HECK NO!  If we assume that dt has zero 
+dimension, then the entire integral would have zero dimension: [L/T2]·[0]	  =	  [0].  Nor can we say dt 
+is “dimensionless”, like a pure number.  If that were true, dt would not contribute to dimension, and 
+the integral would evaluate to [L/T2] overall—but that won’t match the other velocity terms! 
+ 
+The key here is that the symbol “dt” represents a very small time interval.  Sure, it is considered to 
+be infinitesimal, but it still is a measure of elapsed time.  It thus contributes a dimension of [T] to the 
+integral, and the physical dimension of the integral evaluates properly as something with velocity 
+units: 
+𝑎𝑡𝑑𝑡→  [L/T2]·[T]	  =	  [L/T]
+
+--- PAGE 7 ---
+7  
+• Differentials:  The differential of any physical quantity has the same physical dimension as the 
+quantity itself. 
+ 
+This holds true because a differential simply represents a small change in that physical quantity.  A 
+length can only change by small bits of length, a mass can only change by small bit of mass, and a 
+time can only change by small bits of time. 
+ 
+ 
+ 
+There is one more benefit of learning to dimensional analysis techniques. They can often help you to 
+quickly re-derive an important formula that you have forgotten. 
+ 
+Example:  You are taking a test on circular motion, when you come upon a problem involving the 
+“centripetal force” acting on a body.(4)  Oh noes!  You have forgotten the formula for centripetal 
+force—all you can recall is that it involves the mass and speed of the object, and the radius of the 
+circular path.  Are you toast? 
+ 
+Not if you can draw upon the phenomenal cosmic powers of dimensional analysis!  Mass has 
+dimension [M], speed has dimension [L/T], and radius has dimension [L].  All you have to do is to 
+figure out a way to put the variables m, v, and r together in a way that makes their combined 
+dimension come out to be that of force.  What?  You don’t remember the dimension of force?  But 
+you do remember Newton’s 2nd Law, right?  You know, “force equals mass times acceleration”.  
+Well then: force units equal mass units times acceleration units: so [force] = [M]·[L/T2].  It’s that 
+dadgum simple. 
+ 
+So, write a very generic “guess” for the formula: 
+ 
+𝐹!"#$ = 𝑚! · 𝑣! · 𝑟! 
+ 
+here, a, b, and c are unknown integers.  Your quest, young Padawan, is to deduce what they must be.  
+They are found by requiring the dimensions of both sides of the equation to match: 
+ 
+!"
+!! = M ! ·
+L
+T
+!
+· L !  
+ 
+• If we match mass units [M] on each side, we see that the integer a must equal 1. 
+• If we match time units [T] on each side, we see that the integer b must equal 2. 
+• If we match length units [L] on each side, we see that the sum b + c must equal 1. 
+      Since b = 2, c must equal –1. 
+We have deduced that the only possible set of values for a, b, and c that will result in an expression 
+with dimension of force are: (a, b, c) = (1, 2, –1).  So, we have: 
+ 
+𝐹!"#$ = 𝑚!𝑣!𝑟!!     or        𝐹!"#$ = 𝑚
+!!
+! 
+ 
+Thus, we have managed to reproduce the required formula from our incomplete memory, just by 
+making sure that the variables combine together in a way to give units of force. 
+ 
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+(4) Physics nit-picking: the formula that we’re considering here is not actually for “centripetal force”, but for for “mass 
+times centripetal acceleration”—and it goes on the acceleration-side of Newton’s 2nd Law, not the force-side.
+
+--- PAGE 8 ---
+8  
+Summary: 
+Just to have it all in one place, let’s review the important ideas that were developed in these notes: 
+ 
+• The physical dimension of a variable is a generic description of the kind of quantity that 
+variable measures.  Dimension is represented by symbols [L], [M], and [T], that do not 
+represent the variables themselves, or take any specific values. 
+ 
+• Dimensional expressions are not formulas and are not used for computation.  Their purpose 
+is solely to characterize the relationships between the types of quantities in an expression. 
+ 
+• In all physically meaningful expressions, physical dimensions and units must be dealt with 
+algebraically.  Expressions that do not satisfy basic algebraic rules regarding physical 
+dimensions and units are not valid physics. 
+ 
+• In order to use dimensional analysis as a problem-solving tool, you must work problems 
+using symbolic expressions, rather than numerical values. 
+ 
+• The dimension of a product of several variables is the product of the individual dimensions 
+of each of those variables. 
+ 
+• Two expressions of unequal physical dimensions cannot be added together, subtracted from 
+one another, or equated to one another. 
+ 
+• Paying heed to the physical dimension of intermediate expressions in the middle of a problem 
+can help catch errors as soon as they occur, and suggest a possible remedy. 
+ 
+• In calculus, the differential of a physical quantity has the same physical dimension as the 
+quantity itself. 
+ 
+ 
+Incorporating these ideas into one’s toolbox of everyday problem-solving techniques may require a 
+significant investment of time, for most students.  Dimensional analysis is not a particularly hard 
+concept, but it does require consistent practice before one is able to “get it”.  However, those who 
+make the commitment will find that it is worth the investment.  A student who can think in 
+dimensional terms will begin to recognize not only how all the math “makes sense”, but also how it 
+means something about physics—and “finding meaning” is what this class is all about. 
+ 
+ 
+If you learn nothing else from this course, learn dimensional analysis.  Students commonly express 
+the opinion that they’ll never use 90% of what we cover in this course.  If you adhere to that 
+viewpoint, you should consider dimensional analysis to be part of the 10%.

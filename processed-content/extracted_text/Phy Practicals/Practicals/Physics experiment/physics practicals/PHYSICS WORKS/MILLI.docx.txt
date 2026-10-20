@@ -1,0 +1,44 @@
+spring was set into vertical oscillations by exciting it through a small vertical displacement. The time, t, for 20 oscillations were then measured and recorded in a tabular form. A graph of mass against squared time was plotted.
+TABLES OF RESULTS.
+Table 1:  A table showing how extension of a spring varies with the amount of weight paced on it.
+Reference mass =50  1g.                           Pointer mark=25.0  0.1cm.
+Table 2:  A table showing how load affect the time of oscillation of a spring.                              
+THE GRAPH   OF   MASS   AGAINST   SQUARED   TIME.
+CALCULATIONS.
+                                                 Slope =
+                                                              =
+                                          =0.150 g/s.
+Hence, if g(acceleration due to gravity) =(40)2     then,
+                                                        g =(40)2  = 650.74 cm/s2  or  6.5m/s2.
+DISCUSSION.
+The purpose of this experiment is to find the acceleration due to gravity. To be able to find the acceleration due to gravity, different loads were affixed to spiral spring and their extensions taken. After recording these extensions, the spring with the loads were displaced vertically and their time for 20 oscillations recorded. During the experiment it was realised that amplitude has an effect on the time. Whenever the spring was pulled with a large displacement (high amplitude), it became difficult to count when one oscillation occurred and the other began since the movement of the spring was fast. This then leads to wrong time values. Hence to avoid errors in time taken, the spring was slightly displaced. It was also realised that the time increases with increasing values of mass. This is so, because as more mass is being added, the load on the spring increases and the spring stretches from its original unstretched length, thus putting a lot of strain on the string. The frictional force between the string and the mass increases and other forces except acceleration due to gravity, acting on the body (eg. tension) also increases. The string then, must overcome these forces before it can oscillate, that’s why the time increases with increasing mass. The theoretical value of acceleration due to gravity is 9.8 ms-2  but the value I got from the experiment is 6.5ms-2.This experimental value is a total deviation from the expected value. This change in value is due air resistances. For the right value to be obtained the experiment should have been done in a vacuum. Errors in the equipments used also affected the theoretical value. The height at which the experiment was performed also altered the value, since height has an effect on acceleration due to gravity. From this experiment it can be also be establish that acceleration due to gravity is independent on mass.
+SOURCES OF ERROR.
+1. Errors due to air resistance in the laboratory.
+2. Errors due to the apparatus.
+PRECAUTIONS.
+1. The fan was switched off to reduce air resistances that would affect the oscillation of the spring.
+2. The spring was oscillated through a slight displacement.
+CONCLUSION.
+The acceleration due to gravity is 6.5ms-2.
+REFERENCES.
+NELKON .M. AND PARKER .P. (1995). ADVANCED LEVEL PHYSICS, 7TH EDITION.
+PAGES 79- 80.PUBLISHED BY CBS PUBLISHERS AND DISTRIBUTORS, NEW DELHI.
+YOUNG AND FREEMAN (1995). UNIVERSITY PHYSICS 9TH EDITION.
+PAGES 404- 405.PUBLISHED BY ADDISON – WESLEY PUBLISHING COMPANY.
+LOAD  1g | LOAD INCREASING / cm | LOADING DECREASING /cm | MEAN POINTER /cm
+    70 |       0.5  0.1 |      0.4  0.1 |    0.4  0.1
+    90 |       5.4  0.1 |      5.4  0.1 |    5.4  0.1
+  110 |     11.0  0.1 |     11.0  0.1 |    11.0  0.1
+  130 |     16.7  0.1 |     16.7  0.1 |    16.7  0.1 
+  150 |     22.2  0.1 |     22.3  0.1 |    22.2  0.1
+
+Mass  | 
+t1  | 
+t2  0.01/s | 
+t av = (t1 + t2) 2 /s | 
+t2 / s2
+     70 |     10.94 |     11.03 |      10.99 |     120.78
+     90 |     19.91 |     19.97 |      19.94 |     397.60
+   110 |     22.06 |     22.00 |      22.03 |     485.32
+   130 |     23.85 |     23.78 |      23.82 |     567.39
+   150 |     25.56 |     25.56 |      25.56 |     653.31

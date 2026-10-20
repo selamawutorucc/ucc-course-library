@@ -1,0 +1,11 @@
+EXPERIMENT 10
+THE COEFFICIENT OF CUBICAL EXPANSION OF LIQUID USING SPECIFIC GRAVITY BOTTLE
+APPARATUS: Specific gravity bottle with a well fitting stopper, glycerine, water-bath, clamp and stand, thermometer, cotton thread, filter paper.
+METHOD: The specific gravity bottle was cleaned by rinsing it out with methylated spirit. It was then allowed to dry. The bottle was then weighed with the stopper. The gravity bottle was then filled with glycerine from a beaker. The stopper was then inserted into the gravity bottle making sure that there was minimal handling of the bottle and the outside of the bottle was wiped thoroughly with the filter paper. The temperature of the glycerine in the beaker was measured and then the specific gravity bottle with its contents was weighed again. The mass of the glycerine in the specific gravity bottle was determined from this measurement. A piece of the cotton thread was securely tied around the neck of the specific gravity bottle and the suspended from the clamp such that it was completely immersed in the water bath. The water bath was then heated till it boiled for some time. The temperature of the boiling water was then taken. The specific gravity bottle was then removed and wiped dry. It was allowed to cool and reweighed. 
+DIAGRAM:
+TABLE OF RESULTS
+Weight of bottle and stopper |  = 9.0g
+Weight of bottle + stopper full at t |  = 89.89g
+Weight of bottle +stopper after cooling from boiling water |  = 87.9g
+Temperature of glycerine at moment of filling |  = 26
+Temperature of boiling water |  = 100

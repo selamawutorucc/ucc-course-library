@@ -1,0 +1,34 @@
+Name: Nana Yaw Adu Dwomoh
+Group 8
+Registration Number: SM/SMS/09/0024
+Title: The coefficient of cubical expansion of liquid using specific gravity bottle.
+Experiment 10
+Date: 25th September 2009
+Title: Determination of the coefficient of cubical expansion of liquid using specific gravity bottle.
+Aim:  To determine the coefficient of glycerine, using specific gravity bottle.
+Apparatus:  specific gravity bottle, electronic balance, glycerine, water bath, clamp and stand, thermometer, cotton thread, filter paper
+Diagram: 
+Theory:
+Cubic expansivity is the increase in volume of a substance per unit volume per Kelvin rise in temperature.  When a liquid is heated its molecules gain kinetic energy which enables them to overcome their intermolecular forces. Therefore the vibrations of the molecules increase and their displacement about their mean positions also increase. As a result of this the average distance between the       V           - molecules of the liquid becomes larger leading to an increase in size of the liquid. This increase in size of the liquid is called expansion. This   expansion occurs in all direction hence the increase in the volume of the liquid. This increase in volume when the liquid was heated is called cubic expansivity.
+Procedure: The specific gravity bottle together with its stopper was weighed after it had been cleaned by rinsing out with methylated spirit. The mass of the cleaned, dried and empty bottle with its stopper was recorded, say, M0 . The specific gravity bottle was then filled with glycerine from a beaker in which the temperature of the glycerine at the time of filling was taken, say, t1(0C) with a thermometer. After that, the stopper of the bottle of the bottle was inserted and the overflow was wiped off completely with filter paper. It was ensured that the bottle was handled as little as possible to avoid warming it. The new mass of the specific gravity bottle was recorded, say, M1, using the electronic balance. A piece of cotton thread was then tied securely around the neck of the bottle and used to suspend it from the clamp, in a way that it was almost totally immersed in the water bath. The water bath was then heated to boil the water for some time and its temperature was taken, say, t2 (0C), with the thermometer, after which the heat was taken off. The bottle was wiped clean and allowed to cool. After cooling for some time, the bottle was reweighed and its mass was recorded, say M2.
+Observation:
+Electronic balance:  Sartorius CP323P,   d = 0.001g (80g),  0.002g (160g),  0.005g (320g)
+Calculation:
+= + 
+Where g = 2.610-5K-1
+10-5K-1
+= -2.91510-3 K-1 +10-5K-1
+=  -2.8910-3K-1
+Discussion of errors:
+Sources of error like buoyancy effect, air current acting upon the object by surrounding air caused an increase or decrease in the original value due to density of air, impure glycerine delayed expansion and reduced the boiling point of the glycerine when it was heated, and the corroded balance pan affected the accuracy of the mass.
+Precautions:
+It was ensured that the balance was tarred before measurements were taken.
+It was ensured that the specific gravity bottle was rinsed with methylated spirit to avoid traces of water for accuracy.
+        3. Error may be due to holding of specific gravity bottle which caused change in temperature.
+4. Errors may be due to impure glycerine. 
+Conclusion:  The cubical expansion of glycerine using the specific gravity bottle was found to be -2.8910-3K-1 .
+ Weight of bottle and stopper                                                                    (M0)                                            |                 29.180
+ Weight of bottle and stopper full at t1                                                     (M1) |                 90.840
+ Weight of bottle and stopper after cooling from the boiling water   (M2) |                 88.640
+Temperature of glycerine at moment of filling                                        (t1) 0C |                    30
+Temperature of boiling water                                                                     (t2) 0C |                   100

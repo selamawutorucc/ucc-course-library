@@ -1,0 +1,545 @@
+
+--- PAGE 1 ---
+Vectors and Scalars
+AP Physics B
+
+--- PAGE 2 ---
+Scalar
+A SCALAR is ANY 
+quantity in physics that 
+has MAGNITUDE, but 
+NOT a direction 
+associated with it.
+Magnitude – A numerical 
+value with units.
+1000 
+calories
+Heat
+15 years
+Age
+10 m
+Distance
+20 m/s
+Speed
+Magnitude
+Scalar 
+Example
+
+--- PAGE 3 ---
+Vector
+A VECTOR is ANY 
+quantity in physics that 
+has BOTH 
+MAGNITUDE and 
+DIRECTION.
+5 N, West
+Force
+10 m/s/s, E
+Acceleration
+20 m/s, N
+Velocity
+Magnitude 
+& Direction
+Vector
+F
+a
+x
+v
+r
+r
+r
+r
+,
+,
+,
+Vectors are typically illustrated by 
+drawing an ARROW above the symbol. 
+The arrow is used to convey direction 
+and magnitude.
+
+--- PAGE 4 ---
+Applications of Vectors
+VECTOR ADDITION – If 2 similar vectors point in the SAME 
+direction, add them.
+ Example: A man walks 54.5 meters east, then another 30 
+meters east. Calculate his displacement relative to where he 
+started?
+54.5 m, E
+30 m, E
++
+84.5 m, E
+Notice that the SIZE of 
+the arrow conveys 
+MAGNITUDE and the 
+way it was drawn 
+conveys DIRECTION.
+
+--- PAGE 5 ---
+Applications of Vectors
+VECTOR SUBTRACTION - If 2 vectors are going in 
+opposite directions, you SUBTRACT.
+ Example: A man walks 54.5 meters east, then 30 
+meters west. Calculate his displacement relative to 
+where he started?
+54.5 m, E
+30 m, W
+-
+24.5 m, E
+
+--- PAGE 6 ---
+Non-Collinear Vectors
+When 2 vectors are perpendicular, you must use 
+the Pythagorean theorem.
+95 km,E
+55 km, N
+Start
+Finish
+A man walks 95 km, East then 55 
+km, north. Calculate his 
+RESULTANT DISPLACEMENT.
+The hypotenuse in Physics 
+is called the RESULTANT.
+The LEGS of the triangle are called the COMPONENTS
+Horizontal Component
+Vertical 
+Component
+km
+c
+c
+b
+a
+c
+b
+a
+c
+8.
+109
+12050
+55
+95
+Resultant 
+ 
+2
+2
+2
+2
+2
+2
+2
+=
+=
++
+=
+=
++
+=
+→
++
+=
+
+--- PAGE 7 ---
+BUT……what about the direction?
+In the previous example, DISPLACEMENT was asked for 
+and since it is a VECTOR we should include a 
+DIRECTION on our final answer.
+NOTE: When drawing a right triangle that 
+conveys some type of motion, you MUST 
+draw your components HEAD TO TOE.
+N
+S
+E
+W
+N of E
+E of N
+S of W
+W of S
+N of W
+W of N
+S of E
+E of S
+N of E
+
+--- PAGE 8 ---
+BUT…..what about the VALUE of the 
+angle???
+Just putting North of East on the answer is NOT specific enough 
+for the direction. We MUST find the VALUE of the angle.
+N of E
+55 km, N
+95 km,E
+To find the value of the 
+angle we use a Trig 
+function called TANGENT.
+o
+30
+)
+5789
+.0
+(
+5789
+.0
+95
+55
+1
+=
+=
+=
+=
+=
+−
+Tan
+side
+adjacent
+side
+opposite
+Tan
+θ
+θ
+θ
+109.8 km
+So the COMPLETE final answer is :   109.8 km, 30 degrees North of East
+
+--- PAGE 9 ---
+What if you are missing a component?
+Suppose a person walked 65 m, 25 degrees East of North. What 
+were his horizontal and vertical components?
+65 m
+25
+H.C. = ?
+V.C = ?
+The goal: ALWAYS MAKE A RIGHT 
+TRIANGLE!
+To solve for components, we often use 
+the trig functions since and cosine.
+E
+m
+C
+H
+opp
+N
+m
+C
+V
+adj
+hyp
+opp
+hyp
+adj
+hypotenuse
+side
+opposite
+hypotenuse
+side
+adjacent
+,
+47
+.
+27
+25
+sin
+65
+.
+.
+,
+91
+.
+58
+25
+cos
+65
+.
+.
+sin
+cos
+sine
+cosine
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+θ
+θ
+θ
+θ
+
+--- PAGE 10 ---
+Example
+A bear, searching for food wanders 35 meters east then 20 meters north. 
+Frustrated, he wanders another 12 meters west then 6 meters south. Calculate 
+the bear's displacement.
+35 m, E
+20 m, N
+12 m, W
+6 m, S
+-
+=
+23 m, E
+-
+=
+14 m, N
+23 m, E
+14 m, N
+o3.
+31
+)
+6087
+.0
+(
+6087
+.
+23
+14
+93
+.
+26
+23
+14
+1
+2
+2
+=
+=
+=
+=
+=
++
+=
+−
+Tan
+Tan
+m
+R
+θ
+θ
+The Final Answer:  26.93 m, 31.3 degrees NORTH or EAST
+R
+θ
+
+--- PAGE 11 ---
+Example
+A boat moves with a velocity of 15 m/s, N in a river which 
+flows with a velocity of 8.0 m/s, west. Calculate the 
+boat's resultant velocity with respect to due north.
+15 m/s, N
+8.0 m/s, W
+Rv
+θ
+o1.
+28
+)
+5333
+.0
+(
+5333
+.0
+15
+8
+/
+17
+15
+8
+1
+2
+2
+=
+=
+=
+=
+=
++
+=
+−
+Tan
+Tan
+s
+m
+Rv
+θ
+θ
+The Final Answer :  17 m/s, @ 28.1 degrees West of North
+
+--- PAGE 12 ---
+Example
+A plane moves with a velocity of 63.5 m/s at 32 degrees South of East. Calculate 
+the plane's horizontal and vertical velocity components.
+63.5 m/s
+32
+H.C. =?
+V.C. = ?
+S
+s
+m
+C
+V
+opp
+E
+s
+m
+C
+H
+adj
+hyp
+opp
+hyp
+adj
+hypotenuse
+side
+opposite
+hypotenuse
+side
+adjacent
+,
+/
+64
+.
+33
+32
+sin
+5.
+63
+.
+.
+,
+/
+85
+.
+53
+32
+cos
+5.
+63
+.
+.
+sin
+cos
+sine
+cosine
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+θ
+θ
+θ
+θ
+
+--- PAGE 13 ---
+Example
+A storm system moves 5000 km due east, then shifts course at 40 
+degrees North of East for 1500 km. Calculate the storm's 
+resultant displacement.
+N
+km
+C
+V
+opp
+E
+km
+C
+H
+adj
+hyp
+opp
+hyp
+adj
+hypotenuse
+side
+opposite
+hypotenuse
+side
+adjacent
+,
+2.
+964
+40
+sin
+1500
+.
+.
+,
+1.
+1149
+40
+cos
+1500
+.
+.
+sin
+cos
+sine
+cosine
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+θ
+θ
+θ
+θ
+5000 km, E
+40
+1500 km
+H.C.
+V.C.
+5000 km + 1149.1 km = 6149.1 km
+6149.1 km
+964.2 km
+R
+θ
+o
+91
+.8
+)
+364
+.0
+(
+157
+.0
+1.
+6149
+2.
+964
+14
+.
+6224
+2.
+964
+1.
+6149
+1
+2
+2
+=
+=
+=
+=
+=
++
+=
+−
+Tan
+Tan
+km
+R
+θ
+θ
+The Final Answer: 6224.14 km @ 8.91 
+degrees, North of East

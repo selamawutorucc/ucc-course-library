@@ -1,0 +1,178 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Sheet Options in Excel 2010
+If you want your printout to include the gridlines, Choose Page Layout » Sheet Options group » Gridlines » Check Print.
+
+--- SLIDE 5 ---
+Options in Sheet Options Dialogue
+Print Area − You can set the print area with this option.
+
+Print Titles − You can set titles to appear at the top for rows and at the left for columns.
+
+Page Order 
+Down, then Over − It prints the down pages first and then the right pages.
+
+Over, then Down − It prints right pages first and then comes to print the down pages.
+
+
+
+--- SLIDE 6 ---
+Options in Sheet Options Dialogue
+Print 
+Gridlines − Gridlines to appear while printing worksheet.
+
+Black & White − Select this check box to have your color printer print the chart in black and white.
+
+Draft quality − Select this check box to print the chart using your printer’s draft-quality setting.
+
+Rows & Column Heading − Select this check box to have rows and column heading to print.
+
+
+
+
+--- SLIDE 7 ---
+Adjust Margins in Excel 2010
+ You can set margins by various ways as explained below.
+ Choose Page Layout » Page Setup » Margins drop-down list, you can select Normal, Wide, Narrow, or the custom Setting.
+
+
+--- SLIDE 8 ---
+Adjust Margins in Excel 2010
+ These options are also available when you choose File » Print.
+
+--- SLIDE 9 ---
+Adjust Margins in Excel 2010
+If none of these settings does the job, choose Custom Margins to display the Margins tab of the Page Setup dialog box, as shown below.
+
+--- SLIDE 10 ---
+Centre on Page
+By default, Excel aligns the printed page at the top and left margins.
+If you want the output to be centred vertically or horizontally, select the appropriate check box in the Centre on Page section of the Margins tab as shown in the  screenshot below.
+
+--- SLIDE 11 ---
+Page Orientation
+Page orientation refers to how output is printed on the page.
+
+Types of Page Orientation
+
+ Portrait − Portrait to print tall pages (the default).
+
+ Landscape − Landscape to print wide pages. Landscape orientation is useful when you have a wide range that doesn’t fit on a vertically oriented page.
+
+
+--- SLIDE 12 ---
+Changing Page Orientation
+Choose Page Layout » Page Setup » Orientation » Portrait or Landscape.
+
+--- SLIDE 13 ---
+Header and Footer
+Adding Header and Footer
+    Choose Page layout» click on the dialogue box launcher » Header or Footer tab.
+
+--- SLIDE 14 ---
+Insert Page Break in Excel 2010
+Insert Horizontal Page Break − 
+For example, if you want row 14 to be the first row of a new page, select cell A14. Then choose Page Layout » Page Setup Group » Breaks » Insert Page Break.
+
+--- SLIDE 15 ---
+Insert Page Break in Excel 2010
+Insert vertical Page break − 
+In this case, make sure to place the pointer in row 1. Choose Page Layout » Page Setup » Breaks » Insert Page Break to create the page break.
+
+--- SLIDE 16 ---
+Insert Page Break in Excel 2010
+Removing Page Breaks
+
+Remove a page break you’ve added − Move the cell pointer to the first row beneath the manual page break and then choose Page Layout » Page Setup » Breaks » Remove Page Break.
+
+Remove all manual page breaks − Choose Page Layout » Page Setup » Breaks » Reset All Page Breaks.
+
+--- SLIDE 17 ---
+Set Background in Excel 2010
+You may have noticed the Page Layout » Page Setup » Background command. 
+This button displays a dialogue box that lets you select an image to display as a background. 
+
+--- SLIDE 18 ---
+Freeze Panes in Excel 2010
+Follow the steps mentioned below to freeze panes.
+Select the First row or First Column or the row Below, which you want to freeze, or Column right to area, which you want to freeze.
+ Choose View Tab » Freeze Panes.
+
+--- SLIDE 19 ---
+Freeze Panes in Excel 2010
+ Select the suitable option −
+
+        Freeze Panes − To freeze area of cells.
+
+        Freeze Top Row − To freeze first row of worksheet.
+
+        Freeze First Column − To freeze first Column of worksheet.
+
+Unfreeze Panes
+
+To unfreeze Panes, choose View Tab » Unfreeze Panes.
+
+--- SLIDE 20 ---
+Freeze Panes in Excel 2010
+If you have selected Freeze top row you can see the first row appears at the top, after scrolling also. See the below screen-shot.
+
+
+--- SLIDE 21 ---
+Conditional Format in Excel 2010
+MS Excel 2010 Conditional Formatting feature enables you to format a range of values so that the values outside certain limits, are automatically formatted.
+
+Choose Home Tab » Style group » Conditional Formatting dropdown.
+
+--- SLIDE 22 ---
+Various Conditional Formatting Options
+Highlight Cells Rules − 
+Suppose you want to find cell with Amount 0 and Mark them as red. 
+Choose Range of cell » Home Tab » Conditional Formatting DropDown » Highlight Cell Rules » Equal To.
+
+--- SLIDE 23 ---
+Various Conditional Formatting Options
+Highlight Cells Rules − 
+After Clicking ok, the cells with value zero are marked as red.
+
+--- SLIDE 24 ---
+Various Conditional Formatting Options
+Top/Bottom Rules− 
+Suppose you want to highlight the top 10% rows you can do this with these Top/Bottom rules.
+
+--- SLIDE 25 ---
+Various Conditional Formatting Options
+Data Bars− 
+With this conditional Formatting data Bars will appear in each cell.
+
+--- SLIDE 26 ---
+Various Conditional Formatting Options
+Colour Scales− 
+See the below screenshot with Colour Scales, conditional formatting applied.
+
+--- SLIDE 27 ---
+Various Conditional Formatting Options
+Icon Sets− 
+See the below screenshot with Icon Sets conditional formatting applied.
+
+--- SLIDE 28 ---
+Various Conditional Formatting Options
+New Rule 
+It opens the New Formatting Rule dialog box, where you define a custom conditional formatting rule to apply to the cell selection.
+
+Clear Rules 
+It opens a continuation menu, where you can remove the conditional formatting rules for the cell selection by clicking the Selected Cells option, for the entire worksheet by clicking the Entire Sheet option, or for just the current data table by clicking the This Table option.
+
+Manage Rules 
+It opens the Conditional Formatting Rules Manager dialog box, where you edit and delete particular rules as well as adjust their rule precedence by moving them up or down in the Rules list box.
+
+--- SLIDE 29 ---
+
+--- SLIDE 30 ---
+THANK YOU

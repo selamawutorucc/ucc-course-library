@@ -1,0 +1,48 @@
+ 					22nd October 2009
+EXPERIMENT 8
+THE WATER EQUIVALENT OF A CALORIMETER
+AIM
+The aim is to determine the water equivalent of a calorimeter and the stirrer.
+APPARATUS
+Copper calorimeter with the outer jacket
+Stirrer made from bare copper wire
+Thermometer (00C  - 1000C)
+Beaker
+Ice 
+DIAGRAM
+THEORY
+A thermos flask of about 200 cm3 capacity fitted with a thermometer and stirrer
+through the cap can serve as a good calorimeter for thermo chemical experiments. When hot
+water of known temperature is mixed with cold water in the flask, heat lost by the hot water will
+be equal to the heat gained by cold water and the flask. Heat absorbed by the flask may be
+considered as equivalent to the heat absorbed by a certain mass of water for the same change in
+temperature, assuming the specific heat of water to be 1 calorie per gram. This calculated mass
+of water is called the water equivalent of the flask.
+METHOD  
+The calorimeter and the stirrer were weighed and the mass was recorded. Then ice-cold water was poured into the calorimeter until it was about one-third full. This was also weighed and the mass recorded. The calorimeter with the ice-cold water was left to stand till it was about 50C below room temperature. At the same time, some water was heated in a beaker over a burner till it acquired a temperature of about 150C above room temperature. The burner was removed from underneath the beaker and stirred to ensure even distribution of the heat. The ice-cold water in the calorimeter was also stirred at attaining the required temperature to ensure the even distribution of that temperature too. The two temperatures were recorded as accurately as possible. Finally some of the warm water was poured into the ice-cold water in the calorimeter until it was about two-third full. The mixture was stirred and the final highest temperature reached by the mixture was recorded (this needed to be about 50C above room temperature). Again, the calorimeter with its content was weighed including the stirrer.
+OBSERVATION (READINGS)
+Room temperature = 250C
+Weight of calorimeter + stirrer, M0                           =   56.2g
+Weight of calorimeter + stirrer + cold water, M1    =   96.7g
+Weight of calorimeter + stirrer + mixture, M2         = 143.9g
+Initial temperature of cold water, θ10C                     =   200C
+Initial temperature of warm water, θ20C                   =   400C
+Final temperature of mixture, θ30C                            =   29.50C
+CALCULATIONS
+Let the water equivalent of the calorimeter and stirrer = 
+Heat gained by the calorimeter and the cold water = Heat lost by the warm water
+The water equivalent of calorimeter and stirrer = 11.7g
+DISCUSSION
+The values obtained in the experiment were put into the equation given and the water equivalent of the calorimeter was found to be 11.7g. In theory, the actual value for the water equivalent of the calorimeter is 5.49g. Naturally, the experimental value will not be consistent with the theoretical value due to errors in the experiment especially since this experiment involves heat which is very difficult to control.
+SOURCES OF ERRORS
+Water used in the experiment contained impurities which adversely affected the heating process and cooling process in the experiment.
+Room temperature was also not consistent throughout the experiment.
+The calorimeter was not exactly filled to one third of it and that disturb the procedure of the experiment and hot water added surpassed the two-third mark of the calorimeter.
+Temperature of the hot water reduced within the time it was taken of the burner to the calorimeter.
+PRECAUTIONS
+The mixture of hot water and ice cold water was well stirred to ensure a uniform distribution of heat throughout the water.
+Temperatures were read from a horizontal view to ensure an accurate reading of the temperature (parallax).
+CONCLUSION
+From the experiment, the water equivalent of calorimeter was determined to be 11.7 g.
+REFERENCE
+Raymond A. SERWAY, Jerry S. FAUGHN; COLLEGE PHYSICS, 6TH EDITION. Harcourt College Publisher. 2003

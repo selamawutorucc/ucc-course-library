@@ -1,0 +1,16 @@
+
+--- SHEET: Fiction Book Sales ---
+Genre | January | February | March | April | May
+Classics | 18580 | 49225 | 16326 | 10017 | 26134
+Mystery | 78970 | 82262 | 48640 | 49985 | 73428
+Romance | 24236 | 131390 | 79022 | 71009 | 81474
+Sci-Fi & Fantasy | 16730 | 19730 | 12109 | 11355 | 17686
+Young Adult | 35358 | 42685 | 20893 | 16065 | 21388
+
+--- SHEET: Challenge ---
+Salesperson | September | October | November | December
+Watson | 124192 | 156934 | 110239 | 160304
+Chang | 189264 | 204718 | 156823 | 210472
+Hassan | 205127 | 198323 | 207182 | 159827
+Krzywinksi | 103284 | 164728 | 189317 | 174625
+Smith | 184280 | 102847 | 178230 | 201842

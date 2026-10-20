@@ -1,0 +1,6917 @@
+
+--- PAGE 1 ---
+373 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+8 
+Conservation of Energy 
+ 
+CHAPTER OUTLINE 
+ 
+8.1 
+Analysis Model: Nonisolated System (Energy) 
+8.2 
+Analysis Model: Isolated System (Energy) 
+8.3 
+Situations Involving Kinetic Friction 
+8.4 
+Changes in Mechanical Energy for Nonconservative Forces 
+8.5 
+Power 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ8.1 
+Answer (a). We assume the light band of the slingshot puts equal 
+amounts of kinetic energy into the missiles. With three times more 
+speed, the bean has nine times more squared speed, so it must have 
+one-ninth the mass. 
+OQ8.2 
+(i) 
+Answer (b). Kinetic energy is proportional to mass. 
+ 
+(ii) Answer (c). The slide is frictionless, so v = (2gh)
+1/2 in both cases. 
+ 
+(iii) Answer (a). g for the smaller child and g sin θ for the larger. 
+OQ8.3 
+Answer (d). The static friction force that each glider exerts on the other 
+acts over no distance relative to the surface of the other glider. The air 
+track isolates the gliders from outside forces doing work. The gliders-
+Earth system keeps constant mechanical energy. 
+OQ8.4 
+Answer (c). Once the athlete leaves the surface of the trampoline, only 
+a conservative force (her weight) acts on her. Therefore, the total 
+mechanical energy of the athlete-Earth system is constant during her 
+flight: Kf + Uf = Ki + Ui. Taking the y = 0 at the surface of the 
+trampoline, Ui = mgyi = 0. Also, her speed when she reaches maximum
+
+--- PAGE 2 ---
+374     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+height is zero, or Kf = 0. This leaves us with Uf = Ki, or mgymax = 1
+2 mvi
+2, 
+which gives the maximum height as 
+ 
+ 
+ymax = vi
+2
+2g =
+8.5 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 3.7 m
+ 
+OQ8.5 
+(a) 
+Yes: a block slides on the floor where we choose y = 0. 
+ 
+(b) Yes: a picture on the classroom wall high above the floor. 
+ 
+(c) 
+Yes: an eraser hurtling across the room. 
+ 
+(d) Yes: the block stationary on the floor. 
+OQ8.6 
+In order the ranking: c > a = d > b. We have 1
+2 mv2 = µkmgd so  
+d = v
+2/2µk g. The quantity v
+2/µk controls the skidding distance. In the 
+cases quoted respectively, this quantity has the numerical values: (a) 5 
+(b) 1.25 (c) 20 (d) 5. 
+OQ8.7 
+Answer (a). We assume the climber has negligible speed at both the 
+beginning and the end of the climb. Then Kf = Ki, and the work done by 
+the muscles is 
+ 
+ 
+ 
+Wnc = 0 + Uf −Ui
+(
+) = mg yf −yi
+(
+)
+       = 70.0 kg
+(
+) 9.80 m/s2
+(
+) 325 m
+(
+)
+       = 2.23 × 105 J
+ 
+ 
+The average power delivered is 
+ 
+ 
+ 
+P = Wnc
+Δt =
+2.23 × 105J
+95.0 min
+(
+) 60 s/1 min
+(
+)
+= 39.1 W
+ 
+OQ8.8  
+Answer (d). The energy is internal energy. Energy is never “used up.” 
+The ball finally has no elevation and no compression, so the ball-Earth 
+system has no potential energy. There is no stove, so no energy is put 
+in by heat. The amount of energy transferred away by sound is 
+minuscule. 
+OQ8.9 
+Answer (c). Gravitational energy is proportional to the mass of the 
+object in the Earth’s field.
+
+--- PAGE 3 ---
+Chapter 8     375 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ8.1 
+(a) No. They will not agree on the original gravitational energy if they 
+make different y = 0 choices. (b) Yes, (c) Yes. They see the same change 
+in elevation and the same speed, so they do agree on the change in 
+gravitational energy and on the kinetic energy. 
+CQ8.2 
+The larger engine is unnecessary. Consider a 30-minute commute. If 
+you travel the same speed in each car, it will take the same amount of 
+time, expending the same amount of energy. The extra power available 
+from the larger engine isn’t used. 
+CQ8.3 
+Unless an object is cooled to absolute zero, then that object will have 
+internal energy, as temperature is a measure of the energy content of 
+matter. Potential energy is not measured for single objects, but for 
+systems. For example, a system comprised of a ball and the Earth will 
+have potential energy, but the ball itself can never be said to have 
+potential energy. An object can have zero kinetic energy, but this 
+measurement is dependent on the reference frame of the observer.  
+CQ8.4 
+All the energy is supplied by foodstuffs that gained their energy from 
+the Sun. 
+CQ8.5 
+(a) The total energy of the ball-Earth system is conserved. Since the 
+system initially has gravitational energy mgh and no kinetic energy, the 
+ball will again have zero kinetic energy when it returns to its original 
+position. Air resistance will cause the ball to come back to a point 
+slightly below its initial position. (b) If she gives a forward push to the 
+ball from its starting position, the ball will have the same kinetic 
+energy, and therefore the same speed, at its return: the demonstrator 
+will have to duck. 
+CQ8.6 
+Yes, if it is exerted by an object that is moving in our frame of 
+reference. The flat bed of a truck exerts a static friction force to start a 
+pumpkin moving forward as it slowly starts up. 
+CQ8.7 
+(a) 
+original elastic potential energy into final kinetic energy 
+ 
+(b) original chemical energy into final internal energy 
+ 
+(c) 
+original chemical potential energy in the batteries into final 
+internal energy, plus a tiny bit of outgoing energy transmitted by 
+mechanical waves 
+ 
+(d) original kinetic energy into final internal energy in the brakes 
+ 
+(e) 
+energy input by heat from the lower layers of the Sun, into energy 
+transmitted by electromagnetic radiation 
+ 
+(f) 
+original chemical energy into final gravitational energy
+
+--- PAGE 4 ---
+376     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ8.8 (a) 
+(i) A campfire converts chemical energy into internal energy, 
+within the system wood-plus-oxygen, and before energy is 
+transferred by heat and electromagnetic radiation into the 
+surroundings. If all the fuel burns, the process can be 100% 
+efficient. 
+ 
+ 
+(ii) Chemical-energy-into-internal-energy is also the conversion 
+as iron rusts, and it is the main conversion in mammalian 
+metabolism. 
+ 
+(b) 
+(i) An escalator motor converts electrically transmitted energy 
+into gravitational energy. As the system we may choose 
+motor-plus-escalator-and-riders. The efficiency could be, say 
+90%, but in many escalators a significant amount of internal 
+energy is generated and leaves the system by heat. 
+ 
+ 
+(ii) A natural process, such as atmospheric electric current in a 
+lightning bolt, which raises the temperature of a particular 
+region of air so that the surrounding air buoys it up, could 
+produce the same electricity-to-gravitational energy 
+conversion with low efficiency. 
+ 
+(c) 
+(i) A diver jumps up from a diving board, setting it vibrating 
+temporarily. The material in the board rises in temperature 
+slightly as the visible vibration dies down, and then the board 
+cools off to the constant temperature of the environment. This 
+process for the board-plus-air system can have 100% 
+efficiency in converting the energy of vibration into energy 
+transferred by heat. The energy of vibration is all elastic 
+energy at instants when the board is momentarily at rest at 
+turning points in its motion. 
+ 
+ 
+(ii) For a natural process, you could think of the branch of a palm 
+tree vibrating for a while after a coconut falls from it. 
+ 
+(d) 
+(i) Some of the energy transferred by sound in a shout results in 
+kinetic energy of a listener’s eardrum; most of the 
+mechanical-wave energy becomes internal energy as the 
+sound is absorbed by all the surfaces it falls upon. 
+ 
+ 
+(ii) We would also assign low efficiency to a train of water waves 
+doing work to shift sand back and forth in a region near a 
+beach. 
+ 
+(e) 
+(i) A demonstration solar car takes in electromagnetic-wave 
+energy in sunlight and turns some fraction of it temporarily 
+into the car’s kinetic energy. A much larger fraction becomes 
+internal energy in the solar cells, battery, motor, and air 
+pushed aside.
+
+--- PAGE 5 ---
+Chapter 8     377 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(ii) Perhaps with somewhat higher net efficiency, the pressure of 
+light from a newborn star pushes away gas and dust in the 
+nebula surrounding it. 
+CQ8.9 
+The figure illustrates the relative amounts of the 
+forms of energy in the cycle of the block, where the 
+vertical axis shows position (height) and the 
+horizontal axis shows energy. Let the gravitational 
+energy (Ug) be zero for the configuration of the 
+system when the block is at the lowest point in the 
+motion, point (3). After the block moves 
+downward through position (2), where its kinetic 
+energy (K) is a maximum, its kinetic energy 
+converts into extra elastic potential energy in the spring (Us). After the 
+block starts moving up at its lower turning point (3), this energy 
+becomes both kinetic energy and gravitational potential energy, and 
+then just gravitational energy when the block is at its greatest height 
+(1) where its elastic potential energy is the least. The energy then turns 
+back into kinetic and elastic potential energy as the block descends, 
+and the cycle repeats. 
+CQ8.10 
+Lift a book from a low shelf to place it on a high shelf. The net change 
+in its kinetic energy is zero, but the book-Earth system increases in 
+gravitational potential energy. Stretch a rubber band to encompass the 
+ends of a ruler. It increases in elastic energy. Rub your hands together 
+or let a pearl drift down at constant speed in a bottle of shampoo. Each 
+system (two hands; pearl and shampoo) increases in internal energy. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 8.1 
+Analysis Model: Nonisolated system (Energy)	  
+P8.1 
+(a) 
+The toaster coils take in energy by electrical transmission. They 
+increase in internal energy and put out energy by heat into the air 
+and energy by electromagnetic radiation as they start to glow.  
+ 
+ 
+ 
+ΔEint = Q + TET + TER 
+ 
+(b) The car takes in energy by matter transfer. Its fund of chemical 
+potential energy increases. As it moves, its kinetic energy 
+increases and it puts out energy by work on the air, energy by 
+heat in the exhaust, and a tiny bit of energy by mechanical waves 
+in sound.  
+ 
+ 
+ 
+ΔK + ΔU + ΔEint = W + Q + TMW + TMT 
+ANS. FIG. CQ8.9
+
+--- PAGE 6 ---
+378     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+You take in energy by matter transfer. Your fund of chemical 
+potential energy increases. You are always putting out energy by 
+heat into the surrounding air.  
+ 
+ 
+ 
+ΔU = Q + TMT 
+ 
+(d) Your house is in steady state, keeping constant energy as it takes 
+in energy by electrical transmission to run the clocks and, we 
+assume, an air conditioner. It absorbs sunlight, taking in energy 
+by electromagnetic radiation. Energy enters the house by matter 
+transfer in the form of natural gas being piped into the home for 
+clothes dryers, water heaters, and stoves. Matter transfer also 
+occurs by means of leaks of air through doors and windows.  
+ 
+ 
+ 
+0 = Q + TMT + TET + TER 
+P8.2 
+(a) 
+The system of the ball and the Earth is isolated. The gravitational 
+energy of the system decreases as the kinetic energy increases. 
+ 
+ 
+ 
+ΔK + ΔU = 0 
+ 
+ 
+ 
+1
+2 mv2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+ −mgh −0
+(
+) = 0 →1
+2 mv2 = mgy
+ 
+ 
+ 
+ 
+v =  2gh 
+ 
+(b) The gravity force does positive work on the ball as the ball moves 
+downward. The Earth is assumed to remain stationary, so no 
+work is done on it. 
+ 
+ 
+ 
+∆K = W 
+ 
+ 
+ 
+1
+2 mv2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟= mgh →1
+2 mv2 = mgy
+ 
+ 
+ 
+ 
+v =  2gh
+
+--- PAGE 7 ---
+Chapter 8     379 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.3 
+Section 8.2 
+Analysis Model: Isolated system (Energy)	  
+P8.3 
+From conservation of energy for the block-spring-
+Earth system, 
+ 
+ 
+Ugf = Usi 
+ 
+or 
+ 
+ 
+0.250 kg
+(
+) 9.80 m/s2
+(
+)h
+     =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟5 000 N/m
+(
+) 0.100 m
+(
+)
+2
+ 
+ 
+This gives a maximum height, h = 10.2 m . 
+P8.4 
+(a) 
+ΔK + ΔU = 0 →ΔK = −ΔU 
+ 
+ 
+1
+2 mv f
+2 −1
+2 mvi
+2 = −mgy f −mgyi
+(
+)
+1
+2 mvi
+2 = 1
+2 mvi
+2 + mgy f
+ 
+ 
+ 
+We use the Pythagorean theorem to express the original kinetic 
+energy in terms of the velocity components (kinetic energy itself 
+does not have components): 
+ 
+ 
+ 
+1
+2 mvxi
+2 + 1
+2 mvyi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+2 mvxf
+2 + 0
+⎛
+⎝⎜
+⎞
+⎠⎟+ mgy f
+1
+2 mvxi
+2 + 1
+2 mvyi
+2 = 1
+2 mvxf
+2 + mgy f
+ 
+Because vxi = vxf , we have 
+ 
+ 
+ 
+1
+2 mvyi
+2 = mgyf →yf =
+vyi
+2
+2g
+ 
+ 
+ 
+so for the first ball: 
+ 
+ 
+ 
+y f =
+vyi
+2
+2g = (1 000 m/s)sin37.0°
+[
+]
+2
+2 9.80 m/s2
+(
+)
+= 1.85 × 104 m
+ 
+ 
+ 
+and for the second,  
+ 
+ 
+ 
+y f = 1 000 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 5.10 × 104 m
+
+--- PAGE 8 ---
+380     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.5 
+ 
+(b) The total energy of each ball-Earth system is constant with value 
+ 
+ 
+ 
+Emech = K i +Ui = K i + 0
+Emech = 1
+2 20.0 kg
+(
+) 1 000 m/s
+(
+)
+2 = 1.00 × 107 J
+ 
+P8.5 
+The speed at the top can be found from the 
+conservation of energy for the bead-track-
+Earth system, and the normal force can be 
+found from Newton’s second law. 
+ 
+(a) 
+We define the bottom of the loop as 
+the zero level for the gravitational 
+potential energy. 
+ 
+ 
+Since vi = 0,  
+ 
+ 
+ 
+Ei = Ki + Ui = 0 + mgh = mg(3.50R) 
+ 
+ 
+The total energy of the bead at point 
+
+A can be written as  
+ 
+ 
+ 
+EA = KA +UA = 1
+2 mvA
+2 + mg(2R)
+ 
+ 
+ 
+Since mechanical energy is conserved, Ei = EA, we get 
+ 
+ 
+ 
+mg(3.50R) = 1
+2 mvA
+2 + mg(2R) 
+ 
+ 
+ 
+simplifying, 
+ 
+ 
+ 
+ 
+ 
+vA
+2 = 3.00 gR 
+ 
+  
+ 
+ 
+vA =
+3.00gR
+ 
+ 
+ 
+ 
+(b) To find the normal force at the top, we construct a force diagram 
+as shown, where we assume that n is downward, like mg. 
+Newton’s second law gives 
+F
+∑
+= mac, where ac is the centripetal 
+acceleration. 
+ 
+ 
+ 
+ 
+Fy = may
+∑
+:     n+ mg = mv2
+r
+  
+ 
+ 
+ 
+ 
+n = m v2
+R −g
+⎡
+⎣⎢
+⎤
+⎦⎥= m 3.00gR
+R
+−g
+⎡
+⎣⎢
+⎤
+⎦⎥= 2.00mg
+ 
+ 
+ 
+ 
+ 
+n = 2.00 5.00 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+= 0.098 0 N downward
+
+--- PAGE 9 ---
+Chapter 8     381 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.6 
+ANS. FIG. P8.7 
+P8.6 
+(a) 
+Define the system as the block 
+and the Earth. 
+ 
+ 
+ ∆K + ∆U = 0 
+ 
+ 
+ 1
+2 mvB
+2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+ mghB −mghA
+(
+) = 0
+1
+2 mvB
+2 = mg hA −hB
+(
+)
+vB =
+2g hA −hB
+(
+)
+ 
+vB =
+2 9.80 m/s2
+(
+) 5.00 m −3.20 m
+(
+) = 5.94 m/s 
+ 
+ 
+Similarly, 
+ 
+ 
+ 
+vC =
+2g hA −hC
+(
+) 
+vC =
+2g 5.00 −2.00
+(
+) = 7.67 m s 
+ 
+(b) Treating the block as the system, 
+ 
+ 
+ 
+Wg A→C = ΔK = 1
+2 mvC
+2 −0 = 1
+2 5.00 kg
+(
+) 7.67 m/s
+(
+)
+2 = 147 J
+ 
+P8.7 
+We assign height y = 0 to the table top. Using 
+conservation of energy for the system of the Earth 
+and the two objects: 
+ 
+(a) 
+Choose the initial point before release and the 
+final point, which we code with the subscript 
+fa, just before the larger object hits the floor. 
+No external forces do work on the system and 
+no friction acts within the system. Then total 
+mechanical energy of the system remains 
+constant and the energy version of the 
+isolated system model gives  
+ 
+ 
+ 
+(KA + KB + Ug)i = (KA + KB + Ug)fa 
+ 
+ 
+ 
+At the initial point, KAi and KBi are zero and we define the 
+gravitational potential energy of the system as zero. Thus the total 
+initial energy is zero, and we have 
+ 
+ 
+ 
+0 = 1
+2 (m1 + m2)v fa
+2 + m2gh + m1g(–h)
+ 
+ 
+ 
+ 
+Here we have used the fact that because the cord does not stretch, 
+the two blocks have the same speed. The heavier mass moves 
+down, losing gravitational potential energy, as the lighter mass 
+moves up, gaining gravitational potential energy.  Simplifying,
+
+--- PAGE 10 ---
+382     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+(m1 – m2)gh = 1
+2 (m1 + m2)v fa
+2 
+ 
+ 
+ 
+ 
+v fa =
+2 m1 −m2
+(
+)gh
+m1 + m2
+(
+)
+=
+2 5.00 kg −3.00 kg
+(
+)g 4.00 m
+(
+)
+5.00 kg + 3.00 kg
+(
+)
+=
+19.6 m/s = 4.43 m/s
+ 
+ 
+(b) Now we apply conservation of energy for the system of the  
+3.00-kg object and the Earth during the time interval between the 
+instant when the string goes slack and the instant at which the 
+3.00-kg object reaches its highest position in its free fall. 
+ 
+ 
+ 
+ΔK + ΔU = 0     →     ΔK = −ΔU
+0 −1
+2 m2v2 = −m2gΔy →Δy = v2
+2g
+Δy = 1.00 m
+ymax = 4.00 m + Δy = 5.00 m
+ 
+P8.8 
+We assume m1 > m2. We assign height y = 0 to the table top. 
+ 
+(a) 
+∆K + ∆U = 0 
+ 
+ 
+ΔK 1 + ΔK 2 + ΔU1 + ΔU2 = 0
+1
+2 m 1v2 −0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 1
+2 m 2v2 −0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 0 −m 1gh
+(
+) + m 2gh −0
+(
+) = 0
+1
+2 m 1 + m 2
+(
+)v2 = m 1gh −m 2gh = m 1 −m 2
+(
+)gh
+ 
+ 
+ 
+v =
+2 m1 −m2
+(
+)gh
+m1 + m2
+ 
+ 
+(b) We apply conservation of energy for the system of mass m2 and 
+the Earth during the time interval between the instant when the 
+string goes slack and the instant mass m2 reaches its highest 
+position in its free fall. 
+ 
+ 
+ 
+ΔK + ΔU = 0     →     ΔK = −ΔU
+0 −1
+2 m2v2 = −m2g Δy →Δy = v2
+2g
+
+--- PAGE 11 ---
+Chapter 8     383 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.9 
+ 
+ 
+The maximum height of the block is then 
+ 
+ 
+ 
+ymax = h + Δy = h + 2 m1 −m2
+(
+)gh
+2g m1 + m2
+(
+)
+= h + m1 −m2
+(
+)h
+m1 + m2
+ymax = m1 + m2
+(
+)h
+m1 + m2
++ m1 −m2
+(
+)h
+m1 + m2
+ 
+ 
+ 
+ 
+ymax =
+2m1h
+m1 + m2
+ 
+P8.9 
+The force of tension and subsequent force of 
+compression in the rod do no work on the ball, 
+since they are perpendicular to each step of 
+displacement. Consider energy conservation of 
+the ball-Earth system between the instant just 
+after you strike the ball and the instant when it 
+reaches the top. The speed at the top is zero if 
+you hit it just hard enough to get it there. We 
+ignore the mass of the “light” rod. 
+ 
+ 
+∆K + ∆U = 0:   
+ 
+ 
+ 
+0 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ mg 2L
+(
+) −0
+[
+] = 0 
+ 
+ 
+ 
+vi =
+4gL =
+4 9.80 m/s2
+(
+) 0.770 m
+(
+)
+vi = 5.49 m/s
+ 
+P8.10  
+(a) 
+One child in one jump converts chemical energy into mechanical 
+energy in the amount that the child-Earth system has as 
+gravitational energy when she is at the top of her jump: 
+ 
+ 
+ 
+mgy = (36 kg)(9.80 m/s
+2) (0.25 m) = 88.2 J 
+ 
+ 
+For all of the jumps of the children the energy is  
+ 
+ 
+ 
+12 1.05 × 106
+(
+) 88.2 J
+(
+) = 1.11× 109 J 
+ 
+(b) The seismic energy is modeled as  
+ 
+ 
+ 
+E =
+0.01
+100
+⎛
+⎝⎜
+⎞
+⎠⎟1.11× 109 J
+(
+) = 1.11× 105 J
+ 
+ 
+ 
+making the Richter magnitude  
+ 
+ 
+ 
+logE −4.8
+1.5
+=
+log 1.11× 105
+(
+) −4.8
+1.5
+ = 5.05 −4.8
+1.5
+= 0.2
+
+--- PAGE 12 ---
+384     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.11 
+When block B moves up by 1 cm, block A moves down by 2 cm and 
+the separation becomes 3 cm. We then choose the final point to be 
+when B has moved up by h
+3
+ and has speed vA
+2 . Then A has moved 
+down 2h
+3
+ and has speed vA: 
+ 
+ 
+ΔK + ΔU = 0
+K A + K B +Ug
+(
+)f −K A + K B +Ug
+(
+)i = 0
+K A + K B +Ug
+(
+)i = K A + K B +Ug
+(
+)f
+ 
+ 
+ 
+0 + 0 + 0 = 1
+2 mvA
+2 + 1
+2 m
+vA
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ mgh
+3
+−mg2h
+3
+mgh
+3
+= 5
+8 mvA
+2
+vA =
+8gh
+15
+ 
+ 
+ 
+ 
+Section 8.3 
+Situations Involving Kinetic Friction	  
+P8.12 
+We could solve this problem using Newton’s second law, but we will 
+use the nonisolated system energy model, here written as −fkd = Kf − Ki, 
+where the kinetic energy change of the sled after the kick results only 
+from the friction between the sled and ice. The weight and normal 
+force both act at 90°
+ to the motion, and therefore do no work on the 
+sled. The friction force is 
+ 
+ 
+ 
+ 
+fk = μkn = μkmg 
+ 
+ 
+Since the final kinetic energy is zero, we have 
+ 
+ 
+ 
+ 
+ 
+−fkd= −Ki 
+ 
+or 
+ 
+1
+2 mvi
+2 = µkmgd 
+ 
+Thus, 
+ 
+ 
+ 
+d = mvi
+2
+2 fk
+=
+mvi
+2
+2µkmg =
+vi
+2
+2µkg =
+(2.00 m/s)2
+2(0.100) 9.80 m/s2
+(
+)
+= 2.04 m
+
+--- PAGE 13 ---
+Chapter 8     385 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.13 
+We use the nonisolated system energy model, here written as  
+−fkd = Kf − Ki, where the kinetic energy change of the sled after the kick 
+results only from the friction between the sled and ice. 
+ 
+ 
+ 
+ΔK + ΔU = −fkd: 
+ 
+ 
+ 
+ 
+0 −1
+2 mv2 = −fkd 
+ 
+ 
+ 
+1
+2 mv2 = µkmgd
+ 
+ 
+ 
+which gives d =
+v2
+2µkg 
+P8.14 
+(a) 
+The force of gravitation is  
+ 
+ 
+ 
+(10.0 kg)(9.80 m/s
+2) = 98.0 N  
+ 
+ 
+straight down, at an angle of  
+ 
+ 
+ 
+(90.0° + 20.0°) = 110.0°  
+ 
+ 
+with the motion. The work done by the 
+gravitational force on the crate is 
+ 
+ 
+ 
+Wg =
+
+F⋅Δr = mgcos 90.0° +θ
+(
+)
+= (98.0 N)(5.00 m)cos110.0° = −168 J
+ 
+ 
+(b) We set the x and y axes parallel and perpendicular to the incline, 
+respectively. 
+ 
+   
+From ∑Fy = may ,  we have     
+ 
+   
+ 
+n − (98.0 N) cos 20.0° = 0 
+ 
+ 
+   
+so n = 92.1 N 
+ 
+  
+and  
+ 
+  
+ 
+fk  = μk n = 0.400 (92.1 N) = 36.8 N 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+ΔEint = fkd = 36.8 N
+(
+) 5.00 m
+(
+) = 184 J 
+ 
+(c) 
+WF = F= 100 N
+(
+) 5.00 m
+(
+) = 500 J 
+ 
+(d) We use the energy version of the nonisolated system model. 
+ 
+ 
+ 
+ 
+ΔK = −fkd +
+Wother forces
+∑
+ 
+ 
+ 
+ 
+ 
+ΔK = −fkd +Wg +Wapplied force +Wn
+
+--- PAGE 14 ---
+386     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.15 
+ 
+ 
+ 
+The normal force does zero work, because it is at 90° to the 
+motion. 
+ 
+ 
+ 
+ΔK = −184 J −168 J + 500 J + 0 = 148 J 
+ 
+(e) 
+Again, K f −Ki = −fkd +
+Wother forces
+∑
+, so  
+ 
+ 
+ 
+1
+2 mv f
+2 – 1
+2 mvi
+2 =
+Wother forces
+∑
+−fkd
+ 
+ 
+ 
+ 
+v f =
+2
+m ΔK + 1
+2 mvi
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+=
+2
+10.0 kg
+⎛
+⎝⎜
+⎞
+⎠⎟[148 J + 1
+2 (10.0 kg)(1.50 m/s)2]
+ 
+ 
+ 
+ 
+v f =
+2 159 kg⋅m2 s2
+(
+)
+10.0 kg
+= 5.65 m/s
+ 
+P8.15 
+(a) 
+The spring does positive work on the 
+block: 
+ 
+ 
+Ws = 1
+2 kxi
+2 −1
+2 kx f
+2
+Ws = 1
+2 500 N/m
+(
+) 5.00 × 10−2 m
+(
+)
+2 −0
+= 0.625 J
+ 
+ 
+ 
+Applying ∆K = Ws: 
+ 
+ 
+ 
+1
+2 mv f
+2 −1
+2 mvi
+2
+             = Ws →1
+2 mv f
+2 −0 = Ws
+ 
+ 
+ 
+so 
+ 
+ 
+ 
+v f =
+2 Ws
+(
+)
+m
+=
+2 0.625
+(
+)
+2.00
+ m/s = 0.791 m/s
+
+--- PAGE 15 ---
+Chapter 8     387 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.16 
+ 
+(b) Now friction results in an increase in internal energy fk d of the 
+block-surface system. From conservation of energy for a 
+nonisolated system, 
+ 
+ 
+ 
+Ws = ΔK + ΔEint
+ΔK = Ws −fkd
+1
+2 mv f
+2 −1
+2 mvi
+2 = Ws −fkd = Ws −µsmgd
+ 
+ 
+ 
+ 
+1
+2 mv f
+2 = 0.625 J −0.350
+(
+) 2.00 kg
+(
+) 9.80 m/s2
+(
+) 0.050 0 m
+(
+)
+1
+2 2.00 kg
+(
+)v f
+2 = 0.625 J −0.343 J = 0.282 J
+v f =
+2 0.282
+(
+)
+2.00
+ m/s = 0.531 m/s
+ 
+P8.16 
+Fy
+∑
+= may:   n −392 N = 0
+ n = 392 N
+fk = µkn = 0.300
+(
+) 392 N
+(
+) = 118 N
+ 
+ 
+(a) 
+The applied force and the motion are 
+both horizontal. 
+ 
+ 
+ 
+WF = Fdcosθ
+= 130 N
+(
+) 5.00 m
+(
+)cos0°
+= 650 J
+ 
+ 
+(b) 
+ΔEint = fkd = 118 N
+(
+) 5.00 m
+(
+) = 588 J 
+ 
+(c) 
+Since the normal force is perpendicular to the motion, 
+ 
+ 
+ 
+Wn = ndcosθ = 392 N
+(
+) 5.00 m
+(
+)cos90° = 0 
+ 
+(d) The gravitational force is also perpendicular to the motion, so  
+ 
+ 
+ 
+Wg = mgdcosθ = 392 N
+(
+) 5.00 m
+(
+)cos −90°
+(
+) = 0 
+ 
+(e) 
+We write the energy version of the nonisolated system model as  
+ 
+ 
+ 
+ΔK = K f −Ki =
+Wother −ΔEint
+∑
+ 
+ 
+ 
+ 
+1
+2 mvf
+2 −0 = 650 J −588 J + 0 + 0 = 62.0 J 
+ 
+(f) 
+vf =
+2K f
+m
+=
+2 62.0 J
+(
+)
+40.0 kg = 1.76 m/s
+
+--- PAGE 16 ---
+388     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.17 
+(a) 
+ΔEint = −ΔK = −1
+2 m v f
+2 −vi
+2
+(
+):
+ΔEint = −1
+2 (0.400 kg) (6.00)2 −(8.00)2
+⎡⎣
+⎤⎦(m/s)2 = 5.60 J
+ 
+ 
+(b) After N revolutions, the object comes to rest and Kf = 0. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ΔEint = −ΔK
+fkd = −(0 −K i) = 1
+2 mvi
+2 
+ 
+ 
+or 
+ 
+ 
+ 
+µkmg N(2πr)
+[
+] = 1
+2 mvi
+2 
+ 
+ 
+This gives 
+ 
+ 
+ 
+N =
+1
+2 mvi
+2
+µkmg(2πr) =
+1
+2 (8.00 m/s)2
+(0.152) 9.80 m/s2
+(
+)2π(1.50 m)
+= 2.28 rev
+ 
+ 
+ 
+ 
+Section 8.4 
+Changes in Mechanical Energy for  
+Nonconservative Forces 
+P8.18 
+(a) 
+If only conservative forces act, then the total mechanical energy 
+does not change. 
+ 
+ 
+ 
+∆K + ∆U = 0    or        Uf = Ki – Kf + Ui   
+ 
+ 
+ 
+Uf = 30.0 J – 18.0 J + 10.0 J = 22.0 J 
+ 
+ 
+ 
+E = K +U = 30.0 J + 10.0 J = 40.0 J 
+ 
+(b) 
+Yes , if the potential energy is less than 22.0 J. 
+ 
+(c) 
+If the potential energy is 5.00 J, the total mechanical energy
+is E = K +U = 18.0 J + 5.00 J = 23.0 J, less than the original
+40.0 J. The total mechanical energy has decreased, so a non-
+conservative force must have acted.
+
+--- PAGE 17 ---
+Chapter 8     389 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.19 
+P8.19 
+The boy converts some chemical energy  
+in his body into mechanical energy of  
+the boy-chair-Earth system. During this  
+conversion, the energy can be measured  
+as the work his hands do on the wheels. 
+ 
+ 
+ΔK + ΔU + ΔUbody = −fkd
+K f −Ki
+(
+) + U f −Ui
+(
+) + ΔUbody = −fkd  
+ 
+ 
+ 
+Ki +Ui + Whands-on-wheels −fkd = K f 
+ 
+Rearranging and renaming, we have 
+ 
+ 
+1
+2 mvi
+2 + mgyi +Wby boy −fkd = 1
+2 mv f
+2 
+ 
+ 
+Wby boy = 1
+2 m v f
+2 −vi
+2
+(
+) −mgyi + fkd 
+ 
+ 
+Wby boy = 1
+2 47.0 kg
+(
+)
+6.20 m/s
+(
+)
+2 −1.40 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
+                          −47.0 kg
+(
+) 9.80 m/s2
+(
+) 2.60 m
+(
+)
+                          + 41.0 N
+(
+) 12.4 m
+(
+)
+Wby boy = 168 J
+ 
+P8.20 
+(a) 
+Apply conservation of energy to the bead-string-Earth system to 
+find the speed of the bead at B. Friction transforms mechanical 
+energy of the system into internal energy ΔEint = fkd. 
+ 
+ 
+ 
+ΔK + ΔU + ΔEint = 0  
+ 
+ 
+ 
+1
+2 mvB
+2 −1
+2 mvA
+2
+⎡
+⎣⎢
+⎤
+⎦⎥+ mgyB −mgyA
+(
+) + fkd = 0
+1
+2 mvB
+2 −0
+⎡
+⎣⎢
+⎤
+⎦⎥+ 0 −mgyA
+(
+) + fkd = 0 →1
+2 mvB
+2 = mgyA −fkd
+ 
+ 
+ 
+ 
+vB =
+2gyA −2 fkd
+m
+ 
+ 
+ 
+For yA = 0.200 m, fk = 0.025 N, d = 0.600 m, and m = 25.0 × 10
+–3 kg: 
+ 
+ 
+ 
+vB =
+2 9.80 m/s2
+(
+) 0.200 m
+(
+) −2 0.025 N
+(
+) 0.600 m
+(
+)
+25.0 × 10−3 kg
+=
+2.72 m/s
+ 
+ 
+ 
+ 
+vB = 1.65 m/s
+
+--- PAGE 18 ---
+390     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The red bead slides a greater distance along the curved path, so 
+friction transforms more of the mechanical energy of the system 
+into internal energy. There is less of the system’s original 
+potential energy in the form of kinetic energy when the bead 
+arrives at point B. The result is that the green bead arrives at 
+point B first and at higher speed. 
+P8.21 
+Use Equation 8.16: ΔEmech = ΔK + ΔU = −fkd
+K f −Ki
+(
+) + U f −Ui
+(
+) = −fkd
+Ki +Ui −fkd = K f +U f
+ 
+ 
+(a) 
+Ki +Ui −fkd = K f +U f 
+ 
+ 
+0 + 1
+2 kx2 −f Δx = 1
+2 mv2 + 0
+1
+2 8.00 N/m
+(
+) 5.00 × 10−2 m
+(
+)
+2 −3.20 × 10−2 N
+(
+) 0.150 m
+(
+)
+= 1
+2 5.30 × 10−3 kg
+(
+)v2
+v =
+2 5.20 × 10−3 J
+(
+)
+5.30 × 10−3 kg = 1.40 m/s
+ 
+ 
+(b) When the spring force just equals the friction force, the ball will 
+stop speeding up. Here 
+
+Fs = kx; the spring is compressed by 
+ 
+ 
+ 
+3.20 × 10−2 N
+8.00 N/m
+= 0.400 cm 
+ 
+ 
+and the ball has moved 
+ 
+ 
+ 
+5.00 cm – 0.400 cm = 4.60 cm from the start 
+ 
+(c) 
+Between start and maximum speed points,  
+ 
+ 
+ 
+1
+2 kxi
+2 −f Δx = 1
+2 mv2 + 1
+2 kx f
+2
+1
+2 8.00 N/m
+(
+) 5.00 × 10−2 m
+(
+)
+2 −3.20 × 10−2 N
+(
+) 4.60 × 10−2 m
+(
+)
+= 1
+2 5.30 × 10−3 kg
+(
+)v2 + 1
+2 8.00 N/m
+(
+) 4.00 × 10−3 m
+(
+)
+2
+v = 1.79 m/s
+
+--- PAGE 19 ---
+Chapter 8     391 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.22 
+For the Earth plus objects 1 
+(block) and 2 (ball), we write 
+the energy model equation as  
+ 
+ 
+(K1 + K2 + U1 + U2)f  
+ 
+ 
+  
+– (K1+ K2 + U1 + U2)i  
+ 
+ 
+  
+= 
+Wother forces
+∑
+−fkd 
+ 
+ 
+Choose the initial point 
+before release and the final point after each block has moved 1.50 m. 
+Choose U = 0 with the 3.00-kg block on the tabletop and the 5.00-kg 
+block in its final position. 
+ 
+So 
+ 
+K1i = K2i =U1i = U1f = U2f = 0 
+ 
+We have chosen to include the Earth in our system, so gravitation is an 
+internal force. Because the only external forces are friction and normal 
+forces exerted by the table and the pulley at right angles to the motion, 
+ 
+ 
+ 
+Wother forces
+∑
+= 0 
+ 
+ 
+We now have 
+ 
+ 
+ 
+ 
+  
+1
+2 m1v f
+2 + 1
+2 m2v f
+2 + 0 + 0 – 0 – 0 – 0 – m2gy2i = 0 – fkd 
+ 
+ 
+where the friction force is 
+ 
+ 
+ 
+ 
+ 
+fk = µkn = µkmAg 
+ 
+ 
+The friction force causes a negative change in mechanical energy 
+because the force opposes the motion. Since all of the variables are 
+known except for vf, we can substitute and solve for the final speed. 
+ 
+ 
+ 
+1
+2 m1v f
+2 + 1
+2 m2v f
+2 – m2gy2i = – fkd
+ 
+ 
+ 
+ 
+v2 = 2gh m2 −µkm1
+(
+)
+m1 + m2
+ 
+ 
+ 
+ 
+v =
+2 9.80 m s2
+(
+) 1.50 m
+(
+) 5.00 kg −0.400 3.00 kg
+(
+)
+⎡⎣
+⎤⎦
+8.00 kg
+= 3.74 m/s
+ 
+ 
+ANS. FIG. P8.22
+
+--- PAGE 20 ---
+392     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.23 
+We consider the block-plane-planet system 
+between an initial point just after the block has 
+been given its shove and a final point when 
+the block comes to rest. 
+ 
+ 
+(a) 
+The change in kinetic energy is 
+ 
+ 
+  
+ 
+ΔK = K f −Ki = 1
+2 mv f
+2 −1
+2 mvi
+2
+= 0 −1
+2 (5.00 kg) 8.00 m/s
+(
+)
+2 = −160 J
+ 
+ 
+ 
+ 
+(b) The change in gravitational potential energy is  
+ 
+  
+  
+ 
+ΔU = U f −Ui = mgh
+= (5.00 kg)(9.80 m/s2) 3.00 m
+(
+)sin30.0° = 73.5 J
+ 
+ 
+ 
+(c) 
+The nonisolated system energy model we write as 
+ 
+  
+  
+ 
+ΔK + ΔU = ∑Wother forces −fkd = 0 −fkd  
+ 
+  
+ 
+The force of friction is the only unknown, so we may find it from 
+ 
+ 
+  
+ 
+fk = ΔK −ΔU
+d
+= +160 J −73.5 J
+3.00 m
+= 28.8 N
+ 
+(d) The forces perpendicular to the incline must add to zero. 
+ 
+ 
+ 
+ 
+Fy
+∑
+= 0:     + n−mgcos30.0° = 0  
+ 
+ 
+ 
+Evaluating, 
+ 
+ 
+ 
+ 
+n = mgcos30.0° = (5.00 kg) 9.80 m/s2
+(
+)cos30.0° = 42.4 N 
+ 
+ 
+Now fk = µkn gives 
+ 
+ 
+ 
+ 
+µk = fk
+n = 28.8 N
+42.4 N = 0.679
+  
+P8.24 
+(a) 
+The object drops distance d = 1.20 m until it hits the spring, then it 
+continues until the spring is compressed a distance x. 
+ 
+ 
+ 
+ΔK + ΔU = 0
+K f −Ki +U f −Ui = 0
+0 −0 +
+1
+2 kx2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+ mg −x
+(
+) −mgd
+[
+] = 0
+1
+2 kx2 −mg x + d
+(
+) = 0
+ 
+ANS. FIG. P8.23
+
+--- PAGE 21 ---
+Chapter 8     393 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+1
+2 320 N/m
+(
+)x2 −1.50 kg
+(
+) 9.80 m/s2
+(
+) x + 1.20 m
+(
+) = 0 
+ 
+ 
+Dropping units, we have 
+ 
+ 
+ 
+160x2 −14.7
+(
+)x −17.6 = 0
+x = 14.7 ±
+−14.7
+(
+)
+2 −4 160
+(
+) −17.6
+(
+)
+2 160
+(
+)
+x = 14.7 ± 107
+320
+ 
+ 
+ 
+The negative root does not apply because x is a distance. We have 
+ 
+ 
+ 
+x = 0.381 m 
+ 
+(b) This time, friction acts through distance (x + d) in the object-
+spring-Earth system: 
+ 
+ 
+ 
+ΔK + ΔU = −fk x + d
+(
+)
+0 −0 +
+1
+2 kx2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟+ mg −x
+(
+) −mgd
+[
+] = −fk x + d
+(
+)
+1
+2 kx2 −mg −fk
+(
+)x −mg −fk
+(
+)d = 0
+ 
+ 
+ 
+where mg – fk = 14.0 N. Suppressing units, we have 
+ 
+ 
+ 
+160x2 −14.0x −16.8 = 0 
+ 
+ 
+ 
+160x2 −14.0x −16.8 = 0
+x = 14.0 ±
+−14.0
+(
+)
+2 −4 160
+(
+) −16.8
+(
+)
+2 160
+(
+)
+ 
+ 
+ 
+ 
+x = 14.0 ± 105
+320
+ 
+ 
+ 
+The positive root is x = 0.371 m. 
+ 
+(c) 
+On the Moon, we have 
+ 
+ 
+ 
+1
+2 kx2 −mg x + d
+(
+) = 0 
+ 
+ 
+ 
+1
+2 320 N/m
+(
+)x2 −1.50 kg
+(
+) 1.63 m/s2
+(
+) x + 1.20 m
+(
+) = 0 
+ 
+ 
+Suppressing units, 
+ 
+ 
+ 
+160x2 −2.45x −2.93 = 0
+
+--- PAGE 22 ---
+394     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+x = 2.45 ±
+−2.45
+(
+)
+2 −4 160
+(
+) −2.93
+(
+)
+2 160
+(
+)
+x = 2.45 ± 43.3
+320
+ 
+ 
+ 
+ 
+x = 0.143 m 
+P8.25 
+The spring is initially compressed by xi = 0.100 m. The block travels up 
+the ramp distance d. 
+ 
+The spring does work Ws = 1
+2 kxi
+2 −1
+2 kx f
+2 = 1
+2 kxi
+2 −0 = 1
+2 kxi
+2 on the 
+block. 
+ 
+Gravity does work Wg = mgd cos(90° + 60.0°) = mgd sin(60.0°) on the 
+block. There is no friction. 
+ 
+(a) 
+∑W = ΔK:
+Ws +Wg = 0
+1
+2 kxi
+2 −mgd sin(60.0°) = 0
+1
+2 (1.40 × 103 N/m)(0.100 m)2
+                 −(0.200 kg)(9.80 m/s2)d(sin60.0°) = 0
+d = 4.12 m
+ 
+ 
+(b) Within the system, friction transforms kinetic energy into internal 
+energy: 
+ 
+ 
+ 
+ΔEint = fkd = (µkn)d = µk(mg cos 60.0°)d
+∑W = ΔK + ΔEint:
+Ws + Wg −ΔEint = 0
+ 
+ 
+ 
+ 
+1
+2 kxi
+2 −mgd sin 60.0° −µkmg cos 60.0°d = 0
+ 
+ 
+ 
+ 
+1
+2 (1.40 × 103 N/m)(0.100 m)2
+                           −(0.200 kg)(9.80 m/s2)d(sin 60.0°)
+                           −(0.400)(0.200 kg)(9.80 m/s2)(cos 60.0°)d = 0
+d = 3.35 m
+ 
+P8.26 
+Air resistance acts like friction. Consider the whole motion: 
+ 
+ 
+ 
+ΔK + ΔU = −faird →Ki +Ui −faird = K f +U f
+
+--- PAGE 23 ---
+Chapter 8     395 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+0 + mgyi −f1d1 −f2d2 = 1
+2 mv f
+2 + 0 
+ 
+ 
+80.0 kg
+(
+) 9.80 m/s2
+(
+)1 000 m −50.0 N
+(
+) 800 m
+(
+) −3 600 N
+(
+) 200 m
+(
+)
+= 1
+2 80.0 kg
+(
+)v f
+2
+784 000 J −40 000 J −720 000 J = 1
+2 80.0 kg
+(
+)v f
+2
+v f =
+2 24 000 J
+(
+)
+80.0 kg
+= 24.5 m/s
+ 
+ 
+(b) 
+Yes. This is too fast for safety. 
+ 
+(c) 
+Now in the same energy equation as in part (a), d2 is unknown, 
+and d1 = 1 000 m – d2: 
+ 
+ 
+ 
+784 000 J −50.0 N
+(
+) 1 000 m −d2
+(
+) −3 600 N
+(
+)d2
+                                                   = 1
+2 80.0 kg
+(
+) 5.00 m/s
+(
+)
+2
+784 000 J −50 000 J −3 550 N
+(
+)d2 = 1 000 J
+d2 = 733 000 J
+3 550 N = 206 m
+ 
+ 
+(d) 
+The air drag is proportional to the square of the skydiver’s
+speed,  so it will change quite a bit, It will be larger than her
+784-N weight only after the chute is opened. It will be nearly
+equal to 784 N before she opens the chute and again before
+she touches down whenever she moves near terminal speed.
+ 
+P8.27 
+(a) 
+Yes, the child-Earth system is isolated because the only force
+that can do work on the child is her weight. The normal force 
+from the slide can do no work because it is always perpendicular 
+to her displacement. The slide is frictionless, and we ignore air 
+resistance.
+ 
+ 
+(b) 
+No, because there is no friction. 
+ 
+(c) 
+At the top of the water slide, 
+ 
+ 
+ 
+ Ug = mgh   and   K = 0:    E = 0 + mgh → E = mgh
+
+--- PAGE 24 ---
+396     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) At the launch point, her speed is vi, and height h = h/5:  
+ 
+ 
+ 
+E = K + Ug  
+ 
+ 
+ 
+E = 1
+2 mvi
+2 + mgh
+5
+ 
+ 
+(e) 
+At her maximum airborne height, h = ymax: 
+ 
+ 
+ 
+E = 1
+2
+mv
+2 + mgh = 1
+2
+m(vxi
+2 + vyi
+2) + mgymax 
+ 
+ 
+ 
+E = 1
+2
+m(vxi
+2 + 0) + mgymax → E = 1
+2 mvxi
+2 + mgymax 
+ 
+(f) 
+E = mgh = 1
+2
+mvi
+2 + mgh/5 → vi =
+8gh
+5
+ 
+ 
+(g) At the launch point, her velocity has components vxi = vi cosθ and 
+vyi = vi sinθ : 
+ 
+ 
+ 
+E = 1
+2 mvi
+2 + mgh
+5
+= 1
+2 mvxi
+2 + mgymax
+ 
+ 
+ 
+ 
+→1
+2 mvi
+2 + mgh
+5
+= 1
+2 m vi cosθ
+(
+)
+2 + mgymax
+→1
+2 vi
+2 1−cos2θ
+(
+) + gh
+5 = ghmax
+ 
+ 
+ 
+ 
+→hmax = 1
+2 g
+8 gh
+5
+⎛
+⎝⎜
+⎞
+⎠⎟1−cos2θ
+(
+)+ gh
+5 g
+→hmax =
+4h
+5
+⎛
+⎝⎜
+⎞
+⎠⎟1−cos2θ
+(
+)+ h
+5 →hmax = h 1−4
+5 cos2θ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(h) 
+No. If friction is present, mechanical energy of the system would
+not be conserved, so her kinetic energy at all points after leaving
+the top of the waterslide would be  reduced when compared with
+the frictionless case. Consequently, her launch speed, maximum
+height reached, and final speed would be reduced as well.
+
+--- PAGE 25 ---
+Chapter 8     397 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 8.5 
+Power 
+P8.28 
+(a) 
+The moving sewage possesses kinetic energy in the same amount 
+as it enters and leaves the pump. The work of the pump increases 
+the gravitational energy of the sewage-Earth system. We take the 
+equation Ki + Ugi + Wpump = Kf + Ugf , subtract out the K terms, and 
+choose Ugi = 0 at the bottom of the pump, to obtain Wpump = mgyf . 
+Now we differentiate through with respect to time: 
+ 
+ 
+ 
+Ppump = Δm
+Δt gy f = ρ ΔV
+Δt gy f
+= 1 050 kg/m3
+(
+) 1.89 × 106 L/d
+(
+)
+               ×
+1 m3
+1 000 L
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 d
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+9.80 m
+s2
+⎛
+⎝⎜
+⎞
+⎠⎟5.49 m
+(
+)
+=  1.24 × 103 W
+ 
+ 
+(b) 
+efficiency = useful output work
+total input work
+= useful output work/Δt
+useful input work/Δt
+= mechanical output power
+input electric power
+= 1.24 kW
+5.90 kW
+= 0.209 = 20.9%
+ 
+ 
+The remaining power, 5.90 – 1.24 kW = 4.66 kW, is the rate at 
+which internal energy is injected into the sewage and the 
+surroundings of the pump. 
+P8.29 
+The Marine must exert an 820-N upward force, opposite the 
+gravitational force, to lift his body at constant speed. The Marine’s 
+power output is the work he does divided by the time interval:  
+ 
+ 
+ 
+Power = W
+t 
+ 
+ 
+ 
+P = mgh
+t
+= 820 N
+(
+) 12.0 m
+(
+)
+8.00 s
+= 1 230 W = 1.23 kW
+ 
+P8.30 
+(a) 
+Pav = W
+Δt =
+K f
+Δt = mv2
+2Δt = 0.875 kg
+(
+) 0.620 m/s
+(
+)
+2
+2 21× 10−3 s
+(
+)
+= 8.01 W
+
+--- PAGE 26 ---
+398     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Some of the energy transferring into the system of the train
+goes into internal energy in warmer track and moving parts
+and some leaves the system by sound. To account for this as
+well as the stated increase in kinetic energy, energy must be
+transferred at a rate higher than 8.01 W.
+ 
+P8.31 
+When the car moves at constant speed on a level roadway, the power 
+used to overcome the total friction force equals the power input from 
+the engine, or Poutput = ftotal v = Pinput. This gives 
+ 
+ 
+ 
+ftotal = Pinput
+v
+= 175 hp
+29 m/s
+746 W
+1 hp
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.5 × 105 N or about 5 × 105 N.
+ 
+P8.32 
+Neglecting any variation of gravity with altitude, the work required to 
+lift a 3.20 × 10
+7 kg load at constant speed to an altitude of ∆y = 1.75 km 
+is 
+ 
+ 
+ 
+W = ΔPEg = mg Δy
+(
+)
+= 3.20 × 107 kg
+(
+) 9.80 m/s2
+(
+) 1.75 × 103 m
+(
+)
+= 5.49 × 1011 J
+ 
+ 
+The time required to do this work using a P = 2.70 kW = 2.70 × 10
+3 J/s 
+pump is 
+ 
+ 
+ 
+Δt = W
+P = 5.49 × 1011 J
+2.70 × 103 J/s = 2.03 × 108 s
+= 2.03 × 108 s
+(
+)
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.64 × 104 h = 6.44 yr
+ 
+P8.33 
+energy = power × time 
+ 
+For the 28.0-W bulb: 
+ 
+ 
+Energy used = (28.0 W)(1.00 × 10
+4 h) = 280 kWh 
+ 
+ 
+total cost = $4.50 + (280 kWh)($0.200/kWh) = $60.50 
+ 
+For the 100-W bulb: 
+ 
+ 
+Energy used = (100 W)(1.00 × 10
+4 h) = 1.00 × 10
+3 kWh 
+ 
+ 
+# of bulbs used = 1.00 × 104 h
+750 h/bulb = 13.3 = 13 bulbs
+
+--- PAGE 27 ---
+Chapter 8     399 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+total cost = 13($0.420) + (1.00 × 10
+3 kWh)($0.200/kWh) = $205.46 
+ 
+Savings with energy-efficient bulb:  
+ 
+ 
+$205.46 – $60.50 = $144.96 = $ 145 
+P8.34 
+The useful output energy is 
+ 
+ 
+ 
+120 Wh 1−0.60
+(
+) = mg y f −yi
+(
+) = F Δy
+Δy = 120 W 3 600 s
+(
+)0.40
+890 N
+J
+W ⋅s
+⎛
+⎝⎜
+⎞
+⎠⎟
+N ⋅m
+J
+⎛
+⎝⎜
+⎞
+⎠⎟= 194 m
+ 
+P8.35 
+A 1 300-kg car speeds up from rest to 55.0 mi/h = 24.6 m/s in 15.0 s. 
+The output work of the engine is equal to its final kinetic energy, 
+ 
+ 
+1
+2 1 300 kg
+(
+) 24.6 m/s
+(
+)
+2 = 390 kJ
+ 
+ 
+with power P = 390 000 J
+15.0 s
+~ 104 W, around 30 horsepower. 
+P8.36 
+P = W
+Δt 
+ 
+older-model: W = 1
+2
+mv
+2 
+ 
+newer-model: W = 1
+2 m(2v)2 = 1
+2 (4mv2)
+→
+Pnewer = 4mv2
+2Δt = 4 mv2
+2Δt
+ 
+ 
+The power of the sports car is four times that of the older-model car. 
+*P8.37 
+(a) 
+The fuel economy for walking is  
+ 
+ 
+ 
+1 h
+220 kcal
+3 mi
+h
+(
+)
+1 kcal
+4 186 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.30 × 108 J
+1 gal
+⎛
+⎝⎜
+⎞
+⎠⎟=
+423 mi/gal 
+ 
+(b) 
+For bicycling: 
+ 
+ 
+ 
+1 h
+400 kcal
+10 mi
+h
+(
+)
+1 kcal
+4 186 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.30 × 108 J
+1 gal
+⎛
+⎝⎜
+⎞
+⎠⎟= 776 mi/gal 
+P8.38 
+(a) 
+The distance moved upward in the first 3.00 s is 
+ 
+ 
+ 
+Δy = vΔt = 0 + 1.75 m/s
+2
+⎡
+⎣⎢
+⎤
+⎦⎥3.00 s
+(
+) = 2.63 m
+
+--- PAGE 28 ---
+400     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The motor and the Earth’s gravity do work on the elevator car: 
+ 
+ 
+ 
+Wmotor + Wgravity = ΔK
+Wmotor + mgΔy
+(
+)cos180° = 1
+2 mv f
+2 −1
+2 mvi
+2
+Wmotor −mgΔy
+(
+) = 1
+2 mv f
+2 −1
+2 mvi
+2
+Wmotor = 1
+2 mv f
+2 −1
+2 mvi
+2 + mgΔy
+Wmotor = 1
+2 650 kg
+(
+) 1.75 m/s
+(
+)
+2 −0 + 650 kg
+(
+)g 2.63 m
+(
+)
+         = 1.77 × 104 J
+ 
+ 
+ 
+Also, W = PΔt so P = W
+Δt = 1.77 × 104 J
+3.00 s
+= 5.91× 103 W = 7.92 hp. 
+ 
+(b) When moving upward at constant speed (v = 1.75 m/s), the 
+applied force equals the weight = (650 kg)(9.80 m/s
+2)  
+= 6.37 × 10
+3 N. Therefore, 
+ 
+ 
+ 
+P = Fv = 6.37 × 103 N
+(
+) 1.75 m/s
+(
+) = 1.11× 104 W = 14.9 hp 
+P8.39 
+As the piano is lifted at constant speed up to the apartment, the total 
+work that must be done on it is 
+ 
+ 
+ 
+Wnc = ΔK + ΔUg = 0 + mg y f −yi
+(
+)
+= 3.50 × 103 N
+(
+) 25.0 m
+(
+)
+= 8.75 × 104 J
+ 
+ 
+The three workmen (using a pulley system with an efficiency of 0.750) 
+do work on the piano at a rate of 
+ 
+ 
+ 
+Pnet = 0.750 3Psingle
+worker
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.750 3 165 W
+(
+)
+[
+] = 371 W = 371 J/s 
+ 
+so the time required to do the necessary work on the piano is 
+ 
+ 
+ 
+Δt = Wnc
+Pnet
+= 8.75 × 104 J
+371 J s
+= 236 s = 236 s
+(
+) 1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.93 min 
+P8.40 
+(a) 
+Burning 1 kg of fat releases energy 
+1 kg 1 000 g
+1 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+9 kcal
+1 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+4 186 J
+1 kcal
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.77 × 107 J
+
+--- PAGE 29 ---
+Chapter 8     401 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The mechanical energy output is 
+ 
+ 
+ 
+3.77 × 107 J
+(
+) 0.20
+(
+) = nFdcosθ 
+ 
+ 
+where n is the number of flights of stairs. Then 
+ 
+ 
+ 
+7.53 × 106 J = nmgΔycos0° 
+ 
+ 
+ 
+7.53 × 106 J = n 75 kg
+(
+) 9.8 m/s2
+(
+) 80 steps
+(
+) 0.150 m
+(
+)
+7.53 × 106 J = n 8.82 × 103 J
+(
+)
+ 
+ 
+ 
+where the number of times she must climb the stairs is  
+ 
+ 
+n = 7.53 × 106 J
+8.82 × 103 J = 854 
+ 
+(b) Her mechanical power output is 
+ 
+ 
+ 
+P = W
+t = 8.82 × 103 J
+65 s
+= 136 W = 136 W
+(
+)
+1 hp
+746 W
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.182 hp
+ 
+ 
+(c) 
+This method is impractical compared to limiting food intake. 
+P8.41 
+The energy of the car-Earth system is E = 1
+2 mv2 + mgy: 
+ 
+ 
+ 
+E = 1
+2 mv2 + mgdsinθ 
+ 
+where d is the distance the car has moved along the track. 
+ 
+ 
+ 
+P = dE
+dt = mv dv
+dt + mgvsinθ 
+ 
+(a) 
+When speed is constant, 
+ 
+ 
+ 
+P = mgvsinθ = 950 kg
+(
+) 9.80 m/s2
+(
+) 2.20 m/s
+(
+)sin30.0°
+= 1.02 × 104 W
+ 
+ 
+(b) 
+dv
+dt = a = 2.20 m/s −0
+12 s
+= 0.183 m/s2 
+ 
+ 
+Maximum power is injected just before maximum speed is 
+attained: 
+ 
+ 
+ 
+P = mva + mgvsinθ
+= 950 kg
+(
+) 2.20 m/s
+(
+) 0.183 m/s2
+(
+)+ 1.02 × 104 W
+= 1.06 × 104 W
+
+--- PAGE 30 ---
+402     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+At the top end, 
+ 
+ 
+ 
+1
+2 mv2 + mgdsinθ
+   = 950 kg 1
+2 2.20 m/s
+(
+)
+2 + 9.80 m/s2
+(
+) 1 250 m
+(
+)sin30°
+⎛
+⎝⎜
+⎞
+⎠⎟
+   = 5.82 × 106 J
+ 
+ 
+ 
+ 
+Additional Problems 
+*P8.42 
+At a pace I could keep up for a half-hour exercise period, I climb two 
+stories up, traversing forty steps each 18 cm high, in 20 s. My output 
+work becomes the final gravitational energy of the system of the Earth 
+and me, 
+ 
+mgy = 85 kg
+(
+) 9.80 m/s2
+(
+) 40 × 0.18 m
+(
+) = 6 000 J 
+ 
+making my sustainable power 6 000 J
+20 s
+= ~ 102 W . 
+P8.43 
+(a) 
+UA = mgR = 0.200 kg
+(
+) 9.80 m/s2
+(
+) 0.300 m
+(
+) = 0.588 J 
+ 
+(b) 
+KA +UA = KB +UB 
+ 
+ 
+KB = KA +UA −UB = mgR = 0.588 J 
+ 
+(c) 
+vB =
+2KB
+m
+=
+2 0.588 J
+(
+)
+0.200 kg = 2.42 m/s 
+ 
+(d) UC = mghC = 0.200 kg
+(
+) 9.80 m/s2
+(
+) 0.200 m
+(
+) = 0.392 J 
+ 
+ 
+KC = KA +UA −UC = mg hA −hC
+(
+)
+KC = 0.200 kg
+(
+) 9.80 m/s2
+(
+) 0.300 −0.200
+(
+) m = 0.196 J
+ 
+P8.44 
+(a) 
+Let us take U = 0 for the particle-bowl-Earth system when the 
+particle is at 
+B . Since vB = 1.50 m/s and m = 200 g, 
+ 
+ 
+ 
+KB = 1
+2 mvB
+2 = 1
+2 0.200 kg
+(
+) 1.50 m/s
+(
+)
+2 = 0.225 J
+ 
+ 
+(b) At 
+A , vi = 0, KA = 0, and the whole energy at 
+A is UA = mgR: 
+ 
+ 
+ 
+ 
+Ei = KA +UA = 0 + mgR = 0.200 kg
+(
+) 9.80 m/s2
+(
+) 0.300 m
+(
+)
+= 0.588 J
+
+--- PAGE 31 ---
+Chapter 8     403 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+At 
+B , 
+ 
+ 
+ 
+ 
+Ef = KB + UB = 0.225 J + 0 
+ 
+ 
+The decrease in mechanical energy is equal to the increase in 
+internal energy. 
+ 
+ 
+ 
+ 
+Emech, i + ΔEint = Emech, f 
+ 
+ 
+ 
+The energy transformed is 
+ 
+ 
+ 
+ΔEint = −ΔEmech = Emech, i −Emech, f = 0.588 J −0.225 J = 0.363 J  
+ 
+(c) 
+No. 
+ 
+(d) 
+It is possible to find an effective coefficient of friction, but
+not the actual value of µ since n and f vary with position.
+ 
+P8.45 
+Taking y = 0 at ground level, and using conservation of energy from 
+when the boy starts from rest (vi = 0) at the top of the slide (yi = H) to 
+the instant he leaves the lower end (yf = h) of the frictionless slide at 
+speed v, where his velocity is horizontal (vxf = v, vyf = 0), we have 
+ 
+ 
+ 
+E0 = Etop →1
+2 mv2 + mgh = 0 + mgH  
+ 
+or 
+ 
+v2 = 2g H −h
+(
+) 
+ 
+ 
+[1] 
+ 
+Considering his flight as a projectile after leaving the end of the slide,  
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2 
+ 
+gives the time to drop distance h to the ground as 
+ 
+ 
+ 
+−h = 0 + 1
+2 −g
+(
+)t2 
+or 
+t =
+2h
+g 
+ 
+The horizontal distance traveled (at constant horizontal velocity) 
+during this time is d, so 
+ 
+ 
+ 
+d = vt = v 2h
+g 
+and 
+v = d
+g
+2h =
+gd2
+2h 
+ 
+Substituting this expression for v into equation [1] above gives 
+ 
+ 
+ 
+gd2
+2h = 2g H −h
+(
+)  or 
+H = h + d2
+4h
+
+--- PAGE 32 ---
+404     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.46 
+(a) 
+Mechanical energy is conserved in the two blocks-Earth system: 
+ 
+ 
+ 
+m2gy = 1
+2 (m1 + m2)v2
+v =
+2m2gy
+m1 + m2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+= 2(1.90 kg)(9.80 m/s2)(0.900 m)
+5.40 kg
+⎡
+⎣⎢
+⎤
+⎦⎥
+1/2
+  = 2.49 m/s
+ 
+ 
+(b) For the 3.50-kg block from when the string goes slack until just 
+before the block hits the floor, conservation of energy gives 
+ 
+ 
+ 
+1
+2 (m2)v2 + m2gy = 1
+2 (m2)vd
+2
+vd = 2gy + v2
+⎡⎣
+⎤⎦
+1/2 = 2(9.80 m/s2)(1.20 m) + (2.49 m/s)2
+⎡⎣
+⎤⎦
+1/2
+   = 5.45 m/s
+ 
+ 
+(c) 
+The 3.50-kg block takes this time in flight to the floor: from y = 
+(1/2)gt
+2 we have t = [2(1.2)/9.8]
+1/2 = 0.495 s. Its horizontal 
+component of displacement at impact is then  
+ 
+ 
+ 
+x = vd t = (2.49 m/s)(0.495 s) = 1.23 m 
+ 
+(d) 
+No. 
+ 
+(e) 
+Some of the kinetic energy of m2 is transferred away as sound
+and some is transformed to internal energy in m1 and the floor.
+ 
+P8.47 
+(a) 
+Given m = 4.00 kg and x = t + 2.0t
+3, we find the velocity by 
+differentiating: 
+ 
+ 
+  
+v = dx
+dt = d
+dt t + 2t3
+(
+) = 1+ 6t2 
+ 
+ 
+Then the kinetic energy from its definition is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 (4.00) 1+ 6t2
+(
+)2 = 2 + 24t2 + 72t4 
+ 
+where K is in J and t is in s. 
+ 
+(b) Acceleration is the measure of how fast velocity is changing: 
+ 
+ 
+  
+a = dv
+dt = d 
+dt 1 + 6t2
+(
+) = 12t
+ 
+ 
+ 
+ where a is in m/s
+2 and t is in s. 
+ 
+ 
+Newton’s second law gives the total force exerted on the particle
+
+--- PAGE 33 ---
+Chapter 8     405 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+by the rest of the universe: 
+ 
+ 
+ 
+  
+F = ma = 4.00 kg
+(
+)
+∑
+12t
+(
+) = 48t  
+ 
+ 
+ 
+ where F is in N and t is in s.  
+ 
+ 
+(c) 
+Power is how fast work is done to increase the object’s kinetic 
+energy: 
+ 
+ 
+  
+P = dW
+dt = dK
+dt = d
+dt 2.00 + 24t2 + 72t4
+(
+) = 48t + 288t3  
+ 
+ 
+where P is in W [watts] and t is in s. 
+ 
+ 
+Alternatively, we could use P = Fv = 48t(1.00 + 6.0t
+2). 
+ 
+(d) The work-kinetic energy theorem ΔK = ∑W lets us find the work 
+done on the object between ti = 0 and tf = 2.00 s. At ti = 0 we have 
+Ki = 2.00 J. At tf = 2.00 s, suppressing units, 
+ 
+ 
+  
+Kf = [2 + 24(2.00 s)
+2 + 72(2.00 s)
+4] = 1250 J 
+ 
+ 
+ 
+Therefore the work input is  
+ 
+ 
+ 
+ 
+W = K f −Ki = 1 248 J = 1.25 × 103 J  
+ 
+ 
+Alternatively, we could start from 
+ 
+ 
+ 
+W =
+Pdt
+ti
+t f∫
+=
+48t + 288t3
+(
+)
+0
+2 s
+∫
+dt 
+P8.48 
+The distance traveled by the ball from the top of the arc to the bottom 
+is πR. The change in internal energy of the system due to the 
+nonconservative force, the force exerted by the pitcher, is 
+ 
+ 
+ 
+ΔE = Fdcos0° = F πR
+(
+) 
+ 
+We shall assign the gravitational energy of the ball-Earth system to be 
+zero with the ball at the bottom of the arc. 
+ 
+Then 
+ 
+ 
+ 
+ΔEmech = 1
+2 mv f
+2 −1
+2 mvi
+2 + mgy f −mgyi 
+ 
+becomes 
+ 
+ 
+ 
+1
+2 mv f
+2 = 1
+2 mvi
+2 + mgyi + F πR
+(
+) = 1
+2 mvi
+2 + mg2R + F πR
+(
+)
+1
+2 mv f
+2 = 1
+2 mvi
+2 + 2mg + πF
+(
+)R
+
+--- PAGE 34 ---
+406     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solve for R, which is the length of her arms. 
+ 
+ 
+ 
+R =
+1
+2 mv f
+2 −1
+2 mvi
+2
+2mg + πF
+= m
+v f
+2 −vi
+2
+4mg + 2πF
+R = 0.180 kg
+(
+)
+25.0 m/s
+(
+)
+2 −0
+4 0.180 kg
+(
+)g + 2π 12.0 N
+(
+)
+= 1.36 m
+ 
+ 
+We find that her arms would need to be 1.36 m long to perform this
+task. This is significantly longer than the human arm.
+ 
+P8.49 
+(a) 
+K +Ug
+(
+)A = K +Ug
+(
+)B 
+ 
+ 
+0 + mgyA = 1
+2 mvB
+2 + 0 
+ 
+ 
+vB =
+2gyA =
+2 9.80 m/s2
+(
+)6.30 m = 11.1 m/s 
+ 
+(b) 
+K +Ug +Uchemical
+(
+)B = K +Ug
+(
+)D 
+ 
+ 
+ 1
+2 mvB
+2 +Uchemical = 1
+2 mvD
+2 + mg yD −yB
+(
+)
+Uchemical = 1
+2 mvD
+2 −1
+2 mvB
+2 + mg yD −yB
+(
+)
+            = 1
+2 m vD
+2 −vB
+2
+(
+) + mg yD −yB
+(
+)
+Uchemical = 1
+2 76.0 kg
+(
+)
+5.14 m/s
+(
+)
+2 −11.1 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
+                                              + 76.0 kg
+(
+) 9.80 m/s2
+(
+) 6.30 m
+(
+)
+ 
+ 
+ 
+ Uchemical = 1.00 × 103 J 
+ 
+(c) 
+K +Ug
+(
+)D = K +Ug
+(
+)E where E is the apex of his motion: 
+ 
+ 
+1
+2 mvD
+2 + 0 = 0 + mg yE −yD
+(
+) 
+ 
+ 
+yE −yD = vD
+2
+2g =
+5.14 m/s
+(
+)
+2
+2 9.80 m/s2
+(
+)
+= 1.35 m
+ 
+P8.50 
+(a) 
+Simplified, the equation is  
+ 
+ 
+ 
+0 = (9700 N/m)x
+2 – (450.8 N)x – 1395 N ⋅ m
+
+--- PAGE 35 ---
+Chapter 8     407 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then 
+ 
+ 
+ 
+ 
+x = −b ±
+b2 −4ac
+2a
+= 450.8 N ±
+450.8 N
+(
+)
+2 −4 9700 N/m
+(
+) −1395 N⋅m
+(
+)
+2 9700 N/m
+(
+)
+= 450.8 N ± 7370 N
+19 400 N/m
+= 0.403 m or −0.357 m
+ 
+ 
+(b) 
+From a perch at a height of 2.80 m above the top of a pile of
+mattresses, a 46.0-kg child jumps upward at 2.40 m/s. The
+mattresses behave as a linear spring with force constant
+19.4 kN/m. Find the maximum amount by which they are
+compressed when the child lands on them.
+ 
+ 
+(c) 
+0.023 2 m. 
+ 
+(d) 
+This result is the distance by which the mattresses compress if
+the child just stands on them. It is the location of the equilibrium
+position of the oscillator.
+ 
+P8.51 
+(a) 
+The total external work done on the system of Jonathan-bicycle is 
+ 
+ 
+ 
+W = ΔK = 1
+2 mv f
+2 −1
+2 mvi
+2
+= 1
+2 (85.0 kg) (1.00 m/s)2 −(6.00 m/s)2
+⎡⎣
+⎤⎦
+= −1 490 J
+ 
+ 
+(b) Gravity does work on the Jonathan-bicycle system, and the 
+potential (chemical) energy stored in Jonathan’s body is 
+transformed into kinetic energy: 
+ 
+ 
+ 
+ΔK + ΔUchem = Wg
+ΔUchem = Wg −ΔK = −mgh −ΔK
+ΔUchem = −85.0 kg
+(
+)g 7.30 m
+(
+) −ΔK = −6 080 −1 490
+= −7 570 J
+
+--- PAGE 36 ---
+408     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Jonathan does work on the bicycle (and his mass). Treat his work 
+as coming from outside the bicycle-Jonathan’s mass system: 
+ 
+ 
+ 
+ΔK + ΔUg = Wj
+Wf = ΔK + mgh = −1 490 J + 6 080 J = 4 590 J
+ 
+P8.52 
+(a) 
+The total external work done on the system of Jonathan-bicycle is 
+ 
+ 
+ 
+W = ΔK = 1
+2 mv f
+2 −1
+2 mvi
+2 
+ 
+(b) Gravity does work on the Jonathan-bicycle system, and the 
+potential (chemical) energy stored in Jonathan’s body is 
+transformed into kinetic energy: 
+ 
+ 
+ 
+ΔK + ΔUchem = Wg
+ΔUchem = Wg −ΔK = −mgh −
+1
+2 mv f
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(c) 
+Jonathan does work on the bicycle (and his mass). Treat his work 
+as coming from outside the bicycle-Jonathan’s mass system: 
+ 
+ 
+ 
+ΔK + ΔUg = Wj
+Wj = ΔK + mgh = 1
+2 mv f
+2 −1
+2 mvi
+2 + mgh
+ 
+P8.53 
+(a) 
+The block-spring-surface system is isolated with a 
+nonconservative force acting. Therefore, Equation 8.2 becomes 
+ 
+ 
+ 
+ΔK + ΔU + ΔEint  = 0 
+ 
+ 
+ 
+1
+2 mv2 − 0
+(
+) +  1
+2 kx2 −  1
+2 kxi
+2
+(
+) +  fk xi − x
+(
+) = 0 
+To find the maximum speed, differentiate the equation with 
+respect to x: 
+ 
+ 
+ 
+mv dv
+dx + kx −  fk  = 0 
+ 
+ 
+Now set dv/dx = 0: 
+ 
+ 
+ 
+kx −  fk  = 0 →   x =  fk
+k  = 
+4.0 N
+1.0  ×  103 N/m = 4.0 × 10−3 m 
+This is the compression distance of the spring, so the position of 
+the block relative to x = 0 is x = −4.0 × 10−3 m.
+
+--- PAGE 37 ---
+Chapter 8     409 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) By the same approach, 
+ 
+ 
+ 
+kx −  fk  = 0 →   x =  fk
+k  = 
+10.0 N
+1.0  ×  103 N/m = 1.0 × 10−2 m 
+ 
+ 
+so the position of the block is x = −1.0 × 10−2 m. 
+P8.54 
+PΔt = W = ΔK = Δm
+(
+)v2
+2
+ 
+ 
+The density is 
+ρ =
+Δm
+volume = Δm
+AΔx 
+ 
+Substituting this into the first equation and 
+solving for P, since Δx
+Δt = v for a constant speed, we get 
+ 
+ 
+ 
+P = ρAv3
+2
+ 
+ 
+Also, since P = Fv,  
+ 
+ 
+ 
+F = ρAv2
+2
+ 
+ 
+Our model predicts the same proportionalities as the empirical
+equation, and gives D = 1 for the drag coefficient. Air actually
+slips around the moving object, instead of accumulating in front
+of it. For this reason, the drag coefficient is not necessarily unity.
+It is typically less than one for a streamlined object and can be
+greater than one if the airflow around the object is complicated.
+ 
+P8.55 
+P = 1
+2 Dρπr2v3 
+ 
+(a) 
+We use 1.20 kg/m3 for the density of air, and calculate 
+ 
+ 
+ 
+Pa = 1
+2 1( ) 1.20 kg/m3
+(
+)π 1.50 m
+(
+)
+2 8.00 m/s
+(
+)
+3
+= 2.17 × 103 W
+ 
+ 
+(b) We solve part (b) by proportion: 
+ 
+ 
+ 
+Pb
+Pa
+= vb
+3
+va
+3 =
+24 m/s
+8 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+ = 33 = 27 
+ 
+ 
+ 
+Pb = 27 2.17 × 103 W
+(
+) = 5.86 × 104 W = 58.6 kW 
+ANS. FIG. P8.54
+
+--- PAGE 38 ---
+410     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.56 
+(a) 
+In Example 8.3, m = 35.0 g, yA = –0.120 m, yB = 0, and k = 958 N/m. 
+Friction fk = 2.00 N acts over distance d = 0.600 m. For the ball-
+spring-Earth system, Ki = 0, Ugi = mgyA, Usi = 1
+2 kx2, where 
+x = yA ; Kf = 0, Ugf = mgyC, and Usf = 0. 
+ 
+ 
+ 
+ΔK + ΔU = −fkd
+0 + mgyC −mgyA
+(
+) + 0 −1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= −fkd
+mgyC = mgyA + 1
+2 kx2 −fkd
+ 
+ 
+ 
+ 
+yC = yA +
+1
+2 kx2 −fkd
+mg
+= −0.120 +
+1
+2 958 N/m
+(
+) 0.120 m
+(
+)
+2 −2.00 N
+(
+) 0.600 m
+(
+)
+0.035 kg
+(
+)g
+= 16.5 m
+ 
+ 
+(b) The ball-spring-Earth system is not isolated as the popgun is 
+loaded.  In addition, as the ball travels up the barrel, a 
+nonconservative force acts within the system. The system is 
+isolated after the ball leaves the barrel. 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P8.56
+
+--- PAGE 39 ---
+Chapter 8     411 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.57 
+(a) 
+To calculate the change in kinetic energy, we integrate the 
+expression for a as a function of time to obtain the car’s velocity: 
+ 
+ 
+ 
+v =
+a dt
+0
+t
+∫
+=
+1.16t −0.210t2 + 0.240t3
+(
+)dt
+0
+t
+∫
+= 1.16 t2
+2 −0.210 t3
+3 + 0.240 t4
+4 0
+t
+= 0.580t2 −0.070t3 + 0.060t4
+ 
+ 
+ 
+At t = 0, vi = 0. At t = 2.5 s, 
+ 
+ 
+ 
+v f = 0.580 m/s3
+(
+) 2.50 s
+(
+)
+2 −0.070 m/s4
+(
+) 2.50 s
+(
+)
+3
+                           + 0.060 m/s5
+(
+) 2.50 s
+(
+)
+4 = 4.88 m/s
+ 
+ 
+ 
+The change in kinetic energy during this interval is then 
+ 
+ 
+Ki +W = K f
+0 +W = 1
+2 mv f
+2 = 1
+2 1160 kg
+(
+) 4.88 m/s
+(
+)
+2 = 1.38 × 104 J
+ 
+ 
+(b) The road does work on the car when the engine turns the wheels 
+and the car moves. The engine and the road together transform 
+chemical potential energy in the gasoline into kinetic energy of 
+the car. 
+ 
+ 
+ 
+P = W
+Δt = 1.38 × 104 J
+2.50 s
+ 
+ 
+ 
+ 
+P = 5.52 × 103 W
+ 
+ 
+(c) 
+The value in (b) represents only energy that leaves the engine
+and is transformed to kinetic energy of the car. Additional
+energy leaves the engine by sound and heat. More energy leaves
+the engine to do work against friction forces and air resistance.
+ 
+P8.58 
+At the bottom of the circle, the initial speed of the coaster is 22.0 m/s. 
+As the coaster travels up the circle, it will slow down. At the top of the 
+track, the centripetal acceleration must be at least that of gravity, g, to 
+remain on the track. Apply conservation of energy to the roller coaster-
+Earth system to find the speed of the coaster at the top of the circle so 
+that we may find the centripetal acceleration of the coaster. 
+ 
+ 
+ 
+ΔK + ΔU = 0
+1
+2 mv2
+top −1
+2 mv2
+bottom
+⎛
+⎝⎜
+⎞
+⎠⎟+ mgytop −mgybottom
+(
+) = 0
+
+--- PAGE 40 ---
+412     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+1
+2 mv2
+top −1
+2 mv2
+bottom
+⎛
+⎝⎜
+⎞
+⎠⎟+ mg2R −0
+(
+) = 0 →v2
+top = v2
+bottom −4gR
+v2
+top = (22.0 m/s)2 −4g(12.0 m) = 13.6 m2/s2
+ 
+ 
+For this speed, the centripetal acceleration is 
+ 
+ 
+ 
+ac =
+v2
+top
+R = 13.6 m2/s2
+12.0 m
+= 1.13 m/s2 
+ 
+The centripetal acceleration of each passenger as the coaster passes
+over the top of the circle is 1.13 m/s2. Since this is less than the 
+acceleration due to gravity, the unrestrained passengers will fall out 
+of the cars!
+ 
+P8.59 
+(a) 
+The energy stored in the spring is the elastic potential energy,  
+U = 1
+2
+kx
+2, where k = 850 N/m. At x = 6.00 cm,  
+ 
+ 
+ 
+U = 1
+2
+kx
+2 = 1
+2
+(850 N/m)(0.0600 m)
+2 = 1.53 J 
+ 
+ 
+At the equilibrium position, x = 0, U = 0 J . 
+ 
+(b) Applying energy conservation to the block-spring system: 
+ 
+ 
+ 
+ΔK + ΔU = 0
+1
+2 mv f
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ U f −Ui
+(
+) = 0 →
+1
+2 mv f
+2 −0
+⎛
+⎝⎜
+⎞
+⎠⎟= −U f −Ui
+(
+)
+1
+2 mv f
+2 = Ui −U f
+ 
+ 
+ 
+because the block is released from rest. For xf = 0, U = 0, and 
+ 
+ 
+ 
+1
+2 mv f
+2 = Ui −U f →v f =
+2 Ui −U f
+(
+)
+m
+v f =
+2(1.53 J)
+1.00 kg
+v f = 1.75 m/s
+ 
+ 
+(c) 
+From (b) above, for xf = xi/2 = 3.00 cm,  
+ 
+ 
+ 
+U = 1
+2
+kx
+2 = 1
+2
+(850 N/m)(0.0300 m)
+2 = 0.383 J
+
+--- PAGE 41 ---
+Chapter 8     413 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and 
+ 
+ 
+ 
+1
+2 mv f
+2 = Ui −U f →v f =
+2 Ui −U f
+(
+)
+m
+v f =
+2(1.53 J −0.383 J)
+1.00 kg
+=
+2(1.15 J)
+1.00 kg
+v f = 1.51 m/s
+ 
+P8.60 
+(a) 
+The suggested equation PΔt = bwd implies all of the following 
+cases: 
+ 
+ 
+(1) 
+PΔt = b w
+2
+⎛
+⎝⎜
+⎞
+⎠⎟2d
+(
+) 
+ 
+ 
+(2) 
+P Δt
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= b w
+2
+⎛
+⎝⎜
+⎞
+⎠⎟d 
+ 
+ 
+(3) 
+P Δt
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= bw d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+and 
+ 
+ 
+(4) 
+P
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Δt = b w
+2
+⎛
+⎝⎜
+⎞
+⎠⎟d 
+ 
+ 
+These are all of the proportionalities Aristotle lists. 
+ 
+ANS FIG. P8.60 
+ 
+(b) 
+For one example, consider a horizontal force F pushing an object
+of weight w at constant velocity across a horizontal floor with
+which the object has coefficient of friction µk.
+ 
+ 
+ 
+
+F
+∑
+= ma implies that 
+ 
+ 
+ 
++n – w = 0  and  F –  µkn = 0 
+ 
+ 
+so that F = µkw. 
+ 
+ 
+As the object moves a distance d, the agent exerting the force does 
+work 
+ 
+ 
+ 
+W = Fdcosθ = Fdcos0° = µkwd
+
+--- PAGE 42 ---
+414     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ and puts out power  P = W
+Δt 
+ 
+ 
+This yields the equation PΔt = µkwd which represents Aristotle’s 
+theory with b = µk.  
+ 
+ 
+Our theory is more general than Aristotle’s. Ours can also 
+describe accelerated motion. 
+P8.61  
+k = 2.50 × 10
+4 N/m, 
+m = 25.0 kg 
+ 
+xA = –0.100 m, 
+Ug x=0 = Us x=0 = 0 
+ 
+(a) 
+At point A, the total energy of the child-pogo-stick-Earth system 
+is given by  
+ 
+ 
+ 
+Emech = KA +UgA +Us   →   Emech = 0 + mgxA + 1
+2 kxA
+2 
+ 
+ 
+ 
+ 
+Emech = 25.0 kg
+(
+) 9.80 m/s2
+(
+) −0.100 m
+(
+)
++ 1
+2 2.50 × 104 N/m
+(
+) −0.100 m
+(
+)
+2
+Emech = −24.5 J + 125 J = 100 J
+ 
+ 
+(b) Since only conservative forces are involved, the total energy of 
+the child-pogo-stick-Earth system at point C is the same as that at 
+point A. 
+ 
+ 
+ 
+ 
+KC +UgC +UsC = KA +UgA +UsA 
+ 
+ 
+ 
+ 
+0 + 25.0 kg
+(
+) 9.80 m/s2
+(
+)xC + 0 = 0 −24.5 J + 125 J 
+ 
+ 
+ 
+ 
+xC = 0.410 m 
+ 
+(c) 
+KB +UgB +UsB = KA +UgA +UsA 
+ 
+ 
+1
+2 25.0 kg
+(
+)vB
+2 + 0 + 0 = 0 + −24.5 J
+(
+) + 125 J 
+ 
+ 
+vB = 2.84 m/s 
+ 
+(d) The energy of the system for configurations in which the spring is 
+compressed is 
+ 
+ 
+  
+ 
+E = K +  1
+2 kx2 − mgx
+ 
+ 
+ 
+where x is the compression distance of the spring.
+
+--- PAGE 43 ---
+Chapter 8     415 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+To find the position x for which the kinetic energy is a maximum, 
+solve this expression for K, differentiate with respect to x, and set 
+the result equal to zero: 
+ 
+ 
+ 
+ 
+K = E −  1
+2 kx2 + mgx
+dK
+dx  = 0 − kx + mg = 0    →   x = mg
+k
+ 
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+ 
+x = 
+25.0 kg
+(
+) 9.80 m/s2
+(
+)
+2.50 × 104 N/m
+ = 0.009 8 m = 0.98 cm
+ 
+ 
+ 
+Because this is the value for the compression distance of the 
+spring, this position is 0.98 cm below x = 0. 
+ 
+ 
+ 
+ 
+K = Kmax at x = −9.80 mm 
+ 
+(e) 
+Kmax = KA + UgA −Ug x=−9.80 mm
+(
+) + UsA −Us x=−9.80 mm
+(
+) 
+ 
+ 
+or 
+ 
+ 
+ 
+ 
+1
+2 25.0 kg
+(
+)vmax
+2
+              = 25.0 kg
+(
+) 9.80 m/s2
+(
+) −0.100 m
+(
+) −−0.009 8 m
+(
+)
+[
+]
+ 
+ 
+ 
+ 
++ 1
+2 2.50 × 104 N/m
+(
+)
+−0.100 m
+(
+)
+2 −−0.009 8 m
+(
+)
+2
+⎡⎣
+⎤⎦ 
+ 
+ 
+yielding vmax = 2.85 m/s 
+P8.62 
+(a) 
+Between the second and the third picture, ΔEmech = ΔK + ΔU: 
+ 
+ 
+ 
+−µmgd = −1
+2 mvi
+2 + 1
+2 kd2 
+ 
+ 
+ 
+1
+2 50.0 N/m
+(
+)d2 + 0.250 1.00 kg
+(
+) 9.80 m/s2
+(
+)d
+                                   −1
+2 1.00 kg
+(
+) 3.00 m/s
+(
+)
+2 = 0
+d = −2.45 ± 21.35
+[
+] N
+50.0 N/m
+= 0.378 m
+ 
+ 
+(b) Between picture two and picture four, ΔEmech = ΔK + ΔU: 
+ 
+ 
+ 
+−µmg 2d
+(
+) = 1
+2 mv f
+2 −1
+2 mvi
+2
+
+--- PAGE 44 ---
+416     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives 
+ 
+ 
+ 
+v f =
+3.00 m/s
+(
+)
+2 −
+2
+1.00 kg
+(
+)
+2.45 N
+(
+) 2
+( ) 0.378 m
+(
+)
+ = 2.30 m/s
+ 
+ 
+(c) 
+For the motion from picture two to picture five in the figure 
+below, ΔEmech = ΔK + ΔU: 
+ 
+ 
+ 
+−µmg D + 2d
+(
+) = 1
+2 mv f
+2 −1
+2 mvi
+2
+D =
+1.00 kg
+(
+) 3.00 m/s
+(
+)
+2
+2 0.250
+(
+) 1.00 kg
+(
+) 9.80 m/s2
+(
+)
+−2 0.378 m
+(
+) = 1.08 m
+ 
+ 
+ANS. FIG P8.62 
+P8.63 
+The easiest way to solve this problem about a chain-reaction process is 
+by considering the energy changes experienced by the block between 
+the point of release (initial) and the point of full compression of the 
+spring (final). Recall that the change in potential energy (gravitational 
+and elastic) plus the change in kinetic energy must equal the work 
+done on the block by non-conservative forces. We choose the 
+gravitational potential energy to be zero along the flat portion of the 
+track. 
+ 
+ANS. FIG. P8.63
+
+--- PAGE 45 ---
+Chapter 8     417 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.64 
+ 
+There is zero spring potential energy in situation 
+A and zero 
+gravitational potential energy in situation 
+D . Putting the energy 
+equation into symbols: 
+ 
+ 
+ 
+KD − KA − U gA + UsD = – fkdBC 
+ 
+Expanding into specific variables: 
+ 
+ 
+ 
+0 – 0 – mgyA + 1
+2 kxs
+2 = – fkdBC
+ 
+ 
+ 
+The friction force is fk = µkmg, so 
+ 
+ 
+ 
+ 
+ 
+mgyA −1
+2 kx2 = µkmgd 
+ 
+ 
+Solving for the unknown variable μk gives  
+ 
+ 
+ 
+ 
+µk = yA
+d −
+kx2
+2mgd
+= 3.00 m
+6.00 m −
+(2 250 N/m)(0.300 m)2
+2(10.0 kg) 9.80 m s2
+(
+)(6.00 m) = 0.328
+ 
+P8.64 
+We choose the zero configuration of potential  
+energy for the 30.0-kg block to be at the  
+unstretched position of the spring, and for  
+the 20.0-kg block to be at its lowest point on  
+the incline, just before the system is released  
+from rest.  From conservation of energy, we 
+have  
+ 
+ 
+ K +U
+(
+)i = K +U
+(
+) f 
+ 
+ 
+0 + 30.0 kg
+(
+) 9.80 m/s2
+(
+) 0.200 m
+(
+) + 1
+2 250 N/m
+(
+) 0.200 m
+(
+)
+2
+= 1
+2 20.0 kg + 30.0 kg
+(
+)v2
+                               + 20.0 kg
+(
+) 9.80 m/s2
+(
+) 0.200 m
+(
+)sin 40.0°
+ 
+ 
+ 
+58.8 J + 5.00 J = 25.0 kg
+(
+)v2 + 25.2 J
+v = 1.24 m/s
+
+--- PAGE 46 ---
+418     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.65 
+(a) 
+For the isolated spring-block system, 
+ 
+ 
+ 
+ΔK + ΔU = 0
+1
+2 mv2 − 0
+⎛
+⎝⎜
+⎞
+⎠⎟ +  0 −  1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟ = 0
+x = 
+m
+k v = 
+0.500 kg
+450 N/m   12.0 m/s
+(
+)
+ 
+ 
+ 
+ 
+x = 0.400 m 
+ 
+(b) 
+ΔK + ΔU + ΔEint = 0
+1
+2 mv f
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ +  2mgR − 0
+(
+) +  fk πR
+(
+) = 0
+ 
+ 
+v f  =  vi
+2 − 4gR − 2π fkR
+m
+     = 
+12.0 m/s
+(
+)
+2 − 4 9.80 m/s2
+(
+) 1.00 m
+(
+) − 2π 7.00 N
+(
+) 1.00 m
+(
+)
+0.500 kg
+ 
+ 
+ 
+v f = 4.10 m/s 
+ 
+(c) 
+Does the block fall off at or before the top of the track? The block 
+falls if ac < g. 
+ 
+ 
+ 
+ 
+ac = vT
+2
+R = 4.10 m/s
+(
+)
+2
+1.00 m
+= 16.8 m/s2 
+ 
+ 
+Therefore ac > g and the block stays on the track . 
+P8.66  
+m = mass of pumpkin 
+ 
+R = radius of silo top 
+ 
+ 
+Fr
+∑
+= mar ⇒n −mgcosθ = −m v2
+R
+ 
+ 
+When the pumpkin first loses contact 
+with the surface, n = 0.  
+ 
+Thus, at the point where it leaves the surface: v2 = Rgcosθ. 
+ 
+Choose Ug = 0 in the θ = 90.0° plane. Then applying conservation of 
+energy for the pumpkin-Earth system between the starting point and 
+the point where the pumpkin leaves the surface gives 
+ 
+ 
+ 
+K f +Ugf = Ki +Ugi
+1
+2 mv2 + mgRcosθ = 0 + mgR
+ 
+ANS. FIG. P8.66
+
+--- PAGE 47 ---
+Chapter 8     419 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Using the result from the force analysis, this becomes 
+ 
+ 
+ 
+1
+2 mRgcosθ + mgRcosθ = mgR, which reduces to 
+ 
+ 
+ 
+cosθ = 2
+3
+, and gives θ = cos−1 2 3
+(
+) = 48.2° 
+ 
+as the angle at which the pumpkin will lose contact with the surface. 
+P8.67 
+Convert the speed to metric units: 
+ 
+ 
+ 
+v =  100 km/h
+(
+) 1 000 m
+1 km
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟ = 27.8 m/s
+ 
+ 
+Write Equation 8.2 for this situation, treating the car and surrounding 
+air as an isolated system with a nonconservative force acting: 
+ 
+ 
+ 
+ΔK + ΔUgrav + ΔUfuel + ΔEint = 0 
+ 
+The power of the engine is a measure of how fast it can convert 
+chemical potential energy in the fuel to other forms. The magnitude of 
+the change in energy to other forms is equal to the negative of the 
+change in potential energy in the fuel: ΔEother forms = −ΔUfuel. Therefore, 
+if the car moves a distance d along the hill, 
+ 
+ 
+ 
+P = −ΔUfuel
+Δt
+ = −
+−ΔK − ΔUgrav − ΔEint
+(
+)
+Δt
+    = 
+0 +  mgdsin3.2° − 0
+(
+) +  1
+2 DρAv2d
+Δt
+    = mgvsin3.2° +  1
+2 DρAv3
+ 
+ 
+where we have recognized d/Δt as the speed v of the car. Substituting 
+numerical values, 
+ 
+ 
+ 
+P =  1 500 kg
+(
+) 9.80 m/s2
+(
+) 27.8 m/s
+(
+)sin3.2° 
+                +  1
+2 0.330
+(
+) 1.20 kg/m3
+(
+) 2.50 m2
+(
+) 27.8 m/s
+(
+)
+3
+ 
+ 
+ 
+ 
+P = 33.4 kW = 44.8 hp 
+ 
+The actual power will be larger than this because additional energy 
+coming from the engine is used to do work against internal friction in 
+the moving parts of the car and rolling friction with the road. In 
+addition, some energy from the engine is radiated away by sound. 
+Finally, some of the energy from the fuel raises the internal energy of 
+the engine, and energy leaves the warm engine by heat into the cooler 
+air.
+
+--- PAGE 48 ---
+420     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.68 
+(a) 
+Energy is conserved in the swing of the pendulum, and the 
+stationary peg does no work. So the ball’s speed does not change 
+when the string hits or leaves the peg, and the ball swings equally 
+high on both sides. 
+ 
+(b) The ball will swing in a circle of radius R = (L – d) about the peg. 
+If the ball is to travel in the circle, the minimum centripetal 
+acceleration at the top of the circle must be that of gravity: 
+ 
+ 
+ 
+ 
+mv2
+R
+= g →v2 = g(L −d)
+ 
+When the ball is released from rest, Ui = mgL, and when it is at the 
+top of the circle, Ui = mg2(L – d), where height is measured from 
+the bottom of the swing. By energy conservation, 
+ 
+ 
+ 
+ 
+mgL = mg2 L −d
+(
+) + 1
+2 mv2 
+ 
+ 
+From this and the condition on v
+2 we find d = 3L
+5
+. 
+P8.69 
+If the spring is just barely able to lift the lower block from the table, the 
+spring lifts it through no noticeable distance, but exerts on the block a 
+force equal to its weight Mg. The extension of the spring, from 
+
+Fs = kx, 
+must be Mg/k. Between an initial point at release and a final point 
+when the moving block first comes to rest, we have 
+ 
+ 
+ 
+Ki +Ugi +Usi = K f +Ugf +Usf 
+ 
+ 
+ 
+0 + mg −4mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 k 4mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0 + mg Mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 k Mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+ 
+−4m2g2
+k
++ 8m2g2
+k
+= mMg2
+k
++ M2g2
+2k
+4m2 = mM + M2
+2
+M2
+2 + mM −4m2 = 0
+M =
+−m ±
+m2 −4
+1
+2( ) −4m2
+(
+)
+2
+1
+2( )
+= −m ±
+9m2
+ 
+ 
+Only a positive mass is physical, so we take M = m 3 −1
+(
+) = 2m .
+
+--- PAGE 49 ---
+Chapter 8     421 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.70 
+P8.70 
+The force needed to hang on is equal to the 
+force F the trapeze bar exerts on the 
+performer. From the free-body diagram for 
+the performer’s body, as shown, 
+ 
+ 
+ 
+F −mgcosθ = m v2
+
+ 
+ 
+or 
+ 
+F = mgcosθ + m v2
+ 
+ 
+At the bottom of the swing, θ = 0°, so  
+ 
+ 
+ 
+ 
+ 
+F = mg + m v2
+
+ 
+ 
+The performer cannot sustain a tension of more than 1.80mg. What is 
+the force F at the bottom of the swing? To find out, apply conservation 
+of mechanical energy of the performer-Earth system as the performer 
+moves between the starting point and the bottom: 
+ 
+ 
+mg1−cos 60.0°
+(
+) = 1
+2 mv2 →mv2
+
+= 2mg 1−cos 60.0°
+(
+) = mg
+ 
+ 
+Hence, F = mg + m v2
+= mg + mg = 2mg at the bottom. 
+ 
+The tension at the bottom is greater than the performer can
+withstand; therefore the situation is impossible.
+ 
+*P8.71 
+We first determine the energy output of the runner: 
+ 
+ 
+ 
+= 0.600 J kg ⋅step
+(
+) 60.0 kg
+(
+)
+1 step
+1.50 m
+⎛
+⎝
+⎞
+⎠= 24.0 J m 
+ 
+From this we calculate the force exerted by the runner per step: 
+ 
+ 
+ 
+F = 24.0 J m
+(
+) 1 N⋅m J
+(
+) = 24.0 N 
+ 
+Then, from the definition of power, P = Fv, we obtain 
+ 
+ 
+ 
+v = P
+F = 70.0 W
+24.0 N = 2.92 m s
+
+--- PAGE 50 ---
+422     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.72 
+(a) 
+At the top of the loop the car and 
+riders are in free fall: 
+ 
+ 
+ 
+ 
+Fy
+∑
+= may: 
+ 
+ 
+ 
+ 
+ 
+mg down = mv2
+R down 
+ 
+ 
+ 
+ 
+v =
+Rg 
+ 
+ 
+Energy of the car-riders-Earth 
+system is conserved between 
+release and top of loop: 
+ 
+ 
+ 
+ 
+Ki +Ugi = K f +Ugf : 
+ 
+ 
+ 
+ 
+0 + mgh = 1
+2 mv2 + mg 2R
+(
+) 
+ 
+ 
+ 
+ 
+gh = 1
+2 Rg + g 2R
+(
+)
+h = 5R
+2
+ 
+ 
+(b) Let h now represent the height 
+≥2.5 R of the release point. At 
+the bottom of the loop we have 
+ 
+ 
+ 
+ 
+mgh = 1
+2 mvb
+2 
+ 
+ 
+ 
+or  
+vb
+2 = 2gh 
+ 
+ 
+then, from 
+Fy
+∑
+= may: 
+ 
+ 
+ 
+ 
+ 
+nb −mg = mvb
+2
+R
+up
+(
+) 
+ 
+ 
+ 
+ 
+nb = mg + m 2gh
+(
+)
+R
+ 
+ 
+ 
+At the top of the loop, 
+ 
+ 
+ 
+ 
+mgh = 1
+2 mvt
+2 + mg 2R
+(
+) 
+ 
+ 
+ 
+ 
+vt
+2 = 2gh −4gR 
+ANS. FIG. P8.72
+
+--- PAGE 51 ---
+Chapter 8     423 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+from 
+Fy
+∑
+= may: 
+ 
+ 
+ 
+ 
+ 
+−nt −mg = −mvt
+2
+R 
+ 
+ 
+ 
+ 
+nt = −mg + m
+R 2gh −4gR
+(
+)
+nt = m 2gh
+(
+)
+R
+−5mg
+ 
+ 
+ 
+Then the normal force at the bottom is larger by 
+ 
+ 
+  
+ 
+nb −nt = mg + m 2gh
+(
+)
+R
+−m 2gh
+(
+)
+R
++ 5mg = 6mg 
+Note that this is the same result we will obtain for the difference in 
+the tension in the string at the top and bottom of a vertical circle in 
+Problem 73. 
+P8.73 
+Applying Newton’s second law at the bottom (b) 
+and top (t) of the circle gives 
+ 
+ 
+Tb −mg = mvb
+2
+R
+  and  −Tt −mg = −mvt
+2
+R
+ 
+ 
+Adding these gives 
+ 
+ 
+Tb = Tt + 2mg +
+m vb
+2 −vt
+2
+(
+)
+R
+ 
+ 
+Also, energy must be conserved and ΔU + ΔK = 0. 
+ 
+So,    m vb
+2 −vt
+2
+(
+)
+2
++ 0 −2mgR
+(
+) = 0    and    m vb
+2 −vt
+2
+(
+)
+R
+= 4mg 
+ 
+Substituting into the above equation gives Tb = Tt + 6mg . 
+P8.74 
+(a) 
+No. The system of the airplane and the surrounding air is 
+nonisolated. There are two forces acting on the plane that move 
+through displacements, the thrust due to the engine (acting across 
+the boundary of the system) and a resistive force due to the air 
+(acting within the system). Since the air resistance force is 
+nonconservative, some of the energy in the system is transformed 
+to internal energy in the air and the surface of the airplane.  
+Therefore, the change in kinetic energy of the plane is less than 
+the positive work done by the engine thrust. So, 
+mechanical energy is not conserved in this case. 
+ANS. FIG. P8.73
+
+--- PAGE 52 ---
+424     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Since the plane is in level flight, Ug f = Ugi and the conservation of 
+energy for nonisolated systems reduces to  
+ 
+ 
+ 
+ 
+W
+∑
+other forces = W = ΔK + ΔU + ΔEint 
+ 
+ 
+or   
+ 
+ 
+ 
+ 
+W = Wthrust = K f −Ki −fs 
+ 
+ 
+ 
+ 
+F(cos0°)s = 1
+2 mv f
+2 −1
+2 mvi
+2 −f (cos180°)s
+ 
+ 
+ 
+This gives 
+ 
+ 
+ 
+ 
+v f =
+vi
+2 + 2 F −f
+(
+)s
+m
+=
+60.0 m/s
+(
+)
+2 +
+2
+7.50 −4.00
+(
+) × 104 N
+⎡⎣
+⎤⎦500 m
+(
+)
+1.50 × 104 kg
+ 
+ 
+ 
+ 
+v f = 77.0 m/s 
+P8.75 
+(a) 
+As at the end of the process analyzed in Example 8.8, we begin 
+with a 0.800-kg block at rest on the end of a spring with stiffness 
+constant 50.0 N/m, compressed 0.092 4 m. The energy in the 
+spring is (1/2)(50 N/m)(0.092 4 m)
+2 = 0.214 J. To push the block 
+back to the unstressed spring position would require work 
+against friction of magnitude 3.92 N (0.092 4 m) = 0.362 J. 
+ 
+ 
+Because 0.214 J is less than 0.362 J, the spring cannot push the
+object back to x = 0.
+ 
+ 
+(b) The block approaches the spring with energy  
+ 
+ 
+ 
+1
+2 mv2 = 1
+2 0.800 kg
+(
+) 1.20 m/s
+(
+)
+2 = 0.576 J
+  
+ 
+ 
+It travels against friction by equal distances in compressing the 
+spring and in being pushed back out, so half of the initial kinetic 
+energy is transformed to internal energy in its motion to the right 
+and the rest in its motion to the left. The spring must possess one-
+half of this energy at its maximum compression: 
+ 
+ 
+ 
+0.576 J
+2
+= 1
+2 50.0 N/m
+(
+)x2  
+ 
+ 
+so 
+x = 0.107 m
+
+--- PAGE 53 ---
+Chapter 8     425 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.77 
+ 
+ 
+For the compression process we have the conservation of energy 
+equation 
+ 
+ 
+ 
+ 
+0.576 J + µk 7.84 N 0.107 m
+(
+)cos 180° = 0.288 J 
+ 
+ 
+ 
+ 
+so µk = 0.288 J/0.841 J = 0.342 
+ 
+ 
+As a check, the decompression process is described by 
+ 
+ 
+ 
+ 
+0.288 J + µk 7.84 N 0.107 m
+(
+) cos 180° = 0 
+ 
+ 
+which gives the same answer for the coefficient of friction. 
+*P8.76 
+As it moves at constant speed, the bicycle is in equilibrium. The 
+forward friction force is equal in magnitude to the air resistance, which 
+we write as av2, where a is a proportionality constant. The exercising 
+woman exerts the friction force on the ground; by Newton’s third law, 
+it is this same magnitude again. The woman’s power output is  
+P = Fv = av3 = ch, where c is another constant and h is her heart rate. We 
+are given a(22 km/h)3 = c(90 beats/min). For her minimum heart rate 
+we have avmin
+3
+= c 136 beats min
+(
+) . By division 
+vmin
+22 km h
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 136
+90 .  
+ 
+ 
+ 
+vmin = 136
+90
+(
+)
+1 3
+22 km h
+(
+) = 25.2 km h 
+ 
+Similarly, vmax = 166
+90
+(
+)
+1 3
+22 km h
+(
+) = 27.0 km h . 
+P8.77 
+(a) 
+Conservation of energy for the sled-
+rider-Earth system, between A and 
+C: 
+ 
+ 
+ 
+Ki +Ugi = K f +Ugf 
+ 
+ 
+ 
+1
+2 m 2.50 m/s
+(
+)
+2
+         + m 9.80 m/s2
+(
+) 9.76 m
+(
+)
+= 1
+2 mvC
+2 + 0
+ 
+ 
+ 
+ 
+ 
+vC =
+2.50 m/s
+(
+)
+2 + 2 9.80 m/s2
+(
+) 9.76 m
+(
+) = 14.1 m/s
+ 
+ 
+(b) Incorporating the loss of mechanical energy during the portion of 
+the motion in the water, we have, for the entire motion between A 
+and D (the rider’s stopping point), 
+ 
+ 
+ 
+ 
+Ki +Ugi −fkd = K f +Ugf :
+
+--- PAGE 54 ---
+426     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P8.77(c) 
+ANS. FIG. P8.77(d) 
+ 
+ 
+ 
+ 
+1
+2 80.0 kg
+(
+) 2.50 m/s
+(
+)
+2
+              + 80.0 kg
+(
+) 9.80 m/s2
+(
+) 9.76 m
+(
+) −fkd = 0 + 0
+ 
+ 
+ 
+ 
+−fkd = 7.90 × 103 J 
+ 
+ 
+The water exerts a friction force 
+ 
+ 
+ 
+fk = 7.90 × 103 J
+d
+= 7.90 × 103 N ⋅m
+50.0 m
+= 158 N
+ 
+ 
+ 
+and also a normal force of 
+ 
+ 
+ 
+ 
+n = mg = 80.0 kg
+(
+) 9.80 m/s2
+(
+) = 784 N 
+ 
+ 
+The magnitude of the water force is 
+ 
+ 
+ 
+ 
+158 N
+(
+)
+2 + 784 N
+(
+)
+2 = 800 N 
+ 
+(c) 
+The angle of the slide is 
+ 
+ 
+ 
+ 
+θ = sin−1 9.76 m
+54.3 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.4°
+ 
+ 
+ 
+For forces perpendicular to the track 
+at B, 
+ 
+ 
+ 
+ 
+Fy
+∑
+= may: 
+nB −mgcosθ = 0 
+ 
+ 
+ 
+ 
+nB = 80.0 kg
+(
+) 9.80 m/s2
+(
+)cos10.4° = 771 N 
+ 
+(d) 
+Fy
+∑
+= may: 
+ 
+ 
+ 
+ 
+ 
++nC −mg = mvC
+2
+r
+ 
+ 
+ 
+ 
+ 
+nC = 80.0 kg
+(
+) 9.80 m/s2
+(
+)
++ 80.0 kg
+(
+) 14.1 m/s
+(
+)
+2
+20.0 m
+nC = 1.57 × 103 N up
+ 
+ 
+ 
+The rider pays for the thrills of a giddy height at A, and a high 
+speed and tremendous splash at C. As a bonus, he gets the quick 
+change in direction and magnitude among the forces we found in 
+parts (d), (b), and (c).
+
+--- PAGE 55 ---
+Chapter 8     427 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.78 
+(a) 
+Maximum speed occurs after the needle leaves the spring, before 
+it enters the body. We assume the needle is fired horizontally. 
+ 
+ 
+ 
+ANS. FIG. P8.78(a) 
+ 
+ 
+ 
+ 
+Ki +Ui −fkd = K f +U f 
+ 
+ 
+ 
+0 + 1
+2 kx2 −0 = 1
+2 mvmax
+2
++ 0
+1
+2 375 N m
+(
+) 0.081 m
+(
+)2 = 1
+2 0.005 6 kg
+(
+)vmax
+2
+2 1.23 J
+(
+)
+0.005 6 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= vmax = 21.0 m s
+ 
+ 
+(b) The same energy of 1.23 J as in part (a) now becomes partly 
+internal energy in the soft tissue, partly internal energy in the 
+organ, and partly kinetic energy of the needle just before it runs 
+into the stop. We write a conservation of energy equation to 
+describe this process: 
+ 
+ 
+vf
+ 
+ 
+ 
+ANS. FIG. P8.78(b) 
+ 
+ 
+ 
+ 
+Ki +Ui −fk1d1 −fk2d2 = K f +U f
+0 + 1
+2 kx2 −fk1d1 −fk2d2 = 1
+2 mv f
+2 + 0
+1.23 J −7.60 N 0.024 m
+(
+) −9.20 N 0.035 m
+(
+) = 1
+2 0.005 6 kg
+(
+)v f
+2
+2 1.23 J −0.182 J −0.322 J
+(
+)
+0.005 6 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= v f = 16.1 m s
+
+--- PAGE 56 ---
+428     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P8.79 
+(a) 
+Let m be the mass of the whole board. The portion on the rough 
+surface has mass mx/L. The normal force supporting it is mxg
+L
+ 
+and the friction force is µkmgx
+L
+= ma. Then  
+ 
+ 
+ 
+a = µkgx
+L
+ opposite to the motion
+ 
+ 
+(b) In an incremental bit of forward motion dx, the kinetic energy 
+converted into internal energy is fkdx = µkmgx
+L
+dx. The whole 
+energy converted is 
+ 
+ 
+ 
+1
+2 mv2 =
+µkmgx
+L
+dx
+0
+L
+∫
+= µkmg
+L
+x2
+2
+0
+L
+= µkmgL
+2
+v =
+µkgL
+ 
+P8.80 
+(a) 
+Ug = mgy = 64.0 kg
+(
+) 9.80 m/s2
+(
+)y =
+627 N
+(
+)y 
+ 
+(b) At the original height and at all heights above 65.0 m – 25.8 m = 
+39.2 m, the cord is unstretched and Us = 0 . Below 39.2 m, the 
+cord extension x is given by x = 39.2 m – y, so the elastic energy is  
+ 
+ 
+ 
+Us = 1
+2 kx2 =
+1
+2 81.0 N/m
+(
+) 39.2 m −y
+(
+)
+2 .
+ 
+ 
+(c) 
+For y > 39.2 m, Ug +Us =
+627 N
+(
+)y 
+ 
+ 
+For y ≤39.2 m, 
+ 
+ 
+Ug +Us = 627 N
+(
+)y + 40.5 N/m 1 537 m2 −78.4 m
+(
+)y + y2
+(
+)
+=
+40.5 N/m
+(
+)y2 −2 550 N
+(
+)y + 62 200 J
+
+--- PAGE 57 ---
+Chapter 8     429 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) See the graph in ANS. FIG. P8.80(d) below. 
+ 
+ANS. FIG. P8.80(d) 
+ 
+(e) 
+At minimum height, the jumper has zero kinetic energy and the 
+system has the same total energy as it had when the jumper was 
+at his starting point. Ki +Ui = K f +U f becomes 
+ 
+ 
+ 
+ 
+627 N
+(
+) 65.0 m
+(
+) = 40.5 N/m
+(
+)y f
+2 −2 550 N
+(
+)y f + 62 200 J 
+ 
+ 
+Suppressing units, 
+ 
+ 
+ 
+ 
+0 = 40.5y f
+2 −2 550y f + 21 500
+y f = 10.0 m the solution 52.9 m is unphysical
+[
+]
+ 
+ 
+(f) 
+The total potential energy has a minimum, representing a 
+stable equilibrium position. To find it, we require dU
+dy = 0.  
+Suppressing units, we get 
+ 
+ 
+ 
+ 
+d
+dy 40.5y2 −2 550y + 62 200
+(
+) = 0 = 81y −2 550
+y = 31.5 m
+ 
+ 
+(g) Maximum kinetic energy occurs at minimum potential energy. 
+Between the takeoff point and this location, we have  
+ 
+ 
+ 
+Ki +Ui = K f +U f
+
+--- PAGE 58 ---
+430     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Suppressing units, 
+ 
+ 
+ 
+0 + 40 800
+       = 1
+2 64.0
+(
+)vmax
+2
++ 40.5 31.5
+(
+)
+2 −2 550 31.5
+(
+) + 62 200
+vmax =
+2 40 800 −22 200
+(
+)
+64.0 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 24.1 m/s
+ 
+P8.81 
+The geometry reveals D = Lsinθ + Lsinφ ,  
+ 
+ 
+ 
+50.0 m = 40.0 m sin50° + sinφ
+(
+), φ = 28.9° 
+ 
+(a) 
+From takeoff to landing for the Jane-Earth system: 
+ 
+ 
+ 
+ 
+ΔK + ΔU + ΔEint  = 0
+0 −  1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ +  mg −Lcosφ
+(
+) − mg −Lcosθ
+(
+)
+⎡⎣
+⎤⎦ + FD = 0
+ 
+ 
+ 
+ 
+ 
+1
+2 mvi
+2 + mg −Lcosθ
+(
+) + FD −1
+(
+) = 0 + mg −Lcosφ
+(
+)
+1
+2 50.0 kg
+(
+) vi
+2 + 50.0 kg
+(
+) 9.80 m/s2
+(
+)(−40.0 m)cos50°
+      −110 N
+(
+) 50.0 m
+(
+)
+                    = 50.0 kg
+(
+) 9.80 m/s2
+(
+)(−40.0 m)cos28.9°
+1
+2 50.0 kg
+(
+)vi
+2 −1.26 × 104 J −5.5 × 103 J = −1.72 × 104 J
+vi =
+2 947 J
+(
+)
+50.0 kg = 6.15 m/s
+ 
+ 
+(b) For the swing back: 
+ 
+ 
+ 
+ΔK + ΔU = ΔEmech
+0 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ +  mg −Lcosθ
+(
+) − mg −Lcosφ
+(
+)
+⎡⎣
+⎤⎦ = FD
+ 
+ 
+ 
+ 
+1
+2 mvi
+2 + mg −Lcosφ
+(
+)+ FD +1
+(
+) = 0 + mg −Lcosθ
+(
+)
+1
+2 130 kg
+(
+)vi
+2 + 130 kg
+(
+) 9.80 m/s2
+(
+)(−40.0 m)cos28.9°
+                              + 110 N
+(
+) 50.0 m
+(
+)
+= 130 kg
+(
+) 9.80 m/s2
+(
+)(−40.0 m)cos50°
+
+--- PAGE 59 ---
+Chapter 8     431 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+1
+2 130 kg
+(
+)vi
+2 −4.46 × 104 J + 5 500 J = −3.28 × 104 J
+vi =
+2 6 340 J
+(
+)
+130 kg
+= 9.87 m/s
+ 
+P8.82 
+(a) 
+Take the original point where the ball is released and the final 
+point where its upward swing stops at height H and horizontal 
+displacement 
+ 
+ 
+ 
+x =
+L2 −L −H
+(
+)
+2 =
+2LH −H 2 
+ 
+ 
+Since the wind force is purely horizontal, it does work 
+ 
+ 
+ 
+Wwind =
+
+F ⋅ds
+∫
+= F dx
+∫
+= F 2LH −H 2 
+ 
+ANS FIG. P8.82 
+ 
+ 
+The work-energy theorem can be written: 
+ 
+ 
+ 
+Ki +Ugi + Wwind = K f +Ugf , or 
+ 
+ 
+ 
+0 + 0 + F 2LH −H 2 = 0 + mgH  
+ 
+ 
+giving 
+ 
+ 
+ 
+F22LH −F2H 2 = m2g2H 2 
+ 
+ 
+Here the solution H = 0 represents the lower turning point of the 
+ball’s oscillation, and the upper limit is at F
+2 (2L) = (F
+2 + m
+2g
+2)H. 
+Solving for H yields 
+ 
+H =
+2LF2
+F2 + m2g2 =
+2L
+1+ mg/F
+(
+)
+2
+=
+2(0.800 m)
+1+(0.300 kg)2(9.8 m/s2)2 /F2 =
+1.60 m
+1+ 8.64 N2/F2
+ 
+ 
+(b) H = 1.6 m 1+ 8.64/1
+[
+]
+−1 = 0.166 m 
+ 
+(c) 
+H = 1.6 m 1+ 8.64/100
+[
+]
+−1 = 1.47 m 
+ 
+(d) As F →0, H →0 as is reasonable.
+
+--- PAGE 60 ---
+432     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+As F →∞, H →1.60 m , which would be hard to approach 
+experimentally. 
+ 
+(f) 
+Call θ  the equilibrium angle with the vertical and T the tension 
+in the string. 
+ 
+ 
+ 
+Fx
+∑
+= 0 ⇒T sinθ = F, and
+Fy
+∑
+= 0 ⇒T cosθ = mg
+ 
+ 
+ 
+Dividing: 
+tanθ = F
+mg 
+ 
+ 
+Then 
+ 
+ 
+ 
+cosθ =
+mg
+(mg)2 + F2 =
+1
+1+ (F/mg)2 =
+1
+1+ F2/8.64 N2 
+ 
+ 
+Therefore, Heq = L 1−cosθ
+(
+) =
+0.800 m
+(
+) 1−
+1
+1+ F2/8.64 N2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(g) For F = 10 N, Heq = 0.800 m[1−1+ 100/8.64
+(
+)
+−1/2 ] = 0.574 m 
+ 
+(h) As F →∞, tanθ →∞, θ →90.0°, cosθ →0, and Heq →0.800 m .  
+ 
+ 
+A very strong wind pulls the string out horizontal, parallel to the 
+ground. 
+P8.83 
+The coaster-Earth system is isolated as the coaster travels up the circle. 
+Find how high the coaster travels from the bottom: 
+ 
+ 
+ 
+Ki +Ui = K f +U f
+1
+2 mv2 + 0 = 0 + mgh →h = v2
+2g = 15.0 m/s
+(
+)
+2
+2g
+= 11.5 m
+ 
+ 
+For this situation, the coaster stops at height 11.5 m, which is lower 
+than the height of 24 m at the top of the circular section; in fact, it is 
+close to halfway to the top. The passengers will be supported by the 
+normal force from the backs of their seats. Because of the usual 
+position of a seatback, there may be a slight downhill incline of the 
+seatback that would tend to cause the passengers to slide out. Between 
+the force the passengers can exert by hanging on to a part of the car 
+and the friction between their backs and the back of their seat, the 
+passengers should be able to avoid sliding out of the cars. Therefore, 
+this situation is less dangerous than that in the original higher-speed 
+situation, where the coaster is upside down.
+
+--- PAGE 61 ---
+Chapter 8     433 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.84 
+(a) 
+Let mass m1 of the chain laying on the table and mass m2 hanging 
+off the edge. For the hanging part of the chain, apply the particle 
+in equilibrium model in the vertical direction: 
+ 
+ 
+ 
+m2g – T = 0 
+[1] 
+ 
+ 
+For the part of the chain on the table, apply the particle in 
+equilibrium model in both directions: 
+ 
+ 
+ 
+n – m1g = 0 
+[2] 
+ 
+ 
+ 
+T – fs = 0 
+[3] 
+ 
+ 
+Assume that the length of chain  
+hanging over the edge is such that  
+the chain is on the verge of slipping.  
+Add equations [1] and [3], impose  
+the assumption of impending  
+motion, and substitute equation [2]: 
+ 
+ 
+ 
+n − m1g = 0
+fs = m2g   →    µsn = m2g   
+                  →    µsm1g = m2g   
+→    m2 = µsm1 = 0.600m1
+ 
+ 
+ 
+From the total length of the chain of 8.00 m, we see that 
+ 
+ 
+ 
+m1 + m2 = 8.00λ 
+ 
+ 
+where λ is the mass of a one meter length of chain. Substituting 
+for m2, 
+ 
+ 
+ 
+m1 + 0.600m1 = 8.00λ  →   1.60m1 = 8.00λ  →   m1 = 5.00λ 
+ 
+ 
+From this result, we find that m2 = 3.00λ and we see that 3.00 m 
+of chain hangs off the table in the case of impending motion. 
+ 
+(b) Let x represent the variable distance the chain has slipped since 
+the start. 
+ 
+ 
+Then length (5 – x) remains on the table, with now 
+ 
+ 
+ 
+Fy
+∑
+= 0:         + n−5 −x
+(
+)λg = 0   →   n = 5 −x
+(
+)λg 
+ 
+ 
+ 
+ 
+ 
+fk = µkn = 0.4 5 −x
+(
+)λg = 2λg −0.4xλg 
+ 
+ 
+Consider energies of the chain-Earth system at the initial moment 
+when the chain starts to slip, and a final moment when x = 5, 
+when the last link goes over the brink. Measure heights above the 
+final position of the leading end of the chain. At the moment the 
+final link slips off, the center of the chain is at yf = 4 meters. 
+ANS. FIG. P8.84
+
+--- PAGE 62 ---
+434     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Originally, 5 meters of chain is at height 8 m and the middle of 
+the dangling segment is at height 8 −3
+2 = 6.5 m. 
+ 
+ 
+ 
+Ki +Ui + ΔEmech = K f +U f :  
+0 + m1gy1 + m2gy2
+(
+)i −
+fkdx
+i
+f
+∫
+=
+1
+2 mv2 + mgy
+⎛
+⎝⎜
+⎞
+⎠⎟
+f
+ 
+ 
+ 
+ 
+5λg
+(
+)8 + 3λg
+(
+)6.5 −
+2λg −0.4xλg
+(
+)dx
+0
+5
+∫
+= 1
+2 8λ
+(
+)v2 + 8λg
+(
+)4
+40.0g + 19.5g −2.00g dx
+0
+5
+∫
++ 0.400g x dx
+0
+5
+∫
+= 4.00v2 + 32.0g
+27.5g −2.00gx 0
+5 + 0.400g x2
+2
+0
+5
+= 4.00v2
+27.5g −2.00g 5.00
+(
+) + 0.400g 12.5
+(
+) = 4.00v2
+22.5g = 4.00v2
+v =
+22.5 m
+(
+) 9.80 m/s2
+(
+)
+4.00
+= 7.42 m/s
+ 
+P8.85 
+(a) 
+For a 5.00-m cord the spring constant is described by F = kx,  
+mg = k (1.50 m). For a longer cord of length L the stretch distance 
+is longer so the spring constant is smaller in inverse proportion: 
+ 
+ 
+ 
+k =
+5.00 m
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+mg
+1.50 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.33mg L
+ 
+ 
+ 
+From the isolated system model, 
+ 
+ 
+ 
+K +Ug +Us
+(
+)i = K +Ug +Us
+(
+) f
+0 + mgyi + 0 = 0 + mgy f + 1
+2 kx f
+2
+mg yi −y f
+(
+) = 1
+2 kx f
+2 = 1
+2 3.33
+(
+) mg
+L
+⎛
+⎝⎜
+⎞
+⎠⎟x f
+2
+ 
+ 
+ 
+here yi −y f = 55 m = L + x f . Substituting, 
+ 
+ 
+ 
+55.0 m
+(
+)L = 1
+2 3.33
+(
+) 55.0 m −L
+(
+)
+2
+55.0 m
+(
+)L = 5.04 × 103 m2 −183 m
+(
+)L + 1.67L2
+
+--- PAGE 63 ---
+Chapter 8     435 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Suppressing units, we have 
+ 
+ 
+ 
+0 = 1.67L2 −238L + 5.04 × 103 = 0
+L =
+238 ±
+2382 −4 1.67
+(
+) 5.04 × 103
+(
+)
+2 1.67
+(
+)
+= 238 ± 152
+3.33
+= 25.8 m
+ 
+ 
+ 
+Only the value of L less than 55 m is physical. 
+ 
+(b) From part (a), k = 3.33
+mg
+25.8 m
+⎛
+⎝⎜
+⎞
+⎠⎟, with  
+ 
+ 
+ 
+xmax = x f = 55.0 m −25.8 m = 29.2 m 
+ 
+ 
+From Newton’s second law, 
+ 
+ 
+ 
+F
+∑
+= ma:      + kxmax −mg = ma 
+ 
+ 
+ 
+ 
+3.33
+mg
+25.8 m 29.2 m
+(
+) −mg = ma
+a = 2.77g = 27.1 m/s2
+
+--- PAGE 64 ---
+436     Conservation of Energy 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P8.2 
+(a) ΔK + ΔU = 0, v =
+2gh; (b) v =
+2gh 
+P8.4 
+(a) 1.85 × 10
+4 m, 5.10 × 10
+4 m; (b) 1.00 × 10
+7 J 
+P8.6 
+(a) 5.94 m/s, 7.67 m/s; (b) 147 J 
+P8.8 
+(a) 
+2(m1 −m2)gh
+m1 + m2
+; (b) 2m1h
+m1 + m2
+ 
+P8.10 
+(a) 1.11 × 10
+9 J; (b) 0.2 
+P8.12 
+2.04 m 
+P8.14 
+(a) −168 J; (b) 184 J; (c) 500 J; (d) 148 J; (e) 5.65 m/s 
+P8.16 
+(a) 650 J; (b) 588 J; (c) 0; (d) 0; (e) 62.0 J; (f) 1.76 m/s 
+P8.18 
+(a) 22.0 J, E = K + U = 30.0 J + 10.0 J = 40.0 J; (b) Yes; (c) The total 
+mechanical energy has decreased, so a nonconservative force must 
+have acted. 
+P8.20 
+(a) vB = 1.65 m/s
+2; (b) green bead, see P8.20 for full explanation 
+P8.22 
+3.74 m/s 
+P8.24 
+(a) 0.381 m; (b) 0.371 m; (c) 0.143 m 
+P8.26 
+(a) 24.5 m/s; (b) Yes. This is too fast for safety; (c) 206 m; (d) see 
+P8.26(d) for full explanation 
+P8.28 
+(a) 1.24 × 10
+3 W; (b) 0.209 
+P8.30 
+(a) 8.01 W; (b) see P8.30(b) for full explanation 
+P8.32 
+2.03 × 10
+8 s, 5.64 × 10
+4 h 
+P8.34 
+194 m 
+P8.36 
+The power of the sports car is four times that of the older-model car. 
+P8.38 
+(a) 5.91 × 10
+3 W; (b) 1.11 × 10
+4 W 
+P8.40 
+(a) 854; (b) 0.182 hp; (c) This method is impractical compared to 
+limiting food intake. 
+P8.42 
+~102 W 
+P8.44 
+(a) 0.225 J; (b) −0.363 J; (c) no; (d) It is possible to find an effective 
+coefficient of friction but not the actual value of µ since n and f vary 
+with position. 
+P8.46 
+(a) 2.49 m/s; (b) 5.45 m/s; (c) 1.23 m; (d) no; (e) Some of the kinetic 
+energy of m2 is transferred away as sound and to internal energy in m1 
+and the floor.
+
+--- PAGE 65 ---
+Chapter 8     437 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P8.48 
+We find that her arms would need to be 1.36 m long to perform this 
+task. This is significantly longer than the human arm. 
+P8.50 
+(a) 0.403 m or –0.357 m (b) From a perch at a height of 2.80 m above the 
+top of a pile of mattresses, a 46.0-kg child jumps upward at 2.40 m/s. 
+The mattresses behave as a linear spring with force constant 19.4 
+kN/m. Find the maximum amount by which they are compressed 
+when the child lands on them; (c) 0.023 2 m; (d) This result is the 
+distance by which the mattresses compress if the child just stands on 
+them. It is the location of the equilibrium position of the oscillator. 
+P8.52 
+(a) 1
+2 mv f
+2 −1
+2 mv f
+2 ; (b) −mgh −
+1
+2 mv f
+2 −1
+2 mvi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟; (c) 1
+2 mv f
+2 −1
+2 mv f
+2 + mgh 
+P8.54 
+ρAv3
+2
+; F = ρAv2
+2
+; see P8.54 for full explanation 
+P8.56 
+(a) 16.5 m; (b) See ANS. FIG. P8.56 
+P8.58 
+Unrestrained passengers will fall out of the cars 
+P8.60 
+(a) See P8.60(a) for full explanation; (b) see P8.60(b) for full explanation 
+P8.62 
+(a) 0.378 m; (b) 2.30 m/s; (c) 1.08 m 
+P8.64 
+1.24 m/s 
+P8.66 
+48.2° 
+P8.68 
+3L
+5 
+P8.70 
+The tension at the bottom is greater than the performer can withstand. 
+P8.72 
+(a) 5R/2; (b) 6mg 
+P8.74 
+(a) No, mechanical energy is not conserved in this case; (b) 77.0 m/s 
+P8.76 
+25.2 km/h and 27.0 km/h 
+P8.78 
+(a) 21.0 m/s; (b) 16.1 m/s 
+P8.80 
+(a) (627 N)y; (b) Us = 0, 1
+2 81 N/m
+(
+) 39.2m −y
+(
+)
+2 ; (c) (627 N)y,  
+(40.5 N/m) y
+2 – (2 550 N)y + 62 200 J; (d) See ANS. FIG. P7.78(d);  
+(e) 10.0 m; (f) stable equilibrium, 31.5 m; (g) 24.1 m/s 
+P8.82 
+(a) 
+1.60 m
+1+ 8.64 N2/F2 ; (b) 0.166 m; (c) 1.47 m; (d) H → 0 as is reasonable; 
+(e) H → 1.60 m; (f) 0.800 m
+(
+) 1−
+1
+1+ F2/8.64 N2
+⎛
+⎝⎜
+⎞
+⎠⎟; (g) 0.574 m;  
+(h) 0.800 m 
+P8.84 
+(a) 3.00λ; (b) 7.42 m/s

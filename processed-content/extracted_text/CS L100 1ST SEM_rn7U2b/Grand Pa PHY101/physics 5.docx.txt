@@ -1,0 +1,40 @@
+7THOCTOBER 2009
+EXPERIMENT 5
+Experiment with a Bifilar Suspension
+AIM: 
+To determine the relation between the time for small rotational oscillations and the distance between the threads in a bifilar suspension.
+APPARATUS:
+A meter rule, cotton thread stop-watch, two stands and two clamps.
+DIAGRAM
+THEORY: 
+If the meter rule swings through a small angle  (the vertical threads of lengths l being displaced through small angle) and the tension in each thread is F, then, the vertical and horizontal components of F are Fcos  (vertical) and Fsin (horizontal). The suspended metre rule is also displaced through small angle θ (the length of the meter rule taking to be d). Hence, if m is the mass of the meter rule, . For small angle, .
+The restoring couple =. Now for small angles,.
+Therefore, . The equation of motion is therefore, , i.e. , where I is the moment of inertia about a vertical axis through the centre of gravity and  is the angular acceleration. The motion is thus a simple harmonic motion and the period is.
+PROCEDURE:
+A loop of cotton thread was tied around each end of the metre rule and the rule was suspended from each end on the clamps. The lengths of the threads were adjusted so that they were equal. Then the loops were placed each 1cm from the end of metre rule. Again the upper loops were adjusted on the supports so that they appeared vertical. The rule was set into swinging through a small angle about a vertical axis. The time for 20 complete oscillations were determined with a stop-watch twice and noted down. Also the horizontal distance (d) between the two loops were recorded. The experiment was repeated with the loops moved 2cm farther from the end. The time again was recorded twice and the loops were moved by 2cm farther again and so on.
+TABLE OF RESULTS:
+/J
+The equation of the line produced is 
+The gradient produced is -0.335
+When it is compared to the equation 
+Taking logarithm on both sides
+This implies that the gradient is equal to -1 .
+DISCUSSION
+This experiment was done to determine the relationship between the time for small oscillations and the distance between the loops of the threads holding the rule. Theoretically, the gradient produced from the graph of the logT against logd should be equal to -1. From the experiment and the graph drawn up, it was realized that the gradient was -0.335. These two values are obviously not equal due to some errors in the procedure but there is still a relation in the sense that the gradients are both negative. This tells us that as the distance between the two loops holding the rule decreases, the time for small oscillations increases. That is, they are inversely proportional to each other.
+SOURCES OF ERROR
+Air current (wind) around the experiment affected the oscillation by the metre rule producing inconsistent periods of oscillations.
+The metre rule should be displaced by a small angle (about 100). This was not precisely so (i.e. the displacement was at times large and at times too small). This negatively affected the readings for the period.
+PRECAUTIONS
+It was made sure that the metre rule remained horizontal throughout the experiment.
+The length of the threads from the clamp to rule was also maintained by securing it tightly on the clamp.
+The positions of the two stands were also kept the same throughout the whole experiment.
+CONCLUSION
+The relationship between the period of oscillation and the distance between the threads holding the metre rule is that they are inversely proportional to each other.
+REFERENCE
+SERWAY, Raymond A. and FAUGHN Jerry S., College Physics  6th edition, Pacific Grove, CA. Brooks/Cole- Thomson Learning, 2003. Pages 312-315.
+Distance d/cm | Distance d/m | Time t1/s | Time t2/s | Ave. Time t | log t | log d
+98.0 | 0.98 | 16.00 | 15.91 | 15.96 | 1.2030 | 1.9912
+94.0 | 0.94 | 16.22 | 16.31 | 16.27 | 1.2114 | 1.9731
+90.0 | 0.90 | 16.46 | 16.66 | 16.56 | 1.2191 | 1.9542
+86.0 | 0.86 | 16.72 | 16.65 | 16.68 | 1.2225 | 1.9344
+82.0 | 0.82 | 17.09 | 16.97 | 17.03 | 1.2312 | 1.9138

@@ -1,0 +1,566 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Setting Text Fonts in Word 2010
+ Microsoft word allows you to use different fonts with different size.
+
+You can change your document's appearance by changing the fonts and their size.
+
+It is important to learn how to use different fonts.
+
+--- SLIDE 6 ---
+Change the Font Type & Size
+Step 1 
+Select the portion of text the font of which needs to be changed and click the Home tab. 
+
+
+--- SLIDE 7 ---
+Change the Font Type & Size
+Step 1
+Now click the Font Type button to list down all the fonts available as shown below.
+
+
+ 
+
+
+--- SLIDE 8 ---
+Change the Font Type & Size
+Step 2
+move the mouse pointer over the listed fonts. You will see that the text font changes when you move the mouse pointer over different fonts.
+
+
+ 
+
+
+--- SLIDE 9 ---
+Change the Font Type & Size
+Step 3
+To change the font size, click over the Font Size button which will display a font size list. 
+
+
+--- SLIDE 10 ---
+Use Shrink and Grow Buttons
+You can use a quick way to reduce or enlarge the font size.
+The Shrink Font button can be used to reduce the font size whereas the Grow Font button can be used to enlarge the font size.
+
+
+--- SLIDE 11 ---
+Clear Formatting Options
+All of the setting can be reset to plain text, or the default formatting. To reset text to default settings 
+Step 1 
+Select the portion of text that you want to reset.
+
+
+
+
+
+
+Step 2  
+Click the Clear Formatting button in the Home tab Font group, or simply use Ctrl + SPACEBAR.
+
+--- SLIDE 12 ---
+Text Decoration in Word 2010
+
+
+When we use the term decorate, it means putting the text in italics, underlining the text or making it bold to look more fancy and much more.
+
+
+--- SLIDE 13 ---
+Making text bold
+Step 1 
+Select the portion of text that the font of which needs to be made bold. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Font Bold [ B ] button in the Home tab Font group, or simply use Ctrl + B keys to make the selected portion of text bold.
+
+--- SLIDE 14 ---
+Making Text Italic
+Step 1 
+Select the portion of text the font of which needs to be italicized. You can use any of the text selection methods to select the portion of text.
+Step 2 
+ Click the Font Italic [ I ] button in the Home tab Font group, or simply use the Ctrl + I keys to convert the portion of text in italic font.
+
+
+--- SLIDE 15 ---
+Underline the Text
+Step 1 
+Select the portion of text which needs to be underlined. You can use any of the text selection method to select the portion of text.
+Step 2 
+ Click Font Underline [ U ] button in the Home tab Font group, or simply use the Ctrl + U keys to put an underline under the text.
+
+
+--- SLIDE 16 ---
+Strikethrough the Text
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+ Click Font Strikethrough [ abc ] button in the Home tab Font group to put a line in the middle of the text which is called strikethrough the text.
+
+
+--- SLIDE 17 ---
+Change Text Case in Word 2010
+
+
+You can also capitalize a character you are typing by pressing and holding the SHIFT key while you type.
+
+You can also press the CAPS LOCK to have every letter that you type capitalized, and then press the CAPS LOCK again to turn off capitalization.
+
+
+--- SLIDE 18 ---
+Change Text to Sentence Case
+Step 1 
+Select the portion of text that that needs to be put in sentence case. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Change Case button and then select the Sentence Case option to capitalize the first character of every selected sentence.
+
+
+NOTE:
+The first character of a sentence is capitalized.
+
+--- SLIDE 19 ---
+Change Text to Lowercase
+Step 1 
+Select the portion of text that needs to be put in lowercase. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Change Case button and then select Lowercase option to display all the selected words in lowercase.
+
+
+NOTE
+Every word of a sentence is in lowercase.
+
+--- SLIDE 20 ---
+Change Text to Uppercase
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select UPPERCASE option to display all selected words in all caps. All characters of every selected word will be capitalized.
+
+
+NOTE
+Every word of a sentence is in uppercase.
+
+--- SLIDE 21 ---
+Capitalize Text
+Step 1 
+ Select the portion of text that needs to be capitalized. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select the Capitalize Each Word option to put a leading cap on each selected word.
+
+
+NOTE
+Every first character of every selected word is in capital.
+
+
+
+--- SLIDE 22 ---
+Toggle the Text
+Step 1 
+ Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select the tOGGLE cASE option to change all the words in lowercase into words in uppercase; the words in uppercase words change to words in lowercase.
+
+
+NOTE
+Change the case of every character in reverse way.
+
+
+--- SLIDE 23 ---
+Change Font Colors
+Step 1 
+ Select the portion of text the font color of which needs to be changed. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Font Color button triangle to display a list of colors. 
+
+
+
+--- SLIDE 24 ---
+Highlight Text with Colors
+Step 1 
+ Select the portion of text that needs to be highlighted with color. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Text Highlight Color button triangle to display a list of colors. 
+
+
+
+--- SLIDE 25 ---
+Apply Text Effects
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Text Effect button to display a list of effects including shadow, outline, glow, reflection etc. 
+
+
+
+--- SLIDE 26 ---
+Text Alignments in Word 2010
+There are four(4) types of paragraph alignment available in Microsoft Word: 
+Left-aligned
+
+Centre-aligned
+
+Right-aligned
+
+Justified
+
+--- SLIDE 27 ---
+Left-Aligned Text
+Step 1 
+Select the document that you want to left-aligned. You can use any of the text selection method to select the document.
+Step 2 
+ click the Align Text Left button available on the Home tab or simply press the Ctrl + L keys.
+
+
+--- SLIDE 28 ---
+Center Aligned Text
+Step 1 
+Select the document that you want to center-aligned. You can use any of the text selection method to select the document.
+Step 2 
+Click the Center button available on the Home tab or simply press the Ctrl + E keys.
+
+
+
+--- SLIDE 29 ---
+Right-Aligned Text
+Step 1 
+Select the document that you want to Right-aligned. You can use any of the text selection method to select the document.
+Step 2 
+click the Align Text Right button available on the Home tab or simply press the Ctrl + R keys.
+
+
+--- SLIDE 30 ---
+Justified Text
+Step 1 
+Select the document that you want to Justified. You can use any of the text selection method to select the document.
+Step 2 
+Click the Justify button available on the Home tab or simply press the Ctrl + J keys.
+
+
+--- SLIDE 31 ---
+Indent Paragraphs in Word 2010
+
+Margin settings determine the blank space that appears on each side of a paragraph.
+
+
+You can indent paragraphs in your document from the left margin, the right margin, or both the margins.
+
+--- SLIDE 32 ---
+Left Indentation
+Left indentation means to move the left edge of the paragraph inward towards the centre of the paragraph.
+
+Step 1 
+Click anywhere on the paragraph you want to indent left.
+
+Click the Increase Indent button available on the Home tab or simply press the Ctrl + M keys.
+
+--- SLIDE 33 ---
+Left Indentation
+
+
+
+
+
+
+
+
+You can remove left indentation by clicking the Decrease Indent button available on Home tab or simply press Ctrl + Shift+ M keys.
+
+--- SLIDE 34 ---
+Right Indentation
+Right indentation means to move the right edge of the paragraph inward towards the centre of the paragraph.
+
+Step 1 
+Click anywhere on the paragraph you want to indent right.
+
+ Click on the Increase Right Indent spinner available on the Page Layout tab.
+
+You can click on the spinner multiple times to create deeper indentation.
+
+--- SLIDE 35 ---
+Right Indentation
+
+
+
+
+
+
+
+
+
+You can remove right indentation by clicking the Decrease Right Indent spinner in the opposite direction.
+
+--- SLIDE 36 ---
+First Line Indentation
+You can move the left side of the first line of a paragraph inward toward the centre.
+
+Step 1 
+Click anywhere on the paragraph you want to move the first line.
+
+ Click the Paragraph Dialog Box launcher available on the Home tab.
+
+
+--- SLIDE 37 ---
+First Line Indentation
+
+--- SLIDE 38 ---
+First Line Indentation
+
+Step 2 
+Click the Before Text spinner to set left indentation.
+
+Select the First Line Option to move the left side of the first line of a paragraph inward toward the centre.
+
+You can control the movement by setting the Indentation Unit. 
+
+
+--- SLIDE 39 ---
+Create Bullets in Word 2010
+
+Microsoft word provides bullets and numbers to put a list of items in a nice order.
+
+Type these types of fruits in word:
+
+	Mango
+	Orange
+	Banana
+	Apple
+	
+
+--- SLIDE 40 ---
+Create a List from Existing Text
+Step 1  
+Select a list of text to which you want to assign bullets or numbers. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Bullet Button triangle to display a list of bullets you want to assign to the list. You can select any of the bullet style available by simply clicking over it.
+
+--- SLIDE 41 ---
+Create a List from Existing Text
+
+--- SLIDE 42 ---
+Create a List from Existing Text
+
+
+
+
+
+
+
+
+
+Step 3 
+If you are willing to create a list with numbers, then click the Numbering Button triangle instead of the bullet button to display a list of numbers you want to assign to the list.
+
+--- SLIDE 43 ---
+Create a List as You Type
+Step 1  
+Type *, and then either press the SPACEBAR or press the TAB key, and then type the rest of what you want in the first item of the bulleted list..
+Step 2 
+When you are done with typing, press Enter to add the item in the list automatically and go to add next item in the list.
+Step 3
+ Repeat Step 2 for each list item.
+
+
+--- SLIDE 44 ---
+Create a List as You Type
+
+--- SLIDE 45 ---
+Set Line Spacing in Word 2010
+
+A line spacing is the distance between two lines in a Microsoft Word document.
+
+You can increase or decrease this distance as per your requirement by following a few simple steps. 
+
+--- SLIDE 46 ---
+Spacing between Lines
+Step 1  
+Select the paragraph or paragraphs for which you want to define spacing. You can use any of the text selection method to select the paragraph(s).
+
+Step 2
+Click the Line and Paragraph Spacing Button triangle to display a list of options to adjust space between the lines.
+
+You can select any of the option available by simply clicking over it.
+
+--- SLIDE 47 ---
+Spacing between Lines
+
+--- SLIDE 48 ---
+Spacing between Paragraphs
+Step 1  
+Select the paragraph or paragraphs for which you want to define spacing 
+
+Click the Paragraph Dialog Box launcher available on the Home tab.
+
+Step 2
+Click the Before spinner to increase or decrease the space before the selected paragraph.
+
+Click the After spinner to increase or decrease the space after the selected paragraph.
+
+click the OK button to apply the changes..
+
+--- SLIDE 49 ---
+Spacing between Paragraphs
+
+--- SLIDE 50 ---
+Borders and Shades in Word 2010
+  
+Microsoft Word allows you to place a border on any or all of the four sides of selected text, paragraphs, and pages.
+
+You can also add different shades to the space occupied by the selected text, paragraphs, and pages. 
+
+--- SLIDE 51 ---
+Add Borders to Text
+Step 1  
+ Select the portion of text or paragraph to which you want to add border. You can use any of the text selection method to select the paragraph(s). 
+
+Step 2
+Click the Border Button to display a list of options to put a border around the selected text or paragraph.
+
+You can select any of the option available by simply clicking over it.
+
+--- SLIDE 52 ---
+Add Borders to Text
+
+
+
+
+
+
+
+
+
+Step 3
+Try to add different borders like left, right top or bottom by selecting different options from the border options.
+
+--- SLIDE 53 ---
+Add Borders to Text
+
+
+
+
+
+
+
+
+
+Step 4
+To delete the existing border, simply select the No Border option from the border options.
+
+--- SLIDE 54 ---
+Add Borders to Page
+Step 1 
+Click the Border Button to display a list of options to put a border. 
+
+Select the Border and Shading option available at the bottom of the list of options as shown in the  screenshot.
+
+ This will display a Border and Shading dialog box.
+
+
+
+--- SLIDE 55 ---
+Add Borders to Page
+
+
+
+
+
+
+
+
+
+Step 2
+Click the Page Border tab which will display a list of border settings, styles and options whether this border should be applied to the whole document or just one page or the first page.. 
+
+
+
+
+--- SLIDE 56 ---
+Add Borders to Page
+Step 3
+You can use the Preview section to disable or enable left, right, top or bottom borders of the page. Follow the instruction given in the preview section itself.
+Step 4
+You can customize your border by setting its colour, width by using different art available under the style section.
+
+
+--- SLIDE 57 ---
+Add Borders to Page
+
+--- SLIDE 58 ---
+Add Shades to Text
+Step 1 
+Click the Border Button to display a list of options to put a border. 
+Select the Border and Shading option available at the bottom of the list of options as shown in the  screenshot.
+
+
+--- SLIDE 59 ---
+Add Shades to Text
+Step 2 
+Click the Shading tab; this tab will display the options to select fill, colour and style and whether this border should be applied to a paragraph or a portion of text.
+
+Step 3 
+You can use the Preview section to have an idea about the expected result. Once you are done, click the OK button to apply the result.
+
+
+--- SLIDE 60 ---
+Add Shades to Text
+
+--- SLIDE 61 ---
+Setting a Tab
+Step 1
+Type some text that you want to line up with the tab stops.
+Press the Tab key only once between each column of information you to want to line up.
+
+
+
+--- SLIDE 62 ---
+Setting a Tab
+Step 2
+Select a tab type using the Tab button; assume the centre tab and finally select the paragraph or paragraphs the tabs of which you want to set.
+
+Next click the ruler where you want the tab to appear, a tab will appear at the ruler where you just clicked and the selected portion of text will be adjusted in the centre.
+
+
+--- SLIDE 63 ---
+Setting a Tab
+Step 3
+ Now select the right tab using the Tab Button and 
+click the ruler at the right side where you want to align the text at the right side. A right tab will appear at the ruler where you just clicked and the selected portion of text will be right-aligned.
+
+
+
+--- SLIDE 64 ---
+Moving a Tab
+Step 1
+Click just before the line for which you want to change the tab setting. Drag the tab sign available at the ruler to the left or right.
+
+
+--- SLIDE 65 ---
+Moving a Tab
+Step 2
+A vertical line marks its position as you drag and when you click and drag a tab, the text moves with the tab.
+
+
+--- SLIDE 66 ---
+Copy and Apply Text Formatting
+Step 1
+Select the portion of text containing the formatting that you want to copy. I have selected a text which has bold and underlined font as shown below.
+
+
+--- SLIDE 67 ---
+Copy and Apply Text Formatting
+Step 2
+Click the Home tab and click the Format Painter button to copy the format of the selected text. As soon as you click the format painter button, the mouse pointer changes to a paint brush when you move the mouse over your document.
+
+
+
+
+--- SLIDE 68 ---
+
+--- SLIDE 69 ---
+THANK YOU

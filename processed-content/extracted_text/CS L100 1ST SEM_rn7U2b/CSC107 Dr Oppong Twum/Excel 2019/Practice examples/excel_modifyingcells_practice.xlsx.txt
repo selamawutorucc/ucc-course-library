@@ -1,0 +1,16 @@
+
+--- SHEET: Sheet 1 ---
+Customer Contact List |  |  |  | 
+COMPANY NAME | CONTACT NAME | BILLING ADDRESS | PHONE | EMAIL ADDRESS
+Adventure Outfitters | Jake Finn | 1407 Dusty Fawn Ln Soaptown, SD 57696 | 605-555-6435 | jake@adventureoutfitters.com
+Aria Real Estate | Katie Stark | 971 Cinder Butterfly St Stoughton, NH 03204 | 603-555-2460 | katie.stark@ariarealestate.com
+Core Pharmaceuticals | Phillip Yuen | 5108 Crystal Gate Blvd Twig City, KS 66208 | 913-555-5928 | yuenp@corepharmaceuticals.com
+Everly Publishing | Felicia Reyes | 8544 Lazy Bluff Ave Whiskey Creek, KS 66689 | 316-555-3256 | felicia@everlypublishing.com
+Mass Airlines | Miranda Lawson | 5316 Colonial Pkwy Esterhazy, NM 88431 | 575-555-9255 | mlawson@massairlines.com
+Newhaven Traders | Rick Chaturvedi | 2428 S Redding St #2 Bogg's Corner, WA 98175 | 360-555-5422 | info@newhaventraders.com
+Overlook Inn | Jill Torrance | 3160 Amber Gate Rd Rodney Village, SD 57324 | 605-555-4495 | jtorrance@overlookinn.com
+Riley Garden Supply | Vivica da Silva | 8595 Thunder Brook Cir Gravity, WA 99304 | 360-555-4289 | vivica@rileygardensupply.com
+Knope Equestrian Center | Lil Sebastian | 9060 Easy Evening Ln Walkinghood, ME 04126 | 207-555-7225 | lil@knopeequestrian.com
+Venture Brewing | Hank Dean | 3034 Foggy Wharf Loop Bee Rock, NE 69823 | 308-555-1050 | hdean@venturebrewing.com
+Placerville Insurance | Chris Kinkade | 1028 Quiet Dale Rd Homosassa, MD 21610 | 443-555-4942 | chris.kinkade@placervilleins.com
+Archer Properties | Mallory Figgis | 3520 Sleepy Hearth Dr Calendar, WA 99340 | 425-555-5370 | malloryf@archerproperties.com

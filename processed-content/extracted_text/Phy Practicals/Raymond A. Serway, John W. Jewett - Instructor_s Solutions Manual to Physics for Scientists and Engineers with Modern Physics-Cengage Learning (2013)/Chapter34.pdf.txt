@@ -1,0 +1,4995 @@
+
+--- PAGE 1 ---
+572 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+34 
+Electromagnetic Waves 
+ 
+CHAPTER OUTLINE 
+ 
+34.1  
+Displacement Current and the General Form of Ampère’s Law 
+34.2  
+Maxwell’s Equations and Hertz’s Discoveries 
+34.3  
+Plane Electromagnetic Waves 
+34.4 
+Energy Carried by Electromagnetic Waves 
+34.5  
+Momentum and Radiation Pressure 
+34.6 
+Production of Electromagnetic Waves by an Antenna 
+34.7 
+The Spectrum of Electromagnetic Waves 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ34.1 
+(i) 
+Answer (c). Both the light intensity and the gravitational force 
+follow inverse-square laws.  
+ 
+(ii) Answer (a). The smaller grain presents less face area and feels a 
+smaller force due to light pressure.  
+OQ34.2 
+(i) Answer (c). (ii) Answer (c). (iii) Answer (c). (iv) Answer (b). (v) 
+Answer (b). The same amount of energy passes through concentric 
+spheres of increasing area as the wave travels outward from its 
+source, so the amplitude and the intensity, which is proportional to 
+the square of the amplitude, decrease.  
+OQ34.3 
+Answer (b). Frequency, wavelength, and the speed of light are 
+related:  
+ 
+ 
+ 
+f λ = c    →    λ = c
+f = 3.00 × 108 m/s
+2.45 × 109 Hz = 0.122 m = 12.2 cm
+
+--- PAGE 2 ---
+Chapter 34     573 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ34.4 
+(i) 
+Answer (a). According to f = 1 2π
+LC , to make f half as large, 
+the capacitance should be made four times larger.  
+ 
+(ii) Answer (b). According to f λ = c, if frequency is halved, 
+wavelength is doubled.  
+OQ24.5 
+Answer (e). Accelerating charge, changing electric field, or changing 
+magnetic field can be the source of a radiated electromagnetic wave.  
+OQ34.6 
+Answers (c) and (d). The relationship between frequency, 
+wavelength, and the speed of a wave is f λ = v. In a vacuum, all 
+electromagnetic waves travel at the same speed: v = c. 
+Electromagnetic waves, consisting of oscillating electric and 
+magnetic fields, are transverse waves.  
+OQ34.7 
+(i) through (v) have the same answer (c). The same amount of energy 
+passes through equal areas parallel to the yz plane as the wave 
+travels in the +x direction, so the amplitude and the intensity, which 
+is proportional to the square of the amplitude, do not change.  
+OQ34.8 
+(i) 
+Answer (b). Electric and magnetic fields both carry the same 
+energy, so their amplitudes are proportional to each other.  
+ 
+(ii) Answer (a). The intensity is proportional to the square of the 
+amplitude.  
+OQ34.9 
+Answer (d). The peak values of the electric and magnetic field 
+components of an electromagnetic wave are related by Emax Bmax = c, 
+where c is the speed of light in vacuum. Thus,  
+ 
+ 
+ 
+Emax = cBmax = 3.00 × 108 m/s
+(
+) 1.50 × 10−7 T
+(
+) = 45.0 N/C 
+OQ34.10 
+(i) 
+The ranking is c > b > d > e > a. Gamma rays have the shortest 
+wavelength.  
+ 
+(ii) The ranking is a > e > d > b > c. According to f λ = c, as 
+wavelength decreases, frequency increases.  
+ 
+(iii) The ranking is a = b = c = d = e. All electromagnetic waves 
+travel at the speed of light c in vacuum, which is assumed here. 
+OQ34.11 
+Answer (d). An electromagnetic wave travels in the direction of the 
+Poynting vector: 
+
+S =
+
+E ×
+
+B µ0 .
+
+--- PAGE 3 ---
+574     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ34.1 
+The entire room and its contents have a soft glow. Incandescent light 
+bulbs shine brightly in the infrared, but fluorescent lights do not. The 
+top of a computer monitor glows brighter than the screen, which 
+glows faintly. Windowpanes appear dark if they are cool, and a 
+patch of wall where sunlight falls glows brighter than where the 
+sunlight does not fall. Heating resistors or warm air outlets shine, 
+and the air near to them has a faint glow, but cold air outlets are 
+dark, and the nearby air has no glow.  
+CQ34.2 
+Electromagnetic waves carry momentum. Recalling what we learned 
+in Chapter 9, the impulse imparted by a particle that bounces 
+elastically off a wall is twice that imparted by an object that sticks to 
+a wall. Similarly, the impulse, and hence the pressure exerted by a 
+wave reflecting from a surface, must be twice that exerted by a wave 
+that is absorbed.  
+CQ34.3 
+No. Radio waves travel at a finite speed, the speed of light. Radio 
+waves can travel around the curved surface of the Earth, bouncing 
+between the ground and the ionosphere, which has an altitude that is 
+small when compared to the radius of the Earth. The distance across 
+the lower forty-eight states is approximately 5 000 km, requiring a 
+transit time of 5 × 106 m
+3 × 108 m/s ~ 10−2 s. 
+CQ34.4 
+ 
+Sound 
+Light  
+1) Sound is a longitudinal wave. 
+1) Light is a transverse wave. 
+2) Sound requires a material 
+medium. 
+2) Light does not require a 
+material medium.  
+3) Sound in air moves at hundreds 
+of meters per second. 
+3) Light in air moves at hundreds 
+of millions of meters per 
+second.  
+4) The speed of sound through a 
+medium, depending the material 
+of the medium, can be faster or 
+slower than that in air. 
+4) The speed of light through 
+materials is less than in 
+vacuum.
+
+--- PAGE 4 ---
+Chapter 34     575 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+5) Sound propagates by a chain 
+reaction of density and pressure 
+disturbances recreating each 
+other.  
+5) Light propagates by a chain 
+reaction of electric and 
+magnetic fields recreating each 
+other. 
+6) Audible sound has frequencies 
+over a range of three decades (ten 
+octaves) from 20 Hz to 20 kHz. 
+6) Visible light has frequencies 
+over a range of less than one 
+octave, from 430 to 700 THz 
+(THz = Terahertz = 10
+12 Hz). 
+7) Audible sound has wavelengths 
+of ordinary size (1.7 cm to 17 m). 
+7) Visible light has wavelengths of 
+very small size (400 nm to 
+750 nm). 
+CQ34.5 
+The changing magnetic field of the solenoid induces eddy currents in 
+the conducting core. This is accompanied by I
+2 R conversion by 
+heating of electrically-transmitted energy into internal energy in the 
+conductor.  
+CQ34.6 
+(a) 
+The electric and magnetic fields of the light wave oscillate in 
+time at each point in space, like sports fans in a grandstand 
+when the crowd does “the wave.” 
+ 
+(b) The wave transports energy.  
+CQ34.7 
+An infrared photograph records the infrared light reflected, but also 
+emitted by a person’s face. When a person blushes or exercises or 
+becomes excited, warmer areas glow brighter in the infrared. A 
+person’s nostrils and the openings of the ear canals are bright; 
+brighter still are just the pupils of the eyes.  
+CQ34.8 
+No, they do not. Specifically, Gauss’s law in magnetism prohibits 
+magnetic monopoles. If magnetic monopoles existed, then the 
+magnetic field lines would not have to be closed loops, but could 
+begin or terminate on a magnetic monopole, as they can in Gauss’s 
+law in electrostatics.  
+CQ34.9 
+Different stations have transmitting antennas at different locations. 
+For best reception align your rabbit ears perpendicular to the 
+straight-line path from your TV to the transmitting antenna. The 
+transmitted signals are also polarized. The polarization direction of 
+the wave can be changed by reflection from surfaces—including the 
+atmosphere—and through Kerr rotation—a change in polarization 
+axis when passing through an organic substance. In your home, the 
+plane of polarization is determined by your surroundings, so 
+antennas need to be adjusted to align with the polarization of the 
+wave.
+
+--- PAGE 5 ---
+576     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ34.10 
+Consider a typical metal rod antenna for a car radio. Charges in the 
+rod respond to the electric field portion of the carrier wave. 
+Variations in the amplitude of the incoming radio wave cause the 
+electrons in the rod to vibrate with amplitudes emulating those of the 
+carrier wave. Likewise, for frequency modulation, the variations of 
+the frequency of the carrier wave cause constant-amplitude 
+vibrations of the electrons in the rod but at frequencies that imitate 
+those of the carrier.  
+CQ34.11 
+The Poynting vector 
+
+S describes the energy flow associated with an 
+electromagnetic wave. The direction of 
+
+S is along the direction of 
+propagation and the magnitude of 
+
+S is the rate at which 
+electromagnetic energy crosses a unit surface area perpendicular to 
+the direction of 
+
+S. 
+CQ24.12 
+The frequency of EM waves in a microwave oven, typically 2.45 
+GHz, is chosen to be in a band of frequencies absorbed by water 
+molecules. The plastic and the glass contain no water molecules. 
+Plastic and glass have very different absorption frequencies from 
+water, so they may not absorb any significant microwave energy and 
+remain cool to the touch.  
+CQ34.13 
+Maxwell included a term in Ampère’s law to account for the 
+contributions to the magnetic field by changing electric fields, by 
+treating those changing electric fields as “displacement currents.”  
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 34.1 
+Displacement Current and the  
+Generalized Form of Ampère’s Law 
+P34.1 
+(a) 
+We use the right-hand rule for both real and displacement 
+currents. Thus, the direction of 
+
+B is counterclockwise, and the 
+direction of 
+
+B at P is upwards. 
+ 
+ 
+(b) We use the extended form of Ampère’s 
+law, Equation 34.7. Since no moving 
+charges are present, I = 0 and we have 
+ 
+ 
+ 
+
+B
+∫
+⋅d
+
+= µ0 ∈0
+dΦE
+dt
+ 
+ 
+ 
+In order to evaluate the integral, we 
+make use of the symmetry of the 
+ANS. FIG. P34.1
+
+--- PAGE 6 ---
+Chapter 34     577 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+situation. Symmetry requires that no particular direction from the 
+center can be any different from any other direction. Therefore, 
+there must be circular symmetry about the central axis. We know 
+the magnetic field lines are circles about the axis. Therefore, as we 
+travel around such a magnetic field circle, the magnetic field 
+remains constant in magnitude. Setting aside until later the 
+determination of the direction of 
+
+B, we integrate 
+
+B⋅d
+
+
+∫
+ around 
+the circle at R = 0.150 m to obtain 2 π RB. 
+ 
+ 
+Differentiating the expression ΦE = AE, we have  
+ 
+ 
+ 
+dΦE
+dt =
+π d2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+dE
+dt
+ 
+ 
+ 
+Thus, 
+
+B
+∫
+⋅d
+
+= 2π RB = µ0∈0
+π d2
+4
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+dE
+dt
+→
+B = µ0 ∈0 d2
+8R
+dE
+dt 
+ 
+ 
+Substituting numerical values,  
+ 
+ 
+ 
+B =
+4π × 10−7 T ⋅m/A
+(
+) 8.85 × 10−12 C2/N ⋅m2
+(
+) 0.100 m
+(
+)
+2
+8 0.150 m
+(
+)
+                                                                            × 20.0 V/m ⋅s
+(
+)
+= 1.85 × 10−18 T
+ 
+P34.2 
+For the capacitor, 
+ 
+ 
+ 
+dΦE
+dt = d
+dt EA
+(
+) = dQ dt
+∈0
+= I
+∈0
+ 
+ 
+(a) 
+dE
+dt =
+I
+∈0 A =
+0.200 A
+8.85 × 10−12 C2/N ⋅m2
+(
+) π 10.0 × 10−2 m
+(
+)
+⎡⎣
+⎤⎦
+= 7.19 × 1011 V m ⋅s
+ 
+ 
+(b) 
+B⋅ds
+∫
+= ∈0 µ0
+dΦE
+dt :       2π rB = ∈0µ0
+d
+dt
+Q
+∈0A ⋅π r2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+B = µ0Ir
+2A =
+µ0 0.200 A
+(
+) 5.00 × 10−2 m
+(
+)
+2 π 10.0 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+= 2.00 × 10−7 T
+
+--- PAGE 7 ---
+578     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.3 
+The electric field in the space between the plates is E = σ
+∈0
+=
+Q
+∈0 A. 
+ 
+The flux of this field is  ΦE =
+
+E ⋅
+
+A =
+Q
+∈0 A
+⎛
+⎝⎜
+⎞
+⎠⎟A cos 0= Q
+∈0
+. 
+ 
+(a) 
+The rate of change of flux is 
+ 
+ 
+ 
+dΦE
+dt = dQ dt
+∈0
+= I
+∈0
+=
+0.100 A
+8.85 × 10−12 C2/N⋅m2
+= 11.3 × 109 V⋅m/s
+ 
+ 
+(b) The displacement current is defined as  
+ 
+ 
+ 
+Id = ∈0
+dΦE
+dt
+= (8.85 × 10-12 C2 /N ⋅m2)(1.13 × 1010 N ⋅m2 /C⋅s)
+= 0.100 A
+ 
+ 
+ 
+ 
+Section 34.2 
+Maxwell’s Equations and Hertz’s Discoveries 
+P34.4 
+
+F = ma = q
+
+E + qv ×
+
+B so  
+ 
+a = −e
+m
+
+E + v ×
+
+B
+⎡⎣
+⎤⎦ where  
+ 
+ 
+ 
+v ×
+
+B =
+ˆi
+ˆj
+ˆk
+10.0
+0
+0
+0
+0
+0.400
+= −4.00 T ⋅m/s
+(
+)ˆj
+ 
+ 
+Then 
+ 
+ 
+ 
+a =
+−1.60 × 10−19 C
+9.11× 10−31 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+          ×
+2.50 V/m
+(
+)ˆi + 5.00 V/m
+(
+)ˆj−4.00 T⋅m/s
+(
+)ˆj
+⎡⎣
+⎤⎦
+= −1.76 × 1011
+(
+) 2.50ˆi + 1.00ˆj
+⎡⎣
+⎤⎦ m/s2
+a =
+−4.39ˆi −1.76ˆj
+(
+)× 1011 m/s2
+
+--- PAGE 8 ---
+Chapter 34     579 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.5 
+The net force on the proton is the Lorentz force, as described by  
+ 
+ 
+
+F
+∑
+= ma = q
+
+E + qv ×
+
+B
+so that
+a = e
+m
+
+E + v ×
+
+B
+⎡⎣
+⎤⎦
+  
+ 
+Taking the cross product of v and 
+
+B, 
+ 
+ 
+v ×
+
+B = 
+ˆi
+ˆj
+ˆk
+200
+0
+0
+0.200
+0.300
+0.400
+= –200(0.400)ˆj + 200(0.300)ˆk
+ 
+ 
+Then, 
+a = e
+m
+
+E + v ×
+
+B
+⎡⎣
+⎤⎦=
+1.60 × 10–19
+1.67 × 10–27
+⎛
+⎝⎜
+⎞
+⎠⎟50.0 ˆj – 80.0 ˆj+ 60.0 ˆk
+⎡⎣
+⎤⎦ m/s2
+=
+–2.87 × 109ˆj+ 5.75 × 109 ˆk
+(
+) m/s2
+ 
+P34.6 
+(a) 
+The very long rod creates the same electric 
+field that it would if stationary. We apply 
+Gauss’s law to a cylinder, concentric with 
+the rod, of radius r = 20.0 cm and length :  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= qinside
+∈0
+ 
+ 
+ 
+ 
+E 2π r
+(
+) cos 0° = λ
+∈0
+ 
+ 
+ 
+ 
+
+E =
+λ
+2π ∈0 r radially outward
+=
+35.0 × 10−9 C/m 
+2π 8.85 × 10−12 C2/N ⋅m2
+(
+) 0.200 m
+(
+)
+ˆj
+= 3.15 × 103ˆj N/C
+ 
+ 
+(b) The charge in motion constitutes a current of  
+ 
+ 
+ 
+(35.0 × 10
+–9 C/m) × (15.0 × 10
+6 m/s) = 0.525 A 
+ 
+ 
+This current creates a magnetic field.  
+ 
+ 
+ 
+ 
+
+B = µ0I
+2π r 
+  
+ 
+ 
+ 
+ 
+ 
+=
+4π × 10−7 T ⋅m/A
+(
+) 0.525 A
+(
+)
+2π 0.200 m
+(
+)
+ˆk = 5.25 ˆk × 10−7 T
+ 
+ANS. FIG. P34.6
+
+--- PAGE 9 ---
+580     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The Lorentz force on the electron is 
+
+F = q
+
+E + qv ×
+
+B. 
+ 
+ 
+ 
+
+F = −1.60 × 10−19 C
+(
+) 3.15 × 103ˆj N/C
+(
+)
+                         + −1.60 × 10−19 C
+(
+) 240 × 106ˆi m/s
+(
+)
+                                                               × 5.25 × 10−7 ˆk T
+(
+)
+
+F = 5.04 × 10−16 −ˆj
+( ) N + 2.02 × 10−17 +ˆj
+( ) N
+=
+4.83 −ˆj
+( ) × 10−16 N
+ 
+ 
+ 
+ 
+Section 34.3 
+Plane Electromagnetic Waves 
+*P34.7 
+(a) 
+From Equation 34.20, 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m s
+1 150 × 103 s−1 = 261 m 
+ 
+ 
+ 
+so 
+ 
+ 
+ 
+180 m
+261 m = 0.690 wavelengths 
+ 
+(b) From Equation 34.20, 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m s
+98.1× 106 s−1 = 3.06 m   
+ 
+ 
+so 
+ 
+ 
+ 
+180 m
+3.06 m = 58.9 wavelengths 
+*P34.8 
+From Equation 34.20, 
+ 
+ 
+λ = c
+f = 3.00 × 108 m s
+27.33 × 106 Hz = 11.0 m 
+P34.9 
+(a) 
+Since the light from this star travels at 3.00 × 10
+8 m/s, the last bit 
+of light will hit the Earth in  
+ 
+ 
+ 
+t = d
+c =
+6.44 × 1018 m
+2.998 × 108 m s = 2.15 × 1010 s = 681 years
+
+--- PAGE 10 ---
+Chapter 34     581 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From Table C.4 (in Appendix C of the textbook), the average 
+Earth-Sun distance is d = 1.496 × 10
+11 m, giving the transit time as 
+ 
+ 
+ 
+t = d
+c =
+1.496 × 1011 m
+2.998 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 8.32 min
+ 
+ 
+(c) 
+Also from Table C.4, the average Earth-Moon distance is  
+d = 3.84 × 10
+8 m, giving the time for the round trip as  
+ 
+ 
+ 
+t = 2d
+c = 2 3.84 × 108 m
+(
+)
+2.998 × 108 m/s = 2.56 s
+ 
+P34.10 
+From f λ = c, we have  
+ 
+ 
+ f = c
+λ = 2.998 × 108 m/s
+632.8 × 10−9 m = 4.738 × 1014 Hz
+ 
+P34.11 
+In the fundamental mode, there is a single loop in the standing wave 
+between the plates. Therefore, the distance between the plates is equal 
+to half a wavelength.  
+ 
+ 
+ 
+λ = 2L = 2 2.00 m
+(
+) = 4.00 m 
+ 
+Thus,  
+f = c
+λ = 3.00 × 108 m/s
+4.00 m
+= 7.50 × 107 Hz = 75.0 MHz . 
+P34.12 
+E
+B = c   or   220 V/m
+B
+= 3.00 × 108 m/s, so    
+ 
+ 
+ 
+B = 7.33 × 10−7 T = 733 nT 
+P34.13 
+From Equation 34.17,  
+ 
+ 
+ 
+v =
+1
+κµ0∈0
+=
+1
+1.78 c = 0.750c = 2.25 × 108 m/s
+ 
+*P34.14 
+Time to reach object  
+ 
+ 
+= 1
+2 total time of flight
+(
+) = 1
+2 4.00 × 10−4 s
+(
+) = 2.00 × 10−4 s 
+ 
+Thus, 
+ 
+ 
+ d = vt = 3.00 × 108 m s
+(
+) 2.00 × 10−4 s
+(
+) = 6.00 × 104 m = 60.0 km 
+P34.15 
+(a) 
+c = f λ gives the frequency as 
+ 
+ 
+ 
+f = c
+λ = 3.00 × 108 m/s
+50.0 m 
+= 6.00 × 106 Hz
+
+--- PAGE 11 ---
+582     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) c = E/B gives the magnetic field amplitude as  
+  
+ 
+ 
+B = E
+c =
+22.0 V/m
+3.00 × 108 m/s = 7.33 × 10−8 T = 73.3 nT 
+ 
+
+B must be directed along negative z direction when 
+
+E is in the 
+negative y direction, so that 
+
+S =
+
+E ×
+
+B/µ0 will propagate in the 
+direction –ˆj
+( ) × – ˆk
+(
+) = +ˆi. So, 
+ 
+ 
+ 
+
+Bmax = −73.3 ˆk nT
+ 
+ 
+(c) 
+k = 2π
+λ =
+2π
+50.0m = 0.126 m−1 
+ 
+ 
+and ω = 2π f = 2π 6.00 × 106 s−1
+(
+) = 3.77 × 107 rad/s. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+
+B =
+
+Bmax cos kx −ω t
+(
+) = −73.3 ˆkcos 0.126x −3.77 × 107t
+(
+) nT 
+P34.16 
+E = Emax cos kx −ω t
+(
+) 
+ 
+∂E
+∂x = −Emax sin kx −ω t
+(
+) k( )  →  ∂2E
+∂x2 = −Emax cos kx −ω t
+(
+) k2
+(
+)
+∂E
+∂t = −Emax sin kx −ω t
+(
+) −ω
+(
+)  →  ∂2E
+∂t2 = −Emax cos kx −ω t
+(
+) −ω
+(
+)
+2
+ 
+ 
+We must show: ∂2E
+∂x2 = µ0 ∈0
+∂2E
+∂t2 
+ 
+That is, −k2
+(
+)Emax cos kx −ω t
+(
+) = −µ0∈0 −ω
+(
+)
+2 Emax cos kx −ω t
+(
+). 
+ 
+But this is true, because k2
+ω 2 =
+1
+f λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+c2 = µ0∈0 . 
+ 
+The proof for the wave of the magnetic field follows precisely the same 
+steps.  
+P34.17 
+Since the separation of the burn marks is dA to A = 6 cm ± 5% = λ
+2 , then 
+λ = 12 cm ± 5% and 
+ 
+ 
+v = λ f = 0.12 m ± 5%
+(
+) 2.45 × 109 s−1
+(
+)
+= 2.9 × 108 m/s ± 5%
+
+--- PAGE 12 ---
+Chapter 34     583 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.18 
+The amplitudes of the electric and magnetic fields are in the correct 
+ratio so that Emax/Bmax = c. The ratio of ω to k, however, must also equal 
+the speed of light:  
+ 
+ 
+ 
+ω
+k  =  3.00 × 1015 s−1
+9.00 × 106 m−1  = 3.33 × 108 m/s 
+ 
+This value is higher than the speed of light in a vacuum, so the wave as 
+described is impossible. 
+P34.19 
+The wave is of the form Ey = Emax sin kx −ωt
+(
+).  
+ 
+(a) 
+100 V/m is the amplitude of the electric field, so the amplitude of 
+the magnetic field is 
+ 
+ 
+  
+Bmax = Emax
+c
+=
+100 V/m
+3.00 × 108 m/s = 3.33 × 10−7 T = 0.333 µT  
+ 
+(b) We compare the given wave function with y = A sin(kx – ω t) to 
+see that the wave number is  k = 1.00 × 10
+7 m
+–1. With k = 2π/λ, 
+we then have the wavelength as 
+ 
+ 
+  
+ λ = 2π
+k =
+2π
+1.00 × 107 m−1 = 0.628 µm 
+ 
+ 
+(c) 
+The frequency is 
+ 
+ 
+ 
+ 
+f = c
+λ = 3.00 × 108 m/s
+6.28 × 10−7 m = 4.77 × 1014 Hz 
+ 
+ 
+ 
+Section 34.4 
+Energy Carried by Electromagnetic Waves 
+P34.20 
+From Equation 17.7, we recall that the intensity I a distance r from a 
+point or spherical source is inversely proportional to the square of the 
+distance: I = P 4πr2 . At the Earth, r1 = 1.496 × 10
+11 m, the intensity is  
+I1 = IE, then at distance r2, the intensity I2 = 3IE. Then,  
+ 
+ 
+I1
+I2
+=
+r2
+r1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+and 
+ 
+ 
+r2 = r1
+I1
+I2
+= 1.496 × 1011 m
+(
+)
+1
+3 = 8.64 × 1010 m
+
+--- PAGE 13 ---
+584     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.21 
+In time interval Δt, sunlight travels distance Δx = cΔt. The intensity of 
+the sunlight passing into a volume ΔV = AΔx in time Δtis  
+ 
+ 
+ 
+S = I = U
+AΔt =
+U
+AΔx c = Uc
+V = uc 
+ 
+ 
+ 
+Energy
+Unit Volume = u = I
+c = 1 000 W/m2
+3.00 × 108 m/s = 3.33 µJ/m3 
+P34.22 
+(a) 
+P
+area = energy
+Δt ⋅area =
+600 × 103 Wh
+30 d
+(
+) 13.0 m
+(
+) 9.50 m
+(
+)
+1 d
+24 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.75 W/m2 
+ 
+(b) The car uses gasoline at the rate of 55 mi/h
+(
+)
+gal
+25 mi
+⎛
+⎝⎜
+⎞
+⎠⎟. Its rate of 
+energy conversion is 
+ 
+ 
+ 
+P = 44.0 × 106 J/kg 2.54 kg
+1 gal
+⎛
+⎝⎜
+⎞
+⎠⎟55 mi/h
+(
+)
+gal
+25 mi
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.83 × 104 W
+ 
+ 
+ 
+Its power-per-footprint-area is  
+ 
+ 
+ 
+P
+area =
+6.83 × 104 W
+2.10 m
+(
+) 4.90 m
+(
+)
+= 6.64 × 103 W/m2 
+ 
+(c) 
+A powerful automobile that is running on sunlight would have
+to carry on its roof a solar panel huge compared with the size of
+the car.
+ 
+ 
+(d) 
+Agriculture and forestry for food and fuels, space heating of
+large and small buildings, water heating, and heating for drying
+and many other processes are current and potential applications
+of solar energy.
+ 
+P34.23 
+Power output = (power input)(efficiency).  
+ 
+Thus, 
+Power input = Power out
+eff
+= 1.00 × 106 W
+0.300
+= 3.33 × 106 W 
+ 
+and  
+A = P
+I =
+3.33 × 106 W
+1.00 × 103 W/m2 = 3.33 × 103 m2 
+P34.24 
+(a) 
+
+E ⋅
+
+B = 80.0ˆi + 32.0ˆj −64.0 ˆk
+(
+) N/C
+(
+)⋅0.200ˆi + 0.080 0ˆj + 0.290 ˆk
+(
+) µT 
+ 
+ 
+
+E ⋅
+
+B = 16.0 + 2.56 −18.56
+(
+) µT ⋅N/C2 = 0
+
+--- PAGE 14 ---
+Chapter 34     585 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+
+S = 1
+µ0
+
+E ×
+
+B
+=
+1
+4π × 10−7 T ⋅m/A
+⎛
+⎝⎜
+⎞
+⎠⎟
+80.0ˆi + 32.0ˆj −64.0 ˆk
+(
+) N/C
+⎡
+⎣
+⎤
+⎦
+                                           ×
+0.200ˆi + 0.080 0ˆj + 0.290 ˆk
+(
+) µT
+⎡
+⎣
+⎤
+⎦
+ 
+ 
+ 
+
+S =
+6.40 ˆk −23.2ˆj −6.40 ˆk + 9.28ˆi −12.8ˆj + 5.12ˆi
+(
+) × 10−6 W/m2
+4π × 10−7
+ 
+ 
+ 
+
+S =
+11.5ˆi −28.6ˆj
+(
+) W/m2
+= 30.9 W/m2 at – 68.1° from the + x axis
+  
+P34.25 
+(a) 
+I = Emax
+2
+2µ0c =
+3.00 × 106 V/m
+(
+)
+2
+2 4π × 10−7 T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+ 
+ 
+ 
+I = 1.19 × 1010 W/m2 
+ 
+(b) 
+P = IA = Iπr2 = 1.19 × 1010 W/m2
+(
+)π
+5.00 × 10−3 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.34 × 105 W
+ 
+P34.26 
+The energy put into the water in each container by electromagnetic 
+radiation can be written as ΔE = ePΔt = eIAΔt, where e is the 
+percentage absorption efficiency. This energy has the same effect as 
+heat in raising the temperature of the water:  
+ 
+ 
+eIAΔt = mcΔT = ρVcΔT
+ΔT = eI2Δt
+ρ3c = eIΔt
+ρc
+ 
+ 
+where  is the edge dimension of the container and c the specific heat 
+of water. For the small container,  
+ 
+ 
+ΔT =
+0.700 25.0 × 103 W/m2
+(
+) 480 s
+(
+)
+103 kg/m3
+(
+) 0.060 0 m
+(
+) 4 186 J/kg⋅°C
+(
+)
+= 33.4°C
+ 
+ 
+For the larger,  
+ 
+ 
+ΔT =
+0.910 25.0 × 103 W/m2
+(
+) 480 s
+(
+)
+103 kg/m3
+(
+) 0.120 m
+(
+) 4 186 J/°C
+(
+)
+= 21.7°C
+
+--- PAGE 15 ---
+586     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.27 
+(a) 
+Bmax = Emax
+c
+: Bmax = 7.00 × 105 N/C
+3.00 × 108 m/s = 2.33 mT 
+ 
+(b) 
+I = Emax
+2
+2µ0c
+:  
+ 
+ 
+I =
+7.00 × 105 V/m
+(
+)
+2
+2 4π × 10−7 T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+= 6.50 × 108 W m2
+= 650 MW m2
+ 
+ 
+(c) 
+I = P
+A :   P = IA = 6.50 × 108 W/m2
+(
+) π
+4 1.00 × 10−3 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥= 511 W 
+P34.28 
+(a) 
+We assume that the starlight moves through space without any of 
+it being absorbed. The radial distance is  
+ 
+ 
+ 
+20 ly = 20c 1 yr
+(
+) = 20 3.00 × 108 m/s
+(
+) 3.16 × 107 s
+(
+)
+= 1.89 × 1017 m
+ 
+ 
+ 
+ 
+I =
+P
+4π r2 =
+4.00 × 1028 W
+4π 1.89 × 1017 m
+(
+)
+2 = 8.88 × 10−8 W/m2
+= 88.8 nW/m2
+ 
+ 
+(b) The Earth presents the projected target area of a flat circle:  
+ 
+ 
+ 
+P = IA = 8.88 × 10−8 W/m2
+(
+) π 6.37 × 106 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+= 1.13 × 107 W= 11.3 MW
+ 
+P34.29 
+The Poynting vector is 
+ 
+ 
+ 
+Savg = Power
+A
+= Power
+4πr2 . 
+ 
+In meters,  
+ 
+ 
+ 
+r = 5.00 mi
+(
+) 1 609 m/mi
+(
+) = 8.04 × 103 m 
+ 
+and the intensity of the wave is 
+ 
+ 
+S = 250 × 103 W
+4π(8 045 m)2 = 307 µW/m2 
+P34.30 
+(a) 
+The intensity of the broadcast waves is 
+ 
+ 
+ 
+I = Bmax
+2
+c
+2µ0
+=
+P
+4π r2
+
+--- PAGE 16 ---
+Chapter 34     587 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+solving, 
+ 
+ 
+ 
+Bmax =
+P
+4π r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2µ0
+c
+⎛
+⎝⎜
+⎞
+⎠⎟=
+P
+2π r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+µ0
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+10.0 × 103 W
+(
+) 4π × 10−7 T ⋅m/A
+(
+)
+2π 5.00 × 103 m
+(
+)
+2 3.00 × 108 m/s
+(
+)
+= 5.16 × 10−10 T
+ 
+ 
+(b) Since the magnetic field of the Earth is approximately 5 × 10
+–5 T, 
+the Earth’s field is some 100 000 times stronger.  
+P34.31 
+The average Poynting flux is 
+ 
+ 
+ 
+Savg =
+Pavg
+4π r2 = Emax
+2
+2µ0c
+ 
+ 
+solving, 
+ 
+ 
+Emax =
+2µ0cSavg =
+µ0c
+Pavg
+2π r2
+=
+4π × 10−7  T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+4.00 × 103 W
+2π 4.00 1 609 m
+(
+)
+[
+]
+2
+= 0.076 1 V/m
+ 
+ 
+The maximum emf (amplitude) induced in a length L of wire is  
+ 
+ 
+ 
+ΔVmax = EmaxL = 76.1 mV m
+(
+) 0.650 m
+(
+) = 49.5 mV 
+*P34.32 
+Power = SA = Emax
+2
+2µ0c 4π r2
+(
+) 
+ 
+Solving for r, 
+ 
+ 
+ 
+ 
+r =
+Pµ0c
+2π Emax
+2 =
+(100 W) 4π × 10−7 T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+2π(15.0 V m)2
+= 5.16 m
+ 
+*P34.33 
+(a) 
+P = I 2R = 150 W 
+ 
+ 
+A = 2π rL = 2π 0.900 × 10−3 m
+(
+) 0.080 0 m
+(
+) = 4.52 × 10−4 m2 
+ 
+ 
+S = P
+A =
+150 W
+4.52 × 10−4 m2 = 332 kW m2 (points radially inward) 
+ 
+(b) 
+B = µ0I
+2π r = 1.00 A
+(
+) 4π × 10−7 T ⋅m/A
+(
+)
+2π 0.900 × 10−3 m
+(
+)
+= 222 µT
+
+--- PAGE 17 ---
+588     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+E = ΔV
+Δx = IR
+L =
+150 V
+0.080 0 m = 1.88 kV m 
+ 
+Note that these values yield S = EB
+µ0
+= 332 kW m2 , in agreement 
+with the result from part (a). 
+P34.34 
+(a) 
+Erms = cBrms = 3.00 × 108 m/s
+(
+) 1.80 × 10−6 T
+(
+) = 540 V/m 
+ 
+(b) From Equation 34.25,  
+ 
+ 
+ 
+uavg = Bmax
+(
+)
+2
+2µ0
+= Brms
+(
+)
+2
+µ0
+=
+1.80 × 10−6 T
+(
+)
+2
+4π × 10−7 T⋅m/A = 2.58 µJ/m3
+ 
+ 
+(c) 
+Savg = cuavg = 3.00 × 108 m/s
+(
+) 2.58 × 10−6 J/m3
+(
+) = 773 W/m2 
+ 
+ 
+ 
+Section 34.5 
+Momentum and Radiation Pressure 
+P34.35 
+The intensity of the beam is I =
+Ppower
+π r2 , where r = 1.00 × 10
+–3 m. By 
+Equation 34.29, the radiation pressure on the mirror is  
+ 
+ 
+P = 2S
+c = 2I
+c = 2Ppower
+π r2c
+=
+2 25.0 × 10−3 W
+(
+)
+π 1.00 × 10−3 m
+(
+)
+2 3.00 × 108 m/s
+(
+)
+= 5.31× 10−5 N/m2
+ 
+P34.36 
+For complete absorption, from equation 34.27,  
+ 
+ 
+P = S
+c =
+25.0 W/m2
+3.00 × 108 m/s = 8.33 × 10–8 N/m2 = 83.3 nPa
+ 
+P34.37 
+(a) 
+I =
+P
+π r2 = Emax
+2
+2µ0c , and r = 1.00 × 10
+–3 m: 
+ 
+ 
+Emax =
+2µ0cP
+π r2
+=
+2 4π × 10−7 T ⋅m/A
+⎡⎣
+⎤⎦3.00 × 108 m/s
+(
+) 15.0 × 10−3 W
+(
+)
+π 1.00 × 10−3 m
+(
+)
+2
+= 1.90 × 108 J= 1.90 kN/C
+
+--- PAGE 18 ---
+Chapter 34     589 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The beam carries power P. The amount of energy ∆E in the length 
+of a beam of length  is the amount of power that passes a point 
+in time interval Δt = /c: 
+ 
+ 
+ 
+P = ΔE
+Δt = ΔE
+c
+ 
+ 
+ 
+or 
+ΔE = P
+c = 15.0 × 10−3 W
+3.00 × 108 m/s 1.00 m
+(
+) = 50.0 pJ . 
+ 
+(c) 
+From Equation 34.27 and our result in part (b), the momentum 
+and energy carried a light beam are related by  
+ 
+ 
+ 
+p = TER
+c = ΔE
+c =
+50.0 × 10−12 J
+3.00 × 108 m/s = 1.67 × 10−19 kg ⋅m/s 
+P34.38 
+(a) 
+I =
+P
+π r2 = Emax
+2
+2µ0c
+→
+Emax =
+2µ0cP
+π r2
+ 
+ 
+(b) The beam carries power P. The amount of energy ∆E in the length 
+of a beam of length  is the amount of power that passes a point 
+in time interval Δt = /c: 
+ 
+ 
+ 
+P = ΔE
+Δt = ΔE
+c →ΔE = P
+c
+ 
+ 
+(c) 
+From Equation 34.27 and our result in part (b), the momentum 
+and energy carried a light beam are related by  
+ 
+ 
+ 
+p = TER
+c = ΔE
+c = P
+c2 
+P34.39 
+The radiation pressure on the disk is  
+ 
+ 
+P = S
+c = I
+c = F
+A =
+F
+π r2 . 
+ 
+Thus , 
+F = π r2I
+c
+ 
+ 
+Because the force acts uniformly over the  
+surface of the disk, we may consider it to be  
+acting at the center of the disk when  
+calculating its torque. Take torques about  
+the hinge: 
+ 
+ 
+τ
+∑
+= 0: 
+ 
+ 
+Hx 0( ) + Hy 0( ) −mgr sinθ + π r2Ir
+c
+= 0 
+ 
+ANS. FIG. P34.39
+
+--- PAGE 19 ---
+590     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the angle gives 
+ 
+ 
+θ = sin−1 π r2I
+mgc
+⎛
+⎝⎜
+⎞
+⎠⎟
+= sin−1
+π 0.400 m
+(
+)
+2 10.0 × 106 W/ m2
+(
+)
+0.024 0 kg
+(
+) 9.80 m/ s2
+(
+) 3.00 × 108 m/s
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= sin−1 0.071 2 = 4.09°
+ 
+P34.40 
+(a) 
+The light pressure on the absorbing Earth is P = S
+c = I
+c . 
+ 
+ 
+The force is  
+ 
+ 
+ 
+F = PA = I
+c π R2
+(
+) = (1 370 W/m2)π(6.37 × 106 m)2
+3.00 × 108 m/s
+= 5.82 × 108 N
+  
+ 
+ 
+away from the Sun.  
+ 
+(b) The attractive gravitational force exerted on Earth by the Sun is  
+ 
+ 
+ 
+Fg = GMSMM
+rM
+2
+= 6.67 × 10−11 N⋅m2 kg2
+(
+) 1.991× 1030 kg
+(
+) 5.98 × 1024 kg
+(
+)
+1.496 × 1011 m
+(
+)
+2
+= 3.55 × 1022 N
+ 
+ 
+ 
+which is 6.10 × 1013 times stronger compared to the repulsive 
+force in part (a).  
+P34.41 
+(a) 
+The magnitude of the momentum transferred to the assumed 
+totally reflecting surface in time interval Δt is (from Equation 
+34.29) 
+ 
+ 
+ 
+Δp = 2TER
+c
+= 2SAΔt
+c
+  
+ 
+ 
+Then the momentum transfer is  
+ 
+ 
+ 
+Δp = 2
+
+SAΔt
+c
+= 2(6.00 ˆi W/m2)(40.0 × 10−4 m2)(1.00 s)
+3.00 × 108 m/s
+ 
+ 
+ 
+ 
+Δp = 1.60 × 10−10 ˆi kg⋅m/s each second
+
+--- PAGE 20 ---
+Chapter 34     591 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The force is  
+ 
+ 
+ 
+
+F = PAˆi = 2SA
+c
+ˆi = 2 6.00 W/m2
+(
+) 40.0 × 10−4 m2
+(
+) 1.00 s
+(
+)
+3.00 × 108 m/s
+= 1.60 × 10−10 ˆi N
+ 
+ 
+(c) 
+The answers are the same. Force is the time rate of momentum 
+transfer. 
+P34.42 
+(a) 
+If PS is the total power radiated by the Sun, and rE and rM are the 
+radii of the orbits of the planets Earth and Mars, then the 
+intensities of the solar radiation at these planets are:  
+ 
+ 
+ 
+IE =
+PS
+4π rE
+2   and   IM =
+PS
+4π rM
+2 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+IM = IE
+rE
+rM
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1 370 W/m2
+(
+) 1.496 × 1011 m
+2.28 × 1011 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 590 W/m2
+ 
+ 
+(b) Mars intercepts the power falling on its circular face:  
+ 
+ 
+ 
+PM = IM π RM
+2
+(
+) = 590 W/m2
+(
+) π 3.37 × 106 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 2.10 × 1016 W
+ 
+ 
+(c) 
+If Mars behaves as a perfect absorber, it feels pressure  
+ 
+ 
+ 
+ 
+P = SM
+c = IM
+c
+, 
+ 
+ 
+so the light-pressure force is  
+ 
+ 
+ 
+FL = PA = IM
+c
+π RM
+2
+(
+) = PM
+c = 2.10 × 1016 W
+3.00 × 108 m/s = 7.01× 107 N 
+ 
+(d) Using our results from above, we have FL = IM
+π RM
+2
+c
+ and 
+IM = IE
+rE
+2
+rM
+2 , so the light-pressure force on Mars is FL = IE
+rE
+2
+rM
+2
+π RM
+2
+c
+. 
+The attractive gravitational force exerted on Mars by the Sun is 
+Fg = GMSMM
+rM
+2
+. Their ratio is  
+ 
+ 
+ 
+Fg
+FL
+= GMSMM
+rM
+2
+⋅1
+IE
+rM
+2
+rE
+2
+c
+π RM
+2 =
+cGMS
+πIErE
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+MM
+RM
+2
+
+--- PAGE 21 ---
+592     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Suppressing units, 
+ 
+ 
+ 
+Fg
+FL
+=
+3.00 × 108
+(
+) 6.67 × 10−11
+(
+) 1.991× 1030
+(
+)
+π 1 370
+(
+) 1.496 × 1011
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+MM
+RM
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Fg
+FL
+= 414 m2/kg
+(
+) MM
+RM
+2 = 414 m2/kg
+(
+)
+6.42 × 1023 kg
+(
+)
+3.37 × 106 m
+(
+)
+2
+= 2.34 × 1013
+ 
+ 
+ 
+The attractive gravitational force exerted on Mars by the Sun is 
+~1013 times stronger than the repulsive light-pressure force of 
+part (c).  
+ 
+(e) 
+The expression for the ratio of the gravitational force to the light-
+pressure force for Earth is similar to that used in part (d) for Mars 
+(replace M with E):  
+ 
+ 
+ 
+Fg
+FL
+= 414 m2/kg
+(
+) ME
+RE
+2 = 414 m2/kg
+(
+)
+5.98 × 1024 kg
+(
+)
+6.37 × 106 m
+(
+)
+2
+= 6.10 × 1013
+ 
+ 
+ 
+The values are similar for both planets because both the forces
+follow inverse-square laws. The force ratios are not identical
+for the two planets because of their different radii and masses.
+ 
+P34.43 
+(a) 
+The radiation pressure is  
+ 
+ 
+ 
+P = 2S
+c = 2I
+c
+ 
+ 
+ 
+The force on area A is  
+ 
+ 
+ 
+F = PA =
+2 1 370 W/m2
+(
+)
+3.00 × 108 m/s 6.00 × 105 m2
+(
+) = 5.48 N
+ 
+ 
+(b) The acceleration is: 
+ 
+ 
+ 
+a = F
+m = 5.48 N
+6 000 kg = 9.13 × 10−4 m/s2
+= 913 µm/s2 away from the Sun
+ 
+ 
+(c) 
+It will arrive at time t, where d = 1
+2 at2 or, 
+ 
+ 
+ 
+t =
+2d
+a =
+2 3.84 × 108 m
+(
+)
+9.13 × 10−4 m/s2
+(
+)
+= 9.17 × 105 s = 10.6 days
+
+--- PAGE 22 ---
+Chapter 34     593 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 34.6 
+Production of Electromagnetic Waves  
+by an Antenna 
+P34.44 
+(a) 
+The wavelength of an ELF wave of frequency 75.0 Hz is  
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+75.0 Hz
+= 4.00 × 106 m 
+ 
+ 
+The length of a quarter-wavelength antenna would be  
+ 
+ 
+ 
+L = 1.00 × 106 m = 1.00 × 103 km 
+ 
+ 
+or  
+L = 1 000 km
+(
+) 0.621 mi
+1.00 km
+⎛
+⎝⎜
+⎞
+⎠⎟= 621 mi 
+ 
+(b) 
+While the project may be theoretically possible, it is not very 
+practical. 
+P34.45 
+(a) 
+h = λ
+4 = c
+4 f = 3.00 × 108 m/s
+4 560 × 103 Hz
+(
+)
+= 134 m 
+ 
+(b) 
+h = λ
+4 = c
+4 f =
+3.00 × 108 m/s
+4 1600 × 103 Hz
+(
+)
+= 46.9 m 
+P34.46 
+(a) 
+The magnetic field 
+
+B = 1
+2 µ0Jmax cos kx −ω t
+(
+) ˆk applies for x > 0, 
+since it describes a wave moving in the ˆi direction. The electric 
+field direction must satisfy 
+
+S = 1
+µ0
+
+E ×
+
+B as ˆi = ˆj × ˆk so the 
+direction of the electric field is ˆj when the cosine is positive. For 
+its magnitude we have E = cB, so altogether we have 
+
+E = 1
+2 µ0cJmax cos kx −ω t
+(
+)ˆj . 
+ 
+(b) 
+
+S = 1
+µ0
+
+E ×
+
+B = 1
+µ0
+1
+4 µ0
+2cJmax
+2
+cos2 kx −ω t
+(
+)ˆi 
+ 
+ 
+
+S = 1
+4 µ0cJmax
+2
+cos2 kx −ω t
+(
+)ˆi 
+ 
+(c) 
+The intensity is the magnitude of the Poynting vector averaged 
+over one or more cycles. The average of the cosine-squared 
+function is 1
+2
+, so I = 1
+8 µ0cJmax
+2
+.
+
+--- PAGE 23 ---
+594     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+Jmax =
+8I
+µ0c =
+8 570 W/m2
+(
+)
+4π × 10−7 Tm A
+(
+)3 × 108 m/s = 3.48 A/m 
+*P34.47 
+For the proton, Newton’s second law gives 
+ 
+ 
+ 
+F
+∑
+= ma:       qvB sin 90.0° = mv2
+R . 
+ 
+The period and frequency of the proton’s circular motion are therefore: 
+ 
+ 
+ 
+T = 2π R
+v
+= 2π m
+qB =
+2π 1.67 × 10−27 kg
+(
+)
+1.60 × 10 −19 C
+(
+) 0.350 T
+(
+) = 1.87 × 10−7 s
+ 
+ 
+and  
+f = 5.34 × 106 Hz. 
+ 
+The charge will radiate at this same frequency, with 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m s
+5.34 × 106 Hz = 56.2 m
+ 
+P34.48 
+For the proton, 
+F
+∑
+= ma yields  
+ 
+ 
+qvBsin90.0° = mv2
+R
+→v = qBR
+m
+ 
+ 
+The period of the proton’s circular motion is therefore:  
+ 
+ 
+T = 2πR
+v
+= 2π m
+qB 
+ 
+The frequency of the proton’s motion is f = 1
+T
+ 
+ 
+The charge will radiate electromagnetic waves at this frequency, with  
+ 
+ 
+λ = c
+f = cT =
+2π mc
+qB
+ 
+P34.49 
+Refer to ANS. FIG. P34.49. For any wavelength: 
+ 
+(a) 
+Constructive interference occurs when dcosθ = nλ for some 
+integer n.  
+ 
+ 
+ 
+cosθ = n λ
+d = n
+λ
+λ 2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2n      n = 0, ± 1, ± 2, … 
+ 
+ 
+∴strong signal @ θ = cos−1 0 = 90°, 270°, or  
+ 
+ 
+along the perpendicular bisector of the line segment joining
+the antennas.
+
+--- PAGE 24 ---
+Chapter 34     595 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Destructive interference occurs when  
+ 
+ 
+ dcosθ =
+2n + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ :     cosθ = 2n + 1 
+ 
+ 
+∴weak signal @ θ = cos−1 ±1
+(
+) = 0°, 180° , or 
+ 
+ 
+along the extensions of the line segment joining the antennas. 
+ 
+ 
+ANS. FIG. P34.49 
+ 
+ 
+ 
+Section 34.7 
+The Spectrum of Electromagnetic Waves 
+P34.50 
+(a) 
+f = c
+λ = 3 × 108 m/s
+1.7 m
+~ 108 Hz
+radio wave 
+ 
+(b) 1 000 pages, 500 sheets, is about 3 cm thick so one sheet is about  
+6 × 10
+–5 m thick.  
+ 
+ 
+ 
+f = 3.00 × 108 m/s
+6 × 10−5 m
+~ 1013 Hz
+infrared 
+P34.51 
+(a) 
+f λ = c   gives   5.00 × 1019 Hz
+(
+)λ = 3.00 × 108 m/s:  
+ 
+ 
+ 
+λ = 6.00 × 10−12 m = 6.00 pm 
+ 
+(b) 
+f λ = c   gives   4.00 × 109 Hz
+(
+)λ = 3.00 × 108 m/s: 
+ 
+ 
+ 
+λ = 0.075 0 m = 7.50 cm 
+P34.52 
+The time interval for the radio signal to travel 100 km is: 
+ 
+ 
+ 
+Δtr =
+100 × 103 m
+3.00 × 108 m/s = 3.33 × 10−4 s 
+ 
+The sound wave travels 3.00 m across the room in:  
+ 
+ 
+ 
+Δts = 3.00 m
+343 m/s = 8.75 × 10−3 s
+
+--- PAGE 25 ---
+596     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore, listeners 100 km away will receive the news before the 
+people in the newsroom by a total time difference of  
+ 
+ 
+ 
+Δt = 8.75 × 10−3 s −3.33 × 10−4 s = 8.41× 10−3 s 
+P34.53 
+From f λ = c ,  
+ 
+Channel 3: f = 60.0 MHz to 66.0 MHz.  
+ 
+(a) 
+Channel 4: f = 66.0 MHz to 72.0 MHz, λ = 4.17 m to 4.55 m . 
+ 
+ 
+72.0–76.0 MHz is reserved for non-TV purposes.  
+ 
+ 
+Channel 5: f = 76.0 MHz to 82.0 MHz.  
+ 
+(b) Channel 6: f = 82.0 MHz to 88.0 MHz, λ = 3.41 m to 3.66 m . 
+ 
+ 
+88.0–174 MHz is reserved for non-TV purposes.  
+ 
+ 
+Channel 7: f = 174 MHz to 180 MHz.  
+ 
+(c) 
+Channel 8: f = 180 MHz to 186 MHz, λ = 1.61 m to 1.67 m . 
+ 
+ 
+ 
+Additional Problems 
+*P34.54 
+From the electromagnetic spectrum chart and accompanying text 
+discussion, the following identifications are made: 
+ 
+ 
+Frequency, f 
+Wavelength, λ = c
+f 
+Classification 
+ 
+2 Hz = 2 × 10
+0 Hz 
+150 Mm 
+Radio 
+ 
+2 KHz = 2 × 10
+3 Hz  
+150 km 
+Radio 
+ 
+2 MHz = 2 × 10
+6 Hz  
+150 m 
+Radio 
+ 
+2 GHz = 2 × 10
+9 Hz  
+15 cm 
+Microwave 
+ 
+2 THz = 2 × 10
+12 Hz  
+150 µm 
+Infrared 
+ 
+2 PHz = 2 × 10
+15 Hz 
+150 nm 
+Ultraviolet 
+ 
+2 EHz = 2 × 10
+18 Hz  
+150 pm 
+X-ray 
+ 
+2 ZHz = 2 × 10
+21 Hz  
+150 fm 
+Gamma ray 
+ 
+2 YHz = 2 × 10
+24 Hz  
+150 am 
+Gamma ray
+
+--- PAGE 26 ---
+Chapter 34     597 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Wavelength, λ 
+Frequency, f = c
+λ
+ 
+Classification 
+ 
+2 km = 2 × 10
+3 m  
+1.5 × 10
+5 Hz 
+Radio 
+ 
+2 m = 2 × 10
+0 m  
+1.5 × 10
+8 Hz  
+Radio 
+ 
+2 mm = 2 × 10
+–3 m  
+1.5 × 10
+11 Hz  
+Microwave 
+ 
+2 µm = 2 × 10
+–6 m  
+1.5 × 10
+14 Hz  
+Infrared 
+ 
+2 nm = 2 × 10
+–9 m  
+1.5 × 10
+17 Hz  
+Ultraviolet/X-ray 
+ 
+2 pm = 2 × 10
+–12 m  
+1.5 × 10
+20 Hz  
+X-ray/Gamma ray 
+ 
+2 fm = 2 × 10
+–15 m  
+1.5 × 10
+23 Hz  
+Gamma ray 
+ 
+2 am = 2 × 10
+–18 m  
+1.5 × 10
+26 Hz  
+Gamma ray 
+ 
+P34.55 
+(a) 
+From P = SA, we have 
+   
+ 
+ 
+P = 1 370 W/m2
+(
+) 4π 1.496 × 1011 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦= 3.85 × 1026 W 
+ 
+ 
+(b) 
+S = Emax
+2
+2µ0c
+   so 
+ 
+ 
+ 
+Emax =
+2µ0cS
+=
+2 4π × 10−7 T⋅m/A
+(
+) 3.00 × 108 m s
+(
+) 1 370 W/m2
+(
+)
+= 1.02 kV m
+ 
+ 
+(c) 
+S = cBmax
+2
+2µ0
+   so  
+ 
+ 
+ 
+Bmax =
+2µ0S
+c
+=
+2 4π × 10−7 T ⋅m/A
+(
+) 1 370 W m2
+(
+)
+3.00 × 108 m s
+= 3.39 µT
+  
+P34.56 
+We use the relationship between energy density and electric field 
+magnitude that we studied previously for a static field. The energy 
+density can be written as  
+ 
+ 
+ 
+uE =
+1
+2 ∈0 Emax
+2
+
+--- PAGE 27 ---
+598     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+ 
+Emax =
+2uE
+∈0
+=
+2 4.00 × 10–14 N ⋅m2
+(
+)
+8.85 × 10–12 C2/N ⋅m2 = 95.1 mV/m . 
+P34.57 
+The wavelength is found from 
+ 
+ 
+f λ = c →λ = c
+f = 3.00 × 108 m/s
+5.45 × 1014 Hz = 5.50 × 10−7 m 
+P34.58 
+The angular frequency of the wave is 
+ 
+ 
+ω = 2π f = 2π 3.00 × 109 s−1
+(
+) = 1.88 × 1010 s−1  
+ 
+and the wave number is 
+ 
+ 
+k = 2π
+λ = ω
+c = 2π
+3.00 × 109 s−1
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= 20.0π m−1 = 62.8 m−1
+ 
+ 
+Also, 
+ 
+ 
+Bmax = E
+c =
+300 V/m
+3.00 × 108 m/s = 1.00 µT
+ 
+ 
+Then, 
+ 
+ 
+E = 300cos 62.8x −1.88 × 1010t
+(
+)    
+ 
+B = 1.00cos 62.8x −1.88 × 1010t
+(
+) 
+ 
+where E is in volts per meter (V/m), B is in microtesla (µT), x is in 
+meters, and t is in seconds.  
+*P34.59 
+(a) 
+The power incident on the mirror is:  
+ 
+ 
+ 
+PI = IA = 1 370 W m2
+(
+) π 100 m
+(
+)2
+⎡⎣
+⎤⎦= 4.30 × 107 W . 
+ 
+ 
+The power reflected through the atmosphere is 
+PR = 0.746 4.30 × 107 W
+(
+) = 3.21× 107 W 
+ 
+(b) 
+S = PR
+A =
+3.21× 107 W
+π 4.00 × 103 m
+(
+)
+2 = 0.639 W m2
+ 
+ 
+(c) 
+Noon sunshine in St. Petersburg produces this power-per-area on 
+a horizontal surface: 
+ 
+ 
+ 
+PN
+A = 0.746 1 370 W m2
+(
+)sin7.00° = 125 W m2 
+ 
+ 
+The radiation intensity received from the mirror is 
+0.639 W m2
+125 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟100% = 0.513% of that from the noon Sun in 
+January.
+
+--- PAGE 28 ---
+Chapter 34     599 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P34.60 
+(a) 
+λ = c
+f = 3.00 × 108 m s
+20.0 × 109 s−1 = 1.50 cm 
+ 
+(b) 
+U = P Δt
+(
+) = 25.0 × 103 J s
+(
+) 1.00 × 10−9 s
+(
+)
+= 25.0 × 10−6 J = 25.0 µJ
+ 
+ 
+(c) 
+uavg = U
+V =
+U
+π r2
+(
+)
+=
+U
+π r2
+(
+)c Δt
+(
+) =
+25.0 × 10−6 J
+π 0.060 0 m
+(
+)2 3.00 × 108 m s
+(
+) 1.00 × 10−9 s
+(
+)
+ 
+ 
+ 
+uavg = 7.37 × 10−3 J m3 = 7.37 mJ m3
+ 
+ 
+(d) 
+Emax =
+2uav
+∈0
+=
+2 7.37 × 10−3 J m3
+(
+)
+8.85 × 10−12 C2 N ⋅m2 = 4.08 × 104 V m
+=
+40.8 kV m
+ 
+ 
+ 
+Bmax = Emax
+c
+= 4.08 × 104 V m
+3.00 × 108 m s = 1.36 × 10−4 T = 136 µT 
+ 
+(e) 
+F = PA = S
+c( )A = uavA = 7.37 × 10−3 J m3
+(
+)π 0.060 0 m
+(
+)2
+= 8.33 × 10−5 N = 83.3 µN
+ 
+P34.61 
+Suppose you cover a 1.7 m × 0.3 m section of beach blanket. Suppose 
+the elevation angle of the Sun is 60°. Then the effective target area you 
+fill in the Sun’s light is  
+ 
+ 
+ 
+A = 1.7 m
+(
+) 0.3 m
+(
+)cos30° = 0.4 m2 
+ 
+Now I = P
+A = ΔE
+AΔt ,  so 
+ 
+ 
+  
+ΔE = IAΔt = 0.5
+(
+)
+0.6
+(
+) 1 370 W/m2
+(
+)
+⎡⎣
+⎤⎦0.4 m2
+(
+) 3 600 s
+(
+)
+~ 106 J
+ 
+P34.62 
+P = ΔV
+(
+)2
+R
+  or   P ∝ΔV
+(
+)2 
+ 
+ΔV = −
+( )Ey ⋅Δy = Ey ⋅cosθ 
+ 
+ΔV ∝cosθ   so   P ∝cos2θ 
+ANS. FIG. P34.60 
+θ
+l
+receiving
+antenna
+∆y
+ANS. FIG. P34.62
+
+--- PAGE 29 ---
+600     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+θ = 15.0°:  P = Pmax cos2 15.0°
+(
+) = 0.933Pmax = 93.3% 
+ 
+(b) 
+θ = 45.0°:  P = Pmax cos2 45.0°
+(
+) = 0.500Pmax = 50.0%  
+ 
+(c) 
+θ = 90.0°:  P = Pmax cos2 90.0°
+(
+) = 0 
+P34.63 
+The gravitational force exerted by the Sun on the particle is given by 
+ 
+ 
+  
+Fgrav = GMSm
+R2
+=
+GMS
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟ρ 4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+where MS = mass of Sun, r = radius of particle, and R = distance from 
+Sun to particle. The force exerted by solar radiation on the particle is 
+given by Frad = PA, and since the particle absorbs all the radiation, by 
+Equation 34.28, we have 
+ 
+ 
+  
+Frad = PA = S
+c π r2 
+ 
+When the particle is in equilibrium, the gravitational force toward the 
+Sun is balanced by the force of radiation away from the Sun, 
+Frad = Fgrav, so 
+ 
+ 
+  
+S
+c π r2 = GMS
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ρ 4
+3π r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+Solving for r, the radius of the particle, then gives 
+ 
+ 
+  
+r =
+3SR2
+4cGMSρ
+ 
+ 
+Suppressing units,  
+ 
+ 
+ 
+r =
+3 214
+(
+) 3.75 × 1011
+(
+)
+2
+4 3.00 × 108
+(
+) 6.67 × 10−11
+(
+) 1.991× 1030
+(
+) 1 500
+(
+)
+= 3.78 × 10−7 m = 378 nm
+ 
+ 
+P34.64 
+The gravitational force exerted by the Sun on the particle is given by 
+ 
+ 
+  
+Fgrav = GMSm
+R2
+=
+GMS
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟ρ 4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+where MS = mass of Sun, r = radius of particle, and R = distance from 
+Sun to particle. The force exerted by solar radiation on the particle is 
+given by Frad = PA, and since the particle absorbs all the radiation, by 
+Equation 34.28, we have 
+ 
+ 
+  
+Frad = PA = S
+c π r2
+
+--- PAGE 30 ---
+Chapter 34     601 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+When the particle is in equilibrium, the gravitational force toward the 
+Sun is balanced by the force of radiation away from the Sun, 
+Frad = Fgrav, so 
+ 
+ 
+  
+S
+c π r2 = GMS
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ρ 4
+3π r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+Solving for r, the radius of the particle, then gives 
+ 
+ 
+  
+r =
+3SR2
+4cGMSρ
+ 
+P34.65 
+(a) 
+The magnetic-field amplitude is  
+ 
+ 
+ Bmax = Emax
+c
+= 0.200 × 10−6 V/m
+3.00 × 108 m/s
+= 6.67 × 10−16 T 
+ 
+(b) The intensity is the Poynting vector averaged over one or more 
+cycles, given by  
+ 
+ 
+ 
+Savg = Emax
+2
+2µ0c =
+0.200 × 10−6 V/m
+(
+)
+2
+2 4π × 10−7 T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+= 5.31× 10−17 W/m2
+ 
+ 
+(c) 
+The power tells how fast the antenna receives energy. It is
+  
+ 
+ 
+ 
+P = SavgA = Savgπ
+d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 5.31× 10−17 W/m2
+(
+)π
+20.0 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1.67 × 10−14 W
+ 
+ 
+(d) The force tells how fast the antenna receives momentum. It is 
+ 
+ 
+ 
+F = PA =
+Savg
+c
+⎛
+⎝⎜
+⎞
+⎠⎟A =
+5.31× 10−17 W/m2
+3.00 × 108 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟π
+20.0 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 5.56 × 10−23 N
+  
+ 
+ 
+(approximately the weight of 3 000 hydrogen atoms!) 
+P34.66 
+Of the intensity S = 1 370 W/m
+2, the 38.0% that is reflected exerts a 
+pressure  
+ 
+ 
+P1 = 2Sr
+c
+= 2 0.380
+(
+)S
+c
+ 
+ 
+The absorbed light exerts pressure 
+ 
+ 
+P2 = Sa
+c = 0.620S
+c
+
+--- PAGE 31 ---
+602     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Altogether the pressure at the subsolar point on Earth is 
+ 
+(a) 
+Ptotal = P1 + P2 = 1.38S
+c
+=
+1.38 1370 W/m2
+(
+)
+3.00 × 108 m/s
+= 6.30 × 10−6 Pa 
+ 
+(b) Compared to normal atmospheric pressure, 
+ 
+ 
+ 
+Pa
+Ptotal
+= 1.01× 105 N/m2
+6.30 × 10−6 N/m2
+= 1.60 × 1010 times smaller than atmospheric pressure
+  
+P34.67 
+The mirror intercepts power  
+ 
+ 
+ 
+P = I1A1 = 1.00 × 103 W/m2
+(
+) π 0.500 m
+(
+)
+2
+⎡⎣
+⎤⎦ = 785 W . 
+ 
+(a) 
+In the image, I2 = P
+A2
+, so  
+ 
+ 
+ 
+I2 =
+785 W
+π 0.020 0 m
+(
+)
+2 = 625 kW/m2
+ 
+ 
+(b) 
+I2 = Emax
+2
+2µ0c
+, so 
+ 
+ 
+Emax =
+2µ0cI2
+=
+2 4π × 10−7 T ⋅m/A
+(
+) 3.00 × 108 m/s
+(
+) 6.25 × 105 W/m2
+(
+)
+= 21.7 kN C
+ 
+ 
+(c) 
+Bmax = Emax
+c
+= 72.4 µT 
+ 
+(d) We obtain the time interval from 
+ 
+ 
+ 
+0.400 PΔt
+(
+) = mcΔT 
+ 
+ 
+solving, 
+ 
+ 
+ 
+Δt = mcΔT
+0.400P = 1.00 kg
+(
+) 4 186 J/kg⋅°C
+(
+) 100°C −20.0°C
+(
+)
+0.400 785 W
+(
+)
+= 1.07 × 103 s = 17.8 min
+ 
+P34.68 
+(a) 
+In 
+
+E = 
+q
+4π ∈0 r2 ˆr =
+Φ
+4πr2 ˆr = 487 N⋅m2/C
+4πr2
+ˆr , 
+ 
+ 
+
+E = 38.8
+r2 ˆr where 
+
+E is in volts per meter and r is in meters.
+
+--- PAGE 32 ---
+Chapter 34     603 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The radiated intensity is  
+ 
+ 
+ 
+I =
+P
+4πr2 = Emax
+2
+2µ0c
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+Emax =
+2µ0cP
+4πr2 = 1
+r
+µ0cP
+2π
+= 1
+r
+4π × 10−7 T⋅m/A
+(
+) 3.00 × 108 m/s
+(
+) 25.0 W
+(
+)
+2π
+ 
+ 
+ 
+ 
+Emax  = 38.7
+r
+ where E is in volts per meter and r is in meters.  
+ 
+(c) 
+For Emax  = 38.7
+r
+= 3.00 × 106 →r = 1.29 × 10−5 = 12.9 × 10−6 , so r is 
+12.9 µm, but the expression in part (b) does not apply if this point 
+is inside the source. 
+ 
+(d) From part (c), we see that in the radiated wave, the field 
+amplitude is inversely proportional to distance. As the distance 
+doubles, the amplitude is cut in half. 
+ 
+(e) 
+In the static case, the field is inversely proportional to 
+the square of the distance. As the distance doubles, the 
+field is reduced by a factor of 4.
+ 
+P34.69 
+(a) 
+At steady state, Pin = Pout and the power radiated out is 
+Pout = eσ AT 4. Thus,    
+ 
+ 
+ 
+T =
+Pout
+eσ A
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 4
+=
+900 W/m2
+0.700 5.67 × 10−8 W/m2 ⋅K4
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 4
+= 388 K = 115°C
+  
+ 
+(b) The box of horizontal area A presents projected area A sin 50.0° 
+perpendicular to the sunlight. Then by the same reasoning,  
+ 
+ 
+ 
+0.900 1 000 W/m2
+(
+)Asin50.0°
+                            = 0.700 5.67 × 10−8 W/m2 ⋅K4
+(
+)AT 4
+ 
+ 
+ 
+or 
+T =
+900 W/m2
+(
+)sin50.0°
+0.700 5.67 × 10−8 W/m2 ⋅K4
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 4
+= 363 K = 90.0°C
+
+--- PAGE 33 ---
+604     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.70 
+(a) 
+See ANS. FIG. P34.70 
+ 
+ANS. FIG. P34.70 
+ 
+(b) 
+uE = 1
+2 ∈0 E2 = 1
+2 ∈0 Emax
+2
+cos2(kx) 
+ 
+(c) 
+uB =
+1
+2µ0
+B2 =
+1
+2µ0
+Bmax
+2
+cos2(kx) 
+ 
+(d) Note that  
+ 
+ 
+ 
+uB =
+1
+2µ0
+Emax
+2
+c2 cos2(kx) =
+1
+2µ0
+Emax
+2
+1 µ0∈0
+(
+)
+cos2(kx)
+= 1
+2∈0 Emax
+2
+cos2(kx) = uE
+ 
+ 
+ 
+Therefore, u = uE + uB = ∈0 Emax
+2
+cos2(kx) . 
+ 
+(e)  Eλ =
+ uA dx
+0
+λ∫
+ 
+ 
+ 
+Eλ =
+∈0 Emax
+2
+cos2(kx)Adx
+0
+λ∫
+=
+∈0 Emax
+2
+A 1
+2 + 1
+2 cos(2kx)
+⎡
+⎣⎢
+⎤
+⎦⎥Adx
+0
+λ∫
+= 1
+2 ∈0 Emax
+2
+Ax 0
+λ + ∈0 Emax
+2
+4k
+Asin(2kx) 0
+λ
+= 1
+2 ∈0 Emax
+2
+Aλ + ∈0 Emax
+2
+4k
+A sin(4π) −sin(0)
+[
+]
+= 1
+2 ∈0 Emax
+2
+λA
+ 
+ 
+(f) 
+P = Eλ
+T = 1
+2
+∈0 Emax
+2
+λA
+1 f
+(
+)
+= 1
+2 ∈0 Emax
+2
+λ f
+(
+)A = 1
+2 ∈0 cEmax
+2
+A 
+ 
+(g) 
+I = P
+A =
+1
+2 ∈0 cEmax
+2
+A
+A
+= 1
+2 ∈0 cEmax
+2
+
+--- PAGE 34 ---
+Chapter 34     605 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(h) From part (g), we have  
+ 
+ 
+ 
+1
+2 ∈0 cEmax
+2
+= µ0
+µ0
+∈0 cEmax
+2
+2
+= µ0 ∈0
+(
+) cEmax
+2
+2µ0
+= 1
+c2
+cEmax
+2
+2µ0
+= Emax
+2
+2µ0c
+  
+ 
+ 
+The result in part (g) agrees with I =  Emax
+2
+2µ0c in Equation 34.24.
+ 
+P34.71 
+The bead is black, so we assume it absorbs all light that strikes it. The 
+bead presents an effective face of area A = π r
+2 to the light. Since we 
+assume the bead to be perfectly absorbing, the light pressure, from 
+Equation 34.28, is  
+ 
+ 
+ 
+P = Sav
+c = I
+c = F
+A
+ 
+ 
+so the light force is F= I
+c A . 
+ 
+(a) 
+The light force balances the weight, F= Fg, so  
+ 
+ 
+ 
+I
+c π r2 = mg
+ 
+ 
+ 
+solving, 
+ 
+ 
+  
+I = mgc
+π r2 =
+ρ 4
+3πr3
+⎛
+⎝
+⎞
+⎠gc
+πr2
+= 4
+3 ρcgr
+= 4
+3
+0.200 × 10−3 kg
+10−6 m3
+⎛
+⎝⎜
+⎞
+⎠⎟3.00 × 108 m/s
+(
+) 9.80 m/s2
+(
+)
+                                                         × 0.500 × 10−3 m
+(
+)
+I = 3.92 × 108 W/m2
+ 
+ 
+(b) The minimum power required is 
+ 
+ 
+ 
+P = IA = 3.92 × 108 W/m2
+(
+)π 0.500 × 10−3 m
+(
+)
+2 = 308 W 
+P34.72 
+The bead is black, so we assume it absorbs all light that strikes it. The 
+bead presents an effective face of area A = π r
+2 to the light. Since we 
+assume the bead to be perfectly absorbing, the light pressure, from 
+Equation 34.28, is  
+ 
+ 
+ 
+P = Sav
+c = I
+c = F
+A
+ 
+ 
+so the light force is F= I
+c A .
+
+--- PAGE 35 ---
+606     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+The light force balances the weight, F= Fg, so  
+ 
+ 
+ 
+I
+c π r2 = mg
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+I = mgc
+π r2 =
+ρ 4
+3πr3
+⎛
+⎝
+⎞
+⎠gc
+πr2
+= 4
+3 ρcgr
+ 
+ 
+(b) The minimum power required is 
+ 
+ 
+ 
+P = IA =
+4
+3 ρcgr
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+) =
+4
+3πρcgr3
+ 
+P34.73 
+(a) 
+A hemisphere is half a sphere:  
+ 
+ 
+ 
+m = ρV = ρ 1
+2
+4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ = 5.50 + 4(0.800) kg = 8.70 kg 
+ 
+ 
+ 
+r =
+6m
+ρ4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+6 8.7 kg
+(
+)
+990 kg/m3
+(
+)4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+= 0.161 m 
+ 
+(b) 
+A = 1
+2 4π r2 = 2π 0.161 m
+(
+)
+2 = 0.163 m2 
+ 
+(c) 
+P = eσ AT 4 and T = 31.0 + 273.0 = 304 K:  
+ 
+ 
+ 
+P = 0.970 5.67 × 10−8 W/m2 ⋅K4
+(
+) 0.163 m2
+(
+) 304 K
+(
+)
+4
+= 76.8 W
+ 
+ 
+(d) 
+I = P
+A = eσ T 4
+I = 0.970 5.67 × 10−8 W m2 ⋅K4
+(
+) 304 K
+(
+)
+4
+= 470W m2
+ 
+ 
+(e) 
+I = Emax
+2
+2µ0c
+ 
+ 
+ 
+Emax = 2µ0cI
+(
+)
+1 2
+= 2 4π × 10−7 Tm/A
+(
+) 3.00 × 108 m/s
+(
+) 470 W/m2
+(
+)
+⎡⎣
+⎤⎦
+1 2
+= 595 N/C
+
+--- PAGE 36 ---
+Chapter 34     607 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+Emax = cBmax →Bmax =
+595 N/C
+3 × 108 m/s = 1.98 µT 
+ 
+(g) Each kitten has radius rk =
+6m
+ρ4π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+=
+6 0.800
+(
+)
+990 × 4π
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 3
+= 0.072 8 m 
+and radiating area 2π 0.072 8 m
+(
+)
+2 = 0.033 3 m2 . The mother cat 
+has area 2π
+6 5.50
+(
+)
+990 × 4π
+⎡
+⎣⎢
+⎤
+⎦⎥
+2 3
+= 0.120 m2 . The total glowing area is 
+0.120 m2 + 4 0.033 3 m2
+(
+) = 0.254 m2 and has power output 
+P = IA = 470 W/m2
+(
+) 0.254 m2
+(
+) = 119 W . 
+P34.74 
+(a) 
+On the right side of the equation,  
+ 
+ 
+ 
+C2 m/s2
+(
+)
+2
+C2 /N ⋅m2
+(
+) m/s
+(
+)
+3 = N ⋅m2 ⋅C2 ⋅m2 ⋅s3
+C2 ⋅s4 ⋅m3
+= N ⋅m
+s
+= J
+s = W 
+ 
+(b) F = ma = qE, or     
+ 
+ 
+ 
+a = qE
+m =
+1.60 × 10−19 C
+(
+) 100 N/C
+(
+)
+9.11× 10−31 kg
+= 1.76 × 1013 m/s2 
+ 
+(c) 
+The radiated power is then:  
+ 
+ 
+ 
+P =
+q2a2
+6π ∈0 c3 =
+1.60 × 10−19 C
+(
+)
+2 1.76 × 1013 m/s2
+(
+)
+2
+6π 8.85 × 10−12 C2/N⋅m2
+(
+) 3.00 × 108 m/s
+(
+)
+3
+= 1.75 × 10−27 W
+ 
+ 
+(d) 
+F = mac = m v2
+r
+⎛
+⎝⎜
+⎞
+⎠⎟= qvB , 
+ 
+ 
+so 
+v = qBr
+m
+ 
+ 
+ 
+The proton accelerates at  
+ 
+ 
+ 
+a = v2
+r = q2B2r
+m2
+= 1.60 × 10−19 C
+(
+)
+2 0.350 T
+(
+)
+2 0.500 m
+(
+)
+1.67 × 10−27 kg
+(
+)
+2
+= 5.62 × 1014 m/s2
+
+--- PAGE 37 ---
+608     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The proton then radiates  
+ 
+ 
+ 
+P =
+q2a2
+6π ∈0 c3 =
+1.60 × 10−19 C
+(
+)
+2 5.62 × 1014 m/s2
+(
+)
+2
+6π 8.85 × 10−12 C2/N⋅m2
+(
+) 3.00 × 108 m/s
+(
+)
+3
+= 1.80 × 10−24 W
+ 
+P34.75 
+We take R to be the planet’s distance from its star, and r to be the 
+radius of the planet.  
+ 
+(a) 
+The effective area of the planet over which it absorbs light is its 
+projection onto a plane perpendicular to the light from its sun. 
+The projected area of a planet of radius r is π r
+2, so the planet 
+absorbs light over area π r
+2. 
+ 
+(b) 
+The planet radiates over its entire surface area, 4π r
+2. 
+ 
+(c) 
+At steady-state, Pin = Pout:  
+ 
+ 
+ 
+eIin π r2
+(
+) = eσ 4π r2
+(
+)T 4 
+ 
+ 
+ 
+e 6.00 × 1023 W
+4π R2
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+) = eσ 4π r2
+(
+)T 4 , so that  
+ 
+ 
+ 
+6.00 × 1023 W = 16πσR2T 4 
+ 
+ 
+ 
+R =
+6.00 × 1023 W
+16πσ T 4
+=
+6.00 × 1023 W
+16π 5.67 × 10−8 W/m2 ⋅K4
+(
+) 310 K
+(
+)
+4 = 4.77 × 109 m
+ 
+ 
+ 
+ 
+Challenge Problems 
+P34.76 
+We are given f = 90.0 MHz and Emax = 200 mV/m = 2.00 × 10−3 V/m 
+ 
+(a) 
+The wavelength of the wave is λ = c
+f = 3.33 m 
+ 
+(b) Its period is T = 1
+f = 1.11× 10−8 s = 11.1 ns 
+ 
+(c) 
+We obtain the maximum value of the magnetic field from  
+ 
+ 
+ 
+Bmax = Emax
+c
+= 6.67 × 10−12 T = 6.67 pT
+
+--- PAGE 38 ---
+Chapter 34     609 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+
+E = 2.00 × 10−3
+(
+)cos2π
+x
+3.33 −90.0 × 106t
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj 
+ 
+ 
+
+B = 6.67 × 10−12
+(
+)cos2π
+x
+3.33 −90.0 × 106t
+⎛
+⎝⎜
+⎞
+⎠⎟ˆk 
+ 
+ 
+where 
+
+E is in V/m, 
+
+B in tesla, x in meters, and t in seconds.  
+ 
+(e) 
+I = Emax
+2
+2µ0c =
+2.00 × 10−3 V/m
+(
+)
+2
+2 4π × 10−7 T⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+= 5.31× 10−9 W m2
+ 
+ 
+(f) 
+From Equation 34.26, I = cuavg   so   uavg = I
+c = 1.77 × 10−17 J m3 
+ 
+(g) From Equation 34.30, the pressure is 
+ 
+ 
+ 
+P = 2I
+c = 2
+( ) 5.31× 10−9 W m2
+(
+)
+3.00 × 108 m/s
+= 3.54 × 10−17 Pa
+  
+P34.77 
+(a) 
+The magnetic field has amplitude  
+ 
+ 
+ 
+Bmax = Emax
+c
+=
+175 V/m
+3.00 × 108 m/s = 5.83 × 10−7 T = 583 nT 
+ 
+(b) The wave number is  
+ 
+ 
+ 
+k = 2π
+λ =
+2π
+0.015 0 m = 419 m–1 
+ 
+(c) 
+The angular frequency is  
+ 
+ 
+ 
+ω = kc = 419 m−1
+(
+) 3.00 × 108 m/s
+(
+) = 1.26 × 1011 s−1 
+ 
+(d) 
+
+S ∝
+
+E ×
+
+B, 
+
+S is in the x direction, and 
+
+E vibrates in the y direction 
+(xy plane), so 
+
+B must vibrate in the z direction, thus 
+
+B vibrates in the xz plane .
+ 
+ 
+(e) 
+The magnitude of the average Poynting vector is the wave 
+intensity  
+  
+ 
+Savg =
+EmaxBmax
+2µ0
+=
+175 V/m
+(
+) 5.83 × 10–7  T
+(
+)
+2 4π × 10–7  N/A2
+(
+)
+= 40.6 W/m2
+ 
+ 
+ 
+The Poynting vector itself points in the direction of energy 
+transport: 
+ 
+ 
+ 
+
+Savg = 40.6ˆi W/m2
+
+--- PAGE 39 ---
+610     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+For perfect reflection, the pressure is  
+ 
+ 
+ 
+Pr = 2S
+c =
+2 40.6 W m2
+(
+)
+3.00 × 108 m/s = 2.71× 10−7 N m2 = 271 nPa 
+ 
+(g) From Newton’s second law, 
+ 
+ 
+ 
+ 
+a =
+F
+∑
+m = PA
+m = 2.71× 10−7 N/m2
+(
+) 0.750 m2
+(
+)
+0.500 kg
+= 4.07 × 10−7 m/s2
+ 
+ 
+ 
+ 
+a = 407ˆi nm/s2 
+P34.78 
+We can approximate the magnetic field as uniform over the area of the 
+loop while it oscillates in time as B = Bmax cosω t. The induced voltage is 
+ 
+ 
+ 
+ε = – dΦB
+dt = – d
+dt (BA cosθ) = –A d
+dt Bmax cosωtcosθ
+(
+)
+ 
+ 
+or 
+ 
+ε = ABmax ω (sin ω t cosθ ) 
+ 
+(a) 
+Since the angular frequency is ω = 2π f, and the area of the loop 
+is πr2, the amplitude of this emf is  
+ 
+ 
+ 
+εmax = 2π 2r2 f Bmax cosθ
+ 
+ 
+ 
+where θ is the angle between the magnetic field and the normal 
+to the loop.  
+ 
+(b) If 
+
+E is vertical, 
+
+B is horizontal, so the plane of the loop should be 
+vertical and the plane should contain the line of sight of the 
+transmitter. 
+P34.79 
+(a) 
+From the particle under a net force model, the acceleration of the 
+astronaut is 
+ 
+ 
+ 
+a = F
+m = 1
+m
+dp
+dt
+ 
+ 
+ 
+where dp/dt is the rate of change of momentum of the astronaut.  
+From the momentum version of the isolated system model, the 
+rate of change of momentum of the astronaut is equal in 
+magnitude to that of the radiation from the flashlight. The 
+momentum of the radiation leaving the flashlight can be 
+evaluated from Equation 34.27, assuming the same equation for 
+complete absorption applies to complete emission. Therefore, the 
+acceleration of the astronaut can be written as 
+ 
+ 
+ 
+a = 1
+m
+d
+dt
+TER
+c
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+mc
+dTER
+dt
+= P
+mc
+
+--- PAGE 40 ---
+Chapter 34     611 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+where P is the power of the radiation leaving the flashlight. 
+Because all three variables on the right side of this equation are 
+constant, the acceleration of the astronaut is constant and we can 
+use the particle under constant acceleration model. The position 
+of the astronaut is given by,  
+ 
+ 
+ 
+x = xi + vit + 1
+2 at2 = 0 + 0 + 1
+2
+P
+mc
+⎛
+⎝⎜
+⎞
+⎠⎟t2 
+ 
+ 
+where we have defined the initial position of the astronaut as  
+x = 0 and recognized that the astronaut begins from rest.  Solve 
+for the time at which the astronaut is at a position x: 
+ 
+ 
+ 
+t =
+2mcx
+P
+ 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+t =
+2 110 kg
+(
+) 3.00 × 108 m/s
+(
+) 10.0 m
+(
+)
+100 W
+= 8.12 × 104 s
+= 22.6 h
+ 
+ 
+ 
+(b) There are no external forces on the astronaut–flashlight system, so 
+the system is isolated for momentum. Apply the conservation of 
+momentum principle along an axis parallel to the direction of 
+travel of the astronaut and the flashlight: 
+ 
+ 
+ 
+Δp = 0
+→
+pi = p f
+→
+0 = m−m f
+(
+)v −m f vrel −v
+(
+) 
+ 
+ 
+Solve for the speed of the astronaut: 
+ 
+ 
+ 
+v =
+m f
+m
+⎛
+⎝⎜
+⎞
+⎠⎟vrel 
+ 
+ 
+Because this speed is constant, we can use the particle under 
+constant velocity model to find the time interval required for the 
+astronaut to arrive back at her spacecraft: 
+ 
+ 
+ 
+Δt = Δx
+v = m
+m f
+Δx
+vrel
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+Δt =
+110 kg
+3.00 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+10.0 m
+12.0 m/s = 30.6 s
+
+--- PAGE 41 ---
+612     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P34.2 
+(a) 7.19 × 1011 V m ⋅s ; (b) 2.00 × 10
+–7 T 
+P34.4 
+−4.39ˆi −1.76ˆj
+(
+) × 1011 m/s2 
+P34.6 
+(a) 3.15 × 103ˆj N C ; (b) 5.25 ˆk × 10−7 T ; (c) 4.83 −ˆj
+( ) × 10−16 N 
+P34.8 
+11.0 m 
+P34.10 
+4.738 × 10
+14 Hz 
+P34.12 
+733 nT 
+P34.44 
+60.0 km 
+P34.16 
+See P34.16 for full explanation. 
+P34.18 
+The ratio of ω to k is higher than the speed of light in a vacuum, so the 
+wave as described is impossible.  
+P34.20 
+8.64 × 10
+10 m 
+P34.22 
+(a) 6.75 W/m2; (b) 6.64 × 10
+3 W/m2; (c) A powerful automobile running 
+on sunlight would have to carry on its roof a solar panel that is huge 
+compared to the size of the car; (d) Agriculture and forestry for food 
+and fuels, space heating of large and small buildings, water heating, 
+and heating for drying and many other processes are current and 
+potential applications of solar energy. 
+P34.24 
+(a) 0; (b) 11.5ˆi −28.6ˆj
+(
+) W/m2 
+P34.26 
+For the small container, 33.4° and for the larger container, 21.7° 
+P34.28 
+(a) 88.8 nW/m
+2; (b) 11.3 MW 
+P34.30 
+(a) 5.16 × 10
+–10 T; (b) Since the magnetic field of the Earth is 
+approximately 5 × 10
+−10 T, the Earth’s field is some 100 000 times 
+stronger. 
+P34.32 
+5.16 m 
+P34.34 
+(a) 540 V/m; (b) 2.58 µJ/m
+3; (c) 773 W/m
+2 
+P34. 36 
+83.3 nPa 
+P34.38 
+(a) 
+2µ0cP
+π r2
+; (b) P
+c
+; (c) P
+c2 
+P34.40 
+(a) 5.82 × 10
+8 N; (b) 6.10 × 10
+13 times stronger
+
+--- PAGE 42 ---
+Chapter 34     613 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.42 
+(a) 590 W/m
+2; (b) 2.10 × 10
+16 W; (c) 7.01 × 10
+7 N; (d) ~10
+13 times 
+stronger; (e) The values are similar for both planets because both the 
+forces follow inverse-square laws. The force ratios are not identical for 
+the two planets because of their different radii and masses.  
+P34.44 
+(a) 1.00 × 10
+3 km or 621 mi; (b) While the project may be theoretically 
+possible, it is not very practical. 
+P34.46 
+(a) 1
+2 µ0cJmax cos kx −ω t
+(
+)ˆj; (b) 1
+4 µ0cJmax
+2
+cos2 kx −ω t
+(
+)ˆi; (c) 1
+8 µ0cJmax
+2
+;  
+(d) 3.48 A/m 
+P34.48 
+2π mc
+qB
+ 
+P34.50 
+(a) ~10
+8 Hz radio wave; (b) ~10
+13 Hz infrared 
+P34.52 
+Listeners 100 km away will receive the news before the people in the 
+newsroom. 
+P34.54 
+See table in P34.54 for full description. 
+P34.56 
+95.1 mV/m 
+P34.58 
+E = 300cos 62.8x −1.88 × 1010t
+(
+) and B = 1.00cos 62.8x −1.88 × 1010t
+(
+) 
+P34.60 
+(a) 1.50 cm; (b) 25.0 μJ; (c) 7.37 mJ/m
+3; (d) Emax = 40.8 kV/m,  
+Bmax = 136 μT; (e) 83.3 μN 
+P34.62 
+(a) 93.3%; (b) 50.0%; (c) 0 
+P34.64 
+3SR2
+4cGMSρ
+ 
+P34.66 
+(a) 6.30 × 10
+–6 Pa; (b) 1.60 × 10
+10 times smaller than atmospheric 
+pressure  
+P34.68 
+(a) 
+
+E = 38.8
+r2 ˆr, where 
+
+E is in volts per meter and r is in meters;  
+(b) Emax  = 38.7
+r
+ where E is in volts per meter and r is in meters;  
+(c) 12.9 μm, but the expression in part (b) does not apply if this point is 
+inside the source; (d) From part (c), we see that in the radiated wave, 
+the field amplitude is inversely proportional to distance. As the 
+distance doubles, the amplitude is cut in half; (e) In the static case, the 
+field is inversely proportional to the square of distance. As the distance 
+doubles, the field is reduced by a factor of 4.
+
+--- PAGE 43 ---
+614     Electromagnetic Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P34.70 
+(a) See ANS. FIG. P34.70; (b) 1
+2 ∈0 Emax
+2
+cos2(kx); (c) 1
+2µ0
+Bmax
+2
+cos2(kx) ; 
+(d) ∈0 Emax
+2
+cos2(kx); (e) 1
+2 ∈0 Emax
+2
+λA; (f) 1
+2 ∈0 cEmax
+2
+A; (g) 1
+2 ∈0 cEmax
+2
+;  
+(h) The result in part (g) agrees with I =  Emax
+2
+2µ0c  in Equation 34.24. 
+P34.72 
+(a) 4
+3 ρcgr ; (b) 4
+3 πρcgr3 
+P34.74 
+(a) See P34.74(a) for full proof; (b) 1.76 × 10
+13 m/s
+2; (c) 1.75 × 10
+−27 W;  
+(d) 1.80 × 10
+−24 W  
+P34.76 
+(a) 3.33 m; (b) 11.1 ns; (c) 6.67 pT;  
+(d) 
+
+E = 2.00 × 10−3
+(
+)cos2π 
+x
+3.33 −90.0 × 106t
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj and 
+
+B = 6.67 × 10−12
+(
+)cos2π
+x
+3.33 −90.0 × 106t
+⎛
+⎝⎜
+⎞
+⎠⎟ˆk ; (e) 5.31 × 10
+–9 W/m
+2;  
+(f) 1.77 × 10
+–17 J/m
+2; (g) 3.54 × 10
+–17 Pa 
+P34.78 
+(a) εmax = 2π 2r2 f Bmax cosθ; (b) The plane of the loop should be vertical 
+and the plane should contain the line of sight of the transmitter.

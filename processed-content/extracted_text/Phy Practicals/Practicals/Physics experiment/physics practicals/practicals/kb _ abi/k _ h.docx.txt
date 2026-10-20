@@ -1,0 +1,56 @@
+TITLE: MEARSUREMENT OF LOW RESISTANCE
+AIM: To determine the resistivity of metal rods (copper and aluminium) by using their current and voltage characteristics.
+APPARATUS: Copper and aluminium rods, ammeter, voltmeter, connecting cords, power source, amplifier
+DIAGRAM
+THEORY
+Resistivity of a metal conductor can be determined from the resistance R of the metal conductor and its dimensions. The resistance of a metal conductor is the ability of the conductor to inhibit the flow of current passing through it. The resistance in conductors is due to collisions between electrons carrying current with fixed atoms within the conductor. These collisions prevent the free flow of charges and hence prevent the flow of current. A conductor with low resistance allows large amount of current to pass through it.  A conductor with high resistance will only allow small amount of current to pass through it.
+From Ohm’s law which states that when a voltage (potential difference) ∆V is applied across the ends of a conductor, the current in the conductor is found to be proportional to the applied voltage. This law will hold if the temperature of the conductor is kept constant.
+That is:
+\
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V against I is a straight line through the origin with a slope equal to the resistance R.
+The resistivity of the conductor can therefore be determined since the resistance is directly proportional to the length and inversely proportional to the area.
+Where R is the resistance of the metal rod, ρ is its resistivity, l is the length of the rod and A is the cross-sectional area of the rod. Rearranging this equation to obtain resistivity gives the equation
+EXPECTED GRAPH:
+                 V/V
+I/A
+METHOD
+The copper rod was connected to the mains with an ammeter and the voltage source was set to 12V. The current was varied at constant intervals of 0.2A. the voltage drop across the rod at two sockets on the side was measured and recorded using the amplifier, for each current selected. The experiment was repeated using the aluminium rod. 
+TABLE OF VALUES
+Settings of the amplifier: low drift, R=10⁴Ω
+Amplification: 103, Timer constant: 0 sec.
+Aluminium rod         	         Copper rod
+Series 1 – Aluminium rod                                                                                                                         Series 2 – Copper rod
+A GRAPH OF VOLTAGE,V AGAINST CURRENT, I                              FOR BOTH COPPER AND ALUMINIUM  RODS
+CALCULATION
+From the graph, the resistance of the copper rod which is the slope of its graph is 1.0 x 10-5 Ω and that of the aluminium rod is 1.6 x 10-5 Ω. Therefore the resistivity of the copper rod is
+R represents the slope of the graph, hence for the copper rod,
+R=1.15 x 10-5 Ω, A=4.91×10⁻⁴m², l=0.315m
+The resistivity of copper is given by       
+For the aluminium rod however,
+ R=1.6x 10-5 Ω, A=4.91×10⁻⁴m², l=0.315m
+The resistivity of aluminium is given by 
+DISCUSSION
+The resistivity of a metal conductor determines whether a conductor has low resistance or not. For cylindrical metal rods, the resistance depends on the length and cross-sectional area. Since resistance is directly proportional to the length and inversely proportional to its area, resistance increases as the length increases. The resistance decreases as the cross-sectional area increases since more current can flow through the rod. From the graph and the calculation, it can be observed that the resistances of both copper and aluminium are 1.0 x 10-5 Ω and 1.6 x 10-5 Ω. The resistivity of copper and aluminium in theory are  and  respectively. The resistivities of copper and aluminium realized in the course of the experiment are  and  respectively which are almost the same as that in theory. Hence, the experiment could be said to be very successful.
+CONCLUSION
+From the experiment performed and the data obtained, the resistivity of a conductor can be obtained by measuring its resistance and dimensions. The resistivity of copper was found to be  and the resistivity of aluminium was found to be.
+SOURCE OF ERROR
+Errors might be due to overheating of the main power supply
+Errors might be due to faulty apparatus.
+PRECAUTIONS
+All connections were tightly connected to prevent a break in the continuity of the circuit.
+The metal rod was not touched often to prevent increase in temperature of the rod.
+REFERENCE:
+ Raymond A.Serway, Jerry S.Faughn,College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003).Page 536.
+
+Current    I/A |                                    Voltage      V/ V
+0.2 | 0.386
+0.4 | 0.388
+0.6 | 0.390
+0.8 | 0.392
+1.0 | 0.394
+                                             Current  I/A |                                      Voltage  V/V
+0.2 | 0.389
+0.4 | 0.392
+0.6 | 0.396
+0.8 | 0.398
+1.0 | 0.402

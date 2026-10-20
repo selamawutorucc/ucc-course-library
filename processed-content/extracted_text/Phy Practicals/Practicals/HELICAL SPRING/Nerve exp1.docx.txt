@@ -1,0 +1,64 @@
+NAME: KELUGU NEVILLE KABA.
+SM/SMS/O8/0017                                                                                                       24th October, 2008.
+EXPERIMENT 1
+ TITLE: AN EXPERIMENT WITH THE HELICAL SPRING 
+AIM: To show that the time of vertical oscillations of a helical spring depends on the load and to determine the effective mass of the spring from the graph.
+APPARATUS: Spiral spring, slotted weights and stop watch.
+DIAGRAM
+   A  	
+THEORY.
+ Hooke’s law states that provided the elastic limit of the spring is not exceeded, the extension produced in the material (spring) is directly proportional to the applied load (force) acting on the spring. The extension of a spring or wire is due to the displacement of its molecules from their mean (average) positions. So the law shows that when a molecule of the metal is slightly displaced from its mean position, the restoring force on the molecule is proportional to its displacement. We may therefore conclude that the molecules of a solid metal are undergoing simple harmonic motion. Up to the elastic limit the energy gained or stored by a stretched wire or spring is molecular potential energy, which is recovered when the load is removed.  Suppose a mass is attached to the free end of a spring hung on a support and then pulled gently and released, the system oscillates with simple harmonic motion. Suppose the extension (x) of spring is directly proportional to the restoring force (F) in the spring acting in the opposite direction to (x). So    F=-fx, where f is the force constant.
+  But F =Ma    , where M is the mass under the spring and a, the acceleration towards the equilibrium position. When spring is released,
+                                                   Fx=-Ma…….. (1) 
+Hence this motion is a simple harmonic motion and periodic time, T 
+ At first sight this would appear that the graph of M against T is a straight line graph passing through the origin but this is not so. It is a straight line graph with an intercept. This is because the effective mass m of the spring has been neglected and the equation above has to be,
+                                          T=2 π. When rearranged the equation becomes     M=T2 – m……. (2), m is therefore the negative intercept on the M axis. 
+Method
+a spring is suspended from a firm support and it is loaded by means of slotted weights attached to free lower end until it is possible to measure the time taken by the suspended load to execute 20 complete vertical oscillations. The timing is repeated. The Load is increased and two more timings are taken for 20 oscillations. The experiment is repeated three more times.
+TABLE OF RESULTS
+Mass of spring =15.1g=0.0151kg.
+Least count of the stop watch=0.01s
+GRAPH.
+Fig 1: A graph of load (g) against t²(s) ².
+CALCULATIONS
+Slope of graph is 0.01886kg/s² (18.86g/s2 )and the intercept on the y-axis was 0.0149kg (14.9g). 
+Comparing this value to equation (1) above the mass of the spring is 0.0149kg
+DISCUSSION
+From the graph above the slope is 0.01886kg/s2. This means that from equation (2), if the gradient is replaced, the mass of a particular weight could be determined by multiplying the mass by the gradient and subtracting the mass of spring which is the intercept from it. For an example if a mass of 0.06kg is used, its corresponding t²(0.246761s2)is multiplied by it and the intercept of 0.0149kg is subtracted. The mass of spring measured on balance was 0.0151kg. From graph the intercept was 0.0149kg which should correspond to the mass of the spring from the equation M=f/4².T² - m. The value deviated about 0.0002kg. This may be attributed to some parts of the spring having exceeded their elastic limit hence causing uneven damping of the oscillation. Also due to corrosion,the slotted weights were less in weight than their estimated weights hence caused errors in the graph work. The pan of the balance had corroded hence introduced some errors in the measured weight. Parts of the spring had also corroded introducing some errors. From the results obtained the experimental procedure can be said to be successful.
+CONCLUSION
+From the experiment the time of the vertical oscillations of a helical spring depends on the load and from effective mass (15.1g) of spring could be determined from the graph used. 
+SOURCES OF ERRORS
+1. Errors due to corrosion of Part of the spring.
+2. The pan of the balance had corroded introducing errors into the mass of spring
+3. Some of the slotted weights had also corroded introducing some errors into the reading.
+PRECAUTIONS. 
+1. The timing for 20 oscillations was repeated and the average value was computed to ensure accuracy of results.
+2. Elliptical oscillations were avoided.
+3. The windows were closed and the fans were put out to prevented air from disturbing the oscillations.
+REFERENCES
+Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 142-143
+Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada.pages391-394 
+ Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+load(g) | time for 20 oscillation | time for 20 oscillation | mean time | period | 
+ | t1(s) | t2(s) | t(s) | T(s) | T2 (s2)
+20.0 | 8.30 | 8.15 | 8.23 | 0.4113 | 0.169127
+40.0 | 9.25 | 9.00 | 9.13 | 0.4563 | 0.208164
+60.0 | 9.97 | 9.90 | 9.94 | 0.4968 | 0.246761
+80.0 | 11.00 | 10.81 | 10.91 | 0.5453 | 0.297298
+100.0 | 11.72 | 11.69 | 11.71 | 0.5853 | 0.342518
+ | 
+ | 
+ | 

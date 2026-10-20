@@ -1,0 +1,6675 @@
+
+--- PAGE 1 ---
+131 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+4 
+Motion in Two Dimensions 
+ 
+CHAPTER OUTLINE 
+ 
+4.1 
+The Position, Velocity, and Acceleration Vectors 
+4.2 
+Two-Dimensional Motion with Constant Acceleration 
+4.3 
+Projectile Motion 
+4.4 
+Analysis Model: Particle in Uniform Circular Motion 
+4.5 
+Tangential and Radial Acceleration 
+4.6 
+Relative Velocity and Relative Acceleration 
+ 
+ * An asterisk indicates an item new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ4.1 
+The car’s acceleration must have an inward component and a forward 
+component: answer (e). Another argument: Draw a final velocity 
+vector of two units west. Add to it a vector of one unit south. This 
+represents subtracting the initial velocity from the final velocity, on the 
+way to finding the acceleration. The direction of the resultant is that of 
+vector (e). 
+OQ4.2 
+(i) The 45° angle means that at point A the horizontal and vertical 
+velocity components are equal. The horizontal velocity component is 
+the same at A, B, and C. The vertical velocity component is zero at B 
+and negative at C. The assembled answer is a = b = c > d = 0 > e. 
+ 
+(ii) The x component of acceleration is everywhere zero and the y 
+component is everywhere −9.80 m/s
+2. Then we have a = c = 0 > b = d = e. 
+OQ4.3 
+Because gravity pulls downward, the horizontal and vertical motions 
+of a projectile are independent of each other. Both balls have zero 
+initial vertical components of velocity, and both have the same vertical 
+accelerations, –g; therefore, both balls will have identical vertical 
+motions: they will reach the ground at the same time. Answer (b).
+
+--- PAGE 2 ---
+132     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ4.4 
+The projectile on the moon is in flight for a time interval six times 
+larger, with the same range of vertical speeds and with the same 
+constant horizontal speed as on Earth. Then its maximum altitude is 
+(d) six times larger. 
+OQ4.5 
+The acceleration of a car traveling at constant speed in a circular path 
+is directed toward the center of the circle. Answer (d). 
+OQ4.6 
+The acceleration of gravity near the surface of the Moon acts the same 
+way as on Earth, it is constant and it changes only the vertical 
+component of velocity. Answers (b) and (c).  
+OQ4.7 
+The projectile on the Moon is in flight for a time interval six times 
+larger, with the same range of vertical speeds and with the same 
+constant horizontal speed as on Earth. Then its range is (d) six times 
+larger.  
+OQ4.8 
+Let the positive x direction be that of the girl’s motion. The x 
+component of the velocity of the ball relative to the ground is (+5 – 12) 
+m/s = −7 m/s. The x-velocity of the ball relative to the girl is (−7 – 8) 
+m/s = −15 m/s. The relative speed of the ball is +15 m/s, answer (d). 
+OQ4.9 
+Both wrench and boat have identical horizontal motions because 
+gravity influences the vertical motion of the wrench only. Assuming 
+neither air resistance nor the wind influences the horizontal motion of 
+the wrench, the wrench will land at the base of the mast. Answer (b). 
+OQ4.10 
+While in the air, the baseball is a projectile whose velocity always has a 
+constant horizontal component (vx = vxi) and a vertical component that 
+changes at a constant rate ( Δvy /Δt = ay = −g ).  At the highest point on 
+the path, the vertical velocity of the ball is momentarily zero. Thus, at 
+this point, the resultant velocity of the ball is horizontal and its 
+acceleration continues to be directed downward (ax = 0, ay = –g). The 
+only correct choice given for this question is (c). 
+OQ4.11 
+The period T = 2π r/v changes by a factor of 4/4 = 1. The answer is (a). 
+OQ4.12 
+The centripetal acceleration a = v
+2/r becomes (3v)
+2/(3r) = 3v
+2/r, so it is 
+3 times larger. The answer is (b). 
+OQ4.13 
+(a) Yes (b) No: The escaping jet exhaust exerts an extra force on the 
+plane. (c) No (d) Yes (e) No: The stone is only a few times more dense 
+than water, so friction is a significant force on the stone. The answer is 
+(a) and (d). 
+OQ4.14 
+With radius half as large, speed should be smaller by a factor of 1
+2, 
+so that a = v
+2/r can be the same. The answer is (d).
+
+--- PAGE 3 ---
+Chapter 4     133 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ4.1 
+A parabola results, because the originally forward velocity component 
+stays constant and the rocket motor gives the spacecraft constant 
+acceleration in a perpendicular direction. These are the same 
+conditions for a projectile, for which the velocity is constant in the 
+horizontal direction and there is a constant acceleration in the 
+perpendicular direction. Therefore, a curve of the same shape is the 
+result.  
+CQ4.2 
+The skater starts at the center of the eight, goes clockwise around the 
+left circle and then counterclockwise around the right circle. 
+ 
+CQ4.3 
+No, you cannot determine the instantaneous velocity because the 
+points could be separated by a finite displacement, but you can 
+determine the average velocity. Recall the definition of average 
+velocity: 
+ 
+ 
+vavg = Δx
+Δt
+ 
+CQ4.4 
+(a) On a straight and level road that does not curve to left or right. 
+(b) Either in a circle or straight ahead on a level road. The acceleration 
+magnitude can be constant either with a nonzero or with a zero value. 
+CQ4.5 
+(a) Yes, the projectile is in free fall. (b) Its vertical component of 
+acceleration is the downward acceleration of gravity. (c) Its horizontal 
+component of acceleration is zero. 
+CQ4.6 
+(a) 
+ 
+ 
+(b) 
+ 
+CQ4.7 
+(a) No. Its velocity is constant in magnitude and direction. (b) Yes. The 
+particle is continuously changing the direction of its velocity vector.
+
+--- PAGE 4 ---
+134     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.1 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 4.1 
+The Position, Velocity, and Acceleration Vectors	  
+P4.1 
+We must use the method of vector addition and 
+the definitions of average velocity and of average 
+speed.  
+ 
+(a) 
+For each segment of the motion we model 
+the car as a particle under constant velocity. 
+Her displacements are 
+ 
+ 
+ 
+
+R = (20.0 m/s)(180 s) south
++ (25.0 m/s)(120 s) west
++ (30.0 m/s)(60.0 s) northwest
+ 
+ 
+ 
+ 
+Choosing ˆi = east and ˆj = north, we have 
+ 
+ 
+ 
+
+R = (3.60 km)(−ˆj)+(3.00 km)(−ˆi)+(1.80 km)cos45°(−ˆi)
+                                  +(1.80 km)sin 45°(ˆj)
+ 
+ 
+ 
+ 
+
+R = (3.00 + 1.27) km(–ˆi)+(1.27 −3.60) km(ˆj)
+= (–4.27ˆi – 2.33ˆj) km
+ 
+ 
+ 
+The answer can also be written as 
+ 
+ 
+
+R =
+(−4.27 km)2 +(−2.33 km)2 = 4.87 km  
+ 
+ 
+at tan−1 2.33
+4.27
+⎛
+⎝⎜
+⎞
+⎠⎟= 28.6°
+ 
+ 
+ 
+or 
+4.87 km at 28.6° S of W 
+ 
+(b) The total distance or path length traveled is  
+(3.60 + 3.00 + 1.80) km = 8.40 km, so 
+ 
+ 
+ 
+average speed =
+8.40 km
+6.00 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.00 min
+60.0 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 000 m
+km
+⎛
+⎝⎜
+⎞
+⎠⎟= 23.3 m/s
+ 
+ 
+(c) 
+Average velocity = 4.87 × 103 m
+360 s
+= 13.5 m/s along
+
+R 
+P4.2 
+The sun projects onto the ground the x component of the hawk’s 
+velocity: 
+ 
+ 
+ 
+5.00 m/s
+(
+)cos −60.0°
+(
+) = 2.50 m/s
+
+--- PAGE 5 ---
+Chapter 4     135 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P4.3 
+(a) 
+For the average velocity, we have 
+ 
+ 
+ 
+vavg = x 4.00
+(
+) −x 2.00
+(
+)
+4.00 s −2.00 s
+(
+)ˆi +
+y 4.00
+(
+) −y 2.00
+(
+)
+4.00 s −2.00 s
+⎛
+⎝
+⎞
+⎠
+ˆj
+= 5.00 m −3.00 m
+2.00 s
+(
+)ˆi + 3.00 m −1.50 m
+2.00 s
+(
+)ˆj
+ 
+ 
+ 
+ 
+ 
+vavg =
+1.00ˆi + 0.750ˆj
+(
+) m/s 
+ 
+(b) For the velocity components, we have  
+ 
+ 
+ 
+vx = dx
+dt = a = 1.00 m/s 
+ 
+ 
+and vy = dy
+dt = 2ct = 0.250 m/s2
+(
+)t 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+v = vxˆi + vyˆj = 1.00 m/s
+(
+)ˆi + 0.250 m/s2
+(
+)tˆj 
+ 
+ 
+ 
+v t = 2.00 s
+(
+) = 1.00 m/s
+(
+)ˆi + 0.500 m/s
+(
+)ˆj 
+ 
+ 
+and the speed is 
+ 
+ 
+ 
+v t = 2.00 s
+(
+) =
+1.00 m/s
+(
+)2 + 0.500 m/s
+(
+)2 = 1.12 m/s 
+P4.4 
+(a) 
+From x = −5.00sinωt, we determine the components of the 
+velocity by taking the time derivatives of x and y: 
+ 
+ 
+ 
+vx = dx
+dt =
+d
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟(−5.00sinωt) = −5.00ω cosωt 
+ 
+ 
+and vy = dy
+dt =
+d
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟(4.00 −5.00 cos ωt) = 0 + 5.00ω sin ωt 
+ 
+ 
+At t = 0, 
+ 
+ 
+ 
+v = –5.00ω cos0
+(
+)ˆi + 5.00ω sin0
+(
+)ˆj = −5.00ω ˆi m/s
+ 
+ 
+(b) Acceleration is the time derivative of the velocity, so  
+ 
+ 
+ 
+ax = dvx
+dt = d
+dt −5.00ω cosωt
+(
+) = +5.00ω 2 sinωt
+ 
+ 
+ 
+and ay = dvy
+dt =
+d
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟(5.00ω sin ωt) = 5.00ω 2 cosωt 
+ 
+ 
+At t = 0, 
+ 
+ 
+ 
+a = 5.00ω 2 sin0
+(
+)ˆi + 5.00ω 2 cos0
+(
+)ˆj = 5.00ω 2ˆj m/s2
+
+--- PAGE 6 ---
+136     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+r = xˆi + yˆj = (4.00 m)ˆj+(5.00 m)(−sinωtˆi −cosωtˆj) 
+ 
+ 
+v =
+5.00 m
+(
+)ω −cosω tˆi + sinω tˆj
+⎡⎣
+⎤⎦ 
+ 
+ 
+a = (5.00 m)ω 2 sinωtˆi + cosωtˆj
+⎡⎣
+⎤⎦ 
+ 
+(d) 
+the object moves in a circle of radius 5.00 m 
+centered at (0, 4.00 m)
+ 
+P4.5 
+(a) 
+The x and y equations combine to give us the expression for r:  
+ 
+ 
+ 
+r = 18.0tˆi + 4.00t −4.90t2
+(
+)ˆj, where r is in meters 
+and t is in seconds.
+ 
+ 
+(b) We differentiate the expression for r with respect to time: 
+ 
+ 
+ 
+v = dr
+dt = d
+dt 18.0tˆi + 4.00t −4.90t2
+(
+)ˆj
+⎡⎣
+⎤⎦
+= d
+dt 18.0t
+(
+)ˆi + d
+dt 4.00t −4.90t2
+(
+)ˆj
+  
+ 
+ 
+ 
+v = 18.0ˆi + 4.00 −(9.80)t
+[
+]ˆj, where v is in meters per second
+and t is in seconds.
+ 
+ 
+(c) 
+We differentiate the expression for v with respect to time: 
+ 
+ 
+ 
+a = dv
+dt = d
+dt 18.0ˆi + 4.00 −(9.80)t
+[
+]ˆj
+{
+}
+= d
+dt 18.0
+(
+)ˆi + d
+dt 4.00 −(9.80)t
+[
+]ˆj
+  
+ 
+ 
+ 
+a = −9.80ˆj m/s2 
+ 
+(d) By substitution,  
+ 
+ 
+ 
+r(3.00 s) = (54.0 m)ˆi −(32.l m)ˆj 
+ 
+ 
+ 
+v(3.00 s) = (18.0 m/s)ˆi −(25.4 m/s)ˆj 
+ 
+ 
+ 
+a(3.00s) = (−9.80 m/s2)ˆj
+
+--- PAGE 7 ---
+Chapter 4     137 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 4.2 
+Two-Dimensional Motion with Constant 
+ 
+Acceleration	  
+P4.6 
+We use the vector versions of the kinematic equations for motion in 
+two dimensions. We write the initial position, initial velocity, and 
+acceleration of the particle in vector form: 
+ 
+ 
+ 
+a = 3.00ˆj m/s2; vi = 5.00ˆi m/s; ri = 0ˆi + 0ˆj 
+ 
+(a) 
+The position of the particle is given by Equation 4.9: 
+ 
+ 
+ 
+rf = ri + vit + 1
+2
+at2 = 5.00 m/s
+(
+)tˆi + 1
+2 (3.00 m/s2)t2ˆj
+= 5.00tˆi + 1.50t2ˆj
+ 
+ 
+ 
+where r is in m and t in s. 
+ 
+(b) The velocity of the particle is given by Equation 4.8: 
+ 
+ 
+ 
+v f = vi + at = 5.00ˆi + 3.00t ˆj 
+ 
+ 
+where v is in m/s and t in s.  
+ 
+(c) 
+To obtain the particle’s position at t = 2.00 s, we plug into the 
+equation obtained in part (a): 
+ 
+ 
+ 
+rf = 5.00 m/s
+(
+)(2.00 s)ˆi + 1.50 m/s2
+(
+)(2.00 s)2ˆj
+= 10.0ˆi + 6.00ˆj
+(
+) m
+ 
+ 
+ 
+so 
+x f = 10.0 m , y f = 6.00 m 
+ 
+(d) To obtain the particle’s speed at t = 2.00 s, we plug into the 
+equation obtained in part (b): 
+ 
+ 
+ 
+v f = vi + at = 5.00 m/s
+(
+)ˆi + 3.00 m/s2
+(
+)(2.00 s)ˆj
+= 5.00ˆi + 6.00ˆj
+(
+) m/s
+ 
+ 
+ 
+ 
+v f =
+vxf
+2 + vyf
+2 =
+(5.00 m/s)2 + (6.00 m/s)2 = 7.81 m/s 
+P4.7 
+(a) 
+We differentiate the equation for the vector position of the 
+particle with respect to time to obtain its velocity: 
+ 
+ 
+ 
+v = dr
+dt =
+d
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟3.00ˆi −6.00t2ˆj
+(
+) = −12.0tˆj m/s
+
+--- PAGE 8 ---
+138     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Differentiating the expression for velocity with respect to time 
+gives the particle’s acceleration: 
+ 
+ 
+ 
+a = dv
+dt =
+d
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟−12.0tˆj
+(
+) = −12.0ˆj m/s2 
+ 
+(c) 
+By substitution, when t = 1.00 s,  
+ 
+ 
+ 
+r = 3.00ˆi −6.00ˆj
+(
+)m; v = −12.0ˆj m/s 
+*P4.8 
+(a) 
+For the x component of the motion we have x f = xi + vxit + 1
+2 axt2. 
+ 
+ 
+ 
+0.01 m = 0 + 1.80 × 107 m/s
+(
+)t + 1
+2 8 × 1014 m/s2
+(
+)t2
+4 × 1014 m/s2
+(
+)t2 + 1.80 × 107 m/s
+(
+)t −10−2 m = 0
+ 
+ 
+ 
+ 
+t =
+1
+2 4 × 1014 m s2
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟−1.80 × 107 m/s
+⎡
+⎣⎢
+        
+±
+1.8 × 107 m/s
+(
+)
+2 −4 4 × 1014 m/s2
+(
+) −10−2m
+(
+)⎤
+⎦⎥
+= −1.8 × 107 ± 1.84 × 107 m/s
+8 × 1014 m/s2
+ 
+ 
+ 
+We choose the + sign to represent the physical situation: 
+ 
+ 
+ 
+t = 4.39 × 105 m/s
+8 × 1014 m/s2 = 5.49 × 10−10 s 
+ 
+ 
+Here 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+= 0 + 0 + 1
+2 1.6 × 1015 m s2
+(
+) 5.49 × 10−10 s
+(
+)
+2
+= 2.41× 10−4 m
+ 
+ 
+ 
+So, rf = 10.0ˆi + 0.241ˆj
+(
+) mm 
+ 
+(b) 
+v f = vi + at
+= 1.80 × 107ˆi m/s
+           + 8 × 1014ˆi m/s2 + 1.6 × 1015ˆj m/s2
+(
+) 5.49 × 10−10 s
+(
+)
+= 1.80 × 107 m/s
+(
+)ˆi + 4.39 × 105 m/s
+(
+)ˆi + 8.78 × 105 m/s
+(
+)ˆj
+=
+1.84 × 107 m/s
+(
+)ˆi + 8.78 × 105 m/s
+(
+)ˆj
+
+--- PAGE 9 ---
+Chapter 4     139 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+v f =
+1.84 × 107 m/s
+(
+)
+2 + 8.78 × 105 m/s
+(
+)
+2 = 1.85 × 107 m/s 
+ 
+(d) θ = tan−1 vy
+vx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 8.78 × 105
+1.84 × 107
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.73° 
+P4.9 
+Model the fish as a particle under constant acceleration. We use our 
+old standard equations for constant-acceleration straight-line motion, 
+with x and y subscripts to make them apply to parts of the whole 
+motion. At t = 0, 
+ 
+ 
+ 
+vi = 4.00ˆi + 1.00ˆj
+(
+) m/s and ˆr i = (10.00ˆi −4.00ˆj) m 
+ 
+At the first “final” point we consider, 20.0 s later,  
+ 
+ 
+ 
+vf = (20.0ˆi −5.00ˆj) m/s 
+ 
+(a) 
+ax = Δvx
+Δt = 20.0 m/s −4.00 m/s
+20.0 s
+= 0.800 m/s2 
+ 
+ 
+ay =
+Δvy
+Δt = −5.00 m/s −1.00 m/s
+20.0 s
+= −0.300 m/s2 
+ 
+(b) 
+θ = tan−1 −0.300 m/s2
+0.800 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= −20.6° = 339° from + x axis 
+ 
+(c) 
+At t = 25.0 s the fish’s position is specified by its coordinates and 
+the direction of its motion is specified by the direction angle of its 
+velocity: 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2
+= 10.0 m + 4.00 m/s
+(
+)(25.0 s) + 1
+2 (0.800 m/s2)(25.0 s)2
+= 360 m
+ 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+= −4.00 m + 1.00 m/s
+(
+)(25.0 s) + 1
+2 (−0.300 m/s2)(25.0 s)2
+= −72.7 m
+ 
+ 
+ 
+ 
+vxf = vxi + axt = 4.00 m/s + 0.800 m/s2
+(
+)(25.0 s) = 24 m/s
+vyf = vyi + ayt = 1.00 m/s −0.300 m/s2
+(
+)(25.0 s) = −6.50 m/s
+θ = tan−1 vy
+vx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −6.50 m/s
+24.0 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= −15.2°
+
+--- PAGE 10 ---
+140     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.10 
+The directions of the position, velocity, and acceleration vectors are 
+given with respect to the x axis, and we know that the components of a 
+vector with magnitude A and direction θ are given by Ax = A cosθ and 
+Ay = A sinθ ; thus we have 
+ 
+ 
+ 
+ri = 29.0 cos 95.0° ˆi + 29.0 sin95.0° ˆj = –2.53 ˆi + 28.9 ˆj 
+ 
+ 
+ 
+vi = 4.50 cos 40.0° ˆi + 4.50 sin 40.0° ˆj = 3.45 ˆi + 2.89 ˆj 
+ 
+ 
+ 
+a = 1.90 cos 200° ˆi + 1.90 sin 200° ˆj = –1.79 ˆi + –0.650 ˆj 
+ 
+where r is in m, v in m/s, a in m/s
+2, and t in s. 
+ 
+(a) 
+From v f = vi + at, 
+ 
+ 
+ 
+v f = 3.45 −1.79t
+(
+)ˆi + 2.89 −0.650t
+(
+)ˆj 
+ 
+ 
+where v in m/s and t in s. 
+ 
+(b) The car’s position vector is given by 
+ 
+ 
+ 
+rf = ri + vit + 1
+2
+at2
+= (–2.53 + 3.45t + 1
+2 (–1.79)t2)ˆi +(28.9 + 2.89t + 1
+2 (–0.650)t2)ˆj
+ 
+ 
+ 
+ 
+rf = (−2.53 + 3.45t −0.893t2)ˆi +(28.9 + 2.89t −0.325t2)ˆj
+ 
+ 
+ 
+where r is in m and t in s. 
+ 
+ 
+ 
+Section 4.3 
+Projectile Motion	  
+P4.11 
+At the maximum height vy = 0, and the time to reach this height is 
+found from 
+ 
+ 
+ 
+vyf = vyi + ayt as t = vyf −vyi
+ay
+= 0 −vyi
+−g
+= vyi
+g . 
+ 
+The vertical displacement that has occurred during this time is 
+ 
+ 
+ 
+Δy
+(
+)max = vy,avgt =
+vyf + vyi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟t =
+0 + vyi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+vyi
+g
+⎛
+⎝⎜
+⎞
+⎠⎟= vyi
+2
+2g
+ 
+ 
+Thus, if Δy
+(
+)max = 12 ft
+1 m
+3.281 ft
+(
+) = 3.66 m, then 
+ 
+ 
+ 
+vyi =
+2g Δy
+(
+)max =
+2 9.80 m/s2
+(
+) 3.66 m
+(
+) = 8.47 m/s
+
+--- PAGE 11 ---
+Chapter 4     141 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and if the angle of projection is θ = 45°, the launch speed is 
+ 
+ 
+ 
+vi = vyi
+sinθ = 8.47 m/s
+sin 45°
+= 12.0 m/s
+ 
+*P4.12 
+From Equation 4.13 with R = 15.0 m, vi = 3.00 m/s, and θmax = 45.0°: 
+ 
+ 
+ 
+gplanet = vi
+2 sin2θ
+R
+= vi
+2 sin90°
+R
+= 9.00 m2/s2
+15.0 m
+= 0.600 m/s2
+ 
+P4.13 
+(a) 
+The mug leaves the counter horizontally with a velocity vxi (say). 
+If t is the time at which it hits the ground, then since there is no 
+horizontal acceleration, 
+ 
+ 
+ 
+x f = vxit →t = x f /vxi →t = (1.40 m/vxi) 
+ 
+ 
+At time t, it has fallen a distance of 1.22 m with a downward 
+acceleration of 9.80 m/s
+2. Then 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+0 = 1.22 m−(4.90 m/s2)(1.40 m/vxi)2
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+vxi =
+4.90 m/s2
+(
+)(1.40 m)2
+1.22 m
+= 2.81 m/s
+ 
+ 
+(b) The vertical velocity component with which it hits the floor is 
+ 
+ 
+ 
+vyf = vyi + ayt →vyf = vyi + (−g)(1.40 m/vxi)
+vyf = 0 + (−9.80 m/s2)(1.40 m/2.81 m/s) = −4.89 m/s
+ 
+ 
+ 
+Hence, the angle θ at which the mug strikes the floor is given by 
+ 
+ 
+ 
+θ = tan−1 vyf
+vxf
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −4.89 m/s
+2.81 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= −60.2°
+ 
+ 
+ 
+The mug’s velocity is 60.2° below the horizontal when it strikes
+the ground.
+ 
+P4.14 
+The mug is a projectile from just after leaving the counter until just 
+before it reaches the floor. Taking the origin at the point where the 
+mug leaves the bar, the coordinates of the mug at any time t are 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2 →x f = 0 + vxit →x f = vxit
+
+--- PAGE 12 ---
+142     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 at2 →y f = −0 + 0 −1
+2 gt2 →y f = −1
+2 gt2 
+ 
+(a) 
+When the mug reaches the floor, yf = h and xf = d, so  
+ 
+ 
+ 
+−h = −1
+2 gt2 →h = 1
+2 gt2 →t =
+2h
+g
+ 
+ 
+ 
+is the time of impact, and 
+ 
+ 
+ 
+x f = vxit →d = vxit →vxi = d
+t
+ 
+ 
+ 
+ 
+vxi = d
+g
+2h
+ 
+ 
+(b) Just before impact, the x component of velocity is still  
+ 
+ 
+ 
+vxf = vxi 
+ 
+ 
+while the y component is 
+ 
+ 
+ 
+vyf = vyi + at →vyf = 0 −gt = −g
+2h
+g = −2gh 
+ 
+ 
+Then the direction of motion just before impact is below the 
+horizontal at an angle of  
+ 
+ 
+ 
+θ = tan−1 vyf
+vxf
+= tan−1 −2gh
+d
+g
+2h
+⎛
+⎝
+⎜
+⎜
+⎜⎜
+⎞
+⎠
+⎟
+⎟
+⎟⎟
+ 
+ 
+ 
+ 
+θ = tan−1 −2h
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= −tan−1 2h
+d
+⎛
+⎝⎜
+⎞
+⎠⎟  
+ 
+ 
+because the x component of velocity is positive (forward) and the 
+y component is negative (downward). 
+ 
+ 
+The direction of the mug’s velocity is tan−1(2h/d) below the
+horizontal.
+ 
+P4.15 
+We ignore the trivial case where the angle of projection equals zero 
+degrees. 
+ 
+ 
+ 
+h = vi
+2 sin2θi
+2g
+;
+R = vi
+2 sin2θi
+(
+)
+g
+;
+3h = R
+
+--- PAGE 13 ---
+Chapter 4     143 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+ 
+ 3vi
+2 sin2θi
+2g
+= vi
+2(sin2θi)
+g
+ 
+ 
+or 
+ 
+2
+3 = sin2θi
+sin2θi
+= tanθi
+2
+ 
+ 
+thus, 
+θi = tan−1 4
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 53.1° 
+P4.16 
+The horizontal range of the projectile is found from x = vxit = vi cosθit. 
+Plugging in numbers, 
+ 
+ 
+ 
+x = (300 m/s)(cos 55.0°)(42.0 s) 
+ 
+ 
+ 
+x = 7.23 × 103 m 
+ 
+The vertical position of the projectile is found from 
+ 
+ 
+ 
+y = vyit −1
+2 gt2 = vi sinθit −1
+2 gt2 
+ 
+Plugging in numbers, 
+ 
+ 
+ 
+y = (300 m/s)(sin 55.0°)(42.0 s)−1
+2 (9.80 m/s2)(42.0 s)2
+= 1.68 × 103 m
+ 
+P4.17 
+(a) 
+The vertical component of the salmon’s velocity as it leaves the 
+water is 
+ 
+ 
+ 
+vyi = +vi sinθ = +(6.26 m/s) sin 45.0° +4.43 m/s 
+ 
+ 
+When the salmon returns to water level at the end of the leap, the 
+vertical component of velocity will be 
+ 
+ 
+ 
+vyf = −vyi −4.43 m/s 
+ 
+ 
+If the salmon jumps out of the water at t = 0, the time interval 
+required for it to return to the water is  
+ 
+ 
+ 
+Δt1 =
+vyf −vyi
+ay
+= −4.43 m/s −4.43 m/s
+−9.80 m/s2
+0.903 s 
+ 
+ 
+The horizontal distance traveled during the leap is 
+ 
+ 
+ 
+L = vxiΔti = vi cosθ
+(
+)Δti
+= 6.26 m/s
+(
+)cos45.0° 0.903 s
+(
+) = 4.00 m
+
+--- PAGE 14 ---
+144     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+To travel this same distance underwater, at speed v = 3.58 m/s, 
+requires a time interval of 
+ 
+ 
+ 
+Δt2 = L
+v =
+4.00 m
+3.58 m/s 1.12 s 
+ 
+ 
+The average horizontal speed for the full porpoising maneuver is 
+then 
+ 
+ 
+ 
+vavg = Δx
+Δt =
+2L
+Δt1 + Δt2
+=
+2(4.00 m)
+0.903 s + 1.12 s = 3.96 m/s 
+ 
+(b) From (a), the total time interval for the porpoising maneuver is 
+ 
+ 
+ 
+Δt = 0.903 s + 1.12 s = 2.02 s  
+ 
+ 
+Without porpoising, the time interval to travel distance 2L is 
+ 
+ 
+ 
+Δt2 = 2L
+v =
+8.00 m
+3.58 m/s 2.23 s 
+ 
+ 
+The percentage difference is 
+ 
+ 
+ 
+Δt1 −Δt2
+Δt2
+× 100% = −9.6% 
+ 
+ 
+Porpoising reduces the time interval by 9.6%. 
+P4.18 
+(a) 
+We ignore the trivial case where the angle of projection equals 
+zero degrees. Because the projectile motion takes place over level 
+ground, we can use Equations 4.12 and 4.13: 
+ 
+ 
+ 
+R = h →vi
+2 sin2θi
+g
+= vi
+2 sin2θi
+2g
+ 
+ 
+ 
+Expanding, 
+ 
+ 
+ 
+2sin2θi = sin2θi
+4sinθi cosθi = sin2θi
+tanθi = 4
+θi = tan−1(4) = 76.0°
+  
+ 
+(b) The maximum range is attained for θi = 45°: 
+ 
+ 
+ 
+R = vi
+2 sin 2(76.0°)
+[
+]
+g
+ and Rmax = vi
+2 sin 2(45.0°)
+[
+]
+g
+= vi
+2
+g
+
+--- PAGE 15 ---
+Chapter 4     145 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+then  
+ 
+ 
+ 
+Rmax = vi
+2 sin 2(76.0°)
+[
+]
+g sin 2(76.0°)
+[
+]
+=
+R
+sin 2(76.0°)
+[
+]
+Rmax = 2.13R
+ 
+ 
+(c) 
+Since g divides out, the answer is the same on 
+every planet.
+ 
+*P4.19 
+Consider the motion from original zero height to maximum height h: 
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+) gives 0 = vyi
+2 −2g h −0
+(
+) 
+ 
+or 
+ 
+vyi =
+2gh 
+ 
+Now consider the motion from the original point to half the maximum 
+height: 
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+) gives vyh
+2 = 2gh + 2 −g
+(
+) 1
+2 h −0
+(
+)  
+ 
+so 
+ 
+vyh =
+gh 
+ 
+At maximum height, the speed is vx = 1
+2
+vx
+2 + vyh
+2 = 1
+2
+vx
+2 + gh 
+ 
+Solving,  
+ 
+ 
+ 
+vx =
+gh
+3
+ 
+ 
+Now the projection angle is 
+ 
+ 
+ 
+ 
+ 
+ 
+θi = tan−1 vyi
+vx
+= tan−1
+2gh
+gh/3 = tan−1 6 = 67.8° 
+P4.20 
+(a) 
+xf = vxit = (8.00 m/s) cos 20.0° (3.00 s) = 22.6 m 
+ 
+(b) Taking y positive downwards, 
+ 
+ 
+ 
+y f = vyit + 1
+2 gt2
+y f = 8.00 m/s
+(
+)sin20.0°(3.00 s) + 1
+2 (9.80 m/s2)(3.00 s)2
+= 52.3 m
+ 
+ 
+(c) 
+10.0 m = 8.00 m/s
+(
+)(sin20.0°)t + 1
+2 (9.80 m/s2)t2
+
+--- PAGE 16 ---
+146     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Suppressing units,  
+ 
+ 
+ 
+4.90t2 + 2.74t −10.0 = 0 
+ 
+ 
+ 
+t = −2.74 ±
+2.74
+(
+)
+2 + 196
+9.80
+= 1.18 s 
+P4.21 
+The horizontal component of displacement is xf = vxit = (vi cosθi)t. 
+Therefore, the time required to reach the building a distance d away is 
+t =
+d
+vi cosθi
+. At this time, the altitude of the water is  
+ 
+ 
+ 
+y f = vyit + 1
+2 ayt2 = vi sinθi
+d
+vi cosθi
+⎛
+⎝⎜
+⎞
+⎠⎟−g
+2
+d
+vi cosθi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Therefore, the water strikes the building at a height h above ground 
+level of  
+ 
+ 
+ 
+h = y f = dtanθi −
+gd2
+2vi
+2 cos2θi
+ 
+P4.22 
+(a) 
+The time of flight of a water drop is given by 
+ 
+ 
+ 
+yf = yi + vyit + 1
+2
+ayt
+2 
+ 
+ 
+ 
+0 = y1 – 1
+2
+gt
+2 
+ 
+ 
+For t1 > 0, the root is t1 =
+2y1
+g
+=
+2(2.35 m)
+9.8 m s
+2 = 0.693 s. 
+ 
+ 
+The horizontal range of a water drop is  
+ 
+ 
+ 
+x f 1 = xi + vxit + 1
+2 axt2
+= 0 + 1.70 m/s (0.693 s) + 0 = 1.18 m
+ 
+This is about the width of a town sidewalk, so there is space for 
+a walkway behind the waterfall. Unless the lip of the channel is 
+well designed, water may drip on the visitors. A tall or inattentive 
+person may get his or her head wet. 
+ 
+(b) Now the flight time t2 is given by  
+ 
+ 
+ 
+0 = y2 + 0 −1
+2 gt2
+2, where y2 = y1
+12 :
+ 
+ 
+ 
+ 
+t2 =
+2y2
+g
+=
+2y1
+g(12) =
+1
+12
+×
+2y1
+g
+=
+t1
+12
+
+--- PAGE 17 ---
+Chapter 4     147 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From the same equation as in part (a) for horizontal range,  
+x2 = v2t2, where x2 = x1/12: 
+x2 = v2t2 →x1
+12 = v2
+t1
+12
+v2 =
+x1
+t1 12
+= v1
+12
+= 1.70 m/s
+12
+= 0.491 m/s
+ 
+ 
+ 
+The rule that the scale factor for speed is the square root of the 
+scale factor for distance is Froude’s law, published in 1870. 
+P4.23 
+(a) 
+From the particle under constant velocity model in the x 
+direction, find the time at which the ball arrives at the goal: 
+ 
+ 
+ 
+x f = xi + vit →t =
+x f −xi
+vxi
+=
+36.0 m −0
+(20 m/s) cos 53.0° = 2.99 s 
+ 
+ 
+From the particle under constant acceleration model in the y 
+direction, find the height of the ball at this time: 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2 
+ 
+ 
+ 
+yf = 0 + (20.0 m/s) sin 53.0°(2.99 s) – 1
+2 (9.80 m/s
+2)(2.99 s)
+2 
+ 
+ 
+ 
+yf = 3.94 m 
+ 
+ 
+Therefore, the ball clears the crossbar by  
+ 
+ 
+ 
+3.94 m −3.05 m = 0.89 m 
+ 
+(b) Use the particle under constant acceleration model to find the 
+time at which the ball is at its highest point in its trajectory:  
+ 
+ 
+ 
+vyf = vyi −gt →t = vyf −vyi
+g
+= (20.0 m/s)sin53.0° −0
+9.80 m s2
+= 1.63 s
+ 
+ 
+ 
+Because this is earlier than the time at which the ball reaches the
+goal, the ball clears the goal on its way down.
+ 
+P4.24 
+From the instant he leaves the floor until just before he lands, the 
+basketball star is a projectile. His vertical velocity and vertical 
+displacement are related by the equation vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+). 
+Applying this to the upward part of his flight gives 
+0 = vyi
+2 + 2 −9.80m s2
+(
+)(1.85 −1.02) m. From this, vyi = 4.03 m/s. [Note 
+that this is the answer to part (c) of this problem.]
+
+--- PAGE 18 ---
+148     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the downward part of the flight, the equation gives 
+vyf
+2 = 0 + 2 −9.80m s2
+(
+)(0.900 −1.85) m. Thus, the vertical velocity just 
+before he lands is vyf = –4.32 m/s. 
+ 
+(a) 
+His hang time may then be found from vyf = vyi + ayt: 
+ 
+ 
+ 
+–4.32 m/s = 4.03 m/s + (–9.80 m/s
+2)t 
+ 
+ 
+or 
+t = 0.852 s . 
+ 
+(b) Looking at the total horizontal displacement during the leap, x = 
+vxit becomes 
+ 
+ 
+ 
+2.80 m = vxi (0.852 s) 
+ 
+ 
+which yields vxi = 3.29 m/s . 
+ 
+(c) 
+vyi = 4.03 m/s . See above for proof. 
+ 
+(d) The takeoff angle is: θ = tan−1 vyi
+vxi
+= tan−1 4.03 m/s
+3.29 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= 50.8° 
+ 
+(e) 
+Similarly for the deer, the upward part of the flight gives  
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+) 
+ 
+ 
+ 
+0 = vyi
+2 + 2 −9.80 m s2
+(
+)(2.50 −1.20) m 
+ 
+ 
+so 
+vyi = 5.04 m/s 
+ 
+ 
+For the downward part, vyf
+2 = vyi
+2 + 2ay(y f −yi) yields 
+ 
+ 
+ 
+vyf
+2 = 0 + 2 −9.80m s2
+(
+)(0.700 −2.50) m and vyf = −5.94 m/s. 
+ 
+ 
+The hang time is then found as vyf = vyi + ayt:  
+ 
+ 
+ 
+–5.94 m/s = 5.04 m/s + (–9.80 m/s2)t and 
+ 
+ 
+ 
+t = 1.12 s 
+P4.25 
+(a) 
+For the horizontal motion, we have xf = d = 24 m: 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2
+24 m = 0 + vi cos53°
+(
+) 2.2 s
+(
+) + 0
+vi = 18.1 m/s
+
+--- PAGE 19 ---
+Chapter 4     149 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As it passes over the wall, the ball is above the street by  
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2 
+ 
+ 
+ 
+y f = 0 + 18.1 m s
+(
+) sin 53°
+(
+) 2.2 s
+(
+)
+                 + 1
+2 −9.8 m s2
+(
+) 2.2 s
+(
+)
+2 = 8.13 m
+ 
+ 
+ 
+So it clears the parapet by 8.13 m – 7 m = 1.13 m . 
+ 
+(c) 
+Note that the highest point of the ball’s trajectory is not directly 
+above the wall. For the whole flight, we have from the trajectory 
+equation: 
+ 
+ 
+ 
+y f = tanθi
+(
+)x f −
+g
+2vi
+2 cos2θi
+⎛
+⎝⎜
+⎞
+⎠⎟x f
+2 
+ 
+ 
+or 
+6 m = (tan53°)x f −
+9.8m s2
+2(18.1 m/s)2 cos2 53°
+⎛
+⎝⎜
+⎞
+⎠⎟x f
+2 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+0.041 2 m−1
+(
+)x f
+2 −1.33x f + 6 m = 0 
+ 
+ 
+and, suppressing units, 
+ 
+ 
+ 
+x f = 1.33 ±
+1.332 −4(0.041 2)(6)
+2 0.041 2
+(
+)
+ 
+ 
+ 
+This yields two results: 
+ 
+ 
+ 
+xf = 26.8 m or 5.44 m 
+ 
+ 
+The ball passes twice through the level of the roof.  
+ 
+ 
+It hits the roof at distance from the wall  
+ 
+ 
+ 
+26.8 m – 24 m = 2.79 m 
+P4.26 
+We match the given equations: 
+ 
+ 
+ 
+x f = 0 +(11.2 m/s) cos 18.5°
+(
+)t
+0.360 m = 0.840 m +(11.2 m/s) sin 18.5°
+(
+)t −1
+2 9.80 m s2
+(
+)t2
+ 
+ 
+to the equations for the coordinates of the final position of a projectile: 
+ 
+ 
+ 
+x f = xi + vxit
+y f = yi + vyit −1
+2 gt2
+
+--- PAGE 20 ---
+150     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the equations to represent the same functions of time, all 
+coefficients must agree: xi = 0, yi = 0.840 m, vxi = (11.2 m/s) cos 18.5°,  
+vyi = (11.2 m/s) sin 18.5°, and g = 9.80 m/s
+2. 
+ 
+(a) 
+Then the original position of the athlete’s center of mass is the 
+point with coordinates xi, yi
+(
+) = (0, 0.840 m) . That is, his original 
+position has position vector r = 0ˆi + 0.840ˆj m. 
+ 
+(b) His original velocity is vi = (11.2 m/s) cos18.5°
+(
+)ˆi + 
+(11.2 m/s) sin18.5°
+(
+)ˆj = 11.2 m/s at 18.5° above the x axis. 
+ 
+(c) 
+From (4.90 m/s
+2) t
+2 – (3.55 m/s) t – 0.48 m = 0, we find the time of 
+flight, which must be positive. Suppressing units,  
+ 
+ 
+ 
+t = −(−3.55) +
+(−3.55)2 −4(4.90)(−0.48)
+2(4.90)
+= 0.841 s 
+ 
+ 
+Then xf = (11.2 m/s) cos 18.5°(0.841 s) = 8.94 m . 
+P4.27 
+Model the rock as a projectile, moving with constant horizontal 
+velocity, zero initial vertical velocity, and with constant vertical 
+acceleration. Note that the sound waves from the splash travel in a 
+straight line to the soccer player’s ears. The time of flight of the rock 
+follows from 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+−40.0 m = 0 + 0 + 1
+2 −9.80 m s2
+(
+)t2
+t = 2.86 s
+ 
+ 
+The extra time 3.00 s – 2.86 s = 0.140 s is the time required for the 
+sound she hears to travel straight back to the player. It covers distance 
+ 
+  
+ 
+(343 m/s) 0.143 s = 49.0 m =
+x2 + (40.0 m)2 
+ 
+where x represents the horizontal distance the rock travels. Solving for 
+x gives x = 28.3 m. Since the rock moves with constant speed in the x 
+direction and travels horizontally during the 2.86 s that it is in flight, 
+ 
+ 
+ 
+x = 28.3 m = vxit + 0t2
+∴vxi = 28.3 m
+2.86 s = 9.91 m/s
+
+--- PAGE 21 ---
+Chapter 4     151 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.28 
+The initial velocity components of the projectile are 
+ 
+ 
+ 
+xi = 0   and   yi = h 
+ 
+ 
+ 
+vxi = vi cosθ   and   vyi = vi sinθ 
+ 
+while the constant acceleration components are 
+ 
+ 
+ 
+ax = 0   and   ay = –g 
+ 
+The coordinates of the projectile are 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2 = (vi cosθ)t
+and
+y f = yi + vyit + 1
+2 ayt2 = h +(vi sinθ)t– 1
+2 gt2
+ 
+ 
+and the components of velocity are 
+ 
+ 
+ 
+vxf = vxi + axt = vi cosθ
+and
+vyf = vyi + ayt = vi sinθ – gt
+ 
+ 
+(a) 
+We know that when the projectile reaches its maximum height,  
+vyf = 0: 
+ 
+ 
+ 
+vyf = vi sinθ −gt = 0 →t = vi sinθ
+g
+ 
+ 
+(b) At the maximum height, y = hmax: 
+ 
+ 
+ 
+hmax = h + vi sinθ
+(
+)t −1
+2 gt2
+hmax = h + vi sinθ vi sinθ
+g
+−1
+2 g vi sinθ
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+hmax = h + vi sinθ
+(
+)
+2
+2g
+ 
+P4.29 
+(a) 
+Initial coordinates: xi = 0.00 m, yi = 0.00 m 
+ 
+(b) Components of initial velocity: vxi = 18.0 m/s, vyi = 0 
+ 
+(c) 
+Free fall motion, with constant downward acceleration 
+g = 9.80 m/s2.
+ 
+ 
+(d) 
+Constant velocity motion in the horizontal direction. There is no 
+horizontal acceleration from gravity.
+
+--- PAGE 22 ---
+152     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+vxf = vxi + axt    →    vxf = vxi 
+ 
+ 
+vyf = vyi + ayt    →    vyf = −gt 
+ 
+(f) 
+x f = xi + vxit + 1
+2 axt2    →    x f = vxit 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2    →    y f = −1
+2 gt2 
+ 
+(g) We find the time of impact:  
+ 
+ 
+ 
+y f = −1
+2 gt2
+−h = −1
+2 gt2    →    t =
+2h
+g =
+2(50.0 m)
+9.80 m/s2 = 3.19 s
+ 
+ 
+(h) At impact, vxf = vxi = 18.0 m/s, and the vertical component is 
+ 
+ 
+ 
+vyf = −gt
+= −g
+2h
+g = −2gh = −2(9.80 m/s2)(50.0 m) = −31.3 m/s
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+v f =
+vxf
+2 + vyf
+2 =
+(18.0 m/s)2 + (−31.3 m/s)2 = 36.1 m/s 
+ 
+ 
+and 
+ 
+ 
+ 
+θ f = tan−1 vyf
+vxf
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −31.3
+18.0
+⎛
+⎝⎜
+⎞
+⎠⎟= −60.1°
+ 
+ 
+ 
+which in this case means the velocity points into the fourth 
+quadrant because its y component is negative. 
+P4.30 
+(a) 
+When a projectile is launched with speed vi at angle θi above the 
+horizontal, the initial velocity components are vxi = vi cos θi and vyi 
+= vi sin θi. Neglecting air resistance, the vertical velocity when the 
+projectile returns to the level from which it was launched (in this 
+case, the ground) will be vy = –vyi. From this information, the total 
+time of flight is found from vyf = vyi + ayt to be 
+ 
+ 
+ 
+ttotal =
+vyf −vyi
+ay
+=
+−vyi −vyi
+−g
+=
+2vyi
+g  or   ttotal = 2vi sinθi
+g
+
+--- PAGE 23 ---
+Chapter 4     153 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Since the horizontal velocity of a projectile with no air resistance 
+is constant, the horizontal distance it will travel in this time (i.e., 
+its range) is given by 
+ 
+ 
+ 
+R = vxittotal = vi cosθi
+(
+) 2vi sinθi
+g
+⎛
+⎝⎜
+⎞
+⎠⎟= vi
+2
+g 2sinθi cosθi
+(
+)
+= vi
+2 sin 2θi
+(
+)
+g
+ 
+ 
+ 
+Thus, if the projectile is to have a range of R = 81.1 m when 
+launched at an angle of θi = 45.0°, the required initial speed is 
+ 
+ 
+ 
+vi =
+Rg
+sin 2θi
+(
+)
+=
+81.1 m
+(
+) 9.80m s2
+(
+)
+sin 90.0°
+(
+)
+= 28.2 m s 
+ 
+(b) With vi = 28.2 m/s and θi = 45.0° the total time of flight (as found 
+above) will be 
+ 
+ 
+ 
+ttotal = 2vi sinθi
+g
+= 2 28.2m s
+(
+)sin 45.0°
+(
+)
+9.80m s2
+= 4.07 s 
+ 
+(c) 
+Note that at θi = 45.0°, and that sin (2θi) will decrease as θi is 
+increased above this optimum launch angle. Thus, if the range is 
+to be kept constant while the launch angle is increased above 
+45.0°, we see from vi =
+Rg sin 2θi
+(
+) that 
+the required initial velocity will increase . 
+ 
+ 
+Observe that for θi < 90°, the function sinθi increases as θi is 
+increased. Thus, increasing the launch angle above 45.0° while 
+keeping the range constant means that both vi and sinθi will 
+increase. Considering the expression for ttotal given above, we see 
+that the total time of flight will increase .  
+P4.31 
+We first consider the vertical motion of the stone as it falls toward the 
+water. The initial y velocity component of the stone is 
+ 
+ 
+ 
+vyi = vi sinθ = –(4.00 m/s)sin 60.0° = –3.46 m/s 
+ 
+and its y coordinate is 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2 = h +(vi sinθ)t – 1
+2 gt2
+y f = 2.50 – 3.46t – 4.90t2
+
+--- PAGE 24 ---
+154     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+where y is in m and t in s. We have taken the water’s surface to be at  
+y = 0. At the water,  
+ 
+ 
+ 
+4.90t
+2 + 3.46t – 2.50 = 0 
+ 
+Solving for the positive root of the equation, we get 
+ 
+ 
+ 
+t = −3.46 +
+3.46
+(
+)
+2 −4 4.90
+(
+) −2.50
+(
+)
+2 4.90
+(
+)
+t = −3.46 + 7.81
+9.80
+t = 0.443 s
+ 
+ 
+The y component of velocity of the stone when it reaches the water at 
+this time t is 
+ 
+ 
+ 
+vyf = vyi + ayt = –3.46– gt = –7.81 m/s 
+ 
+After the stone enters to water, its speed, and therefore the magnitude 
+of each velocity component, is reduced by one-half. Thus, the y 
+component of the velocity of the stone in the water is  
+ 
+ 
+ 
+vyi = (–7.81 m/s)/2 = –3.91 m/s, 
+ 
+and this component remains constant until the stone reaches the 
+bottom. As the stone moves through the water, its y coordinate is  
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2
+y f = –3.91t
+ 
+ 
+The stone reaches the bottom of the pool when yf = –3.00 m: 
+ 
+ 
+ 
+y f = –3.91t = –3.00 →t = 0.767s 
+ 
+The total time interval the stone takes to reach the bottom of the pool is 
+ 
+ 
+ 
+Δt = 0.443 s + 0.767 s = 1.21 s 
+*P4.32 
+(a)  The time for the ball to reach the fence is 
+ 
+ 
+ 
+t = Δx
+vxi
+=
+130 m
+vi cos35.0° = 159 m
+vi
+  
+ 
+ 
+At this time, the ball must be Δy = 21.0 m −1.00 m = 20.0 m above 
+its launch position, so 
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2
+
+--- PAGE 25 ---
+Chapter 4     155 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+gives 
+ 
+ 
+ 
+20.0 m = vi sin35.0°
+(
+) 159 m
+vi
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+2 9.80 m/s2
+(
+) 159 m
+vi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2  
+ 
+ 
+or 
+ 
+ 
+ 
+159 m
+(
+)sin35.0° −20.0 m = 4.90 m/s2
+(
+) 159 m
+(
+)
+2
+vi
+2
+  
+ 
+ 
+from which we obtain 
+ 
+ 
+ 
+vi =
+4.90 m/s2
+(
+) 159 m
+(
+)
+2
+159 m
+(
+)sin35.0° −20.0 m = 41.7 m/s
+  
+ 
+(b)  From our equation for the time of flight above,  
+ 
+  
+ 
+t = 159 m
+vi
+=
+159 m
+41.7 m/s = 3.81 s 
+ 
+(c) 
+When the ball reaches the wall (at t = 3.81 s), 
+ 
+ 
+ 
+vx = vi cos35.0° = 41.7 m/s
+(
+)cos35.0° = 34.1 m/s
+vy = vi sin35.0° + ayt
+= 41.7 m/s
+(
+)sin35.0° −9.80 m/s2
+(
+) 3.81 s
+(
+)
+= −13.4 m/s
+  
+ 
+  
+and v =
+vx
+2 + vy
+2 =
+34.1 m/s
+(
+)
+2 + −13.4 m/s
+(
+)
+2 = 36.7 m/s  
+ 
+ 
+ 
+ 
+Section 4.4 
+Analysis Model: Particle in Uniform Circular 
+Motion 
+P4.33 
+Model the discus as a particle in uniform circular motion. We evaluate 
+its centripetal acceleration from the standard equation proved in the 
+text. 
+ 
+ 
+ 
+ac = v2
+r = 20.0 m/s
+(
+)
+2
+1.06 m
+= 377 m/s2 
+ 
+The mass is unnecessary information.
+
+--- PAGE 26 ---
+156     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.34 
+Centripetal acceleration is given by a = v2
+R . To find the velocity of a 
+point at the equator, we note that this point travels through 2πRE 
+(where RE = 6.37 × 106 m is Earth’s radius) in 24.0 hours. Then, 
+ 
+ 
+ 
+v = 2πRE
+T
+= 2π 6.37 × 106 m
+(
+)
+24 h
+(
+) 3 600 s h
+(
+)
+= 463 m s
+  
+ 
+and, 
+ 
+ 
+ 
+a = v2
+R =
+463 m s
+(
+)
+2
+6.37 × 106 m
+= 0.033 7 m/s2 directed toward the center of Earth
+ 
+*P4.35 
+Centripetal acceleration is given by ac = v2
+r . Let f represent the rotation 
+rate. Each revolution carries each bit of metal through distance 2πr, so 
+v = 2πrf and  
+ 
+ 
+ 
+ac = v2
+r = 4π 2rf 2 = 100g
+ 
+ 
+A smaller radius implies smaller acceleration. To meet the criterion for 
+each bit of metal we consider the minimum radius: 
+ 
+ 
+ 
+f =
+100g
+4π 2r
+⎛
+⎝
+⎞
+⎠
+1 2
+=
+100⋅9.8 m/s2
+4π 2 0.021 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 34.4 1
+s
+60 s
+1 min
+(
+) = 2.06 × 103 rev min
+ 
+*P4.36 
+The radius of the tire is r = 0.500 m. The speed of the stone on its outer 
+edge is  
+ 
+ 
+ 
+vt = 2π r
+T
+=
+2π 0.500 m
+(
+)
+60.0 s/200 rev
+(
+) = 10.5 m/s
+ 
+ 
+and its acceleration is 
+ 
+ 
+ 
+a = v2
+R = 10.5 m/s
+(
+)2
+0.500 m
+= 219 m/s2 inward
+ 
+P4.37 
+Centripetal acceleration is ac = v2
+r →v =
+acr, where ac = 20.0g, and 
+speed v is in meters per second if r is in meters.
+
+--- PAGE 27 ---
+Chapter 4     157 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We can convert the speed into a rotation rate, in rev/min, by using the 
+relations 1 revolution = 2πr, and 1 min = 60 s: 
+ 
+ 
+ 
+v =
+acr =
+acr 1 rev
+2πr
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 rev
+2π
+ac
+r
+= 1 rev
+2π
+20.0 9.80 m/s2
+(
+)
+29.0 ft
+3.281 ft
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 45.0 rev/min
+ 
+P4.38 
+(a) 
+Using the definition of speed and noting that the ball travels in a 
+circular path, 
+ 
+ 
+ 
+v = d
+Δt = 2πR
+T
+ 
+ 
+ 
+where R is the radius of the circle and T is the period, that is, the 
+time interval required for the ball to go around once. For the 
+periods given in the problem, 
+ 
+ 
+ 
+8.00 rev s →T =
+1
+8.00 rev s = 0.125 s
+6.00 rev s →T =
+1
+6.00 rev s = 0.167 s
+ 
+ 
+ 
+Therefore, the speeds in the two cases are: 
+ 
+ 
+ 
+8.00 rev s →v = 2π 0.600 m
+(
+)
+0.125 s
+= 30.2m s
+6.00 rev s →v = 2π 0.900 m
+(
+)
+0.167 s
+= 33.9m s
+ 
+ 
+ 
+Therefore, 6.00 rev/s gives the greater speed of the ball. 
+ 
+(b) 
+Acceleration = v2
+r = 9.60π m/s
+(
+)
+2
+0.600 m
+= 1.52 × 103 m/s2 . 
+ 
+(c) 
+At 6.00 rev/s, acceleration = 10.8π m/s
+(
+)
+2
+0.900 m
+= 1.28 × 103 m/s2 . So 
+8 rev/s gives the higher acceleration. 
+*P4.39 
+The satellite is in free fall. Its acceleration is due to gravity and is by 
+effect a centripetal acceleration: ac = g. So  
+ 
+ 
+ 
+v2
+r = g
+
+--- PAGE 28 ---
+158     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.40 
+ 
+Solving for the velocity,  
+ 
+ 
+ 
+v =
+rg =
+6,400 + 600
+(
+) 103 m
+(
+) 8.21 m/s2
+(
+)
+= 7.58 × 103 m/s
+ 
+ 
+ 
+ 
+v = 2πr
+T
+ 
+ 
+and 
+ 
+ 
+ 
+T = 2π r
+v
+= 2π 7,000 × 103 m
+(
+)
+7.58 × 103 m/s
+= 5.80 × 103 s
+T = 5.80 × 103 s 1 min
+60 s
+(
+) = 96.7 min
+ 
+ 
+ 
+ 
+Section 4.5 
+Tangential and Radial Acceleration	  
+P4.40 
+From the given magnitude and direction of the 
+acceleration we can find both the centripetal 
+and the tangential components. From the 
+centripetal acceleration and radius we can find 
+the speed in part (b). r = 2.50 m, a = 15.0 m/s
+2. 
+ 
+(a) 
+The acceleration has an inward radial 
+component: 
+ 
+ 
+ 
+ac = a cos 30.0° = 15.0 m s
+2
+(
+) cos 30°
+(
+)
+= 13.0 m s
+2
+ 
+ 
+(b) The speed at the instant shown can be found by using
+  
+ 
+ 
+ 
+ac = v2
+r
+v2 = rac = 2.50 m 13.0 m/s
+(
+)
+= 32.5 m2 s2
+v =
+32.5 m/s = 5.70 m/s
+ 
+ 
+(c) 
+a2 = at
+2 + ar
+2
+so at =
+a2 −ar
+2 =
+15.0 m s2
+(
+)
+2 −13.0 m s2
+(
+)
+2 = 7.50 m s2
+
+--- PAGE 29 ---
+Chapter 4     159 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.41 
+Since the train is changing both its speed and 
+direction, the acceleration vector will be the 
+vector sum of the tangential and radial 
+acceleration components. The tangential 
+acceleration can be found from the changing 
+speed and elapsed time, while the radial 
+acceleration can be found from the radius of 
+curvature and the train’s speed. 
+ 
+ 
+First, let’s convert the speed units from km/h 
+to m/s: 
+ 
+ 
+  
+vi = 90.0 km/h = (90.0 km/h)(103 m/km)(1 h/3600 s)
+= 25.0 m/s
+ 
+ 
+ 
+ 
+v f = 50.0 km/h = (50.0 km/h)(103 m/km)(1 h/3600 s)
+= 13.9 m/s
+ 
+ 
+ 
+The tangential acceleration and radial acceleration are, respectively, 
+ 
+ 
+ 
+  
+at = Δv
+Δt = 13.9 m/s – 25.0 m/s
+15.0 s
+= – 0.741 m/s2    (backward)
+ 
+ 
+ 
+ 
+and   
+ar = v2
+r = (13.9 m/s)2
+150 m
+= 1.29 m/s    (inward) 
+ 
+so 
+ 
+a =
+ac
+2 + at
+2 =
+1.29 m/s2
+(
+)
+2 + −0.741 m/s2
+(
+)
+2 = 1.48 m/s2 
+ 
+at an angle of  
+ 
+ 
+ 
+tan−1
+at
+ac
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 0.741 m/s2
+1.29 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 29.9°
+ 
+ 
+therefore, a = 1.48 m/s2 inward and 29.9° backward 
+P4.42 
+(a) 
+See ANS. FIG. P4.42. 
+ 
+(b) The components of the 20.2 m/s
+2 and the  
+22.5 m/s
+2 accelerations along the rope together  
+constitute the centripetal acceleration: 
+ 
+ 
+ 
+ac = 22.5 m s2
+(
+) cos 90.0° −36.9°
+(
+)
+          + 20.2 m s2
+(
+) cos 36.9° = 29.7 m s2
+ 
+ 
+(c) 
+ac = v2
+r so v =
+acr =
+29.7 m/s2 (1.50 m) = 6.67 m/s tangent to 
+the circle. 
+ANS. FIG. P4.41
+ANS. FIG. P4.42
+
+--- PAGE 30 ---
+160     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.43 
+The particle’s centripetal acceleration is v
+2/r = (3 m/s)
+2/2 m =  
+4.50 m/s
+2. The total acceleration magnitude can be larger than or equal 
+to this, but not smaller. 
+ 
+(a) 
+Yes. The particle can be either speeding up or slowing down,
+with a tangential component of acceleration of magnitude
+62 −4.52 = 3.97m/s.
+ 
+ 
+(b) 
+No. The magnitude of the acceleration cannot be less than
+v2/r = 4.5 m/s2.
+ 
+ 
+ 
+ 
+Section 4.6 
+Relative Velocity and Relative Acceleration	  
+*P4.44 
+The westward speed of the airplane is the horizontal component of its 
+velocity vector, and the northward speed of the wind is the vertical 
+component of its velocity vector, which has magnitude and direction 
+given by 
+ 
+ 
+v =
+150 km/h
+(
+)2 + 30.0 km/h
+(
+)2 = 153 km/h 
+ 
+ 
+θ = tan−1 30.0 km/h
+150 km/h
+⎛
+⎝
+⎞
+⎠= 11.3° north of west
+ 
+P4.45 
+The airplane (AP) travels through the air (W) that can move relative to 
+the ground (G). The airplane is to make a displacement of 750 km 
+north. Treat north as positive y and west as positive x.  
+ 
+(a) 
+The wind (W) is blowing at 35.0 km/h, south. The northern 
+component of the airplane’s velocity relative to the ground is  
+ 
+ 
+ 
+(vAP,G)y = (vAP,W)y +(vW,G)y = 630 km/h−35.0 km/h
+= 595 km/h
+ 
+ 
+ 
+We can find the time interval the airplane takes to travel 750 km 
+north: 
+ 
+ 
+ 
+Δy = vAP,G
+(
+)y Δt →
+Δt =
+Δy
+vAP,G
+(
+)y
+= 750 km
+595km h = 1.26 h
+
+--- PAGE 31 ---
+Chapter 4     161 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The wind (W) is blowing at 35.0 km/h, north. The northern 
+component of the airplane’s velocity relative to the ground is  
+ 
+ 
+ 
+(vAP,G)y = (vAP,W)y +(vW,G)y = 630 km/h + 35.0 km/h
+= 665 km/h
+ 
+ 
+ 
+We can find the time interval the airplane takes to travel 750 km 
+north:  
+ 
+ 
+ 
+Δt =
+Δy
+vAP,G
+(
+)y
+= 750 km
+665km h = 1.13 h 
+ 
+(c) 
+Now, the wind (W) is blowing at 35.0 km/h, east. The airplane 
+must travel directly north to reach its destination, so it must head 
+somewhat west and north so that the east component of the 
+wind’s velocity is cancelled by the airplane’s west component of 
+velocity. If the airplane heads at an angle θ measured west of 
+north, then  
+ 
+ 
+ 
+(vAP,G)x = (vAP,W)x +(vW,G)x
+= (630 km/h)sinθ +(−35.0 km/h) = 0
+ 
+ 
+ 
+ 
+sinθ = 35.0/630 →θ = 3.18° 
+ 
+ 
+The northern component of the airplane’s velocity relative to the 
+ground is  
+ 
+ 
+ 
+(vAP,G)y = (vAP,W)y +(vW,G)y = (630 km/h)cos3.18° + 0
+= 629 km/h
+ 
+ 
+ 
+We can find the time interval the airplane takes to travel 750 km 
+north:  
+ 
+ 
+ 
+Δt =
+Δy
+vAP,G
+(
+)y
+= 750 km
+629km h = 1.19 h 
+P4.46 
+Consider the direction the first beltway (B1) moves to be the positive 
+direction. The first beltway moves relative to the ground (G) with 
+velocity vB1,G = v1. 
+ 
+(a) 
+The woman’s velocity relative to the ground is vWG = vW,B1 + vB1,G = 
+v1 + 0 = v1. The time interval required for the woman to travel 
+distance L relative to the ground is  
+ 
+ 
+ 
+Δtwoman = L
+v1
+
+--- PAGE 32 ---
+162     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The man’s (M) velocity relative to the ground is vMG = vM,B1 + vB1,G 
+= v2 + v1. The time interval required for the man to travel distance 
+L relative to the ground is 
+ 
+ 
+ 
+Δtman =
+L
+v1 + v2
+ 
+ 
+(c) 
+The second beltway (B2) moves in the negative direction; its 
+velocity is vB2,G = –v1, and the child (C) rides on the second 
+beltway; his velocity relative to the ground is 
+ 
+ 
+ 
+vCG = vC,B2 + vB2,G = 0−v1 = −v1 
+ 
+ 
+The man’s velocity relative to the child is 
+ 
+ 
+ 
+vMC = vM,B1 + vB1,G + vG,B2 + vB2,C
+vMC = vM,B1 + vB1,G −vB2,G −vC,B2
+vMC = v2 + v1 −(−v1) + 0 = v1 + 2 v2
+ 
+ 
+ 
+so, the time interval required for the man to travel distance L 
+relative to the child is 
+ 
+ 
+ 
+Δtman =
+L
+v1 + 2v2
+ 
+P4.47 
+Both police car (P) and motorist (M) move relative to the ground (G). 
+Treating west as the positive direction, the components of their 
+velocities (in km/h) are: 
+ 
+ 
+ 
+vPG = 95.0 km/h (west)
+vPG = 80 km/h (west) 
+ 
+(a) 
+vMP = vMG + vGP = vMG −vPG = 80.0 km/h −95.0 km/h = −15.0
+= 15.0 km/h, east
+ 
+ 
+(b) 
+vPM = −vMP + 15.0 km/h, west 
+ 
+(c) 
+Relative to the motorist, the police car approaches at 15.0 km/h: 
+ 
+ 
+ 
+d = vΔt
+→Δt = d
+v = 0.250 km
+15.0 km h = 1.67 × 10−2 h
+(
+) 3600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 60.0 s
+
+--- PAGE 33 ---
+Chapter 4     163 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.48 
+ 
+We define the following velocity vectors: 
+ 
+ 
+vce = the velocity of the car relative  
+to the Earth 
+ 
+ 
+vwc = the velocity of the water relative  
+to the car 
+ 
+ 
+vwe = the velocity of the water relative  
+to the Earth 
+ 
+These velocities are related as shown in ANS. FIG. P4.48 
+ 
+(a) 
+Since vwe is vertical, vwc sin 60.0° = vce = 50.0 km/h or 
+vwc = 57.7 km/h at 60.0° west of vertical 
+ 
+(b) Since vce has zero vertical component, 
+ 
+ 
+ 
+vwe = vwc cos 60.0° = 57.7 km/h
+(
+)cos 60.0°
+= 28.9 km/h downward
+ 
+P4.49 
+(a) 
+To an observer at rest in the train car, the bolt accelerates 
+downward and toward the rear of the train. 
+ 
+ 
+ 
+a =
+2.50 m s
+(
+)
+2 + 9.80 m s
+(
+)
+2 = 10.1 m s2
+tanθ = 2.50 m s2
+9.80 m s2 = 0.255
+θ = 14.3° to the south from the vertical
+ 
+ 
+ 
+To this observer, the bolt moves as if it were in a gravitational 
+field of 9.80 m/s
+2 down + 2.50 m/s
+2 south. 
+ 
+(b) 
+a = 9.80 m s2 vertically downward 
+ 
+(c) 
+If it is at rest relative to the ceiling at release, the bolt moves 
+on a straight line download and southward at 14.3 degrees 
+from the vertical. 
+ 
+ 
+(d) 
+The bolt moves on a parabola with a vertical axis. 
+P4.50 
+The total time interval in the river is the longer time spent swimming 
+upstream (against the current) plus the shorter time swimming 
+downstream (with the current). For each part, we will use the basic 
+equation t = d/v, where v is the speed of the student relative to the 
+shore.
+
+--- PAGE 34 ---
+164     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Total time = time upstream plus time downstream: 
+ 
+ 
+ 
+tup =
+1 000 m
+1.20 m/s −0.500 m/s = 1.43 × 103 s
+tdown =
+1 000 m
+1.20 m/s + 0.500 m/s = 588 s
+ 
+ 
+ 
+Therefore, ttotal = 1.43 × 103 s + 588 s = 2.02 × 103 s . 
+ 
+(b) Total time in still water t = d
+v = 2 000
+1.20 = 1.67 × 103 s . 
+ 
+(c) 
+Swimming with the current does not compensate for the
+time lost swimming against the current.
+ 
+P4.51 
+The student must swim faster than the current to travel upstream. 
+ 
+(a) 
+The speed of the student relative to shore is vup = c – v while 
+swimming upstream (against the current), and vdown = c + v while 
+swimming downstream (with the current). 
+ 
+ 
+Note, The student must swim faster than the current to travel 
+upstream. The time interval required to travel distance d 
+upstream is then 
+ 
+ 
+ 
+Δtup = d
+vup
+=
+d
+c −v 
+ 
+ 
+and the time interval required to swim the same distance d 
+downstream is 
+ 
+ 
+ 
+Δtdown =
+d
+vdown
+=
+d
+c + v 
+ 
+ 
+The time interval for the round trip is therefore 
+ 
+ 
+ 
+Δt = Δtup + Δtdown =
+d
+c −v +
+d
+c + v = d c + v
+(
+) + c −v
+(
+)
+c −v
+(
+) c + v
+(
+)
+Δt =
+2dc
+c2 −v2
+ 
+ 
+(b) In still water, v = 0, so vup = vdown = c; the equation for the time 
+interval for the complete trip reduces to  
+ 
+ 
+ 
+Δt = 2d
+c
+
+--- PAGE 35 ---
+Chapter 4     165 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The equation for the time interval for the complete trip can be 
+written as  
+ 
+ 
+ 
+Δt =
+2dc
+c2 −v2 =
+2d
+c 1−v2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Because the denominator is always smaller than c, swimming 
+with and against the current is always longer than in still water. 
+P4.52 
+Choose the x axis along the 20-km 
+distance. The y components of the 
+displacements of the ship and the 
+speedboat must agree: 
+ 
+ 
+26 km/h
+(
+)tsin 40.0° −15.0°
+(
+)
+               = 50 km/h
+(
+)tsinα
+ 
+ 
+ 
+α = sin−1 11.0 km/h
+50 km/h
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 12.7°
+ 
+ 
+The speedboat should head 
+ 
+ 
+15.0° + 12.7° = 27.7° E of N 
+P4.53 
+Identify the student as the S′ 
+observer and the professor as the S 
+observer. For the initial motion in 
+S′, we have  
+ 
+ 
+v′y
+v′x
+= tan60.0° =
+3 
+ 
+Let u represent the speed of S′ 
+relative to S. Then because there is 
+no x motion in S, we can write  
+vx = v′x + u = 0 so that  
+v′x = –u = –10.0 m/s. Hence the ball 
+is thrown backwards in S′. Then, 
+ 
+ 
+v′y = v′y =
+3 v′x = 10.0 3 m s 
+ 
+Using vy
+2 = 2gh we find 
+ 
+ 
+h =
+10.0 3 m s
+(
+)
+2
+2 9.80m s2
+(
+)
+= 15.3 m 
+ANS. FIG. P4.52 
+ANS. FIG. P4.53
+
+--- PAGE 36 ---
+166     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The motion of the ball as seen by the student in S′ is shown in ANS. 
+FIG. P4.53(b). The view of the professor in S is shown in ANS. FIG. 
+P4.53(c). 
+P4.54 
+(a) 
+For the boy to catch the can at the same location on the truck bed, 
+he must throw it straight up, at 0° to the vertical . 
+ 
+(b) We find the time of flight of the can by considering its horizontal 
+motion:  
+ 
+ 
+ 
+16.0 m = (9.50 m/s)t + 0 → t = 1.68 s 
+ 
+ 
+For the free fall of the can, y f = yi + vyit −1
+2 ayt2 :  
+ 
+ 
+ 
+0 = 0 + vyi 1.68 s
+(
+)−1
+2 9.80 m/s2
+(
+) 1.68 s
+(
+)
+2  
+ 
+ 
+which gives vyi = 8.25 m/s .  
+ 
+(c) 
+The boy sees the can always over his head, traveling in 
+a straight up and down line . 
+ 
+(d) The ground observer sees the can move as a projectile traveling in 
+a symmetric parabola opening downward . 
+ 
+(e) 
+Its initial velocity is  
+ 
+ 
+ 
+9.50 m/s
+(
+)
+2 + 8.25 m/s
+(
+)
+2 = 12.6 m/s north  
+ 
+ 
+at an angle of  
+ 
+ 
+ 
+tan−1 8.25 m/s
+9.50 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟= 41.0° above the horizontal
+ 
+ 
+ 
+ 
+Additional Problems	  
+*P4.55 
+After the string breaks the ball is a projectile, and reaches the ground 
+at time t:  
+ 
+ 
+ 
+y f = vyit + 1
+2 ayt2 
+ 
+ 
+ 
+−1.20 m = 0 + 1
+2 −9.80 m/s2
+(
+)t2
+
+--- PAGE 37 ---
+Chapter 4     167 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so t = 0.495 s. Its constant horizontal speed is  
+ 
+ 
+ 
+vx = x
+t = 2.00 m
+0.495 s = 4.04 m/s 
+ 
+so before the string breaks 
+ 
+ 
+ 
+ac = vx
+2
+r = 4.04 m/s
+(
+)2
+0.300 m
+= 54.4 m/s2 
+*P4.56 
+The maximum height of the ball is given by Equation 4.12: 
+ 
+ 
+ 
+h = vi
+2 sin2θi
+2g
+ 
+ 
+Equation 4.13 then gives the horizontal range of the ball: 
+ 
+ 
+ 
+R = vi
+2 sin2θi
+g
+= 2vi
+2 sinθi cosθi
+g
+ 
+ 
+If h = R
+6
+, Equation 4.12 yields 
+ 
+ 
+ 
+vi sinθi =
+gR
+3 
+[1] 
+ 
+Substituting equation [1] above into Equation 4.13 gives 
+ 
+ 
+ 
+R = 2
+gR 3
+(
+)vi cosθi
+g
+ 
+ 
+which reduces to 
+ 
+ 
+ 
+vi cosθi = 1
+2
+3gR 
+[2] 
+ 
+(a) 
+From vyf = vyi + ayt, the time to reach the peak of the path  
+where vyf = 0
+(
+) is found to be 
+ 
+ 
+tpeak = vi sinθi g 
+ 
+ 
+Using equation [1], this gives 
+ 
+ 
+ 
+tpeak =
+R
+3g 
+ 
+ 
+The total time of the ball’s flight is then 
+ 
+ 
+ 
+t flight = 2tpeak = 2
+R
+3g
+
+--- PAGE 38 ---
+168     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At the path’s peak, the ball moves horizontally with speed 
+ 
+ 
+ 
+vpeak = vxi = vi cosθi 
+ 
+ 
+Using equation [2], this becomes 
+ 
+ 
+ 
+vpeak =
+1
+2
+3gR 
+ 
+(c) 
+The initial vertical component of velocity is vyi = vi sinθi. From 
+equation [1], 
+ 
+ 
+ 
+ 
+vyi =
+gR
+3
+ 
+ 
+(d) Squaring equations [1] and [2] and adding the results, 
+ 
+ 
+ 
+vi
+2 sin2θi + cos2θi
+(
+) = gR
+3 + 3gR
+4
+= 13gR
+12
+ 
+ 
+ 
+Thus, the initial speed is 
+ 
+ 
+ 
+vi =
+13gR
+12
+ 
+ 
+(e) 
+Dividing equation [1] by [2] yields 
+ 
+ 
+ 
+tanθi = vi sinθi
+vi cosθi
+=
+gR 3
+(
+)
+1
+2
+3gR
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+= 2
+3 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+θi = tan−1 2
+3( ) = 33.7° 
+ 
+(f) 
+For a given initial speed, the projection angle yielding maximum 
+peak height is θi = 90.0° . With the speed found in (d), Equation 
+4.12 then yields 
+ 
+ 
+ 
+hmax = 13gR 12
+(
+)sin2 90.0°
+2g
+=
+13
+24 R 
+ 
+(g) For a given initial speed, the projection angle yielding maximum 
+range is θi = 45.0°. With the speed found in (d), Equation 4.13 
+then gives 
+ 
+ 
+ 
+Rmax = 13gR 12
+(
+)sin90.0°
+g
+=
+13
+12 R
+
+--- PAGE 39 ---
+Chapter 4     169 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.57 
+We choose positive y to be in the downward direction. The ball when 
+released has velocity components vxi = v and vyi = 0, where v is the 
+speed of the man. We can find the length of the time interval the ball 
+takes to fall the distance h using 
+ 
+ 
+ 
+Δy = 1
+2 ay Δt
+(
+)
+2 = 1
+2 g Δt
+(
+)
+2 →Δt =
+2h
+g
+ 
+ 
+The horizontal displacement of the ball during this time interval is 
+ 
+ 
+ 
+Δx = vxi Δt = v 2h
+g = 7.00h 
+ 
+Solve for the speed: 
+ 
+ 
+ 
+v =
+49.0gh
+2
+=
+49.0 9.80 m/s2
+(
+)h
+2
+= 15.5 h
+ 
+ 
+where h is in m and v in m/s.  
+ 
+If we express the height as a function of speed, we have 
+ 
+ 
+ 
+h = (4.16 × 10–2)v2 
+ 
+where h is in m and v is in m/s. 
+ 
+For a normally proportioned adult, h is about 0.50 m, which would
+mean that v = 15.5
+0.50 = 11 m/s, which is about 39 km/h; no 
+normal adult could walk “briskly” at that speed. If the speed were a 
+realistic typical speed of 4 km/h, from our equation for h, we find 
+that the height would be about 4 cm, much too low for a normal adult.
+ 
+P4.58 
+(a) 
+From a = dv/dt, we have 
+ 
+ 
+ 
+dv
+i
+f∫
+=
+a
+i
+f∫
+dt = Δv 
+ 
+ 
+Then 
+ 
+ 
+ 
+ v −5ˆi m/s =
+6
+0
+t∫
+t1/2dt ˆj = 6 t3/2
+3/2 0
+t
+ˆj = 4 t3/2 ˆj m/s
+ 
+ 
+ 
+so 
+v =
+5 ˆi + 4 t3/2 ˆj
+(
+) m/s . 
+ 
+(b) From v = dr/dt, we have 
+ 
+ 
+ 
+d
+i
+f∫
+r =
+v
+i
+f∫
+dt = Δr
+
+--- PAGE 40 ---
+170     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then  
+ 
+ 
+ 
+r −0 =
+5 ˆi + 4 t3/2 ˆj
+(
+)
+0
+t∫
+dt = 5t ˆi + 4 t5/2
+5/2
+ˆj
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+t
+=
+5t ˆi + 1.6 t5/2 ˆj
+(
+) m
+ 
+P4.59 
+(a) 
+The speed at the top is  
+ 
+ 
+ 
+vx = vi cosθi = 143 m/s
+(
+)cos45° = 101 m/s 
+ 
+(b) In free fall the plane reaches altitude given by  
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+)
+0 = 143 m s sin 45°
+(
+)
+2 + 2 −9.80 m s2
+(
+) y f −31 000 ft
+(
+)
+y f = 31 000 ft + 522 m 3.28 ft
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.27 × 104 ft
+ 
+ 
+(c) 
+For the whole free-fall motion vyf = vyi + ayt: 
+ 
+ 
+ 
+−101 m/s = +101 m/s −9.80 m/s2
+(
+)t
+t = 20.6 s
+ 
+P4.60 
+(a) 
+The acceleration is that of gravity: 9.80 m/s2, downward. 
+ 
+(b) The horizontal component of the initial velocity is vxi = vi cos 40.0° 
+= 0.766vi, and the time required for the ball to move 10.0 m 
+horizontally is 
+ 
+ 
+ 
+t = Δx
+vxi
+= 10.0 m
+0.766 vi
+= 13.1 m
+vi
+ 
+ 
+ 
+At this time, the vertical displacement of the ball must be 
+ 
+ 
+ 
+Δy = y f −yi = 3.05 m −2.00 m = 1.05 m 
+ 
+ 
+Thus, Δy = vyit + 1
+2 ayt2 becomes 
+ 
+ 
+ 
+1.05 m =
+vi sin 40.0°
+(
+)
+13.1 m
+vi
++ 1
+2 −9.80 m s2
+(
+) 13.1 m
+(
+)
+vi
+2
+2
+ 
+ 
+ 
+or 
+1.05 m = 8.39 m −835 m3 s2
+vi
+2
+
+--- PAGE 41 ---
+Chapter 4     171 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which yields 
+ 
+ 
+ 
+vi =
+835 m3 s2
+8.39 m −1.05 m = 10.7 m s 
+P4.61 
+Both Lisa and Jill start from rest. Their accelerations are  
+ 
+ 
+ 
+aL = (3.00 ˆi−2.00 ˆj) m/s2 
+ 
+ 
+ 
+aJ = (1.00 ˆi + 3.00 ˆj) m/s2 
+ 
+ 
+Integrating these, and knowing that they start from rest, we find their 
+velocities: 
+ 
+ 
+ 
+vL = (3.00t ˆi−2.00t ˆj) m/s 
+ 
+ 
+ 
+vJ = (1.00t ˆi + 3.00t ˆj) m/s 
+ 
+ 
+Integrating again, and knowing that they start from the origin, we find 
+their positions: 
+ 
+ 
+ 
+rL = (1.50t2 ˆi−1.00t2 ˆj) m 
+ 
+ 
+ 
+ 
+rJ = (0.50 t2 ˆi + 1.50t2 ˆj) m 
+ 
+ 
+All of the above are with respect to the ground (G).  
+ 
+(a) 
+In general, Lisa’s velocity with respect to Jill is 
+ 
+ 
+ 
+vLJ = vLG + vGJ = vLG −vJG
+vLJ = vL −vJ = (3.00t ˆi −2.00t ˆj) −(1.00t ˆi+ 3.00tˆj)
+vLJ = (2.00t ˆi −5.00t ˆj)
+ 
+ 
+ 
+When t = 5.00 s, v LJ = (10.0 ˆi −25.0 ˆj) m/s, so the speed 
+(magnitude) is 
+ 
+ 
+ 
+v =
+10.0
+(
+)
+2 + 25.0
+(
+)
+2 = 26.9 m s 
+ 
+(b) In general, Lisa’s position with respect to Jill is  
+ 
+ 
+ 
+rLJ = rL −rJ = (1.50t2 ˆi −1.00t2 ˆj) −(0.50t2 ˆi + 1.50t2 ˆj)
+rLJ = (1.00t2 ˆi −2.50t2 ˆj)
+ 
+ 
+ 
+When t = 5.00 s, rLJ = (25.0ˆi −62.5ˆj) m, and their distance apart is 
+ 
+ 
+ 
+d =
+25.0 m
+(
+)
+2 + 62.5 m
+(
+)
+2 = 67.3 m
+
+--- PAGE 42 ---
+172     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+In general, Lisa’s acceleration with respect to Jill is 
+ 
+ 
+ 
+aLJ = aL −aJ = (3.00 ˆi −2.00 ˆj)−(1.00 ˆi + 3.00 ˆj)
+aLJ = (2.00ˆi −5.00ˆj) m/s2
+ 
+P4.62 
+(a) 
+The stone’s initial velocity components (at t = 0) are vxi and vyi = 0, 
+and the stone falls through a vertical displacement ∆y = –h. We 
+find the time t when the stone strikes the ground using  
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2 →−h = 0 −1
+2 gt2 →t =
+2h
+g
+ 
+ 
+(b) To find the stone’s initial horizontal component of velocity, we 
+know at the above time t, the stone’s horizontal displacement is 
+∆x = d: 
+ 
+ 
+ 
+Δx = vxit + 1
+2 axt2 →d = vxit →vox = d
+t →vxi = d
+g
+2h
+ 
+ 
+(c) 
+The vertical component of velocity at time t is 
+ 
+ 
+ 
+vyf = vyi + ayt = 0 −gt →vyf = −g
+2h
+g →vyf = −2gh
+ 
+ 
+ 
+and the horizontal component does not change; therefore, the 
+speed of the stone as it reaches the ocean is 
+ 
+ 
+ 
+v f =
+vxf
+2 + vyf
+2 =
+d2g
+2h
+⎛
+⎝⎜
+⎞
+⎠⎟+ 2gh
+(
+) 
+ 
+(d) From above,  
+ 
+ 
+ 
+θ f = tan−1 vyf
+vxf
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −2gh
+d
+g
+2h
+⎛
+⎝
+⎜
+⎜
+⎜⎜
+⎞
+⎠
+⎟
+⎟
+⎟⎟
+θ f = −tan−1 2h
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+which means the velocity points below the horizontal by angle 
+ 
+ 
+ 
+θ f = tan−1 2h
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 43 ---
+Chapter 4     173 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.63 
+We use a fixed coordinate system that, viewed from above, has its 
+positive x axis passing through point A when the flea jumps, and its 
+positive y axis 90° counterclockwise from its x axis. Its positive z axis is 
+upward. The turntable rotates clockwise. At t = 0, the flea jumps 
+straight up relative to the turntable, but the turntable is spinning, so 
+the flea has both horizontal and vertical components of velocity 
+relative to the fixed coordinate axes. Because the turntable is spinning 
+clockwise, the horizontal velocity of the flea is in the negative y 
+directon: 
+ 
+ 
+ 
+vy = –33.3 rev
+min
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π 10.0 cm
+(
+)
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= –34.9 cm/s
+ 
+ 
+The vertical motion of the flea is independent of its horizontal motion. 
+The time interval the flea takes to rise to a height h of 5.00 cm is the 
+same time interval the flea takes to drop back to the turntable. We find 
+the interval to drop using  
+ 
+ 
+ 
+z f = zi + vzit + 1
+2 azt2 →0 = h – 1
+2 gt2 →t =
+2h
+g
+  
+ 
+where h is in m and t in s. Substituting, we find 
+ 
+ 
+ 
+t =
+2(0.050 0 m)
+9.80 m/s2
+= 0.101 s
+ 
+ 
+The total time interval for the flea to leave the surface of the turntable 
+and return is twice this: ∆t = 0.202 s.  
+ 
+(a) 
+Find the clockwise angle the turntable rotates through in the time 
+interval ∆t:  
+ 
+ 
+ 
+Δθ =
+33.3 rev
+min
+⎛
+⎝⎜
+⎞
+⎠⎟0.202 s
+(
+)
+=
+33.3 rev
+min
+⎛
+⎝⎜
+⎞
+⎠⎟
+360°
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥0.202 s
+(
+)
+= 40.4°
+  
+ 
+ 
+Point A lies 10.0 cm from the origin. When the flea jumps, the line 
+passing from the origin to point A coincides with the positive x 
+axis, but when the flea lands, the line makes an angle of –40.4° 
+with the positive x axis: 
+ 
+ 
+ 
+rA = [10.0cos(−40.4°)]ˆi + [10.0sin(−40.4°)]ˆj
+rA = (7.61ˆi −6.48ˆj)cm
+
+--- PAGE 44 ---
+174     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) During this time interval, the flea goes through a horizontal y 
+displacement  
+ 
+ 
+ 
+Δy = vyΔt = (−34.9 cm/s)(0.202 s) = −7.05 cm. 
+ 
+ 
+The flea has no motion parallel to the x axis; therefore, the 
+position of point B where the flea lands is 
+ 
+ 
+ 
+rB = (10.0ˆi −7.05ˆj) cm
+ 
+*P4.64 
+ANS. FIG. P4.64 shows the triangles ALB and ALD. 
+To find the length AL, we write 
+ 
+ 
+ 
+AL = v1t = 90.0 km/h
+(
+) 2.50 h
+(
+) = 225 km  
+ 
+To find the distance travelled by the second couple, 
+we need to determine the length BD: 
+ 
+ 
+ 
+BD = AD−AB
+= ALcos40.0° −80.0 km = 92.4 km
+  
+ 
+Then, from the triangle BLD in ANS. FIG. P4.64, 
+ 
+  
+ 
+BL =
+BD
+(
+)
+2 + DL
+(
+)
+2
+=
+92.4 km
+(
+)
+2 + ALsin 40.0°
+(
+)
+2 = 172 km
+  
+ 
+Note that the law of cosines can also be used for the triangle ABL to 
+solve for the length BD. Since Car 2 travels this distance in 2.50 h, its 
+constant speed is 
+ 
+ 
+ 
+ 
+v2 = 172 km
+2.5 h
+= 68.8 km/h  
+*P4.65 
+Consider the rocket’s trajectory in 3 
+parts as shown in the diagram on the 
+right. Our initial conditions give: 
+ 
+ay = 30.0 m/s2
+(
+)sin53.0° = 24.0 m/s2 
+ 
+ax = 30.0 m/s2
+(
+)cos53.0° = 18.1 m/s2 
+ 
+vyi = 100 m/s
+(
+)sin53.0° = 79.9 m/s 
+ 
+vxi = 100 m/s
+(
+)cos53.0° = 60.2 m/s 
+ 
+The distances traveled during each phase of the motion are given in 
+Table P4.65 below. 
+ANS. FIG. P4.64 
+ANS. FIG. P4.65
+
+--- PAGE 45 ---
+Chapter 4     175 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Path Part #1: 
+ 
+ 
+vyf = vyi + ayt
+= 79.9 m/s + 24.0 m/s2
+(
+) 3.00 s
+(
+)
+= 152 m/s
+  
+ 
+ 
+vxf = vxi + axt
+= 60.2 m/s + 18.1 m/s2
+(
+) 3.00 s
+(
+)
+= 114 m/s
+ 
+ 
+ 
+Δy = vyit + 1
+2 ayt2
+= 79.9 m/s
+(
+) 3.00 s
+(
+)+ 1
+2 24.0 m/s2
+(
+) 3.00 s
+(
+)2
+= 347 m
+ 
+ 
+ 
+Δx = vxit + 1
+2 axt2
+= 60.2 m/s
+(
+) 3.00 s
+(
+)+ 1
+2 18.1 m/s2
+(
+) 3.00 s
+(
+)2
+= 262 m
+ 
+ 
+Path Part #2:  
+ 
+ 
+Now ax = 0, ay = –9.80 m/s2, vxf = vxi = 114 m/s, vyi = 152 m/s, and 
+vyf = 0, so 
+ 
+ 
+ 
+vyf = vyi + ayt
+0 = 152 m/s −9.80 m/s2
+(
+)t
+ 
+ 
+ 
+which gives t = 15.5 s 
+ 
+ 
+Δx = vxft = 114 m/s
+(
+) 15.5 s
+(
+) = 1.77 × 103 m 
+ 
+ 
+Δy = 152 m/s
+(
+) 15.5 s
+(
+) −1
+2 9.80 m/s2
+(
+) 15.5 s
+(
+)2 = 1.17 × 103 m
+ 
+ 
+Path Path #3:  
+ 
+ 
+With vyi = 0, ax = 0, ay = –9.80 m/s2, and vxf = vxi = 114 m/s, then 
+ 
+ 
+ 
+vyf
+(
+)
+2 −vyi
+(
+)
+2 = 2aΔy
+vyf
+(
+)
+2 −0 = 2 −9.80 m/s2
+(
+) −1.52 × 103 m
+(
+)
+  
+ 
+ 
+which gives vyf = −173 m s
+
+--- PAGE 46 ---
+176     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We find the time from vyf = vyi −gt, which gives 
+ 
+ 
+−173 m/s −0 = −9.80 m/s2
+(
+)t, or t = 17.6 s 
+ 
+ 
+Δx = vxft = 114 17.6
+(
+) = 2.02 × 103 m 
+  
+(a) 
+Δy max
+(
+) = 1.52 × 103 m 
+ 
+(b) 
+t net
+(
+) = 3.00 s + 15.5 s + 17.6 s = 36.1 s 
+ 
+(c) 
+Δx net
+(
+) = 262 m + 1.77 × 103 m + 2.02 × 103 m 
+ 
+ 
+Δx net
+(
+) =
+4.05 × 103 m 
+ 
+ 
+  
+ 
+Path Part 
+ 
+ 
+  
+#1 
+#2 
+#3 
+ 
+ ay 
+24.0 
+–9.80 
+–9.80 
+ 
+ ax 
+18.1 
+0.0 
+0.0 
+ 
+ vyf 
+152 
+0.0 
+–173 
+ 
+ vxf 
+114 
+114 
+114 
+ 
+ vyi 
+79.9 
+152 
+0.0 
+ 
+ vxi 
+60.2 
+114 
+114 
+ 
+ Δy 
+347 
+1.17×103 
+–1.52×103 
+ 
+ Δx 
+262 
+1.77×103 
+2.02×103 
+ 
+ t 
+3.00 
+15.5 
+17.6 
+ 
+Table P4.65 
+*P4.66 
+Take the origin at the mouth of the cannon. We have x f = vxi t, which 
+gives 
+ 
+ 
+ 
+ 
+2 000 m = 1 000 m s
+(
+)cosθit
+
+--- PAGE 47 ---
+Chapter 4     177 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore, 
+ 
+ 
+ 
+t = 2.00 s
+cos θi
+ 
+ 
+From y f = vyi t + 1
+2 ay t2:  
+ 
+ 
+ 
+800 m = 1 000 m s
+(
+)sinθi t + 1
+2 −9.80 m s2
+(
+)t2
+800 m = 1 000 m/s
+(
+)sinθi
+2.00 s
+cosθi
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+2 9.80 m/s2
+(
+) 2.00 s
+cos θi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+800 m cos2θi
+(
+) = 2 000 m sinθi cosθi
+(
+)−19.6 m
+ 
+ 
+ 
+ 
+19.6 m + 800 m cos2θi
+(
+) = 2 000 m 1−cos2θi cosθi
+(
+)
+384 +(31 360)cos2θi +(640 000)cos4θi
+                = (4 000 000) cos2 θi −(4 000 000)cos4 θi
+4 640 000cos4 θi −3 968 640cos2 θi + 384 = 0
+cos2θi = 3 968 640 ±
+(3 968 640)2 −4(4 640 000)(384)
+9 280 000
+ 
+ 
+ 
+ 
+cos θi = 0.925 or cos θi = 0.009 84 
+ 
+ 
+ 
+θi = 22.4° or 89.4° 
+(Both solutions are valid.) 
+P4.67 
+Given the initial velocity, we can calculate the height change of the ball 
+as it moves 130 m horizontally. So this is what we do, expecting the 
+answer to be inconsistent with grazing the top of the bleachers. We 
+assume the ball field is horizontal. We think of the ball as a particle in 
+free fall (moving with constant acceleration) between the point just 
+after it leaves the bat until it crosses above the cheap seats. 
+ 
+The initial components of velocity are 
+ 
+ 
+ 
+vxi = vi cosθ = 41.7 cos 35.0° = 34.2 m/s
+vyi = vi sinθ = 41.7 sin 35.0° = 23.9 m/s 
+ 
+We find the time when the ball has traveled through a horizontal 
+displacement of 130 m: 
+ 
+ 
+ 
+x f = xi + vxit + 1
+2 axt2 →x f = xi + vxit →t = (x f – xi)/vxi
+ 
+ 
+ 
+ 
+t = 130 m −0
+34.2 m/s = 3.80 s
+
+--- PAGE 48 ---
+178     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now we find the vertical position of the ball at this time: 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 at2 = 0 + vyit −1
+2 t2
+y f = (23.9 m/s)(3.80 s) −(4.90 m/s2)(3.80 s)2 = 20.1 m
+ 
+ 
+The ball would not be high enough to have cleared the
+24.0-m-high bleachers.
+ 
+P4.68 
+At any time t, the two drops have identical y coordinates. The distance 
+between the two drops is then just twice the magnitude of the 
+horizontal displacement either drop has undergone. Therefore, 
+ 
+ 
+ 
+d = 2 x t( ) = 2 vxit
+(
+) = 2 vi cosθi
+(
+)t = 2vit cosθi 
+P4.69 
+(a) 
+The Moon’s gravitational acceleration is the probe’s centripetal 
+acceleration: (For the Moon’s radius, see end papers of text.) 
+ 
+ 
+ 
+a = v2
+r
+1
+6 9.80 m s2
+(
+) =
+v2
+1.74 × 106 m
+v =
+2.84 × 106 m2 s2 = 1.69 km s
+ 
+ 
+(b) The time interval can be found from 
+ 
+ 
+ 
+v = 2πr
+T
+T = 2πr
+v
+=
+2π 1.74 × 106 m
+(
+)
+1.69 × 103 m s
+= 6.47 × 103 s = 1.80 h
+ 
+P4.70 
+(a) 
+The length of the cord is given as r = 1.00 m. At the positions with 
+θ = 90.0° and 270°,  
+ 
+ 
+ 
+ac = v2
+r = 5.00 m s
+(
+)
+2
+1.00 m
+= 25.0m s2 
+ 
+(b) The tangential acceleration is only the 
+acceleration due to gravity, 
+ 
+at = g = 9.80 m s2 
+ 
+(c) 
+See ANS. FIG. P4.70. 
+ANS. FIG. P4.70
+
+--- PAGE 49 ---
+Chapter 4     179 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The magnitude and direction of the total acceleration at these 
+positions is given by 
+ 
+ 
+ 
+a =
+ac
+2 + at
+2 =
+25.0 m s2
+(
+)
+2 + 9.80 m s2
+(
+)
+2 = 26.8 m s2
+φ = tan−1
+at
+ac
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 9.80 m s2
+25.0 m s2
+⎛
+⎝⎜
+⎞
+⎠⎟= 21.4°
+ 
+P4.71 
+We know the distance that the 
+mouse and hawk move down, 
+but to find the diving speed of 
+the hawk, we must know the 
+time interval of descent, so we 
+will solve part (c) first. If the 
+hawk and mouse both 
+maintain their original 
+horizontal velocity of 10 m/s 
+(as the mouse should without 
+air resistance), then the hawk 
+only needs to think about 
+diving straight down, but to a 
+ground-based observer, the path will appear to be a straight line 
+angled less than 90° below horizontal. 
+ 
+We begin with the simple calculation of the free-fall time interval for 
+the mouse. 
+ 
+(c) 
+The mouse falls a total vertical distance y = 200 m – 3.00 m =  
+197 m. The time interval of fall is found from (with vyi = 0) 
+ 
+ 
+ 
+y = vyit −1
+2 gt2     →     t =
+2(197 m)
+9.80 m/s2 = 6.34 s
+  
+ 
+(a) 
+To find the diving speed of the hawk, we must first calculate the 
+total distance covered from the vertical and horizontal 
+components. We already know the vertical distance y; we just 
+need the horizontal distance during the same time interval (minus 
+the 2.00-s late start). 
+ 
+ 
+ 
+x = vxi(t −2.00 s) = (10.0 m/s)(6.34 s −2.00 s) = 43.4 m 
+ 
+ 
+The total distance is  
+ 
+ 
+ 
+d =
+x2 + y2 =
+(43.4 m)2 + (197 m)2 = 202 m 
+ 
+ 
+So the hawk’s diving speed is  
+ 
+ 
+ 
+v = Δd
+Δt =
+197 m
+(
+)
+2 + 43.4 m
+(
+)
+2
+4.34 s
+= 46.5 m/s
+ 
+ANS. FIG. P4.71
+
+--- PAGE 50 ---
+180     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) at an angle below the horizontal of  
+ 
+ 
+ 
+θ = tan–1 y
+x
+⎛
+⎝⎜
+⎞
+⎠⎟= tan–1 197 m
+43.4 m
+(
+) = 77.6°
+ 
+P4.72 
+(a) 
+We find the x coordinate from x = 12t. We find the y coordinate 
+from 49t − 4.9t
+2. Then we find the projectile’s distance from the 
+origin as (x
+2 + y
+2)
+½, with these results: 
+t (s) 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+r (m) 0 
+45.7 
+82.0 
+109 
+127 
+136 
+138 
+133 
+124 
+117 
+120 
+ 
+(b) From the table, it looks like the magnitude of r is largest at a bit 
+less than 6 s.  
+ 
+ 
+The vector v tells how r is changing. If v at a particular point 
+has a component along r, then r will be increasing in magnitude 
+(if v is at an angle less than 90° from r ) or decreasing (if the 
+angle between v and r is more than 90°). To be at a maximum, 
+the distance from the origin must be momentarily staying 
+constant, and the only way this can happen is for the angle 
+between velocity and displacement to be a right angle. Then r 
+will be changing in direction at that point, but not in magnitude.  
+ 
+(c) 
+When t = 5.70 s, r = 138 m. 
+ 
+(d) 
+We can require dr2/dt = 0 = (d/dt)[(12t)2 + (49t −4.9t2)2], which
+results in the solution.
+ 
+P4.73 
+(a) 
+The time of flight must be positive. It is determined by  
+ 
+ 
+ 
+y f = yi + vyit + (1/2)ayt2 →
+0 = 1.20 + vi sin35.0°t −4.90t2 
+ 
+ 
+From the quadratic formula, and suppressing units, we find  
+ 
+ 
+ 
+t = 0.574vi +
+0.329vi
+2 + 23.52
+9.80
+ 
+ 
+ 
+Then the range follows from x = vxit + 0 = v0t as  
+ 
+ 
+ 
+x vi
+( ) = vi 0.164 3 + 0.002 299vi
+2 + 0.047 94vi
+2 
+ 
+ 
+where x is in meters and vi is in meters per second. 
+ 
+(b) Substituting vi = 0.100 gives x vi = 0.100
+(
+) = 0.041 0 m 
+ 
+(c) 
+Substituting vi = 100 gives x vi = 100
+(
+) = 961 m
+
+--- PAGE 51 ---
+Chapter 4     181 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) When vi is small, vi
+2 becomes negligible. The expression x(vi) 
+simplifies to vi
+0.164 3 + 0 + 0 = 0.405 vi . Note that this gives 
+nearly the answer to part (b). 
+ 
+(e) 
+When vi is large, vi is negligible in comparison to vi
+2. Then x(vi) 
+simplifies to 
+ 
+ 
+ 
+x vi
+( ) ≅vi 0 + 0.002 299 vi
+2 + 0.047 94 vi
+2 = 0.0959 vi
+2  
+ 
+ 
+This nearly gives the answer to part (c). 
+ 
+(f) 
+The graph of x versus vi starts from the origin as a straight
+line with slope 0.405 s. Then it curves upward above this
+tangent line, getting closer and closer to the parabola
+x = (0.095 9 s2/m)vi
+2.
+ 
+P4.74 
+The special conditions allowing use of the horizontal range equation 
+applies. For the ball thrown at 45°,  
+ 
+ 
+ 
+D = R45 = vi
+2 sin90°
+g
+ 
+ 
+ 
+ANS. FIG. P4.74 
+ 
+For the bouncing ball,  
+ 
+ 
+ 
+D = R1 + R2 = vi
+2 sin2θ
+g
++ vi 2
+(
+)
+2 sin2θ
+g
+ 
+ 
+where θ is the angle it makes with the ground when thrown and when 
+bouncing. 
+ 
+(a) 
+We require: 
+ 
+ 
+ 
+vi
+2
+g = vi
+2 sin2θ
+g
++ vi
+2 sin2θ
+4g
+sin2θ = 4
+5
+θ = 26.6°
+
+--- PAGE 52 ---
+182     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.75 
+ 
+(b) The time for any symmetric parabolic flight is given by 
+ 
+ 
+ 
+y f = vyit −1
+2 gt2
+0 = vi sinθit −1
+2 gt2
+ 
+If t = 0 is the time the ball is thrown, then t = 2vi sinθi
+g
+ is the time 
+at landing. So for the ball thrown at 45.0°: 
+ 
+ 
+ 
+t45 = 2vi sin 45.0°
+g
+ 
+ 
+ 
+For the bouncing ball, 
+ 
+ 
+ 
+t = t1 + t2 = 2vi sin26.6°
+g
++ 2 vi 2
+(
+)sin26.6°
+g
+= 3vi sin26.6°
+g
+ 
+ 
+ 
+The ratio of this time to that for no bounce is 
+ 
+ 
+ 
+3vi sin26.6° g
+2vi sin 45.0° g = 1.34
+1.41 = 0.949 
+P4.75 
+We model the bomb as a particle with 
+constant acceleration, equal to the 
+downward free-fall acceleration, from 
+the moment after release until the 
+moment before impact. After we find 
+its range it will be a right-triangle 
+problem to find the bombsight angle. 
+ 
+(a) 
+We take the origin at the point 
+under the plane at bomb release. 
+In its horizontal flight, the bomb has 
+vyi = 0 and vxi = 275 m/s. We represent the height of the plane as y. 
+Then, Δy = −1
+2 gt2;   Δx = vit 
+ 
+ 
+Combining the equations to eliminate t gives: 
+ 
+ 
+ 
+Δy = −1
+2 g
+Δx
+vi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+
+--- PAGE 53 ---
+Chapter 4     183 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From this, Δx
+(
+)
+2 =
+−2Δy
+g
+⎛
+⎝⎜
+⎞
+⎠⎟vi
+2 . Thus  
+ 
+ 
+ 
+Δx = vi
+−2Δy
+g
+= 275 m/s
+(
+)
+−2 −3 000 m
+(
+)
+9.80 m/s2
+= 6.80 × 103 m = 6.80 km
+ 
+ 
+(b) The plane has the same velocity as the bomb in the x direction. 
+Therefore, the plane will be 3 000 m directly above the bomb 
+when it hits the ground. 
+ 
+(c) 
+When φ is measured from the vertical, tanφ = Δx
+Δy ; 
+ 
+ 
+therefore, φ = tan−1 =
+Δx
+Δy
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 6 800 m
+3 000 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 66.2° . 
+P4.76 
+Equation of bank:   
+y 
+2 = 16x 
+[1] 
+ 
+Equations of motion:   x = vi t 
+[2] 
+ 
+ 
+ 
+ 
+ 
+y = −1
+2 gt2 
+[3] 
+ 
+Substitute for t from [2] into [3]: y = −1
+2 g x2
+vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. Equate y from the bank 
+equation to y from the equations of motion: 
+ 
+ 
+ 
+16x = −1
+2 g x2
+vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+⇒g2x4
+4vi
+4 −16x = x g2x3
+4vi
+4 −16
+⎛
+⎝⎜
+⎞
+⎠⎟= 0 
+ 
+From this, x = 0 or x3 = 64vi
+4
+g2 and x = 4
+104
+9.802
+⎛
+⎝⎜
+⎞
+⎠⎟
+13
+ m = 18.8 m . 
+Also, y = −1
+2 g x2
+vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −1
+2
+9.80 m/s2
+(
+) 18.8 m
+(
+)
+2
+10.0 m/s
+(
+)
+2
+= −17.3 m
+
+--- PAGE 54 ---
+184     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.77 
+The car has one acceleration while it is on 
+the slope and a different acceleration 
+when it is falling, so we must take the 
+motion apart into two different sections. 
+Our standard equations only describe a 
+chunk of motion during which 
+acceleration stays constant. We imagine 
+the acceleration to change 
+instantaneously at the brink of the cliff, 
+but the velocity and the position must be 
+the same just before point B and just after 
+point B. 
+ 
+(a) 
+From point A to point B (along the incline), the car can be 
+modeled as a particle under constant acceleration in one 
+dimension, starting from rest (vi = 0). Therefore, taking Δx to be 
+the position along the incline, 
+ 
+ 
+ 
+v f
+2 −vi
+2 = 2aΔx
+v f
+2 −0 = 2(4.00 m/s2)(50.0 m)
+v f = 20.0 m/s
+ 
+ 
+(b) We can find the elapsed time interval from  
+ 
+ 
+ 
+v f = vi + at
+20.0 m/s = 0 + 4.00 m/s2
+(
+)t
+t = 5.00 s
+ 
+ 
+(c) 
+Initial free-fall conditions give us vxi = 20.0 cos 37.0° = 16.0 m/s 
+and vyi = –20.0 sin 37.0° = –12.0 m/s.  Since ax = 0, vxf = vxi and  
+ 
+ 
+ 
+vyf = −2ayΔy + vyi
+2
+= −2 −9.80 m/s2
+(
+) −30.0 m
+(
+) + −12.0 m/s
+(
+)
+2
+= −27.1 m/s
+v f =
+vxf
+2 + vyf
+2 =
+16.0 m/s
+(
+)
+2 + −27.1 m/s
+(
+)
+2
+= 31.5 m/s at 59.4° below the horizontal
+ 
+ 
+(d) From point B to C, the time is
+  
+ 
+ 
+ 
+t1 = 5 s; t2 = vyf −vyi
+ay
+= −27.1 m/s + 12.0 m/s
+−9.80 m/s2
+= 1.53 s 
+ANS. FIG. P4.77
+
+--- PAGE 55 ---
+Chapter 4     185 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The total elapsed time interval is 
+ 
+ 
+ 
+t = t1 + t2 = 6.53 s 
+ 
+(e) 
+The horizontal distance covered is  
+ 
+ 
+ 
+Δx = vxit2 = 16.0 m/s
+(
+)(1.53 s) = 24.5 m 
+P4.78 
+(a) 
+Coyote: Δx = 1
+2 at2 →70.0 m = 1
+2 (15.0 m/s2) t2 
+ 
+ 
+Roadrunner: Δx = vxit →70.0 m = vxit 
+ 
+ 
+Solving the above, we get  
+ 
+ 
+ 
+vxi = 22.9 m/s and t = 3.06 s 
+ 
+(b) At the edge of the cliff, vxi = at = (15.0 m/s
+2)(3.06 s) = 45.8 m/s 
+ 
+ 
+Substituting Δy = –100 m into Δy = 1
+2 ayt2, we find 
+ 
+ 
+ 
+−100 m = 1
+2 −9.80 m/s2
+(
+)t2
+t = 4.52 s
+Δx = vxit + 1
+2 axt2
+= 45.8 m/s
+(
+) 4.52 s
+(
+) + 1
+2 15.0 m/s2
+(
+) 4.52 s
+(
+)
+2
+ 
+ 
+ 
+Solving, Δx = 360 m . 
+ 
+(c) 
+For the Coyote’s motion through the air, 
+ 
+ 
+ 
+vxf = vxi + axt = 45.8 m/s + 15 m/s2
+(
+)(4.52 s) = 114 m/s
+vyf = vyi + ayt = 0 −9.80 m/s2
+(
+)(4.52 s) = −44.3 m/s
+ 
+P4.79 
+(a) 
+Reference frame: Earth 
+ 
+ 
+The ice chest floats downstream 2 km in time interval ∆t, so  
+ 
+ 
+ 
+2 km = vow∆t → ∆t = 2 km/vow 
+ 
+ 
+The upstream motion of the boat is described by  
+ 
+ 
+ 
+d = (v – vow)(15 min) 
+ 
+ 
+and the downstream motion is described by  
+ 
+ 
+ 
+d + 2 km = (v – vow)(∆t – 15 min)
+
+--- PAGE 56 ---
+186     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We substitute the above expressions for ∆t and d:  
+ 
+ 
+ 
+v −vow
+(
+) 15 min
+(
+) + 2 km = v + vow
+(
+) 2 km
+vow
+−15 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+v 15 min
+(
+)−vow 15 min
+(
+)+ 2 km
+                    = v
+vow
+2 km
+(
+)+ 2 km −v 15 min
+(
+)−vow 15 min
+(
+)
+v 30 min
+(
+) = v
+vow
+2 km
+(
+)
+vow = 4.00 km h
+ 
+ 
+(b) Reference frame: water  
+ 
+ 
+After the boat travels so that it and its starting point are 2 km 
+apart, the chest enters the water, where, in the frame of the water, 
+it is motionless. The boat then travels upstream for 15 min at 
+speed v, and then downstream at the same speed, to return to the 
+same point where the chest is at rest in the water. Thus, the boat 
+travels for a total time interval of 30 min. During this same time 
+interval, the starting point approaches the chest at speed vow, 
+traveling 2 km. Thus,  
+ 
+ 
+ 
+vow =
+Δx
+Δttotal
+=
+2 km
+30 min = 4.00 km h 
+P4.80 
+Think of shaking down the mercury in an old fever thermometer. 
+Swing your hand through a circular arc, quickly reversing direction at 
+the bottom end. Suppose your hand moves through one-quarter of a 
+circle of radius 60 cm in 0.1 s. Its speed is 
+ 
+ 
+ 
+1
+4 2π
+(
+) 0.6 m
+(
+)
+0.1 s
+≈9 m s
+ 
+ 
+and its centripetal acceleration is v2
+r ≈9 m/s
+(
+)
+2
+0.6 m
+~ 102 m/s2 . 
+ 
+The tangential acceleration of stopping and reversing the motion will 
+make the total acceleration somewhat larger, but will not affect its 
+order of magnitude.
+
+--- PAGE 57 ---
+Chapter 4     187 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.81 
+Challenge Problems 
+P4.81 
+ANS. FIG. P4.81 indicates that a line 
+extending along the slope will past through 
+the end of the ramp, so we may take the  
+position of the skier as she leaves the ramp 
+to be the origin of our coordinate system.  
+ 
+(a) 
+Measured from the end of the ramp, 
+the skier lands a distance d down the 
+slope at time t: 
+ 
+ 
+ 
+Δx = vxit
+→dcos50.0° = (10.0 m/s)(cos15.0°)t
+ 
+ 
+ 
+and 
+ 
+Δy = vyit + 1
+2 gt2 →
+−dsin50.0° = (10.0 m/s)(sin15.0°)t + 1
+2 (−9.80 m/s2)t2
+ 
+ 
+ 
+Solving, d = 43.2 m and t = 2.88 s. 
+ 
+(b) Since ax = 0,  
+ 
+ 
+ 
+vxf = vxi = 10.0 m/s
+(
+)cos15.0° = 9.66 m/s
+vyf = vyi + ayt = 10.0 m/s
+(
+)sin15.0° −9.80 m/s2
+(
+)(2.88 s)
+= −25.6 m s
+ 
+ 
+(c) 
+Air resistance would ordinarily decrease the values of the range
+and landing speed. As an airfoil, she can deflect air downward
+so that the air deflects her upward. This means she can get some
+lift and increase her distance.
+ 
+P4.82 
+(a) 
+For Chris, his speed downstream is c + v, 
+while his speed upstream is c – v. 
+ 
+ 
+Therefore, the total time for Chris is  
+ 
+ 
+ 
+Δt1 =
+L
+c + v +
+L
+c −v =
+2 L c
+1−v2 c2 
+ 
+(b) Sarah must swim somewhat upstream to counteract the effect 
+from the current. As is shown in the diagram, the magnitude of 
+her cross-stream velocity is 
+c2 −v2 . 
+ANS. FIG. P4.82
+
+--- PAGE 58 ---
+188     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, the total time for Sarah is 
+ 
+ 
+ 
+Δt2 =
+2L
+c2 −v2 =
+2 L c
+1−v2 c2 
+ 
+(c) 
+Since the term 1−v2/c2
+(
+) < 1,Δt1 > Δt2, so Sarah, who swims
+cross-stream, returns first.
+ 
+*P4.83 
+Let the river flow in the x direction. 
+ 
+(a) 
+To minimize time, swim perpendicular to the banks in the y 
+direction. You are in the water for time t in Δ y = vyt,  
+ 
+ 
+ 
+t =
+80 m
+1.5 m s = 53.3 s 
+ 
+(b) The water carries you downstream by  
+ 
+ 
+ 
+Δ x = vxt = 2.50 m s
+(
+)53.3 s = 133 m 
+ 
+(c) 
+To minimize downstream drift, you should swim so that your 
+resultant velocity vs + vw is perpendicular to your swimming 
+velocity vs relative to the water. This is shown graphically in the 
+upper row of ANS. FIG. P4.83. Unlike the situations shown in 
+ANS. FIG. P4.83(a) and ANS. FIG. P4.83(b), this condition (shown 
+in ANS. FIG. P4.83(b)) maximizes the angle between the resultant 
+velocity and the shore. The angle between vs and the shore is 
+given by cosθ = 1.5 m s
+2.5 m s , θ = 53.1° . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vvs
+vvw
+vvs
+vvw
++
+vvs
+vvw
+vvs
+vvw
++
+vvs
+vvw
+vvs
+vvw
++
+vvs
+vvw
+vvs
+vvw
++
+= 2.5 m/s$i
+ANS. FIG. P4.83 
+(a) 
+(b) 
+(c) 
+(d)
+
+--- PAGE 59 ---
+Chapter 4     189 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) See ANS. FIG. P4.83(d). Now, 
+vy = vs sinθ = 1.5 m/s
+(
+)sin53.1° = 1.20 m/s 
+ 
+ 
+ 
+t = Δ y
+vy
+=
+80 m
+1.2 m s = 66.7 s
+Δ x = vxt = 2.5 m/s −1.5 m/s
+(
+)cos53.1°
+[
+] 66.7 s
+(
+) = 107 m
+ 
+P4.84 
+Measure heights above the level ground. The elevation yb of the ball 
+follows 
+ 
+ 
+ 
+yb = R + 0 −1
+2 gt2 
+ 
+with  
+x = vit   so    yb = R −gx2
+2vi
+2 . 
+ 
+(a) 
+The elevation yr of points on the rock is described by 
+ 
+ 
+ 
+yr
+2 + x2 = R2 
+ 
+ 
+We will have yb = yr at x = 0, but for all other x we require the ball 
+to be above the rock’s surface as in yb > yr. Then yb
+2 + x2 > R2: 
+ 
+ 
+ 
+R −gx2
+2vi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ x2 > R2
+R2 −gx2R
+vi
+2
++ g2x4
+4vi
+4 + x2 > R2
+g2x4
+4vi
+4 + x2 > gx2R
+vi
+2
+ 
+ 
+ 
+If this inequality is satisfied for x approaching zero, it will be true 
+for all x. If the ball’s parabolic trajectory has large enough radius 
+of curvature at the start, the ball will clear the whole rock: 
+1 > gR
+vi
+2 , so 
+ 
+ 
+ 
+vi >
+gR 
+ 
+(b) With vi =
+gR and yb = 0, we have 0 = R −gx2
+2gR 
+ 
+ 
+or x = R 2. The distance from the rock’s base is 
+ 
+ 
+ 
+x −R =
+2 −1
+(
+)R
+
+--- PAGE 60 ---
+190     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.85 
+When the bomb has fallen a vertical distance 2.15 km, it has traveled a 
+horizontal distance xf given by 
+ 
+ 
+ 
+x f =
+3.25 km
+(
+)
+2 −2.15 km
+(
+)
+2 = 2.437 km  
+ 
+The vertical displacement of the bomb is 
+ 
+ 
+ 
+y f = x f tanθi −
+gx f
+2
+2vi
+2 cos2θi
+  
+ 
+Substituting, 
+ 
+ 
+ 
+−2 150 m = 2 437 m
+(
+)tanθi −9.8 m s2
+(
+) 2 437 m
+(
+)
+2
+2 280 m s
+(
+)
+2 cos2θi
+  
+ 
+or 
+ 
+ 
+ 
+ 
+ 
+−2 150 m = 2 437 m
+(
+)tanθi −371.19 m
+(
+) 1+ tan2θi
+(
+) 
+ 
+ 
+ 
+∴tan2θi −6.565tanθi −4.792 = 0
+∴tanθi = 1
+2 6.565 ±
+6.565
+(
+)
+2 −4 1( ) −4.792
+(
+)
+(
+) = 3.283 ± 3.945
+ 
+ 
+We select the negative solution, since θi is below the horizontal. 
+ 
+ 
+ 
+∴tanθi = −0.662, θi = −33.5° 
+P4.86 
+(a) 
+The horizontal distance traveled by 
+the projectile is given by  
+ 
+ 
+ 
+x f = vxit = vi cosθi
+(
+)t
+→t =
+x f
+vi cosθi
+ 
+ 
+ 
+We substitute this into the equation  
+for the displacement in y: 
+ 
+y f = vyit −1
+2 gt2 = tanθi
+(
+) x f
+(
+) −
+g
+2vi
+2 cos2θi
+x f
+2 
+ 
+ 
+Now setting x f = dcosφ and y f = dsinφ , we have 
+ 
+ 
+ 
+dsinφ = tanθi
+(
+) dcosφ
+(
+) −
+g
+2vi
+2 cos2θi
+dcosφ
+(
+)
+2 
+ 
+ 
+Solving for d yields  
+ 
+ 
+ 
+d = 2vi
+2 cosθi sinθi cosφ −sinφ cosθi
+[
+]
+gcos2 φ
+ 
+rvi
+ANS. FIG. P4.86
+
+--- PAGE 61 ---
+Chapter 4     191 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P4.87 
+ 
+ 
+or 
+d =
+2vi
+2 cosθi sin θi −φ
+(
+)
+gcos2 φ
+ 
+ 
+(b) Setting d
+dθi
+d
+( ) = 0 leads to  
+ 
+ 
+ 
+θi = 45° + φ
+2
+ and dmax = vi
+2 1−sinφ
+(
+)
+gcos2 φ
+ 
+P4.87 
+For the smallest impact angle 
+ 
+ 
+ 
+θ = tan−1 vyf
+vxf
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+we want to minimize vyf and maximize vxf = vxi.  
+The final y component of velocity is related to  
+vyi  by vyf
+2 = vyi
+2 + 2gh, so we want to minimize vyi  
+and maximize vxi. Both are accomplished by  
+making the initial velocity horizontal. Then vxi = v, vyi = 0, and 
+vyf =
+2gh. At last, the impact angle is 
+ 
+ 
+θ = tan−1 vyf
+vxf
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+2gh
+v
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P4.88 
+We follow the steps outlined in Example 4.5, eliminating t = dcosφ
+vi cosθ to 
+find  
+ 
+ 
+ 
+vi sinθ dcosφ
+vi cosθ
+−gd2 cos2 φ
+2vi
+2 cos2θ = −dsinφ 
+ 
+Clearing the fractions gives 
+ 
+ 
+ 
+2vi
+2 cosθ sinθ cosφ −gdcos2 φ = −2vi
+2 cos2θ sinφ 
+ 
+To maximize d as a function of θ, we differentiate through with respect 
+to θ and set d
+dθ d( ) = 0: 
+ 
+ 
+ 
+2vi
+2 cosθ cosθ cosφ + 2vi
+2 sinθ −sinθ
+(
+)cosφ
+                                −g
+d
+dθ d( )
+⎡
+⎣⎢
+⎤
+⎦⎥cos2φ = −2vi
+22cosθ −sinθ
+(
+)sinφ
+
+--- PAGE 62 ---
+192     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We use the trigonometric identities from Appendix B4:  
+ 
+ 
+ 
+cos2θ = cos2θ −sin2θ  and  sin2θ = 2sinθ cosθ 
+ 
+to find  
+ 
+ 
+ 
+cosφ cos2θ = sin2θ sinφ 
+ 
+Next, sinφ
+cosφ = tanφ and cot 2θ =
+1
+tan2θ give cot 2θ = tan φ so 
+ 
+ 
+ 
+φ = 90° −2θ and θ = 45° −φ
+2
+ 
+P4.89 
+Find the highest firing angle θH for which the projectile will clear the 
+mountain peak; this will yield the range of the closest point of 
+bombardment. Next find the lowest firing angle; this will yield the 
+maximum range under these conditions if both θH and θL are > 45°,  
+x = 2 500 m, y = 1 800 m, and vi = 250 m/s. 
+ 
+ 
+ 
+y f = vyit −1
+2 gt2 = vi (sinθ)t −1
+2 gt2
+x f = vxit = vi (cosθ)t
+ 
+ 
+Thus, 
+ 
+ 
+ 
+t =
+x f
+vi cosθ
+ 
+ 
+Substitute into the expression for yf : 
+ 
+ 
+ 
+y f = vi sinθ
+(
+)
+x f
+vi cosθ −1
+2 g
+x f
+vi cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= x f tanθ −
+gx f
+2
+2vi
+2 cos2θ
+ 
+ 
+but 
+1
+cos2θ = tan2θ + 1,  so y f = x f tanθ −
+gx f
+2
+2vi
+2 tan2θ + 1
+(
+) and 
+ 
+ 
+ 
+0 =
+gx f
+2
+2vi
+2 tan2θ −x f tanθ +
+gx f
+2
+2vi
+2 + y f 
+ 
+Substitute values, use the quadratic formula, and find 
+ 
+tanθ = 3.905 or 1.197 , which gives θH = 75.6° and θL = 50.1°. 
+ 
+Range at θH
+(
+) = vi
+2 sin2θH
+g
+= 3.07 × 103 m from enemy ship 
+ 
+ 
+ 
+3.07 × 103 m −2 500 m −300 m = 270 m from shore
+
+--- PAGE 63 ---
+Chapter 4     193 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Range at θL
+(
+) = vi
+2 sin2θL
+g
+= 6.28 × 103 m from enemy ship 
+ 
+ 
+ 
+6.28 × 103 m −2 500 m −300 m = 3.48 × 103 m from shore 
+ 
+Therefore, the safe distance is < 270 m or > 3.48 × 103 m from the 
+shore. 
+ 
+ 
+ANS. FIG. P4.89
+
+--- PAGE 64 ---
+194     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P4.2 
+2.50 m/s 
+P4.4 
+(a) −5.00ω ˆi m/s ; (b)−5.00ω 2 ˆj m/s;  
+(c) 4.00 m
+(
+)ˆj+ 5.00 m
+(
+) −sinωtˆi −cosωtˆj
+(
+), 
+5.00 m
+(
+)ω −cosωˆi + sinωtˆj
+⎡⎣
+⎤⎦, 5.00 m
+(
+)ω 2 sinωtˆi + cosωˆj
+⎡⎣
+⎤⎦; (d) a circle 
+of radius 5.00 m centered at (0, 4.00 m) 
+P4.6 
+(a) 5.00tˆi + 1.50t2ˆj ; (b) 5.00ˆi + 3.00t ˆj ; (c) 10.0 m, 6.00 m; (d) 7.81 m/s 
+P4.8 
+(a) 10.0 ˆi + 0.241 ˆj
+(
+) mm; (b) 1.84 × 107 m/s
+(
+)ˆi + 8.78 × 105 m/s
+(
+)ˆj ;  
+(c) 1.85 × 107 m/s; (d) 2.73° 
+P4.10 
+(a) v f = (3.45 −1.79t)ˆi + 2.89 −0.650t
+(
+)ˆj;  
+(b) rf = (−25.3 + 3.45t −0.893t2)ˆi + 28.9 + 2.89t −0.325t2
+(
+)ˆj   
+P4.12 
+0.600 m/s2 
+P4.14 
+(a) vxi = d
+g
+2h
+, (b) The direction of the mug’s velocity is tan
+−1(2h/d) 
+below the horizontal. 
+P4.16 
+x = 7.23 × 10
+3 m, y = 1.68 × 10
+3 m 
+P4.18 
+(a) 76.0°, (b) Rmax = 2.13R, (c) the same on every planet 
+P4.20 
+(a) 22.6 m; (b) 52.3 m; (c) 1.18 s 
+P4.22 
+(a) there is; (b) 0.491 m/s 
+P4.24 
+(a) 0.852 s; (b) 3.29 m/s; (c) 4.03 m/s; (d) 50.8°; (e) t = 1.12 s 
+P4.26 
+(a) (0, 0.840 m); (b) 11.2 m/s at 18.5°; (c) 8.94 m 
+P4.28 
+(a) t = vi sinθ/g; (b) hmax = h + vi sinθ
+(
+)
+2
+2g
+ 
+P4.30 
+(a) 28.2 m/s; (b) 4.07 s; (c) the required initial velocity will increase, the 
+total time of flight will increase 
+P4.32 
+(a) 41.7 m/s; (b) 3.81 s; (c) vx = 34.1 m/s, vy = −13.4 m/s, v = 36.7 m/s  
+P4.24 
+0.033 7 m/s
+2 directed toward the center of Earth 
+P4.36 
+10.5 m/s, 219 m/s2 inward 
+P4.38 
+(a) 6.00 rev/s; (b) 1.52 × 10
+3 m/s
+2; (c) 1.28 × 10
+3 m/s
+2
+
+--- PAGE 65 ---
+Chapter 4     195 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.40 
+(a) 13.0 m/s
+2; (b) 5.70 m/s; (c) 7.50 m/s
+2 
+P4.42 
+(a) See ANS. FIG. P4.42; (b) 29.7 m/s
+2; (c) 6.67 m/s tangent to the circle 
+P4.44 
+153 km/h at 11.3° north of west 
+P4.46 
+(a) Δtwoman = L
+v1
+; (b) Δtman =
+L
+v1 + v2
+; (c) Δtman =
+L
+v1 + 2v2
+  
+P4.48 
+(a) 57.7 km/h at 60.0° west of vertical; (b) 28.9 km/h downward 
+P4.50 
+(a) 2.02 × 10
+3 s; (b) 1.67 × 10
+3 s; (c) Swimming with the current does not 
+compensate for the time lost swimming against the current. 
+P4.52 
+27.7° E of N 
+P4.54 
+(a) straight up, at 0° to the vertical; (b) 8.25 m/s; (c) a straight up and 
+down line; (d) a symmetric parabola opening downward; (e) 12.6 m/s 
+north at tan
+−1(8.25/9.5) = 41.0° above the horizontal 
+P4.56 
+(a) 2
+R
+3g ; (b) 1
+2
+3gR ; (c) 
+gR
+3
+; (d) 
+13gR
+12
+; (e) 33.7°; (f) 13
+24 R ;  
+(g) 13
+12 R 
+P4.58 
+(a) 5ˆi + 4t3/2ˆj; (b) 5tˆi + 1.6t5/2ˆj  
+P4.60 
+(a) 9.80 m/s
+2, downward; (b) 10.7 m/s 
+P4.62 
+(a) t =
+2h
+g ; (b) vxi = d
+g
+2h ; (c) v f =
+vxf
+2 + vyf
+2 =
+d2g
+2h
+⎛
+⎝⎜
+⎞
+⎠⎟+ 2gh
+(
+) ; 
+(d) θ f = tan−1 2h
+d
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P4.64 
+68.8 km/h 
+P4.66 
+22.4° or 89.4° 
+P4.68 
+2vitcosθi 
+P4.70 
+(a) 25.0 m/s
+2; (b) 9.80 m/s
+2; (c) See ANS. FIG. P4.70; (d) 26.8 m/s
+2, 21.4° 
+P4.72 
+(a) See table in P4.72(a); (b) From the table, it looks like the magnitude 
+of r is largest at a bit less than 6 s; (c) 138 m; (d) We can require 
+dr2/dt = 0 = (d/dt)[(12t)2 + (49t −4.9t2)2] , which results in the solution. 
+P4.74 
+(a) θ = 26.6°; (b) 0.949 
+P4.76 
+18.8 m, −17.3 m 
+P4.78 
+(a) 22.9 m/s and 3.06 s; (b) 360 m; (c) 114 m/s, −44.3 m/s
+
+--- PAGE 66 ---
+196     Motion in Two Dimensions 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P4.80 
+~10
+2 m/s
+2 
+P4.82 
+(a) Δt1 =
+L
+c + v +
+L
+c −v =
+2L/c
+1−v2 /c2 ; (b) Δt2 =
+2L
+c2 −v2 =
+2L/c
+1−v2 /c2 ;  
+(c) Sarah, who swims cross-stream, returns first 
+P4.84 
+(a) vi >
+gR ; (b) x −R =
+2 −1
+(
+)R 
+P4.86 
+(a) See P4.86a for derivation; (b) dmax = 45° + φ
+2 , θi = vi
+2 1−sinφ
+(
+)
+gcos2φ
+  
+P4.88 
+See P4.88 for complete derivation.

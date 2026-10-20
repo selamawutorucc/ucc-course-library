@@ -1,0 +1,638 @@
+
+--- PAGE 1 ---
+Physics 1140 
+Lab M1: The Simple Pendulum 
+Introduction.  
+The simple pendulum is a favorite introductory exercise because Galileo's experiments on 
+pendulums in the early 1600s are usually regarded as the beginning of experimental 
+physics. Our experiment may be similar to one you have done in high school, however, 
+the mathematical analysis will be more sophisticated. You will need to familiarize 
+yourself (again) with radian measure and trigonometric functions, take derivatives of 
+trigonometric functions in the prelab exercise, and apply the error analysis being presented 
+in lecture. In part I you will find the acceleration of gravity and analyze the error in your 
+measurements. In part II you will take data for your first plot using Mathcad, and in part 
+III your data will illustrate why a small angle is used in part I.  
+Theory 
+A simple pendulum consists of a mass m hanging at the end of a string of length L. The 
+period of a pendulum or any oscillatory motion is the time required for one complete 
+cycle, that is, the time to go back and forth once. If the amplitude of motion of the 
+swinging pendulum is small, then the pendulum behaves approximately as a simple 
+harmonic oscillator, and the period T of the pendulum is given approximately by  
+   
+(1)        
+L
+T
+2
+g
+=
+π
+       
+ where g is the acceleration of gravity. This expression for T becomes exact in the limit of 
+zero amplitude motion and is less and less accurate as the amplitude of the motion 
+becomes larger. From this expression, we can use measurements of T and L to compute g.  
+Let us review simple harmonic motion to see where eq'n (1) comes from. Recall that 
+simple harmonic motion occurs whenever there is a restoring force which is proportional 
+the displacement from equilibrium. The simplest example of simple harmonic motion is 
+that of a mass m on a spring which obeys Hooke's Law,  
+(2)            Frestore =  Fspring  =  – k x   
+   
+where x is the displacement from equilibrium and k is 
+a constant called the spring constant. From Newton's 
+Second Law, Fnet = ma , we can 
+write   
+2
+2
+d x
+m
+k
+dt
+= −x ,  or  
+Spring 2005 
+M1.1
+
+--- PAGE 2 ---
+Physics 1140 
+ (3)      
+2
+2
+d x
+k x
+dt
+m
+= −
+       .  
+ This is a second-order linear differential equation − "second-order" meaning that the 
+equation involves a second derivative, and "linear" meaning that it contains no non-linear 
+x-terms such as x2 or sin(x). The solution to equation (3) is  
+ 
+(4)           x t
+,   where  
+A
+t
+( )
+sin(
+)
+=
+ω + φ
+k
+m
+ω =
+ .  
+The constant A is the amplitude of the motion; the position x oscillates between -A and 
++A. The constant φ is called the phase constant. A and φ depend on the initial conditions, 
+that is, the position and velocity at time t=0. The period T is related to ω by  
+(5)       
+2
+T
+π
+ω =
+  .  
+Now consider the simple pendulum — a mass m hanging on a string of length L. We can 
+describe the displacement from equilibrium of the mass m either with the distance along a 
+curved x-axis or with angle θ of the string from the vertical. The distance x is related to 
+the angle θ by x = Lθ, where θ is in radians.  
+ 
+   
+There are two forces on the mass m: the force of gravity, mg, and the tension in the string, 
+Fstring. The tension Fstring has no component along our curved x-axis, while gravity has a 
+component along the x-axis equal to −mg sin θ. The minus sign indicates that the direction 
+(sign) of the force is toward the origin, always opposite to the direction (sign) of x and θ. 
+If θ is very small and expressed in radians, then sin θ is about equal to θ , and we have, 
+approximately,  
+Spring 2005 
+M1.2
+
+--- PAGE 3 ---
+Physics 1140 
+ (6)       
+restore
+mg
+F
+mg
+L
+≈−
+θ = −
+x ,  
+ and, using F = ma, we have  
+(7)          
+2
+2
+2
+2
+d x
+mg
+d x
+g
+m
+x
+dt
+L
+dt
+L
+,
+.
+= −
+= −
+x     
+   
+In this special case of small x or θ , the restoring force is proportional to the displacement 
+x, and we have a simple harmonic oscillator whose equation of motion is just like eq'n (3) 
+except we have replaced the constant k/m with another constant g/L. The solution to 
+equation (7) is exactly like the solution to eq’n (3) except we replace k/m with g/L. So, by 
+looking at eq’n (4), we have, for a simple pendulum  
+ (8)        
+2
+L
+T
+g
+π
+ω =
+=
+ .  
+Solving for T gives us eq’n (1). We emphasize that this expression is true in the limit of 
+small amplitude motion (small θ , small x). Note that, according to eq’n (1), the period is 
+independent of both the mass m and the amplitude A.  
+If we do not assume that θ is small so we cannot make the simplifying assumption  
+sin θ ≅ θ  , then the restoring force is  
+(9)         Frestore =   – m g sinθ ,  
+and the equation of motion becomes  
+ (10)       
+2
+2
+2
+2
+d
+d
+m L
+mg
+dt
+dt
+L
+sin
+,
+sin .
+θ
+θ
+= −
+θ
+= −
+θ
+g
+    
+In this case, we have a non-linear differential equation, which is quite difficult to solve. In 
+this more complicated case, the period T still does not depend on m (since m does not 
+appear in the equation of motion, it cannot appear in the solution); however, the period T 
+does depend on the amplitude of motion. We will use the symbol θo for the amplitude, or 
+maximum value, of θ . The exact solution for the period T can be written as a infinite 
+power series in θo, and the first three terms of the solution are  
+(11)        
+2
+4
+0
+0
+L
+1
+11
+T
+2
+1
+g
+16
+3072
+⎛
+⎞
+=
+π
++
+θ
++
+θ
++
+⎜
+⎟
+⎝
+⎠
+" .  
+(The terms beyond the first three are quite small and can almost always be ignored.) In 
+this expression, the angle θo must be in radians, not degrees. Note that this expression 
+reduces to eq'n (1) in the limit of small angle θo.  
+Spring 2005 
+M1.3
+
+--- PAGE 4 ---
+Physics 1140 
+Experimental Procedure.  
+In this lab, we will use a photogate timer to make very precise measurements of the period 
+T of a simple pendulum as function of the length L and the amplitude θo. A photogate 
+consists of an infra-red diode, called the source diode, which emits an invisible infra-red 
+light beam. This beam is detected by another diode, the detector diode. When the mass m 
+passes between the source and the detector, the infra-red light beam is interrupted, 
+producing an electronic signal that is used to start or stop an electronic timer. In "period 
+mode", the timer starts when the mass first passes through the gate, and does not stop until 
+the mass passes through the gate a third time, as shown below. Thus the timer measures 
+one complete period of the pendulum. Our timers are quite precise and read to 10-4s = 
+0.1 ms. Pressing the "reset" button sets the timer to zero and readies the timer for another 
+measurement. Check that the timer is working properly by passing a pencil three times 
+through the photogate. The timer should start on the first pass, ignore the second pass, and 
+stop on the third pass.  
+ 
+Spring 2005 
+M1.4
+
+--- PAGE 5 ---
+Physics 1140 
+ When making measurements, begin by positioning the photogate so that the mass is 
+directly between the diodes when it hangs straight down. Then, after pulling the mass to 
+ 
+made by 
+le it is swinging so that it does not drift into a 
+collision with the delicate and expensive photogate.  
+ing is suspended over a support rod that 
+make measurements with 5 or 
+asure 
+m the top of the mass to the pivot 
+ht 
+ring and measure the length L as described 
+is longer than 1 meter, use a 2-meter stick. If you are 
+s a good idea for 
+easure L independently and 
+stimate and record the uncertainty δL in the length L.  
+ 
+h swing). Make three measurements of the period T. Your "best" 
+the side, release it carefully so that it swings through the photogate without a collision. 
+Allow the mass to swing back and forth a few times before making
+measurements to allow for any wobble to settle out. After the mass 
+is set swinging, several measurements of T can be quickly 
+simply pressing the reset button while the mass is still swinging. 
+You should not stop the mass and restart it after each measurement, 
+since this will introduce unnecessary wobble. Always keep an eye 
+on the pendulum whi
+In your pendulum, the str
+turns freely on its axis. You will 
+more strings of varying length from about 40 cm to 120 cm. The 
+length L of the pendulum is the distance from the center of the mass 
+m to the pivot point, which the center of the top axle. To me
+L, first measure the distance λ fro
+point; then measure the height h of the mass. L = λ + h/2. You 
+should only measure λ with the mass suspended, since the weig
+of the mass stretches the string somewhat.  
+   
+Part 1. Precision determination of g.  
+Choose the longest st
+above. Since the longest string 
+working with a partner, it'
+both of you to m
+then compare answers. E
+Now measure the period T. Begin by positioning the photogate carefully and set the mass
+swinging with a very small amplitude (a few degrees, just enough to pass completely 
+through the photogate eac
+value for T will be the middle of your three measurements. For your uncertainty δT, use 
+half the difference between the highest and lowest measurement.  
+Compute g from eq’n (1) using your measured values of L and T. Using Mathcad, 
+compute δg, the uncertainty in g, which is  
+ (12)         
+2
+2
+g
+L
+T
+2
+g
+L
+T
+δ
+δ
+δ
+⎛
+⎞
+⎛
+⎞
+=
++
+⎜
+⎟
+be 
+ lectures.   
+⎜
+⎟
+⎝
+⎠
+⎝
+⎠
+.  
+We don’t expect you to understand where this expression comes from just yet. It will 
+covered in the
+Spring 2005 
+M1.5
+
+--- PAGE 6 ---
+Physics 1140 
+Report your final answer in the standard format: g + δg, with units, being careful n
+to put more significant figures than you are sure of.  (Write the final res
+ot 
+ult using a 
+text box because Mathcad will almost surely give too many significant figures for δg.)  
+Calculate  ∆g = g – g_known, the difference between your answer and g_known  = 9.796 
+m/s2, a value obtained in a more precise way than we can achieve in the lab.  How does 
+this difference ∆g compare with the error δg that you calculated?  Discuss the largest 
+s of systematic error which might explain the 
+ment should have a definition like:  
+contribution to the uncertainty in your result and how this might be reduced.  Compare 
+your measured g with gknown = 9.796 m/s2. If your gmeas and gknown do not agree within the 
+uncertainty δg, suggest possible source
+discrepancy. 
+NOTE: In Mathcad, you cannot define an expression like δg/g ; you can only define a 
+variable like δg. So, your Mathcad docu
+   
+2
+2
+L
+T
+g
+g
+2
+L
+T
+:
+δ
+δ
+⎛
+⎞
+defined 
+ncertainty due to random measurement errors only. 
+It does not take account of any possible systematic errors.  
+ur 
+just cut some more string from the ball 
+, pick a different fifth length. 
+e lengths. Keep the amplitude of motion very 
+⎛
+⎞
+δ
+=
+⋅
++
+⋅
+⎜
+⎟
+⎜
+⎟
+⎝
+⎠
+⎝
+⎠
+.  
+And remember: all the variables used in the definition (g, L, T,  δL, δT) have to be 
+previously in the Mathcad document.  
+Eq’n (12) is the best estimate of the u
+Part 2. Dependence of T on L.  
+There should be 5 strings with approximate lengths of 40, 60, 80, 100, and 120 cm. If yo
+apparatus is missing some of these lengths, 
+provided. If your apparatus is not tall enough for 120 cm
+Measure the period T for each of the fiv
+small, so that eq’n (1) is approximately correct. By pressing the reset button several times 
+mass is swinging, observe the period for several trials. By looking at the 
+or many tria
+stimate the average value of the period and its uncertainty. (Do 
+not record all the trials and do not compute the average - that is too time-consuming. We 
+ngth in accord with eq’n (1). First, using 
+while the 
+numbers f
+ls, e
+want you to observe and estimate.)  
+Now we shall see whether your data vary with le
+Mathcad make a plot of T vs. L (using small circles or squares for your data) and note that 
+T does not vary linearly with L. [Side comment: a graph of "A vs. B" means A on the y-
+axis and B on the x-axis: Y vs. X, always. ]
+Squaring both sides of eq’n (1) yields  
+Spring 2005 
+M1.6
+
+--- PAGE 7 ---
+Physics 1140 
+ (13)       
+2
+2
+4
+T
+L
+π
+=
+  .  
+g
+So, if this equation is correct, then a graph of T2 vs. L should be a straight line with 
+d 
+slope 4π2/g.  
+Using Mathcad, make a plot of (T2)i vs. Li that shows your data as points NOT connecte
+by a line.  On the plot of T2 vs. L, also plot the straight line y(L) = m·L, where the slope  
+m = 4π2/g. Use the known value of g = 9.796 m/s2. The theory line should be plotted 
+without points to avoid confusion of these points with your data points.  
+[It is NOT necessary to repeat the error analysis done in part 1 above for each length of 
+Dependence of T on amplitude.  
+Notice that the Mathcad Primer shows, step by step, all the analysis for this section.  
+string.] 
+Part 3. 
+Using the string which is nearest to 1 meter in length, measure the period T as a functi
+of the maximum angle θ 
+on 
+ached to 
+the pendulum rig. Measure T for several angles, from about 5o up to about 70o or so, at 
+tervals of about 5o. (Avoid angles larger than 70o, simply for safety’s sake.) Be 
+extremely careful to avoid collisions with the photogate. You need not take multiple trials 
+at each angle; one good measurement at each angle is enough. Convert your angles from 
+degrees to radians and then make a graph of T(θo) vs. θo (in radians). Don't forget to let o 
+= 1,2,...N where you define N. On the same graph, plot the eq’n (11)  
+ 
+(11)       
+o. Measure the angle θ o using the protractor which is att
+in
+2
+4
+0
+0
+L
+1
+11
+T
+2
+1
+g
+16
+3072
+⎡
+⎤
+=
+π
++
+θ
++
+θ
+⎢
+⎥
+⎣
+⎦
+  ,  
+using your measured value of L and the known value of g. Theory and experiment should 
+agree pretty closely. Comment on any discrepancy. For example, is the error random 
+(some points too high and some too low) or systematic (all points high or low).  
+  
+Spring 2005 
+M1.7
+
+--- PAGE 8 ---
+Physics 1140 
+Pre-lab Questions    
+To be handed in at the beginning of your lab session.  Please read this lab handout 
+carefully before attempting to answer these questions.   
+ 
+1. In part 1, when we measure the acceleration of gravity g, why is it important to keep 
+the amplitude of the swinging pendulum small? 
+ 
+ 
+ 
+2. What condition or conditions are required for simple harmonic motion to occur? 
+ 
+ 
+ 
+ 
+3. Demonstrate that the solution of eq’n (3) is given by eq’n (4).  Do this simply by 
+inserting eq’n (4) into eq’n(3) and checking that an equality is obtained.  As an 
+example,  consider the differential equation d x
+dt
+C dx
+dt
+2
+2 = −
+⋅
+, where C is a constant.   
+The solution of this equation is x t
+Ae
+B
+Ct
+( ) =
++
+−
+, where A and  B are constants.  To 
+check that this is indeed the solution, first do the derivatives that appear in the 
+equation: dx
+dt
+A Ce Ct
+= −
+⋅
+−
+ and d x
+dt
+A C e Ct
+2
+2
+2
+= +
+⋅
+−
+.   Then plug into the equation to 
+check for an equality: 
+ 
+d x
+dt
+C dx
+dt
+2
+2
+=
+−
+⋅
+?
+ 
+ 
+ 
+ 
+(It works!) 
++
+⋅
+=
+−
+⋅−
+⋅
+−
+A C e
+C
+A Ce
+Ct
+Ct
+2
+?
+(
+−
+)
+ 
+ 
+ 
+ 
+ 
+4. (a) What is the definition of the slope of a line?  (b) Sketch a graph of  T2 vs. L for a 
+simple pendulum with a very small amplitude of motion [no numbers on the graph!, 
+just a qualitative sketch] (c) What is the slope of the line in part (b) ? (d) If your graph 
+had numbers with SI units, what would be the units of the slope of the line. 
+ 
+ 
+ 
+5. Suppose you have a simple pendulum consisting of a mass m at the end of a massless 
+string of length L.  What would happen to the period T of the pendulum if you doubled 
+the mass m?   
+ 
+Spring 2005 
+M1.8
+
+--- PAGE 9 ---
+Physics 1140 
+6. What is the definition of  angular measure in radians?  Using the definition, show that 
+there are π radians in 180o.  [Hint: the statement “π radians = 180o” is a conversion 
+factor, not a definition.  Look up the definition in your physics book.] 
+ 
+ 
+ 
+7.  What is the fractional increase in the period T of a simple pendulum when the 
+maximum angle θo is increased from an extremely small angle (much less than 1o) to 
+(a)  5o,  (b) 70o ?  
+[Hint: think about whether to use degrees or radians in your calculations.]   
+[Note: If T increases from 1.213 sec to 1.229 sec, the fractional increase is  
+∆T
+T =
+−
+=
+1229
+1213
+1213
+0 013
+.
+.
+.
+.
+.  The percentage increase is 1.3%.] 
+ 
+ 
+ 
+8. Sketch a graph of T vs. amplitude θo for a simple pendulum.   (No numbers on this 
+graph!  Just make a clear, qualitative sketch showing what the graph looks like.) 
+ 
+ 
+ 
+9. (Counts as 2 questions) In an experiment with a simple pendulum, the following 
+measurements are recorded: 
+.   (a) Based 
+on these measurements, what is the value of g and what is the value of δg, the 
+uncertainty in g?    (b) What would be the value of δg if we ignored the small 
+uncertainty in T?  [Remember to show all your work and to give final answers with the 
+appropriate number of significant figures.]  [Hint:  in your calculations, should L be in 
+cm or m?] 
+L
+.
+. cm, T=2.1090
+0.0009 sec
+=
+±
+±
+110 5
+0 4
+ 
+Spring 2005 
+M1.9

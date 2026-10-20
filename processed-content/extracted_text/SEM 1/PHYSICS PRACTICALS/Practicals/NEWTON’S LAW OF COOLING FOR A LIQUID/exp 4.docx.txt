@@ -1,0 +1,103 @@
+Mohammed Najat H.
+SM/SMS/08/0032
+EXPERIMENT 4 
+  10/10/08
+             TITLE: AN EXPERIMENT ON NEWTON’S LAW OF COOLING FOR A LIQUID. 
+              AIM: To verify the Newton’s law of cooling for a liquid (water).
+           APPARATUS: Stop-watch (1.0s), two thermometers (1C), calorimeter with fitting lid bored with two holes, stirrer, beaker, stand, and clamp
+           DIAGRAM:
+THEORY: Newton’s law of cooling states that for a small difference of temperature between a body and its     surroundings, the rate of gain or loss of heat by the body is proportional to the difference in temperature between the body and the surroundings. This law holds only within a small range of temperature. If a given mass of liquid is heated and allowed to cool in an enclosure at a lower temperature, the rate of cooling of the liquid depends on:
+its temperature
+The temperature of enclosure
+The area of the exposed surface
+The nature and extent of the surface of the containing vessel.
+Therefore;
+                  α (θ-θο)
+                  =k (θ-θο)
+METHOD:
+The liquid (water) was heated in a beaker to a temperature of 90 on a stove. The water was poured into the calorimeter from the beaker to within centimeter of the top and closed with the lid.  The thermometer and stirrer were put in position inside the calorimeter. The second thermometer was made to stand near the calorimeter and the temperature of the surroundings recorded. The various temperatures indicated on the thermometer were determined and recorded at minute intervals down to 35 as the cooling liquid was well stirred all the time. At the end of the experiment, the temperature of the surroundings again was measured using the thermometer. The results were then recorded in a table.
+Initial temperature of surroundings=29oC
+Final temperature of surroundings = 31oC
+Average temperature of surroundings, θo= 29 + 31
+					                  2
+					          = 30.0oC
+Table 2: Table of slope against (Θ- Θo) oC
+	Graph of Temperature (oC) against Time (minutes)
+	Graph of Slope against (θ- θo)oC
+DISCUSSION:
+ From the readings taken, it was observed that from time 0 to 53, the temperature started reducing by 3 then 2and finally1 with some of the values repeating themselves. Thus the nature of the curve was in a descending form with negative slopes showing that the temperature of the water was reducing with increasing time. From the table and graph showing the slope against (θ- θo)oC   it is seen that the graph gives an almost straight line indicating that the rate of loss of heat is proportional to the excess temperature at any instant. However it was not exactly straight due to sources of error such as presence of impurities and large hole in lid of calorimeter.
+          SOURCES OF ERROR: 
+The holes in the calorimeter lid were quite big for the thermometer and so affected results.
+Water was impure hence affecting cooling rate 
+Heat loss in the transfer of hot water from beaker to calorimeter
+Some of the heat was lost to the stirrer
+       PRECAUTIONS:
+It was ensured that the water was stirred carefully and continuously in order to ensure uniform distribution of heat and rapid cooling in the water.
+It was ensured that the water boiled to the temperature required (90) and then transferred quickly into the calorimeter to prevent heat loss.
+The calorimeter was placed on a bad conductor to prevent heat transfer
+        CONCLUSION: 
+          From the experiment results it can be                                                    
+       Concluded   that for a small difference of temperature between a body and its     surroundings, the rate of gain or loss of heat by the body is proportional to the difference in temperature between the body and the surroundings within a small range of temperature, α (θ-θο). The straight line graph shows that the rate of loss of is proportional to the excess temperature at any instant hence Newton’s law has been verified 
+REFERENCES
+Nelkon and Parker, Advanced Level Physics:7th Edition.
+Table of results of temperature against time  | Table of results of temperature against time 
+Time/s | Temperature/
+0 | 90
+1 | 87
+2 | 84
+3 | 82
+4 | 79
+5 | 77
+6 | 75
+7 | 73
+8 | 72
+9 | 71
+10 | 70
+11 | 69
+12 | 67
+13 | 65
+14 | 63
+15 | 62
+16 | 60
+17 | 59
+18 | 58
+19 | 57
+20 | 56
+21 | 55
+22 | 54
+23 | 53
+24 | 52
+25 | 51
+26 | 50
+27 | 49
+28 | 47
+29 | 46
+30 | 45
+31 | 45
+32 | 44
+35 | 43
+36 | 42
+37 | 42
+38 | 41
+39 | 41
+40 | 40
+41 | 40
+42 | 40
+43 | 39
+44 | 39
+45 | 38
+46 | 38
+47 | 37
+48 | 37
+49 | 37
+50 | 36
+51 | 36
+52 | 36
+53 | 35
+Slope (oC/min) | Θ (oC) | (Θ- Θo) oC
+2.17 | 84.0 | 54.0
+1.90 | 77.0 | 47.0
+1.17 | 62.0 | 32.0
+1.20 | 56.0 | 26.0
+0.88 | 45.0 | 15.0
+0.50 | 40.0 | 10.0

@@ -1,0 +1,4005 @@
+
+--- PAGE 1 ---
+854 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+16 
+Wave Motion 
+ 
+CHAPTER OUTLINE 
+ 
+16.1  
+Propagation of a Disturbance 
+16.2  
+Analysis Model: Traveling Wave 
+16.3  
+The Speed of Transverse Waves on Strings 
+16.4  
+Reflection and Transmission 
+16.5  
+Rate of Energy Transfer by Sinusoidal Waves on Strings 
+16.6  
+The Linear Wave Equation 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ16.1 
+(i) 
+Answer (a). As the wave passes from the massive string to the 
+less massive string, the wave speed will increase according to 
+v =
+T
+µ .
+ 
+ 
+(ii) Answer (c). The frequency will remain unchanged. The rate at 
+which crests come up to the boundary is the same rate at which 
+they leave the boundary. 
+ 
+(iii) Answer (a). Since v = f λ, the wavelength must increase. 
+OQ16.2 
+(i) 
+Answer (a). Higher tension makes wave speed higher. 
+ 
+(ii) Answer (b). Greater linear density makes the wave move more 
+slowly. 
+OQ16.3 
+(i) 
+The ranking is (c) = (d) > (e) > (b) > (a). Look at the coefficients 
+of the sine and cosine functions: (a) 4, (b) 6, (c) 8, (d) 8, (e) 7. 
+ 
+(ii) The ranking is (c) > (a) = (b) > (d) > (e). Look at the coefficients 
+of x. Each is the wave number, 2π/λ, so the smallest k goes with
+
+--- PAGE 2 ---
+Chapter 16     855 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the largest wavelength. 
+ 
+(iii) The ranking is (e) > (d) > (a) = (b) = (c). Look at the coefficients 
+of t. The absolute value of each is the angular frequency ω = 2π f. 
+ 
+(iv) The ranking is (a) = (b) = (c) > (d) > (e). Period is the reciprocal 
+of frequency, so the ranking is the reverse of that in part (iii). 
+ 
+(v) The ranking is (c) > (a) = (b) = (d) > (e). From v = f λ = ω /k, we 
+compute the absolute value of the ratio of the coefficient of t to 
+the coefficient of x in each case: (a) 5, (b) 5, (c) 7.5, (d) 5, (e) 4. 
+OQ16.4 
+Answer (b). From v =
+T
+µ , we must increase the tension by a factor 
+of 4 to make v double. 
+OQ16.5 
+Answer (b). Wave speed is inversely proportional to the square root 
+of linear density. 
+OQ16.6 
+Answer (b). Not all waves are sinusoidal. A sinusoidal wave is a 
+wave of a single frequency. In general, a wave can be a superposition 
+of many sinusoidal waves. 
+OQ16.7 
+(a) through (d): Yes to all. The maximum element speed and the 
+wave speed are related by vy,max = ωA = 2π fA = 2πvA/λ. Thus the 
+amplitude or the wavelength of the wave can be adjusted to make 
+either vy, max or v larger. 
+OQ16.8 
+Answer (c). The power carried by a wave is proportional to its 
+frequency, wave speed, and the square of its amplitude. If the 
+frequency does not change, the amplitude is increased by a factor of 
+2. The wave speed does not change. 
+OQ16.9 
+Answer (c). The distance between two successive peaks is the 
+wavelength: λ = 2 m, and the frequency is 4 Hz. The frequency, 
+wavelength, and speed of a wave are related by the equation f λ = v. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ16.1 
+Longitudinal waves depend on the compressibility of the fluid for 
+their propagation. Transverse waves require a restoring force in 
+response to shear strain. Fluids do not have the underlying structure 
+to supply such a force. A fluid cannot support static shear. A viscous 
+fluid can temporarily be put under shear, but the higher its viscosity 
+the more quickly it converts kinetic energy into internal energy. A 
+local vibration imposed on it is strongly damped, and not a source of 
+wave propagation.
+
+--- PAGE 3 ---
+856     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ16.2 
+The type of wave you generate depends upon the direction of the 
+disturbance (vibration) you generate and the direction of its travel 
+(propagation). 
+ 
+(a) 
+To use a spring (or slinky) to create a longitudinal wave, pull a 
+few coils back and release. 
+ 
+(b) For a transverse wave, jostle the end coil side to side. 
+CQ16.3 
+It depends on from what the wave reflects. If reflecting from a less 
+dense string, the reflected part of the wave will be right side up. A 
+wave inverts when it reflects off a medium in which the wave speed 
+is smaller. 
+CQ16.4 
+The speed of a wave on a “massless” string would be infinite! 
+CQ16.5 
+Since the frequency is 3 cycles per second, the period is 1/3 second = 
+333 ms. 
+CQ16.6 
+(a) and (b) Each element of the rope must support the weight of the 
+rope below it. The tension increases with height. (It increases 
+linearly, if the rope does not stretch.) Then the wave speed v =
+T
+µ 
+increases with height. 
+CQ16.7 
+As the pulse moves down the string, the elements of the string itself 
+move side to side. Since the medium—here, the string—moves 
+perpendicular to the direction of wave propagation, the wave is 
+transverse by definition. 
+CQ16.8 
+No. The vertical speed of an element will be the same on any string 
+because it depends only on frequency and amplitude:  
+ 
+ 
+ 
+vy,max = ωA = 2π fA 
+ 
+The elements of strings with different wave speeds will have the 
+same maximum vertical speed. 
+CQ16.9 
+(a) 
+Let Δt = ts −tp represent the difference in arrival times of the 
+two waves at a station at distance d = vsts = vptp from the focus. 
+Then d = Δt
+1
+vs
+−1
+vp
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+. 
+ 
+(b) Knowing the distance from the first station places the focus on a 
+sphere around it. A measurement from a second station limits it 
+to another sphere, which intersects with the first in a circle. Data 
+from a third non-collinear station will generally limit the 
+possibilities to a point.
+
+--- PAGE 4 ---
+Chapter 16     857 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 16.1 
+Propagation of a Disturbance 
+P16.1 
+The distance the waves have traveled is d = (7.80 km/s)t =  
+(4.50 km/s)(t + 17.3 s), where t is the travel time for the faster wave. 
+ 
+Then, 
+7.80 −4.50
+(
+) km s
+(
+)t = 4.50 km s
+(
+) 17.3 s
+(
+) 
+ 
+or 
+ 
+t = 4.50 km s
+(
+) 17.3 s
+(
+)
+7.80 −4.50
+(
+) km s = 23.6 s 
+ 
+and the distance is d = 7.80 km s
+(
+) 23.6 s
+(
+) = 184 km 
+P16.2 
+(a) 
+ANS. FIG. P16.2(a) shows the sketch of y(x,t) at t = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P16.2(a) 
+ 
+(b) ANS. FIG. P16.2(b) shows the sketch of y(x,t) at t = 2.00 s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P16.2(b) 
+ 
+(c) 
+The graph in ANS. FIG. P16.2(b) has the same amplitude 
+and wavelength as the graph in ANS. FIG. P16.2(a). It 
+differs just by being shifted toward larger x by 2.40 m.
+ 
+ 
+(d) 
+The wave has travelled d = vt = 2.40 m to the right.
+
+--- PAGE 5 ---
+858     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.3 
+We obtain a function of the same shape by writing  
+ 
+ 
+ 
+ 
+y x,t
+(
+) =
+6
+x −x0
+(
+)
+2 + 3
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+where the center of the pulse is at x0 = 4.50t. Thus, we have 
+ 
+ 
+ 
+ 
+y =
+6
+x −4.50t
+(
+)
+2 + 3
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+Note that for y to stay constant as t increases, x must increase by 4.50t, 
+as it should to describe the wave moving at 4.50 m/s. 
+P16.4 
+(a) 
+The longitudinal  P wave travels a shorter distance and is 
+moving faster, so it will arrive at point B first. 
+ 
+(b) The P wave that travels through the Earth must travel 
+ 
+ 
+a distance of 2Rsin30.0° = 2 6.37 × 106 m
+(
+)sin30.0° = 6.37 × 106 m 
+ 
+ 
+at a speed of 7 800 m/s. 
+ 
+ 
+Therefore, it takes ΔtP = 6.37 × 106 m
+7 800 m/s 817 s. 
+ 
+ 
+The Rayleigh wave that travels along the Earth’s surface must 
+travel a distance of  
+ 
+ 
+ 
+s = Rθ = R π
+3 rad
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.67 × 106 m 
+ 
+ 
+at a speed of 4 500 m/s. 
+ 
+ 
+Therefore, it takes ΔtS = 6.67 × 106 m
+4 500 m/s 1 482 s. 
+ 
+ 
+The time difference is ΔT = ΔtS −ΔtP = 666 s = 11.1 min. 
+ 
+ 
+ 
+Section 16.2 
+Analysis Model: Traveling Wave 
+P16.5 
+Compare the specific equation to the general form: 
+ 
+ 
+ 
+y = (0.020 0 m) sin (2.11x − 3.62t) = y = A sin (kx − ω t + φ) 
+ 
+(a) 
+A = 2.00 cm
+
+--- PAGE 6 ---
+Chapter 16     859 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+k = 2.11 rad m →λ = 2π
+k = 2.98 m 
+ 
+(c) 
+ω = 3.62 rad s →f = ω
+2π = 0.576 Hz 
+ 
+(d) 
+v = f λ = ω
+2π
+2π
+k = 3.62
+2.11 = 1.72 m s 
+P16.6 
+(a) 
+ANS. FIG. P16.6(a) shows the snapshot of a wave on a string. 
+ 
+ 
+ANS. FIG. P16.6(a) 
+ 
+(b) ANS. FIG. P16.6(b) shows the wave from part (a) one-quarter 
+period later 
+ 
+ 
+ANS. FIG. P16.6(b) 
+ 
+(c) 
+ANS. FIG. P16.6(c) shows a wave with an amplitude 1.5 times 
+larger than the wave in part (a).   
+ 
+ 
+ANS. FIG. P16.6(c) 
+ 
+(d) ANS. FIG. P16.6(d) shows a wave with wavelength 1.5 times 
+larger than the wave in part (a). 
+ 
+ 
+ANS. FIG. P16.6 (d)
+
+--- PAGE 7 ---
+860     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+ANS. FIG. P16.6(e) shows a wave with frequency 1.5 times larger 
+than the wave in part (a): The wave appears the same as in ANS. 
+FIG. P16.6(a) because this is a snapshot of a given moment. 
+ 
+ 
+ANS. FIG. P16.6(e) 
+P16.7 
+The frequency of the wave is 
+ 
+ 
+ 
+f = 40.0 vibrations
+30.0 s
+= 4
+3 Hz 
+ 
+ 
+as the wave travels 425 cm in 10.0 s, its speed is 
+ 
+ 
+ 
+v = 425 cm
+10.0 s = 42.5 cm/s
+ 
+ 
+and its wavelength is therefore 
+ 
+ 
+ 
+λ = v
+f = 42.5 cm s
+1.33 Hz = 31.9 cm = 0.319 m
+ 
+P16.8 
+Using data from the observations, we have λ = 1.20 m and  
+ 
+ 
+ 
+f = 8.00 crests
+12.0 s
+= 8.00 cycles
+12.0 s
+= 8.00
+12.0 Hz 
+ 
+Therefore, v = λ f = 1.20 m
+(
+) 8.00
+12.0 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.800 m/s . 
+P16.9 
+(a) 
+We note that sinθ = −sin −θ
+(
+) = sin −θ +π
+(
+), so the given wave 
+function can be written as  
+ 
+ 
+ 
+y x,t
+(
+) = 0.350
+(
+)sin −10πt + 3πx +π −π /4
+(
+)  
+ 
+ 
+Comparing, 10π t −3π x + π/4 = kx −ωt + φ. For constant phase, x 
+must increase as t increases, so the wave travels in the positive x 
+direction. Comparing the specific form to the general form, we 
+find that 
+ 
+ 
+ 
+v = ω
+k  = 10π
+3π  = 3.33 m/s.  
+ 
+ 
+Therefore, the velocity is 3.33ˆi
+(
+) m/s .
+
+--- PAGE 8 ---
+Chapter 16     861 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Substituting t = 0 and x = 0.100 m, we have  
+ 
+ 
+ 
+y 0.100 0
+(
+) = 0.350 m
+(
+) sin
+−0.300π + π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟= −0.054 8 m
+= −5.48 cm
+ 
+ 
+(c) 
+k = 2π
+λ = 3π:  λ = 0.667 m
+ω = 2π f = 10π:   f = 5.00 Hz 
+ 
+(d) 
+vy = ∂y
+∂t = 0.350
+(
+) 10π
+(
+) cos 10π t −3π x + π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟   
+ 
+ 
+vy, max = 10π
+(
+) 0.350
+(
+) = 11.0 m/s 
+P16.10 
+The speed of waves along this wire is 
+ 
+ 
+v = f λ = 4.00 Hz
+(
+) 60.0 cm
+(
+) = 240 cm s = 2.40 m s 
+P16.11 
+(a) 
+ω = 2π f = 2π 5.00 s−1
+(
+) = 31.4 rad s 
+ 
+(b) 
+λ = v
+f = 20.0 m/s
+5.00 s−1 = 4.00 m 
+ 
+ 
+k = 2π
+λ =
+2π
+4.00 m = 1.57 rad/m
+ 
+ 
+(c) 
+In y = A sin kx −ω t + φ
+(
+) we take A = 12.0 cm. At x = 0 and t = 0 
+we have y = 12.0 cm
+(
+) sin φ. To make this fit y = 0, we take φ = 0. 
+Then 
+ 
+ 
+y = 0.120 sin (1.57x −31.4t), where x and y are in meters and t is
+in seconds
+ 
+ 
+(d) The transverse velocity is ∂y
+∂t = −Aω cos kx −ωt
+(
+). 
+ 
+ 
+Its maximum magnitude is  
+ 
+ 
+ 
+Aω = 12.0 cm
+(
+) 31.4 rad s
+(
+) = 3.77 m s 
+ 
+(e) 
+ay =
+∂vy
+∂t = ∂
+∂t −Aω cos kx −ωt
+(
+)
+[
+] = −Aω 2 sin kx −ωt
+(
+) 
+ 
+ 
+The maximum value is Aω 2 = 0.120 m
+(
+) 31.4 s−1
+(
+)
+2 = 118 m/s2
+
+--- PAGE 9 ---
+862     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.12 
+At time t, the motion at point A, where x = 0, is  
+ 
+ 
+ 
+yA = 1.50 cm
+(
+)cos −50.3t
+(
+)  
+ 
+At point B, the motion is  
+ 
+ 
+ 
+yB = 15.0 cm
+(
+)cos 15.7xB −50.3t
+(
+) = 15.0 cm
+(
+)cos −50.3t ± π
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+which implies 
+ 
+ 
+ 
+15.7xB = 15.7 m−1
+(
+)xB = ± π
+3 
+ 
+ 
+or 
+ 
+xB = −0.066 7 m = ±6.67 cm 
+P16.13 
+(a) 
+f = v
+λ = 1.00 m s
+(
+)
+2.00 m
+= 0.500 Hz 
+ 
+(b) 
+ω = 2π f = 2π 0.500 s
+(
+) = π s = 3.14 rad s 
+ 
+(c) 
+k = 2π
+λ =
+2π
+2.00 m = π m = 3.14 rad m 
+ 
+(d) 
+y = Asin kx −ωt + φ
+(
+) becomes 
+ 
+ 
+ 
+y = 0.100sin πx −πt
+(
+) 
+ 
+(e) 
+For x = 0 the wave function requires 
+ 
+ 
+ 
+y = 0.100sin πt
+(
+) 
+ 
+(f) 
+y = 0.100sin 4.71−πt
+(
+) 
+ 
+(g) 
+vy = ∂y
+∂t = 0.100 m −3.14 s
+(
+)cos 3.14x m −3.14t s
+(
+) 
+ 
+ 
+The cosine varies between +1 and −1, so maximum 
+vy = 0.314 m s . 
+P16.14 
+(a) 
+ANS. FIG. P16.14 shows the y vs. t plot of the given wave. 
+ 
+ANS. FIG. P16.14
+
+--- PAGE 10 ---
+Chapter 16     863 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The time from one peak to the next one is 
+ 
+ 
+ 
+T = 2π
+ω =
+2π
+50.3 s−1 = 0.125 s
+ 
+ 
+(c) 
+This agrees with the period found in the example in the text. 
+P16.15 
+The wave function is given as 
+ 
+ 
+ 
+y = 0.120 m
+(
+) sin
+π
+8 x + 4π t
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(a)  We differentiate the wave function with respect to time to obtain 
+the velocity: 
+  
+v = ∂y
+∂t :   v = 0.120
+(
+) 4π
+(
+) cos
+π
+8 x + 4π t
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+v 0.200 s, 1.60 m
+(
+) = −1.51 m/s 
+ 
+(b) Differentiating the velocity function gives the acceleration: 
+ 
+ 
+ 
+a = ∂v
+∂t :   a = −0.120 m
+(
+) 4π
+(
+)
+2 sin
+π
+8 x + 4π t
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+a 0.200 s, 1.60 m
+(
+) = 0 
+ 
+(c) 
+k = π
+8 = 2π
+λ : λ = 16.0 m 
+ 
+(d) ω = 4π = 2π
+T : T = 0.500 s 
+ 
+(e) 
+v = λ
+T = 16.0 m
+0.500 s = 32.0 m s 
+P16.16 
+(a) 
+At x = 2.00 m, y = 0.100sin 1.00 −20.0t
+(
+) . Because this 
+disturbance varies sinusoidally in time, it describes simple 
+harmonic motion. 
+ 
+(b) At x = 2.00 m, compare y = 0.100sin 1.00 −20.0t
+(
+) to Acos ωt + φ
+(
+): 
+ 
+ 
+ 
+y = 0.100sin 1.00 −20.0t
+(
+) = −0.100sin 20.0t −1.00
+(
+)
+= 0.100cos(20.0t −1.00 +π)
+= 0.100cos 20.0t + 2.14
+(
+)
+ 
+ 
+ 
+so 
+ω = 20.0 rad s and  f = ω
+2π = 3.18 Hz
+
+--- PAGE 11 ---
+864     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.17 
+The wave function is:  y = 0.25 sin (0.30x − 40t) m 
+ 
+Compare this with the general expression y = A sin (kx − ω
+ t): 
+ 
+(a) 
+A = 0.250 m 
+ 
+(b) 
+ω = 40.0 rad s 
+ 
+(c) 
+k = 0.300 rad m 
+ 
+(d) 
+λ = 2π
+k =
+2π
+0.300 rad m = 20.9 m 
+ 
+(e) 
+v = f λ =
+ω
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟λ =
+40.0 rad s
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟20.9 m
+(
+) = 133 m s 
+ 
+(f) 
+The wave moves to the right, in the + x direction . 
+P16.18 
+(a) 
+ANS. FIG. P16.18(a) shows a sketch of the wave at t = 0. 
+ 
+ 
+ 
+ANS FIG. P16.18(a) 
+ 
+(b) 
+k = 2π
+λ =
+2π
+0.350 m = 18.0 rad m 
+ 
+(c) 
+T = 1
+f =
+1
+12.0/s = 0.083 3 s 
+ 
+(d) ω = 2π f = 2π 12.0 s = 75.4 rad s 
+ 
+(e) 
+v = f λ = 12.0 s
+(
+) 0.350 m
+(
+) = 4.20 m s 
+ 
+(f) 
+y = A sin kx + ωt + φ
+(
+) specializes to 
+ 
+ 
+y = 0.200 m
+(
+) sin 18.0x m + 75.4t s + φ
+(
+)
+
+--- PAGE 12 ---
+Chapter 16     865 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) At x = 0, t = 0 we require  
+ 
+ 
+ 
+−3.00 × 10−2 m = 0.200 m
+(
+) sin +φ
+(
+)
+φ = −8.63° = −0.151 rad
+  
+ 
+ 
+so 
+ 
+ 
+y x, t
+(
+) = 0.200 sin 18.0x + 75.4t −0.151
+(
+), where x and y are in
+meters and t is in seconds.
+ 
+P16.19 
+Using the traveling wave model, we can put constants with the right 
+values into y = A sin kx + ωt + φ
+(
+) to have the mathematical 
+representation of the wave. We have the same (positive) signs for both 
+kx and ωt so that a point of constant phase will be at a decreasing value 
+of x as t increases—that is, so that the wave will move to the left. 
+ 
+The amplitude is 
+A = ymax = 8.00 cm = 0.080 0 m 
+ 
+The wave number is 
+k = 2π
+λ =
+2π
+0.800 m = 2.50π m−1 
+ 
+The angular frequency is 
+ω = 2π f = 2π 3.00 s−1
+(
+) = 6.00π rad/s  
+ 
+(a) 
+In y = A sin kx +ωt +φ
+(
+), choosing φ = 0 will make it true that  
+y(0, 0) = 0. Then the wave function becomes upon substitution of 
+the constant values for this wave 
+ 
+ 
+ 
+y = 0.080 0
+(
+) sin 2.50πx + 6.00π t
+(
+)
+ 
+ 
+ 
+(b) In general, y = 0.080 0
+(
+)sin 2.50πx + 6.00πt +φ
+(
+) 
+ 
+ 
+If y(x, 0) = 0 at x = 0.100 m, we require  
+ 
+ 
+ 
+0 = 0.080 0
+(
+)sin 2.50π +φ
+(
+) 
+ 
+ 
+so we must have the phase constant be  φ = −0.250π rad. 
+ 
+ 
+ 
+Therefore, the wave function for all values of x and t is 
+ 
+ 
+y = 0.080 0 sin 2.50πx + 6.00π t −0.250π
+(
+), where x and y are in
+meters and t is in seconds.
+ 
+P16.20 
+(a) 
+Let us write the wave function as y x,t
+(
+) = Asin kx +ωt +φ
+(
+). 
+ 
+ 
+We have yi = y 0, 0
+(
+) = A sin φ = 0.020 0 m 
+ 
+ 
+and   vi = v 0, 0
+(
+) = ∂y
+∂t 0, 0
+= Aω cos φ = −2.00 m/s.
+
+--- PAGE 13 ---
+866     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Also, ω = 2π
+T =
+2π
+0.025 0 s = 80.0π s−1. 
+ 
+ 
+Use the identity sin2 φ + cos2 φ = 1 and the expressions for yi and 
+vi: 
+ 
+ 
+ 
+A sin φ
+(
+)
+2
+A2
++ Aω cos φ
+(
+)
+2
+A2ω 2
+= 1
+A sin φ
+(
+)
+2 + Aω cos φ
+(
+)
+2
+ω 2
+= A2
+A2 = yi
+2 +
+vi
+ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.020 0 m
+(
+)
+2 +
+−2.00 m/s
+80.0π s−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+A = 0.021 5 m
+ 
+ 
+(b) 
+ωyi
+vi
+= ω A sin φ
+(
+)
+ωA cos φ = tan φ →tan φ = 80.0π 0.020 0
+(
+)
+−2.00
+= −2.51 
+ 
+ 
+Your calculator’s answer φ = tan
+−1 (−2.51) = −1.19 rad is an angle 
+in the fourth quadrant with a negative sine and positive cosine, 
+just the reverse of what is required. Recall on the unit circle, an 
+angle with a negative tangent can be in either the second or 
+fourth quadrant. The sine is positive and the cosine is negative in 
+the second quadrant. The angle in the second quadrant is 
+ 
+φ = π −1.19 rad = 1.95 rad 
+ 
+(c) 
+vy, max = Aω = 0.021 5 m
+(
+) 80.0π s
+(
+) = 5.41 m/s 
+ 
+(d) 
+λ = vxT = 30.0 m s
+(
+) 0.025 0 s
+(
+) = 0.750 m 
+ 
+ 
+k = 2π
+λ =
+2π
+0.750 m = 8.38 m−1, 
+ω = 80.0π s−1 
+ 
+ 
+y x, t
+(
+) = 0.021 5
+(
+) sin 8.38x + 80.0π t + 1.95
+(
+)
+
+--- PAGE 14 ---
+Chapter 16     867 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 16.3 
+The Speed of Transverse Waves on Strings 
+P16.21 
+If the tension in the wire is T, the tensile stress is 
+ 
+ 
+stress = T
+A
+so
+T = A stress
+(
+)
+ 
+ 
+The speed of transverse waves in the wire is 
+ 
+ 
+v =
+T
+µ =
+A Stress
+(
+)
+m/L
+=
+Stress
+m/ AL =
+Stress
+m/ Volume =
+Stress
+ρ
+ 
+ 
+where ρ is the density. The maximum velocity occurs when the stress 
+is a maximum: 
+ 
+ 
+vmax =
+2.70 × 108 Pa
+7860 kg m3 = 185 m s 
+P16.22 
+The speed is given by 
+ 
+ 
+ 
+v =
+T
+µ =
+1 350 kg ⋅m s2
+5.00 × 10−3 kg m = 520 m s 
+P16.23 
+The two wave speeds can be written as 
+ 
+ 
+ 
+v1 =
+T1 µ
+and
+v2 =
+T2 µ 
+ 
+Since µ is constant, µ = T2
+v2
+2 = T1
+v1
+2 , and 
+ 
+ 
+ 
+T2 =
+v2
+v1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+T1 =
+30.0 m s
+20.0 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+6.00 N
+(
+) = 13.5 N 
+P16.24 
+(a) 
+For the first equation, 
+ 
+ 
+ 
+f  =  1
+T     →    T =  1
+f     →     T
+[ ] =  1
+f[ ]
+ =  1
+T−1  = T 
+ 
+units are seconds 
+ 
+ 
+ 
+v =  T
+µ     →    T = µv2 →     T
+[ ] =  µv2
+⎡⎣
+⎤⎦ = M
+L
+L
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ = ML
+T2
+ 
+units are newtons 
+ 
+(b) 
+The first T is period of time; the second is force of tension.
+
+--- PAGE 15 ---
+868     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.25 
+The down and back distance is 4.00 m + 4.00 m = 8.00 m. 
+ 
+The speed is then v = dtotal
+t
+= 4 8.00 m
+(
+)
+0.800 s
+= 40.0 m s =
+T
+µ . 
+ 
+Now, 
+µ = 0.200 kg
+4.00 m = 5.00 × 10−2 kg/m. 
+ 
+So   
+T = µv2 = 5.00 × 10−2 kg/m
+(
+) 40.0 m/s
+(
+)
+2 = 80.0 N . 
+P16.26 
+(a) 
+To write the equation, we determine the angular frequency and 
+wave number: 
+ 
+ 
+ 
+ω = 2π f = 2π 500 Hz
+(
+) = 3 140 rad s 
+ 
+ 
+ 
+k = ω
+v = 3 140
+196 = 16.0 m−1 
+ 
+ 
+y = 2.00 × 10−4
+(
+)sin 16.0x −3 140t
+(
+), where y and x are in meters
+and t is in seconds.
+ 
+ 
+(b) 
+v = 196 m s =
+T
+4.10 × 10−3 kg m →T = 158 N 
+P16.27 
+The total time interval is the sum of the two time intervals. 
+ 
+In each wire  
+ 
+ 
+ 
+Δt = L
+v = L µ
+T
+ 
+ 
+Let A represent the cross-sectional area of one wire. The mass of one 
+wire can be written both as m = ρV = ρAL and also as m = µL. 
+ 
+Then we have µ = ρA = πρd2
+4
+. 
+ 
+Thus, 
+Δt = L πρd2
+4T
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+For copper,  
+ 
+ 
+ 
+Δt = 20.0 m
+(
+)
+π
+( ) 8 920 kg/m3
+(
+) 1.00 × 10−3 m
+(
+)
+2
+4
+( ) 150 N
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 0.137 s
+
+--- PAGE 16 ---
+Chapter 16     869 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For steel,  
+ 
+ 
+ 
+Δt = 30.0 m
+(
+)
+π
+( ) 7 860 kg/m3
+(
+) 1.00 × 10−3 m
+(
+)
+2
+4
+( ) 150 N
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 0.192 s
+ 
+ 
+The total time interval is 0.137 + 0.192 = 0.329 s 
+P16.28 
+The tension in the string is T = mg, where g is the acceleration of 
+gravity on the Moon, about one-sixth that of Earth. From the data 
+given, what is the acceleration of gravity on the Moon? 
+ 
+The wave speed is  
+ 
+ 
+ 
+v =
+T
+µ =
+Mg
+m/L =
+MgL
+m
+= L
+t →MgL
+m
+= L2
+t2 →g = mL
+Mt2
+ 
+ 
+ 
+ 
+g = mL
+Mt2 =
+4.00 × 10−3 kg
+(
+) 1.60 m
+(
+)
+3.00 kg
+(
+) 26.1× 10−3 s
+(
+)
+2 = 3.13 m/s2
+ 
+ 
+The calculated gravitational acceleration of the Moon is almost twice 
+that of the accepted value.
+ 
+P16.29 
+(a) 
+The tension in the string is  
+ 
+ 
+ 
+F = mg = 3.00 kg
+(
+) 9.80 m s2
+(
+) = 29.4 N  
+ 
+ 
+Then, from v =
+F
+µ , the mass per unit length is 
+ 
+ 
+ 
+µ = F
+v2 =
+29.4 N
+24.0 m s
+(
+)
+2 = 0.0510 kg m 
+ 
+(b) When m = 2.00 kg, the tension is 
+ 
+ 
+ 
+F = mg = 2.00 kg
+(
+) 9.80 m s2
+(
+) = 19.6 N 
+ 
+ 
+and the speed of transverse waves in the string is 
+ 
+ 
+ 
+v =
+F
+µ =
+19.6 N
+0.0510 kg m = 19.6 m s
+
+--- PAGE 17 ---
+870     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.30 
+From the free-body diagram mg = 2T sin θ 
+ 
+ 
+ 
+T =
+mg
+2 sin θ
+ 
+ 
+The angle θ is found from  
+ 
+ 
+ 
+cos θ = 3L/8
+L/2 = 3
+4
+ 
+ 
+ 
+ 
+∴θ = 41.4° 
+ 
+(a) 
+v =
+T
+µ =
+mg
+2µsinθ
+=
+mg
+2µ sin 41.4° =
+9.80 m/s2
+2 8.00 × 10−3 kg/m
+(
+) sin 41.4°
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+m
+ 
+ 
+ 
+ 
+or 
+v = 30.4 
+(
+) m, where v is in meters per second and 
+m is in kilograms. 
+ 
+ 
+(b) 
+v = 60.0 = 30.4 m  and  m = 3.89 kg 
+P16.31 
+We use v =
+T
+µ
+ to solve for the tension: 
+ 
+ 
+ 
+T = µv2 = ρAv2 = ρπr2v2
+T = 8920 kg m3
+(
+) π
+( ) 7.50 × 10−4 m
+(
+)
+2 200 m s
+(
+)
+2
+T = 631 N
+ 
+ 
+ 
+ 
+Section 16.5 
+Rate of Energy Transfer by Sinusoidal  
+Waves on Strings 
+P16.32 
+(a) 
+As for a string wave, the rate of energy transfer is proportional to
+the square of the amplitude and to the speed. The rate of energy
+transfer stays constant because each wavefront carries constant
+energy and the frequency stays constant. As the speed drops the
+amplitude must increase.
+ 
+ANS. FIG. P16.30
+
+--- PAGE 18 ---
+Chapter 16     871 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) We write P = FvA
+2, where F is some constant. With no absorption 
+of energy, 
+ 
+ 
+ 
+ 
+FvgraniteAgranite
+2
+= FvmudfillAmudfill
+2
+Amudfill
+Agranite
+=
+vgranite
+vmudfill
+=
+vgranite
+vgranite
+25.0
+=
+25.0vgranite
+vgranite
+= 5.00 
+ 
+ 
+The amplitude increases by 5.00 times. 
+P16.33 
+We are given T = constant; we use the equation for the speed of a wave 
+on a string, v =
+T
+µ , and the power supplied to a vibrating string, 
+P = 1
+2 µω 2A2v.
+ 
+ 
+(a) 
+If L is doubled, µ is still the same, so v remains constant: therefore 
+P is constant: 1 . 
+ 
+(b) If A is doubled and ω is halved, P ∝ω2A2 remains constant: 1 . 
+ 
+(c) 
+If λ and A are doubled, the product ω2A2 ∝A2
+λ2 remains constant, 
+so 1 . 
+ 
+(d) If L and λ are halved, µ is still the same, and ω2 ∝1
+λ2 is 
+quadrupled, so P is increased by a factor of 4 . 
+P16.34 
+We will use the expression for power carried by a wave on a string. 
+The wave speed is v =
+T
+µ =
+100 N
+4.00 × 10−2 kg/m = 50.0 m/s 
+ 
+From P = 1
+2 µω 2A2v, we have 
+ 
+ 
+  
+ω 2 =
+2P
+µA2v =
+2(300 N ⋅m/s)  
+4.00 × 10–2 kg m
+(
+) 5.00 × 10–2 m
+(
+)
+2 (50.0 m s)
+ 
+ 
+Computing, 
+ 
+ 
+ 
+ 
+ω = 346 rad/s     and     f = ω
+2π = 55.1 Hz
+
+--- PAGE 19 ---
+872     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.35 
+Comparing the given wave function, y = (0.15) sin (0.80x − 50t), with 
+the general wave function, y = A sin (kx − ωt), we have k = 0.80 rad/m,  
+ω = 50 rad/s, and A = 0.15 m. 
+ 
+(a) 
+v = f λ = ω
+2π
+2π
+k
+= ω
+k
+= 50.0
+0.800
+ m s = 62.5 m s 
+ 
+(b) 
+λ = 2π
+k
+=
+2π
+0.800
+ m = 7.85 m 
+ 
+(c) 
+f = 50.0
+2π
+= 7.96 Hz 
+ 
+(d) 
+P = 1
+2
+µω2A2v = 1
+2
+12.0× 10−3
+(
+) 50.0
+(
+)
+2 0.150
+(
+)
+2 62.5
+(
+) W = 21.1 W 
+P16.36 
+The frequency and angular frequency of the wave are 
+ 
+ 
+ 
+f = v
+λ = 30.0 m/s
+0.500 s = 60.0 Hz   and   ω = 2π f = 120π rad s
+ 
+ 
+The power that is required is then 
+ 
+ 
+ 
+P = 1
+2 µω 2A2v
+= 1
+2
+0.180 kg
+3.60 m
+⎛
+⎝⎜
+⎞
+⎠⎟120π rad/s
+(
+)
+2 0.100 m
+(
+)
+2 30.0 m/s
+(
+)
+= 1.07 kW
+ 
+P16.37 
+We are given µ = 30.0 g m = 30.0 × 10−3 kg m, with 
+ 
+ 
+ 
+λ = 1.50 m
+f = 50.0 Hz:       ω = 2π f = 314 s−1
+2A = 0.150 m:    A = 7.50 × 10−2 m
+ 
+ 
+(a) 
+From y = A sin
+2π
+λ x −ωt
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+y = 0.075
+(
+) sin 4.19x −314t
+(
+) 
+ 
+(b) 
+P = 1
+2
+µω2A2v = 1
+2
+30.0× 10−3
+(
+) 314
+(
+)
+2 7.50× 10−2
+(
+)
+2
+314
+4.19
+⎛
+⎝⎜
+⎞
+⎠⎟ W     
+ 
+ 
+P = 625 W 
+ 
+ANS. FIG. P16.37
+
+--- PAGE 20 ---
+Chapter 16     873 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.38 
+Originally, 
+ 
+ 
+ 
+P0 = 1
+2
+µω2A2v
+P0 = 1
+2
+µω2A2
+T
+µ
+P0 = 1
+2
+ω2A2 Tµ
+ 
+ 
+The doubled string will have doubled mass per length. Presuming that 
+we hold tension constant, it can carry power larger by 
+2 times: 
+ 
+ 
+ 
+P =  1
+2ω 2A2 T 2µ
+(
+) =  2
+1
+2ω 2A2 Tµ
+⎛
+⎝⎜
+⎞
+⎠⎟ = 
+2P0
+ 
+P16.39 
+Comparing  
+ 
+ 
+ 
+y = 0.350sin 10πt −3πx + π
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+   
+ 
+with  
+ 
+ 
+ 
+y = Asin kx −ω t +φ
+(
+) = Asin ω t −kx −φ +π
+(
+)  
+ 
+we have  
+ 
+ 
+ 
+k = 3π m−1, ω = 10π s−1, and A = 0.350 m  
+ 
+Then, 
+ 
+ 
+ 
+ 
+v = f λ = 2π f
+(
+)
+λ
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟= ω
+k = 10π s−1
+3π m−1 = 3.33 m/s
+ 
+ 
+(a) 
+The rate of energy transport is 
+ 
+ 
+ 
+P = 1
+2 µω 2A2v
+= 1
+2 75 × 10−3 kg/m
+(
+) 10π s−1
+(
+)
+2 0.350 m
+(
+)
+2 3.33 m/s
+(
+)
+= 15.1 W
+ 
+ 
+(b) Recall that vT = λ. The energy per cycle is 
+ 
+ 
+ 
+Eλ = P T = 1
+2 µω 2A2λ
+= 1
+2 75.0 × 10−3 kg m
+(
+) 10π s−1
+(
+)
+2 0.350 m
+(
+)
+2
+2π
+3π m−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.02 J
+
+--- PAGE 21 ---
+874     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.40 
+Suppose that no energy is absorbed or carried down into the water. 
+Then a fixed amount of power is spread thinner farther away from the 
+source. It is spread over the circumference 2π r of an expanding circle. 
+The power-per-width across the wave front 
+ 
+ 
+ 
+P
+2π r 
+ 
+is proportional to amplitude squared, so amplitude is proportional to 
+ 
+ 
+ 
+P
+2π r 
+ 
+ 
+ 
+Section 16.6 
+The Linear Wave Equation 
+P16.41 
+The important thing to remember with partial derivatives is that you 
+treat all variables as constants, except the single variable of interest. 
+Keeping this in mind, we must apply two standard rules of differentiation 
+to the function y = ln[b(x − vt)]: 
+ 
+ 
+ 
+∂
+∂x ln f (x)
+[
+] =
+1
+f (x)
+∂f (x)
+[
+]
+∂x
+ 
+[1] 
+ 
+ 
+ 
+∂
+∂x
+1
+f (x)
+⎡
+⎣⎢
+⎤
+⎦⎥= ∂
+∂x f (x)
+[
+]
+−1 = (−1) f (x)
+[
+]
+−2 ∂f (x)
+[
+]
+∂x
+= −
+1
+f (x)
+[
+]
+2
+∂f (x)
+[
+]
+∂x
+ 
+[2]
+ 
+ 
+ 
+Applying [1], 
+ 
+ 
+ 
+ 
+∂y
+∂x =
+1
+b(x– vt)
+⎛
+⎝⎜
+⎞
+⎠⎟
+∂(bx – bvt)
+∂x
+=
+1
+b(x– vt)
+⎛
+⎝⎜
+⎞
+⎠⎟b( ) =
+1
+x – vt 
+ 
+ 
+Applying [2], 
+ 
+ 
+ 
+ 
+ 
+∂2y
+∂x2 = –
+1
+(x – vt)2 
+ 
+In a similar way, 
+ 
+ 
+ 
+∂y
+∂t =
+−v
+x −vt
+and
+∂2y
+∂t2 =
+v2
+x −vt
+(
+)
+2
+
+--- PAGE 22 ---
+Chapter 16     875 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From the second-order partial derivatives, we see that it is true that 
+ 
+ 
+ 
+∂2y
+∂x2 = 1
+v2
+∂2y
+∂t2  
+ 
+so the proposed function is one solution to the wave equation. 
+P16.42 
+(a) 
+A = (7.00 + 3.00)( 4.00) yields A = 40.0 
+ 
+(b) 
+A = 7.00, B = 0, and C = 3.00 
+ 
+(c) 
+In order for two vectors to be equal, they must have the same
+magnitude and the same direction in three-dimensional space.
+All of their components must be equal, so all coefficients of the
+unit vectors must be equal.
+ 
+ 
+(d) 
+A = 0 B = 7.00 in meters, C = 3.00 in m
+−1, D = 4.00 in s
+−1, 
+E = 2.00 in rad. 
+ 
+(e) 
+Identify corresponding parts. In order for two functions to be
+identically equal, corresponding parts must be identical. The
+argument of the sine function must have no units, or be equiv-
+alent to units of radians.
+ 
+P16.43 
+The linear wave equation is ∂2y
+∂x2 = 1
+v2
+∂2y
+∂t2 . 
+ 
+If  
+ 
+y = e
+b(x−vt) 
+ 
+Then  
+∂y
+∂t
+= −bve
+b x−vt
+(
+)  
+and  
+∂y
+∂x
+= be
+b x−vt
+(
+) 
+ 
+ 
+ 
+∂2y
+∂t2 = b2v2e
+b x−vt
+(
+) 
+and  
+∂2y
+∂x2 = b2e
+b x−vt
+(
+) 
+ 
+Therefore, ∂2y
+∂t2 = v2 ∂2y
+∂x2 , demonstrating that e
+b(x−vt) is a solution. 
+P16.44 
+(a) 
+From y = x2 + v2t2, 
+ 
+ 
+evaluate  
+∂y
+∂x
+= 2x 
+and 
+∂2y
+∂x2 = 2 
+ 
+ 
+Also, 
+∂y
+∂t
+= v22t and 
+∂2y
+∂t2 = 2v2
+
+--- PAGE 23 ---
+876     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Does ∂2y
+∂t2 = 1
+v2
+∂2y
+∂t2 ? 
+ 
+ 
+By substitution, we must test 2 = 1
+v2 2v2
+(
+) and this is true, so the 
+wave function does satisfy the wave equation. 
+ 
+(b) Note  
+ 
+ 
+ 
+1
+2 x + vt
+(
+)
+2 + 1
+2 x −vt
+(
+)
+2 = 1
+2 x2 + xvt + 1
+2 v2t2 + 1
+2 x2 −xvt + 1
+2 v2t2
+= x2 + v2t2
+ 
+ 
+ 
+as required. So 
+ 
+ 
+ 
+f x + vt
+(
+) = 1
+2 x + vt
+(
+)
+2   and   g x −vt
+(
+) = 1
+2 x −vt
+(
+)
+2
+  
+ 
+(c) 
+y = sin x cos vt makes 
+ 
+ 
+ 
+∂y
+∂x
+= cosxcosvt 
+∂2y
+∂x2 = −sin xcosvt 
+ 
+ 
+ 
+∂y
+∂t
+= −vsin xsin vt
+ 
+∂2y
+∂t2 = −v2 sin xcosvt
+ 
+ 
+ 
+Then ∂2y
+∂x2 = 1
+v2
+∂2y
+∂t2 becomes −sin xcosvt = −1
+v2 v2 sin xcosvt which 
+is true, as required. 
+ 
+ 
+Note 
+sin x + vt
+(
+) = sin xcosvt + cosxsin vt 
+ 
+ 
+ 
+ 
+sin x −vt
+(
+) = sin xcosvt −cosxsin vt 
+ 
+ 
+So   
+sin xcosvt = f x + vt
+(
+)+ g x −vt
+(
+) with 
+ 
+ 
+ 
+f x + vt
+(
+) = 1
+2 sin x + vt
+(
+)   and   g x −vt
+(
+) = 1
+2 sin x −vt
+(
+)
+   
+ 
+ 
+ 
+Additional Problems 
+P16.45 
+The equation v = λ f is a special case of 
+ 
+ 
+ 
+speed = (cycle length)(repetition rate) 
+ 
+Thus, 
+ 
+ 
+ 
+v = 19.0× 10−3 m frame
+(
+) 24.0 frames s
+(
+) = 0.456 m s
+
+--- PAGE 24 ---
+Chapter 16     877 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.46 
+Assume a typical distance between adjacent people ∼ 1 m. 
+ 
+Then the wave speed is v = Δx
+Δt ~ 1 m
+0.1 s ~ 10 m/s. 
+ 
+Model the stadium as a circle with a radius of order 100 m. Then, the 
+time for one circuit around the stadium is 
+ 
+ 
+ 
+T = 2π r
+v
+~
+2π 102
+(
+)
+10 m s
+= 63 s ~ 1 min 
+P16.47 
+The speed of the wave on the rope is v =
+T
+µ and in this case T = mg; 
+therefore, m = µv2
+g
+. 
+ 
+Now v = fλ implies v = ω
+k
+ so that 
+ 
+m = µ
+g
+ω
+k
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.250 kg m
+9.80 m s2
+18π s−1
+0.750π m−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+= 14.7 kg
+ 
+*P16.48 
+v = 2d
+t gives  
+ 
+ 
+ 
+d = vt
+2 = 1
+2 6.50 × 103 m s
+(
+) 1.85 s
+(
+) = 6.01 km
+ 
+P16.49 
+The block-cord-Earth system is isolated, so energy is conserved as the 
+block moves down distance x: 
+ 
+ 
+ 
+ΔK + ΔU = 0 →
+K +Ug +Us
+(
+)top = K +Ug +Us
+(
+)bottom
+0+ Mgx + 0+ 0 = 0+ 0+ 1
+2
+kx2
+x = 2Mg
+k
+ 
+ 
+(a) 
+T = kx = 2Mg = 2 2.00 kg
+(
+) 9.80 m s2
+(
+) = 39.2 N 
+ 
+(b) 
+L = L0 + x = L0 + 2Mg
+k
+ 
+ 
+ 
+L = 0.500 m + 39.2 N
+100 N m
+= 0.892 m
+
+--- PAGE 25 ---
+878     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+v =
+T
+µ
+=
+TL
+m
+ 
+ 
+ 
+v =
+39.2 N × 0.892 m
+5.0 × 10−3 kg
+v = 83.6 m/s
+ 
+P16.50 
+The block-cord-Earth system is isolated, so energy is conserved as the 
+block moves down distance x: 
+ 
+ 
+ 
+ΔK + ΔU = 0 →
+K +Ug +Us
+(
+)top = K +Ug +Us
+(
+)bottom
+0 + Mgx + 0 + 0 = 0 + 0 + 1
+2 kx2
+ 
+ 
+ 
+ 
+Mgx = 1
+2
+kx2 
+ 
+(a) 
+T = kx = 2Mg 
+ 
+(b) 
+L = L0 + x = L0 + 2Mg
+k
+ 
+ 
+(c) 
+v =
+T
+µ =
+TL
+m =
+2Mg
+m
+L0 + 2Mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P16.51 
+(a) 
+The wave function becomes 
+ 
+ 
+ 
+0.175 m = 0.350 m
+(
+)sin
+99.6 rad s
+(
+)t
+⎡⎣
+⎤⎦ 
+ 
+ 
+or 
+sin
+99.6 rad s
+(
+)t
+⎡⎣
+⎤⎦= 0.500 
+ 
+ 
+The smallest two angles for which the sine function is 0.500 are 
+30.0° and 150°, i.e., 0.523 6 rad and 2.618 rad. 
+ 
+ 
+ 
+99.6 rad s
+(
+)t1 = 0.523 6 rad, thus t1 = 5.26 ms 
+ 
+ 
+ 
+99.6 rad s
+(
+)t2 = 2.618 rad, thus t2 = 26.3 ms 
+ 
+ 
+ 
+Δt ≡t2 −t1 = 26.3 ms −5.26 ms = 21.0 ms 
+ 
+(b) Distance traveled by the wave 
+ 
+ 
+ 
+ 
+= ω
+k
+⎛
+⎝⎜
+⎞
+⎠⎟Δt =
+99.6 rad s
+1.25 rad m
+⎛
+⎝⎜
+⎞
+⎠⎟21.0 × 10−3 s
+(
+) = 1.68 m
+
+--- PAGE 26 ---
+Chapter 16     879 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.52 
+(a) 
+From y = (0.150 m) sin (0.800x – 50.0t) = A sin(kx – ω t) 
+ 
+ 
+we compute  
+ 
+ 
+ 
+∂y/∂t = 0.150 m
+(
+)(−50.0 s−1) cos(0.800x −50.0t) 
+ 
+ 
+and a = ∂2y/∂t2 = −0.150 m
+(
+)(−50.0 s−1)2 sin(0.800x −50.0t) 
+ 
+ 
+Then amax = (0.150 m)(50.0 s−1)2 = 375 m/s2 
+ 
+(b) For the 1.00-cm segment with maximum force acting on it, 
+ 
+ 
+ 
+F
+∑
+= ma =
+12.0 × 10−3 kg
+100 cm
+⎛
+⎝⎜
+⎞
+⎠⎟1.00 cm
+(
+) 375 m/s2
+(
+) = 0.045 0 N
+  
+ 
+(c) 
+To find the tension in the string, we first compute the wave speed 
+ 
+ 
+ 
+v = λ f = ω
+k = 50.0 s−1
+0.800 m−1 = 62.5 m/s
+  
+ 
+ 
+then, 
+ 
+ 
+ 
+v =
+T
+µ gives T = µv2 =
+12.0 × 10−3 kg
+1.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟62.5 m/s
+(
+)
+2 = 46.9 N
+ 
+ 
+ 
+The maximum transverse force is very small compared to the 
+tension, more than a thousand times smaller.
+ 
+P16.53 
+Assuming the incline to be frictionless and taking the positive x 
+direction to be up the incline: 
+ 
+ 
+ 
+∑Fx = T −Mg sin θ = 0  
+ 
+or the tension in the string is T = Mg sin θ. 
+ 
+The speed of transverse waves in the string is then 
+ 
+ 
+ 
+v =
+T
+µ =
+Mg sin θ
+m/L
+=
+MgL sin θ
+m
+ 
+ 
+The time interval for a pulse to travel the string’s length is 
+ 
+ 
+ 
+Δt = L
+v = L
+m
+MgL sin θ =
+mL
+Mg sin θ
+ 
+P16.54 
+(a) 
+The energy a wave crest carries is constant in the absence of
+absorption. Then the rate at which energy passes a stationary
+point, which is the power of the wave, is constant.
+
+--- PAGE 27 ---
+880     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+The power is proportional to the square of the amplitude and to
+the wave speed. The speed decreases as the wave moves into
+shallower water near shore, so the amplitude must increase.
+ 
+ 
+(c) 
+For the wave described, with a single direction of energy 
+transport, the power is the same at the deep-water location  and 
+at the place  with depth 9.00 m. Because power is proportional 
+to the square of the amplitude and the wave speed, to express the 
+constant power we write, 
+ 
+ 
+ 
+A1
+2v1 = A2
+2v2 = A2
+2
+gd2
+1.80 m
+(
+)
+2 200 m/s
+(
+) = A2
+2
+9.80 m s2
+(
+) 9.00 m
+(
+)
+                                  = A2
+2 9.39 m s
+(
+)
+A2 = 1.80 m
+200 m s
+9.39 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+     = 8.31 m
+ 
+ 
+(d) 
+As the water depth goes to zero, our model would predict zero
+speed and infinite amplitude. In fact the amplitude must be finite
+as the wave comes ashore. As the speed decreases the wavelength
+also decreases. When it becomes comparable to the water depth,
+or smaller, our formula gd for wave speed no longer applies.
+ 
+P16.55 
+Let M = mass of block, m = mass of string. For the block, ∑F = ma 
+implies T = mvb
+2
+r
+= mω2r. The speed of a wave on the string is then 
+ 
+ 
+ 
+v =
+T
+µ =
+Mω 2r
+m/r
+= rω
+M
+m
+ 
+ 
+the travel time of the wave on the string is given by 
+ 
+ 
+ 
+Δt = r
+v = 1
+ω
+m
+M
+ 
+ 
+and the angle through which the block rotates is  
+ 
+ 
+ 
+Δθ = ω Δt =
+m
+M =
+0.003 2 kg
+0.450 kg
+= 0.084 3 rad
+
+--- PAGE 28 ---
+Chapter 16     881 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.56 
+The transverse wave velocity in the string is vtrans =
+T
+µ , 
+ 
+where T is the tension in the cord, and µ is the mass per unit length of 
+the cord. The tension T is generated by the centripetal force holding 
+the mass and cord in uniform circular motion at the angular velocity ω; 
+thus: 
+ 
+ 
+ 
+T = Fc = M v2
+r
+= Mω2r 
+ 
+where we note that M is the mass of the block. 
+ 
+The mass density of the cord is µ = m
+r
+; thus, the transverse wave 
+velocity is 
+ 
+ 
+ 
+vtrans =
+T
+µ =
+Mω 2r
+(
+)
+m
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+Mω 2r2
+(
+)
+m
+( )
+= ωr
+M
+m 
+ 
+Now the transverse wave travels a distance r (the length of the cord) at 
+a uniform velocity vtrans ; thus, distance = r = vtrans
+ t, and therefore, 
+ 
+ 
+ 
+t =
+r
+vtrans
+=
+r
+ωr
+M
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1
+ω
+m
+M 
+ 
+which we may solve numerically: 
+ 
+ 
+ 
+t = 1
+ω
+m
+M =
+1
+10.0 rad/s
+(
+)
+0.003 20 kg
+0.450 kg
+= 8.43 × 10−3 s
+ 
+ 
+[See Note to P16.57.] 
+P16.57 
+The transverse wave velocity in the string is vtrans =
+T
+µ , 
+ 
+where T is the tension in the cord, and µ is the mass per unit length of 
+the cord. The tension T is generated by the centripetal force holding 
+the mass and cord in uniform circular motion at the angular velocity, 
+ω; thus 
+ 
+ 
+ 
+T = Fc = M v2
+r
+= Mω2r 
+ 
+where we note that M is the mass of the block, and the mass density of
+
+--- PAGE 29 ---
+882     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the cord is µ = m
+r . Thus transverse wave velocity is 
+ 
+ 
+ 
+vtrans =
+T
+µ =
+Mω 2r
+(
+)
+m
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+Mω 2r2
+(
+)
+m
+( )
+= ωr
+M
+m 
+ 
+Now the transverse wave travels a distance r (the length of the cord) at 
+a uniform velocity vtrans ; thus, distance = r = vtranst, and therefore, 
+ 
+ 
+ 
+t =
+r
+vtrans
+=
+r
+ωr
+M
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1
+ω
+m
+M 
+ 
+[Note: To solve this problem without integration of the mass density µ 
+over the length of the cord to include the cord’s own mass as a 
+contribution to its own tension, and thus to a nonuniform tension 
+along the length of the cord (and thus also to a nonuniform wave 
+velocity along the cord), we must assume that the mass of the cord m 
+is very small compared to the mass of the block M. In such a case, the 
+mass of the cord does not contribute to the centripetal force, or as a 
+result, to the tension on the cord itself. The only role the cord’s mass 
+will then play is in generating the linear density in the transverse wave 
+velocity equation. To be forced to include mass of the cord in the 
+centripetal force calculation is a significantly more difficult problem 
+and is not attempted here.] 
+P16.58 
+(a) 
+In P = 1
+2 µω 2A2v where v is the wave speed, the quantity ω A is 
+the maximum particle speed vy, max. We have µ = 0.500 × 10
+−3 kg/m 
+and  
+ 
+ 
+ 
+v =
+T
+µ =
+20.0 N
+0.500 × 10−3 kg/m = 200 m/s
+  
+ 
+ 
+Then  
+ 
+ 
+ 
+P = 1
+2 0.500 × 10−3 kg/m
+(
+)vy,max
+2
+200 m/s
+(
+)
+  
+ 
+ 
+P = 0.050 0 vy,max
+2
+, where P is in watts and vy,max is in meters
+per second
+
+--- PAGE 30 ---
+Chapter 16     883 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+The power is proportional to the square of the maximum
+particle speed.
+ 
+ 
+(c) 
+In time t = (3.00 m)/v = (3.00 m)/(200 m/s) = 1.50 × 10
+−2 s, all the 
+energy in a 3.00-m length of string goes past a point. Therefore, 
+the amount of this energy is 
+ 
+ 
+ 
+E = Pt = 0.050 0 kg/s
+(
+)vy,max
+2
+(0.015 s) = 7.50 × 10−4 kg
+(
+)vy,max
+2
+ 
+ 
+ 
+The mass of this section is 
+ 
+ 
+ 
+m3.00−m = 0.500 × 10−3 kg/m
+(
+) 3.00 m
+(
+) = 1.50 × 10−3 kg   
+ 
+ 
+so 
+1
+2 m3.00−m = 7.50 × 10−4 kg  
+ 
+ 
+E = (7.5× 10−4) vy,max
+2
+, where E is in joules and vy,max is in meters
+per second. 
+ 
+ 
+(d) 
+1
+2 mvy,max
+2
+ 
+ 
+(e) 
+E = Pt = (0.050 0 kg/s) vy,max
+2
+ (6.00 s) 
+ 
+ 
+→E = 0.300 vy,max
+2
+ where E is in joules and vy,max is in meters
+per second. 
+ 
+P16.59 
+(a) 
+µ = dm
+dL
+= ρA dx
+dx
+= ρA 
+ 
+ 
+v =
+T
+µ =
+T
+ρA =
+T
+ρ ax + b
+(
+)
+⎡⎣
+⎤⎦
+=
+T
+ρ 10−3x + 10−2
+(
+)cm2
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+With all SI units, 
+ 
+ 
+v =
+T
+ρ 1.00 × 10−5x + 1.00 × 10−6
+(
+)
+⎡⎣
+⎤⎦
+ where x is in meter, T is in
+newtons, and v is in meters per second.
+ 
+ 
+(b) 
+v(0) =
+24.0
+2700
+(
+) 0 + 10−6
+(
+)
+⎡⎣
+⎤⎦
+= 94.3 m s 
+ 
+ 
+v(10.0 m) =
+24.0
+2700
+(
+) 10−4 + 10−6
+(
+)
+⎡⎣
+⎤⎦
+= 9.38 m s
+
+--- PAGE 31 ---
+884     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.60 
+Imagine a short transverse pulse traveling from the bottom to the top 
+of the rope. When the pulse is at position x above the lower end of the 
+rope, the wave speed of the pulse is given by v =
+T
+µ , where T = µxg 
+is the tension required to support the weight of the rope below 
+position x. 
+ 
+Therefore, v =
+gx. 
+ 
+But v = dx
+dt
+, so that dt = dx
+gx 
+ 
+and t =
+dx
+gx
+0
+L
+∫
+= 1
+g
+x
+1
+2
+0
+L
+≈2
+L
+g
+ 
+P16.61 
+(a) 
+P x( ) = 1
+2
+µω2A2v = 1
+2
+µω2A0
+2e−2bx ω
+k
+⎛
+⎝⎜
+⎞
+⎠⎟= µω3
+2k
+A0
+2e−2bx 
+ 
+(b) 
+P 0( ) = µω3
+2k
+A0
+2
+ 
+ 
+(c) 
+P x( )
+P 0( )
+= e−2bx 
+P16.62 
+v =
+4 450 × 103 m
+5.88 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 210 m/s 
+ 
+davg = v2
+g = 210 m/s
+(
+)
+2
+9.80 m/s2 = 4 500 m
+ 
+ 
+The given speed corresponds to an ocean depth that is 
+greater than the average ocean depth, about 4 280 m.
+ 
+P16.63 
+Young’s modulus for the wire may be written as Y = T/A
+ΔL/L
+, where T is 
+the tension maintained in the wire and ΔL is the elongation produced 
+by this tension. Also, the mass density of the wire may be expressed as 
+ 
+ 
+ρ = µ
+A
+ 
+ 
+The speed of transverse waves in the wire is then 
+ 
+ 
+v =
+T
+µ
+=
+T/A
+µ/A
+=
+Y ΔL/L
+(
+)
+ρ
+
+--- PAGE 32 ---
+Chapter 16     885 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the strain in the wire is ΔL
+L
+= ρv2
+Y
+. 
+ 
+If the wire is made of aluminum and v = 100 m/s, the strain is 
+ 
+ 
+ΔL
+L
+=
+2.70× 103 kg m3
+(
+) 100 m s
+(
+)
+2
+7.00× 1010 N m2
+= 3.86× 10−4 
+ 
+ 
+ 
+Challenge Problems 
+P16.64 
+Refer to Problem 60. At distance x from the bottom, the tension is 
+T =
+mxg
+L
+⎛
+⎝⎜
+⎞
+⎠⎟+ Mg, so the wave speed is: 
+ 
+ 
+v =
+T
+µ =
+TL
+m =
+xg +
+MgL
+m
+⎛
+⎝⎜
+⎞
+⎠⎟= dx
+dt →dt =
+dx
+xg +
+MgL
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+Then 
+ 
+ 
+ 
+ 
+t =
+dt
+0
+t
+∫
+=
+xg +
+MgL
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1 2
+dx
+0
+L
+∫
+ 
+ 
+ 
+gives 
+t = 1
+g
+xg + MgL m
+(
+)
+⎡⎣
+⎤⎦
+1 2
+1
+2
+x=0
+x=L
+ 
+ 
+ 
+ 
+ 
+t = 2
+g
+Lg + MgL
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+−
+MgL
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+ 
+ 
+t = 2
+L
+mg
+M + m −
+M
+(
+) 
+ 
+(b) When M = 0,  
+ 
+ 
+ 
+t = 2
+L
+g
+m −0
+m
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 2
+L
+g
+
+--- PAGE 33 ---
+886     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+As m →0 we expand  
+ 
+ 
+ 
+M + m =
+M 1+ m
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+M 1+ 1
+2
+m
+M −1
+8
+m2
+M2 + …
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+to obtain 
+t = 2
+L
+mg
+M + 1
+2
+m
+M
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+8 m2 M3 2
+(
+)+…−
+M
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+ 
+t ≈2
+L
+g
+1
+2
+m
+M
+⎛
+⎝⎜
+⎞
+⎠⎟=
+mL
+Mg
+ 
+ 
+where we neglect terms 1
+8
+m2
+M3 2
+⎛
+⎝⎜
+⎞
+⎠⎟ and higher because terms with 
+m
+2 and higher powers are very small. 
+P16.65 
+(a) 
+Refer to Problem 60. From the definition of velocity, find the 
+relationship between the position x of the pulse and the time 
+interval Δt required to reach that position from the bottom of the 
+rope: 
+ 
+ 
+ 
+v = dx
+dt
+   →   dt = dx
+v
+ =  dx
+gx
+   →   Δt = 
+dx
+gx
+∫
+    →   Δt = 2
+x
+g 
+ 
+ 
+Evaluate this time interval for x = L
+2 : 
+ 
+ 
+ 
+Δt = 2 L/2
+g
+ = 2
+L
+2g  =  1
+2 2
+L
+g
+⎛
+⎝⎜
+⎞
+⎠⎟ =  0.707 2
+L
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) Solve the expression from part (a) for x and substitute the given 
+time interval: 
+ 
+ 
+ 
+x =  g Δt
+(
+)
+2
+4
+ =
+g
+L 2
+(
+)
+2
+4
+=  g
+4
+L
+g
+ =  L
+4
+ 
+P16.66 
+(a) 
+µ x( ) is a linear function, so it is of the form µ x
+( ) = mx + b. 
+ 
+ 
+To have µ 0( ) = µ0 we require b = µ0. Then µ L
+( ) = µL = mL + µ0 
+ 
+ 
+so m = µL −µ0
+L
+. 
+ 
+ 
+Then µ x
+( ) = µL −µ0
+(
+)x
+L
++ µ0 . 
+ 
+(b) Imagine the crest of a short transverse pulse traveling from one 
+end of the string to the other. Consider the pulse to be at position
+
+--- PAGE 34 ---
+Chapter 16     887 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+x. From v = dx
+dt , the time interval required to move from x to  
+x + dx is dx
+v . The time interval required to move from 0 to L is 
+ 
+ 
+ 
+Δt =
+dx
+v
+0
+L
+∫
+=
+dx
+T / µ
+0
+L
+∫
+=
+1
+T
+µ x
+( ) dx
+0
+L
+∫
+Δt =
+1
+T
+µL −µ0
+(
+)x
+L
++ µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+µL −µ0
+L
+⎛
+⎝⎜
+⎞
+⎠⎟dx
+L
+µL −µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+L
+∫
+Δt =
+1
+T
+L
+µL −µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+µL −µ0
+(
+)x
+L
++ µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2 1
+3
+2( ) 0
+L
+Δt =
+2L
+3 T µL −µ0
+(
+)
+µL
+3 2 −µ0
+3 2
+(
+)
+ 
+P16.67 
+(a) 
+Consider a short section of chain at the 
+top of the loop. A free-body diagram is 
+shown. Its length is s = R 2Δθ
+(
+) and its 
+mass is µR2Δθ. In the frame of reference 
+of the center of the loop, Newton’s 
+second law is 
+ 
+ 
+ 
+∑Fy = may:    2T sin Δθ down = mv0
+2
+R down = µR2Δθv0
+2
+R
+ 
+ 
+ 
+For a very short section, sinΔθ = Δθ and T = µ v0
+2 
+ 
+(b) The wave speed is v =
+T
+µ
+= v0 
+ 
+(c) 
+In the frame of reference of the center of the loop, each pulse 
+moves with equal speed clockwise and counterclockwise (ANS. 
+FIG. P16.67(c1)). 
+ 
+ANS. FIG. P16.67(c1) 
+ANS. FIG. P16.67(a)
+
+--- PAGE 35 ---
+888     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+In the frame of reference of the ground, once pulse moves 
+backward, clockwise, at speed v0 + v = 2v0 and the other forward, 
+counterclockwise, at v0 −v = 0 (ANS. FIG. P16.67(c2)) 
+ 
+ANS. FIG. P16.67(c2) 
+ 
+ 
+While the loop makes one revolution, the one pulse traveling
+clockwise makes two revolutions and the other pulse traveling
+counterclockwise does not move around the loop. The counter-
+clockwise pulse it is generated at the 6 o’clock position, and it
+will stay at the 6 o’clock position.
+
+--- PAGE 36 ---
+Chapter 16     889 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P16.2 
+(a) See ANS. FIG. P16.2(a); (b) See ANS. FIG. P16.2(b); (c) The graph in 
+ANS. FIG. P16.2(b) has the same amplitude and wavelength as the 
+graph in ANS. FIG. P16.2(a). It differs just by being shifted toward 
+larger x by 2.40 m; (d) The wave has traveled d = vt = 2.40 m to the 
+right. 
+P16.4 
+(a) longitudinal P wave; (b) 666 s 
+P16.6 
+(a) See ANS. FIG. P16.6(a); (b) See ANS. FIG. P16.6(b); (c) See ANS. 
+FIG. P16.6(c); (d) See ANS. FIG. P16.6(d); (e) See ANS. FIG. P16.6(e) 
+P16.8 
+0.800 m/s 
+P16.10 
+2.40 m/s 
+P16.12 
+±6.67 cm 
+P16.14 
+(a) See ANS FIG P16.14; (b) 0.125 s; (c) This agrees with the period 
+found in the example in the text. 
+P16.16 
+(a) 0.100 sin (1.002–20.0t); (b) 3.18 Hz 
+P16.18 
+(a) See ANS FIG P13.12(a); (b) 18.0 rad/m; (c) 0.083 3 s; (d) 75.4 rad/s;  
+(e) 4.20 m/s; (f) y = 0.200 m
+(
+) sin 18.0x/m + 75.4t/ s + φ
+(
+); (g) y(x, t) = 
+0.200 sin (18.0x + 75.4t – 0.151), where x and y are in meters and t is in 
+seconds. 
+P16.20 
+(a) 0.021 5 m; (b) 1.95 rad; (c) 5.41 m/s;  
+(d) y x,t
+(
+) = 0.021 5
+(
+) sin 8.38x + 80.0πt + 1.95
+(
+) 
+P16.22 
+520 m/s 
+P16.24 
+(a) units are seconds and newtons; (b) The first T is period of time; the 
+second is force of tension. 
+P16.26 
+(a) y = (2.00 × 10
+–4) sin (16.0x – 3 140t), where y and x are in meters and 
+t is in seconds; (b) 158 N 
+P16.28 
+The calculated gravitational acceleration of the Moon is almost twice 
+that of the accepted value. 
+P16.30 
+(a) v = 30.4
+(
+) m where v is in meters per second and m is in kilograms;  
+(b) m = 3.89 kg 
+P16.32 
+(a) As for a string wave, the rate of energy transfer is proportional to 
+the square of the amplitude to the speed. The rate of energy transfer 
+stays constant because each wavefront carries constant energy, and the 
+frequency stays constant. As the speed drops, the amplitude must 
+increase; (b) The amplitude increases by 5.00 times
+
+--- PAGE 37 ---
+890     Wave Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.34 
+55.1 Hz 
+P16.36 
+1.07 kW 
+P16.38 
+2P0 
+P16.40 
+See P16.40 for the full explanation. 
+P16.42 
+(a) A = 40.0; (b) A = 7.00, B = 0, and C = 3.00; (c) In order for two 
+vectors to be equal, they must have the same magnitude and the same 
+direction in three-directional space. All of their components must be 
+equal, so all coefficients of the unit vectors must be equal; (d) A = 0,  
+B = 7.00, C = 3.00, D = 4.00, E = 2.00; (e) Identify corresponding parts. 
+In order for two functions to be identically equal, corresponding parts 
+must be identical. The argument of the sine function must have no 
+units or be equal to units of radians. 
+P16.44 
+(a) See P16.44(a) for full explanation; (b) f x + vt
+(
+) = 1
+2
+x + vt
+(
+)
+2 and 
+g x −vt
+(
+) = 1
+2
+x −vt
+(
+)
+2 ; (c) f x + vt
+(
+) = 1
+2
+sin x + vt
+(
+) and 
+g x −vt
+(
+) = 1
+2
+sin x −vt
+(
+) 
+P16.46 
+~1 min 
+P16.48 
+6.01 km 
+P16.50 
+(a) 2 Mg; (b) L0 + 2 Mg
+k
+; (c) 
+2 Mg
+k
+L0 + 2 Mg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P16.52 
+(a) 375 m/s
+2; (b) 0.045 0 N; (c) 46.9 N. The maximum transverse force is 
+very small compared to the tension, more than a thousand times 
+smaller. 
+P16.54 
+(a) The energy a wave crest carries is constant in the absence of 
+absorption. Then the rate at which energy passes a stationary point, 
+which is the power of the wave, is constant; (b) The power is 
+proportional to the square of the amplitude and to the wave speed. 
+The speed decreases as the wave moves into shallower water near 
+shore, so the amplitude must increase; (c) 8.31 m; (d) As the water 
+depth goes to zero, our model would predict zero speed and infinite 
+amplitude. In fact, the amplitude must be finite as the wave comes 
+ashore. As the speed decreases, the wavelength also decreases. When it 
+becomes comparable to the water depth, or smaller, our formula 
+gd 
+for wave speed no longer applies. 
+P16.56 
+8.43 × 10
+−3 s
+
+--- PAGE 38 ---
+Chapter 16     891 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P16.58 
+(a) P = 0.050 0 vy,max
+2
+ where P is in watts and vy,max is in meters per 
+second; (b) The power is proportional to the square of the maximum 
+particle speed; (c) E = 7.50 × 10−4
+(
+)vy,max
+2
+ where E is in joules and vy,max is 
+in meters per second; (d) 1
+2
+mvy,max
+2
+; (e) E = 0.300vy,max
+2
+ where E is in 
+joules and vy,max is in meters per second 
+P16.60 
+2
+L
+g 
+P16.62 
+The given speed corresponds to an ocean depth that is greater than the 
+average ocean depth, about 4 280 m. 
+P16.64 
+(a) t = 2
+L
+g
+M + m −
+M
+(
+) ; (b) 2
+L
+g ; (c) 
+mL
+Mg 
+P16.66 
+(a) µ(x) = µL −µ0
+(
+)x
+L
++ µ0 ; (b) Δt =
+2L
+3 T µL −µ0
+(
+)
+µL
+3/2 −µ0
+3/2
+(
+)

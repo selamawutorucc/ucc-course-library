@@ -1,0 +1,1127 @@
+
+--- PAGE 1 ---
+Topic 3: Kinematics – Displacement, Velocity, Acceleration, 1- and 2-
+ 
+Dimensional Motion 
+ 
+ 
+Source:   
+Conceptual Physics textbook (Chapter 2 - second edition, laboratory book 
+and concept-development practice book; CPO physics textbook and 
+laboratory book 
+ 
+Types of Materials:  Textbooks, laboratory manuals, demonstrations, worksheets and activities 
+ 
+Building on:     
+With beginning concepts of vectors and measurements, the study of motion 
+will give the lead-in to dynamics, the cause of motion that allows the student 
+to see a logical building of mechanics. Topic one activities have introduced 
+displacement and velocity and will now be enhanced. The instructor should 
+now define displacement, velocity and acceleration. A new displacement 
+activity will use a worksheet and speed vs. velocity will use a worksheet and 
+several additional activities. One-dimensional motion will be studied with 
+labs and two-dimensional motion will be briefly presented but not so in 
+depth that it takes too much time to cut out time for other topics. Finally, an 
+acceleration activity and worksheet will be presented.  
+ 
+Leading to:    
+Once the study of motion is explored in more detail, the teacher will then 
+ask, “What causes motion or the change in motion?” that is presented 
+through activities to begin dynamics, the study of the cause of motion.   
+ 
+Links to Physics:    Understanding of motion is fundamental to mechanics including constant or 
+accelerated motion of cars to electrons. Other topics will also require the 
+introduction of motion. Examples include wave motion (as in sound and 
+light), electricity and magnetism (movement of force fields) and celestial 
+movement within the heavens. 
+ 
+Links to Chemistry: Displacement and 1- and 2-dimensional motion may be used in showing 
+conceptual representations of atoms and molecules during reactions. When 
+studying the motion of electrons around the nucleus, velocity and 
+acceleration can be discussed to show how the electron changes speed when 
+it encounters another electron or proton. Motion, especially vibratory 
+motion, also is encountered with the study of states of matter and how the 
+rate of motion changes during phase changes. This is especially evident with 
+gases and the gas laws. 
+ 
+Links to Biology:    Displacement and 1- and 2-dimensional motions may be used in animal 
+behavior labs if an animal’s position is plotted in relation to a stimulus. This 
+may also occur with plant growth (infrequently) or protist and the movement 
+of pond water organisms to stimulus of light for example. Velocity and 
+acceleration may be determined when discussing blood flow or in observing
+
+--- PAGE 2 ---
+animal behavior when comparing different velocities of organisms, the 
+fastest and slowest runners for example. 
+ 
+Materials: 
+(a) Hewitt 
+ Lab 5 – Conceptual Graphing 
+      Lab 2 – The Physics 500 
+      Lab 3 – The Domino Effect 
+      Lab 4 – Merrily We Roll Along 
+      Lab 6 – Race Track 
+      Lab 7 – Bull’s Eye 
+ 
+(b) Hsu – CPO Physics 
+      Lab 1A – Time, Distance and Speed 
+ 
+(c) My Labs 
+  C-2:  (from Topic 1): Walking Vectors (if this was not done in Topic 1)  
+      C-2: Walk a Number Line 
+      C-3: Velocity and Acceleration 
+(a) Constant Motion 
+(b) Two-Speed 
+(c) Slot Car – Accelerated  
+(d) Rollin 
+                                        
+(d) Worksheets   
+      Hewitt - Concept-Development Book 
+      2.1 – Motion 
+      2.2 – Speed and Distance 
+      3.2 – Vectors 
+                                                   
+  Hsu  
+ 1A: Position vs. Time 
+ 
+      My Worksheet 
+  Displacement, Velocity and Acceleration (Graphical Approach) 
+ 
+(e) Demonstration 
+  2-Dimensional Motion     
+ 
+(f) Websites and Videos 
+ ESPN SportsFigures “Tracking Speed” Video Guide (Olympic Decathlon) 
+1. Mechanical Universe Video Guide: “Falling Bodies” 
+2. Moving Man Lab Sim (Java) 
+3. NOVA “Medieval Siege” Video Guide 
+4. (ESPN SportsFigures “Big Air Rules” Video Guide 
+ 
+(Snowboarding)
+
+--- PAGE 3 ---
+5. The Buick Launcher Projectile Lab Sim (Flash) 
+ 
+(g) Good Stories 
+1.  Why a Seven-Day Week? 
+2.  Nicolas Copernicus – Renaissance Man 
+3.  The Fastest Airplane in the World 
+4.  Johannes Kepler – A Life of Tragedy 
+5.  Aristotle and Galileo on Early Mechanics 
+ 
+(h) Topic 3: Follow-Up Quiz/Test
+
+--- PAGE 4 ---
+Topic 3: C-2 – Walk a Number Line (Displacement Activity) 
+ 
+ 
+Purpose: To relate a graphical plot of a student’s change in position with the actual change in 
+position along a number line. 
+ 
+Procedure: 
+1. Place 11 small pieces of electrical tape (about 3 inches long) at 1-m intervals in a straight 
+line along the floor. 
+ 
+2.   Make 11 - 3” x 5” index cards labeled, 5 m, 4 m, 3 m, 2 m, 1 m, 0 m, -1 m, -2 m, -3 m, 
+-4 m, -5 m and place them in order at the 11 tape location. 
+ 
+3.   Have a student start at 0 m, then move to +2 m, then +5 m, then to +3 m, then to -1 m, 
+then to -3 m, then stay at -3 m, and finally, go to 0 m. 
+ 
+4. Plot a graph of the student’s location (in meters) as a function of event (7 in this case). 
+Evenly space the event numbers to represent equal times for each event. 
+ 
+5. Connect the 8 data points using at straight line between the points 0 m to 1 m, 1 m to 5 m, 
+and so on. 
+ 
+6. Study the completed graph of location vs. event and discuss what is happening from start 
+to finish.
+
+--- PAGE 5 ---
+Topic 3: Lab C-3 – Velocity and Acceleration  
+ 
+ 
+Purpose:   
+To observe and graphically study various types of motion. 
+ 
+Theory:   
+The change in position (d) divided by the time it takes to change that position (t) is 
+the average velocity. 
+                                                                                                                              8 cm 
+                                                  v  = !  d /! t                     Example:                                               
+ 
+              
+If it takes 2 s to go the 8 cm, then, v = 8 cm/2 s = 4 cm/s 
+ 
+                
+The change in velocity (v) divided by the time it takes to change that position (t) is 
+the average velocity. 
+ 
+a =  ! v/! t   =   vf - vi 
+                                  
+tf - ti 
+ 
+                                                                          8 cm                                       14 cm 
+a = ! v/! t    Example:                                                                                                                      
+ 
+ 
+If it takes 2 s to go the 8 cm and 2 s to go the 14 cm, then, a = 14 cm/2 s - 8 cm/2s = 
+                                                                                                                      2 s 
+                
+3 cm/s/s. 
+ 
+Equipment:  The main items for equipment for good consistent results are mainly available 
+through science catalogs and Toys “R” Us. The one item that is available, but I feel 
+needs improvement, is a mechanical ticker timer that places dots on a ticker tape. I 
+am working on a refined model and hope to have it available through a soon-to-be 
+established website. 
+ 
+      
+One slow, constant speed vehicle is the electric bulldozer sold through science 
+supply companies like Cenco, Sargent-Welch, etc. The two-speed car is a windup 
+and available at Toys “R” Us. The accelerated car is the HO slot car available at a 
+hobby store or maybe Toys “R” Us. 
+ 
+Procedure: 
+(A)  Bulldozer  
+1. On a flat surface (table top/floor), place your slow-moving vehicle in front of the 
+ticker timer. Thread the timer tape through the timer and use masking tape to attach 
+the ticker tape to the vehicle. With the timer vibrating, set the vehicle in motion. 
+ 
+2. Ignore about 5 cm at the start of the tape and begin marking off equal distances for 
+equal time intervals. Choose intervals so you have about 10 total and call each 
+interval time 1 s. Record interval distance, total distance and total time in a data
+
+--- PAGE 6 ---
+table that you create. Also make a column for average interval velocity. 
+ 
+3. Calculate each interval average velocity by dividing the interval distance by the 
+interval time and record in your table. 
+ 
+4. Plot a total distance vs. total time graph. Explain what it illustrates. 
+ 
+5. Plot an interval average velocity vs. total time graph. Explain what it illustrates. 
+ 
+6. Take the slope of the graph. What does it illustrate? 
+ 
+(B)  2-Speed Windup Car 
+       Repeat 1-6 from (A) using the two-speed windup car. 
+ 
+(C)  HO Slot Car 
+        Repeat 1-6 from (A) using the slot car.
+
+--- PAGE 7 ---
+Topic 3: Lab C-3 – Velocity and Acceleration Answer Sheet 
+ 
+ 
+(A) Bulldozer  
+Sample Data Table   
+ 
+ Interval        Total         Total       Average 
+Distance     Distance      Time        Interval 
+  (cm)           (cm)           (s)           (cm/s) 
+ 
+   12               12              1               12 
+   12               24              2               12 
+   12               36              3               12 
+                                                                                               
+ 
+ 
+ 
+ 
+4. Total Distance vs. Total Time 
+                                                                                            This graph shows that the  
+                    36                                                                    bulldozer moves the same 
+                                                                             distance in equal times, or  
+                                                                              constant motion (velocity).                                          
+      24 
+          d 
+Total Distance 
+       (cm)     12 
+       
+ 
+       0 
+          0              1              2              3 
+                           t (Total) (s) 
+ 
+5. 
+                     36                                                                  
+This graph shows that the                                         
+ 
+                                                                         bulldozer moves at the same 
+        v 
+                                                                         rate (velocity) at all times. 
+   Average 
+24 
+  
+ 
+ 
+ 
+        
+    Interval 
+   Velocity 
+     (cm/s) 
+12 
+ 
+                      
+                        0 
+                            0              1              2              3 
+                                             t (Total) (s)
+
+--- PAGE 8 ---
+6.   Slope of the graph in (5) is: a = (! v)/(! t) = (12 cm/s - 12cm/s) = 0 cm/s = 0 cm/s/s, no 
+                                                                                            3 s - 0 s                3 s                   
+ 
+ acceleration 
+ 
+ 
+(B) 2-Speed Windup Car: 
+Sample Data Table 
+ 
+ Interval        Total         Total       Average 
+Distance     Distance      Time        Interval 
+  (cm)           (cm)           (s)           (cm/s) 
+    
+     6  
+  6 
+      1  
+ 6 
+     6               12              2                 6 
+     6               18              3                 6 
+     8               26              4                 8 
+   14               40              5               12                                             
+ 
+ 
+ 
+ 
+4. Total Distance vs. Total Time 
+ 
+ 
+                                42                                                                            This graph shows the 
+                                                                                                    2-speed car moves      
+ 
+36 
+equal distance in equal 
+   d  
+ 
+time for the first 3 s, 
+Total          30 
+but from 3 s to 5 s, more 
+           Distance  
+ 
+distance is covered in 
+(cm)  
+24 
+equal time, showing a  
+ 
+ 
+greater velocity (also 
+ 
+18 
+shown by the slope). 
+                    
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 6 
+ 
+                   0 
+                       0          1          2          3           4          5
+
+--- PAGE 9 ---
+5.                    14 
+                                                                                    
+                               12                                          
+This graph shows the velocity of the 
+                                                                   2-speed car constant for 3 s, but increases 
+                               10                                              from 3 s to 4 s and even faster from 4 s to 5 s. 
+     v                                                                         The graph is misleading from 3 s to 4 s and 
+Average                   8                                               from 4 s to 5 s because no car can go from 
+ Interval                                                       
+6 cm/s to 8 cm/s or 8 cm/s to 14 cm/s in no 
+  (cm/s)                    6 
+velocity time. These data points are only 
+ 
+ 
+averages and thus don’t show a smooth curve                         
+ 
+4 
+when many data points are used. 
+ 
+ 
+ 
+                  2 
+ 
+                  0 
+                       0      1      2      3      4      5 
+                                  Total Time (s) 
+ 
+6. Slope of graph is: a = (! v)/! t) = 0 from 0 s to 3 s; (8 cm/s – 6 cm/s)/1 s = 2 cm/s/s from 
+3 s to 4 s = (14 cm/s – 8 cm/s)/1 s = 6 cm/s/s from 4 s - 5 s 
+ 
+    In other words, the acceleration got greater as time went on: first 0, then 2 cm/s/s, then 6 
+cm/s/s. 
+ 
+ 
+(C) HO Slot Car (Accelerated Motion) 
+Sample Data Table 
+ 
+ Interval           Total            Total          Average 
+Distance       Distance          Time           Interval 
+   (cm)              (cm)               (s)            Velocity 
+                                                                 (cm/s) 
+ 
+     0                    0                   0                   0 
+     1                    1                   1                   1 
+     3                    4                   2                   3 
+     5                    9                   3                   5 
+     7                  16                   4                   7
+
+--- PAGE 10 ---
+4. Total Distance vs. Total Time 
+ 
+ 
+ 
+ 
+                                                             The graph shows continuous accelerated motion. 
+  
+(Larger and larger distances are covered in equal 
+ 
+time.) 
+      16  
+ 
+      d 
+Velocity is shown by slope that increases. 
+   Total        12 
+ 
+Distance                                                              
+   (cm)          8   
+ 
+       4 
+ 
+       0 
+            0      1      2      3      4      5 
+                     Total Time (s) 
+ 
+5. Average Velocity vs. Time 
+ 
+  8                                                 
+                                                                      
+In equal times the slot car gains the same amount 
+                     7  
+of velocity, indicating a constant acceleration. 
+ 
+     v             6  
+The slope of the graph is constant. 
+Average 
+Velocity      5  
+Or, a = (! v)/(! t) = (7 cm/s - 1 cm/s) =  6 cm/s/s 
+  (cm/s) 
+constant.) 
+                   4  
+                                                                            
+                    3 
+ 
+ 
+                    2                                                         
+                     
+                    1 
+                     
+                    0 
+                     
+                          0      1      2      3      4      5 
+                      Total Time (s) 
+ 
+6. As shown in step 5, the slope is constant at 2 cm/s/s, showing constant acceleration.
+
+--- PAGE 11 ---
+
+
+--- PAGE 12 ---
+Rollin, Rollin, Rollin . . . Answer Sheet 
+ 
+ 
+Sample Data 
+ 
+d 1 
+d 2 
+d 3 
+d 4 
+d 5 
+ 
+Trial 1 
+(Low) 
+2 
+2 
+2 
+2 
+2 
+Trial 2 
+(High) 
+5 
+5 
+5 
+5 
+5 
+ 
+ 
+ 
+ 
+           10               Low 
+ 
+             8 
+ 
+d (m)    6                                           
+The slope of the graph shows the ball traveling at 1 m  
+ 
+in 1 s, 2 m in 2 s, etc., showing a constant speed of 
+            4  
+1 m/s. 
+ 
+ 
+ 
+               
+            2 
+ 
+            0 
+                   0      2      4      6      8     10 
+                                     t (s) 
+ 
+ 
+          25                 High 
+ 
+          20 
+ 
+d (m) 15                                            
+The slope of the graph shows the ball traveling at 5 m  
+                                                            in 5 s, 10 m in 10 s, etc., showing the same constant  
+          10                                             
+speed of 1 m/s. 
+ 
+            5 
+  
+            0 
+                 0      5     10     15     20      25 
+                                      t (s)
+
+--- PAGE 13 ---
+Topic 3: Worksheet D-1 – Displacement, Velocity and Acceleration (Graphical 
+ 
+Approach) 
+ 
+ 
+(A) Displacement   
+1.  Draw to scale and solve: 
+(a) John goes 8 steps north, 3 steps east, 6 steps south, 6 steps west and 2 steps south.  
+What is John’s displacement from his starting point? 
+(b) Mary hikes east 4 miles, north 2 miles and south 5 miles. What is Mary’s 
+displacement from her starting point? 
+ 
+(B) Velocity 
+1.  Draw to scale and solve: 
+(a)  Juan aims his boat directly across a river flowing at 8 mi/hr. Juan’s boat travels at 6 
+miles/hour in still water. How fast does Juan travel relative to shore? 
+(b)  Stephanie flies her model airplane at 12 m/s into a headwind of 3 m/s. What speed 
+results as seen from earth? 
+ 
+(C) Acceleration 
+1. Draw to scale for part (b) and solve: 
+(a) Use the (!v)/(!t) average acceleration definition to determine the acceleration of a 
+ball rolling down a hill at 2 m/s and reaches 8 m/s in 2 s. 
+(b) Graphically show the vectors to obtain the answer to (a).  
+ 
+(D) Graphical analysis of motion is illustrated by three graphs, and three graphical items  show 
+the details of that motion. 
+ 
+1.  Direct readings: 
+ 
+For a position-time graph, direct reading shows your position at a given time.   
+ 
+For a velocity-time graph, direct reading shows your velocity at a given time. 
+ 
+For an acceleration-time graph, direct reading shows your acceleration at a given time. 
+ 
+2.  Slope: 
+ 
+The slope of a position-time graph shows the velocity of an object within a given time 
+interval. 
+ 
+The slope of a velocity-time graph gives the acceleration of an object within a given 
+time interval. 
+ 
+The slope of an acceleration-time graph shows nothing. 
+ 
+3.  Area: 
+ 
+The area beneath a position-time graph shows nothing. 
+ 
+The area beneath a velocity-time graph shows displacement within a given time interval. 
+ 
+The area beneath an acceleration-time graph shows velocity within a given time interval.
+
+--- PAGE 14 ---
+Use this information to answer questions about the following graphs for an object: 
+ 
+(a)     4 
+                                                               1.  Where is the object at 0.5 s? 
+          3                                                   2.  Where is the object at 2 s? 
+   d                                                          3.  Where is the object at 3 s? 
+(cm)  2 
+ 
+          1 
+ 
+          0 
+                0        1        2        3        4  
+                                  t (s) 
+ 
+ 
+(b)       4 
+                                                               1.  How fast is the object moving at 1 s? 
+            3                                                 2.  How fast is the object moving at 3 s? 
+    v  
+(cm/s)  2 
+ 
+            1 
+ 
+            0 
+                 0        1        2        3        4   
+                                   t (s)                                                                                                                                         
+ 
+  (c)          4                        
+                                                                    1.  What is the acceleration of the object at 2 s? 
+                3                                                  2.  What is the acceleration of the object at 4 s? 
+       a 
+ (cm/s/s)  2 
+ 
+                1 
+ 
+                 0 
+                      0        1        2        3        4            
+                                        t (s) 
+ 
+ (d)  Use graph (a) for the following questions:  
+1.  What is the value and meaning of the slope from 0 s–1 s? 
+2.  What is the value and meaning of the slope from 1 s–2 s? 
+3.  What is the value and meaning of the slope from 2 s–4 s? 
+4.  What is the value and meaning of the area beneath 0 s–1 s? 
+5.  What is the value and meaning of the area beneath 1 s–2 s? 
+6.  What is the value and meaning of the area beneath 2 s–4 s?
+
+--- PAGE 15 ---
+(e) Use graph (b) for the following questions: 
+1.  What is the value and meaning of the area beneath the graph from 0 s–2 s? 
+2.  What is the value and meaning of the area beneath the graph from 2 s–4 s? 
+3.  What is the value and meaning of the slope between 0 s–2 s? 
+4.  What is the value and meaning of the slope between 2 s–4 s?  
+ 
+(f) Use graph (c) for the following questions: 
+1.  What is the value and meaning of the slope during 0 s–4 s? 
+2.  What is the value and meaning of the area during 0 s–4 s?              
+ 
+ 
+Sketch a velocity-time and acceleration-time graph for each of the following: 
+Sample Graphs 
+ 
+ 
+ 
+1.  A car starting from rest moves a few hundred yards down a road and slows to a stop at 
+the corner. 
+2.  A tennis ball rolls across a tennis court. 
+3.  An airplane taxis to the end of a runway, stops for a moment, turns around and then 
+takes off. 
+4.  A book falls from a desk and hits the floor. 
+5.  A student walks up a hill to mail a letter and returns down the hill.
+
+--- PAGE 16 ---
+Topic 3:  D-1 Worksheet Answer Sheet: 
+ 
+ 
+A1a 
+A1b
+
+--- PAGE 17 ---
+B1a 
+ 
+ 
+B1b
+
+--- PAGE 18 ---
+C1a 
+                  
+   a = 8 m/s - 2 m/s = 3 m/s/s 
+                 2s 
+ 
+C1b 
+     
+ 
+ 
+Da1.   At 1 cm 
+Da2.   At 3 cm 
+Da3.   At 3.5 cm 
+ 
+Db1.   2 cm/s 
+Db2.   3 cm/s 
+ 
+Dc1.   2 cm/s / 2 s = 1 cm/s/s 
+Dc2.   4 cm/s / 4 s = 1 cm/s/s 
+ 
+Dd1.   Shows velocity, so slope = v = 0 
+Dd2.   Shows velocity, so slope = v = 2 cm/1 s = 2 cm/s 
+Dd3.   Shows velocity, so slope = v = 1 cm/2 s = 0.5 cm/s 
+Dd4.   Shows nothing 
+Dd5.   Shows nothing 
+Dd6.   Shows nothing 
+ 
+De1.   Shows displacement, so d = 2 x 2 = 4 cm 
+De2.   Shows displacement, so d = 2 x 2 + 0.5 x 2 x 2 = 6 cm 
+De3.   Shows acceleration, so a = 0 
+De4.   Shows acceleration, so a = 2 cm/s / 2 s = 1 cm/s/s 
+ 
+Df1.   Slope shows nothing. 
+Df2.   Area shows velocity, so 0.5 x 4 cm/s/s x 4 s = 8 cm/s at 4 s.
+
+--- PAGE 19 ---
+v-t graphs and a-t graphs: 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+
+--- PAGE 20 ---
+3.
+
+--- PAGE 21 ---
+4. 
+ 
+ 
+ 
+ 
+ 
+5.
+
+--- PAGE 22 ---
+
+
+--- PAGE 23 ---
+Topic 3: Demo – 2-D Projectile Motion 
+ 
+ 
+Purpose:  
+To analyze the horizontal and vertical components of 2-dimensional motion. 
+ 
+Apparatus:  
+Digital movie camera, computer with a media player, screen or projection surface 
+on which to use erasable marker, felt tip markers (whiteboard type), ruler, bright-
+colored ball (baseball). 
+ 
+Procedure:  
+1. Mount the camera in a fixed position. 
+2. Record the ball traveling in a projectile path.  
+3. Transfer the video clip to the computer.  
+4. Play back onto a CRT screen or project onto a blackboard (whiteboard).  
+5. Mark the position of the ball at several uniform locations using the timeline 
+slider of the media player. 
+ 
+Analysis:  
+Draw vertical lines through the marked points. The space between the lines shows 
+that the equal spacing indicates that the horizontal motion is uniform. 
+ 
+ 
+Draw horizontal lines through the marked points. The unequal spacing of the lines 
+indicates that the motion in the vertical dimension is changing. Close analysis will 
+show that the ball slows down on the way up equally as the ball going down 
+speeds  up. 
+ 
+Caution:  
+Unless pixel height and width are equal, actual measurements from the screen will 
+be unreliable. 
+ 
+There are several methods for importing video graphics to the computer. 
+ 
+1. Direct input to the computer from the camera using a “FireWire,” USB or 
+RCA mini-plugs. (RCA mini-plugs typically allow for analog input only; 
+analog works although the screen resolution is less.) 
+ 
+2. Record the 2-D motion on videocassette, minidisk or memory card. Import the 
+video clip, using step 1. 
+ 
+3. Most operating systems have a media player such as Windows Media Player 
+built in with a control for advancing the timeline.
+
+--- PAGE 24 ---
+Why a Seven-Day Week? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The ancient Greeks had no week; the Romans had an eight-day week. When the seven-day 
+week was adopted is not clear. The number seven seems to have universal appeal. Rome was built on 
+seven hills, the Japanese have seven gods of happiness and the Bible refers to the Sabbath as the 
+seventh day of creation. Somewhere around the third century the Romans were on a seven-day 
+schedule. This does not seem to be the result of any governmental action.  
+ 
+ 
+ 
+ 
+The National Convention of the French Revolution set up a committee on calendar reform. 
+This committee was composed of a mathematician, a poet, an educator and the great astronomer,  
+La Place. They produced a calendar of rational symmetry. In 1792 the decimal calendar replaced the 
+seven-day week with a ten-day week, the decade. Three decades comprise one month, twelve months 
+in one year. The day was divided into ten hours, each minute into one hundred seconds. This system 
+required five days plus a leap day to be added to the end of the twelve-month cycle. These additional 
+days were dedicated to holidays and sports. The new decimal calendar was designed to loosen the 
+grip of the church on daily life. This new calendar system ended thirteen years later when Napoleon 
+became the ruler of France. He restored the Gregorian calendar with its traditional saints days and 
+holidays. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In 1929 the Soviet Union aimed to dissolve the Christian year by replacing the Gregorian 
+calendar with the Revolutionary calendar. The week had five days, four for work and one for rest. 
+Each month had six weeks. Holidays made up the required number for a solar year. The Gregorian 
+month names were retained but the days were simply numbered 1, 2, 3, 4 and 5. By 1940 the Soviet 
+Union had returned to the Gregorian calendar.
+
+--- PAGE 25 ---
+Nicolas Copernicus – Renaissance Man 
+ 
+  Nicolas Copernicus was born in northern Poland in 1473. At the age of ten his father had 
+died and the Church became his home. Nicolas was appointed canon at age 24 and held that 
+position until he died in 1543. He studied mathematics, astronomy, medicine, church law and 
+painting. The picture typically associated with Copernicus is a self-portrait. He lived in the time 
+of Michelangelo, Leonardo da Vinci, Gerrard Mercator and Christopher Columbus. Copernicus 
+was truly a Renaissance man. 
+ Copernicus became interested in the fact that, since its beginning, the Julian calendar, 
+instituted in 45 B.C., showed a difference of ten days between the predicted and the actual spring 
+equinox. He turned to the writings of Ptolemy. Ptolemy took Aristotle’s geocentric universe and 
+explained planetary motion using a system of epicycles and deferents. As complicated as the 
+system was, it did a reasonably good job of describing the paths of the planets through the 
+heavens. So good in fact that Ptolemy’s Almagest wasn’t seriously challenged for over a 
+millennia.  
+ So how could Copernicus improve upon or replace such a system? Even though the 
+Ptolemaic system was extremely complicated and confusing, it was never Copernicus’ intention 
+to correct the Almagest. As a purely academic exercise he proposed an aesthetic alternative. 
+Copernicus postulated no new theory; he collected no data nor formulated any new mathematics 
+or offered any proof. He merely posed the question, “What If?” What if the stationary earth were 
+replaced with a moving earth? The resulting heliocentric did not replace the epicycle, nor could it 
+predict the position of the planets with any greater accuracy than Ptolemy’s theory. The appeal 
+and acceptance of the Copernican system was its simplicity and elegance, an idea whose time 
+was right in Renaissance Europe.
+
+--- PAGE 26 ---
+The Fastest Airplane in the World 
+ 
+ 
+The Air Force SR-71, Blackbird, has a cruise speed of mach 3.2 (over 2200 mph). This 
+speed is about 3500 feet per second, faster than a 30-06 rifle bullet. A turning pilot pulling 3 G’s 
+requires 20 miles just to make a right turn. The SR-71 acquired the official name Blackbird 
+because of the special paint that covers the plane. The paint absorbs radar and also radiates heat 
+from the airframe, which, due to air friction, can reach up to 900 degrees F. The black color also 
+acts as camouflage at high altitude where its silhouette blends into the darkness of inner space. 
+The paint also allows the plane to run about 75 degrees F cooler. 
+ 
+ In order to withstand extreme temperatures, the airframe is made from 99 percent 
+titanium composite. The landing gear was the largest titanium forging in the world. The United 
+States, needing titanium, bought all it needed from the Russians. In addition to airframe 
+modifications to fend off heat, the tires are impregnated with aluminum and filled with Nitrogen. 
+Exhaust temperatures can reach upwards of 3200 degrees F. 
+ 
+It is not until after take off that the Blackbird can take on a full tank of fuel. Until the 
+Blackbird reaches operating temperatures the skin panels of the plane do not expand enough to 
+seal causing the fuel tanks to leak. This is also a problem when refueling. The Blackbird must 
+slow down and therefore cool, again, causing the tanks to leak. 
+  
+Over 1,000 missiles have been launched at the Blackbird; the black plane has out run 
+them all. The SR-71 Blackbird had no digital gages and was designed without the aid of a 
+computer; the primary design tool was the slide rule.
+
+--- PAGE 27 ---
+Johannes Kepler – A Life of Tragedy 
+ 
+Johannes Kepler was born premature in Weil der Stadt, Germany on December 27, 1571. 
+Son of Heinrich and Katherine, Heinrich was a vicious, quarrelsome mercenary of the Duke of 
+Alba. Kepler’s mother, Katherine, was the daughter of an innkeeper and raised by an aunt who 
+was burned at the stake for witchcraft. Kepler’s mother, who had a vile temper, dabbled in the 
+occult, was arrested, imprisoned and nearly burned at the stake herself. By the age of three 
+Johannes contracted smallpox and his hands were left crippled. His grandfather raised him in a 
+small cottage crowded with more than a dozen family members. Johannes was bestowed at birth 
+with the gift of genius at a time when the rest of his brothers and sisters suffered from severe 
+mental and physical handicaps. Kepler himself was not immune from the family curse of 
+physical infirmity, for he was bowlegged, frequently covered with boils, and suffered from 
+congenital myopia and multiple vision. Unfit for physical labor Kepler prepared for a life as a 
+religious clergy. Three of Kepler’s children died, at least one from smallpox, and his first wife 
+was claimed by typhus. Throughout Kepler was kept on the move trying to avoid wars or 
+religious reformations. His genius as a mathematician would soon become apparent. 
+Kepler studied the Greek astronomers in an attempt to make a real science out of 
+astrology. He also attempted to use astrological techniques to solve Biblical mysteries. He 
+worked out the date of creation to be 3992 B.C. and placed the birth of Christ at five years earlier 
+than the accepted date. Johannes supported himself in part by casting astrological horoscopes for 
+various noblemen. He became interested in the “music of the spheres” first studied by 
+Pythagoras where exact musical notes would correspond to planetary cycles.
+
+--- PAGE 28 ---
+Galileo and Aristotle on Early Mechanics 
+ 
+ 
+In an older high school physics textbook (1970’s, Project Physics or Harvard Project), historical 
+development of kinematics by Aristotle and Galileo and others is presented. This is explored in 
+Chapter 2 (pp. 37-60) of the 1975 edition, especially about Galileo’s work. A short summary of 
+this historical presentation is given below: 
+ 
+Aristotle “the Philosopher” was well informed on topics of biology, psychology, politics and 
+literature. Aristotle was thought to be born in 384 BC; he thought that a heavy object falling 
+toward the center of earth is an example of “natural” motion, and the heavier the body, the faster 
+it would fall. Also, objects reach a final speed based on the amount of “content” within a body. 
+ 
+Other Aristotle ideas state that a “violent” motion must be caused by a force, so the bigger the 
+force the faster the motion. Also, Aristotle believed that mathematics played little value in 
+describing terrestrial phenomena and these ideas were still accepted into the 15th and 16th 
+centuries until Galileo and others questioned some of Aristotle’s teachings.  
+                                      
+Galileo described mathematically the motion of ordinary objects, horses moving falling stones 
+and balls rolling on inclines. This intellectual revolution is now considered modern science.  
+Galileo read from Euclid and Archimedes and that changed his interest from medicine to 
+physical sciences. He was appointed professor of mathematics at Pisa at age 26 and began 
+challenging older professors, making enemies. Also, he supported the sun-centered theory of the 
+universe and brought on a lot of enemies, also immortal fame. 
+ 
+When a light and heavy body drop from rest, they fall side by side and almost hit at the same 
+time. The important point is not that the time of arrival is slightly different, but that they are very 
+nearly the same! Galileo attributed the difference due to air resistance. Galileo saw that to study 
+freely falling objects is the key to understanding all observable motions of all bodies in nature. 
+Galileo chose to define uniform acceleration as the motion in which the change in speed 
+definition matches the real behavior of moving bodies. 
+ 
+Since Galileo had no accurate timepiece, he used mathematics to derive relationships that could 
+be tested. Specifically, for uniform acceleration from rest, the distance traveled is proportional to 
+the square of the time elapsed. 
+ 
+Tests of this hypothesis of freely falling bodies do exhibit just such motion. Galileo went further 
+in stating that if the same relationship would hold for a ball down an incline, the acceleration 
+would just be less. This indirect test took place on a 12 cubit wooden ramp (1 cubit = 20 inches) 
+repeating trials often to obtain consistent data. Graphing his data, Galileo proved that freely 
+falling bodies uniformly accelerate, but at a lesser value on a ramp. 
+ 
+Galileo learned that an effective way to do scientific research is to make a general observation, 
+hypothesis, mathematical analysis or deduction from the hypothesis, experimental test of 
+deduction and revision of deduction.
+
+--- PAGE 29 ---
+Topic 3:  Follow-Up Quiz/Test   
+ 
+ 
+1. (a) 
+ 
+ 
+(m) 
+ 
+-6        -5         -4        -3         -2        -1           0          1          2          3          4          5          6 
+ 
+Draw a displacement vector starting at 2 m on the above number line for a positive 2 m 
+length. Continue where you left off with a second displacement going a negative 6 m.  
+Finally, go a positive 1 m. From your starting point, what is the resulting displacement 
+vector? 
+ 
+(b) For constant motion, a body will travel equal distances in _________________________. 
+ 
+ 
+(c) 
+9 
+ 
+ 
+6 
+ 
+                      d 
+                   (cm)     3 
+ 
+ 
+                                0 
+                                    0              1              2              3              4 
+                                                                  t (s) 
+ 
+ 
+1.   Use a solid line on the above position-time graph to show a body’s constant motion at 
+2.0 cm/s. 
+ 
+2.  Use a dotted line on the above position-time graph to show no motion.
+
+--- PAGE 30 ---
+(d) 
+15 
+ 
+ 
+ 
+ 
+ 
+       10 
+ 
+                      v 
+                  (cm/s) 
+                                 5 
+ 
+ 
+ 
+                                 0 
+                                       0               1               2               3               4 
+                                                                 t (s) 
+ 
+ 
+1. A body that accelerates at a constant rate changes _____________________ in equal 
+times. 
+ 
+2. Sketch a curve on the graph using a dotted line to show a body at rest. 
+ 
+3. Sketch a curve on the graph using a solid line for a body accelerating at 5 cm/s/s.
+
+--- PAGE 31 ---
+2. Using proper graphing techniques, sketch a curve on the blank graph below the following 
+event: A turtle moves at a constant rate at 10 cm in 2 s for a period of time of 3 s. Then the 
+turtle uniformly gains speed to 15 cm/s in 3 s.
+
+--- PAGE 32 ---
+Topic 3: Follow-Up Quiz/Test Answer Sheet  
+ 
+                                                                                          R = -3 m 
+1. (a) 
+ 
+ 
+ 
+ 
+-6        -5        -4         -3         -2        -1          0 m       1         2          3          4          5          6 
+ 
+Draw a displacement vector starting at 2 m on the above number line for a positive 2 m 
+length. Continue where you left off with a second displacement going a negative 6 m.  
+Finally, go a positive 1 m. From your starting point, what is the resulting displacement 
+vector? 
+ 
+ 
+(b) For constant motion, a body will travel equal distances in equal times. 
+ 
+ 
+ 
+ 
+(c) 
+9 
+ 
+ 
+6 
+ 
+                      d 
+                   (cm)     3 
+                                                                                                                    (one example of 
+                                                                                                                    no motion) 
+                                0 
+                                    0              1              2              3              4 
+                                                                  t (s) 
+ 
+ 
+1.   Use a solid line on the above position-time graph to show a body’s constant motion at 
+2.0 cm/s. 
+ 
+2.   Use a dotted line on the above position-time graph to show no motion.
+
+--- PAGE 33 ---
+(d) 
+15 
+ 
+ 
+ 
+ 
+ 
+       10 
+                                           (a = 5 cm/s/s) 
+                      v 
+                  (cm/s) 
+                                5 
+ 
+                                                                                                                       (body at rest ) 
+ 
+                                0 
+                                       0               1               2               3               4 
+                                                                 t (s) 
+ 
+ 
+1. A body that accelerates at a constant rate changes equal velocities in equal times. 
+ 
+2. Sketch a curve on the graph using a dotted line to show a body at rest. 
+ 
+3. Sketch a curve on the graph using a solid line for a body accelerating at 5 cm/s/s.
+
+--- PAGE 34 ---
+2. Using proper graphing techniques, sketch a curve on the blank graph below the following 
+event: A turtle moves at a constant rate at 10 cm in 2 s for a period of time of 3 s. Then the 
+turtle uniformly gains speed to 15 cm/s in 3 s. 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 18 
+ 
+ 
+ 16 
+ 
+ 
+ 14 
+ 
+v (cm/s) 
+ 12 
+ 
+ 
+ 10 
+ 
+ 
+   8 
+ 
+ 
+   6 
+ 
+ 
+   4 
+ 
+ 
+  2 
+ 
+ 
+  0 
+         
+       0          1          2          3          4          5           6           7 
+                                                t (s)

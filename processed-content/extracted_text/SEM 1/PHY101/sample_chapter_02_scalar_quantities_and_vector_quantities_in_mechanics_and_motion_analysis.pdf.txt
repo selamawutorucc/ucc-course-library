@@ -1,0 +1,1466 @@
+
+--- PAGE 1 ---
+C H A P T E R two
+SCALAR QUANTITIES AND
+VECTOR QUANTITIES IN
+MECHANICS AND MOTION
+ANALYSIS
+C H A P T E R objectives
+To give students a good basic understanding of vectors and scalars and their ap-
+plication to mechanics.
+C H A P T E R outcomes
+After reading this chapter, the student will be able to:
+■Distinguish between vectors and scalars.
+■Add and subtract vectors by the tip-to-tail method.
+■Add and subtract vectors using unit vectors or vector components.
+■Resolve a vector into components along orthogonal axes.
+■Use the Pythagorean theorem to add two orthogonal vectors.
+■Use the cosine rule to add two non-orthogonal vectors.
+■Use the scalar or ‘‘dot’’ product of two vectors to evaluate work done by a
+force.
+■Use the vector or cross‘‘product of two vectors to evaluate turning moments or
+torques.
+25
+
+--- PAGE 2 ---
+26
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.1
+Distinguishing
+between a distance moved
+(a scalar) and a
+displacement (a vector).
+Finish
+The distance
+moved (scalar)
+The
+The
+displacement
+displacement
+vector
+vector
+The
+displacement
+vector
+Start
+2.1
+Addition and Subtraction of Vectors
+The study of mechanics involves the measurement of physical quantities such as
+position, mass, velocity, acceleration, force, moment of inertia, time, and angular
+speed. Some of these quantities are called scalar quantities because they can be
+described completely by single numerical values and are nondirected quantities;
+mass, time, angular speed, and moment of inertia are all scalar quantities. Vector
+quantities, on the other hand, are completely described by a magnitude and a
+direction. Displacement, velocity, acceleration, and force are all vector quantities.
+With vector quantities, the size or magnitude of the quantity must be specified along
+with the direction.
+The difference between a vector and a scalar can be most successfully demon-
+strated by comparing a displacement and a distance moved. A displacement is a
+vector movement joining the initial position to the final position by a straight line.
+The distance, on the other hand, is a scalar quantity indicating the total distance
+moved, including any diversions from a straight path. For example, Figure 2.1 shows
+a runner running three quarters of the way round a 400-m oval track in a time of
+40 s. In this example, the displacement, d, is a vector approximately 130 m long
+pointing in the direction shown, but the distance s moved is 300 m measured all
+the way along the track. Likewise, we can distinguish between velocity (vector v)
+and speed: the velocity is displacement divided by time taken and so is a vector in
+the same direction as d. The speed is the distance traveled divided by the time
+taken and is a scalar. Therefore, in this example, velocity  3.25 m/s and speed
+ 7.5 m/s.
+2.1.1 ADDITION OF SCALARS
+Scalars can be added by simple addition. Two masses of 50 kg each would make a
+total of 100 kg. In general, if S1, S2, S3, . . . . . . . . ., Sn are scalars to be added
+together, then the sum of all of them is:
+S  S1  S2  S3  . . . . . . . . . . . . . . . . . .  Sn
+BOX 2-1
+Examples of Scalar Quantities
+A mass of 80 kg
+A time of 55 s
+A moment of inertia of 0.2 kg/m2
+Anangularspeedof10rad/s(radianspersecond)
+
+--- PAGE 3 ---
+■Addition and Subtraction of Vectors
+27
+BOX 2-2
+Examples of Vector Quantities
+A velocity of 12 m/s directed due east
+An acceleration of 5 ms2 from left to right
+A force of 20 N acting vertically upward
+A displacement of 5 m along the line joining A and B
+Sometimes this is written in textbooks or scientific publications as:
+S 
+n
+i1
+Si
+where the symbol  stands for summation or ‘‘the sum of.’’ The ‘‘dummy’’ index
+or subscript i is used to show that there are n terms to the summation with i taking
+on all the whole-number values from 1 to n.
+2.1.2 ADDITION OF VECTORS
+Vectors add together by simple addition provided that they are both pointing along
+the same straight line. A displacement of 100 m due south followed by a further
+displacement of 200 m due south gives a total displacement of 300 m due south.
+However, vector addition does not proceed so simply if there is an arbitrary angle
+between the two vectors. We adopt the convention in this book that vectors are
+represented by bold, italicized capital letters in the text. Two or more such vectors
+can then be added by the ‘‘tip-to-tail’’ approach. Let’s take two vectors, A (a displace-
+ment of 50 m due north) and B (a displacement of 75 m due northeast) and try
+to add them using the ‘‘tip-to-tail’’ method (Fig. 2.2).
+Starting from point P, a person (or any other object) undergoing these two
+displacements, say A first and then B, the person or object would move first to point
+Q and then to point R. The overall displacement is clearly a vector pointing from
+P (the starting point) to R (the finishing point). Also, the result would still be the
+same if B was executed first and then A. We can summarize this as follows:
+If the addition of the two vectors is represented by C, then:
+C  A  B
+BOX 2-3
+Examples of Scalar Addition
+25, 30, and 45 kg add to give 100 kg.
+CAUTION:
+The values of moments of inertia depend on what axis is taken,
+Times of 20, 10, and 15 s add to give 45 s.
+so that it may not make physical sense to simply add moments of
+Moments of inertia 0.2 and 0.1 kg/m2 add to
+inertia as we have done here. Also, angular speeds, which, al-
+give 0.3 kg/m2.
+though in principle, can be added together simply like this, in prac-
+Angular speeds of 5 and 2.5 rad/s add to give
+tice, other physical laws may be at work, meaning that addition of
+7.5 rad/s.
+angular speeds proceeds according to different rules. (See Chap-
+ters 6 and 7, which deal with angular kinetics and dynamics.)
+
+--- PAGE 4 ---
+28
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.2
+Addition of
+two vector quantities by the
+tip-to-tail method.
+S
+N
+E
+W
+50 m
+75 m
+Resultant
+R
+P
+Q
+(i.e., resultant displacement PR  displacement PQ  displacement QR)
+and
+A  B  B  A (The order in which the displacements are done is unimportant.)
+The result in the above example is 115.88 m at an angle of 27.2 to PQ, but this
+will not be proved here. This can be shown approximately by a graphical method.
+Take a piece of graph paper with 1-cm squares, preferably also with 1-mm small
+squares, and draw the vectors starting from a point near the center of the graph
+paper, which we will call the origin (0,0). It always makes sense to choose the vertical
+and horizontal scales according to a ‘‘simple-to-use’’ rule. For example, if we choose
+each centimeter on the graph paper to represent 10 m, it is easy to draw vectors
+such as 50 m north because it would be 5 cm on the graph paper and pointing
+straight up. Also, if we wish to be able to measure angles on the graph paper, then
+it is essential to make the scales on the horizontal (x) and vertical (y) axes the same.
+If we wish to draw a vector at some other direction (e.g., for a vector northeast), we
+would draw it at an angle of 45 using a protractor and pointing in the positive x,
+positive y direction. Figure 2.3 shows the two vectors, A and B, and their resultant;
+in this case, it can be measured with a ruler as being 11.6 cm long and with a
+protractor as being 27 with respect to A.
+The magnitude of 11.6 cm translates to a displacement of 116 m and is only
+as accurate as the length measurement in percentage terms. In this case, the result-
+Figure 2.3
+Addition of
+two displacements A and B
+using a graphical method.
+South
+West
+East
+20
+20
+40
+40
+60
+60
+80
+80
+100
+100
+120
+120
+120
+120100
+100 80
+80 60
+60 40
+40 20
+20
+20
+20
+20
+20
+40
+40
+60
+60
+80
+80
+100
+100
+120
+120
+40
+40
+60
+60
+80
+80
+100
+100
+120
+120
+20
+40
+60
+80
+100
+120
+120100 80 60 40 20
+20
+20
+40
+60
+80
+100
+120
+40
+60
+80
+100
+120
+North
+
+--- PAGE 5 ---
+■Addition and Subtraction of Vectors
+29
+Figure 2.4
+A football
+player subject to two forces:
+his weight acting vertically
+down from his center of
+mass and a force exerted by
+another player on his shirt
+acting down at an angle of
+25 below the horizontal.
+ant can only be measured with a ruler to 0.1 cm, so the displacement can only
+be quoted to 1 m, or about 1%.
+It is not always clear how two or more vectors can be added using the tip-to-
+tail method when the vectors themselves do not appear, at first glance, to be in a
+tip-to-tail position. Consider the example of the football player shown in Figure 2.4
+subject to some shirt tugging. In this unbalanced position, he is likely to fall down
+and injure himself because of the combined effect of his weight and the force
+exerted by the other player tugging his shirt. In this case, one or both forces can
+be translated in the plane of the figure so that they meet tip to tail. The result of
+this is shown in Figure 2.5 together with the resultant of the vectors W and F.
+Figure 2.5
+The two
+vectors W and F shown
+translated, without rotating
+either of them, and then
+added to form the resultant
+using the tip-to-tail method.
+Added to give resultant
+Translated
+vectors W
+and F
+1034.5 N
+63.5 deg
+Here are some arbitrary vectors A and B and their resultant C:
+C
+A
+A
+A
+B
+B
+B
+C
+C
+B
+B
+C
+C
+A
+A
+It also follows that any number of vectors A, B, C, D, . . . . . ,M, N can be added
+by placing them tip to tail and producing a polygon of vectors (Fig. 2.6), the resultant
+R being found by completing the polygon to make a closed figure.
+The order in which the vectors are added is not important. Again, the vectors
+can be translated in the plane of the figure to get them to be in the tip-to-tail
+position.
+
+--- PAGE 6 ---
+30
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.6
+Polygon of
+vectors.
+D
+E
+F
+G
+A
+B
+C
+R
+(resultant)
+Subtraction of vectors, as in A  B, can be achieved by adding A and (B multi-
+plied by scalar 1). This has the effect of changing the direction of the B vector
+by 180 (Fig. 2.7).
+■
+EXAMPLE 2.1
+A man throws a baseball with a velocity of 20 m/s at an angle of 30 with respect to the
+horizontal. Then he does the same throw, but this time he is running with a velocity of 5
+m/s in the same direction as the throw. What is the resultant velocity of the ball?
+20
+(b)
+(c)
+(a)
+24.5
+Angle 24
+degrees
+20
+30
+5
+(a) shows the velocity achieved in a normal throw
+(b) shows the velocities caused by running and throwing respectively
+(c) shows the formation of the resultant by the tip-to-tail method
+The resultant velocity with which the ball can be thrown is 24.5 m/s at an angle of 24 with
+respect to the horizontal, as calculated using the tip-to-tail method on graph paper. (Accurate
+values for these answers are 24.46 m/s and an angle 24.13; see section 2.1.4 for the method.)
+2.1.3 ADDING TWO VECTORS AT RIGHT ANGLES
+When two vectors act at right angles, the resultant can be easily found by adding
+the vectors using any of the techniques discussed so far. The result can also be
+Figure 2.7
+Subtraction of
+two vectors, A  B.
+A
+B
+A – B
+A
+B
+
+--- PAGE 7 ---
+■Addition and Subtraction of Vectors
+31
+Figure 2.8
+Addition of
+two vectors, P and Q,
+which are perpendicular to
+each other.
+
+P
+R
+Q
+B
+O
+A
+accurately found by using the Pythagorean theorem to find the diagonal in the
+rectangle formed.
+Consider a vector P represented by OA and a vector Q at right angles to P
+represented by AB (Fig. 2.8). The resultant R is represented by OB on Figure 2.8.
+The Pythagorean theorem gives this length as:
+(OB)2  (OA)2  (AB)2
+or
+R 2  P 2  Q 2
+giving
+R  P2  Q2
+.
+If the angle  is required, it is given by:
+tan   OA/AB  P/Q
+  tan1 (P/Q)
+■
+EXAMPLE 2.2
+An ice skater is propelling herself along a level horizontal ice field with a posterior force of
+50 N and a lateral force of 40 N. What is the resultant force of propulsion?
+R
+40 N
+50 N
+
+The resultant R can be evaluated in terms of magnitude and direction:
+Magnitude R  (50)2  (40)2  2500  1600  4100  64.03N
+Direction tan  40/50  0.8
+Therefore,   tan1(0.8)  38.66 or 0.6747 radians
+Appendix 1 on Units and Mathematics gives further information on the Pythagorean
+theorem and trigonometry.
+C A S E Study 2.1
+Magnitude and Direction of Force Vectors During Walking
+An AMTI force plate is used to measure the ground reaction force (GRF) of someone walking
+across the plate. For this particular force plate, the z axis is vertically up, and the x and y axes
+
+--- PAGE 8 ---
+32
+TWO ■Principles of Biomechanics and Motion Analysis
+are in the horizontal plane. The following diagram shows the force plate and its relationship with
+the rectangular coordinate axes. The person walks across the plate in the positive x direction.
+Force plate FP1
+x direction
+(direction
+of walking)
+z direction
+The plate produces voltage outputs corresponding to the x, y, and z components of
+the GRF as a function of time. The graph shows the components of primary interest, namely
+the x and z components of the GRF, using a data collection frequency of 600 Hz for all force
+components.
+FP1 Fz
+0.2
+0.4
+0.6
+0.8
+Time (s)
+FPI Fx
+1
+1.2
+150
+100
+50
+0
+100
+150
+200
+50
+1200
+1000
+800
+600
+200
+0
+200
+400
+FP1 Fz N
+FP1 Fx N
+The graph shows the force components Fx and Fx of a normal walking gait. The vertical
+component Fz is shown as a solid line and has two minima at approximately 0.47 s and 0.86
+s. The horizontal component Fx is shown as a dashed line and commences with a mainly
+negative section before changing to a positive value at approximately 0.72 s. The significance
+of the positive and negative signs of the force components in this example is clarified by
+considering the forces acting on the person’s foot during the push-off phase.
+Direction of
+forward motion (x)
+Horizontal GRF
+acting forward
+on foot during
+push-off phase
+(positive on
+above graph)
+Vertical GRF
+acting
+upward
+on foot
+(negative
+on above
+graph)
+
+--- PAGE 9 ---
+■Addition and Subtraction of Vectors
+33
+Table 2.1
+z- and x-force components at five selected times
+z-Component of
+x-Component of
+Time t (s)
+Force (N)
+Force (N)
+Comment
+0.3583
+501.585
+87.3915
+50% of Fz min
+0.47
+990.525
+102.3729
+Local minimum in Fz
+0.64
+605.555
+26.0391
+Local minimum in Fz
+0.86
+937.135
+134.1192
+Local minimum in Fz
+0.9533
+469.27
+159.8016
+50% of Fz min
+The picture shows the foot in contact with the force plate during the push-off phase
+showing the x and z force components acting on the foot. Table 2.1 shows the values of Fx
+and Fz at five selected times.
+Using these force components, we can calculate the angle  and the magnitude of the
+force F at these times. The angle  at time t  0.3583 s can be calculated from:
+tan   87.3915
+501.585  0.1742
+F
+
+87.3915 N
+501.585 N
+  tan1 (0.1742)  9.88
+Let us call this a positive angle, although such a distinction is arbitrary, with the benefit that
+if the x component becomes positive, the angle will become negative. The magnitude of the
+GRF acting on the foot is:
+F  (501.585)2  (87.3915)2  509.14N
+Likewise, the angles and magnitudes of the force acting on the foot can be calculated at the
+other times, so giving a table of force magnitudes and angles (Table 2.2). The vector diagram
+shows the force vector F and its angle of lean roughly to scale.
+t  0.36 s
+t  0.47 s
+t  0.64 s
+t  0.86 s
+t  0.95 s
+
+--- PAGE 10 ---
+34
+TWO ■Principles of Biomechanics and Motion Analysis
+Table 2.2
+Magnitude and angle of the resultant force vector at five selected times
+Time (s)
+Magnitude of GRF (N)
+Angle (deg)
+0.3583
+509.14
+9.88
+0.47
+995.80
+5.90
+0.64
+606.11
+2.46
+0.86
+946.68
+8.14
+0.9533
+495.73
+18.8
+GRF  ground reaction force.
+2.1.4 PARALLELOGRAM RULE
+If OA and AD (Fig. 2.9A) represent two vectors P and Q making an angle  with
+one another, then the resultant R can be calculated using the cosine formula:
+OD2  OA2  AD2  2OA.AD cos(180  )
+or, using R, P, and Q to stand for the magnitudes OD, OA, and AD, respectively:
+R2  P2  Q2  2P.Q cos(180)
+or R2  P2  Q2  2P.Q cos
+The angle  between R and P is given by
+tan   DE
+OE 
+Q sin
+P  Q cos
+The angle  between P and Q appears as an exterior angle in the triangle. For this
+reason and another reason discussed later, it is often considered best to draw OB
+ AD to represent Q (Fig. 2.9B) so that a completed parallelogram is formed, of
+which the diagonal through O represents R. Thus, if OA and OB represent the size
+and direction of two vectors P and Q, their resultant R is represented in size and
+direction by the diagonal OD of the parallelogram OADB.
+When dealing with the cosine rule, it is essential to label the angles and lengths
+of the sides of the triangle with a logical system of symbols and to be able to link
+them with the appropriate formulae. To give an example, let us consider a sprinter
+on the starting blocks before the starting pistol has been fired. The forces acting
+on the sprinter are his weight acting vertically down, the reaction force at the blocks,
+Figure 2.9
+(A) and (B)
+The parallelogram rule.
+R
+R
+B
+P
+O
+O
+A
+A
+Q
+Q
+
+
+
+
+E
+D
+D
+P
+(a)
+(b)
+
+--- PAGE 11 ---
+■Addition and Subtraction of Vectors
+35
+B 
+B  525 N
+ 525 N
+B  525 N
+A  780 N
+C  unknown
+force
+Figure 2.10
+The sprinter in the starting blocks experiences three forces: the weight, A,
+acting at the center of mass; the reaction force, B, at the blocks acting on his body of
+magnitude 525 N and at an angle of 70 with respect to the horizontal; and C, an
+unknown force acting at an unknown angle and with an unknown magnitude. The mass of
+the sprinter is 78 kg, and the magnitude of A is, therefore, approximately 780 N. The
+blocks are instrumented with strain gauges and give an accurate measure of the force B.
+and the reaction force that the ground exerts on his hands. This example is shown
+in Figure 2.10, in which A represents the weight of the sprinter, B represents the
+reaction force exerted by the blocks on the feet (sum of the left and right feet),
+and C represents the total reaction force exerted by the ground on the hands.
+If the sprinter is not moving and not accelerating, the three forces, A, B, and
+C, will be in equilibrium (see Chapter 3) and will form a closed triangle of forces;
+there is 0 overall resultant. This fact together with the cosine rule can enable us to
+find the unknown force C.
+The forces A, B, and C can be shown on a vector diagram (Fig. 2.11A). Figure
+2.11B shows the preferred general labeling of any triangle for application of the co-
+sine rule. Based on Figure 2.11B, the formulas for the cosine rule can be written as:
+A2  B2  C2  2BC cos
+B2  A2  C2  2AC cos
+C2  A2  B2  2AB cos
+C
+(a)
+(b)
+B
+a
+b
+c
+A
+C  ?
+  ?
+A  780 N
+B  525 N
+  20 deg
+
+
+
+Figure 2.11
+(A) The forces A, B, and C exerted on the body of the sprinter with a
+resultant of 0. The force C is unknown and can be calculated from the cosine rule. This is
+true provided the sprinter is stationary and not accelerating. (B) The general labeling of a
+triangle before application of the cosine rule. The lengths of the sides of the triangle are
+allocated symbols A, B, and C on an arbitrary basis. The angle opposite the A side is labeled
+, the angle opposite the B side is labeled , and the angle opposite the C side is labeled .
+This should be adhered to carefully so that the cosine rule formulae can be applied correctly.
+If the angles  and  are interchanged, for example, errors may occur in calculation of lengths
+and angles. If desired, the three apexes can be labeled a, b, and c with apex a opposite side A
+and so on.
+
+--- PAGE 12 ---
+36
+TWO ■Principles of Biomechanics and Motion Analysis
+It is recommended that these rules are remembered and applied in this form
+to avoid confusion and to provide a logical basis for calculations. This rule is also
+summarized in Appendix 1.
+In Figure 2.11A, the magnitude of C is unknown. This can be found by applying
+the cosine rule:
+C2  A2  B2  2AB cos
+C2  (780)2  (525)2  2(780)(525)cos(20)
+C2  608400  275625  769608.3  114416.7
+C  338.25 N
+In some textbooks, this is sometimes written as C the magnitude of the vector C.
+In this book, the vector is shown in bold italics C and the magnitude of the vector
+is shown as just C or C.
+To find the angle at which C acts at the hands, the cosine rule can be applied
+again, or a variety of other methods can be used. Applying the cosine rule:
+cos  B2  A2  C 2
+2AC
+ 275625608400114416.7
+2(780)(338.25)
+ 447191.7
+528060
+ 0.8468
+  32.1
+The reaction force at the hands acting on the sprinter’s body is of magnitude 338
+N and acts at an angle of 57.9 with respect to the horizontal.
+■
+EXAMPLE 2.3
+A sailboat moves 1200 m due east followed by 1500 m due northeast. What is the overall
+displacement?
+Solution A: Graphical
+Method
+Draw a vector diagram on graph paper showing the two displacements drawn to scale (e.g.,
+1 cm to every 100 m.) The initial position of the boat can be taken at the origin of coordinates
+(0,0) at the bottom lefthand corner of the graph paper.
+Origin
+45
+12 cm
+15 cm
+Final position
+(0, 0)
+The angle of 45 for the second leg of 1500 m is drawn in accurately using a protractor.
+The resultant displacement is now represented by the line (not shown) joining the origin to
+the final position. By measuring with a ruler, this length is 25 cm (or 2500 m 10 m), and
+the angle of the resultant with the horizontal is 25 1.
+Solution B: Cosine Rule
+45
+1200 m
+a
+b
+1500 m
+c
+
+
+
+
+--- PAGE 13 ---
+■Resolution of a Vector Into Components
+37
+The angle  is (180  45)  135.  and  are unknown. If the length ab  C, bc  A
+and ac  B, then:
+B2  A2  C2  2AC cos  (cosine rule)
+so that:
+B2  12002  15002  2(1200)(1500) cos (135)
+B2  1440000  2250000  3600000(0.7071)
+ 1440000  2250000  2545560
+ 6235560
+B  2497.1 m
+For a complete solution, one of the angles  or  (preferably ) would have to be specified
+in order to describe the direction of the resultant ac. It can be calculated from the cosine
+rule in this form:
+A2  B2  C2  2BC cos 
+cos  A2  B2  C2
+2BC
+ 225000062355601440000
+2(2497.1)(1200)
+ 56425560
+5993040  0.9053
+  cos1(0.9053)  25.1
+or, alternatively, it can be calculated using
+tan  
+(BC)sin
+(AB)(BC)cos 
+1500sin(45)
+12001500cos(45)1060.66
+2260.660.4692
+tan1(0.4692)25.1
+2.2
+Resolution of a Vector Into Components
+2.2.1 RESOLUTION OF A VECTOR ALONG TWO PERPENDICULAR
+DIRECTIONS
+We can resolve any given vector into two others in any two given directions by
+working the parallelogram rule backward, starting with the diagonal and drawing
+the adjacent sides in the chosen directions. The most important case is when the
+two directions are at right angles to each other; the two vectors then obtained are
+called the components of the original vector. When working in three dimensions,
+a vector can be resolved into three components along three perpendicular axes.
+Thus, given a vector R, to find the components in two directions 1 and 2 at
+right angles to one another, OD is drawn to scale to represent R, the rectangle
+OADB is constructed where OA represents P, the component in direction 1, and
+OB represents Q, the component in the direction 2. This procedure is summarized
+in Fig. 2.12
+Figure 2.12
+Resolution
+of R in directions 1 and 2 at
+right angles.
+A
+O
+P  R cos 
+Q   R sin 
+D
+B
+R
+R
+1
+2
+
+
+--- PAGE 14 ---
+38
+TWO ■Principles of Biomechanics and Motion Analysis
+As OA/OD  cos 
+P/R  cos , or P  R cos 
+and as OB/OD  AD/OD  sin 
+Q/R  sin , or Q  R sin 
+See also Appendix 1 for a summary of mathematical techniques.
+■
+EXAMPLE 2.4
+A javelin is thrown with an initial velocity of 20 m/s at an angle of 45 to the horizontal.
+Resolve this velocity into vertical and horizontal components.
+Solution
+45
+20 m/s
+vx
+vy
+The horizontal and vertical components are shown on the diagram as vx and vy, respectively.
+vx  20 cos 45  20(0.7071)  14.14 m/s
+and
+vy 20 sin 45  20(0.7071)  14.14 m/s.
+In this example, vx and vy are equal. The original velocity of 20 m/s acting at 45 is entirely
+equivalent to the combined action of its components vx and vy and can be replaced by them
+in all calculations. It should be stressed, however, that you should only resolve once. Also,
+when components are taken, the original vector should then be forgotten about and ignored
+because it has been replaced by its components.
+■
+EXAMPLE 2.5
+An athlete’s foot produces a GRF of 410 N horizontally and 520 N vertically. What is the
+magnitude of the GRF and its angle with respect to the horizontal?
+Solution
+In this case, the angle  that the force makes with the horizontal is unknown.
+
+F
+Fy  520 N
+Fx  410 N
+The magnitude of the force F is given by:
+F  F2x  F2y  4102  5202 (by the Pythagorean theorem)
+F  662.2 N
+
+--- PAGE 15 ---
+■Multiplication of Vectors
+39
+The angle at which F acts is given by:
+tan   520
+410  1.268
+tan1(1.268)  51.7
+2.2.2 UNIT VECTORS IN THREE DIMENSIONS
+Vectors can be conveniently expressed in terms of unit vectors (meaning vectors
+whose magnitude is one) pointing along the chosen coordinate axes. With rectangu-
+lar righthanded x, y, and z axes (Fig. 2.13), the unit vectors are called i, j, and k
+and point along the positive x, y, and z axes, respectively. This means that any vector
+V can be written as:
+V  Vx i  Vy j  Vz k
+where Vx, Vy and Vz are the components of V along the x, y, and z axes, respectively.
+This is sometimes abbreviated to just:
+V  (Vx, Vy, Vz)
+This means that any vector can be expressed as Vx units to the right, Vy units up,
+and Vz units perpendicular to the first two. It also follows that the magnitude of a
+vector V can be expressed as:
+V 2Vx2Vy2Vz2 or V(Vx2Vy2Vz2)1/2
+To add two vectors A and B, the resultant can be written as:
+R  A  B  (Ax  Bx)i  (Ay  By)j  (Az  Bz)k
+2.3
+Multiplication of Vectors
+2.3.1 MULTIPLICATION OF A VECTOR BY A SCALAR
+A vector can be multiplied by a scalar quantity to produce another vector. Thus, if
+we have a vector A and a scalar c, then the product of the two is another vector cA.
+The properties of cA are:
+1. It has the same direction as the first vector A if c is positive and has the
+opposite direction to A if c is negative. If c  0, clearly cA is 0 as well.
+Figure 2.13
+Unit vectors
+pointing along righthanded
+x, y, and z axes.
+z
+x
+y
+j
+i
+k
+
+--- PAGE 16 ---
+40
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.14
+Illustration of
+the effect of multiplication
+by various positive and
+negative scalars on a vector
+A. The vectors in the lower
+half of this diagram
+represent vectors cA for
+c  2, 1, 0, 1 and 2.
+c  1
+Original
+vector A
+c  0
+c  2
+c  2
+c  1
+2. Its magnitude is increased or decreased by the magnitude of c. So, if c 
+0.5, then the magnitude of the new vector will be one half the magnitude
+of A. If c  3, then the magnitude of cA will be three times that of A.
+Figure 2.14 shows an arbitrary vector and how it is altered for five different
+values of the scalar c.
+C A S E Study 2.2
+Higher Velocity with New Golf Club
+A new design of golf club enables professional players to achieve 15% more velocity off the
+tee on average than with the previous best golf clubs. An average velocity with the new club
+was 51.42 m/s compared with 44.72 m/s previously. The direction of hitting remains un-
+changed on average.
+1.15 V
+New club
+Previous
+club
+V
+C A S E Study 2.3
+Velocity of a Baseball at Different Times
+A pitcher pitches a ball in the game of baseball. The velocity components of the ball at three
+different subsequent times are given in Table 2.3. At t  0.675 s, the ball is in the pitcher’s
+hand and is being accelerated down. At t  0.800 and 0.925 s, the ball is in the air and is
+moving down toward the ground. The velocity vectors at these times can be written as:
+Table 2.3
+The x, y, and z components of the ball velocity at three selected times
+t (s)
+Vx (m/s)
+Vy (m/s)
+Vz (m/s)
+0.675
+2.733
+2.527
+1.863
+0.800
+4.008
+4.062
+6.471
+0.925
+3.911
+3.961
+7.405
+
+--- PAGE 17 ---
+■Multiplication of Vectors
+41
+v  2.733i  2.527j  1.863k
+v  4.008i  4.062j  6.471k
+v  3.911i  3.961j  7.405k
+The magnitudes of the resultant velocity vectors are 4.162, 8.628, and 9.264 m/s, respectively.
+■
+EXAMPLE 2.6
+A ball experiences two forces: its weight W  5 N acting vertically down and a drag force
+directed in a direction opposite to the velocity of the ball. The velocity of the ball is given
+by v  15i  18j 20k. The drag force is given by:
+Fd  0.01  (speed)2
+Figure out the weight of the ball and the drag force in terms of unit vectors i, j, and k. What
+is the resultant force on the ball in terms of unit vectors?
+Solution
+The weight of the ball can be written as:
+W  0i  0j 5k
+The speed of the ball is given by the magnitude of its velocity:
+v  (15)2  (18)2  ( 20)2  225  324  400  949  30.8m/s
+Therefore, the magnitude of the drag force is given by:
+Fd  0.01(30.8)29.49N
+In terms of unit vectors, it can be written as Fd  (magnitude)  vˆ , where vˆ is a unit vector
+along the direction of v.
+A unit vector along the direction of the velocity would be
+vˆ  15i  18j  20k
+30.8
+ 0.487i  0.584j  0.649k
+We can write the drag force as:
+Fd  9.49  (0.487i  0.584j  0.649k)
+Fd  4.621i  5.542j  6.162k
+The overall force can be written as:
+F  W  Fd
+F  4.621i  5.542j  11.162k
+2.3.2 SCALAR PRODUCT OF TWO VECTORS
+If we have two vectors A and B, then their scalar (or dot) product is defined as:
+A.B  A B cos 
+where A and B are the magnitudes of the vectors and  is the smallest angle ( 180)
+between them when their tails touch, as in Figure 2.15. Because A, B, and cos  are all
+Figure 2.15
+Two
+vectors, A and B, and the
+angle between them.
+O
+B
+A
+
+
+--- PAGE 18 ---
+42
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.16
+Work done
+by a force F acting at an
+angle  to the ground is
+W  Fd.
+x
+F
+d
+y
+scalars, then so is the scalar product A.B (read as A ‘‘dot’’ B), hence the name scalar
+product. If the two vectors are expressed in terms of unit vectors, then:
+Scalar product  A.B  AxBx  AyBy  AzBz
+This is useful in mechanics, particularly when it comes to defining the work done
+by a force, F, that is moved through a displacement, d (Fig. 2.16). We would then
+take the work done, W, as the scalar product of F and d:
+W  F.d  F d cos .
+If F and d are expressed using unit vectors, then the work done is:
+W F.d  Fxdx  Fydy  Fzdz
+The work done can then be viewed as the magnitude of the force (F) multiplied by
+the distance moved in the direction of the force (d cos ). If F and d are collinear, (
+ 0), then cos   1, and the work done is just force multiplied by distance moved.
+■
+EXAMPLE 2.7
+A man pushing a bobsleigh exerts a force of 550 N acting at an angle of 20 to the horizontal.
+What is the work done on the bobsleigh over a 20-m distance along the bobsleigh run?
+550 N
+20
+Bobsleigh
+Direction of motion
+Solution
+The work done is F.d  F d cos  where  is the angle between F and d. d is a displacement
+vector parallel to the direction of motion of the bobsleigh. The work done, therefore, is:
+W  10336.7 Joules (or Newton meters)
+■
+EXAMPLE 2.8
+A man pushing a bobsleigh exerts a force of 516.8 N horizontally and a force of 188.1 N
+vertically downward. The bobsleigh moves horizontally a distance of 20 m down the track.
+What is the work done on the bobsleigh?
+Solution
+Using unit vectors i, j, and k, the force exerted on the bobsleigh can be written as:
+F  516.8i - 188.1j  0k
+assuming the bobsleigh is moving along the horizontal x axis and the upward vertical direction
+is the y axis.
+
+--- PAGE 19 ---
+■Multiplication of Vectors
+43
+The displacement of the bobsleigh can be written as:
+d  20i  0j  0k.
+The work done can then be worked out as:
+W  F.d  Fxdx  Fydy Fzdz  516.8(20)  188.1(0)  0(0)
+W  10336 J
+C A S E Study 2.4
+Downward and Upward Movements in a Squat
+A weightlifter training for a competition squats 150 kg. On the downward movement, he
+allows the weight to fall at constant speed slowly to the lowest point by flexing his knees.
+He then pushes the weight upward at constant speed until his legs are straight. The total
+displacement is 0.9 m down and then 0.9 m back up. The weightlifter exerts a force F upward
+on the bar, which is roughly constant throughout the downward and upward movement,
+equal in magnitude roughly to the weight on the bar provided the upward and downward
+accelerations are small.
+Stationary:
+displacement  0
+F 
+1500 N
+Scalar product
+F.d 
+since d  0
+After downward movement
+After movement backup
+F 
+1500 N
+Scalar product
+F.d  F 	 d 	 cos (180)
+ (1500) 	 (0.9) 	 (1)
+ 1350 Nm
+Scalar product
+F.d  F 	 d 	 cos (0)
+ (1500) 	 (0.9) 	 (1)
+ 
+1350 Nm
+F 
+1500 N
+d 
+0.9 m
+d 
+
+0.9 m
+This illustrates that, after the downward movement, the force F on the bar and the
+displacement d of the bar are acting along the same straight line but in exactly opposite
+directions. In this case, the angle  is 180, the cosine of this angle is 1, and the work done
+by the weightlifter on the bar is 1350 Nm or Joules.
+After the upward movement, the displacement of the bar is now upward, and F and d
+are pointing in the same direction. It follows that the angle  is now 0, the cosine of the
+angle is 1, and the work done by the weightlifter on the bar is 1350 Nm or Joules.
+In the case of the downward movement, the work done by the weightlifter is negative,
+and it is natural to ask how this can happen and what it means. It is a difficult concept, but
+it can be made easier to understand by saying in this case that the bar is doing positive work
+on the weightlifter. During the upward movement, the reverse is true, and the weightlifter
+does positive work on the bar. Although the concept may appear a little artificial, it has
+
+--- PAGE 20 ---
+44
+TWO ■Principles of Biomechanics and Motion Analysis
+important application in eccentric and concentric contraction of muscles. This idea of negative
+work being done actually occurs whenever the angle  exceeds 90. The functional depen-
+dence of cos on  is shown in the following diagram for values of  between 0 and 180,
+where it can be seen clearly that cos  is negative between 90 and 180. Incidentally, angles
+are sometimes expressed in radians; if you need to convert between the two, the conversion
+factor is:
+1 radian  57.29
+Radian measures are covered more fully in the chapters dealing with rotational motion.
+0
+30
+60
+90
+120
+150
+180
+Theta (degrees)
+Cos theta
+1.25
+0.75
+0.5
+0.25
+0
+0.25
+0.5
+0.75
+1.25
+1
+1
+2.3.3 VECTOR PRODUCT OF TWO VECTORS
+The vector or cross product of two vectors A and B is defined as another vector:
+C  A  B
+whose magnitude is:
+C  ABsin
+where  is the angle ( 180) between A and B, and whose direction is perpendicular
+to both A and B in the sense of the righthand rule (Fig. 2.17).
+C
+B
+A
+Figure 2.17
+The vector C  A  B is perpendicular to the plane containing A and B;
+its direction is given by the righthand rule. The thumb of the right hand points along the
+direction of C; the fingers of the right hand curl around from A to B. Imagine A and B to be
+in the plane of the floor, perhaps. C would then be pointing vertically up in the air.
+
+--- PAGE 21 ---
+■Multiplication of Vectors
+45
+S
+x
+100 N
+100 N
+S
+0.5 m
+Figure 2.18
+Someone holding a 100-N weight at arm’s length. The length of the arm is
+0.5 m. On the left, the arm is horizontal, and the line of action of the weight is 0.5 m
+from the shoulder joint. On the left, the arm has been lowered so that it is at 45 to the
+horizontal. The perpendicular distance between the line of action of the weight and the
+shoulder joint has now been reduced to x.
+If the angle   0, then the crossproduct of two vectors is 0. Hence, A  A 
+0, for example. Also, if the angle between two vectors is a right angle,   90, then
+A  B  AB, the product of the magnitudes of the two vectors.
+This concept is particularly useful when evaluating the moment caused by a
+given force. Consider someone holding a 10-kg mass at arm’s length (Fig. 2.18).
+We can define a vector r to represent the displacement of the point of application
+of the weight W relative to the shoulder joint. The moment of the force is then
+given by:
+M  r  W
+This is shown in Figure 2.19 for the two cases shown in Figure 2.18. The results for
+the vector cross product in the two cases are:
+Arm horizontal: M  r F sin  0.5  100  50 Nm
+Arm at 45 to horizontal: M  r F sin  0.5  100  sin(45)  35.35 Nm
+The direction of the moments is clockwise in both Figures 2.18 and 2.19. This
+would be indicated formally in the vector crossproduct by saying that the vector M
+is in to the plane of the paper at right angles to both r and W. This is confirmed
+by using the righthand rule: the fingers curl around in the direction of r moving
+to the direction of W, meaning that the thumb is pointing in to the plane of the
+paper (Fig. 2.20).
+Figure 2.19
+The vector
+diagrams for the two cases
+shown in Figure 2.18.
+100 N
+0.5 m
+0.5 m
+100 N
+
+--- PAGE 22 ---
+46
+TWO ■Principles of Biomechanics and Motion Analysis
+Figure 2.20
+The right-
+hand rule for r  W,
+showing the thumb pointing
+in to the paper.
+M
+W
+r
+It is also possible to express the vector product of two vectors using unit vectors.
+Again suppose that:
+A  Ax i  Ay j  Az k
+and
+B  Bx i  By j  Bz k
+then the cross- or vector product can be written as:
+AB 
+i
+j
+k
+Ax
+Ay
+Az
+Bx
+By
+Bz
+ i(Ay Bz  Az By)j(Az Bx  Ax Bz)k(Ax By  Ay Bx)
+The object:
+
+i
+j
+k
+Ax
+Ay
+Az
+Bx
+By
+Bz
+is known as a determinant and is useful in remembering the sequence of calculations
+required to evaluate the vector crossproduct. Think of it as a sequence of cross-
+multiplication and addition/subtraction operations (Fig. 2.21). For more informa-
+tion on determinants and the subject of vector analysis, see Spiegel (1959).
+Figure 2.21
+Calculation
+of components of vector
+crossproducts. To work out
+the j component, it helps to
+write the x components as
+an additional line to the
+right of the determinant.
+Az
+Ax
+Ax
+i
+j
+k
+i
+Ay
+Bz
+Bx
+Bx
+By
+
+
+
+--- PAGE 23 ---
+■System of Units
+47
+■
+EXAMPLE 2.9
+Torque can be expressed as a crossproduct. For example, take a thin wheel that is free to
+rotate about an axis through its center at point O. A force F acts at the edge of the wheel
+at a point whose position relative to the center of the wheel O is given by the position
+vector r as shown. The force F tends to rotate the wheel (assumed initially at rest) counter-
+clockwise, so the angular velocity  will point out of the page toward the reader.
+F
+r
+The torque caused by F starts the wheel rotating counterclockwise so that  points
+out of the page. The torque vector is defined as   r  F and points out of the page.
+The magnitude of the torque is   r F sin.
+■
+EXAMPLE 2.10
+To work out the moment of a force about a point X, imagine a force F defined as:
+F1i  2.7j  3.5k acting at a point r  10i  0j  3.7k
+The moment of the force about the origin would be:
+M  r  F  (0  3.5(3.7) 2.7, 3.7  1 10  3.5, 10 2.7  0  1)
+ (9.99, 38.7, 27)
+This implies that the moment about the x axis is:
+Mx  9.99 Nm
+that about the y axis is:
+My  38.7 Nm
+and that about the z axis is:
+Mz  27 Nm
+F
+r
+Origin
+2.4
+System of Units
+This book is written using the SI (syste`me internationale) system of units. This takes
+the fundamental units of mass, length, and time as the kilogram, meter, and second,
+respectively. In this section, the units commonly used in motion analysis and me-
+
+--- PAGE 24 ---
+48
+TWO ■Principles of Biomechanics and Motion Analysis
+Table 2.4
+Commonly used units in the systéme internationale (SI) system
+Alternative
+Conversion Factor
+Physical Quantity
+SI Unit
+Unit Name
+to Other Units
+Mass
+kg
+Kilogram
+1 kg  2.2 lb
+Length
+m
+meter
+1 m  39 in
+Displacement
+m
+Meter
+1 m  3.281 ft
+Time
+s
+Second
+1 s  0.0002777h
+Speed
+m/s
+ms1
+1 m/s  2.237 mph
+Velocity
+m/s
+ms1
+1 m/s  3.281 ft/s
+Acceleration
+m/s2
+ms2
+1 “gee”  9.81 m/s2
+Force
+N
+Newton
+1 N  0.1 kg weight
+Moment
+Nm
+Newton-meter
+1 Nm  0.72 lb/ft
+Impulse
+Ns
+Newton second
+Pressure
+N/m2
+Pascal
+1 N/m2  0.001422 psi
+Linear momentum
+kg m/s
+Angle or angular
+rad
+Radians
+1 rad  57.3
+displacement
+Angular speed
+rad/s
+1 rad/s  57.3 /s
+Angular acceleration
+rad/s2
+rad/s2
+Torque
+Nm
+1 Nm  0.72 lb/ft
+Angular momentum
+kg/m2/s
+Angular impulse
+Nm
+Power
+J/s
+Watt
+1 J/s  0.001343 hp
+1 kW  1.341 hp
+chanics are summarized. Table 2.4 shows the physical quantity, its SI unit and any
+alternative names. The table also shows the conversion of some of the SI units to
+different systems in common use. Although very little use is made of alternative units
+in this book, it is useful to have a point of reference in case they are encountered in
+everyday situations. For example, a baseball pitcher releases the ball at 100 mph.
+In this case, miles per hour are used for two reasons:
+1. The unit of miles per hour is well known by most people, so they can
+relate to it easily.
+2. The unit of miles per hour is a convenient size so that the numbers ob-
+tained are neither too big nor too small.
+Also, in this book, units such as m/s and ms1 (meters per second) are used
+interchangeably. More information on SI units is given in Appendix 1.
+SUMMARY
+This chapter has introduced the fundamental concepts of scalar and vector quan-
+tities. Addition, subtraction, and multiplication of scalars and vectors are considered
+using graphical methods, trigonometric methods, and unit vectors. Three case stud-
+ies are used to illustrate practical applications of the use of vectors to human move-
+ment situations. Scalar products are used for calculating the amount of work done
+when the force and displacement vectors are at some arbitrary angle to each other.
+Vector products are used for calculating the moment caused by a force acting at
+some position r using both formula and determinant methods.
+
+--- PAGE 25 ---
+■System of Units
+49
+REFERENCE
+Spiegel MR: Schaum’s Outline of Vector Analysis. New York. Schaum Publishing; 1959.
+STUDY QUESTIONS
+1. Classify the following as vectors or scalars:
+Force, torque, acceleration, velocity, mass, volume, displacement, area,
+length, and angular velocity
+2. Add the following vectors A and B together by the tip-to-tail approach
+and draw in the resultant vector C.
+B
+A
+3. Use the polygon of vectors method to find the resultant of the following
+force vectors:
+20 N acting west
+35 N acting at 60 northeast
+25 N acting north
+15 N acting at 30 southwest
+Draw these on graph paper and do not forget to join them tip to tail.
+From the graph paper, measure the magnitude and direction of the
+resultant. Use a ruler and protractor for these measurements.
+4. An ice hockey puck has a velocity of 15 m/s parallel to the edge of the
+rink. It also has a velocity of 5 m/s perpendicular to this edge. Use the
+Pythagorean theorem to calculate the magnitude of the resultant velocity
+of the puck to two decimal places.
+5. Use the parallelogram rule to find the resultant of the following two
+vectors A and B.
+A  10
+B  6
+The vector B makes an angle of 55 with A. Draw these on graph paper,
+form the completed parallelogram, and measure the size and direction
+of the resultant. Repeat the calculation of the resultant, this time using
+the cosine rule. Compare your answers to deduce something about the
+errors involved in the first method.
+6. The following vectors represent the wind velocity at a point adjacent to
+the long jump area at an Olympic Games. In (a), the vector corresponds
+to a wind velocity of 10 km/h and is a tail wind. Comment on the wind
+velocities for (b), (c), and (d). The wind velocity has to be below 5 km/h
+
+--- PAGE 26 ---
+50
+TWO ■Principles of Biomechanics and Motion Analysis
+for the long jump competition to proceed. Under which condition (or
+conditions), (a) to (d), would you allow the competition to go ahead?
+(a)
+(b)
+(c)
+(d)
+7. A golf ball is projected with a velocity of 45 m/s at an angle of 10 with
+respect to the horizontal. What is the horizontal component of this ve-
+locity?
+8. A javelin is projected with an initial velocity of 40 m/s. The vertical com-
+ponent of this velocity is measured as 29 m/s. What is its initial horizontal
+velocity?
+9. The high bar of a piece of gymnastic equipment is subject to two forces
+as a gymnast swings around the bar. One is a vertical up force supplied
+by the vertical support members at the sides of the high bar. This force
+is 750 N upward on the bar itself. The other force is a force on the bar
+acting down and to the right at an angle of 30 to the horizontal applied
+by the gymnast’s hands as he swings. This force amounts to 510 N. Draw
+these forces on a force diagram showing the two applied forces and the
+direction of the resultant. Use the cosine law to work out the magnitude
+and direction of the resultant. (It is assumed in this question that the
+two vertical supports have identical forces in them. In this case, 375 N
+each. These two forces are assumed to be combined into one 750-N
+force.)
+10. An acceleration vector has a magnitude of 16 ms2 and is directed up-
+ward at an angle of 35 to the horizontal. What are the vertical and
+horizontal components of the acceleration along the x and y axes? The
+x and y axes are directed horizontally and vertically such that the accelera-
+tion vector is in the x–I plane.
+11. Unit vectors i, j, and k are set up along the x, y, and z axes.
+(a) A force is expressed as F  12 i  25j  0k. What are the components
+of the force along the x, y, and z axes?
+(b) A displacement vector is given by d  2 i  0 j  3 k. What is the
+total displacement in meters?
+(c) Two velocities given by v1  10 i  5 j  3 k
+and v2  6 i  3 j  5k are added vectorially to give a resultant.
+Write an expression for the resultant v  v1  v2 using the unit vectors
+i, j, and k.
+12. A rower exerts a force on his oars of F  200 N acting horizontally
+while the displacement of the oars is 1.2 m at an angle of 15 above the
+horizontal.
+d  0.9 m
+F  200 N
+15
+What is the work done as a result of this force and displacement?
+13. A rower exerts a force on his oars given by F  150 i  45 j  0 k. The
+displacement of the oar handles is given by d  0.8 i  0.75 j  0.15
+k. What is the work done?
+
+--- PAGE 27 ---
+■System of Units
+51
+14. A force of 50 N is applied tangentially to the outer rim of a discus (i.e.,
+at right angles) to the line joining the center of the discus to the point
+on the rim. The diameter of the discus is 25 cm. What is the torque
+supplied by this force? Describe the effect of this torque on the discus.
+12.5 cm
+50 N
+15. A force given by F  17i  25 j  0 k is applied to a point A on the
+surface of a ball. The position vector of the point A relative to the center
+of the ball is given by r  0.05 i  0.04 j  0.02 k. What is the torque
+supplied to the ball by this force?
+16. Calculate the magnitude of the force in question 13. What is the diameter
+of the ball?
+17. A soccer ball is moving with a velocity given by:
+v  10i  2.5j3k
+What is the speed of the ball? Write down an expression for a unit vector
+pointing along the direction of v. If the drag force on the ball is given
+by Fd0.015  (speed)2, write down an expression for the drag force
+in terms of unit vectors i, j, and k.

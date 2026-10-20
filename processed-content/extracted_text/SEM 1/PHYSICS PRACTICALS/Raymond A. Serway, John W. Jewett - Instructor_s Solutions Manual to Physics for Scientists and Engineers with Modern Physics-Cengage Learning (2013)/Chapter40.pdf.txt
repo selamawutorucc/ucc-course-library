@@ -1,0 +1,6470 @@
+
+--- PAGE 1 ---
+895 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+40 
+Introduction to Quantum Physics 
+ 
+CHAPTER OUTLINE 
+ 
+40.1  
+Blackbody Radiation and Planck’s Hypothesis 
+40.2  
+The Photoelectric Effect 
+40.3  
+The Compton Effect 
+40.4 
+The Nature of Electromagnetic Waves 
+40.5  
+The Wave Properties of Particles  
+40.6 
+A New Model: The Quantum Particle 
+40.7 
+The Double-Slit Experiment Revisited 
+40.8 
+The Uncertainty Principle 
+ 
+* An asterisk indicates a question or problem item new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ40.1 
+The ranking is d > a = e > b > c. The wavelength is described by  
+λ = h/p in all cases. For photons, the momentum is given by p = E/c, 
+so (a) is the same as (e), and (d) has a wavelength ten times larger. 
+For the particles with mass, pc = (E
+2 – m
+2c
+4)
+1/2 = ([K + mc
+2]
+2 – m
+2c
+4)
+1/2  
+= (K
+2 + 2Kmc
+2)
+1/2. Thus a particle with larger mass has more 
+momentum for the same kinetic energy, and a shorter wavelength. 
+OQ40.2 
+Answer (a). The x-ray photon transfers some of its energy to the 
+electron. Thus, its frequency must decrease. 
+OQ40.3 
+Answer (b). In Compton scattering, a photon of energy E = hf = hc/λ 
+is scattered from an electron at rest. The scattering sets the electron 
+into motion: the electron gains kinetic energy, so the photon loses 
+energy. Because the photon has less energy, its frequency is smaller 
+than E/h and its wavelength is larger than hc/E.
+
+--- PAGE 2 ---
+896     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ40.4 
+(i) 
+Answer (d). Because P = IV, the power input to the filament has 
+increased by 8 × 2 = 16 times. The filament radiates this greater 
+power according to Stefan’s law, so its absolute temperature is 
+higher by the fourth root of 16: it is two times higher.  
+ 
+(ii)  Answer (d). By Wien’s displacement law, the wavelength 
+emitted with the highest intensity is inversely proportional the 
+temperature: the temperature is twice as large, so the 
+wavelength is half as large.  
+OQ40.5 
+Answer (a) and (c). One form of Heisenberg’s uncertainty relation is 
+ΔxΔpx ≥2π , which says that one cannot determine both the 
+position and momentum of a particle with arbitrary accuracy. 
+Another form of this relation is ΔEΔt ≥2π , which sets a limit on 
+how accurately the energy can be determined in a finite time interval.  
+OQ40.6 
+Answer: (a). The stopping potential is 1.00 V, so the maximum 
+kinetic energy is 1.00 eV. From Equation 40.9,  
+ 
+  
+Kmax = hf −φ = hc λ −φ
+λ =
+hc
+φ + Kmax
+=
+1240 eV ⋅nm
+2.50 eV + 1.00 eV
+(
+)
+= 354 nm 
+OQ40.7 
+Answer (c). UV light has the highest frequency of the three, and hence 
+each photon delivers more energy to a skin cell. This explains why 
+you can become sunburned on a cloudy day: clouds block visible light 
+and infrared, but not much ultraviolet. You usually do not become 
+sunburned through window glass, even though you can see the visible 
+light from the Sun coming through the window, because the glass 
+absorbs much of the ultraviolet and reemits it as infrared. 
+OQ40.8 
+Answer (d). Electron diffraction by crystals, first detected by the 
+Davisson-Germer experiment in 1927, confirmed de Broglie’s 
+hypothesis and, of the listed choices, most clearly demonstrates the 
+wave nature of electrons.  
+OQ40.9 
+Answer (c). We obtain the momentum of the electron from 
+ 
+ 
+K = 1
+2 mu2 = p2
+2m = eΔV
+→
+p =
+2meΔV 
+ 
+The de Broglie wavelength is then 
+ 
+   
+ 
+λ = h
+p =
+h
+2meΔV
+=
+6.626 × 10−34 J⋅s
+2 9.11× 10−31 kg
+(
+) 1.60 × 10−19 C
+(
+) 50.0 V
+(
+)
+= 1.74 × 10−10 m = 0.174 nm
+
+--- PAGE 3 ---
+Chapter 40     897 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ40.10 
+The ranking is: electron, proton, helium nucleus. The comparative 
+masses of the particles of interest are mp ≈1 840me and mHe ≈4mp. 
+Assuming each particle is classical, its wavelength is inversely 
+proportional to its mass: λ = h/p = h/mv.  
+OQ40.11 
+(i)  (a) and (c). Electrons and protons possess mass, therefore they 
+have rest energy ER = mc
+2. Photons do not have rest energy—
+they are never at rest.  
+ 
+(ii)  (a) and (c). The electron and the proton have charges –e and +e, 
+respectively; the photon has no charge.  
+ 
+(iii)  (a), (b), and (c). The electron and proton carry energy 
+E =
+p2c2 + mc2
+(
+)
+2 = K + mc2; the photon carries energy E = hf. 
+ 
+(iv)  (a), (b), and (c). The electron and proton carry momentum  
+p = γ mu, the photon carries momentum p = E/c, where E is its 
+energy. 
+ 
+(v)  Answer (b). Because it is light.  
+ 
+(vi)  (a), (b), and (c). Each has the same de Broglie wavelength  
+λ = h/p. 
+OQ40.12 
+Answer (a). If we set K = 1
+2 mu2 = p2
+2m = eΔV, which is the same for 
+both particles, then we see that the momentum is p =
+2meΔV , so 
+the electron has the smaller momentum and therefore the longer 
+wavelength λ = h
+p =
+h
+2meΔV
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+OQ40.13 
+Answer (b). Diffraction, polarization, interference, and refraction are 
+all processes associated with waves. However, to understand the 
+photoelectric effect, we must think of the energy transmitted as light 
+coming in discrete packets, or quanta, called photons. Thus, the 
+photoelectric effect most clearly demonstrates the particle nature of 
+light. 
+OQ40.14 
+Answer  (c). For the same uncertainty in speed, the particle with the 
+smaller mass has the smaller uncertainty in momentum, Δpx = mΔvx, 
+thus greater uncertainty in its position: Δx≥
+
+2πΔpx
+=
+
+2πmΔvx
+. The 
+mass of the electron is smaller than that of the proton, thus its 
+minimum possible uncertainty in position is greater than that of the 
+proton.
+
+--- PAGE 4 ---
+898     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ40.1 
+In general, a turn of wire receives energy by two energy transfer 
+mechanisms: (1) electrical transmission and (2) absorption of 
+electromagnetic radiation from neighboring turns. Each turn of wire 
+emits radiation similar to blackbody radiation. For most turns, the 
+electromagnetic radiation absorbed comes from two neighbors. The 
+turns on the end, however, have only one neighbor so they receive 
+less energy input by electromagnetic radiation than the others. As a 
+result, they operate at a lower temperature and do not glow as 
+brightly. 
+CQ40.2 
+The Compton effect describes the scattering of photons from 
+electrons, while the photoelectric effect predicts the ejection of 
+electrons due to the absorption of photons by a material. 
+CQ40.3 
+Any object of macroscopic size—including a grain of dust—has an 
+undetectably small wavelength, so any diffraction effects it might 
+exhibit are very small, effectively undetectable. Recall historically 
+how the diffraction of sound waves was at one time well known, but 
+the diffraction of light was not.  
+CQ40.4 
+No. The second metal may have a larger work function than the first, 
+in which case the incident photons may not have enough energy to 
+eject photoelectrons. 
+CQ40.5 
+The stopping potential measures the kinetic energy of the most 
+energetic photoelectrons. Each of them has gotten its energy from a 
+single photon. According to Planck’s E = hf, the photon energy 
+depends on the frequency of the light. The intensity controls only the 
+number of photons reaching a unit area in a unit time. 
+CQ40.6 
+Wave theory predicts that the photoelectric effect should occur at any 
+frequency, provided the light intensity is high enough, or provided 
+that the light shines on the surface for a sufficient time interval so 
+that enough energy is delivered to the surface to eject electrons. 
+However, as seen in the photoelectric experiments, the light must 
+have a sufficiently high frequency for the effect to occur, and that 
+electrons are either ejected almost immediately (less than 10
+9 seconds 
+after the surface is illuminated) or not at all, regardless of the 
+intensity.   
+CQ40.7 
+Ultraviolet light has shorter wavelength and higher photon energy 
+than any wavelength of visible light.
+
+--- PAGE 5 ---
+Chapter 40     899 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ40.8 
+Our eyes are not able to detect all frequencies of electromagnetic 
+waves. For example, all objects that are above 0 K in temperature 
+emit electromagnetic radiation in the infrared region. This describes 
+everything in a dark room. We are only able to see objects that emit or 
+reflect electromagnetic radiation in the visible portion of the 
+spectrum. 
+CQ40.9 
+An electron has both classical-wave and classical-particle 
+characteristics. In single- and double-slit diffraction and interference 
+experiments, electrons behave like classical waves. An electron has 
+mass and charge. It carries kinetic energy and momentum in parcels 
+of definite size, as classical particles do. At the same time it has a 
+particular wavelength and frequency. Since an electron displays 
+characteristics of both classical waves and classical particles, it is 
+neither a classical wave nor a classical particle. It is customary to call 
+it a quantum particle, but another invented term, such as “wavicle,” 
+could serve equally well. 
+CQ40.10 
+A photon can interact with the photographic film at only one point. 
+A few photons would only give a few dots of exposure, apparently 
+randomly scattered. 
+CQ40.11 
+The wavelength of violet light is on the order of 1
+2 µm, while the de 
+Broglie wavelength of an electron can be 4 orders of magnitude 
+smaller. The resolution is better (recall Rayleigh’s criterion) because 
+the diffraction effects are smaller.  
+CQ40.12 
+Light has both classical-wave and classical-particle characteristics. In 
+single- and double-slit experiments light behaves like a wave. In the 
+photoelectric effect light behaves like a particle. Light may be 
+characterized as an electromagnetic wave with a particular 
+wavelength or frequency, yet at the same time light may be 
+characterized as a stream of photons, each carrying a discrete energy, 
+hf. Since light displays both wave and particle characteristics, perhaps 
+it would be fair to call light a “wavicle.” It is customary to call a 
+photon a quantum particle, different from a classical particle. 
+CQ40.13 
+Comparing Equation 40.9 with the slope-intercept form of the 
+equation for a straight line, y = mx + b, we see  
+ 
+(a) 
+that the slope in Figure 40.11 in the text is Planck’s constant h 
+and  
+ 
+(b) that the y intercept is –φ, the negative of the work function.  
+ 
+(c) 
+If a different metal were used, the slope would remain the same 
+but the work function would be different. Thus, data for 
+different metals appear as parallel lines on the graph.
+
+--- PAGE 6 ---
+900     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ40.14 
+The discovery of electron diffraction by Davisson and Germer was a 
+fundamental advance in our understanding of the motion of material 
+particles. Newton’s laws fail to properly describe the motion of an 
+object with small mass. It moves as a wave, not as a classical particle. 
+Proceeding from this recognition, the development of quantum 
+mechanics made possible describing the motion of electrons in 
+atoms; understanding molecular structure and the behavior of matter 
+at the atomic scale, including electronics, photonics, and engineered 
+materials; accounting for the motion of nucleons in nuclei; and 
+studying elementary particles. 
+CQ40.15 
+The spacing between repeating structures on the surface of the 
+feathers or scales is on the order of 1/2 the wavelength of light. An 
+optical microscope would not have the resolution to see such fine 
+detail, while an electron microscope can. The electrons can have 
+much shorter wavelength. 
+CQ40.16 
+The intensity of electron waves in some small region of space 
+determines the probability that an electron will be found in that 
+region. 
+CQ40.17 
+The first flaw is that the Rayleigh–Jeans law predicts that the 
+intensity of short wavelength radiation emitted by a black body 
+approaches infinity as the wavelength decreases. This is known as 
+the ultraviolet catastrophe. The second flaw is the prediction of much 
+more power output from a black body than is shown experimentally. 
+The intensity of radiation from the black body is given by the area 
+under the red I (λ, T) vs. λ curve in Figure 40.5 in the text, not by the 
+area under the blue curve. 
+ 
+Planck’s Law dealt with both of these issues and brought the theory 
+into agreement with the experimental data by adding an exponential 
+term to the denominator that depends on 1/λ. This keeps both the 
+predicted intensity from approaching infinity as the wavelength 
+decreases and the area under the curve finite.
+
+--- PAGE 7 ---
+Chapter 40     901 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 40.1 
+Blackbody Radiation and Planck’s Hypothesis 
+P40.1 
+The absolute temperature of the heating element is  
+ 
+ 
+ 
+T = 150°C + 273 = 423 K 
+ 
+The peak wavelength is, from Equation 40.2, 
+ 
+ 
+ 
+λmaxT = 2.898 × 10−3 m⋅K 
+ 
+ 
+ 
+λmax = 2.898 × 10−3 m⋅K
+T
+= 2.898 × 10−3 m⋅K
+423 K
+= 6.85 × 10−6 m
+ 
+ 
+or  
+ 
+6.85 µm, which is in the infrared region of the spectrum. 
+P40.2 
+(a) 
+From Equation 40.2,  
+ 
+ 
+ 
+λmax = 2.898 × 10−3 m ⋅K
+2900 K
+= 999 nm 
+ 
+(b) The wavelength emitted at the greatest intensity is in the infrared 
+(greater than 700 nm), and according to the graph in Active 
+Figure 40.3, much more energy is radiated at wavelengths longer 
+than λmax than at shorter wavelengths.  
+P40.3 
+(a) 
+For lightning, 
+ 
+ 
+ 
+ λmax = 2.898 × 10−3 m ⋅K
+T
+~ 2.898 × 10−3 m ⋅K
+104 K
+~ 10−7 m 
+ 
+ 
+For the explosion, 
+ 
+ 
+ 
+ λmax ~ 2.898 × 10−3 m ⋅K
+107 K
+~ 10−10 m 
+ 
+(b) 
+Lightning: ultraviolet; explosion: x-ray and gamma ray 
+P40.4 
+(a) 
+The peak radiation occurs at approximately 560 nm wavelength. 
+From Wien’s displacement law, 
+ 
+ 
+ 
+T = 0.289 8 × 10−2 m ⋅K
+λmax
+= 0.289 8 × 10−2 m ⋅K
+560 × 10−9 m
+≈5 200 K
+ 
+ 
+(b) Clearly, a firefly is not at this temperature, so 
+this is not blackbody radiation .
+
+--- PAGE 8 ---
+902     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.5 
+The energy of a single 500-nm photon is: 
+ 
+ 
+ 
+Eγ = hf = hc
+λ = 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+500 × 10−9 m
+= 3.98 × 10−19 J
+ 
+ 
+The energy entering the eye each second 
+ 
+ 
+ 
+E = PΔt = IAΔt
+= 4.00 × 10−11 W/m2
+(
+) π
+4 8.50 × 10−3 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥1.00 s
+(
+)
+= 2.27 × 10−15 J
+ 
+ 
+The number of photons required to yield this energy is  
+ 
+ 
+ 
+n = E
+Eγ
+=
+2.27 × 10−15 J
+3.98 × 10−19 J/photon = 5.71× 103 photons 
+P40.6 
+(i) 
+Planck’s equation is E = hf. The photon energies are:  
+ 
+ 
+(a) 
+E = hf = 6.626 × 10−34 J ⋅s
+(
+) 620 × 1012 s−1
+(
+)
+1.00 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.57 eV
+ 
+ 
+ 
+(b) 
+E = hf = 6.626 × 10−34 J ⋅s
+(
+) 3.10 × 109 s−1
+(
+)
+1.00 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.28 × 10−5 eV
+ 
+ 
+ 
+(c) 
+E = hf = 6.626 × 10−34 J ⋅s
+(
+) 46.0 × 106 s−1
+(
+)
+1.00 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.91× 10−7 eV
+ 
+ 
+(ii) Wavelengths: 
+ 
+ 
+(a) 
+λ = c
+f = 3.00 × 108 m/s
+620 × 1012 Hz = 4.84 × 10−7 m = 484 nm 
+ 
+ 
+(b) 
+λ = c
+f = 3.00 × 108 m/s
+3.10 × 109 Hz = 9.68 × 10−2 m = 9.68 cm 
+ 
+ 
+(c) 
+λ = c
+f = 3.00 × 108 m/s
+46.0 × 106 Hz = 6.52 m
+
+--- PAGE 9 ---
+Chapter 40     903 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(iii) Part of spectrum: 
+ 
+ 
+(a) 
+visible light blue
+(
+) 
+ 
+ 
+(b) 
+radio wave 
+ 
+ 
+(c) 
+radio wave 
+P40.7 
+From Wien’s displacement law, 
+ 
+(a) 
+T = 2.898 × 10−3 m ⋅K
+λmax
+= 2.898 × 10−3 m ⋅K
+970 × 10−9 m
+ ≈2.99 × 103 K 
+ 
+(b) 
+T = 2.898 × 10−3 m ⋅K
+λmax
+= 2.898 × 10−3 m ⋅K
+145 × 10−9 m
+ ≈2.00 × 104 K 
+P40.8 
+Each photon has an energy   
+ 
+ 
+ 
+E = hf = 6.626 × 10−34
+(
+) 99.7 × 106
+(
+) = 6.61× 10−26 J 
+ 
+This implies that there are   
+ 
+ 
+ 
+150 × 103 J/s
+6.61× 10−26 J/photon = 2.27 × 1030 photons/s 
+P40.9 
+From Equation 40.2, Wien’s displacement law, 
+ 
+ 
+ 
+T = 2.898 × 10−3 m⋅K
+560 × 10−9 m
+= 5.18 × 103 K
+ 
+P40.10 
+(a) 
+From Stefan’s law (Equation 40.1), P = eAσ T 4. If the sun emits as 
+a black body, e = 1.  
+ 
+ 
+ 
+T =
+P
+eAσ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+=
+3.85 × 1026 W
+1 4π 6.96 × 108 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦5.67 × 10−8 W/m2 ⋅K4
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+1 4
+= 5.78 × 103 K
+ 
+ 
+(b) 
+λmax = 2.898 × 10−3 m ⋅K
+T
+= 2.898 × 10−3 m ⋅K
+5.78 × 103 K
+= 5.01× 10−7 m = 501 nm
+
+--- PAGE 10 ---
+904     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.11 
+Planck’s radiation law, Equation 40.6, gives the intensity-per-
+wavelength (W/m
+2-wavelength). Because the range of the wavelengths 
+is small, we treat the wavelength as the average λ = λ1 + λ2
+(
+) 2 . Taking 
+E to be the average photon energy and n to be the number of photons 
+emitted each second, we multiply by area and wavelength range to 
+have energy-per-time leaving the hole: 
+ 
+P = I(λ,T)λA
+=
+2π hc2
+λ1 + λ2
+(
+) 2
+⎡⎣
+⎤⎦
+5 e
+2hc
+λ1+λ2
+(
+)kBT
+⎡⎣
+⎤⎦−1
+⎛
+⎝
+⎞
+⎠
+λ2 −λ1
+(
+)π d 2
+(
+)
+2
+= En = nhf
+ 
+ 
+where 
+E ≈hf ≈hc
+λ
+=
+2hc
+λ1 + λ2
+ 
+ 
+Solving for n, 
+ 
+ 
+ 
+n = P
+E =
+8π 2cd2 λ2 −λ1
+(
+)
+λ1 + λ2
+(
+)
+4 e
+2hc
+λ1+λ2
+(
+)kBT
+⎡⎣
+⎤⎦−1
+⎛
+⎝
+⎞
+⎠
+ 
+ 
+Substituting numerical values and suppressing units, 
+ 
+ 
+ 
+n = 8π 2 3.00 × 108 m/s
+(
+) 0.050 0 × 10−3 m
+(
+)
+2 1.00 × 10−9 m
+(
+)
+1 001× 10−9 m
+(
+)
+4 e
+2 6.626×10−34
+(
+) 3.00×108
+(
+)
+1 001×10−9
+(
+) 1.38×10−23
+(
+) 7.50×103
+(
+) −1
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+n = 5.90 × 1016 s
+e3.84 −1
+(
+)
+= 1.30 × 1015 s
+ 
+P40.12 
+(a) 
+From Stefan’s law, 
+ 
+ 
+ 
+P = eAσT 4
+= 1 20.0 × 10−4 m2
+(
+) 5.67 × 10−8 W/m2 ⋅K4
+(
+) 5 000 K
+(
+)
+4
+= 7.09 × 104 W
+  
+ 
+(b) From Wien’s displacement law, 
+ 
+ 
+ 
+λmaxT = λmax 5 000 K
+(
+) = 2.898 × 10−3 m ⋅K ⇒λmax = 580 nm
+
+--- PAGE 11 ---
+Chapter 40     905 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We compute:  
+ 
+ 
+ 
+hc
+kBT =
+6.626 × 10−34 J ⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+1.38 × 10−23 J/K
+(
+) 5 000 K
+(
+)
+= 2.88 × 10−6 m 
+ 
+ 
+The power per wavelength interval is  
+ 
+ 
+ 
+P λ
+( ) = AI λ
+( ) =
+2π hc2A
+λ5 exp hc λkBT
+(
+) −1
+⎡⎣
+⎤⎦
+, 
+ 
+ 
+and 
+ 
+ 
+2π hc2A = 2π 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+2 20.0 × 10−4 m2
+(
+)
+= 7.50 × 10−19 J⋅m4/s
+ 
+ 
+ 
+ 
+P 580 nm
+(
+) =
+7.50 × 10−19 J⋅m4/s
+580 × 10−9 m
+(
+)
+5 exp 2.88 µm 0.580 µm
+(
+)−1
+⎡⎣
+⎤⎦
+= 1.15 × 1013 J/m⋅s
+e4.973 −1
+= 7.99 × 1010 W/m
+ 
+ 
+(d)–(i) 
+The other values are computed similarly: 
+ 
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+λ
+hc
+λkBT
+ehc λkBT −1
+2π hc2A
+λ5
+P(λ), W/m
+1.00 nm
+2882.6
+7.96 × 101251
+7.50 × 1026
+9.42 × 10−1226
+5.00 nm
+576.5
+2.40 × 10250
+2.40 × 1023
+1.00 × 10−227
+400 nm
+7.21
+1347
+7.32 × 1013
+5.44 × 1010
+700 nm
+4.12
+60.4
+4.46 × 1012
+7.38 × 1010
+1.00 mm
+0.00288
+0.00289
+7.50 × 10−4
+0.260
+10.0 cm
+2.88 × 10−5
+2.88 × 10−5
+7.50 × 10−14
+2.60 × 10−9
+ 
+ 
+(j) 
+We approximate the area under the P (λ) versus λ curve, between 
+400 nm and 700 nm, as the product of the average power per 
+wavelength times the range of wavelength: 
+ 
+ 
+ 
+P = P λ( )Δλ
+=
+5.44 + 7.38
+(
+)× 1010 W/m
+⎡⎣
+⎤⎦
+2
+700 −400
+(
+)× 10−9 m
+⎡⎣
+⎤⎦
+= 1.92 × 104 W ≈19 kW
+
+--- PAGE 12 ---
+906     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.13 
+(a) 
+The mass of the sphere is  
+ 
+ 
+ 
+m = ρV = ρ 4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.86 × 103 kg/m3
+(
+) 4
+3 π 0.020 0 m
+(
+)
+3
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 0.263 kg
+ 
+ 
+(b) From Stefan’s law, 
+ 
+ 
+ 
+P = σ AeT 4 = σ 4π r2
+(
+)eT 4 
+ 
+ 
+ 
+P = 5.67 × 10−8 W/m2 ⋅K4
+(
+) 4π 0.020 0 m
+(
+)
+2
+⎡⎣
+⎤⎦0.860
+(
+) 293 K
+(
+)
+4
+= 1.81 W
+ 
+ 
+(c) 
+It emits but does not absorb radiation, so its temperature must 
+drop according to 
+ 
+ 
+ 
+Q = mcΔT = mc Tf −Ti
+(
+)
+→
+dQ
+dt = mc
+dTf
+dt
+ 
+ 
+ 
+ 
+dTf
+dt = dQ dt
+mc
+= −P
+mc
+=
+−1.81 J/s
+0.263 kg
+(
+) 448 J/kg ⋅C°
+(
+)
+= −0.015 3 °C/s = −0.919 °C/min
+ 
+ 
+(d) 
+λmaxT = 2.898 × 10−3 m ⋅K 
+ 
+ 
+λmax = 2.898 × 10−3 m ⋅K
+293 K
+= 9.89 × 10−6 m = 9.89 µm (infrared)
+ 
+ 
+(e) 
+E = hf = hc
+λ =
+6.626 × 10−34 J ⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+9.89 × 10−6 m
+= 2.01× 10−20 J 
+ 
+(f) 
+The energy output each second is carried by photons according to 
+ 
+ 
+ 
+P =
+N
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟E
+N
+Δt = P
+E =
+1.81 J/s
+2.01× 10−20 J/photon = 8.98 × 1019 photon/s
+ 
+ 
+ 
+Matter is coupled to radiation quite strongly, in terms of photon 
+numbers.
+
+--- PAGE 13 ---
+Chapter 40     907 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.14 
+Planck’s radiation law is 
+ 
+ 
+ 
+I λ, T
+(
+) =
+2π hc2
+λ5 ehc λkBT −1
+(
+)
+. 
+ 
+For long wavelengths, the exponent hc λkBT is small. Using the series 
+expansion  
+ 
+ 
+ex = 1+ x + x2
+2! + x3
+3! + 
+ 
+Planck’s law reduces to 
+ 
+ 
+I λ, T
+(
+) =
+2π hc2
+λ5
+1+ hc λkBT +
+(
+) −1
+⎡⎣
+⎤⎦
+≈
+2π hc2
+λ5 hc λkBT
+(
+)
+= 2π ckBT
+λ 4
+ 
+ 
+which is the Rayleigh–Jeans law, for very long wavelengths. 
+P40.15 
+From the figure, at maximum horizontal displacement x, the bob is at 
+height h = L −
+L2 −x2 . Then the pendulum’s total energy is  
+ 
+ 
+ 
+E = mgh = mg L −
+L2 −x2
+(
+)
+E = 1.00 kg
+(
+) 9.80 m/s2
+(
+) 1.00 m −
+1.00 m
+(
+)
+2 −0.030 0 m
+(
+)
+2
+(
+)
+= 4.41× 10−3 J
+ 
+ 
+ANS. FIG. P40.15 
+ 
+The frequency of oscillation is  
+ 
+ 
+ 
+f = ω
+2π = 1
+2π
+g
+L = 1
+2π
+9.80 m/s2
+1.00 m
+= 0.498 Hz 
+ 
+The energy is quantized: 
+ 
+ 
+ 
+ 
+E = nhf 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+n = E
+hf =
+4.41× 10−3 J
+6.626 × 10−34 J ⋅s
+(
+) 0.498 s−1
+(
+)
+= 1.34 × 1031
+
+--- PAGE 14 ---
+908     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P40.16 
+(a) 
+The physical length of the pulse is 
+ 
+ 
+ 
+= vt = 3.00 × 108 m s
+(
+) 14.0 × 10−12 s
+(
+) =
+4.20 mm 
+ 
+(b) We find the number of photons from 
+ 
+ 
+ 
+E = hc
+λ = 6.626 × 10−34 J ⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+694.3 × 10−9 m
+= 2.86 × 10−19 J 
+ 
+ 
+Then, 
+ 
+ 
+ 
+N =
+3.00 J
+2.86 × 10−19 J = 1.05 × 1019 photons 
+ 
+(c) 
+The volume of the beam is 
+ 
+ 
+ 
+V = 4.20 mm
+(
+) π 3.00 mm
+(
+)2
+⎡⎣
+⎤⎦= 119 mm3 
+ 
+ 
+The number of photons per cubic millimeter is  
+ 
+ 
+ 
+n = 1.05 × 1019 photons
+119 mm3
+= 8.82 × 1016 mm−3 
+ 
+ 
+ 
+Section 40.2 
+The Photoelectric Effect 
+*P40.17 
+(a) 
+The cutoff wavelength is given by Equation 40.12: 
+ 
+ 
+ 
+λc = hc
+φ = 6.626 × 10−34 J⋅s
+(
+) 2.998 × 108 m s
+(
+)
+4.20 eV
+(
+) 1.602 × 10−19 J eV
+(
+)
+= 295 nm
+ 
+ 
+ 
+which corresponds to a frequency of
+ 
+ 
+ 
+ 
+fc = c
+λc
+= 2.998 × 108 m s
+295 × 10−9 m
+= 1.02 × 1015 Hz 
+ 
+(b) We find the stopping potential from hc
+λ = φ + eΔVS:  
+ 
+ 
+ 
+6.626 × 10−34
+(
+) 2.998 × 108
+(
+)
+180 × 10−9
+= 4.20 eV
+(
+) 1.602 × 10−19 J eV
+(
+)
+                                                                 + 1.602 × 10−19
+(
+)ΔVS
+ 
+ 
+ 
+Therefore, 
+ΔVS = 2.69 V .
+
+--- PAGE 15 ---
+Chapter 40     909 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.18 
+(a) 
+At the cutoff wavelength, the energy of the photons is equal to the 
+work function (Kmax = 0): 
+ 
+hc
+λ = φ
+→
+λ = hc
+φ = 1 240 nm ⋅eV
+4.31 eV
+= 288 nm 
+ 
+(b) This is the cutoff frequency:  
+ 
+ 
+ 
+f = c
+λ = 3.00 × 108 m/s
+288 × 10−9 m = 1.04 × 1015 Hz 
+ 
+(c) 
+The maximum kinetic energy is the difference between the energy 
+of the photons and the work function:  
+ 
+ 
+ 
+Kmax = E −φ = 5.50 eV −4.31 eV = 1.19 eV 
+P40.19 
+(a) 
+Einstein’s photoelectric effect equation is Kmax = hf – φ and the 
+energy required to raise an electron through a 1-V potential is 1 
+eV, so that  
+ 
+ 
+ 
+Kmax = eΔVs = 0.376 eV 
+ 
+ 
+The energy of a photon from the mercury lamp is: 
+ 
+ 
+ 
+hf = hc
+λ = (6.626 × 10−34 J⋅s)(2.998 × 108 m/s)
+546.1× 10−9 m
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1 240 eV⋅nm
+546.1 nm
+= 2.27 eV
+ 
+ 
+ 
+Therefore, the work function for this metal is:  
+ 
+ 
+ 
+φ = hf −Kmax = 2.27 eV – 0.376 eV = 1.89 eV
+ 
+ 
+(b) For the yellow light, λ = 587.5 nm and the photon energy is  
+ 
+ 
+ 
+hf = hc
+λ = 1 240 eV⋅nm
+587.5 nm
+= 2.11 eV
+ 
+ 
+ 
+Therefore the maximum energy that can be given to an ejected 
+electron is 
+ 
+ 
+ 
+Kmax = hf −φ = 2.11 eV – 1.89 eV = 0.216 eV 
+ 
+ 
+so the stopping voltage is 
+ 
+ 
+ 
+ 
+ΔVs = 0.216 V 
+P40.20 
+(a) 
+The energy of a photon with a wavelength of 400 nm is  
+ 
+ 
+ 
+E = hc
+λ = 6.63 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+400 × 10−9 m
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.11 eV
+
+--- PAGE 16 ---
+910     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The energy of a photon with wavelength 400 nm is calculated
+to be 3.11 eV. Now compare this energy with the given work
+functions. Of these metals, only lithium shows the photoelectric
+effect because its work function is less than the energy of the
+photon.
+ 
+ 
+(b) For lithium, 
+ 
+ 
+ 
+Kmax = E −φ
+= 6.63 × 10−34 J⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+400 × 10−9 m
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                                      −2.30 eV
+= 0.808 eV
+ 
+P40.21 
+The maximum kinetic energy of the electrons is 
+ 
+ 
+ 
+Kmax = 1
+2 mumax
+2
+= 1
+2 9.11× 10−31kg
+(
+) 4.60 × 105m/s
+(
+)
+2
+= 9.64 × 10−20 J = 0.602 eV
+ 
+ 
+(a) 
+The work function is 
+ 
+ 
+ 
+φ = E −Kmax = 1 240 eV ⋅nm
+625 nm
+−0.602 eV = 1.38 eV 
+ 
+(b) At the cutoff frequency, the energy of the photons equals the 
+work function:  
+ 
+ 
+ 
+E = hf = φ
+→
+f = φ
+h =
+1.38 eV
+6.626 × 10−34 J ⋅s
+1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.34 × 1014 Hz
+ 
+P40.22 
+(a) 
+The energy needed is E = 1.00 eV = 1.60 × 10
+–19 J. 
+ 
+ 
+The energy absorbed in time interval Δt is  
+ 
+ 
+ 
+E = PΔt = IAΔt 
+ 
+ 
+So, 
+ 
+ 
+ 
+Δt = E
+IA =
+1.60 × 10−19 J
+500 J/s ⋅m2
+(
+) π 2.82 × 10−15 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+= 1.28 × 107 s
+= 148 days
+ 
+ 
+(b) 
+The result for part (a) does not agree at all with the experimental 
+observations.
+
+--- PAGE 17 ---
+Chapter 40     911 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.23 
+Ultraviolet photons will be absorbed to knock electrons out of the 
+sphere with maximum kinetic energy Kmax = hf −φ. As the sphere loses 
+charge, it becomes more positive relative to V = 0 at r = ∞. Eventually, 
+the sphere will accumulate enough charge +Q that the potential 
+difference between the sphere’s surface and infinity reaches the 
+stopping potential of the photoelectrons, at which point no more 
+electrons can escape.   
+ 
+ 
+ 
+Kmax = hc
+λ −φ = eΔVs
+→
+ΔVs = 1
+e
+hc
+λ −φ
+⎛
+⎝⎜
+⎞
+⎠⎟  
+ 
+and  
+keQ
+r
+= ΔVs = 1
+e
+hc
+λ −φ
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Therefore,  
+ 
+ 
+ 
+Q = r
+eke
+hc
+λ −φ
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Solving for Q gives  
+ 
+ 
+ 
+Q =
+5.00 × 10−2 m
+1.602 × 10−19 C
+(
+) 8.99 × 109 N⋅m2 /C2
+(
+)
+           ×
+6.626 × 10−34 J⋅s
+(
+) 2.998 × 108 m/s
+(
+)
+200 × 10−9 m
+⎡
+⎣
+⎢
+⎢
+⎧
+⎨⎪
+⎩⎪
+                                          −4.70 eV 1.602 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎤
+⎦⎥
+⎫
+⎬⎪
+⎭⎪
+= 8.34 × 10−12 C
+ 
+P40.24 
+(a) 
+The energy of photons is 
+ 
+ 
+ 
+E = hc
+λ = 1 240 nm ⋅eV
+150 nm
+= 8.27 eV 
+ 
+(b) The photon energy is larger than the work function. 
+ 
+(c) 
+KEmax = E −φ = 8.27 eV −6.35 eV = 1.92 eV 
+ 
+(d) 
+Kmax = eΔVs
+→
+ΔVs = Kmax
+e
+= 1.92 eV
+e
+= 1.92 V
+
+--- PAGE 18 ---
+912     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 40.3 
+The Compton Effect 
+P40.25 
+From the Compton shift equation, the wavelength shift of the scattered 
+x-rays is  
+ 
+ 
+Δλ =
+h
+mec 1−cosθ
+(
+)
+=
+6.63 × 10−34 J⋅s
+9.11× 10−31 kg
+(
+) 3.00 × 108 m/s
+(
+)
+1−cos55.0°
+(
+)
+= 1.03 × 10−12 m
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.03 × 10−3 nm
+ 
+P40.26 
+We note that ′′
+λ −λ =
+′′
+λ −
+′
+λ
+(
+) +
+′
+λ −λ
+(
+). 
+ 
+ANS. FIG. P40.26 
+ 
+At A, the scattering angle is θ, and 
+ 
+ 
+ 
+′
+λ −λ =
+h
+mec 1−cosθ
+(
+) 
+ 
+At B, the scattering angle is 180° – θ, and 
+ 
+ 
+ 
+′′
+λ −
+′
+λ =
+h
+mec 1−cos 180° −θ
+(
+)
+[
+] =
+h
+mec 1+ cosθ
+[
+] 
+ 
+Therefore, 
+ 
+ 
+ 
+′′
+λ −λ =
+′′
+λ −
+′
+λ
+(
+) +
+′
+λ −λ
+(
+)
+=
+h
+mec 1+ cosθ
+(
+) + h
+mec 1−cosθ
+(
+) = 2h
+mec
+=
+2 6.63 × 10−34 J ⋅s
+(
+)
+9.11× 10−31 kg
+(
+) 3.00 × 108 m/s
+(
+)
+= 4.85 × 10−12 m
+
+--- PAGE 19 ---
+Chapter 40     913 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P40.27 
+This is Compton scattering through 180°: 
+ 
+ 
+ 
+E0 = hc
+λ0
+= 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m s
+(
+)
+0.110 × 10−9 m
+(
+) 1.60 × 10−19 J eV
+(
+)
+= 11.3 keV
+Δλ =
+h
+mec 1−cosθ
+(
+) = 2.43 × 10−12 m
+(
+) 1−cos180°
+(
+)
+    = 4.85 × 10−12 m
+ 
+ 
+ 
+ 
+′
+λ = λ0 + Δλ = 0.115 nm, so ′
+E = hc
+′
+λ = 10.8 keV. 
+ 
+By conservation of momentum for the photon-
+electron system,  
+ 
+ 
+ 
+h
+λ0
+ˆi = h
+′
+λ
+−ˆi
+(
+) + peˆi
+ 
+ 
+and  
+pe = h
+1
+λ0
++ 1
+′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+ 
+ 
+ 
+pe = 6.626 × 10−34 J ⋅s
+(
+)
+3.00 × 108 m s
+(
+) c
+1.60 × 10−19 J eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+                              ×
+1
+0.110 × 10−9 m +
+1
+0.115 × 10−9 m
+(
+)
+=
+22.1 keV
+c
+ 
+ 
+By conservation of system energy, 11.3 keV = 10.8 keV + Ke , so that 
+Ke = 478 eV . 
+ 
+Check: 
+ 
+E2 = p2c2 + me
+2c4 or 
+mec2 + Ke
+(
+)
+2 = pc
+(
+)
+2 + mec2
+(
+)
+2 
+ 
+ 
+ 
+ 
+511 keV + 0.478 keV
+(
+)2 = 22.1 keV
+(
+)2 + 511 keV
+(
+)2
+2.62 × 105 keV2 = 2.62 × 105 keV2
+ 
+P40.28 
+(a) and (b) From Δλ =
+h
+mec 1−cosθ
+(
+) we calculate the wavelength of the 
+scattered photon. For example, at θ = 30° we have 
+ 
+ 
+ 
+′
+λ + Δλ = 120 × 10−12 m
+    +
+6.626 × 10−34 J⋅s
+9.11× 10−31 kg
+(
+) 2.998 × 108 m/s
+(
+)
+1−cos30.0°
+(
+)
+= 120.3 × 10−12 m
+ 
+ANS. FIG. P40.27
+
+--- PAGE 20 ---
+914     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The electron carries off the energy the photon loses: 
+ 
+ 
+ 
+Ke = hc
+λ0
+−hc
+′
+λ
+= 6.626 × 10−34 J⋅s
+(
+) 2.998 × 108 m/s
+(
+)
+1.602 × 10−19 J/eV
+(
+)
+                           ×
+1
+120 × 10−12 m −
+1
+120.3 × 10−12 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 27.9 eV
+ 
+ 
+ 
+The other entries are computed similarly. 
+θ, degrees 
+0 
+30 
+60 
+90 
+120 
+150 
+180 
+λ', pm 
+120.0 
+120.3 
+121.2 
+122.4 
+123.6 
+124.5 
+124.8 
+Ke, eV 
+0 
+27.9 
+104 
+205 
+305 
+376 
+402 
+ 
+(c) 
+180°. We could answer like this: The photon imparts the greatest
+momentum to the originally stationary electron in a head-on
+collision. Here the photon recoils straight back and the electron
+has maximum kinetic energy.
+ 
+P40.29 
+With Ke = E′ and Ke = E0 – E′, we have ′
+E = E0 −
+′
+E
+→
+′
+E = E0
+2 .  
+ 
+We also have ′
+λ = hc
+′
+E ; therefore, ′
+λ =
+hc
+E0 2 = 2 hc
+E0
+= 2λ0. 
+ 
+By the Compton equation,  
+ 
+ 
+ 
+′
+λ = λ0 + λC 1−cosθ
+(
+)
+→
+2λ0 = λ0 + λC 1−cosθ
+(
+) 
+ 
+Therefore,  
+ 
+ 
+ 
+1−cosθ = λ0
+λC
+= 0.001 60
+0.002 43
+→
+θ = 70.0° 
+P40.30 
+(a) 
+To compute the Compton shift, we first determine the electron’s 
+kinetic energy: 
+ 
+ 
+  
+K = 1
+2 meu2 = 1
+2 9.11× 10−31 kg
+(
+) 1.40 × 106 m/s
+(
+)
+2
+= 8.93 × 10−19 J = 5.58 eV
+
+--- PAGE 21 ---
+Chapter 40     915 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+E0 = hc
+λ 0
+= 1 240 eV ⋅nm
+0.800 nm
+= 1 550 eV 
+ 
+ 
+ 
+E′ = E0 −K 
+and 
+′
+λ = hc
+′
+E =
+1 240 eV ⋅nm
+1 550 eV −5.58 eV = 0.803 nm 
+ 
+ 
+and the Compton shift is 
+ 
+ 
+ 
+Δλ = λ′ −λ0 = 0.002 89 nm = 2.89 pm 
+ 
+(b) 
+Δλ = λ C 1−cos θ
+(
+) 
+ 
+ 
+cos θ = 1−Δλ
+λ C
+= 1−0.002 89 nm
+0.002 43 nm = −0.189
+→
+θ = 101° 
+P40.31 
+The photon has momentum p0 = E0 c = h λ0 before scattering and 
+momentum ′p = h
+′
+λ after scattering. The electron momentum after 
+scattering is pe. 
+ 
+(a) 
+Conservation of momentum in the x direction gives  
+ 
+ 
+ 
+p0 =
+′p cosθ + pe cosθ 
+ 
+ 
+or 
+h
+λ0
+=
+h
+′
+λ + pe
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ. 
+[1] 
+ 
+ 
+Conservation of momentum in the y direction gives 
+ 
+ 
+ 
+0 =
+′p sinθ −pe sinθ 
+ 
+ 
+which (neglecting the trivial solution θ = 0) gives 
+ 
+ 
+ 
+pe =
+′p = h
+′
+λ 
+[2] 
+ 
+ 
+Substituting [2] into [1] gives  
+ 
+ 
+ 
+h
+λ0
+= 2h
+′
+λ cosθ 
+ 
+ 
+or 
+′
+λ = 2λ0 cosθ. 
+[3] 
+ 
+ 
+Substitute [3] into the Compton equation: 
+ 
+ 
+ 
+′
+λ −λ0 =
+h
+mec 1−cosθ
+(
+)
+ 
+ 
+ 
+ 
+2λ0 cosθ
+(
+)−λ0 =
+h
+mec 1−cosθ
+(
+)
+
+--- PAGE 22 ---
+916     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+2λ0 + h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ = λ0 + h
+mec
+2 hc
+E0
++ h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ = hc
+E0
++ h
+mec
+1
+mec2E0
+2mec2 + E0
+(
+)cosθ =
+1
+mec2E0
+mec2 + E0
+(
+)
+cosθ = mec2 + E0
+2mec2 + E0
+=
+0.511 MeV + 0.880 MeV
+2 0.511 MeV
+(
+)+ 0.880 MeV = 0.731
+→
+θ = 43.0°
+ 
+ 
+(b) Using equation [3]:  
+ 
+ 
+ 
+′
+E = hc
+′
+λ =
+hc
+λ0 2cosθ
+(
+)
+=
+E0
+2cosθ = 0.880 MeV
+2cos43.0° = 0.602 MeV 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+′p =
+′
+E
+c = 0.602 MeV
+c
+= 3.21× 10−22 kg ⋅m s 
+ 
+(c) 
+From energy conservation:  
+ 
+ 
+ 
+Ke = E0 −
+′
+E = 0.880 MeV −0.602 MeV = 0.278 MeV 
+ 
+ 
+From equation [2], 
+ 
+ 
+ 
+pe =
+′p = 0.602 MeV
+c
+ 
+c
+3.00 × 10−22 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.60 × 10−23J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.21× 10−22 kg ⋅m/s
+ 
+P40.32 
+The photon has momentum p0 = E0 c = h λ0 before scattering and 
+momentum ′p = h
+′
+λ after scattering. The electron momentum after 
+scattering is pe. 
+ 
+(a) 
+Conservation of momentum in the x direction gives  
+ 
+ 
+ 
+p0 =
+′p cosθ + pe cosθ 
+ 
+ 
+or 
+h
+λ0
+=
+h
+′
+λ + pe
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ. 
+[1] 
+ 
+ 
+Conservation of momentum in the y direction gives 
+ 
+ 
+ 
+0 =
+′p sinθ −pe sinθ
+
+--- PAGE 23 ---
+Chapter 40     917 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which (neglecting the trivial solution θ = 0) gives 
+ 
+ 
+ 
+pe =
+′p = h
+′
+λ 
+[2] 
+ 
+ 
+Substituting [2] into [1] gives  
+ 
+ 
+ 
+h
+λ0
+= 2h
+′
+λ cosθ 
+ 
+ 
+or 
+′
+λ = 2λ0 cosθ. 
+[3] 
+ 
+ 
+Substitute [3] into the Compton equation: 
+ 
+ 
+ 
+′
+λ −λ0 =
+h
+mec 1−cosθ
+(
+) 
+ 
+ 
+ 
+2λ0 cosθ
+(
+) −λ0 =
+h
+mec 1−cosθ
+(
+) 
+ 
+ 
+ 
+2λ0 +
+h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ = λ0 +
+h
+mec 
+ 
+ 
+ 
+2 hc
+E0
++
+h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ = hc
+E0
++
+h
+mec 
+ 
+ 
+ 
+1
+mec2E0
+2mec2 + E0
+(
+)cosθ =
+1
+mec2E0
+mec2 + E0
+(
+)
+cosθ = mec2 + E0
+2mec2 + E0
+→
+θ = cos−1
+mec2 + E0
+2mec2 + E0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) Using equation [3]: 
+ 
+ 
+ 
+′
+E = hc
+′
+λ =
+hc
+λ0 2cosθ
+(
+)
+=
+E0
+2cosθ =
+E0 2mec2 + E0
+(
+)
+2 mec2 + E0
+(
+)
+ 
+ 
+ 
+Then, 
+′p =
+′
+E
+c =
+E0 2mec2 + E0
+(
+)
+2c mec2 + E0
+(
+)
+. 
+ 
+(c) 
+From energy conservation:  
+ 
+ 
+ 
+Ke = E0 −′
+E = E0 −E0 2mec2 + E0
+(
+)
+2 mec2 + E0
+(
+)
+= 2E0 mec2 + E0
+(
+)−E0 2mec2 + E0
+(
+)
+2 mec2 + E0
+(
+)
+
+--- PAGE 24 ---
+918     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Ke = 2E0mec2 + 2E0
+2
+(
+)−2E0mec2 + E0
+2
+(
+)
+2 mec2 + E0
+(
+)
+= 2E0mec2 + 2E0
+2 −2E0mec2 −E0
+2
+2 mec2 + E0
+(
+)
+=
+E0
+2
+2 mec2 + E0
+(
+)
+ 
+ 
+ 
+From equation [2], 
+ 
+ 
+ 
+pe =
+′p =
+E0 2mec2 + E0
+(
+)
+2c mec2 + E0
+(
+)
+ 
+P40.33 
+(a) 
+From Δλ =
+h
+mec 1−cosθ
+(
+): 
+ 
+ 
+ 
+Δλ =
+6.626 × 10−34J ⋅s
+9.11× 10−31 kg
+(
+) 2.998 × 108 m/s
+(
+)
+1−cos37.0°
+(
+)
+= 4.89 × 10−13 m = 4.89 × 10−4 nm
+ 
+ 
+(b) 
+λ0 = hc
+E = 1 240 eV ⋅nm
+300 × 103 eV = 4.13 × 10−3 nm 
+ 
+ 
+and  
+ 
+ 
+ 
+′
+λ = λ0 + Δλ = 4.62 × 10−12 m = 4.62 × 10−3 nm
+′
+E = hc
+′
+λ = 1 240 eV ⋅nm
+4.62 × 10−3 nm = 2.68 × 105 eV = 268 keV
+ 
+ 
+(c) 
+Ke = E0 −
+′
+E = 31.7 keV 
+P40.34 
+(a) 
+It is, because Compton’s equation and the conservation of vector
+momentum give three independent equations in the unknowns
+′
+λ , λ0, and u.
+ 
+ 
+(b) Assuming the photon is incident along the x direction, the 
+equations are 
+ 
+ 
+ 
+′
+λ −λ0 =
+h
+mec 1−cos90.0°
+(
+)
+→
+′
+λ = λ0 + h
+mec 
+[1] 
+ 
+ 
+and 
+ 
+ 
+ 
+Δpx = 0 →h
+λ0
+= γ meucos20.0°
+Δpy = 0 →h
+′
+λ = γ meusin20.0°
+
+--- PAGE 25 ---
+Chapter 40     919 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Dividing the latter two equations gives 
+ 
+ 
+ 
+ 
+λ0
+′
+λ = tan20.0° 
+ 
+[2] 
+ 
+ 
+Substituting equation [2] into equation [1] gives 
+ 
+ 
+ 
+′
+λ =
+′
+λ tan20.0° + h
+mec
+′
+λ =
+h
+mec 1−tan20.0°
+(
+) =
+hc
+mec2 1−tan20.0°
+(
+)
+=
+1240 eV⋅nm
+0.511× 106 eV
+(
+) 1−tan20.0°
+(
+)
+= 3.82 × 10−3 nm = 3.82 × 10−12 m = 3.82 pm
+ 
+P40.35 
+We treat the electron non-relativistically because  
+ 
+ 
+ 
+u
+c = 2.18 × 106 m/s
+3.00 × 103 m/s = 0.007 27 < 0.01
+ 
+ 
+The electron’s final kinetic energy is 
+ 
+ 
+ 
+ 
+K f = 1
+2 meu2 . 
+ 
+This is the energy lost by the photon:  
+ 
+ 
+ 
+ΔE = hf0 −h ′f = hc
+λ0
+−hc
+′
+λ = K f 
+[1] 
+ 
+From the Compton equation, we have  
+ 
+ 
+ 
+Δλ =
+′
+λ −λ0 =
+h
+mec 1−cosθ
+(
+) 
+[2] 
+ 
+ 
+ 
+′
+λ = λ0 + h
+mec 1−cosθ
+(
+) 
+[3] 
+ 
+Substitute [2] and [3] into [1]: 
+ 
+ 
+ 
+K f = hc
+λ0
+−hc
+′
+λ = λ0 −
+′
+λ
+(
+)hc
+λ0 ′
+λ
+=
+h
+mec 1−cosθ
+(
+) hc
+λ0 ′
+λ
+ 
+ 
+ 
+ 
+K f =
+h2c 1−cosθ
+(
+)
+mecλ0 λ0 + h
+mec 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 26 ---
+920     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving, 
+ 
+ 
+ 
+mecλ0 λ0 + h
+mec 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥= h2c
+K f
+1−cosθ
+(
+)
+mecλ0
+2 + h 1−cosθ
+(
+)λ0 −h2c
+K f
+1−cosθ
+(
+) = 0
+ 
+ 
+(a) 
+Solve for λ0 : 
+ 
+ 
+ 
+λ0 =
+h 1−cosθ
+(
+) ±
+h 1−cosθ
+(
+)
+[
+]
+2 −4 mec
+(
+) −h2c
+K f
+1−cosθ
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2mec
+λ0 =
+h 1−cosθ
+(
+) ±
+h 1−cosθ
+(
+)
+[
+]
+2 + 4h2mec2
+1
+2 meu2
+1−cosθ
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2mec
+ 
+ 
+ 
+ 
+λ0 =
+h 1−cosθ
+(
+) ±
+h 1−cosθ
+(
+)
+[
+]
+2 + 8h2c2
+u2
+1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+2mec
+= h 1−cosθ
+(
+)
+2mec
+1 ±
+1+
+8c2
+u2 1−cosθ
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+Only the positive answer is physical: 
+ 
+ 
+ 
+λ0 = h 1−cosθ
+(
+)
+2mec
+1+
+1+
+8c2
+u2 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+=
+6.63 × 10−34 J⋅s
+(
+) 1−cos17.4°
+(
+)
+2 9.11× 10−31 kg
+(
+) 3.00 × 108 m/s
+(
+)
+           × 1+
+1+
+8 3.00 × 108 m/s
+(
+)
+2
+2.18 × 106 m/s
+(
+)
+2 1−cos17.4°
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 1.01× 10−10 m = 0.101 nm
+ 
+ 
+(b) From [3], 
+ 
+ 
+ 
+ 
+′
+λ = λ0 + h
+mec 1−cosθ
+(
+)
+
+--- PAGE 27 ---
+Chapter 40     921 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+′
+λ = h 1−cosθ
+(
+)
+2mec
+1+
+1+
+8c2
+u2 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
++ h
+mec 1−cosθ
+(
+)
+=
+h
+mec 1−cosθ
+(
+) 3
+2 + 1
+2
+1+
+8c2
+u2 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 1.0116 × 10−10 m
+ 
+ 
+ 
+The electron scattering angle is φ. By conservation of momentum 
+in the transverse direction: 
+ 
+ 
+ 
+0 = h
+′
+λ sinθ −meusinφ
+→
+sinφ =
+h
+′
+λ meu sinθ
+φ = sin−1
+h
+′
+λ meu sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+= sin−1
+6.63 × 10−34 J⋅s
+′
+λ 9.11× 10−31 kg
+(
+) 2.18 × 106 m/s
+(
+)
+sin17.4°
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 80.7°
+ 
+P40.36 
+Maximum energy loss appears as maximum increase in wavelength, 
+which occurs for scattering angle 180°. Then,  
+ 
+ 
+Δλ =
+h
+mc
+⎛
+⎝⎜
+⎞
+⎠⎟1−cos180°
+(
+) = 2h
+mc
+  
+ 
+where m is the mass of the target particle. The fractional energy loss is  
+ 
+ 
+E0 −
+′
+E
+E0
+= hc λ0 −hc
+′
+λ
+hc λ0
+=
+′
+λ −λ0
+′
+λ
+=
+Δλ
+λ0 + Δλ =
+2h mc
+λ0 + 2h mc 
+ 
+Further, λ0 = hc
+E0
+, so E0 −
+′
+E
+E0
+=
+2h mc
+hc E0 + 2h mc =
+2E0
+mc2 + 2E0
+. 
+ 
+(a) 
+For scattering from a free electron, mc
+2 = 0.511 MeV, so 
+ 
+ 
+ 
+E0 −
+′
+E
+E0
+=
+2 0.511 MeV
+(
+)
+0.511 MeV + 2 0.511 MeV
+(
+)
+= 0.667 
+ 
+(b) For scattering from a free proton, mc
+2 = 938 MeV, and 
+ 
+ 
+ 
+E0 −
+′
+E
+E0
+=
+2 0.511 MeV
+(
+)
+938 MeV + 2 0.511 MeV
+(
+)
+= 0.001 09
+
+--- PAGE 28 ---
+922     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 40.4 
+The Nature of Electromagnetic Waves 
+P40.37 
+With photon energy E = hf = 10.0 eV, a photon would have 
+ 
+ 
+ 
+f = E
+h =
+10.0 1.602 × 10−19 J
+(
+)
+6.626 × 10−34 J ⋅s
+= 2.42 × 1015 Hz 
+ 
+and  
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+2.41× 1015 Hz = 124 nm
+  
+ 
+To have photon energy 10 eV or greater, according to this definition,
+ionizing radiation is the ultraviolet light, x-rays, and γ rays with
+wavelength shorter than 124 nm; that is, with frequency higher than
+2.42 × 1015 Hz.
+ 
+P40.38 
+The photon energy is  
+ 
+ 
+ 
+E = hc
+λ =
+6.626 × 10−34 J ⋅s
+(
+) 3.00 × 108 m/s
+(
+)
+633 × 10−9 m
+= 3.14 × 10−19 J
+ 
+ 
+The power carried by the beam is  
+ 
+ 
+ 
+2.00 × 1018 photons/s
+(
+) 3.14 × 10−19 J/photon
+(
+) = 0.628 W 
+ 
+Its intensity is the average Poynting vector 
+ 
+ 
+ 
+I = Savg =
+P
+π r2 =
+0.628 W
+π 1.75 × 10−3 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 = 2.61× 105 W m2
+ 
+ 
+(a) 
+To find the electric field, we use 
+ 
+ 
+ 
+Savg = 1
+µ0
+ErmsBrms = Emax
+2
+2µ0c
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+Emax = 2µ0cSavg
+(
+)
+1 2
+= 2 4π × 10−7 T⋅m/A
+(
+) 3.00 × 108 m/s
+(
+)
+⎡⎣
+                                            × 2.61× 105 W/m2
+(
+)⎤⎦
+1 2
+= 1.40 × 104 N/C = 14.0 kV/m
+
+--- PAGE 29 ---
+Chapter 40     923 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Bmax = Emax
+c
+= 1.40 × 104 N/C
+3.00 × 108 m/s = 4.68 × 10−5 T = 46.8 µT 
+ 
+(c) 
+Each photon carries momentum E
+c
+. The beam transports 
+momentum at the rate P
+c
+. It imparts momentum to a perfectly 
+reflecting surface at the rate  
+ 
+ 
+ 
+2P
+c = force =
+2 0.628 W
+(
+)
+3.00 × 108 m/s = 4.19 × 10−9 N = 4.19 nN 
+ 
+(d) The block of ice absorbs energy mL = PΔt melting  
+ 
+ 
+ 
+m = PΔt
+L
+=
+0.628 W
+(
+) 1.50 3 600 s
+(
+)
+⎡⎣
+⎤⎦
+3.33 × 105 J/kg
+= 1.02 × 10−2 kg = 10.2 g 
+ 
+ 
+ 
+Section 40.5 
+The Wave Properties of Particles 
+P40.39 
+(a) 
+p = h
+λ = 6.63 × 10−34 J ⋅s
+4.00 × 10−7 m = 1.66 × 10−27 kg ⋅m/s 
+ 
+(b) From p = meu, 
+ 
+ 
+ 
+u = p
+me
+= 1.66 × 10−27 kg⋅m/s
+9.11× 10−31 kg
+= 1.82 × 103 m/s = 1.82 km/s
+  
+P40.40 
+(a) 
+Electron: 
+λ = h
+p and 
+K = 1
+2 meu2 = me
+2u2
+2me
+= p2
+2me
+, 
+ 
+ 
+so 
+p =
+2meK 
+ 
+ 
+and λ =
+h
+2meK =
+6.626 × 10−34 J⋅s
+2 9.11× 10−31 kg
+(
+) 3.00
+(
+) 1.60 × 10−19 J
+(
+)
+= 7.09 × 10−10 m = 0.709 nm
+ 
+ 
+(b) Photon: 
+λ = c
+f and E = hf, so f = E
+h
+, 
+ 
+ 
+and λ = hc
+E = 1240 eV ⋅nm
+3.00 eV
+= 413 nm .
+
+--- PAGE 30 ---
+924     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.41 
+Since the de Broglie wavelength is λ = h
+p , the electron momentum is: 
+ 
+ 
+ 
+p = h
+λ ≈6.626 × 10−34 J ⋅s
+1.00 × 10−11 m
+= 6.626 × 10−23 kg ⋅m s
+ 
+ 
+(a) 
+For electrons, the relativistic answer is more precisely correct. 
+Suppressing units, 
+ 
+ 
+ 
+Ke =
+p2c2 + mec2
+(
+)
+2 −mec2 =
+pc
+(
+)
+2 + mec2
+(
+)
+2 −mec2
+=
+6.626×10−23
+(
+) 2.998×108
+(
+)
+1 MeV
+1.602 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
++ 0.511
+(
+)
+2
+−0.511
+= 0.014 8 MeV = 14.8 keV
+or, ignoring relativistic correction,
+ 
+ 
+ 
+ 
+Ke = p2
+2me
+=
+6.626 × 10−23
+(
+)
+2
+2 9.11× 10−31
+(
+)
+ 
+1 keV
+1.602 × 10−16 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 15.1 keV 
+ 
+(b) For photons (suppressing units): 
+ 
+ 
+ 
+Eγ = pc = 6.626 × 10−23
+(
+) 2.998 × 108
+(
+)
+1 keV
+1.602 × 10−16 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 124 keV
+ 
+P40.42 
+The de Broglie wavelength of the proton is 
+ 
+ 
+ 
+λ = h
+p = h
+mu =
+6.626 × 10−34 J⋅s
+1.67 × 10−27 kg
+(
+) 1.00 × 106 m/s
+(
+)
+= 3.97 × 10−13 m
+ 
+P40.43 
+Refer to Figure P40.43 (or ANS. FIG. 
+P40.43). For Bragg reflection, the 
+angle θ is measured from the 
+reflecting plane to the incident beam, 
+as shown in Figure 38.23. Angle φ is 
+measured from the incident beam to 
+the reflected (scattered) beam. The 
+law of reflection applies relative to 
+the normal to the plane (the dashed  
+line), so the angles of incidence and  
+reflection are equal to φ/2. The angle between the reflecting plane and 
+ANS. FIG. P40.43(a)
+
+--- PAGE 31 ---
+Chapter 40     925 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the normal is 90°, so  
+ 
+ 
+θ + φ
+2 = 90° 
+ 
+From the condition for Bragg 
+reflection, we have 
+ 
+ 
+mλ = 2dsinθ = 2dsin 90° −φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2dcos φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The vertical beam is incident along the normal to the horizontal lattice 
+planes which contain atoms that are separated by distance a, and the 
+reflecting lattice planes form the angle φ/2 with the horizontal planes 
+because the normal to the reflecting planes forms the angle φ/2 with 
+the vertical beam. Therefore, the spacing of the reflecting lattice planes 
+is d = asin φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Thus, for the first maximum, with m = 1,  
+ 
+ 
+ 
+λ = 2 asin φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥cos φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= asinφ 
+ 
+We know that 
+ 
+ 
+ 
+λ = h
+p =
+h
+2meK
+=
+6.626 × 10−34 J ⋅s
+2 9.11× 10−31 kg
+(
+) 54.0 × 1.60 × 10−19 J
+(
+)
+= 1.67 × 10−10 m
+ 
+ 
+Therefore, the lattice spacing is  
+ 
+ 
+ 
+a =
+λ
+sinφ = 1.67 × 10−10 m
+sin50.0°
+= 2.18 × 10−10 = 0.218 nm 
+P40.44 
+(a) 
+λ ~ 10−14 m or less, so p = h
+λ ~ 6.626 × 10−34 J ⋅s
+10−14 m
+≈10−19 kg ⋅m/s or 
+more.  The energy of the electron is, suppressing units, 
+ 
+ 
+ 
+E =
+p2c2 + me
+2c4
+~
+10−19
+(
+)
+2 3 × 108
+(
+)
+2 + 9 × 10−31
+(
+)
+2 3 × 108
+(
+)
+4
+ 
+ 
+ 
+or 
+E ~ 10−11 J ~ 108 eV or more 
+ANS. FIG. P40.43(b)
+
+--- PAGE 32 ---
+926     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so that 
+ 
+ 
+ 
+ 
+K = E −mec2 ~ 108 eV −0.5 × 106 eV
+(
+) ~ 108 eV or more 
+ 
+(b) If the nucleus contains ten protons, the electric potential energy of 
+the electron-nucleus system would be 
+ 
+ 
+ 
+Ue = keq1q2
+r
+~
+9 × 109 N ⋅m2 C2
+(
+) 10 1.60 × 10−19 C
+(
+)
+⎡⎣
+⎤⎦−e
+(
+)
+0.5 × 10−14 m
+ 
+~ −106 eV
+ 
+ 
+(c) 
+With its K +Ue ~ 108 eV >> 0, the electron could not be confined 
+to the nucleus. 
+P40.45 
+(a) 
+From E = γ mc2,  
+ 
+ 
+ 
+γ =
+E
+mc2 = 20 000 MeV
+0.511 MeV = 3.91× 104  
+ 
+(b) We find the momentum of the particle from 
+ 
+ 
+ 
+pc = E2 −mc2
+(
+)
+2
+⎡⎣
+⎤⎦
+1/2
+=
+20 000 MeV
+(
+)
+2 −0.511 MeV
+(
+)
+2
+⎡⎣
+⎤⎦
+= 20.0 GeV
+  
+ 
+ 
+Then, 
+ 
+ 
+ 
+p = 20.0 GeV/c = 1.07 × 10−17 kg⋅m/s
+ 
+ 
+(c) 
+The electron’s wavelength is 
+ 
+ 
+ 
+λ = h
+p =
+6.626 × 10−34 J⋅s
+1.07 × 10−17 kg⋅m/s = 6.21× 10−17 m
+  
+ 
+(d) The wavelength is two orders of magnitude smaller than the size 
+of the nucleus. 
+P40.46 
+Given the assumption in the problem statement, for significant 
+diffraction to occur, we must have  
+ 
+ 
+ 
+w ≤ 10λ = 10 h
+p
+⎛
+⎝⎜
+⎞
+⎠⎟ = 10
+h
+mu
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+where u is the speed of the student as he passes through the doorway. 
+The variable we do not know here is the speed u, so let’s solve for it: 
+ 
+ 
+ 
+u ≤ 10
+h
+mw
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+This expression will give the upper limit to the speed of the student.
+
+--- PAGE 33 ---
+Chapter 40     927 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Substitute numerical values: 
+ 
+ 
+ 
+u ≤ 10 6.626 × 10−34 J ⋅s
+80 kg
+(
+) 0.75 m
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ = 1.1 × 10−34 m/s 
+ 
+This is an extremely low velocity. It is impossible for the student to 
+walk this slowly. At this speed, if the thickness of the wall in which the 
+door is built is 15 cm, the time interval required for the student to pass 
+through the door is 1.4 × 10
+33 s, which is 10
+15 times the age of the 
+Universe. 
+P40.47 
+(a) 
+For the electron,  
+ 
+ 
+ 
+K = γ −1
+(
+)mec2 
+and 
+λ = h
+p =
+h
+γ meu 
+ 
+ 
+For the photon, 
+ 
+ 
+ 
+ 
+Eph = K  
+and 
+λph = c
+f = ch
+E = ch
+K =
+ch
+γ −1
+(
+)mec2 
+ 
+ 
+Then the ratio is 
+ 
+ 
+ 
+λph
+λ =
+ch
+γ −1
+(
+)mec2
+γ meu
+h
+=
+γ
+γ −1
+u
+c , where γ =
+1
+1−u2 c2 
+ 
+(b) For u = 0.900c, 
+ 
+ 
+ 
+λph
+λ =
+1
+1−0.900
+(
+)
+2
+0.900
+(
+)
+1
+1−0.900
+(
+)
+2
+(
+) −1
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.60 
+ 
+(c) 
+The ratio for a particular particle speed does not depend on the 
+particle mass: There would be no change. 
+ 
+(d) For u = 0.001 00c, 
+ 
+ 
+ 
+λph
+λ =
+1
+1−0.001 00
+(
+)
+2
+0.001 00
+(
+)
+1
+1−0.001 00
+(
+)
+2
+(
+) −1
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 2.00 × 103 
+ 
+(e) 
+As u
+c →1, γ →∞ and γ −1 becomes nearly equal to γ. Then,  
+ 
+ 
+ 
+λγ
+λm
+→γ
+γ 1( ) = 1 
+ 
+(f) 
+As u
+c →0 , 1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+−1 ≈1−−1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+u2
+c2 −1 = 1
+2
+u2
+c2 and
+
+--- PAGE 34 ---
+928     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+λγ
+λm
+→1
+u c
+1 2
+(
+) u2 c2
+(
+)
+= 2c
+u →∞ 
+P40.48 
+(a) 
+E
+2 = p
+2c
+2 + m
+2c
+4 with E = hf,       
+ 
+ 
+ 
+p = h
+λ      and      mc = h
+λC
+ 
+ 
+ 
+Substituting, we find that    
+ 
+ 
+ 
+h2 f 2 = h2c2
+λ2 + h2c2
+λC
+2   and   
+f
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+λ2 + 1
+λC
+2 
+ 
+(b) No. For a photon, f
+c = 1
+λ . The third term 1
+λC
+ in the equation 
+above for particles with mass shows that they will always have a 
+different frequency from photons of the same wavelength. 
+ 
+ 
+ 
+Section 40.6 
+A New Model: The Quantum Particle 
+P40.49 
+(a) 
+The particle is freely moving, so we attribute no potential energy 
+to it. Its energy is  
+ 
+ 
+ 
+E = K = 1
+2 mu2 = hf =
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟2π f
+(
+) = ω
+  
+ 
+ 
+For its momentum we have  
+ 
+ 
+ 
+p = mu = h
+λ =
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= k
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ω = K
+   and   k = p
+
+  
+ 
+ 
+Then the phase speed is 
+ 
+ 
+ 
+vphase = f λ =
+mu2
+2h
+⎛
+⎝⎜
+⎞
+⎠⎟
+h
+mu
+⎛
+⎝⎜
+⎞
+⎠⎟= u
+2
+ 
+ 
+(b) We see that the phase speed is only one-half of the experimentally 
+measurable speed u at which the quantum particle transports 
+mass, energy, and momentum. In the textbook’s Active Figure 
+28.17, individual wave crests would move forward more slowly 
+than their envelope moves forward, so individual crests would 
+appear to move backward relative to the packet containing them.
+
+--- PAGE 35 ---
+Chapter 40     929 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.50 
+As a bonus, we begin by proving that the phase speed vp = ω
+k is not 
+the speed of the particle. 
+ 
+ 
+ 
+vp = ω
+k =
+p2c2 + m2c4
+γ mu
+=
+γ 2m2u2c2 + m2c4
+γ 2m2u2
+= c 1+
+c2
+γ 2u2 = c 1+ c2
+u2 1−u2
+c2
+⎛
+⎝⎜
+⎞
+⎠⎟= c 1+ c2
+u2 −1 = c2
+u
+ 
+ 
+In fact, the phase speed is larger than the speed of light! A point of 
+constant phase in the wave function carries no mass, no energy, and no 
+information. 
+ 
+Now for the group speed:  
+ 
+ 
+ 
+vg = dω
+dk = d ω
+(
+)
+d k
+(
+)
+= dE
+dp = d
+dp
+m2c4 + p2c2
+= 1
+2 m2c4 + p2c2
+(
+)
+−1 2 0 + 2pc2
+(
+) =
+p2c4
+p2c2 + m2c4
+= c
+γ 2m2u2
+γ 2m2u2 + m2c2
+= c
+u2
+1−u2 c2
+(
+)
+u2
+1−u2 c2
+(
+) + c2 = c
+u2
+1−u2 c2
+(
+)
+u2 + c2 −u2
+(
+)
+1−u2 c2
+(
+)
+= u
+ 
+ 
+It is this speed at which mass, energy, and momentum are transported. 
+ 
+ 
+ 
+Section 40.7 
+The Double-Slit Experiment Revisited 
+P40.51 
+(a) 
+λ = h
+mu =
+6.626 × 10−34 J ⋅s
+1.67 × 10−27 kg
+(
+) 0.400 m/s
+(
+)
+= 9.92 × 10−7 m = 992 nm 
+ 
+(b) For destructive interference in a multiple-slit experiment, 
+dsinθ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ, with m = 0 for the first minimum. Also, 
+y
+L = tanθ ≈sinθ =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+d
+, so  
+ 
+ 
+ 
+y = Ltanθ = λL
+2d = 9.92 × 10−7 m
+(
+) 10.0 m
+(
+)
+2 1.00 × 10−3 m
+(
+)
+= 4.96 mm
+
+--- PAGE 36 ---
+930     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+No; there is no way to identify the slit through which the 
+neutron passed. Even if one neutron at a time is incident 
+on the pair of slits, an interference pattern still develops 
+on the detector array. Therefore, each neutron in effect 
+passes through both slits.
+ 
+P40.52 
+We find the speed of each electron from energy conservation in the 
+firing process: 
+ 
+ 
+ 
+E = 0 = K f +U f = 1
+2 mu2 −eV
+u =
+2eV
+m
+=
+2 1.60 × 10−19 C
+(
+) 45.0 V
+(
+)
+9.11× 10−31 kg
+= 3.98 × 106 m/s
+ 
+ 
+The time of flight is  
+ 
+ 
+ 
+Δt = Δx
+u =
+0.280 m
+3.98 × 106 m/s = 7.04 × 10−8 s 
+ 
+The current when electrons are 28 cm apart is  
+ 
+ 
+  
+I = q
+t = e
+Δt = 1.60 × 10−19 C
+7.04 × 10−8 s
+ = 2.27 × 10−12 A 
+P40.53 
+Consider the first bright band away from the center: 
+ 
+ 
+ 
+dsinθ = mλ 
+ 
+ 
+ 
+0.060 0 × 10−6 m
+(
+)sin tan−1 0.400 × 10−3 m
+20.0 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+                                                     = 1( )λ = 1.20 × 10−10 m
+ 
+ 
+And since λ = h
+p =
+h
+meu ,    so     meu = h
+λ ,  
+ 
+and 
+ 
+ 
+ 
+K = 1
+2 meu2 = me
+2u2
+2me
+=
+h2
+2meλ2 = eΔV
+→
+ΔV =
+h2
+2emeλ2 
+ 
+Therefore,    
+ 
+ 
+ 
+ΔV =
+6.626 × 10−34 J⋅s
+(
+)
+2
+2 1.60 × 10−19 C
+(
+) 9.11× 10−31 kg
+(
+) 1.20 × 10−10 m
+(
+)
+2
+= 105 V
+
+--- PAGE 37 ---
+Chapter 40     931 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 40.8 
+The Uncertainty Principle 
+P40.54 
+(a) 
+The uncertainty principle states ΔpΔx = mΔuΔx ≥
+2 , so  
+ 
+ 
+ 
+Δu ≥
+h
+4π mΔx =
+2π J⋅s
+4π 2.00 kg
+(
+) 1.00 m
+(
+) = 0.250 m/s
+ 
+ 
+(b) The duck might move by (0.250 m/s)(5.00 s) = 1.25 m. With an 
+original position uncertainty of 1.00 m, we can think of Δx 
+growing to 1.00 m + 1.25 m = 2.25 m . 
+P40.55 
+The uncertainty principle states ΔxΔpx ≥
+2 , where  
+Δpx = mΔu   and   = h/2π.  
+ 
+Both the electron and bullet have a velocity uncertainty  
+ 
+ 
+Δu = (0.000 100)(500 m/s) = 0.050 0 m/s 
+ 
+For the electron, the minimum uncertainty in position is  
+ 
+ 
+Δx =
+h
+4πmΔu =
+6.626 × 10–34 J⋅s
+4π 9.11× 10–31 kg
+(
+)(0.050 0 m/s) = 1.16 mm
+ 
+ 
+For the bullet, 
+ 
+ 
+Δx =
+h
+4πmΔu =
+6.626 × 10–34 J · s
+4π(0.020 0 kg)(0.050 0 m/s) = 5.28 × 10–32 m
+ 
+P40.56 
+The momentum of the block is p = mv, and if the mass is known 
+precisely, the uncertainty in the momentum is Δp = mΔv. From the 
+uncertainty principle, ΔxΔpx ≥2 , so if there is an uncertainty of 
+Δx = 0.150 cm = 1.50 × 10−3 m in the position of the particle, the 
+minimum uncertainty in its speed is 
+ 
+ 
+Δvx
+(
+)min = Δpx
+(
+)min
+m
+=
+h
+4πm Δx
+(
+)max
+=
+6.63 × 10−34 J⋅s
+4π 0.500 kg
+(
+) 1.50 × 10−3 m
+(
+)
+= 7.03 × 10−32 m/s
+
+--- PAGE 38 ---
+932     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.57 
+The maximum time one can use in measuring the energy of the particle 
+is equal to the lifetime of the particle, or Δtmax ≈2 µs. One form of the 
+uncertainty principle is ΔEΔt ≥2 . Thus, the minimum uncertainty 
+one can have in the measurement of a muon’s energy is  
+ 
+ 
+ΔEmin =
+h
+4π Δtmax
+= 6.626 × 10−34 J⋅s
+4π 2 × 10−6 s
+(
+)
+= 3 × 10−29 J ≈2 × 10−10 eV
+ 
+P40.58 
+Assume the rifle is firing horizontally and let the distance between the 
+rifle and the target be L. The uncertainty in the vertical position of the 
+particle as it leaves the end of the rifle is Δy = 2.00 mm. The 
+uncertainty principle will allow us to approximate the uncertainty in 
+the vertical momentum of the particles (ignoring gravitational 
+acceleration): 
+ 
+ 
+ 
+ΔyΔpy  ≥ 
+2
+→
+Δpy  ≥  
+2Δy
+ 
+ 
+The time interval for the particle to reach the screen is, from the 
+particle under constant velocity model, 
+ 
+ 
+ 
+Δt =  L
+vx
+ 
+ 
+During this time interval, again from the particle under constant 
+velocity model, the particle moves in the vertical direction by a 
+distance (again ignoring gravitational effects) 
+ 
+ 
+ 
+Δyt = vyΔt = vy
+L
+vx
+ = py
+L
+px
+ 
+ 
+where Δyt is the vertical distance though which the particle moves 
+when it arrives at the target and py is the vertical momentum of the 
+particle. Because the particles begin with zero vertical momentum, let’s 
+assume that the vertical momentum of the particles is on the order of 
+the uncertainty in the vertical momentum. Then, 
+ 
+ 
+ 
+Δyt ≈
+
+2Δy    L
+px
+ 
+ 
+What we don’t know in this expression is the distance L, so let’s solve 
+for it: 
+ 
+ 
+ 
+L ≈ 2pxΔyΔyt
+
+
+--- PAGE 39 ---
+Chapter 40     933 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+L ≈ 2 0.001 00 kg
+(
+) 100 m/s
+(
+) 0.002 00 m
+(
+) 0.010 0 m
+(
+)
+1.055 × 10−34 J ⋅s
+ ≈ 4 × 1028 m
+ 
+ 
+According to Table 1.1, this distance is two orders of magnitude larger 
+than the distance from the Earth to the most remote known quasar. In 
+conclusion, then, for rifles fired at targets at reasonable distances away, 
+a spread of 1.00 cm due to the uncertainty principle would be impossible. 
+P40.59 
+With Δx = 1× 10−14 m, the uncertainty principle requires  
+ 
+ 
+Δpx ≥
+
+2Δx = 1.055 × 10−34 J⋅s
+2 1 × 10−14 m
+(
+)
+= 5.3 × 10−21 kg⋅m/s
+ 
+ 
+The average momentum of the particle bound in a stationary nucleus 
+is zero. The uncertainty in momentum measures the standard 
+deviation of the momentum, so we take p ≈5.3 × 10−21 kg ⋅m/s. 
+ 
+For an electron, the non-relativistic approximation p = meu would 
+predict u ≈6 × 109 m/s , which is impossible because u cannot be 
+greater than c. Thus, a better solution would be to use  
+ 
+ 
+E =
+mec2
+(
+)
+2 + pc
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+1 2
+≈9.9 MeV = γ mec2  
+ 
+to find the speed (with mec
+2 = 0.511 MeV):  
+ 
+ 
+γ ≈19.4 =
+1
+1−u2 c2     so     u ≈0.998 67c 
+ 
+For a proton,  
+ 
+ 
+u = p
+m = 5.3 × 10−21 kg ⋅m/s
+1.67 × 10−27 kg
+= 3.2 × 106 m/s = 0.011c 
+ 
+about one-hundredth the speed of light. 
+ 
+ 
+ 
+Additional Problems 
+P40.60  
+From each wavelength we find the corresponding frequency using the 
+relation λ f = c, where c is the speed of light:  
+ 
+For 
+λ1 = 588 × 10–9 m            f1 = c
+λ1
+= 5.10 × 1014 Hz
+
+--- PAGE 40 ---
+934     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For 
+λ2 = 505 × 10–9 m            f2 = 5.94 × 1014 Hz 
+ 
+ 
+λ3 = 445 × 10–9 m            f3 = 6.74 × 1014 Hz 
+ 
+ 
+λ4 = 399 × 10–9 m            f4 = 7.52 × 1014 Hz 
+(a) 
+We plot each point on an energy versus frequency graph, as 
+shown in ANS. FIG. P40.60. We extend a straight line through 
+the set of 4 points, as far as the negative y intercept.  
+ 
+ANS. FIG. P40.60 
+ 
+(b) Our basic equation is Kmax = hf – φ . Therefore, an experimental 
+value for Planck’s constant is the slope of the K-f graph, which 
+can be found from a least-squares fit or from reading the graph 
+as: 
+ 
+ 
+ 
+hexp = Rise
+Run =
+1.25 eV −0.25 eV
+6.5 × 1014 Hz −4.0 × 1014 Hz
+= 4.0 × 10–15 eV · s  = 6.4 × 10–34 J · s
+ 
+ 
+ 
+ 
+From the scatter of the data points on the graph, we estimate the 
+uncertainty of the slope to be about 3%. Thus we choose to show 
+two significant figures in writing the experimental value of 
+Planck’s constant.  
+ 
+(c) 
+Again from the linear equation Kmax = hf – φ, the work function for 
+the metal surface is the negative of the y-intercept of the graph, so   
+ 
+ 
+ 
+φexp = −−1.4 eV
+(
+) = 1.4 eV  
+ 
+ 
+Based on the range of slopes that appear to fit the data, the 
+estimated uncertainty of the work function is 5%.
+
+--- PAGE 41 ---
+Chapter 40     935 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P40.61  From the circular path the electrons follow in the magnetic field, the 
+magnetic force is centripetal,  
+ 
+ 
+ 
+F = ma:
+evB = mev2
+R
+→
+mev = eBR
+ 
+ 
+so the maximum kinetic energy is seen to be:  
+ 
+ 
+ 
+Kmax = 1
+2 mev2 = mev
+(
+)
+2
+2me
+= e2B2R2
+2me
+= 1.602 × 10−19 C
+(
+)
+2 2.00 × 10−5 T
+(
+)
+2 0.200 m
+(
+)
+2
+2 9.11× 10−31 kg
+(
+)
+= 2.25 × 10−19 J = 1.40 eV
+ 
+ 
+From the photoelectric equation,      
+ 
+ 
+ 
+Kmax = hf −φ = hc
+λ −φ 
+ 
+Thus, the work function is 
+ 
+ 
+ 
+φ = hc
+λ −Kmax = 1 240 eV⋅nm
+450 nm
+−1.40 eV = 1.36 eV
+ 
+P40.62 
+From the circular path the electrons follow in the magnetic field, the 
+magnetic force is centripetal,  
+ 
+ 
+ 
+F = ma:
+evB = mev2
+R
+→
+mev = eBR 
+ 
+so maximum kinetic energy is seen to be:  
+ 
+ 
+ 
+Kmax = 1
+2 mev2 = mev
+(
+)
+2
+2me
+= e2B2R2
+2me
+ 
+ 
+From the photoelectric equation,      
+ 
+ 
+ 
+Kmax = hf −φ = hc
+λ −φ 
+ 
+Thus, the work function is 
+ 
+ 
+ 
+ 
+φ = hc
+λ −Kmax =
+hc
+λ −e2B2R2
+2me
+ 
+P40.63 
+The condition on electric power delivered to the filament is  
+ 
+ 
+P = I ΔV = ΔV
+(
+)
+2
+R
+= ΔV
+(
+)
+2 A
+ρ
+= ΔV
+(
+)
+2 π r2
+ρ
+,    so    = ΔV
+(
+)
+2 πr2
+ρP
+.
+
+--- PAGE 42 ---
+936     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Here P = 75.0 W, ρ = 7.13 × 10−7Ω⋅m, and ΔV = 120 V. As the filament 
+radiates in steady state, it must emit all of this power through its 
+lateral surface area P = σ eAT 4 = σ e2π rT 4. 
+ 
+(a) 
+We combine the conditions by substitution: 
+ 
+ 
+ 
+P = σ e2πr
+ΔV
+(
+)
+2 πr2
+ρP
+⎡
+⎣⎢
+⎤
+⎦⎥T 4
+r3 =
+ρP2
+2σ e ΔV
+(
+)
+2 π 2T 4
+=
+7.13 × 10−7Ω⋅m
+(
+) 75.0 W
+(
+)
+2
+2 5.67 × 10−8 W/m2K4
+(
+) 0.450
+(
+) 120 V
+(
+)
+2 π 2 2 900 K
+(
+)
+4
+r = 1.98 × 10−5 m
+r =
+P ρ 
+π ΔV
+(
+)
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+75.0 W
+(
+) 7.13 × 10−7Ω⋅m
+(
+) 0.333 m
+(
+)
+π 120 V
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 1.98 × 10−5 m
+ 
+ 
+(b) 
+= ΔV
+(
+)
+2 πr2
+ρP
+=
+120 V
+(
+)
+2 πr2
+7.13 × 10−7Ω⋅m
+(
+) 75.0 W
+(
+)
+= 0.333 m 
+P40.64 
+We first isolate the terms involving φ in Equations 40.13 and 40.14, 
+ 
+ 
+γ meucosφ = h
+λ0
+−h
+′
+λ cosθ
+γ meusinφ = h
+′
+λ sinθ
+ 
+ 
+We then square and add to eliminate φ : 
+ 
+ 
+γ meucosφ
+(
+)
+2 + γ meusinφ
+(
+)
+2 =
+h
+λ0
+−h
+′
+λ cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++
+h
+′
+λ sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+γ 2me
+2u2 = h2
+1
+λ0
+2 + 1
+′
+λ 2 −2cosθ
+λ0 ′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+u2 c2
+1−u2 c2
+(
+)
+=
+h2
+me
+2c2
+1
+λ0
+2 + 1
+′
+λ 2 −2cosθ
+λ0 ′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 43 ---
+Chapter 40     937 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Defining b =
+h2
+me
+2c2
+1
+λ0
+2 + 1
+′
+λ 2 −2cosθ
+λ0 ′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥, the above equation becomes  
+u2 c2
+1−u2 c2
+(
+)
+= b
+→
+u2 c2 = b 1−u2 c2
+(
+)
+u2 c2 =
+b
+1+ b
+(
+)
+ 
+ 
+Substitute into Equation 40.12 for the cutoff wavelength, 
+ 
+ 
+1+
+h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+λ0
+−1
+′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥= γ = 1−
+b
+1+ b
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1 2
+=
+1+ b 
+ 
+Squaring each side then gives 
+ 
+ 
+1+ 2h
+mec
+1
+λ0
+−1
+′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥+
+h2
+me
+2c2
+1
+λ0
+−1
+′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+                                        = 1+
+h2
+me
+2c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+λ0
+2 + 1
+′
+λ 2 −2cosθ
+λ0 ′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+Eliminating terms, 
+ 
+ 
+c2 + 2h
+mec
+1
+λ0
+−1
+′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥+
+h2
+me
+2c2
+1
+λ0
+2 −
+2
+λ0 ′
+λ +
+1
+′
+λ 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+                                   = c2 +
+h2
+me
+2c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+λ0
+2 +
+1
+′
+λ 2 −2cosθ
+λ0 ′
+λ
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+2h
+mec
+1
+λ0
+−1
+′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥−
+h2
+me
+2c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+λ0 ′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= −
+h2
+me
+2c2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 cosθ
+λ0 ′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+mec
+′
+λ −λ0
+λ0 ′
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥−h
+1
+λ0 ′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= −h cosθ
+λ0 ′
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+mec
+′
+λ −λ0
+(
+)−h = −hcosθ
+ 
+ 
+Rearranging this gives Equation 40.11, 
+ 
+ 
+′
+λ −λ0 =
+h
+mec
+⎛
+⎝⎜
+⎞
+⎠⎟1−cosθ
+(
+)
+
+--- PAGE 44 ---
+938     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.65 
+We use ΔVS =
+h
+e
+⎛
+⎝⎜
+⎞
+⎠⎟f −φ
+e
+. 
+ 
+From two points on the graph in ANS. FIG. 
+P40.65, 
+ 
+ 
+ 
+0 =
+h
+e
+⎛
+⎝⎜
+⎞
+⎠⎟4.1× 1014 Hz
+(
+) −φ
+e
+ 
+ 
+and 
+ 
+ 
+ 
+3.3 V =
+h
+e
+⎛
+⎝⎜
+⎞
+⎠⎟12 × 1014 Hz
+(
+) −φ
+e
+ 
+ 
+Combining these two expressions we find: 
+ 
+(a) 
+φ = 1.7 eV 
+ 
+(b) 
+h
+e = 4.2 × 10−15 V ⋅s 
+ 
+(c) 
+At the cutoff wavelength, hc
+λc
+= φ =
+h
+e
+⎛
+⎝⎜
+⎞
+⎠⎟
+ec
+λc
+, or  
+ 
+ 
+ 
+λc = 4.2 × 10−15 V ⋅s
+(
+) 1.60 × 10−19 C
+(
+)
+                                         ×
+3.00 × 108 m/s
+(
+)
+1.7 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+= 7.3 × 102 nm
+ 
+P40.66 
+Equation 40.11 states Δλ =
+h
+mec 1−cosθ
+(
+) =
+′
+λ −λ0 for the scattered 
+photon. The initial energy of a photon is E0 = hc λ0 . Its energy after 
+scattering is  
+ 
+ 
+′
+E = hc
+′
+λ =
+hc
+λ0 + Δλ = hc λ0 +
+h
+mec 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+′
+E = hc
+λ0
+1+
+hc
+mec2λ0
+1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+′
+E = hc
+λ0
+1+
+hc
+mec2λ0
+1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= E0 1+ E0
+mec2 1−cosθ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+ 
+ 
+ANS. FIG. P40.65
+
+--- PAGE 45 ---
+Chapter 40     939 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.67 
+(a) 
+We use energy conservation in the daredevil-Earth system to find 
+the speed of the daredevil just before he makes a splash: 
+ 
+ 
+ 
+mgyi = 1
+2 muf
+2 
+ 
+ 
+gives 
+ 
+ 
+ 
+uf =
+2gyi =
+2 9.80 m/s2
+(
+) 50.0 m
+(
+) = 31.3 m/s 
+ 
+ 
+The de Broglie wavelength is then 
+ 
+ 
+ 
+λ = h
+mu =
+6.626 × 10−34 J⋅s
+75.0 kg
+(
+) 31.3 m/s
+(
+) = 2.82 × 10−37 m
+  
+ 
+ 
+This is too small to be observable. 
+ 
+(b) Equation 40.26 gives us the energy-lifetime version of the 
+uncertainty principle: 
+ 
+ 
+ 
+ΔEΔt ≥
+2 
+ 
+ 
+substituting numerical values, 
+ 
+ 
+ 
+ΔE ≥6.626 × 10−34 J⋅s
+4π 5.00 × 10−3 s
+(
+)
+= 1.05 × 10−32 J
+ 
+ 
+(c) 
+We find the percent error from 
+ 
+ 
+ 
+ΔE
+E =
+1.05 × 10−32 J
+75.0 kg
+(
+) 9.80 m/s2
+(
+) 50.0 m
+(
+) = 2.87 × 10−35%
+ 
+P40.68 
+The definition of the Compton wavelength is λC = h/mec. The de 
+Broglie wavelength is λ = h/p . We take the ratio of the Compton 
+wavelength to the de Broglie wavelength, and square it: 
+ 
+ 
+λC
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+p2
+mec
+(
+)
+2
+ 
+ 
+From Equation 39.27, the momentum for a slowly-moving or rapidly-
+moving object is described by 
+ 
+ 
+p2 = E2 −me
+2c4
+c2
+ 
+ 
+Substituting and simplifying, 
+ 
+ 
+λC
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= E2 −me
+2c4
+(
+)
+mec2
+(
+)
+2
+=
+E
+mec2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+
+--- PAGE 46 ---
+940     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+λC
+λ =
+E
+mec2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 
+P40.69 
+(a) 
+We find the energy of one photon:  
+ 
+ 
+ 
+hf = Kmax +φ
+    = 1
+2 9.11× 10−31 kg
+(
+) 420 × 103 m/s
+(
+)
+2
+                       + 3.44 eV
+(
+) 1.6 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.31× 10−19 J 
+ 
+ 
+ 
+The number intensity of photon bombardment is  
+ 
+ 
+ 
+I
+hf =
+550 J/s⋅m2
+6.31× 10−19 J/photon
+1 m2
+104 cm2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 electron emitted
+1 photon absorbed
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.72 × 1016 electrons
+s⋅cm2
+ 
+ 
+(b) The density of the current the imagined electrons comprise is 
+ 
+ 
+ 
+J = 8.72 × 1016 electrons
+s⋅cm2
+⎛
+⎝⎜
+⎞
+⎠⎟1.60 × 10−19 
+C
+electron 
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.014 0 
+C
+s⋅cm2 = 14.0 mA/cm2
+ 
+ 
+(c) 
+Many photons are likely reflected or give their energy to the 
+metal as internal energy, so the actual current is probably a small 
+fraction of 14.0 mA. 
+P40.70 
+From the uncertainty principle,  
+ 
+ 
+ 
+ΔEΔt ≥
+2
+→
+Δ mc2
+(
+)Δt = 
+2
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+Δm
+m =
+h
+4π c2 Δt
+(
+)m =
+h
+4π Δt
+(
+)ER
+=
+6.626 × 10−34 J⋅s
+4π 8.70 × 10−17 s
+(
+) 135 MeV
+(
+)
+1 MeV
+1.60 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.81× 10−8
+
+--- PAGE 47 ---
+Chapter 40     941 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.71 
+(a) 
+To find the de Broglie wavelength of the neutron, we first 
+determine its momentum, 
+ 
+ 
+ 
+p = mu =
+2mE
+=
+2 1.67 × 10−27 kg
+(
+) 0.040 0 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+= 4.62 × 10−24 kg⋅m/s
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+λ = h
+mu =
+6.626 × 10−34 J ⋅s
+4.62 × 10−24 kg ⋅m/s = 1.43 × 10−10 m = 0.143 nm 
+ 
+(b) 
+This is of the same order of magnitude as the spacing between 
+atoms in a crystal. 
+ 
+(c) 
+Because the wavelength is about the same as the spacing, 
+diffraction effects should occur. 
+ 
+ 
+A diffraction pattern with maxima and minima at the same angles 
+can be produced with x-rays, with neutrons, and with electrons of 
+much higher kinetic energy, by using incident quantum particles 
+with the same wavelength. 
+ 
+ 
+ 
+Challenge Problems 
+*P40.72 
+(a) 
+At the top of the ladder, the woman holds a pellet inside a small 
+region Δxi. Thus, the uncertainty principle requires her to release 
+it with typical horizontal momentum Δpx = mΔvx =
+
+2Δxi
+. It falls 
+to the floor in a travel time given by H = 0 + 1
+2 gt2 as t =
+2H
+g , so 
+the total width of the impact points is 
+ 
+ 
+ 
+Δx f = Δxi + Δvx
+(
+)t = Δxi +
+
+2mΔxi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2H
+g
+= Δxi + A
+Δxi
+ 
+ 
+ 
+where A = 
+2m
+2H
+g . 
+ 
+ 
+To minimize Δx f , we require 
+d Δx f
+(
+)
+d Δxi
+(
+) = 0 
+or 
+1−A
+Δxi
+2 = 0, 
+ 
+ 
+so 
+Δxi =
+A.
+
+--- PAGE 48 ---
+942     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The minimum width of the impact points is 
+ 
+ 
+ 
+Δx f
+(
+)min = Δxi + A
+Δxi
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δxi =
+A
+= 2 A =
+2
+m
+2H
+g
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 4
+ 
+ 
+ (b) 
+Δx f
+(
+)min =
+2 1.054 6 × 10−34 J ⋅s
+(
+)
+5.00 × 10−4 kg
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2 2 2.00 m
+(
+)
+9.80 m s2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 4
+= 5.19 × 10−16 m
+ 
+P40.73 
+(a) 
+The Doppler shift increases the apparent frequency of the 
+incident light. 
+ 
+(b) If v = 0.280c,   
+ 
+ 
+ 
+′f = f
+1+ v c
+1−v c = 7.00 × 1014 Hz
+(
+)
+1.28
+0.720 = 9.33 × 1014 Hz 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+φ = h ′f
+= 6.626 × 10−34 J⋅s
+(
+) 9.33 × 1014 Hz
+(
+)
+1eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.86 eV
+ 
+ 
+(c) 
+At v = 0.900c,   
+ 
+ 
+ 
+′f = f
+1+ v c
+1−v c = 7.00 × 1014 Hz
+(
+)
+1.900
+0.100 = 3.05 × 1015 Hz 
+ 
+ 
+and  
+ 
+ 
+ 
+Kmax = h ′f −φ
+=
+6.626 × 10−34 J⋅s
+(
+) 3.05 × 1015 Hz
+(
+)
+1.00 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                                                         −3.86 eV
+= 8.76 eV
+ 
+P40.74 
+We show that if all of the energy of a photon is transmitted to an 
+electron, momentum will not be conserved. In general, a photon of 
+energy E0 = hc λ0 scatters off an electron at rest, resulting in the 
+photon having energy ′
+E = hc
+′
+λ and the electron having kinetic 
+energy Ke. Energy conservation requires E0 =
+′
+E + Ke, or 
+ 
+ 
+hc
+λ0
+= hc
+′
+λ + mec2 γ −1
+(
+)
+
+--- PAGE 49 ---
+Chapter 40     943 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If the photon is absorbed, then ′
+E = hc
+′
+λ = 0 , and the above equation 
+becomes 
+ 
+ 
+hc
+λ0
+= mec2 γ −1
+(
+) 
+ 
+[1] 
+ 
+Because the photon is absorbed, momentum conservation requires the 
+momentum of the electron be in the same direction as the momentum 
+of the original photon:  
+ 
+ 
+p0 = E
+c = h
+λ0
+= γ meu 
+[2] 
+ 
+From [1], we find that 
+ 
+ 
+ 
+γ =
+h
+λ0mec + 1 
+ 
+[3] 
+ 
+and 
+u = c 1−
+λ0mec
+h + λ0mec
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+[4] 
+ 
+Substituting [3] and [4] into [2] reveals the inconsistency: 
+ 
+ 
+h
+λ0
+= 1+
+h
+λ0mec
+⎛
+⎝⎜
+⎞
+⎠⎟mec 1−
+λ0mec
+h + λ0mec
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+                 = λ0mec + h
+λ0
+h h + 2λ0mec
+(
+)
+h + λ0mec
+(
+)
+2
+= h
+λ0
+h + 2λ0mec
+h
+ 
+ 
+This is impossible, so all of the energy of a photon cannot be 
+transmitted to an electron. 
+P40.75 
+(a) 
+Starting with Planck’s law, 
+ 
+ 
+ 
+ 
+I λ, T
+(
+) =
+2π hc2
+λ5 ehc λkBT −1
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+the total power radiated per unit area  
+ 
+ 
+ 
+I λ, T
+(
+)dλ
+0
+∞
+∫
+=
+2π hc2
+λ5 ehc λkBT −1
+⎡⎣
+⎤⎦
+dλ
+0
+∞
+∫
+ 
+ 
+ 
+Change variables by letting x =
+hc
+λkBT , so dx = −
+hc
+kBTλ2 dλ . 
+ 
+ 
+Note that as λ varies from 0 →∞, x varies from ∞→0 .
+
+--- PAGE 50 ---
+944     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+I λ, T
+(
+)dλ
+0
+∞
+∫
+= −2π kB
+4T 4
+h3c2
+x3
+ex −1
+(
+)
+dx
+∞
+0
+∫
+= 2πkB
+4T 4
+h3c2
+π 4
+15
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+I λ, T
+(
+)dλ
+0
+∞
+∫
+=
+2π 5kB
+4
+15h3c2
+⎛
+⎝⎜
+⎞
+⎠⎟T 4 = σ T 4 
+ 
+(b) From part (a), 
+ 
+ 
+ 
+σ = 2π 5kB
+4
+15h3c2 =
+2π 5 1.38 × 10−23 J/K
+(
+)
+4
+15 6.626 × 10−34 J ⋅s
+(
+)
+3 3.00 × 108 m/s
+(
+)
+2 
+ 
+ 
+ 
+σ = 5.67 × 10−8 W/m2 ⋅K4 
+P40.76 
+(a) 
+Planck’s law states  
+ 
+ 
+ 
+I λ, T
+(
+) =
+2π hc2
+λ5 ehc λkBT −1
+⎡⎣
+⎤⎦
+= 2π hc2λ−5 ehc λkBT −1
+⎡⎣
+⎤⎦
+−1
+. 
+ 
+ 
+To find the wavelength at which this distribution has a 
+maximum, compute 
+ 
+ 
+ 
+dI
+dλ = 2π hc2 −5λ −6 ehc λkBT −1
+⎡⎣
+⎤⎦
+−1
+⎧
+⎨
+⎩
+                           −λ −5 ehc λkBT −1
+⎡⎣
+⎤⎦
+−2 ehc λkBT −
+hc
+λ 2kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎫
+⎬⎪
+⎭⎪
+= 0
+dI
+dλ =
+2π hc2
+λ 6 ehc λkBT −1
+⎡⎣
+⎤⎦
+−5 +
+hc
+λkBT
+ehc λkBT
+ehc λkBT −1
+⎡⎣
+⎤⎦
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 0
+ 
+ 
+ 
+Letting x =
+hc
+λkBT , the condition for a maximum becomes 
+xex
+ex −1 = 5. We zero in on the solution to this transcendental 
+equation by iterations as shown in the table on the following 
+page.
+
+--- PAGE 51 ---
+Chapter 40     945 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+x 
+xex
+ex −1
+(
+) 
+ 
+x 
+xex
+ex −1
+(
+) 
+4.000 00 
+4.074 629 4 
+ 
+4.964 50 
+4.999 403 0 
+4.500 00 
+4.550 552 1 
+ 
+4.965 50 
+5.000 374 9 
+5.000 00 
+5.033 918 3 
+ 
+4.965 00 
+4.999 889 0 
+4.900 00 
+4.936 762 0 
+ 
+4.965 25 
+5.000 132 0 
+4.950 00 
+4.985 313 0 
+ 
+4.965 13 
+5.000 015 3 
+4.975 00 
+5.009 609 0 
+ 
+4.965 07 
+4.999 957 0 
+4.963 00 
+4.997 945 2 
+ 
+4.965 10 
+4.999 986 2 
+4.969 00 
+5.003 776 7 
+ 
+4.965 115 
+5.000 000 8 
+4.966 00 
+5.000 860 9 
+ 
+ 
+ 
+ 
+ 
+The solution is found to be 
+ 
+ 
+ 
+x =
+hc
+λmaxkBT = 4.965 115 
+and 
+λmaxT =
+hc
+4.965 115kB
+ 
+ 
+(b) Thus, 
+ 
+ 
+ 
+λmaxT =
+6.626 075 × 10−34 J ⋅s
+(
+) 2.997 925 × 108 m/s
+(
+)
+4.965 115 1.380 658 × 10−23 J/K
+(
+)
+= 2.897 755 × 10−3 m ⋅K
+ 
+ 
+ 
+This result agrees with Wien’s experimental value of 
+λmaxT = 2.898 × 10−3 m ⋅K for this constant.
+
+--- PAGE 52 ---
+946     Introduction to Quantum Physics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P40.2 
+(a) 999 nm; (b) The wavelength emitted at the greatest intensity is in 
+the infrared (greater than 700 nm), and according to the graph in 
+Active Figure 40.3, much more energy is radiated at wavelengths 
+longer than λmax than at shorter wavelengths. 
+P40.4 
+(a) 5 200 K; (b) This is not blackbody radiation. 
+P40.6 
+i: (a) 2.57 eV, (b) 1.28 × 10
+−5 eV, (c) 1.91 × 10
+−7 eV; ii: (a) 484 nm, (b) 9.68 
+cm, (c) 6.52 m; iii: (a) visible light (blue), (b) radio wave, (c) radio wave 
+P40.8 
+2.27 × 10
+30 photon/s 
+P40.10 
+(a) 5.78 × 10
+3 K; (b) 501 nm 
+P40.12 
+(a) 7.09 × 10
+4 W; (b) 580 nm; (c) 7.99 × 10
+10 W/m; (d−i) See table in 
+P40.12; (j) ≈19 kW 
+P40.14 
+See P40.14 for full explanation. 
+P40.16 
+(a) 4.20 mm; (b) 1.05 × 10
+19 photons; (c) 8.82 × 10
+16 mm
+–3 
+P40.18 
+(a) 288 nm; (b) 1.04 × 10
+15 Hz; (c) 1.19 eV 
+P40.20 
+(a) The energy of a photon with wavelength 400 nm is calculated to be 
+3.11 eV. Now compare this energy with the given work functions. Of 
+these metals, only lithium shows the photoelectric effect because its 
+work function is less than the energy of the photon; (b) 0.808 eV 
+P40.22 
+(a) 148 days; (b) The result for part (a) does not agree at all with the 
+experimental observations. 
+P40.24 
+(a) 8.27 eV; (b) The photon energy is larger than the work function;  
+(c) 1.92 eV; (d) 1.92 V 
+P40.26 
+ 4.85 × 10
+−12 m 
+P40.28 
+(a and b) See P40.28 for full answer; (c) 180°. We could answer like this: 
+The photon imparts the greatest momentum to the originally 
+stationary electron in a head-on collision. Here the photon recoils 
+straight back, and the electron has maximum kinetic energy. 
+P40.30 
+(a) 2.89 pm; (b) θ = 101° 
+P40.32 
+(a) θ = cos−1
+mec2 + E0
+2mec2 + E0
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) ′
+E =
+E0 2mec2 + E0
+(
+)
+2 mec2 + E0
+(
+)
+, ′p =
+E0 2mec2 + E0
+(
+)
+2c mec2 + E0
+(
+)
+; 
+ 
+(c) Ke =
+E0
+2
+2 mec2 + E0
+(
+)
+, pe =
+E0 2mec2 + E0
+(
+)
+2c mec2 + E0
+(
+)
+
+--- PAGE 53 ---
+Chapter 40     947 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P40.34 
+(a) It is because Compton’s equation and the conservation of vector 
+momentum give three independent equations in the unknowns ′
+λ , λ0 , 
+and u; (b) 3.82 pm 
+P40.36 
+(a) 0.667; (b) 0.001 09 
+P40.38 
+(a) 14.0 kV/m; (b) 46.8 µT; (c) 4.19 nN; (d) 10.2 g 
+P40.40 
+(a) 0.709 nm; (b) 413 nm 
+P40.42 
+3.97 × 10
+−13 m 
+P40.44 
+(a) ~10
+8 eV; (b) ~ −10
+6 eV; (c) The electron could not be confined to the 
+nucleus. 
+P40.46 
+The speed with which the student passes through the door is an 
+extremely low velocity. It is impossible for the student to walk this 
+slowly. At this speed, if the thickness of the wall in which the door is 
+built is 15 cm, the time interval required for the student to pass 
+through the door is 1.4 × 10
+33 s, which is 10
+15 times the age of the 
+Universe. 
+P40.48 
+(a) See P40.48(a) for full explanation; (b) They will always have a 
+different frequency from photons of the same wavelength. 
+P40.50 
+See P40.50 for the full explanation. 
+P40.52 
+2.27 × 10
+−12 A 
+P40.54 
+(a) 0.250 m/s; (b) 2.25 m 
+P40.56 
+7.03 × 10
+−32 m/s 
+P40.58 
+For the rifles fired at targets at reasonable distances away, a spread of 
+1.00 cm due to the uncertainty principle would be impossible. 
+P40.60 
+(a) See graph in ANS. FIG. P40.60 (b) 6.4 × 10−34 J⋅s; (c) 1.4 eV 
+P40.62 
+hc
+λ −e2B2R2
+2me
+ 
+P40.64 
+See P40.64 for full explanation. 
+P40.66 
+See P40.66 for full explanation. 
+P40.68 
+See P40.68 for full explanation. 
+P40.70 
+2.81 × 10
+−8  
+P40.72 
+(a) See P40.72(a) for full explanation; (b) 5.19 × 10
+−16 m 
+P40.74 
+See P40.74 for full explanation. 
+P40.76 
+(a) See P40.76 for full explanation; (b) 2.897 755 × 10−3 m ⋅K

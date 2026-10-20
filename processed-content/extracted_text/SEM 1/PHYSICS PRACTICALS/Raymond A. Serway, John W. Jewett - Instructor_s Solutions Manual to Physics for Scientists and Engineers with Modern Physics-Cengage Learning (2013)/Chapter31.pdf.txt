@@ -1,0 +1,5439 @@
+
+--- PAGE 1 ---
+414 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+31 
+Faraday’s Law and Inductance 
+ 
+CHAPTER OUTLINE 
+ 
+31.1  
+Faraday’s Law of Induction 
+31.2  
+Motional emf 
+31.3  
+Lenz’s Law 
+31.4 
+Induced emf and Electric Fields 
+31.5  
+Generators and Motors 
+31.6 
+Eddy Currents 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ31.1 
+The ranking is E > A > B = D = 0 > C. The emf is given by the 
+negative of the time derivative of the magnetic flux. We pick out the 
+steepest downward slope at instant E as marking the moment of 
+largest emf. Next comes A. At B and at D the graph line is horizontal 
+so the emf is zero. At C the emf has its greatest negative value. 
+OQ31.2 
+(i) Answer (c). (ii) Answers (a) and (b). The magnetic flux is 
+ΦB = BAcosθ. Therefore the flux is a maximum when 
+
+B is 
+perpendicular to the loop of wire and zero when there is no 
+component of magnetic field perpendicular to the loop. The flux is 
+zero when the loop is turned so that the field lies in the plane of its 
+area. 
+OQ31.3 
+Answer (b). With the current in the long wire flowing in the direction 
+shown in Figure OQ31.3, the magnetic flux through the rectangular 
+loop is directed into the page. If this current is decreasing in time, the 
+change in the flux is directed opposite to the flux itself (or out of the 
+page). The induced current will then flow clockwise around the loop, 
+producing a flux directed into the page through the loop and
+
+--- PAGE 2 ---
+Chapter 31     415 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+opposing the change in flux due to the decreasing current in the long 
+wire.  
+OQ31.4 
+Answer (a). Treating the original flux as positive (i.e., choosing the 
+normal to have the same direction as the original field), the flux 
+changes from 
+ 
+ ΦBi = BiAcosθi = BiAcos0° = BiA   
+ 
+to   
+ΦBf = Bf Acosθ f = Bf Acos180° = −Bf A. 
+ 
+ 
+ε = −ΔΦB
+Δt = −
+−Bf A
+(
+)−BiA
+(
+)
+Δt
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+=
+2 Bf + Bi
+(
+)A
+Δt
+= 2
+0.060 T
+(
+)+ 0.040 T
+(
+)
+0.50 s
+⎡
+⎣⎢
+⎤
+⎦⎥π 0.040 m
+(
+)
+2
+⎡⎣
+⎤⎦= 2.0 × 10−3 V
+= 2.0 mV
+ 
+OQ31.5 
+Answers (c) and (d). The magnetic flux through the coil is constant in 
+time, so the induced emf is zero, but positive test charges in the 
+leading and trailing sides of the square experience a 
+
+F = q v ×
+
+B
+(
+) 
+force that is in direction (velocity to the right) × (field 
+perpendicularly into the page away from you) = (force toward the 
+top of the square). The charges migrate upward to give positive 
+charge to the top of the square until there is a downward electric 
+field large enough to prevent more charge separation.  
+OQ31.6 
+Answers (b) and (d). By the magnetic force law 
+
+F = q v ×
+
+B
+(
+): the 
+positive charges in the moving bar will feel a magnetic force in 
+direction (velocity to the right) × (field perpendicularly out of the 
+page) = (force downward toward the bottom end of the bar). These 
+charges will move downward and therefore clockwise in the circuit. 
+The current induced in the bar experiences a force in the magnetic 
+field that tends to slow the bar: (current downward) × (field 
+perpendicularly out of the page) = (force to the left); therefore, an 
+external force is required to keep the bar moving at constant speed to 
+the right.  
+OQ31.7 
+Answer (a). As the bar magnet approaches the loop 
+from above, with its south end downward as shown 
+in the figure, the magnetic flux through the area 
+enclosed by the loop is directed upward and 
+increasing in magnitude. To oppose this increasing 
+upward flux, the induced current in the loop will 
+flow clockwise, as seen from above, producing a 
+flux directed downward through the area enclosed 
+ANS. FIG.  
+OQ31.7
+
+--- PAGE 3 ---
+416     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+by the loop. After the bar magnet has passed through the plane of the 
+loop, and is departing with its north end upward, a decreasing flux is 
+directed upward through the loop. To oppose this decreasing 
+upward flux, the induced current in the loop flows counterclockwise 
+as seen from above, producing flux directed upward through the 
+area enclosed by the loop. From this analysis, we see that (a) is the 
+only true statement among the listed choices. 
+OQ31.8 
+Answer (b). The maximum induced emf in a generator is 
+proportional to the rate of rotation. The rate of change of flux of the 
+external magnetic field through the turns of the coil is doubled, so 
+the maximum induced emf is doubled.  
+OQ31.9 
+(i) Answer (b). The battery makes counterclockwise current I1 in the 
+primary coil, so its magnetic field 
+
+B1 is to the right and increasing 
+just after the switch is closed. The secondary coil will oppose the 
+change with a leftward field 
+
+B2, which comes from an induced 
+clockwise current I2 that goes to the right in the resistor. The upper 
+pair of hands in ANS. FIG. OQ31.9 represent this effect. 
+ 
+ANS. FIG. OQ31.9 
+ 
+(ii) Answer (c). At steady state the primary magnetic field is 
+unchanging, so no emf is induced in the secondary. 
+ 
+(iii) Answer (a). The primary’s field is to the right and decreasing as 
+the switch is opened. The secondary coil opposes this decrease by 
+making its own field to the right, carrying counterclockwise current 
+to the left in the resistor. The lower pair of hands shown in ANS. FIG. 
+OQ31.9 represent this chain of events. 
+OQ31.10 
+Answers (a), (b), (c), and (d). With the magnetic field perpendicular 
+to the plane of the page in the figure, the flux through the closed loop 
+to the left of the bar is given by ΦB = BA, where B is the magnitude
+
+--- PAGE 4 ---
+Chapter 31     417 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+of the field and A is the area enclosed by the loop. Any action which 
+produces a change in this product, BA, will induce a current in the 
+loop and cause the bulb to light. Such actions include increasing or 
+decreasing the magnitude of the field B, and moving the bar to the 
+right or left and changing the enclosed area A. Thus, the bulb will 
+light during all of the actions in choices (a), (b), (c), and (d).  
+ 
+ANS. FIG. OQ31.10 
+OQ31.11 
+Answers (b) and (d). A current flowing 
+counterclockwise in the outer loop of the 
+figure produces a magnetic flux through the 
+inner loop that is directed out of the page. If 
+this current is increasing in time, the change 
+in the flux is in the same direction as the  
+flux itself (or out of the page). The induced  
+current in the inner loop will then flow  
+clockwise around the loop, producing a flux through the loop 
+directed into the page, opposing the change in flux due to the 
+increasing current in the outer loop. The flux through the inner loop 
+is given by ΦB = BA , where B is the magnitude of the field and A is 
+the area enclosed by the loop. The magnitude of the flux, and thus 
+the magnitude of the rate of change of the flux, depends on the size 
+of the area A.  
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ31.1 
+Recall that the net work done by a conservative force on an object is 
+path independent; thus, if an object moves so that it starts and ends at 
+the same place, the net conservative work done on it is zero. A positive 
+electric charge carried around a circular electric field line in the 
+direction of the field gains energy from the field every step of the way. 
+It can be a test charge imagined to exist in vacuum or it can be an actual 
+free charge participating in a current driven by an induced emf. By 
+doing net work on an object carried around a closed path to its starting 
+point, the magnetically-induced electric field exerts by definition a 
+nonconservative force. We can get a larger and larger voltage just by 
+looping a wire around into a coil with more and more turns.  
+ANS. FIG. 
+OQ31.11
+
+--- PAGE 5 ---
+418     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ31.2 
+The spacecraft is traveling through the magnetic field of the Earth. 
+The magnetic flux through the coil must be changing to produce an 
+emf, and thus a current. The orientation of the coil could be changing 
+relative to the external magnetic field, or the field is changing 
+through the coil because it is not uniform, or both.  
+CQ31.3 
+As water falls, it gains speed and kinetic energy. It then pushes 
+against turbine blades, transferring its energy to the rotor coils of a 
+large AC generator. The rotor of the generator turns within a strong 
+magnetic field. Because the rotor is spinning, the magnetic flux 
+through its coils changes in time as ΦB = BAcosω t. Generated in the 
+rotor is an induced emf of ε = −NdΦB
+dt
+. This induced emf is the 
+voltage driving the current in our electric power lines. 
+CQ31.4 
+Let us assume the north pole of the magnet faces the ring. As the bar 
+magnet falls toward the conducting ring, a magnetic field is induced 
+in the ring pointing upward. This upward directed field will oppose 
+the motion of the magnet, preventing it from moving as a freely-
+falling body. Try it for yourself to show that an upward force also 
+acts on the falling magnet if the south end faces the ring. 
+CQ31.5 
+To produce an emf, the magnetic flux through the loop must change. 
+The flux cannot change if the orientation of the loop remains fixed in 
+space because the magnetic field is uniform and constant. The flux 
+does change if the loop is rotated so that the angle between the 
+normal to the surface and the direction of the magnetic field changes.  
+CQ31.6 
+Yes. The induced eddy currents on the surface of the aluminum will 
+slow the descent of the aluminum. In a strong field the piece may fall 
+very slowly. 
+CQ31.7 
+Magnetic flux measures the “flow” of the magnetic field through a 
+given area of a loop—even though the field does not actually flow. 
+By changing the size of the loop, or the orientation of the loop and 
+the field, one can change the magnetic flux through the loop, but the 
+magnetic field will not change. 
+CQ31.8 
+The increasing counterclockwise current in the solenoid coil 
+produces an upward magnetic field that increases rapidly. The 
+increasing upward flux of this field through the ring induces an emf 
+to produce clockwise current in the ring. The magnetic field of the 
+solenoid has a radially outward component at each point on the ring. 
+This field component exerts upward force on the current in the ring 
+there. The whole ring feels a total upward force larger than its 
+weight.
+
+--- PAGE 6 ---
+Chapter 31     419 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ31.9 
+Oscillating current in the solenoid produces an always-changing 
+magnetic field. Vertical flux through the ring, alternately increasing 
+and decreasing, produces current in it with a direction that is 
+alternately clockwise and counterclockwise. The current through the 
+ring’s resistance converts electrically transmitted energy into internal 
+energy at the rate I
+2R. 
+CQ31.10 
+(a) 
+Counterclockwise. With the current in 
+the long wire flowing in the direction 
+shown in the figure, the magnetic flux 
+through the rectangular loop is directed 
+out of the page. As the loop moves away 
+from the wire, the magnetic field 
+through the loop becomes weaker, so  
+the magnetic flux through the  
+loop is decreasing in time, and the change in  
+the flux is directed opposite to the flux itself (or into the page). 
+The induced current will then flow counterclockwise around 
+the loop, producing a flux directed out of the page through the 
+loop and opposing the change in flux due to the decreasing flux 
+through the loop.  
+ 
+(b) Clockwise. In this case, as the loop moves toward from the wire, 
+the magnetic field through the loop becomes stronger, so the 
+magnetic flux through the loop is increasing in time, and the 
+change in the flux has the same direction as the flux itself (or out 
+of the page). The induced current will then flow clockwise 
+around the loop, producing a flux directed into the page 
+through the loop and opposing the change in flux due to the 
+increasing flux through the loop. 
+ 
+ 
+ 
+ 
+ANS. FIG. CQ31.10
+
+--- PAGE 7 ---
+420     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 31.1 
+Faraday’s Law of Induction 
+*P31.1 
+From Equation 31.1, the induced emf is given by 
+ 
+ 
+ 
+ε = ΔΦB
+Δt
+= Δ
+
+B⋅
+
+A
+(
+)
+Δt
+= 2.50 T −0.500 T
+(
+) 8.00 × 10−4 m2
+(
+)
+1.00 s
+1 N⋅s
+1 T⋅C⋅m
+(
+)
+1 V⋅C
+1 N⋅m
+(
+)
+= 1.60 mV
+ 
+ 
+We then find the current induced in the loop from 
+ 
+ 
+ 
+Iloop = ε
+R = 1.60 mV
+2.00 Ω = 0.800 mA
+ 
+*P31.2 
+(a) 
+Each coil has a pulse of voltage  
+tending to produce counterclockwise  
+current as the projectile approaches,  
+and then a pulse of clockwise voltage  
+as the projectile recedes. 
+ 
+(b) 
+v = d
+t =
+1.50 m
+2.40 × 10−3 s = 625 m s 
+P31.3 
+(a) 
+From Faraday’s law, 
+ 
+ 
+ 
+ε = −N ΔΦ
+Δt = −N ΔB
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟Acosθ
+ 
+ 
+ 
+ 
+ε = −1( ) Bf −Bi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+)cosθ
+=
+1.50 T −0
+0.120 s
+⎛
+⎝⎜
+⎞
+⎠⎟π 0.001 60 m
+(
+)
+2
+⎡⎣
+⎤⎦1( )
+= 12.5 T/s
+(
+) π 0.001 60 m
+(
+)
+2
+⎡⎣
+⎤⎦= 1.01× 10−4 T
+=
+101 µV tending to produce clockwise current 
+as seen from above
+ 
+ 
+(b) In case (a), the rate of change of the magnetic field was +12.5 T/s. 
+In this case, the rate of change of the magnetic field is  
+(–0.5 T – 1.5 T)/ 0.08 s = –25.0 T/s: it is twice as large in 
+magnitude and in the opposite sense from the rate of change in 
+case (a), so the emf is also 
+twice as large in magnitude and in the opposite sense . 
+V1
+V2
+t
+0
+∆V
+ANS. FIG. P31.2
+
+--- PAGE 8 ---
+Chapter 31     421 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.4 
+From Equation 31.2, 
+ 
+ 
+ 
+ε = −N Δ BAcosθ
+(
+)
+Δt
+= −NBπ r2 cosθ f −cosθi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −25.0 50.0 × 10−6 T
+(
+) π 0.500 m
+(
+)
+2
+⎡⎣
+⎤⎦
+cos180° −cos0°
+0.200 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+ε = +9.82 mV
+ 
+P31.5 
+With the field directed perpendicular to the plane of the coil, the flux 
+through the coil is ΦB = BAcos0° = BA . For a single loop,  
+ 
+ 
+ε = ΔΦB
+Δt = B ΔA
+(
+)
+Δt
+=
+0.150 T
+(
+) π 0.120 m
+(
+)
+2 −0
+⎡⎣
+⎤⎦
+0.200 s
+= 3.39 × 10−2 V = 33.9 mV
+ 
+P31.6 
+With the field directed perpendicular to the plane of the coil, the flux 
+through the coil is ΦB = BAcos0° = BA . As the magnitude of the field 
+increases, the magnitude of the induced emf in the coil is 
+ 
+ 
+ε = ΔΦB
+Δt
+=
+ΔB
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟A = 0.050 0 T s
+(
+) π 0.120 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 2.26 × 10−3 V = 2.26 mV
+ 
+P31.7 
+The angle between the normal to the coil and the magnetic field is  
+90.0° – 28.0° = 62.0°. For a loop of N turns,  
+ 
+ 
+ 
+ε = −N dΦB
+dt = −N d
+dt BAcosθ
+(
+)
+ε = −NBcosθ
+ΔA
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −200 50.0 × 10−6 T
+(
+) cos62.0°
+(
+) 39.0 × 10−4 m2
+1.80 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −10.2 µV
+ 
+P31.8 
+For a loop of N turns, the induced voltage is 
+ 
+ 
+ε = −N
+d
+
+B⋅
+
+A
+(
+)
+dt
+= −N 0 −BiAcosθ
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+= +200 1.60 T
+(
+) 0.200 m2
+(
+)cos0°
+20.0 × 10−3 s
+= 3 200 V
+
+--- PAGE 9 ---
+422     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The induced current is then 
+ 
+ 
+ 
+I = ε
+R = 3 200 V
+20.0 Ω = 160 A
+ 
+P31.9 
+Faradays law gives 
+ 
+ 
+ 
+ε = ΔΦB
+Δt
+= N dB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟A = N
+d
+dt 0.010 0t + 0.040 0t2
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥A 
+ 
+or 
+ 
+ε = N 0.010 0 + 0.080 0t
+(
+)A 
+ 
+where ε is in volts, A is in meters squared, and t is in seconds. At  
+t = 5.00 s, suppressing units, 
+ 
+ 
+ 
+ε = 30.0 0.010 0 + 0.080 0 5.00
+(
+)
+[
+] π 0.040 0
+(
+)
+2
+⎡⎣
+⎤⎦
+= 6.18 × 10−2 = 61.8 mV
+ 
+P31.10 
+We have a stationary loop in an oscillating magnetic field that varies 
+sinusoidally in time: B = Bmax sinωt, where Bmax = 1.00 × 10−8 T, 
+ω = 2π f , and f = 60.0 Hz. The loop consists of a single band (N = 1) 
+around the perimeter of a red blood cell with diameter  
+d = 8.00 × 10
+–6 m and area A = π d
+2/4. The induced emf is then 
+ 
+ 
+ε = −dΦB
+dt = −N dB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟A
+= −N d
+dt Bmax sinωt
+(
+)A = −ωNABmax cosωt
+ 
+ 
+Comparing this expression to ε = εmax cosωt, we see that 
+εmax = ωNABmax. Therefore,  
+ 
+ 
+εmax = ωNABmax
+= 2π 60.0 Hz
+(
+)
+[
+] 1( ) π 8.00 × 10−6 m
+(
+)
+2
+4
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1.00 × 10−3 T
+(
+)
+= 1.89 × 10−11 V
+ 
+P31.11 
+The symbol for the radius of the ring is r1, and we use R to represent its 
+resistance. The emf induced in the ring is  
+ 
+ 
+ 
+ε = – d
+dt (BAcosθ) = – d
+dt (0.500µ0nIA cos0°) = – 0.500µ0nA dI
+dt
+
+--- PAGE 10 ---
+Chapter 31     423 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Note that A must be interpreted as the area A = πr2
+2 of the solenoid, 
+where the field is strong:  
+ 
+ 
+ 
+ε = −0.500(4π × 10−7  T⋅m/A)(1 000 turns/m)
+                                              ×[π(0.030 0 m)2] 270 A/s
+(
+)
+ 
+ 
+ 
+ 
+ε = –4.80 × 10–4 T ⋅m2
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 N ⋅s
+C ⋅m ⋅T
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 V ⋅C
+N ⋅m
+⎛
+⎝⎜
+⎞
+⎠⎟= −4.80 × 10−4 V
+ 
+ 
+(a) 
+The negative sign means that the current in the ring is 
+counterclockwise, opposite to the current in the solenoid. Its 
+magnitude is 
+ 
+ 
+ 
+ 
+Iring = ε
+R = 0.000 480 V 
+0.000 300 Ω = 1.60 A
+ 
+ 
+(b) 
+Bring = µ0I
+2r1
+=
+4π × 10−7 T ⋅m A
+(
+) 1.60 A
+(
+)
+2 0.050 0 m
+(
+)
+= 2.01× 10−5 T = 20.1 µT
+ 
+ 
+(c) 
+The solenoid’s field points to the right through the ring, and is 
+increasing, so to oppose the increasing field, Bring points to the 
+left . 
+ 
+ANS. FIG. P31.11 
+P31.12 
+See ANS. FIG. P31.11. The emf induced in the ring is 
+ 
+ 
+ 
+ε = d BA
+(
+)
+dt
+= 1
+2
+d
+dt µ0nI
+(
+)A = 1
+2 µ0n dI
+dt π r2
+2 = 1
+2 µ0nπ r2
+2 ΔI
+Δt
+ 
+ 
+(a) 
+Iring = ε
+R =
+µ0nπ r2
+2
+2R
+ΔI
+Δt
+, counterclockwise as viewed from the left 
+end. 
+ 
+(b) 
+B = µ0I
+2r1
+=
+µ0
+2nπ r2
+2
+4r1R
+ΔI
+Δt
+
+--- PAGE 11 ---
+424     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The solenoid’s field points to the right through the ring, and is 
+increasing, so to oppose the increasing field, Bring points to the 
+left . 
+P31.13 
+(a) 
+At a distance x from the long, straight 
+wire, the magnetic field is B = µ0I
+2πx .  
+The flux through a small rectangular 
+element of length L and width dx 
+within the loop is  
+ 
+ 
+ 
+dΦB =
+
+B⋅d
+
+A = µ0I
+2π x Ldx:  
+ 
+ 
+ 
+ΦB =
+µ0IL
+2π
+dx
+x
+h
+h+w
+∫
+=
+µ0IL
+2π ln h + w
+h
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) ε = −dΦB
+dt = −d
+dt
+µ0IL
+2π ln h + w
+h
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= −µ0L
+2π ln h + w
+h
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+dI
+dt 
+ 
+ 
+where dI
+dt = d
+dt a + bt
+(
+) = b: 
+ 
+ 
+ 
+ε = −4π × 10−7 T⋅m A
+(
+) 1.00 m
+(
+)
+2π
+                       × ln 0.010 0 m + 0.100 m 
+0.010 0 m
+⎛
+⎝⎜
+⎞
+⎠⎟10.0 A/s
+(
+)
+= −4.80 × 10−6 V
+ 
+ 
+ 
+Therefore, the emf induced in the loop is 4.80 µV . 
+ 
+(c) 
+The long, straight wire produces magnetic flux into the page 
+through the rectangle, shown in ANS. FIG. P31.13. As the 
+magnetic flux increases, the rectangle produces its own magnetic 
+field out of the page to oppose the increase in flux. The induced 
+current creates this opposing field by traveling counterclockwise 
+around the loop. 
+P31.14 
+The magnetic field lines are confined to the interior of the solenoid, so 
+even though the coil has a larger area, the flux through the coil is the 
+same as the flux through the solenoid:  
+ 
+ 
+ 
+ΦB = µ0nI
+(
+)Asolenoid
+ 
+ANS. FIG. P31.13
+
+--- PAGE 12 ---
+Chapter 31     425 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ε = −N dΦB
+dt = −Nµ0n π rsolenoid
+2
+(
+) dI
+dt
+= −15
+(
+) 4π × 10−7 T⋅m/A
+(
+) 1.00 × 103 m−1
+(
+)
+                                ×π 0.020 0 m
+(
+)
+2 600
+(
+)cos 120t
+(
+)
+= −0.014 2cos 120t
+(
+)
+ 
+ 
+ 
+ 
+ε = −1.42 × 10−2
+(
+)cos 120t
+(
+), 
+where t is in seconds and ε is in V.
+ 
+P31.15 
+The initial magnetic field inside the solenoid is 
+ 
+ 
+ 
+B = µ0nI = 4π × 10−7 T⋅m A
+(
+)
+100
+0.200 m
+⎛
+⎝⎜
+⎞
+⎠⎟3.00 A
+(
+)
+= 1.88 × 10−3 T
+ 
+ 
+(a) 
+ΦB = BAcosθ = 1.88 × 10−3 T
+(
+) 1.00 × 10−2 m
+(
+)
+2 cos0°
+= 1.88 × 10−7 T ⋅m2
+ 
+ 
+(b) When the current is zero, the flux through the loop is ΦB = 0 and 
+the average induced emf has been 
+ 
+ 
+ 
+ε = ΔΦB
+Δt
+= 0 −1.88 × 10−7 T⋅m2
+3.00 s
+= 6.28 × 10−8 V
+ 
+P31.16 
+The solenoid creates a magnetic field  
+ 
+ 
+ 
+B = µ0nI = ( 4π × 10
+−7 N/A
+2)(400 turns/m)(30.0 A)(1 – e
+–1.60 t) 
+ 
+ 
+ 
+B = (1.51 × 10
+–2 N/m · A)(1 – e
+–1.60 t)  
+ 
+The magnetic flux through one turn of the flat coil is ΦB =
+BdA
+∫
+cosθ, 
+but since dA cosθ refers to the area perpendicular to the flux, and the 
+magnetic field is uniform over the area A of the flat coil, this integral 
+simplifies to 
+ 
+  
+ 
+ΦB = B dA = B πR
+2
+(
+)
+∫
+= 1.51× 10
+−2 N/m⋅A
+(
+) 1−e
+−1.60t
+(
+) π 0.060 0 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 1.71× 10
+−4 N/m⋅A
+(
+) 1−e
+−1.60t
+(
+)
+
+--- PAGE 13 ---
+426     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The emf generated in the N-turn coil is ε = −N dΦB/dt. Because t has 
+the standard unit of seconds, the factor 1.60 must have the unit s
+–1. 
+ 
+ 
+ 
+ε = –(250) 1.71× 10–4 N⋅m
+A
+⎛
+⎝⎜
+⎞
+⎠⎟
+d 1– e–1.60 t
+(
+)
+dt
+  
+=  – 0.042 6 N⋅m
+A
+⎛
+⎝⎜
+⎞
+⎠⎟(1.60 s–1)et−1.60
+ 
+ 
+ 
+ 
+ε = 68.2e−1.60t, where t is in seconds and ε is in mV.  
+ 
+ANS. FIG. P31.16 
+P31.17 
+Faraday’s law, ε = – N dΦB
+dt
+, becomes here   
+ 
+ 
+ 
+ε = – N d
+dt BAcosθ
+(
+) = – NAcosθ dB
+dt 
+ 
+The magnitude of the emf is 
+ 
+ 
+ 
+ 
+ε = NAcosθ
+ΔB
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The area is 
+ 
+ 
+ 
+A =  
+ε 
+N cosθ
+ΔB
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+A =  
+80.0 × 10–3 V
+50 cos30.0o
+(
+) 600 × 10–6 T – 200 × 10–6 T
+0.400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.85 m2
+ 
+ 
+Each side of the coil has length d =
+A , so the total length of the wire 
+is  
+ 
+ 
+ 
+L = N(4d) = 4N
+A = (4)(50) 1.85 m2 = 272 m
+
+--- PAGE 14 ---
+Chapter 31     427 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.18 
+(a) 
+Suppose, first, that the central wire is long and straight. The 
+enclosed current of unknown amplitude creates a circular 
+magnetic field around it, with the magnitude of the field given by 
+Ampère’s law. 
+ 
+ 
+ 
+ 
+
+B⋅ds
+∫
+= µ0I :  
+B = µ0Imax sinω t
+2π R
+ 
+ 
+ 
+at the location of the Rogowski coil, which we assume is centered 
+on the wire. This field passes perpendicularly through each turn 
+of the toroid, producing flux 
+ 
+ 
+ 
+ 
+
+B⋅
+
+A = µ0ImaxA
+2π R
+sinω t 
+ 
+ 
+The toroid has 2 π Rn turns. As the magnetic field varies, the emf 
+induced in it is 
+ 
+ 
+ 
+ 
+ε = −N d
+dt
+
+B⋅
+
+A = −2π Rn µ0ImaxA
+2π R
+d
+dt sinω t
+= −µ0ImaxnAω cosω t
+ 
+ 
+ 
+This is an alternating voltage with amplitude εmax = µ0nAω Imax. 
+Measuring the amplitude determines the size Imax of the central 
+current. Our assumptions that the central wire is long and 
+straight and passes perpendicularly through the center of the 
+Rogowski coil are all unnecessary. 
+ 
+(b) If the wire is not centered, the coil will respond to stronger 
+magnetic fields on one side, but to correspondingly weaker fields 
+on the opposite side. The emf induced in the coil is proportional 
+to the line integral of the magnetic field around the circular axis 
+of the toroid. Ampère’s law says that this line integral depends 
+only on the amount of current the coil encloses. It does not 
+depend on the shape or location of the current within the coil, or 
+on any currents outside the coil. 
+P31.17 
+In a toroid, all the flux is confined to the inside of the toroid. From 
+Equation 30.16, the field inside the toroid at a distance r from its center is  
+ 
+ 
+B = µ0NI
+2π r 
+ 
+The magnetic flux is then 
+ 
+ 
+ΦB =
+BdA
+∫
+= µ0NImax
+2π
+sinω t adr
+r
+∫
+= µ0NImax
+2π
+asinω tln b + R
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 15 ---
+428     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the induced emf is 
+ 
+ 
+ε = N′ dΦB
+dt = N′ µ0NImax
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟ω aln b + R
+R
+⎛
+⎝⎜
+⎞
+⎠⎟cosω t
+ 
+ 
+Substituting numerical values and suppressing units, 
+ 
+ 
+ε = 20 4π × 10−7
+(
+) 500
+(
+) 50.0
+(
+)
+2π
+              × 2π 60.0
+(
+)
+[
+] 0.020 0
+(
+)ln 0.030 0 + 0.040 0
+0.040 0
+⎛
+⎝⎜
+⎞
+⎠⎟cosω t
+ 
+ 
+ 
+ε = 0.422cosω t where ε is in volts and t is in seconds. 
+ 
+ANS. FIG. P31.19 
+P31.20 
+In Figure P31.20, the original magnetic field points into the page and is 
+increasing. The induced emf in the upper loop attempts to generate a 
+counterclockwise current in order to produce a magnetic field out of 
+the page that opposes the increasing external magnetic flux. The 
+induced emf in the lower loop also must attempt to generate a 
+counterclockwise current in order to produce a magnetic field out of 
+the page that opposes the increasing external magnetic flux. Because of 
+the crossing over between the two loops, the emf generated in the 
+loops will be in opposite directions. Therefore, the magnitude of the 
+net emf generated is  
+ 
+ 
+ 
+ε net = ε2 −ε1 = A2
+dB
+dt −A1
+dB
+dt = πr2
+2 − πr1
+2
+(
+) dB
+dt
+= π dB
+dt r2
+2 − r1
+2
+(
+)
+ 
+ 
+where the upper loop is loop 1 and the lower one is loop 2.
+
+--- PAGE 16 ---
+Chapter 31     429 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+The induced current will be the ratio of the net emf to the total 
+resistance of the loops:  
+ 
+ 
+ 
+I = ε net
+R  = 
+π dB
+dt r2
+2 − r1
+2
+(
+)
+R
+
+⎛
+⎝
+⎞
+⎠total
+ = 
+π dB
+dt r2
+2 − r1
+2
+(
+)
+R
+
+⎛
+⎝
+⎞
+⎠2πr2 + 2πr1
+(
+)
+= 
+dB
+dt r2
+2 − r1
+2
+(
+)
+2 R
+
+⎛
+⎝
+⎞
+⎠r2 + r1
+(
+)
+= 
+dB
+dt r2 − r1
+(
+) r2 + r1
+(
+)
+2 R
+
+⎛
+⎝
+⎞
+⎠r2 + r1
+(
+)
+ 
+= 
+dB
+dt r2 − r1
+(
+)
+2 R
+
+⎛
+⎝
+⎞
+⎠
+ 
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+I =  2.00 T/s
+(
+) 0.090 0 m − 0.050 0 m
+(
+)
+2 3.00 Ω/m
+(
+)
+ =  0.013 3 A
+ 
+ 
+(b) The emf in each loop is trying to push charge in opposite directions 
+through the wire, but the emf in the lower loop is larger because its 
+area is larger (changing flux is proportional to the area of the loop), 
+so the lower loop “wins”: the current is counterclockwise in the 
+lower loop and clockwise in the upper loop.  
+ 
+ 
+ 
+Section 31.2 
+Motional emf  
+Section 31.3 
+Lenz’s Law 
+*P31.21 
+The angular speed of the rotor blades is  
+ 
+ 
+ 
+ω = 2.00 rev s
+(
+) 2π rad rev
+(
+) = 4.00π rad s 
+ 
+Thus, the motional emf is then 
+ 
+ 
+ 
+ε = 1
+2 Bω2 = 1
+2 50.0 × 10−6 T
+(
+) 4.00π rad/s
+(
+) 3.00 m
+(
+)2
+= 2.83 mV
+ 
+P31.22 
+(a) 
+
+Bext = Bextˆi and Bext decreases; therefore, the induced field is 
+
+Binduced = Binducedˆi (to the right) and the current in the resistor is 
+directed from a to b, to the right .
+
+--- PAGE 17 ---
+430     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+
+Bext = Bext −ˆi
+( ) increases; therefore, the induced field 
+
+Binduced = 
+Binduced +ˆi
+( ) is to the right, and the current in the resistor is 
+directed from a to b, out of the page  in the textbook picture. 
+ 
+(c) 
+
+Bext = Bext −ˆk
+(
+) into the paper and Bext decreases; therefore, the 
+induced field is 
+
+Binduced = Binduced −ˆk
+(
+) into the paper, and the 
+current in the resistor is directed from a to b, to the right . 
+P31.23 
+The motional emf induced in a conductor is proportional to the 
+component of the magnetic field perpendicular to the conductor and to 
+its velocity. 
+ 
+ 
+ε = Bv = 35.0 × 10−6 T
+(
+) 15.0 m
+(
+) 25.0 m/s
+(
+)
+= 1.31× 10−2 V = 13.1 mV
+ 
+P31.24 
+(a) 
+The potential difference is equal to the motional emf and is given 
+by 
+ 
+ 
+ 
+ε = Bv = 1.20 × 10−6 T
+(
+) 14.0 m
+(
+) 70.0 m/s
+(
+)
+= 1.18 × 10−3 V = 11.8 mV
+ 
+ 
+(b) A free positive test charge in the wing feels a magnetic force in 
+direction v ×
+
+B = (north) × (down) = (west): it migrates west. The 
+wingtip on the pilot’s left is positive. 
+ 
+(c) 
+No change . A positive test charge in the wing feels a magnetic 
+force in direction v ×
+
+B = (east) × (down) = (north): it migrates 
+north. The left wingtip is north of the pilot.  
+ 
+(d) 
+No. If you try to connect the wings to a circuit containing the light
+bulb, you must run an extra insulated wire along the wing. In a
+uniform field the total emf generated in the one-turn coil is zero.
+ 
+P31.25 
+(a) 
+The motional emf induced in a conductor is proportional to the 
+component of the magnetic field perpendicular to the conductor 
+and to its velocity; in this case, the vertical component of the 
+Earth’s magnetic field is perpendicular to both. Thus, the 
+magnitude of the motional emf induced in the wire is 
+ 
+ 
+ 
+ε = B⊥v =
+50.0 × 10−6 T
+(
+)sin53.0°
+⎡⎣
+⎤⎦2.00 m
+(
+) 0.500 m/s
+(
+)
+= 3.99 × 10−5 V = 39.9 µV
+
+--- PAGE 18 ---
+Chapter 31     431 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Imagine holding your right hand horizontal with the fingers 
+pointing north (the direction of the wire’s velocity), such that 
+when you close your hand the fingers curl downward (in the 
+direction of B⊥). Your thumb will then be pointing westward. By 
+the right-hand rule, the magnetic force on charges in the wire 
+would tend to move positive charges westward. 
+The west end is positive. 
+*P31.26 
+See ANS. FIG. P31.26. The current is given by 
+ 
+ 
+ 
+I = ε
+R = Bv
+R
+ 
+ 
+Solving for the velocity gives 
+ 
+ 
+ 
+v = IR
+B= 0.500 A
+(
+) 6.00 Ω
+(
+)
+2.50 T
+(
+) 1.20 m
+(
+)
+= 1.00 m/s
+ 
+ 
+ANS. FIG. P31.26 
+P31.27 
+(a) 
+Refer to ANS. FIG. P31.26 above. At constant speed, the net force 
+on the moving bar equals zero, or 
+ 
+ 
+ 
+
+Fapp
+= I
+
+L ×
+
+B 
+ 
+ 
+where the current in the bar is I = ε/R and the motional emf is 
+ε = B v. Therefore, 
+ 
+ 
+ 
+ 
+FB = Bv
+R
+B
+(
+) = B22v
+R
+= 2.50 T
+(
+)
+2 1.20 m
+(
+)
+2 2.00 m/s
+(
+)
+6.00 Ω
+= 3.00 N
+ 
+ 
+ 
+The applied force is 3.00 N to the right . 
+ 
+(b) 
+P = I 2R = B22v2
+R
+= 6.00 W    or    P = Fv = 6.00 W
+
+--- PAGE 19 ---
+432     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P31.28 
+With v representing the initial speed of the bar, let u represent its 
+speed at any later time. The motional emf induced in the bar is 
+ε = Bu. The induced current is I = ε
+R = Bu
+R . The magnetic force on 
+the bar is backward F = −IB = −B22u
+R
+= mdu
+dt . 
+ 
+Method one: To find u as a function of time, we separate variables 
+thus: 
+ 
+ 
+ 
+−B22
+Rm dt = du
+u
+−B22
+Rm dt
+0
+t
+∫
+=
+du
+u
+v
+u
+∫
+ 
+ 
+ 
+ 
+−B22
+Rm t −0
+(
+) = lnu −ln v = ln u
+v
+e−B22t Rm = u
+v
+u = ve−B22t Rm = dx
+dt
+ 
+ 
+The distance traveled is given by 
+ 
+ 
+ 
+dx
+0
+xmax
+∫
+=
+ve−B22t Rm dt
+0
+∞
+∫
+= v −Rm
+B22
+(
+) e−B22t Rm −−B22dt
+Rm
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+∫
+xmax −0 = −Rmv
+B22 e−∞−e−0
+[
+] =
+Rmv
+B22
+ 
+ 
+Method two: Newton’s second law is  
+ 
+ 
+ 
+−B22u
+R
+= −B22
+R
+dx
+dt = m du
+dt
+mdu = −B22
+R dx
+ 
+ 
+Direct integration from the initial to the stopping point gives 
+ 
+ 
+ 
+mdu
+v
+0
+∫
+=
+−B22
+R dx
+0
+xmax
+∫
+m 0 −v
+(
+) = −B22
+R
+xmax −0
+(
+)
+xmax = mvR
+B22
+
+--- PAGE 20 ---
+Chapter 31     433 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P31.29 
+The magnetic force on the rod is given by 
+ 
+ 
+ 
+FB = IB 
+ 
+and the motional emf by 
+ 
+ 
+ 
+ε = Bv 
+ 
+The current is given by I = ε
+R = Bv
+R , so B = IR
+v . 
+ 
+(a) 
+FB = I 2R
+v and I =
+FBv
+R =
+1.00 N
+(
+) 2.00 m/s
+(
+)
+8.00 Ω
+= 0.500 A 
+ 
+(b) The rate at which energy is delivered to the resistor is the power 
+delivered, given by 
+ 
+ 
+ 
+P = I 2R = 0.500 A
+(
+)2 8.00 Ω
+(
+) = 2.00 W 
+ 
+(c) 
+For constant force, P =
+
+F ⋅v = 1.00 N
+(
+) 2.00 m s
+(
+) = 2.00 W . 
+P31.30 
+To maximize the motional emf, the automobile must be moving east or 
+west. Only the component of the magnetic field to the north generates 
+an emf in the moving antenna. Therefore, the maximum motional emf is 
+ 
+ 
+ 
+εmax = Bvcosθ 
+ 
+Let’s solve for the unknown speed of the car: 
+ 
+ 
+ 
+v =  εmax
+Bcosθ
+ 
+ 
+Substitute numerical values:  
+ 
+ 
+ 
+v = 
+4.50 × 10−3 V
+50.0 × 10−6 T
+(
+) 1.20 m
+(
+)cos65.0°
+ = 177 m/s 
+ 
+This is equivalent to about 640 km/h or 400 mi/h, much faster than the 
+car could drive on the curvy road and much faster than any standard 
+automobile could drive in general. 
+P31.31 
+The motional emf induced in a conductor is proportional to the 
+component of the magnetic field perpendicular to the conductor and to 
+its velocity. The total field is perpendicular to the conductor, but not to 
+its velocity. As shown in the left figure, the component of the field 
+perpendicular to the velocity is B⊥= Bcosθ . The motion of the bar 
+down the rails produces an induced emf ε = B⊥v = Bvcosθ that 
+pushes charge into the page. The induced emf produces a current 
+I = ε R = Bvcosθ R , where we assume that significant resistance is 
+present only in the resistor. Because current in the bar travels into the 
+page, and the field is downward, a magnetic force acts on the bar to 
+the left: its magnitude is F = IBsin90.0° = IB = B22vcosθ R.
+
+--- PAGE 21 ---
+434     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P31.31(a) 
+ANS. FIG. P31.31(b) 
+ 
+In the free-body diagram shown in ANS. FIG. P31.31(b), it is 
+convenient to use a coordinate system with axes vertical and 
+horizontal. The force relationships are 
+ 
+ 
+ 
+Fx
+∑
+= −F + nsinθ = 0  →  nsinθ = F = B22vcosθ R
+Fy
+∑
+= −mg + ncosθ = 0   →   ncosθ = mg
+ 
+ 
+Dividing the first by the second equation, we get  
+ 
+ 
+ 
+n sinθ
+n cosθ = B22vcosθ R
+mg
+     →     v = mgRsinθ
+B22 cos2θ
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+v =
+0.200 kg
+(
+) 9.80 m/s2
+(
+) 1.00 Ω
+(
+)sin25.0°
+0.500 T
+(
+)
+2 1.20 m
+(
+)
+2 cos2 25.0°
+= 2.80 m/s 
+P31.32  
+Refer to ANS. FIG. P31.31 above. The motional emf induced in a 
+conductor is proportional to the component of the magnetic field 
+perpendicular to the conductor and to its velocity. The total field is 
+perpendicular to the conductor, but not to its velocity. As shown in the 
+left figure, the component of the field perpendicular to the velocity is 
+B⊥= Bcosθ . The motion of the bar down the rails produces an induced 
+emf ε = B⊥v = Bvcosθ that pushes charge into the page. The induced 
+emf produces a current I = ε R = Bvcosθ R , where we assume that 
+significant resistance is present only in the resistor. Because current in 
+the bar travels into the page, and the field is downward, a magnetic 
+force acts on the bar to the left: its magnitude is F = IBsin90.0° = IB = 
+B22vcosθ R . In the free-body diagram shown in ANS. FIG. P31.31(b), 
+it is convenient to use a coordinate system with axes vertical and 
+horizontal. The force relationships are 
+ 
+ 
+ 
+Fx
+∑
+= −F + nsinθ = 0  →  nsinθ = F = B22vcosθ R
+Fy
+∑
+= −mg + ncosθ = 0   →   ncosθ = mg
+
+--- PAGE 22 ---
+Chapter 31     435 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Dividing the first by the second equation, we get  
+ 
+ 
+ 
+n sinθ
+n cosθ = B22vcosθ R
+mg
+   →    v =
+mgRsinθ
+B22 cos2θ
+ 
+P31.33  
+From Example 31.4, the magnitude of the emf is 
+ 
+ 
+ε = B 1
+2 r2ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.9 N⋅s C⋅m
+(
+) 1
+2 0.4 m
+(
+)
+2 3 200 rev min
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+2π rad rev
+60 s min
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+ε = 24.1 V 
+ 
+ 
+A free positive charge q, represented in our version of the diagram, 
+turning with the disk, feels a magnetic force qv ×
+
+B 
+ radially 
+inward. Thus the outer contact is negative . 
+ 
+ANS. FIG. P31.33 
+P31.34 
+(a) 
+The motional emf induced in the bar must be ε = IR, where I is 
+the current in this series circuit. Since ε = Bv, the speed of the 
+moving bar must be 
+ 
+ 
+ 
+v = ε
+B= IR
+B= 8.50 × 10−3 A
+(
+) 9.00 Ω
+(
+)
+0.300 T
+(
+) 0.350 m
+(
+)
+= 0.729 m/s
+ 
+ 
+(b) The flux through the closed loop formed by the rails, the bar, and 
+the resistor is directed into the page and is increasing in 
+magnitude. To oppose this change in flux, the current must flow 
+in a manner so as to produce flux out of the page through the area 
+enclosed by the loop. This means the current will flow 
+counterclockwise .
+
+--- PAGE 23 ---
+436     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The rate at which energy is delivered to the resistor is 
+ 
+ 
+ 
+P = I 2R = 8.50 × 10−3 A
+(
+)
+2 9.00 Ω
+(
+)
+= 6.50 × 10−4 W = 0.650 mW
+ 
+ 
+(d) 
+Work is being done by the external force, which is transformed
+into internal energy in the resistor.
+ 
+P31.35 
+The speed of waves on the wire is 
+ 
+ 
+ 
+v =
+T
+µ =
+mg
+µ =
+267 N
+3.00 × 10−3 kg/m = 298 m/s 
+ 
+In the simplest standing-wave vibration state, 
+ 
+ 
+ 
+dNN = 0.64 m = λ
+2 →λ = 1.28 m 
+ 
+and  
+f = v
+λ = 298 m/s
+1.28 m = 233 Hz 
+ 
+(a) 
+The changing flux of magnetic field through the circuit containing 
+the wire will drive current to the left in the wire as it moves up 
+and to the right as it moves down. The emf will have this same 
+frequency of 233 Hz . 
+ 
+(b) The vertical coordinate of the center of the wire is described by 
+ 
+ 
+ 
+x = Acosω t = Acos2π ft 
+ 
+ 
+Its velocity is v = dx
+dt = −2π fAsin2π ft. 
+ 
+ 
+Its maximum speed is vmax = 2π fA . 
+ 
+ 
+The induced emf is ε = −Bv, with amplitude 
+ 
+ 
+ 
+εmax = Bvmax = B2π fA
+= 4.50 × 10−3 T
+(
+) 0.0200 m
+(
+)2π 233 Hz
+(
+) 0.015 0 m
+(
+)
+= 1.98 × 10−3 V = 1.98 mV
+
+--- PAGE 24 ---
+Chapter 31     437 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.36 
+(a) 
+The force on the side of the coil entering 
+the field (consisting of N wires) is 
+ 
+ 
+ 
+F = N ILB
+(
+) = N IwB
+(
+) 
+ 
+ 
+The induced emf in the coil is 
+ 
+ 
+ 
+ε = N dΦB
+dt = N d Bwx
+(
+)
+dt
+= NBwv
+ 
+ 
+ 
+so the current is I = ε
+R = NBwv
+R
+ 
+counterclockwise. 
+ 
+ 
+The force on the leading side of the coil 
+is then: 
+ 
+ 
+ 
+F = N NBwv
+R
+⎛
+⎝⎜
+⎞
+⎠⎟wB
+=
+N 2B2w2v
+R
+ to the left
+ 
+ 
+(b) Once the coil is entirely inside the field,  
+ 
+ 
+ 
+ΦB = NBA = constant 
+ 
+ 
+so 
+ε = 0, I = 0,   and   F = 0 . 
+ 
+(c) 
+As the coil starts to leave the field, the flux decreases at the rate 
+Bwv, so the magnitude of the current is the same as in part (a), but 
+now the current is clockwise. Thus, the force exerted on the 
+trailing side of the coil is: 
+ 
+ 
+ 
+F =
+N 2B2w2v
+R
+ to the left again 
+P31.37 
+The emfs induced in the rods are proportional to the lengths of the 
+sections of the rods between the rails. The emfs are ε1 = Bv1 with 
+positive end downward, and ε2 = Bv2 with positive end upward, 
+where  = d = 10.0 cm is the distance between the rails.  
+ 
+We apply Kirchhoff’s laws. We assume current I1 travels downward in 
+the left rod, current I2 travels upward in the right rod, and current I3 
+travels upward in the resisitor R3.  
+ 
+For the left loop, 
++Bv1 −I1R1 −I3R3 = 0 
+[1] 
+ 
+For the right loop, 
++Bv2 −I2R2 + I3R3 = 0 
+[2] 
+ 
+At the top junction,  I1 = I2 + I3 
+[3] 
+ANS. FIG. P31.36
+
+--- PAGE 25 ---
+438     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting [3] into [1] gives 
+ 
+ 
+ Bv1 −I1R1 −I3R3 = 0 
+ 
+ 
+Bv1 −I2 + I3
+(
+)R1 −I3R3 = 0         
+ 
+ 
+ 
+I2R1 + I3 R1 + R3
+(
+) = Bv1  
+[4] 
+ 
+Now using [2] and [4] to solve for I2,  
+ 
+ 
+I2 = Bv2 + I3R3
+R2
+= Bv1 −I3 R1 + R3
+(
+)
+R1
+ 
+ 
+then equating gives 
+ 
+ 
+Bv2 + I3R3
+(
+)R1 = Bv1 −I3 R1 + R3
+(
+)
+⎡⎣
+⎤⎦R2
+I3 R3R1 + R1 + R3
+(
+)R2
+⎡⎣
+⎤⎦= Bv1R2 −Bv2R1
+ 
+ 
+Solving for I3 gives 
+ 
+ 
+I3 = B
+v1R2 −v2R1
+(
+)
+R1R2 + R1R3 + R2R3
+ 
+ 
+Substituting numerical values, and noting that  
+ 
+ 
+R1R2 + R1R3 + R2R3 = 10.0 Ω
+(
+) 15.0 Ω
+(
+)
+     + 10.0 Ω
+(
+) 5.00 Ω
+(
+)+ 15.0 Ω
+(
+) 5.00 Ω
+(
+)
+= 275 Ω2
+ 
+ 
+we obtain 
+ 
+ 
+I3 = 0.010 0 T
+(
+) 0.100 m
+(
+)
+                ×
+4.00 m/s
+(
+) 15.0 Ω
+(
+)−2.00 m/s
+(
+) 10.0 Ω
+(
+)
+[
+]
+275 Ω2
+    = 1.45 × 10−4 A
+ 
+ 
+Therefore, I3 = 145 µA upward in the picture , as was originally 
+chosen. 
+P31.38 
+(a) 
+The induced emf is ε = Bv, where B is the magnitude of the 
+component of the magnetic field perpendicular to the tether, 
+which, in this case, is the vertical component of the Earth’s 
+magnetic field at this location:  
+ 
+ 
+ 
+Bvertical = B⊥= ε
+v =
+1.17 V
+25.0 m
+(
+) 7.80 × 103 m/s
+(
+)
+= 6.00 × 10−6 T = 6.00 µT
+
+--- PAGE 26 ---
+Chapter 31     439 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Yes. The magnitude and direction of the Earth’s field varies
+from one location to the other, so the induced voltage in the
+wire changes. Furthermore, the voltage will change if the tether
+cord or its velocity changes their orientations relative to the
+Earth’s field.
+ 
+ 
+(c) 
+Either the long dimension of the tether or the velocity vector
+could be parallel to the magnetic field at some instant.
+ 
+ 
+ 
+ 
+Section 31.4 
+Induced emf and Electric Fields 
+P31.39 
+Point P1 lies outside the region of the uniform magnetic field. The rate 
+of change of the field, in teslas per second, is  
+ 
+ 
+ 
+dB
+dt = d
+dt 2.00t3 −4.00t2 + 0.800
+(
+) = 6.00t2 −8.00t 
+ 
+where t is in seconds. At t = 2.00 s, we see that the field is increasing:  
+ 
+ 
+ 
+dB
+dt = 6.00 2.00
+(
+)
+2 −8.00 2.00
+(
+) = 8.00 T/s 
+ 
+ANS. FIG. P31.39 
+ 
+The magnetic flux is increasing into the page; therefore, by the right-
+hand rule (see figure), the induced electric field lines are counter-
+clockwise. [Also, if a conductor of radius r1 were placed concentric 
+with the field region, by Lenz’s law, the induced current would be 
+counterclockwise. Therefore, the direction of the induced electric field 
+lines are counterclockwise.] The electric field at point P1 is tangent to 
+the electric field line passing through it. 
+ 
+(a) 
+The magnitude of the electric field is (refer to Section 31.4 and 
+Equation 31.8)  
+ 
+ 
+ 
+E = r
+2
+dB
+dt = r
+2 6.00t2 −8.00t
+(
+)
+= 0.050 0
+2
+6.00 2.00
+(
+)
+2 −8.00 2.00
+(
+)
+⎡⎣
+⎤⎦= 0.200 N/C
+
+--- PAGE 27 ---
+440     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The magnitude of the force on the electron is  
+ 
+ 
+ 
+F = qE = eE = 1.60 × 10−19 C
+(
+) 0.200 N/C
+(
+) = 3.20 × 10−20 N 
+ 
+(b) Because the electron holds a negative charge, the direction of the 
+force is opposite to the field direction. The force is tangent to the 
+electric field line passing through at point P1 and clockwise. 
+ 
+(c) 
+The force is zero when the rate of change of the magnetic field is 
+zero:  
+ 
+ 
+ 
+dB
+dt = 6.00t2 −8.00t = 0 →t = 0 or t = 8.00
+6.00 = 1.33 s 
+P31.40 
+Point P2 lies inside the region of the uniform magnetic field. The rate of 
+change of the field, in teslas per second, is  
+ 
+ 
+ 
+dB
+dt = d
+dt 0.030 0t2 + 1.40
+(
+) = 0.060 0t
+ 
+ 
+where t is in seconds. At t = 3.00 s, we see that the field is increasing:  
+ 
+ 
+ 
+dB
+dt = 0.060 0 3.00
+(
+) = 0.180 T/s
+ 
+ 
+ANS. FIG. P31.40 
+ 
+The magnetic flux is increasing into the page; therefore, by the right-
+hand rule (see figure), the induced electric field lines are 
+counterclockwise. The electric field at point P2 is tangent to the electric 
+field line passing through it.  
+ 
+(a) 
+The situation is similar to that of Example 31.7.  
+ 
+ 
+ 
+
+E ⋅d
+
+
+∫
+= −dΦB
+dt
+E2πr = −dΦB
+dt = −
+d BπR2
+(
+)
+dt
+= −πR2 dB
+dt
+E = −R2
+2r 0.060 0t
+(
+)
+
+--- PAGE 28 ---
+Chapter 31     441 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For r = r2 = 0.020 0 m,  
+ 
+ 
+ 
+E = R2
+2r 0.060 0t
+(
+)
+= 0.025 0 m
+(
+)
+2
+2 0.020 0 m
+(
+)
+0.060 0 3.00
+(
+)
+[
+] = 2.81× 10−3 N/C
+ 
+ 
+(b) The field is tangent to the electric field line passing through at 
+point P2 and counterclockwise.  
+P31.41 
+A problem similar to this is discussed in Example 31.7.  
+ 
+(a) 
+
+E ⋅d
+
+
+∫
+= dΦB
+dt
+    where    ΦB = BA = µ0nI πr2
+(
+) 
+ 
+ 
+ 
+2π rE = µ0n πr2
+(
+) dI
+dt
+2π rE = µ0n πr2
+(
+) d
+dt 5.00sin100πt
+(
+)
+= µ0n πr2
+(
+) 5.00
+(
+) 100π
+(
+)cos100πt
+ 
+ 
+ 
+Solving for the electric field gives 
+ 
+ 
+ 
+E = µ0n πr2
+(
+) 5.00
+(
+) 100π
+(
+) cos100πt
+(
+)
+2π r
+= 250µ0nπrcos100πt
+ 
+ 
+ 
+Substituting numerical values and suppressing units, 
+ 
+ 
+ 
+E = 250 4π × 10−7
+(
+) 1.00 × 103
+(
+)π 0.0100
+(
+)cos100πt
+= 9.87 × 10−3
+(
+)cos100πt
+ 
+ 
+ 
+ 
+E = 9.87cos100πt where E is in 
+millivolts/meter and t is in seconds.
+ 
+ 
+(b) If a viewer looks at the solenoid along its axis, and if the current is 
+increasing in the counterclockwise direction, the magnetic flux is 
+increasing toward the viewer; the electric field always opposes 
+increasing magnetic flux; therefore, by the right-hand rule, the 
+electric field lines are clockwise .
+
+--- PAGE 29 ---
+442     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 31.5 
+Generators and Motors 
+P31.42 
+ (a) Use Equation 31.11, where B is the horizontal component of the 
+magnetic field because the coil rotates about a vertical axis:  
+ 
+ 
+ 
+εmax = NBhorizontalAω
+= 100 2.00 × 10−5 T
+(
+) 0.200 m
+(
+)
+2
+                       ×
+1500 rev
+min
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1.26 × 10−2 V = 12.6 mV
+ 
+ 
+(b) Maximum emf occurs when the magnetic flux through the coil is 
+changing the fastest. This occurs at the moment when the flux is 
+zero, which is when the plane of the coil is parallel to the 
+magnetic field.  
+P31.43 
+The emf induced in a rotating coil is directly proportional to the 
+angular speed of the coil. Thus,  
+ 
+ 
+ 
+ε2
+ε1
+= ω 2
+ω1
+     
+ 
+or      
+ε2 = ω 2
+ω1
+⎛
+⎝⎜
+⎞
+⎠⎟ε1 =
+500 rev/min
+900 rev/min
+⎛
+⎝⎜
+⎞
+⎠⎟24.0 V
+(
+) = 13.3 V 
+P31.44 
+The induced emf is proportional to the number of turns and the 
+angular speed.  
+ 
+(a) 
+Doubling the number of turns has this effect: 
+ 
+ 
+amplitude doubles and period is unchanged 
+ 
+ANS FIG. P31.44 
+ 
+(b) Doubling the angular velocity has this effect: 
+ 
+ 
+doubles the amplitude and cuts the period in half 
+ 
+(c) 
+Doubling the angular velocity while reducing the number of 
+turns to one half the original value has this effect: 
+ 
+ 
+amplitude unchanged and period is cut in half
+
+--- PAGE 30 ---
+Chapter 31     443 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.45 
+For the alternator,  
+ 
+ 
+ 
+ω = 3 000 rev/min
+(
+) 2π rad
+1 rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 314 rad/s  
+ 
+so  
+ 
+ 
+ 
+ε = −N dΦB
+dt = −250 d
+dt
+2.50 × 10−4
+(
+)cos 314t
+(
+)
+⎡⎣
+⎤⎦
+= +250 2.50 × 10−4
+(
+) 314
+(
+)sin 314t
+(
+)
+ 
+ 
+(a) ε = 19.6sin 314t
+(
+) where ε is in volts and t is in seconds.  
+ 
+(b) 
+εmax = 19.6 V 
+P31.46 
+Think of the semicircular conductor as enclosing half a coil of area 
+A = 1
+2 πR2. There is no emf induced in the conductor until the magnetic 
+flux through the area of the coil begins to change. The conductor is in 
+the field region for only half a turn, so the flux changes over half a 
+period 1
+2 T = 1
+2
+2π
+ω
+⎛
+⎝⎜
+⎞
+⎠⎟= π
+ω . If we consider t = 0 to correspond to the time 
+when the conductor is in the position shown in Figure P31.46 of the 
+textbook, then there is no change in flux for a quarter of a turn, from t = 
+0 to t = π 2ω , then the flux has a periodic behavior 
+ΦB = ABcosωt = 1
+2 πR2Bcosωt for a half a turn, from t = π 2ω to 
+t = 3π 2ω , then there is no change in flux for the final quarter of a turn, 
+from t = 3π 2ω to t = 2π ω , at the end of which the coil has returned to 
+its starting position. While in the field region, the induced emf is  
+ 
+ 
+ 
+ε = −dΦB
+dt = −1
+2 πR2B d
+dt cosωt = 1
+2 πR2ωBsinωt = εmax sinωt
+ 
+ 
+(a) 
+The maximum emf is  
+ 
+ 
+ 
+εmax = 1
+2ωπR2B
+= 1
+2
+120 rev
+min
+⎛
+⎝⎜
+⎞
+⎠⎟
+2π rad
+rev
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥π 0.250 m
+(
+)
+2 1.30 T
+(
+)
+= 1.60 V
+ 
+ 
+(b) During the time period that the coil travels in the field region, the 
+emf varies as εmax sinωt for half a period, from +εmax, at 
+t = π 2ω , to −εmax, at t = 3π 2ω ; therefore, the average emf is 
+zero .
+
+--- PAGE 31 ---
+444     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The flux could also be written as ΦB = 1
+2 πR2Bcosωt so that it is a 
+maximum at t = 0, but, in this case, the time period over which 
+the flux changes would be from t = 0 to t = 2π ω , and the 
+amplitude of the emf and its average would be the same as in the 
+previous case; therefore, no change in either answer . 
+ 
+(d) The graph is  
+ 
+ANS. FIG. P31.46(d) 
+ 
+(e) 
+If the time axis is chose so that the maximum emf occurs at the 
+same time as it does in the figure of part (d) the graph is 
+ 
+ANS. FIG. P31.46(e) 
+P31.47 
+The magnetic field of the solenoid is given by 
+ 
+ 
+ 
+B = µ0nI = 4π × 10−7 T⋅m/A
+(
+) 200 m−1
+(
+) 15.0 A
+(
+)
+= 3.77 × 10−3 T
+ 
+ 
+For the small coil, ΦB = N
+
+B⋅
+
+A = NBAcosω t = NB π r2
+(
+)cosω t. 
+ 
+Thus, 
+ε = −dΦB
+dt = NBπ r2ω sinω t 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+ε = 30.0
+(
+) 3.77 × 10−3 T
+(
+)π 0.080 0 m
+(
+)
+2 4.00π s−1
+(
+)sin 4.00π t
+(
+)
+=
+28.6 mV
+(
+)sin 4.00π t
+(
+)
+
+--- PAGE 32 ---
+Chapter 31     445 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.48 
+To analyze the actual circuit, we model it as the lower circuit diagram 
+in ANS. FIG. P31.48. 
+ 
+(a) 
+Kirchhoff’s loop rule gives  
+ 
+ 
+ 
++ 120 V −0.850 A
+(
+) 11.8 Ω
+(
+)−ε back = 0    
+→    ε back = 110 V
+ 
+ 
+ANS. FIG. P31.48 
+ 
+(b) The resistor is the device changing electrical work input into 
+internal energy: 
+ 
+ 
+ 
+P = I 2R = 0.850 A
+(
+)
+2 11.8 Ω
+(
+) = 8.53 W 
+ 
+(c) 
+With no motion, the motor does not function as a generator, and 
+ε back = 0 . Then 
+ 
+ 
+ 
+120 V −Ic 11.8 Ω
+(
+) = 0 →Ic = 10.2 A
+Pc = Ic
+2R = 10.2 A
+(
+)
+2 11.8 Ω
+(
+) = 1.22 kW
+ 
+P31.49 
+(a) 
+The flux through the loop is 
+ 
+ 
+ 
+ΦB = BAcosθ = BAcosω t
+= 0.800 T
+(
+) 0.010 0 m2
+(
+)cos2π 60.0
+(
+)t
+=
+8.00 mT⋅m2
+(
+)cos 377t
+(
+)
+ 
+ 
+(b) ε = −dΦB
+dt =
+3.02 V
+(
+)sin 377t
+(
+) 
+ 
+(c) 
+I = ε
+R =
+3.02 A
+(
+)sin 377t
+(
+) 
+ 
+(d) 
+P = I 2R =
+9.10 W
+(
+)sin2 377t
+(
+) 
+ 
+(e) 
+P = Fv = τω so τ = P
+ω =
+24.1 mN ⋅m
+(
+)sin2 377t
+(
+)
+
+--- PAGE 33 ---
+446     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 31.6 
+Eddy Currents  
+P31.50 
+The current in the magnet creates an 
+ upward magnetic field, so 
+the N and S poles on the solenoid core are shown correctly. On the rail 
+in front of the brake, the upward flux of 
+
+B increases as the coil 
+approaches, so a current is induced here to create a downward 
+magnetic field. This is 
+ clockwise current, so the S pole on the 
+rail is shown correctly. On the rail behind the brake, the upward 
+magnetic flux is decreasing. The induced current in the rail will 
+produce upward magnetic field by being 
+ counterclockwise as the 
+picture correctly shows. 
+ 
+ 
+ 
+Additional Problems 
+*P31.51 
+(a) 
+From Faraday’s law of induction, 
+ 
+ 
+ 
+ε = dΦB
+dt = d
+dt BAcosθ
+(
+) = d
+dt BA
+(
+) = A dB
+dt
+= π(0.060 0 m)
+2 1.00 × 10
+4 T/s
+(
+)
+= 113 V
+ 
+ 
+(b) From Section 31.4, the electric field induced along the 
+circumference of the circular area is given by 
+ 
+ 
+ 
+E = ε
+2πr =
+113 V
+2π(0.060 0 m) = 300 V/m 
+*P31.52 
+Suppose we wrap twenty turns of wire into a flat compact circular coil 
+of diameter 3 cm. Suppose we use a bar magnet to produce field 
+10−3 T through the coil in one direction along its axis. Suppose we then 
+flip the magnet to reverse the flux in 10
+–1 s. The average induced emf is 
+then 
+ 
+ 
+ 
+ε = −N ΔΦB
+Δt = −N Δ BAcosθ
+[
+]
+Δt
+= −NB π r2
+(
+) cos180° −cos0°
+Δt
+(
+)
+ε = −20
+(
+) 10−3 T
+(
+)π 0.015 0 m
+(
+)
+2
+−2
+10−1 s
+(
+) ~ 10−4 V
+
+--- PAGE 34 ---
+Chapter 31     447 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P31.53 
+The magnitude of the average emf is given by 
+ 
+ 
+ε = N ΔΦB
+Δt
+= NBA Δcosθ
+(
+)
+Δt
+= 200 1.1 T
+(
+) 100 × 10−4 m2
+(
+) cos180° −cos0°
+0.10 s
+= 44 V
+ 
+ 
+The average current induced in the coil is therefore 
+ 
+ 
+I = ε
+R = 44 V
+5.0 Ω = 8.8 A
+ 
+P31.54 
+(a) 
+If the magnetic field were increasing, the flux would be increasing 
+out of the page, so the induced current would tend to oppose the 
+increase by generating a field into the page. The direction of such 
+a current would be clockwise. This is the case here, so the field is 
+increasing . 
+ 
+(b) The normal to the enclosed area can be taken to be parallel to the 
+magnetic field, so the flux through the loop is  
+ 
+ 
+ 
+ΦB = BAcos0.00° = BA 
+ 
+ 
+The rate of change of the flux is  
+ 
+ 
+ 
+dΦB
+dt = d
+dt BAcos0.00°
+(
+) = A dB
+dt
+ 
+ 
+ 
+and the induced emf is  
+ 
+ 
+ 
+ε = −dΦB
+dt
+     →     IR = A dB
+dt = πr2 dB
+dt
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+dB
+dt = IR
+πr2 = 2.50 × 10−3 A
+(
+) 0.500 Ω
+(
+)
+π 0.080 0 m
+(
+)
+2
+= 0.062 2 T/s
+= 62.2 mT/s
+ 
+P31.55 
+The emf through the hoop is given by 
+ 
+  
+ 
+ε = −dΦB
+dt = −A dB
+dt = −0.160 d
+dt 0.350e−t 200
+(
+)
+= 1.60
+(
+) 0.350
+(
+)
+200
+e−t 200
+ 
+ 
+where ε is in volts and t in seconds. For t = 4.00 s,  
+ 
+ 
+ 
+ε = 0.160 m2
+(
+) 0.350 T
+(
+)
+2.00 s
+e−4.00 2.00 = 3.79 mV
+
+--- PAGE 35 ---
+448     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.56 
+The emf through the hoop is given by  
+ 
+ 
+ 
+ε = −dΦB
+dt = −A dB
+dt = −A d
+dt Bmaxe−t τ
+(
+) =
+ABmax
+τ
+e−t τ
+ 
+P31.57 
+ε = −N Δ
+Δt BAcosθ
+(
+) = −N π r2
+(
+)cos0° ΔB
+Δt
+= −1 0.005 00 m2
+(
+) 1( ) 1.50 T −5.00 T
+20.0 × 10−3 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.875 V
+  
+ 
+(a) 
+I = ε
+R = 0.875 V
+0.020 0 Ω = 43.8 A 
+ 
+(b) 
+P = εI = 0.875 V
+(
+) 43.8 A
+(
+) = 38.3 W 
+P31.58 
+(a) 
+Motional emf produces a current I = ε
+R = Bv
+R . 
+ 
+(b) 
+Particle in equilibrium 
+ 
+(c) 
+The circuit encloses increasing flux of magnetic field into the 
+page, so it tries to make its own field out of the page, by carrying 
+counterclockwise current. The current flows upward in the bar, so 
+the magnetic field produces a backward magnetic force FB = IB 
+(to the left) on the bar. This force increases until the bar has 
+reached a speed when the backward force balances the applied 
+force F: 
+ 
+ 
+ 
+F = FB = IB = ε
+R B = Bv
+(
+)
+R
+B = B22
+R v
+v = FR
+B22 =
+0.600 N
+(
+) 48.0 Ω
+(
+)
+0.400 T
+(
+)
+2 0.800 m
+(
+)
+2 = 281 m/s
+ 
+ 
+(d) 
+I = ε
+R = Bv
+R = B
+R
+FR
+B22 = F
+B=
+0.600 N
+0.400 T
+(
+) 0.800 m
+(
+) = 1.88 A 
+ 
+(e) 
+P = I 2R =
+F
+B
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R =
+0.600 N
+0.400 T
+(
+) 0.800 m
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+48.0 Ω
+(
+) = 169 W 
+ 
+(f) 
+P = Fv = F FR
+B22 = F2R
+B22 =
+0.600 N
+(
+)
+2 48.0 Ω
+(
+)
+0.400 T
+(
+)
+2 0.800 m
+(
+)
+2 = 169 W 
+ 
+(g) 
+Yes. 
+ 
+(h) 
+Increase because the speed is proportional to the resistance, as 
+shown in part (c).
+
+--- PAGE 36 ---
+Chapter 31     449 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(i) 
+Yes. 
+ 
+(j) 
+Larger because the speed is greater. 
+P31.59 
+ε = −N d
+dt BAcosθ
+(
+) = −N π r2
+(
+)cos0° dB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ε = −30.0
+(
+) π 2.70 × 10−3
+(
+)
+2
+⎡⎣
+⎤⎦1( )
+                           × d
+dt 50.0 × 10−3 + 3.20 × 10−3
+(
+)sin 1 046πt
+(
+)
+⎡⎣
+⎤⎦
+ε = −30.0
+(
+) π 2.70 × 10−3
+(
+)
+2
+⎡⎣
+⎤⎦
+3.20 × 10−3
+(
+) 1 046π
+(
+)cos 1 046πt
+(
+)
+⎡⎣
+⎤⎦
+= −7.22 × 10−3
+(
+)cos 1 046πt
+(
+)
+ 
+ 
+ε = −7.22cos 1 046πt
+(
+) where ε is in millivolts and t is in seconds. 
+P31.60 
+Model the loop as a particle under a net force. The two forces on the 
+loop are the gravitational force in the downward direction and the 
+magnetic force in the upward direction. The magnetic force arises from 
+the current generated in the loop due to the motion of its lower edge 
+through the magnetic field. As the loop falls, the motional emf 
+ε = Bwv induced in the bottom side of the loop produces a current  
+I = Bwv/R in the loop. From Newton’s second law, 
+ 
+ 
+Fy
+∑
+ = may  → FB − Fg  = May  → IwB − Mg = May
+     →   Bwv
+R
+⎛
+⎝⎜
+⎞
+⎠⎟wB − Mg = May → B2w2v
+MR  − g = ay
+ 
+ 
+The largest possible value of v, the terminal speed vT, will occur when 
+ay = 0. Set ay = 0 and solve for the terminal speed: 
+ 
+ 
+B2w2vT
+MR
+ − g = 0    →     vT  =  MgR
+B2w2 
+ 
+Substituting numerical values, 
+ 
+ 
+vT  = 
+0.100 kg
+(
+) 9.80 m/s2
+(
+) 1.00 Ω
+(
+)
+1.00 T
+(
+)
+2 0.500 m
+(
+)
+2
+ = 3.92 m/s 
+ 
+This is the highest speed the loop can have while the upper edge is 
+above the field, so it cannot possibly be moving at 4.00 m/s. 
+P31.61 
+For a counterclockwise trip around the left-hand loop, with B = At, 
+ 
+ 
+d
+dt At 2a2
+(
+)cos0°
+⎡⎣
+⎤⎦−I1 5R
+(
+) −IPQR = 0
+
+--- PAGE 37 ---
+450     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and for the right-hand loop, 
+ 
+ 
+d
+dt Ata2
+⎡⎣
+⎤⎦+ IPQR −I2 3R
+(
+) = 0 
+ 
+where  
+IPQ = I1 −I2 is the upward current in QP. 
+ 
+Thus, 
+2Aa2 −5R IPQ + I2
+(
+) −IPQR = 0 
+ 
+and 
+Aa2 + IPQR = I2 3R
+(
+) 
+ 
+ 
+2Aa2 −6RIPQ −5
+3 Aa2 + IPQR
+(
+) = 0 
+ 
+solving, 
+IPQ = Aa2
+23R
+ upward 
+ 
+ and since R = 0.100 Ω/m
+(
+) 0.650 m
+(
+) = 0.650 0 Ω,  
+ 
+ 
+IPQ =
+1.00 × 10−3 T s
+(
+) 0.650 m
+(
+)
+2
+23 0.065 0 Ω
+(
+)
+= 283 µA upward 
+ 
+ANS. FIG. P31.61 
+P31.62 
+(a) 
+I = dq
+dt = ε
+R where ε = −N dΦB
+dt   so   dq
+∫
+= N
+R
+dΦB
+Φ1
+Φ2
+∫
+ 
+ 
+ 
+and the charge passing any point in the circuit will be 
+Q = N
+R Φ2 −Φ1
+(
+). 
+ 
+(b) 
+Q = N
+R BAcos0 −BAcos π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= BAN
+R
+ 
+ 
+ 
+so 
+B = RQ
+NA =
+200 Ω
+(
+) 5.00 × 10−4 C
+(
+)
+100
+(
+) 40.0 × 10−4 m2
+(
+)
+= 0.250 T 
+P31.63 
+The emf induced between the ends of the moving bar is 
+ 
+ 
+ε = Bv = 2.50 T
+(
+) 0.350 m
+(
+) 8.00 m s
+(
+) = 7.00 V
+
+--- PAGE 38 ---
+Chapter 31     451 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The left-hand loop contains decreasing flux away from you, so the 
+induced current in it will be 
+ clockwise, to produce its own field 
+directed away from you. Let I1 represent the current flowing upward 
+through the 2.00-Ω resistor. The right-hand loop will carry 
+counterclockwise current. Let I3 be the upward current in the 5.00-Ω 
+resistor. 
+ 
+(a) 
+Kirchhoff’s loop rule then gives:  
+ 
+ 
+ 
++7.00 V – I1 (2.00 Ω) = 0   
+or 
+I1 = 3.50 A 
+ 
+ 
+and +7.00 V – I3 (5.00 Ω) = 0    
+or 
+I3 = 1.40 A 
+ 
+(b) The total power converted in the resistors of the circuit is 
+ 
+ 
+ 
+P = εI1 +εI3 = ε I1 + I3
+(
+) = 7.00 V
+(
+) 3.50 A + 1.40 A
+(
+)
+= 34.3 W
+ 
+ 
+(c) 
+Method 1: The current in the sliding conductor is downward with 
+value I2 = 3.50 A + 1.40 A = 4.90 A. The magnetic field exerts a 
+force of Fm = IB = 4.90 A
+(
+) 0.350 m
+(
+) 2.50 T
+(
+) = 4.29 N directed 
+ toward the right on this conductor. An outside agent must 
+then exert a force of 4.29 N to the left to keep the bar moving. 
+ 
+ 
+Method 2: The agent moving the bar must supply the power 
+according to P =
+
+F⋅v = Fvcos0°. The force required is then: 
+ 
+ 
+ 
+F = P
+v = 34.3 W
+8.00 m s = 4.29 N 
+P31.64 
+The enclosed flux is ΦB = BA = Bπ r2.  The particle moves according to 
+ 
+ 
+ 
+
+F
+∑
+= ma:     qvBsin90° = mv2
+r
+   →   r = mv
+qB
+ 
+ 
+Thus, 
+ΦB = Bπ m2v2
+q2B2
+. 
+ 
+(a) 
+v =
+ΦBq2B
+π m2
+=
+15 × 10−6 T ⋅m2
+(
+) 30 × 10−9 C
+(
+)
+2 0.6 T
+(
+)
+π 2 × 10−16 kg
+(
+)
+2
+= 2.54 × 105 m s
+
+--- PAGE 39 ---
+452     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Energy for the particle-electric field system is conserved in the 
+firing process: 
+ 
+ 
+ 
+Ui = Kf :    qΔV = 1
+2 mv2 
+ 
+ 
+From which we obtain 
+ 
+ 
+ 
+ΔV = mv2
+2q =
+2 × 10−16 kg
+(
+) 2.54 × 105 m s
+(
+)
+2
+2 30 × 10−9 C
+(
+)
+= 215 V 
+P31.65 
+The normal to the loop is horizontally north, at 35.0° to the magnetic 
+field. We assume that 0.500 Ω is the total resistance around the circuit, 
+including the ammeter. 
+ 
+ 
+Q =
+I∫dt = εdt
+R
+∫
+= 1
+R
+–∫
+dΦB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟dt = – 1
+R
+d∫ΦB
+= – 1
+R
+d∫
+BAcosθ
+(
+) = – Bcosθ
+R
+dA
+A1=a2
+A2=0
+∫
+ 
+ 
+ 
+Q = – B cosθ
+R
+A
+⎡
+⎣⎢
+⎤
+⎦⎥
+A1=a2
+A2=0
+= B cosθ a2
+R
+= (35.0 × 10–6 T)( cos35.0°)(0.200 m)2
+0.500 Ω
+= 2.29 × 10−6 C
+ 
+P31.66 
+(a) 
+To find the induced current, we first compute the induced emf, 
+ 
+ 
+ 
+ε = Bv = 0.0800 T
+(
+) 1.50 m
+(
+) 3.00 m/s
+(
+) = 0.360 V .  
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+I = ε
+R = 0.360 V
+0.400 Ω = 0.900 A
+ 
+ 
+(b) The applied force must balance the magnetic force 
+ 
+ 
+ 
+F = FB = IB
+= 0.900 A
+(
+) 1.50 m
+(
+) 0.0800 T
+(
+) = 0.108 N 
+ 
+ANS. FIG. P31.66
+
+--- PAGE 40 ---
+Chapter 31     453 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Since the magnetic flux 
+
+B⋅
+
+A between the axle and the resistor is 
+in effect decreasing, the induced current is clockwise so that it 
+produces a downward magnetic field to oppose the decrease in 
+flux: thus, current flows through R from b to a. Point b is at the 
+higher potential. 
+ 
+(d) 
+No . Magnetic flux will increase through a loop between the 
+axle and the resistor to the left of ab. Here counterclockwise 
+current will flow to produce an upward magnetic field to oppose 
+the increase in flux. The current in R is still from b to a. 
+*P31.67 
+(a) 
+From Equation 31.3, the emf induced in the loop is given by 
+ 
+ 
+ 
+ε = −N d
+dt BAcosθ = −1 d
+dt Bθ a2
+2 cos0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −Ba2
+2
+dθ
+dt = −1
+2 Ba2ω
+ 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+ε = −1
+2 0.500 T
+(
+) 0.500 m
+(
+)2 2.00 rad s
+(
+)
+= −0.125 V = 0.125 V clockwise
+ 
+ 
+ 
+ 
+The minus sign indicates that the induced emf produces 
+clockwise current, to make its own magnetic field into the page. 
+ 
+(b) At this instant, 
+ 
+ 
+ 
+θ = ω t = 2.00 rad s
+(
+) 0.250 s
+(
+) = 0.500 rad 
+ 
+ 
+The arc PQ has length  
+ 
+ 
+ 
+rθ = 0.500 rad
+(
+) 0.500 m
+(
+) = 0.250 m  
+ 
+ 
+The length of the circuit is  
+ 
+ 
+ 
+0.500 m + 0.500 m + 0.250 m = 1.25 m 
+ 
+ 
+Its resistance is 
+ 
+ 
+ 
+ 
+1.25 m
+(
+) 5.00 Ω m
+(
+) = 6.25 Ω  
+ 
+ 
+The current is then 
+ 
+ 
+ 
+I = ε
+R = 0.125 V
+6.25 Ω = 0.020 0 A clockwise
+
+--- PAGE 41 ---
+454     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.68 
+At a distance r from wire, B = µ0I
+2π r . Using ε = Bv, we find that 
+ 
+ 
+ 
+ε = µ0vI
+2π r
+ 
+ 
+ANS. FIG. P31.68 
+ 
+P31.69 
+(a) 
+We use ε = −N ΔΦB
+Δt , with N = 1. 
+ 
+ 
+Taking a = 5.00 × 10
+–3 m to be the radius of the washer, and h = 
+0.500 m, the change in flux through the washer from the time it is 
+released until it hits the tabletop is  
+ 
+ 
+ 
+ΔΦB = Bf A −BiA = A Bf −Bi
+(
+) = π a2
+µ0I
+2π h + a
+(
+) −µ0I
+2π a
+⎛
+⎝⎜
+⎞
+⎠⎟
+= a2µ0I
+2
+1
+h + a −1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= −µ0ahI
+2 h + a
+(
+)
+ 
+ 
+ 
+The time for the washer to drop a distance h (from rest) is: 
+Δt =
+2h
+g . Therefore, 
+ 
+ 
+ 
+ε = −ΔΦB
+Δt =
+µ0ahI
+2 h + a
+(
+)Δt = µ0ahI
+2 h + a
+(
+)
+g
+2h =
+µ0aI
+2 h + a
+(
+)
+gh
+2
+ 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+ε = 4π × 10−7 T⋅m A
+(
+) 5.00 × 10−3 m
+(
+) 10.0 A
+(
+)
+2 0.500 m + 0.005 00 m
+(
+)
+                                                   ×
+9.80 m s2
+(
+) 0.500 m
+(
+)
+2
+= 97.4 nV
+
+--- PAGE 42 ---
+Chapter 31     455 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Since the magnetic flux going through the washer (into the plane 
+of the page in the figure) is decreasing in time, a current will form 
+in the washer so as to oppose that decrease. To oppose the 
+decrease, the magnetic field from the induced current also must 
+point into the plane of the page. Therefore, the current will flow 
+in a clockwise direction . 
+P31.70 
+(a) 
+We would need to know whether the field is increasing or 
+decreasing. 
+ 
+(b) To find the resistance at maximum power, we note that 
+ 
+ 
+ 
+P = εI = ε 2
+R =
+N dB
+dt πr2 cos0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R
+ 
+ 
+ 
+Solving for the resistance then gives 
+ 
+ 
+ 
+R =
+N dB
+dt πr2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+P
+= 220(0.020 T/s)π(0.120 m)2
+⎡⎣
+⎤⎦
+2
+160 W
+= 248 µΩ
+ 
+ 
+(c) 
+Higher resistance would reduce the power delivered. 
+P31.71 
+Let θ represent the angle between the perpendicular to the coil and 
+the magnetic field. Then θ = 0 at t = 0 and θ = ωt at all later times.  
+ 
+(a) 
+The emf induced in the coil is given by 
+ 
+ 
+ 
+ε = –N d
+dt (BA cosθ) = −NBA d
+dt (cos ωt) = +NBA ω sin ωt 
+ 
+ 
+The maximum value of sinθ is 1, so the maximum voltage is 
+ 
+ 
+ 
+εmax = NBAω = 60
+(
+) 1.00 T
+(
+) 0.020 0 m2
+(
+) 30.0 rad/s
+(
+)
+= 36.0 V
+  
+ 
+(b) The rate of change of magnetic flux is 
+ 
+ 
+ 
+dΦB
+dt
+= d
+dt BAcosθ
+(
+) = −BAω sinωt  
+ 
+ 
+The minimum value of sinθ is –1, so the maximum of dΦB/dt is 
+ 
+ 
+ 
+dΦB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+max
+= + BAω = (1.00 T)(0.020 0 m2)(30.0 rad/s) 
+= 0.600 T⋅m2/s
+
+--- PAGE 43 ---
+456     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+At t = 0.050 0 s, 
+ 
+ 
+ 
+ε = NBAω sinωt = (36.0 V)sin (30.0 rad/s)(0.050 0 s)
+[
+]
+= (36.0 V)sin(1.50 rad) = (36.0 V)(sin 85.9o) = 35.9 V
+ 
+ 
+(d) The emf is maximum when θ = 90°, and τ = µ ×
+
+B, so  
+ 
+ 
+ 
+τ max = µB sin 90o = NIAB = Nεmax
+AB
+R
+ 
+ 
+ 
+and τ max = (60)(36.0 V)(0.020 0 m2)(1.00 T)
+10.0 Ω
+= 4.32 N⋅m 
+P31.72 
+The emf induced in the loop is 
+ 
+ 
+ 
+ε = −d
+dt NBA
+(
+) = −1 dB
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟π a2 = π a2K
+ 
+ 
+(a) 
+The charge on the fully-charged capacitor is 
+ 
+ 
+ 
+Q = Cε = Cπ a2K
+ 
+ 
+(b) 
+
+B into the paper is decreasing; therefore, current will attempt to 
+counteract this by producing a magnetic field into the page to 
+oppose the decrease in flux. To do this, the current must be 
+clockwise, so positive charge will go to the upper plate . 
+ 
+(c) 
+The changing magnetic field through the enclosed area of the
+loop induces a clockwise electric field within the loop, and this
+causes electric force to push on charges in the wire.
+ 
+P31.73 
+(a) 
+The time interval required for the coil to move distance  and exit 
+the field is Δt = v , where v is the constant speed of the coil. 
+Since the speed of the coil is constant, the flux through the area 
+enclosed by the coil decreases at a constant rate. Thus, the 
+instantaneous induced emf is the same as the average emf over 
+the interval Δt, or  
+ 
+ 
+ 
+ε = −N ΔΦ
+Δt = −N 0 −BA
+(
+)
+t −0
+= N B2
+t
+= NB2
+v = NBv
+ 
+ 
+(b) The current induced in the coil is     
+ 
+ 
+ 
+I = ε
+R = NBv
+R
+
+--- PAGE 44 ---
+Chapter 31     457 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The power delivered to the coil is given by P = I
+2R, or 
+ 
+ 
+ 
+P =
+N 2B22v2
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟R = N 2B22v2
+R
+ 
+ 
+(d) The rate that the applied force does work must equal the power 
+delivered to the coil, so Fapp ⋅v = P or  
+ 
+ 
+ 
+Fapp = P
+v = N 2B22v2 R
+v
+= N 2B22v
+R
+ 
+ 
+(e) 
+As the coil is emerging from the field, the flux through the area it 
+encloses is directed into the page and decreasing in magnitude. 
+Thus, the change in the flux through the coil is directed out of the 
+page. The induced current must then flow around the coil in such 
+a direction as to produce flux into the page through the enclosed 
+area, opposing the change that is occurring. This means that the 
+current must flow clockwise around the coil. 
+ 
+(f) 
+As the coil is emerging from the field, the left side of the coil is 
+carrying an induced current directed toward the top of the page 
+through a magnetic field that is directed into the page. By the 
+right-hand rule, this side of the coil will experience a magnetic 
+force directed to the left , opposing the motion of the coil. 
+P31.74 
+The magnetic field at a distance x from wire is 
+ 
+ 
+ 
+B = µ0I
+2π x 
+ 
+The emf induced in an element in the bar of length dx is dε = Bvdx. 
+The total emf induced along the entire length of the bar is then  
+ 
+ 
+ε =
+Bvdx
+r
+r+
+∫
+=
+µ0I
+2π x vdx
+r
+r+
+∫
+= µ0Iv
+2π
+dx
+x
+r
+r+
+∫
+= µ0Iv
+2π ln x
+r
+r+
+ε = µ0Iv
+2π ln r + 
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ANS. FIG. P31.74
+
+--- PAGE 45 ---
+458     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.75 
+We are given    
+ 
+ 
+ 
+ΦB = 6.00t3 −18.0t2
+(
+)
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ε = −dΦB
+dt = −18.0t2 + 36.0t 
+ 
+Maximum ε occurs when dε
+dt = −36.0t + 36.0 = 0, which gives t = 1.00 s. 
+ 
+Therefore, the maximum current (at t = 1.00 s) is   
+ 
+ 
+ 
+I = ε
+R = −18.0 + 36.0
+(
+) V
+3.00 Ω
+= 6.00 A
+  
+P31.76 
+The magnetic field at a distance x from a long wire is B = µ0I
+2π x . We 
+find an expression for the flux through the loop. 
+ 
+ 
+ 
+dΦB = µ0I
+2π x dx
+(
+)    
+ 
+so 
+ 
+ΦB = µ0I
+2π
+dx
+x
+r
+r+w
+∫
+= µ0I
+2π ln 1+ w
+r
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+ε = −dΦB
+dt = µ0Iv
+2π r
+w
+r + w
+(
+)
+    
+ 
+and  
+I = ε
+R =
+µ0Iv
+2π Rr
+w
+r + w
+(
+) 
+P31.77 
+The magnetic field produced by the current in the 
+straight wire is perpendicular to the plane of the 
+coil at all points within the coil. At a distance r 
+from the wire, the magnitude of the field is 
+B = µ0I
+2π r . Thus, the flux through an element of 
+length L and width dr is 
+ 
+ 
+ 
+dΦB = BLdr = µ0IL
+2π
+dr
+r
+ 
+ 
+The total flux through the coil is  
+ 
+ 
+ 
+ΦB = µ0IL
+2π
+dr
+r
+h
+h+w
+∫
+= µ0ImaxL
+2π
+ln h + w
+h
+⎛
+⎝⎜
+⎞
+⎠⎟sin ω t + φ
+(
+) 
+ANS. FIG. P31.77
+
+--- PAGE 46 ---
+Chapter 31     459 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Finally, the induced emf is 
+ 
+ 
+ε = −N dΦB
+dt
+= −µ0NImaxLω
+2π
+ln 1+ w
+h
+⎛
+⎝⎜
+⎞
+⎠⎟cos ω t +φ
+(
+)
+ε = −4π × 10−7 T⋅m/A
+(
+) 100
+(
+) 50.0 A
+(
+) 0.200 m
+(
+) 200π rad/s
+(
+)
+2π
+                                                × ln 1+ 0.050 0 m
+0.050 0 m
+⎛
+⎝⎜
+⎞
+⎠⎟cos ω t +φ
+(
+)
+ε = −87.1cos 200π t +φ
+(
+) , where ε is in millivolts and
+                                                t is in seconds
+ 
+ 
+The term sin ω t + φ
+(
+) in the expression for the current in the straight 
+wire does not change appreciably when ω t changes by 0.10 rad or less. 
+Thus, the current does not change appreciably during a time interval 
+ 
+ 
+ 
+Δt <
+0.10
+200π s−1
+(
+)
+= 1.6 × 10−4 s
+ 
+ 
+We define a critical length, 
+ 
+ 
+ 
+ cΔt = 3.00 × 108 m/s
+(
+) 1.6 × 10−4 s
+(
+) = 4.8 × 104 m 
+ 
+equal to the distance to which field changes could be propagated 
+during an interval of 1.6 × 10
+–4 s. This length is so much larger than any 
+dimension of the coil or its distance from the wire that, although we 
+consider the straight wire to be infinitely long, we can also safely 
+ignore the field propagation effects in the vicinity of the coil. 
+Moreover, the phase angle can be considered to be constant along the 
+wire in the vicinity of the coil. 
+ 
+If the angular frequency ω were much larger, say, 200π × 10
+5 s
+–1, the 
+corresponding critical length would be only 48 cm. In this situation 
+propagation effects would be important and the above expression for 
+ε would require modification. As a general rule we can consider field 
+propagation effects for circuits of laboratory size to be negligible for 
+frequencies, f = ω
+2π
+, that are less than about 10
+6 Hz.
+
+--- PAGE 47 ---
+460     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.78 
+(a) 
+The induced emf is ε = Bv, where B = µ0I
+2π y , = 0.800,  
+vf = vi + gt = 9.80t, and y = y f = yi −1
+2 gt2 = 0.800 −4.90
+(
+)t2 where I 
+is in amperes,  and y are in meters, v is in meters per second, 
+and t in seconds. 
+ 
+ 
+Thus, 
+ 
+ε =
+4π × 10−7
+(
+) 200
+(
+)
+2π 0.800 −4.90t2
+(
+)
+0.300
+(
+) 9.80
+(
+)t =
+1.18 × 10−4
+(
+)t
+0.800 −4.90t2
+ 
+ 
+ 
+where ε is in volts and t in seconds.  
+ 
+(b) The emf is zero when t = 0.  
+ 
+(c) 
+As 0.800 −4.90t2  →  0 , t  →   0.404 s and the emf diverges to 
+infinity . 
+ 
+(d) At t = 0.300 s,    
+ 
+ 
+ 
+ε =
+1.18 × 10−4
+(
+) 0.300
+(
+)
+0.800 −4.90 0.300
+(
+)
+2
+⎡⎣
+⎤⎦
+ V = 98.3 µV
+ 
+ 
+ 
+ 
+Challenge Problems 
+P31.79 
+In the loop on the left, the induced emf is 
+ 
+ 
+ 
+ε = dΦB
+dt = A dB
+dt = π 0.100 m
+(
+)
+2 100 T s
+(
+) = π V
+ 
+ 
+and it attempts to produce a counterclockwise current in this loop. 
+ 
+ANS. FIG. P31.79
+
+--- PAGE 48 ---
+Chapter 31     461 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In the loop on the right, the induced emf is 
+ 
+ 
+ 
+ε = dΦB
+dt = π 0.150 m
+(
+)
+2 100 T s
+(
+) = 2.25π V
+ 
+ 
+and it attempts to produce a clockwise current. Assume that I1 flows 
+down through the 6.00-Ω resistor, I2 flows down through the 5.00-Ω 
+resistor, and that I3 flows up through the 3.00-Ω resistor. 
+ 
+From Kirchhoff’s junction rule:  I3 = I1 + I2 
+[1] 
+ 
+Using the loop rule on the left loop:  6.00I1 + 3.00I3 = π 
+[2] 
+ 
+Using the loop rule on the right loop:  5.00I2 + 3.00I3 = 2.25π 
+[3] 
+ 
+Solving these three equations simultaneously,  
+ 
+ 
+ 
+I3 = π −3I3
+(
+)
+6
++ 2.25π −3I3
+(
+)
+5
+  
+ 
+which then gives 
+ 
+ 
+ 
+I1 = 0.062 3 A , I2 = 0.860 A , and I3 = 0.923 A 
+P31.80 
+(a) 
+Consider an annulus of radius r, width dr, thickness b, and 
+resistivity ρ. Around its circumference, a voltage is induced 
+according to 
+ 
+ 
+ 
+ε = −N d
+dt
+
+B⋅
+
+A = −1( ) d
+dt Bmax cosω t
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥π r2 = +Bmaxπ r2ω sinω t
+ 
+ 
+ 
+The resistance around the loop is ρ
+dA = ρ 2π r
+(
+)
+bdr
+. The eddy current 
+in the ring is  
+ 
+ 
+ 
+dI =
+ε
+resistance = Bmaxπ r2ω sinω t
+(
+)
+ρ 2π r
+(
+) bdr
+= Bmaxrbω sinω t
+2ρ
+dr
+  
+ 
+ 
+The instantaneous power is    
+ 
+ 
+ 
+dP = ε dI = Bmax
+2 π r3bω 2 sin2ω t
+2ρ
+dr
+ 
+ 
+ 
+The time average of the function sin2 ω t = 1
+2 −1
+2 cos2ω t is 
+1
+2 −0 = 1
+2
+, so the time-averaged power delivered to the annulus is 
+ 
+ 
+ 
+dP = Bmax
+2 π r3bω 2
+4ρ
+dr
+
+--- PAGE 49 ---
+462     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The average power delivered to the disk is 
+P =
+dP
+∫
+=
+Bmax
+2 πbω 2
+4ρ
+r3dr
+0
+R
+∫
+ 
+ 
+ 
+ 
+P = Bmax
+2 π bω 2
+4ρ
+R4
+4 −0
+⎛
+⎝⎜
+⎞
+⎠⎟= π Bmax
+2
+R4bω 2
+16ρ
+ 
+ 
+(b) When Bmax doubles, Bmax
+2
+ and P become 4 times larger. 
+ 
+(c) 
+When f doubles, ω = 2π f doubles, and ω 2 and P become 4 
+times larger. 
+ 
+(d) When R doubles, R
+4 and P become 24 = 16 times larger. 
+P31.81 
+The current in the rod is 
+ 
+ 
+ 
+I = ε +εinduced
+R
+ 
+ 
+where  
+εinduced = −Bdv, because the induced 
+emf opposes the emf of the battery.  The force 
+on the rod is related to the current and the 
+velocity:  
+ 
+ 
+ 
+F = m dv
+dt = IBd
+ 
+ 
+ 
+ 
+dv
+dt = IBd
+m = Bd
+mR ε +εinduced
+(
+) = Bd
+mR ε −Bvd
+(
+)
+ 
+ 
+To solve the differential equation, let u = ε −Bvd   →    du
+dt = −Bd dv
+dt : 
+ 
+ 
+dv
+dt = Bd
+mR ε −Bvd
+(
+)
+−1
+Bd
+du
+dt = Bd
+mR u    →    
+du
+u
+u0
+u
+∫
+= −
+Bd
+(
+)
+2
+mR dt
+0
+t
+∫
+ 
+ 
+Integrating from t = 0 to t = t gives  ln u
+u0
+= −Bd
+(
+)
+2
+mR t  or  u
+u0
+= e−B2d2t mR. 
+ 
+Since v = 0 when t = 0, u0 = ε ; substituting u = ε −Bvd gives  
+ 
+ 
+ 
+ε −Bvd = ε e−B2d2t mR 
+ 
+Therefore,   v = ε
+Bd 1−e−B2d2t mR
+(
+) . 
+ANS. FIG. P31.81
+
+--- PAGE 50 ---
+Chapter 31     463 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.82 
+Suppose the magnetic field is vertically down. When an electron is 
+moving away from you the force on it is in the direction given by 
+ 
+ 
+ 
+qv ×
+
+Bc    as   – (away) × (down) = – 
+ = – (left) = (right) 
+ 
+Therefore, the electrons circulate clockwise. 
+ 
+ANS. FIG. P31.82 
+ 
+(a) 
+As the downward field increases, an emf is induced to produce 
+some current that in turn produces an upward field to oppose the 
+increasing downward field. This current is directed 
+ 
+counterclockwise, carried by negative electrons moving 
+clockwise. Therefore the electric force on the electrons is 
+clockwise and the original electron motion speeds up. 
+ 
+(b) At the circumference, we have  
+ 
+ 
+ 
+Fc
+∑
+= mac
+→
+q vBc sin90° = mv2
+r
+    →    mv = q rBc
+ 
+ 
+ 
+where Bc is the magnetic field at the circle’s circumference.  
+ 
+ 
+The increasing magnetic field 
+
+Bav in the area enclosed by the orbit 
+produces a tangential electric field according to 
+ 
+ 
+ 
+E
+∫
+⋅ds = −d
+dt
+
+Bav ⋅
+
+A
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+E 2π r
+(
+) = π r2 dBav
+dt
+→
+E = r
+2
+dBav
+dt
+ 
+ 
+ 
+Using this expression for E, we find the tangential force on the 
+electron:  
+ 
+ 
+ 
+Ft
+∑
+= mat   →     q E = m dv
+dt
+q r
+2
+dBav
+dt = m dv
+dt
+
+--- PAGE 51 ---
+464     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+If the electron starts at rest and increases to final speed v as the 
+magnetic field builds from zero to final value Bav, then integration 
+of the last equation gives  
+ 
+ 
+ 
+q r
+2
+dBav
+dt dt
+0
+Bav
+∫
+= m dv
+dt dt
+0
+v
+∫
+     →     q r
+2 Bav = mv 
+ 
+ 
+Thus, from the two expressions for mv, we have 
+q r
+2 Bav = mv = q rBc →Bav = 2Bc 
+P31.83 
+For the suspended mass, M:  
+ 
+ 
+F
+∑
+= Mg −T = Ma 
+ 
+For the sliding bar, m:  
+ 
+ 
+F
+∑
+= T −IB = ma,   where   I = ε
+R = Bv
+R
+ 
+ 
+Substituting the expression for current I, the first equation gives us  
+ 
+ 
+Mg −B22v
+R
+= m + M
+(
+)a    →    a = dv
+dt =
+Mg
+m + M −
+B22v
+R M + m
+(
+)
+ 
+ 
+The above equation can be written as 
+ 
+ 
+dv
+α −βv
+(
+)
+0
+v
+∫
+=
+dt
+0
+t
+∫
+   where   α =
+Mg
+M + m
+   and   β =
+B22
+R M + m
+(
+)
+ 
+ 
+Integrating, 
+ 
+ 
+dv
+α −βv
+(
+)
+0
+v
+∫
+=
+dt
+0
+t
+∫
+    →    −1
+β ln α −βv
+(
+)
+0
+v
+= t   
+ 
+ 
+Then, 
+ 
+ 
+ln α −βv
+(
+)−ln α
+( )
+⎡⎣
+⎤⎦= −βt   
+ 
+Solving for v gives 
+ 
+ 
+ln α −βv
+(
+)
+α
+= −βt    →      1−β
+α v = e−βt    
+v = α
+β 1−e−βt
+(
+) =
+MgR
+B22
+1−e−B22t R M+m
+(
+)
+⎡⎣
+⎤⎦
+
+--- PAGE 52 ---
+Chapter 31     465 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P31.2 
+(a) Each coil has a pulse of voltage tending to produce 
+counterclockwise current as the projectile approaches, and then a pulse 
+of clockwise voltage as the projectile recedes; (b) 625 m/s 
+P31.4 
++9.82 mV 
+P31.6 
+2.26 mV 
+P31.8 
+160 A 
+P31.10 
+1.89 × 10
+–11 V 
+P31.12 
+(a) µ0nπ r2
+2
+2R
+ΔI
+Δt ; (b) µ0
+2nπ r2
+2
+4r1R
+ΔI
+Δt ; (c) left 
+P31.14 
+ε = −1.42 × 10−2
+(
+)cos 120t
+(
+), where t is in seconds and ε is in V 
+P31.16 
+ε = 68.2e−1.60t, where t is in seconds and ε is in mV 
+P31.18 
+(a) See P31.18(a) for full explanation; (b) The emf induced in the coil is 
+proportional to the line integral of the magnetic field around the 
+circular axis of the toroid. Ampère’s law says that this line integral 
+depends only on the amount of current the coil encloses. 
+P31.20 
+(a) 0.013 3 A; (b) The current is counterclockwise in the lower loop and 
+clockwise in the upper loop. 
+P31.22 
+(a) to the right; (b) out of the page; (c) to the right 
+P31.24 
+(a) 11.8 mV; (b) The wingtip on the pilot’s left is positive; (c) no change; 
+(d) No. If you try to connect the wings to a circuit containing the light 
+bulb, you must run an extra insulated wire along the wing. In a 
+uniform field the total emf generated in the one-turn coil is zero. 
+P31.26 
+1.00 m/s 
+P31.28 
+Rmv
+B22 
+P31.30 
+The speed of the car is equivalent to about 640 km/h or 400 mi/h, 
+much faster than the car could drive on the curvy road and much 
+faster than any standard automobile could drive in general. 
+P31.32 
+mgRsinθ
+B22 cos2θ
+ 
+P31.34 
+(a) 0.729 m/s; (b) counterclockwise; (c) 0.650 mW; (d) Work is being 
+done by the external force, which is transformed into internal energy 
+in the resistor.
+
+--- PAGE 53 ---
+466     Faraday’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.36 
+(a) N 2B2w2v
+R
+ to the left; (b) 0; (c) N 2B2w2v
+R
+ to the left again 
+P31.38 
+(a) 6.00 µT; (b) Yes. The magnitude and direction of the Earth’s field 
+varies from one location to the other, so the induced voltage in the 
+wire changes. Furthermore, the voltage will change if the tether cord or 
+its velocity changes their orientation relative to the Earth’s field;  
+(c) Either the long dimension of the tether or the velocity vector could 
+be parallel to the magnetic field at some instant. 
+P31.40 
+(a) 2.81 × 10
+–3 N/C; (b) tangent to the electric field line passing through 
+at point P2 and counterclockwise 
+P31.42 
+(a) 12.6 mV; (b) when the plane of the coil is parallel to the magnetic 
+field 
+P31.44 
+(a) amplitude doubles and period is unchanged; (b) doubles the 
+amplitude and cuts the period in half; (c) amplitude unchanged and 
+period is cut in half 
+P31.46 
+(a) 1.60 V; (b) zero; (c) no change in either answer; (d) See ANS. FIG. 
+P31.46(d); (e) See ANS. FIG. P31.46(e). 
+P31.48 
+(a) 110 V; (b) 8.53 W; (c) 1.22 kW 
+P31.50 
+See P31.50 for full explanation. 
+P31.52 
+~10
+–4 V 
+P31.54 
+(a) increasing; (b) 62.6 mT/s 
+P31.56 
+ABmax
+τ
+e−t τ 
+P31.58 
+(a) Bv
+R
+; (b) particle in equilibrium; (c) 281 m/s; (d) 1.88 A; (e) 169 W; 
+(f) 169 W; (g) yes; (h) increase; (i) yes; (j) larger 
+P31.60 
+3.92 m/s is the highest speed the loop can have while the upper edge 
+is above the field, so it cannot possibly be moving at 4.00 m/s. 
+P31.62 
+(a) See P31.62(a) for full explanation; (b) 0.250 T 
+P31.64 
+(a) 2.54 × 10
+5 m/s; (b) 215 V 
+P31.66 
+(a) 0.900 A; (b) 0.108 N; (c) Point b; (d) no 
+P31.68 
+See P31.68 for full explanation. 
+P31.70 
+(a) We would need to know if the field is increasing or decreasing;  
+(b) 248 µΩ; (c) Higher resistance would reduce the power delivered.
+
+--- PAGE 54 ---
+Chapter 31     467 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P31.72 
+(a) Cπ a2K; (b) upper plate; (c) The changing magnetic field through 
+the enclosed area of the loop induces a clockwise electric field within 
+the loop, and this causes electric force to push on charges in the wire 
+P31.74 
+See P31.74 for full explanation. 
+P31.76 
+µ0Iv
+2π Rr
+w
+r + w
+(
+) 
+P31.78 
+(a) 1.18 × 10−4
+(
+)t
+0.800 −4.90t2 ; (b) zero; (c) infinity; (d) 98.3 µV 
+P31.80 
+(a) π Bmax
+2
+R4bω 2
+16ρ
+; (b) 4; (c) 4; (d) 16 
+P31.82 
+(a) See P31.82(a) for full description; (b) See P31.82(b) for full 
+description.

@@ -1,0 +1,109 @@
+PHYSICS:- QUESTIONS  ANSWERS
+EXPT.1:  DETERMINATION  OF  THE  MODULUS  OF  ELASTICITY
+1.Explain the terms stress and strain.
+Stress is a measure of the strength of the  agent that is causing a deformation.If a force,F is applied, possibly   obliquely ,to a surface of area , A .Then Stress=Force S.I unit is N/m2.
+Area
+Examples are tensile  ,bulk  ,compressional and shearing stress.
+Strain is the fractional deformation resulting from a stress.It is measured by the ratio of the change in some dimension of a body to the original dimension in the change occurred.Strain=Change in dimension
+Original dimension 
+No S.I unit.Examples are tensile,shear and bulk strain.
+2. What is modulus of elasticity?
+It can be defined as the mathematical description of an object tendency to be deformed when a force is applied to it. That is, Modulus of elasticity =stress          S.I unit is N/m2
+Strain
+3.Find out and compare the Elastic Modulus values range for rubber and Aluminium.
+Elastic Modulus value range for rubber is 0.01-0.1 N/m2.Elastic Modulus value range for Aluminium is 10, 69, 95,110 N/m2.Comparing the two values, Aluminium having the highest Elastic Modulus value is more rigid than rubber. That is,the higher the elastic modulus the rigid the object becomes.
+EXPT.2:HOOKE’s LAW
+1.What is a deforming force?
+It’s a force that causes changes in the shape and size of an object when applied.
+2.What is ’s Law?
+
+It states that,provided the elastic limit is not exceeded,the extension(e) is proportional to the Force(F) applied.
+i.e.Fe 
+   F=ke    where k=elastic limit and it’s unit N/m
+3.State five ways in which a force can affect a body.
+i.Deformation of a body 
+ii.Changes the direction of a body in motion.
+iii.Brings a body in motion to rest.
+iv.Increase or decrease the speed of a body in motion.
+v.Causes a body at rest to move.
+4.What is the difference between the proportional limit and the yield point of a spring that has been over stretched?
+Proportional limit is the greatest stress which a material is capable of sustaining without deviation from proportionality of stress whiles Yield point is the point beyond the elastic limit in which the elastic material has yield all its elastically permanently and has become plastic.Also,proportional limit is the limit where Hooke’s Law applies whiles Yield point Hooke’s Law ceases to apply.
+EXPT.3:VISCOSITY MEASUREMENT WITH THE FALLING-BALL VISCOMETER
+1.What is viscosity?
+It is the internal friction that exists between the layers of the molecules of fluids in contact with surfaces.
+2.Mention any two Laws that govern this experiment.
+i.Poiseuille’s  Law
+ii.Stoke’s
+ 3.State the forces that act on a falling body in a fluid.
+i.Upthrust force
+ii.Viscous force(drag)
+iii.Gravitational force
+iv.Weight
+4.What happens to the viscosity of a liquid when its temperature is raised?
+An increase in temperature decreases the rate of viscosity.
+5.Which of following liquids is more viscousand why?1.Engine oil 2.Vegetable oil 3.Water
+Engine oil is more viscous than vegetable oil and water because engine oil is more thicker than vegetable oil and water is the least because it has low viscosity.
+EXPT.4:EXPERIMENT WITH A HELICAL SPRING
+1.Explain ’s Law in your own words.
+When a string is stretched, it reaches a point where when released it returns to its normal shape and size. But when it is over-stretched, it reaches a point where when released it does not return to its normal shape and size. Provided the elastic limit of the stretched string is not exceeded, the extension (e) is proportional to the Force(F) appliedto the stretched string.
+2.Mention two practical applications of ’s Law
+i. Spring balance
+ii Thermodynamics
+3.Explain the term period of an oscillatory body .
+It’s defined as the total time taken by a body to complete one cycle.S.I unit is seconds(s).
+EXPT.5:EXPERIMENT WITH A BIFILAR SUSPENSION
+1.What is Simple Harmonic Motion?
+S.H.M is the motion of a particle whose acceleration is always directed towards a fixed point and is proportional to the distance from that point.
+2.Explain the term frequency of an oscillatory body.
+It’s defined as number of complete oscillations made in a second.S.I unit is hertz(Hz)
+3.What is the difference between torque and a force?
+A torque is a twisting force that turns to cause rotation whiles a force is a push or pull which causes motion of objects.
+EXPT.6:DETERMINATION OF DENSITY OF LIQUID USING A LOADED TEST-TUBE
+1.State the Law of Flotation.
+It states that,an object will float in a fluid when the upthrust exerted upon it by the fluid in which it floats equal the weight of the object.
+2.What is the difference between density and relative density?
+Density is the mass per unit volume of a substance with  S.I unit kg/m3 whiles relative density is the ratio of mass of substance to the mass of equal volume of water with no S.I unit.
+3.What will happen to an object placed in a liquid if the density of the liquid is greater than that of the object?
+The object will float on the liquid.
+4.What is the relationship between density and buoyancy?
+Buoyancy relates to density by the fluid displaced to the immersion of the object.OR Density is directly proportional to buoyancy.
+EXPT.7:THE WATER  EQUIVALENT OF A CALORIMETER
+1.State the zeroth law of thermodynamics.
+It states that,if two systems are in thermal equilibrium with a third system,they are also in thermal equilibrium with each other.
+2.Why does ice melts faster in water than in oil when both liquids are at the same temperature?
+Ice melts faster in water than oil because oil is more viscous and so resists the convectional flow of the transferred heat energy to oil by substance and so this property makes it easier for ice to melt faster in water than oil at the same temperature.
+3.What is the difference between heat capacity and specific heat capacity of a substance?     
+Heat capacity  is the amount of heat required to raise the temperature of a substance by 1K and S.I unit is J/K  whiles specific heat capacity is the amount of heat required to raise the temperature of 1kg mass by 1K and S.I unit is J/kg/K.
+4.Mention five applications of heat absorption.
+i.Heat pumps
+ii.Boiler systems
+iii.Coolers
+iv.Chillers
+v.Refrigerators
+EXPT.8:NEWTON’S LAW OF COOLING FOR A LIQUID
+1.State ’s Law of Cooling.
+It states that,for a small difference of temperature between a body and the surrounding,the rate of gain or loss of heat by the body is proportional to the difference in temperature between the body and the surroundings.
+2.Explain the mode of heat transfer by Conduction,Convection and Radiation.
+EXPT.9:THE COEFFICIENT OF CUBICAL EXPANSION OF GLYCERINE USING SPECIFIC GRAVITY BOTTLE
+1.What is the difference between latent heat and sensible heat?
+Latent heat is the quantity of heat required to convert the mass of substance from solid(or liquid)state to liquid(or vapour)state at the same temperature whiles sensible heat is the quantity of heat required to change the mass of substance without changing the state but change in temperature occurs.
+2.Explain the term coefficient of cubical expansivity?
+It defined as the increase in volume per unit volume per Kelvin rise in temperature and S.I unit K-1
+α=      Increase in volume       =V2-V1
+Initial volume><Temperature rise          V1(T2-T1)
+3.Explain the anomalous expansion of water?
+When  ice at about -10◦C is heated,it expands in volume until the temperature reaches 0◦C.After this it begins to melt while the temperature remains constant at 0◦C.This melting is accompanied by a contraction in volume.Between 0 and 4◦C the water contracts still further reaching its minimum volume at about 4◦C.This means that water has a maximum density at 4◦C since density=mass 
+                                                                                                    volumeBeyond 4◦C the water expands.
+EXPT.10:MATHEMATICAL PENDULUM
+1.What is the relationship between angular acceleration and angle?
+It is the sine wave relationship given by the equation                  =g          Where g=gravitational constant                                                                                            Rsin θ
+R=Distance
+=angular acceleration
+                        θ =angle of deflection
+2.How do mass,length,or gravity affects the relationship between angular acceleration?
+i.Mass does not affect the motion.
+ii.The amplitude of the sine relation is proportional to the gravity.
+iii.The amplitude of the sine relation is inversely proportional to length of pendulum.
+3.For small oscillations,how does lengthor gravity affect the period or frequency of the oscillation?
+For small oscillation,increasing length doubles the period and halves the frequency.
+For small oscillation,increasing gravity halves the period and doubles the frequency.

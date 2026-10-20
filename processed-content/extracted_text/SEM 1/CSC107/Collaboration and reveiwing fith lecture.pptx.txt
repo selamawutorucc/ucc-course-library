@@ -1,0 +1,431 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Word - Checking Spelling and Grammar
+
+Worried about making mistakes when you type? Don't be. 
+
+Word provides you with several proofing features—including the Spelling and Grammar tool—that can help you produce professional, error-free documents.
+
+--- SLIDE 5 ---
+To run a Spelling and Grammar check
+Wrongly spell Resources as “Resoucres” in word
+
+From the Review tab, click the Spelling & Grammar command.
+
+
+
+--- SLIDE 6 ---
+To run a Spelling and Grammar check
+The Spelling and Grammar pane will appear on the right. 
+For each error in your document, Word will offer one or more suggestions. Click a suggestion to correct the error.
+
+--- SLIDE 7 ---
+To run a Spelling and Grammar check
+Word will move through each error until you have reviewed all of them. 
+After the last error has been reviewed, a dialog box will appear confirming that the spelling and grammar check is complete. Click OK.
+
+
+
+
+
+If no suggestions are given, you can manually type the correct spelling in your document.
+
+--- SLIDE 8 ---
+Ignoring "errors"
+The spelling and grammar check is not always correct. 
+
+Particularly with grammar, there are many errors Word will not notice. 
+
+There are also times when the spelling and grammar check will say something is an error when it's actually not. 
+
+If Word says something is an error, you can choose not to change it. 
+
+Depending on whether it's a spelling or grammatical error, you can choose from several options.
+
+--- SLIDE 9 ---
+For spelling "errors"
+Ignore Once: This will skip the word without changing it.
+
+Ignore All: This will skip the word without changing it, and it will also skip all other instances of the word in the document.
+
+Add to Dictionary: This adds the word to the dictionary so it will never come up as an error. Make sure the word is spelled correctly before choosing this option.
+
+--- SLIDE 10 ---
+For spelling "errors"
+
+--- SLIDE 11 ---
+Automatic spelling and grammar checking
+By default, Word automatically checks your document for spelling and grammar errors, so you may not even need to run a separate check. 
+These errors are indicated by colored lines below the text.
+The red line indicates a misspelled word.
+The blue line indicates a grammatical error, which can include misused words.
+
+--- SLIDE 12 ---
+Automatic spelling and grammar checking
+A misused word—also known as a contextual spelling error—occurs when a word is spelled correctly but used incorrectly. 
+
+For example, if you used the phrase Deer Mr. Theodore at the beginning of a letter, deer would be a contextual spelling error. 
+
+Deer is spelled correctly, but it is used incorrectly in the letter. The correct word is Dear.
+
+--- SLIDE 13 ---
+To correct spelling errors
+Right-click the underlined word, then select the correct spelling from the list of suggestions.
+
+
+
+
+
+
+
+The corrected word will appear in the document.
+You can also choose to Ignore All instances of an underlined word or add it to the dictionary.
+
+
+--- SLIDE 14 ---
+To correct grammar errors:
+Right-click the underlined word or phrase, then select the correct spelling or phrase from the list of suggestions.
+
+
+
+
+
+
+
+
+The corrected phrase will appear in the document.
+
+
+--- SLIDE 15 ---
+To change the automatic spelling and grammar check settings
+Click the File tab to access Backstage view, then click Options.
+
+
+--- SLIDE 16 ---
+To change the automatic spelling and grammar check settings
+A dialog box will appear. 
+
+On the left side of the dialog box, select Proofing.
+
+From here, you have several options to choose from. 
+
+For example, if you don't want Word to mark spelling errors, grammar errors, or frequently confused words automatically, simply uncheck the desired option.
+
+--- SLIDE 17 ---
+To change the automatic spelling and grammar check settings
+
+
+
+
+
+
+
+
+If you've turned off the automatic spelling and/or grammar checks, you can still go to the Review tab and click the Spelling & Grammar command to run a new check.
+
+--- SLIDE 18 ---
+To hide spelling and grammar errors in a document
+Click the File tab to go to Backstage view, then click Options.
+
+A dialog box will appear. Select Proofing, then check the box next to Hide spelling errors in this document only and Hide grammar errors in this document only, then click OK.
+
+
+
+
+
+
+The lines in the document will be hidden.
+
+--- SLIDE 19 ---
+Word - Track Changes and Comments
+Let's say someone asks you to proofread or collaborate on a document. 
+
+If you had a printed copy, you might use a red pen to cross out sentences, mark misspellings, and add comments in the margins. 
+
+Word allows you to do all of these things electronically using the Track Changes and Comments features.
+
+--- SLIDE 20 ---
+Understanding Track Changes
+When you turn on Track Changes, every change you make to the document will appear as a colored markup. 
+If you delete text, it won't disappear; instead, the text will be crossed out. 
+If you add text, it will be underlined. This allows you to see edits before making the changes permanent.
+
+
+
+
+If there are multiple reviewers, each person will be assigned a different markup color.
+
+--- SLIDE 21 ---
+To turn on Track Changes
+From the Review tab, click the Track Changes command.
+
+--- SLIDE 22 ---
+To turn on Track Changes
+Track Changes will be turned on. 
+From this point on, any changes you make to the document will appear as colored markups.
+
+
+
+
+
+Your tracked changes may look different from those seen above, depending on your computer's markup settings.
+
+
+
+--- SLIDE 23 ---
+Reviewing changes
+Tracked changes are really just suggested changes.
+
+To become permanent, they must be accepted. 
+
+On the other hand, the original author may disagree with some of the tracked changes and choose to reject them.
+
+
+--- SLIDE 24 ---
+To accept or reject changes
+Select the change you want to accept or reject.
+
+--- SLIDE 25 ---
+To accept or reject changes
+From the Review tab, click the Accept or Reject command.
+
+
+--- SLIDE 26 ---
+To accept or reject changes
+The markup will disappear, and Word will automatically jump to the next change. 
+
+You can continue accepting or rejecting each change until you have reviewed all of them.
+
+--- SLIDE 27 ---
+To accept or reject changes
+When you're finished, click the Track Changes command to turn off Track Changes.
+
+--- SLIDE 28 ---
+To accept or reject changes
+To accept all changes at once, click the Accept drop-down arrow, then select Accept All. 
+If you no longer want to track your changes, you can select Accept All and Stop Tracking.
+
+
+--- SLIDE 29 ---
+To hide tracked changes
+From the Review tab, click the Display for Review command to the right of the Track Changes command.
+
+--- SLIDE 30 ---
+To hide tracked changes
+Select the desired option from the drop-down menu. 
+In our example, we'll select No Markup to preview the final version of the document before accepting the changes.
+
+--- SLIDE 31 ---
+To hide tracked changes
+You can also click the marker in the left margin to switch between Simple Markup and All Markup.
+
+--- SLIDE 32 ---
+To show revisions in balloons
+From the Review tab, click Show Markup > Balloons > Show Revisions in Balloons.
+
+--- SLIDE 33 ---
+To show revisions in balloons
+Most revisions will appear in the right margin, although any added text will still appear inline.
+
+--- SLIDE 34 ---
+Comments
+Sometimes you may want to add a comment to provide feedback instead of editing a document.
+
+While it's often used in combination with Track Changes, you don't necessarily need to have Track Changes turned on to add comments.
+
+--- SLIDE 35 ---
+To add comments
+Highlight some text, or place the insertion point where you want the comment to appear.
+
+--- SLIDE 36 ---
+To add comments
+From the Review tab, click the New Comment command.
+
+--- SLIDE 37 ---
+To add comments
+Type your comment. 
+When you're done, you can close the comment box by pressing the Esc key or by clicking anywhere outside the comment box.
+
+--- SLIDE 38 ---
+To delete comments
+Select the comment you want to delete.
+
+
+
+
+From the Review tab, click the Delete command.
+
+
+
+The comment will be deleted.
+
+--- SLIDE 39 ---
+To delete comments
+To delete all comments, click the Delete drop-down arrow and select Delete All Comments in Document.
+
+
+--- SLIDE 40 ---
+Comparing documents
+If you edit a document without tracking changes, it's still possible to use reviewing features such as Accept and Reject. 
+
+You can do this by comparing two versions of the document. 
+
+All you need is the original document and the revised document (the documents must also have different file names).
+
+--- SLIDE 41 ---
+To compare two documents
+From the Review tab, click the Compare command, then select Compare from the drop-down menu.
+
+--- SLIDE 42 ---
+To compare two documents
+A dialog box will appear. 
+Choose your Original document by clicking the drop-down arrow and selecting the document from the list. 
+If the file is not in the list, click the Browse button to locate it.
+Choose the Revised document, then click OK.
+
+--- SLIDE 43 ---
+To compare two documents
+Word will compare the two files to determine what was changed and then create a new document. 
+The changes will appear as colored markups, just like Track Changes. 
+You can then use the Accept and Reject commands to finalize the document.
+
+--- SLIDE 44 ---
+Inspecting and Protecting Documents
+Before sharing a document, you'll want to make sure it doesn't include any information you want to keep private. 
+
+You may also want to discourage others from editing your file. 
+
+Fortunately, Word includes several tools to help inspect and protect your document.
+
+--- SLIDE 45 ---
+The Document Inspector
+Whenever you create or edit a document, certain personal information may be added to the file automatically, like information about the document's author. 
+
+You can use the Document Inspector to remove this type of information before sharing a document with others.
+NOTE:
+Because some changes may be permanent, it's a good idea to use Save As to create a backup copy of your document before using the Document Inspector.
+
+--- SLIDE 46 ---
+To use the Document Inspector
+Click the File tab to go to Backstage view.
+
+From the Info pane, click Check for Issues, then select Inspect Document from the drop-down menu.
+
+--- SLIDE 47 ---
+To use the Document Inspector
+The Document Inspector will appear. 
+Check or uncheck the boxes, depending on the content you want to review, then click Inspect. 
+In our example, we'll leave everything selected.
+
+--- SLIDE 48 ---
+To use the Document Inspector
+The inspection results will show an exclamation mark for any categories where it found potentially sensitive data, and it will also have a Remove All button for each of these categories. Click Remove All to remove the data.
+
+--- SLIDE 49 ---
+Protecting your document
+By default, anyone with access to your document will be able to open, copy, and edit its content unless you protect it. 
+There are several ways to protect a document, depending on your needs.
+
+--- SLIDE 50 ---
+To protect your document
+Click the File tab to go to Backstage view.
+
+From the Info pane, click the Protect Document command.
+
+
+--- SLIDE 51 ---
+To protect your document
+In the drop-down menu, choose the option that best suits your needs. 
+In our example, we'll select Mark as Final. Marking your document as final is a good way to discourage others from editing the file, while other options give you more control if you need it.
+
+--- SLIDE 52 ---
+To protect your document
+A dialog box will appear prompting you to save. Click OK.
+
+
+
+
+Another dialog box will appear. Click OK.
+
+--- SLIDE 53 ---
+To protect your document
+The document will be marked as final. 
+Whenever others open the file, a bar will appear at the top to discourage them from editing the document.
+
+
+
+
+
+NOTE:
+Marking a document as final will not actually prevent others from editing it because they can just select Edit Anyway. If you want to prevent people from editing the document, you can use the Restrict Access option instead.
+
+--- SLIDE 54 ---
+How to encrypt a document with password 
+Click the File tab to go to Backstage view.
+From the Info pane, click the Protect Document command.
+Click on encrypt with password
+
+
+--- SLIDE 55 ---
+How to encrypt a document with password 
+Encrypt Document dialog box will appear start typing the desired password you want. Click OK.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 56 ---
+How to encrypt a document with password 
+Retype password to confirm password and click on ok. 
+
+
+
+
+
+
+
+Close the document and reopen the document
+
+
+
+
+
+
+
+
+
+--- SLIDE 57 ---
+How to remove the password 
+Click the File tab to go to Backstage view.
+From the Info pane, click the Protect Document command.
+Click on encrypt with password
+
+
+--- SLIDE 58 ---
+How to remove the password 
+Delete the password in the password in the encrypt document dialogue box.
+Click on the OK button to remove the password.
+
+
+
+
+
+
+
+
+--- SLIDE 59 ---
+
+--- SLIDE 60 ---
+THANK YOU

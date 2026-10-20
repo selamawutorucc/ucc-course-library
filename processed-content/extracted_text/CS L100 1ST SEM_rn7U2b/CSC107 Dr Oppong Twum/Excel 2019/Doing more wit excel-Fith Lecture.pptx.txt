@@ -1,0 +1,313 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Excel - Intro to PivotTables
+When you have a lot of data, it can sometimes be difficult to analyze all of the information in your worksheet. 
+
+PivotTables can help make your worksheets more manageable by summarizing data and allowing you to manipulate it in different ways.
+
+--- SLIDE 5 ---
+Using PivotTables to answer questions
+Consider the example below. Let's say we wanted to answer the question What is the amount sold by each salesperson? 
+
+Answering it could be time consuming and difficult; each salesperson appears on multiple rows, and we would need to total all of their different orders individually. 
+
+We could use the Subtotal command to help find the total for each salesperson, but we would still have a lot of data to work with.
+
+--- SLIDE 6 ---
+Using PivotTables to answer questions
+
+--- SLIDE 7 ---
+Using PivotTables to answer questions
+Fortunately, a PivotTable can instantly calculate and summarize the data in a way that will make it much easier to read. When we're done, the PivotTable will look something like this:
+
+
+--- SLIDE 8 ---
+Using PivotTables to answer questions
+Once you've created a PivotTable, you can use it to answer different questions by rearranging—or pivoting—the data. For example, let's say we wanted to answer What is the total amount sold in each month? We could modify our PivotTable to look like this:
+
+
+
+--- SLIDE 9 ---
+To create a PivotTable
+Select the table or cells (including column headers) you want to include in your PivotTable.
+
+
+--- SLIDE 10 ---
+To create a PivotTable
+From the Insert tab, click the PivotTable command.
+
+--- SLIDE 11 ---
+To create a PivotTable
+The Create PivotTable dialog box will appear. Choose your settings, then click OK. In our example, we'll use Table1 as our source data and place the PivotTable in a new worksheet.
+
+--- SLIDE 12 ---
+To create a PivotTable
+A blank PivotTable and Field List will appear in a new worksheet.
+
+--- SLIDE 13 ---
+To create a PivotTable
+Once you create a PivotTable, you'll need to decide which fields to add. Each field is simply a column header from the source data. In the PivotTable Fields list, check the box for each field you want to add. In our example, we want to know the total amount sold by each salesperson, so we'll check the Salesperson and Order Amount fields.
+
+--- SLIDE 14 ---
+To create a PivotTable
+The selected fields will be added to one of the four areas below. In our example, the Salesperson field has been added to the Rows area, while Order Amount has been added to Values. You can also drag and drop fields directly into the desired area.
+
+--- SLIDE 15 ---
+To create a PivotTable
+The PivotTable will calculate and summarize the selected fields. In our example, the PivotTable shows the amount sold by each salesperson.
+
+--- SLIDE 16 ---
+Pivoting data
+One of the best things about PivotTables is that they can quickly pivot—or reorganize—your data, allowing you to examine your worksheet in several ways. 
+
+Pivoting data can help you answer different questions and even experiment with your data to discover new trends and patterns.
+
+--- SLIDE 17 ---
+To add columns
+So far, our PivotTable has only shown one column of data at a time. To show multiple columns, you'll need to add a field to the Columns area.
+Drag a field from the Field List into the Columns area. In our example, we'll use the Month field.
+
+--- SLIDE 18 ---
+To add columns
+The PivotTable will include multiple columns. In our example, there is now a column for each person's monthly sales, in addition to the grand total.
+
+--- SLIDE 19 ---
+To change a row or column
+Changing a row or column can give you a completely different perspective on your data. All you have to do is remove the field in question, then replace it with another.
+Drag the field you want to remove out of its current area. You can also uncheck the appropriate box in the Field List. In this example, we've removed the Month and Salesperson fields.
+
+--- SLIDE 20 ---
+To change a row or column
+Drag a new field into the desired area. In our example, we'll place the Region field under Rows.
+
+--- SLIDE 21 ---
+To change a row or column
+The PivotTable will adjust—or pivot—to show the new data. In our example, it now shows the amount sold by each region.
+
+--- SLIDE 22 ---
+Excel - Doing More with PivotTables
+PivotTables can be used to summarize and analyze almost any type of data. 
+
+
+To manipulate your PivotTable—and gain even more insight into your data—Excel offers three additional tools: filters, slicers, and PivotCharts.
+
+--- SLIDE 23 ---
+Excel - Doing More with PivotTables
+PivotTables can be used to summarize and analyze almost any type of data. 
+
+
+To manipulate your PivotTable—and gain even more insight into your data—Excel offers three additional tools: filters, slicers, and PivotCharts.
+
+--- SLIDE 24 ---
+Filters
+Sometimes you may want focus on a certain section of your data. 
+
+Filters can be used to narrow down the data in your PivotTable so you can view only the information you need.
+
+--- SLIDE 25 ---
+To add a filter
+In the example below, we'll filter out certain salespeople to determine how their individual sales are impacting each region.
+Drag a field from the Field List to the Filters area. In this example, we'll use the Salesperson field.
+
+--- SLIDE 26 ---
+To add a filter
+The filter will appear above the PivotTable. Click the drop-down arrow, then check the box next to Select Multiple Items.
+
+--- SLIDE 27 ---
+To add a filter
+Uncheck the box next to any item you don't want to include in the PivotTable. In our example, we'll uncheck the boxes for a few salespeople, then click OK.
+
+--- SLIDE 28 ---
+To add a filter
+The PivotTable will adjust to reflect the changes.
+
+--- SLIDE 29 ---
+Slicers
+Slicers make filtering data in PivotTables even easier. Slicers are basically just filters but are easier and faster to use, allowing you to instantly pivot your data. 
+
+If you frequently filter your PivotTables, you may want to consider using slicers instead of filters.
+
+--- SLIDE 30 ---
+To add a slicer
+Select any cell in the PivotTable.
+From the Analyze tab, click the Insert Slicer command.
+
+--- SLIDE 31 ---
+To add a slicer
+A dialog box will appear. Check the box next to the desired field. In our example, we'll select Salesperson, then click OK.
+
+--- SLIDE 32 ---
+To add a slicer
+The slicer will appear next to the PivotTable. Each selected item will be highlighted in blue. In the example below, the slicer contains all eight salespeople, but only five of them are currently selected.
+
+--- SLIDE 33 ---
+To add a slicer
+Just like filters, only selected items are used in the PivotTable. When you select or deselect an item, the PivotTable will instantly reflect the change. Try selecting different items to see how they affect the PivotTable. Press and hold the Ctrl key on your keyboard to select multiple items at once.
+
+--- SLIDE 34 ---
+PivotCharts
+PivotCharts are like regular charts, except they display data from a PivotTable. 
+
+Just like regular charts, you'll be able to select a chart type, layout, and style that will best represent the data.
+
+--- SLIDE 35 ---
+To create a PivotCharts
+In the example below, our PivotTable is showing a portion of each region's sales figures. 
+We'll use a PivotChart so we can see the information more clearly.
+
+Select any cell in your PivotTable.
+From the Insert tab, click the PivotChart command.
+
+--- SLIDE 36 ---
+To create a PivotCharts
+The Insert Chart dialog box will appear. Select the desired chart type and layout, then click OK.
+
+--- SLIDE 37 ---
+To create a PivotCharts
+The PivotChart will appear.
+
+--- SLIDE 38 ---
+To create a PivotCharts
+In the example below, we've changed the PivotTable to view the monthly sales for each salesperson.
+
+--- SLIDE 39 ---
+Excel - What-if Analysis
+Excel includes powerful tools to perform complex mathematical calculations, including what-if analysis. 
+
+This feature can help you experiment and answer questions with your data, even when the data is incomplete. 
+
+In this lesson, you will learn how to use a what-if analysis tool called Goal Seek.
+
+--- SLIDE 40 ---
+Goal Seek
+Whenever you create a formula or function in Excel, you put various parts together to calculate a result.
+
+Goal Seek works in the opposite way: It lets you start with the desired result, and it calculates the input value that will give you that result. 
+
+We'll use a few examples to show how to use Goal Seek.
+
+--- SLIDE 41 ---
+To use Goal Seek (example 1)
+Let's say you're enrolled in a class. 
+
+You currently have a grade of 65, and you need at least a 70 to pass the class. 
+
+Luckily, you have one final assignment that might be able to raise your average. 
+
+You can use Goal Seek to find out what grade you need on the final assignment to pass the class.
+
+--- SLIDE 42 ---
+To use Goal Seek (example 1)
+In the image below, you can see that the grades on the first four assignments are 58, 70, 72, and 60. 
+
+Even though we don't know what the fifth grade will be, we can write a formula—or function—that calculates the final grade.
+
+In this case, each assignment is weighted equally, so all we have to do is average all five grades by typing =AVERAGE(B2:B6).
+
+--- SLIDE 43 ---
+To use Goal Seek (example 1)
+Once we use Goal Seek, cell B6 will show us the minimum grade we'll need to make on that assignment.
+
+--- SLIDE 44 ---
+To use Goal Seek (example 1)
+Select the cell with the value you want to change. Whenever you use Goal Seek, you'll need to select a cell that already contains a formula or function. In our example, we'll select cell B7 because it contains the formula =AVERAGE(B2:B6).
+
+--- SLIDE 45 ---
+To use Goal Seek (example 1)
+From the Data tab, click the What-If Analysis command, then select Goal Seek from the drop-down menu.
+
+
+
+
+A dialog box will appear with three fields. The first field, Set cell:, will contain the desired result. In our example, cell B7 is already selected.
+
+
+--- SLIDE 46 ---
+To use Goal Seek (example 1)
+The third field, By changing cell:, is the cell where Goal Seek will place its answer. In our example, we'll select cell B6 because we want to determine the grade we need to earn on the final assignment.
+When you're done, click OK.
+
+--- SLIDE 47 ---
+To use Goal Seek (example 1)
+The dialog box will tell you if Goal Seek was able to find a solution. Click OK.
+
+--- SLIDE 48 ---
+To use Goal Seek (example 1)
+The result will appear in the specified cell. In our example, Goal Seek calculated that we will need to score at least a 90 on the final assignment to earn a passing grade.
+
+--- SLIDE 49 ---
+To use Goal Seek (example 2)
+Let's say you're planning an event and want to invite as many people as you can without exceeding a budget of $500. 
+We can use Goal Seek to figure out how many people to invite. 
+
+In our example below, cell B5 contains the formula =B2+B3*B4 to calculate the total cost of a room reservation, plus the cost per person.
+
+--- SLIDE 50 ---
+To use Goal Seek (example 2)
+Select the cell with the value you want to change. In our example, we'll select cell B5.
+
+
+
+--- SLIDE 51 ---
+To use Goal Seek (example 2)
+From the Data tab, click the What-If Analysis command, then select Goal Seek from the drop-down menu.
+
+
+
+
+
+A dialog box will appear with three fields. The first field, Set cell:, will contain the desired result. In our example, cell B5 is already selected.
+
+
+--- SLIDE 52 ---
+To use Goal Seek (example 2)
+The second field, To value:, is the desired result. 
+In our example, we'll enter 500 because we only want to spend $500.
+
+The third field, By changing cell:, is the cell where Goal Seek will place its answer. 
+
+In our example, we'll select cell B4 because we want to know how many guests we can invite without spending more than $500.
+
+When you're done, click OK.
+
+--- SLIDE 53 ---
+To use Goal Seek (example 2)
+
+
+
+
+
+
+
+
+The dialog box will tell you if Goal Seek was able to find a solution. Click OK.
+
+--- SLIDE 54 ---
+To use Goal Seek (example 2)
+The result will appear in the specified cell. In our example, Goal Seek calculated the answer to be approximately 18.62. In this case, our final answer needs to be a whole number, so we'll need to round the answer up or down. Because rounding up would cause us to exceed our budget, we'll round down to 18 guests.
+
+--- SLIDE 55 ---
+Other types of what-if analysis
+For more advanced projects, you may want to consider the other types of what-if analysis: scenarios and data tables. 
+
+Instead of starting from the desired result and working backward, like with Goal Seek, these options allow you to test multiple values and see how the results change.
+
+--- SLIDE 56 ---
+Other types of what-if analysis
+Scenarios let you substitute values for multiple cells (up to 32) at the same time. You can create as many scenarios as you want and then compare them without changing the values manually. In the example below, we're using scenarios to compare different venues for an upcoming event.
+
+--- SLIDE 57 ---
+Other types of what-if analysis
+Data tables allow you to take one or two variables in a formula and replace them with as many different values as you want, then view the results in a table. This option is especially powerful because it shows multiple results at the same time, unlike scenarios or Goal Seek. In the example below, we can view 24 possible results for a car loan.
+
+--- SLIDE 58 ---
+
+--- SLIDE 59 ---
+THANK YOU

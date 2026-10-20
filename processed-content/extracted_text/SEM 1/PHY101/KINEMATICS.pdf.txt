@@ -1,0 +1,3730 @@
+
+--- PAGE 1 ---
+KINEMATICS 
+ 
+Distance and Displacement 
+Distance and speed are scalar quantities. 
+ 
+Distance 
+Distance is simply the total path length traversed in moving from one position to 
+the other. In general, the distance between two points depends on the path 
+traveled. 
+ 
+Displacement 
+Displacement is defined as a straight line distance between two points, along the 
+direction from the starting point to the final point. Displacement is a vector 
+quantity. 
+ 
+Speed and Velocity 
+ 
+Speed 
+When a body is in motion, its position changes with time i.e., it moves a certain 
+distance in a given time. This implies that both length and time are important 
+quantities when describing motion. The rate at which distance covered is speed. 
+Average speed is the distance d traveled, divided by the total time t elapsed in 
+traveling that distance 
+Average speed, s,
+distance
+d
+time
+t
+
+
+                                                     4.1
+
+--- PAGE 2 ---
+Velocity 
+Velocity is also another quantity used to describe motion. Velocity is defined as 
+rate of change of displacement with time. We have the average velocity defined as 
+displacement divided by time taken: 
+ 
+Average velocity = 
+v
+t
+t
+x
+x
+t
+time
+nt
+displaceme
+
+
+
+
+
+
+
+0
+0
+x
+                            4.2 
+ 
+Where x0 is the initial point, x is final position, t is initial time, t0 is final time, x 
+is the change in position or displacement and t is the change in t. 
+ 
+The SI units of velocity is meters per unit second (m/s). Instantaneous velocity on 
+the other hand is defined as  
+Instantaneous velocity 
+0
+0
+0
+lim
+t
+t
+x
+x
+dt
+d
+t
+
+
+
+
+
+x
+                                          4.3 
+ 
+Acceleration 
+Average acceleration is defined as change in velocity divided by time taken: 
+Average acceleration 
+0
+0
+v
+v
+velocity
+v
+a
+time
+t
+t
+t
+
+
+
+
+
+
+
+
+                                4.4 
+Accelerated Motion 
+Since velocity is a vector quantity with both magnitude and direction, an 
+acceleration can occur when there is  
+(a) a change in magnitude of the velocity but not the direction 
+(b) a change in the direction of the velocity but not the magnitude 
+(c) a change in both the magnitude and direction
+
+--- PAGE 3 ---
+Example 4.1 Mr. Tetteh and his driver are traveling to Cape Coast in a Toyota 
+pickup which is moving at 90 km/h down a straight highway. The driver of the 
+pickup sees an accident in the distance and slows down to 40 km/h in 5.0 s. What 
+is the average acceleration of the Toyota pickup?  
+ 
+Solution 
+Given the initial and final velocities and the time duration  
+)
+/
+25
+(
+)
+/
+90
+(
+0
+s
+m
+h
+km
+v
+
+
+, 
+)
+/
+11
+(
+)
+/
+40
+(
+s
+m
+h
+km
+v
+
+
+, 
+s
+t
+0.5
+
+ 
+We are solving to find: average acceleration, a , which from Equation 4.4 is  
+ 
+s
+m
+s
+s
+m
+s
+m
+t
+v
+v
+t
+v
+a
+/
+8.2
+0.5
+/
+25
+/
+11
+0
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+Average Velocity and Instantaneous velocity in components 
+ 
+In knowing how fast a particle moves from one point to the other one has to deal 
+with  
+1. Average velocity and 
+2. Instantaneous velocity 
+ 
+These are vectors and so vector notation has to be used.  
+If a particle moves through a displacement r in a time interval t
+, then its 
+average velocity  v is  
+  
+t
+v
+
+
+
+
+r
+time
+nt
+displaceme
+                                                                     4.5
+
+--- PAGE 4 ---
+This tells us that, the direction of  v is the same as that of r . v can also be 
+written in unit vector form as 
+k
+j
+i
+k
+j
+i
+t
+z
+t
+y
+t
+x
+t
+x
+x
+x
+v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              4.6 
+The velocity of a particle usually refers to the instantaneous velocity v which is 
+the value that v approaches in the limit as we shrink the time interval to 0 about 
+the instant. Using the language of calculus, we may write v as the derivative 
+d
+dt
+
+r
+v
+                                                                                                  4.7 
+The direction of the instantaneous velocity v of a particle is always tangent to the 
+particles path at the particles position. 
+In substituting 
+x
+y
+z
+
+
+
+r
+i
+j
+k  into Equation 4.7 we get 
+(
+)
+d
+d
+dx
+dy
+dz
+x
+y
+z
+dt
+dt
+dt
+dt
+dt
+
+
+
+
+
+
+
+r
+v
+i
+j
+k
+i
+j
+k                                       4.8 
+x
+y
+z
+v
+v
+v
+
+
+
+v
+i
+j
+k                                                                                  4.9 
+where, 
+dt
+dz
+v
+dt
+dy
+v
+dt
+dx
+v
+z
+y
+x
+
+
+
+,
+,
+ 
+. Since dt
+dx is the scalar component of v along the x-direction, it means we can find 
+the scalar components of v by differentiating the scalar components ofr . 
+ 
+Average acceleration and instantaneous acceleration in components 
+As a particles velocity changes from 
+1v to 
+2
+v in a time interval t
+, its average 
+acceleration  a during t
+is  
+t
+v
+t
+v
+-
+v
+interval
+ 
+time
+y
+in velocit
+ 
+change
+1
+2
+
+
+
+
+
+
+a
+                                                      4.10
+
+--- PAGE 5 ---
+If 
+t
+ is zero about some instant, then in the limit approaches the instantaneous 
+acceleration (or acceleration a ) at the instant; that is  
+(
+)
+y
+x
+z
+x
+y
+z
+dv
+dv
+dv
+d
+d v
+v
+v
+dt
+dt
+dt
+dt
+dt
+
+
+
+
+
+
+
+v
+a
+i
+j
+k
+i
+j
+k                                    4.11 
+x
+y
+z
+a
+a
+a
+
+
+
+a
+i
+j
+k                                                                                       4.12  
+where 
+dt
+dv
+a
+dt
+dv
+a
+y
+y
+x
+x
+
+
+,
+ and
+dt
+dv
+a
+z
+z 
+. We can therefore find the scalar 
+components of a by differentiating the scalar component of v . 
+ 
+ 
+Example 4.2 If a rabbit’s velocity is 
+j
+i
+2.7
+62
+.0
+2 
+
+
+t
+v
+, find the accelerationa at 
+the time
+5
+t
+s
+
+, in unit-vector notation and in magnitude notation. 
+Solution 
+Given that 
+j
+i
+2.7
+62
+.0
+
+
+
+t
+v
+, 
+ti
+i
+t
+dt
+dv
+a
+24
+.1
+)
+2
+(
+62
+.0
+
+
+
+
+
+ 
+At time t=5s 
+2
+-
+ms
+ 
+2.6
+)
+5
+(
+24
+.1
+i
+i
+dt
+dv
+a
+
+
+
+
+
+ 
+
+
+2
+-
+2
+ms
+ 2.6
+ 
+ 2.6
+)
+5
+(
+24
+.1
+
+
+
+
+
+
+i
+dt
+dv
+a
+ 
+ 
+Kinematic equations and problem solving 
+Any rectilinear motion can be defined by the position of that body in space at any 
+given instant. In order to make such a definition to describe a motion, we need to 
+find the relationships between distance and displacement, speed and velocity, 
+acceleration and time. The kinematic equations are equations of motion that relate
+
+--- PAGE 6 ---
+the above-mentioned quantities with each other. The assumption of a uniform 
+motion is made in all cases for use of these kinematics equations of motion. The 
+following kinematics equations will not work, for example, for an object that is 
+accelerating erratically. Below is the list of the kinematic equations. 
+Average velocity, 
+t
+s
+v
+                           4.13 
+Displacement, 
+1 (
+)
+2
+t
+
+
+s
+v
+u
+                    4.14 
+Average acceleration, 
+t
+t
+
+
+
+
+
+
+v
+v
+u
+a
+      4.15 
+t
+
+
+v
+u
+a                                                   4.16 
+ 
+2
+12
+t
+t
+
+
+
+s
+x
+u
+a                                     4.17 
+as
+u
+v
+2
+2
+2
+
+
+                                            4.18 
+ 
+ 
+Note that in some of the equations above we have replaced the time interval Δt with t, representing 
+total time. 
+ 
+Example 4.3 A car traveling at a speed of +12 m/s accelerates at a rate of +4 m/s2 
+for a time of 5s. What is the car's speed at the end of 5s? 
+Solution 
+Given u = 12m/s, a = 4m/s, t = 5s, v = ?. We use Equation 4.16 to find v  
+s
+m
+s
+m
+s
+m
+s
+s
+m
+s
+m
+at
+u
+v
+/
+32
+/
+20
+/
+12
+)
+5
+/
+4
+(
+/
+12
+2
+
+
+
+
+
+
+
+
+ 
+Derivation of the equations of motion 
+Suppose that an object is initially moving with a constant acceleration a , and 
+increases its velocity from u to v and its displacement from 0 to s in the time 
+interval t, then since acceleration is the rate of change of velocity, we have
+
+--- PAGE 7 ---
+t
+u
+v
+a
+
+
+ 
+Rearranging gives 
+at
+u
+v
+
+
+.                                                                                         4.16 
+ 
+The average velocity is
+)
+(
+2
+1
+v
+u 
+ and therefore since displacement is 
+ 
+average velocity time
+
+, we have  
+t
+u
+v
+s
+)
+(
+2
+1
+
+
+                                                                                    4.14 
+But from Equation 4.16, we can write  
+2
+2
+1
+)
+(
+2
+1
+at
+ut
+t
+at
+u
+u
+s
+
+
+
+
+
+                                                    4.17 
+From Equation 4.15 
+a
+u
+v
+t
+)
+( 
+
+ and substituting into Equation 4.17 we have 
+)
+)(
+2
+(
+a
+u
+v
+u
+v
+s
+
+
+
+ 
+as
+u
+v
+2
+2
+2
+
+
+               
+2
+2
+2
+v
+u
+as
+
+
+
+                                                                                   4.18 
+ 
+Graphs of Motion 
+The motion of a body or an object in a straight line (rectilinear motion) can be 
+examined by graphical analysis. Graphical analysis is often helpful in 
+understanding motion and its related quantities. For example the motion of a 
+runner can be graphed as a plot of position x versus time t.  
+We have  
+(a) displacement-time graph  
+(b) velocity-time graph and
+
+--- PAGE 8 ---
+(c) acceleration-time graph 
+ 
+ 
+Displacement-Time Graph 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Figure 4.1 we can make the following deductions about the following 
+curves: 
+(1)  slope = 0: velocity is zero (i.e. the body or object is stationary) 
+(2)  slope = constant : The body moves with uniform velocity 
+(3) The slope varies at different points and the gradient at a given point say A is     
+      the instantaneous velocity. This implies the body moves with a non-uniform      
+      velocity. 
+Velocity-Time Graph 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t 
+s 
+3 
+2 
+1 
+A 
+ΔS 
+Δt 
+Figure 4.1 
+v 
+3 
+2 
+1 
+B 
+Δv 
+Δt
+
+--- PAGE 9 ---
+From figure4.2: 
+(1)  slope = 0: acceleration is zero and hence velocity is constant 
+(2)   slope = constant: The body moves with uniform acceleration 
+(3)  The slope varies at different points and the gradient at a given point say B is  
+       the instantaneous acceleration. The body moves with a non-uniform    
+       acceleration. Note that for Velocity-Time graph the area under the graph is     
+       equal to displacement. 
+ 
+Acceleration-Time Graph 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For acceleration-Time graph the area under the graph is equal to the velocity. 
+ 
+Free fall and acceleration due to gravity 
+An object is in free fall if it falls freely (i.e. in conditions similar to a vacuum 
+without any resistance to motion) under the influence of gravity. Any object, 
+Figure 4.3 
+t 
+Area under graph = 
+velocity
+
+--- PAGE 10 ---
+regardless of its mass which falls freely near the surface of earth falls with an 
+average acceleration of 9.8 m/s2. Since the free fall acceleration is constant at a 
+given point, we can use the kinematic equations of motion to solve problems 
+involving free fall. 
+ 
+Example 4.4 A ball is dropped from rest from a high window of a tall building 
+and falls for 3s. Neglecting air resistance (a) what is the speed of the ball? (b) 
+What is the distance the ball has fallen from where it was released? (c) What is the 
+ball’s acceleration? [Assume that g = 10 m/s]. What distance will it travel in the 
+last second (i.e. between t = 2 and t = 3)?  
+ 
+Solution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We start solving by listing the quantities already given in this problem 
+0
+
+u
+ since the ball was dropped from rest, 
+3
+t
+s
+
+, 
+2
+/
+10
+s
+m
+g
+a
+
+
+since the ball 
+is falling freely under the influence of gravity. 
+Figure 4.4 
+0,
+0
+t
+u
+
+
+ 
+3
+t
+s
+
+
+--- PAGE 11 ---
+(a) We are looking for the speed v after 3s, so we find an equation that includes v,    
+      u, a and t. Equation 4.16 gives 
+s
+m
+s
+s
+m
+at
+u
+v
+/
+30
+)
+3
+)(
+/
+10
+(
+0
+2
+
+
+
+
+
+ 
+ 
+(b) The distance fallen can be found by using Equation 4.17, choosing the 
+downward direction as positive: 
+
+
+m
+s
+s
+m
+s
+gt
+ut
+s
+45
+)
+3
+(
+/
+10
+2
+1
+)
+3
+)(
+0
+(
+2
+1
+2
+2
+2
+
+
+
+
+
+ 
+Or use 
+s
+a
+u
+v
+
+
+2
+2
+2
+ 
+ 
+(c) After 3s of free fall, the ball is still accelerating at 10m/s2. The ball’s speed is    
+      increasing, but the rate at which its speed is increasing (i.e. its acceleration)  
+      is constant. 
+2
+3
+2
+2
+3.
+10
+.
+2
+1
+;
+2.
+10
+.
+2
+1
+
+
+S
+S
+ 
+m
+25
+20
+45
+;
+45
+,
+20
+2
+3
+3
+2
+
+
+
+
+
+
+S
+S
+S
+S
+ 
+ 
+ 
+Relative Motion and Velocity in one dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+PQ 
+P 
+Figure 4.5
+
+--- PAGE 12 ---
+Suppose that P and Q are moving points. Then PQ represents the position vector 
+of Q relative to P, and 
+)
+(PQ
+dt
+d
+ represents its rate of change, which we shall call 
+the velocity of Q relative to P and is written as 
+PQ
+V
+. So 
+)
+(PQ
+v
+dt
+d
+PQ 
+                                                                                4.19 
+If we consider three moving points P, Q and R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PR
+QR
+PQ
+
+
+                                                                             4.20 
+ 
+Hence differentiating with respect to time we have  
+ 
+)
+(
+)
+(
+)
+(
+)
+(
+PR
+QR
+PQ
+QR
+PQ
+dt
+d
+dt
+d
+dt
+d
+dt
+d
+
+
+
+
+                            4.21 
+ 
+PR
+QR
+PQ
+v
+v
+v
+
+
+
+                                                                        4.22 
+  
+ 
+ 
+ 
+P 
+Q 
+R 
+Figure 4.6 
+ 
+VQR 
+VPR 
+VPQ 
+Figure 4.7
+
+--- PAGE 13 ---
+Furthermore, the rate of change of 
+PQ
+v
+can be called the acceleration of Q relative 
+to P and is written as  
+(
+)
+PQ
+PQ
+d
+dt
+
+a
+v
+                                                                                 4.23 
+ 
+ and it immediately follows that 
+ 
+PR
+QR
+PQ
+a
+a
+a
+
+
+                                                                               4.24 
+ 
+ 
+Circular Motion 
+Uniform Circular Motion  
+A particle is in uniform circular motion if it travels around a circle or a circular 
+arc at constant speed. A car moving in a circular path with linear constant speed v 
+is in uniform circular motion. Although the speed does not vary, the car is 
+accelerating. Since the car’s direction of motion changes, the car has acceleration. 
+This fact may be surprising because acceleration is usually thought of as an 
+increase or decrease in speed. But actually v is a vector, not a scalar. If v changes, 
+even only in direction, there is acceleration, as happens in uniform circular 
+motion. For any motion, the velocity vector is tangent to the path. Consequently, 
+when an object moves in a circular path, its velocity vector is perpendicular to the 
+radius of the circle. 
+To find the magnitude and direction of the acceleration, consider Figure 4.8a 
+which shows a particle first at point A and then at point B. Let the particle be at
+
+--- PAGE 14 ---
+point A at time ti, with velocity vi and at point B at time tf with velocity vf. 
+Assume that vi and vf have the same magnitudes (speeds) but differ only in 
+direction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We know from the definition of average acceleration that: 
+f
+i
+f
+i
+t
+t
+t
+
+
+
+
+
+
+v
+v
+v
+a
+                                                                               4.25 
+Consider the triangle in Figure 4.8b with sides Δr and r. This triangle is similar 
+with the one in Figure 4.8a having sides vand v . From the two triangles we can 
+write 
+v
+r
+v
+r
+
+
+
+                                                                                               4.26 
+Solve forv and substitute in the expression 
+t
+
+
+
+v
+a
+to get 
+vi 
+vf 
+A
+B
+r
+r
+r 
+ 
+O
+vi 
+vf 
+v 
+Figure 4.8  (a) As a particle moves from A to B, its velocity vector changes from Vi to Vf . 
+(b) The construction for determining the direction of the change in velocity V, which is  
+toward the center of the circle for small r 
+(a) 
+(b)
+
+--- PAGE 15 ---
+r
+r t
+
+
+
+v
+a
+                                                                                                4.27 
+If points A and B are extremely close together, then Δv points toward the centre of 
+the circular path, and because the acceleration is in the direction of Δv, the 
+acceleration also points toward the centre. In the limit as Δt approaches zero, the 
+ratio r t
+ also goes to the speed v and the magnitude of the acceleration is  
+ 
+                                                                                              4.28 
+ 
+We then conclude that, when a particle moves at constant speed v in a circle of 
+radius r, the acceleration of the particle is directed toward the centre of the circle 
+and has a constant magnitude v2/r. 
+Consider a particle moving along a curved path where the velocity changes in 
+both direction and magnitude, as shown in Figure 4.9 As always, the velocity 
+vector is tangent to the path, but the direction of the acceleration vector a changes 
+from point to point. This vector can be resolved into two components: a radial 
+component ar and a tangential component at. Thus a becomes 
+r
+t
+
+
+a
+a
+a                                                                                                  4.29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+r
+v
+a
+r
+
+ar 
+at 
+a
+ar 
+ar 
+at 
+at 
+a 
+a 
+Figure 4.9   The motion of a particle along an arbitrary curved path lying in the xy plane.  
+If the velocity vector v (always tangent to the path ) changes in direction and magnitude, the 
+component vectors of the acceleration a are a tangential component at and a radial component ar.
+
+--- PAGE 16 ---
+The tangential acceleration causes the change in the speed of the particle and it is 
+parallel to the instantaneous velocity, and its magnitude is 
+t
+d
+a
+dt
+
+v                                                                                                  4.30 
+The radial acceleration arises from the change in direction of the velocity vector 
+and has an absolute magnitude given by 
+2
+r
+v
+a
+r
+
+                                                                                                     4.31      
+where r is the radius of curvature of the path at the point under consideration. 
+The acceleration associated with uniform circular motion is called a centripetal 
+(center seeking) acceleration. 
+During this acceleration at constant speed, the particle travels the distance 
+2 r
+(circumference) of the circle in time T given by 
+2 r
+T
+v
+
+
+                                                                                                   4.32 
+which is called the period of revolution, or the period, of the motion. In general, 
+T is the time for a particle to go round a closed path exactly once. 
+ 
+Circular Motion 
+Consider an object moving in a circle with a uniform speed round a fixed point O 
+as centre as shown in Figure 4.10. Assume the object moves from A to B so that 
+the radius OA moves through an angle θ. A particle at B is at a fixed distance r 
+from the origin and rotates about it in a circle of radius r. We represent the
+
+--- PAGE 17 ---
+position of B with its polar coordinates (r, θ), where r is the distance from the 
+origin to B and θ is measured anticlockwise from some preferred direction like the 
+positive x – direction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In this way only the angle θ changes with time; r remains constant. If s is the 
+length of the arc AB, then s/r = θ, by definition of an angle in radians. 
+ 
+s
+r
+
+                                                                                          4.33 
+and 
+s r
+
+                                                                                            4.34 
+One radian is the angle subtended by an arc length equal to the radius of the arc. 
+Since the circumference of a circle is 2 r
+, it follows from Equation 4.34 that 
+3600 corresponds to an angle of 2 r r
+
+rad 
+2
+
+rad. 
+Hence
+0
+0
+360
+1
+57.3
+2
+rad
+
+
+
+. To convert an angle in degrees to an angle in 
+radians, we have: 
+0
+2
+360
+rad
+
+
+    
+s
+A 
+B
+T
+v
+v
+ 
+ 
+O
+Figure 4.10  Circular motion
+
+--- PAGE 18 ---
+
+
+
+
+0
+deg
+180
+rad
+
+
+
+
+                                                                    4.35                                
+As an example, 
+0
+60
+3 rad
+
+
+and
+0
+90
+2rad
+
+
+. As the object travels from 
+position P to position Q in a time Δt as shown in Figure 4.11, the radius vector 
+sweeps out an angle 
+f
+i
+
+
+
+
+
+ called the angular displacement of the body. 
+That is  
+f
+i
+
+
+
+
+
+ 
+The angular speed, ω, about O is defined as the change of the angle per second. If 
+t is the time taken to move from A to B as in Figure 4.10, then  
+t
+
+
+                                                                                                    4.36 
+expressed in ‘radians per second’ (rad s-1). 
+Define the average angular speed  as the ratio of the angular displacement to the 
+time interval Δt (Figure 4.11) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q, tf 
+ 
+ r 
+P, ti 
+i 
+f 
+x 
+y 
+O
+Figure 4.11  A particle on a rotating rigid  object 
+moves from P to Q along the arc of a circle. In the 
+time interval t = tf – ti, the radius vector sweeps 
+ out  an angle  = f  - i.
+
+--- PAGE 19 ---
+f
+i
+f
+i
+t
+t
+t
+
+
+
+
+
+
+
+
+
+                                                                                  4.37 
+The instantaneous angular speed is defined as the limit of the ratio
+t
+
+as Δt 
+goes to zero: 
+0
+lim
+t
+d
+t
+dt
+
+
+
+
+
+
+
+
+                                                                               4.38 
+ω is taken to be positive when θ is increasing (anticlockwise motion) and negative 
+when θ is decreasing (clockwise motion). 
+Divide Equation 4.33 by t, the time to move from A to B in Figure 4.10, 
+s
+r
+t
+t
+
+
+
+                                                                                               4.39 
+v
+r
+
+                                                                                                4.40 
+If the angular velocity of a rotating body is not constant, then the body has an 
+angular acceleration. Let 
+f
+and 
+i
+be the angular velocities at time tf and ti, 
+respectively. The average angular acceleration of the rotating body in the interval 
+from ti to tf (Δt) is defined as  
+f
+i
+f
+i
+t
+t
+t
+
+
+
+
+
+
+
+
+
+                                                                                 4.41 
+where Δω is the change in the angular velocity that occurs during the time interval 
+Δt. The instantaneous angular acceleration is defined as the limit of the ratio 
+t
+
+
+as Δt goes to zero: 
+0
+lim
+t
+d
+t
+dt
+
+
+
+
+
+
+
+
+                                                                               4.42
+
+--- PAGE 20 ---
+The unit of angular acceleration is the radian per second-squared (rad/s2) or the 
+revolution per second –squared (rev/s2). 
+Divide Equation 4.40 by t to get: 
+v
+r
+t
+t
+
+
+                                                                                                  4.43 
+v/t is the tangential component at of the linear acceleration and ω/t is the angular 
+acceleration . Then 
+ta
+r
+
+
+                                                                                                   4.44 
+As has been seen already, the radial component of the acceleration is: 
+2
+2
+r
+v
+a
+r
+r
+
+
+
+.                                                                                        4.45 
+Example 4.5 Express each of the following in terms of the other angular 
+measures: (a) 280, (b) 1
+4 rev s , (c) 2.18 
+2
+rad s . 
+ 
+Solution 
+ 
+(a)   
+
+
+
+
+0
+1
+28
+28
+0.078
+360
+2
+28
+0.49
+360
+rev
+deg
+rev
+deg
+rad
+deg
+rad
+deg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(b)  
+1
+360
+0.25
+90
+4
+1
+2
+0.25
+1
+2
+rev
+rev
+deg
+deg
+s
+s
+rev
+s
+rev
+rad
+rad
+s
+rev
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- PAGE 21 ---
+(c) 
+ 
+2
+2
+2
+2
+2
+360
+2.18
+2.18
+125
+2
+1
+2.18
+0.35
+2
+rad
+rad
+deg
+deg
+s
+s
+rad
+s
+rad
+rev
+rev
+s
+rad
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Example 4.6 A car moves round a circular track of radius 0.3 m at 2 revolutions 
+per second. What is 
+(a) the angular speed ω, 
+(b) the period T, 
+(c) the speed v of the car? Find also 
+(d) the angular speed of the car if it moves with a uniform speed of 2 ms-1 in a 
+circle of radius 0.4 m.  
+ 
+Solution 
+(a) For 1 revolution, angle turned
+
+
+0
+2
+360
+rad
+
+
+
+. So that 
+ 
+1
+2 2
+4 rads
+
+
+
+
+
+
+
+ 
+ (b) Period T time for 1 rev.
+2
+2
+0.5
+4
+s
+
+
+
+
+
+
+
+ 
+ 
+(c) Speed 
+1
+0.3 4
+1.2
+3.8
+v
+r
+ms
+
+
+
+
+
+
+
+
+
+ 
+ 
+(d) From v
+r
+
+ 
+ 
+1
+1
+2
+5
+0.4
+v
+ms
+rads
+r
+m
+
+
+
+
+
+
+
+--- PAGE 22 ---
+Simple Harmonic Motion 
+Any motion that repeats itself at regular intervals is called periodic motion or 
+harmonic motion. It turns out that for such motion the displacement x of the 
+particle from the origin is given as a function of time. 
+Consider a physical system that consists of a block of mass m attached to the end 
+of a spring, with the block free to move on a horizontal, frictionless surface as 
+shown in Figure 4.12. When the spring is neither stretched nor compressed, the 
+block is at the position
+0
+x 
+, which is the equilibrium position of the system as 
+shown in Figure 4.12b. 
+When the block is displaced a distance x , which is small, from equilibrium, the 
+spring, with a spring constant k , exerts a force on the block which is proportional 
+to the displacement and given by Hooke’s law as  
+F
+kx
+
+                                                                                            4.46                                      
+The force is always directed towards the equilibrium position and therefore 
+opposite the displacement and it is called a restoring force. This means that when 
+the block is displaced to the left of 
+0
+x 
+in Figure 4.12c then the displacement is 
+negative and the restoring force is directed to the right. When the block is 
+displaced to the right of
+0
+x 
+, then the displacement is positive and the restoring 
+force is directed to the left. 
+Let us apply Newton’s second law to the motion of the block, together with  
+Equation 4.46 to obtain 
+F
+kx
+ma
+
+
+                                                                                  4.47 
+k
+a
+x
+m
+
+                                                                                         4.48
+
+--- PAGE 23 ---
+But the acceleration is also given by 
+2
+a
+x
+
+
+                                                                                           4.49 
+which means that 
+2
+k
+m
+
+ and 
+k m
+
+                                                                                           4.50 
+m 
+m 
+m 
+x 
+x 
+x = 0 
+F 
+F 
+F=0 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+(c ) 
+Figure 4.12  A block attached to a spring moving on a frictionless surface. (a) when the 
+block is displaced to the right of  equilibrium (x  0), the force exerted by the spring acts to 
+the left. (b) when the block is at its equilibrium position (x = 0), the force exerted by the 
+spring is zero. (c) when the block is displaced to the left of  equilibrium (x  0), the force 
+exerted by the spring acts to the right.
+
+--- PAGE 24 ---
+From Equation 4.49 the acceleration is proportional to the displacement but 
+opposite in sign, and the two quantities are related by the angular frequency-
+squared. Systems that behave this way are said to show simple harmonic motion. 
+Simple harmonic motion is the motion executed by a particle of mass m 
+subject to a force that is proportional to the displacement of the particle but 
+opposite in sign. 
+In general, it turns out that for such motion the displacement x of the particle from 
+the origin is given as a function of time by  
+
+
+cos
+x
+A
+t
+
+
+
+
+                                                                                4.51 
+where A , , and are constants. The quantity A , a positive constant whose 
+value depends on how the motion was started, is called the amplitude of the 
+motion. The cosine function in Equation 4.51 varies between the limits 1
+, so the 
+displacement x varies between the limits
+A
+
+, as shown in Figure 4.13.  
+The time-varying quantity (
+t
+
+
+
+) is called the phase of the motion, and the 
+constant is called the phase constant (or phase angle). If the particle is at its 
+maximum position x
+A
+
+at
+0
+t 
+, then 
+0
+
+as shown in Figure 4.13b. Let us 
+interpret the constant ω. The displacement x must return to its initial value after 
+one period T of the motion. That is, x must equal 
+
+x t
+T
+
+for allt . Let us put 
+0
+
+in Equation 4.51 to simplify the analysis. From Equation 4.51 we have 
+
+
+cos
+cos
+A
+t
+A
+t
+T
+
+
+
+
+
+
+
+                                                         4.52
+
+--- PAGE 25 ---
+The cosine function first repeats itself when its argument (the phase) has increased 
+by 2π rad, so that we should have 
+
+
+2
+t
+T
+t
+
+
+
+
+
+
+ 
+2
+T
+
+
+
+
+                                                                                    4.53 
+ 
+Thus  
+/ 
+A 
+ 
+ 
+ 
+ 
+-A 
+x
+t
+T
+(a) 
+x
+t
+A 
+ 
+ 
+ 
+ 
+-A 
+Figure 4.13  (a) An x – t curve for a particle undergoing simple 
+harmonic motion. The amplitude of the motion is A, the period is T, and 
+the phase constant is . (b) The x – t curve in the special case in which  
+x = A at t = 0 and hence  = 0. 
+(b)
+
+--- PAGE 26 ---
+2
+T
+
+
+                                                                                         4.54 
+The constant ω is called the angular frequency of the motion and has units of 
+radians per second. 
+The linear velocity of a particle undergoing simple harmonic motion can be found 
+by differentiating Equation 4.51 with respect to time: 
+
+
+cos
+dx
+d
+v
+A
+t
+dt
+dt
+
+
+
+
+
+
+
+
+                                                          4.55 
+ which means 
+
+
+sin
+v
+A
+t
+
+
+
+
+
+                                                                      4.56 
+From Equation 4.56, the acceleration of the particle is 
+
+
+sin
+dv
+d
+a
+A
+t
+dt
+dt
+
+
+
+
+
+
+
+
+
+
+ 
+ which gives 
+
+
+2
+cos
+a
+A
+t
+
+
+
+
+
+                                                                    4.57 
+But 
+
+
+cos
+x
+A
+t
+
+
+
+
+so Equation 4.57 becomes 
+2
+a
+x
+
+
+                                                                                         4.58 
+From Equation 4.57, because the sine function oscillates between 1
+, the extreme 
+values of v are
+A
+
+
+. From Equation 4.58, and since the cosine function oscillates 
+between 1
+, the extreme values of a are
+2A
+
+
+. Therefore, the maximum speed 
+and the magnitude of the maximum acceleration of a particle moving in simple 
+harmonic motion are 
+max
+v
+A
+
+
+                                                                                         4.59 
+2
+max
+a
+A
+
+
+                                                                                       4.60
+
+--- PAGE 27 ---
+The importance of the phase constant can be seen when comparing the motion of 
+two or more oscillating objects. Let us imagine two identical pendulum bobs 
+swinging side by side in simple harmonic motion, with one being released later 
+than the other. Then the bobs have different phase constants. We can also show 
+how the phase constant and the amplitude of any particle moving in simple 
+harmonic motion can be determined if we know the particle’s initial speed and 
+position and the angular frequency of its motion. 
+Now suppose that at 
+0
+t 
+the initial position of a single oscillator is 
+i
+x
+x
+
+and its 
+initial speed is 
+i
+v
+v
+
+. Under such conditions, Equation 4.51 and Equation 4.56 
+give 
+cos
+ix
+A
+
+
+                                                                                        4.61 
+sin
+iv
+A
+
+
+
+                                                                                   4.62 
+Equation 4.62 divided by Equation 4.61 eliminates A, to give
+tan
+i
+i
+v
+x
+
+
+
+, or 
+tan
+i
+i
+v
+x
+
+
+
+
+                                                                                         4.63 
+Square Equations 4.61 and 4.62, divide Equation 4.62 by
+2
+, and then add terms 
+to obtain, 
+2
+2
+2
+2
+2
+2
+cos
+sin
+i
+i
+v
+x
+A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+But 
+2
+2
+sin
+cos
+1
+
+, then 
+2
+2
+i
+i
+v
+A
+x
+
+
+
+
+
+
+
+
+                                                                                 4.64
+
+--- PAGE 28 ---
+Recall that the period of any simple harmonic oscillator is 
+2
+T
+
+
+and that the 
+frequency is the inverse of the period. Also
+k m
+
+, so the period and the 
+frequency of the spring-block system become 
+ 
+2
+2
+m
+T
+k
+
+
+
+
+
+                                                                                  4.65 
+1
+1
+2
+k
+f
+T
+m
+
+
+
+                                                                                   4.66 
+Equations 4.65 and 4.66 tell us that a large angular frequency and thus a small 
+period go with a stiff spring (i.e. large k) and a light block (small m). 
+Furthermore, the frequency and period are independent of the amplitude of the 
+motion.  
+ 
+Energy in Simple Harmonic Motion 
+We examine the mechanical energy of the block-spring system illustrated in 
+Figure. 4.14. Since the surface is assumed frictionless, it is expected that the total 
+mechanical energy will be constant. The potential energy of a linear oscillator like 
+that of Figure 4.14 is associated entirely with the spring. Its value depends on how 
+much the spring is stretched or compressed, that is, on x .  
+The elastic potential energy stored in the spring of any elongation x is given by 
+2
+1
+2 kx . From Equation 4.51, we have 
+
+
+2
+2
+2
+1
+1
+cos
+2
+2
+U
+kx
+kA
+t
+
+
+
+
+
+                                                             4.67
+
+--- PAGE 29 ---
+The kinetic energy of the system is associated with the block only. Its value 
+depends on how fast the block is moving, that is, on v . From Equation 4.56, the 
+kinetic energy can be expressed as  
+
+
+2
+2
+2
+2
+1
+1
+sin
+2
+2
+K
+mv
+m
+A
+t
+
+
+
+
+
+
+                                                       4.68 
+U and K are always positive quantities. Since
+2
+k m
+
+, the mechanical energy of 
+the simple harmonic oscillator can be expressed as 
+
+
+
+
+2
+2
+2
+1
+sin
+cos
+2
+E
+U
+K
+kA
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    4.69 
+But the identity 
+2
+2
+sin
+cos
+1
+
+
+
+, so that if we let 
+t
+
+
+
+
+
+for the quantity in 
+bracket, then 
+2
+1
+2
+E
+kA
+
+                                                                                                 4.70 
+The mechanical energy of a linear oscillator is indeed constant, independent of 
+time. The total mechanical energy of a simple harmonic oscillator is a 
+constant of the motion and is proportional to the square of the amplitude. 
+Note also that U is small when K is large, and vice versa, because the sum must 
+be constant.  
+m
+A
+x = 0
+t = 0 
+xi = A.   x = A cos t 
+vi = 0 
+Figure 4.14  A block – spring system that starts from rest at  xi = A.  
+In this case  = 0 and thus  x = A cos t.
+
+--- PAGE 30 ---
+The total mechanical energy is equal to the maximum potential energy stored in 
+the spring when x
+A
+
+because
+0
+v 
+at these points and thus there is no kinetic 
+2
+2
+1 kA 
+T/2 
+T
+K. U
+K 
+ 
+U 
+=0 
+K, U 
+0 
+-A 
+A 
+2
+2
+1 kx
+U 
+ 
+2
+2
+1 mv
+K 
+ 
+Figure 4.15  (a) Kinetic energy and potential energy verses time for a simple harmonic 
+oscillator with  = 0. (b)  Kinetic energy and potential energy verses displacement for a 
+simple harmonic oscillator. In either plot, note that K + U = constant 
+(a) 
+(b)
+
+--- PAGE 31 ---
+energy. At the equilibrium position, where 
+0
+U 
+ because
+0
+x 
+, the total energy, 
+all in the form of kinetic energy, is again 
+2
+1
+2 kA .That is  
+2
+2
+2
+2
+2
+max
+1
+1
+1
+1
+2
+2
+2
+2
+k
+E
+mv
+m
+A
+m
+A
+kA
+m
+
+
+
+
+
+                                           4.71 
+when 
+0
+x 
+. 
+Plots of the kinetic and potential energies against time are shown in Figure. 4.15a, 
+with 
+0
+
+. The variations of K and U with the displacement x of the block are 
+plotted in Figure 4.15b. Energy is continuously being transformed between 
+potential energy stored in the spring and kinetic energy of the block. 
+It can now be understood why an oscillating system contains an element of 
+springiness and an element of inertia: it uses the former to store its potential 
+energy and the latter to store its kinetic energy. 
+ 
+Example 4.7 A spring makes 12 vibrations in 40 s. Find the period and frequency 
+of the vibration. 
+ 
+Solution 
+ 
+40
+3.3
+12
+elapsed time
+s
+T
+s
+vibrationsmade
+
+
+
+ 
+ 
+Hz
+s
+f
+30
+.0
+40
+12
+ time
+elapsed
+made
+ 
+vibrations
+
+
+
+ 
+ 
+Example 4.8 When a 400 g mass is hung at the end of a vertical light spring, the 
+spring stretches 35 cm. What is the spring constant, k, and how much further will 
+it stretch if an additional 400 g mass is hung from it?
+
+--- PAGE 32 ---
+Solution 
+ 
+We know that 
+ 
+F
+ky
+
+, since the spring is vertical, where 
+ 
+
+
+
+2
+0.400
+9.8
+3.92
+F
+mg
+kg
+m s
+N
+
+
+
+ so that 
+ 
+3.92
+11.2
+0.35
+F
+N
+k
+N m
+y
+m
+
+
+
+ 
+ 
+With an additional 400 g load, the total force stretching the spring is 2F = 7.84 N. 
+Then 
+7.84
+0.70
+2 35
+11.2
+F
+N
+y
+m
+cm
+k
+N m
+
+
+
+
+ 
+So that each 400 g load stretches the spring by the same amount whether the 
+spring is loaded or not. 
+ 
+Example 4.9 A 200 g mass vibrates horizontally without friction at the end of a 
+horizontal spring for which k = 7.0 N/m. The mass is displaced 5.0 cm from 
+equilibrium and released. Find (a) its maximum speed and (b) its speed when it is 
+3.0 cm from equilibrium. (c) What is its acceleration in each of these cases? 
+ 
+Solution 
+Using the conservation of energy law in this case gives, 
+2
+2
+2
+0
+1
+1
+1
+2
+2
+2
+x
+mv
+kx
+
+
+ , where 
+0
+7.0
+,
+0.050 ,
+k
+N m x
+m
+
+
+ and 
+0.200
+.
+m
+kg
+
+ Then v becomes
+
+--- PAGE 33 ---
+
+
+2
+2
+0
+k
+v
+x
+x
+m
+
+
+ 
+ 
+(a) For maximum speed 
+0
+x 
+; i.e., when the mass is passing through the      
+equilibrium position: 
+     
+
+
+0
+7.0
+0.05
+0.296
+0.200
+k
+N m
+v
+x
+m
+m s
+m
+kg
+
+
+
+ 
+ 
+(b) When 
+0.030
+x
+m
+
+, 
+ 
+     
+
+
+
+
+2
+2
+2
+7.0
+0.050
+0.030
+0.237
+0.200
+N m
+v
+m
+m s
+kg
+
+
+
+
+
+
+
+ 
+ 
+(c) Using F
+ma
+
+and F
+kx
+
+, we have 
+ 
+   
+
+
+2
+35
+k
+a
+x
+s
+x
+m
+
+
+
+ which gives a = 0 when the mass is at 
+0
+x 
+and            
+2
+1.05
+a
+m s
+
+when 
+0.030
+x
+m
+
+ 
+ 
+Example 4.10 A 50 g mass vibrates in S.H.M at the end of a light spring. The 
+amplitude of the motion is 12 cm, and the period is 1.70 s. Find: (a) the frequency, 
+(b) the spring constant, (c) the maximum speed of the mass, (d) the maximum 
+acceleration of the mass, (e) the speed when the displacement is 6 cm, and (f) the 
+acceleration when 
+6
+x
+cm
+
+. 
+ 
+Solution 
+ 
+(a) 
+1
+1
+0.588
+1.70
+z
+f
+H
+T
+s
+
+
+
+
+--- PAGE 34 ---
+(b) We know that 
+2
+T
+m k
+
+
+, so that 
+ 
+
+
+
+
+2
+2
+2
+2
+4
+0.050
+4
+0.68
+1.70
+kg
+m
+k
+N m
+T
+s
+
+
+
+
+
+ 
+ 
+(c) 
+
+
+0
+0
+0.68
+0.12
+0.44
+0.050
+k
+N m
+v
+x
+m
+m s
+m
+kg
+
+
+
+ 
+ 
+(d) From 
+
+
+k
+a
+x
+m
+
+, a has a maximum magnitude when x is maximum, i.e., at 
+the endpoints 
+0
+x
+x
+
+. So that 
+ 
+      
+
+
+2
+0
+0
+0.68
+0.12
+1.63
+0.050
+k
+N m
+a
+x
+m
+m s
+m
+kg
+
+
+
+ 
+ 
+(e) We know 
+
+
+
+2
+2
+0
+,
+k
+v
+x
+x
+m
+
+
+ 
+ 
+      
+
+
+2
+2
+0.68
+0.12
+0.06
+0.38
+0.050
+v
+m s
+
+
+
+ 
+ 
+(f) 
+
+
+2
+0.68
+0.06
+0.82
+0.050
+k
+N m
+a
+x
+m
+m s
+m
+kg
+
+
+
+ 
+ 
+ 
+Example 4.11 A 20 kg electric motor is mounted on four vertical springs, each 
+having a spring constant of30N cm. Find the period with which the motor 
+vibrates vertically.
+
+--- PAGE 35 ---
+Solution 
+The four springs can be replaced by an equivalent spring an its spring constant 
+becomes 
+
+4 3000 N m or 12000N m. Then 
+20
+2
+2
+0.256
+12000
+m
+kg
+T
+s
+k
+N m
+
+
+
+
+
+ 
+ 
+ 
+Pendulums 
+Let us turn now to a class of simple harmonic oscillators in which the springiness 
+is associated with the gravitational force rather than with the elastic properties of a 
+twisted wire or a compressed or stretched spring. 
+ 
+The Simple Pendulum 
+It is another mechanical system that exhibits periodic motion. It consists of a 
+particle-like bob of mass m suspended from an unstretchable, massless string of 
+length L fixed at the upper end as shown Figure 4.16a . The bob is free to swing 
+back and forth in the plane of the page, to the left and right of a vertical line 
+through the point at which the upper end of the string is fixed. The forces acting 
+on the particle, shown in Figure 4.16b are its weight mg and the tension T in the 
+string. The weight can be resolved into a radial component 
+cos
+mg
+and a 
+component 
+sin
+mg
+ tangent to the path taken by the particle. This tangential 
+component is a restoring force, since it always acts opposite the displacement of 
+the particle so as to bring the particle back toward its central location, the 
+equilibrium position (θ = 0), where it would be at rest were it not swinging. 
+We use Newton’s second law to write the restoring force as
+
+--- PAGE 36 ---
+2
+2
+sin
+t
+d s
+F
+mg
+m dt
+
+
+
+                                                                        4.72 
+where s is the bob’s displacement measured along the arc and the minus sign 
+indicates that the tangential force acts toward the equilibrium (vertical) position. 
+Since s
+L
+
+and L is constant, Equation 4.72 reduces to  
+2
+2
+sin
+d
+g
+dt
+L
+
+
+
+                                                                                    4.73 
+For small angles (i.e. sin
+
+
+ ) the equation of motion for the simple pendulum 
+becomes 
+2
+2
+d
+g
+dt
+L
+
+
+
+                                                                                          4.74 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equation 4.74 is in the form of Equation 4.58, and we conclude that the motion 
+for small amplitudes of oscillation is a simple harmonic motion. Therefore, θ can 
+m
+L
+ 
+ 
+    L 
+ 
+ 
+T 
+s=L 
+mg 
+mg sin 
+mg cos 
+ 
+(a) 
+(b) 
+Figure 4.16  (a) A simple pendulum. (b) The forces acting on 
+the bob are its weight mg and the tension T in the string. The 
+tangential component mg sin  of the weight is a restoring 
+force that brings the pendulum back to the central position.
+
+--- PAGE 37 ---
+be written as 
+max cos(
+)
+t
+
+
+
+
+
+
+, where θmax is the maximum angular 
+displacement and the angular frequency ω is 
+g
+L
+
+                                                                                                4.75 
+ 
+The period of the motion of a simple pendulum is 
+2
+2
+L
+T
+g
+
+
+
+
+
+.                                                                                  4.76 
+We see that, the period and frequency of a simple pendulum depend only on the 
+length of the string and the acceleration due to gravity. Because the period is 
+independent of the mass, we conclude that all simple pendulums that are of equal 
+length and are at the same location (so that g is constant) oscillate with the same 
+period. 
+ 
+The conical Pendulum 
+Suppose a small object of mass m is tied to a  
+string OA of length l and then whirled round in 
+ a horizontal circle of radius r ,  
+with O fixed directly above the centre B  
+of the circle as shown in Figure 4.17. 
+ If the circular speed of A is constant,  
+the string turns at a constant angle θ 
+ to the vertical. This is called a conical 
+ pendulum. 
+ 
+T cos  
+T sin  
+A            r              B   
+T
+O 
+ 
+ 
+mg 
+Figure 4.17  Conical pendulum
+
+--- PAGE 38 ---
+Since A moves with a constant speed v in a circle of radius r, there must be a  
+centripetal force,
+2
+mv r , acting towards the centre B. The horizontal component, 
+sin
+T
+, of the tension in the string provides this force along AB. So 
+2
+sin
+mv
+T
+r
+
+                                                                                        4.77 
+Also, since the mass does not move vertically, its weight mg must be 
+counterbalanced by the vertical component 
+cos
+T
+of the tension. So 
+cos
+T
+mg
+
+                                                                                           4.78 
+Dividing Equation 4.77 by Equation 4.78 gives 
+2
+tan
+v
+rg
+
+                                                                                               4.79 
+If a parallel beam of light is used to cast a shadow of the bub A on a screen, the 
+motion of the shadow will be simple harmonic, maximum displacement is r, and 
+r
+v
+
+
+. 
+Example 4.12. A pendulum bob has a mass of 0.5kg. It is suspended by a cord 2 
+m long which is pulled back through an angle of 36.90 and released. Find (a) its 
+maximum potential energy relative to its lowest position, (b) its potential energy 
+when the cord makes an angle of 100 with the vertical, (c) its maximum speed, and 
+(d) its speed when the cord makes an angle of 100 with the vertical. 
+ 
+Solution 
+ 
+(a) PEmax = (0.5 x 9.8)0.4 = 1.96 J 
+(b) When
+
+--- PAGE 39 ---
+(c) At bottom    
+  
+(d)           
+                      
+    
+ 
+ 
+ 
+Projectile Motion 
+Anyone observing the motion of a stone or any object thrown into the air is 
+observing projectile motion. The stone moves in a curved path, and the motion is 
+simple to analyze if two assumptions are made: (1) the acceleration of free-fall g 
+is constant over the range of motion and is directed downward, and (2) the effect 
+of air resistance is negligible. Using these assumptions, it is found that the path of 
+a projectile, also called trajectory, is always a parabola. Projectile motion looks 
+complicated but we have the following simplifying feature: 
+The horizontal motion and vertical motion are independent of each other; that is, 
+neither motion affects the other. 
+To show that the trajectory of a projectile is a parabola, we choose our reference 
+frame such that the y direction is vertical and positive is upward. Neglecting air 
+resistance, we have 
+ya
+g
+
+and that
+0
+xa 
+ (the projectile has no horizontal 
+acceleration). Furthermore, let us assume that at 
+0
+t 
+, the projectile leaves the 
+origin (
+0
+0
+0
+x
+y
+
+
+) with speed 
+0v as shown in Figure 4.18.  
+The vector v0 makes an angle θ0 with the horizontal, where θ0 is the angle at which 
+the projectile leaves the origin. The initial velocity v0 can be written as 
+0
+0
+0
+x
+y
+v
+v
+
+
+v
+i
+j                                                                                    4.80
+
+--- PAGE 40 ---
+The components v0x and v0y can be found if the angle between v0 and the positive 
+x direction θ0 is known: 
+0
+0
+0
+cos
+x
+v
+v
+
+
+  and  
+0
+0
+sin
+y
+o
+v
+v
+
+
+                                                      4.81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As stated earlier for projectile motion, the horizontal motion and vertical motion 
+are independent of each other; that is neither motion has an effect on the other. 
+This allows breaking up a problem involving two-dimensional motion into two 
+separate and easier one-dimensional problems, one for the horizontal motion and 
+one for the vertical motion. 
+ 
+ 
+vy   v 
+ 
+        vx  
+  v     
+ 
+vy=0 
+      vx           
+                
+vy        v       
+          vx         
+                      
+vy            v     
+                      
+           vx           
+                           
+  vy                v          
+y 
+x 
+                      
+    voy       vo      
+                       
+                  
+           vox        
+R 
+Figure 4.18  The path of a projectile that is launched at xo = 0 and yo = 0, with an 
+initial velocity vo. The initial velocity and the velocities at various points along 
+its path are shown, along with their components. Note that the horizontal velocity 
+component remains constant but the vertical velocity component  changes 
+continuously. The range R  is the horizontal distance the projectile has traveled 
+when it returns to its launch height.
+
+--- PAGE 41 ---
+Analysis of projectile motion 
+The Horizontal motion 
+Since there is no acceleration in the horizontal direction, the horizontal 
+component
+ox
+v
+ of the projectile’s initial velocity remains unchanged throughout 
+the motion. The horizontal displacement 
+0
+x
+x
+
+from an initial position 
+ox is given 
+as 
+0
+0x
+x
+x
+v t
+
+
+                                                                                          4.82 
+since
+0
+a 
+. 
+But 
+0
+0
+0
+cos
+x
+v
+v
+
+
+, so that 
+
+
+0
+0
+0
+cos
+x
+x
+v
+t
+
+
+
+                                                                               4.83 
+ 
+The vertical motion 
+The vertical motion is the motion for a particle in free fall, i.e.  
+2
+0
+0
+1
+2
+y
+y
+y
+v t
+gt
+
+
+
+ 
+           
+
+2
+0
+0
+1
+sin
+2
+v
+t
+gt
+
+
+
+                                                                    4.84 
+where the initial vertical velocity component 
+0 y
+v
+is replaced with the 
+equivalent
+sin
+o
+o
+
+v
+. 
+ 
+The equation of the path  
+To find the equation of the path (the trajectory) of the projectile, eliminate t 
+between Equations 4.83 and 4.84. Solve Equation 4.83 for t and substitute into 
+Equation 4.84 and obtain after a little rearrangement,
+
+--- PAGE 42 ---
+
+
+
+
+2
+0
+2
+0
+0
+tan
+2
+cos
+gx
+y
+x
+v
+
+
+
+
+                                                                  4.85 
+This is the equation of the path shown in Figure 4.18. 
+For simplicity in the derivation, we let 
+0
+ox 
+ and 
+0
+oy 
+ in Equations 4.83 and 
+4.84, respectively. Since g , 
+o
+, and 
+ov are constants, Equation 4.85 is of the form 
+2
+y
+ax
+bx
+
+
+, in which a and b are constants. This is the equation of a parabola, so 
+the path is parabolic. 
+ 
+The Horizontal Range 
+The horizontal range R of the projectile is the horizontal distance the projectile 
+has traveled when it returns to its initial (launch) height as shown in Figure 4.18. 
+To find the range R of the projectile, put 
+0
+x
+x
+R
+
+
+ in Equation 4.83 and 
+0
+0
+y
+y
+
+
+ in Equation 4.84, obtaining 
+0
+0
+0
+(
+cos
+)
+x
+x
+v
+t
+R
+
+
+
+
+                                                                           4.86 
+and 
+
+
+2
+0
+0
+0
+1
+sin
+0
+2
+y
+y
+v
+t
+gt
+
+
+
+
+
+                                                               4.87 
+Eliminating t between Equations 4.86 and 4.87 yields 
+2
+0
+0
+0
+2
+sin
+cos
+v
+R
+g
+
+
+
+                                                                                 4.88 
+Using the identity 
+0
+0
+0
+sin 2
+2sin
+cos
+
+
+
+
+ we obtain 
+2
+0
+0
+sin 2
+v
+R
+g
+
+
+                                                                                          4.89
+
+--- PAGE 43 ---
+Note that R has a maximum value when 
+0
+sin 2
+1
+, which corresponds to 
+2
+90
+o
+
+ or 
+0
+45
+o
+
+. 
+The horizontal range R is a maximum for a launch angle of 450. 
+We have assumed throughout that the air through which the projectile moves has 
+no effect on its motion, which is a reasonable assumption at low speeds. However, 
+at higher speeds, the disagreement between our calculations and the actual motion 
+of the projectile can be large because of air resistance offered to the motion. 
+ 
+Example 4.13. A marble with speed 20 cm/s rolls off the edge of a table 80 cm 
+high. How long does it take to drop to the floor? How far, horizontally, from the 
+table edge does the marble strike the floor? 
+ 
+Solution 
+Choose downward as positive with origin at edge of table top. 
+ 
+To find time of fall, 
+, or 80 cm
+; t = 0.40 s. 
+The horizontal distance is gotten from 
+. 
+ 
+Example 4.14. A marble traveling at 100 cm/s rolls off the edge of a level table. If 
+it hits the floor 30 cm away from the spot directly below the edge of the table, 
+how high is the table? 
+ 
+Solution 
+This is a projectile problem with vox = 100 cm/s. For the horizontal motion:
+
+--- PAGE 44 ---
+For the vertical motion: 
+ 
+ 
+Example 4.15. A golf ball leaves the golf club at an angle of 600 above the 
+horizontal with a velocity of 30 m/s. (a) How high does it go? (b) Assuming a 
+level fairway, determine how far away it hits the ground. 
+ 
+Solution 
+(a) Taking up as positive, 
+ and, at maximum height, 
+vy equals zero. Thus, 
+ 
+(b)

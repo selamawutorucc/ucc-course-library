@@ -1,0 +1,5416 @@
+
+--- PAGE 1 ---
+584 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+11 
+Angular Momentum 
+ 
+CHAPTER OUTLINE 
+ 
+11.1 
+The Vector Product and Torque 
+11.2 
+Analysis Model: Nonisolated System (Angular Momentum) 
+11.3 
+Angular Momentum of a Rotating Rigid Object 
+11.4 
+Analysis Model: Isolated System (Angular Momentum) 
+11.5 
+The Motion of Gyroscopes and Tops 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ11.1 
+Answer (b). Her angular momentum stays constant as I is cut in half 
+and  ω doubles. Then 1
+2 Iω 2  doubles. 
+OQ11.2 
+The angular momentum of the mouse-turntable system is initially 
+zero, with both at rest. The frictionless axle isolates the mouse-
+turntable system from outside torques, so its angular momentum 
+must stay constant with the value of zero. 
+ 
+(i) 
+Answer (a). The mouse makes some progress north, or 
+counterclockwise. 
+ 
+(ii) Answer (b). The turntable will rotate clockwise. The turntable 
+rotates in the direction opposite to the motion of the mouse, for 
+the angular momentum of the system to remain zero. 
+ 
+(iii) No. Mechanical energy changes as the mouse converts some 
+chemical into mechanical energy, positive for the motions of 
+both the mouse and the turntable. 
+ 
+(iv) No. Linear momentum is not conserved. The turntable has zero 
+momentum while the mouse has a bit of northward momentum. 
+Initially, momentum is zero; later, when the mouse moves
+
+--- PAGE 2 ---
+Chapter 11     585 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+north, the fixed axle prevents the turntable from moving south. 
+ 
+(v) Yes. Angular momentum is constant, with the value of zero. 
+OQ11.3 
+(i) Answer (a), (ii) Answer (e), (3 m, down) × (2 N, toward you) =  
+6 N · m, left 
+OQ11.4 
+Answer c = e > b = d > a = 0. The unit vectors have magnitude 1, so 
+the magnitude of each cross product is |1 · 1 · sin θ| where θ is the 
+angle between the factors. Thus for (a) the magnitude of the cross 
+product is sin 0° = 0. For (b), |sin 135°| = 0.707, (c) sin 90° = 1, (d) sin 
+45° = 0.707, (e) sin 90° = 1. 
+OQ11.5 
+(a) No. (b) No. An axis of rotation must be defined to calculate the 
+torque acting on an object. The moment arm of each force is 
+measured from the axis, so the value of the torque depends on the 
+location of the axis. 
+OQ11.6 
+(i) 
+Answer (e). Down–cross–left is away from you: −ˆj × −ˆi
+( ) = −ˆk , 
+as in the first picture. 
+ 
+(ii) Answer (d). Left–cross–down is toward you: −ˆi × −ˆj
+( ) = ˆk , as in 
+the second picture. 
+ 
+ 
+ANS FIG. OQ11.6 
+OQ11.7 
+(i) 
+Answer (a). The angular momentum is constant. The moment of 
+inertia decreases, so the angular speed must increase. 
+ 
+(ii) No. Mechanical energy increases. The ponies must do work to 
+push themselves inward. 
+ 
+(iii) Yes. Momentum stays constant, with the value of zero. 
+ 
+(iv) Yes. Angular momentum is constant with a nonzero value. No 
+outside torque can influence rotation about the vertical axle. 
+OQ11.8 
+Answer (d). As long as no net external force, or torque, acts on the 
+system, the linear and angular momentum of the system are 
+constant.
+
+--- PAGE 3 ---
+586     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ11.1 
+The star is isolated from any outside torques, so its angular 
+momentum is conserved as it changes size. As the radius of the star 
+decreases, its moment of inertia decreases, resulting in its angular 
+speed increasing. 
+CQ11.2 
+The suitcase might contain a spinning gyroscope. If the gyroscope is 
+spinning about an axis that is oriented horizontally passing through 
+the bellhop, the force he applies to turn the corner results in a torque 
+that could make the suitcase swing away. If the bellhop turns quickly 
+enough, anything at all could be in the suitcase and need not be 
+rotating. Since the suitcase is massive, it will tend to follow an 
+inertial path. This could be perceived as the suitcase swinging away 
+by the bellhop. 
+CQ11.3 
+The long pole has a large moment of inertia about an axis along the 
+rope. An unbalanced torque will then produce only a small angular 
+acceleration of the performer-pole system, to extend the time 
+available for getting back in balance. To keep the center of mass 
+above the rope, the performer can shift the pole left or right, instead 
+of having to bend his body around. The pole sags down at the ends 
+to lower the system’s center of gravity. 
+CQ11.4 
+(a) 
+Frictional torque arises from kinetic friction between the inside 
+of the roll and the child’s fingers. As with all friction, the 
+magnitude of the friction depends on the normal force between 
+the surfaces in contact. As the roll unravels, the weight of the 
+roll decreases, leading to a decrease in the frictional force, and, 
+therefore, a decrease in the torque. 
+ 
+(b) As the radius R of the paper roll shrinks, the roll’s angular 
+speed ω = v
+R must increase because the speed v is constant. 
+ 
+(c) 
+If we think of the roll as a uniform disk, then its moment of 
+inertia is I = 1
+2 MR2. But the roll’s mass is proportional to its 
+base area πR2; therefore, the moment of inertia is proportional 
+to R
+4. The moment of inertia decreases as the roll shrinks. When 
+the roll is given a sudden jerk, its angular acceleration may not 
+be great enough to set the roll moving in step with the paper, so 
+the paper breaks. The roll is most likely to break when its radius 
+is large, when its moment of inertia is large, than when its 
+radius is small, when its moment of inertia is small.
+
+--- PAGE 4 ---
+Chapter 11     587 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ11.5 
+Work done by a torque results in a change in rotational kinetic 
+energy about an axis. Work done by a force results in a change in 
+translational kinetic energy. Work by either has the same units:  
+ 
+ 
+ 
+W = FΔx = N
+[
+] m
+[
+]= N⋅m = J  
+ 
+ 
+ 
+W = τΔθ = N⋅m
+[
+] rad
+[
+] = N⋅m = J 
+CQ11.6 
+Suppose we look at the motorcycle moving to the right. Its drive 
+wheel is turning clockwise. The wheel speeds up when it leaves the 
+ground. No outside torque about its center of mass acts on the 
+airborne cycle, so its angular momentum is conserved. As the drive 
+wheel’s clockwise angular momentum increases, the frame of the 
+cycle acquires counterclockwise angular momentum. The cycle’s 
+front end moves up and its back end moves down. 
+CQ11.7 
+Its angular momentum about that axis is constant in time. You 
+cannot conclude anything about the magnitude of the angular 
+momentum. 
+CQ11.8 
+No. The angular momentum about any axis that does not lie along 
+the instantaneous line of motion of the ball is nonzero. 
+CQ11.9 
+The Earth is an isolated system, so its angular momentum is 
+conserved when the distribution of its mass changes. When its mass 
+moves away from the axis of rotation, its moment of inertia increases, 
+its angular speed decreases, so its period increases. Most of the mass 
+of Earth would not move, so the effect would be small: we would not 
+have more hours in a day, but more nanoseconds. 
+CQ11.10 
+As the cat falls, angular momentum must be conserved. Thus, if the 
+upper half of the body twists in one direction, something must get an 
+equal angular momentum in the opposite direction. Rotating the 
+lower half of the body in the opposite direction satisfies the law of 
+conservation of angular momentum. 
+CQ11.11 
+Energy bar charts are useful representations for keeping track of the 
+various types of energy storage in a system: translational and 
+rotational kinetic energy, various types of potential energy, and 
+internal energy. However, there is only one type of angular 
+momentum. Therefore, there is no need for bar charts when 
+analyzing a physical situation in terms of angular momentum.
+
+--- PAGE 5 ---
+588     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 11.1 
+The Vector Product and Torque 
+P11.1 
+
+M ×
+
+N =
+ˆi
+ˆj
+ˆk
+2
+−3
+1
+4
+5
+−2
+= ˆi(6 −5) −ˆj(−4 −4) + ˆk(10 + 12) = ˆi + 8.00ˆj + 22.0 ˆk 
+P11.2 
+(a) 
+area =
+
+A ×
+
+B = ABsinθ = 42.0 cm
+(
+) 23.0 cm
+(
+)sin 65.0° −15.0°
+(
+)
+= 740 cm2
+ 
+ 
+(b) The longer diagonal is equal to the sum of the two vectors. 
+ 
+ 
+ 
+
+A +
+
+B = [(42.0 cm)cos15.0° +(23.0 cm)cos65.0°]ˆi
+                      +[(42.0 cm)]sin 15.0° +(23.0 cm)sin65.0°]ˆj
+ 
+ 
+ 
+ 
+
+A +
+
+B = 50.3 cm
+(
+)ˆi + 31.7 cm
+(
+)ˆj
+length =
+
+A +
+
+B =
+50.3 cm
+(
+)
+2 + 31.7 cm
+(
+)
+2 = 59.5 cm
+ 
+P11.3 
+We take the cross product of each term of 
+
+A with each term of 
+
+B, 
+using the cross-product multiplication table for unit vectors. Then we 
+use the identification of the magnitude of the cross product as  
+AB sin θ to find θ. We assume the data are known to three significant 
+digits. 
+ 
+(a) 
+We use the definition of the cross product and note that 
+ˆi × ˆi = ˆj× ˆj = 0:  
+ 
+ 
+ 
+ 
+
+A ×
+
+B = 1ˆi + 2ˆj
+(
+)× 2ˆi + 3ˆj
+(
+)
+
+A ×
+
+B = 2ˆi × ˆi + 3ˆi × ˆj−4ˆj× ˆi + 6ˆj× ˆj
+= 0 + 3ˆk −4 −ˆk
+(
+)+ 0 = 7.00ˆk
+ 
+ 
+ 
+ 
+(b) Since 
+
+A ×
+
+B = ABsinθ, we have 
+ 
+ 
+ 
+ 
+θ = sin−1
+
+A ×
+
+B
+AB
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= sin−1
+7
+12 + 22
+22 + 32
+⎛
+⎝⎜
+⎞
+⎠⎟= 60.3°
+
+--- PAGE 6 ---
+Chapter 11     589 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.4 
+ˆi × ˆi = 1⋅1⋅sin0° = 0 
+ 
+ˆj × ˆj and ˆk × ˆk are zero 
+similarly since the vectors 
+being multiplied are parallel. 
+ 
+ˆi × ˆj = 1⋅1⋅sin90° = 1 
+ 
+P11.5 
+We first resolve all of 
+the forces shown in 
+Figure P11.5 into 
+components parallel to 
+and perpendicular to 
+the beam as shown in 
+ANS. FIG. P11.5. 
+ 
+(a) 
+The torque about an axis 
+through point O is given by 
+ 
+ 
+ 
+τ O = + 25 N
+(
+)cos30°
+[
+⎤⎦2.0 m
+(
+)
+                        −
+10 N
+(
+)sin20
+[
+]° 4.0 m
+(
+) = +30 N ⋅m
+ 
+ 
+ 
+or 
+τ 0 = 30 N ⋅m counterclockwise 
+ 
+(b) The torque about an axis through point C is given by 
+ 
+ 
+ 
+τ C = +
+30 N
+(
+)sin 45°
+⎡⎣
+⎤⎦(2.0 m)
+                   −
+10 N
+(
+)sin 20°
+⎡⎣
+⎤⎦(2.0 m) = +36 N⋅m
+ 
+ 
+ 
+or 
+τ C = 36 N⋅m counterclockwise 
+P11.6 
+
+A ⋅
+
+B = −3.00 6.00
+(
+) + 7.00 −10.0
+(
+) + −4.00
+(
+) 9.00
+(
+)
+= −124
+ 
+ 
+ 
+AB =
+−3.00
+(
+)
+2 + 7.00
+(
+)
+2 + −4.00
+(
+)
+2 ⋅
+6.00
+(
+)
+2 + −10.0
+(
+)
+2 + 9.00
+(
+)
+2
+= 127
+ 
+ 
+(a) 
+cos−1
+
+A ⋅
+
+B
+AB
+⎛
+⎝⎜
+⎞
+⎠⎟= cos−1 −0.979
+(
+) = 168° 
+ANS. FIG. P11.4 
+ANS. FIG. P11.5
+
+--- PAGE 7 ---
+590     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+
+A ×
+
+B =
+ˆi
+ˆj
+ˆk
+−3.00
+7.00
+−4.00
+6.00
+−10.0
+9.00
+= 23.0ˆi + 3.00ˆj −12.0 ˆk 
+ 
+ 
+
+A ×
+
+B =
+23.0
+(
+)
+2 + 3.00
+(
+)
+2 + −12.0
+(
+)
+2 = 26.1
+sin−1
+
+A ×
+
+B
+AB
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= sin−1 0.206
+(
+) = 11.9°
+or 168°
+ 
+ 
+(c) 
+Only the first method gives the angle between the vectors 
+unambiguously because sin(180° – θ ) = sin θ  but cos (180° – θ )  
+= – cos θ ; in other words, the vectors can only be at most 180° 
+apart and using the second method cannot distinguish θ from 
+180° – θ. 
+P11.7 
+We are given the condition 
+
+A ×
+
+B =
+
+A ⋅
+
+B.
+ 
+ 
+This says that  ABsinθ = ABcosθ  
+ 
+so  tanθ = 1 
+ 
+θ = 45.0° satisfies this condition.  
+P11.8 
+(a) 
+The torque acting on the particle about the origin is  
+ 
+ 
+ 
+τ = r ×
+
+F =
+ˆi
+ˆj
+ˆk
+4
+6
+0
+3
+2
+0
+= ˆi 0 −0
+(
+)−ˆj 0 −0
+(
+)+ ˆk 8 −18
+(
+)
+=
+−10.0 N⋅m
+(
+) ˆk
+ 
+ 
+(b) 
+Yes. The point or axis must be on the other side of the line of
+action of the force, and half as far from this line along which
+the force acts. Then the lever arm of the force about this new
+axis will be half as large and the force will produce counter-
+clockwise instead of clockwise torque.
+ 
+ 
+(c) 
+Yes. There are infinitely many such points, along a line that
+passes through the point described in (b) and parallel the
+line of action of the force.
+ 
+ 
+(d) 
+Yes, at the intersection of the line described in (c) and the y axis.
+
+--- PAGE 8 ---
+Chapter 11     591 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+No, because there is only one point of intersection of the line
+described in (d) with the y axis.
+ 
+ 
+(f) 
+Let (0, y) represent the coordinates of the special axis of rotation 
+located on the y axis of Cartesian coordinates. Then the 
+displacement from this point to the particle feeling the force is 
+rnew = 4ˆi + (6 −y)ˆj in meters. The torque of the force about this 
+new axis is 
+ 
+ 
+ 
+τ new = rnew ×
+
+F =
+ˆi
+ˆj
+ˆk
+4
+6 −y
+0
+3
+2
+0
+= ˆi 0 −0
+(
+)−ˆj 0 −0
+(
+)+ ˆk 8 −18 + 3y
+(
+)
+= +5 N⋅m
+(
+) ˆk
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+8 −18 + 3y = 5     →     3y = 15     →     y = 5 
+ 
+ 
+The position vector of the new axis is 5.00ˆj m . 
+P11.9 
+(a) 
+The lever arms of the forces about O are all the same, equal to 
+length OD, L. 
+ 
+ 
+If 
+F3 has a magnitude 
+
+F3 =
+
+F1 +
+
+F2
+, the net torque is zero: 
+ 
+ 
+ 
+τ
+∑
+= F1L + F2L −F3L = F1L + F2L −F1 + F2
+(
+)L = 0 
+ 
+(b) The torque produced by 
+F3 depends on the perpendicular 
+distance OD, therefore translating the point of application of 
+F3 to 
+any other point along BC will not change the net torque . 
+ 
+ANS. FIG. P11.9
+
+--- PAGE 9 ---
+592     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.10 
+(a) 
+No. 
+ 
+(b) The cross-product vector must be perpendicular to both of the 
+factors, so its dot product with either factor must be zero. To 
+check: 
+ 
+ 
+ 
+2ˆi −3ˆj+ 4 ˆk
+(
+)⋅4ˆi + 3ˆj−ˆk
+(
+) = ˆi⋅ˆi
+(
+)8 + −9 ˆj⋅ˆj
+(
+)−4 ˆk⋅ˆk
+(
+)
+= 8 −9 −4 = −5
+ 
+ 
+ 
+The answer is not zero. 
+ 
+ 
+No.  The cross product could not work out that way. 
+ 
+ 
+ 
+Section 11.2 
+Analysis Model: Nonisolated System  
+(Angular Momentum) 
+P11.11 
+Taking the geometric center of the compound object to be the pivot, 
+the angular speed and the moment of inertia are 
+ 
+ 
+ 
+ω = v/r = (5.00 m/s)/0.500 m = 10.0 rad/s 
+ 
+ 
+and   
+ 
+ 
+ 
+I =
+mr2
+∑
+= 4.00 kg
+(
+) 0.500 m
+(
+)
+2 + 3.00 kg
+(
+) 0.500 m
+(
+)
+2
+= 1.75 kg · m2
+  
+ 
+By the right-hand rule, we find that the angular velocity is directed out 
+of the plane. So the object’s angular momentum, with magnitude 
+ 
+ 
+ 
+L = Iω = 1.75 kg ⋅m2
+(
+)(10.0 rad/s) 
+ 
+is the vector 
+ 
+ 
+ 
+ 
+
+L = 17.5 kg ⋅m2/s
+(
+) ˆk 
+ 
+ 
+ 
+ANS. FIG. P11.11
+
+--- PAGE 10 ---
+Chapter 11     593 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.12 
+We use 
+
+L = r × p: 
+ 
+ 
+
+L = 1.50ˆi + 2.20ˆj
+(
+) m × 1.50 kg
+(
+) 4.20ˆi −3.60ˆj
+(
+) m/s
+
+L = −8.10 ˆk −13.9 ˆk
+(
+) kg ⋅m2/s =
+−22.0 kg ⋅m2/s
+(
+) ˆk
+ 
+P11.13 
+We use 
+
+L = r × p: 
+ 
+ 
+
+L =
+ˆi
+ˆj
+ˆk
+x
+y
+0
+mvx
+mvy
+0
+= ˆi 0 −0
+(
+) −ˆj 0 −0
+(
+) + ˆk mxvy −myvx
+(
+)
+
+L = m xvy −yvx
+(
+) ˆk
+ 
+P11.14 
+Whether we think of the Earth’s surface as curved or flat, we interpret 
+the problem to mean that the plane’s line of flight extended is precisely 
+tangent to the mountain at its peak, and nearly parallel to the wheat 
+field. Let the positive x direction be eastward, positive y be northward, 
+and positive z be vertically upward. 
+ 
+(a) 
+r = 4.30 km
+(
+) ˆk = 4.30 × 103 m
+(
+) ˆk 
+ 
+ 
+p = mv = 12 000 kg
+(
+) −175ˆi m/s
+(
+) = −2.10 × 106ˆi kg ⋅m/s
+
+L = r × p = 4.30 × 103 ˆk m
+(
+) × −2.10 × 106ˆi kg ⋅m/s
+(
+)
+=
+−9.03 × 109 kg ⋅m2/s
+(
+)ˆj
+ 
+ 
+(b) 
+No. L = r p sinθ = mv r sinθ
+(
+), and r sin θ is the altitude of the 
+plane. Therefore, L = constant as the plane moves in level flight 
+with constant velocity. 
+ 
+(c) 
+Zero. The position vector from Pike’s Peak to the plane is anti-
+parallel to the velocity of the plane. That is, it is directed along the 
+same line and opposite in direction. Thus, L = mvr sin 180° = 0. 
+P11.15 
+(a) 
+Zero because 
+
+L = r × p and r = 0. 
+ 
+(b) At the highest point of the trajectory, 
+ 
+ 
+ 
+x = 1
+2 R = vi
+2 sin2θ
+2g
+ and 
+ 
+ 
+ 
+y = hmax = vi sinθ
+(
+)
+2
+2g
+
+--- PAGE 11 ---
+594     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angular momentum is then 
+ 
+ 
+ 
+
+L1 = r1 × mv1
+=
+vi
+2 sin2θ
+2g
+ˆi + vi sinθ
+(
+)
+2
+2g
+ˆj
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+× mvxiˆi
+=
+−mvi
+3 sinθ 2 cosθ
+2g
+ˆk
+ 
+ 
+ANS. FIG. P11.15 
+ 
+(c) 
+
+L2 = Rˆi × mv2, where R = vi
+2 sin2θ
+g
+= vi
+2 2sinθ cosθ
+(
+)
+g
+= mRˆi × vi cosθ ˆi −vi sinθ ˆj
+(
+)
+= −mRvi sinθ ˆk =
+−2mvi
+3 sinθ sinθ
+g
+ˆk
+ 
+ 
+(d) 
+The downward force of gravity exerts a torque 
+in the −z direction.
+ 
+P11.16 
+We start with the particle under a net force model 
+in the x and y directions: 
+ 
+ 
+ 
+Fx
+∑
+= max:          T sinθ = mv2
+r
+ 
+ 
+ 
+ 
+ 
+Fy
+∑
+= may:          T cosθ = mg 
+ 
+ 
+So 
+ 
+sinθ
+cosθ = v2
+rg    and    v =
+rg sinθ
+cosθ 
+ 
+then  
+ 
+L = rmvsin90.0° = rm rg sinθ
+cosθ =
+m2gr3 sinθ
+cosθ 
+ 
+and since r = sinθ, 
+ 
+ 
+ 
+ 
+L =
+m2g3 sin4θ
+cosθ
+ 
+ANS. FIG. P11.16
+
+--- PAGE 12 ---
+Chapter 11     595 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.17 
+The angular displacement of the particle around the circle is 
+θ = ωt = vt
+R . 
+ 
+The vector from the center of the circle to the mass is then  
+ 
+Rcosθ ˆi + Rsinθ ˆj,  where R is measured from the +x axis. 
+ 
+The vector from point P to the mass is 
+ 
+ 
+ 
+ 
+r = Rˆi + Rcosθ ˆi + Rsinθ ˆj
+r = R
+1+ cos vt
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi + sin vt
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+The velocity is 
+ 
+ 
+ 
+ 
+v = dr
+dt = −vsin vt
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi + vcos vt
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj 
+ 
+So 
+ 
+
+L = r × mv
+
+L = mvR
+1+ cosωt
+(
+)ˆi + sinωtˆj
+⎡⎣
+⎤⎦× −sinωtˆi + cosωtˆj
+⎡⎣
+⎤⎦
+
+L = mvR cos vt
+R
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+⎡
+⎣⎢
+⎤
+⎦⎥ˆk
+ 
+P11.18 
+(a) 
+The net torque on the counterweight-cord-spool system is 
+ 
+ 
+ 
+ 
+τ = r ×
+
+F = Rmgsinθ
+τ = 8.00 × 10−2 m 4.00 kg
+(
+) 9.80 m/s2
+(
+)sin90.0° = 3.14 N ⋅m
+ 
+ 
+(b) 
+L =
+r × mi
+vi
+i∑
+= Rmv + RMv = R m+ M
+(
+)v
+L = 0.080 0 m
+(
+) 4.00 kg + 2.00 kg
+(
+)v = (0.480 kg⋅m)v
+ 
+ 
+(c) 
+τ = dL
+dt = 0.480 kg⋅m
+(
+)a     →     a = 3.14 N⋅m
+0.480 kg⋅m = 6.53 m/s2 
+ 
+P11.19 
+Differentiating r = 6.00ˆi + 5.00tˆj m
+(
+) with respect to time gives  
+ 
+ 
+ 
+v = dr
+dt = 5.00ˆj m/s 
+ 
+so 
+ 
+p = mv = 2.00 kg
+(
+) 5.00ˆj m/s
+(
+) = 10.0ˆj kg ⋅m/s
+
+--- PAGE 13 ---
+596     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and  
+
+L = r × p =
+ˆi
+ˆj
+ˆk
+6.00
+5.00t
+0
+0
+10.0
+0
+=
+60.0 kg ⋅m2/s
+(
+) ˆk 
+P11.20 
+(a) 
+dr
+0
+r∫
+=
+vdt = 
+0
+t∫
+r −0 =
+(6t2ˆi + 2tˆj)dt = r =
+0
+t∫
+ 6t3/3
+(
+)ˆi + 2t2/2
+(
+)ˆj 
+ 
+ 
+ 
+= 2t3ˆi + t2ˆj in meters, where t is in seconds. 
+ 
+(b) 
+The particle starts from rest at the origin, starts moving into
+the first quadrant, and gains speed faster and faster while
+turning to move more and more nearly parallel to the x axis.
+ 
+ 
+(c) 
+a = (dv/dt) = (d/dt)(6t2 ˆi + 2tˆj) = (12t ˆi + 2 ˆj) m/s2 
+ 
+(d) 
+
+F = ma = (5 kg)(12t ˆi + 2 ˆj) m/s2 = (60t ˆi + 10 ˆj) N 
+ 
+(e) 
+τ = r ×
+
+F = (2t3ˆi + t2ˆj)×(60tˆi + 10ˆj) = 20t3 ˆk −60t3 ˆk
+= −40t3 ˆk N⋅m
+ 
+ 
+(f) 
+
+L = r × mv = (5 kg)(2t3ˆi + t2ˆj)×(6t2ˆi + 2tˆj) = 5(4t4 ˆk −6t4 ˆk)
+= −10t4 ˆk kg⋅m2/s
+ 
+ 
+(g) 
+K = 1
+2 mv ⋅v = 1
+2 (5 kg)(6t2ˆi + 2tˆj)⋅(6t2ˆi + 2tˆj) = (2.5)(36t4 + 4t2)
+= (90t4 + 10t2) J
+ 
+ 
+(h) 
+P = (d/dt)(90t4 + 10t2) J = (360t3 + 20t) W , all where t is in 
+seconds. 
+P11.21 
+(a) 
+The vector from P to the falling ball is 
+ 
+ 
+ 
+r = ri + vit + 1
+2
+at2
+r = cosθ ˆi + sinθ ˆj
+(
+) + 0 −
+1
+2 gt2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj
+ 
+ 
+The velocity of the ball is 
+ 
+ 
+ 
+v = vi + at = 0 −gtˆj 
+ 
+So 
+ 
+
+L = r × mv 
+ANS. FIG. P11.21
+
+--- PAGE 14 ---
+Chapter 11     597 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+
+L = m
+cosθ ˆi + sinθ ˆj
+(
+) + 0 −
+1
+2 gt2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj
+⎡
+⎣⎢
+⎤
+⎦⎥× −gtˆj
+(
+) 
+ 
+ 
+ 
+
+L = −mgt cosθ ˆk 
+ 
+(b) 
+The Earth exerts a gravitational torque on the projectile in the
+negative z direction.
+ 
+ 
+(c) 
+Differentiating with respect to time, we have −mgcosθ ˆk for 
+the rate of change of angular momentum, which is also the torque 
+due to the gravitational force on the ball. 
+ 
+ 
+ 
+Section 11.3 
+Angular Momentum of a Rotating Rigid Object 
+P11.22 
+The moment of inertia of the sphere about an axis through its center is 
+ 
+ 
+ 
+I = 2
+5 MR2 = 2
+5 15.0 kg
+(
+) 0.500 m
+(
+)
+2 = 1.50 kg ⋅m2 
+ 
+Therefore, the magnitude of the angular momentum is 
+ 
+ 
+ 
+L = Iω = 1.50 kg ⋅m2
+(
+) 3.00 rad/s
+(
+) = 4.50 kg ⋅m2/s 
+ 
+Since the sphere rotates counterclockwise about the vertical axis, the 
+angular momentum vector is directed upward in the +z direction. 
+ 
+Thus, 
+ 
+ 
+ 
+
+L = 4.50 kg ⋅m2/s
+(
+) ˆk 
+P11.23 
+The total angular momentum about the center point is given by  
+ 
+ 
+L = Ihω h + Imωm 
+ 
+For the hour hand: 
+Ih = mhLh
+2
+3
+= 60.0 kg 2.70 m
+(
+)
+2
+3
+= 146 kg ⋅m2 
+ 
+For the minute hand:  
+Im = mmLm
+2
+3
+= 100 kg 4.50 m
+(
+)
+2
+3
+= 675 kg ⋅m2 
+ 
+In addition, 
+ω h = 2π rad
+12 h
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.45 × 10−4 rad/s 
+ 
+while 
+ωm = 2π rad
+1 h
+1 h
+3600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.75 × 10−3 rad/s
+
+--- PAGE 15 ---
+598     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, 
+L = 146 kg ⋅m2
+(
+) 1.45 × 10−4 rad s
+(
+)
+                          + 675 kg ⋅m2
+(
+) 1.75 × 10−3 rad/s
+(
+)
+ 
+ 
+or L = 1.20 kg ⋅m2/s . The hands turn clockwise, so their vector 
+angular momentum is perpendicularly into the clock face. 
+P11.24 
+We begin with  
+ 
+ 
+ 
+K = 1
+2 Iω 2 
+ 
+And multiply the right-hand side by I
+I :  
+ 
+ 
+ 
+K = 1
+2 Iω 2 = 1
+2
+I 2ω 2
+I
+ 
+ 
+Substituting L = Iω then gives 
+ 
+ 
+ 
+K = 1
+2 Iω 2 = 1
+2
+I 2ω 2
+I
+= L2
+2I
+ 
+P11.25 
+(a) 
+For an axis of rotation passing through the center of mass, the 
+magnitude of the angular momentum is given by 
+ 
+ 
+ 
+L = Iω =
+1
+2 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω = 1
+2 3.00 kg
+(
+) 0.200 m
+(
+)
+2 6.00 rad/s
+(
+)
+= 0.360 kg⋅m2/s
+ 
+ 
+(b) For a point midway between the center and the rim, we use the 
+parallel-axis theorem to find the moment of inertia about this 
+point. Then, 
+ 
+ 
+ 
+L = Iω =
+1
+2 MR2 + M R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ω
+= 3
+4 3.00 kg
+(
+) 0.200 m
+(
+)
+2 6.00 rad/s
+(
+) = 0.540 kg ⋅m2/s
+ 
+P11.26 
+(a) 
+Modeling the Earth as a sphere, we first calculate its moment of 
+inertia about its rotation axis. 
+ 
+ 
+ 
+I = 2
+5 MR2 = 2
+5 5.98 × 1024 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+= 9.71× 1037 kg⋅m2
+
+--- PAGE 16 ---
+Chapter 11     599 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Completing one rotation in one day, Earth’s rotational angular 
+speed is 
+ 
+ 
+ 
+ω = 1 rev
+24 h = 2π rad
+86 400 s = 7.27 × 105 s−1  
+ 
+ 
+the rotational angular momentum of the Earth is then 
+ 
+ 
+ 
+L = Iω = 9.71× 1037 kg⋅m2
+(
+) 7.27 × 105 s−1
+(
+)
+= 7.06 × 1033 kg⋅m2/s
+ 
+ 
+ 
+The Earth turns toward the east, counterclockwise as seen from 
+above north, so the vector angular momentum points north along 
+the Earth’s axis, towards the north celestial pole or nearly toward 
+the star Polaris. 
+ 
+(b) In this case, we model the Earth as a particle, with moment of 
+inertia 
+ 
+ 
+ 
+I = MR2 = 5.98 × 1024 kg
+(
+) 1.496 × 1011 m
+(
+)
+2
+= 1.34 × 1047 kg⋅m2
+  
+ 
+ 
+Completing one orbit in one year, Earth’s orbital angular speed is 
+ 
+ 
+ 
+ω =
+1 rev
+365.25 d =
+2π rad
+365.25 d
+(
+) 86 400 s/d
+(
+) = 1.99 × 10−7 s−1  
+ 
+ 
+the angular momentum of the Earth is then 
+ 
+ 
+ 
+L = Iω = 1.34 × 1047 kg⋅m2
+(
+) 1.99 × 10−7 s−1
+(
+)
+= 2.66 × 1040 kg⋅m2/s
+ 
+ 
+ 
+The Earth plods around the Sun, counterclockwise as seen from 
+above north, so the vector angular momentum points north 
+perpendicular to the plane of the ecliptic, 
+toward the north ecliptic pole or 23.5° away from Polaris, toward 
+the center of the circle that the north celestial pole moves in as the 
+equinoxes precess. The north ecliptic pole is in the constellation 
+Draco. 
+ 
+(c) 
+The periods differ only by a factor of 365 (365 days for orbital
+motion to 1 day for rotation). Because of the huge distance
+from the Earth to the Sun, however, the moment of inertia of
+the Earth around the Sun is six orders of magnitude larger
+than that of the Earth about its axis.
+
+--- PAGE 17 ---
+600     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.27 
+Defining the distance from the pivot to the particle as d, we first find 
+the rotational inertia of the system for each case, from the information  
+M = 0.100 kg, m = 0.400 kg, and D = 1.00 m. 
+ 
+ 
+(a) 
+For the meterstick rotated about its center, Im = 1
+12 MD2. 
+ 
+ 
+ 
+For the additional particle, Iw = md2 = m 1
+2 D2
+⎛
+⎝⎜
+⎞
+⎠⎟.
+  
+ 
+ 
+ 
+Together, I = Im + Iw = 1
+12 MD2 + 1
+4 mD2, or  
+ 
+ 
+ 
+ 
+I = (0.100 kg)(1.00 m)2
+12
++ (0.400 kg)(1.00 m)2
+4
+= 0.108 kg ⋅m2 
+ 
+ 
+ 
+And the angular momentum is 
+ 
+ 
+ 
+L = Iω = 0.108 kg ⋅m2
+(
+) 4.00 rad/s
+(
+) = 0.433 kg ⋅m2/s
+ 
+ 
+(b) For a stick rotated about a point at one end, 
+ 
+ 
+ 
+Im = 1
+3 mD2 = 1
+3 0.100 kg
+(
+) 1.00 m
+(
+)
+2 = 0.033 3 kg⋅m2  
+ 
+ 
+ 
+For a point mass, Iw = mD
+2 = (0.400 kg)(1.00 m)
+2 = 0.400 kg · m
+2 
+ 
+ 
+ 
+so together they have rotational inertia  
+ 
+ 
+ 
+ 
+I = Im + Iw = 0.433 kg · m
+2 
+ 
+ 
+ 
+and angular momentum 
+ 
+ 
+ 
+L = Iω = 0.433 kg ⋅m2
+(
+)(4.00 rad/s) = 1.73 kg ⋅m2/s
+ 
+P11.28 
+We assume that the normal force n = 0 on the 
+front wheel. On the bicycle, 
+ 
+ 
+ 
+Fx
+∑
+= max:      + fs = max
+Fy
+∑
+= may:      + n−Fg = 0 →n = mg
+ 
+ 
+We must use the center of mass as the axis in 
+ 
+ 
+ 
+τ
+∑
+= Iα:  
+ 
+ 
+ 
+ 
+Fg (0) − n (77.5 cm) + fs (88 cm) = 0 
+ 
+We combine the equations by substitution: 
+ 
+ 
+ 
+−mg 77.5 cm
+(
+) + max 88 cm
+(
+) = 0
+ax =
+9.80 m/s2
+(
+)77.5 cm
+88 cm
+= 8.63 m/s2 
+ANS. FIG. P11.28
+
+--- PAGE 18 ---
+Chapter 11     601 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.29 
+We require ac = g = v2
+r = ω 2r: 
+ 
+ 
+ 
+ω =
+g
+r =
+9.80 m/s2
+(
+)
+100 m
+= 0.313 rad/s
+I = Mr2 = 5 × 104 kg
+(
+) 100 m
+(
+)
+2 = 5 × 108 kg ⋅m2
+ 
+ 
+(a) 
+L = Iω = 5 × 108 kg ⋅m2
+(
+) 0.313 rad/s
+(
+) = 1.57 × 108 kg ⋅m2/s 
+ 
+(b) 
+Δt = Lf −0
+τ
+∑
+= 1.57 × 108 kg⋅m2/s
+2 125 N
+(
+) 100 m
+(
+) = 6.26 × 103 s = 1.74 h 
+ 
+ 
+ 
+Section 11.4 
+Analysis Model: Isolated System  
+(Angular Momentum) 
+P11.30 
+(a) 
+From conservation of angular momentum for the isolated system 
+of two disks: 
+ 
+ 
+ 
+I1 + I2
+(
+)ω f = I1ωi    or    ω f =
+I1
+I1 + I2
+ωi 
+ 
+ 
+This is an example of a totally inelastic collision. 
+ 
+(b) 
+K f = 1
+2 I1 + I2
+(
+)ω f
+2 
+and 
+Ki = 1
+2 I1ωi
+2 
+ 
+ 
+so 
+K f
+Ki
+=
+1
+2 I1 + I2
+(
+)
+1
+2 I1ω i
+2
+I1
+I1 + I2
+ω i
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+I1
+I1 + I2
+ 
+P11.31 
+From conservation of angular momentum, 
+ 
+ 
+ 
+Iiωi = I fω f : 250 kg ⋅m2
+(
+) 10.0 rev/min
+(
+) =
+250 kg ⋅m2 + 25.0 kg
+(
+) 2.00 m
+(
+)
+2
+⎡⎣
+⎤⎦ω2
+ 
+ 
+ 
+ 
+ω2 = 7.14 rev/min 
+P11.32 
+(a) 
+Angular momentum is conserved in the puck-rod-putty system 
+because there is no net external torque acting on the system. 
+ 
+ 
+ 
+Iω initial = Iω final: 
+ 
+ 
+ 
+ 
+mR2
+vi
+R
+⎛
+⎝⎜
+⎞
+⎠⎟+ mpR2(0) = mR2 + mpR2
+(
+)
+v f
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 19 ---
+602     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+mRvi = m+ mp
+(
+)Rv f
+ 
+ 
+ 
+Solving for the final velocity gives 
+ 
+ 
+ 
+v f =
+m
+m+ mp
+⎛
+⎝⎜
+⎞
+⎠⎟vi =
+2.40 kg
+2.40 kg + 1.30 kg
+⎛
+⎝⎜
+⎞
+⎠⎟5.00 m/s
+(
+) = 3.24 m/s
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+T = 2πR
+v f
+= 2π 1.50 m
+(
+)
+3.24 m/s = 2.91 s
+ 
+  
+ 
+(b) 
+Yes, because there is no net external torque acting on the puck-
+rod-putty system.
+ 
+ 
+(c) 
+No, because the pivot pin is always pulling on the rod to change
+the direction of the momentum.
+ 
+ 
+(d) 
+No. Some mechanical energy is converted into internal energy.
+The collision is perfectly inelastic.
+ 
+P11.33 
+(a) 
+Mechanical energy is not constant; some chemical potential 
+energy in the woman’s body is transformed into mechanical 
+energy.
+ 
+ 
+(b) 
+Momentum is not constant. The turntable bearing exerts an
+external northward force on the axle to prevent the axle from
+moving southward because of the northward motion of the
+woman.
+ 
+ 
+(c) 
+Angular momentum is constant because the system is isolated
+from torque about the axle.
+ 
+ 
+(d) From conservation of angular momentum for the system of the 
+woman and the turntable, we have Lf = Li = 0, 
+ 
+ 
+so, 
+Lf = Iwomanω woman + Itableωtable = 0 
+ 
+ 
+and ωtable = −Iwoman
+Itable
+⎛
+⎝⎜
+⎞
+⎠⎟ω woman = −mwomanr2
+Itable
+⎛
+⎝⎜
+⎞
+⎠⎟
+vwoman
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −mwomanrvwoman
+Itable
+
+--- PAGE 20 ---
+Chapter 11     603 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ωtable = −60.0 kg 2.00 m
+(
+) 1.50 m/s
+(
+)
+500 kg ⋅m2
+= −0.360 rad/s 
+ 
+ 
+or 
+ωtable = 0.360 rad/s counterclockwise
+(
+) 
+ 
+(e) 
+Chemical energy converted into mechanical energy is equal to 
+ 
+ 
+ 
+ΔK = K f −0 = 1
+2 mwomanvwoman
+2
++ 1
+2 Iωtable
+2
+ 
+ 
+ 
+ΔK = 1
+2 60 kg
+(
+) 1.50 m/s
+(
+)
+2 + 1
+2 500 kg ⋅m2
+(
+) 0.360 rad/s
+(
+)
+2
+= 99.9 J
+ 
+P11.34 
+(a) 
+The total angular momentum of the system of the student, the 
+stool, and the weights about the axis of rotation is given by 
+ 
+ 
+ 
+Itotal = Iweights + Istudent = 2 mr2
+(
+) + 3.00 kg ⋅m2 
+ 
+ 
+Before: 
+r = 1.00 m 
+ 
+ 
+Thus, 
+Ii = 2(3.00 kg)(1.00 m)
+2 + 3.00 kg · m
+2 = 9.00 kg · m
+2 
+ 
+ 
+After: 
+r = 0.300 m 
+ 
+ 
+Thus, 
+If  = 2(3.00 kg)(0.300 m)
+2 + 3.00 kg · m
+2 = 3.54 kg · m
+2 
+ 
+ 
+We now use conservation of angular momentum. 
+ 
+ 
+ 
+I fω f = Iiωi 
+ 
+ 
+or 
+ω f =
+Ii
+I f
+⎛
+⎝⎜
+⎞
+⎠⎟ωi =
+9.00
+3.54
+⎛
+⎝⎜
+⎞
+⎠⎟0.750 rad/s
+(
+) = 1.91 rad/s 
+ 
+(b) 
+Ki = 1
+2 Iiωi
+2 = 1
+2 9.00 kg ⋅m2
+(
+) 0.750 rad/s
+(
+)
+2 = 2.53 J 
+ 
+ 
+K f = 1
+2 I fω f
+2 = 1
+2 3.54 kg ⋅m2
+(
+) 1.91 rad/s
+(
+)
+2 = 6.44 J 
+P11.35 
+(a) 
+We solve by using conservation of angular momentum for the 
+turntable-clay system, which is isolated from outside torques: 
+ 
+ 
+ 
+Iω initial = Iω final:
+           1
+2 mR2ω i =
+1
+2 mR2 + mcr2
+⎛
+⎝⎜
+⎞
+⎠⎟ω f
+
+--- PAGE 21 ---
+604     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ Solving for the final angular velocity gives 
+ 
+ 
+ 
+ω f =
+1
+2 mR2ω i
+1
+2 mR2 + mcr2 =
+1
+2 30.0 kg
+(
+) 1.90 m
+(
+)
+2 4π rad/s
+(
+)
+1
+2 30.0 kg
+(
+) 1.90 m
+(
+)
+2 + 2.25 kg
+(
+) 1.80 m
+(
+)
+2
+= 11.1 rad/s counterclockwise
+  
+ 
+(b) 
+No. The initial energy is  
+ 
+ 
+ 
+Ki = 1
+2 Iω i
+2 = 1
+2
+1
+2 mR2
+⎛
+⎝⎜
+⎞
+⎠⎟ω i
+2
+= 1
+2
+1
+2 30.0 kg
+(
+) 1.90 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥4π rad/s
+(
+)
+2
+= 4 276 J
+  
+ 
+ 
+The final mechanical energy is 
+ 
+ 
+ 
+K f = 1
+2 Iω f
+2 = 1
+2
+1
+2 mR2 + mcr2
+⎛
+⎝⎜
+⎞
+⎠⎟ω f
+2
+= 1
+2
+1
+2 30.0 kg
+(
+) 1.90 m
+(
+)
+2 + 2.25 kg
+(
+) 1.80 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                             × 11.1 rad/s
+(
+)
+2
+= 3 768 J
+ 
+ 
+ 
+Thus 507 J of mechanical energy is transformed into internal 
+energy. The “angular collision” is completely inelastic. 
+ 
+(c) 
+No. The original horizontal momentum is zero. As soon as the 
+clay has stopped skidding on the turntable, the final momentum 
+is (2.25 kg)(1.80 m)(11.1 rad/s) = 44.9 kg · m/s north. This is the 
+amount of impulse injected by the bearing. The bearing thereafter 
+keeps changing the system momentum to change the direction of 
+the motion of the clay. The turntable bearing promptly imparts 
+an impulse of 44.9 kg · m/s north into the turntable-clay system, 
+and thereafter keeps changing the system momentum. 
+P11.36 
+When they touch, the center of mass is distant from the center of the 
+larger puck by 
+ 
+ 
+ 
+yCM = 0 + 80.0 g
+(
+) 4.00 cm + 6.00 cm
+(
+)
+120 g + 80.0 g
+= 4.00 cm
+ 
+ 
+(a) 
+L = r1m1v1 + r2m2v2 = 0 + 6.00 × 10−2 m
+(
+) 80.0 × 10−3 kg
+(
+) 1.50 m/s
+(
+)
+= 7.20 × 10−3 kg ⋅m2/s
+
+--- PAGE 22 ---
+Chapter 11     605 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The moment of inertia about the CM is 
+ 
+  
+ 
+I =
+1
+2 m1r1
+2 + m1d1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+2 m2r2
+2 + m2d2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+I = 1
+2 0.120 kg
+(
+) 6.00 × 10−2 m
+(
+)
+2 + 0.120 kg
+(
+) 4.00 × 10−2
+(
+)
+2
++ 1
+2 80.0 × 10−3 kg
+(
+) 4.00 × 10−2 m
+(
+)
+2
++ 80.0 × 10−3 kg
+(
+) 6.00 × 10−2 m
+(
+)
+2
+I = 7.60 × 10−4 kg ⋅m2
+ 
+ 
+ 
+Angular momentum of the two-puck system is conserved:  
+ 
+ 
+ 
+L = Iω 
+ 
+ 
+ 
+ω = L
+I = 7.20 × 10−3 kg ⋅m2/s
+7.60 × 10−4 kg ⋅m2
+= 9.47 rad/s 
+P11.37 
+(a) 
+Taking the origin at the pivot point, note that r is perpendicular 
+to v, so sinθ = 1 and Lf = Li = mrsinθ = mv vertically down. 
+ 
+ 
+ 
+(b) Taking vf to be the speed of the bullet and the block together, we 
+first apply conservation of angular momentum: Li = Lf  becomes 
+ 
+ 
+ 
+  
+mv = m+ M
+(
+)v f   or   v f =
+m
+m+ M
+⎛
+⎝⎜
+⎞
+⎠⎟v
+  
+ 
+ 
+ 
+The total kinetic energies before and after the collision are, 
+respectively, 
+ 
+ 
+ 
+  
+Ki = 1
+2 mv2 
+ 
+ 
+ 
+and K f = 1
+2 m+ M
+(
+)v f
+2 = 1
+2 m+ M
+(
+)
+m
+m+ M
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+v2 = 1
+2
+m2
+m+ M
+⎛
+⎝⎜
+⎞
+⎠⎟v2  
+ 
+ 
+ 
+So the fraction of the kinetic energy that is converted into internal 
+energy will be 
+ 
+  
+ 
+ 
+Fraction = −ΔK
+Ki
+= Ki −K f
+Ki
+=
+1
+2 mv2 −1
+2
+m2
+m+ M
+⎛
+⎝⎜
+⎞
+⎠⎟v2
+1
+2 mv2
+=
+M
+m+ M
+
+--- PAGE 23 ---
+606     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P11.37 
+P11.38 
+(a) 
+Let ω be the angular speed of the signboard  
+when it is vertical. 
+ 
+ 
+ 
+1
+2 Iω 2 = Mgh 
+ 
+ 
+ 
+1
+2
+1
+3 ML2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 = Mg 1
+2 L 1−cosθ
+(
+)
+ω =
+3g 1−cosθ
+(
+)
+L
+   =
+3 9.80 m/s2
+(
+) 1−cos25.0°
+(
+)
+0.500 m
+    = 2.35 rad/s
+ 
+ 
+(b) 
+Iiωi −mvL = I fω f represents angular momentum conservation for 
+the sign-snowball system. Substituting into the above equation, 
+ 
+ 
+ 
+1
+3 ML2 + mL2
+⎛
+⎝⎜
+⎞
+⎠⎟ω f = 1
+3 ML2ω i −mvL
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ ω f =
+1
+3 MLω i −mv
+1
+3 M + m
+⎛
+⎝
+⎞
+⎠L
+=
+1
+3 2.40 kg
+(
+) 0.500 m
+(
+) 2.347 rad/s
+(
+)−0.400 kg
+(
+) 1.60 m/s
+(
+)
+1
+3 2.40 kg
+(
+)+ 0.400 kg
+⎡
+⎣⎢
+⎤
+⎦⎥0.500 m
+(
+)
+= 0.498 rad/s
+ 
+ANS. FIG. P11.38
+
+--- PAGE 24 ---
+Chapter 11     607 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Let hCM = distance of center of mass from the axis of rotation. 
+ 
+ 
+ 
+hCM = 2.40 kg
+(
+) 0.250 m
+(
+)+ 0.400 kg
+(
+) 0.500 m
+(
+)
+2.40 kg + 0.400 kg
+= 0.285 7 m
+ 
+ 
+ 
+Applying conservation of mechanical energy, 
+ 
+ 
+ 
+M + m
+(
+)ghCM 1−cosθ
+(
+) = 1
+2
+1
+3 ML2 + mL2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 
+ 
+ 
+Solving for θ  then gives 
+ 
+ 
+ θ = cos−1 1−
+1
+3 M + m
+⎛
+⎝
+⎞
+⎠L2ω 2
+2 M + m
+(
+)ghCM
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+⎥
+= cos−1 1−
+1
+3 2.40 kg
+(
+)+ 0.400 kg
+⎡
+⎣⎢
+⎤
+⎦⎥0.500 m
+(
+)
+2 0.498 rad/s
+(
+)
+2
+2 2.40 kg + 0.400 kg
+(
+) 9.80 m/s2
+(
+) 0.285 7 m
+(
+)
+⎧
+⎨
+⎪⎪
+⎩
+⎪
+⎪
+⎫
+⎬
+⎪⎪
+⎭
+⎪
+⎪
+= 5.58°
+ 
+P11.39 
+(a) 
+Consider the system to consist of 
+the wad of clay and the cylinder. 
+No external forces acting on this 
+system have a torque about the 
+center of the cylinder. Thus, 
+angular momentum of the system 
+is conserved about the axis of the 
+cylinder. 
+ 
+ 
+ 
+Lf = Li: 
+Iω = mvid 
+ 
+ 
+or 
+1
+2 MR2 + mR2
+⎡
+⎣⎢
+⎤
+⎦⎥ω = mvid 
+ 
+ 
+Thus, 
+ω =
+2mvid
+M + 2m
+(
+)R2
+ 
+ 
+(b) 
+No; some mechanical energy of the system (the kinetic energy
+of the clay) changes into internal energy.
+ 
+ 
+(c) 
+The linear momentum of the system is not constant. The axle
+exerts a backward force on the cylinder when the clay strikes.
+ 
+ANS. FIG. P11.39
+
+--- PAGE 25 ---
+608     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.40 
+The rotation rate of the station is such that at its rim the centripetal 
+acceleration, ac, is equal to the acceleration of gravity on the Earth’s 
+surface, g. Thus, the normal force from the rim’s floor provides 
+centripetal force on any person equal to that person’s weight: 
+ 
+ 
+ 
+Fr = mar
+∑
+:     n = mv2
+r
+→mg = mω i
+2r →ω i
+2 = g
+r
+ 
+ 
+ 
+The space station is isolated, so its angular momentum is conserved. 
+When the people move to the center, the station’s moment of inertia 
+decreases, its angular speed increases, and the effective value of 
+gravity increases. 
+ 
+From angular momentum conservation: Iiωi = I fω f →
+ω f
+ωi
+= Ii
+I f
+, where 
+ 
+ 
+Ii = Istation + Ipeople, i
+= 5.00 × 108 kg ⋅m2 + 150 65.0 kg
+(
+) 100 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 5.98 × 108 kg ⋅m2
+ 
+ 
+ 
+I f = Istation + Ipeople, f
+= 5.00 × 108 kg ⋅m2 + 50 65.0 kg
+(
+) 100 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 5.32 × 108 kg ⋅m2
+ 
+ 
+The centripetal acceleration is the effective value of gravity: ac ∝g. 
+Comparing values of acceleration before and during the union 
+meeting, we have 
+ 
+g f
+gi
+=
+ac, f
+ac,i
+=
+ω f
+2
+ωi
+2 =
+Ii
+I f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+5.98 × 108 
+5.32 × 108 
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1.26 →g f = 1.26gi 
+ 
+When the people move to the center, the angular speed of the
+station increases. This increases the effective gravity by 26%.
+Therefore, the ball will not take the same amount of time to drop.
+ 
+P11.41 
+(a) 
+Yes , the bullet has angular momentum about an axis through 
+the hinges of the door before the collision.
+
+--- PAGE 26 ---
+Chapter 11     609 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The bullet strikes the door  
+ 
+ 
+ 
+r = 1.00 m – 0.100 m = 0.900 m  
+ 
+ 
+from the hinge. Its initial angular momentum  
+is therefore 
+ 
+ 
+  
+Li = rp = mBrvi
+= 0.005 00 kg
+(
+) 0.900 m
+(
+)
+                  × 1.00 × 103 m/s
+(
+)
+=  4.50 kg · m2/s
+ 
+ 
+(c) 
+No; in the perfectly inelastic collision kinetic energy is
+transformed to internal energy.
+ 
+ 
+(d) Apply conservation of angular momentum, Li = Lf :  
+ 
+ 
+  
+mBrvi = I fω f = Idoor + Ibullet
+(
+)ω f
+mBrvi =
+1
+3 MdoorL2 + mBr2
+⎛
+⎝⎜
+⎞
+⎠⎟ω f
+ 
+ 
+ 
+where L = 1.00 m = the width of the door and r = 0.900 m [from 
+part (b)]. Solving for the final angular velocity gives, 
+ 
+ 
+  
+ω =
+mBrvi
+1
+3 MdoorL2 + mBr2
+=
+0.005 00 kg
+(
+) 0.900 m
+(
+) 1.00 × 103 m/s
+(
+)
+1
+3 18.0 kg
+(
+) 1.00 m
+(
+)
+2 + 0.005 00 kg
+(
+) 0.900 m
+(
+)
+2
+= 0.749 rad/s
+ 
+ 
+(e) 
+The kinetic energy of the door-bullet system immediately after 
+impact is 
+ 
+ 
+ 
+KE f = 1
+2 I fω f
+2
+= 1
+2
+1
+3 18.0 kg
+(
+) 1.00 m
+(
+)
+2 + 0.005 00 kg
+(
+) 0.900 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                                    × 0.749 rad/s
+(
+)
+2
+= 1.68 J
+ 
+ 
+ 
+The kinetic energy (of the bullet) just before impact was 
+ 
+ 
+ 
+KEi = 1
+2 mBvi
+2 = 1
+2 0.005 00 kg
+(
+) 1.00 × 103 m/s
+(
+)
+2 = 2.50 × 103 J
+ 
+ANS. FIG. P11.41
+
+--- PAGE 27 ---
+610     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The total energy of the system must be the same before and after 
+the collision, assuming we ignore the energy leaving by 
+mechanical waves (sound) and heat (from the newly-warmer 
+door to the cooler air). The kinetic energies are as follows: 
+KEi = 2.50 × 103 J  and  KE f = 1.68 J.  
+ 
+ 
+Most of the initial kinetic energy is transformed to internal
+energy in the collision.
+ 
+ 
+ 
+ 
+Section 11.5 
+The Motion of Gyroscopes and Tops 
+P11.42 
+Angular momentum of the system of the spacecraft and the gyroscope 
+is conserved. The gyroscope and spacecraft turn in opposite directions. 
+ 
+ 
+ 
+0 = I1ω1 + I2ω2: 
+−I1ω1 = I2
+θ
+t
+ 
+ 
+ 
+ 
+−20 kg ⋅m2
+(
+) −100 rad/s
+(
+) = 5 × 105 kg ⋅m2
+(
+) 30°
+t
+⎛
+⎝⎜
+⎞
+⎠⎟
+π rad
+180°
+⎛
+⎝⎜
+⎞
+⎠⎟
+t = 2.62 × 105 s
+2000
+= 131 s
+ 
+P11.43 
+We begin by calculating the moment of inertia of the Earth, modeled as 
+a sphere: 
+ 
+ 
+ 
+I = 2
+5 MR2 = 2
+5 5.98 × 1024 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+= 9.71× 1037 kg⋅m2
+ 
+ 
+Earth’s rotational angular momentum is then 
+ 
+ 
+ 
+L = Iω = 9.71× 1037 kg⋅m2
+(
+)
+2π rad
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.06 × 1033 kg⋅m2/s2 
+ 
+from which we can calculate the torque that is causing the precession: 
+ 
+ 
+τ = Lω p
+= 7.06 × 1033 kg⋅m2/s
+(
+)
+2π rad
+2.58 × 104 yr
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 yr
+365.25 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 d
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 5.45 × 1022 N⋅m
+
+--- PAGE 28 ---
+Chapter 11     611 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P11.44 
+(a) 
+Assuming the rope is massless, the tension is 
+the same on both sides of the pulley: 
+ 
+ 
+ 
+ 
+τ
+∑
+= TR −TR = 0 
+ 
+(b) 
+τ
+∑
+= dL
+dt , and since 
+τ
+∑
+= 0, L = constant. 
+ 
+ 
+Since the total angular momentum of the 
+system is initially zero, the total angular 
+momentum remains zero, so the monkey and 
+bananas move upward with the same speed 
+at any instant. 
+ 
+(c) 
+The monkey will not reach the bananas. 
+The motions of the monkey and bananas are 
+identical, so the bananas remain out of the monkey’s reach—until 
+they get tangled in the pulley. To state the evidence differently, 
+the tension in the rope is the same on both sides. Newton’s 
+second law applied to the monkey and bananas give the same 
+acceleration upward. 
+P11.45 
+Using conservation of angular momentum, we have 
+ 
+ 
+ 
+Laphelion = Lperihelion   or   mra
+2
+(
+)ω a = mrp
+2
+(
+)ω p 
+ 
+Thus, mra
+2
+(
+) va
+ra
+= mrp
+2
+(
+)
+vp
+rp
+, giving rava = rpvp or  
+ 
+ 
+ 
+va = rp
+ra
+vp = 0.590 AU
+35.0 AU
+54.0 km/s
+(
+) = 0.910 km/s
+ 
+P11.46 
+(a) 
+Momentum is conserved in the isolated system of the two boys: 
+ 
+ 
+ 
+pi = p f : m1v1 ˆi — m2v2 ˆi = m1 + m2
+(
+) v f 
+ 
+ 
+ 
+pi = (45.0 kg)(8.00 m/s) ˆi — (31.0 kg)(11.0 m/s) ˆi
+= (76.0 kg) v f
+v f = 0.250 ˆi m/s
+ 
+ANS. FIG. P11.44
+
+--- PAGE 29 ---
+612     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The initial kinetic energy of the system is 
+ 
+ 
+ 
+Ki = 1
+2 m1v1
+2 + 1
+2 m2v2
+2
+= 1
+2 (45.0 kg)(+8.00 m/s)2 + 1
+2 (31.0 kg)(11.0 m/s)2
+= 3 315.5 J
+ 
+ 
+ 
+and the kinetic energy after the collision is 
+ 
+ 
+ 
+K f = 1
+2 (m1 + m2)v f
+2 = 1
+2 (76.0 kg)(0.250 m/s)2 = 2.375 J
+ 
+ 
+ 
+Thus the fraction remaining is 
+ 
+ 
+ 
+K f
+Ki
+= 2.375 J
+3 315.5 J = 0.000 716 = 0.071 6%
+  
+ 
+(c) 
+The calculation in part (a) still applies: v f = 0.250 ˆi m/s 
+ 
+(d) Taking Jacob (m1 = 45.0 kg) at the origin of a coordinate system, 
+with Ethan (m2 = 31.0 kg) on the y axis at y = L = 1.20 m, the 
+position of the CM of the boys is 
+ 
+ 
+ 
+yCM = m1y1 + m2y2
+m1 + m2
+= m1 0
+( )+ m2L
+m1 + m2
+=
+m2L
+m1 + m2
+yCM = 31.0 kg
+(
+) 1.20 m
+(
+)
+45.0 kg + 31.0 kg = 0.489 m
+ 
+ 
+ 
+Jacob is yCM = 0.489 m from the CM and Ethan is L −yCM
+(
+) = 
+L −m2L
+m1 + m2
+(
+) = m1L
+m1 + m2
+(
+) = 0.711 m  from the CM. Their 
+angular momentum about the CM is L = Iω:  
+ 
+ 
+ 
+m1v1L + m2v2(L −yCM) = m1L2 + m2(L −yCM)2
+⎡⎣
+⎤⎦ω
+→ω = m1v1L + m2v2(L −yCM)
+m2L2 + m2(L −yCM)2
+ 
+ 
+ 
+ω = 45.0 kg
+(
+) 8.00 m/s
+(
+) 0.489 m
+(
+)+ 31.0 kg
+(
+) 11.0 m/s
+(
+) 0.711 m
+(
+)
+45.0 kg
+(
+) 0.489 m
+(
+)
+2 + 31.0 kg
+(
+) 0.711 m
+(
+)
+2
+ω = 418 kg⋅m2/s
+26.4 kg⋅m2 = 15.8 rad/s
+
+--- PAGE 30 ---
+Chapter 11     613 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Their kinetic energy after they link arms is 
+ 
+ 
+ 
+K f = 1
+2 m1 + m2
+(
+)vCM
+2
++ 1
+2 Iω 2
+= 1
+2 76.0 kg
+(
+) 0.250 m/s
+(
+)
+2 + 1
+2 26.4 kg⋅m2/s
+(
+) 15.8 rad/s
+(
+)
+2
+K f = 3 315.5 J
+ 
+ 
+ 
+[Note: the result of the calculation of kinetic energy is exactly  
+3 315.5 J if no round-off is made in the calculation. It can be 
+shown algebraically that the expression for the final kinetic 
+energy is equivalent to the expression for the initial kinetic 
+energy—the student is invited to show this.] Thus the fraction 
+remaining is K f /Ki = 3 315.5 J/3 315.5 J = 1.00 = 100%. 
+ 
+(f) 
+In part (b), the boys must necessarily deform as they slam into
+each other. During this deformation process, mechanical energy
+is transformed into internal energy. In part (e), there is no
+deformation involved. The boys simply link hands and some of
+their translational kinetic energy transforms to rotational kinetic
+energy, but none is transformed to internal energy.
+ 
+P11.47 
+First, we define the following symbols: 
+ 
+ 
+ 
+IP = moment of inertia due to mass of people on the equator 
+ 
+ 
+ 
+IE = moment of inertia of the Earth alone (without people) 
+ 
+ 
+ 
+ω = angular velocity of the Earth (due to rotation on its axis) 
+ 
+ 
+ 
+T = 2π
+ω = rotational period of the Earth (length of the day) 
+ 
+ 
+ 
+R = radius of the Earth 
+ 
+The initial angular momentum of the system (before people start 
+running) is 
+ 
+ 
+ 
+Li = IPωi + IEωi = IP + IE
+(
+)ωi 
+ 
+When the Earth has angular speed ω, the tangential speed of a point on 
+the equator is vt = Rω. Thus, when the people run eastward along the 
+equator at speed v relative to the surface of the Earth, their tangential 
+speed is vp = vt + v = Rω + v and their angular speed is  
+ 
+ 
+ 
+ω P = vp
+R = ω + v
+R
+
+--- PAGE 31 ---
+614     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angular momentum of the system after the people begin to run is 
+ 
+ 
+ 
+Lf = IPω p + IEω = IP ω + v
+R
+⎛
+⎝⎜
+⎞
+⎠⎟+ IEω = IP + IE
+(
+)ω + IPv
+R
+ 
+ 
+Since no external torques have acted on the system, angular 
+momentum is conserved Lf = Li
+(
+), giving  
+ 
+ 
+ 
+IP + IE
+(
+)ω + IPv
+R = IP + IE
+(
+)ω i
+ 
+ 
+Thus, the final angular velocity of the Earth is  
+ 
+ 
+ 
+ω = ω i −
+IPv
+IP + IE
+(
+)R = ω i 1−x
+(
+), where x ≡
+IPv
+IP + IE
+(
+)Rωi
+ 
+ 
+The new length of the day is  
+ 
+ 
+ 
+T = 2π
+ω =
+2π
+ω i 1−x
+(
+) =
+Ti
+1−x ≈Ti 1+ x
+(
+)
+  
+ 
+so the increase in the length of the day is  
+ 
+ 
+ 
+ΔT = T −Ti ≈Tix = Ti
+IPv
+IP + IE
+(
+)Rω i
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+  
+ 
+Since ωi = 2π
+Ti
+, this may be written as  
+ 
+ 
+ 
+ΔT ≈
+Ti
+2IPv
+2π IP + IE
+(
+)R 
+ 
+To obtain a numeric answer, we compute 
+ 
+ 
+ 
+IP = mpR2 =
+7 × 109
+(
+) 55.0 kg
+(
+)
+⎡⎣
+⎤⎦6.37 × 106 m
+(
+)
+2
+= 1.56 × 1025 kg⋅m2
+ 
+ 
+and 
+ 
+ 
+ 
+IE = 2
+5 mER2 = 2
+5 5.98 × 1024 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+= 9.71× 1037 kg⋅m2
+ 
+ 
+Thus,  
+ 
+ 
+ 
+ΔT ≈
+8.64 × 104 s
+(
+)
+2 1.56 × 1025 kg ⋅m2
+(
+) 2.5 m/s
+(
+)
+2π
+1.56 × 1025 + 9.71× 1037
+(
+) kg ⋅m2
+⎡⎣
+⎤⎦6.37 × 106 m
+(
+)
+= 7.50 × 10−11 s
+
+--- PAGE 32 ---
+Chapter 11     615 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.48 
+(a) 
+K +Ug
+(
+)A = K +Ug
+(
+)B 
+ 
+ 
+0 + mgyA = 1
+2 mvB
+2 + 0
+vB =
+2gy A =
+2 9.80 m/s2
+(
+)(6.30 m) =
+11.1 m/s
+ 
+ 
+(b) 
+L = mvr = (76.0 kg) (11.1 m/s) (6.30 m) = 5.32 × 103 kg ⋅m2/s 
+toward you along the axis of the channel. 
+ 
+(c) 
+The wheels on his skateboard prevent any tangential force from
+acting on him. Then no torque about the axis of the channel acts
+on him and his angular momentum is constant. His legs convert
+chemical into mechanical energy. They do work to increase his
+kinetic energy. The normal force acts in the upward direction,
+perpendicular to the direction of motion of the skateboarder.
+ 
+ 
+(d) L = mvr:    v = 5.32 × 103 kg ⋅m2/s
+(76.0 kg) 5.85 m
+(
+)
+= 12.0 m/s 
+ 
+(e) 
+K +Ug
+(
+)B +Uchemical,B = K +Ug
+(
+)C 
+     
+  
+1
+2 (76.0 kg) 11.1 m/s
+(
+)
+2 + 0 +Uchem
+         = 1
+2 (76.0 kg) 12.0 m/s
+(
+)
+2 + (76.0 kg) (9.80 m/s2) (0.450 m)
+Uchem = 5.44 kJ −4.69 kJ + 335 J = 1.08 kJ
+ 
+P11.49 
+(a) 
+The moment of inertia is given by 
+ 
+ 
+ 
+I =
+miri
+2
+∑
+= m 4d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ m d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ m 2d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 7m d2
+3
+ 
+ 
+ANS. FIG. P11.49
+
+--- PAGE 33 ---
+616     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Think of the whole weight, 3mg, acting at the center of gravity. 
+ 
+ 
+ 
+τ = r ×
+
+F =
+d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟−ˆi
+( ) × 3mg −ˆj
+( ) =
+mgd
+(
+) ˆk 
+ 
+(c) 
+We find the angular acceleration from 
+ 
+ 
+ 
+α = τ
+I = 3mgd
+7md2 =
+3g
+7d counterclockwise 
+ 
+(d) The linear acceleration of particle 3, a distance of 2d/3 from the 
+pivot, is  
+ 
+ 
+ 
+a = αr3 =
+3g
+7d
+⎛
+⎝⎜
+⎞
+⎠⎟
+2d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟=
+2g
+7 upward 
+ 
+(e) 
+Because the axle is fixed, no external work is performed on the 
+system of the Earth and the three particles, so total mechanical 
+energy is conserved. Rotational kinetic energy will be maximum 
+when the rod has swung to a vertical orientation with the center 
+of gravity directly under the axle. Take gravitational potential 
+energy to be zero when the rod is in its vertical orientation. In the 
+initial horizontal orientation, the center of gravity of the system 
+will be d/3 higher: 
+ 
+ 
+ 
+E = K +U
+(
+)i = horizontal = K +U
+(
+) f = vertical
+0 + 3m
+(
+)g d
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= K f + 0 →K f = mgd
+ 
+ 
+(f) 
+In the vertical orientation, the rod has the greatest rotational 
+kinetic energy: 
+ 
+ 
+ 
+K f = 1
+2 Iω f
+2
+mgd = 1
+2 7m d2
+3
+⎛
+⎝⎜
+⎞
+⎠⎟ω f
+2 →ω f =
+6g
+7d
+ 
+ 
+(g) The maximum angular momentum of the system is 
+ 
+ 
+ 
+ Lf = Iω f = 7md2
+3
+6g
+7d =
+14g
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+md3 2
+ 
+ 
+(h) The maximum speed of particle 2 is 
+ 
+ 
+ 
+v f = ω fr2 =
+6g
+7d
+d
+3 =
+2gd
+21
+
+--- PAGE 34 ---
+Chapter 11     617 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.50 
+(a) 
+The equation simplifies to 
+ 
+ 
+ 
+(1.75 kg⋅m2/s −0.181 kg⋅m2/s) ˆj = (0.745 kg⋅m2) ω  
+ 
+ 
+which gives 
+ 
+ 
+ 
+ω = 2.11ˆj rad/s 
+ 
+ 
+(b) 
+We take the x axis east, the y axis up, and the z axis south.
+The child has moment of inertia 0.730 kg·m2 about the axis of
+the stool and is originally turning counterclockwise at 2.40 rad/s.
+At a point 0.350 m to the east of the axis, he catches a 0.120-kg
+ball moving toward the south at 4.30 m/s. He continues to hold
+the ball in his outstretched arm. Find his final angular velocity.
+ 
+ 
+(c) 
+Yes, with the left-hand side representing the final situation
+and the right-hand side representing the original situation, the
+equation describes the throwing process.
+ 
+P11.51 
+(a) 
+The appropriate model is 
+to treat the projectile and 
+the rod as an 
+isolated system , 
+experiencing no net 
+external torque, or force. 
+ 
+(b) 
+Ltotal = Lparticle + Lrod
+= mvid
+2
++ 0 = mvid
+2
+ 
+ 
+(c) 
+Itotal = Iparticle + Irod = 1
+12 Md2 + m d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+Itotal = d2 M + 3m
+(
+)
+12
+ 
+ 
+(d) After the collision, we could express the angular momentum as, 
+ 
+ 
+ 
+Ltotal = Itotalω =
+d2 M + 3m
+(
+)
+12
+⎛
+⎝⎜
+⎞
+⎠⎟ω 
+ANS. FIG. P11.51
+
+--- PAGE 35 ---
+618     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Recognizing that angular momentum is conserved, 
+ 
+ 
+ 
+Lf = Li
+d2 M + 3m
+(
+)
+12
+⎛
+⎝⎜
+⎞
+⎠⎟ω = mvid
+2
+ω =
+6mvi
+d M + 3m
+(
+)
+ 
+ 
+(f) 
+K = 1
+2 mvi
+2 
+ 
+(g) 
+Ktotal = 1
+2 Itotalω 2 = 1
+2
+d2 M + 3m
+(
+)
+12
+⎛
+⎝⎜
+⎞
+⎠⎟
+6mvi
+d M + 3m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+Ktotal =
+3m2vi
+2
+2 M + 3m
+(
+)
+ 
+ 
+(h) The change in mechanical energy is, 
+ 
+ 
+ 
+ΔK = 1
+2 mvi
+2 −
+3m2vi
+2
+2 M + 3m
+(
+)
+=
+mMvi
+2
+2 M + 3m
+(
+)
+ 
+ 
+ 
+Then, the fractional change in the mechanical energy is 
+ 
+ 
+ 
+mMvi
+2
+2 M + 3m
+(
+)
+1
+2 mvi
+2
+=
+M
+M + 3m
+ 
+P11.52 
+(a) 
+The puck’s linear momentum is always changing. Its mechanical 
+energy changes as work is done on it. But its angular momentum 
+stays constant because although an external force (the tension of 
+the rope) acts on the puck, no external torques act. 
+ 
+ 
+ 
+ 
+Therefore, L = constant, and at any time, 
+ 
+ 
+ 
+ 
+ 
+ 
+mvr = mviri 
+ 
+ 
+ 
+ giving us   
+ 
+ 
+ 
+ 
+ 
+v = viri
+r = 1.50 m/s
+(
+) 0.300 m
+(
+)
+0.100 m
+= 4.50 m/s
+ 
+ 
+ 
+(b) From Newton’s second law, the tension is always 
+ 
+ 
+ 
+ 
+ 
+T = mv2
+r
+= 0.050 0 kg
+(
+) 4.50 m/s
+(
+)
+2
+0.100 m
+= 10.1 N
+
+--- PAGE 36 ---
+Chapter 11     619 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(c) 
+The work-kinetic energy theorem identifies the work as 
+ 
+ 
+ 
+ 
+W = ΔK = 1
+2 mv2 −1
+2 mvi
+2
+= 1
+2 0.050 0 kg
+(
+)
+4.50 m/s
+(
+)
+2 −1.50 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
+= 0.450 J
+ 
+ 
+ 
+ANS. FIG. P11.52 
+P11.53 
+See ANS. FIG. P11.52 above. 
+ 
+(a) 
+The puck is rotationally isolated because friction is zero and the 
+torque on the puck from the tension in the string is zero: 
+ 
+ 
+ 
+τ = r ×
+
+F = r
+
+F sin180° = 0 
+ 
+ 
+therefore, the angular momentum of the puck is conserved as the 
+radius is decreased: 
+ 
+ 
+ 
+Lf = Li
+mrv = mrivi
+→       v =
+rivi
+r
+ 
+ 
+(b) The net force on the puck is tension: 
+ 
+ 
+ 
+T = mv2
+r
+=
+m rivi
+(
+)
+2
+r3
+
+--- PAGE 37 ---
+620     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Work is done by the tension force in the negative-r, inward 
+direction as the radius decreases [d= −dr ]: 
+ 
+ 
+METHOD 1: 
+ 
+ 
+ 
+W =
+F ⋅d
+∫
+= −Td ′r
+∫
+= −m rivi
+(
+)
+2
+′r( )
+3
+d ′r
+ri
+r
+∫
+= m rivi
+(
+)
+2
+2
+′r( )
+2
+ri
+r
+= m rivi
+(
+)
+2
+2
+1
+r2 −1
+ri
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+2 mvi
+2
+ri
+2
+r2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+METHOD 2: 
+ 
+ 
+ 
+W = ΔK = 1
+2 mv2 −1
+2 mvi
+2 =
+1
+2 mvi
+2
+ri
+2
+r2 −1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P11.54 
+The description of the problem allows us to assume the asteroid-Earth 
+system is isolated, so angular momentum is conserved (Li = Lf ). Let 
+the period of rotation of Earth be T before the collision and T + ΔT 
+after the collision. We have 
+ 
+ 
+ 
+IEω i = IE + IA
+(
+)ω f
+2π
+T IE =
+2π
+T + ΔT IE + IA
+(
+)
+T + ΔT
+T
+= IE + IA
+IE
+ 
+ 
+which gives 
+ 
+ 
+ 
+ 
+ΔT
+T = IA
+IE
+     →     IA = IE
+ΔT
+T
+ 
+ 
+Treating Earth as a solid sphere of mass M and radius R, its moment of 
+inertia is 2
+5 MR2. The moment of inertia of the asteroid at the equator 
+is mR
+2. We have then 
+ 
+ 
+ 
+IA = IE
+ΔT
+T   →   mR2 =
+2
+5 MR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ΔT
+T
+⎛
+⎝⎜
+⎞
+⎠⎟   →   m = 2
+5 M ΔT
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+m = 2
+5 5.98 × 1024 kg
+(
+)
+0.500 s
+24 3 600 s
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.38 × 1019 kg
+
+--- PAGE 38 ---
+Chapter 11     621 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Life would not go on as normal. An asteroid that would cause a 0.5-s
+change in the rotation period of the Earth has a mass of 1.38 × 1019 kg
+and is an order of magnitude larger in diameter than the one that
+caused the extinction of the dinosaurs.
+ 
+P11.55 
+Both astronauts will speed up equally as 
+angular momentum for the two-astronaut-
+rope system is conserved in the absence of 
+external torques. We use this principle to 
+find the new angular speed with the 
+shorter tether. Standard equations will tell 
+us the original amount of angular 
+momentum and the original and final 
+amounts of kinetic energy. Then the 
+kinetic energy difference is the work. 
+ 
+(a) 
+The angular momentum magnitude is 
+
+L = m r × v .  In this case, 
+r and v are perpendicular, so the magnitude of L about the center 
+of mass is 
+ 
+  
+ 
+L =
+mrv = 2 75.0 kg
+(
+) 5.00 m
+(
+)
+∑
+5.00 m/s
+(
+)
+= 3.75 × 103 kg⋅m2/s
+  
+ 
+ 
+(b) The original kinetic energy is 
+ 
+  
+ 
+K = 1
+2 mv2 + 1
+2 mv2 = 2 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟75.0 kg
+(
+) 5.00 m/s
+(
+)
+2
+= 1.88 × 103 J
+  
+ 
+ 
+(c) 
+With a lever arm of zero, the rope tension generates no torque 
+about the center of mass. Thus, the angular momentum for the 
+two-astronaut-rope system is unchanged: 
+ 
+ 
+ 
+ 
+L = 3.75 × 103 kg⋅m2/s
+ 
+ 
+ 
+(d) Again, L = 2mrv, so 
+ 
+ 
+ 
+ 
+ 
+v =
+L
+2mr = 3.75 × 103 kg⋅m2/s
+2 75.0 kg
+(
+) 2.50 m
+(
+) = 10.0 m/s
+ 
+ 
+(e) 
+The final kinetic energy is 
+ 
+ 
+  
+K = 2 1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟75.0 kg
+(
+) 10.0 m/s
+(
+)
+2 = 7.50 × 103 J
+  
+ 
+ANS. FIG. P11.55
+
+--- PAGE 39 ---
+622     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+The energy converted by the astronaut is the work he does: 
+ 
+  
+ 
+Wnc = K f −Ki = 7.50 × 103 J −1.88 × 103 J
+= 5.62 × 103 J
+   
+P11.56 
+Please refer to ANS. FIG. P11.55 and the discussion in P11.55 above. 
+ 
+(a) 
+Li = 2 Mv d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥=
+Mvd 
+ 
+(b) 
+K = 2 1
+2 Mv2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+Mv2 
+ 
+(c) 
+Lf = Li =
+Mvd 
+ 
+(d) 
+v f =
+Lf
+2Mrf
+=
+Mvd
+2M d
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2v 
+ 
+(e) 
+K f = 2 1
+2 Mv f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= M 2v
+(
+)
+2 = 4Mv2 
+ 
+(f) 
+If the work performed by the astronaut is made possible entirely 
+by the conversion of chemical energy to mechanical energy, then 
+the necessary chemical potential energy is: 
+ 
+ 
+ 
+W = K f −Ki = 3Mv2
+ 
+P11.57 
+(a) 
+At the moment of release, two stones are moving with speed v0. 
+The total momentum has magnitude 2mv0 . It keeps this same 
+horizontal component of momentum as it flies away. 
+ 
+(b) The center of mass speed relative to the hunter is vCM = p/M = 
+2mv0/3m = 2 v0/3 before the hunter lets go and, as far as 
+horizontal motion is concerned, afterward. 
+ 
+(c) 
+When the bola is first released, the stones are horizontally in line 
+with two at distance  on one side of the center knot and one at 
+distance  on the other side. The center of mass (CM) is then  
+xCM = 2m−m
+(
+)/3m = /3 from the center knot closer to the two 
+stones: the one stone just being released is at distance r1 = 4/3 
+from the CM, the other two stones are at distance r2 = 2/3 from 
+the CM. 
+ 
+ 
+The two stones, moving at v0, have a relative speed v2 = v0 – 2v0/3 
+= v0/3 with respect to the CM, and the one stone has relative
+
+--- PAGE 40 ---
+Chapter 11     623 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+speed v1 = 2v0/3 – 0 = 2v0/3 with respect to the CM. The one stone 
+has angular speed  
+ 
+ 
+ 
+ω1 = v1
+r1
+= 2v0 /3
+4/3 = v0
+2
+  
+ 
+ 
+The other two stones have angular speed  
+ 
+ 
+ 
+ω 2 = v2
+r2
+= v0 /3
+2/3 = v0
+2
+ 
+ 
+ 
+which is necessarily the same as that of stone 1: ω1 = ω 2 = ω. The 
+total angular momentum around the center of mass is  
+ 
+ 
+ 
+mvr = mv1r1
+∑
++ 2mv2r2
+          = m(2v0/3)(4/3)+ 2m(v0/3)(2/3)
+          = 4mv0/3
+ 
+ 
+ 
+The angular momentum remains constant with this value as the 
+bola flies away. 
+ 
+(d) As computed in part (c), the angular speed ω at the moment of 
+release is v0/2. As it moves through the air, the bola keeps 
+constant angular momentum, but its moment of inertia changes 
+to 3m2. Then the new angular speed is given by 
+ 
+ 
+ 
+L = Iω
+→
+4mv0/3 = 3m2ω
+→   ω = 4v0/9 
+ 
+(e) 
+At the moment of release,  
+ 
+ 
+ 
+K = 1
+2 m 0
+( )
+2 + 1
+2 2m
+(
+)v0
+2 = mv0
+2  
+ 
+(f) 
+As it flies off in its horizontal motion it has kinetic energy 
+ 
+ 
+ 
+K = 1
+2 3m
+(
+) vCM
+(
+)
+2 + 1
+2 Iω 2 = 1
+2 3m
+(
+) 2v0
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1
+2 3m2
+(
+) 4v0
+9
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 26
+27 mv0
+2
+
+--- PAGE 41 ---
+624     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) 
+No horizontal forces act on the bola from outside after release,
+so the horizontal momentum stays constant. Its center of mass
+moves steadily with the horizontal velocity it had at release. No
+torques about its axis of rotation act on the bola, so its spin 
+angular momentum stays constant. Internal forces cannot affect 
+momentum conservation and angular momentum conservation, 
+but they can affect mechanical energy. The cords pull on the 
+stones as the stones rearrange themselves, so the cords must 
+stretch slightly, so that energy of mv0
+2/27 changes from 
+mechanical energy into internal energy as the bola takes its stable 
+configuration. In a real situation, air resistance would have an 
+influence on the motion of the stones.
+ 
+P11.58 
+(a) 
+Let M = mass of rod and m = mass of each bead. From Iiωi = I fω f 
+between the moment of release and the moment the beads slide 
+off, we have 
+ 
+ 
+ 
+1
+12 M2 + 2mr1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ωi =
+1
+12 M2 + 2mr2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ω f 
+ 
+ 
+When M = 0.300 kg, = 0.500 m , r1 = 0.100 m, r2 = 0.250 m, and 
+ωi = 36.0 rad/s, we find 
+ 
+ 
+ 
+0.006 25 + 0.020 0m
+[
+] 36.0 rad/s
+(
+) = 0.006 25 + 0.125m
+[
+]ω f
+  
+ 
+ 
+ 
+ω f = 36.0(1+ 3.20m)
+1+ 20.0m
+ rad/s
+ 
+ 
+(b) The denominator of this fraction always exceeds the numerator, 
+so 
+ 
+ 
+ω f decreases smoothly from a maximum value of 36.0 rad/s
+for m = 0 toward a minimum value of (36 × 3.2/20) = 5.76 rad/s
+as m →∞.
+ 
+P11.59 
+The moment of inertia of the rest of the Earth is 
+ 
+ 
+ 
+I = 2
+5 MR2 = 2
+5 5.98 × 1024 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+= 9.71× 1037 kg⋅m2
+
+--- PAGE 42 ---
+Chapter 11     625 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P11.60 
+ 
+For the original ice disks, 
+ 
+ 
+ 
+I = 1
+2 Mr2 = 1
+2 2.30 × 1019 kg
+(
+) 6 × 105 m
+(
+)
+2
+= 4.14 × 1030 kg⋅m2
+ 
+ 
+For the final thin shell of water, 
+ 
+ 
+ 
+I = 2
+3 Mr2 = 2
+3 2.30 × 1019 kg
+(
+) 6.37 × 106 m
+(
+)
+2
+= 6.22 × 1032 kg⋅m2
+ 
+ 
+Conservation of angular momentum for the spinning planet is 
+expressed by Iiω i = I fω f : 
+ 
+ 
+ 
+4.14 × 1030 + 9.71× 1037
+(
+)
+2π
+86 400 s
+                          = 6.22 × 1032 + 9.71× 1037
+(
+)
+2π
+86 400 s +δT
+(
+)
+1+
+δT
+86 400 s
+⎛
+⎝⎜
+⎞
+⎠⎟1+ 4.14 × 1030
+9.71× 1037
+⎛
+⎝⎜
+⎞
+⎠⎟= 1+ 6.22 × 1032
+9.71× 1037
+δT
+86 400 s = 6.22 × 1032
+9.71× 1037 −4.14 × 1030
+9.71× 1037 →δT = 0.550 s
+ 
+ 
+An increase of 6.368 × 10–4 % or 0.550 s. 
+P11.60 
+To evaluate the change in kinetic 
+energy of the puck, we first 
+calculate the initial and final 
+moments of inertia of the puck: 
+ 
+ 
+Ii = mri
+2
+= 0.120 kg
+(
+) 0.400 m
+(
+)2
+= 1.92 × 10−2 kg⋅m2
+ 
+and 
+ 
+ 
+I f = mrf
+2
+= 0.120 kg
+(
+) 0.250 m
+(
+)2
+= 7.50 × 10−3 kg⋅m2
+ 
+ 
+The initial angular velocity of the puck is given by 
+ 
+ 
+ωi = vi
+ri
+= 0.800 m s
+0.400 m = 2.00 rad s
+ 
+r
+r
+
+--- PAGE 43 ---
+626     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now, use conservation of angular momentum for the system of the 
+puck, 
+ 
+ 
+ω f = ωi
+Ii
+I f
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.00 rad s
+(
+) 1.92 × 10−2 kg ⋅m2
+7.5 × 10−3 kg ⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.12 rad s
+ 
+ 
+Now, 
+ 
+ 
+ 
+work done = ΔK = 1
+2 I fω f
+2 −1
+2 Iiω i
+2
+= 1
+2 7.50 × 10−3 kg⋅m2
+(
+) 5.12 rad/s
+(
+)2
+            −1
+2 1.92 × 10−2 kg⋅m2
+(
+) 2.00 rad/s
+(
+)2
+= 5.99 × 10−2 J
+ 
+ 
+ 
+ 
+Challenge Problems 
+P11.61 
+(a) 
+From the particle under a net force model: 
+ 
+ 
+ 
+F =  Δp
+Δt    →    fk  = 
+m v f  − 0
+(
+)
+Δt
+ = 
+mv f
+Δt 
+[1] 
+ 
+ 
+and from the rigid object under a net torque model: 
+ 
+ 
+ 
+τ  =  ΔL
+Δt    →   −fkR = 
+I ω f  − ωi
+(
+)
+Δt
+ 
+[2] 
+ 
+ 
+Divide [2] by [1]: 
+ 
+ 
+ 
+−R = 
+I ω f  − ωi
+(
+)
+mv f
+ 
+ 
+ 
+Let vf = Rω f for pure rolling: 
+ 
+ 
+ 
+−R = 
+I ω f  − ωi
+(
+)
+m Rω f
+(
+)
+ 
+ 
+ 
+Solve for ω f : 
+ 
+ 
+ 
+ω f  = 
+Iω i
+I + mR2  = 
+1
+2 mR2ω i
+1
+2 mR2 + mR2  = 
+1
+2 mR2ω i
+3
+2 mR2  =  1
+3ω i
+
+--- PAGE 44 ---
+Chapter 11     627 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The fractional change in kinetic energy is 
+ 
+ 
+ 
+ΔE
+E =
+1
+2 Iω f
+2 + 1
+2 MvCM
+2
+−1
+2 Iω i
+2
+1
+2 Iω i
+2
+=
+1
+2
+1
+2 MR2
+⎛
+⎝
+⎞
+⎠ω i/3
+(
+)
+2 + 1
+2 M Rω i/3
+(
+)
+2 −1
+2
+1
+2 MR2
+⎛
+⎝
+⎞
+⎠ω i
+2
+1
+2
+1
+2 MR2
+⎛
+⎝
+⎞
+⎠ω i
+2
+= −2
+3
+ 
+ 
+(c) 
+Δt = Δp
+f =
+Mv f
+µMg =
+MRω f
+µMg =
+Rω f
+3µg
+ 
+ 
+(d) From the particle under constant acceleration model: 
+ 
+ 
+ 
+Δx = vavgΔt = 0 + v f
+2
+Δt =  1
+2 v f Δt =  1
+2 Rω f
+(
+) 1
+3
+Rω i
+µg
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+       =  1
+2 R 1
+3ω i
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+1
+3
+Rω i
+µg
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ =  R2ω i
+2
+18µg
+ 
+P11.62 
+(a) 
+After impact, the disk adheres to the stick, so they will rotate 
+about their common center of mass; therefore, we must consider 
+the angular momentum of the system about its CM. First we find 
+the velocity of the CM by writing the equations for momentum 
+conservation: 
+ 
+ 
+ 
+mdvdi + 0 = md + ms
+(
+)vCM
+vCM =
+md
+md + ms
+vdi =
+2.0 kg
+2.0 kg + 1.0 kg
+⎛
+⎝⎜
+⎞
+⎠⎟3.0 m/s
+(
+) = 2.0 m/s
+ 
+ 
+ 
+The speed of the CM is 2.0 m/s . 
+ 
+(b) Locate the center of mass between the disk and the center of the 
+stick at impact: 
+ 
+ 
+ 
+yCM = mdr + ms 0
+( )
+md + ms
+= (2.0 kg) 2.0 m
+(
+)
+2.0 kg + 1.0 kg = 4
+3 m
+ 
+ 
+ 
+This means at impact the CM is 4/3 meters from the center of the 
+stick; therefore, the disk is 2.0 meters – 4/3 meters = 2/3 meters 
+from the CM at impact. Use the parallel-axis theorem to find the 
+moment of inertia of the system about the CM:
+
+--- PAGE 45 ---
+628     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Is = ICM + msrs
+2 = 1.33 kg ⋅m2 + 1.0 kg
+(
+) 4
+3 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 3.11 kg ⋅m2 
+ 
+ 
+The moment of inertia of the disk about the CM is 
+ 
+ 
+ 
+Id = mdrd
+2 = 2.0 kg
+(
+) 2
+3 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.889 kg ⋅m2 
+ 
+ 
+Angular momentum about the CM is conserved: 
+ 
+ 
+ 
+L = rdmdvd = Idω + Isω = Id + Is
+(
+)ω
+ω = rdmdvd
+Id + Is
+=
+2
+3 m
+⎛
+⎝
+⎞
+⎠2.0 kg
+(
+) 3.0 m/s
+(
+)
+0.889 kg⋅m2 + 3.11 kg⋅m2
+= 4.0 kg⋅m2/s
+4.00 kg⋅m2 = 1.0 rad/s
+ 
+P11.63 
+Angular momentum is conserved during the inelastic collision. 
+ 
+ 
+ 
+Mva = Iω
+ω = Mva
+I
+= 3v
+8a
+ 
+ 
+ANS. FIG. P11.63 
+ 
+The condition, that the box falls off the table, is that the center of mass 
+must reach its maximum height as the box rotates, hmax = a 2. Using 
+conservation of energy: 
+ 
+ 
+1
+2 Iω 2 = Mg a 2 −a
+(
+)
+1
+2
+8Ma2
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+3v
+8a
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= Mg a 2 −a
+(
+)
+
+--- PAGE 46 ---
+Chapter 11     629 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+v2 = 16
+3 ga
+2 −1
+(
+)
+v = 4 ga
+3
+2 −1
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+ 
+P11.64 
+For the cube to tip over, the center of mass (CM)  
+must rise so that it is over the axis of rotation AB.  
+To do this, the CM must be raised a distance of  
+a
+2 −1
+(
+). After the bullet strikes the cube, the  
+system is isolated: 
+ 
+ 
+ 
+K f +U f = Ki +Ui
+0 + Mga
+2 −1
+(
+) = 1
+2 Icubeω 2 + 0
+ 
+ 
+The moment of inertia of the cube about its CM  
+(from Table 10.2) is 
+ 
+ 
+ 
+ICM = 1
+12 M
+2a
+(
+)
+2 + 2a
+(
+)
+2
+⎡⎣
+⎤⎦= 8
+12 Ma2 = 2
+3 Ma2 
+ 
+The cube rotates about an edge, 
+2a from the CM. By the parallel-axis 
+theorem, 
+ 
+ 
+ 
+I = ICM + M
+2a
+(
+)
+2 = 2
+3 Ma2 + 2Ma2 = 8
+3 Ma2 
+ 
+From conservation of angular momentum, 
+ 
+ 
+ 
+Li (bullet) = Li (cube) →4a
+3 mv =
+8
+3 Ma2
+⎛
+⎝⎜
+⎞
+⎠⎟ω    →    ω = mv
+2Ma
+ 
+ 
+Inserting the expression for ω back into the energy equation, we have 
+ 
+ 
+ 
+Mga
+2 −1
+(
+) = 1
+2
+8
+3 Ma2
+⎛
+⎝⎜
+⎞
+⎠⎟
+m2v2
+4M2a2 →v = M
+m
+3ga
+2 −1
+(
+) 
+ 
+ 
+ 
+ 
+ANS. FIG. P11.64
+
+--- PAGE 47 ---
+630     Angular Momentum 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P11.2 
+(a) 740 cm
+2; (b) 59.5 cm 
+P11.4 
+See full solution in P11.4. 
+P11.6 
+(a) 168°; (b) 11.9°; (c) the first method 
+P11.8 
+(a) ( −10.0 N⋅m)ˆk ; (b) Yes; (c) Yes; (d) Yes; (e) No; (f) 5.00ˆj m 
+P11.10 
+(a) No; (b) No, the cross product could not work out that way. 
+P11.12 
+−22.0 kg ⋅m2/s
+(
+) ˆk 
+P11.14 
+ (a) −9.03 × 109kg ⋅m2/s
+(
+)ˆj ; (b) No; (c) Zero 
+P11.16 
+m2g3 sin4θ
+cosθ
+ 
+P11.18 
+(a) 3.14 N · m; (b) (0.480 kg · m)v; (c) 6.53 m/s
+2 
+P11.20 
+(a) 2t3ˆi + t2ˆj; (b) The particle starts from rest at the origin, starts 
+moving into the first quadrant, and gains speed faster while turning to 
+move more nearly parallel to the x axis; (c) 12tˆi + 2ˆj
+(
+) m/s2;  
+(d) 60tˆi + 10ˆj
+(
+) N; (e) −40t3 ˆk N⋅m;; (f) −10t4 ˆk kg⋅m2/s;  
+(g) (90t
+4 + 10t
+2) J; (h) (360t
+3 + 20t) W 
+P11.22 
+
+L = 4.50 kg ⋅m2 /s
+(
+) ˆk 
+P11.24 
+K = 1
+2 Iω 2 = 1
+2
+I 2ω 2
+I
+= L2
+2I
+ 
+P11.26 
+(a) 7.06 × 1033kg ⋅m2/s , toward the north celestial pole;  
+(b) 2.66 × 1040kg ⋅m2/s , toward the north ecliptic pole; (c) See P11.26(c) 
+for full explanation. 
+P11.28 
+8.63 m/s
+2 
+P11.30 
+(a) 
+I1
+I1 + I2
+ωi ; (b) 
+I1
+I1 + I2
+ 
+P11.32 
+(a) 2.91 s; (b) Yes because there is no net external torque acting on the 
+puck-rod-putty system; (c) No because the pivot pin is always pulling 
+on the rod to change the direction of the momentum; (d) No. Some 
+mechanical energy is converted into internal energy. The collision is 
+perfectly inelastic.
+
+--- PAGE 48 ---
+Chapter 11     631 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P11.34 
+(a) 1.91 rad/s; (b) 2.53 J, 6.44 J 
+P11.36 
+(a) 7.20 × 10−3kg ⋅m2/s ; (b) 9.47 rad/s 
+P11.38 
+(a) 2.35 rad/s; (b) 0.498 rad/s; (c) 5.58° 
+P11.40 
+When the people move to the center, the angular speed of the station 
+increases. This increases the effective gravity by 26%. Therefore, the 
+ball will not take the same amount of time to drop. 
+P11.42 
+131 s 
+P11.44 
+(a) 0; (b) monkey and bananas move upward with the same speed; (c) 
+The monkey will not reach the bananas. 
+P11.46 
+(a) 0.250ˆi m/s ; (b) 0.000 716; (c) 0.250ˆi m/s; (d) 15.8 rad/s; (e) 1.00;  
+(f) See P11.46(f) for full explanation. 
+P11.48 
+(a) 11.1 m/s; (b) 5.32 × 103kg ⋅m2/s ; (c) See P11.48(c) for full 
+explanation; (d) 12.0 m/s; (e) 1.08 kJ 
+P11.50 
+(a) 2.11ˆj rad/s; (b) See P11.50(b) for full problem statement; (c) Yes, 
+with the left-hand side representing the final situation and the right-
+hand side representing the original situation, the equation describes 
+the throwing process. 
+P11.52 
+(a) 4.50 m/s; (b) 10.1 N; (c) 0.450 J 
+P11.54 
+An asteroid that would cause a 0.500-s change in the rotation period of 
+the Earth has a mass of 1.38 × 10
+19 kg and is an order of magnitude 
+larger in diameter than the one that caused the extinction of the 
+dinosaurs. 
+P11.56 
+(a) Mvd; (b) M v
+2; (c) Mvd; (d) 2v; (e) 4M v
+2; (f) 3M v
+2 
+P11.58 
+(a) ω f = 36.0(1+ 3.20m)
+1+ 20.0m
+ rad/s; (b) ωf decreases smoothly from a 
+maximum value of 36.0 rad/s for m = 0 toward a minimum value of 
+(36 × 3.2/20) = 5.76 rad/s as m →∞ 
+P11.60 
+5.99 × 10−2 J  
+P11.62 
+(a) 2.0 m/s; (b) 1.0 rad/s 
+P11.64 
+M
+m
+3ga
+2 −1
+(
+)

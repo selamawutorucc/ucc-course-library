@@ -1,0 +1,108 @@
+
+--- PAGE 1 ---
+1 
+ 
+UNIVERSITY OF CAPE COAST 
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCES 
+SCHOOL OF PHYSICAL SCIENCES 
+DEPARTMENT OF PHYSICS 
+FIRST SEMESTER: 2022/2023 
+PHY 101: GENERAL PHYSICS I – GROUP 15  
+JAN, 2023 
+LECTURE ONE WORK EXERCISES VERSION 2 
+1. What is a physical quantity? 
+2. Differentiate between fundamental and derived quantities. 
+3. Define Dimension. 
+4. Write the dimensional formula of the following physical quantities 
+   (i) Potential Energy (ii) Power (iii) Surface Tension (iv) Strain(v) stress 
+5. Check the correctness of the relation 𝜆 = h /mv; where 𝜆 is wavelength, h- Planck’s            
+constant, m is mass of the particle and v - velocity of the particle. 
+6. Check whether the following equations are dimensionally correct. 
+(i) v = u + at 
+(ii) 𝐹=
+𝑀𝑉
+𝑟2 
+(iii) 𝑣2 −𝑢2 = 2𝑎𝑠 
+7. What is the formula, S.I units and physical quantity of the following 
+(a) [𝑀𝐿−1𝑇−2] 
+(b) [𝑀1𝐿2𝑇−2] 
+(c) [𝑀1𝐿1𝑇−1] 
+8.  The frequency f of a transverse wave in a stretched string depends on the length L, 
+tension T, and linear density m. Deduce the formula for f in terms of L, T and m using         
+dimensional analysis. 
+9. How many significant figures do we have in the following? 
+i. 
+4250 
+ii. 
+0.00703 
+iii. 
+5030.0 
+iv. 
+750.064080 
+    10. Express the speed of light 3.0×108𝑚𝑠−1 in millimeters per picosecond (mm/ps). 
+    11. Consider two vectors A = 3i – 2j and B = – i – 4j. Calculate: 
+i. 
+(
+)
+A
+B
++
+ and (
+)
+A
+B
+−
+. 
+ii. 
+|A + B| and |A – B| 
+iii. 
+The direction of (
+)
+A
+B
++
+ and (
+)
+A
+B
+−
+.
+
+--- PAGE 2 ---
+2 
+ 
+12. A force of 3N acts on 90ͦ to a force of 4N. Find the magnitude and direction of  
+          their resultant, R. 
+13. Consider two vectors A = 6i – 2j +4k   and B = – i – 4j+2k. Calculate: 
+i. (
+)
+A
+B
++
+ and (
+)
+A
+B
+−
+. 
+ii. the angle between A and B . 
+iii. the unit vector of (
+)
+A
+B
++
+ and (
+)
+A
+B
+−
+. 
+iv. A
+B
++
+ and A
+B
+−
+. 
+14. A car travels 45km due north and then 60km in a direction 750 west of north. Find the 
+magnitude and direction of the car’s resultant displacement.

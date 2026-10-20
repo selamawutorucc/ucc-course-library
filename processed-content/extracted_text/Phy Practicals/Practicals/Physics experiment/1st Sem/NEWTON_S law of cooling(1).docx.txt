@@ -1,0 +1,54 @@
+TITLE: EXPERIMENT TO VERIFY NEWTON’S LAW OF COOLING OF A LIQUID.
+AIM   : To verify Newton’s law of cooling of a liquid – water
+APPARATUS: Calorimeter with stirrer, thermometer (00-1000), gas burner, retort stand.
+DIAGRAM:
+Calorimeter with stirrer         Electric balance                    Glass beaker                Gas burner with retort stand
+THEORY:
+A hot liquid loses heat to the surrounding when it is left to cool over a period of time.  A graph of temperature against time of heat loss gives a curve known as cooling curve with a negative gradient.
+  Newton’s law of cooling states that the rate at which heat is lost from a hot body as it cool down is directly proportional to the temperature difference between the hot body and the surrounding.
+	Mathematically
+Where θ is the temperature of the body                                                                                                                                   
+               θ is the temperature of the surrounding
+               k is a constant which is the slope
+A graph of    against (θ-θ0) is a straight line 
+PROCEDURE:
+A calorimeter was placed on a bad conductor and placed near open window. Room temperature is measured using a thermometer and recorded as θs0 0c. Water was heated in a beaker to 900c using the gas burner, retort stand. The calorimeter was filled with about more than half full of the heated water and covered with the thermometer and stirrer in place. Keeping the cooling liquid well stirred all the time the temperature of the liquid was recorded at 1minute (60 seconds) interval until the temperature dropped to 35 0c. The temperature of the surroundings was recorded after the experiment and recorded as θs10c. The mean room temperature was calculated for and recorded as θs00c. 
+OBSERVATION:
+Temperature of surrounding before experiment = 310c
+Temperature of surrounding after experiment =290c
+Average temperature of the surroundings= 300c
+The results of the experiment were tabulated. The plotted values were tabulated as follows;
+              PLOTTED VALUES
+CALCULATION:
+A graph of temperature(0c) against time(s).
+Slope at 850c    = -20c
+Slope at 750c    = -20c
+Slope at 650c  = -1.420c/min                                                                 
+Slope at 550c   = -0.830c/min
+Slope at 450c  =-0.590c/min
+Slope at 350c   =-0.560c/min
+                                                            θ – θ0 = (Temperature at slope – Mean temperature of surroundings)
+A GRAPH OF SLOPE (0c/min ) AGAINST TEMPERATURE (0c)
+Time (t) | Time (t) | Time (t) | Temperature
+       (0c)
+  seconds |   seconds | minute | Temperature
+       (0c)
+0 | 0 | 0 | 90
+300 | 300 | 5 | 80
+600 | 600 | 10 | 70
+900 | 900 | 15 | 62
+1200 | 1200 | 20 | 58
+1500 | 1500 | 25 | 53
+1800 | 1800 | 30 | 49
+2100 | 2100 | 35 | 46
+2400 | 2400 | 40 | 43
+2700 | 45 | 45 | 41
+3000 | 50 | 50 | 38
+3300 | 55 | 55 | 35
+Slope (0c/min) | θ-θ0 (0c)
+2 | 56
+2 | 46
+1.42 | 36
+0.83 | 26
+0.59 | 16
+0.56 | 6

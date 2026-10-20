@@ -1,0 +1,72 @@
+UNIVERSITY OF CAPE COAST
+ARHIN KODJO JEFFREY
+SM/SMS/09/0054
+PHY104:  GENERAL PHYSICS PRACTICALS
+EXPERIMENT ONE
+WHEATSTONE BRIDGE EXPERIMENT
+25TH FEBRUARY 2010
+AIM
+The aim is to use the Wheatstone bridge circuit to:
+Determine unknown resistances 
+Determine the total resistance:
+Of resistors in series 
+Of resistors in parallel
+APPARATUS
+Slide wire meas. Bridge (1)                               
+Connection box (1)
+Standard PEK carbon resistor (1)
+Unknown PEK carbon resistors (5)
+Power supply 5V/1A, +/- 15V (1)
+Digital multimeter 07134.00 (1)
+Connecting cord, 500mm, red (2)
+Connecting cord, 500mm, yellow (2)
+Connecting cord, 500mm, blue (2)
+ DIAGRAM
+THEORY
+For a Wheatstone bridge circuit, at the balanced point, the potential at C equals the potential at J and no current flows through the digital multimeter. The potential difference across R equals that across the length l2 and the pd across Rx equals l1.
+Then,    and    
+For resistors R1 and R2 in series and parallel, the equivalent resistance are respectively,
+  and  
+PROCEDURE
+The values of the resistors to be determined were made invisible encoded as follows: A, B, C, D and E.
+The experiment was set up as shown in the manual. The resistances to be investigated are labeled as Rx. resistor A and the standard resistor were connected as shown in the circuit diagram using the connection box.
+The power was switched on and the correctness of the connections were checked by touching the bridge wire at the extreme ends X and Y with the slider (jockey) J to produce negative and positive reading of the digital multimeter G. then, the balanced point was located on the wire at J which is where there is zero reading on the digital multimeter.
+The lengths l1 from the end X to the balanced point and also l2 were measured and recorded.
+The experiment was repeated with the unknown resistances B, C, D and E, and again repeated with any two of the unknown resistors connected in series Rs first and then in parallel Rp.
+Then, the Wheatstone bridge circuit formula was used to determine:
+A B C D and E
+Rs
+Rp
+Confirm Rs and Rp  by calculation using the series and the parallel formula for resistors (using the two unknown resistors)
+TABLE OF RESULT
+CALCULATION
+For resistor A, 
+For resistor B, 
+For resistor C, 
+For resistor D, 
+For resistor E, 
+For resistor BC (in series), 
+For resistor BC (in parallel), 
+Using the series formula  
+Using the parallel formula 
+DISCUSSION
+Using the Wheatstone bridge in the experiment we obtained values for what was to be the resistances of the resistors used in connection with a standard resistor of 10Ω. Resistors A, B, C, D and E recorded resistances of 4.77Ω, 0.66Ω, 0.14Ω, 0.30Ω, 0.07Ω respectively. When resistor B and C were paired in series (with the standard resistor) the resistance recorded was 0.81Ω. But according to the series formula, when the resistance of B is added to the resistance of C, the resistance BC (in series) should also be obtained. This was observed and thus proven to be true when RB and RC was added which equaled 0.80Ω. So the experiment and formula both produced the same value approximately for the resistance of BC in series. We can then say that the formula for finding the resistance of resistors in series is true and reliable.
+When resistors B and C were arranged in parallel (with the standard resistor) the resistance recorded was 0.10Ω. But according to the parallel formula for resistors, when the inverse of resistor B is added to the inverse of resistor C, the inverse of resistor BC (in parallel) should be obtained. Based on the calculation above, this was also observed and thus proven to be true since the value obtained was 0.11Ω which is approximately equal to the value obtained experimentally. We can therefore also say that the formula for finding the resistance of resistors in parallel is true and reliable.
+SOURCES OF ERROR
+Most of the time the balanced point fell in a range of about 10mm and so the precise point could have been different from the point recorded.
+PRECAUTIONS
+It was always made sure that the jockey firmly touched wire throughout the reading so as not to obtain a wrong value for the resistance
+After recording a value, I made sure to check all the connections again before going to the next resistor.
+Whenever a resistor was removed for a new one to be placed, I switched of the power supply to avoid any electrical problems or shock.  
+CONCLUSION
+The resistance for resistors A, B, C, D and E were 4.77Ω, 0.66Ω, 0.14Ω, 0.30Ω and 0.07Ω respectively. Resistance BC in series was 0.81Ω and in parallel was 0.10Ω. Hence the series and parallel formulas for resistors are accurate and the Wheatstone bridge is also accurate.
+REFERENCES
+Serway / Faughn; COLLEGE PHYSICS, 6th edition, Brooks / Cole- Thomson Learning, CA, 2003. Pages 730-733
+      Resistor/Ω |         l1 / mm |       l2 / mm
+A | 323 | 677
+B | 62 | 938
+C | 14 | 986
+D | 29 | 971
+E | 7 | 993
+BC (in series) | 75 | 925
+BC (in parallel) | 10 | 990

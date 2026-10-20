@@ -1,0 +1,45 @@
+TITLE:  Refraction of light.
+AIM: To determine the focal length of a converging lens
+APPARATUS: Illuminated object O, Screen S, Optical bench, Converging lens L, Lens holder, Meter rule
+DIAGRAM 
+THEORY
+Refraction is the bending of light when it passes from one kind of material into another. Because light travels at a different speed in different materials, it must change speeds at the boundary between two materials. If a beam of light hits this boundary at an angle, then light on the side of the beam that hits first will be forced to slow down or speed up before light on the other side hits the new material. This makes the beam bend, or refract, at the boundary. Light bouncing off an object underwater, for instance, travels first through the water and then through the air to reach an observer’s eye. From certain angles an object that is partially submerged appears bent where it enters the water because light from the part underwater is being refracted. The refractive index of a material is the ratio of the speed of light in a vacuum to the speed of light inside the material. Because light of different frequencies travels at different speeds in a material, the refractive index is different for different frequencies. This means that light of different colors is bent by different angles as it passes from one material into another. This effect produces the familiar colorful spectrum seen when sunlight passes through a glass prism. The angle of bending at a boundary between two transparent materials is related to the refractive indexes of the materials through Snell’s Law, a mathematical formula that is used to design lenses
+METHOD
+A quick method of finding the focal length of a converging lens is to focus the image of a distant object on a screen where its position is adjusted until a clear image and sharp image is formed on the screen, the distance between the lens and the screen gives an approximate value of the focal length. Rays coming from a distant object are parallel rays. They therefore converge to the principal focus of the lens after refraction.
+The illuminated object O and the Screen S is placed more than four times the focal length of l separation is carefully measured. Then the lens was placed nearer to the screen until a sharp image was focused. It was recorded as Y then the lens was then moved away where a magnified sharp image was formed and then recorded as X. The difference of X and Y was calculated and laws varied for different values of X and Y.
+EXPECTED GRAPH:
+l2-d2/m2
+	0		l/m2
+TABLE OF VALUES
+     Focal length= 21cm
+GRAPH
+CALCULATION
+From the graph, the resistance of the copper rod which is the slope of its graph,
+Slope =
+Slope = = =   0.6427m
+Using the equation: = 4f
+4f =slope
+f = slope/4
+f = 
+f = 0.160675m
+DISCUSSION
+From the calculations the theoretical value was evaluated to be 0.160675m as compared to the graph  with an intercept 0. From the  graph the intercept  passed through the origin and having a point (0, 0) The slope which showed that l2-d2/l was from the main equation as stated above the main focal length was found by dividing the value obtain by four to get 0.160675 which when approximate would be equal to 0.20m an almost similar value to the one obtain the experiment was done to determine the approximate focal length of the converging lens.
+CONCLUSION
+From the experiment performed and the data obtained, the slope of the graph was found to be o.6427m, which when divided by four gives the focal length of 0.160675m which is approximately 0.20m
+SOURCE OF ERROR
+Errors might be due to parallax errors in measuring the metre rule.
+.
+PRECAUTIONS
+It was ensured that a sharp image was properly focused on the screened.
+It was ensured that there was a proper alignment of object, lens and the screen.
+REFERENCE                                                                                                                                                                                                            
+Raymond A.Serway, Jerry S.Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536.
+	Nelkon and Parker, 4thedition
+	Principle of Physics, 5th edition
+	College Physics.
+l/m | X/m | Y/m | d/m | l2/m | d2/m |     l2-d2/m2
+0.70 | 0.407 | 0.289 | 0.118 | 0.49 | 0.013924 | 0.476076
+0.75 | 0.488 | 0.255 | 0.233 | 0.5625 | 0.054289 | 0.508211
+0.80 | 0.243 | 0.552 | 0.309 | 0.64 | 0.095481 | 0.544519
+0.85 | 0.238 | 0.615 | 0.377 | 0.7225 | 0.142129 | 0.580371
+0.90 | 0.227 | 0.673 | 0.446 | 0.81 | 0.198916 | 0.611084

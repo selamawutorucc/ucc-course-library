@@ -1,0 +1,126 @@
+INTRODUCTION TO COMPUTING
+CHAPTER THREE: COMPUTERS AND MOBILE DEVICES
+A __________is a thin, lightweight mobile computer with a screen in its lid and a keyboard in its base. (Laptop)
+Usually smaller than a laptop but larger than a phone, a____________ is a thin, lighter weight mobile computer that has a touch screen. (Tablet)
+A____________ is a type of tablet that does not contain a physical keyboard. (Slate Tablet)
+A tablet that has a screen in its lid and a keyboard in its base, with the lid and base connected by a swivel-type hinge is called a ________________. (Convertible Tablet)
+A small ink pen, that you can use to enter data, make selections, or draw on a touch screen is known as___________. (Stylus)
+_____________ refers to a device that combines features of a Smartphone with a tablet. (Phablet)
+A _____________ is a computer small enough to fit in one hand. (Handheld Computer)
+____________ refers to the case that contains and protects the motherboard, internal hard drive, memory, and other electronic components of the computer from damage. (System Unit)
+A metal or plastic frame that houses the system unit on a desktop is known as ___________. (tower)
+A ________________ offers high-quality audio, video, and graphics with optimal performance for sophisticated single-user and networked or Internet multiplayer games. (Gaming Desktop)
+Power users may work with a high-end desktop, sometimes called_______________ that is designed to handle intense calculations and sophisticated graphics. (Workstation)
+A___________ is a computer dedicated to providing one or more services to other computers or devices on a network.(Server)
+A ____________ is a server that is housed in a slot on a metal frame.( Rack Server)
+A _____________is a server built into an upright cabinet (tower) that stands alone.( Tower Server)
+The practice of sharing or pooling computing resources, such as servers and storage devices is known as _______________.( Virtualization)
+ ________________uses software to enable a physical server to emulate the hardware and computing capabilities of one or more servers.( Server virtualization) 
+A ____________is a server in the form of a single circuit board or blade.( Blade Server)
+A _____________is a network of several servers together in a single location. ( Server Farm)
+A ____________is a large, expensive, powerful server that can handle hundreds or thousands of connected users simultaneously.( mainframe)
+ A computer, usually with limited processing power, that enables users to send data to and/or receive information from a server, or host computer is known as a ___________.( terminal)
+A ______________ is a terminal that looks like a desktop but has limited capabilities and components.( Thin Client)
+An input device that uses laser beams to read bar codes on products is known as ________________.   ( Bar Code Reader)
+An________ is a self-service banking terminal that connects to a host computer through a network.      ( ATM (Automated Teller Machine))
+A___________________ is a freestanding terminal that usually has a touch screen for user interaction. ( self-service kiosk)
+The fastest, most powerful computer and the most expensive is the _______________________.                                  ( Supercomputer)
+______________refers to an environment that provides resources and services accessed via the Internet. ( Cloud computing)
+A _______________is a computing device small enough to hold in your hand.( Mobile Device)
+A _____________is an Internet-capable phone that usually also includes a calendar, an address book, a calculator, a notepad, games, browser, and numerous other apps.( Smartphone)
+Some phones support a_________________ on which users enter words by tracing a path on an on-screen keyboard with their fingertip or stylus from one letter to the next in a continuous motion.           ( Swipe Keyboard App)
+Some phones use______________ where you press one key on the keyboard or keypad for each letter in a word, and software on the phone predicts the word you want.( Predictive Text)
+Instead of typing on a phone’s keyboard or keypad, users can enter text via _________________which is a full-sized keyboard that communicates with a Smartphone via a dock, cables, or wirelessly.            (Portable Keyboard).
+ A____________________  that projects an image of a keyboard on a flat surface.( Virtual Keyboard)
+_____________is a four or five-digit number assigned to a specific content or mobile service provider.( Common Short Code (CSC))
+_____________ which functions much like an answering machine, allows someone to leave a voice message for one or more people.( Voice mail)
+With ___________users can view message details, such as the length of calls and, in some cases, read message contents instead of listening to them.( Visual Voice Mail)
+A ________is a mobile device that allows users to take photos and store the photographed images digitally.( Digital Camera)
+A __________is an affordable and lightweight digital camera with lenses built into it and a screen that displays an approximation of the image to be photographed.( Point-and-shoot camera)
+An ___________________by contrast is a high-end digital camera that has interchangeable lenses and uses a mirror to display on its screen an exact replica of the image to be photographed.                          ( SLR camera (single-lens reflex camera))
+_______________is the number of horizontal and vertical pixels in a display.( Resolution)
+Digital camera resolution typically is stated in ___________________.( Megapixels (MP))
+The actual photographed resolution is known as the____________________.(Optical resolution)
+The ________________usually is higher because it uses a special formula to add pixels between those generated by the optical resolution.( Enhanced resolution)
+A______________ is a mobile device on which you can store, organize, and play or view digital media.( portable media player)
+Portable media players usually require a set of ___________which are small speakers that rest inside each ear canal.( ear buds)`
+A ____________ is an input device that contains buttons and/or wheels you operate with a thumb or finger.( touch-sensitive pad)
+Your collection of stored digital media is called a_________________.(media library)
+A______________ allows a device to speak the contents of a printed page.( text-to-speech feature)
+An ________is a wearable device that monitors fitness-related activities such as distance walked, heart rate, pulse, calories consumed, and sleep patterns.( Activity Tracker)
+A ______________is a wearable device that, in addition to keeping time, can communicate wirelessly with a Smartphone. ( Smart watch)
+_________are wearable head-mounted eyeglass type devices that enable the user to view information or take photos and videos that are projected to a miniature screen in the user’s field of vision.                       ( Smart glasses OR smart eyewear)
+A ________________is a mobile computing device designed for single-player or multiplayer video games.( game console)
+A_______ is a small mobile device that contains a screen, speakers, controls, and game console all in one unit.( handheld game device)
+A _____________which is held with both hands, controls the movement and actions of players or objects in video games or computer games.( gamepad)
+A_____________ is a handheld vertical lever, mounted on a base, that you move in different directions to control the actions of the simulated vehicle or player.( joystick)
+A flat, electronic device divided into panels that users press with their feet in response to instructions from a music video game is called a _____________.( dance pad)
+___________________allow users to guide on-screen elements with air gestures, that is, by moving their body or a handheld input device through the air.( Motion-sensing game controllers)
+Fitness games often communicate with a________________ which is shaped like a weight scale and contains sensors that measure a game player’s balance and weight.( balance board)
+An __________________is a special-purpose computer that functions as a component in a larger product. ( embedded computer)
+A ________is the point at which a peripheral device attaches to or communicates with a computer or mobile device so that the peripheral device can send data to or receive information from the computer or mobile device.( port)
+A ________is an external device that provides connections to peripheral devices through ports built into the device.( port replicator)
+A ________which is an external device that attaches to a mobile computer or device, contains a power connection and provides connections to peripheral devices.( Docking Station)
+ NFC stands for ___________ (Near Field Communications)
+A _____________captures curves and indentations of a fingerprint.( Fingerprint Reader)
+A momentary overvoltage, called a________ occurs when the increase in power lasts for less than one millisecond (Spike).
+_____________uses electrical components to provide a stable current flow and minimize the chances of an overvoltage reaching the computer and other electronic equipment. (Surge Protector)
+An ________________is a device that contains surge protection circuits and one or more batteries that can provide power during a temporary or permanent loss of power (uninterruptible power supply (UPS ))
+A______________________ is an injury or disorder of the muscles, nerves, tendons, ligaments, and joints ( Repetitive Strain Injury (RSI))
+____________________is a technology-related health condition that affects eyesight.                 (Computer vision syndrome (CVS))
+____________ is an applied science devoted to incorporating comfort, efficiency, and safety into the design of items in the workplace. (Ergonomics)
+_____________ is the process of initiating contact between two Bluetooth devices. (Pairing)
+TRUE OR FALSE (DISCOVERING COMPUTERS, 2016)
+Malware authors often focus on social media, with the goal of stealing personal information. (TRUE)
+The disadvantages of a virtual server are that it is difficult to manage and takes a long time to create and configure. (FALSE)
+A mainframe is a small terminal that looks like a desktop, but has limited capabilities and   components. (FALSE)
+Thin clients contain powerful hard drives. (FALSE)
+Applications requiring complex, sophisticated mathematical calculations use mainframes. (FALSE)
+Most computers and electronic devices are analog, which use only two discrete states: on and off. (FALSE)
+SLR cameras are much heavier and larger than point-and-shoot cameras. (TRUE)
+Because embedded computers are components in larger products, they usually are small and have limited hardware. (TRUE)
+Instead of the term, port, the term, connector, sometimes is used to identify audio and video ports. (FALSE)
+Newer versions of USB are backward compatible, which means they support only new USB devices, not older ones. (FALSE)
+A port replicator is an external device that provides connections to peripheral devices through ports built into the device. (TRUE)
+Because the processor in a computer is particularly sensitive to fluctuations in current, you always should use a surge protector. (TRUE)
+MULTIPLE CHOICE DISCOVERING COMPUTERS (2016)
+Which of the following is not true of ultrathin laptops? (111)
+They weigh less than traditional laptops.
+They have a shorter battery life.
+Many have fewer ports than traditional laptops.
+They do not include an optical disc drive.
+Some people use the term _____ to refer to the case that contains and protects the motherboard, internal hard drive, memory, and other electronic components of the computer from damage. (114)
+system unit
+phablet
+thin client
+USB hub
+Power users may work with a high-end desktop, sometimes called a(n) _____ that is designed to handle intense calculations and powerful graphics. (114)
+laptop
+gaming desktop
+server farm
+workstation
+Services provided by _____ include storing content and controlling access to hardware, software, and other resources on a network. (116)
+jacks
+servers
+fault-tolerant computers
+mainframes
+A dedicated server that backs up and restores files, folders, and media is referred to as a _____. (116)
+web server
+file server
+storage server
+backup server
+A four- or five-digit number assigned to a specific content or mobile service provider is referred to as a(n) _____. (124)
+CSC
+MMS
+SMS
+SLR
+A(n) __ is a special-purpose computer that functions as a component in a larger product. (132)
+server
+embedded computer
+thin client
+ultra book
+A(n) _____ can connect up to 127 different peripheral devices together with a single connector. (136)
+SLR device
+USB port
+port replicator
+docking station

@@ -1,0 +1,159 @@
+
+--- PAGE 1 ---
+LEP
+1.3.21
+Mathematical pendulum
+R
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+21321
+1
+Related topics
+Duration of oscillation, period, amplitude, harmonic oscilla-
+tion.
+Principle and task
+A mass, considered as of point form, suspended on a thread
+and subjected to the force of gravity, is deflected from its posi-
+tion of rest.  The period of the oscillation thus produced is
+measured as a function of the thread length and the angle of
+deflection.
+Equipment
+Light barrier with Counter
+11207.08
+1
+Power supply 5 V DC/0,3 A
+11076.93
+1
+Steel ball with eyelet, d 24.4 mm
+02465.01
+1
+Steel ball with eyelet, d 32 mm
+02466.01
+1
+Meter scale, demo, l = 1000 mm
+03001.00
+1
+Cursors, 1 pair
+02201.00
+1
+Fish line, l 100 m
+02090.00
+1
+Right angle clamp -PASS-
+02040.55
+2
+Clamping pads on stem
+02050.00
+1
+Support rod -PASS-, square, l 1250 mm
+02029.55
+1
+Tripod base -PASS-
+02002.55
+1
+Problems
+1. For small deflections, the oscillation period is determined
+as a function of the cord length.
+2. The acceleration due to gravity is determined.
+3. The oscillation period is determined as a function of the
+deflection.
+Set-up and procedure
+The experimental set up is arranged as shown in Fig. 1. The
+steel ball is tied to the fishing line and the latter is fixed in the
+clamping pads on stem. With a new line,the ball should be
+allowed to hang for a few minutes, since the fishing line
+stretches slightly. The pendulum length should be measured
+before and after the experiment and averaged in each case.
+The radius of the ball should be taken into account in the
+measurement. For problem 1, the light barrier can be used to
+measure a half-cycle.
+To measure the oscillation period as a function of the deflec-
+tion, the pendulum is deflected to both sides and the half-
+cycle times are added. In each case switch the light barrier to
+-mode.
+Fig. 1: Experimental set up for determining the oscillation period of a mathematical pendulum.
+
+--- PAGE 2 ---
+LEP
+1.3.21
+Mathematical pendulum
+R
+21321
+PHYWE series of publications • Laboratory Experiments • Physics • PHYWE SYSTEME GMBH • 37070 Göttingen, Germany
+2
+Fig. 2:  Motion of the pendulum.
+Theory and evaluation
+From the energy equation there follows, with the notation of
+Fig. 2:
+l 2
++ 2gl (1-cosf) = E0 = const. 
+(1)
+Since the angular velocity vanishes at the reversal point, when
+f = a
+then one obtains for E
+E0 = 2 gl (1-cosa)
+Therefore, from (1)
+T/4 = 
+With k = sin a/2, the period is obtained as
+T = 4 
+· 
+= 4 
+K (k)
+where K is the complete 1st-order elliptical integral.
+Development of the series for K(k) gives
+T = 2p
+{1 + 
+sin2
++…}
+(2)
+For small values of a (a ≤2°:
+T = 2p
+(3)
+From the regression line to the measured values of Fig. 3 with
+the exponential statement
+Y = A · XB
+the exponent is obtained
+B = 0.502 ± 0.001
+(see (3))
+and
+A = 2.007 s/
+From this, with (3), the value for the acceleration due to grav-
+ity is obtained as
+g = 9.80 m/s2
+For larger angles a, T depends on a (2).
+Ïm
+!
+l
+g
+a
+2
+1
+4
+!
+l
+g
+!
+l
+g
+df
+Ï1– k2 sin2 f
+E
+p/2
+0
+!
+l
+g
+!
+l
+g E
+a
+0
+ 
+df
+Ï(cosf – cosa)
+5
+df
+dt6
+2
+Fig. 3: Period of the pendulum as a function of length.
+Fig. 4: Period of the pendulum as a function of the angle of
+deflection.

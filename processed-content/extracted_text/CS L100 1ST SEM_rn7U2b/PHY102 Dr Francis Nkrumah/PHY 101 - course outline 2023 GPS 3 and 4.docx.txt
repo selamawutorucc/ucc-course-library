@@ -1,0 +1,53 @@
+UNIVERSITY OF CAPE COAST
+DEPARTMENT OF PHYSICS
+FIRST SEMESTER-2022/2023 ACADEMIC YEAR
+Course Title:			PHY 101 General Physics I (Theory)
+Credit:			(2 hrs of lecture and 1 hr of lab work in PHY 103 weekly, 2 hrs of 	  				recitation)				
+Lecturer:			Prof. Frederick Sam
+Office:				The Physics General office will direct you to the lecturer’s office
+Office Hours:			As announced in class
+Phone:				0249706539
+E-mail:			fsam@ucc.edu.gh
+Meeting hours:		See Time table - Extra Meeting Hours Needed (To be discussed in 					class)
+Curriculum Placement:
+Entry-level, calculus-based, General Physics sequence
+Pre-requisites:  None
+Course Objectives:	The course covers the physical principles that underlie the field of classical mechanics. Introductory Mathematics will be incorporated to formulate quantitative statements. Heavy emphasis is placed on understanding the principles and applying them to solve “real” problems. The final grade is based principally on the student’s ability to recognize physical principles and apply mathematics to obtain solutions to quantitative problems.
+Course Outline:	   
+PHY 101: (Introductory Mechanics, Properties of Matter and Heat). 
+Dimensional Analysis: Vectors, Kinematics; Dynamics, Work-Energy, Elasticity; FLUIDS-Pressure In fluid; Fluid flow; Viscosity; Surface tension; Kinetic Theory of Gases; Temperature Scales; First Law of Thermodynamics; Principal Molar Specific Heat Capacities of Gasses; Isothermal and Adiabatic Changes; Thermal Conductivity.
+PHY 102: (Introductory Optics, Waves, Electricity & Magnetism)
+Reflection & Refraction at Plane/Curved Surfaces, Lens’s Formula, Thin Lenses in Contact, 
+Characteristics of Wave Motion, Sound Waves, Resonance, Static Electricity, The Coulomb’s Law, Electric Potential, Capacitance, Current Electricity
+Methods of Evaluation:						
+Homework: Homework(s) for each section of the course will be assigned. Homework is due one week after being assigned. Post-deadline homework will not be accepted. 
+Exams: The student will complete five (5) tests (including Quizes) and a final exam. The exams consist of qualitative and quantitative problems similar to those discussed in class and those assigned for homework.
+Laboratory: The student will complete different laboratory assignments. The laboratory assignments are in close relation with the basic concepts explained in the lectures. Each assignment involves carrying out an experiment and the completion of a brief laboratory report. 
+Homework and examination grades collectively determine the final course grade according to the following formula:
+Tests (homework, tests, including quizes): 		40 %
+Final Exam: 						60 %.
+Failure to take any examination or quiz will result in a grade of zero.  Make-up examinations will be offered when justified in writing with proofs of evidence.  It is entirely the responsibility of the student to arrange any make-up exams with the instructor.  Final grades will be assigned according to the following schedule:
+A		Above 80
+B+		75 - 79
+B                   	70 -74
+C+		65 - 69
+C		60 - 64
+D+		55 – 59
+D                  	50-54
+E		Less than 50
+Attendance Policy:	Regular class attendance is a vital part of the educational process.  Students are expected to attend all classes and laboratory sessions.  Any absence from either of these activities will disrupt the continuity of the course work, jeopardizing the systematic development of the physical concepts necessary to succeed in this course.  Absences without an excuse may prohibit the student from completing some of the course requirements, resulting in a lower course grade.  All students must attend and participate in every aspect of this course if they expect to fully benefit from it.
+Other Course Policies:	
+			(i) The office hours are listed above. If you cannot make it during the office hours, please telephone, email me or leave me a note in my mailbox located in the office of the Department of Physics and Pre-engineering, to let me know when you can make it. I will get back to you as soon as possible with a date and time that suits you.
+			(ii) No food or drink is allowed in the class.
+			(iii) Cell phones must be turned off. If you are a parent with child in day 				care, you may need to leave your phone on in silent mode.
+			(iv) Start of class: Please note that should you arrive late to class, your friends and the instructor will appreciate it if you could try not to disturb the class. Quizzes will be assigned at beginning of random classes.
+			(v) Absence: Should you, for any reason, miss a class, it is your responsibility to find out (by talking to me and / or your classmates) what has been covered and assigned during that class.
+Handicapped:
+If you have a specific disability that qualifies you for special academic accommodations, please notify the lecturer and provide certification from a specialist/doctor specifying your disability.
+TEACHING SCHEDULE – PHY 101: GENERAL PHYSICS
+2018/19 ACADEMIC YEAR
+Course Textbook:	 	
+(i) Physics for Scientists and Engineers (3rd Edition), Randall D. Knight, Pearson, 2013 (ISBN: 9780321752949)
+(ii) Physics for scientists and engineers: R.A. Serway, and R.J. Beichner, Fifth edition, Vol. 1 (Saunders College Publishing,  Orlando FL, 2000)	
+(iii) College Physics: R. Resnick, D. Halliday (Any edition), Vol.1 (JohnWiley & Sons, New York NY, 1992)
+(iv) University Physics’’ by Young & Freeman

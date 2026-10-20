@@ -1,0 +1,653 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Apply Quick Styles
+Step 1 
+Select a portion of text to which you want to apply some style. 
+Using style, you can change the selected portion of text as a heading or subheading or title of the document. 
+
+Step 2  
+Click the Home tab and then move your mouse pointer over the available styles in the Style Gallery. 
+You will see that the selected portion of text will change its style based on the selected style. 
+You can display more available styles by clicking the More Style button.
+
+--- SLIDE 6 ---
+Apply Quick Styles
+
+--- SLIDE 7 ---
+Apply Quick Styles
+Step 3 
+Finally, to apply a selected style, click over the style and you will find that it is has been applied on the selected portion of text.
+
+
+--- SLIDE 8 ---
+Change Styles
+The Change Style function allows you to change the default font, colour, paragraph spacing and style set for a document.
+Step 1 
+Click the Home tab and then click the Change Styles button; this will show you all the options that can be changed.
+
+You can change the Style, the Font, the Colour and the Spacing of the paragraph.
+
+
+
+
+
+
+
+
+--- SLIDE 9 ---
+Change Styles
+
+--- SLIDE 10 ---
+Change Styles
+Step 2 
+If the style set needs to be changed, 
+click the Style Set option; this will display a submenu to select any of the available style set.
+When you move your mouse over the different style sets, you will get real time text preview to give an idea about the final result.
+
+
+
+
+--- SLIDE 11 ---
+Change Styles
+Step 3 
+To apply a selected style set, 
+Click over the style set and you will find that it is has been applied on your document
+
+
+
+--- SLIDE 12 ---
+Using Existing Template
+Step 1
+To start a new document, click the File tab.
+ Click the New option; this will display the Available Templates.
+
+
+--- SLIDE 13 ---
+Using Existing Template
+Step 2
+Microsoft Word provides a list of templates arranged under Sample Templates or you can download hundreds of templates from office.com which are arranged in different categories. 
+We will use Sample Templates for our document. 
+
+
+--- SLIDE 14 ---
+Using Existing Template
+Step 3
+Select Equity Report template for our report requirement.
+Select the Document Option available in the third column.
+
+
+--- SLIDE 15 ---
+Create New Template
+Step 1
+To create a new template using an existing template, click the File tab and then click the New option. 
+ A Microsoft Word template file has an extension of .dotx.
+
+
+--- SLIDE 16 ---
+Create New Template
+Step 2
+You can now modify an open template as per your requirements and once you are done,
+ you can save this template with a .dotx extension which is a standard extension for Microsoft Word Templates..
+
+
+--- SLIDE 17 ---
+Adding Picture in Document
+Step 1
+Click on your document where you want to add a picture.
+Step 2 
+Click the Insert tab 
+click the Picture option available in illustrations group, which will display the Insert Picture dialog box.
+
+--- SLIDE 18 ---
+Adding Picture in Document
+
+--- SLIDE 19 ---
+Adding Picture in Document
+Step 3
+You can select a required picture using the Insert Picture dialog box.
+When you will click the Insert button, selected picture will be inserted in your document. 
+
+
+--- SLIDE 20 ---
+Adding WordArt in Document
+Step 1
+Click in your document where you want to add WordArt.
+Step 2 
+ Click the Insert tab  
+Click the WordArt option available in the Text group; this will display a gallery of WordArt.
+
+--- SLIDE 21 ---
+Adding WordArt in Document
+Step 3
+You can select any of the WordArt style from the displayed gallery by clicking on it.
+
+Now you can modify the inserted text as per your requirement and you can make it further beautiful by using different options available.
+
+Double-click your inserted WordArt and Word will give you numerous options available from the Format tab to format your image.
+
+Most frequently used options are Shape Styles and WordArt Styles.
+
+--- SLIDE 22 ---
+Adding WordArt in Document
+
+--- SLIDE 23 ---
+Setting AutoCorrect
+Step 1
+Click the File tab, and then  Click Options, 
+Click the Proofing option available in the left most column, it will display the Word Options dialog box.
+
+
+--- SLIDE 24 ---
+Setting AutoCorrect
+Step 2
+Click the AutoCorrect Options button which will display the AutoCorrect dialog box. 
+Click the AutoCorrect tab.
+Now you have to make sure all the options are enabled, especially the Replace Text as you type option.
+
+--- SLIDE 25 ---
+Setting AutoCorrect
+Step 2
+
+
+--- SLIDE 26 ---
+Setting AutoCorrect
+Step 3
+Select from among the following options, depending on your preferences.
+
+
+--- SLIDE 27 ---
+Setting AutoCorrect
+Step 3
+Select from among the following options, depending on your preferences.
+
+
+--- SLIDE 28 ---
+Setting AutoCorrect
+Step 3
+Although Word comes preconfigured with hundreds of AutoCorrect entries, you can also manually add entries using the following dialog box and use the Replace and With text boxes to add more entries.
+
+I added an entry for Markiting which should be replaced with Marketing. 
+
+--- SLIDE 29 ---
+Setting AutoCorrect
+Step 4
+ Click OK to close the AutoCorrect Options dialog box 
+
+Click OK to close the Word Options dialog box.
+
+Now try to type Markiting and as soon as you type this word, Microsoft Word autocorrects it with the correct word Marketing word.
+
+--- SLIDE 30 ---
+Setting AutoFormat
+Step 1
+Click the File tab, and then  Click Options, 
+Click the Proofing option available in the left most column, it will display the Word Options dialog box.
+
+
+--- SLIDE 31 ---
+Setting AutoFormat
+Step 2
+Click the AutoCorrect Options button; this will display the AutoCorrect dialog box. 
+click the AutoFormat As You Type tab to determine what items Word will automatically format for you as you type.
+
+
+--- SLIDE 32 ---
+Setting AutoFormat
+Step 3
+Select from among the following options, depending on your preferences.
+
+
+
+--- SLIDE 33 ---
+Setting AutoFormat
+Step 3
+Select from among the following options, depending on your preferences.
+
+
+
+--- SLIDE 34 ---
+Setting AutoFormat
+Step 3
+Select from among the following options, depending on your preferences.
+
+
+
+--- SLIDE 35 ---
+Create Table of Contents
+A table of contents (or TOC) is a list of headings in the order in which they appear in the document.
+Step 1
+Consider a document having different levels of headings..
+
+
+
+--- SLIDE 36 ---
+Create Table of Contents
+Step 2
+You can insert a table of content anywhere in the document, but the best place is always at the beginning of the document.
+
+Bring your insertion point at the beginning of the document and then click the References tab followed by the Table of Content button;
+
+
+--- SLIDE 37 ---
+Create Table of Contents
+Step 3
+Select any of the displayed options by simply clicking on it. A table of content will be inserted at the selected location.
+
+
+--- SLIDE 38 ---
+Create Table of Contents
+Step 4
+Select any of the displayed options by simply clicking on it. A table of content will be inserted at the selected location.
+
+If you click on the Insert Table of Content option available in the option menu, then it will show you a dialog box where you can select the number of levels you want to have in your table of content.
+
+You can turn ON or turn OFF the Show Page Numbers option. Once done, click the OK button to apply the options.
+
+--- SLIDE 39 ---
+Create Table of Contents
+Step 4
+
+
+--- SLIDE 40 ---
+Update Table of Contents
+Step 1
+Consider you already have a table of content as shown below.
+ Click the References tab followed by the Update Table button; this will display the Update Table of Contents dialog box with two options.
+
+
+
+--- SLIDE 41 ---
+Update Table of Contents
+Step 2
+If you want to update just the page numbers then select the first option Update page numbers only available in the dialog box 
+
+Select the second option Update entire table and you will find your table of content updated with all the latest changes.
+
+--- SLIDE 42 ---
+Delete Table of Contents
+Step 1
+Click the References tab and next Table of Contents button which will display a list of Table of Contents options along with Remove Table of Contents option available at the bottom.
+
+
+--- SLIDE 43 ---
+Preview Documents
+Step 1
+Open the document the preview of which you want to see.
+
+
+
+--- SLIDE 44 ---
+Preview Documents
+Step 2
+Click the File tab followed by the Print option; this will display a preview of the document in the right column.
+
+
+--- SLIDE 45 ---
+Printing Documents
+Step 1
+Click the File tab followed by the Print option; this will display a preview of the document in the right column.
+
+
+--- SLIDE 46 ---
+Printing Documents
+Step 2
+You can set various other printing options available. Select from among the following options, depending on your preferences.
+
+
+--- SLIDE 47 ---
+Printing Documents
+Step 2
+
+
+--- SLIDE 48 ---
+Printing Documents
+Step 2
+
+
+--- SLIDE 49 ---
+Printing Documents
+Step 3
+Once you are done with your setting, click on the Print button which will send your document to the printer for final printing.
+
+
+--- SLIDE 50 ---
+Mailing Documents
+Step 1
+Open the document you want to send using e-mail as an attachment.
+
+Step 2  
+Click the File tab.
+click the Save & Send option from the left most column; this will display a number of options to Save & Send, 
+You will have to select the Send using Email option available in the middle column.
+
+
+--- SLIDE 51 ---
+Mailing Documents
+
+--- SLIDE 52 ---
+Mailing Documents
+Step 3
+
+The third column will have various options to send email which allows you to send your document as an attachment in DOC format.
+
+ You can send your Word document in a PDF format.
+
+--- SLIDE 53 ---
+Translate Document Using Microsoft Translator
+Step 1
+Click the Review tab and then click the Translate button; this will display different options to be selected.
+
+
+
+--- SLIDE 54 ---
+Translate Document Using Microsoft Translator
+Step 2
+Select the Choose Translation Language option simply by clicking over it. 
+
+This will display a Translation Language Options dialog box asking for selecting from and to languages. 
+
+Here From is the source document's language and To is the target document’s language.
+
+--- SLIDE 55 ---
+Translate Document Using Microsoft Translator
+Step 2
+
+
+--- SLIDE 56 ---
+Translate Document Using Microsoft Translator
+Step 3
+After selecting From Language and To Language, click OK. 
+
+Now again go to Review tab and then click Translate button which will display different options to be selected.
+
+
+
+--- SLIDE 57 ---
+Translate Document Using Microsoft Translator
+Step 4
+To translate your document, you can click the Send button.
+This will send your document over the internet to be translated and you will have your document translated in your target language.
+
+
+
+
+--- SLIDE 58 ---
+Compare Two Documents
+Let us have the following two documents, (a) Original document (b) Modified version of the same document as follows.
+ Original Document
+
+
+--- SLIDE 59 ---
+Compare Two Documents
+Modified Document
+
+--- SLIDE 60 ---
+Compare Two Documents
+Step 1
+Click the Review tab and then click the Compare button. This will display the two options to be selected.
+
+
+--- SLIDE 61 ---
+Compare Two Documents
+Step 2
+Select the Compare option simply by clicking over it. 
+This will display a Compare Documents dialog box asking for the two versions of the Word document that need to be compared with each other..
+
+
+--- SLIDE 62 ---
+Compare Two Documents
+Step 3
+Select the Original Document and the Revised Document and click the OK button to display the differences in two documents. 
+
+
+--- SLIDE 63 ---
+Set Document Password
+Step 1
+Open a Word document for which you want to set a password.
+
+Step 2  
+Click the File tab. 
+Click the Info option.
+Finally click the Protect Document button which will display a list of options to be selected.
+
+--- SLIDE 64 ---
+Set Document Password
+
+--- SLIDE 65 ---
+Set Document Password
+Step 3
+Select the Encrypt with Password option simply by clicking over it. 
+This will display an Encrypt Document dialog box asking for a password to encrypt the document.
+
+The same dialog box will appear twice to enter the same password. After entering password each time, click the OK button.
+
+--- SLIDE 66 ---
+Set Document Password
+Step 3
+
+
+--- SLIDE 67 ---
+Set Document Password
+Step 4
+Save the changes, and finally you will have your document password protected.
+Next time when someone tries to open this document, it will ask for the password before displaying the document content.
+
+
+--- SLIDE 68 ---
+Remove Document Password
+Step 1
+Open a Word document the password of which needs to be removed. You will need the correct password to open the document.
+Step 2  
+Click the File tab followed by the Info option and 
+Finally the Protect Document button which will display a list of options to be selected.
+
+--- SLIDE 69 ---
+Remove Document Password
+
+--- SLIDE 70 ---
+Remove Document Password
+Step 3
+Select the Encrypt with Password option simply by clicking over it. 
+
+This will display an Encrypt Document dialog box and password which will be in a dotted pattern.
+
+You need to remove this dotted pattern from the box and make it clear to remove the password from the document.
+
+
+--- SLIDE 71 ---
+Remove Document Password
+Step 3
+
+
+--- SLIDE 72 ---
+Set Editing & Formatting Restrictions
+Step 1
+Open a Word document for which you want to set editing restrictions. 
+
+Step 2  
+Click the File tab and then click the Info option and 
+finally the Protect Document button which will display a list of options to be selected.
+
+--- SLIDE 73 ---
+Set Editing & Formatting Restrictions
+
+--- SLIDE 74 ---
+Set Editing & Formatting Restrictions
+Step 3
+Select the Restrict Editing option simply by clicking over it.
+
+This will open the actual document and it will also give you the option to set editing restrictions in the Restrict Formatting and Editing area.
+
+
+--- SLIDE 75 ---
+Set Editing & Formatting Restrictions
+Step 4
+Once you are done with your setting
+ 
+click the Yes, Start Enforcing Protection button which will display a Start Enforcing Protection dialog box asking for password so that no one else can change the setting.
+
+You can enter the password or you can leave it simply blank which means there is no password setting for this protection.
+
+--- SLIDE 76 ---
+Set Editing & Formatting Restrictions
+
+
+
+
+
+
+
+
+
+Step 5
+Finally click the OK button and you will find that your document is editing (or formatting if you applied) protected.
+
+--- SLIDE 77 ---
+Set Watermark in Word 2010
+
+
+A watermark is a picture that shows up faintly behind the text on a Word document page.
+
+When you draft a document, you can watermark the document with Draft Copy stamp, or you can watermark a duplicate document with the Duplicate stamp. 
+
+
+
+
+
+
+
+
+.
+
+--- SLIDE 78 ---
+Set Standard Watermark
+Step 1 
+Open a word document in which you want to add a watermark.
+
+Step 2 
+Click the Page Layout tab and then click the Watermark button to display a list of standard watermark options.
+
+.
+
+--- SLIDE 79 ---
+Set Standard Watermark
+
+--- SLIDE 80 ---
+Set Standard Watermark
+Step 3
+You can select any of the available standard watermarks by simply clicking over it. 
+This will be applied to all the pages of the word. Assume we select the Confidential watermark.
+
+--- SLIDE 81 ---
+Set Custom Watermark
+Step 1
+Open a Word document in which you want to add a watermark.
+
+Step 2 
+Click the Page Layout tab and then 
+Click the Watermark button to display a list of standard watermark options. At the bottom, you will find the Custom Watermark option.
+
+
+--- SLIDE 82 ---
+Set Custom Watermark
+Step 3
+Click over the Custom Watermark option; this will display the Printed Watermark dialog box.
+
+
+--- SLIDE 83 ---
+Set Custom Watermark
+Step 4
+Now you can set a picture as watermark or you can set predefined text as watermark; you can also type your text in the Text box available at Printed Watermark dialog box.
+
+We will set text watermark as DUPLICATE and also set its font colour and font size. 
+
+Once all the parameters are set, click the OK button to set the parameters.
+
+
+--- SLIDE 84 ---
+Set Custom Watermark
+Step 4
+
+
+--- SLIDE 85 ---
+Remove Watermark
+Step 1
+Open a Word document the watermark of which needs to be deleted.
+
+Step 2 
+Click the Page Layout tab followed by the Watermark button to display a list of standard watermark options. 
+At the bottom, you will find the Remove Watermark option.
+
+Step 3 
+Click Remove Watermark option; this will delete the existing watermark from the document.
+
+--- SLIDE 86 ---
+Remove Watermark
+
+--- SLIDE 87 ---
+Mail Merge in word 2010
+Mail Merge is feature in Microsoft Word  that allows the user to create multiple e-mails for different recipients at once.
+
+Mail Merge is a feature in MS Word that takes data from a data source and inserts it into a main document containing similar information.
+
+One specific type of information is to be addressed to different individuals  with different addresses.
+
+
+
+--- SLIDE 88 ---
+Features of Mail Merge in word 2010
+Data 
+Data is any number or text that is to be used as information. Example: Name, address, Pin code.
+
+Data source
+It is the location where data that is used in mail merge is stored. Example a table that contains data from where data is taken and used.
+
+--- SLIDE 89 ---
+Features of Mail Merge in word 2010
+Main document
+It consists of text or information that we wish to send to all the recipients. Example Letter.
+
+Merge Field
+It is data item that is to be taken from a data source and inserted into the main document. Example: Name, Address, City, etc. that is to be inserted to the main document.
+
+--- SLIDE 90 ---
+Mail Merge in word 2010
+
+--- SLIDE 91 ---
+Mail Merge in word 2010
+
+--- SLIDE 92 ---
+Mail Merge in word 2010
+
+--- SLIDE 93 ---
+Mail Merge in word 2010
+
+--- SLIDE 94 ---
+Mail Merge in word 2010
+
+--- SLIDE 95 ---
+Mail Merge in word 2010
+
+--- SLIDE 96 ---
+Mail Merge in word 2010
+
+--- SLIDE 97 ---
+Mail Merge in word 2010
+
+--- SLIDE 98 ---
+Mail Merge in word 2010
+
+--- SLIDE 99 ---
+
+--- SLIDE 100 ---
+THANK YOU

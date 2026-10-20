@@ -1,0 +1,5325 @@
+
+--- PAGE 1 ---
+468 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+32 
+Inductance 
+ 
+CHAPTER OUTLINE 
+ 
+32.1  
+Self-Induction and Inductance 
+32.2 
+RL Circuits 
+32.3 
+Energy in a Magnetic Field 
+32.4 
+Mutual Inductance 
+32.5 
+Oscillations in an LC Circuit 
+32.6 
+The RLC Circuit 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ32.1 
+(i) 
+Answer (a). The mutual inductance of two loops in free space—
+that is, ignoring the use of cores—is a maximum if the loops are 
+coaxial. In this way, the maximum flux of the primary loop will 
+pass through the secondary loop, generating the largest possible 
+emf given the changing magnetic field due to the first.  
+ 
+(ii)  Answer (c). The mutual inductance is a minimum if the 
+magnetic field of the first coil lies in the plane of the second coil, 
+producing no flux through the area the second coil encloses. 
+OQ32.2 
+Answer (c). The fine wire has considerable resistance, so a few seconds 
+is many time constants. The final current depends on the resistance of 
+the wire, which has not changed; the current is not affected by the 
+inductance of the coil because the current is not changing. 
+OQ32.3 
+Answer (b). The inductance of a solenoid is proportional to the number 
+of turns squared, so cutting the number of turns in half makes the 
+inductance four times smaller. Doubling the current would by itself 
+make the stored energy (1
+2 Li2)four times larger, to just compensate.
+
+--- PAGE 2 ---
+Chapter 32     469 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ32.4 
+The ranking is ΔVL > ΔV1 200 Ω > 12.0 V > ΔV12 Ω. Just before the switch 
+is thrown, the voltage across the 12-Ω resistor is very nearly 12 V (we 
+assume the resistance of the inductor is small). Just after the switch is 
+thrown, the current is nearly the same, maintained by the inductor, 
+but this current is diverted through the 1 200-Ω resistor; thus, the 
+voltage across the 1 200-Ω resistor is much more than 12 V, about  
+1 200 V, because the same current in the 12-Ω resistor now passes 
+through a resistor 100 times as large. By Kirchhoff’s loop rule, the 
+voltage across the coil is larger still.  
+OQ32.5 
+Answer (d). The inductance of a solenoid is proportional to the 
+number of turns squared (N
+2), to the cross-sectional area (A), and to 
+the reciprocal of the length of its axis (L). Coil A has twice as many 
+turns with the same length of wire, so its circumference must be half 
+as large as that of coil B: therefore, its radius is half as large and its 
+area one quarter as large. For coil A the inductance will be different 
+by the factor N
+2A/L ~ [2
+2(1/4)]/2 = 1/2.  
+OQ32.6 
+Answer (a). The energy stored in the magnetic field of an inductor is 
+proportional to the square of the current. Doubling I makes 
+UB = 1
+2 Li2 get four times larger.  
+OQ32.7 
+Answer (d). The emf across an inductor is zero whenever the current 
+is constant (unchanging), large or small. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ32.1 
+(a) 
+We can think of Henry’s discovery of self-inductance as 
+fundamentally new. Before a certain school vacation at the 
+Albany Academy about 1830, one could visualize the universe 
+as consisting of only one thing, matter. All the forms of energy 
+then known (kinetic, gravitational, elastic, internal, electrical) 
+belonged to chunks of matter. But the energy that temporarily 
+maintains a current in a coil after the battery is removed is not 
+energy that belongs to any bit of matter. This energy is vastly 
+larger than the kinetic energy of the drifting electrons in the 
+wires. This energy belongs to the magnetic field around the coil. 
+Beginning in 1830, Nature has forced us to admit that the 
+universe consists of matter and also of fields, massless and 
+invisible, known only by their effects.  
+ 
+ 
+The idea of a field was not due to Henry, but rather to Faraday, 
+to whom Henry personally demonstrated self-induction. Still 
+the thesis stated in the question has an important germ of truth.
+
+--- PAGE 3 ---
+470     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Henry precipitated a basic change if he did not cause it.  
+ 
+(b) A list today of what makes up the Universe might include 
+quarks, electrons, muons, tauons, and neutrinos of matter; 
+photons of electric and magnetic fields; W and Z particles; 
+gluons; energy; charge; baryon number; three different lepton 
+numbers; upness; downness; strangeness; charm; topness; and 
+bottomness. Alternatively, the relativistic interconvertibility of 
+mass and energy, and of electric and magnetic fields, can be 
+used to make the list look shorter. Some might think of the 
+conserved quantities energy, charge, . . . bottomness as 
+properties of matter, rather than as things with their own 
+existence.  
+CQ32.2 
+(a)  The inductance of a coil is determined by (a) the geometry of the 
+coil and (b) the “contents” of the coil. This is similar to the 
+parameters that determine the capacitance of a capacitor and the 
+resistance of a resistor. With an inductor, the most important 
+factor in the geometry is the number of turns of wire, or turns 
+per unit length. By the “contents” we refer to the material in 
+which the inductor establishes a magnetic field, notably the 
+magnetic properties of the core around which the wire is 
+wrapped.  
+ 
+(b)  No. The inductance of a coil is proportional to the flux through 
+the coil per unit current, Φ/I, and the flux is proportional to the 
+current I, so the inductance is independent of the current.  
+CQ32.3 
+When it is being opened. When the switch is initially standing open, 
+there is no current in the circuit. Just after the switch is then closed, 
+the inductor tends to maintain the zero-current condition, and there 
+is very little chance of sparking. When the switch is standing closed, 
+there is current in the circuit. When the switch is then opened, the 
+current rapidly decreases. The induced emf is created in the inductor, 
+and this emf tends to maintain the original current. Sparking occurs 
+as the current bridges the air gap between the contacts of the switch. 
+CQ32.4 
+(i) 
+(a) The bulb glows brightly right away, and then more and 
+more faintly as the capacitor charges up. (b) The bulb gradually 
+gets brighter and brighter, changing rapidly at first and then 
+more and more slowly. (c) The bulb immediately becomes 
+bright. (d) The bulb glows brightly right away, and then more 
+and more faintly as the inductor starts carrying more and more 
+current (the inductor eventually acts as a short). 
+ 
+(ii) (a) The bulb goes out immediately because current stops 
+immediately (charge ceases to flow). (b) The bulb glows for a 
+moment as a spark jumps across the switch. (c) The bulb stays
+
+--- PAGE 4 ---
+Chapter 32     471 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+lit for a while, gradually getting fainter and fainter as the 
+capacitor discharges through the bulb. (d) The bulb suddenly 
+glows brightly. Then its brightness decreases to zero, changing 
+rapidly at first and then more and more slowly.  
+CQ32.5 
+(a) 
+The coil has an inductance regardless of the nature of the 
+current in the circuit. Inductance depends only on the coil 
+geometry and its construction.  
+ 
+(b) Since the current is constant, the self-induced emf in the coil is 
+zero, and the coil does not affect the steady-state current. (We 
+assume the resistance of the coil is negligible.) 
+CQ32.6 
+(a) 
+An object cannot exert a net force on itself. An object cannot 
+create momentum out of nothing. 
+ 
+(b) A coil can induce an emf in itself. When it does so, the actual 
+forces acting on charges in different parts of the loop add as 
+vectors to zero. The term electromotive force does not refer to a 
+force, but to a voltage. 
+CQ32.7 
+(a) 
+The instant after the switch is  
+closed, the capacitor acts as a  
+closed switch, and the inductor  
+acts to maintain zero current in  
+itself. The situation is as shown  
+in the circuit diagram of ANS.  
+FIG. CQ32.7(a). The requested  
+quantities are: 
+ 
+ 
+ 
+IL = 0, IC = ε0
+R , IR = ε0
+R
+ΔVL = ε0, ΔVC = 0, ΔVR = ε0
+ 
+ 
+(b) After the switch has been closed a 
+long time, the capacitor acts as an 
+open switch. The steady-state 
+conditions shown in ANS.  
+FIG. CQ32.7 (b) will exist. The 
+currents and voltages are: 
+ 
+ 
+IL = 0, IC = 0, IR = 0
+ΔVL = 0, ΔVC = ε0, ΔVR = 0
+ 
+CQ32.8 
+When the capacitor is fully discharged, the current in the circuit is a 
+maximum. The inductance of the coil is making the current continue 
+to flow. At this time the magnetic field of the coil contains all the 
+ 
+ANS. FIG. CQ32.7(a) 
+ 
+ANS. FIG. CQ32.7(b)
+
+--- PAGE 5 ---
+472     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+energy that was originally stored in the charged capacitor. The 
+current has just finished discharging the capacitor and is proceeding 
+to charge it up again with the opposite polarity. 
+CQ32.9 
+According to Equations 32.31 and 32.32, the oscillator is overdamped 
+if R > RC =
+4L
+C : it will not oscillate. If R < RC, then the oscillator is 
+underdamped and can go through several cycles of oscillation before 
+the current falls below background noise.  
+CQ32.10 
+The energy stored in a capacitor is proportional to the square of the 
+electric field, and the energy stored in an induction coil is 
+proportional to the square of the magnetic field. The capacitor’s 
+energy is proportional to its capacitance, which depends on its 
+geometry and the dielectric material inside. The coil’s energy is 
+proportional to its inductance, which depends on its geometry and 
+the core material. The capacitor’s energy is proportional to the charge 
+it stores, the coil’s energy is proportional to the current it holds. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 32.1 
+Self-Induction and Induction 
+*P32.1 
+The magnitude of the average induced emf for this coil is 
+ 
+ 
+ 
+ε = L Δi
+Δt = 3.00 × 10−3 H
+(
+) 1.50 A −0.200 A
+0.200 s
+(
+) = 1.95 × 10−2 V
+= 19.5 mV
+ 
+*P32.2 
+Treating the telephone cord as a solenoid, we have: 
+ 
+ 
+L = µ0N 2A
+
+= 4π × 10−7 T ⋅m A
+(
+) 70.0
+(
+)2 π 6.50 × 10−3 m
+(
+)
+2
+0.600 m
+= 1.36 µH
+ 
+P32.3 
+The self-induced emf at any instant is  
+ 
+ 
+  
+εL = – L di
+dt
+ 
+ 
+Its average value is 
+ 
+ 
+ 
+εL,ave = – L I f – Ii
+t
+⎛
+⎝⎜
+⎞
+⎠⎟= (–2.00 H)
+0 – 0.500 A
+1.00 × 10–2 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+V⋅s/A
+1 H
+⎛
+⎝⎜
+⎞
+⎠⎟
+= +100 V
+
+--- PAGE 6 ---
+Chapter 32     473 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.4 
+(a) 
+The inductance of the solenoid is 
+ 
+ 
+ 
+L = µ0N 2A
+
+=
+4π × 10−7 T ⋅m A
+(
+) 400
+(
+)
+2 π 2.50 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+0.200 m
+= 1.97 × 10−3 H = 1.97 mH
+ 
+ 
+(b) From ε = L Δi Δt
+(
+), 
+ 
+ 
+ 
+ΔI
+Δt = ε
+L = 75.0 × 10−6 V
+1.97 × 10−3 H = 38.0 × 10−3 A/s = 38.0 mA s
+  
+P32.5 
+From ε = L Δi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟, we have 
+ 
+ 
+ 
+L =
+ε
+Δi Δt
+(
+)
+= 24.0 × 10−3 V
+10.0 A s
+= 2.40 × 10−3 H
+ 
+ 
+From L = NΦB
+i
+, we have 
+ 
+ 
+ 
+ 
+ 
+ΦB = Li
+N = 2.40 × 10−3 H
+(
+) 4.00 A
+(
+)
+500
+= 19.2 µT⋅m2
+ 
+P32.6 
+(a) 
+B = µ0ni = 4π × 10−7 T⋅m A
+(
+)
+450
+0.120 m
+⎛
+⎝⎜
+⎞
+⎠⎟0.040 0 A
+(
+) = 188 µT 
+ 
+(b) 
+ΦB = BA = Bπ
+15.0 × 10−3m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 3.33 × 10−8 T⋅m2 
+ 
+(c) 
+L = NΦB
+i
+=
+450ΦB
+0.040 0 A = 0.375 mH 
+ 
+(d) 
+B and ΦB are proportional to current; L is independent 
+of current.
+ 
+P32.7 
+From ε = L Δi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟, we have 
+ 
+ 
+ 
+L =
+ε
+Δi Δt = ε Δt
+(
+)
+Δi
+= 12.0 × 10−3 V
+(
+) 0.500 s
+(
+)
+2.00 A −3.50 A
+= 4.00 × 10−3 H = 4.00 mH
+
+--- PAGE 7 ---
+474     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.8 
+(a) 
+In terms of its cross-sectional area (A), length (), and number of 
+turns (N), the self inductance of a solenoid is given as 
+L = µ0N 2A . Thus, for the given solenoid, 
+ 
+ 
+ 
+L = µ0N 2 πd2 4
+(
+)
+
+=
+4π × 10−7 T⋅m A
+(
+) 580
+(
+)
+2 π 8.00 × 10−2 m
+(
+)
+2 4
+⎡⎣
+⎤⎦
+0.36 m
+(
+)
+= 5.90 × 10−3 H = 5.90 mH
+ 
+ 
+(b) ε = −L Δi
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.90 × 10−3 H
+(
+) +4.00 A s
+(
+)
+= 23.6 × 10−3 V = 23.6 mV
+ 
+P32.9 
+ε = L di
+dt = 90.0 × 10−3
+(
+) d
+dt 1.00t2 −6.00t
+(
+) = 90.0
+(
+) 2.00t −6.00
+(
+) , where ε 
+is in millivolts (mV) and t in seconds.  
+ 
+(a) 
+At t = 1.00 s, 
+ε = 360 mV 
+ 
+(b) At t = 4.00 s, 
+ε = 180 mV 
+ 
+(c) ε = 90.0
+(
+) 2t −6
+(
+) = 0   when   t = 3.00 s 
+P32.10 
+The inductance is L = µ0N 2A
+
+ with A = πr2. The induced emf as a 
+function of time is εL = – L di
+dt . By substitution we have  
+ 
+ 
+εL = −L di
+dt = −µ0N 2πr2
+
+di
+dt   and   r =
+−εL
+µ0N 2π di/dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2 
+ 
+Then 
+r =
+−(175 × 10−6 V)(0.160 m)
+(4π × 10−7 N/A2)(420)2π(−0.421 A/s)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= 9.77 mm 
+P32.11 
+The emf is given by 
+ 
+ 
+ε = ε0e−kt = −L di
+dt
+ 
+ 
+from which we obtain 
+ 
+ 
+di = −ε0
+L e−ktdt
+
+--- PAGE 8 ---
+Chapter 32     475 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If we require i →0 as t →∞, the solution is i = ε0
+Lk e−kt = dq
+dt , so 
+ 
+ 
+Q =
+idt
+∫
+= ε0
+Lk e−kt dt
+0
+∞
+∫
+= −ε0
+Lk2     →     Q = ε0
+Lk2
+ 
+P32.12 
+The inductance of a solenoid is L = µ0N 2A
+
+. 
+ 
+The long solenoid is bent into a circle of radius R, so its length 
+≈2π R; therefore, the inductance of the toroid is  
+ 
+ 
+ 
+L = µ0N 2A
+
+≈
+µ0N 2 πr2
+(
+)
+2π R
+= 1
+2 µ0N 2 r2
+R
+ 
+ 
+ 
+ANS. FIG. P32.12 
+P32.13 
+Using the definition of self-inductance, ε = −L di
+dt , we obtain      
+ 
+  
+ε = −L d
+dt Ii sinω t
+(
+) = −Lω Ii cosω t
+(
+)
+= −10.0 × 10−3
+(
+) 2π 60.0
+(
+)
+[
+] 5.00
+(
+)cosω t
+ 
+ 
+ ε = −18.8cos120πt, where ε is in volts and t is in seconds. 
+P32.14 
+The current change is linear, so ε = −L di
+dt = −L Δi
+Δt .  
+ 
+t = 0 to 4 ms: 
+ 
+ 
+ 
+ 
+ε = −4.00 mH
+(
+)−2.00 mA
+4.00 ms = +2.00 mV 
+ 
+t = 4 to 8 ms: 
+ 
+ 
+ 
+ 
+ε = −4.00 mH
+(
+)+5.00 mA
+4.00 ms = −5.00 mV 
+ 
+t = 8 to 10 ms: 
+ 
+ 
+ 
+ 
+ε = −4.00 mH
+(
+)
+0
+2.00 ms = 0.00 mV
+
+--- PAGE 9 ---
+476     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+t = 10 to 12 ms:  
+ 
+ 
+ 
+ 
+ε = −4.00 mH
+(
+)−3.00 mA
+2.00 ms = +6.00 mV 
+ 
+ANS. FIG. P32.14 
+ 
+ 
+ 
+Section 32.2 
+RL Circuits 
+P32.15 
+(a) 
+The inductance of a solenoid is  
+ 
+ 
+ 
+L = µ0N 2A
+
+= µ0N 2πr2
+
+= µ0 510
+(
+)
+2 π 8.00 × 10−3 m
+(
+)
+2
+0.140 m
+= 4.69 × 10−4 H = 0.469 mH
+ 
+ 
+(b) The time constant of the circuit is 
+ 
+ 
+ 
+τ = L
+R = 4.69 × 10−4 H
+2.50 Ω
+= 1.88 × 10−4 s = 0.188 ms 
+P32.16 
+(a) 
+At time t, 
+ 
+ 
+ 
+ 
+i t( ) = ε
+R 1−e−t τ
+(
+)
+ 
+ 
+ 
+where 
+ 
+ 
+ 
+ 
+τ = L
+R = 2.00 H
+10.0 Ω = 0.200 s 
+ 
+ 
+After a long time, 
+ 
+ 
+ 
+ 
+Ii = ε
+R 1−e−∞
+(
+) = ε
+R
+ 
+ 
+ANS. FIG. P32.16
+
+--- PAGE 10 ---
+Chapter 32     477 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+At i(t) = 0.500Ii 
+ 
+ 
+ 
+ 
+0.500
+(
+)ε
+R = ε
+R 1−e−t τ
+(
+) 
+ 
+ 
+so 
+0.500 = 1−e−t τ 
+ 
+ 
+Isolating the constants on the right, 
+ 
+ 
+ 
+e−t τ = 0.500
+ln e−t τ
+(
+) = ln 0.500
+(
+)
+t = τ −ln 0.500
+(
+)
+[
+] = 0.200 s
+(
+) −ln 0.500
+(
+)
+[
+] = 0.139 s
+ 
+ 
+(b) Similarly, to reach 90% of Ii,  0.900 = 1−e−t τ   →   e−t τ =0.100 
+ 
+ 
+and t = −τ ln 0.100
+(
+) 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+t = −0.200 s
+(
+)ln 0.100
+(
+) = 0.461 s 
+P32.17 
+(a) 
+Using τ = RC = L
+R , we get  
+ 
+ 
+ 
+R =
+L
+C =
+3.00 H
+3.00 × 10−6 F = 1.00 × 103 Ω = 1.00 kΩ . 
+ 
+(b) The time constant is 
+ 
+ 
+ 
+τ = RC = 1.00 × 103 Ω
+(
+) 3.00 × 10−6 F
+(
+)
+= 3.00 × 10−3 s = 3.00 ms
+ 
+P32.18 
+The current builds exponentially according to:  
+ 
+ 
+ 
+i t( ) = ε
+R 1−e−t τ
+(
+) = 12.0 V
+24.0 Ω 1−e−t τ
+(
+)
+= 0.500 1−e−t τ
+(
+)
+ 
+ 
+where current I is in amperes (A) and time t is in seconds (s).  
+The current increases from 0 to  asymptotically approach 0.500 A. In 
+case (a) the current jumps up essentially instantaneously. In case (b) it 
+increases with a longer time constant, and in case (c) the increase is still 
+slower.
+
+--- PAGE 11 ---
+478     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+With “essentially zero” inductance, we take τ = L
+R = 0.01. ANS. 
+FIG. P32.18(a) graphs I(t) for this case. 
+ 
+ 
+ANS. FIG. P32.18(a) 
+ 
+(b) We take τ = L
+R = 1. ANS. FIG. P32.18(b) graphs I(t) for this case.  
+ 
+ANS. FIG. P32.18(b) 
+ (c) We take τ = L
+R = 10 . ANS. FIG. P32.18(c) graphs I(t) for this case.  
+ 
+ANS. FIG. P32.18(c)
+
+--- PAGE 12 ---
+Chapter 32     479 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.19 
+(a) 
+The two resistors are in parallel. Their resistance values 450 Ω and 
+R are related to their equivalent resistance Req by  
+ 
+ 
+ 
+1
+Req
+= 1
+R +
+1
+450Ω 
+ 
+ 
+and the equivalent resistance is related to the time constant of the 
+circuit by  
+ 
+ 
+ 
+τ = L
+Req
+→1
+Req
+= τ
+L 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+1
+Req
+= 1
+R +
+1
+450 Ω = τ
+L
+ 
+ 
+ 
+Solving for R, 
+ 
+ 
+ 
+1
+R = τ
+L −
+1
+450 Ω = 15.0 × 10−6 s
+5.00 × 10−3 H −
+1
+450 Ω
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+R = 1 290 Ω = 1.29 kΩ 
+ 
+(b) The current will immediately begin to die from the value it had 
+just before the switch was thrown to position b. Before the switch 
+position was changed, the current was constant in time, so there 
+was no emf induced in the inductor. The current was just  
+ 
+ 
+ 
+i = ΔV
+Req
+= ΔV τ
+L = 24.0 V
+(
+) 15.0 × 10−6 s
+5.00 × 10−3 H
+= 0.072 0 A = 72.0 mA
+ 
+*P32.20 
+The current increases as a function of time as 
+ 
+ 
+ 
+i = Ii 1−e−t τ
+(
+) 
+ 
+Substituting, 
+ 
+ 
+ 
+ 
+0.980 = 1−e−3.00×10−3 τ 
+ 
+ 
+ 
+0.020 0 = e−3.00×10−3 τ 
+ 
+Solving for the time constant gives 
+ 
+ 
+ 
+τ = −3.00 × 10−3
+ln 0.020 0
+(
+) = 7.67 × 10−4 s 
+ANS. FIG. P32.20
+
+--- PAGE 13 ---
+480     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and since τ = L
+R ,  
+ 
+ 
+ 
+L = τ R = 7.67 × 10−4 s
+(
+) 10.0 Ω
+(
+) = 7.67 mH 
+*P32.21 
+For the increasing current i = ε
+R 1−e−Lt R
+(
+). The final value is ε
+R , so the 
+condition on Δt is 
+ 
+ 
+ 
+0.800 ε
+R = ε
+R 1−e−LΔt R
+(
+)
+e−LΔt R = 0.200
+e+LΔt R = 5.00
+LΔt
+R = ln5.00
+Δt = Rln5.00
+L
+ 
+ 
+At the moment when the battery is removed, the current in the coil is 
+quite precisely ε
+R . During the decrease, i = Iie−Lt R = ε
+R e−Lt R. 
+ 
+(a) 
+at t = Δt = Rln5.00
+L
+, 
+ 
+ 
+ 
+ 
+ 
+i
+Ii
+= e−LΔt R = 0.200 = 20.0% 
+ 
+(b) at t = 2Δt,  
+ 
+ 
+ 
+i
+Ii
+= e−L2Δt R = e−LΔt R
+(
+)
+2 = 0.200
+(
+)2 = 0.040 0 = 4.00% 
+P32.22 
+Taking τ = L
+R , and i = Iie−t τ :   di
+dt = Iie−t τ −1
+τ
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+iR + L di
+dt = 0 will be true if IiR e−t τ + L Iie−t τ
+(
+) −1
+τ
+⎛
+⎝⎜
+⎞
+⎠⎟= 0 
+ 
+We have agreement because τ = L
+R . 
+P32.23 
+The current at this time is given by 
+ 
+ 
+i = ε
+R 1−e−t τ
+(
+) = 120 V
+9.00 Ω 1−e
+−0.200 7.00 9.00
+(
+)
+⎡⎣
+⎤⎦= 3.02 A
+ 
+ 
+Then, 
+ΔVR = iR = 3.02
+(
+) 9.00
+(
+) = 27.2 V 
+ 
+and 
+ΔVL = ε −ΔVR = 120 −27.2 = 92.8 V
+
+--- PAGE 14 ---
+Chapter 32     481 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.24 
+(a) 
+τ = L
+R = 8.00 × 10−3 H
+4.00 Ω
+= 2.00 × 10−3 s = 2.00 ms 
+ 
+(b) 
+i = ε
+R 1−e−t τ
+(
+) =
+6.00 V
+4.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟1−e−0.250 2.00
+(
+) = 0.176 A 
+ 
+(c) 
+Ii = ε
+R = 6.00 V
+4.00 Ω = 1.50 A 
+ 
+(d) 
+0.800 = 1−e−t 2.00 ms →t = −2.00 ms
+(
+)ln 0.200
+(
+) = 3.22 ms 
+ 
+ANS. FIG. P32.24 
+P32.25 
+Name the currents as shown in ANS. FIG. P32.25. By Kirchhoff’s laws: 
+ 
+ 
+ 
+i1 = i2 + i3 
+ 
+[1] 
+ 
+ 
+ 
++10.0 V – 4.00i1 – 4.00i2 = 0 
+[2] 
+ 
+ 
+ 
++10.0 V −4.00i1 −8.00i3 −1.00
+(
+)di3
+dt = 0 
+[3] 
+ 
+ANS. FIG. P32.25 
+ 
+From [1] and [2],     
+ 
+ 
+ 
++10.0 – 4.00i1 – 4.00i1 + 4.00i3  = 0 
+ 
+ 
+ 
+i1 = 0.500i3 + 1.25 A 
+ 
+Then [3] becomes 10.0 V −4.00 0.500i3 + 1.25 A
+(
+)−8.00i3 −1.00
+(
+)di3
+dt = 0 
+ 
+ 
+ 
+1.00 H
+(
+) di3
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟+ 10.0 Ω
+(
+)i3 = 5.00 V
+ 
+ 
+or 
+ 
+5.00 V −10.0 Ω
+(
+)i3 −1.00 H
+(
+) di3
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+
+--- PAGE 15 ---
+482     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which can be compared to the general form (Equation 32.6)  
+ 
+ 
+ 
+ε −iR −L di
+dt = 0
+ 
+ 
+which has the solution (from Equation 32.7) i = ε
+R 1−e−Rt L
+(
+). 
+ 
+Thus, we have:  
+ 
+(a) 
+i3 =
+5.00 V
+10.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟1−e−10.0 Ω
+(
+)t 1.00 H
+⎡⎣
+⎤⎦=
+0.500 A
+(
+) 1−e−10t s
+⎡⎣
+⎤⎦ 
+ 
+(b) 
+i1 = 1.25 + 0.500I3 = 1.50 A −0.250 A
+(
+)e−10t s 
+P32.26 
+Refer to ANS. FIG. P32.25 above. Name the currents as shown. By 
+Kirchhoff’s laws: 
+ 
+ 
+ 
+i1 = i2 + i3 
+ 
+[1] 
+ 
+ 
+ 
+ε −Ri1 −Ri2 = 0 
+ 
+[2] 
+ 
+ 
+ 
+ε −Ri1 −2Ri3 −L di3
+dt = 0 
+[3] 
+ 
+From [1] and [2],  
+ 
+ 
+ 
+ε −Ri1 −R i1 −i3
+(
+) = 0
+ε −Ri1 −Ri1 + Ri3 = 0
+ 
+ 
+ 
+ 
+i1 = 1
+2 i3 + ε
+2R
+ 
+ 
+Then [3] becomes  
+ 
+ 
+ 
+ε −R 1
+2 i3 + ε
+2R
+⎛
+⎝⎜
+⎞
+⎠⎟−2Ri3 −L di3
+dt = 0
+ 
+ 
+ 
+ 
+L di3
+dt + 2.5Ri3 = ε
+2
+ε
+2 −2.5Ri3 −L di3
+dt = 0
+ 
+ 
+which can be compared to the general form (Equation 32.6)  
+ 
+ 
+ 
+ε −iR −L di
+dt = 0
+ 
+ 
+which has the solution (from Equation 32.7)  
+ 
+ 
+ 
+i = ε
+R 1−e−Rt L
+(
+)
+
+--- PAGE 16 ---
+Chapter 32     483 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, we have:  
+ 
+(a) 
+i3 = ε 2
+2.5R
+⎛
+⎝⎜
+⎞
+⎠⎟1−e−2.5Rt L
+⎡⎣
+⎤⎦=
+ε
+5R 1−e−5Rt 2L
+(
+) 
+ 
+(b) 
+i1 = 1
+2 i3 + ε
+2R = 1
+2
+ε
+5R 1−e−5Rt 2L
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥+ ε
+2R 
+ 
+ 
+i1 = ε
+10R 1−e−5Rt 2L
+(
+)+ 5ε
+10R = ε
+10R 6 −e−5Rt 2L
+(
+)
+ 
+P32.27 
+(a) 
+When i = 2.00 A, the voltage across the resistor is 
+ 
+ 
+ 
+ΔVR = iR = 2.00 A
+(
+) 8.00 Ω
+(
+) = 16.0 V 
+ 
+ 
+Kirchhoff’s loop rule tells us that the sum of the changes in 
+potential around the loop must be zero:  
+ 
+ 
+ 
+ε −ΔVR −εL = 36.0 V −16.0 V −εL = 0 
+ 
+ 
+so 
+εL = 20.0 V   
+ 
+ 
+and ΔVR
+εL
+= 16.0 V
+20.0 V = 0.800  
+ 
+(b) Similarly, for i = 4.50 A, ΔVR = iR = 4.50 A
+(
+) 8.00 Ω
+(
+) = 36.0 V and 
+ 
+ 
+ 
+ε −ΔVR −εL = 36.0 V −36.0 V −εL = 0 
+ 
+ 
+so 
+εL = 0  
+P32.28 
+For t ≤0 , the current in the inductor is zero . 
+ 
+For 0 ≤t ≤200 µs , there will be current iR in the 
+resistor and IL in the inductor so that i = iR + iL = 
+Ii = 10.0 A. Assuming both currents are 
+downward in ANS. FIG. P32.28, we apply 
+Kirchhoff’s loop rule going counterclockwise 
+around the loop, and we find that  
+ 
+ 
+−iRR + L diL
+dt = 0
+ 
+ 
+Using Ii = iR + iL → iR = Ii −iL, we have 
+ 
+ 
+−Ii −iL
+(
+)R + L diL
+dt = 0
+ 
+ 
+ANS. FIG. P32.28
+
+--- PAGE 17 ---
+484     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, 
+ 
+ 
+L dIL
+dt = Imax −IL
+(
+)R 
+ 
+ 
+diL
+Ii −IL
+(
+)
+0
+I
+∫
+=
+R
+L dt
+0
+t
+∫
+−ln Ii −iL
+(
+)
+Ii
+= R
+L t 
+ 
+ 
+which gives 
+ 
+ 
+iL = Ii 1−e−Rt L
+(
+) 
+ 
+We see that t = 0, iL = 0 as we expect because of the back emf induced 
+in the inductor. With the time constant  
+ 
+ 
+τ = L
+R = 10.0 mH
+(
+)
+100 Ω
+(
+)
+= 1.00 × 10−4 s 
+ 
+we have 
+ 
+ 
+iL = Ii 1−e−t τ
+(
+) = 10.0 A
+(
+) 1−e−10 000t s
+(
+)     0 ≤t ≤200 µs
+(
+)
+ 
+ 
+At t = 200 µs, i = 10.00 A
+(
+) 1−e−2.00
+(
+) = 8.65 A; thereafter, the current 
+decays. The loop rule gives the same result,  
+ 
+ 
+−iRR + L diL
+dt = 0
+ 
+ 
+but now iR + iL = 0 → iR = −iL, so we have  
+ 
+ 
+iLR + L diL
+dt = 0 → L diL
+dt = −iLR
+diL
+iL
+Ii
+I
+∫
+= −
+R
+L dt
+200 µs
+t
+∫
+ln iL
+Ii
+= −R
+L t −200 µs
+(
+) →  iL = Iie−R t−200µs
+(
+) L
+ 
+ 
+For t = 200 µs, ii = 8.65 A, and for t ≥200 µs ,  
+ 
+ 
+i = 8.65 A
+(
+)e−10 000 t−200 µs
+(
+) s = 8.65 A
+(
+)e−10 000t s+2.00
+= 8.65e2.00 A
+(
+)e−10 000t s =
+63.9 A
+(
+)e−10 000t s     t ≥200 µs
+(
+)
+
+--- PAGE 18 ---
+Chapter 32     485 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.29 
+From Equation 32.7, i = Ii 1−e−t τ
+(
+). Therefore, 
+ 
+ 
+di
+dt = −Ii e−t τ
+(
+) −1
+τ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+where 
+ 
+ 
+τ = L
+R = 15.0 H
+30.0 Ω = 0.500 s 
+ 
+Then, 
+di
+dt = R
+L Iie−t τ   with   Ii = ε
+R 
+ 
+(a) 
+At t = 0, 
+ 
+ 
+ 
+ di
+dt = R
+L Iie0 = ε
+L = 100 V
+15.0 H = 6.67 A s
+ 
+ 
+(b) At t = 1.50 s, 
+ 
+ 
+ 
+ di
+dt = ε
+L e−t τ = 6.67 A s
+(
+)e−1.50 0.500
+(
+) = 6.67 A s
+(
+)e−3.00
+= 0.332 A s
+ 
+P32.30 
+(a) 
+For a series connection, both inductors carry equal currents at 
+every instant, so di
+dt
+ is the same for both. The voltage across the 
+pair is 
+ 
+ 
+ 
+Leq
+di
+dt = L1
+di
+dt + L2
+di
+dt     →     Leq = L1 + L2
+ 
+ 
+(b) For a parallel connection, the voltage across each inductor is the 
+same for both. 
+ 
+ 
+ 
+Leq
+di
+dt = L1
+di1
+dt = L2
+di2
+dt = ΔVL
+ 
+ 
+ 
+where the currents are related by i = i1 + i2. Therefore,  
+ 
+ 
+ 
+di
+dt = di1
+dt + di2
+dt
+ΔVL
+Leq
+= ΔVL
+L1
++ ΔVL
+L2
+     →     1
+Leq
+= 1
+L1
++ 1
+L2
+
+--- PAGE 19 ---
+486     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Leq
+di
+dt + Reqi = L1
+di
+dt + iR1 + L2
+di
+dt + iR2 
+ 
+ 
+Now i and di
+dt
+ are independent quantities under our control, so 
+functional equality requires both Leq = L1 + L2  and Req = R1 + R2. 
+ 
+(d) Yes. The relations ΔV = Leq
+di
+dt + Reqi = L1
+di1
+dt + R1i1 = L2
+di2
+dt + R2i2 , 
+where i = i1 + i2 and di
+dt = di1
+dt + di2
+dt , must always be true. 
+ 
+ 
+We may choose to keep the currents constant in time. Then, from  
+i = i1 + i2, we have 
+ 
+ 
+ 
+ΔVL
+Req
+= ΔVL
+R1
++ ΔVL
+R2
+     →     1
+Req
+= 1
+R1
++ 1
+R2
+ 
+ 
+ 
+We may choose to make the current oscillate so that at a given 
+moment it is zero. Then, from di
+dt = di1
+dt + di2
+dt , as in part (b), we 
+have 1
+Leq
+= 1
+L1
++ 1
+L2
+. 
+P32.31 
+(a) 
+The equation for current buildup is obtained by combining 
+Equations 32.7 and 32.8: 
+ 
+ 
+ 
+i = ε 1 – e–Rt/L
+(
+)
+R
+ 
+ 
+ 
+We proceed step-by-step to solve for t in terms of the other 
+quantities, all of which are given: 
+ 
+ 
+ 
+iR/ε = 1 – e
+–Rt/L     
+ 
+ 
+so   e
+–Rt/L = 1 – iR/ε    
+ 
+ 
+and  –Rt/L = ln(1 – iR/ε ) 
+ 
+ 
+then, 
+ 
+ 
+ 
+t = –(L/R) ln(1 – iR/ε )  
+ 
+ 
+ 
+t = –(0.140 H/4.90 Ω ) ln[1 – (0.220 A)(4.90 Ω )/6.00 V]  
+ 
+ 
+ 
+ = –(0.028 6 s) ln(0.820) 
+ 
+ 
+ 
+t = −0.028 6 s
+(
+) −0.198
+(
+) = 5.66 ms
+
+--- PAGE 20 ---
+Chapter 32     487 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) We now make the general equation refer to a different instant. 
+The current after ten seconds is 
+ 
+ 
+ 
+i =
+6.00 V
+4.90 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟1−e(–35.0 s–1)(10.0 s)
+(
+) = 1.22 A
+(
+)(1−e−350) = 1.22 A
+ 
+ 
+ 
+(c) 
+The equation for current decrease after the battery is removed is 
+i = ε
+R e–Rt/L. We solve for t: 
+ 
+ 
+ 
+ 
+iR
+ε = e−Rt/L    or     ε
+iR = e+Rt/L 
+ 
+ 
+Then,   
+ 
+ 
+ 
+ln ε iR
+(
+) = Rt L    and    t = L R
+(
+) ln ε iR
+(
+) 
+ 
+ 
+Substituting,  
+ 
+ 
+ 
+ 
+ 
+t = (0.140 H/4.90 Ω) ln[6.00 V/(0.160 A⋅4.90 Ω)]
+= 0.028 6 s
+(
+) ln 7.65
+(
+) = 58.1 ms 
+ 
+ 
+ 
+ 
+ 
+Section 32.3 
+Energy in a Magnetic Field 
+P32.32 
+The inductance of the solenoid is  
+ 
+ 
+L = N ΦB
+i = 200 3.70 × 10−4 Wb
+1.75 A
+= 0.042 3 H
+ 
+ 
+The energy stored is  
+ 
+ 
+UB = 1
+2 Li2 = 1
+2 0.042 3 H
+(
+) 1.75 A
+(
+)
+2 = 0.064 8 J = 64.8 mJ
+ 
+P32.33 
+For a solenoid of length , the inductance is L = µ0N 2A
+
+. 
+ 
+Thus, since UB = 1
+2 Li2 = µ0N 2Ai2
+2
+,  the stored energy is 
+ 
+ 
+UB = (4π × 10–7 N/A2)(68)2π(6.00 × 10–3 m)2(0.770 A)2
+2 (0.080 0) m
+= 2.44 × 10−6 J
+
+--- PAGE 21 ---
+488     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.34 
+From Equation 32.7, i = ε
+R 1−e−Rt L
+(
+): 
+ 
+(a) 
+The maximum current, after a long time t, is i = Ii = ε
+R = 2.00 A. 
+ 
+ 
+At that time, the inductor is fully energized and 
+ 
+ 
+ 
+P = i ΔV
+(
+) = 2.00 A
+(
+) 10.0 V
+(
+) = 20.0 W 
+ 
+(b) 
+Plost = i2R = 2.00 A
+(
+)
+2 5.00 Ω
+(
+) = 20.0 W 
+ 
+(c) 
+The inductor has no resistance: Pinductor = i ΔVdrop
+(
+) = 0 
+ 
+(d) 
+UB = 1
+2 Li2 = 1
+2 10.0 H
+(
+) 2.00 A
+(
+)
+2 = 20.0 J 
+P32.35 
+(a) 
+The energy density stored by the electric field is 
+ 
+ 
+ 
+uE = ∈0
+E2
+2 = 8.85 × 10−12 
+C2
+N⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+100 V m
+(
+)
+2
+2
+J C
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 N⋅m
+J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4.43 × 10−8 J
+m3 = 44.3 nJ m3
+ 
+ 
+(b) The energy density stored by the magnetic field is 
+ 
+ 
+ 
+uB = B2
+2µ0
+=
+0.500 × 10−4 T
+(
+)
+2
+2 4π × 10−7 T⋅m/A
+(
+)
+N/A⋅m
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 9.95 × 10−4 N
+m2
+m
+m
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.95 × 10−4 N⋅m
+m3
+= 995 µJ m3
+ 
+P32.36 
+We compute the integral: 
+ 
+ 
+ 
+e−2Rt L dt
+0
+∞
+∫
+= −L
+2R e−2Rt L
+−2Rdt
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+∞
+∫
+= −L
+2R e−2Rt L
+0
+∞
+= −L
+2R e−∞−e0
+(
+) = L
+2R 0 −1
+(
+) =
+L
+2R
+  
+*P32.37 
+The current in the circuit at time t is i = Ii 1−e−t τ
+(
+), where Ii = ε
+R , and 
+the energy stored in the inductor is UB = 1
+2 Li2. 
+ 
+(a) 
+As t →∞, I →Ii = ε
+R = 24.0 V
+8.00 Ω = 3.00 A, and   
+ 
+ 
+ 
+UB = 1
+2 LIi
+2 = 1
+2 4.00 H
+(
+) 3.00 A
+(
+)
+2 = 18.0 J
+
+--- PAGE 22 ---
+Chapter 32     489 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At t = τ , I = Ii 1−e−1
+(
+) = 3.00 A
+(
+) 1−0.368
+(
+) = 1.90 A, and 
+ 
+ 
+ 
+UB = 1
+2 Li2 = 1
+2 4.00 H
+(
+) 1.90 A
+(
+)
+2 = 7.19 J
+ 
+P32.38 
+(a) 
+P = iΔV = 3.00 A
+(
+) 22.0 V
+(
+) = 66.0 W  
+ 
+(b) 
+P = iΔVR = i2R = 3.00 A
+(
+)
+2 5.00 Ω
+(
+) = 45.0 W 
+ 
+(c) 
+METHOD 1: We treat the real inductor as an ideal inductor (with 
+no resistance) in series with an ideal resistor (with no inductance).  
+When the current is 3.00 A, Kirchhoff’s loop rule reads  
+ 
+ 
+ 
++22.0 V −3.00 A
+(
+) 5.00 Ω
+(
+) −ΔVL = 0    
+ΔVL = 7.00 V
+ 
+ 
+ 
+The power being stored in the inductor is  
+ 
+ 
+ 
+iΔVL = 3.00 A
+(
+) 7.00 V
+(
+) = 21.0 W 
+ 
+ 
+METHOD 2: We do not treat the real inductor as an ideal 
+inductor in series with an ideal resistor.  
+ 
+ 
+We wish to find the rate at which energy is being delivered to the 
+inductor. As discussed in Section 32.3, UB = 1
+2 Li2 →dUB
+dt = Li di
+dt . 
+We know L (0.040 0 H) and i (3.00 A); we need to evaluate the 
+term di
+dt . From Equations 32.7 and 32.8 (or Equation 32.9),  
+ 
+ 
+ 
+i = ε
+R 1−e−t τ
+(
+)→di
+dt = ε
+L e−t τ  
+ 
+ 
+because τ = L
+R . Also,  
+ 
+ 
+ 
+i = ε
+R 1−e−t τ
+(
+)→e−t τ = 1−iR
+ε
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+dUB
+dt = Li di
+dt = Li ε
+L e−t τ
+⎛
+⎝⎜
+⎞
+⎠⎟= iεe−t τ = iε 1−iR
+ε
+⎛
+⎝⎜
+⎞
+⎠⎟= i ε −iR
+(
+)
+ 
+ 
+ 
+When i = 3.00 A,  
+ 
+ 
+ 
+dUB
+dt = i ε −iR
+(
+) = 3.00 A
+(
+) 22.0 V −3.00 A
+(
+) 5.00 Ω
+(
+)
+[
+]
+= 21.0 W
+
+--- PAGE 23 ---
+490     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+The power supplied by the battery is equal to the sum of the
+power delivered to the internal resistance of the coil and the
+power stored in the magnetic field.
+ 
+ 
+(e) 
+Yes. 
+ 
+(f) 
+Just after t = 0, the current is very small, so the power delivered
+to the internal resistance of the coil (iR2) is nearly zero, but the
+rate of the change of the current is large, so the power delivered
+to the magnetic field (Ldi/dt) is large, and nearly all the battery
+power is being stored in the magnetic field. Long after the
+connection is made, the current is not changing, so no power is
+being stored in the magnetic field, and all the battery power is
+being delivered to the internal resistance of the coil.
+ 
+P32.39 
+(a) 
+The magnetic energy density is given by 
+ 
+ 
+ 
+uB = B2
+2µ0
+=
+4.50 T
+(
+)
+2
+2 4π × 10−7T⋅m A
+(
+)
+= 8.06 × 106 J m3 = 8.06 MJ
+ 
+ 
+(b) The magnetic energy stored in the field equals u times the volume 
+of the solenoid (the volume in which B is non-zero). 
+ 
+ 
+ 
+UB = uBV = 8.06 × 106 J m3
+(
+)
+0.260 m
+(
+)π 0.031 0 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 6.32 kJ
+ 
+ 
+ 
+ 
+Section 32.4 
+Mutual Inductance 
+P32.40 
+We use Equation 32.17, ε2 = −M di1
+dt , from which we obtain the 
+mutual inductance: 
+ 
+ 
+ 
+M =
+ε2
+di1 dt = 0.096 0 V
+1.20 A s = 0.080 0 H = 80.0 mH
+
+--- PAGE 24 ---
+Chapter 32     491 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.41 
+Let the changing current in coil 1 induce an emf in coil 2. Then,  
+ 
+ 
+ 
+ε2 = −M di1
+dt = −100 × 10−6
+(
+) d
+dt 10.0sin 1.00 × 103t
+(
+)
+⎡⎣
+⎤⎦
+= −100 × 10−6
+(
+) 10.0
+(
+) 1.00 × 103
+(
+)cos 1.00 × 103t
+(
+)
+= −1.00
+(
+)cos 1.00 × 103t
+(
+)
+ 
+ 
+Therefore, the peak emf is ε2
+(
+)max = 1.00 V . 
+P32.42 
+The current is given by i = Iie−αt sinω t, with Ii = 5.00, α = 0.025 0 , and 
+ω = 120π. Then, 
+ 
+ 
+ 
+di
+dt = d
+dt Iie−α t sinω t
+⎡⎣
+⎤⎦
+= Ii −α e−α t
+(
+)sinω t + Iie−α t ω cosω t
+(
+)
+= Iie−α t −α sinω t +ω cosω t
+(
+)
+ 
+ 
+where di
+dt
+ is in amperes per second, Ii is in amperes, and t in seconds.  
+ 
+At t = 0.800 s,  
+ 
+ 
+ 
+ di
+dt = 5.00
+(
+)e−0.020 0 −0.025 0
+(
+)sin 0.800 120π
+(
+)
+[
+]
+{
+                                            + 120π cos 0.800 120π
+(
+)
+[
+]}
+= 1.85 × 103 A s
+ 
+ 
+Thus, from ε2 = −M di1
+dt ,    
+ 
+ 
+ 
+M = −ε2
+di1 dt =
++3.20 V
+1.85 × 103 A s = 1.73 mH
+ 
+P32.43 
+(a) 
+The mutual inductance of the coils is  
+ 
+ 
+ 
+M = NBΦBA
+iA
+= 700 90.0 × 10−6Wb
+(
+)
+3.50 A
+= 18.0 mH
+ 
+ 
+(b) The inductance of coil A is  
+ 
+ 
+ 
+LA = ΦA
+iA
+= 400 300 × 10−6Wb
+(
+)
+3.50 A
+= 34.3 mH
+ 
+ 
+(c) 
+The emf induced in the other coil is  
+ 
+ 
+ 
+εB = −M diA
+dt = 18.0 mH
+(
+) 0.500 A s
+(
+) = 9.00 mV
+
+--- PAGE 25 ---
+492     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.44 
+(a) 
+Solenoid S1 creates a nearly uniform field everywhere inside it, 
+given by B1 = µ0N1i/. The flux through one turn of solenoid S2 is  
+ 
+ 
+ 
+µ0πR2
+2N1i/ 
+ 
+ 
+The emf induced in solenoid S2 is  
+ 
+ 
+ 
+−(µ0πR2
+2N1N2/)(di/dt) 
+ 
+ 
+The mutual inductance is  
+ 
+ 
+ 
+M12 = µ0πR2
+2N1N2/
+ 
+ 
+(b) Solenoid S2 creates a nearly uniform field everywhere inside it, 
+given by B2 = µ0N2i2/ and nearly zero field outside. The flux 
+through one turn of solenoid 1 is  
+ 
+ 
+ 
+µ0πR2
+2N2i2/ 
+ 
+ 
+The emf induced in solenoid 1 is  
+ 
+ 
+ 
+−(µ0πR2
+2N1N2/)(di2/dt) 
+ 
+ 
+The mutual inductance is  
+ 
+ 
+ 
+M12 = µ0πR2
+2N1N2/. 
+ 
+(c) 
+They are the same. 
+P32.45 
+Assume the long wire carries current I. Then the magnitude of the 
+magnetic field it generates at distance x from the wire is B = µ0I
+2π x , and 
+this field passes perpendicularly through the plane of the loop. The 
+flux through the loop is 
+ 
+ 
+ 
+ΦB =
+
+B⋅d
+
+A
+∫
+=
+BdA
+∫
+=
+B dx
+(
+)
+∫
+= µ0I
+2π
+dx
+x
+0.400 mm
+1.70 mm
+∫
+= µ0I
+2π ln
+1.70
+0.400
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The mutual inductance between the wire and the loop is then 
+ 
+ 
+ 
+M = N2Φ12
+I1
+= N2µ0 I 
+2π I
+ln
+1.70
+0.400
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1 4π × 10−7 T⋅m A
+(
+) 2.70 × 10−3 m
+(
+)
+2π
+ln
+1.70
+0.400
+⎛
+⎝⎜
+⎞
+⎠⎟
+M = 7.81× 10−10 H = 781 pH
+
+--- PAGE 26 ---
+Chapter 32     493 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.46 
+(a) 
+A current i in the large loop of radius R produces a magnetic field 
+of magnitude B = µ0i
+2R at its center. Because the radius of the small 
+loop r<< R, we may treat the flux through the small loop as being 
+approximately ΦB = BAcos0.00° =
+µ0i
+2R
+⎛
+⎝⎜
+⎞
+⎠⎟A = µ0πr2i
+2R
+. The mutual 
+inductance of the loops is then  
+ 
+ 
+ 
+M = ΦB
+i = µ0πr2
+2R
+ 
+ 
+(b) 
+M = µ0πr2
+2R
+= 4π × 10−7 T⋅m/A
+(
+)π 0.020 0 m
+(
+)
+2
+2 0.200 m
+(
+)
+= 3.95 × 10−9 H
+= 3.95 nH
+ 
+ 
+ 
+ 
+Section 32.5 
+Oscillations in an LC Circuit 
+P32.47 
+When the switch has been closed for a long 
+time, battery, resistor, and coil carry constant 
+current Ii = ε
+R . When the switch is opened, 
+current in battery and resistor drops to zero, 
+but the coil carries this same current for a 
+moment as oscillations begin in the LC loop. 
+ 
+We interpret the problem to mean that the voltage amplitude of these 
+oscillations is ΔV, in 1
+2 C ΔV
+(
+)
+2 = 1
+2 LIi
+2. 
+ 
+Then, 
+ 
+ 
+L = C ΔV
+(
+)
+2
+Ii
+2
+= C ΔV
+(
+)
+2 R2
+ε 2
+= 0.500 × 10−6 F
+(
+) 150 V
+(
+)
+2 250 Ω
+(
+)
+2
+50.0 V
+(
+)
+2
+= 0.281 H = 281 mH
+ 
+P32.48 
+This radio is a radiotelephone on a ship, according to frequency 
+assignments made by international treaties, laws, and decisions of the 
+National Telecommunications and Information Administration. 
+The resonance frequency is f0 =
+1
+2π
+LC . 
+ 
+Thus, C =
+1
+2π f0
+(
+)
+2 L
+=
+1
+2π 6.30 × 106 Hz
+(
+)
+⎡⎣
+⎤⎦
+2 1.05 × 10−6 H
+(
+)
+= 608 pF 
+ 
+ANS. FIG. P32.47
+
+--- PAGE 27 ---
+494     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.49 
+At different times, UC
+(
+)max = UL
+(
+)max , so  
+ 
+ 
+1
+2 C ΔV
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+max
+= 1
+2 LIi
+2 
+ 
+Then, 
+ 
+ 
+Ii =
+C
+L ΔV
+(
+)max =
+1.00 × 10−6 F
+10.0 × 10−3 H 40.0 V
+(
+)
+= 0.400 A = 400 mA
+ 
+P32.50 
+From the angular frequency of oscillation of the circuit, we have  
+ 
+ 
+ω =
+1
+LC = 2π f 
+ 
+Solving for the inductance gives 
+ 
+ 
+L =
+1
+C 2π f
+(
+)
+2 =
+1
+8.00 × 10−6 F
+(
+) 2π 120 Hz
+(
+)
+[
+]
+2
+= 0.220 H
+ 
+P32.51 
+At different times, the maximum energy stored in the capacitor is 
+equal to the maximum energy stored in the inductor.  
+ 
+ 
+1
+2 C ΔV
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+max
+= 1
+2 LIi
+2 
+ 
+so  
+ 
+ 
+ΔVC
+(
+)max =
+L
+CIi =
+20.0 × 10−3 H
+0.500 × 10−6 F 0.100 A
+(
+) = 20.0 V
+ 
+P32.52  
+Find the energy stored in the circuit from Equation 32.27:  
+ 
+ 
+U = Qmax
+2
+2C  = 
+200 × 10−6 C
+(
+)
+2
+2 50.0 × 10−6 F
+(
+)
+ = 4.00 × 10−4 J = 400 µJ 
+ 
+If the energy is split equally between the capacitor and inductor at 
+some instant, the energy would be half this value, or 200 µJ. Therefore, 
+there would be no time when each component stores 250 µJ.  
+P32.53 
+(a) 
+The frequency of oscillation of the circuit is 
+ 
+ 
+ 
+f =
+1
+2π
+LC
+=
+1
+2π
+0.100 H
+(
+) 1.00 × 10−6 F
+(
+)
+= 503 Hz
+
+--- PAGE 28 ---
+Chapter 32     495 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The maximum charge on the capacitor is 
+ 
+ 
+ 
+Q = Cε = 1.00 × 10−6 F
+(
+) 12.0 V
+(
+) = 12.0 µC 
+ 
+(c) 
+To find the maximum current Ii , we equate 
+ 
+ 
+ 
+1
+2 Cε 2 = 1
+2 LIi
+2 
+ 
+ 
+Then solve for Ii to obtain 
+ 
+ 
+ 
+Ii = ε
+C
+L = 12.0 V 1.00 × 10−6 F
+0.100 H
+= 37.9 mA
+ 
+ 
+(d) The total energy the circuit possesses at t = 3.00 s and at all times is   
+ 
+ 
+ 
+U = 1
+2 Cε 2 = 1
+2 1.00 × 10−6 F
+(
+) 12.0 V
+(
+)
+2 = 72.0 µJ
+ 
+P32.54 
+At t = 0 the capacitor charge is at its maximum value, so φ = 0 in  
+ 
+ 
+ 
+Q = Qmax cos(ωt + φ) = Qmax cos
+t
+LC
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Substituting the given information, the charge at 2 ms is  
+ 
+ 
+ 
+Q = (105 × 10−6 C)cos
+2.00 × 10–3 s 
+(3.30 H)(840 × 10–12 F) 
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+= (105 × 10−6 C)cos 38.0 rad
+(
+)
+= 1.01× 10−4 C
+ 
+ 
+(a) 
+Then the energy in the capacitor is  
+ 
+ 
+ 
+UC = Q2
+2C =
+1.01 × 10–4 C
+(
+)
+2
+2 840 × 10–12 F
+(
+)
+= 6.03 J
+ 
+ 
+(c) 
+The constant total energy is that originally of the capacitor:  
+ 
+ 
+ 
+U = Q2
+max
+2C
+=
+1.05 × 10–4 C
+(
+)
+2
+2 840 × 10–12 F
+(
+)
+= 6.56 J
+ 
+ 
+ 
+(b) So the inductor’s energy is the remaining  
+ 
+ 
+ 
+UL = 6.56 J −6.03 J = 0.529 J
+
+--- PAGE 29 ---
+496     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.55 
+(a) 
+The angular frequency of oscillations is 
+ 
+ 
+ 
+ω =
+1
+LC =
+1
+0.082 0 H
+(
+) 17.0 × 10−6 F
+(
+)
+= 847 rad/s = 2π f 
+ 
+ 
+so 
+f = 135 Hz 
+ 
+(b) The charge on the capacitor is 
+ 
+ 
+ 
+Q = Qmax cosω t = 180 µC
+(
+)cos
+847 rad/s
+(
+) 0.001 00 s
+(
+)
+⎡⎣
+⎤⎦
+= 119 µC
+ 
+ 
+(c) 
+The current in the circuit is given by Equation 32.23: 
+ 
+ 
+ 
+i = dq
+dt = −ω Qmax sinω t
+= −847 rad/s
+(
+) 180 µC
+(
+) sin
+847 Hz
+(
+) 0.001 00 s
+(
+)
+⎡⎣
+⎤⎦
+= −114 mA
+ 
+ 
+ 
+ 
+Section 32.6 
+The RLC Circuit 
+P32.56 
+We choose to call positive current clockwise in Figure 32.15. It drains 
+charge from the capacitor according to i = −dq
+dt . A clockwise trip 
+around the circuit then gives 
+ 
+ 
+ 
++ q
+C −iR −L di
+dt = 0
+ 
+ 
+or  
+ 
++ q
+C + dq
+dt R + L d
+dt
+dq
+dt = 0, identical to Equation 32.28. 
+P32.57 
+(a) 
+The frequency of damped oscillations is given by Equation 32.32: 
+ 
+ 
+ω d =
+1
+LC −
+R
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1
+2.20 × 10−3H
+(
+) 1.80 × 10−6F
+(
+)
+−
+7.60
+2 2.20 × 10−3H
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1.58 × 104 rad s
+ 
+ 
+ 
+Therefore, fd = ω d
+2π = 1.58 × 104 rad s
+2π
+= 2.51 kHz .
+
+--- PAGE 30 ---
+Chapter 32     497 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Critical damping occurs when ωd = 0 , or when  
+ 
+ 
+ 
+Rc =
+4L
+C =
+4 2.20 × 10−3H
+(
+)
+1.80 × 10−6F
+= 69.9 Ω 
+P32.58 
+(a) 
+The angular frequency of undamped oscillations is  
+ 
+ 
+ 
+ω 0 =
+1
+LC =
+1
+0.500 H
+(
+) 0.100 × 10−6 F
+(
+)
+= 4.47 × 103 rad s
+= 4.47 krad s
+ 
+ 
+(b) The frequency of the damped oscillations is  
+ 
+ 
+ 
+ω d =
+1
+LC −
+R
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1
+0.500 H
+(
+) 0.100 × 10−6 F
+(
+)
+−1.00 × 103 Ω
+2 0.500 H
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 4.36 krad s
+ 
+ 
+(c) 
+Δω
+ω 0
+× 100% = ω d −ω 0
+ω 0
+× 100% = 4.36 −4.47
+4.47
+× 100% = −2.53% 
+P32.59 
+(a) 
+The charge on the capacitor is given by Equation 32.31: 
+ 
+ 
+ 
+q = Qmaxe−Rt 2L cosω dt 
+so 
+Ii ∝e−Rt 2L 
+ 
+ 
+When the amplitude of the oscillation falls to 50.0% of its initial 
+value, we have 
+ 
+ 
+ 
+0.500 = e−Rt 2L 
+and 
+Rt
+2L = −ln 0.500
+(
+) 
+ 
+ 
+Then, 
+ 
+ 
+ 
+t = −2L
+R ln 0.500
+(
+) = 0.693 2L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) The initial energy of the circuit is U0 ∝Qmax
+2
+. When U = 0.500U0,  
+ 
+ 
+ 
+q =
+0.500Qmax = 0.707Qmax
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+t = −2L
+R ln 0.707
+(
+) = 0.347 2L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟  (half as long as part (a))
+
+--- PAGE 31 ---
+498     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P32.60 
+(a) 
+Let Q represent the magnitude of the opposite charges on the 
+plates of a parallel plate capacitor, the two plates having area A 
+and separation d. The negative plate creates an electric field 
+
+E =
+Q
+2 ∈0 A toward itself. It exerts on the positive plate force 
+
+F =
+Q2
+2 ∈0 A toward the negative plate. The total field between the 
+plates is Q
+∈0 A. The energy density is 
+uE = 1
+2 ∈0 E2 = 1
+2 ∈0
+Q2
+∈0
+2 A2 =
+Q2
+2 ∈0 A2 . Modeling this as a negative or 
+inward pressure, we have for the force on one plate 
+F = PA =
+Q2
+2 ∈0 A , in agreement with our first analysis. 
+ 
+(b) The lower of the two current sheets shown creates above it 
+magnetic field 
+
+B = µ0Js
+2
+−ˆk
+(
+) . Let  and w represent the length 
+and width of each sheet. The upper sheet carries current Jsw and 
+feels force 
+ 
+ 
+ 
+
+F = I
+
+×
+
+B = Jsw ˆi × −µ0Js
+2
+ˆk
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= µ0wJs
+2
+2
+ˆj 
+ 
+ 
+The force per area is P = F
+w =
+µ0J s
+2
+2
+. 
+ 
+ANS. FIG. P32.60(b) 
+ 
+(c) 
+Between the two sheets, each sheet contributes the same field, so 
+the total magnetic field is µ0Js
+2
+−ˆk
+(
+) + µ0Js
+2
+−ˆk
+(
+) = µ0Js ˆk , with 
+magnitude B = µ0Js . Outside the space they enclose, the fields 
+of the separate sheets are in opposite directions and add to zero .
+
+--- PAGE 32 ---
+Chapter 32     499 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+uB =
+1
+2µ0
+B2 = µ0
+2Js
+2
+2µ0
+=
+µ0Js
+2
+2
+ 
+ 
+(e) 
+The energy density found in part (d) agrees with the magnetic
+pressure found in part (b).
+  
+P32.61 
+(a) 
+The voltage across the inductor is given by 
+ 
+ 
+ 
+εL = −L di
+dt = −1.00 mH
+(
+)d 20.0t
+(
+)
+dt
+= −20.0 mV
+ 
+ 
+(b) The charge that flows into the capacitor is  
+ 
+ 
+ 
+q =
+I dt
+0
+t
+∫
+=
+20.0t
+(
+)dt
+0
+t
+∫
+= 10.0t2
+ 
+ 
+ 
+Going across the capacitor in the directon of the current, the 
+potential drops from the positive to the negative side, so  
+ 
+ 
+ 
+ΔVC = −q
+C =
+−10.0t2
+1.00 × 10−6 F = −10.0t2  
+ 
+ 
+where ΔVC is in megavolts and t is in seconds.  
+ 
+(c) 
+When q2
+2C ≥1
+2 Li2, or    
+ 
+ 
+ 
+−10.0t2
+(
+)
+2
+2 1.00 × 10−6
+(
+)
+≥1
+2 1.00 × 10−3
+(
+) 20.0t
+(
+)
+2 ,  
+ 
+ 
+then 100t4 ≥400 × 10−9
+(
+)t2 
+ 
+ 
+The earliest time this is true is at  
+ 
+ 
+ 
+t =
+4.00 × 10−9 s = 63.2 µs 
+P32.62 
+(a) 
+The voltage across the inductor is given by  
+ 
+ 
+ 
+εL = −L di
+dt = −L d
+dt Kt
+(
+) = −LK
+ 
+ 
+(b) The current into the capacitor is i = dq
+dt , so the charge that flows 
+into the capacitor is  
+ 
+ 
+ 
+q =
+idt
+0
+t
+∫
+=
+Ktdt
+0
+t
+∫
+= 1
+2 Kt2
+
+--- PAGE 33 ---
+500     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Going across the capacitor in the direction of the current, the 
+potential drops from the positive to the negative side, so  
+ 
+ 
+ 
+ΔVC = −q
+C = −Kt2
+2C
+ 
+ 
+(c) 
+When 1
+2 C ΔVC
+(
+)
+2 ≥1
+2 LI 2 ,     
+ 
+ 
+ 
+1
+2 C K 2t4
+4C2
+⎛
+⎝⎜
+⎞
+⎠⎟≥1
+2 L K 2t2
+(
+) 
+ 
+ 
+Thus, the energy in the capacitor begins to exceed the energy in 
+the inductor after t = 2 LC . 
+P32.63 
+The total energy equals the energy in the capacitor and inductor:  
+ 
+ 
+ 
+1
+2
+Q2
+C = 1
+2C
+Q
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1
+2 Li2    
+ 
+so     
+i =
+3Q2
+4CL 
+ 
+The flux through each turn of the coil is  
+ 
+ 
+ 
+ΦB = Li
+N =
+q
+2N
+3L
+C
+ 
+ 
+where N is the number of turns. 
+P32.64 
+(a) 
+The inductor has no resistance, therefore it has voltage across it. It 
+behaves as a short circuit . 
+ 
+(b) The battery sees an equivalent resistance  
+ 
+ 
+ 
+4.00 Ω +
+1
+4.00 Ω +
+1
+8.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 6.67 Ω
+  
+ 
+ 
+The battery current is  
+ 
+ 
+ 
+10.0 V
+6.67 Ω = 1.50 A
+ 
+ 
+ 
+The voltage across the parallel combination of resistors is  
+ 
+ 
+ 
+10.0 V −1.50 A
+(
+) 4.00 Ω
+(
+) = 4.00 V
+
+--- PAGE 34 ---
+Chapter 32     501 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The current in the 8-Ω resistor and the inductor is  
+ 
+ 
+ 
+4.00 V
+8.00 Ω = 500 mA
+ 
+ 
+(c) 
+The energy stored in the inductor for t < 0 is 
+ 
+ 
+ 
+UB = 1
+2 Li2 = 1
+2 1.00 H
+(
+) 0.500 A
+(
+)
+2 = 125 mJ
+  
+ 
+(d) 
+The energy becomes 125 mJ of additional internal energy in
+the 8-Ω resistor and the 4-Ω resistor in the middle branch.
+ 
+ 
+(e) 
+See ANS. FIG. P32.64(e). The current decreases from 500 mA 
+toward zero, showing exponential decay with a time constant  
+ 
+ 
+ 
+τ = L
+R =
+1.00 H
+3 4.00 Ω
+(
+) = 0.083 3 s = 8.33 ms
+ 
+ 
+ANS. FIG. P32.64(e) 
+P32.65 
+The voltages are related as  
+ 
+ 
+ 
+ε −iR −L di
+dt = 0     →   ε = iR + L di
+dt = 0
+ 
+ 
+When the current is increasing:   
+ 
+ 
+ 
+9.00 V = (2.00 A) R + L (0.500 A/s)  
+[1] 
+ 
+When the current is decreasing:   
+ 
+ 
+ 
+5.00 V = (2.00 A) R + L (–0.500 A/s) 
+[2] 
+ 
+(a) 
+Subtracting [2] from [1] gives  
+  
+ 
+ 
+9.00 V – 5.00 V = L (1.00 A/s)   →   L = 4.00 H  
+ 
+(b) Substituting the value for L in either equation gives  
+ 
+ 
+ 
+7.00 V = (2.00 A) R   →   R = 3.50 Ω 
+P32.66 
+(a) 
+Initially, the current is zero because of the emf induced in the coil 
+resists an increase in the current. Just after the circuit is 
+connected, the potential difference across the resistor is 0 and the 
+emf across the coil is 24.0 V.
+
+--- PAGE 35 ---
+502     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) After several seconds, the current has reached a steady value and 
+does not change. After several seconds, the potential difference 
+across the resistor is 24.0 V and that across the coil is 0. 
+ 
+(c) 
+The resistor voltage and inductor voltage always add to 24 V. The 
+resistor voltage increases monotonically, so the two voltages are 
+equal to each other, both being 12.0 V, just once. The time is given by  
+ 
+ 
+ 
+V = iR = Rε/R(1– e–Rt/L) 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+12 V = 24 V(1 – e–6Ωt/0.005 H)
+0.5 = e–1 200 t →1 200 t = ln 2
+→
+t = 0.578 ms
+ 
+ 
+ 
+The two voltages are equal to each other, both being 12.0 V,
+just once, at 0.578 ms after the circuit is connected.
+ 
+ 
+(d) There is now no battery in the circuit, so the current decays to 
+zero. The resistor and inductor are in parallel because they have 
+common connections on each side. As the current decays the 
+potential difference across the resistor is always equal to the emf 
+across the coil. 
+P32.67 
+(a) 
+At the center,   B ≈Nµ0i
+2R . 
+ 
+ 
+So the coil creates flux through itself  
+ 
+ 
+ 
+ΦB = BAcosθ = Nµ0i
+2R π R2 cos0° = 1
+2 Nµ0πiR
+ 
+ 
+ 
+The inductance is  
+ 
+ 
+ 
+L = N ΦB
+i ≈N Nµ0πIR
+2i
+⎛
+⎝⎜
+⎞
+⎠⎟≈1
+2 µ0πN 2R
+ 
+ 
+(b) To find the inductance of the circuit, we compute its radius from 
+ 
+ 
+ 
+2π R = 3 0.300 m
+(
+)   →   R = 0.143 m    
+ 
+ 
+Then, from the expression found in part(a), the inductance is  
+ 
+ 
+ 
+L ≈1
+2 µ0πN 2R = 1
+2 4π × 10−7 T⋅m A
+(
+)π 12
+( ) 0.143 m
+(
+)
+  = 2.83 × 10−7 H
+L ~ 10−7 H
+
+--- PAGE 36 ---
+Chapter 32     503 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The time constant is 
+ 
+ 
+ 
+τ = L
+R ≈2.83 × 10−7 H
+270 Ω
+= 1.05 × 10−9 s ≈10−9 s 
+L
+R ~ 1 ns 
+P32.68 
+We calculate the angular frequency of the circuit from Equation 32.32: 
+ 
+ω d = 
+1
+LC − 
+R
+2L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1/2
+ 
+      = 
+1
+32.0 × 10−3 H
+(
+) 500 × 10−6 F
+(
+)
+ − 
+16.0 Ω
+2 32.0 × 10−3 H
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1/2
+= 0
+ 
+ 
+The fact that the angular frequency at which the circuit oscillates is 
+zero tells you that the circuit is critically damped. There will be no 
+decaying oscillations. The critical resistance is given by 
+ 
+ 
+Rc  = 
+4L
+C = 
+4 32.0 × 10−3 H
+(
+)
+500 × 10−6 F
+ = 16.0 Ω 
+ 
+which is just the resistance that you are using for your experiment.  
+P32.69 
+The emf across the inductor is given by 
+ 
+ 
+ε = −L di
+dt = −L Δi
+Δt = −50 Δi
+Δt
+ 
+ 
+where the rate of change of current Δi
+Δt
+ is in amperes per second (A/s), 
+and the induced emf ε is in millivolts (mV).  
+ 
+Between t = 0 and t = 1 ms: 
+Δi
+Δt = 2 
+ε = –100 mV  
+ 
+Between t = 1 ms and t = 2 ms:  
+Δi
+Δt = 0 
+ε = 0  
+ 
+Between t = 2 ms and t = 3 ms: 
+Δi
+Δt = 1 
+ε  = –50 mV  
+ 
+Between t = 3 ms and t = 5 ms: 
+Δi
+Δt = −3
+2 
+ε = +75 mV  
+ 
+Between t = 5 ms and t = 6 ms:   
+Δi
+Δt = 0 
+ε  = 0
+
+--- PAGE 37 ---
+504     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The graph of ε is shown in ANS. FIG. P32.69. 
+ 
+ANS. FIG. P32.69 
+P32.70 
+(a) 
+i1 = i2 + i 
+ 
+(b) For the left-hand loop, 
+ 
+ 
+ 
+ ε −i1R1 −i2R2 = 0 
+ 
+(c) 
+For the outside loop, 
+ 
+ 
+ 
+ 
+ε −i1R1 −L di
+dt = 0
+ 
+ 
+(d) Substitute the equation for i1 from part (a) into the equation in 
+part (b):  
+ 
+ 
+ 
+ε −i2 + i
+(
+)R1 −i2R2 = 0     →     i2 = ε −iR1
+R1 + R2
+ 
+ 
+ 
+Substitute the equation for i1 from part (a) into the equation in 
+part (c):  
+ 
+ 
+ 
+ε −i2 + i
+(
+)R1 −L di
+dt = 0     →     i2 =
+ε −L di
+dt
+R1
+−i
+ 
+ 
+ 
+Equate the two expressions for i2: 
+ 
+ 
+ 
+ε −iR1
+R1 + R2
+=
+ε −L di
+dt
+R1
+−i
+ 
+ 
+ANS. FIG. P32.70
+
+--- PAGE 38 ---
+Chapter 32     505 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Expanding and solving, 
+ 
+ 
+ 
+ε −L di
+dt = ε −iR1
+R1 + R2
++ i
+⎛
+⎝⎜
+⎞
+⎠⎟R1
+= ε −iR1 + i R1 + R2
+(
+)
+R1 + R2
+⎡
+⎣⎢
+⎤
+⎦⎥R1 = ε + iR2
+R1 + R2
+⎛
+⎝⎜
+⎞
+⎠⎟R1
+ 
+ 
+ 
+ 
+L di
+dt = ε −ε +iR2
+R1 + R2
+⎛
+⎝⎜
+⎞
+⎠⎟R1
+= ε R1 + R2
+(
+)−ε + iR2
+(
+)R1
+R1 + R2
+= ε R2
+(
+)−iR2
+(
+)R1
+R1 + R2
+ 
+ 
+ 
+And finally, 
+ 
+ 
+ 
+ε
+R2
+R1 + R2
+−i R1R2
+R1 + R2
+−L di
+dt = 0
+ 
+ 
+ 
+Calling ′ε = ε
+R2
+R1 + R2
+ and 
+′
+R =
+R1R2
+R1 + R2
+, the equation for i can be 
+written  
+ 
+ 
+ 
+′ε −i ′
+R −L di
+dt = 0
+ 
+ 
+(e) 
+This is of the same form as the Equation 32.6 in the text for a 
+simple RL circuit, so its solution is of the same form as Equation 
+32.7: 
+ 
+ 
+ 
+i = ′ε
+′
+R
+1−e−′
+R t L
+(
+)
+ 
+ 
+ 
+where  
+ 
+ 
+ 
+ 
+′ε
+′
+R = ε R2
+R1 + R2
+(
+)
+R1R2
+R1 + R2
+(
+)
+= ε
+R1
+ 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+ 
+i = ε
+R1
+1−e−′
+R t L
+(
+)    where    
+′
+R =
+R1R2
+R1 + R2
+ 
+P32.71 
+See ANS. FIG. 32.71. The magnetic field  
+inside the toroid is given by 
+ 
+ 
+B = µ0Ni
+2π r
+ 
+ 
+ 
+ANS. FIG. P32.71
+
+--- PAGE 39 ---
+506     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The magnetic flux through a cross-sectional area A = h(b – a) is given 
+by  
+ 
+ 
+ΦB =
+BdA
+∫
+=
+µ0Ni
+2π r hdr
+a
+b
+∫
+= µ0Nih
+2π
+dr
+r
+a
+b
+∫
+= µ0Nih
+2π
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Thus, the inductance is  
+ 
+ 
+L = NΦB
+i
+= µ0N 2h
+2π
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Substituting numerical values, we obtain 
+ 
+ 
+L = µ0 500
+(
+)
+2 0.010 0 m
+(
+)
+2π
+ln 12.0 cm
+10.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 91.2 µH
+ 
+P32.72 
+See ANS. FIG. P23.71. B = µ0Ni
+2π r inside the toroid. 
+ 
+Calculate the flux through a cross-sectional area A = h(b – a):  
+ 
+ 
+ 
+ΦB =
+BdA
+∫
+=
+µ0Ni
+2π r hdr
+a
+b
+∫
+= µ0Nih
+2π
+dr
+r
+a
+b
+∫
+= µ0Nih
+2π
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Thus, the inductance is 
+ 
+ 
+ 
+L = NΦB
+i
+=
+µ0N 2h
+2π
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P32.73 
+(a) 
+UB = 1
+2 Li2 = 1
+2 50.0 H
+(
+) 50.0 × 103 A
+(
+)
+2 = 6.25 × 1010 J 
+ 
+(b) Two adjacent turns are parallel wires carrying current in the same 
+direction. Since the loops have such large radius, a one-meter 
+section can be regarded as straight. 
+ 
+ 
+Then one wire creates a field of   B = µ0i
+2π r . 
+ 
+ 
+This causes a force on the next wire of   F = iBsinθ, 
+ 
+ 
+giving a force per unit length   F
+= i µ0i
+2π r sin90° = µ0i2
+2π r . 
+ 
+ 
+Evaluating,  
+F
+= 4π × 10−7 T ⋅m/A
+(
+)
+50.0 × 103 A
+(
+)
+2
+2π 0.250 m
+(
+)
+= 2 000 N/m
+
+--- PAGE 40 ---
+Chapter 32     507 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.74 
+For an RL circuit, i = Iie
+−R L
+(
+)t and      
+ 
+ 
+ 
+i
+Ii
+= 1−10−9 = e
+−R L
+(
+)t ≅1−R
+L t
+ 
+ 
+ 
+ 
+R
+L t = 10−9     
+ 
+so     
+ 
+ 
+Rmax =
+L 10−9
+(
+)
+t
+=
+3.14 × 10−8 H
+(
+) 10−9
+(
+)
+2.50 yr
+(
+)
+1 yr
+3.16 × 107s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.97 × 10−25 Ω
+  
+ 
+(If the ring were of purest copper, of diameter 1 cm, and cross-sectional 
+area 1 mm
+2, its resistance would be at least 10
+–6 Ω.) 
+P32.75 
+Find the current in the cylinder.  
+ 
+ 
+ 
+ 
+P = iΔV   →   i = P
+ΔV = 1.00 × 109 W
+200 × 103 V = 5.00 × 103 A
+ 
+ 
+From Ampère’s law,  
+ 
+ 
+ 
+B 2π r
+(
+) = µ0ienclosed     or     B = µ0ienclosed
+2π r
+  
+ 
+ANS. FIG. P32.75 
+ 
+(a) 
+At r = a = 0.020 0 m, ienclosed = 5.00 × 103 A and    
+ 
+ 
+ 
+B =
+4π × 10−7 T ⋅m A
+(
+) 5.00 × 103 A
+(
+)
+2π 0.020 0 m
+(
+)
+= 0.050 0 T = 50.0 mT
+ 
+ 
+(b) At r = b = 0.050 0 m, ienclosed = i = 5.00 × 103 A and 
+ 
+ 
+ 
+B =
+4π × 10−7 T ⋅m A
+(
+) 5.00 × 103 A
+(
+)
+2π 0.050 0 m
+(
+)
+= 0.020 0 T = 20.0 mT
+
+--- PAGE 41 ---
+508     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The energy density is uB = B2
+2µ0
+: 
+ 
+ 
+ 
+UB = udV
+∫
+=
+B r( )
+[
+]
+2 2π rdr
+(
+)
+2µ0
+a
+b
+∫
+= µ0i2
+4π
+dr
+r
+a
+b
+∫
+= µ0i2
+4π ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+UB = 4π × 10−7 T⋅m A
+(
+) 5.00 × 103 A
+(
+)
+2 1 000 × 103 m
+(
+)
+4π
+                                                                         × ln 5.00 cm
+2.00 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.29 × 106 J = 2.29 MJ
+ 
+ 
+(d) The magnetic field created by the inner conductor exerts a force of 
+repulsion on the current in the outer sheath. The strength of this 
+field, from part (b), is 20.0 mT. Consider a small rectangular 
+section of the outer cylinder of length  and width w. 
+ 
+ 
+It carries a current of 5.00 × 103 A
+(
+)
+w
+2π 0.050 0 m
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+and experiences an outward force 
+ 
+ 
+ 
+F = iBsinθ = 5.00 × 103 A
+(
+)w
+2π 0.050 0 m
+(
+)
+20.0 × 10−3 T
+(
+)sin90.0°
+ 
+ 
+ 
+The pressure on it is 
+P = F
+A = F
+w=
+5.00 × 103 A
+(
+) 20.0 × 10−3 T
+(
+) w
+2π 0.050 0 m
+(
+) w
+ = 318 Pa 
+P32.76 
+(a) 
+The magnetic field inside the solenoid is given by B = µ0Ni
+
+: 
+ 
+ 
+ 
+B =
+4π × 10−7 T ⋅m A
+(
+) 1 400
+(
+) 2.00 A
+(
+)
+1.20 m
+= 2.93 × 10−3 T = 2.93 mT
+ 
+ 
+ANS. FIG. P32.76
+
+--- PAGE 42 ---
+Chapter 32     509 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The energy density of the magnetic field is 
+ 
+ 
+ 
+uB = B2
+2µ0
+=
+2.93 × 10−3 T
+(
+)
+2
+2 4π × 10−7 T⋅m A
+(
+)
+= 3.42 J m3
+(
+) 1 N⋅m
+1 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.42 N m2 = 3.42 Pa
+  
+ 
+(c) 
+The supercurrents must be clockwise to produce a downward
+magnetic field to cancel the upward field of the current in the
+windings.
+ 
+ 
+(d) The field of the windings is upward and radially outward around 
+the top of the solenoid. It exerts a force radially inward and 
+upward on each bit of the clockwise supercurrent. The total force 
+on the supercurrents in the bar is upward. You can think of it as a 
+force of repulsion between the solenoid with its north end 
+pointing up, and the core, with its north end pointing down.  
+ 
+(e) 
+F = PA = 3.42 Pa
+(
+) π 1.10 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦= 1.30 × 10−3 N = 1.30 mN 
+ 
+ 
+Note that we have not proved that energy density is pressure. In 
+fact, it is not in some cases. Chapter 21 proved that the pressure is 
+two-thirds of the translational energy density in an ideal gas. 
+P32.77 
+From Ampère’s law, the magnetic field at distance r ≤R is found as: 
+ 
+ 
+ 
+B 2π r
+(
+) = µ0j π r2
+(
+) = µ0
+i
+π R2
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+), ,   or   B = µ0ir
+2π R2 
+ 
+The magnetic energy per unit length within the wire is then 
+ 
+ 
+ 
+UB
+=
+B2
+2µ0
+2π rdr
+(
+)
+0
+R
+∫
+= µ0i2
+4π R4
+r3 dr
+0
+R
+∫
+= µ0i2
+4π R4
+R4
+4
+⎛
+⎝⎜
+⎞
+⎠⎟=
+µ0i2
+16π
+ 
+ 
+This is independent of the radius of the wire. 
+ 
+ 
+ 
+Challenge Problems 
+P32.78 
+(a) 
+It has a magnetic field, and it stores energy, so 
+L = 2UB
+i2
+ is non-zero.
+ 
+ 
+(b) 
+Every field line goes through the rectangle between the 
+conductors.
+
+--- PAGE 43 ---
+510     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+When the wires carry current i, magnetic flux passes through the 
+rectangle bordered by the wires (surface to surface of the wires):  
+ 
+ 
+ 
+L = Φ
+i = 1
+i
+BdA
+y=a
+w−a
+∫
+ 
+ 
+ 
+where y is measured from the center of the lower wire, dA is a 
+rectangular area element of length x and width dy, and B is the 
+magnitude of the net magnetic field generated by the upper and 
+lower wires that passes through dA. The inductance is  
+ 
+ 
+ 
+L = 1
+i
+µ0i
+2π y +
+µ0i
+2π w −y
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥xdy
+a
+w−a
+∫
+ 
+ 
+ 
+We can simplify this calculation by noting that by the symmetry 
+of the arrangement, each conductor contributes equally to the 
+field that passes through the area between them. Thus, the total 
+inductance of both wires is twice the inductance of one wire. The 
+inductance due to the lower wire is   
+ 
+ 
+Llower = 1
+i
+µ0i
+2π y xdy
+a
+w−a
+∫
+= µ0x
+2π ln y
+a
+w−a
+= µ0x
+2π ln w −a
+(
+)−ln a
+[
+]
+= µ0x
+2π ln w −a
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+The inductance due to both wires is twice this: L = µ0x
+π ln w −a
+a
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+P32.79 
+The total magnetic energy is the volume integral of the energy density,  
+ 
+ 
+ 
+uB = B2
+2µ0
+ 
+ 
+Because B changes with position, uB is not constant. For B = B0
+R
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+,  
+ 
+ 
+ 
+uB =
+B0
+2
+2µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+R
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+4 
+ 
+Next, we set up an expression for the magnetic energy in a spherical 
+shell of radius r and thickness dr. Such a shell has a volume 4π r2dr , so 
+the energy stored in it is 
+ 
+ 
+dUB = uB 4π r2dr
+(
+) =
+2π B0
+2R4
+µ0
+⎛
+⎝⎜
+⎞
+⎠⎟
+dr
+r2
+
+--- PAGE 44 ---
+Chapter 32     511 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+We integrate this expression for r = R to r = ∞ to obtain the total 
+magnetic energy outside the sphere. This gives 
+ 
+ 
+UB =
+2π B0
+2R3
+µ0
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+UB = 2π B0
+2R3
+µ0
+= 2π 5.00 × 10−5 T
+(
+)
+2 6.00 × 106 m
+(
+)
+3
+4π × 10−7 T⋅m A
+(
+)
+= 2.70 × 1018 J
+ 
+P32.80 
+(a) 
+While steady-state conditions exist, a 9.00 mA flows clockwise 
+around the right loop of the circuit. Immediately after the switch 
+is opened, a 9.00 mA current will flow around the outer loop of 
+the circuit. Applying Kirchhoff’s loop rule going clockwise 
+around this loop gives: 
+ 
+ 
+ 
++ε −
+2.00 + 6.00
+(
+)× 103 Ω
+⎡⎣
+⎤⎦9.00 × 10−3 A
+(
+) = 0
+ε = 72.0 V
+ 
+ 
+(b) Starting at point a, the potential rises across the inductor then falls 
+across resistors R2 and R1. The positive answer in part (a) means 
+that point b is the higher potential.  
+ 
+(c) 
+The currents in R1 and R2 are shown in ANS. FIG. P32.80(c).below. 
+After t = 0, the current in R1 decreases from an initial value of  
+9.00 mA according to i = Ii e
+–Rt/L. Taking the original current direction 
+as positive in each resistor, the current decreases from +9.00 mA (to 
+the right) to zero in R1. In R2 the current jumps from +3.00 mA 
+(downward) to –9.00 mA (upward) and then decreases in 
+magnitude to zero. The time constant of each decay is 0.4 H/8 000 
+Ω = 50 µs. Thus we draw each current dropping to 1/e = 36.8% of 
+its original value = 3.3 µA at the 50 µs instant.    
+ 
+ 
+ANS. FIG. P32.80(c)
+
+--- PAGE 45 ---
+512     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) After the switch is opened, the current around the outer loop 
+decays as 
+ 
+ 
+ 
+i = Iie−Rt L  
+ 
+ 
+with Ii = 9.00 mA, R = 8.00 kΩ, and L = 0.400 H. 
+ 
+ 
+Thus, when the current has reached a value i = 2.00 mA, the 
+elapsed time is: 
+ 
+t =
+L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ln Ii
+i
+⎛
+⎝⎜
+⎞
+⎠⎟=
+0.400 H
+8.00 × 103 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟ln 9.00 mA
+2.00 mA
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.52 × 10−5 s = 75.2 µs
+ 
+P32.81 
+When the switch is closed, as shown in ANS. FIG. P32.81(a), the 
+current in the inductor is i: 
+ 
+ 
+12.0 −7.50i −10.0 = 0 →i = 0.267 A 
+ 
+When the switch is opened, as shown in ANS. FIG. P32.81(b), the 
+initial current in the inductor remains at 0.267 A. Across resistor R and 
+the armature, iR = ΔV and 
+ 
+ 
+0.267 A
+(
+)R ≤80.0 V     →   
+R ≤300 Ω 
+ 
+ANS. FIG. P32.81 
+*P32.82 
+(a) 
+After a long time, 
+ 
+ 
+ 
+i = ε
+R = 12.0 V
+12.0 Ω = 1.00 A 
+ 
+(b) With the switch thrown to position b, the  
+emf is no longer part of the circuit. The  
+initial current is 1.00 A: 
+ 
+ 
+ 
+ΔV12 = 1.00 A
+(
+) 12.00 Ω
+(
+) = 12.0 V 
+ 
+ 
+ 
+ΔV1 200 = 1.00 A
+(
+) 1 200 Ω
+(
+) = 1.20 kV 
+ 
+ 
+ 
+ΔVL = ΔVR = 1 200 V + 12.0 V = 1.21 kV 
+ 
+ANS. FIG. P32.82
+
+--- PAGE 46 ---
+Chapter 32     513 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+With the switch thrown to position b, ε = 0, so  
+ 
+ 
+ 
+ΔVL = ΔVR = iReff = i 1 200 Ω + 12.0 Ω
+(
+) = i 1.21 kΩ
+(
+) 
+ 
+ 
+Then, when the voltage across the inductor has reached 12.0 V, 
+ 
+ 
+ 
+i = ΔVL
+Reff
+= 12.0 V
+1.21 kΩ = 9.90 × 10−3 A
+ 
+ 
+ 
+The current in the inductor decays as i = Iie−Rt L. Solving for the 
+time t, 
+ 
+ 
+ 
+t = L
+R ln Ii
+i
+⎛
+⎝⎜
+⎞
+⎠⎟=
+2.00 H
+1.21 kΩ
+⎛
+⎝⎜
+⎞
+⎠⎟ln
+1.00 A
+9.90 × 10−3 A
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.62 × 10−3 s
+ 
+P32.83 
+With i = i1 + i2, the voltage across the pair is: 
+ 
+ 
+ΔV = −L1
+di1
+dt −M di2
+dt = −Leq
+di
+dt
+ 
+[1] 
+ 
+and 
+ 
+ 
+ΔV = −L2
+di2
+dt −M di1
+dt = −Leq
+di
+dt
+ 
+[2] 
+ 
+ANS. FIG. P32.83 
+ 
+So, from [1], we have      
+ 
+ 
+−di1
+dt = ΔV
+L1
++ M
+L1
+di2
+dt
+ 
+ 
+which, when substituted into [2], gives  
+ 
+ 
+−L2
+di2
+dt + M
+ΔV
+(
+)
+L1
++ M
+L1
+di2
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟= ΔV
+ 
+ 
+ 
+−L1L2 + M2
+(
+) di2
+dt = ΔV L1 −M
+(
+) 
+[3] 
+ 
+From [2], −di2
+dt = ΔV
+L2
++ M
+L2
+di1
+dt ,
+
+--- PAGE 47 ---
+514     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which, when substituted into [1], gives  
+ 
+ 
+−L1
+di1
+dt + M ΔV
+L2
++ M
+L2
+di1
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟= ΔV
+ 
+ 
+ 
+−L1L2 + M2
+(
+) di1
+dt = ΔV L2 −M
+(
+) 
+[4] 
+ 
+Adding [3] to [4], we have  
+ 
+ 
+−L1L2 + M2
+(
+) di
+dt = ΔV L1 + L2 −2M
+(
+)
+ 
+ 
+So, 
+Leq = −ΔV
+di dt =
+L1L2 −M2
+L1 + L2 −2M
+
+--- PAGE 48 ---
+Chapter 32     515 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P32.2 
+1.36 μH 
+P32.4 
+(a) 1.97 mH; (b) 38.0 mA/s 
+P32.6 
+(a) 188 µT; (b) 3.33 × 10−8 T⋅m2; (c) 0.375 mH; (d) B and ΦB are 
+proportional to current: L is independent of current. 
+P32.8 
+(a) 5.90 mH; (b) 23.6 mV 
+P32.10 
+9.77 mm 
+P32.12 
+See P32.12 for full explanation. 
+P32.14 
+See ANS. FIG. P32.14. 
+P32.16 
+(a) 0.139 s; (b) 0.461 s 
+P32.18 
+See ANS. FIGs. P32.18(a), (b), and (c). 
+P32.20 
+7.67 mH 
+P32.22 
+See P32.22 for full explanation. 
+P32.24 
+(a) 2.00 ms; (b) 0.176 A; (c) 1.50 A; (d) 3.22 ms 
+P32.26 
+(a) ε
+5R 1−e−5Rt 2L
+(
+); (b) ε
+10R 6 −e−5Rt 2L
+(
+) 
+P32.28 
+For t ≤0 , the current in the inductor is zero; for 0 ≤t ≤200 µs, 
+iL = 10.0 A
+(
+) 1−e−10 000t s
+(
+); for t ≥200 µs, , 63.9 A
+(
+)e−10 000t s 
+P32.30 
+(a) See P32.30(a) for full explanation; (b) See P32.30(b) for full 
+explanation; (c) See P32.30(c) for full explanation; (d) Yes. See P32.30(d) 
+for full explanation. 
+P32.32 
+64.8 mJ 
+P32.34 
+(a) 20.0 W; (b) 20.0 W; (c) 0; (d) 20.0 J 
+P32.36 
+L
+2R
+ 
+P32.38 
+(a) 66.0 W; (b) 45.0 W; (c) 21.0 W; (d) The power supplied by the 
+battery is equal to the sum of the power delivered to the internal 
+resistance of the coil and the power stored in the magnetic field;  
+(e) Yes; (f) Just after t = 0, the current is very small, so the power 
+delivered to the internal resistance of the coil (iR
+2) is nearly zero, but 
+the rate of the change of the current is large, so the power delivered to 
+the magnetic field (Ldi/dt) is large, and nearly all the battery power is 
+being stored in the magnetic field.  Long after the connection is made, 
+the current is not changing, so no power is being stored in the
+
+--- PAGE 49 ---
+516     Inductance 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+magnetic field, and all the battery power is being delivered to the 
+internal resistance of the coil. 
+P32.40 
+80.0 mH 
+P32.42 
+1.73 mH 
+P32.44 
+(a) M12 = µ0πR2
+2N1N2/; (b) M12 = µ0πR2
+2N1N2/; (c) They are the 
+same. 
+P32.46 
+(a) See P32.46(a) for full explanation; (b) 3.95 nH 
+P32.48 
+608 pF 
+P32.50 
+0.220 H 
+P32.52 
+If the energy is split equally between the capacitor and inductor at 
+some instant, the energy would be half this value, or 200 µJ. Therefore, 
+there would be no time when each component stores 250 µJ. 
+P32.54 
+(a) 6.03 J; (b) 0.529 J; (c) 6.56 J 
+P32.56 
+See P32.56 for full explanation. 
+P32.58 
+(a) 4.47 krad/s; (b) 4.36 krad/s; (c) –2.53% 
+P32.60 
+(a) See P32.60(a) for full explanation; (b) µ0Js
+2
+2
+; (c) B = µ0Js , zero;  
+(d) µ0Js
+2
+2
+; (e) The energy density found in part (d) agrees with the 
+magnetic pressure found in part (b). 
+P32.62 
+(a) –LK; (b) −Kt2
+2C
+; (c) 2 LC 
+P32.64 
+(a) short circuit; (b) 500 mA; (c) 125 mJ; (d) The energy becomes 125 mJ 
+of additional internal energy in the 8-Ω resistor and the 4-Ω resistor in 
+the middle branch; (e) See ANS FIG P32.64(e). 
+P32.66 
+(a) Just after the circuit is connected, the potential difference across the 
+register is 0, and the emf across the coil is 24.0 V; (b) After several 
+seconds, the potential difference across the resistor is 24.0 V and that 
+across the coil is 0; (c) The two voltages are equal to each other, both 
+being 12.0 V, just once, at 0.578 ms after the circuit is connected; (d) As 
+the current decays, the potential difference across the resistor is always 
+equal to the emf across the coil. 
+P32.68 
+See P32.68 for full explanation.
+
+--- PAGE 50 ---
+Chapter 32     517 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P32.70 
+(a) i1 = i2 + i; (b) ε −i1R1 −i2R2 = 0; (c) ε −i1R1 −L di
+dt = 0; 
+(d) ′ε −i ′
+R −L di
+dt = 0; (e) See P32.70(e) for full explanation. 
+P32.72 
+µ0N 2h
+2π
+ln b
+a
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P32.74 
+3.97 × 10−25 Ω 
+P32.76 
+(a) 2.93 mT; (b) 3.42 Pa; (c) The supercurrents must be clockwise to 
+produce a downward magnetic field to cancel the upward field of the 
+current in the windings; (d) The field of the windings is upward and 
+radially outward around the top of the solenoid. It exerts a force 
+radially inward and upward on each bit of the clockwise supercurrent. 
+The total force on the supercurrents in the bar is upward; (e) 1.30 mN 
+P32.78 
+(a) It has a magnetic field, and it stores energy, so L = 2UB
+i2
+ is non-zero; 
+(b) Every field line goes through the rectangle between the conductors; 
+(c) See P32.78(c) for full explanation. 
+P32.80 
+(a) 72.0 V; (b) point b; (c) See ANS. FIG. P32.80(c); (d) 75.2 µs 
+P32.82 
+(a) 1.00 A; (b) ΔV12 = 12.0 V, ΔV1 200 = 1.20 kV, ΔVL = 1.21 kV

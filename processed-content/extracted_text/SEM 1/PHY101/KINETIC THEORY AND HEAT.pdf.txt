@@ -1,0 +1,570 @@
+
+--- PAGE 1 ---
+KINETIC THEORY AND HEAT 
+ 
+The Zeroth Law of Thermodynamics 
+The zeroth law of thermodynamics states that if two systems are both in thermal equilibrium 
+with a third system, then the first two systems are also in thermal equilibrium with each other. 
+ 
+In simple terms the Zeroth Law of Thermodynamics states that systems that are in thermal 
+equilibrium exist at the same temperature. Figure 1 shows three systems in thermal equilibrium. 
+Let A, B, and C be three systems. If A and C are in thermal equilibrium, and A and B are in thermal 
+equilibrium, then B and C are in thermal equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.   The double arrow represents thermal equilibrium between systems. If systems A and 
+C are in equilibrium, and systems A and B are in equilibrium, then systems B and C are in 
+equilibrium. The systems A, B, and C are at the same temperature. 
+ 
+Systems are in thermal equilibrium if they do not transfer heat, even though they are in a position 
+to do so, based on other factors. For example, food that is stored in a refrigerator overnight is in 
+thermal equilibrium with the air in the refrigerator: heat no longer flows from one source (the food) 
+to the other source (the air) or back. 
+ 
+Temperature and Temperature Scales 
+The temperature of a substance is a number which expresses its degree of hotness on some chosen 
+scale. Thus, the temperature of water fetched from the tap is lower than that of a boiling water; the 
+boiling water contains a much larger quantity of internal energy than the tap water. Temperature 
+is measured by means of a thermometer, of which a number of different types are available, but 
+each makes use of a particular thermometric property of a particular thermometric substance. Some 
+depend on the uniform expansion of a liquid when heated; others on the linear uniform expansion 
+of a compound strip of two metals. In order to establish a temperature scale it is necessary to make 
+use of fixed points: A fixed point is the single temperature at which it can confidently be expected 
+that a particular physical event (e.g. the melting of ice under specific conditions) always takes 
+place. Three such points are defined below. 
+1. The upper fixed point or steam point is the temperature of steam from water boiling under 
+standard atmospheric pressure of 760 mmHg . It is labelled 100 oC or 373 K. 
+2. The lower fixed point or ice point is the temperature of pure melting ice. It is labelled 0 oC 
+or 273 K. 
+3. The triple point of water is that unique temperature at which pure ice, pure water and water 
+vapour can exist together in equilibrium. The triple point of water is 273.16 K, or 0.01 °C, or 
+32.018 °F. 
+ 
+C 
+B 
+A 
+C 
+B 
+A 
+C 
+B 
+A
+
+--- PAGE 2 ---
+The triple point is particularly useful, since there is only one pressure at 
+which all three phases (solid, liquid and gas) can be in equilibrium with 
+each other. 
+The difference in temperature between the two fixed points is called the 
+fundamental interval as shown in Figure 2. This is divided into 100 
+equal degrees, the ice point being called 0 0C and the steam point          
+100 0C. This subdivision of the interval was suggested by a Swedish  
+astronomer named Celsius and is now called the Celsius scale. 
+ 
+The SI unit of temperature is the Kelvin (K). An interval of  one Kelvin 
+ is defined as being 
+1
+273.16of the temperature of the triple point of  
+water as measured on the thermodynamic scale of temperature.  
+The triple point of water is the fixed point of the scale and is assigned  
+the value of 273.16 K. On this basis absolute zero is 0 K, the ice point 
+ is 273.15 K, and the steam point is 373.15 K. 
+ 
+Equation 4.28 gives the relationship between the Celsius scale and the 
+ Kelvin scale 
+273.15
+T
+
+
+                                                                                       1 
+where, temperature in 0C, and T temperature in K. 
+ 
+It follows from equation 7.1 that a temperature change of 1K is exactly equal to a temperature 
+change of 1 0C. 
+ 
+THERMOMETERS, PROPERTIES OF THERMOMETRIC MATERIALS 
+AND TYPES OF THERMOMETERS 
+                                                      
+In this session you are introduced to the thermometer as a device that measures temperature or a 
+temperature gradient. The thermometer has two important elements which makes it possible to 
+read temperature of surroundings. The properties of a good thermometric material have been 
+outlined. Reasons for chosing mercury instead of water as a thermometric liquid is also outlined. 
+Calibration of liquid-in-glass thermometers have also been discussed. Some commonly used types 
+of thermometers are discussed. 
+ 
+Objectives 
+At the end of this session you should be able to: 
+1. Identify a thermometer and describe its usage. 
+2. The properties of a good thermometric material. 
+3. Explain why some materials cannot be used as thermometric materials. 
+4. Calibrate a thermometer. 
+5. Name some existing thermometers. 
+6. Describe some types of thermometers. 
+7. State the properties of alcohol and mercury which qualifies them as good thermometric 
+liquids. 
+ 
+Figure 2. A thermometer showing 
+the upper and lower points. 
+ 
+100oC 
+0oC 
+Fundamental 
+Interval
+
+--- PAGE 3 ---
+Thermometers 
+A thermometer is a device that measures temperature or a temperature gradient. A thermometer 
+has two important elements:  
+1. A temperature sensor. In liquid-in-glass thermometers, the bulb of thermometric liquid is 
+the sensor in which a change occurs when there is change in temperature.   
+2. A means of converting this change into numerical value on a visible scale.  
+ 
+Thermometric Materials 
+Certain substances have the property that changes with temperature. Substances that show a 
+uniform change in temperature can be used as a thermometric material. For example, some 
+substances expand on heating and contract on cooling, some change their colours and some also 
+change their electric resistance. Common liquid-in-glass thermometers are generally made using 
+some suitable liquid like mercury or alcohol as thermometric material.  
+ 
+A thermometric liquid should have the following properties: 
+i. 
+It should be visible. 
+ii. 
+It should have uniform thermal expansion. 
+iii. 
+It should have a low freezing point. 
+iv. 
+It should have a high boiling point. 
+v. 
+It should not wet glass. 
+vi. 
+It should be a good conductor of heat. 
+vii. 
+It should have a small specific heat capacity 
+viii. 
+It should respond to temperature change rapidly 
+ 
+Example 1. Give 4 reasons why water is not used as a thermometric liquid. 
+ 
+Solution 
+1. Water is transparent. 
+2. Water wets glass 
+3. Water has high specific heat capacity 
+4. Water has anomalous expansion 
+  
+Calibration of Thermometers 
+Thermometers can be calibrated either by comparing them with other calibrated thermometers or 
+by checking them against known fixed points on the temperature scale. The best known of these 
+fixed points are the melting and boiling points of pure water. (Note that the boiling point of water 
+varies with pressure, so this must be controlled.) 
+The traditional way of putting a scale on a liquid-in-glass or liquid-in-metal thermometer was in 
+three stages: 
+1. Immerse the sensing portion in a stirred mixture of pure ice and water at atmospheric 
+pressure and mark the point indicated when it had come to thermal equilibrium. 
+2. Immerse the sensing portion in a steam bath at Standard atmospheric pressure and again 
+mark the point indicated. 
+3. Divide the distance between these marks into equal portions according to the temperature 
+scale being used.
+
+--- PAGE 4 ---
+Why is mercury used in thermometers instead of water? 
+Mercury is used mostly in thermometers because of the following properties: 
+ 
+It is visible. 
+ 
+It has a low freezing point (-39 °C). 
+ 
+It has a very high boiling point (357 °C). 
+ 
+It expands linearly. 
+ 
+It gives accurate measurements. 
+ 
+It is a good conductor of heat. 
+ 
+Fast response time. 
+ 
+It has a wide range of temperatures. 
+Properties of Alcohols as a Thermometric Liquid 
+ 
+It has a low freezing point (-112 °C). 
+ 
+Alcohol has a low boiling point of about 78oC and therefore cannot be used to measure high 
+temperatures.  
+ 
+Alcohol is fairly inexpensive. 
+ 
+It can be colored. 
+ 
+It expands more than mercury. 
+ 
+Types of Thermometers 
+A liquid in glass thermometer has a bulb with a long capillary tube of uniform and fine bore. A 
+suitable liquid is filled in the bulb. When the bulb contacts a hot object, the liquid in it expands 
+and rises in the tube. The glass stem of a thermometer is thick and acts as a cylinder lens. This 
+makes it easy to see the liquid level in the glass tube. Mostly Mercury and alcohol are used in 
+glass thermometers. There are many types of thermometers, but some common thermometers are 
+laboratory thermometer, clinical thermometer, thermocouple, Bimetallic strip thermometer and 
+Pyrometers. 
+Laboratory Thermometer 
+It is used to measure the temperature of solids, liquids and gases in experiments, as well as the 
+temperature of the environment. It measures temperature in the range of -5 °C to 110 °C. 
+ 
+ 
+ 
+Clinical Thermometer 
+It is used to measure human body temperatures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 This is a Laboratory Thermometer 
+Figure 4 This shows different types of clinical thermometer. The 
+second picture uses infrared sensor.
+
+--- PAGE 5 ---
+Structure: 
+ It is smaller in size than the laboratory thermometer. 
+ It has a constriction in the fine capillary tube. This constriction prevents the mercury 
+from contracting and flowing back when it is removed from human body. This enables 
+the reading and recording of the maximum temperature of the body without haste. 
+ The mercury thread needs to be shaken back into the bulb before the thermometer is used 
+again. 
+ 
+Range: The scale ranges between 35°C to 42°C. 
+This range is centered around the normal body temperature of 37°C. Short range enables the 
+scale to be divided into smaller intervals for greater accuracy (0.1°C). 
+Digital thermometers are now available in the hospitals. These are advanced thermometers used 
+to measure the temperature of a body with a high level of accuracy. 
+ 
+HEAT ENERGY, HEAT CAPACITY, SPECIFIC HEAT CAPACITY AND 
+LATENT HEAT 
+      
+In this session internal energy and heat energy are explained. heat capacity and specific heat 
+capacity are also explained and well defined. Formulas for calculating heat energy, heat capacity 
+and specific heat capacity are stated. Also, latent energy is explained. Latent heat of fusion and 
+latent heat of vaporization are also explained and well defined. Formulas for calculating latent heat 
+energy are stated. 
+ 
+Objectives 
+At the end of this session you should be able to: 
+1. define heat energy and state its units. 
+2. explain and define heat capacity of a substance. 
+3. explain and define specific heat capacity of a substance. 
+4. calculate the amount of heat in a body at a given temperature. 
+5. explain latent heat energy and state its units. 
+6. explain and define latent heat of fusion of a substance. 
+7. explain and define latent heat of vaporization of a substance. 
+8. solve problems involving latent heat and sensible heat. 
+ 
+ 
+Heat Energy  
+Heat is a measure of the total kinetic energy of the atoms or molecules in a body. Heat is a form 
+of energy measured in Joules (J). The heat content of a body will depend on its temperature, its 
+mass, and the material it is made of. Heat energy is always transferred from an object at high 
+temperature to one at lower temperature. 
+ 
+Internal energy is all of the energy belonging to a system while it is stationary. Thermal energy is 
+the portion of internal energy that changes when the temperature of a system changes. 
+In physics, heat is defined as the energy which is transferred from one place to another owing to a 
+temperature difference between them. When you heat a substance, you are transferring energy into
+
+--- PAGE 6 ---
+it by placing it in contact with surroundings that have a higher temperature. A typical example is 
+when a sauce pan containing cold water is placed on a stove burner. The burner will transfer heat 
+to the sauce pan and the cold water, and after some time, the sauce pan and cold water will become 
+very hot. 
+ 
+Heat Capacity and Specific Heat Capacity 
+When heat energy is transferred to a body, its temperature rises but the state remains unchanged. 
+The quantity of heat energy required to raise the temperature of a given mass of a substance by 
+one degree Celsius varies from one substance to another.  
+ 
+For any mass of a particular substance, the quantity of heat required to raise its temperature by 1oC 
+is referred to as the Heat Capacity of that substance. For example, if the initial temperature of a 
+metal rod is 26 0C, then the heat energy required to raise its temperature to 27 0C is its Heat 
+Capacity. Heat capacity is denoted by C and its SI unit is J/K. 
+Heat Capacity,
+
+
+f
+i
+Q
+C T
+T
+C T
+
+
+
+
+                                                     2 
+Or 
+
+
+f
+i
+Q
+C
+C
+
+
+
+
+
+
+                  
+where f  and i are the final and initial temperatures of the object in degrees Celsius and also  
+Tf and Ti are the final and initial temperatures of the object in Kelvin.  
+ 
+Specific Heat Capacity  
+We know that when heat energy is absorbed by a substance, its temperature increases. If the same 
+quantity of heat is given to equal masses of different substances, it is observed that the rise in 
+temperature for each substance is different. This is due to the fact that different substances have 
+different heat capacities. For example, the quantity of energy needed to raise the temperature of 
+one 1 kg of water by 1 0C is 4186 J, but the quantity of energy needed to raise the temperature of 
+1 kg of copper by 1 0C is only 387 J. 
+Specific heat capacity (c) is defined as the quantity of heat energy required to raise the temperature 
+of 1 Kg of a substance by 10 C.   
+Mathematically, quantity of heat can be expressed as; 
+Q = c m ∆T                                                                                                3 
+ 
+where Q is the quantity of heat absorbed by a body, m is its mass, ∆T is the change in temperature 
+and c is the specific heat capacity. 
+ 
+Note: The specific heat capacity of a substance depends on the nature of the material the substance 
+is made from. S.I unit of specific heat J kg-1K-1 
+ 
+Note: Heat capacity = specific heat x mass 
+That is,    C = mc.                                  
+ 
+Example 2. What is the heat energy required to raise the temperature of 0.5 kg of water by 3 0C? 
+ 
+Solution
+
+--- PAGE 7 ---
+Q
+mc 
+
+=
+
+
+
+3
+0.5
+4186
+.
+3
+6.28 10
+o
+o
+kg
+J kg C
+C
+J
+
+
+. 
+ 
+Example 3. Find the temperature change if 2500J of heat is supplied to 200 g of water.                         
+[take SHC of water to be 4186 J/kg/K]. 
+ 
+Solution 
+𝛥𝜃= 𝑄
+𝑚𝑐=
+2500
+0.2 × 4186 = 2.99𝐾 
+ 
+Example 4. A 300 g of cold water at 20o C was mixed with a 400 g of hot water at a temperature 
+of 65o C. Find the final temperature of the mixture. 
+ 
+Solution 
+Heat lost by hot water = Heat gained by cold water                                                                                                   
+Qh = Qc 
+0.4 4186 (65
+)
+0.3 4186 (
+20)
+
+
+
+
+
+
+
+
+
+ 
+26 0.4
+0.3
+6
+
+
+
+
+ 
+26
+6
+(0.4
+0.3)
+
+
+
+ 
+32
+45.7
+0.7
+
+
+oC 
+ 
+Note: When the temperature increases, Q and 
+T
+
+are both taken to be positive and energy flows 
+into the system. When the temperature decreases, Q and 
+T
+
+are both negative, and energy flows 
+out of the system. 
+ 
+Latent Heat 
+Another important effect of heat is that it can produce a change in a body’s state. As we know 
+matter can exist in any of the three states- solid, liquid or gas. A change of matter from one physical 
+state to another is called change of state. The state of matter depends on the temperature and the 
+pressure that is exerted on it. The quantity of heat energy required to change the temperature of 
+matter but not necessarily changing its state is called Sensible Heat. There are other cases where 
+heat energy absorbed by or removed from matter does not change its temperature but changes its 
+state.  Such energy is referred to as hidden heat or latent heat. This energy is called hidden or latent 
+because instead of the heat raising the temperature of the matter, it rather works on the molecules 
+breaking them further apart. Latent heat is the quantity of heat required to change completely the 
+state of matter to another state without any change in temperature. A typical example is the quantity 
+of heat required to completely change 1 kg of ice into water. This process takes place at a constant 
+temperature of 00 C. This kind of heat required for this process is called the Latent Heat of Fusion 
+(Lf). On the other hand, the quantity of heat required to completely change water into vapour at 
+constant temperature of 1000 C is called Latent Heat of Vaporization (Lv).  
+ 
+Mathematically, heat energy required to cause change of state is given as; 
+Q
+mL
+
+                                                                                                   4 
+where L is the latent heat.
+
+--- PAGE 8 ---
+Example 5. Find the quantity of heat energy needed to melt 1.5 kg of ice completely to water. 
+[take Lf = 3.36 ×105 J Kg-1] 
+ 
+Solution 
+5
+5
+1.5 3.36 10
+5.04 10
+Q
+mL
+J
+
+
+
+
+
+
+    
+ 
+Example 6. Find the quantity of heat energy required to melt 0.4 kg of ice at -5oC to water at 40oC. 
+ 
+Solution 
+In solving this question, three stages are involved. 
+1. Heat needed to raise the temperature of ice from -5oC to 0oC, 
+1
+Q
+mc 
+
+ 
+2. Heat needed to melt ice at 0oC to water at 0oC, 
+2
+f
+Q
+mL
+
+ 
+3. Heat required to raise the temperature of water from 0oC to 40oC, 
+3
+Q
+mc 
+
+ 
+1
+0.4 4186 (0
+( 5))
+8372
+Q
+mc
+J
+
+
+
+
+
+
+
+
+ 
+5
+5
+2
+0.4 3.36 10
+1.344 10
+f
+Q
+mL
+J
+
+
+
+
+
+
+ 
+3
+0.4 4186 (40
+0)
+66976
+Q
+mc
+J
+
+
+
+
+
+
+
+
+ 
+The total heat energy required to melt ice from -5oC to water at 40oC is; 
+5
+1
+2
+3
+8372 1.344 10
+66976
+209748
+Q
+Q
+Q
+Q
+J
+
+
+
+
+
+
+
+

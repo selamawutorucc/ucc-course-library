@@ -1,0 +1,340 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Create a Table in Word 2010
+A table is a structure of vertical columns and horizontal rows with a cell at every intersection. 
+
+Each cell can contain text or graphics, and you can format the table in any way you want. 
+
+Usually the top row in the table is kept as a table header and can be used to put some informative instruction.
+
+--- SLIDE 5 ---
+Create a Table
+Step 1
+Click the Insert tab followed by the Table button. This will display a simple grid as shown below. 
+When you move your mouse over the grid cells, it makes a table in the table that appears in the document. You can make your table having the desired number of rows and columns.
+
+--- SLIDE 6 ---
+Create a Table
+Step 2
+Click the square representing the lower-right corner of your table, which will create an actual table in your document and Word goes in the table design mode. 
+The table design mode has many options to work with as shown below.
+
+
+--- SLIDE 7 ---
+Create a Table
+Step 3
+This is an optional step that can be worked out if you want to have a fancy table. 
+Click the Table Styles button to display a gallery of table styles. When you move your mouse over any of the styles, it shows real time preview of your actual table.
+
+
+--- SLIDE 8 ---
+Create a Table
+Step 4
+To select any of the styles, just click the built-in table style and you will see that the selected style has been applied on your table.
+
+
+
+--- SLIDE 9 ---
+Delete a Table
+Step 1
+Click anywhere in the table you want to delete.
+Step 2  
+Click the Layout tab, and click the Delete Table option under the Delete Table Button to delete the complete table from the document along with its content.
+
+
+
+--- SLIDE 10 ---
+Add a Row
+Step 1
+Click a row where you want to add an additional row and then 
+Click the Layout tab; it will show the following screen.
+
+
+
+--- SLIDE 11 ---
+Add a Row
+Step 2
+Now use the Row & Column group of buttons to add any row below or above to the selected row. 
+If you click the Insert Below button, it will add a row just below the selected row as follows.
+
+
+
+--- SLIDE 12 ---
+Delete a Row
+Step 1
+Click a row which you want to delete from the table and then click the Layout tab; it will show the following screen.
+
+
+
+--- SLIDE 13 ---
+Delete a Row
+Step 2
+Click the Layout tab, and then click the Delete Rows option under the Delete Table Button to delete the selected row.
+
+
+
+
+--- SLIDE 14 ---
+Add a Column
+Step 1
+Click a column where you want to add an additional column and then click the Layout tab; it will show the following screen.
+
+
+
+
+--- SLIDE 15 ---
+Add a Column
+Step 2
+Now use the Row & Column group of buttons to add any column to the left or right of the selected column. 
+If you click the Insert Left button, it will add a column just left to the selected column as follows.
+
+
+
+
+--- SLIDE 16 ---
+Delete a Column
+Step 1
+Click a column which you want to delete from the table and then click the Layout tab; it will show the following screen.
+
+
+
+
+
+--- SLIDE 17 ---
+Delete a Column
+Step 2
+Click the Layout tab, and click the Delete Column option under the Delete Table Button to delete the selected column.
+
+
+
+
+
+--- SLIDE 18 ---
+Move a Table
+Step 1
+Bring your mouse pointer over the table which you want to move from one location to another location. 
+As soon as you bring your mouse pointer inside the table, a small Cross Icon will appear at the top-left corner of the table as shown below.
+
+
+
+
+
+--- SLIDE 19 ---
+Move a Table
+Step 2
+Click over the small Cross Icon which will select the whole table. Once the table is selected, use the Cut button or simply press the Ctrl + X keys to cut the table from its original location.
+Step 3 
+Bring your insertion point at the location where you want to move the table and use Paste button or simply press Ctrl + V keys to paste the table at the new location.
+
+
+
+
+--- SLIDE 20 ---
+Resize a Table
+Step 1
+Bring your mouse pointer over the table which you want to resize.
+As soon as you bring your mouse pointer inside the table, a small Cross Icon will appear at the top-left corner and a small Resize Icon will appear at the bottom-right corner of the table as shown below.
+
+
+
+--- SLIDE 21 ---
+Resize a Table
+Step 2
+Bring the mouse pointer over the Resize Icon till it changes to a diagonal double sided arrow and this is the time when you need to press the left mouse button and keep holding the button while resizing the table.
+
+
+
+--- SLIDE 22 ---
+Merging Cells
+Step 1
+Bring your mouse pointer position inside the first cell that you want to merge. 
+Now press the Shift key and click the cells around the cell which you want to merge into the first cell. 
+This will highlight the cells which you click and they will be ready to be merged.
+
+
+
+--- SLIDE 23 ---
+Merging Cells
+Step 2
+ Now click the Layout tab.
+Click the Merge Cells button which will merge all the selected cells.
+
+
+
+--- SLIDE 24 ---
+Split a Table
+Step 1
+Bring your mouse pointer position anywhere in the row that should appear as the first row of the new table.
+
+--- SLIDE 25 ---
+Split a Table
+Step 2
+Now click the Layout tab and then 
+click the Split Table button which will split the table into two tables and the selected row will become the first row of the lower table.
+
+
+--- SLIDE 26 ---
+Split a Table
+Step 2
+After splitting the table into two tables, you can further divide it into two parts and you can continue dividing the Word tables as long as a table has more than one row.
+
+
+--- SLIDE 27 ---
+Split a Cell
+Step 1
+Bring your mouse pointer position inside the cell that has to be divided into multiple cells.
+
+
+--- SLIDE 28 ---
+Split a Cell
+Step 2
+Now click the Layout tab and then click the Split Cells button; this will display a dialog box asking for the number of rows and columns to be created from the selected cell.
+
+
+
+--- SLIDE 29 ---
+Split a Cell
+Step 3
+Select the desired number of rows and columns that have to go into the resultant cell and 
+finally click the OK button to apply the result.
+
+
+
+
+--- SLIDE 30 ---
+Add a Formula
+Step 1
+Consider the following table with the total number of rows. Click in a cell that should contain the sum of the rows.
+
+
+
+
+
+--- SLIDE 31 ---
+Add a Formula
+Step 2
+Now click the Layout tab and then click the Formula button; this will display a Formula Dialog Box which will suggest a default formula, which is =SUM(LEFT) in our case. 
+
+You can select a number format using Number Format List Box to display the result or you can change the formula using the Formula List Box.
+
+
+
+
+
+--- SLIDE 32 ---
+Add a Formula
+Step 3
+Now click OK to apply the formula and you will see that the left cells have been added and the sum has been put in the total cell where we wanted to have it.
+
+
+
+
+--- SLIDE 33 ---
+Cell Formulae
+
+--- SLIDE 34 ---
+Add Borders to Table
+Step 1
+Select the table to which you want to add border. 
+
+To select a table, click over the table anywhere which will make the Cross icon visible at the top-left corner of the table. 
+
+Click this cross icon to select the table.
+
+
+
+
+--- SLIDE 35 ---
+Add Borders to Table
+Step 2
+Click the Border button to display a list of options to put a border around the selected table. 
+You can select any of the option available by simply clicking over it.
+
+
+
+--- SLIDE 36 ---
+Add Borders to Table
+Step 3
+Try to add and remove different borders like left, right, top or bottom by selecting different options from the border options.
+
+
+
+--- SLIDE 37 ---
+Add Borders to Table
+
+Step 4
+You can apply border to any of the selected row or column. You can try it yourself.
+
+Step 5
+To delete the existing border, simply select the No Border option from the border options.
+
+
+
+
+--- SLIDE 38 ---
+Using Border Options
+Step 1
+Click the Border button to display a list of options to put a border.
+Select the Border and Shading option available at the bottom of the list of options as shown in the screenshot. 
+This will display a Border and Shading dialog box.
+
+
+
+--- SLIDE 39 ---
+Using Border Options
+
+Step 2
+Click the Border tab; this will display a list of border settings, styles and options whether this border should be applied to the table or text or paragraph.
+
+Step 3
+You can use the Preview section to disable or enable left, right, top or bottom borders of the selected table or row or column.
+
+
+
+
+--- SLIDE 40 ---
+Using Border Options
+Step 4
+You can customize your border by setting its colour, width by using different width thickness available under the style section.
+
+
+
+--- SLIDE 41 ---
+Add Shades To Table
+Step 1
+Select a row or column where you want to apply a shade of your choice.
+
+
+
+--- SLIDE 42 ---
+Add Shades To Table
+Step 2
+Click the Border button to display a list of options to put a border.
+Select the Border and Shading option available at the bottom of the list of options. 
+This will display a Border and Shading dialog box.
+
+
+--- SLIDE 43 ---
+Using Border Options
+
+Step 3
+Click the Shading tab which will display options to select fill, colour and style and whether this border should be applied to cell or table or selected portion of text.
+
+Step 4
+You can use the Preview section to have an idea about the expected result. 
+Once you are done, click the OK button to apply the result..
+
+
+
+
+--- SLIDE 44 ---
+
+--- SLIDE 45 ---
+THANK YOU

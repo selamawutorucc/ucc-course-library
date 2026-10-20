@@ -1,0 +1,189 @@
+
+--- SLIDE 1 ---
+“The future belongs to those who learn more skills and combine them in creative ways.”-Robert Greene-
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+What Is Social Media Marketing (SMM)
+
+--- SLIDE 4 ---
+The term social media marketing (SMM) refers to the use of social media and social networks to market a company’s products and services.
+
+
+Social media marketing provides companies with a way to engage with existing customers and reach new ones while allowing them to promote their desired culture, mission, or tone.
+
+Social media marketing has purpose-built data analytics tools that allow marketers to track the success of their efforts.
+
+--- SLIDE 5 ---
+A Quick Overview of Social Media Marketing
+Social media marketing first started with publishing. Businesses were sharing their content on social media to generate traffic to their websites and, hopefully, sales. But social media has matured far beyond being just a place to broadcast content.
+Nowadays, businesses use social media in a myriad of different ways. For example, a business that is concerned about what people are saying about its brand would monitor social media conversations and response to relevant mentions (social media listening and engagement).
+A business that wants to understand how it’s performing on social media would analyze its reach, engagement, and sales on social media with an analytics tool (social media analytics). A business that wants to reach a specific set of audience at scale would run highly-targeted social media ads (social media advertising).
+As a whole, these are often also known as social media management.
+
+
+--- SLIDE 6 ---
+SOCIAL MEDIA MARKETING VS MANAGEMENT
+Marketing
+You Focus on engagement
+You don’t joke with community
+Analytics is bae
+You are audience oriented
+Content driven
+Management
+You focus on conversion
+You focus on finance
+Analytics is bae too
+Target oriented
+Advertising driven
+
+--- SLIDE 7 ---
+The following 4W’s must be considered before starting social media marketing
+What are you marketing?
+Who are you marketing to?
+Why are you marketing?
+Which platform are suitable for marketing what you are marketing?
+
+--- SLIDE 8 ---
+What Does SMM Look Like In 2022
+User experience is important
+Influencer marketing
+Web 3.0 (virtual reality, augmented realities, crypto, NTF etc.)
+Personalized customer experience
+Engaging and shocking content
+
+--- SLIDE 9 ---
+The Difference BetweenContent Creation & Curation
+Content creation
+Takes a lot of time and effort
+Requires planning and actual creation of content
+Content is often original and created from scratch
+Can be time and resource consuming
+Content Curation
+Takes a lot of time
+Requires gathering and working with existing content
+Content can be presented in an original way but mostly not original
+NB: Both are needed for your social media marketing
+
+--- SLIDE 10 ---
+UNDERSTANDING PLATFORMS TOOLS AND TACTICS.
+
+--- SLIDE 11 ---
+Understanding the Social media Platforms
+Every social media platform has the following in Common.
+Preferred content format
+Largest audience demographic
+Growth Tactic.
+
+--- SLIDE 12 ---
+Marketing Platforms
+Tik Tok
+Pinterest
+YouTube
+Facebook
+Twitter
+Instagram
+LinkedIn
+
+--- SLIDE 13 ---
+
+--- SLIDE 14 ---
+What is Facebook?
+Facebook is a social media network that connects people through an online platform.
+By sharing content like text status posts, images, videos, and external links like blog posts, Facebook users can contribute ideas and join conversations with other people who share the same or different interests.
+
+--- SLIDE 15 ---
+Key Facebook Terms And What They Mean
+Profile:
+The Facebook profile is where your information will live. Your name, photo, hometown, workplace, education history, and so on can all be added to your profile. You can make your profile as public or private as you want by disabling the information you don’t want publicly visible.
+Timeline:
+Often confused with a newsfeed, the timeline is your personal record of all the posts you’ve shared and posts you’ve interacted with. While you won’t usually see friend’s status updates here, there is one exception — if they’ve tagged you in a post or a photo, it’ll appear on your timeline. Your friends can see your timeline by default if they search your name unless you’ve set your privacy settings to do the contrary.
+Newsfeed:
+This is the place where all of your friends’ posts will appear. You’ll also see updates from business pages that you’ve liked. Your posts will also appear in the newsfeed where your friends can see them.
+
+ Algorithm:
+The algorithm is an elusive concept. Essentially, the algorithm is a series of computations that Facebook’s servers do every second to determine what content you want to see, interact with, and click on next. The algorithm uses dwell time (how long you view a post), engagement, page likes, posts, and more to determine the type of content you might like to see. Over time, the algorithm gets better at determining what content to show you.
+
+--- SLIDE 16 ---
+Key Facebook Terms And What They Mean
+Status/Post:
+The two terms are often used interchangeably, but “post” is the term Facebook uses to describe something you share on the newsfeed. Text, images, videos, and location are just a few of the types of posts you can share to the newsfeed for your friends to see..
+Friends:
+These are people you’ve either sent a request to and they’ve accepted or people who have sent you a request and you’ve accepted. Unlike other social networking sites that allow someone to follow you without you following them back, Facebook’s friend system requires both you and the other person to be friends with each other. A personal account for an individual cannot have more than 5,000 friends (and it’s not a good idea to make a second Facebook profile to get around this rule).
+Followers:
+Facebook has a follower option as well. When you add new friends, you automatically follow them (and they follow you, too). This is Facebook’s way of adding this new friend to your newsfeed and making sure you see their posts (at least for a little while unless you stop engaging with them). For individuals who exceed 5,000 friends on their personal Facebook profiles, people can opt to follow them instead to stay up to date on their posts. Keep in mind, while Facebook automatically follows your friends for you, you can manually unfollow them without unfriending them. This action removes these individuals’ posts from your newsfeed. If you do this, you’ll need to search your friends individually and surge their timelines to catch up on their latest posts.
+
+--- SLIDE 17 ---
+Key Facebook Terms And What They Mean
+Groups:
+Facebook users with similar interests might find it helpful to create a group on the platform. A group is a community of users who interact with each other based on various topics set by the group’s admins and other users. Only individual users can be added to groups — pages cannot be part of Facebook groups. Admins have a wide range of permissions they can enable or disable to have the group function in a particular way.
+Events:
+With so much community happening on Facebook, individual users and businesses have the option to advertise events. The events can accept RSVPs, create a guest list, and share the date time, and location of the event. Events can be virtual through a video platform or they can be in person with a physical location.
+Pages:
+Businesses use Facebook Pages to create a presence on the social network. Pages are not individual Facebook users — think of them as profiles for businesses. They can post updates, images, videos, and all the other types of content that profiles can. However, they have an advantage — Facebook Pages have the ability to connect to Facebook for Business and run ad campaigns.
+Messenger:
+Instead of a direct messaging platform in the native Facebook app, Facebook Messenger exists as a separate application so users can chat one-on-one or in a private group setting. When using Facebook.com on a desktop computer, the messenger is accessible through the native Facebook website.
+
+--- SLIDE 18 ---
+Key Facebook Terms And What They Mean
+Stories:
+Like Instagram stories, Facebook stories are another way individual users and business pages can connect with their friends and followers. Stories are short pieces of content that are visible for just 24 hours. After 24 hours, the stories disappear from the newsfeed.
+Notifications:
+Represented by the bell icon in the third circle below, a notification informs you when a friend engages with your posts, photos, videos, or timeline, you’ll receive a notification that explains what they engaged with and when. Friend requests will also appear here.
+Follow this Link and read on how to create a business page as we practiced in class.
+
+https://blog.hubspot.com/blog/tabid/6307/bid/5492/how-to-create-a-facebook-business-page-in-5-simple-steps-with video.aspx#:~:text=On%20the%20left%2Dhand%20menu,Page%20in%20under%20255%20characters.
+
+--- SLIDE 19 ---
+DEVELOPING A MARKETING STRATEGY
+
+--- SLIDE 20 ---
+What is marketing Strategy?
+It is a document that outlines action points to be taken in order to market a product or service to a target audience via social media
+Before marketing Strategy, you need to apply the 4W’s.
+What are you marketing?
+Who are you marketing to?
+Why are you marketing?
+Which platform are suitable for marketing what you are marketing?
+
+
+
+--- SLIDE 21 ---
+HOW TO RUN SOCIAL MEDIA ADS
+Research your audience
+Prepare your marketing content and copy
+Determine a suitable budget
+Decide on which platforms to market on (the 4W’s)
+Decide on how long to run the ads.
+
+--- SLIDE 22 ---
+Practical examples on some of the platforms.
+Facebook ads
+LinkedIn ads
+Google ads
+Pinterest ads
+
+
+--- SLIDE 23 ---
+REPORTING, DATA AND ANALYTICS
+Contents of Your social media marketing report.
+Introduction(start before running ads)
+Results of the SMM ads campaign
+Relation of the results to the business goals or targets and objectives of the campaign
+Conclusion and suggestions.
+
+--- SLIDE 24 ---
+STARTING A SOCIAL MEDIA MARKETING AGENCY
+Social media marketing has become one of the most demanding jobs in recent times. Taking the necessary time and precaution to setup an agency of that sort is really going to make you some reasonable amount of money in the long.
+
+--- SLIDE 25 ---
+STARTING A SOCIAL MEDIA MARKETING AGENCY
+Have a customize email address
+Research companies within your location
+Research the companies and determine their needs
+Present proposal and arrange meetings
+Follow up and confirm agreements
+Serve the client to the best of your ability
+
+--- SLIDE 26 ---

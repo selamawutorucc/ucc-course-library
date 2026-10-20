@@ -1,0 +1,3501 @@
+
+--- PAGE 1 ---
+98 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+3 
+Vectors 
+ 
+CHAPTER OUTLINE 
+ 
+3.1 
+Coordinate Systems 
+3.2 
+Vector and Scalar Quantities 
+3.3 
+Some Properties of Vectors 
+3.4 
+Components of a Vector and Unit Vectors 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ3.1 
+Answer (e). The magnitude is 
+102 + 102 m/s. 
+OQ3.2 
+Answer (e). If the quantities x and y are positive, a vector with 
+components (−x, y) or (x, −y) would lie in the second or fourth 
+quadrant, respectively.  
+*OQ3.3 
+Answer (a). The vector −2
+
+D1 will be twice as long as 
+
+D1 and in the 
+opposite direction, namely northeast. Adding 
+
+D2, which is about 
+equally long and southwest, we get a sum that is still longer and due 
+east. 
+OQ3.4 
+The ranking is c = e > a > d > b. The magnitudes of the vectors being 
+added are constant, and we are considering the magnitude only—not 
+the direction—of the resultant. So we need look only at the angle 
+between the vectors being added in each case. The smaller this angle, 
+the larger the resultant magnitude. 
+OQ3.5 
+Answers (a), (b), and (c). The magnitude can range from the sum of the 
+individual magnitudes, 8 + 6 = 14, to the difference of the individual 
+magnitudes, 8 − 6 = 2. Because magnitude is the “length” of a vector, it 
+is always positive.
+
+--- PAGE 2 ---
+Chapter 3     99 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ3.6 
+Answer (d). If we write vector 
+
+A as  
+ 
+  
+Ax, Ay
+(
+) = −Ax , Ay
+(
+)  
+and vector 
+
+B as  
+ 
+  
+Bx,By
+(
+) = Bx ,−By
+(
+)
+  
+ 
+then  
+ 
+  
+
+B −
+
+A = Bx −−Ax
+(
+),−By −Ay
+(
+) = Bx + Ax ,−By −Ay
+(
+)
+ 
+which would be in the fourth quadrant.  
+OQ3.7 
+The answers are (a) yes (b) no (c) no (d) no (e) no (f) yes (g) no. Only 
+force and velocity are vectors. None of the other quantities requires a 
+direction to be described. 
+OQ3.8 
+Answer (c). The vector has no y component given. It is therefore 0. 
+OQ3.9 
+Answer (d). Take the difference of the x coordinates of the ends of the 
+vector, head minus tail: –4 – 2 = –6 cm. 
+OQ3.10 
+Answer (a).  Take the difference of the y coordinates of the ends of the 
+vector, head minus tail: 1 − (−2) = 3 cm.  
+OQ3.11 
+Answer (c). The signs of the components of a vector are the same as the 
+signs of the points in the quadrant into which it points. If a vector 
+arrow is drawn to scale, the coordinates of the point of the arrow equal 
+the components of the vector. All x and y values in the third quadrant 
+are negative.  
+OQ3.12 
+Answer (c). The vertical component is opposite the 30° angle, so  
+sin 30° = (vertical component)/50 m. 
+OQ3.13 
+Answer (c). A vector in the second quadrant has a negative x 
+component and a positive y component. 
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ3.1 
+Addition of a vector to a scalar is not defined. Try adding the speed 
+and velocity, 8.0 m/s + (15.0 m/s ˆi): Should you consider the sum to 
+be a vector or a scalar? What meaning would it have?  
+CQ3.2 
+No, the magnitude of a vector is always positive. A minus sign in a 
+vector only indicates direction, not magnitude. 
+CQ3.3 
+(a) The book’s displacement is zero, as it ends up at the point from 
+which it started. (b) The distance traveled is 6.0 meters.
+
+--- PAGE 3 ---
+100     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ3.4 
+Vectors 
+
+A and 
+
+B are perpendicular to each other. 
+CQ3.5 
+The inverse tangent function gives the correct angle, relative to the +x 
+axis, for vectors in the first or fourth quadrant, and it gives an incorrect 
+answer for vectors in the second or third quadrant. If the x and y 
+components are both positive, their ratio y/x is positive and the vector 
+lies in the first quadrant; if the x component is positive and the y 
+component negative, their ratio y/x is negative and the vector lies in 
+the fourth quadrant. If the x and y components are both negative, their 
+ratio y/x is positive but the vector lies in the third quadrant; if the x 
+component is negative and the y component positive, their ratio y/x is 
+negative but the vector lies in the second quadrant. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 3.1 
+Coordinate Systems 
+P3.1 
+ANS. FIG. P3.1 helps to visualize the x and y 
+coordinates, and trigonometric functions will 
+tell us the coordinates directly. When the polar 
+coordinates (r, θ) of a point P are known, the 
+Cartesian coordinates are found as 
+ 
+ 
+x = r cosθ
+and
+y = r sinθ 
+ 
+Then, 
+ 
+ 
+x = rcosθ = 5.50 m
+(
+)cos240°
+= 5.50 m
+(
+) −0.5
+(
+) = −2.75 m
+y = rsinθ = 5.50 m
+(
+)sin240°
+= 5.50 m
+(
+) −0.866
+(
+) = −4.76 m
+ 
+P3.2 
+(a) 
+We use x = rcosθ. Substituting, we have 2.00 = r cos 30.0°, so 
+r =
+2.00
+cos30.0° = 2.31 
+ 
+(b) From y = rsinθ, we have y = r sin30.0° = 2.31sin30.0° = 1.15 . 
+*P3.3 
+(a) 
+The distance between the points is given by 
+ 
+ 
+ 
+d =
+x2 −x1
+(
+)
+2 + y2 −y1
+(
+)
+2
+=
+2.00 −−3.00
+[
+]
+(
+)2 + −4.00 −3.00
+(
+)2
+
+--- PAGE 4 ---
+Chapter 3     101 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+d =
+25.0 + 49.0 = 8.60 m 
+ 
+(b) To find the polar coordinates of each point, we measure the radial 
+distance to that point and the angle it makes with the +x axis: 
+ 
+ 
+ 
+r1 =
+2.00
+(
+)2 + −4.00
+(
+)2 =
+20.0 =
+4.47 m 
+ 
+ 
+ 
+θ1 = tan−1 −4.00
+2.00
+(
+) = −63.4° 
+ 
+ 
+ 
+r2 =
+−3.00
+(
+)2 + 3.00
+(
+)2 =
+18.0 =
+4.24 m 
+ 
+ 
+ 
+θ2 = 135° measured from the +x axis. 
+P3.4 
+(a) 
+x = rcosθ and y = rsinθ, therefore, 
+ 
+ 
+ 
+x1 = (2.50 m) cos 30.0°, y1 = (2.50 m) sin 30.0°, and 
+ 
+ 
+ 
+(x1,y1) = (2.17, 1.25) m 
+ 
+ 
+ 
+x2 = (3.80 m) cos 120°, y2 = (3.80 m) sin 120°, and 
+ 
+ 
+ 
+(x2, y2) = (−1.90, 3.29) m 
+ 
+(b) 
+d =
+(Δ x)2 + (Δ y)2 =
+4.072 + 2.042m = 4.55 m 
+P3.5 
+For polar coordinates (r, θ), the Cartesian coordinates are (x = r cosθ,  
+y = r sinθ), if the angle is measured relative to the +x axis. 
+ 
+(a) 
+(–3.56 cm, – 2.40 cm) 
+ 
+(b) 
+(+3.56 cm, – 2.40 cm) →(4.30 cm, – 34.0°) 
+ 
+(c) 
+(7.12 cm, 4.80 cm) →(8.60 cm, 34.0°) 
+ 
+(d) 
+(–10.7 cm, 7.21 cm) →(12.9 cm, 146°) 
+P3.6 
+We have r =
+x2 + y2 and θ = tan−1 y
+x
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+(a) 
+The radius for this new point is 
+ 
+ 
+ 
+(−x)2 + y2 =
+x2 + y2 = r 
+ 
+ 
+and its angle is 
+ 
+ 
+ 
+tan−1
+y
+−x
+⎛
+⎝⎜
+⎞
+⎠⎟= 180° −θ
+
+--- PAGE 5 ---
+102     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+(−2x)2 + (−2y)2 = 2r . This point is in the third quadrant if (x, y) 
+is in the first quadrant or in the fourth quadrant if (x, y) is in the 
+second quadrant. It is at an angle of 180° +θ . 
+ 
+(c) 
+(3x)2 + (−3y)2 = 3r . This point is in the fourth quadrant if (x, y) 
+is in the first quadrant or in the third quadrant if (x, y) is in the 
+second quadrant. It is at an angle of −θ or  360 −θ . 
+ 
+ 
+ 
+Section 3.2 
+Vector and Scalar Quantities 
+Section 3.3 
+Some Properties of Vectors 
+P3.7 
+Figure P3.7 suggests a right triangle where, relative to angle θ, its 
+adjacent side has length d and its opposite side is equal to width of the 
+river, y; thus, 
+ 
+ 
+tanθ = y
+d →y = dtanθ 
+ 
+ 
+y = (100 m)tan(35.0°) = 70.0 m 
+ 
+The width of the river is 70.0 m . 
+P3.8 
+We are given 
+
+R =
+
+A +
+
+B . When two vectors are 
+added graphically, the second vector is positioned 
+with its tail at the tip of the first vector. The resultant 
+then runs from the tail of the first vector to the tip of 
+the second vector. In this case, vector 
+
+A will be 
+positioned with its tail at the origin and its tip at the 
+point (0, 29). The resultant is then drawn, starting at 
+the origin (tail of first vector) and going 14 units in 
+the negative y direction to the point (0, −14). The 
+second vector, 
+
+B, must then start from the tip of 
+
+A 
+at point (0, 29) and end on the tip of 
+
+R  at point  
+(0, −14) as shown in the sketch at the right. From 
+this, it is seen that 
+ 
+
+B is 43 units in the negative y direction
+ 
+ANS. FIG. P3.8
+
+--- PAGE 6 ---
+Chapter 3     103 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.9 
+In solving this problem we must contrast 
+displacement with distance traveled. We draw a 
+diagram of the skater’s path in ANS. FIG. P3.9, 
+which is the view from a hovering helicopter so 
+that we can see the circular path as circular in 
+shape. To start with a concrete example, we have 
+chosen to draw motion ABC around one half of a 
+circle of radius 5 m. 
+ 
+The displacement, shown as 
+
+d in the diagram, is the straight-line 
+change in position from starting point A to finish C. In the specific case 
+we have chosen to draw, it lies along a diameter of the circle. Its 
+magnitude is 
+
+d = –10.0ˆi = 10.0 m. 
+ 
+ 
+The distance skated is greater than the straight-line displacement. The 
+distance follows the curved path of the semicircle (ABC). Its length is 
+half of the circumference: s = 1
+2 (2πr) = 5.00π  m = 15.7 m. 
+ 
+A straight line is the shortest distance between two points. For any 
+nonzero displacement, less or more than across a semicircle, the 
+distance along the path will be greater than the displacement 
+magnitude.  Therefore: 
+ 
+The situation can never be true because the distance is 
+an arc of a circle between two points, whereas the 
+magnitude of the displacement vector is a straight-line 
+cord of the circle between the same points.
+ 
+P3.10 
+We find the resultant 
+
+F1 +
+
+F2 graphically by 
+placing the tail of 
+
+F2 at the head of 
+
+F1 . The 
+resultant force vector 
+
+F1 +
+
+F2 is of magnitude 
+9.5 N and at an angle of 
+57° above the x axis . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P3.9 
+ANS. FIG. P3.10
+
+--- PAGE 7 ---
+104     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.11 
+To find these vector expressions 
+graphically, we draw each set of 
+vectors. Measurements of the 
+results are taken using a ruler 
+and protractor. (Scale: 1 unit = 
+0.5 m) 
+ 
+(a) 
+
+A +
+
+B = 5.2 m at 60o 
+ 
+(b) 
+
+A −
+
+B = 3.0 m at 330o 
+ 
+(c) 
+
+B −
+
+A = 3.0 m at 150o 
+ 
+(d) 
+
+A −2B = 5.2 m at 300o 
+ 
+ 
+ 
+ 
+ 
+P3.12 
+(a) 
+The three diagrams are shown in ANS. FIG. P3.12a below. 
+ 
+ 
+ANS. FIG. P3.12a 
+ 
+(b)  The diagrams in ANS. FIG. P3.12a represent the graphical 
+solutions for the three vector sums: 
+
+R1 =
+
+A +
+
+B +
+
+C,
+
+R2 =
+
+B +
+
+C +
+
+A, 
+and 
+
+R3 =
+
+C +
+
+B +
+
+A. 
+P3.13 
+The scale drawing for the 
+graphical solution should be 
+similar to the figure to the 
+right. The magnitude and  
+direction of the final  
+displacement from the  
+starting point are obtained 
+by measuring d and θ on the 
+drawing and applying the scale factor used in making the drawing. 
+The results should be d = 420 ft and θ = –3° . 
+ANS. FIG. P3.13 
+ANS. FIG. P3.11
+
+--- PAGE 8 ---
+Chapter 3     105 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.14 
+*P3.14 
+ANS. FIG. P3.14 shows the graphical 
+addition of the vector from the base camp to 
+lake A to the vector connecting lakes A and 
+B, with a scale of 1 unit = 20 km. The 
+distance from lake B to base camp is then 
+the negative of this resultant vector, or 
+−
+
+R = 310 km at 57° S of W . 
+ 
+ 
+ 
+ 
+ 
+Section 3.4 
+Components of a Vector  
+and Unit Vectors 
+P3.15 
+First we should visualize the vector either in our 
+mind or with a sketch, as shown in ANS. FIG. 
+P3.15. The magnitude of the vector can be found 
+by the Pythagorean theorem: 
+ 
+ 
+ 
+Ax = –25.0 
+ 
+  
+Ay = 40.0 
+ 
+ 
+A =
+Ax
+2 + Ay
+2 =
+(−25.0)2 +(40.0)2
+= 47.2 units
+ 
+ 
+We observe that  
+ 
+ 
+ 
+ 
+tanφ =
+Ay
+Ax
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+φ = tan−1
+Ay
+Ax
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 40.0
+25.0
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1(1.60) = 58.0°
+ 
+ 
+The diagram shows that the angle from the +x axis can be found by 
+subtracting from 180°: θ = 180° −58° = 122° 
+P3.16 
+We can calculate the components of the vector A using (Ax, Ay) =  
+(A cos θ, A sin θ) if the angle θ is measured from the +x axis, which is 
+true here. For A = 35.0 units and θ = 325°,  
+ 
+ 
+ 
+Ax = 28.7units, Ay = –20.1 units 
+ANS. FIG. P3.15
+
+--- PAGE 9 ---
+106     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.17 
+(a) Yes . 
+ 
+(b) Let v represent the speed of the camper. The northward 
+component of its velocity is v cos 8.50°. To avoid crowding the 
+minivan we require v cos 8.50° ≥ 28 m/s. 
+ 
+ 
+We can satisfy this requirement simply by taking 
+v ≥(28.0 m/s)/cos8.50° = 28.3 m/s.
+ 
+P3.18 
+The person would have to walk  
+ 
+ 
+ 
+3.10 km
+(
+)sin25.0° = 1.31 km north  
+ 
+and  
+3.10 km
+(
+)cos25.0° = 2.81 km east  
+P3.19 
+Do not think of sin θ = opposite/hypotenuse, but jump right to y =  
+R sin θ. The angle does not need to fit inside a triangle. We find the x 
+and y components of each vector using x = r cos θ  and y = r sin θ. In 
+unit vector notation, 
+
+R = Rxˆi + Ryˆj. 
+ 
+(a) 
+x = 12.8 cos 150°, y = 12.8 sin 150°, and (x,y) = (−11.1ˆi + 6.40ˆj) m 
+ 
+(b) x = 3.30 cos 60.0°, y = 3.30 sin 60.0°, and (x,y) = (1.65ˆi + 2.86ˆj) cm 
+ 
+(c) 
+x = 22.0 cos 215°, y = 22.0 sin 215°, and (x,y) = (−18.0ˆi −12.6ˆj) in 
+P3.20 
+(a) 
+Her net x (east-west) displacement is –3.00 + 0 + 6.00 = +3.00 
+blocks, while her net y (north-south) displacement is 0 + 4.00 + 0 = 
++4.00 blocks. The magnitude of the resultant displacement is  
+ 
+ 
+ 
+ 
+R =
+(xnet)2 + (ynet)2 =
+(3.00)2 + (4.00)2 = 5.00 blocks 
+ 
+ 
+and the angle the resultant makes with the x axis (eastward 
+direction) is 
+ 
+ 
+ 
+ 
+θ = tan−1 4.00
+3.00
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1(1.33) = 53.1°. 
+ 
+ 
+The resultant displacement is then 5.00 blocks at 53.1° N of E . 
+ 
+(b) The total distance traveled is 3.00 + 4.00 + 6.00 = 13.00 blocks . 
+P3.21 
+Let +x be East and +y be North. We can sum the total x and y 
+displacements of the spelunker as 
+ 
+ 
+x = 250 m +
+∑
+125 m
+(
+)cos 30° = 358 m
+y = 75 m +
+∑
+125 m
+(
+)sin 30° −150 m = −12.5 m
+
+--- PAGE 10 ---
+Chapter 3     107 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+the total displacement is then 
+ 
+ 
+d =
+x
+∑
+(
+)
+2 +
+y
+∑
+(
+)
+2 =
+(358 m)2 +(−12.5 m)2 = 358 m
+  
+ 
+at an angle of  
+ 
+ 
+θ = tan−1
+y
+∑
+x
+∑
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −12.5 m
+358 m
+⎛
+⎝⎜
+⎞
+⎠⎟= −2.00°
+  
+ 
+or  
+
+d = 358 m at 2.00° S of E  
+P3.22 
+We use the numbers given in Problem 3.11: 
+ 
+ 
+ 
+
+A = 3.00 m, θA = 30.0° 
+ 
+ 
+ 
+Ax = A cos θA = 3.00 cos 30.0° = 2.60 m,  
+ 
+ 
+ 
+Ay = A sin θA = 3.00 sin 30.0° = 1.50 m  
+ 
+So   
+
+A = Axˆi + Ayˆj = (2.60ˆi + 1.50ˆj) m 
+ 
+ 
+ 
+
+B = 3.00 m, θB = 90.0° 
+ 
+ 
+ 
+Bx = 0, By = 3.00 m →
+
+B = 3.00ˆj m 
+ 
+then  
+
+A +
+
+B = 2.60ˆi + 1.50ˆj
+(
+) + 3.00ˆj =
+2.60ˆi + 4.50ˆj
+(
+)m 
+P3.23 
+We can get answers in unit-vector form just by doing calculations with 
+each term labeled with an ˆi or a ˆj. There are, in a sense, only two 
+vectors to calculate, since parts (c), (d), and (e) just ask about the 
+magnitudes and directions of the answers to (a) and (b). Note that 
+the whole numbers appearing in the problem statement are assumed 
+to have three significant figures. 
+ 
+We use the property of vector addition that states that the components 
+of 
+
+R =
+
+A +
+
+B are computed as Rx = Ax + Bx and Ry = Ay + By. 
+ 
+(a) 
+
+A +
+
+B
+(
+) = 3ˆi −2ˆj
+(
+) + −ˆi −4ˆj
+(
+) = 2ˆi −6ˆj 
+ 
+(b) 
+
+A −
+
+B
+(
+) = 3ˆi −2ˆj
+(
+) −−ˆi −4ˆj
+(
+) = 4ˆi + 2ˆj 
+ 
+(c) 
+
+A +
+
+B =
+22 + 62 = 6.32 
+ 
+(d) 
+
+A −
+
+B =
+42 + 22 = 4.47
+
+--- PAGE 11 ---
+108     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+θ A+B = tan−1 −6
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −71.6° = 288°
+θ A−B = tan−1 2
+4
+⎛
+⎝⎜
+⎞
+⎠⎟= 26.6°
+ 
+P3.24 
+The east and north components of the displacement from Dallas (D) to 
+Chicago (C) are the sums of the east and north components of the 
+displacements from Dallas to Atlanta (A) and from Atlanta to Chicago. 
+In equation form: 
+ 
+ 
+ 
+dDC east = dDA east + dAC east
+= 730 mi
+(
+)cos5.00° −560 mi
+(
+)sin21.0° = 527 miles
+  
+ 
+ 
+ 
+dDC north = dDA north + dAC north
+= 730 mi
+(
+)sin5.00° + 560 mi
+(
+)cos21.0° = 586 miles
+  
+ 
+By the Pythagorean theorem,  
+ 
+ 
+ 
+d =
+(dDC east)2 +(dDC north)2 = 788 mi 
+ 
+Then, 
+θ = tan−1 dDC north
+dDC east
+⎛
+⎝⎜
+⎞
+⎠⎟= 48.0° 
+ 
+Thus, Chicago is 788 miles at 48.0° northeast of Dallas . 
+P3.25 
+We use the unit-vector addition method. It is just as easy to add three 
+displacements as to add two. We take the direction east to be along +ˆi. 
+The three displacements can be written as: 
+ 
+ 
+ 
+
+d1 = −3.50 m
+(
+)ˆj
+
+d2 = 8.20 m
+(
+)cos45.0°ˆi + 8.20 m
+(
+)sin 45.0°ˆj
+= 5.80 m
+(
+)ˆi + 5.80 m
+(
+)ˆj
+
+d3 = −15.0 m
+(
+)ˆi
+  
+ 
+The resultant is 
+ 
+ 
+ 
+
+R =
+
+d1 +
+
+d2 +
+
+d3 = (−15.0 m + 5.80 m)ˆi +(5.80 m −3.50 m)ˆj
+= −9.20 m
+(
+)ˆi + 2.30 m
+(
+)ˆj
+ 
+ 
+(or 9.20 m west and 2.30 m north). 
+ 
+The magnitude of the resultant displacement is 
+ 
+  
+
+R =
+Rx
+2 + Ry
+2 =
+−9.20 m
+(
+)
+2 + 2.30 m
+(
+)
+2 = 9.48 m
+
+--- PAGE 12 ---
+Chapter 3     109 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The direction of the resultant vector is given by 
+ 
+ 
+ 
+θ = tan−1 Ry
+Rx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+2.30 m
+−9.20 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 166°
+ 
+P3.26 
+(a) 
+See figure to the right.	  
+ 
+(b) 
+
+C =
+
+A +
+
+B = 2.00ˆi + 6.00ˆj + 3.00ˆi −2.00ˆj
+= 5.00ˆi + 4.00ˆj
+
+D =
+
+A −
+
+B = 2.00ˆi + 6.00ˆj −3.00ˆi + 2.00ˆj
+= −1.00ˆi + 8.00ˆj
+	  
+ 
+(c) 
+
+C =
+25.0 + 16.0 at tan−1 4
+5
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.40 at 38.7°
+
+D =
+−1.00
+(
+)
+2 + 8.00
+(
+)
+2 at tan−1
+8.00
+−1.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+D = 8.06 at  180° −82.9°
+(
+) = 8.06 at 97.2°
+	  
+P3.27 
+We first tabulate the three strokes of the novice golfer, with the x 
+direction corresponding to East and the y direction corresponding to 
+North. The sum of the displacement in each of the directions is shown 
+as the last row of the table. 
+  
+East 
+North 
+x (m) 
+y (m) 
+0 
+4.00 
+1.41 
+1.41 
+−0.500 
+−0.866 
++0.914 
+4.55 
+ 
+ 
+The “hole-in-one” single displacement is then  
+ 
+ 
+ 
+
+R =
+x
+2 + y
+2 =
+0.914 m
+(
+)
+2 + 4.55 m
+(
+)
+2 = 4.64 m
+ 
+ 
+The angle of the displacement with the horizontal is 
+ 
+ 
+ 
+θ = tan−1 y
+x
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+4.55 m
+0.914 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 78.6°
+ 
+ANS. FIG. P3.26
+
+--- PAGE 13 ---
+110     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The expert golfer would accomplish the hole in one with the 
+displacement 4.64 m at 78.6° N of E . 
+P3.28 
+We take the x axis along the slope downhill. (Students, get used to this 
+choice!) The y axis is perpendicular to the slope, at 35.0° to the vertical. 
+Then the displacement of the snow makes an angle of 90.0° + 35.0° + 
+16.0° = 141° with the x axis.  
+ 
+ANS. FIG. P3.28 
+ 
+(a) 
+Its component parallel to the surface is 
+(1.50 m) cos141° = –1.17 m,
+or 1.17 m toward the top of the hill.
+  
+ 
+(b) 
+Its component perpendicular to the surface is 
+(1.50 m)sin141° = 0.944 m, or 0.944 m away 
+from the snow.
+  
+P3.29 
+(a) 
+The single force is obtained by summing the two forces: 
+ 
+ 
+ 
+
+F =
+
+F1 +
+
+F2
+
+F = 120 cos (60.0°)ˆi + 120 sin (60.0°)ˆj
+                       −80.0 cos (75.0°)ˆi + 80.0 sin (75.0°)ˆj
+
+F = 60.0ˆi + 104ˆj −20.7ˆi + 77.3ˆj = 39.3ˆi + 181ˆj
+(
+) N
+	  
+ 
+ 
+We can also express this force in terms of its magnitude and 
+direction: 
+ 
+ 
+ 
+
+F =
+39.32 + 1812 N = 185 N
+θ = tan−1
+181
+39.3
+⎛
+⎝⎜
+⎞
+⎠⎟= 77.8°
+	  
+ 
+(b) A force equal and opposite the resultant force from part (a) is 
+required for the total force to equal zero:  
+ 
+ 
+ 
+
+F3 = −
+
+F =
+−39.3ˆi −181ˆj
+(
+) N
+
+--- PAGE 14 ---
+Chapter 3     111 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.30 
+ANS. FIG. P3.30 is a graphical depiction of the three displacements 
+the football undergoes, with 
+
+A corresponding to the 10.0-yard 
+backward run, 
+
+B corresponding to the 15.0-yard sideways run, and 
+
+C  corresponding to the 50.0-yard downfield pass.  The resultant 
+vector is then 
+
+R =
+
+A +
+
+B+
+
+C = −10.0ˆi −15.0ˆj + 50.0ˆi
+= 40.0ˆi −15.0ˆj
+
+R = (40.0)2 + (−15.0)2
+⎡⎣
+⎤⎦
+1/2 = 42.7 yards
+ 
+ 
+ 
+ANS. FIG. P3.30 
+P3.31 
+(a) 
+We add the components of the three vectors: 
+ 
+ 
+ 
+
+D =
+
+A +
+
+B +
+
+C = 6ˆi −2ˆj
+
+D =
+62 + 22 = 6.32 m at θ = 342°
+	  
+ 
+(b) Again, using the components of the three vectors, 
+ 
+ 
+ 
+
+E = −
+
+A −
+
+B +
+
+C = −2ˆi + 12ˆj
+
+E =
+22 + 122 = 12.2 m at θ = 99.5°
+	  
+P3.32 
+We are given 
+
+A = −8.70ˆi + 15.0ˆj, and 
+
+B = 13.2ˆi −6.60ˆj, and 
+
+A −
+
+B + 3
+
+C = 0. Solving for 
+
+C gives 
+ 
+ 
+ 
+3
+
+C =
+
+B −
+
+A = 21.9ˆi −21.6ˆj
+
+C = 7.30ˆi −7.20ˆj  or    Cx = 7.30 cm ; Cy = −7.20 cm
+ 
+P3.33 
+Hold your fingertip at the center of the front edge of your study desk, 
+defined as point O. Move your finger 8 cm to the right, then 12 cm 
+vertically up, and then 4 cm horizontally away from you. Its location 
+relative to the starting point represents position vector 
+
+A. Move three-
+fourths of the way straight back toward O. Now your fingertip is at the 
+location of 
+
+B. Now move your finger 50 cm straight through O, 
+through your left thigh, and down toward the floor. Its position vector 
+now is 
+
+C.
+
+--- PAGE 15 ---
+112     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+We use unit-vector notation throughout. There is no adding to do here, 
+but just multiplication of a vector by two different scalars. 
+  
+(a) 
+
+A = 8.00ˆi + 12.0ˆj −4.00ˆk 	  
+ 
+(b) 
+
+B =
+
+A
+4 = 2.00ˆi + 3.00ˆj −1.00 ˆk 	  
+ 
+(c) 
+
+C = −3
+
+A = −24.0ˆi −36.0ˆj + 12.0ˆk 	  
+P3.34 
+We are given 
+
+B = Bxˆi + Byˆj+ Bz ˆk = 4.00ˆi + 6.00ˆj+ 3.00 ˆk. The magnitude 
+of the vector is therefore  
+ 
+ 
+
+B =
+4.002 + 6.002 + 3.002 = 7.81 
+ 
+And the angle of the vector with the three coordinate axes is 
+ 
+ 
+α = cos−1 4.00
+7.81
+⎛
+⎝⎜
+⎞
+⎠⎟= 59.2° is the angle with the x axis
+β = cos−1 6.00
+7.81
+⎛
+⎝⎜
+⎞
+⎠⎟= 39.8° is the angle with the y axis
+γ = cos−1 3.00
+7.81
+⎛
+⎝⎜
+⎞
+⎠⎟= 67.4° is the angle with the z axis
+  
+P3.35 
+The component description of 
+
+A is just restated to constitute the 
+answer to part (a): Ax= −3.00, Ay = 2.00. 
+ 
+(a) 
+
+A = Axˆi + Ayˆj = −3.00ˆi + 2.00ˆj 
+ 
+(b) 
+
+A =
+Ax
+2 + Ay
+2 =
+−3.00
+(
+)
+2 + 2.00
+(
+)
+2 = 3.61 
+ 
+ 
+θ = tan−1
+Ay
+Ax
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+2.00
+−3.00
+⎛
+⎝⎜
+⎞
+⎠⎟= −33.7°
+ 
+ 
+ 
+θ is in the second quadrant, so θ = 180° + −33.7°
+(
+) = 146° . 
+ 
+(c) 
+Rx = 0, Ry = −4.00, and 
+
+R =
+
+A +
+
+B, thus 
+
+B =
+
+R −
+
+A and 
+ 
+ 
+Bx = Rx – Ax = 0 – (–3.00) = 3.00, By = Ry – Ay= –4.00 – 2.00 = –6.00. 
+ 
+ 
+Therefore, 
+
+B = 3.00ˆi −6.00ˆj .
+
+--- PAGE 16 ---
+Chapter 3     113 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P3.38 
+P3.36 
+We carry out the prescribed mathematical operations using unit 
+vectors. 
+ 
+(a) 
+
+C =
+
+A +
+
+B =
+5.00ˆi −1.00ˆj−3.00 ˆk
+(
+) m
+
+C =
+5.00 m
+(
+)
+2 + 1.00 m
+(
+)
+2 + 3.00 m
+(
+)
+2 = 5.92 m
+ 
+ 
+(b) 
+
+D = 2
+
+A −
+
+B =
+4.00ˆi −11.0ˆj+ 15.0 ˆk
+(
+) m
+
+D =
+(4.00 m)2 +(11.0 m)2 +(15.0 m)2 = 19.0 m
+ 
+P3.37 
+(a) 
+Taking components along ˆi and ˆj, we get two equations:	  
+ 
+ 
+ 
+6.00a – 8.00b +26.0 = 0 
+ 
+ 
+and	  
+ 
+ 
+ 
+–8.00a + 3.00b + 19.0 = 0	  
+ 
+ 
+Substituting a = 1.33b – 4.33 into the second equation, we find 	  
+ 
+ 
+−8 1.33b −4.33
+(
+)+ 3b + 19 = 0 →7.67b = 53.67 →b = 7.00 	  
+ 
+ 
+and so a = 1.33(7.00) – 4.33 = 5.00.	  
+ 
+ 
+Thus a = 5.00, b = 7.00 . Therefore, 5.00
+
+A + 7.00
+
+B +
+
+C = 0. 	  
+ 
+(b) 
+In order for vectors to be equal, all of their components must be
+equal. A vector equation contains more information than a
+scalar equation, as each component gives us one equation.
+	  
+P3.38 
+The given diagram shows the vectors individually, 
+but not their addition. The second diagram 
+represents a map view of the motion of the ball. 
+According to the definition of a displacement, we 
+ignore any departure from straightness of the actual 
+path of the ball. We model each of the three motions 
+as straight. The simplified problem is solved by 
+straightforward application of the component 
+ method of vector addition. It works for  
+adding two, three, or any number of vectors. 
+ 
+(a) 
+We find the two components of each of  
+the three vectors 
+ 
+ 
+ 
+Ax = (20.0 units)cos90° = 0  
+ 
+ 
+and Ay = (20.0units)sin90° = 20.0 units
+
+--- PAGE 17 ---
+114     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.39 
+ 
+ 
+ 
+ 
+Bx = (40.0units)cos45° = 28.3 units 
+ 
+ 
+ 
+and By = (40.0units)sin 45° = 28.3 units 
+ 
+ 
+ 
+ 
+Cx = (30.0units)cos315° = 21.2 units 
+ 
+ 
+ 
+ 
+ 
+and Cy = (30.0units)sin315° = −21.2 units 
+ 
+ 
+Now adding, 
+ 
+ 
+ 
+ 
+Rx = Ax + Bx + Cx = (0 + 28.3 + 21.2) units = 49.5 units 
+ 
+ 
+and Ry = Ay + By + Cy = (20 + 28.3 −21.2) units = 27.1 units 
+ 
+ 
+so 
+
+R = 49.5ˆi + 27.1ˆj 	  
+ 
+(b) 
+
+R =
+49.5
+(
+)
+2 + 27.1
+(
+)
+2 = 56.4
+θ = tan−1 Ry
+Rx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 27.1
+49.5
+⎛
+⎝⎜
+⎞
+⎠⎟= 28.7°
+	  
+P3.39 
+We will use the component method for a precise 
+answer. We already know the total displacement, 
+so the algebra of solving a vector equation will 
+guide us to do a subtraction. 
+ 
+We have 
+
+B =
+
+R −
+
+A: 	  
+ 
+ 
+ 
+Ax = 150 cos 120° = −75.0 cm 
+ 
+ 
+ 
+Ay = 150 sin 120° = 130 cm 
+ 
+ 
+ 
+Rx = 140 cos 35.0° = 115 cm 
+ 
+ 
+ 
+Ry = 140 sin 35.0° = 80.3 cm 
+ 
+Therefore, 	  
+ 
+ 
+ 
+
+B = [115 −(−75)ˆi + [80.3 −130]ˆj = 190ˆi −49.7ˆj
+(
+) cm
+
+B =
+1902 + 49.72 = 196 cm
+θ = tan−1 −49.7
+190
+⎛
+⎝⎜
+⎞
+⎠⎟= −14.7°
+
+--- PAGE 18 ---
+Chapter 3     115 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.41 
+P3.40 
+First, we sum the components of the two vectors for the male: 
+ 
+ 
+d3mx = d1mx + d2mx = 0 + 100 cm
+(
+)cos23.0° = 92.1 cm
+d3my = d1my + d2my = 104 cm + 100 cm
+(
+)sin23.0° = 143.1 cm
+magnitude: d3m =
+92.1 cm
+(
+)
+2 + 143.1 cm
+(
+)
+2 = 170.1 cm
+direction: tan−1 143.1/92.1
+(
+) = 57.2° above +x axis first quadrant
+(
+)
+ 
+ 
+followed by the components of the two vectors for the female: 
+ 
+ 
+d3fx = d1fx + d2fx = 0 + 86.0 cm
+(
+)cos28.0° = 75.9 cm
+d3fy = d1fy + d2fy = 84.0 cm + 86.0 cm
+(
+)sin28.0° = 124.4 cm
+magnitude: d3f =
+75.9 cm
+(
+)
+2 + 124.4 cm
+(
+)
+2 = 145.7 cm
+direction: tan−1 124.4/75.9
+(
+) = 58.6° above +x axis first quadrant
+(
+)
+ 
+P3.41 
+(a) 
+
+E = (17.0 cm) cos 27.0°
+(
+)ˆi
+                      + (17.0 cm) sin 27.0°
+(
+)ˆj
+
+E = (15.1ˆi + 7.72ˆj) cm
+	  
+ 
+(b) 
+
+F = (17.0 cm) cos 117.0°
+(
+)ˆi
+                        + (17.0 cm) sin 117.0°
+(
+)ˆj
+	  
+ 
+ 
+
+F =
+−7.72ˆi + 15.1ˆj
+(
+) cm  
+ 
+ 
+Note that we did not need to explicitly identify the angle with the 
+positive x axis, but by doing so, we don’t have to keep track of 
+minus signs for the components.	  
+ 
+(c) 
+
+G = (−17.0 cm) cos 243.0°
+(
+)
+[
+]ˆi + (−17.0 cm) sin 243.0°
+(
+)
+[
+]ˆj
+
+G = −7.72ˆi −15.1ˆj
+(
+) cm
+ 
+P3.42 
+The position vector from radar station to ship is 
+ 
+ 
+ 
+
+S = 17.3sin136°ˆi + 17.3cos136°ˆj
+(
+) km = 12.0ˆi −12.4ˆj
+(
+) km 
+ 
+From station to plane, the position vector is 
+ 
+ 
+ 
+
+P = 19.6sin153°ˆi + 19.6cos153°ˆj+ 2.20 ˆk
+(
+) km
+ 
+ 
+or 
+ 
+ 
+ 
+
+P = 8.90ˆi −17.5ˆj+ 2.20 ˆk
+(
+) km
+
+--- PAGE 19 ---
+116     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+To fly to the ship, the plane must undergo displacement 
+ 
+ 
+ 
+
+D =
+
+S−
+
+P =
+3.12ˆi + 5.02ˆj−2.20 ˆk
+(
+) km
+ 
+ 
+(b) The distance the plane must travel is 
+ 
+ 
+ 
+D =
+
+D =
+3.12
+(
+)
+2 + 5.02
+(
+)
+2 + 2.20
+(
+)
+2 km = 6.31 km 
+P3.43 
+The hurricane’s first displacement is  
+ 
+ 
+ 
+41.0 km/h
+(
+) 3.00 h
+(
+) at 60.0° N of W 
+ 
+and its second displacement is  
+ 
+ 
+ 
+25.0 km/h
+(
+) 1.50 h
+(
+) due North 
+ 
+With ˆi representing east and ˆj representing north, its total 
+displacement is: 
+ 
+ 
+ 
+41.0 km/h
+(
+)cos60.0°
+[
+] 3.00 h
+(
+) −ˆi
+( )
+                    +
+41.0 km/h
+(
+)sin60.0°
+[
+] 3.00 h
+(
+)ˆj
+                    + 25.0 km/h
+(
+) 1.50 h
+(
+)ˆj
+= 61.5 km −ˆi
+( )+ 144 km ˆj
+ 
+ 
+with magnitude 
+61.5 km
+(
+)
+2 + 144 km
+(
+)
+2 = 157 km . 
+P3.44 
+Note that each shopper must make a choice whether to turn 90° to the 
+left or right, each time he or she makes a turn. One set of such choices, 
+following the rules in the problem, results in the shopper heading in 
+the positive y direction and then again in the positive x direction. 
+ 
+Find the magnitude of the sum of the displacements: 
+ 
+ 
+ 
+
+d = (8.00 m)ˆi + (3.00 m)ˆj + (4.00 m)ˆi = (12.00 m)ˆi + (3.00 m)ˆj
+magnitude: d =
+(12.00 m)2 + (3.00 m)2 = 12.4 m
+Impossible because 12.4 m is greater than 5.00 m.
+ 
+P3.45 
+The y coordinate of the airplane is constant and equal to 7.60 × 10
+3 m 
+whereas the x coordinate is given by x = vit, where vi is the constant 
+speed in the horizontal direction. 
+ 
+At t = 30.0 s we have x = 8.04 × 10
+3, so vi = 8 040 m/30 s = 268 m/s. The 
+position vector as a function of time is  
+ 
+ 
+ 
+
+P = (268 m/s)tˆi +(7.60 × 103 m)ˆj
+
+--- PAGE 20 ---
+Chapter 3     117 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+At t = 45.0 s,
+
+P = 1.21× 104ˆi + 7.60 × 103ˆj
+⎡⎣
+⎤⎦m. The magnitude is 
+ 
+ 
+ 
+
+P =
+1.21× 104
+(
+)
+2 + 7.60 × 103
+(
+)
+2 m = 1.43 × 104 m 
+ 
+and the direction is  
+ 
+ 
+ 
+θ = tan−1 7.60 × 103
+1.21× 104
+⎛
+⎝⎜
+⎞
+⎠⎟= 32.2° above the horizontal
+ 
+P3.46 
+The displacement from the start to the finish is  
+ 
+ 
+ 
+16ˆi + 12ˆj −(5ˆi + 3ˆj) = (11ˆi + 9ˆj) 
+ 
+The displacement from the starting point to A is f 11ˆi + 9ˆj
+(
+) meters.  
+(a) 
+The position vector of point A is  
+ 
+ 
+5ˆi + 3ˆj+ f 11ˆi + 9ˆj
+(
+) =
+(5 + 11 f )ˆi +(3 + 9 f )ˆj
+⎡⎣
+⎤⎦ m
+ 
+ 
+(b) For f = 0 we have the position vector (5 + 0)ˆi + (3 + 0)ˆj meters. 
+ 
+(c) 
+This is reasonable because it is the location of the starting point,
+5ˆi + 3ˆj meters.
+ 
+ 
+(d) For f = 1 = 100%, we have position vector 
+(5 + 11)ˆi + (3 + 9)ˆj meters = 16ˆi + 12ˆj meters . 
+ 
+(e) 
+This is reasonable because we have completed the trip, and this is
+the position vector of the endpoint.
+ 
+P3.47 
+Let the positive x direction be eastward, the positive y direction be 
+vertically upward, and the positive z direction be southward. The total 
+displacement is then	  
+ 
+ 
+ 
+
+d = 4.80ˆi + 4.80ˆj
+(
+) cm + 3.70ˆj −3.70 ˆk
+(
+) cm
+= 4.80ˆi + 8.50ˆj −3.70 ˆk
+(
+) cm
+ 
+ 
+(a) 
+The magnitude is d =
+4.80
+(
+)
+2 + 8.50
+(
+)
+2 + −3.70
+(
+)
+2 cm = 10.4 cm .	  
+ 
+(b) Its angle with the y axis follows from  
+cosθ = 8.50
+10.4 , giving θ = 35.5° .
+
+--- PAGE 21 ---
+118     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.49 
+Additional Problems 
+P3.48 
+The Pythagorean theorem and the definition of the tangent will be the 
+starting points for our calculation.  
+ 
+(a) 
+Take the wall as the xy plane so that the coordinates are x = 2.00 m 
+and y = 1.00 m; and the fly is located at point P. The distance 
+between two points in the xy plane is 
+ 
+ 
+ 
+d = 
+x2 – x1
+(
+)
+2 +  y2 – y1
+(
+)
+2 
+ 
+ 
+so here d =  (2.00 m – 0)2 + (1.00 m – 0)2 = 2.24 m 
+ 
+ 
+(b) 
+θ = tan–1 y
+x
+⎛
+⎝⎜⎜⎜
+⎞
+⎠
+⎟⎟⎟= tan–1 1.00 m
+2.00 m
+⎛
+⎝⎜⎜⎜
+⎞
+⎠
+⎟⎟⎟= 26.6°, so r = 2.24 m, 26.6°   
+P3.49 
+We note that −ˆi = west and −ˆj = south. The given 
+mathematical representation of the trip can be 
+written as 6.30 b west + 4.00 b at 40° south of west 
++3.00 b at 50° south of east +5.00 b south.	  
+ 
+(a) 
+The figure on the right shows a map of the  
+successive displacements that the bus 
+undergoes.	  
+ 
+(b) The total odometer distance is the sum of the magnitudes of the 
+four displacements: 	  
+ 
+ 
+ 
+6.30 b + 4.00 b + 3.00 b + 5.00 b = 18.3 b 	  
+ 
+(c) 
+
+R = (−6.30 −3.06 + 1.93) bˆi + (−2.57 −2.30 −5.00) bˆj
+= −7.44 bˆi −9.87 bˆj
+=
+(7.44 b)2 + (9.87 b)2 at tan−1 9.87
+7.44
+⎛
+⎝⎜
+⎞
+⎠⎟ south of west
+= 12.4 b at 53.0° south of west
+= 12.4 b at 233° counterclockwise from east
+	  
+P3.50 
+To find the new speed and direction of the aircraft, we add the 
+vector components of the wind to the vector velocity of the aircraft: 
+ 
+ 
+v = vxˆi + vyˆj = 300 + 100cos30.0°
+(
+)ˆi + 100sin30.0°
+(
+)ˆj
+v = 387ˆi + 50.0ˆj
+(
+) mi/h
+v = 390 mi/h at 7.37° N of E
+
+--- PAGE 22 ---
+Chapter 3     119 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.51 
+On our version of the diagram we have 
+drawn in the resultant from the tail of the 
+first arrow to the head of the last arrow.  
+The resultant displacement 
+
+R is equal to 
+the sum of the four individual 
+displacements, 
+
+R =
+
+d1 +
+
+d2 +
+
+d3 +
+
+d4. We 
+translate from the pictorial representation 
+to a mathematical representation by 
+writing the individual displacements in 
+unit-vector notation: 
+ 
+ 
+
+d1 = 100i m 
+ 
+ 
+
+d2 = −300j m 
+ 
+ 
+
+d3 = (−150 cos 30°)ˆi m + ( −150 sin 30°)ˆj m = –130ˆi m −75ˆj m 
+ 
+ 
+
+d4 = (−200 cos60°)ˆi m + (200 sin60°)ˆj m = −100ˆi m + 173ˆj m 
+ 
+Summing the components together, we find 
+ 
+ 
+Rx = d1x + d2x + d3x + d4x = (100 + 0 −130 −100) m = −130 m 
+ 
+ 
+Ry = d1y + d2y + d3y + d4y = (0 −300 −75 + 173) m = –202 m 
+ 
+so altogether  
+ 
+ 
+
+R =
+
+d1 +
+
+d2 +
+
+d3 +
+
+d4 =
+−130ˆi −202ˆj
+(
+)m
+ 
+ 
+Its magnitude is  
+ 
+ 
+ 
+
+R =
+−130
+(
+)
+2 + −202
+(
+)
+2 = 240 m
+ 
+ 
+We calculate the angle φ = tan−1 Ry
+Rx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −202
+−130
+⎛
+⎝⎜
+⎞
+⎠⎟= 57.2°. 
+ 
+The resultant points into the third quadrant instead of the first 
+quadrant. The angle counterclockwise from the +x axis is  
+ 
+ 
+ 
+θ = 180 +φ = 237° 
+*P3.52 
+The superhero follows a straight-line path at 
+30.0° below the horizontal. If his 
+displacement is 100 m, then the coordinates 
+of the superhero are:  
+ 
+ 
+ 
+x = 100 m
+(
+)cos −30.0°
+(
+) = 86.6 m
+y = 100 m
+(
+)sin −30.0°
+(
+) = −50.0 m
+ 
+ 
+ 
+ANS. FIG. P3.51 
+ANS. FIG. P3.52
+
+--- PAGE 23 ---
+120     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.53 
+(a) 
+Take the x axis along the tail section of the snake. The 
+displacement from tail to head is 
+ 
+ 
+ 
+240 m
+(
+)ˆi + (420 −240) m
+[
+]cos(180° −105°)ˆi
+                        −180 m
+(
+)sin75°ˆj = 287 mˆi −174 mˆj
+ 
+ 
+ 
+Its magnitude is 
+287
+(
+)
+2 + 174
+(
+)
+2 m = 335 m. 
+ 
+ 
+From v = distance
+Δt
+, the time for each child’s run is  
+ 
+ 
+ 
+Inge: Δt = distance
+v
+= 335 m h
+( ) 1 km
+(
+) 3600 s
+(
+)
+12 km
+(
+) 1000 m
+(
+) 1 h
+(
+)
+= 101 s
+Olaf: Δt = 420 m⋅s
+3.33 m = 126 s
+ 
+ 
+ 
+Inge wins by 126 −101 = 25.4 s . 
+ 
+(b) Olaf must run the race in the same time: 
+ 
+ 
+ 
+v = d
+Δt = 420 m
+101 s
+3600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+km
+103 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 15.0 km/h 
+ 
+P3.54 
+The position vector from the ground under the controller of the first 
+airplane is 
+ 
+ 
+ 
+r1 = (19.2 km)(cos25°)ˆi +(19.2 km)(sin25°)ˆj+(0.8 km)ˆk
+= 17.4ˆi + 8.11ˆj+ 0.8 ˆk
+(
+) km
+  
+ 
+The second is at  
+ 
+ 
+ 
+r2 = (17.6 km)(cos20°)ˆi +(17.6 km)(sin20°)ˆj+(1.1 km)ˆk
+= 16.5ˆi + 6.02ˆj+ 1.1ˆk
+(
+) km
+ 	  
+ 
+Now the displacement from the first plane to the second is 	  
+ 
+ 
+ 
+r2 −r1 = −0.863ˆi −2.09ˆj + 0.3 ˆk
+(
+) km
+ 
+ 
+with magnitude	  
+ 
+ 
+ 
+0.863
+(
+)
+2 + 2.09
+(
+)
+2 + 0.3
+(
+)
+2 km = 2.29 km
+
+--- PAGE 24 ---
+Chapter 3     121 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.55 
+(a) 
+The tensions Tx and Ty act as an equivalent tension T (see ANS. 
+FIG. P3.55) which supports the downward weight; thus, the 
+combination is equivalent to 0.150 N, upward. We know that Tx = 
+0.127 N, and the tensions are perpendicular to each other, so their 
+combined magnitude is 
+ 
+ 
+ 
+T =
+Tx
+2 +Ty
+2 = 0.150 N →Ty
+2 = 0.150 N
+(
+)
+2 −Tx
+2
+Ty
+2 = 0.150 N
+(
+)
+2 −0.127 N
+(
+)
+2 →Ty = 0.078 N
+ 
+ 
+ANS. FIG. P3.55 
+ 
+(b) From the figure, θ = tan−1 Ty Tx
+(
+) = 32.1°. The angle the x axis 
+makes with the horizontal axis is 90° −θ = 57.9° . 
+ 
+(c) 
+From the figure, the angle the y axis makes with the horizontal 
+axis is θ = 32.1° . 
+P3.56 
+(a) 
+Consider the rectangle in the figure to have height H and width 
+W. The vectors 
+
+A and 
+B are related by 
+
+A + ab
+
++ bc
+
+=
+
+B, where  
+ 
+ 
+ 
+
+A = 10.0 m
+(
+) cos50.0°
+(
+)ˆi + 10.0 m
+(
+) sin50.0°
+(
+)ˆj
+
+A = 6.42ˆi + 7.66ˆj
+(
+) m
+
+B = 12.0 m
+(
+) cos30.0°
+(
+)ˆi + 12.0 m
+(
+) sin30.0°
+(
+)ˆj
+
+B = 10.4ˆi + 6.00ˆj
+(
+) m
+ab
+
+= −Hˆj and bc
+
+= Wˆi
+ 
+ 
+ANS. FIG. P3.56
+
+--- PAGE 25 ---
+122     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+
+B −
+
+A = ab
+
++ bc
+
+3.96ˆi −1.66ˆj
+(
+) m = Wˆi −Hˆj →W = 3.96 m and H = 1.66 m
+ 
+ 
+ 
+The perimeter measures 2(H + W) = 11.24 m. 
+ 
+(b) The vector from the origin to the upper-right corner of the 
+rectangle (point d) is 
+ 
+ 
+
+B + Hˆj = 10.4 mˆi + 6.00 m + 1.66 m
+(
+)ˆj = 10.4 mˆi + 7.66 mˆj
+magnitude: 
+10.4 m
+(
+)
+2 + 7.66 m
+(
+)
+2 = 12.9 m
+direction: tan−1 7.66/10.4
+(
+) = 36.4° above + x axis first quadrant
+(
+)
+ 
+P3.57 
+(a) 
+Rx = 2.00 , Ry = 1.00 , Rz = 3.00 
+ 
+(b) 
+
+R =
+Rx
+2 + Ry
+2 + Rz
+2 =
+4.00 + 1.00 + 9.00 =
+14.0 = 3.74 
+ 
+(c) 
+cosθx = Rx
+R
+⇒θx = cos−1 Rx
+R
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= 57.7° from + x
+cosθy =
+Ry
+R
+⇒θy = cos−1 Ry
+R
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= 74.5° from + y
+cosθz = Rz
+R
+⇒θz = cos−1
+Rz
+R
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= 36.7° from + z
+ 
+P3.58 
+Let A represent the distance from island 2 to 
+island 3. The displacement is 
+
+A = A at 159°. 
+Represent the displacement from 3 to 1 as 
+
+B = B at 298°. We have 4.76 km at 37° +
+
+A +
+
+B = 0. 
+ 
+For the x components: 
+ 
+ 
+ 
+4.76 km
+(
+)cos37° + Acos159°
++Bcos298° = 0
+3.80 km −0.934A + 0.470B = 0
+ 
+ 
+ 
+ 
+B = −8.10 km + 1.99A 
+ 
+For the y components: 
+ 
+ 
+ 
+4.76 km
+(
+)sin37° + Asin159° + Bsin298° = 0
+2.86 km + 0.358A −0.883B = 0
+ 
+ANS. FIG. P3.58
+
+--- PAGE 26 ---
+Chapter 3     123 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.59 
+ANS. FIG. P3.60 
+ 
+(a) 
+We solve by eliminating B by substitution: 
+ 
+ 
+ 
+2.86 km + 0.358A −0.883 −8.10 km + 1.99A
+(
+) = 0
+2.86 km + 0.358A + 7.15 km −1.76A = 0
+ 
+ 
+ 
+10.0 km = 1.40A
+A = 7.17 km
+ 
+ 
+(b) 
+B = −8.10 km + 1.99 7.17 km
+(
+) = 6.15 km 
+P3.59 
+Let θ  represent the angle between the 
+directions of 
+
+A and 
+
+B. Since 
+
+A and 
+
+B have 
+the same magnitudes, 
+
+A , 
+
+B, and 
+
+R =
+
+A +
+
+B 
+form an isosceles triangle in which the angles 
+are 180° −θ, θ
+2 , and θ
+2 . The magnitude of 
+
+R 
+is then R = 2Acos θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. This can be seen from 
+applying the law of cosines to the isosceles triangle and using the fact 
+that B = A.	  
+ 
+Again, 
+
+A , −
+
+B , and 
+
+D =
+
+A −
+
+B form an isosceles triangle with apex 
+angle θ. Applying the law of cosines and the identity 	  
+ 
+ 
+ 
+1−cosθ = 2sin2 θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+gives the magnitude of 
+
+D as D = 2Asin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟.	  
+ 
+The problem requires that R = 100D. 	  
+ 
+Thus, 2Acos θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 200Asin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. This gives  
+ 
+ 
+ 
+tan θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.010 and θ = 1.15°
+	  
+P3.60 
+Let θ  represent the angle between the directions 
+of 
+
+A and
+
+B. Since 
+
+A and 
+
+B have the same 
+magnitudes, 
+
+A , 
+
+B, and 
+
+R =
+
+A +
+
+B form an 
+isosceles triangle in which the angles are 
+180° −θ, θ
+2 , and θ
+2 . The magnitude of 
+
+R is then 
+R = 2Acos θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. This can be seen by applying the
+
+--- PAGE 27 ---
+124     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+law of cosines to the isosceles triangle and using the fact that B = A. 
+Again, 
+
+A , −
+
+B , and 
+
+D =
+
+A −
+
+B form an isosceles triangle with apex 
+angle θ. Applying the law of cosines and the identity 	  
+ 
+ 
+ 
+1−cosθ = 2sin2 θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+gives the magnitude of 
+
+D as D = 2Asin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟.	  
+ 
+The problem requires that R = nD or 	  
+ 
+ 
+  
+cos θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= nsin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ giving θ = 2tan−1
+1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟. 	  
+ 
+The larger R is to be compared to D, the smaller the angle between 
+
+A 
+and 
+
+B becomes.	  
+P3.61 
+(a) 
+We write 
+
+B in terms of the sine and cosine of the angle θ, and 
+add the two vectors: 
+ 
+ 
+ 
+
+A +
+
+B = −60 cmˆj
+(
+) + 80 cm cosθ
+(
+)ˆi + 80 cm sinθ
+(
+)ˆj
+
+A +
+
+B = 80 cm cosθ
+(
+)ˆi + 80 cm sinθ −60 cm
+(
+)ˆj
+ 
+ 
+ 
+Dropping units (cm), the magnitude is  
+ 
+ 
+ 
+
+A +
+
+B =
+80 cosθ
+(
+)
+2 + 80 sinθ −60
+(
+)
+2
+⎡⎣
+⎤⎦
+1/2
+=
+80
+(
+)
+2 cos2θ + sin2θ
+(
+)−2 80
+(
+) 60
+(
+)sinθ + 60
+(
+)
+2
+⎡⎣
+⎤⎦
+1/2
+
+A +
+
+B =
+80
+(
+)
+2 + 60
+(
+)
+2 −2 80
+(
+) 60
+(
+)sinθ
+⎡⎣
+⎤⎦
+1/2
+
+A +
+
+B = 10,000 −9600
+(
+)sinθ
+[
+]
+1/2 cm
+ 
+ 
+(b) For θ = 270°, sinθ = −1, and 
+
+A +
+
+B = 140 cm . 
+ 
+(c) 
+For θ = 90°, sinθ = 1, and 
+
+A +
+
+B = 20.0 cm . 
+ 
+(d) 
+They do make sense. The maximum value is attained when 
+
+A
+and 
+
+B are in the same direction, and it is 60 cm + 80 cm. The 
+minimum value is attained when 
+
+A and 
+
+B are in opposite 
+directions, and it is 80 cm – 60 cm.
+
+--- PAGE 28 ---
+Chapter 3     125 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.62 
+We perform the integration: 
+ 
+ 
+Δr =
+vdt =
+0
+0.380 s
+∫
+1.2ˆi m/s −9.8tˆj m/s2
+(
+)dt
+0
+0.380 s
+∫
+= 1.2t ˆi m/s
+0
+0.380 s
+−9.8ˆj m/s2
+(
+)
+t2
+2 0
+0.380 s
+= 1.2ˆi m/s
+(
+) 0.38 s −0
+(
+)−9.8ˆj m/s2
+(
+)
+0.38 s
+(
+)
+2 −0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.456ˆi m −0.708ˆj m
+ 
+P3.63 
+(a) 
+dr
+dt =
+d 4ˆi + 3ˆj−2tˆk
+(
+)
+dt
+= −2 ˆk = −2.00 m/s
+(
+) ˆk 
+ 
+(b) The position vector at t = 0 is 4ˆi + 3ˆj. At t = 1 s, the position is 
+4ˆi + 3ˆj −2 ˆk, and so on. The object is moving straight downward 
+at 2 m/s, so dr
+dt represents its velocity vector . 
+P3.64 
+(a) 
+The very small differences 
+between the angles suggests 
+we may consider this region of 
+Earth to be small enough so 
+that we may consider it to be 
+flat (a plane); therefore, we 
+may consider the lines of 
+latitude and longitude to be 
+parallel and perpendicular, so 
+that we can use them as an xy 
+coordinate system. Values of 
+latitude, θ, increase as we 
+travel north, so differences 
+between latitudes can give the y coordinate. Values of longitude, 
+φ, increase as we travel west, so differences between longitudes 
+can give the x coordinate. Therefore, our coordinate system will 
+have +y to the north and +x to the west.  
+ 
+ 
+Since we are near the equator, each line of latitude and longitude 
+may be considered to form a circle with a radius equal to the 
+radius of Earth, R = 6.36 × 10
+6 m. Recall the length s of an arc of a 
+circle of radius R that subtends an angle (in radians) Δθ (or Δφ) is 
+given by s = RΔθ (or s = RΔφ). We can use this equation to find 
+the components of the displacement from the starting point to the 
+tree—these are parallel to the x and y coordinates axes. Therefore, 
+ANS. FIG. P3.64
+
+--- PAGE 29 ---
+126     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P3.65 
+we can regard the origin to be the starting point and the 
+displacements as the x and y coordinates of the tree.  
+ 
+ 
+The angular difference Δφ for longitude values is (west being 
+positive) 
+ 
+ 
+ 
+Δφ = 75.64426° −75.64238°
+[
+]
+= 0.00188°
+(
+) π rad/180°
+(
+)
+= 3.28 × 10−5 rad
+ 
+ 
+ 
+corresponding to the x coordinate (displacement west) 
+ 
+ 
+ 
+x = RΔφ = 6.36 × 106 m
+(
+) 3.28 × 10−5 rad
+(
+) = 209 m  
+ 
+ 
+The angular difference Δθ for latitude values is (north being 
+positive)  
+ 
+ 
+ 
+Δθ = 0.00162° −−0.00243°
+(
+)
+[
+]
+= 0.00405°
+(
+) π rad/180°
+(
+)
+= 7.07 × 10−5 rad
+ 
+ 
+ 
+corresponding to the y coordinate (displacement north) 
+ 
+ 
+ 
+y = RΔθ = 6.36 × 106 m
+(
+) 7.07 × 10−5 rad
+(
+) = 450 m 
+ 
+ 
+The distance to the tree is  
+ 
+ 
+ 
+d =
+x2 + y2 =
+209 m
+(
+)
+2 + 450 m
+(
+)
+2 = 496 m 
+ 
+ 
+The direction to the tree is  
+ 
+ 
+ 
+tan−1 y
+x
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 450 m
+209 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 65.1° = 65.1° N of W
+ 
+ 
+(b) 
+Refer to the arguments above. They are justified because the 
+distances involved are small relative to the radius of Earth.
+ 
+P3.65 
+(a) 
+From the picture, 
+
+R1 = aˆi + bˆj. 	  
+ 
+(b) 
+R1 =
+a2 + b2 	  
+ 
+(c) 
+
+R2 =
+
+R1 + cˆk = aˆi + bˆj + cˆk
+
+--- PAGE 30 ---
+Chapter 3     127 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.66 
+Since 	  
+ 
+ 
+ 
+
+A +
+
+B = 6.00ˆj, 	  
+ 
+we have 	  
+ 
+ 
+ 
+Ax + Bx
+(
+)ˆi + Ay + By
+(
+)ˆj = 0ˆi + 6.00ˆj 	  
+ 
+giving 
+Ax + Bx = 0 →Ax = −Bx.	  
+ 
+Because the vectors have the same magnitude and x components of 
+equal magnitude but of opposite sign, the vectors are reflections of 
+each other in the y axis, as shown in the diagram. Therefore, the two 
+vectors have the same y components: 	  
+ 
+ 
+ 
+Ay = By = (1/2)(6.00) = 3.00	  
+ 
+Defining θ as the angle between either 
+
+A or 
+
+B and the y axis, it is seen 
+that 	  
+ 
+ 
+ 
+cosθ =
+Ay
+A =
+By
+B = 3.00
+5.00 = 0.600 →θ = 53.1°
+	  
+ 
+The angle between 
+
+A and 
+
+B is then φ = 2θ = 106° . 	  
+ 
+ 
+ 
+Challenge Problem 
+P3.67 
+(a) 
+You start at point A: r1 = rA = 30.0ˆi −20.0ˆj
+(
+) m. 	  
+ 
+ 
+The displacement to B is 	  
+ 
+ 
+ 
+rB −rA = 60.0ˆi + 80.0ˆj −30.0ˆi + 20.0ˆj = 30.0ˆi + 100ˆj	  
+ 
+ 
+You cover half of this, 15.0ˆi + 50.0ˆj
+(
+), to move to	  
+ 
+ 
+ 
+r2 = 30.0ˆi −20.0ˆj + 15.0ˆi + 50.0ˆj = 45.0ˆi + 30.0ˆj 	  
+ 
+ 
+Now the displacement from your current position to C is 	  
+ 
+ 
+ 
+rC −r2 = −10.0ˆi −10.0ˆj −45.0ˆi −30.0ˆj = −55.0ˆi −40.0ˆj 	  
+ 
+ 
+You cover one-third, moving to	  
+ 
+ 
+ 
+ 
+r3 = r2 + Δr23 = 45.0ˆi + 30.0ˆj + 1
+3 −55.0ˆi −40.0ˆj
+(
+) = 26.7ˆi + 16.7ˆj
+	  
+ANS. FIG. P3.66
+
+--- PAGE 31 ---
+128     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The displacement from where you are to D is	  
+ 
+ 
+ 
+ 
+rD −r3 = 40.0ˆi −30.0ˆj −26.7ˆi −16.7ˆj = 13.3ˆi −46.7ˆj 	  
+ 
+ 
+You traverse one-quarter of it, moving to	  
+ 
+ 
+ 
+r4 = r3 + 1
+4
+rD −r3
+(
+) = 26.7ˆi + 16.7ˆj + 1
+4 13.3ˆi −46.7ˆj
+(
+)
+= 30.0ˆi + 5.00ˆj
+	  
+ 
+ 
+The displacement from your new location to E is	  
+ 
+ 
+ 
+rE −r4 = −70.0ˆi + 60.0ˆj −30.0ˆi −5.00ˆj = −100ˆi + 55.0ˆj 	  
+of which you cover one-fifth the distance, −20.0ˆi + 11.0ˆj,  
+moving to	  
+ 
+ 
+ 
+r4 + Δr45 = 30.0ˆi + 5.00ˆj −20.0ˆi + 11.0ˆj = 10.0ˆi + 16.0ˆj 	  
+ 
+ 
+The treasure is at 10.0 m, 16.0 m
+(
+) . 	  
+ 
+(b) Following the directions brings you to the average position of the 
+trees. The steps we took numerically in part (a) bring you to	  
+ 
+ 
+ 
+rA + 1
+2
+rB −rA
+(
+) =
+rA + rB
+2
+⎛
+⎝⎜
+⎞
+⎠⎟	  
+ 
+ 
+then to	  
+ 
+ 
+ 
+rA + rB
+(
+)
+2
++
+rC −rA + rB
+(
+)/2
+3
+=
+rA + rB + rC
+3
+	  
+ 
+ 
+then to	  
+ 
+ 
+ 
+rA + rB + rC
+(
+)
+3
++
+rD −rA + rB + rC
+(
+)/3
+4
+=
+rA + rB + rC + rD
+4
+	  
+ 
+ 
+and last to	  
+ 
+ 
+ 
+rA + rB + rC + rD
+(
+)
+4
++
+rE −rA + rB + rC + rD
+(
+)/ 4
+5
+                                                  =
+rA + rB + rC + rD + rE
+5
+	  
+ 
+ 
+This center of mass of the tree distribution is the same location
+whatever order we take the trees in.
+
+--- PAGE 32 ---
+Chapter 3     129 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P3.2 
+(a) 2.31; (b) 1.15 
+P3.4 
+(a) (2.17, 1.25) m, (−1.90, 3.29) m; (b) 4.55m 
+P3.6 
+(a) r, 180° – θ; (b) 180° + θ ; (c) –θ 
+P3.8 
+
+B is 43 units in the negative y direction 
+P3.10 
+9.5 N, 57° above the x axis 
+P3.12 
+(a) See ANS. FIG. P3.12; (b) The sum of a set of vectors is not affected 
+by the order in which the vectors are added. 
+P3.14 
+310 km at 57° S of W 
+P3.16 
+Ax = 28.7 units, Ay = –20.1 units 
+P3.18 
+1.31 km north and 2.81 km east 
+P3.20 
+(a) 5.00 blocks at 53.1° N of E; (b) 13.00 blocks 
+P3.22 
+2.60ˆi + 4.50ˆj
+(
+) m 
+P3.24 
+788 miles at 48.0° northeast of Dallas 
+P3.26 
+(a) See ANS. FIG. P3.24; (b) 5.00ˆi + 4.00ˆj,−1.00ˆi + 8.00ˆj; (c) 6.40 at 38.7°, 
+8.06 at 97.2° 
+P3.28 
+(a) Its component parallel to the surface is (1.50 m) cos 141° = −1.17 m, 
+or 1.17 m toward the top of the hill; (b) Its component perpendicular to 
+the surface is (1.50 m) sin 141° = 0.944 m, or 0.944 m away from the 
+snow. 
+P3.30 
+42.7 yards 
+P3.32 
+Cx = 7.30 cm; Cy = −7.20 cm 
+P3.34 
+59.2° with the x axis, 39.8° with the y axis, 67.4° with the z axis 
+P3.36 
+(a) 5.00ˆi −1.00ˆj−3.00 ˆk, 5.92 m;(b) (4.00ˆi −11.0ˆj+ 15.0 ˆk) m, 19.0) m 
+P3.38 
+(a) 49.5ˆi + 27.1ˆj;(b) 56.4, 28.7° 
+P3.40 
+magnitude: 170.1 cm, direction: 57.2° above +x axis (first quadrant); 
+magnitude: 145.7 cm, direction: 58.6° above +x axis (first quadrant) 
+P3.42 
+(a) 3.12ˆi+ 5.02ˆj −2.20 ˆk
+(
+)km; (b) 6.31 km 
+P3.44 
+Impossible because 12.4 m is greater than 5.00 m
+
+--- PAGE 33 ---
+130     Vectors 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P3.46 
+(a) 5 = 11 f
+(
+)ˆi + 3 + 9 f
+(
+)ˆj meters; (b) 5 + 0
+(
+)ˆi + 3 + 0
+(
+)ˆj meters; (c) This 
+is reasonable because it is the location of the starting point, 5ˆi + 3ˆj 
+meters. (d) 16ˆi + 12ˆj meters; (e) This is reasonable because we have 
+completed the trip, and this is the position vector of the endpoint. 
+P3.48 
+2.24 m, 26.6° 
+P3.50 
+390 mi/h at 7.37° N of E 
+P3.52 
+86.6 m, –50.0 m 
+P3.54 
+2.29 km 
+P3.56 
+(a) The perimeter measures 2(H + W) = 11.24 m; (b) magnitude: 12.9 m, 
+direction: 36.4° above +x axis (first quadrant) 
+P3.58 
+(a) 7.17 km; (b) 6.15 km 
+P3.60 
+θ = 2tan−1
+1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P3.62 
+0.456ˆi m −0.708ˆj m 
+P3.64 
+(a) 496 m, 65.1° N of W; (b) The arguments are justified because the 
+distances involved are small relative to the radius of the Earth. 
+P3.66 
+φ = 2θ = 106°

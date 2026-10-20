@@ -1,0 +1,1156 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Create a Table in Word 
+A table is a structure of vertical columns and horizontal rows with a cell at every intersection. 
+
+Each cell can contain text or graphics, and you can format the table in any way you want. 
+
+Usually the top row in the table is kept as a table header and can be used to put some informative instruction.
+
+--- SLIDE 5 ---
+Create a Table
+Step 1
+Click the Insert tab followed by the Table button. This will display a simple grid as shown below. 
+When you move your mouse over the grid cells, it makes a table in the table that appears in the document. You can make your table having the desired number of rows and columns.
+
+--- SLIDE 6 ---
+Create a Table
+Step 2
+Click the square representing the lower-right corner of your table, which will create an actual table in your document and Word goes in the table design mode. 
+The table design mode has many options to work with as shown below.
+
+
+--- SLIDE 7 ---
+Create a Table
+Step 3
+This is an optional step that can be worked out if you want to have a fancy table. 
+Click the Table Styles button to display a gallery of table styles. When you move your mouse over any of the styles, it shows real time preview of your actual table.
+
+
+--- SLIDE 8 ---
+Create a Table
+Step 4
+To select any of the styles, just click the built-in table style and you will see that the selected style has been applied on your table.
+
+
+
+--- SLIDE 9 ---
+Delete a Table
+Step 1
+Click anywhere in the table you want to delete.
+Step 2  
+Click the Layout tab, and click the Delete Table option under the Delete Table Button to delete the complete table from the document along with its content.
+
+
+
+--- SLIDE 10 ---
+Add a Row
+Step 1
+Click a row where you want to add an additional row and then 
+Click the Layout tab; it will show the following screen.
+
+
+
+--- SLIDE 11 ---
+Add a Row
+Step 2
+Now use the Row & Column group of buttons to add any row below or above to the selected row. 
+If you click the Insert Below button, it will add a row just below the selected row as follows.
+
+
+
+--- SLIDE 12 ---
+Delete a Row
+Step 1
+Click a row which you want to delete from the table and then click the Layout tab; it will show the following screen.
+
+
+
+--- SLIDE 13 ---
+Delete a Row
+Step 2
+Click the Layout tab, and then click the Delete Rows option under the Delete Table Button to delete the selected row.
+
+
+
+
+--- SLIDE 14 ---
+Add a Column
+Step 1
+Click a column where you want to add an additional column and then click the Layout tab; it will show the following screen.
+
+
+
+
+--- SLIDE 15 ---
+Add a Column
+Step 2
+Now use the Row & Column group of buttons to add any column to the left or right of the selected column. 
+If you click the Insert Left button, it will add a column just left to the selected column as follows.
+
+
+
+
+--- SLIDE 16 ---
+Delete a Column
+Step 1
+Click a column which you want to delete from the table and then click the Layout tab; it will show the following screen.
+
+
+
+
+
+--- SLIDE 17 ---
+Delete a Column
+Step 2
+Click the Layout tab, and click the Delete Column option under the Delete Table Button to delete the selected column.
+
+
+
+
+
+--- SLIDE 18 ---
+Move a Table
+Step 1
+Bring your mouse pointer over the table which you want to move from one location to another location. 
+As soon as you bring your mouse pointer inside the table, a small Cross Icon will appear at the top-left corner of the table as shown below.
+
+
+
+
+
+--- SLIDE 19 ---
+Move a Table
+Step 2
+Click over the small Cross Icon which will select the whole table. Once the table is selected, use the Cut button or simply press the Ctrl + X keys to cut the table from its original location.
+Step 3 
+Bring your insertion point at the location where you want to move the table and use Paste button or simply press Ctrl + V keys to paste the table at the new location.
+
+
+
+
+--- SLIDE 20 ---
+Resize a Table
+Step 1
+Bring your mouse pointer over the table which you want to resize.
+As soon as you bring your mouse pointer inside the table, a small Cross Icon will appear at the top-left corner and a small Resize Icon will appear at the bottom-right corner of the table as shown below.
+
+
+
+--- SLIDE 21 ---
+Resize a Table
+Step 2
+Bring the mouse pointer over the Resize Icon till it changes to a diagonal double sided arrow and this is the time when you need to press the left mouse button and keep holding the button while resizing the table.
+
+
+
+--- SLIDE 22 ---
+Merging Cells
+Step 1
+Bring your mouse pointer position inside the first cell that you want to merge. 
+Now press the Shift key and click the cells around the cell which you want to merge into the first cell. 
+This will highlight the cells which you click and they will be ready to be merged.
+
+
+
+--- SLIDE 23 ---
+Merging Cells
+Step 2
+ Now click the Layout tab.
+Click the Merge Cells button which will merge all the selected cells.
+
+
+
+--- SLIDE 24 ---
+Split a Table
+Step 1
+Bring your mouse pointer position anywhere in the row that should appear as the first row of the new table.
+
+--- SLIDE 25 ---
+Split a Table
+Step 2
+Now click the Layout tab and then 
+Click the Split Table button which will split the table into two tables and the selected row will become the first row of the lower table.
+
+
+--- SLIDE 26 ---
+Split a Table
+Step 2
+After splitting the table into two tables, you can further divide it into two parts and you can continue dividing the Word tables as long as a table has more than one row.
+
+
+--- SLIDE 27 ---
+Split a Cell
+Step 1
+Bring your mouse pointer position inside the cell that has to be divided into multiple cells.
+
+
+--- SLIDE 28 ---
+Split a Cell
+Step 2
+Now click the Layout tab and then click the Split Cells button; this will display a dialog box asking for the number of rows and columns to be created from the selected cell.
+
+
+
+--- SLIDE 29 ---
+Split a Cell
+Step 3
+Select the desired number of rows and columns that have to go into the resultant cell and 
+finally click the OK button to apply the result.
+
+
+
+
+--- SLIDE 30 ---
+Add a Formula
+Step 1
+Consider the following table with the total number of rows. Click in a cell that should contain the sum of the rows.
+
+
+
+
+
+--- SLIDE 31 ---
+Add a Formula
+Step 2
+Now click the Layout tab and then click the Formula button; this will display a Formula Dialog Box which will suggest a default formula, which is =SUM(LEFT) in our case. 
+
+You can select a number format using Number Format List Box to display the result or you can change the formula using the Formula List Box.
+
+
+
+
+
+--- SLIDE 32 ---
+Add a Formula
+Step 3
+Now click OK to apply the formula and you will see that the left cells have been added and the sum has been put in the total cell where we wanted to have it.
+
+
+
+
+--- SLIDE 33 ---
+Cell Formulae
+
+--- SLIDE 34 ---
+Add Borders to Table
+Step 1
+Select the table to which you want to add border. 
+
+To select a table, click over the table anywhere which will make the Cross icon visible at the top-left corner of the table. 
+
+Click this cross icon to select the table.
+
+
+
+
+--- SLIDE 35 ---
+Add Borders to Table
+Step 2
+Click the home tab and then click the Border button to display a list of options to put a border around the selected table. 
+You can select any of the option available by simply clicking over it.
+
+
+
+--- SLIDE 36 ---
+Add Borders to Table
+Step 3
+Try to add and remove different borders like left, right, top or bottom by selecting different options from the border options.
+
+
+
+--- SLIDE 37 ---
+Add Borders to Table
+
+Step 4
+You can apply border to any of the selected row or column. You can try it yourself.
+
+Step 5
+To delete the existing border, simply select the No Border option from the border options.
+
+
+
+
+--- SLIDE 38 ---
+Using Border Options
+Step 1
+Click the Border button to display a list of options to put a border.
+Select the Border and Shading option available at the bottom of the list of options as shown in the screenshot. 
+This will display a Border and Shading dialog box.
+
+
+
+--- SLIDE 39 ---
+Using Border Options
+
+Step 2
+Click the Border tab; this will display a list of border settings, styles and options whether this border should be applied to the table or text or paragraph.
+
+Step 3
+You can use the Preview section to disable or enable left, right, top or bottom borders of the selected table or row or column.
+
+
+
+
+--- SLIDE 40 ---
+Using Border Options
+Step 4
+You can customize your border by setting its colour, width by using different width thickness available under the style section.
+
+
+
+--- SLIDE 41 ---
+Add Shades To Table
+Step 1
+Select a row or column where you want to apply a shade of your choice.
+
+
+
+--- SLIDE 42 ---
+Add Shades To Table
+Step 2
+Click the Border button to display a list of options to put a border.
+Select the Border and Shading option available at the bottom of the list of options. 
+This will display a Border and Shading dialog box.
+
+
+--- SLIDE 43 ---
+Using Border Options
+
+Step 3
+Click the Shading tab which will display options to select fill, colour and style and whether this border should be applied to cell or table or selected portion of text.
+
+Step 4
+You can use the Preview section to have an idea about the expected result. 
+Once you are done, click the OK button to apply the result..
+
+
+
+
+--- SLIDE 44 ---
+Pictures and Text Wrapping
+
+Adding pictures to your document can be a great way to illustrate important information and add decorative accents to existing text. 
+
+Used in moderation, pictures can improve the overall appearance of your document.
+
+--- SLIDE 45 ---
+To insert a picture from a file
+If you have a specific image in mind, you can insert a picture from a file. In our example, we'll insert a picture saved locally on our computer.
+Place the insertion point where you want the image to appear.
+Select the Insert tab on the Ribbon, then click the Pictures command.
+
+
+--- SLIDE 46 ---
+To insert a picture from a file
+The Insert Picture dialog box will appear. Navigate to the folder where your image is located, then select the image and click Insert.
+
+
+--- SLIDE 47 ---
+To insert a picture from a file
+The image will appear in the document.
+
+
+--- SLIDE 48 ---
+Resize an image
+To resize an image, click and drag one of the corner sizing handles. 
+The image will change size while keeping the same proportions. 
+If you want to stretch it horizontally or vertically, you can use the side sizing handles.
+
+--- SLIDE 49 ---
+Changing text wrapping settings
+When you insert a picture from a file, you may notice that it's difficult to move it exactly where you want. 
+
+This is because the text wrapping for the image is set to In Line with Text. 
+
+You'll need to change the text wrapping setting if you want to move the image freely, or if you just want the text to wrap around the image in a more natural way.
+
+--- SLIDE 50 ---
+To wrap text around an image
+Select the image you want to wrap text around. The Format tab will appear on the right side of the Ribbon.
+
+
+
+--- SLIDE 51 ---
+To wrap text around an image
+On the Format tab, click the Wrap Text command in the Arrange group, then select the desired text wrapping option. 
+
+In our example, we'll select In Front of Text so we can freely move it without affecting the text. 
+
+You can also select More Layout Options to fine tune the layout.
+
+
+
+--- SLIDE 52 ---
+To wrap text around an image
+The text will wrap around the image. You can now move the image if you want. Just click and drag it to the desired location. As you move it, alignment guides will appear to help you align the image on the page.
+
+--- SLIDE 53 ---
+To wrap text around an image
+You can also access text wrapping options by selecting the image and clicking the Layout Options button that appears at the upper right corner of the selected image.
+
+
+--- SLIDE 54 ---
+Using a predefined text wrapping setting
+Predefined text wrapping allows you to quickly move the image to a specific location on the page.
+The text will automatically wrap around the object so it's still easy to read.
+
+--- SLIDE 55 ---
+Inserting online pictures
+If you don't have the picture you want on your computer, you can find a picture online to add to your document. 
+
+Word offers two(2) options for finding online pictures:
+
+Bing Image Search
+
+OneDrive
+
+--- SLIDE 56 ---
+Inserting online pictures
+Bing Image Search: You can use this option to search the Internet for images. By default, Bing only shows images that are licensed under Creative Commons, which means you can use them for your own projects. 
+
+However, you should click the link to the image's website to see if there are any restrictions on how it can be used.
+
+--- SLIDE 57 ---
+Inserting online pictures
+Bing Image Search:
+
+--- SLIDE 58 ---
+Inserting online pictures
+OneDrive: You can insert an image stored on your OneDrive. 
+You can also link other online accounts with your Microsoft account, including Facebook and Flickr.
+
+--- SLIDE 59 ---
+To insert an online picture
+Place the insertion point where you want the image to appear.
+Select the Insert tab, then click the Online Pictures command.
+
+
+--- SLIDE 60 ---
+To insert an online picture
+The Insert Pictures dialog box will appear.
+Choose Bing Image Search or your OneDrive. In our example, we'll use Bing Image Search.
+
+
+--- SLIDE 61 ---
+To insert an online picture
+Press the Enter key. Your search results will appear in the box.
+Select the desired image, then click Insert.
+
+--- SLIDE 62 ---
+To insert an online picture
+The image will appear in the document.
+
+
+--- SLIDE 63 ---
+Word - Formatting Pictures
+There are many ways to format pictures in Word.
+
+For instance, you can change the size or shape of an image to better suit your document. 
+
+You can also enhance its appearance using Word's image adjustment tools.
+
+--- SLIDE 64 ---
+To crop an image
+There are many ways to format pictures in Word.
+
+For instance, you can change the size or shape of an image to better suit your document. 
+
+You can also enhance its appearance using Word's image adjustment tools.
+
+--- SLIDE 65 ---
+To crop an image
+When you crop an image, part of the picture is removed. 
+Cropping can be useful if you're working with an image that's too big and you want to focus on only part of it.
+Select the image you want to crop. The Format tab will appear.
+From the Format tab, click the Crop command.
+
+--- SLIDE 66 ---
+To crop an image
+Cropping handles will appear on the sides and corners of the image. 
+Click and drag any handle to crop the image. Because the cropping handles are near the resizing handles, be careful not to drag a resizing handle by mistake..
+
+--- SLIDE 67 ---
+To crop an image
+To confirm, click the Crop command again. The image will be cropped.
+The corner handles are useful for simultaneously cropping the image horizontally and vertically.
+
+
+--- SLIDE 68 ---
+To crop an image to a shape
+Select the image you want to crop, then click the Format tab.
+Click the Crop drop-down arrow. Hover over Crop to Shape, then select the desired shape from the drop-down menu.
+
+--- SLIDE 69 ---
+To crop an image to a shape
+The image will be cropped to the chosen shape.
+
+--- SLIDE 70 ---
+To add a border to a picture
+Select the picture you want to add a border to, then click the Format tab.
+Click the Picture Border command. A drop-down menu will appear.
+From here, you can select a color, weight (thickness), and whether the line is dashed.
+The border will appear around the image.
+
+--- SLIDE 71 ---
+Making image adjustments
+With Word's image adjustment tools, you can easily change properties like color, contrast, saturation, and tone. 
+
+Word also offers built-in picture styles, which can be used to add a frame, drop shadow, and other predefined effects.
+
+When you're ready to adjust an image, simply select it. Then use the options below, which can be found on the Format tab.
+
+
+
+--- SLIDE 72 ---
+Corrections
+From here, you can sharpen or soften the image to adjust how clear or blurry it appears. 
+You can also adjust brightness and contrast, which affect the image's lightness and general intensity.
+
+
+--- SLIDE 73 ---
+Color
+Using this command, you can adjust the image's saturation (how vibrant the colors appear), tone (the color temperature of the image, from cool to warm), and coloring (the overall tint of the image).
+
+--- SLIDE 74 ---
+Artistic Effects
+Here, you can apply special effects to your image, such as pastel, watercolor, or glowing edges. Because the results are so bold, you may want to use these effects sparingly (especially in professional documents).
+
+--- SLIDE 75 ---
+Picture Styles group
+This group contains different predefined styles that make image formatting even easier. 
+Picture styles are designed to frame your image without changing its basic settings or effects.
+
+--- SLIDE 76 ---
+Picture Styles group
+This group contains different predefined styles that make image formatting even easier. 
+Picture styles are designed to frame your image without changing its basic settings or effects.
+
+--- SLIDE 77 ---
+To compress a picture
+Select the picture you want to compress, then navigate to the Format tab.
+Click the Compress Pictures command.
+
+
+
+
+
+
+
+A dialog box will appear. Check the box next to Delete cropped areas of pictures. You can also choose whether to apply the settings to this picture only or to all pictures in the document.
+
+--- SLIDE 78 ---
+To compress a picture
+Choose a Target output. If you are emailing your document, you may want to select Email, which produces the smallest file size.
+
+Click OK.
+
+
+
+--- SLIDE 79 ---
+Word - Shapes
+You can add a variety of shapes to your document, including arrows, callouts, squares, stars, and flowchart shapes. 
+
+Want to set your name and address apart from the rest of your resume? Use a line. 
+
+Need to create a diagram showing a timeline or process? Use flowchart shapes. 
+
+While you may not need shapes in every document you create, they make word document visually appealing and also add clarity.
+
+--- SLIDE 80 ---
+To insert a shape
+Select the Insert tab, then click the Shapes command. A drop-down menu of shapes will appear.
+Select the desired shape.
+
+--- SLIDE 81 ---
+To insert a shape
+Click and drag in the desired location to add the shape to your document.
+
+
+--- SLIDE 82 ---
+To insert a shape
+If you want, you can enter text in a shape. When the shape appears in your document, you can begin typing. 
+
+You can then use the formatting options on the Home tab to change the font, font size, or color of the text.
+
+
+--- SLIDE 83 ---
+To change the order of shapes
+
+If one shape overlaps another, you may need to change the ordering so the correct shape appears in front. 
+
+You can bring a shape to the front or send it to the back. If you have multiple images, you can use Bring to Front or Send to Back to adjust the ordering. 
+
+You can also move a shape in front of or behind text.
+
+--- SLIDE 84 ---
+To change the order of shapes
+Right-click the shape you want to move. 
+In our example, we want the heart to appear behind the ribbon, so we'll right-click the heart.
+
+--- SLIDE 85 ---
+To change the order of shapes
+In the menu that appears, hover over Bring to Front or Send to Back. 
+Several ordering options will appear. Select the desired ordering option. In this example, we'll choose Send to Back.
+
+--- SLIDE 86 ---
+To change the order of shapes
+The order of the shapes will change.
+
+--- SLIDE 87 ---
+To change the order of shapes
+If you have several shapes placed on top of each other, it may be difficult to select an individual shape. 
+The Selection pane allows you to select a shape and drag it to a new location. 
+To access the Selection pane, click Selection Pane on the Format tab.
+
+--- SLIDE 88 ---
+To resize a shape
+Select the shape you want to resize. 
+Sizing handles will appear on the corners and sides of the shape.
+
+--- SLIDE 89 ---
+To resize a shape
+Click and drag the sizing handles until the shape is the desired size. 
+You can use the corner sizing handles to change the shape's height and width at the same time.
+
+--- SLIDE 90 ---
+To resize a shape
+To rotate the shape, click and drag the rotation handle.
+
+--- SLIDE 91 ---
+To resize a shape
+Some shapes also have one or more yellow handles that can be used to modify the shape. 
+For example, with banner shapes you can adjust the position of the folds.
+
+
+--- SLIDE 92 ---
+Modifying shapes
+Word allows you to modify your shapes in a variety of ways so you can tailor them to your projects. 
+
+You can change a shape into a different shape, format a shape's style and color, and add various effects.
+
+--- SLIDE 93 ---
+To change the shape style
+Choosing a shape style allows you to apply preset colors and effects to quickly change the appearance of your shape.
+Select the shape you want to change.
+
+--- SLIDE 94 ---
+To change the shape style
+On the Format tab, click the More drop-down arrow in the Shape Styles group.
+
+
+
+
+A drop-down menu of styles will appear. Select the style you want to use.
+
+--- SLIDE 95 ---
+To change the shape style
+The shape will appear in the selected style.
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 96 ---
+To change the shape fill color
+Select the shape you want to change.
+
+
+
+
+
+
+
+
+
+--- SLIDE 97 ---
+To change the shape fill color
+On the Format tab, click the Shape Fill drop-down arrow.
+
+Select the color you want to use. 
+
+To view additional color options, select More Fill Colors.
+
+
+
+
+
+
+
+
+
+--- SLIDE 98 ---
+To change the shape fill color
+The shape will appear in the selected fill color.
+
+
+
+
+
+
+
+
+If you want to use a different type of fill, select Gradient or Texture from the drop-down menu. 
+You can also select No Fill to make it transparent.
+
+
+
+
+
+
+
+--- SLIDE 99 ---
+To change the shape outline
+Select the shape you want to change.
+
+
+
+
+
+
+--- SLIDE 100 ---
+To change the shape outline
+On the Format tab, click the Shape Outline drop-down arrow. The Shape Outline menu will appear.
+
+Select the color you want to use. If you want to make the outline transparent, select No Outline.
+
+
+
+
+--- SLIDE 101 ---
+To change the shape outline
+The shape will appear in the selected outline color.
+
+
+
+
+
+
+
+
+--- SLIDE 102 ---
+To change the shape outline
+From the drop-down menu, you can change the outline color, weight (thickness), and whether it is a dashed line.
+
+
+--- SLIDE 103 ---
+To add shape effects
+Select the shape you want to change.
+
+--- SLIDE 104 ---
+To add shape effects
+On the Format tab, click the Shape Effects drop-down arrow. 
+In the menu that appears, hover the mouse over the style of effect you want to add, then select the desired preset effect.
+
+--- SLIDE 105 ---
+To add shape effects
+The shape will appear with the selected effect.
+
+--- SLIDE 106 ---
+To add shape effects
+To further adjust your shape effects, select Options at the end of each menu. 
+The Format Shape pane will appear, allowing you to customize the effects.
+
+--- SLIDE 107 ---
+To change to a different shape
+Select the shape you want to change. The Format tab will appear.
+
+
+--- SLIDE 108 ---
+To change to a different shape
+On the Format tab, click the Edit Shape command. 
+In the menu that appears, hover the mouse over Change Shape, then select the desired shape.
+
+--- SLIDE 109 ---
+To change to a different shape
+The new shape will appear.
+
+--- SLIDE 110 ---
+Word - Text Boxes
+Text boxes can be useful for drawing attention to specific text. 
+
+They can also be helpful when you need to move text around in your document. 
+
+Word allows you to format text boxes and the text within them using a variety of styles and effects.
+
+--- SLIDE 111 ---
+To insert a text box
+Select the Insert tab, then click the Text Box command in the Text group.
+
+
+
+A drop-down menu will appear. Select Draw Text Box.
+
+
+
+--- SLIDE 112 ---
+To insert a text box
+Click and drag anywhere on the document to create the text box.
+
+
+--- SLIDE 113 ---
+To insert a text box
+The insertion point will appear inside the text box. 
+You can now type to create text inside the text box.
+
+
+--- SLIDE 114 ---
+To insert a text box
+If you want, you can select the text and then change the font, color, and size by using the commands on the Format and Home tabs. 
+To learn more about using these formatting commands, review our Formatting Text lesson.
+Click anywhere outside the text box to return to your document.
+
+--- SLIDE 115 ---
+To insert a text box
+You can also select one of the built-in text boxes that have predefined colors, fonts, positions, and sizes. 
+If you choose this option, the text box will appear automatically, so you will not need to draw it.
+
+--- SLIDE 116 ---
+To move a text box
+Click the text box you want to move.
+Hover the mouse over one of the edges of the text box. The mouse will change into a cross with arrows.
+Click and drag the text box to the desired location.
+
+--- SLIDE 117 ---
+To resize a text box
+Click the text box you want to resize.
+Click and drag any of the sizing handles on the corners or sides of the text box until it is the desired size.
+
+--- SLIDE 118 ---
+Modifying text boxes
+Word offers several options for changing the way text boxes appear in your document. 
+
+You can change the shape, style, and color of text boxes or add various effects.
+
+--- SLIDE 119 ---
+To change the shape style
+Choosing a shape style allows you to apply preset colors and effects to quickly change the appearance of your text box.
+
+Select the text box you want to change.
+On the Format tab, click the More drop-down arrow in the Shape Styles group.
+
+
+
+--- SLIDE 120 ---
+To change the shape style
+A drop-down menu of styles will appear. 
+Select the style you want to use.
+
+--- SLIDE 121 ---
+To change the shape style
+The text box will appear in the selected style.
+
+--- SLIDE 122 ---
+To change the text box shape
+Changing the shape of a text box can be a useful option for creating an interesting look in your document.
+Select the text box you want to change. The Format tab will appear.
+From the Format tab, click the Edit Shape command.
+
+
+--- SLIDE 123 ---
+To change the text box shape
+Hover the mouse over Change Shape, then select the desired shape from the menu that appears.
+
+
+--- SLIDE 124 ---
+To change the text box shape
+The text box will appear formatted as the shape.
+
+--- SLIDE 125 ---
+Word - Aligning, Ordering, and Grouping Objects
+
+There may be times when your documents have multiple objects, such as pictures, shapes, and text boxes. 
+
+You can arrange the objects any way you want by aligning, grouping, ordering, and rotating them in various ways.
+
+--- SLIDE 126 ---
+To align two or more objects
+
+There may be times when your documents have multiple objects, such as pictures, shapes, and text boxes. 
+
+You can arrange the objects any way you want by aligning, grouping, ordering, and rotating them in various ways.
+
+--- SLIDE 127 ---
+To align two or more objects
+Hold the Shift (or Ctrl) key and click the objects you want to align. 
+In our example, we'll select the four shapes on the right.
+
+--- SLIDE 128 ---
+To align two or more objects
+From the Format tab, click the Align command, then select one of the alignment options. 
+In our example, we'll choose Align Right.
+
+--- SLIDE 129 ---
+To align two or more objects
+The objects will be aligned based on the selected option. 
+In our example, the shapes are now aligned with each other.
+
+--- SLIDE 130 ---
+To distribute objects evenly
+If you have arranged your objects in a row or column, you may want them to be an equal distance from one another for a neater appearance.
+
+You can do this by distributing the objects horizontally or vertically.
+
+--- SLIDE 131 ---
+To distribute objects evenly
+Hold the Shift (or Ctrl) key and click the objects you want to distribute.
+On the Format tab, click the Align command, then select Distribute Horizontally or Distribute Vertically.
+
+--- SLIDE 132 ---
+To distribute objects evenly
+The objects will be evenly spaced from one another.
+
+--- SLIDE 133 ---
+Grouping objects
+At times, you may want to group multiple objects into one object so they will stay together. 
+
+This is usually easier than selecting them individually, and it also allows you to resize and move all of the objects at the same time.
+
+--- SLIDE 134 ---
+To group objects
+Hold the Shift (or Ctrl) key and click the objects you want to group.
+Click the Group command on the Format tab, then select Group.
+
+--- SLIDE 135 ---
+To ungroup objects
+Select the grouped object. From the Format tab,
+Click the Group command and select Ungroup.
+
+--- SLIDE 136 ---
+To ungroup objects
+The objects will be ungrouped.
+
+--- SLIDE 137 ---
+Ordering objects
+In addition to aligning objects, Word gives you the ability to arrange objects in a specific order. 
+
+The ordering is important when two or more objects overlap because it determines which objects are in the front or the back.
+
+--- SLIDE 138 ---
+Understanding levels
+Objects are placed on different levels according to the order in which they were inserted into a document. 
+
+In the example below, if we move the waves image to the beginning of the document, it covers the image of the bird. 
+
+This is because the image is currently on the highest—or top—level. However, we can change its level to put it behind the other objects.
+
+
+--- SLIDE 139 ---
+Understanding levels
+
+--- SLIDE 140 ---
+To change an object's level
+Select the object you want to move. In our example, we'll select the image of the waves.
+From the Format tab, click the Bring Forward or Send Backward command to change the object's ordering by one level. In our example, we'll select Send Backward.
+
+--- SLIDE 141 ---
+To change an object's level
+Select the object you want to move. In our example, we'll select the image of the waves.
+From the Format tab, click the Bring Forward or Send Backward command to change the object's ordering by one level. In our example, we'll select Send Backward.
+
+--- SLIDE 142 ---
+To change an object's level
+If you want to move an object behind or in front of several objects, it's usually faster to use Bring Forward or Send Backward instead of clicking the other ordering command multiple times.
+
+--- SLIDE 143 ---
+To rotate or flip an object
+If you need to turn an object so it faces a different direction, you can rotate it to the left or right, or you can flip it horizontally or vertically.
+With the desired object selected, click the Rotate command on the Format tab, then choose the desired rotation option. In our example, we'll choose rotate left 90 degrees.
+
+--- SLIDE 144 ---
+Word - Charts
+A chart is a tool you can use to communicate information graphically. 
+
+Including a chart in your document can help you illustrate numerical data like comparisons and trends so it's easier for the reader to understand.
+
+--- SLIDE 145 ---
+Types of charts
+There are several types of charts to choose from. 
+
+To use charts effectively, you'll need to understand what makes each one unique.
+
+--- SLIDE 146 ---
+Types of charts
+
+--- SLIDE 147 ---
+Types of charts
+
+--- SLIDE 148 ---
+Types of charts
+
+--- SLIDE 149 ---
+Types of charts
+
+--- SLIDE 150 ---
+Types of charts
+
+--- SLIDE 151 ---
+Types of charts
+
+--- SLIDE 152 ---
+Identifying the parts of a chart
+In addition to chart types, you'll need to understand how to read a chart. 
+Charts contain several different elements—or parts—that can help you interpret data.
+
+--- SLIDE 153 ---
+Identifying the parts of a chart
+Chart Title: The title should clearly describe what the chart is illustrating.
+
+Vertical Axis: 
+The vertical axis (also known as the y axis) is the vertical part of the chart. 
+Here, the vertical axis measures the value of the columns. 
+In this example, the measured value is each genre's total sales.
+
+
+
+--- SLIDE 154 ---
+Identifying the parts of a chart
+Horizontal Axis
+The horizontal axis (also known as the x axis) is the horizontal part of the chart. 
+Here, the horizontal axis identifies the categories in the chart. 
+In this example, each genre is placed in its own group.
+Data Series
+The data series consists of the related data points in a chart. 
+In this example, as we can see in the legend, the yellow columns represent net sales in February.
+
+--- SLIDE 155 ---
+Identifying the parts of a chart
+Legend
+The legend identifies which data series each color on the chart represents. 
+In this example, the legend identifies the different months in the chart.
+
+--- SLIDE 156 ---
+To insert a chart
+Place the insertion point where you want the chart to appear.
+Navigate to the Insert tab, then click the Chart command in the Illustrations group.
+
+--- SLIDE 157 ---
+To insert a chart
+A dialog box will appear. To view your options, choose a chart type from the left pane, then browse the charts on the right.
+Select the desired chart, then click OK.
+
+--- SLIDE 158 ---
+To insert a chart
+A chart and spreadsheet window will appear. The text in the spreadsheet is merely a placeholder that you'll need to replace with your own source data. The source data is what Word will use to create the chart.
+
+--- SLIDE 159 ---
+To insert a chart
+Enter your source data into the spreadsheet.
+
+--- SLIDE 160 ---
+To insert a chart
+Only the data enclosed in the blue box will appear in the chart. If necessary, click and drag the lower-right corner of the blue box to manually increase or decrease the data range.
+
+
+--- SLIDE 161 ---
+To insert a chart
+When you're done, click X to close the spreadsheet window.
+
+--- SLIDE 162 ---
+To insert a chart
+The chart will be complete.
+
+--- SLIDE 163 ---
+To edit a chart
+To edit your chart again, simply select it, then click the Edit Data command on the Design tab. The spreadsheet window will reappear..
+
+--- SLIDE 164 ---
+Modifying charts with chart tools
+
+There are many ways to customize and organize your chart in Word.
+
+ For example, you can quickly change the chart type, rearrange the data, and even change the chart's appearance.
+
+--- SLIDE 165 ---
+To switch row and column data
+Select the chart you want to modify. The Design tab will appear on the right side of the Ribbon.
+
+--- SLIDE 166 ---
+To switch row and column data
+From the Design tab, click the Edit Data command in the Data group.
+
+
+
+Click the chart again to reselect it, then click the Switch Row/Column command.
+
+
+--- SLIDE 167 ---
+To switch row and column data
+The rows and columns will be switched. 
+In our example, the data is now grouped by month, with columns for each genre.
+
+--- SLIDE 168 ---
+To change the chart type
+
+If you find that your chosen chart type isn't suited to your data, you can change it to a different one. 
+
+In our example, we'll change the chart type from a column chart to a line chart.
+
+--- SLIDE 169 ---
+To change the chart type
+Select the chart you want to change. The Design tab will appear.
+
+From the Design tab, click the Change Chart Type command.
+
+--- SLIDE 170 ---
+To change the chart type
+A dialog box will appear. 
+Select the desired chart, then click OK.
+
+--- SLIDE 171 ---
+To change the chart type
+The new chart type will be applied. 
+In our example, the line chart makes it easier to see trends over time.
+
+--- SLIDE 172 ---
+To change the chart layout
+Select the chart you want to modify. The Design tab will appear.
+From the Design tab, click the Quick Layout command.
+
+--- SLIDE 173 ---
+To change the chart layout
+Choose the desired layout from the drop-down menu.
+
+--- SLIDE 174 ---
+To change the chart layout
+The chart will update to reflect the new layout.
+
+
+--- SLIDE 175 ---
+To change the chart style
+Select the chart you want to modify. The Design tab will appear.
+From the Design tab, click the More drop-down arrow in the Chart Styles group.
+
+--- SLIDE 176 ---
+To change the chart style
+A drop-down menu of styles will appear. Select the style you want.
+
+
+
+--- SLIDE 177 ---
+To change the chart style
+The chart style will be applied.
+
+
+--- SLIDE 178 ---
+To change the chart style
+For even faster customization, use the formatting shortcuts to the right of your chart. 
+
+These allow you to adjust the chart style, chart elements, and even add filters to your data.
+
+--- SLIDE 179 ---
+
+--- SLIDE 180 ---
+THANK YOU

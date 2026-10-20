@@ -1,0 +1,41 @@
+ADEDAPO IFEOLUWA EGBEMODE
+SM/SMS/09/0052
+EXPERIMENT 4
+EXPERIMENT ON VISCOSITY MEASUREMENT WITH THE FALLING BALL VISCOMETER
+PHY-103
+29/09/09.
+AIM: TO DETERMINE COEFICIENT OF CUBIC EXPANSION OF GLYCERINE USING SPECIFIC GRAVITY BOTTLE.
+APPARATUS
+Specific gravity bottle with a well fitting stopper, glycerine, water- bath, clamp and thermometer (1.0℃), cotton thread, filter paper, electronic balance (0.1g).
+DIAGRAM  
+THE  COEFICIENT OF CUBIC EXPANSIVITY.
+ THEORY. 
+Cubic expansivity is the increase in volume of a substance per unit volume per Kelvin rise in temperature.  When a liquid is heated its molecules gain kinetic energy which enables them to overcome their intermolecular forces. Therefore the vibrations of the molecules increase and their displacement about their mean positions also increase. As a result of this the average distance between the molecules of the liquid becomes larger leading to an increase in size of the liquid. This increase in size of the liquid is called expansion. This   expansion occurs in all direction hence the increase in the volume of the liquid. This increase in volume when the liquid was heated is called cubic expansivity.
+METHOD
+ A specific gravity bottle was rinsed with methylated spirit and allowed to dry by blowing air into it. The bottle was weighed with the stopper on it and recorded as Mo. The bottle was filled with glycerine from a beaker. The stopper was inserted, handling the bottle as little as possible to avoid warming it, the outside of the bottle and the stopper was cleaned thoroughly with a handkerchief. The bottle was weighed again and recorded as M1.  The temperature of glycerine was taken and recorded as t1. A cotton thread was tied around the neck of the bottle and suspended in the water bath from the clamp so that it was almost completely immersed in the water bath. The water bath was heated and the water was left to boil for some time. The temperature of the boiling water is taken and recorded as t2. The bottle was wiped thoroughly, allowed to cool and reweighed and the mass recorded as M2. 
+TABLE OF RESULTS: 
+CALCULATION
+g= 0.000026
+DISCUSSION
+Theoretically the coefficient of cubic expansivity of glycerine is 4.85 ×  at a temperature of 20℃.   From the experiment the coefficient of cubic expansivity was found to be at a temperature of 28℃. There is a difference in the coefficient of cubic expansivity which is 1.025. The change in temperature caused the respective difference in the coefficient of cubic expansivity of glycerine. Other sources of error like buoyancy effect, air current acting upon the object by surrounding air caused an increase or decrease in the original value due to density of air, impure glycerine delayed expansion and reduced the boiling point of the glycerine when it was heated, and the corroded balance pan affected the accuracy of the mass reading.
+SOURCES OF ERROR
+Error may be due to inaccuracy of the balance due to corrosion. 
+Error may be due to effect of air current on the balance which affected the reading and precision.
+Error may be due to holding of specific gravity bottle which caused change in temperature.
+Errors may be due to impure glycerine. 
+PRECAUTION
+It was ensured that glycerine around the specific gravity bottle was wiped thoroughly to avoid inaccurate reading and corrosion of pan. 
+It was ensured that the specific gravity bottle was rinsed with methylated spirit to avoid traces of water for accuracy.
+It was ensured that the balance was tarred before measurements were taken. 
+It was ensured that the bottle was completely immersed into the water bath for even distribution of heat.
+CONCLUSION-  From the experiment the coefficient of cubical expansivity of glycerine is 5.875× at temperature of 29℃.
+REFERENCES
+RAYMOND A. SERWAY, JERRY S. FAUGHN (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER, PAGE 312-315.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH SDITION, WESLEY PUBLISHING COMPANY, PAGE 466-469.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION, PAGE 158.
+READINGS |  | VALUES
+Weight of bottle + stopper    | Mo | 30-455
+Weight of bottle + stopper full at t | M1 | 91.555g
+Weight of bottle + stopper after cooling from the boiling water | M 2 | 89.1555g
+Temperature of glycerine at moment of filling | t1oc | 29oC
+Temperature of boiling water | t2oc | 100oC

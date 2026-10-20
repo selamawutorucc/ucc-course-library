@@ -1,0 +1,564 @@
+
+--- PAGE 1 ---
+Introduction to Computing and 
+the Computing Profession
+Dr. Elliot Attipoe
+
+--- PAGE 2 ---
+Learning Outcomes
+• At the end of the lecture, students should be able to:
+1. define computing and related disciplines
+2. distinguish between Computer Science, Information 
+Technology, Information Systems, and Software Engineering
+3. describe the major components of a computing environment
+4. explain the historical development of computing
+5. identify major categories of computers
+6. discuss major applications of computing
+7. identify common careers in computing
+8. explain the role of computing professionals in society
+
+--- PAGE 3 ---
+What is Computing?
+• Computing refers to the use of computers, software, data, 
+networks, algorithms, and related technologies to process 
+information and solve problems.
+• Computing includes:
+• designing computer systems
+• writing software
+• storing and analysing data
+• communicating through networks
+• developing algorithms
+• securing information
+• automating tasks
+
+--- PAGE 4 ---
+Why Computing Matters
+• Mobile money
+• Online learning
+• Social media
+• Banking
+• Healthcare
+• Transport
+• Government services
+
+--- PAGE 5 ---
+What is a Computer?
+• A computer is an electronic device that accepts data as input, 
+processes the data according to instructions, stores data and 
+information, and produces output.
+• A basic computer system performs four major functions:
+• Input → Processing → Output → Storage
+
+--- PAGE 6 ---
+Input–Process–Output–Storage Example
+• Example: ATM transaction
+• Input: Card, PIN, withdrawal amount
+• Processing: Verify account and balance
+• Output: Cash and receipt
+• Storage: Transaction record
+
+--- PAGE 7 ---
+Components of a Computing Environment
+• Hardware
+• Software
+• Data
+• People
+• Procedures
+• Communication and Networks
+
+--- PAGE 8 ---
+Hardware
+• Hardware refers to the physical components of a computer 
+system.
+• Examples
+• keyboard
+• monitor
+• processor
+• mouse
+• printer
+• hard disk
+• network switch
+
+--- PAGE 9 ---
+Software
+• Software consists of programs and instructions that tell computer 
+hardware what to do.
+• Examples
+• Microsoft Windows
+• Linux
+• Microsoft Word
+• Google Chrome
+• WhatsApp
+• Microsoft Teams
+• antivirus software
+
+--- PAGE 10 ---
+Data
+• Data refers to raw facts that can be processed by a computer.
+• Examples
+• student registration number
+• name
+• examination score
+• date of birth 
+• photograph 
+• transaction amount
+
+--- PAGE 11 ---
+People
+• People interact with computing systems.
+• Examples
+• students
+• lecturers
+• software developers
+• system administrators 
+• customers 
+• managers
+• database administrators
+
+--- PAGE 12 ---
+Procedures
+• Procedures are rules or steps that specify how a 
+computing system should be used.
+• Examples
+• steps for registering courses
+• password-reset procedure 
+• procedure for backing up files
+• procedure for processing student results
+
+--- PAGE 13 ---
+Communication and Networks
+• Computing systems often communicate through 
+networks.
+• Examples
+• Wi-Fi
+• campus network
+• mobile data network
+• Internet
+• Bluetooth
+
+--- PAGE 14 ---
+How the Components Work Together
+• Example: University LMS
+• Hardware → Laptop, phone, servers
+• Software → LMS application
+• Data → Student records, course materials, grades
+• People → Students, lecturers, administrators
+• Procedures → Login, submission, grading
+• Networks → Internet/Wi-Fi
+
+--- PAGE 15 ---
+Major Areas of Computing
+• Computer Science
+• Information Technology
+• Information Systems
+• Software Engineering
+
+--- PAGE 16 ---
+Computer Science
+• Computer Science focuses on the principles and theories behind 
+computation and the design of computational solutions.
+• Major areas include:
+• algorithms
+• programming
+• data structures
+• artificial intelligence
+• computer graphics 
+• operating systems
+• computer architecture
+• theory of computation
+• machine learning
+
+--- PAGE 17 ---
+Information Technology
+• Information Technology focuses on the practical use, deployment, 
+management, and support of computing technologies.
+• Common areas include:
+• networking
+• system administration 
+• cybersecurity
+• cloud computing
+• IT support
+• infrastructure management 
+• database administration
+
+--- PAGE 18 ---
+Information Systems
+• Information Systems focuses on how organisations use 
+people, processes, data, and technology to support 
+operations and decision-making.
+• Examples include:
+• student information systems
+• hospital management systems 
+• banking systems
+• payroll systems
+• library management systems
+
+--- PAGE 19 ---
+Software Engineering
+• Software Engineering is concerned with the systematic design, 
+development, testing, deployment, and maintenance of software 
+systems.
+• It emphasises:
+• requirements analysis
+• software design
+• coding
+• testing
+• documentation
+• maintenance 
+• project management
+
+--- PAGE 20 ---
+Major Areas of Computing
+• Computer Science
+• Information Technology
+• Information Systems
+• Software Engineering
+
+--- PAGE 21 ---
+Related Areas of Computing
+• Cybersecurity - focuses on protecting computers, networks, 
+systems, and data from unauthorised access or attack.
+• Data Science - focuses on extracting useful insights from data.
+• Artificial Intelligence - focuses on developing systems capable 
+of performing tasks that normally require human intelligence
+
+--- PAGE 22 ---
+Identify the most relevant discipline
+• Designing a faster search algorithm →
+• Managing university network infrastructure → 
+• Developing a payroll system → 
+• Building and testing a mobile application → 
+• Detecting suspicious network activity →
+
+--- PAGE 23 ---
+Evolution of Computing
+• Early Computing Devices
+• Abacus - One of the earliest devices used for arithmetic 
+calculations. It was used for: counting, addition and 
+subtraction
+•
+
+--- PAGE 24 ---
+Evolution of Computing
+• Mechanical Calculators
+• Pascaline - Developed by Blaise Pascal in the 17th 
+century. It could perform basic arithmetic.
+• Analytical Engine - Designed by Charles Babbage.
+• Important concepts included input, processing, memory 
+and output.
+
+--- PAGE 25 ---
+Generations of Computers
+• First Generation
+• Approximate period: 1940s–1950s.
+• Main technology - vacuum tubes. 
+• Characteristics:
+• very large
+• generated significant heat
+• expensive
+• consumed large amounts of electricity
+• Example: ENIAC
+
+--- PAGE 26 ---
+Generations of Computers
+• Second Generation
+• Main technology - transistors. 
+• Advantages over vacuum tubes:
+• smaller
+• faster
+• more reliable
+• consumed less energy
+
+--- PAGE 27 ---
+IBM 1401 (1959)
+
+--- PAGE 28 ---
+Generations of Computers
+• Third Generation
+• Main technology - integrated circuits. 
+• Multiple electronic components were placed on a 
+single chip.
+• Benefits
+• improved speed
+• greater reliability
+• smaller size
+
+--- PAGE 29 ---
+Generations of Computers
+• Fourth Generation
+• Main technology - microprocessors. 
+• The CPU could be placed on a single chip.
+• This development contributed to:
+• personal computers
+• laptops 
+• smartphones
+• embedded computing systems
+
+--- PAGE 30 ---
+Generations of Computers
+• Fifth Generation and Modern Computing
+• Modern computing is characterised by developments such as:
+• artificial intelligence
+• cloud computing
+• robotics
+• machine learning
+• Internet of Things
+• mobile computing
+• quantum computing research
+
+--- PAGE 31 ---
+
+
+--- PAGE 32 ---
+Categories of Computers
+• Personal Computers
+• Workstations
+• Servers
+• Mainframe Computers
+• Supercomputers
+• Mobile Devices
+• Embedded Systems
+
+--- PAGE 33 ---
+Personal Computers
+• Designed primarily for individual use.
+• Examples
+• desktop computers
+• laptops
+
+--- PAGE 34 ---
+Workstations
+• High-performance computers typically used for 
+professional or technical applications.
+• Examples:
+engineering
+scientific computing
+graphics 
+AI development
+
+--- PAGE 35 ---
+Servers
+• A server provides services or resources to other 
+computers.
+• Examples:
+• web server
+• database server
+• file server
+• email server
+
+--- PAGE 36 ---
+Mainframe Computers
+• Powerful computers designed to process very large 
+volumes of transactions and support many users 
+simultaneously.
+• Used by:
+• banks
+• governments
+• insurance companies
+• large organisations
+
+--- PAGE 37 ---
+Supercomputers
+• Extremely powerful systems used for complex scientific 
+calculations.
+• Applications include:
+• climate modelling
+• weather forecasting
+• space research
+• scientific simulation
+• artificial intelligence
+
+--- PAGE 38 ---
+Mobile Devices
+• Examples:
+• smartphones
+• tablets 
+• smartwatches
+
+--- PAGE 39 ---
+Embedded Systems
+• An embedded system is a computer built into another device to 
+perform a specific task.
+• Examples
+• washing machine
+• microwave 
+• vehicle 
+• traffic light
+• digital television
+• smart meter
+• ATM
+
+--- PAGE 40 ---
+Choosing the Right Type of Computer
+• Weather forecasting →
+• Bank transaction processing →
+• Hosting a university website →
+• Student writing an assignment →
+• Washing-machine controller →
+• Smartphone banking →
+
+--- PAGE 41 ---
+Applications of Computing
+• Education
+• Banking and Finance
+• Healthcare
+• Agriculture
+• Transportation
+• Government
+• Entertainment
+
+--- PAGE 42 ---
+Education
+• Examples:
+• Learning Management Systems
+• online examinations
+• virtual classrooms
+• student-information systems 
+• digital libraries 
+• AI learning assistants
+
+--- PAGE 43 ---
+Banking and Finance
+• Applications:
+• ATMs
+• mobile banking
+• online banking
+• fraud detection
+• electronic payments
+
+--- PAGE 44 ---
+Healthcare
+• Applications:
+• electronic medical records
+• telemedicine
+• diagnostic imaging
+• appointment systems
+• AI-assisted diagnosis
+
+--- PAGE 45 ---
+Agriculture
+• Applications:
+• weather monitoring
+• crop-management systems
+• drone-based farm monitoring
+• digital marketplaces
+• automated irrigation
+
+--- PAGE 46 ---
+Transportation
+• Applications:
+• GPS navigation
+• ride-hailing applications
+• traffic-management systems
+• airline reservation systems
+
+--- PAGE 47 ---
+Government
+• Applications:
+• tax systems
+• passport services
+• digital identity
+• online application systems
+• public-record management
+
+--- PAGE 48 ---
+Entertainment
+• Examples:
+• video streaming
+• gaming
+• music streaming
+• social media
+• digital content creation
+
+--- PAGE 49 ---
+Computing Careers
+
+--- PAGE 50 ---
+Skills of a Computing Professional
+• A computing professional is expected to possess both technical 
+and professional competencies.
+Professional skills:
+•
+Communication
+•
+Teamwork
+•
+Problem solving
+•
+Ethics
+•
+Adaptability
+•
+Continuous learning
+Technical skills:
+• Programming
+• Networking
+• Databases
+• Systems administration
+• Cybersecurity
+
+--- PAGE 51 ---
+Computing in Everyday Life
+• What computing devices or systems did you use today before 
+coming to class?
+
+--- PAGE 52 ---
+Computing in Everyday Life
+• smartphone alarm
+• mobile money
+• social media
+• university portal
+• GPS
+• ATM 
+• Google Search
+• email
+• WhatsApp
+• transport application
+
+--- PAGE 53 ---
+Identify the Computing System
+• Consider the following 
+systems: 
+• ATM system 
+• University LMS 
+• Mobile money system 
+• Hospital information system 
+• Online shopping system 
+• Ride-hailing application 
+• For each system identify:
+• users
+• hardware
+• software
+• data
+• network requirements
+• input
+• processing
+• output
+
+--- PAGE 54 ---
+Mobile Money
+• Software
+• mobile money application 
+• transaction-processing 
+software
+• Data
+• phone number
+• account balance
+• transaction amount
+• PIN
+
+--- PAGE 55 ---
+Mobile Money
+• Input
+• amount
+• recipient number
+• PIN
+• Output
+• transaction confirmation
+• Processing
+• verify account
+• verify PIN
+• check available balance
+• transfer funds
+
+--- PAGE 56 ---

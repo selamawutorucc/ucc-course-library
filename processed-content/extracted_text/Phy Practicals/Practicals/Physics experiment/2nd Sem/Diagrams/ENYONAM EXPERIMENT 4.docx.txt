@@ -1,0 +1,74 @@
+DATE:  11/11/2008
+TITLE   An experiment to investigate the ’s law of cooling for a liquid.
+AIM    To verify Newton’s law of cooling for water.
+APPARATUS
+Copper calorimeter with outer jacket, copper stirrer, thermometer (0C - 100C), beaker, ice, analytical balance (±0.01g), electric heater
+DIAGRAM
+THEORY
+Newton’s law of cooling states that for a small difference of temperature between a body and its     surroundings, the rate of gain or loss of heat by the body is proportional to the difference in temperature between the body and the surroundings.
+                  α (θ-θο)
+                  =k (θ-θ
+METHOD
+A calorimeter is placed on a wooden board (bad conductor) and placed near an open window. Room temperature is measured using a thermometer and recorded as 1C. Water is heated in a beaker to 90C, using an electric heater. The calorimeter is filled with the heated water to within a centimeter from the top and the lid is put on top. The thermometer and the stirrer are put in place. Keeping the cooling water well stirred, the temperatures at one minute intervals were taken till it drop to 35C. The room temperature was recorded again at the end of the experiment with a thermometer and was recorded as 2C. The results were recorded in a tabular form. The mean room temperature was obtained by finding the average of 1C and 2C. 
+TABLE OF RESULTS
+Least count of thermometer = 0.1℃
+Least count of stop watch =0.015s
+Initial temperature of water = 90oC
+Temperature of surrounding = 31oC
+Temperature of surrounding after the experiment = 30oC
+TABLE 2
+Room temperature
+Temperature points where tangents were drawn
+GRAPH
+Fig 1:A curve of temperature/oC against time/min.
+A Graph of Rate Of Fall Against Excess Temperature
+CALCULATION
+To find the slopes, at six different points on the curve
+Slope at first point
+Slope at second point 
+Slope at third point 
+Slope at fourth point
+Slope at fifth point 
+Slope at sixth point 
+These slopes represent the rate of fall of temperature, when the water was at that temperature.
+DISCUSSION
+From the graph, it was observed that from the 1st minute to the seventh minute, the temperature was reducing by 2 and then from the 8th minute   onwards, the temperature reduced by every 1 with some of the values repeating themselves. Thus the nature of the curve was in a descending form with negative slopes. From the table and graph showing the mean temperature against the slope it is seen that the graph gives a straight line indicating that the rate of loss of heat is proportional to the excess temperature at any instant.
+SOURCES OF ERROR
+1. The handling of the thermometer constantly supplied heat to it and so affected the accuracy reading.
+2. The holes in the calorimeter lid were quite big for the thermometer and so affected results since heat could be lost through the holes. 
+PRECAUTION
+1.  To ensure uniform distribution of heat and rapid cooling of the water the mixture was stirred carefully and continuously.
+2. It was ensured that the calorimeter was lagged and covered to prevent heat loss to the surroundings.
+3. It was ensured that the water boiled to the required temperature (900C) and then transferred quickly into the calorimeter to prevent heat loss.
+CONCLUSION
+. From the graph of change in temperature against the slope, it can be                                            concluded   that  α (θ-θο ) verifies Newton’s law since it gives a straight    line.       
+REFERENCES 
+RAYMOND A. SERWAY, JERRY S. FAUGHN (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER,  PAGE 312-315.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH SDITION, WESLEY PUBLISHING COMPANY, PAGE 466-469.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION, PAGE 158.
+Time/min | Temperature |  | Time/min | Temperature
+0 | 90 |  | 18 | 46
+1 | 84 |  | 19 | 45
+2 | 82 |  | 20 | 44
+3 | 78 |  | 21 | 43
+4 | 75 |  | 22 | 42
+5 | 73 |  | 23 | 41
+6 | 69 |  | 24 | 40
+7 | 67 |  | 25 | 39
+8 | 64 |  | 26 | 39
+9 | 62 |  | 27 | 38
+10 | 60 |  | 28 | 37
+11 | 58 |  | 29 | 37
+12 | 56 |  | 30 | 36
+13 | 54 |  | 31 | 36
+14 | 53 |  | 32 | 36
+15 | 51 |  | 33 | 35
+16 | 49 |  |  | 
+17 | 48 |  |  | 
+Rate of fall | Excess temperature
+               3.0 |                           49
+               2.5 | 43
+               2.0 | 	34	
+               1.0 | 20
+               0.7 | 12
+               0.5 | 4

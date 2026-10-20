@@ -1,0 +1,1569 @@
+
+--- PAGE 1 ---
+1 
+ 
+CHAPTER FIVE 
+ 
+MECHANICAL WORK, ENERGY AND POWER. 
+ 
+Introduction 
+The term ‘work’ as understood in everyday life has a different meaning in scientific sense. If a 
+woman is carrying a load on his head and waiting for the arrival of the bus, she is not performing 
+any work in the scientific sense. In this chapter, we shall look at the scientific meaning of the term 
+‘work’ which is commonly used by ordinary people. In addition to this, we shall also discuss into 
+details the term ‘energy’. How many forms of energy are there? How is energy related to work? 
+What are the laws which govern energy?  
+ 
+Work 
+The physical meaning of the term work is entirely different from the meaning attached to it in 
+everyday life. In everyday life, the ‘work’ is considered to be synonymous to ‘labour’, ‘toil’, 
+‘effort’ etc. In physics there is a specific way of defining work. 
+ 
+Definition:  Work is said to be done by a force when the force produces a displacement in the body 
+which it acts on in any direction except perpendicular to the direction of the force. 
+ 
+ 
+For work to be done, the following two conditions must be fulfilled. 
+i. 
+A force must be applied. 
+ii. 
+The applied force must produce a displacement in any direction except 
+perpendicular to the direction of the force. 
+Suppose a force F is applied on a body in such a way that the body suffers displacement S in the 
+direction of the force. Then the work done is given by 
+ 
+.
+W = FS                                                                                               5.1 
+However, the displacement does not always take place in the direction of the force. Suppose a 
+constant force F applied to a body produces a displacement S in such a way that S is inclined to F 
+at an angleas shown Figure 5.1. Now the work done will be given by the dot product of force 
+and displacement defined as
+
+--- PAGE 2 ---
+2 
+ 
+ 
+W =component of force in the direction of displacement x magnitude of the displacement. 
+ 
+cos
+(
+cos )
+W
+FS
+F
+S
+
+
+
+=
+=
+=
+F.S
+                                                       5.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+So, work is the product of the component of force in the direction of displacement and the 
+magnitude of the displacement. 
+In terms of vector components, F and S may be written as: 
+ 
+ 
+x
+y
+z
+F
+F
+F
+=
++
++
+F
+i
+j
+k                                                                                  5.3 
+ 
+ 
+ 
+x
+y
+z
+S
+S
+S
+=
++
++
+S
+i
+j
+k                                                                                  5.4 
+ 
+(
+)(
+)
+.
+x
+y
+z
+x
+y
+z
+F
+F
+F
+S
+S
+S
+=
++
++
++
++
+FS
+i
+j
+k
+i
+j
+k                                                  5.5     
+       
+( )
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+x
+x
+x
+y
+x
+z
+y
+x
+y
+y
+y
+z
+z
+x
+z
+y
+z
+z
+F S
+F S
+F S
+F S
+F S
+F S
+F S
+F S
+F S
+=
++
++
++
++
++
++
++
++
+i i
+i j
+i k
+ji
+j j
+jk
+k i
+k j
+k k 
+                         
+But           .
+.
+.
+.
+.
+.
+0
+=
+=
+=
+=
+=
+=
+i j
+i k
+ji
+jk
+k i
+k j
+     
+and           .
+.
+.
+1
+=
+=
+=
+i i
+j j
+k k
+ 
+ 
+.
+x
+x
+y
+y
+z
+z
+F S
+F S
+F S
+
+=
++
++
+FS
+                                                                    5.6 
+Since work done is the dot product of two vectors it is therefore considered as a scalar quantity.  
+ 
+Example 5.1. A ladder 3.0m long and weighing 200N has its center of gravity 1.2m from the 
+bottom. At its top end is a 50N weight. Calculate the work required to raise the loaded ladder from 
+a horizontal position on the ground to a vertical position. 
+ 
+ 
+ 
+Solution 
+ 
+ 
+Fcosθ 
+Figure 5.1  Force F acts on the object at an angle q 
+to the horizontal. 
+q
+
+--- PAGE 3 ---
+3 
+ 
+The work done (against gravity) consists of two parts. 
+(1) The work done to raise the center of gravity of the ladder to a height of 1.2m. (2) The work 
+done to raise the weight at the end of the ladder through 3.0m. 
+The work done to raise the center of gravity of the ladder = 200N x 1.2m = 240 J. 
+The work done to raise the weight at the end of the ladder = 50N x 3.0 =150J 
+Total work done = 240 + 150 = 390 J. 
+ 
+Special Cases: 
+ 
+Case (i).  When
+0
+90
+=
+, then 
+0
+cos90
+0
+W
+FS
+=
+=
+ (since
+0
+cos90
+0
+=
+) 
+                                                                               
+So, work done by a force is zero if the body is displaced in a direction perpendicular to the direction 
+of the force. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 5.2.  Consider a body sliding over a smooth horizontal surface. The work done by the 
+force of gravity and the reactional force of the surface will be zero. This is because both force of 
+gravity and the reaction act normally to the displacement.  
+The same argument can be applied to a man carrying a load on his head and walking on a level 
+street. 
+ 
+Example 5.3.  Consider a body moving in a circle with constant speed. At every point on the 
+circular path, the centripetal force and the displacement are mutually perpendicular. So the work 
+done by the centripetal force is zero. The same argument can be applied to a satellite moving in a 
+circular orbit. In this case, the gravitational force is always perpendicular to the displacement. So, 
+work done by the gravitational force is zero. 
+ 
+ 
+ 
+90o 
+ 
+Figure 5.2 
+S 
+ 
+Fc
+
+--- PAGE 4 ---
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 5.4. The tension in the string of a simple pendulum is always perpendicular to the 
+displacement. So, work done by the tension is zero.   
+ 
+Case (ii). When
+0
+=
+S
+, then 
+0
+W =
+. 
+ So, work done by a force is zero if the body suffers no 
+displacement on the application of a force. 
+ 
+Example 5.5: A man carrying a load on his head and  
+standing at one place does no work. 
+ 
+Case (iii). When 
+0
+0
+90
+0
+
+
+ , then cosis positive . 
+Therefore, 
+cos
+W
+FS
+
+=
+is positive.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definition: Work done by a force is said to be positive if the applied force has a component in the 
+direction of the displacement. 
+ 
+Example 5.6. When a horse pulls a cart, the applied force and displacement are in the same 
+direction. So work done by the horse is positive. 
+ 
+Example 5.7. When a body is lifted, the lifting force and the displacement act in the same 
+direction. So work done is positive. 
+S 
+T 
+Figure 5.4  simple pendulum 
+F 
+S
+ 
+Figure 5.5
+
+--- PAGE 5 ---
+5 
+ 
+ 
+Example 5.8. When a spring is compressed, both the compressing force and the displacement act 
+in the same direction therefore work done is positive.  
+ 
+Case iv. When  
+0
+0
+180
+90
+
+
+, then cosis negative. Therefore 
+cos
+W
+FS
+
+=
+is negative. 
+ 
+Definition: Work done by a force is said to be negative if the applied force has a component in a 
+direction opposite to that of the displacement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 5.9. When brakes are applied to a moving vehicle, the work done by the braking force 
+is negative. This is because the braking force and the displacement act in opposite directions. 
+ 
+Example 5.10. When a body is dragged along a rough surface, the work done by the friction force 
+is negative.. This is because the frictional force acts in a direction opposite to that of the 
+displacement. 
+ 
+ 
+ 
+Example 5.11. When a body is lifted, the work done by the gravitational force is negative. This is 
+because the gravitational force acts vertically downwards while the displacement is in the vertical 
+upward direction. 
+ 
+Example 5.12. A boy drags a bag of rice along a horizontal, smooth floor, with a force, F = 2N 
+applied horizontally for a distance S = 3m. what work has the body done? 
+If the direction of F is not horizontal but an angle = 60o to the floor, what work has the boy done 
+in this case? 
+ 
+Solution: 
+F
+S
+Figure 5.6
+
+--- PAGE 6 ---
+6 
+ 
+In the first case, 
+J
+x
+FS
+W
+6
+3
+2
+=
+=
+=
+ 
+ 
+In the second case, 
+J
+x
+S
+x
+F
+W
+3
+3
+60
+cos
+2
+ 
+ 
+cos
+0
+=
+=
+=
+
+ 
+ 
+Hence, for a given force and displacement, maximum work is done when the force is applied in 
+the direction of the displacement. 
+ 
+ 
+ 
+ 
+ 
+Work done by a variable force 
+When the applied force varies both in magnitude and direction, then the total work done by the 
+variable force is calculated by integration as described below.   
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suppose the variable force displaces a body from position a to position b along a curved path.  Let 
+us divide the path of the particle into a large number of infinitesimally small displacements.  Each 
+displacement should be so small that the force, during that displacement, may be regarded as 
+constant. 
+ Let dW be the small amount of work done in giving an infinitesimally small displacement ds to 
+the body.  Let F be the corresponding force. Then,   
+F
+a
+b
+dS
+Figure 5.7  A path taken by a variable force
+
+--- PAGE 7 ---
+7 
+ 
+ 
+ 
+.
+dW
+d
+= F s                                                                                               5.7 
+       
+The total work done Wab, on the body as it moves from a to b can be obtained by adding up the 
+elements of work done over each of the infinitesimally small displacements between a and b.  This 
+can be done by integrating both sides of Equation 5.7 to get 
+ 
+.
+dW
+d
+=
+
+F s  
+           
+or   
+         
+ 
+cos
+ab
+W
+Fds
+
+= 
+                                                                                     5.8 
+ 
+or       
+ 
+(
+)
+cos
+ab
+W
+F
+ds
+
+=
+                                                                                    5.9 
+ 
+Equation 5.9 is the required expression for work done by a variable force. 
+      
+Units of Work 
+Unit work is the amount of work done when a unit force displaces a body through a unit distance 
+in the direction of the force.  So, the units of work will depend upon the units of force and distance. 
+ 
+Absolute units of work.  Work done is said to be one absolute unit if an absolute unit of force 
+moves a body through unit distance in the direction of the force. 
+In SI units, the absolute unit of work is joule (abbreviated as J). 
+One Joule of work is said to be done when a force of one Newton displaces a body through one 
+metre in its own direction. 
+1
+1
+1
+joule
+newton
+metre
+=
+
+ 
+           
+2
+1
+1
+1
+kg
+ms
+m
+−
+=
+
+
+ 
+           
+2
+2
+1kgm s−
+=
+or Nm.                                                                           5.10 
+ 
+Energy 
+It is the capacity or ability of a body to do work.
+
+--- PAGE 8 ---
+8 
+ 
+It is a scalar quantity.  Its units and dimensions are the same as those of work. 
+ 
+Energy is of many types:- mechanical energy, sound energy, heat energy, light energy, chemical 
+energy, atomic energy, nuclear energy etc.  The mechanical energy is of two types –kinetic energy 
+and potential energy. 
+ 
+Kinetic energy is the energy possessed by a body by virtue of its motion.  It is logical that a body 
+moving with higher speed should possess more kinetic energy than a body moving with lower 
+speed. 
+ 
+ Below are a few examples of bodies possessing kinetic energy. 
+        (i)   A ball in motion 
+        (ii)  A moving vehicle 
+ 
+       (iii) Running water 
+       (iv) Air in motion 
+ 
+ 
+Deriving expression for kinetic energy 
+ 
+Method 1.   
+Consider a body of mass m lying on a smooth horizontal surface as shown in Figure 5.8.  Let a 
+constant force F displace this body in its own direction throughS .  Let the velocity of the body, 
+after traveling the distance S be v.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If W is the work done by the force, then  
+.
+cos
+W
+FS
+
+=
+=
+FS
+                                                                                  5.11 
+u =0 
+v = v
+S
+Figure 5.8  A force F displaces a body of mass m through a distance S
+
+--- PAGE 9 ---
+9 
+ 
+ 
+Both the force and the displacement are in the same direction 
+ 
+          
+0
+=
+ 
+Therefore,  
+cos0
+W
+FS
+FS
+=
+=
+                                                                                   5.12 
+ 
+If a is the acceleration produced in the body, then  
+ 
+m
+= F
+a
+                                                                                                       5.13 
+From 
+2
+2
+2aS
+v
+u
+−
+=
+, with 
+0
+u =
+ 
+ 
+2
+2
+2
+0
+aS
+v −
+=
+so that 
+2
+2 F
+S
+v
+m
+
+
+=
+
+
+
+
+ and using Equation 5.12 
+2
+1
+2
+FS
+W
+mv
+=
+=
+                                                                                       5.14 
+This work done becomes the kinetic energy of the body.  So, the kinetic energy of a body of mass 
+m moving with velocity v is 
+2
+1
+2
+W
+mv
+=
+ 
+ 
+Calculus method.    
+If dW is the small work done in giving an infinitesimally small displacement ds to the body, then 
+.
+dW
+d
+= F s 
+Here, F is the applied force. Suppose the force and the displacement have the same direction, then, 
+ 
+.
+cos0
+dW
+d
+Fds
+=
+=
+F s
+                                                                              5.15 
+ 
+Let m be the mass of the body and a its acceleration.  Then
+m
+=
+F
+aand 
+ 
+ 
+(
+)
+ds
+dt
+dv
+m
+ds
+ma
+dW
+=
+=
+                         
+ 
+ds
+dW
+m
+dv
+mvdv
+dt
+=
+=
+                                                                          5.16 
+Let W be the total work done in increasing the velocity from zero to v. Then,
+
+--- PAGE 10 ---
+10 
+ 
+2
+0
+0
+0
+2
+v
+v
+v
+v
+dW
+mvdv
+m vdv
+m 
+
+=
+=
+=
+
+
+
+
+
+
+ 
+ 
+2
+2
+1
+0
+2
+2
+v
+W
+m
+mv
+
+
+=
+−
+=
+
+
+
+
+                                                                      5.17 
+This work done becomes the kinetic energy. The kinetic energy of a body is one half the product 
+of the mass of the body and the square of its speed. It is directly proportional to the (i) mass m of 
+the body and (ii) square of the velocity v of the moving body 
+. 
+The velocity v may be acquired by the body in any manner.  The kinetic energy of a group of 
+particles or bodies is the algebraic sum of the kinetic energies of the individual particles.  Consider 
+a system consisting of n particles of masses
+1
+2
+,
+,......
+n
+m m
+m . Let 
+1
+2
+,
+,....... n
+v v
+v be their respective 
+velocities.  Then the total kinetic energy 
+k
+E of the system is given by 
+2
+2
+2
+1
+2
+1
+2
+1
+1
+1
+..............
+2
+2
+2
+n
+k
+n
+E
+m
+m
+m
+v
+v
+v
+=
++
++
++
+                                                 5.18 
+If m is measured in kg and v in 
+1
+ms−, then the kinetic energy is measured in joule.  It may be noted 
+that the units of kinetic energy are the same as those of work.  In fact, this is true of all forms of 
+energy since they are interconvertible. 
+ 
+Work-Energy Theorem 
+We know that dW
+mvdv
+=
+. If W is the work done in increasing the velocity from ( )
+0
+v
+tov , then 
+2
+0
+0
+0
+2
+v
+v
+v
+v
+dW
+mvdv
+m vdv
+m 
+
+=
+=
+=
+
+
+
+
+
+
+ 
+2
+2
+2
+2
+0
+1
+1
+2
+2
+2
+2
+v
+W
+m
+m
+m
+v
+o
+
+
+=
+−
+=
+−
+
+
+
+
+                                                            5.19 
+So, the work done on a body by a resultant force is equal to the increase or change in the kinetic 
+energy of the body.  This is called the Work-Energy Theorem or Work-Energy Principle. 
+Discussion of Work-Energy Theorem 
+(i) 
+If there is no change in the speed of a particle, there is no change in kinetic energy.  So, 
+work done by the resultant force is zero.
+
+--- PAGE 11 ---
+11 
+ 
+Example 5.13.   When a particle moves with constant speed in a circle, there is no change in the 
+kinetic energy of the particle.  So, according to the work-energy principle, the work done by the 
+centripetal force is zero. 
+ 
+(ii) 
+If the kinetic energy of the body decreases, then the work done on the body is negative.  
+In this case, force and displacement are oppositely directed i.e. the force opposes the 
+motion of the body. 
+(iii) 
+In the above discussion, it has been assumed that the work done by the force is effective 
+only in changing the kinetic energy of the body .  However, it should be clearly noted 
+that the work done on a body may be stored in the body as potential energy. 
+ 
+Potential Energy 
+ It is the energy possessed by a body by virtue of its position in a force field or by its configuration. 
+Potential energy is also known as mutual energy or energy of configuration. The energy of a system 
+can be altered by the application of a force. 
+Basically there are three types of potential energy. They are 
+(i) 
+gravitational potential energy 
+(ii) 
+elastic potential energy 
+(iii) 
+Electrostatic potential energy (Electromagnetic). 
+ 
+Examples of bodies possessing potential energy due to position 
+(i) 
+water stored in a reservoir 
+(ii) 
+lifted weight 
+(iii) 
+object hanging in space 
+ 
+Examples of bodies possessing potential energy due to configuration  
+(i) 
+The coiled spring of a watch or a door lock. 
+(ii) 
+A stretched bow or an elastic material 
+(iii) 
+Compressed or elongated spring. 
+ 
+Gravitational potential energy near the surface of earth
+
+--- PAGE 12 ---
+12 
+ 
+As we go higher above the surface of the earth, the value of acceleration due to gravity decreases. 
+But for those heights which are very small as compared to the radius of the earth, the acceleration 
+due to gravity g and hence the weight mg of a body can be regarded as constant 
+Consider a body of mass m lying on the surface of the earth at a place where the value of 
+acceleration due to gravity is g . The weight mg of the body acts vertically downwards. In order to 
+lift the body, a force mg is required to be applied in the upward direction. Let h be the height 
+through which the body is lifted. Work done W is given as 
+W
+mg
+h
+=
+
+ 
+This work done is stored in the body as gravitational energy. Therefore gravitational potential 
+energy is mgh . Strictly speaking, mgh is the gravitational potential energy of earth-body system. 
+The height h can be taken from any level. The chosen level has to be fixed and considered as a 
+reference level. The potential energy at the reference level is taken to be zero, and can be varied. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ The potential energy at a point depends upon the reference level. However the difference of 
+potential energies between two points is independent of reference level. 
+ 
+Conversion of gravitational potential energy to kinetic energy  
+When a body falls from a certain height, its kinetic energy begins to increase.  
+ The gain in kinetic energy is at the expense of the gravitational potential 
+ energy.  But the total mechanical energy remains conserved. 
+ 
+h
+Reference level 
+(Earth’s surface) 
+mg 
+Figure 5.9  A body of mass m lying on the surface of the Earth has 
+gravitational potential energy stored in it.
+
+--- PAGE 13 ---
+13 
+ 
+Consider a freely falling body of mass m to be at a position A. Let h be the height of the body 
+above the reference level which is close to the ground. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At the position A 
+Kinetic energy of the body is zero (the body is stationary) 
+Potential energy of the body is mgh 
+Total energy of the body is mgh 
+ 
+At position B 
+Let the body be at the position B at any instant after having fallen through a distance x. Potential 
+energy of the body at B is  
+(
+)
+mg h
+x
+−
+ 
+ 
+If 
+bv is the velocity of the body at B, then from equation 3.18 
+ 
+gx
+v
+gx
+v
+b
+b
+2
+2
+0
+2
+2
+2
+=
+
+=
+−
+  
+ 
+A
+B
+vb 
+C
+vc 
+x
+h-x
+h 
+Reference level
+Figure 5.10 A body falling freely from a height h above a 
+reference level
+
+--- PAGE 14 ---
+14 
+ 
+Kinetic energy of the body becomes 
+ 
+2
+1
+1
+2
+2
+2
+b
+mv
+m
+gx
+mgx
+=
+
+=
+                                                                          5.20 
+ 
+The total energy of the body becomes 
+ 
+(
+)
+mg h
+x
+mgx
+mgh
+−
++
+=
+                                                                           5.21 
+ 
+At position C 
+When the body is at position C (just before impact with the ground), its height h above the ground 
+may be regarded as zero. The potential energy of the body at C is zero. 
+ If 
+c
+v is the velocity with which the body just touches the ground, then  
+    
+gh
+v
+gh
+v
+b
+c
+2
+2
+0
+2
+2
+2
+=
+
+=
+−
+ 
+The kinetic energy of the body then is 
+ 
+2
+1
+1
+2
+2
+2
+c
+mv
+m
+gh
+mgh
+=
+
+=
+                                                                      5.22 
+ 
+Total energy of the body becomes mgh . 
+From the above deductions it is clear that the sum of the kinetic and potential energies of a freely 
+falling body is constant at all stages of its motion.  As the body falls, its potential energy decreases 
+while its kinetic energy increases. However, the total mechanical energy is conserved.  (Here, we 
+have assumed that zero air resistance and hence no friction loss of energy). 
+ 
+Example 5.14. A ball of mass 1.5kg is thrown vertically upwards from the ground with an initial 
+velocity of 100ms-1. Calculate (a) the potential energy at a point A, 50m above the ground. (b) 
+the kinetic energy at the point A. [assume g = 10ms-2] 
+ 
+Solution 
+Mass of ball,m = 1.5kg, initial velocity, u = 100ms-1, height above ground,  
+h = 50m. 
+(a) PE = mgh = 1.5 x 10 x 50 = 750 J 
+ 
+(b) To calculate the KE we have to first find the velocity of the ball at point A.
+
+--- PAGE 15 ---
+15 
+ 
+From kinematic equation of motion, 
+ v2 = u2 + 2gh, but g = -10ms-2 (motion against gravity) 
+     = 1002 + [2 x (-10) x 50] = 9000ms-1   
+J
+x
+x
+mv
+KE
+6750
+9000
+5.1
+2
+1
+2
+1
+2
+=
+=
+=
+ 
+ 
+OR 
+Since p.e. + k.e. = constant 
+1/2mu2 = p.e.(A) + k.e.(A) 
+            = mgh + k.e.(A) 
+k.e.(A) = (1/2mu2 - mgh) = 6750 J 
+after substitution of values. 
+ 
+Example 5.15. A body of mass 1000kg is released from a height of 10m. With what energy does 
+it strike the ground? [Take g=10ms-2] 
+ 
+Solution: 
+J
+x
+x
+x
+mgh
+E
+5
+10
+1
+10
+10
+1000
+=
+=
+=
+ 
+It strikes the ground with energy of 105J. 
+ 
+Transformation of energy in vibrating simple pendulum 
+The conversion of energy from one form to another is called transformation of energy. In Figure 
+5.11 a vibrating simple pendulum is shown. O is the point of suspension. When the centre of 
+gravity of the bob is vertically below the point of suspension, the position of the pendulum is called 
+the rest position or mean position or equilibrium position.  Suppose the bob is displaced to the 
+position
+1
+E , and then released from this position, the pendulum will start vibrating between the 
+two extreme positions 
+1
+E and
+2
+E . 
+ 
+ 
+ 
+ 
+ 
+ 
+O
+
+--- PAGE 16 ---
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When the bob moves from the mean position to the extreme position
+1
+E , its centre of gravity is 
+raised vertically through a height h . 
+ 
+The potential energy of the body at the extreme position is mgh , where m is the mass of the bob 
+and g is the value of the acceleration due to gravity at the place where the pendulum is suspended. 
+As the pendulum moves from the extreme position to the mean position, its potential energy goes 
+on decreasing while the kinetic energy goes on increasing.  However, the sum of the two energies 
+is constant.  At the mean position, the whole of the potential energy is converted into kinetic 
+energy.   
+ 
+If v is the velocity of the bob at the mean position, then the Kinetic energy at the mean position is 
+2
+1
+2 mv 
+Applying the law of conservation of energy, 
+ 
+  
+2
+1
+2
+mgh
+mv
+=
+ or  
+2
+2
+v
+gh
+=
+                                                                     5.23 
+ 
+ 
+ Practical application of conversion of gravitational potential energy into kinetic energy.  
+The conversion of gravitational potential energy into kinetic energy has many practical 
+applications.  The most important application is ‘hydroelectric power generation’.  A large amount 
+of water is stored in dams which are built at high levels.  The water stored in the dam possesses a 
+very large amount of gravitational potential energy.  When this water is made to run in the pipes,
+
+--- PAGE 17 ---
+17 
+ 
+the gravitational potential energy is converted into kinetic energy.  Now the fast-moving water is 
+employed to run the turbines of the electric generators.  This produces electrical energy. 
+ 
+Power 
+Power is defined as the rate of doing work. 
+We consider the power of an agent doing work if the time taken to complete a given amount of 
+work is important to us. 
+ 
+The average power P delivered by any working device is given by 
+ 
+t
+W
+time
+workdone
+P
+=
+=
+                                                                                5.24 
+W is the work done in time t. 
+But 
+.
+W = FS and velocity, v
+t
+= S
+ 
+.
+.
+.
+W
+P
+t
+t
+t
+=
+=
+=
+=
+F S
+S
+F
+F v                                                                         5.25 
+ 
+From the definition of dot product, we can write 
+.
+cos
+P
+Fv
+
+=
+=
+F v
+                                                                                     5.26 
+where  is the angle between F and v . 
+If both F and v are in the same direction, then 
+0
+=
+and 
+.
+cos0
+P
+Fv
+Fv
+=
+=
+=
+F v
+                                                                             5.27 
+Instantaneous Power, P is the power of a working device at any instant. 
+Suppose a machine does an infinitesimally small amount of work dW in an infinitesimally small 
+timedt , then 
+.
+.
+.
+dW
+d
+d
+P
+dt
+dt
+dt
+=
+=
+=
+=
+F s
+s
+F
+F v                                                                    5.28 
+Therefore mechanical power of a working machine at any instant is equal to the dot product of the 
+applied force and the velocity at that instant.
+
+--- PAGE 18 ---
+18 
+ 
+The unit of power is joule per second (
+/
+J s ) or watts (W ).The power of a machine is said to be 
+one watt if it does one joule of work in one second. 
+ 
+Example 5.16. Find the work done in moving an object along a straight line from (3, 2, -1) to (2, 
+-1, 4) in a force field given by F = 4i – 3j +2k. Calculate the power dissipated if it took 4s to 
+move the object to its final position. 
+ 
+Solution 
+Work done = (Force field) . (Displacement vector) 
+                   = (4i – 3j +2k.) . [(2i – j + 4k) – (3i +2j – k)] 
+                   = (4i – 3j +2k.) . (-i – 3j + 5k) 
+                   = -4 + 9 + 10 = 15J 
+W
+taken
+time
+workdone
+Power
+75
+.3
+4
+15
+ 
+=
+=
+=
+ 
+ 
+ 
+Example 5.17. Calculate the power of a pump which lifts 200kg of water through a vertical 
+distance of 2m in 4s. [g=10ms-2] 
+ 
+Solution: 
+W
+x
+x
+t
+mgh
+t
+W
+Power
+1000
+4
+2
+10
+200
+=
+=
+=
+=
+ 
+ 
+ 
+ 
+Exercise 5 
+1. A particle moving in the x-y plane undergoes a displacement d=(2.0i +3.0 j )m as a 
+resultant force F=(5.0i +3.0 j )N acts on the particle. Calculate the workdone by F. (Ans: 
+W=19J ) 
+2. Calculate the workdone by a 2.0N force (directed at a 30 o  angle to the vertical) to move 
+a 500gram box a horizontal distance of 400cm across a rough floor at a constant speed 
+of 0.5ms-1.  (Ans: W=4.0J )
+
+--- PAGE 19 ---
+19 
+ 
+3. How much work is done by an applied force to lift a15N block 3.0m vertically at a 
+constant speed?    (Ans: 45J ) 
+4. A cart is loaded with a brick and pulled at constant speed along an inclined plane to the 
+height of a seat-top. If the mass of the loaded cart is 3.0kg and the height of the seat-top 
+is 0.45m, then what is the potential energy of the loaded cart at the height of the seat-top?   
+(Ans: 13.2J ) 
+5. A 900kg compact car moving at 60mi/hr has approximately 320000J of kinetic energy. 
+Estimate 
+its 
+new 
+energy 
+if 
+it 
+is 
+moving 
+at 
+30mi/hr.                         
+(Ans: 80000J ) 
+6. A platform diver had a kinetic energy of 1200J just prior to hitting the surface of the 
+water. If the diver has a mass of 40kg, what is her speed?                                                      (Ans: 
+24.5ms-1 ) 
+7. An escalator is used to move 20 passengers every minute from the first floor of a 
+department store to the second. The second floor is located 5.20m above the first floor. 
+The average passenger’s mass is 54.9kg. Determine the power requirement of the 
+escalator in order to move this number of passengers in this amount of time. (Ans: 
+933watts ) 
+8. What is the power output of a cyclist moving at a steady speed of 5.0ms-1 along a level 
+road against a resistance of 20N?   (Ans: 1.0102W ) 
+9. A 15kg ball is thrown at a velocity of 20km/hr to a 60kg person who is at rest on ice. The 
+person catches the ball and subsequently slides with the ball across the ice. Determine 
+the velocity of the person and the ball after the collision.                 (Ans: V=1.1ms-1 ) 
+10. A 1kg ball moving at 12ms-1 collides head-on with a 2kg ball moving in the opposite 
+direction at 24ms-1. find the velocity of each after impact if: (a) e=2/3  (b)the  balls stick 
+together.  
+                        (Ans:  [a] V1= -28ms-1; V2= -4ms-1,     [b] V= -12ms-1 )

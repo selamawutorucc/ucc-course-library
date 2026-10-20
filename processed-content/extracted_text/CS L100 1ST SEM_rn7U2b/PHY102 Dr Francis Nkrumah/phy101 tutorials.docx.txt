@@ -1,0 +1,39 @@
+UNIVERSITY OF CAPE COAST
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCES
+SCHOOL OF PHYSICAL SCIENCES
+DEPARTMENT OF PHYSICS
+FIRST SEMESTER: 2022/2023
+JANUARY, 2023
+PHY 101: GENERAL PHYSICS I – GROUP 15
+TUTORIAL 1
+Define the following
+Dimension
+Physical quantity
+Differentiate between fundamental and derived quantities, and give two examples each.
+Write the dimensional formula of the following physical quantities
+Force
+Power
+Stress
+Potential energy
+Strain
+Which of the following equations are dimensionally correct? 
+x =
+F=
+Show that the expression v = at is dimensionally correct, where v represents speed, a acceleration, and t an instant of time.
+What is the formula, S.I units and physical quantity of the following
+[]
+[]
+[]
+Express the following quantities using the prefixes 
+3 x m
+ 5 x s 
+72 x  g
+How many significant figures are in the following numbers?
+78.9 ± 0.2 
+ 3.788 x 
+2.46 x 
+ 0.0053
+Newton’s law of universal gravitation is represented by
+Here F is the magnitude of the gravitational force exerted by one small object on another, M and m are the masses of the objects, and r is a distance. Force has the SI units kgm/. What are the SI units of the proportionality constant G?
+Suppose we are told that the acceleration a of a particle moving with uniform speed v in a circle of radius r is proportional to some power of r, say , and some power of v, say . Determine the values of n and m and write the simplest form of an equation for the acceleration.
+The position of a particle moving under uniform acceleration is some function of time and the acceleration. Suppose we write this position s =, where k is a dimensionless constant. Show by dimensional analysis that this expression is satisfied if m =1 and n = 2. Can this analysis give the value of k?

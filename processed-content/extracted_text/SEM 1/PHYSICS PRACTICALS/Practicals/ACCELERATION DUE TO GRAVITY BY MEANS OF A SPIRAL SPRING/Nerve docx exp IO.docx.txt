@@ -1,0 +1,71 @@
+KELUGU NEVILLE KABA.
+SM/SMS/08/0017                                                                                               24th October, 2008
+EXPERIMENT 10
+TITLE: THE ACCELERATION DUE TO GRAVITY BY MEANS OF A 
+SPIRAL SPRING
+ AIM: To determine the acceleration due to gravity by means of a spiral spring.
+APPARATUS: spiral spring with a pointer, slotted weights, half-metre rule, stop watch.
+DIAGRAM
+THEORY
+The acceleration due to gravity is defined as the constant acceleration of a free falling body .The acceleration due to gravity is always directed towards the centre of the earth hence has a negative value no matter a body’s position  above the surface of the earth. The acceleration due to gravity is totally independent of the mass but rather the distance from centre of the earth. Hooke’s Law forms the basis of this experiment. Hooke’s Law states that the extension produced in a material is proportional to the applied load provided the elastic limit is not exceeded. Consider a spiral spring PA suspended from a fixed point P, when a mass M is placed on it, the spring stretches to O by a length e(extension) given by:
+Mg = e …..(1)
+Where k is the force constant (force per unit extension) of the spring. The tension in the spring is equal to mg. At B, the tension T of the spring is equal to (e+ x) =Mg. Making M the subject of the equation:
+M=
+Comparing this equation to the equation of a straight line, y= mx it is seen that a graph of load (mass) against pointer readings, the slope is given mathematically as,
+Slope 1=/g..... (1)
+.
+The equation for the periodic time is T=2……. (2). 
+Where M is the mass of the slotted weight and m is the mass of the weight of the spring and m is the spring mass.
+                                Since Period, T=t/20, 
+                                                   =2 and
+                                                     M =t2............. (3)
+The slope of the graph of load against time t² is equal to / (100)²t² from equation (3). This gives us. Substitute into equation (1) above for the acceleration due to gravity (g).
+	METHOD: 
+The spring is suspended so that it hangs vertically from a rigid support and to the lower end the first of the slotted weights is attached. A pointer is attached to the spring to record the reading of the weights. The reading of the pointer and the attached weight is recorded. The load is increased by successive weights of 20g and the pointer reading is recorded each time. The weights were unloaded when about six (6) of such readings have been taken and the pointer readings recorded each time. The results are tabulated. A graph of the values of the load on the y-axis and the mean pointer readings on the x-axis is plotted.   Using the spring the time for 20 oscillations as the load is increased is taken. The results are tabulated. A graph of load against t2 is also plotted.
+RESULTS 
+Initial pointer reading=30.0 0.1cm
+Least count of metre rule=0.1cm
+Table 1
+Table 2
+Least count of stop watch=0.01s
+GRAPH
+Fig 1; A graph of load (g) against mean pointer readings (m).
+Fig 2; A graph of load against t2.
+CALCULATION
+The slope of the graph of load (g) against t² is 0.241 g/s² = 
+                                              =0.241(40)2π²
+                                                                                       =3806.706g/s²
+The slope of the graph of load (g) against extension (m) is 392.7g/m = µ/g (acceleration due to gravity).
+                    g = µslope
+                    g = 3806.706g/s²  392.7g/m
+                   Acceleration due to gravity (g) = 9.69m/s²
+DISCUSSION
+ The acceleration due to gravity on the earth varies from place to place according to position on the earth and air resistance. In this experiment the force constant of the spring was gotten from the load against time graph and used to find the acceleration due to gravity. The calculated value was 9.69m/s² which deviated from the actual value of 9.8m/s² by about just 0.11m/s². Some errors accounted for this deviation. The oscillations were not clearly differentiated so one oscillation was difficult to be counted from another hence the timing may have had some errors therefore affecting the value of µ. Also the masses seem to have been corroded so the actual weight of the masses may be different from the actual masses and therefore both slopes may have been affected. The elastic ability of the spring was quite close to the elastic limit hence the spring gave very long extensions for equivalently small weights which may have affected the slope of the graph of load against extension hence affected the g. The pointer provided was not straight and hence did not point directly at the actual extensions produced. Air resistance also caused some deviations in the extensions. 
+CONCLUSION 
+From the experiment performed and data obtained from the experimental procedure the acceleration due to gravity can be determined by means of a helical spring.
+SOURCES OF ERROR
+Errors resulting in damping due to air resistance.
+The pointer provided was not straight causing some errors in the reading of extensions.
+The corrosion of  the slotted weights and spring caused some errors 
+PRECAUTIONS
+It was ensured that the spring was oscillated through a slight displacement              
+ It was ensured that the windows were closed and fans were switched off to reduce air resistance that would have affected the oscillation of the spring.
+It was ensured that pointer was held firmly in the spring for accurate readings.
+REFRENCES 
+ 1. Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 636.
+2. Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada. 
+3. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. 
+4. Young Freedman (University Physics) 9TH Edition, Published by Addison-Wesley Published Company. Pages 404-405.
+Load(g) | Load increasing(cm) | load decreasing(cm) | mean pointer reading(m)
+20.0 | 4.0 | 5.1 | 0.0455
+40.0 | 9.3 | 10.6 | 0.0995
+60.0 | 14.8 | 16.3 | 0.1555
+80.0 | 20.3 | 21.6 | 0.2095
+100.0 | 25.4 | 25.6 | 0.2550
+load/g | time for 20 oscillations | time for 20 oscillations | mean time(t/s)  | t2/S2
+  | t1/s | t2/s |   |  
+20 | 15.30 | 15.00 | 15.15 | 229.5225
+40 | 19.41 | 19.59 | 19.50 | 380.2500
+60 | 21.47 | 21.31 | 21.39 | 457.5321
+80 | 23.56 | 23.60 | 23.58 | 556.0164
+100 | 25.25 | 24.97 | 25.11 | 630.5121

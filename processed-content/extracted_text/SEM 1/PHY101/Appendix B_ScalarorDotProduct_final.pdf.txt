@@ -1,0 +1,829 @@
+
+--- PAGE 1 ---
+The Scalar or Dot Product 
+1
+Appendix B 
+  
+The Scalar or Dot Product 
+  
+ 
+ 
+The multiplication of a vector by a scalar was discussed in Appendix A.  When 
+we multiply a vector by another vector, we must define precisely what we mean.  One 
+type of vector product is called the scalar or dot product and is covered in this appendix.  
+A second type of vector product is called the vector or cross product and is covered in 
+Appendix C. 
+     
+Prerequisite knowledge: 
+ 
+Appendix A – Addition and Subtraction of Vectors 
+ 
+B.1  Definition of the Dot Product 
+ 
+The scalar or dot product and is written as 
+•
+A B and read "A dot B". The dot 
+product is defined by the relation  
+ 
+ 
+ 
+ 
+ 
+cos
+AB
+φ
+•
+=
+A B
+ 
+ 
+ 
+ 
+(B.1) 
+ 
+where φ is the angle between A and B.  Since the dot product 
+cos
+AB
+φ has only a 
+magnitude and not a direction, then 
+•
+A B is a scalar quantity. 
+The dot product 
+cos
+AB
+φ
+•
+=
+A B
+ can be written as 
+(
+)
+cos
+A
+B
+φ
+•
+=
+A B
+ where 
+cos
+A
+φ is the magnitude of the projection of A on B as shown in Fig. B.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B.1  
+(
+)
+cos
+A
+B
+φ
+•
+=
+A B
+ 
+A
+φ
+B
+cos
+A
+φ
+
+--- PAGE 2 ---
+Appendix B 
+2 
+The dot product can also be written as 
+(
+)
+cos
+A B
+φ
+•
+=
+A B
+where 
+cos
+B
+φ is the 
+magnitude of the projection of B on A as shown in Fig. B.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From the definition of the dot product, 
+cos
+AB
+φ
+•
+=
+A B
+ and 
+cos
+BA
+φ
+•
+=
+B A
+.  It 
+is therefore clear that 
+•
+=
+•
+A B
+B A and the commutative law holds for the scalar 
+product. The distributive law 
+(
+)
+•
++
+=
+•
++
+•
+A
+B
+C
+A B
+A C also holds and is illustrated for 
+the special case shown in Fig. B.3 where D = B + C.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Then 
+ 
+ 
+     
+(
+)
+•
++
+=
+•
+A
+B
+C
+A D 
+ 
+ 
+ 
+ 
+cos(
+)
+AD
+θ
+φ
+=
+−
+ 
+ 
+ 
+ 
+ 
+(
+)
+cos
+cos
+sin
+sin
+AD
+θ
+φ
+θ
+φ
+=
++
+ 
+ 
+But since 
+cos
+B
+D
+φ
+=
+ and 
+sin
+C
+D
+φ
+=
+ 
+ 
+ 
+ 
+     
+(
+)
+cos
+sin
+AB
+AC
+θ
+θ
+•
++
+=
++
+A
+B
+C
+ 
+ 
+ 
+ 
+ 
+=
+•
++
+•
+A B
+A C 
+ 
+since the angle between A and C is 2
+π
+θ
+−
+ and sin
+cos 2
+π
+θ
+θ
+⎛
+⎞
+=
+−
+⎜
+⎟
+⎝
+⎠
+. 
+A
+φ
+B
+cos
+B
+φ
+Figure B.2  
+(
+)
+cos
+A B
+φ
+•
+=
+A B
+ 
+B
+A
+C
+x
+D
+y
+φ
+θ
+Figure B.3  
+(
+)
+•
++
+=
+•
++
+•
+A
+B
+C
+A B
+A C
+
+--- PAGE 3 ---
+The Scalar or Dot Product 
+3
+B.2  Dot Product and Vector Components 
+ 
+The form of the dot product can be written conveniently in terms of its 
+components in a rectangular coordinate system.  Consider the two-dimensional case 
+shown in Fig. B.4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+The vectors A and B can be written in the component form 
+x
+y
+A
+A
+=
++
+A
+i
+j and 
+x
+y
+B
+B
+=
++
+B
+i
+j .  Then  
+ 
+ 
+ 
+  
+(
+) (
+)
+x
+y
+x
+y
+A
+A
+B
+B
+•
+=
++
+•
++
+A B
+i
+j
+i
+j 
+ 
+ 
+ 
+x
+x
+y
+x
+x
+y
+y
+y
+A B
+A B
+A B
+A B
+=
+• +
+• +
+• +
+•
+i i
+j i
+i
+j
+j j 
+ 
+Since the unit vectors i and j are orthogonal (i.e., perpendicular), then from the 
+definition of the scalar product • = • =
+i i
+j j
+1 and • = • =
+i
+j
+j i
+ 0.  Thus, the scalar product 
+can be written as  
+ 
+x
+x
+y
+y
+A B
+A B
+•
+=
++
+A B
+  
+ 
+ 
+ 
+(B.2) 
+ 
+Note that the dot product 
+•
+A B must always involve the product of two vectors, 
+and since the result is a scalar, then an expression such as
+(
+)
+•
+•
+A
+B C has no meaning. On 
+the other hand the expression 
+(
+)
+•
+A B C does have a meaning.  
+ 
+ 
+B.3  Dot Product Properties 
+ 
+Consider the vector
+x
+y
+z
+A
+A
+A
+=
++
++
+A
+i
+j
+k .  From the orthogonality of the unit 
+vectors described in Section B.2 it follows that  
+ 
+B
+A
+x
+y
+i
+j
+Figure B.4  Dot product in a rectangular coordinate system
+
+--- PAGE 4 ---
+Appendix B 
+4 
+x
+A
+• =
+A i
+ 
+ 
+ 
+ 
+y
+A
+• =
+A
+j
+ 
+ 
+ 
+ 
+zA
+•
+=
+A k
+ 
+  
+Consider the definition of the dot product
+cos
+AB
+φ
+•
+=
+A B
+.  If  B  = A, then 
+2
+A
+•
+=
+A A
+. 
+ 
+B.4  Example B1 
+ 
+Given the vectors 
+2
+4
+= −
++
+A
+i
+j
+k and 
+3
+2
+=
++ −
+B
+i
+j
+k find 
+•
+A B . 
+ 
+Answer 1:  
+ 
+ 
+ 
+  
+x
+x
+y
+y
+z
+z
+A B
+A B
+A B
+•
+=
++
++
+A B
+ 
+ 
+ 
+ 
+         = (1)(3) + (–2)(1) + (4)( –2) 
+ 
+ 
+ 
+          = 3 – 2 – 8 = –7 
+ 
+ 
+Answer 2:  In Matlab the dot product of vectors A and B can be written as dot(A,B) as 
+shown in Matlab Example B1. 
+ 
+ 
+ 
+Matlab Example B1 
+>> A = [1 -2 4] 
+ 
+A = 
+     1    -2     4 
+ 
+>> B = [3 1 -2] 
+ 
+B = 
+     3     1    -2 
+ 
+>> AdotB = dot(A,B) 
+ 
+AdotB = 
+    -7 
+ 
+>>
+
+--- PAGE 5 ---
+The Scalar or Dot Product 
+5
+ 
+ 
+ 
+B.5  Example B2 
+ 
+Find the angle between the vectors A and B in Example B1. 
+ 
+Answer 1: 
+ 
+ 
+ 
+cos
+7
+AB
+φ
+•
+=
+= −
+A B
+  
+ 
+ 
+ 
+21      
+14 
+A
+B
+=
+=
+ 
+ 
+ 
+ 
+7
+cos
+0.408
+21 14
+AB
+φ
+•
+−
+=
+=
+= −
+A B
+ 
+ 
+ 
+ 
+114
+φ =
+D 
+ 
+ 
+Answer 2:  In Matlab the solution can be found by writing the single Matlab equation 
+shown in Matlab Example B2. 
+ 
+ 
+Matlab Example B2 
+>> A = [1 -2 4] 
+ 
+A = 
+     1    -2     4 
+ 
+>> B = [3 1 -2] 
+ 
+B = 
+     3     1    -2 
+ 
+>> phi = (acos(dot(A,B)/(norm(A)*norm(B))))*180/pi 
+ 
+phi = 
+ 
+  114.0948 
+ 
+>> 
+ 
+ 
+Note carefully the need to use parentheses in the equation for phi.  The Matlab 
+function acos for the arc cosine gives the answer in radians.  Thus, that result must be 
+multiplied by 180/π to give the answer in degrees.
+
+--- PAGE 6 ---
+Appendix B 
+6 
+ 
+ 
+ 
+ 
+Problems 
+ 
+Where appropriate use Matlab to find the answers to the following problems. 
+ 
+B-1  Given the vectors 
+3
+4
+2
+=
+−
+−
+A
+i
+j
+k and 
+2
+5
+=
++ −
+B
+i
+j
+k find 
+(a) Find 
+•
+A B and 
+•
+B A .  
+(b) Find the smaller angle between A and B.  
+(c) What is the component of A in the direction of B? (d) What is the component of 
+B in the direction of A?  
+ 
+B-2   If 
+10
+5
+2
+=
++
+−
+A
+i
+j
+k , determine A2.  
+ 
+B-3  Given the vectors 
+3
+2
+5
+=
+−
++
+A
+i
+j
+k and 
+2
+8
+2
+=
++
++
+B
+i
+j
+k show that A and B are 
+perpendicular to each other.  
+ 
+B-4 
+3,  
+5,  and 
+2
+• =
+• =
+•
+= −
+A i
+A
+j
+A k
+.   Find A.   
+                          z  
+B-5  If 
+3
+2
+= +
+−
+A
+i
+j
+k and 
+4
+2
+=
+−+
+B
+i
+j
+k find, (
+) (
+)
+2
+2
++
+•
+−
+A
+B
+A
+B .  
+ 
+B-6 For what values of α are vectors 
+2
+α
+=
+−
++
+A
+i
+j
+k and 
+2
+4
+α
+α
+=
++
+−
+B
+i
+j
+k 
+perpendicular?

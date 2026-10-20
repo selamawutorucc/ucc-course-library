@@ -1,0 +1,50 @@
+TITLE: Determination of the water equivalent of a calorimeter.
+AIM: To determine the water equivalent of a calorimeter.
+APPARATUS: Copper calorimeter with outer jacket, stirrer made from bare copper wire, 0- 100 °C thermometer, electronic mass balance Libror EB-3200s-A , beaker and a stove. 
+DIAGRAM
+THEORY
+Heat gained by calorimeter and cold water = Heat lost by warm water 
+    M1Cw (θ3 – θ1) + McCc (θ3 – θ1) = MFCw (θ2 – θ3)
+Where 
+MI = Mass of calorimeter
+MF = Mass of warm water
+Cw = Specific heat capacity of water
+Cc = Specific heat capacity of calorimeter
+MICw (θ3 – θ1) + McCc (θ3 – θ1) = MFCw (θ2 – θ3)
+But Cc = Cw since the water equivalent is the mass of water that has the specific capacity of the calorimeter 
+Cw (MI + Mc) (θ3 – θ1) = MFCw (θ2 – θ3) 
+(M1 + Mc) (θ3 - θ1) = MF (θ2 – θ3)
+But MI = M1 – M0   MF = M2 – M1 and Mc = w
+                     (M1- M0 + w)(θ3 – θ1) = (M2 -M1) (θ2 – θ3) 
+METHOD
+The calorimeter and stirrer were initially weighed together. Ice-cold water was then poured into the calorimeter until it was about one-third full, weighed on the Libror EB-3200s-A mass balance, and placed in its outer jacket and left to stand until its temperature was about 15℃ below the room temperature. Meanwhile, some water was heated up in a beaker until its temperature was about 15℃ above the room temperature. The stove was removed from underneath the beaker and after stirring both the warm water and the water in the calorimeter; their temperatures were taken separately and as accurately as possible. Some of the warm water was then poured from the beaker into the calorimeter until it was about two-thirds full. It was stirred and the highest temperature reached by the mixture about 5℃ above room temperature was recorded. The calorimeter with its contents and the stirrer was weighed again.
+TABLE OF RESULTS
+CALCULATIONS
+Let the water equivalent of calorimeter and stirrer = w
+Heat gained by calorimeter and cold water = Heat lost by warm water
+                         (M1- M0 + w)(θ3 – θ1) = (M2 -M1) (θ2 – θ3) 
+                                  w =  (M1- M0) 
+                                   w =  g
+                                     w =     g
+                                w = 41.4g 38.9g                      
+                               w = 2.5 g    
+SOURCES OF ERROR
+Errors due to the use of impure water.
+Error may be due to heat transfer from hand to the compartment while holding the stirrer to stir. 
+PRECAUTIONS
+It was ensured that the mixture of warm water and the cold water in the calorimeter was well stirred to ensure uniform distribution of heat before the temperature was read.
+It was ensured that the calorimeter was lagged (put in the outer jacket) to minimize the temperature loss in the water.
+It was ensured that all temperatures were read accurately to obtain accurate results.
+CONCLUSION
+From the experiment, the water equivalent of a calorimeter is 2.5g
+REFERENCES
+Raymond A .Serway, Jerry S. Faughn (2003); College Physics Sixth (6th) Edition, Published By Thomson Learning Company, Canada, Pages 335 - 337 .
+Raymond A. Serway (1998), Principles Of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. Page 206.
+M.N. Srinivasan, S. Balasubramanian: A Textbook Of Practical Physics. 
+Reading |  | Values
+Weight Calorimeter and Stirrer | MO | 54.90g
+Weight of Calorimeter + Stirrer + Cold water | M1 | 93.80g
+Weight of Calorimeter + Stirrer +Mixture M2 | M2 | 135.20g
+Initial temperature of coldwater | θ1 | 24℃
+Initial temperature of warm water | θ2 | 44℃
+Final temperature of mixture | θ3 | 34℃

@@ -1,0 +1,152 @@
+1. Text in a cell can be rotated counterclockwise by entering a number between 1º and ____ in the Alignment sheet in the Format Cells dialog box.
+
+
+2. You can use the fill handle to ____.
+
+
+3. When first entering text in Excel, its angle is ____ degrees.
+
+
+4. To copy a word, such as Monday, which Excel might interpret as the start of a series, hold down the ____ key while you drag the fill handle to a destination area.
+
+
+5. The ____ button indents the contents of a cell to the right three spaces each time you click it.
+
+
+6. The ____ is a reserved place in a computer’s memory that allows you to collect text and graphic items from an Office document and then place them into any Office document.
+
+
+7. The ____ on the status bar can be used to change the size of entries to make them more readable.
+
+
+8. When you cut cells using the Cut button, Excel copies the cells to the Office Clipboard, but does not remove the cells until you paste the cells in the destination area by clicking the ____ button.  
+
+
+9. When you use the ____ command, the item is copied to the Office Clipboard but is not removed from the worksheet until you click the Paste button.
+
+
+10. An alternative to clicking the Paste button is to ____.
+
+
+11. Using the mouse to move or copy cells is called ____.
+
+
+12. You can insert a row by right-clicking the row below where you want to insert, then click the ____ command on the shortcut menu.
+
+
+13. When you insert a row, the new row automatically ____ the format from the row above.
+
+
+14. The ____ command removes selected cells from the worksheet and shifts the remaining rows up or shifts the remaining columns to the left.
+
+
+15. Excel displays the error message ____ in cells to indicate a cell reference error.
+
+
+16. Use the ____ button on the View tab to freeze worksheet titles so they display on the screen no matter how far you scroll.
+
+
+17. Which of the following is not considered a format symbol?
+
+
+18. Displaying ##### in a cell refers to which of the following?  
+
+
+19. A ____ shows the date a workbook, report, or other document was created or the period it represents.
+
+
+20. The ____ function returns a number that corresponds to the system date and time beginning with December 31, 1899.
+
+
+21. Excel uses which of the following as the default date and time format?
+
+
+22. A(n) ____ instructs the paste operation to keep the same cell reference as it copies a formula from one cell to another.
+
+
+23. To specify an absolute cell reference, enter a(n) ____ before the letter and number of a cell reference.
+
+
+24. The general form of the IF function is ____.
+
+
+25. The ____ argument of the IF function is made up of two expressions and a comparison operator.
+
+
+26. A ____ function is one in which the action taken for the true or false case includes yet another IF function.  
+
+
+27. A(n) ____ chart is used to show the relationship of the parts to a whole.
+
+
+28. To select nonadjacent ranges, select the first range, hold down the ____ key and drag through the nonadjacent ranges.
+
+
+29. A cell reference with only one dollar sign before either the column or the row is called a(n) ____.
+
+
+30. A formula using a(n) ____ reference instructs Excel to adjust the cell reference as it copies it to a destination area.
+
+
+31. Which of the following is an absolute cell reference?
+
+
+32. The worksheet entries that determine the size of the slices in a pie chart are called the ____.
+
+
+33. Which of the following comparison operator means greater than or equal to?
+
+
+34. Excel displays the error message ____ in cells to indicate a divide by zero error.  
+
+
+35. A pie chart with one or more slices offset from the main portion is called a(n) ____ pie chart.
+
+
+36. Using the ____ you can format a cell quickly by copying a cell’s format to another cell or range of cells.
+
+
+37. The underline format will underline ____.
+
+
+38. An Excel ____ chart provides a simple way to show trends and variations in a range of data within a single cell.
+
+
+39. Excel allows you to control the rotation angle, elevation, perspective, height, and angle of the axes of a chart by using the ____.
+
+
+40. The entries that will identify the slices of a pie chart are called ____.
+
+
+41. If you select all the slices of a 3-D pie chart, you can explode ____ of the slices.
+
+
+42. You can emphasize a slice of a pie chart by ____ it from the rest of the slices so it stands out.
+
+
+43. You can use the Zoom in or Zoom out buttons on the status bar to zoom from ____ to reduce or enlarge the display of a worksheet.  
+
+
+44. When creating panes in a worksheet, the bar going across the middle of the window is called the ____.
+
+
+45. When creating panes in a worksheet, the bar going up and down the middle of the window is called the ____.
+
+
+46. Using Excel to scrutinize the impact of changing values in cells that are referenced by a formula in another cell is called ____.
+
+
+47. When working with a large worksheet, you can split the window into two or four ____ to view different parts of the worksheet at the same time.
+
+
+48. Click the ____ button in the Goal Seek Status dialog box to redisplay the original values in the worksheet.    
+
+
+49. If you know the result you want a formula to produce, you can use ____ to determine the value of a cell on which a formula depends.
+
+
+50. To quit Excel, click the ____ button on the title bar.
+
+
+51. After you insert a row using the Insert command on the shortcut menu, you can repeatedly press ____ to continue inserting rows.
+

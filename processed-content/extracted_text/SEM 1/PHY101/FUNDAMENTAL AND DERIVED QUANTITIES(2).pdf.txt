@@ -1,0 +1,518 @@
+
+--- PAGE 1 ---
+1 
+ 
+FUNDAMENTAL AND DERIVED QUANTITIES, STANDARD PREFIXES, UNIT 
+CONVERSIONS   
+ 
+In this chapter basic physical quantities used in the study of Physics are discussed. Standard units 
+for the quantities mentioned are also given. Also, ways of writing very small or very large numbers 
+are discussed. Writing such numbers in standard form helps you to avoid mistakes. Employing 
+standard prefixes also simplifies your calculations. Measurement of length, time, temperature, 
+mass and weight will be discussed. Instruments used for measuring each of these quantities are 
+specified. And also dimension analysis is carried out to check the correctness of some of the 
+equations used for calculations in Physics. 
+ 
+ 
+Objectives 
+At the end of this session you should be able to:                                                                                                        
+1. explain what physical quantities are and give examples of each with their standard units  
+2. explain what Fundamental and derived quantities are and give examples of each with their units; 
+3. memorize some of the standard prefixes: 
+4. write very large and very small numbers in standard forms using the standard prefixes; 
+5. to convert one unit scale to another.                                                                                                                      
+6. Identify the correct instrument required to measure any of the fundamental quantities; 
+7. Explain how the various fundamental quantities are measured; 
+8. Demonstrate these measurements practically. 
+9. Use dimensional analysis to verify the correctness of equations and units.  
+                                                             
+                           
+                                                           
+1.1 
+Physical Quantities and Units 
+Physics is sometimes defined as the study of energy and matter and their relationships. Physics is 
+a natural science that also deals with measurement of physical quantities. We define a physical 
+quantity either by specifying how it is measured or by stating how it is calculated from other 
+measurements. For example, we define distance and time by specifying methods for measuring 
+them, whereas we define average speed by stating that it is calculated as the ratio of distance 
+traveled to the time taken. 
+ 
+Measurements of physical quantities are expressed in terms of units, which are standardized 
+values. For example, the length of a ladder, which is a physical quantity, can be expressed in units 
+of meters. Without standardized units, it would be extremely difficult for scientists to express and 
+compare measured values in a meaningful way. Thus, any number or set of numbers used for the 
+quantitative description of a physical phenomenon is called a physical quantity.   
+ 
+1.2 
+Fundamental Quantities and Units 
+The fundamental units are the units of the fundamental quantities, as defined by the International System of 
+Units. They are not dependent upon any other units, and all other units are derived from them. In the International 
+System of Units, the fundamental units are:
+
+--- PAGE 2 ---
+2 
+ 
+Table 1.1 SI units for fundamental quantities 
+Quantity 
+Unit Name 
+Unit Symbol 
+Length 
+Meter 
+m 
+Time 
+Second 
+s 
+Mass 
+Kilogram 
+kg 
+Electric current 
+Ampere 
+A 
+Amount of substance 
+Mole 
+mol 
+Light intensity 
+Candela 
+Cd 
+Temperature 
+Kelvin 
+K 
+ 
+1.3 
+Derived Quantities and Units 
+Derived quantities are those that may be expressed in terms of base or derived quantities by means 
+of the mathematical symbols of multiplication and division only (no addition or subtraction or any 
+other sign). Basically they may be divided into two categories. The first group consists of derived 
+quantities, which have proper units. Their units can be expressed in terms of units of base or 
+derived units. The second class consists of quantities that do not have units expressed in terms of 
+base or derived units. 
+ 
+Below are examples of SI derived units in terms of base units; 
+Derived Unit  
+Symbol 
+Name of Unit 
+Symbol of Unit 
+Area  
+A 
+Square meter  
+m2 
+Volume  
+V 
+Cubic meter 
+m3 
+Speed/velocity 
+v 
+metre per second 
+m/s 
+Acceleration 
+a 
+metre per second squared 
+m/s2 
+Specific volume  
+ 
+Cubic meter per kilogram 
+m3/kg 
+Current density 
+j 
+ampere per meter squared   A/m2  
+Amount 
+concentration 
+c 
+mole per cubic meter  
+mol/m3 
+ 
+ 
+ 
+ 
+Density  
+ρ 
+kilogram per meter cube 
+Kg/m3 
+Luminance  
+Lv 
+candela per meter square  
+cd/m2 
+                                                                                                                        
+Standard Prefixes  
+In physics, we sometimes deal with numbers that are very small as well as numbers that are very 
+large. It is not convenient to write very small or large numbers in the conventional decimal 
+notation. Once the fundamental units are defined, it now becomes easy to introduce larger and 
+smaller units for the same physical quantities. In the metric system measurements additional units 
+always relate to the fundamental units by multiples of 10 or 10
+1 . The multiplicative factors are 
+most conveniently expressed in exponential notation; thus
+4
+10
+10000=
+,
+2
+10
+100
+1
+−
+=
+. The names of 
+the additional units are always derived by adding a prefix to the name of the fundamental units.
+
+--- PAGE 3 ---
+3 
+ 
+Table 1.2 Prefixes for the power of ten 
+ 
+Power of ten 
+Prefix 
+Abbreviation 
+24
+10− 
+yocto- 
+Y 
+21
+10− 
+zepto- 
+Z 
+18
+10− 
+atto- 
+A 
+15
+10− 
+fermto- 
+F 
+12
+10− 
+pico- 
+P 
+9
+10− 
+nano- 
+N 
+6
+10− 
+micro- 
+Μ 
+3
+10− 
+milli- 
+M 
+2
+10− 
+centi- 
+C 
+3
+10 
+kilo- 
+K 
+6
+10 
+mega- 
+M 
+9
+10 
+giga- 
+G 
+12
+10 
+tera- 
+T 
+15
+10 
+peta- 
+P 
+18
+10 
+exa- 
+E 
+21
+10 
+zetta- 
+Z 
+24
+10 
+yotta- 
+Y 
+ 
+The following are a few examples of the use of the multiples of ten and their prefixes. 
+1 nanometer = 1nm = 10-9 m 
+1 micrometer = 1μm = 10-6 m 
+1 millimeter = 1mm = 10-3 m 
+1 centimeter = 1cm = 10-2 m 
+1 kilometer = 1km = 103 m 
+1 milligram = 1mg = 10-6kg 
+1 gram = 1g = 10-3 kg 
+1 nanosecond = 1ns = 10-9 s  
+1 microsecond = 1ms =10-3 s 
+ 
+Unit Conversions 
+Relations among physical quantities are often expressed by equations in which physical quantities 
+are represented by algebraic symbols.  An algebraic symbol always denotes both a number and a 
+unit. For example, x might represent distance of 5m, t a time of 30s and m a mass of 10kg. We 
+often need to change the units in which a physical quantity is expressed. We do so by multiplying 
+the original measurement by a conversion factor which is a ratio of the units in question that equals 
+unity. For example 
+1
+60
+min
+1
+=
+s
+and 
+1
+min
+1
+60
+=
+s
+
+--- PAGE 4 ---
+4 
+ 
+This is so because multiplying any physical quantity (or algebraic symbol) by unity leaves the 
+quantity unchanged. For example we can convert 5min into seconds by multiplying it by the 
+conversion factor of min
+1
+60s to have 
+60
+5min
+(5min)(1)
+(5min)(
+)
+300
+1min
+s
+s
+=
+=
+=
+ 
+ 
+ 
+ MEASUREMENT OF FUNDAMENTAL   QUANTITIES, DIMENSIONS AND 
+UNITS ANALYSIS     
+ 
+1.4 
+Measurement of Length  
+Length is defined as the straight-line distance between two points along an object or in space. The 
+SI unit of length is the meter. Different types of lengths are measured by using different types of 
+instruments. Lengths like the length of cloth or length of a line can be measured by using measuring 
+tape, a metre scale or a foot rule. But these instruments cannot be used to measure the diameter of 
+a metal sphere or a cylinder. Micrometer screw gauge and Vernier calipers are the appropriate 
+instruments used to measure the diameter of cylindrical objects.  
+ 
+1.5 
+Measurement of Time 
+Time is defined as the period in which a process, action or an event takes place. Time is also called 
+the Point or Period when something occurs. Time is a scalar quantity and its SI unit is the second 
+(s). The instruments used for measuring time are stop clocks and stop watches. 
+ 
+ 
+1.6 
+Measurement of Temperature 
+Temperature is a measure of the average kinetic energy of the particles of a substance. The higher 
+the temperature of an object, the higher is its kinetic energy. Kinetic energy is a type of energy 
+associated with motion. Temperature is measured with thermometers, which are devices that use 
+the expansion of a substance to give an indirect measure of temperature. The units of temperature 
+are called degrees Celsius (oC), degrees Fahrenheit (oF) or Kelvin (K). 
+ 
+1.7 
+Measurement of Mass and Weight 
+Mass is a measurement of the quantity of matter contained in a body. The mass of an object is 
+measured in kilogram (kg). Mass of objects can be measured by using a beam balance or an 
+electronic balance.  
+The weight of an object is proportional to the gravitational force of the earth on the object. 
+Therefore Weight is the measurement of the pull of gravity on an object. Weight of an object can 
+be determined with a spring balance. Weight of a body is directly proportional to it Mass. The 
+more the mass of an object, the more weight it has. 
+ 
+1.8 
+Dimensions and Unit Analysis 
+The fundamental quantities used in physical descriptions are called dimensions. For example 
+length, time and mass are dimensions. You could measure the distance between two points and 
+express it in units of meters, centimeters, or feet, but the quantity would still have the dimension
+
+--- PAGE 5 ---
+5 
+ 
+of length. It is common to express dimensional quantities by bracketed symbols as [L], [M] and 
+[T] for length, mass and time respectively. Derived quantities are a combination of dimensions. 
+For example, velocity v has dimensions of 
+]
+[
+]
+[
+T
+L
+ (think of it as meters/second = length/time) 
+and volume, V has dimensions
+]
+[
+]
+[
+]
+[
+L
+L
+L
+
+
+, or
+]
+[
+3
+L
+. Any equation must always be dimensionally 
+consistent or homogenous-this means that any two terms added or subtracted in an equation must 
+have the same units. For example given the equation: 3.0m + 2.0m = 5.0m (similar to
+c
+b
+a
+=
++
+), 
+comparing both sides we have 
+]
+[
+]
+[
+]
+[
+L
+L
+L
+=
++
+or in words length plus length gives you another 
+length not 2[L]. The above procedure for checking units in equations is called dimensional 
+analysis. It is formally defined as a procedure by which the dimensional consistency of any 
+equation may be checked. One major advantage of dimensional analysis is its usefulness for 
+checking whether an equation that has been derived or being used to solve a problem has the 
+correct form. The dimensions and units of some common quantities are given in Table 1.3. 
+ 
+Table 1.3 Dimensions and Units 
+ 
+Quantity 
+Dimension 
+Unit 
+Mass 
+[M] 
+kg 
+Time 
+[T] 
+s 
+length 
+[L] 
+m 
+Area 
+[L2] 
+m2 
+volume 
+[L3] 
+m3 
+velocity 
+]
+[
+]
+[
+T
+L
+ 
+m/s 
+Acceleration (a or g) 
+]
+[
+]
+[
+2
+T
+L
+ 
+m/s2 
+ 
+Example 1.1. Check if the following equations are dimensionally correct:  
+      (a) 
+at
+x =
+ (b) 
+2
+at
+x =
+ 
+ 
+Solution: 
+(a) Equation 
+at
+x =
+ can be expressed dimensionally as 
+      
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+2
+T
+L
+T
+T
+L
+L
+=
+
+=
+ which is not true. Thus 
+at
+x =
+ cannot be a correct equation. 
+(b) Equation 
+2
+at
+x =
+ can be expressed dimensionally as 
+      
+]
+[
+]
+[
+]
+[
+]
+[
+]
+[
+2
+2
+L
+T
+T
+L
+L
+=
+
+=
+this equation is dimensionally correct but as you            
+will see later it is not physically correct. The correct form of 
+2
+at
+x =
+ 
+both dimensionally and physically is 
+2
+2
+1 at
+x =
+. The fraction 
+2
+1 has no dimensions i.e. it is a 
+dimensionless number. Doing dimensional analysis with the symbols is fine but in practice it 
+is often more convenient to use actual unit abbreviations such as m, s, and kg. Units can also 
+be treated as symbols and cancelled. Using units instead of symbols in dimensional analysis is 
+called units analysis.
+
+--- PAGE 6 ---
+6

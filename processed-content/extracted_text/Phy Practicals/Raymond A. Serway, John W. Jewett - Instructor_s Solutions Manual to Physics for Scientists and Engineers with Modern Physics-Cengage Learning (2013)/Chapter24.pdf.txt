@@ -1,0 +1,4213 @@
+
+--- PAGE 1 ---
+64 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+24 
+Gauss’s Law 
+ 
+CHAPTER OUTLINE 
+ 
+24.1  
+Electric Flux 
+24.2  
+Gauss’s Law 
+24.3  
+Application of Gauss’s Law to Various Charge Distributions 
+24.4 
+Conductors in Electrostatic Equilibrium 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ24.1 
+(i) Answer (a). The field is cylindrically radial to the filament, and is 
+nowhere zero at any face of the gaussian surface.  
+ 
+(ii) Answer (b). The flux is zero through the two faces pierced by the 
+filament because the field is parallel to those surfaces.  
+OQ24.2 
+Answer (c). The outer wall of the conducting shell will become 
+polarized to cancel out the external field. The interior field is the 
+same as before.  
+OQ24.3 
+Answer (e). The symmetry of a charge distribution and of its field is 
+the same. Gauss’s law applies to these charge distributions because 
+(a) has cylindrical symmetry, (b) has translational symmetry, (c) has 
+spherical symmetry, and (d) has spherical symmetry.  
+OQ24.4 
+(i) Answer (c). Equal amounts of flux pass through each of the six 
+faces of the cube.  
+ 
+(ii) Answer (b). Move the charge to very close below the center of 
+one face, so that half the flux passes through that face and half the 
+flux passes through the other five faces.
+
+--- PAGE 2 ---
+Chapter 24     65 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ24.5 
+Answer (b). The electric flux through a closed surface equals q ∈0 , 
+where q is the total charge contained within the surface:   
+ 
+ 
+q ∈0 =
+3.00 −2.00 −7.00 + 1.00
+(
+)× 10−9 C
+⎡⎣
+⎤⎦
+                             
+8.85 × 10−12 C2 /N ⋅m2
+(
+)
+        = −5.65 × 10−2 N ⋅m2/C
+ 
+OQ24.6 
+(i) 
+Answer (e). The shell becomes polarized.  
+ 
+(ii) Answer (a). The net charge on the shell’s inner and outer 
+surfaces is zero.  
+ 
+(iii) Answer (c). The charge has been transferred to the outer surface 
+of the conductor.  
+ 
+(iv) Answer (c). The charge has been transferred to the outer surface 
+of the conductor. 
+ 
+(v) Answer (a). The charge has been transferred to the outer surface 
+of the conductor.  
+OQ24.7 
+(i) 
+Answer (c). Because the charge distributions are spherically 
+symmetric, both spheres create equal fields at exterior points, 
+like particles at the centers of the spheres.  
+ 
+(ii) Answer (e). The field within the conductor is zero. The field a 
+distance r from the center of the insulator is proportional to r, so 
+it is 4/5 of its value at the surface.  
+OQ24.8 
+Answer (c). The electric field inside a conductor is zero.  
+OQ24.9 
+(a) 
+The ranking is A > B > D > C. Let q represent the charge of the 
+insulating sphere. The field at A is (4/5)3q/[4π(4 cm)2 ∈0 ] . The 
+field at B is q/[4π(8 cm)2 ∈0 ] . The field at C is zero. The field at 
+D is q/[4π(16 cm)2 ∈0 ] . 
+ 
+(b) The ranking is B = D > A > C. The flux through the 4-cm sphere 
+is (4/5)
+3q/∈0 . The flux through the 8-cm sphere and through the 
+16-cm sphere is q/∈0 because they enclose the same amount of 
+charge. The flux through the 12-cm sphere is 0 because the field 
+is zero inside the conductor.  
+OQ24.10 
+(i) 
+Answer (a). The field is perpendicular to the sheet, and is 
+nowhere zero at any face of the gaussian surface.  
+ 
+(ii) Answer (c). The flux is nonzero through the top and bottom 
+faces because the field is perpendicular to them, and zero 
+through the other four faces because the field is parallel to them.  
+OQ24.11 
+The ranking is C > A = B > D. The total flux is proportional to the 
+enclosed charge: 3Q > Q = Q > 0.
+
+--- PAGE 3 ---
+66     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ24.1 
+(a) 
+If the volume charge density is nonzero, the field cannot be 
+uniform in magnitude. Consider a gaussian surface in the shape 
+of a rectangular box with two faces perpendicular to the 
+direction of the field. It encloses some charge, so the net flux out 
+of the box is nonzero. The field must be stronger on one side 
+than on the other. The field cannot be uniform in magnitude. 
+ 
+(b) Now the volume contains no charge. The net flux out of the box 
+is zero. The flux entering is equal to the flux exiting. The field 
+must be uniform in magnitude along any line in the direction of 
+the field. It can vary between points in a plane perpendicular to 
+the field lines. 
+ 
+ANS. FIG. CQ24.1 
+CQ24.2 
+The electric flux through a closed surface is proportional to the total 
+charge contained within the surface: (a) the flux is doubled because 
+the charge is doubled, (b) the flux remains the same because the 
+charge is the same, (c) the flux remains the same because the charge 
+is the same, (d) the flux remains the same because the charge is the 
+same, (e) the flux becomes zero because the charge inside the surface 
+is zero.  
+CQ24.3 
+The net flux through any gaussian surface is zero. We can argue it 
+two ways. Any surface contains zero charge, so Gauss’s law says the 
+total flux is zero. The field is uniform, so the field lines entering one 
+side of the closed surface come out the other side and the net flux is 
+zero.  
+CQ24.4 
+Gauss’s law cannot be used to find the electric field at different 
+points on a surface if the field is not constant over that surface. If the 
+symmetry 
+of 
+an 
+electric 
+field 
+allows 
+us 
+to 
+say 
+that 
+Ecosθ dA
+∫
+= E cosθ dA
+∫
+, where E is an unknown constant on the 
+surface, then we can use Gauss’s law. When electric field is a general 
+unknown function E(x, y, z), there can be no such simplification.
+
+--- PAGE 4 ---
+Chapter 24     67 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ24.5 
+The electric flux is independent of the size and shape of the closed 
+surface that contains the charge because all the field lines from the 
+enclosed charge pass through the surface.  
+CQ24.6 
+The surface must enclose a positive total charge. Field lines emerge 
+from positive charge and disappear into negative charge.  
+CQ24.7 
+(a) 
+No. If the person is uncharged, the electric field inside the 
+sphere is zero. The interior wall of the shell carries no charge. 
+The person is not harmed by touching this wall.  
+ 
+(b) If the person carries a (small) charge q, the electric field inside 
+the sphere is no longer zero. Charge –q is induced on the inner 
+wall of the sphere. The person will get a (small) shock when 
+touching the sphere, as all the charge on his body jumps to the 
+metal.  
+CQ24.8 
+The sphere with large charge creates a strong field to polarize the 
+other sphere. That means it pushes the excess like charge over to the 
+far side, leaving charge of the opposite sign on the near side. This 
+patch of opposite charge is smaller in amount but located in a 
+stronger external field, so it can feel a force of attraction that is larger 
+than the repelling force felt by the larger charge in the weaker field 
+on the other side.  
+CQ24.9 
+There is zero force. The huge charged sheet creates a uniform field. 
+The field can polarize the neutral sheet, creating in effect a film of 
+opposite charge on the near face and a film with an equal amount of 
+like charge on the far face of the neutral sheet. Since the field is 
+uniform, the films of charge feel equal-magnitude forces of attraction 
+and repulsion to the charged sheet. The forces add to zero. 
+CQ24.10 
+Inject some charge at arbitrary places within a conducting object. 
+Every bit of the charge repels every other bit, so each bit runs away 
+as far as it can, stopping only when it reaches the outer surface of the 
+conductor.  
+CQ24.11 
+(a) 
+The luminous flux on a given area is less when the sun is low in 
+the sky, because the angle between the rays of the sun and the 
+local area vector, d
+
+A, is greater than zero. The cosine of this 
+angle is reduced.  
+ 
+(b) The decreased flux results, on the average, in colder weather.
+
+--- PAGE 5 ---
+68     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 24.1 
+Electric Flux 
+P24.1 
+For a uniform electric field passing through a plane surface, 
+ΦE =
+
+E⋅
+
+A = EAcosθ, where θ is the angle between the electric field and 
+the normal to the surface.  
+ 
+(a) 
+The electric field is perpendicular to the surface, so θ = 0°: 
+ 
+ 
+ 
+ΦE = 6.20 × 105 N/C
+(
+) 3.20 m2
+(
+)cos0°
+ΦE = 1.98 × 106 N ⋅m2/C
+ 
+ 
+(b) The electric field is parallel to the surface: θ = 90°, so cos θ = 0, and 
+the flux is zero. 
+P24.2 
+The electric flux through the bottom of the car is given by 
+ 
+ 
+ 
+ΦE = EAcosθ = 2.00 × 104 N/C
+(
+) 3.00 m
+(
+) 6.00 m
+(
+)cos10.0°
+= 355 kN⋅m2 /C
+ 
+P24.3 
+For a uniform field the flux is Φ =
+
+E ⋅
+
+A = EAcosθ. 
+ 
+The maximum value of the flux occurs when θ = 0, or when the field is 
+in the same direction as the area vector, which is defined as having the 
+direction of the perpendicular to the area. Therefore, we can calculate 
+the field strength at this point as      
+ 
+ 
+ 
+E =
+Φmax
+A
+=
+Φmax
+πr2 
+ 
+ 
+ 
+E = 5.20 × 105 N ⋅m2/C
+π(0.200 m)2
+= 4.14 × 106 N/C = 4.14 MN/C
+ 
+P24.4 
+(a) 
+For the vertical rectangular surface, the area (shown as A’ in ANS 
+FIG. P24.4) is  
+ 
+ 
+ 
+′
+A = 10.0 cm
+(
+) 30.0 cm
+(
+) = 300 cm2 = 0.030 0 m2 
+ 
+ 
+Since the electric field is perpendicular to the surface and is 
+directed inward, θ = 180° and 
+ 
+ 
+ 
+ΦE,
+′
+A = E ′
+A cosθ
+ΦE,
+′
+A = 7.80 × 104 N/C
+(
+) 0.030 0 m2
+(
+)cos180°
+ΦE,
+′
+A = −2.34 kN⋅m2 /C
+
+--- PAGE 6 ---
+Chapter 24     69 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P24.4 
+ 
+(b) To find the area A of the slanted surface, we note that the side for 
+which dimensions are not given has length (10.0 cm) =w cos 60.0°, 
+so that 
+ 
+ 
+ 
+A = 30.0 cm
+(
+) w
+( ) = 30.0 cm
+(
+) 10.0 cm
+cos60.0°
+⎛
+⎝⎜
+⎞
+⎠⎟= 600 cm2
+= 0.060 0 m2
+ 
+ 
+ 
+The flux through this surface is then 
+ 
+ 
+ 
+ΦE, A = EAcosθ = 7.80 × 104
+(
+) A
+( )cos60.0°
+= 7.80 × 104 N/C
+(
+) 0.060 0 m2
+(
+)cos60.0°
+= +2.34 kN⋅m2 /C
+ 
+ 
+(c) 
+The bottom and the two triangular sides all lie parallel to 
+
+E, so 
+ΦE = 0 for each of these. Thus, 
+ 
+ 
+ 
+ΦE, total = −2.34 kN ⋅m2 /C + 2.34 kN ⋅m2 /C + 0 + 0 + 0 = 0 
+P24.5 
+For a uniform electric field passing through a plane surface, 
+ΦE =
+
+E⋅
+
+A = EAcosθ, where θ is the angle between the electric field and 
+the normal to the surface.  
+ 
+(a) 
+The electric field is perpendicular to the surface, so θ = 0°: 
+ 
+ 
+ 
+ΦE = 3.50 × 103 N/C
+(
+) 0.350 m
+(
+) 0.700 m
+(
+)
+[
+]cos0°
+= 858 N⋅m2/C
+ 
+ 
+(b)  The electric field is parallel to the surface: θ = 90°, so cosθ = 0, and 
+the flux is zero . 
+ 
+(c) 
+For the specified plane,  
+ 
+ 
+ 
+ΦE = 3.50 × 103 N/C
+(
+) 0.350 m
+(
+) 0.700 m
+(
+)
+[
+]cos40.0°
+= 657 N⋅m2/C
+
+--- PAGE 7 ---
+70     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.6 
+We are given an electric field in the 
+general form 
+ 
+ 
+ 
+ 
+
+E = ayˆi + bzˆj + cxˆk 
+ 
+In the xy plane, z = 0 so that the 
+electric field reduces to 
+ 
+ 
+ 
+ 
+
+E = ayˆi + cxˆk 
+ 
+To obtain the flux, we integrate (see ANS. FIG. P24.6 for the definition 
+of dA): 
+ 
+ 
+ 
+ΦE =
+
+E ⋅d
+
+A
+∫
+=
+ayˆi + cxˆk
+(
+)⋅ˆkdA
+∫
+ΦE = ch
+xdx
+x=0
+w
+∫
+= ch x2
+2
+x=0
+w
+=
+chw2
+2
+ 
+ 
+Where the ˆk term was eliminated since ˆk⋅ˆk = 0.  
+ 
+ 
+ 
+Section 24.2 
+Gauss’s Law 
+P24.7 
+The electric flux through the hole is given by Gauss’s Law (Equation 
+24.6) as 
+ 
+ 
+ 
+ΦE, hole =
+
+E⋅
+
+Ahole =
+keQ
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟π r2
+(
+)
+=
+8.99 × 109 N⋅m2 C2
+(
+) 10.0 × 10−6 C
+(
+)
+0.100 m
+(
+)
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                    ×π 1.00 × 10−3 m
+(
+)
+2
+= 28.2 N⋅m2 /C
+ 
+P24.8 
+The gaussian surface encloses the +1.00-nC and –3.00-nC charges, but 
+not the +2.00-nC charge. The electric flux is therefore  
+ 
+ 
+ΦE = qin
+∈0
+= 1.00 × 10−9 C −3.00 × 10−9 C
+(
+)
+8.85 × 10−12 C2/N⋅m2
+= −226 N⋅m2/C
+ 
+ 
+ANS. FIG. P24.6
+
+--- PAGE 8 ---
+Chapter 24     71 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.9 
+The total charge within the closed surface is  
+ 
+ 
+ 
+5.00 µC − 9.00 µC + 27.0 µC − 84.0 µC = −61.0 µC 
+ 
+(a) 
+So, from Equation 24.6, the total electric flux is  
+ 
+ 
+ 
+ΦE = q
+∈0 =
+–61.0 × 10–6 C
+8.85 × 10–12 C2/N⋅m2
+(
+)
+= −6.89 MN · m2/C 
+ 
+(b) 
+Since the net electric flux is negative, more lines enter than leave
+the surface.
+ 
+P24.10 
+(a) 
+From E = keQ
+r2 ,     
+ 
+ 
+ 
+Q = Er2
+ke
+= 8.90 × 102N/C
+(
+) 0.750 m
+(
+)
+2
+8.99 × 109 N⋅m2 /C2
+(
+)
+= 5.57 × 10−8 C
+ 
+ 
+ 
+But Q is negative since 
+
+E points inward, so  
+ 
+ 
+ 
+Q = −5.57 × 10−8 C = −55.7 nC 
+ 
+(b) The negative charge has a spherically symmetric charge 
+distribution, concentric with the spherical shell. 
+P24.11 
+The electric flux through each of the surfaces is given by ΦE = qin
+∈0
+. 
+ 
+Flux through S1: 
+ΦE = −2Q + Q
+∈0
+= −Q
+∈0
+ 
+ 
+Flux through S2: 
+ΦE = +Q −Q
+∈0
+= 0 
+ 
+Flux through S3: 
+ΦE = −2Q + Q −Q
+∈0
+= −2Q
+∈0
+ 
+ 
+Flux through S4: 
+ΦE = 0 
+P24.12 
+The total flux through the surface of the cube is  
+ 
+ 
+ 
+ΦE = qin
+∈0
+=
+170 × 10−6 C
+8.85 × 10−12 C2 /N ⋅m2 = 1.92 × 107  N ⋅m2 /C
+ 
+ 
+(a) 
+By symmetry, the flux through each face of the cube is the same.  
+ 
+ 
+ 
+ΦE
+(
+)one face = 1
+6 ΦE = 1
+6
+qin
+∈0
+
+--- PAGE 9 ---
+72     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ΦE
+(
+)one face = 1
+6
+170 × 10−6 C
+8.85 × 10−12 C2 /N⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.20 × 106 N⋅m2 /C
+ 
+ 
+(b) 
+ΦE = qin
+∈0
+=
+170 × 10−6 C
+8.85 × 10−12 C2 /N ⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.92 × 107 N ⋅m2/C 
+ 
+(c) 
+The answer to part (a) would change because the charge could
+now be at different distances from each face of the cube. The
+answer to part (b) would be unchanged because the flux through
+the entire closed surface depends only on the total charge inside
+the surface.
+ 
+P24.13 
+Consider as a gaussian surface a box with horizontal area A, lying 
+between 500 and 600 m elevation. From Gauss’s Law, 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= q
+∈0
+:
+ 
+ 
+ 
+ 
++120 N/C
+(
+)A + −100 N/C
+(
+)A = ρA 100 m
+(
+)
+∈0
+ 
+ 
+ 
+ρ = 20.0 N/C
+(
+) 8.85 × 10−12 C2 /N⋅m2
+(
+)
+100 m
+= 1.77 × 10−12 C/m3
+ 
+ 
+The charge is positive , to produce the net outward flux of electric 
+field. 
+P24.14 
+(a) 
+The total electric flux through the surface of the shell is 
+ 
+ 
+ 
+ΦE, shell = qin
+∈0
+= 12.0 × 10−6
+8.85 × 10−12 = 1.36 × 106 N⋅m2 /C
+= 1.36 MN⋅m2 /C
+ 
+ 
+(b) Through any hemispherical urface of the shell, by symmetry, 
+ 
+ 
+ 
+ΦE, half shell = 1
+2 1.36 × 106 N ⋅m2 /C
+(
+) = 6.78 × 105 N ⋅m2 /C
+= 678
+ 
+kN ⋅m2 /C
+ 
+ 
+(c) 
+No , the same number of field lines will pass through each 
+surface, no matter how the radius changes.
+
+--- PAGE 10 ---
+Chapter 24     73 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.15 
+(a) 
+The gaussian surface encloses a charge of +3.00 nC. 
+ 
+ 
+ 
+ΦE = qin
+∈0
+=
+3.00 × 10−9 C
+8.85 × 10−12 C2/N⋅m2 = 339 N⋅m2/C
+ 
+ 
+(b) 
+No. The electric field is not uniform on this surface. Gauss’s law
+is only practical to use when all portions of the surface satisfy
+one or more of the conditions listed in Section 24.3.
+ 
+P24.16 
+(a) 
+One-half of the total flux created by the charge q goes through the 
+plane. Thus, 
+ 
+ 
+ 
+ΦE, plane = 1
+2 ΦE, total = 1
+2
+q
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟=
+q
+2 ∈0
+ 
+ 
+(b) The square looks like an infinite plane to a charge very close to the 
+surface. Hence, 
+ 
+ 
+ 
+ΦE, square ≈ΦE, plane =
+q
+2 ∈0
+ 
+ 
+(c) 
+The plane and the square look the same to the charge. 
+P24.17 
+(a) 
+If R ≤d , the sphere encloses no charge and ΦE = qin
+∈0
+= 0 . 
+ 
+(b) If R > d, the length of line falling within the sphere is 2 R2 −d2 
+ 
+ 
+so 
+ ΦE =
+2λ R2 −d2
+∈0
+ 
+P24.18 
+(a) 
+The net flux is zero through the sphere because the number of
+field lines entering the sphere equals the number of lines leaving
+the sphere.
+ 
+ 
+(b) The electric field through the curved side of the cylinder is zero 
+because the field lines are parallel to that surface and do not pass 
+through it. The electric field lines pass outward through the ends 
+of the cylinder, so both have a positive flux. Because the field is 
+uniform, the flux is πR
+2E for each end. 
+The net flux is 2πR2E through the cylinder. 
+ 
+(c) 
+The net flux is positive, so the charge in the cylinder is positive. 
+To be a uniform field, the field lines must originate from a plane 
+of charge. The net charge inside the cylinder is positive and is 
+distributed on a plane parallel to the ends of the cylinder.
+
+--- PAGE 11 ---
+74     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.19 
+The total charge is Q −6 q . The total outward flux from the cube is 
+Q −6 q
+∈0
+, of which one-sixth goes through each face: 
+ 
+ 
+ 
+ΦE
+(
+)one face = Q −6 q
+6 ∈0
+ΦE
+(
+)one face = Q −6 q
+6 ∈0
+= 5.00 −6.00
+(
+) × 10−6 C⋅N ⋅m2
+6 × 8.85 × 10−12 C2
+= −18.8 kN ⋅m2 /C
+ 
+P24.20 
+The total charge is Q −6 q . The total outward flux from the cube is 
+Q −6 q
+∈0
+, of which one-sixth goes through each face: 
+ 
+ 
+ 
+ΦE
+(
+)one face =
+Q −6 q
+6∈0
+ 
+P24.21 
+(a) 
+With δ very small, all points on the 
+hemisphere are nearly at a distance R 
+from the charge, so the field 
+everywhere on the curved surface is 
+keQ
+R2 radially outward (normal to the 
+surface). Therefore, the flux is this field 
+strength times the area of half a 
+sphere: 
+ 
+ 
+ 
+Φcurved =
+
+E ⋅d
+
+A
+∫
+= ElocalAhemisphere
+Φcurved =
+ke
+Q
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 4π R2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+1
+4π ∈0
+Q 2π
+(
+) =
++Q
+2 ∈0
+ 
+ 
+(b) The closed surface encloses zero charge so Gauss’s law gives 
+ 
+ 
+ 
+Φcurved + Φflat = 0     or     Φflat = −Φcurved =
+−Q
+2 ∈0
+ 
+P24.22 
+For uniform electric field lines passing through a flat surface, the 
+electric flux is ΦE = EAcosθ , where θ is the angle between the electric 
+field vector and the normal to the surface.  
+ 
+(a) 
+ΦE
+(
+)face 1 = EAcosθ 
+ANS. FIG. P24.21
+
+--- PAGE 12 ---
+Chapter 24     75 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The normal points to the right; the angle between the electric field 
+and the normal is 90° + θ :  
+ 
+ 
+ 
+ΦE
+(
+)face 2 = EAcos 90° +θ
+(
+) = −EAsinθ 
+ 
+(c) 
+The normal points downward in the figure, the angle between the 
+electric field and the normal is 180° – θ :  
+ 
+ 
+ 
+ΦE
+(
+)face 3 = EAcos 180° −θ
+(
+) = −EAcosθ 
+ 
+(d) The normal points to the left; the angle between the electric field 
+and the normal is 90° – θ :  
+ 
+ 
+ 
+ΦE
+(
+)face 4 = EAcos 90° −θ
+(
+) = EAsinθ 
+ 
+(e) 
+The normal points in or out of the page; the angle between the 
+electric field and the normal is 90°:  
+ 
+ 
+ 
+ΦE
+(
+)top or bottom = EAcos 90°
+(
+) = 0 
+ 
+(f) 
+ΦE =
+ΦE
+(
+)faces
+∑
+= EAcosθ −EAsinθ −EAcosθ + EAsinθ + 0 + 0 = 0 
+ 
+(g) 
+ΦE = qin
+∈0
+→qin = 0  
+ 
+ 
+ 
+Section 24.3 
+Application of Gauss’s Law to  
+Various Charge Distributions 
+*P24.23 
+The distance between centers is 2 × 5.90 × 10−15 m. Each produces a 
+field as if it were a point charge at its center, and each feels a force as if 
+all its charge were a point at its center. 
+ 
+ 
+ 
+F = keq1q2
+r2
+= 8.99 × 109 N ⋅m2 C2
+(
+) 46
+(
+)2 1.60 × 10−19 C
+(
+)
+2
+2 × 5.90 × 10−15 m
+(
+)
+2
+= 3.50 × 103 N = 3.50 kN
+ 
+P24.24 
+Note that the electric field in each case is directed radially inward, 
+toward the filament. We use E = 2keλ
+r
+ and substitute numerical values. 
+ 
+(a) At r = 10.0 cm = 0.100 m, 
+ 
+ 
+ 
+E = 2keλ
+r
+= 2 8.99 × 109 N⋅m2 /C2
+(
+) 90.0 × 10−6 C/m
+(
+)
+0.100 m
+= 16.2 MN/C
+
+--- PAGE 13 ---
+76     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At r = 20.0 cm = 0.200 m, 
+ 
+ 
+ 
+E = 2keλ
+r
+= 2 8.99 × 109 N⋅m2 /C2
+(
+) 90.0 × 10−6 C/m
+(
+)
+0.200 m
+= 8.09 MN/C
+ 
+ 
+(c) At r = 100 cm = 1.00 m, 
+ 
+ 
+ 
+ 
+ 
+E = 2keλ
+r
+= 2 8.99 × 109 N⋅m2 /C2
+(
+) 90.0 × 10−6 C/m
+(
+)
+1.00 m
+= 1.62 MN/C
+ 
+P24.25 
+The charge per unit area of the plastic sheet must be sufficiently large 
+to result in an upward electric force on the Styrofoam that cancels the 
+downward gravitational force: 
+ 
+ 
+ 
+mg = qE = q
+σ
+2 ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟= q Q A
+2 ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Solving for the charge per unit area gives 
+ 
+ 
+ 
+Q
+A = 2 ∈0 mg
+q
+=
+2 8.85 × 10−12 C2 /N ⋅m2
+(
+) 10.0 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+−0.700 × 10−6 C
+= 2.48 µC/m2
+ 
+P24.26 
+The charge distributed through the nucleus creates a field at the 
+surface equal to that of a point charge at its center: E = keq
+r2 . 
+ 
+ 
+E = 8.99 × 109 N⋅m2 /C2
+(
+) 82 × 1.60 × 10−19 C
+(
+)
+208
+(
+)
+1 3 1.20 × 10−15 m
+(
+)
+⎡⎣
+⎤⎦
+2
+ 
+ 
+ 
+E = 2.33 × 1021 N/C  away from the nucleus 
+P24.27 
+For a large uniformly charged sheet, 
+
+E will be perpendicular to the 
+sheet, and will have a magnitude of  
+ 
+ 
+ 
+E = σ
+2 ∈0 = 2πkeσ
+= (2π) 8.99 × 109 N⋅m2/C2
+(
+) 9.00 × 10–6 C/m2
+(
+)
+ 
+ 
+so 
+
+E = 5.08 × 105 N/C ˆj
+
+--- PAGE 14 ---
+Chapter 24     77 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.28 
+Consider two balloons of diameter 0.200 m, each 
+with mass 1.00 g, hanging apart with a 0.050 0 m 
+separation on the ends of strings making angles 
+of 10.0° with the vertical. 
+ 
+(a) 
+Fy
+∑
+= T cos10° −mg = 0 ⇒T =
+mg
+cos10° 
+ 
+ 
+Fx
+∑
+= T sin10° −Fe = 0 ⇒Fe = T sin10° 
+ 
+ 
+so
+ 
+Fe =
+mg
+cos10.0°
+⎛
+⎝⎜
+⎞
+⎠⎟sin10.0° = mgtan10,0°
+= 0.001 00 kg
+(
+) 9.80 m/s2
+(
+)tan10.0°
+Fe ≈2 × 10−3 N ~10−3 N or 1 mN
+ 
+ 
+(b) The charge on each balloon can be found from Fe = keq2
+r2 : 
+ 
+ 
+ 
+q =
+Fer2
+ke
+≈
+2 × 10−3 N
+(
+) 0.25 m
+(
+)
+2
+8.99 × 109 N⋅m2 /C2
+≈1.2 × 10−7 C ~10−7 C or 100 nC
+ 
+ 
+(c) 
+E = keq
+r2 ≈
+8.99 × 109 N ⋅m2 /C2
+(
+) 1.2 × 10−7 C
+(
+)
+0.25 m
+(
+)
+2
+≈1.7 × 104 N/C
+~ 10kN/C
+ 
+ 
+(d) The electric flux created by each balloon is  
+ 
+ 
+ 
+ΦE = q
+∈0
+≈
+1.2 × 10−7 C
+8.85 × 10−12 C2 /N⋅m2 = 1.4 × 104 N⋅m2 /C
+~ 10kN⋅m2 /C
+ 
+P24.29 
+(a) 
+Consider the spherical symmetry of the situation. A gaussian 
+sphere concentric wth the shell, with radius 10.0 cm, encloses 0 
+charge. Then at the surface of this sphere, inside the charged 
+shell, we have 
+
+E = 0 . 
+ 
+(b) For a gaussian sphere of radius 20.0 cm, we apply 
+
+E ⋅d
+
+A =
+∫
+qin
+∈0
+. 
+The field is radially outward, and 4πr2E = q/∈0: 
+  
+ 
+ 
+E = keq
+r2 = 8.99 × 109 N⋅m2/C2
+(
+) 32.0 × 10–6 C
+(
+)
+0.200 m
+(
+)
+2
+= 7.19 × 106 N/C
+ 
+ 
+ANS. FIG. P24.28
+
+--- PAGE 15 ---
+78     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+so 
+
+E = 7.19 MN/C radially outward 
+P24.30 
+(a) 
+The charge per unit area of the wall is 
+ 
+ 
+ 
+σ = 8.60 × 10−6 C/cm2
+(
+) 100 cm
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 8.60 × 10−2 C/m2 
+ 
+ 
+The electric field at a distance of 2.00 cm is then 
+ 
+ 
+ 
+E = σ
+2 ∈0
+=
+8.60 × 10−2 C/m2
+2 8.85 × 10−12 C2 /N⋅m2
+(
+)
+= 4.86 × 109N/C away from the wall
+ 
+ 
+(b) 
+So long as the distance from the wall is small compared to the
+width and height of the wall, the distance does not affect the field.
+ 
+P24.31 
+The approximation in this case is that the filament length is so large 
+when compared to the cylinder length that the “infinite line” of charge 
+can be assumed.  
+ 
+ 
+(a) 
+We have  
+ 
+ 
+ 
+ 
+E = 2keλ
+r
+ 
+ 
+ 
+ 
+where the linear charge density is 
+ 
+ 
+ 
+λ = 2.00 × 10–6 C
+7.00 m
+= 2.86 × 10–7 C/m 
+ 
+ 
+so  
+ 
+ 
+ 
+E = (2)(8.99 × 109 N⋅m2/C)(2.86 × 10–7 C/m)
+0.100 m
+= 51.4 kN/C radially outward 
+ 
+ 
+ 
+(b) 
+We can find the flux by multiplying the field and the lateral 
+surface area of the cylinder:  
+ 
+ 
+ 
+ΦE = 2πrLE = 2πrL 2keλ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟= 4πkeλL
+ 
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+ΦE = 4π(8.99 × 109 N⋅m2/C2)(2.86 × 10−7 C/m)(0.020 0 m)
+= 6.46 × 102 N⋅m2 /C
+
+--- PAGE 16 ---
+Chapter 24     79 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.32 
+(a) 
+The area of each face is A = 1.00 m
+2.  
+ 
+ 
+For the left face, the angle between the electric field and the 
+normal is 0°:  
+ 
+ 
+ 
+ΦE
+(
+)left face = EAcosθ = 20.0 N/C
+(
+) 1.00 m2
+(
+)cos0°
+= 20.0 N⋅m2/C
+ 
+ 
+ 
+For the right face, the angle between the electric field and the 
+normal is 180°:  
+ 
+ 
+ 
+ΦE
+(
+)right face = EAcosθ = 35.0 N/C
+(
+) 1.00 m2
+(
+)cos180°
+= −35.0 N⋅m2/C
+ 
+ 
+ 
+For the top face, the angle between the electric field and the 
+normal is 180°:  
+ 
+ 
+ 
+ΦE
+(
+)top face = EAcosθ = 25.0 N/C
+(
+) 1.00 m2
+(
+)cos180°
+= −25.0 N⋅m2/C
+ 
+ 
+ 
+For the bottom face, the angle between the electric field and the 
+normal is 0°:  
+ 
+ 
+ 
+ΦE
+(
+)bottom face = EAcosθ = 15.0 N/C
+(
+) 1.00 m2
+(
+)cos0°
+= 15.0 N⋅m2/C
+ 
+ 
+ 
+For the front face, the angle between the electric field and the 
+normal is 0°:  
+ 
+ 
+ 
+ΦE
+(
+)front face = EAcosθ = 20.0 N/C
+(
+) 1.00 m2
+(
+)cos0°
+= 20.0 N⋅m2/C
+ 
+ 
+ 
+For the back face, the angle between the electric field and the 
+normal is 0°:  
+ 
+ 
+ 
+ΦE
+(
+)back face = EAcosθ = 20.0 N/C
+(
+) 1.00 m2
+(
+)cos0°
+= 20.0 N⋅m2/C
+ 
+ 
+ 
+The total flux is then 
+ 
+ 
+ 
+ΦE = (20.0 −35.0 −25.0 + 15.0 + 20.0 + 20.0) N ⋅m2/C
+= 15.0 N ⋅m2/C
+ 
+ 
+(b) 
+ΦE = qin
+∈0
+→qin =∈0 ΦE = 8.85 × 10−12 C2/N⋅m2
+(
+) 15.0 N⋅m2/C
+(
+)
+= 1.33 × 10−10 C
+ 
+ 
+(c) 
+No; fields on the faces would not be uniform.
+
+--- PAGE 17 ---
+80     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.33 
+If ρ is positive, the field must be radially 
+outward. Choose as the gaussian surface a 
+cylinder of length L and radius r, contained 
+inside the charged rod. Its volume is π r2L  
+and it encloses charge ρπ r2L . Because the 
+charge distribution is long, no electric flux 
+passes through the circular end caps; 
+
+E ⋅d
+
+A = EdAcos90.0° = 0. The 
+curved surface has 
+
+E ⋅d
+
+A = EdAcos0° , and E must be the same 
+strength everywhere over the curved surface. 
+ 
+Gauss’s law, 
+
+E ⋅d
+
+A
+∫
+= q
+∈0
+,    becomes    E
+dA
+Curved
+Surface
+∫
+= ρπr2L
+∈0
+. 
+ 
+Now the lateral surface area of the cylinder is 2πrL: 
+ 
+ 
+ 
+E 2π r
+(
+)L = ρπ r2L
+∈0
+      
+ 
+Thus,    
+
+E =
+ρr
+2 ∈0
+ radially away from the cylinder axis . 
+P24.34 
+(a) 
+The electric field is given by 
+ 
+ 
+ 
+E = 2keλ
+r
+= 2ke Q/
+(
+)
+r
+ 
+ 
+ 
+Solving for the charge Q gives 
+ 
+ 
+ 
+Q = Er
+2ke
+= 3.60 × 104 N/C
+(
+) 0.190 m
+(
+) 2.40 m
+(
+)
+2 8.99 × 109 N⋅m2/C
+(
+)
+=
+ 
+ 
+ 
+ 
+Q = +9.13 × 10−7 C = +913 nC 
+ 
+(b) Since the charge is uniformly distributed on the surface of the 
+cylindrical shell, a gaussian surface in the shape of a cylinder of 
+4.00 cm in radius encloses no charge, and 
+
+E = 0 . 
+P24.35 
+(a) 
+At the center of the sphere, the total charge is zero, so 
+ 
+ 
+ 
+E = keQr
+a3
+= 0 
+ 
+(b) At a distance of 10.0 cm = 0.100 m from the center, 
+ 
+ 
+ 
+E = keQr
+a3
+= 8.99 × 109 N⋅m2/C
+(
+) 26.0 × 10−6 C
+(
+) 0.100 m
+(
+)
+0.400 m
+(
+)
+3
+= 365 kN/C
+ 
+ANS. FIG. P24.33
+
+--- PAGE 18 ---
+Chapter 24     81 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+At a distance of 40.0 cm = 0.400 m from the center, all of the 
+charge is enclosed, so 
+ 
+ 
+ 
+E = keQ
+r2 = 8.99 × 109 N⋅m2/C
+(
+) 26.0 × 10−6 C
+(
+)
+0.400 m
+(
+)
+2
+= 1.46 MN/C
+ 
+ 
+(d) At a distance of 60.0 cm = 0.600 m from the center, 
+ 
+ 
+ 
+E = keQ
+r2 = 8.99 × 109 N⋅m2/C
+(
+) 26.0 × 10−6 C
+(
+)
+0.600 m
+(
+)
+2
+= 649 kN/C
+ 
+ 
+The direction for each electric field is radially outward . 
+P24.36 
+The volume of the spherical shell is 
+ 
+ 
+ 
+4
+3 π
+0.25 m
+(
+)
+3 −0.20 m
+(
+)
+3
+⎡⎣
+⎤⎦= 3.19 × 10−2 m3 
+ 
+Its charge is 
+ 
+ 
+ 
+ρV = −1.33 × 10−6 C/m3
+(
+) 3.19 × 10−2 m3
+(
+) = −4.25 × 10−8 C 
+ 
+The net charge inside a sphere containing the proton’s path as its 
+equator is 
+ 
+ 
+ 
+−60 × 10−9 C −4.25 × 10−8 C = −1.02 × 10−7 C 
+ 
+The electric field is radially inward with magnitude 
+ 
+ 
+ 
+E = ke q
+r2
+=
+q
+∈0 4π r2 = 8.99 × 109 N⋅m2/C2
+(
+) 1.02 × 10−7 C
+(
+)
+0.250 m
+(
+)
+2
+= 1.47 × 104 N/C
+ 
+ 
+For the proton, Newton’s second law gives 
+ 
+ 
+ 
+F
+∑
+= ma:
+eE = mv2
+r
+ 
+ 
+solving for the proton’s speed then gives 
+ 
+ 
+ 
+v =
+eEr
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+1.60 × 10−19 C
+(
+) 1.47 × 104 N/C 
+(
+) 0.250 m
+(
+)
+1.67 × 10−27 kg
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 5.94 × 105 m/s
+
+--- PAGE 19 ---
+82     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 24.4 
+Conductors in Electrostatic Equilibrium 
+P24.37 
+EdA
+∫
+= E 2π rl
+(
+) = qin
+∈0
+ E =
+qin l
+2π ∈0 r =
+λ
+2π ∈0 r for the field outside the 
+metal rod. 
+ 
+(a) 
+At r = 3.00 cm, 
+
+E = 0 
+ 
+(b) At r = 10.0 cm, 
+ 
+ 
+ 
+
+E =
+30.0 × 10−9 C
+2π 8.85 × 10−12 C2 /N ⋅m2
+(
+) 0.100 m
+(
+)
+= 5 400 N/C, outward
+ 
+ 
+(c) 
+At r = 100 cm, 
+ 
+ 
+ 
+
+E =
+30.0 × 10−9 C
+2π 8.85 × 10−12 C2 /N ⋅m2
+(
+) 1.00 m
+(
+)
+= 540 N/C, outward
+ 
+P24.38 
+Let’s calculate the electric field just outside the surface: 
+ 
+ 
+ 
+E = ke
+q
+r2  =  8.99 × 109 N ⋅m2/C2
+(
+) 40.0 × 10−9 C 
+0.15 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+= 1.60 × 104 N = 16.0 kN/C
+ 
+ 
+This should be the value of the electric field at the peak of the curve in 
+Figure P24.38. We see, however, that the peak in the figure occurs at 
+about 6.5 kN/C. Therefore, it is not possible that this figure represents 
+the electric field for the given situation. 
+P24.39 
+The surface area is A = 4πa
+2. The field is then  
+ 
+ 
+E = keQ
+a2 =
+Q
+4π ∈0 a2 =
+Q
+A ∈0
+= σ
+∈0
+ 
+ 
+It is not equal to σ/2 ∈0 . At a point just outside, the uniformly 
+charged surface looks just like a uniform flat sheet of charge. The 
+distance to the field point is negligible compared to the radius of 
+curvature of the surface. 
+P24.40 
+An approximate sketch is given at the right. 
+Note that the electric field lines should be 
+perpendicular to the conductor both inside and 
+outside. 
+ 
+ANS. FIG. P24.40
+
+--- PAGE 20 ---
+Chapter 24     83 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.41 
+The fields are equal. The equation E = σ conductor
+∈0
+ suggested in the 
+chapter for the field outside the aluminum looks different from the 
+equation E = σ insulator
+2 ∈0
+ for the field around glass. But its charge will 
+spread out to cover both sides of the aluminum plate, so the density is 
+σ conductor = Q
+2A . The glass carries charge only on area A, with 
+σ insulator = Q
+A . The two fields are 
+Q
+2A ∈0
+, the same in magnitude, and 
+both are perpendicular to the plates, vertically upward if Q is positive. 
+P24.42 
+(a) 
+Let a flat box have face area A perpendicular to its thickness dx.  
+ 
+ 
+The flux at x = 0.3 m is into the box is 
+ 
+ 
+ 
+ΦE = −EA = −(6 000 N/C ⋅ m2)(0.3 m)2 A = −(540 N/C) A 
+ 
+ 
+The flux at x = 0.3 m + dx is out of the box is 
+ 
+ 
+ 
+ΦE = +EA = +(6 000 N/C ⋅m2)(0.3 m + dx)2 A
+= +(540 N/C) A +(3 600 N/C ⋅m) dx A
+ 
+ 
+ 
+(The term in (dx)
+2 is negligible.) The charge in the box is ρA dx 
+where ρ is the unknown. Applying Gauss’s law, ΦE = qin
+∈0
+, we 
+obtain 
+ 
+ 
+ 
+−(540 N/C) A +(540 N/C) A
+                         +(3 600 N/C ⋅ m) dx A = ρA dx/∈0
+ 
+ 
+ 
+Solving for ρ gives 
+ 
+ 
+ 
+ρ = (3 600 N/C ⋅ m)∈0
+= (3 600 N/C ⋅ m)(8.85 × 10−12 C2/N ⋅ m2)
+= 31.9 nC/m3
+  
+ 
+(b) 
+No; then the field would have to be zero. 
+P24.43 
+The charge divides equally between the identical spheres, with charge  
+Q/2 on each. Then, they repel like point charges at their centers:  
+ 
+ 
+F = ke Q 2
+(
+) Q 2
+(
+)
+L + R + R
+(
+)
+2
+=
+keQ2
+4 L + 2R
+(
+)
+2
+= 8.99 × 109 N⋅m2/C2
+(
+) 60.0 × 10−6 C
+(
+)
+2
+4 2.01 m
+(
+)
+2
+= 2.00 N
+
+--- PAGE 21 ---
+84     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.44 
+(a) 
+E = σ
+∈0
+, so     
+ 
+ 
+σ = 8.00 × 104 N/C
+(
+) 8.85 × 10−12 C2 /N ⋅m2
+(
+)
+= 7.08 × 10−7 C/m2
+ 
+ 
+ 
+σ = 708 nC/m2 , positive on one face and negative on the other. 
+ 
+(b) 
+σ = Q
+A , so 
+ 
+ 
+ Q = σA = 7.08 × 10−7 C/m2
+(
+) 0.500 m
+(
+)
+2
+= 1.77 × 10−7 C = 177 nC
+ 
+ 
+ 
+ 
+ positive on one face and negative on the other. 
+P24.45 
+(a) 
+Inside surface: consider a cylindrical gaussian surface of arbitrary 
+length  within the metal. Since E inside the conducting shell is 
+zero, the total charge inside the gaussian surface must be zero:  
+ 
+ 
+ 
+
+E ⋅d
+
+A
+∫
+= qin
+∈0
+     →     0 = λ + λinner
+(
+)
+∈0
+ 
+ 
+ 
+so  
+λinner = −λ . 
+ 
+(b) Outside surface: consider a cylindrical gaussian surface of 
+arbitrary length  outside the metal. The total charge within the 
+gaussian surface is 
+ 
+ 
+ 
+qwire + qcylinder = qwire + qinner surface + qouter surface
+(
+)
+λ+ 2λ= λ+ −λ+ λouter
+(
+)     →     λouter = 3λ
+ 
+ 
+(c) 
+Gauss’s law: 
+ 
+ 
+ 
+
+E ⋅d
+
+A
+∫
+= qin
+∈0
+ 
+ 
+ 
+ 
+E2πr= 3λ
+∈0
+     →     E = 2
+3λ
+4π ∈0 r = 6ke
+λ
+r , radially outward
+
+--- PAGE 22 ---
+Chapter 24     85 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.46 
+(a) 
+We ignore “edge” effects and assume that the total charge 
+distributes itself uniformly over each side of the plate, with one 
+half the total charge on each side. The charge density on each of 
+the surfaces (upper and lower) of the plate is: 
+ 
+ 
+ 
+σ = 1
+2
+q
+A
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2
+4.00 × 10−8 C
+(
+)
+0.500 m
+(
+)
+2
+= 8.00 × 10−8 C/m2
+= 80.0 nC/m2
+ 
+ 
+(b) Just above the plate, 
+ 
+ 
+ 
+
+E =
+σ
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟ˆk =
+8.00 × 10−8 C/m2
+8.85 × 10−12 C2 /N ⋅m2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆk =
+9.04 kN/C
+(
+) ˆk
+ 
+ 
+(c) 
+Just below the plate, 
+
+E =
+−9.04 kN/C
+(
+) ˆk . 
+*P24.47 
+(a) 
+
+E = 0 
+ 
+(b) 
+E = keQ
+r2 = 8.99 × 109 N ⋅m2/C2
+(
+) 8.00 × 10−6 C
+(
+)
+0.030 0 m
+(
+)
+2
+= 7.99 × 107 N C 
+ 
+ 
+ 
+
+E = 79.9 MN C radially outward 
+ 
+(c) 
+
+E = 0 
+ 
+(d) 
+E = keQ
+r2 = 8.99 × 109 N ⋅m2/C2
+(
+) 4.00 × 10−6 C
+(
+)
+0.070 0 m
+(
+)
+2
+= 7.34 × 106 N C 
+ 
+ 
+
+E = 7.34 MN C radially outward 
+ 
+ 
+ 
+Additional Problems 
+P24.48 
+The electric field makes an angle of 70.0° to the normal. The square has 
+side d = 5.00 cm. 
+ 
+ΦE = EAcosθ = Ed2 cosθ
+→E =
+ΦE
+d2 cosθ =
+6.00 N ⋅m2/C
+0.150 m
+(
+)
+2 cos70.0°
+= 780 N/C
+
+--- PAGE 23 ---
+86     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.49 
+The electric field makes an angle of 60.0° with to the normal. The 
+square has side d = 5.00 cm. 
+ 
+ΦE = EAcosθ = 3.50 × 102 N/C
+(
+) 5.00 × 10−2 m
+(
+)
+2 cos60.0°
+= 0.438 N⋅m2/C
+ 
+P24.50 
+(a) 
+The field is zero within the metal of the shell. The exterior electric 
+field lines end at equally spaced points on the outer surface 
+because the surface of the conductor is an equipotential surface. 
+The charge on the outer surface is distributed uniformly. Its 
+amount is given by 
+ 
+ 
+ 
+EA = Q/∈0 
+ 
+ 
+Solving for the charge Q gives 
+ 
+ 
+ 
+Q = −(890 N/C) 4π (0.750 m)2 8.85 × 10−12 C2/N⋅m2
+(
+)
+= −55.7 nC
+ 
+ 
+ 
+The charge on the exterior surface is −55.7 nC distributed 
+uniformly.
+ 
+ 
+(b) For the net charge of the shell to be zero, the shell must carry 
++55.7 nC on its inner surface, induced there by –55.7 nC in the 
+cavity within the shell. The charge in the cavity could have any 
+distribution and give any corresponding distribution to the 
+charge on the inner surface of the shell. The charge on the interior 
+surface is +55.7 nC. It can have any distribution. For example, a 
+large positive charge might be within the cavity close to its 
+topmost point, and a slightly larger negative charge near its 
+easternmost point. The inner surface of the shell would then have 
+plenty of negative charge near the top and even more positive 
+charge centered on the eastern side.  
+ 
+(c) 
+See the comments in (b). The charge within the shell is −55.7 nC. 
+It can have any distribution. For example, the charge could be 
+distributed on the surface of an insulator of arbitrary shape.  
+P24.51 
+The 
+
+E field due to the point charge is uniform 
+and points radially outward, so ΦE = EA . The 
+arc length of a small ring-shaped element of 
+the sphere is ds = Rdθ, and its circumference is 
+2π r = 2π Rsinθ . 
+ 
+ 
+ 
+ANS. FIG. P24.51
+
+--- PAGE 24 ---
+Chapter 24     87 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The area of the circular cap is 
+ 
+ 
+A= 2π rds
+∫
+=
+2π Rsinθ
+(
+)Rdθ
+0
+θ
+∫
+= 2π R2 sinθ dθ
+0
+θ
+∫
+A =2π R2 −cosθ
+(
+) 0
+θ = 2π R2 1−cosθ
+(
+)
+ 
+ 
+The flux is then 
+ 
+  
+ΦE = EA =
+1
+4π ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+Q
+R2 ⋅2π R2
+(
+) 1−cosθ
+(
+)
+=
+Q
+2 ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟1−cosθ
+(
+)
+ΦE =
+50.0 × 10−6 C
+2 8.85 × 10−12 C2 N⋅m2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1−cos45.0°
+(
+)
+= 8.27 × 105 N⋅m2/C
+ 
+P24.52 
+Refer to ANS. FIG. P24.51 above. The 
+
+E field due to the point charge is 
+uniform and points radially outward, so ΦE = EA . The arc length of a 
+small ring-shaped element of the sphere is  
+ds = Rdθ, and its circumference is 2π r = 2π Rsinθ . 
+ 
+The area of the circular cap is 
+ 
+ 
+A= 2π rds
+∫
+=
+2π Rsinθ
+(
+)Rdθ
+0
+θ
+∫
+= 2π R2 sinθ dθ
+0
+θ
+∫
+A =2π R2 −cosθ
+(
+) 0
+θ = 2π R2 1−cosθ
+(
+)
+ 
+ 
+The flux is then 
+ 
+  
+ΦE = EA =
+1
+4π ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+Q
+R2 ⋅2π R2
+(
+) 1−cosθ
+(
+)
+=
+Q
+2 ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟1−cosθ
+(
+)
+ 
+*P24.53 
+Please review Example 23.9 in your textbook, emphazising the Finalize 
+section. There, it is shown that the electric field due to a nonconducting 
+plane sheet of charge has a constant magnitude given by Ez = σ sheet
+2 ∈0
+, 
+where σ sheet is the uniform charge per unit area on the sheet. This field 
+is everywhere perpendicular to the xy plane, is directed away from the 
+sheet if it has a positive charge density, and is directed toward the 
+sheet if it has a negative charge density.
+
+--- PAGE 25 ---
+88     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In this problem, we have two plane sheets of charge, both parallel to 
+the xy plane and separated by a distance of z0. The upper sheet has 
+charge density σ sheet = −2σ , while the lower sheet has σ sheet = +σ. 
+Taking upward as the positive z-direction, the fields due to each of the 
+sheets in the three regions of interest are: 
+ 
+ 
+Lower sheet (at z = 0) 
+Upper sheet (at z = z0) 
+Region 
+Electric Field 
+Electric Field 
+z < 0 
+Ez = −+σ
+2 ∈0
+= −σ
+2 ∈0
+ 
+Ez = + −2σ
+2 ∈0
+= + σ
+∈0
+ 
+0 < z < z0 
+Ez = + +σ
+2 ∈0
+= + σ
+2 ∈0
+ 
+Ez = + −2σ
+2 ∈0
+= + σ
+∈0
+ 
+z > z0 
+Ez = + +σ
+2 ∈0
+= + σ
+2 ∈0
+ 
+Ez = −−2σ
+2 ∈0
+= −σ
+∈0
+ 
+ 
+ 
+ 
+When both plane sheets of charge are present, the resultant electric 
+field in each region is the vector sum of the fields due to the individual 
+sheets for that region. 
+ 
+(a) 
+For z < 0, 
+ 
+ 
+ 
+ 
+Ez = Ez, lower + Ez, upper = −σ
+2 ∈0
++ σ
+∈0
+= + σ
+2 ∈0
+ 
+ 
+(b) For 0 < z < z0 , 
+ 
+ 
+ 
+ 
+Ez = Ez, lower + Ez, upper = + σ
+2 ∈0
++ σ
+∈0
+= + 3σ
+2 ∈0
+ 
+ 
+(c) 
+For z > z0 , 
+ 
+ 
+ 
+ 
+Ez = Ez, lower + Ez, upper = + σ
+2 ∈0
+−σ
+∈0
+= −σ
+2 ∈0
+
+--- PAGE 26 ---
+Chapter 24     89 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.54 
+Choose as each gaussian surface a concentric 
+sphere of radius r. The electric field will be 
+perpendicular to its surface, and will be 
+uniform in strength over its surface. The 
+density of charge in the insulating sphere is  
+ 
+ 
+ 
+ρ = Q/
+4
+3 πa3
+(
+) 
+ 
+(a) 
+The sphere of radius r < a encloses 
+charge 
+ 
+ 
+ 
+qin = ρ 4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟=
+Q
+4
+3 π R3
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟= Q
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+ 
+ 
+(b) Applying Gauss’s law to this sphere reveals the magnitude of the 
+field at its surface. 
+ 
+ 
+ 
+
+E ⋅d
+
+A
+∫
+= qin
+∈0
+E 4π r2
+(
+) = Q
+∈0
+r
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+→E =
+1
+4π ∈0
+Qr
+a3 = ke
+Qr
+a3
+ 
+ 
+(c) 
+For a sphere of radius r with  a < r < b, the whole insulating 
+sphere is enclosed, so the charge within is Q: qin = Q . 
+ 
+(d) Gauss’s law for this sphere becomes:  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= qin
+∈0
+E 4π r2
+(
+) = Q
+∈0
+→E =
+1
+4π ∈0
+Q
+r2 = ke
+Q
+r2
+ 
+ 
+(e) 
+For b ≤r ≤c, E = 0 because there is no electric field inside a 
+conductor. 
+ 
+(f) 
+For b ≤r ≤c, we know E = 0. Assume the inner surface of the 
+hollow sphere holds charge Qinner. By Gauss’s law, 
+ 
+ 
+ 
+
+E ⋅d
+
+A
+∫
+= qin
+∈0
+0 = Q + Qinner
+∈0
+→Qinner = −Q
+ 
+ANS. FIG. P24.54
+
+--- PAGE 27 ---
+90     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) The total charge on the hollow sphere is zero; therefore, charge on 
+the outer surface is opposite to that on the inner surface:  
+ 
+ 
+ 
+Qouter = −Qinner = +Q 
+ 
+(h) A surface of area A holding charge Q has surface charge σ = q/A. 
+The solid, insulating sphere has small surface charge because its 
+total charge Q is uniformly distributed throughout its volume. 
+The inner surface of radius b has smaller surface area, and 
+therefore larger surface charge, than the outer surface of radius c.  
+P24.55 
+The electric field has these values (consult the solution to P24.54(a)–(e) 
+for details). Suppressing units, 
+ 
+For 0 < r < a, 
+E = ke
+Qr
+a3 = 8.99 × 109
+(
+) 3.00 × 10−6
+0.050 0
+(
+)
+3 r 
+ 
+For a < r < b, 
+E = ke
+Q
+r2 = 8.99 × 109
+(
+) 3.00 × 10−6
+r2
+ 
+ 
+For b < r < c, 
+E = 0 
+(inside conductor)  
+ 
+For r > c, from Gauss’s law (suppressing units):  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= qin
+∈0
+→E 4π r2
+(
+) = Q + q
+∈0
+                     →E =
+1
+4π ∈0
+Q + q
+r2
+= ke
+Q + q
+r2
+                             = 8.99 × 109
+(
+) 3.00 × 10−6 −1.00 × 10−6
+r2
+E = 8.99 × 109
+(
+) 2.00 × 10−6
+r2
+ 
+ 
+where r is in meters and E in N/C. The field is radially outward.  
+ 
+The graph appears in ANS. FIG. P24.55 below, with a = 0.050 0 m,  
+b = 0.100 m, and c = 0.150 m. 
+ 
+ANS. FIG. P24.55
+
+--- PAGE 28 ---
+Chapter 24     91 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.56 
+Consider the field due to a single sheet and let  
+E+ and E– represent the fields due to the  
+positive and negative sheets. The field at  
+any distance from each sheet has a magnitude  
+given by the textbook equation  
+ 
+ 
+ 
+E+ = E−=
+σ
+2 ∈0
+ 
+ 
+(a) 
+To the left of the positive sheet, E+ is  
+directed toward the left and E– toward 
+the right and the net field over this  
+region is 
+
+E = 0 . 
+ 
+(b) In the region between the sheets, E+  
+and E– are both directed toward the  
+right and the net field is 
+ 
+ 
+ 
+
+E =
+σ
+∈0
+ to the right
+ 
+ 
+(c) 
+To the right of the negative sheet, E+ 
+and E– are again oppositely directed and 
+
+E = 0 .  
+ 
+(d) Now, both sheets are positively 
+charged. We find that  
+ 
+ 
+(1) To the left of both sheets, 
+both fields are directed 
+toward the left: 
+ 
+ 
+ 
+ 
+
+E = 2 σ
+∈0
+ to the left
+ 
+ 
+ 
+(2) Between the sheets, the fields cancel because they are 
+opposite to each other: 
+
+E = 0 . 
+ 
+ 
+(3) To the right of both sheets, both fields are directed 
+toward the right:  
+ 
+ 
+ 
+ 
+
+E = 2 σ
+∈0
+ to the right
+ 
+ANS. FIG. P24.56(a-c) 
+ANS. FIG. P24.56(d)
+
+--- PAGE 29 ---
+92     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.57 
+We have 
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= E 4π r2
+(
+) = qin
+∈0
+ 
+ 
+(a) 
+Solving for the charge Q on the insulating sphere, we write, for 
+the region a < r < b, 
+ 
+ 
+ 
+Q =∈0 E 4π r2
+(
+)
+= 8.85 × 10−12 C2 /N⋅m2
+(
+) −3.60 × 103 N C
+(
+)4π 0.100 m
+(
+)
+2
+= −4.00 × 10−9 C = −4.00 nC
+ 
+ 
+(b) We take Q′ to be the net charge on the hollow sphere. For r > c, 
+ 
+ 
+ 
+Q +
+′
+Q =∈0 E 4π r2
+(
+)
+= 8.85 × 10−12 C2/N⋅m2
+(
+) 2.00 × 102 N/C
+(
+)
+                                                         × 4π 0.500 m
+(
+)
+2
+= 5.56 × 10−9 C
+ 
+ 
+ 
+so 
+ 
+ 
+ 
+′
+Q = +9.56 × 10−9 C = +9.56 nC 
+ 
+(c) 
+For b < r < c, E = 0; therefore, 
+
+E⋅d
+
+A
+∫
+= qin ∈0 = 0 implies 
+qin = Q + Q1 = 0, where Q1 is the total charge on the inner surface 
+of the hollow sphere. Thus, Q1 = −Q = +4.00 nC . 
+ 
+(d) Let Q2 be the total charge on the outer surface of the hollow 
+sphere; then,  
+ 
+ 
+ 
+′
+Q = Q1 +Q2 →Q2 =
+′
+Q −Q1 = 9.56 nC −4.00 nC = +5.56 nC 
+P24.58 
+The charge density is determined by Q = 4
+3 π a3ρ . Solving gives 
+ 
+ 
+ 
+ρ = 3Q
+4π a3 
+ 
+(a) 
+The flux is that created by the enclosed charge within radius r: 
+ 
+ 
+ 
+ΦE = qin
+∈0
+= 4π r3ρ
+3∈0
+= 4π r33Q
+3∈0 4π a3 =
+Qr3
+∈0 a3
+ 
+ 
+(b) 
+ΦE =
+Q
+∈0
+. Note that the answers to parts (a) and (b) agree at r = a.
+
+--- PAGE 30 ---
+Chapter 24     93 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+ANS. FIG. P24.58(c) plots the flux vs. r. 
+ 
+ANS. FIG. P24.58(c) 
+P24.59 
+Consider the charge distribution to be an unbroken charged spherical 
+shell with uniform charge density σ and a circular disk with charge per 
+area –σ. The total field is that due to the whole sphere,  
+ 
+ 
+ 
+Esphere =
+Q
+4π ∈0 R2 = 4π R2σ
+4π ∈0 R2 = σ
+∈0
+ outward
+  
+ 
+plus the field of the disk  
+ 
+ 
+ 
+Edisk = −σ
+2 ∈0
+= σ
+2 ∈0
+ radially inward
+ 
+ 
+The total field is  
+ 
+ 
+ 
+Esphere + Edisk = σ
+∈0
+−σ
+2 ∈0
+=
+σ
+2 ∈0
+ radially outward
+ 
+P24.60 
+The cylindrical symmetry of the charge distribution implies that the 
+field direction is radially outward perpendicular to the axis. The field 
+strength depends on r but not on the other cylindrical coordinates θ or 
+z. Choose a gaussian cylinder of radius r and length L; the electric field 
+is normal to this surface. Recalling that ke =
+1
+4π ∈0
+→1
+∈0
+= 4πke, we 
+have ΦE = qin
+∈0
+= 4πkeqin. 
+ 
+(a) 
+If r < a, we have  
+ 
+ 
+ 
+ΦE = 4πkeqin
+E 2π rL
+(
+) = 4πke
+(
+)λL →E = 2ke
+λ
+r , outward
+
+--- PAGE 31 ---
+94     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If a < r < b, we have  
+ 
+ 
+ 
+ΦE = 4πkeqin
+E 2π rL
+(
+) = 4πke
+(
+) λL + ρπ r2 −a2
+(
+)L
+⎡⎣
+⎤⎦→
+E = 2ke
+r
+λ + ρπ r2 −a2
+(
+)
+⎡⎣
+⎤⎦, outward
+ 
+ 
+(c) 
+If r > b, we have  
+ 
+ 
+ 
+ΦE = 4πkeqin
+E 2π rL
+(
+) = 4πke
+(
+) λL + ρπ b2 −a2
+(
+)L
+⎡⎣
+⎤⎦
+E = 2ke
+r
+λ + ρπ b2 −a2
+(
+)
+⎡⎣
+⎤⎦, outward
+ 
+ 
+ 
+ 
+Challenge Problems 
+P24.61 
+(a) 
+Consider a cylindrical shaped gaussian 
+surface perpendicular to the yz plane 
+with its left end in the yz plane and its 
+right end at distance x, as shown in 
+ANS. FIG. P24.61. 
+ 
+ 
+Use Gauss’s law: 
+
+E⋅d
+
+A
+∫
+= qin
+∈0
+ 
+ 
+ 
+By symmetry, the electric field is zero 
+in the yz plane and is perpendicular to 
+d
+
+A over the wall of the gaussian 
+cylinder. Therefore, the only 
+contribution to the integral is over the 
+end cap. 
+ 
+ 
+For x > d
+2 ,
+ 
+dq = ρdV = ρAdx = CAx2dx 
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= 1
+∈0
+dq
+∫
+EA = CA
+∈0
+x2 dx
+0
+d 2
+∫
+= 1
+3
+CA
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+d3
+8
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ANS. FIG. P24.61
+
+--- PAGE 32 ---
+Chapter 24     95 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then 
+ 
+ 
+ 
+E = Cd3
+24∈0
+      
+ 
+ 
+or 
+
+E = Cd3
+24∈0
+ˆi for x > d
+2 ;     
+
+E = −Cd3
+24∈0
+ˆi for x < −d
+2 
+ 
+(b) For −d
+2 < x < d
+2
+, 
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= 1
+∈0
+dq
+∫
+= CA
+∈0
+x2 dx
+0
+x
+∫
+= CAx3
+3∈0
+ 
+ 
+ 
+ 
+
+E = Cx3
+3∈0
+ˆi for x > 0;
+  
+
+E = −Cx3
+3∈0
+ˆi for x < 0
+ 
+P24.62 
+First, consider the field at distance r < R from the center of a uniform 
+sphere of positive charge (Q = +e) with radius R. From Gauss’s law,  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= qin
+∈0
+4π r2
+(
+)E = qin
+∈0
+= 1
+∈0
+ρV = 1
+∈0
++e
+4
+3π R3
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+4
+3π r3
+→4π r2
+(
+)E =
+e
+∈0 R3
+⎛
+⎝⎜
+⎞
+⎠⎟r3
+→E =
+e
+4π ∈0 R3
+⎛
+⎝⎜
+⎞
+⎠⎟r, directed outward
+ 
+ 
+(a) 
+The force exerted on a point charge q = –e located at distance r 
+from the center is then 
+ 
+ 
+ 
+F = qE = −e
+e
+4π ∈0 R3
+⎛
+⎝⎜
+⎞
+⎠⎟r = −
+e2
+4π ∈0 R3
+⎛
+⎝⎜
+⎞
+⎠⎟r = −Kr
+ 
+ 
+(b) From (a),  
+ 
+ 
+ 
+K =
+e2
+4π ∈0 R3 =
+kee2
+R3
+
+--- PAGE 33 ---
+96     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Fr = mear = −kee2
+R3
+⎛
+⎝⎜
+⎞
+⎠⎟r , so ar = −
+kee2
+meR3
+⎛
+⎝⎜
+⎞
+⎠⎟r = −ω 2r 
+ 
+ 
+Thus, the motion is simple harmonic with frequency  
+ 
+ 
+ 
+f = ω
+2π =
+1
+2π
+kee2
+meR3
+ 
+ 
+(d) 
+f = 2.47 × 1015 Hz = 1
+2π
+8.99 × 109 N ⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+9.11× 10−31 kg
+(
+)R3
+ 
+ 
+ 
+which yields R3 = 1.05 × 10−30 m3 , or R = 1.02 × 10−10 m 
+P24.63 
+(a) 
+The electric field throughout the region is 
+directed along x; therefore, 
+
+E will be 
+perpendicular to normal dA over the four 
+faces of the surface which are perpendicular 
+to the yz plane, and E will be parallel to 
+normal dA over the two faces which are 
+parallel to the yz plane. Therefore, 
+ 
+ 
+ 
+ΦE = −Ex x=a
+(
+)A + Ex x=a+c
+(
+)A
+ΦE = −3 + 2a2
+(
+)ab + 3 + 2 a + c
+(
+)
+2
+⎡⎣
+⎤⎦ab
+ΦE = 2abc 2a + c
+(
+)
+ 
+ 
+ 
+Substituting the given values for a, b, and c, and noting that the 
+units of electric flux are N . m/C, we find  
+ 
+ 
+  
+ΦE = 0.269 N⋅m2 /C
+ 
+ 
+(b) 
+ΦE = qin
+∈0
+→qin = ∈0 ΦE = 2.38 × 10−12 C 
+P24.64 
+The resultant field within the cavity is the  
+superposition of two fields, one 
+
+E+ due to a  
+uniform sphere of positive charge of radius 2a,  
+and the other 
+
+E− due to a sphere of negative  
+charge of radius a centered within the cavity. 
+ 
+ 
+ 
+4
+3
+π r3ρ
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟= 4π r2E+ 
+ 
+ANS. FIG. P24.63 
+ra
+rr
+rr1
+ANS. FIG. P24.64
+
+--- PAGE 34 ---
+Chapter 24     97 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+ 
+
+E+ = ρr
+3 ∈0
+ˆr = ρ r
+3 ∈0
+ 
+ 
+ 
+ 
+−4
+3
+π r1
+3ρ
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟= 4π r1
+2E−
+ 
+ 
+ 
+so 
+ 
+
+E−= ρr1
+3 ∈0
+−ˆr1
+(
+) = −ρ
+3 ∈0
+r1 
+ 
+Substituting r = a + r1 gives 
+ 
+ 
+ 
+ 
+
+E−= −ρ r −a
+(
+)
+3∈0
+ 
+ 
+Adding the fields gives 
+ 
+ 
+ 
+
+E =
+
+E+ +
+
+E−= ρ r
+3 ∈0
+−ρ r
+3 ∈0
++ ρ a
+3 ∈0
+= ρ a
+3 ∈0
+= 0ˆi + ρ a
+3 ∈0
+ˆj
+ 
+ 
+Thus, Ex = 0 and Ey = ρ a
+3 ∈0
+ at all points within the cavity. 
+P24.65 
+By symmetry, the electric field is radial and, therefore, uniform over 
+the gaussian surface:  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= qin
+∈0
+E 4π r2
+(
+) = 1
+∈0
+ρ dV
+0
+r
+∫
+= 1
+∈0
+a
+r
+⎛
+⎝⎜
+⎞
+⎠⎟4π r2 dr
+0
+r
+∫
+= a
+∈0
+4π rdr
+0
+r
+∫
+E 4π r2
+(
+) = 2πa
+∈0
+r2
+ 
+ 
+ 
+ 
+E =
+a
+2 ∈0
+, radially outward (if a is positive) 
+P24.66 
+(a) 
+We call the constant A’, reserving the symbol A to denote area. 
+The whole charge of the ball is 
+ 
+ 
+  
+Q =
+dQ =
+ρ
+ball∫
+ball∫
+dV =
+′
+A
+r = 0
+R
+∫
+r24πr2dr = 4π
+′
+A r5
+5 0
+R
+= 4π
+′
+A R5
+5
+ 
+ 
+ 
+To find the electric field, consider as gaussian surface a concentric 
+sphere of radius r outside the ball of charge: 
+ 
+ 
+In this case, 
+
+E ⋅d
+
+A
+∫
+= Q
+∈0
+reads
+EA cos 0° = Q
+∈0
+
+--- PAGE 35 ---
+98     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving, E(4πr2) = 4π
+′
+A R5
+5 ∈0
+ 
+ 
+ 
+and the electric field is E =
+′
+A R5
+5∈0 r2 
+ 
+(b) Let the gaussian sphere lie inside the ball of charge: 
+ 
+ 
+ 
+
+E ⋅d
+
+A
+spherical surface,
+radius r
+∫
+=
+dQ/
+spherical volume,
+radius r
+∫
+∈0
+ 
+ 
+ 
+Now the integrals become  
+ 
+ 
+ 
+E(cos 0)
+dA
+∫
+= ∫
+ρdV
+∈0
+or
+EA = ∫0
+r
+′
+A r2 4πr2
+(
+)dr
+∈0
+ 
+ 
+ 
+Performing the integration,  
+ 
+ 
+ 
+E(4πr2) =
+′
+A 4π
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟r5
+5
+⎛
+⎝
+⎞
+⎠0
+r
+=
+′
+A 4πr5
+5 ∈0
+ 
+ 
+ 
+and the field is E =
+′
+A r3
+5∈0 
+P24.67 
+In this case the charge density is not uniform, and Gauss’s law is 
+written as 
+
+E⋅d
+
+A
+∫
+= 1
+∈0
+ρ dV
+∫
+. We use a gaussian surface which is a 
+cylinder of radius r, length , and is coaxial with the charge 
+distribution. 
+ 
+(a) 
+When r < R, this becomes E 2π r
+(
+) = ρ0
+∈0
+a −r
+b
+⎛
+⎝⎜
+⎞
+⎠⎟dV
+0
+r
+∫
+. The element 
+of volume is a cylindrical shell of radius r, length , and thickness 
+dr so that dV = 2π rdr . 
+ 
+ 
+E 2π r
+(
+) =
+2π r2ρ0
+∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+a
+2 −r
+3b
+⎛
+⎝⎜
+⎞
+⎠⎟ so inside the cylinder,  
+ 
+ 
+ 
+E =
+ρ0r
+2 ∈0
+a −2r
+3b
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) When r > R, Gauss’s law becomes E 2π r
+(
+) = ρ0
+∈0
+a −r
+b
+⎛
+⎝⎜
+⎞
+⎠⎟2π rdr
+(
+)
+0
+R
+∫
+ 
+or outside the cylinder, E =
+ρ0R2
+2 ∈0 r a −2R
+3b
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 36 ---
+Chapter 24     99 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.68 
+The total flux through a surface enclosing the 
+charge Q is Q
+∈0
+. The flux through the disk is 
+ 
+ 
+Φdisk =
+
+E ⋅d
+
+A
+∫
+ 
+ 
+where the integration covers the area of the disk. 
+We must evaluate this integral and set it equal 
+to 1
+4
+Q
+∈0
+ to find how b and R are related. In the 
+figure, take d
+
+A to be the area of an annular ring of radius s and width 
+ds. The flux through d
+
+A is 
+E ⋅d
+
+A = EdAcosθ = E 2π sds
+(
+)cosθ . 
+ 
+The magnitude of the electric field has the same value at all points 
+within the annular ring, 
+ 
+ 
+E =
+1
+4π ∈0
+Q
+r2 =
+1
+4π ∈0
+Q
+s2 + b2     and     cosθ = b
+r =
+b
+s2 + b2
+(
+)
+1 2 
+ 
+Integrating from s = 0 to s = R to get the flux through the entire disk, 
+ 
+ 
+ΦE, disk = Qb
+2 ∈0
+sds
+s2 + b2
+(
+)
+3 2
+0
+R
+∫
+= Qb
+2 ∈0
+−s2 + b2
+(
+)
+−1 2
+⎡⎣
+⎤⎦
+0
+R
+= Q
+2 ∈0
+1−
+b
+R2 + b2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+The flux through the disk equals Q
+4∈0
+ provided that 
+b
+R2 + b2
+(
+)
+1 2 = 1
+2 . 
+ 
+This is satisfied if R =
+3b . 
+P24.69 
+ (a) The slab has left-to-right symmetry, so its field must be equal in 
+strength at x and at −x. The field points everywhere away from 
+the central plane. Take as gaussian surface a rectangular box of 
+thickness 2x and height and width L, centered on the x = 0 plane. 
+The gaussian surface, shown shaded in the second panel of ANS. 
+FIG. P24.69, lies inside the slab. The charge the surface contains is 
+ρV = ρ(2xL2). The total flux leaving it is EL
+2 through the right face, 
+EL
+2 through the left face, and zero through each of the other four 
+sides.  
+ 
+ANS. FIG. P24.68
+
+--- PAGE 37 ---
+100     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus Gauss’s law,  
+ 
+ 
+ 
+
+E⋅d
+
+A
+∫
+= q
+∈0
+ 
+ 
+ 
+becomes 
+ 
+ 
+ 
+2EL2 = ρ2xL2
+∈0
+ 
+ 
+ 
+so the field is    
+E = ρx
+∈0  
+ 
+(b) The electron experiences a force 
+opposite to 
+
+E. When displaced to x > 0, 
+it experiences a restoring force to the 
+left. For the electron, Newton’s second 
+law gives 
+ 
+ 
+  
+
+F = me
+a
+∑
+:
+          q
+
+E = me
+a
+or
+–eρxˆi
+∈0
+= me
+a
+ 
+ 
+ 
+Solving for the acceleration,  
+ 
+ 
+ 
+a = –
+eρ
+me ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟xˆi
+or
+a = –ω 2xˆi  
+ 
+ 
+That is, its acceleration is proportional to its displacement and 
+oppositely directed, as is required for simple harmonic motion.  
+ 
+ 
+Solving for the frequency, ω 2 =
+eρ
+me ∈0 and 
+ 
+ 
+ 
+ 
+f = ω
+2π =
+1
+2π
+eρ
+me ∈0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P24.69
+
+--- PAGE 38 ---
+Chapter 24     101 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P24.2 
+355 kN ⋅m2/C 
+P24.4 
+(a) −2.34 kN ⋅m2/C ; (b) +2.34 kN ⋅m2 /C ; (c) 0 
+P24.6 
+chw2/2 
+P24.8 
+−226 N ⋅m2 /C 
+P24.10 
+(a) –55.7 nC; (b) negative, spherically symmetric 
+P24.12 
+(a) 3.20 × 106 N ⋅m2 /C ; (b) 1.92 × 107 N ⋅m2 /C ; (c) The answer to 
+part (a) would change because the charge could now be at different 
+distances from each face of the cube. The answer to part (b) would be 
+unchanged because the flux through the entire closed surface depends 
+only on the total charge inside the surface. 
+P24.14 
+(a) 1.36 MN ⋅m2 /C ; (b) 678 kN ⋅m2 /C ; (c) no 
+P24.16 
+(a) 
+q
+2 ∈0
+; (b) 
+q
+2 ∈0
+; (c) The plane and the square look the same to the 
+charge. 
+P24.18 
+(a) The net flux is zero through the sphere because the number of field 
+lines entering the sphere equals the number of lines leaving the sphere; 
+(b) The net flux is 2πR
+2E through the cylinder; (c) The net charge inside 
+the cylinder is positive and is distributed on a plane parallel to the 
+ends of the cylinder. 
+P24.20 
+Q −6 q
+6∈0
+ 
+P24.22 
+(a) EA cos θ ; (b) –EA sin θ ; (c) –EA cos θ ; (d) EA sin θ ; (e) 0; (f) 0; (g) 0 
+P24.24 
+(a) 16.2 MN/C; (b) 8.09 MN/C; (c) 1.62 MN/C 
+P24.26 
+2.33 ×10
+21 N/C 
+P24.28 
+(a) ~10
+–3 N or 1 mN; (b) ~10
+–7 C or 100 nC; (c) ~10 kN/C;  
+(d) ~10 kN ⋅m2 /C 
+P24.30 
+(a) 4.86 × 10
+9 N/C away from the wall; (b) So long as the distance from 
+the wall is small compared to the width and height of the wall, the 
+distance does not affect the field. 
+P24.32 
+(a) 15.0 N ⋅m2 /C ; (b) 1.33 × 10
+–10 C; (c) No; fields on the faces would 
+not be uniform. 
+P24.34 
+(a) +913 nC; (b) 0
+
+--- PAGE 39 ---
+102     Gauss’s Law 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P24.36 
+5.94 × 10
+5 m/s 
+P24.38 
+The electric field just outside the surface occurs at 16.0 kN/C. The peak 
+in the figure occurs at about 6.5 kN/C. Therefore, it is not possible that 
+this figure represents the electric field for the given situation. 
+P24.40 
+See ANS. FIG. P24.40. 
+P24.42 
+(a) 31.9 nC/m
+3; (b) No; then the field would have to be zero. 
+P24.44 
+(a) 708 nC/m
+2; (b) 177 nC 
+P24.46 
+(a) 80.0 nC/m
+2; (b) 9.04 kN/C
+(
+) ˆk ; (c) −9.04 kN/C
+(
+) ˆk 
+P24.48 
+780 N/C 
+P24.50 
+(a) The charge on the exterior surface is –55.7 nC distributed 
+uniformly; (b) The charge on the interior surface is +55.7 nC. It can 
+have any distribution; (c) The charge within the shell is –55.7 nC. It can 
+have any distribution. 
+P24.52 
+Q
+2 ∈0
+1−cosθ
+(
+) 
+P24.54 
+(a) Q
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+; (b) ke
+Qr
+a3 ; (c) Q; (d) ke
+Q
+r2 ; (e) E = 0; (f) –Q; (g) +Q; (h) inner 
+surface of radius b 
+P24.56 
+(a) 0; (b) σ
+∈0
+ to the right; (c) 0; (d) (1) 2 σ
+∈0
+ to the left; (2) 0; (3) 2 σ
+∈0
+ to 
+the right 
+P24.58 
+(a) Qr3
+∈0 a3 ; (b) Q
+∈0
+; (c) See ANS. FIG. P24.58(c). 
+P24.60 
+(a) 2ke
+λ
+r , outward; (b) 2ke
+r
+λ + ρπ r2 −a2
+(
+)
+⎡⎣
+⎤⎦, outward;  
+(c) 2ke
+r
+λ + ρπ b2 −a2
+(
+)
+⎡⎣
+⎤⎦, outward 
+P24.62 
+(a) –Kr; (b) kee2
+R3 ; (c) 1
+2π
+kee2
+meR3 ; (d) 1.02 × 10
+–10 m 
+P24.64 
+Ex = 0  and  Ey = ρ a
+3 ∈0
+  
+P24.66 
+(a) AR5 5∈0 r2 ; (b) AR5 5∈0 
+P24.68 
+R =
+3b

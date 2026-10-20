@@ -1,0 +1,15 @@
+UNIVERSITY OF CAPE COAST
+SOFTWARE SUITE [CSC 107]
+SAM BRUCE KWESI 	     					PS/CSC/22/0134
+How do we call the space between two words
+Word spacing
+What is the space between two letters
+Letter spacing
+What is the space between two lines?
+Line spacing
+What is an object stroke?
+This refers to the outline or border surrounding an object such as picture shape etc.
+What is a text stroke?
+This refers to the thin line that surrounds or outlines text characters. 
+Differentiate between a gutter and a margin. 
+Margins are blank spaces around a text in a document, while gutters are wider margins that run along the binding edge of a book or document.

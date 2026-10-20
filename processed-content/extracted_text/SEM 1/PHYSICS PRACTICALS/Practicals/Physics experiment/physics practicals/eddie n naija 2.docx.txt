@@ -1,0 +1,33 @@
+TITLE:  Wheatstone bridge Experiment
+AIM: To determine the unknown resistance as a function of its cross-section.
+APPARATUS: 
+Resistance wire board, Slide wire measuring bridge, Connection box, Standard PEK carbon resistor, Unknown PEK carbon resistors, Power supply, 5V/1A, +/-15V, Digital multimeter 07134.00, Connection cord, 500mm, red, yellow and blue.
+DIAGRAM:
+THEORY:
+Wheatstone ridge is an instrument used in getting accurate resistance. For the Wheatstone bridge circuit, at the balanced point, the potential at C equals the potential at J and no current flows through the digital multimeter.   The potential difference across R equals R equal that across the length l2 and the potential difference across Rx equals l1
+Then  
+The resistance, R of a metal in the form of a wire is directly proportional to its length l and inversely proportional to its cross-sectional area. That is
+      and      R = ρ   ,
+     Where ρ is the constant of proportionality called Resistivity.
+Resistivity is the resistance of a wire of unit length and unit cross-sectional area. The resistivity of a wire is also defined mathematically as ;
+    Ρ = R   unit is Ωm.
+METHOD:
+ The experimental setup was as shown above.  Resister Q and the Standard resister R was connected using a connection box. The power supply was switched on and the correctness of the connection was checked by touching the bridge wire at the extreme ends (X and Y) with the slider (jockey) J and also the negative and positive readings were observed on the digital multimeter G. The balance point was located on the wire at J, the position where there is zero reading on the digital multimeter. The length l1 from the end X to the balanced point and also l2 was measured.  The experiment was repeated with the resistances wires of different diameters.
+TABLE OF RESULTS:
+GRAPH 
+A graph of Resistance against length per cross-sectional area
+DISCUSSION:
+ A graph of Resistance against cross –sectional area gives a slope, which is equal to the Resistivity of the wire used. The wire used is Constantan. The resistivity of Constantan in theory is 4.5x 10-7. From the graph above, the slope of the graph is 5.0 x10-7Ωm. The resistivity the wire used deviated by 0.00000005Ωm from that in theory. The differences could be attributed to the expansion and contraction of the wire due to the temperature changes in the lab. The resistivity could also differ because the jockey is vigorously used on the wire. The experiment can be said to be close to success because of the small deviation.
+PRECAUTIONS:
+1.	It was ensured that connections of the circuit were well tightened.
+2.	It was ensured that the measuring resistance R was successively in order of magnitude to Rx.
+CONCLUSION
+ The resistivity of the Constantan wire is 5.0 x 10-7Ωm.
+REFERENCES:
+(1) Faughn  J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages  391- 393.
+(2)Nelkon   .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+Diameter of wire | L1/mm  | L2/mm  | Cross sectional area/mm2 |  ( l/A )/m-1 | Cross sectional area/m | /Ω
+1 | 3 | 97 | 0.785 | 1.278 x106 | 7.85 x 10-7 | 0.3
+0.5 | 18 | 82 | 0.196 | 5.102 x 106 | 1.963 x 10-7 | 2
+0.7 | 8.2 | 91.8 | 0.385 | 2.597 x 106 | 3.85 x 10-7 | 0.9
+0.35 | 31.5 | 68.5 | 0.096 | 10.039x 106 | 9.62 x 10-8 | 4.5

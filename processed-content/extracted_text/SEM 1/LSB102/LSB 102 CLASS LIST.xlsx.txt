@@ -1,0 +1,166 @@
+
+--- SHEET: Sheet1 ---
+NAME | PROGRAMME
+Elyon Gibert Kofi Forson | BSC COMPUTER SCIENCE
+Asibon Benjamin | BSC COMPUTER SCIENCE
+Taopheeq Agboh | BSC COMPUTER SCIENCE
+Grant Sarfo Darkwa | BSC COMPUTER SCIENCE
+Bruce Sam kwesi | BSC COMPUTER SCIENCE
+Alidu Ridwan Issifu | BSC COMPUTER SCIENCE
+Emmanuel Gayivor | BSC COMPUTER SCIENCE
+Opoku Emmanuel Ampofo | BSC COMPUTER SCIENCE
+Kotey Foster Niikwei | BSC COMPUTER SCIENCE
+Oduro Simon | BSC COMPUTER SCIENCE
+Samuel Kusi Addai | BSC COMPUTER SCIENCE
+Mantey Rachel Cindy Awurabena | BSC COMPUTER SCIENCE
+Nana Kwame Appiah Mensah | BSC COMPUTER SCIENCE
+Ugbanjab Elisha | BSC COMPUTER SCIENCE
+Eugene Morcher | BSC COMPUTER SCIENCE
+Okaidjah Gillise Ayitey Oko | BSC COMPUTER SCIENCE
+Abdul Majeed Mohammed | BSC COMPUTER SCIENCE
+Godsway Pebbie Mensah | BSC (INFORMATION TECHNOLOGY)
+Angelina Oduro | BSC (INFORMATION TECHNOLOGY)
+Domfeh Sarpong | BSC (INFORMATION TECHNOLOGY)
+Rapheal McPeter Kwesi | BSC (INFORMATION TECHNOLOGY)
+Gertrude Akua Kankamah | BSC (INFORMATION TECHNOLOGY)
+Nana Kwame Baffoe Buah | BSC (INFORMATION TECHNOLOGY)
+Acheampong Wiafe Eugene | BSC (INFORMATION TECHNOLOGY)
+Richard Agbebo | BSC (INFORMATION TECHNOLOGY)
+Osei Kelvin Lord Coffie | BSC (INFORMATION TECHNOLOGY)
+Bless Selassie Kpogo | BSC (INFORMATION TECHNOLOGY)
+Kologbon Richard | BSC (INFORMATION TECHNOLOGY)
+Osei Desmond Junior | BSC (INFORMATION TECHNOLOGY)
+Joseph Arthur | BSC (INFORMATION TECHNOLOGY)
+Stanley Bart-Addison | BSC (INFORMATION TECHNOLOGY)
+Confidence Atiawin Atibila | BSC (INFORMATION TECHNOLOGY)
+Ampah Grace | BSC (INFORMATION TECHNOLOGY)
+Patrick Ankomah | BSC (INFORMATION TECHNOLOGY)
+Emmanuel Dadzie | BSC (MATHS AND STATISTICS
+Raymond Darko  | BSC (MATHS AND STATISTICS
+Tetteh Emmanuel | BSC (MATHS AND STATISTICS
+Aikins Solomon | BSC (MATHS AND STATISTICS
+Marriam Aba Sam | BSC (MATHS AND STATISTICS
+Asamoah Ronald Anthony Naylor | BSC (MATHS AND STATISTICS
+Danquah Princemark | BSC (MATHS AND STATISTICS
+Daniel Boateng | BSC( MATHS AND ECONOMICS)
+Kwabena Yeboah | BSC( MATHS AND ECONOMICS)
+Gyan Isaac | BSC( MATHS AND ECONOMICS)
+Paa Kwesi Aggrey Fynn | BSC( MATHS AND ECONOMICS)
+Stephen Dadzie | BSC( MATHS AND ECONOMICS)
+Egbenyah Lorenzo Kofi | BSC MATTHEMATICS AND BUSINESS
+Gifty Asare | BSC (PSYCHOLOGY )
+Esinam Cara | BSC (PSYCHOLOGY )
+Bernice Nako Ayiku | BSC (PSYCHOLOGY )
+Samuel Asare Boateng | BSC (FORENSIC SCINECE )
+Princess Mensah | BSC (FORENSIC SCINECE )
+Ebenezer Arthur | BSC (FORENSIC SCINECE )
+Lydia Dede Tetteh | BSC (BIOCHEMISTRY )
+Brempong Jesse Reginal | BSC (BIOCHEMISTRY )
+Priscilla Hammond | BSC (BIOCHEMISTRY )
+Deborah Amene Yobo  | BSC (BIOCHEMISTRY )
+Esther Josephine Offei Darko | BSC (ACTUARIAL SCIENCE )
+Audrey Adams | BSC (ACTUARIAL SCIENCE )
+Vincent Opare | BSC (ENGINEERING PHYSICS )
+Mark Jojoe Acheampong | BSC (METEOROLOGY AND ATMOSPHERIC PHYSICS )
+Osei Ahenkuro Edmond | LABORATORY TECHNOLOGY
+Kwadzodeh Denzel Kafui | LABORATORY TECHNOLOGY
+Smith Joseph Danquah | LABORATORY TECHNOLOGY
+Assina Gertrude Yenbila | LABORATORY TECHNOLOGY
+Arthur Bright kwame | LABORATORY TECHNOLOGY
+Isabella Jackson | LABORATORY TECHNOLOGY
+Acheampong Martin Ofori | B.ED (INFORMATION TECHNOLOGY)
+Baning Ransford | B.ED (INFORMATION TECHNOLOGY)
+Adomako Mabel | B.ED (INFORMATION TECHNOLOGY)
+Tairu Faeez | B.ED (INFORMATION TECHNOLOGY)
+Amenya Elikplim | B.ED (INFORMATION TECHNOLOGY)
+Amissah Moses | B.ED (INFORMATION TECHNOLOGY)
+Musah Yakubu | B.ED (INFORMATION TECHNOLOGY)
+Tetteh Jessica  | B.ED (INFORMATION TECHNOLOGY)
+Asah Ohene Emmanuel | B.ED (INFORMATION TECHNOLOGY)
+Alhassan Fatawo | B.ED (INFORMATION TECHNOLOGY)
+Gideon Yeboah | B.ED (INFORMATION TECHNOLOGY)
+Stephen Fianya | B.ED (INFORMATION TECHNOLOGY)
+Evan Abekah | B.ED (INFORMATION TECHNOLOGY)
+Anane John Akparibo | B.ED (INFORMATION TECHNOLOGY)
+Daniel Wadie Dapaah | B.ED (INFORMATION TECHNOLOGY)
+Tom Agyei | B.ED (INFORMATION TECHNOLOGY)
+Atie Joshua | B.ED (INFORMATION TECHNOLOGY)
+Mohammed Sani Issah | B.ED (INFORMATION TECHNOLOGY)
+Edna Asare | B.ED (ART)
+Osei Raymond | B.ED (ART)
+Banu issifu Diyaka | B.ED (ART)
+Akuffo Koran Emmanuella | B.ED (ART)
+Edward Akuoku Adomako | B.ED (ART)
+Kwao Irene Sitsofe | B.ED (ART)
+Audrey Akuba Nyame  | B.ED (ART)
+Nana Kwame Baffoe Buah | B.ED (ART)
+Josephine Adwoa Foawah | B.ED (ART)
+Wumbei Adam | B.ED (ART)
+Maria Issah | B.ED (ART)
+Ndele Ebenezer | B.ED (SOCIAL SCIENCE )
+Ebenezer Sarfo | B.ED (SOCIAL SCIENCE )
+Alhassan Fatimata | B.ED (SOCIAL SCIENCE )
+Ebenezer Sarfo | B.ED (SOCIAL SCIENCE )
+Emmanuel Nartey Teye | B.ED (SOCIAL SCIENCE )
+Appau Mak Afriyie | B.ED (SOCIAL SCIENCE )
+Nketia Aboagye Eunice | B.ED (SOCIAL SCIENCE )
+Akoamah Ernestina | B.ED (SOCIAL SCIENCE )
+Buabeng Isaac Fitson | B.ED (SOCIAL SCIENCE )
+Sylvester Abban | B.ED (SOCIAL SCIENCE )
+Ababio Kingsley | B.ED (SOCIAL SCIENCE )
+Anna Tina Taylor | B.ED (SOCIAL SCIENCE )
+Irene Aboagyewaa Odane | B.ED (SOCIAL SCIENCE )
+Agbemade Samuel | B.ED (SOCIAL SCIENCE )
+Alili Ruhanatu Precious | B.ED (PRIMARY )
+David Korang  | B.ED (EARLY CHILDHOOD EDUCATION)
+Espiranza Twum Barimah | B.ED (EARLY CHILDHOOD EDUCATION)
+Amankwa Bright Asiedu | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Safia Surakatu Umar | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Addai Richard Ansah | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Nkaryo Stephen Akwesi | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Akplobi Bright | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Owusu Clifford Agyena-Ansah | B.ED (BASIC JUNIOR HIGH SCHOOL)
+Pirimbo bernard | B.ED (HYPER )
+Dominic saani | B.ED (HYPER )
+Twum-Antwi Ofori | B.ED (HYPER )
+Harrison Rchard | B.ED (SCIENCE  )
+Osei Gyamera Clement | B.ED (SCIENCE  )
+Mohammed Sherifudeen | B.ED (SCIENCE  )
+Baforkor Ibrahim Lukman | B.ED (SCIENCE  )
+Linda Agyeiwaa Osae | B.ED (ACCOUNTING )
+Rose Adu-Ampomah | B.ED (ACCOUNTING )
+Stephen Kofi Boakye | B.ED (ACCOUNTING )
+Grace Mensah | B.ED (ACCOUNTING )
+Racheal Addo | B.ED (ACCOUNTING )
+Kezzia-Moses Mensah | B.ED (ACCOUNTING )
+Daniel Boateng | BSC( MATHS AND ECONOMICS)
+Kwabena Yeboah | BSC( MATHS AND ECONOMICS)
+Gyan Isaac | BSC( MATHS AND ECONOMICS)
+Paa Kwesi Aggrey Fynn | BSC( MATHS AND ECONOMICS)
+Stephen Dadzie | BSC( MATHS AND ECONOMICS)
+Emmanuel Dadzie | BSC (MATHS AND STATISTICS
+Raymond Darko  | BSC (MATHS AND STATISTICS
+Tetteh Emmanuel | BSC (MATHS AND STATISTICS
+Aikins Solomon | BSC (MATHS AND STATISTICS
+Marriam Aba Sam | BSC (MATHS AND STATISTICS
+Asamoah Ronald Anthony Naylor | BSC (MATHS AND STATISTICS
+Danquah Princemark | BSC (MATHS AND STATISTICS
+Wapeah solomon | B.ED (MATHEMATICS )
+Afram Ernest | B.ED (MATHEMATICS )
+Yobo Sampson | B.ED (MATHEMATICS )
+Masawud Abdul Rashid | B.ED (MATHEMATICS )
+Mens Abraham Oduro | B.ED (MATHS AND CHEMISTRY )
+Klinogo Kwabena Felix | B.ED (MATHEMATICS AND PHYSICS
+Nutassey Abraham | B.ED (MATHEMATICS AND MANAGEMENT)
+Fuglo Cephas | B.ED (MATHEMATICS AND GEO )
+Richard Festus Amponsah | B.ED (MATHEMATICS AND ACCOUNTING )
+Egbenyah Lorenzo Kofi | BSC MATTHEMATICS AND BUSINESS
+Emmanuel Essel | B.ED (MANAGEMENT )
+Antwi Claudia | B.ED (MANAGEMENT )
+Kwabena Acheampong Ntori | B.ED (SOCIAL STUDIES )
+Kirsty Dzidzo Treku | B.ED (COMMUNICATION DESIGN )
+Jude Amakye | B.ED (COMMUNICATION DESIGN )
+
+--- SHEET: Sheet2 ---
+
+--- SHEET: Sheet3 ---

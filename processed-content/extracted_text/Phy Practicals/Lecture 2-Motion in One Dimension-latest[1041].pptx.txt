@@ -1,0 +1,522 @@
+
+--- SLIDE 1 ---
+Motion in One Dimension
+
+--- SLIDE 2 ---
+Kinematics
+Describes motion while ignoring the external agents that might have caused or modified the motion
+For now, will consider motion in one dimension
+Along a straight line
+i.e. Rectilinear Motion
+Motion represents a continual change in an object’s position.
+
+
+--- SLIDE 3 ---
+Types of Motion
+Translational/Rectilinear 
+An example is a car traveling on a highway.
+Rotational
+An example is the Earth’s spin on its axis.
+Vibrational
+An example is the back-and-forth movement of a pendulum.
+
+--- SLIDE 4 ---
+Introduction
+What do we mean by motion in one dimension?
+An object A is in “motion” means that its position with respect to another object B changes with time.
+    E.g. Houses and trees are in motion with respect to    
+    the Sun but are not in motion with respect to each     
+   other
+Motion in one dimension means that we restrict the object to travel along one axis only
+    Examples: 
+(i) A car moving along a flat, straight, narrow road
+(ii) A leaf falling straight down from a tree
+Here motion is confined to a straight line
+
+
+--- SLIDE 5 ---
+Introduction, cont.
+For such restricted motion, there are only two possible directions (positive & negative), up/ down, left/ right
+
+--- SLIDE 6 ---
+Objective of Lecture
+Learn about the relationship between distance/ displacement, velocity and acceleration
+
+--- SLIDE 7 ---
+Particle Model
+To describe motion of an object in one dimension, treat the object as a particle.
+
+A particle is a point-like object; has mass but infinitesimal size
+- This course will adopt the particle model
+
+This means that the variations in its rotational motion or its internal structure do not occur or are not of concern
+
+
+
+
+--- SLIDE 8 ---
+Definitions
+To define our quantities, we first set up a coordinate, which in this case (is one dimensional) is a straight line with a reference point O on it.
+
+To every point on the line assign a number x (in cm, n, miles…) that measures the distance Ox
+
+The sign of x depends on its position relative to O
+Usually, points to the right of O are positive
+Points to the left of O are negative
+
+Suppose at time t1, a particle is at x1  (i.e. position x1 )
+         and at time t2, the particle is at position x2  
+
+
+
+--- SLIDE 9 ---
+Position: Example
+The object’s position is its location with respect to a chosen reference point (0).
+Consider the point (0)to be the origin of a coordinate system.
+We are only interested in the car’s translational motion, so model it as a particle
+
+
+--- SLIDE 10 ---
+Tabular Representation: Data Table
+The table gives the actual data collected during the motion of the object (car).
+Positive is defined as being to the right
+This is another representations of the motion of the car
+
+--- SLIDE 11 ---
+Graphical Representation: Position-Time Graph
+The position-time graph shows the motion of the particle (car).
+The smooth curve is a guess as to what happened between the data points.
+This is one representation of the motion of the car
+
+--- SLIDE 12 ---
+Displacement and Distance
+Displacement is defined as the change in position during some time interval.
+Represented as x (pronounced as delta x)
+	x ≡ xfinal – xinitial = xf - xi
+SI units are meters (m) 
+x can be positive or negative
+Different from distance 
+Distance is the length of a path followed by a particle.
+Note: Displacement can also be defined as distance moved in a given direction
+
+
+--- SLIDE 13 ---
+Problem
+ A car is at a position A=20 km from its starting point. One hour later, it is at B = 60 km away. What is the displacement of the car?
+Solution: 
+Δx= xB – xA = (60-20) km = 40 km
+
+
+--- SLIDE 14 ---
+Differences Between Distance and  Displacement – An Example
+Assume a player moves from one end of the court to the other and back. 
+Distance is twice the length of the court
+Distance is always positive
+
+Here, displacement is zero
+Δx = xf – xi = 0 
+since  xf = xi
+
+--- SLIDE 15 ---
+Vectors and Scalars
+Vector quantities need both magnitude (size or numerical value) and direction to completely describe them.
+Will use + and – signs to indicate vector directions 
+
+Scalar quantities are completely described by magnitude only.
+
+
+
+--- SLIDE 16 ---
+Speed and Velocity
+The average speed of a particle is the ratio of the total distance travelled to the total time taken, regardless of direction
+
+Average speed = total distance (d) /total time (t)
+	Unit: m/s (SI) ; km/h, miles/h
+
+The average speed tells you nothing about the details of the motion of the particle
+
+--- SLIDE 17 ---
+Velocity
+The concept of velocity is similar to that of speed but differs because it specifies the direction of the motion
+Definition of Velocity: The Average Velocity,  vav, of a particle is its displacement, Δx, divided by the time interval, Δt, in which the displacement occurs:
+
+
+
+
+
+--- SLIDE 18 ---
+Velocity, cont.
+Average velocity has a direction in space.
+In one-dimensional problems, vav  has a + sign  or - sign.
+  (i) If vav  is +, it means the particle moves in the positive x direction
+ (ii) If vav  is -, it means the particle moves in the negative x direction
+
+
+--- SLIDE 19 ---
+Average Speed and Average Velocity
+Speed is a scalar quantity.
+Has the same units as velocity
+Defined as total distance / total time
+
+The speed has no direction and is always expressed as a positive number.
+
+Neither average velocity nor average speed gives details about the trip described.
+
+
+--- SLIDE 20 ---
+Average Speed and Average Velocity
+The average speed is not the magnitude of the average velocity.
+For example, if a runner ends at her starting point.
+Her displacement is zero.
+Therefore, her velocity is zero.
+However, the distance traveled is not zero, so the speed is not zero.
+
+--- SLIDE 21 ---
+Instantaneous Velocity
+Suppose a particle moves with constant velocity, then at all times its velocity, v = vav , average velocity 
+
+ What happens if the particle moves with a velocity that varies with time?
+         —Need to define the velocity of the particle at a single instant
+
+The instantaneous velocity indicates what is happening at every point of time
+
+--- SLIDE 22 ---
+Instantaneous Velocity
+Instantaneous Velocity is defined as the limit of the average velocity as the time interval becomes infinitesimally short, or as the time interval approaches zero.
+
+
+
+That is, make Δt smaller and smaller
+
+--- SLIDE 23 ---
+Graphical Representation of Instantaneous Velocity
+The instantaneous velocity is the slope of the line tangent to the x vs. t curve.
+This would be the green line.
+The blue lines show that as t gets smaller, they approach the green line.
+
+In other words, as Δt gets smaller and smaller, we get a “truer” value of the velocity at a particular point 
+
+--- SLIDE 24 ---
+Instantaneous Velocity, cont.
+The instantaneous velocity can be positive, negative, or zero
+
+
+
+
+--- SLIDE 25 ---
+Vocabulary Note
+“Velocity” and “speed” will indicate instantaneous values.
+
+Average will be used when the average velocity or average speed is indicated.
+
+
+--- SLIDE 26 ---
+A Particle Under Constant Velocity
+Constant velocity indicates the instantaneous velocity at any instant during a time interval and is the same as the average velocity during that time interval.
+v = vavg
+
+The mathematical representation of this situation is the equation.
+
+
+
+
+
+Common practice is to let ti = 0 and the equation becomes:
+xf = xi + vt      (for constant v) 
+ 	
+
+--- SLIDE 27 ---
+Graph of Particle Under Constant Velocity 
+The graph represents the motion of a particle under constant velocity.
+
+The slope of the graph is the value of the constant velocity.
+
+The y-intercept is xi.
+
+--- SLIDE 28 ---
+A Particle Under Constant Speed
+A particle under constant velocity moves with a constant speed along a straight line.
+A particle can also move with a constant speed along a curved path.
+This can be represented with a model of a particle under constant speed.
+The primary equation is the same as for average speed, with the average speed replaced by the constant speed.
+
+--- SLIDE 29 ---
+Average Acceleration
+Acceleration is the rate of change of the velocity.
+	
+
+Dimensions are L/T2
+SI units are m/s²
+In one dimension, positive and negative can be used to indicate direction.
+
+
+--- SLIDE 30 ---
+Instantaneous Acceleration
+The instantaneous acceleration is the limit of the average acceleration as t approaches 0.
+	
+
+The term acceleration will mean instantaneous acceleration.
+If average acceleration is wanted, the word average will be included.
+
+
+--- SLIDE 31 ---
+Graph of Instantaneous Acceleration
+The slope of the velocity-time graph is the acceleration.
+The green line represents the instantaneous acceleration.
+The blue line is the average acceleration.
+
+--- SLIDE 32 ---
+Acceleration and Velocity, Directions
+When an object’s velocity and acceleration are in the same direction, the object is speeding up.
+
+When an object’s velocity and acceleration are in the opposite direction, the object is slowing down.
+
+
+--- SLIDE 33 ---
+Announcements
+Quiz 1
+    	Thursday, October ?? @ CELT 11 or 8
+	TIME: 6:30 AM or 4:00 PM PROMPT
+2. Additional Lecture Hour: 
+	
+3. Tutorials: Saturdays @ 2:30 PM 
+
+--- SLIDE 34 ---
+Acceleration and Force
+The acceleration of an object is related to the total force exerted on the object.
+The force is proportional to the acceleration, 
+    Fx  a . 
+Assume the velocity and acceleration are in the same direction.
+The force is in the same direction as the velocity and the object speeds up.
+Assume the velocity and acceleration are in opposite directions.
+The force is in the opposite direction as the velocity and the object slows down.
+
+--- SLIDE 35 ---
+Kinematic Equations
+The kinematic equations can be used with any particle under uniform acceleration.
+The kinematic equations may be used to solve any problem involving one-dimensional motion with a constant acceleration.
+You may need to use two of the equations to solve one problem.
+Many times there is more than one way to solve a problem
+
+--- SLIDE 36 ---
+Kinematic Equations, 1
+For constant a,
+
+
+Can determine an object’s velocity at any time t when we know its initial velocity and its acceleration
+Assumes ti = 0 and tf = t
+Does not give any information about displacement
+
+
+--- SLIDE 37 ---
+Kinematic Equations, 2
+For a body moving at a constant acceleration,
+
+
+The average velocity can be expressed as the arithmetic mean of the initial and final velocities.
+This applies only in situations where the acceleration is constant.
+
+--- SLIDE 38 ---
+Kinematic Equations, 3
+For constant acceleration,
+
+
+
+This gives you the position of the particle in terms of time and velocities.
+
+Doesn’t give you the acceleration
+
+
+--- SLIDE 39 ---
+Kinematic Equations, 4
+For constant acceleration,
+
+
+
+Gives final position in terms of velocity and acceleration
+
+Doesn’t tell you about final velocity
+
+
+--- SLIDE 40 ---
+Kinematic Equations, 5
+For constant a,
+
+
+
+Gives final velocity in terms of acceleration and displacement
+
+Does not give any information about the time
+
+
+--- SLIDE 41 ---
+Special Case: When a = 0
+When the acceleration is zero,
+   vf = vi = v
+   xf = xi + vt
+
+The constant acceleration model reduces to the constant velocity model.
+
+--- SLIDE 42 ---
+Kinematic Equations – summary 
+
+--- SLIDE 43 ---
+Graphical Look at Motion: Velocity – Time curve
+The slope gives 
+   the acceleration.
+
+The straight line   
+   indicates a  constant      
+   acceleration.
+
+--- SLIDE 44 ---
+Graphical Look at Motion: Acceleration – Time curve
+The zero slope indicates a constant acceleration.
+
+--- SLIDE 45 ---
+Graphical Comparison
+Given the displacement-time graph (a)
+The velocity-time graph is found by measuring the slope of the position-time graph at every instant.
+The acceleration-time graph is found by measuring the slope of the velocity-time graph at every instant.
+
+--- SLIDE 46 ---
+Galileo Galilei
+1564 – 1642
+Italian physicist and astronomer
+Formulated laws of motion for objects in free fall
+
+--- SLIDE 47 ---
+Freely Falling Objects
+A freely falling object is any object moving freely under the influence of gravity alone.
+
+It does not depend upon the initial motion of the object.
+Dropped – released from rest
+Thrown downward
+Thrown upward
+
+--- SLIDE 48 ---
+Acceleration of Freely Falling Object
+The acceleration of an object in free fall is directed downward, regardless of the initial motion.
+The magnitude of free fall acceleration is g = 9.80 m/s2.
+g decreases with increasing altitude
+g varies with latitude
+9.80 m/s2 is the average at the Earth’s surface
+Don’t confuse g with g for grams
+
+--- SLIDE 49 ---
+Acceleration of Free Fall, cont.
+We will neglect air resistance.
+Free fall motion is constantly accelerated motion in one dimension.
+If you choose upward to be positive
+Use the kinematic equations 
+With a = -g = -9.80 m/s2  
+Note displacement is in the vertical direction
+
+--- SLIDE 50 ---
+Free Fall – An Object Dropped
+Initial velocity is zero
+Let up be positive
+Use the kinematic equations
+Generally use y instead of x since motion is vertical
+Acceleration is 
+a=ay = -g = -9.80 m/s2
+
+
+--- SLIDE 51 ---
+Free Fall – An Object Thrown Downward
+a = ay = g = 9.80 m/s2
+Initial velocity  0
+With upward being positive, initial velocity will be negative.
+
+--- SLIDE 52 ---
+Kinematic Equations – General Calculus Form
+
+--- SLIDE 53 ---
+Kinematic Equations – From Integration
+The integration form of vf – vi gives 
+The integration form of xf – xi gives
+
+--- SLIDE 54 ---
+General Problem Solving Strategy
+In addition to basic physics concepts, a valuable skill is the ability to solve complicated problems.
+Steps in a general problem solving approach:
+Conceptualize
+Categorize
+Analyze
+Finalize
+
+--- SLIDE 55 ---
+Problem Solving – Conceptualize 
+Think about and understand the situation.
+Make a quick drawing of the situation.
+Gather the numerical information.
+Include algebraic meanings of phrases.
+Focus on the expected result.
+Think about units.
+Think about what a reasonable answer should be.
+
+--- SLIDE 56 ---
+Problem Solving – Categorize 
+Simplify the problem.
+Can you ignore air resistance? 
+Model objects as particles 
+Classify the type of problem.
+Substitution
+Analysis
+Try to identify similar problems you have already solved.
+What analysis model would be useful?
+
+--- SLIDE 57 ---
+Problem Solving – Analyze 
+Select the relevant equation(s) to apply.
+Solve for the unknown variable.
+Substitute appropriate numbers.
+Calculate the results.
+Include units
+Round the result to the appropriate number of significant figures.
+
+
+--- SLIDE 58 ---
+Problem Solving – Finalize
+Check your result.
+Does it have the correct units?
+Does it agree with your conceptualized ideas?
+Look at limiting situations to be sure the results are reasonable.
+Compare the result with those of similar problems.
+
+--- SLIDE 59 ---
+Problem Solving – Some Final Ideas
+When solving complex problems, you may need to identify sub-problems and apply the problem-solving strategy to each sub-part.
+These steps can be a guide for solving problems in this course.
+
+--- SLIDE 60 ---
+Problem 1
+The position of a particle moving along the x axis is given by x = (21 + 22t - 6.0t2)m, where t is in s. What is the average velocity during the time interval t = 1.0 s to t = 3.0 s?
+
+Ans: -2m/s
+
+
+--- SLIDE 61 ---
+Problem 2
+	A bullet is fired through a board, 14.0 cm thick, with its line of motion perpendicular to the face of the board. If it enters with a speed of 450 m/s and emerges with a speed of 220 m/s, what is the bullet's acceleration as it passes through the board?
+
+Ans: -5.50 x 105m/s2
+
+
+--- SLIDE 62 ---
+Problem 3
+ 	A particle moving along the x axis has a position given by x = (24t – 2.0t3) m, where t is measured in s. What is the magnitude of the acceleration of the particle at the instant when its velocity is zero?
+ Ans: 24 m/s
+
+--- SLIDE 63 ---
+Problem 4
+ 	An automobile moving along a straight track changes its velocity from 40 m/s to 80 m/s in a distance of 200 m. What is the (constant) acceleration of the vehicle during this time?
+
+
+
+
+--- SLIDE 64 ---
+Problem 5
+   An automobile moving along a straight track changes its velocity from 40 m/s to 80 m/s in a distance of 200 m. What is the (constant) acceleration of the vehicle during this time?
+
+	Ans: 12 m/s

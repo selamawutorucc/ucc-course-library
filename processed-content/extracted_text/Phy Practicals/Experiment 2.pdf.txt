@@ -1,0 +1,152 @@
+
+--- PAGE 1 ---
+AIM 
+The aim of the experiment is to use the Wheatstone bridge circuit to determine the resistance of 
+constantan wires of different diameters and the resistivity of a constantan wire. 
+ 
+APPARATUS 
+Resistance wire board                            1 
+Slide wire measurement bridge             1 
+Connection box                                      1 
+Standard PEK carbon resistor                1 
+PEK carbon resistor, Q                          1 
+Power supply, 5V/1A, +/-15V               1 
+Digital multimeter 07134.00                  1 
+Connection cord, 500mm, red                2 
+Connection cord, 500mm, yellow          2 
+Connection cord, 500mm, blue              2 
+ 
+DIAGRAM
+
+--- PAGE 2 ---
+THEORY 
+For a Wheatstone bridge circuit, at the balanced point, the potential at C equals the potential at J and no 
+current flows through the digital multimeter. The potential difference across R equals that across the 
+length l2 and the potential difference across Rx equals that across l1. 
+Then,                   
+ 
+   
+  
+  
+  and      
+  
+  
+ 
+The resistance of the material of the wire is proportional to its length and inversely proportional to its 
+cross-sectional area. That is,                 
+ 
+  
+   
+ 
+  where ρ is the resistivity of the material of the wire. 
+ 
+PROCEDURE 
+The experiment was set up as displayed in the manual. The resistances (wire resistances) to be 
+investigated are shown in the diagram above. 
+Resistor Q and the standard resistor R were connected as shown on the diagram using the connection box. 
+The power supply was switched on and the correction of the connections was checked by touching the 
+bridge wire at the extreme ends X and Y with the slider J. Observing negative and positive readings on 
+the digital multimeter G confirmed the correct connections. The balanced point was located on the wire at 
+J, the position where there is zero reading on the digital multimeter. 
+The length l1 was measured from the end point X to the balanced point and also l2. The experiment was 
+repeated with the resistance wires of different diameters. The resistances of Q in each of the wires are 
+calculated. Also for each wire, the cross-sectional area was determined. The results were tabulated. 
+A graph of the resistances of the wires    against 
+ 
+  was plotted where l is the length of the wire. 
+The slope was determined and its significance indicated. 
+ 
+TABLE OF RESULTS 
+Diameter of wire Cross- sectional area / x10-7m 
+l1 / mm 
+l2 / mm 
+    
+  
+   / Ω 
+ 
+  / x106 m-1 
+Constantan 1 
+7.85 
+62 
+938 
+0.66 
+1.27 
+Constantan 0.5 
+1.96 
+204 
+796 
+2.56 
+5.10 
+Constantan 0.75 
+4.41 
+116 
+884 
+1.31 
+2.26 
+Constantan 0.35 
+0.96 
+344 
+656 
+5.24 
+10.41
+
+--- PAGE 3 ---
+y = 0.5061x 
+0
+1
+2
+3
+4
+5
+6
+0
+2
+4
+6
+8
+10
+12
+RX / Ω 
+l/A   / x106 m-1 
+A GRAPH OF RX AGAINST  l/A   
+∆l/A 
+∆RX
+
+--- PAGE 4 ---
+CALCULATION 
+        
+   
+⁄
+ 
+          
+                      
+     
+                        
+Comparing             to        
+ 
+    it implies that the slope m is similar the ρ which is the 
+resistivity of the material of the wire. 
+So,               . 
+ 
+DISCUSSION 
+Using the diameters of the wires indicated on the resistance wire board, the cross-sectional areas were 
+determined in the formula 
+   
+  where d is the diameter of the wire. The length of the wire was divided by 
+the cross-sectional areas respectively. Also from the slide wire measuring bridge, the resistance of the 
+wires RX was also determined by multiplying the standard resistor of 10Ω by the ratio of l1 and l2. When a 
+graph of RX against l/A was plotted, it produced a straight line passing through the origin (0,0). The slope 
+was found to be 0.506 x 10-6Ωm and since the slope is the resistivity in the formula given in the theory 
+above, it means the slope is the resistivity of the material of the wire. In other words, the resistivity of the 
+material of the wire is 0.506 x 10-6Ωm. 
+ 
+SOURCES OF ERROR 
+1. 1. Most of the time the balanced point fell in a range of about 10mm and so the precise 
+point could have been different from the point recorded. 
+ 
+PRECAUTIONS 
+1. It was always made sure that the jockey firmly touched wire throughout the reading so as 
+not to obtain a wrong value for the resistance. 
+2. The connections were always checked after each reading ensure consistent correct value.
+
+--- PAGE 5 ---

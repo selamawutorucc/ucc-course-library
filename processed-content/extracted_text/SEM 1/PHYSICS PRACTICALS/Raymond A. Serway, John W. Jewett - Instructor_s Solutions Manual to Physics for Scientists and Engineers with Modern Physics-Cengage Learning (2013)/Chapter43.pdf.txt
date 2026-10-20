@@ -1,0 +1,5526 @@
+
+--- PAGE 1 ---
+1054 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+43 
+Molecules and Solids 
+ 
+CHAPTER OUTLINE 
+ 
+43.1  
+Molecular Bonds 
+43.2 
+Energy States and Spectra of Molecules 
+43.3  
+Bonding in Solids  
+43.4 
+Free-Electron Theory of Metals 
+43.5  
+Band Theory of Solids 
+43.6 
+Electrical Conduction in Metals, Insulators, and Semiconductors 
+43.7  
+Semiconductor Devices 
+43.8 
+Superconductivity 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ43.1 
+(a) False. An infinite current would produce an infinite magnetic 
+field that would penetrate the surface of the superconductor and 
+destroy the superconducting properties. (b) False. There is no 
+physical requirement that a superconductor carry a current. (c) True. 
+(d) True. (e) True. Collisions do not occur between Cooper pairs and 
+the lattice ions.  
+OQ43.2 
+Answer (b). At higher temperature, molecules are typically in higher 
+rotational energy levels before as well as after infrared absorption.  
+OQ43.3 
+(i) 
+Answer (c). Think of aluminum foil.  
+ 
+(ii) Answer (a). An example is NaCl, table salt.  
+ 
+(iii) Answer (b). Examples are elemental silicon and carborundum 
+(silicon carbide).
+
+--- PAGE 2 ---
+Chapter 43     1055 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ43.4 
+(i) 
+Answer (b). The density of states is proportional to the energy 
+to the one-half power.  
+ 
+(ii) Answer (a). Most states well above the Fermi energy are 
+unoccupied.  
+OQ43.5 
+Answer (b). First consider electric conduction in a metal. The number 
+of conduction electrons is essentially fixed. They conduct electricity 
+by having drift motion in an applied electric field superposed on 
+their random thermal motion. At higher temperature, the ion cores 
+vibrate more and scatter more efficiently the conduction electrons 
+flying among them. The mean time between collisions is reduced. 
+The electrons have time to develop only a lower drift speed. The 
+electric current is reduced, so we see the resistivity increasing with 
+temperature. 
+ 
+Now consider an intrinsic semiconductor. At absolute zero its 
+valence band is full and its conduction band is empty. It is an 
+insulator, with very high resistivity. As the temperature increases, 
+more electrons are promoted to the conduction band, leaving holes in 
+the valence band. Then both electrons and holes move in response to 
+an applied electric field. Thus we see the resistivity decreasing as 
+temperature goes up.  
+OQ43.6 
+(i) and (ii) Answer (a) for both. Either kind of doping contributes 
+more mobile charge carriers, either holes or electrons.  
+OQ43.7 
+The ranking is then b > d > c > a. If you start with a solid sample and 
+raise its temperature, it will typically melt first, then start emitting 
+lots of far infrared light, then emit light with a spectrum peaking in 
+the near infrared, and later have its molecules dissociate into atoms. 
+Rotation of a diatomic molecule involves less energy than vibration. 
+Absorption and emission of microwave photons, of frequency ~10
+11 
+Hz, accompany excitation and de-excitation of rotational motion, 
+while infrared photons, of frequency ~10
+13 Hz, accompany changes in 
+the vibration state of typical simple molecules.  
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ43.1 
+A material can absorb a photon of energy greater than the energy 
+gap, as an electron jumps into a higher energy state; therefore, silicon 
+can absorb visible light, thus appearing opaque. If the photon does 
+not have enough energy to raise the energy of the electron by the 
+energy gap, then the photon will not be absorbed; therefore, 
+diamond cannot absorb visible light, thus appearing transparent.
+
+--- PAGE 3 ---
+1056     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ43.2 
+Rotational, vibrational, and electronic (as discussed in Chapter 42) 
+are the three major forms of excitation. Rotational energy for a 
+diatomic molecule is on the order of 2
+2I , where I is the moment of 
+inertia of the molecule. A typical value for a small molecule is on the 
+order of 1 meV = 10
+–3 eV. Vibrational energy is on the order of hf, 
+where f is the vibration frequency of the molecule. A typical value is 
+on the order of 0.1 eV. Electronic energy depends on the state of an 
+electron in the molecule and is on the order of a few eV. The 
+rotational energy can be zero, but neither the vibrational nor the 
+electronic energy can be zero.  
+CQ43.3 
+From the rotational spectrum of a molecule, one can easily calculate 
+the moment of inertia of the molecule using Equation 43.7 in the text. 
+Note that with this method, only the spacing between adjacent 
+energy levels needs to be measured. From the moment of inertia, the 
+size of the molecule can be calculated, provided that the structure of 
+the molecule is known.  
+CQ43.4 
+Along with arsenic (As), any other element in group V, such as 
+phosphorus (P), antimony (Sb), and bismuth (Bi), would make good 
+donor atoms. Each has 5 valence electrons. Any element in group III 
+would make good acceptor atoms, such as boron (B), aluminum (Al), 
+gallium (Ga), and indium (In). They all have only 3 valence electrons.  
+CQ43.5 
+The energy of the photon is given to the electron. The energy of a 
+photon of visible light is sufficient to promote the electron from the 
+lower-energy valence band to the higher-energy conduction band. 
+This results in the additional electron in the conduction band and an 
+additional hole—the energy state that the electron used to occupy—
+in the valence band.  
+CQ43.6 
+(a) 
+In a metal, there is no energy gap between the valence and 
+conduction bands, or the conduction band is partly full even at 
+absolute zero in temperature. Thus an applied electric field is 
+able to inject a tiny bit of energy into an electron to promote it to 
+a state in which it is moving through the metal as part of an 
+electric current. In an insulator, there is a large energy gap 
+between a full valence band and an empty conduction band. An 
+applied electric field is unable to give electrons in the valence 
+band enough energy to jump across the gap into the higher 
+energy conduction band. In a semiconductor, the energy gap 
+between valence and conduction bands is smaller than in an 
+insulator.
+
+--- PAGE 4 ---
+Chapter 43     1057 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At absolute zero the valence band is full and the conduction 
+band is empty, but at room temperature thermal energy has 
+promoted some electrons across the gap. Then there are some 
+mobile holes in the valence band as well as some mobile 
+electrons in the conduction band.  
+CQ43.7 
+(a) 
+The two assumptions in the free-electron theory are that the 
+conduction electrons are not bound to any particular atom, and 
+that the nuclei of the atoms are fixed in a lattice structure. In this 
+model, it is the “soup” of free electrons that are conducted 
+through metals.  
+ 
+(b) The energy band model is more comprehensive than the free-
+electron theory. The energy band model includes an account of 
+the more tightly bound electrons as well as the conduction 
+electrons. It can be developed into a theory of the structure of 
+the crystal and its mechanical and thermal properties.  
+CQ43.8 
+A molecule containing two atoms of D = 
+2H, deuterium, has twice the 
+mass of a molecule containing two atoms of ordinary hydrogen 
+1H; 
+therefore the deuterium molecule has twice the reduced mass of the 
+hydrogen molecule. The atoms have the same electronic structure, so 
+the molecules have the same interatomic spacing, and the same 
+spring constant. Therefore, each vibrational energy level for D2 is 
+1
+2 times that of H2. The moment of inertia of deuterium is twice 
+as large and the rotational energies one-half as large as for the 
+ordinary hydrogen molecule.  
+CQ43.9 
+Ionic bonds are ones between oppositely charged ions. One atom 
+essentially steals an electron from another; for example, in table salt, 
+NaCl, the chlorine atom takes the outer 3s electron from the sodium 
+atom, resulting in two ions Cl
+–
+ and Na
++. A simple model of an ionic 
+bond is the electrostatic attraction of a negatively charged latex 
+balloon to a positively charged Mylar balloon.  
+ 
+Covalent bonds are ones in which atoms share electrons. Classically, 
+two children playing a short-range game of catch with a ball models 
+a covalent bond. On a quantum scale, the two atoms are sharing a 
+wave function, so perhaps a better model would be two children 
+using a single hula hoop.  
+ 
+Van der Waals bonds are weak electrostatic forces: the electric 
+dipole-dipole force is analogous to the attraction between the 
+opposite poles of two bar magnets, the dipole-induced dipole force is 
+similar to a bar magnet attracting an iron nail or paper clip, and the 
+dispersion force is analogous to an alternating-current electromagnet 
+attracting a paper clip.
+
+--- PAGE 5 ---
+1058     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+A hydrogen atom in a molecule is not ionized, but its electron can 
+spend more time elsewhere than it does in the hydrogen atom. The 
+hydrogen atom can be a location of net positive charge, and can 
+weakly attract a zone of negative charge in another molecule.  
+CQ43.10 
+The atoms of crystalline substances form a regular array of ions in a 
+lattice structure, and the atoms are close enough together to allow 
+energy bands to form. The atoms of amorphous solids do not form a 
+regular array, but they are close enough to produce energy bands. 
+The atoms of gases do not form regular arrays and are too far apart 
+to form energy bands.   
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 43.1 
+Molecular Bonds 
+P43.1 
+At the boiling or condensation temperature,  
+ 
+ 
+E = 3
+2 kBT ≈10−3 eV = 10−3 1.6 × 10−19 J
+(
+)
+  
+ 
+Solving for the temperature T gives, 
+ 
+ 
+T = E
+kB
+≈
+2 1.6 × 10−22 J
+(
+)
+3 1.38 × 10−23 J K
+(
+)
+~ 10 K 
+P43.2 
+(a) 
+The electrostatic force is  
+ 
+ 
+ 
+F =
+q2
+4π ∈0 r2
+= 8.99 × 109 N⋅m2/C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+5.00 × 10−10 m
+(
+)
+2
+= 9.21× 10−10 N = 921× 10−12 N
+ 
+ 
+ 
+or 921 pN toward the other ion. 
+ 
+(b) The potential energy of the ion pair is 
+ 
+ 
+ 
+U =
+−q2
+4π ∈0 r
+= −
+8.99 × 109 N⋅m2/C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+5.00 × 10−10 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −2.88 eV
+
+--- PAGE 6 ---
+Chapter 43     1059 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.3 
+We are told that 
+ 
+ 
+ 
+ 
+K + Cl + 0.70 eV →K+ + Cl− 
+ 
+and  
+Cl + e−→Cl−+ 3.6 eV 
+ 
+or 
+ 
+Cl−→Cl + e−−3.6 eV  
+ 
+By substitution, 
+ 
+ 
+ 
+ 
+K + Cl + 0.7 eV →K+ + Cl + e−−3.6 eV 
+ 
+ 
+ 
+K + 4.3 eV →K+ + e− 
+ 
+or the ionization energy of potassium is 4.3 eV . 
+P43.4 
+(a) 
+Because the ionization energy of K is 4.34 eV, we have the relation  
+ 
+ 
+ 
+K + 4.34 eV →K+ + e− 
+[1] 
+ 
+ 
+and because the electron affinity of I is 3.06 eV, we have the 
+relation  
+ 
+ 
+ 
+I + e−→I−+ 3.06 eV 
+ 
+I −3.06 eV →I−−e− 
+[2] 
+ 
+ 
+Adding equations [1] and [2] gives  
+ 
+ 
+ 
+K + 4.34 eV
+(
+) + I −3.06 eV
+(
+) →K+ + e−
+(
+) + I−−e
+(
+)
+K + I + 4.34 eV −3.06 eV
+(
+) →K+ + I−
+K + I + 1.28 eV →K+ + I−
+ 
+ 
+ 
+Therefore, the activation energy is Ea = 1.28 eV . 
+ 
+(b) We differentiate the given function: 
+ 
+ 
+ 
+dU
+dr = 4∈
+σ
+−12 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+13
++ 6 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+7
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+Setting the expression above equal to 0, at r = r0 we have  
+ 
+ 
+ 
+dU
+dr = 0 →
+σ
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+13
+= 1
+2
+σ
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+7 
+ 
+ 
+which gives 
+ 
+ 
+ 
+σ
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+6
+= 2−1
+→
+σ = 2−1 6r0 = 2−1 6 0.305
+(
+) nm
+ 
+ 
+ 
+or 
+σ = 0.272 nm
+
+--- PAGE 7 ---
+1060     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then also  
+ 
+ 
+ 
+U r0
+( ) = 4∈
+2−1 6r0
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+12
+−2−1 6r0
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ Ea
+= 4∈1
+4 −1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥+ Ea = −∈+Ea
+ 
+ 
+ 
+solving for ∈ gives 
+ 
+ 
+ 
+∈= Ea −U r0
+( ) = 1.28 eV + 3.37 eV
+= 4.65 eV
+ 
+ 
+(c) 
+The force of attraction between the atoms is  
+ 
+ 
+ 
+F r( ) = −dU
+dr = 4∈
+σ
+12 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+13
+−6 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+7
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+To find the maximum force we calculate  
+ 
+ 
+ 
+dF
+dr = 4∈
+σ 2
+−156 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+14
++ 42 σ
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+8
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 0
+σ
+rbreak
+=
+42
+156
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 6
+ 
+ 
+ 
+So at r = rbreak, the force is a maximum:  
+ 
+ 
+ 
+Fmax = 4 4.65 eV
+(
+)
+0.272 nm
+12
+42
+156
+⎛
+⎝⎜
+⎞
+⎠⎟
+13 6
+−6
+42
+156
+⎛
+⎝⎜
+⎞
+⎠⎟
+7 6
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= −41.0 eV
+nm
+1.60 × 10−19 N ⋅m
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟= −6.55 nN
+ 
+ 
+ 
+Therefore the applied force required to break the molecule is 
++6.55 nN away from the center.  
+ 
+(d) To calculate the force constant, we expand U(r) as suggested in 
+the problem statement: 
+ 
+ 
+ 
+U r0 + s
+(
+) = 4∈
+σ
+r0 + s
+⎛
+⎝⎜
+⎞
+⎠⎟
+12
+−
+σ
+r0 + s
+⎛
+⎝⎜
+⎞
+⎠⎟
+6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ Ea
+= 4∈
+2−1 6r0
+r0 + s
+⎛
+⎝⎜
+⎞
+⎠⎟
+12
+−
+2−1 6
+r0 + s
+⎛
+⎝⎜
+⎞
+⎠⎟
+6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ Ea
+
+--- PAGE 8 ---
+Chapter 43     1061 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Expanding, 
+ 
+ 
+ 
+U r0 + s
+(
+) = 4∈1
+4 1+ s
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+−12
+−1
+2 1+ s
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟
+−6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
++ Ea
+= 4∈1
+4 1−12 s
+r0
++ 78 s2
+r0
+2 −
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+                        −1
+2 1−6 s
+r0
++ 21 s2
+r0
+2 −
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎤
+⎦
+⎥+ Ea
+= ∈−12 ∈s
+r0
++ 78∈s2
+r0
+2 −2 ∈+12 ∈s
+r0
+−42 ∈s2
+r0
+2 + Ea +
+= −∈+Ea + 0
+s
+r0
+⎛
+⎝⎜
+⎞
+⎠⎟+ 36∈s2
+r0
+2 +
+ 
+ 
+ 
+or 
+U r0 + s
+(
+) ≈U r0
+( )+ 1
+2 ks2 
+ 
+ 
+where k = 72 ∈
+r0
+2
+= 72 4.65 eV
+(
+)
+0.305 nm
+(
+)
+2 = 3 599 eV nm2 = 576 N m 
+P43.5 
+(a) 
+The minimum energy of the molecule at r = r0 is found from  
+ 
+ 
+ 
+dU
+dr = −12Ar0
+−13 + 6Br0
+−7 = 0  
+ 
+ 
+yielding  
+ 
+ 
+ 
+r0 = 2A
+B
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 6
+=
+2 0.124 × 10−120 eV ⋅m12
+(
+)
+1.488 × 10−60 eV ⋅m6
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 6
+= 7.42 × 10−11 m = 74.2 pm
+ 
+ 
+(b) The energy required to break up the molecule would separate the 
+atoms from r = r0 to r = ∞: 
+ 
+ 
+ 
+E = U r=∞−U r=r0 = 0 −
+A
+4A2 B2 −
+B
+2A B
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −1
+4 −1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+B2
+A = B2
+4A
+E =
+1.488 × 10−60 eV ⋅m6
+(
+)
+2
+4 0.124 × 10−120 eV ⋅m12
+(
+)
+= 4.46 eV
+ 
+ 
+ 
+This is also the equal to the binding energy, the amount of energy 
+given up by the two atoms as they come together to form a 
+molecule.
+
+--- PAGE 9 ---
+1062     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.6 
+(a) 
+The minimum energy of the molecule at r = r0 is found from  
+ 
+ 
+ 
+dU
+dr = −12Ar0
+−13 + 6Br0
+−7 = 0  
+ 
+ 
+yielding  
+ 
+ 
+ 
+r0 = 2A
+B
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 6
+ 
+ 
+(b) The energy required to break up the molecule would separate the 
+atoms from r = r0 to r = ∞:  
+ 
+ 
+ 
+E = U r=∞−U r=r0 = 0 −
+A
+4A2 B2 −
+B
+2A B
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −1
+4 −1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+B2
+A = B2
+4A
+ 
+ 
+ 
+ 
+Section 43.2 
+Energy States and Spectra of Molecules 
+P43.7 
+(a) 
+Recall from Chapter 42 that the energy of the photon is given by 
+ 
+ 
+ 
+hf = ΔE = 2
+2I 2 2 + 1
+(
+)
+[
+]−2
+2I 1 1+ 1
+(
+)
+[
+] = 2
+2I 4
+( ) 
+ 
+ 
+Then, 
+ 
+ 
+ 
+I = 4 h 2π
+(
+)
+2
+2hf
+=
+h
+2π 2 f =
+6.626 × 10−34 J⋅s
+2π 2 2.30 × 1011 Hz
+(
+)
+= 1.46 × 10−46 kg⋅m2
+ 
+ 
+(b) 
+The results are the same, suggesting that the bond length
+of the molecule does not change measurably between the 
+two transitions.
+ 
+P43.8 
+From Equations 43.4 and 43.3, the reduced mass and moment of inertia 
+of CsI are  
+ 
+ 
+µ = m1m2
+m1 + m2
+= 132.9 u
+(
+) 126.9 u
+(
+)
+132.9 u + 126.9 u
+1.66 × 10−27 kg
+u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.08 × 10−25 kg
+ 
+ 
+and  
+ 
+ 
+I = µr2 = 1.08 × 10−25 kg
+(
+) 0.127 × 10−9 m
+(
+)
+2
+= 1.74 × 10−45 kg⋅m2
+
+--- PAGE 10 ---
+Chapter 43     1063 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The allowed rotational energies (from Equation 43.6) are  
+ 
+ 
+Erot = 2
+2I J J + 1
+(
+) = J J + 1
+(
+)
+6.626 × 10−34 J⋅s 2π
+(
+)
+2
+2 1.74 × 10−45 kg⋅m2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= J J + 1
+(
+) 3.20 × 10−24 J
+(
+)⋅
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= J J + 1
+(
+) 2.00 × 10−5 eV
+(
+)
+ 
+ 
+(a) 
+J = 2 gives  
+ 
+ 
+ 
+Erot = 2 3
+( )2
+2I = 1.20 × 10−4 eV = 0.120 meV
+ 
+ 
+(b) The photon that can cause the transition J = 1 → 2 has energy  
+ 
+ 
+ 
+hf = ΔErot = 2 2 + 1
+(
+) 2
+2I
+⎛
+⎝⎜
+⎞
+⎠⎟−1 1+ 1
+(
+) 2
+2I
+⎛
+⎝⎜
+⎞
+⎠⎟= 4 2
+2I
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4 3.20 × 10−24 J
+(
+) = 1.28 × 10−23 J = 7.99 × 10−2 eV
+ 
+ 
+ 
+The frequency of the photon is  
+ 
+ 
+ 
+f = ΔErot
+h
+=
+1.28 × 10−23 J
+6.626 × 10−34 J⋅s = 1.93 × 1010 s−1 = 19.3 GHz
+ 
+*P43.9 
+For the HCl molecule in the J = 2 rotational energy level, we are given 
+the distance between nuclei, r0 = 0.127 5 nm. From Equation 43.6, the 
+allowed rotational energies are  
+ 
+ 
+Erot = 2
+2I J J + 1
+(
+) 
+ 
+Taking J = 2, we have Erot = 6 2
+2I = 32
+I
+= 1
+2 Iω 2, 
+ 
+or 
+ω =
+62
+I 2 =
+6 
+I 
+ 
+The moment of inertia of the molecule is given by Equation 43.3: 
+ 
+ 
+I = µ r0
+2 =
+m1m2
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟r0
+2
+
+--- PAGE 11 ---
+1064     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting numerical values, 
+ 
+ 
+I =
+1.008 u
+(
+) 35.45 u
+(
+)
+1.008 u + 35.45 u
+⎡
+⎣⎢
+⎤
+⎦⎥r0
+2
+= 0.980 u
+(
+) 1.66 × 10−27 kg u
+(
+) 1.275 × 10−10 m
+(
+)
+2
+= 2.64 × 10−47 kg⋅m2
+ 
+ 
+Therefore,  
+ 
+ 
+ω =
+6 
+I =
+6 6.626 × 10−34 J ⋅s
+(
+)
+2π(2.64 × 10−47 kg ⋅m2) = 9.77 × 1012 rad s 
+P43.10 
+(a) 
+From Equation 43.10, the energy separation between the ground 
+and first excited state is  
+ 
+ 
+ 
+ΔEvib = h
+2π
+k
+µ = hf          so          k = 4π 2 f 2µ 
+ 
+ 
+and the reduced mass is 
+ 
+ 
+ 
+µ =
+k
+4π 2 f 2 =
+1530 N/m
+4π 2(56.3 × 1012 s−1)2 = 1.22 × 10−26kg 
+ 
+(b) From Equation 43.4, the reduced mass is 
+ 
+ 
+ 
+µ = m1m2
+m1 + m2
+= 14.007 u
+(
+) 15.999 u
+(
+)
+14.007 u +15.999 u
+1.66 × 10−27 kg
+1 u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.24 × 10−26 kg
+ 
+ 
+(c) 
+They agree because the small apparent difference can be 
+attributed to uncertainty in the data. 
+P43.11 
+(a) 
+With r representing the distance of each atom from the center of 
+mass, the moment of inertia is  
+ 
+ 
+ 
+mr2 + mr2 = 2mr2
+= 2 1.008 u
+(
+) 1.66 × 10−27 kg
+u
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.750 × 10−10 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4.71× 10−48 kg⋅m2
+ 
+ 
+ 
+The allowed rotational energies (from Equation 43.6) are  
+ 
+ 
+ 
+Erot = 2
+2I J J + 1
+(
+)
+
+--- PAGE 12 ---
+Chapter 43     1065 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The J = 0 state has energy Erot = 0, and the J = 1 state has energy  
+ 
+ 
+ 
+Erot = h 2π
+(
+)
+2
+2I
+1( ) 2
+( ) = h 2π
+(
+)
+2
+I
+= 6.626 × 10−34 J⋅s 2π
+(
+)
+2
+4.71× 10−48 kg⋅m2
+(
+)
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.48 × 10−2 eV = 0.014 8 eV
+ 
+ 
+(b) The energy of the photon that raises the molecule from 0 to  
+0.014 8 eV is 0.014 8 eV. The photon’s wavelength is 
+ 
+ 
+ 
+λ = h
+E = 1240 eV⋅nm
+0.0148 eV
+= 8.41× 104 nm
+= 84.1× 103 nm = 84.1 µm
+ 
+*P43.12 
+From Equation 43.10, the energy separation between the ground and 
+first excited state is  
+ 
+ 
+ΔEvib = 
+k
+µ  = 
+k m1 + m2
+(
+)
+m1m2
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ΔEvib =   1.055 × 10−34 J ⋅s
+(
+)
+480 N/m
+(
+) 35 + 1
+(
+)
+35
+(
+) 1( ) 1.66 × 10−27  kg
+(
+)
+ 
+= 5.75 × 10−20 J =  0.359 eV
+ 
+ 
+To excite a transition with this energy difference, the wavelength of 
+incident photons must be  
+ 
+ 
+λ =
+hc
+ΔEvib  = 1 240 eV ⋅nm
+0.359 eV
+ = 3.45 × 103 nm 
+ 
+The incident photons have a wavelength longer than this, which 
+means they have less energy than 0.359 eV. Therefore, these photons 
+cannot excite the molecule to the first excited state. 
+P43.13  
+The mass to consider is the molecule’s reduced mass. Iodine has atomic 
+mass 126.90 u and a hydrogen atom is 1.007 9 u, so the reduced mass of 
+HI is  
+ 
+ 
+µ = m1m2
+m1 + m2
+= 126.90 u
+(
+) 1.007 9 u
+(
+)
+126.90 u + 1.007 9 u = 0.999 96 u
+
+--- PAGE 13 ---
+1066     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now for the energy of the ground state we have  
+ 
+ 
+E = 1
+2 kA2 = 0 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf = 1
+2
+h
+2π
+k
+µ
+ 
+ 
+So the amplitude is  
+ 
+ 
+A =
+h
+2πk
+k
+µ =
+h
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+1
+kµ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/4
+ 
+ 
+(a) 
+For HI we have  
+ 
+ 
+ 
+A =
+6.626 × 10−34J⋅s
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+                ×
+1
+(320 N/m)(0.999 96)(1.66 × 10−27kg)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/4
+= 1.20 × 10−11 m = 12.0 pm
+  
+ 
+(b) Flourine has an atomic mass of 18.998 4 u, so, for HF,  
+ 
+ 
+ 
+µ = m1m2
+m1 + m2
+= 18.998 4 u
+(
+) 1.007 9 u
+(
+)
+18.998 4 u + 1.007 9 u = 0.957 12 u
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+A =
+6.626 × 10−34J⋅s
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+                ×
+1
+(970 N/m)(0.957 12)(1.66 × 10−27kg)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/4
+= 9.22 × 10−12m = 9.22 pm
+  
+P43.14 
+The energy of a rotational transition is ΔE =
+2
+I
+⎛
+⎝⎜
+⎞
+⎠⎟J, where J is the 
+rotational quantum number of the higher energy state (see Equation 
+43.7). We do not know J from the data. However,  
+ 
+ 
+ΔE = hc
+λ
+= 6.626 × 10−34 J⋅s
+(
+) 2.998 × 108 m/s
+(
+)
+λ
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 14 ---
+Chapter 43     1067 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For each observed wavelength,  
+λ (mm) 
+E (eV) 
+0.120 4 
+0.010 30 
+0.096 4 
+0.012 86 
+0.080 4 
+0.015 42 
+0.069 0 
+0.017 97 
+0.060 4 
+0.020 53 
+ 
+The Δ ′
+E s consistently increase by 0.002 56 eV.  
+ 
+ 
+E1 = 2
+I = 0.002 56 eV 
+ 
+and  
+ 
+ 
+ 
+I = 2
+E1
+= 1.055 × 10−34 J⋅s
+(
+)
+2
+0.002 56 eV
+(
+)
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.72 × 10−47 kg⋅m2
+ 
+ 
+For the HCl molecule, the internuclear radius is  
+ 
+ 
+r =
+I
+µ =
+2.72 × 10−47
+1.62 × 10−27 m = 0.130 nm 
+P43.15 
+(a) 
+The reduced mass of NaCl is 
+ 
+ 
+ 
+µ = mNamCl
+mNa + mCl
+= 22.99 u
+(
+) 35.45 u
+(
+)
+22.99 u + 35.45 u
+1.66 × 10−27 kg
+ u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.32 × 10−26 kg
+ 
+ 
+(b) Its moment of inertia is 
+ 
+ 
+ 
+I = µr2 = 2.32 × 10−26 kg
+(
+) 0.280 × 10−9 m
+(
+)
+2
+= 1.82 × 10−45 kg⋅m2
+
+--- PAGE 15 ---
+1068     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The wavelength of the emitted photon is found from: 
+ 
+ 
+ 
+hc
+λ = ΔE = 2
+2I 2 2 + 1
+(
+) −2
+2I 1 1+ 1
+(
+) = 32
+I
+−2
+I = 22
+I
+= 2h2
+4π 2I
+ 
+ 
+ 
+then, 
+ 
+ 
+ 
+λ = c4π 2I
+2h
+= 3.00 × 108 m/s
+(
+)4π 2 1.82 × 10−45 kg⋅m2
+(
+)
+2 6.626 × 10−34 J⋅s
+(
+)
+= 1.62 cm
+ 
+P43.16 
+Masses m1 and m2 have the respective distances r1 and r2 from the 
+center of mass. Then, 
+ 
+ 
+ m1r1 = m2r2     and     r1 + r2 = r 
+ 
+So,  
+r1 = m2r2
+m1
+ 
+ 
+and thus, m2r2
+m1
++ r2 = r
+→
+r2 =
+m1r
+m1 + m2
+ 
+ 
+Also,  
+r2 = m1r1
+m2
+ 
+ 
+thus,   
+r1 + m1r1
+m2
+= r
+→
+r1 =
+m2r
+m1 + m2
+ 
+ 
+The moment of inertia of the molecule is then 
+ 
+ 
+I = m1r1
+2 + m2r2
+2 = m1
+m2
+2r2
+m1 + m2
+(
+)
+2 + m2
+m1
+2r2
+m1 + m2
+(
+)
+2
+= m1m2 m2 + m1
+(
+)r2
+m1 + m2
+(
+)
+2
+= m1m2r2
+m1 + m2
+= µr2
+ 
+P43.17 
+(a) 
+The reduced mass of the O2 is  
+ 
+  
+ 
+µ = mOmO
+mO + mO
+=
+16.00 u
+(
+) 16.00 u
+(
+)
+16.00 u
+(
+)+ 16.00 u
+(
+) = 8 u
+= 8 1.66 × 10−27 kg
+(
+) = 1.33 × 10−26 kg
+ 
+ 
+ 
+The moment of inertia is then  
+ 
+ 
+ 
+I = µr2 = 1.33 × 10−26 kg
+(
+) 1.20 × 10−10 m
+(
+)
+2
+= 1.91× 10−46 kg⋅m2
+
+--- PAGE 16 ---
+Chapter 43     1069 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The rotational energies are  
+ 
+ 
+ 
+Erot = 2
+2I J J + 1
+(
+) = 6.626 × 10−34 J⋅s 2π
+(
+)
+2
+2 1.91× 10−46 kg⋅m2
+(
+)
+J J + 1
+(
+)
+  
+ 
+ 
+Thus,  
+ 
+ 
+ 
+Erot = 2.91× 10−23 J
+(
+)J J + 1
+(
+) 
+ 
+ 
+and for J = 0, 1, 2,  
+ 
+ 
+ 
+Erot = 0, 3.63 × 10−4 eV, 1.09 × 10−3 eV 
+ 
+(b) The vibrational energies are given by 
+ 
+ 
+ 
+Evib = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+µ
+= v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.626 × 10−34 J⋅s
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+1177 N m
+8 1.66 × 10−27 kg
+(
+)
+= v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟3.14 × 10−20 J
+(
+)
+1 eV
+1.602 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟0.196 eV
+(
+)
+ 
+ 
+ 
+For v = 0, 1, 2, Evib = 0.098 0 eV, 0.294 eV, 0.490 eV . 
+P43.18 
+(a) 
+In benzene, the dashed lines form equilateral triangles, so the 
+carbon atoms are each 0.110 nm from the axis and each hydrogen 
+atom is (0.110 + 0.100 nm) = 0.210 nm from the axis. Thus, the 
+moment of inertia is given by 
+ 
+ 
+ 
+I =
+mr2
+∑
+= 6 1.99 × 10−26 kg
+(
+) 0.110 × 10−9 m
+(
+)
+2
+                             + 6 1.67 × 10−27 kg
+(
+) 0.210 × 10−9 m
+(
+)
+2
+= 1.89 × 10−45 kg⋅m2
+ 
+ 
+(b) The allowed rotational energies are then  
+ 
+ 
+ 
+Erot = 2
+2I J J + 1
+(
+) =
+1.055 × 10−34 J⋅s
+(
+)
+2
+2 1.89 × 10−45 kg⋅m2
+(
+)
+J J + 1
+(
+)
+= 2.95 × 10−24 J
+(
+)J J + 1
+(
+) = 18.4 × 10−6 eV
+(
+)J J + 1
+(
+)
+ 
+ 
+ 
+Erot = 18.4J J + 1
+(
+), where Erot is in microelectron volts and
+J = 0,1,2,3,. . . .
+
+--- PAGE 17 ---
+1070     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The first five of these allowed energies are:  
+ 
+ 
+ 
+Erot = 0, 36.9 µeV, 111 µeV, 221 µeV, and 369 µeV 
+P43.19 
+We carry extra digits through the solution because part (c) involves the 
+subtraction of two close numbers. The longest wavelength corresponds 
+to the smallest energy difference between the rotational energy levels. 
+It is between J = 0 and J = 1, namely 
+ 
+ 
+ 
+ΔEmin = 2
+I
+ 
+ 
+The wavelength is then 
+ 
+ 
+λ =
+hc
+ΔEmin
+= hc
+2 I = 4π 2Ic
+h
+ 
+ 
+If µ =
+mHmCl
+mH + mCl
+ is the reduced mass, then  
+ 
+ 
+ 
+I = µ r2 = µ 0.127 46 × 10−9 m
+(
+)
+2 
+ 
+and therefore,  
+ 
+ 
+λ =
+4π 2 µ 0.127 46 × 10−9 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦2.997 925 × 108 m/s
+(
+)
+6.626 075 × 10−34 J ⋅s
+= 2.901 830 × 1023 m/kg
+(
+)µ
+ 
+[1]
+ 
+ 
+(a) 
+For 
+35Cl,  
+ 
+ 
+ 
+µ35 = 1.007 825u
+(
+) 34.968 853u
+(
+)
+1.007 825u + 34.968 853u
+1.660540 × 10−27 kg
+ u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.626 653 × 10−27 kg
+ 
+ 
+ 
+From equation [1], 
+ 
+ 
+ 
+λ35 = 2.901 830 × 1023 m/kg
+(
+) 1.626 653 × 10−27 kg
+(
+)
+= 472 µm
+  
+ 
+(b) For 
+37Cl, 
+ 
+ 
+ 
+µ37 = 1.007 825u
+(
+) 36.965 903u
+(
+)
+1.007 825u + 36.965 903u
+1.660540 × 10−27 kg
+ u
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.629 118 × 10−27 kg
+ 
+ 
+ 
+From equation [1], 
+ 
+ 
+ 
+λ37 = 2.901 830 × 1023 m/kg
+(
+) 1.629 118 × 10−27 kg
+(
+) = 473 µm
+
+--- PAGE 18 ---
+Chapter 43     1071 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The separation in wavelength is 
+ 
+ 
+ 
+λ37 −λ35 = 472.742 4 µm −472.027 0 µm = 0.715 µm 
+P43.20 
+We find an average spacing between peaks by counting 22 gaps 
+(counting the central gap as two) between 7.96 × 10
+13 Hz  and  
+9.24 × 10
+13 Hz: 
+ 
+ 
+Δf = 9.24 −7.96
+(
+)× 1013 Hz
+22
+= 0.058 2 × 1013 Hz
+= 5.82 × 1011Hz = 1
+h
+h2
+4π 2I
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+The moment of inertia is then 
+ 
+ 
+I =
+h
+4π 2Δf =
+6.626 × 10−34 J⋅s
+4π 2 5.82 × 1011 s−1
+(
+)
+= 2.88 × 10−47 kg⋅m2
+ 
+P43.21 
+We carry extra digits through the solution because the given 
+wavelengths are close together.  
+ 
+(a) 
+The energy levels are given by 
+ 
+ 
+ 
+EvJ = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf + 2
+2I J J + 1
+(
+) 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+E00 = 1
+2 hf , E11 = 3
+2 hf + 2
+I , and E02 = 1
+2 hf + 32
+I
+  
+ 
+ 
+Then, 
+ 
+ 
+ 
+ΔE1 = E11 −E00 = hf + 2
+I = hc
+λ1
+= 6.626 075 × 10−34 J⋅s
+(
+) 2.997 925 × 108 m/s
+(
+)
+2.211 2 × 10−6 m
+ 
+ 
+ 
+ 
+ΔE1 = hf + 2
+I = 8.983 573 × 10−20 J 
+[1]  
+ 
+  
+and 
+ 
+  
+ 
+ΔE2 = E11 −E02 = hf −22
+I
+= hc
+λ2
+= 6.626 075 × 10−34 J⋅s
+(
+) 2.997 925 × 108 m/s
+(
+)
+2.405 4 × 10−6 m
+ 
+ 
+ 
+ 
+ΔE2 = hf −22
+I
+= 8.258 284 × 10−20 J 
+[2]
+
+--- PAGE 19 ---
+1072     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Subtracting equation [2] from [1] gives, 
+ 
+ 
+ 
+ΔE1 −ΔE2 = hf + 2
+I
+⎛
+⎝⎜
+⎞
+⎠⎟−hf −22
+I
+⎛
+⎝⎜
+⎞
+⎠⎟= hc
+λ1
+−hc
+λ2
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+32
+I
+= hc
+1
+λ1
+−1
+λ2
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+3h
+4π 2I = c
+1
+λ1
+−1
+λ2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+3h
+4π 2I = c
+1
+λ1
+−1
+λ2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.997 925 × 108 m/s
+(
+)
+                ×
+1
+2.211 2 × 10−6 m −
+1
+2.405 4 × 10−6 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.0946 × 1013 s−1
+ 
+ 
+ 
+Solving for the moment of inertia then gives 
+ 
+ 
+ 
+I = 3 6.626 075 × 10−34 J⋅s
+(
+)
+4π 2 1.094 6 × 1013 s−1
+(
+)
+= 4.60 × 10−48 kg⋅m2
+ 
+ 
+(b) From equation [1]:  
+ 
+ 
+ 
+f1 = ΔE1
+h −2
+2πI
+= 8.983 573 × 10−20 J
+6.626 075 × 10−34 J⋅s −
+6.626 075 × 10−34 J⋅s
+(
+)
+2π 4.600 060 × 10−48 kg⋅m2
+(
+)
+= 1.32 × 1014 Hz
+ 
+ 
+(c) 
+The moment of inertia of the molecule is given by I = µr
+2, where µ 
+is the reduced mass, 
+ 
+ 
+ 
+µ = 1
+2 mH = 1
+2 1.007 825u
+(
+) = 8.367 669 × 10−28 kg 
+ 
+ 
+The equilibrium separation distance is then, 
+ 
+ 
+ 
+r =
+I
+µ =
+4.600 060 × 10−48 kg ⋅m2
+8.367 669 × 10−28 kg
+= 0.074 1 nm
+
+--- PAGE 20 ---
+Chapter 43     1073 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.22 
+The emission energies are the same as the absorption energies, but the 
+final state must be below (v = 1, J = 0). The transition must satisfy 
+ΔJ = ±1, so it must end with J = 1. To be lower in energy, the state must 
+be (v = 0, J = 1). The emitted photon energy is therefore  
+ 
+ 
+hfphoton = Evib v=1 + Erot J=0
+(
+)−Evib v=0 + Erot J=1
+(
+)
+= Evib v=1 −Evib v=0
+(
+)−Erot J=1 −Erot J=0
+(
+)
+hfphoton = hfvib −hfrot
+ 
+ 
+Thus,  
+fphoton = fvib −frot = 6.42 × 1013 Hz −1.15 × 1011 Hz
+= 6.41× 1013 Hz = 64.1 THz
+ 
+P43.23 
+The moment of inertia about the molecular axis is 
+ 
+ 
+ 
+Iy = 2
+5 mr2 + 2
+5 mr2 = 4
+5 m 2.00 × 10−15 m
+(
+)
+2 
+ 
+The moment of inertia about a perpendicular axis is  
+ 
+ 
+ 
+Ix = m R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ m R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= m
+2 2.00 × 10−10 m
+(
+)
+2 
+ 
+The allowed rotational energies are Erot =
+2
+2I
+⎛
+⎝⎜
+⎞
+⎠⎟J J + 1
+(
+) , so the energy 
+of the first excited state is E1 = 2
+I
+. The ratio is therefore 
+ 
+ 
+E1, y
+E1, x
+=
+2 Iy
+(
+)
+2 Ix
+(
+)
+= Ix
+Iy
+= 1 2
+(
+)m 2.00 × 10−10 m
+(
+)
+2
+4 5
+(
+)m 2.00 × 10−15 m
+(
+)
+2
+= 5
+8 105
+(
+)
+2 = 6.25 × 109
+ 
+ 
+ 
+ 
+Section 43.3 
+Bonding in Solids 
+P43.24 
+(a) 
+Consider a cubical salt crystal of edge length 0.1 mm.  
+ 
+ 
+The number of atoms is 
+10−4 m
+0.261× 10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 6 × 1016 ~ 1017 . 
+ 
+(b) This number of salt crystals would have volume  
+ 
+ 
+ 
+10−4 m
+(
+)
+3 6 × 1016 = 6 × 104 ~ 105 m3 
+ 
+ 
+If it is cubic, it has edge length 40 m.
+
+--- PAGE 21 ---
+1074     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.25 
+The ionic cohesive energy is  
+ 
+ 
+ 
+U = −α kee2
+r0
+1−1
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −1.747 6
+(
+) 8.99 × 109
+(
+)
+1.60 × 10−19
+(
+)
+2
+0.281× 10−9
+(
+)
+1−1
+8
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −1.25 × 10−18 J = −7.83 eV
+ 
+P43.26 
+We assume the ions are all singly ionized. The total potential energy is 
+obtained by summing over all interactions of our ion with others: 
+ 
+ 
+  
+U =
+ke
+i≠j∑
+qiqj
+rij
+= – ke
+e2
+r + e2
+r – e2
+2r – e2
+2r + e2
+3r + e2
+3r – e2
+4r – e2
+4r +
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+  
+U = – 2ke
+e2
+r
+1 – 1
+2 + 1
+3 – 1
+4 +
+⎡⎣
+⎤⎦ 
+ 
+But from Appendix B.5, 
+ 
+ 
+ 
+ln(1 + x) =  x – x2
+2 + x3
+3 – x4
+4 + 
+ 
+Our series follows this pattern with x = 1, so the 
+potential energy of one ion due to its 
+interactions with all the others is 
+ 
+ 
+ 
+U = (–2ln2)ke
+e2
+r = −keα e2
+r where α = 2ln2
+ 
+ 
+ 
+ 
+Section 43.4 
+Free-Electron Theory of Metals 
+Section 43.5 
+Band Theory of Solids 
+P43.27 
+Taking EF = 5.48 eV for sodium at 800 K,  
+ 
+ 
+f (E) =
+1
+e
+(E−EF )/kBT + 1
+        so         e
+(E−EF )/kBT=
+1
+f (E) −1 
+ 
+Then, 
+E −EF
+kBT
+= ln
+1
+f (E) −1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ANS. FIG. P43.26
+
+--- PAGE 22 ---
+Chapter 43     1075 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+E = EF + kBT ln
+1
+f (E) −1
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+substituting numerical values, 
+ 
+ 
+E = 5.48 eV + 1.38 × 10−23 J/K
+(
+)
+      × 1.602 × 10−19 eV/J
+(
+) 800 K
+(
+)ln
+1
+0.950 −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.28 eV
+ 
+P43.28 
+(a) 
+The Fermi energy is proportional to the spatial concentra-
+tion of free electrons to the two-thirds power.
+ 
+ 
+(b) From Equation 43.25, 
+ 
+ 
+ 
+EF = h2
+2m
+3ne
+8π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 3
+=
+6.626 × 10−34 J⋅s
+(
+)
+2
+2 9.11× 10−31 kg
+(
+) 1.60 × 10−19 J eV
+(
+)
+3
+8π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 3
+ne
+2 3
+  
+ 
+ 
+becomes  
+ 
+ 
+ 
+EF = 3.65 × 10−19
+(
+)ne
+2 3  
+ 
+ 
+where EF is in electron volts and ne in electrons per cubic meter. 
+ 
+(c) 
+Copper has the greater concentration of free electrons by a factor 
+of  
+ 
+ 
+ 
+ne Cu
+(
+)
+ne K
+( )
+= 8.46 × 10−19 m−3
+1.40 × 10−19 m−3 = 6.04 
+ 
+(d) Copper has the greater Fermi energy, 7.05 eV.  
+ 
+(e) 
+The Fermi energy is larger by a factor of 7.05 eV 2.12 eV = 0.333 . 
+ 
+(f) 
+This behavior agrees with the proportionality because EF ne
+2 3 
+and 6.04
+2/3 = 3.32. 
+P43.29 
+The melting point of silver is 1 234 K. Its Fermi energy at 300 K is  
+5.48 eV. The approximate fraction of electrons excited is  
+ 
+ 
+kBT
+EF
+=
+1.38 × 10−23 J K
+(
+) 1 234 K
+(
+)
+5.48 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+≈2% 
+P43.30 
+(a) 
+Setting the kinetic energy equal to the Fermi energy, 
+ 
+ 
+ 
+1
+2 mv2 = 7.05 eV
+
+--- PAGE 23 ---
+1076     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+we solve for the speed of the conduction electron as 
+ 
+ 
+ 
+v =
+2 7.05 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+9.11× 10−31 kg
+= 1.57 × 106 m/s = 1.57 Mm/s
+ 
+ 
+(b) Compared to the drift velocity of 0.1 mm/s = 10
+–4 mm/s, the 
+speed is larger by ten orders of magnitude. The energy of an 
+electron at room temperature is typically kBT = 1
+40 eV. 
+P43.31 
+(a) 
+From Equation 43.26,  
+ 
+ 
+ 
+Eavg = 3
+5 EF = 0.6(7.05 eV) = 4.23 eV 
+ 
+(b) The average energy of a molecule in an ideal gas is 3
+2 kBT so we 
+have  
+ 
+ 
+ 
+T = 2
+3
+4.23 eV
+1.38 × 10−23 J/K
+1.6 × 10−19 J
+1 eV
+= 3.27 × 104 K 
+P43.32 
+For edge d = 1.00 mm,  
+ 
+ 
+V = d3 = 1.00 × 10−3 m
+(
+)
+3 = 1.00 × 10−9 m3 
+ 
+The density of states is  
+ 
+ 
+g E
+( ) = CE1 2 = 8 2π me
+3 2
+h3
+E1 2 
+ 
+or     
+ 
+ 
+g E
+( ) =
+8 2π 9.11× 10−31 kg
+(
+)
+3 2
+6.626 × 10−34 J ⋅s
+(
+)
+3
+4.00 eV
+(
+) 1.60 × 10−19 J eV
+(
+) 
+ 
+ 
+g E
+( ) = 8.50 × 1046 m−3 ⋅J−1 = 1.36 × 1028 m−3 ⋅eV−1 
+ 
+So, the total number of electrons is  
+ 
+ 
+N = g E
+( )
+[
+] ΔE
+(
+)V
+= 1.36 × 1028 m−3 ⋅eV−1
+(
+) 0.025 0 eV
+(
+) 1.00 × 10−9 m3
+(
+)
+= 3.40 × 1017 electrons
+
+--- PAGE 24 ---
+Chapter 43     1077 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.33 
+For sodium, M = 23.0 g/mol and ρ = 0.971 g/cm
+3. Sodium contributes 
+one electron per atom to the conduction band. 
+ 
+(a) 
+The density of conduction electrons is 
+ 
+ 
+ 
+ne = NAρ
+M
+=
+6.02 × 1023 electrons mol
+(
+) 0.971 g/cm3
+(
+)
+23.0 g mol
+ 
+ 
+ 
+ 
+ne = 2.54 × 1022 electrons/cm3 = 2.54 × 1028 m−3 
+ 
+(b) From Equation 43.25,  
+ 
+ 
+ 
+EF =
+h2
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3ne
+8π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 3
+= 6.626 × 10−34 J⋅s
+(
+)
+2
+2 9.11× 10−31 kg
+(
+)
+3 2.54 × 1028 m−3
+(
+)
+8π
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2 3
+= 5.05 × 10−19 J = 3.15 eV
+ 
+P43.34 
+From Equation 43.24, the number density of free electrons is 
+ 
+ 
+ne = 2
+3
+8 2πme
+3/2
+h3
+EF
+3/2
+= 2
+3
+8 2π 9.11× 10−31kg
+(
+)
+3/2
+6.626 × 10−34J ⋅s
+(
+)
+3
+5.48eV
+(
+)
+3/2 1.602 × 10−19J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+3/2
+= 5.83 × 1028m–3
+ 
+ 
+Then, the number density of atoms in the metal is  
+ 
+ 
+natoms = nNA
+V  = mNA
+MV  =  ρNA
+M
+ =  4.90 × 103 kg/m3
+(
+) 6.02 × 1023 mol–1
+(
+)
+0.100 kg/mol
+ 
+= 2.95 × 1028 m−3
+ 
+ 
+Then the number of free electrons per atom is  
+ 
+ 
+ne
+natoms
+ = 5.83 × 1028 m–3
+2.95 × 1028 m–3  = 1.97 
+ 
+Therefore, there are approximately two free electrons per atom for this 
+metal, not one.
+
+--- PAGE 25 ---
+1078     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.35 
+From Table 43.2, the Fermi energy for copper at 300 K is 7.05 eV. From 
+Equation 43.19, the Fermi-Dirac distribution function, the occupation 
+probability is 
+ 
+ 
+f (E) =
+1
+e(E−EF)/kBT + 1 =
+1
+e(0.99EF−EF)/kBT + 1
+    
+=
+1
+e
+−0.01(7.05 eV)(1.602×10−19 J/eV)
+⎡⎣
+⎤⎦/ (1.381×10−23 J/K) 300 K
+(
+)
+⎡⎣
+⎤⎦+ 1
+=
+1
+e−2.72 + 1 = 0.939
+ 
+P43.36 
+From Equation 43.19, the Fermi-Dirac distribution function, the 
+occupation probability is 
+ 
+ 
+f (E) =
+1
+e(E−EF )/kBT + 1
+=
+1
+e(βEF −EF )/kBT + 1
+=
+1
+e β −1
+(
+)EF /kBT + 1
+ 
+P43.37 
+Consider first the wave function in x. At x = 0 and x = L, ψ = 0. 
+Therefore, 
+ 
+ 
+ 
+sin kxL = 0   and   kxL = π, 2π, 3π, … 
+ 
+Similarly, sin kyL = 0   and   kyL = π, 2π, 3π, … 
+ 
+and 
+sin kzL = 0  and   kzL = π, 2π, 3π, … 
+ 
+Then, 
+ 
+ 
+ψ = Asin nxπ x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟sin
+nyπ y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟sin nzπ z
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+From Schrödinger’s Equation, ∂2ψ
+∂x2 + ∂2ψ
+∂y2 + ∂2ψ
+∂z2 = 2me
+2
+U −E
+(
+)ψ , we 
+have inside the box, where U = 0, 
+ 
+ 
+−nx
+2π 2
+L2
+−
+ny
+2π 2
+L2
+−nz
+2π 2
+L2
+⎛
+⎝⎜
+⎞
+⎠⎟ψ = 2me
+2
+−E
+(
+)ψ 
+ 
+Therefore, 
+ 
+ 
+E = 2π 2
+2meL2 nx
+2 + ny
+2 + nz
+2
+(
+)
+nx, ny, nz = 1, 2, 3, … 
+ 
+Outside the box we require ψ = 0. The minimum energy state inside 
+the box is nx = ny = nz = 1, with E = 32π 2
+2meL2 .
+
+--- PAGE 26 ---
+Chapter 43     1079 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.38 
+The density of states at the energy E is g(E) = CE
+1/2. 
+ 
+ 
+(a) 
+Hence, the required ratio is 
+ 
+ 
+  
+Rstates = g(8.50 eV)
+g(7.05 eV) = C(8.50)1/2
+C(7.05)1/2 = 1.10
+ 
+ 
+(b) From Equation 43.22, we see that the number of occupied 
+states between energy E and energy E + dE is 
+ 
+ 
+  
+N(E)dE =
+CE1/2
+e
+E–EF
+(
+)/kBT + 1
+dE 
+ 
+ 
+Hence, the required ratio is 
+ 
+ 
+  
+Roccupied states = N(8.50 eV)
+N(7.05 eV) =
+8.50
+7.05
+e(7.05−7.05)/kBT + 1
+e(8.50−7.05)/kBT + 1
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+At T = 300 K, we compute 
+ 
+ 
+  
+kBT = 1.380 65 × 10–23 J
+K
+⎛
+⎝⎜
+⎞
+⎠⎟300.000 K
+(
+)
+1 eV
+1.602 18 × 10–19J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.025 852 0 eV
+ 
+ 
+  
+so 
+Rocc.st =
+8.50
+7.05
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+2
+e1.45/0.025 852 0 + 1
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.61× 10−25 
+ 
+ 
+With an exponent of 56.1, the derivative of the exponential 
+function is so large that none of the digits in 9.61 is really 
+significant. Different-looking answers would result from 
+different choices of how precisely to represent the input data. 
+ 
+(c) 
+The answer to part (b) is vastly smaller than the answer to (a). 
+Very few states well above the Fermi energy are occupied at room 
+temperature. 
+P43.39 
+We are to compute 
+ 
+ 
+Eavg = 1
+ne
+EN(E) dE
+0
+∞∫
+ 
+ 
+where from Equation 43.22, 
+ 
+ 
+ 
+N(E) =
+CE 1/2
+e
+E−EF
+(
+)/kBT + 1
+= Cf E
+( )E1/2 
+ 
+with 
+C = 8 2πme
+3/2
+h3
+ 
+ 
+But at T = 0 the Fermi-Dirac distribution function is f(E) = 0 for E > EF, 
+and  f(E) = 1 for E < EF . So we can take N(E) = CE1/2 just for energies
+
+--- PAGE 27 ---
+1080     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+up to the Fermi energy. The average we want is then 
+ 
+ 
+ 
+Eavg = 1
+ne
+CE3/2
+0
+EF∫
+dE = 2C
+5ne
+EF
+5/2 
+ 
+But from Equation 43.24, C
+ne
+= 3
+2 EF
+–3/2, so  
+ 
+ 
+ 
+Eavg =
+2
+5
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟EF
+–3/2
+(
+)EF
+5/2 = 3
+5 EF 
+ 
+ 
+ 
+Section 43.6 
+Electrical Conduction in Metals, Insulators,  
+and Semiconductors 
+P43.40 
+(a) 
+If λ ≤1.00 µm = 1.00 × 103 nm, then photons of sunlight have 
+energy  
+ 
+ 
+ 
+E ≥hc
+λmax
+= 1240 eV ⋅nm
+1.00 × 103 m = 1.24 eV 
+ 
+ 
+The gap should be less than or equal to 1.24 eV. 
+ 
+(b) 
+Because silicon has an energy gap of 1.14 eV, it can absorb
+the energy of nearly all of the photons in sunlight and is an 
+appropriate material for a solar energy collector. 
+ 
+P43.41 
+(a) 
+Eg = 1.14 eV for Si. The photon energy, given by E = hf, must be at 
+least this energy. Then,  
+ 
+ 
+ 
+f = E
+h = 1.14 eV
+(
+) 1.602 × 10−19 J eV
+(
+)
+6.626 × 10−34 J⋅s
+= 2.76 × 1014 Hz = 276 × 1012 Hz = 276 THz
+ 
+ 
+(b) From c = λf,  
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+2.75 × 1014 Hz = 1.09 × 10−6 m = 1.09 µm (infrared) 
+P43.42 
+(a) 
+From Table 43.3, the energy gap for CdS is 2.42 eV, so photons of 
+energy greater than 2.42 eV will be absorbed, corresponding to 
+wavelengths shorter than  
+ 
+ 
+ 
+λ = hc
+E = 1240 eV ⋅nm
+2.42 eV
+= 512 nm 
+ 
+ 
+All the Balmer lines lie between the shortest (series limit)
+
+--- PAGE 28 ---
+Chapter 43     1081 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+produced by the transition n = ∞→2, with energy 
+ 
+ 
+ 
+ΔE = 13.6 eV
+1
+22
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.40 eV
+ 
+ 
+ 
+is 
+λ = hc
+E = 1240 eV⋅nm
+3.40 eV
+= 365 nm 
+ 
+ 
+The longest produced by the transition n = 3 → 2, with energy 
+ 
+ 
+ 
+ΔE = 13.6 eV
+1
+22 −1
+32
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.89 eV
+ 
+ 
+ 
+is 
+λ = hc
+E = 1240 eV⋅nm
+1.89 eV
+= 656 nm 
+ 
+ 
+All the hydrogen Balmer lines except for the red line at 656 nm 
+will be absorbed. 
+ 
+(b) 
+The red line at 656 nm will be transmitted. 
+P43.43 
+The energy-bang gap is  
+ 
+ 
+ 
+Eg = hc
+λ = 1240 eV ⋅nm
+650 nm
+≈1.91 eV 
+P43.44 
+The wavelength 0.512 µm = 512 nm. The corresponding photon energy 
+is just sufficient to promote an electron across the gap.  
+ 
+ 
+ 
+Eg = hc
+λ = 1240 eV ⋅nm
+512 nm
+= 2.42 eV 
+P43.45 
+If the photon energy is 5.47 eV or higher, the diamond window will 
+absorb the photons. Here,  
+ 
+ 
+hf
+(
+)max = hc
+λmin
+= 5.47 eV
+ 
+ 
+which gives 
+ 
+ 
+λmin =
+hc
+5.47 eV = 1240 eV⋅nm
+5.47 eV
+= 227 nm
+ 
+P43.46 
+(a) 
+In the Bohr model we replace ke by ke κ and me by m*. Then the 
+radius of the first Bohr orbit, a0 =
+2
+mekee2 in hydrogen, changes to 
+ 
+ 
+ 
+′a =
+2
+m* ke κ
+(
+)e2 =
+2κ
+m* kee2 =
+me
+m*
+⎛
+⎝⎜
+⎞
+⎠⎟κ
+2
+mekee2 =
+me
+m*
+⎛
+⎝⎜
+⎞
+⎠⎟κ a0 
+ 
+(b) Substituting numerical values, 
+ 
+ 
+ 
+′a =
+me
+m *
+⎛
+⎝⎜
+⎞
+⎠⎟κ a0 =
+me
+0.220me
+⎛
+⎝⎜
+⎞
+⎠⎟11.7
+(
+) 0.052 9 nm
+(
+) = 2.81 nm
+
+--- PAGE 29 ---
+1082     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The energy levels for hydrogen are En = −kee2
+2a0
+1
+n2 . Making the 
+replacements ke →ke κ and a0 →′a , we have 
+ 
+ 
+ 
+′
+En = −
+ke κ
+(
+)e2
+2
+me m*
+(
+)κ a0
+⎡⎣
+⎤⎦
+1
+n2 = −
+kee2
+2κ 2
+me m*
+(
+)a0
+⎡⎣
+⎤⎦
+1
+n2
+= −1
+κ 2
+m*
+me
+⎛
+⎝⎜
+⎞
+⎠⎟
+kee2
+2a0
+1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟= −m*
+me
+⎛
+⎝⎜
+⎞
+⎠⎟
+En
+κ 2
+ 
+ 
+(d) For n = 1,  
+ 
+ 
+ 
+′
+E1 = −0.220 13.6 eV
+11.72
+⎛
+⎝⎜
+⎞
+⎠⎟= −0.021 9 eV
+. 
+ 
+ 
+ 
+Section 43.7 
+Semiconductor Devices 
+P43.47 
+Equation 43.27 is 
+ 
+ 
+ 
+I = I0 eeΔV kBT −1
+(
+) 
+ 
+Thus, 
+ee ΔV
+(
+) kBT = 1+ I
+I0
+ 
+ 
+and   
+ΔV = kBT
+e ln 1+ I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+At T = 300 K,  
+ 
+ 
+ 
+ΔV = 1.38 × 10−23 J K
+(
+) 300 K
+(
+)
+1.60 × 10−19 C
+ln 1+ I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 25.9 mV
+(
+)ln 1+ I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+If I = 9.00I0,     
+ 
+ 
+ 
+ΔV = 25.9 mV
+(
+)ln 10.0
+(
+) = 59.5 mV 
+ 
+(b) If I = –0.900I0,  
+ 
+ 
+ 
+ΔV = 25.9 mV
+(
+)ln 0.100
+(
+) = −59.5 mV 
+ 
+The basic idea behind a semiconductor device is that a large current or 
+charge can be controlled by a small control voltage.
+
+--- PAGE 30 ---
+Chapter 43     1083 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.48 
+(a) 
+The current in the diode, and thus in all elements of the series circuit, 
+is I = I0 eeΔV kBT −1
+(
+) . Appling Kirchhoff’s loop rule in the direction of 
+the current, going through the negative to the positive side of the 
+battery, then through the diode, and then the resistor, we get 
+ 
+ 
+ 
+ε −ΔV −IR = 0
+ε −ΔV −I0R eeΔV kBT −1
+(
+) = 0
+ 
+ 
+ 
+or 
+ε −ΔV = I0R eeΔV kBT −1
+(
+) 
+ 
+(b) The graphs to be plotted are the voltage across the resistor, 
+ 
+ 
+ 
+ΔVresistor = IR = 1.00 × 10−6 A
+(
+) 745 Ω
+(
+) eΔV 0.0250 V −1
+(
+)
+= 7.45 × 10−4 A
+(
+) eΔV 0.025 V −1
+(
+)
+ 
+ 
+ 
+and the voltage across the battery and diode combined, 
+ 
+ 
+ ΔVBD = ε −ΔV = 2.42 V −ΔV 
+ 
+ 
+The graphs are plotted in ANS. FIG. P43.48 below. 
+ 
+ANS. FIG. P43.48 
+ 
+(c) 
+The two graphs intersect at ΔV = 0.200 V. The current is then 
+ 
+ 
+ 
+I = 1.00 × 10−6 A
+(
+) e0.200 V 0.025 0 V −1
+(
+) = 2.98 × 10−3 A = 2.98 mA 
+ 
+(d) The ohmic resistance of the diode is 
+ 
+ 
+ 
+Rohmic = ΔV
+I
+=
+0.200 V
+2.98 × 10−3 A = 67.1 Ω 
+ 
+(e) 
+The dynamic resistance of the diode is  
+ 
+ 
+ 
+Rdynamic = d ΔV
+(
+) dI = dI d ΔV
+(
+)
+[
+]
+−1 
+ 
+ 
+where I = I0 eeΔV kBT −1
+(
+) . Then, 
+ 
+ 
+ 
+dI
+d ΔV
+(
+)
+=
+d
+d ΔV
+(
+)
+I0 eeΔV kBT −1
+(
+)
+⎡⎣
+⎤⎦= eI0
+kBT eeΔV kBT
+
+--- PAGE 31 ---
+1084     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+Rdynamic = d ΔV
+(
+)
+dI
+=
+dI
+d ΔV
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+−1
+=
+eI0
+kBT eeΔV kBT
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= 1.00 × 10−6 A
+0.0250 V
+e0.200 V 0.025 0 V
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= 8.39 Ω
+ 
+P43.49 
+First, we evaluate I0 in I = I0 eeΔV kBT −1
+(
+) , given that I = 200 mA when 
+ΔV = 100 mV and T = 300 K. 
+ 
+ 
+ 
+eΔV
+kBT =
+1.60 × 10−19 C
+(
+) 0.100 V
+(
+)
+1.38 × 10−23 J K
+(
+) 300 K
+(
+)
+= 3.86 
+ 
+so 
+ 
+I0 =
+I
+ee ΔV
+(
+) kBT −1 = 200 mA
+e3.86 −1 = 4.28 mA 
+ 
+If V = –100 mV, e ΔV
+(
+)
+kBT
+= −3.86; and the current will be 
+ 
+ 
+ 
+I = I0 eeΔV kBT −1
+(
+) = 4.28 mA
+(
+) e−3.86 −1
+(
+) = −4.19 mA 
+P43.50 
+From Equation 43.27, the current in the diode is a function of ΔV is  
+ 
+ 
+ 
+I ΔV
+(
+) = I0 eeΔV kBT −1
+(
+) 
+ 
+where kBT = 0.025 0 eV. Therefore,  
+ 
+ 
+ 
+I +ΔV
+(
+)
+I −ΔV
+(
+)
+=
+I0 eeΔV kBT −1
+(
+)
+I0 ee −ΔV
+(
+) kBT −1
+(
+)
+= eeΔV kBT −1
+ee −ΔV
+(
+) kBT −1
+I +1.00 V
+(
+)
+I −1.00 V
+(
+)
+= e1.00 0.025 0 −1
+e−1.00 0.025 0 −1 = e40 −1
+e−40 −1 = −2.35 × 1017
+ 
+ 
+ 
+ 
+Section 43.8 
+Superconductivity 
+P43.51 
+(a) 
+See ANS. FIG. P43.51. 
+ 
+ANS. FIG. P43.51
+
+--- PAGE 32 ---
+Chapter 43     1085 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Treat the rod as a solenoid. For a surface current around the 
+outside of the cylinder as shown, B = Nµ0I
+
+, or 
+ 
+ 
+ 
+NI = B
+µ0
+= 0.540 T
+(
+) 2.50 × 10−2 m
+(
+)
+4π × 10−7 T⋅m A
+= 10.7 kA 
+P43.52 
+(a) 
+In the definition of resistance, ΔV = IR; if R is zero, then ΔV = 0 
+for any value of the current. 
+ 
+(b) See ANS. FIG. P43.52. The graph is linear. 
+ 
+ANS. FIG. P43.52 
+ 
+(c) 
+The graph shows a direct proportionality with resistance given by 
+the reciprocal of the slope: 
+ 
+ 
+ 
+slope = ΔI
+ΔV = 1
+R =
+155 −57.8
+(
+) mA
+3.61−1.356
+(
+) mV = 43.1 Ω−1 
+ 
+ 
+so, 
+R = 0.023 2 Ω 
+ 
+(d) The expulsion of magnetic flux, and therefore fewer current-
+carrying paths through the superconductor, could explain the 
+decrease in current. 
+P43.53 
+By Faraday’s law: ΔΦB
+Δt = L ΔI
+Δt = A ΔB
+Δt , thus 
+ 
+ 
+ΔI = A ΔB
+(
+)
+L
+=
+π 0.010 0 m
+(
+)
+2
+⎡⎣
+⎤⎦0.020 0 T
+(
+)
+3.10 × 10−8 H
+= 203 A 
+ 
+The current generated in the ring is 203 A to produce a magnetic field 
+in the direction of the original field through the ring.
+
+--- PAGE 33 ---
+1086     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+43.54 
+For the N2 molecule, k = 2 297 N/m, m = 2.32 × 10
+–26 kg, and 
+r = 1.20 × 10
+–10 m. The reduced mass is, from Equation 43.4, 
+ 
+ 
+µ =
+mm
+m + m = m
+2
+ 
+ 
+The frequency of vibration for the molecule is, from Equation 43.8, 
+ 
+ 
+ω =
+k
+µ = 4.45 × 1014 rad s 
+ 
+and the moment of inertia is, from Equation 43.3, 
+ 
+ 
+I = µr2 = 1.16 × 10−26 kg
+(
+) 1.20 × 10−10 m
+(
+)
+2
+= 1.67 × 10−46 kg⋅m2
+ 
+ 
+The allowed vibrational energies are, from Equation 43.9, 
+ 
+ 
+Evib = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ω, where v = 1, 2, 3… 
+ 
+The first excited vibrational state is above the vibrational ground state 
+by the energy difference ΔE = ω. For the rotational state that is above 
+the rotational ground state by the same energy difference, we require 
+ 
+ 
+2
+2I J J + 1
+(
+) = ω 
+ 
+or 
+ 
+ 
+J J + 1
+(
+) = 2Iω
+
+= 2 1.67 × 10−46 kg⋅m2
+(
+) 4.45 × 1014 rad s
+(
+)
+1.055 × 10−34 J⋅s
+= 1 410.
+ 
+ 
+Thus, by inspection, J = 37 . 
+P43.55 
+From Equation 43.9, the allowed vibrational energies are 
+ 
+ 
+Evib = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ω, where v = 1, 2, 3… 
+ 
+For the vibrational energy level that is just below the dissociation 
+energy, we require 
+ 
+ 
+Evib = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ω ≤Emax = 4.48 eV
+
+--- PAGE 34 ---
+Chapter 43     1087 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or, 
+ v ≤Emax
+ω −1
+2 = Emax
+ω −1
+2
+v ≤
+4.48 eV
+(
+) 1.60 × 10−19 J eV
+(
+)
+6.626 × 10−34 J⋅s 2π
+⎡⎣
+⎤⎦8.28 × 1014 rad/s
+(
+)
+−1
+2 = 7.7
+ 
+ 
+Therefore, because v is an integer, v = 7 . 
+P43.56 
+(a) 
+The total potential energy Utotal = −α kee2
+r
++ B
+rm ,  given by Equation 
+43.17, has its minimum value at the equilibrium spacing, r = r0. At 
+this point, F = −dU
+dr
+r=r0
+= 0: 
+ 
+ 
+ 
+F = −d
+dr −α kee2
+r
++ B
+rm
+⎛
+⎝⎜
+⎞
+⎠⎟
+r=r0
+= 0
+= −α kee2
+r0
+2 + mB
+r0
+m+1 = 0
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+B = α kee2
+m r0
+m−1 
+ 
+ 
+Substituting this value of B into F, we have  
+ 
+ 
+ 
+F = −α kee2
+r2 + m
+rm+1 α kee2
+m r0
+m−1
+⎛
+⎝⎜
+⎞
+⎠⎟= −α kee2
+r2
+1−
+r0
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+m−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+(b) Let r = r0 + x, so  r0 = r – x.  Then assuming x is small we have, 
+ 
+ 
+ 
+F = −α kee2
+r2
+1−
+r −x
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+m−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= −α kee2
+r2
+1−1−x
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+m−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+≈−α kee2
+r2
+1−1+ (m −1) x
+r
+⎡
+⎣⎢
+⎤
+⎦⎥≈−α kee2
+r0
+3 (m −1)x
+ 
+ 
+ 
+This is of the form of Hooke’s law with spring constant 
+K = keαe2
+r0
+3
+m −1
+(
+) . 
+ 
+(c) 
+Figure 38.22 (in Section 38.5 on electron diffraction) gives the 
+distance from sodium ion to sodium ion as 0.562 737 nm. 
+Therefore, the interatomic spacing in NaCl is  
+ 
+ 
+ 
+r0 = (0.562 737 nm)/2 = 0.281 369 × 10
+–9 m 
+ 
+ 
+Other problems in this chapter give the same information, or we
+
+--- PAGE 35 ---
+1088     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+could calculate it from the statement in Section 43.3 that the ionic 
+cohesive energy for this crystal is –7.84 eV. Using Equation 43.17,  
+ 
+ 
+ 
+ 
+U0 = −α kee2
+r0
+1−1
+m
+⎛
+⎝⎜
+⎞
+⎠⎟= −7.84 eV
+ 
+ 
+ 
+Solving for r0, 
+ 
+ 
+ 
+ r0 = −α kee2
+U0
+1−1
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −α 8.99 × 109 N⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+−7.84 eV
+(
+) 1.60 × 10−19 J/eV
+(
+)
+1−1
+8
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.81× 10−10 m
+ 
+ 
+ 
+The stiffness constant is then 
+ 
+ 
+ 
+K = α kee2
+r0
+3 (m−1)
+= 1.7476
+(
+)
+8.99 × 109 N⋅m2 /C2
+(
+)(1.60 × 10−19 C)2(8 −1)
+(2.81× 10−10 m)3
+= 127 N/m
+ 
+ 
+ 
+The vibration frequency of a sodium ion (m = 23.0 u) within the 
+crystal is 
+ 
+ 
+ 
+f = 1
+2π
+K
+m = 1
+2π
+127 N/m
+23.0 1.66 × 10−27 kg
+(
+)
+= 9.18 × 1012 Hz = 9.18 THz
+ 
+P43.57 
+Because the average energy required to break one van der Waals bond 
+is 1.74 × 10
+–23 J, and because the bond is between two atoms of the 
+same kind, the energy required to remove one helium atom from the 
+bond is half the total: 
+ 
+ 
+1.74 × 10−23 J 2 = 0.870 × 10−23 J 
+ 
+Because each atom bonds with four other atoms, the energy required 
+to remove one atom from all four bonds is 
+ 
+ 
+4 0.870 × 10−23 J
+(
+) = 3.48 × 10−23 J atom 
+ 
+The latent heat of fusion for helium (in joules per gram) is the total 
+energy required to break the bonds of all the helium atoms in a mol, 
+expressed as energy/ unit mass: 
+ 
+ 
+L =
+3.48 × 10−23 J
+atom
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 atoms
+mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+4.00 g
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.24 J/g
+
+--- PAGE 36 ---
+Chapter 43     1089 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.58 
+We assume the potential well is that of a harmonic-oscillator. From 
+Equation 43.9, the allowed energies of vibration of the molecule are 
+ 
+ 
+Evib = v + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf
+ 
+ 
+To dissociate the atoms, enough energy must be supplied to raise their 
+energy to the top of the potential well. The energy required to 
+dissociate the atoms in the ground state (v = 0) is 4.48 eV; thus, the well 
+depth is 1
+2 hf + 4.48 eV. In the first excited vibrational state (v = 1), the 
+dissociation energy is 3.96 eV; thus, the well depth is 3
+2 hf + 3.96 eV. 
+Then, the depth of the well is 
+ 
+ 
+1
+2 hf + 4.48 eV = 3
+2 hf + 3.96 eV 
+ 
+from which we see that hf = 0.52 eV. Therefore, the depth of the well is 
+ 
+ 
+1
+2 hf + 4.48 eV = 1
+2 0.520 eV
+(
+) + 4.48 eV = 4.74 eV 
+P43.59 
+The total potential energy is given by Equation 43.17:  
+ 
+ 
+Utotal = −α kee2
+r
++ B
+rm 
+ 
+The total potential energy has its minimum value U0 at the equilibrium 
+spacing, r = r0. At this point, dU
+dr
+r=r0
+= 0, or 
+ 
+ 
+dU
+dr
+r=r0
+= d
+dr −α kee2
+r
++ B
+rm
+⎛
+⎝⎜
+⎞
+⎠⎟
+r=r0
+= −α kee2
+r0
+2 + mB
+r0
+m+1 = 0
+ 
+ 
+which gives 
+ 
+ 
+B = α kee2
+m r0
+m−1 
+ 
+Substituting this value of B into Utotal, we arrive at 
+ 
+ 
+U0 = −α kee2
+r0
++ α kee2
+m r0
+m−1
+1
+r0
+m
+⎛
+⎝⎜
+⎞
+⎠⎟= −α kee2
+r0
+1−1
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 37 ---
+1090     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.60 
+(a) 
+The results of the spreadsheet are shown in two parts, in TABLE 
+P43.60(a) and TABLE P43.60(b) for f E
+( ) =
+1
+e
+E EF −1
+(
+)TF
+⎡⎣
+⎤⎦T + 1
+. ANS. 
+FIG. P43.60 shows the graphs of the tabulated values. 
+ 
+(b) The function is compared to the case T = 0. See the table and 
+graphs below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE P43.60(a) 
+ 
+T = 0 
+T = 0.1TF 
+E
+EF
+ 
+e
+E EF
+(
+)−1
+⎡⎣
+⎤⎦TF T
+(
+)  f (E) e
+E EF
+(
+)−1
+⎡⎣
+⎤⎦TF T
+(
+)  f (E) 
+0 
+e
+–∞ 
+1.00 
+e
+–10.0 
+1.000 
+0.500 e
+–∞ 
+1.00 
+e
+–5.00 
+0.993 
+0.600 e
+–∞ 
+1.00 
+e
+–4.00 
+0.982 
+0.700 e
+–∞ 
+1.00 
+e
+–3.00 
+0.953 
+0.800 e
+–∞ 
+1.00 
+e
+–2.00 
+0.881 
+0.900 e
+–∞ 
+1.00 
+e
+–1.00 
+0.731 
+1.00 
+e
+0 
+0.500 e
+0 
+0.500 
+1.10 
+e
++∞ 
+0.00 
+e
+1.00 
+0.269 
+1.20 
+e
++∞ 
+0.00 
+e
+2.00 
+0.119 
+1.30 
+e
++∞ 
+0.00 
+e
+3.00 
+0.047 4 
+1.40 
+e
++∞ 
+0.00 
+e
+4.00 
+0.018 0 
+1.50 
+e
++∞ 
+0.00 
+e
+5.00 
+0.006 69
+
+--- PAGE 38 ---
+Chapter 43     1091 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE P43.60(b) 
+ 
+ 
+ANS. FIG. P43.60 
+T = 0.2TF 
+T = 0.5TF 
+E
+EF
+ 
+e
+E EF
+(
+)−1
+⎡⎣
+⎤⎦TF T
+(
+)  f (E) 
+e
+E EF
+(
+)−1
+⎡⎣
+⎤⎦TF T
+(
+)  f (E) 
+0 
+e
+–5.00 
+0.993 
+e
+–2.00 
+0.881 
+0.500 e
+–2.50 
+0.924 
+e
+–1.00 
+0.731 
+0.600 e
+–2.00 
+0.881 
+e
+–0.800 
+0.690 
+0.700 e
+–1.50 
+0.818 
+e
+–0.600 
+0.646 
+0.800 e
+–1.00 
+0.731 
+e
+–0.400 
+0.599 
+0.900 e
+–0.500 
+0.622 
+e
+–0.200 
+0.550 
+1.00 
+e
+0 
+0.500 
+e
+0 
+0.500 
+1.10 
+e
+0.500 
+0.378 
+e
+0.200 
+0.450 
+1.20 
+e
+1.00 
+0.269 
+e
+0.400 
+0.401 
+1.30 
+e
+1.50 
+0.182 
+e
+0.600 
+0.354 
+1.40 
+e
+2.00 
+0.119 
+e
+0.800 
+0.310 
+1.50 
+e
+2.50 
+0.075 9 e
+1.00 
+0.269
+
+--- PAGE 39 ---
+1092     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.61 
+(a) 
+For equilibrium, dU
+dx = 0:    
+ 
+ 
+ 
+d
+dx Ax−3 −Bx−1
+(
+) = −3Ax−4 + Bx−2 = 0 
+ 
+ 
+x →∞ describes one equilibrium position, but the stable 
+equilibrium position x0 is at 
+ 
+ 
+  
+−3Ax0
+−4 + Bx0
+−2 = 0 
+ 
+ 
+solving, 
+ 
+ 
+  
+x0
+2 = 3A
+B
+→
+x0 =
+3A
+B =
+3 0.150 eV⋅nm3
+(
+)
+3.68 eV⋅nm
+= 0.350 nm
+ 
+ 
+(b) The depth of the well is given by 
+ 
+ 
+ 
+U0 = U x=x0 = A
+x0
+3 −B
+x0
+=
+AB3 2
+33 2 A3 2 −BB1 2
+31 2 A1 2 
+ 
+ 
+ 
+U0 = U x=x0 = −2B3 2
+33 2 A1 2 = −
+2 3.68 eV ⋅nm
+(
+)
+3 2
+33 2 0.150 eV ⋅nm3
+(
+)
+1 2 = −7.02 eV 
+ 
+(c) 
+The force on the particle is given by Fx = −dU
+dx = 3Ax−4 −Bx−2 . To 
+find the maximum force, we determine finite xm such that 
+dF
+dx x=xm
+= 0 . 
+ 
+ 
+ 
+dFx
+dx
+x=xm
+= −12Ax−5 + 2Bx−3
+⎡⎣
+⎤⎦x=x0 = 0
+2Bxm
+−3 = 12Axm
+−5
+xm
+2 = 6A
+B
+→
+xm =
+6A
+B
+ 
+ 
+ 
+Then,      
+ 
+ 
+ 
+Fmax = 3A
+B
+6A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−B
+B
+6A
+⎛
+⎝⎜
+⎞
+⎠⎟= −B2
+12A = −
+3.68 eV ⋅nm
+(
+)
+2
+12 0.150 eV ⋅nm3
+(
+)
+ 
+ 
+ 
+so 
+Fmax = −7.52 eV nm 1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟= −1.20 × 10−9 N
+= −1.20 nN
+ 
+ 
+ 
+or, as a vector, −1.20ˆi nN .
+
+--- PAGE 40 ---
+Chapter 43     1093 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.62 
+(a) 
+For equilibrium, dU
+dx = 0:    
+ 
+ 
+ 
+d
+dx (Ax−3 −Bx−1) = −3Ax−4 + Bx−2 = 0 
+ 
+ 
+x →∞ describes one equilibrium position, but the stable 
+equilibrium position x0 is at 
+ 
+ 
+ 
+−3Ax0
+−4 + Bx0
+−2 = 0
+Bx0
+−2 = 3Ax0
+−4
+x0
+2 = 3A
+B
+→
+x0 =
+3A
+B
+ 
+ 
+(b) The depth of the well is given by 
+ 
+ 
+ 
+U0 = U x=x0 = A
+x0
+3 −B
+x0
+=
+AB3 2
+33 2 A3 2 −BB1 2
+31 2 A1 2 = −2
+B3
+27A
+ 
+ 
+(c) 
+The force on the particle is given by Fx = −dU
+dx = 3Ax−4 −Bx−2 . 
+ 
+ 
+To find the maximum force, we determine finite xm such that 
+ 
+ 
+ 
+dFx
+dx
+x=xm
+= −12Ax−5 + 2Bx−3
+⎡⎣
+⎤⎦x=x0 = 0
+2Bxm
+−3 = 12Axm
+−5
+xm
+2 = 6A
+B
+→
+xm =
+6A
+B
+ 
+ 
+ 
+then 
+ 
+ 
+ 
+Fmax = 3A
+B
+6A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−B
+B
+6A
+⎛
+⎝⎜
+⎞
+⎠⎟= −B2
+12A
+
+--- PAGE 41 ---
+1094     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P43.63 
+(a) 
+Refer to Example 43.2 for details. Since the interatomic potential is 
+the same for both molecules, the spring constant is the same. 
+ 
+ 
+Then,  
+ 
+ 
+ 
+f = 1
+2π
+k
+µ
+  
+ 
+ 
+where  
+ 
+ 
+ 
+µ12 = 12 u
+(
+) 16 u
+(
+)
+12 u + 16 u = 6.86 u   and   µ14 = 14 u
+(
+) 16 u
+(
+)
+14 u + 16 u = 7.47 u
+  
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+f14 = 1
+2π
+k
+µ14
+= 1
+2π
+k
+µ12
+µ12
+µ14
+⎛
+⎝⎜
+⎞
+⎠⎟= f12
+µ12
+µ14
+= 6.42 × 1013 Hz
+(
+)
+6.86 u
+7.47 u
+= 6.15 × 1013 Hz
+ 
+ 
+(b) The equilibrium distance is the same for both molecules. 
+ 
+ 
+ 
+I14 = µ14r2 =
+µ14
+µ12
+⎛
+⎝⎜
+⎞
+⎠⎟µ12r2 =
+µ14
+µ12
+⎛
+⎝⎜
+⎞
+⎠⎟I12
+I14 =
+7.47 u
+6.86 u
+⎛
+⎝⎜
+⎞
+⎠⎟1.46 × 10−46 kg ⋅m2
+(
+) = 1.59 × 10−46 kg ⋅m2
+ 
+ 
+(c) 
+The molecule can move to the (v = 1, J = 9) state or to the (v = 1,  
+J = 11) state. The energy it can absorb is either 
+ 
+ 
+ 
+ΔE = hc
+λ =
+1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf14 + 11 11+ 1
+(
+) 2
+2I14
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                        −
+0 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf14 + 10 10 + 1
+(
+) 2
+2I14
+⎡
+⎣⎢
+⎤
+⎦⎥
+hc
+λ = hf14 + 22 2
+2I14
+= hf14 + 11 h
+2πI14
+c
+λ = f14 + 11
+
+2πI14
+
+--- PAGE 42 ---
+Chapter 43     1095 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+ 
+ 
+ 
+ΔE = hc
+λ =
+1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf14 + 9 9 + 1
+(
+) 2
+2I14
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                          −
+0 −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟hf14 + 10 10 + 1
+(
+) 2
+2I14
+⎡
+⎣⎢
+⎤
+⎦⎥
+hc
+λ = hf14 −20 2
+2I14
+= hf14 −10 h
+2πI14
+c
+λ = f14 −10
+
+2πI14
+ 
+ 
+ 
+The wavelengths it can absorb are then 
+ 
+ 
+ 
+λ =
+c
+f14 + 112π I14
+(
+)
+   or   λ =
+c
+f14 −102π I14
+(
+)
+  
+ 
+ 
+These are,  
+ 
+ 
+ 
+λ =
+2.998 × 108 m/s
+6.15 × 1013 Hz +
+11 1.055 × 10−34 J⋅s
+(
+)
+⎡⎣
+⎤⎦
+2π 1.59 × 10−46 kg⋅m2
+(
+)
+⎡⎣
+⎤⎦
+= 4.78 µm
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+λ =
+2.998 × 108 m/s
+6.15 × 1013 Hz −
+10 1.055 × 10−34 J⋅s
+(
+)
+⎡⎣
+⎤⎦
+2π 1.59 × 10−46 kg⋅m2
+(
+)
+⎡⎣
+⎤⎦
+= 4.96 µm
+ 
+P43.64 
+(a) 
+At equilibrium separation r = re ,  
+ 
+ 
+ 
+dU
+dr
+r=re
+= −2aB e
+−a re −r0
+(
+) −1
+⎡⎣
+⎤⎦e
+−a re −r0
+(
+) = 0 
+ 
+ 
+We have neutral equilibrium as re →∞ and stable equilibrium at 
+ 
+ 
+ 
+e
+−a re −r0
+(
+) = 1
+→
+re = r0 
+ 
+(b) At r = r0, U = 0. As r →∞, U → B. The depth of the well is B . 
+ 
+(c) 
+We expand the potential in a Taylor series about the equilibrium 
+point r = r0: 
+ 
+ 
+ 
+U r( ) ≈U r0
+( )+ dU
+dr
+r=r0
+r −r0
+(
+)+ 1
+2
+d2U
+dr2
+r=r0
+r −r0
+(
+)
+2
+
+--- PAGE 43 ---
+1096     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or, 
+ 
+ 
+ 
+ 
+ 
+U r( ) ≈0 + 0 + 1
+2 −2Ba
+(
+) −2ae
+−2a r−r0
+(
+) + ae
+−a r−r0
+(
+)
+⎡⎣
+⎤⎦r=r0 r −r0
+(
+)
+2
+≈Ba2 r −r0
+(
+)
+2
+ 
+ 
+ 
+This is of the form     
+ 
+ 
+ 
+1
+2 kx2 = 1
+2 k r −r0
+(
+)
+2 
+ 
+ 
+for a simple harmonic oscillator with  k = 2Ba
+2. 
+ 
+ 
+Then, the molecule vibrates with frequency 
+ 
+ 
+ 
+f = 1
+2π
+k
+µ = a
+2π
+2B
+µ =
+a
+π
+B
+2µ
+ 
+ 
+(d) The ground state energy is  
+ 
+ 
+ 
+1
+2 ω = 1
+2 hf = ha
+π
+B
+8µ
+ 
+ 
+ 
+The energy at infinity is B.  Therefore, to separate the nuclei to 
+infinity requires energy  
+ 
+ 
+ 
+B −ha
+π
+B
+8µ
+
+--- PAGE 44 ---
+Chapter 43     1097 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P43.2 
+(a) 921 pN toward the other ion; (b) −2.88 eV 
+P43.4 
+(a) Ea = 1.28 eV; (b) σ = 0.272 nm, ∈ = 4.65 eV; (c) +6.55 nN;  
+(d) 576 N/m 
+P43.6 
+(a) r0 = 2A
+B
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 6
+; (b) B2
+4A 
+P43.8 
+(a) 0.120 meV; (b) 19.3 GHz 
+P43.10 
+(a) 1.22 × 10
+−26 kg; (b) 1.24 × 10
+−26 kg; (c) They agree because the small 
+apparent difference can be attributed to uncertainty in the data. 
+P43.12 
+The incident photons have a wavelength longer than this, which 
+means they have less energy than 0.359 eV. Therefore, these photons 
+cannot excite the molecule to the first excited state. 
+P43.14 
+2.72 × 10−47 kg ⋅m2 
+P43.16 
+µr
+2 
+P43.18 
+(a) 1.89 × 10−45 kg⋅m2; (b) Erot = 18.4 J (J + 1), where Erot is in 
+microelectron volts and J = 0, 1, 2, 3,…. 
+P43.20 
+2.88 × 10−47 kg⋅m2 
+P43.22 
+64.1 THz 
+P43.24 
+(a) ~10
+17; (b) ~10
+5 m
+3 
+P43.26 
+U = −keα e2
+r where α = 2ln2 
+P43.28 
+(a) The Fermi energy is proportional to the spatial concentration of free 
+electrons to the two-thirds power; (b) See P43.28(b) for full 
+explanation; (c) 6.04; (d) Copper; (e) 0.333; (f) This behavior agrees 
+with the proportionality because EF ne
+2 3 and 6.04
+2/3 = 3.32. 
+P43.30 
+(a) 1.57 Mm/s; (b) The speed is larger by ten orders of magnitude. 
+P43.32 
+3.40 × 10
+17 electrons 
+P43.34 
+There are approximately two free electrons per atom for this metal, not 
+one (see P43.34 for full explanation). 
+P43.36 
+1
+e β  − 1
+(
+)EF /kBT  + 1 
+P43.38 
+(a) 1.10; (b) 9.42 × 10
+−25
+
+--- PAGE 45 ---
+1098     Molecules and Solids 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P43.40 
+(a) The gap should be less than or equal to 1.24 eV; (b) Because silicon 
+has an energy gap of 1.14 eV, it can absorb the energy of nearly all of 
+the photons in sunlight and is an appropriate material for a solar 
+energy collector. 
+P43.42 
+(a) All the hydrogen Balmer lines except for the red lien at 656 nm will 
+be absorbed; (b) The red line at 656 nm will be transmitted. 
+P43.44 
+2.42 eV 
+P43.46 
+(a) ′a =
+me
+m *
+⎛
+⎝⎜
+⎞
+⎠⎟κ a0 ; (b) 2.81 nm; (c) ′
+En = −m *
+me
+⎛
+⎝⎜
+⎞
+⎠⎟
+En
+κ 2 ; (d) −0.0219 eV 
+P43.48 
+(a) See P43.48(a) for full explanation; (b) See ANS. FIG. P43.48;  
+(c) 2.98 mA; (d) 67.1 Ω; (e) 8.39 Ω 
+P43.50 
+–2.35 × 10
+17 
+P43.52 
+(a) In the definition of resistance ΔV = IR, if R is zero then ΔV = 0 for 
+any value of current; (b) See ANS FIG P43.52; (c) 0.023 2 Ω; (d) 
+Expulsion of magnetic flux, and therefore fewer current-carrying paths 
+through the superconductor, could explain the decrease in current. 
+P43.54 
+J = 37 
+P43.56 
+(a) See P43.56(a) for full explanation; (b) See P43.56(b) for full 
+explanation; (c) 9.18 THz 
+P43.58 
+4.74 eV 
+P43.60 
+(a–b) See P43.60 for full explanation. 
+P43.62 
+(a) x0 =
+3A
+B ; (b) −2
+B3
+27A ; (c) −B2
+12A 
+P43.64 
+(a) r0; (b) B; (c) a
+π
+B
+2µ
+; (d) B −ha
+π
+B
+8µ

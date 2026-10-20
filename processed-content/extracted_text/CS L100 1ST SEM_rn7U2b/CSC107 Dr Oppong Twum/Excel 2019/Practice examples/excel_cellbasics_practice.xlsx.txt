@@ -1,0 +1,19 @@
+
+--- SHEET: Sheet 1 ---
+ |  | Leadership Training |  |  |  |  |  |  | 
+ |  | 6-Part Series |  |  |  |  |  |  | 
+Department | First Name | Last Name | User Name | Part 1 | Part 2 |  | Part 3 |  | 
+Sales | Walter | Rivera | wrivera | X | X | On hold | X |  | 
+Sales | Heidi | Lee |  | X | X | On hold |  |  | 
+Claims | Josie | Gates |  | X | X |  | X |  | 
+Accounting | Wendy | Crocker |  | X | X |  |  |  | 
+Accounting | Loretta | Johnson |  | X |  |  | X |  | 
+Sales | Walter | Rivera |  | X |  |  | X |  | 
+Claims | Misty | Whitfield |  | X |  |  |  |  | 
+Marketing | Matilda | Lewis |  | X |  |  |  |  | 
+Accounting | Elizabeth | Hicks |  | X |  |  | X |  | 
+HR | Alvin | Rios |  | X |  |  |  |  | 
+HR | Brian | Gaines |  | X |  |  |  |  | 
+Sales | Megan | Bosworth |  | X |  |  |  |  | 
+Claims | Maria | Menzies |  | X |  |  |  |  | 
+Claims | Micheal | Russell |  | X |  |  |  |  | 

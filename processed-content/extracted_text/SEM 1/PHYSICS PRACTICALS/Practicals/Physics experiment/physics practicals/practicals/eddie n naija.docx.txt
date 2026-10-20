@@ -1,0 +1,49 @@
+TITLE:  Wheatstone Bridge Experiment
+AIM: To determine the total resistance of resistors connected in parallel and in series.
+APPARATUS: 
+Slide wire measuring bridge, Connection box, Standard PEK carbon resistor, Unknown PEK carbon resistors, Power supply, and 5V/1A, +/- 15V, Digital multimeter  07134.00, Connection cord, and 500mm, red, yellow and blue.
+DIAGRAM:
+THEORY:
+Wheatstone ridge is an instrument used in getting accurate resistance. This consists of four Resisters of resistance, R1, R2, R3 and R4 connected side by side together to form a closed circuit. The current flowing in the circuit divides into two branches. Varying the resistances, a stage is reached when no current flows through the galvanometer placed at the centre, indicating zero that is when C and Y are at the same potential (there is no potential between C and Y). The potential difference across R equals that across the length l2 and the potential difference across Rx equals l1.
+Then R/RX =l2/l1   and Rx=R l1/l2 
+For resisters R1 and R2 in Series and Parallel the equivalent resistance are respectively
+RX=R1 + R2 and 1/Rp =1/R1 +1/R2.
+METHOD:  The values of the resisters to be determined were made invisible and encoded as follows: A, B, C, D and E. The experimental setup was as shown above.  Resister A and the Standard resister R was connected using a connection box.
+The power supply was switched on and the correctness of the connection was checked by touching the bridge wire at the extreme ends (X and Y) with the slider (jockey) J and also the negative and positive readings were observed on the digital multimeter G. The balance point was located on the wire at J, the position where there is zero reading on the digital multimeter. The length l1 from the end X to the balanced point and also l2 was measured.  The experiment was repeated with 
+(i)	The unknown resistances B, C, D and E.
+(ii)	Two unknown resistors AB connected in series Rs.
+(iii)	The two unknown resisters were then connected in parallel Rp.
+TABLE OF RESULT:
+A and B in series using 10KΏ
+A and B in parallel using 10KΏ
+CALCULATION:
+   ,   Rx                     
+A=10000Ω×   =   4.7KΩ        C=10000Ω×  = 142Ω          E=10000Ω× =91Ω
+B=10000Ω×  =    650          D=10000Ω×   = 310Ω 
+For A and B in series, 10KΩ x  = 5384 Ω                 
+If A and B are in series using the formula, Rs = RA + RB
+                                                                                                                  Rs = 4.7 KΏ + 650 Ώ = 5350Ώ
+For A and B in parallel, 10KΩ x = 582 Ω
+ If A and B are in parallel using the formula,     
+	                                          Rp =571Ω
+Discussion;
+The potential difference across the length l2 and the potential difference across Rx equals l1. With the unknown resistor B, l2was equal to l1 and the B was equal to the known resistor R. When resistors A and B were connected in series the total resistance was found to be 5384Ω. The resistance was 5350Ω using the series connection formula with a deviation of 34Ω. When the resistors were connected in parallel the total resistance was found to be 582Ω. The total resistance was 571Ω using the parallel connection formula with a deviation of 11 Ω. The experiment was however near success.
+PRECAUTIONS:
+It was ensured that connections of the circuit were well tightened.
+It was ensured that the measuring resistance R was successively in order of magnitude to Rx.
+instrument  (setting 100mA=100mV) should be balanced to zero by moving the slide J.
+Conclusion
+ The total resistance in the series connection was 5350 Ω and the total resistance in the parallel connection was found to be 582 Ω.
+REFERENCES:
+(1)Faughn .J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+(2)Nelkon .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+RESIST0R |  |  | 
+A | 32.1 | 67.9 | 0.473
+B | 6.1 | 93.9 | 0.065
+C | 1.4 | 98.6 | 0.014
+D | 3 | 97.0 | 0.031
+E | 0.9 | 99.1 | 0.009
+L1/cm | L2/cm
+35 | 65
+L1/cm | L2/cm
+5.5 | 94.5

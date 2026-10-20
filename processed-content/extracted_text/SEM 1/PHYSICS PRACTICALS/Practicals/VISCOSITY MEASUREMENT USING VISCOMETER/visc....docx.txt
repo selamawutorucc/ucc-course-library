@@ -1,0 +1,86 @@
+AIM:
+ To verify the law of Stokes’ law which states that the if a sphere of radius r and density σ moves with a velocity v  in a fluid of viscosity ή and of density ρ, then for very small velocities, the resistance W of the sphere is
+W=6πrήv.
+APPARATUS:
+Micrometer screw gauge
+A pair of tongs
+Weighing balance
+A viscometer
+Stop watch 
+A rule
+DIAGRAM:
+THEORY:
+If a sphere of radius r and density moves with v in a fluid of viscosity and of density, then for very small velocities, the resistance W	 of the sphere: 
+W=6πrηv. Stokes' law is the basis of the falling sphere viscometer, in which the fluid is stationary in a vertical glass tube. A sphere of known size and density is allowed to descend through the liquid. If correctly selected, it reaches terminal velocity, which can be measured by the time it takes to pass two marks on the tube. Electronic sensing can be used for opaque fluids. Knowing the terminal velocity, the size and density of the sphere, and the density of the liquid, Stokes' law can be used to calculate the viscosity of the fluid. A series of steel ball bearings of different diameter is normally used in the classic experiment to improve the accuracy of the calculation. 
+If the fluid is not of infinite extent, then, as an approximation,
+If the liquid is in cylindrical vessel of radius R and the height of the cylinder is much greater than r.
+The force which acts on the sphere in the gravitational field of the earth because of the density difference between the sphere and the fluid is,
+Where g is the acceleration due to gravity. From 1 and 3 with W=f, it follows that:
+For many liquids, is an exponential the viscosity function of temperature?
+The constant b in 5 is the activation energy for viscous flow
+	Can be explained as Boltzmann factor, which states the proportion of the molecules which have sufficient energy to overcome the barriers before flow sets in.
+MATHEMATICAL EQUATIONS:
+where: F is the frictional force
+r is the radius of the spherical object, 
+η is the fluid viscosity, and 
+v is the particle's velocity. 
+If the particles are falling in the viscous fluid by their own weight, then a terminal velocity, also known as the settling velocity, is reached when this frictional force combined with the buoyant force exactly balance the gravitational force. The resulting settling velocity (or terminal velocity) is given by:
+where:
+Vs is the particles' settling velocity (m/s) (vertically downwards if ρp > ρf, upwards if ρp < ρf), 
+r is the Stokes radius of the particle (m), 
+g is the gravitational acceleration (m/s2), 
+ρp is the density of the particles (kg/m3), 
+ρf is the density of the fluid (kg/m3), and 
+μ is the (dynamic) fluid viscosity (Pa s). 
+The 2q(σ – ρ)  r2
+        		         9v
+Where                 y = mx + c
+ή=2g(σ-ρ)
+	9v
+	9ήv=2g(σ-ρ)
+	9vή     = …………… (2)
+	2g(σ-ρ)
+	v. 9ή   = 
+	      2g (σ-ρ)
+	m =slope
+	m= 9ή
+	      2g (σ-ρ)
+	Slope= 9ή
+                                 2g (σ-ρ)
+                     Slope * 2g (σ-ρ)= 9ή
+	ή = slope * 2g (σ-ρ)
+	     9
+GRAPH:
+PLOTTIG A GRAPH OF R2 AGAINST V (WHERE R IS RADIUS IN METRES AND V THE TERMINAL VELOCITY OF THE BALL)
+DISCUSSION:
+The experiment performed was done to find the viscosity of the fluid when the solid balls fell through the gravity tube. The square radius R² was plotted against the terminal velocity, V of the balls. The results obtained show that as the mass and the diameter (hence the radius) of the balls increase the time taken for the ball to fall through the liquid also increases thus, the viscosity of the balls depend on their radius. 
+Calculations:
+The gradient M = R²/V
+Therefore M = 
+       M=
+M = 
+PROCEEDURE:
+	The mass of the ball was weighed on the balance and the mass determined. The viscometer in the mean; time was switched and turned to a temperature of thirty five degrees Celsius. The viscometer was left for ten minute for the temperature to heat up.
+	In the mean time the diameter of the metal balls were measured using the micrometer screw gauge. When the temperature reached its equilibrium, the metal ball was dropped gently and carefully. The second ball and the third and fourth ball were dropped respectively whilst the time for the distance taken was measured using a stop watch.
+GRAPH
+OBSERVATION:
+Distance of calibrated markings: 5.0cm
+RESULTS:
+	During the experiment the ball with the larger diameter fell slower than the other balls with the smaller diameter falling faster as they were dropped down the gravitation tube.
+Error:
+	 After the ball fell in the tube there were some bubbles that had formed at the side of the tube.
+	The time taken for the closing of the tube was much longer and therefore might have affected the values that were taken.
+CORRECTIONS:
+	Care must be taken to prevent the forming of the bubbles that might disrupt the time and fall of the ball
+	The use of the tong must always be used to prevent expansion of the balls that might increase the volume of the ball and the rate at which the ball would have fallen in the tube.
+PRECAUTIONS:
+When performing the experiment, care should be taken that the air bubbles in the tube is absent.
+The temperature of the viscometer should be waited on for at least ten minutes before the start of the experiment.
+The stopper should always be sealed securely after the solid balls have been dropped in the gravity tube.
+CONCLUSION:
+	The law of Stokes’ has been verified by the performing the experiment on the solid balls taking their radius and the density of the liquid and the solid balls the rate at which they fall down the gravity tube, that is their terminal velocity.
+d/ mm | d/ m | T1/s | T2/ s | T3/ s | t(av)/ s | r/m | R²/m² | v/ms¯¹ | m/g
+10.98 | 0.01098 | 0.38 | 0.30 | 0.34 | 0.34 | 5.490×10¯³ | 3.01×10¯⁵ | 0.147 | 5.637
+13.98 | 0.01398 | 1.28 | 1.26 | 1.30 | 1.28 | 6.990×10¯³ | 4.89×10¯⁵ | 0.039 | 11.657
+15.40 | 0.01540 | 19.47 | 19.00 | 19.52 | 19.33 | 7.700×10¯³ | 5.93×10¯⁵ | 0.003 | 14.996
+15.73 | 0.01573 | 106.85 | 106.80 | 106.86 | 106.84 | 7.865×10¯³ | 6.19×10¯⁵ | 0.0005 | 16.138

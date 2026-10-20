@@ -1,0 +1,59 @@
+
+--- PAGE 1 ---
+CITSA Backend Club Activities Schedule
+11 weeks, starting the weekend of Oct 10  |  Saturdays: Concept  |  Sundays: Practical (with a framework)
+Week
+Saturday — Concept Session
+Sunday — Practical Session (Framework)
+Week 1
+Foundations: the need for backend, backend
+ideology, and understanding HTTP for
+backend.
+Set up a backend framework (e.g., Express.js,
+Django, or Spring Boot); build and run a basic HTTP
+server.
+Week 2
+Routing, and Serialization & Deserialization.
+Build multiple routes with parameters; add endpoints
+that serialize/deserialize JSON data.
+Week 3
+Authentication & Authorization.
+Implement login with JWT or session-based auth;
+protect a route with authorization checks.
+Week 4
+Validation & Transformations.
+Add request validation to an endpoint and
+transform/sanitize incoming data.
+Week 5
+Handlers, Service & Repository pattern
+(Middlewares, request context).
+Refactor a small app into handler/service/repository
+layers; write a custom middleware.
+Week 6
+Complete REST API design.
+Design and build a full CRUD REST API for a sample
+resource, following REST conventions.
+Week 7
+Databases with Postgres.
+Connect the framework to PostgreSQL; perform
+CRUD operations using an ORM or query builder.
+Week 8
+Caching, and Task Queues & Background
+Jobs.
+Add a caching layer (e.g., Redis) to an endpoint; set
+up a task queue and run a background job.
+Week 9
+Full-text search (Elasticsearch), and Error
+Handling & Fault-Tolerant Systems.
+Integrate Elasticsearch and build a search endpoint;
+add centralized error handling/retries.
+Week 10
+Production-grade configuration, and Logging,
+Monitoring & Observability.
+Set up environment-based config; add structured
+logging and a monitoring tool.
+Week 11
+Backend Security, Scaling & Performance
+Engineering, and Concurrency & Parallelism.
+Apply security best practices; load-test an endpoint
+and apply a scaling or concurrency technique.

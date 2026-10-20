@@ -1,0 +1,754 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Excel - Freezing Panes and View Options
+Whenever you're working with a lot of data, it can be difficult to compare information in your workbook. 
+
+Fortunately, Excel includes several tools that make it easier to view content from different parts of your workbook at the same time, including the ability to freeze panes and split your worksheet.
+
+--- SLIDE 5 ---
+To freeze rows
+You may want to see certain rows or columns all the time in your worksheet, especially header cells.
+
+
+By freezing rows or columns in place, you'll be able to scroll through your content while continuing to view the frozen cells.
+
+--- SLIDE 6 ---
+To freeze rows
+Select the row below the row(s) you want to freeze. In our example, we want to freeze rows 1 and 2, so we'll select row 3.
+
+--- SLIDE 7 ---
+To freeze rows
+On the View tab, select the Freeze Panes command, then choose Freeze Panes from the drop-down menu.
+
+--- SLIDE 8 ---
+To freeze rows
+The rows will be frozen in place, as indicated by the gray line. You can scroll down the worksheet while continuing to view the frozen rows at the top. In our example, we've scrolled down to row 18.
+
+--- SLIDE 9 ---
+To freeze columns
+Select the column to the right of the column(s) you want to freeze. In our example, we want to freeze column A, so we'll select column B.
+
+--- SLIDE 10 ---
+To freeze columns
+On the View tab, select the Freeze Panes command, then choose Freeze Panes from the drop-down menu.
+
+--- SLIDE 11 ---
+To freeze columns
+The column will be frozen in place, as indicated by the gray line. You can scroll across the worksheet while continuing to view the frozen column on the left. In our example, we've scrolled across to column E.
+
+--- SLIDE 12 ---
+To freeze columns
+The column will be frozen in place, as indicated by the gray line. You can scroll across the worksheet while continuing to view the frozen column on the left. In our example, we've scrolled across to column E.
+
+--- SLIDE 13 ---
+To freeze columns
+If you only need to freeze the top row (row 1) or first column (column A) in the worksheet, you can simply select Freeze Top Row or Freeze First Column from the drop-down menu.
+
+
+--- SLIDE 14 ---
+To unfreeze panes
+If you want to select a different view option, you may first need to reset the spreadsheet by unfreezing panes. To unfreeze rows or columns, click the Freeze Panes command, then select Unfreeze Panes from the drop-down menu.
+
+--- SLIDE 15 ---
+Other view options
+If your workbook contains a lot of content, it can sometimes be difficult to compare different sections. 
+
+Excel includes additional options to make your workbooks easier to view and compare. 
+
+For example, you can choose to open a new window for your workbook or split a worksheet into separate panes.
+
+--- SLIDE 16 ---
+To open a new window for the current workbook
+Excel allows you to open multiple windows for a single workbook at the same time. 
+
+In our example, we'll use this feature to compare two different worksheets from the same workbook.
+
+--- SLIDE 17 ---
+To open a new window for the current workbook
+Click the View tab on the Ribbon, then select the New Window command.
+
+--- SLIDE 18 ---
+To open a new window for the current workbook
+A new window for the workbook will appear.
+
+--- SLIDE 19 ---
+To open a new window for the current workbook
+You can now compare different worksheets from the same workbook across windows. In our example, we'll select the 2013 Sales Detailed View worksheet to compare 2012 and 2013 sales.
+
+--- SLIDE 20 ---
+To open a new window for the current workbook
+If you have several windows open at the same time, you can use the Arrange All command to rearrange them quickly.
+
+--- SLIDE 21 ---
+To split a worksheet
+Sometimes you may want to compare different sections of the same workbook without creating a new window. 
+
+The Split command allows you to divide the worksheet into multiple panes that scroll separately.
+
+--- SLIDE 22 ---
+To split a worksheet
+Select the cell where you want to split the worksheet. In our example, we'll select cell D6.
+
+--- SLIDE 23 ---
+To split a worksheet
+Click the View tab on the Ribbon, then select the Split command.
+
+--- SLIDE 24 ---
+To split a worksheet
+The workbook will be split into different panes. You can scroll through each pane separately using the scroll bars, allowing you to compare different sections of the workbook.
+
+
+
+
+
+
+
+After creating a split, you can click and drag the vertical and horizontal dividers to change the size of each section.
+
+To remove the split, click the Split command again.
+
+
+--- SLIDE 25 ---
+Excel - Sorting Data
+As you add more content to a worksheet, organizing this information becomes especially important. 
+
+You can quickly reorganize a worksheet by sorting your data. 
+
+For example, you can organize a list of contact information by last name. 
+
+Content can be sorted alphabetically, numerically, and in several other ways.
+
+--- SLIDE 26 ---
+Types of sorting
+Sort sheet: organizes all of the data in your worksheet by one column. Related information across each row is kept together when the sort is applied. In the example below, the Contact Name column (column A) has been sorted to display the names in alphabetical order.
+
+--- SLIDE 27 ---
+Types of sorting
+Sort range: sorts the data in a range of cells, which can be helpful when working with a sheet that contains several tables. Sorting a range will not affect other content in the worksheet.
+
+--- SLIDE 28 ---
+To sort a sheet
+In our example, we'll sort a T-shirt order form alphabetically by Last Name (column C).
+Select a cell in the column you want to sort. In our example, we'll select cell C2.
+
+--- SLIDE 29 ---
+To sort a sheet
+Select the Data tab on the Ribbon, then click the A-Z command to sort A to Z, or the Z-A command to sort Z to A. In our example, we'll sort A to Z.
+
+--- SLIDE 30 ---
+To sort a sheet
+The worksheet will be sorted by the selected column. In our example, the worksheet is now sorted by last name.
+
+--- SLIDE 31 ---
+To sort a range
+In our example, we'll select a separate table in our T-shirt order form to sort the number of shirts that were ordered in each grade.
+Select the cell range you want to sort. In our example, we'll select cell range G2:H6.
+
+--- SLIDE 32 ---
+To sort a range
+Select the Data tab on the Ribbon, then click the Sort command.
+
+--- SLIDE 33 ---
+To sort a range
+The Sort dialog box will appear. Choose the column you want to sort. In our example, we want to sort the data by the number of T-shirt orders, so we'll select Orders.
+
+--- SLIDE 34 ---
+To sort a range
+Decide the sorting order (either ascending or descending). In our example, we'll use Largest to Smallest.
+Once you're satisfied with your selection, click OK.
+
+--- SLIDE 35 ---
+To sort a range
+The cell range will be sorted by the selected column. In our example, the Orders column will be sorted from highest to lowest. Notice that the other content in the worksheet was not affected by the sort.
+
+--- SLIDE 36 ---
+Custom sorting
+Sometimes you may find that the default sorting options can't sort data in the order you need.
+
+Fortunately, Excel allows you to create a custom list to define your own sorting order.
+
+--- SLIDE 37 ---
+To create a custom sort
+In our example, we want to sort the worksheet by T-Shirt Size (column D). 
+
+A regular sort would organize the sizes alphabetically, which would be incorrect. 
+
+Instead, we'll create a custom list to sort from smallest to largest.
+
+--- SLIDE 38 ---
+To create a custom sort
+Select a cell in the column you want to sort. In our example, we'll select cell D2.
+
+--- SLIDE 39 ---
+To create a custom sort
+Select the Data tab, then click the Sort command.
+
+--- SLIDE 40 ---
+To create a custom sort
+The Sort dialog box will appear. Select the column you want to sort, then choose Custom List... from the Order field. In our example, we will choose to sort by T-Shirt Size.
+
+--- SLIDE 41 ---
+To create a custom sort
+The Custom Lists dialog box will appear. Select NEW LIST from the Custom Lists: box.
+Type the items in the desired custom order in the List entries: box. In our example, we want to sort our data by T-shirt size from smallest to largest, so we'll type Small, Medium, Large, and X-Large, pressing Enter on the keyboard after each item.
+
+--- SLIDE 42 ---
+To create a custom sort
+Click Add to save the new sort order. The new list will be added to the Custom lists: box. Make sure the new list is selected, then click OK.
+
+--- SLIDE 43 ---
+To create a custom sort
+The Custom Lists dialog box will close. Click OK in the Sort dialog box to perform the custom sort.
+
+--- SLIDE 44 ---
+To create a custom sort
+The worksheet will be sorted by the custom order. In our example, the worksheet is now organized by T-shirt size from smallest to largest.
+
+--- SLIDE 45 ---
+Sorting levels
+If you need more control over how your data is sorted, you can add multiple levels to any sort. 
+
+This allows you to sort your data by more than one column.
+
+
+--- SLIDE 46 ---
+To add a level
+In our example below, we'll sort the worksheet by T-Shirt Size (Column D), then by Homeroom # (column A).
+
+Select a cell in the column you want to sort. In our example, we'll select cell A2.
+
+--- SLIDE 47 ---
+To add a level
+Click the Data tab, then select the Sort command.
+
+--- SLIDE 48 ---
+To add a level
+The Sort dialog box will appear. Select the first column you want to sort. In this example, we will sort by T-Shirt Size (column D) with the custom list we previously created for the Order field.
+Click Add Level to add another column to sort.
+
+--- SLIDE 49 ---
+To add a level
+Select the next column you want to sort, then click OK. In our example, we'll sort by Homeroom # (column A).
+
+--- SLIDE 50 ---
+To add a level
+The worksheet will be sorted according to the selected order. In our example, the orders are sorted by T-shirt size. Within each group of T-shirt sizes, students are sorted by homeroom number.
+
+--- SLIDE 51 ---
+To add a level
+If you need to change the order of a multilevel sort, it's easy to control which column is sorted first. Simply select the desired column, then click the Move Up or Move Down arrow to adjust its priority.
+
+--- SLIDE 52 ---
+Excel - Filtering Data
+If your worksheet contains a lot of content, it can be difficult to find information quickly. 
+
+Filters can be used to narrow down the data in your worksheet, allowing you to view only the information you need.
+
+In our example, we'll apply a filter to an equipment log worksheet to display only the laptops and projectors that are available for checkout.
+
+--- SLIDE 53 ---
+To filter data
+In order for filtering to work correctly, your worksheet should include a header row, which is used to identify the name of each column. In our example, our worksheet is organized into different columns identified by the header cells in row 1: ID#, Type, Equipment Detail, and so on.
+
+--- SLIDE 54 ---
+To filter data
+Select the Data tab, then click the Filter command.
+
+--- SLIDE 55 ---
+To filter data
+A drop-down arrow will appear in the header cell for each column.
+Click the drop-down arrow for the column you want to filter. In our example, we will filter column B to view only certain types of equipment.
+
+
+--- SLIDE 56 ---
+To filter data
+The Filter menu will appear.
+Uncheck the box next to Select All to quickly deselect all data.
+
+--- SLIDE 57 ---
+To filter data
+Check the boxes next to the data you want to filter, then click OK. In this example, we will check Laptop and Projector to view only these types of equipment.
+
+--- SLIDE 58 ---
+To filter data
+The data will be filtered, temporarily hiding any content that doesn't match the criteria. In our example, only laptops and projectors are visible.
+
+--- SLIDE 59 ---
+To filter data
+Filtering options can also be accessed from the Sort & Filter command on the Home tab.
+
+
+--- SLIDE 60 ---
+To apply multiple filters
+Filters are cumulative, which means you can apply multiple filters to help narrow down your results. 
+
+In this example, we've already filtered our worksheet to show laptops and projectors, and we'd like to narrow it down further to only show laptops and projectors that were checked out in August.
+
+--- SLIDE 61 ---
+To apply multiple filters
+Click the drop-down arrow for the column you want to filter. In this example, we will add a filter to column D to view information by date.
+
+--- SLIDE 62 ---
+To apply multiple filters
+The Filter menu will appear.
+Check or uncheck the boxes depending on the data you want to filter, then click OK. In our example, we'll uncheck everything except for August.
+
+--- SLIDE 63 ---
+To apply multiple filters
+The new filter will be applied. In our example, the worksheet is now filtered to show only laptops and projectors that were checked out in August.
+
+--- SLIDE 64 ---
+To clear a filter
+After applying a filter, you may want to remove—or clear—it from your worksheet so you'll be able to filter content in different ways.
+Click the drop-down arrow for the filter you want to clear. In our example, we'll clear the filter in column D.
+
+--- SLIDE 65 ---
+To clear a filter
+The Filter menu will appear.
+Choose Clear Filter From [COLUMN NAME] from the Filter menu. In our example, we'll select Clear Filter From "Checked Out".
+
+--- SLIDE 66 ---
+To clear a filter
+The filter will be cleared from the column. The previously hidden data will be displayed.
+
+--- SLIDE 67 ---
+To clear a filter
+To remove all filters from your worksheet, click the Filter command on the Data tab.
+
+--- SLIDE 68 ---
+Advanced filtering
+If you need a filter for something specific, basic filtering may not give you enough options.
+
+Fortunately, Excel includes several advanced filtering tools, including search, text, date, and number filtering, which can narrow your results to help find exactly what you need.
+
+--- SLIDE 69 ---
+To filter with search
+Excel allows you to search for data that contains an exact phrase, number, date, and more. 
+
+In our example, we'll use this feature to show only Saris brand products in our equipment log.
+
+--- SLIDE 70 ---
+To filter with search
+Select the Data tab, then click the Filter command. A drop-down arrow will appear in the header cell for each column. Note: If you've already added filters to your worksheet, you can skip this step.
+Click the drop-down arrow for the column you want to filter. In our example, we'll filter column C.
+
+--- SLIDE 71 ---
+To filter with search
+The Filter menu will appear. Enter a search term into the search box. Search results will appear automatically below the Text Filters field as you type. In our example, we'll type saris to find all Saris brand equipment. When you're done, click OK.
+
+--- SLIDE 72 ---
+To filter with search
+The worksheet will be filtered according to your search term. In our example, the worksheet is now filtered to show only Saris brand equipment.
+
+--- SLIDE 73 ---
+To use advanced text filters
+Advanced text filters can be used to display more specific information, like cells that contain a certain number of characters or data that excludes a specific word or number. 
+
+
+In our example, we'd like to exclude any item containing the word laptop.
+
+--- SLIDE 74 ---
+To use advanced text filters
+Select the Data tab, then click the Filter command. A drop-down arrow will appear in the header cell for each column. Note: If you've already added filters to your worksheet, you can skip this step.
+Click the drop-down arrow for the column you want to filter. In our example, we'll filter column C.
+
+--- SLIDE 75 ---
+To use advanced text filters
+The Filter menu will appear. Hover the mouse over Text Filters, then select the desired text filter from the drop-down menu. In our example, we'll choose Does Not Contain... to view data that does not contain specific text.
+
+--- SLIDE 76 ---
+To use advanced text filters
+The Custom AutoFilter dialog box will appear. Enter the desired text to the right of the filter, then click OK. In our example, we'll type laptop to exclude any items containing this word.
+
+--- SLIDE 77 ---
+To use advanced text filters
+The data will be filtered by the selected text filter. In our example, our worksheet now displays items that do not contain the word laptop.
+
+--- SLIDE 78 ---
+To use advanced number filters
+Advanced number filters allow you to manipulate numbered data in different ways. 
+
+In this example, we'll display only certain types of equipment based on the range of ID numbers.
+
+--- SLIDE 79 ---
+To use advanced number filters
+Select the Data tab on the Ribbon, then click the Filter command. A drop-down arrow will appear in the header cell for each column. Note: If you've already added filters to your worksheet, you can skip this step.
+Click the drop-down arrow for the column you want to filter. In our example, we'll filter column A to view only a certain range of ID numbers.
+
+--- SLIDE 80 ---
+To use advanced number filters
+The Filter menu will appear. Hover the mouse over Number Filters, then select the desired number filter from the drop-down menu. In our example, we'll choose Between to view ID numbers between a specific number range.
+
+--- SLIDE 81 ---
+To use advanced number filters
+The Custom AutoFilter dialog box will appear. Enter the desired number(s) to the right of each filter, then click OK. In our example, we want to filter for ID numbers greater than or equal to 3000 but less than or equal to 6000, which will display ID numbers in the 3000-6000 range.
+
+--- SLIDE 82 ---
+To use advanced number filters
+The data will be filtered by the selected number filter. In our example, only items with an ID number between 3000 and 6000 are visible.
+
+--- SLIDE 83 ---
+To use advanced date filters
+Advanced date filters can be used to view information from a certain time period, such as last year, next quarter, or between two dates. 
+
+In this example, we'll use advanced date filters to view only equipment that has been checked out between July 15 and August 15.
+
+--- SLIDE 84 ---
+To use advanced date filters
+Select the Data tab, then click the Filter command. A drop-down arrow will appear in the header cell for each column. 
+Note: If you've already added filters to your worksheet, you can skip this step.
+Click the drop-down arrow for the column you want to filter. In our example, we'll filter column D to view only a certain range of dates.
+
+--- SLIDE 85 ---
+To use advanced date filters
+The Filter menu will appear. Hover the mouse over Date Filters, then select the desired date filter from the drop-down menu. In our example, we'll select Between... to view equipment that has been checked out between July 15 and August 15.
+
+--- SLIDE 86 ---
+To use advanced date filters
+The Custom AutoFilter dialog box will appear. Enter the desired date(s) to the right of each filter, then click OK. In our example, we want to filter for dates after or equal to July 15, 2015, and before or equal to August 15, 2015, which will display a range between these dates.
+
+--- SLIDE 87 ---
+To use advanced date filters
+The worksheet will be filtered by the selected date filter. In our example, we can now see which items have been checked out between July 15 and August 15.
+
+--- SLIDE 88 ---
+To use advanced date filters
+The worksheet will be filtered by the selected date filter. In our example, we can now see which items have been checked out between July 15 and August 15.
+
+--- SLIDE 89 ---
+Excel - Groups and Subtotals
+Worksheets with a lot of content can sometimes feel overwhelming and can even become difficult to read. 
+
+Fortunately, Excel can organize data into groups, allowing you to easily show and hide different sections of your worksheet. 
+
+You can also summarize different groups using the Subtotal command and create an outline for your worksheet.
+
+--- SLIDE 90 ---
+To group rows or columns
+Select the rows or columns you want to group. In this example, we'll select columns B, C, and D
+
+--- SLIDE 91 ---
+To group rows or columns
+Select the Data tab on the Ribbon, then click the Group command.
+
+--- SLIDE 92 ---
+To group rows or columns
+The selected rows or columns will be grouped. In our example, columns B, C, and D are grouped.
+
+--- SLIDE 93 ---
+To group rows or columns
+To ungroup data, select the grouped rows or columns, then click the Ungroup command.
+
+
+--- SLIDE 94 ---
+To hide and show groups
+To hide a group, click the minus sign, also known as the Hide Detail button.
+
+
+
+--- SLIDE 95 ---
+To hide and show groups
+The group will be hidden. To show a hidden group, click the plus sign, also known as the Show Detail button.
+
+--- SLIDE 96 ---
+Creating subtotals
+The Subtotal command allows you to automatically create groups and use common functions like SUM, COUNT, and AVERAGE to help summarize your data. 
+
+For example, the Subtotal command could help to calculate the cost of office supplies by type from a large inventory order. 
+
+It will create a hierarchy of groups, known as an outline, to help organize your worksheet.
+
+--- SLIDE 97 ---
+To create a subtotal
+In our example, we'll use the Subtotal command with a T-shirt order form to determine how many T-shirts were ordered in each size (Small, Medium, Large, and X-Large). 
+
+This will create an outline for our worksheet with a group for each T-shirt size and then count the total number of shirts in each group.
+
+--- SLIDE 98 ---
+To create a subtotal
+First, sort your worksheet by the data you want to subtotal. In this example, we'll create a subtotal for each T-shirt size, so our worksheet has been sorted by T-shirt size from smallest to largest.
+
+--- SLIDE 99 ---
+To create a subtotal
+Select the Data tab, then click the Subtotal command.
+
+--- SLIDE 100 ---
+To create a subtotal
+The Subtotal dialog box will appear. Click the drop-down arrow for the At each change in: field to select the column you want to subtotal. In our example, we'll select T-Shirt Size.
+Click the drop-down arrow for the Use function: field to select the function you want to use. In our example, we'll select COUNT to count the number of shirts ordered in each size.
+
+--- SLIDE 101 ---
+To create a subtotal
+In the Add subtotal to: field, select the column where you want the calculated subtotal to appear. In our example, we'll select T-Shirt Size. When you're satisfied with your selections, click OK.
+
+--- SLIDE 102 ---
+To create a subtotal
+The worksheet will be outlined into groups, and the subtotal will be listed below each group. In our example, the data is now grouped by T-shirt size, and the number of shirts ordered in that size appears below each group.
+
+--- SLIDE 103 ---
+To remove subtotals
+Sometimes you may not want to keep subtotals in your worksheet, especially if you want to reorganize data in different ways. 
+
+If you no longer want to use subtotaling, you'll need remove it from your worksheet.
+
+--- SLIDE 104 ---
+To remove subtotals
+Select the Data tab, then click the Subtotal command.
+
+
+--- SLIDE 105 ---
+To remove subtotals
+The Subtotal dialog box will appear. Click Remove All.
+
+
+
+
+
+
+All worksheet data will be ungrouped, and the subtotals will be removed.
+
+
+
+--- SLIDE 106 ---
+Excel - Tables
+Once you've entered information into your worksheet, you may want to format your data as a table. 
+
+Just like regular formatting, tables can improve the look and feel of your workbook, and they'll also help organize your content and make your data easier to use. 
+
+Excel includes several tools and predefined table styles, allowing you to create tables quickly and easily.
+
+--- SLIDE 107 ---
+To format data as a table
+Select the cells you want to format as a table. In our example, we'll select the cell range A2:D9.
+
+--- SLIDE 108 ---
+To format data as a table
+From the Home tab, click the Format as Table command in the Styles group.
+
+--- SLIDE 109 ---
+To format data as a table
+Select a table style from the drop-down menu.
+
+--- SLIDE 110 ---
+To format data as a table
+A dialog box will appear, confirming the selected cell range for the table.
+If your table has headers, check the box next to My table has headers, then click OK.
+
+--- SLIDE 111 ---
+To format data as a table
+The cell range will be formatted in the selected table style.
+
+--- SLIDE 112 ---
+Modifying tables
+It's easy to modify the look and feel of any table after adding it to a worksheet. 
+
+Excel includes several options for customizing tables, including adding rows or columns and changing the table style.
+
+--- SLIDE 113 ---
+To add rows or columns to a table
+If you need to fit more content into your table, you can modify the table size by including additional rows and columns. 
+
+There are two simple ways to change the table size:
+
+
+
+--- SLIDE 114 ---
+To add rows or columns to a table
+Enter new content into any adjacent row or column. The row or column will be roped into the table automatically.
+
+
+--- SLIDE 115 ---
+To add rows or columns to a table
+Click and drag the bottom-right corner of the table to create additional rows or columns.
+
+--- SLIDE 116 ---
+To change the table style
+Select any cell in your table, then click the Design tab.
+
+--- SLIDE 117 ---
+To change the table style
+Locate the Table Styles group, then click the More drop-down arrow to see all available table styles.
+
+--- SLIDE 118 ---
+To change the table style
+Select the desired table style.
+
+--- SLIDE 119 ---
+To change the table style
+The table style will be applied.
+
+--- SLIDE 120 ---
+To modify table style options
+You can turn various options on or off to change the appearance of any table. 
+
+
+There are several options: Header Row, Total Row, Banded Rows, First Column, Last Column, Banded Columns, and Filter Button.
+
+--- SLIDE 121 ---
+To modify table style options
+Select any cell in your table, then click the Design tab.
+Check or uncheck the desired options in the Table Style Options group. In our example, we'll check Total Row to automatically include a total for our table.
+
+--- SLIDE 122 ---
+To modify table style options
+The table style will be modified. In our example, a new row has been added to the table with a formula that automatically calculates the total value of the cells in column D.
+
+--- SLIDE 123 ---
+To remove a table
+It's possible to remove a table from your workbook without losing any of your data. 
+
+However, this can cause issues with certain types of formatting, including colors, fonts, and banded rows. 
+
+Before using this option, be prepared to reformat your cells if necessary.
+
+--- SLIDE 124 ---
+To remove a table
+Select any cell in your table, then click the Design tab.
+Click the Convert to Range command in the Tools group.
+
+--- SLIDE 125 ---
+To remove a table
+A dialog box will appear. Click Yes.
+
+--- SLIDE 126 ---
+To remove a table
+The range will no longer be a table, but the cells will retain their data and formatting.
+
+--- SLIDE 127 ---
+Excel - Charts
+It can be difficult to interpret Excel workbooks that contain a lot of data. 
+
+Charts allow you to illustrate your workbook data graphically, which makes it easy to visualize comparisons and trends.
+
+--- SLIDE 128 ---
+To insert a chart
+Select the cells you want to chart, including the column titles and row labels. These cells will be the source data for the chart. In our example, we'll select cells A1:F6.
+
+--- SLIDE 129 ---
+To insert a chart
+From the Insert tab, click the desired Chart command. In our example, we'll select Column.
+
+--- SLIDE 130 ---
+To insert a chart
+Choose the desired chart type from the drop-down menu.
+
+--- SLIDE 131 ---
+To insert a chart
+The Selected chart will be inserted into the worksheet.
+
+--- SLIDE 132 ---
+Chart and layout style
+After inserting a chart, there are several things you may want to change about the way your data is displayed. 
+
+It's easy to edit a chart's layout and style from the Design tab.
+
+--- SLIDE 133 ---
+Chart and layout style
+Excel allows you to add chart elements—including chart titles, legends, and data labels—to make your chart easier to read. To add a chart element, click the Add Chart Element command on the Design tab, then choose the desired element from the drop-down menu.
+
+--- SLIDE 134 ---
+Chart and layout style
+To edit a chart element, like a chart title, simply double-click the placeholder and begin typing.
+
+--- SLIDE 135 ---
+Chart and layout style
+If you don't want to add chart elements individually, you can use one of Excel's predefined layouts. Simply click the Quick Layout command, then choose the desired layout from the drop-down menu.
+
+--- SLIDE 136 ---
+Chart and layout style
+Excel also includes several chart styles, which allow you to quickly modify the look and feel of your chart. To change the chart style, select the desired style from the Chart styles group. You can also click the drop-down arrow on the right to see more styles.
+
+--- SLIDE 137 ---
+To switch row and column data
+Sometimes you may want to change the way charts group your data. For example, in the chart below Book Sales data is grouped by genre, with columns for each month. However, we could switch the rows and columns so the chart will group the data by month, with columns for each genre. In both cases, the chart contains the same data—it's just organized differently.
+
+
+--- SLIDE 138 ---
+To switch row and column data
+Select the chart you want to modify.
+From the Design tab, select the Switch Row/Column command.
+
+--- SLIDE 139 ---
+To switch row and column data
+The rows and columns will be switched. In our example, the data is now grouped by month, with columns for each genre.
+
+--- SLIDE 140 ---
+Excel - Conditional Formatting
+Let's say you have a worksheet with thousands of rows of data. 
+
+
+It would be extremely difficult to see patterns and trends just from examining the raw information. 
+
+Similar to charts and sparklines, conditional formatting provides a way to visualize data and make worksheets easier to understand.
+
+--- SLIDE 141 ---
+Understanding conditional formatting
+Conditional formatting allows you to automatically apply formatting—such as colors, icons, and data bars—to one or more cells based on the cell value. To do this, you'll need to create a conditional formatting rule. For example, a conditional formatting rule might be: If the value is less than $2000, color the cell red. By applying this rule, you'd be able to quickly see which cells contain values less than $2000.
+
+--- SLIDE 142 ---
+To create a conditional formatting rule
+In our example, we have a worksheet containing sales data, and we'd like to see which salespeople are meeting their monthly sales goals. 
+
+The sales goal is $4000 per month, so we'll create a conditional formatting rule for any cells containing a value higher than 4000.
+
+--- SLIDE 143 ---
+To create a conditional formatting rule
+Select the desired cells for the conditional formatting rule.
+
+--- SLIDE 144 ---
+To create a conditional formatting rule
+From the Home tab, click the Conditional Formatting command. A drop-down menu will appear.
+Hover the mouse over the desired conditional formatting type, then select the desired rule from the menu that appears. In our example, we want to highlight cells that are greater than $4000.
+
+--- SLIDE 145 ---
+To create a conditional formatting rule
+A dialog box will appear. Enter the desired value(s) into the blank field. In our example, we'll enter 4000 as our value.
+Select a formatting style from the drop-down menu. In our example, we'll choose Green Fill with Dark Green Text, then click OK.
+
+--- SLIDE 146 ---
+To create a conditional formatting rule
+The conditional formatting will be applied to the selected cells. In our example, it's easy to see which salespeople reached the $4000 sales goal for each month.
+
+--- SLIDE 147 ---
+To create a conditional formatting rule
+You can apply multiple conditional formatting rules to a cell range or worksheet, allowing you to visualize different trends and patterns in your data.
+
+--- SLIDE 148 ---
+Conditional formatting presets
+Excel has several predefined styles—or presets—you can use to quickly apply conditional formatting to your data. They are grouped into three categories:
+
+Data Bars are horizontal bars added to each cell, much like a bar graph.
+
+
+--- SLIDE 149 ---
+Conditional formatting presets
+Color Scales change the color of each cell based on its value. Each color scale uses a two- or three-color gradient. For example, in the Green-Yellow-Red color scale, the highest values are green, the average values are yellow, and the lowest values are red.
+
+--- SLIDE 150 ---
+Conditional formatting presets
+Icon Sets add a specific icon to each cell based on its value.
+
+--- SLIDE 151 ---
+To use preset conditional formatting
+Select the desired cells for the conditional formatting rule.
+
+--- SLIDE 152 ---
+To use preset conditional formatting
+Click the Conditional Formatting command. A drop-down menu will appear.
+Hover the mouse over the desired preset, then choose a preset style from the menu that appears.
+
+--- SLIDE 153 ---
+To use preset conditional formatting
+The conditional formatting will be applied to the selected cells.
+
+--- SLIDE 154 ---
+
+--- SLIDE 155 ---
+THANK YOU

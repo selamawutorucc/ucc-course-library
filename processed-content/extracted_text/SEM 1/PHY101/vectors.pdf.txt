@@ -1,0 +1,3195 @@
+
+--- PAGE 1 ---
+CHAPTER ONE
+VECTOR GEOMETRY
+ 
+1.1   INTRODUCTION
+In this chapter vectors are first introduced as geometric objects, namely as directed line 
+segments, or arrows.   The operations of addition, subtraction, and multiplication by a 
+scalar (real number) are defined for these directed line segments.   Two and three 
+dimensional Rectangular Cartesian coordinate systems are then introduced and used to 
+give an algebraic representation for the directed line segments (or vectors).  Two new 
+operations on vectors called the dot product and the cross product are introduced.  Some 
+familiar theorems from Euclidean geometry are proved using vector methods.
+1.2    SCALARS AND VECTORS
+Some physical quantities such as length, area, volume and mass can be completely 
+described by a single real number.  Because these quantities are describable by giving 
+only a magnitude, they are called  scalars.   [The word scalar means representable by 
+position on a line; having only magnitude.]  On the other hand physical quantities such as 
+displacement, velocity, force and acceleration require both a magnitude and a direction to 
+completely describe them.  Such quantities are called vectors.
+If you say that a car is traveling at 90 km/hr, you are using a scalar quantity, namely the 
+number 90 with no direction attached, to describe the speed of the car.  On the other 
+hand, if you say that the car is traveling due north at 90 km/hr, your description of the 
+car's velocity is a vector quantity since it includes both magnitude and direction.
+To distinguish between scalars and vectors we will denote scalars by lower case italic 
+type such as a, b, c etc. and denote vectors by lower case boldface type such as u, v, w 
+etc.  In handwritten script, this way of distinguishing between vectors and scalars must be 
+modified.  It is customary to leave scalars as regular hand written script and modify the 
+symbols used to represent vectors by either underlining, such as u or v, or by placing an 
+arrow above the symbol, such as u
+r
+ or  v
+r
+.  
+1
+
+--- PAGE 2 ---
+1.2  Problems
+1.   Determine   whether   a   scalar   quantity,   a   vector   quantity   or   neither   would   be 
+appropriate to describe each of the following situations.
+a.  The outside temperature is 15º C.
+b.  A truck is traveling at 60 km/hr.
+c.  The water is flowing due north at 5 km/hr.
+d.  The wind is blowing from the south.
+e.  A vertically upwards force of 10 Newtons is applied to a rock.
+f.  The rock has a mass of 5 kilograms.
+g.  The box has a volume of .25 m3.
+h.  A car is speeding eastward.
+i.  The rock has a density of 5 gm/cm3.
+j.  A bulldozer moves the rock eastward 15m.
+k.  The wind is blowing at 20 km/hr from the south. 
+l.  A stone dropped into a pond is sinking at the rate of 30 cm/sec.
+  
+1.3  GEOMETRICAL REPRESENTATION OF VECTORS
+Because vectors are determined by both a magnitude and a direction, they are represented 
+geometrically in 2 or 3 dimensional space as  directed 
+line   segments  or  arrows.     The   length   of   the   arrow 
+corresponds to the magnitude of the vector while the 
+direction of the arrow corresponds to the direction of the 
+2
+P
+Q
+v
+
+--- PAGE 3 ---
+vector.  The tail of the arrow is called the initial point of the vector while the tip of the 
+arrow is called the terminal point of the vector.  If the vector v has the point P as its 
+initial point and the point Q as its terminal point we will write 
+PQ
+=
+v
+.
+Equal vectors   
+Two vectors u and v, which have the same length and same 
+direction, are said to be equal vectors even though they have 
+different initial points and different terminal points.  If u and 
+v are equal vectors we write u = v.
+Sum of two vectors 
+  The sum of two vectors u and v, written u + v is the vector 
+determined as follows.   Place the vector  v  so that its initial 
+point coincides with the terminal point of the vector u.   The 
+vector u + v is the vector whose initial point is the initial point 
+of u and whose terminal point is the terminal point of v.
+Zero vector  
+The zero vector, denoted 0,  is the vector whose length is 0.  Since a vector of length 0 
+does not have any direction associated with it we shall agree that its direction is arbitrary; 
+that is to say it can be assigned any direction we choose.  The zero vector satisfies the 
+property:    v + 0 = 0 + v = v for every vector v.
+Negative of a vector    
+If u is a nonzero vector, we define the negative of u, denoted –u, to be the vector whose 
+magnitude (or length) is the same as the magnitude (or length) of the vector u, but whose 
+direction is opposite to that of u.
+If AB
+uuur
+ is used to denote the vector from point A to point B, then the vector from point B 
+to point A is denoted by BA
+uuur , and BA
+uuur  = − AB
+uuur .
+Difference of two vectors   
+3
+u
+v
+u
+v
+ u + v
+u
+−u
+
+--- PAGE 4 ---
+If u and v are any two vectors, we define the difference of u and v, denoted u – v, to be 
+the vector u + (–v).  To construct the vector u – v we can either 
+(i) construct the sum of the vector u and the vector –v;     or 
+(ii) position u and v so that their initial points coincide;  then the vector from the terminal 
+point of v to the terminal point of u is the vector u – v.
+(i)
+(ii)
+                               
+   
+Multiplying a vector by a scalar    
+If v is a nonzero vector and c is a nonzero scalar, we define the  product of c and v, 
+denoted  cv,  to be the vector whose length is   c
+times the length of  v  and whose 
+direction is the same as that of v if c > 0 and opposite to that of v of c < 0.  We define 
+cv = 0 if c = 0 or if v = 0.
+Parallel 
+vectors   
+The 
+vectors
+ v 
+and
+ cv
+ are 
+parallel  to   each   other.     Their 
+directions 
+coincide if   c 
+> 0 and the directions are opposite to each other if c < 0.   If u and v are parallel vectors, 
+then there exists a scalar c such that u = cv.  Conversely, if u = cv and 
+0,
+c ≠
+ then u and 
+v are parallel vectors.  
+Example  
+Let   O,   A   and   B   be   3   points   in   the   plane.     Let 
+.
+OB
+let 
+ 
+and
+ 
+OA
+b
+a
+=
+=
+   Find an expression for the vector 
+BA  in terms of the vectors a and b.
+4
+u
+v
+u − v
+v
+2v
+½ v
+(−1)v
+u
+v
+−v
+u − v
+O
+A
+B
+a
+b
+
+--- PAGE 5 ---
+Solution  
+OA
+BO
+BA
++
+=
+                   
+OA
+OB +
+−
+=
+                   
+OB
+OA −
+=
+                    = a – b .
+Example  Prove that the line joining the mid points of two sides of a triangle is parallel 
+to and one­half the length of the third side of the triangle.
+Solution
+Let ∆ABC be given.  Let M be the mid point of side AC and 
+let N be the mid point of side BC.  Then 
+AB
+)
+CB
+AC
+(
+CB
+AC
+CN
+MC
+MN
+2
+1
+2
+1
+2
+1
+2
+1
+=
++
+=
++
+=
++
+=
+. 
+This shows that MN is one­half the length of AB and also 
+that MN is parallel to AB [since the two vectors  MN
+uuuur
+ and 
+1
+2 AB
+uuur
+are equal, they have the same direction and hence are 
+parallel, so MN
+uuuur
+ and AB
+uuur
+ will also be parallel].
+Example  
+Let M be the mid point of the line segment PQ.  Let O be a point not on the line PQ. 
+Prove that 
+OQ
+OP
+OM
+2
+1
+2
+1
++
+=
+.
+Solution 
+PQ
+OP
+PM
+OP
+OM
+2
+1
++
+=
++
+=
+      
+)
+OQ
+PO
+(
+OP
+2
+1
++
++
+=
+      
+OQ
+PO
+OP
+2
+1
+2
+1
++
++
+=
+      
+OQ
+OP
+OP
+2
+1
+2
+1
++
+−
+=
+      
+OQ
+OP
+2
+1
+2
+1
++
+=
+1.3 Problems
+1.   For each of the following diagrams, find an expression for the vector c in terms of the 
+vectors a and b.
+5
+P
+M
+Q
+O
+A
+B
+C
+M
+N
+
+--- PAGE 6 ---
+a.
+ 
+b.
+   c.
+2.   Let OACB be the parallelogram shown.  Let 
+.
+OB
+let  
+ 
+and
+  
+OA
+=
+=
+b
+a
+  Find expressions for 
+the   diagonals  
+ 
+AB
+  
+and
+  
+OC
+in   terms   of   the 
+vectors a and b.
+3.   Let ABC be a triangle.  Let M be a point on AC such that the length of AM = ½ 
+length of MC.  Let N be a point on BC such that the length of BN = ½  length of NC. 
+Show that MN is parallel to AB and that the length of MN is 
+3
+2  the length of AB.
+4.   Let the point M divide the line segment AB in the ratio t:s with t + s = 1.  Let O be a 
+point not on the line AB.  Prove 
+=
+OM
+s
++
+OA
+tOB .
+5.   Prove that the diagonals of a parallelogram bisect each other.
+6.   Prove that the medians of a triangle are concurrent.
+1.4   COORDINATE SYSTEMS
+In order to further our study of vectors it will be necessary to consider vectors as 
+algebraic entities by introducing a coordinate system for the vectors.   A coordinate 
+system is a frame of reference that is used as a standard for measuring distance and 
+direction.  If we are working with vectors in two­dimensional space we will use a two­
+6
+O
+A
+C
+B
+a
+b
+a
+c
+b
+b
+a
+c
+a
+b
+c
+
+--- PAGE 7 ---
+dimensional rectangular Cartesian coordinate system.  If we are working with vectors in 
+three­dimensional   space,   the   coordinate   system   that   we   use   is   a   three­dimensional 
+rectangular Cartesian coordinate system.  To understand these two and three­dimensional 
+rectangular coordinate systems we first introduce a one­dimensional coordinate system 
+also known as a real number line.
+Let R denote the set of all real numbers.  Let l be a given line.  We can set up a one­to­
+one relationship between the real numbers R and the points on l as follows.  Select a 
+point O, which will be called the origin, on the line l. To this point we associate the 
+number 0. Select a unit of length and use it to mark off equidistantly placed points on 
+either side of O.  The points on one side of O, called the positive side, are assigned the 
+numbers 1, 2, 3 etc. while the points on the other side of O, called the negative side are 
+assigned the numbers –1, –2, –3 etc.  A one­to­one correspondence now exists between 
+all the real numbers R and the points on l.  The resulting line is called a real number line 
+or more simply a number line and the number associated with any given point on the 
+line is called its  coordinate.   We have just constructed a one­dimensional coordinate 
+system.
+Two­dimensional rectangular Cartesian coordinate system
+The two­dimensional Cartesian coordinate system has as its frame of reference two 
+number   lines   that   intersect   at   right   angles.     The 
+horizontal number line is called the  x­axis  and the 
+vertical number line is the  y­axis.   The point of 
+intersection of the two axes is called the origin and 
+is   denoted   by   O.       To   each   point   P   in   two­
+dimensional space we associate an ordered pair of 
+real  numbers  (x, y)  called  the  coordinates of the 
+point.  The number x is called the x­coordinate of 
+the point and the number y is the y­coordinate of the 
+point.  The x­coordinate x is the horizontal distance 
+of the point P from the y­axis while the y­coordinate y is the vertical distance of the point 
+P from the x­axis.  The set of all ordered pairs of real numbers is denoted R
+2.
+7
+x­axis
+)
+,
+(
+P
+y
+x
+x
+y
+  O
+x
+y
+y­axis
+origin
+­1
+­2
+­3
+l
+0
+1
+2
+3
+O
+
+--- PAGE 8 ---
+Three­dimensional rectangular Cartesian coordinate system
+The three­dimensional Cartesian coordinate system has as its frame of reference three 
+number lines that intersect at right angles at a point O called the origin.  The number lines 
+are called the x­axis, the y­axis and the z­axis.  To each point P in three­dimensional 
+space we associate an ordered triple of real numbers (x, y, z) called the coordinates of 
+the point.  The number x is the distance of the point P from the yz­coordinate plane. 
+The number y is the distance of the point P from the xz­coordinate plane.  The number z 
+is the distance of the point P from the xy­coordinate plane.  The set of all ordered triples 
+of real numbers is denoted by R
+3.  When the coordinate axes are labeled as shown in the 
+following   diagrams,   the   coordinate   system   is   said   to   be   a   right­handed   Cartesian 
+coordinate system.
+   
+Right­handed Cartesian coordinate system 
+A right­handed Cartesian coordinate system is one in which 
+the coordinate axes are so labeled that if we curl the fingers on 
+our right hand so as to point from the positive x­axis towards 
+the positive y­axis, the thumb will point in the direction of the 
+positive z­axis. [If the thumb is pointing in the direction 
+opposite to the direction of the positive z­axis, the coordinate 
+system is a left­handed coordinate system.]
+1.4 Problems
+1.  Draw a right­handed three­dimensional Cartesian coordinate system, and plot the 
+following points with the given coordinates. 
+a.  P (2, 1, 3)
+     b.  Q (3, 4, 5)
+  c.   R (2, 1, ­2)
+     d.  S (0, ­2, ­1)
+8
+y
+y
+x
+z
+xy­coord
+plane
+yz­coord
+plane
+xz­coord
+plane
+O
+x
+y
+z
+P
+z
+x
+ y
+point P(x,y,z)
+O
+
+--- PAGE 9 ---
+2.  A cube has one vertex at the origin, and the diagonally opposite vertex is the point 
+with coordinates (1, 1, 1). Find the coordinates of the other vertices of the cube.
+3.  A rectangular parallelepiped (box) has one vertex at the origin and the diagonally 
+opposite vertex at the point (2, 3, 1). Find the coordinates of the other vertices.
+4.   A pyramid has a square base located on the xy­coordinate plane. Diagonally opposite 
+vertices of the square base are located at the points with coordinates (0, 0, 0) and 
+(2, 2, 0). The height of the pyramid is 2 units. Find the coordinates of the other 
+vertices of the pyramid. [Assume that the top of the pyramid lies directly above the 
+centre of the square base.]
+5.   A regular tetrahedron is a solid figure with 4 faces, each 
+of   which   is   an   equilateral   triangle.   If   a   regular 
+tetrahedron has one face lying on the xy­coordinate plane 
+with   vertices   at   (0,   0,   0)   and   (0,   1,   0),   find   the 
+coordinates of the other two vertices if all coordinates are 
+nonnegative
+1.5   DEFINING VECTORS ALGEBRAICALLY
+Since a vector is determined solely by its magnitude and 
+direction, any given vector may be relocated with respect 
+to a given coordinate system so that its initial point is at 
+the origin O.   Such a vector is said to be in  standard 
+position. When a given vector  v  is in standard position 
+there exists a unique terminal point P such that 
+OP
+=
+v
+. 
+This one­to­one relationship between the vector v and the 
+terminal point P enables us to give an algebraic definition for the vector v.  If  v is a 
+vector in two­dimensional space and P(a, b) is the unique point P such that 
+OP
+=
+v
+,  then 
+we will identify the vector v with the ordered pair of real numbers ( , )
+a b  and write
+=
+v
+(a, 
+b).  Similarly if v is a vector in three­dimensional space and P(a, b, c) is the unique point 
+P such that  
+OP
+=
+v
+,   then we will identify  v  with the ordered triple of real numbers 
+( , , )
+a b c and write v = (a, b, c).  The two­dimensional vector v = (a, b) is said to have 
+components  a  and  b  and the three­dimensional vector  
+( , , )
+a b c
+=
+v
+  is said to have 
+components a, b and c.
+9
+tetetrahedron
+v
+x
+y
+P(a,b)
+v
+O
+
+--- PAGE 10 ---
+To avoid confusion, when dealing with the components of several vectors at the same 
+time it is customary to denote the components of a given vector by subscripted letters that 
+agree with the letter used to designate the vector.  Thus we will write v = (v1, v2) if v is a 
+vector in R
+2 and  v = (v1, v2, v3) if v is a vector in R
+3.
+Equal vectors   
+If equal vectors u and v are located so that their initial points are at the origin, then their 
+terminal points will coincide, and hence the corresponding components of u and v must 
+be equal to each other.  Thus u = v in R
+2 if and only if u1 = v1 and u2 = v2 while for 
+vectors in  R
+3, u = v if and only if  u1 = v1,  u2 = v2 and u3 = v3.
+Sum of two vectors  
+Let u = (u1, u2) and v = (v1, v2) be two vectors in R
+2.  If 
+the vectors are located so that their initial points are at 
+the origin, then their terminal points are the points 
+with coordinates (u1,  u2) and (v1,  v2).   If  v  is now 
+placed so that its initial point is at (u1, u2), which is the 
+terminal point of u, then the terminal point of v is the 
+point with coordinates (u1+ v1, u2 + v2).  
+Hence u + v = (u1 + v1, u2 + v2).
+A similar argument for the vectors u = (u1, u2, u3) and v = (v1, v2,  v3) in R
+3 gives 
+u + v = (u1 + v1, u2 + v2, u3 + v3).
+Example  
+Let u = (1, 2, 3) and v = (4, 1, 5).   Then u + v = (1 + 4, 2 + 1, 3 + 5) = (5, 3, 8).
+Multiplying a vector by a scalar    
+If  u  = (u1,  u2) is a vector in R
+2  that has its initial 
+point at the origin, then the terminal point of u is 
+the point with coordinates (u1, u2). If c>0, then the 
+vector cu has the same direction as u and is c times 
+as long as u so its terminal point is the point with 
+coordinates (cu1, cu2).  A similar argument applies 
+if c<0, except in this case the direction is reversed. 
+In either case we have cu = (cu1, cu2).   
+If instead u is a vector in R
+3, then a similar argument will show that  cu = (cu1, cu2, cu3). 
+10
+u1
+v
+u2
+v2
+v
+u
+u+v
+x
+y
+u
+u1
+cu1
+u2
+cu2
+cu
+
+--- PAGE 11 ---
+Example   
+If u = (3, 1, 2), then 5u = (5 3, 5 1, 5 2)
+(15, 5,10)
+×
+×
+×
+=
+.
+Difference of two vectors   
+The vector u – v is defined to be equal to the vector sum u + (−1)v.  
+If  u = (u1, u2) and v = (v1, v2) are two vectors in R
+2,   then 
+u – v = (u1, u2)  + (−1) (v1, v2)  =  (u1, u2) + (−v1, −v2) = (u1 − v1, u2 − v2).
+Similarly, in R
+3 we have u – v = (u1 − v1,  u2 − v2,  u3 − v3).
+Example  
+(
+)
+If 
+(4,5,2) and 
+(2, 1,3)  then 
+4
+2, 5
+( 1), 2
+3
+(2,6, 1).
+=
+=
+−
+−
+=
+−
+−−
+−
+=
+−
+u
+v
+u
+v
+Vector representation of a directed line segment     
+Let v = AB where A is the point with coordinates 
+(a1, a2) and B is the point with coordinates (b1, b2). 
+Then 
+v = 
+OB
+AO
+AB
+  
+  
+   
++
+=
+ 
+              
+OA  
+  OB
+= −
++
+uuur
+uuur
+ =  OB  
+  OA
+−
+uuur
+uuur
+ 
+               = (b1, b2) – (a1, a2) = (b1 – a1,  b2 – a2).
+In R
+3, if A = (a1, a2, a3) and  B = (b1, b2, b3) then 
+AB = (b1 ­ a1, b2 ­ a2, b3 ­ a3).
+Example   
+If A = (1, 2, 3) and B = (4, 6, 9),  then 
+)
+6
+,4
+,3
+(
+)3
+9
+,2
+6
+,1
+4
+(
+AB
+=
+−
+−
+−
+=
+Length of a vector   
+If  v  = (v1,  v2) then the length of  v  is equal to the 
+length of the directed line segment from the origin 
+(0, 0) to the point (v1, v2).  We will use the symbol 
+11
+(v1, v2)
+v1
+v2
+v
+O
+A
+B
+v
+
+--- PAGE 12 ---
+v  to represent the length of the vector v. Using Pythagoras’ theorem for right triangles 
+we can calculate that length to be 
+2
+2
+2
+1
+v
+v
++
+ and so we have the formula   v  = 
+2
+2
+2
+1
+v
+v
++
+. 
+A similar argument for a vector v = (v1, v2, v3) in R
+3, using Pythagoras’ theorem twice, 
+gives  v  = 
+2
+3
+2
+2
+2
+1
+v
+v
+v
++
++
+.
+Theorem   If c is a scalar and v is a vector in R
+2 or R
+3,  then
+.
+v
+v
+c
+c
+=
+   
+Proof   The following proof is for v in R
+2.  The proof for v in R
+3 is similar.
+           
+2
+2
+2
+2
+2
+2
+2
+1
+2
+1
+2
+1
+2
+1
+2
+(
+,
+)
+(
+)
+(
+)
+(
+)
+.
+c
+cv cv
+cv
+cv
+c v
+v
+c
+v
+v
+c
+=
+=
++
+=
++
+=
++
+=
+v
+v
+Unit vector
+If 
+1
+=
+v
+ we say v is a unit vector.  Because the length of a vector is a positive quantity, 
+the length of the vector cv is 
+v
+c
+.    To find a unit vector in the   direction of a given 
+vector v, multiply the vector v by the scalar  v
+1
+.  The resulting vector 
+1 v
+v
+ is a unit 
+vector in the direction of v.  A unit vector in the direction opposite to v is 
+1
+−
+v
+v
+.
+Example    
+If v = (2, 2, 1), then the length of v is  v  = 
+3
+9
+1
+4
+4
+1
+2
+2
+2
+2
+2
+=
+=
++
++
+=
++
++
+ and a 
+unit vector in the direction of  v  is  
+1
+1
+2 2 1
+(2,2,1)
+,
+,
+3
+3 3 3
+
+
+=
+= 
+
+
+
+v
+v
+.   A unit vector in the 
+direction opposite to that of v is 
+2
+2
+1
+,
+,
+3
+3
+3
+
+
+−
+−
+−
+
+
+
+.
+1.5   Problems
+12
+
+--- PAGE 13 ---
+Let u = (2, 1, 3), v = (3, 1, −2) and w = (4, −1, 1).
+  
+1.   Find the following vectors.
+a.  u + v
+ b.  u − v
+c.  2w    d.  2u − 3v
+    e.  u + 2v − 3w     f.  2u + 3v − 
+w
+2.   Find the following lengths.
+a.   u
+b.   v
+       c. 
+w
+2
+   d. 
+v
+u +
+  e.  
+v
+u −
+       f.  
+−
+v
+w
+3.   Find components of the vector equal to the directed line segment PQ .
+a.    P = (1, 2, 3)   Q = (2, 4, 7)
+b.   P = (3, 1, 4)   Q = (5, 7, 1)
+c.    P = (−2, 5, 1)   Q = (4, −3, 2)
+d.   P = (0, 3, 2)   Q = (2, 0, 5)
+4.   Let  v = AB.  If v and A are as given below, find the coordinates of B.
+a.  v = (3, 5, 4)   A = (1, 3, 2)
+b.  v = (2, 5, 4)   A = (1, −2, 2)
+5.  Let  v = AB.  If v and B are as given below, find the coordinates of A.
+a.   v = (3, 5, 4)   B = (2, 5, 6)
+b.  v = (2, 5, 4)   B = (4, 1, 7).
+6.   Let v be the given vector.  Find a unit vector in the direction of v and find a unit 
+vector in the direction opposite to that of v.
+a.  v = (2, 2, 1)b.  v = (3, 0, 4)     c.  v = ( 1, 2, 3)
+d.  v = (−2, 3, −4).
+7.   If  v = (3a, 4a, 5a) and   v  = 10,  find the value of a.
+1.6    THE DOT PRODUCT (SCALAR PRODUCT)
+The dot product is a method for multiplying two vectors.  Because the  product of the 
+multiplication is a scalar, the  dot product is sometimes referred to as the scalar product. 
+The dot product will be used to find an angle between two vectors and will have 
+applications in finding distances between points and lines, points and planes, etc.
+If  u = (u1, u2) and v = (v1, v2) are two vectors in R
+2, we define their dot product, denoted 
+v
+u •
+, as follows:  
+v
+u •
+ =  u1v1 + u2v2.
+13
+
+--- PAGE 14 ---
+If  u = (u1, u2, u3) and v = (v1, v2,  v3) are two vectors in R
+3, we define their dot product to 
+be 
+v
+u •
+ =  u1v1 + u2v2 + u3v3.
+Example   
+Let u = (1, 2, 3) and v = (4, 5, 6).
+Then 
+v
+u •
+ = (1)(4) + (2)(5) + (3)(6) = 4 + 10 + 18 = 32.
+The following theorem relates the length of a vector to the dot product of the vector with 
+itself.
+Theorem   For any vector u in R
+2 or in R
+3,  
+u
+u
+u
+•
+=
+.
+Proof   The following proof is for R
+2.  The proof for R
+3 is similar.
+Let u = (u1, u2).  Then 
+=
+•u
+u
+ (u1, u2)•  (u1, u2) = u1
+2 + u2
+2 = 
+2
+u
+.
+Taking square roots gives 
+u
+u
+u
+•
+=
+.
+The next theorem lists some algebraic properties of the dot product.
+Theorem   Let u, v and w be vectors in R
+2 or R
+3,  and let c be a scalar.  Then
+(a)  
+u
+v
+v
+u
+•
+=
+•
+(b)  c
+=
+• v)
+u
+(
+(cu)• v = u• (cv)
+(c)  u• (v + w) = u• v + u• w
+(d)  u• 0 = 0. 
+Proof   (a)  Let u = (u1, u2) and v = (v1, v2) be any two vectors in R
+2.  
+Then 
+v
+u •
+ =  u1v1 + u2v2  = v1u1 + v2u2 = v• u.   The proof for R
+3 is similar
+The proofs for parts (b), (c) and (d) are similar straightforward computations.
+The following theorem shows how the dot product of two vectors u and v is related to the 
+angle between the vectors.
+14
+
+--- PAGE 15 ---
+Theorem   Let u and v be two vectors in R
+2 or R
+3.  Let θ be the angle between u and v. 
+Then 
+θ
+=
+•
+cos
+v
+u
+v
+u
+.
+Proof       Let  u  and  v  to be a pair of adjacent sides of a 
+triangle whose third side is u – v.   Using the cosine law for 
+triangles we  get
+θ
+=
+•
+θ
+−
+=
+•
+−
+θ
+−
+•
++
+•
+=
+•
++
+•
+•
+•
+θ
+−
+•
++
+•
+=
+•
+θ
+−
++
+=
+cos
+cos
+cos
+cos
+cos
+2
+2
+2
+v
+u
+v
+u
+    
+          
+          
+          
+v
+u
+2
+v
+u
+2
+      
+          
+          
+v
+u
+2
+v
+v
+u
+u
+v
+v
+u
+v
+­
+v
+u
+­
+u
+u
+   
+v
+u
+2
+v
+v
+u
+u
+v)
+­
+(u
+v)
+­
+(u
+         
+          
+v
+u
+2
+v
+u
+v
+­
+u
+ 
+          
+          
+          
+ 
+Angle between two vectors   
+The preceding theorem provides a method for finding the cosine of the angle between 
+two   vectors   and   hence   finding   the   angle   between   the   two   vectors.     Solving 
+θ
+=
+•
+cos
+v
+u
+v
+u
+ for 
+θ
+cos
+  gives the formula 
+v
+u
+v
+u •
+=
+θ
+cos
+.
+Example  
+Find the cosine of the angle between the vectors u = (3, 1, 2) and v = (1, 4, 3).
+Solution 
+(3,1, 2) (1, 4, 3)
+3
+4
+6
+13
+13
+13
+cosθ
+(3,1, 2)
+(1, 4, 3)
+9 1
+4 1 16
+9
+14 26
+2 7 2 13
+2 7
+•
++
++
+=
+=
+=
+=
+=
++ +
++
++
+Having found the cosine of the angle θ, we can find the angle 
+1
+13
+=cos
+47
+θ
+2 7
+−
+=
+
+
+
+
+
+
+°.
+Orthogonal vectors   
+Vectors u and v are said to be orthogonal or perpendicular to each other if they meet at 
+right angles.  If u and v are orthogonal, then 
+0
+)
+2
+cos(
+=
+π
+=
+•
+v
+u
+v
+u
+. [Since cos
+)
+2
+(π
+= 0.]  Conversely, if u• v = 0 we must have either u = 0 or v = 0 or u⊥v.  Since the zero 
+vector 0 can have any direction, we will agree that 0 is orthogonal to any vector.  Hence 
+we say that u and v are orthogonal if and only if u• v = 0.
+Example   
+15
+u
+v
+u−v
+  θ
+
+--- PAGE 16 ---
+Show that the vectors u = (1, 2, 2) and v = (2, 1, −2) are orthogonal vectors.
+Solution
+u• v = (1, 2, 2)• (2, 1, −2) = 2 + 2 − 4 = 0.  Hence u⊥v.
+Normal vector   
+If l is a line in R
+2 or in R
+3 and n is a vector that is orthogonal to the line l, we call n a 
+normal vector to the line l.
+Theorem   Let ax + by = c be the equation of a line l  in R
+2.  Then the vector n = (a, b) 
+is a normal vector to the line l.  
+Proof   First select two points P and Q on l.  Select P = (c/a, 0) and 
+Q = (0, c/b), then the vector PQ  lies on l. 
+But 
+=
+PQ
+(0, c/b) – (c/a, 0) = (–c/a, c/b).  To show that n⊥PQ  we 
+take the dot product.
+n• PQ  = (a, b)•  (–c/a, c/b) = – c + c = 0.  This proves   that the 
+vector n is a normal vector to the line l.
+Example  
+Find a vector that is normal to the line 2x + 3y =5.
+Solution
+From the previous theorem the vector n = (2, 3) is normal to the given line  2x + 3y =5 
+since the coefficients of x and y are 2 and 3.
+Projections  
+Let  u  and  v  be   two   given   vectors   with  
+0
+v ≠
+.     The 
+projection of  u along  v, denoted projvu  is the vector  p 
+found as follows.  Drop a perpendicular from the terminal 
+point of u that intersects the line through v at the point P. 
+Then projvu = p = OP .
+We find p as follows.  Since p lies along v, there is a scalar k such that p = kv.  Now u–p 
+is orthogonal to v so (u–p)• v = 0.  But
+16
+l:     ax+by=c
+n=(a,b)
+P
+Q
+P
+v
+p
+O
+u
+u­p
+
+--- PAGE 17 ---
+(u–p)• v = 0 ⇔ u• v – p• v = 0 ⇔ u• v – kv• v = 0 ⇔ k = 
+2
+v
+v
+u
+v
+v
+v
+u
+•
+=
+•
+•
+.
+Hence projvu = p = kv = 
+v
+v
+v
+u
+v
+v
+v
+v
+u
+2
+•
+=
+•
+•
+.
+Example   
+Let u = (8, 1, 4) and let v = (1, 2, 2).  Find projvu.
+Solution
+projvu =  
+v
+v
+v
+v
+u
+•
+•
+ = 
+)
+4
+,4
+,2
+(
+)
+2
+,2
+,1(
+2
+)
+2
+,2
+,1(
+4
+4
+1
+8
+2
+8
+)
+2
+,2
+,1(
+)
+2
+,2
+,1(
+)
+2
+,2
+,1(
+)
+2
+,2
+,1(
+)
+4
+,1
+,8
+(
+=
+=
++
++
++
++
+=
+•
+•
+Distance between a point and a line in R
+2   
+To find the distance D between a point P and a line l in R
+2, we select a point Q on the line 
+l, then the distance D is the length of the projection of 
+QP on n,  a  normal vector to the line l. 
+    
+QP
+D
+proj QP
+QP
+QP
+PQ
+•
+=
+=
+•
+•
+•
+=
+=
+=
+n
+n n
+n •n
+n
+n
+n
+n
+n
+n
+n
+n
+uuur
+uuur
+uuur
+uuur
+uuur
+Note that  QP
+PQ
+•
+=
+•
+n
+n
+uuur
+uuur
+and so either of the last two 
+forms for the distance D can be used interchangeably.
+Example   
+Find the distance between the point P = (9, 1) and the line 3x + 4y = 6.
+Solution
+The point Q = (2, 0) lies on the line 3x + 4y = 6 so 
+)1
+,7
+(
+)
+0
+,2
+(
+)1
+,9
+(
+QP
+=
+−
+=
+.  
+ Since n = (3, 4),  the distance is  
+=
+•
+=
+n
+n
+QP
+D
+)
+4
+,3
+(
+)
+4
+,3
+(
+)1
+,7
+(
+•
+5
+5
+25
+16
+9
+4
+21
+=
+=
++
++
+=
+1.6      Problems
+17
+Q
+P
+n
+l
+D
+
+--- PAGE 18 ---
+In problems 1 to 3 below, let u = (1, 2, 1),  v = (3, 2, 4) and w = (1, –1, 3).
+1.  
+Calculate the following dot products.
+a.  
+v
+u •
+  b.  
+w
+u •
+c.  
+w
+v •
+d.  
+w)
+(v
+u
++
+•
+           e.  
+w)
+v
+(
+u
+3
+2 +
+•
+2. 
+ Find the length of each of each of the following vectors.
+a.  u
+  b.  v
+c.  w
+d.  u + v
+         e.  2u − 3v
+3.  
+Find the cosine of the angle between the following pairs of vectors.
+a.  u and v
+      b.  u and w       c. v and w        d.  u + v  and u – v
+4.  
+Show that the following pairs of vectors are orthogonal.
+a.  (2, 1, 3) and (1, 1, −1)
+b.  (1, 3, 5) and (2, 1, −1)
+c.  (4, 5, 1) and (2, −1, −3)
+d.  (1, 0, 1) and (0, 1, 0)
+5. 
+ Find a vector n which is normal to the given line in R
+2.
+a.  2x + 3y = 5     b.  x – 2y = 3
+c.  3x + y = 4
+d.  x + 3y = 1
+6.  
+Find projvu for each of the following pairs of vectors u and v.
+a.  u = (1, 2, 1) and v = (3, 1, 0)
+b.  u = (3, 1, 4) and v = (1, 2, 2)
+c.  u = (5, 4, 3) and v = (3, 1, 1)
+d.  u = (1, 1, 2) and v = (3, 4, 1)
+7.  
+Find the distance between the point P and the line l in R
+2.
+a.  P = (2, 3)       l: 3x + 4y =1
+b.  P = (5, 1)       l: 3x – 4y = 2
+c.  P = (5, 3)       l:  5x + 12 y = 1
+d.  P = (3, 4)       l:  x + 2y = 3
+8. 
+  Prove Pythagoras’ theorem:   The square on the hypotenuse of a right triangle 
+equals the sum of the squares on the other two sides.
+9.  
+Prove that the angle inscribed in a semi circle is a right angle.
+10.  Prove that the sum of the squares of the diagonals of a parallelogram equals the sum 
+of the squares of its sides.
+11.  Prove   that   the   diagonals   of   a   rhombus   (parallelogram   with   equal   sides)   are 
+perpendicular.
+18
+
+--- PAGE 19 ---
+12.    Prove that the mid point of the hypotenuse of a right triangle is equidistant from the 
+three vertices of the triangle
+13.   Prove that the altitudes of a triangle are concurrent.
+14.  Let a and b be unit vectors in the xy­plane making angles α 
+and β respectively with the x­axis.  Let i and j be the vectors 
+(1, 0) and (0, 1) respectively.
+a.  Show that i• i = 1,  i• j = 0 and j• j = 1.
+b.  Show that a 
+cos
+sin
+α
+α
+=
++
+i
+j  and  b
+cos
+sin
+β
+β
+=
++
+i
+j
+c.  Prove that 
+β
+α
++
+β
+α
+=
+β
+−
+α
+sin
+sin
+cos
+cos
+)
+cos(
+.
+1.7    THE CROSS PRODUCT (VECTOR PRODUCT)
+In the previous section we were introduced to the dot product of two vectors.  The result 
+of taking the dot product of two vectors is a scalar quantity.  We now introduce a second 
+method of multiplying two vectors from R
+3 that results in a vector quantity.  The symbol 
+used to denote this product is a cross ×, hence the name "cross product".  Because the 
+result is a vector, the term "vector product" is sometimes used for this product.
+The cross product has a number of applications.  We will use the cross product to find the 
+areas of triangles and  parallelograms.  It will also be used to calculate the volume of a 
+parallelepiped and later to find the distance between a point and a line in R
+3.
+Cross product  (vector product) 
+If u = (u1, u2, u3) and v = (v1, v2,  v3) are two vectors in R
+3, the cross product u×v is the 
+vector in R
+3 defined as follows.
+                          u×v = (u2v3−u3v2, u3v1−u1v3, u1v2−u2v1).
+Example   
+Let u = (3, 1, 2) and let  v = (4, 6. 5).  
+Then  u×v = 
+)
+14
+,7
+,7
+(
+)
+4
+1
+6
+3
+,5
+3
+4
+2
+,6
+2
+5
+1(
+−
+−
+=
+×
+−
+×
+×
+−
+×
+×
+−
+×
+.
+19
+x
+y
+b
+a
+αβ
+i
+j
+
+--- PAGE 20 ---
+Although   the   definition   of   the   cross   product   as   given   above   may   be   difficult   to 
+remember, the concept of a 2×2 determinant can be used to simplify the process.
+Consider the 2×2 array of numbers  
+
+
+
+
+d
+c
+b
+a
+.   The  determinant  of  
+
+
+
+
+d
+c
+b
+a
+, written, 
+det 
+
+
+
+
+d
+c
+b
+a
+or 
+d
+c
+b
+a
+, is defined to be the number ad – bc.  Then the  cross product of 
+u = (u1, u2, u3) and v = (v1, v2,  v3), using determinants, can be written as the vector
+u×v 
+
+
+
+
+
+
+−
+=
+2
+1
+2
+1
+3
+1
+3
+1
+3
+2
+3
+2
+,
+,
+v
+v
+u
+u
+v
+v
+u
+u
+v
+v
+u
+u
+.
+We remember the components of u×v as follows.
+1)  Form the 2×3 rectangular array 
+
+
+
+
+3
+2
+1
+3
+2
+1
+v
+v
+v
+u
+u
+u
+ where the first row consists of the 
+components of the vector u and the second row consists of the components of vector v.
+2)  To find the first component of u×v, delete the first column and take the determinant 
+of the remaining 2×2 array;  to find the second component of u×v, delete the second 
+column and take the negative of the determinant of the remaining 2×2 array; to find the 
+third component of  u×v,  delete the third   column and take the determinant of the 
+remaining 2×2 array.
+Example   
+Find u×v if u = (2, 3, 4) and v = (5, 6, 7).
+Solution 
+Construct the rectangular array 
+
+
+
+
+7
+6
+5
+4
+3
+2
+ .  Then
+    u×v
+
+
+
+
+
+
+−
+=
+6
+5
+3
+2
+,
+7
+5
+4
+2
+,
+7
+6
+4
+3
+)3
+,6
+,3
+(
+)
+15
+12
+),
+20
+14
+(
+,
+24
+21
+(
+)
+5
+3
+6
+2
+),
+5
+4
+7
+2
+(
+,6
+4
+7
+3
+(
+−
+−
+=
+−
+−
+−
+−
+=
+×
+−
+×
+×
+−
+×
+−
+×
+−
+×
+=
+20
+
+--- PAGE 21 ---
+Theorem    
+v
+u ×
+ = – 
+u
+v ×
+Proof       u×v = (u2v3 – u3v2, u3v1 – u1v3, u1v2 – u2v1)
+= – (u3v2 ­ u2v3, u1v3 ­ u3v1, u2v1 ­ u1v2)
+= – (v2u3 – v3u2, v3u1 – v1u3, v1u2 – v2u1)
+= – v×u
+Theorem   u×v  is orthogonal to both u and v.
+Proof  We show that u×v is orthogonal to u by showing that the dot product of u×v and 
+u is equal to zero.  The proof that u×v is orthogonal to v is similar.
+     (u×v)•  u = (u2v3 – u3v2, u3v1 – u1v3, u1v2 – u2v1)•  (u1, u2, u3)  
+= (u2v3 – u3v2) u1 + (u3v1 – u1v3) u2 + (u1v2 – u2v1) u3
+= 
+u2v3 u1   ­  u3v2 
+u1  +   u3v1 u2   ­  u1v3 
+u2  +   u1v2 u3   ­ 
+u2v1 u3 
+ 
+= 0  
+Since (u×v)•  u = 0,  u×v and u are orthogonal. 
+Example   
+Find a vector orthogonal to both u = (1, 3, 2) and v = (4, 0, 1).
+Solution  
+The vector u×v  is orthogonal to both u and v, so we calculate u×v.
+)
+12
+,7
+,3
+(
+)
+12
+0
+),
+8
+1(
+,0
+3
+(
+0
+4
+3
+1
+,
+1
+4
+2
+1
+,
+1
+0
+2
+3
+−
+=
+−
+−
+−
+−
+=
+
+
+
+
+
+
+−
+=
+× v
+u
+21
+arrows indicate
+canceling pairs
+
+--- PAGE 22 ---
+The next theorem is a useful result that can be applied to calculate the area of a triangle 
+and the area of a parallelogram.  It is also used to calculate the volume of a parallelepiped 
+in R
+3 and to find the distance between a point and a line in R
+3.
+Theorem   
+v
+u
+ 
+ 
+   
+v
+u
+v
+u
+and
+between
+angle
+the
+is
+where
+sin
+θ
+θ
+=
+×
+.
+Proof   The proof consists of 2 steps. 
+  (1) We first show  
+2
+v)
+u
+v
+u
+v
+u
+•
+−
+=
+×
+(
+2
+2
+2
+  by computing the left and right hand 
+sides separately and showing that they are equal to each other.
+2
+1
+2
+2
+1
+2
+3
+1
+1
+2
+2
+3
+2
+2
+)
+(u
+)
+(
+)
+(
+v
+u
+v
+v
+u
+v
+u
+v
+u
+v
+u
+3
+3
+−
++
+−
++
+−
+=
+× v
+u
+ …………………….……...(i)
+2
+3
+3
+2
+2
+1
+1
+2
+3
+2
+2
+2
+1
+2
+3
+2
+2
+2
+2
+2
+)
+(
+)
+)(
+(
+(
+v
+u
+v
+u
+v
+u
+v
+v
+v
+u
+u
+u1
++
++
+−
++
++
++
++
+=
+•
+−
+2
+v)
+u
+v
+u
+………...(ii)
+A lengthy computation shows right hand sides of (i) and (ii) are equal and so we 
+conclude 
+2
+v)
+u
+v
+u
+v
+u
+•
+−
+=
+×
+(
+2
+2
+2
+.
+(2)  Starting with 
+2
+v)
+u
+v
+u
+v
+u
+•
+−
+=
+×
+(
+2
+2
+2
+    we expand the dot product on the right
+     
+θ
+=
+θ
+−
+=
+θ
+−
+=
+2
+2
+2
+2
+2
+2
+2
+2
+2
+sin
+)
+cos
+1(
+)
+cos
+(
+v
+u
+v
+u
+v
+u
+v
+u
+Taking square roots gives the required result:  
+θ
+=
+×
+sin
+v
+u
+v
+u
+.
+The next theorem lists several properties of the cross product.   The properties are 
+established by straightforward computations and so the proofs are omitted.
+Theorem    Let u, v and w be vectors in R
+3.  Then u, v and w satisfy the following 
+properties.
+(a)  
+w
+u
+v
+u
+w)
+(v
+u
+×
++
+×
+=
++
+×
+(b)  
+w
+v
+w
+u
+w
+v)
+(u
+×
++
+×
+=
+×
++
+(c)  
+0
+u
+0
+0
+u
+=
+×
+=
+×
+(d)  
+0
+u
+u
+=
+×
+22
+
+--- PAGE 23 ---
+The area of a parallelogram   
+Let u and v be the  adjacent sides of a parallelogram.  The 
+area of a parallelogram is length of base × height.  From the 
+adjoining diagram we have that the length of the base is  v  
+and the height is h.  From trigonometry we get 
+h
+sinθ
+=
+u
+ so 
+θ
+=
+sin
+h
+u
+.   Therefore the area A is given by
+A
+base
+height
+sinθ
+=
+×
+=
+=
+v
+u
+u× v
+The area of a triangle   
+Let u and v be the  adjacent sides of a triangle.  Since the 
+area of the triangle is one­half the area of the parallelogram 
+with u and v as its  adjacent sides,  the area of the triangle is 
+v
+u×
+= 2
+1
+A
+.
+Example   
+Find the area of the parallelogram having adjacent sides u = (2, 3, 1) and  v = (4, 0 2).
+Solution
+3
+1
+2
+1
+2
+3
+,
+,
+(6, 0,
+12)
+0
+2
+4
+2
+4
+0
+Area
+(6, 0,
+12)
+36
+0 144
+180
+36 5
+36 5
+6 5
+
+
+=
+−
+=
+−
+
+
+
+
+=
+=
+−
+=
++
++
+=
+=
+×
+=
+=
+u× v
+u× v
+Example   
+Find the area of the triangle whose vertices are A = (1, 2, 2),  B = (3, 4, 5) and 
+C = (5, 6, 4)
+Solution
+23
+u
+θ
+v
+h
+u
+θ
+v
+h
+
+--- PAGE 24 ---
+Let 
+AB
+(3, 4, 5)
+(1, 2, 2)
+(2, 2, 3)
+=
+=
+−
+=
+u
+uuur
+ and
+let 
+AC
+(5, 6, 4)
+(1, 2, 2)
+(4, 4, 2)
+=
+=
+−
+=
+v
+uuur
+.
+Then 
+)
+0
+,8
+,8
+(
+4
+4
+2
+2
+,
+2
+4
+3
+2
+,
+2
+4
+3
+2
+−
+=
+
+
+
+
+
+
+−
+=
+× v
+u
+Area of triangle ABC 
+2
+4
+0
+64
+64
+)
+0
+,8
+,8
+(
+2
+1
+2
+1
+2
+1
+=
++
++
+=
+−
+=
+×
+=
+v
+u
+The volume of a parallelepiped   
+A parallelepiped is a solid (3­dimensional) 
+figure having six faces with opposite pairs 
+of faces being congruent parallelograms.  A 
+parallelepiped can be specified by giving 3 
+vectors  u,  v  and  w  that form the 3 edges 
+emanating   from   a   common   vertex.   The 
+volume of the parallelepiped is the area of 
+the base × height.  The area of the base is 
+the area of the parallelogram with u and v as adjacent sides and is equal to 
+×
+u
+v .  The 
+height is the length of the projection of w onto u×v = 
+w
+v
+u×
+proj
+. 
+But
+v
+u
+v
+u
+w
+v
+u
+v
+u
+v
+u
+w
+v
+u
+v
+u
+v
+u
+v
+u
+w
+w
+v
+u
+×
+×
+•
+=
+×
+×
+×
+•
+=
+×
+×
+•
+×
+×
+•
+=
+×
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+proj
+2
+.
+Thus the volume of the parallelepiped is 
+)
+(
+)
+(
+V
+v
+u
+w
+v
+u
+v
+u
+w
+v
+u
+×
+•
+=
+×
+×
+•
+×
+=
+.
+Example   
+Find the volume of the parallelepiped having the following three vectors as edges.
+u = (2, 3, 1),  v = (3, 4, 3) and w = (4, 5, 6)
+Solution
+)1
+,3
+,5
+(
+4
+3
+3
+2
+,
+3
+3
+1
+2
+,
+3
+4
+1
+3
+−
+−
+=
+
+
+
+
+
+
+−
+=
+×
+ 
+ 
+v
+u
+1
+6
+15
+20
+)1
+,3
+,5
+(
+)
+6
+,5
+,4
+(
+−
+=
+−
+−
+=
+−
+−
+•
+=
+×
+•
+v)
+(u
+w
+Volume =
+1
+1 =
+−
+=
+×
+•
+v)
+(u
+w
+1.7   Problems
+24
+u
+v
+w
+uv
+θ
+
+--- PAGE 25 ---
+For problems 1 to 5 let u = (4, 3, 2),  v = (5, 1, 3) and w = (2, 1, 4).
+1.   Find   a. u×v b. u×w
+c.  v×w
+     d.  u×(v + w)
+2.   Find   a. u×(v×w)
+      b. (u×v)×w
+c. (u×v)• v
+3.   Find a vector orthogonal to    a.  u and v
+b.  u and w
+4.   Find the area of the parallelogram whose adjacent sides are
+a.  u and v
+b.  u and w 
+c.  v and w
+5.   Find the area of the triangle whose adjacent sides are
+a.  u and v
+b.  u and w 
+c.  v and w
+6.   Find the area of the triangle whose vertices are given.
+a. (1, 2, 3),   (2, 4, 5),   (4, 5, 8)
+    b.  (2, 2, 1),   (4, 3, 5),   (5, 6, 7)
+7.  Prove the law of sines for triangles.   sin A
+sin B
+sinC
+a
+b
+c
+=
+=
+. 
+8.   Let u and v be two nonzero vectors in 
+3
+R .
+a.  Prove that if u and v are parallel vectors, then
+.
+×
+=
+u
+v
+0
+b.  Prove that if  ×
+=
+u
+v
+0 , then u and v are parallel vectors.
+1.8 STANDARD BASIS VECTORS FOR R
+3
+The following three unit vectors 
+(1,0,0)
+=
+i
+,   
+(0,1,0)
+=
+j
+ and 
+(0,0,1)
+=
+k
+  play a special 
+role in R
+3   They are called the standard basis vectors for R
+3.  Every vector in R
+3 can be 
+written as a unique combination of these three vectors as follows. Let v = (a, b, c) be an
+arbitrary vector in R
+3. Then we can write
+( , , )
+( ,0,0)
+(0, ,0)
+(0,0, )
+(1,0,0)
+(0,1,0)
+(0,0,1)
+a b c
+a
+b
+c
+a
+b
+c
+a
+b
+c
+=
+=
++
++
+=
++
++
+=
++
++
+v
+i
+j
+k .
+Example 
+If 
+(2,3,5),
+=
+v
+ then 
+2
+3
+5
+=
++
++
+v
+i
+j
+k .
+25
+a
+b
+c
+A
+B
+C
+
+--- PAGE 26 ---
+For the dot product of the standard basis vectors with each other, we have the following 
+results, which can be verified by a direct computation.
+1
+• = • =
+•
+=
+i i
+j j
+k k
+   and            
+0
+• = • = •
+=
+• =
+• = •
+=
+i
+j
+j i
+j k
+k
+j
+k i
+i k
+.
+For the cross product of the standard basis vectors with each other, we have the following 
+results which can also be verified by a direct computation.
+× = × =
+×
+=
+i
+i
+j j
+k
+k
+0     and
+=
+=
+=
+= −
+= −
+= −
+i
+j
+k
+j k
+i
+k
+i
+j
+j i
+k
+k
+j
+i
+i k
+j .
+ 
+The   results   for   the   cross   products   of   any   two  of   the   three 
+standard basis vectors can be remembered by using the adjoining 
+diagram.   The   product   of   any   two   successive   vectors   in   the 
+diagram, when moving clockwise, is the third vector in the 
+diagram.   The product of any two successive vectors in the 
+diagram, when moving counterclockwise, is the negative of the 
+third vector in the diagram.
+1.8 Problems
+1.   Write each of the following vectors as a combination of the three standard basis 
+vectors i, j, and k.
+a.  u = (4, 3, 7) 
+b.  v = (3, –1, 2)
+c.  w = (–2, 5, 6)
+d.  r = (1, 0, 2)
+2.  Verify the following results for the standard basis vectors 
+i = (1, 0, 0), j = (0, 1, 0), and k = (0, 0, 1).
+a.  
+1
+• =
+i i
+      b.  
+1
+• =
+j j
+      c.  
+0
+• =
+i
+j
+ d.  
+0
+•
+=
+j k
+e.   × =
+i
+i
+0       f.   × =
+i
+j
+k
+      g.   ×
+= −
+i k
+j
+ h.   ×
+=
+j k
+i
+3.  Compute the following dot products.
+a. (2i + 3j + k)• (3i – 2j + 5k)
+     b. (3i + j + 4k)• (2i – 5j + 6k)
+c. (2i – 5j + 3k)• (4i + 2j – 3k)
+     d. (i – 3j + 2k)• (6i + j – 3k)
+4.  Compute the following cross products.
+a.  (2i + 3j + k) × (3i – 2j + 5k)
+         b.  (3i + j + 4k) × (2i – 5j + 6k)
+c.  (2i – 5j + 3k) × (4i + 2j – 3k)
+         d.  (i – 3j + 2k) × (6i + j – 3k)
+5.  Find a if the following pairs of vectors are orthogonal.
+26
+i
+j
+i
+k
+
+--- PAGE 27 ---
+a.  
+2
+,
+3
+5
+a
+a
+=
++
++
+= −
+−
+u
+i
+j
+k
+v
+i
+j
+k
+b.  
+3
+2
+3 ,
+2
+6
+a
+a
+=
++
+−
+=
+−
++
+u
+i
+j
+k
+v
+i
+j
+k
+1.9  VECTORS IN R
+m 
+We have already seen that the set of all real numbers R can be identified with a one­
+dimensional number line; the set of all ordered pairs of real numbers 
+2
+R can be identified 
+with a two­dimensional plane and that the set of all ordered triples of real numbers 
+3
+R
+can be identified with three­dimensional space.  Continuing in this manner would suggest 
+that the set of all ordered four­tuples could be identified with a four­dimensional space 
+and more generally the  set  of  all  ordered  m­tuples  could  be  identified  with  an 
+m­dimensional space.
+We use the symbol R
+m to denote the set of all ordered m­tuples u = 
+)
+,
+,
+,
+,
+(
+3
+2
+1
+m
+u
+u
+u
+u
+
+
+. 
+We will refer to the m­tuples as vectors in the space R
+m and the entries u1, u2, etc. as the 
+components of the vector u.
+Two vectors from R
+m are said to be equal if their corresponding components are equal to 
+each other. That is u = v if and only if u1 = v1, u2 = v2, etc.
+We define the sum of u and v by u + v = 
+)
+(
+2
+2
+1
+1
+m
+m
+v
+u,
+,
+v
+u
+,
+v
+u
++
++
++
+
+
+.
+We define multiplication of a vector v by a scalar c as cu = 
+)
+,
+,
+(
+2
+1
+m
+cu
+cu
+cu
+
+
+.
+The length of the vector u is denoted  u  and is defined by 
+2
+2
+2
+2
+1
+m
+u
+u
+u
++
++
++
+=
+
+u
+. 
+The dot product is defined to be 
+m
+mv
+u
+v
+u
+v
+u
++
++
++
+=
+•
+
+
+2
+2
+1
+1
+v
+u
+.
+If 
+0
+•
+=
+u v
+ we say that the vectors u and v are orthogonal to each other. 
+Note that there is no cross product defined for R
+m when 
+3.
+m ≠
+Example 
+27
+
+--- PAGE 28 ---
+Let u = (1, 3, 2, 4) and v = (2, –1, 4, 3) be two vectors in R
+4.  Then
+u + v = (1, 3, 2, 4) + (2, –1, 4, 3) = (1+2, 3–1, 2+4, 4+3) = (3, 2, 6, 7)
+u – v = (1, 3, 2, 4) – (2, –1, 4, 3) = (1–2, 3+1, 2–4, 4–3) = (–1, 4, –2, 1)
+(1,3,2,4) (2, 1,4,3)
+(1)(2)
+(3)( 1)
+(2)(4)
+(4)(3)
+2
+3
+8 12
+19
+•
+=
+•
+−
+=
++
+−
++
++
+=
+−+ +
+=
+u v
+3u = 3(1, 3, 2, 4) = 
+)
+4
+3
+,2
+3
+,3
+3
+,1
+3
+(
+×
+×
+×
+×
+= (3, 9, 6, 12)
+30
+16
+4
+9
+1
+4
+2
+3
+1
+2
+2
+2
+2
+=
++
++
++
+=
++
++
++
+=
+u
+1.9 Problems
+For questions 1 to 6, let u = (1, 3, 2, 4), v = (5, 3 ,0, 1), and w = ( 3, 2, –1, 4).
+1. 
+Find 
+a.   u + v
+b.  2u – 3v
+c.  u + v – w
+2. 
+Find 
+a.   
+v
+u •
+b.  
+w
+v •
+c.  
+w)
+(v
+u
++
+•
+3. 
+Find 
+a.   u
+b.  
+w
+v +
+c.  
+−
+u
+v
+4. 
+Find a unit vector in the direction of       a.  u  b.  v      c.  w
+5. 
+Show that the following pairs of vectors are orthogonal by showing that their dot 
+product is 0.
+a.    (1, 2, 3, 1)      (3, 1, 1, –8)
+b.  (2, 0, 3, –1)      (5, 6, –2, 4) 
+c.   (1, 2, 3, 4, 5)    (4, 4, –3, –2, 1)
+d.  (1, 3, 5, 2, 4)    (3, –4, –1, 3, 2)
+6. 
+Show that the following sets of vectors are mutually orthogonal by showing that each 
+vector in the set is orthogonal to all the other vectors in the set.
+a.
+(1, 1, 0, 0)        (1, –1, 2, 3)        (2, –2, 1, –2)
+b. 
+(2, 1, –11, 4)    (3, 2, 0, –2)        (2, –1, 1, 2) 
+c. 
+(1, –1, 1, –1)    (2, 2, 3, 3)          (3, 3, –2, –2)
+d. 
+(1, 0, 2, 1)        (2, 3, –1, 0)        (6, –5, –3, 0)
+7.
+Consider the four unit vectors 
+1
+2
+3
+4
+(1,0,0,0),
+(0,1,0,0),
+(0,0,1,0) and
+(0,0,0,1)
+=
+=
+=
+=
+e
+e
+e
+e
+ in 
+4
+R .  Write each 
+of the following vectors from 
+4
+R  as a combination of the vectors 
+1
+2
+3
+4
+,
+,
+and
+e
+e
+e
+e .
+a.    (2, 3, 5, 4)
+b.    (3, 1, 0, −2)
+c.    (5, 7, 2, 3)
+28
+
+--- PAGE 29 ---
+8. 
+Prove the following results for 
+1
+2
+3
+4
+,
+,
+and
+e
+e
+e
+e .
+a.    
+1
+1
+=
+e
+b.    
+1
+2
+0
+•
+=
+e
+e
+c. 
+(
+)
+(
+)
+1
+2
+1
+2
+0
++
+•
+−
+=
+e
+e
+e
+e
+29

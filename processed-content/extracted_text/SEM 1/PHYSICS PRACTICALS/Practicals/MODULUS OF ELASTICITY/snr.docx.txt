@@ -1,0 +1,48 @@
+KUMI –FRIMPONG DEREK
+SM/SMS/09/0029
+6TH OCTOBER,2009
+TITLE: An experiment to determine the modulus of Elasticity
+Aim: To determine the modulus of elasticity of given metal bar
+Apparatus:  Dial gauge, knife-edge with stirrup, weight holder, measuring tape, spring balance, retort stand. 
+DAIGRAM
+Theory
+Tensile stress   is  the force per unit area
+Tensile stress= 
+If  the extension of the bar is  e and its original length lo ,then tensile strain =
+F α e  and A α e
+α   since A and lo  are constant
+From hooks law which states that provided the  elastic limit is not exceeded then stress(F/A) is directly proportional to strain e.i  stress α strain
+Stress=E×Strain (where E is the youngs modulus  of elasticity)
+E= Stress/Strain
+E=(f/A)/(e/l)
+E=(FL)/(Ae)
+PROCEDURE
+	The dial guage was mounted on the knife edge with stirrup. The flat bars was positioned accurately on the two supporting knife edges having the possibility to move in X and Y direction. The  8u8geometric data of the set up and the bars was recorded several times at different  positions. The height , with and length of the metal bar was recorded using a rule. The metal bar was loaded with 250g of mass and it was well centred between the knife edges. The dynamometer and plunger of the dial guage were also mounted and the dial guage show full deflection. The mass was carefully reduced by 50g intervals and recorded , the extension e in each case is recorded.
+OBSERVATION
+LEAST COUNT
+Dynamometer       0.01mm
+Rule                         0.1cm
+Height(b)=28.5cm
+Width of the bar= 1.5cm
+Lenght of the bar =45cm
+	CALCULATIONS
+SLOPE=13.25cm2
+E=FL/Ae
+E=(2.45*0.285)/(6.75*10-3*0.325)
+E=318.29Nm-2
+DISCUSSION OF RESULTS
+As the mass was being decreased, the extension was also decreasing. That is obeying hooke’s law which states that the force applied to an elastic material (metal bar) is directly proportional to the extension provided the elastic limit is not exceeded.
+ERRORS
+1. There might not have been a full deflection  of the dial guage.
+2. The load on the metal  bar might not have been well centered.
+PRECAUTION
+The load on the metal bar must be well centered
+The dial guage must be fully deflected.
+CONCLUSION 
+The Young’s modulus of elasticity is, E=318.29Nm-2.
+Mass/g | F/N | e1/cm | e2/cm | e3/cm | e4/cm | e5/cm | ((e1+e2+e3+e4+e5)/5)/cm
+250 | 2.45 | 32.5 | 32.6 | 32.3 | 32.9 | 32.4 | 32.5
+200 | 1.96 | 26.0 | 26.1 | 25.8 | 26.3 | 26.0 | 26.0
+150 | 1.47 | 19.5 | 19.6 | 19.4 | 19.7 | 19.4 | 19.5
+100 | 0.98 | 13.0 | 13.0 | 12.9 | 13.2 | 13.0 | 13.0
+50 | 0.49 | 6.50 | 6.50 | 6.50 | 6.6 | 6.5 | 6.52

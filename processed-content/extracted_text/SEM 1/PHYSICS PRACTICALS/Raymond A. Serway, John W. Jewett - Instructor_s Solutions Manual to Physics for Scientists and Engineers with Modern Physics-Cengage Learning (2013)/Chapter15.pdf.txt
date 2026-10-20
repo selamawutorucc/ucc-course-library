@@ -1,0 +1,6507 @@
+
+--- PAGE 1 ---
+792 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+15 
+Oscillatory Motion 
+ 
+CHAPTER OUTLINE 
+ 
+15.1 
+Motion of an Object Attached to a Spring 
+15.2 
+Analysis Model: Particle in Simple Harmonic Motion 
+15.3  
+Energy of the Simple Harmonic Oscillator 
+15.4 
+Comparing Simple Harmonic Motion with Uniform Circular Motion 
+15.5 
+The Pendulum 
+15.6 
+Damped Oscillations 
+15.7 
+Forced Oscillations 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ15.1 
+Answer (d). The period of a simple pendulum is T = 2π
+g, and its 
+frequency is f = 1 T = 1 2π
+(
+)
+g . Thus, if the length is doubled so 
+′ = 2, the new frequency is 
+ 
+ 
+ 
+f ′ = 1
+2π
+g
+′ = 1
+2π
+g
+2= 1
+2
+1
+2π
+g
+
+⎛
+⎝⎜
+⎞
+⎠⎟=
+f
+2
+ 
+OQ15.2 
+Answer (c). The equilibrium position is 15 cm below the starting 
+point. The motion is symmetric about the equilibrium position, so the 
+two turning points are 30 cm apart. 
+OQ15.3 
+Answer (a). In this spring-mass system, the total energy equals the 
+elastic potential energy at the moment the mass is temporarily at rest 
+at x = A = 6 cm (i.e., at the extreme ends of the simple harmonic 
+motion). Thus, E = kA2 2 and we see that as long as the spring 
+constant k and the amplitude A remain unchanged, the total energy 
+is unchanged.
+
+--- PAGE 2 ---
+Chapter 15     793 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ15.4 
+Answer (c). The total energy of the object-spring system is 
+1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2. When the kinetic energy is twice the potential 
+energy, 1
+2 mv2 = 2 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= kx2, and the total energy is 
+ 
+ 
+ 
+1
+2 kA2 = kx2 + 1
+2 kx2  →  1
+2 kA2 = 3
+2 kx2  →  x = A
+3
+ 
+OQ15.5 
+Answer (d). When the object is at its maximum displacement, the 
+magnitude of the force exerted on it by the spring is Fs = k xmax = 
+8.0 N m
+(
+) 0.10 m
+(
+) = 0.80 N. This force will give the mass an 
+acceleration of a = Fs m = 0.80 N 0.40 kg = 2.0 m s2 . 
+OQ15.6 
+Answer (a). The car will continue to compress the spring until all of 
+the car’s original kinetic energy has been converted into elastic 
+potential energy within the spring, i.e., until 1
+2 kx2 = 1
+2 mvi
+2, or 
+ 
+ 
+ 
+x = vi
+m
+k = 2.0 m s
+(
+)
+3.0 × 105 kg
+2.0 × 106 N m = 0.77 m
+ 
+OQ15.7 
+Answer (c). When an object undergoes simple harmonic motion, the 
+position as a function of time may be written as 
+x = Acosωt = Acos 2π ft
+(
+). Comparing this to the given relation, we 
+see that the frequency of vibration is f = 3 Hz, and the period is  
+T = 1/f = 1/3. 
+*OQ15.8 
+Answer (b). The frequency of vibration is 
+ 
+ 
+ 
+f = ω
+2π = 1
+2π
+k
+m
+ 
+ 
+Thus, increasing the mass by a factor of 9 will decrease the 
+frequency to 1/3 of its original value. 
+OQ15.9 
+Answer (a). Higher frequency. When it supports your weight, the 
+center of the diving board flexes down less than the end does when it 
+supports your weight—this is similar to a spring that stretches a 
+smaller distance for the same force: its spring constant is greater 
+because the displacement is smaller. Therefore, the stiffness constant 
+describing the center of the board is greater than the stiffness 
+constant describing the end. And then f =
+1
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+m
+ is greater for 
+you bouncing on the center of the board.
+
+--- PAGE 3 ---
+794     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ15.10 
+(i) 
+Answer (c). At 40 cm we have the midpoint between the turning 
+points, so it is the equilibrium position and the point of 
+maximum speed, and therefore, maximum momentum. 
+ 
+(ii) Answer (c). The position of maximum speed is also the position 
+of maximum kinetic energy. 
+ 
+(iii) Answer (e). The total energy of the system is conserved, so it is 
+the same at every position. 
+OQ15.11 
+The ranking is (c) > (e) > (a) = (b) > (d). The amplitude does not affect 
+the period in simple harmonic motion; neither do constant forces that 
+offset the equilibrium position. Thus (a) and (b) have equal periods. 
+The period is proportional to the square root of mass divided by 
+spring constant. So (c), with larger mass, has a larger period than (a). 
+And (d) with greater stiffness has smaller period. In situation (e) the 
+motion is not quite simple harmonic, but has slightly smaller angular 
+frequency and so a slightly longer period. 
+OQ15.12 
+(a) 
+Yes. In simple harmonic motion, one-half of the time, the 
+velocity is in the same direction as the displacement away from 
+equilibrium. 
+ 
+(b) Yes. Velocity and acceleration are in the same direction half the 
+time. 
+ 
+(c) 
+No. The spring force and, therefore, the acceleration are always 
+opposite to the position vector, and never in the same direction. 
+OQ15.13 
+Answer (d). We assume that the coils of the spring do not hit one 
+another. When the spring with two blocks is set into oscillation in 
+space, the coil in the center of the spring does not move. We can 
+imagine clamping the center coil in place without affecting the 
+motion. We can effectively duplicate the motion of each individual 
+block in space by hanging a single block on a half-spring here on 
+Earth. The half-spring with its center coil clamped—or its other half 
+cut off—has twice the spring constant as the original uncut spring 
+because an applied force of the same size would produce only one-
+half the extension distance. Thus the oscillation frequency in space is 
+1
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+2k
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+2 f . The absence of a force required to support the 
+vibrating system in orbital free fall has no effect on the frequency of 
+its vibration. 
+OQ15.14 
+Answer (d) is the only false statement. At the equilibrium position,  
+x = 0, the elastic potential energy of the system PEs = 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟ is a 
+minimum and the kinetic energy is a maximum.
+
+--- PAGE 4 ---
+Chapter 15     795 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ15.15 
+(i) 
+Answer (e). We have Ti = 2π
+Li
+g and 
+Tf = 2π
+Lf
+g = 2π
+4Li
+g = 2Ti. The period becomes larger by a 
+factor of 2, to become 5 s. 
+ 
+(ii) Answer (c). Changing the mass has no effect on the period of a 
+simple pendulum. 
+OQ15.16 
+(i) 
+Answer (b). The upward acceleration has the same effect as an 
+increased gravitational acceleration. 
+ 
+(ii) Answer (a). The downward acceleration has the same effect as a 
+decreased gravitational acceleration. 
+ 
+(iii) Answer (c). The absence of acceleration means that the effective 
+gravitational field is the same as that for a stationary elevator. 
+OQ15.17 
+(i) 
+Answer (c). At 120 cm we have the midpoint between the 
+turning points, so it is the equilibrium position and the point of 
+maximum speed. 
+ 
+(ii) Answer (a). In simple harmonic motion the acceleration is 
+maximum when the displacement from equilibrium is 
+maximum. 
+ 
+(iii) Answer (a), by the same logic as in part (ii). 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ15.1 
+An imperceptibly slight breeze blowing over the edge of a leaf can 
+produce fluttering in the same way that a breeze can cause a flag to 
+flap. As a leaf twists in the wind, the fibers in its stem provide a 
+restoring torque. If the frequency of the breeze matches the natural 
+frequency of vibration of one particular leaf as a torsional pendulum, 
+that leaf can be driven into a large-amplitude resonance vibration. 
+Note that it is not the size of the driving force that sets the leaf into 
+resonance, but the frequency of the driving force. If the frequency 
+changes, another leaf will be set into resonant oscillation. 
+CQ15.2 
+(a) 
+No. Since the acceleration is not constant in simple harmonic 
+motion, none of the equations in Table 2.2 are valid. 
+ 
+(b) Equation 
+Information given by equation 
+ 
+ 
+x t( ) = Acos ωt + φ
+(
+) 
+position as a function of time
+
+--- PAGE 5 ---
+796     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+v t( ) = −ωAsin ωt + φ
+(
+) 
+velocity as a function of time 
+ 
+ 
+v x
+( ) = ±ω A2 −x2
+(
+)
+1 2 
+velocity as a function of position 
+ 
+ 
+a t( ) = −ω 2Acos ωt + φ
+(
+) 
+acceleration as a function of time 
+ 
+ 
+a t( ) = −ω 2x t( ) 
+acceleration as a function of  
+  
+position 
+ 
+(c) 
+The angular frequency ω appears in every equation. 
+CQ15.3 
+(a) 
+The general equation of position is x t( ) = Acos ωt + φ
+(
+). If 
+x = −Acos ωt
+(
+), then φ = π, or equally well, φ = −π. 
+ 
+(b) At t = 0, the particle is at its turning point on the negative side of 
+equilibrium, at x = –A. 
+CQ15.4 
+We assume the diameter of the bob is not very small compared to the 
+length of the cord supporting it. As the water leaks out, the center of 
+mass of the bob moves down, increasing the effective length of the 
+pendulum and slightly lowering its frequency. As the last drops of 
+water dribble out, the center of mass of the bob moves back up to the 
+center of the sphere, and the pendulum frequency quickly increases 
+to its original value. 
+CQ15.5 
+(a) 
+No force is exerted on the particle. The particle moves with 
+constant velocity. 
+ 
+(b) The particle feels a constant force toward the left. It moves with 
+constant acceleration toward the left. If its initial push is toward 
+the right, it will slow down, turn around, and speed up in 
+motion toward the left. If its initial push is toward the left, it 
+will just speed up. 
+ 
+(c) 
+A constant force toward the right acts on the particle to produce 
+constant acceleration toward the right. 
+ 
+(d) The particle moves in simple harmonic motion about the lowest 
+point of the potential energy curve. 
+CQ15.6 
+Most everyday vibrations are damped, they eventually die down as 
+their energy is transferred to their surroundings. However, as you 
+will learn later, atoms in the molecules have vibration modes that do 
+not damp out. 
+CQ15.7 
+The mechanical energy of a damped oscillator changes back and 
+forth between kinetic and potential while it gradually and 
+permanently decreases and transforms to internal energy. 
+CQ15.8 
+Yes. An oscillator with damping can vibrate at resonance with
+
+--- PAGE 6 ---
+Chapter 15     797 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+amplitude that remains constant in time. Without damping, the 
+amplitude would increase without limit at resonance. 
+CQ15.9 
+No. If the resistive force is large compared to the restoring force of 
+the spring (in particular, if b2 > 4mk ), the system will be overdamped 
+and will not oscillate. 
+CQ15.10 
+The period of a pendulum depends on the acceleration of gravity: 
+T = 2π
+L
+g . If the acceleration of gravity is different at the top of the 
+mountain, the period is different and the pendulum does not keep 
+perfect time. Two things can effect the acceleration of gravity, the top 
+of the mountain is farther from the center of the Earth, and the 
+nearby large mass of the mountain under the pendulum. 
+CQ15.11 
+Neither are examples of simple harmonic motion, although they are 
+both periodic motion. In neither case is the acceleration proportional 
+to the displacement from an equilibrium position. Neither motion is 
+so smooth as SHM. The ball’s acceleration is very large when it is in 
+contact with the floor, and the student’s when the dismissal bell 
+rings. 
+CQ15.12 
+The motion will be periodic—that is, it will repeat, though it is not 
+harmonic at large angles. The period is nearly constant as the angular 
+amplitude increases through small values; then the period becomes 
+noticeably larger as θ increases farther. 
+CQ15.13 
+The angle of the crank pin is θ = ωt. Its x coordinate is x = A cos θ = 
+A cos ωt, where A is the distance from the center of the wheel to the 
+crank pin. This is of the form x = A cos θt + φ
+(
+), so the yoke and 
+piston move with simple harmonic motion. 
+ 
+ANS FIG. CQ15.13
+
+--- PAGE 7 ---
+798     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 15.1 
+Motion of an Object Attached to a Spring 
+P15.1 
+(a) 
+Taking to the right as positive, the spring force acting on the block 
+at the instant of release is 
+ 
+ 
+ 
+Fs = −kxi = −130 N m
+(
+) +0.13 m
+(
+)
+= −17 N   or   17 N to the left
+ 
+ 
+(b) At this instant, the acceleration is 
+ 
+ 
+ 
+a = Fs
+m = −17 N
+0.60 kg = −28 m s2  
+ 
+ 
+or 
+a = 28 m s2 to the left 
+P15.2 
+When the object comes to equilibrium (at distance y0 below the 
+unstretched position of the end of the spring), 
+Fy
+∑
+= −k −y0
+(
+)−mg = 0 
+and the force constant is 
+ 
+ 
+ 
+k = mg
+y0
+=
+4.25 kg
+(
+) 9.80 m s2
+(
+)
+2.62 × 10−2 m
+= 1.59 × 103 N = 1.59 kN/m 
+ 
+ 
+ 
+Section 12.2 
+Analysis Model: Particle in  
+Simple Harmonic Motion 
+P15.3 
+The spring constant is found from 
+ 
+ 
+ 
+k = Fs
+x = mg
+x =
+0.010 kg
+(
+) 9.80 m s2
+(
+)
+3.9 × 10−2 m
+= 2.5 N m 
+ 
+When the object attached to the spring has mass m = 25 g, the period 
+of oscillation is 
+ 
+ 
+ 
+T = 2π
+m
+k = 2π
+0.025 kg
+2.5 N m = 0.63 s 
+P15.4 
+(a) 
+The equation for the piston’s position is given as 
+ 
+ 
+ 
+x = 5.00 cm
+(
+) cos 2t + π
+6
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 8 ---
+Chapter 15     799 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+At t = 0,   
+ 
+ 
+ 
+x = 5.00 cm
+(
+) cos
+π
+6
+⎛
+⎝⎜
+⎞
+⎠⎟ =  4.33 cm
+ 
+ 
+(b) Differentiating the equation for position with respect to time 
+gives us the piston’s velocity: 
+ 
+ 
+ 
+v = dx
+dt = −10.0 cm/s
+(
+) sin
+2t + π
+6
+⎛
+⎝⎜
+⎞
+⎠⎟   
+ 
+ 
+At t = 0, v = −5.00 cm s 
+ 
+(c) 
+Differentiating again gives its acceleration: 
+ 
+ 
+ 
+a = dv
+dt = −20.0 cm/s2
+(
+) cos 2t + π
+6
+⎛
+⎝⎜
+⎞
+⎠⎟   
+ 
+ 
+At t = 0, a = −17.3 cm s2 
+ 
+(d) The period of motion is 
+ 
+ 
+ 
+T = 2π
+ω = 2π
+2 = 3.14 s 
+ 
+(e) 
+We read the amplitude directly from the equation for x: 
+ 
+ 
+ 
+A = 5.00 cm 
+P15.5 
+x = 4.00 m
+(
+)cos 3.00πt + π
+(
+); compare this with x = Acos ωt + φ
+(
+) to 
+find 
+ 
+(a) 
+ω = 2π f = 3.00π or 
+f = 1.50 Hz 
+ 
+(b) 
+T = 1
+f = 0.667 s 
+ 
+(c) 
+A = 4.00 m 
+ 
+(d) φ = π rad 
+ 
+(e) 
+x t = 0.250 s
+(
+) = 4.00 m
+(
+) cos 1.75π
+(
+) = 2.83 m 
+P15.6 
+From the information given, we write the equation for position as 
+x = Acosωt, with the amplitude given as A = 0.050 0 m. Differentiating 
+gives us the piston’s velocity, 
+ 
+ 
+ 
+v = −Aω sinωt
+
+--- PAGE 9 ---
+800     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and differentiating again gives its acceleration 
+ 
+ 
+ 
+a = −Aω 2 cosωt 
+ 
+Then, if f = 3600 rev/min = 60 Hz, then ω = 2π f = 120π s−1 
+ 
+(a) 
+vmax = ωA = 120π
+(
+) 0.050 0
+(
+) m s = 18.8 m s 
+ 
+(b) 
+amax = ω 2A = 120π
+(
+)
+2 0.050 0
+(
+) m s2 = 7.11 km s2
+ 
+15.7 
+The 0.500 s must elapse between one turning point and the other. Thus 
+the period is 1.00 s. 
+ 
+ 
+ 
+ 
+ω = 2π
+T = 6.28 s−1 
+ 
+and vmax = ωA = 6.28 s−1
+(
+) 0.100 m
+(
+) = 0.628 m s . 
+P15.8 
+(a) 
+From the information given, 
+ 
+ 
+ 
+T = 12.0 s
+5
+= 2.40 s 
+ 
+(b) 
+f = 1
+T =
+1
+2.40 = 0.417 Hz 
+ 
+(c) 
+ω = 2π f = 2π 0.417
+(
+) = 2.62 rad s 
+P15.9 
+An object hanging from a vertical spring moves with simple harmonic 
+motion just like an object moving without friction attached to a 
+horizontal spring. We are given the period, which is related to the 
+frequency of motion by T = 1/f. Then, since ω = 2π f =
+k
+m , 
+ 
+ 
+ 
+T = 1
+f = 2π
+m
+k
+ 
+ 
+Solving for k, 
+ 
+ 
+ 
+k = 4π 2m
+T 2
+= 4π 2 7.00 kg
+(
+)
+2.60 s
+(
+)
+2
+= 40.9 N m 
+*P15.10 
+For a simple harmonic oscillator, the maximum speed occurs at the 
+equilibrium position and is given by Equation 15.17: 
+ 
+ 
+vmax = A
+k
+m
+
+--- PAGE 10 ---
+Chapter 15     801 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus,  
+ 
+ 
+m = kA2
+vmax
+2
+= 16.0 N/m
+(
+) 0.200 m
+(
+)
+2
+0.400 m/s
+(
+)
+2
+= 4.00 kg
+  
+ 
+and  
+ 
+ 
+Fg = mg = 4.00 kg
+(
+) 9.80 m/s2
+(
+) = 39.2 N  
+*P15.11 
+The mass of the cube is 
+ 
+ 
+ 
+m = ρV = 2.70 × 103 kg/m3
+(
+) 0.015 m
+(
+)3 = 9.11× 10−3 kg 
+ 
+The spring constant of the strip of steel is 
+ 
+ 
+ 
+k = F
+x =
+1.43 N
+0.027 5 m = 52.0 N/m
+f = ω
+2π = 1
+2π
+k
+m = 1
+2π
+52.0 N/m
+9.11× 10−3 kg = 12.0 Hz
+ 
+P15.12 
+(a) 
+The spring constant of this spring is 
+ 
+ 
+ 
+k = F
+x = mg
+x =
+ 0.450 kg
+(
+) 9.80 m s2
+(
+)
+0.350 m
+= 12.6 N m 
+ 
+ 
+We take the x axis pointing downward, so φ = 0. 
+ 
+ 
+ 
+x = A cos ωt = 18.0 cm
+(
+) cos
+12.6 N/m
+0.450 kg
+84.4 s
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 18.0 cm
+(
+) cos 446.6 rad
+(
+) = 15.8 cm
+ 
+ 
+(b) Now 446.6 rad = 71× 2π + 0.497 rad. In each cycle the object 
+moves 4(18) = 72 cm, so it has moved 
+71 72 cm
+(
+) + 18 −15.8
+(
+) cm = 51.1 m 
+ 
+(c) 
+By the same steps, k =
+0.440 kg
+(
+) 9.80 m/s2
+(
+)
+0.355 m
+ = 12.1 N/m. 
+ 
+ 
+ 
+x = A cos
+k
+mt = (18.0 cm) cos
+12.1 N/m
+0.440 kg
+84.4 s
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= (18.0 cm)cos(443.4 rad) = −15.9 cm
+ 
+ 
+(d) 
+443.4 rad = 70.569 2π
+(
+) 
+ 
+ 
+Distance moved = 70.569 0.72 m
+(
+) = 50.8 m
+
+--- PAGE 11 ---
+802     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+The patterns of oscillation diverge from each other, starting
+out in phase but becoming completely out of phase. To calculate
+the future we would need exact knowledge of the present, an
+impossibility.
+ 
+P15.13 
+(a) 
+For constant acceleration position is given as a 
+function of time by 
+ 
+ 
+ 
+x = xi + vxit + 1
+2 axt2
+= 0.270 m + 0.140 m/s
+(
+) 4.50 s
+(
+)
+             + 1
+2 −0.320 m/s2
+(
+) 4.50 s
+(
+)
+2
+= −2.34 m
+ 
+ 
+(b) 
+vx = vxi + axt = 0.140 m s −0.320 m s2
+(
+) 4.50 s
+(
+) = −1.30 m s 
+ 
+(c) 
+For simple harmonic motion we have 
+instead  
+ 
+ 
+ 
+x = A cos ω t + φ
+(
+)  
+ 
+ 
+and v = −Aω sin ω t + φ
+(
+)  
+ 
+ 
+where  a = −ω 2x, so that 
+−0.320 m s2 = −ω 2 0.270 m
+(
+), ω = 1.09 rad s.  
+ 
+ 
+At t = 0, 0.270 m = A cos φ and 0.140 m/s = −A 1.09 s−1
+(
+) sin φ.  
+ 
+ 
+Dividing gives 0.140 m/s
+0.270 m
+= −1.09 s−1
+(
+) tan φ, tan φ = −0.476, 
+φ = −25.5°. Still at t = 0, 0.270 m = A cos −25.5°
+(
+), A = 0.299 m.  
+ 
+ 
+Now at t = 4.50 s, 
+ 
+ 
+ 
+ x = 0.299 m
+(
+) cos
+1.09 rad s
+(
+) 4.50 s
+(
+) −25.5°
+⎡⎣
+⎤⎦
+= 0.299 m
+(
+) cos 4.90 rad −25.5°
+(
+)
+= 0.299 m
+(
+) cos 255°
+= −0.076 3 m
+ 
+ 
+(d) 
+v = −0.299 m
+(
+) 1.09 s−1
+(
+) sin 255° = +0.315 m/s 
+ANS. FIG.  
+P15.13(a, b) 
+ 
+ANS. FIG. P15.13(c, d)
+
+--- PAGE 12 ---
+Chapter 15     803 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.14 
+(a) 
+Since the collision is perfectly elastic, the ball will rebound to the 
+height of 4.00 m and then repeat the motion over and over again. 
+Thus, the motion is periodic . 
+ 
+(b) To determine the period, we use x = 1
+2 gt2. The time for the ball to 
+hit the ground is  
+ 
+ 
+ 
+t =
+2x
+g =
+2 4.00 m
+(
+)
+9.80 m s2 = 0.904 s 
+ 
+ 
+This equals one-half the period, so T = 2 0.904 s
+(
+) = 1.81 s . 
+ 
+(c) 
+The motion is not simple harmonic. The net force action on the
+ball is a constant given by F = −mg (except when it is in contact
+with the ground), which is not in the form of Hooke’s law.
+ 
+P15.15 
+The period of the oscillation is 
+T = 1/f = 1/1.50 Hz = 1/ 3/2 s−1
+(
+) = 2/3 s. 
+ 
+(a) 
+At t = 0, x = 0 and v is positive (to the right). Therefore, this 
+situation corresponds to x = A sin ωt and v = vi cos ωt. Since  
+f = 1.50 Hz, ω = 2π f = 3.00π, and A = 2.00 cm: 
+x = 2.00 cos 3.00π t −90°
+(
+) = 2.00 sin 3.00π t
+ 
+ 
+ 
+where x is in centimenters and t is in seconds. 
+ 
+(b) 
+vmax = vi = Aω = 2.00 3.00π
+(
+) = 6.00π cm s = 18.8 cm s 
+ 
+(c) 
+The particle has this speed at t = 0 and next after half a period:  
+ 
+ 
+ 
+t = T
+2 =
+1
+3 s 
+ 
+(d) 
+amax = Aω 2 = 2.00 3.00π
+(
+)
+2 = 18.0π 2 cm/s2 = 178 cm/s2
+ 
+ 
+(e) 
+This positive value of maximum acceleration first occurs when 
+the particle is reversing its direction on the negative x axis, three-
+quarters of a period after t = 0: at t = 3
+4T = 0.500 s .
+
+--- PAGE 13 ---
+804     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+Since T = 2
+3 s and A = 2.00 cm, the particle will travel 8.00 cm in 
+one cycle. Hence, in 1.00 s = 3
+2 T = 1 12 cycles, the particle will 
+travel 8.00 cm + 4.00 cm = 12.0 cm . 
+*P15.16 
+The proposed solution,  
+ 
+ 
+ 
+x t( ) = xi cos ω t + vi
+ω( ) sin ω t
+ 
+ 
+implies velocity 
+ 
+ 
+ 
+ 
+v = dx
+dt = −xiω sin ω t + vi cos ω t
+ 
+ 
+and acceleration 
+ 
+ 
+ 
+ 
+a = dv
+dt = −xiω 2 cos ω t −viω sin ω t
+= −ω 2 xi cos ω t + vi
+ω( ) sin ω t
+(
+) = −ω 2x
+ 
+ 
+(a) 
+The acceleration being a negative constant times position means 
+we do have SHM, and its angular frequency is ω. At t = 0 the 
+equations reduce to x = xi and v = vi, so they satisfy all the 
+requirements. 
+ 
+(b) 
+v2 −ax = v2 −−ω 2x
+(
+)x = v2 +ω 2x2
+= −xiω sin ω t + vi cos ω t
+(
+)
+2 +ω 2 xi cos ω t + vi
+ω( ) sin ω t
+(
+)
+2
+= xi
+2ω 2 sin2 ω t −2xiviω sin ω t cos ω t + vi
+2 cos2 ω t
+           + xi
+2ω 2 cos2 ω t + 2xiviω cos ω t sin ωt
+           + vi
+2 sin2 ω t
+= xi
+2ω 2 + vi
+2
+ 
+ 
+ 
+So the expression v2 −ax is constant in time because all the 
+parameters in the final equivalent expression xi
+2ω 2 + vi
+2 are 
+constant. Because v2 −ax must have the same value at all times, it 
+must be equal to the value at t = 0, so v2 −ax = vi
+2 −aixi. If we 
+evaluate v2 −ax at a turning point where v = 0 and x = A, it is 
+v2 −ax = v2 +ω 2x2 = 02 +ω 2 A2
+(
+) = ω 2A2. Thus it is proved.
+
+--- PAGE 14 ---
+Chapter 15     805 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P15.17 
+(a) 
+The distance traveled in one cycle is four times the amplitude of 
+motion, or 20.0 cm . 
+ 
+(b) 
+vmax = ω A = 2π fA = 2π (3.00 Hz)(5.00 cm) = 94.2 cm/s 
+ 
+ 
+This occurs as the particle passes through equilibrium. 
+ 
+(c) 
+amax = ω 2A = 2π f
+(
+)
+2 A = 2π (3.00 Hz)
+[
+]
+2 (0.05 m) = 17.8 m s2
+ 
+ 
+ 
+This occurs at maximum excursion from equilibrium. 
+P15.18 
+m = 1.00 kg, k = 25.0 N/m, and A = 3.00 cm. At t = 0, x = –3.00 cm. 
+ 
+(a) 
+ω =
+k
+m =
+25.0 N/m
+1.00 kg
+= 5.00 rad/s 
+ 
+ 
+so that, T = 2π
+ω = 2π
+5.00 = 1.26 s 
+ 
+(b) 
+vmax = Aω = 3.00 × 10−2 m
+(
+) 5.00 rad/s
+(
+) = 0.150 m/s 
+ 
+ 
+amax = Aω 2 = 3.00 × 10−2 m
+(
+) 5.00 rad/s
+(
+)
+2 = 0.750 m/s2
+ 
+ 
+(c) 
+Because x = –3.00 cm and v = 0 at t = 0, the required solution is 
+x = −A cos ωt, or   
+ 
+ 
+x = 3.00cos 5.00t + π
+(
+) 
+ 
+ 
+Then,  
+v = dx
+dt = −15.0 sin 5.00t + π
+(
+) 
+ 
+ 
+and  
+a = dv
+dt = −75.0 cos 5.00t + π
+(
+) 
+ 
+ 
+where x is in cm, v is in cm/s, and a is in cm/s
+2. 
+P15.19 
+ω =
+k
+m =
+8.00 N m
+0.500 kg = 4.00 s−1. Assuming the position of the object is 
+at the origin at t = 0, position is given by x = 10.0 sin 4.00t
+(
+), where x is 
+in cm. From this, we find that v = 40.0 cos 4.00t
+(
+), where v is in cm/s, 
+and a = −160 sin 4.00t
+(
+), where a is in cm/s
+2. 
+ 
+(a) 
+vmax = ωA = 4.00 rad/s
+(
+) 10.0 cm
+(
+) = 40.0 cm s 
+ 
+(b) 
+amax == ω 2A = 4.00 rad/s
+(
+)
+2 10.0 cm
+(
+) = 160 cm s2
+
+--- PAGE 15 ---
+806     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From our assumed expression for x, we solve for the time t: 
+ 
+ 
+ 
+ 
+t =
+1
+4.00 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟sin−1
+x
+10.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+When x = 6.00 cm, t =
+1
+4.00 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟sin−1 6.00 cm
+10.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.161 s. 
+ 
+ 
+We find then that at that time: 
+ 
+(c) 
+v = 40.0 cm/s
+(
+) cos
+4.00 Hz
+(
+) 0.161 s
+(
+)
+[
+] = 32.0 cm/s and 
+ 
+(d) 
+a = −160 cm/s2
+(
+) sin
+4.00 Hz
+(
+) 0.161 s
+(
+)
+[
+] = −96.0 cm/s2
+ 
+ 
+(e) 
+Using t =
+1
+4.00 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟sin−1
+x
+10.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟ we find that when x = 0,  
+t = 0, and when x = 8.00 cm, t = 0.232 s. Therefore, Δt = 0.232 s . 
+P15.20 
+(a) 
+Yes. 
+ 
+(b) We assume that the mass of the spring is negligible and that we 
+are on Earth. Let m represent the mass of the object. Its hanging at 
+rest is described by 
+ 
+ 
+ 
+F = 0 →kx −mg = 0 →k = mg
+x
+∑
+, where x = 18.3 cm 
+ 
+ 
+To find the period, we must find the angular frequency T = 2π
+ω . 
+We do not know the mass, but we do not need it because  
+ 
+ 
+ 
+ω =
+k
+m =
+mg
+x
+1
+m =
+g
+x
+ 
+ 
+ 
+From our value for x, we find 
+ 
+ 
+  
+T = 2π
+ω = 2π
+x
+g = 2π
+0.183 m
+9.80 m/s2 = 0.859 s
+  
+ 
+ 
+We see that finding the period does not depend on knowing the
+mass: T = 0.859 s.
+
+--- PAGE 16 ---
+Chapter 15     807 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 15.3 
+Energy of the Simple Harmonic Oscillator 
+P15.21 
+Choose the car with its shock-absorbing bumper as the system; by 
+conservation of energy, 
+ 
+ 
+1
+2 mv2 = 1
+2 kx2:
+         v = x
+k
+m = 3.16 × 10−2 m
+(
+)
+5.00 × 106 N/m
+103 kg
+= 2.23 m s
+ 
+P15.22 
+We are given m = 200 g, T = 0.250 s, E = 2.00 J, and   
+ 
+ 
+ 
+ω = 2π
+T =
+2π
+0.250 = 25.1 rad s 
+ 
+(a) 
+k = mω 2 = 0.200 kg
+(
+) 25.1 rad s
+(
+)
+2 = 126 N m 
+ 
+(b) 
+E = kA2
+2
+⇒A =
+2E
+k =
+2 2.00 J
+(
+)
+126 N/m = 0.178 m 
+*P15.23 
+(a) 
+Energy is conserved for the block-spring system between the 
+maximum-displacement and the half-maximum points: 
+ 
+ 
+ 
+K +U
+(
+)i = K +U
+(
+) f 
+ 
+ 
+ 
+ 
+0 + 1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2 
+ 
+ 
+ 
+1
+2 6.50 N m
+(
+) 0.100 m
+(
+)2 = 1
+2 m 0.300 m s
+(
+)
+2
+                                              + 1
+2 6.50 N m
+(
+) 5.00 × 10−2 m
+(
+)
+2 
+ 
+ 
+ 
+3.25 × 10−2 J = 1
+2 m 0.300 m/s
+(
+)2 + 8.12 × 10−3 J 
+ 
+ 
+ 
+giving   m = 2 2.44 × 10−2 J
+(
+)
+9.0 × 10−2 m2 s2 = 0.542 kg 
+  
+(b) 
+ω =
+k
+m =
+6.50 N/m
+0.542 kg = 3.46 rad/s 
+ 
+ 
+Then, 
+T = 2π
+ω =
+2π rad
+3.46 rad s = 1.81 s 
+  
+(c) 
+amax = Aω 2 = 0.100 m
+(
+) 3.46 rad/s
+(
+)2 = 1.20 m/s2
+
+--- PAGE 17 ---
+808     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P15.24 
+(a) 
+The mechanical energy of the system is equal to the potential 
+energy stored in the spring at maximum amplitude: 
+ 
+ 
+ 
+E = kA2
+2
+= 250 N/m
+(
+) 3.50 × 10−2 m
+(
+)
+2
+2
+= 0.153 J 
+ 
+(b) 
+vmax = Aω, where 
+ω =
+k
+m =
+250 N/m
+0.500 kg = 22.4 s−1,  
+ 
+ 
+giving  vmax = 0.784 m/s 
+  
+(c) 
+amax = Aω 2 = 3.50 × 10−2 m
+(
+) 22.4 s−1
+(
+)
+2 = 17.5 m/s2
+ 
+*P15.25 
+Model the oscillator as a block-spring system. From energy 
+considerations,  
+ 
+ 
+ 
+v2 + ω 2x2 = ω 2A2 
+ 
+with vmax = ω A and v = ω A
+2 , so 
+ 
+ 
+ 
+ω A
+2
+⎛
+⎝
+⎞
+⎠
+2
++ ω 2x2 = ω 2A2 
+ 
+From this we find  
+ 
+ 
+ 
+x2 = 3
+4 A2 
+ 
+ 
+and since A = 3.00 cm, 
+ 
+ 
+   
+x = ±
+3
+2 A = ±2.60 cm
+  
+*P15.26 
+(a) 
+E = 1
+2 kA2, so if 
+′
+A = 2A, ′
+E = 1
+2 k
+′
+A
+(
+)2 = 1
+2 k 2A
+(
+)2 = 4E 
+ 
+ 
+Therefore E increases by factor of 4. 
+  
+(b) 
+vmax =
+k
+mA , so if A is doubled, vmax is doubled. 
+ 
+(c) 
+amax = k
+m A , so if A is doubled, amax also doubles. 
+ 
+(d) 
+T = 2π
+m
+k is independent of A, so the period is unchanged.
+
+--- PAGE 18 ---
+Chapter 15     809 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.27 
+(a) 
+E = 1
+2 kA2 = 1
+2 35.0 N m
+(
+) 4.00 × 10−2 m
+(
+)
+2 = 28.0 mJ 
+ 
+(b) 
+v = ω
+A2 −x2 =
+k
+m
+A2 −x2 
+ 
+ 
+v =
+35.0 N/m
+50.0 × 10−3 kg
+4.00 × 10−2 m
+(
+)
+2 −1.00 × 10−2 m
+(
+)
+2
+= 1.02 m/s
+ 
+ 
+(c) 
+1
+2 mv2 = 1
+2 kA2 −1
+2 kx2
+= 1
+2 35.0 N/m
+(
+)
+4.00 × 10−2 m
+(
+)
+2 −3.00 × 10−2 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+= 12.2 mJ
+ 
+ 
+(d) 
+1
+2 kx2 = E −1
+2 mv2 = 28.0 mJ −12.2 mJ = 15.8 mJ 
+P15.28 
+(a) 
+k = F
+x = 20.0 N
+0.200 m = 100 N m 
+ 
+(b) 
+ω =
+k
+m =
+50.0 rad s 
+so 
+f = ω
+2π = 1.13 Hz 
+ 
+(c) 
+vmax = ωA =
+50.0 0.200
+(
+) = 1.41 m s 
+ 
+(d) Maximum speed occurs when the object passes through its 
+equilibrium position, at x = 0 . 
+ 
+(e) 
+amax = ω 2A = 50.0 0.200
+(
+) = 10.0 m s2
+ 
+ 
+(f) 
+Maximum acceleration occurs where the object reverses direction, 
+which is where its distance from equilibrium is a maximum, at 
+x = ±A = ±0.200 m . 
+ 
+(g) 
+E = 1
+2 kA2 = 1
+2 100 N/m
+(
+) 0.200 m
+(
+)
+2 = 2.00 J 
+ 
+(h) 
+v = ω
+A2 −x2 =
+50.0 rad/s
+(
+)
+8
+9 0.200
+(
+)
+2 m = 1.33 m/s 
+ 
+(i) 
+a = ω 2x = 50.0 rad2/s2
+(
+) 0.200 m
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.33 m/s2
+
+--- PAGE 19 ---
+810     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.29 
+(a) 
+Energy is conserved by an isolated simple harmonic oscillator: 
+ 
+ 
+ 
+E = 1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2 →1
+2 mv2 = 1
+2 kA2 −1
+2 kx2
+→1
+2 mv2 = 1
+2 k A2 −x2
+(
+)
+ 
+ 
+ 
+When x = A/3, 
+ 
+ 
+ 
+1
+2 mv2 = 1
+2 k A2 −x2
+(
+) = 1
+2 k A2 −
+A
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 1
+2 kA2 1−1
+9
+⎡
+⎣⎢
+⎤
+⎦⎥
+1
+2 mv2 = 1
+2 kA2 8
+9 = 8
+9 E
+ 
+ 
+(b) When x = A/3, 
+ 
+ 
+ 
+1
+2 kx2 = 1
+2 k A
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+9
+1
+2 kA2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+9 E 
+ 
+(c) 
+1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2 = 1
+2
+1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 kx2 
+ 
+ 
+ 
+1
+2 kA2 = 3
+4 kx2 →x = ±
+2
+3 A 
+ 
+(d) 
+No. The maximum potential energy of the system is equal to the 
+total energy of the system: kinetic plus potential energy. Because 
+the total energy must remain constant, the kinetic energy can 
+never be greater than the maximum potential energy. 
+P15.30 
+(a) 
+Particle under constant acceleration. 
+ 
+(b) 
+y fi = y + vyit + 1
+2 ayt2: 
+ 
+ 
+ 
+−11.0 m = 0 + 0 + 1
+2 −9.80 m s2
+(
+)t2
+t =
+22.0 m
+9.80 m/s2 = 1.50 s
+ 
+ 
+(c) 
+The system of the bungee jumper, the spring (cord), and the Earth 
+is isolated . 
+ 
+(d) The system is isolated, so energy is conserved within the system. 
+Take the initial point where she steps off the bridge and the final 
+point at the bottom of her motion.
+
+--- PAGE 20 ---
+Chapter 15     811 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+K +Ug +Us
+(
+)i = K +Ug +Us
+(
+) f
+0 + mgy + 0 = 0 + 0 + 1
+2 kx2
+65.0 kg
+(
+) 9.80 m s2
+(
+) 36.0 m
+(
+) = 1
+2 k 25.0 m
+(
+)
+2
+ 
+ 
+ 
+which gives k = 73.4 N/m 
+ 
+(e) 
+The spring extension at equilibrium is  
+ 
+ 
+ 
+x = F
+k = mg
+k =
+65.0 kg
+(
+) 9.80 m s2
+(
+)
+73.4 N m
+= 8.68 m  
+ 
+ 
+so this point is 11.0 + 8.68 m = 19.7 m below the bridge and the 
+amplitude of her oscillation is 36.0 m – 19.7 m = 16.3 m. 
+ 
+(f) 
+ω =
+k
+m =
+73.4 N/m
+65.0 kg
+= 1.06 rad/s 
+ 
+(g) Set x = 0 at the equilibrium position of the bungee jumper on the 
+spring. Relative to the equilibrium position, the lowest part of the 
+drop corresponds to x = +16.3 m—we have taken down as 
+positive—and the point in the drop where the spring begins 
+to stretch is at x = –8.68 m. Take the phase as zero at maximum 
+downward extension (x = +16.3 m). We find that the phase, ωt, 
+was 25 m higher where x = –8.68 (above the equilibrium point): 
+ 
+ 
+x = A cos ωt: at time t = 0, x = 16.3 m
+(
+) cos 0 = 16.3 m , and when 
+x = −8.68 = 16.3 cos ωt
+(
+), ωt = ±122° = ±2.13 rad. Which sign do 
+we pick for ωt? From v = dx
+dt = −ωA sin ωt, at x = –8.68 m, v is 
+downward, which means by our choice of positive direction, v is 
+positive. Pick ωt = −2.13 rad: 
+v = −ωA sin −2.13 rad
+(
+) = +ωA 0.848
+(
+), which is positive. 
+ 
+ 
+Therefore, ωt = 1.06t = −2.13 rad →t = −2.13 rad
+1.06
+= −2.01 s, 
+meaning t = –2.01 s when the spring begins to stretch and t = 0 
+when the jumper reaches the bottom of the jump: then +2.01 s 
+is the time over which the spring stretches. 
+ 
+(h) total time = 1.50 s + 2.01 s = 3.50 s
+
+--- PAGE 21 ---
+812     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.31 
+(a) 
+F = k x = 83.8 N m
+(
+) 5.46 × 10−2 m
+(
+) = 4.58 N 
+ 
+(b) 
+E = Us = 1
+2 kx2 = 1
+2 83.8 N m
+(
+) 5.46 × 10−2 m
+(
+)
+2 = 0.125 J 
+ 
+(c) 
+While the block was held stationary at x = 5.46 cm, 
+Fx
+∑
+= −Fs + F = 0, or the spring force was equal in magnitude and 
+oppositely directed to the applied force. When the applied force is 
+suddenly removed, there is a net force Fs = 4.58 N directed 
+toward the equilibrium position acting on the block. This gives 
+the block an acceleration having magnitude 
+ 
+ 
+ 
+a = Fs
+m = 4.58 N
+0.250 kg = 18.3 m s2 
+ 
+(d) At the equilibrium position, PEs = 0, so the block has kinetic 
+energy K = E = 0.125 J and speed 
+ 
+ 
+ 
+v =
+2E
+m =
+2 0.125 J
+(
+)
+0.250 kg = 1.00 m s 
+ 
+(e) 
+Smaller. Friction would transform some kinetic energy into 
+internal energy. 
+ 
+(f) 
+The coefficient of kinetic friction between the block and surface. 
+ 
+(g) The block will come to a stop after sliding through distance  
+d = x = 0.054 6 m. 
+ 
+ 
+ 
+ΔEmech = ΔK + ΔU = −fkd
+0 + 0 −1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟= −fkd = −µkmgd →µk =
+kx2
+2mgd =
+kx2
+2mgx = kx
+2mg
+→µk = 83.8 N/m
+(
+) 0.054 6 m
+(
+)
+2 0.250 kg
+(
+) 9.80 m/s2
+(
+)
+= 0.934
+ 
+P15.32 
+(a) 
+At the equilibrium position, the total energy of the system is in 
+the form of kinetic energy and mvmax
+2
+2 = E, so the maximum 
+speed is 
+ 
+ 
+ 
+vmax =
+2E
+m =
+2 5.83 J
+(
+)
+0.326 kg = 5.98 m s
+
+--- PAGE 22 ---
+Chapter 15     813 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The period of an object-spring system is T = 2π
+m k, so the force 
+constant of the spring is 
+ 
+ 
+ 
+k = 4π 2m
+T 2
+= 4π 2 0.326 kg
+(
+)
+0.250 s
+(
+)
+2
+= 206 N m 
+ 
+(c) 
+At the turning points, x = ±A, the total energy of the system is in 
+the form of elastic potential energy, or E = KA
+2/2,  giving the 
+amplitude as 
+ 
+ 
+ 
+A =
+2E
+k =
+2 5.83 J
+(
+)
+206 N m = 0.238 m 
+ 
+ 
+ 
+Section 15.4 
+Comparing Simple Harmonic Motion  
+with Uniform Circular Motion 
+P15.33 
+(a) 
+The motion is simple harmonic because the tire is rotating with
+constant angular velocity and you see the projection of the motion
+of the bump in a plane perpendicular to the tire.
+ 
+ 
+(b) Since the car is moving with speed v = 3.00 m/s, and its radius 
+is 0.300 m, we have 
+ 
+ 
+ 
+ω = 3.00 m s
+0.300 m = 10.0 rad s 
+ 
+ 
+Therefore, the period of the motion is 
+ 
+ 
+ 
+T = 2π
+ω =
+2π
+10.0 rad s
+(
+)
+= 0.628 s 
+ 
+ 
+ 
+Section 15.5 
+The Pendulum 
+P15.34 
+The period in Tokyo is TT = 2π
+LT
+gT
+, and the period in Cambridge is 
+TC = 2π
+LC
+gC
+.
+
+--- PAGE 23 ---
+814     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.36 
+ 
+We know that TT = TC = 2.00 s, which means that LT
+gT
+= LC
+gC
+,  
+ 
+or  
+gC
+gT
+= LC
+LT
+= 0.994 2
+0.992 7 = 1.001 5 
+P15.35 
+The period of a pendulum is the time for one complete oscillation and 
+is given by T = 2π
+g, where  is the length of the pendulum. 
+ 
+(a) 
+T =
+3.00 min
+120 oscillations
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.50 s 
+ 
+(b) The length of the pendulum is 
+ 
+ 
+ 
+= g
+T 2
+4π 2
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.80 m s2
+(
+)
+1.50 s
+(
+)
+2
+4π 2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.559 m 
+P15.36 
+Referring to ANS. FIG. P15.36, we have 
+ 
+ 
+F = −mgsinθ   and   tanθ = x
+R 
+ 
+For small displacements,    
+ 
+ 
+tanθ ≈sinθ   and  F = −mg
+R x = −kx 
+ 
+Since the restoring force is proportional to 
+the displacement from equilibrium, the  
+motion is simple harmonic motion. 
+ 
+Comparing to F = −mω 2x shows  
+ 
+ 
+ 
+ω =
+k
+m =
+g
+R
+ 
+P15.37 
+f = 0.450 Hz, d = 0.350 m, and m = 2.20 kg.  Now,  
+ 
+ 
+T = 1
+f
+T = 2π
+I
+mgd →T 2 = 4π 2I
+mgd
+ 
+ 
+Solving for the moment of inertia, we obtain 
+ 
+ 
+ 
+I = T 2 mgd
+4π 2 =
+1
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 mgd
+4π 2 =
+2.20 kg
+(
+) 9.80 m/s2
+(
+) 0.350 m
+(
+)
+4π 2 0.450 s−1
+(
+)
+2
+= 0.944 kg ⋅m2
+ 
+ANS. FIG. P15.37
+
+--- PAGE 24 ---
+Chapter 15     815 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.38 
+Please see ANS. FIG. P15.37. For a physical pendulum, 
+ 
+ 
+ 
+T = 1
+f
+T = 2π
+I
+mgd →T 2 = 4π 2I
+mgd
+→I = T 2 mgd
+4π 2 =
+1
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 mgd
+4π 2 →I = mgd
+4π 2 f 2
+ 
+*P15.39 
+We solve ω = 2π
+T  for 
+T = 2π
+ω = 2π
+4.43 = 1.42 s 
+ 
+We then solve ω =
+g
+L    for  L = g
+ω 2 =
+9.80 m/s2
+4.43 rad/s
+(
+)2 = 0.499 
+P15.40 
+(a) 
+The parallel-axis theorem gives I = ICM + md2, 
+ 
+ 
+so   T = 2π
+I
+mgd = 2π
+ICM + md2
+mgd
+ 
+ 
+(b) When d is very large T →2π
+d
+g gets large. 
+ 
+ 
+When d is very small T →2π
+ICM
+mgd gets large. 
+ 
+ 
+So there must be a minimum, found by 
+ 
+ 
+ 
+dT
+dd = 0 = d
+dd 2π ICM + md2
+(
+)
+1 2 mgd
+(
+)
+−1 2
+= 2π ICM + md2
+(
+)
+1 2 −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟mgd
+(
+)
+−3 2 mg
+           + 2π mgd
+(
+)
+−1 2
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ICM + md2
+(
+)
+−1 2 2md
+=
+−π ICM + md2
+(
+)mg
+ICM + md2
+(
+)
+1 2 mgd
+(
+)
+3 2 +
+2π mdmgd
+ICM + md2
+(
+)
+1 2 mgd
+(
+)
+3 2 = 0
+ 
+ 
+ 
+This requires 
+ 
+ 
+ 
+−ICM −md2 + 2md2 = 0 
+ 
+ 
+or 
+ ICM = md2
+
+--- PAGE 25 ---
+816     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.41 
+P15.41 
+Using the simple harmonic motion model: 
+ 
+ 
+A = rθ = 1.00 m
+(
+)
+15.0°
+(
+) π
+180°
+⎡
+⎣⎢
+⎤
+⎦⎥= 0.262 m
+ω =
+g
+L =
+9.80 m s2
+1.00 m
+= 3.13 rad s
+ 
+ 
+(a) 
+vmax = Aω = 0.262 m
+(
+) 3.13 s−1
+(
+)
+= 0.820 m/s
+ 
+ 
+(b) For simple harmonic motion, the maximum 
+acceleration  
+ 
+ 
+ 
+amax = Aω 2 = 0.262 m
+(
+) 3.13 s−1
+(
+)
+2
+= 2.57 m/s2
+ 
+ 
+ 
+which is equal to the maximum tangential acceleration, occurs at 
+the extreme ends of the swing: 
+ 
+ 
+ 
+at = rα →α = at
+r = 2.57 m/s2
+1.00 m
+= 2.57 rad/s2
+ 
+ 
+(c) 
+The maximum restoring force causes the maximum acceleration: 
+ 
+ 
+ 
+F = mamax = 0.25 kg 2.57 m/s2
+(
+) = 0.641 N 
+ 
+(d) (a) Applying energy conservation to the isolated pendulum-
+Earth system: 
+ 
+ 
+ 
+ 
+Ki +Ui = K f +U f →mgh = 1
+2 mv2     
+ 
+ 
+ 
+and  h = L 1−cosθ
+(
+), 
+ 
+ 
+ 
+then  
+ 
+ 
+ 
+ 
+vmax =
+2gh =
+2gL 1−cosθ
+(
+)
+=
+2(9.80 m/s2)(1.00 m)(1−cos15.0°)
+= 0.817 m s
+
+--- PAGE 26 ---
+Chapter 15     817 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.42 
+P15.42 
+(a) 
+The parallel-axis theorem gives: 
+ 
+ 
+ 
+I = ICM + Md2 = 1
+12 ML2 + Md2
+= 1
+12 M 1.00 m
+(
+)
+2 + M 1.00 m
+(
+)
+2
+= M 13
+12 m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+T = 2π
+I
+Mgd = 2π
+M 13/12 m2
+(
+)
+Mg 1.00 m
+(
+)
+= 2π
+13/12 m
+9.80 m s2
+= 2.09 s
+ 
+ 
+(b) For the simple pendulum, 
+ 
+ 
+ 
+T = 2π
+1.00 m
+9.80 m s2 = 2.01 s     
+ 
+ 
+  
+difference = 2.09 s −2.01 s
+2.01 s
+= 4.08% 
+P15.43 
+(a) 
+The string tension must support the weight of the bob, accelerate 
+it upward, and also provide the restoring force, just as if the 
+elevator were at rest in a gravity field of (9.80 + 5.00) m/s
+2. Thus 
+the period is 
+ 
+ 
+ 
+T = 2π
+L
+g = 2π
+5.00 m
+14.8 m s2
+T = 3.65 s
+ 
+ 
+(b) 
+T = 2π
+5.00 m
+9.80 m s2 −5.00 m s2
+(
+)
+= 6.41 s 
+ 
+(c) 
+geff =
+9.80 m s2
+(
+)
+2 + 5.00 m s2
+(
+)
+2 = 11.0 m s2 
+ 
+ 
+T = 2π
+5.00 m
+11.0 m s2 =
+4.24 s
+
+--- PAGE 27 ---
+818     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.44 
+(a) 
+From T = total measured time
+50
+, 
+ 
+ 
+the measured periods are: 
+ 
+Length, L (m) 
+ 1.000 
+  0.750 
+  0.500 
+Period, T (s) 
+ 2.00 
+  1.73 
+  1.42 
+ 
+(b) 
+T = 2π
+L
+g 
+so 
+g = 4π 2L
+T 2
+ 
+ 
+ 
+The calculated values for g are: 
+ 
+Period, T (s) 
+  2.00 
+  1.73 
+  1.42 
+g (m/s
+2) 
+  9.87 
+  9.89 
+  9.79 
+ 
+ 
+Thus, gavg = 9.85 m/s
+2  
+ 
+ 
+This agrees with the accepted value of  g = 9.80 m/s2 
+within 0.5%. 
+ 
+ 
+ANS. FIG. P15.44 
+ 
+(c) 
+From T 2 =
+4π 2
+g
+⎛
+⎝⎜
+⎞
+⎠⎟L, the slope of T
+2 versus L graph is  
+ 
+ 
+ 
+4π 2
+g
+= 3.97 s2/m
+
+--- PAGE 28 ---
+Chapter 15     819 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, g = 4π 2
+slope = 9.94 m s2 .This is within 1.5% of the accepted 
+value for g. 
+P15.45 
+The period of oscillation for the watch balance wheel is T = 0.250 s. 
+Modeling the 20.0-g mass as a particle, we find the moment of inertia 
+from I = mr
+2.  
+ 
+(a) 
+I = mr2 = 2.00 × 10−2 kg
+(
+) 5.00 × 10−3 m
+(
+)
+2 = 5.00 × 10−7 kg⋅m2 
+ 
+(b) To find the torsion constant, we use Equation 15.29 for the motion 
+of a torsional pendulum, 
+ 
+ 
+ 
+I d2θ
+dt2 = −κθ
+ 
+ 
+ 
+where  
+ 
+ 
+ 
+κ
+I = ω = 2π
+T
+ 
+ 
+ 
+Solving for the torsion constant gives 
+ 
+ 
+ 
+κ = Iω 2 = 5.00 × 10−7 kg⋅m2
+(
+)
+2π
+0.250 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 3.16 × 10−4 N⋅m
+rad
+ 
+ 
+ 
+ 
+Section 15.6 
+Damped Oscillations 
+P15.46 
+We are given θi = 15.0°, and θ t = 1 000 s
+(
+) = 5.50°. We then use 
+Equation 15.32 for damped oscillations: 
+ 
+ 
+ 
+x = Ae−bt 2m 
+ 
+ 
+Substituting, 
+ 
+ 
+ 
+x1 000
+xi
+= Ae−bt 2m
+A
+= 5.50
+15.0 = e
+−b 1 000
+(
+) 2m 
+ 
+ 
+ 
+ln 5.50
+15.0
+⎛
+⎝⎜
+⎞
+⎠⎟= −1.00 = −b 1 000
+(
+)
+2m
+ 
+ 
+which gives 
+ 
+ 
+ 
+b
+2m = 1.00 × 10−3 s−1
+
+--- PAGE 29 ---
+820     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.47 
+If the oscillation was undamped, its frequency would be  
+ 
+ 
+ 
+ω 0 =
+k
+m =
+2.05 × 104 N m
+10.6 kg
+= 44.0 s−1
+  
+ 
+(a) 
+With damping, the frequency becomes 
+ 
+ 
+ 
+ω =
+ω 0
+2 −
+b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+44 1
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−
+3 kg
+ 2  × 10.6 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+1 933.96 −0.02 = 44.0 s−1
+f = ω
+2π = 44.0 s−1
+2π
+= 7.00 Hz
+ 
+ 
+(b) In x = A0e−bt 2m cos ωt + φ
+(
+) over one cycle, a time T = 2π
+ω , the 
+amplitude changes from A0 to A0e−b2π 2mω for a fractional decrease 
+of 
+ 
+ 
+ 
+A0 −A0e−πb mω
+A0
+= 1−e−π 3 10.6⋅44.0
+(
+) = 1−e−0.020 2 = 1−0.979 98
+= 0.020 0 = 2.00%
+ 
+ 
+(c) 
+The energy is proportional to the square of the amplitude, so 
+its fractional rate of decrease is twice as fast: 
+ 
+ 
+ 
+E = 1
+2 kA2 = 1
+2 kA0
+2e−2bt 2m = E0e−bt m 
+ 
+ 
+We specify 
+ 
+ 
+ 
+0.050 0
+(
+)E0 = E0e−3t 10.6
+0.050 0 = e−3t 10.6
+e+3t 10.6 = 20.0
+3t
+10.6 = ln20.0 = 3.00
+t = 10.6 s
+ 
+P15.48 
+The total energy is E = 1
+2 mv2 + 1
+2 kx2. 
+ 
+Taking the time derivative gives dE
+dt = mv d2x
+dt2 + kxv.
+
+--- PAGE 30 ---
+Chapter 15     821 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, substituting from Equation 15.31, md2x
+dt2
+= −kx −bv, gives 
+ 
+ 
+ 
+dE
+dt = v −kx −bv
+(
+) + kvx 
+ 
+Thus, 
+dE
+dt = −bv2 < 0 
+ 
+We have proved that the mechanical energy of a damped oscillator 
+is always decreasing. 
+P15.49 
+To show that x = Ae−bt 2m cos ωt + φ
+(
+) 
+ 
+is a solution of −kx −b dx
+dt = m d2x
+dt2 
+[1] 
+ 
+where ω =
+k
+m −
+b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ and b
+2 < 4mk so that ω is real,  
+[2] 
+ 
+we take x = Ae−bt 2m cos ωt + φ
+(
+) and compute 
+[3] 
+ 
+ 
+dx
+dt = Ae−bt 2m −b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟cos ωt + φ
+(
+) −Ae−bt 2mω sin ωt + φ
+(
+) 
+[4] 
+ 
+ 
+d2x
+dt2 = −b
+2m Ae−bt 2m −b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟cos ωt + φ
+(
+) −Ae−bt 2mω sin ωt + φ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+−Ae−bt 2m −b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟ω sin ωt + φ
+(
+) + Ae−bt 2mω 2 cos ωt + φ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+[5] 
+ 
+We substitute [3] and [4] into the left side of [1], and [5] into the right 
+side of [1]: 
+ 
+ 
+−kAe−bt 2m cos ωt + φ
+(
+) + b2
+2m Ae−bt 2m cos ωt + φ
+(
+)
+                                               + bωAe−bt 2m sin ωt + φ
+(
+)
+= −b
+2 Ae−bt 2m −b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟cos ωt + φ
+(
+) −Ae−bt 2mω sin ωt + φ
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
++ b
+2 Ae−bt 2mω sin ωt + φ
+(
+) −mω 2Ae−bt 2m cos ωt + φ
+(
+)
+ 
+ 
+We then compare the coefficients of the Ae−bt 2m cos ωt + φ
+(
+) and the 
+Ae−bt 2m sin ωt + φ
+(
+) terms.
+
+--- PAGE 31 ---
+822     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The cosine term is 
+ 
+ 
+−k + b2
+2m = −b
+2 −b
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟−mω 2 = b2
+4m −m
+k
+m −b2
+4m2
+⎛
+⎝⎜
+⎞
+⎠⎟= −k + b2
+2m
+ 
+ 
+and the sine term is  
+ 
+ 
+bω = + b
+2 ω
+( ) + b
+2 ω
+( ) = bω 
+ 
+Since the coefficients are equal, x = Ae−bt 2m cos ωt + φ
+(
+) is a solution of 
+the equation. 
+ 
+ 
+ 
+Section 15.7 
+Forced Oscillations  
+P15.50 
+(a) 
+For resonance, her frequency must match: 
+ 
+f0 = ω0
+2π = 1
+2π
+k
+m = 1
+2π
+7.00 × 102 N m
+12.5 kg
+= 1.19 Hz 
+ 
+(b) From x = A cos ωt, v = dx
+dt = −Aω sin ωt, and 
+a = dv
+dt = −Aω 2 cos ωt, the maximum acceleration is Aω 2. When 
+this becomes equal to the acceleration due to gravity, the normal 
+force exerted on her by the mattress will drop to zero at one point 
+in the cycle: 
+ 
+ 
+ 
+Aω 2 = g   or   A = g
+ω 2 =
+g
+k m = gm
+k      
+ 
+ 
+ 
+A =
+9.80 m s2
+(
+) 12.5 kg
+(
+)
+7.00 × 102 N m
+= 17.5 cm 
+P15.51 
+The pendulum is resonating with the beeper. The beeper must vibrate 
+at the frequency of a simple pendulum of frequency 1.50 Hz: 
+ 
+ 
+ 
+ω = 2π f =
+g
+L →L =
+g
+2π f
+(
+)
+2 =
+9.80 m/s2
+2π 1.50 Hz
+(
+)
+[
+]
+2
+                                = 0.110 m = 11.0 cm
+
+--- PAGE 32 ---
+Chapter 15     823 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.52 
+From the equation for the amplitude of a driven oscillator with no 
+damping, 
+ 
+ 
+A =
+F0 m
+ω 2 −ω 0
+2
+(
+)
+2 =
+F0 m
+ω 2 −ω 0
+2
+ 
+ 
+which gives 
+ 
+ 
+F0 = mA ω 2 −ω 0
+2
+(
+) 
+ 
+The driving frequency is 
+ 
+ 
+ω 2 = 2π f
+(
+)
+2 = 2π 10.0 s−1
+(
+)
+⎡⎣
+⎤⎦
+2 = 3.95 × 103 s−2 
+ 
+and the natural frequency of the oscillator is 
+ 
+ 
+ω 0
+2 = k
+m =
+200 N/m
+40.0 N/9.80 m/s2 = 49.0 s−2 
+ 
+Substituting gives us a driving force of  
+ 
+ 
+F0 =
+40.0 N
+9.80 m/s2
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 × 10−2 m
+(
+) 3.95 × 103 s−2 −49.0 s−2
+(
+)
+= 318 N
+ 
+P15.53 
+We are given F = 3.00 sin (2π t), k = 20.0 N/m, and m = 2.00 kg. 
+ 
+(a) 
+ω0 =
+k
+m =
+20.0 N/m
+2.00 kg
+= 3.16 s−1 
+ 
+(b) From F = 3.00 sin (2π t), the angular frequency of the force is  
+ 
+ 
+ 
+ω = 2π = 6.28 s−1 
+ 
+(c) 
+From equation 15.36, the amplitude A of a driven oscillator, with 
+b = 0, gives 
+ 
+ 
+ 
+A = F0 /m
+ω 2 −ω 0
+2 = 3.00 N/m
+(
+)
+2.00 kg
+(
+)
+6.28 s−1
+(
+)
+2 −3.16 s−1
+(
+)
+2 = 0.050 9 m = 5.09 cm
+ 
+P15.54 
+We start with Equation 15.34, F0 sin ωt −kx = m d2x
+dt2 
+[1] 
+ 
+Equation 15.35 gives the solution to this equation as 
+ 
+ 
+ 
+x = A cos ωt + φ
+(
+) 
+[2]
+
+--- PAGE 33 ---
+824     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+differentiating, 
+ 
+ 
+ 
+dx
+dt = −Aω sin ωt + φ
+(
+) 
+[3] 
+ 
+and differentiating again, 
+ 
+ 
+ 
+d2x
+dt2 = −Aω 2 cos ωt + φ
+(
+) 
+[4] 
+ 
+Substituting [2] and [4] into [1]:  
+ 
+ 
+ 
+F0 sin ωt −kA cos ωt +φ
+(
+) = m −Aω 2
+(
+) cos ωt +φ
+(
+)  
+ 
+Solving for the amplitude:  
+ 
+ 
+ 
+kA −mAω 2
+(
+) cos ωt + φ
+(
+) = F0 sinωt = −F0 cos ωt + 90°
+(
+)  
+ 
+These will be equal, provided only that φ must be +90º and  
+ 
+ 
+ 
+kA −mAω 2 = −F0 
+ 
+Thus, A =
+F0/m
+ω 2 −ω0
+2 ,    where ω0 =
+k
+m. 
+P15.55 
+We use the equation for the amplitude of forced oscillations,  
+ 
+ 
+ 
+A =
+Fext m
+ω 2 −ω0
+2
+(
+)
+2 + bω m
+(
+)
+2 
+ 
+With b = 0,  
+ 
+ 
+ 
+A =
+Fext m
+ω 2 −ω0
+2
+(
+)
+2 =
+Fext m
+± ω 2 −ω0
+2
+(
+)
+= ± Fext m
+ω 2 −ω0
+2 
+ 
+Thus, 
+ 
+ 
+ 
+ω 2 = ω 0
+2 ± Fext m
+A
+= k
+m ± Fext
+mA
+= 6.30 N m
+0.150 kg ±
+1.70 N
+0.150 kg
+(
+) 0.440 m
+(
+)
+ 
+ 
+This yields ω = 8.23 rad s or ω = 4.03 rad/s. Then, 
+ 
+ 
+f = ω
+2π
+ gives either f = 1.31 Hz   or   f = 0.641 Hz
+
+--- PAGE 34 ---
+Chapter 15     825 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P15.56 
+Deuterium is the isotope of the element hydrogen with atoms having 
+nuclei consisting of one proton and one neutron. For brevity we refer 
+to the molecule formed by two deuterium atoms as D and to the 
+diatomic molecule of hydrogen-1 as H, with MD = 2MH .  
+ 
+ 
+ 
+ωD
+ω H
+=
+k MD
+k MH
+=
+MH
+MD
+=
+1
+2
+     
+ 
+ 
+ 
+fD = fH
+2
+= 1.30 × 1014 Hz
+2
+= 0.919 × 1014 Hz
+ 
+P15.57 
+From a = – ω
+ 2x, the maximum acceleration is given by amax = ω
+ 2A. Then 
+108 cm/s
+2 = ω
+ 2 (12.0 cm), giving ω = 3.00 rad/s. 
+ 
+(a) 
+T = 1/f = 2π/ω = 2π/ 3.00 s−1
+(
+) = 2.09 s 
+ 
+(b) 
+f = ω/2π = 3.00 s−1
+(
+)/2π = 0.477 Hz 
+ 
+(c) 
+vmax = ωA = 3 s−1
+(
+) 12.0 cm
+(
+) = 36.0 cm/s 
+ 
+(d) 
+E = 1
+2 mvmax
+2
+= 1
+2 m 0.360 m/s
+(
+)
+2
+= 0.064 8m, where E is in joules and m is in kg
+ 
+ 
+(e) 
+From ω 2 = k
+m , we obtain 
+ 
+ 
+ 
+k = ω 2m = 3.00 s−1
+(
+)
+2 m
+= 9.00m, where k is in newtons/meter and m is in kg
+   
+ 
+(f) 
+Period, frequency, and maximum speed are all independent of
+mass in this situation. The energy and the force constant are
+directly proportional to mass.
+ 
+P15.58 
+(a) 
+Consider the first process of spring compression. It continues as 
+long as glider 1 is moving faster than glider 2. The spring 
+instantaneously has maximum compression when both gliders 
+are moving with the same speed va. 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P15.58(a)
+
+--- PAGE 35 ---
+826     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.59 
+ 
+ 
+Momentum conservation then gives 
+ 
+ 
+ 
+m1v1i + m2v2i = m1v1 f + m2v2 f
+0.240 kg
+(
+) 0.740 m/s
+(
+) + 0.360 kg
+(
+) 0.12 m/s
+(
+)
+                                       = 0.240 kg
+(
+)va + 0.360 kg
+(
+)va
+ 
+ 
+ 
+ 
+0.220 8 kg ⋅m/s
+0.600 kg
+= va
+va = 0.368 m/s
+ 
+ 
+(b) From energy conservation, we have 
+ 
+ 
+ 
+K1 + K2 +Us
+(
+)i = K1 + K2 +Us
+(
+) f
+1
+2 m1v1i
+2 + 1
+2 m2v2i
+2 + 0 = 1
+2 m1 + m2
+(
+)va
+2 + 1
+2 kx2
+ 
+ 
+ 
+ 
+1
+2 0.240 kg
+(
+) 0.740 m/s
+(
+)
+2 + 1
+2 0.360 kg
+(
+) 0.120 m/s
+(
+)
+2
+= 1
+2 0.600 kg
+(
+) 0.368 m/s
+(
+)
+2 + 1
+2 45.0 N/m
+(
+)x2
+0.068 3 J = 0.040 6 J + 1
+2 45.0 N/m
+(
+)x2
+x =
+2 0.027 7 J
+(
+)
+45.0 N/m
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 0.035 1 m = 3.51 cm
+ 
+ 
+(c) 
+1
+2 mtotvCM
+2
+= 1
+2 0.600 kg
+(
+) 0.368 m/s
+(
+)
+2 = 0.040 6 J =
+40.6 mJ 
+ 
+(d) 
+1
+2 kx2 = 1
+2 45.0 N/m
+(
+) 0.0351 m
+(
+)
+2 = 0.027 7 J = 27.7 mJ 
+P15.59 
+Let F represent the tension in the rod. 
+ 
+(a) 
+At the pivot,  
+ 
+ 
+ 
+F = Mg + Mg = 2Mg 
+ 
+(b) A fraction of the rod’s weight 
+Mg y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ as well as the weight of the 
+ball pulls down on point P. Thus, the 
+tension in the rod at point P is 
+ 
+ 
+ 
+F = Mg y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟+ Mg =
+Mg 1+ y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 36 ---
+Chapter 15     827 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Relative to the pivot, I = Irod + Iball = 1
+3 ML2 + ML2 = 4
+3 ML2. 
+ 
+ 
+For the physical pendulum, T = 2π
+I
+mgd , where m = 2M and d is 
+the distance from the pivot to the center of mass of the rod and 
+ball combination. Therefore, 
+ 
+ 
+ 
+d = M L 2
+(
+) + ML
+M + M
+= 3L
+4
+    
+ 
+ 
+ and T = 2π
+(4 3)ML2
+2M
+(
+)g 3L 4
+(
+)
+=
+4π
+3
+2L
+g
+. 
+ 
+(d) For L = 2.00 m, T = 4π
+3
+2 2.00 m
+(
+)
+9.80 m s2 = 2.68 s . 
+P15.60 
+(a) 
+From a = –ω
+ 2x, the maximum acceleration is given by amax = ω
+ 2A. 
+As A increases, the maximum acceleration increases. When it 
+becomes greater than the free-fall acceleration, the rock will no 
+longer stay in contact with the vibrating ground, but lag behind 
+as the ground moves down with greater acceleration. We have 
+then 
+ 
+ 
+ 
+A = g
+ω 2 =
+g
+2π f
+(
+)
+2 =
+9.80 m/s2
+2π 2.40 s−1
+(
+)
+⎡⎣
+⎤⎦
+2 = 4.31 cm
+ 
+ 
+(b) 
+When the rock is on the point of lifting off, the surrounding
+water is also barely in free fall. No pressure gradient exists 
+in the water, so no buoyant force acts on the rock. The effect
+of the surrounding water disappears at that instant.
+ 
+*P15.61 
+For the resonance vibration with the occupants in the car, we have for 
+the spring constant of the suspension: 
+ 
+ 
+ 
+f = 1
+2π
+k
+m
+ 
+ 
+ 
+ 
+k = 4π 2 f 2m = 4π 2 1.80 s−1
+(
+)
+2 1 130 kg + 4 72.4 kg
+(
+)
+[
+]
+= 1.82 × 105 kg/s2
+
+--- PAGE 37 ---
+828     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+θ max
+stride length 
+ 
+Now as the occupants exit, 
+ 
+ 
+ 
+x = F
+k = 4 72.4 kg
+(
+) 9.8 m/s2
+(
+)
+1.82 × 105 kg/s2
+= 1.56 × 10−2 m
+ 
+*P15.62 
+(a) 
+The period of the swinging rod is 
+ 
+ 
+ 
+T = 2π
+I
+mgd = 2π
+1 3
+(
+)m2
+mg2
+= 2π
+2
+3g
+ 
+ 
+ 
+The time for one half a cycle is T
+2 = π
+2
+3g . 
+The distance traveled in this time is the stride length 2sin θmax, 
+so the speed is 
+ 
+ 
+ 
+d
+t = 2sin θmax
+π
+23g =
+23g sin θmax
+π
+=
+6gsin θmax
+π
+ 
+  
+(b) We use the more precise expression 
+ 
+ 
+ 
+6gcos θmax 2
+(
+) sin θmax
+π
+                       =
+6 9.80 m/s2
+(
+) 0.850 m
+(
+) cos 14.0° sin 28.0°
+π
+                       = 1.04 m/s
+ 
+  
+(c) 
+With 
+ 
+ 
+ 
+vold =
+6gold cos θmax 2
+(
+) sin θmax
+π
+vnew =
+6gnew cos θmax 2
+(
+) sin θmax
+π
+ 
+ 
+ 
+dividing gives 
+ 
+ 
+ 
+vnew
+vold
+=
+new
+old
+= 2
+new
+0.850 m = 22
+new = 3.40 m
+ 
+ 
+ANS. FIG. P15.62
+
+--- PAGE 38 ---
+Chapter 15     829 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P15.63 
+From T = 2π
+L
+g , the length of a pendulum with period T is L = gT 2
+4π 2 . 
+ 
+(a) 
+On Earth, with T = 1.0 s,  
+ 
+ 
+ 
+L = gT 2
+4π 2 = 9.8 m/s2
+(
+) 1.0 s
+(
+)
+2
+4π 2
+= 0.25 m = 25 cm
+ 
+ 
+(b) If T = 1.0 s on Mars, then 
+ 
+ 
+ 
+L = gMarsT 2
+4π 2
+= 3.7 m/s2
+(
+) 1.0 s
+(
+)
+2
+4π 2
+= 0.094 m = 9.4 cm
+ 
+ 
+(c) and (d) 
+The period of an object on a spring is T = 2π
+m
+k , which 
+is independent of the local free-fall acceleration. Thus, the same 
+mass will work on Earth and on Mars. This mass is 
+ 
+ 
+ 
+ 
+m = kT 2
+4π 2 = 10 N/m
+(
+) 1.0 s
+(
+)
+2
+4π 2
+= 0.25 kg
+  
+P15.64 
+(a) 
+The amplitude is the magnitude of the maximum displacement 
+from equilibrium (at x = 0). Thus, A = 2.00 cm . 
+ 
+(b) The period is the time for one full cycle of the motion. Therefore, 
+T = 4.00 s . 
+ 
+(c) 
+The angular frequency is ω = 2π
+T =
+2π
+4.00 s = π
+2 rad s . 
+ 
+ANS. FIG. P15.64 
+ 
+(d) The maximum speed is  
+ 
+ 
+ 
+vmax = ωA =
+π
+2 rad s
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 cm
+(
+) = π cm s
+
+--- PAGE 39 ---
+830     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+The maximum acceleration is 
+ 
+ 
+ 
+amax = ω 2A =
+π
+2 rad s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2.00 cm
+(
+) = 4.93 cm s2 
+ 
+(f) 
+The general equation for position as a function of time for an 
+object undergoing simple harmonic motion with x = 0 when t = 0 
+and x increasing positively is x = Asinωt. For this oscillator, this 
+becomes 
+ 
+ 
+x = 2.00sin π
+2 t
+⎛
+⎝⎜
+⎞
+⎠⎟, where x is in centimeters and t in seconds. 
+P15.65 
+The maximum acceleration of the oscillating 
+system is amax = Aω 2 = 4π 2Af 2. The friction 
+force exerted between the two blocks must be 
+capable of accelerating Block B at this rate. 
+Thus, if Block B is about to slip, 
+ 
+ 
+ 
+f = fmax = µsn = µsmg
+= m 4π 2Af 2
+(
+)
+ 
+ 
+which gives a maximum amplitude of 
+oscillation of  
+ 
+ 
+ 
+A =
+µsg
+4π 2 f 2 = 0.600
+(
+)(980 cm/s2)
+4π 2(1.50 s−1)2
+= 6.62 cm
+ 
+P15.66 
+Refer to ANS. FIG. P15.65. The maximum acceleration of the oscillating 
+system is amax = Aω 2 = 4π 2Af 2. The friction force exerted between the 
+two blocks must be capable of accelerating Block B at this rate. Thus, if 
+Block B is about to slip, 
+ 
+ 
+ 
+f = fmax = µsn = µsmg = m 4π 2Af 2
+(
+)  
+ 
+which gives a maximum amplitude of oscillation of  
+ 
+ 
+ 
+A =
+µsg
+4π 2 f 2
+ 
+ANS. FIG. P15.65
+
+--- PAGE 40 ---
+Chapter 15     831 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.67 
+P15.67 
+We draw a free-body diagram of the 
+pendulum in ANS. FIG. P15.67. The 
+force 
+
+H exerted by the hinge causes 
+no torque about the axis of rotation. 
+ 
+ 
+ 
+τ = Iα  and d2θ
+dt2 = −α 
+ 
+ 
+ 
+τ = MgL sin θ + kxh cos θ
+= −I d2θ
+dt2
+ 
+ 
+For small-amplitude vibrations, use the approximations: sin θ ≈θ, 
+cos θ ≈1, and x ≈s = hθ. 
+ 
+Therefore, 
+ 
+ 
+ 
+d2θ
+dt2 = −MgL + kh2
+I
+⎛
+⎝⎜
+⎞
+⎠⎟θ = −ω 2θ
+ω =
+MgL + kh2
+ML2
+= 2π f
+f =
+1
+2πL
+gL + kh2
+M
+ 
+P15.68 
+(a) 
+When the mass is displaced a 
+distance x from equilibrium, 
+spring 1 is stretched a distance x1 
+and spring 2 is stretched a 
+distance x2. 
+ 
+ 
+By Newton’s third law, we expect 
+ 
+ 
+ 
+k1x1 = k2x2 
+ 
+ 
+When this is combined with the 
+requirement that 
+ 
+ 
+ 
+x = x1 + x2 
+ 
+ 
+we find x1 =
+k2
+k1 + k2
+⎡
+⎣⎢
+⎤
+⎦⎥x. 
+ 
+ 
+The force on either spring is given by F1 =
+k1k2
+k1 + k2
+⎡
+⎣⎢
+⎤
+⎦⎥x = ma 
+ 
+ 
+where a is the acceleration of the mass m. 
+ANS. FIG. P15.68
+
+--- PAGE 41 ---
+832     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This is in the form F = keffx = ma 
+ 
+ 
+and T = 2π
+m
+keff
+= 2π
+m k1 + k2
+(
+)
+k1k2
+. 
+ 
+(b) In this case each spring is distorted by the distance x which the 
+mass is displaced. Therefore, the restoring force is 
+ 
+  
+ 
+F = −k1 + k2
+(
+)x 
+and 
+keff = k1 + k2 
+ 
+ 
+so that T = 2π
+m
+k1 + k2
+. 
+P15.69 
+At equilibrium, we have 
+ 
+ 
+ 
+τ
+∑
+= 0 −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ kx0L
+ 
+ 
+where x0 is the equilibrium compression. 
+ 
+After displacement by a small angle (we  
+assume cos θ ≈ 1), 
+ 
+τ
+∑
+= −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ kxL = −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ k x0 −Lθ
+(
+)L = −kθL2 
+ 
+But, 
+ 
+ 
+ 
+τ
+∑
+= Iα = 1
+3 mL2 d2θ
+dt2
+ 
+ 
+so 
+ 
+d2θ
+dt2 = −3k
+m θ 
+ 
+Comparing this result to the general form for simple harmonic motion 
+in which the angular acceleration is opposite in direction and 
+proportional to the displacement, 
+ 
+ 
+ 
+d2θ
+dt2 = −ω 2θ 
+ 
+we find that 
+ 
+ 
+ 
+ω 2 = 3k
+m →ω =
+3k
+m =
+3 100 N/m
+(
+)
+5.00 kg
+= 7.75 s−1
+ 
+ANS. FIG. P15.69
+
+--- PAGE 42 ---
+Chapter 15     833 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.70 
+Please refer to ANS. FIG. P15.69.  At equilibrium, we have 
+ 
+ 
+ 
+τ
+∑
+= 0 −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ kx0L
+ 
+ 
+where x0 is the equilibrium compression. 
+ 
+After displacement by a small angle (we assume cos θ ≈ 1), 
+ 
+τ
+∑
+= −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ kxL = −mg L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ k x0 −Lθ
+(
+)L = −kθL2 
+ 
+But, 
+ 
+ 
+ 
+τ
+∑
+= Iα = 1
+3 mL2 d2θ
+dt2
+ 
+ 
+Comparing this result to the general form for simple harmonic motion 
+in which the angular acceleration is opposite in direction and 
+proportional to the displacement, 
+ 
+ 
+ 
+d2θ
+dt2 = −ω 2θ
+ 
+ 
+we find that 
+ 
+ 
+ 
+ω 2 = 3k
+m →ω =
+3k
+m 
+P15.71 
+As it passes through equilibrium, the 4.00-kg object has speed 
+ 
+ 
+ 
+vmax = ωA =
+k
+mA =
+100 N m
+4.00 kg
+2.00 m
+(
+) = 10.0 m s
+ 
+ 
+In the completely inelastic collision, momentum of the two-object 
+system is conserved. So the new 10.0-kg object starts its oscillation with 
+a new maximum speed given by 
+ 
+ 
+ 
+4.00 kg
+(
+) 10.0 m s
+(
+) + 6.00 kg
+(
+)0 = 10.0 kg
+(
+)vmax
+vmax = 4.00 m s
+ 
+ 
+(a) 
+The system consisting of the two objects, the spring, and the 
+Earth, is isolated, so mechanical energy is conserved. The new 
+amplitude is given by 
+ 
+ 
+ 
+1
+2 mvmax
+2
+= 1
+2 kA2 
+ 
+ 
+ 
+10.0 kg
+(
+) 4.00 m s
+(
+)
+2 = 100 N m
+(
+)A2
+A = 1.26 m
+
+--- PAGE 43 ---
+834     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.72 
+ 
+(b) The old period was T = 2π
+m
+k = 2π
+4.00 kg
+100 N/m = 1.26 s. 
+ 
+ 
+The new period is T = 2π
+10
+100 s2 = 1.99 s. 
+ 
+ 
+The period of the system has changed by a factor of  
+ 
+ 
+ 
+fnew
+fold
+= 1.99 s
+1.26 s = 1.58 
+ 
+(c) 
+The old energy was 1
+2 mvmax
+2
+= 1
+2 4.00 kg
+(
+) 10.0 m s
+(
+)
+2 = 200 J. 
+ 
+ 
+The new mechanical energy is 1
+2 10.0 kg
+(
+) 4.00 m/s
+(
+)
+2 = 80.0 J. 
+ 
+ 
+The energy has decreased by 120 J . 
+ 
+(d) 
+Mechanical energy is transformed into internal energy in the
+perfectly inelastic collision.
+ 
+P15.72 
+(a) 
+
+F
+∑
+= −2T sinθ ˆj 
+ 
+ 
+ 
+where θ = tan−1 y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+Therefore, for a small displacement, 
+ 
+ 
+sinθ ≈tanθ = y
+L 
+and 
+
+F
+∑
+= −2Ty
+L
+ˆj 
+ 
+(b) The total force exerted on the ball is opposite in direction and 
+proportional to its displacement from equilibrium, so the ball 
+moves with simple harmonic motion. For a spring system, 
+ 
+ 
+ 
+
+F
+∑
+= −kx    becomes here    
+
+F
+∑
+= −2T
+L
+y. 
+ 
+ 
+Therefore, the effective spring constant is 2T
+L and     
+ 
+ 
+ 
+ω =
+k
+m =
+2T
+mL
+
+--- PAGE 44 ---
+Chapter 15     835 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.73 
+One can write the following equations of motion: 
+ 
+ 
+ 
+T −kx = 0 
+(describes the spring) 
+ 
+ 
+ 
+mg −
+′
+T = ma = m d2x
+dt2 
+ 
+ 
+ 
+ 
+ 
+(for the hanging object) 
+ 
+ 
+ 
+R
+′
+T −T
+(
+) = I d2θ
+dt2 = I
+R
+d2x
+dt2  
+ 
+ 
+ 
+ 
+(for the pulley) 
+ 
+with I = 1
+2 MR2. 
+ 
+Combining these equations gives the equation of motion: 
+ 
+ 
+ 
+m + 1
+2 M
+⎛
+⎝⎜
+⎞
+⎠⎟
+d2x
+dt2 + kx = mg 
+ 
+The solution is x t( ) = A sin ωt + mg
+k (where mg
+k arises because of the 
+extension of the spring due to the weight of the hanging object), with 
+angular frequency  
+ 
+ 
+ 
+ω =
+k
+m+ 1
+2 M
+=
+2k
+2m+ M
+ 
+ 
+(a) 
+For k = 100 N/m and m = 0.200 kg,  
+ 
+ 
+ 
+ω =
+200
+0.400 + M , where ω is in s−1and M is in kilograms.  
+ 
+(b) The highest possible value occurs when M = 0: ω = 22.4 s−1 . 
+ 
+(c) 
+The angular frequency is independent of the radius of the pulley: 
+ω = 22.4 s−1 
+P15.74 
+Suppose a 100-kg biker compresses the suspension 2.00 cm. 
+ 
+Then, 
+ 
+ 
+ 
+k = F
+x =
+980 N
+2.00 × 10−2 m = 4.90 × 104 N m 
+ANS. FIG. P15.73
+
+--- PAGE 45 ---
+836     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+If total mass of motorcycle and biker is 500 kg, the frequency of free 
+vibration is 
+ 
+ 
+ 
+f = 1
+2π
+k
+m = 1
+2π
+4.90 × 104 N m
+500 kg
+= 1.58 Hz 
+ 
+If he encounters washboard bumps at the same frequency as the free
+vibration, resonance will make the motorcycle bounce a lot. It may
+bounce so much as to interfere with the rider’s control of the machine.
+ 
+ 
+Assuming a speed of 20.0 m/s, we find these ridges are separated by 
+ 
+ 
+ 
+20.0 m/s
+1.58 s−1 = 12.7 m ~ 101 m
+ 
+ 
+In addition to this vibration mode of bouncing up and down as one 
+unit, the motorcycle can also vibrate at higher frequencies by rocking 
+back and forth between front and rear wheels, by having just the front 
+wheel bounce inside its fork, or by doing other things. Other spacing of 
+bumps will excite all of these other resonances. 
+P15.75 
+(a) 
+T = 2π
+ω = 2π
+L
+g = 2π
+2.23 m
+9.80 m/s2 = 3.00 s 
+ 
+(b) 
+E = 1
+2 mv2 = 1
+2 6.74 kg
+(
+) 2.06 m/s
+(
+)
+2 = 14.3 J 
+ 
+(c) 
+For a system of an isolated pendulum-Earth, mechanical energy is 
+conserved. Relate the pendulum bob at the lowest point to the 
+highest point: 
+ 
+ 
+ 
+ΔK + ΔUg = 0
+0 −1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟+ mgh −0
+(
+) = 0
+mgh = 1
+2 mv2
+h = v2
+2g = (2.06 m/s)2
+2(9.80 m/s2) = 0.217 m
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+h = L −L cos θ = L 1−cos θ
+(
+)
+cos θ = 1−h
+L = 1−0.217 m
+2.23 m
+θ = 25.5°
+
+--- PAGE 46 ---
+Chapter 15     837 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.76 
+(a) 
+The graph of Mg versus x is shown in ANS. FIG. P15.76(a). 
+ 
+ANS. FIG. P15.76(a) 
+ 
+(b) Assuming a Hooke’s Law type spring, F = Mg = kx, and 
+empirically 
+ 
+ 
+ 
+Mg = 1.74x −0.113 
+ 
+ 
+so 
+k = 1.74 N m ± 6%  
+ 
+ 
+(c) 
+ 
+M, kg 
+x, m 
+Mg, N 
+0.020 0 
+0.17 
+0.196 
+0.040 0 
+0.293 
+0.392 
+0.050 0 
+0.353 
+0.49 
+0.060 0 
+0.413 
+0.588 
+0.070 0 
+0.471 
+0.686 
+0.080 0 
+0.493 
+0.784
+
+--- PAGE 47 ---
+838     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d)  
+Time, s 
+T, s 
+M, kg 
+T
+2, s
+2 
+  7.03 
+0.703 
+0.020 0 
+0.494 
+  9.62 
+0.962 
+0.040 0 
+0.925 
+10.67 
+1.067 
+0.050 0 
+1.138 
+11.67 
+1.167 
+0.060 0 
+1.362 
+12.52 
+1.252 
+0.070 0 
+1.568 
+13.41 
+1.341 
+0.080 0 
+1.798 
+ 
+(e) 
+The graph of T
+2 versus M is shown in ANS. FIG. P15.76(e). 
+ 
+ANS. FIG. P15.76(e) 
+ 
+(f) 
+We may write the equation as theoretically 
+ 
+ 
+ 
+T 2 = 4π 2
+k
+M + 4π 2
+3k ms 
+ 
+ 
+and empirically 
+ 
+ 
+ 
+T
+2 = 21.7 M + 0.058 9 
+ 
+ 
+so 
+ 
+ 
+ 
+k = 4π 2
+21.7 = 1.82 N m ± 3% 
+ 
+(g) The k values 1.74 N m ± 6% 
+ 
+ 
+and 1.82 N m ± 3% differ by 4% so they agree .
+
+--- PAGE 48 ---
+Chapter 15     839 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(h) Utilizing the axis-crossing point,  
+ 
+ 
+ 
+ms = 3 0.0589
+21.7
+⎛
+⎝⎜
+⎞
+⎠⎟ kg = 8 grams ± 12%
+ 
+ 
+ 
+in agreement with 7.4 grams. 
+P15.77 
+The free-body diagram in ANS. FIG. P15.77 shows the forces acting on 
+the balloon when it is displaced distance s = Lθ along the circular arc it 
+follows. The net force tangential to this path is 
+ 
+ 
+ 
+Fnet =
+Fx
+∑
+= −Bsinθ + mgsinθ = −B−mg
+(
+)sinθ 
+ 
+For small angles, sinθ ≈θ = s/L 
+ 
+Also, mg = ρHeV
+(
+)g 
+ 
+and the buoyant force is B = ρairV
+(
+)g. Thus, the net restoring force 
+acting on the balloon is 
+ 
+ 
+ 
+Fnet ≈−
+ρair −ρHe
+(
+)Vg
+L
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥s 
+ 
+ANS. FIG. P15.77 
+ 
+Observe that this is in the form of Hooke’s law, F = −k s, with  
+ 
+ 
+ 
+k = ρair −ρHe
+(
+)Vg L 
+ 
+Thus, the motion will be simple harmonic and the period is given by 
+ 
+ 
+ 
+T = 1
+f = 2π
+ω = 2π
+m
+k = 2π
+ρHeV
+ρair −ρHe
+(
+)Vg L
+= 2π
+ρHe
+ρair −ρHe
+⎛
+⎝⎜
+⎞
+⎠⎟
+L
+g
+
+--- PAGE 49 ---
+840     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+This yields 
+ 
+ 
+ 
+T = 2π
+0.179 kg/m3 
+1.20 kg/m3 −0.179 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+3.00 m
+(
+)
+9.80 m s2
+(
+)
+= 1.46 s
+ 
+P15.78 
+(a) 
+We require   Ae−bt 2m = A
+2   →   e+bt 2m = 2,  
+ 
+ 
+or    bt
+2m = ln2 
+ 
+ 
+ 
+or 
+0.100 kg s
+2 0.375 kg
+(
+)
+t = 0.693 
+ 
+ 
+which gives t = 5.20 s .  
+ 
+ 
+The spring constant is irrelevant. 
+ 
+(b) We can evaluate the energy at successive turning points, where 
+ 
+cos ωt + φ
+(
+) = ±1 and the energy is 1
+2 kx2 = 1
+2 kA2e−bt m. 
+ 
+ 
+We require 1
+2 kA2e−bt m = 1
+2
+1
+2 kA2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or 
+e+bt m = 2 
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+t = m ln2
+(
+)
+b
+= 0.375 kg
+(
+) 0.693
+(
+)
+0.100 kg/s
+= 2.60 s
+ 
+ 
+(c) 
+From E = 1
+2 kA2, the fractional rate of change of energy over time 
+is 
+ 
+ 
+ 
+dE dt
+E
+=
+(d dt) 1
+2 kA2
+⎛
+⎝
+⎞
+⎠
+1
+2 kA2
+=
+1
+2 k 2A
+(
+)(dA dt)
+1
+2 kA2
+= 2 dA dt
+A
+ 
+ 
+ 
+which gives   dA dt
+A
+= 1
+2
+dE dt
+E
+. 
+ 
+ 
+which is twice as fast as the fractional rate of change in 
+amplitude.
+
+--- PAGE 50 ---
+Chapter 15     841 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.79  
+(a) 
+x = A cos ωt + φ
+(
+)
+→v = −ωA sin ωt + φ
+(
+) 
+ 
+ 
+We have at, t = 0, v = −ωA sin φ = −vmax. 
+ 
+ 
+This requires φ = 90°, so x = A cos ωt + 90°
+(
+)  
+ 
+ 
+→x = A cos ωt + π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟.
+ 
+ 
+ 
+Numerically we have 
+ω =
+k
+m =
+50.0 N m
+0.500 kg = 10.0 s−1 
+ 
+ 
+and vmax = ωA →20.0 m s = 10.0 s−1
+(
+)A →A = 2.00 m. 
+ 
+ 
+So x = 2 cos 10t + π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟, where x is in meters and t in seconds. 
+ 
+(b) Using 1
+2 mv2 + 1
+2 kx2 = 1
+2 kA2, we require 1
+2 kx2 = 3 1
+2 mv2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+which implies 1
+3
+1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 1
+2 kx2 = 1
+2 kA2 →4
+3 x2 = A2 
+ 
+ 
+which gives 
+x = ±
+3
+4A = ±0.866(2.00 m) = ±1.73 m 
+ 
+(c) 
+The particle’s position is given by x = 2 cos 10t + π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ 
+The particle is at x = 0 when  
+ 
+ 
+ 
+10t + π
+2 = π
+2 , 3π
+2 , 5π
+2 , ... → 10t = 0, π, 2π, 4π... 
+ 
+ 
+At t = 0, the particle is at the origin, but moving to the left. The 
+next time the particle is at the origin is when 10t = π when it is 
+moving to the right. 
+ 
+ 
+The particle is first at x = 1.00 m when 10t + π
+2 = 3π
+2 + π
+3 = 11π
+6 . 
+ 
+ 
+So then, 10t = 4π
+3 . 
+ 
+ 
+The minimum time required for the particle to move from x = 0 
+to x = 1.00 m is 
+ 
+ 
+ 
+10Δt = 4π
+3 −π = π
+3 →Δt = π
+30 = 0.105 s = 105 ms
+
+--- PAGE 51 ---
+842     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) ω =
+g
+L →L = g
+ω 2 = 9.80 m/s2
+10 s−1
+(
+)
+2
+= 0.098 0 m 
+P15.80 
+(a) 
+The block moves with the board in what we take as the positive x 
+direction, stretching the spring until the spring force –kx is equal 
+in magnitude to the maximum force of static friction: 
+ 
+ 
+ 
+ 
+kx = µsn = µsmg  
+ 
+ 
+This occurs at x = µsmg
+k
+. 
+ 
+(b) Since v is small, the block is nearly at the rest at this break point. It 
+starts almost immediately to move back to the left, the forces on it 
+being –kx and +µkmg. While it is sliding the net force exerted on 
+it can be written as 
+ 
+ 
+ 
+ 
+Fnet = −kx + µkmg = −kx + kµkmg
+k
+= −k x −µkmg
+k
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −kxrel
+ 
+ 
+ 
+where xrel is the excursion of the block away from the point µkmg
+k
+. 
+ 
+ 
+Conclusion: the block goes into simple harmonic motion centered 
+about the equilibrium position where the spring is stretched by 
+µkmg
+k
+.
+ 
+ 
+(c) 
+The graph of the motion looks as shown in ANS. FIG. P15.80(c): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANS. FIG. P15.80(c) 
+ 
+(d) The amplitude of its motion is its original displacement, 
+A = µsmg
+k
+−µkmg
+k
+,  because the block has been pulled out to 
+x = µsmg
+k
+, then it goes into simple harmonic motion centered 
+about x = µkmg
+k
+.
+
+--- PAGE 52 ---
+Chapter 15     843 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+It first comes to rest at spring extension µkmg
+k
+−A = 2µk −µs
+(
+)mg
+k
+.  
+ 
+ 
+Almost immediately at this point it latches onto the slowly-
+moving board to move with the board. The board exerts a force of 
+static friction on the block, and the cycle continues. 
+ 
+(e) 
+The time during each cycle when the block is moving with the 
+board is 2A
+v = 2 µs −µk
+(
+)mg
+kv
+. The time for which the block is 
+springing back is one half a cycle of simple harmonic motion, 
+1
+2 2π
+m
+k = π
+m
+k
+⎛
+⎝⎜
+⎞
+⎠⎟ (because the block slides from +A to –A 
+during its SHM). We ignore the times at the end points of the 
+motion when the speed of the block changes from v to 0 and from 
+0 to v. Since v is small compared to 
+2A
+π
+m/ k
+, these times are 
+negligible. Then the period is 
+ 
+ 
+ 
+ 
+T = 2 µs −µk
+(
+)mg
+kv
++ π
+m
+k
+ 
+P15.81 
+(a) 
+Let  represent the length below water at equilibrium and M the 
+tube’s mass: 
+ 
+ 
+ 
+Fy
+∑
+= 0 ⇒−Mg + ρπ r2g = 0 
+ 
+ 
+Now with any excursion x from equilibrium 
+ 
+ 
+ 
+−Mg + ρπ r2 −x
+(
+)g = Ma 
+ 
+ 
+Subtracting the equilibrium equation gives 
+ 
+ 
+ 
+−ρπ r2gx = Ma →a = −ρπ r2g
+M
+⎛
+⎝⎜
+⎞
+⎠⎟x 
+ 
+ 
+The opposite direction and direct proportionality of a to x
+imply SHM.
+ 
+ 
+(b) For SHM, F = −kx = ma →a = −(k/m)x = −ω 2x: the coefficient of x 
+is the square of the angular frequency: 
+ 
+ 
+ 
+ω =
+ρπ r2g
+M
+→T = 2π
+ω =
+2
+r
+πM
+ρg
+
+--- PAGE 53 ---
+844     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.82 
+From the oscillator information, find the natural frequency of the 
+oscillator: 
+ 
+ 
+ 
+ω0 = 
+k
+m  =  10.0 N/m
+0.001 kg  = 100 s−1 
+ 
+From the measurement information, find the value of b/2m: 
+ 
+ 
+ 
+xmax 23.1 ms
+(
+)
+xmax 0( )
+ = 0.250 =  Ae−b/2m
+(
+) 0.023 1 s
+(
+)
+A e0
+( )
+ = e−b/2m
+(
+) 0.023 1 s
+(
+) 
+ 
+Solving, 
+ 
+ 
+ 
+b
+2m = − ln 0.250
+(
+)
+0.0231 s  = 60.0 s−1 
+ 
+If the damping constant is doubled, b/2m = 120 s−1. In this case, 
+however, b/2m > ω0 and the system is overdamped. Your design 
+objective is not met because the system does not oscillate.
+ 
+P15.83 
+The effective spring constant of a ball is  
+ 
+ 
+ 
+k = F
+x = 1.60 × 103 N
+0.200 × 10−3 m = 80.0 MN/m
+  
+ 
+The half-cycle is from the equilibrium position of the model spring to 
+maximum compression and back to equilibrium again. The time is 
+one-half the period: 
+ 
+ 
+ 
+1
+2 T = 1
+2 2π
+(
+)
+m
+k = π
+0.067 4 kg
+80.0 × 106 N/m = 9.12 × 10−5 s
+
+--- PAGE 54 ---
+Chapter 15     845 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P15.84 
+(a) 
+ΔK + ΔU = 0 
+ 
+ 
+Thus, Ktop +Utop = Kbot +Ubot 
+ 
+ 
+where Ktop = Ubot = 0. 
+ 
+ 
+Therefore, mgh = 1
+2 Iω 2, but 
+ 
+ 
+ 
+h = R −Rcosθ = R 1−cosθ
+(
+)
+ω = v
+R
+ 
+ 
+ 
+and I = MR2
+2
++ mr2
+2
++ mR2 
+ 
+ 
+Substituting, we find 
+mgR 1−cos θ
+(
+) = 1
+2
+MR2
+2
++ mr2
+2
++ mR2
+⎛
+⎝⎜
+⎞
+⎠⎟
+v2
+R2
+mgR 1−cos θ
+(
+) =
+M
+4 + mr2
+4R2 + m
+2
+⎡
+⎣⎢
+⎤
+⎦⎥v2
+ 
+ 
+ 
+and v2 = 4gR
+1−cosθ
+M/m+ r2/R2 + 2
+⎛
+⎝⎜
+⎞
+⎠⎟,  so    
+ 
+ 
+ 
+v = 2
+Rg 1−cos θ
+(
+)
+M/m + r2/R2 + 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2 
+ 
+(b) 
+T = 2π
+I
+mTgdCM
+ 
+ 
+ 
+Substituting mT = m + M and solving for dCM gives 
+ 
+ 
+ 
+dCM = mR + M 0( )
+m + M
+ 
+ 
+ 
+The period is then 
+ 
+ 
+ 
+T = 2π
+1
+2 MR2 + 1
+2 mr2 + mR2
+mgR
+= 2π
+1
+2 MR2 + 2mR2 + mr2
+(
+)
+mgR
+= 2π
+M + 2m
+(
+)R2 + mr2
+2mgR
+⎡
+⎣⎢
+⎤
+⎦⎥
+1 2
+ 
+ANS. FIG. P15.84
+
+--- PAGE 55 ---
+846     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.85 
+(a) 
+Total energy = 1
+2 kA2 = 1
+2 100 N m
+(
+) 0.200 m
+(
+)
+2 = 2.00 J. 
+ 
+ 
+At equilibrium, the total energy is: 
+ 
+ 
+ 
+1
+2 m1 + m2
+(
+)v2 = 1
+2 16.0 kg
+(
+)v2 = 8.00 kg
+(
+)v2 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+8.00 kg
+(
+)v2 = 2.00 J , and v = 0.500 m s 
+ 
+ 
+This is the speed of m1 and m2 at the equilibrium point. Beyond 
+this point, the mass m2 moves with the constant speed of  
+0.500 m/s while mass m1 starts to slow down due to the restoring 
+force of the spring. 
+ 
+(b) The energy of the m1-spring system at equilibrium is: 
+ 
+ 
+ 
+1
+2 m1v2 = 1
+2 9.00 kg
+(
+) 0.500 m s
+(
+)
+2 = 1.125 J 
+ 
+ 
+This is also equal to 1
+2 k
+′
+A
+(
+)
+2 , where A’ is the amplitude of the 
+m1-spring system. 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+1
+2 100
+(
+)
+′
+A
+(
+)
+2 = 1.125 or 
+′
+A = 0.150 m 
+ 
+ 
+The period of the m1-spring system is  
+ 
+ 
+ 
+T = 2π
+m1
+k = 2π
+9.00 kg
+100 N/m = 1.885 s
+ 
+ 
+ 
+and it takes 1
+4T = 0.471 s after it passes the equilibrium point for 
+the spring to become fully stretched the first time. The distance 
+separating m1 and m2 at this time is 
+ 
+ 
+ 
+D = v T
+4
+⎛
+⎝⎜
+⎞
+⎠⎟−
+′
+A = 0.500 m/s
+(
+) 0.471 s
+(
+) −0.150 m
+= 0.085 6 m = 8.56 cm
+
+--- PAGE 56 ---
+Chapter 15     847 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P15.87 
+P15.86 
+The time interval for your competitor’s package to arrive is half of the 
+orbital period found from Kepler’s third law, Equation 13.11: 
+ 
+ 
+ 
+Δt =  1
+2 T =  1
+2
+4π 2
+GME
+RE
+(
+)
+3  = π
+RE
+3
+GME
+ 
+ 
+Now, consider your proposal. The force on the package at an arbitrary 
+position r is 
+ 
+ 
+ 
+Fg  = −G Mcloser than rm
+r2
+ = −G m
+r2
+4
+3 πr3
+(
+)
+4
+3 πRE
+3
+(
+)
+ME = −G MEm
+RE
+3 r
+ 
+ 
+This force is of the form of Hooke’s law! The “spring constant” for this 
+motion is 
+ 
+ 
+ 
+k = G MEm
+RE
+3 
+ 
+Because the force on the package is a Hooke’s-law force, the package 
+will oscillate between opposite points on the Earth in simple harmonic 
+motion. To deliver the package to the other side of the Earth, someone 
+must grab the package before it begins its return journey. The time 
+interval for the package to travel to the other side of the Earth is 
+half of a period of oscillation: 
+ 
+ 
+ 
+Δt =  1
+2 T =  1
+2 2π
+m
+k
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ =  1
+2 2π
+m G MEm
+RE
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥ = π
+RE
+3
+GME
+ 
+ 
+This is exactly the same time interval as for your competitor, so you
+have no advantage! In fact, you have the disadvantage of the initial
+capital outlay to bore through the entire Earth!
+ 
+P15.87 
+(a) 
+For each segment of the spring: 
+ 
+ 
+ 
+dK = 1
+2 dm
+(
+)vx
+2 
+ 
+ 
+Also, 
+ 
+ 
+ 
+vx = x
+v   and   dm = m
+dx 
+ 
+ 
+Therefore, the total kinetic energy of the block-spring system is 
+ 
+ 
+ 
+K = 1
+2 Mv2 + 1
+2
+x2v2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+m
+dx
+0
+
+∫
+=
+1
+2 M + m
+3
+⎛
+⎝⎜
+⎞
+⎠⎟v2
+
+--- PAGE 57 ---
+848     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+ω =
+k
+meff
+   and    1
+2 meffv2 = 1
+2 M + m
+3
+⎛
+⎝⎜
+⎞
+⎠⎟v2 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+T = 2π
+ω = 2π
+M + m 3
+k
+ 
+P15.88 
+(a) 
+Note that as the spring passes through the vertical position, the 
+object is moving in a circular arc of radius L − yf , where the y 
+coordinate of the object at this point must be negative (yf < 0). 
+When the object is at yf , the spring is stretched x = yf – L. At 
+position yf , the spring is stretched and exerting an upward 
+tension force of magnitude greater than the object’s weight. This 
+is necessary so the object experiences a net force toward the pivot 
+to supply the needed centripetal acceleration in this position. This 
+is summarized by Newton’s second law applied to the object at 
+this point, stating (remember, yf is negative) 
+ 
+ 
+ 
+Fy
+∑
+= ma →−ky f −mg = mv2
+L −y f
+ 
+[1] 
+ 
+ 
+The system is isolated, so conservation of energy requires that 
+ 
+ 
+ 
+E = KEi + PEg,i + PEs,i = KE f + PEg, f + PEs, f 
+ 
+ 
+or 
+ 
+ 
+ 
+E = 0 + mgL + 0 = 1
+2 mv2 + mgy f + 1
+2 ky f
+2 
+ 
+ 
+reducing to 
+ 
+ 
+ 
+2mg L −y f
+(
+) = mv2 + ky f
+2 
+[2] 
+ 
+ 
+From equation [1], observe that mv2 = −(L −y f )(ky f + mg) . 
+Substituting this into equation [2] gives 
+ 
+ 
+ 
+2mg(L −y f ) = −(L −y f )(ky f + mg)+ ky f 
+ 
+ 
+After expanding and regrouping terms, this becomes 
+ 
+ 
+ 
+(2k)y f
+2 + (3mg −kL)y f + (−3mgL) = 0 
+ 
+ 
+which is a quadratic equation ay f
+2 + by f + c = 0, with 
+ 
+ 
+ 
+a = 2k = 2 1250 N m
+(
+) = 2.50 × 103 N m
+
+--- PAGE 58 ---
+Chapter 15     849 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+b = 3mg −kL = 3 5.00 kg
+(
+) 9.80 m s2
+(
+)−1 250 N m
+(
+) 1.50 m
+(
+)
+= −1.73 × 103 N
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+c = −3mgL = −3 5.00 kg
+(
+) 9.80 m s2
+(
+) 1.50 m
+(
+) = −221 N ⋅m 
+ 
+ 
+Applying the quadratic formula, keeping only the negative 
+solution [see the discussion in part (a)], and suppressing units, 
+gives 
+ 
+ 
+ 
+y f = −b −
+b2 −4ac
+2a
+=
+−−1.73 × 103
+(
+)−
+−1.73 × 103
+(
+)
+2 −4 2.50 × 103
+(
+) −221
+(
+)
+2 2.50 × 103
+(
+)
+ 
+ 
+ 
+or 
+y f = −0.110 m 
+ 
+(b) Because the length of this pendulum varies and is longer 
+throughout its motion than a simple pendulum of length L, 
+its period will be longer than that of a simple pendulum. 
+P15.89 
+(a) 
+The period of the pendulum is 
+given by 
+ 
+ 
+ 
+T = 2π
+L
+g 
+ 
+ 
+ 
+and changes as 
+ 
+ 
+ 
+dT
+dt = π
+g
+1
+L
+dL
+dt 
+[1] 
+ 
+ 
+We need to find L (t) and dL
+dt
+. From the diagram in ANS. FIG. 
+P15.89(a), 
+ 
+ 
+ 
+L = Li + a
+2 −h
+2
+      and      dL
+dt = −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dh
+dt
+ 
+ 
+ 
+But dM
+dt = ρ dV
+dt = −ρA dh
+dt . Therefore, 
+ 
+ 
+ 
+dh
+dt = −1
+ρA
+dM
+dt
+→
+dL
+dt =
+1
+2ρA
+⎛
+⎝⎜
+⎞
+⎠⎟
+dM
+dt
+ 
+[2] 
+ANS. FIG. P15.89
+
+--- PAGE 59 ---
+850     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Also,    
+ 
+ 
+ 
+dL
+Li
+L
+∫
+=
+1
+2ρA
+⎛
+⎝⎜
+⎞
+⎠⎟
+dM
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟t = L −Li 
+[3] 
+ 
+ 
+Substituting equations [2] and [3] into [1] gives: 
+ 
+ 
+ 
+dT
+dt = π
+g
+1
+2ρa2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dM
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+Li + t/2ρa2
+(
+) dM /dt
+(
+)
+ 
+ 
+ 
+Integrating, we get 
+ 
+ 
+ 
+T = π
+g
+1
+2ρa2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dM
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+dt
+Li + t/2ρa2
+(
+) dM /dt
+(
+)
+0
+t
+∫
+T = π
+g
+1
+2ρa2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dM
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 Li + t/2ρa2
+(
+) dM /dt
+(
+)
+1/2ρa2
+(
+) dM /dt
+(
+)
+T = 2π
+g
+Li +
+1
+2ρa2
+dM
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟t
+ 
+ 
+(b) When the liquid is gone, the CM of the bob is suddenly again at 
+the center of the cube. We had ignored the mass of the cube up 
+until now since it was small compared to the mass of the liquid. 
+Thus, once the liquid is gone, L = Li. 
+ 
+ 
+ 
+T = 2π
+Li
+g
+
+--- PAGE 60 ---
+Chapter 15     851 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P15.2 
+1.59 k N/m 
+P15.4 
+(a) 4.33 cm; (b) −5.00 cm/s; (c) −17.3 cm/s
+2; (d) 3.14 s; (e) 5.00 cm 
+P15.6 
+(a) 18.8 m/s; (b) 7.11 km/s
+2 
+P15.8 
+(a) 2.40 s; (b) 0.417 Hz; (c) 2.62 rad/s 
+P15.10 
+39.2 N 
+P15.12 
+(a) 15.8 cm; (b) 51.1 m; (c) −15.9 cm; (d) 50.8 m; (e) The patterns of 
+oscillation diverge from each other, starting out in phase but becoming 
+completely out of phase. To calculate the future, we would need exact 
+knowledge of the present; an impossibility. 
+P15.14 
+(a) motion is periodic; (b) 1.81 s; (c) The motion is not simple harmonic. 
+The net force acting on the ball is a constant given by F = −mg (except 
+when it is in contact with the ground), which is not in the form of 
+Hooke’s law. 
+P15.16 
+(a) See P15.16(a) for complete solution; (b) See P15.16(b) for complete 
+solution 
+P15.18 
+(a) 1.26 s; (b) 0.150 m/s, 0.750 m/s
+2; (c) x = 3.00 cos 5.00t + π
+(
+), 
+−15.0 sin 5.00t + π
+(
+), and −75.0 cos 5.00t + π
+(
+) 
+P15.20 
+(a) yes; (b) We see that finding the period does not depend on knowing 
+the mass: T = 0.859 s. 
+P15.22 
+(a) 126 N/m; (b) 0.178 m 
+P15.24 
+(a) 0.153 J; (b) 0.784 m/s; (c) 17.5 m/s2 
+P15.26 
+(a) E increases by a factor of 4; (b) vmax is doubled; (c) amax also doubles; 
+(d) the period is unchanged. 
+P15.28 
+(a) 100 N/m; (b) 1.13 Hz; (c) 1.41 m/s; (d) x = 0; (e) 10.0 m/s
+2;  
+(f) ±0.200 m; (g) 2.00 J; (h) 1.33 m/s; (i) 3.33 m/s
+2 
+P15.30 
+(a) Particle under constant acceleration; (b) 1.50 s; (c) isolated;  
+(d) 73.4 N/m; (e) 19.7 m below the bridge; (f) 1.06 rad/s; (g) +2.01 s;  
+(h) 3.50 s 
+P15.32 
+(a) 5.98 m/s; (b) 206 N/m; (c) 0.238 m 
+P15.34 
+1.001 5 
+P15.36 
+ω =
+k
+m =
+g
+R
+
+--- PAGE 61 ---
+852     Oscillatory Motion 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.38 
+I = mgd
+4π 2 f 2 
+P15.40 
+(a) 2π
+ICM + md2
+(
+)
+mgd
+; (b) ICM = md2 
+P15.42 
+(a) 2.09 s; (b) 4.08% 
+P15.44 
+For Length, L (m): 1.000, 0.750, 0.500 and Period, T (s): 2.00, 1.73, 1.42; 
+(b) For Period T(s): 2.00, 1.73, 1.42 and g (m/s
+2): 9.87, 9.89, 9.79. This 
+agrees with the accepted value of g = 9.80 m/s
+2 within 0.5%;  
+(c) 9.94 m/s
+2 
+P15.46 
+1.00 × 10
+–3 s
+–1 
+P15.48 
+dE
+dt = −bv2 < 0 
+P15.50 
+(a) 1.19 Hz; (b) 17.5 cm 
+P15.52 
+318 N 
+P15.54 
+See P15.54 for complete solution. 
+P15.56 
+0.919 × 10
+14 Hz 
+P15.58 
+(a) 0.368 m/s; (b) 3.51 cm; (c) 40.6 mJ; (d) 27.7 mJ 
+P15.60 
+(a) 4.31 cm; (b) When the rock is on the point of lifting off, the 
+surrounding water is also barely in free fall. No pressure gradient 
+exists in the water, so no buoyant force acts on the rock. The effect of 
+the surrounding water disappears at that instant. 
+P15.62 
+(a) See P15.62(a) for complete solution; (b) 1.04 m/s; (c) 3.40 m 
+P15.64 
+(a) A = 2.00 cm; (b) T = 4.00 s; (c) π
+2 rad/s ; (d) π cm/s;  
+(e) 4.93 cm/s
+2; (f) x = 2.00sin π
+2 t
+⎛
+⎝⎜
+⎞
+⎠⎟, where x is in centimeters and t is 
+in seconds 
+P15.66 
+µsg
+4π 2 f 2 
+P15.68 
+(a) 2π
+m k1 + k2
+(
+)
+k1k2
+; (b) 2π
+m
+k1 + k2
+(
+)
+ 
+P15.70 
+ω =
+3k
+m
+
+--- PAGE 62 ---
+Chapter 15     853 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P15.72 
+(a) 
+
+F
+∑
+= −2Ty
+L
+ˆj; (b) ω =
+2T
+mL
+ 
+P15.74 
+If he encounters washboard bumps at the same frequency as the free 
+vibration, resonance will make the motorcycle bounce a lot. It may 
+bounce so much as to interfere with the rider’s control of the machine; 
+~10
+1 m. 
+P15.76 
+(a) See ANS. FIG. P15.76(a); (b) 1.74 N/m ± 6%; (c) See table in 
+P15.76(c); (d) See table in P15.76(d); (e) See ANS. FIG. P15.64(e);  
+(f) 1.82 N/m ± 3%; (g) they agree; (h) 8 grams ± 12% in agreement 
+P15.78 
+(a) 5.20 s; (b) 2.60 s; (c) dA/dt
+A
+= 1
+2
+dE/dt
+E
+ 
+P15.80 
+See P15.80 for complete solution. 
+P15.82 
+If the damping constant is doubled, b/2m = 120 s
+−1. In this case, 
+however, b/2m > ω0 and the system is overdamped. Your design 
+objective is not met because the system does not oscillate. 
+P15.84 
+(a) v = 2
+Rg 1−cos θ
+(
+)
+M/m + r2/R2 + 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1/2
+; (b) 2π
+M + 2m
+(
+)R2 + mr2
+2mgR
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1/2
+ 
+P15.86 
+This is exactly the same time interval as for your competitor, so you 
+have no advantage! In fact, you have the disadvantage of the initial 
+capital outlay to bore through the entire Earth! 
+P15.88 
+(a) y f = −0.110 m; (b) its period will be longer

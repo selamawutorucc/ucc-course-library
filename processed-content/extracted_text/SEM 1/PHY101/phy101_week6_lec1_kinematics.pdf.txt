@@ -1,0 +1,674 @@
+
+--- PAGE 1 ---
+PHY101- GENERAL PHYSICS I
+1st SEM, 2021/2022
+WEEK 6 LECTURE 1
+1
+
+--- PAGE 2 ---
+CHAPTER FOUR
+KINEMATICS
+2
+
+--- PAGE 3 ---
+distance
+d
+time
+t
+=
+=
+Average speed, s
+v
+t
+t
+x
+x
+t
+time
+nt
+displaceme
+=
+−
+−
+=
+
+
+=
+0
+0
+x
+4.1
+4.2
+Average velocity, v
+3
+
+--- PAGE 4 ---
+Instantaneous  velocity, v
+0
+0
+0
+lim
+t
+t
+x
+x
+dt
+d
+t
+−
+−
+=
+=
+→
+x
+4.3
+Average acceleration, a
+( )
+0
+0
+2
+2
+v
+v
+velocity
+v
+a
+a
+time
+t
+t
+t
+d
+d
+dx
+d x
+v
+dt
+dt
+dt
+dt
+−
+
+=
+=
+=
+=
+
+−
+
+
+=
+=
+=
+
+
+
+
+4.4
+4
+
+--- PAGE 5 ---
+Accelerated Motion:
+Acceleration can occur when there is: 
+(a) a change in magnitude of the velocity but 
+not the direction
+(b) a change in the direction of the velocity but 
+not the magnitude
+(c) a change in both the magnitude and 
+direction
+5
+
+--- PAGE 6 ---
+Example 4.1 Mr. Tetteh and his driver are 
+traveling to Cape Coast in a Toyota pickup which is 
+moving at 90 km/h down a straight highway. The 
+driver of the pickup sees an accident in the 
+distance and slows down to 40 km/h in 5.0 s. 
+What is the average acceleration of the Toyota 
+pickup? 
+6
+
+--- PAGE 7 ---
+Solution: Given the initial and final velocities
+and the time duration
+0
+(90
+/ )
+(25
+/ )
+i
+u
+v
+v
+km h
+m s
+=
+=
+=
+=
+(40
+/ )
+(11
+/ )
+f
+v
+v
+km h
+m s
+=
+=
+=
+s
+t
+0.5
+=
+7
+
+--- PAGE 8 ---
+We are solving to find: average acceleration, 
+0
+11
+/
+25
+/
+2.8
+/
+5.0
+f
+i
+v
+v
+v
+v
+v
+v
+u
+a
+t
+t
+t
+t
+m s
+m s
+m s
+s
+−
+−
+
+−
+=
+=
+=
+=
+
+
+
+
+−
+=
+= −
+NB: -ve acceleration => deceleration
+8
+
+--- PAGE 9 ---
+velocity in components
+t
+v
+
+
+=
+=
+r
+time
+nt
+displaceme
+4.5
+k
+j
+i
+k
+j
+i
+t
+z
+t
+y
+t
+x
+t
+x
+x
+x
+v
+
+
+
+
++
+
+
+=
+
+
++
+
++
+
+=
+4.6
+r
+x
+y
+z
+r
+x
+y
+z
+=
++
++
+== 
++ 
++ 
+i
+j
+k
+i
+j
+k
+9
+
+--- PAGE 10 ---
+d
+dt
+=
+r
+v
+(
+)
+d
+d
+dx
+dy
+dz
+x
+y
+z
+dt
+dt
+dt
+dt
+dt
+=
+=
++
++
+=
++
++
+r
+v
+i
+j
+k
+i
+j
+k
+x
+y
+z
+v
+v
+v
+=
++
++
+v
+i
+j
+k
+4.7
+4.8
+4.9
+10
+
+--- PAGE 11 ---
+dt
+dz
+v
+dt
+dy
+v
+dt
+dx
+v
+z
+y
+x
+=
+=
+=
+,
+,
+Acceleration in components
+t
+v
+t
+v
+-
+v
+interval
+ 
+time
+y
+in velocit
+ 
+change
+1
+2
+
+
+=
+
+=
+=
+a
+11
+
+--- PAGE 12 ---
+(
+)
+y
+x
+z
+x
+y
+z
+dv
+dv
+dv
+d
+d v
+v
+v
+dt
+dt
+dt
+dt
+dt
+=
+=
++
++
+=
++
++
+v
+a
+i
+j
+k
+i
+j
+k
+x
+y
+z
+a
+a
+a
+=
++
++
+a
+i
+j
+k
+2
+2
+2
+2
+,
+y
+x
+x
+y
+dv
+dv
+d x
+d y
+a
+a
+dt
+dt
+dt
+dt
+=
+=
+=
+=
+2
+2
+z
+z
+dv
+d z
+a
+dt
+dt
+=
+=
+12
+
+--- PAGE 13 ---
+Kinematic equations 
+t
+= s
+v
+1 (
+)
+2
+t
+=
++
+s
+v
+u
+t
+t
+
+−
+=
+=
+
+
+v
+v
+u
+a
+t
+=
++
+v
+u
+a
+2
+12
+t
+t
+=
+=
++
+s
+x
+u
+a
+as
+u
+v
+2
+2
+2
++
+=
+13
+t
+= s
+v
+1 (
+)
+2
+t
+=
+−
+s
+v
+u
+t
+t
+
+−
+=
+=
+
+
+v
+v
+u
+a
+t
+=
++
+v
+u
+a
+2
+12
+t
+t
+=
+=
++
+s
+x
+u
+a
+as
+u
+v
+2
+2
+2
++
+=
+
+--- PAGE 14 ---
+Derivation of the equations of motion
+t
+−
+= v
+u
+a
+1 (
+)
+2
+t
+=
++
+s
+v
+u
+v
+u
+at
+=
++
+2
+2
+1
+)
+(
+2
+1
+at
+ut
+t
+at
+u
+u
+s
++
+=
++
++
+=
+)
+)(
+2
+(
+a
+u
+v
+u
+v
+s
+−
++
+=
+a
+u
+v
+t
+)
+( −
+=
+14
+
+--- PAGE 15 ---
+)
+)(
+2
+(
+a
+u
+v
+u
+v
+s
+−
++
+=
+2
+2
+2
+v
+u
+s
+a
+
+
+−
+= 
+
+
+
+2
+2
+2as
+v
+u
+=
+−
+2
+2
+2
+v
+u
+as
+=
++
+15
+
+--- PAGE 16 ---
+END
+16

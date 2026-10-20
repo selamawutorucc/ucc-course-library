@@ -1,0 +1,710 @@
+
+--- PAGE 1 ---
+University of Cape Coast 
+College of Agriculture & Natural Sciences 
+School of Physical Sciences 
+Department of Computer Science & Information Technology
+End of First Semester Examination - 2019/2020 
+CSC 101: Introduction to Computing 
+Duration: 2 hours
+Answer all questions on the question paper. 
+Circle the most appropriate answer. 
+Only ONE attempt per question
+Registration Number: PS/......../.........../00
+Date: 17th December, 2019
+
+--- PAGE 2 ---
+Registration Number:
+1. The categorization of computers is 
+determined by the following except
+a. Size
+b. Speed
+c. Price
+d. Processor
+2. A copyrighted software provided at no cost 
+can be referred as
+a. Shareware
+b. Freeware
+c. Open source
+d. Public domain
+3. Any external device attached to a computer 
+can be called
+a. Hardware
+b. Peripheral
+c. 
+System unit
+d. Output device
+4. Which of the following shortcut will 
+minimize all windows?
+a. 
+Windows key + M
+b. Ctrl + Shift + Esc
+c. Windows key + down arrow
+d. Windows key + FI
+5. Which of the following is not a factor that 
+affects the quality of a display device?
+a. 
+Resolution
+b. Brightness
+c. Dot pitch
+d. Screen size
+6. In which year was Ghana connected to the 
+Internet?
+a. 
+1994
+b. 1980
+c. 
+1990
+d. 
+1985
+7. Which of the following shortcut will 
+rename a selected file?
+a. FI
+b. F2
+c. F4
+d. Ctrl + R
+8. Which of the following is not a criterion for 
+evaluating the accuracy of a website?
+a. Authority
+b. Accuracy
+c. Citation
+d. Currency
+9. Software that adds functionality to a
+browser such as Internet Explorer is known 
+as_____
+a. extension
+b. plug-in
+c. browse tool
+d. socket
+10. Which of the following is an example of a 
+phishing attack?
+I. 
+Sending someone an email that 
+contains a malicious link that is 
+disguised to look like an email from 
+someone the person knows
+II. 
+Creating a fake website that looks 
+nearly identical to real website in 
+order to trick users into entering their 
+login information
+III. 
+Sending someone a text message that 
+contains a malicious link that is 
+disguised to look like a notification 
+that the person has won a contest.
+a. I
+b. II
+c. I&I1
+d. I, II&III
+1
+
+--- PAGE 3 ---
+Registration Number:
+11. A visual representation of a non-text 
+information such as drawing and photos is 
+known as
+a. Graphics
+b. Animation
+c. Video
+d. 
+Audio
+12. portal, ucc.edu.gh is an example of 
+________ website.
+a. B2C
+b. C2C
+c. B2B
+d. None of the above
+13. All of the following are examples of real 
+security and privacy risks except:
+a. hackers
+b. spam
+c. viruses
+d. identity theft
+14. The alt key is part of th e __________keys on
+a keyboard.
+a. positional
+b. modifier
+c. function
+d. toggle
+15. Which of the following is not located on the 
+motherboard?
+a. Processor
+b. chipset
+c. buses
+d. touchpad
+16. Which of the following is not an example 
+of operating system?
+a. Chrome
+b. Macintosh
+c. Microsoft
+d. Ubuntu
+17. An independent computer program that 
+copies itself from one computer to another 
+over a network is called
+a. worm
+b. Trojan horse
+c. bug
+d. virus
+https ://dcsit. ucc. edu.gh/level 100
+Figure 1: URL for DCSIT-UCC 
+USE FIGURE 1 TO ANSWER QUESTIONS 18 - 20
+18. The part of the URL that represent the 
+subdomain is
+a. dcsit
+b. gh
+c. 
+leveMOO
+d. ucc
+19. The part that represent top level domain is
+a. https
+b. edu
+c. gh
+d. edu.gh
+20. The part that represent domain name is
+a. dcsit
+b. 
+ucc
+c. dcsit.ucc
+d. ucc.edu.gh
+21. The shortcut used to maximize or restore a
+selected window is ______
+a. Ctrl + F7
+b. Ctrl + F8
+c. Ctrl + F9
+d. Ctrl + F 10
+22. Which of the following printers produce the 
+best graphics?
+a. Laser
+b. inkjet
+c. plotter
+d. thermal
+2
+
+--- PAGE 4 ---
+Registration Number:
+23. A key logger is a type of
+a. 
+Worm
+b. Trojan horse
+c. virus
+d. spyware
+24. Tricking employees to reveal their 
+passwords by pretending to be a legitimate 
+member of a company is referred to as
+a. Sniffing
+b. social engineering
+c. phishing
+d. pharming.
+25. What is the shortcut key to close a 
+document?
+a. Alt + F4
+b. Ctrl + W
+c. Ctrl + Q
+d. Ctrl + D
+26. Which part of the CPU does the actual 
+processing?
+a. Cache
+b. ALU
+c. control unit
+d. register
+27. Which of the following is not an example 
+of input device?
+a. Camcorder
+b. Flash drive
+c. Game controller
+d. Trackball
+28. Computer malicious program which is 
+activated when a specific set of conditions 
+is met is called
+a. Trojan horse
+b. Virus
+c. 
+Worm
+d. logic bomb
+29. How do software vendors correct flaws in 
+their software after it has been distributed?
+a. Issue bug fixes
+b. Issue patches
+c. Re-release software
+d. Issue updated versions
+30. Computer crime includes:
+a. Creating viruses
+b. Stealing credit card numbers
+c. Unauthorized use of computer
+d. All of the above
+31. Which of the following is equivalent to 1 
+trillion bytes?
+a. Gigabyte
+b. Kilobyte
+c. Megabyte
+d. Terabyte
+32. A program that monitors user activity on 
+internet and transmit that information in the 
+background to someone else is known as
+a. 
+Malware
+b. Spyware
+c. Adware
+d. Crimeware
+33. The shortcut key to undo an action is _____
+a. Ctrl + Z
+b. Ctrl + U
+c. Ctrl + Y
+d. Ctrl + Del
+34. Soft copy refers to
+a. 
+Digitizing
+b. Music sounds
+c. Printed output
+d. Screen output
+35. The sharpness and clarity of an image on a 
+computer screen is call
+a. 
+Brightness
+b. Dot
+c. Pixel
+d. Resolution
+3
+
+--- PAGE 5 ---
+Registration Number:
+36. Which of the following is the odd one out?
+a. ICloud
+b. Google drive
+c. Chrome
+d. Dropbox
+37. Which of the following statements best 
+describe a computer?
+a. Anything that can processes data into 
+information that is useful to people
+b. Any electronic device that processes 
+data into information that is useful to 
+people
+c. Any electronic device that allows 
+users to input data and communicate 
+to people
+d. An electronic device dedicated to 
+providing one or more services to 
+people
+38. Software that consists of programs designed 
+to make users more productive and/or assist 
+them with personal tasks is known as
+a. Application
+b. Gaming
+c. Operating system
+d. System
+39. A software or hardware device that filters
+the information coming through an internet 
+connection to a network or computer system 
+is known a s ____________
+a. Antivirus
+b. Cookies
+c. Firewall
+d. Cyber safety
+40. Ctrl + X is used to
+a. Copy selected items
+b. Cut selected items
+c. Move the selected data
+d. Exchange selected items
+41. The factor(s) which would strongly 
+influence a business person to adopt a 
+computer is it
+I. 
+Accuracy
+II. 
+Reliability
+III. 
+Speed
+a. I & II
+b. I & III
+c. II & III
+d. I, II & III
+42. Unsolicited commercial email is known as
+a. 
+Spam
+b. 
+Virus
+c. 
+Spyware
+d. 
+Malware
+43. A technique used by software 
+manufacturers to ensure that users only 
+install software on legally licensed 
+computer is
+a. 
+Registration
+b. 
+Product key
+c. 
+Product Activation
+d. 
+License agreement
+44. URL means
+a. 
+Address of the resource on 
+the web
+b. 
+Term used to describe a web site
+c. 
+Term used to access online 
+programs
+d. 
+Term used to connect computers to the 
+web
+45. Which of the following programs is used to 
+design a webpage?
+a. 
+HTML
+b. 
+Browser
+c. 
+Web server
+d. 
+HTTP
+46. World Wide Web was proposed by
+a. 
+Bill Rogers
+b. 
+Tim Berners-Lee
+c. 
+ARPANET
+d. 
+Bill Gates
+4
+
+--- PAGE 6 ---
+Registration Number:
+47. Which of the following is not an extension 
+of a webpage
+a. 
+.html
+b. 
+.php
+c. 
+.com
+d. 
+.asp
+48. Internet can best be described as
+a. A single network
+b. A collection of different networks
+c. 
+Interconnection of LANs
+d. None of the above
+49. What is the shortcut key to open a 
+document?
+a. Ctrl + N
+b. Ctrl + S
+c. Ctrl + O
+d. Ctrl + D
+50. The term bit is short for
+a. megabyte
+b. binary language
+c. binary digit
+d. binary number
+51. A set of rules that defines how webpages 
+transfer on the Internet is known as
+a. Top-level domain
+b. IPv4
+c. Hypertext Transfer Protocol
+d. Web 2.0
+52. The term cybercrime can best be defined as
+a. Any crime that uses computes to 
+jeopardize or attempt to jeopardize 
+national security
+b. The use of computer networks to 
+commit financial or identity fraud
+c. The theft of digital information
+d. Any crime that involves computers 
+and networks
+53. Which of the following is not a browser
+a. 
+Safari
+b. Mozilla firefox
+c. Internet Explorer
+d. Google
+54. Which of the following best describes soft 
+lifting
+a. 
+Borrowing and installing a copy of a 
+software application from a 
+colleague.
+b. Installing more copies of the 
+software than you have licenses for.
+c. Installing and selling unauthorized 
+copies of software on refurbished or 
+new computers.
+d. Duplicating and selling copyrighted 
+programs.
+55. A group of computers that is networked 
+together and used by hackers to steal 
+information is called
+a. Botnet
+b. Rootkit
+c. DDoS
+d. Ransom ware
+56. Which of the following is not a function of 
+the operating system?
+a. 
+establishing Internet connection
+b. 
+managing programs
+c. 
+monitoring performance
+d. 
+virus protection
+57. Application software that are usually sold 
+bundled together is termed as
+a. Office
+b. Suite
+c. 
+Pack
+d. App
+5
+
+--- PAGE 7 ---
+Registration Number:
+58. The sequence of numbers that uniquely 
+identifies the location of each computer or 
+device connected to the Internet is termed
+a. Internet backbone
+b. domain name
+c. IP address
+d. TLD
+59. Computer literacy involves having a current
+knowledge and understanding o f_____ .
+a. Computer programming
+b. Computers and their uses
+c. Computer repair
+d. All of them
+60. Windows 98 is a(n)
+a. Systems program
+b. Application program
+c. Productivity software
+d. Freeware
+61. Pressing the Backspace Key in the active 
+document:
+a. Deletes the character to the right of 
+the cursor
+b. Moves the cursor to the beginning of 
+the line
+c. Deletes the character to the left of 
+the cursor
+d. Moves the cursor to the beginning of 
+the Paragraph
+62. Which shortcut key moves the cursor 
+directly to the beginning of a line?
+a. FI
+b. Delete
+c. Home
+d. Shift + alt
+63. An employee using an organization’s
+computer to send personal email messages 
+might be an example o f_____
+a. Cybercrime
+b. hardware vandalism
+c. intellectual property rights violation
+d. unauthorized access and use
+64. What does the https:// at the beginning of a 
+URL denotes?
+a.
+The site has a special high definition
+graphics
+b.
+Information entered into the site is
+encrypted
+c.
+The site is not accessible to certain
+computers
+d.
+The site is the newest version
+available
+65. What kind of cybersecurity risks can be 
+minimized by using a virtual private 
+network (VPN)?
+a. Use of insecure WiFi networks
+b. Key-logging
+c. Phishing attacks
+d. De-anonymization by network 
+operators
+66. Desktop operating system are also known as 
+client operating system.
+a. True
+b. False
+67. UNIX is an example of open source 
+software.
+a. True
+b. False
+68. A set of instructions programmed on a 
+hardware is known as firmware.
+a. True
+b. False
+69. The motherboard’s capabilities is 
+determined by its form factor.
+a. True
+b. False
+70. A typical license agreement allows a user to 
+rent or lease the software.
+a. True
+b. False
+6
+
+--- PAGE 8 ---
+Registration Number:
+71. An unencrypted, readable data is called 
+ciphertext.
+a. True
+b. False
+72. Antivirus software can detect and eliminate 
+viruses that are trying to enter your system.
+a. True
+b. False
+73. Privacy is the state of being free from 
+danger or threat.
+a. True
+b. False
+74. A mouse controls the movement of the 
+pointer on a monitor.
+a. True
+b. False
+75. Every device connected to the Internet is 
+assigned an IP address.
+a. True
+b. False
+76. SSL is a protocol used to secure information 
+transfer over the Internet.
+a. True
+b. False
+77. MSN and google are example of portals.
+a. True
+b. False
+78. Bing is an example of search engine.
+a. True
+b. False
+79. The amount of data that travels over a 
+network is referred as gigabit per second.
+a. True
+b. False
+80. Stylus is an input device.
+a. True
+b. False
+81. Microsoft is an operating System.
+a. True
+b. False
+82. Any illegal act involving the use of a 
+computer or related devices generally is 
+referred to as a crimeware.
+a. True
+b. False
+83. The physical size and shape of devices such 
+as the motherboard and hard disk is known 
+as form factor.
+a. True
+b. False
+84. Turning off the GPS function of our 
+smartphone prevents any tracking of your 
+phone’s location.
+a. True
+b. False
+85. URL is also known as web address.
+a. True
+b. False
+86. Internet and web can be used 
+interchangeably.
+a. True
+b. False
+87. KaiOS is an example of mobile operating 
+system.
+a. True
+b. False
+88. Earbuds are a type of input device.
+a. True
+b. False
+89. Operating system are a widely recognize 
+example of system software.
+a. True
+b. False
+7
+
+--- PAGE 9 ---
+Registration Number:
+QUESTIONS 90-100 IS BASED ON PYTHON 
+PROGRAMMING
+90. What is the output of the following code: 
+p r i n t 9 / / 2
+a. 4.5
+b. 4.0
+c. 4
+d. Error
+91. What is the output of the following code:
+a = 5
+b =
+10
+b = a
+a = b
+p r i n t b
+a.
+10
+b.
+5
+c.
+15
+d.
+20
+92. Which of the following cannot be used as a 
+variable name?
+a. as
+b. in
+c. it
+d. is
+93. What is the output of the expression: 
+3*1* * 3
+a. 27
+b. 9
+c. 3
+d. 1
+94. What is the output of the expression: 
+1+ 2-3* 4 / 5
+a. 
+1
+b. 3
+c. 
+1.5
+d. 3.5
+95. Which of the following is an invalid 
+variable?
+a. my_string_l
+b. lst_string
+c. Foo
+d. _boo
+96. Which of the following is not a keyword?
+a. eval
+b. assert
+c. nonlocal
+d. pass
+97. Which is the correct operator for 
+power(xY)?
+a. XAy
+b. X**y
+c. XAAy
+d. X exp Y
+98. Which one of the following has the highest 
+precedence in the expression?
+a. Exponential
+b. Addition
+c. Multiplication
+d. Parentheses
+99. Which of the following symbols are used 
+for comments?
+a. //
+b. "
+c. /**/
+d. #
+100. Which of the following is correct way to 
+declare string variable?
+a. fruit = 'banana'
+b. fruit = "banana"
+c. fruit = banana
+d. fruit = (banana)
+8

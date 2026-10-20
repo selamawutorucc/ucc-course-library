@@ -1,0 +1,4292 @@
+
+--- PAGE 1 ---
+791 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+38 
+Diffraction Patterns 
+and Polarization 
+ 
+CHAPTER OUTLINE 
+ 
+38.1  
+Introduction to Diffraction Patterns 
+38.2  
+Diffraction Patterns from Narrow Slits 
+38.3  
+Resolution of Single-Slit and Circular Apertures 
+38.4 
+The Diffraction Grating 
+38.5  
+Diffraction of X-Rays by Crystals 
+38.6 
+Polarization of Light Waves 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ38.1 
+Answer (a). Glare, as usually encountered when driving or boating, 
+is horizontally polarized. Reflected light is polarized in the same 
+plane as the reflecting surface. As unpolarized light hits a shiny 
+horizontal surface, the atoms on the surface absorb and then reemit 
+the light energy as a reflection. We can model the surface as 
+containing conduction electrons free to vibrate easily along the 
+surface, but not to move easily out of surface. The light emitted from 
+a vibrating electron is partially or completely polarized along the 
+plane of vibration, thus horizontally. 
+OQ38.2 
+Answer (c). The polarization state of a light beam that is reflected by 
+a metallic surface is not changed; therefore, a beam of light that is not 
+polarized before it is reflected is not polarized after it is reflected by a 
+metallic surface. 
+OQ38.3 
+Answer (b). The wavelength will be much smaller than with visible 
+light, so there will be no noticeable diffraction pattern.
+
+--- PAGE 2 ---
+792     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ38.4 
+Answer (b). In a single slit diffraction pattern, dark fringes occur 
+where sinθdark = mλ a ≈tanθdark = ydark L, and m is any non-zero 
+integer.  
+ 
+Thus, the width of the slit, a, in the described situation, must be 
+ 
+ 
+ 
+a =
+mλL
+ydark
+(
+)1
+=
+1( )λL
+ydark
+(
+)1
+=
+5.00 × 10−7 m
+(
+) 1.00 m
+(
+)
+5.00 × 10−3 m
+= 1.00 × 10−4 m = 0.100 mm
+ 
+OQ38.5 
+Answer (d). The central maximum lies between the first-order 
+minima defined by the relation sinθdark = mλ a = λ a. Because the 
+angle is small, sinθdark ≈tanθdark = ydark L, so the width of the central 
+maximum is proportional to Lλ/a. Thus, the central maximum 
+becomes twice as wide if the slit width a becomes half as wide.  
+OQ38.6 
+The ranking is (e) > (c) >(a) > (b) > (d). The central maximum lies 
+between the first-order minima defined by the relation 
+sinθdark = mλ a = λ a . Because the angle is small, 
+sinθdark ≈tanθdark = ydark L , so the width of the central maximum is 
+proportional to Lλ/a. We consider the value of Lλ/a: (a) Lλ0 a , (b) 
+f = c λ0 , so for f ′ = 3/2 f, ′
+λ = 2 3λ0 , and the width is 
+L 2 3λ0
+(
+) a = 2 3 Lλ0 a
+(
+) , (c) L 1.5λ0
+(
+) a = 32 Lλ0 a
+(
+) ,  
+(d) Lλ0 (2a) =1 2 Lλ0 a
+(
+), (e) (2L)λ0 a =2 Lλ0 a
+(
+). 
+OQ38.7 
+Answer (b). From Malus’ law, the intensity of the light transmitted 
+through a polarizer (analyzer) having its transmission axis oriented 
+at angle 45° to the plane of polarization of the incident polarized light 
+is I = Imax cos
+2 45° = Imax/2. Therefore, the intensity passing through 
+the second polarizer having its transmission axis oriented at angle  
+θ = 90° – 45° = 45° is I = (Imax/2)cos
+2 45° = Imax/4. 
+OQ38.8 
+Answer (e). Diffraction of light as it passes through, or reflects from, 
+the objective element of a telescope can cause the images of two 
+sources having a small angular separation to overlap and fail to be 
+seen as separate images. According to Equation 38.6, θmin = 1.22λ D, 
+the minimum angular separation θmin two sources must have in 
+order to be seen as separate sources is inversely proportional to the 
+diameter D of the objective element. Thus, using a large-diameter 
+objective element in a telescope increases its resolution. 
+OQ38.9 
+Answer (e). The bright colored patterns are the result of interference 
+between light reflected from the upper surface of the oil and light 
+reflected from the lower surface of the oil film.
+
+--- PAGE 3 ---
+Chapter 38     793 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ38.10 
+Answer (b). No diffraction effects are observed because the 
+separation distance between adjacent ribs is so much greater than the 
+wavelength of x-rays. Diffraction does not limit the resolution of an 
+x-ray image. Diffraction might sometimes limit the resolution of a 
+sonogram.  
+OQ38.11 
+Answer (a). The grooves in a diffraction grating are not electrically 
+conducting. Sending light through a diffraction grating is not like 
+sending a vibration on a rope through a picket fence: there is no 
+moving substance that could collide with the groove of the grating, 
+so the grating could not prevent the wave from passing though it. 
+OQ38.12 
+Answer (c). The ability to resolve light sources depends on 
+diffraction, not on intensity. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ38.1 
+The crystal cannot produce diffracted beams of visible light. The 
+wavelengths of visible light are some hundreds of nanometers. There 
+is no angle whose sine is greater than 1. Bragg’s law, 2d sin θ = mλ, 
+cannot be satisfied for a wavelength much larger than the distance 
+between atomic planes in the crystal. 
+CQ38.2 
+The wavelength of visible light is extremely small in comparison to 
+the dimensions of your hand, so the diffraction of light around an 
+obstacle the size of your hand is totally negligible. However, sound 
+waves have wavelengths that are comparable to the dimensions of 
+the hand or even larger. Therefore, significant diffraction of sound 
+waves occurs around hand-sized obstacles. 
+CQ38.3 
+Since the obsidian is opaque, a standard method of measuring 
+incidence and refraction angles and using Snell’s Law is ineffective. 
+Reflect unpolarized light from the horizontal surface of the obsidian 
+through a vertically polarized filter. Change the angle of incidence 
+until you observe that none of the reflected light is transmitted 
+through the filter. This means that the reflected light is completely 
+horizontally polarized, and that the incidence and reflection angles 
+are the polarization angle. According to Equation 38.10, the tangent 
+of the polarization angle is the index of refraction of the obsidian. 
+CQ38.4 
+(a) 
+Light from the sky is partially polarized.  
+ 
+(b) Light from the blue sky that is polarized at 90° to the 
+polarization axis of the glasses will be blocked, making the sky 
+look darker as compared to the clouds. 
+CQ38.5 
+Consider incident light nearly parallel to the horizontal ruler. 
+Suppose it scatters from bumps at distance d apart to produce a 
+diffraction pattern on a vertical wall a distance L away. At a point of
+
+--- PAGE 4 ---
+794     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+height y, where θ = y
+L gives the scattering angle θ, the character of 
+the interference is determined by the shift δ between beams scattered 
+by adjacent bumps, where δ = dcosθ ≈d 1+ θ 2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. Bright spots 
+appear for δ = mλ, where m = 1, 2, 3, …. 
+ 
+ANS. FIG. CQ38.5 
+ 
+For small θ, these equations combine and reduce to mλ = d 1+ ym
+2
+2L2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+Measurement of the heights ym of bright spots allows calculation of 
+the wavelength of the light. [Note that if a maximum occurs at 
+θ = y
+L ≈0, then scattered light from a bump constructively interferes 
+with scattered light from the next bump in front, which 
+constructively interferes with scattered light from the next bump…; 
+thus λ = d.] 
+CQ38.6 
+First think about the glass without a coin and about one particular 
+point P on the screen. We can divide up the area of the glass into 
+ring-shaped zones centered on the line joining P and the light source, 
+with successive zones contributing alternately in-phase and out-of-
+phase with the light that takes the straight-line path to P. These 
+Fresnel zones have nearly equal areas. An outer zone contributes 
+only slightly less to the total wave disturbance at P than does the 
+central circular zone. Now insert the coin. If P is in line with its 
+center, the coin will block off the light from some particular number 
+of zones. The first unblocked zone around its circumference will send 
+light to P with significant amplitude. Zones farther out will 
+predominantly interfere destructively with each other, and the Arago 
+spot is bright. Slightly off the axis there is nearly complete 
+destructive interference, so most of the geometrical shadow is dark. 
+A bug on the screen crawling out past the edge of the geometrical 
+shadow would in effect see the central few zones coming out of 
+eclipse. As the light from them interferes alternately constructively 
+and destructively, the bug moves through bright and dark fringes on 
+the screen. The diffraction pattern is shown in Figure 38.3 in the text.
+
+--- PAGE 5 ---
+Chapter 38     795 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ38.7 
+The skin on the tip of a finger has a series of closely spaced ridges 
+and swirls on it. When the finger touches a smooth surface, the oils 
+from the skin will be deposited on the surface in the pattern of the 
+closely spaced ridges. The clear spaces between the lines of deposited 
+oil can serve as the slits in a crude diffraction grating and produce a 
+colored spectrum of the light passing through or reflecting from the 
+glass surface. 
+CQ38.8 
+(a) 
+The diffraction pattern of a hair is the same as the diffraction 
+pattern produced by a single slit of the same width.  
+ 
+(b) The central maximum is flanked by minima. Measure the width 
+2y of the central maximum between the minima bracketing it. 
+Because the angle is small, you can use 
+ 
+ 
+ 
+ 
+sinθdark ≈tanθdark
+mλ a ≈y L
+ 
+ 
+ 
+to find the width a of the hair. 
+CQ38.9 
+The condition for constructive interference is that the three radio 
+signals arrive at the city in phase. We know the speed of the waves (it 
+is the speed of light c), the angular bearing θ of the city east of north 
+from the broadcast site, and the distance d between adjacent towers. 
+The wave from the westernmost tower must travel an extra distance 
+2d sin θ to reach the city, compared to the signal from the eastern 
+tower. For each cycle of the carrier wave, the western antenna would 
+transmit first, the center antenna after a time delay dsinθ
+c
+, and the 
+eastern antenna after an additional equal time delay. 
+CQ38.10 
+The correct orientation is vertical. If the horizontal width of the 
+opening is equal to or less than the wavelength of the sound, then the 
+equation asinθ = 1( )λ has the solution θ = 90°, or has no solution. 
+The central diffraction maximum covers the whole seaward side. If 
+the vertical height of the opening is large compared to the 
+wavelength, then the angle in asinθ = 1( )λ will be small, and the 
+central diffraction maximum will form a thin horizontal sheet. 
+ 
+Featured in the motion picture M*A*S*H (20th Century Fox, Aspen 
+Productions, 1970) is a loudspeaker mounted on an exterior wall of 
+an Army barracks. It has an approximately rectangular aperture, and 
+it is installed incorrectly. The longer side is horizontal, to maximize 
+sound spreading in a vertical plane and to minimize sound radiated 
+in different horizontal directions.
+
+--- PAGE 6 ---
+796     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ38.11 
+Audible sound has wavelengths on the order of meters or 
+centimeters, while visible light has a wavelength on the order of half 
+a micrometer. In this world of breadbox-sized objects, λ
+a
+ is large for 
+sound, and sound diffracts around walls with doorways. But λ
+a
+ is a 
+tiny fraction for visible light passing ordinary-size objects or 
+apertures, so light changes its direction by only very small angles 
+when it diffracts. 
+ 
+Another way of phrasing the answer: We can see by a small angle 
+around a small obstacle or around the edge of a small opening. The 
+side fringes in Figure 38.1 and the Arago spot in the center of Figure 
+38.3 show this diffraction. We cannot always hear around corners. 
+Out-of-doors, away from reflecting surfaces, have someone a few 
+meters distant face away from you and whisper. The high-frequency, 
+short-wavelength, information-carrying components of the sound do 
+not diffract around his head enough for you to understand his 
+words. 
+ 
+Suppose an opera singer loses the tempo and cannot immediately get 
+it from the orchestra conductor. Then the prompter may make 
+rhythmic kissing noises with her lips and teeth. Try it—you will 
+sound like a birdwatcher trying to lure out a curious bird. This sound 
+is clear on the stage but does not diffract around the prompter’s box 
+enough for the audience to hear it. 
+CQ38.12 
+Consider vocal sound moving at 340 m/s and of frequency 3 000 Hz. 
+Its wavelength is 
+ 
+  
+λ = v
+f = 340 m/s
+3000 Hz = 0.113 m 
+ 
+If your mouth, for horizontal dispersion, behaves similarly to a slit 
+6.00 cm wide, then asinθ = mλ predicts no diffraction minima. You 
+are a nearly isotropic source of this sound. It spreads out from you 
+nearly equally in all directions. On the other hand, if you use a 
+megaphone with width 60.0 cm at its wide end, then asinθ = mλ 
+predicts the first diffraction minimum at 
+ 
+  
+θ = sin−1 mλ
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 0.113 m
+0.600 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 10.9° 
+ 
+This suggests that the sound is radiated mostly toward the front into 
+a diverging beam of angular diameter only about 20°. With less 
+sound energy wasted in other directions, more is available for your 
+intended auditors. We could check that a distant observer to the side 
+or behind you receives less sound when a megaphone is used.
+
+--- PAGE 7 ---
+Chapter 38     797 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 38.2 
+Diffraction Patterns from Narrow Slits 
+*P38.1 
+(a) 
+According to Equation 38.1, dark bands (minima) occur where  
+ 
+ 
+ 
+sinθ = m λ
+a
+  
+ 
+ 
+For the first minimum, m = 1, and the distance from the center of 
+the central maximum is  
+ 
+ 
+ 
+y1 = Ltanθ ≈Lsinθ = L λ
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+ 
+Thus, the needed distance to the screen is 
+ 
+ 
+ 
+L = y1
+a
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.85 × 10−3 m
+(
+)
+0.75 × 10−3 m
+587.5 × 10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.1 m
+ 
+ 
+(b) The width of the central maximum is  
+ 
+  
+ 
+2y1 = 2 0.85 mm
+(
+) = 1.7 mm  
+P38.2 
+From Equation 38.1, with m = 1, 
+ 
+ 
+sinθ = λ
+a = 6.328 × 10−7 m
+3.00 × 10−4 m = 2.11× 10−3 
+ 
+Then, 
+ 
+ 
+y
+1.00 m = tanθ ≈sinθ ≈θ (for small θ)   →   y = 2.11 mm
+ 
+ 
+and 2y = 4.22 mm 
+P38.3 
+If the speed of sound is 343 m/s,  
+ 
+ 
+ 
+λ = v
+f = 343 m/s
+650 s−1 = 0.528 m 
+ 
+Diffraction minima occur at angles described by asinθ = mλ. 
+ 
+ 
+ 
+1.10 m
+(
+)sinθ1 = 1 0.528 m
+(
+) θ1 = ±28.7°
+1.10 m
+(
+)sinθ2 = 2 0.528 m
+(
+) θ2 = ±73.6°
+1.10 m
+(
+)sinθ3 = 3 0.523 m
+(
+) θ3 nonexistent
+ 
+ 
+(a) 
+There are four minima. 
+ 
+(b) 
+θ = ±28.7°, ±73.6°
+
+--- PAGE 8 ---
+798     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.4 
+(a) 
+Refer to ANS. FIG. P38.4. The rectangular patch on the wall is 
+wider than it is tall. The aperture will be taller than it is wide. For 
+horizontal spreading we have 
+ 
+ 
+ 
+tanθwidth = ywidth
+L
+= 0.110 m 2
+4.5 m
+= 0.012 2 
+ 
+ 
+ 
+awidth sinθwidth = 1λ 
+ 
+ 
+ 
+awidth = 632.8 × 10−9 m
+0.012 2
+= 5.18 × 10−5 m = 51.8 µm 
+ 
+ANS. FIG. P38.4 
+ 
+(b) For vertical spreading, similarly 
+ 
+ 
+ 
+tanθheight = 0.006 m 2
+4.5 m
+= 0.000 667
+aheight =
+1λ
+sinθh
+= 632.8 × 10−9 m
+0.000 667
+= 9.49 × 10−4 m = 949 µm
+ 
+ 
+(c) 
+The longer dimension in the central bright patch is horizontal.  
+ 
+(d) The longer dimension of the aperture is vertical.  
+ 
+(e) 
+A smaller distance between aperture edges causes a wider
+diffraction angle. The longer dimension of each rectangle is
+18.3 times larger than the smaller dimension.
+ 
+P38.5 
+For destructive interference, from Equation 38.1, 
+ 
+ 
+ 
+sinθ = m λ
+a = λ
+a = 5.00 cm
+36.0 cm = 0.139 
+ 
+and θ = 7.98°. Then, 
+ 
+ 
+ 
+y
+L = tanθ
+
+--- PAGE 9 ---
+Chapter 38     799 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+gives 
+y = Ltanθ = 6.50 m
+(
+)tan7.98° = 0.912 m
+= 91.2 cm
+ 
+P38.6 
+In a single slit diffraction pattern, with the slit having width a, the dark 
+fringe of order m occurs at angle θm , where sinθm = m(λ a) and 
+m = ±1, ± 2, ± 3,…. The location, on a screen located distance L from 
+the slit, of the dark fringe of order m (measured from y = 0 at the center 
+of the central maximum) is  
+ 
+ 
+(ydark)m = Ltanθm ≈Lsinθm = mλ
+L
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+The central maximum extends from the m = +1 dark fringe on one 
+side to the m = –1 dark fringe on the other side, so the width of 
+this central maximum is 
+ 
+ 
+ 
+Central max. width = (ydark)m=1 −(ydark)m=−1
+= 1( ) λL
+a
+⎛
+⎝⎜
+⎞
+⎠⎟−−1
+(
+) λL
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= 2λL
+a
+ 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+L = a Central max. width
+(
+)
+2λ
+=
+0.200 × 10−3 m
+(
+) 8.10 × 10−3 m
+(
+)
+2 5.40 × 10−7 m
+(
+)
+= 1.50 m
+ 
+ 
+(b) The first order bright fringe extends from the m = 1 dark fringe to 
+the m = 2 dark fringe, or 
+ 
+ 
+ 
+Δybright
+(
+)1 = ydark
+(
+)m=2 −ydark
+(
+)m=1 = 2 λL
+a
+⎛
+⎝⎜
+⎞
+⎠⎟−1 λL
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= λL
+a
+= 5.40 × 10−7 m
+(
+) 1.50 m
+(
+)
+0.200 × 10−3 m
+= 4.05 × 10−3 m = 4.05 mm
+ 
+ 
+ 
+Note that the width of the first order bright fringe is exactly one 
+half the width of the central maximum. 
+P38.7 
+In the equation for single-slit diffraction minima at small angles, 
+ 
+ 
+y
+L ≈sinθdark = mλ
+a
+ 
+ 
+we take differences between the first and third dark fringes, to see that 
+ 
+ 
+Δy
+L = Δmλ
+a
+   with   Δy = 3.00 × 10−3 m   and   Δm = 3 −1 = 2
+
+--- PAGE 10 ---
+800     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The width of the slit is then 
+ 
+ 
+ 
+ 
+a = λLΔm
+Δy
+= 690 × 10−9 m
+(
+) 0.500 m
+(
+) 2
+( )
+3.00 × 10−3 m
+(
+)
+= 2.30 × 10−4 m
+ 
+P38.8 
+Use the small-angle approximation: y
+L ≈sinθ = mλ
+a . 
+ 
+Then,    Δy
+L = m2λ
+a
+−m1λ
+a
+= m2 −m1
+λ
+a →
+a = λL m2 −m1
+Δy
+. 
+P38.9 
+The diffraction envelope shows a broad central maximum flanked by 
+zeros at a sin θ = 1λ and a sinθ = 2λ. That is, the zeros are at 
+(π asinθ)/λ = π , −π , 2π , −2π ,... Noting that the distance between 
+slits is d = 9 µm = 3a, we say that within the diffraction envelope the 
+interference pattern shows closely spaced maxima at dsinθ = mλ, 
+giving (π 3asinθ)/λ = mπ or 
+ 
+ 
+(πasinθ)/λ = 0, π/3, −π/3, 2π/3, −2π/3  
+ 
+The third-order interference maxima are missing because they fall at 
+the same directions as diffraction minima, but the fourth order can be 
+visible at (πasinθ)/λ = 4π/3 and −4π/3 as diagrammed. 
+ 
+ANS. FIG. P38.9 
+P38.10 
+Equation 38.1 states that sinθ = mλ
+a , where 
+m = ±1, ± 2, ± 3, …. The requirement for  
+m = 1 is from an analysis of the extra path 
+distance traveled by ray 1 compared to ray 3 
+in the textbook Figure 38.5. This extra 
+distance must be equal to λ
+2
+ for destructive 
+interference. When the source rays approach 
+the slit at an angle β, there is a distance added 
+to the path difference (of ray 1 compared to 
+ 
+ANS. FIG. P38.10
+
+--- PAGE 11 ---
+Chapter 38     801 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ray 3) of a
+2 sinβ. Then, for destructive interference, 
+ 
+ 
+a
+2 sinβ + a
+2 sinθ = λ
+2   so   sinθ = λ
+a −sinβ 
+ 
+Dividing the slit into 4 parts leads to the second order minimum: 
+ 
+ 
+a
+4 sinβ + a
+4 sinθ = λ
+2   so   sinθ = 2λ
+a −sinβ 
+ 
+Dividing the slit into 6 parts gives the third order minimum: 
+ 
+ 
+sinθ = 3λ
+a −sinβ 
+ 
+Generalizing, we obtain the condition for the mth order minimum: 
+ 
+ 
+sinθ = mλ
+a −sinβ      m = ±1, ± 2, ± 3, … 
+P38.11 
+First we find where we are. The angle to the side is small so 
+ 
+ 
+ 
+sinθ ≈tanθ = y
+L = 4.10 × 10−3 m
+1.20 m
+= 3.417 × 10−3  
+ 
+The parameter controlling the intensity is  
+ 
+ 
+ 
+ πasinθ
+λ
+=
+π 4.00 × 10−4 m
+(
+) 3.417 × 10−3
+(
+)
+546.1 × 10−9 m
+= 7.862 rad 
+ 
+This is between 2π and 3π , so the point analyzed is off in the second 
+side fringe. The fractional intensity is 
+ 
+ 
+I
+Imax
+=
+sin πa sinθ/λ
+(
+)
+πa sinθ/λ
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+=
+sin(7.862 rad)
+7.862 rad
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 1.62 × 10−2
+ 
+P38.12 
+(a) 
+Double-slit interference maxima are at angles given by 
+dsinθ = mλ . 
+ 
+ 
+For m = 0, θ0 = 0° 
+ 
+ 
+For m = 1, 2.80 µm
+(
+)sinθ = 1 0.501 5 µm
+(
+): 
+θ1 = sin−1 0.179
+(
+) = ±10.3° 
+ 
+ 
+Similarly, for m = 2, 3, 4, and 5,  
+ 
+ 
+ 
+θ2 = ±21.0° , θ3 = ±32.5° , θ4 = ±45.8° , and θ5 = ±63.6°  
+ 
+ 
+For m > 5, there are no maxima. 
+ 
+(b) Thus, there are 5 + 5 + 1 = 11 directions for interference maxima.
+
+--- PAGE 12 ---
+802     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+We check for missing orders by looking for single-slit diffraction 
+minima, at asinθ = mλ . 
+ 
+ 
+For m = 1, 0.700 µm
+(
+)sinθ = 1 0.501 5 µm
+(
+)    and    θ1 = ±45.8° 
+ 
+ 
+Thus, there is no bright fringe at this angle.  
+ 
+(d) From our answer to (c), two.  
+ 
+(e) 
+two 
+ 
+(f) 
+Two are missing because slit-slit minimum occur where a double-
+slit maximum would be: nine 
+ 
+(g) 
+I = Imax
+sin π asinθ λ
+(
+)
+π sinθ λ
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+ 
+ 
+ 
+At θ = 63.6°,  
+ 
+π asinθ
+λ
+= π 0.700 µm
+(
+)sin 63.6°
+0.501 5 µm
+(
+)
+= 3.93 rad = 225° 
+ 
+ 
+and I = 0.032 4Imax 
+P38.13 
+With the screen locations of the dark fringe of order m at 
+ 
+ 
+(ydark)m = Ltanθm ≈Lsinθm = m(λL a)    for m = ±1, ± 2, ± 3,… 
+ 
+the width of the central maximum is  
+ 
+ 
+Δycentral
+maximum
+= (ydark)m=+1 −(ydark)m=−1 = 2(λL a)
+ 
+ 
+ so 
+ 
+ 
+λ =
+a Δycentral
+maximum
+⎛
+⎝⎜
+⎞
+⎠⎟
+2L
+= 0.600 × 10−3 m
+(
+) 2.00 × 10−3 m
+(
+)
+2 1.30 m
+(
+)
+= 4.62 × 10−7 m = 462 nm
+ 
+ 
+ 
+ 
+Section 38.3 
+Resolution of Single-Slit and Circular Apertures 
+P38.14 
+We assume Rayleigh’s criterion applies to the cat’s eye with pupil 
+narrowed. For a single slit (not a round aperture), for small angles  
+ 
+ 
+ 
+θ ≈sinθ = λ
+a = 500 × 10−9 m
+0.500 × 10−3 m = 1.00 × 10−3 rad
+
+--- PAGE 13 ---
+Chapter 38     803 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.15 
+Using Rayleigh’s criterion,  
+ 
+ 
+θmin = 1.22 λ
+D = 0.100° π rad
+180°
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.75 × 10−3 rad
+ 
+ 
+and 
+D = 1.22
+λ
+θmin
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.22 3.00 × 10−3 m
+θmin
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.10 m 
+P38.16 
+Using Rayleigh’s criterion, θmin = 1.22 λ
+D = y
+L. Therefore, 
+ 
+ 
+L =
+yD
+1.22λ = 2.80 × 10−2 m
+(
+) 0.600 × 10−3 m
+(
+)
+1.22 550 × 10−9 m
+(
+)
+= 25.0 m
+ 
+P38.17 
+Using Rayleigh’s criterion, θmin = 1.22 λ
+D = y
+L. Therefore, 
+ 
+ 
+y = 1.22 λ
+D
+⎛
+⎝⎜
+⎞
+⎠⎟L = 1.22
+500 × 10−9 m
+58.0 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟270 × 103 m
+(
+)
+= 0.284 m
+ 
+P38.18 
+(a) 
+The limiting angle for the resolution of the microscope is 
+ 
+ 
+ 
+θmin = 1.22 λ
+D = 1.22
+589 × 10−9 m
+9.00 × 10−3 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.98 × 10−5 rad
+= 79.8 µrad
+ 
+ 
+(b) For a smaller angle of diffraction we choose the smallest visible 
+wavelength, violet at 400 nm, to obtain  
+ 
+ 
+ 
+θmin = 1.22 λ
+D = 1.22
+400 × 10−9 m
+9.00 × 10−3 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.42 × 10−5 rad
+= 54.2 µrad
+ 
+ 
+(c) 
+The wavelength in water is shortened to its vacuum value 
+divided by the index of refraction. The resolving power is 
+improved, with the minimum resolvable angle becoming 
+ 
+ 
+ 
+θmin = 1.22 λ
+D = 1.22 589 × 10−9 m 1.33
+9.00 × 10−3 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.00 × 10−5 rad
+= 60.0 µrad
+ 
+ 
+ 
+Better than water for many purposes is oil immersion.
+
+--- PAGE 14 ---
+804     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.19 
+When the pupil is open wide, it appears that the resolving power of 
+human vision is limited by the coarseness of light sensors on the retina. 
+But we use Rayleigh’s criterion as a handy indicator of how good our 
+vision might be. We are given  
+ 
+ 
+L = 250 × 103 m, λ = 5.00 × 10−7 m, and d = 5.00 × 10−3 m  
+ 
+The smallest object the astronauts can resolve is given by Rayleigh’s 
+criterion, θmin = 1.22 λ
+D = y
+L. Therefore, 
+ 
+ 
+y = 1.22 λ
+D L = 1.22 5.00 × 10−7 m
+5.00 × 10−3 m
+⎛
+⎝⎜
+⎞
+⎠⎟250 × 103 m
+(
+) = 30.5 m
+ 
+P38.20 
+Undergoing diffraction from a circular opening, the beam spreads into 
+a cone of half-angle 
+ 
+ 
+ 
+θmin = 1.22 λ
+D = 1.22 632.8 × 10−9 m
+0.005 00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.54 × 10−4 rad 
+ 
+The radius of the beam ten kilometers away is, from the definition of 
+radian measure, 
+ 
+ 
+ 
+rbeam = θmin 1.00 × 104 m
+(
+) = 1.544 m 
+ 
+and its diameter is dbeam = 2rbeam = 3.09 m . 
+*P38.21 
+The limit of resolution in air is  
+ 
+ 
+θmin air = 1.22 λ
+D = 0.60 µrad
+ 
+ 
+In oil, the limiting angle of resolution will be 
+ 
+ 
+θmin oil = 1.22 λoil
+D = 1.22 λ/noil
+(
+)
+D
+= 1
+noil
+1.22 λ
+D
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+or 
+θmin oil = θmin air
+noil
+= 0.60 µrad
+1.5
+= 0.40 µrad 
+P38.22 
+When the pupil is open wide, it appears that the resolving power of 
+human vision is limited by the coarseness of light sensors on the retina. 
+But we use Rayleigh’s criterion as a handy indicator of how good our 
+vision might be. We take θmin = d
+L = 1.22 λ
+D , where θmin is the smallest 
+angular separation of two objects for which they are resolved by an 
+aperture of diameter D, d is the separation of the two objects, and L is 
+the maximum distance of the aperture from the two objects at which 
+they can be resolved.
+
+--- PAGE 15 ---
+Chapter 38     805 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Two objects can be resolved if their angular separation is greater 
+than θmin. Thus, θmin should be as small as possible. Therefore, 
+light with the smaller of the two given wavelengths is easier to 
+resolve, i.e., blue. 
+ 
+(b) 
+L =
+Dd
+1.22λ =
+5.20 × 10−3 m
+(
+) 2.80 × 10−2 m
+(
+)
+1.22λ
+= 1.193 × 10−4 m2
+λ
+ 
+ 
+ 
+Thus for λ = 640 nm, L = 186 m, and for λ = 440 nm, L = 271 m. 
+The viewer with the assumed diffraction-limited vision could 
+resolve adjacent tubes of blue in the range 186 m to 271 m , but 
+cannot resolve adjacent tubes of red in this range. 
+P38.23 
+When the pupil is open wide, it appears that the resolving power of 
+human vision is limited by the coarseness of light sensors on the retina. 
+But we use Rayleigh’s criterion as a handy indicator of how good our 
+vision might be. According to this criterion, two dots separated center-
+to-center by 2.00 mm would overlap when 
+ 
+ 
+ 
+θmin = d
+L = 1.22 λ
+D
+ 
+ 
+Thus, 
+L =
+dD
+1.22λ =
+2.00 × 10−3 m
+(
+) 5.00 × 10−3 m
+(
+)
+1.22 500 × 10−9 m
+(
+)
+= 16.4 m . 
+P38.24 
+We are given D = 2.10 m and L = 9 000 m. The wavelength of the Coast 
+Guard radar is 
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+15.0 × 109 Hz = 0.020 0 m
+ 
+ 
+From Rayleigh’s criterion, θmin = 1.22 λ
+D = d
+L . Therefore, 
+ 
+ 
+ 
+d = 1.22
+0.020 0 m
+(
+) 9 000 m
+(
+)
+2.10 m
+⎡
+⎣⎢
+⎤
+⎦⎥= 105 m
+ 
+ 
+ 
+ 
+Section 38.4 
+The Diffraction Grating 
+P38.25 
+The first order maximum occurs at 20.5°, so sinθ = sin20.5° = 0.350, 
+and, from Equation 38.7,  
+ 
+  
+ 
+d =
+λ
+sinθ = 632.8 nm
+0.350
+= 1.81× 103 nm 
+ 
+Therefore, the line spacing = 1.81 µm
+
+--- PAGE 16 ---
+806     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.26 
+The ruling engine that cut the diffraction grating (or the aluminum 
+plate from which the gelatin or plastic was cast) sliced each centimeter 
+into two thousand divisions. So the grating spacing is 
+ 
+ 
+d = 1.00 × 10−2 m
+2 000
+= 5.00 × 10−6 m
+ 
+ 
+The light is deflected according to   dsinθ = mλ:  
+ 
+ 
+θ = sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 1 640 × 10−9 m
+(
+)
+5.00 × 10−6 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 7.35° 
+P38.27 
+The sound has wavelength λ = v
+f =
+343 m/s
+37.2 × 103 s = 9.22 × 10−3 m. Each 
+diffracted beam is described by d sinθ = mλ,
+m = 0, 1, 2, … 
+ 
+The zero-order beam is at m = 0, θ = 0. The beams in the first order of 
+interference are to the left and right at  
+ 
+ 
+ 
+θ = sin−1 1λ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 9.22 × 10−3 m
+1.30 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 0.709 = 45.2° 
+ 
+For a second-order beam we would need  
+ 
+ 
+ 
+θ = sin−1 2λ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 2 0.709
+(
+)
+[
+] = sin−1 1.42
+(
+)
+ 
+ 
+No angle, smaller or larger than 90°, has a sine greater than 1. Then a 
+diffracted beam does not exist for the second order or any higher 
+order. The whole answer is then: 
+ 
+(a) 
+There are three beams.  
+ 
+(b) The beams are at 0°, +45.2°, –45.2°. 
+P38.28 
+(a) 
+d = 10−2 m
+3 660 = 2.732 × 10−6 m = 2 732 nm 
+ 
+ 
+λ = dsinθ
+m
+, and m = 1: 
+At θ = 10.1°,   λ = 479 nm 
+ 
+ 
+ 
+At θ = 13.7°,   λ = 647 nm . 
+ 
+ 
+ 
+At θ = 14.8°,   λ = 698 nm . 
+ 
+(b) 
+d =
+λ
+sinθ1
+    and    2λ = dsinθ2    so  sinθ2 = 2λ
+d =
+2λ
+λ sinθ1
+= 2sinθ1. 
+ 
+ 
+Therefore, if θ1 = 10.1° then sinθ2 = 2sin 10.1°
+(
+) gives θ2 = 20.5° . 
+ 
+ 
+Similarly, for θ1 = 13.7° , θ2 = 28.3° and for θ1 = 14.8°, θ2 = 30.7° .
+
+--- PAGE 17 ---
+Chapter 38     807 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.29 
+For a side maximum, tanθ = y
+L = 0.400 µm
+6.90 µm , which gives θ = 3.32°. 
+Then, from dsinθ = mλ,  
+ 
+ 
+d =
+1( ) 780 × 10−9 m
+(
+)
+sin3.32°
+= 13.5 µm 
+ 
+ANS. FIG. P38.29 
+ 
+The number of grooves per millimeter 
+ 
+ 
+=
+1× 10−3 m
+13.5 × 10−6 m = 74.2 
+P38.30 
+The grating spacing is  
+ 
+ 
+ 
+d = 1.00 × 10−3 m
+250
+= 4.00 × 10−6 m = 4 000 nm
+  
+ 
+Solving for m in Equation 38.7 gives 
+ 
+ 
+ 
+dsinθ = mλ    →    m = dsinθ
+λ
+ 
+ 
+(a) 
+The number of times a complete order is seen is the same as the 
+number of orders in which the long wavelength limit is visible. 
+ 
+ 
+ 
+mmax = dsinθmax
+λ
+= 4 000 nm
+(
+)sin90.0°
+700 nm
+= 5.71
+ 
+ 
+ 
+or 
+5 orders is the maximum . 
+ 
+(b) The highest order in which the violet end of the spectrum can be 
+seen is: 
+ 
+ 
+ 
+mmax = dsinθmax
+λ
+= 4 000 nm
+(
+)sin90.0°
+400 nm
+= 10.0
+ 
+ 
+ 
+or 
+10 orders in the short-wavelength region .
+
+--- PAGE 18 ---
+808     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.31 
+The grating spacing is  
+ 
+ 
+d = 1.00 × 10−2 m
+4200
+= 2.38 × 10−6 m = 2380 nm 
+ 
+Solving for the angle θ from Equation 38.7,dsinθ = mλ, gives 
+ 
+ 
+θ = sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+    
+ 
+Then,  
+y = Ltanθ = Ltan sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+Thus,  
+Δy = L tan sin−1 mλ2
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥−tan sin−1 mλ1
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+ 
+ 
+For m = 1, 
+ 
+ 
+Δy = 2.00 m
+(
+) tan sin−1 589.6
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥−tan sin−1
+589
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 0.554 mm
+ 
+ 
+For m = 2, 
+ 
+ 
+Δy = 2.00 m
+(
+) tan sin−1 2 589.6
+(
+)
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥−tan sin−1 2 589
+(
+)
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 1.54 mm
+ 
+ 
+For m = 3, 
+ 
+ 
+Δy = 2.00 m
+(
+) tan sin−1 3 589.6
+(
+)
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥−tan sin−1 3 589
+(
+)
+2380
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 5.04 mm
+ 
+ 
+Thus, the observed order must be m = 2 . 
+P38.32 
+The grating spacing is  
+ 
+ 
+ 
+d = 1.00 × 10−2 m
+4 500
+= 2.22 × 10−6 m 
+ 
+In the 1st-order spectrum, diffraction angles are 
+given by 
+ 
+ 
+ 
+sinθ = λ
+d
+: 
+sinθ1 = 656 × 10−9 m
+2.22 × 10−6 m = 0.295 
+ 
+so that for red 
+θ1 = 17.17° 
+ 
+and for blue 
+sinθ2 = 434 × 10−9 m
+2.22 × 10−6 m = 0.195, 
+ 
+so that 
+ 
+θ2 = 11.26°. 
+ANS. FIG. P38.32
+
+--- PAGE 19 ---
+Chapter 38     809 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The angular separation is in first-order,  
+ 
+ 
+ 
+Δθ = 17.17° −11.26° = 5.91° 
+ 
+In the second-order spectrum,  
+ 
+ 
+ 
+Δθ = sin−1 2λ1
+d
+⎛
+⎝⎜
+⎞
+⎠⎟−sin−1 2λ2
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= 13.2°
+ 
+ 
+Again, in the third order,  
+ 
+ 
+ 
+Δθ = sin−1 3λ1
+d
+⎛
+⎝⎜
+⎞
+⎠⎟−sin−1 3λ2
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= 26.5°
+ 
+ 
+Since the red does not appear in the fourth-order spectrum, the answer 
+is complete. 
+P38.33 
+The principal maxima are defined by dsinθ = mλ , where m = 0, 1, 2, … 
+ 
+For m = 1, λ = dsinθ. 
+ 
+Here, θ is the angle between the central (m = 0) and the first order  
+(m = 1) maxima. The value of θ can be determined from the 
+information given about the distance between maxima and the grating-
+to-screen distance:  
+ 
+ 
+tanθ = 0.488 m
+1.72 m = 0.284 
+ 
+so    
+θ = 15.8°    and    sinθ = 0.273. 
+ 
+The distance between grating “slits” equals the reciprocal of the 
+number of grating lines per centimeter 
+ 
+ 
+d =
+1
+5 310 cm−1 = 1.88 × 10−4 cm = 1.88 × 103 nm 
+ 
+The wavelength is       
+ 
+ 
+λ = dsinθ = 1.88 × 103 nm
+(
+) 0.273
+(
+) = 514 nm 
+P38.34 
+From Equation 38.7, sinθ = mλ
+d 
+ 
+Therefore, taking the ends of the visible spectrum to be λv = 400 nm 
+and λr = 750 nm , the ends of the different order spectra are defined by: 
+ 
+End of second order: sinθ2r = 2λr
+d = 1 500 nm
+d
+ 
+ 
+Start of third order: sinθ3v = 3λv
+d
+= 1 200 nm
+d
+
+--- PAGE 20 ---
+810     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, it is seen that θ2r > θ3v and these orders must overlap 
+regardless of the value of the grating spacing d. 
+P38.35 
+(a) 
+We use the grating equation dsinθ = mλ: 
+ 
+ 
+ 
+d = mλ
+sinθ = 3 5.00 × 10−7  m
+(
+)
+sin32.0°
+= 2.83 × 10−6 m
+ 
+ 
+ 
+Thus the grating gauge is  
+ 
+ 
+ 
+1
+d = 3.53 × 105 grooves/m = 3.53 × 103 grooves/cm
+ 
+ 
+ 
+(b) For any interference maximum for this light going through this 
+grating, 
+ 
+ 
+ 
+sinθ = m λ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟=
+m 5.00 × 10−7  m
+(
+)
+2.83 × 10−6 m
+= m(0.177)
+ 
+ 
+ 
+For sinθ ≤1, we require that m(0.177)≤ 1 or m ≤ 5.66. Because m 
+must be an integer, its maximum value is really 5. Therefore, the 
+total number of maxima is 2m + 1 = 11 . 
+ 
+P38.36 
+(a) 
+The several narrow parallel slits make a diffraction grating. The 
+zeroth- and first-order maxima are separated according to 
+ 
+ 
+dsinθ = 1( )λ      sinθ = λ
+d = 632.8 × 10−9 m
+1.2 × 10−3 m
+ 
+ 
+ 
+θ = sin−1 0.000 527
+(
+) = 0.000 527 rad 
+ 
+ 
+y = Ltanθ = 1.40 m
+(
+) 0.000 527
+(
+) = 0.738 mm 
+ 
+ANS. FIG. P38.36 
+ 
+(b) Many equally spaced transparent lines appear on the film. It is 
+itself a diffraction grating. When the same light is sent through 
+the film, it produces interference maxima separated according to 
+ 
+ 
+ 
+dsinθ = 1( )λ   →   sinθ = λ
+d = 632.8 × 10−9 m
+0.738 × 10−3 m = 0.000 857       
+ 
+ 
+ 
+y = Ltanθ = 1.40 m
+(
+) 0.000 857
+(
+) = 1.20 mm
+
+--- PAGE 21 ---
+Chapter 38     811 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+An image of the original set of slits appears on the screen. If the 
+screen is removed, light diverges from the real images with the 
+same wave fronts reconstructed as the original slits produced. 
+Reasoning from the mathematics of Fourier transforms, Gabor 
+showed that light diverging from any object, not just a set of slits, 
+could be used. In the picture, the slits or maxima on the left are 
+separated by 1.20 mm. The slits or maxima on the right are 
+separated by 0.738 mm. The length difference between any pair of 
+lines is an integer number of wavelengths. Light can be sent 
+through equally well toward the right or toward the left.  
+P38.37 
+Fifteen bright spots means that the central maximum and seven orders 
+of side maxima appear.  
+ 
+(a) 
+If the seventh order is at less than 90°, the eighth order might be 
+nearly ready to appear according to 
+ 
+ 
+ 
+dsinθ = mλ
+d 1( ) = 8 654 × 10−9 m
+(
+) →d = 5.23 µm
+d = 5.23 × 10−6 m = 5.23 µm
+ 
+ 
+(b) If the seventh order is just at 90°, 
+ 
+ 
+ 
+dsinθ = mλ
+d 1( ) = 7 654 × 10−9 m
+(
+)
+d = 4.58 × 10−6 m = 4.58 µm
+ 
+ 
+ 
+ 
+Section 38.5 
+Diffraction of X-Rays by Crystals 
+P38.38 
+The atomic planes in this crystal are shown in Figure 38.22 of the text. 
+The diffraction they produce is described by Bragg’s law, 
+ 
+ 
+ 
+2dsinθ = mλ : 
+sinθ = mλ
+2d =
+1 0.140 × 10−9 m
+(
+)
+2 0.281× 10−9 m
+(
+)
+= 0.249 
+ 
+and 
+θ = 14.4° . 
+P38.39 
+The grazing angle is measured from the surface, as shown in Figure 
+38.23. Then, from 2dsinθ = mλ , 
+ 
+ 
+λ = 2dsinθ
+m
+=
+2 0.353 × 10−9 m
+(
+)sin7.60°
+1
+= 9.34 × 10−11 m = 0.093 4 nm
+
+--- PAGE 22 ---
+812     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.40 
+From 2dsinθ = mλ,      
+ 
+ 
+sinθ = mλ
+2d = 2 0.166 nm
+(
+)
+2 0.314 nm
+(
+)
+= 0.529 
+ 
+and     
+θ = 31.9° 
+P38.41 
+(a) 
+By Bragg’s law, 2dsinθ = mλ , and m = 2: 
+ 
+ 
+ 
+λ = 2dsinθ = 2 0.250 nm
+(
+)sin12.6° = 0.109 nm 
+ 
+(b) We obtain the number of orders from 
+ 
+ 
+ 
+mλ
+2d = sinθ ≤1 →m ≤2d
+λ = 2 0.250 nm
+(
+)
+0.109 nm
+= 4.59 
+ 
+ 
+The order-number must be an integer, so the largest value m can 
+have is 4: four orders can be observed.  
+ 
+ 
+ 
+Section 38.6 
+Polarization of Light Waves 
+P38.42 
+In Equation 38.10, tanθp = n2 n1 , the index of refraction n2 of the solid 
+material must be larger than that of air (n1 = 1.00). Therefore, we must 
+have tanθp > 1. For this to be true, we must have θp > 45° , so 
+θp = 41.0° is not possible. 
+P38.43 
+We define the initial angle, at which all the light is transmitted, to be  
+θ = 0. Turning the disk to another angle will then reduce the 
+transmitted light by an intensity factor as described by I = Imax cos2θ. 
+ 
+Then,  
+θ = cos−1
+I
+Imax
+ 
+ 
+(a) 
+For I = Imax/3.00,  
+ 
+ 
+ 
+θ = cos−1
+I
+Imax
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= cos−1
+1
+3.00 = cos−1 0.577 = 54.7°
+ 
+ 
+(b) Now θ = cos−1
+I
+Imax
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= cos−1
+1
+5.00 = cos−1 0.447 = 63.4° 
+ 
+(c) 
+The largest factor of intensity reduction requires the largest 
+crossing angle, 
+ 
+ 
+ 
+θ = cos−1
+I
+Imax
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+= cos−1
+1
+10.0 = cos−1 0.316 = 71.6°
+
+--- PAGE 23 ---
+Chapter 38     813 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.44 
+By Brewster’s law, for light in air (n = 1.00) reflecting off a surface of 
+index n,  
+ 
+ 
+tanθp = n2
+n1
+=
+n
+1.00 = n
+n = tanθp = tan 48.0°
+(
+) = 1.11
+ 
+P38.45 
+The intensity of unpolarized light passing through the first polarizing 
+filter is reduced by 1/2. The second transmits cos2 30.0° = 3
+4. 
+ 
+ 
+ 
+I
+Imax
+= 1
+2 × 3
+4 = 3
+8 = 0.375 
+*P38.46 
+P = ΔV
+(
+)2
+R
+  or   P ∝ΔV
+(
+)2 
+ 
+ΔV = −
+( )Ey ⋅Δy = Ey ⋅cosθ 
+ 
+ΔV ∝cosθ   so   P ∝cos2θ 
+ 
+(a) 
+θ = 15.0°: 
+ 
+ 
+ 
+P = Pmax cos2 15.0°
+(
+) = 0.933Pmax = 93.3% 
+ 
+(b) 
+θ = 45.0°: P = Pmax cos2 45.0°
+(
+) = 0.500Pmax = 50.0% 
+ 
+(c) 
+θ = 90.0°: P = Pmax cos2 90.0°
+(
+) = 0.00% 
+P38.47 
+Let the first sheet have its axis at angle θ to the original plane of 
+polarization, and let each further sheet have its axis turned by the same 
+angle. 
+ 
+The first sheet passes intensity Imax cos2θ, 
+ 
+The second sheet passes 
+Imax cos2θ
+(
+)cos2θ = Imax cos4θ, 
+ 
+and the nth sheet lets through Imax cos2nθ ≥0.90Imax, where θ = 45°
+n . 
+ 
+Try different integers to find n; for example,  
+ 
+ 
+cos2×5
+45°
+5
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.885,   cos2×6
+45°
+6
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.902,   cos2×7
+45°
+7
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.915
+ 
+ 
+(a) 
+So    n = 6 . 
+ 
+(b) 
+θ = 45°
+6 = 7.50° 
+θ
+l
+receiving
+antenna
+∆y
+ANS. FIG. P38.46
+
+--- PAGE 24 ---
+814     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.48 
+(a) 
+Let I0 represent the intensity of unpolarized light incident on the 
+first polarizer. The intensity of unpolarized light passing through 
+a polarizing filter is reduced by 1/2, so the first filter lets through 
+1/2 of the incident intensity. Of the light reaching them, the 
+second filter passes cos
+2 45° = 1/2 and the third filter also  
+cos
+2 45° = 1/2. The transmitted intensity is then  
+ 
+ 
+ 
+I0
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.125I0
+  
+ 
+ 
+The reduction in intensity is by a factor of 1.00 – 0.125 = 0.875 of 
+the incident intensity. 
+ 
+(b) By the same logic as in part (a) we have transmitted  
+ 
+ 
+ 
+I0
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos2 30.0°
+(
+) cos2 30.0°
+(
+) cos2 30.0°
+(
+) =
+I0
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos2 30.0°
+(
+)
+3
+= 0.211I0
+ 
+ 
+ 
+Then the fraction absorbed is 1.00 – 0.211 = 0.789. 
+ 
+(c) 
+Yet again we compute transmission  
+ 
+ 
+ 
+I0
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos2 15.0°
+(
+)
+6 = 0.330I0
+ 
+ 
+ 
+And the fraction absorbed is 1.00 – 0.330 = 0.670. 
+ 
+(d) 
+We can get more and more of the incident light through the stack
+of ideal filters, approaching 50%, by reducing the angle between
+the transmission axes of each one and the next.
+ 
+P38.49 
+For the polarizing angle,  
+ 
+ 
+ 
+nsapphire
+nair
+= tanθp   and   θp = tan−1 nsapphire
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+For the critical angle for total internal reflection, 
+ 
+ 
+ 
+nsapphire sinθc = nair sin90° = 1.00   so   nsapphire =
+1
+sinθc
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+ 
+θp = tan−1
+1
+sin θc
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+1
+sin 34.4°
+⎛
+⎝⎜
+⎞
+⎠⎟= 60.5°
+
+--- PAGE 25 ---
+Chapter 38     815 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.50 
+For the polarizing angle, 
+ 
+ 
+tanθp = n2
+n1
+= n
+1 = n     
+ 
+and     
+sinθc = n2
+n1
+= 1
+n 
+ 
+Thus,  
+tanθp =
+1
+sinθc
+: 
+ 
+θp = tan−1
+1
+sinθc
+⎛
+⎝⎜
+⎞
+⎠⎟
+or
+θp = tan−1  csc θc
+(
+)
+or
+θp = cot−1  sin θc
+(
+) 
+*P38.51 
+From Malus’s law, the intensity of the light transmitted by the first 
+polarizer is I1 = Ii cos2θ1. The plane of polarization of this light is 
+parallel to the axis of the first plate and is incident on the second plate. 
+Malus’s law gives the intensity transmitted by the second plate as  
+ 
+ 
+I2 = I1 cos2 θ2 −θ1
+(
+) = Ii cos2θ1 cos2 θ2 −θ1
+(
+) 
+ 
+This light is polarized parallel to the axis of the second plate and is 
+incident upon the third plate. A final application of Malus’s law gives 
+the transmitted intensity as 
+ 
+ 
+I f = I2 cos2 θ3 −θ2
+(
+) = Ii cos2θ1 cos2 θ2 −θ1
+(
+)cos2 θ3 −θ2
+(
+) 
+ 
+With θ1 = 20.0°, θ2 = 40.0°, and θ3 = 60.0°, this result yields 
+ 
+I f = 10.0 units
+(
+) cos2 20.0°
+(
+) cos2 20.0°
+(
+) cos2 20.0°
+(
+) = 6.89 units 
+*P38.52 
+Half of the unpolarized light passes through the first sheet. The light 
+that passes through the first sheet is polarized at 45° relative to the 
+second sheet, and the light that passes through the second sheet is 
+polarized at 45° relative to the third sheet. The fraction of transmitted 
+light is given by two successive applications of Malus’s law: 
+ 
+ 
+ 
+I
+Imax
+= 1
+2 cos2 45.0°
+(
+) cos2 45.0°
+(
+) =
+1
+8 
+ 
+ 
+ 
+Additional Problems 
+P38.53 
+(a) 
+We assume the first side maximum is at asinθ = 1.5λ. (Its location 
+is determined more precisely in Problem 71.) Then the required 
+fractional intensity is  
+ 
+ 
+ 
+I
+Imax
+= sin(πasinθ λ)
+πasinθ λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= sin(1.5π)
+1.5π
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+=
+1
+2.25π 2 = 0.045 0
+
+--- PAGE 26 ---
+816     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Proceeding as in part (a), we assume asinθ = 2.5λ:  
+ 
+ 
+ 
+I
+Imax
+= sin(πasinθ λ)
+πasinθ λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= sin(2.5π)
+2.5π
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+=
+1
+6.25π 2 = 0.016 2
+ 
+P38.54 
+(a) 
+One slit, as the central maximum is twice as wide as the other 
+maxima. A two-slit pattern has evenly spaced fringes (within a  
+one-slit diffraction envelope).  
+ 
+(b) For precision, we measure from the second minimum on one side 
+of the center to the second minimum on the other side:  
+ 
+ 
+ 
+2y = (11.7 −6.3) cm = 5.4 cm →y = 2.7 cm 
+ 
+ 
+ 
+tanθ = y
+L = 0.027 m
+2.60 m ≈sinθ
+asinθ = mλ
+a = mλ
+sinθ =
+2 632.8 × 10−9 m
+(
+)
+0.027 m
+2.60 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.22 × 10−4 m
+= 0.122 mm wide
+ 
+P38.55 
+Figure 38.23 of the text shows the situation. This is Bragg diffraction 
+for water waves.  
+ 
+ 
+2dsinθ = mλ    or    λ = 2dsinθ
+m
+ 
+ 
+m = 1: 
+λ1 = 2 2.80 m
+(
+)sin80.0°
+1
+= 5.51 m 
+ 
+m = 2: 
+λ2 = 2 2.80 m
+(
+)sin80.0°
+2
+= 2.76 m 
+ 
+m = 3: 
+λ3 = 2 2.80 m
+(
+)sin80.0°
+3
+= 1.84 m 
+P38.56 
+For dark fringes in an interference pattern formed by a single slit, 
+asinθ = mλ. By the small-angle approximation, sinθ ≈tanθ = y
+L. 
+Substituting, we have a y
+L = 2λ and 
+ 
+ 
+λ = ya
+2L = 1.40 × 10−3 m
+(
+) 0.800 × 10−3 m
+(
+)
+2 85.0 × 10−2 m
+(
+)
+= 6.59 × 10−7 m = 659 nm
+
+--- PAGE 27 ---
+Chapter 38     817 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.57 
+The first minimum is at asinθ = 1( )λ. 
+ 
+This has no solution if λ
+a > 1, 
+ 
+or if a < λ = 632.8 nm . 
+P38.58 
+(a) 
+With light in effect moving through vacuum, Rayleigh’s criterion 
+limits the resolution according to 
+ 
+ 
+ 
+θmin = 1.22 λ
+D = d
+L
+ 
+ 
+ 
+The diameter of the aperture is then 
+ 
+ 
+ 
+D = 1.22λL
+d
+= 1.22 885 × 10−9 m
+(
+) 12 000 m
+(
+)
+2.30 m
+= 0.005 63 m = 5.63 mm
+ 
+ 
+(b) 
+The assumption is unreasonable. Over a horizontal path
+of 12 km in air, density variations associated with 
+convection (“heat waves,” or what an astronomer calls 
+“seeing”) would make the motorcycles completely 
+unresolvable with any optical device.
+ 
+P38.59 
+(a) 
+We first determine the wavelength of 1.40-GHz radio waves from 
+λ = v
+f :   
+  
+ 
+ 
+λ = 3.00 × 108 m/s
+1.40 × 109 s−1 = 0.214 m 
+ 
+ 
+Applying Rayleigh’s criterion, θmin = 1.22 λ
+D , we obtain  
+ 
+ 
+ 
+θmin = 1.22
+0.214 m
+3.60 × 104 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.26 µrad
+ 
+ 
+ 
+ 
+θmin = 7.26 µrad
+(
+) 180 × 60 × 60 s
+π
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.50 arc seconds
+ 
+ 
+(b) To determine the separation between the clouds, we use θmin = d
+L :  
+ 
+ 
+ 
+d = θminL = 7.26 × 10−6 rad
+(
+) 26 000 ly
+(
+) = 0.189 ly
+
+--- PAGE 28 ---
+818     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+It is not true for humans, but we assume the hawk’s visual acuity 
+is limited only by Rayleigh’s criterion, θmin = 1.22 λ
+D. Substituting 
+numerical values, 
+ 
+ 
+ 
+θmin = 1.22
+500 × 10−9 m
+12.0 × 10−3 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 50.8 µrad = 10.5 seconds of arc
+ 
+ 
+(d) Following the same procedure as in part (b), we have 
+ 
+d = θminL = 50.8 × 10−6 rad
+(
+) 30.0 m
+(
+) = 1.52 × 10−3 m = 1.52 mm 
+*P38.60 
+Differentiating Equation 38.7,dsinθ = mλ , gives 
+ 
+ 
+ 
+d cosθ
+(
+)dθ = mdλ 
+ 
+or 
+ 
+d 1−sin2θΔθ ≈mΔλ. 
+ 
+Plugging in for sinθ, 
+ 
+ 
+ 
+d 1−m2λ2
+d2
+Δθ ≈mΔλ
+ 
+ 
+so 
+ 
+Δθ ≈
+Δλ
+d2 m2
+(
+) −λ2 . 
+*P38.61 
+The grid spacing is 
+ 
+ 
+ 
+d = 10−3 m
+400
+= 2.50 × 10−6 m 
+ 
+(a) 
+From Equation 38.7, dsinθ = mλ :     
+ 
+ 
+ 
+θa = sin−1 2 541× 10−9 m
+(
+)
+2.50 × 10−6 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 25.6° 
+ 
+(b) In water,  
+ 
+ 
+ 
+λ = 541× 10−9 m
+1.333
+= 4.06 × 10−7 m 
+ 
+ 
+and θb = sin−1 2 4.06 × 10−7 m
+(
+)
+2.50 × 10−6 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 18.9° 
+ 
+(c) 
+dsinθa = 2λ   and   dsinθb = 2λ
+n
+→dnsinθb = 2λ     
+ 
+ 
+Each equals 2λ: therefore nsinθb = 1( )sinθa .
+
+--- PAGE 29 ---
+Chapter 38     819 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.62 
+We check to see if the m = 15 interference maximum is visible.  
+ 
+We find the sine of the angle for the m = mdouble two-slit interference 
+maximum: 
+ 
+ 
+ 
+mdoubleλ = dsinθbright →sinθbright  = mdoubleλ
+d
+ 
+[1] 
+ 
+Then find the sine of the angle for the m = msingle single-slit interference 
+minimum: 
+ 
+ 
+ 
+sinθdark  = 
+msingleλ
+a
+ 
+[2] 
+ 
+Divide equation [2] by equation [1]: 
+ 
+ 
+ 
+sinθdark
+sinθbright
+ = 
+msingle λ a
+mdouble λ d = 
+msingle
+mdouble
+d
+a 
+ 
+Now let the angle of the single-slit minimum be equal to that of the 
+double-slit maximum: 
+ 
+ 
+ 
+1 =   msingle
+mdouble
+d
+a =  msingle
+mdouble
+30.0 µm
+2.00 µm = 15 msingle
+mdouble
+ 
+ 
+which gives mdouble = 15msingle. 
+ 
+Therefore, the msingle = 1 minimum aligns with the mdouble = 15 
+maximum so that the mdouble = 15 maximum has zero intensity and 
+could not startle the co-worker. 
+P38.63 
+With a grazing angle of 36.0° (measured from the surface), the angle of 
+incidence is 54.0°, which equals the polarizing angle:  
+ 
+ 
+tanθp = n2
+n1
+=
+n
+1.00 = n = tan54.0° = 1.38 
+ 
+In the liquid, 
+ 
+ 
+ 
+λn = λ
+n = 750 nm
+1.38
+= 545 nm 
+P38.64 
+(a) 
+Bragg’s law applies to the space lattice of melanin rods. Consider 
+the planes d = 0.25 µm apart. For light at near-normal incidence, 
+strong reflection happens for the wavelength given by 
+2dsinθ = mλ. The longest wavelength reflected strongly 
+corresponds to m = 1: 
+ 
+ 
+ 
+ 
+2 0.25 × 10−6 m
+(
+)sin90° = λ = 500 nm 
+ 
+ 
+This is the blue-green color.
+
+--- PAGE 30 ---
+820     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For light incident at grazing angle 60°, 2dsinθ = mλ gives 
+2 0.25 × 10−6 m
+(
+)sin60° = λ = 433 nm. This is violet. 
+ 
+(c) 
+Your two eyes receive light reflected from the feather at different 
+angles, so they receive light incident at different angles and 
+containing different colors reinforced by constructive 
+interference. 
+ 
+(d) The longest wavelength that can be reflected with extra strength 
+by these melanin rods is the one we computed first, 500 nm blue-
+green.  
+ 
+(e) 
+If the melanin rods were farther apart (say 0.32 µm) they could 
+reflect red with constructive interference.  
+P38.65 
+In ANS. FIG. P38.65, light strikes the liquid at the polarizing angle θp, 
+enters the liquid at angle θ2 , and then strikes the slab at the angle θ3 , 
+which is equal to the polarizing angle ′
+θp. The angle between the water 
+surface and the surface of the slab, θ, is related to the other angles by 
+(from the triangle)  
+ 
+ 
+θ + 90° +θ2
+(
+)+ 90° −θ3
+(
+) = 180°    →    θ = θ3 −θ2
+ 
+ 
+ANS. FIG. P38.65 
+ 
+For the air-to-water interface, 
+ 
+ 
+tanθp = nwater
+nair
+= 1.33
+1.00
+→
+θp = 53.1° 
+ 
+and 
+1.00
+(
+)sinθp = 1.33
+(
+)sinθ2 
+ 
+ 
+θ2 = sin−1 sin53.1°
+1.33
+⎛
+⎝⎜
+⎞
+⎠⎟= 36.9° 
+ 
+For the water-to-slab interface,  
+ 
+ 
+tanθ3 = tanθp = nslab
+nwater
+=
+n
+1.33 = 1.62
+1.33
+θ3 = 50.6°
+ 
+ 
+The angle between surfaces is θ = θ3 −θ2 = 13.7° .
+
+--- PAGE 31 ---
+Chapter 38     821 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.66 
+Refer to ANS. FIG. P38.65 above. Light strikes the liquid at the 
+polarizing angle θp, enters the liquid at angle θ2 , and then strikes the 
+slab at the angle θ3 , which is equal to the polarizing angle ′
+θP . The 
+angle between the water surface and the surface of the slab, θ, is 
+related to the other angles by (from the triangle)  
+ 
+ 
+θ + 90° +θ2
+(
+)+ 90° −θ3
+(
+) = 180°    →    θ = θ3 −θ2
+ 
+ 
+Also,  
+ 
+ 
+θp + 90° +θ2 = 180°
+θp = 90° −θ2
+ 
+ 
+For the air-to-liquid interface, 
+ 
+ 
+tanθp = n2
+n1
+= nliquid
+nair
+= n
+1 = sinθp
+cosθp
+= sin 90° −θ2
+(
+)
+cos 90° −θ2
+(
+)
+= cosθ2
+sinθ2
+=
+1
+tanθ2
+ 
+ 
+So, 
+tanθ2 = 1
+n
+→
+θ2 = tan−1
+1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+For the water-to-slab interface,  
+ 
+ 
+tanθ3 = tan ′
+θp = nslab
+nliquid
+= n
+n
+→
+θ3 = tan−1
+n
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Therefore,  
+ 
+ 
+θ = θ3 −θ2
+→
+  θ = tan−1
+n
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ − tan−1
+1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P38.67 
+For the limiting angle of resolution between lines we assume 
+ 
+θmin = 1.22 λ
+D = 1.22
+550 × 10−9 m
+(
+)
+5.00 × 10−3 m
+(
+)
+= 1.34 × 10−4 rad 
+ 
+Assuming a picture screen with vertical dimension , the minimum 
+viewing distance for no visible lines is found from θmin = 485
+L
+. The 
+desired ratio is then 
+L
+=
+1
+485θmin
+=
+1
+485 1.34 × 10−4 rad
+(
+)
+= 15.4 
+ 
+When the pupil of a human eye is wide open, its actual resolving 
+power is significantly poorer than Rayleigh’s criterion suggests.
+
+--- PAGE 32 ---
+822     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.68 
+(a) 
+We require     
+ 
+ 
+ 
+θmin = 1.22 λ
+D = radius of diffraction disk
+L
+= D 2
+L . 
+ 
+ 
+Then, D2 = 2.44λL . 
+ 
+(b) 
+D =
+2.44 500 × 10−9 m
+(
+) 0.150 m
+(
+) = 4.28 × 10−4 m = 428 µm 
+P38.69 
+(a) 
+Constructive interference of light of wavelength λ on the screen is 
+described by dsinθ = mλ and, because tanθ = y
+L , we may write 
+sinθ =
+y
+L2 + y2 . Therefore,  
+ 
+ 
+ 
+d( )y L2 + y2
+(
+)
+−1 2 = mλ 
+ 
+Differentiating with respect to y gives  
+ 
+ 
+ 
+d( ) L2 + y2
+(
+)
+−1 2 + d( )y −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟L2 + y2
+(
+)
+−3 2 0 + 2y
+(
+) = m dλ
+dy
+d( )
+L2 + y2
+(
+)
+1 2 −
+d( )y2
+L2 + y2
+(
+)
+3 2 = m dλ
+dy =
+d( ) L2 + y2
+(
+) −d( )y2
+L2 + y2
+(
+)
+3 2
+→dλ
+dy =
+d( )L2
+m L2 + y2
+(
+)
+3 2
+ 
+ 
+(b) Here dsinθ = mλ gives, for m = 1,  
+ 
+ 
+ 
+10−2 m
+8 000 sinθ = 1 550 × 10−9 m
+(
+)
+ 
+ 
+ 
+or 
+θ = sin−1
+550 × 10−9 m
+1.25 × 10−6 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 26.1° 
+ 
+ 
+Then, 
+ 
+ 
+ 
+y = Ltanθ = 2.40 m
+(
+)tan26.1° = 1.18 m 
+ 
+ 
+So we have 
+ 
+ 
+ 
+dλ
+dy =
+d( )L2
+m L2 + y2
+(
+)
+3 2 =
+1.25 × 10−6 m
+(
+) 2.40 m
+(
+)
+2
+1( )
+2.4 m
+(
+)
+2 + 1.18 m
+(
+)
+2
+⎡⎣
+⎤⎦
+3 2
+= 3.77 × 10−7 m
+m = 3.77 × 10−7 109nm
+102cm = 3.77 nm cm
+
+--- PAGE 33 ---
+Chapter 38     823 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.70 
+(a) 
+Applying Snell’s law gives 
+n2 sinφ = n1 sinθ . From the sketch in ANS. 
+FIG. P38.70(a), we also see that: 
+ 
+ 
+ 
+θ + φ + β = π ,    or    φ = π −θ + β
+(
+) 
+ 
+ 
+Using the given identity, 
+ 
+ 
+ 
+sinφ = sinπ cos θ + β
+(
+) −cosπ sin θ + β
+(
+) 
+ 
+ 
+which reduces to, 
+ 
+ 
+ 
+ 
+sinφ = sin θ + β
+(
+) 
+ 
+ 
+Applying the identity again,  
+ 
+ 
+ 
+sinφ = sinθ cosβ + cosθ sinβ 
+ 
+ 
+Snell’s law then becomes, 
+ 
+ 
+ 
+n2 sinθ cosβ + cosθ sinβ
+(
+) = n1 sinθ 
+ 
+ 
+or (after dividing by cosθ): 
+ 
+ 
+ 
+ 
+n2 tanθ cosβ + sinβ
+(
+) = n1 tanθ 
+ 
+ 
+Solving for tanθ gives: 
+ 
+ 
+ 
+ 
+tanθ =
+n2 sinβ
+n1 −n2 cosβ
+ 
+ 
+(b) If β = 90.0°, the above result becomes: 
+ 
+ 
+ 
+tanθ =
+n2 sin90°
+n1 −n2 cos90° = n2
+n1
+, which is Brewster’s law 
+P38.71 
+From I = Imax
+sinφ
+φ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ we find  
+ 
+ 
+dI
+dφ = Imax2 sinφ
+φ
+⎛
+⎝⎜
+⎞
+⎠⎟
+φ cosφ −sinφ
+⎡⎣
+⎤⎦1
+φ 2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+and require that it be zero. The possibility sinφ = 0 locates all of the 
+minima and the central maximum, according to 
+ 
+ 
+φ = 0, π, 2π, …; 
+φ = π asinθ
+λ
+= 0, π, 2π, …; 
+ 
+ 
+ 
+asinθ = 0, λ, 2λ, … 
+ 
+ANS. FIG. P38.70(a)
+
+--- PAGE 34 ---
+824     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The side maxima are found from  
+ 
+ 
+φ cosφ −sinφ = 0   or   tanφ = φ 
+ 
+This has solutions 
+ 
+ 
+ 
+φ = 4.493 4, φ = 7.7253, and others.  
+ 
+(a) 
+φ = 4.49 compared to the prediction from the approximation of  
+1.5π = 4.71. 
+ 
+(b) 
+φ = 7.73 compared to the prediction from the approximation of  
+2.5π = 7.85. 
+ 
+P38.72 
+(a) 
+From Equation 38.2, 
+I
+Imax
+= sin φ( )
+φ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+ where we define 
+φ ≡πasinθ
+λ
+. 
+ 
+ 
+Therefore, when   
+I
+Imax
+= 1
+2 we must have  
+ 
+ 
+ 
+sinφ
+φ
+= 1
+2 ,   or   sinφ = φ
+2
+ 
+ 
+(b) Let y1 = sinφ and y2 = φ
+2 . 
+ 
+ 
+A plot of y1 and y2 in the range 1.00 ≤φ ≤π
+2 is shown in ANS. FIG. 
+P38.72(b). 
+ 
+ANS. FIG. P38.72(b) 
+ 
+ 
+The solution to the transcendental equation is found to be 
+φ = 1.39 rad . 
+ 
+(c) 
+π asinθ
+λ
+= φ    gives sinθ =
+φ
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a
+.  If λ
+a
+ is small, then θ ≈
+φ
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a
+.
+
+--- PAGE 35 ---
+Chapter 38     825 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This gives the half-width, measured away from the maximum at 
+θ = 0. The pattern is symmetric, so the full width is given by 
+ 
+ 
+ 
+Δθ =
+φ
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a −−φ
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a
+⎛
+⎝⎜
+⎞
+⎠⎟= 2 φ
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a = 2 1.39 rad
+π
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+a
+=
+0.885λ
+a
+ 
+ 
+(d)   
+ φ 
+2 sinφ 
+1 
+ 1.19 
+bigger than φ 
+2 
+ 1.29 
+smaller than φ 
+1.5 
+ 1.41 
+smaller 
+1.4 
+ 1.394 
+1.39 
+ 1.391 
+bigger 
+1.395 
+ 1.392 
+1.392 
+ 1.391 7 
+smaller 
+1.391 5 
+ 1.391 54 
+bigger 
+1.391 52 
+ 1.391 55 
+bigger 
+1.391 6 
+ 1.391 568 
+smaller 
+1.391 58 
+ 1.391 563 
+1.391 57 
+ 1.391 561 
+1.391 56 
+ 1.391 558 
+1.391 559 
+ 1.391 557 8 
+1.391 558 
+ 1.391 557 5 
+1.391 557 
+ 1.391 557 3 
+1.391 557 4 
+ 1.391 557 4 
+ 
+ 
+We get the answer as 1.391 557 4 to seven digits after 17 steps. 
+Clever guessing, like using the value of 
+2 sinφ as the next guess 
+for φ, could reduce this to around 13 steps.
+
+--- PAGE 36 ---
+826     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.73 
+(a) 
+The angles of bright beams diffracted from the grating are given 
+by dsinθ = mλ. The angular dispersion is defined as the 
+derivative dθ
+dλ
+:       
+ 
+ 
+ 
+dcosθ dθ
+dλ = m
+→
+dθ
+dλ =
+m
+dcosθ
+ 
+ 
+(b) For the average wavelength  
+ 
+ 
+ 
+579.065 nm + 576.959 nm
+2
+= 578.012 nm 
+ 
+ 
+dsinθ = mλ gives 
+ 
+ 
+ 
+0.020 0 m
+8 000
+sinθ = 2 578.012 × 10−9 m
+(
+)
+ 
+ 
+ 
+and θ = sin−1 2 × 578 × 10−9 m
+2.5 × 10−6 m
+= 27.5° 
+ 
+ 
+The separation angle between the lines is, for  
+ 
+ 
+ 
+Δλ = 576.959 nm −579.065 nm = 2.106 nm  
+ 
+ 
+and 
+ 
+ 
+ 
+Δθ = dθ
+dλ Δλ =
+m
+dcosθ Δλ
+=
+2
+2.5 × 10−6 mcos27.5° 2.106 × 10−9 m
+(
+)
+= 0.001 90 = 0.001 90 rad = 0.001 90 rad
+180°
+π rad
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.109°
+ 
+P38.74 
+(a) 
+See ANS. FIG. P38.74. 
+ 
+ANS. FIG. P38.74
+
+--- PAGE 37 ---
+Chapter 38     827 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The first minimum in the single-slit diffraction pattern occurs at 
+ 
+ 
+ 
+sinθ = λ
+a ≈ymin
+L
+ 
+ 
+ 
+Thus, the slit width is given by 
+ 
+ 
+ 
+a = λL
+ymin
+ 
+ 
+ 
+For a minimum located at ymin = 6.36 mm ± 0.08 mm, the width is 
+ 
+ 
+ 
+a =
+632.8 × 10−9 m
+(
+) 1.00 m
+(
+)
+6.36 × 10−3 m
+= 99.5 µm ± 1% 
+ 
+ 
+ 
+Challenge Problems 
+P38.75 
+(a) 
+The E and O rays, in phase at the surface of the plate, will have a 
+phase difference 
+ 
+ 
+ 
+θ =
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟δ 
+ 
+ 
+after traveling distance d through the plate. Here δ is the 
+difference in the optical path lengths of these rays. The optical path 
+length between two points is the product of the actual path length 
+d and the index of refraction. Therefore, 
+ 
+ 
+ 
+δ = dnO −dnE 
+ 
+ 
+The absolute value is used since nO
+nE may be more or less than 
+unity. Therefore, 
+ 
+ 
+ 
+θ =
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟dnO −dnE =
+2π
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟d nO −nE
+ 
+ 
+(b) 
+d =
+λθ
+2π nO −nE
+=
+550 × 10−9 m
+(
+) π 2
+(
+)
+2π 1.544 −1.553
+= 1.53 × 10−5 m = 15.3 µm 
+P38.76 
+(a) 
+The concave mirror of the spy satellite is probably about 2 m in 
+diameter, and is surely not more than 5 m in diameter. That is the 
+size of the largest piece of glass successfully cast to a precise 
+shape, for the mirror of the Hale telescope on Mount Palomar. If 
+the spy satellite had a larger mirror, its manufacture could not be 
+kept secret, and it would be visible from the ground. Outer space
+
+--- PAGE 38 ---
+828     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+is probably closer than your state capitol, but the satellite is surely 
+above 200-km altitude, for reasonably low air friction. We find the 
+distance between barely resolvable objects at a distance of 200 km, 
+seen in yellow light through a 5-m aperture: 
+ 
+ 
+ 
+y
+L = θmin = 1.22 λ
+D
+y = 2 × 107 m
+(
+) 1.22
+(
+) 6 × 10−7 m
+5 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 3 cm
+ 
+ 
+ 
+Thus the snooping spy satellite cannot see the difference between 
+III and II or IV on a license plate. A resolution of about 3 cm 
+would make it difficult to read a license plate. 
+ 
+(b) 
+No. The resolution is too large. It cannot count coins spilled on a 
+sidewalk, much less read the dates on them. 
+ 
+ 
+Considering atmospheric image distortion caused by variations in 
+air density and temperature, the distance between barely 
+resolvable objects is more like, assuming a limiting angle of one 
+second of arc,  
+ 
+ 
+ 
+2 × 107 m
+(
+) 1 s
+(
+)
+1°
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+π rad
+180°
+⎛
+⎝⎜
+⎞
+⎠⎟= 97 cm ≈1 m 
+P38.77 
+(a) 
+From Equation 38.1, θ = sin−1 mλ
+a
+⎛
+⎝⎜
+⎞
+⎠⎟. In this case m = 1 and  
+ 
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+7.50 × 109 Hz = 4.00 × 10−2 m 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+θ = sin−1 4.00 × 10−2 m
+6.00 × 10−2 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 41.8° 
+ 
+(b) From Equation 38.2, 
+ 
+ 
+ 
+ 
+I
+Imax
+= sin φ( )
+φ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+   where   φ = π asinθ
+λ
+ 
+ 
+ 
+When θ = 15.0°, 
+ 
+ 
+ 
+ 
+φ = π 0.060 0 m
+(
+)sin15.0°
+0.040 0 m
+= 1.22 rad 
+ 
+ 
+and 
+I
+Imax
+= sin 1.22 rad
+(
+)
+1.22 rad
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= 0.592
+
+--- PAGE 39 ---
+Chapter 38     829 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+sinθ = λ
+a ,     so     θ = 41.8°: 
+ 
+ 
+This is the minimum angle subtended by 
+the two sources at the slit. Refer to ANS. 
+FIG. P38.77(c). Let α be the half angle 
+between the sources, each a distance 
+= 0.100 m from the center line and a 
+distance L from the slit plane. Then, 
+ 
+ 
+ 
+L = cotα = 0.100 m
+(
+)cot 41.8°
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.262 m 
+P38.78 
+For incident unpolarized light of intensity Imax, the average value of the 
+cosine-squared function is one-half, so the intensity after transmission 
+by the first disk is I = 1
+2 Imax. 
+ 
+After transmitting 2nd disk: I = 1
+2 Imax cos2θ 
+ 
+After transmitting 3rd disk: I = 1
+2 Imax cos2θ cos2 90° −θ
+(
+) 
+ 
+where the angle between the first and second disk is θ = ω t . 
+ 
+ANS. FIG. P38.78 
+ 
+Using trigonometric identities cos2θ = 1
+2 1+ cos2θ
+(
+) 
+ 
+and cos2 90° −θ
+(
+) = sin2θ = 1
+2 1−cos2θ
+(
+), 
+ 
+we have I = 1
+2 Imax
+1+ cos2θ
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+1−cos2θ
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+I = 1
+8 Imax 1−cos2 2θ
+(
+) = 1
+8 Imax
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟1−cos4θ
+(
+) 
+ 
+Since θ = ω t, the intensity of the emerging beam is given by  
+ 
+ 
+I = 1
+16 Imax 1−cos 4ω t
+(
+) 
+ 
+ANS. FIG. P38.77(c)
+
+--- PAGE 40 ---
+830     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.79 
+The energy in the central maximum we can estimate in Figure P38.79 
+as proportional to  
+ 
+ 
+width
+(
+) height
+(
+) = 2π
+(
+)Imax 
+ 
+As in Problem P38.71, the maximum height of the first side maximum 
+is approximately  
+ 
+ 
+I = Imax
+sin φ( )
+φ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+= Imax
+sin 3π 2
+(
+)
+3π 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+= 4Imax
+9π 2 
+ 
+Then the energy in one side maximum is proportional to π
+4Imax
+9π 2
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+and that in both of the first side maxima together is proportional to 
+2π
+4Imax
+9π 2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Similarly and more precisely, and always with the same 
+proportionality constant, the energy in both of the second side maxima 
+is proportional to 2π
+4Imax
+25π 2
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+The energy in all of the side maxima together is proportional to  
+ 
+ 
+2π
+4Imax
+π 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+32 + 1
+52 + 1
+72 + 1
+92 +
+⎛
+⎝⎜
+⎞
+⎠⎟
+               = 2π
+4Imax
+π 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+π 2
+8 −1
+⎛
+⎝⎜
+⎞
+⎠⎟= Imax π −8
+π
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.595Imax
+ 
+ 
+The ratio of the energy in the central maximum to the total energy is 
+then 
+ 
+ 
+2π
+(
+)Imax
+2π
+(
+)Imax + 0.595Imax
+=
+1
+1+ 0.595 2π
+(
+)
+= 0.913 = 91.3% 
+ 
+Our calculation is only a rough estimate, because the shape of the 
+central maximum in particular is not just a vertically-stretched cycle of 
+a cosine curve. It is slimmer than that.
+
+--- PAGE 41 ---
+Chapter 38     831 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P38.2 
+4.22 mm 
+P38.4 
+(a) 51.8 µm; (b) 949 µm; (c) horizontal; (d) vertical; (e) A smaller 
+distance between aperture edges causes a wider diffraction angle. The 
+longer dimension of each rectangle is 18.3 times larger than the smaller 
+dimension. 
+P38.6 
+(a) 1.50 m; (b) 4.05 mm 
+P38.8 
+a = λL m2 −m1
+Δy
+ 
+P38.10 
+See P38.10 for full explanation. 
+P38.12 
+(a) θ0 = 0°, θ1 = ±10.3° , θ2 = ±21.0 , θ3 = ±32.5°, θ4 = ±45.8°, θ5 = ±63.6°; 
+(b) 11, (c) θ1 = ±45.8° , (d) two, (e) two, (f) nine, (g) 0.032 4 Imax 
+P38.14 
+1.00 × 10
+–3 rad 
+P38.16 
+25.0 m 
+P38.18 
+(a) 79.8 µrad; (b) violet, 54.2 µrad; (c) The resolving power is improved, 
+with the minimum resolvable angle becoming 60.0 µrad. 
+P38.20 
+3.09 m 
+P38.22 
+(a) Blue; (b) 186 m to 271 m 
+P38.24 
+105 m 
+P38.26 
+7.35° 
+P38.28 
+(a) 479 nm, 647 nm,  698 nm; (b) 20.5°, 28.3°, 30.7° 
+P38.30 
+(a) 5 orders is the maximum; (b) 10 orders in the short-wavelength 
+region 
+P38.32 
+5.91°, 13.2°, 26.5° 
+P38.34 
+θ2r > θ3v and these orders must overlap. 
+P38.36 
+(a) 0.738 mm; (b) See P38.36(b) for full explanation. 
+P38.48 
+θ = 14.4° 
+P38.40 
+θ = 31.9° 
+P38.42 
+See P38.42 for full explanation. 
+P38.44 
+1.11 
+P38.46 
+(a) 93.3%; (b) 50.0%; (c) 0.00%
+
+--- PAGE 42 ---
+832     Diffraction Patterns and Polarization 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P38.48 
+(a) 0.875; (b) 0.789; (c) 0.670; (d) We can get more and more of the 
+incident light through the stack of ideal filters, approaching 50%, by 
+reducing the angle between the transmission axes of each one and the 
+next. 
+P38.50 
+θp = tan−1
+1
+sinθc
+⎛
+⎝⎜
+⎞
+⎠⎟    or    θp = tan−1  csc θc
+(
+)    or    θp = cot−1  sin θc
+(
+) 
+P38.52 
+1/8 
+P38.54 
+(a) One slit, as the central maximum is twice as wide as the other 
+maxima; (b) 0.122 mm wide 
+P38.56 
+659 nm 
+P38.58 
+(a) 5.63 mm; (b) The assumption is unreasonable. Over a horizontal 
+path of 12 km in air, density variation associated with convection 
+would make the motorcycles completely unresolvable with any optical 
+device. 
+P38.60 
+See P38.60 for full explanation. 
+P38.62 
+See P38.62 for full explanation. 
+P38.64 
+(a–e) See P38.64 for full explanations. 
+P38.66 
+θ = tan−1
+n
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ − tan−1
+1
+n
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P38.68 
+(a) D2 = 2.44λL; (b) 428 µm 
+P38.70  
+(a) tanθ =
+n2 sinβ
+n1 −n2 cosβ ; (b) See P38.70(b) for full explanation. 
+P38.72  
+(a) sinφ = φ
+2 ; (b) φ = 1.39 rad; (c) 0.885λ
+a
+; (d) 17 steps (13 with clever 
+guessing) 
+P38.74  
+(a) See ANS FIG P38.74; (b) 99.5 µm ± 1% 
+P38.76 
+(a) A resolution of about 3 cm would make it difficult to read a license 
+plate; (b) No 
+P38.78 
+1
+16 Imax 1−cos 4ω t
+(
+)

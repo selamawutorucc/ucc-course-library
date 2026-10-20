@@ -1,0 +1,75 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL								SM/SMS/10/0026
+MED 112				GROUP 19
+EXPERIMENT 6									26TH FEBRUARY, 2010
+MEASUREMENT OF LOW RESISTANCE.
+AIM: To determine the resistances of some connecting cords of different lengths.
+APPARATUS: ammeter, voltmeter, power source, amplifier, connecting cords, connection box, connecting cords of different lengths.
+DIAGRAM:
+THEORY: The resistance of a metal conductor is the ability of the connecting cord to inhibit the flow of current passing through it. The resistance in connecting cords is due to collisions between electrons carrying current with fixed atoms within the cord. These collisions prevent the free flow of charges and hence prevent the flow of current. A connecting cord with low resistance allows large amount of current to pass through it.  A connecting cord with high resistance will only allow small amount of current to pass through it.
+From Ohm’s law which states that when a voltage (potential difference) ∆V is applied across the ends of a conductor, the current in the conductor is found to be proportional to the applied voltage. This law will hold if the temperature of the conductor is kept constant.
+That is    
+
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V against I is a straight line through the origin with a slope equal to the resistance R.
+The resistance is directly proportional to the length and inversely proportional to the area.
+Where R is the resistance of the connecting cord, ρ is its resistivity, l is the length of the cord and A is the cross-sectional area of the cord. Since the resistance of a conductor is directly proportional to the length, an increase in length of the connecting cord means an increase in resistance in the cord. A decrease in the length of the cord will cause a decrease in resistance and hence allow more current to pass through.
+PROCEDURE: One connecting cord, the power supply, and the ammeter in series were connected using the connecting box. The amplifier’s input was connected to the sockets of the connecting cord. The voltmeter was connected to the output of the amplifier. The voltage source was set to 12 V. The current was varied at constant intervals of 0.2A. The voltage drop across the cord was measured for each current selected. The experiment was repeated using the remaining cords provided. A graph of voltage against current was plotted on the same graph. The slope of the graph was determined for each.
+EXPECTED GRAPH:
+V/V
+I/A
+TABLE OF RESULTS:
+LEAST COUNT OF AMMETER: 0.01A
+LEAST COUNT OF VOLTMETER: 0.01V
+AMPLIFICATION: 
+CORD OF LENGTH L=20 CM
+CORD OF LENGTH L=36 CM
+CORD OF LENGTH L=86 CM
+GRAPH: 
+GRAPH OF VOLTAGE /V AGAINST CURRENT /A
+CALCULATIONS: 
+SLOPEs:
+For 20 cm:  =  = 1.1
+For 36 cm:  =  2.2
+For  86 cm: 
+The slope of the graph is the resistance of the cord. The relationship between the slope and the length of the connecting cords is R= V/I.
+But, 
+R represents the slope of the graph.
+Since A and ρ are equal for each cord, comparing R and l shows a direct proportion.
+Hence an increase in the length of the connecting cord results in an increase in the slope, R which is the resistance.
+DISCUSSION: From the graph, an increase in the length of the connecting cord results in an increase in the resistance. The length of the cord therefore is directly proportional to the resistance.
+CONCLUSION: The resistances of the 20cm cord, the 36cm cord and the 86cm cord were found to be 1.2Ω, 2.2Ω and 5.9Ω respectively.
+SOURCES OF ERROR:
+Errors may have been due to overheating of the main power supply.
+Errors may have been due to the apparatus being faulty.
+PRECAUTIONS:
+All connections were tightly connected to prevent a break in the continuity of the circuit.
+The power source was put off to prevent heating. 
+Short circuiting was avoided.
+REFERENCE:
+Raymond A. Serway, Jerry S. Faughn, College Physics Sixth (6th) Edition; Thomson Learning Company, Canada (2003). Page 536. 
+Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 270-280.
+CURRENT /A | VOLTAGE /V
+0.00 | 0.00
+0.20 | 0.22
+0.40 | 0.44
+0.60 | 0.66
+0.80 | 0.88
+1.00 | 1.10
+CURRENT /A | VOLTAGE /V
+0.00 | 0.00
+0.20 | 0.45
+0.40 | 0.89
+0.60 | 1.39
+0.80 | 1.78
+1.00 | 2.23
+CURRENT /A | VOLTAGE /V
+0.00 | 0.00
+0.20 | 1.21
+0.40 | 2.40
+0.60 | 3.58
+0.80 | 4.75
+1.00 | 5.92
+LENGTH OF CORD /CM | SLOPE OF  CORESSPONDING GRAPH
+20 | 1.2
+36 | 2.2
+86 | 5.9

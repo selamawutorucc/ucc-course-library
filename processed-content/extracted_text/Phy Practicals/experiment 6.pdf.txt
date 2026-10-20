@@ -1,0 +1,246 @@
+
+--- PAGE 1 ---
+AIM 
+The aim of the experiment is to determine the resistances of some connecting cords of different 
+lengths by plotting their current/voltage characteristics. 
+APPARATUS 
+ Heat conductivity rod, Cu 
+ 
+ 
+ 
+1 
+ Heat conductivity rod, Al 
+ 
+ 
+ 
+1 
+ Universal measuring amplifier 
+ 
+ 
+1 
+ Digital multimeter  
+ 
+ 
+ 
+ 
+2 
+ Power supply 0-12V DC/6V, 12VAC 
+ 
+1 
+ Connection box 
+ 
+ 
+ 
+ 
+1 
+ Connecting cord, l= 100mm  
+ 
+ 
+2 
+ Connecting cord, l= 250mm  
+ 
+ 
+1 
+ Connecting cord, l= 250mm  
+ 
+ 
+1 
+ Connecting cord, l= 500mm  
+ 
+ 
+2 
+ Connecting cord, l=500 mm  
+ 
+ 
+1 
+ Connecting cord, l= 750mm  
+ 
+ 
+2 
+ Connecting cord, l= 750mm  
+ 
+ 
+1 
+ Connecting cord, l= 2000mm  
+ 
+ 
+2 
+ Connecting cords (different lengths)  
+ 
+3 
+DIAGRAM
+
+--- PAGE 2 ---
+THEORY 
+Resistivity of a metal conductor can be determined from the resistance R of the metal 
+conductor and its dimensions. The resistance of a metal conductor is the ability of the 
+conductor to inhibit the flow of current passing through it. From Ohm’s law which states 
+that when a voltage (potential difference) ∆V is applied across the ends of a conductor, 
+the current in the conductor is found to be proportional to the applied voltage. This law 
+will hold if the temperature of the conductor is kept constant. 
+The resistance of a piece of wire depends on its length, and its cross-sectional area, or 
+thickness. The longer the wire is, the greater its resistance. If one wire is twice as long as 
+a wire of identical diameter and material, the longer wire offers twice as much resistance 
+as the shorter one. A thicker wire, however, has less resistance, because a thick wire 
+offers more room for an electric current to pass through than a thin wire does. Scientists 
+describe this relationship between resistance, length, and area by saying that resistance is 
+proportional to length and inversely proportional to cross-sectional area. That is: 
+   
+  
+Also           
+      
+Where V is the potential difference, I is the current and R is the resistance. A graph of ∆V 
+against I is a straight line through the origin with a slope equal to the resistance R. 
+The resistivity of the conductor can therefore be determined since the resistance is 
+directly proportional to the length and inversely proportional to the area. 
+    
+  
+Where R is the resistance of the metal rod, ρ is its resistivity, l is the length of the rod and 
+A is the cross-sectional area of the rod.  
+ 
+ 
+PROCEDURE 
+The lengths of the connecting cords provided were measured and recorded. Using the connection 
+box, one of the connecting cords provided were connected in series with the powers supply and 
+the ammeter. The input of the amplifier was connected to the sockets of the connecting cord 
+connector and the voltmeter was connected to the output of the amplifier. The voltage source was 
+set to 12V and the current was varied at constant intervals of 0.2A.
+
+--- PAGE 3 ---
+The voltage drop across the cord was measured and recorded for each current selected. The 
+experiment was repeated for the two remaining connecting cords provided. On the same graph, 
+voltage V against current I was plotted for each of the cords. The slope for each graph was 
+determined.    
+ 
+TABLE OF RESULTS 
+Connecting cord/ 36cm 
+Connecting cord/ 61cm 
+Connecting/ 86cm 
+Current/ I 
+voltage/ mV 
+Current/ I 
+voltage/ mV 
+Current/ I 
+voltage/ mV 
+0.20 
+0.75 
+0.20 
+1.14 
+0.20 
+1.57 
+0.40 
+1.20 
+0.40 
+1.98 
+0.40 
+2.85 
+0.60 
+1.66 
+0.60 
+2.80 
+0.60 
+4.07 
+0.80 
+2.12 
+0.80 
+3.64 
+0.80 
+5.30 
+1.00 
+2.57 
+1.00 
+4.49 
+1.00 
+6.54
+
+--- PAGE 4 ---
+y = 2.6782x 
+y = 4.5918x 
+y = 6.6709x 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+Voltage/mV 
+current/I 
+A Graph Of Voltage Against Current
+
+--- PAGE 5 ---
+CALCULATION  
+For the line         (that is 36cm connecting cord) 
+        
+                
+           
+             
+For the line          (that is 61cm connecting cord) 
+        
+                  
+         
+             
+For the line         (that is 86cm connecting cord) 
+        
+                  
+         
+             
+ 
+DISCUSSION 
+The slopes of the graph, according to the formula in the theory (      , represent the 
+resistances of the three connecting wires used in the experiment. This means that using their 
+current/voltage characteristics, the resistances of wires were determined. For the 36cm wire, the 
+resistance of the wire was found to be 2.692x10-3Ω. For the 61cm wire, the resistance of the wire 
+was found to be 4.583x10-3Ω. Lastly for the 86cm wire, the resistance of the wire was found to 
+be 6.667x10-3Ω. A relationship between the length of the wire and the resistance can be seen. As 
+the length of the wire increases, the resistance in the wire also increases provided the wires are 
+made of the same material (   ) where   is the length of the wire. 
+ 
+y = 0.0765x 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+20
+40
+60
+80
+100
+Resistance/x10-3Ω 
+length l/cm
+
+--- PAGE 6 ---
+So as can be seen from this second graph, the slope is 0.076Ω/cm. This means that for every 1cm 
+increase in the length of the wire, the resistance increases by 0.076Ω for these types of wires.  
+SOURCES OF ERROR 
+Due to the use of the amplifier, there might have been wrong conversion of the values read into 
+the actual values. 
+ 
+PRECAUTIONS 
+1. Each time a different connecting wire was used the circuit was checked again for rightful 
+connection. 
+2. The experiment was repeated twice for consistent values. 
+ 
+CONCLUSION 
+The resistance of the three wires of length 36cm, 61cm and 86cm are 2.678, 4.591 and 6.67 
+respectively. 
+REFERENCE 
+Walter C. MICHELS et al., PHYSICS: Principles and Application; Houghton Mifflin Company, 
+Boston, 1977. Page 494-503.

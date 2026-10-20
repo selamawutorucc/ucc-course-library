@@ -1,0 +1,49 @@
+29th October 2009
+EXPERIMENT 10
+THE COEFFICIENT OF CUBICAL EXPANSION OF A LIQUID USING SPECIFIC GRAVITY BOTTLE
+AIM
+The aim is to determine the coefficient of cubical expansion of glycerine using the specific gravity bottle.
+APPARATUS
+Specific gravity bottle with a well- fitting stopper
+Glycerine
+Water-bath
+Clamp and stand
+Cotton thread 
+Thermometer
+Filter paper
+DIAGRAM
+THEORY
+The coefficient of cubical expansion of a solid is defined as the change in volume per unit initial volume per unit change in temperature. It can also be defined as the fraction of its original volume by which the solid expands per degree rise in temperature. 
+A change in volume occurs when a gas/liquid undergoes temperature change. A similar phenomenon occurs for solids as well. A simple approximate relation governs the thermal expansion in length, Δl, of most solids:       β is the coefficient of linear expansion.
+A comparison analysis applied to a solid of isotropic material demonstrates that the coefficient of volume expansion is, α=3β.
+	Since this principle works for both solids and liquids, the coefficients of both the liquid and the container must be considered, when performing any experiment on expansion. Therefore, for a liquid being heated, the expansion of the container is taken into consideration, and the expression is given by:
+Where,		
+                  α= absolute coefficient of cubical expansion of glycerine.		
+                  m0 is mass of the container
+		m1 is mass of container + liquid before heating
+		m2 is mass of the container + liquid, after heating
+		t1 is the initial temperature of the liquid
+		t2 is the final temperature of the liquid
+		g is the coefficient of cubical expansion of the container
+PROCEDURE
+The specific gravity bottle was cleaned with methylated spirit. It was allowed to dry in air with a fan over it. This empty bottle was weighed with its stopper on it. The temperature of glycerine in a beaker was determined using the thermometer and was poured into the bottle to its brim. The stopper was inserted which caused some of the glycerine to spill over. The glycerine was wiped off the bottle with a handkerchief and weighed. A cotton thread was tied around the neck of the bottle and the bottle was suspended from a clamp so that it was almost completely immersed in a water bath. The water bath was heated until the water started to boil for some minutes. The temperature of the water in the bath was recorded. The bottle was then removed, wiped it again, allowed to cool and then reweighed.
+OBSERVATION 
+Readings 
+Weight of bottle + stopper m0 = 30.474g
+Weight of bottle + stopper full at t with glycerine m1  = 91.236g
+Weight of bottle stopper after cooling from the boiling water m2  = 88.964g
+Temperature of glycerine at moment of filling t1   = 250C
+Temperature of boiling water t2   = 980C
+CALCULATION
+DISCUSSION
+The coefficient of cubical expansion of glycerine was found to be 5.5912x10-4 K-1 and this is much larger than the coefficient of cubical expansion of glass of which the bottle is made. This implies that when the bottle was heated in the water bath, the glycerine expanded at a faster rate than the glass could and so some of the glycerine spilled over the brim of the bottle.
+SOURCES OF ERROR
+The temperature of the glycerine might have changed between the time it was taken and the time the glycerine was poured into the bottle.  
+When the weight of the empty bottle was taken, the bottle was not completely dry due to the difficulty of cleaning glycerine which is slightly oily.
+PRECAUTIONS
+I handled the specific gravity bottle as little as possible to avoid warming it.
+I removed the bottle out of the hot water with a napkin to avoid burning my fingers
+CONCLUSION
+The coefficient of cubical expansion of glycerine is 5.5912x10-4K-1.
+REFERENCE
+WILSON, Jerry D. and BUFFA, Anthony J. ; College physics 4th edition; Prentice-Hall inc. NJ (USA), 2000. Pages 344-345

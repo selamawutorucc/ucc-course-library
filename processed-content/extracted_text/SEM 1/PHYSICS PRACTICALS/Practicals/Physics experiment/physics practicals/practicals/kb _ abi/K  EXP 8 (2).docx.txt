@@ -1,0 +1,56 @@
+TITLE: REFRACTION OF LIGHT
+AIM: To determine the refractive index of a glass block using Snell’s law
+APARATUS: glass block, optical pins, protractor, drawing paper and a pair of compass.
+DIAGRAM:
+THEORY
+	When a ray of light travelling through a transparent medium encounters a boundary leading into another medium, part of the ray is reflected and part enters the second medium. The ray that enters the second medium is bent at the boundary and said to be refracted. The incident ray, the refracted fray, the reflected ray, and the normal at the point of incidence all lie in the same plane. Consider AB as the surface of the glass block. NOM is the normal to the surface. Let ROB be the incident ray and OQ the refracted ray. With centre O and radius RO a circle is drawn cutting the refracted ray at Q. RP and QS are perpendiculars drawn from R and Q respectively onto the normal NOM.
+From the diagram
+sin i =   and sin r =  
+but   RO = QO
+METHOD
+	The glass block was placed on the white sheet of paper pinned to the drawing board. The edges of the glass block were traced and the corners labelled ABCD as shown in the figure above. Then a normal NOM was drawn. An angle of incidence i=200 was drawn and two pins P1 and P2 were pushed into the paper along the line to represent the incident ray. The glass block was carefully placed on the paper. The glass block was looked through along the side CD to find the images of P1 and P2. While looking, two pins P3 and P4 were pushed into the paper so that they were in a straight line with the images of P1 and P2. The glass block was removed and P3 and P4 were joined to meet the side CD to meet at Z. This is the emergent ray. Z and O were joined to indicate the refracted ray.
+With centre O and a suitable radius, a circle was drawn cutting the incident ray and the refracted ray at R and Q respectively. Using set squares, perpendiculars RP and QS were drawn onto the normal. RP, QS and the angle of refraction were measured.
+The experiment was repeated for the values i = 400, 500, 600, 700 
+The readings were tabulated and a graph with RP as ordinate and QS as abscissa was plotted.
+The slope was calculated and its significance indicated.
+Another graph was plotted with Y as ordinate and tan r as abscissa. The slope was calculated and its significance indicated.  
+RESULTS
+Width of the glass (d) = 6.2cm
+GRAPH 1
+A GRAPH OF RP/cm AGAINST QS/cm
+CALCULATIONS
+From the graph above, 
+A GRAPH OF Y/cm AGAINST tan r
+CALCULATIONS
+From the graph above,
+DISCUSSION
+From the graph produced, that is, the graph of RP against QS, a straight line was produced. The slope produced by a graph of RP against QS will produce a value that is equivalent to   according to the theory.  is referred to as the refractive index of a medium (in this case the medium is glass). The slope produced is equal to 1.52 and based on research in books the refractive index of glass is equal to 1.5. So, it can be observed that the theoretical value and the experimental value are nearly equal.
+From the second graph produced, that is, the graph of Y against tan r, a straight line was also produced that intercepted the axis at (0, 0). The slope produced by the graph of Y against tan r would also produce a value that is equivalent to the side AB (d). d is the width of the glass block.  The slope produced is equal to 6.39 cm and using the ruler during the experiment, the width of the glass block found to be 6.2cm. So, it can also be observed here that the calculated value of d was somewhat close to the measured value. There was a difference of 0.2 which is quite minimal an error.
+SOURCES OF ERROR
+The pins P1 and P2 were not placed precisely erect but must have been slightly tilted and this affected the exact placement of pins P3 and P4 in line with the image produced.
+Due to cracks, dent and scratches on the edges of the glass and on the sides of the glass, there was difficulty in seeing the images produced and placing the pins P3 and P4 at the right spot.
+PRECAUTIONS
+The distance between the pins were at least 5cm apart in order to increase accuracy in finding image through the glass block.
+During the experiment all the pins were carefully placed so as not to move the glass block since that could have produced false reading on the white paper.
+It was also made sure that the pins P3 and P4 were pinned down once on the white paper for each angle of incidence so as to avoid being confused when join the two points.
+CONCLUSION
+Using Snell’s law, the refractive index of glass was found to be 1.56
+REFERENCES
+ Nelkon and Parker (1995) Advanced level physics, 7th edition. Published by CBS Publishers and Distributors, New Delhi; India. Pages 509-511 read.
+Young and Freedman (1999) University Physics, 9th edition. Addison-Wesley Publishing Company; New York. Pages 1085
+
+School of Medical Sciences
+        
+MED 112 General Physics II (Practical)
+                 Experiment 8
+REFRACTION OF LIGHT
+
+
+Student number: SM/SMS/09/0036
+Date: Thursday 11th March 2010
+          i / 0              |          r / 0 |     Y/cm |    RP/cm |    QS/cm |       tan r
+20 | 13 | 1.5 | 1.0 | 0.7 | 0.2309
+40 | 25 | 2.9 | 1.9 | 1.3 | 0.4663
+50 | 31 | 3.8 | 2.3 | 1.6 | 0.6009
+60 | 35 | 4.8 | 2.6 | 1.7 | 0.7002
+70 | 39 | 5.0 | 2.8 | 1.9 | 0.8098

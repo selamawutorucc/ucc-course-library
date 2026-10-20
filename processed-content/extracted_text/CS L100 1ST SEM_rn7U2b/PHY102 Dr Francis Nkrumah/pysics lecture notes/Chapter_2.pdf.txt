@@ -1,0 +1,874 @@
+
+--- PAGE 1 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+1
+Chapter 2: Vectors 
+ 
+In this lesson we will examine some of the elementary ideas concerning vectors. The reason 
+for this introduction to vectors is that many concepts in science, for example, displacement, 
+velocity, force, acceleration, have a size or magnitude, but also they have associated with 
+them the idea of a direction. And it is obviously more convenient to represent both quantities 
+by just one symbol. That is the vector.  
+ 
+A change of position of a particle is called displacement. The displacement of particle is given 
+by some numerical values and the direction of it. For example, “She has gone 50m north.” 
+That means she has moved 50m and her motion was towards north. “The hurricane destroyed 
+the city with a speed of 190km/h.” means that we know hurricane has 190km/h speed (not 
+velocity!) but we do not know where it goes! So, we need some different quantities to 
+describe the motion (displacement). There are two different quantities in the description of the 
+physical events:  
+ 
+ Scalars 
+ Vectors 
+ 
+ Quantities that can be specified completely by a number and/or unit and that have only 
+magnitude are called “scalars”. For example, distance (x), mass (m), time (t), volume (V), 
+density (d), work (W), energy (E)…etc. 
+ 
+ Quantities that behave like displacements are called “Vectors”. For example, displacement 
+(x), velocity (v), acceleration (a), force (F), moment (M), weight (G)…etc. (Vector 
+means “carrier” in Latin. In Biology the term “vector” means an insect, animal or an agent 
+that carries a cause of disease from one organism to another) 
+ 
+Vectors have both magnitude and direction, and obey certain rules of combination. 
+ 
+ Graphically, a vector is represented by an arrow 
+defining the direction. The length of the arrow defines 
+the vector's magnitude. This is shown in Figure 1. 
+ If we denote one end of the arrow by the origin O 
+and the tip of the arrow by Q. Then the vector may be 
+represented algebraically by OQ.  
+ 
+Figure 1 
+This is often simplified to just 
+. The line and arrow above the Q are there to indicate 
+that the symbol represents a vector. Another notation is boldface type as: Q.  
+Note, that since a direction is implied, 
+. Even though their lengths are identical, 
+their directions are exactly opposite, in fact OQ = -QO.  
+ 
+The magnitude of a vector is denoted by absolute value signs around the vector symbol: 
+magnitude of Q = |Q|.  
+ 
+Two vectors are always coplanar. Three or more vectors are said to be coplanar if they are 
+parallel to the same plane or lie in the same plane however their magnitudes can be different.
+
+--- PAGE 2 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+2
+ 
+The operation of addition, subtraction and multiplication of ordinary algebra can be extended  
+to vectors with some new definitions and a few new rules. There are two fundamental 
+definitions.  
+ 
+ #1 Two vectors, A and B are equal if they have the 
+same magnitude and direction, regardless of whether 
+they have the same initial points, as shown in  
+Figure 2. 
+ 
+Figure 2 
+ 
+ #2 A vector having the same magnitude as A but in the 
+opposite direction to A is denoted by -A , as shown in Figure 3. 
+ 
+Figure 3 
+ 
+ 
+1. Vector Additions 
+ 
+1.a. Graphical Method 
+ 
+ 
+ We can now define vector addition. The sum of two vectors, A and B, is a vector C, which 
+is obtained by placing the initial point of B on the final point of A, and then drawing a line 
+from the initial point of A to the final point of B , as illustrated in Figure 4. This is sometines 
+referred to as the "Tip-to-Tail" method. 
+ 
+ 
+Figure 4 
+ 
+ 
+ Vector subtraction is defined in the following way. The difference of two vectors, A - B , is
+
+--- PAGE 3 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+3
+a vector C that is, C = A - B or C = A + (-B). Thus vector subtraction can be represented as a 
+vector addition.  
+ 
+The graphical representation is shown in 
+Figure 5. Inspection of the graphical 
+representation shows that we place the 
+initial point of the vector -B on the final 
+point the vector A , and then draw a line 
+from the initial point of A to the final 
+point of -B to give the difference C. 
+ 
+Figure 5 
+ 
+ As we mentioned above, any quantity that has a magnitude but no direction associated with 
+it is called a "scalar". Speed, mass and temperature are scalars, for example. The product of a 
+scalar, p say, times a vector A , is another vector, B, where B has the same direction as A but 
+the magnitude is changed, that is, |B| = m|A|. 
+ 
+ Many of the laws of ordinary algebra hold also for vector algebra. These laws are:  
+ 
+Commutative Law for Addition: A + B = B + A  
+ 
+Associative Law for Addition: A + (B + C) = (A + B) + C  
+The verification of the Associative law is 
+shown in Figure 6. 
+If we add A and B we get a vector E. And 
+similarly if B is added to C, we get F . 
+Now D = E + C = A + F. 
+Replacing E with  (A + B) and F with (B + 
+C), we get (A +B) + C = A + (B + C) and 
+we see that the law is verified. 
+Stop now and make sure that you follow 
+the above proof. 
+ 
+Figure 6 
+ 
+Commutative Law for Multiplication: pA = Ap  
+ 
+Associative Law for Multiplication: (p + n)A = pA + nA, where p and n are two 
+different scalars.  
+ 
+Distributive Law: p(A + B) = pA + pB  
+ 
+These laws allow the manipulation of vector quantities in much the same way as ordinary 
+algebraic equations.  
+ 
+ Vectors can be related to the basic coordinate systems which we use by the introduction of 
+what we call "unit vectors." A unit vector is one, which has a magnitude of 1 and is often 
+indicated by putting a hat (or circumflex) on top of the vector symbol, for 
+example 
+. The quantity  is read as "a hat" or "a unit".
+
+--- PAGE 4 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+4
+Let us consider the two-dimensional (or x, y) Cartesian 
+Coordinate System, as shown in Figure 7. 
+ 
+Figure 7 
+We can define a unit vector in the x-direction by 
+ or 
+it is sometimes denoted by .Similarly in the y-
+direction we use 
+ or sometimes . Any two-
+dimensional vector can now be represented by 
+employing multiples of the unit vectors, 
+ and 
+, as 
+illustrated in Figure 8. 
+ 
+Figure 8 
+ 
+ 
+1.b. Analytical Method 
+ 
+The vector A can be algebraically represented by A = Ax + Ay where Ax and Ay are vectors in 
+the x and y directions. If Ax and Ay are the magnitudes of Ax and Ay, then Ax
+ and Ay
+ are 
+the vector components of A in the x and y directions respectively. 
+ 
+The actual operation implied by this is shown in 
+Figure 9. 
+Remember 
+ (or ) and 
+ (or ) have a 
+magnitude of 1 so they do not alter the length of 
+the vector, they only give it its direction. 
+ 
+Figure 9 
+ 
+ 
+ The breaking up of a vector into it's components, makes the determination of the length of 
+the vector quite simple and straight forward.  
+Since A = Ax
+ + Ay
+, then using Pythagorus' Theorem 
+. 
+ 
+For example 
+.
+
+--- PAGE 5 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+5
+ 
+ The resolution of a vector into it's components can be used in the addition and subtraction 
+of vectors.  To illustrate this let us consider an example, what is the sum of the following 
+three vectors?  
+ 
+ 
+By resolving each of these 
+three vectors into their 
+components we see that the 
+result is Figure 11. 
+ 
+Dx = Ax + Bx + Cx 
+ 
+ 
+Dy = Ay + By + Cy 
+ 
+Figure 11 
+ 
+ 
+ Very often in vector problems you will know the length, that is, the magnitude of the 
+vector and you will also know the direction of the vector. From these you will need to 
+calculate the Cartesian components, that is, the x and y components.  
+ 
+ 
+The situation is illustrated in Figure 12. Let us assume that 
+the magnitude of A and the angle  are given; what we 
+wish to know is, what are Ax and Ay? 
+ 
+Figure 12 
+ 
+From elementary trigonometry we have, that  
+cos = Ax/|A| therefore Ax = |A| cos, and similarly Ay = |A| cos(90 - ) = |A| sin. 
+ 
+Polar Coordinate 
+ 
+ Until now, we have discussed vectors in terms of a Cartesian, that is, an x-y coordinate 
+system. Any of the vectors used in this frame of reference were directed along, or referred to, 
+the coordinate axes. However there is another coordinate system, which is very often 
+encountered and that is the Polar Coordinate System.
+
+--- PAGE 6 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+6
+In Polar coordinates one specifies the length of 
+the line and it's orientation with respect to 
+some fixed line. In Figure 13, the position of 
+the dot is specified by it's distance from the 
+origin, that is r, and the position of the line is at 
+some angle , from a fixed line as indicated. 
+The quantities r and  are known as the Polar 
+Coordinates of the point. 
+ 
+Figure 13 
+ 
+It is possible to define fundamental unit vectors in the Polar Coordinate system in much the 
+same way as for Cartesian coordinates. We require that the unit vectors be perpendicular to 
+one another, and that one unit vector be in the direction of increasing r, and that the other is in 
+the direction of increasing .  
+   
+In Figure 14, we have drawn these two unit vectors 
+with the symbols  and 
+. 
+ 
+It is clear that there must be a relation between 
+these unit vectors and those of the Cartesian 
+system. 
+ 
+Figure 14 
+These 
+relationships 
+are given in 
+Figure 15. 
+ 
+Figure 15 
+ 
+ 
+ 
+2. Vector Multiplication 
+ 
+ Can we multiply vectors? When we add scalar quantities, the items being added must 
+have the same dimensions, and the sum has the same. On the other hand, we can multiply 
+scalar quantities of different dimensions, obtain a product having different dimension. 
+Such as, x=v*t. Like scalars, vectors of different kind can be multiplied by one another. 
+We have 3 kinds of multiplication: 
+1.      Multiplication of a vector by a scalar in such a way as to yield a vector, 
+2.      Multiplication of 2 vectors in such a way as to yield a new vector (Cross-X- 
+product)
+
+--- PAGE 7 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+7
+3.      Multiplication of 2 vectors in such a way as to yield a Scalar (Scalar- . - 
+product) 
+ 
+ The multiplication of two vectors is not uniquely defined, in the sense that there is a 
+question as to whether the product will be a vector or not. For this reason there are two 
+types of vector multiplication.  
+ 
+ 
+2.a. Scalar Product (or “dot product”) 
+ 
+The scalar product of two vectors, A and B denoted by A·B, is 
+defined as the product of the magnitudes of the vectors times the 
+cosine of the angle between them, as illustrated in Figure 16. 
+ 
+Figure 16 
+ 
+Note that the result of a dot product is a scalar, not a vector.  
+ 
+The rules for scalar products are given in the following list, 
+ 
+.  
+ 
+And in particular we have 
+, since the angle between a vector and itself is 0 and 
+the cosine of 0 is 1.  
+Alternatively, we have 
+, since the angle between 
+ and
+is 90º and the cosine of 90º 
+is 0. In general then, if A·B = 0 and neither the magnitude of A nor B is 0, then A and B must 
+be perpendicular. The definition of the scalar product given earlier, required a knowledge of 
+the magnitude of A and B , as well as the angle between the two vectors. If we are given the 
+vectors in terms of a Cartesian representation, that is, in terms of 
+ and 
+, we can use the 
+information to work out the scalar product, without having to determine the angle between the 
+vectors.  
+ 
+If 
+, then
+
+--- PAGE 8 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+8
+.  
+Because the other terms involved,
+, as we saw earlier. 
+ 
+Let us do an example. Consider two vectors, 
+ and 
+. 
+Now what is the angle between these two vectors?  
+From the definition of scalar products we have 
+. 
+ 
+But  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.b. Vector Product (or Cross Product) 
+ 
+The vector product or the cross product multiplies two vectors in such a way that the resultant 
+is a new vector. 
+ 
+If A=Axi+Ayj+Azk and B=Bxi+Byj+Bzk, then let C = Cx i + Cy j + Cy k be the result of this 
+multiplication. 
+ 
+Let A=i+2j+3k; B=2i-3j+k. Then the cross product of A and B is 
+C
+e
+B
+A
+B
+A
+C
+ˆ
+sin
+ where 
+C
+eˆ is the unit vector in the direction of vector C, and 
+it can be found using right-hand rule. 
+  
+(Right Hand Rule:  Curve your fingers of the right hand from A to  B (so that A and B form a 
+plane) the thumb will point in the direction of C. Note: A x B is not the same as B x A  (while 
+A · B is equal to B · A)  
+ 
+The vector C can also be found by
+
+--- PAGE 9 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+9
+k
+j
+i
+C
+k
+j
+i
+k
+j
+i
+C
+7
+5
+11
+)
+2
+*
+2
+1
+*
+3
+(
+)
+2
+*
+3
+1
+*
+1(
+))
+3
+(
+*
+3
+1
+*
+2
+(
+1
+3
+2
+3
+2
+1
+ 
+ 
+The cross product among unit vectors:  
+ 
+   
+ 
+ This concludes our survey of the elementary properties of Vectors. We have 
+concentrated on fundamentals and have not restricted ourselves to the discussion of 
+vectors in just two dimensions. Nevertheless, sound grasp of the ideas presented in this 
+lecture are absolutely essential for further progress in vector analysis. 
+ 
+ 
+Examples and Problems 
+Question 2.1: 
+Consider the two vectors 
+with angle 
+ between them. Find the vector |S|, defined to be the cross product 
+of A and B. 
+ 
+Solution 2.1: 
+The magnitudes of the vectors A and B are computed as follows: 
+12
+.4
+)
+0
+(
+)1
+(
+)
+4
+(
+2
+2
+2
+A
+ 
+and 
+10
+.8
+)
+0
+(
+)
+8
+(
+)
+13
+(
+2
+2
+2
+B
+Finding the magnitude of the vector |S| is then easy:
+
+--- PAGE 10 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+10
+3.
+33
+)
+8.
+94
+sin(
+)
+10
+.8
+)(
+12
+.4
+(
+sin
+
+AB
+S
+ 
+Remember the symbols for denoting a vector pointing directly out of or directly into the 
+screen (or piece of paper, etc.) 
+ 
+Question 2.2: 
+If three vectors are given as 
+ 
+k
+j
+i
+C
+and
+k
+j
+i
+B
+k
+j
+i
+A
+2
+3
+2
+,
+, 
+ 
+then find the results of following equations given below: 
+ 
+a) 
+)
+(.
+).
+(
+B
+A
+C
+and
+C
+B
+A
+ (This is the commutative relation! ) 
+b) 
+A
+C
+B
+and
+C
+B
+A
+)
+(
+)
+(
+ (Cross products are not commutative! ) 
+c) 
+)
+.(
+).
+(
+C
+B
+A
+and
+C
+B
+A
+ 
+d) 
+)
+(
+C
+B
+A
+ 
+ 
+Solution 2.2: 
+ 
+a)  
+)
+(.
+).
+(
+B
+A
+C
+and
+C
+B
+A
+ 
+1
+4
+0
+3
+)
+2
+).(
+4
+3
+(
+).
+(
+4
+3
+)
+3
+2
+(
+)
+(
+)
+(
+k
+j
+i
+k
+i
+C
+B
+A
+k
+i
+k
+j
+i
+k
+j
+i
+B
+A
+ 
+this result is same for the equation 
+1
+)
+(.
+B
+A
+C
+. 
+ 
+b)  
+A
+C
+B
+and
+C
+B
+A
+)
+(
+)
+(
+ 
+A
+C
+B
+C
+B
+A
+Then
+k
+j
+i
+k
+j
+i
+A
+C
+B
+and
+k
+j
+i
+k
+j
+i
+C
+B
+A
+k
+j
+i
+k
+j
+i
+k
+j
+i
+C
+B
+)
+(
+)
+(
+.
+2
+1
+1
+1
+2
+1
+3
+)
+(
+2
+2
+1
+3
+1
+1
+1
+)
+(
+2
+3
+)
+2
+(
+)
+3
+2
+(
+)
+(
+ 
+ 
+c)  
+)
+.(
+).
+(
+C
+B
+A
+and
+C
+B
+A
+ 
+5
+).
+(
+3
+4
+C
+B
+A
+and
+k
+j
+i
+B
+A
+ 
+5
+)
+.(
+5
+5
+5
+C
+B
+A
+and
+k
+j
+i
+C
+B
+  
+ 
+d)  
+This will be done by students!  
+ 
+Question 2.3
+
+--- PAGE 11 ---
+Lecture 2: Vectors 
+ 
+ 
+ 
+11
+horizontal
+vertical 
+vrg 
+vrc 
+vcg=30m/s 
+r = rain 
+c = car 
+g = ground 
+500 
+
+ 
+Suppose that an airplane is aimed due east with an airspeed of 200mi/h while a wind is 
+blowing due north at 80mi/h. Find the velocity of the plane relative to the observer on the 
+ground? 
+ 
+Solution 2.3 
+The velocity of the plane relative to the air is, vpa
+2, 200mi/h due east and the velocity of the air 
+relative to the earth is, vae
+2, 80mi/h due north. Then, it is seen that the velocity vectors are at 
+right angles. Since they are at right angles, the velocity of the plane relative to the earth, vpe, is 
+found as: 
+vpe = (vpa
+2 + vae
+2)1/2 , then vpe = (2002 + 802)1/2=215mi/h 
+the angle that the plane flies in the direction of N of E is  
+8.
+21
+,
+40
+.0
+200
+80
+tan
+then
+. 
+ 
+Question 2.4 
+In a rainy day, the raindrops fall vertically downward to the ground. A physics professor 
+driving carefully a car horizontally at 30m/s (!) observes that the rain forms streak lines on the 
+side windows that make an angle of 500 with the vertical. The professor wonders what the 
+speed of the raindrops relative to the ground? 
+ 
+Solution 2.4: 
+As it is seen, the streak lines represent the 
+direction of the raindrops relative to the car. It is 
+also given that raindrops fall vertically to the 
+ground. Then, it can be drawn as seen in figure. 
+Then vrg=vrc+vcg is obtained. It is known that 
+vcg=30m/s and =400. So that we can find the 
+speed of the raindrops relative to the ground: 
+ 
+vrg = vcg tan = (30m/s) (0.839) = 25.2m/s

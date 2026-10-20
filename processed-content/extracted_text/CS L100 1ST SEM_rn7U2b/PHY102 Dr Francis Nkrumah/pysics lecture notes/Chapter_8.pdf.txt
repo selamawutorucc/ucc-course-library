@@ -1,0 +1,317 @@
+
+--- PAGE 1 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+1
+Chapter 8:  
+Particle Systems and Linear Momentum 
+Up to this point in our study of classical mechanics, we have studied primarily the motion of a 
+single particle or body. To further our comprehension of mechanics we must begin to examine 
+the interactions of many particles at once. To begin this study, we define and examine a new 
+concept, the center of mass, which will allow us to make mechanical calculations for a system 
+of particles.  
+The Center of Mass of Two Particles  
+We start by defining and explaining the concept of the center of mass for the simplest possible 
+system of particles, one containing only two particles. From our work in this section we will 
+generalize for systems containing many particles. 
+ 
+Before quantifying our idea of a center of mass, we must explain it conceptually. The concept 
+of the center of mass allows us to describe the movement of a system of particles by the 
+movement of a single point. We will use the center of mass to calculate the kinematics and 
+dynamics of the system as a whole, regardless of the motion of the individual particles.  
+Center of Mass for Two Particles in One Dimension  
+If a particle with mass m1 has a position of x1 and a particle with mass m2 has a position of x2, 
+then the position of the center of mass of the two particles is given by:  
+xcm = 
+ 
+Thus the position of the center of mass is a point in space that is not necessarily part of either 
+particle. This phenomenon makes intuitive sense: connect the two objects with a light but 
+rigid pole. If you hold the pole at the position of the center of mass of the objects, they will 
+balance. That balancing point will often not exist within either object. 
+Center of Mass for Two Particles beyond One Dimension  
+Now that we have the position, we extend the concept of the center of mass to velocity and 
+acceleration, and thus give ourselves the tools to describe the motion of a system of particles. 
+Taking a simple time derivative of our expression for xcm we see that:  
+vcm = 
+ 
+Thus we have a very similar expression for the velocity of the center of mass. Differentiating 
+again, we can generate an expression for acceleration:  
+acm = 
+ 
+With this set of three equations we have generated the necessary elements of the kinematics of 
+a system of particles. 
+ 
+From our last equation, however, we can also extend to the dynamics of the center of mass. 
+Consider two mutually interacting particles in a system with no external forces. Let the force 
+exerted on m2 by m1 be F21, and the force exerted on m1 by m2 by F12. By applying Newton's
+
+--- PAGE 2 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+2
+Second Law we can state that F12 = m1a1 and F21 = m2a2. We can now substitute this into our 
+expression for the acceleration of the center of mass:  
+acm = 
+ 
+However, by Newton's Third Law F12 and F21 are reactive forces, and F12 = - F21. Thus acm = 
+0. Thus, if a system of particles experiences no net external force, the center of mass of the 
+system will move at a constant velocity. 
+ 
+But what if there is a net force? Can we predict how the system will move? Consider again 
+our example of a two body system, with m1 experiencing an external force of F1 and m2 
+experiencing a force of F2. We also must continue to take into account the forces between the 
+two particles, F21 and F12. By Newton's Second Law:  
+F1 + F12 = m1a1 
+F2 + F21 = m2a2 
+Substituting this expression into our center of mass acceleration equation we get:  
+F1 + F2 + F12 + F21 = m1a1 + m2a2 
+Again, however, F12 = - F21, and we can sum the external forces, producing:  
+Fext = m1a1 + m2a2 = (m1 + m2)acm 
+Let M be the total mass of the system. Thus M = m1 + m2 and: 
+  
+Fext = Macm 
+ 
+This equation bears a striking resemblance to Newton's Second Law. In this case, however, 
+we are not speaking of the acceleration of individual particles, but that of the entire system. 
+The overall acceleration of a system of particles, no matter how the individual particles move, 
+can be calculated by this equation. Consider now a single particle of mass M placed at the 
+center of mass of the system. Exposed to the same forces, the single particle will accelerate in 
+the same way as the system would. This leads us to an important statement:  
+The overall motion of a system of particles can be found by applying Newton's Laws as if the 
+total mass of the system were concentrated at the center of mass, and the external force were 
+applied at this point. 
+Systems of More than Two Particles  
+We have derived a method of making mechanical calculations for a system of particles. For 
+simplicity's sake, however, we only derived this for a two- particle system. A derivation for an 
+n particle system would be quite complex. A simple extension of our two particle equations to 
+an n particle system will suffice.  
+Center of Mass of Many Particles  
+Previously, M was defined as M = m1 + m2. However, to continue the study of center of mass 
+we must make this definition more general. If there are n particles in a system, M = m1 + m2 + 
+m3 + ... + mn. In other words, M gives the total mass of the system. Equipped with this 
+definition, we can simply state the equations for the position, velocity, and acceleration of the 
+center of mass of a many particle system, similar to the two-particle case. Thus for a system 
+of n particles:  
+xcm=
+mnxn
+
+--- PAGE 3 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+3
+vcm=
+mnvn 
+acm=
+mnan 
+ 
+Fext=Macm 
+ 
+These equations require little explanation, as they are identical in form to our two particle 
+equations. All these equations for center of mass dynamics may seem confusing, however, so 
+we will discuss a short example to clarify. 
+  
+Consider a missile composed of four parts, traveling in a parabolic path through the air. At a 
+certain point, an explosive mechanism on the missile breaks it into its four parts, all of which 
+shoot off in various directions, as shown below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8.1: A missile breaking into pieces 
+ 
+What can be said about the motion of the system of the four parts? We know that all forces 
+applied to the missile parts upon the explosion were internal forces, and were thus cancelled 
+out by some other reactive force: Newton's Third Law. The only external force that acts upon 
+the system is gravity, and it acts in the same way it did before the explosion. Thus, though the 
+missile pieces fly off in unpredictable directions, we can confidently predict that the center of 
+mass of the four pieces will continue in the same parabolic path it had traveled in before the 
+collision. 
+ 
+Such an example displays the power of the notion of a center of mass. With this concept we 
+can predict emergent behavior of a set of particles traveling in unpredictable ways.  
+We have now shown a way to calculate the motion of the system of particles as a whole. But 
+to truly explain the motion we must generate a law for how each of the individual particles 
+react. We do so by introducing the concept of linear momentum in the next section. 
+Impulse and Momentum  
+Having studied the macroscopic movement of a system of particles, we now turn to the 
+microscopic movement: the movement of individual particles in the system. This movement is 
+determined by forces applied to each particle by the other particles. We shall examine how 
+these forces change the motion of the particles, and generate our second great law of 
+conservation, the conservation of linear momentum.
+
+--- PAGE 4 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+4
+ 
+Impulse 
+Often in systems of particles, two particles interact by applying a force to each other over a 
+finite period of time, as in a collision. The physics of collisions will be further examined in 
+the next as an extension of our conservation law, but for now we will look at the general case 
+of forces acting over a period of time. We shall define this concept, force applied over a time 
+period, as impulse. Impulse can be defined mathematically, and is denoted by J:  
+J = FΔt 
+Just as work was a force over a distance, impulse is force over a time. Work applied mostly to 
+forces that would be considered external in a system of particles: gravity, spring force, 
+friction. Impulse, however, applies mostly to interactions finite in time, best seen in particle 
+interactions. A good example of impulse is the action of hitting a ball with a bat. Though the 
+contact may seem instantaneous, there actually is a short period of time in which the bat 
+exerts a force on the ball. The impulse in this situation is the average force exerted by the bat 
+multiplied by the time the bat and ball were in contact. It is also important to note that impulse 
+is a vector quantity, pointing in the same direction as the force applied.  
+Given the situation of hitting a ball, can we predict the resultant motion of the ball? Let us 
+analyze our equation for impulse more closely, and convert it to a kinematics expression. We 
+first substitute F = ma into our equation:  
+J = FΔt = (ma)Δt 
+But the acceleration can also be expressed as a = 
+. Thus:  
+J = m
+Δt = mΔv = Δ(mv) = mvf - mvo 
+The large impulse applied by the bat actually reverses the direction of the ball, causing a large 
+change in velocity.  
+Recall that when finding that work caused a change in the quantity 
+mv2 we defined this as 
+kinetic energy. Similarly, we define momentum according to our equation for an impulse.  
+Momentum  
+From our equation relating impulse and velocity, it is logical to define the momentum of a 
+single particle, denoted by the vector p, as such:  
+p = mv 
+Again, momentum is a vector quantity, pointing in the direction of the velocity of the object. 
+From this definition we can generate two every important equations, the first relating force 
+and acceleration, the second relating impulse and momentum.
+
+--- PAGE 5 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+5
+Equation 1: Relating Force and Acceleration  
+The first equation, involving calculus, reverts back to Newton's Laws. If we take a time 
+derivative of our momentum expression we get the following equation:  
+= 
+(mv) = m
+ = ma = 
+F 
+Thus  
+= 
+F 
+It is this equation, not F = ma that Newton originally used to relate force and acceleration. 
+Though in classical mechanics the two equations are equivalent one finds in relativity that 
+only the equation involving momentum is valid, as mass becomes a variable quantity. Though 
+this equation is not essential for classical mechanics, it becomes quite useful in higher-level 
+physics.  
+Equation 2: The Impulse-Momentum Theorem  
+The second equation we can generate from our definition of momentum comes from our 
+equations for impulse. Recall that:  
+J = mvf - mvo 
+Substituting our expression for momentum, we find that:  
+J = pf - po = Δp 
+This equation is known as the Impulse-Momentum Theorem. Stated verbally, an impulse 
+given to a particle causes a change in momentum of that particle. Keeping this equation in 
+mind, momentum is conceptually quite similar to kinetic energy. Both quantities are defined 
+based on concepts dealing with force: kinetic energy is defined by work, and momentum is 
+defined by impulse. Just as a net work causes a change in kinetic energy, a net impulse causes 
+a change momentum. In addition, both are related to velocity in some way. In fact, combining 
+the two equations K = 
+mv2 and p = mv we can see that:  
+K = 
+ 
+This simple equation can be quite convenient for relating the two different concepts.  
+This section, dealing exclusively with the momentum of a single particle, might seem out of 
+place after a section on systems of particles. However, when we combine the definition of 
+momentum with our knowledge of systems of particles, we can generate a powerful 
+conservation law: the conservation of momentum.
+
+--- PAGE 6 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+6
+Conservation of Momentum 
+What happens when a group of particles are all interacting? Qualitatively speaking, each 
+exerts equal and opposite impulses on the other, and though the individual momentum of any 
+given particle might change, the total momentum of the system remains constant. This 
+phenomenon of momentum constancy describes the conservation of linear momentum in a 
+nutshell; in this section we shall prove the existence of the conservation of energy by using 
+what we already know about momentum and systems of particles.  
+Momentum in a System of Particles  
+Just as we first defined kinetic energy for a single particle, and then examined the energy of a 
+system, so shall we now turn to the linear momentum of a system of particles. Suppose we 
+have a system of N particles, with masses m1, m2,…, mn. Assuming no mass enters or leaves 
+the system, we define the total momentum of the system as the vector sum of the individual 
+momentum of the particles:  
+P = p1 + p2 + ... + pn 
+ = m1v1 + m2v2 + ... + mnvn
+ 
+Recall from our discussion of center of mass that:  
+vcm = 
+(m1v1 + m2v2 + ... + mnvn) 
+where M is the total mass of the system. Comparing these two equations we see that:  
+P = Mvcm 
+Thus the total momentum of the system is simply the total mass times the velocity of the 
+center of mass. We can also take a time derivative of the total momentum of the system:  
+= M
+ = Macm 
+Recall also that, for a system of particles,  
+Fext = Macm 
+Clearly, then:  
+Fext = 
+ 
+Don't worry if the calculus here is complex. Though our definition of the momentum of a 
+system of particles is important, the derivation of this equation only matters because it tells us 
+a great deal about momentum. When we explore this equation further we will generate our 
+principle of conservation of linear momentum. 
+Conservation of Linear Momentum  
+From our last equation we will consider now the special case in which 
+Fext = 0. That is, no 
+external forces act upon an isolated system of particles. Such a situation implies that the rate 
+of change of the total momentum of a system does not change, meaning this quantity is 
+constant, and proving the principle of the conservation of linear momentum: When there is no 
+net external force acting on a system of particles the total momentum of the system is 
+conserved.
+
+--- PAGE 7 ---
+Lecture 8: Conservation of Momentum 
+ 
+ 
+ 
+7
+It's that simple. No matter the nature of the interactions that go on within a given system, its 
+total momentum will remain the same. To see exactly how this concept works we shall 
+consider an example. 
+Conservation of Linear Momentum in Action  
+Let's consider a cannon firing a cannonball. Initially, both the cannon and the ball are at rest. 
+Because the cannon, the ball, and the explosive are all within the same system of particles, we 
+can thus state that the total momentum of the system is zero. What happens when the cannon 
+is fired? Clearly the cannonball shoots out with considerable velocity, and thus momentum. 
+Because there are no net external forces acting on the system, this momentum must be 
+compensated for by a momentum in the opposite direction as the velocity of the ball. Thus the 
+cannon itself is given a velocity backwards, and total momentum is conserved. This 
+conceptual example accounts for the "kick" associated with firearms. Any time a gun, a 
+cannon, or an artillery piece releases a projectile, it must itself move in the direction opposite 
+the projectile. The heavier the firearm, the slower it moves. This is a simple example of the 
+conservation of linear momentum. By both examining the center of mass of a system of 
+particles, and developing the conservation of linear momentum we can account for a great 
+deal of motion in a system of particles. We now know how to calculate both the motion of the 
+system as a whole, based on external forces applied to the system, and the activity of the 
+particles within the system, based on momentum conservation within the system. This topic, 
+dealing with momentum, is as important as the last one, dealing with energy. Both concepts 
+are universally applied: while Newton's Laws apply only to mechanics, conservation of 
+momentum and energy are used in relativistic and quantum calculations as well.

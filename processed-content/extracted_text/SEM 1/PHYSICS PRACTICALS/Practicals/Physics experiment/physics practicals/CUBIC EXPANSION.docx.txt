@@ -1,0 +1,35 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL					SM/SMS/10/0026
+MED 111				GROUP 7
+EXPERIMENT 10							7TH OCTOBER, 2010
+THE COEFFICIENT OF CUBICAL EXPANSION OF LIQUID USING SPECIFIC GRAVITY BOTTLE
+AIM: To determine the cubical expansion of a liquid (water) using the specific gravity bottle.
+APPARATUS: Specific gravity bottle with a well fitting stopper, glycerine, water-bath, clamp and stand, thermometer, cotton thread, filter paper.
+METHOD: The specific gravity bottle was cleaned by rinsing it out with methylated spirit. It was then allowed to dry. The bottle was then weighed with the stopper. The gravity bottle was then filled with glycerine from a beaker. The stopper was then inserted into the gravity bottle making sure that there was minimal handling of the bottle and the outside of the bottle was wiped thoroughly with the filter paper. The temperature of the glycerine in the beaker was measured and then the specific gravity bottle with its contents was weighed again. The mass of the glycerine in the specific gravity bottle was determined from this measurement. A piece of the cotton thread was securely tied around the neck of the specific gravity bottle and the suspended from the clamp such that it was completely immersed in the water bath. The water bath was then heated till it boiled for some time. The temperature of the boiling water was then taken. The specific gravity bottle was then removed and wiped dry. It was allowed to cool and reweighed. 
+DIAGRAM:
+TABLE OF RESULTS
+Least count of balance: 0.1g.  Least count of thermometer: 1
+THEORY: Cubic expansivity is the increase in volume of a substance per unit volume per Kelvin rise in temperature.  When a liquid is heated its molecules gain kinetic energy which enables them to overcome their intermolecular forces. Therefore the vibrations of the molecules increase and their displacement about their mean positions also increase. As a result of this the average distance between the molecules of the liquid becomes larger leading to an increase in size of the liquid. This increase in size of the liquid is called expansion. This   expansion occurs in all direction hence the increase in the volume of the liquid. This increase in volume when the liquid was heated is called cubic expansivity.
+CALCULATIONS:
+THEORY: Theoretically the coefficient of cubic expansivity of glycerine is 4.85×  at a temperature of 20℃.   From the experiment the coefficient of cubic expansivity was found to be at a temperature of 26℃. There is a difference in the coefficient of cubic expansivity which is 0.000022. The change in temperature caused the respective difference in the coefficient of cubic expansivity of glycerine. Other sources of error like buoyancy effect, air current acting upon the object by surrounding air caused an increase or decrease in the original value due to density of air, impure glycerine delayed expansion and reduced the boiling point of the glycerine when it was heated, and the corroded balance pan affected the accuracy of the mass reading.
+SOURCES OF ERROR:
+Error may be due to inaccuracy of the balance due to corrosion. 
+Error may be due to effect of air current on the balance which affected the reading and precision.
+Error may be due to holding of specific gravity bottle which caused change in temperature.
+Errors may be due to impure glycerine. 
+PRECAUTION:
+It was ensured that the balance was tarred before measurements were taken.
+It was ensured that the specific gravity bottle was rinsed with methylated spirit to avoid traces of water for accuracy.
+It was ensured that glycerine around the specific gravity bottle was wiped thoroughly to avoid inaccurate reading and corrosion of pan. 
+It was ensured that the bottle was completely immersed into the water bath for even distribution of heat.
+CONCLUSION:
+From the experiment the coefficient of cubical expansivity of glycerine is  at temperature of 26℃.
+REFERENCES:
+SERWAY RAYMOND A., FAUGHN JERRY S. (COLLEGE PHYSICS), 6TH EDITION 2003. HARCOURT COLLEGE PUBLISHER, PAGE 312-315.
+YOUNG FREEDMAN, (UNIVERSITY PHYSICS) 9TH SDITION, WESLEY PUBLISHING COMPANY, PAGE 466-469.
+NELKON MICHAEL, PARKER PHILIP, (ADVANCED LEVEL PHYSICS) 7TH EDITION, PAGE 158.
+Weight of bottle and stopper |  = 29.0g
+Weight of bottle + stopper full at t |  = 89.8g
+Weight of bottle +stopper after cooling from boiling water |  = 87.9g
+Temperature of glycerine at moment of filling |  = 26
+Temperature of boiling water |  = 100

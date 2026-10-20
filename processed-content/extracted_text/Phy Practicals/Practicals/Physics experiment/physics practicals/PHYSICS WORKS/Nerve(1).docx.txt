@@ -1,0 +1,79 @@
+  EXPERIMENT 8                                                                                                     17th October, 2008.
+KELUGU NEVILLE KABA	                                                                                                               SM/SMS/08/0017
+TITLE: AN EXPERIMENT TO DERTERMINE THE VISCOUSITY OF GLYCERIN .
+AIM: To determine the viscosity of glycerin by considering the velocity of ball bearings of different diameters through it. 
+APPARATUS: Measuring cylinder, glycerin, stop-watch (least count: 0.01s), steel ball-bearings of different diameters, micrometer screw gauge (least count: 0.01mm), meter rule(least count:0.1cm) and two rubber bands.
+DIAGRAM:    Glycerin                                                                                                                                                                         
+ Measuring Cylinder                                                                                             Retort Stand 
+             Fixed distance 100cm                  
+               Ball bearings
+THEORY:
+Viscosity refers to the internal friction of a fliud.It is very difficult for layers of a viscous fluid to slide past one another. Likewise, it is difficult for one solid surface to slide past another if there is a highly viscous fluid, such as soft tar between them. The viscosity of liquids decreases with increasing temperature.  
+                                     Fr
+                               B
+                                     W
+As a sphere or body falls through a viscous medium (liquid) it experiences three forces which act on it. The weight of the body (W), upthrust and the viscous drag (the force of frictional resistance. From the Stokes’s law, the magnitude of the Friction resistance (viscous drag) on spherical body of radius r falling through a fluid of viscosity η with velocity V is given by;
+                         Fr = 6πηrV. 
+Weight is the force of gravity on the sphere given by;
+                                 w = mg 
+               But mass (m) =ρv
+       Therefore the weight =ρvg=ρg (4/3πr³)
+ Where ρ is the density of the sphere and v is its volume.                                                                                                                      The Buoyant Force, B of the fluid. By Archimedes’s principle, the magnitude of the buoyant force is the weight of the fluid displaced by the sphere:                                        
+             B = ρfgv = ρfg (4/3πr3), since volume of sphere v=4/3πr3                                                                                                                                     where ρf is the density of the fluid. 
+The instant the sphere begins to fall; the force of frictional resistance is zero because the speed of the sphere is zero. As the sphere accelerates, its speed increases and so does Fr .Finally at a velocity called the terminal velocity Vt, the net force goes to zero. Hence;
+                                      Fr + B = w      Or
+           6πηrVt + ρfg (4/3πr3) = ρg (4/3πr3) 
+                                             r2 = 9/2(η/ (σg – ρg)) Vt              
+ METHOD: The measuring cylinder was cleaned appropriately, corded at the base and filled with glycerin. It was allowed to stand for some time until nearly all the air bubbles have disappeared. A fixed distance of about 100cm was created by means of two rubber bands along the measuring cylinder. The micrometer screw gauge was used to measure the diameters of the all the five ball bearings provided. Two readings were obtained on each of the five ball bearings and the average obtained. These readings were recorded as d1/mm and d2/mm and the average was recorded as d/mm.
+The ball bearings were dropped centrally down the measuring cylinder through the glycerin, one after the other  and the stop-watch was used to find the time it takes for each of the ball bearing to cover the fixed distance. To confirm the readings the process was repeated for the other ball bearings.      
+ RESULTS
+Least count of micrometer screw gauge       =0.18mm.
+Least count of stop watch              = 0.01s.    Room Temperature=300C.
+Least count meter rule                    =0.1cm
+TABLE OF RESULTS.
+GRAPH.
+ TITLE; The graph of the square of radius (r2/m2) against velocity v/ms-1 of a ball bearing through glycerin. Gradient of graph is 810-5ms. 
+CALCUTION
+From the equation derived from the theory,
+                                                                      r²= vt 
+                 Comparing this equation to, y=mx+c                                                                                                                                                                                                                                 
+              m (gradient) =  ,where g is acceleration due to gravity
+                                       σ is the density of steel
+ρ is  the density of the fluid- in this case glycerin
+                                    η = mg(σ-ρ)                                                                                                                                                             
+                                   η =  × 8.0 10-5 ms× 9.8m/s² (8.1×103 – 1.3×103)kg/m³                                                                                                                 
+                                   η = 1.7422 x 10-4(6.8 x 103 )Ns/m²
+                                 =1.185Ns/m2.
+           Therefore the viscosity of glycerin, = 1.2Ns/m2 at 300C.   
+DISCUSSION:
+Viscosity refers to the degree of internal friction in a fluid. A highly viscous fluid is the one which possess high resistance on the motion of a body moving through it. Consider the equation proposed by Strokes, that is;
+r2 = (η/ (σg - ρg)) Vt
+Viscosity of a liquid is directly proportional to the square of the radius but inversely proportional to the velocity of the sphere through it.
+ From the results obtained, it was observed that for the initial three stages of readings taking, the radius of the ball bearing decreased with an increase in velocity. It can be deduced that the decrease in the size of the ball bearings caused a decrease in the viscous drag of glycerin on the ball bearings and hence moved more and more smoothly with increasing velocities. 
+But for the velocities obtained for the fourth and final ball bearings, the trend deviated. With a decrease in the size and hence the viscous drag on the ball bearings, their velocities were expected to increase but decreased. This can be attributed to changes of stable conditions around the set up such as the continuous increase air bubbles in the glycerin and decrease in temperature which can increase the density of the glycerin reducing the velocity of the ball bearings through it.  Also this could be blamed on shape caused by the corrosion of the steel balls that distorted the mass value as well as smoothness of steel ball hence reduce the velocity by increasing the impact of the viscous drag. When the gradient is replaced into equation with the terminal velocity values also in place, the radius values were corresponding to the velocities for most of the values. Comparing the calculated value for the viscosity of glycerin (1.2Ns/m2 at 300C) to the standard value (1.5Ns/m2 at 200C) ,the calculated was very close to the actual value. The deviation may be as a result of errors from the experimental procedure. Hence it can be said that the experiment was near success.
+SOURCES OF ERROR:
+Error may be due impurities present in the glycerin 
+Error may be due to presence of air bubbles in the glycerin.
+Error may be due to some of the ball bearings not having streamlined surfaces (have rough surfaces) 
+PRECAUTION:
+It was ensured that before the experiment was carried out, nearly all the air bubbles in the glycerin were allowed to disappear.
+The cylinder was properly cleaned to ensure visibility during movement of the ball.
+It was ensured that parallax error was avoided when measuring the fixed distance.
+CONCLUSION:
+From the results obtained from the calculation it can be concluded that for any spherical body moving down a liquid, as the size (square of the radius) increases, the viscous drag i.e. viscosity of the liquid increase to decrease the velocity of the body. Hence the viscosity of a liquid depends on the shape and the velocity of the falling body. The terminal velocity of the ball bearings falling through glycerin is small enough for it to be reached before turbulence occurs, and its measurement provides a method of determining the viscosity of such a liquid (glycerin).
+REFERENCES
+   1. Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada, page 285-292.
+   2. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A.page 425-430.
+   3.Nelkon M and Parker P(1995);Advanced Level Physics Seventh(7th)Edition, Published by Longman International Education, Oxford,U.K. Page 711.
+Ball | d1/
+mm | d2/
+mm | d/
+mm | (d0.18)/mm | d/m
+(d/100) |  t/s | v/ms-1 | r(mx103)(d/2)
+ | r2(mx105)(d/2)2
+
+    1 | 16.36 | 16.87 | 16.62 | 16.44 | 0.01644 | 2.63 | 0.38 | 8.22 | 6.76
+    2 | 13.31 | 13.32 | 13.32 | 13.14 | 0.01314 | 2.35 | 0.43 | 6.57 | 4.32
+    3 | 12.09 | 11.05 | 11.57 | 11.39 | 0.01139 | 1.94 | 0.52 | 5.70 | 3.24
+    4 | 8.04 | 8.04 | 8.04 | 7.86 | 0.00786 | 2.44 | 0.41 | 3.93 | 1.54
+    5 | 7.24 | 7.23 | 7.24 | 7.06 | 0.00706 | 2.66 | 0.38 | 3.53 | 1.25

@@ -1,0 +1,94 @@
+PHYSICS EXPERIMENT.
+SM/SMS/08/0017                                                                17th October, 2008.
+KELUGU NEVILLE KABA
+TITLE: DETERMINATION OF MELTING POINT OF NAPHTHALENE  BY THE USE OF COOLING CURVE.
+AIM: TO DETERMINE THE MELTING POINT OF NAPHTHALENE FROM ITS COOLIN CURVE.
+APPARATUS: Bunsen burner, a wide test tube, thermometer (0-100°c with least count 1.00C), stop watch (0.01s), retort stand with a clamp, beaker, tripod stand, wire gauze, white handkerchief, naphthalene, and a water bath.
+DIAGRAM
+THEORY: 
+The melting point of a substance is one of the physical properties that chemist use to identify the substance. The melting point is the temperature at which a substance changes from solid to liquid without change in temperature. A pure crystals organic compound usually has a sharp and characteristics melting point range of 0.5% to 1°c. The melting point range is determined by recording the temperature at which melting first begins and the temperature at which melting is complete. Impurities depend on the melting (freezing) point of a substance. Impurities also increase the range of melting. When a sample melts at a lower temperature than the expected temperature over an extended range, this shows that the sample is not pure. Consequently, the melting point of a compound is also a criterion for purity and for identification.
+A technique known as ‘MIXED MELTING POINT’ may be used as an additional evidence in identifying a given compound. First, the melting point is taken of the unknown and the tentative identifications made using literature data, then the unknown sample is mixed with some authentic sample of the suspected compound and the melting point is taken for the mixture. If the mixture shows no depression in the melting point the two compounds almost certainly are the same and the identification of the unknown compound. If the mixture shows a depression of melting point, the two compounds are not identical. 
+Often, solid substances undergo some unusual behaviour prior to actual melting. Compounds may be decolourised, decompose, soften or shrink .It is normal for compounds to appear to shrink immediately before melting. Actual melting begins when the first drop of the liquid becomes visible.
+APPARATUS           PRECISION
+STOP WATCH          0.01
+THERMOMETER     1
+METHOD:
+ The test tube suspended by clamp of the retort stand was partially immersed in a boiling water bath before the experiment was begun. Plenty of time was allowed for the naphthalene sample to completely melt into a liquid.
+After melting, the test tube was immediately removed from the water bath and its surface was cleaned with a white handkerchief. The test tube was surrounded with a beaker to prevent drought. The thermometer was quickly inserted into the test tube. 
+The stop watch was set to zero and readings on the thermometer were taken at every thirty seconds. The results were compiled and tabulated.   
+OBSERVATION
+least count of stop watch=0.01s
+least count of thermometer= 1o C
+GRAPH:
+Fig. 1 A graph of Temperature (ºC) between Time(s)
+DISCUSSION 
+The cooling curve shows that the molten naphthalene cools from 90°c the temperature stays constant at around 80–82°c for several minutes. This steady temperature is the region where the melting point is. This is because at this temperature the naphthalene is changing state from liquid to solid and, in doing so, it gives up heat. This latent heat is balanced by the heat lost to the surroundings, and so the temperature remains constant. Naphthalene solidified and solid naphthalene cools so the temperature falls again The line on the Graph showing the constant temperature would have been longer if naphthalein had a very high heat of fusion, ie the amount of heat required to melt a solid at its melting point.
+From 80°c-42°c the temperature of naphthalene reduces, the energy absorbed by the naphthalene in this stage is called sensible heat. In other words this is the heat used in changing the temperature of a substance.
+ When a pure liquid cools, its temperature decreases steadily until the melting point is reached. Then its temperature remains constant as the liquid solidifies. At constant pressure the pure liquid and pure solid can be in equilibrium at only one temperature, the melting point of the compound. When all the solid has melted the temperature of the liquid begins to increase. The melting point of pure naphthalene as shown in the graph is in the 80° C region. It is the point on the graph where the temperature remains constant for a while.Notice that the temperature of the melting solid actually falls slightly below 80.2°c this value is not the exact melting point it is approximately equal to the actual melting point of about 80.2°C.   The graph should have shown three distinct regions, the fall  in temperature to the melting point, the steady temperature of melting point and the fall to form liquid. But this was not so distinct in graph. This could be blamed on, airy nature of room reducing the temperatures too quickly, absence of cork on test tube, and absence of the convex lens to read accurate temperatures.
+SOURCES OF ERROR
+Error due to absence of a cork to cover  the test tube may have facilitated heat loss and this might have accounted for the slightly unusual cooling behaviour of naphthalene as seen on the curve. 
+Error due to the presence of impurities in the naphthalene which affected the melting point of the naphthalene.
+Error due to the absence of a convex lens to read the temperature which may have affected the ability to correctly read the measurements of the thermometer.
+The air current produced by the action of the wind  might have had a slight cooling effect on the temperature of the naphthalene at various stages of measurement and this might have affected our determination of the melting point.
+PRECAUTIONS
+1. The error of parallax was avoided during readings of the thermometer by ensuring that the eye was at the same level as the meniscus.
+      2. It was ensured that the naphthalene melted completely before inserting the thermometer.
+      3. It was also ensured that the temperature reading on the thermometer exceeded 900C before the set up was removed from the water bath to ensure accuracy of results.
+     4.The stop watch was set to take readings immediately the thermometer was removed was removed from the water bath to ensure accurate results.
+  CONCLUSION 
+From the results obtained during the experiment and from the cooling curve, the melting point of a substance is the steady temperature at which the substance changes from the solid state to the liquid and for naphthalene this steady temperature could be seen from its steady curve and hence the melting point of naphthalene is known.
+REFERENCES 
+Nelkon M and Parker P(1995);Advanced Level Physics Seventh(7th)Edition, Published by Longman International Education, Oxford,U.K. Page 636.
+Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada, page 
+     3. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A.page 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+TABLE OF RESUTS |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+Time t/s | TempT/⁰C | Time t/s | TempT/⁰C
+0 | 99 | 570 | 57
+30 | 82 | 600 | 56
+60 | 80 | 630 | 54
+90 | 80 | 660 | 52
+120 | 80 | 690 | 50
+150 | 80 | 720 | 49
+180 | 80 | 750 | 46
+210 | 80 | 780 | 45
+240 | 80 | 810 | 44
+270 | 79 | 840 | 42
+300 | 79 | 870 | 40
+330 | 78 | 900 | 39
+360 | 76 | 930 | 38
+390 | 74 | 960 | 36
+420 | 70 | 990 | 34
+450 | 68 | 1020 | 32
+480 | 64 | 1050 | 30
+510 | 62 | 1080 | 28
+540 | 60 |   |  

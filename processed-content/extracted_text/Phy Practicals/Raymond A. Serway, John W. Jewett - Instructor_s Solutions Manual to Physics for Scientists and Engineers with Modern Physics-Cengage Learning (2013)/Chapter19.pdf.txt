@@ -1,0 +1,5310 @@
+
+--- PAGE 1 ---
+997 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+19 
+Temperature  
+ 
+CHAPTER OUTLINE 
+ 
+19.1  
+Temperature and the Zeroth Law of Thermodynamics 
+19.2  
+Thermometers and the Celsius Temperature Scale 
+19.3 
+The Constant-Volume Gas Thermometer  
+and the Absolute Temperature Scale 
+19.4  
+Thermal Expansion of Solids and Liquids 
+19.5  
+Macroscopic Description of an Ideal Gas 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ19.1 
+Answer (b). The markings are now farther apart than intended, so 
+measurements made with the heated steel tape will be too short—but 
+only by a factor of 5 × 10
+−5 of the measured length. 
+OQ19.2 
+Answer (d). Remember that one must use absolute temperatures and 
+pressures in the ideal gas law. Thus, the original temperature is  
+TK = TC + 273.15 = 25 + 273.15 = 298 K, and with the mass of the gas 
+constant, the ideal gas law gives 
+ 
+ 
+ 
+T2 =
+P2
+P1
+⎛
+⎝⎜
+⎞
+⎠⎟
+V2
+V1
+⎛
+⎝⎜
+⎞
+⎠⎟T1 =
+1.07 × 106 Pa
+5.00 × 106 Pa
+⎛
+⎝⎜
+⎞
+⎠⎟3.00
+(
+) 298 K
+(
+) = 191 K 
+OQ19.3 
+Answer (d). From the ideal gas law, with the mass of the gas 
+constant, P2V2/T2 = P1V2/T1. Thus, 
+ 
+ 
+ 
+P2 =
+V1
+V2
+⎛
+⎝⎜
+⎞
+⎠⎟
+T2
+T1
+⎛
+⎝⎜
+⎞
+⎠⎟P1 =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟4
+( )P1 = 2P1
+ 
+OQ19.4 
+Answer (a). As the temperature increases, the brass expands. This 
+would effectively increase the distance d from the pivot point to the
+
+--- PAGE 2 ---
+998     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+center of mass of the pendulum, and also increase the moment of 
+inertia of the pendulum. Since the moment of inertia is proportional 
+to d
+2, and the period of a physical pendulum is T = 2π
+I
+mgd , the 
+period would increase, and the clock would run slow.  
+OQ19.5 
+Answer (c). TC = 5
+9 TF −32
+(
+) = 5
+9 162 −32
+(
+) = 72.2°C, then, 
+ 
+ 
+ 
+TK = TC + 273.15 = 72.2 + 273.15 = 345 K 
+OQ19.6 
+Answer (c). From the ideal gas law, with the mass of the gas 
+constant, P2V2/T2 = P1V2/T1. Thus,  
+ 
+ 
+ 
+V2 =
+P1
+P2
+⎛
+⎝⎜
+⎞
+⎠⎟
+T2
+T1
+⎛
+⎝⎜
+⎞
+⎠⎟V1 = 4
+( ) 1( ) 0.50 m3
+(
+) = 2.0 m3
+ 
+OQ19.7 
+Answer (d). If glass were to expand more than the liquid, the liquid 
+level would fall relative to the tube wall as the thermometer is 
+warmed. If the liquid and the tube material were to expand by equal 
+amounts, the thermometer could not be used because the liquid level 
+would not change with temperature. 
+OQ19.8 
+The ranking is (a) = (b) = (d) > (e) > (c). We think about nRT/V in 
+each case. Since R is constant, we need only think about nT/V, and 
+units of mmol⋅K/cm
+3 are as convenient as any: (a) 2⋅3/1 = 6, (b) 6, (c) 
+4, (d) 6, (e) 5.  
+OQ19.9 
+Answer (d). Cylinder A must be at lower pressure. If the gas is thin, 
+PV = nRT applies to both with the same value of nRT for both. Then 
+A will be at one-third the absolute pressure of B.  
+OQ19.10 
+(i) 
+Answer (a). Call the process isobaric cooling or isobaric 
+contraction. The rubber wall is easy to stretch. The air inside is 
+nearly at atmospheric pressure originally and stays at 
+atmospheric pressure as the wall moves in, just maintaining 
+equality of pressure outside and inside. The air is nearly an 
+ideal gas to start with, and stays fairly ideal—fairly far from 
+liquefaction—even at 100 K. The water vapor liquefies and then 
+freezes, and the carbon dioxide turns to dry ice, but these are 
+minor constituents of the air. Thus, as the absolute temperature 
+drops to 1/3 of its original value and the volume will drop to 
+1/3 of what it was. 
+ 
+(ii) Answer (c). As noted above, the pressure stays nearly constant 
+at 1 atm.  
+OQ19.11 
+Answer (c). For a quick approximation, multiply 93 m and 17 and
+
+--- PAGE 3 ---
+Chapter 19     999 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+1/(1 000 000 °C) and say 5°C for the temperature increase. To 
+simplify, multiply 100 and 100 and 1/1 000 000 for an answer in 
+meters: it is on the order of 1 cm.  
+OQ19.12 
+Answer (b). Around atmospheric pressure, 0°C is the only 
+temperature at which liquid water and solid water can both exist. 
+OQ19.13 
+Answer (b). When a solid, containing a cavity, is heated, the cavity 
+expands in the same way as it would if filled with the material 
+making up the rest of the object.  
+OQ19.14 
+Answer (e). 
+ 
+ 
+ 
+TF = 9
+5TC + 32 = 9
+5 −25°
+(
+)+ 32° = −13° F
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ19.1 
+The coefficient of linear expansion must be greater for mercury than 
+for glass, otherwise the interior of a glass thermomter would expand 
+more and the mercury level would drop. See OQ19.7. 
+CQ19.2  
+(a) The copper’s temperature drops and the water temperature rises 
+until both temperatures are the same. (b) The water and copper are 
+in thermal equilibrium when their temperatures are the same.  
+CQ19.3 
+(a) 
+PV = nRT predicts V going to zero as T goes to zero.  
+ 
+(b) The ideal-gas model does not apply when the material gets 
+close to liquefaction and then turns into a liquid or solid. The 
+molecules start to interact all the time, not just in brief collisions. 
+The molecules start to take up a significant portion of the 
+volume of the container.  
+CQ19.4 
+Air pressure decreases with altitude while the pressure inside the 
+bags stays the same; thus, that inside pressure is greater than the 
+outside pressure.  
+CQ19.5 
+(a) No. The thermometer will only measure the temperature of 
+whatever is in contact with the thermometer. The thermometer 
+would need to be brought to the surface in order to measure its 
+temperature, since there is no atmosphere on the Moon to maintain a 
+relatively consistent ambient temperature above the surface. (b) It 
+would read the temperature of the glove, since it is in contact with 
+the glove.  
+CQ19.6 
+The coefficient of expansion of metal is larger than that of glass. 
+When hot water is run over the jar, both the glass and the lid expand, 
+but at different rates. Since all dimensions expand, the inner
+
+--- PAGE 4 ---
+1000     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+diameter of the lid expands more than the top of the jar, and the lid 
+will be easier to remove. 
+CQ19.7 
+(a) 
+As the water rises in temperature, it expands or rises in pressure 
+or both. The excess volume would spill out of the cooling 
+system, or else the pressure would rise very high indeed.  
+ 
+(b) Modern cooling systems have an overflow reservoir to accept 
+the excess volume when the coolant heats up and expands. 
+CQ19.8 
+(a) 
+The sphere expands when heated, so that it no longer fits 
+through the ring. With the sphere still hot, you can separate the 
+sphere and ring by heating the ring. This more surprising result 
+occurs because the thermal expansion of the ring is not like the 
+inflation of a blood-pressure cuff. Rather, it is like a 
+photographic enlargement; every linear dimension, including 
+the hole diameter, increases by the same factor. The reason for 
+this is that the atoms everywhere, including those around the 
+inner circumference, push away from each other. The only way 
+that the atoms can accommodate the greater distances is for the 
+circumference—and corresponding diameter—to grow. This 
+property was once used to fit metal rims to wooden wagon 
+wheels. If the ring is heated and the sphere left at room 
+temperature, the sphere would pass through the ring with more 
+space to spare. 
+ 
+ANS. FIG. CQ19.8 
+ 
+(b) Heating the ring increases its diameter, the sphere can pass 
+through it easily. The hole in the ring expands as if it were filled 
+with the material of the ring. 
+CQ19.9 
+Two objects in thermal equilibrium need not be in contact. Consider 
+the two objects that are in thermal equilibrium in Figure 16.1(c). The 
+act of separating them by a small distance does not affect how the 
+molecules are moving inside either object, so they will still be in 
+thermal equilibrium. 
+CQ19.10 
+(a) 
+One mole of H2 has a mass of 2.016 0 g. 
+ 
+(b) One mole of He has a mass of 4.002 6 g. 
+ 
+(c) 
+One mole of CO has a mass of 28.010 g.
+
+--- PAGE 5 ---
+Chapter 19     1001 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 19.2 
+Thermometers and the Celsius Temperature Scale	  
+Section 19.3 
+The Constant-Volume Gas Thermometer  
+and the Absolute Temperature Scale	  
+P19.1 
+(a) 
+By Equation 19.2,  
+ 
+ 
+ 
+TF = 9
+5TC + 32 = 9
+5 41.5°C
+(
+) + 32 = 74.7 + 32
+(
+)°F = 107°F 
+ 
+(b) 
+Yes. The normal body temperature is 98.6°F, so the patient has
+a high fever and needs immediate attention.
+ 
+P19.2 
+(a) 
+Consider the freezing and boiling points of water in each scale: 
+0°C and 100°C; 32°F and 212°F. We see that there are 100 Celsius 
+units for every 180 Fahrenheit units: 
+ 
+ 
+ 
+ΔTC
+ΔTF
+= 100°C
+180°F     →     ΔTC = 5
+9 ΔTF
+(
+) = 5
+9 57.0
+(
+)°C = 31.7°C
+ 
+ 
+(b) The Kelvin unit is the same size as the Celsius unit:  
+ 
+ 
+ 
+T = TC + 273.15     →     ΔT = ΔTC 
+ 
+ 
+ 
+ΔT = ΔTC
+1 K
+1 oC
+⎛
+⎝⎜
+⎞
+⎠⎟= 31.7 K
+1 K
+1 oC
+⎛
+⎝⎜
+⎞
+⎠⎟= 31.7 K
+ 
+P19.3 
+(a) 
+By Equation 19.2,  
+ 
+ 
+ 
+TF = 9
+5TC + 32 = 9
+5 −78.5
+(
+) + 32 = −109°F 
+ 
+ 
+And, from Equation 19.1, 
+ 
+ 
+ 
+T = TC + 273.15 = −78.5 + 273.15
+(
+) K = 195 K 
+ 
+(b) Again, 
+ 
+ 
+ 
+TF = 9
+5TC + 32 = 9
+5 37.0
+(
+) + 32 = 98.6°F 
+ 
+ 
+ 
+T = TC + 273.15 = 37.0 + 273.15
+(
+) K = 310 K 
+P19.4 
+(a) 
+The relationship between the Kelvin and Celsius scales is given 
+by Equation 19.1: 
+ 
+ 
+ 
+T = TC + 273.15
+
+--- PAGE 6 ---
+1002     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus 20.3 K converts to  
+ 
+ 
+ 
+TC = T −273.15 = 20.3 K −273.15 K = −253°C 
+ 
+(b) The relationship between the Celsius and Fahrenheit scales is, 
+from Equation 19.2,  
+ 
+ 
+ 
+TF = 9
+5TC + 32°F 
+ 
+ 
+Thus –253°C converts to 
+ 
+ 
+ 
+TF = 9
+5TC + 32°F = 9
+5 −253°C
+(
+)+ 32°F = −423°F
+ 
+P19.5 
+(a) 
+By Equation 19.2,  
+ 
+ 
+ 
+TF = 9
+5TC + 32.0°F = 9
+5 −195.81°C
+(
+) + 32.0 = −320°F 
+ 
+(b) Applying Equation 19.1, 
+ 
+ 
+ 
+T = TC + 273.15 = −195.81°C + 273.15 = 77.3 K 
+*P19.6 
+(a) 
+To convert from Fahrenheit to Celsius, we use 
+ 
+ 
+ 
+TC = 5
+9 TF −32.0
+(
+) 
+ 
+ 
+The temperature at Furnace Creek Ranch in Death Valley is  
+ 
+ 
+ 
+TC = 5
+9 TF −32.0
+(
+) = 5
+9 134°F −32.0
+(
+) = 56.7°C 
+ 
+ 
+and the temperature at Prospect Creek Camp in Alaska is  
+ 
+ 
+ 
+TC = 5
+9 TF −32.0
+(
+) = 5
+9 −79.8°F −32.0
+(
+) =
+–62.1°C 
+ 
+(b) We find the Kelvin temperature from Equation 19.1, 
+T = TC + 273.15. The record temperature on the Kelvin scale at 
+Furnace Creek Ranch in Death Valley is 
+ 
+ 
+ 
+T = TC + 273.15 = 56.7°C + 273.15 = 330 K 
+ 
+ 
+and the temperature at Prospect Creek Camp in Alaska is  
+ 
+ 
+ 
+T = TC + 273.15 = −62.11°C + 273.15 = 211 K 
+P19.7 
+Since we have a linear graph, we know that the pressure is related to 
+the temperature as P = A + BTC , where A and B are constants. To find 
+A and B, we use the given data:  
+ 
+ 
+ 
+0.900 atm = A + B −78.5°C
+(
+) 
+[1]
+
+--- PAGE 7 ---
+Chapter 19     1003 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+ 
+ 
+ 
+1.635 atm = A + B 78.0°C
+(
+) 
+[2] 
+ 
+Solving Equations [1] and [2] simultaneously, we find: 
+ 
+ 
+ 
+A = 1.27 atm     and     B = 4.70 × 10−3 atm °C 
+ 
+Therefore, 
+ 
+ 
+ 
+P = 1.27 atm + 4.70 × 10−3 atm °C
+(
+)TC 
+ 
+(a) 
+At absolute zero the gas exerts zero pressure (P = 0 ), so 
+ 
+ 
+ 
+TC =
+−1.27 atm
+4.70 × 10−3 atm °C = −270°C 
+ 
+(b) At the freezing point of water, TC = 0 and 
+ 
+ 
+ 
+P = 1.27 atm + 0 = 1.27 atm 
+ 
+ 
+At the boiling point of water, TC = 100°C, so 
+ 
+ 
+ 
+P = 1.27 atm + 4.70 × 10−3 atm °C
+(
+) 100°C
+(
+) = 1.74 atm 
+ 
+ 
+	  
+Section 19.4 
+Thermal Expansion of Solids and Liquids 
+P19.8 
+Each section can expand into the joint space to the north of it. We need 
+think of only one section expanding. Using Equation 19.4, 
+ 
+ 
+ΔL = Liα ΔT = 25.0 m
+(
+) 12.0 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦40.0°C
+(
+)
+= 1.20 cm
+ 
+: 
+(a) 
+By Equation 19.4,  
+ 
+  
+ 
+ΔL = αLiΔT = 9.00 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦30.0 cm
+(
+) 65.0°C
+(
+)
+= 0.176 mm
+ 
+ 
+(b) The diameter is a linear dimension, so Equation 19.4 still applies:  
+ 
+ 
+ 
+ΔL = αLiΔT = 9.00 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦1.50 cm
+(
+) 65.0°C
+(
+)
+= 8.78 × 10−4 cm = 8.78 µm
+ 
+ 
+(c) 
+Using the volumetric coefficient of expansion β, and Vi = πd2L/4, 
+ 
+ 
+ 
+ΔV = βViΔT ≈3αVΔT
+
+--- PAGE 8 ---
+1004     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ΔV = βViΔT ≈3αViΔT
+= 3 9.00 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦
+30.0 π
+( ) 1.50
+(
+)
+2
+4
+ cm3
+⎛
+⎝⎜
+⎞
+⎠⎟65.0°C
+(
+)
+= 0.093 0 cm3
+ 
+P19.10 
+The horizontal section expands according to ΔL = αLiΔT. 
+ 
+ 
+ 
+Δx = 17 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦28.0 cm
+(
+) 46.5°C −18.0°C
+(
+)
+= 1.36 × 10−2 cm
+ 
+ 
+ANS. FIG. P19.10 
+ 
+The vertical section expands similarly by 
+ 
+ 
+ 
+Δy = 17 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦134 cm
+(
+) 28.5°C
+(
+) = 6.49 × 10−2 cm 
+ 
+The vector displacement of the pipe elbow has magnitude 
+ 
+  
+ 
+ 
+Δr =
+Δx2 + Δy2 =
+0.136 mm
+(
+)
+2 + 0.649 mm
+(
+)
+2 = 0.663 mm 
+ 
+and is directed to the right below the horizontal at angle 
+ 
+  
+ 
+ 
+θ = tan−1 Δy
+Δx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 0.649 mm
+0.136 mm
+⎛
+⎝⎜
+⎞
+⎠⎟= 78.2°
+ 
+ 
+Δr = 0.663 mm to the right at 78.2° below the horizontal 
+P19.11 
+The wire is 35.0 m long when TC = −20.0°C. 
+ 
+  
+ 
+ΔL = Liα T −Ti
+(
+) 
+ 
+Since α = α 20.0°C
+(
+) = 1.70 × 10−5 °C
+(
+)
+−1 for Cu,  
+ 
+  
+ 
+ΔL = 35.0 m
+(
+) 1.70 × 10−5 °C
+(
+)
+−1
+⎡⎣
+⎤⎦35.0°C −−20.0°C
+(
+)
+[
+]
+= +3.27 cm
+ 
+*P19.12 
+For the dimensions to increase, ΔL = α LiΔT: 
+ 
+ 
+ 
+1.00 × 10−2 cm = 1.30 × 10−4 °C
+(
+)−1
+[
+] 2.20 cm
+(
+) T −20.0°C
+(
+)
+T = 55.0°C
+
+--- PAGE 9 ---
+Chapter 19     1005 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P19.13 
+By Equation 19.4, 
+ 
+ 
+ 
+ΔL = α LiΔT = 11× 10−6 °C
+(
+)−1
+[
+] 1 300 km
+(
+) 35°C −−73°C
+(
+)
+[
+]
+= 1.54 km
+ 
+ 
+The expansion can be compensated for by mounting the pipeline on 
+rollers and placing Ω -shaped loops between straight sections. They 
+bend as the steel changes length. 
+*P19.14 
+By Equation 19.4, 
+ 
+ 
+ 
+ΔL = α LiΔT = 22 × 10−6 °C
+(
+)−1
+[
+] 2.40 cm
+(
+) 30.0°C
+(
+)
+= 1.58 × 10−3 cm
+ 
+*P19.15 
+(a) 
+Following the logic in the textbook for obtaining Equation 19.6 
+from Equation 19.4, we can express an expansion in area as 
+ 
+ 
+ 
+ΔA = 2α AiΔT
+= 2 17.0 × 10−6 °C
+(
+)−1
+[
+] 0.080 0 m
+(
+)
+2 50.0°C
+(
+)
+= 1.09 × 10−5 m2 = 0.109 cm2
+ 
+ 
+(b) The length of each side of the hole has increased. Thus, this 
+represents an increase in the area of the hole. 
+*P19.16 
+By Equation 19.6, 
+ 
+ 
+ 
+ΔV = β −3α
+(
+)ViΔT
+= 5.81× 10−4 °C
+(
+)−1 −3 11.0 × 10−6 °C
+(
+)−1
+(
+)
+[
+]
+                                                    × 50.0 gal
+(
+) 20.0°C
+(
+)
+= 0.548 gal
+ 
+*P19.17 
+(a) 
+By Equation 19.4, L = Li 1+ αΔT
+(
+), and  
+ 
+  
+ 
+ 
+5.050 cm = 5.000 cm 1+ 24.0 × 10−6 °C
+(
+)
+−1
+(
+) T −20.0°C
+(
+)
+⎡⎣
+⎤⎦
+ 
+ 
+  
+which gives T = 437°C 
+ 
+(b) We must get LAl = LBrass for some ΔT, or 
+ 
+  
+ 
+Li, Al 1+ αAlΔT
+(
+) = Li, Brass 1+ αBrassΔT
+(
+)
+5.000 cm 1+ 24.0 × 10−6 °C
+(
+)
+−1
+(
+)ΔT
+⎡⎣
+⎤⎦
+             = 5.050 cm 1+ 19.0 × 10−6 °C
+(
+)
+−1
+(
+)ΔT
+⎡⎣
+⎤⎦
+
+--- PAGE 10 ---
+1006     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+  
+Solving for ΔT,  
+ 
+  
+ 
+ 
+ΔT = 2 080°C 
+ 
+  
+so  
+T = 2 .1× 103°C 
+ 
+(c) 
+No. Aluminum melts at 660°C (Table 17.2). Also, although it is
+not in Table 17.2, internet research shows that brass (an alloy of
+copper and zinc) melts at about 900°C.
+ 
+P19.18 
+We solve for the temperature T at which the brass ring would fit over 
+the aluminum cylinder.  
+ 
+  
+LAl 1+ αAlΔT
+(
+) = LBrass 1+ αBrassΔT
+(
+) 
+ 
+  
+ΔT = T −Ti =
+LAl −LBrass
+LBrassαBrass −LAlαAl
+ΔT =
+10.02 cm −10.00 cm
+10.00 cm
+(
+) 19.0 × 10−6 °C
+(
+)
+−1
+(
+) −10.02 cm
+(
+) 24.0 × 10−6 °C
+(
+)
+−1
+(
+)
+ΔT = −396 = T −20.0     →     T = −376°C 
+ 
+ 
+The situation is impossible because the 
+required T = –376°C is below absolute zero. 
+P19.19 
+(a) 
+The original volume of the acetone we take as precisely 100 mL. 
+After it is finally cooled to 20.0°C, its volume is 
+ 
+ 
+ 
+Vf = Vi 1+ βΔT
+(
+) = 100 ml
+(
+) 1+ 1.50 × 10−4 °C
+(
+)
+−1
+⎡⎣
+⎤⎦−15.0°C
+(
+)
+{
+}
+= 99.8 mL
+ 
+ 
+(b) 
+Initially, the volume of the acetone reaches the 100-mL mark on 
+the flask, but the acetone cools and the flask warms to a 
+temperature of 32.0 °C. Thus, the volume of the acetone 
+decreases and the volume of the flask increases. This means the 
+acetone will be below the 100-mL mark on the flask. 
+P19.20 
+(a) 
+The material would expand by ΔL = αLiΔT, or ΔL
+Li
+= αΔT, but 
+instead feels stress  
+ 
+ 
+ 
+F
+A = YΔL
+Li
+= YαΔT = 7.00 × 109 N m2
+(
+) 12.0 × 10−6 C°
+(
+)
+−1
+⎡⎣
+⎤⎦30.0°C
+(
+)
+= 2.52 × 106 N m2
+
+--- PAGE 11 ---
+Chapter 19     1007 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The stress is less than the compressive strength, so 
+the concrete will not fracture. 
+P19.21 
+(a) 
+The amount of turpentine that overflows equals the difference in 
+the change in volume of the cylinder and the turpentine:  
+ 
+ 
+ 
+ΔV = VtβtΔT −VAlβAlΔT = βt −3αAl
+(
+)ViΔT
+= 9.00 × 10−4 °C
+(
+)
+−1 −3 24.0 × 10−6 °C
+(
+)
+−1
+(
+)
+⎡⎣
+⎤⎦
+                                            × 2 000 cm3
+(
+) 60.0°C
+(
+)
+ΔV = 99.4 cm3  overflows.
+ 
+ 
+(b) Find the volume of the turpentine remaining in the cylinder at 
+80.0°C, which is the same as the volume of the aluminum cylinder 
+at 80.0°C:  
+ 
+ 
+ 
+Vt = VAl = VAli + βAlVAliΔT = VAli + 3αAlVAliΔT 
+= VAli 1+ 3αAlΔT
+(
+)
+    =  2 000 cm3
+(
+) 1+ 3 24 × 10−6 °C
+(
+)
+−1
+(
+) 60.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 2 008.64 cm3 = 2.01 L
+ 
+ 
+(c) 
+Find the volume of the turpentine in the cylinder after it cools 
+back to 20.0°C: 
+ 
+ 
+ 
+V = Vti + βtVtiΔT = Vti 1 + βtΔT
+(
+) 
+= 2 008.64 cm3
+(
+) 1 +  9 × 10−4 °C
+(
+)
+−1
+(
+) −60.0°C
+(
+)
+⎡⎣
+⎤⎦ 
+= 1 900.17 cm3
+ 
+ 
+ 
+ Find the percentage of the cylinder that is empty at 20.0°C: 
+ 
+ 
+ 
+2 000 cm3 − 1 900.17 cm3
+2 000 cm3
+ = 4.99%
+ 
+ 
+ 
+Find the empty height of the cylinder above the turpentine: 
+ 
+ 
+ 
+4.99%
+(
+) 20.0 cm
+(
+) =  0.998 cm 
+P19.22 
+We model the wire as contracting according to ΔL = αLiΔT and then 
+stretching according to 
+ 
+ 
+ 
+stress = F
+A = Y ΔL
+Li
+= Y
+Li
+αLiΔT = YαΔT
+
+--- PAGE 12 ---
+1008     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+We find the tension from 
+ 
+ 
+ 
+F = YAαΔT
+= 20.0 × 1010 N m2
+(
+) 4.00 × 10−6 m2
+(
+)
+                                         × 11× 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦45.0°C
+(
+)
+= 396 N
+ 
+ 
+(b) 
+ΔT = stress
+Yα
+=
+3.00 × 108 N m2
+20.0 × 1010 N m2
+(
+) 11× 10−6 C°
+(
+)
+= 136°C 
+ 
+ 
+To increase the stress the temperature must decrease to 
+35°C −136°C = −101°C . 
+ 
+(c) 
+The original length divides out, so the answers would not change. 
+P19.23 
+(a) 
+The density of a sample of lead of mass m = 20.0 kg, volume V0, at 
+temperature T0 is  
+ 
+ 
+ 
+ρ0 = m
+V0
+= 11.3 × 103 kg m3 
+ 
+ 
+For a temperature change ΔT = T −T0, the same mass m occupies 
+a larger volume V = V0 1+ βΔT
+(
+); therefore, the density is  
+ 
+ 
+ 
+ρ =
+m
+V0 1+ βΔT
+(
+)
+=
+ρ0
+1+ βΔT
+(
+) 
+ 
+ 
+where β = 3α, and α = 29 × 10−6 (°C)−1. 
+ 
+ 
+For a temperature change of from 0.00°C to 90.0°C,  
+ 
+ 
+ 
+ρ =
+ρ0
+1+ βΔT
+(
+)
+=
+11.3 × 103 kg m3
+1+ 3 29 × 10−6 
+oC
+(
+)
+−1
+(
+) 90.0 oC
+(
+)
+= 11.2 × 103 kg m3
+ 
+ 
+(b) The mass is still the same, 20.0 kg , because a temperature 
+change would not change the mass. 
+P19.24 
+(a) 
+The density of a solid substance of mass m, volume V0, at 
+temperature T0 is  
+ 
+ 
+ 
+ρ0 = m
+V0
+
+--- PAGE 13 ---
+Chapter 19     1009 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For a temperature change ΔT = T −T0, the same mass m occupies 
+a larger volume V = V0 1+ βΔT
+(
+); therefore, the density is  
+ 
+ 
+ 
+ρ =
+m
+V0 1+ βΔT
+(
+) =
+ρ0
+1+ βΔT
+ 
+ 
+(b) The mass is still the same, m , because a temperature change 
+would not change the mass.  
+P19.25 
+From Equation 19.3, the difference in Celsius temperature in the 
+underground tank and the tanker truck is  
+ 
+ 
+ΔTC = 5
+9 ΔTF
+(
+) = 5
+9 95.0°F −52.0°F
+(
+) = 23.9°C
+ 
+ 
+If V52.0°F is the volume of gasoline that fills the tank at 52.0°F, the 
+volume this quantity of gas would occupy on the tanker truck at 95.0°F 
+is 
+ 
+ 
+V95.0°F = V52.0°F + ΔV = V52.0°F + βV52.0°FΔT = V52.0°F 1+ βΔT
+(
+)
+= 1.00 × 103 gal
+(
+) 1+ 9.6 × 10−4 °C
+(
+)
+−1
+⎡⎣
+⎤⎦23.9°C
+(
+)
+{
+}
+= 1.02 × 103 gal
+  
+ 
+ 
+	  
+Section 19.5 
+Macroscopic Description of an Ideal Gas 
+P19.26 
+If the volume and the temperature are both constant, the ideal gas law 
+gives 
+ 
+ 
+ 
+Pf Vf
+Pi Vi
+=
+nf RTf
+ni RTi
+     
+ 
+or 
+ 
+nf =
+Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟ni =
+5.00 atm
+25.0 atm
+⎛
+⎝⎜
+⎞
+⎠⎟1.50 mol
+(
+) = 0.300 mol 
+ 
+so the amount of gas to be withdrawn is  
+ 
+ 
+ 
+Δn = ni −nf = 1.50 mol −0.300 mol = 1.20 mol 
+P19.27 
+The initial and final absolute temperatures are 
+ 
+ 
+ 
+Ti = TC,i + 273 = 25.0 + 273
+(
+) K = 298 K 
+ 
+and  
+ 
+ 
+ 
+Tf = TC, f + 273 = 75.0 + 273
+(
+) K = 348 K
+
+--- PAGE 14 ---
+1010     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The volume of the tank is assumed to be unchanged, or Vf = Vi . Also, 
+since two-thirds of the gas is withdrawn, nf = ni /3. Thus, from the 
+ideal gas law, we obtain 
+ 
+ 
+ 
+Pf Vf
+Pi Vi
+= nf RTf
+ni RTi
+ 
+ 
+or 
+ 
+ 
+ 
+Pf =
+nf
+ni
+⎛
+⎝⎜
+⎞
+⎠⎟
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟Pi =
+1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+348 K
+298 K
+⎛
+⎝⎜
+⎞
+⎠⎟11.0 atm
+(
+) = 4.28 atm
+ 
+ 
+ 
+ 
+ 
+P19.28 
+When the tank has been prepared and is ready to use it contains 1.00 L 
+of air and 4.00 L of water. Consider the air in the tank during one 
+discharge process. We suppose that the process is slow enough that the 
+temperature remains constant. Then as the pressure drops from 2.40 
+atm to 1.20 atm, the volume of the air doubles (PV ≈ constant) resulting 
+in 1.00 L of water expelled and 3.00 L remaining. In the second 
+discharge, the air volume doubles from 2.00 L to 4.00 L and 2.00 L of 
+water is sprayed out. In the third discharge, only the last 1.00 L of 
+water comes out.  
+ 
+In each pump-up-and-discharge cycle, the volume of air in the tank
+doubles. Thus 1.00 L of water is driven out by the air injected at the
+first pumping, 2.00 L by the second, and only the remaining 1.00 L by
+the third. Each person could more efficiently use his device by starting
+with the tank half full of water, instead of 80% full.
+ 
+P19.29 
+(a) 
+From the ideal gas law, 
+ 
+  
+ 
+ 
+n = PV
+RT =
+9.00 atm
+(
+) 1.013 × 105 Pa atm
+(
+) 8.00 × 10−3 m3
+(
+)
+8.314 N ⋅mol K
+(
+) 293 K
+(
+)
+= 2.99 mol
+ 
+ 
+(b) The number of molecules is  
+ 
+  
+ 
+ 
+N = nNA = 2.99 mol
+(
+) 6.02 × 1023 molecules mol
+(
+)
+= 1.80 × 1024 molecules
+
+--- PAGE 15 ---
+Chapter 19     1011 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.30 
+(a) 
+From PV = nRT, we obtain  n = PV
+RT . Then  
+ 
+ 
+ 
+ 
+m = nM = PVM
+RT
+= 1.013 × 105 Pa
+(
+) 0.100 m
+(
+)
+3 28.9 × 10−3 kg mol
+(
+)
+8.314 J mol⋅K
+(
+) 300 K
+(
+)
+= 1.17 × 10−3 kg
+ 
+ 
+(b) 
+Fg = mg = 1.17 × 10−3 kg
+(
+) 9.80 m s2
+(
+) = 11.5 mN 
+ 
+(c) 
+F = PA = 1.013 × 105 N m2
+(
+) 0.100 m
+(
+)
+2 = 1.01 kN 
+ 
+(d) The molecules must be moving very fast to hit the walls hard. 
+P19.31 
+The equation of state of an ideal gas is PV = nRT, so we need to solve 
+for the number of moles to find N. 
+ 
+ 
+ 
+ 
+n = PV
+RT = 1.01× 105 N m2
+(
+) 10.0 m
+(
+) 20.0 m
+(
+) 30.0 m
+(
+)
+[
+]
+8.314 J mol⋅K
+(
+) 293 K
+(
+)
+= 2.49 × 105 mol
+ 
+ 
+Then, 
+ 
+ 
+ 
+ 
+N = nNA = 2.49 × 105 mol
+(
+) 6.022 × 1023 molecules mol
+(
+)
+= 1.50 × 1029 molecules
+ 
+P19.32 
+From the ideal gas law, PV = nRT, and  
+ 
+  
+ 
+ 
+m f
+mi
+=
+nf
+ni
+=
+PfVf
+RTf
+RTi
+PiVi
+=
+Pf
+Pi
+ 
+ 
+so 
+ 
+ 
+m f = mi
+Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+and  
+ 
+Δm = mi −m f = mi
+Pi −Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟= 12.0 kg 41.0 atm −26.0 atm
+41.0 atm
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+4.39 kg
+ 
+P19.33 
+(a) 
+From the ideal gas law, PV = nRT, so 
+ 
+ 
+ 
+n = PV
+RT =
+1.013 × 105 Pa
+(
+) 1.00 m3
+(
+)
+8.314 J mol ⋅K
+(
+) 293 K
+(
+)
+= 41.6 mol
+
+--- PAGE 16 ---
+1012     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+m = nM = 41.6 mol
+(
+) 28.9 g mol
+(
+) = 1.20 kg 
+ 
+(c) 
+This value agrees with the tabulated density of 1.20 kg/m
+3 at 
+20.0°C. 
+*P19.34 
+One mole of helium contains Avogadro’s number of molecules and has 
+a mass of 4.00 g. Let us call m0 the mass of one atom, and we have 
+ 
+ 
+ 
+NAm0 = 4.00 g mol 
+ 
+or 
+ 
+ 
+ 
+ 
+m0 =
+4.00 g mol
+6.02 × 1023 molecules mol = 6.64 × 10−24 g molecule
+= 6.64 × 10−27 kg
+ 
+*P19.35 
+The CO2 is far from liquefaction, so after it comes out of solution it 
+behaves as an ideal gas. Its molar mass is M = 12.0 g/mol +  
+2(16.0 g/mol) = 44.0 g/mol. The quantity of gas in the cylinder is  
+ 
+ 
+ 
+n = msample
+M
+=
+6.50 g
+44.0 g mol = 0.148 mol  
+ 
+Then PV = nRT gives 
+ 
+ 
+ 
+ 
+V = nRT
+P
+= 0.148 mol 8.314 J mol⋅K
+(
+) 273.15 K + 20°C
+(
+)
+1.013 × 105 N m2
+                                                             × 1 N⋅m
+1 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+103 L
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.55 L
+ 
+P19.36 
+We use Equation 19.10, PV = NkBT: 
+ 
+ 
+ 
+ 
+N = PV
+kBT =
+1.00 × 10−9 Pa
+(
+) 1.00 m3
+(
+)
+1.38 × 10−23 J/K
+(
+) 300 K
+(
+)
+= 2.42 × 1011 molecules 
+P19.37 
+(a) 
+Initially, PiVi = niRTi : 1.00 atm
+(
+)Vi = niR 10.0°C + 273.15
+(
+) K
+[
+] 
+[1] 
+ 
+ 
+Finally, PfVf = nfRTf : Pf 0.280Vi
+(
+) = niR
+40.0°C + 273.15
+(
+) K
+[
+] 
+[2] 
+ 
+ 
+Dividing [2] by [1]: 0.280Pf
+1.00 atm = 313.15 K
+283.15 K
+ 
+ 
+ 
+giving Pf = 3.95 atm = 4.00 × 105 Pa
+
+--- PAGE 17 ---
+Chapter 19     1013 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) After being driven, Pd 1.02
+(
+) 0.280Vi
+(
+) = niR 85.0°C + 273.15
+(
+) K [3] 
+ 
+ 
+Dividing [3] by [1]: 1.02
+(
+) 0.280
+(
+)Pd
+1.00 atm
+= 358.15 K
+283.15 K
+ 
+ 
+ 
+ 
+Pd = 4.43 atm = 4.49 × 105 Pa 
+P19.38 
+The air in the tube is far from liquefaction, so it behaves as an ideal 
+gas. At the ocean surface it is described by PtVt = nRT, where Pt =  
+1 atm, Vt = A (6.50 cm), and A is the cross-sectional area of the interior 
+of the tube. At the bottom of the dive,  
+ 
+ 
+ 
+ 
+PbVb = nRT = PbA 6.50 cm −2.70 cm
+(
+) 
+ 
+By division, 
+ 
+ 
+ 
+ 
+Pb 3.80 cm
+(
+)
+1 atm
+(
+) 6.50 cm
+(
+)
+= 1
+Pb = 1.013 × 105 N m2
+(
+) 6.50 cm
+3.80 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.73 × 105 N m2
+ 
+ 
+The salt water enters the tube until the air pressure is equal to the 
+water pressure at depth, which is described by 
+ 
+ 
+ 
+Pb = Pt + ρ gh
+1.73 × 105 N m2 = 1.013 × 105 N m2
+                                           + 1 030 kg m3
+(
+) 9.80 m s2
+(
+)h
+ 
+ 
+solving for the depth h of the dive gives 
+ 
+ 
+ 
+h = 7.20 × 104 kg⋅m⋅m2 ⋅s2
+1.01× 104 s2 ⋅m2 ⋅kg
+= 7.13 m
+ 
+P19.39 
+The density of the air inside the balloon, ρin, must be reduced until the 
+buoyant force of the outside air is at least equal to the weight of the 
+balloon plus the weight of the air inside it: 
+ 
+ 
+  
+Fy
+∑
+= 0:     B−Wair inside −Wballoon = 0 
+ 
+  
+ 
+ρoutgV −ρingV −mbg = 0     →     ρout −ρin
+(
+)V = mb 
+ 
+where ρout = 1.244 kg/m
+3, V = 400 m
+3, and mb = 200 kg. 
+ 
+From PV = nRT, n
+V = P
+RT
+. This equation means that at constant 
+pressure the density is inversely proportional to the temperature. 
+Thus, the density of the hot air inside the balloon is 
+ 
+ 
+ 
+ 
+ρin = ρout
+283 K
+Tin
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 18 ---
+1014     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting this result into the condition ρout −ρin
+(
+)V = mb gives 
+ 
+ 
+ 
+ 
+ ρout 1−283 K
+Tin
+⎛
+⎝⎜
+⎞
+⎠⎟= mb
+V     →   283 K
+Tin
+= 1−
+mb
+ ρoutV     
+→   Tin =
+283 K
+1−
+mb
+ ρoutV
+⎛
+⎝⎜
+⎞
+⎠⎟
+Tin =
+283 K
+1−
+200 kg
+ 1.244 kg m3
+(
+) 400 m3
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 473 K
+ 
+*P19.40 
+To compute the mass of air leaving the room, we begin with the ideal 
+gas law: 
+ 
+ 
+ 
+P0V = n1RT1 = m1
+M
+(
+)RT1 
+ 
+As the temperature is increased at constant pressure, 
+ 
+ 
+ 
+P0V = n2RT2 = m2
+M
+(
+)RT2
+ 
+ 
+Subtracting the two equations gives 
+ 
+ 
+ 
+m1 −m2 = P0VM
+R
+1
+T1
+−1
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+P19.41 
+At depth, P = P0 + ρgh   and   PVi = nRTi 
+ 
+At the surface, P0Vf = nRTf :     
+P0Vf
+P0 + ρgh
+(
+)Vi
+=
+Tf
+Ti
+ 
+ 
+Therefore, Vf = Vi
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+P0 + ρgh
+P0
+⎛
+⎝⎜
+⎞
+⎠⎟ and 
+ 
+ 
+Vf = 1.00 cm3 293 K
+278 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+            ×
+1.013 × 105 Pa
+(
+) + 1 030 kg m3
+(
+) 9.80 m s2
+(
+) 25.0 m
+(
+)
+1.013 × 105 Pa
+⎛
+⎝⎜
+⎞
+⎠⎟
+Vf = 3.68 cm3
+ 
+P19.42 
+My bedroom is 4 m long, 4 m wide, and 2.4 m high, enclosing air at  
+100 kPa and 20°C = 293 K. Think of the air as 80.0% N2 and 20.0% O2.
+
+--- PAGE 19 ---
+Chapter 19     1015 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Avogadro’s number of molecules has mass 
+ 
+ 
+ 
+ 
+0.800
+(
+) 28.0 g mol
+(
+) + 0.200
+(
+) 32.0 g mol
+(
+) = 0.028 8 kg mol 
+ 
+Then PV = nRT =
+m
+M
+⎛
+⎝⎜
+⎞
+⎠⎟RT gives 
+ 
+  
+ 
+ 
+m = PVM
+RT
+=
+1.00 × 105 N m2
+(
+) 38.4 m3
+(
+) 0.028 8 kg mol
+(
+)
+8.314 J mol ⋅K
+(
+) 293 K
+(
+)
+= 45.4 kg ~102 kg
+ 
+P19.43 
+Pressure inside the cooker is due to the pressure of water vapor plus 
+the air trapped inside. The pressure of the water vapor is 
+ 
+ 
+ 
+ 
+Pv = nRT
+V
+=
+9.00 g
+18.0 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+8.314 J
+mol K
+⎛
+⎝⎜
+⎞
+⎠⎟
+773 K
+2.00 × 10−3 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.61 MPa
+ 
+ 
+We find the pressure of the air at constant volume, assuming the initial 
+temperature is 10°C: 
+ 
+ 
+ 
+ 
+Pa2
+Pa1
+= T2
+T1
+     →     Pa2 = Pa1
+T2
+T1
+= 101 kPa
+(
+) 773 K
+283 K
+                                   = 276 kPa = 0.276 MPa
+ 
+ 
+The total pressure is 
+ 
+  
+ 
+ 
+P = Pv + Pa2 = 1.61 MPa + 0.276 MPa = 1.89 MPa 
+P19.44 
+If Pgi is the initial gauge pressure of the gas in the cylinder, the initial 
+absolute pressure is Pi,abs = Pgi + P0, where P0 is the exterior pressure. 
+Likewise, the final absolute pressure in the cylinder is Pf,abs = Pgf + P0, 
+where Pgf is the final gauge pressure. The initial and final masses of gas 
+in the cylinder are mi = ni M and mf = nf M, where n is the number of 
+moles of gas present and M is the molecular weight of this gas. Thus, 
+m f mi = nf ni . 
+ 
+We assume the cylinder is a rigid container whose volume does not 
+vary with internal pressure. Also, since the temperature of the cylinder 
+is constant, its volume does not expand or contract. Then, the ideal gas 
+law (using absolute pressures) with both temperature and volume 
+constant gives 
+ 
+ 
+Pf,abs V
+Pi,abs V =
+nf RT
+ni RT =
+m f
+mi
+        or       m f = mi
+Pf,abs
+Pi,abs
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+and in terms of gauge pressures,
+
+--- PAGE 20 ---
+1016     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+m f = mi
+Pgf + P0
+Pgi + P0
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+	  
+Additional Problems 
+P19.45 
+The astronauts exhale this much CO2: 
+ 
+ 
+n = msample
+M
+  =
+1.09 kg
+astronaut ⋅day
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 000 g
+1 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+                    × 3 astronauts
+(
+) 7 days
+(
+) 1 mol
+44.0 g
+⎛
+⎝⎜
+⎞
+⎠⎟= 520 mol
+ 
+ 
+Then 520 mol of methane is generated. It is far from liquefaction and 
+behaves as an ideal gas, so the pressure is 
+ 
+ 
+ 
+P = nRT
+V
+= 520 mol
+(
+) 8.314 J mol ⋅K
+(
+) 273.15 K −45 K
+(
+)
+150 × 10−3 m3
+= 6.57 × 106 Pa
+ 
+P19.46 
+We must first convert both the initial and final temperatures to Celsius: 
+ 
+ 
+ 
+TC = 5
+9 TF −32
+(
+) 
+ 
+Thus, 
+Tinitial = 5
+9 TF,initial −32
+(
+) = 5
+9 15.000 −32.000
+(
+) = −9.444°C  
+ 
+ 
+ 
+Tfinal = 5
+9 TF, final −32
+(
+) = 5
+9 90.000 −32.000
+(
+) = 32.222°C 
+ 
+The length of the steel beam after heating is Lf , and the linear 
+expansion of the beam follows the equation: ΔL = Lf −Li = αLiΔT  
+ 
+Thus, 
+ 
+ 
+ 
+Lf = αLi Tf −Ti
+(
+)+ Li
+= 11× 10−6°C−1
+(
+) 35.000 m
+(
+) 32.222°C −−9.444°C
+(
+)
+[
+]
+                                                                     + 35.000 m
+= 0.016 m + 35.000 m = 35.016 m
+
+--- PAGE 21 ---
+Chapter 19     1017 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.47 
+(a) 
+The diameter is a linear dimension, so we consider the linear 
+expansion of steel: 
+ 
+ 
+ 
+d = d0 1+α ΔT
+(
+)
+[
+]
+= 2.540 cm
+(
+) 1+ 11× 10−6 °C
+(
+)
+−1
+(
+) 100.00°C −25.00°C
+(
+)
+⎡⎣
+⎤⎦
+= 2.542 cm
+ 
+ 
+(b) If the volume increases by 1%, then ΔV = (1.000 × 10−2) V0 . Then, 
+using ΔV = βV0 ΔT
+(
+) , where β = 3α is the volume expansion 
+coefficient, we find 
+ 
+ 
+ 
+ΔT = ΔV V0
+β
+=
+1.000 × 10−2
+3 11.0 × 10−6 °C
+(
+)
+−1
+⎡⎣
+⎤⎦
+= 3.0 × 102 °C 
+P19.48 
+The ideal gas law will be used to find the pressure in the tire at the 
+higher temperature. However, one must always be careful to use 
+absolute temperatures and absolute pressures in all ideal gas law 
+calculations. 
+ 
+The initial absolute pressure is  
+ 
+ 
+ 
+Pi = Pi,gauge + Patm = 2.50 atm + 1.00 atm = 3.50 atm 
+ 
+The initial absolute temperature is  
+ 
+ 
+ 
+Ti = Ti,C + 273.15 = 15.0 + 273.15
+(
+) K = 288.2 K 
+ 
+and the final absolute temperature is  
+ 
+ 
+ 
+Tf = Tf ,C + 273.15 = 45 + 273.15
+(
+) K = 318.2 K 
+ 
+The ideal gas law, with volume and quantity of gas constant, gives the 
+final absolute pressure as 
+ 
+ 
+  
+Pf Vf
+Pi V i
+=
+nfRTf
+niRTi
+  
+ 
+ 
+ 
+  
+⇒   Pf = Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟Pi =
+318.2 K
+288.2 K
+⎛
+⎝⎜
+⎞
+⎠⎟3.50 atm
+(
+) = 3.86 atm
+ 
+ 
+The final gauge pressure in the tire is  
+ 
+ 
+ 
+Pf ,gauge = Pf −Patm = 3.86 atm −1.00 atm = 2.86 atm
+
+--- PAGE 22 ---
+1018     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P19.49 
+Some gas will pass through the porous plug from the reaction chamber 
+1 to the reservoir 2 as the reaction chamber is heated, but the net 
+quantity of gas stays constant according to ni1 + ni2 = nf 1 + nf 2. 
+Assuming the gas is ideal, we apply n = PV
+RT to each term: 
+ 
+ 
+ 
+PiV0
+300 K
+(
+)R +
+Pi 4V0
+(
+)
+300 K
+(
+)R =
+PfV0
+673 K
+(
+)R + Pf 4V0
+(
+)
+300 K
+(
+)R
+ 
+ 
+ 
+ 
+ 
+1 atm
+5
+300 K
+(
+) = Pf
+1
+673 K +
+4
+300 K
+(
+)
+ 
+ 
+ 
+ 
+ 
+ 
+Pf = 1.12 atm
+ 
+P19.50 
+Let us follow the cycle, assuming that the conditions for ideal gases 
+apply. (That is, that the gas never comes near the conditions for which 
+a phase transition would occur.) 
+ 
+We may use the ideal gas law:  
+ 
+ 
+ 
+PV = nRT 
+ 
+in which the pressure and temperature must be total pressure (in 
+pascals or atm, depending on the units of R chosen), and absolute 
+temperature (in K). 
+ 
+For stage (1) of the cycle, the process is: 
+ 
+ 
+ 
+PV = nRT →VΔP = nRΔT 
+ 
+And, because only T and P vary: 
+ 
+ 
+ 
+ΔT
+ΔP = V
+nR = const.
+ 
+ 
+Thus: 
+Tf
+Pf
+= Ti
+Pi
+= V
+nR = const. 
+ 
+ANS. FIG. P16.70
+
+--- PAGE 23 ---
+Chapter 19     1019 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+However, when we substitute into the temperature–pressure relation 
+for stage (1), we obtain: 
+ 
+ 
+ 
+Tf
+Pf
+= Ti
+Pi
+   →   TB = Tf = Pf
+Pi
+Ti = 0.870 atm
+1.000 atm 150°C + 273.15
+(
+)
+                             = 368.14 K = 95.0°C
+ 
+ 
+T falls below 100°C, so steam condenses and the expensive 
+apparatus falls (assuming that the boiling point does not change 
+significantly with the change in pressure).
+ 
+P19.51 
+We assume the dimensions of the capillary tube do not change.  
+ 
+For mercury, β = 1.82 × 10−4 °C
+(
+)
+−1 
+ 
+and for Pyrex glass, α = 3.20 × 10−6 °C
+(
+)
+−1 
+ 
+The volume of the liquid increases as ΔV= VβΔT. 
+ 
+The volume of the shell increases as ΔVg = 3αVΔT. 
+ 
+Therefore, the overflow in the capillary is ΔVc = VΔT β −3α
+(
+), and in 
+the capillary ΔVc = AΔh. 
+ 
+ΔVc = AΔh = VΔT β −3α
+(
+)     →    Δh = β −3α
+(
+)VΔT
+A
+ 
+Δh =
+1
+π
+0.004 00 × 10−2 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎛
+⎝
+⎜
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+⎟
+1.82 × 10−4 °C
+(
+)
+−1 −3 3.20 × 10−6 °C
+(
+)
+−1
+(
+)
+⎡⎣
+⎤⎦
+                                                              × 4
+3 π
+0.250 × 10−2 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+30.0oC
+(
+)
+Δh = 3.37 × 10−2 m = 3.37 cm
+ 
+ 
+ANS. FIG. P19.51
+
+--- PAGE 24 ---
+1020     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.52 
+We assume the dimensions of the capillary do not change. The volume 
+of the liquid increases by ΔV= VβΔT. The volume of the shell 
+increases by ΔVg = 3αVΔT. Therefore, the overflow in the capillary is 
+ΔVc = VΔT β −3α
+(
+); and in the capillary ΔVc = AΔh. 
+ 
+Therefore, Δh = β −3α
+(
+)VΔT
+A
+. 
+P19.53 
+The fundamental frequency played by the cold-walled flute is  
+ 
+ 
+ 
+fi = v
+λi
+= v
+2Li
+ 
+ 
+Assuming the change in the speed of sound as a function of 
+temperature is negligible, when the instrument warms up 
+ 
+ 
+ 
+f f = v
+λ f
+=
+v
+2Lf
+=
+v
+2Li 1+ αΔT
+(
+)
+=
+fi
+1+ αΔT
+ 
+ 
+The final frequency is lower. The change in frequency is 
+ 
+ 
+ 
+Δf = f f −fi = fi
+1
+1+αΔT −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δf =
+343 m s
+(
+)
+2 0.655 m
+(
+)
+1
+1+ 24.0 × 10−6 C°
+(
+) 15.0°C
+(
+) −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −0.0942 Hz
+ 
+ 
+This change in frequency is imperceptibly small. 
+P19.54 
+Let L0 represent the length of each bar at 0°C. 
+ 
+(a) 
+In the diagram consider the right triangle that each invar bar 
+makes with one half of the aluminum bar. We have 
+ 
+ 
+ 
+sin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= L0(1+ αAlΔT) 2
+L0
+= L0(1+ αAlΔT)
+2L0
+. 
+ 
+ 
+Solving gives  
+ 
+ 
+ 
+θ = 2sin−1 1+ αAlTC
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where TC is the Celsius temperature. 
+ 
+(b) 
+Yes. If the temperature drops, the negative value of Celsius 
+temperature describes the contraction. So the answer is accurate.
+
+--- PAGE 25 ---
+Chapter 19     1021 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Yes. At TC = 0 we have θ  = 2sin
+–1(1/2) = 60.0°, and this is 
+accurate. 
+ 
+(d) From the same triangle we have 
+ 
+ 
+ 
+sin θ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟=
+L0(1+ αAlΔT)
+2L0(1+ αinvarΔT)
+     
+ 
+ 
+giving     
+ 
+ 
+ 
+θ = 2sin−1
+1+ αAlTC
+2(1 + αinvarTC)
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(e) 
+The greatest angle is at 660°C,  
+ 
+ 
+ 
+θ = 2sin−1
+1+ αAlTC
+2(1 + αinvarTC)
+⎛
+⎝⎜
+⎞
+⎠⎟= 2sin−1
+1+ (24 × 10−6)660
+2(1 + [0.9 × 10−6]660)
+⎛
+⎝⎜
+⎞
+⎠⎟
+ = 2sin−1
+1.015 84
+2.0011 88
+⎛
+⎝⎜
+⎞
+⎠⎟= 2sin−1 0.508 = 61.0°
+ 
+ 
+(f) 
+The smallest angle is at –273°C,  
+ 
+ 
+ 
+θ = 2sin−1
+1+(24 × 10−6) −273
+(
+)
+2(1 + [0.9 × 10−6][−273])
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2sin−1 0.9934
+1.9995
+⎛
+⎝⎜
+⎞
+⎠⎟= 2sin−1 0.497 = 59.6°
+ 
+P19.55 
+The excess expansion of the brass is  
+ 
+ 
+ 
+ΔLrod −ΔLtape = α brass −αsteel
+(
+)LiΔT 
+ 
+Δ ΔL
+(
+) = 19.0 −11.0
+(
+) × 10−6 °C
+(
+)
+−1 0.950 m
+(
+) 35.0°C
+(
+)
+Δ ΔL
+(
+) = 2.66 × 10−4 m
+ 
+ 
+(a) 
+The rod contracts more than the tape to a length reading  
+ 
+ 
+ 
+0.950 0 m −0.000 266 m = 94.97 cm 
+ 
+(b) 
+0.950 0 m + 0.000 266 m = 95.03 cm 
+P19.56 
+At 0°C, mass m of gasoline occupies volume V0°C; the density of the 
+gasoline is 
+ 
+ 
+ 
+ρ0°C = m
+V0°C
+= 730 kg m3
+
+--- PAGE 26 ---
+1022     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+At temperature ΔT above 0°C, the same mass of gasoline occupies a 
+larger volume V = V0°C 1+ βΔT
+(
+): the density of the gasoline is 
+ρ =
+m
+V0°C 1+ βΔT
+(
+) =
+ρ0o C
+1+ βΔT , which is slightly smaller than ρ0°C. 
+ 
+For the same volume of gasoline, the difference in mass between 
+gasoline at 0°C and gasoline at 20.0°C is  
+ 
+ 
+ 
+Δm = ρ0°CV −ρV = ρ0°CV −
+ρ0°C
+1+ βΔT V
+Δm = ρ0°CV 1−
+1
+1+ βΔT
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+Δm =
+730 kg m3
+(
+) 10.0 gal
+(
+) 0.003 80 m3
+1.00 gal
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+                              × 1−
+1
+1+ 9.60 × 10–4(°C)−1
+(
+) 20.0°C
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+Δm = 0.523 kg
+ 
+P19.57 
+(a) 
+ρ = m
+V and dρ = −m
+V 2 dV 
+ 
+ 
+For very small changes in V and ρ, this can be expressed as 
+ 
+ 
+ 
+Δρ = −m
+V
+ΔV
+V = −ρβΔT     →     Δρ
+ρ = −βΔT
+ 
+ 
+(b) 
+As the temperature increases, the density decreases. 
+ 
+(c) 
+For water we have β = −Δρ
+ρΔT = −0.999 7 g cm3 − 1.000 0 g cm3
+1.000 0 g cm3
+(
+) 10.0°C −4.0°C
+(
+)
+= 5 × 10−5 °C
+(
+)
+−1
+  
+ 
+(d) 
+β = −Δρ
+ρΔT = −1.000 0 g cm3 −0.999 9 g cm3
+1.000 0 g cm3
+(
+) 4.00°C −0.00°C
+(
+)
+ 
+=  −2.5 × 10−5 °C
+(
+)
+−1
+ 
+P19.58 
+(a) 
+From PV = nRT, the volume is V =
+nR
+P
+⎛
+⎝⎜
+⎞
+⎠⎟T. 
+ 
+ 
+Therefore, when pressure is held constant, dV
+dT = nR
+P = V
+T .
+
+--- PAGE 27 ---
+Chapter 19     1023 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, β ≡
+1
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+dV
+dT =
+1
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+V
+T
+ 
+or 
+β =
+1
+T
+ 
+ 
+(b) At T = 0°C = 273.15 K, this predicts β =
+1
+273 K = 3.66 × 10−3 K−1 . 
+ 
+Experimental values are: 
+ 
+(c) 
+βHe = 3.665 × 10−3 K−1, this agrees within 0.06% 
+of the tabulated value.
+ 
+ 
+(d) 
+βair = 3.67 × 10−3 K−1, this agrees within 0.2% 
+of the tabulated value.
+ 
+P19.59 
+(a) 
+Using the expression for the period TP of a pendulum, we have 
+ 
+ 
+ 
+TP = 2π
+L
+g     →     dTP = 2π
+1
+g 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dL
+L
+ 
+                                        = 2π
+L
+g 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dL
+L =TP
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dL
+L
+dTP
+TP
+=
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+dL
+L
+ 
+ 
+ 
+and ΔL = αLiΔT, so, for temperature change dT, 
+ 
+ 
+ 
+dTP = TP
+1
+2
+dL
+L = TP
+αdT
+2
+= 1.000 s 
+19.0 × 10−6 °C
+(
+)
+−1
+(
+) 10.0°C
+(
+)
+2
+= 9.50 × 10−5 s
+ 
+ 
+(b) In one week, the time lost = 1 week (9.50 × 10
+−5 s lost per second) 
+ 
+ 
+time lost = 7.00 d week
+(
+) 86 400 s
+1.00 d
+⎛
+⎝⎜
+⎞
+⎠⎟9.50 × 10−5 s lost
+s
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+time lost = 57.5 s lost 
+P19.60 
+The angle of bending θ, between tangents to the two 
+ends of the strip, is equal to the angle the strip 
+subtends at its center of curvature. (The angles are 
+equal because their sides are perpendicular, right side 
+to the right side and left side to left side.) 
+ 
+ANS. FIG. P19.60
+
+--- PAGE 28 ---
+1024     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+The definition of radian measure gives Li + ΔL1 = θ r1 
+ 
+ 
+and Li + ΔL2 = θ r2. By subtraction,  
+ 
+ 
+ 
+ΔL2 −ΔL1 = θ r2 −r1
+(
+) 
+ 
+ 
+ 
+α2LiΔT −α1LiΔT = θ Δr
+θ = α2 −α1
+(
+)LiΔT
+Δr
+ 
+ 
+(b) In the expression from part (a), θ is directly proportional to ΔT 
+and also to α2 −α1
+(
+). Therefore, θ is zero when either of these 
+quantities becomes zero. 
+ 
+(c) 
+The material that expands more when heated contracts more 
+when cooled, so the bimetallic strip bends the other way . It is fun 
+to demonstrate this with liquid nitrogen. 
+P19.61 
+(a) 
+From ANS. FIG. P19.61, we see that the change in area is 
+ 
+ 
+ 
+ΔA = Δw + wΔ+ ΔwΔ 
+ 
+ 
+Since Δ and Δw are each small quantities, 
+the product ΔwΔ will be very small. 
+Therefore, we assume ΔwΔ≈0 . 
+ 
+ 
+Since   Δw = wαΔT   and   Δ= αΔT, 
+ 
+ 
+we then have ΔA = wαΔT + wαΔT, 
+ 
+ 
+and since A = w, ΔA = 2αAΔT 
+ 
+(b) The approximation assumes ΔwΔ≈0, or αΔT ≈0. Another way 
+of stating this is αΔT << 1 . 
+P19.62  
+Let ρ0 represent the density of the liquid at 0°C. At temperature TC, the 
+volume of a sample has changed according to ΔV = βVΔT = βVTC, so 
+the density has become 
+ 
+ 
+ 
+ρ =
+m
+V + βVTC
+= ρ0
+1
+1+ βTC
+     
+ 
+so      
+ρ 1+ βTC
+(
+) = ρ0 
+ 
+Now the pressure at the bottom of the U tube is the same, whichever 
+column it supports: 
+ 
+ 
+ 
+P0 + ρ0gh0 = P0 + ρght  
+ 
+Simplifying,  
+ 
+ 
+ 
+ρ0h0 = ρht  
+ANS. FIG. P19.61
+
+--- PAGE 29 ---
+Chapter 19     1025 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and substituting,  
+ 
+ 
+ρ(1 + βTC)h0 = ρht 
+ 
+ 
+ 
+1+ βTC
+(
+)h0 = ht →β = 1
+TC
+ht
+h0
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P19.63 
+(a) 
+Yes, so long as the coefficients of expansion remain constant. 
+ 
+(b) The coefficient of linear expansion of copper, 17.0 × 10–6 °C–1, is 
+greater than that of steel, 11.0 × 10–6 °C–1, so the copper rod should 
+start with a smaller length. Since the difference between the 
+lengths of the two rods is to remain constant, we require 
+ 
+ 
+ 
+ΔLCu = ΔLS
+α CuLCuΔT = αSLSΔT
+17.0 × 10−6 °C
+(
+)
+−1
+(
+)LCuΔT = 11.0 × 10−6 °C
+(
+)
+−1
+(
+)LSΔT
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+17.0LCu = 11.0LS 
+ 
+ 
+Now, with LCu + 5.00 cm = LS at 0°C, we obtain by substitution, 
+ 
+ 
+ 
+LCu + 5.00 cm =
+17.0
+11.0
+⎛
+⎝⎜
+⎞
+⎠⎟LCu
+  
+ 
+ 
+or 
+LCu =
+11.0
+6.00
+⎛
+⎝⎜
+⎞
+⎠⎟5.00 cm
+(
+) = 9.17 cm 
+ 
+ 
+With LS −LC = 5.00 cm, the only possibility is LS = 14.17 cm
+and LC = 9.17 cm.
+ 
+P19.64 
+(a) 
+Particle in equilibrium model 
+ 
+(b) On the piston, 
+ 
+ 
+ 
+F
+∑
+= Fgas −Fg −Fair = 0:        
+F
+∑
+= PA −mg −P0A = 0
+   
+ 
+(c) 
+In equilibrium, Pgas = mg
+A + P0. 
+ 
+ 
+Therefore, nRT
+hA = mg
+A + P0, 
+ 
+ 
+or h =
+nRT
+mg + P0A , 
+ 
+ 
+where we have used V = hA as the volume of the gas. 
+ANS. FIG. P19.64
+
+--- PAGE 30 ---
+1026     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.65 
+We compute the moment of inertia from 
+ 
+ 
+ 
+I =
+r2dm
+∫
+ 
+ 
+and since r T
+( ) = r Ti
+( ) 1+ αΔT
+(
+), 
+ 
+ 
+ 
+I T
+( )
+I Ti
+( )
+= 1+ αΔT
+(
+)
+2 
+ 
+Thus 
+ΔI
+I = I T
+( ) −I Ti
+( )
+I Ti
+( )
+=  1+ αΔT
+(
+)
+2 −1. 
+ 
+(a) 
+With α = 17.0 × 10−6 °C
+(
+)
+−1 and ΔT = 100°C, we find for Cu:  
+ 
+ 
+ 
+ΔI
+I = 1+  17.0 × 10−6 °C
+(
+)
+−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦
+2
+−1 = 0.340%
+ 
+ 
+(b) With α = 24.0 × 10−6 °C
+(
+)
+−1 and ΔT = 100°C, we find for Al:  
+ 
+ 
+ 
+ΔI
+I = 1+  24.0 × 10−6 °C
+(
+)
+−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦
+2
+−1 = 0.481%
+ 
+P19.66 
+(a) 
+Let m represent the sample mass. The number of moles is n = m
+M 
+and the density is ρ = m
+V . So PV = nRT becomes PV = m
+M RT  or  
+PM = m
+V RT.
+ 
+ 
+ 
+Then, ρ = m
+V =
+PM
+RT
+ 
+ 
+(b) 
+ρ = PM
+RT =
+1.013 × 105 N m2
+(
+) 0.032 0 kg mol
+(
+)
+8.314 J mol ⋅K
+(
+) 293 K
+(
+)
+= 1.33 kg m3 
+P19.67 
+After expansion, the length of one of the spans is 
+ 
+Lf = Li 1+αΔT
+(
+) = 125 m
+(
+) 1+ 12 × 10−6 °C
+(
+)
+−1 20.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 125.03 m
+ 
+ 
+Lf , y, and the original 125-m length of this span form a right triangle 
+with y as the altitude. Using the Pythagorean theorem gives 
+ 
+ 
+ 
+125.03 m
+(
+)
+2 = y2 + 125 m
+(
+)
+2 
+ 
+yielding y = 2.74 m .
+
+--- PAGE 31 ---
+Chapter 19     1027 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.68 
+Let = L/2 represent the original length of one of the concrete slabs. 
+After expansion, the length of each one of the spans is f = 1+ αΔT
+(
+). 
+Now, f , y, and the original length  of this span form a right triangle 
+with y as the altitude. Using the Pythagorean theorem gives 
+ 
+ 
+ 
+f
+2 = 2 + y2 
+ 
+or     
+ 
+ 
+ 
+y =
+f
+2 −2 = 
+1+ αΔT
+(
+)
+2 −1 = L/2
+(
+) 2αΔT + αΔT
+(
+)
+2 
+ 
+Since αΔT << 1, we have   y ≈L αΔT /2 
+P19.69 
+(a) 
+Let V’ represent the compressed volume at depth 
+ 
+ 
+ 
+B = ρg ′
+V
+          ′
+P = P0 + ρgd
+           ′
+P
+′
+V = P0Vi
+B = ρgP0Vi
+′
+P
+=
+ρgP0Vi
+P0 + ρgd
+ 
+ 
+(b) Since d is in the denominator, B must decrease as the depth 
+increases. (The volume of the balloon becomes smaller with 
+increasing pressure.) 
+ 
+(c) 
+To find the depth at which the buoyant force is half that at the 
+surface, we write 
+ 
+ 
+ 
+1
+2 = B d( )
+B 0( )
+= ρgP0 Vi
+P0 + ρgd
+(
+)
+ρgP0Vi P0
+=
+P0
+P0 + ρgd
+ 
+ 
+ 
+Then, solve for d from P0 + ρgd = 2P0: 
+ 
+ 
+ 
+d = P0
+ρg =
+1.013 × 105 N m2
+1.00 × 103 kg m3
+(
+) 9.80 m s2
+(
+)
+= 10.3 m
+ 
+P19.70 
+(a) 
+No torque acts on the disk so its angular momentum is 
+constant.  Yes: it increases. As the disk cools, its radius and, 
+hence, its moment of inertia decrease. Conservation of 
+angular momentum then requires that its angular speed 
+increase.
+ 
+ 
+(b) 
+Iiω i = I fω f = 1
+2 MRi
+2ω i = 1
+2 MR f
+2ω f = 1
+2 M Ri + RiαΔT
+[
+]
+2ω f
+= 1
+2 MRi
+2 1−α ΔT
+[
+]
+2ω f
+
+--- PAGE 32 ---
+1028     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ω f = ω i 1−α ΔT
+[
+]
+−2 =
+25.0 rad s
+1−17 × 10−6 °C
+(
+)
+−1
+(
+) 830°C
+(
+)
+⎡⎣
+⎤⎦
+2 = 25.0 rad s
+0.972
+= 25.7 rad s
+ 
+P19.71 
+Visualize the molecules of various species all moving randomly. The 
+net force on any section of wall is the sum of the forces of all of the 
+molecules pounding on it.  
+ 
+For each gas alone, P1 = N1kT
+V
+ and P2 = N2kT
+V
+ and P3 = N3kT
+V
+, etc. 
+ 
+For all gases, 
+ 
+ 
+P1V1 + P2V2 + P3V3…  N1 + N2 + N3…
+(
+)kT and
+N1 + N2 + N3…
+(
+)kT = PV
+ 
+ 
+Also, V1 = V2 = V3 =…= V; therefore, P = P1 + P2 + P3… 
+ 
+ 
+	  
+Challenge Problems 
+P19.72 
+(a) 
+At 20.0°C, the unstretched lengths of the steel and copper wires 
+are 
+ 
+ 
+ 
+Ls 20.0°C
+(
+) = 2.000 m
+(
+) 1+ 11.0 × 10−6 °C−1
+(
+) −20.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 1.999 56 m
+Lc 20.0°C
+(
+) = 2.000 m
+(
+) 1+ 17.0 × 10−6 °C−1
+(
+) −20.0°C
+(
+)
+⎡⎣
+⎤⎦
+= 1.999 32 m
+ 
+ 
+ 
+Under a tension F, the length of the steel and copper wires are 
+ 
+ 
+ 
+′
+Ls = Ls 1+ F
+YA
+⎡
+⎣⎢
+⎤
+⎦⎥
+s
+and     ′
+Lc = Lc 1+ F
+YA
+⎡
+⎣⎢
+⎤
+⎦⎥
+c
+       
+ 
+ 
+where ′
+Ls + ′
+Lc = 4.000 m 
+ 
+ 
+Since the tension F must be the same in each wire, we solve for F: 
+ 
+ 
+ 
+F =
+′
+Ls + ′
+Lc
+(
+) −Ls + Lc
+(
+)
+Ls YsAs + Lc YcAc
+
+--- PAGE 33 ---
+Chapter 19     1029 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+When the wires are stretched, their areas become 
+ 
+ 
+ 
+As = π 1.000 × 10−3 m
+(
+)
+2 1+ 11.0 × 10−6 °C–1
+(
+) −20.0
+(
+)
+⎡⎣
+⎤⎦
+2
+= 3.140 × 10−6 m2
+Ac = π 1.000 × 10−3 m
+(
+)
+2 1+ 17.0 × 10−6 °C–1
+(
+) −20.0
+(
+)
+⎡⎣
+⎤⎦
+2
+= 3.139 × 10−6 m2
+ 
+ 
+ 
+Recall Ys = 20.0 × 1010 Pa and Yc = 11.0 × 1010 Pa. Substituting into 
+the equation for F, we obtain 
+F = 4.000 m −1.999 56 m + 1.999 32 m
+(
+)
+⎡⎣
+⎤⎦
+            ×
+1
+1.999 56 m
+20.0 × 1010 Pa
+(
+) 3.140 × 10−6
+(
+) m2 +
+1.999 32 m
+11.0 × 1010 Pa
+(
+) 3.139 × 10−6
+(
+) m2
+F = 125 N
+ 
+ 
+(b) To find the x coordinate of the junction, 
+ 
+ 
+ 
+′
+Ls = 1.999 56 m
+(
+) 1+
+125 N
+20.0 × 1010 N m2
+(
+) 3.140 × 10−6 m2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1.999958 m
+ 
+ 
+ 
+Thus the x coordinate is −2.000 + 1.999958 = −4.20 × 10−5 m 
+P19.73 
+(a) 
+We find the linear density from the volume density as the mass-
+per-volume multiplied by the volume-per-length, which is the 
+cross-sectional area. 
+ 
+ 
+ 
+µ = 1
+4 ρ πd2
+(
+) = 1
+4π(1.00 × 10−3m)2 7.86 × 103 kg/m3
+(
+)
+= 6.17 × 10−3 kg/m
+ 
+ 
+(b) Since f1 = v
+2L and v =
+T
+µ , then f1 = 1
+2L
+T
+µ , and we have for the 
+tension 
+ 
+ 
+ 
+F = T = µ 2Lf1
+(
+)
+2 = 6.17 × 10−3 kg/m
+(
+) 2 0.800 m
+(
+) 200 s−1
+(
+)
+⎡⎣
+⎤⎦
+2
+= 632 N
+   
+ 
+(c) 
+At 0°C, the length of the guitar string will be 
+ 
+ 
+ 
+Lactual = L0C 1 +
+F
+AY
+(
+) = 0.800 m
+
+--- PAGE 34 ---
+1030     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Where L0°C is the unstressed length at the low temperature. We 
+know the string’s cross-sectional area 
+ 
+ 
+ 
+A = π
+4( )(1.00 × 10−3 m)2 = 7.85 × 10−7 m2 
+ 
+ 
+and modulus  
+Y = 20.0 × 10
+10 N/m
+2 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+F
+AY =
+632 N
+7.85 × 10–7 m2
+(
+) 20.0 × 1010 N m2
+(
+)
+= 4.02 × 10−3 
+ 
+ 
+and L0C =
+0.800 m
+1 + 4.02 × 10–3 = 0.796 8 m 
+ 
+ 
+Then at 30°C, the unstressed length is 
+ 
+ 
+ 
+L30°C = (0.796 8 m) 1+(30.0°C) 11.0 × 10−6 °C−1
+(
+)
+⎡⎣
+⎤⎦
+= 0.797 1 m
+ 
+ 
+ 
+With the same clamping arrangement,  
+ 
+ 
+ 
+0.800 m = 0.797 1 m
+(
+) 1+
+′
+F
+′
+A Y
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+where ′
+F and 
+′
+A are the new tension and the new (expanded) 
+cross-sectional area. Then 
+ 
+ 
+ 
+ 
+′
+F
+′
+A Y = 0.800 0
+0.797 1 – 1 = 3.693 × 10–3   
+ 
+  
+and    
+ 
+ 
+ 
+ 
+′
+F =
+′
+A Y(3.693 × 10−3)  
+ 
+ 
+ 
+′
+F = (7.85 × 10
+–7 m
+2)(20.0 × 10
+10 N/m
+2)(3.693 × 10
+–3)(1+ αΔT)2 
+ 
+ 
+ 
+′
+F = (580 N)(1 + 3.30 × 10
+−4)
+2 = 580 N 
+ 
+(d) Also the new frequency 
+′f1 is given by 
+′f1
+f1
+=
+′
+F
+F , 
+ 
+ 
+so  
+′f1 = (200 Hz) 580 N
+632 N = 192 Hz 
+P19.74 
+(a) 
+P0V
+T
+=
+′
+P
+′
+V
+′
+T
+ because the amount of gas remains constant. 
+ 
+ 
+The volume increases by Ah when the piston rises:  
+ 
+ 
+ 
+′
+V = V + Ah
+
+--- PAGE 35 ---
+Chapter 19     1031 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+When the piston compresses the piston by h, so the spring force 
+increases by F = kx = kh, increasing the external pressure on the 
+piston by kh/A: 
+ 
+ 
+ 
+′
+V = V + Ah 
+ 
+ANS. FIG. P19.74 
+ 
+ 
+Using the particle in equilibrium model applied to the piston,  
+ 
+ 
+ 
+P0 + kh
+A
+⎛
+⎝⎜
+⎞
+⎠⎟V + Ah
+(
+) = P0V
+′
+T
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+1.013 × 105 N m2 + 2.00 × 105 N m3 h
+(
+)
+× 5.00 × 10−3 m3 + 0.010 0 m2
+(
+)h
+(
+)
+= 1.013 × 105 N m2
+(
+) 5.00 × 10−3 m3
+(
+) 523 K
+293 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 000h2 + 2 013h −397 = 0
+ 
+ 
+ 
+Taking the positive root, h = −2 013 + 2 689
+4 000
+= 0.169 m 
+ 
+(b) 
+′
+P = P + kh
+A = 1.013 × 105 Pa +
+2.00 × 103 N m
+(
+) 0.169 m
+(
+)
+0.010 0 m2
+ 
+ 
+ 
+′
+P = 1.35 × 105 Pa 
+P19.75 
+Each half of the spherical container is a particle in equilibrium. 
+Therefore, using the result of Problem 14.58, 
+ 
+ 
+ 
+F
+∑ = 0   →   Ffrom gas = Fholding hemispheres together
+→   P πr2
+(
+) =  F
+A A = σ 2πrt
+(
+)   →   t =  Pr
+2σ  
+ 
+ 
+where σ is the yield strength of the steel. Find the mass of the steel 
+sphere: 
+ 
+ 
+ 
+mSt  = ρStV = ρSt 4πr2t
+(
+) = ρSt 4πr2
+Pr
+2σ
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ = 2πρSt
+Pr3
+σ
+
+--- PAGE 36 ---
+1032     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Find the pressure of the helium in the tank: 
+ 
+ 
+ 
+PV = nRT    →    P = nRT
+V  =  mHe
+MHe
+RT
+4
+3πr3
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+ 
+ 
+Substitute into the previous equation: 
+ 
+ 
+ 
+mSt  = 2πρSt
+r3
+σ   mHe
+MHe
+RT
+4
+3πr3
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+ = 3
+2
+ρSt
+σ
+mHe
+MHe
+RT
+ 
+ 
+Find the buoyant force on the balloon: 
+ 
+ 
+ 
+B = ρairgVballoon  = ρairg PV
+P0
+ = ρairg nRT
+P0
+ = ρairg mHe
+MHe
+RT
+P0
+ 
+ 
+where we use the pressure of helium in the balloon P = P0 = 
+atmospheric pressure. 
+ 
+Find the net force on the balloon and tank: 
+ 
+ 
+ 
+F
+∑ = B − mHeg − mStg 
+= ρairg mHe
+MHe
+RT
+P0
+ − mHeg − 3
+2
+ρSt
+σ
+mHeg
+MHe
+RT
+        = mHeg ρair
+RT
+P0MHe
+− 1 − 3
+2
+ρSt
+σ
+RT
+MHe
+⎛
+⎝⎜
+⎞
+⎠⎟
+        = mHeg
+RT
+MHe
+ρair
+P0
+−3
+2
+ρSt
+σ
+⎛
+⎝⎜
+⎞
+⎠⎟ − 1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+Evaluate the brackets: 
+ 
+ 
+ 
+RT
+MHe
+ρair
+P0
+ − 3
+2
+ρSt
+σ
+⎛
+⎝⎜
+⎞
+⎠⎟ − 1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+         = 
+8.314 J/mol⋅K
+(
+) 293 K
+(
+)
+4  ×  10–3 kg/mol
+⎡
+⎣⎢
+⎧
+⎨⎪
+⎩⎪
+                      
+1.20 kg/m3
+1.013 × 105 Pa − 3
+2
+7 860 kg/m3
+5 × 108 N/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎤
+⎦
+⎥−1
+⎫
+⎬⎪
+⎭⎪
+         =
+6.09 × 105 m2/s2
+(
+)
+⎡⎣{
+              × 1.184 6 × 10−5 s2/m2 − 2.358 × 10−5 s2/m2
+(
+)⎤⎦−1}
+         = −8.146
+
+--- PAGE 37 ---
+Chapter 19     1033 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Because the net force is negative, the balloon cannot lift the tank. If we 
+can vary the strength of the steel, let’s find out how strong the steel 
+must be by evaluating σ to make the net force positive. We want the 
+following to be true: 
+ 
+ 
+ 
+RT
+MHe
+ρair
+P0
+ − 3
+2
+ρSt
+σ
+⎛
+⎝⎜
+⎞
+⎠⎟ − 1 > 0
+ 
+ 
+Manipulating this inequality gives, 
+ 
+ 
+RT
+MHe
+ρair
+P0
+ − 3
+2
+ρSt
+σ
+⎛
+⎝⎜
+⎞
+⎠⎟ > 1
+    →    ρair
+P0
+ − 3
+2
+ρSt
+σ  >  MHe
+RT     →    − 3
+2
+ρSt
+σ  >  MHe
+RT  −  ρair
+P0
+    →     3
+2
+ρSt
+σ  < −MHe
+RT  +  ρair
+P0
+ = −MHeP0 + ρairRT
+P0RT
+ 
+    →     2
+3
+σ
+ρSt
+ > 
+P0RT
+−MHeP0 + ρairRT
+    →    σ  > 3
+2
+ρStP0RT
+−MHeP0 + ρairRT   
+ 
+= 3
+2
+7 860 kg/m3
+(
+) 1.013 × 105 Pa
+(
+) 8.314 J/mol⋅K
+(
+) 293 K
+(
+)
+– 4  ×  10–3 kg/mol
+(
+) 1.013 × 105 Pa
+(
+) +  1.20 kg/m3
+(
+) 8.314 J/mol⋅K
+(
+) 293 K
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+σ = 11.6 × 108 N/m2 = 2.3σ actual  
+No, the steel would need to be 2.3 times stronger.
+ 
+P19.76 
+With piston alone, T = constant, so PV = P0V0 or P Ahi
+(
+) = P0 Ah0
+(
+). 
+ 
+With A = constant, P = P0
+h0
+hi
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+But, P = P0 +
+mpg
+A , 
+ 
+where mp is the mass of the piston. 
+ 
+Thus P0 +
+mpg
+A = P0
+h0
+hi
+⎛
+⎝⎜
+⎞
+⎠⎟, which reduces to hi =
+h0
+1+ mpg / P0A.
+
+--- PAGE 38 ---
+1034     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+With the dog of mass M on the piston, a very similar calculation 
+(replacing mp by mp + M) gives 
+ 
+ 
+′h =
+h0
+1+ mp + M
+(
+)g / P0A
+ 
+ 
+Thus, when the dog steps on the piston, it moves downward by 
+ 
+ 
+Δh = hi −′h
+=
+50.0 cm
+1+ 20.0 kg
+(
+) 9.80 m s2
+(
+)
+1.013 × 105 Pa
+(
+)π 0.400 m
+(
+)
+2
+⎡⎣
+⎤⎦
+        −
+50.0 cm
+1+ 45.0 kg
+(
+) 9.80 m s2
+(
+)
+1.013 × 105 Pa
+(
+)π 0.400 m
+(
+)
+2
+⎡⎣
+⎤⎦
+Δh = 2.38 mm
+ 
+ 
+(b) P = const, so V
+T =
+′
+V
+Ti
+     or     Ahi
+T
+= A ′h
+Ti
+, 
+ 
+ 
+giving 
+ 
+ 
+T = Ti
+hi
+′h
+⎛
+⎝⎜
+⎞
+⎠⎟= Ti
+1+ mp + M
+(
+)g / P0A
+1+ mpg / P0A
+= 293 K 
+1+ 45.0 kg
+(
+) 9.80 m s2
+(
+)
+1.013 × 105 Pa
+(
+)π 0.400 m
+(
+)
+2
+⎡⎣
+⎤⎦
+1+ 20.0 kg
+(
+) 9.80 m s2
+(
+)
+1.013 × 105 Pa
+(
+)π 0.400 m
+(
+)
+2
+⎡⎣
+⎤⎦
+T = 294.4 K = 21.4 oC
+ 
+P19.77 
+(a) 
+dL
+L = αdT:      α dT
+Ti
+Ti
+∫
+=
+dL
+L
+Li
+Li
+∫
+⇒ln Lf
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟= αΔT ⇒Lf = LieαΔT
+ 
+ 
+(b) 
+Lf = 1.00 m
+(
+)e
+2.00×10−5 °C−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦= 1.002 002 m 
+ 
+ 
+′
+Lf = 1.00 m 1+ 2.00 × 10−5 °C−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦= 1.002 000 :
+ 
+ 
+ 
+Lf −′
+Lf
+Lf
+= 2.00 × 10−6 = 2.00 × 10−4%
+ 
+ 
+(c) 
+Lf = 1.00 m
+(
+)e
+2.00×10−2 °C−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦= 7.389 m 
+ 
+ 
+′
+Lf = 1.00 m 1+ 0.020 0°C−1
+(
+) 100°C
+(
+)
+⎡⎣
+⎤⎦= 3.000 m
+
+--- PAGE 39 ---
+Chapter 19     1035 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Lf −′
+Lf
+Lf
+= 59.4%
+ 
+ 
+(d) P19.21 redone:  
+ 
+ 
+We start with  
+ 
+ 
+ 
+dV = βVdT     →     dV
+V = βdT     →     Vf = VieβΔT 
+ 
+ 
+where we assume β (and α) remains constant over the 
+temperature range ΔT. 
+ 
+ 
+Thus, for the turpentine,  
+ 
+ 
+ 
+ Vt, final = VteβtΔT 
+ 
+ 
+and for the aluminum cylinder, VAl, final = VAle3αAlΔT , where we 
+assume α remains constant over the temperature range ΔT. 
+ 
+ 
+new (a):  
+ 
+ 
+ 
+ΔV = VteβtΔT −VAle3αAlΔT
+ΔV = Vi eβtΔT −e3αAlΔT
+(
+)
+= 2 000 cm3
+(
+) e
+9.00×10−4 C−1
+(
+) 60.0°C
+(
+) −e
+3 24.0×10−6°C−1
+(
+) 60.0°C
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+ 
+ΔV = 102 mL of turpentine spills, 
+ 
+ 
+new (b):  
+ 
+ 
+The volume of the turpentine remaining in the cylinder at 80.0°C 
+is the same as the volume of the aluminum cylinder at 80.0°C: 
+ 
+ 
+ 
+Vt,remaining = VAl, final = VAle3αAlΔT
+= 2 000 cm3
+(
+)e
+3 24.0×10−6 °C
+(
+)−1
+(
+) 60.0°C
+(
+)
+= 2 009 cm3
+  
+ 
+ 
+2.01 L remains in the cylinder at 80.0 °C 
+ 
+ 
+new (c):  
+ 
+ 
+The volume of turpentine at 80.0°C we found in part new (b), 
+Vt, remaining = VAle3αAlΔT , shrinks when the temperature changes by  
+–ΔT: 
+ 
+ 
+ 
+Vt, final = Vt, remaininge−βtΔT = VAle3αAlΔTe−βtΔT = VAle
+3αAl−βt
+(
+)ΔT
+
+--- PAGE 40 ---
+1036     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Vt, final = VAle3αAlΔTe−βtΔT = VAle
+3αAl−βt
+(
+)ΔT
+= 2 000 cm3
+(
+)e
+3 24.0×10−6°C−1
+(
+)−9.00×10−4 C−1
+(
+)
+⎡⎣
+⎤⎦60.0°C
+(
+)
+Vt, final 1 903 cm3
+ 
+ 
+ 
+Find the percentage of the cylinder that is empty at 20.0°C: 
+ 
+ 
+ 
+VAl −VAle
+3αAl −βt
+(
+)ΔT
+VAle
+= 1−e
+3αAl −βt
+(
+)ΔT
+ 
+ 
+ 
+Find the empty height of the cylinder above the turpentine: 
+ 
+ 
+ 
+1−e
+3αAl −βt
+(
+)ΔT
+(
+) 20.0 cm
+(
+) = 0.969 cm 
+ 
+ 
+and the turpentine level at 20.0°C is 0.969 cm below the 
+cylinder’s rim.
+ 
+P19.78 
+(a) 
+Let xL represent the distance of the stationary line below the top 
+edge of the plate. The normal force on the lower part of the plate 
+is mg 1−x
+(
+)cosθ and the force of kinetic friction on it is 
+µkmg 1−x
+(
+)cosθ up the roof. Again, µkmgxcosθ acts down the 
+roof on the upper part of the plate. The near-equilibrium of the 
+plate requires 
+Fx = 0
+∑
+. 
+ 
+ 
+ 
+−µkmgxcosθ + µkmg 1−x
+(
+)cosθ −mgsinθ = 0
+−2µkmgxcosθ = mgsinθ −µkmgcosθ
+2µkx = µk −tanθ
+x = 1
+2 −tanθ
+2µk
+ 
+ 
+ANS. FIG. P19.78(a) 
+ 
+ 
+and the stationary line is indeed below the top edge by  
+ 
+ 
+ 
+xL = L
+2 1−tanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 41 ---
+Chapter 19     1037 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+With the temperature falling, the plate contracts faster than the 
+roof. The upper part slides down and feels an upward frictional 
+force µkmg 1−x
+(
+)cosθ. The lower part slides up and feels 
+downward frictional force µkmgxcosθ. The equation 
+Fx = 0
+∑
+ is 
+then the same as in part (a) and the stationary line is above the 
+bottom edge by xL = L
+2 1−tanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+ANS. FIG. P19.78(b) 
+ 
+(c) 
+Start thinking about the plate at dawn, as the temperature starts 
+to rise. As in part (a), a line at distance xL below the top edge of 
+the plate stays stationary relative to the roof as long as the 
+temperature rises. The point P on the plate at distance xL above 
+the bottom edge is destined to become the fixed point when the 
+temperature starts falling. As the temperature rises, point P on 
+the plate slides down the roof relative to the upper fixed line from 
+(L – xL – xL) to L −xL −xL
+(
+) 1+ α2ΔT
+(
+) , a change of 
+ΔLplate = L −xL −xL
+(
+)α 2ΔT. The point on the roof originally under 
+point P at the beginning of the expansion moves down not quite 
+as much from (L – xL – xL) to L −xL −xL
+(
+) 1+ α1ΔT
+(
+) relative to 
+the upper fixed line; a change of ΔLroof = L 1−x −x
+(
+)α1ΔT. When 
+the temperature drops, point P remains stationary on the roof 
+while the roof contracts, pulling point P back by approximately 
+ΔLroof . Therefore, relative to the upper fixed line, point P has 
+moved down the roof ΔLplate −ΔLroof. Its displacement for the day 
+is 
+ 
+ 
+ 
+ΔL = ΔLplate −ΔLroof = α2 −α1
+(
+) L −xL −xL
+(
+)ΔT
+= α2 −α1
+(
+) L −2 L
+2 1−tanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥Th −Tc
+(
+)
+= α2 −α1
+(
+) Ltanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟Th −Tc
+(
+)
+
+--- PAGE 42 ---
+1038     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P19.78(c) 
+ 
+ 
+At dawn the next day the point P is farther down the roof by the 
+distance ΔL. It represents the displacement of every other point 
+on the plate. 
+ 
+(d) 
+α 2 −α1
+(
+) Ltanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟Th −Tc
+(
+)
+           = 24 × 10−6 °C−1 − 15 × 10−6 °C−1
+(
+)
+                                      × (1.20 m)tan18.5°
+0.42
+⎡
+⎣⎢
+⎤
+⎦⎥32.0°C
+(
+)
+           = 0.275 mm
+ 
+ 
+(e) 
+If α2 < α1 , the forces of friction reverse direction relative to parts 
+(a) and (b) because the roof expands more than the plate as the 
+temperature rises and less as the temperature falls. The diagram 
+in part (a) then applies to temperature falling and the diagram in 
+part (b) applies to temperature rising. A point on the plate xL 
+from the top of the plate (which becomes the upper fixed line 
+later when the plate contracts) moves upward from the lower 
+fixed line by ΔLplate , and when the temperature drops, the upper 
+fixed line of the plate is carried down the roof by ΔLroof, so the net 
+change in the plate’s position is ΔLroof −ΔLplate, same as before (up 
+to a sign because now ΔLroof > ΔLplate ).  
+ 
+ 
+The plate creeps down the roof each day by an amount given by
+the same expression (with α2 and α1 interchanged).
+ 
+P19.79 
+See ANS. FIG. P19.79. Let 2θ represent the angle the curved rail 
+subtends. We have 
+ 
+ 
+ 
+Li + ΔL = 2θR = Li 1+ αΔT
+(
+) 
+ 
+and   
+sinθ = Li 2
+R
+= Li
+2R . 
+ 
+Thus,  
+θ = Li
+2R 1+αΔT
+(
+) = 1+αΔT
+(
+)sinθ
+
+--- PAGE 43 ---
+Chapter 19     1039 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+From Table 19.1, α = 11× 10−6
+oC
+(
+)
+−1 , and ΔT = 25.0°C – 20.0°C = 
+5.00°C. We must solve the transcendental equation  
+ 
+ 
+ 
+θ = 1+ αΔT
+(
+)sinθ = 1.000 005 5
+(
+)sinθ 
+ 
+If your calculator is designed to solve such an equation, it may find the 
+zero solution. Homing in on the nonzero solution gives, to five digits, 
+θ = 0.018 165 rad = 1.040 8°. 
+ 
+Now,  
+h = R −Rcosθ = Li 1−cosθ
+(
+)
+2sinθ
+ 
+ 
+This yields h = 4.54 m , a remarkably large value compared to 
+ΔL = 5.50 cm. 
+ 
+ANS. FIG. P19.79
+
+--- PAGE 44 ---
+1040     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P19.2 
+(a) 31.7° C; (b) 31.7 K 
+P19.4 
+(a) −253° C; (b) −423° F 
+P19.6 
+(a) 56.7°C and –62.1°C; (b) 330 K and 211 K 
+P19.8 
+1.20 cm 
+P19.10 
+Δr = 0.663 mm to the right at 78.2° below the horizontal 
+P19.12 
+55.0°C 
+P19.14 
+1.58 × 10
+–3 cm  
+P19.16 
+0.548 gal 
+P19.18 
+Required T = −376° C is below absolute zero. 
+P19.20 
+(a) 2.52 × 10
+6 N/m
+2; (b) the concrete will not fracture  
+P19.22 
+(a) 396 N; (b) −101° C; (c) The original length divides out, so the 
+answers would not change 
+P19.24 
+(a) 
+ρ0
+1+ βΔT ; (b) m 
+P19.26 
+1.20 mol 
+P19.28 
+In each pump-up-and-discharge cycle, the volume of air in the tank 
+doubles. Thus 1.00 L of water is driven out by the air injected at the 
+first pumping, 2.00 L by the second, and only the remaining 1.00 L by 
+the third. Each person could more efficiently use his device by starting 
+with the tank half full of water, instead of 80% full. 
+P19.30 
+(a) 1.17 × 10
+−3 kg; (b) 11.5 mN; (c) 1.01 kN; (d) molecules must be 
+moving very fast 
+P19.32 
+4.39 kg 
+P19.34 
+6.64 × 10
+–27 kg 
+P19.36 
+2.42 × 10
+11 molecules 
+P19.38 
+7.13 m 
+P19.40 
+m1 −m2 = P0VM
+R
+1
+T1
+−1
+T2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P19.42 
+~10
+2 kg 
+P19.44 
+m f = mi
+Pgf + P0
+Pgi + P0
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 45 ---
+Chapter 19     1041 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.46 
+35.016 m 
+P19.48 
+2.86 atm 
+P19.50 
+95.0°; T falls below 100°C, so steam condenses, and the expensive 
+apparatus falls (assuming that the boiling point does not change 
+significantly with the change in pressure). 
+P19.52 
+Δh = β −3α
+(
+)VΔT
+A
+ 
+P19.54 
+(a) θ = 2sin−1 1+ αAlTC
+2
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) Yes; (c) Yes,  
+(d) θ = 2sin−1
+1+ αAlTC
+2 1+ αinvarTC
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟; (e) 61.0°; (f) 59.6° 
+P19.56 
+0.523 kg 
+P19.58 
+(a) β = 1
+T
+; (b) 3.66 × 10
+−3 K
+−1; (c) βHe = 3.665 × 10−3 K−1, this agrees 
+within 0.06% of the tabulated value; (d) βHe = 3.67 × 10−3 K−1, this 
+agrees within 0.2% of the tabulated value 
+P19.60 
+θ = α2 −α1
+(
+)LiΔT
+Δr
+; (b) In the expression from part (a), θ is directly 
+proportional to ΔT and also to α2 −α1
+(
+). Therefore, θ is zero when 
+either of these quantities becomes zero; (c) the bimetallic strip bends 
+the other way 
+P19.62 
+See P19.62 for the full solution. 
+P19.64 
+(a) Particle in equilibrium model; (b) On the piston, 
+F = Fgas −Fg −Fair = 0
+∑
+:
+F = PA −mg −P0A = 0
+∑
+; (c) h =
+nRT
+mg + P0A 
+P19.66 
+(a) PM
+RT
+; (b) 1.33 kg/m
+3 
+P19.68 
+y ≈L αΔT/2 
+P19.70 
+(a) No torque acts on the disk so its angular momentum is constant. 
+Yes: it increases. As the disk cools, its radius, and hence, its moment of 
+inertia decrease. Conservation of angular momentum then requires 
+that its angular speed increase; (b) 25.7 rad/s 
+P19.72 
+(a) 125 N; (b) −4.20 × 10
+−5 m 
+P19.74 
+(a) 0.169 m; (b) 1.35 × 10
+5 Pa 
+P19.76 
+(a) 2.38 mm; (b) 294.4 K = 21.4° C
+
+--- PAGE 46 ---
+1042     Temperature 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P19.78 
+(a) 
+Fx = 0
+∑
+; (b) With the temperature falling, the plate contracts faster 
+than the roof. The upper part slides down and feels an upward 
+frictional force µkmg 1−x
+(
+)cosθ. The lower part slides up and feels 
+downward frictional force µkmgxcosθ. The equation 
+Fx = 0
+∑
+ is then 
+the same as in part (a), and the stationary line is above the bottom edge 
+by xL = L
+2 1−tanθ
+µk
+⎛
+⎝⎜
+⎞
+⎠⎟; (c) See P19.78(c) for the full explanation; (d) 
+0.275 mm; (e) The plate creeps down the roof each day by an amount 
+given by the same expression (with α2 and α1 interchanged).

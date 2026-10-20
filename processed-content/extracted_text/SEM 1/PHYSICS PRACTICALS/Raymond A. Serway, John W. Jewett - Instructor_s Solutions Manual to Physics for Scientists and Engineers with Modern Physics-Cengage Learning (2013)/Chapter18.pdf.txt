@@ -1,0 +1,6735 @@
+
+--- PAGE 1 ---
+934 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+18 
+Superposition and Standing Waves 
+ 
+CHAPTER OUTLINE 
+ 
+18.1 
+Analysis Model: Waves in Interference 
+18.2  
+Standing Waves 
+18.3  
+Analysis Model: Waves Under Boundary Conditions 
+18.4 
+Resonance 
+18.5 
+Standing Waves in Air Columns 
+18.6 
+Standing Waves in Rods and Membranes 
+18.7  
+Beats: Interference in Time 
+18.8 
+Nonsinusoidal Wave Patterns 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ18.1 
+The ranking is (d) > (a) = (c) > (b). In the starting situation, the waves 
+interfere constructively. When the sliding section is moved out by  
+0.1 m, the wave going through it has an extra path length of  
+0.2 m = λ/4, to show partial interference. When the slide has come out 
+0.2 m from the starting configuration, the extra path length is  
+0.4 m = λ
+ /2, for destructive interference. Another 0.1 m and we are at 
+r2 – r1 = 3λ
+ /4 for partial interference as before. At last, another equal 
+step of sliding and one wave travels one wavelength farther to 
+interfere constructively. 
+OQ18.2 
+The fundamental frequency is described by  
+ 
+ 
+ 
+f1 = v
+2L
+, where v =
+T
+µ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+(i) 
+Answer (e). If L is doubled, then the wavelength of the
+
+--- PAGE 2 ---
+Chapter 18     935 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+fundamental frequency is doubled, then f = v/λ will be reduced 
+by a factor of 1
+2
+. 
+ 
+(ii) Answer (d). If µ is doubled, then the speed is reduced by a 
+factor of 1
+2
+, so f = v/λ will be reduced by a factor of 1
+2
+. 
+ 
+(iii) Answer (b). If T is doubled, then the speed is increased by a 
+factor of 
+2 , so f = v/λ will increase by a factor of 
+2. 
+OQ18.3 
+Answer (c). The two waves must have slightly different amplitudes 
+at P because of their different distances, so they cannot cancel each 
+other exactly. 
+OQ18.4 
+(i) 
+Answer (e). If the end is fixed, there is inversion of the pulse 
+upon reflection. Thus, when they meet, they cancel and the 
+amplitude is zero.  
+ 
+(ii) Answer (c). If the end is free, there is no inversion on reflection. 
+When they meet, the amplitude is 2A = 2(0.1 m) = 0.2 m. 
+OQ18.5 
+Answer (a). At resonance, a tube closed at one end and open at the 
+other forms a standing wave pattern with a node at the closed end 
+and antinode at the open end. In the fundamental mode (or first 
+harmonic), the length of the tube closed at one end is a quarter 
+wavelength (L = λ1/4 or λ1 = 4L). Therefore, for the given tube,  
+λ1 = 4(0.580 m) = 2.32 m and the fundamental frequency is 
+ 
+ 
+ 
+f1 = v
+λ1
+= 343 m s
+2.32 m = 148 Hz 
+OQ18.6 
+Answer (e). The number of beats per second (the beat frequency) 
+equals the difference in the frequencies of the two tuning forks. Thus, 
+if the beat frequency is 5 Hz and one fork is known to have a 
+frequency of 245 Hz, the frequency of the second fork could be either 
+f2 = 245 Hz – 5 Hz = 240 Hz or f2 = 245 Hz + 5 Hz = 250 Hz. This 
+means that the best answer for the question is choice (e), since 
+choices (a) and (d) are both possibly correct. 
+OQ18.7 
+Answer (d). The tape will reduce the frequency of the fork, leaving 
+the string frequency unchanged. If the bit of tape is small, the fork 
+must have started with a frequency 4 Hz below that of the string, to 
+end up with a frequency 5 Hz below that of the string. The string 
+frequency is 262 + 4 = 266 Hz. 
+OQ18.8 
+Answer (c). The bow string is pulled away from equilibrium and 
+released, similar to the way that a guitar string is pulled and released
+
+--- PAGE 3 ---
+936     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+when it is plucked. Thus, standing waves will be excited in the bow 
+string. If the arrow leaves from the exact center of the string, then a 
+series of odd harmonics will be excited. Even harmonics will not be 
+excited because they have a node at the point where the string 
+exhibits its maximum displacement. 
+OQ18.9 
+Answer (d). The energy has not disappeared, but is still carried by 
+the wave pulses. Each element of the string still has kinetic energy. 
+This is similar to the motion of a simple pedulum. The pendulum 
+does not stop at its equilibrium position during oscillation—likewise 
+the elements of the string do not stop at the equilibrium position of 
+the string when these two waves superimpose. 
+OQ18.10 
+Answer (c). On a string fixed at both ends, a standing wave with 
+three nodes is the second harmonic: there is a node on each end and 
+one in the middle, so it has two antinodes because there is an 
+antinode between each pair of nodes. The number of antinodes is the 
+same as the harmonic number. Doubling the frequency gives the 
+fourth harmonic, therefore four antinodes.  
+OQ18.11 
+Answers (b) and (e). The strings have different linear densities and 
+are stretched to different tensions, so they carry string waves with 
+different speeds and vibrate with different fundamental frequencies. 
+They are all equally long, so the string waves have equal 
+fundamental wavelengths. They all radiate sound into air, where the 
+sound moves with the same speed for different sound wavelengths. 
+OQ18.12 
+Answer (d). The resultant amplitude is greater than either individual 
+amplitude, wherever the two waves are nearly enough in phase that 
+2Acos(φ/2) is greater than A. This condition is satisfied whenever the 
+absolute value of the phase difference φ between the two waves is 
+less than 120°. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ18.1 
+The resonant frequency depends on the length of the pipe. Thus, 
+changing the length of the pipe will cause different frequencies to be 
+emphasized in the resulting sound. 
+CQ18.2 
+No. The total energy of the pair of waves remains the same. Energy 
+missing from zones of destructive interference appears in zones of 
+constructive interference. 
+CQ18.3 
+What is needed is a tuning fork—or other pure-tone generator—of 
+the desired frequency. Strike the tuning fork and pluck the 
+corresponding string on the piano at the same time. If they are
+
+--- PAGE 4 ---
+Chapter 18     937 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+precisely in tune, you will hear a single pitch with no amplitude 
+modulation. If the two frequences are a bit off, you will hear beats. 
+As they vibrate, retune the piano string until the beat frequency goes 
+to zero. 
+CQ18.4 
+Damping, and nonlinear effects in the vibration, transform the 
+energy of vibration into internal energy. 
+CQ18.5 
+(a) 
+The tuning fork hits the paper repetitively to make a sound like 
+a buzzer, and the paper efficiently moves the surrounding air. 
+The tuning fork will vibrate audibly for a shorter time. 
+ 
+(b) Instead of just radiating sound very softly into the surrounding 
+air, the tuning fork makes the chalkboard vibrate. With its large 
+area this stiff sounding board radiates sound into the air with 
+higher power. So it drains away the fork’s energy of vibration 
+faster and the fork stops vibrating sooner. 
+ 
+(c) 
+The tuning fork in resonance makes the column of air vibrate, 
+especially at the antinode of displacement at the top of the tube. 
+Its area is larger than that of the fork tines, so it radiates louder 
+sound into the environment. The tuning fork will not vibrate for 
+so long. 
+ 
+(d) The cardboard acts to cut off the path of air flow from the front 
+to the back of a single tine. When a tine moves forward, the high 
+pressure air in front of the tine can simply move to fill in the 
+lower pressure area behind the tine. This “sloshing” of the air 
+back and forth does not contribute to sound radiation and 
+results in low intensity of sound actually leaving the tine. By 
+cutting off this “sloshing” path by bringing the cardboard near, 
+the tine becomes a more efficient radiator. This is the same 
+theory as that involved with placing loudspeakers on baffles. A 
+speaker enclosure for a loudspeaker is equivalent to an infinite 
+baffle because there is no path the high pressure air can find to 
+cancel the lower pressure air on the other side of the speaker. 
+CQ18.6 
+The loudness varies because of beats. The propellers are rotating at 
+slightly different frequencies. 
+CQ18.7 
+Walking makes the person’s hand vibrate a little. If the frequency of 
+this motion is equal to the natural frequency of coffee sloshing from 
+side to side in the cup, then a large-amplitude vibration of the coffee 
+will build up in resonance. To get off resonance and back to the 
+normal case of a small-amplitude disturbance producing a small-
+amplitude result, the person can walk faster, walk slower, or get a 
+larger or smaller cup. You do not need a cover on your cup.
+
+--- PAGE 5 ---
+938     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ18.8 
+Consider the level of fluid in the bottle to be adjusted so that the air 
+column above it resonates at the first harmonic. This is given by 
+f = v
+4L. This equation indicates that as the length L of the column 
+increases (fluid level decreases), the resonant frequency decreases. 
+CQ18.9 
+No. Waves with all waveforms interfere. Waves with other wave 
+shapes are also trains of disturbance that add together when waves 
+from different sources move through the same medium at the same 
+time. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 18.1 
+Analysis Model: Waves in Interference 
+P18.1 
+Suppose the waves are sinusoidal. The sum is 
+ 
+ 
+ 
+4.00 cm
+(
+)sin kx −ωt
+(
+)+ 4.00 cm
+(
+)sin kx −ωt + 90.0°
+(
+)
+                           = 2 4.00 cm
+(
+)sin kx −ωt + 45.0°
+(
+)cos45.0°
+  
+ 
+So the amplitude of the resultant wave is  
+ 
+ 
+ 
+8.00 cm
+(
+)cos45.0° = 5.66 cm 
+P18.2 
+ANS. FIG. P18.2 shows the sketches at each of the times. 
+ 
+ 
+ANS. FIG. P18.2 
+P18.3 
+The superposition of the waves is given by  
+ 
+ 
+ 
+y = y1 + y2 = 3.00cos 4.00x −1.60t
+(
+)+ 4.00sin 5.00x −2.00t
+(
+)
+
+--- PAGE 6 ---
+Chapter 18     939 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+evaluated at the given x values. 
+ 
+(a) 
+At x = 1.00, t = 1.00, the superposition of the two waves gives 
+ 
+ 
+ 
+y = 3.00cos 4.00 1.00
+(
+)−1.60 1.00
+(
+)
+[
+]
+                          + 4.00sin 5.00 1.00
+(
+)−2.00 1.00
+(
+)
+[
+]
+= 3.00cos 2.40 rad
+(
+)+ 4.00sin 3.00 rad
+(
+) = −1.65 cm
+ 
+ 
+(b) At x = 1.00, t = 0.500, the superposition of the two waves gives 
+ 
+ 
+ 
+ 
+y = 3.00cos 4.00 1.00
+(
+)−1.60 0.500
+(
+)
+[
+]
+                          + 4.00sin 5.00 1.00
+(
+)−2.00 0.500
+(
+)
+[
+]
+= 3.00cos 3.20 rad
+(
+)+ 4.00sin 4.00 rad
+(
+) = −6.02 cm
+ 
+ 
+(c) 
+At x = 0.500, t = 0, the superposition of the two waves gives 
+ 
+ 
+ 
+y = 3.00cos 4.00 1.00
+(
+)−1.60 0
+( )
+[
+]
+                          + 4.00sin 5.00 1.00
+(
+)−2.00 0
+( )
+[
+]
+= 3.00cos 2.00 rad
+(
+)+ 4.00sin 2.50 rad
+(
+) = +1.15 cm
+ 
+P18.4 
+(a) 
+The graph at time t = 0.00 seconds is shown in ANS. FIG. P18.4(a) 
+ 
+ANS. FIG. P18.4(a) 
+ 
+ 
+The pulse initially on the left will move to the right at 1.00 m/s, 
+and the one initially at the right will move toward the left at the 
+same rate, as follows: 
+ 
+ 
+ANS. FIG. P18.4(b) shows the pulses at time t = 2.00 seconds  
+ 
+ANS. FIG. P18.4(b)
+
+--- PAGE 7 ---
+940     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANS. FIG. P18.4(c) shows the waves at time t = 4.00 seconds, 
+immediately before they overlap. 
+ 
+ANS. FIG. P18.4(c) 
+ 
+ 
+ ANS. FIG. P18.4(d) shows the pulses at time t = 5.00 seconds, 
+while the two pulses are fully overlapped. The two pulses are 
+shown as dashed lines. 
+ 
+ANS. FIG. P18.4(d) 
+ 
+ 
+ANS. FIG. P18.4(e) shows the pulses at time At time t = 6.00 
+seconds, immediately after they completely pass. 
+ 
+ANS. FIG. P18.4(e)
+
+--- PAGE 8 ---
+Chapter 18     941 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If the pulse to the right is inverted, ANS. FIG. P18.4(f) shows the 
+pulses at time t = 0.00 seconds. 
+ 
+ANS. FIG. P18.4(f) 
+ 
+ 
+The pulse initially on the left will move to the right at 1.00 m/s, 
+and the one initially at the right will move toward the left at the 
+same rate, as follows: 
+ 
+ 
+ANS. FIG. P18.4(g) shows the two pulses at time t = 2.00 seconds 
+ 
+ANS. FIG. P18.4(g) 
+ 
+ 
+ ANS. FIG. P18.4(h) shows the two pulses at time t = 4.00 seconds, 
+immediately before they overlap. 
+ 
+ANS. FIG. P18.4(h)
+
+--- PAGE 9 ---
+942     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANS. FIG. P18.4(i) shows the two pulses at time t = 5.00 seconds, 
+while the two pulses are fully overlapped. The two pulses are 
+shown as dashed lines. 
+ 
+ANS. FIG. P18.4(i) 
+ 
+ 
+ANS. FIG. P18.4(j) shows the two pulses at time t = 6.00 seconds, 
+immediately after they completely pass. 
+ 
+ANS. FIG. P18.4(j) 
+*P18.5 
+Waves reflecting from the near end travel 28.0 m (14.0 m down and 
+14.0 m back), while waves reflecting from the far end travel 66.0 m. 
+The path difference for the two waves is: 
+ 
+ 
+ 
+Δr = 66.0 m −28.0 m = 38.0 m 
+ 
+Since λ = v
+f ,  
+ 
+Then 
+ 
+ 
+ 
+Δr
+λ = Δr
+(
+) f
+v
+= 38.0 m
+(
+) 246 Hz
+(
+)
+343 m/s
+= 27.254
+ 
+ 
+or  Δr = 27.254λ 
+ 
+The phase difference between the two reflected waves is then 
+ 
+ 
+ 
+φ = 0.254
+(
+) 1 cycle
+(
+) = 0.254
+(
+) 2π rad
+(
+) = 1.594 rad = 91.3°
+
+--- PAGE 10 ---
+Chapter 18     943 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.6 
+The wavelength of the sound emitted by the speaker is 
+ 
+ 
+ 
+λ = v
+f = 343 m s
+756 Hz 0.454 m 
+ 
+Raising the sliding section by Δh changes the path through that section 
+by 2Δh, because sound must travel up and down through the addition 
+distance. 
+ 
+(a) 
+If constructive interference currently exists, this can be changed to 
+destructive interference by increasing the path distance through 
+the sliding section by λ/2, which means raising it by 
+λ 4 = 0.113 m . 
+ 
+(b) To move from constructive interference to the next occurrence of 
+constructive interference, one should increase the path distance 
+through the sliding section by λ, which means raising it by 
+λ /2 = 0.227 m . 
+P18.7 
+(a) 
+At constant phase, φ = 3x – 4t will be constant. Then x = φ + 4t
+3
+ 
+will change: the wave moves. As t increases in this equation, x 
+increases, so the first wave moves to the right, in the 
++x direction . 
+ 
+ 
+In the same way, in the second case x = φ – 4t + 6
+3
+. As t 
+increases, x must decrease, so the second wave moves to the left, 
+in the −x direction .  
+ 
+(b) We require that y1 + y2 = 0. 
+ 
+ 
+ 
+5
+(3x – 4t)2 + 2
++
+– 5
+(3x + 4t – 6)2 + 2
+= 0 
+ 
+ 
+This can be written as 
+ 
+ 
+ 
+ (3x − 4t)
+2 = (3x + 4t − 6)
+2 
+ 
+ 
+Solving for the positive root, 8t = 6, or 
+ 
+ 
+ t = 0.750 s 
+ 
+ (c) The negative root yields 
+ 
+ 
+ 
+ (3x − 4t) = –(3x + 4t − 6)  
+ 
+ 
+The time terms cancel, leaving x = 1.00 m . At this point, the 
+waves always cancel.
+
+--- PAGE 11 ---
+944     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P18.10 
+P18.8 
+(a) 
+Δx =
+9.00 m2 + 4.00 m2 −3.00 m =
+13 m2 −3.00 m = 0.606 m 
+ 
+ 
+The wavelength is λ = v
+f = 343 m s
+300 Hz = 1.14 m. 
+ 
+ 
+Thus, Δx
+λ = 0.606
+1.14 = 0.530 of a waves, 
+ 
+ 
+or Δφ = 2π 0.530
+(
+) = 3.33 rad . 
+ 
+(b) For destructive interference, we want  
+ 
+ 
+ 
+Δx
+λ = 0.500 →λ =
+Δx
+0.500 = 2Δx 
+ 
+ 
+The frequency is f = v
+λ =
+v
+2Δx =
+343 m/s
+2 0.606 m
+(
+) = 283 Hz . 
+P18.9 
+The sum of two waves traveling in the same direction that have the 
+same amplitude A0, angular frequency ω, and wave number k but are 
+different in phase φ have the resultant wave function in the form 
+ 
+ 
+ 
+y = 2A0 cos
+φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟sin
+kx −ωt + φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+A = 2A0 cos
+φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2 5.00 m
+(
+) cos
+−π 4
+2
+⎡
+⎣⎢
+⎤
+⎦⎥= 9.24 m 
+ 
+(b) 
+f = ω
+2π = 1 200π rad/s
+2π
+= 600 Hz 
+P18.10 
+Consider the geometry of the situation  
+shown on the right. The path difference for  
+the sound waves at the location of the man is 
+ 
+ 
+ 
+Δr =  d2 + x2  − x 
+ 
+For a minimum, this path difference must 
+equal a half-integral number of wavelengths: 
+ 
+ 
+ 
+d2 + x2  − x =  n +  1
+2
+(
+)λ       
+                                    n = 0, 1, 2,...
+ 
+ 
+Solve for x: 
+ 
+ 
+ 
+x = 
+d2 − 
+n +  1
+2
+(
+)λ
+⎡⎣
+⎤⎦
+2
+2 n +  1
+2
+(
+)λ
+
+--- PAGE 12 ---
+Chapter 18     945 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In order for x to be positive, we must have 
+ 
+ 
+ 
+n +  1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+ < d2     →       n <  d
+λ  −  1
+2 = df
+v  −  1
+2
+ 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+n <  4.00 m
+(
+) 200 Hz
+(
+)
+343 m/s
+ −  1
+2 = 1.83 
+ 
+The only values of n that satisfy this requirement are n = 0 and n = 1. 
+ 
+Therefore,  
+ 
+ 
+ 
+the man walks through only two minima; 
+a third minimum is impossible
+ 
+*P18.11 
+At any time and place, the phase shift between the waves is found by 
+subtracting the phases of the two waves, Δφ = φ1 − φ2. 
+ 
+ 
+ 
+ 
+Δφ = (20.0 rad/cm)x − (32.0 rad/s)t  
+ 
+ 
+ 
+ 
+ 
+− [(25.0 rad/cm)x − (40.0 rad/s)t] 
+ 
+Collecting terms, 
+ 
+ 
+ 
+ 
+Δφ = −(5.00 rad/cm)x + (8.00 rad/s)t 
+ 
+ 
+(a) 
+At x = 5.00 cm and t = 2.00 s, the phase difference is 
+ 
+ 
+ 
+ 
+ 
+Δφ = (−5.00 rad/cm)(5.00 cm) + (8.00 rad/s)(2.00 s) 
+ 
+ 
+ 
+ 
+ Δφ = 9.00 radians = 516° = 156° 
+ 
+(b) The sine functions repeat whenever their arguments change by an 
+integer number of cycles, an integer multiple of 2π radians. Then 
+the phase shift equals ±π whenever Δφ = π + 2nπ, for all integer 
+values of n. Substituting this into the phase equation, we have 
+ 
+ 
+ 
+π + 2nπ = −(5.00 rad/cm)x + (8.00 rad/s)t 
+ 
+ 
+At t = 2.00 s, 
+ 
+ 
+ 
+ 
+π + 2nπ = −(5.00 rad/cm)x + (8.00 rad/s)(2.00 s) 
+ 
+ 
+  
+or 
+(5.00 rad/cm)x = (16.0 − π − 2nπ) rad 
+ 
+ 
+ 
+The smallest positive value of x is found when n = 2: 
+ 
+ 
+ 
+ 
+x = (16.0 – 5π) rad
+5.00 rad/cm
+= 0.058 4 cm
+ 
+*P18.12 
+2A0 cos φ
+2( ) = A0 so φ
+2 = cos−1
+1
+2( ) = 60.0° = π
+3
+
+--- PAGE 13 ---
+946     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus, the phase difference is 
+ 
+ 
+ 
+ 
+φ = 120° = 2π
+3
+ 
+ 
+This phase difference results if the time delay is 
+ 
+ 
+ 
+ 
+T
+3 = 1
+3 f = λ
+3v
+ 
+ 
+Time delay =
+3.00 m
+3 2.00 m/s
+(
+) = 0.500 s 
+P18.13 
+(a) 
+First we calculate the wavelength:   λ = v
+f = 344 m s
+21.5 Hz = 16.0 m  
+ 
+ 
+Then we note that the path difference equals  
+ 
+ 
+ 
+9.00 m −1.00 m = 1
+2 λ 
+ 
+ 
+Point A is one-half wavelength farther from one speaker 
+than from the other. The waves from the two sources 
+interfere destructively, so the receiver records a minimum 
+in sound intensity.
+ 
+ 
+(b) We choose the origin at the midpoint between the speakers. If the 
+receiver is located at point (x, y), then we must solve: 
+ 
+ 
+ 
+x + 5.00
+(
+)
+2 + y2 −
+x −5.00
+(
+)
+2 + y2 = 1
+2 λ 
+ 
+ 
+Then,  
+ 
+ 
+ 
+x + 5.00
+(
+)
+2 + y2 =
+x −5.00
+(
+)
+2 + y2 + 1
+2 λ 
+ 
+ 
+Square both sides and simplify to get  
+ 
+ 
+ 
+20.0x −λ2
+4 = λ
+x −5.00
+(
+)
+2 + y2 
+ 
+ 
+Upon squaring again, this reduces to  
+ 
+ 
+ 
+400x2 −10.0λ2x + λ 4
+16.0 = λ2 x −5.00
+(
+)
+2 + λ2y2 
+ 
+ 
+Substituting, λ = 16.0 m, and reducing,  
+ 
+ 
+ 
+9.00x2 −16.0y2 = 144
+
+--- PAGE 14 ---
+Chapter 18     947 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Note that the equation 9.00x2 – 16.0y2 = 144 represents two 
+hyperbolas: one passes through the x axis at x = +4.00 m; the 
+second, which is the mirror image of the first, passes through  
+x = –4.00 m to the left of the y axis. 
+ 
+(c) 
+Solve for y in terms of x: 
+ 
+ 
+ 
+9x2 −16y2 = 144 
+ 
+ 
+Then 
+ 
+ 
+ 
+y = ±
+9
+16 x2 −9 = ± 3
+4 x 1−16
+x2
+y = ± 3
+4 x 1−16
+x2
+ 
+ 
+ 
+For very large x, the square root term approaches 1: 
+ 
+ 
+ 
+y = ± 3
+4 x 1−16
+x2    →    y = ± 3
+4 x 
+ 
+ 
+To the right of the origin, for large x the hyperbola approaches the 
+shape of a straight line above and below the x axis. 
+ 
+ 
+Yes; the limiting form of the path is two straight lines through
+the origin with slope ±0.75.
+ 
+ 
+ 
+ 
+Section 18.2 
+Standing Waves 
+P18.14 
+(a) 
+From the resultant wave y = 2A sin
+kx + φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos ωt −φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟, 
+ 
+ 
+the shape of the wave form is determined by the term  
+ 
+ 
+sin
+kx + φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟.
+ 
+ 
+ 
+The nodes are located at kx + φ
+2 = nπ, or where x = nπ
+k −φ
+2k . 
+ 
+ 
+The separation of adjacent nodes is
+Δx =
+n+ 1
+(
+)π
+k −φ
+2k
+⎡
+⎣⎢
+⎤
+⎦⎥−nπ
+k −φ
+2k
+⎡
+⎣⎢
+⎤
+⎦⎥= π
+k = λ
+2   
+The nodes are still separated by half a wavelength.
+
+--- PAGE 15 ---
+948     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Yes. The nodes are located at kx + φ
+2 = nπ, so that x = nπ
+k −φ
+2k ,
+which means that each node is shifted φ
+2r to the left by the phase
+difference between the traveling waves in comparison to the case
+in which φ = 0.
+ 
+P18.15 
+y = 1.50 m
+(
+) sin 0.400x
+(
+) cos 200t
+(
+) = 2A0 sin kx cos ωt 
+ 
+Compare corresponding parts:  
+ 
+(a) 
+k = 2π
+λ = 0.400 rad m 
+ 
+ 
+ 
+λ =
+2π
+0.400 rad m = 15.7 m 
+ 
+(b) 
+ω = 2π f    so    f = ω
+2π = 200 rad s
+2π rad
+= 31.8 Hz 
+ 
+(c) 
+The speed of waves in the medium is  
+ 
+ 
+ 
+v = λ f = λ
+2π 2π kf = ω
+k = 
+200 rad s
+0.400 rad m = 500 m s 
+P18.16 
+From y = 2A0 sin kx cos ωt, we find 
+ 
+ 
+ 
+∂y
+∂x = 2A0k cos kx cos ωt
+ 
+∂y
+∂t = −2A0ω sin kx sin ωt
+ 
+ 
+ 
+ 
+∂2y
+∂x2 = −2A0k2 sin kx cos ωt
+ 
+ 
+ 
+ 
+∂2y
+∂t2 = −2A0ω 2 sin kx cos ωt
+ 
+ 
+Substitution into the wave equation gives  
+ 
+ 
+ 
+−2A0k2 sin kx cos ωt =
+1
+v2
+⎛
+⎝⎜
+⎞
+⎠⎟−2A0ω 2 sin kx cos ωt
+(
+)
+  
+ 
+This is satisfied, provided that v = ω
+k . But this is true, because  
+ 
+ 
+ 
+v = λ f = λ
+2π 2π f = ω
+k
+
+--- PAGE 16 ---
+Chapter 18     949 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.17 
+y1 = 3.00 sin π x + 0.600t
+(
+)
+[
+] ;   y2 = 3.00 sin π x −0.600t
+(
+)
+[
+] 
+ 
+y = y1 + y2 = 3.00 sin π x
+(
+) cos 0.600π t
+(
+) + 3.00 sin π x
+(
+) cos 0.600π t
+(
+)
+⎡⎣
+⎤⎦
+y = 6.00 cm
+(
+) sin π x
+(
+) cos 0.600π t
+(
+)
+ 
+ 
+We can take cos 0.600π t
+(
+) = 1 to get the maximum y. 
+ 
+(a) 
+At x = 0.250 cm, 
+ymax = 6.00 cm
+(
+) sin 0.250π
+(
+) = 4.24 cm 
+ 
+(b) At x = 0.500 cm, 
+ymax = 6.00 cm
+(
+) sin 0.500π
+(
+) = 6.00 cm 
+ 
+(c) 
+At x = 1.50 cm, 
+ymax = 6.00 cm
+(
+) sin 1.50π
+(
+) = 6.00 cm 
+ 
+(d) The antinodes occur where 
+ 
+ 
+ 
+sin πx
+(
+) = ±1  →  πx = nπ
+2 
+ 
+ 
+ 
+or where x = n
+2 , where n = 1, 3, 5, 7,...   and x is in centimeters. 
+ 
+ 
+ 
+n = 1:   x1 = 1
+2 = 0.500 cm    as in (b) 
+ 
+ 
+ 
+n = 3:   x2 = 3
+2 = 1.50 cm    as in (c) 
+ 
+ 
+ 
+n = 5:   x3 = 5
+2 = 2.50 cm 
+P18.18 
+(a) 
+ANS. FIG. P18.18 shows the graphs for t = 0, t = 5 ms, t =10 ms, 
+t = 15 ms, and t = 20 ms. The units of the x and y axes are 
+meters.
+
+--- PAGE 17 ---
+950     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ANS. FIG. P18.18 
+ 
+(b) 
+In any one picture, the wavelength is the smallest distance
+along the x axis that contains a nonrepeating shape. The
+wavelength is λ = 4 m.
+ 
+ 
+(c) 
+The frequency is the inverse of the period. The period is the 
+time the wave takes to go from a full amplitude starting 
+shape to the inversion of that shape and then back to the 
+original shape. The period is the time interval between the 
+top and bottom graphs: 20 ms. The frequency is 
+1/0.020 s = 50 Hz.
+ 
+ 
+(d) 
+4 m. By comparison with the wave function 
+y = (2A sin kx) cos ωt,
+we identify k = π/2, and then compute λ = 2π/k.
+
+--- PAGE 18 ---
+Chapter 18     951 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+50 Hz. By comparison with the wave function 
+y = (2A sin kx)cos ωt,
+we identify ω = 2π f = 100π.
+ 
+P18.19 
+The facing speakers produce a standing wave in the space between 
+them, with the spacing between nodes being 
+ 
+ 
+ 
+dNN = λ
+2 = v
+2 f = 343 m s
+2 800 s−1
+(
+)
+= 0.214 m 
+ 
+If the speakers vibrate in phase, the point halfway between them is an 
+antinode of pressure at a distance from either speaker of 
+ 
+ 
+ 
+1.25 m
+2
+= 0.625 m 
+ 
+Then there is a node one-quarter of a wavelength away at 
+ 
+ 
+ 
+0.625 −0.214
+2
+= 0.518 m 
+ 
+from either speaker, after which, there is a node every half-
+wavelength:  
+ 
+ 
+ 
+a node at 
+0.518 m −0.214 m = 0.303 m 
+ 
+ 
+ 
+a node at 
+0.303 m −0.214 m = 0.089 1 m 
+ 
+ 
+ 
+a node at 
+0.518 m + 0.214 m = 0.732 m 
+ 
+ 
+ 
+a node at 
+0.732 m + 0.214 m = 0.947 m 
+ 
+and  
+a node at 
+0.947 m + 0.214 m = 1.16 m from either 
+speaker. 
+ 
+ 
+ 
+Section 18.3 
+Analysis Model: Waves Under  
+Boundary Conditions 
+*P18.20 
+We are given L = 120 cm, f = 120 Hz. 
+ 
+(a) 
+For four segments, L = 2λ or λ = 60.0 cm = 0.600 m .  
+ 
+(b) 
+v = λ f = 72.0 m/s, f1 = v
+2L = 72.0 m/s
+2 1.20 m
+(
+) = 30.0 Hz
+
+--- PAGE 19 ---
+952     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P18.22(a) 
+P18.21 
+Using Lv for the vibrating portion of the string of total length L, 
+ 
+ 
+ 
+f  =  v
+2Lv
+ =  1
+2Lv
+T
+µ  =  1
+2Lv
+MgL
+m
+    = 
+1
+2 4.00 m
+(
+)
+4.00 kg
+(
+) 9.80 m/s2
+(
+) 5.00 m
+(
+)
+0.008 00 kg
+=  19.6 Hz
+ 
+P18.22 
+The frequency of vibration of a string is determined by the wave speed 
+and the wavelength of the standing wave on the string. The length of 
+the string and mode number n determines the size of the allowed 
+wavelengths:  
+ 
+ 
+ 
+λ = 2L/n 
+ 
+ 
+ 
+f = v
+λ =
+v
+2L n = n v
+2L 
+ 
+As long as the wave speed does not change, 
+ 
+ 
+ 
+f ∝n
+L
+ 
+ 
+and so we may compare frequencies of vibrations for different modes 
+and lengths of string: 
+ 
+ 
+ 
+f2
+f1
+= n2L1
+n1L2
+ 
+ 
+When the string is pressed down on the fret, the wave speed on the 
+string remains the same, but the length of the vibrating string is 
+smaller. When the string is plucked, it vibrates at the fundamental 
+frequency (n = 1) corresponding to the shorter length of the string. We 
+can compare frequencies and length of vibrating string thus: 
+ 
+ 
+ 
+f2
+f1
+= n2L1
+n1L2
+ 
+ 
+For the original length of string, L1 = L = 0.640 m, n1 = 1, and  
+f1 = 330 Hz.  
+ 
+(a) 
+When the string is stopped at the fret, 
+L2 = 2
+3 L1, and n1 = n2 = 1. 
+ 
+ 
+ 
+f2
+f1
+= n2L1
+n1L2
+=
+1( )L1
+1( ) 2
+3 L1
+⎛
+⎝
+⎞
+⎠
+= 3
+2
+f2 = 3
+2 f1 = 495 Hz
+
+--- PAGE 20 ---
+Chapter 18     953 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P18.22(b) 
+ 
+ANS. FIG. P18.23 
+ 
+(b) The light touch at a point one-third of  
+the way along the string forces the  
+point of contact to be a node while  
+still allowing the entire string to vibrate. 
+The whole string vibrates in three loops; 
+therefore, the string vibrates in its third 
+resonance possibility (n = 3): 
+ 
+ 
+ 
+f2
+f1
+= n2L1
+n1L2
+f2
+f1
+= 3( )L1
+1( )L1
+→f2 = 3 f1 = 990 Hz
+ 
+P18.23 
+When the string vibrates in the lowest  
+frequency mode, the length of string  
+forms a standing wave where L = λ/2,  
+so the fundamental harmonic  
+wavelength is 
+ 
+ 
+ 
+ 
+λ = 2L = 2 0.700 m
+(
+)
+= 1.40 m
+ 
+ 
+ 
+and the speed is 
+ 
+ 
+ 
+v = λ f = 220 s−1
+(
+) 1.40 m
+(
+)
+= 308 m/s
+ 
+ 
+ 
+(a) 
+From the tension equation  
+ 
+ 
+ 
+ 
+v =
+T
+µ =
+T
+m/L 
+ 
+ 
+we get T = v
+2m/L, 
+ 
+ 
+ 
+or 
+T = (308 m/s)2 1.20 × 10–3 kg
+(
+)
+0.700 m
+= 163 N 
+ 
+ 
+ 
+(b) For the third harmonic, the tension, linear density, and speed 
+are the same, but the string vibrates in three segments. Thus, 
+the wavelength is one third as long as in the fundamental. 
+ 
+ 
+ 
+ 
+λ3 = λ1/3 
+ 
+ 
+ 
+From the equation v = fλ, we find the frequency is three times as 
+high. 
+ 
+ 
+ 
+f3 = v
+λ3
+= 3 v
+λ1
+= 3f1 = 660 Hz
+
+--- PAGE 21 ---
+954     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.24 
+(a) 
+Because the string is taut and is fixed at both ends, any standing 
+waves will have nodes (which are multiples of λ/2 apart). The 
+wavelengths of all possible modes on the string are: 
+ 
+ 
+ 
+λn = 2L
+n ,  where n = 1, 2, 3,… 
+ 
+ 
+The fundamental (n = 1) wavelength must then have a 
+wavelength λ exactly twice the string length, or  
+ 
+ 
+ 
+λ1 = 2L
+1 = 2 2.60 m
+(
+) = 5.20 m 
+ 
+(b) 
+No. We do not know the speed of waves on the string. To obtain 
+the frequencies on the string, 
+ 
+ 
+ 
+fn = n v
+2L = 1
+2L
+T
+µ
+ 
+ 
+ 
+it is necessary to have either the wave velocity v or the tension T 
+and mass density µ of the string. We do not know these; therefore, 
+it is not possible to find the frequency of this mode on the string. 
+P18.25 
+Because the piano string is fixed at both end, it will have nodes at each 
+end, and also a node between the two antinodes. Thus, this standing 
+wave pattern represents one full wavelength.  
+ 
+(a) 
+Thus, this is second harmonic . 
+ 
+(b) And, because λn = 2L
+n , where n = 1, 2, 3,… 
+ 
+ 
+The wavelength is λ2 = 2L
+n = 2 74.0 cm
+(
+)
+2
+= 74.0 cm . 
+ 
+(c) 
+Because nodes are at both ends and in the middle, the number of 
+nodes is 3 . 
+P18.26 
+The wave speed is 
+ 
+ 
+ 
+ 
+v =
+T
+µ =
+20.0 N
+9.00 × 10−3 kg/m = 47.1 m/s
+ 
+ 
+ 
+For a vibrating string of length L fixed at both ends, there are nodes at 
+both ends. The wavelength of the fundamental is λ = 2dNN = 2L =  
+0.600 m, and the frequency is 
+ 
+ 
+ 
+ 
+f1 = v
+λ = v
+2L = 47.1 m/s
+0.600 m = 78.6 Hz
+
+--- PAGE 22 ---
+Chapter 18     955 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+After NAN, the next three vibration possibilities read NANAN, 
+NANANAN, and NANANANAN. Each has just one more node and 
+one more antinode than the one before. Respectively, these string 
+waves have wavelengths of one-half, one-third, and one-quarter of  
+60.0 cm. The harmonic frequencies are 
+ 
+ 
+ 
+f2 = 2 f1 = 157 Hz 
+ 
+ 
+ 
+f3 = 3 f1 = 236 Hz 
+ 
+ 
+ 
+f4 = 4 f1 = 314 Hz 
+P18.27 
+(a) 
+Let n be the number of nodes in the standing wave resulting from 
+the 25.0-kg mass. Then n + 1 is the number of nodes for the 
+standing wave resulting from the 16.0-kg mass. For standing 
+waves, λ = 2L
+n and the frequency is f = v
+λ
+. The frequency does 
+not change as the masses are changed. 
+ 
+ 
+Thus, 
+f = n
+2L
+Tn
+µ
+    and also    f = n + 1
+2L
+Tn+1
+µ . 
+ 
+ 
+Equating the expressions for f, we have  
+ 
+ 
+ 
+n + 1
+n
+=
+Tn
+Tn+1
+=
+25.0 kg
+(
+)g
+16.0 kg
+(
+)g = 5
+4
+ 
+ 
+ 
+Therefore, 4n + 4 = 5n, or n = 4. Using either expression for f, we 
+find  
+ 
+ 
+ 
+f =
+4
+2 2.00 m
+(
+)
+25.0 kg
+(
+) 9.80 m s2
+(
+)
+0.002 00 kg m
+= 350 Hz 
+ 
+(b) For tension Tn = mg, we write  
+ 
+ 
+ 
+f = n
+2L
+Tn
+µ = n
+2L
+mg
+µ    →   m =  4L2 f 2µ
+n2g
+ 
+ 
+ 
+We solve for m for n = 1: 
+ 
+ 
+ 
+m =  4 2.00 m
+(
+)
+2 350 Hz
+(
+)
+2 0.002 00 kg/m
+(
+)
+1( )
+2 9.80 m/s2
+(
+)
+= 400 kg 
+*P18.28 
+(a) 
+For a standing wave of 6 loops, 6 λ /2
+(
+) = L,  or  
+ 
+ 
+ 
+λ = L/3 = 2.00 m
+(
+)/3
+
+--- PAGE 23 ---
+956     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The speed of the waves in the string is then 
+ 
+ 
+ 
+v = λ f =
+2.00 m
+3
+⎛
+⎝⎜
+⎞
+⎠⎟150 Hz−1
+(
+) = 1.00 × 102 m/s
+ 
+ 
+ 
+Since the tension in the string is  
+ 
+ 
+ 
+F = mg = 5.00 kg
+(
+) 9.80 m/s2
+(
+) = 49.0 N  
+ 
+ 
+v =
+F
+µ gives 
+ 
+ 
+ 
+µ = F
+v2 =
+49.0 N
+1.00 × 102 m/s
+(
+)
+2 = 4.90 × 10−3 kg/m
+  
+ 
+(b) If m = 45.0 kg, then  
+ 
+ 
+ 
+F = mg = 45.0 kg
+(
+) 9.80 m/s2
+(
+) = 4.41× 102 N 
+ 
+ 
+and 
+ 
+ 
+ 
+v =
+4.41× 102 N
+4.90 × 10−3 kg/m = 3.00 × 102 m/s
+  
+ 
+ 
+Thus, the wavelength will be 
+ 
+ 
+ 
+λ = v
+f = 3.00 × 102 m/s
+150 Hz
+= 2.00 m
+  
+ 
+ 
+and the number of loops is  
+ 
+ 
+ 
+n =
+L
+λ /2 = 2.00 m
+1.00 m = 2
+  
+ 
+(c) 
+If m = 10.0 kg, the tension is  
+ 
+ 
+ 
+F = mg = 10.0 kg
+(
+) 9.80 m/s2
+(
+) = 98.0 N 
+ 
+ 
+and 
+ 
+ 
+ 
+v =
+98.0 N
+4.90 × 10−3 kg/m = 1.41× 102 m/s
+ 
+ 
+ 
+Then,  
+ 
+ 
+ 
+λ = v
+f = 1.41× 102 m/s
+150 Hz
+= 0.943 m
+ 
+ 
+ 
+and n =
+L
+λ /2 = 2.00 m
+0.471 m is not an integer, 
+ 
+ 
+so no standing wave will form .
+
+--- PAGE 24 ---
+Chapter 18     957 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.29 
+In the fundamental mode, the string above the rod has only two nodes, 
+at A and B, with an antinode halfway between A and B. Thus, 
+ 
+ 
+ 
+λ
+2 = AB =
+L
+cos θ   or   λ =
+2L
+cos θ 
+ 
+Since the fundamental frequency is f, the wave speed in this segment 
+of string is  
+ 
+ 
+ 
+v = λ f = 2Lf
+cos θ
+ 
+ 
+Because of the pulley, the string has tension T = Mg. 
+ 
+Also, 
+ 
+ 
+ 
+v =
+T
+µ =
+Mg
+m AB =
+MgL
+m cos θ
+ 
+ 
+Thus, 
+ 
+ 
+ 
+2Lf
+cos θ =
+MgL
+m cos θ    or    4L2 f 2
+cos2 θ =
+MgL
+m cos θ
+ 
+ 
+and the mass of string above the rod is: 
+ 
+ 
+ 
+m = Mg cos θ
+4 f 2L
+=
+1.00 kg
+(
+) 9.80 m/s2
+(
+) cos 35.0°
+4 60.0 Hz
+(
+)
+2 0.300 m
+(
+)
+= 1.86 g
+ 
+P18.30 
+In the fundamental mode, the string above the rod has only two nodes, 
+at A and B, with an anti-node halfway between A and B. Thus, 
+ 
+ 
+ 
+λ
+2 = AB =
+L
+cos θ    or    λ =
+2L
+cos θ 
+ 
+Since the fundamental frequency is f, the wave speed in this segment 
+of string is  
+ 
+ 
+ 
+v = λ f = 2Lf
+cos θ
+ 
+ 
+Because of the pulley, the string has tension T = Mg. 
+ 
+Also, 
+ 
+ 
+ 
+v =
+T
+µ =
+Mg
+m AB =
+MgL
+m cos θ 
+ 
+Thus, 
+ 
+ 
+ 
+2Lf
+cos θ =
+MgL
+m cos θ    or    4L2 f 2
+cos2 θ =
+MgL
+m cos θ
+
+--- PAGE 25 ---
+958     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the mass of string above the rod is:  
+ 
+ 
+ 
+m = Mg cos θ
+4 f 2L
+ 
+P18.31 
+When the open string vibrates in its fundamental mode it produces 
+concert G. When concert A is played, the shorter length of string 
+vibrates in its fundamental mode also. 
+ 
+(a) 
+λG = 2LG = v
+fG
+; λA = 2LA = v
+fA
+,    and    LA
+LG
+= fG
+fA
+ 
+ 
+ 
+LG −LA = LG −
+LA
+LG
+⎛
+⎝⎜
+⎞
+⎠⎟LG = LG −
+fG
+fA
+⎛
+⎝⎜
+⎞
+⎠⎟LG = LG 1−fG
+fA
+⎛
+⎝⎜
+⎞
+⎠⎟
+LG −LA = 0.350 m
+(
+) 1−392
+440
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.038 2 m
+ 
+ 
+ 
+Thus, LA = LG −0.038 2 m = 0.350 m −0.038 2 m = 0.312 m, 
+ 
+ 
+or the finger should be placed 31.2 cm from the bridge . 
+ 
+(b) If the position of the finger is correct within dL = 0.600 cm when 
+the note is played, by how much can the tension be off so that the 
+note is the same? We want to find the maximum allowable 
+percentage change in tension, dT/T, that will compensate for a 
+small percentage change in position, dL/L, so that the change in 
+the fundamental frequency, df, is zero. 
+ 
+ 
+From the expression for the fundamental frequency, 
+ 
+ 
+ 
+f = v
+2L = 1
+2L
+T
+µ ,    we require df = 0. 
+ 
+ 
+ 
+df = −dL
+2L2
+T
+µ + 1
+2L
+1
+2
+dT
+Tµ
+= 0   →   dL
+2L2
+T
+µ = 1
+4L
+dT
+Tµ
+→   dL
+L
+T
+µ = 1
+2
+T
+µ
+dT
+T   →   dT
+T = 2 dL
+L
+= 2 0.600 cm
+31.2 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+→
+3.85%
+
+--- PAGE 26 ---
+Chapter 18     959 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.32 
+Let m = ρV represent the mass of the copper cylinder. The original 
+tension in the wire is T1 = mg = ρVg. The water exerts a buoyant force 
+ρwater
+V
+2
+⎛
+⎝⎜
+⎞
+⎠⎟g on the cylinder, to reduce the tension to 
+ 
+ 
+ 
+T2 = ρVg −ρwater
+V
+2
+⎛
+⎝⎜
+⎞
+⎠⎟g = ρ −ρwater
+2
+⎛
+⎝⎜
+⎞
+⎠⎟Vg 
+ 
+The speed of a wave on the string changes from 
+T1
+µ
+   to   
+T2
+µ . The 
+frequency changes from 
+ 
+ 
+ 
+f1 = v1
+λ =
+T1
+µ
+1
+λ
+    to    f2 =
+T2
+µ
+1
+λ
+ 
+ 
+where we assume λ = 2L is constant. 
+ 
+Then  
+ 
+ 
+ 
+f2
+f1
+=
+T2
+T1
+=
+ρ −ρwater 2
+ρ
+=
+8.92 −1.00 2
+8.92
+ 
+ 
+and 
+ 
+ 
+ 
+f2 = 300 Hz
+(
+)
+8.42
+8.92 = 291 Hz
+ 
+P18.33 
+Comparing y = 0.002 00 sin πx
+(
+) cos 100πt
+(
+) with y = 2A sin kx cos ωt, 
+ 
+we find 
+k = 2π
+λ = π m−1
+→
+λ = 2.00 m, and  
+ 
+ 
+ 
+ω = 2π f = 100π s−1
+→
+f = 50.0 Hz 
+ 
+(a) 
+The distance between adjacent nodes is dNN = λ
+2 = 1.00 m, 
+ 
+ 
+and on the string there are L
+dNN
+= 3.00 m
+1.00 m = 3 loops . 
+ 
+(b) For the speed we have v = ω k = 100π s–1 π m–1 = 100 m/s. 
+ 
+ 
+In the simplest standing wave vibration, dNN = 3.00 m = λb
+2 , 
+λb = 6.00 m, and fb = va
+λb
+= 100 m s
+6.00 m = 16.7 Hz .
+
+--- PAGE 27 ---
+960     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+In v0 =
+T0
+µ , if the tension increases to Tc = 9T0 and the string 
+does not stretch, the speed increases to 
+ 
+ 
+ 
+vc =
+9T0
+µ
+= 3 T0
+µ = 3v0 = 3 100 m s
+(
+) = 300 m s 
+ 
+ 
+Then λc = vc
+fa
+= 300 m s
+50 Hz
+= 6.00 m,    dNN = λc
+2 = 3.00 m, 
+ 
+ 
+and one loop fits onto the string. 
+ 
+ 
+ 
+Section 18.4 
+Resonance 
+P18.34 
+The wave speed is v =
+gd =
+9.80 m s2
+(
+) 36.1 m
+(
+) = 18.8 m s. 
+ 
+The bay has one end open and one closed. Its simplest resonance is 
+with a node of horizontal velocity, which is also an antinode of vertical 
+displacement, at the head of the bay and an antinode of velocity, which 
+is a node of displacement, at the mouth. 
+ 
+Then, 
+dNA = 210 × 103 m = λ
+4 
+ 
+and  
+λ = 840 × 103 m. 
+ 
+Therefore, the period is  
+ 
+ 
+ 
+T = 1
+f = λ
+v = 840 × 103 m
+18.8 m s
+= 4.47 × 104 s = 12 h, 24 min
+ 
+ 
+The natural frequency of the water sloshing in the bay agrees precisely
+with that of lunar excitation, so we identify the extra-high tides as
+amplified by resonance.
+ 
+P18.35 
+(a) 
+The wave speed is v = 9.15 m
+2.50 s = 3.66 m/s . 
+ 
+(b) There are antinodes at both ends of the pond, so the distance 
+between adjacent antinodes is dAA = λ
+2 = 9.15 m and the 
+wavelength is λ = 18.3 m
+
+--- PAGE 28 ---
+Chapter 18     961 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The frequency is then f = v
+λ = 3.66 m/s
+18.3 m
+= 0.200 Hz . 
+ 
+ 
+We have assumed the wave speed on water is the same for all 
+wavelengths. 
+P18.36 
+The distance between adjacent nodes is one-quarter of the 
+circumference.  
+ 
+ 
+ 
+dNN = dAA = λ
+2 = 20.0 cm
+4
+= 5.00 cm 
+ 
+so   
+λ = 10.0 cm     
+ 
+and    
+f = v
+λ = 900 m/s
+0.100 m = 9 000 Hz = 9.00 kHz 
+ 
+The singer must match this frequency quite precisely for some interval 
+of time to feed enough energy into the glass to crack it. 
+ 
+ 
+ 
+Section 18.5 
+Standing Waves in Air Columns 
+*P18.37 
+Assuming an air temperature of T = 37.0°C = 310 K, the speed of sound 
+inside the pipe is 
+ 
+ 
+ 
+v = 331 m s + 0.600 m/s ⋅°C
+(
+) 37.0°C
+(
+) = 353 m/s 
+ 
+In the fundamental resonant mode, the wavelength of sound waves in 
+a pipe closed at one end is λ = 4L. Thus, for the whooping crane, 
+ 
+ 
+ 
+λ = 4 5.00 ft
+(
+) = 2.00 × 101 ft 
+ 
+ 
+and 
+ 
+ 
+ 
+f = v
+λ =
+353 m s
+(
+)
+2.00 × 101 ft
+(
+)
+3.281 ft
+1 m
+(
+) = 57.9 Hz
+ 
+18.38 
+At T = 37.0°C = 310 K, the speed of sound in air is 
+ 
+ 
+ 
+v = (331 m/s) 1+ TC
+273 = (331 m/s) 1+ 37.0
+273 = 353 m/s
+ 
+ 
+Thus, the wavelength of 3 000-Hz sound is 
+ 
+ 
+ 
+λ = v
+f = 353 m/s
+3 000 Hz = 0.118 m
+
+--- PAGE 29 ---
+962     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the fundamental resonant mode in a pipe closed at one end, the 
+length required is 
+ 
+ 
+ 
+L = λ
+4 = 0.118 m
+4
+= 0.029 4 m = 2.94 cm
+ 
+P18.39 
+(a) 
+For the fundamental mode in a closed 
+pipe, λ = 4L, as in the diagram. 
+ 
+ 
+But v = fλ, therefore L = v
+4 f . 
+ 
+ 
+so, 
+L = 343 m s
+4 240 s−1
+(
+)
+= 0.357 m 
+ 
+(b) For an open pipe, λ = 2L, as in the 
+diagram. 
+ 
+ 
+So, 
+L = v
+2f =
+343 m/s
+2 240 s−1
+(
+)
+= 0.715 m 
+P18.40 
+The 32.0-cm length corresponds to dAA = 0.320 m, which gives a 
+wavelength of 
+ 
+ 
+ 
+λ = 2dAA = 2 0.320 m
+(
+) = 0.640 m 
+ 
+(a) 
+The frequency of the lowest note is 
+ 
+ 
+ 
+f = v
+λ = 343 m/s
+0.640 m = 536 Hz 
+ 
+(b) For a 4 000 Hz high note, 
+ 
+ 
+ 
+dAA = λ
+2 = v
+2 f = 343 m/s
+8 000 Hz = 0.042 9 m = 42.9 mm 
+P18.41 
+(a) 
+The wavelength is λ = v
+f = 343 m/s
+261.6/s = 1.31 m, 
+ 
+ANS. FIG. P18.41 
+ANS. FIG. P18.39
+
+--- PAGE 30 ---
+Chapter 18     963 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so the length of the open pipe vibrating in its simplest (ANA) 
+mode is 
+ 
+ 
+ 
+dA to A = 1
+2 λ = 0.656 m 
+ 
+(b) A closed pipe has (NA) for its simplest resonance, (NANA) for 
+the second, and (NANANA) for the third, equal to 5/4 
+wavelengths. 
+ 
+ 
+Here, the pipe length is 5dN to A = 5λ
+4 = 5
+4 1.31 m
+(
+) = 1.64 m 
+P18.42 
+At TC  = 0.00°C, the speed of sound is  
+ 
+ 
+ 
+v = 331 m s 1+ TC
+273 = 331 m s 
+ 
+(a) 
+For a pipe closed at one end, 
+ 
+ 
+ 
+ 
+f1 = v
+4L = 331 m/s
+4 4.88 m
+(
+)
+= 17.0 Hz 
+ 
+(b) For a pipe open at each end, 
+ 
+ 
+ 
+ 
+f1 = v
+2L = 331 m/s
+2 4.88 m
+(
+)
+= 33.9 Hz 
+ 
+(c) 
+At TC = 20.0°C, the speed of sound is v = 343 m/s. 
+ 
+ 
+closed at one end: 
+ 
+ 
+ 
+ 
+f1 = v
+4L = 343 m/s
+4 4.88 m
+(
+)
+= 17.6 Hz 
+ 
+ 
+open at each end: 
+ 
+ 
+ 
+ 
+f1 = v
+2L = 343 m/s
+2 4.88 m
+(
+)
+= 35.1 Hz 
+P18.43 
+For resonance in a narrow tube open at one end, 
+ 
+ 
+ 
+f = n v
+4L n = 1, 3, 5, …
+(
+) 
+ 
+(a) 
+The node–node distance is  
+ 
+ 
+ 
+dNN = 68.3 cm – 22.8 cm = 45.5 cm  
+ANS. FIG. P18.43
+
+--- PAGE 31 ---
+964     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+This distance is equal to half the wavelength, so, 
+ 
+ 
+ 
+ 
+v = λ f  = 2dNN f  
+= 2 0.455 m
+(
+) 384 Hz
+(
+)
+ =  349 m/s
+ 
+ 
+(b) Resonance will be established when the tube length has increased 
+by another half wavelength: 68.3 cm + 45.5 = 113.8 = 1.14 m 
+P18.44 
+The tube acts as a pipe open at one end and closed at the other. 
+Resonance frequencies are odd harmonics. The length corresponding 
+to the fundamental satisfies 
+ 
+ 
+ 
+f1 = v
+4L :  L1 = v
+4 f1
+= 343 m/s
+4 512 s−1
+(
+)
+= 0.167 m 
+ 
+Since L > 20.0 cm, the next two modes will be observed,  
+ 
+corresponding to f2 = 3v
+4L2
+ and f3 = 5v
+4L3
+, 
+ 
+or 
+L2 = 3v
+4 f2
+= 3 f1 = 0.502 m   and   L3 = 5v
+4 f3
+= 5 f1 = 0.837 m . 
+P18.45 
+(a) 
+For the fundamental mode of an open tube, 
+ 
+ 
+ 
+L = λ1
+2 = v
+2 f1
+= 343 m s
+2 880 s−1
+(
+)
+= 0.195 m 
+ 
+(b) 
+v = 331 m s 1+ −5.00
+(
+)
+273
+= 328 m s 
+ 
+ 
+We ignore the thermal expansion of the metal. 
+ 
+ 
+ 
+f1 = v
+λ1
+= v
+2L =
+328 m s
+2 0.195 m
+(
+)
+= 841 Hz 
+ 
+ 
+The flute is flat by a semitone. 
+P18.46 
+For a closed box, the resonant frequencies will have nodes at both 
+sides, so the permitted wavelengths will be λ = 2L
+n , (n = 1, 2, 3, …), 
+ 
+i.e.,  
+L = nλ
+2 = nv
+2 f    and    f = nv
+2L.
+
+--- PAGE 32 ---
+Chapter 18     965 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore, with L = 0.860 m, L′ = 2.10 m, and v = 355 m/s, the resonant 
+frequencies are 
+ 
+ 
+ 
+fn = n 206 Hz
+(
+)    for L = 0.860 m for each n from 1 to 9 
+ 
+and  
+′fn = n 84.5 Hz
+(
+)    for L′ = 2.10 m for each n from 2 to 23. 
+*P18.47 
+λ
+2 = dAA = L
+n
+ or L = nλ
+2 
+for n = 1, 2, 3, … 
+ 
+Since λ = v
+f , L = n
+v
+2 f
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+for n = 1, 2, 3, … 
+ 
+With v = 343 m/s and f = 680 Hz,  
+ 
+ 
+L = n
+343 m s
+2 680 Hz
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= n 0.252 m
+(
+) for n = 1, 2, 3, …  
+ 
+Possible lengths for resonance are: 
+ 
+ 
+L = 0.252 m, 0.504 m, 0.757 m, …, n 0.252
+(
+) m 
+P18.48 
+(a) 
+The open ends of the tunnel are antinodes, so dAA = 2 000 m/n, 
+with n = 1, 2, 3,… 
+ 
+ 
+Then 
+ 
+ 
+ 
+ 
+λ = 2dAA = 4 000 m/n 
+ 
+ 
+and  
+ 
+ 
+ 
+f = v
+λ =
+343 m/s
+4 000 m/n = 0.085 8n Hz, with n = 1, 2, 3,...
+ 
+ 
+(b) 
+It is a good rule. Any car horn would produce several or many
+of the closely-spaced resonance frequencies of the air in the
+tunnel, so it would be greatly amplified. Other drivers might be
+frightened directly into dangerous behavior, or might blow their
+horns also.
+ 
+P18.49 
+The wavelength of the sound from the tuning fork is λ = v
+f . The 
+cylinder is a pipe open at the top and closed at the water surface; its 
+resonance patterns are AN, ANAN, ANANAN, etc. Resonance occurs 
+each time the height of the air column changes by half a wavelength: 
+Δh = v
+2 f . The volume of the pipe between these two water levels is 
+πr2Δh, which is also equal to the amount of water that has entered the
+
+--- PAGE 33 ---
+966     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+pipe at rate R in a time interval Δt and has filled this volume.  
+ 
+Therefore,  
+ 
+ 
+ 
+RΔt = π r2Δh = π r2v
+2 f    →   Δt = π r2v
+2Rf
+ 
+ 
+ 
+ 
+Δt = π r2v
+2Rf = π 0.050 0 m
+(
+)
+2 343 m/s
+(
+)
+2 1.00 L/min
+(
+) 512 Hz
+(
+)
+1 L
+103 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+100 cm
+m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 2.63 min
+(
+)
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 158 s
+ 
+P18.50 
+The wavelength of the sound from the tuning fork is λ = v
+f . The 
+cylinder is a pipe open at the top and closed at the water surface; its 
+resonance patterns are AN, ANAN, ANANAN, etc. Resonance occurs 
+each time the height of the air column changes by half a wavelength: 
+Δh = v
+2 f . The volume of the pipe between these two water levels is 
+πr2Δh, which is also equal to the amount of water that has entered the 
+pipe at rate R in a time interval ∆t and has filled this volume. 
+Therefore, 
+ 
+ 
+ 
+RΔt = π r2Δh = π r2v
+2 f
+→Δt = π r2v
+2Rf
+ 
+P18.51 
+For both open and closed pipes, resonant frequencies are equally 
+spaced as numbers. The set of resonant frequencies then must be  
+650 Hz, 550 Hz, 450 Hz, 350 Hz, 250 Hz, 150 Hz, 50 Hz. These are odd-
+integer multipliers of the fundamental frequency of 50.0 Hz . Then 
+the pipe length is dNA = λ
+4 = v
+4 f = 343 m s
+4 50.0 s−1
+(
+)
+= 1.72 m . 
+P18.52 
+For an air column of length 0.730 m, the column may be open ended or 
+closed at one end. For a column open at both ends: 
+ 
+ 
+ 
+fn = n v
+2L
+    where n = 1, 2, 3,… 
+ 
+ 
+ 
+fn = n v
+2L = n 343 m/s
+2 0.730 m
+(
+)
+= n 235 Hz
+(
+)    where n = 1, 2, 3,…
+
+--- PAGE 34 ---
+Chapter 18     967 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+And thus 235 Hz belongs to the harmonic series of an open column 
+(with n = 1), but 587 Hz does not match this harmonic series. 
+Similarly, for a column open only at one end: 
+ 
+ 
+ 
+fn = n v
+4L ,    where n = 1, 3, 5,… (only odd harmonics) 
+ 
+ 
+ 
+fn = n v
+4L = n 343 m/s
+4 0.730 m
+(
+) = n 117.5 Hz
+(
+),    where n = 1, 3, 5,... 
+ 
+and 587 Hz belongs to the harmonic series of a column open at only 
+one end (for n = 5), but 235 Hz does not match this harmonic series. 
+Therefore, it is impossible because a single column could not produce 
+both frequencies. 
+P18.53 
+(a) 
+The well acts like a pipe open at one end and closed at the other. 
+The normal modes of vibrations of such a pipe are odd harmonics 
+of a fundamental. Call L the depth of the well and v the speed of 
+sound.  
+ 
+ 
+Then for some integer n, 
+ 
+ 
+ 
+L = 2n −1
+(
+) λ1
+4 = 2n −1
+(
+) v
+4 f1
+= 2n −1
+(
+) 343 m s
+(
+)
+4 51.87 s−1
+(
+)
+ 
+ 
+ 
+and for the next resonance
+ 
+L = 2 n + 1
+(
+) −1
+[
+]λ2
+4 = 2n + 1
+(
+) v
+4 f2
+= 2n + 1
+(
+) 343 m s
+(
+)
+4 59.85 s−1
+(
+)
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 2n −1
+(
+) 343 m s
+(
+)
+4 51.87 s−1
+(
+)
+= 2n + 1
+(
+) 343 m s
+(
+)
+4 59.85 s−1
+(
+)
+  
+ 
+ 
+and we require an integer solution to 2n + 1
+59.85 = 2n −1
+51.87 . 
+ 
+ 
+The equation gives n = 7, which gives us  
+ 
+ 
+ L = 2 7( ) −1
+[
+] 343 m s
+(
+)
+4 51.87 s−1
+(
+)
+= 2 7( ) + 1
+[
+] 343 m s
+(
+)
+4 59.85 s−1
+(
+)
+ = 21.5 m 
+ 
+(b) The first harmonic (fundamental frequency) of the well is f1 = 
+v/4L = (343 m/s)/[4(21.5 m)] = 3.99 Hz; its pattern is AN. The 3rd 
+harmonic pattern is ANAN, the 5th is ANANAN, etc. We can see 
+that a pattern with n antinodes is the (2n – 1)th harmonic. The 
+frequency 51.87 Hz = 13(3.99 Hz) is the 13th harmonic: 13 = 2(7) –
+1, so the standing wave has 7 antinodes.
+
+--- PAGE 35 ---
+968     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 18.6 
+Standing Waves in Rods and Membranes 
+P18.54 
+When the rod is clamped at one-quarter of its length, the vibration 
+pattern reads ANANA and the rod length is L = 2dAA = λ. 
+ 
+Therefore, 
+L = v
+f = 5 100 m s
+4 400 Hz = 1.16 m 
+P18.55 
+(a) 
+The mode pattern is ANA, corresponding to the fundamental 
+mode. The length of the rod is one wavelength:  
+ 
+ 
+ 
+f = v
+2L =
+5 100
+2( ) 1.60
+(
+)
+= 1.59 kHz 
+ 
+(b) 
+Since it is held in the center, there must be a node in the center 
+as well as antinodes at the ends. The even harmonics have an 
+antinode at the center so only the odd harmonics are present. 
+ 
+(c) 
+The wavelength is the same as in (a):   
+ 
+ 
+ 
+f =
+′v
+2L =
+3 560
+2( ) 1.60
+(
+)
+= 1.11 kHz 
+ 
+ 
+ 
+Section 18.7 
+Beats: Interference in Time 
+P18.56 
+(a) 
+The string could be tuned to either 521 Hz or 525 Hz from this 
+evidence. 
+ 
+(b) Tightening the string raises the wave speed and frequency. If the 
+frequency were originally 521 Hz, the beats would slow down. 
+ 
+ 
+Instead, the frequency must have started at 525 Hz to become 
+526 Hz . 
+ 
+(c) 
+From f = v
+λ =
+T µ
+2L
+= 1
+2L
+T
+µ
+, 
+ 
+ 
+ 
+f2
+f1
+=
+T2
+T1
+    and    T2 =
+f2
+f1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+T1.
+
+--- PAGE 36 ---
+Chapter 18     969 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The fractional change that should be made in the tension is then 
+   
+fractional change = T2 −T1
+T1
+= T2
+T1
+−1 = T2 =
+f2
+f1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 
+ 
+ 
+ 
+ 
+=
+523
+526
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 = −0.011 4 = −1.14% 
+ 
+ 
+The tension should be reduced by 1.14% . 
+P18.57 
+Combining the velocity and the tension equations v = f λ and 
+v =
+T/µ, we find that the frequency is 
+ 
+ 
+ 
+f =
+T
+µλ 2 
+ 
+ 
+Since μ and λ are constant, we can apply that equation to both 
+frequencies, and then divide the two equations to get the proportion 
+ 
+ 
+ 
+f1
+f2
+=
+T1
+T2
+ 
+ 
+ 
+With f1 = 110 Hz, T1 = 600 N, and T2 = 540 N we have 
+ 
+ 
+ 
+f2 = (110 Hz) 540 N
+600 N = 104.4 Hz 
+ 
+ 
+The beat frequency is 
+ 
+ 
+ 
+fb = f1 −f2 = 110 Hz −104.4 Hz = 5.64 beats s 
+P18.58 
+We use ′f =
+v + vO
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟f . The observer is stationary, so v0 = 0. 
+ 
+For the approaching train vs = +8.00 m/s; the frequency arriving at the 
+observer is  
+ 
+ 
+f1′ =
+v
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 m/s
+343 m/s −8.00 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 m/s
+335 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟f
+ 
+ 
+For the receding train is vs = –8.00 m/s; the frequency arriving at the 
+observer is  
+ 
+ 
+f2′ =
+v
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 m/s
+343 m/s −−8.00 m/s
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 m/s
+351 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟f
+
+--- PAGE 37 ---
+970     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The beat frequency between the waves emanating from the trains is  
+ 
+ 
+fbeat = | f1 −f2| 
+ 
+and, because the receding train produces a lower frequency,  
+ 
+ 
+f1′ −f2′ = fbeat    →    343 m/s
+335 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟f −343 m/s
+351 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟f = 4.00 Hz
+343 m/s
+335 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟−343 m/s
+351 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥f = 4.00 Hz    →    f = 85.7 Hz
+ 
+P18.59 
+The source moves toward the wall: 
+ 
+ 
+ 
+vs = +vstudent,  v0 = 0,    and    ′f = f v + vo
+(
+)
+v −vs
+(
+)
+= f
+v
+v −vstudent
+(
+)
+. 
+ 
+The wall acts as stationary source, reflecting the wave of frequency ′f . 
+The observe moves toward the source: vs = 0, v0 = +vstudent, and  
+ 
+ 
+ 
+′′
+f
+=
+′f
+v + vo
+(
+)
+v −vs
+(
+)
+=
+′f
+v + vs
+(
+)
+v
+= f
+v
+v −vstudent
+(
+)
+v + vstudent
+(
+)
+v
+= f v + vstudent
+(
+)
+v −vstudent
+(
+)
+ 
+ 
+(a) 
+When the student walks toward the wall ′′
+f
+ is larger than f; the 
+beat frequency is 
+ 
+ 
+ 
+fb =
+′′
+f
+−f = f v + vstudent
+(
+)
+v −vstudent
+(
+)
+−f = f
+v + vstudent
+(
+)
+v −vstudent
+(
+)
+−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= f
+2vstudent
+v −vstudent
+(
+)
+ 
+ 
+ 
+ 
+fb = 256 Hz
+(
+)
+2 1.33 m/s
+(
+)
+343 m/s −1.33 m/s
+(
+)
+= 1.99 Hz  
+ 
+(b) When he is moving away from the wall, the sign of vstudent changes 
+and ′′
+f is smaller than f: 
+ 
+fb =
+′′
+f
+−f = f −f v −vstudent
+(
+)
+v + vstudent
+(
+)
+= f 1−v −vstudent
+(
+)
+v + vstudent
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= f
+2vstudent
+v + vstudent
+(
+)
+
+--- PAGE 38 ---
+Chapter 18     971 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for vstudent gives 
+ 
+ 
+ 
+vstudent =
+fbv
+2 f −fb
+=
+5 Hz
+(
+) 343 m/s
+(
+)
+2( ) 256 Hz
+(
+) −5 Hz = 3.38 m/s
+ 
+ 
+ 
+ 
+Section 18.8 
+Nonsinusoidal Wave Patterns 
+*P18.60 
+We list the frequencies of the harmonics of each note in Hz: 
+ 
+ 
+Harmonic 
+ 
+Note 
+1 
+2 
+3 
+4 
+5 
+ 
+A 
+440.00 
+ 880.00 
+1 320.0 
+1 760.0 
+2 200.0 
+ 
+C# 
+554.37 
+1 108.7 
+1 663.1 
+2 217.5 
+2 771.9 
+ 
+E 
+659.26 
+1 318.5 
+1 977.8 
+2 637.0 
+3 296.3 
+ 
+ 
+The second harmonic of E is close the the third harmonic of A, 
+and the fourth harmonic of C# is close to the fifth harmonic of A.
+ 
+P18.61 
+We evaluate 
+ 
+ 
+ 
+ 
+s = 100 sin θ + 157 sin 2θ + 62.9 sin 3θ + 105 sin 4θ
+  + 51.9 sin 5θ + 29.5 sin 6θ + 25.3 sin 7θ
+ 
+ 
+where s represents particle displacement in nanometers and θ 
+represents the phase of the wave in radians. As θ advances by 2π, time 
+advances by (1/523) s. The resultant waveform is shown below in 
+ANS. FIG. P18.61.  
+ 
+ANS. FIG. P18.61
+
+--- PAGE 39 ---
+972     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+*P18.62 
+(a) 
+The fundamental wavelength of the pipe open at both ends is 
+λ = 2L = v/ f1. Since the speed of sound is 331 m/s at 0°C, the 
+length of the pipe is 
+ 
+ 
+ 
+L = v
+2 f1
+= 331 m/s
+2 300 Hz
+(
+) = 0.552 m
+  
+ 
+(b) At T = 30.0°C = 303 K, 
+ 
+  
+ 
+v = 331 m/s
+(
+)
+TK
+273 = 331 m/s
+(
+)
+303
+273 = 349 m/s
+  
+ 
+  
+and 
+ 
+  
+ 
+f1 = v
+λ1
+= v
+2L =
+349 m/s
+2 0.552 m
+(
+) = 316 Hz
+ 
+*P18.63 
+The second standing wave mode of the air in the pipe reads ANAN, 
+with  
+dNA = λ
+4 = 1.75 m
+3
+, 
+ 
+so 
+ 
+λ = 2.33 m 
+ 
+and  
+f = v
+λ = 343 m/s
+2.33 m = 147 Hz. 
+ 
+For the string, λ and v are different but f is the same. 
+ 
+ 
+ 
+λ
+2 = dNN = 0.400 m
+2
+ 
+ 
+so 
+ 
+λ = 0.400 m. 
+ 
+ 
+ 
+v = λ f = 0.400 m
+(
+) 147 Hz
+(
+) = 58.8 m/s =
+T
+µ
+T = µv2 = 9.00 × 10−3 kg/m
+(
+) 58.8 m/s
+(
+)2 = 31.1 N
+ 
+P18.64 
+The beat frequency between the waves emanating from the two strings 
+is 
+ 
+ 
+ 
+fbeat =| f1 −f2| 
+ 
+and, because the decrease in tension causes the second frequency to be 
+lower, 
+ 
+ 
+ 
+f2 = f1 −fbeat = 150 Hz
+(
+) −4 Hz
+(
+) = 146 Hz
+
+--- PAGE 40 ---
+Chapter 18     973 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.65 
+At point D, the distance of the ship from point A is 
+ 
+ 
+ 
+d1 =
+d2
+2 + 800 m
+(
+)
+2 =
+600 m
+(
+)
+2 + 800 m
+(
+)
+2 = 1 000 m 
+ 
+Since destructive interference occurs for the first time when the ship 
+reaches D, it is necessary that d1 −d2 = λ 2 or 
+ 
+ 
+ 
+λ = 2 d1 −d2
+(
+) = 2 1 000 m −600 m
+(
+) = 800 m 
+P18.66 
+According to Equation 18.6, the natural frequencies of vibration of a 
+string fixed at both ends are given by  
+ 
+ 
+ 
+fn = n
+2L
+T
+µ =
+n
+2 2.00 m
+(
+)
+20.0 N
+0.100 kg
+2.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= n 5.00 Hz
+(
+)    
+ 
+where n = 1, 2, 3, ... 
+ 
+(a) 
+f1 = 5.0 Hz , f2 = 10.0 Hz , f3 = 15.0 Hz 
+ 
+(b) This could be any mode that has a node 0.400 m from an end. If  
+D = 0.400 m is the distance between adjacent nodes (the distance 
+across a pair of nodes), dNN = D = λ/2, and its wavelength is  
+0.800 m:  
+ 
+ 
+ 
+λ
+2 = D   →   λ = 2D = 2 0.400 m
+(
+)
+λ = 2L
+n   →   n = 2L
+λ = 2L
+2D = L
+D = 2.00 m
+0.400 m = 5
+ 
+ 
+ 
+This mode corresponds to the 5th harmonic: f5 = 5(5.00 Hz) =  
+25.0 Hz. But D could be the distance across two pairs of nodes 
+(from node to node to node), dNNN = D = 2 λ/2
+(
+), or three pairs, 
+dNNN, or across N pairs of nodes:  
+ 
+ 
+ 
+N λ
+2 = D   →   λ = 2D N 
+ 
+ 
+ 
+then, 
+ 
+ 
+ 
+n = 2L
+λ =
+2L
+2D N
+(
+)
+= N L
+D = N 2.00 m
+0.400 m = 5N
+ 
+ 
+ 
+and so on, corresponding to the 10th, or the 15th harmonic, etc. 
+ 
+ 
+The frequency could be the fifth state at 25.0 Hz or any integer
+multiple, such as the tenth state at 50.0 Hz, the fifteenth state at
+75.0 Hz, and so on.
+
+--- PAGE 41 ---
+974     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.67 
+When the string is plucked, nodes occur on the ends because they are 
+fixed. The plucked guitar string vibrates in its fundamental mode with 
+a wavelength equal to twice the length of the string. For the 2 349-Hz 
+note, the length of the vibrating string is L = 21.4 cm. For the 2 217-Hz 
+note, the length of the vibrating string is L + x, where x is the distance 
+to the next fret. We wish to solve for x.  
+ 
+We assume the wave speed is the same on each string. Compare the 
+frequencies to the lengths of vibrating string: 
+ 
+ 
+ 
+f1 = 2349 Hz = v
+2L
+ 
+ 
+ 
+ 
+f2 = 2217 Hz = 
+v
+2 L + x
+(
+)
+ 
+ 
+Taking the ratio, 
+ 
+ 
+ 
+f1
+f2
+= L + x
+L
+= 1+ x
+L
+ 
+ 
+ 
+ 
+x = L
+f1
+f2
+−1
+⎛
+⎝⎜
+⎞
+⎠⎟= 21.4 cm
+(
+) 2 349 Hz
+2 217 Hz −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.27 cm
+ 
+P18.68 
+(a) 
+The frequency of the normal mode produces a sound wave of the 
+same frequency. For the same frequency, wavelength is 
+proportional to wave speed. On the string, the wave speed is  
+ 
+ 
+ 
+v =
+T
+µ =
+48.0 N
+(
+)
+4.80 × 10−3 kg
+2.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 141 m s 
+ 
+ 
+which is smaller than the speed of sound (343 m/s). 
+ 
+ 
+The wavelength in air of the sound produced by the string is 
+larger because the wave speed is larger. 
+ 
+(b) 
+λair
+λstring
+= vair f
+vstring f = vair
+vstring
+= 343 m/s
+141 m/s = 2.43 
+P18.69 
+dAA = λ
+2 = 7.05 × 10−3 m is the distance between 
+antinodes. Then λ = 14.1× 10−3 m, 
+ 
+and f = v
+λ = 3.70 × 103 m/s
+14.1× 10−3 m = 2.62 × 105 Hz , 
+ 
+The crystal can be tuned to vibrate at 2
+18 Hz, so that binary counters 
+can derive from it a signal at precisely 1 Hz. 
+ANS. FIG. P18.69
+
+--- PAGE 42 ---
+Chapter 18     975 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.70 
+(a) 
+The particle under constant 
+acceleration model
+  
+ 
+(b) 
+Waves under boundary conditions
+model
+ 
+ 
+(c) 
+For the block: 
+ 
+ 
+ 
+Fx
+∑
+= T −Mg sin θ = 0 
+ 
+ 
+so 
+T = Mg sin θ . 
+ 
+(d) The length of the section of string parallel to the incline is 
+h
+sin θ . 
+The total length of the string is then  
+ 
+ 
+ 
+L =
+h
+sin θ + h =
+h
+sin θ + h sin θ
+sin θ = h 1+ sin θ
+sin θ
+⎛
+⎝⎜
+⎞
+⎠⎟
+  
+ 
+(e) 
+The mass per unit length of the string is  
+ 
+ 
+ 
+µ = m
+L =
+m
+h 1+ sin θ
+sin θ
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+m sin θ
+h 1+ sin θ
+(
+)
+  
+ 
+(f) 
+The speed of waves in the string is  
+ 
+ 
+ 
+v =
+T
+µ =
+Mg sin θ
+m sin θ
+h 1+ sin θ
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+=
+Mgh
+m
+1+ sin θ
+(
+)
+  
+ 
+(g) The fundamental mode vibrates at the lowest frequency. In the 
+fundamental mode, the segment of length h vibrates as one loop. 
+The distance between adjacent nodes is then dNN = λ
+2 = h, so the 
+wavelength is λ = 2h. 
+ 
+ 
+The frequency is f = v
+λ = 1
+2h
+Mgh
+m
+1+ sin θ
+(
+) =
+Mg
+4mh 1+ sin θ
+(
+) . 
+ 
+(h) 
+f =
+Mg
+4mh 1+ sin θ
+(
+) =
+1.50 kg
+(
+) 9.80 m/s2
+(
+)
+4 0.750 × 10−3 kg
+(
+) 0.500 m
+(
+)
+1+ sin 30.0°
+(
+)  
+ 
+ 
+ = 121 Hz 
+ANS. FIG. P18.70
+
+--- PAGE 43 ---
+976     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(i) 
+The fundamental mode has a wavelength twice the length of the 
+sloped section of string, λ = 2
+h
+sin θ . Its frequency is  
+ 
+ 
+ 
+f = v
+λ =
+1
+2
+h
+sin θ
+⎛
+⎝⎜
+⎞
+⎠⎟
+Mgh
+m
+1+ sin θ
+(
+) = sin θ
+Mg
+4mh 1+ sin θ
+(
+)
+f = sin 30.0° 121 Hz
+(
+) = 60.6 Hz
+ 
+*P18.71 
+For the wire, µ = 0.010 0 kg
+2.00 m
+= 5.00 × 10−3 kg/m: 
+ 
+ 
+ 
+v =
+T
+µ =
+200 kg⋅m/s2
+5.00 × 10−3 kg/m = 200 m/s
+ 
+ 
+If it vibrates in its simplest state, dNN = 2.00 m = λ
+2 : 
+ 
+ 
+ 
+f = v
+λ = 200 m/s
+4.00 m = 50.0 Hz
+ 
+ 
+(a) 
+The tuning fork can have frequencies 45.0 Hz or 55.0 Hz. 
+ 
+(b) If f = 45.0 Hz, and v = f λ = 45.0 s−1
+(
+) 4.00 m
+(
+) = 180 m/s, then 
+ 
+ 
+ 
+T = v2µ = 180 m/s
+(
+)2 5.00 × 10−3 kg/m
+(
+) = 162 N 
+ 
+ 
+or if f = 55.0 Hz,  
+ 
+ 
+ 
+T = v2µ = f 2λ2µ = 55.0 s−1
+(
+)
+2 4.00 m
+(
+)2 5.00 × 10−3 kg/m
+(
+)
+= 242 N
+ 
+*P18.72 
+We are told that the man’s ears are at the same level as the lower 
+speaker. Sound from the upper speaker is delayed by traveling the 
+extra distance Δr =
+L2 + d2 −L. 
+ 
+He hears a minimum when Δr = 2n −1
+(
+) λ
+2
+⎛
+⎝
+⎞
+⎠, with n = 1, 2, 3, …  
+ 
+Then, 
+ 
+ 
+  
+L2 + d2 −L = n −1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 44 ---
+Chapter 18     977 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+  
+L2 + d2 = n −1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟+ L
+L2 + d2 = n −1
+2
+(
+)
+2
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 2 n −1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟L + L2
+ 
+ 
+ 
+  
+d2 −n −1
+2
+(
+)
+2
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2 n −1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟L 
+[1] 
+ 
+Equation [1] gives the distances from the lower speaker at which the 
+man will hear a minimum. The path difference Δr starts from nearly 
+zero when the man is very far away and increases to d when L = 0. 
+ 
+(a) 
+The number of minima he hears is the greatest integer value for 
+which L ≥0. This is the same as the greatest integer solution to  
+ 
+ 
+ 
+d ≥n −1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or 
+ 
+ 
+ 
+number of minima heard = nmax
+                            = greatest integer ≤d
+f
+v
+⎛
+⎝
+⎞
+⎠+ 1
+2
+ 
+ 
+(b) From equation [1], the distances at which minima occur are given 
+by 
+ 
+ 
+ 
+Ln =
+d2 −n−1
+2
+(
+)
+2
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2 n−1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+, where n = 1, 2, …, nmax 
+P18.73 
+(a) 
+The tension on the string defines the wave velocity on the string, 
+and thus also the frequencies, wavelengths, and number of nodes 
+of the standing waves. The tension on the string in Figure 18.11a 
+is: 
+ 
+ 
+ 
+T1 = mg,    where m is the mass of the sphere. 
+ 
+ 
+The tension on the string in Figure 18.11b, must also include the 
+buoyant force on the sphere: 
+ 
+ 
+ 
+T2 = mg −B = mg −ρwatergVsphere = mg −ρwaterg
+4
+3 πr3
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 45 ---
+978     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Notice that the number of antinodes n is exactly the number of 
+half wavelengths of standing waves on the string (i.e. there are 
+two antinodes (and one full wavelength) on the string in Figure 
+18.11a, and there are five antinodes (and two and a half full 
+wavelengths) in Figure 18.11b). From Equations 18.5 and 18.6 we 
+have  
+ 
+ 
+ 
+fn = v
+λn
+= n v
+2L = n
+2L
+T
+µ , n = 1, 2, 3, 4,...
+ 
+ 
+ 
+The frequency of oscillation is the same in both cases because it is 
+defined by the moving blade to the left. In addition, neither the 
+total length of the string L nor the string density µ changes 
+between the two cases: 
+ 
+ 
+ 
+f = n1
+2L
+T1
+µ
+   and    f = n2
+2L
+T2
+µ
+    
+ 
+ 
+therefore,     
+ 
+ 
+ 
+2Lf
+µ = n1 T1 = n2 T2 
+ 
+ 
+Or equivalently,  
+ 
+ 
+ 
+ 
+T2 =
+n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+T1 =
+n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mg
+ 
+ 
+ 
+But we have already obtained the value for tension above in 
+terms of the buoyant force and thus the radius of the sphere. 
+ 
+ 
+ 
+T2 =
+n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+T1 =
+n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mg = mg −ρwaterg 4
+3πr3
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+The radius of the sphere r may now be solved in terms of the 
+number of antinodes n2 (and the other parameters, n1, m, g, and 
+ρwater which are all constants, or already defined in the problem). 
+ 
+ 
+ 
+ρwaterg 4
+3πr3
+⎛
+⎝⎜
+⎞
+⎠⎟= mg 1−n1
+2
+n2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟   →   r3 =
+3m
+4πρwater
+1−n1
+2
+n2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ solving for r gives 
+ 
+ 
+ 
+r =
+3m
+4πρwater
+⎛
+⎝⎜
+⎞
+⎠⎟1−n1
+2
+n2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1/3
+=
+3 2.00 kg
+(
+)
+4π 103 kg/m3
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1−4
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+1/3
+= 0.078 2 1−4
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/3  
+ 
+ 
+where r is in meters.
+
+--- PAGE 46 ---
+Chapter 18     979 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Because the factor inside the cube root  
+ 
+ 
+ 
+1−4
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/3
+ 
+ 
+ 
+will be either zero or negative, which are each meaningless 
+results, for n = 1 and 2, the minimum allowed value of n for a 
+sphere of nonzero size is n = 3 . 
+ 
+(c) 
+Because the mass of the sphere is held constant, while its radius 
+(and thus also volume and density) is changed, there will reach a 
+point where the density of the sphere reaches the density of 
+water, and thus the sphere will float, so that it will no longer be 
+fully immersed in the water. After this point, the sphere will float 
+on the water, and will not produce further standing waves. 
+ 
+ 
+The limiting condition is ρsphere = ρwater = 1.00 × 103 kg/m3. 
+ 
+ 
+But ρsphere = m
+V =
+m
+4
+3πr3 which may be rearranged to solve for r. 
+ 
+ 
+ 
+4
+3πr3 =
+m
+ρsphere
+=
+m
+ρwater
+     →     r =
+3m
+4πρwater
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/3 
+ 
+ 
+and substituting in numerically: 
+ 
+ 
+ 
+r =
+3m
+4πρwater
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/3
+=
+3 2.00 kg
+(
+)
+4π 1.0 × 103 kg/m3
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/3
+= 4.766 × 10−4 m3
+(
+)
+1/3 = 0.078 2 m
+ 
+ 
+ 
+is the limiting (maximum) radius for which the sphere will stay 
+totally immersed. 
+ 
+(d) 
+The sphere floats on the water. 
+P18.74 
+(a) 
+The wavelength is twice the length of string from the top end to 
+the yo-yo: λ = 2L. The length L changes in time because the yo-yo 
+is a particle under constant acceleration: L = L0 + 1
+2 at2, where L0 is 
+the length of the string at t = 0 and a is the acceleration of the yo-
+yo. Therefore, 
+ 
+ 
+ 
+dλ
+dt  =  d
+dt 2L
+(
+) =  d
+dt 2 L0 +  1
+2 at2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ = 2at 
+      = 2 0.800 m/s2
+(
+) 1.20 s
+(
+) = 1.92 m/s
+
+--- PAGE 47 ---
+980     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For the second harmonic, the wavelength is equal to the length of 
+the string. Therefore, 
+ 
+ 
+ 
+dλ
+dt  =  d
+dt L =  d
+dt L0 +  1
+2 at2
+⎛
+⎝⎜
+⎞
+⎠⎟= at 
+      =  0.800 m/s2
+(
+) 1.20 s
+(
+) 
+=  0.960 m/s, half as much as for the first harmonic .
+ 
+ 
+(c) 
+Yes. A yo-yo of different mass will hold the string under 
+different tension to make each string wave vibrate with a 
+different frequency, but the geometrical argument given 
+in part (a) still applies to the wavelength.
+ 
+ 
+(d) 
+Yes, for the same reason as in (c): the geometrical argument
+given in part (b) still applies to the wavelength.
+ 
+P18.75 
+f = 87.0 Hz. The speed of sound in air is  
+va = 343 m/s. 
+ 
+(a) 
+The pattern on the bar (see upper figure at 
+right) is ANANA, corresponding to the second 
+harmonic. The wavelength on the bar is λb = L, 
+ 
+ 
+ 
+v = f λb = 87.0 s−1
+(
+) 0.400 m
+(
+)
+= 34.8 m s
+ 
+ 
+(b) With λa = 4L   and   va = λa f , 
+ 
+ 
+ 
+L = va
+4 f = 343 m/s
+4 87.0 s−1
+(
+)
+= 0.986 m
+ 
+P18.76 
+(a) 
+µ = 5.50 × 10−3 kg
+0.860 m
+= 6.40 × 10−3 kg m 
+ 
+ 
+v =
+T
+µ =
+1.30 kg ⋅m s2
+6.40 × 10−3 kg m = 14.3 m/s
+ 
+ 
+(b) The distance between a node and its adjacent antinode is one-
+quarter of a wavelength. In order for there to be a node at the 
+bottom and an antinode at the top, the string can contain only an 
+odd number of node-antinode pairs.  
+ 
+ 
+The simplest pattern is (top to bottom) AN = one node-antinode 
+pair:  
+ANS. FIG. P18.75
+
+--- PAGE 48 ---
+Chapter 18     981 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+λ1
+4 = L = 86.0 cm 
+ 
+ 
+The next simplest pattern is ANAN = AN + NA + AN = three 
+node-antinode pairs:  
+ 
+ 
+ 
+3 λ3
+4 = L   →   λ3
+4 = L
+3 = 28.7 cm
+ 
+ 
+ 
+The next simplest pattern is ANANAN = AN + NA + AN + NA + 
+AN = five node-antinode pairs:  
+ 
+ 
+ 
+5 λ5
+4 = L   →   λ5
+4 = L
+5 = 17.2 cm 
+ 
+(c) 
+The distance between node and an antinode is λ
+4 . The 
+corresponding frequency is  
+ 
+ 
+ 
+fn =
+v
+4 λn
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+:        
+f1 =
+v
+4 λ1
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 14.3 m/s
+4 0.860 m
+(
+)
+= 4.14 Hz
+f3 =
+v
+4 λ3
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 14.3 m/s
+4 0.287 m
+(
+)
+= 12.4 Hz
+f5 =
+v
+4 λ5
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 14.3 m/s
+4 0.172 m
+(
+)
+= 20.7 Hz
+⎧
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪⎪
+⎩
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+ 
+P18.77 
+We consider velocities of approach and of recession separately in the 
+Doppler equation, after we observe from our beat equation fb = |f1 − f2| 
+= |f − f’| that the moving train must have an apparent frequency of 
+either  f’ = 182 Hz  or  f’ = 178 Hz. 
+ 
+ 
+We let vt represent the magnitude of the train’s velocity. If the train is 
+moving away from the station, the apparent frequency is 178 Hz, 
+lower, as described by 
+ 
+ 
+ 
+ 
+′f =
+v
+v + vt
+ 
+ 
+ 
+and the train is moving away at 
+ 
+ 
+ 
+vt = v
+f
+′f
+– 1
+⎛
+⎝⎜
+⎞
+⎠⎟= (343 m/s) 180 Hz
+178 Hz −1
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.85 m/s 
+ 
+ 
+If the train is pulling into the station, then the apparent frequency is 
+182 Hz. Again from the Doppler shift,
+
+--- PAGE 49 ---
+982     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+′f =
+v
+v −vs
+ 
+ 
+ 
+The train is approaching at 
+ 
+ 
+ 
+vs = v 1 – f
+′f
+⎛
+⎝⎜
+⎞
+⎠⎟= (343 m/s) 1−180 Hz
+182 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟
+vs = 3.77 m/s
+ 
+ 
+The moving train has a velocity of either 3.85 m/s away from the 
+station or 3.77 m/s toward the station. 
+*P18.78 
+(a) 
+Use the Doppler formula: 
+ 
+ 
+ 
+′f = f v ± v0
+(
+)
+v vs
+(
+) 
+ 
+ 
+with  ′f1 = frequency of the speaker in front of student and 
+ 
+ 
+ 
+′f2 = frequency of the speaker behind the student. 
+ 
+ 
+ 
+′f1 = 456 Hz
+(
+) 343 m/s + 1.50 m/s
+(
+)
+343 m/s −0
+(
+)
+= 458 Hz
+′f2 = 456 Hz
+(
+) 343 m/s −1.50 m/s
+(
+)
+343 m/s + 0
+(
+)
+= 454 Hz
+ 
+ 
+ 
+Therefore, fb =
+′f1 −
+′f2 = 3.99 Hz . 
+ 
+(b) The waves broadcast by both speakers have  
+ 
+ 
+ 
+λ = v
+f = 343 m/s
+456 s−1 = 0.752 m 
+ 
+ 
+The standing wave between them has dAA = λ
+2 = 0.376 m.  
+ 
+ 
+The student walks from one maximum to the next in time  
+ 
+ 
+Δt = 0.376 m
+1.50 m/s = 0.251 s, so the frequency at which she hears 
+maxima is  
+ 
+ 
+ 
+f = 1
+T =
+1
+0.251 s = 3.99 Hz
+
+--- PAGE 50 ---
+Chapter 18     983 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P18.79 
+As in Problem 32, we let m = ρV represent the mass of the copper 
+cylinder. The original tension in the wire is T1 = mg = ρVg. The water 
+exerts a buoyant force ρwater nV
+(
+)g on the copper object, where n is the 
+fraction of the object that is submerged, to reduce the tension to 
+ 
+ 
+ 
+T2 = ρVg −ρwater nV
+(
+)g = ρ −nρwater
+(
+)Vg 
+ 
+The speed of a wave on the string changes from 
+T1
+µ
+   to   
+T2
+µ . The 
+frequency changes from 
+ 
+ 
+ 
+f1 = v1
+λ =
+1
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+T1
+µ     to     f2 =
+1
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+T2
+µ
+    
+ 
+where we assume λ = 2L is constant. 
+ 
+Then  
+ 
+ 
+ 
+f2
+f1
+=
+T2
+T1
+ 
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+f2 = f1
+ρ −nρwater
+ρ
+ 
+ 
+The frequency decreases as the fraction of the object that is submerged 
+increases, with the lowest frequency occurring when the object is 
+completely submerged, or n = 1: 
+ 
+ 
+ 
+f2 = f1
+ρ −nρwater
+ρ
+= 300 Hz
+(
+)
+8.92 −1.00
+(
+)1.00
+8.92
+= 300 Hz
+(
+)
+7.92
+8.92 = 283 Hz
+ 
+P18.80 
+(a) 
+Since the first node is at the weld, the wavelength in the thin wire 
+is 2L or 80.0 cm. The frequency and tension are the same in both 
+sections, so 
+ 
+ 
+ 
+f = 1
+2L
+T
+µ =
+1
+2 0.400 m
+(
+)
+4.60 N
+2.00 × 10−3 kg/m = 59.9 Hz
+
+--- PAGE 51 ---
+984     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As the thick wire is twice the diameter, the linear density is 4 
+times that of the thin wire, or ′
+µ = 8.00 g/m. 
+ 
+ 
+so 
+′
+L = 1
+2 f
+T
+′
+µ
+=
+1
+2( ) 59.9 s−1
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+4.60 N
+8.00 × 10−3 kg/m = 20.0 cm
+ 
+ 
+ 
+or half the length of the thin wire. 
+P18.81 
+The wavelength stays constant at λ1 = 2L while the wavespeed rises 
+according to  
+ 
+ 
+ 
+v = (T/µ)1/2 = [(15.0 + 10.0t/3.50)/µ]1/2 
+ 
+so the frequency rises as f = v/λ =  [(15.0 + 10.0t/3.50) /µ]1/2/2L. 
+ 
+The number of cycles is N = dt/T = f dt in each incremental bit of time, 
+or altogether  
+ 
+N =
+1
+2L µ
+15.0 + 10.0
+3.50 t
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+0
+3.5
+∫
+dt
+=
+1
+2L 3.50µ
+52.5 + 10.0t
+(
+)
+1 2
+0
+3.5
+∫
+dt
+N =
+1
+2L 3.50µ
+1
+10.0 3 2
+(
+)
+52.5 + 10.0t
+(
+)
+3 2
+0
+3.5
+=
+1
+30L 3.50µ 52.5 + 10.0t
+(
+)
+3 2
+0
+3.5
+N =
+1
+30.0 0.480 m
+(
+) 3.50 1.60 × 10−3 kg/m
+(
+)
+                                   ×
+52.5 + 35.0
+(
+)
+3 2 −52.5
+(
+)
+3 2
+⎡⎣
+⎤⎦
+N = 407 cycles
+ 
+P18.82 
+We use the basic relationship f = n
+2L
+T
+µ . 
+ 
+(a) 
+Changing the length does not change the tension or the mass per 
+unit length, so the wave speed is the same.  
+ 
+ 
+ 
+′f
+f = L
+′
+L = L
+2L = 1
+2
+
+--- PAGE 52 ---
+Chapter 18     985 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The frequency should be halved to get the same number of 
+antinodes for twice the length.  
+ 
+(b) 
+′n
+n =
+T
+′
+T
+    so    
+′
+T
+T =
+n
+′n
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+n
+n + 1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+ 
+ 
+ 
+The tension must be ′
+T =
+n
+n + 1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+T . 
+ 
+(c) 
+′f
+f =
+′n L
+n ′
+L
+′
+T
+T
+    so    
+′
+T
+T =
+n ′f
+′
+L
+′n fL
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+n
+′n
+⎛
+⎝⎜
+⎞
+⎠⎟
+′f
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+′
+L
+L
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+ 
+ 
+ 
+′
+T
+T =
+3
+2 ⋅2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+     → 
+′
+T
+T = 9
+16
+  to get twice as many antinodes. 
+P18.83 
+We look for a solution of the form 
+ 
+ 
+ 
+5.00 sin (2.00x – 10.0t) + 10.0 cos (2.00x – 10.0t)  
+ 
+ 
+  
+ 
+= A sin (2.00x – 10.0t + φ) 
+ 
+ 
+  
+ 
+= A sin (2.00x – 10.0t) cos φ + A cos (2.00x – 10.0t) sin φ 
+ 
+This will be true if both 
+5.00 = A cos φ  and  10.0 = A sin φ, 
+ 
+requiring  
+ 
+ 
+ 
+ 
+5.00
+(
+)
+2 + 10.0
+(
+)
+2 = A2
+→
+A = 11.2, and  
+ 
+ 
+ 
+tan φ = 10.0
+5.00 = 2.00   →   φ = 63.4°
+ 
+ 
+(a) 
+From above, we were able to find values for A and φ; therefore,
+the resultant wave is sinusoidal.
+ 
+ 
+(b) From above A = 11.2 and φ = 63.4° . 
+P18.84 
+The speed of sound at Celsius temperature TC is 
+ 
+ 
+ 
+v = 331 m/s
+(
+) 1+
+TC
+273°C
+ 
+ 
+At 20.0°C, the speed of sound is 343 m/s. 
+ 
+(a) 
+For a pipe open at both ends, the fundamental frequency (n = 1) is 
+ 
+ 
+ 
+f1 = v
+2L   →   L = v
+2 f1
+=
+343 m/s
+2 261.6 Hz
+(
+)
+= 0.656 m
+
+--- PAGE 53 ---
+986     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The speed of sound in the colder room is smaller because the 
+temperature is lower. The fundamental frequency of the pipe 
+played in that room, call it f ′1, is smaller because the frequency of 
+a standing wave is proportional to the wave speed. The beat 
+frequency is  
+ 
+ 
+ 
+fbeat =
+′f  1 −
+′f  1 = f1 −
+′f  1    
+ 
+ 
+which gives 
+ 
+ 
+ 
+ f1 = f1 −fbeat = 261.6 −3.00 = 258.6 Hz 
+ 
+ 
+because f1 = 261.6 Hz is larger than f ′1.  
+ 
+ 
+The lengths of the flutes are the same, so compare frequencies 
+and wave speeds:  
+ 
+ 
+ 
+f1 = v
+2L   →   
+′f   1
+f1
+=
+′v
+v  
+ 
+ 
+ 
+Solving for the wave speed gives 
+ 
+ 
+ 
+ ′v = v
+′f   1
+f1
+= 343 m/s
+(
+) 258.6 Hz
+261.6 Hz
+⎛
+⎝⎜
+⎞
+⎠⎟= 339 m/s
+ 
+ 
+ 
+The wave speed depends on the temperature: 
+ 
+ 
+ 
+v = 331 m/s
+(
+) 1+ TC
+273° = 339 m/s 
+ 
+ 
+ 
+Solving for the temperature gives 
+ 
+ 
+ 
+TC = 273°
+339 m/s
+331 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 13.5°C
+ 
+P18.85 
+(a) 
+Let θ represent the angle each 
+slanted rope makes with the 
+vertical. In the diagram, 
+observe that: 
+ 
+ 
+ 
+sin θ = 1.00 m
+1.50 m = 2
+3
+ 
+ 
+ 
+or 
+θ = 41.8° 
+ 
+ 
+Considering the mass, 
+ 
+ 
+ 
+Fy
+∑
+= 0:   2T cos θ = mg 
+ANS. FIG. P18.85
+
+--- PAGE 54 ---
+Chapter 18     987 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+T =
+12.0 kg
+(
+) 9.80 m/s2
+(
+)
+2 cos 41.8°
+= 78.9 N 
+ 
+(b) The speed of transverse waves in the string is  
+ 
+ 
+ 
+v =
+T
+µ =
+78.9 N
+0.001 00 kg m = 281 m/s
+ 
+ 
+ 
+For the standing wave pattern shown (3 loops), d = 3
+2 λ, 
+ 
+ 
+or 
+λ = 2 2.00 m
+(
+)
+3
+= 1.33 m. 
+ 
+ 
+Thus, the required frequency is    f = v
+λ = 281 m/s
+1.33 m = 211 Hz . 
+P18.86 
+(a) 
+Let θ (refer to ANS. FIG. P18.85) represent the angle each slanted 
+rope makes with the vertical. In the diagram, observe that: 
+ 
+ 
+ 
+sin θ =
+d 2
+L −d
+(
+) 2 =
+d
+L −d
+ 
+ 
+ 
+and  
+ 
+ 
+ 
+cos θ =
+1−sin2 θ = 1−
+d
+L −d
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1
+2
+cos θ =
+L2 −2dL + d2
+(
+)−d2
+L −d
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1
+2
+cos θ =
+L2 −2dL
+L −d
+ 
+ 
+ 
+Considering the mass, 
+ 
+ 
+  
+Fy
+∑
+= 0:  2T cos θ = mg →T =
+mg
+2cos θ
+ 
+ 
+ 
+or 
+T =
+mg L −d
+(
+)
+2 L2 −2dL
+. 
+ 
+(b) The speed of transverse waves in the string is v =
+T
+µ . 
+ 
+ 
+For the standing wave pattern shown (3 loops), d = 3
+2 λ,
+
+--- PAGE 55 ---
+988     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or 
+λ = 2d
+3 . 
+ 
+ 
+Thus, the required frequency is f = v
+λ =
+3
+2d
+mg L −d
+(
+)
+2µ L2 −2dL
+. 
+ 
+ 
+ 
+Challenge Problems 
+P18.87 
+The idea is that the tension on 
+the string after the force is 
+applied is the vector sum of the 
+wind force 
+
+F and the weight 
+Mg of the mass. 
+ 
+ 
+ 
+
+Tafter =
+
+F + Mg 
+ 
+Notice that this forms a right 
+triangle: 
+ 
+ 
+The relationship between the driving frequency and the string tension 
+is 
+ 
+ 
+ 
+f = n
+2L
+T
+µ
+ 
+ 
+Before and after the application of the wind force, the frequency f, 
+string mass density µ, and string length L are all held constant. Thus, 
+the string tension T is a function of only one variable, n. 
+ 
+ 
+ 
+f = n1
+2L
+T1
+µ ,    f = n2
+2L
+T2
+µ ;    thus    2Lf
+µ = n1 T1 = n2 T2 
+ 
+where n1 = 2 and n2 = 1:  
+ 
+Tafter = T2 = T1  n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ = Mg  n1
+n2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= Mg 2
+1
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4Mg 
+ANS. FIG. P18.87
+
+--- PAGE 56 ---
+Chapter 18     989 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+From the geometry of the right triangle, 
+ 
+ 
+ 
+T2
+2 = F2 + Mg
+(
+)
+2
+4Mg
+(
+)
+2 = F2 + Mg
+(
+)
+2 →F2 = 16 Mg
+(
+)
+2 −Mg
+(
+)
+2 = 15 Mg
+(
+)
+2
+F =
+15Mg
+ 
+P18.88  
+Equation 18.13 is 
+ 
+ 
+ 
+y t( ) =
+An sin2π fnt + Bn cos2π fnt
+(
+)
+∑
+=
+An sinnωt + Bn cosnωt
+(
+)
+∑
+ 
+ 
+(a) 
+Multiplying by sin mωt gives: 
+ 
+ 
+ 
+y t( )sinmωt =
+sinmωt An sinnωt + Bn cosnωt
+(
+)
+∑
+ 
+ 
+ 
+Integrating over one period T gives: 
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt =
+An sinnωt
+(
+)
+0
+T
+∫
+sinmωt
+(
+)dt
+∑
+                                              +
+Bn cosnωt
+(
+)
+0
+T
+∫
+∑
+sinmωt
+(
+)dt
+ 
+[1]
+ 
+ 
+ 
+Inspecting the left-hand side of the equation, we note that y(t) is a 
+positive constant A for half of the period T, and an equal but 
+negative constant –A for the other half period: 
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt =
+Asinmωt
+0
+T/2
+∫
+dt +
+−Asinmωt
+T/2
+T∫
+dt
+ 
+ 
+ 
+If we look at the first of the two integrals on the right:  
+ 
+ 
+ 
+Asinmωt
+0
+T/2
+∫
+dt = −A
+mω cosmωt
+0
+T/2
+= −A
+mω cosmω T
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−cosmω 0
+( )
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+which gives different answers depending on whether m is even or 
+odd: 
+ 
+ 
+ 
+If m is odd: = −A
+mω
+−1
+(
+) −1
+( )
+⎡⎣
+⎤⎦= 2A
+mω
+ 
+ 
+ 
+ 
+If m is even: = −A
+mω
+1( ) −1( )
+⎡⎣
+⎤⎦= 0    
+ 
+ 
+(because we are integrating over half periods).
+
+--- PAGE 57 ---
+990     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(a) 
+(b) 
+ANS. FIG. P18.88 
+ 
+ 
+The second of the two integrals on the right gives a similar result:  
+ 
+ 
+ 
+−Asinmωt
+T/2
+T∫
+dt = −−A
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟cosmωt
+T/2
+T
+                          = + A
+mω cosmω T( )−cosmω T
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+                          =
+2A
+mω
+⎛
+⎝⎜
+⎞
+⎠⎟  odd
+(0)
+even
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt =
+Asinmωt
+0
+T/2
+∫
+dt +
+−Asinmωt
+T/2
+T∫
+dt
+=
+2A
+mω  m odd
+0       m even
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
++
+2A
+mω m odd
+0      m even
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+ 
+ 
+ 
+Putting everything together, we have shown that 
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt =
+4A
+mω   m odd
+0        m even
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+(b) We can analyze the terms involving Bn on the right hand side of 
+eqn. [1] above: 
+ 
+ 
+ 
+Bn cosnωt
+(
+)
+0
+T
+∫
+∑
+sinmωt
+(
+)dt
+
+--- PAGE 58 ---
+Chapter 18     991 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Using the trigonometric identity  
+ 
+ 
+ 
+cosα sinβ = 1
+2 sin(α + β)−1
+2 sin(α −β)
+  
+ 
+ 
+we have 
+ 
+ 
+ 
+Bn cosnωt
+(
+)
+0
+T
+∫
+∑
+sinmωt
+(
+)dt
+               =
+1
+2 Bn
+sin(nωt + mωt)−sin(nωt −mωt)
+⎡⎣
+⎤⎦
+0
+T
+∫
+∑
+dt
+               =
+1
+2 Bn
+sin(n+ m)ωt −sin(n−m)ωt
+⎡⎣
+⎤⎦
+0
+T
+∫
+∑
+dt
+ 
+ 
+ 
+The sine function, whether the terms are (n + m) or (n – m), it 
+will always integrate to zero over any full multiple of a period: 
+ 
+ 
+ 
+=
+1
+2 Bn
+∑
+sin(n+ m)ωt −sin(n−m)ωt
+⎡⎣
+⎤⎦0
+T
+=
+1
+2 Bn
+∑
+0
+( ) = 0
+ 
+ 
+ 
+Thus, all the terms involving Bn on the right hand side of eqn. [1] 
+are equal to zero:  
+ 
+ 
+ 
+Bn cosnωt
+(
+)
+0
+T
+∫
+∑
+sinmωt
+(
+)dt = 0
+ 
+ 
+(c) 
+For all the terms on the right hand side of eqn.(1) with An: 
+ 
+ 
+ 
+An sinnωt 
+(
+)
+0
+T
+∫
+sinmωt
+(
+)dt
+∑
+ 
+ 
+ 
+Using the trigonometric identity  
+ 
+ 
+ 
+sinα sinβ = 1
+2 cos(α −β)−1
+2 cos(α + β)
+  
+ 
+ 
+we have  
+ 
+  
+ 
+An sinnωt 
+(
+)
+0
+T
+∫
+sinmωt
+(
+)dt
+∑
+                       =
+1
+2 An
+cos(nωt −mωt)−cos(nωt + mωt)
+[
+]
+0
+T
+∫
+∑
+dt
+                       =
+1
+2 An
+cos(n−m)ωt −cos(n+ m)ωt
+[
+]
+0
+T
+∫
+∑
+dt
+ 
+ 
+ 
+which can be integrated and evaluated at 0 and T: 
+ 
+ 
+ 
+=
+1
+2 An
+1
+(n−m)ω sin (n−m)ωt−
+1
+(n+ m)ω sin (n+ m)ωt
+⎡
+⎣⎢
+⎤
+⎦⎥
+∑
+0
+T
+
+--- PAGE 59 ---
+992     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The second term, when evaluated at 0 and T, always gives zero. 
+The same is true for the first term for all values of n except where 
+n = m. Thus, all the terms on the right hand side of eqn. (1) with 
+An are zero except when m = n.  
+ 
+(d) For n = m, we will do the integration separately:  
+ 
+ 
+ 
+An sinnωt
+(
+)
+0
+T
+∫
+sinmωt
+(
+)dt +
+Bn cosnωt
+(
+)
+0
+T
+∫
+∑
+sinmωt
+(
+)dt
+∑
+=
+An sinnωt
+(
+)
+0
+T
+∫
+sinmωt
+(
+)dt
+∑
++ 0
+= 1
+2 An=m [cos(n−m)ωt]dt
+0
+T
+∫
+= 1
+2 Am
+cos 0
+( )
+0
+T∫
+dt
+⎡⎣
+⎤⎦
+= 1
+2 Am
+1( )
+0
+T∫
+dt = Am
+2
+T −0
+[
+]= 1
+2 AmT
+ 
+ 
+ 
+Thus, the entire right side reduces to 1
+2 AmT. 
+ 
+(e) 
+Starting with our original Equation 18.13: 
+ 
+ 
+ 
+y t( ) =
+An sinnωt + Bn cosnωt
+(
+)
+∑
+ 
+ 
+ 
+notice that y(t) is an odd function of t: y(t) = –y(t), and the sine 
+function is also odd, but the cosine function is even. From these 
+observations, we can conclude that there are no cosine terms in 
+the Fourier series expansion of y(t); therefore, all the Bn = 0. Thus,  
+ 
+ 
+ 
+y t( ) =
+An sinnωt
+∑
+ 
+ 
+ 
+But we have shown in part (a) above that: 
+   
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt = 4A
+mω
+     
+ 
+ 
+where m must be odd, and in part (d) that: 
+ 
+ 
+ 
+y t( )sinmωt
+0
+T∫
+dt =
+sinmωt An sinnωt + Bn cosnωt
+(
+)
+0
+T
+∫
+dt
+∑
+= 1
+2 AmT
+ 
+ 
+ 
+where n = m.  
+ 
+ 
+Thus, for each An term: 1
+2 AnT = 4A
+nω
+. And because ω = 2π
+T , 
+ 
+ 
+ 
+4A
+nω = 1
+2 AnT →An = 8A
+nωT = 4A
+nπ
+2π
+ωT
+⎛
+⎝⎜
+⎞
+⎠⎟= 4A
+nπ
+
+--- PAGE 60 ---
+Chapter 18     993 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which we substitute in to give: 
+ 
+ 
+ 
+y t( ) = 
+4A
+nπ sinnωt
+n∑
+  
+ 
+ 
+where the summation is only over odd values of n.
+
+--- PAGE 61 ---
+994     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P18.2 
+See ANS. FIG. P18.2. 
+P18.4 
+(a) See ANS. FIG. P18.4 (a-e); (b) See ANS. FIG. P18.4 (f-j) 
+P18.6 
+(a) λ/4 = 0.113 m; (b) λ/2 = 0.227 m 
+P18.8 
+(a) 3.33 rad; (b) 283 Hz 
+P18.10 
+The man walks only through two minima; a third minimum is 
+impossible. 
+P18.12 
+0.500 s 
+P18.14 
+(a) The separation of adjacent nodes is Δx = π
+k = λ
+2 . The nodes are still 
+separated by half a wavelength; (b) Yes. The nodes are located at 
+kx + φ
+2 = nπ, so that x = nπ
+k −φ
+2k , which means that each node is 
+shifted φ
+2k
+ to the left by the phase difference between the traveling 
+waves in comparison to the case in which φ = 0. 
+P18.16 
+See P18.16 for full verification. 
+P18.18 
+(a) See ANS. FIG. P18.18; (b) In any one picture, the wavelength is the 
+smallest distance along the x axis that contains a nonrepeating shape. 
+The wavelength is λ = 4 m; (c) The frequency is the inverse of the 
+period. The period is the time the wave takes to go from a full 
+amplitude starting shape to the inversion of that shape and then back 
+to the original shape. The period is the time interval between the top 
+and bottom graphs: 20 ms. The frequency is 1/0.020 s = 50 Hz; (d) 4 m. 
+By comparison with the wave function y = 2Asin kx
+(
+)cosωt , we 
+identify k = π /2, and then compute λ = 2π /k; (e) 50 Hz. By 
+comparison with the wave function y = 2Asin kx
+(
+)cosωt , we identify 
+ω = 2π f = 100π . 
+P18.20 
+ (a) 0.600 m; (b) 30.0 Hz 
+P18.22 
+(a) 495 Hz; (b) 990 Hz 
+P18.24 
+(a) 5.20 m; (b) No. We do not know the speed of waves on the string. 
+P18.26 
+(a) 78.6 Hz; (b) 157 Hz, 236 Hz, 314 Hz 
+P18.28 
+(a) 4.90 × 10
+–3 kg/m; (b) 2; (c) no standing wave will form 
+P18.30 
+m = Mg cos θ
+4 f 2L
+
+--- PAGE 62 ---
+Chapter 18     995 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.32 
+291 Hz 
+P18.34 
+12 h, 24 min. The natural frequency of the water sloshing in the bay 
+agrees precisely with that of lunar excitation, so we identify the extra-
+high tides as amplified by resonance. 
+P18.36 
+9.00 Hz 
+P18.38 
+2.94 cm 
+P18.40 
+(a) 536 Hz; (b) 42.9 mm 
+P18.42 
+(a) 17.0 Hz; (b) 33.9 Hz; (c) 17.6 Hz, 35.1 Hz 
+P18.44 
+0.502 m and 0.837 m 
+P18.46 
+n(206 Hz) and n(84.5 Hz) 
+P18.48 
+(a) 0.085 8n Hz, with n = 1, 2, 3 . . . ; (b) It is a good rule. A car horn 
+would produce several or many of the closely-spaced resonance 
+frequencies of the air in the tunnel, so it would be great amplified. 
+P18.50 
+πr2v
+2Rf
+ 
+P18.52 
+It is impossible because a single column could not produce both 
+frequencies. 
+P18.54 
+1.16 m 
+P18.56 
+(a) 521 Hz or 525 Hz; (b) 526 Hz; (c) reduced by 1.14% 
+P18.58 
+85.7 Hz 
+P18.60 
+See P18.60 for a table of the frequencies of the harmonics of each note. 
+The second harmonic of E is close to the third harmonic of A, and the 
+fourth harmonic of C# is close to the fifth harmonic of A. 
+P18.62 (a) 0.522 m; (b) 316 Hz 
+P18.64 
+146 Hz 
+P18.66 
+(a) 5.0 Hz, 10.0 Hz, 15.0 Hz; (b) The frequency could be the fifth state at 
+25.0 Hz or any integer multiple, such as the tenth state at 50.0 Hz, the 
+fifteenth state at 75.0 Hz, and so on. 
+P18.68 
+(a) larger; (b) 2.43 
+P18.70 
+(a) the particle under constant acceleration model; (b) waves under 
+boundary conditions model; (c) Mg sin θ; (d) h 1+ sin θ
+sin θ
+⎛
+⎝⎜
+⎞
+⎠⎟;  
+(e) 
+m sin θ
+h 1+ sin θ
+(
+) ; (f) 
+Mgh
+m
+1+ sin θ
+(
+) ; (g) 
+Mg
+4mh 1+ sin θ
+(
+) ; (h) 121 Hz; 
+(i) 60.6 Hz
+
+--- PAGE 63 ---
+996     Superposition and Standing Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P18.72 
+(a) greatest integer ≤d
+f
+v
+⎛
+⎝
+⎞
+⎠+ 1
+2 ;  
+(b) Ln =
+d2 −n−1
+2
+(
+)
+2
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2 n−1
+2
+(
+)
+v
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+, where n = 1, 2, …, nmax 
+P18.74 
+(a) dλ
+dt = d
+dt 2L
+(
+) = d
+dt 2 L0 + 1
+2 at2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 2at = 2 0.800 m/s2
+(
+) 1.20 s
+(
+) = 1.92 
+m/s; (b) 0.960 m/s, half as much as for the first harmonic; (c) Yes. A 
+yo-yo of different mass will hold the string under different tension to 
+make each string wave vibrate with a different frequency, but the 
+geometrical argument given in part (a) still applies to the wavelength; 
+(d) Yes, for the same reason as (c); the geometrical argument given in 
+part (b) still applies to the wavelength. 
+P18.76 
+(a) 14.3 m/s; (b) 86.0 cm, 28.7 cm, 17.2 cm; (c) 4.14 Hz, 12.4 Hz, 20.7 Hz 
+P18.78 
+(a) 3.99 Hz; (b) 3.99 Hz 
+P18.80 
+(a) 59.9 Hz; (b) 20.0 cm 
+P18.82 
+(a) frequency should be halved; (b) 
+n
+n + 1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+T; (c) 
+′
+T
+T = 9
+16
+ 
+P18.84 
+(a) 0.656 m; (b) 13.5° C 
+P18.86 
+(a) mg L −d
+(
+)
+2 L2 −2dL
+; (b) 3
+2d
+mg L −d
+(
+)
+2µ L2 −2dL
+ 
+P18.88 
+(a) see P18.88(a) for full explanation; (b) see P18.88(b) for full 
+explanation; (c) See P18.88(c) for full explanation; (d) see P18.88(d) for 
+full explanation; (e) see P18.88(e) for full explanation.

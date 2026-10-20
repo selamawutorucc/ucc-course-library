@@ -1,0 +1,396 @@
+EXPERIMENT 4            
+  SM/ SMS/08/0015.   
+                                                                                                                                                          19TH SEPTEMBER, 2008.
+              TITLE: AN EXPERIMENT ON NEWTON’S LAW OF COOLING FOR A LIQUID.
+              AIM: To verify the Newton’s law of cooling for a liquid (water).
+           APPARATUS: Stop-watch, thermometer, calorimeter, stirrer, beaker.
+           DIAGRAM:
+THEORY: Newton’s law of cooling states that for a small difference of temperature between a body and its     surroundings, the rate of gain or loss of heat by the body is proportional to the difference in temperature between the body and the surroundings.
+                  α (θ-θο)
+                  =k (θ-θ
+   METHOD: The thermometer was first put near the calorimeter and the temperature of the surroundings was determined and recorded. The liquid (water) was heated in a beaker to a temperature of 90 on a stove. The water was poured into the calorimeter from the beaker to within centimeter of the top and the lid, the thermometer and stirrer were put in position inside the calorimeter. The various temperatures indicated on the thermometer were determined and recorded at minute intervals down to 35 as the cooling liquid was well stirred all the time. At the end of the experiment, the temperature of the surroundings again was measured using the thermometer. The results were then recorded in a table.
+TABLE OF RESULTS.
+                   Initial temperature of water =90
+                   Least count of stop-watch=0.1s
+                    Least value of thermometer=1.0
+                   Temperature of surrounding=29  
+                   Temperature of surroundings after the experiment=29
+TABLE 1.                                                                                                         TABLE 2.
+Time/s | Temperature/ |  | (θ-θο)/οC | Slope/s-1 | 
+0 | 90 |  | 59 | 2.20 | 
+1 | 88 |  | 41 | 1.67 | 
+2 | 86 |  | 33 | 1.50 | 
+3 | 84 |  | 26 | 1.25 | 
+4 | 82 |  | 16 | 1.00 | 
+5 | 80 |  | 6 | 0.80 | 
+6 | 79 |  |  |  | 
+7 | 77 |  |  |  | 
+8 | 76 |  | 
+
+
+
+ | 
+
+
+
+ | 
+9 | 75 |  | 
+
+
+
+ | 
+
+
+
+ | 
+10 | 74 |  | 
+
+
+
+ | 
+
+
+
+ | 
+11 | 72 |  | 
+
+
+
+ | 
+
+
+
+ | 
+12 | 71 |  | 
+
+
+
+ | 
+
+
+
+ | 
+13 | 70 |  | 
+
+
+
+ | 
+
+
+
+ | 
+14 | 69 |  | 
+
+
+
+ | 
+
+
+
+ | 
+15 | 68 |  | 
+
+
+
+ | 
+
+
+
+ | 
+16 | 67 |  | 
+
+
+
+ | 
+
+
+
+ | 
+17 | 66 |  | 
+
+
+
+ | 
+
+
+
+ | 
+18 | 65 |  | 
+
+
+
+ | 
+
+
+
+ | 
+19 | 64 |  | 
+
+
+
+ | 
+
+
+
+ | 
+20 | 63 |  | 
+
+
+
+ | 
+
+
+
+ | 
+21 | 62 |  | 
+
+
+
+ | 
+
+
+
+ | 
+22 | 61 |  | 
+
+
+
+ | 
+
+
+
+ | 
+23 | 60 |  | 
+
+
+
+ | 
+
+
+
+ | 
+24 | 59 |  | 
+
+
+
+ | 
+
+
+
+ | 
+25 | 58 |  | 
+
+
+
+ | 
+
+
+
+ | 
+26 | 57 |  | 
+
+
+
+ | 
+
+
+
+ | 
+27 | 56 |  | 
+
+
+
+ | 
+
+
+
+ | 
+28 | 55 |  | 
+
+
+
+ | 
+
+
+
+ | 
+29 | 53 |  | 
+
+
+
+ | 
+
+
+
+ | 
+30 | 52 |  | 
+
+
+
+ | 
+
+
+
+ | 
+31 | 51 |  | 
+
+
+
+ | 
+
+
+
+ | 
+32 | 50
+33 | 49
+34 | 47
+35 | 46
+36 | 46
+37 | 45
+38 | 45
+39 | 44
+40 | 43
+41 | 43
+42 | 42
+43 | 41
+44 | 41
+45 | 40
+46 | 39
+47 | 39
+48 | 38
+49 | 38
+50 | 37
+51 | 37
+52 | 36
+53 | 36
+54 | 35
+Figure 1: The graph of Temperature () against the time(s) of the calorimeter.
+
+
+
+
+
+              Figure 2:The graph of the slope(-1) against change in                       temperature(θ-θο)
+
+
+         
+    CALCULATIONS: To find the slope, s, at the six different points,
+           Slope at first point (88) =
+                                                        =2.20s
+           Slope at second point with temperature (70) =
+                                                                                              =1.67
+            Slope at third point with temperature (60) =
+                                                                                            =1.50
+             Slope at fourth point with temperature (52) =
+                                                                                                 =1.25
+                                                                                               
+           Slope at fifth point with temperature (43)  =
+                                                                                          =1.00
+           Slope at sixth point with temperature (37) =
+                                                                                          =0.75
+   DISCUSSION: From the graph, it was observed that from the 1st                      `minute to the seventh minute, the temperature was reducing by 2 and then from the 8th minute   onwards, the temperature reduced by every 1 with some of the values repeating themselves. Thus the nature of the curve was in a descending form with negative slopes. From the table and graph showing the mean temperature against the slope it is seen that the graph gives a straight line indicating that the rate of loss of heat is proportional to the excess temperature at any instant.
+      SOURCES OF ERROR: 
+Touching the thermometer constantly supplied heat to it and so affected reading accuracy.
+The holes in the calorimeter lid were quite big for the thermometer and so affected results. 
+       PRECAUTIONS:
+It was ensured that the water was stirred carefully and continuously in order to ensure uniform distribution of heat and rapid cooling in the water.
+It was ensured that the calorimeter was lagged and covered to prevent heat loss     to the surroundings.
+It was ensured that the water boiled to the temperature required (90) and then transferred quickly into the calorimeter to prevent heat loss.
+        CONCLUSION: 
+          From the graph of change in temperature against the slope, it can be                                            concluded   that  α (θ-θο ) verifies Newton’s law since it gives a straight    line.       
+          REFERENCES:
+Nelkon and Parker, Advanced Level Physics:7th Edition.
+www.google.com.
+
+            
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 

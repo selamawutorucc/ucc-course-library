@@ -1,0 +1,337 @@
+
+--- SLIDE 1 ---
+ACCRA INSTITUTE OF TECHNOLOGY
+
+
+ENGL 101: English Composition, Writing and Communication Skills I
+
+
+
+--- SLIDE 2 ---
+Lecture 1
+In this lecture we shall do,
+Introductions
+A discussion of the course outline
+Focus on Nouns
+
+
+
+
+--- SLIDE 3 ---
+Nouns
+By the end of this lecture, the learner will be able to:
+Identify nouns and types of nouns
+Identify the functions of nouns in a sentence
+State the singular and plural forms of some nouns
+
+
+--- SLIDE 4 ---
+Definition 
+- a word that names a 
+Person: Olumide, Ama, driver, nurse
+Place: Oshodi, Accra, town, roof
+Animal: cat, vulture, salmon
+Things: pen, laptop, fan
+Idea: honesty, democracy, wisdom
+Action: jumping, writing, swimming
+Emotion: love, hatred, envy
+
+
+
+--- SLIDE 5 ---
+Types 
+Generally, there are two kinds:
+
+Proper Nouns | Common Nouns
+It names particular person, place or thing
+
+It deals with specificity
+
+It begins with capital letter whenever it occurs in a sentence | It names any person etc
+
+Generality
+
+Begins with small letter …
+
+--- SLIDE 6 ---
+Types of common nouns
+Abstract  | Concrete | Collective
+Names intangibles
+
+Referents can’t be seen or touched
+
+Generally preceded by the definite article “the” 
+ | Names tangible things
+
+Referents can be seen or touched
+
+Are usually preceded by “a”, “an” or “the” | Names a group of people/tangibles/intangibles 
+
+Referents can or not be or seen and or touched
+
+May be preceded by “a”, “an” or “the”
+
+Examples: power, courage, loyalty, faith, intelligence | Car, table, door, man, chair, ball, phone, tv | Shoal, gang, audience, herd, class, army, bevy
+ |  | 
+
+--- SLIDE 7 ---
+Countable and Uncountable
+Another classification of nouns; common nouns
+
+Countable nouns
+  | Un/Non- Countable nouns
+-nouns we can count
+ | -nouns cannot be counted
+
+Baby, bird, book, box, child, day, dog, friend, son, village | Air, furniture, health, honesty, water, power, sand, zeal
+ | 
+
+--- SLIDE 8 ---
+Functions of nouns
+Can occur at the beginning, middle or end of a sentence. Its position determines its functions.  Based on its position, a noun may be:
+Subject (grammatical and logical)
+Direct object
+Indirect object
+Complement of a verb
+Subject complement
+Object complement
+Object of a preposition
+Apposition
+
+
+--- SLIDE 9 ---
+Noun as subject
+A subject is the noun or pronoun that performs an action in a sentence or that exists in a particular way
+
+The goat ate the cassava peel.
+Pawpaws are fruits.
+Some little cows kicked the young boy
+Some guys were here to look for you.
+
+* ‘are’ and ‘were’ are stative verbs and do not express any action
+ 
+
+
+--- SLIDE 10 ---
+Kinds of Subjects
+Simple subject: a single noun/pronoun
+Complete subject: a noun and all words that relate to it
+Compound subjects: two or more nouns of the same verb
+
+E.g. SS= The girl is brilliant.
+       Ct.S= The cute girl is brilliant. 
+       CS= Zinzin and Dondon are brilliant too.
+
+--- SLIDE 11 ---
+Noun as Object
+An object of a verb is either a noun or a pronoun that receives or suffers an action directly or indirectly from the subject. 
+
+If the noun/pronoun receives the action from the subject directly, then it is a direct object.
+
+If noun/pronoun receives the action indirectly, it is an indirect object.
+
+--- SLIDE 12 ---
+Examples 
+John slapped Luke. 
+                               Direct Obj.
+
+Daniel awarded Lucy    a trophy.
+                                Ind. Obj.  Direct Obj
+
+Anna awarded a trophy to Mark.
+                                Direct Obj    Ind. Obj.
+
+--- SLIDE 13 ---
+Noun as Complement
+Generally, a complement is a noun, pronoun, adjective, adverb that completes the meaning initiated by the subject and its verb.
+Subj. complement refers to the subject, explains it further, and can replace it.
+Eg. Professor Sampson is a lawyer
+       Subj.                           Complement
+      Luke is my name 
+      Subj.     Complement
+
+Object complement has direct relationship with the object
+Eg. They always make her            the secretary.
+      Subj                          Obj            Complement
+     The judge declared Daniel  the loser.
+     Subj                           Obj              Complement
+
+
+
+
+--- SLIDE 14 ---
+Noun as Obj. of Preposition
+A noun phrase, a noun, pronoun or a gerund that complements the meaning initiated by the preposition
+
+Eg. 1. They went to      the stream.
+                              prep  noun phrase (obj)
+
+      2. Present the cup to      Zinzin.
+                                       prep  noun
+
+      3. Dondon gave the cup to      him.
+                                                 prep pronoun
+
+     4. He embraced the idea with   understanding.
+                                                  prep   gerund
+      
+
+--- SLIDE 15 ---
+Noun as Apposition
+An apposition or appositive= noun or group of words that act as a noun and means the same as the preceding noun and explains it
+
+Eg. Tony, my best friend, is brilliant.
+                Apposition
+
+  Bobo, the first leader of  Ghana, died in 2015.
+               Apposition
+
+Amma’s dream, to visit the Bahamas, finally came true.
+                              Apposition
+
+
+
+--- SLIDE 16 ---
+EXERCISE
+INDICATE THE NOUNS IN THE FOLLOWING SENTENCES AND STATE THEIR FUNCTIONS AS WELL.
+Mr. Ram leads the team
+The monkeys destroyed the garden. 
+I saw him in his office. 
+The girl returns from school. 
+The prefect, John, is very hard working.
+Rita, my sister, lives in Accra
+Agya koo is a comedian.
+Simon has certainly taken my book.
+The spectators watched the match.
+They sent an invitation to the young woman. 
+
+
+
+
+--- SLIDE 17 ---
+Plural forms of Nouns
+Rule 1.  add ‘s’. The ‘s’ is pronounced as ‘s’ or ‘z’ depending on whether the letter it follows is voiced or voiceless.
+Examples:
+
+Voiceless consonant | Voiced consonant | Examples
+p | b | Cups /kaps/, bulbs /bulbz/
+t | d | Belts /belts/, toads /toadz/
+k | g | Books /books/,  dogs /dogz/
+f | v | Beliefs /beliefs/, loaves /loavz/
+
+--- SLIDE 18 ---
+Rule 2. The ‘es’. 
+
+Singular nouns that end in ‘s’, ‘x’, ‘z’, ‘ch’, ‘sh’, take ‘es’ as plural marker
+
+Examples: Bus- buses; box-boxes, church-churches etc
+
+(Some) singular nouns that end in ‘o’, take ‘es’
+Examples: echo-echoes, hero-heroes etc.
+
+Some singular nouns ending in ‘o’ may take ‘s’ or ‘es’ as plural markers
+
+Examples: buffalo-buffalos/es, flamingo-flamingos/es, volcano-volcanos/es, commando-commandos/es
+
+
+
+--- SLIDE 19 ---
+Rule 3. ‘-ies’
+
+Singular nouns that end in ‘y’ take away ‘y’ and replace it with ‘ies’
+Examples: baby-babies, lady-ladies, city-cities
+
+Exceptions
+-Proper nouns/geographical locations maintain the ‘s’. Eg. The Obamas, the two Germanys etc.
+
+-When ‘y’ follows a vowel, it maintains the ‘s’
+Eg. Days, boys, journeys etc
+
+-Numerals. Eg. In the 1970s, the 1970’s
+
+-Abbreviations. Eg. Two MPs, two MP’s etc
+
+
+--- SLIDE 20 ---
+Rule 4. ‘ves’. 
+Singular nouns that end in ‘f’ or ‘fe’ change endings to ‘ves’
+Examples: calf-calves, wolf-wolves etc.
+
+Exceptions
+-Some maintain ‘s’. Eg. Cliffs, beliefs etc.
+-Some take ‘s’ or ‘ves’ Eg. hoofs/ves, scarfs/ves etc.
+
+--- SLIDE 21 ---
+Rule 5. ‘en’
+-Occurs in 3 main areas eg. Brother- brethren, child-children, ox-oxen
+
+Rule 6. Mutation Plurals: these are formed through change of vowels in the singular noun to form plurals
+Eg. Foot-feet, louse-lice, die-dice etc.
+
+Rule 7: nouns that always end in ‘s’
+Summation plurals: tools, articles or dresses consisting of two equal parts. We use countability by means of “a pair of”
+Eg.  a pair of scissors, a pair of tongs, a pair of shorts
+
+Note: three pairs of trousers
+
+--- SLIDE 22 ---
+Others that take just ‘s’
+
+-edibles: oats, grapes
+-collective elements: barracks, goods
+-some proper nouns: Netherlands, West Indies
+-some games: cards, draughts
+-sicknesses: measles, rickets
+-nouns relating to money: savings, stocks
+-subject names that end in ‘ics’: classics, linguistics, mathematics, phonetics etc
+
+--- SLIDE 23 ---
+Rule 8: Zero plural marker: don’t take ‘s’ plural marker at all
+
+Examples
+-some species of animals without ‘s’: deer, sheep
+-some species of animals with or without ‘s’: antelope, reindeer, herring
+-those that are completely zero: salmon, grouse
+-nouns of nationalities in ‘ese’: Chinese, Portuguese
+
+*used more in the context of hunting, but when they are used to refer to denote individuals or species, they take ‘s’ eg. Fishes (salmon, tuna, tilapia etc.)
+
+--- SLIDE 24 ---
+Rule 9: nouns with a sense of collectivity: don’t take plural marker ‘s’.
+Eg. Intelligence, information, equipment
+
+Rule 10. Nouns ending in ‘s’ with singular verbs e.g. news, Wales, the United States
+
+Rule 11. nouns in singular form but followed by plural verbs. Eg. People, police
+
+Rule 12. nouns ending in ‘s’ taking either singular or plural verbs. Eg. Series, species
+
+--- SLIDE 25 ---
+Rule 13. initials, letters or numbers taking ‘s’
+Eg. Initials: D.Js (Disc Jockeys)
+      Letters: the three Rs (R’s)
+      Numbers: the 60s
+
+Rule 14. invariable words (adjectives, conjunctions, pronouns) taking ‘s’. eg. Ups, downs, ifs, buts
+
+Rule 15. nouns that only occur in their plural forms. Eg. Auspices, customs, the commons
+
+Rule 16. nouns ending ‘us’ take ‘es’. Eg. Bonus-bonuses, choruses
+
+Rule 17. add ‘es’ or ‘i’ to the following nouns ending in ‘us’
+Cactus, focus, syllabus, fungus, nucleus, terminus
+
+--- SLIDE 26 ---
+EXERCISE
+PUT THE FOLLOWING NOUNS INTO THEIR PLURAL FORMS
+
+
+--- SLIDE 27 ---
+
+
+
+The End of lecture 1.
+
+--- SLIDE 28 ---
+Questions 
+

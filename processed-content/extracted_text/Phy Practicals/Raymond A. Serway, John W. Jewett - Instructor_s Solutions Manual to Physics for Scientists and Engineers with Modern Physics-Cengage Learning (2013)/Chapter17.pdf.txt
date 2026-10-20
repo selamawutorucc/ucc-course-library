@@ -1,0 +1,4712 @@
+
+--- PAGE 1 ---
+892 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+17 
+Sound Waves 
+ 
+CHAPTER OUTLINE 
+ 
+17.1  
+Pressure Variations in Sound Waves 
+17.2  
+Speed of Sound Waves 
+17.3  
+Intensity of Periodic Sound Waves 
+17.4 
+The Doppler Effect 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ17.1 
+Answer (b). The typically higher density would by itself make the 
+speed of sound lower in a solid compared to a gas. 
+OQ17.2 
+Answer (e). The speed of sound in air, at atmospheric pressure, is 
+determined by the temperature of the air and does not depend on the 
+frequency of the sound. Sound from siren A will have a wavelength 
+that is half the wavelength of the sound from B, but the speed of the 
+sound (the product of frequency times wavelength) will be the same 
+for the two sirens. 
+OQ17.3 
+Answer (c). The ambulance driver, sitting at a fixed distance from the 
+siren, hears the actual frequency emitted by the siren. However, the 
+distance between you and the siren is decreasing, so you will detect a 
+frequency higher than the actual 500 Hz. 
+OQ17.4 
+Answer (d). When a sound wave travels from air into water, several 
+properties will change. The wave speed will increase as the wave 
+crosses the boundary into the water causing the spacing between 
+crests (the wavelength) to increase, because crests move away from 
+the boundary faster than they move up to the boundary. The sound 
+intensity in the water will be less than it was in air because some 
+sound is reflected by the water surface. However, the frequency 
+(number of crests passing each second) will be unchanged, since a
+
+--- PAGE 2 ---
+Chapter 17     893 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+crest moves away from the boundary every time a crest arrives at the 
+boundary. 
+OQ17.5 
+Answer (d). The drop in intensity is what we should expect 
+according to the inverse-square law:  
+ 
+ 
+I1
+I2
+= r1
+2
+r2
+2 :     2 µW/m2
+0.2 µW/m2 = 10 = 950 m
+(
+)
+2
+300 m
+(
+)
+2
+  
+OQ17.6 
+Answer (d). We have fs = 1 000 Hz, v = 343 m/s, vo = −30 m/s,  
+vs = 50 m/s. We find 
+ 
+ 
+′f = f v + vo
+(
+)
+v −vs
+(
+)
+= 1 000 Hz
+(
+) 343 m/s
+(
+)+ −30 m/s
+(
+)
+[
+]
+343 m/s −50 m/s
+= 1 068 Hz
+ 
+OQ17.7  
+Answer (b). A sound wave is a longitudinal vibration that is 
+propagated through a material medium. 
+OQ17.8 
+(i) 
+Answer (b). The frequency increases by a factor of 2 because the 
+wave speed, which is dependent only on the medium through 
+which the wave travels, remains constant. 
+ 
+(ii) Answer (c). 
+OQ17.9 
+Answer (a) We suppose that a point source has no structure, and 
+radiates sound equally in all directions (isotropically). The sound 
+wavefronts are expanding spheres, so the area over which the sound 
+energy spreads increases according to A = 4π r2. Thus, if the distance 
+is tripled, the area increases by a factor of nine, and the new intensity 
+will be one-ninth of the old intensity. This answer according to the 
+inverse-square law applies if the medium is uniform and 
+unbounded. For contrast, suppose that the sound is confined to move 
+in a horizontal layer. (Thermal stratification in an ocean can have this 
+effect on sonar “pings.”) Then the area over which the sound energy 
+is dispersed will only increase according to the circumference of an 
+expanding circle: A = 2π rh, and so three times the distance will 
+result in one-third the intensity. In the case of an entirely enclosed 
+speaking tube (such as a ship’s telephone), the area perpendicular to 
+the energy flow stays the same, and increasing the distance will not 
+change the intensity appreciably. 
+OQ17.10 
+(i) 
+Answer (c). Both observer and source have equal speeds in 
+opposite directions relative to the medium, so in 
+′f = (v + vo)/(v −vs) we would have something like  
+(343 − 25)f/(343 − 25) = f.
+
+--- PAGE 3 ---
+894     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) Answer (a). The speed of the medium adds to the speed of 
+sound as far as the observer is concerned, to cause an increase in 
+λ = v/f. The wind “stretches” the wavelength out. 
+ 
+(iii) Answer (a). 
+OQ17.11 
+In order of decreasing size we have (b) > (d) > (a) > (c) > (e). In 
+′f = f (v + vo)
+[
+]
+(v −vs)
+[
+] we can consider the size of the fraction 
+(v + vo) (v −vs) in each case, where the positive direction for the 
+observer is toward the source, the positive direction for the source is 
+toward the observer: (a) 343/343 = 1, (b) 343/(343 − 25) = 1.08, (c) 
+343/(343 + 25) = 0.932, (d) (343 + 25)/343 = 1.07, (e) (343 − 25)/343 = 
+0.927. 
+OQ17.12 
+Answer (c). The intensity is about 10
+−13 W/m
+2. 
+OQ17.13 
+Answer (c). Doubling the power output of the source will double the 
+intensity of the sound at the observer’s location. The original decibel 
+level of the sound is β = 10⋅log I I0
+(
+) . After doubling the power 
+output and intensity, the new decibel level will be 
+ 
+ 
+′
+β = 10⋅log 2I I0
+(
+) = 10⋅log 2 I I0
+(
+)
+⎡⎣
+⎤⎦= 10⋅log 2
+( )+ log I I0
+(
+)
+⎡⎣
+⎤⎦
+= 10⋅log 2
+( )+ β
+ 
+ 
+so the increase in decibel level is ′
+β −β = 10⋅log 2
+( ) = 3.0 dB, making 
+(c) the correct answer. 
+OQ17.14 
+Answer (c). The threshold of human hearing is defined as 0 dB; the 
+average person cannot hear sound with a lower intensity level. 
+Normal conversation has an intensity level of about 60 dB. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ17.1 
+For the sound from a source not to shift in frequency, the radial 
+velocity of the source relative to the observer must be zero; that is, 
+the source must not be moving toward or away from the observer. 
+The source can be moving in a plane perpendicular to the line 
+between it and the observer. Other possibilities: The source and 
+observer might both have zero velocity. They might have equal 
+velocities relative to the medium. The source might be moving 
+around the observer on a sphere of constant radius. Even if the 
+source speeds up on the sphere, slows down, or stops, the frequency 
+heard will be equal to the frequency emitted by the source. 
+CQ17.2 
+The speed of sound in air is proportional to the square-root of the 
+absolute temperature, T. The speed of sound is greater in warmer
+
+--- PAGE 4 ---
+Chapter 17     895 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+air, so the pulse from the camera would return sooner than it would 
+on a cooler day from an object at the same distance. The camera 
+would interpret an object as being closer than it actually is on a hot 
+day. 
+CQ17.3 
+The speed of sound to two significant figures is 340 m/s. Let’s 
+assume that you can measure time to 1
+10
+ second by using a 
+stopwatch. To get a speed to two significant figures, you need to 
+measure a time of at least 1.0 seconds. Since d = vt, the minimum 
+distance is 340 meters. 
+CQ17.4 
+When listening, you are approximately the same distance from all of 
+the members of the group. If different frequencies traveled at 
+different speeds, then you might hear the higher pitched frequencies 
+before you heard the lower ones produced at the same time. 
+CQ17.5 
+The speed of light is so high that the arrival of the flash is practically 
+simultaneous with the lightning discharge. Thus, the delay between 
+the flash and the arrival of the sound of thunder is the time sound 
+takes to travel the distance separating the lightning from you. By 
+counting the seconds between the flash and thunder and knowing 
+the approximate speed of sound in air, you have a rough measure of 
+the distance to the lightning bolt. 
+CQ17.6 
+Both. There are actually two Doppler shifts. The first shift arises from 
+the source (you) moving toward the observer (the cliff). The second 
+arises from the observer (you) moving toward the source (the cliff). 
+If, instead of a cliff, there is a spacecraft moving toward you, then 
+there are shifts due to moving source (you) and moving observer (the 
+spacecraft) before reflection, and moving source (the spacecraft) and 
+moving observer (you) after reflection. 
+CQ17.7 
+A beam of radio waves of known frequency is sent toward a 
+speeding car, which reflects the beam back to a detector in the police 
+car. The amount the returning frequency has been shifted depends 
+on the velocity of the oncoming car. 
+CQ17.8 
+Our brave Siberian saw the first wave he encountered, light traveling 
+at 3.00 × 10
+8 m/s. At the same moment, infrared as well as visible 
+light began warming his skin, but some time was required to raise 
+the temperature of the outer skin layers before he noticed it. The 
+meteor produced compressional waves in the air and in the ground. 
+The wave in the ground, which can be called either sound or a 
+seismic wave, traveled much faster than the wave in air, since the 
+ground is much stiffer against compression. Our witness received it 
+next and noticed it as a little earthquake. He was no doubt unable to 
+distinguish the P and S waves from each other. The first air-
+
+--- PAGE 5 ---
+896     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+compression wave he received was a shock wave with an amplitude 
+on the order of meters. It transported him off his doorstep. Then he 
+could hear some additional direct sound, reflected sound, and 
+perhaps the sound of the falling trees. 
+CQ17.9 
+If an object is a half meter from the sonic ranger, then the sensor 
+would have to measure how long it would take for a sound pulse to 
+travel one meter. Because sound of any frequency moves at about 
+343 m/s, the sonic ranger would have to be able to measure a time 
+difference of under 0.003 seconds. This small time measurement is 
+possible with modern electronics, but it would be more expensive to 
+outfit sonic rangers with the more sensitive equipment than it is to 
+print “do not use to measure distances less than 1
+2
+ meter” in the 
+users’ manual. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 17.1 
+Pressure Variations in Sound Waves 
+P17.1 
+(a) 
+A = 2.00 µm 
+ 
+(b) 
+λ = 2π
+15.7
+= 0.400 m = 40.0 cm 
+ 
+(c) 
+v = ω
+k
+= 858
+15.7
+= 54.6 m s 
+ 
+(d) 
+s = 2.00 cos
+15.7
+(
+) 0.050 0
+(
+) −858
+(
+) 3.00 × 10−3
+(
+)
+⎡⎣
+⎤⎦= −0.433 µm 
+ 
+(e) 
+vmax = Aω = 2.00 µm
+(
+) 858 s−1
+(
+) = 1.72 mm s 
+P17.2 
+(a) 
+ΔP = 1.27 Pa
+(
+)sin π x
+m
+−340π t
+s
+⎛
+⎝⎜
+⎞
+⎠⎟ (SI units) 
+ 
+ 
+The pressure amplitude is: ΔPmax = 1.27 Pa 
+ 
+(b) 
+ω = 2π f = 340π s, so f = 170 Hz 
+ 
+(c) 
+k = 2π
+λ = π m, giving λ = 2.00 m 
+ 
+(d) 
+v = λ f = 2.00 m
+(
+) 170 Hz
+(
+) = 340 m/s
+
+--- PAGE 6 ---
+Chapter 17     897 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.3 
+We write the pressure variation as ΔP = ΔPmax sin kx −ωt
+(
+). Note that 
+ 
+ 
+ 
+k = 2π
+λ
+=
+2π
+0.100 m
+(
+)
+= 62.8 m−1 
+ 
+and  
+ω = 2π v
+λ
+= 2π 343 m s
+(
+)
+0.100 m
+(
+)
+= 2.16 × 104 s−1. 
+ 
+Therefore, 
+ 
+ 
+ 
+ΔP = 0.200 sin 62.8x −2.16 × 104t
+⎡⎣
+⎤⎦
+  
+ 
+where ΔP is in Pa, x is in meters, and t is in seconds. 
+ 
+ 
+ 
+Section 17.2 
+Speed of Sound Waves 
+P17.4 
+We use ΔPmax = ρvω smax = ρv 2π v
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟smax: 
+ 
+λmin = 2πρv2smax
+ΔPmax
+=
+2π 1.20 kg/m3
+(
+) 343 m/s
+(
+)
+2 5.50 × 10−6 m
+(
+)
+0.840 Pa
+= 5.81 m
+ 
+*P17.5 
+ΔPmax = ρω vsmax = 1.20 kg m3
+(
+) 2π 2 000 s−1
+(
+)
+[
+] 343 m s
+(
+) 2.00 × 10−8 m
+(
+) 
+ 
+ΔPmax = 0.103 Pa 
+P17.6 
+The speed of longitudinal waves in a fluid is v =
+B ρ. Considering 
+the Earth’s crust to consist of a very viscous fluid, our estimate of the 
+average bulk modulus of the material in Earth’s crust is 
+ 
+ 
+ 
+B = ρv2 = 2 500kg m3
+(
+) 7 × 103 m s
+(
+)
+2 = 1× 1011 Pa 
+P17.7 
+The sound pulse must travel 150 m before reflection and 150 m after 
+reflection. We have d = vt: 
+ 
+ 
+ 
+t = d
+v
+=
+300 m
+1 533 m s
+= 0.196 s
+
+--- PAGE 7 ---
+898     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.8 
+(a) 
+The speed gradually changes from 
+v = (331 m/s)(1+ 27.0°C
+273°C )1/2 = 347 m/s 
+to 
+v = (331 m/s)(1+ 0°C
+273°C )1/2 = 331 m/s
+a 4.6% decrease. The cooler air at the same pressure is 
+more dense.
+ 
+ 
+(b) 
+The frequency is unchanged because every wave crest in the hot
+air becomes one crest without delay in the cold air.
+ 
+ 
+(c) 
+The wavelength decreases by 4.6%, from 
+v/f = (347 m/s)/(4000/s) = 86.7 mm 
+to 
+v/f = (331 m/s)/(4000/s) = 82.8 mm
+The crests are more crowded together when they move 
+more slowly.
+ 
+P17.9 
+(a) 
+If  f = 2.40 MHz, 
+λ = v
+f =
+1 500 m/s
+2.40 × 106 s−1 = 0.625 mm 
+ 
+(b) If  f = 1.00 MHz, 
+λ = v
+f = 1 500 m/s
+106 s−1
+= 1.50 mm 
+ 
+ 
+If  f = 20.0 MHz, 
+λ = 1 500 m/s
+2 × 107 s−1 = 75.0 µm 
+P17.10 
+ΔPmax = ρvω smax 
+ 
+smax = ΔPmax
+ρvω =
+4.00 × 10−3 N m2
+1.20 kg m3
+(
+) 343 m s
+(
+) 2π
+(
+) 10.0 × 103 s−1
+(
+)
+= 1.55 × 10−10 m
+ 
+P17.11 
+(a) 
+Since vlight >> vsound, and assuming that the speed of sound is 
+constant through the air between the lightning strike and the 
+observer, we have  
+ 
+ 
+ 
+d ≈343 m s
+(
+) 16.2 s
+(
+) = 5.56 km 
+ 
+(b) 
+No, we do not need to know the value of the speed of light.
+The speed of light is much greater than the speed of sound,
+so the time interval required for the light to reach you is
+negligible compared to the time interval for the sound.
+
+--- PAGE 8 ---
+Chapter 17     899 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.12 
+It is easiest to solve part (b) first: 
+ 
+(b) The distance the sound travels to the plane is  
+ 
+ 
+ 
+ds =
+h2 + h
+2
+⎛
+⎝⎜⎞
+⎠⎟
+2
+= h 5
+2
+ 
+ 
+ 
+The sound travels this distance in 2.00 s, so 
+ 
+ 
+ 
+ds = h 5
+2
+= 343 m s
+(
+) 2.00 s
+(
+) = 686 m 
+ 
+ 
+giving the altitude of the plane as h = 2 686 m
+(
+)
+5
+= 614 m 
+ 
+(a) 
+The distance the plane has traveled in 2.00 s is  
+ 
+ 
+ 
+v 2.00 s
+(
+) = h
+2
+= 307 m 
+ 
+ 
+Thus, the speed of the plane is:  
+ 
+ 
+ 
+v = 307 m
+2.00 s
+= 153 m s 
+P17.13 
+Sound takes this time to reach the man: Δts = d −h
+v
+. The minimum time 
+interval between when a warning is shouted and when the man 
+responds to the warning is Δtmin = Δts + Δt. 
+ 
+Since the whole time interval to fall is given by  
+ 
+ 
+ 
+Δy = d −h
+(
+) = 1
+2
+gΔt f
+2 → Δt f =
+2 d −h
+(
+)
+g
+ 
+ 
+The warning needs to come at least  
+ 
+ 
+ 
+ΔT = Δt f −Δt −Δts =
+2 d −h
+(
+)
+g
+− Δt −d −h
+v
+  
+ 
+into the fall, when the pot is at the position 
+ 
+ 
+ 
+y f = yi + vyiΔT −1
+2 gΔT 2
+y f = 20.0 m −1
+2 9.80 m/s2
+(
+)
+              ×
+2 20.0 m −1.75 m
+(
+)
+g
+−0.300 s −20.0 m −1.75 m
+343 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+y f = 7.82 m above the ground.
+
+--- PAGE 9 ---
+900     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.14 
+Sound takes this time to reach the man: Δts = d −h
+v
+. The minimum 
+time interval between when a warning is shouted and when the man 
+responds to the warning is Δtmin = Δts + Δt. 
+ 
+Since the whole time interval to fall is given by  
+ 
+ 
+ 
+Δy = d −h
+(
+) = 1
+2
+gΔt f
+2 → Δt f =
+2 d −h
+(
+)
+g
+ 
+ 
+The warning needs to come at least 
+ 
+ 
+ 
+ ΔT = Δt f −Δt −Δts =
+2 d −h
+(
+)
+g
+− Δt −d −h
+v
+  
+ 
+into the fall, when the pot is at the position 
+ 
+ 
+ 
+y f = yi + vyiΔT −1
+2 gΔT 2
+y f = d −1
+2 g
+2 d −h
+(
+)
+g
+−Δt −d −h
+v
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+2
+ above the ground.
+ 
+P17.15 
+(a) 
+At 9 000 m, ΔT = 9 000 m
+(
+) −1.00°C
+150 m
+⎛
+⎝⎜
+⎞
+⎠⎟= −60.0°C, so T = –30.0°C.  
+ 
+ 
+Using the chain rule, 
+ 
+ 
+ 
+dv
+dt
+= dv
+dTC
+dTC
+dx
+dx
+dt
+= v dv
+dTC
+dTC
+dx
+= v 0.607
+(
+)
+1
+150
+⎛
+⎝⎜
+⎞
+⎠⎟=
+v
+247
+ 
+ 
+ 
+so dt = 247 s
+(
+)dv
+v . Integrating, 
+ 
+ 
+ 
+dt
+0
+t
+∫
+= 247 s
+(
+)
+dv
+v
+vi
+v f
+∫
+t = 247 s
+(
+)ln
+v f
+vi
+⎛
+⎝⎜
+⎞
+⎠⎟= 247 s
+(
+)ln
+331.5 + 0.607 30.0
+(
+)
+331.5 + 0.607 −30.0
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+which gives t = 27.2 s for sound to reach the ground. 
+ 
+(b) 
+t = h
+v =
+9 000 m
+331.5 m/s + 0.607 30.0°C
+(
+) = 25.7 s 
+The time interval in (a) is longer.
+
+--- PAGE 10 ---
+Chapter 17     901 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.16 
+Since cos2θ + sin2θ = 1, sinθ = ± 1−cos2θ (each sign applying half the 
+time), 
+ 
+ 
+ 
+ΔP = ΔPmax sin kx −ωt
+(
+) = ±ρvω smax 1−cos2 kx −ωt
+(
+) 
+ 
+Therefore,  
+ 
+ 
+ΔP = ± ρvω
+smax
+2
+−smax
+2
+cos2 kx −ωt
+(
+) = ± ρvω
+smax
+2
+−s2 
+P17.17 
+(a) 
+The two pulses travel the same distance, and so the one that 
+travels at the highest velocity will arrive first. Because the speed 
+of sound in air is 343 m/s and the speed of sound in the iron rod 
+is 5 950 m/s, 
+the pulse travelling through the iron rail will arrive first . 
+ 
+(b) For each of the pulses t = L
+v . 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+trod = L
+vrod
+=
+8.50 m
+5 950 m/s = 1.43 milliseconds 
+ 
+ 
+and tair = L
+vair
+= 8.50 m
+343 m/s
+= 24.78 milliseconds 
+ 
+ 
+The difference between their two arrival times is 
+ 
+ 
+ 
+Δt = tair −trod = 24.78 ms −1.43 ms = 23.4 ms 
+P17.18 
+Let d1 represent the cowboy’s distance from the nearer canyon wall 
+and d2 his distance from the farther cliff. The sound for the first echo 
+travels distance 2d1. For the second, 2d2. For the third, 2d1 + 2d2. For the 
+fourth echo, 2d1 + 2d2 + 2d1. The time interval between the shot and the 
+first echo is ∆t1 = 2d1/v, between the shot and the second echo is ∆t2 = 
+2d2/v, and so on. 
+ 
+Then 
+ 
+ 
+ 
+Δt2 −Δt1 = 2d2 −2d1
+343 m/s = 1.92 s and 
+ 
+ 
+ 
+Δt3 −Δt2 = 1.47 s   →   
+2d1 + 2d2
+(
+) −2d2
+343 m/s
+=
+2d1
+343 m/s = 1.47 s
+ 
+ 
+Thus, 
+d1 = 1
+2
+343 m s
+(
+) 1.47 s
+(
+) = 252 m , and Δt1 = 1.47 s
+
+--- PAGE 11 ---
+902     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+From above,    
+ 
+ 
+ 
+Δt2 −Δt1 = 1.92 s   →  
+2d2
+343 m/s = 1.92 s + 1.47 s
+  
+ 
+which gives d2 = 581 m 
+ 
+(a) 
+So, d1 + d2 = 833m . 
+ 
+(b) 
+2d1 + 2d2 + 2d1 −2d1 + 2d2
+(
+)
+343 m/s
+=
+2d2
+343 m/s = 1.47s 
+ 
+ 
+ 
+Section 17.3 
+Intensity of Periodic Sound Waves 
+P17.19 
+We use Equation 17.14: 
+ 
+ 
+ 
+β =  10 dB
+(
+)log
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟= 10 dB
+(
+)log
+4.00 × 10−6 W/m2
+1.00 × 10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 66.0 dB
+ 
+P17.20 
+The sound power incident on the eardrum is P = IA, where I is the 
+intensity of the sound and A = 5.00 × 10
+−5 m
+2 is the area of the eardrum. 
+ 
+(a) 
+At the threshold of pain, I = 1.00 W/m
+2. 
+ 
+ 
+Thus, P = IA = 5.00× 10−5 m2
+(
+) 1.00 W/m2
+(
+) = 5.00× 10−5 W 
+ 
+(b) Energy transfer can be obtained from power by 
+P = E
+Δt →E = PΔt. Thus,  
+ 
+ 
+ 
+E = PΔt = 5.00 × 10
+−5 J/s
+(
+) 60.0 s
+(
+) = 3.00 × 10−3 J 
+P17.21 
+We use I = 1
+2 ρω 2smax
+2
+v. 
+ 
+(a) 
+At f = 2 500 Hz, the frequency is increased by a factor of 2.50, so 
+the intensity (at constant smax) increases by (2.50)
+2 = 6.25. 
+ 
+ 
+Therefore, 6.25 0.600
+(
+) = 3.75 W/m2 
+ 
+(b) The changes cancel each other: frequency f →
+′f = f/2, and 
+displacement amplitude smax →′smax = 2smax
+
+--- PAGE 12 ---
+Chapter 17     903 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+originial intensity: I = 1
+2 ρω 2smax
+2
+v = 0.600 W/m2 
+ 
+ 
+new intensity: ′I = 1
+2 ρ ′
+ω 2 ′smax
+2 v = 1
+2 ρ ω
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2smax
+(
+)
+2 v = 1
+2 ρω 2smax
+2
+v
+= 600 W/m2
+  
+P17.22 
+The original intensity is I1 = 1
+2
+ρω2smax
+2
+v = 2π 2ρvf 2smax
+2
+ 
+ 
+(a) 
+If the frequency is increased to f ′ while a constant displacement 
+amplitude is maintained, the new intensity is 
+ 
+ 
+  
+I2 = 2π 2ρv
+′f(
+)
+2 smax
+2
+ so I2
+I1
+=
+2π 2ρv
+′f( )smax
+2
+2π 2ρvf 2smax
+2
+=
+′f
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+  
+ 
+ 
+or 
+I2 =
+′f
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+I1 
+ 
+(b) If the frequency is reduced to ′f = f
+2
+ while the displacement 
+amplitude is doubled, the new intensity is 
+ 
+ 
+ 
+I2 = 2π 2ρv
+f
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2smax
+(
+)
+2 = 2π 2ρvf 2smax
+2
+= I1 
+ 
+ 
+or the intensity is unchanged . 
+P17.23 
+In terms of their intensities, the difference in the decibel level of two 
+sounds is 
+ 
+ 
+ 
+β2 −β1 = 10 dB
+(
+)log I2
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟−10 dB
+(
+)log I1
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 10 dB
+(
+)log
+I2
+I0
+⋅
+I0
+I1
+⎛
+⎝⎜
+⎞
+⎠⎟= 10 dB
+(
+)log I2
+I1
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Thus, 
+ I2
+I1
+= 10
+β2 −β1
+(
+) 10      or      I2 = I1 × 10
+β2 −β1
+(
+) 10 
+ 
+If β2 −β1 = 30 dB  and I1 = 3.0 × 10−11 W/m2 , then 
+ 
+ 
+ 
+I2 = 3.0 × 10−11 W/m2
+(
+) × 103 = 3.0 × 10−8 W/m2
+
+--- PAGE 13 ---
+904     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.24 
+The intensity is given by I = Pavg
+4πr2 . 
+ 
+The power is not given, but the intensity at a known distance is 
+I = Pavg
+4πr2 , which gives 
+ 
+ 
+ 
+Pavg = I(r)4πr2 = 4π 0.25 W/m2
+(
+) 16 m
+(
+)
+2 = 804.2 W 
+ 
+which can then be substituted back into the same equation: 
+ 
+ 
+ 
+I = Pavg
+4πr2 =
+804.2 W
+4π 28 m
+(
+)
+2 = 0.082 W/m2
+ 
+P17.25 
+(a) 
+From the sound level equation, 
+ 
+ 
+ 
+120 dB = 10 dB
+(
+)log
+I
+10−12 W/m2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+ 
+ 
+I = 1.00 W m2 =
+P
+4π r2
+r =
+P
+4π I =
+6.00 W
+4π 1.00 W/m2
+(
+)
+= 0.691 m
+ 
+ 
+ 
+We have assumed the speaker is an isotropic point source. 
+ 
+(b) Again from the sound level equation, 
+ 
+ 
+ 
+0 dB = 10 dB
+(
+)log
+I
+10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+I = 1.00 × 10−12 W/m2
+r =
+P
+4π I =
+6.00 W
+4π 1.00 × 10−12 W/m2
+(
+)
+= 691km 
+ 
+ 
+We have assumed a uniform medium that absorbs no energy. 
+P17.26 
+The decibel level due to the first siren is 
+ 
+ 
+ 
+β1 = 10 dB
+(
+)log
+100.0 W/m2
+1.0 × 10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 140 dB 
+ 
+Thus, the decibel level of the sound from the ambulance is 
+ 
+ 
+ 
+β2 = β1 + 10 dB = 140 dB + 10 dB = 150 dB
+
+--- PAGE 14 ---
+Chapter 17     905 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*P17.27 
+(a) 
+The intensity of sound at 10 km from the horn (where β = 50 dB) 
+is 
+ 
+ 
+ 
+I = I010β/10 = 1.0 × 10−12 W/m2
+(
+)105.0 = 1.0 × 10−7 W/m2  
+ 
+ 
+Thus, from I =
+P
+4πr2 , the power emitted by the source is 
+ 
+ 
+ 
+P = 4πr2I = 4π 10.0 × 103 m
+(
+)
+2 1.0 × 10−7 W/m2
+(
+) = 126 W 
+ 
+(b) At r = 50 m, the intensity of the sound will be 
+ 
+ 
+ 
+I =
+P
+4πr2 = 1.3 × 102 W
+4π 50 m
+(
+)
+2 = 4.0 × 10−3 W/m2
+ 
+ 
+ 
+and the sound level is 
+ 
+ 
+ 
+β = 10 dB
+(
+)log
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟= 10 dB
+(
+)log
+4.0 × 10−3 W/m2
+1.0 × 10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 96 dB
+ 
+P17.28 
+(a) 
+The sound intensity inside the church is given by 
+ 
+ 
+ 
+β = 10 dB
+(
+)log
+I
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟
+101 dB = 10 dB
+(
+)log
+I
+10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+I = 1010.1 10−12 W/m2
+(
+) = 10−1.90 W/m2 = 0.012 6 W/m2
+ 
+ 
+ 
+We suppose that sound comes perpendicularly out through the 
+windows and doors. Then, the radiated power is 
+ 
+ 
+ 
+P = IA = 0.012 6 W/m2
+(
+) 22.0 m2
+(
+) = 0.277 W 
+ 
+ 
+Are you surprised by how small this is? The energy radiated in  
+20.0 minutes is 
+ 
+ 
+ 
+E = Pt = 0.277 J s
+(
+) 20.0 min
+(
+)
+60.0 s
+1.00 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 332 J 
+ 
+(b) If the ground reflects all sound energy headed downward, the 
+sound power, P = 0.277 W, covers the area of a hemisphere. One 
+kilometer away, this area is  
+ 
+ 
+ 
+A = 2π r2 = 2π 1 000 m
+(
+)
+2 = 2π × 106 m2
+
+--- PAGE 15 ---
+906     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The intensity at this distance is 
+ 
+ 
+ 
+I = P
+A =
+0.277 W
+2π × 106 m2 = 4.41× 10−8 W/m2 
+ 
+ 
+and the sound intensity level is 
+ 
+ 
+ 
+β = 10 dB
+(
+)log
+4.41× 10−8 W/m2
+1.00 × 10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 46.4 dB
+ 
+P17.29 
+(a) 
+For the initial low note the wavelength is  
+ 
+ 
+ 
+λ = v
+f = 343 m/s
+146.8/s = 2.34 m 
+ 
+(b) For the final high note λ = 343 m/s
+880/s = 0.390 m 
+ 
+ 
+We observe that the ratio of the frequencies of these two notes is 
+880 Hz
+146.8 Hz = 5.99, nearly equal to a small integer. This fact is 
+associated with the consonance of the notes D and A. 
+ 
+(c, d) The intensity level for both notes is the same 75.0 dB: 
+ 
+ 
+ 
+β = (10 dB) log
+I
+10−12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 75 dB
+  
+ 
+ 
+gives I = 3.16 × 10−5 W/m2 
+ 
+ 
+Therefore, the pressure amplitude for both low and high notes is 
+the same, and I = ΔPmax
+2
+2ρv gives 
+        
+ 
+ 
+ΔPmax =
+2ρvI
+=
+2 1.20 kg/m3
+(
+) 343 m/s
+(
+) 3.16 × 10−5 W/m2
+(
+)
+= 0.161 Pa
+ 
+ 
+(e) 
+I = 1
+2
+ρv ωsmax
+(
+)
+2 = 1
+2
+ρv4π 2 f 2smax
+2
+→smax =
+I
+2π 2ρvf 2 = 1
+f
+I
+2π 2ρv 
+ 
+ 
+We see that for the same intensity level, the displacement 
+amplitude is inversely proportional to the frequency.
+
+--- PAGE 16 ---
+Chapter 17     907 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For the low note, 
+ 
+  
+ 
+smax =
+1
+146.8 s
+3.16 × 10−5 W m2
+2π 2 (1.20 kg m3)(343 m s)
+= 6.24 × 10−5 m s
+146.8 s−1
+= 4.25 × 10−7 m
+ 
+ 
+(f) 
+For the high note, 
+ 
+ 
+ 
+smax = 6.24 × 10−5 m/s
+880 s−1
+= 7.09 × 10−8 m
+ 
+P17.30 
+We begin with β2 = 10 dB
+(
+)log I2
+I0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ and β1 = 10 dB
+(
+)log I1
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟, so 
+ 
+ 
+ 
+β2 −β1 = 10 dB
+(
+)log I2
+I1
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+Also, I2 =
+P
+4π r2
+2 and I1 =
+P
+4π r1
+2 , giving I2
+I1
+=
+r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Then, β2 −β1 = 10 dB
+(
+)log r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 20log r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P17.31 
+From β = 10 log
+I
+10–12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟, we have  
+ 
+ 
+ 
+I = [10β/10] 10−12 W/m2
+(
+) 
+ 
+(a) 
+For your baby,  
+ 
+ 
+ 
+ 
+Ib = 1075.0/10
+(
+) 10−12 W/m2
+(
+) = 3.16 × 10−5 W/m2 
+ 
+ 
+For the music,  
+ 
+ 
+ 
+ 
+Im = 1080.0/10
+(
+) 10−12 W/m2
+(
+) = 10.0 × 10−5 W/m2 
+ 
+ 
+ The combined intensity is  
+ 
+ 
+ 
+Itotal = Im + Ib
+= 10.0 × 10−5 W/m2 + 3.16 × 10−5 W/m2
+= 13.2 × 10−5 W/m2
+
+--- PAGE 17 ---
+908     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The combined sound level is then 
+ 
+ 
+ 
+βtotal = 10log
+Itotal
+10–12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 10log 1.32 × 10–4 W m2
+10–12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 81.2 dB
+ 
+P17.32 
+The speakers broadcast equally in all directions, so the intensity of 
+sound is inversely proportional to the square of the distance from its 
+source. 
+ 
+(a) 
+rAC =
+3.002 + 4.002 m = 5.00 m 
+ 
+ 
+ 
+I =
+P
+4π r2 = 1.00 × 10−3 W
+4π 5.00 m
+(
+)
+2 = 3.18 × 10−6 W/m2
+β = 10 dB
+(
+)log 3.18 × 10−6 W/m2
+10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+β = 10 dB
+(
+) 6.50 = 65.0dB
+ 
+ 
+(b) 
+rBC = 4.47 m 
+ 
+ 
+ 
+I = 1.50 × 10−3 W
+4π 4.47 m
+(
+)
+2 = 5.97 × 10−6 W/m2
+β = 10 dB
+(
+)log 5.97 × 10−6 W m2
+10−12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+β = 67.8 dB
+ 
+ 
+(c) 
+I = 3.18 µW m2 + 5.97 µW m2 
+ 
+ 
+ 
+β = 10 dB
+(
+)log 9.15 × 10−6 W m2
+10−12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 69.6 dB
+ 
+P17.33 
+The sound intensity at distance d1 is, suppressing units, 
+ 
+ 
+ 
+I1 = ΔPmax
+2
+2ρv
+=
+10.0
+(
+)
+2
+2 1.20
+(
+) 343
+(
+)
+= 0.121 W m2 
+ 
+If air does not absorb sound energy, the intensity of sound is inversely 
+proportional to the square of the distance from its source. The intensity 
+at distance d2 is 
+ 
+ 
+ 
+I2 =
+d1
+d2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+I1 =
+500 m
+4 000 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+I1 = 1
+64 0.121 W/m2
+(
+)
+= 1.89 × 10−3 W/m2
+
+--- PAGE 18 ---
+Chapter 17     909 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which has an intensity level of 
+ 
+ 
+ 
+β2 = 10 dB
+(
+)log I2
+I0
+⎛
+⎝⎜
+⎞
+⎠⎟= 10 dB
+(
+)log 1.89 × 10−3 W/m2
+10−12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 92.77 dB
+ 
+ 
+Allowing for absorption of the wave over the distance traveled, 
+ 
+ 
+ 
+′
+β2 = β2 −7.00 dB km
+(
+) 3.50 km
+(
+) = 68.3 dB 
+ 
+This is equivalent to the sound intensity level of heavy traffic. 
+P17.34 
+(a) 
+The energy transferred by sound from the explosion is 
+ 
+ 
+ 
+TMW = PΔt = 4πr2IΔt
+= 4π 100 m
+(
+)
+2 7.00 × 10−2 W/m2
+(
+) 0.200 s
+(
+)
+= 1.76 kJ
+ 
+ 
+(b) 
+β = 10 dB
+(
+)log 7.00× 10−2
+1.00× 10−12
+⎛
+⎝⎜
+⎞
+⎠⎟= 108 dB 
+P17.35 
+From the definition of sound level, 
+ 
+ 
+ 
+β = 10log
+I
+10–12 W m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+we can compute the intensities corresponding to each of the levels 
+mentioned as I = [10β/10]10
+−12 W/m
+2. 
+ 
+They are  
+I120 = 1 W/m
+2 
+ 
+ 
+ 
+ 
+ 
+I100
+ =10
+−2 W/m
+2 
+ 
+ 
+and  
+ 
+I10 = 10
+−11 W/m
+2 
+ 
+(a) 
+The power passing through any sphere around the source is 
+Power = 4πr2I. If we ignore absorption of sound by the medium, 
+conservation of energy for the sound wave as a system requires 
+that r120
+2 I120 = r100
+2 I100 = r10
+2 I10. Then
+ 
+r100 = r120
+I120
+I100 = (3.00 m) 
+1 W m2
+10–2 W m2 = 30.0 m
+ 
+ 
+(b) 
+r10 = r120
+I120
+I10 = (3.00 m)
+1 W m2
+10–11 W m2 = 9.49 × 105 m
+
+--- PAGE 19 ---
+910     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.36 
+We assume that both lawn mowers are equally loud and
+approximately the same distance away. We found in 
+Example 17.3 that a sound of twice the intensity results in 
+an increase in sound level of 3 dB. We also see from the 
+What If? section of that example that a doubling of loudness 
+requires a 10-dB increase in sound level. Therefore, the 
+sound of two lawn mowers will not be twice the loudness, 
+but only a little louder than one!
+ 
+ 
+ 
+ 
+Section 17.4 
+The Doppler Effect 
+P17.37 
+The source and detector of waves are both moving with respect to the 
+medium in which the waves are travelling. 
+ 
+(a) 
+The general form of the Doppler equation is: 
+ 
+ 
+ 
+′f = v + vo
+v −vs
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟f 
+ 
+ 
+where the positive signs for vo and vs are for source or observer 
+approaching each other. When the ambulance is approaching the 
+car from behind: 
+ 
+ 
+ 
+′f =
+v + vO
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 + −25
+(
+)
+343 −+42
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟450 Hz = 1.056
+(
+)450 Hz
+= 475 Hz
+ 
+ 
+(b) When the ambulance is moving away in front of the moving car: 
+ 
+ 
+ 
+′f =
+v + vO
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟f =
+343 + +25
+(
+)
+343 −−42
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟450 Hz = 0.956
+(
+)450 Hz
+= 430 Hz
+ 
+P17.38 
+The half angle of the shock wave cone is given by sinθ = vlight
+vS
+. 
+ 
+ 
+ 
+vS = vlight
+sinθ
+= 2.25× 108 m s
+sin 53.0°
+(
+)
+= 2.82 × 108 m s
+
+--- PAGE 20 ---
+Chapter 17     911 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.39 
+(a) 
+The Doppler-shifted frequency is found from 
+ 
+ 
+ 
+′f = f v + vo
+(
+)
+v −vs
+(
+)
+= 2 500 Hz
+(
+) 343 + 25.0
+(
+)
+343 −40.0
+(
+) = 3.04 kHz
+ 
+ 
+(b) After the police car passes, 
+ 
+ 
+ 
+′f = 2 500 Hz
+(
+) 343 + −25.0
+(
+)
+343 −(−40.0)
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.08 kHz
+ 
+ 
+(c) 
+While the police car overtakes the driver, 
+ 
+ 
+ 
+′f = 2 500 Hz
+(
+) 343 + −25.0
+(
+)
+343 −40.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.62 kHz
+ 
+ 
+ 
+ 
+After the police car passes, 
+ 
+ 
+ 
+ 
+′f = 2 500 Hz
+(
+)
+343 + 25.0
+343 −−40.0
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.40 kHz
+  
+P17.40 
+(a) 
+Equation 17.19, ′f = f v + vo
+v −vs
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟, applies to an observer on B 
+because B is receiving sound from source A. 
+ 
+(b) The sign of vs should be positive because the source is moving 
+toward the observer, resulting in an increase in frequency. 
+ 
+(c) 
+The sign of vo should be negative because the observer is 
+moving away from the source, resulting in a decrease in 
+frequency. 
+ 
+(d) The speed of sound should be that of the medium of seawater, 
+1 533 m/s . 
+ 
+(e) 
+fo= fs
+v + vo
+v −vs
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.27 × 103 Hz
+(
+)
+1 533 m/s
+(
+) + −3.00 m/s
+(
+)
+1 533 m/s
+(
+) −+11.0 m/s
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= 5.30 × 103 Hz
+
+--- PAGE 21 ---
+912     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.41 
+(a) 
+The maximum speed of the speaker is described by 
+ 
+ 
+ 
+1
+2 mvmax
+2
+= 1
+2 kA2
+vmax =
+k
+mA =
+20.0 N m
+5.00 kg
+0.500 m
+(
+) = 1.00 m s
+ 
+ 
+ 
+The frequencies heard by the stationary observer range from 
+ 
+ 
+ 
+′fmax = f
+v
+v −vmax
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 440 Hz
+343
+343 −1.00
+⎛
+⎝⎜
+⎞
+⎠⎟= 441 Hz 
+ 
+ 
+to 
+ 
+(b) 
+′fmin = f
+v
+v + vmax
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 440 Hz
+343
+343+ 1.00
+⎛
+⎝⎜
+⎞
+⎠⎟= 439 Hz 
+ 
+(c) 
+β = 10 dB
+(
+)log
+I
+I0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 10 dB
+(
+)log P 4π r2
+I0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+ 
+The maximum intensity level βmax = 60.0 dB occurs at r = rmin = 
+1.00 m. The minimum intensity level occurs when the speaker is 
+farthest from the listener, i.e., when r = rmax = rmin + 2A = 2.00 m. 
+ 
+ 
+Thus, βmax −βmin = (10 dB)log
+P
+4π I0rmin
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟−(10 dB)log
+P
+4π I0rmax
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+ 
+or 
+ 
+ 
+ 
+βmax −βmin = (10 dB) log
+P
+4π I0rmin
+2
+4π I0rmax
+2
+P
+⎛
+⎝⎜
+⎞
+⎠⎟
+= (10 dB) log rmax
+2
+rmin
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= (20 dB) log rmax
+rmin
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+This gives: 
+ 
+ 
+  
+60.0 dB −βmin = (20 dB) log 2.00
+(
+) = 6.02 dB 
+or 
+βmin = 54.0 dB 
+P17.42 
+The maximum speed of the speaker is described by 
+ 
+ 
+1
+2
+mvmax
+2
+= 1
+2
+kA2
+vmax =
+k
+m
+A
+
+--- PAGE 22 ---
+Chapter 17     913 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The frequencies heard by the stationary observer range from 
+ 
+(a) 
+′fmax =
+vf
+v −A
+k
+m
+ 
+to 
+(b) 
+′fmax =
+vf
+v + A
+k
+m
+ 
+ 
+ 
+where v is the speed of sound. 
+ 
+(c) 
+β = 10 dB
+(
+)log
+I
+I0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 10 dB
+(
+)log P 4π r2
+I0
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+ 
+The maximum intensity level βmax = β occurs at r = rmin = d. The 
+minimum intensity level occurs when the speaker is farthest from 
+the listener, i.e., when r = rmax = rmin + 2A = d + 2A. 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+βmax −βmin = (10 dB) log
+P
+4π I0rmin
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟−(10 dB) log
+P
+4π I0rmax
+2
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟ 
+ 
+ 
+or 
+ 
+ 
+ 
+βmax −βmin = (10 dB) log
+P
+4π I0rmin
+2
+4π I0rmax
+2
+P
+⎛
+⎝⎜
+⎞
+⎠⎟
+= (10 dB) log rmax
+2
+rmin
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= (20 dB) log rmax
+rmin
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+This gives: 
+ 
+ 
+ 
+β −βmin = (20 dB)log d + 2A
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+or 
+βmin = β −(20 db)log 1+ 2A
+d
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P17.43 
+(a) 
+ω = 2π f = 2π
+115 min−1
+60.0 s min
+⎛
+⎝⎜
+⎞
+⎠⎟= 12.0 rad/s 
+ 
+ 
+vmax = ωA = 12.0 rad/s
+(
+) 1.80 × 10−3 m
+(
+) = 0.021 7 m/s 
+ 
+(b) The heart wall is a moving observer: 
+ 
+ 
+ 
+Δ ′f =
+′f −f = f v + vO
+v
+−f
+⎛
+⎝⎜
+⎞
+⎠⎟−f = f vO
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2 000 000 Hz
+(
+) 0.021 7
+1 500
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= 28.9 Hz
+
+--- PAGE 23 ---
+914     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Now, the heart wall is a moving source: 
+ 
+ 
+ 
+Δf ″ = f ′
+v
+v −vs
+⎛
+⎝⎜
+⎞
+⎠⎟−f = f
+v + vo
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+v
+v −vs
+⎛
+⎝⎜
+⎞
+⎠⎟−f
+Δf ″ = f
+v v + vo
+(
+)
+v v −vs
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟−
+v v −vs
+(
+)
+v v −vs
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= f
+vo + vs
+v −vs
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+Since the velocities of the source and the observer in these 
+expressions are both referring to the movement of the heart wall, 
+and the velocity of the sound wave is much greater than those 
+velocities, we may approximate: 
+ 
+ 
+ 
+Δf ″ ≅f
+2vs
+v
+⎡
+⎣⎢
+⎤
+⎦⎥
+Δf ″ ≅2.00 × 106 Hz
+(
+) 0.043 4
+1 500
+⎡
+⎣⎢
+⎤
+⎦⎥= 57.9 Hz
+ 
+P17.44 
+The apparent frequency drops because of the Doppler effect. Using a T 
+subscript for the situation when the athlete moves toward the horn, and 
+A for movement away from the horn, we have, 
+ 
+ 
+ 
+′fA
+′fT
+ = 
+v + vOA
+v − vS
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟f
+v + vOT
+v − vS
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟f
+ =  v + vOA
+v + vOT
+ =  v +  −vO
+(
+)
+v +  +vO
+(
+)
+ =  v − vO
+v + vO
+ 
+ 
+where v0 is the constant speed of the athlete. Setting this ratio equal to 
+5/6, we have 
+ 
+ 
+ 
+5
+6
+  =  v − vO
+v + vO
+     →    5v + 5vO = 6v − 6vO     →    11vO = v 
+ 
+Solving for the speed of the athlete, 
+ 
+ 
+ 
+vO =  v
+11
+ = 343 m/s
+11
+ = 31.2 m/s 
+This is much faster than a human athlete can run. 
+P17.45 
+Let va represent the magnitude of the velocity of the ambulance. 
+ 
+As it approaches you hear the frequency ′f = v
+v
+v – va
+⎛
+⎝⎜
+⎞
+⎠⎟f = 560 Hz. 
+ 
+The negative sign appears because the source is moving toward the 
+observer. The opposite sign with source velocity magnitude describes 
+the ambulance moving away. As the ambulance recedes, the Doppler-
+
+--- PAGE 24 ---
+Chapter 17     915 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+shifted frequency is  
+ 
+ 
+ 
+′′
+f
+= 
+v
+v + va
+⎛
+⎝⎜
+⎞
+⎠⎟ f = 480 Hz . 
+ 
+Solving the second of these equations for f and substituting into the 
+other gives 
+ 
+ 
+ 
+′f =
+v
+v – va
+⎛
+⎝⎜
+⎞
+⎠⎟
+v + va
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+′′
+f   or     ′f v −
+′f va = v ′′
+f
++ va ′′
+f 
+ 
+so the speed of the source is 
+ 
+ 
+ 
+va = v
+′f –
+′′
+f
+(
+)
+′f +
+′′
+f
+= (343 m/s)(560 Hz – 480 Hz)
+560 Hz + 480 Hz
+= 26.4 m/s
+ 
+P17.46 
+We first determine how fast the tuning fork is falling to emit sound with 
+apparent frequency 485 Hz. Call the magnitude of its velocity vfall. The 
+tuning fork source is moving away from the listener, so vs = –vfall. 
+ 
+Therefore, we use the equation 
+′f =
+v
+v + vfall
+⎛
+⎝⎜
+⎞
+⎠⎟f 
+ 
+Solving for vfall gives v + vfall
+v
+= f
+f' and vfall = v
+f
+f' −1
+⎛
+⎝⎜
+⎞
+⎠⎟. 
+ 
+Substituting, we have vfall =
+512 Hz
+485 Hz −1
+⎛
+⎝⎜
+⎞
+⎠⎟343 m/s
+(
+) = 19.1 m/s. 
+ 
+The time interval required for the tuning fork to reach this speed, from 
+the particle under constant acceleration model, is given by 
+ 
+ 
+ 
+vy = 0 + ayt  as   t = vy/ay = (19.1 m/s)/(9.80 m/s2) = 1.95 s 
+ 
+The distance that the fork has fallen is 
+ 
+ 
+ 
+Δy = 0 + 1
+2 ayt2 = 1
+2 (9.80 m/s2)(1.95 s)2 = 18.6 m
+ 
+ 
+At this moment, the fork would appear to ring at 485 Hz to a 
+stationary observer just above the fork. However, some additional time 
+is required for the waves to reach the point of release. The fork is 
+moving down, but the sound it radiates still travels away from its 
+instantaneous position at 343 m/s. From the traveling wave model, the 
+time interval it takes to return to the listener is 
+ 
+ 
+ 
+Δt = Δy/v = 18.6 m/(343 m/s) = 0.054 2 s
+
+--- PAGE 25 ---
+916     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Over a total time t + ∆t = 1.95 s + 0.054 2 s = 2.00 s, the fork falls a total 
+distance  
+ 
+ 
+ 
+dtotal = 1
+2 gttotal fall
+2
+= 19.7 m
+ 
+P17.47 
+(a) 
+We find the shock angle from 
+ 
+ 
+ 
+θ = sin
+v
+vS
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= sin
+1
+3.00
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+= 19.5°
+ 
+ 
+ 
+from tan θ = h
+x
+, 
+ 
+ 
+ 
+x =
+h
+tan θ = 20 000 m
+tan 19.5° = 5.66 × 104 m = 56.6 km
+ 
+ 
+ 
+It takes the plane  
+ 
+ 
+ 
+t = x
+vS
+= 5.66 × 104 m
+3.00 335 m s
+(
+)
+= 56.3 s  
+ 
+ 
+to travel this distance. 
+ 
+(b) From part (a), x = 56.6 km 
+ 
+ANS. FIG. P17.47 
+ 
+ 
+ 
+Additional Problems 
+*P17.48 
+The size of the insect detected by the bat will be comparable to the 
+wavelength of sound emitted by the bat: 
+ 
+ 
+ 
+λ = v
+f =
+340 m/s
+60.0 × 103 s−1 = 5.67 mm
+
+--- PAGE 26 ---
+Chapter 17     917 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+*17.49 
+At normal body temperature of T = 37.0°C, the speed of sound in air is 
+ 
+ 
+ 
+v = (331 m/s) 1+ TC
+273 = (331 m/s) 1+ 37.0
+273 = 353 m/s
+ 
+ 
+and the wavelength of sound having a frequency of f = 20 000 Hz is 
+ 
+ 
+ 
+λ = v
+f = 353 m/s
+20 000 Hz = 1.76 × 10
+−2 m = 1.76 cm 
+ 
+Thus, the diameter of the eardrum is 1.76 cm. 
+P17.50 
+(a) 
+The wavelength of the note is 
+ 
+ 
+ 
+λ = v
+f
+= 343 m s
+1 480 s−1 = 0.232 m 
+ 
+(b) We find the intensity of the 81.0 dB sound from 
+ 
+ 
+ 
+ β = 81.0 dB = 10 dB
+(
+)log
+I
+10−12 W m2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+I = 10−12 W m2
+(
+)108.10 = 10−3.90 W m2 = 1.26 × 10−4 W m2
+= 1
+2 ρvω 2smax
+2
+ 
+ 
+ 
+Which gives a displacement amplitude of 
+ 
+ 
+ 
+smax =
+2I
+ρvω 2 =
+2 1.26 × 10−4 W m2
+(
+)
+1.20 kg m3
+(
+) 343 m s
+(
+)4π 2 1 480 s−1
+(
+)
+2
+= 8.41× 10−8 m
+ 
+ 
+(c) 
+The wavelength of the F above high C is 
+ 
+ 
+ 
+′
+λ = v
+′f
+= 343 m s
+1 397 s−1 = 0.246 m 
+ 
+ 
+and the change in wavelength is 
+ 
+ 
+ 
+Δλ =
+′
+λ −λ = 0.246 m −0.232 m = 13.8 mm
+
+--- PAGE 27 ---
+918     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.51 
+The trucks form a train analogous to a wave train of crests with speed  
+v = 19.7 m/s and unshifted frequency f =
+2
+3.00 min = 0.667 min−1. 
+ 
+(a) 
+The cyclist as observer measures a lower Doppler-shifted 
+frequency: 
+ 
+ 
+ 
+′f = f
+v + vo
+v
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.667 min−1
+(
+) 19.7 + −4.47
+(
+)
+19.7
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.515 min
+ 
+ 
+(b) 
+′′
+f
+= f
+v + ′vo
+v
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.667 min−1
+(
+) 19.7 + −1.56
+(
+)
+19.7
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.614 min 
+ 
+ 
+The cyclist’s speed has decreased very significantly, but there is 
+only a modest increase in the frequency of trucks passing him. 
+P17.52 
+We calculate the intensity of the speaker from 
+ 
+ 
+ 
+103 dB = 10 dB
+(
+)log 
+I
+10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+which gives I = 2.00 × 10−2 W m2 
+ 
+(a) 
+We find the sound power output from 
+ 
+ 
+ 
+I =
+P
+4π r2
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+P = 4π r2I = 4π 1.60 m
+(
+)
+2 2.00 × 10−2 W m2
+(
+) = 0.642 W 
+ 
+(b) The efficiency of the speaker is 
+ 
+ 
+ 
+e = Pout
+Pin
+= 0.642 W
+150 W
+= 0.004   or   0.4% 
+P17.53 
+The flow of traffic at night is 1/20th that of the afternoon, so 
+ 
+ 
+ 
+P2 =
+1
+20.0
+P1  
+ 
+The difference in sound level is 
+ 
+ 
+ 
+β1 −β2 = 10log P1
+P2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 28 ---
+Chapter 17     919 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+solving for the sound level at night gives 
+ 
+ 
+ 
+80.0 −β2 = 10log 20.0
+(
+) = +13.0
+β2 = 67.0 dB
+ 
+*P17.54 
+(a) 
+We have ′f =
+fv
+v −u and ′′
+f
+=
+fv
+v −−u
+(
+).  We then have 
+ 
+  
+ 
+′f −
+′′
+f
+= fv
+1
+v −u −
+1
+v + u
+(
+) 
+ 
+ 
+ 
+Δf = fv v + u−v + u
+(
+)
+v2 −u2
+=
+2uvf
+v2 1−u2
+v2
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+2 u
+v( )
+1−u2
+v2
+f
+ 
+  
+(b) 
+130 km/h = 36.1 m/s 
+ 
+ 
+ 
+ 
+Δf =
+2 36.1 m/s
+(
+) 400 Hz
+(
+)
+340 m/s
+(
+) 1−36.1 m/s
+(
+)2
+340 m/s
+(
+)2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 85.9 Hz 
+*P17.55 
+The sound speed is  
+ 
+ 
+ 
+v = 331 m/s + 0.600 m/s ⋅°C
+(
+) 26.0°C
+(
+) = 347 m s 
+  
+(a) 
+Let t represent the time for the echo to return. Then 
+ 
+ 
+ 
+d = 1
+2 vt = 1
+2 347 m/s 
+(
+) 24.0 × 10−3 s
+(
+) =
+4.16 m 
+ 
+(b) Let Δt represent the duration of the pulse: 
+ 
+ 
+ 
+Δt = 10λ
+v
+= 10λ
+f λ = 10
+f =
+10
+22.0 × 106 s−1 = 0.455 µs 
+ 
+(c) 
+L = 10λ = 10v
+f
+= 10 347 m s
+(
+)
+22.0 × 106 s–1 = 0.158 mm 
+P17.56 
+(a) 
+The sound “pressure” is extra tensile stress for one-half of each 
+cycle. When it becomes (0.500%)(13.0 × 10
+10 Pa) = 6.50 × 10
+8 Pa, the 
+rod will break. Then, ΔPmax = ρvω smax and 
+ 
+ 
+ 
+smax = ΔPmax
+ρvω =
+6.50 × 108 N m2
+8.92 × 103 kg m3
+(
+) 5 010 m s
+(
+) 2π 500 s−1
+(
+)
+= 4.63 mm
+ 
+ 
+(b) From s = smax cos kx −ωt
+(
+), differentiating gives 
+ 
+ 
+ 
+v = ∂s
+∂t = −ωsmax sin kx −ωt
+(
+)
+
+--- PAGE 29 ---
+920     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+then 
+ 
+ 
+ 
+vmax = ωsmax = 2π 500 s−1
+(
+) 4.63 mm
+(
+) = 14.5 m s 
+ 
+(c) 
+I = 1
+2 ρv ωsmax
+(
+)
+2 = 1
+2 ρvvmax
+2
+= 1
+2 8.92 × 103 kg m3
+(
+) 5 010 m s
+(
+) 14.5 m s
+(
+)
+2
+= 4.73 × 109 W m2
+ 
+P17.57 
+The gliders stick together and move with final speed given by 
+momentum conservation for the two-glider system: 
+ 
+ 
+ 
+m1v1 + m2v2 = m1v1 + 0 = m1 + m2
+(
+)v
+v =
+m1v1
+m1 + m2
+= 0.150 kg
+(
+) 2.30 m/s
+(
+)
+0.150 kg + 0.200 kg = 0.986 m/s
+  
+ 
+The missing mechanical energy is 
+ 
+ 
+ 
+ΔK = 1
+2 m1v1
+2 −1
+2 m1 + m2
+(
+)v2
+= 1
+2 0.150 kg
+(
+) 2.30 m/s
+(
+)
+2 −1
+2 0.350 kg
+(
+) 0.986 m/s
+(
+)
+2
+= 0.227 J
+  
+ 
+We imagine one-half of 227 mJ going into internal energy and half into 
+sound radiated isotropically in 7.00 ms. Its intensity 0.800 m away is 
+ 
+ 
+ 
+I = E
+At =
+1
+2 0.227 J
+(
+)
+4π 0.800 m
+(
+)
+2 7.00 × 10−3 s
+(
+)
+= 2.01 W/m2
+  
+ 
+Its intensity level is      
+ 
+ 
+ 
+β = 10 dB
+(
+)log
+2.01 W/m2
+1.00 × 10−12 W/m2
+⎛
+⎝⎜
+⎞
+⎠⎟= 123 dB
+  
+ 
+It is unreasonable, implying a sound level of 123 dB. Nearly all of the
+decrease in mechanical energy becomes internal energy in the latch.
+ 
+P17.58 
+(a) 
+The wave moves outward equally in all directions. (We can tell
+it is outward because of the negative sign in 1.36r −2 030t.)
+
+--- PAGE 30 ---
+Chapter 17     921 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Its amplitude is inversely proportional to its distance from
+the center. Its intensity is proportional to the square of the
+amplitude, so the intensity follows the inverse-square law,
+with no absorption of energy by the medium.
+ 
+ 
+(c) 
+Its speed is constant at v = f λ = ω/k = (2030/s)/(1.36/m) =
+1.49 km/s. By comparison to the table in the chapter, it can
+be moving through water at 25°C, and we assume that it is.
+ 
+ 
+(d) 
+Its frequency is constant at (2030/s)/2π = 323 Hz. 
+ 
+(e) 
+Its wavelength is constant at 2π/k = 2π/(1.36/m) = 4.62 m. 
+ 
+(f) 
+Its pressure amplitude is (25.0 Pa/r). Its intensity at this distance is
+I = ΔPmax
+2
+2ρv =
+25 N/m2
+(
+) r
+⎡⎣
+⎤⎦
+2
+2(1000 kg/m3)(1490 m/s)
+= 209 µW/m2
+r2
+so the power of the source and the net power of the wave at all
+distances is
+P = I4πr2 =
+2.09 × 10−4W/m2
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟4πr2 = 2.63 mW
+ 
+ 
+(g) 
+Its intensity follows the inverse-square law; at r = 1 m, the
+intensity is 209 µW/m2.
+ 
+P17.59 
+(a) 
+The speed of a compression wave in a bar is 
+ 
+ 
+ 
+v =
+Y
+ρ
+=
+20.0× 1010 N m2
+7 860 kg m3
+= 5.04× 103 m s 
+ 
+(b) The signal to stop passes between layers of atoms as a sound 
+wave, reaching the back end of the bar in time interval 
+ 
+ 
+ 
+Δt = L
+v
+=
+0.800 m
+5.04× 103 m s
+= 1.59× 10−4 s 
+ 
+(c) 
+As described by Newton’s first law, the rearmost layer of steel has 
+continued to move forward with its original speed vi for this time, 
+compressing the bar by 
+ 
+ 
+ 
+ΔL = viΔt = 12.0 m s
+(
+) 1.59 × 10−4 s
+(
+) = 1.90 × 10−3 m
+= 1.90 mm
+
+--- PAGE 31 ---
+922     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The strain in the rod is ΔL
+L
+= 1.90× 10−3 m
+0.800 m
+= 2.38× 10−3
+ 
+ 
+(e) 
+The stress in the rod is  
+ 
+ 
+ 
+σ = Y ΔL
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= 20.0× 1010 N m2
+(
+) 2.38× 10−3
+(
+)
+= 4.76× 108 N m2
+  
+ 
+ 
+Since σ > 400 MPa , the rod will be permanently distorted. 
+ 
+(f) 
+We go through the same steps as in parts (a) through (e), but use 
+algebraic expressions rather than numbers: 
+ 
+ 
+The speed of sound in the rod is v =
+Y
+ρ 
+ 
+ 
+The back end of the rod continues to move forward at speed vi for 
+a time interval of Δt = L
+v
+= L
+ρ
+Y
+, traveling distance ΔL = viΔt after 
+the front end hits the wall. 
+ 
+ 
+The strain in the rod is ΔL
+L
+= vit
+L
+= vi
+ρ
+Y
+ 
+ 
+ 
+The stress is then σ = Y ΔL
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= Yvi
+ρ
+Y
+= vi
+ρY 
+ 
+ 
+For this to be less than the yield stress, σ y, it is necessary that the 
+maximum speed be 
+ 
+ 
+ 
+σ y
+ρY
+ 
+P17.60 
+(a) 
+Model your loud, sharp sound impulse as a single narrow peak in 
+a graph of air pressure versus time. It is a noise with no 
+frequency, wavelength, or period. It radiates away from you in all 
+directions and some of it is incident on each one of the solid 
+vertical risers of the bleachers. 
+ 
+ 
+The repeated reflections from the steps create a repetition
+frequency so that the ear/brain combination assigns a pitch
+to the sound heard by the listener.
+
+--- PAGE 32 ---
+Chapter 17     923 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Suppose that, at the ambient temperature, sound moves at 343 
+m/s; and suppose that the horizontal width of each row of seats 
+is 60 cm. Then there is a time delay of 
+ 
+ 
+ 
+0.60 m
+343 m s = 0.001 7 s
+ 
+ 
+ 
+between your sound impulse reaching each riser and the next. 
+Whatever its material, each will reflect much of the sound that 
+reaches it. The reflected wave sounds very different from the 
+sharp pop you made. 
+ 
+(b) If there are twenty rows of seats, you hear from the bleachers a 
+tone with twenty crests, each separated from the next in time by 
+ 
+ 
+ 
+2 0.60 m
+(
+)
+343 m s = 0.003 5 s
+ 
+ 
+ 
+This is the extra time for it to cross the width of one seat twice, 
+once as an incident pulse and once again after its reflection. Thus, 
+you hear a sound of definite pitch, with a period of about 0.0035 s, 
+and frequency, 
+ 
+ 
+ 
+1
+0.003 5 s
+= 290 Hz ~ a few hundred Hz 
+ 
+(c) 
+Wavelength 
+ 
+ 
+ 
+λ = v
+f = 343 m s
+290 s−1 = 1.2 m ~ 1 m
+ 
+ 
+(d) and duration 
+ 
+ 
+ 
+20 0.003 5 s
+(
+)~ 0.1 s 
+P17.61 
+Let fe = 1 800 Hz represent the emitted frequency; ve the speed of the 
+skydiver; and fg = 2 150 Hz the frequency of the wave crests reaching 
+the ground. 
+ 
+(a) 
+The skydiver source is moving toward the stationary ground, so 
+we rearrange the equation fg = fe
+v
+v – ve
+⎛
+⎝⎜
+⎞
+⎠⎟ to give 
+ 
+ 
+ 
+ve = v 1– fe
+fg
+⎛
+⎝⎜
+⎞
+⎠⎟= (343 m/s) 1– 1 800 Hz
+2 150 Hz
+(
+) = 55.8 m/s
+
+--- PAGE 33 ---
+924     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The ground now becomes a stationary source, reflecting crests with 
+the 2 150-Hz frequency at which they reach the ground, and 
+sending them to a moving observer, who receives them at the 
+rate 
+ 
+ 
+ 
+fe2 = fg v + ve
+v
+⎛
+⎝⎜
+⎞
+⎠⎟= (2 150 Hz) 343 m/s + 55.8 m/s
+343 m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2 500 Hz
+ 
+P17.62 
+(a) 
+The distance is larger by 240/60 = 4 times. The intensity is 16
+times smaller at the larger distance because the sound power 
+is spread over a 42 times larger area.
+ 
+ 
+(b) 
+The amplitude is 4 times smaller at the larger distance because
+intensity is proportional to the square of amplitude.
+ 
+ 
+(c) 
+The extra distance is (240 −60)/45 = 4 wavelengths. The 
+phase is the same at both points because they are separated 
+by an integer number of wavelengths.
+ 
+P17.63 
+(a) 
+If the velocity of the insect is vx , 
+ 
+ 
+ 
+40.4 kHz = 40.0 kHz
+(
+) 343 m/s + 5.00 m/s
+(
+) 343 m/s −vx
+(
+)
+343 m/s −5.00 m/s
+(
+) 343 m/s + vx
+(
+)
+ 
+ 
+ 
+Solving, vx = 3.29 m/s . 
+ 
+(b) Therefore, the bat is gaining on its prey at 1.71 m s . 
+P17.64 
+When the observer is moving in front of and in the same direction as 
+the source, ′f = f v −vO
+v −vS
+, where vO and vS are measured relative to the 
+medium in which the sound is propagated. In this case the ocean 
+current is opposite the direction of travel of the ships, and 
+ 
+ 
+ 
+vO = 45.0 km h −−10.0 km h
+(
+) = 55.0 km h = 15.3 m s, and
+vS = 64.0 km h −−10.0 km h
+(
+) = 74.0 km h = 20.55 m s
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+′f = 1 200.0 Hz
+(
+) (1 533 m s)−(15.3 m s)
+(1 533 m s)−(20.55 m s) = 1 204.2 Hz
+
+--- PAGE 34 ---
+Chapter 17     925 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.65 
+(a) 
+If the police car were at rest, the wavelength in air of its siren 
+would be  
+ 
+ 
+ 
+λ = v
+f
+= 343 m s
+1 000 s−1 = 0.343 m 
+ 
+(b) In front of the police car, 
+ 
+ 
+ 
+′
+λ = v
+′f
+= v
+f
+v −vS
+v
+⎛
+⎝⎜
+⎞
+⎠⎟= 343 −40.0
+(
+) m s
+1 000 s−1
+= 0.303 m 
+ 
+(c) 
+Behind the police car, 
+ 
+ 
+ 
+′′
+λ = v
+′′
+f
+= v
+f
+v + vS
+v
+⎛
+⎝⎜
+⎞
+⎠⎟= 343+ 40.0
+(
+) m s
+1 000 s−1
+= 0.383 m 
+ 
+(d) The frequency heard by the speeder is 
+ 
+ 
+ 
+′f = f
+v −vO
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 000 Hz
+(
+) 343 −30.0
+(
+) m s
+343 −40.0
+(
+) m s = 1.03 kHz 
+P17.66 
+(a) 
+The sound through the metal arrives first because it moves
+faster than sound in air.
+ 
+ 
+(b) Each travel time is individually given by t = L/v. Then the delay 
+between the pulses’ arrivals is Δt = L
+1
+vair
+−1
+vcu
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟= L vcu −vair
+vairvcu
+ and 
+the length of the bar is 
+ 
+ 
+ 
+L = vairvcu
+vcu −vair
+Δt =
+343 m s
+(
+) 3.56× 103 m s
+(
+)
+3 560 −343
+(
+) m s
+Δt 
+ 
+ 
+L = 380Δt, where Δt is seconds and the length is in meters. 
+ 
+(c) 
+L = (380 m/s)(0.127 s) = 48.2 m 
+ 
+(d) 
+The answer becomes L =
+Δt
+1
+343 −1
+vr
+, where vr is the speed of
+sound in the rod in meters per second, Δt is in seconds, and L
+is in meters.
+ 
+ 
+(e) 
+As vr goes to infinity, the travel time in the rod becomes
+negligible. The answer approaches 343Δt, which is just the
+distance that the sound travels in air during the delay time.
+
+--- PAGE 35 ---
+926     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.67 
+(a) 
+The Mach angle in the air is  
+ 
+ 
+ 
+θ = sin−1 vsound
+vobj
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= sin−1
+343
+20.0× 103
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.983° 
+ 
+(b) At impact with the ocean, 
+ 
+ 
+ 
+′
+θ = sin−1
+1 533
+20.0× 103
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.40° 
+P17.68 
+The time interval required for a sound pulse to travel a distance L at a 
+speed v is given by t = L
+v =
+L
+Y/ρ
+. Using this expression, we find the 
+travel time in each rod. 
+ 
+ 
+ 
+t1 = L1
+ρ1
+Y1 = L1
+2.70 × 103 kg m3
+7.00 × 1010 N m2 = L1(1.96 × 10−4 s/m) 
+ 
+ 
+ 
+t2 = (1.50 – L1) 11.3 × 103 kg m3
+1.60 × 1010 N m2
+= 1.26 × 10−3 s −(8.40 × 10−4 s/m)L1
+ 
+ 
+ 
+ 
+t3 = (1.50 m) 8.80 × 103 kg m3
+11.0 × 1010 N m2 = 4.24 × 10−4 s 
+ 
+We require t1 + t2 = t3, or 
+ 
+ 
+ 
+(1.96 × 10−4 s/m)L1 +(1.26 × 10−3 s)
+                                 −(8.40 × 10−4 s/m)L1 = 4.24 × 10−4 s
+ 
+ 
+This gives  
+ 
+  
+L1 = 1.30 m and L2 = (1.50 m) – (1.30 m) = 0.201 m 
+ 
+The ratio of lengths is  L1
+L2
+= 6.45 . 
+ 
+ANS. FIG. P17.68
+
+--- PAGE 36 ---
+Chapter 17     927 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.69 
+For the longitudinal wave  
+vL = Y
+ρ
+⎛
+⎝
+⎜
+⎞
+⎠
+⎟
+1 2
+ 
+ 
+For the transverse wave  
+vT = T
+µ
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+If we require vL
+vT
+= 8.00, we have T =
+µY
+64.0ρ
+    where   µ = m
+L
+ and 
+ 
+ 
+ρ =
+mass
+volume
+=
+m
+π r2L 
+ 
+This gives 
+ 
+ 
+T = π r2Y
+64.0 = π 2.00 × 10−3 m
+(
+)
+2 6.80 × 1010 N m2
+(
+)
+64.0
+= 1.34 × 104 N
+ 
+*P17.70 
+(a) 
+Sound moves upwind with speed (343 – 15) m/s = 328 m/s. 
+Crests pass a stationary upwind point at frequency 900 Hz. Then
+ 
+λ = v
+f = 328 m/s
+900 s−1 = 0.364 m 
+  
+(b) By similar logic, 
+λ = v
+f = 343 + 15
+(
+) m/s
+900 s−1
+= 0.398 m 
+  
+(c) 
+The source is moving through the air at 15 m/s toward the 
+observer. The observer is stationary relative to the air. 
+ 
+ 
+ 
+′f = f
+v + vo
+v −vs
+⎛
+⎝⎜
+⎞
+⎠⎟= 900 Hz
+(
+)
+343 m/s + 0
+343 m/s −15.0 m/s
+⎛
+⎝
+⎞
+⎠= 941 Hz 
+  
+(d) The source is moving through the air at 15 m/s away from the 
+downwind firefighter. Her speed relative to the air is 30 m/s 
+toward the source. 
+ 
+ 
+ 
+′f = f
+v + vo
+v −vs
+⎛
+⎝⎜
+⎞
+⎠⎟= 900 Hz
+(
+)
+343 m/s + 30.0 m/s
+343 m/s −−15.0 m/s
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 900 Hz
+(
+) 373 m/s
+358 m/s
+⎛
+⎝
+⎞
+⎠= 938 Hz
+
+--- PAGE 37 ---
+928     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P17.71 
+(a) 
+If vO = 0 m/s, then ′f =
+v
+v −vS cos θS
+f . 
+ 
+ 
+Also, when the train is 40.0 m from the intersection, and the car is  
+30.0 m from the intersection, 
+ 
+ 
+ 
+cosθS = 4
+5
+ 
+ 
+ 
+so 
+′f =
+343 m/s
+343 m/s −0.800 25.0 m/s
+(
+)
+500 Hz
+(
+), 
+ 
+ 
+or  
+′f = 531 Hz . 
+ 
+(b) Note that as the train approaches, passes, and departs from the 
+intersection, θS varies from 0° to 180° and the frequency heard by 
+the observer varies between the limits 
+ 
+ 
+ 
+′fmax =
+v
+v −vS cos 0° f =
+343 m/s
+343 m/s −25.0 m/s 500 Hz
+(
+)
+= 539 Hz
+ 
+ 
+ 
+to 
+ 
+ 
+ 
+′fmin =
+v
+v −vS cos 180° f =
+343 m/s
+343 m/s + 25.0 m/s 500 Hz
+(
+)
+= 466 Hz
+ 
+ 
+(c) 
+Now vO = +40.0 m/s, and the train is 40.0 m from the intersection, 
+and the car is 30.0 m from the intersection, so 
+ 
+ 
+ 
+cos θO = 3
+5
+ 
+ 
+ 
+ 
+′f = 343 m/s + 0.600(40.0 m/s)
+343 m/s −0.800(25.0 m/s)  (500 Hz) = 568 Hz
+ 
+P17.72 
+(a) 
+ANS. FIG. P17.72 shows a force diagram of an element of gas 
+indicating the forces exerted on the left and right surfaces due to 
+the pressure of the gas on either side of the element. 
+ 
+(b) Let P(x) represent absolute pressure as a function of x. The net 
+force to the right on the chunk of air is +P x
+( )A −P x + Δx
+(
+)A. 
+Atmospheric pressure subtracts out, leaving 
+ 
+ 
+ 
+−ΔP x + Δx
+(
+) + ΔP x
+( )
+[
+]A = −∂ΔP
+∂x ΔxA
+
+--- PAGE 38 ---
+Chapter 17     929 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P17.72 
+ 
+ 
+The mass of the air is Δm = ρΔV = ρAΔx and its acceleration is 
+∂2s
+∂t2 . So Newton’s second law becomes 
+ 
+ 
+ 
+−∂ΔP
+∂x ΔxA = ρAΔx ∂2s
+∂t2 
+ 
+(c) 
+From the result above, we have 
+ 
+ 
+ 
+−∂ΔP
+∂x ΔxA = ρAΔx ∂2s
+∂t2     →     −∂ΔP
+∂x = ρ ∂2s
+∂t2 
+ 
+ 
+Substituting ΔP = −(B∂s/∂x) (Eq. 17.3), we have 
+ 
+ 
+ 
+−∂
+∂x −B ∂s
+∂x
+⎛
+⎝⎜
+⎞
+⎠⎟= ρ ∂2s
+∂t2     →     B
+ρ
+∂2s
+∂x2 = ∂2s
+∂t2 
+ 
+(d) Into this wave equation we substitute a trial solution  
+s x, t
+(
+) = smax cos kx −ωt
+(
+). We find 
+ 
+ 
+ 
+∂s
+∂x = −ksmax sin kx −ωt
+(
+)
+∂2s
+∂x2 = −k2smax cos kx −ωt
+(
+)
+∂s
+∂t = +ωsmax sin kx −ωt
+(
+)
+∂2s
+∂t2 = −ω 2smax cos kx −ωt
+(
+)
+ 
+ 
+ 
+ B
+ρ
+∂2s
+∂x2 = ∂2s
+∂t2 becomes 
+ 
+ 
+ 
+−B
+ρ k2smax cos kx −ωt
+(
+) = −ω 2smax cos kx −ωt
+(
+) 
+ 
+ 
+This is true provided that B
+ρ k2 = ω 2 →ω
+k =
+B
+ρ
+, that is, provided 
+it propagates with speed v =
+B
+ρ .
+
+--- PAGE 39 ---
+930     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.73 
+Figure 17.10 shows that each wavefront that passes the observer is 
+spherical. Let T represent the period of the source vibration, and TMW 
+be the energy put into each wavefront during one vibration. Then 
+Power
+(
+)avg = TMW
+T . At the moment when the observer is at distance r in 
+front of the source, he is receiving a spherical wavefront of radius  
+ 
+Rw = vΔt, where Δt is the time interval since this energy was radiated. 
+Since the wavefront was radiated, the source has moved forward 
+distance  ds = vsΔt, so the total distance the wavefront has traveled is 
+ 
+ 
+ 
+Rw = r + ds
+→
+vΔt = r + vsΔt 
+ 
+therefore, 
+ 
+ 
+ 
+Δt =
+r
+v −vS
+ 
+ 
+The surface area of the sphere is 4πRw
+2 = 4π vΔt
+(
+)
+2 = 4π v2r2
+v −vS
+(
+)
+2 . The 
+energy per unit area emitted during one cycle and carried by one 
+spherical wavefront is uniform with the value 
+ 
+ 
+ 
+I = TMW
+A =
+Power
+(
+)avg T v −vS
+(
+)
+2
+4π v2r2
+ 
+ 
+The energy carried by the wavefront passes the observer in the time 
+interval T ′ = 1/f ′, where f ′ is the Doppler-shifted frequency 
+ 
+ 
+ 
+′f = f
+v
+v −vS
+⎛
+⎝⎜
+⎞
+⎠⎟=
+v
+T v −vS
+(
+)
+ 
+ 
+so the observer receives a wave with intensity 
+ 
+ 
+ 
+I =
+TMW
+A
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+T' =
+TMW
+A
+⎛
+⎝⎜
+⎞
+⎠⎟f ' =
+Power
+(
+)avg T v −vS
+(
+)
+2
+4π v2r2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+v
+T v −vS
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+I =
+Power
+(
+)avg
+4π r2
+v −vS
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 40 ---
+Chapter 17     931 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P17.2 
+(a) 1.27 Pa; (b) 170 Hz; (c) 2.00 m; (d) 340 m/s 
+P17.4 
+5.81 m 
+P17.6 
+1 × 10
+11 Pa 
+P17.8 
+(a) The speed gradually changes from  
+v = (331 m/s)(1 + 27°C/273°C)
+1/2 = 347 m/s to  
+(331 m/s) (1 + 0/273°C)
+1/2 = 331 m/s, a 4.6% decrease. The cooler air at 
+the same pressure is more dense; (b) The frequency is unchanged 
+because every wave crest in the hot air becomes one crest without 
+delay in the cold air; (c) The wavelength decreases by 4.6%, from v/f = 
+(347 m/s) (4 000/s) = 86.7 mm to (331 m/s)(4 000/s) = 82.8 mm. The 
+crests are more crowded together when they move more slowly. 
+P17.10 
+1.55 × 10
+−10 m 
+P17.12 
+(a) 153 m/s; (b) 614 m 
+P17.14 
+d −1
+2 g
+2 d −h
+(
+)
+g
+−Δt −d −h
+v
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ above the ground 
+P17.16 
+See P17.16 for complete solution. 
+P17.18 
+(a) 833 m; (b) 1.47 s 
+P17.20 
+(a) 5.00 × 10
+−5 W; (b) 3.00 × 10
+−3 J 
+P17.22 
+(a) I2 =
+′f
+f
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+I1; (b) intensity is unchanged 
+P17.24 
+0.082 W/m
+2 
+P17.26 
+150 dB 
+P17.28 
+(a) 332 J; (b) 46.4 dB 
+P17.30 
+20log r1
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P17.32 
+(a) 65.0 dB; (b) 67.8 dB; (c) 69.6 dB 
+P17.34 
+(a) 1.76 kJ; (b) 108 dB
+
+--- PAGE 41 ---
+932     Sound Waves 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.36 
+We assume that both lawn mowers are equally loud and 
+approximately the same distance away. We found in Example 17.3 that 
+a sound of twice the intensity results in an increase in sound level of 3 
+dB. We also see from the What If? section of that example that a 
+doubling of loudness requires a 10-dB increase in sound level. 
+Therefore, the sound of two lawn mowers will not be twice the 
+loudness, but only a little louder than one! 
+P17.38 
+2.82 × 10
+8 m/s 
+P17.40 
+(a) B; (b) positive; (c) negative; (d) 1 533 m/s; (e) 5.30 × 10
+3 Hz 
+P17.42 
+(a) 
+vf
+v −A
+k
+m
+; (b) 
+vf
+v + A
+k
+m
+; (c) β −20 dB
+(
+)log 1+ 2A
+d
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P17.44 
+This is much faster than a human athlete can run. 
+P17.46 
+19.7 m 
+P17.48 
+5.67 mm 
+P17.50 
+(a) 0.232 m; (b) 8.41 × 10
+−8 m; (c) 13.8 mm 
+P17.52 
+0.642 W 
+P17.54 
+(a) 2 u
+v
+1−u2
+v2
+f ; (b) 85.9 Hz 
+P17.56 
+(a) 4.63 mm; (b) 14.5 m/s; (c) 4.73 × 10
+9 W/m
+2 
+P17.58 
+(a) The wave moves outward equally in all directions; (b) Its amplitude 
+is inversely proportional to its distance from the center. Its intensity is 
+proportional to the square of the amplitude, so the intensity follows 
+the inverse-square law, with no absorption of energy by the medium; 
+(c) Its speed is constant v = f λ = ω/k = 2 030/s
+(
+) 1.36/m
+(
+) = 1.49km s . 
+By comparison to the table, it can be moving through water at 25° C, 
+and we assume it is; (d) Its frequency is constant at 
+2 030/s
+(
+)/2π = 323 Hz; (e) Its wavelength is constant at 
+2π/k = 2π/ 1.36/m
+(
+) = 4.62 m ; 
+(f) P = I4πr2 =
+2.09 × 10−4 W/m2
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟4πr2 = 2.63 mW ; (g) Its intensity 
+follows the inverse-square law; at r = 1 m, the intensity is 209 µW/m2 
+P17.60 
+(a) The repeated reflections from the steps create a repetition frequency 
+so that the ear/brain combination assigns a pitch to the sound heard 
+by the listener; (b) ~ a few hundred Hz; (c) ~ 1 m; (d) ~ 0.1 s
+
+--- PAGE 42 ---
+Chapter 17     933 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P17.62 
+(a) The distance is larger by 240/60 = 4 times. The intensity is 16 times 
+smaller at the larger distance because the sound power is spread over a 
+42 times larger area; (b) The amplitude is 4 times smaller at the larger 
+distance because intensity is proportional to the square of amplitude; 
+(c) The extra distance is (240 – 60)/45 = 4 wavelengths. The phase is the 
+same at both points because they are separated by an integer number 
+of wavelengths 
+P17.64 
+1 204.2 Hz 
+P17.66 
+(a) The sound through the metal arrives first because it moves faster 
+than sound in air; (b) L = 380Δt, where Δt is in seconds and the length 
+is in meters; (c) 48.2 m; (d) The answer becomes L =
+Δt
+1
+343 −1
+vr
+ where vr 
+is the speed of sound in the rod in meters per second, Δt is in seconds, 
+and L is in meters; (e) As vr goes to infinity, the travel time in the rod 
+becomes negligible. The answer approaches 343Δt which is just the 
+distance that the sound travels in air during the delay time 
+P17.68 
+6.45 
+P17.70 
+(a) 0.364 m; (b) 0.398 m; (c) 941 Hz; (d) 938 Hz 
+P17.72 
+(a) See ANS. FIG P17.72; (b) See P17.72(b) for full explanation; (c) See 
+P17.72(c) for full explanation; (d) See P17.72(d) for full explanation.

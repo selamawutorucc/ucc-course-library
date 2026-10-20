@@ -1,0 +1,46 @@
+                                                                                                            Name: Millicent Nti Ankrah
+                                                                                                            Index number: SM/SMS/08/0044
+                                                                                                            Date: 10th October, 2008.
+TITLE: EXPERIMENT WITH A HELICAL SPRING.
+AIM: To determine the mass of a helical spring.
+APPARATUS: helical spring, slotted weights (, retort stand, stop watch ().
+DIAGRAM
+	Helical spring
+	Slotted weights
+	Retort stand
+THEORY
+The helical spring in this experiment uses the principles of Hook’s law. Hook’s law states provided the elastic limit is not exceeded, the extension of a spring is directly proportional to the load. Loads greater than the elastic limit must not be added to the helical spring otherwise the spring becomes permanently strained and is then useless. If a spring with weights M attached to it is stretched a small distance x from its unstretched or equilibrium position and then released, it exerts a force on the weight. From experiment, this spring force is found to obey the equation
+                                               F =     ……….. (1)
+Where x is the displacement of the weight from its equilibrium(x=0) position and k is a positive constant called the spring constant. The value of f is the measure of the stiffness of the spring. Stiff springs have large f values, and soft spring have small f values. The negative sign in the equation signifies that the force exerted by the spring is always directed opposite the displacement of the object. The spring force is called the restoring force because it always acts towards the equilibrium position. If the force of a body is mass  acceleration then equation (1) will be                      Ma= -fx ……….. (2)      where a represents the acceleration towards the equilibrium position. From equation (2), it can be seen that motion of spring after being displaced from its original position is simple harmonic because the acceleration is directed towards a fixed point (equilibrium position) and directly proportional to the displacement in an opposite direction. Therefore,      x 
+In simple harmonic motion, the period,     but   w
+This implies that            
+In this equation, the mass of the spring was neglected. Considering the case when the mass of the spring is not neglected,         where m is the mass of the spring.
+Making M the subject, M.Therefore –m is the negative intercept.
+METHOD
+A spiral spring was suspended from a firm support. A mass of 70g was affixed to the free end of the spring, which caused a small depression. The spring together with the mass was set through a vertical vibration by exciting it through a small displacement. The periodic time, T, for 20 oscillations was then measured with a stop watch. The period for five other values of mass, M, in steps of 20g (i.e. M=90g, 110g, 130g and 150g) was taken. In each case, two timings for 20 oscillations were taken. The experiment was repeated then three more times. The results were recorded and tabulated.
+TABLE OF RESULTS
+A table showing the relationship between the mass and period during oscillation. 
+GRAPH
+A GRAPH OF MASS AGAINST PERIOD SQUARED.
+ CALCULATIONS
+From the graph the y-intercept is 9.71.Hence the mass of the spring is 9.71g.
+DISCUSSION
+The aim of this experiment is to determine the mass of the spring used. To get the mass of the spring, the spring was clamped to fixed support; the spring loaded with load and excited through a small displacement. The time for complete 20 oscillations was then recorded. When the loads are added to the spring, they cause the spring to be under tension due to the force of gravity acting on the loads. This then stretches the spring until equilibrium is reached. When the loads are moved away from the equilibrium by a distance A and then released, a net force acts towards the equilibrium position. This net force causes the loads to return to their equilibrium position. As the loads return to their equilibrium position, the net force decreases and the speed with which the system moves increases. The system continues to move until it reaches the maximum position equal to  on each side of the equilibrium. This to and fro movement is termed oscillation. This motion stops at A=0(equilibrium position).From the experiment it was realized that increase in loads increased the period. The actual mass of the spring is 9.4g but the experimental value is 9.71.The difference 0.11g is due to errors committed in the experiment. Air resistances influenced the values, apparatus error also inclusive.
+SOURCES OF ERROR
+(1)Air resistance from opened windows in the laboratory affected the oscillation.
+(2)Buoyancy effect on the balance affected the real mass of the spring to be altered
+PRECAUTION
+(1)All the fans in the room were turned off.
+(2)It was made sure that the oscillated vertically and not horizontally.
+(3)The spring was displaced through small amplitude.
+CONCLUSION
+The mass of the helical spring is 9.71g.
+                                    REFERENCES
+(1)Faughn .J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+(2)Nelkon .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+Mass(g) | t1 | t2 | tav | T |    T2
+     70 |     10.75 |    10.74 |      10.74 |   0.537 | 0.288
+    90 |     20.40 |    20.41 |      20.41 |   1.021 | 1.042
+  110 |     22.64 |    22.62 |      22.63 |   1.132 | 1.281
+  130 |     24.58 |    24.59 |      24.58 |   1.229 | 1.510
+  150 |     26.74 |    26.72 |      26.73 |   1.336 | 1.785

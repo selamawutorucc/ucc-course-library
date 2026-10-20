@@ -1,0 +1,759 @@
+
+--- PAGE 1 ---
+The Internet
+Elliot Attipoe
+www.ucc.edu.gh
+
+--- PAGE 2 ---
+Internet Usage Stats
+www.ucc.edu.gh
+
+--- PAGE 3 ---
+www.ucc.edu.gh
+3
+
+--- PAGE 4 ---
+History of Internet in Ghana
+• Ghana is known to be 
+the first country in West 
+Africa to be connected 
+to the Internet in 1994.
+• Prof. Nii Narku Quaynor 
+is attributed to have 
+brought internet to 
+Ghana.
+www.ucc.edu.gh
+4
+
+--- PAGE 5 ---
+Ghana Internet Usage 
+www.ucc.edu.gh
+
+--- PAGE 6 ---
+Mobile Penetration Rate
+www.ucc.edu.gh
+6
+
+--- PAGE 7 ---
+Networking Fundamentals
+• Computer network:
+– Two or more computers connected together
+• Benefits of a network:
+– Sharing resources
+– Transferring files
+www.ucc.edu.gh
+
+--- PAGE 8 ---
+Components of computer network
+1.
+Server 
+2.
+Transmission media
+3.
+Network Interface Card 
+4.
+Switch/Hub
+5.
+Router 
+6.
+PC/Client/work station/node 
+8
+
+--- PAGE 9 ---
+Computer Network
+9
+
+--- PAGE 10 ---
+Wireless network 
+10
+
+--- PAGE 11 ---
+Corporate Network
+11
+
+--- PAGE 12 ---
+Servers
+12
+
+--- PAGE 13 ---
+Servers
+• Servers are computers that hold shared files, 
+programs, and the network operating system.
+• Servers provide access to network resources to 
+all the users of the network. 
+• There are many different kinds of servers, and 
+one server can provide several functions. 
+• For example, there are file servers, print 
+servers, mail servers, communication servers, 
+database servers, fax servers and web servers, 
+to name a few. 
+13
+
+--- PAGE 14 ---
+Rackmount Servers
+14
+
+--- PAGE 15 ---
+Data Center 
+15
+
+--- PAGE 16 ---
+Data Center 
+16
+
+--- PAGE 17 ---
+Data center
+www.ucc.edu.gh
+17
+
+--- PAGE 18 ---
+Google Data Center Locations
+www.ucc.edu.gh
+18
+
+--- PAGE 19 ---
+Microsoft Azure Data Centers
+www.ucc.edu.gh
+19
+
+--- PAGE 20 ---
+www.ucc.edu.gh
+20
+
+--- PAGE 21 ---
+Network Interface Card
+21
+
+--- PAGE 22 ---
+RJ45 + Network Interface Card
+22
+
+--- PAGE 23 ---
+23
+
+--- PAGE 24 ---
+Network Interface Card
+• Network Interface Card is a communications 
+device that enables a computer or device that 
+does not have built-in networking capability to 
+access a network.
+• The network card coordinates the transmission and 
+receipt of data, instructions, and information to 
+and from the computer or device containing the 
+network card. 
+24
+
+--- PAGE 25 ---
+Hub/Switch
+25
+
+--- PAGE 26 ---
+Computers connected to a switch
+26
+
+--- PAGE 27 ---
+Computer Lab
+27
+
+--- PAGE 28 ---
+Hub and switches
+• A hub or switch is a device that provides a central 
+point for cables in a network.
+• Larger networks typically use a hub, while smaller 
+networks use a switch. 
+• Hubs are very simple devices that connect network 
+components, sending a packet of data to all other 
+connected devices. 
+• A switch has more intelligence than a hub and can 
+filter and forward data to a specified destination 
+on the network. 
+28
+
+--- PAGE 29 ---
+Router 
+29
+
+--- PAGE 30 ---
+Router
+30
+
+--- PAGE 31 ---
+Router 
+• A router is a communications device that connects 
+multiple computers or other routers together and 
+transmits data to its correct destination on a 
+network. 
+• A router forwards data packets between computer 
+networks.
+• Routers perform the traffic directing functions on 
+the Internet.
+• A router can be used on a network of any size. 
+31
+
+--- PAGE 32 ---
+Computer network
+32
+
+--- PAGE 33 ---
+Transmission Media
+• Transmission media consist of materials or substances 
+capable of carrying one or more communications signals. 
+• When you send data from a computer or mobile device, the 
+signal that carries the data
+may travel over various transmission media. 
+• Classification 
+– Physical Transmission Media 
+– Wireless Transmission Media 
+33
+
+--- PAGE 34 ---
+Physical Transmission Media 
+• Physical transmission media use wire,
+cable, and other tangible materials to send 
+communications signals. 
+• These wires and cables typically are used 
+within, underground, or between buildings. 
+34
+
+--- PAGE 35 ---
+35
+
+--- PAGE 36 ---
+Twisted Pair (Ethernet wire cable)
+36
+
+--- PAGE 37 ---
+Coaxial Cable
+37
+
+--- PAGE 38 ---
+Fiber Optics Cable
+38
+
+--- PAGE 39 ---
+Broadband over power line
+39
+
+--- PAGE 40 ---
+Wireless Transmission Media 
+• Wireless transmission media send 
+communications signals through the air or space. 
+• Many users opt for wireless transmission media 
+because it is more convenient than installing 
+cables. 
+40
+
+--- PAGE 41 ---
+41
+
+--- PAGE 42 ---
+Components of computer network
+1.
+Server 
+2.
+Transmission media
+3.
+Network Interface Card 
+4.
+Switch/Hub
+5.
+Router 
+6.
+PC/Client/work station
+42
+
+--- PAGE 43 ---
+Types of Network 
+• A local area network (LAN) is a network that 
+connects computers and devices in a limited 
+geographical area such as a home, school, 
+office building.
+• A metropolitan area network (MAN) is a high-
+speed network that connects local area 
+networks in a metropolitan area, such as a city 
+or town, and handles the bulk of 
+communications activity across that region.
+43
+
+--- PAGE 44 ---
+Types of Network 
+• A wide area network (WAN) is a network that 
+covers a large geographic area (such as a city, 
+country, or the world) using a variety of wired and 
+wireless transmission media.
+• A personal area network (PAN) is a network that 
+connects computers and devices in an individual’s 
+workspace using wired and wireless technology. 
+• Devices include smartphones, digital cameras, 
+printers, and more.
+44
+
+--- PAGE 45 ---
+Phone Hotspot (PAN)
+45
+
+--- PAGE 46 ---
+www.ucc.edu.gh
+
+--- PAGE 47 ---
+Intranet Services
+• Electronic mails
+• Discussion groups/ Newsgroups
+• Chatting and Instant messaging
+• Internet Telephony (VoIP)
+• File Transfer Protocol (FTP) 
+• Video conferencing 
+• World wide web (Websites)
+www.ucc.edu.gh
+
+--- PAGE 48 ---
+Internet vs Web
+• The Internet contains physical components
+– computers
+– networks
+– services
+• The Internet connects thousands of computers across the 
+world, but it is the web that allows communication to 
+occur
+• Web - abstraction and common set of services on top of 
+the Internet
+• Web - set of protocols and tools that let us share 
+information with each other
+www.ucc.edu.gh
+
+--- PAGE 49 ---
+Evolution of the Internet
+• The Internet originated as ARPANET in 
+September 1969 and had two main goals:
+49
+Allow scientists at 
+different physical 
+locations to share 
+information and work 
+together
+Function even if part of 
+the network were 
+disabled or destroyed 
+by a disaster
+
+--- PAGE 50 ---
+Evolution of the Web
+• Sir Tim Berners-Lee is famously credited for the 
+invention of the World Wide World in the 
+early 1989.
+www.ucc.edu.gh
+50
+
+--- PAGE 51 ---
+www.ucc.edu.gh
+
+--- PAGE 52 ---
+Undersea cables that keep the Internet alive
+www.ucc.edu.gh
+
+--- PAGE 53 ---
+Undersea cables that keep the Internet alive
+www.ucc.edu.gh
+
+--- PAGE 54 ---
+www.ucc.edu.gh
+54
+
+--- PAGE 55 ---
+www.ucc.edu.gh
+55
+
+--- PAGE 56 ---
+Connection to Internet
+
+Mobile broadband - USB modem (dongle)/MiFi
+
+Home Broadband - Digital Subscriber Line (DSL) 
+
+WiFi Hotspot
+
+Cellular networks 
+www.ucc.edu.gh
+
+--- PAGE 57 ---
+Mobile Broadband
+• Wireless Internet access through a portable 
+modem.
+www.ucc.edu.gh
+
+--- PAGE 58 ---
+Cellular network technology
+www.ucc.edu.gh
+
+--- PAGE 59 ---
+The promise of 5G network
+www.ucc.edu.gh
+
+--- PAGE 60 ---
+Surfline 4G Devices
+www.ucc.edu.gh
+
+--- PAGE 61 ---
+Surfline 
+www.ucc.edu.gh
+
+--- PAGE 62 ---
+Home broadband
+• Digital Subscriber Line (DSL)
+– Faster than mobile broadband
+– Requires a fixed telephone line
+www.ucc.edu.gh
+
+--- PAGE 63 ---
+Digital Subscriber Lines
+www.ucc.edu.gh
+
+--- PAGE 64 ---
+Cost of data - Vodafone 
+www.ucc.edu.gh
+
+--- PAGE 65 ---
+Connecting to the Internet
+• An Internet service provider (ISP) is a business 
+that provides individuals and organizations 
+access to the Internet free or for a fee
+• Bandwidth represents the amount of data that 
+travels over a network
+– Megabyte (MB)
+– Gigabyte (GB)
+65
+
+--- PAGE 66 ---
+Internet Service Providers
+List of companies: 
+– All telcos
+– Busy internet
+– Zipnet
+– iBurst
+– Main one
+– Internet Ghana
+– Glo-1
+– Surline
+www.ucc.edu.gh
+
+--- PAGE 67 ---
+Connecting to the Web
+• Web browser is software that allows you to locate, 
+view, and navigate the Web. 
+www.ucc.edu.gh
+
+--- PAGE 68 ---
+Getting Around the Web
+• Web sites
+• URLs
+• Hyperlinks
+• Favorites and Bookmarks
+www.ucc.edu.gh
+
+--- PAGE 69 ---
+Web Sites
+• Web site:
+– Collection of related Web pages
+– First page known as Home or Index page
+• Web page:
+– HTML document
+• Text and graphics
+– Unique address
+– Hyperlinks 
+Home page
+Related  
+pages
+www.ucc.edu.gh
+
+--- PAGE 70 ---
+www.ucc.edu.gh
+70
+
+--- PAGE 71 ---
+Internet Addressing and Architecture 
+• Internet Protocol (IP) Address 
+• Every computer on the Internet is assigned a unique IP. 
+• To access a computer on the internet, you only have to 
+specify its IP address. 
+• An example of IP address: 207.46.250.119, 10.0.0.1
+• The numbers ranges from 0 – 255 
+71
+
+--- PAGE 72 ---
+www.ucc.edu.gh
+72
+
+--- PAGE 73 ---
+www.ucc.edu.gh
+73
+
+--- PAGE 74 ---
+Internet Addressing and Architecture 
+• Domain Name and Domain Name Systems 
+• Remembering the IP address is difficult hence an 
+english-like  description of IP hence domain names.
+• Domain Name is the English-like name that 
+corresponds to an IP address.
+• Domain Name system (DNS) converts domain names 
+to IP addresses. 
+74
+
+--- PAGE 75 ---
+Internet architecture and governance
+• No formal management: IAB, ICANN, W3C
+• IAB - Internet Architecture Board
+– Internet Society that overseer the technical evolution of 
+the Internet.
+• ICANN - Internet Corporation for Assigned Names and 
+Numbers
+– a private (non-government) non-profit corporation with 
+responsibility for IP address space allocation, protocol 
+parameter assignment, domain name system 
+management etc.
+• W3C - World Wide Web Consortium
+– develop standards for the World Wide Web.
+75
+
+--- PAGE 76 ---
+List of countries by IPv4 address allocation
+www.ucc.edu.gh
+76
+
+--- PAGE 77 ---
+Countries can block websites 
+77
+
+--- PAGE 78 ---
+78
+
+--- PAGE 79 ---
+Uniform Resource Locator (URL)
+• URL is the address of a web page or the address of a 
+resource on the Internet.
+• Example URLs: 
+– www.ucc.edu.gh
+– https://snm.ucc.edu.gh/
+– https://nursing.ucc.edu.gh/
+– www.ghana.gov.gh
+– www.ges.gov.gh
+– www.vodafone.com.gh
+– www.google.com
+– www.google.com.gh
+www.ucc.edu.gh
+
+--- PAGE 80 ---
+Parts of web address or URL
+www.ucc.edu.gh
+
+--- PAGE 81 ---
+www.ucc.edu.gh
+
+--- PAGE 82 ---
+URL of MOH
+• Identify the paths of this MOH URL: 
+• https://portal.ucc.edu.gh
+www.ucc.edu.gh
+
+--- PAGE 83 ---
+Current Top-Level Domains
+TLD
+Meaning 
+.com
+Can be used by anyone (commercial)
+.edu
+Academic institution
+.gov
+Governments
+.info
+Information Service Providers
+.net
+Networking Organisation
+.org
+Organisations (often non-profit)
+.gh
+.com.gh
+or     .edu.gh
+Country domain
+www.ucc.edu.gh
+
+--- PAGE 84 ---
+www.ucc.edu.gh
+84
+
+--- PAGE 85 ---
+Search Engines
+• User keys word or 
+phrase in search box
+• “Spider” or “Web 
+Crawler” program scans 
+web pages
+• Results are indexed and 
+sent to the client
+www.ucc.edu.gh
+
+--- PAGE 86 ---
+Criteria for Evaluating the Accuracy/Validity of a 
+Website
+• Authority and Affiliation 
+– Authority reveals that the person, institution or agency 
+responsible for a site has the qualifications and knowledge to 
+do so. 
+– Contact information should be clearly provided: e-mail 
+address, snail mail address, phone number, and fax
+number.
+– Credentials: the author should state qualifications, credentials, 
+or personal background that gives them authority to present 
+information.
+– Check to see if the site supported by an organization or a 
+commercial body.
+www.ucc.edu.gh
+86
+
+--- PAGE 87 ---
+Criteria for Evaluating the Accuracy/Validity of a 
+Website
+• Audience
+– Who is the website’s intended audience? 
+Academics? The general public? School children?
+– Does it appropriately address the target audience?
+– Is it relevant for your assignment or research?
+www.ucc.edu.gh
+87
+
+--- PAGE 88 ---
+Criteria for Evaluating the Accuracy/Validity of a 
+Website
+• Accuracy
+– Is it free from spelling errors?
+– Is the text well-written and grammatically correct?
+– Has the content been through an editing process or 
+been peer reviewed?
+– Has the author included a bibliography?
+– Are the sources cited reliable and can they be 
+verified elsewhere?
+– Are research methodologies adequately 
+explained?
+www.ucc.edu.gh
+88
+
+--- PAGE 89 ---
+Criteria for Evaluating the Accuracy/Validity of a 
+Website
+• Objectivity
+– Does the author present objective arguments or make it 
+clear when he is expressing biased opinions?
+– Are other points of view explored?
+– Is it a personal website? Does it express personal 
+opinions?
+– Is the website part of a commercial organization, a 
+political party or an organization with a specific 
+agenda? If yes, question the motives for publishing the 
+information.
+– Does the website promote a biased viewpoint?
+www.ucc.edu.gh
+89
+
+--- PAGE 90 ---
+Criteria for Evaluating the Accuracy/Validity of a 
+Website
+• Currency
+– Can you tell when the information was published?
+– Is the information up to date?
+– How frequently is the website updated?
+– Are the links up to date and working?
+www.ucc.edu.gh
+90
+
+--- PAGE 91 ---
+E-commerce
+• Three major types of e-commerce
+– Business-to-consumer (B2C)
+• Example: amazon.com, Aliexpress.com, KiKuu.com, 
+jumia.com.gh
+– Business-to-business (B2B)
+• Example: Alibaba.com 
+– Consumer-to-consumer (C2C)
+• Example: eBay, tonaton, olx
+• E-commerce can be categorized by platform
+– Mobile commerce (m-commerce)
+
+--- PAGE 92 ---
+E-commerce revenue models
+• Advertising 
+• Sales 
+• Subscription
+• Free/Freemium
+• Transaction fee 
+• Affiliate
+
+--- PAGE 93 ---
+www.ucc.edu.gh
+93
+
+--- PAGE 94 ---
+How to generate revenue from the web
+• How to generate revenue from youtube.
+• Enable AdSense 
+• Your youtube videos with 1000 views you earn 
+$7.6 
+• Gangnam Style had 1 billion views and was paid 
+$7.8 million 
+www.ucc.edu.gh
+
+--- PAGE 95 ---
+www.ucc.edu.gh
+
+--- PAGE 96 ---
+Content Management System (CMS)
+• CMS is software that helps users create, 
+manage, and modify content on a website 
+without the need for specialized technical 
+knowledge.
+• In simpler language, a CMS is a tool that helps 
+you build a website without needing to write all 
+the code from scratch (or even know how to 
+code at all).
+www.ucc.edu.gh
+
+--- PAGE 97 ---
+Popular content management systems 
+• WordPress
+• Joomla
+• Drupal
+• Magento (for eCommerce stores)
+• Squarespace
+• Wix
+• ExpressionEngine
+• Alfresco 
+www.ucc.edu.gh
+
+--- PAGE 98 ---
+E-commerce apps
+www.ucc.edu.gh
+
+--- PAGE 99 ---
+Mobile Payment Apps 
+• Bank Apps
+• Mobile Money apps 
+• Third party apps
+Expresspay
+Slydepay
+Zeepay
+Hubtel
+Mazzuma
+Myghpay
+Interpay
+Paypal*   
+www.ucc.edu.gh
+
+--- PAGE 100 ---
+Netiquette 
+• Netiquette, which is short for Internet etiquette, 
+is the code of acceptable behaviors users 
+should follow while on the Internet; that is, it is 
+the conduct expected of individuals while 
+online. 
+www.ucc.edu.gh
+
+--- PAGE 101 ---
+www.ucc.edu.gh

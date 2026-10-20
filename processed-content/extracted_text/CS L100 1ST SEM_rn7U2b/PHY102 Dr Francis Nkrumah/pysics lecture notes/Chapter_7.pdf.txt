@@ -1,0 +1,602 @@
+
+--- PAGE 1 ---
+Lecture 7: Conservation of Energy 
+ 
+ 
+ 
+1
+Chapter 7: Conservation of Energy 
+Introduction 
+If the quantity of a subject does not change with time, it means that the quantity is 
+“conserved”. The quantity of that subject remains constant even its change between two 
+points is different. The best way to explain that quantity is the energy. If the energy is 
+conserved in a system, then it is known that the total amount of this energy remains constant 
+even its shape changes. 
+ 
+We know that (from previous Chapter) the energy is the capacity to do work. In fact, the work 
+is a kind of energy. The work is related to the force that is applied to a body to change its 
+position. So, there is relation between energy and the force. 
+Conservative/non-conservative forces 
+The forces that are applied on bodies to do work are called “conservative” or “non-
+conservative” forces. 
+ 
+On a straight line, if a body moves forward and backward, then the force exerted on this body 
+is called “conservative”. In one dimension, the gravitational force and the spring force can be 
+given as examples for conservative forces. 
+ 
+If a body moves upward, the gravitation force does a work which is negative: 
+Then, the body falls freely, and the work done by the gravitation force becomes positive: 
+The total work done by the gravitational force is “0” since we know that the initial and final 
+points for the object is same: 
+ 
+For the spring force: 
+The total work done by the spring is again “0” since 
+f
+i
+x
+x
+x
+. Then 
+ 
+If a force “F” applied on a body changes its position under a friction force, then this force can 
+not be “conservative”. Even though the object changes its position forward and backward, 
+there will be always a friction force which is in the opposite direction. Since the work done by 
+the friction force is negative, the total work done by the force “F” will not be “0”. So, the 
+frictional force is a non-conservative force. In summary, a conservative force is a force for 
+which the work done on a closed path is equal to zero. 
+ 
+)
+(
+1
+1
+i
+f
+y
+y
+mg
+W
+ 
+(7.1) 
+)
+(
+2
+2
+i
+f
+y
+y
+mg
+W
+ 
+(7.2) 
+0
+,
+1
+2
+2
+1
+W
+W
+W
+y
+y
+y
+y
+net
+i
+f
+i
+f
+ 
+(7.3) 
+x
+k
+F
+ 
+(7.4) 
+0
+)
+(
+2
+1
+2
+2
+i
+f
+net
+x
+x
+k
+W
+ 
+(7.5)
+
+--- PAGE 2 ---
+Lecture 7: Conservation of Energy 
+ 
+ 
+ 
+2
+Conservative systems and mechanical energy 
+The system means an object and its environment which interacts with that object. A car 
+moving on an inclined plane is in the system of the car itself, the inclined plane, and the earth 
+due to gravitation. So; the system is not only the object but its environment that has effects on 
+the motion of that object. If forces in a system are conservative than this system is called 
+“conservative system”. 
+ 
+An example for a conservative system is freely-falling object: If the air resistance is 
+neglected, then the work done on the object is: 
+Using energy-work theorem, 
+and 
+then 
+from this equation we see that each side is equal to a constant. Then we say 
+where U is the potential energy for the object at height “y” and K is the kinetic energy. Then 
+it is seen that 
+This is the Mechanical Energy for the object and it is constant. 
+Potential energy and the conservation of mechanical 
+energy 
+The amount of change in the potential energy is given by: 
+here, the negative sign in the integration shows us that the decrease in the potential is 
+conserved by the increase in the kinetic energy. 
+then 
+ad we get 
+)
+(
+i
+f
+y
+y
+mg
+W
+ 
+(7.6) 
+2
+2
+2
+1
+2
+1
+i
+f
+i
+f
+mv
+mv
+K
+K
+W
+ 
+(7.7) 
+i
+f
+mgy
+mgy
+W
+2
+2
+2
+1
+2
+1
+i
+f
+mv
+mv
+ 
+(7.8) 
+2
+2
+2
+1
+2
+1
+f
+f
+i
+i
+mv
+mgy
+mv
+mgy
+ 
+(7.9) 
+f
+f
+i
+i
+f
+f
+i
+i
+K
+U
+K
+U
+mv
+mgy
+mv
+mgy
+2
+2
+2
+1
+2
+1
+ 
+(7.10) 
+K
+U
+E
+K
+U
+t
+cons
+K
+U
+total
+f
+f
+i
+i
+tan
+ 
+(7.10) 
+i
+f
+x
+x
+x
+U
+U
+W
+dx
+x
+F
+U
+f
+i
+)
+(
+ 
+(7.11) 
+i
+f
+i
+f
+U
+U
+K
+K
+W
+U
+)
+(
+ 
+(7.12) 
+i
+i
+f
+f
+K
+U
+U
+K
+ 
+(7.13)
+
+--- PAGE 3 ---
+Lecture 7: Conservation of Energy 
+ 
+ 
+ 
+3
+The energy is conservative in a conservative system. 
+Gravitational potential energy 
+The work done by the gravitational force is 
+If 
+f
+f
+i
+i
+mgy
+U
+U
+y
+,0
+0
+ 
+If 
+i
+i
+f
+f
+mgy
+U
+U
+y
+,0
+0
+ 
+There is no difference for the sign of the potential energy for the object. You can take whether 
+0
+fy
+or 
+0
+iy
+. The difference between two points will be always equal to each other. 
+Potential energy for a spring 
+The Hooke law states that 
+and the work done by the spring is given by  
+Since the potential energy is 
+If 
+2
+2
+1
+0
+kx
+U
+xi
+ 
+As seen in the last Equation, the potential energy for a spring can not be “negative”. 
+Non-conservative forces 
+We know that the mechanical energy is written as 
+Now, we know that the work done by an object may not be conservative all time. Then we 
+write the net work done by the force as 
+and we know 
+)
+(
+i
+f
+cons
+U
+U
+W
+, so 
+and we said 
+i
+f
+E
+E
+ 
+(7.14 
+)
+(
+i
+f
+i
+f
+y
+y
+mg
+U
+U
+ 
+(7.15 
+x
+k
+x
+F
+)
+(
+ 
+(7.16) 
+)
+(
+2
+1
+2
+2
+i
+f
+x
+x
+k
+W
+. 
+(7.17) 
+)
+(
+2
+1
+2
+2
+i
+f
+i
+f
+x
+x
+k
+U
+U
+W
+U
+ 
+(7.18) 
+net
+i
+f
+W
+K
+K
+ 
+(7.19) 
+noncons
+cons
+net
+W
+W
+W
+ 
+(7.20) 
+noncons
+i
+f
+net
+W
+U
+U
+W
+)
+(
+ 
+(7.21) 
+noncons
+i
+f
+noncons
+i
+i
+f
+f
+noncons
+i
+f
+i
+f
+W
+E
+E
+W
+U
+K
+U
+K
+W
+U
+U
+K
+K
+)
+(
+ 
+(7.22)
+
+--- PAGE 4 ---
+Lecture 7: Conservation of Energy 
+ 
+ 
+ 
+4
+here, it is seen obviously that 
+0
+i
+f
+E
+E
+ and 
+noncons
+W
+ can not be calculated easily. To find 
+noncons
+W
+ we must know the initial and final conditions of the object. 
+ 
+Examples and Problems 
+Question 7.1: 
+As it is known the air resistance is a kind of force with a magnitude proportional to 
+2
+v , and it 
+always acts in the opposite direction of the velocity of the particle. Is it a conservative force? 
+Explain your reason. 
+ 
+Solution 7.1: 
+No! Let us consider an object thrown into the air: it first reaches a maximum height then 
+returns to the ground. It thus completes a round trip (closed path). By our first principle of 
+conservative forces, the total work done by air resistance over this closed loop must be zero. 
+However, since the air resistance always opposes the motion of objects moving with a 
+velocity, it acts in the opposite direction as the displacement of the object for the entire trip. 
+Thus the total work over this closed loop must be negative, and air resistance, much like 
+friction, is a non-conservative force. 
+ 
+ 
+Question 7.2: 
+The force of a mass on a spring is given by 
+x
+k
+x
+F
+)
+(
+. Calculate the total work done by the 
+spring over one complete oscillation. To do this 
+calculation, assume that the initial displacement of the 
+mass is from d, to -d, and then it returns back to its 
+original displacement from –d, to d (In this way 
+confirm the fact that the spring force is conservative!). 
+ 
+Solution 7.2: 
+ 
+To calculate the total work done during the trip, we 
+must evaluate the integral 
+f
+i
+x
+x
+dx
+x
+F
+W
+)
+(
+. Since the 
+mass changes its directions in the motion, we must 
+actually evaluate two integrals: one from d, to -d, and 
+one from –d, to d:  
+ 
+d
+d
+d
+d
+x
+x
+dx
+kx
+dx
+kx
+dx
+x
+F
+W
+f
+i
+)
+(
+)
+(
+)
+(
+ 
+0
+0
+2
+1
+2
+1
+2
+2
+d
+d
+d
+d
+kx
+kx
+W
+ 
+and finally 
+0
+W
+ 
+ 
+Figure 7.1: a) initial position of mass,  
+b) position of mass halfway through 
+oscillation, c) final position of mass.
+
+--- PAGE 5 ---
+Lecture 7: Conservation of Energy 
+ 
+ 
+ 
+5
+Thus the total work done over a complete oscillation (a closed loop) is zero, confirming that 
+the spring force is indeed conservative.

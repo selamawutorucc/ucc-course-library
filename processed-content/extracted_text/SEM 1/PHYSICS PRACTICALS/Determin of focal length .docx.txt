@@ -1,0 +1,52 @@
+UNIVERSITY OF CAPE COAST
+ARHIN KODJO JEFFREY
+SM/SMS/09/0054
+PHY104:  GENERAL PHYSICS PRACTICALS
+EXPERIMENT SEVEN
+REFRACTION OF LIGHT 
+11TH MARCH 2010
+AIM
+The aim of the experiment is to determine the focal length of a converging lens
+APPARATUS
+Illuminated object O		1
+Screen				1
+Converging lens L		1
+Optical bench			1
+Lens holder			1 
+Meter rule                         	1
+DIAGRAM
+THEORY
+Light can travel through vacuum as well as other material such as glasses, air and water. The atoms of a material absorb, reemit or scatter the light. Therefore the speed of light in any material is slower than in vacuum and the speed of light depends on the nature of the material. Refraction is the change in the direction of light ray when it travels through different materials. The index of refraction of a material describes the extent to which the speed of the light in a medium differs from that of vacuum. Lenses are optical instruments made from transparent materials that refract light. They refract light such that the image of the source of light is formed. An object at infinity which is centred on the principal axis of a converging lens produces parallel rays to the principal axis which eventually converge at the focal point of the lens after passing through the lens. A converging lens has a curved surface with a thickened centre unlike a diverging lens. The distance between the focal point and the lens is the focal length, f. It is assumed that the lens is thin as compared to  such that it makes no difference whether  is measured between the focal point and either surface of the lens or the centre of the lens. The converging lens can form both real and virtual images depending on the position of the object from the lens.  When an object is located at a distance from the lens greater than twice the focal length, the image is small, real and inverted than the object. An object located a distance from the lens that is between the focal length and the twice the focal length, the image is real inverted and larger than the object. An object within f produces virtual, upright and larger image as compared to the object. The refractive power of a lens is the reciprocal of the focal length in metres. 
+Consider an illuminated object placed in front of a screen as shown below. At position B closer to the screen, the lens forms a sharp image on the screen. Let the distance from B to the lens be  When the lens is shifted to position A, where the lens is closer to the illuminated than to the screen, another sharp image is formed on the screen. Let that position be labelled as A. Then, the distance from B to the screen is labelled.  The distance between the illuminated object and the screen is labelled . The displacement of the lens from position A to B is denoted as .
+From the diagram above,
+Adding 1 and 2                 →    
+Subtracting equation 2 from 1          
+Substitute (3) into (4 ) , we have             
++                         
+  And. Hence a graph of against  has a gradient of 4f which can be used to calculate the focal length.
+PROCEDURE
+The approximate focal length of the converging lens was obtained by focusing the image of a tree outside the lab on the screen. The illuminated object O and the screen were placed on the optical bench about more than 4f apart and the separation l was recorded carefully. Placing the lens nearer the screen, its position was adjusted until a sharp image was focused. The position Y of the lens on the bench was noted and recorded. The lens was moved away from the screen until a, at a second position X, a magnified image was formed on the screen and sharply focused. The difference between the two readings X and Y was denoted as the displacement d. The experiment was repeated for about five different values of l and the d values were noted.  for each l measured. 
+TABLE OF RESULTS
+CALCULATION 
+DISCUSSION
+From the equation in the theory, it was indicated that l2-d2 was directly proportional to l hence a graph with a straight passing through the origin was produced. The straight line in the graph had a slope of 0.80m. From the theory it was realized that the slope of the graph was about four times the focal length of the lens. The focal length measured at the initial phase of the experiment was 20cm. From the graph, the focal length was also calculated to be 0.20m or 20cm. so it can be observed that the experimental value of the focal length was equivalent to the calculated focal length. Hence, this proves the formula accurate. 
+SOURCES OF ERROR
+Error may be due to the fact that the meter rule was not accurately calibrated and therefore gave wrong values for the measurement of the displacement (d),x and y distances.
+Error may be due to the fact that the lens was not made from a material which is highly transparent so that all the light rays can be refracted perfectly to a single focus to form sharp images. The inability to distinguish very sharp images from somehow distorted ones resulted in measuring wrong positions as where the sharp images were formed.    
+PRECAUTIONS
+It was ensured that the illuminated object and the screen were separated more than 4f before measuring the distance between them in order to ensure accuracy.
+It was ensured that the illuminated object was bright in order to form clear images to avoid errors.
+   It was ensured that all the readings were taking form the eye level in order to avoid parallax error.
+To avoid errors the experiment was repeated to ensure consistency of the values before the values were tabulated.
+CONCLUSION
+The focal length of the converging lens was found to be 20cm
+REFERENCE
+Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 636.
+Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada. 
+Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. Pages 731-744
+l/cm | l/m | l2/m2  | X/cm | Y/cm | d/cm | d2/m2 | l2-d2/m2
+90.0 | 0.90 | 0.81 | 29.5 | 59.5 | 30.0 | 0.09 | 0.72
+100.0 | 1.00 | 1.00 | 27.5 | 71.7 | 44.2 | 0.20 | 0.80
+110.0 | 1.10 | 1.21 | 26.0 | 83.0 | 57.0 | 0.32 | 0.89
+120.0 | 1.20 | 1.44 | 25.0 | 94.0 | 69.0 | 0.48 | 0.96
+130.0 | 1.30 | 1.69 | 24.3 | 104.8 | 80.5 | 0.65 | 1.04

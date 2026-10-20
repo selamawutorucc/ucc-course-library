@@ -1,0 +1,272 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Copy and Paste Content in PowerPoint 2010
+
+PowerPoint offers to the users a wide range of options when it comes to duplicating content.
+
+
+PowerPoint has the standard cut and copy functions but allows variations of paste options.
+
+--- SLIDE 5 ---
+Cut Option
+This option allows you to cut content from the slide - this means the original content is being moved to a different location hence the content will be deleted from its original location when you use this option. 
+
+To cut a content, you need to select it and press "Ctrl + X" or right-click on the selected content and select Cut.
+
+--- SLIDE 6 ---
+Cut Option
+
+--- SLIDE 7 ---
+Copy Option
+To copy a portion of content, you need to select it and press "Ctrl + C" or right-click on the selected content and select Copy.
+
+--- SLIDE 8 ---
+Paste Option
+This option allows you to paste the cut or copied content at the desired location. 
+There are multiple paste options for you to choose from.
+
+
+--- SLIDE 9 ---
+Paste Option
+
+--- SLIDE 10 ---
+Paste Option
+
+--- SLIDE 11 ---
+Finding Content
+Step 1  
+In the Home tab, under the Editing section click on Find.
+
+--- SLIDE 12 ---
+Finding Content
+Step 2  
+Type the text you want to search in the "Find what:" field.
+
+--- SLIDE 13 ---
+Finding Content
+Step 3  
+You can narrow your search by selecting "Match Case" - to find exact case match - and "Find whole words only”
+Step 4 
+Press on "Find Next" to find the next occurrence of the search word.
+
+--- SLIDE 14 ---
+Finding Content
+Step 5 
+The Find dialog does not disappear after finding the first instance, 
+so you can keep pressing "Find Next" multiple times till you reach the end of the search. 
+At this point, you will receive a message from PowerPoint indicating the end of the search.
+
+
+--- SLIDE 15 ---
+Replacing Content
+Step 1
+In the Home tab, under the Editing section click on the Replace button.
+
+
+--- SLIDE 16 ---
+Replacing Content
+Step 2
+Type the text you want to replace in the "Find what:" field and the replaced text in "Replace with:" field.
+
+
+--- SLIDE 17 ---
+Replacing Content
+Step 3
+You can narrow your search by selecting "Match Case" - to find the exact case match - and "Find whole words only“
+
+Step 4 
+Press on "Find Next" to find the next occurrence of the search word. 
+PowerPoint will show you the next occurrence and you can then click on "Replace" to replace the word. 
+
+--- SLIDE 18 ---
+Replacing Content
+Step 5
+The Replace dialog does not disappear after finding the first instance, 
+so you can keep pressing "Find Next" multiple times till you reach the end of the search. 
+At this point, you will receive a message from PowerPoint indicating the end of the search.
+
+--- SLIDE 19 ---
+Undo Edited Changes in PowerPoint 2010
+
+To undo the last action, click on the Undo button in the PowerPoint Quick Access bar.
+
+
+--- SLIDE 20 ---
+Undo Edited Changes in PowerPoint 2010
+You can keep clicking on this button repeatedly to undo the series of actions; however a more graceful way of undoing multiple actions is to use the dropdown next to the undo button. 
+
+Here you can select the list of actions you want to undo by sliding your cursor on top of the actions and click on them.
+
+--- SLIDE 21 ---
+Redo Edited Changes in PowerPoint 2010
+Redo is an option available only after you have undone at least one action. 
+The redo follows the same logic as the undo option, except in the reverse order. 
+
+--- SLIDE 22 ---
+Spelling Check in PowerPoint 2010
+To use this feature, you need to first set the Proofing language from the Language section under the Review ribbon.
+
+
+--- SLIDE 23 ---
+Spelling Check in PowerPoint 2010
+In the Language dialog, you can select the language you want to use for your presentation.
+If you want to use the selected language for the entire presentation you should click default.
+
+
+--- SLIDE 24 ---
+Spelling Check in PowerPoint 2010
+Once the proofing language is set you can see it at the bottom of the PowerPoint window. 
+If there are proofing errors in the presentation, you will also see an icon of a book with a red cross on top of it.
+
+
+--- SLIDE 25 ---
+Spelling Check in PowerPoint 2010
+You can review the errors in the presentation by clicking on the red cross at the bottom of the window or 
+by clicking on "Spelling" under the Proofing section in the Review ribbon.
+
+
+--- SLIDE 26 ---
+Spelling Check in PowerPoint 2010
+From the Spelling dialog, you can take the necessary actions to ignore, correct or edit the errors in the presentation. 
+The table below describes the various options you have in the Spelling dialog.
+
+
+--- SLIDE 27 ---
+Spelling Check in PowerPoint 2010
+
+--- SLIDE 28 ---
+Spelling Check in PowerPoint 2010
+
+--- SLIDE 29 ---
+Content Translation in PowerPoint 2010
+This feature in PowerPoint allows you to select content and have it translated into a different language. 
+
+Step 1 
+Select the text to be translated and click on Translate - Translate Selected Text under the Language section of the Review ribbon.
+
+
+--- SLIDE 30 ---
+Content Translation in PowerPoint 2010
+Step 2 
+In the research sidebar, the "From" language is set to default language settings for the content. 
+The "To" language is set to the alphabetically first language supported by PowerPoint.
+
+
+--- SLIDE 31 ---
+Content Translation in PowerPoint 2010
+Step 3 
+From the "To" language dropdown, select the language you want the selected portion of text translated into. 
+
+Click on Insert to replace the selected text from the default language to the new translated text.
+
+NOTE: Your PC should be connected to the internet.
+
+--- SLIDE 32 ---
+Content Translation in PowerPoint 2010
+Step 4 
+Notice that if you replace the portion of text using translation, the default language for the replaced text also changes automatically.
+
+
+
+--- SLIDE 33 ---
+Special Characters in PowerPoint 2010
+Step 1
+ In the Insert Tab, under the Symbols group, click on the Symbol command.
+
+
+
+
+--- SLIDE 34 ---
+Special Characters in PowerPoint 2010
+Step 2
+In the Symbol dialog, select one of the special characters you want to insert in the presentation.
+
+
+
+
+--- SLIDE 35 ---
+Special Characters in PowerPoint 2010
+Step 3
+ If you cannot find the character you are looking for, you can change the font subset from the dropdown and look at a new set of characters.
+
+
+
+
+
+--- SLIDE 36 ---
+Special Characters in PowerPoint 2010
+Step 4
+If you know the character code of the symbol, you can enter it in the Character Code field and search for it.
+
+Step 5  
+To insert a character, you can either double-click on it in the Symbol dialog or, 
+
+Select it and press the Insert button.
+
+
+
+--- SLIDE 37 ---
+Special Characters in PowerPoint 2010
+
+
+
+
+
+
+
+
+Step 6  
+Once you are done, you can click Close to close the dialog.
+
+
+--- SLIDE 38 ---
+Slides Zoom In-Out in PowerPoint 2010
+PowerPoint allows users to zoom in and zoom out of the slides to help focus on specific sections or look at the entire slide as a whole. 
+
+ The minimum zoom supported by PowerPoint is 10% and the maximum is 400%. 
+
+The zoom bar is located in the bottom right corner of the PowerPoint window.
+
+
+
+
+
+
+
+
+
+--- SLIDE 39 ---
+Slides Zoom In-Out in PowerPoint 2010
+
+--- SLIDE 40 ---
+Slides Zoom In-Out in PowerPoint 2010
+To change the zoom settings from the zoom bar, you can 
+Click on the marker and drag it. 
+
+Dragging to the left will zoom out and to the right will zoom in.
+
+
+
+
+
+
+
+--- SLIDE 41 ---
+Slides Zoom In-Out in PowerPoint 2010
+Alternately, you can click on the zoom percent to open the zoom dialog. 
+Here you have the option to auto-fit the slide in the screen, or choose from six pre-defined zoom settings, or define your own zoom setting.
+
+
+
+
+--- SLIDE 42 ---
+
+--- SLIDE 43 ---
+THANK YOU

@@ -1,0 +1,87 @@
+HYSICS PRACTICALS, EXPERIMENT 4                                                        20/03/2009
+SM/SMS/08/0011 Karikari Appau Kyerewaa Bernice
+TITLE: VIBRATION OF SPRINGS
+AIM: To measure the frequency of a spring at a fixed length (60cm) and varying the tension.
+APPARATUS: Nickel wire (d=0.3mm, l=100m), rod with hook, striking hammer, oscilloscope (30MHz, 2 channels)
+DIAGRAM
+THEORY
+Frequency is the number of waves passing an area per unit second. For a periodic wave, frequency is the rate at which the disturbance is repeated. Fundamental frequency is the lowest frequency corresponding to n=1. The fundamental frequency is produced by the first harmonic. The fundamental wave pattern is a transverse standing wave pattern. A standing wave does not travel in one direction or the other as do the individual. The fundamental frequency is produced by plucking the string gently in the middle which sets up the simplest stationary wave. A displacement node is obtained at each ends of the string because these points cannot move, and displacement antinodes are obtained in the middle where the string is most free to move. Nodes are places that do not vibrate at all and antinodes are places of maximum vibrations. The fundamental frequency of a spring of length tensioned at both ends is  where T= tension in the string µ=mass per unit length. As tension increase the frequency of the normal modes increase. The normal modes are also inversely proportional to (vibrating) string length. Tension is not affected by the pulse. The frequencies of stringed instruments can be changed either by varying the string’s tension, , or by changing its length , . When a stretched string is distorted to a shape that corresponds to any one of the harmonics after being released, it will vibrate at the frequency of the harmonic. However, if the string is plucked or bowed, the resulting vibration will include frequency of the various harmonics, including the fundamental. The string selects the normal modes frequency when disturbed by a non-harmonic disturbance. The frequencies above the fundamental are overtones. Standing waves arise because identical waves travel on the string in opposite direction and combine in accord with the principle of linear supper position the speed of a wave in a medium depends on the nature of the materials of the medium. Frequency of the modes is the integral multiples of the fundamental frequency. The higher natural frequencies together with the fundamental frequency form a harmonic series. 
+In a stringed instrument, the fundamental vibration has two nodes (N) at the fixed ends and antinodes (A) between. This means that the distance from N to subsequent N is  . The speed of the wave passing through the string is  where the fundamental frequency.  From  or  the speed of a wave in a string is related to the tension  in the string and the mass per unit length  of the string as
+ . Therefore,    and. It follows therefore that the frequency of a vibrating string is directly proportional to the square root of the tension in the string. For the same string the pitch of the note increases with increase in the tension applied between its ends for the same length. If    A graph of  against  has a slope equal to   
+METHOD
+The string was laid across two triangular sliders and clamped between a fixed hook and a spring balance. The spring balance was attached to a tensioner with fishing line. The string length was set by moving the triangular sliders along the scale to fixed length. The string outside the sliders was prevented from vibrating by laying a figure on it gently. The vibration of the string was optically scanned midway between the sliders. The signal of the photo-cell fitted with an aperture slit was amplified and transmitted to the oscilloscope and the counter/timer. The string was given a gentle tap with the rubber hammer to set it into vibration. The time counter was started when the harmonics have died away.     The length of the wire between the two triangular sliders was set to 60cm and then recorded. The length of the wire was kept constant throughout the experiment. The diameter of the wire was then recorded. Keeping the length of the string constant between the sliders at the recorded value (60cm), the tension T=5N in the string was measured. The counter/timer device was set to frequency (KHz). The sensor was aligned to the string and light so that the counter read zero. The start button was then pressed. The wire was then gently tapped with the rubber hammer to start the vibrations. The stop button was pressed when the harmonics had died away (frequency was stable) and the frequency was recorded. The experiment was repeated for four other values of T= 10, 15, 20,25N. A graph of against  was plotted. The slope of the graph was the determined and also the mass per unit length and the density of the string.
+TABLE OF RESULTS (observation)
+String used: Nickel wire
+Diameter of string: 0.3mm
+Length of the string used: 100m
+CALCULATIONS
+From the graph,   this means  
+ Is similar to y=mx–c where m= slope and
+–c=constant. Therefore the slope of the graph is 
+1246N-1s-2=   
+ From      making µ the subject
+...............................1
+Slope, s=    
+The length of the string   
+  but the wire is treated as a cylinder 
+Where    r=radius of the cylinder= 
+Height of the wire,
+But 
+
+Where   
+Therefore,
+DISCUSSION
+It can be seen from the equation of the graph, that a graph of  against 
+is a straight line. Considering the equation of the line ,
+which represents, the gradient (slope) of the graph is
+. As calculated above the mass per unit length of the string
+is also. The density of the wire was also calculated to be 
+approximately . This implies that the relative density of the 
+wire is approximately 7.9. The experiment was performed on a vibrating
+string to measure the frequency of a string at a fixed length of 60cm
+(that is the length between the two triangular slides) and varying the
+tension. The string used was nickel wire with a diameter of 0.3mm. The
+tension was varied from 5 to 10 to 15 to 20 and then to 25N and their
+corresponding frequencies measured. It can be observed from the table of
+results that the frequency increases successively as the tension increases.
+That is, as the tensions increase the corresponding frequencies also
+increase. For instance, for tension of 5N in the string, a frequency of 0.075
+KHz (75Hz) was produced but for a tension of 10N, a frequency of 0.111
+KHz (111Hz) was produced by the string. Comparing the first and second
+readings of frequencies (that is  for the various tensions, they
+are not anything different from each other except for the first tension
+which gave as 0.075KHz (75Hz) and     as 0.074KHz (74Hz).
+Interestingly, as the tension increases successively at a constant factor of
+5N, the corresponding frequency increases at a reducing factor. That is,
+from 5N to 10N, the difference between them is 5N and the difference
+between their corresponding frequencies is 36Hz (111Hz-75Hz).
+However, for 10N and 15N, the frequency difference is 26Hz. (137Hz
+111Hz). Similarly, from 15N to 20N and 20N to 25N, their frequency
+differences are 20Hz and 18Hz respectively. It is therefore very wise to
+say that the frequency of a string at a constant length increases as the
+tension increases. That is frequency is directly proportional to tension.           
+SOURCES OF ERROR
+Error might have been caused by the improper calibration of the counter/timer which might have given wrong values for the frequencies measured.
+Error might have been caused by the improper calibration of the meter rule that was used to measure the length of the string. The recorded value of the length string (that is 60cm) might not be the actual length.
+There might be some parallax error in the measurement of the length of the string. 
+It is possible that the calibration of the spring balance and other apparatuses used were not properly calibrated and therefore resulted in errors in one way or the other.
+PRECAUTIONS
+It was ensured that the tension did not exceed 30N in order to prevent the string from breaking.
+The experiment was repeated in order to avoid random error.
+The counter/timer was only started when the harmonics had died away in order to record the frequency only when it became stable and to ensure accuracy.
+The triangular sliders were well fixed in so that they would not slip in the course of the experiment that was done to eliminate errors.
+CONCLUSION
+From the equation of the graph,  the slope of the graph. The mass per unit length of the spring µ was calculated to be approximately equal to   the density of the wire ρ is therefore equal to
+ It can be asserted that the frequency in a string increases as the tension increases.
+REFERENCES
+Nelkon M and Parker P (1995); Advanced Level Physics Seventh (7th) Edition, Published by Longman International Education, Oxford, U.K. Page 636.
+Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published by Thomson Learning company, Canada. 
+Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College Publishers, Forth Worth, U.S.A. Pages 731-744
+Peter Asiedu, Henrich A. Baah-Yeboah(2000); Physics for senior secondary school in west africa2nd edition,Aki-Ola publications,st425, Accra-ghana. Page230.
+Cutnell page 520 
+ |  |  | ( |  | 
+5 | 0.075 | 0.074 | 0.075 | 75 | 5625
+10 | 0.111 | 0.111 | 0.111 | 111 | 12321
+15 | 0.137 | 0.137 | 0.137 | 137 | 18769
+20 | 0.157 | 0.157 | 0.157 | 157 | 24649
+25 | 0.175 | 0.175 | 0.175 | 175 | 30625

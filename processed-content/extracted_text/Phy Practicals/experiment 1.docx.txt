@@ -1,0 +1,63 @@
+EXPERIMENT 1
+DETERMINATION OF THE MODULUS OF ELASTICTY
+AIM
+The aim is to determine the modulus of elasticity of a given metal bar (steel bar).
+APPARATUS
+Dial gauge 10/0.01mm
+Holder for dial gauge
+Flat bar
+Knife-edge with stirrup
+2 Bolt with knife-edge
+Weight holder for slotted weights
+Spring balance 1N
+2 Tripod base
+2 Support rod (250mm)
+Support rod (630mm)
+5 Right angle clamp
+10 Slotted weight (10g) black
+6 Slotted weight (50g) black
+Measuring rule (100cm)
+DAIGRAM
+THEORY
+Hooke’s law states that provided the elastic limit is not exceeded stress (F/A) is proportional to strain (e/ l0)
+When a force or tension F is applied to the end of a wire of cross-sectional area, A, then tensile stress = force per unit area.
+ = F/A. If the extension of the wire is e, and its original length is l0, then tensile strain = extension per unit length. = e/ l0
+Stress has units of Nm-2 and strain has no units because it is the ratio of two lengths. According to Hooke’s Law, this implies that F/A is directly proportional to e/ l0 since A and l0 are constants. Therefore stress = E x strain
+The Young’s modulus of elasticity E is defined as E = FL/Ae. Where F is the applied force or tension in the bar, A is the cross section area of the bar and e is as defined.
+PROCEDURE
+The dial gauge was mounted on the knife edge with stirrup. The flat bars were positioned accurately on the two supporting knife edges having the possibilities to move in the x and y direction. The geometric data of the set up and the bars was recorded several times or at different positions. The dial gauge possesses a restoring force which obeys Hooke’s Law (F is proportional to the extension e). The height b, width and the length of the metal bar provided was recorded. The metal bar was positioned such that the length between the two knife edges was 45 cm. The metal bar was then loaded with 250g of the masses provided making sure it was well centred between the knife edges. A dynamometer and a plunger of the dial gauge were mounted such that the dial gauge showed full deflection. Additionally, the plunger was manually raised (the probe was unloaded) and then gently lowered and the dial was set to zero. The weights were carefully reduced by 50g intervals and the dial reading (e) was recorded in each case. The procedure was recorded 5 times, the results tabulated and a graph of tension F against the average extension e was plotted.  From the graph, the modulus of elasticity of the material of the metal bar was determined.
+OBSERVATION (TABLE OF RESULT)
+Plotted values 
+Length of bar = 50.40cm = 0.5040m = 5.04x10-1m
+Width of bar = 1.92cm = 0.0192m = 1.92x10-2m
+Height of bar = 0.15cm = 0.0015m = 1.5x10-3m
+ CALCULATION
+Area = length (L) x width (a)
+Area = 
+The equation of the graph is  
+This implies that the slope of the graph is 0.622
+Using the equation,  where E is Young’s modulus, it implies that     . 
+DISCUSSION
+The graph of force against extension produced a straight line with a gradient of 0.622Nmm-2 and an intercept of 0.254. The slope was used to determine the Young’s modulus of elasticity which was 32395.83Nm-2. The straight line produced by the graph nearly passed through the origin. This indicates and proves to the fact that the force is directly proportional the extension caused by the force.
+SOURCES OF ERRORS
+Since the dial gauge is very sensitive the least vibration on the table caused a slight shift in the pointer resulting in accurate reading.
+The metal bar could not be placed exactly in the centre of the two rods which adversely affected the readings.
+PRECAUTIONS
+All windows around were closed to prevent air current from affecting the reading.
+The dial was allowed to stand for some few seconds before the loads were placed on it just to make sure that the pointer remained on the zero mark before a load was placed on it.
+CONCLUSION
+The modulus of elasticity of the given metal is 32395.83Nm-2.
+REFERENCE
+GIANCOLI Douglas C.; Physics: principles with applications, 6th edition; Pearson education inc. NJ, 2005. Page 237-239
+Mass / g | e1 / mm | e2  / mm | Average e / mm
+250 | 3.72 | 3.45 | 3.59
+200 | 2.84 | 2.74 | 2.79
+150 | 1.70 | 1.76 | 1.73
+100 | 1.10 | 1.13 | 1.12
+50 | 0.53 | 0.55 | 0.54
+Force / N | Average e / mm
+2.45 | 3.59
+1.96 | 2.79
+1.47 | 1.73
+0.98 | 1.12
+0.49 | 0.54

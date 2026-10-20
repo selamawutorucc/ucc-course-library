@@ -1,0 +1,72 @@
+AIM:                   
+To verify Hook’s law, which states that the extension produced in a material is directly proportion to the stretching force provided the elasticity limit is not exceeded.
+APPARATUS:
+Solid masses of different masses
+Helical spring
+Retort stand and clamp
+Stop watch
+DIAGRAM:
+THEORY:
+	Hooke’s law forms the basis of the experiment. The law which states that the extension produced in a material is proportional to the applied load provided the elastic limit is not exceeded. Let the force constant of the spring be f for Newton per meter and the load under the spring be M kg.  If now the spring is pulled x meters, the extra restoring force called into play is by Hooke’s law, equal to fx Newtons. When the spring is released, the equation of motion is:
+Fx = -Ma, making acceleration a the subject,
+a = -
+Suppose the extension (x) of spring is directly proportional to the restoring force (F) in the spring acting in the opposite direction to (x). So    F=-fx, where f is the force constant.
+  But F =Ma    , where M is the mass under the spring and a, the acceleration towards the equilibrium position. When spring is released,
+                                                   Fx=-Ma…….. (1) 
+Hence this motion is a simple harmonic motion and periodic time, T 
+ At first sight this would appear that the graph of M against T is a straight line graph passing through the origin but this is not so. It is a straight line graph with an intercept. This is because the effective mass m of the spring has been neglected and the equation above has to be,
+                                          T=2 π. When rearranged the equation becomes     M=T2 – m……. (2), m is therefore the negative intercept on the M axis. 
+MATHEMATICAL EQUATION:
+F ∞ e
+F= ke, where k is the proportionality constant also known as spring constant
+e is the extension (compression)
+F  is the stretching force.
+Therefore K =  , the unit of the proportionality in Newton per meter (Nm-1).
+Dimension, is MT-1
+GRAPH:
+PLOTTING A GRAPH OF M AGAINST T2.
+CALCULATION:
+		Finding the gradient of the graph:
+		The gradient m =  
+m =  =
+m  = 322.58 g/s2
+`1
+DISCUSSION:
+Although an ideal mass spring system has a period proportional to the square root of the object mass m, experiment show that a graph of T2 versus mass doesn’t pass through the origin. This is because the spring itself has a mass. The coils of the spring oscillate just like the object except the amplitudes are smaller for all coils but the last. For a cylindrical spring, energy argument can be used to show that effective additional mass of a light spring is one third the mass the spring. The square of the period is proportional to the total oscillating mass of the spring so a graph of M against T2 (the mass hung on the spring plus the effective oscillating mass of the spring) would pass through the origin.
+From the graph above the slope is 0.3030kg/s2. This means that from equation (2), if the gradient is replaced, the mass of a particular weight could be determined by multiplying the mass by the gradient and subtracting the mass of spring which is the intercept from it. For an example if a mass of 0.06kg is used, its corresponding t²(0.325s2)is multiplied by it and the intercept of 0.0378kg is subtracted. The mass of spring measured on balance was 0.0151kg. From graph the intercept was 0.0378kg which should correspond to the mass of the spring from the equation M=f/4².T² - m. The value deviated about 0.0002kg. This may be attributed to some parts of the spring having exceeded their elastic limit hence causing uneven damping of the oscillation. Also due to corrosion, the slotted weights were less in weight than their estimated weights hence caused errors in the graph work. The pan of the balance had corroded hence introduced some errors in the measured weight. Parts of the spring had also corroded introducing some errors. From the results obtained the experimental procedure can be said to be successful.
+PROCEEDURE:
+The experiment was performed retort and stand, attached to it was a helical spring. The masses of the solids were taken and placed on the tool being held under the helical spring. The mass of 100.0 grams was started off with and then the subsequent masses removed with differences of 20.0 grams being taken off.
+The helical spring was displaced at a small angle, and then the displacement was oscillated twenty times. The time for these oscillations for the masses was measured using the stop watch as reference. After the taking of the time of oscillation the period of the experiment was determined by dividing the average time, this is done by taking the time for each mass and then finding the average by the number of oscillation.
+OBSERVATION:
+Number oscillation: 20
+Where, Period (T) =     time/number of oscillation
+Mass of the spring = 0.0151kg
+RESULTS: 
+Finding the gradient of the graph:
+		The gradient m =  
+m =  =
+m   = 303.0 g/s2
+m = 0.3030 kg/s2
+From the graph, we’ll compare :
+  y= mx + c
+y = 286.8x – 37.80
+Therefore from the equation the intercept, denoted by:
+C = -37.80, thus the mass of the spring is equal to 0.0378kg
+ERRORS:
+During the experiment, the windows were slightly opened and could have affected the oscillation and indirectly affected the time of oscillation.
+The experiment was not always displaced at a very small angle.
+PRECAUTION:
+When performing this experiment, it must be done in enclosed placed free from any kind of distraction such as the wind which might give the wrong values for the time taken for the oscillation.
+The angle of displacement of the helical spring must be small and not large so as to apply the laws of the simple harmonic motion which can only be made accurate in small angles.
+CONCLUSION:	
+The experiment verified Hook’s law which state that the extension produced in a material is directly proportional to the applied load provided the elasticity limit of the spring is not exceeded.	
+References:
+www.encarta.com
+Cutnell physics on simple harmonic motion.
+Principle of physics
+Mass/kg | t1/s | t2/s | t/s | T/s |     T2/s2
+100.0 | 13.64 | 13.5o | 13.57 | 0.679 |     0.461
+80.0 | 13.31 | 13.25 | 13.28 | 0.664 |     0.441
+60.0 | 11.44 | 11.44 | 11.44 | 0.570 |     0.325
+40.0 | 10.31 | 10.30 | 10.30 | 0.575 |     0.265
+20.0 | 9.19 | 9.25 | 9.22 | 0.461 |     0.213

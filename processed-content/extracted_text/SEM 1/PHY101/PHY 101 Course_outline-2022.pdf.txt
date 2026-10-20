@@ -1,0 +1,441 @@
+
+--- PAGE 1 ---
+1 
+ 
+UNIVERSITY OF CAPE COAST 
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCES 
+SCHOOL OF PHYSICAL SCIENCES 
+DEPARTMENT OF PHYSICS 
+COURSE MANUAL, FIRST SEMESTER, 2022/2023 ACADEMIC YEAR 
+MARCH, 2022 
+ 
+ 
+Course Code/Title: PHY 101 – GENERAL PHYSICS (2 credits) 
+Course Contents: This course covers in an elementary manner the basic concepts of physics and its applications 
+to real world problems.  
+ 
+This course is intended to dispel the popular notion that physics is only accessible to smart people and also that 
+physics is just a collection of equations used to solve obscure problems. Physics is interesting, useful, and 
+valuable and it is fun and cool when you apply it to everyday life.  
+It is one of the foundations on which other disciplines like astronomy, chemistry, geology etc. are built. Physics 
+is the most fundamental science and it is concerned with the basic principles of the universe. 
+General Physics I is the first course of a two semester introduction to general physics, preparing for careers in 
+Biological and Physical sciences, science and mathematics education, Optometry, lab technology and Nursing.  
+The main topics are Physical Quantities, Vectors, Kinematics, Work, Energy and Power, Fluids, and 
+Thermodynamics.  
+Our goal is for you to develop an understanding and intuition for physics so that you can solve practical 
+problems. We feel that the only way to accomplish this goal is by thinking about and solving lots of problems 
+and experimenting in the laboratory. 
+We hope that Physics 101 will develop the critical thinking in collaborative skills you will need in your future 
+career. Key to this is the need to help you gain conceptual understanding of the physical universe by studying 
+the interrelationship between concepts that are the framework of physics and to apply mathematical tools as an 
+aid in understanding those relationships. At the end of this course you would have improved your ability to 
+reason and to think critically.  
+You are welcome to our course. It is our hope that you will find this manual very useful and appropriate and by 
+sticking to the guidelines in the course schedule it will help you to understand Physics concepts. 
+ 
+PREREQUISITE:  
+The prerequisites for this course include a) a strong desire to learn concepts in physics and b) a basic 
+understanding of elementary mathematics and physics.  
+ 
+Instructor Information:  
+Dr. Kwesi Quagraine 
+Department of Physics 
+School of Physical Sciences 
+College of Agriculture and Natural Sciences 
+University of Cape Coast 
+ 
+Tel. No.: 050 781 2543 
+Email: kwesi.quagraine@ucc.edu.gh
+
+--- PAGE 2 ---
+2 
+ 
+Teaching Assistant Information: 
+Ms. Genevieve Nartey 
+Tel. No.: 055 845 4331 
+ 
+Teaching/Tutorial: 
+13 weeks 2 hours of lectures per week + 1 hour tutorials 
+ 
+Times: 
+Thur, 12.30 – 2.30 = lectures  
+Arrange with TA Genevieve for Tutorials 
+ 
+Grading/Evaluation: 
+Minimum of 2 quizzes, 2 assignments = 40% 
+End of semester examinations=60% 
+ 
+Course policies 
+Attendance: 100% attendance except with written permission from course lecturer. 
+Late/missing work: Gets Zero for no workdone 
+ 
+Cheating/Plagiarism: Not Allowed 
+ 
+Subject content: 
+1. Physical quantities, SI units, Derived units, conversions,  precision and accuracy 
+2. Vectors, scalars, vector components, unit vectors, Graphical methods 
+3. Dynamics, Force, mass, weight, Newton’s laws of motion, collisions, inertial frames of reference, 
+friction 
+4. Kinematics, Distance and displacement, speed, velocity, kinematic equations, circular, simple harmonic 
+and projectile motions 
+5. Elasticity, Stress, strain, modulus of elasticity 
+6. Work, Energy & Power, Work done by a variable force, expression for kinetic energy, work-energy 
+theorem 
+7. Fluids, States of matter, hydrostatics, hydrodynamics 
+8. Thermodynamics & Kinetic Theory, Atomic mass unit, Avogadro’s number, temperature scales, 
+kinetic theory of gases, mean free path, heat energy, thermal conductivity, heat capacities, The 1st law of 
+thermodynamics 
+ 
+Course Learning Outcomes: 
+By the end of this course, learners should be able to: 
+ 
+1 Differentiate between SI units and other units 
+2. Manipulate and appreciate vectors 
+3. Distinguish between mass and weight 
+4. Solve kinematic problems 
+5. Know the states of matter 
+ 
+Course length and pace: 
+This course is delivered over a 13-week period with two hours of lectures each week. 
+ 
+Academic integrity: 
+Students may discuss their assignments with each other and work together on them when deemed appropriate. 
+Each student is expected to submit his/her own individual assignment unless they are specifically assigned in
+
+--- PAGE 3 ---
+3 
+ 
+groups to do group work. 
+ 
+Course materials: 
+Required textbook: 
+[1] Introduction to General Physics I by S. Y. Mensah et al. 
+[2] Cutnell, J.D. & Johnson, K. W. (2009). Physics 8th Edition. John-Wiley and Sons Inc. 
+[3] Resnick, R., Halliday, D., & Walker, J. (2013). Fundamentals of Physics (10th ed.), John Wiley 
+[4] Serway, R. A. & Jewett, Jr., J. W. (2014). Physics for Scientists and Engineers with Modern Physics (9th ed).  
+      Brooks/Cole, USA. 
+ 
+ 
+Course schedule 
+Date/ 
+Week 
+Content topics 
+Learning activities 
+Preparation before 
+class 
+After class assignments 
+ 
+1 
+ 
+ 
+Introduction of 
+Course Manual. 
+ 
+ 
+Dimensional 
+Analysis                      
+ 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+course manual 
+ 
+ 
+Students discuss 
+MKS units, standard 
+prefixes, precision 
+and standard figures 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction to General 
+Physics I by S. Y. 
+Mensah. Read pages 1 - 
+23 
+ 
+ 
+ 
+ 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 23 - 24 
+ 
+2 
+ 
+Vectors 
+ 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Cartesian 
+coordinates, 
+displacement, 
+addition, 
+parallelogram law 
+with student 
+contributions 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 25 
+- 42 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 43 - 44
+
+--- PAGE 4 ---
+4 
+ 
+ 
+ 
+3 
+ 
+ 
+Kinematics 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Uniformly 
+accelerated motion, 
+Circular motion, 
+Simple harmonic 
+motion, Projectile 
+motion with student 
+contributions 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 88 
+- 136 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 137-138 
+ 
+4 
+ 
+ 
+Kinematics 
+ 
+ 
+ 
+ 
+ 
+ 
+Week 3 is continued 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 88 
+- 136 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 137 - 138 
+ 
+5 
+ 
+Dynamics 
+ 
+ 
+(Quiz I) 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Newton’s laws of 
+motion, mass and 
+weight, inertial 
+frames of reference, 
+friction, strings 
+pulleys and inclines 
+with student 
+contributions 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 45 
+- 83 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 83 - 87 
+ 
+6 
+ 
+Work, Energy and 
+Power 
+Lecturer introduces 
+topic and discusses 
+Work, energy, energy 
+conservation, work-
+energy conversion, 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+139 - 164 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 165 - 166
+
+--- PAGE 5 ---
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+power with student 
+contributions 
+  
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+Elasticity 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Strain, stress, 
+Young’s modulus, 
+Bulk and shear 
+moduli with student 
+contributions 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+167-180 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 180 - 182 
+ 
+8 
+ 
+Fluids 
+ 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Hydrostatics, 
+Pascal’s principle, 
+Archimedes 
+principle, fluid flow, 
+viscosity, Bernoulli’s 
+principle with student 
+contributions 
+ 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+183 - 239 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 240- 241 
+ 
+9 
+ 
+ 
+ 
+ 
+Week 8 is continued 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+183 - 239 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah pages 240 - 241
+
+--- PAGE 6 ---
+6 
+ 
+Fluids 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+Kinetic theory 
+ 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Avogadro’s number, 
+mass of molecule, 
+kinetic theory, 
+average translational 
+ke, root mean square 
+speed, mean free path 
+with student 
+contributions 
+  
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+242 - 270 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah page 284  
+ 
+11 
+ 
+Thermodynamics 
+ 
+ 
+ 
+(Quiz) 
+ 
+ 
+ 
+Lecturer introduces 
+topic and discusses 
+Heat energy, thermal 
+conductivity, specific 
+heat, adiabatic 
+processes, The 1st 
+law of 
+thermodynamics, 
+work done by a 
+system with student 
+contributions 
+ 
+Introduction to General 
+Physics by S. Y. 
+Mensah. Read pages 
+270 - 284 
+ 
+Solve questions in 
+Introduction to General 
+Physics I by S. Y. 
+Mensah page 285, 
+questions 8.3 – 8.7

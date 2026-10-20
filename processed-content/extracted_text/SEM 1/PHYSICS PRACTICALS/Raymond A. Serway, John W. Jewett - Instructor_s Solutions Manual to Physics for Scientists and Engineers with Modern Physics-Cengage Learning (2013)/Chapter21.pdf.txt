@@ -1,0 +1,6793 @@
+
+--- PAGE 1 ---
+1093 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+21 
+The Kinetic Theory of Gases 
+ 
+CHAPTER OUTLINE 
+ 
+21.1  
+Molecular Model of an Ideal Gas 
+21.2  
+Molar Specific Heat of an Ideal Gas 
+21.3  
+The Equipartition of Energy 
+21.4  
+Adiabatic Processes for an Ideal Gas 
+21.5  
+Distribution of Molecular Speeds 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ21.1 
+Answer (c). The molecular mass of nitrogen (N2, 28 u) is smaller than 
+the molecular mass of oxygen (O2, 32 u), and the rms speed of a gas is 
+(3RT/M)
+1/2. Since the rms speeds are the same, the temperature of 
+nitrogen is smaller than the temperature of oxygen. The average 
+kinetic energy is proportional to the molecular mass and the square 
+of the rms speed ( K = 1
+2 mvrms
+2
+), so the average kinetic energy of 
+nitrogen is smaller.  
+OQ21.2 
+Answer (d). The rms speed of molecules in the gas is vrms =
+3RT M. 
+Thus, the ratio of the final speed to the original speed would be 
+ 
+ 
+ 
+vrms
+(
+) f
+vrms
+(
+)0
+=
+3RTf M
+3RT0 M
+=
+Tf
+T0
+=
+600 K
+200 K =
+3
+ 
+OQ21.3 
+Answer (b). The gases are the same so they have the same molecular 
+mass, M. If the two samples have the same density, then their ratios 
+of number of moles to volume, n/V, are the same because their
+
+--- PAGE 2 ---
+1094     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+densities, (nM)/V, are the same. The pressures are the same; thus, 
+their temperatures are the same:  
+ 
+ 
+ 
+PV = nRT →p = n
+V RT = constant →T = constant 
+ 
+Therefore the rms speed of their molecules, (3RT/M)
+1/2, is the same. 
+OQ21.4 
+(i) 
+Answer (b). The volume of the balloon will decrease because 
+the gas cools.  
+ 
+(ii) 
+Answer (c). The pressure inside the balloon is nearly equal to 
+the constant exterior atmospheric pressure. Snap the mouth of 
+the balloon over an absolute pressure gauge to demonstrate 
+this fact. Then from PV = nRT, volume must decrease in 
+proportion to the absolute temperature. Call the process 
+isobaric contraction. 
+OQ21.5  
+Answer (d). At 200 K, 1
+2 m0vrms0
+2
+= 3
+2 kBT0 . At the higher temperature,  
+ 
+ 
+ 
+1
+2 m0 2vrms0
+(
+)
+2 = 3
+2 kBT
+  
+ 
+Then T = 4T0 = 4(200 K) = 800 K. 
+OQ21.6 
+Answer (c) > (a) > (b) > (d). The average vector velocity is zero in a 
+sample macroscopically at rest. As adjacent equations in the text 
+note, the asymmetric distribution of molecular speeds makes the 
+average speed greater than the most probable speed, and the rms 
+speed greater still. The most probable speed is (2RT/M)
+1/2, the 
+average speed is (8RT/πM)
+1/2 ≅ (2.55RT/M)
+1/2, and the rms speed is 
+(3RT/M)
+1/2. 
+OQ21.7 
+(i) 
+Statements (a) and (e) are correct statements that describe the 
+temperature increase of a gas. 
+ 
+(ii) Statement (f) is a correct statement but does not apply to the 
+situation. Statement (b) is true if the molecules have any size at 
+all, but molecular collisions with other molecules have nothing 
+to do with the temperature increase. 
+ 
+(iii) Statements (c) and (d) are incorrect. The molecular collisions are 
+perfectly elastic. Temperature is determined by how fast 
+molecules are moving through space, not by anything going on 
+inside a molecule. 
+OQ21.8 
+(i) 
+Answer (b). Average molecular kinetic energy, 3kT/2, increases 
+by a factor of 3.
+
+--- PAGE 3 ---
+Chapter 21     1095 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(ii) Answer (c). The rms speed, (3RT/M)
+1/2, increases by a factor of 
+3. 
+ 
+(iii) Answer (c). Average momentum change increases by 
+3:  
+Δpavg = −2m0vavg.  
+ 
+(iv) Answer (c). Rate of collisions increases by a factor of 
+3:  
+Δtavg = 2d/vavg. 
+ 
+(v) Answer (b). Pressure increases by a factor of 3. See Equation 
+21.15: 
+ 
+ 
+ 
+P = 2
+3
+Ni
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 m0v2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2
+3
+Ni
+V
+⎛
+⎝⎜
+⎞
+⎠⎟K
+( )
+ 
+OQ21.9 
+Answer (c). The kinetic theory of gases assumes that the molecules 
+do not interact with each other. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ21.1 
+As a parcel of air is pushed upward, it moves into a region of lower 
+pressure, so it expands and does work on its surroundings. Its fund 
+of internal energy drops, and so does its temperature. As mentioned 
+in the question, the low thermal conductivity of air means that very 
+little energy will be conducted by heat into the now-cool parcel from 
+the denser but warmer air below it.  
+CQ21.2 
+A diatomic gas has more degrees of freedom—those of molecular 
+vibration and rotation—than a monatomic gas. The energy content 
+per mole is proportional to the number of degrees of freedom. 
+CQ21.3 
+Alcohol evaporates rapidly, so that high-speed molecules leave the 
+liquid, reducing the average kinetic energy of the remaining 
+molecules of the liquid and therefore reducing the temperature of 
+the liquid. Then, because the alcohol is cool, energy transfers from 
+the skin, reducing its temperature. 
+CQ21.4 
+As the balloon rises into the air, the air cannot be uniform in pressure 
+because the lower layers support the weight of all the air above 
+them. The rubber in a typical balloon is easy to stretch and stretches 
+or contracts until interior and exterior pressures are nearly equal. So 
+as the balloon rises it expands. This is an adiabatic expansion (see 
+Section 21.4), with P decreasing as V increases (PVγ = constant). If the 
+rubber wall is very strong it will eventually contain the helium at 
+higher pressure than the air outside but at the same density, so that 
+the balloon will stop rising. More likely, the rubber will stretch and 
+break, releasing the helium to keep rising and “boil out” of the 
+Earth’s atmosphere.
+
+--- PAGE 4 ---
+1096     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ21.5 
+The dry air is more dense. Since the air and the water vapor are at 
+the same temperature, the gases have the same average molecular 
+kinetic energy. Imagine a controlled experiment in which equal-
+volume containers, one with humid air and one with dry air, are at 
+the same pressure. The number of molecules must be the same for 
+both containers (PV = NkT). The water molecule has a smaller 
+molecular mass (18.0 u) than any of the gases that make up the air, 
+so the humid air must have the smaller mass per unit volume. 
+CQ21.6 
+The helium must have the higher rms speed. According to Equation 
+21.22 for the rms speed, (3RT/M)
+1/2, for the same temperature, the 
+gas with the smaller mass per atom must have the higher average 
+speed squared and thus the higher rms speed. 
+CQ21.7 
+The molecules of all different kinds collide with the walls of the 
+container, so molecules of all different kinds exert partial pressures 
+that contribute to the total pressure. The molecules can be so small 
+that they collide with one another relatively rarely and each kind 
+exerts partial pressure as if the other kinds of molecules were absent. 
+If the molecules collide with one another often, the collisions exactly 
+conserve momentum and so do not affect the net force on the walls.  
+ 
+The partial pressure Pi of one of the gases can be expressed with 
+Equation 21.15: 
+ 
+ 
+ 
+Pi = 2
+3
+Ni
+V
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+2 m0v2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2
+3
+Ni
+V
+⎛
+⎝⎜
+⎞
+⎠⎟K
+( )
+ 
+ 
+where Ni is the number of molecules of the ith gas and K is the 
+average kinetic energy of the molecules. Let us add up these 
+pressures for all the gases in the container: 
+ 
+ 
+ 
+P =
+Pi
+i∑
+=
+2
+3
+Ni
+V
+⎛
+⎝⎜
+⎞
+⎠⎟K
+( )
+i∑
+ = 2
+3
+K
+V
+Ni
+i∑
+= 2
+3
+N
+V
+⎛
+⎝⎜
+⎞
+⎠⎟K
+( )
+ 
+ 
+where N is the total number of molecules of all types and we have 
+used the fact that the average kinetic energies of all types of 
+molecules are the same because all the gases have the same 
+temperature. The final expression for the pressure is the same as that 
+of a single gas with N molecules in the same volume V and at the 
+given temperature.
+
+--- PAGE 5 ---
+Chapter 21     1097 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 21.1 
+Molecular Model of an Ideal Gas	  
+P21.1 
+(a) 
+The volume is V = 4
+3 πr3 = 4
+3 π 0.150 m
+(
+)
+3 = 1.41× 10−2 m3. The 
+quantity of gas can be obtained from PV = nRT: 
+ 
+ 
+ 
+n = PV
+RT = 1.013 × 105 N/m2
+(
+) 1.41× 10−2 m3
+(
+)
+8.314 N⋅m/mol⋅K
+(
+) 293 K
+(
+)
+= 0.588 mol
+ 
+ 
+The number of molecules is 
+ 
+ 
+ 
+N = nNA = 0.588 mol
+(
+) 6.02 × 1023 molecules/mol
+(
+) 
+ 
+ 
+ 
+N = 3.54 × 1023 helium atoms
+ 
+ 
+ 
+(b) The kinetic energy is given by K = 1
+2 m0v2 = 3
+2 kBT: 
+ 
+ 
+ 
+K = 3
+2 1.38 × 10−23 J/K
+(
+) 293 K
+(
+) = 6.07 × 10−21 J
+  
+ 
+(c) 
+An atom of He has mass 
+ 
+ 
+ 
+m0 = M
+NA
+=
+4.002 6 g/mol
+6.02 × 1023 molecules/mol
+= 6.65 × 10−24 g = 6.65 × 10−27 kg
+ 
+ 
+ 
+So the root-mean-square speed is given by 
+ 
+ 
+ 
+vrms =
+v2 =
+2K
+m0
+=
+2 × 6.07 × 10−27 J
+6.65 × 10−27 kg = 1.35 km/s
+ 
+P21.2 
+(a) 
+Both kinds of molecules have the same average kinetic energy. It 
+is 
+ 
+ 
+ 
+K = 3
+2 kBT = 3
+2 1.38 × 10−23 J K
+(
+) 423 K
+(
+) = 8.76 × 10−21 J 
+ 
+(b) The root-mean square velocity can be calculated from the kinetic 
+energy:  
+ 
+ 
+ 
+vrms =
+v2 =
+2K
+m0
+
+--- PAGE 6 ---
+1098     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so    vrms =
+1.75 × 10−20 J
+m0
+ 
+[1] 
+ 
+ 
+For helium,  
+ 
+ 
+ 
+m0 =
+4.00 g mol
+6.02 × 1023 molecules mol = 6.64 × 10−24 g molecule 
+ 
+ 
+ 
+m0 = 6.64 × 10−27 kg molecule 
+ 
+ 
+Similarly for argon, m0 =
+39.9 g mol
+6.02 × 1023 molecules mol
+= 6.63 × 10−23 g molecule
+ 
+ 
+ 
+ 
+m0 = 6.63 × 10−26 kg molecule 
+ 
+ 
+Substituting into [1] above, 
+ 
+ 
+we find for helium,  vrms = 1.62 km s 
+ 
+ 
+and for argon, vrms = 514 m s 
+P21.3 
+(a) 
+From Newton’s second law, the average force is given by  
+ 
+ 
+ 
+F = Nm Δv
+Δt = 500 5.00 × 10−3 kg
+(
+)
+               × 8.00sin 45.0° −−8.00sin 45.0°
+(
+)
+[
+] m s
+30.0 s
+= 0.943 N
+ 
+ 
+(b) We find the pressure from 
+ 
+ 
+ 
+P = F
+A = 0.943 N
+0.600 m2 = 1.57 N m2 = 1.57 Pa 
+P21.4 
+The equation of state for an ideal gas can be used with the given 
+information to find the number of molecules in a specific volume. 
+ 
+ 
+PV =
+N
+NA
+⎛
+⎝⎜
+⎞
+⎠⎟RT means N = PVNA
+RT
+,  
+ 
+so that, suppressing units, 
+ 
+ 
+N = 1.00 × 10−10
+(
+) 133
+(
+) 1.00
+(
+) 6.02 × 1023
+(
+)
+(8.314) 300
+(
+)
+= 3.21× 1012 molecules
+
+--- PAGE 7 ---
+Chapter 21     1099 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.5 
+The gas temperature must be that implied by 1
+2 m0v2 = 3
+2 kBT for a 
+monatomic gas like helium. 
+ 
+ 
+T = 2
+3
+1
+2 m0v2
+kB
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+= 2
+3
+3.60 × 10–22 J
+1.38 × 10–23 J/K
+⎛
+⎝⎜
+⎞
+⎠⎟= 17.4 K
+ 
+ 
+Now PV = nRT gives 
+ 
+ 
+n = PV
+RT = 1.20 × 105 N m2
+(
+) 4.00 × 10–3 m3
+(
+)
+(8.314 J/mol ⋅K)(17.4 K)
+= 3.32 mol
+ 
+ 
+P21.6 
+P = 2
+3
+N
+V K from the kinetic-theory account for pressure. 
+ 
+N = 3
+2
+PV
+K
+n = N
+NA
+= 3
+2
+PV
+KNA
+ 
+P21.7 
+Use the equation describing the kinetic-theory account for pressure: 
+P = 2N
+3V
+m0v2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟. Then 
+ 
+ 
+ 
+K = m0v2
+2
+= 3PV
+2N , where N = nNA
+K = 3PV
+2nNA
+=
+3 8.00 atm
+(
+) 1.013 × 105 Pa atm
+(
+) 5.00 × 10−3 m3
+(
+)
+2 2 mol
+(
+) 6.02 × 1023 molecules mol
+(
+)
+K = 5.05 × 10−21 J
+ 
+P21.8 
+The molar mass of diatomic oxygen is 32.0 g. The rms speed of oxygen 
+molecules is 
+ 
+ 
+vrms =
+3RT
+M
+     
+ 
+and 
+ 
+ 
+prms = mvrms = M
+NA
+3RT
+M
+=
+1
+NA
+3RTM 
+=
+1
+6.02 × 1023
+3 8.314 J mol ⋅K
+(
+) 350 K
+(
+) 32.0 × 10−3 kg
+(
+)
+prms = 2.78 × 10−23 kg ⋅m/s
+
+--- PAGE 8 ---
+1100     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.9 
+We use 1 u = 1.66 × 10
+−24 g.  
+ 
+(a) 
+For He, m0 = 4.00 u 1.66 × 10−24 g
+1 u
+⎛
+⎝⎜
+⎞
+⎠⎟=  6.64 × 10−27 kg 
+ 
+(b) For Fe, m0 = 55.9 u 1.66 × 10−24 g
+1 u
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.28 × 10−26 kg 
+ 
+(c) 
+For Pb, m0 = 207 u 1.66 × 10−24 g
+1 u
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.44 × 10−25 kg 
+P21.10 
+The rms speed of molecules in a gas of molecular weight M and 
+absolute temperature T is vrms =
+3RT M. Thus, if vrms = 625 m/s for 
+molecules in oxygen (O2), for which M = 32.0 g/mol = 
+32.0 × 10
+−3 kg/mol, the temperature of the gas is 
+ 
+ 
+T = Mvrms
+2
+3R
+=
+32.0 × 10−3 kg mol
+(
+) 625 m s
+(
+)
+2
+3 8.31 J mol ⋅K
+(
+)
+= 501 K 
+*P21.11 
+(a) 
+From the ideal gas law, 
+ 
+ 
+ 
+PV = nRT = Nm0v2
+3
+ 
+ 
+ 
+The total translational kinetic energy is Nm0v2
+2
+= Etrans: 
+ 
+ 
+ 
+Etrans = 3
+2 PV = 3
+2 3.00 × 1.013 × 105 Pa
+(
+) 5.00 × 10−3 m3
+(
+)
+= 2.28 kJ
+ 
+ 
+(b) 
+m0v2
+2
+= 3kBT
+2
+= 3RT
+2NA
+= 3 8.314 J/mol ⋅K
+(
+) 300 K
+(
+)
+2 6.02 × 1023
+(
+)
+= 6.21× 10−21 J 
+P21.12 
+(a) 
+The volume occupied by this gas is 
+ 
+ 
+ 
+V = 7.00 L 103 cm3 1 L
+(
+) 1 m3 106 cm3
+(
+) = 7.00 × 10−3 m3 
+ 
+ 
+Then, the ideal gas law gives 
+ 
+ 
+ 
+T = PV
+nR =
+1.60 × 106 Pa
+(
+) 7.00 × 10−3 m3
+(
+)
+3.50 mol
+(
+) 8.31 J mol ⋅K
+(
+)
+= 385 K 
+ 
+(b) The average kinetic energy per molecule in this gas is 
+ 
+ 
+ 
+KEmolecule = 3
+2 kBT = 3
+2 1.38 × 10−23 J K
+(
+) 385 K
+(
+) = 7.97 × 10−21 J
+
+--- PAGE 9 ---
+Chapter 21     1101 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+You would need to know the mass of the gas molecule to find its 
+average speed, which in turn requires knowledge of 
+the molecular mass of the gas . 
+P21.13 
+To find the pressure exerted by the nitrogen molecules, we first 
+calculated the average force exerted by the molecules: 
+ 
+ 
+F = Nm0
+Δv
+Δt =
+5.00 × 1023
+(
+)
+4.65 × 10−26 kg
+(
+)2 300 m s
+(
+)
+⎡⎣
+⎤⎦
+1.00 s
+= 14.0 N 
+ 
+the pressure is then 
+ 
+ 
+P = F
+A =
+14.0 N
+8.00 × 10−4 m2 = 17.4 kPa 
+ 
+ 
+	  
+Section 21.2 
+Molar Specific Heat of an Ideal Gas 
+P21.14 
+n = 1.00 mol, Ti = 300 K 
+ 
+(a) 
+Since V = constant, W = 0 . 
+ 
+(b) 
+ΔEint = Q + W = 209 J + 0 = 209 J 
+ 
+(c) 
+ΔEint = nCVΔT = n 3
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟ΔT 
+ 
+ 
+so   ΔT = 2ΔEint
+3nR =
+2 209 J
+(
+)
+3 1.00 mol
+(
+) 8.314 J mol ⋅K
+(
+)
+= 16.8 K 
+ 
+ 
+ 
+T = Ti + ΔT = 300 K + 16.8 K = 317 K 
+P21.15 
+Q = nCPΔT
+(
+)isobaric + nCVΔT
+(
+)isovolumetric 
+ 
+In the isobaric process, V doubles so T must double, to 2Ti. 
+ 
+In the isovolumetric process, P triples so T changes from 2Ti to 6Ti. 
+ 
+ 
+ 
+Q = n 7
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟2Ti −Ti
+(
+)+ n 5
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟6Ti −2Ti
+(
+) = 13.5nRTi
+= 13.5PV
+
+--- PAGE 10 ---
+1102     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.16 
+(a) 
+Consider warming it at constant pressure. Oxygen and nitrogen 
+are diatomic, so CP = 7R
+2 . Then, 
+ 
+ 
+ 
+Q = nCPΔT = 7
+2 nRΔT = 7
+2
+PV
+T
+⎛
+⎝⎜
+⎞
+⎠⎟ΔT
+Q = 7
+2
+1.013 × 105 N m2
+(
+) 100 m3
+(
+)
+300 K
+1.00 K
+(
+) = 118 kJ
+ 
+ 
+(b) We use the definition of gravitational potential energy, 
+ 
+ 
+ 
+Ug = mgy 
+ 
+ 
+from which, 
+ 
+ 
+ 
+m = Ug
+gy =
+1.18 × 105 J
+9.80 m s2
+(
+) 2.00 m
+(
+) = 6.03 × 103 kg
+ 
+P21.17 
+We use the tabulated values for CP and CV: 
+ 
+ 
+(a) 
+Since this is a constant-pressure process, Q = nCPΔT. 
+ 
+ 
+ 
+The temperature rises by ΔT = 420 K – 300 K = 120 K: 
+ 
+ 
+ 
+ 
+Q = nCPΔT = 1.00 mol
+(
+) 28.8 J mol⋅K
+(
+) 420 K −300 K
+(
+)
+= 3.46 kJ
+ 
+ 
+ 
+(b) For any gas ΔEint = nCVΔT, so 
+ 
+ 
+ 
+ 
+ΔEint = nCVΔT = 1.00 mol
+(
+) 20.4 J mol ⋅K
+(
+) 120 K
+(
+) = 2.45 kJ 
+ 
+ 
+(c) 
+The first law says ΔEint = Q +W, so 
+ 
+ 
+ 
+ 
+W = −Q + ΔEint = −3.46 kJ + 2.45 kJ = −1.01 kJ 
+P21.18 
+(a) 
+Molar specific heat is CV = 5
+2 R. 
+ 
+ 
+Specific heat at constant volume per unit mass is given by  
+ 
+ 
+ 
+cV = CV
+M = 5
+2 R
+1
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+   = 5
+2 8.314 J mol ⋅K
+(
+)
+1.00 mol
+0.028 9 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+   = 719 J kg ⋅K = 0.719 kJ kg ⋅K
+
+--- PAGE 11 ---
+Chapter 21     1103 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+m = Mn = M PV
+RT
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+m = 0.028 9 kg mol
+(
+)
+200 × 103 Pa
+(
+) 0.350 m3
+(
+)
+8.314 J mol ⋅K
+(
+) 300 K
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.811 kg
+ 
+ 
+(c) 
+We consider a constant-volume process where no work is done. 
+ 
+ 
+ 
+Q = mcVΔT
+= 0.811 kg
+(
+) 0.719 kJ kg ⋅K
+(
+) 700 K −300 K
+(
+)
+= 233 kJ
+ 
+ 
+(d) We now consider a constant-pressure process where the internal 
+energy of the gas is increased and work is done. 
+ 
+ 
+ 
+Q = nCPΔT = m
+M CV + R
+(
+)ΔT = m
+M
+5
+2 R + R
+⎛
+⎝⎜
+⎞
+⎠⎟ΔT = m
+M
+7
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟ΔT
+   = m 7
+5
+⎛
+⎝⎜
+⎞
+⎠⎟
+5
+2 R
+M
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+ΔT = m
+7
+5
+⎛
+⎝⎜
+⎞
+⎠⎟
+CV
+M
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ΔT
+ 
+ 
+ 
+→Q = 0.811 kg
+(
+) 7
+5 0.719 kJ kg ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥400 K
+(
+) = 327 kJ
+ 
+*P21.19 
+ΔEint = 3
+2 nRΔT = 3
+2 3.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 2.00 K
+(
+) = 74.8 J 
+P21.20 
+Consider 800 cm
+3 of tea (flavored water) at 90.0°C mixing with 200 cm
+3 
+of diatomic ideal gas at 20.0°C: 
+ 
+ 
+ 
+Qcold = −Qhot 
+ 
+or 
+ 
+maircP, air Tf −Ti, air
+(
+) = −mwcw ΔT
+(
+)w 
+ 
+ 
+ 
+ΔT
+(
+)w =
+−maircP, air Tf −Ti, air
+(
+)
+mwcw
+= −ρV
+(
+)air cP, air 90.0°C −20.0°C
+(
+)
+ρwVw
+(
+)cw
+ 
+ 
+where we have anticipated that the final temperature of the mixture 
+will be close to 90.0°C. 
+ 
+The molar specific heat of air is   CP, air = 7
+2 R.
+
+--- PAGE 12 ---
+1104     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+So the specific heat per gram is  
+ 
+ 
+ 
+cP, air = 7
+2
+R
+M
+⎛
+⎝⎜
+⎞
+⎠⎟= 7
+2 8.314 J mol ⋅K
+(
+) 1.00 mol
+28.9 g
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.01 J g ⋅°C
+  
+ 
+and 
+ 
+ 
+ΔT
+(
+)w = −
+1.20 × 10−3 g cm3
+(
+) 200 cm3
+(
+)
+⎡⎣
+⎤⎦1.01 J g ⋅°C
+(
+) 70.0°C
+(
+)
+1.00 g cm3
+(
+) 800 cm3
+(
+)
+⎡⎣
+⎤⎦4.186 J g ⋅°C
+(
+)
+ 
+ 
+or 
+ 
+ΔT
+(
+)w ≈−5.05 × 10−3°C 
+ 
+The change of temperature for the water is 
+between 10−3 °C and 10−2 °C . 
+*P21.21 
+(a) 
+The air is far from liquefaction so it behaves as an ideal gas. From 
+PV = nRT we have PV = m
+M RT, or PM = m
+V RT = ρRT. For the 
+samples of air in the balloon at 10.0°C (cold) and at the elevated 
+temperature (hot) we have PM = ρcRTc and PM = ρhRTh. Then 
+ρhTh = ρcTc and ρh = ρcTc
+Th
+. For equilibrium of the balloon on the 
+point of rising, 
+ 
+ 
+ 
+Fy
+∑
+= may:
++ B −Fg hot air −Fg cargo = 0
++ρcVg −ρhVg −mg = 0
++ρcV −ρcTc
+Th
+V −m = 0
+1.25 kg m3
+(
+) 400 m3
+(
+) −1.25 kg m3
+(
+) 283 K
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟400 m3
+(
+)
+                                                                                  −200 kg = 0
+300 kg = 500 kg
+(
+) 283 K
+Th
+⎛
+⎝⎜
+⎞
+⎠⎟
+Th = 500
+300
+(
+) 283 K
+(
+) = 472 K
+
+--- PAGE 13 ---
+Chapter 21     1105 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The quantity of air that must be warmed is given by PV = nhRTh, 
+or nh = PV
+RTh
+. The heat input required is 
+ 
+ 
+ 
+Q = nCpΔT
+= −PV
+RTh
+7
+2 R Th −Tc
+(
+)
+= 7
+2( )
+1.013 × 105 N/m2
+(
+) 400 m3
+(
+) 472 K −283 K
+(
+)
+ 472 K
+= 5.66 × 107 J
+ 
+ 
+(b) Q = mH, so m = Q
+H =
+5.66 × 107 J
+5.03 × 107 J kg = 1.12 kg 
+ 
+ 
+	  
+Section 21.3 
+The Equipartition of Energy 
+P21.22 
+(a) 
+Eint = Nf
+kBT
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= f
+nRT
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(b) 
+CV = 1
+n
+dEint
+dT
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2 fR 
+ 
+(c) 
+CP = CV + R = 1
+2 f + 2
+(
+)R 
+ 
+(d) 
+γ = CP
+CV
+= f + 2
+f
+ 
+P21.23 
+The rotational kinetic energy of the molecule  
+is given by Krot = 1
+2 Iω 2. We determine the  
+moment of inertia from I = 2m0r2, with  
+ 
+m0 = 35.0 × 1.67 × 10−27 kg and  r = 10−10 m:  
+ 
+ 
+ 
+I = 2m0r2 = 2 35.0 × 1.67 × 10−27 kg
+(
+) 10−10 m
+(
+)
+2
+= 1.17 × 10−45 kg⋅m2
+         
+ANS. FIG. P21.23
+
+--- PAGE 14 ---
+1106     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, 
+ 
+ 
+ 
+Krot = 1
+2 Iω 2 = 1
+2 1.17 × 10−45 kg⋅m2
+(
+) 2.00 × 1012 s−1
+(
+)
+2
+= 2.34 × 10−21 J
+ 
+P21.24 
+We must have the difference of molar specific heats given by Equation 
+21.31: CP − CV = R. The value of γ  tells us that CP = 1.75CV, so 
+ 
+ 
+1.75CV  − CV  = R     →     CV  =  R
+0.75 =  4
+3 R 
+ 
+The maximum possible value of γ =1+ R
+CV
+= 1.67 occurs 
+for the lowest possible value for CV = 3
+2 R. Therefore the
+claim of  γ = 1.75 for the newly discovered gas cannot be 
+true.
+ 
+P21.25 
+The sample’s total heat capacity at constant volume is nCv. An ideal 
+gas of diatomic molecules has three degrees of freedom for translation 
+in the x, y, and z directions. If we take the y axis along the axis of a 
+molecule, then outside forces cannot excite rotation about this axis, 
+since they have no lever arms. Collisions will set the molecule spinning 
+only about the x and z axes. 
+ 
+(a) 
+If the molecules do not vibrate, they have five degrees of freedom. 
+Random collisions put equal amounts of energy 1
+2 kBT into all 
+five kinds of motion. The average energy of one molecule is 
+5
+2 kBT. The internal energy of the two-mole sample is 
+ 
+ 
+ 
+N 5
+2 kBT
+⎛
+⎝⎜
+⎞
+⎠⎟= nNA
+5
+2 kBT
+⎛
+⎝⎜
+⎞
+⎠⎟= n 5
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟T = nCVT 
+ 
+ 
+The molar heat capacity is CV = 5
+2 R, and the sample’s heat 
+capacity is 
+ 
+ 
+ 
+nCV = n 5
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.00 mol
+(
+) 5
+2 8.314 J mol ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+nCV = 41.6 J K
+
+--- PAGE 15 ---
+Chapter 21     1107 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For the heat capacity at constant pressure, we have 
+ 
+ 
+ 
+nCP = n CV + R
+(
+) = n 5
+2 R + R
+⎛
+⎝⎜
+⎞
+⎠⎟= 7
+2 nR
+= 2.00 mol
+(
+) 7
+2 8.314 J mol ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+nCP = 58.2 J K
+ 
+ 
+(c) 
+Vibration adds two more degrees of freedom for two more terms 
+in the molecular energy, for kinetic and for elastic potential 
+energy. We have 
+ 
+ 
+ 
+nCV = n 7
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟= 58.2 J K 
+ 
+ 
+and nCP = n 9
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟= 74.8 J K . 
+ 
+ 
+	  
+Section 21.4 
+Adiabatic Processes for an Ideal Gas 
+P21.26 
+(a) 
+In an adiabatic process PiVi
+γ = PfVf
+γ : 
+ 
+ 
+ 
+Pf = Pi
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= 5.00 atm
+(
+) 12.0
+30.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.40
+= 1.39 atm
+ 
+ 
+(b) The initial temperature is  
+ 
+ 
+ 
+Ti = PiVi
+nR =
+5.00 1.013 × 105 Pa
+(
+) 12.0 × 10−3 m3
+(
+)
+2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+)
+= 366 K 
+ 
+ 
+and similarly the final temperature is  
+ 
+ 
+ 
+Tf =
+PfVf
+nR =
+1.39 1.013 × 105 Pa
+(
+) 30.0 × 10−3 m3
+(
+)
+2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+)
+= 253 K 
+ 
+(c) 
+The process is adiabatic, so by definition, Q = 0 . 
+ 
+(d) For any process, 
+ΔEint = nCVΔT, 
+ 
+ 
+and for this diatomic ideal gas, CV =
+R
+γ −1 = 5
+2 R
+
+--- PAGE 16 ---
+1108     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 
+ 
+ 
+  
+ΔEint = nCVΔT
+= 2.00 mol
+(
+) 5
+2 8.314 J mol ⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥253 K −366 K
+(
+)
+= −4.66 kJ
+ 
+ 
+(e) 
+W = ΔEint −Q = −4.66 kJ −0 = −4.66 kJ 
+P21.27 
+(a) 
+PiVi
+γ = PfVf
+γ    so    Vf
+Vi
+=
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ
+=
+1.00
+20.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 7
+= 0.118 . 
+ 
+(b) 
+Tf
+Ti
+= PfVf
+PiVi
+=
+Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= 20.0
+(
+) 0.118
+(
+)   →   Tf
+Ti
+= 2.35      
+ 
+(c) 
+Since the process is adiabatic, Q = 0 . 
+ 
+(d) Since  γ = 1.40 = CP
+CV
+= R + CV
+CV
+, CV = 5
+2 R   
+ 
+ 
+and ΔT = 2.35Ti −Ti = 1.35Ti , then 
+ 
+ 
+ 
+ΔEint = nCVΔT
+= 0.016 0 mol
+(
+) 5
+2
+⎛
+⎝⎜
+⎞
+⎠⎟8.314 J mol ⋅K
+(
+) 1.35 300 K
+(
+)
+[
+]
+= 135 J
+ 
+ 
+(e) 
+W = −Q + ΔEint = 0 + 135 J = +135 J 
+P21.28 
+(a) 
+The work done on the gas is 
+ 
+ 
+ 
+Wab = −
+PdV
+Va
+Vb
+∫
+ 
+ 
+ 
+For the isothermal process, 
+ 
+ 
+ 
+Wa ′b = −nRTa
+1
+V
+⎛
+⎝⎜
+⎞
+⎠⎟dV
+Va
+V ′b
+∫
+Wa ′b = −nRTa ln V ′b
+Va
+⎛
+⎝⎜
+⎞
+⎠⎟= nRT ln Va
+V ′b
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+ 
+Wa ′b = 5.00 mol
+(
+) 8.314 J mol⋅K
+(
+) 293 K
+(
+)ln 10.0
+(
+) = 28.0 kJ
+
+--- PAGE 17 ---
+Chapter 21     1109 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P21.28 
+ 
+ 
+(b) For the adiabatic process, we must first find the final temperature, 
+Tb. Since air consists primarily of diatomic molecules, we shall use  
+ 
+ 
+ 
+γ air = 1.40     and    CV, air = 5R
+2 = 5 8.314
+(
+)
+2
+= 20.8 J mol ⋅K 
+ 
+ 
+Then, for the adiabatic process, 
+ 
+ 
+ 
+Tb = Ta
+Va
+Vb
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+= 293 K
+(
+) 10.0
+(
+)
+0.400 = 736 K
+ 
+ 
+ 
+Thus, the work done on the gas during the adiabatic process is 
+ 
+ 
+ 
+Wab −Q + ΔEint
+(
+)ab = −0 + nCVΔT
+(
+)ab = nCV Tb −Ta
+(
+) 
+ 
+ 
+or 
+Wab = 5.00 mol
+(
+) 20.8 J mol ⋅K
+(
+) 736 K −293 K
+(
+) =
+46.0 kJ 
+ 
+(c) 
+For the isothermal process, we have P ′b V ′b = PaVa. 
+ 
+ 
+Thus, P ′b = Pa
+Va
+V ′b
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.00 atm
+(
+) 10.0
+(
+) = 10.0 atm . 
+ 
+(d) For the adiabatic process, we have PbVb
+γ = PaVa
+γ . 
+ 
+ 
+Thus, Pb = Pa
+Va
+Vb
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= 1.00 atm
+(
+) 10.0
+(
+)
+1.40 = 25.1 atm . 
+P21.29 
+Combining PVγ = constant with the ideal gas law gives one of the 
+textbook equations describing adiabatic processes, T1V
+1
+γ −1 = T2V2
+γ −1. 
+ 
+ 
+ 
+T2 = T1
+V1
+V2
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+= 300 K
+(
+) 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+(1.40−1)
+= 227 K
+
+--- PAGE 18 ---
+1110     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.30 
+Use Equation 21.37 for an adiabatic process to find the temperature of 
+the compressed fuel-air mixture at the end of the compression stroke, 
+before ignition: 
+ 
+ 
+ 
+TiVi
+γ −1 = TfVf
+γ −1     
+ 
+which gives 
+ 
+ 
+ 
+Tf  = Ti  Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ −1
+ =  323 K
+(
+) 14.5
+(
+)
+1.40−1 = 941 K 
+ 
+This is equivalent to 668°C, which is higher than the melting 
+point of aluminum which is 660°C. Also, the temperature will 
+rise much more when ignition occurs. The engine will melt when 
+put into operation!Therefore, the claim of improved efficiency 
+using an engine fabricated out of aluminum cannot be true.
+  
+P21.31 
+We suppose the air plus burnt gasoline behaves like a diatomic ideal 
+gas. We find its final absolute pressure: 
+ 
+ 
+ 
+21.0 atm
+(
+) 50.0 cm3
+(
+)
+7 5 = Pf 400 cm3
+(
+)
+7 5
+Pf = 21.0 atm
+(
+) 1
+8
+⎛
+⎝⎜
+⎞
+⎠⎟
+7 5
+= 1.14 atm
+ 
+ 
+Now  Q = 0    and   W = ΔEint = nCV Tf −Ti
+(
+), 
+ 
+so   
+W = 5
+2 nRTf −5
+2 nRTi = 5
+2 PfVf −PiVi
+(
+) 
+ 
+ 
+ 
+W = 5
+2[ 1.14 atm
+(
+)(400 cm3) −21.0 atm
+(
+)(50.0 cm3)]
+= −1 485 atm ⋅cm3
+(
+) 1.013 × 105 N m2
+1 atm
+⎛
+⎝⎜
+⎞
+⎠⎟10−6 m3 cm3
+(
+) 
+= −150 J
+ 
+ 
+ANS. FIG. P21.31
+
+--- PAGE 19 ---
+Chapter 21     1111 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The output work is −W = +150 J 
+ 
+The time for this stroke is 1
+4
+1 min
+2 500
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.00 × 10−3 s 
+ 
+ 
+ 
+P = −W
+Δt =
+150 J
+6.00 × 10−3 s =  25.0 kW 
+P21.32 
+(a) 
+Vi = π
+2.50 × 10−2 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+0.500 m
+(
+) = 2.45 × 10−4 m3 
+ 
+(b) The quantity of air we find from PiVi = nRTi: 
+ 
+ 
+ 
+n = PiVi
+RTi
+= 1.013 × 105 Pa
+(
+) 2.45 × 10−4 m3
+(
+)
+8.314 J mol⋅K
+(
+) 300 K
+(
+)
+n = 9.97 × 10−3 mol
+ 
+ 
+(c) 
+Absolute pressure = gauge pressure + external pressure: 
+ 
+ 
+ 
+Pf = 101.3 kPa + 800 kPa = 901.3 kPa = 9.01× 105 Pa 
+ 
+(d) Adiabatic compression: PiVi
+γ = PfVf
+γ 
+ 
+ 
+ 
+Vf = Vi
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ
+= 2.45 × 10−4 m3
+(
+) 101.3
+901.3
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 7
+Vf = 5.15 × 10−5 m3
+ 
+ 
+(e) 
+PfVf = nRTf 
+ 
+ 
+Tf = Ti
+PfVf
+PiVi
+= Ti
+Pf
+Pi
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ
+= Ti
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ −1
+(
+) 
+ 
+ 
+Tf = 300 K 101.3
+901.3
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 7−1
+(
+)
+= 560 K
+ 
+ 
+(f) 
+The work done on the gas in compressing it is W = ΔEint = nCVΔT: 
+ 
+ 
+ 
+ΔEint = W = nCVΔT
+= 9.97 × 10−3 mol
+(
+) 5
+2 8.314 J mol⋅K
+(
+) 560 K −300 K
+(
+)
+ΔEint = 53.9 J
+
+--- PAGE 20 ---
+1112     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) The pump wall has outer diameter 25.0 mm + 2.00 mm + 2.00 mm 
+= 29.0 mm, and volume 
+ 
+ 
+ 
+π 14.5 × 10−3 m
+(
+)
+2 −π 12.5 × 10−3 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+                          × 4.00 × 10−2 m
+(
+) = 6.79 × 10−6 m3
+ 
+ 
+(h) The mass of the pump is given by 
+ 
+ 
+ 
+ρV = 7.86 × 103 kg m3
+(
+) 6.79 × 10−6 m3
+(
+) = 53.3 g 
+ 
+(i) 
+Now imagine this energy being shared with the inner wall as the 
+gas is held at constant volume. The overall warming process is 
+described by  
+ 
+ 
+ 
+ΔEint  = W = nCVΔT + mcΔT    →    ΔT = 
+W
+nCV  + mc
+ 
+ 
+ 
+Suppressing the units of R, 
+ 
+ 
+  ΔT = 
+53.9 J
+9.97 × 10−3 mol
+(
+) 5
+2 8.314
+(
+) +  0.053 3 kg
+(
+) 448 J/kg⋅°C
+(
+)
+         = 2.24°C =  2.24 K
+ 
+P21.33 
+(a) 
+See ANS. FIG. P21.33(a) on the 
+right. 
+ 
+(b) 
+PBVB
+γ = PCVC
+γ 
+ 
+ 
+3PiVi
+γ = PiVC
+γ
+VC = 31 γ
+(
+)Vi = 35 7
+(
+)Vi = 2.19Vi
+VC = 2.19 4.00 L
+(
+) = 8.77 L
+ 
+ 
+(c) 
+PBVB = nRTB = 3PiVi = 3nRTi 
+ 
+ 
+TB = 3Ti = 3 300 K
+(
+) = 900 K 
+ 
+(d) After one whole cycle, TA = Ti = 300 K . 
+ 
+(e) 
+In AB, QAB = nCVΔV = n 5
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟3Ti −Ti
+(
+) = 5.00
+(
+)nRTi 
+ 
+ 
+ 
+QBC = 0 as this process is adiabatic. 
+ 
+ 
+ 
+PCVC = nRTC = Pi 2.19Vi
+(
+) = 2.19
+(
+)nRTi 
+ANS. FIG. P21.33(a)
+
+--- PAGE 21 ---
+Chapter 21     1113 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+TC = 2.19Ti , and  
+ 
+ 
+ 
+QCA = nCPΔT = n 7
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟Ti −2.19Ti
+(
+) = −4.17
+(
+)nRTi 
+ 
+ 
+For the whole cycle, 
+ 
+ 
+ 
+QABCA = QAB + QBC + QCA = 5.00 −4.17
+(
+)nRTi = 0.829
+(
+)nRTi
+ΔEint
+(
+)ABCA = 0 = QABCA + WABCA
+ 
+ 
+ 
+ 
+WABCA = −QABCA = −0.829
+(
+)nRTi = −0.829
+(
+)PiVi
+WABCA = −0.829
+(
+) 1.013 × 105 Pa
+(
+) 4.00 × 10−3 m3
+(
+) = −336 J
+ 
+P21.34 
+(a) 
+Refer to ANS. FIG. P21.34(a).  
+ 
+(b) 
+PBVB
+γ = PCVC
+γ 
+ 
+ 
+3PiVi
+γ = PiVC
+γ
+VC =
+31 γ
+(
+)Vi
+ 
+ 
+(c) 
+PBVB = nRTB = 3PiVi = 3nRTi 
+ 
+ 
+TB = 3Ti 
+ 
+(d) After one whole cycle, 
+TA = Ti . 
+ 
+(e) 
+For AB,  
+ 
+ 
+ 
+QAB = nCvΔT = n
+R
+γ −1 ΔT = n
+R
+γ −1 3Ti −Ti
+(
+) = 2nRTi
+γ −1 = 2PiVi
+γ −1
+ 
+ 
+ 
+QBC = 0 as this process is abiabatic. 
+ 
+ 
+PCVC = nRTC = Pi 31 γ
+(
+)Vi = 31 γ
+(
+)nRTi so TC = 31 γ
+(
+)Ti
+ 
+ 
+ 
+ 
+QCA = nCPΔT = nγ CV Ti −31 γ
+(
+)Ti
+⎡⎣
+⎤⎦= γ
+R
+γ −1nTi 1−31 γ
+(
+)
+⎡⎣
+⎤⎦
+= PiViγ
+1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31 γ
+(
+)
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+For the whole cycle, 
+ 
+ 
+ 
+QABCA = QAB + QBC + QCA = 2PiVi
+γ −1 + 0 + PiViγ
+1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31 γ
+⎡⎣
+⎤⎦
+ 
+ANS. FIG. P21.34(a)
+
+--- PAGE 22 ---
+1114     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+QABCA = PiVi
+2
+γ −1 + γ
+1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31 γ
+⎡⎣
+⎤⎦
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= PiVi
+2
+γ −1 + γ −1+ 1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31 γ
+⎡⎣
+⎤⎦
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+ 
+QABCA = PiVi
+2
+γ −1 + 1−31 γ
+(
+) + 1−31 γ
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+= PiVi
+1−31 γ
+(
+) +
+3 −31 γ
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+ΔEint
+(
+)ABCA = 0 = QABCA + WABCA
+WABCA = −QABCA = −PiVi
+1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31 γ
+(
+) + 1−31 γ
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+ 
+	  
+Section 21.5 
+Distribution of Molecular Speeds 
+*P21.35 
+The most probable speed is  
+ 
+ 
+ 
+vmp =
+2kBT
+m0
+=
+2 1.38 × 10−23 J K
+(
+) 4.20 K
+(
+)
+6.64 × 10−27 kg
+= 132 m s
+ 
+P21.36 
+(a) 
+The average is 
+ 
+ 
+ 
+v =
+nivi
+∑
+ni
+∑
+= 1(2.00) + 2(3.00) + 3(5.00) + 4(7.00) + 3(9.00) + 2(12.0)
+1 + 2 + 3 + 4 + 3 + 2
+m/s
+ 
+ 
+ 
+ 
+v = 6.80 m/s 
+ 
+(b) To find the average squared speed we work out 
+ 
+ 
+ 
+v2 =
+nivi
+2
+∑
+ni
+∑
+v2 =
+1
+15
+⎛
+⎝⎜
+⎞
+⎠⎟1 2.002
+(
+) + 2 3.002
+(
+) + 3 5.002
+(
+) + 4 7.002
+(
+)
+⎡⎣
+                                                + 3 9.002
+(
+) + 2 12.02
+(
+) m2 s2 ⎤⎦
+v2 = 54.9 m2 s2
+
+--- PAGE 23 ---
+Chapter 21     1115 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then the rms speed is 
+ 
+ 
+ 
+ 
+vrms =
+v2 =
+54.9 m2 s2 = 7.41 m/s 
+ 
+ 
+(c) 
+More particles have vmp = 7.00 m/s than any other speed.  
+P21.37 
+(a) 
+The ratio of the number at higher energy to the number at lower 
+energy is e−ΔE kBT , where ΔE is the energy difference. Here, 
+ 
+ 
+ 
+ΔE = 10.2 eV
+(
+) 1.60 × 10−19 J
+1 eV
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.63 × 10−18 J
+ 
+ 
+ 
+and at 0°C, 
+ 
+ 
+ 
+kBT = 1.38 × 10−23 J K
+(
+) 273 K
+(
+) = 3.77 × 10−21 J 
+ 
+ 
+Since this is much less than the excitation energy, nearly all the 
+atoms will be in the ground state and the number excited is 
+ 
+ 
+ 
+2.70 × 1025
+(
+)exp −1.63 × 10−18 J
+3.77 × 10−21 J
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.70 × 1025
+(
+)e−433 
+ 
+ 
+This number is much less than one, so 
+almost all of the time no atom is excited. 
+ 
+(b) At 10 000°C, 
+ 
+ 
+ 
+kBT = 1.38 × 10−23 J K
+(
+) 10 273 K
+(
+) = 1.42 × 10−19 J 
+ 
+ 
+The number excited is 
+ 
+ 
+ 
+2.70 × 1025
+(
+)exp −1.63 × 10−18 J
+1.42 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                   = 2.70 × 1025
+(
+)e−11.5 = 2.70 × 1020
+ 
+P21.38 
+(a) 
+Vrms, 35
+Vrms, 37
+=
+3RT / M35
+3RT / M37
+=
+37.0 g mol
+35.0 g mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 1.03 
+ 
+(b) The lighter atom, 
+35Cl , moves faster. 
+P21.39 
+(a) 
+From vavg =
+8kBT
+π m0
+ we find the temperature as  
+ 
+ 
+ 
+T =
+π 6.64 × 10−27 kg
+(
+) 1.12 × 104 m s
+(
+)
+2
+8 1.38 × 10−23 J mol ⋅K
+(
+)
+ = 2.37 × 104 K
+
+--- PAGE 24 ---
+1116     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+T =
+π 6.64 × 10−27 kg
+(
+) 2.37 × 103 m s
+(
+)
+2
+8 1.38 × 10−23 J mol ⋅K
+(
+)
+= 1.06 × 103 K 
+P21.40 
+For a molecule of diatomic nitrogen the mass is  
+ 
+ 
+ 
+m0 = M
+NA
+=
+28.0 × 10−3 kg/mol
+6.02 × 1023 molecules/mol
+= 4.65 × 10−26 kg/molecule
+  
+ 
+(a) 
+vmp =
+2kBT
+m0
+=
+2(1.38 × 10−23 J/molecule⋅K)(900 K)
+4.65 × 10−26 kg/molecule
+= 731 m s 
+ 
+(b) 
+vavg =
+8kBT
+πm0
+=
+8(1.38 × 10−23 J/molecule⋅K)(900 K)
+π ⋅4.65 × 10−26 kg/molecule
+= 825 m s 
+ 
+(c) 
+vrms =
+3kBT
+m0
+=
+3(1.38 × 10−23 J/molecule⋅K)(900 K)
+4.65 × 10−26 kg/molecule
+= 895 m s 
+ 
+(d) 
+The graph appears to be drawn correctly within about 10 m s. 
+P21.41 
+(a) 
+From the Boltzmann distribution law, the number density of 
+molecules with height y so that the gravitational potential energy 
+of the molecule-Earth system is m0gy is n0e−m0gy/kBT. These are the 
+molecules with height y, so this is the number per volume at 
+height y as a function of y. 
+ 
+(b) 
+n y( )
+n0
+= e−m0gy kBT = e−Mgy NAkBT = e−Mgy RT 
+ 
+ 
+ 
+= e
+−28.9×10−3 kg mol
+(
+) 9.8 m s2
+(
+) 11×103 m
+(
+)
+8.314 J mol⋅K
+(
+) 293 K
+(
+)
+= e−1.279 = 0.278
+ 
+P21.42 
+In the Maxwell-Boltzmann speed distribution function take dNv
+dv = 0 to 
+find  
+ 
+ 
+ 
+4π N
+m0
+2π kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+exp  −m0v2
+2kBT
+⎛
+⎝⎜
+⎞
+⎠⎟  2v −2m0v3
+2kBT
+⎛
+⎝⎜
+⎞
+⎠⎟= 0 
+ 
+and solve for v to find the most probable speed. Reject as solutions  
+v = 0 and v = ∞. They describe minimally probable speeds.
+
+--- PAGE 25 ---
+Chapter 21     1117 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ Retain only 2 −m0v2
+kBT = 0. 
+ 
+ Then, 
+vmp =
+2kBT
+m0
+. 
+P21.43 
+It is convenient in the following to define a = m0g
+kBT . 
+ 
+(a) 
+We calculate 
+ 
+ 
+ 
+e−m0gy kBT dy
+0
+∞
+∫
+=
+e−ay dy
+0
+∞
+∫
+=
+e−ay −ady
+(
+) −1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+y=0
+∞
+∫
+= −1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟e−ay
+0
+∞= −1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟0 −1
+(
+) = 1
+a
+ 
+ 
+ 
+Using Table B.6 in the appendix, 
+ 
+ 
+ 
+ye−aydy
+0
+∞
+∫
+= 1!
+a( )
+2 =
+1
+a
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Then, 
+ 
+ 
+ 
+yavg =
+ye−aydy
+0
+∞
+∫
+e−aydy
+0
+∞
+∫
+= 1 a
+(
+)
+2
+1 a
+= 1
+a = kBT
+m0g 
+ 
+(b) 
+yavg =
+kBT
+M NA
+(
+)g = RT
+Mg =
+8.314 J/mol ⋅K
+(
+) 283 K
+(
+)
+28.9 × 10−3 kg
+(
+) 9.8 m/s2
+(
+)
+= 8.31 km
+
+--- PAGE 26 ---
+1118     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P21.44 
+(a) 
+The average speed is given by vavg =
+vi
+i
+N
+∑
+N 
+ 
+ 
+which may be solved numerically for the values given. 
+Suppressing units, 
+ 
+vavg =
+vi
+i
+N
+∑
+N
+=
+3.00
+(
+)+ 4.00
+(
+)+ 5.80
+(
+)+ 2.50
+(
+)+ 3.60
+(
+)+ 1.90
+(
+)+ 3.80
+(
+)+ 6.60
+(
+)
+[
+]
+8
+= 31.2 km/s
+8
+= 3.90 km/s
+ 
+ 
+(b) The rms speed of the molecules is given by  vrms =
+vi
+2
+i
+N
+∑
+N
+ 
+ 
+ 
+which may be solved numerically for the values given. 
+Suppressing units, 
+vrms =
+vi
+2
+i
+N
+∑
+N
+       =
+3.00
+(
+)
+2 + 4.00
+(
+)
+2 + 5.80
+(
+)
+2 + 2.50
+(
+)
+2 + 3.60
+(
+)
+2 + 1.90
+(
+)
+2 + 3.80
+(
+)
+2 + 6.60
+(
+)
+2
+⎡⎣
+⎤⎦
+8
+=
+9.00
+(
+)+ 16.00
+(
+)+ 33.64
+(
+)+ 6.25
+(
+)+ 12.96
+(
+)+ 3.61
+(
+)+ 14.44
+(
+)+ 43.56
+(
+)
+[
+]
+8
+       =
+139.46 km2 /s2
+8
+=
+17.43 km2 /s2 = 4.18 km/s
+ 
+P21.45 
+(a) 
+The total amount of oxygen in the tank is (using PV = nRT) 
+ 
+ 
+ 
+n = PV
+RT =
+125 atm
+(
+) 6.88 L
+(
+)
+0.0821 L ⋅atm/mol ⋅K
+(
+) 21.0°C + 273
+(
+)
+= 35.6 mol
+
+--- PAGE 27 ---
+Chapter 21     1119 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The rate at which the tank is being depleted (in moles/sec; again 
+using PV = nRT) is 
+ 
+ 
+ 
+Δn Δt
+(
+) = P ΔV Δt
+(
+)
+RT
+=
+1 atm
+(
+) 8.50 L/min
+(
+) 1min/60sec
+(
+)
+0.082 1 L⋅atm/mol⋅K
+(
+) 21.0°C + 273
+(
+)
+= 0.005 87 mol/s
+ 
+ 
+ 
+The time interval to deplete the tank is the total molar mass 
+divided by the molar rate: 
+ 
+ 
+ 
+Δt = n Δn/Δt
+(
+) =
+35.6 mol
+5.87 × 10−3 mol/s
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.70 h
+ 
+ 
+(b) Because the rms speed is dependent only on the molecular mass 
+and the temperature, i.e.,  
+ 
+ 
+ 
+vrms =
+3kT
+m
+ 
+ 
+ 
+and because the masses of the molecule inside and at the outlet 
+are the same, and the temperatures are the same (21.0°C), the rms 
+speeds will be identical: the requested ratio is equal to 1.00 . 
+P21.46 
+(a) 
+n = PV
+RT = (1.013 × 105 Pa)(4.20 m)(3.00 m)(2.50 m)
+(8.314 J mol ⋅K)(293 K)
+= 1.31× 103 mol 
+ 
+ 
+N = nNA = 1.31× 103 mol
+(
+) 6.02 × 1023 molecules mol
+(
+)
+N = 7.89 × 1026 molecules
+ 
+ 
+(b) 
+m = nM = 1.31× 103 mol
+(
+) 0.028 9 kg mol
+(
+) = 37.9 kg 
+ 
+(c) 
+1
+2 m0v2 = 3
+2 kBT = 3
+2 1.38 × 10−23 J k
+(
+) 293 K
+(
+) =  6.07 × 10−21 J 
+ 
+(d) For one molecule, 
+ 
+ 
+m0 = M
+NA
+=
+0.028 9 kg mol
+6.02 × 1023 molecules mol = 4.80 × 10−26 kg molecule
+vrms =
+3kT
+m
+=
+2 6.07 × 10−21 J molecule
+(
+)
+4.80 × 10−26 kg molecule = 503 m s
+ 
+ 
+(e) 
+0
+
+--- PAGE 28 ---
+1120     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+When the furnace operates, air expands and some of it 
+leaves the room. The smaller mass of warmer air left in 
+the room contains the same internal energy as the cooler 
+air initially in the room.
+ 
+P21.47 
+(a) 
+The rms speed of molecules in a gas is related to the temperature 
+by 
+ 
+ 
+ 
+vrms =
+3kT
+m
+ 
+ 
+ 
+which can be rearranged and solved numerically for the 
+temperature: 
+ 
+ 
+ 
+T = mvrms
+2
+3k
+= 32 1.66 × 10−27 kg
+(
+) 535 m/s
+(
+)
+2
+3 1.38 × 10−23 J/K
+(
+)
+= 367 K
+ 
+ 
+(b) The rms speed is inversely related to the mass of the gas molecule 
+(the mass is in the denominator of the square-root function 
+above). The rms speed of nitrogen would be higher because the 
+molar mass of nitrogen is less than that of oxygen. 
+ 
+(c) 
+The rms speed of the nitrogen molecules is: 
+ 
+ 
+ 
+vrms =
+3kT
+m
+=
+3 1.38 × 10−23 J/K
+(
+)(367 K)
+28 1.66 × 10−27 kg
+(
+)
+= 572 m/s 
+P21.48 
+(a) 
+The mean free path is given by:  
+ 
+ 
+ 
+ = 
+1
+2πd2NV
+ 
+ 
+ 
+which can be solved numerically (noting that the pressure must 
+be given as total pressure, not gauge pressure, and the 
+temperature must be given in kelvins). Using PV = nRT: 
+ 
+ 
+ 
+NV = NA
+n
+V
+⎛
+⎝⎜
+⎞
+⎠⎟= NA
+P
+RT
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.02 × 1023 mol-1
+(
+)
+100 atm + 1 atm
+(
+) 1.013 × 105 N/m2
+atm
+(
+)
+8.314 J/mol⋅K
+(
+) 25.0°C + 273.15°
+(
+)
+= 2.48 × 1027 molecules/m3
+
+--- PAGE 29 ---
+Chapter 21     1121 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which can then be inserted into the mean free path equation: 
+ 
+ 
+ 
+ = 
+1
+2πd2NV
+=
+1
+2π 2.00 × 10−10m
+(
+)
+2 2.48 × 1027mol/m3
+(
+)
+= 2.26 × 10−9 m
+ 
+ 
+(b) The average time interval between collisions is the inverse of the 
+collision frequency: 
+ 
+ 
+ 
+tcollision = 1
+f =
+1
+vavg
+
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+
+vavg 
+ 
+ 
+which can be solved numerically (where the value of vave is 
+obtained from eqn. 21.26): 
+ 
+ 
+ 
+tcollision =
+
+vavg
+=
+
+8kbT
+πm0
+=
+2.26 × 10−9 m
+8 1.38 × 10−23 J/K
+(
+) 298.15 K
+(
+)
+π ⋅32 1.66 × 10−27 kg
+(
+)
+= 2.26 × 10−9 m
+444.1 m/s
+(
+) = 5.09 × 10−12 seconds
+ 
+P21.49 
+For the system of the bullet, Equation 8.2 becomes 
+ 
+ 
+Won bullet  = ΔK 
+ 
+For the system of the gas undergoing an adiabatic process, so that Q = 
+0, Equation 8.2 becomes 
+ 
+ 
+Won gas = ΔEint 
+ 
+Recognizing that Won bullet  =  −Won gas , we see that  
+ 
+ 
+ΔEint  = −ΔK 
+ 
+Substituting for the internal energy, we find 
+ 
+ 
+nCVΔT = −ΔK       
+n 5
+2 R
+⎛
+⎝⎜
+⎞
+⎠⎟ΔT = −ΔK     →    5
+2 nR Tf  − Ti
+(
+) = −ΔK
+ 
+ 
+Now use Equation 21.20 to substitute for Tf : 
+ 
+ 
+5
+2 nR
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ  − 1
+Ti − Ti
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ = −ΔK
+
+--- PAGE 30 ---
+1122     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+5
+2 nRTi
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ  − 1
+ − 1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ = −ΔK
+5
+2 PiVi
+Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ  − 1
+ − 1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ = −1
+2 mv2 − 0
+⎛
+⎝⎜
+⎞
+⎠⎟
+Pi = 
+mv2
+5Vi 1 −  Vi
+Vf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ  − 1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+The final volume of the gas is equal to the initial volume plus the 
+volume of the rifle barrel: 
+ 
+ 
+Vf = Vi + Ah = 12.0 cm3 + 0.0300 cm2
+(
+) 50.0 cm
+(
+) = 13.5 cm3 
+ 
+Substituting numerical values,  
+ 
+ 
+Pi = 
+0.001 10 kg
+(
+) 120 m/s
+(
+)
+2
+5 12 × 10−6 m3
+(
+) 1 −  12.0 cm3
+13.5 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+0.400
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+= 5.74 × 106 Pa =  56.6 atm
+ 
+P21.50 
+(a) 
+For a pure metallic element, one atom is one molecule. Its energy 
+can be represented as  
+ 
+ 
+ 
+1
+2 m0vx
+2 + 1
+2 m0vy
+2 + 1
+2 m0vz
+2 + 1
+2 kxx2 + 1
+2 kyy2 + 1
+2 kzz2  
+ 
+ 
+Its average value is  
+ 
+ 
+ 
+ 
+1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT = 3kBT
+  
+ 
+ 
+ 
+The energy of one mole is obtained by multiplying by Avogadro’s 
+number, Eint/n = 3RT, and the molar heat capacity at constant 
+volume is Eint/nT = 3R. 
+ 
+(b) We calculate the specific heat from 
+ 
+ 
+ 
+3 8.314 J/mol⋅K
+(
+) =
+3 8.314 J
+(
+)
+55.845 × 10−3 kg
+(
+)⋅K = 447 J/kg⋅K
+  
+ 
+ 
+This agrees with the tabulated value of 448 J/kg ⋅ °C within 0.3%.
+
+--- PAGE 31 ---
+Chapter 21     1123 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+For gold, 
+ 
+ 
+ 
+3 8.314 J/mol⋅K
+(
+) =
+3 8.314 J
+(
+)
+197 × 10−3 kg
+(
+)⋅K = 127 J/kg⋅K
+ 
+ 
+ 
+This agrees with the tabulated value of 129 J/kg ⋅ °C within 2%. 
+P21.51 
+(i) 
+(a) 
+Pf = 100 kPa 
+ 
+ 
+(b) 
+Vf =
+nRTf
+Pf
+ 
+ 
+ 
+ 
+    = 2.00 mol 8.314 J mol ⋅K
+(
+) 400 K
+(
+)
+100 × 103 Pa
+= 0.066 5 m3 =  66.5 L
+ 
+ 
+ 
+(c) 
+Tf = 400 K 
+ 
+ 
+(d) 
+ΔEint = 7
+2 nRΔT = 7
+2 2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 100 K
+(
+)
+= 5.82 kJ
+ 
+ 
+ 
+(e) 
+Q = nCPΔT = 9
+2 2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 100 K
+(
+)
+= 7.48 kJ
+ 
+ 
+ 
+(f) 
+W = −PΔV = −nRΔT = −2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 100 K
+(
+)
+= −1.66 kJ
+ 
+ 
+(ii) (a) 
+For an isovolumetric process:  
+ 
+ 
+ 
+ 
+Pf
+Tf
+= Pi
+Ti
+→Pf = Pi
+Tf
+Ti
+ = 1.00 × 105 Pa
+(
+) 400 K
+300 K
+⎛
+⎝⎜
+⎞
+⎠⎟= 133 kPa
+ 
+ 
+ 
+(b) 
+Vf = Vi = nRTi
+Pi
+= 2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 300 K
+(
+)
+100 × 103 Pa
+= 0.049 9 m3
+=
+49.9 L
+ 
+ 
+ 
+(c)  Tf = 400 K
+
+--- PAGE 32 ---
+1124     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+(d) 
+ΔEint = 7
+2 nRΔT = 5.82 kJ as in (i) part (d).  
+ 
+ 
+(e) 
+Q = nCVΔT = 7
+2 nRΔT = 7
+2 2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 100 K
+(
+)
+= 5.82 kJ
+ 
+ 
+ 
+(f)  
+W = −PdV
+∫
+= 0 since V = constant 
+ 
+(iii) (a) 
+Pf = 120 kPa 
+ 
+ 
+(b)  Vf = Vi
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟= 49.9 L
+(
+) 100 kPa
+120 kPa
+⎛
+⎝⎜
+⎞
+⎠⎟= 41.6 L 
+ 
+ 
+(c)  Tf = Ti = 300 K 
+ 
+ 
+(d) 
+ΔEint = 7
+2 nRΔT = 0 since T = constant 
+ 
+ 
+(e) 
+From (f), Q = ΔEint −W = 0 −909 J = −909 J 
+ 
+ 
+(f) 
+W = −PdV
+∫
+= −nRTi
+dV
+V
+Vi
+Vf
+∫
+= −nRTi ln
+Vf
+Vi
+⎛
+⎝⎜
+⎞
+⎠⎟= −nRTi ln
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+W = −2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 300 K
+(
+)ln 100 kPa
+120 kPa
+⎛
+⎝⎜
+⎞
+⎠⎟
+= +909 J
+ 
+ 
+(iv)  (a) 
+Pf = 120 kPa 
+ 
+ 
+(b) 
+γ = CP
+CV
+= CV + R
+CV
+=
+7
+2 R + R
+7
+2 R
+=
+9
+2
+7
+2
+= 9
+7 
+ 
+ 
+ 
+PfVf
+γ = PiVi
+γ ,  so   
+Vf = Vi
+Pi
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ
+= 49.9 L
+(
+) 100 kPa
+120 kPa
+⎛
+⎝⎜
+⎞
+⎠⎟
+7 9
+= 43.3 L 
+ 
+ 
+(c) 
+PV = nRT →Ti
+PiVi
+=
+Tf
+PfVf
+
+--- PAGE 33 ---
+Chapter 21     1125 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+→Tf = Ti
+PfVf
+PiVi
+⎛
+⎝⎜
+⎞
+⎠⎟= 300 K
+(
+) 120 kPa
+100 kPa
+⎛
+⎝⎜
+⎞
+⎠⎟
+43.3 L
+49.9 L
+⎛
+⎝⎜
+⎞
+⎠⎟= 312 K 
+ 
+ 
+(d) 
+ΔEint = 7
+2 nRΔT = 7
+2 2.00 mol
+(
+) 8.314 J mol ⋅K
+(
+) 12.4 K
+(
+)
+= +722 J
+ 
+ 
+ 
+(e) 
+Q = 0 
+ 
+ 
+(f) 
+W = −Q + ΔEint = 0 + 722 J = +722 J 
+P21.52 
+(a) 
+The pressure increases as volume decreases (and vice versa), so 
+dV/dP is always negative. 
+ 
+ 
+In equation form, dV
+dP < 0
+and
+– 1
+V( )
+dV
+dP
+(
+) > 0  
+ 
+ 
+(b) For an ideal gas, V = nRT
+P
+and
+κ 1 = – 1
+V
+d
+dP
+nRT
+P
+(
+) 
+ 
+ 
+For isothermal compression, T is constant and the derivative 
+gives us 
+ 
+ 
+ 
+κ 1 = – nRT
+V
+–1
+P2
+⎛
+⎝
+⎞
+⎠= 1
+P
+ 
+ 
+(c) 
+For an adiabatic compression, PVγ = C (where C is a constant) 
+and we evaluate dV/dP as follows: 
+ 
+ 
+ 
+κ 2 = – 1
+V( )
+d
+dP
+C
+P( )
+1/γ
+=
+1
+Vγ
+⎛
+⎝⎜
+⎞
+⎠⎟
+C1/γ
+P1/γ +1
+(
+)
+=
+V
+Vγ P = 1
+γ P 
+ 
+(d) κ 1 = 1
+P =
+1
+2.00 atm
+(
+)
+= 0.500 atm−1 
+ 
+(e) 
+For a monatomic ideal gas, γ = CP
+CV
+= 5
+3 , so 
+ 
+ 
+ 
+κ 2 = 1
+γ P =
+1
+5
+3 2.00 atm
+(
+)
+= 0.300 atm−1
+ 
+P21.53 
+The pressure of the gas in the lungs of the diver must be the same as 
+the absolute pressure of the water at this depth of 50.0 meters. This is: 
+ 
+ 
+ 
+P = P0 + ρgh
+= 1.00 atm + 1.03 × 103 kg m3
+(
+) 9.80 m s2
+(
+) 50.0 m
+(
+)
+
+--- PAGE 34 ---
+1126     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+P = 1.00 atm + 5.05 × 105 Pa
+1.00 atm
+1.013 × 105 Pa
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.98 atm 
+ 
+If the partial pressure due to the oxygen in the gas mixture is to be 1.00 
+atmosphere (or the fraction 
+1
+5.98
+ of the total pressure), oxygen 
+molecules should make up only 
+1
+5.98
+ of the total number of molecules. 
+This will be true if 1.00 mole of oxygen is used for every 4.98 mole of 
+helium. The ratio by weight is then 
+ 
+4.98 mol He
+(
+) 4.003 g mol He
+(
+)g
+1.00 mol O2
+(
+) 2 × 15.999 g mol O2
+(
+)g = 0.623 
+P21.54 
+Sulfur dioxide is the gas with the greatest molecular mass of
+those listed. If the effective spring constants for various chemical
+bonds are comparable, SO2 can then be expected to have low
+frequencies of atomic vibration. Vibration can be excited at lower
+temperature than for the other gases. Some vibration may be
+going on at 300 K. With more degrees of freedom for molecular
+motion, the material has higher specific heat.
+ 
+P21.55 
+n = m
+M =
+1.20 kg
+0.028 9 kg mol = 41.5 mol 
+ 
+(a) 
+Vi = nRTi
+Pi
+= 41.5 mol
+(
+) 8.314 J mol ⋅K
+(
+) 298 K
+(
+)
+200 × 103 Pa
+= 0.514 m3
+ 
+(b) 
+Pf
+Pi
+=
+Vf
+Vi
+    so    Vf = Vi
+Pf
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 0.514 m3
+(
+) 400
+200
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.06 m3 
+ 
+(c) 
+Tf =
+PfVf
+nR =
+400 × 103 Pa
+(
+) 2.06 m3
+(
+)
+41.5 mol
+(
+) 8.314 J mol ⋅K
+(
+)
+= 2.38 × 103 K 
+ 
+(d) 
+W = −
+PdV
+Vi
+Vf
+∫
+= −C V1 2 dV
+Vi
+Vf
+∫
+= −
+Pi
+Vi
+1 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2V 3 2
+3
+Vi
+Vf
+= −2
+3
+Pi
+Vi
+1 2
+⎛
+⎝⎜
+⎞
+⎠⎟Vf
+3 2 −Vi
+3 2
+(
+)
+ 
+ 
+ 
+W = −2
+3
+200 × 103 Pa
+0.514 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+2.06 m3
+(
+)
+3 2 −0.514 m3
+(
+)
+3 2
+⎡
+⎣
+⎤
+⎦= −480 kJ
+
+--- PAGE 35 ---
+Chapter 21     1127 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+ΔEint = nCVΔT = 41.5 mol
+(
+) 5
+2 8.314 J mol⋅K
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥2.38 × 103 −298
+(
+) K
+= 1.80 × 106 J
+ 
+ 
+ 
+Q = ΔEint −W = 1.80 × 106 J + 4.80 × 105 J = 2.28 × 106 J = 2.28 MJ 
+P21.56 
+(a) 
+Begin with Equation 17.8 and substitute the definition of bulk 
+modulus from Equation 12.8: 
+ 
+ 
+ 
+v = 
+B
+ρ  = 
+1
+ρ −V dP
+dV
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Now substitute using Equation 21.37 with the constant on the 
+right hand side represented by K: 
+ 
+ 
+ 
+v =  
+−V
+ρ
+d
+dV KV −γ
+(
+) = 
+−KV
+ρ
+−γ V −γ −1
+(
+) =  γ
+ρ KV −γ
+(
+)
+   =  γ P
+ρ  =  γ
+ρ
+nRT
+V
+ =  γ m/M
+(
+)RT
+m
+ =  γ RT
+M
+ 
+ 
+(b) 
+v =
+1.40 8.314 J mol ⋅K
+(
+) 293 K
+(
+)
+0.028 9 kg mol
+= 344 m s 
+ 
+ 
+This agrees within 0.2% with the 343 m/s listed in Table 17.1. 
+ 
+(c) 
+We use kB = R
+NA
+ and M = m0NA : v =
+γ RT
+M
+=
+γ kBNAT
+m0NA
+=
+γ kBT
+m0
+ 
+ 
+(d) The most probable molecular speed is 
+2kBT
+m0
+, the average speed 
+is 
+8kBT
+π m0
+, and the rms speed is 
+3kBT
+m0
+. 
+ 
+ 
+The speed of sound is somewhat less than each measure of
+molecular speed. Sound propagation is orderly motion overlaid
+on the disorder of molecular motion.
+ 
+P21.57 
+(a) 
+The average speed vavg is just the weighted average of all the 
+speeds. 
+ 
+ 
+ 
+vavg = 2 v
+( )+ 3 2v
+(
+)+ 5 3v
+(
+)+ 4 4v
+(
+)+ 3 5v
+(
+)+ 2 6v
+(
+)+ 1 7v
+(
+)
+2 + 3 + 5 + 4 + 3 + 2 + 1
+= 3.65v
+
+--- PAGE 36 ---
+1128     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) First find the average of the square of the speeds, 
+ 
+ 
+(v2)avg = 2 v
+( )
+2 + 3 2v
+(
+)
+2 + 5 3v
+(
+)
+2 + 4 4v
+(
+)
+2 + 3 5v
+(
+)
+2 + 2 6v
+(
+)
+2 + 1 7v
+(
+)
+2
+2 + 3 + 5 + 4 + 3 + 2 + 1
+= 15.95v2
+ 
+ 
+ 
+The root-mean square speed is then vrms =
+(vavg)2 = 3.99v 
+ 
+(c) 
+The most probable speed is the one that most of the particles 
+have; i.e., five particles have speed 3.00v . 
+ 
+(d) 
+PV = 1
+3 Nm0vav
+2 
+ 
+ 
+Therefore,    P = 20
+3
+m0 15.95
+(
+)v2
+⎡⎣
+⎤⎦
+V
+= 106 m0v2
+V
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(e) 
+The average kinetic energy for each particle is 
+ 
+ 
+ 
+K = 1
+2 m0vav
+2 = 1
+2 m0 15.95v2
+(
+) = 7.98m0v2 
+P21.58 
+(a) 
+For the adiabatic process PVγ = k, a constant. The work is 
+ 
+ 
+ 
+W = –
+PdV = –k
+i
+f∫
+dV
+Vγ
+Vi
+Vf∫
+= – kV1–γ
+1 – γ
+Vi
+Vf
+    
+  
+ 
+ 
+ 
+For k we can substitute PiVi
+γ and also PfVf
+γ to have 
+ 
+ 
+ 
+W = –
+PfVf
+γVf
+1–γ – PiVi
+γVi
+1–γ
+1 – γ
+=
+PfVf – PiVi
+γ – 1
+ 
+ 
+(b) For an adiabatic process ΔEint = Q +W and Q = 0. Therefore,  
+ 
+ 
+ 
+W = ΔEint = nCVΔT = nCV Tf −Ti
+(
+)
+ 
+. 
+(c) 
+The expressions are equal because PV = nRT and 
+γ = (CV + R)/CV = 1+ R/CV give R = (γ −1)CV , so 
+PV = n(γ −1)CVT and PV/(γ −1) = nCVT.
+ 
+P21.59 
+(a) 
+ΔEint = Q + W = 0 + W     →     W = nCV Tf −Ti
+(
+) 
+ 
+ 
+−2 500 J = 1 mol
+(
+) 3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟8.314 J mol ⋅K
+(
+) Tf −500 K
+(
+)
+ 
+ 
+ 
+Tf = 300 K
+
+--- PAGE 37 ---
+Chapter 21     1129 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+PiVi
+γ = PfVf
+γ 
+ 
+ 
+Pi
+nRTi
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= Pf
+nRTf
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+  
+ 
+ 
+Ti
+γ Pi
+1−γ = Tf
+γ Pf
+1−γ 
+ 
+ 
+Ti
+γ
+γ −1
+(
+)
+Pi
+=
+Tf
+γ
+γ −1
+(
+)
+Pf
+  
+ 
+ 
+Pf = Pi
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+γ −1
+(
+)
+ 
+ 
+ 
+Pf = Pi
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 3
+(
+) 3 2
+(
+)
+= 3.60 atm
+(
+) 300
+500
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 2
+= 1.00 atm
+ 
+P21.60 
+(a) 
+The process is adiabatic:  
+ 
+ 
+ 
+ΔEint = Q + W = 0 + W  →  W = nCV Tf −Ti
+(
+) 
+ 
+ 
+For an ideal gas,  
+ 
+ 
+ 
+W = nCV Tf −Ti
+(
+) = n 3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ R Tf −Ti
+(
+)
+ 
+ 
+ 
+Solving for final temperature, we get  
+ 
+ 
+ 
+ Tf = Ti + 2
+3
+W
+nR
+ 
+ 
+(b) 
+PiVi
+γ = PfVf
+γ 
+ 
+ 
+Pi
+nRTi
+Pi
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+= Pf
+nRTf
+Pf
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+→
+Ti
+γ Pi
+1−γ = Tf
+γ Pf
+1−γ 
+ 
+ 
+→
+Ti
+γ
+γ −1
+(
+)
+Pi
+=
+Tf
+γ
+γ −1
+(
+)
+Pf
+→
+Pf = Pi
+Tf
+Ti
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+γ −1
+(
+)
+ 
+ 
+ 
+where γ =
+Cp
+CV
+= 5
+3
+ for an ideal gas, and 
+γ
+γ −1 =
+5
+3
+5
+3 −1
+=
+5
+3
+2
+3
+= 5
+2
+.
+
+--- PAGE 38 ---
+1130     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting this and the result from part (a) gives  
+ 
+ 
+ 
+Pf = Pi
+Ti + 2
+3
+W
+nR
+Ti
+⎛
+⎝
+⎜
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+⎟
+5 2
+= Pi 1+ 2
+3
+W
+nRTi
+⎛
+⎝⎜
+⎞
+⎠⎟
+5 2
+ 
+*P21.61 
+(a) 
+Let d = 2r represent the diameter of the particle. Its mass is 
+m = ρV = ρ 4
+3 π r3 = ρ 4
+3 π
+d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= ρπ d3
+6
+. Then 1
+2 mvrms
+2
+= 3
+2 kT gives  
+ 
+ 
+ 
+ρπ d3
+6
+vrms
+2
+= 3kT 
+ 
+ 
+so 
+ 
+ 
+ 
+vrms =
+18kT
+ρπ d3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+18 1.38 × 10−23 J/K
+(
+) 293 K
+(
+)
+π 1 000 kg/m3
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟
+1/2
+d−3/2
+=
+4.81× 10−12
+(
+)d−3/2
+ 
+ 
+ 
+where vrms is in meters per second and d is in meters. 
+ 
+(b) 
+v = d/Δt
+→
+(4.81× 10−12 m5/2/s)d
+−3/2 = d/Δt 
+ 
+ 
+ 
+Δt =
+d
+(4.81 × 10−12 m5/2/s)d−3/2
+=
+2.08 × 1011
+(
+)d5/2
+ 
+ 
+ 
+where Δt is in seconds and d is in meters. 
+ 
+(c) 
+vrms =
+18kT
+ρπ d3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+18 1.38 × 10−23 J/K
+(
+) 293 K
+(
+)
+1 000 kg/m3
+(
+)π 3 × 10−6 m
+(
+)
+3
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+1 2
+= 0.926 mm s
+ 
+ 
+ 
+ 
+v = x
+Δt
+→
+Δt = x
+v =
+3 × 10−6 m
+9.26 × 10−4 m s = 3.24 ms 
+ 
+(d) 
+70 kg = 1 000 kg m3
+(
+)π d3
+6
+→
+d = 0.511 m 
+ 
+ 
+ 
+vrms =
+18kT
+ρπ d3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+18 1.38 × 10−23 J/K
+(
+) 293 K
+(
+)
+1 000 kg/m3
+(
+)π 0.511 m
+(
+)
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 1.32 × 10−11 m s
+
+--- PAGE 39 ---
+Chapter 21     1131 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Δt =
+0.511 m
+1.32 × 10−11 m s = 3.88 × 1010 s = 1 230 yr    
+ 
+ 
+ This motion is too slow to observe. 
+P21.62 
+(a) 
+Maxwell’s speed distribution function is 
+ 
+ 
+ 
+Nv = 4π N
+m0
+2π kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+v2e−m0v2 2kBT 
+ 
+ 
+With   N = 1.00 × 104, m0 = M
+NA
+= 0.032 kg
+6.02 × 1023 = 5.32 × 10−26 kg, 
+ 
+ 
+T = 500 K, and kB = 1.38 × 10−23 J molecule⋅K, this becomes     
+ 
+ 
+ 
+Nv = 1.71× 10−4
+(
+)v2e
+−3.85 × 10−6
+(
+)v2 
+ 
+ 
+ANS. FIG. P21.62(a) below is a plot of this function for the range 
+0 ≤v ≤1 500 m s . 
+ 
+ANS. FIG. P21.62(a) 
+ 
+(b) The most probable speed occurs where Nv is a maximum. 
+ 
+ 
+From the graph, vmp ≈510 m s . 
+ 
+(c) 
+vavg =
+8kBT
+π m0
+=
+8 1.38 × 10−23 J/molecule⋅K
+(
+) 500 K
+(
+)
+π 5.32 × 10−26 kg
+(
+)
+= 575 m s
+
+--- PAGE 40 ---
+1132     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Also, 
+ 
+ 
+ 
+vrms =
+3kBT
+m0
+=
+3 1.38 × 10−23 J/molecule⋅K
+(
+) 500 K
+(
+)
+5.32 × 10−26 kg
+= 624 m s
+ 
+ 
+(d) The fraction of particles in the range   300 m s ≤v ≤600 m s 
+ 
+ 
+is 
+ 
+ 
+ 
+ 
+Nv dv
+300
+600
+∫
+N
+ 
+ 
+ 
+where N = 10
+4 and the integral of Nv is read from the graph as the 
+area under the curve. This is approximately the area of a large 
+rectangle 11 s/m high and 300 m/s wide [corners at (300, 0),  
+(300, 11), (600, 11), and (600, 0)], plus a smaller rectangle 5.5 s/m 
+high and 100 m/s wide [corners at (500, 11), (500, 16.6), (600, 
+16.5), and (600, 11)], plus a triangle 5.5 s/m high with a 200 m/s 
+base [vertices at (300, 11), (500, 16.5), and (500, 11)]: 
+ 
+ 
+ 
+(11)(300) + (5.5)(100) + (1/2)(5.5)(200) = 4 400  
+ 
+ 
+and the fraction is 0.44 or 44% . 
+P21.63 
+For the system of the ball and the air, Equation 8.2 gives us, 
+ 
+ 
+ 
+ΔK + ΔEint  = 0 
+ 
+Substitute for the internal energy and solve for the temperature 
+increase of the air: 
+ 
+ 
+ 
+ΔK + nCVΔT = 0  →   ΔT = −ΔK
+nCV
+= 
+−ΔK
+m/M
+(
+) 5
+2 R
+⎛
+⎝
+⎞
+⎠
+= −2MΔK
+5mR 
+ 
+Express the mass m of the air in terms of the density and volume of the 
+cylinder through which the ball passes, and evaluate the change in 
+kinetic energy of the ball: 
+ 
+ 
+ 
+ΔT =  −2MΔK
+5ρVR  =  −
+2M 1
+2 mballv f
+2  −  1
+2 mballvi
+2
+⎛
+⎝
+⎞
+⎠
+5ρ πr2
+(
+)R
+ 
+= 
+Mmball vi
+2 − v f
+2
+(
+)
+5πρr2R
+
+--- PAGE 41 ---
+Chapter 21     1133 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substitute numerical values: 
+ 
+ΔT = 
+28.9 × 10−3 kg/mol
+(
+) 0.142 kg
+(
+)
+47.2 m/s
+(
+)
+2 −  42.5 m/s
+(
+)
+2
+⎡⎣
+⎤⎦
+5π 1.20 kg/m3
+(
+) 0.037 0 m
+(
+)
+2 16.8 m
+(
+) 8.314 J/mol ⋅°C
+(
+)
+      =  0.480°C
+ 
+P21.64 
+(a) 
+The latent heat of evaporation per molecule is  
+ 
+ 
+ 
+2 430 J/g = 2430 J/g
+(
+) 18.0 g
+1 mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mol
+6.02 × 1023 molecule
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 7.27 × 10−20 J/molecule
+ 
+ 
+ 
+If the molecule is about to break free, we assume that it possesses 
+the energy as translational kinetic energy.  
+ 
+(b) Consider one gram of these molecules. From K = 1
+2 mv2 we obtain 
+ 
+ 
+ 
+v =
+2K
+m =
+2 2 430 J
+(
+)
+10−3 kg
+= 2.20 × 103 m/s = 2.20 km/s
+ 
+ 
+(c) 
+The total translational kinetic energy of an ideal gas is 3
+2 nrT, so 
+we have 
+ 
+ 
+ 
+2 430 J/g
+(
+) 18.0 g
+1 mol
+⎛
+⎝⎜
+⎞
+⎠⎟= 3
+2 1 mol
+(
+) 8.314 J/mol⋅K
+(
+)T
+ 
+ 
+ 
+which gives 
+ 
+ 
+ 
+T = 3.51 × 103 K
+ 
+ 
+(d) 
+The evaporating particles emerge with much less kinetic energy,
+as negative work is performed on them by restraining forces as
+they leave the liquid. Much of the initial kinetic energy is used
+up in overcoming the latent heat of vaporization. There are also
+very few of these escaping at any moment in time.
+ 
+P21.65 
+(a) 
+n = PV
+RT =
+1.013 × 105 Pa
+(
+) 5.00 × 10−3 m3
+(
+)
+8.314 J mol ⋅K
+(
+) 300 K
+(
+)
+= 0.203 mol
+ 
+ 
+(b) 
+TB = TA
+PB
+PA
+⎛
+⎝⎜
+⎞
+⎠⎟= 300 K
+(
+) 3.00
+1.00
+⎛
+⎝⎜
+⎞
+⎠⎟= 900 K
+
+--- PAGE 42 ---
+1134     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+TC = TB = 900 K 
+ 
+(d) 
+VC = VA
+TC
+TA
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.00 L
+(
+) 900
+300
+⎛
+⎝⎜
+⎞
+⎠⎟= 15.0 L 
+ 
+ANS. FIG. P21.65 
+ 
+(e) 
+A →B: lock the piston in place and put the cylinder into an oven
+at 900 K, gradually heating the gas. B →C: keep the sample in
+the oven while gradually letting the gas expand to lift a load on
+the piston as far as it can. C →A: carry the cylinder back into the
+room at 300 K and let the gas gradually cool and contract with-
+out touching the piston.
+ 
+ 
+(f) 
+For A→B: W = 0 
+ 
+ 
+ 
+ΔEint = nCVΔT = n 3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟RΔT = Q +W
+ΔEint = 0.203 mol
+(
+) 3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟8.314 J/mol⋅K
+(
+) 600 K
+(
+) = 1.52 kJ
+Q = ΔEint −W = 1.52 kJ
+ 
+ 
+ 
+For B→C:  ΔEint = 0 , because ΔT = 0;  
+ 
+ 
+ 
+W = −nRTB ln VC
+VB
+⎛
+⎝⎜
+⎞
+⎠⎟
+W = −0.203 mol
+(
+) 8.314 J mol ⋅K
+(
+) 900 K
+(
+)ln 3.00
+(
+)
+= −1.67 kJ
+Q = ΔEint −W = 1.67 kJ
+
+--- PAGE 43 ---
+Chapter 21     1135 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+For C→A: ΔEint = nCVΔT 
+ 
+ 
+ 
+ΔEint = 0.203 mol
+(
+) 3
+2
+⎛
+⎝⎜
+⎞
+⎠⎟8.314 J/mol ⋅K
+(
+) −600 K
+(
+)J
+= −1.52 kJ
+ 
+ 
+ 
+ 
+W = −PΔV = −nRΔT
+= −0.203 mol
+(
+) 8.314 J mol ⋅K
+(
+) −600 K
+(
+)
+    = 1.01 kJ
+ 
+ 
+ 
+ 
+Q = ΔEint −W = −1.52 kJ −1.01 kJ = −2.53 kJ 
+ 
+(g) We add the amounts of energy for each process to find them for 
+the whole cycle. 
+ 
+ 
+ 
+QABCA = +1.52 kJ + 1.67 kJ −2.53 kJ = 0.656 kJ
+WABCA = 0 −1.67 kJ + 1.01 kJ = −0.656 kJ
+ΔEint
+(
+)ABCA = QABCA + WABCA = +1.52 kJ + 0 −1.52 kJ = 0
+ 
+ 
+ 
+For any cyclic process, ΔEint = 0. 
+P21.66 
+(a) 
+The effect of large centripetal acceleration is like the effect of a 
+very high gravitational field on an atmosphere. The result is: 
+ 
+ 
+The larger-mass molecules settle to the outside while the region 
+at smaller r has a higher concentration of low-mass molecules. 
+ 
+(b) Consider a single kind of molecule, all of mass m0. To cause the 
+centripetal acceleration of the molecules between r and r + dr, the 
+inward force must increase with increasing distance from the 
+center according to 
+Fr
+∑
+= m0ar. Taking the positive direction 
+toward the center of the centrifuge, we have  
+ 
+ 
+ 
+P + dP
+(
+)A −PA = nV m0Adr
+(
+) rω 2
+(
+) 
+ 
+ 
+where nV = nV r( ) = N V , the number of molecules per unit 
+volume, is an implicit function of r, and A is the area of any 
+cylindrical shell of thickness dr and radius r. The equation 
+reduces to 
+ 
+dP = nVm0ω 2rdr 
+[1]
+
+--- PAGE 44 ---
+1136     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+But also within any small cylindrical shell,  
+ 
+ 
+ 
+PV = NkBT →P =
+N
+V
+⎛
+⎝⎜
+⎞
+⎠⎟kBT
+→dP = d N
+V
+⎛
+⎝⎜
+⎞
+⎠⎟kBT = d nV
+(
+)kBT = dnVkBT
+ 
+ 
+ 
+Therefore, equation [1] becomes  
+ 
+ 
+ 
+dnVkBT = nVm0ω 2rdr    →     dnV
+nV
+= m0ω 2
+kBT rdr 
+ 
+ 
+giving   
+dnV
+nV
+n0
+n
+∫
+= m0ω 2
+kBT
+rdr
+0
+r
+∫
+,   where   nV r = 0
+(
+) = n0 . 
+ 
+ 
+Integrating, we find  
+ 
+ 
+ 
+ln nV
+(
+) n0
+nV = m0ω 2
+kBT
+r2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+r
+→
+ln nV
+n0
+⎛
+⎝⎜
+⎞
+⎠⎟= m0ω 2
+2kBT r2 
+ 
+ 
+and solving for n ≡nV , we have n = n0em0r2ω 2 2kBT . 
+P21.67 
+Nv v
+( ) = 4π N
+m0
+2π kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+v2 exp −m0v2
+2kBT
+⎛
+⎝⎜
+⎞
+⎠⎟, where exp(x) represents ex 
+ 
+Note that    vmp =
+2kBT
+m0
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+. 
+ 
+Thus,    Nv v
+( ) = 4π N
+m0
+2π kBT
+⎛
+⎝⎜
+⎞
+⎠⎟
+3 2
+v2e
+−v2 vmp
+2
+(
+) 
+ 
+and Nv v
+( )
+Nv vmp
+(
+)
+=
+v
+vmp
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+e
+1−v2 vmp
+2
+(
+). 
+ 
+For    v =
+vmp
+50 , 
+ 
+ 
+Nv v
+( )
+Nv vmp
+(
+)
+=
+1
+50
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+e
+1−1 50
+(
+)
+2
+⎡⎣
+⎤⎦= 1.09 × 10−3
+
+--- PAGE 45 ---
+Chapter 21     1137 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The other values are computed similarly, with the following results: 
+ 
+v
+vmp
+ 
+Nv v
+( )
+Nv vmp
+(
+)
+ 
+(a) 
+1
+50
+ 
+1.09 × 10−3 
+(b) 
+1
+10
+ 
+2.69 × 10−2 
+(c) 
+1
+2
+ 
+0.529 
+(d) 
+1 
+1.00 
+(e) 
+2 
+0.199 
+(f) 
+10 
+1.01 × 10−41 
+(g) 
+50 
+1.25 × 10−1 082 
+ 
+ 
+To find the last value, we note: 
+ 
+ 
+50
+(
+)
+2 e1−2 500 = 2 500e−2 499
+10log 2 500e
+ln 10
+(
+) −2 499 ln 10
+(
+) = 10log 2 50010−2 499 ln 10 = 10log 2 500−2 499 ln 10
+                                  = 10−1 081.904 = 100.096 × 10−1082
+ 
+P21.68 
+(a) 
+The energy of one molecule can be represented as  
+ 
+ 
+ 
+1
+2 m0vx
+2 + 1
+2 m0vy
+2 + 1
+2 m0vz
+2 + 1
+2 Iω x
+2 + 1
+2 Iω z
+2  
+ 
+ 
+Its average value is  
+ 
+ 
+ 
+ 
+1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT = 5
+2 kBT
+  
+ 
+ 
+The energy of one mole is obtained by multiplying by Avogadro’s 
+number, Eint /n = 5
+2 RT. 
+ 
+ 
+And the molar heat capacity at constant volume is 
+Eint /nT = 5
+2 R .
+
+--- PAGE 46 ---
+1138     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The energy of one molecule can be represented as  
+ 
+ 
+ 
+1
+2 m0vx
+2 + 1
+2 m0vy
+2 + 1
+2 m0vz
+2 + 1
+2 Iω x
+2 + 1
+2 Iω z
+2 + 1
+2 Iω y
+2 
+ 
+ 
+Its average value is  
+ 
+ 
+ 
+1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT = 3kBT
+ 
+ 
+ 
+The energy of one mole is obtained by multiplying by Avogadro’s 
+number, Eint/n = 3RT. 
+ 
+ 
+And the molar heat capacity at constant volume is Eint/nT = 3R . 
+ 
+(c) 
+Let the modes of vibration be denoted by 1 and 2. The energy of 
+one molecule can be represented as  
+ 
+ 
+ 
+1
+2 m0 vx
+2 +0 vy
+2 + vz
+2
+(
+)+ 1
+2 Iω x
+2 + 1
+2 Iω z
+2
+                              +
+1
+2 µvrel
+2 + 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
++
+1
+2 µvrel
+2 + 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Its average value is 
+ 
+ 
+ 
+3
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT = 9
+2 kBT
+ 
+ 
+ 
+The energy of one mole is obtained by multiplying by Avogadro’s 
+number, Eint /n = 9
+2 RT. 
+ 
+ 
+And the molar heat capacity at constant volume is 
+Eint /nT = 9
+2 R .
+ 
+ 
+(d) The energy of one molecule can be represented as 
+ 
+ 
+ 
+1
+2 m0 vx
+2 +0 vy
+2 + vz
+2
+(
+)+ 1
+2 Iω x
+2 + 1
+2 Iω z
+2 + 1
+2 Iω y
+2
+                              +
+1
+2 µvrel
+2 + 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
++
+1
+2 µvrel
+2 + 1
+2 kx2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+Its average value is  
+ 
+ 
+ 
+3
+2 kBT + 3
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT + 1
+2 kBT = 5kBT
+ 
+ 
+ 
+The energy of one mole is obtained by multiplying by Avogadro’s 
+number, Eint/n = 5RT. 
+ 
+ 
+And the molar heat capacity at constant volume is Eint/nT = 5R .
+
+--- PAGE 47 ---
+Chapter 21     1139 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Measure the constant-volume specific heat of the gas as a
+function of temperature and look for plateaus on the graph.
+If the first jump goes from 3
+2 R to 5
+2 R, the molecules can be
+diagnosed as linear. If the first jump goes from 3
+2 R to 3R,
+the molecules must be nonlinear. The tabulated  data at one
+temperature are insufficient for the determination. At room
+temperature some of the heavier molecules appear to be 
+vibrating.
+ 
+P21.69 
+(a) 
+First find v2 as v2 = 1
+N
+v2Nv dv
+0
+∞
+∫
+. Let a = m0
+2kBT . 
+ 
+ 
+Then, v2 = 4Nπ −1 2a3 2
+⎡⎣
+⎤⎦
+N
+v4e−av2dv
+0
+∞
+∫
+= 4a3 2π −1 2
+⎡⎣
+⎤⎦
+3
+8a2
+π
+a = 3kBT
+m
+ 
+ 
+ 
+The root-mean square speed is then vrms =
+v2 =
+3kBT
+m0
+ 
+ 
+(b) To find the average speed, we have  
+ 
+ 
+ 
+vavg = 1
+N
+vNv dv
+0
+∞
+∫
+= 4Na3 2π −1 2
+(
+)
+N
+v3e−av2 dv
+0
+∞
+∫
+= 4a3 2π −1 2
+2a2
+=
+8kBT
+π m0
+ 
+P21.70 
+We want to evaluate dP
+dV
+ for the function implied by  
+PV = nRT = constant, and also for the different function implied by 
+PVγ = constant. We can use implicit differentiation: 
+ 
+From PV = constant 
+P dV
+dV +V dP
+dV = 0   →   
+dP
+dV
+⎛
+⎝⎜
+⎞
+⎠⎟
+isotherm
+= −P
+V 
+ 
+ 
+From PVγ = constant 
+Pγ Vγ −1 +Vγ dP
+dV = 0   →   
+dP
+dV
+⎛
+⎝⎜
+⎞
+⎠⎟
+adiabat
+= −γ P
+V 
+ 
+Therefore, 
+dP
+dV
+⎛
+⎝⎜
+⎞
+⎠⎟
+adiabat
+= γ
+dP
+dV
+⎛
+⎝⎜
+⎞
+⎠⎟
+isotherm
+ 
+ 
+The theorem is proved.
+
+--- PAGE 48 ---
+1140     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.71 
+(a) 
+The number of molecules in the pot is given by 
+ 
+ 
+ 
+10 000 g
+(
+) 1.00 mol
+18.0 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.02 × 1023 molecules
+1.00 mol
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                                    = 3.34 × 1026 molecules
+ 
+ 
+(b) Each day, 1
+10 of the original molecules are left in the pot. Let us 
+find out how many days are required for there to be one molecule 
+left. We solve the following equation for nd, the number of days: 
+ 
+ 
+ 
+Number left = 1 = 
+1
+10
+( )
+nd N    →     1
+N  = 
+1
+10
+( )
+nd 
+ 
+ 
+where N is the original number of molecules. Take the logarithm 
+of both sides: 
+ 
+ 
+ 
+log 1
+N  = −log N = log
+1
+10
+( )
+nd = nd log
+1
+10
+( ) = −nd log10  = −nd
+              →    nd = log N
+ 
+ 
+ 
+Substitute the numerical value for N: 
+ 
+ 
+ 
+nd = log 3.34 × 1026
+(
+) = 26.5 
+ 
+ 
+Therefore, the last molecule is ladled out after the 26th day and
+so during the 27th day.
+ 
+ 
+(c) 
+The soup is this fraction of the hydrosphere: 
+10.0 kg
+1.32 × 1021 kg
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Therefore, today’s soup likely contains this fraction of the original 
+molecules. The number of original molecules likely in the pot 
+again today is 
+ 
+ 
+ 
+10.0 kg
+1.32 × 1021 kg
+⎛
+⎝⎜
+⎞
+⎠⎟3.34 × 1026 molecules
+(
+)
+                                                     = 2.53 × 106 molecules
+ 
+P21.72 
+(a) 
+Consider the molecule-Earth system to be isolated. Treat an 
+escaping molecule as going from r = RE, v = v0, to r = ∞, v = 0:  
+ 
+ 
+ 
+ΔK + ΔU = 0
+0 −1
+2 m0v2
+⎛
+⎝⎜
+⎞
+⎠⎟+ 0 −−Gm0M
+RE
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 0     →1
+2 m0v2 = Gm0M
+RE
+
+--- PAGE 49 ---
+Chapter 21     1141 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Since the free-fall acceleration at the surface is, g = GM
+RE
+2 , this can 
+also be written as: 1
+2 m0v2 = Gm0M
+RE
+= m0gRE 
+ 
+(b) For O2, the mass of one molecule is 
+ 
+ 
+ 
+m0 =
+0.0320 kg mol
+6.02 × 1023 molecules mol = 5.32 × 10−26 kg molecule 
+ 
+ 
+Then, if m0gRE = 10 3kBT
+2
+⎛
+⎝⎜
+⎞
+⎠⎟, the temperature is  
+ 
+ 
+ 
+T = m0gRE
+15kB
+= 5.32 × 10−26 kg
+(
+) 9.80 m s2
+(
+) 6.37 × 106 m
+(
+)
+15 1.38 × 10−23 J mol⋅K
+(
+)
+= 1.60 × 104 K
+ 
+P21.73 
+(a) 
+For sodium atoms (with a molar mass M = 23.0 g/mol): 
+ 
+ 
+ 
+1
+2 m0v2 = 3
+2 kBT
+1
+2
+M
+NA
+⎛
+⎝⎜
+⎞
+⎠⎟v2 = 3
+2 kBT
+ 
+ 
+ 
+ 
+vrms =
+3RT
+M
+=
+3 8.314 J mol⋅K
+(
+) 2.40 × 10−4 K
+(
+)
+23.0 × 10−3 kg
+= 0.510 m s
+ 
+ 
+(b) 
+Δt =
+d
+vrms
+= 0.010 0 m
+0.510 m s = 19.6 ms ≈20 ms 
+ 
+ 
+ 
+Challenge Problems 
+P21.74 
+(a) The average value of a collection of particle speeds is 
+ 
+ 
+ 
+vavg =
+vi
+i
+N
+∑
+N
+ 
+ 
+ 
+Use this equation to find the average for the two speeds given in 
+the problem: 
+ 
+ 
+ 
+vavg = v1 + v2
+2
+=
+avavg + 2 −a
+(
+)vavg
+2
+= vavg
+
+--- PAGE 50 ---
+1142     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The rms average value of a collection of particle speeds is 
+ 
+ 
+ 
+vrms =
+vi
+2
+i
+N
+∑
+N
+ 
+ 
+ 
+Use this equation to find the square of the rms average for the 
+two speeds given in the problem: 
+ 
+ 
+ 
+v2
+rms = v1
+2 + v2
+2
+2
+=
+avavg
+(
+)
+2
++
+2 −a
+(
+)vavg
+⎡⎣
+⎤⎦
+2
+2
+=
+vavg
+2
+2
+a2 + 4 −4a+ a2
+(
+)
+⎡⎣
+⎤⎦
+= vavg
+2
+2 −2a+ a2
+(
+)
+ 
+ 
+ 
+ 
+v2
+rms = vavg
+2
+2 −2a+ a2
+(
+) 
+[1] 
+ 
+(c) 
+The graph of (2 – 2a + a2) versus a appears below, over the range 
+of possible values 0 ≤ a ≤ 2. 
+ 
+ANS. FIG. P21.74(c) 
+ 
+ 
+Because the factor (2 – 2a + a2) is generally larger than 1, equation 
+[1] tells us that vrms > vavg except at one point in the graph.   
+ 
+(d) From the graph, we see that that vrms = vavg when the factor  
+(2 – 2a + a2) = 1, which occurs at a = 1 . 
+P21.75 
+Let the subscripts “1” and “2” refer to the hot and cold compartments, 
+respectively. The pressure is higher in the hot compartment, therefore 
+the hot compartment expands and the cold compartment contracts. 
+Because the walls of the cylinder are insulating, the total internal 
+energy of the system must remain constant: 
+ 
+ 
+ 
+ΔEint  = 0:  
+ΔEint,1 + ΔEint,2 = 0
+
+--- PAGE 51 ---
+Chapter 21     1143 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+nCVΔT1 + nCVΔT2 = 0
+T1 f  − T1i
+(
+) +  T2 f  − T2i
+(
+) = 0
+T1 f  + T2 f  = T1i + T2i = 550 K + 250 K = 800 K
+ 
+[1]
+ 
+ 
+Consider the adiabatic changes of the gases. 
+ 
+ 
+ 
+P1iV1i
+γ = P1 fV1 f
+γ 
+and  
+P2iV2i
+γ = P2 fV2 f
+γ 
+ 
+or 
+ 
+P1iV1i
+γ
+P2iV2i
+γ = P1 fV1 f
+γ
+P2 fV2 f
+γ 
+ 
+The initial volumes are equal: V1i = V2i . Applying the particle in 
+equilibrium model to the piston, the final force on each side of the 
+piston must be the same, and the areas on each side are equal, 
+therefore P1 f = P2 f . The equation simplifies to  
+ 
+ 
+ 
+P1i
+P2i
+=
+V1 f
+V2 f
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ 
+ 
+Using the ideal gas law: 
+ 
+ 
+ 
+nRT1i V1i
+nRT2i V2i
+=
+nRT1 f P1 f
+nRT2 f P2 f
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ  
+ 
+Simplifying, this gives 
+ 
+ 
+ 
+T1i
+T2i
+=
+T1 f
+T2 f
+⎛
+⎝⎜
+⎞
+⎠⎟
+γ
+ 
+ 
+since V1i = V2i and P1 f = P2 f , substituting values, we get 
+ 
+ 
+ 
+T1 f
+T2 f
+=
+T1i
+T2i
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 γ
+=
+550 K
+250 K
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 1.4
+= 1.756 
+[2] 
+ 
+Solving equations [1] and [2] simultaneously gives  
+T1 f = 510 K, T2 f = 290 K
+
+--- PAGE 52 ---
+1144     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P21.2 
+(a) 8.76 × 10
+−21 J; (b) For helium, vrms = 1.62 km/s and for argon,  
+vrms = 514 m/s 
+P21.4 
+3.21 × 10
+21 molecules 
+P121.6 
+3
+2
+PV
+KNA
+ 
+P21.8 
+2.78 × 10
+−23 kg ⋅ m/s 
+P21.10 
+501 K 
+P21.12 
+(a) 385 K; (b) 7.97 × 10
+−21 J; (c) the molecular mass of the gas 
+P21.14 
+(a) W = 0; (b) ΔEint = 209 J; (c) 317 K 
+P21.16 
+(a) 118 kJ; (b) 6.03 × 10
+3 kg 
+P21.18 
+(a) 
+0.719 kJ/kg . K; (b) 0.811 kg; (c) 233 kJ; (d) 327 kJ 
+P21.20 
+Between 10–3 °C and 10–2 °C 
+P21.22 
+(a) See P21.22(a) for full explanation; (b) See P21.22(b) for full 
+explanation; (c) See P21.22(c) for full explanation 
+P21.24 
+The maximum possible value of γ = 1+ R
+CV
+= 1.67 occurs for the lowest 
+possible value for CV = 3
+2 R. Therefore the claim of γ = 1.75 for the 
+newly discovered gas cannot be true. 
+P21.26 
+(a) 1.39 atm; (b) 366 K and 253 K; (c) Q = 0; (d) −4.66 kJ; (e) −4.66 kJ 
+P21.28 
+(a) 28.0 kJ; (b) 46.0 kJ; (c) 10.0 atm; (d) 25.1 atm 
+P21.30 
+The compressed gas would reach a temperature of 941 K, exceeding 
+the melting point of aluminum.  Therefore, the claim of improved 
+efficiency using an engine fabricated out of aluminum cannot be true. 
+P21.32 
+(a) 2.45 × 10
+−4 m
+3; (b) 9.97 × 10
+−3 mol; (c) 9.01 × 10
+5 Pa; (d) 5.15 × 10
+−5 m
+3; 
+(e) 560 K; (f) 53.9 J; (g) 6.79 × 10
+−6 m
+3 ; (h) 53.3 g; (i) 2.24 K 
+P21.34 
+(a) See ANS. FIG. P21.34(a); (b) 31/γ
+(
+)Vi ; (c) 3Ti; (d) Ti;  
+(e) −PiVi
+1
+γ −1
+⎛
+⎝⎜
+⎞
+⎠⎟1−31/γ
+(
+) + 1−31/γ
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+P21.36 
+(a) 6.80 m/s; (b) 7.41 m/s; (c) 7.00 m/s 
+P21.38 
+(a) 1.03; (b) 
+35Cl
+
+--- PAGE 53 ---
+Chapter 21     1145 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P21.40 
+(a) 731 m/s; (b) 825 m/s; (c) 895 m/s; (d) The graph appears to be 
+drawn correctly within about 10 m/s. 
+P21.42 
+See P21.42 for the full explanation. 
+P21.44 
+(a) 3.90 km/s; (b) 4.18 km/s 
+P21.46 
+(a) 7.89 × 10
+26 molecules; (b) 37.9 kg; (c) 6.07 × 10
+−21 J; (d) 503 m/s; (e) 0; 
+(f) When the furnace operates, air expands and some of it leaves the 
+room. The smaller mass of warmer air left in the room contains the 
+same internal energy as the cooler air initially in the room. 
+P21.48 
+(a) 2.26 × 10
+−9 m; (b) 5.09 × 10
+−12 seconds 
+P21.50 
+(a) See P21.50(a) for the full explanation; (b) 447 J/kg ⋅ °C.  This agrees 
+with the tabulated value of 448 J/kg ⋅ °C within 0.3%; (c) 127 J/kg ⋅ °C.  
+This agrees with the tabulated value of 129 J/kg ⋅ °C within 2% 
+P21.52 
+(a) pressure increases as volume decreases; (b) See P21.52(b) for full 
+answer; (c) See P21.52(c) for full answer; (d) 0.500 atm
+−1; (e) 0.300 atm
+−1 
+P21.54 
+Sulfur dioxide is the gas with the greatest molecular mass of those 
+listed. If the effective spring constants for various chemical bonds are 
+comparable, SO2 can then be expected to have low frequencies of 
+atomic vibration.  Vibration can be excited at lower temperature than 
+for other gases. Some vibration may be going on at 300 K. With more 
+degrees of freedom for molecular motion, the material has higher 
+specific heat. 
+P21.56 
+(a) See P21.56(a) for full explanation; (b) This agrees within 0.2% with 
+the 343 m/s listed in the Table 17.1; (c) See P21.56(c) for full answer; 
+(d) The speed of sound is somewhat less than each measure of 
+molecular speed. Sound propagation is orderly motion overlaid on the 
+disorder of molecular motion. 
+P21.58 
+(a) See P21.58(a) for full explanation; (b) See P21.58(b) for full 
+explanation; (c) The expressions are equal because PV = nRT and 
+γ = CV + R
+(
+)/CV = 1+ R/CV give R = γ −1
+(
+)CV , so PV = n γ −1
+(
+)CVT 
+and PV/ γ −1
+(
+) = nCVT. 
+P21.60 
+(a) Ti + 2
+3
+W
+nR
+; (b) Pi 1+ 2
+3
+W
+nRTi
+⎛
+⎝⎜
+⎞
+⎠⎟
+5/2
+ 
+P21.62 
+(a) See ANS. FIG. P21.62(a); (b) vmp ≈510 m/s ; (c) 575 m/s, 624 m/s; 
+(d) 44% 
+P21.64 
+(a) 7.27 × 10
+−20 J/molecule; (b) 2.20 km/s; (c) 3.51 × 10
+3 K; (d) The 
+evaporating particles emerge with much less kinetic energy, as 
+negative work is performed on them by restraining forces as they leave
+
+--- PAGE 54 ---
+1146     The Kinetic Theory of Gases 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the liquid. Much of the initial kinetic energy is used up in overcoming 
+the latent heat of vaporization. There are also very few of these 
+escaping at any moment in time. 
+P21.66 
+ (a) The larger-mass molecules settle to the outside; (b) n = n0em0r2ω 2 /2kBT 
+P21.68 
+(a) 5
+2 R; (b) 3R; (c) 9
+2 R; (d) 5R; (e) Measure the constant-volume 
+specific heat of the gas as a function of temperature and look for 
+plateaus on the graph. If the first jump goes from 3
+2 R to 5
+2 R, the 
+molecules can be diagnosed as linear. If the first jump goes from 3
+2 R to 
+3R, the molecules must be nonlinear. The tabulated data at one 
+temperature are insufficient for the determination. At room 
+temperature some of the heavier molecules appear to be vibrating. 
+P21.70 
+See P21.70 for full explanation. 
+P21.72 
+(a) mogRE; (b) 1.60 × 10
+4 K 
+P21.74 
+(a) See P21.74(a) for full explanation; (b) See P21.74(b) for full 
+explanation; (c) See ANS FIG P21. 74(c); (d) a = 1

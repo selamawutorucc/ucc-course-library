@@ -1,0 +1,39 @@
+                                                                                                                                        11/03/2010
+EXPERIMENT 8 
+TITLE: REFRACTION OF LIGHT
+AIM: To determine the refractive index of a glass block using Snell’s law.
+APPARATUS: glass block, , protractor (), drawing paper, a pair of   compass and 4 optical pins
+DIAGRAM
+THEORY
+Refraction refers to the change in the direction of a light ray as it moves from one medium to another. When a ray RO is incident on the air-glass boundary, it is refracted towards the normal NOM when it enters the glass (Fig. 1). The ray AB in glass is also refracted at the glass-air boundary along BQ in air, away from the normal at B.
+   From Snell’s law n (refractive index)  
+Where are the angle of incidence and angle of refraction respectively. From the diagram    
+But n    so n      
+PROCEDURE
+The glass block was placed on a white sheet of paper pinned to the drawing board. The edges of the glass block were traced on the drawing sheet and it corners labelled ABCD. The normal NOM was drawn. The angle of incidence  was drawn and two pins P1 and P2 were pushed into the paper along the line to represent the incident ray. The glass block was carefully replaced on the paper. The images of P1 and P2 were found by looking through the glass block along the side CD. While looking, two pins P4 and P3 were pushed on the drawing sheet so that they were in a straight line with the images of P1 and P2.the glass block was removed and the points P3 and P4 joined with a straight line. The line was produced to meet the side CD at Z. This is the emergent ray. Z and O (the point of mergence and the point of incidence) were joined. This represented the refracted ray. With centre O and a suitable radius, a circle cutting through the incident and the refracted ray at R and Q respectively was drawn. With set square perpendiculars RP and QS were drawn unto the normal NOM.RP, QS and the angle of refraction were measured and recorded. The experiment was repeated for angle of incidence  
+TABLE OF RESULTS
+GRAPH                                                                                                                                                                                                         
+ CALCULATIONS.
+For the graph of RP/mm against QS/mm, the slope was found to be 1.515
+The slope of the graph of Y/mm against tanr° was found to be 63.57mm or 6.36cm
+DISCUSSION
+From the graph produced, that is, the graph of RP against QS, a straight line was produced passes through the origin. The slope of the graph of RP against QS is the refractive index of the glass which is. The slope of the graph was found to be 1.515. Theoretically, the refractive index of glass is 1.5. The experimental value differs from the actual value by 0.015 which was due to errors in the experiment.
+The second graph, that is, the graph of Y against tan r, is also a straight line passing through the origin. The slope of the graph of Y against tan r is equivalent to the side AD of the glass prism. AD is the width of the glass block.  The slope of the graph was 6.36cm. The measured width of the prism was 6.0cm. The calculated value differs from the measured value by 0.36cm and this is due to errors in the experiment.
+SOURCES OF ERROR
+The pins could not be placed exactly at right angles to the board and were not properly in line.
+Cracks and scratches on the glass block caused blurring of some of the images.
+PRECAUTIONS
+It was ensured that the object point P1 and P2 were more than 5cm to ensure accurate results.
+It was ensured that enough light was in the laboratory for the optical pins at the object points to be seen through the transparent block for the images to be seen.
+It was ensured that the pins were placed carefully to prevent the prism from moving.
+CONCLUSION
+The refractive index of the glass block was found to be 1.515.
+REFERENCES
+Nelkon and Parker (1995) Advanced level physics, 7th edition. Published by CBS publishers and distributors, New Delhi; India. Pages 509-511 read.
+Young and Freedman (1999) University Physics, 9th edition. Addison-Wesley publishing company; New York. Pages 1085
+ |  |  |  |  | 
+20 | 13.0 | 0.2309 | 13 | 9 | 14
+40 | 26.0 | 0.4877 | 24 | 17 | 31
+50 | 31.0 | 0.6009 | 29 | 19 | 37
+60 | 35.0 | 0.7002 | 32 | 21 | 44
+70 | 39.0 | 0.8098 | 35 | 24 | 51

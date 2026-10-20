@@ -1,0 +1,2574 @@
+
+--- PAGE 1 ---
+! 
+ 
+SOWETO/DIEPKLOOF  
+! P.O.BOX 39067 ! BOOYSENS 2016 ! 
+Tel. 011 938-1666/7   Fax 011 938-3603   
+email: sec@global.co.za 
+website: www.sec.org.za  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Science Education Centre 2002 
+ 
+Vectors & Scalars 
+ 
+Content 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 
+ 
+ 
+Summary of Relevant Content 
+ 
+ 
+ 
+1 – 3 
+Problem Solving Strategies  
+ 
+ 
+ 
+3 – 7  
+Worksheet 1: Multiple Choice Questions   
+ 
+8 – 9   
+Worksheet 2: Multiple Choice Questions   
+ 
+10 – 12  
+Worksheet 3: Multiple Choice Questions   
+ 
+13 – 16 
+Structured Questions  
+ 
+ 
+ 
+ 
+17 – 19 
+Answers: Worksheet 1, 2 and 3 
+ 
+ 
+ 
+19 
+Model Answers: Structured Questions  
+ 
+ 
+20 – 23
+
+--- PAGE 2 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+1 
+SCIENCE EDUCATION CENTRE 
+ 
+ 
+ 
+                                   ! 
+SOWETO/DIEPKLOOF ◈ P.O.BOX 39067 ◈ BOOYSENS 2016 !!! 
+" 011 9381666/7  # 011 9383603  email: sec@global.co.za 
+ 
+ 
+ 
+ 
+ 
+Summary of Relevant Content 
+ 
+1. A scalar quantity is one, which is fully defined by magnitude alone. 
+Important scalars: distance, speed, mass, time, work, energy, power, etc. 
+ 
+2. A vector quantity is fully defined by magnitude and direction. 
+Important vectors: displacement, velocity, acceleration, force, impulse, momentum, 
+etc. 
+ 
+4. A resultant is one vector, which has the same effect on a body as the two or more 
+vectors that are actually acting on that body. It starts at the beginning of the first 
+vector and ends at the end of the last one. 
+ 
+5. An equilibrant is one vector, which cancels out the effect that the two or more 
+vectors actually have on a body. It is equal in size to the resultant but opposite in 
+direction. 
+ 
+6. Positive (+) and negative (-) signs are used to indicate direction in vectors. (Not their 
+magnitude.) 
+ 
+7. Arrows are used in vectors to give magnitude (length of arrow) and direction (head of 
+arrow). 
+ 
+8.  Zero acceleration means that: 
+a) the body is either at rest or travelling at constant speed in one direction (constant 
+velocity). 
+b) the forces acting on the body are in equilibrium. 
+c) the forces acting on the body have a resultant of zero. (The last vector is the 
+equilibrant of the others.) 
+ 
+9. Distance moved is the actual length of the path along which an object travelled. It is a 
+scalar. 
+ 
+10. Displacement is the straight line distance from the beginning to the end of the path 
+along which an object moved. It is a vector and has nothing to do with how the object 
+got there.  
+(Remember if a body returns to its original starting point its displacement is zero and 
+its velocity is therefore zero since velocity = displacement ÷ time. But its speed = total 
+distance travelled ÷ time taken) 
+ 
+NB  
+ 
+velocity  
+= displacement ÷ time 
+speed   
+= total distance travelled ÷ time taken 
+ 
+VECTORS AND SCALARS
+
+--- PAGE 3 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+2 
+TIPS ON VECTOR DRAWINGS 
+ 
+1. 
+Always draw a sketch first. Make the sketch approximately to scale. Most questions can 
+be solved using a triangle. Remember to draw a triangle accurately you need to know 
+three facts about the triangle, one of which must be the length of one side. 
+ 
+2. 
+If a scale is not given, choose one as big as possible. Write down your choice. 
+ 
+3. If compass directions are given, draw a small compass  
+ 
+like the one to the right.  
+ 
+4. Never give a compass direction in the answer if a compass direction is not given in the 
+question. 
+ 
+5. “Bearing” (“heading”) is the number of degrees clockwise from north. It must have 3 
+digits. i.e. 20 E of N = Bearing 020 
+ 
+6. When the answer asked for is a vector, two answers are required: magnitude and 
+direction. 
+ 
+ 
+ 
+ 
+HOW TO TACKLE A QUESTION ON VECTORS 
+ 
+Lines with arrowheads are used to describe a vector. 
+ 
+ 
+# The length of the line gives the magnitude (or size) of the vector. 
+ 
+# The direction in which the arrow points gives the direction of the vector. 
+ 
+ 
+ 
+VECTOR DIAGRAMS 
+ 
+1. Vector diagrams are diagrams, which describe the direction and relative magnitude of 
+a vector quantity by a vector arrow. Vector diagrams can be used to describe the 
+velocity of a moving object during its motion. For example, the velocity of a car 
+moving down the road could be represented by the following vector diagram:
+
+--- PAGE 4 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+3 
+In a vector diagram, the magnitude of a vector is represented by the size of the vector arrow. 
+If the size of the arrow in each consecutive frame of the vector diagram is the same, then the 
+magnitude of that vector is constant. The diagrams below depict the velocity of a car during 
+its motion. In the top diagram - figure 1 - the size of the velocity vector is constant, so the 
+diagram is representing a motion with constant velocity. In the bottom diagram - figure 2 - 
+the size of the velocity vector is increasing, hence the diagram is describing a motion with 
+increasing velocity - i.e., acceleration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vector diagrams can be used to represent any vector quantity. In physical science, vector 
+diagrams will be used to represent a variety of physical quantities such as acceleration, force, 
+and momentum. Be familiar with the concept of using a vector arrow to represent the 
+direction and relative size of a quantity. It will become a very important representation of an 
+object's motion.  
+ 
+ 
+Problem Solving Strategies 
+ 
+There are two basic types of vector questions: 
+ 
+1. Where a second vector occurs after the first one has finished 
+ 
+Example: A man walks 4 km north and then 3 km east.   
+ 
+In a case like this we 
+ 
+1. draw a small compass (because the question  
+has used north, south east and/or west) 
+  
+2. use arrows, one after the other to tell the story of what the man did 
+ 
+Notice 
+1. the direction of each arrow 
+2. how the 3 km arrow starts where the 4 km arrow ends (head to tail method) 
+3. how the 4 km arrow is longer than the 3 km arrow 
+4. we know that the angle between the 4 km and 3 km is 900 (the angle between 
+north and east) 
+ 
+ 
+ 
+ 
+ 
+figure 1: constant velocity
+ 
+ 
+ 
+ 
+figure 2: acceleration
+
+--- PAGE 5 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+4 
+3. now it depends on what you are asked: 
+If you are asked the distance the man moved from start to finish it is simply: 
+  
+4 km + 3 km = 7 km  (no direction since 'distance' is a scalar.) 
+ 
+However, if you are asked what was the man’s displacement from start to finish, you are 
+being asked for the straight line distance (and the direction of the line) from A to B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There are two methods to find this displacement: 
+ 
+I. Scale Drawing 
+ 
+This is where you decide (if a scale is not given) to make 1 km say 2 cm long. This makes the 
+4 km line 8 cm long - and you draw this line going north exactly 8 cm long. You then use a 
+protractor (or set square) to make an angle of 900 and you then draw the 3 km line going east 
+(to the right) at 900 to the 4 km and make it exactly 6cm long (1 km ≙ 2 cm; 3km ≙ 6cm). At 
+the end of this line (at 6 cm) you have found the exact position of B.  
+ 
+You now join A to B and measure the length of AB. You will find it to be 10 cm long. Now 
+you use the scale in reverse. For every 2 cm you have along AB you have 1 km. Hence 10cm 
+means AB represents 5 km - and this is the magnitude of the resultant. To get direction you 
+use a protractor to measure the angle λ. When you do this accurately you will find it to be 
+about 370. You can, in your answer give this direction in several ways (to say that λ = 370 is 
+not good enough). 
+ 
+You can say: 
+ 
+1) Displacement  =  5 km 37 E of N 
+2) Displacement  =  5 km 53 N of E (unusual) 
+3) Displacement  =  5 km on a bearing of 037 
+4) Displacement  =  5 km on a heading of 037 
+5) Displacement  =  5 km at an angle of 370 clockwise from the 4km vector. 
+ 
+The best answer would be 1) or 3). 
+ 
+Note: If you were asked how far he would have to walk from B straight back to A, you would 
+reverse the arrow from A to B and make it go from B to A. The magnitude of the distance 
+would still be 5km but if you needed direction, it would be the other way i.e. 370 W of S or 
+bearing 217. 
+ 
+ 
+ 
+3km 
+ 
+B 
+ 
+ 
+ 
+     4km 
+ 
+ 
+ 
+displacement 
+ 
+   λ 
+ 
+ 
+A 
+ 
+     (not to scale)
+
+--- PAGE 6 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+5 
+II. By Calculation 
+ 
+This is divided into two main sections: 
+ 
+A) 
+Provided we have a right angle (900) between two of the vectors.  
+ 
+If we do, we use the trigonometric ratios: sin, cos or tan.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To refresh your memory: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sin λ = opp / hyp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cos λ = adj / hyp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tan λ = opp / hyp 
+ 
+ 
+ 
+B) 
+If we do not have a right angled triangle we use either the sine rule or the cosine rule. 
+(It is rare that this type of question is asked in the matric examination.) 
+ 
+ 
+1.)  
+   a       =        b      =   
+c__  
+ 
+             sin A      sin B       sin C 
+ 
+2.)              a2 
+=  b2  + c2 - 2bcCosA      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The drawing of a triangle 
+ 
+In most vector problems the simplest approach and best method is to use a triangle. To 
+construct a triangle to scale we need to know three facts about the triangle we wish to draw. 
+  
+# two sides and the included angle 
+# two angles and the included side 
+# three sides (not usual in vectors) 
+ 
+ 
+2. When two vectors act on a body simultaneously 
+ 
+a) When two forces for example act on a body at the same time and we need to find the 
+resultant force (one force that will have the same result on the body that the two forces 
+together are having), we follow much the same as before - we pretend that one of the vectors 
+starts after the other has finished. 
+ 
+ 
+ 
+     
+     hypotenuse  
+               opposite 
+ 
+ 
+   λ 
+ 
+          adjacent 
+ 
+ 
+                      C 
+ 
+          b 
+ 
+     a 
+ 
+ 
+          A 
+ 
+        B 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+   c
+
+--- PAGE 7 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+6 
+Question: Find the resultant force acting on the body below? 
+ 
+  
+ 
+ 
+ 
+ 
+     3 N 
+ 
+ 
+ 
+ 
+ 
+ 
+     900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        4 N 
+ 
+We start with either the 3 N force or the 4 N force (it does not matter which). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   B 
+Let's start with the 3 N force. 
+This force would have moved  
+ 
+ 
+ 
+ 
+ 
+   
+the body from A to B.  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+           
+ 
+We now give the 4 N force its turn, but it starts when the 3 N force stops at B (head to tail 
+again).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        900      4 N 
+ 
+ 
+ 
+ 
+        
+ 
+     3 N  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          5N 
+ 
+ 
+   
+ 
+ 
+             
+ 
+ 
+ 
+resultant force 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+So as a result of the 3 N from A to B and the 4 N from B to C, the body has moved from A to 
+C (and to do this in one step we would have needed a force directly from A to C) - and this is 
+the resultant force (5 N). 
+ 
+Now we are back to a triangle, which needs to be solved either by a scale drawing or by 
+calculation - as we did in the previous section. 
+ 
+ 
+b) Three forces in equilibrium 
+If a body has two or more forces acting on it and it does not move (accelerate) then the forces 
+are balanced: the forces are in equilibrium. Any one force is the equilibrant of the others. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+A 
+Turn to the next 
+page and test your 
+knowledge of 
+Resultant  & 
+Equilibrant
+
+--- PAGE 8 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+7 
+Question: 
+Which of the six vectors at the right is / are 
+ 
+ 
+ 
+A) 
+resultants 
+ 
+B) 
+equilibrants 
+ 
+ 
+ 
+ 
+Answer: 
+ 
+A) 
+The only resultant is f. It is the result of d and e. 
+ 
+B)  
+a, b and c are all equilibrants of the other two forces. 
+ 
+ 
+ 
+ 
+SUMMARY 
+ 
+ 
+# If a body accelerates, there must be a resultant of the vectors that are 
+acting on the body and the resultant acts in the direction of the 
+acceleration. 
+ 
+# If a body does not move, any one vector is the equilibrant of the others 
+(same magnitude as the resultant but in the opposite direction). 
+ 
+# If you are at point A and you wish to get to point B, the straight-line vector 
+from A to B is the resultant of whatever you do. 
+ 
+# Draw a sketch of the vectors and then translate the sketch into a triangle, 
+giving each vector its own turn (head to tail method). 
+ 
+# Right-angled triangles are best done by using sin, cos and tan, while those 
+with no right angle are best done using a scale drawing (or the sin or cosine 
+rule).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           a          b 
+ 
+          d 
+     e 
+ 
+ 
+ 
+   c 
+ 
+ 
+ 
+     f
+
+--- PAGE 9 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+8 
+SCIENCE EDUCATION CENTRE  
+ 
+ 
+ 
+ 
+                                       ! 
+SOWETO/DIEPKLOOF ◈ P.O.BOX 39067 ◈ BOOYSENS 2016 !!! 
+" 011 9381666/7  # 011 9383603  email: sec@global.co.za 
+Topic:  
+VECTORS & SCALARS 
+Worksheet 1:  Multiple Choice Questions  
+ 
+ 
+ 
+ 
+ Time: 30 Minutes 
+Instructions: 
+Make a cross over the letter A, B, C, D or E (if applicable) to show the correct answer.  
+ 
+ 
+1.) According to the vector diagram below 
+ 
+          F2 
+        F1 
+ 
+ 
+ 
+F3 
+ 
+    which is correct?  
+ 
+A 
+F2 + F 3 = F1 
+ 
+ 
+ 
+B 
+F1 + F2 = F 3 
+ 
+C 
+F1 + F3 = F 2 
+ 
+ 
+ 
+D 
+F1 + F2 + F 3 = 0 
+ 
+ 
+ 
+ 
+2.) Two forces of magnitude 3 N and 4 N respectively act on a body. The maximum possible 
+magnitude of the resultant of these forces is 
+ 
+A   12 N 
+ 
+B   7 N  
+ 
+C   5 N 
+ 
+D   1 N 
+ 
+ 
+3.) A man, who has walked a certain distance, but not in a straight line, can … 
+ 
+A   have a zero displacement 
+B   not have a negative displacement 
+C   have a displacement higher in magnitude to the distance 
+D   have a displacement equal in magnitude to the distance 
+ 
+ 
+4.) Which one of the following is not a vector quantity: 
+ 
+A  velocity 
+ 
+B  force 
+ 
+C  energy 
+ 
+D  momentum 
+ 
+ 
+5.) A girl runs once around a circular track with a radius of 65m at a speed of 2m/s. Her 
+displacement is:  
+ 
+A  0 
+ 
+ 
+B  65m west  
+C  65m east 
+ 
+D  130m 
+ 
+ 
+6.) If a car rounds a bend at constant speed, then … 
+ 
+A   it will undergo zero acceleration 
+B   it will accelerate  
+C   its velocity will remain constant 
+D   its rate of change of velocity will be zero.
+
+--- PAGE 10 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+9 
+7.) In which of the following vector diagrams is the resultant of the three vectors zero? 
+ 
+A  
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+C  
+ 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+E 
+ 
+ 
+ 
+ 
+8.)  A force F is used to pull a body, which is suspended from a  
+string, to one side as shown in the diagram to the right.  
+The body is in equilibrium.  
+Which of the following vector diagrams represents all the  
+forces acting on the body? 
+ 
+A 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ 
+E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.) 
+A body of mass m is placed on a frictionless inclined plane 
+ 
+ 
+ 
+   
+(as shown in the sketch). 
+ 
+The component of the block's weight in a  
+direction parallel to the inclined plane 
+is given by … 
+ 
+ 
+ 
+ 
+                α 
+ 
+ 
+ 
+ 
+ 
+ 
+     α 
+ 
+ 
+ mg 
+ 
+ 
+A  mg cos α  
+ 
+B  mg sin α 
+ 
+C  mg tan α 
+ 
+D  none of the above 
+ 
+ 
+10.)  A force of magnitude F acts at an angle α to the horizontal. The magnitude of the 
+horizontal component of the force is … 
+ 
+A  F cos α 
+ 
+B  F sin α 
+ 
+C  F sin (900 - α) 
+D  0     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       F 
+ 
+ 
+   body
+
+--- PAGE 11 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+10 
+SCIENCE EDUCATION CENTRE  
+ 
+ 
+ 
+ 
+ 
+            ! 
+SOWETO/DIEPKLOOF ◈ P.O.BOX 39067 ◈ BOOYSENS 2016 !!! 
+" 011 9381666/7  # 011 9383603  email: sec@global.co.za 
+Topic:  
+VECTORS & SCALARS  
+Worksheet 2:  Multiple Choice Questions 
+ 
+ 
+                          Time: 30 Minutes 
+Instructions: Make a cross over the letter A, B, C, D or E to show the correct answer.  
+ 
+1.)  
+Which of the following pairs are both scalar quantities? 
+ 
+ 
+A 
+energy and force 
+ 
+B 
+speed and mass 
+ 
+C 
+temperature and velocity 
+ 
+D 
+volume and weight 
+ 
+E 
+density and acceleration 
+ 
+ 
+2.)  
+Which of the following pairs are both vector quantities? 
+ 
+ 
+A 
+weight and mass 
+ 
+B 
+velocity and speed 
+ 
+C 
+force and acceleration 
+ 
+D 
+acceleration and speed 
+ 
+E 
+velocity and energy 
+ 
+ 
+3.)  
+The wind is blowing towards east. The pilot of an airplane  
+wishes to fly due North.  
+ 
+In which direction should he aim the airplane? 
+ 
+ 
+ 
+             
+ 
+ 
+ 
+           C 
+ 
+ 
+ 
+          B 
+          D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        A  
+ 
+                         E 
+ 
+ 
+  
+ 
+ 
+ 
+4.)  
+Two forces of magnitude 20 N and 50 N act simultaneously on a body. Which one of 
+the following forces cannot be a resultant of the two forces? 
+ 
+ 
+A 
+20 N 
+ 
+B 
+30 N 
+ 
+C 
+40 N 
+ 
+D 
+70 N
+
+--- PAGE 12 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+11 
+5.)  
+Three forces of equal magnitude F act on a body as shown as in the diagram below. 
+The body … 
+ 
+ 
+ 
+ 
+ 
+ 
+       F  
+ 
+ 
+ 
+    N 
+ 
+A 
+does not accelerate 
+ 
+B 
+accelerates towards north-west 
+  450 
+ 
+      F        W  
+E 
+C 
+accelerates towards south-east 
+ 
+900 
+ 
+D 
+accelerates towards north-east  
+ 
+ 
+ 
+ 
+    S 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F 
+ 
+ 
+6.) 
+ A picture is hung on the wall in three different ways: 
+ 
+ 
+ 
+ 
+        i)  
+ 
+ 
+  ii) 
+ 
+ 
+      iii) 
+ 
+ 
+The tension in the string is 
+ 
+A 
+least in i) 
+B 
+greatest in i) 
+C 
+greatest in ii) 
+D  
+least in iii) 
+E 
+greatest in iii) 
+ 
+ 
+7.)  
+The pilot of a small aircraft needs to fly from town X to town Y which lies north-east 
+of X. while flying the aircraft will encounter a steady wind blowing from the East, so 
+he draws  a velocity - vector diagram to assist in setting his course correctly. 
+ 
+ 
+ North  
+ 
+ Y 
+I 
+ 
+ 
+ 
+ 
+    III 
+ 
+    II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     450 
+ 
+X 
+ 
+ 
+What is the correct label for the vector marked II in the diagram below? 
+ 
+ 
+A 
+Velocity of aircraft relative to air 
+ 
+B 
+Velocity of aircraft relative to the ground 
+ 
+C 
+Velocity of air relative to the ground 
+ 
+D 
+Resultant velocity of aircraft.
+
+--- PAGE 13 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+12 
+8.) A ball is thrown vertically into the air. The path travelled by the ball is indicated by the 
+dotted line in the diagram below: 
+ 
+ 
+ 
+ 
+ 
+ 
+                    maximum height 
+ 
+ 
+ 
+ 
+                 ball 
+ 
+ 
+ 
+ 
+ 
+Which of the following diagrams represents the forces acting on the ball before it 
+reaches maximum height? 
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.) The diagram to the right shows a weight of 40 N        B 
+suspended by an arrangement consisting of a light 
+ 
+ 
+        cord  
+strut hinged at A and a light cord tied at C and to 
+the wall at B.    
+ 
+ 
+ 
+ 
+        A  
+strut 
+ 
+C 
+ 
+Which statement about forces acting in this situation 
+is true? 
+ 
+ 
+A 
+The tension in cord BC must be 40 N. 
+ 
+B 
+The tension in cord BC is less than 40 N. 
+ 
+C 
+The vector sum of the three forces acting at C must be 40 N. 
+ 
+D 
+The vertical component of the force cord BC exerts on C is equal to 40 N. 
+ 
+ 
+10.) The diagram to the right shows the direction  
+ 
+ 
+ 
+      air resistance 
+of three forces acting on a moving sports car.   
+ 
+ 
+ 
+ 
+ 
+The car is travelling at constant speed.    
+         friction  
+ 
+       forward thrust  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Which one of the following is correct? 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+forward thrust 
+friction 
+air resistance 
+A 
+2500 kN 
+1200 kN 
+1500 kN 
+B 
+2500 kN 
+2500 kN 
+2500 kN 
+C 
+3000 kN 
+1500 kN 
+2000 kN 
+D 
+3000 kN 
+1000 kN 
+2000 kN 
+40 N
+
+--- PAGE 14 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+13 
+SCIENCE EDUCATION CENTRE 
+ 
+ 
+ 
+                                   ! 
+SOWETO/DIEPKLOOF ◈ P.O.BOX 39067 ◈ BOOYSENS 2016 """ " 011 9381666/7  # 011 9383603  email: sec@global.co.za  
+Topic:  
+Vectors and Scalars 
+Worksheet 3: Multiple Choice Questions   
+ 
+ 
+ 
+  Time: 30 Minutes  
+Instructions: Make a cross over the letter A, B, C or D to show the correct answer. 
+ 
+1.) Which one of the following represents a scalar quantity? 
+ 
+ 
+ 
+A The change in momentum of a rubber ball bouncing off the floor. 
+ 
+B The velocity of an airplane flying at 300 km.h-1 on a bearing 0400.  
+ 
+C The speed of a car travelling at 100 km.h-1.  
+ 
+D The acceleration of an object thrown vertically upwards and which has reached the 
+highest point of its motion. 
+ 
+ 
+2.) An aircraft is flying due West in a cross-wind that blows from north to south. The pilot 
+ 
+ draws the following vector diagram to establish the aircraft’s correct heading. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is the correct label for the vector marked III in the diagram? 
+ 
+ 
+ 
+A Resultant velocity of aircraft relative to the ground. 
+ 
+B Velocity of aircraft relative to the ground. 
+ 
+C Velocity of air relative to the ground. 
+ 
+D Velocity of aircraft relative to the air.  
+ 
+ 
+3.) Which one of the following statements is CORRECT? 
+The direction of vector AB on the sketch can be written as a bearing of … 
+ 
+ 
+ 
+A 2400         
+B 1200 
+C 2100 
+D  0600 
+ 
+ 
+ 
+ 
+ 
+                                                                                 
+ 
+ 
+                                                       III                                                           
+                I 
+ 
+ 
+                                                           II 
+ 
+North 
+ 
+ 
+ 
+ 
+ 
+                                           A 
+ 
+                                   60o 
+ 
+          B
+
+--- PAGE 15 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+14 
+4.) Three forces F1, F2 and F3 act simultaneously on object O, which is in equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Which ONE of the following statements is NOT TRUE with reference to the three forces? 
+ 
+A The resultant of forces F1, F2 and F3 is zero. 
+B The forces F1, F2 and F3 lie in the same plane. 
+C Force F3 is the resultant of forces F2 and F3. 
+D The sum of the components of all forces in any chosen direction is zero. 
+ 
+ 
+5.) Three forces F1, F2 and F3 act simultaneously on object O, which is in equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Which one of the following vector diagrams correctly represents the above situation? 
+ 
+               A                                                                  B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               C                                                                  D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   F1                                                          F2 
+ 
+ 
+                             O 
+ 
+ 
+ 
+ 
+                             F3
+    F1 
+                                                                   F2 
+ 
+ 
+                             O 
+ 
+ 
+ 
+ 
+ 
+ 
+                             F3
+
+--- PAGE 16 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+15 
+Questions 6, 7 and 8 refer to the following diagram, showing a number of forces acting on an 
+object. 
+                                                                      
+                    U                                                                                                    P 
+ 
+ 
+ 
+ 
+ 
+                                    θ 
+                     T                                                                                                               Q 
+ 
+ 
+ 
+ 
+ 
+ 
+                     S                                                                                                    R 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.) 
+The resultant of force V and force R is force … 
+ 
+ 
+A 
+ P 
+ 
+B 
+ Q 
+  
+C 
+ S 
+ 
+D 
+ T 
+ 
+ 
+7.) 
+The equilibrant of force V and force S is force … 
+ 
+ 
+  
+A 
+P 
+ 
+  
+B 
+Q 
+ 
+  
+C 
+U 
+ 
+  
+D 
+T 
+ 
+ 
+8.) 
+If force P is 100 N and angle θ = 300, than the magnitude of force V is … 
+ 
+ 
+  
+A 
+50,0 N 
+ 
+  
+B 
+57,7 N 
+ 
+ 
+C 
+86,6 N 
+ 
+  
+D 
+88,9 N
+
+--- PAGE 17 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+16 
+9.) 
+Three horizontal forces of equal magnitude act on a box at rest as shown in the diagram 
+below. 
+ 
+ 
+ 
+ 
+                                                                                       450 
+ 
+                                                                 
+                                                                  900 
+ 
+ 
+ 
+ 
+ 
+ The box … 
+ 
+ 
+  A 
+accelerates towards the north-east. 
+ 
+  B 
+accelerates towards the south-east. 
+ 
+  C 
+accelerates towards the south-west. 
+ 
+  D 
+does not accelerate. 
+ 
+ 
+10.) 
+In which one of the following vector diagrams is the resultant of the three vectors 
+zero? 
+ 
+ 
+ 
+  A                                                                      B 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+  C  
+ 
+ 
+ 
+ 
+        D
+
+--- PAGE 18 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+17 
+STRUCTURED QUESTIONS: 
+ 
+ 
+Q1)  
+A sailing boat is kept motionless in a fast flowing river by ropes held by two boys, A and B, 
+on opposite banks as shown in the diagram below. The water exerts a force of 450 N (parallel 
+to the bank) on the boat. The angles of the ropes connecting A and B with the boat, with 
+respect to the river bank, are 550 at A and 350 at B as shown in the diagram below. 
+ 
+   
+ 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ 
+         550 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+350 
+ 
+ 
+ 
+       B 
+ 
+ 
+1.1.1 Give a reason why it is correct to say that the forces acting on the boat are in 
+equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1.1.2 Draw a fully labelled diagram of forces indicating all the forces acting on the boat.      
+1.1.3 By means of an accurate vector diagram, using a scale of 1 cm = 50 N, or by 
+calculation, determine the magnitude of the forces acting on the boat. 
+ 
+ 
+Q2)  
+A freighter is 240 km due east of a harbour. A current is flowing due south and the freighter 
+captain wishes to set a course so that he can reach the harbour directly. He sets the course at 
+22,60 north of west and sets a speed through the water of 13 km·h-1 and the freighter 
+eventually reaches the harbour in 20 hours. 
+  
+2.1 
+Define the RESULTANT of two vectors. 
+2.2 
+Calculate the resultant velocity of the freighter. 
+2.3 
+Draw a velocity vector diagram indicating the velocity of the current vc, the velocity 
+of the freighter through the water vf and the resultant velocity of the freighter vr, 
+showing how they are related. 
+2.4 
+Determine the velocity of the current.
+
+--- PAGE 19 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+18 
+Q3)  
+A bricklayer on top of a building runs short of  
+bricks. He lowers a bucket on a cable to a  
+worker on a truck. The worker pulls the bucket  
+horizontally to the right to bring it close to the 
+truck. The worker holds the bucket stationary  
+so that it makes an angle of 300 to the vertical  
+(as shown in the diagram at the right). Another 
+worker then fills the bucket with bricks until  
+the total mass of the bucket is 96 kg. 
+ 
+ 
+3.1 What is the weight of the bucket? 
+3.2 Are the forces acting on the bucket in equilibrium? Explain. 
+3.3 Draw a fully labelled force diagram (not to scale) showing all the forces acting on the 
+bucket. (Represent the bucket with a large dot.) 
+3.4 Draw a labelled vector diagram showing the relationship between the forces. 
+3.5 Determine the horizontal force exerted on the bucket by the worker to hold it in place 
+3.6 Determine the tension in cable T. You can use a scale diagram (scale: 10 mm = 100 N) or 
+trigonometry.   
+ 
+ 
+Q4  
+An electric lamp of mass 0,8 kg is attached 
+by an electric cable to the ceiling at point D. 
+To position it directly over her desk, Thembi 
+has pulled the lamp to one side by a string  
+tied to the lamp holder H and fixed to point E  
+cable  
+ 
+ 
+string 
+on the ceiling. Thembi is curious as to whether 
+the tension in the electric cable is affected  
+when the lamp is pulled aside. To investigate this,     
+           H 
+she measures the angles which the cable and the string 
+make with the ceiling and finds them to be 600 and 400  
+respectively as shown in the diagram at the right. 
+ 
+4.1 
+What would be the tension in the electric cable if the lamp were hanging down 
+straight? 
+4.2 
+Draw a force diagram for the lamp holder H and label all the forces acting on it. 
+4.3 
+Find the tensions in the electric cable and the string either by calculation or by 
+accurate scale drawing. 
+4.4 
+Has the tension in the electric cable been affected when the lamp is pulled aside? 
+ 
+ 
+ 
+ 
+       300 
+ 
+     T 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+                       96 kg  
+          D  
+ 
+ 
+ 
+     E
+
+--- PAGE 20 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+19 
+Q5  
+Two forces act over pulleys to support a block of wood as shown in the diagram below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calculate: 
+ 
+ 
+1.   The vertical component of each force acting on the object. 
+2. The resultant vertical force acting on the object. 
+3. The weight of the block. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANSWERS TO MULTIPLE CHOICE QUESTIONS: 
+ 
+(Worksheet 1) 
+(Worksheet 2) 
+(Worksheet 3) 
+1 
+D 
+ 
+1 
+B 
+ 
+1 
+C 
+ 
+2 
+B 
+ 
+2 
+C 
+ 
+2 
+D 
+3 
+A 
+ 
+3 
+B 
+ 
+3 
+A 
+4 
+C 
+ 
+4 
+A 
+ 
+4 
+C 
+5 
+A 
+ 
+5 
+C 
+ 
+5 
+B 
+6 
+B 
+ 
+6 
+E 
+ 
+6 
+B 
+7 
+C 
+ 
+7 
+A 
+ 
+7 
+B 
+8 
+D 
+ 
+8 
+A 
+ 
+8 
+A 
+9 
+B 
+ 
+9 
+D 
+ 
+9 
+C 
+10 
+A 
+ 
+10 
+D 
+ 
+10 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         450      600 
+ 
+ 
+ 
+      500 N                                                  380 N
+
+--- PAGE 21 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+20 
+Answers to structured questions: 
+ 
+Q1  
+1.1 The boat is at rest / stationary. According to Newton's 1. law: no resultant force acting on 
+the boat.  
+ 
+1.2  
+ 
+ 
+tension in A (TA) 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  force exerted by water current on the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  boat   =  450 N 
+ 
+ 
+tension in B (TB) 
+ 
+ 
+1.3 By calculation: 
+ 
+ 
+ 
+ 
+ 
+ 
+      900  
+ 
+ 
+      
+ 
+ 
+ 
+ 
+               TB                         TA 
+ 
+ 
+(cos = adj / hyp) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          350 
+ 
+        550 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+450 N 
+ 
+TA / 450 = cos 55  
+∴ 
+∴ 
+∴ 
+∴  450 x cos 55 = 258,1 N  at 550 to the river bank. 
+ 
+TB / 450 = cos 35 
+∴ 
+∴ 
+∴ 
+∴  450 x cos 35 = 368,6 N 
+at 350 to the river bank. 
+ 
+ 
+By scale drawing: 
+scale: 1 cm represents 50 N 
+ 
+ 
+ 
+ 
+ 
+        350       550 
+ 
+    
+ 
+ 
+ 
+  TB 
+  900 
+ TA 
+ 
+ 
+ 
+ 
+  350 
+           550 
+ 
+ 
+ 
+ 
+ 
+450 N 
+ 
+line representing TA  measures 5,2 cm  
+∴ 
+∴ 
+∴ 
+∴ TA = 5,2 x 50 = 260 N 
+ 
+line representing TB  measures 7,4 cm  
+∴ 
+∴ 
+∴ 
+∴ TA = 7,4 x 50 = 370 N 
+ 
+Draw a line 9 cm long to represent 450 N. Use a protractor to draw angles of 550 and 350 and 
+complete the triangle. Measure the sides representing TA and TB.
+
+--- PAGE 22 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+21 
+Q2 
+2.1 The resultant of two vectors of a number of vectors is that single vector which has the 
+same effect as all the vectors acting together. 
+ 
+Sketch: 
+ 
+ 
+ 
+current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22,60 
+ 
+ 
+ 
+     harbour 
+ 
+240 km 
+ 
+     ship 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2  
+Covers the 'straight line distance' (displacement) from east to west in 20 hours: 
+ 
+ 
+resultant velocity 
+= 
+displacement / time 
+ 
+ 
+ 
+ 
+= 
+240 km / 20 h 
+ 
+ 
+ 
+ 
+= 
+12 km/h West 
+ 
+2.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The resultant is from the tail of vF  
+ 
+ 
+ 
+                    vF  
+to the head of vR. 
+  
+ 
+          vC 
+ 
+ 
+ 
+ 
+         22,60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       vR = 12 km/h  
+ 
+2.4 
+by Pythagoras: 
+vF
+2  
+= vC
+2  + vR
+2 
+ 
+ 
+∴ 
+ 
+vC
+2  
+= vF
+2 - vR
+2 
+ 
+ 
+ 
+ 
+ 
+= (13)2 - (11)2 = 169 - 144 
+= 25 
+ 
+ 
+ 
+ 
+      vC
+   = 5 km/h South 
+ 
+Q3 
+3.1 
+ 
+W = m g 
+    = 96 kg x 10 m/s2 
+    = 960 N 
+ 
+3.2 
+Yes 
+- 
+since the bucket is at rest / stationary. 
+ 
+3.3 
+F - worker's force 
+ 
+ 
+ 
+    T 
+ 
+T - tension in the cable 
+ 
+W - weight of the bucket 
+ 
+ 
+ 
+ 
+ 
+  F 
+ 
+(for all forces: 
+they must be represented by arrows) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   W
+
+--- PAGE 23 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+22 
+3.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    F 
+ 
+ 
+ 
+ 
+   300  
+ 
+ 
+ 
+   T 
+ 
+ 
+or: 
+          T 
+    960 N 
+ 
+    960 N 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          300 
+ 
+ 
+ 
+ 
+F 
+ 
+3.5 
+F 
+= 960 N · tan 300 
+ 
+ 
+= 554,25 N 
+ 
+3.6 
+T 
+= 960 / cos 300  
+ 
+ 
+= 1108,5 N 
+ 
+for scale drawing: 3.5 & 3.6 can be answered from the same diagram 
+ 
+ 
+Q4 
+4.1 
+weight = 
+m g 
+ 
+ 
+= 
+0,8 x 10 
+ 
+ 
+= 
+8 N 
+ 
+∴ tension in cable is 8 N  
+ 
+4.2 
+  tension in cable 
+       tension in string 
+ 
+ 
+TC 
+ 
+ 
+TS 
+ 
+ 
+ 
+ 
+  
+                    weight ( m x g) 
+4.3  
+for drawing scale: let 1cm represent 1N 
+Draw vertical line 8 cm long to represent the weight.  
+Draw angles of 500 and 300 as shown and complete the triangle.  
+Forces are balanced ∴ vector diagram is closed. 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     600  
+                  400  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    300 
+ 
+ 
+ 
+300  500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       TC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 N 
+           
+ 
+ 
+ 
+weight  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    TS 
+ 
+ 
+ 
+ 
+ 
+ 
+force diagram: 
+ 
+  
+ 
+        TC 
+ 
+     TS 
+ 
+ 
+ 
+     
+ 
+ 
+N.B.  TS makes an ∡ of 500 with the vertical 
+ 
+TC makes an ∡ of 300 with the vertical 
+vector diagram
+
+--- PAGE 24 ---
+_____________________ 
+© Science Education Centre 2002 
+Physics Grade 11-12 / Vectors and Scalars 
+23 
+By calculation: using the sine rule (∡ of 300, 500 and hence 1000) 
+ 
+TS / sin 300  
+= 
+8 / sin 1000 
+ 
+∴ TS 
+ 
+= 
+(8 x sin 300) / sin 1000 
+ 
+ 
+ 
+= 
+4,06 N 
+ 
+ 
+TC / sin 500 
+= 
+8 / sin 1000 
+ 
+∴  
+TS 
+= 
+(8 x sin 500) / sin 1000 
+ 
+ 
+ 
+=  
+6,22 N 
+ 
+ 
+4.4  
+The tension in the cable has decreased (more of the weight is supported by the string). 
+ 
+ 
+Q5  
+Start with a diagram: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                     F1 
+                                                                F2 
+                                                                   
+ 
+                       500 N                                                          380 N 
+                                            450                   600 
+ 
+ 
+ 
+ 
+ 
+ 
+1.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.) 
+Resultant vertical force  
+=  F1 +  F2 
+ 
+ 
+ 
+ 
+ 
+=  353,55 N + 190 N 
+ 
+ 
+ 
+ 
+ 
+=  543,55 N  upwards 
+ 
+ 
+3.) 
+Since the block of wood is not moving the upward force equals the weight: 
+ 
+ 
+ 
+weight = mass x g  
+ 
+ 
+∴ 
+∴ 
+∴ 
+∴ mass = weight / g = 543,55 / 10 = 54,355 kg 
+ 
+First let us find F1: 
+ 
+        
+Cos 450 = F1 / 500 N 
+ 
+F1 = 500 x cos 45 = 353,55 N 
+Accordingly we find F2: 
+ 
+cos 600 = F2 / 380 N 
+ 
+F2 =  cos 600 x 380 N = 190 N

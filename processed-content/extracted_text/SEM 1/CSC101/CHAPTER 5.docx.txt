@@ -1,0 +1,111 @@
+88````		INTRODUCTION TO COMPUTING
+			CHAPTER FIVE: THREATS, ISSUES, AND DEFENSES
+A ______________is any event or action that could cause a loss of or damage to computer or mobile device hardware, software, data, information, or processing capability. (digital security risk)
+Any illegal act involving the use of a computer or related devices generally is referred to as _______________ (Computer Crime)
+______________refers to someone who accesses a computer or network illegally. (Hacker)
+Someone who accesses a computer or network illegally but has the intent of destroying data, stealing information, or other malicious action is known as________________ (cracker)
+A _______________has the same intent as a cracker but does not have the technical skills and knowledge. (script kiddie)
+Someone who demands payment to stop an attack on an organization’s technology infrastructure is known as ________________ (cyber extortionist)
+A_______________ is someone who uses the Internet or network to destroy or damage computers for political reasons. (cyber terrorist)
+An attack whose goal ranges from disabling a government’s computer network to crippling a country is termed as ______________ (cyberwarfare).
+_________________ consists of programs that act without a user’s knowledge and deliberately alter the operations of computers and mobile devices. (malicious software)
+A group of compromised computers or mobile devices connected to a network that are used to attack other networks is known as ________________ (botnet, or zombie army)
+A____________ is a program that performs a repetitive task on a network. (bot)
+An assault whose purpose is to disrupt computer access to an Internet service is known as ____________  (denial of service attack (DoS attack))
+_______________is a program or set of instructions in a program that allows users to bypass security controls when accessing a program, computer, or network. (back door)
+A technique intruders use to make their network or Internet transmission appear legitimate to a victim computer or network is known as ________________ (Spoofing)
+________________occurs when an intruder computer fools a network into believing its IP address is associated with a trusted source. (IP spoofing)
+A ______________is a hardware and/or software that protects a network’s resources from intrusion (firewall)
+A server outside the organization’s network that controls which communications pass in and out of the organization’s network is called a ___________________. (proxy server)
+The use of a computer or network without permission is known as _________________.  (Unauthorized access)
+_______________is the use of a computer or its data for unapproved or possibly illegal activities. (Unauthorized use)
+_______________outlines the activities for which the computer and network may and may not be used.( Acceptable Use Policy (AUP))
+__________ is a security measure that defines who can access a computer or network (access control)
+__________records in a file both successful and unsuccessful access attempts.(audit trail)
+A private combination of words associated with a user name that allows access to certain computer resources. (password)
+A numeric password, either assigned by a company or selected by a user is known as _________. (passcode)
+A possessed object is any item that you must possess, or carry with you, in order to gain access to a computer or computer facility.
+A ________________authenticates a person’s identity by translating a personal characteristic, such as a fingerprint, into a digital code that is compared with a digital code stored in a computer or mobile device verifying a physical or behavioral characteristic. (biometric device)
+A _______________captures curves and indentations of a fingerprint. (fingerprint reader)
+____________ measures the shape and size of a person’s hand. (hand geometry system)
+_______________is the discovery, collection, and analysis of evidence found on computers and networks. (Cyberforensics/digital forensics)
+When someone steals software media, intentionally erases programs, illegally registers and/or activates a program, or illegally copies a program, it is termed as ___________. (Software theft)
+_______________ is the unauthorized and illegal duplication of copyrighted software. Piracy is the most common form of software theft. (Piracy)
+_____________occurs when someone steals personal or confidential information. (Information theft)
+The process of converting data that is readable by humans into encoded characters to prevent unauthorized access is known as ____________. (Encryption)
+A_____________ is an encrypted code that a person, website, or organization attaches to an electronic message to verify the identity of the message sender. (digital signature)
+A website that uses encryption techniques to secure its data is known as a_____________ (secure site).
+______________is the oldest copy of the file. (grandparent)
+____________ is the second oldest copy of the file.(parent)
+The most recent copy of the file is called a________. (Child).
+___________________are the moral guidelines that govern the use of computers, mobile devices, information systems, and related technologies. (Technology ethics)
+______________refers to unique and original works, such as ideas or writings.
+. (Intellectual property)
+A written guideline that helps determine whether a specification is ethical/ unethical or allowed/not allowed is termed as _____________. (code of conduct)
+_____________refers to the right of individuals and companies to deny or restrict the collection, use, and dissemination of information about them. (Information privacy)
+A____________ is a small text file that a web server stores on your computer. (cookie)
+Online shopping sites generally use a____________ to keep track of items in a user’s shopping cart. (session cookie)
+______________is a scam in which a perpetrator sends an official looking email message that attempts to obtain your personal and/or financial information. (Phishing)
+Adware on mobile phones is known as _____________. (madware)
+___________________is defined as gaining unauthorized access to or obtaining confidential information by taking advantage of the trusting human nature of some victims and the naivety of others.( social engineering)
+The process of restricting access to certain material. Many businesses use content filtering to limit employees’ web access is known as ______________. (Content filtering)
+______________is a program that restricts access to specified websites. Some also filter sites that use specific words (Web filtering software)
+The unencrypted, readable data is called________________ (plaintext)
+The encrypted, unreadable data is called _____________(ciphertext)
+_____________is the act of stealing digital equipment. (Hardware theft)
+_______________involves defacing or destroying digital equipment. (Hardware vandalism)
+TRUE/FALSE DISCOVERING COMPUTERS (2016)
+Any illegal act involving the use of a computer or related devices generally is referred to as a crimeware. (FALSE)
+A rootkit displays an online advertisement in a banner or pop-up window on webpages, email, or other Internet services. (FALSE)
+Viruses, worms, and other malware can be hidden in downloaded game files and mobile apps. (TRUE)
+An audit trail records in a file both successful and unsuccessful access attempts. (TRUE)
+It is good practice to change your password frequently. (TRUE)
+Intentionally erasing software would be considered software theft. (TRUE)
+A typical license agreement allows you to rent or lease the software. (FALSE)
+Unencrypted, readable data is called ciphertext. (FALSE)
+Private Key encryption also is called asymmetric key encryption. (FALSE)
+VPNs encrypt data to help ensure that the data is safe from being intercepted by unauthorized people. (TRUE)
+When data is traveling to or from a computer to a cloud service, it is subject to interception. (TRUE)
+A good practice to secure your wireless network is to immediately broadcast the SSID. (FALSE)
+MULTIPLE CHOICE DISCOVERING COMPUTERS (2016)
+A _____ is someone who demands payment to stop an attack on an organization’s technology infrastructure.
+cyber terrorist
+script kiddie
+cracker
+cyber extortionist
+_____ is a program that hides in a computer or mobile device and allows someone from a remote location to take full control of the computer or device. (215)
+A rootkit
+Spyware
+A Trojan horse
+Adware
+A ____ is a program or set of instructions in a program that allows users to bypass security controls when accessing a program, computer, or network. (217)
+zombie
+botnet
+back door
+session cookie
+An employee using an organization’s computer to send personal email messages might be an example
+of _____. (221)
+cybercrime
+hardware vandalism
+intellectual property rights violation
+unauthorized access and use
+A _____ is a private combination of words, often up to 100 characters in length and containing mixed capitalization and punctuation, associated with a user name that allows access to certain computer resources. (223)
+passphrase
+private key
+passcode
+encryption algorithm
+A(n) _____ is a set of characters that the originator of the data uses to encrypt the text and the recipient of the data uses to decrypt the text. (230)
+cipher
+plaintext
+public key
+encryption key
+A(n) _____ backup method is the only real-time back up, providing very fast recovery of data. (234)
+selective
+incremental
+full 
+continuous data protection
+Online shopping websites generally use a _____ to keep track of items in a user’s shopping cart. (243)
+phishing filter
+session cookie
+location sharing algorithm
+keygen

@@ -1,0 +1,68 @@
+Name:
+Group 8
+Registration Number: SM/SMS/09/00
+	Title: Determination Of Density Of Liquids Using A Loaded Test-tube
+Experiment 7
+Date: 29th November, 2009
+29th November, 2009
+Experiment 7
+Determination of density of a liquid using a loaded test tube
+AIM: To determine the density of water using a loaded test-tube.
+APPARATUS
+A wide test-tube fitted with a mm scale
+A deep beaker
+A cup of sand 
+5 lead shots
+Calipers 
+Water 
+DIAGRAM
+THEORY
+If the radius of the test-tube is r cm and the mean depth of immersion in cm per g is n (where n is the slope of the depth of immersion against the additional load). Then, the volume liquid displaced by the addition of 1 gram to the test-tube =  cm3.
+If the density of the liquid is ρ gm-3, then the weight of the liquid displaced =  gm.
+Hence, by Archimedes’ principle:   
+Then, the density of the liquid,  gm cm-3.
+PROCEDURE: Sufficient sand was placed in the tube to make it float vertically in the water and the level X0 at which it floats was noted. Lead shots were then placed in the tube and in each case the reading (X) of the scale against the liquid level was noted. A graph was then drawn of the depth of immersion (d) =(X-X0) against the additional load. The external radius of the test-tube was found using a caliper, taking four readings.
+The test-tube then was caused to oscillate vertically and the time for 10 oscillations was noted. This was repeated four times. The periodic time T was used to find the value of g which is the acceleration due to gravity.
+TABLE OF RESULTS
+X0=12.6cm
+Average T =  /s
+                   = 0.623s
+Average radius =7.5mm
+                           =0.75cm
+CALCULATIONS
+From Archimedes’ principle, we deduced that   .
+r=0.75cm
+n= the slope of the graph = 0.54cmg-1
+ Again for period,      
+DISCUSSION
+The graph produced a straight line passing through the origin (0,0) with a positive gradient of 0.6cmg-1. From the theory we deduced that the density of the liquid (water)  gcm-3. When the value of r which is the external radius of the test tube and the value of n which is the slope produced by the line of the graph of d against mass were put into the equation, the result was nearly similar to the standard (known) density of water which is 1gcm-3. Again the period for 10 vertical oscillations was used to determine the acceleration due to gravity (g).The formula used was  and when l and T were put into the equation the result (ie. The acceleration due to gravity) also proved to be nearly equal to the standard (known) acceleration due to gravity which is 9.8ms-2. 
+SOURCES OF ERROR
+Error in reading might be as a result of the wind current around the experiment.
+Error in readings might have been as a result of inaccuracy in the reading by the vernier caliper. 
+PRECAUTION
+Sand poured into the test-tube was done carefully so as not to spill some into the beaker with water since this might disturb the experiment and the readings.
+During the oscillation stage, the test-tube was displaced by a small distance so as to prevent water from entering the test-tube.
+Sufficient water was poured into the beaker and maintained throughout the whole experiment.
+Readings were taken from the meniscus of the water level.
+CONCLUSION
+The loaded test-tube was successfully used to determine the density of water and it was found to be 1gcm-3.
+REFERENCE
+SERWAY, Raymond A. and FAUGHN Jerry S., College Physics  6th edition, Pacific Grove, CA. Brooks/Cole- Thomson Learning, 2003. Pages 262-263,400-401
+GIANCOLI Douglas C.; PHYSICS: principles with applications 6th edition, Upper Saddle River, NJ. Pearson Education Inc., 2005. Pages 263 and 266.
+MASS/g | X/cm | d = X-X0/cm
+1 | 13.4 | 0.8
+2 | 14.0 | 1.4
+3 | 14.6 | 2.0
+4 | 15.0 | 2.4
+5 | 15.6 | 3.0
+Time t/s | Period T=  /s
+6.25 | 0.625
+6.22 | 0.622
+6.22 | 0.622
+6.25 | 0.625
+6.23 | 0.623
+Diameter (d)/mm  | Radius ()/mm
+15.0 | 7.5
+15.0 | 7.5
+15.0 | 7.5
+15.0 | 7.5

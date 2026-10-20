@@ -1,0 +1,349 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Font Management in PowerPoint 2010
+One of the key elements of any good presentation is the text, hence managing the fonts in PowerPoint is vital to designing an impressive slideshow.
+
+The font dialog box can be accessed from the Home ribbon in the Font group.
+
+--- SLIDE 5 ---
+Font Management in PowerPoint 2010
+You can also access font management features by selecting a text from a text box, select font from the options and click.
+
+--- SLIDE 6 ---
+Font Management in PowerPoint 2010
+This opens up the Font dialog which contains all the font management features available under the font section in the Home ribbon.
+
+--- SLIDE 7 ---
+Font Management in PowerPoint 2010
+
+--- SLIDE 8 ---
+Setting Text Fonts in PowerPoint 2010
+Step 1  
+The default font in PowerPoint 2010 is Calibri.
+
+
+--- SLIDE 9 ---
+Setting Text Fonts in PowerPoint 2010
+Step 2  
+To change the text font, select that portion of text the font of which needs to be changed. 
+
+ If you select the entire text box or shape, the changes will apply to all the text in the selection. If you select specific text, the changes will apply to selection only.
+
+
+--- SLIDE 10 ---
+Setting Text Fonts in PowerPoint 2010
+Step 3 
+In the Font group, under the Home ribbon, click on the font face dropdown. 
+
+
+--- SLIDE 11 ---
+Setting Text Fonts in PowerPoint 2010
+Step 4 
+Scroll through the list of font faces to pick the one that suits your needs. 
+
+
+--- SLIDE 12 ---
+Text Decoration in PowerPoint 2010
+
+These features can be accessed from the Home ribbon under the Font group.
+
+--- SLIDE 13 ---
+Text Decoration in PowerPoint 2010
+
+--- SLIDE 14 ---
+Change Text Case in PowerPoint 2010
+Step 1
+Select the text the case of which you want to change.
+ Go to the Font group under the Home ribbon.
+
+
+
+--- SLIDE 15 ---
+Change Text Case in PowerPoint 2010
+Step 2
+ From the Change Case dropdown, select the case you want to use for your text.
+
+
+--- SLIDE 16 ---
+Change Text Case in PowerPoint 2010
+Step 3
+ Click on your choice to change case for the selected text.
+
+
+--- SLIDE 17 ---
+Change Text Size in PowerPoint 2010
+Step 1
+Select the text the case of which you want to change.
+ Go to the Font group under the Home ribbon.
+
+
+
+--- SLIDE 18 ---
+Change Text Case in PowerPoint 2010
+Step 2
+ From the Font Size dropdown, select the size you want to use for your text.
+
+
+
+--- SLIDE 19 ---
+Change Text Case in PowerPoint 2010
+Step 3
+Click on your choice to change the font size for the selected portion of text.
+
+
+
+--- SLIDE 20 ---
+Change Text Case in PowerPoint 2010
+Step 4
+If you want to change the font size in steps you can also use the Increase/ Decrease Font Size options.
+
+
+
+--- SLIDE 21 ---
+Change Text Colour in PowerPoint 2010
+Step 1
+Select the text the case of which you want to change.
+ Go to the Font group under the Home ribbon.
+
+
+
+--- SLIDE 22 ---
+Change Text Colour in PowerPoint 2010
+Step 2
+From the Font Colour dropdown, select the colour you want to use for your text.
+
+
+--- SLIDE 23 ---
+Change Text Colour in PowerPoint 2010
+Step 3
+Click on your choice to change the font colour for the selected portion of text.
+
+
+
+--- SLIDE 24 ---
+Change Text Colour in PowerPoint 2010
+Step 3
+If you want to choose from a wider range of colours than what's shown in the dropdown you can click on "More Colours…"
+
+
+
+--- SLIDE 25 ---
+Change Text Colour in PowerPoint 2010
+Step 3
+Here you can pick from a standard colour palette for a greater choice of predefined colours or create your own from the custom colour palette.
+
+
+--- SLIDE 26 ---
+Text Alignments in PowerPoint 2010
+
+--- SLIDE 27 ---
+Text Alignments in PowerPoint 2010
+Step 1
+Select the portion of text that needs to be aligned.
+Go to the Paragraph group under the Home ribbon.
+
+
+--- SLIDE 28 ---
+Text Alignments in PowerPoint 2010
+Step 2
+Select one of the alignment options described above to change the text alignment. 
+Note that the default alignment for text is usually Left.
+As long as the text is selected, you can change the text alignment multiple times.
+
+--- SLIDE 29 ---
+Indent Paragraphs in PowerPoint 2010
+Step 1
+Select the text content to be indented.
+Go to the Paragraph group under the Home ribbon.
+
+--- SLIDE 30 ---
+Indent Paragraphs in PowerPoint 2010
+Step 2
+Select one of the indentation options.
+
+--- SLIDE 31 ---
+Indent Paragraphs in PowerPoint 2010
+Step 3
+Once you have increased the indent, the decrease indent option is enabled.
+
+
+--- SLIDE 32 ---
+Set Line Spacing in PowerPoint 2010
+Step 1
+Select the text content to be spaced.
+Go to the Paragraph group under the Home ribbon.
+
+--- SLIDE 33 ---
+Set Line Spacing in PowerPoint 2010
+Step 2
+Select one of the line spacing option from the dropdown list to apply one of predefined spacing options.
+
+
+--- SLIDE 34 ---
+Set Line Spacing in PowerPoint 2010
+Step 3
+To customize the spacing, you can click on "Line Spacing Options…" This will launch the Paragraph dialog.
+
+
+--- SLIDE 35 ---
+Borders and Shades in PowerPoint 2010
+Applying Borders
+Step 1
+ Select the object (text box, image, chart, picture, etc.) to which you want to apply the border.
+ Go to the Drawing group under the Home ribbon.
+
+
+--- SLIDE 36 ---
+Borders and Shades in PowerPoint 2010
+Step 2
+ Click on the Shape Outline to choose the border settings.
+
+
+--- SLIDE 37 ---
+Borders and Shades in PowerPoint 2010
+Step 3
+ Use the colour palette to choose the border colour. You can choose More Outline Colours to get access to additional colour choices.
+Step 4
+
+Use the Weight dropdown to define the thickness of the border.
+Step 5
+
+Use the Dashes option to define the border style.
+
+
+--- SLIDE 38 ---
+Borders and Shades in PowerPoint 2010
+
+--- SLIDE 39 ---
+Borders and Shades in PowerPoint 2010
+Applying Shades
+Step 1
+ Select the object (text box, image, chart, picture, etc.) to which you want to apply the border.
+ Go to the Drawing group under the Home ribbon.
+
+
+--- SLIDE 40 ---
+Borders and Shades in PowerPoint 2010
+Applying Shades
+Step 2
+Click on the Shape Fill to choose the shade settings.
+
+
+--- SLIDE 41 ---
+Borders and Shades in PowerPoint 2010
+Step 3
+ Use the colour palette to choose the shade colour. You can choose More Outline Colours to get access to a choice of colours..
+Step 4
+
+Use the Picture to add a picture as the background rather than a colour.
+Step 5
+
+Use the Gradient option to add colour gradient in the background. You can use the pre-defined gradients or click on "More Gradients…" to customize the shading with gradient colours..
+
+
+--- SLIDE 42 ---
+Borders and Shades in PowerPoint 2010
+Step 6
+Use the Texture option to add a pre-defined texture instead of a colour shade.
+
+
+--- SLIDE 43 ---
+Apply Formatting in PowerPoint 2010
+Step 1
+Select the content you want to copy the formatting from.
+Go to the Clipboard group under the Home ribbon.
+
+
+
+--- SLIDE 44 ---
+Apply Formatting in PowerPoint 2010
+Step 2
+Click on the Format Painter icon.
+
+
+
+--- SLIDE 45 ---
+Apply Formatting in PowerPoint 2010
+Step 3
+Select the content you want to format.
+
+
+
+--- SLIDE 46 ---
+Apply Formatting in PowerPoint 2010
+
+Here are some key aspects about the Format Painter −
+
+If you click on the Format Painter icon just once, the formatting will be copied just once.
+
+If you click on the Format Painter icon twice quickly, you can copy the formatting multiple times.
+
+If you want to copy just the text formatting and not the paragraph features, ensure that you select just the sample text and not the entire paragraph.
+
+If you want to copy paragraph and font formatting, you must select the entire paragraph.
+
+--- SLIDE 47 ---
+Apply Formatting in PowerPoint 2010
+
+--- SLIDE 48 ---
+Using Slide Master in PowerPoint 2010
+Slide master is simple way of applying changes to the entire slide.
+
+Every presentation has at least one slide master, but you can have more than one. 
+
+ If you want to use a theme and background throughout the slide, using the slide master is a simpler and more graceful way of approaching it.
+
+--- SLIDE 49 ---
+Using Slide Master in PowerPoint 2010
+Step 1
+Go to the Master Views group under the View ribbon.
+
+
+
+--- SLIDE 50 ---
+Using Slide Master in PowerPoint 2010
+Step 2
+Click on Slide Master to open the Slide Master Ribbon.
+The top most slide in the left sidebar is the Master slide.
+ All the slides within this master template will follow the settings you add on this master slide.
+
+--- SLIDE 51 ---
+Using Slide Master in PowerPoint 2010
+Step 3
+You can make changes to the master slide in terms of the theme, design, font properties, position and size of the title and other content using the remaining ribbons which are still accessible.
+Step 4 
+While PowerPoint provides some default slide layouts, 
+you can create your own layouts by clicking on the "Insert Layout" in the Edit Master section of the Slide Master ribbon.
+
+--- SLIDE 52 ---
+Using Slide Master in PowerPoint 2010
+
+--- SLIDE 53 ---
+Using Slide Master in PowerPoint 2010
+Step 5
+You can add content placeholders to the slide layouts using the "Insert Placeholder" in the Master Layout group under the Slide Master ribbon.
+Under the Placeholder dropdown, you can either create a generic content placeholder or specify the kind of content you want in that placeholder.
+
+
+--- SLIDE 54 ---
+Using Slide Master in PowerPoint 2010
+Step 6
+You can apply different themes, background and page setup settings to all the slides from the master slide.
+
+Step 7 
+You can also customize individual slide layouts to be different from the master slide using the menu options available with the layouts.
+
+--- SLIDE 55 ---
+Using Slide Master in PowerPoint 2010
+
+--- SLIDE 56 ---
+
+--- SLIDE 57 ---
+THANK YOU

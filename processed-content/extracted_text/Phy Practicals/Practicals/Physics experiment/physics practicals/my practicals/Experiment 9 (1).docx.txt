@@ -1,0 +1,46 @@
+SM/SMS/08/0011								March 20, 2009
+EXPERIMENT NINE (9)
+TITLE: DETERMINATION OF THE FOCAL LENGTH OF A CONVERGING LENS USING OPTICAL PINS.
+AIM: To determine the focal length of a converging lens using the no parallax method.
+APPARATUS: A convex lens, optical pins, meter rule, lens holder.
+DIAGRAM
+METHOD
+An object pin O, a lens L, and a search pin S were placed on an optical bench.  The pins were set in such a way that their tips lay approximately along the axis of the lens. The object pin O was placed at a distance (d) from the lens. The eye E was placed behind the search pin S. The search pin was moved towards or away from the convex lens until there was no parallax between the search pin and the image of the object pin. The distance between the object pin and the search pin (L) was measured and (I-d) was calculated. The experiment was repeated for other values of the object distance d and in each case the values for L-d, (L-d)/d were calculated. The results obtained were tabulated. A graph of (L-d)/d is plotted as ordinate against (L-d) as abscissa. The slope was calculated and the intercept determined from the graph. The reciprocal of the slope was found and its significance indicated.
+THEORY
+Light can travel through vacuum as well as other material such as glasses, air and water. The atoms of a material absorb, reemit or scatter the light. Therefore the speed of light in any material is slower than in vacuum and the speed of light depends on the nature of the material. Refraction is the change in the direction of light ray when it travels through different materials. The index of refraction of a material describes the extent to which the speed of the light in a medium differs from that of vacuum. Lenses are optical instruments made from transparent materials that refract light. They refract light such that the image of the source of light is formed. An object at infinity which is centred on the principal axis of a converging lens produces parallel rays to the principal axis which eventually converge at the focal point of the lens after passing through the lens. A convex lens is one whose width is small compared to the focal length of the lens. It is known as converging because it causes incident rays parallel to the principal axis to converge at the focal point. A converging lens has a curved surface with a thickened centre unlike a diverging lens. The distance between the focal point and the lens is the focal length, f. It is assumed that the lens is thin as compared to  such that it makes no difference whether  is measured between the focal point and either surface of the lens or the centre of the lens. A converging lens has a positive focal length.  The converging lens can form both real and virtual images depending on the position of the object from the lens.  When an object is located at a distance from the lens greater than twice the focal length, the image is small, real and inverted than the object. An object located a distance from the lens that is between the focal length and the twice the focal length, the image is real inverted and larger than the object. An object within f produces virtual, upright and larger image as compared to the object. The refractive power of a lens is the reciprocal of the focal length in metres.
+ Considering the diagram above,
+Image distance =  
+Object distance=   but magnification= (image distance/object distance)
+Thus where m is the magnification ……………….1
+From equation,  magnification,  .....………………2
+But   v=image distance=L‒d        and              f=  focal length of the converging lens
+Substituting equation 1 into equation 2
+= ( ) ‒1…… ………………….. 3
+ But from equation of straight line y=mx +c 
+ Where m=slope   c=intercept on the x-axis y=ordinate and x=abscissa
+ Comparing equation 3 the equation of the line,
+     c= ‒1          
+      and            slope =1/f
+TABLE OF RESULTS
+GRAPH
+DISCUSSION
+This experiment was done to determine the focal length of a converging lens. Five different values of the image distanceand their corresponding object distances were determined and recorded.  When the  and values are critically examined, it can be seen that as the  values decreases successively whiles their corresponding  values decreases  from one value to another apart from the last value of  which increased instead of decreasing.
+ The graph has an intercept of -1 on the positive x-axis. The graph is a negative graph with slope (m) =1/f. Hence the focal length of the converging lens is the reciprocal of the slope. From the graph, the slope is 0.1cm hence the reciprocal of the slope (0.1) =10.0cm. This means that the converging lens used in the experiment has a focal length of +10.0cm. The graph L-d/d, which served as ordinate was plotted against   L-(image distance) which served as abscissa. It is possible that the calculated value o is not equal to the actual  value of the lens. This is due to the fact that it is possible that the meter rule was not accurately calibrated and therefore gave wrong values for the measurement of the  and  distances. This consequently might have affected the focal length calculated from the graph and made it slightly different from the actual focal length of the lens. Random error might have occurred due to the fact that the measurements were not repeated several times to take their averages. Error due to parallax might have also occurred in the course of measuring the  .  However, experiment can be concluded as been successful.
+CONCLUSION
+From the experiment conducted above, it can be concluded that the approximate focal length of the convex lens used was +10.0cm or + 0.1m
+SOURCES OF ERROR
+Error caused may be due to parallax between the search pin and the image of the object pin.
+Error caused may also be due to the scratches on the lens.
+PRECAUTIONS
+It was ensured that the lens was cleaned to enhance visibility.
+Error of parallax was avoided by moving the eye from left to right
+It was ensured that the optical pins were set in a way that their tips lay approximately along the axis of the lens.
+REFERENCES
+Nelkon and Parker (1995) Advanced level physics, 7th edition. Published by CBS publishers and distributors, New Delhi; India. Pages 509-511 read.
+Young and Freedman (1999) University Physics, 9th edition. Addison-Wesley publishing company; New York. Pages 1085
+d/cm | l/cm | ( | ()/cm
+35.0 | 49.0 | 14.0 | 0.40
+30.0 | 45.0 | 15.0 | 0.50
+25.0 | 41.7 | 16.7 | 0.67
+20.0 | 40.0 | 20.0 | 1.00
+15.0 | 45.0 | 30.0 | 2.00

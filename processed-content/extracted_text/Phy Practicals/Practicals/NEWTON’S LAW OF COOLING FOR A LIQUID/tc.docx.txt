@@ -1,0 +1,73 @@
+EXPERIMENT 9: NEWTON’S LAW OF COOLING FOR A LIQUID
+AIM: To verify Newton’s law of cooling for a liquid.
+APPARATUS: Small calorimeter with fitting lid bored with two holes to take a stirrer and thermometer (0-100°C), another thermometer held in stand clamp, stopwatch.
+DIAGRAM OF SETUP
+A – Stirrer		B – Thermometer		C – Calorimeter
+THEORY
+Newton’s law of cooling states that heat is transferred from a body to its surroundings (or conversely) at a rate roughly proportional to the existing temperature difference, provided that this difference is small; thus, a beaker of warm water cools rapidly at first when the temperature difference is greater, then much slowly as it approaches ‘ambient’ temperature (the temperature of the surroundings).
+PROCEDURE
+The calorimeter was placed on a bad conductor and near a fan. Water in a beaker was heated to 86°C. The calorimeter was filled with the heated water with the lid, stirrer and thermometer in position. The second thermometer was placed near the calorimeter, to record the temperature of the surroundings.
+The water was kept well stirred all the time, and its temperature was recorded at minute intervals down to 35°C. At the end of the experiment, the temperature of the surroundings was recorded from the second thermometer. The results were used to plot a cooling curve, with temperature as ordinate and time as abscissa.
+TABLE OF RESULTS
+TABLE OF VALUES FOR THE SLOPES AT SIX DIFFERENT POINTS AGAINST DIFFERENCE IN TEMPERATURE
+GRAPH
+CALCULATIONS
+SLOPE AT SIX DIFFERENT POINTS
+Slope at 88 = =2.20s
+Slope at 70 =  =1.67
+Slope at 60 = =1.50
+Slope at 52 = =1.25
+Slope at 43  = =1.00
+Slope at 37 =  =0.75
+                                                                     DISCUSSION
+From the graph, it was observed that from the 1st minute to the seventh minute, the temperature was reducing by 2 and then from the 8th minute   onwards, the temperature reduced by every 1 with some of the values repeating themselves. Thus the nature of the curve was in a descending form with negative slopes. From the table and graph showing the mean temperature against the slope it is seen that the graph gives a straight line indicating that the rate of loss of heat is proportional to the excess temperature at any instant.
+SOURCES OF ERROR
+Touching the thermometer constantly supplied heat to it and so affected reading accuracy.
+The holes in the calorimeter lid were quite big for the thermometer and so affected results. 
+PRECAUTIONS
+It was ensured that the water was stirred carefully and continuously in order to ensure uniform distribution of heat and rapid cooling in the water.
+It was ensured that the calorimeter was lagged and covered to prevent heat loss     to the surroundings.
+It was ensured that the water boiled to the temperature required (90) and then transferred quickly into the calorimeter to prevent heat loss.
+CONCLUSION
+ From the graph of change in temperature against the slope, it can be concluded that Newton’s law of cooling is valid since the graph gives a straight line.       
+TIME/min | TEMPERATURE/°C | TIME/min | TEMPERATURE/°C
+1 | 81 | 34 | 45
+2 | 80 | 35 | 45
+3 | 77 | 36 | 44
+4 | 75 | 37 | 44
+5 | 73 | 38 | 43
+6 | 71 | 39 | 43
+7 | 69 | 40 | 43
+8 | 68 | 41 | 42
+9 | 66 | 42 | 42
+10 | 65 | 43 | 41
+11 | 63 | 44 | 41
+12 | 62 | 45 | 41
+13 | 61 | 46 | 40
+14 | 60 | 47 | 40
+15 | 59 | 48 | 40
+16 | 58 | 49 | 39
+17 | 57 | 50 | 39
+18 | 56 | 51 | 39
+19 | 55 | 52 | 39
+20 | 54 | 53 | 38
+21 | 53 | 54 | 38
+22 | 53 | 55 | 38
+23 | 52 | 56 | 38
+24 | 51 | 57 | 37
+25 | 51 | 58 | 37
+26 | 50 | 59 | 37
+27 | 49 | 60 | 37
+28 | 49 | 61 | 36
+29 | 48 | 62 | 36
+30 | 47 | 63 | 36
+31 | 47 | 64 | 36
+32 | 46 | 65 | 36
+33 | 46 | 66 | 35
+(θ-θο)/οC | Slope/min-1
+59 | 2.20
+41 | 1.67
+33 | 1.50
+26 | 1.25
+16 | 1.00
+6 | 0.80

@@ -1,0 +1,78 @@
+
+--- SLIDE 1 ---
+CENTER OF MASS
+
+--- SLIDE 2 ---
+The Center of Mass
+There is a special point in a system or object, called the center of mass, that moves as if all of the mass of the system is concentrated at that point.
+The system will move as if an external force were applied to a single particle of mass M located at the center of mass.
+M is the total mass of the system.
+This behavior is independent of other motion, such as rotation or vibration, or deformation of the system.
+This is the particle model.
+
+--- SLIDE 3 ---
+Center of Mass, Coordinates
+The coordinates of the center of mass  are
+
+
+
+
+M the active figure to obis the total mass of the system.
+Observe the effect of different masses and positions.
+
+--- SLIDE 4 ---
+Center of Mass, Symmetric Object
+The center of mass of any symmetric object of uniform density lies on an axis of symmetry and on any plane of symmetry.
+
+
+--- SLIDE 5 ---
+Center of Gravity
+Each small mass element of an extended object is acted upon by the gravitational force.
+The net effect of all these forces is equivalent to the effect of a single force       acting through a point called the center of gravity.
+If    is constant over the mass distribution, the center of gravity coincides with the center of mass.
+
+--- SLIDE 6 ---
+Newton’s Second Law for a System of Particles
+Since the only forces are external, the net external force equals the total mass of the system multiplied by the acceleration of the center of mass:
+	
+
+The center of mass of a system of particles of combined mass M moves like an equivalent particle of mass M would move under the influence of the net external force on the system.
+
+--- SLIDE 7 ---
+Rocket Propulsion
+When ordinary vehicles are propelled, the driving force for the motion is friction.
+The car is modeled as an non-isolated system in terms of momentum.
+An impulse is applied to the car from the roadway, and the result is a change in the momentum of the car.
+The operation of a rocket depends upon the law of conservation of linear momentum as applied to an isolated system, where the system is the rocket plus its ejected fuel.
+As the rocket moves in free space, its linear momentum changes when some of its mass is ejected in the form of exhaust gases.
+Because the gases are given momentum when they are ejected out of the engine, the rocket receives a compensating momentum in the opposite direction.
+In free space, the center of mass of the system moves uniformly.
+
+--- SLIDE 8 ---
+Rocket Propulsion, 2
+The initial mass of the rocket plus all its fuel is M + Dm at time ti and speed v.
+The initial momentum of the system is
+
+At some time t + Dt, the rocket’s mass has been reduced to M and an amount of fuel, Dm has been ejected.
+The rocket’s speed has increased by Dv.
+
+
+--- SLIDE 9 ---
+Rocket Propulsion, 3
+The basic equation for rocket propulsion is 
+
+
+The increase in rocket speed is proportional to the speed of the escape gases (ve).
+So, the exhaust speed should be very high.
+The increase in rocket speed is also proportional to the natural log of the ratio Mi/Mf.
+So, the ratio should be as high as possible, meaning the mass of the rocket should be as small as possible and it should carry as much fuel as possible.
+
+--- SLIDE 10 ---
+Thrust
+The thrust on the rocket is the force exerted on it by the ejected exhaust gases.
+		
+		
+
+The thrust increases as the exhaust speed increases.
+The thrust increases as the rate of change of mass increases.
+The rate of change of the mass is called the burn rate.

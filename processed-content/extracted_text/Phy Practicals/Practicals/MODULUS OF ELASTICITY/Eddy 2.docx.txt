@@ -1,0 +1,54 @@
+Name:
+Group 8
+Registration Number: SM/SMS/09/00
+Title: DETERMINATION OF THE MODULUS OF ELASTICITY
+Experiment 1
+Date: 7th October 2009
+	Date: 7th October 2009
+Title: Determination of the Modulus of Elasticity
+Aim: To determine the modulus of Elasticity of a flat metal bar.
+Apparatus: Dial gauge 10/0.01mm, Holder for dial gauge, Flat metal bar, Knife-edge with stirrup, bolt with knife-edge, Weight holder f. Slotted weights, Spring Balance 1N, Tripod base-PASS-, Support rod –PASS-, square, /=250mm, Support rod –PASS-, square, /=630mm, Right angle clamp-PASS-, Slotted weight, 10g black, Slotted weight, 50g black, Measuring tape, 1=2
+Diagram:
+Theory: An elastic modulus or modulus of elasticity is the mathematical description of an object or substance’s tendency to be deformed elastically (that is non-permanently) when a force is applied to it. The elastic modulus of an object is defined as the slope of its stress-strain curve in the elastic deformation region. It describes the connection between tension and stretch with the deformation of a firm body with linear flexible behaviour. The modulus of elasticity is shortened with elastic module or as symbol with E. The majority of modulus of elasticity is module of elasticity.
+Young’s modulus (E) describes tensile elasticity or the tendency of an object to deform along an axis when opposing forces are applied along that axis. It is often simply referred to as the Elastic Modulus. The value of the Young’s Modulus depends only on the material. The unit of the Young’s modulus of elasticity is Pa or N/ m2. Tensile strength is ratio of the magnitude of the external to the cross-sectional area. Tensile strength is defined as the ratio is defined as the ratio of the change in length to the original length. A material having a large Young’s modulus is difficult to stretch and vice versa. Experiment show that the change is length for a fixed external force is proportional to the original length and the force necessary to produce a given strain is proportional to the cross-sectional area.
+From the equation of the Young’s Modulus of Elasticity, E=FL /Ae       
+where F= tension on bar/ Force applied
+             A=Cross-sectional area of bar
+              e= Extension produced
+FAe= FL     F=EAe/L. this means that the gradient of a graph of F/N against e/m is given by EA/L  
+The amount of extension of an object depends not only on the force applied to it, but also on the material of which it is made and on its dimensions.
+Procedure: The experiment was set up as shown in the diagram. The dial was mounted on the knife edge the stirrup. The flat bar was positioned accurately on the two supporting knife edge having the possibility to move the x and y direction. The height of the metal bar was measures and recorded as b. The width a, and the length of the metal bar were also measured and recorded. The metal bar was positioned such that the distance between the two knife edges was 45cm. A mass of 250g was loaded on the metal bar making sure that it was centred between the knife edges.                                                                                                                       
+   The dynamometer and the plunger were mounted so that the dial gauge showed full deflection.the plunger was manually raised and gently lowered and the dial was set to zero. The weight was carefully reduced by 50g intervals and the dial reading e was recorded in each case. This procedure was repeated 5 times and the results were tabulated.
+Observation:
+Height b =0.14cm 
+Length=50.3cm 
+Width a=2cm
+  TABLE OF PLOTTED VALUES
+A graph of force/N against average extension, e/m 
+Calculation:
+Height b =0.14cm /0.0014m
+Length=50.3cm /0.503m
+Width a=2.0cm/0.02m
+Cross sectional area= ba
+Cross sectional area=0.0014m0.02m
+	=0.000028m2
+From the equation of the graph,   , the slope of the graph (m) is 7.528. Using the equation,
+ , the slope of the graph, 7.574 =. But L = 0.503m and A =0.000028m2. 
+Discussion:
+ The graph of force/N against e/m is a straight line graph passing through the origin. The equation of the graph is y=7.574x. From this equation, the slope is 7.574 by comparing to the equation of a line (that is y=mx+c where c=intercept = 0).  The modulus of elasticity of the metal rod is found to be 136061Nm-2. From the table, as force decrease, the extension also decreases. This means that the extension is directly proportional to the force (F α e). For example, from the table, when the force is 2.45N, the average extension is found to be 33.94. Again, when the force decreased to 1.96N by unloading 50g of the mass, the average extension decreased to 24.92cm. It is possible that the calculated modulus of elasticity is not the actual value of the metal due to the  fact that the ruler was not accurately calibrated which affected the measurement of the length of the metal bar. Also, Errors might be due to the fact that readings were not taken at the eye level and that resulted in parallax errors. From the experiment, the change is length for a fixed external force is proportional to the original length and the force necessary to produce a given strain is proportional to the cross-sectional area.
+Errors: 
+1) Errors might be due to the fact that the ruler was not accurately calibrated which affected the measurement of the length of the metal bar.
+2) Errors might be due to the fact that readings were not taken at the eye level and that resulted in parallax errors.
+Precautions:
+1) It was ensured that the bars were positioned accurately on the two supporting knife edges so that they could move in the x and y directions.
+  2) The readings were repeated and their averages taken or recorded in order to avoid random error.
+Conclusion:
+The modulus of Elasticity of a flat metal bar was found to be 
+REFERENCE: (1)Faughn .J.S. and Serway .A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+(2)Nelkon .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+Mass/kg | F/N | e1/cm | e2/cm | e3/cm | e4/cm | e5/cm | eav/cm
+250 | 2.45 | 33.0 | 33.5 | 34.5 | 34.3 |  34.4 | 33.94
+200 | 1.96 | 24.2 |        24.8 |       25.0 |      25.2 |       25.4 | 24.92
+         150 | 1.47 |      18.2 | 18.8 |       18.7 |     19.2 | 18.6 |      18.7
+100 | 0.98 |      11.1 | 11.0 | 11.4 |     11.2 | 11.5 | 11.24
+50 | 0.49 | 7.0 |        7.2 | 6.8 | 6.6 | 6.2 | 6.76

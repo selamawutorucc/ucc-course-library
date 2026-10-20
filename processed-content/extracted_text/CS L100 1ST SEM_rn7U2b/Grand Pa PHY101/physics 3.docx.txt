@@ -1,0 +1,64 @@
+EXPERIMENT 3
+Viscosity Measurement With The Falling Ball Viscosity
+Aim
+To verify Stokes’ law which states that if a sphere of radius r and density σ moves with a velocity v in a fluid (this experiment used the fluid of glycerin) of viscosity η and of density ρ, therefore very small velocities, the resistance W of the sphere is .
+To determine the viscosity of a fluid (glycerin) 
+Apparatus
+Stop watch. Interruption type
+Immersion thermostat
+Lab thermometer falling ball viscometer
+Glycerin
+Rubber tubes (0.8mm)
+Bath for thermostat (makrolon)
+Accessory set f. immersion thermo.
+Diagram
+Theory
+If a sphere of radius r and density σ moves with velocity υ in a fluid of viscosity η and of density, then for very small velocities, the resistance W of the sphere is:
+        (Stokes’ law) 	(1).
+If the fluid is not of infinite extent, then, as an approximation,
+)     (referred to as Ladenburg correction.)
+if the liquid is in a cylindrical vessel of radius R and the height of the cylinder is
+The force which acts on the sphere in the gravitational field of the earth because of the density difference between the sphere and the fluid is
+,               (2)            where  is the acceleration due to gravity. From (1) and (2) with W=F, it follows that  
+                 (3). So a graph of r2 against v is plotted. Since the falling ball viscometer has an inclined plane with additional rotary motion of the ball, (3) applies only approximately, with a correction factor. For many liquids it is an exponential of the viscosity function of temperature
+                             (4)
+The constant b in (4) is the activation energy for viscous flow.
+ can be explained as a Boltzmann factor, which states that the proportion of the molecules which have sufficient energy to overcome the barriers before the flow sets in.
+Procedure
+The experiment was set up as is shown in the diagram above. The viscometer was filled with the liquid glycerin. A temperature of 350C was maintained through the experiment using the thermostat and bath for about 15minutes. The alloy balls given were weighed on the electronic balance to determine their masses. The diameter of the ball was taken thereafter with the use of a micrometer screw gauge. Readings were obtained on each of the three ball bearings. These readings were recorded as d/mm. the ball bearings were dropped down the internal cylinder of the viscometer that is through the glycerin, one after the other. For each drop, the time taken for the ball to cover a specified distance was recorded using a stopwatch 
+Observation (table of result)
+Temperature of the experiment =350C
+Least count of the micrometer screw gauge: 0.01mm
+Least count of stop watch = 0.01s
+Least count of meter rule = 0.1cm
+Fixed distance = 4.5cm = 0.045m
+Where η= dynamic viscosity of fluid
+            g= acceleration due to gravity
+            r= radius of sphere
+            v= settling velocity of ball
+            σ= density of sphere
+            ρ= density of fluid
+Comparing this equation to y=mx+c, it implies that  where m is slope
+It implies  =   
+Discussion
+Viscosity refers to the degree of internal friction in a fluid. A highly viscous fluid is the one which possess high resistance on the motion of a body moving through it. Consider the equation proposed by Strokes, that is;
+r2 = (η/ (σg - ρg)) Vt
+Viscosity of a liquid is directly proportional to the square of the radius but inversely proportional to the velocity of the sphere through it.
+ From the results obtained, it was observed that for the initial three stages of readings taking, the radius of the ball bearing decreased with an increase in velocity. It can be deduced that the decrease in the size of the ball bearings caused a decrease in the viscous drag of glycerin on the ball bearings and hence moved more and more smoothly with increasing velocities. 
+Sources of error
+-Impurities in the glycerin may produce errors in reading.
+-Air bubbles may still be present in the glycerin.
+-Ball bearing may not be perfectly streamlined due to dents or scratches on them.
+Precaution
+-The air bubbles were removed as much as possible.
+-The internal cylinder in the viscometer was properly cleaned to avoid any other liquid from hindering the experiment and to produce a clear visible cylinder.
+-Errors due to parallax were avoided during the reading of the distance on the cylinder.
+Conclusion
+From the results obtained from the calculation it can be concluded that for any spherical body moving down a liquid, as the size (square of the radius) increases, the viscous drag i.e. viscosity of the liquid increase to decrease the velocity of the body. Hence the viscosity of a liquid depends on the shape and the velocity of the falling body. The terminal velocity of the ball bearings falling through glycerin is small enough for it to be reached before turbulence occurs, and its measurement provides a method of determining the viscosity of such a liquid (glycerin).Viscosity also decreases with an increase in temperature.
+Reference
+   1. Raymond A.Serway, Jerry S.Faughn (2003); College Physics Sixth (6th) Edition, published                                                   by Thomson Learning company, Canada, page 285-292.  
+   2. Raymond A Serway (1998), Principles of Physics, Second (2nd) Edition, Harcourt College      Publishers, Forth Worth, U.S.A.page 425-430.     
+Ball | Diameter(d)/mm | Diameter(d) /m | Time t/s | Velocity v/ x10-2ms-1 | Radius         r / x10-3m | r2/m2
+1 | 10.92 | 1.092 | 0.40 | 112.5 |  | 2.981
+2 | 13.89 | 1.389 | 2.34 | 19.23 |  | 4.830
+3 | 14.56 | 1.456 | 20.60 |   2.18 |  | 5.230

@@ -1,0 +1,6532 @@
+
+--- PAGE 1 ---
+518 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 33 
+Alternating-Current Circuits 
+ 
+CHAPTER OUTLINE 
+ 
+33.1  
+AC Sources 
+33.2 
+Resistors in an AC Circuit 
+33.3 
+Inductors in an AC Circuit 
+33.4 
+Capacitors in an AC Circuit 
+33.5 
+The RLC Series Circuit 
+33.6 
+Power in an AC Circuit 
+33.7 
+Resonance in a Series RLC Circuit 
+33.8 
+The Transformer and Power Transmission 
+33.9 
+Rectifiers and Filters 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ33.1 
+Answer (c). When a power source, AC or DC, is first connected to a 
+RL combination, the presence of the inductor impedes the buildup of 
+a current in the circuit. The value of the current starts at zero and 
+increases as the back emf induced across the inductor decreases in 
+magnitude. 
+OQ33.2 
+(i) 
+Answer (e). Inductive reactance, XL = ωL , doubles when the 
+frequency doubles, so the rms current is halved 
+Irms = ΔVrms XL
+(
+). 
+ 
+(ii) Answer (b). Capacitive reactance, XC = 1 ωC , is cut in half 
+when frequency doubles, so the rms current doubles 
+Irms = ΔVrms XC
+(
+). 
+ 
+(iii) Answer (d). The resistance remains unchanged Irms = ΔVrms R
+(
+).
+
+--- PAGE 2 ---
+Chapter 33     519 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ33.3 
+Answer (a). The voltage across the capacitor is proportional to the 
+stored charge. This charge, and hence the voltage ΔVC, is a 
+maximum when the current has zero value and is in the process of 
+reversing direction after having been flowing in one direction for a 
+half cycle. Thus, the voltage across the capacitor lags behind the 
+current by 90°. The capacitive reactance, XC = 1 ωC , decreases as 
+frequency increases, causing the impedance to decrease and the 
+current to increase. 
+OQ33.4 
+(i) 
+Answer (d). ΔVavg = ΔVmax
+2
+. 
+ 
+(ii) Answer (c). The average of the squared voltage is 
+ΔV
+[
+]
+2
+(
+)avg = ΔVmax
+(
+)
+2
+2
+. Then its square root is ΔVrms = ΔVmax
+2
+. 
+OQ33.5 
+Answer (d). If the voltage is a maximum when the current is zero, the 
+voltage is either leading or lagging the current by 90° (or a quarter 
+cycle) in phase. Thus, the element could be either an inductor or a 
+capacitor. It could not be a resistor since the voltage across a resistor 
+is always in phase with the current. If the current and voltage were 
+out of phase by 180°, one would be a maximum in one direction 
+when the other was a maximum value in the opposite direction.  
+OQ33.6 
+(i)  Answer (e). The voltage varies between +170 V and –170 V. 
+ 
+(ii)  Answer (c). The average of a sine waveform is zero.  
+ 
+(iii) Answer (b). ΔVrms = ΔVmax
+2 = 170 V
+2 = 120 V . 
+OQ33.7 
+(i) 
+Answer (a). We have:  
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 =
+R2 + ωL −1
+ωC
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+20.0 Ω
+(
+)
+2 + 2π 500 Hz
+(
+) 120 × 10−3 H
+(
+)
+⎡
+⎣⎢
+⎧
+⎨⎪
+⎩⎪
+                              −
+1
+2π 500 Hz
+(
+) 0.750 × 10−6 F
+(
+)
+⎤
+⎦
+⎥
+⎥
+⎫
+⎬⎪
+⎭⎪
+1/2
+Z = 51.5 Ω
+ 
+ 
+ 
+and   Irms = ΔVrms Z = 120 V
+(
+)
+51.5 Ω
+(
+) = 2.33 A . 
+ 
+(ii) Answer (b). At the resonance frequency, XL = XC and the 
+impedance is Z =
+R2 + XL −XC
+(
+)
+2 = R . Thus, the rms current is  
+ 
+ 
+ 
+Irms = ΔVrms Z = 120 V
+(
+)
+20.0 Ω
+(
+) = 6.00 A
+
+--- PAGE 3 ---
+520     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ33.8 
+Answer (e) is false. In an RLC circuit, the instantaneous voltages ΔvR, 
+ΔvL, and ΔvC (across the resistance, inductance, and capacitance 
+respectively) are not in phase with each other. The instantaneous 
+voltage ΔvR is in phase with the current, ∆vL leads the current by 90°, 
+while ΔvC lags behind the current by 90°. The instantaneous values 
+of these three voltages do add algebraically to give the instantaneous 
+voltages across the RLC combination, but the rms voltages across 
+these components do not add algebraically. The rms voltages across 
+the three components must be added as vectors (or phasors) to obtain 
+the correct rms voltage across the RLC combination. 
+OQ33.9 
+Answer (c). At resonance the inductive reactance and capacitive 
+reactance cancel out.  
+OQ33.10 
+Answer (c). At resonance the inductive reactance and capacitive 
+reactance add to zero: φ = tan
+–1[(XL – XC)/R] = 0. 
+OQ33.11 
+The ranking is (a) > (d) > (b) > (c) > (e). At the resonance frequency  
+f0 = 1 000 Hz both XL and XC are equal: call their mutual value X. A 
+high-Q value means the resonance has a small width, so XL and XC 
+are also much larger than R at f0. Inductive reactance XL is 
+proportional to frequency, and capacitive reactance XC is inversely 
+proportional to frequency. In terms of X, the choices have the values: 
+(a) f = f0 /2, so XC = 2X. (b) f = 3f0 /2, so XC = 2X/3. (c) f = f0 /2, so XL = 
+X/2. (d) f = 3f0 /2, so XL = 3X/2. (e) R is independent of frequency, and 
+R is less than X. Thus, we have (a) 2X > (d) 3X/2 > (b) 2X/3 > (c) X/2 > 
+(e) less than X.  
+OQ33.12 
+Answer (e). The battery produces a constant current in the primary 
+coil, which generates a constant flux through the secondary coil. 
+With no change in flux through the secondary coil, there is no 
+induced voltage across the secondary coil. 
+OQ33.13 
+Answer (c). AC ammeters and voltmeters read rms values. With an 
+oscilloscope you can read a maximum voltage, or test whether the 
+average is zero.  
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ33.1 
+(a) 
+The Q factor determines the selectivity of the radio receiver. For 
+example, a receiver with a very low Q factor will respond to a 
+wide range of frequencies and might pick up several adjacent 
+radio stations at the same time. To discriminate between  
+102.5 MHz and 102.7 MHz requires a high-Q circuit.
+
+--- PAGE 4 ---
+Chapter 33     521 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Typically, lowering the resistance in the circuit is the way to get 
+a higher quality resonance. 
+CQ33.2 
+(a) 
+The second letter in each word stands for the circuit element. 
+For an inductor L, the emf ε leads the current I—thus ELI. For a 
+capacitor C, the current leads the voltage across the device. In a 
+circuit in which the capacitive reactance is larger than the 
+inductive reactance, the current leads the source emf—thus ICE.  
+ 
+(b) CIVIL – in a capacitor C the current (I) leads voltage 
+(represented by V), voltage leads current in an inductor L.  
+CQ33.3 
+The voltages are not added in a scalar form, but in a vector form, as 
+shown in the phasor diagrams throughout the chapter. Kirchhoff’s 
+loop rule is true at any instant, but the voltages across different 
+circuit elements are not simultaneously at their maximum values. Do 
+not forget that an inductor can induce an emf in itself and that the 
+voltage across it is 90° ahead of the current in the circuit in phase. 
+CQ33.4 
+(a) 
+In an RLC series circuit, the phase angle depends on the source 
+frequency. At very low frequency, the capacitor dominates the 
+impedance and the phase angle is near –90°. At very high 
+frequencies, the inductor dominates the impedance and the 
+phase angle is near –90°.  
+ 
+(b)  When the inductive reactance equals the capacitive reactance, 
+the frequency is the resonance frequency; the phase angle is 
+zero.  
+CQ33.5 
+In 1881, an assassin shot President James Garfield. The bullet was lost 
+in his body. Alexander Graham Bell invented the metal detector in an 
+effort to save the President’s life. The coil is preserved in the 
+Smithsonian Institution. The detector was thrown off by metal 
+springs in Garfield’s mattress, a new invention itself. Surgeons went 
+hunting for the bullet in the wrong place. Garfield died. 
+CQ33.6 
+(a) 
+The person is doing work at a rate of P = Fvcosθ . 
+ 
+(b) Compare the previous equation to P = ΔVrmsIrms cosφ . One can 
+consider the emf as the “force” that moves the charges through 
+the circuit, and the current as the “speed” of the moving 
+charges. The cos θ factor measures the effectiveness of the cause 
+in producing the effect. Theta is an angle in real space for the 
+vacuum cleaner and phi is the analogous angle of phase 
+difference between the emf and the current in the circuit. 
+CQ33.7 
+The circuit can be considered an RLC series circuit.  
+ 
+(a) 
+Yes. The circuit is in resonance because the inductive reactance 
+and capcitive reactance are equal, so the total impedance Z = R.
+
+--- PAGE 5 ---
+522     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Total power output by the emf Pemf = I
+2Rtotal, where Rtotal = 10 Ω 
+(source resistance) + 10 Ω (load resistance) = 20 Ω. Power 
+delivered to the load Pload = I
+2RL , where RL = 10 Ω. Fraction of 
+average power delivered to the load to average power delivered 
+by the source of emf:  
+ 
+ 
+ 
+Pload
+Pemf
+= I 2Rload
+I 2Rtotal
+= RL
+Rtotal
+=
+RL
+Rsource + RL
+= 10 Ω
+20 Ω = 0.5 
+ 
+(c) 
+The resistance of the load could be increased to make a greater 
+fraction of the emf’s power go to the load. Then the emf would 
+put out a lot less power and less power would reach the load. 
+CQ33.8 
+No. A voltage is only induced in the secondary coil if the flux 
+through the core changes in time. No changing current, no changing 
+flux, no induced voltage.  
+CQ33.9 
+(a) 
+The capacitive reactance is proportional to the inverse of the 
+frequency. At higher and higher frequencies, the capacitive 
+reactance approaches zero, making a capacitor behave like a 
+wire.  
+ 
+(b) As the frequency goes to zero, the capacitive reactance 
+approaches infinity—the resistance of an open circuit. 
+CQ33.10 
+The ratio of turns indicates the ratio of voltages: N1/N2 = ΔV1/ΔV2, 
+where ΔV2 = 120 V; therefore, ΔV1 = 12 kV. In its intended use, the 
+transformer takes in energy by electric transmission at 12 kV and 
+puts out nearly the same energy by electric transmission at 120 V. 
+With the small generator putting energy into the secondary side of 
+the transformer at 120 V, the primary side has 12 kV induced across 
+it. It is deadly dangerous for the repairman. 
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 33.1 
+AC Sources 
+Section 33.2 
+Resistors in an AC Circuit 
+P33.1 
+(a) 
+The rms voltage across the resistor is given by  
+ 
+ 
+ 
+ΔVR,rms = IrmsR = 8.00 A
+(
+) 12.0 Ω
+(
+) = 96.0 V 
+ 
+(b) From Equation 33.5, 
+ 
+ 
+ 
+ΔVR,max =
+2 ΔVR,rms
+(
+) =
+2 96.0 V
+(
+) = 136 V
+
+--- PAGE 6 ---
+Chapter 33     523 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+From Equation 33.4, 
+ 
+ 
+ 
+Imax =
+2Irms =
+2 8.00 A
+(
+) = 11.3 A 
+ 
+(d) 
+Pavg = Irms
+2 R = 8.00 A
+(
+)
+2 12.0 Ω
+(
+) = 768 W 
+P33.2 
+The rms voltage is 
+ 
+ 
+ 
+ΔVrms = 170 V
+2
+= 120 V 
+ 
+(a) 
+P = ΔVrms
+(
+)
+2
+R
+    →    R = 120 V
+(
+)
+2
+75.0 W = 193 Ω 
+ 
+(b) 
+R = 120 V
+(
+)
+2
+100 W = 144 Ω 
+P33.3 
+Each meter reads the rms value. 
+ 
+(a) 
+Irms = ΔVrms
+R
+=
+ΔVmax
+2
+(
+)
+R
+=
+100 V
+2
+(
+)
+24.0 Ω
+= 2.95 A 
+ 
+(b) The voltage across the resistor is the same as that across the 
+power supply:  
+ 
+ 
+ 
+ΔVrms = ΔVmax
+2
+= 100 V
+2
+= 70.7 V 
+ 
+ANS. FIG. P33.3 
+P33.4 
+(a) 
+We compute the peak voltage from the rms voltage: 
+ 
+ 
+ 
+ΔVR,max =
+2 ΔVR,rms
+(
+) =
+2 120 V
+(
+) = 170 V 
+ 
+(b) From the definition of power, 
+ 
+ 
+ 
+Pavg = Irms
+2 R = ΔVrms
+2
+R
+ 
+ 
+ 
+Solving for the resistance, 
+ 
+ 
+ 
+R = ΔVrms
+2
+Pavg
+= 120 V
+(
+)
+2
+60.0 W = 2.40 × 102 Ω
+
+--- PAGE 7 ---
+524     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+Because Pavg = ΔVrms
+(
+)
+2
+R
+    →    R = ΔVrms
+(
+)
+2
+Pavg
+, a 100-W bulb has less
+resistance than a 60.0-W bulb.
+ 
+P33.5 
+The current as a function of time is i = Δv
+R =
+ΔVmax
+R
+⎛
+⎝⎜
+⎞
+⎠⎟sinωt. Given the 
+value of t, we want to identify a point with 
+ 
+ 
+ 
+ 
+0.600 ΔVmax
+R
+= ΔVmax
+R
+sin(ωt) 
+ 
+ 
+or 
+ 
+ωt = sin
+–1 0.600 
+ 
+ 
+To find the lowest frequency we choose the smallest angle satisfying this 
+relation: 
+ 
+ 
+ 
+ 
+0.007 00 s
+(
+)ω = sin−1 0.600
+(
+) = 0.644 rad 
+ 
+Thus, 
+ω = 91.9 rad s = 2π f   so   
+f = 14.6 Hz 
+P33.6 
+(a) 
+From Equation 33.3, ΔvR = ΔVmax sinω t. To find the angular 
+frequency, we write 
+ 
+ 
+ 
+ΔvR = 0.250 ΔVmax
+(
+) 
+ 
+ 
+so 
+sinω t = 0.250 
+ 
+ 
+or 
+ω t = sin−1 0.250
+(
+) 
+ 
+ 
+The smallest angle for which this is true is ω t = 0.253 rad . Thus, if 
+t = 0.010 0 s, 
+ 
+ 
+ 
+ω = 0.253 rad
+0.010 0 s = 25.3 rad s 
+ 
+(b) The second time when ΔvR = 0.250 ΔVmax
+(
+), ω t = sin−1 0.250
+(
+) 
+again. For this occurrence, ω t = π −0.253 rad = 2.89 rad (to 
+understand why this is true, recall the identity sin π −θ
+(
+) = sinθ 
+from trigonometry). Thus, 
+ 
+ 
+ 
+t = 2.89 rad
+25.3 rad s = 0.114 s
+
+--- PAGE 8 ---
+Chapter 33     525 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.7 
+We are given ΔVmax = 15.0 V and Rtotal = 8.20 Ω + 10.4 Ω = 18.6 Ω . The 
+maximum current in the circuit is 
+ 
+ 
+Imax = ΔVmax
+Rtotal
+= 15.0 V
+18.6 Ω = 0.806 A =
+2Irms
+ 
+ 
+And the power delivered to the speakers is 
+ 
+ 
+ 
+Pspeaker = Irms
+2 Rspeaker =
+0.806 A
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+10.4 Ω
+(
+) = 3.38 W
+ 
+P33.8 
+All lamps are connected in parallel with the voltage source, so  
+ΔVrms = 120 V for each lamp. Also, the current is Irms = Pavg ΔVrms and 
+the resistance is R = ΔVrms I rms . 
+ 
+(a) 
+For the 150-W bulbs,  
+ 
+ 
+ 
+Irms = 150 W
+120 V =1.25 A      
+ 
+ 
+For the 100-W bulb,  
+ 
+ 
+ 
+Irms = 100 W
+120 V
+ =0.833 A 
+ 
+ 
+The rms current in each 150-W bulb is 1.25 A. The rms current in 
+the 100-W bulb is 0.833 A. 
+ 
+(b) The resistance in bulbs 1 and 2 is  
+ 
+ 
+ 
+R1 = R2 = 120 V
+1.25 A = 96.0 Ω      
+ 
+ 
+and the resistance in bulb 3 is  
+ 
+ 
+ 
+R3 = 120 V
+0.833 A = 144 Ω 
+ 
+(c) 
+The bulbs are in parallel, so  
+ 
+ 
+ 
+1
+Req
+= 1
+R1
++ 1
+R2
++ 1
+R3
+=
+1
+96.0 Ω +
+1
+96.0 Ω +
+1
+144 Ω
+Req = 36.0 Ω
+
+--- PAGE 9 ---
+526     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 33.3 
+Inductors in an AC Circuit 
+P33.9 
+Inductive reactance is proportional to frequency. 
+ 
+At 50.0 Hz,  
+X′L
+XL
+= f ′
+f
+X′L = XL
+f ′
+f = 50.0Hz
+60.0Hz 54.0 Ω
+(
+) = 45.0 Ω
+ 
+ 
+The maximum current is  
+Imax = ΔVmax
+XL
+=
+2 ΔVrms
+(
+)
+XL
+=
+2 100 V
+(
+)
+45.0 Ω
+= 3.14 A 
+P33.10 
+(a) 
+XL = ωL = ΔVmax
+Imax
+ 
+L = ΔVmax
+ωImax
+=
+100 V
+2π 50.0 Hz
+(
+) 7.50 A
+(
+)
+= 0.0424 H 
+ 
+(b) 
+From Imax = ΔVmax
+XL
+= ΔVmax
+ωL
+, we see that is current inversely 
+proportional to angular frequency:  
+Imax
+I′max
+= ω′
+ω
+ω′ = ω Imax
+I′max
+= 2π 50.0 Hz
+(
+)
+[
+]7.50 A
+2.50 A = 942 rad/s
+ 
+P33.11 
+The inductive reactance is  
+ 
+ 
+XL = ω L = (65.0 π s
+–1)(70.0 × 10
+–3 V · s/A) = 14.3 Ω  
+ 
+The amplitude of the current is 
+ 
+ 
+Imax = ΔVmax
+XL
+= 80.0 V
+14.3 Ω = 5.60 A
+ 
+ 
+Equation 33.7 lets us evaluate the current: 
+ 
+ 
+i = −Imax cosωt = −5.60 A
+(
+)cos
+65.0π s−1
+(
+) 0.015 5 s
+(
+)
+⎡⎣
+⎤⎦
+= −5.60 A
+(
+)cos 3.17 rad
+(
+) = +5.60 A
+
+--- PAGE 10 ---
+Chapter 33     527 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.12 
+The relationship between current, inductance, and maximum voltage 
+is  
+ 
+ 
+Irms = ΔVL,rms
+XL
+=
+ΔVL,max
+2
+(
+)
+ωL
+=
+ΔVL,max
+2 2π
+(
+) fL
+ 
+ 
+In order to restrict the current to Irms < 2.00 × 10−3 A, we require  
+ 
+ 
+ΔVL,max
+2 2π
+(
+) fL < 2.00 × 10−3 A
+ 
+ 
+Solving for the inductance then gives 
+ 
+ 
+L >
+ΔVL,max
+2 2π
+(
+) f 2.00 × 10−3 A
+(
+)
+                             =
+4.00 V
+2 2π
+(
+) 300.0 Hz
+(
+) 2.00 × 10−3 A
+(
+)
+ 
+ 
+or  
+L > 0.750 H 
+P33.13 
+(a) 
+XL = 2π f L = 2π 80.0 Hz
+(
+) 25.0 × 10−3 H
+(
+) = 12.6 Ω 
+ 
+(b) 
+Irms = ΔVL,rms
+XL
+= 78.0 V
+XL
+= 6.21 A 
+ 
+(c) 
+Imax =
+2 Irms =
+2 6.21 A
+(
+) = 8.78 A 
+P33.14 
+In the inductor, because UB = 1
+2 LiL
+2 = 0 when t = 0, iL = Imax sin ω t
+(
+). 
+Then, 
+ 
+ 
+Irms = ΔVrms
+XL
+= ΔVrms
+ω L =
+120 V
+2π 60.0
+(
+) s−1
+⎡⎣
+⎤⎦0.020 0 H
+(
+)
+= 15.9 A
+ 
+ 
+and 
+Imax =
+2Irms =
+2 15.9 A
+(
+) = 22.5 A 
+ 
+the current in the inductor is 
+ 
+ 
+iL = Imax sinω t = 22.5 A
+(
+)sin 2π 60.0
+(
+) s−1 ⋅
+1
+180 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 22.5 A
+(
+)sin120° = 19.5 A
+ 
+ 
+and the energy stored is 
+ 
+ 
+UB = 1
+2 LiL
+2 = 1
+2 0.020 0 H
+(
+) 19.5 A
+(
+)
+2 = 3.80 J
+
+--- PAGE 11 ---
+528     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.15 
+The flux ΦB through each turn of the inductor is related to the 
+inductance by 
+ 
+ 
+L = NΦB
+i
+  
+ 
+Then, for an N-turn inductor, 
+ 
+ 
+NΦB, max = LImax = XL
+ω
+ΔVL, max
+(
+)
+XL
+= ΔVL, max
+(
+)
+ω
+NΦB, max =
+2 ΔVL, rms
+(
+)
+2π f
+=
+120 V
+2π 60.0 s−1
+(
+)
+= 0.450 Wb
+ 
+P33.16 
+We are given: Δv = 120 sin 30.0πt where Δv is in volts and t in 
+seconds, and L = 0.500 H. 
+ 
+(a) 
+By inspection, ω = 30π rad s , so  
+ 
+ 
+ 
+f = ω
+2π = 30π rad s
+2π
+= 15.0 Hz . 
+ 
+(b) Also by inspection, ΔVL,max = 120 V, so that  
+ 
+ 
+ 
+ΔVL,rms = ΔVL,max
+2
+= 120 V
+2
+ = 84.9 V 
+ 
+(c) 
+XL = 2π fL = ωL = 30π rad s
+(
+) 0.500 H
+(
+) = 47.1 Ω 
+ 
+(d) 
+Irms = ΔVL,rms
+XL
+= 84.9 V
+47.1 Ω = 1.80 A 
+ 
+(e) 
+Imax =
+2 Irms =
+2 1.80 A
+(
+) = 2.55 A 
+ 
+ 
+ 
+Section 33.4 
+Capacitors in an AC Circuit 
+P33.17 
+Current leads voltage by 90° in a capacitor, and because charge is 
+proportional to voltage, current leads charge by 90°. If ΔvC = 
+ΔVmax sinω t , then q = C ΔVmax
+(
+)sinω t so that the stored energy is 
+ 
+UC = q2
+2C = 0 when t = 0. Therefore, the current is given by 
+ 
+ 
+iC = Imax sin ω t + 90°
+(
+) = ΔVmax
+XC
+sin ω t + 90°
+(
+)
+  
+ 
+The capacitive reactance is
+
+--- PAGE 12 ---
+Chapter 33     529 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+XC =
+1
+ω C =
+1
+2π 60.0 s
+(
+) 1.00 × 10−3 C V
+(
+)
+= 2.65 Ω
+ 
+ 
+and the current at t =
+1
+180 s is 
+ 
+ 
+iC = ΔVmax
+XC
+sin ω t +φ
+(
+)
+=
+2 120 V
+(
+)
+2.65 Ω
+sin 2π 60.0 s−1
+(
+)⋅
+1
+180 s
+⎛
+⎝⎜
+⎞
+⎠⎟+ π
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= −32.0 A
+ 
+ 
+The magnitude of the current is 32.0 A . 
+P33.18 
+(a) 
+XC =
+1
+2π fC =
+1
+2π 60.0 Hz
+(
+) 12.0 × 10−6 F
+(
+)
+= 221 Ω 
+ 
+(b) 
+Irms = ΔVC,rms
+XC
+= 36.0 V
+221 Ω = 0.163 A 
+ 
+(c) 
+Imax =
+2 Irms = 0.230 A  
+ 
+(d) 
+No. Current leads voltage, and thus charge, by 90° in a 
+capacitor. The current reaches its maximum value one-quarter 
+cycle before the voltage reaches its maximum value. From the 
+definition of capacitance, the capacitor reaches its maximum 
+charge when the voltage across it is also a maximum. 
+Consequently, the maximum charge and the maximum current 
+do not occur at the same time.  
+P33.19 
+(a) 
+We require XC =
+1
+2π f C < 175 Ω , or 
+ 
+ 
+ 
+1
+2π f 22.0 × 10−6 F
+(
+)
+< 175 Ω 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+1
+2π 22.0 × 10−6 F
+(
+) 175 Ω
+(
+) < f
+ 
+ 
+ 
+or 
+f > 41.3 Hz
+
+--- PAGE 13 ---
+530     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) As a function of capacitance C, XC C
+( ) ∝1
+C , so 
+ 
+ 
+ 
+XC C = 44.0 µF
+(
+) = 1
+2 XC C = 22.0 µF
+(
+) 
+ 
+ 
+or new XC = 1
+2 old XC. 
+ 
+ 
+Therefore, XC < 87.5 Ω 
+P33.20 
+(a) 
+By inspection, ΔVC,max = 98.0 V, so  
+ 
+ 
+ 
+ΔVC,rms = ΔVC,max
+2
+= 98.0 V
+2
+= 69.3 V
+. 
+ 
+(b) Also by inspection, ω = 80π rad s , so  
+ 
+ 
+ 
+f = ω
+2π = 80π rad s
+2π rad
+= 40.0 Hz 
+ 
+(c) 
+We can find the capacitive reactance from 
+ 
+ 
+ 
+ XC = ΔVC,max
+Imax
+= 98.0 V
+0.500 A = 196 Ω 
+ 
+ 
+and since  
+ 
+ 
+ 
+XC =
+1
+2π fC = 1
+ωC 
+ 
+ 
+solving for the capacitance gives 
+ 
+ 
+ 
+C =
+1
+ωXC
+=
+1
+80π rad s
+(
+) 196 Ω
+(
+)
+= 2.03 × 10−5 F = 20.3 µF 
+P33.21 
+We combine the steps in the equation 
+ 
+ 
+  
+Imax =
+ΔVmax
+XC
+= ΔVmaxωC = ΔVmax(2π fC) 
+ 
+Then, 
+ 
+ 
+ 
+Imax = 48.0 V
+(
+) 2π
+(
+) 90.0 Hz
+(
+) 3.70 × 10−6 F
+(
+) = 100 mA 
+P33.22 
+The maximum charge is given by 
+ 
+ 
+Qmax = C ΔVmax
+(
+) = C
+2 ΔVrms
+(
+)
+⎡⎣
+⎤⎦=
+2C ΔVrms
+(
+)
+
+--- PAGE 14 ---
+Chapter 33     531 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.23 
+The maximum current in the capacitor is given by 
+ 
+ 
+Imax =
+2Irms =
+2 ΔVrms
+(
+)
+XC
+=
+2 ΔVrms
+(
+)2π f C 
+ 
+(a) 
+For the North American electrical outlet, 
+ 
+ 
+ 
+Imax =
+2 120 V
+(
+)2π 60.0 s
+(
+) 2.20 × 10−6 C V
+(
+) = 141 mA 
+ 
+(b) For the European electrical outlet, 
+ 
+ 
+ 
+Imax =
+2 240 V
+(
+)2π 50.0 s
+(
+) 2.20 × 10−6 F
+(
+) = 235 mA 
+ 
+ 
+ 
+Section 33.5 
+The RLC Series Circuit 
+P33.24 
+We first determine the reactances of the circuit. The capacitive 
+reactance is 
+ 
+ 
+ 
+XC =
+1
+ω C =
+1
+2π 50.0
+(
+) 65.0 × 10−6 F
+(
+)
+= 49.0 Ω
+ 
+ 
+the inductive reactance is, 
+ 
+ 
+ 
+XL = ω L = 2π 50.0
+(
+) 185 × 10−3 H
+(
+) = 58.1 Ω 
+ 
+and the impedance Z of the circuit is 
+ 
+ 
+  
+Z =
+R2 + XL −XC
+(
+)
+2 =
+40.0 Ω
+(
+)
+2 + 58.1 Ω −49.0 Ω
+(
+)
+2
+= 41.0 Ω
+ 
+ 
+The current in the circuit is then 
+ 
+ 
+  
+Imax = ΔVmax
+Z
+= 150 V
+41.0 Ω = 3.66 A
+ 
+ 
+ANS. FIG. P33.24 
+ 
+(a) 
+The maximum voltage between points a and b is the potential 
+drop across the resistor: 
+ 
+ 
+ 
+ΔVR = ImaxR = 3.66 A
+(
+) 40.0 Ω
+(
+) = 146 V 
+ 
+(b) The maximum voltage between points b and c is the potential
+
+--- PAGE 15 ---
+532     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+drop across the coil: 
+ 
+ 
+ 
+ΔVL = ImaxXL = 3.66 A
+(
+) 58.1 Ω
+(
+) = 212.5 V = 212 V 
+ 
+(c) 
+The maximum voltage between points c and d is the potential 
+drop across the capacitor: 
+ 
+ 
+ 
+ΔVC = ImaxXC = 3.66 A
+(
+) 49.0 Ω
+(
+) = 179.1 V = 179 V 
+ 
+(d) The potential drop between points b and d is 
+ 
+ 
+ 
+ΔVL −ΔVC = 212.5 V −179.1 V = 33.4 V 
+P33.25 
+The resistance of the circuit is R = 300 Ω. The inductive reactance of the 
+circuit is 
+ 
+ 
+ 
+XL = ω L = 2π
+500
+π s−1
+⎛
+⎝⎜
+⎞
+⎠⎟0.200 H
+(
+) = 200 Ω
+ 
+ 
+The capacitive reactance of the circuit is 
+ 
+ 
+ 
+XC =
+1
+ω C = 2π
+500
+π s−1
+⎛
+⎝⎜
+⎞
+⎠⎟11.0 × 10−6 F
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= 90.9 Ω
+ 
+ 
+The impedance of the circuit is 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 =
+300 Ω
+(
+)
+2 + 200 Ω −90.0 Ω
+(
+)
+2 = 319 Ω
+ 
+ 
+ and 
+ 
+ 
+ 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 200 Ω −90.9 Ω
+300 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= 20.0°
+ 
+ 
+The phasor diagram is shown in ANS. FIG. P33.25. 
+ 
+ANS. FIG. P33.25 
+P33.26 
+(a) 
+From the time dependence of the voltage, we recognize that 
+ω = 100 s−1. The resistance of the circuit is R = 68.0 Ω, the 
+inductive reactance of the circuit is 
+ 
+ 
+ 
+XL = ω L = 100 s−1
+(
+) 0.160 H
+(
+) = 16.0 Ω
+
+--- PAGE 16 ---
+Chapter 33     533 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The capacitive reactance of the circuit is 
+ 
+ 
+ 
+XC =
+1
+ω C =
+1
+100 s−1
+(
+) 99.0 × 10−6 F
+(
+)
+= 101 Ω
+ 
+ 
+Therefore, the impedance of the circuit is 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2
+=
+68.0 Ω
+(
+)
+2 + 16.0 Ω −101 Ω
+(
+)
+2 = 109 Ω
+ 
+ 
+(b) The maximum current in the circuit is 
+ 
+ 
+ 
+Imax = ΔVmax
+Z
+= 40.0 V
+109 Ω = 0.367 A 
+ 
+(c) 
+ω = 100 rad s 
+ 
+(d)  We find φ from 
+ 
+ 
+ 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 16.0 Ω −101 Ω
+68.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+= −0.896 rad = −51.3°
+ 
+P33.27 
+(a) 
+The inductive reactance of the circuit is 
+ 
+ 
+ 
+XL = ω L = 2π 50.0 s−1
+(
+) 150 × 10−3 H
+(
+) = 47.1 Ω 
+ 
+(b) The capacitive reactance of the circuit is 
+ 
+ 
+ 
+XC =
+1
+ω C = 2π 50.0 s−1
+(
+) 5.00 × 10−6 F
+(
+)
+⎡⎣
+⎤⎦
+−1 = 637 Ω 
+ 
+(c) 
+The impedance of the circuit is 
+ 
+ 
+ 
+Z = ΔVmax
+Imax
+= 240 V
+0.100 A = 2.40 × 103 Ω = 2.40 kΩ 
+ 
+(d) From the definition of impedance, 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 
+ 
+ 
+Solving for the resistance gives 
+ 
+ 
+ 
+R =
+Z2 −XL −XC
+(
+)
+2
+=
+2.40 × 103 Ω
+(
+)
+2 −47.1 Ω −637 Ω
+(
+)
+2
+= 2.33 × 103 Ω = 2.33 kΩ
+ 
+ 
+(e) 
+φ = tan−1 XL −XC
+R
+⎡
+⎣⎢
+⎤
+⎦⎥= tan−1 47.1 Ω −637 Ω
+2.33 × 103 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= −14.2°
+
+--- PAGE 17 ---
+534     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.28 
+From the definitions of inductive and capacitive reactance, XL = ω L 
+and XC =
+1
+ω C . Setting these equal and solving for the angular 
+frequency gives 
+ 
+ 
+ 
+ω L =
+1
+ω C
+ω =
+1
+LC =
+1
+57.0 × 10−6
+(
+) 57.0 × 10−6
+(
+)
+= 1.75 × 104 rad s
+ 
+ 
+Then, 
+ 
+ 
+f = ω
+2π = 2.79 kHz 
+P33.29 
+The reactance of the inductor is  
+ 
+ 
+XL = 2π f L = 2π 60.0 s−1
+(
+) 0.460 H
+(
+) = 173 Ω 
+ 
+ 
+The reactance of the capacitor is  
+ 
+ 
+ 
+XC =
+1
+ωC =
+1
+2π fC =
+1
+2π 60.0 s–1
+(
+) 21.0 × 10–6 F
+(
+)
+= 126 Ω
+  
+ 
+ 
+(a) 
+φ = tan−1 XL – XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1
+173 Ω – 126 Ω
+150 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= 17.4° 
+  
+(b) Since XL > XC, φ is positive, so voltage leads the current . This 
+means that the power-supply or total voltage goes through each 
+maximum, zero-crossing, and minimum earlier in time than the 
+current does.  
+ 
+P33.30 
+The Phasors for the three cases are shown in ANS. FIG. P33.30. 
+ 
+(a) 
+25.0 sin ωt at ωt = 90.0° 
+ 
+(b) 30.0 sin ωt at ωt = 60.0° 
+ 
+(c) 
+18.0 sin ωt at ωt = 300° 
+ 
+ANS. FIG. P33.30
+
+--- PAGE 18 ---
+Chapter 33     535 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.31 
+(a) 
+We first find the impedances of the inductor and the capacitor:  
+ 
+ 
+ 
+XL = ω L = 2π 50.0
+(
+) 400 × 10−3
+(
+) = 126 Ω 
+ 
+ 
+and XC =
+1
+ω C =
+1
+2π 50.0
+(
+) 4.43 × 10−6
+(
+)
+= 719 Ω 
+ 
+  
+ 
+We then compute the impedance of the circuit:  
+ 
+  
+ 
+  
+Z =
+R2 + XL −XC
+(
+)
+2 =
+5002 + 126 −719
+(
+)
+2 = 776 Ω
+ 
+ 
+  
+ 
+Then, from the equation for a series RLC circuit, 
+ 
+ 
+ 
+ΔVmax = ImaxZ = 250 × 10−3
+(
+) 776
+(
+) = 194 V 
+ 
+(b) 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 126 −719
+500
+⎛
+⎝⎜
+⎞
+⎠⎟= −49.9° 
+ 
+ 
+Thus, the current leads the voltage . 
+ 
+ANS. FIG. P33.31 
+P33.32 
+(a) 
+The capacitive reactance of the circuit is 
+ 
+ 
+ 
+XC =
+1
+2π f C =
+1
+2π 60.0 Hz
+(
+) 30.0 × 10−6 F
+(
+)
+= 88.4 Ω 
+ 
+(b) The impedance of the circuit is 
+ 
+ 
+ 
+Z =
+R2 + 0 −XC
+(
+)
+2 =
+R2 + XC
+2 =
+60.0 Ω
+(
+)
+2 + 88.4 Ω
+(
+)
+2
+= 107 Ω
+ 
+ 
+(c) 
+Imax = ΔVmax
+Z
+= 1.20 × 102 V
+107 Ω
+= 1.12 A 
+ 
+(d) The phase angle in this RC circuit is 
+ 
+ 
+ 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 0 −88.4 Ω
+60.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= −55.8°
+ 
+ 
+ 
+Since φ < 0, the voltage lags behind the current by 55.8° .
+
+--- PAGE 19 ---
+536     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Adding an inductor will change the impedance, and 
+hence the current in the circuit. The current could be 
+larger or smaller, depending on the inductance added. 
+The largest current would result when the inductive 
+reactance equals the capacitive reactance, the impedance 
+has its minimum value, equal to 60.0 Ω, and the
+current in the circuit is 
+           Imax = ΔVmax
+Z
+= ΔVmax
+R
+= 1.20 × 102 V
+60.0 Ω
+= 2.00 A
+ 
+P33.33 
+Let XC represent the initial capacitive reactance. Moving the plates to 
+half their original separation doubles the capacitance (C = ∈0 A
+d
+) and 
+cuts XC =
+1
+ω C in half.  
+ 
+For the current to double, the total impedance must be cut in half, or  
+Zi = 2Zf . Then, 
+ 
+ 
+ 
+R2 + XL −XC
+(
+)
+2 = 2 R2 + XL −XC
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+    R2 + R −XC
+(
+)
+2 = 4 R2 + R −XC
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2R2 −2RXC + XC
+2 = 8R2 −4RXC + XC
+2
+XC = 3R
+ 
+ 
+ 
+ 
+Section 33.6 
+Power in an AC Circuit 
+P33.34 
+The power factor for a series RLC circuit is given by 
+ 
+ 
+cosφ = R
+Z = 
+R
+R2 +  XL − XC
+(
+)
+2 
+ 
+The circuit in this problem has no capacitance, so the power factor 
+becomes 
+ 
+ 
+cosφ = 
+R
+R2 + XL
+2
+
+--- PAGE 20 ---
+Chapter 33     537 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+In order for the power factor to be equal to 1.00, we would have to 
+have XL = 0, which would require either L or f to be zero. Because this 
+is not the case, the situation is impossible. 
+P33.35 
+From the definition of impedance, Z =
+R2 + XL −XC
+(
+)
+2 , we have 
+ 
+ 
+ XL −XC
+(
+) =
+Z2 −R2 
+ 
+Substituting numerical values, 
+ 
+ 
+XL −XC
+(
+) =
+75.0 Ω
+(
+)
+2 −45.0 Ω
+(
+)
+2 = 60.0 Ω 
+ 
+The phase angle of the circuit is then 
+ 
+ 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 60.0 Ω
+45.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= 53.1°
+ 
+ 
+The rms current in the circuit is 
+ 
+ 
+Irms = ΔVrms
+Z
+= 210 V
+75.0 Ω = 2.80 A
+ 
+ 
+Therefore, the power delivered to the circuit is 
+ 
+ 
+P = ΔVrms
+(
+)Irms cosφ = 210 V
+(
+) 2.80 A
+(
+)cos 53.1°
+(
+) = 353 W 
+P33.36 
+The rms voltage of the power supply is  
+ 
+ 
+ 
+ΔVrms = 100 V
+2
+= 70.7 V 
+ 
+In order to calculate the impedance, we first need the capacitive and 
+inductive reactances:  
+ 
+ 
+ 
+XC =
+1
+ωC =
+1
+1 000 s–1
+(
+) 5.00 × 10–6 F
+(
+)
+= 200 Ω 
+ 
+ 
+ 
+XL = ω L = (1 000 s
+–1)(0.500 H) = 500 Ω 
+ 
+Next, 
+ 
+ 
+ 
+Z =
+R2 + (XL – XC)2
+=
+(400 Ω)2 + (500 Ω – 200 Ω)2 = 500 Ω
+  
+ 
+The rms current is 
+ 
+ 
+ 
+Irms = ΔVrms
+Z
+= 70.7 V
+500 Ω = 0.141 A 
+ 
+The average power is Pavg = Irms
+2 R = (0.141 A)2(400 Ω) = 8.00 W
+
+--- PAGE 21 ---
+538     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.37 
+The rms current in the circuit is  
+ 
+ 
+ 
+Irms = ΔVrms
+Z
+= 160 V
+80.0 Ω = 2.00 A 
+ 
+and the average power delivered to the circuit is  
+ 
+ 
+ 
+Pavg = Irms
+2 R = 2.00 A
+(
+)
+2 22.0 Ω
+(
+) = 88.0 W 
+P33.38 
+Given v = ΔVmax sin ωt
+(
+) = 90.0 V
+(
+)sin 350t
+(
+), observe that 
+ΔVmax = 90.0 V and ω = 350 rad/s. Also, the net reactance is  
+ 
+ 
+ 
+XL −XC = 2π fL −
+1
+2π fC = ωL −1
+ωC
+ 
+ 
+(a) 
+To find the impedance, we first compute 
+ 
+ 
+ 
+ 
+ 
+XL −XC = ωL −1
+ωC
+= 350 rad s
+(
+) 0.200 H
+(
+)−
+1
+350 rad s
+(
+) 25.0 × 10−6 F
+(
+)
+= −44.3 Ω
+  
+ 
+ 
+so the impedance is 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 =
+50.0 Ω
+(
+)
+2 + −44.3 Ω
+(
+)
+2 = 66.8 Ω 
+ 
+(b) The rms current in the circuit is 
+ 
+ 
+ 
+Irms = ΔVrms
+Z
+= ΔVmax
+2
+Z
+=
+90.0 V
+2 66.8 Ω
+(
+)
+= 0.953 A 
+ 
+(c) 
+The phase difference between the applied voltage and the current 
+is 
+ 
+ 
+ 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 −44.3 Ω
+50.0 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= −41.5° 
+ 
+ 
+so the average power delivered to the circuit is  
+ 
+ 
+ 
+Pavg = IrmsΔVrmscosφ = Irms
+ΔVmax
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cosφ
+= 0.953 A
+(
+) 90.0 V
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos −41.5°
+(
+) = 45.4 W
+ 
+P33.39 
+The power is given by 
+ 
+ 
+Pavg = IrmsΔVrmscosφ = Irms
+2 R
+
+--- PAGE 22 ---
+Chapter 33     539 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Then, 
+ 
+ 
+ 
+P = Irms ΔVrms
+(
+)cosφ = 9.00 A
+(
+) 180 V
+(
+)cos −37.0°
+(
+)
+= 1.29 × 103 W
+ 
+ 
+ 
+Then, from P = Irms
+2 R ,  
+ 
+ 
+ 
+R = P
+Irms
+2
+= 1.29 × 103 W
+9.00 A
+(
+)
+2
+= 16.0 Ω
+  
+ 
+(b) From the definition of phase angle, tanφ = XL −XC
+R
+,  
+ 
+ 
+ 
+XL −XC = Rtanφ = 16.0 Ω
+(
+)tan −37.0°
+(
+) = −12.0 Ω 
+P33.40 
+For this circuit, R = 20.0 Ω, the capacitive reactance is XC = 0, and the 
+inductive reactance is 
+ 
+ 
+ 
+XL = ω L = 2π 60.0 s−1
+(
+) 0.025 0 H
+(
+) = 9.42 Ω 
+ 
+The impedance of the circuit is 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 =
+20.0 Ω
+(
+)
+2 + 9.42 Ω
+(
+)
+2 = 22.1 Ω
+ 
+ 
+(a) 
+The rms current in the circuit is 
+ 
+ 
+ 
+Irms = ΔVrms
+Z
+= 120 V
+22.1 Ω = 5.43 A 
+ 
+(b) The phase angle of the circuit is 
+ 
+ 
+ 
+φ = tan−1 9.42
+20.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 25.2°  
+ 
+ 
+so the power factor is 
+ 
+ 
+ 
+cosφ = 0.905 
+ 
+(c) 
+For the power factor to equal 1, we require φ = 0, and this can 
+only occur if XL = XC, or  
+ 
+ 
+ 
+9.42 Ω =
+1
+2π 60.0 s−1
+(
+)C
+→C = 281 µF 
+ 
+(d) For the power to equal that before the capacitor was installed, or 
+Pb = Pd, we require  
+ 
+ 
+ 
+ΔVrms
+(
+)b Irms
+(
+)b cosφb = ΔVrms
+(
+)d
+2
+R
+
+--- PAGE 23 ---
+540     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for the rms voltage gives 
+ 
+ 
+ 
+ΔVrms
+(
+)d =
+R ΔVrms
+(
+)b Irms
+(
+)b cosφb
+=
+20.0 Ω
+(
+) 120 V
+(
+) 5.43 A
+(
+) 0.905
+(
+)
+= 109 V
+ 
+P33.41 
+One-half of the time, the left side of the 
+generator is positive, the top diode conducts, 
+and the bottom diode switches off. The power 
+supply sees resistance 
+ 
+ 
+ 
+1
+2R + 1
+2R
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= R 
+ 
+and the power is ΔVrms
+(
+)
+2
+R
+. 
+ 
+The other half of the time the right side of the generator is positive, the 
+upper diode is an open circuit, and the lower diode has zero resistance. 
+The equivalent resistance is then 
+ 
+ 
+ 
+Req = R +
+1
+3R + 1
+R
+⎡
+⎣⎢
+⎤
+⎦⎥
+−1
+= 7R
+4
+     
+ 
+and  
+P = ΔVrms
+(
+)
+2
+Req
+= 4 ΔVrms
+(
+)
+2
+7R
+ 
+ 
+The overall time average power is:  
+ 
+ 
+ 
+Pavg =
+ΔVrms
+(
+)
+2 R
+⎡⎣
+⎤⎦+ 4 ΔVrms
+(
+)
+2 7R
+⎡⎣
+⎤⎦
+2
+=
+11 ΔVrms
+(
+)
+2
+14R
+ 
+ 
+ 
+ 
+Section 33.7 
+Resonance in a Series RLC Circuit 
+P33.42 
+We are given L = 0.020 0 H, C = 100 × 10
+–9 F, R = 20.0 Ω, and  
+ΔVmax = 100 V.  
+ 
+(a) 
+The resonant frequency for a series RLC circuit is  
+ 
+ 
+ 
+f = ω0
+2π = 1
+2π
+1
+LC = 3.56 kHz 
+ 
+ANS. FIG. P33.41
+
+--- PAGE 24 ---
+Chapter 33     541 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At resonance,  
+ 
+ 
+ 
+Imax = ΔVmax
+R
+= 5.00 A 
+ 
+(c) 
+From Equation 33.38,  
+ 
+ 
+ 
+Q = ω0L
+R = 22.4 
+ 
+(d) At resonance, the amplitude of the voltage across the inductor is 
+ 
+ 
+ 
+ΔVL, max = XLImax = ω0LImax = 2.24 kV 
+P33.43 
+The circuit is to be in resonance when  
+ 
+ 
+ω 0L =
+1
+ω 0C
+ 
+ 
+Solving for the capacitance gives 
+ 
+ 
+ 
+C =
+1
+ω 0
+2L =
+1
+4π 2 f 2L =
+1
+4π 2(99.7 MHz)2(1.40 µV ⋅s/A)
+= 1.82 pF
+ 
+P33.44 
+(a) 
+The resonance frequency of a RLC circuit is f0 = 1 2π
+LC . Thus, 
+the inductance is 
+ 
+ 
+ 
+L =
+1
+4π 2 f0
+2C =
+1
+4π 2 9.00 × 109 Hz
+(
+)
+2 2.00 × 10−12 F
+(
+)
+= 1.56 × 10−10 H = 156 pH
+ 
+ 
+(b) At resonance,  
+ 
+ 
+ 
+XL = XC =
+1
+2π f0C =
+1
+2π 9.00 × 109 Hz
+(
+) 2.00 × 10−12 F
+(
+)
+= 8.84 Ω
+  
+P33.45 
+The resonance frequency is ω0 =
+1
+LC . Thus, if ω = 2ω0 , then 
+ 
+  
+ 
+XL = ω L =
+2
+LC
+⎛
+⎝⎜
+⎞
+⎠⎟L = 2
+L
+C
+    
+ 
+ and  
+XC =
+1
+ω C =
+LC
+2C = 1
+2
+L
+C
+
+--- PAGE 25 ---
+542     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ The impedance of the circuit is  
+ 
+  
+Z =
+R2 + XL −XC
+(
+)
+2 =
+R2 + 2.25 L
+C
+⎛
+⎝⎜
+⎞
+⎠⎟    
+ 
+so the rms current in the circuit is 
+ 
+ 
+Irms = ΔVrms
+Z
+=
+ΔVrms
+R2 + 2.25 L C
+(
+)
+ 
+ 
+The power delivered to the circuit is 
+ 
+  
+P= Irms
+(
+)
+2 R =
+ΔVrms
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R = ΔVrms
+(
+)
+2
+Z2
+R =
+ΔVrms
+(
+)
+2 R
+R2 + 2.25 L C
+(
+)
+ 
+ 
+and the energy delivered in one period is E = PΔt: 
+ 
+ 
+E = PΔt =
+ΔVrms
+(
+)
+2 R
+R2 + 2.25 L C
+(
+)
+2π
+ω
+⎛
+⎝⎜
+⎞
+⎠⎟= ΔVrms
+(
+)
+2 RC
+R2C + 2.25L π
+LC
+(
+)
+= 4π ΔVrms
+(
+)
+2 RC LC
+4R2C + 9L
+ 
+ 
+Substituting numerical values, 
+ 
+E =
+4π 50.0V
+(
+)
+2 10.0 Ω
+(
+) 100 × 10−6 F
+(
+)
+10.0 × 10−3 H
+(
+) 100 × 10−6 F
+(
+)
+⎡⎣
+⎤⎦
+1 2
+4 10.0 Ω
+(
+)
+2 100 × 10−6 F
+(
+)+ 9 10.0 × 10−3 H
+(
+)
+= 242 mJ
+ 
+P33.46 
+The resonance frequency is ω0 =
+1
+LC
+. Thus, if ω = 2ω0 , then 
+ 
+  
+ 
+XL = ω L =
+2
+LC
+⎛
+⎝⎜
+⎞
+⎠⎟L = 2
+L
+C
+    
+ 
+ and  
+XC =
+1
+ω C =
+LC
+2C = 1
+2
+L
+C 
+ 
+ The impedance of the circuit is  
+ 
+  
+Z =
+R2 + XL −XC
+(
+)
+2 =
+R2 + 2.25 L
+C
+⎛
+⎝⎜
+⎞
+⎠⎟    
+ 
+so the rms current in the circuit is 
+ 
+ 
+Irms = ΔVrms
+Z
+=
+ΔVrms
+R2 + 2.25 L C
+(
+)
+
+--- PAGE 26 ---
+Chapter 33     543 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The power delivered to the circuit is 
+ 
+  
+P= Irms
+(
+)
+2 R =
+ΔVrms
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R = ΔVrms
+(
+)
+2
+Z2
+R =
+ΔVrms
+(
+)
+2 R
+R2 + 2.25 L C
+(
+)
+ 
+ 
+and the energy delivered in one period is E = PΔt: 
+ 
+ 
+E = PΔt =
+ΔVrms
+(
+)
+2 R
+R2 + 2.25 L C
+(
+)
+2π
+ω
+⎛
+⎝⎜
+⎞
+⎠⎟= ΔVrms
+(
+)
+2 RC
+R2C + 2.25L π
+LC
+(
+)
+= 4π ΔVrms
+(
+)
+2 RC LC
+4R2C + 9L
+ 
+P33.47 
+(a) 
+To find the capacitance, we note that f =
+1
+2π
+LC . Solving for the 
+capacitance C gives 
+ 
+ 
+ 
+C =
+1
+4π 2 f 2L
+=
+1
+4π 2 1.00 × 1010 Hz
+(
+)
+2 400 × 10−12 H
+(
+)
+= 6.33 × 10−13 F = 0.633 pF
+ 
+ 
+(b) From Equation 26.15 for the capacitance of parallel plates with a 
+dielectric, we have  
+ 
+ 
+ 
+C = κ ∈0 A
+d
+= κ ∈0 2
+d
+ 
+ 
+ 
+Solving for the edge length gives 
+ 
+ 
+ 
+=
+Cd
+κ ∈0
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+6.33 × 10−13 F
+(
+) 1.00 × 10−3 m
+(
+)
+1( ) 8.85 × 10−12 F
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 8.46 × 10−3 m = 8.46 mm
+ 
+ 
+(c) 
+The inductive reactance of the circuit at resonance, equal to the 
+capacitive reactance, is 
+ 
+ 
+ 
+XL = 2π f L = 2π 1.00 × 1010 Hz
+(
+) 400 × 10−12 H
+(
+) = 25.1 Ω
+
+--- PAGE 27 ---
+544     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 33.8 
+The Transformer and Power Transmission 
+P33.48 
+(a) 
+The output voltage is found from Equation 33.41, Δv2 = N2
+N1
+Δv1. 
+Therefore, 
+ 
+ 
+ 
+Δv2 = 1
+13 120 V
+(
+) = 9.23 V
+ 
+ 
+(b) Assuming an ideal transformer, P2 = P1. Therefore, 
+ 
+ 
+ 
+     
+ΔV2I2 = ΔV1I1 = 120 V
+(
+) 0.0200A
+(
+) = 2.40 W
+ 
+P33.49 
+The rms primary voltage is 
+ 
+ 
+  
+ΔV1,rms = 170 V
+2
+= 120 V 
+ 
+The rms voltage across the bigger coil is 
+ 
+ 
+ 
+ΔV2,rms =
+N2
+N1
+⎛
+⎝⎜
+⎞
+⎠⎟ΔV1,rms =
+2000
+350
+⎛
+⎝⎜
+⎞
+⎠⎟(120 V) = 687 V
+ 
+P33.50 
+(a) 
+The total resistance of the transmission line is 
+ 
+ 
+ 
+R = 4.50 × 10−4 Ω/m
+(
+) 6.44 × 105 m
+(
+) = 290 Ω  
+ 
+ 
+and the rms current in the line is 
+ 
+ 
+ 
+Irms =
+P
+ΔVrms
+= 5.00 × 106 W
+5.00 × 105 V = 10.0 A
+ 
+ 
+ 
+The power loss during transmission is 
+ 
+ 
+ 
+Ploss = Irms
+2 R = 10.0 A
+(
+)
+2 290 Ω
+(
+) = 29.0 kW 
+ 
+(b) The fraction of input power lost is 
+ 
+ 
+ 
+Ploss
+P = 2.90 × 104 W
+5.00 × 106 W = 5.80 × 10−3 
+ 
+(c) 
+It is impossible to transmit so much power at such low voltage. 
+Maximum power transfer occurs when load resistance equals the 
+line resistance of 290 Ω, and is 4.50 × 103 V
+(
+)
+2
+2⋅2 290 Ω
+(
+)
+= 17.5 kW, far 
+below the required 5 000 kW.
+
+--- PAGE 28 ---
+Chapter 33     545 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.51 
+We find the voltage in the primary coil: 
+ 
+ 
+ 
+ΔV1
+ΔV2
+= N1
+N2
+  →  ΔV1 = ΔV2
+N1
+N2
+= 25.0 V
+(
+) 2.50
+(
+) = 62.5 V 
+ 
+The (average) power delivered to the load resistance is  
+ 
+ 
+ 
+P = I2ΔV2 = ΔV2
+(
+)
+2
+R2
+= 25.0 V
+(
+)
+2
+50.0 Ω
+= 12.5 W 
+ 
+which is equal to the power delivered to the primary coil; thus, the 
+(rms) current on the primary side is  
+ 
+ 
+I1 =
+P
+ΔV1
+= 12.5 W
+62.5 V = 0.200 A 
+ 
+On the primary side of the transformer, the voltages across the resistor 
+and transformer (inductor) are 90° out of phase. Therefore,  
+ 
+ 
+ 
+  ΔVrms
+(
+)
+2 = ΔVL,rms
+(
+)
+2 + ΔVR,rms
+(
+)
+2
+80.0 V
+(
+)
+2 = 62.5 V
+(
+)
+2 + ΔVR,rms
+(
+)
+2
+    ΔVR,rms = 49.9 V
+ 
+ 
+and 
+ 
+ 
+ 
+ΔVR,rms = 49.9 V = IrmsR
+R = ΔVR,rms
+Irms
+= 49.9 V
+0.200 A = 250 Ω 
+P33.52 
+The capacitive reactance of this “circuit” is 
+ 
+ 
+ 
+XC =
+1
+2π f C =
+1
+2π 60.0 Hz
+(
+) 20.0 × 10−12 F
+(
+)
+= 1.33 × 108 Ω 
+ 
+and the impedance is 
+ 
+ 
+ 
+Z =
+50.0 × 103 Ω
+(
+)
+2 + 1.33 × 108 Ω
+(
+)
+2 ≈1.33 × 108 Ω
+ 
+ 
+The rms current is then 
+ 
+ 
+ 
+Irms = ΔVrms
+Z
+=
+5 000 V
+1.33 × 108 Ω = 3.77 × 10−5 A
+ 
+ 
+and the rms voltage across the person’s body is 
+ 
+ 
+ 
+ΔVrms
+(
+)body = IrmsRbody = 3.77 × 10−5 A
+(
+) 50.0 × 103 Ω
+(
+)
+= 1.88 V
+
+--- PAGE 29 ---
+546     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 33.9 
+Rectifiers and Filters 
+P33.53 
+For this RC high-pass filter, the voltage gain ratio is 
+ 
+ 
+ΔVout
+ΔVin
+= ImaxR
+ImaxZ =
+R
+R2 + XC
+2 
+ 
+With a capacitance of 613 µF and a frequency of 600 Hz, the capacitive 
+reactance is 
+ 
+ 
+XC =
+1
+2π 600 Hz
+(
+) 6.13 × 10−4 F
+(
+)
+= 0.433 Ω
+ 
+ 
+and 
+ΔVout
+ΔVin
+=
+R
+R2 + XC
+2 =
+0.500 Ω
+0.500 Ω
+(
+)
+2 + 0.433 Ω
+(
+)
+2 = 0.756 
+P33.54 
+(a) 
+The amplitude of the input voltage is  
+ 
+ 
+ 
+ΔVin = ImaxZ = Imax
+R2 + XC
+2 = Imax
+R2 +
+1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+The amplitude of the output voltage is ΔVout = ImaxR . The gain 
+ratio is 
+ 
+ 
+ 
+ΔVout
+ΔVin
+=
+ImaxR
+Imax
+R2 + 1 ω C
+(
+)
+2 =
+R
+R2 + 1 ω C
+(
+)
+2 
+ 
+(b) As ω →0, 1
+ω C →∞, and ΔVout
+ΔVin
+→0 . 
+ 
+(c) 
+As ω →∞, 1
+ω C →0, and ΔVout
+ΔVin
+→R
+R = 1 . 
+P33.55 
+(a) 
+The input power is 8 W, and the useful output power is given by 
+ 
+ 
+ 
+IΔV = 0.3 A
+(
+) 9 V
+(
+) = 2.7 W 
+ 
+ 
+The efficiency is then 
+ 
+ 
+ 
+efficiency = useful output
+total input
+= 2.7 W
+8 W = 0.34 →34% 
+ 
+(b) Total input power = Total output power 
+ 
+ 
+ 
+8 W = 2.7 W + wasted power
+wasted power = 5.3 W
+
+--- PAGE 30 ---
+Chapter 33     547 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+E = PΔt = 6 8 W
+(
+)
+[
+]
+31 d
+(
+) 86 400 s
+1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 1.29 × 108 J
+$0.110
+3.6 × 106 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= $3.9
+ 
+P33.56 
+(a) 
+The amplitude of the input voltage is  
+ 
+ 
+ 
+ΔVin = IZ = Imax
+R2 + XC
+2 = Imax
+R2 + 1 ω C
+(
+)
+2 
+ 
+ 
+The amplitude of the output voltage is  
+ 
+ 
+ 
+ΔVout = ImaxXC = Imax
+ω C . 
+ 
+ 
+The gain ratio is therefore  
+ 
+ 
+ 
+ΔVout
+ΔVin
+=
+Imax ω C
+Imax
+R2 + 1 ω C
+(
+)
+2 =
+1 ω C
+R2 + 1 ω C
+(
+)
+2 
+ 
+(b) As ω →0, 1
+ω C →∞ and R becomes negligible in comparison. 
+Then, 
+ 
+ 
+ 
+ΔVout
+ΔVin
+→1 ω C
+1 ω C = 1 
+ 
+(c) 
+As ω →∞, 1
+ω C →0 and ΔVout
+ΔVin
+→0 . 
+ 
+(d) We start  with 
+ 
+ 
+ 
+ 
+1
+2 =
+1 ω C
+R2 + 1 ω C
+(
+)
+2  
+ 
+ 
+ 
+Solving,  
+ 
+ 
+ 
+R2 +
+1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+4
+ω 2C2
+ 
+ 
+ 
+or 
+R2ω 2C2 = 3.  
+ 
+ 
+Then, 
+ 
+ 
+ 
+ω = 2π f =
+3
+RC   →    f =
+3
+2πRC
+
+--- PAGE 31 ---
+548     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P33.57 
+(a) 
+We determine the number of turns from 
+ 
+ 
+ 
+ΔV2, rms
+(
+) = N2
+N1
+ΔV1, rms
+(
+)
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+N2 = 80
+(
+) 2 200 V
+(
+)
+110 V
+= 1 600 windings 
+ 
+(b) Assuming ideal conditions, 
+ 
+ 
+ 
+I1, rms ΔV1, rms
+(
+) = I2, rms ΔV2, rms
+(
+) 
+ 
+ 
+ 
+Solving for the rms current in the primary then gives 
+ 
+ 
+ 
+I1, rms = 1.50 A
+(
+) 2 200 V
+(
+)
+110 V
+= 30.0 A 
+ 
+(c) 
+For 95.0% efficiency, 
+ 
+ 
+ 
+0.950I1, rms ΔV1, rms
+(
+) = I2, rms ΔV2, rms
+(
+)  
+ 
+ 
+and the rms current in the primary  is 
+ 
+ 
+ 
+I1, rms = 1.20 A
+(
+) 2 200 V
+(
+)
+0.950
+(
+) 110 V
+(
+)
+= 25.3 A
+ 
+P33.58 
+From Equation 33.35, the resonance frequency for this circuit is 
+ 
+ 
+ 
+f = ω
+2π =
+1
+2π
+LC  
+=
+1
+2π
+2.80 × 10−6 H
+(
+) 0.910 × 10−12 F
+(
+)
+= 99.7 MHz
+ 
+ 
+This frequency is not in the range of North American AM frequencies, 
+which can be found from Internet research to be 520 kHz – 1 610 kHz. 
+The frequency above is appropriate for an North American FM radio 
+station.  
+P33.59 
+(a) 
+The maximum voltage is given by 
+ 
+ 
+ 
+ΔVmax =
+ΔVR
+(
+)
+2 + ΔVL −ΔVC
+(
+)
+2
+=
+20.0 V
+(
+)
+2 + 25.0 V −15.0 V
+(
+)
+2
+= 22.4 V
+
+--- PAGE 32 ---
+Chapter 33     549 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+φ = tan−1 ΔVL −ΔVC
+ΔVR
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 25.0 V −15.0 V
+20.0 V
+⎛
+⎝⎜
+⎞
+⎠⎟= 26.6° 
+ 
+(c) 
+The current amplitude Imax determines the voltage amplitude in 
+each component of the circuit. We know the resistance R, so  
+ 
+ 
+ 
+ΔVR = ImaxR    →    Imax = ΔVR
+R
+= 20.0 V
+75.0 Ω = 0.267 A 
+ 
+(d) For the entire circuit,  
+ 
+ 
+ 
+ΔVmax = ImaxZ   →    Z = ΔVmax
+Imax
+= 83.9 Ω 
+ 
+(e) 
+For the capacitor,  
+ 
+ 
+ 
+ΔVC = ImaxXC   →   XC = ΔVC
+Imax
+= 15.0 V
+Imax
+= 56.3 Ω =
+1
+2π fC
+ 
+ 
+ 
+therefore, 
+ 
+ 
+ 
+C =
+1
+2π fXC
+=
+1
+2π 60.0 Hz
+(
+)XC
+= 4.72 × 10−5 F = 47.2 µF
+ 
+ 
+(f) 
+For the inductor,  
+ 
+ 
+ 
+ΔVL = ImaxXL = Imax 2π fL
+(
+)  
+ 
+ 
+therefore, 
+ 
+ 
+ 
+L =
+ΔVL
+2π fImax
+=
+25.0 V
+2π 60.0 Hz
+(
+)Imax
+= 0.249 H
+ 
+ 
+(g) The average power delivered to the circuit is  
+ 
+ 
+ 
+Pavg = Irms
+2 R =
+I max
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R = 2.67 W 
+P33.60 
+We identify that R = 200 Ω , L = 663 mH, C = 26.5 µF, ω = 377 rad/s, 
+and ΔVmax = 50.0 V. So,  
+ 
+ 
+  
+ω L = 250 Ω , and 1/ω C = 100 Ω 
+ 
+ 
+The impedance is 
+ 
+ 
+  
+Z =
+R2 + ω L –
+1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+(200 Ω)2 +(250 Ω – 100 Ω)2
+= 250 Ω
+ 
+ 
+ 
+(a) 
+The amplitude of the current is  
+ 
+ 
+ 
+  
+Imax = ΔVmax
+Z
+= 50.0 V
+250 Ω = 0.200 A
+
+--- PAGE 33 ---
+550     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+The phase angle of the voltage relative to the current is  
+ 
+ 
+ 
+  
+φ = tan–1 XL – XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= 36.8  
+ 
+ 
+ 
+with Δv  leading i → 
+ 
+(b) 
+ΔVR, max = ImaxR = 40.0 V at φ = 0° 
+ 
+(c) 
+ΔVC, max = ImaxXC = 20.0 V at φ = −90.0° (I leads ΔV ) 
+ 
+(d) 
+ΔVL, max = ImaxXL = 50.0 V at φ = +90.0° ( ΔV leads I) 
+P33.61 
+Consider a two-wire transmission line: each wire has resistance R, the 
+total power transmitted is P, and the current in the wires is 
+Irms =
+P
+ΔVrms
+. The power loss is 1.00% of the transmitted power P. 
+Therefore,  
+ 
+ 
+Ploss = Irms
+2 Rline = P
+100
+Ploss =
+P
+ΔVrms
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2R
+(
+) = P
+100
+ 
+ 
+Solving for the resistance gives 
+ 
+ 
+R = ΔVrms
+(
+)
+2
+200P
+ 
+ 
+The resistance of one wire is  
+ 
+ 
+R = ρCu
+A
+= ΔVrms
+(
+)
+2
+200P
+ 
+ 
+Solving for the area gives 
+ 
+ 
+A = πd2
+4
+= 200ρCuP
+ΔVrms
+(
+)
+2
+ 
+ 
+and the diameter is  
+ 
+ 
+d =
+800ρCuP
+π ΔVrms
+(
+)
+2
+=
+800(1.7 × 10−8 Ω⋅m) 20 000 W
+(
+) 18 000 m
+(
+)
+π 1.50 × 103 V
+(
+)
+2
+= 0.026 m = 2.6 cm
+
+--- PAGE 34 ---
+Chapter 33     551 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.62 
+Consider a two-wire transmission line: each wire has resistance R, the 
+total power transmitted is P, and the current in the wires is 
+Irms =
+P
+ΔVrms
+. The fractional power loss is f of the transmitted power P. 
+Therefore,  
+ 
+ 
+Ploss = Irms
+2 Rline = fP 
+ 
+ 
+Ploss =
+P
+ΔVrms
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+2R
+(
+) = fP
+→
+R = f ΔVrms
+(
+)
+2
+2P
+ 
+ 
+The resistance of one wire is  
+ 
+ 
+R = ρCu
+A
+= ΔVrms
+(
+)
+2
+200P
+ 
+ 
+Solving for the area gives 
+ 
+ 
+A = πd2
+4
+= 200ρCuP
+ΔVrms
+(
+)
+2
+ 
+ 
+and the diameter is  
+ 
+ 
+d =
+8ρCu P
+π f ΔVrms
+(
+)
+2 
+P33.63 
+(a) 
+The impedance is given by  
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 
+ 
+ 
+From which we obtain 
+ 
+ 
+ 
+XC = XL ±
+Z2 −R2
+XC = XL +
+Z2 −R2
+= 700 Ω +
+760 Ω
+(
+)
+2 −400 Ω
+(
+)
+2 = 1 346 Ω = 1.35 kΩ
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+XC = XL −
+Z2 −R2
+= 700 Ω −
+760 Ω
+(
+)
+2 −400 Ω
+(
+)
+2 = 53.8 Ω
+ 
+ 
+ 
+X C could be  53.8 Ω or it could be 1.35 kΩ.
+
+--- PAGE 35 ---
+552     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The power delivered to the circuit is given by 
+ 
+ 
+ 
+P = Irms
+(
+)
+2 R = ΔVrms
+(
+)
+2
+Z2
+R 
+ 
+ 
+If the power is decreased as the frequency is raised, then the 
+impedance is increased, so the inductive reactance is greater than 
+the capacitive reactance, and the circuit must be above resonance:  
+ 
+ 
+ 
+XL > XC   →   ωL > 1 ωC   →   ω > 1
+LC   →   ω > ω0 
+ 
+ 
+Therefore, the inductive reactance 700 Ω and the 
+capacitive reactance is 53.8 Ω. 
+ 
+(c) 
+Now, 
+ 
+ 
+ 
+XC = XL ±
+Z2 −R2 = 700 ±
+760
+(
+)
+2 −200
+(
+)
+2 = 700 ± 733 
+ 
+ 
+Here XC = 700 – 733 = –33 Ω is impossible, but  
+XC = 700 + 733 = 1433 = 1.43 kΩ is possible. 
+ 
+ 
+XC must be 1.43 kΩ. 
+P33.64 
+The equation for Δv(t) during the first period (using y = mx + b) is: 
+ 
+ 
+Δv = 2 ΔVmax
+(
+)t
+T
+−ΔVmax = ΔVmax
+2t
+T −1
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+Therefore,  
+ 
+ 
+Δv
+(
+)
+2
+⎡⎣
+⎤⎦avg = 1
+T
+Δv t( )
+[
+]
+2 dt
+0
+T
+∫
+= ΔVmax
+(
+)
+2
+T
+2
+T t −1
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+dt
+0
+T
+∫
+ 
+ 
+ 
+Δv
+(
+)
+2
+⎡⎣
+⎤⎦avg = ΔVmax
+(
+)
+2
+T
+T
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2t T −1
+[
+]
+3
+3
+t=0
+t=T
+= ΔVmax
+(
+)
+2
+6
++1
+(
+)
+3 −−1
+(
+)
+3
+⎡⎣
+⎤⎦= ΔVmax
+(
+)
+2
+3
+ 
+ 
+Then, 
+ΔVrms =
+Δv
+(
+)
+2
+⎡⎣
+⎤⎦avg =
+ΔVmax
+(
+)
+2
+3
+= ΔVmax
+3
+ 
+ 
+ANS. FIG. P33.64
+
+--- PAGE 36 ---
+Chapter 33     553 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.65 
+The turns ratio is the factor of change in voltage:  
+ 
+ 
+ 
+N1
+N2
+= ΔV1
+ΔV2
+ 
+ 
+with 
+Z1 = ΔV1
+I1
+and
+Z2 = ΔV2
+I2
+ 
+ 
+we have 
+N1
+N2
+= Z1I1
+Z2I2
+ 
+ 
+ 
+(a) 
+Since I1
+I2
+= N2
+N1
+, we find 
+ 
+ 
+ 
+  
+N1
+N2
+= Z1N2
+Z2N1
+so
+N1
+2
+N2
+2 = Z1
+Z2
+and
+N1
+N2
+=
+Z1
+Z2
+ 
+ 
+(b) 
+N1
+N2
+=
+8 000 Ω
+8.00 Ω = 31.6 
+P33.66 
+(a) 
+The angular frequency is ω = 2π 60.0 Hz
+(
+) =377 s−1. 
+ 
+ 
+When S is open, R, L, and C are in series with the source, with 
+impedance 
+ 
+ 
+ 
+Z = ΔVrms
+Irms
+ 
+ 
+ 
+squaring both sides and substituting the definition of impedance 
+gives 
+ 
+ 
+  
+R2 + XL −XC
+(
+)
+2 =
+ΔVrms
+Irms
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+20.0 V
+0.183 A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1.194 × 104 Ω2 [1] 
+ 
+ 
+When S is in position a, a parallel combination of two R’s presents 
+equivalent resistance R
+2
+, in series with L and C. The square of the 
+impedance is then 
+ 
+ 
+ 
+ 
+R
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ XL −XC
+(
+)
+2 =
+20.0 V
+0.298 A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 4.504 × 103 Ω2 
+[2] 
+ 
+ 
+When S is in position b, the current bypasses the inductor. R and 
+C are in series with the source, and the square of the impedance is 
+ 
+ 
+ 
+R2 + XC
+2 =
+20.0 V
+0.137 A
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.131× 104 Ω2 
+[3]
+
+--- PAGE 37 ---
+554     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Subtract equation [2] from equation [1]: 
+ 
+ 
+ 
+3
+4 R2 = 7.440 × 103 Ω2
+→
+R = 99.6 Ω 
+ 
+ 
+Only the positive root is physical, thus there is only one value for R. 
+ 
+(b) We have shown than only one resistance value is possible. Now 
+equation [3] gives 
+ 
+ 
+ 
+XC = 2.131× 104 Ω2 −99.6 Ω
+(
+)
+2
+⎡⎣
+⎤⎦
+1 2
+= 106.7 Ω =
+1
+ω C 
+ 
+ 
+Only the positive root is physical, thus there is only one value for C.  
+ 
+ 
+ 
+C = ωXC
+(
+)
+−1 =
+377 s−1
+(
+)106.7 Ω
+⎡⎣
+⎤⎦
+−1
+= 2.49 × 10−5 F = 24.9 µF
+ 
+ 
+(c) 
+Now equation [1] gives 
+ 
+ 
+ 
+XL −XC = ± 1.194 × 104 Ω2 −99.6 Ω
+(
+)
+2
+⎡⎣
+⎤⎦
+1 2
+= ± 44.99 Ω 
+ 
+ 
+The equation shows us that there are two possible values for L.  
+ 
+ 
+ 
+XL = XC −44.99 Ω = 106.7 Ω −44.99 Ω = 61.74 Ω = ω L 
+ 
+ 
+or 
+ 
+ 
+ 
+XL = XC + 44.99 Ω = 106.7 Ω + 44.99 Ω = 151.7 Ω = ω L 
+ 
+ 
+then 
+ 
+ 
+ 
+L = XL
+ω = 0.164 H or 0.402 H = 164 mH or 402 mH
+ 
+ 
+(d) From the calculations above, we see that only one value for R and 
+only one value for C are possible. Two values for L are possible. 
+P33.67 
+(a) 
+We can use sin A + sinB = 2sin A
+2 + B
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cos A
+2 −B
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ to find the 
+sum of the two sine functions to be 
+ 
+ 
+ 
+E1 + E2 = 24.0 cm
+(
+)sin 4.50t + 35.0°
+(
+)cos35.0°
+E1 + E2 = 19.7 cm
+(
+)sin 4.50t + 35.0°
+(
+)
+ 
+ 
+ 
+Thus, the total wave has amplitude 19.7 cm and has a constant 
+phase difference of 35.0° from the first wave.
+
+--- PAGE 38 ---
+Chapter 33     555 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Refer to ANS. FIG. P33.67(b). In units of cm, the resultant phasor 
+is 
+ 
+ 
+ 
+yR = y1 + y2 = 12.0ˆi
+(
+)+ 12.0cos 70.0°
+(
+)ˆi + 12.0sin 70.0
+(
+)ˆj
+(
+)
+= 16.1ˆi + 11.3ˆj
+yR =
+16.1
+(
+)
+2 + 11.3
+(
+)
+2 at tan−1 11.3
+16.1
+⎛
+⎝⎜
+⎞
+⎠⎟= 19.7 cm at 35.0°
+ 
+ 
+ANS. FIG. P33.67(b) 
+ 
+(c) 
+The answers are identical. 
+ 
+(d) Refer to ANS. FIG. P33.67(d). Adding the three waves yields 
+ 
+ 
+ 
+yR = 12.0cos 70.0°
+(
+)ˆi + 12.0sin 70.0°
+(
+)ˆj
+     + 15.5cos −80.0°
+(
+)ˆi + 15.5sin −80.0°
+(
+)ˆj
+     + 17.0cos 160°
+(
+)ˆi + 17.0sin 160°
+(
+)ˆj
+yR = −9.18ˆi + 1.83ˆj = 9.36 cm at 169°
+ 
+ 
+ 
+The wave function of the total wave is  
+ 
+ 
+ 
+yR = 9.36 cm
+(
+)sin 15x −4.5t + 169°
+(
+) 
+ 
+ANS. FIG. P33.67(d) 
+P33.68 
+(a) 
+Higher. At the resonance frequency, XL = XC. As the frequency
+increases, XL goes up and XC goes down.
+ 
+ 
+(b) 
+It is possible. We have three independent equations in the three
+unknowns L, C, and the certain f .
+
+--- PAGE 39 ---
+556     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The equations are ω 0
+2 = 1
+LC = 2 000 s−1, XC = 1
+ωC = 8.00 Ω, and 
+XL = ωL = 12.0 Ω. From the inductive reactance,  
+ 
+ 
+ 
+XL = ωL     →ω = XL
+L
+ 
+ 
+ 
+then from the capacitive reactance, 
+ 
+ 
+ 
+XCω = 1
+ωC
+XL
+L
+ 
+ 
+ 
+ 
+solving for the angular frequency gives 
+ 
+ 
+ 
+ω 2 = XL
+XC
+1
+LC = XL
+XC
+ω 0
+2 =
+12.0 Ω
+8.00 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟2 000 s−1
+(
+)
+2 
+ 
+ 
+from which we obtain 
+ 
+ 
+ 
+ω = 2 450 s−1 
+ 
+ 
+Then, 
+ 
+ 
+ 
+L = XL
+ω =
+12.0 Ω
+2 450 s−1 = 4.90 × 10−3 H = 4.90 mH
+C =
+1
+ωXC
+=
+1
+2 450 s−1
+(
+) 8.00 Ω
+(
+) = 5.10 × 10−5 F = 51.0 µF
+ 
+P33.69 
+(a) 
+The lowest-frequency standing-wave pattern is N-A-N. The 
+distance between the clamps we represent as d = dNN = λ
+2 . The 
+speed of transverse waves on the string is v = f λ =
+T
+µ = f 2d . 
+The magnetic force on the wire oscillates at 60 Hz, so the wire will 
+oscillate in resonance at 60 Hz. From the speed of transverse 
+waves, 
+ 
+ 
+ 
+v = f λ =
+T
+µ = f 2d
+ 
+ 
+ 
+we obtain the period as 
+ 
+ 
+ 
+T = 4µ f 2d2 = 4 19.0 × 10−3 kg/m
+(
+) 60.0 Hz
+(
+)
+2 d2
+= 274 kg/m⋅s2
+(
+)d2
+ 
+ 
+ 
+Tension T and separation d must be related by T = 274d2 where
+T is in newtons and d is in meters.
+
+--- PAGE 40 ---
+Chapter 33     557 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+One possibility is T = 10.9 N and d = 0.200 m. Any values of T 
+and d related according to this expression will work. We did not 
+need to use the value of the current and magnetic field.  
+P33.70 
+(a) 
+See the graph in ANS. FIG. P33.70(a). 
+ 
+ANS. FIG. P33.70(a) 
+ 
+(b) 
+φ = tan−1 ωL −1/ωC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟ changes from –90° for ω = 0 to 0 at the 
+resonance frequency to +90° as ω goes to infinity.  
+ 
+ 
+The slope of the graph is  dφ/dω : 
+ 
+ 
+ 
+dφ
+dω =
+1
+1+ ωL −1/ωC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1
+R L −1
+C (−1) 1
+ω 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+R
+R2 + ωL −1/ωC
+(
+)
+2
+L +
+1
+ω 2C
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(c) 
+At resonance we have ω0
+2 = 1 LC ; substituting, we find the slope 
+at the resonance point is  
+ 
+ 
+ 
+dφ
+dω ω0
+=
+1
+R + 02
+L + LC
+C
+⎛
+⎝⎜
+⎞
+⎠⎟= 2L
+R = 2Q
+ω0
+ 
+ 
+ 
+where Q = ω0L R . 
+P33.71 
+(a) 
+When ω L is very large, Z is large for the bottom branch, so it 
+carries negligible current. Also, 1
+ω C will be negligible compared 
+to R for the top branch, so  
+ 
+ 
+ 
+I = V
+Z ≈V
+R = 45.0 V
+200 Ω = 0.225 A  
+ 
+ 
+flows in the power supply and the top branch.
+
+--- PAGE 41 ---
+558     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Now 1
+ω C is very large in the top branch and ω L is very small 
+compared to R in the bottom branch; the generator and bottom 
+branch carry  
+ 
+ 
+ 
+I = V
+Z ≈V
+R = 45.0 V
+100 Ω = 0.450 A 
+P33.72 
+(a) 
+With both switches closed, the current goes only through the 
+generator and resistor. 
+ 
+ 
+ 
+i = ΔVmax
+R
+cosω t
+ 
+ 
+(b) 
+P = 1
+2
+ΔVmax
+(
+)
+2
+R
+ 
+ 
+(c) 
+i =
+ΔVmax
+R2 +ω 2L2 cos ω t + tan−1 ω L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+(d) For 0 = φ = tan−1 ω0L −1 ω0C
+(
+)
+R
+⎛
+⎝⎜
+⎞
+⎠⎟,  
+ 
+ 
+We require ω0L =
+1
+ω0C , so C =
+1
+ω0
+2L 
+ 
+(e) 
+The frequency is the resonance frequency: Z = R 
+ 
+ 
+For parts (f) and (g), the circuit is at resonance, so Z = R and 
+XC = XL = ω0L . 
+ 
+(f) 
+To find the maximum energy stored in the capacitor, we start 
+with  
+ 
+ 
+ 
+U = 1
+2 C ΔVC
+(
+)
+2 = 1
+2 C IXC
+(
+)
+2 
+ 
+ 
+When I = Imax,  
+ 
+ 
+ 
+Umax = 1
+2 CImax
+2
+XC
+2 = 1
+2 C ΔVmax
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ω0L
+(
+)
+2 =
+ΔVmax
+(
+)
+2 L
+2R2
+ 
+ 
+(g) 
+Umax = 1
+2 LImax
+2
+=
+1
+2 L ΔVmax
+(
+)
+2
+R2
+
+--- PAGE 42 ---
+Chapter 33     559 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(h) Now ω = 2ω0 =
+2
+LC , so 
+ 
+ 
+ 
+φ = tan−1 ω L −1 ω C
+(
+)
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 2 L C −1 2
+(
+) L C
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+= tan−1
+3
+2R
+L
+C
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(i) 
+Now ω L = 1
+2
+1
+ω C , so ω =
+1
+2LC
+= ω0
+2
+ 
+P33.73 
+(a) 
+The inductive reactance of the circuit is 
+ 
+ 
+ 
+XL = 2π f L = 2π 50.0 Hz
+(
+) 0.250 H
+(
+) = 78.5 Ω 
+ 
+(b) The capacitive reactance of the circuit is  
+ 
+ 
+ 
+XC =
+1
+2π f C =
+1
+2π 50.0 Hz
+(
+) 2.00 × 10−6 F
+(
+)
+= 1.59 × 103 Ω = 1.59 kΩ
+ 
+ 
+(c) 
+The impedance of the circuit is 
+ 
+ 
+ 
+Z =
+R2 + XL −XC
+(
+)
+2 =
+150 Ω
+(
+)
+2 + 78.5 Ω −1590 Ω
+(
+)
+2
+= 1.52 × 103 Ω = 1.52 kΩ
+ 
+ 
+(d) The maximum current is 
+ 
+ 
+ 
+Imax = ΔVmax
+Z
+= 2.10 × 102 V
+1.52 × 103 Ω = 0.138 A = 138 mA 
+ 
+(e) 
+φ = tan−1 XL −XC
+R
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 78.5 Ω −1590 Ω
+150 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟= −84.3° 
+ 
+(f) 
+cosφ = cos tan−1 78.5 Ω −1 590 Ω
+150 Ω
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 0.098 7 
+ 
+(g) The power input into the circuit is 
+ 
+ 
+ 
+P = IrmsΔVrms cosφ = ΔVrms
+(
+)
+2
+Z
+cosφ =
+ΔVmax
+2
+(
+)
+2
+Z
+cosφ
+= ΔVmax
+(
+)
+2
+2Z
+cosφ
+P =
+210 V
+(
+)
+2
+2 1.52 × 103 Ω
+(
+)
+0.098 7
+(
+) = 1.43 W
+
+--- PAGE 43 ---
+560     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+P33.74 
+(a) 
+We are given XL = XC = 1 884 Ω when f = 2 000 Hz. The impedance 
+is then 
+ 
+ 
+ 
+L = XL
+2π f =
+1 884 Ω
+4 000π rad s = 0.150 H  
+ 
+ 
+and the capacitance is 
+ 
+ 
+ 
+C =
+1
+2π f
+(
+)XC
+=
+1
+4 000π rad s
+(
+) 1 884 Ω
+(
+)
+ = 42.2 nF
+ 
+ 
+ 
+therefore,  
+ 
+ 
+ 
+XL = 2π f 0.150 H
+(
+) 
+ 
+ 
+ 
+XC =
+1
+2π f
+(
+) 4.22 × 10−8 F
+(
+) 
+ 
+ 
+and 
+ 
+ 
+ 
+Z =
+40.0 Ω
+(
+)
+2 + XL −XC
+(
+)
+2 
+ 
+ 
+TABLE P33.74 lists the inductive reactance, the capacitive 
+reactance, and the impedance for the frequencies listed in the 
+problem statement.  
+f (Hz)
+XL (Ω)
+XC (Ω)
+Z(Ω)
+300
+600
+800
+1 000
+1 500
+2 000
+3 000
+4 000
+6 000
+10 000
+283
+565
+754
+942
+1 410
+1 880
+2 830
+3 770
+5 650
+9 420
+12 600
+6 280
+4 710
+3 770
+2 510
+1 880
+1 260
+942
+628
+377
+12 300
+5 720
+3 960
+2 830
+1 100
+40
+1 570
+2 830
+5 020
+9 040
+ 
+TABLE P33.74
+
+--- PAGE 44 ---
+Chapter 33     561 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) ANS. FIG. P33.74(b) shows a graph of XL , XC , and Z as a function 
+of the frequency f. 
+ 
+ANS. FIG. P33.74(b) 
+P33.75 
+The resonance frequency is  
+ 
+ 
+ 
+f0 =
+1
+2π
+LC
+=
+1
+2π (0.050 0 H)(5.00 × 10–6 F)
+= 318 Hz 
+ 
+The operating frequency is  f = f0/2 = 159 Hz. We can calculate the 
+impedance at this frequency. The inductive reactance is 
+ 
+ 
+ 
+XL = 2π f L = 2π (159 Hz)(0.050 0 H) = 50.0 Ω  
+ 
+The capacitive reactance is   
+ 
+ 
+ 
+XC =
+1
+2π fC =
+1
+2π(159 Hz)(5.00 × 10–6 F)
+= 200 Ω 
+ 
+The impedance is 
+ 
+ 
+ 
+Z =
+R2 + XL – XC
+(
+)
+2 =
+8.002 + (50.0 – 200)2 Ω = 150 Ω 
+ 
+So the current is  
+ 
+ 
+ 
+Irms =
+ΔVrms
+Z
+= 400 V
+150 Ω = 2.66 A 
+ 
+The power delivered by the source is the power delivered to the 
+resistor:  
+ 
+ 
+P = 2.66 A
+(
+)
+2 8.00Ω
+(
+) = 56.7 W 
+P33.76 
+(a) 
+At resonance,  
+  
+ 
+ 
+ω =
+1
+LC
+=
+1
+1.00 × 10–3 H
+(
+) 1.00 × 10–9 F
+(
+)
+= 1.00 × 106 rad/s
+
+--- PAGE 45 ---
+562     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+At that point, 
+ 
+ 
+ 
+ 
+Z = R = 1.00 Ω and I = 1.00 V
+1.00 Ω = 1.00 A 
+ 
+ 
+The power is 
+ 
+ 
+ 
+ 
+ 
+P = I
+2R = (1.00 A)
+2(1.00 Ω ) = 1.00 W 
+ 
+ 
+We compute the power at some other angular frequencies, listed 
+in TABLE P33.76.  
+ω
+ω0
+ωL Ω
+( )
+1
+ω C Ω
+( )
+Z Ω
+( )
+P = Irms
+2 R W
+(
+)
+0.9990
+0.9991
+0.9993
+0.9995
+0.9997
+0.9999
+1.0000
+1.0001
+1.0003
+1.0005
+1.0007
+1.0009
+1.0010
+  999.0
+  999.1
+  999.3
+  999.5
+  999.7
+  999.9
+1000
+1000.1
+1000.3
+1000.5
+1000.7
+1000.9
+1001
+1001.0
+1000.9
+1000.7
+1000.5
+1000.3
+1000.1
+1000.0
+  999.9
+  999.7
+  999.5
+  999.3
+  999.1
+  999.0
+2.24
+2.06
+1.72
+1.41
+1.17
+1.02
+1.00
+1.02
+1.17
+1.41
+1.72
+2.06
+2.24
+0.19984
+0.23569
+0.33768
+0.49987
+0.73524
+0.96153
+1.00000
+0.96154
+0.73535
+0.50012
+0.33799
+0.23601
+0.20016
+ 
+TABLE P33.76 
+ 
+ 
+ANS. FIG. P33.76 shows a graph of the results tabulated above. 
+ 
+ANS. FIG. P33.76 
+ 
+(b) The angular frequencies giving half the maximum power are  
+ 
+ 
+  
+0.999 5 × 10
+6 rad/s and 1.000 5 × 10
+6 rad/s
+
+--- PAGE 46 ---
+Chapter 33     563 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so the full width at half the maximum is  
+ 
+ 
+  
+Δω = (1.000 5 – 0.999 5) × 10
+6 rad/s 
+ 
+ 
+  
+Δω = 1.00 × 10
+3 rad/s 
+ 
+ 
+Since Δω = 2π Δf ,      Δf = 159 Hz  
+ 
+ 
+and for comparison,  
+ 
+ 
+  
+R
+2πL =
+1.00 Ω
+2π 1.00 × 10–3H
+(
+)
+= 159 Hz  
+ 
+ 
+The two quantities agree. 
+ 
+ 
+ 
+Challenge Problems 
+P33.77 
+We start with 
+ 
+ 
+ 
+Δvout
+Δvin
+= IR
+IZ = R
+Z =
+R
+R2 + XL −XC
+(
+)
+2
+=
+8.00 Ω
+8.00 Ω
+(
+)
+2 + 2π fL −1 2π f C
+[
+]
+2
+ 
+ 
+Then, at 200 Hz,  
+ 
+ 
+ 
+Δvout
+Δvin
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+R
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+4 =
+8.00 Ω
+(
+)
+2
+8.00 Ω
+(
+)
+2 + 400π L −1 400π C
+[
+]
+2 
+ 
+and at 4 000 Hz, 
+ 
+ 
+ 
+Δvout
+Δvin
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+R
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+4 =
+8.00 Ω
+(
+)
+2
+8.00 Ω
+(
+)
+2 + 8000π L −1 8000π C
+[
+]
+2 
+ 
+At the low frequency, XL – XC < 0. This reduces to  
+ 
+ 
+ 
+400π L −
+1
+400π C = −13.9 Ω 
+[1] 
+ 
+For the high frequency half-voltage point,  
+ 
+ 
+ 
+8 000π L −
+1
+8000π C = +13.9 Ω 
+[2] 
+ 
+Solving equations [1] and [2] simultaneously gives  
+ 
+(a) 
+L = 580 µH
+
+--- PAGE 47 ---
+564     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANS. FIG. P33.77(a) 
+ 
+(b) 
+C = 54.6 µF 
+ 
+(c) 
+When XL = XC, Δvout
+Δvin
+=
+Δvout
+Δvin
+⎛
+⎝⎜
+⎞
+⎠⎟
+max
+= 1.00 
+ 
+(d) XL = XC requires  
+ 
+ 
+ 
+f0 =
+1
+2π
+LC =
+1
+2π
+5.80 × 10−4 H
+(
+) 5.46 × 10−5 F
+(
+)
+= 894 Hz
+  
+ 
+(e) 
+At 200 Hz , Δvout
+Δvin
+= R
+Z = 1
+2 and XC > XL, so the phasor diagram is 
+as shown in ANS. FIG. P33.77(e). 
+ 
+ 
+ 
+φ = −cos−1 R
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟= −cos−1 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= −60.0° 
+ 
+ 
+so  
+Δvout leads Δvin
+(
+) . 
+ 
+ 
+At  f0 , XL = XC so 
+ 
+ 
+ 
+φ = 0 (Δvout is in phase with Δvin) . 
+ 
+ 
+At 4 000 Hz , Δvout
+Δvin
+= R
+Z = 1
+2 and XL – XC > 0. 
+ 
+ANS. FIG. P33.77(e) 
+ 
+ 
+Thus, φ = cos−1 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= +60.0° 
+ 
+ 
+or  
+Δvout lags Δvin .
+
+--- PAGE 48 ---
+Chapter 33     565 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(f) 
+At 200 Hz and at 4 kHz,  
+ 
+ 
+ 
+P = Δvout, rms
+(
+)
+2
+R
+=
+1 2
+(
+)Δvin, rms
+⎡⎣
+⎤⎦
+2
+R
+=
+1 4
+(
+) Δvin, max
+2
+(
+)
+2
+R
+= 1 2
+(
+) 10.0 V
+(
+)
+2
+4 8.00 Ω
+(
+)
+= 1.56 W
+ 
+ 
+ 
+At f0,  
+ 
+ 
+ 
+P =
+Δvout, rms
+(
+)
+2
+R
+=
+Δvin, rms
+(
+)
+2
+R
+=
+Δvin, max
+2
+(
+)
+2
+R
+= 1 2
+(
+) 10.0 V
+(
+)
+2
+8.00 Ω
+(
+)
+= 6.25 W
+ 
+ 
+(g) We take  
+ 
+ 
+ 
+Q = ω0L
+R = 2π f0L
+R
+=
+2π 894 Hz
+(
+) 5.80 × 10−4 H
+(
+)
+8.00 Ω
+= 0.408 
+P33.78 
+(a) 
+IR, rms = ΔVrms
+R
+= 100 V
+80.0 Ω = 1.25 A 
+ 
+(b) The total current will lag the applied  
+voltage as seen in the phasor diagram  
+shown in ANS. FIG. P33.78. 
+ 
+ 
+ 
+IL, rms = ΔVrms
+XL
+=
+100 V
+2π 60.0 s−1
+(
+) 0.200 H
+(
+) = 1.33 A
+ 
+ 
+ 
+Thus, the phase angle is:  
+ 
+ 
+ 
+φ = tan−1 IL, rms
+IR, rms
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 1.33 A
+1.25 A
+⎛
+⎝⎜
+⎞
+⎠⎟= 46.7° 
+P33.79 
+We are given L = 2.00 H, C = 10.0 × 10
+–6 F, R = 10.0 Ω, and 
+Δv = 100sinω t
+(
+). 
+ 
+(a) 
+The resonance frequency ω0 produces the maximum current and 
+thus the maximum power delivery to the resistor. 
+ 
+ 
+ 
+ω0 =
+1
+LC
+=
+1
+2.00 H
+(
+) 10.0 × 10−6 F
+(
+)
+= 224 s−1
+ 
+ 
+ANS. FIG. P33.78
+
+--- PAGE 49 ---
+566     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At the resonance frequency ω0 , the impedance Z = R, and  
+ 
+ 
+ 
+P = Irms
+2 R
+=
+ΔVrms
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R = ΔVrms
+(
+)
+2
+Z2
+R = ΔVrms
+(
+)
+2
+R2
+R =
+ΔVmax
+2
+(
+)
+2
+R
+=
+100 V
+(
+)
+2
+2 10.0 Ω
+(
+)
+= 500 W
+ 
+ 
+(c) 
+Now,  
+ 
+ 
+ 
+P = 1
+2 Pmax     →     ΔVrms
+(
+)
+2
+Z2
+R = 1
+2
+ΔVrms
+(
+)
+2
+R
+ 
+ 
+ 
+So, Z
+2 = 2R
+2, or  
+ 
+ 
+ 
+R2 + ω L −
+1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2R2 
+ 
+ 
+which is a fourth order equation in ω . But this can be simplified 
+to two equations:  
+ 
+ 
+ 
+ω L −
+1
+ω C = ±R    →    ω 2 LC ω CR −1 = 0 
+ 
+ 
+The angular frequency ω must be positive, so we solve for the 
+positive roots. (In the following, we suppress all units.) 
+ 
+ 
+For ω 2 LC −ω CR −1 = 0, 
+ 
+ 
+ 
+ω  = −−CR
+(
+)+
+−CR
+(
+)
+2 −4LC −1
+(
+)
+2LC
+= R +
+R2 + 4L C
+2L
+=
+10.0 +
+10.0
+(
+)
+2 + 4 2.00
+(
+) 10.0 × 10−6
+(
+)
+2 2.00
+(
+)
+= 226 s−1
+ 
+ 
+ 
+For ω 2 LC +ω CR −1 = 0, 
+ 
+ 
+ 
+ω  = −CR
+(
+)+
+−CR
+(
+)
+2 −4LC −1
+(
+)
+2LC
+= −R +
+R2 + 4L C
+2L
+=
+−10.0 +
+10.0
+(
+)
+2 + 4 2.00
+(
+) 10.0 × 10−6
+(
+)
+2 2.00
+(
+)
+= 221 s−1
+
+--- PAGE 50 ---
+Chapter 33     567 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.80 
+The currents in the three components of the circuit are 
+ 
+ 
+ 
+IR = ΔVrms
+R
+, IL = ΔVrms
+XL
+= ΔVrms
+ωL , and IC = ΔVrms
+XC
+= ΔVrms
+ω C
+(
+)
+−1
+ 
+ 
+(a) 
+Then, 
+ 
+ 
+ 
+Irms = IR
+2 + IC −IL
+(
+)
+2
+⎡⎣
+⎤⎦
+1 2
+= ΔVrms
+1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟+ ω C −1
+ω L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+ 
+ 
+(b) 
+tanφ = IC −IL
+IR
+= ΔVrms
+1
+XC
+−1
+XL
+⎡
+⎣⎢
+⎤
+⎦⎥
+1
+ΔVrms R
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+tanφ = R
+1
+XC
+−1
+XL
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ANS. FIG. P33.80 
+P33.81 
+We have P = Irms
+2 R =
+ΔVrms
+Z
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+R = ΔVrms
+(
+)
+2
+Z2
+R , and  
+ 
+ 
+ 
+Z =
+R2 + ω L −
+1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+Therefore,   
+ 
+ 
+ 
+Z2 = ΔVrms
+(
+)
+2 R
+P
+→
+R2 + ω L −1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= ΔVrms
+(
+)
+2 R
+P
+ω L −1
+ω C
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= ΔVrms
+(
+)
+2 R
+P
+−R2
+ 
+ 
+which is a fourth order equation in ω. But this can be simplified to two 
+equations: 
+ 
+ 
+ 
+ω L −
+1
+ω C = ±A
+→
+ω 2 LC ω CA −1 = 0
+
+--- PAGE 51 ---
+568     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+where 
+A =
+ΔVrms
+(
+)
+2 R
+P
+−R2 . 
+ 
+We will solve for ω when ΔVrms = 100 V and P = 250 W. From Figure 
+P33.24, we have R = 40.0 Ω, L = 185 mH = 0.185 H, and C = 65.0 µF = 
+65.0 × 10
+–6 F. 
+ 
+The quantity A is  
+ 
+ 
+ 
+A =
+ΔVrms
+(
+)
+2 R
+P
+−R2 =
+120 V
+(
+)
+2 40.0 Ω
+(
+)
+250 W
+−40.0 Ω
+(
+)
+2
+=
+704 Ω
+ 
+ 
+The angular frequency ω must be positive, so we solve for the positive 
+roots. (In the following, we suppress all units.) 
+ 
+For ω 2 LC −ω CA −1 = 0, 
+ 
+ 
+ 
+ω = −−CA
+(
+) +
+−CA
+(
+)
+2 −4LC −1
+(
+)
+2LC
+= A +
+A2 + 4L C
+2L
+=
+704 +
+704 + 4 0.185
+(
+)
+65.0 × 10−6
+(
+)
+2 0.185
+(
+)
+= 226 s−1 = 2π f     →    f = 58.7 Hz
+ 
+ 
+For 
+ω 2 LC +ω CA −1 = 0, 
+ 
+ 
+ 
+ω = −CA
+(
+) +
+−CA
+(
+)
+2 −4LC −1
+(
+)
+2LC
+= −A +
+A2 + 4L C
+2L
+=
+−704 +
+704 + 4 0.185
+(
+)
+65.0 × 10−6
+(
+)
+2 0.185
+(
+)
+= 225 s−1 = 2π f     →     f = 35.9 Hz
+ 
+ 
+There are two answers because the circuit can be either above or below 
+resonance.
+
+--- PAGE 52 ---
+Chapter 33     569 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P33.2 
+(a) 193 Ω; (b) 144 Ω 
+P33.4 
+(a) 170 V; (b) 2.40 × 10
+2 Ω;  
+(c) Because Pavg = ΔVrms
+(
+)
+2
+R
+    →    R = ΔVrms
+(
+)
+2
+Pavg
+, a 100-W bulb has less 
+resistance than a 60.0-W bulb. 
+P33.6 
+(a) 25.3 rad/s; (b) 0.114 s 
+P33.8 
+(a) The rms current in each 150-W bulb is 1.25 A. The rms current in 
+the 100-W bulb is 0.833 A; (b) R1 = 96.0 Ω, R2 = 96.0 Ω, and R3 = 144 Ω; 
+(c) 36.0 Ω 
+P33.10 
+(a) 0.0424 H; (b) 942 rad/s 
+P33.12 
+0.750 H 
+P33.14 
+3.80 J 
+P33.16 
+(a) 15.0 Hz; (b) 84.9 V; (c) 47.1 Ω; (d) 1.80 A; (e) 2.55 A 
+P33.18 
+(a) 221 Ω; (b) 0.163 A; (c) 0.230 A; (d) no 
+P33.20 
+(a) 69.3 V; (b) 40.0 Hz; (c) 20.3 µF 
+P33.22 
+2C ΔVrms
+(
+) 
+P33.24 
+(a) 146 V ; (b) 212 V; (c) 179 V; (d) 33.4 V 
+P33.26 
+(a) 109 Ω; (b) Imax = 0.367 A; (c) ω = 100 rad/s;  
+(d) φ = −0.896 rad = −51.3° 
+P33.28 
+2.79 kHz 
+P33.30 
+See ANS. FIG P33.30. 
+P33.32 
+(a) 88.4 Ω; (b) 107 Ω; (c) 1.12 A; (d) the voltage lags behind the current 
+by 55.8°; (e) Adding an inductor will change the impedence, and hence 
+the current in the circuit. The current could be larger or smaller, 
+depending on the inductance added. The largest current would result 
+when the inductive reactance equals the capacitive reactance, the 
+impedance has its minimum value, equal to 60.0 Ω, and the current in 
+the circuit is  
+Imax = ΔVmax
+Z
+= ΔVmax
+R
+= 1.20 × 102 V
+60.0 Ω
+= 2.00 A 
+P33.34 
+In order for the power factor to be equal to 1.00, we would have to 
+have XL = 0, which would require either L or f  to be zero. Because this
+
+--- PAGE 53 ---
+570     Alternating-Current Circuits 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+is not the case, the situation is impossible. 
+P33.36 
+8.00 W 
+P33.38 
+(a) 66.8 Ω; (b) 0.953 A; (c) 45.4 W 
+P33.40 
+(a) 5.43 A; (b) 0.905; (c) 281 µF; (d) 109 V 
+P33.42 
+(a) 3.56 kHz; (b) 5.00 A; (c) 22.4; (d) 2.24 kV 
+P33.44 
+(a) 156 pH; (b) 8.84 Ω 
+P33.46 
+4πRC LC ΔVrms
+(
+)
+2
+4R2C + 9L
+ 
+P33.48 
+(a) 9.23 V; (b) 2.40 W 
+P33.50 
+(a) 29.0 kW; (b) 5.80 × 10
+–3; (c) It is impossible to transmit so much 
+power at such low voltage. 
+P33.52 
+1.88 V 
+P33.54 
+(a) 
+R
+R2 + 1 ω C
+(
+)
+2 ; (b) 0; (c) 1 
+P33.56 
+(a) 
+1 ω C
+R2 + 1 ω C
+(
+)
+2 ; (b) 1; (c) 0; (d) 
+3
+2πRC
+ 
+P33.58 
+The resonance frequency for this circuit is not in the North American 
+AM frequency range. 
+P33.60 
+(a) 0.200 A, 36.8°; (b) 40.0 V at φ = 0°; (c) 20.0 V at φ = −90.0° ; (d) 50.0 V 
+at φ = +90.0° 
+P33.62 
+8ρCu P
+π f ΔVrms
+(
+)
+2 
+P33.64 
+See P33.64 for full explanation. 
+P33.66 
+(a) R = 99.6 Ω; (b) 24.9 µF; (c) 164 mH or 402 mH; (d) Only one value 
+for R and only one value for C are possible. Two values for L are 
+possible. 
+P33.68 
+(a) Higher. At the resonance frequency, XL = XC. As the frequency 
+increases, XL goes up and XC goes down; (b) It is possible. We have 
+three independent equations in the three unknowns L, C, and the 
+certain f ; (c) L = 4.90 mH and C = 51.0 µF 
+P33.70 
+(a) See ANS. FIG. P33.70(a); (b) 
+R
+R2 + ωL −1/ωC
+(
+)
+2
+L +
+1
+ω 2C
+⎛
+⎝⎜
+⎞
+⎠⎟; (c) See 
+P33.70(c) for full explanation.
+
+--- PAGE 54 ---
+Chapter 33     571 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P33.72 
+(a) i = ΔVmax
+R
+cosω t; (b) P = 1
+2
+ΔVmax
+(
+)
+2
+R
+;  
+ 
+(c) i =
+ΔVmax
+R2 +ω 2L2 cos ω t + tan−1 ω L
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥; (d) C =
+1
+ω0
+2L ; (e) R;  
+(f) ΔVmax
+(
+)
+2 L
+2R2
+; (g) 1
+2 L ΔVmax
+(
+)
+2
+R2
+; (h) tan−1
+3
+2R
+L
+C
+⎛
+⎝⎜
+⎞
+⎠⎟; (i) 
+1
+2LC 
+P33.74 
+(a) See Table P33.74; (b) See ANS. FIG. P33.74(b). 
+P33.76 
+(a) See ANS. FIG. P33.76; (b) See P33.76 for full explanation. 
+P33.78 
+(a) 1.25 A; (b) lag, 46.7° 
+P33.80 
+(a) ΔVrms
+1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟+ ω C −1
+ω L
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+; (b) tanφ = R
+1
+XC
+−1
+XL
+⎛
+⎝⎜
+⎞
+⎠⎟

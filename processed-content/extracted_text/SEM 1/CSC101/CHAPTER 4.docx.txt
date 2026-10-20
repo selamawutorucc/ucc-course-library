@@ -1,0 +1,112 @@
+INTRODUCTION TO COMPUTING
+CHAPTER 4: PROGRAMS AND APPS
+An ___________is a set of programs that coordinates all the activities among computer or mobile device hardware (Operating system)
+______________enable you to perform maintenance-type tasks usually related to managing devices, media, and programs used by computers and mobile devices. (Utilities)
+The operating system and other tools are collectively known as _____________(system software)
+_______________is mass-produced, copyrighted software that meets the needs of a wide variety of users (Retail software)
+_______________performs functions specific to a business or industry (Custom software)
+A __________is an application stored on a web server that you access through a browser. (web app)
+A _____________is an application you download from a mobile device’s app store (mobile app)
+A web app that is optimized for display in a browser on a mobile device, regardless of screen size or orientation is known as_______________ (mobile web app)
+______________is copyrighted software that is distributed at no cost for a trial period. (Shareware)
+A copyrighted software provided at no cost by an individual or a company that retains all rights to the software is known as __________________ (Freeware)
+___________________is software provided for use, modification, and redistribution.                          (Open source software)
+________________is a software donated for public use and has no copyright restrictions.                            ( Public-domain software)
+_______________is the process of setting up the software to work with a computer, printer, and other hardware. (Installing)
+_____________is a technique that some software manufacturers use to ensure that you do not install the software on more computers than legally licensed. (Product activation)
+_______________can assist you in becoming more effective and efficient while performing daily activities at work, school, and home. (Productivity applications)
+____________________ sometimes called a word processor, is an application that allows users to create and manipulate documents containing mostly text and sometimes graphics                             (Word processing software)
+An application that allows users to create visual aids for presentations to communicate ideas, messages, and other information to a group  is called _________________ (Presentation software)
+________________is an application that allows users to organize data in columns and rows and perform calculations on the data. (Spreadsheet software)
+A ____________is a predefined formula that performs common calculations or generates a value. (function)
+A collection of data organized in a manner that allows access, retrieval, and use of that data is ___________. (database)
+A ______________is a collection of individual related applications available together as a unit. (software suite)
+________________is an application that allows a user to plan, schedule, track, and analyze the events, resources, and costs of a project. (Project management software)
+ __________________is an application that allows users to create, access, and manage a database. (Database software)
+An application that assists in the preparation of legal documents and provides legal information to individuals, families, and small businesses is referred to as a _______________ (Legal software)
+Some tax preparation programs allow you to file your tax forms electronically by a process called _____________. (E-filing).
+PDF stands for____________________( Portable Document Format)
+________________software is a type of application that assists professionals and designers in creating engineering, architectural, and scientific designs and models(Computer-aided design (CAD))
+_________________is an application that assists users with the design, remodeling, or improvement of a home, deck, or landscape. (home design/landscaping software)
+An application that enables designers to create sophisticated publications that contain text, graphics, and many colors__________________( Desktop publishing software)
+________________allows users to combine text, graphics, audio, video, and animation in an interactive application (Multimedia authoring software)
+_____________is a type of education in which students learn by using and completing exercises with instructional software. (Computer-based training)
+A ____________________is a security tool that detects and protects a personal computer and its data from unauthorized intrusions. (personal firewall)
+A potentially damaging program that affects a computer or device negatively by altering the way it works_________________ (Computer Virus)
+The programmer of a virus, known as a___________________ (Virus Author)
+A_____________ is the destructive event or prank the virus delivers( Payload)
+A _____________virus targets the computer’s start-up files (Boot Sector)
+A virus that changes its code as it delivers the infection is referred to as _______________(Polymorphic virus)
+A type of virus that resides in active memory and replicates itself over a network to infect computers and devices, using up system resources and possibly shutting down the system is known as __________. (Worm)
+A ____________is a destructive program disguised as a real program (Trojan horse)
+A_______________ is a program that easily can hide and allow someone to take full control of your computer from a remote location, often for nefarious purposes. (Rootkit)
+A____________ is a separate area of a hard drive that holds the infected file until the infection can be removed. (Quarantine)
+A type of program placed on a computer or mobile device without the user’s knowledge that secretly collects information about the user is known as a ________________. (Spyware)
+_________________is a type of program that displays an online advertisement in a banner or pop-up window on webpages, email messages, or other Internet services. (Adware)
+A text file that a web server stores on your computer is called a ___________(Cookie)
+________is an unsolicited email message or posting sent to many recipients or forums at once. (Spam)
+An_____________ is a filtering program that attempts to remove spam before it reaches your inbox or forum.(anti-spam program)
+A program that restricts access to certain material on the web is known as __________________     (Web filtering software)
+______________is a scam in which a perpetrator sends an official looking email message that attempts to obtain your personal and/or financial information (Phishing)
+A program that warns or blocks you from potentially fraudulent or suspicious websites is known as a 
+______________( Phishing Filter)
+A_____________ is an Internet advertisement that suddenly appears in a new window on top of a webpage ( pop-up ad)
+A___________ is a program, usually included with an operating system, that attempts to locate a file on your computer or mobile device based on criteria you specify (Search Tool)
+An ___________stores a variety of information about a file, including its name, date created, date modified, author name, and so on. (Index)
+A _____________tool searches for and removes unnecessary files (Disk Cleanup)
+A________________ is a tool that reorganizes the files and unused space on a computer’s hard disk so that the operating system accesses data more quickly and programs run faster (Disk Defragmenter)
+TRUE/FALSE DISCOVERING COMPUTERS (2016)
+Application software serves as the interface between the user, the apps, and the computer’s or mobile device’s hardware. (FALSE)
+While a computer or mobile device is running, the operating system remains in memory. (TRUE)
+Open source software is mass-produced, copyrighted software that meets the needs of a wide variety of users. (FALSE)
+When downloading shareware, freeware, or public-domain software, it is good practice to seek websites with ratings for and reviews of products. (TRUE)
+With web apps, you always access the latest version of the software. (TRUE)
+With database software, users run functions to retrieve data. (FALSE)
+Software suites offer three major advantages: lower cost, ease of use, and integration. (TRUE)
+A PDF file can be viewed and printed without the software that created the original document. (TRUE)
+The military and airlines use CBT simulations to train pilots to fly in various conditions and environments. (TRUE)
+A router also can function as a hardware firewall. (TRUE)
+A worm is a destructive program designed as a real program. (FALSE)
+Cookies typically are considered a type of spyware. (FALSE)
+MULTIPLE CHOICE DISCOVERING COMPUTERS (2016)
+
+_____ software performs functions specific to a business or industry. (161)
+Retail
+Open source
+Shareware
+Custom
+A(n) _____ is the right to use a program or app. (163)
+license agreement
+product activation
+software registration
+automatic update
+_____ software is an application that allows users to organize data in columns and rows and perform calculations on the data. (168)
+Spreadsheet
+Database
+Presentation
+Document management
+Mobile payment apps use a payment system on phones equipped with a(n) _____, which stores data that is transmitted to a contactless terminal and verified as a legitimate sale. (179)
+QR chip
+EULA
+NFC chip
+Trojan horse
+_____ is a type of application that assists professionals and designers in creating engineering, architectural, and scientific designs and models. (180)
+Enterprise software
+CAD software
+Public-domain software
+A software suite
+The term _____ refers to removing unwanted areas of a photo. (182)
+crop
+snip
+compress
+shrink
+A(n) _____ is a device intended to stop network intrusions before they attempt to affect your computer or network maliciously. (190)
+anti-spam program
+pop-under blocker
+hardware firewall
+quarantine drive
+_____ is a small text file that a web server stores on your computer. (192)
+A pop-under blocker
+A cookie
+Adware
+Spyware

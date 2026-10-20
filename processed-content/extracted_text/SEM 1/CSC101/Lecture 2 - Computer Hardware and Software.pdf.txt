@@ -1,0 +1,1254 @@
+
+--- PAGE 1 ---
+COMPUTER HARDWARE 
+AND SOFTWARE
+LECTURE 2
+1
+
+--- PAGE 2 ---
+LEARNING OBJECTIVES
+1.
+Understand how data is represented to a computer.
+2.
+Identify several types of input devices and explain their functions.
+3.
+Explain the functions of the primary hardware components found inside the system 
+unit, namely the motherboard, the CPU, and the memory.
+4.
+List several output devices and explain their functions.
+22
+
+--- PAGE 3 ---
+LEARNING OBJECTIVES
+5.
+Understand the difference between storage and memory, as well as between a storage 
+device and a storage medium.
+6.
+Name several types of storage systems and explain the circumstances under which 
+they are typically used.
+7.
+Describe the purpose of communications hardware.
+8.
+Understand basic software concepts and commands.
+3
+
+--- PAGE 4 ---
+OVERVIEW
+• This Lecture covers:
+• What data is and how it is represented to a computer
+• The hardware that makes up a computer system
+• Various types of hardware used for input, processing, output, storage, and communications
+• Some basic software concepts and operations
+44
+
+--- PAGE 5 ---
+DIGITAL DATA REPRESENTATION
+• Most digital computers are binary computers
+• Understand only two states, off and on
+• Off and on are represented by the numbers 0 and 1
+• All data processed by a binary computer must be in binary form
+• The computer translates input into the form needed by the computer and translates 
+output into the form needed by the user
+5
+
+--- PAGE 6 ---
+DIGITAL DATA REPRESENTATION
+• Bits and Bytes
+• Bit
+• Smallest unit of data a binary computer 
+can recognize
+• Typically represented by 1s and 0s
+• Derived from the term “binary digits”
+• Generally grouped together to form 
+larger pieces of data
+• Byte
+• Eight bits
+• Prefixes are used to represent larger 
+amounts of data (KB, MB, etc.)
+6
+
+--- PAGE 7 ---
+DIGITAL DATA REPRESENTATION
+• Numbering Systems and Coding Systems
+• Numbering system
+• Way of representing numbers
+• Decimal numbering system use ten symbols (0-9) to represent all possible numbers
+• Binary numbering system uses only two symbols (0 and 1) to represent all possible numbers
+• In both systems, the position of each digit determines the power, or exponent, to which the base 
+number (10 for decimal or 2 for binary) is raised
+7
+
+--- PAGE 8 ---
+DIGITAL DATA REPRESENTATION
+• Coding system
+• Used to represent text-based data
+• ASCII (American Standard Code for Information Interchange)
+• Traditionally used with personal computers
+• 7-digit (7-bit) code 
+• Several different 8-bit extended versions of ASCII contain 
+additional symbols not included in the 7-bit ASCII code
+• An 8-bit code can represent 256 characters
+• Limited to only the Latin alphabet used with the English 
+language
+8
+
+--- PAGE 9 ---
+DIGITAL REPRESENTATION OF DATA
+• Unicode
+•
+Universal standard used to represent  text-based data written in any ancient or modern 
+language
+−
+Uniquely identifies each character using 0s and 1s, regardless of which language, program, or computer is 
+being used
+−
+Longer code—1 to 4 bytes (8 to 32 bits) per character
+−
+Can represent over one million characters
+−
+Can be used worldwide with consistent  results
+9
+
+--- PAGE 10 ---
+DIGITAL REPRESENTATION OF DATA
+10
+
+--- PAGE 11 ---
+QUICK QUIZ
+1. Another way to say “one million bytes” is 
+a.
+one kilobyte
+b.
+one gigabyte
+c.
+one megabyte
+2. True or False: ASCII is the universal standard used to represent  text-based data written in any ancient or modern 
+language.
+3. The _____________ numbering system is used by computers to perform mathematical computations. 
+Answers: 
+1) c; 2) False; 3) binary
+11
+
+--- PAGE 12 ---
+INPUT HARDWARE
+• Input Device
+• Any piece of hardware used to perform data input
+• Keyboard
+• Used to type data into a computer
+• Can be integrated, wired, or wireless
+• Nearly always used with desktop and notebook  
+computers
+• Many mobile phones have an
+integrated keyboard
+12
+
+--- PAGE 13 ---
+INPUT HARDWARE
+13
+
+--- PAGE 14 ---
+INPUT HARDWARE
+• Pointing Devices
+• Used to select objects, issue commands, etc. by pointing to and selecting objects
+• Two most common are the mouse and the pen stylus
+• Mice
+• Nearly always used with desktop computers; can be used with notebook computers
+•
+Most are either optical or laser mice
+•
+Used to start programs; open, move around, and edit documents; draw or edit images
+14
+
+--- PAGE 15 ---
+INPUT HARDWARE
+15
+
+--- PAGE 16 ---
+INPUT HARDWARE
+• Pens/Styluses
+•
+Used to select items and/or 
+write electronically on the 
+screen
+•
+Can be used with 
+personal computers,
+mobile devices, and
+tablet computers
+•
+Increasing used for
+photography, graphic
+design, animation, and
+document processing
+16
+
+--- PAGE 17 ---
+INPUT HARDWARE
+• Touch Screens
+• Allows the user to touch the screen with his or her finger to provide input
+• Also used in consumer kiosks and POS systems
+• Many are multi-touch
+• Convenient for most users
+• Not accessible for blind individuals and those with limited mobility
+• Other pointing devices
+•
+Control buttons and wheels, trackballs, touch pads, and gaming devices
+17
+
+--- PAGE 18 ---
+INPUT HARDWARE
+18
+
+--- PAGE 19 ---
+INPUT DEVICES
+• Scanners, Readers, and Digital Cameras
+• Scanners and Readers
+• Used to capture data from a source document and input it into the computer
+• Commonly called optical scanners
+• Documents input as a single graphical image 
+•
+Editing text within the image requires the use of OCR software in conjunction with the scanner
+• Flatbed scanner is the most common
+• Portable scanners used to capture text and other data while on the go
+19
+
+--- PAGE 20 ---
+INPUT DEVICES
+20
+
+--- PAGE 21 ---
+INPUT DEVICES
+• Resolution
+•
+Quality of scanned images
+•
+Usually measured in dpi—number of dots per inch
+• Barcode Readers
+•
+Read barcodes, which are optical codes that represent data
+•
+Most common barcodes are UPC labels and ISBN numbers
+•
+Businesses and organizations can create custom barcodes for 
+unique needs
+•
+FedEx, UPS, USPS
+•
+Hospitals, researchers, law enforcement
+21
+
+--- PAGE 22 ---
+TECHNOLOGY AND YOU BOX
+Mobile Ticketing
+• Download ticket to mobile device 
+to use for admittance
+• Tickets for movies, sporting events, 
+concerts, etc.
+• Boarding passes
+• Custom tickets
+22
+
+--- PAGE 23 ---
+INPUT DEVICES
+• RFID (radio frequency identification) Readers
+•
+RFID technology stores, reads, and transmits data found in RFID tags
+•
+RFID tags can be attached to many different types of objects and are read by radio waves
+•
+Data in the tags can be unique so that each item containing an RFID tag can be individually identified
+•
+Growth in retail industry has been slower than expected due to cost constraints and privacy/security issues
+23
+
+--- PAGE 24 ---
+INPUT DEVICES
+• Biometric Readers
+•
+Read biometric data (measurable 
+biological characteristics)
+•
+Fingerprints, hand geometry, 
+face, iris, voice
+•
+Can be stand alone or built into 
+another piece of hardware
+•
+Other types of readers
+•
+Optical mark readers
+•
+Optical character readers
+•
+Magnetic ink character recognition readers
+24
+
+--- PAGE 25 ---
+INPUT DEVICES
+• Digital Cameras
+• Record images on digital storage media such as 
+flash memory cards, hard drives, DVD discs, 
+etc.
+• Digital still cameras
+• Digital video cameras
+•
+Digital camcorders
+•
+PC video cameras
+•
+Used for webcams, videoconferencing, video 
+phone calls, etc.
+25
+
+--- PAGE 26 ---
+INPUT DEVICES
+• Other Input Devices
+• Microphones and headsets
+•
+Used for voice input
+•
+Commands, dictation, podcasts, etc.
+• MIDI keyboards, keyboard and guitar controllers
+•
+Used to input original music
+• Adaptive input devices
+•
+Designed for users with physical disabilities
+• Ergonomic hardware
+•
+Designed to lessen the physical effects of computer use
+26
+
+--- PAGE 27 ---
+QUICK QUIZ
+1. An optical mouse is __________. 
+a. the same as a wireless mouse
+b. a mouse that tracks movements with light instead of a ball
+c. a mouse that contains a scroll wheel on the top
+2. True or False: Flatbed scanners are used to read biometric data, such as fingerprints, hand geometry, veins, 
+and irises. 
+3. __________ input devices are designed for users with disabilities.  
+Answers: 
+1) b; 2) False; 3) Adaptive
+27
+
+--- PAGE 28 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• System Unit
+• Main case of the computer
+• Components
+•
+Processing hardware, storage devices
+•
+Power supply, cooling fan
+•
+Interfaces used to connect peripheral devices
+• The Motherboard
+• The main circuit board inside the system unit
+• All devices used with a computer connect in one way or another to the motherboard (directly, via 
+port, etc.)
+28
+
+--- PAGE 29 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+29
+
+--- PAGE 30 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Ports
+• Connectors exposed through the 
+exterior of the system unit case
+• Either built into the motherboard or 
+created via expansion card
+• Used to connect external devices to the 
+computer (monitors, keyboards,  mice, 
+printers, etc.)
+• Portable computers have fewer ports
+30
+
+--- PAGE 31 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Processors
+• Consist of a variety of circuitry and components that are packaged together and connected 
+directly to the motherboard
+• The Central Processing Unit (CPU); also called microprocessor
+• Arithmetic/logic unit
+• Performs arithmetic involving integers and logical operations
+• Control unit
+• Coordinates and controls the actions taking place within the CPU
+31
+
+--- PAGE 32 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Most personal computers today use CPUs manufactured by Intel or Advanced Micro Devices 
+(AMD) and are multi-core
+• Dual-core CPU
+•
+Contains the processing components (cores) of two independent processors on a single CPU
+• Quad-core CPU
+•
+Contains four cores
+32
+
+--- PAGE 33 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Measurements of CPU processing speed
+• CPU clock speed is measured in megahertz (MHz) or gigahertz (GHz)
+• Higher clock speed means more instructions can be processed per second than the same CPU with 
+a lower clock speed
+• Other factors can affect the overall processing speed of a computer
+•
+Number of cores
+•
+Amount of memory
+•
+Speed of external storage devices
+33
+
+--- PAGE 34 ---
+INSIDE THE SYSTEM UNIT
+• The Graphics Processing Unit (GPU)
+• Takes care of the processing needed to display images (including still images, 
+animations) on the screen
+• Can be located on the motherboard,  on a video graphics  board, on in the CPU 
+package
+34
+
+--- PAGE 35 ---
+INSIDE THE INDUSTRY BOX
+GPUs and Transformers: The Ride 3D at Universal Studios
+• Uses a 2,000 foot-long track, 14 huge screens, and 34 projectors
+• Motion is synchronized with the action
+• Images are 3D, 4K
+• Used GPUs to see 3D
+animations in real time
+as they were being 
+developed
+35
+Understanding Computers in a Changing Society, 6th Edition
+
+--- PAGE 36 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Memory
+• Refers to chip-based storage used by the computer – usually the amount of the computer’s 
+main memory (random access memory or RAM)
+• RAM
+• Temporary (volatile) storage used by the computer
+• Used to store essential parts of the operating system while computer is running
+• Stores the programs and data currently being used by the computer
+• Content is lost when computer is shut down
+• Data is deleted from RAM when it is no longer needed
+36
+
+--- PAGE 37 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+•
+Consists of circuits etched onto chips arranged onto circuit boards called memory modules
+•
+Capacity is measured in bytes
+• Computers must have 
+enough RAM to run the 
+necessary applications, as 
+well as work efficiently
+• More RAM allows more 
+programs to run at one
+time
+• Most PCs today come 
+with at least 512 MB of 
+RAM
+37
+
+--- PAGE 38 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Other types of computer memory
+• Cache memory
+•
+Used to speed up the processing speed by storing the data that may be needed next by the CPU in handy 
+locations
+•
+Usually built into the CPU
+•
+Level indicates the order the cache memory is accessed (L1 = fastest and checked first, L2, L3)
+• Registers
+•
+Used by the CPU to temporarily store data and intermediary results during processing
+•
+Fastest type of memory
+38
+
+--- PAGE 39 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• ROM
+• Read-only memory
+• Nonvolatile chips that permanently store data or programs accessed by the computer
+• Attached to the motherboard like RAM
+• Data and programs are retrieved by the computer when needed
+• Cannot be written over
+• Data is not erased when the computer is shut down
+39
+
+--- PAGE 40 ---
+PROCESSING HARDWARE AND 
+OTHER HARDWARE INSIDE THE 
+SYSTEM UNIT
+• Flash memory
+• Nonvolatile chips into which data can be stored and retrieved
+• Flash memory chips have begun to replace ROM for storing system information, as it can be 
+updated as needed
+• Also used in flash memory storage systems
+40
+
+--- PAGE 41 ---
+QUICK QUIZ
+1. Which type of memory is erased when the power goes out?
+a. ROM
+b. RAM
+c. flash memory
+2. True or False: The CPU can also be called the motherboard. 
+3. A CPU with four cores is called a(n) _____________ CPU. 
+Answers: 
+1) b; 2) False; 3) quad-core
+41
+
+--- PAGE 42 ---
+OUTPUT HARDWARE
+• Display Devices
+• Most common type of output device
+• Displays output on some type of screen
+• Monitor
+•
+Display device for a desktop computer
+• Display screen
+•
+Built-in display device
+•
+Used with notebook computers,
+mobile phones, etc.
+•
+Used with many consumer products
+42
+
+--- PAGE 43 ---
+OUTPUT HARDWARE
+• CRT monitor
+• Traditional monitor for desktop computers
+• Uses cathode-ray tube technology
+• Very large and bulky
+• Less common today
+• Flat-panel displays
+• Form images by manipulating electronically charged chemicals or gasses sandwiched 
+between panes of glass or other transparent surfaces
+• Take up less space and consume less power than CRT monitors
+43
+
+--- PAGE 44 ---
+OUTPUT HARDWARE
+• Thinner and lighter than CRTs
+• Used with most computers and in mobile phones and other mobile devices
+• Pixel
+• Smallest colorable area in an electronic image
+• Number of pixels used on a display screen determines the screen resolution
+• With high resolution, more information can fit on the screen, but everything will be displayed 
+smaller than with a lower resolution
+44
+
+--- PAGE 45 ---
+OUTPUT HARDWARE
+• Multiple monitors
+• Can be used with both desktop and portable computers
+• Typically extends the desktop but can duplicate it
+45
+
+--- PAGE 46 ---
+OUTPUT DEVICES
+• Printers
+• Produce hard copy – a permanent copy of the output on paper
+• Personal printers designed to be connected to a single computer
+• Network printers designed to be shared by multiple users via a network
+• Impact printers
+• Strike paper to transfer ink to paper
+46
+
+--- PAGE 47 ---
+OUTPUT DEVICES
+• Non-impact printers
+•
+Form images without touching the paper
+•
+Most common type of printer today
+•
+Much quieter than impact printers
+•
+Produce higher quality images
+• Can be color or black-and-white
+• Printer quality is measured in dots 
+per inch (dpi)
+• Printer speed is measured in pages 
+per minute (ppm)
+47
+
+--- PAGE 48 ---
+OUTPUT DEVICES
+• Laser Printers
+• Standard for business documents
+• Come in personal and network versions
+• Can be color or black-and-white
+• Faster and of better quality than ink-jet printers
+• Use technology similar to photocopy machines (toner powder, lasers, heat, etc.)
+• Resolutions are between 600 and 2,400 dpi
+• Common speeds for personal laser printers range from 10 to 70 ppm
+48
+
+--- PAGE 49 ---
+OUTPUT DEVICES
+49
+
+--- PAGE 50 ---
+OUTPUT DEVICES
+• Ink-Jet Printers
+• Spray tiny drops of ink onto the page, one printed line at a time
+• Some print using different-sized ink droplets, multiple nozzles, and varying electrical charges for 
+precision
+• Fairly inexpensive, although replacement ink cartridges can add up
+• Good quality and usually can print in color
+• Printer of choice for home use
+• With special paper, ink-jet printers can print photos
+50
+
+--- PAGE 51 ---
+OUTPUT DEVICES
+51
+
+--- PAGE 52 ---
+OUTPUT DEVICES
+• Special-Purpose Printers
+•
+Photo printers
+•
+Designed to print photographs
+•
+Barcode printers
+•
+Print barcodes
+•
+Portable printers
+•
+Designed to be carried with you to print while on the go
+•
+Plotters and wide-format ink-jet printers
+•
+Print large documents, such as blueprints and signs
+•
+3D printers
+•
+Form a 3D replica of an object, typically using plastic powder
+52
+
+--- PAGE 53 ---
+OUTPUT DEVICES
+• Other Output Devices
+• Computer speakers
+• Headphones
+• Headsets
+• Earphones
+• Earbuds
+53
+
+--- PAGE 54 ---
+QUICK QUIZ
+1. Which of the following could possibly use CRT technology? 
+a. Smart watch
+b. Desktop monitor
+c. Media tablet
+2. True or False: Laser printers can only print in black and white. 
+3. __________ printers form images with drops of liquid ink.
+Answers: 
+1) b; 2) False; 3) Ink-jet printers
+54
+
+--- PAGE 55 ---
+STORAGE HARDWARE
+• Storage System
+• Used to save documents for future use
+• Non-volatile
+• Storage System Characteristics
+• Storage Media and Storage Devices
+• Storage Medium
+• The hardware where the data is actually stored
+• DVD, flash memory card, etc.
+• Storage Devices
+•
+The device that reads data from or writes data to the storage medium
+55
+
+--- PAGE 56 ---
+STORAGE HARDWARE
+•
+Internal
+•
+Located inside the system unit
+•
+External
+•
+Plugged into an external port on 
+the system unit
+•
+Remote
+•
+Located on another computer, such as a network server
+56
+
+--- PAGE 57 ---
+STORAGE HARDWARE
+• Storage medium and storage device are often two separate pieces of hardware
+• Some systems are permanently sealed together
+• Hard drive
+• USB flash drives
+• Are identified by letters
+of the alphabet or names
+assigned by
+the computer
+57
+
+--- PAGE 58 ---
+STORAGE HARDWARE
+• Types of Storage Technology Used
+• Data is usually stored magnetically or optically
+•
+Magnetic storage systems (hard drives) represent data using different magnetic alignments
+•
+Optical media (CDs and DVDs) use laser beams that burns permanent marks into the surface of the 
+medium
+• Flash memory storage systems represent data using electrons
+58
+
+--- PAGE 59 ---
+STORAGE HARDWARE
+• Hard Drives
+• Used to store most programs and data
+• Internal hard drives
+• Not designed to be removed
+• External hard drives
+• Connect to a computer using a USB or FireWire 
+port
+• Both are increasingly coming with built-in 
+encryption
+59
+
+--- PAGE 60 ---
+STORAGE HARDWARE
+• Magnetic Hard Drives
+• Use metal hard disks organized into tracks and sectors
+• Use read/write heads to store (write) and retrieve (read) data
+60
+
+--- PAGE 61 ---
+STORAGE HARDWARE
+• Solid-State Drives (SSDs)
+• Use flash memory technology rather than spinning platters and magnetic 
+technology
+• Use less power and have no 
+moving parts
+• Not subject to mechanical 
+failure and more resistant to 
+shock and vibrations
+• Generate less heat, make 
+no noise, and operate faster
+• Attractive option for portable 
+computers and mobile devices
+61
+
+--- PAGE 62 ---
+STORAGE HARDWARE
+• Hybrid Hard Drives
+• Use a combination of flash memory and a magnetic hard drive
+• Less expensive than an SSD
+• Can extend the battery life of portable computers and mobile devices
+• Can allow encryption and other security measures to be built into the drive
+62
+
+--- PAGE 63 ---
+STORAGE HARDWARE
+• Internal vs. External Hard Drives
+• Internal Hard Drives
+•
+Permanently located in the system unit
+•
+Almost all computers have at least one used to store programs and data
+• External Hard Drives
+•
+Used to move data from one computer to another
+•
+Can hold large amounts of data—1 TB to 4 TB
+•
+Used by individuals to hold digital pictures, digital music, home movies, recorded 
+television shows 
+•
+Portable hard drives are smaller external hard drives
+63
+
+--- PAGE 64 ---
+STORAGE HARDWARE
+•
+Most external and portable hard drives connect using a USB connection
+•
+Some can connect using a wired or wireless networking connection
+64
+
+--- PAGE 65 ---
+STORAGE HARDWARE
+• Optical Discs and Drives
+• Data on optical discs (DVDs, CDs, Blu-ray) is stored and read optically, using 
+laser beams
+• Data can be stored on one or both sides of the disc
+• Discs are divided into tracks and sectors, but use a single grooved spiral track 
+beginning at the center of the disc
+• Lasers create and read marks created on the disc surface called pits and lands
+• With read-only discs, the pits are permanent
+• With recordable or rewritable discs, the pits are represented by changing the disc’s 
+reflectivity
+65
+
+--- PAGE 66 ---
+STORAGE HARDWARE
+66
+
+--- PAGE 67 ---
+STORAGE HARDWARE
+• Conventional CDs
+•
+Use infrared lasers
+• Conventional DVDs
+•
+Use red lasers
+• High definition Blu-ray Discs (BDs)
+•
+Use blue-violet lasers
+•
+More information can be stored (HD movies, etc.)
+•
+Data is recorded more compactly
+• Discs come in various sizes
+• Capacity depends on format, as well as the number of sides and layers, used
+67
+
+--- PAGE 68 ---
+STORAGE HARDWARE
+68
+
+--- PAGE 69 ---
+STORAGE HARDWARE
+• Read-Only Discs: CD-ROM, DVD-ROM, and BD-ROM Discs
+• Come pre-recorded with commercial products
+• Data cannot be erased, changed, or added to
+• Recordable Discs: CD-R, DVD-R, and BD-R Discs
+• Can be written to, but the discs cannot be erased and reused
+• Commonly used for:
+• Backing up files
+• Sending large files to others
+• Creating custom music CDs (CD-R)
+• Storing home movies, digital photos, multimedia files, etc. 
+(DVD-R/+R)
+• Storing high-definition multimedia files (BD-R)
+69
+
+--- PAGE 70 ---
+STORAGE HARDWARE
+• Rewritable Discs: CD-RW, DVD-RW, DVD+RW, and BD-RE Discs
+• Can be written to, erased, and overwritten like magnetic disks
+• The correct drive must be used to write each type of disc
+• Used for similar purposes as recordable discs but are especially appropriate when data can later be 
+erased and the disc reused
+• Optical Drive
+• Most computers have one; external drive can be used
+70
+
+--- PAGE 71 ---
+STORAGE HARDWARE
+• Flash Memory Storage Systems
+• Chip-based storage medium that represents data using electrons
+• No moving parts, so are not as subject to mechanical failure as optical and magnetic 
+media
+• Are more resistant to shock and vibration
+• Consume less power
+• Very small and quiet
+• Rewritable
+• Longer expected life that magnetic media
+• More expensive per MB, but very convenient and widely used with computers, digital 
+cameras, etc.
+71
+
+--- PAGE 72 ---
+STORAGE HARDWARE
+• Embedded Flash Memory
+• Chips are embedded in products to provide built-in storage
+•
+Portable digital media 
+players
+•
+Digital cameras
+•
+Media tablets
+•
+Mobile phones
+•
+Sunglasses, 
+wristwatches, etc.
+72
+
+--- PAGE 73 ---
+STORAGE HARDWARE
+• Flash Memory Cards and Readers
+• Small card containing flash memory chips, a controller chip, other electrical 
+components, and metal contacts to connect the card to the device or reader being 
+used
+• Read by flash memory card readers (built-in or standalone)
+• Commonly used with:
+•
+Desktop and portable computers
+•
+Digital cameras, portable digital media players, mobile phones, and other mobile devices
+• Variety of formats (SD cards, SDHC cards, CompactFlash cards, Memory Stick, etc.) 
+and sizes
+73
+
+--- PAGE 74 ---
+STORAGE HARDWARE
+74
+
+--- PAGE 75 ---
+STORAGE HARDWARE
+• USB Flash Drives
+• Flash memory media in self-contained unit that uses a USB interface
+• Also called USB flash memory drives, thumb drives, and jump drives
+• Are powered via the USB port
+• Very portable; can be carried in a pocket or on a keychain
+• Wide range of colors, sizes, appearances
+• Capacity ranges from 4 GB to 1 TB
+• Widely used to transfer files from one location to another
+75
+
+--- PAGE 76 ---
+STORAGE HARDWARE
+• Can also be used to lock a computer or issue passwords
+• Can include biometric features
+76
+
+--- PAGE 77 ---
+HOW IT WORKS BOX
+More Storage for Your Tablet
+• Media tablets often have 64 GB of 
+storage
+• To extend storage, can transfer 
+content to and from PCs
+• Easier is to use a wireless hard drive
+• Need the appropriate app
+77
+
+--- PAGE 78 ---
+STORAGE HARDWARE
+• Other Types of Storage Systems
+• Network and Cloud Storage Systems
+• Use a storage device that is not connected directly to the user’s computer
+• Network Storage - accessed through a local network
+• Cloud Storage – access via the Internet
+•
+Cloud applications provide online storage for their services (Google Docs, Flickr, 
+Facebook, etc.)
+•
+Cloud storage services allow users to store documents online (Box, Google Drive, 
+Microsoft SkyDrive, etc.)
+•
+Files can be accessed from anywhere via an 
+Internet-enabled device
+•
+Files can be synched with your computer
+78
+
+--- PAGE 79 ---
+STORAGE HARDWARE
+79
+
+--- PAGE 80 ---
+STORAGE HARDWARE
+• Smart Cards
+• Credit card-sized piece of plastic that contains computer circuitry and components
+• Hold small amounts of data (64 KB or less)
+• Read by smart card reader
+• Often used for payment or identification purposes
+80
+
+--- PAGE 81 ---
+STORAGE HARDWARE
+• Evaluating Your Storage Alternatives
+• Characteristics to consider:
+• Research which media and devices best fit your situation
+• Most computers will need a hard drive, a recordable or rewritable optical drive, a flash memory 
+card reader, and at least one convenient free USB port
+81
+Speed
+Portability
+Convenience
+Price
+Compatibility Storage Capacity
+
+--- PAGE 82 ---
+QUICK QUIZ
+1. Of the following three options, the storage media that would likely hold the most data is a(n) 
+__________. 
+a. Internal hard drive
+b. USB flash memory drive
+c. Smart card
+2. True or False: A DVD+RW disc can be written to, erased, and rewritten to as needed.
+3. The circular rings on a magnetic disk on which data is stored are called __________. 
+Answers: 
+1) a; 2) True; 3) tracks
+82
+
+--- PAGE 83 ---
+COMMUNICATIONS HARDWARE
+• Communications Hardware
+• Enables the user to communicate with others over a network or the Internet
+• The type of communications device used depends on:
+• The device being used (desktop computer, notebook, mobile phone, etc.) 
+• The communication standard being used (such as Ethernet for wired networks, Wi-Fi for 
+wireless networks, Bluetooth for short-range wireless connections, or a cellular standard for 
+mobile phones)
+83
+
+--- PAGE 84 ---
+COMMUNICATIONS HARDWARE
+• Network Adapters and Modems
+• Network Adapter (network interface card (NIC))
+• Used to connect a computer to a network
+• The type of adapter used depends on the type of network and communications medium 
+being used
+• Modem
+• Used to connect a computer to another computer or to a network (typically the 
+Internet) over phone lines
+• Also used to refer to any device that connects a computer to a broadband Internet 
+connection, i.e., cable modem
+84
+
+--- PAGE 85 ---
+COMMUNICATIONS HARDWARE
+85
+
+--- PAGE 86 ---
+COMMUNICATIONS HARDWARE
+• Each type of modem matches a particular type of Internet connection (conventional dial-up, cable, 
+fixed wireless, DSL, etc.)
+• Both network adapters and modems are available in internal and external versions and in a variety 
+of formats (USB, Ethernet, etc.)
+• Other Networking Hardware
+• Hub or switch
+• Central device used to connect devices in a wired network together
+86
+
+--- PAGE 87 ---
+COMMUNICATIONS HARDWARE
+• Wireless access point or wireless router
+• Central device for wireless networks
+• Repeaters, range extenders, antennas
+• Used to increase the range of a network
+• Cabling
+• Connects wired devices
+• Twisted-pair, coaxial cable, fiber-optic cable
+87
+
+--- PAGE 88 ---
+QUICK QUIZ
+1. Which of the following is used to connect a computer to a network?
+a. Modem
+b. Network adapter
+c. Repeater
+2. True or False: Both network adapters and modems are available in internal and external 
+versions. 
+3. A wireless __________ is the central device for a wireless network. 
+Answers: 
+1) b; 2) True; 3) router; access point
+88
+
+--- PAGE 89 ---
+SOFTWARE BASICS
+• Software Ownership Rights
+• Specify the allowable use of a program
+• Software license
+• Explains conditions for use of the software, such as how many computers on which the program 
+may be installed
+• Basic categories of software:
+• Commercial:  Developed and sold for profit
+• Shareware:  Distributed on the honor system
+• Freeware:  Given away free of charge
+• Public domain:  Not copyrighted
+• Open source software:  Programs whose source code is available to the general public
+89
+
+--- PAGE 90 ---
+SOFTWARE BASICS
+• Desktop vs. Mobile Software
+• Desktop Software
+• Used by portable computers and desktop computers
+• Mobile Software (mobile apps)
+• Software specifically designed for a specific type of mobile 
+phone or device
+• Typically has a more compact, efficient appearance than 
+desktop software
+• Include features for easier data input, i.e., onscreen 
+keyboard
+• Is usually downloaded
+90
+
+--- PAGE 91 ---
+SOFTWARE BASICS
+• Installed vs. Cloud Software
+• Installed Software
+• Installed on and run from the user’s device
+• Can be purchased in physical form or downloaded
+• Cloud Software
+• Accessed on demand from any device with an Internet connection
+• Also referred to as Software as a Service (SaaS) or cloudware
+• May be slower than applications stored on the hard drive
+• Documents cannot be accessed if the server is down, or when you do not have Internet 
+access
+91
+
+--- PAGE 92 ---
+SOFTWARE BASICS
+92
+
+--- PAGE 93 ---
+TREND BOX
+Mobile App Builders
+• Many tools are available to help develop mobile apps and deploy them on various platforms
+• One example is appsbar
+• After the app is created, 
+appsbar tests it and then 
+submits it to major app 
+markets for publication
+93
+
+--- PAGE 94 ---
+SOFTWARE BASICS
+• Common Software Commands
+• Many concepts and commands are similar from app to app
+• Can be issued via menus, keyboard shortcuts, or command buttons on a toolbar or Ribbon
+• Menus
+•
+Text-based lists that provide access to commands that can be selected
+• Keyboard Shortcuts
+•
+Key combinations that correspond to specific commands
+•
+Usually combinations using the Ctrl or Alt keys, the function keys, and/or alphanumeric keys
+94
+
+--- PAGE 95 ---
+SOFTWARE BASICS
+• Toolbar
+•
+Contains buttons used to issue command
+• Ribbon
+•
+Consists of tabs that contain groups of related commands
+•
+First introduced with the release of Microsoft Office 2007
+•
+Home tab contains the most frequently used commands
+•
+Contextual tabs are displayed as needed
+•
+File tab replaces the Office button
+95
+
+--- PAGE 96 ---
+SOFTWARE BASICS
+96
+
+--- PAGE 97 ---
+SOFTWARE BASICS
+• Editing a Document
+• Changing the content of a document, such as adding or deleting text
+• Insertion point marks the current location 
+• Typing text adds it at that location
+• Delete and Backspace key are used to delete text
+• Formatting a Document
+• Changing the appearance of a document
+• Changing the font face, size, color, style
+• Changing line spacing or page margins
+• Adding page numbering, borders, or shading
+97
+
+--- PAGE 98 ---
+SOFTWARE BASICS
+• Working with Files and Folders
+• File
+• Anything stored on a storage medium (program, letter, digital photo, song, etc.)
+• Filename
+• Name the user gives a file
+• Folders
+• Used to store related files to keep files organized
+• File management program
+• Allow you to perform file management tasks easily and efficiently (copying files, deleting files, etc.)
+98
+
+--- PAGE 99 ---
+SOFTWARE BASICS
+• Allow you to perform file management tasks easily and efficiently
+•
+View files
+•
+Copy and 
+paste files
+•
+Delete files
+•
+Create folders
+to organize files
+•
+Search for files
+99
+
+--- PAGE 100 ---
+QUICK QUIZ
+1. When you change the content of a document, such as adding or deleting text, you are __________.
+a. Editing the document
+b. Formatting the document
+c. Copying the document
+2. True or False: The keyboard shortcut is the new tool available in recent versions of Microsoft 
+Office to issue commands. 
+3. The file management program in Windows 8 is  __________. 
+Answers: 
+1) a; 2) False; 3) File Explorer
+100
+
+--- PAGE 101 ---
+SUMMARY
+• Digital Data Representation
+• Input Hardware
+• Processing Hardware and Other Hardware Inside the System Unit
+• Output Hardware
+• Storage Hardware
+• Communications Hardware
+• Software Basics
+101

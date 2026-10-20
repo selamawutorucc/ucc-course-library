@@ -1,0 +1,62 @@
+
+--- PAGE 1 ---
+UNIVERSITY OF CAPE COAST 
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCE 
+SCHOOL OF PHYSICAL SCIENCES 
+Group 11 & 12 
+ 
+PHY 101: General Physics I 
+TUTORIAL (April 2021) 
+1. An object is launched at a velocity of 20m/s in a direction making an angle of 25° 
+upward with the horizontal. 
+a. What is the maximum height reached by the object? 
+b. What is the total flight time of the object? 
+c. Determine the range of the object (horizontal distance covered by the object) 
+d. What is the magnitude of the velocity of the object just before it hits the ground? 
+2. A 50 g mass vibrates in S.H.M at the end of a spring. The amplitude of the motion is 12 
+cm, and the period is 1.70 s. Find 
+a. the frequency, 
+b. the spring constant, 
+c. the maximum speed of the mass, 
+d. the maximum acceleration of the mass. 
+3. Find the work done in moving an object along a straight line from (3, 2, -1) to (2, -1, 4) in 
+a force field given by F = 4i – 3j +2k. Calculate the power dissipated if it took 4s to move 
+the object to its final position. 
+ELASTICITY  
+4. A metal bar with square cross section (20mm x 20mm) and length L= 3.0m is subjected 
+to an axial tensile force of 50kN. The measured elongation of the bar is L= 1.5mm. 
+Calculate the tensile stress and strain in the bar. Hence find the Young’s modulus of the 
+metal bar. 
+FLUIDS  
+5. The area of a piston of a force pump is 8cm2. What force must be applied to the piston to 
+raise oil (ρ= 0.78g/cm3) to a height of 6.0m? Assume the upper end of the oil is open to 
+the atmosphere. (Ans: 37N) 
+6. A hydraulic lift raises a 2 000-kg automobile when a 500-N force is applied to the smaller 
+piston. If the smaller piston has an area of 10 cm2, what is the cross-sectional area of the 
+larger piston? (Ans: 392 cm) 
+7. Some species of whales can dive to depths of one kilometer. What is the total pressure 
+they experience at this depth? (rsea = 1 020 kg/m3 and 1.01 ´ 105 N/m2 = 1 ATM.). (Ans: 
+100 ATM) 
+KINETIC THEORY AND THERMODYNAMICS 
+8. A tank used for filling helium balloons has a volume of 0.300 m3 and contains 2.00 mol 
+of helium gas at 20.0 0C. Assuming that the helium behaves like an ideal gas,
+
+--- PAGE 2 ---
+UNIVERSITY OF CAPE COAST 
+COLLEGE OF AGRICULTURE AND NATURAL SCIENCE 
+SCHOOL OF PHYSICAL SCIENCES 
+Group 11 & 12 
+ 
+PHY 101: General Physics I 
+TUTORIAL (April 2021) 
+a. what is the total translational kinetic energy of the molecules of the gas? (Ans: 
+7300J) 
+b. What is the average kinetic energy per molecule? (Ans: 6.0710-21 J) 
+9. Helium gas occupies a volume of 0.04 m3 at a pressure of 2 x 105 Pa (Nm-2) and 
+temperature 300 K. Calculate 
+a. the mass of helium, (Ans: 12.8 g) 
+b. the r.m.s speed of its molecules, (Ans: 1369 ms-1) 
+10. What is the final temperature of a mixture of 100 g of water at 90 ℃ and 600g of water at 
+20 ℃? Specific Heat Capacity for water is 4186 J/kg℃. (Ans: 30 ℃) 
+11. 2.00 L of a gas is known to be at a temperature of 27 ℃ and at 740 mmHg pressure. 
+What is its volume at standard atmospheric pressure of 760 mmHg? (Ans: 1.95 L)

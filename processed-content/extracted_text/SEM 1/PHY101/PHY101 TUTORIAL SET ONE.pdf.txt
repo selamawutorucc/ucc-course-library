@@ -1,0 +1,61 @@
+
+--- PAGE 1 ---
+UNIVERSITY OF CAPE COAST 
+DEPARTMENT OF PHYSICS 
+PHY 101 (GENERAL PHYSICS) 
+TUTORIAL SET ONE 
+1. What do you mean by physical quantity? 
+2. Differentiate between fundamental and derived unit 
+3. Write the definition of Dimensions. 
+4. Write the dimensional formula of the following physical quantities  
+(i) Potential Energy (ii) Power (iii) Surface Tension (iv) Strain (v) stress 
+5. Add the following velocities and leave your answer in two significant figure 
+     0.0234 m/s, 1.234 m/s, 0.00032 m/s, 1.0001 m/s and 0.1011 m/s 
+6. Check the correctness of the relation 𝜆 = h /mv; where 𝜆 is wavelength, h- Planck’s constant, 
+m is mass of the particle and v - velocity of the particle. 
+7. Check the correctness of the following relation by using method of dimensions 
+ (i) v = u + at 
+ (ii) 𝐹=
+𝑀𝑉
+𝑟2 
+ (iii) 𝑣2 −𝑢2 = 2𝑎𝑠 
+8. Convert velocity of 100 km/hr into m/s  
+9. what is the formula, S.I units and physical quantity of the following  
+  (a) [𝑀𝐿2𝑇−3] 
+   (b) [𝑀1𝐿2𝑇−2] 
+10. The velocity of a particle is given in terms of time t by the equation v = At + B/t + C. What 
+are the dimensions of A, B and C? 
+11. The speed of sound in a gas is given by  𝑉= 𝑘𝜌𝑥𝑃𝑦, where V=speed, Pressure, 𝜌 is density
+
+--- PAGE 2 ---
+and k is dimensionless constant. Find the constants x and y and write an equation relating V,   
+  and 𝜌  
+12. The frequency f of a transverse wave in a stretched string depends on the length L, tension T,     
+    and linear density m. Deduce the formula for f in terms of L, T and m using         dimensional     
+    analysis. 
+13. Newton’s law of universal gravitation is represented by 
+                𝐹=
+𝐺𝑀𝑚
+𝑟2 
+        Here F is the magnitude of the gravitational force exerted by one small object           
+        on another, M and m are the masses of the objects, and r is a distance. Force  
+        has the S.I units 𝑘𝑔/𝑚𝑠2. What are the SI units of the proportionality 
+         constant G? 
+14. How many significant figures do have in the following? 
+         (i) 0.24560 cm 
+         (ii) 0.000023120 kg  
+15. On an interstate highway in a rural region of Wyoming, a car is traveling at a speed of 38.0     
+     0 m/s. Is this car exceeding the speed limit of 75.0 mi/h? What if the driver is from outside               
+    U.S. and is familiar with speeds measured in km/h? What is the speed of the car in km/h? 
+16. A force of 3N acts on 90” to a force of 4N. Find the magnitude and direction of the   
+      resultant, R. 
+17. A particle which is moving due east at 4ms” changes direction and starts to move due south 
+at 3ms’. Find the change in velocity. 
+18. Consider two vectors A = 3i – 2j and B = – 4i + 3j. Calculate: 
+    (i) 3B – A (ii) the magnitude of (i) (iii) the unit vector of (i) 
+19. A velocity of a particle moving at an angle of 120 ͦ to the horizontal is 24 km/hr. find the 
+horizontal and vertical components of the velocity.  
+20. (a) what are the uses of dimensions? 
+      (b) what are the limitations of dimensional analysis?
+
+--- PAGE 3 ---

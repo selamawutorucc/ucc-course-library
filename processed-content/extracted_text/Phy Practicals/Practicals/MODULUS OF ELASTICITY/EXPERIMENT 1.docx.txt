@@ -1,0 +1,51 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSSEL								SM/SMS/10/0026
+MED 111					GROUP 7
+EXPERIMENT 1									9TH OCTOBER, 2010
+DETERMINATION OF THE MODULUS OF ELASTICITY
+AIM: To determine of the modulus of elasticity of a given metal bar.
+APPARATUS: Dial gauge 10/0.01 mm, holder for dial gauge, flat bars set, knife edge with stirrup, bolts with knife edge, weight holder with slotted weights, spring balance, meter rule.
+DIAGRAM: 
+METHOD:
+The setup was done as shown in the diagram above. The dial gauge was mounted on the knife edge with stirrup. The flat bars were positioned accurately on the two supporting knife edges with the possibility to move in the x and y directions. The geometric data of the setup and the bars were recorded several times or at different positions. The dial gauge possesses a restoring force which obeys Hooke’s Law (F is proportional to the extension e). The height b, width a and the length h of the metal bar provided was measured and recorded. The metal bar was positioned such that the length between the knife edges was 45 cm. The metal bar was then loaded with 250g of the masses making sure it was well centered between the knife edges. Dynamometer and plunger of the dial gauge were also such that the dial gauge showed full deflection. The plunger was manually raised and the gently lowered and the dial set to zero. Through a reduction of the tension of force to the dynamometer a force resulted according to the above conditions. The weights were carefully reduced by 50g intervals and the dial reading was recorded in each case. The procedure was repeated 5 times and the results were tabulated.
+THEORY:
+An elastic modulus or modulus of elasticity is the mathematical description of an object or substance’s tendency to be deformed elastically (that is non-permanently) when a force is applied to it. The elastic modulus of an object is defined as the slope of its stress-strain curve in the elastic deformation region. It describes the connection between tension and stretch with the deformation of a firm body with linear flexible behavior. The modulus of elasticity is shortened with elastic module or as symbol with E. The majority of modulus of elasticity is moduli of elasticity.
+Young’s modulus (E) describes tensile elasticity or the tendency of an object to deform along an axis when opposing forces are applied along that axis. It is often simply referred to as the Elastic Modulus. The value of the Young’s Modulus depends only on the material. The unit of the Young’s modulus of elasticity is Pa or N/ m2. Tensile strength is ratio of the magnitude of the external to the cross-sectional area. Tensile strength is defined as the ratio is defined as the ratio of the change in length to the original length. A material having a large Young’s modulus is difficult to stretch and vice versa. Experiment show that the change is length for a fixed external force is proportional to the original length and the force necessary to produce a given strain is proportional to the cross-sectional area.
+From the equation of the Young’s Modulus of Elasticity, E=FL /Ae       
+where F= tension on bar/ Force applied
+             A=Cross-sectional area of bar
+              e= Extension produced
+FAe= FL     F=EAe/L. this means that the gradient of a graph of F/N against e/m is given by EA/L  
+The amount of elongation of an object depends not only on the force applied to it, but also on the material of which it is made and on its dimensions.
+TABLE OF RESULTS
+Least count of dynamometer = 0.001cm. Acceleration due to gravity g =9.8m/s2
+GRAPH OF FORCE (F/N) AGAINST AVERAGE EXTENSION (eav/ cm)
+CALCULATIONS:
+                                                                   Length of bar = 50.3cm = 0.503m
+                                                                     Height (b) = 42cm = 0.42m
+                                                                    Width (a) = 2cm = 0.02m
+                                                      
+                                                                                                   Area = l × b
+                                                                                                             = 0.503m × 0.02m
+                                                                                                             = 0.01006m2
+
+From the equation of the graph,   , the slope of the graph (m) is 0.143. Using the equation,
+ , the slope of the graph, 0.143 =. But L = height = 0.285m and A = 0.01006m2. 
+DISCUSSION:
+ The graph of force/N against e/m is a straight line graph passing through the origin. The equation of the graph is y=0.143x. From this equation, the slope is 0.143 by comparing to the equation of a line (that is y=mx+c where c=intercept = 0).  The modulus of elasticity of the metal rod is found to be 715Nm-2. From the table, as force decrease, the extension also decreases. This means that the extension is directly proportional to the force (F α e). For example, from the table, when the force is 2.45N, the average extension is found to be 0.359cm. Again, when the force decreased to 1.96N by unloading 50g of the mass, the average extension decreased to 0.322cm. It is possible that the calculated modulus of elasticity is not the actual value of the metal due to the  fact that the ruler was not accurately calibrated which affected the measurement of the length of the metal bar. Also, errors might be due to the fact that readings were not taken at the eye level and that resulted in parallax errors. From the experiment, the change is length for a fixed external force is proportional to the original length and the force necessary to produce a given strain is proportional to the cross-sectional area.
+ERRORS:
+1) Errors might be due to the fact that the ruler was not accurately calibrated which affected the measurement of the length of the metal bar.
+2) Errors might be due to the fact that readings were not taken at the eye level and that resulted in parallax errors.
+PRECAUTIONS:
+  1) It was ensured that the bars were positioned accurately on the two supporting knife edges so that they could move in the x and y directions.
+  2) The readings were repeated and their averages taken or recorded in order to avoid random error.
+CONCLUSION:
+ The equation of the graph is y=0.143x therefore the slope of the graph is 0.143.  From the calculation, the modulus of elasticity of the metal found to be 715Nm-2.
+Reference:
+ SERWAY A. Raymond, Faughn S. J. (2005) College physics. Thomson Learning Inc. USA. Page 258.
+Mass/kg | Force/N | e1/cm | e2/cm | e3/cm | e4/cm | e5 /cm | eav/cm
+0.250 | 2.45 | 0.361 | 0.362 | 0.352 | 0.359 | 0.360 | 0.359
+0.200 | 1.96 | 0.327 | 0.328 | 0.332 | 0.315 | 0.310 | 0.322
+0.150 | 1.47 | 0.207 | 0.210 | 0.204 | 0.206 | 0.205 | 0.206
+0.100 | 0.98 | 0.164 | 0.166 | 0.144 | 0.150 | 0.156 | 0.156
+0.050 | 0.49 | 0.058 | 0.064 | 0.065 | 0.047 | 0.059 | 0.059

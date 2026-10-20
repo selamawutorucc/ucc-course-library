@@ -1,0 +1,65 @@
+PHYSICS PRACTICAL
+NANABANYIN ESSEL								SM/SMS/10/0026
+MED 112					GROUP 19
+EXPERIMENT 1 									3RD MARCH, 2011
+TITLE: WHEATSTONE BRIDGE EXPERIMENT
+AIM: To determine unknown resistances, total resistance of resistors in series, and total resistance of resistors in parallel.
+APPARATUS: Slide measuring bridge (1), connection box (1), standard PEK carbon resistor (1), unknown PEK carbon resistors (5), power supply, 5 V/1 A, +/-15 V (1), digital multimeter 071340.00 (1), three 500mm connecting cords (2 each; red, yellow and blue).
+DIAGRAM:
+THEORY: Wheatstone ridge is an instrument used in getting accurate resistance. This consists of four Resisters of resistance, R1, R2, R3 and R4 connected side by side together to form a closed circuit. The current flowing in the circuit divides into two branches. Varying the resistances, a stage is reached when no current flows through the galvanometer placed at the centre, indicating zero that is when C and Y are at the same potential (there is no potential between C and Y). The potential difference across R equals that across the length l2 and the potential difference across Rx equals l1.          Then R/RX =l2/l1   and Rx=R l1/l2
+For resisters R1 and R2 in Series and Parallel the equivalent resistance are respectively
+RX=R1 + R2 and 1/Rp =1/R1 +1/R2.
+METHOD: 
+In the experiment, the values of the resistors to be determined are made invisible and encoded as follows: A, B, C, and D. The resistance to be investigated (single, parallel-connected and series-connected) are as shown in the above diagram. Resistor A and the standard resistor 100Ω were connected using the connection box. Switching on the power supply, the correctness of the connection was checked by touching the bridge the bridge wire at the extreme ends (X and Y) with the slider jockey, J and the negative and positive readings of the digital multimeter G was observed. The position where there was zero reading on the multimeter represented the balanced point. The lengths l1 from the end X to the balanced point was measured.
+The procedure was then repeated for the rest of the unknown resistances B (with a 680 Ω resistor), C and D. After that unknown resistors A and C were connected in series and then in parallel, and their values were recorded. Because the side wire measuring bridge gives the best reading accuracy in its central part, the measuring resistance R was brought to order of the magnitude of RX. The multimeter, G (setting 100mA = 100mV), was balanced by moving of the slider.
+TABLE OF RESULTS:
+Least count of multimeter = 0.01
+Least count of meter rule = 1 mm
+CALCULATIONS:
+Using the formula from the theory, the values of the unknown resistors can be determined as follows;
+Unknown resistor A: RX=R (l1/ l2)
+RX = 100Ώ x 60.1cm/39.9 
+RX = 4.7 Ώ
+Therefore, A = 177.7 Ώ
+Unknown resistor B: RX=R (l1/ l2)
+RX = 680Ώ x 87.3cm/12.7cm
+RX = 4674.33Ώ
+Therefore, B = 4674.33Ώ
+Unknown resistor C: RX=R (l1/ l2)
+RX = 100Ώ x 87.6cm/12.4cm
+RX = 706.45Ώ
+Therefore, C = 706.45Ώ
+Unknown resistor D: RX=R (l1/ l2)
+RX = 100Ώ x 50.4cm/49.6cm
+RX = 101.6 Ώ
+Therefore, D = 101.6Ώ
+Resistors in series: 
+Using the formula in the theory and the calculated values of resistors A and B, the value for these resistors in series is determined as follows:
+Rs=100×55.3cm/44.7cm
+    = 123.71Ώ
+Resistors in parallel: 
+Using the formula in the theory and the calculated values of resistors A and B, the value for these resistors in parallel is determined as follows:
+RP=100Ώ×89.6cm/10.4cm
+    =8615.38Ώ
+SOURCES OF ERROR:
+- Error of parallax may have occurred when readings were being taken from the galvanometer.
+- Errors may have occurred because of delaying in opening the key on the connection box after readings were taken.
+PRECAUTIONS:
+- The connections were made very tight to avoid any errors in the readings.
+- The reading of the balanced point was repeated to make sure of accurate readings of the length.
+CONCLUSION: The values for the unknown resistors and the values of two of the resistors in series and in parallel were successfully determined using the Wheatstone bridge instrument. 
+A = 177.7 Ώ
+ B = 4674.33Ώ
+ C = 706.45Ώ
+ D = 101.6Ώ
+REFERENCES:
+ATTAKORAH, Paul; Electric and Magnetic Fields and Atomic and Nuclear Physics, Kumasi: Modern Printing Press, 2006, pages 110 – 111.
+Faughn J.S. and Serway A.R. (2003) College Physics 6th edition. Published by THOMSON BROOKES/ COLE; Canada. Pages 391- 393.
+Nelkon .M. and Parker .P. (1995) Advanced Level Physics 7th edition. Published by CBS Publishers and Distributors; New Delhi. Pages 79-81.
+Unknown  Resistor |  |  | Standard Resistor
+A | 601 | 399 | 100 Ω
+B | 873 | 127 | 680 Ω
+C | 876 | 124 | 100 Ω
+D | 504 | 496 | 100 Ω
+A+C (In Parallel) | 553 | 447 | 100 Ω
+A+C (In Series) | 896 | 104 | 100 Ω

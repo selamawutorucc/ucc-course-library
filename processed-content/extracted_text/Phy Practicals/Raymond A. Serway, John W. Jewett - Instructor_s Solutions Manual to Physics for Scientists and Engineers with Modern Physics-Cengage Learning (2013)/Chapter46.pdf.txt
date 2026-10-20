@@ -1,0 +1,5076 @@
+
+--- PAGE 1 ---
+1193 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+46 
+Particle Physics and Cosmology 
+ 
+CHAPTER OUTLINE 
+ 
+46.1  
+The Fundamental Forces in Nature 
+46.2  
+Positrons and Other Antiparticles 
+46.3  
+Mesons and the Beginning of Particle Physics 
+46.4 
+Classification of Particles 
+46.5  
+Conservation Laws 
+46.6 
+Strange Particles and Strangeness 
+46.7 
+Finding Patterns in the Particles 
+46.8 
+Quarks 
+46.9 
+Multicolored Quarks 
+46.10 
+The Standard Model 
+46.11 
+The Cosmic Connection 
+46.12 
+Problems and Perspectives 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ46.1 
+Answers (a), (b), (c), and (d). Protons feel all these forces; but within 
+a nucleus the strong interaction predominates, followed by the 
+electromagnetic interaction, then the weak interaction. The 
+gravitational interaction is very small.  
+OQ46.2 
+Answer (e). Kinetic energy is transformed into internal energy:  
+Q = −ΔK. In the first experiment, momentum conservation requires 
+the final speed be zero:  
+ 
+ 
+p1 = mv −mv = 2mv f →
+v f = 0
+
+--- PAGE 2 ---
+1194     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The kinetic energy converted into internal energy is mv
+2:  
+ 
+ 
+ΔK1 = K f −Ki = 0 −
+1
+2 mv2 +
+1
+2 mv2
+(
+) = −mv2
+→
+Q1 = mv2 
+ 
+In the second experiment, momentum conservation requires the final 
+speed be half the initial speed:  
+ 
+ 
+p2 = mv + m 0( ) = 2mv f
+→
+v f = v
+2
+ 
+ 
+The kinetic energy converted into internal energy is mv2
+4
+:  
+ 
+ 
+ΔK2 = K f −Ki = 1
+2 2m
+(
+) v
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1
+2 mv2 = −mv2
+4
+→
+Q2 = mv2
+4
+ 
+OQ46.3 
+Answer (b). There are 2s + 1
+(
+) = 2
+3
+2 + 1
+(
+) = 4 states: the z component of 
+its spin angular momentum can be 3/2, 1/2, –1/2, or –3/2, in units of 
+. 
+OQ46.4 
+Answer (b). According the Table 46.1, the photon mediates the 
+electromagnetic force, the graviton the gravitational force, and the 
+W
++ and Z bosons the weak force.  
+OQ46.5 
+Answer (c). According to Table 46.2, the muon has much more rest 
+energy (105.7 MeV/c
+2) than the electron (0.511 MeV/c
+2) and the 
+neutrinos together (< 0.3 MeV/c
+2). The missing rest energy goes into 
+kinetic energy: mµc2 = Ktotal + mec2 + mνec2 + mνµc2. 
+OQ46.6 
+Answer (a). The vast gulfs not just between stars but between 
+galaxies and especially between clusters, empty of ordinary matter, 
+are important to bring down the average density of the Universe. We 
+can estimate the average density defined for the Solar System as the 
+mass of the Sun divided by the volume of a sphere of radius  
+2 × 10
+16 m: 
+ 
+ 
+2 × 1030 kg
+4
+3π(2 × 1016 m)3 = 6 × 10−20 kg/m3 = 6 × 10−23 g/cm3
+ 
+ 
+This is ten million times larger than the critical density 3H
+2/8π
+ G  
+= 6 × 10
+–30 g/cm
+3.  
+OQ46.7 
+Answer (b). Momentum would not be conserved. The electron and 
+positron together have very little momentum. A 1.02-MeV photon 
+has a definite amount of momentum. Production of a single gamma 
+ray could not satisfy the law of conservation of momentum, which 
+must hold true in this—and every—interaction.
+
+--- PAGE 3 ---
+Chapter 46     1195 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ46.8 
+The sequence is c, b, d, e, a, f, g. Refer to Figure 46.16 in the textbook. 
+The temperature corresponding to b is on the order of 10
+13 K. That for 
+hydrogen fusion d is on the order of 10
+7 K. A fully ionized plasma 
+can be at 10
+4 K. Neutral atoms can exist at on the order of 3 000 K, 
+molecules at 1 000 K, and solids at on the order of 500 K. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ46.1 
+The electroweak theory of Glashow, Salam, and Weinberg predicted 
+the W
++, W
+–, and Z particles. Their discovery in 1983 confirmed the 
+electroweak theory. 
+CQ46.2 
+Hadrons are massive particles with internal structure. There are two 
+classes of hadrons: mesons (bosons) and baryons (fermions). 
+Hadrons are composed of quarks, so they interact via the strong 
+force. Leptons are light particles with no structure. All leptons are 
+fermions. It is believed that leptons are fundamental particles 
+(otherwise, there would be leptonic bosons); leptons are not 
+composed of quarks, so they do not interact via the strong force.  
+CQ46.3 
+Before that time, the Universe was too hot for the electrons to remain 
+bound to any nucleus. The thermal motion of both nuclei and 
+electrons was too rapid for the Coulomb force to dominate. The 
+Universe was so filled high energy photons that any nucleus that 
+managed to captured an electron would immediately lose it because 
+of Compton scattering or the photoelectric effect.  
+CQ46.4 
+Baryons are heavy hadrons; they are fermions with spin 1
+2
+, 3
+2
+, 5
+2
+, …; 
+they are composed of three quarks. (Antibaryons are composed of 
+three antiquarks.) Mesons are light hadrons; they are bosons with 
+spin 0, 1, 2, …; they are composed of a quark and an antiquark. 
+CQ46.5 
+The decay is slow, relatively speaking. The decays by the weak 
+interaction typically take 10
+–10 s or longer to occur. This is slow in 
+particle physics. The decay does not conserve strangeness: the Ξ0 has 
+strangeness of  –2, the Λ0 has strangeness –1, and the π 0 has 
+strangeness 0. (Refer to Table 46.2.) 
+CQ46.6 
+The word “color” has been adopted in analogy to the properties of the 
+three primary colors (and their complements) in additive color 
+mixing. Each flavor of quark can have colors, designated as red, 
+green, and blue. Antiquarks are colored antired, antigreen, and 
+antiblue. We call baryons and mesons colorless. A baryon consists of 
+three quarks, each having a different color: the analogy is three
+
+--- PAGE 4 ---
+1196     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+primary colors combine to form no color: colorless white. A meson 
+consists of a quark of one color and antiquark with the 
+corresponding anticolor: the analogy is a primary color and its 
+complementary color combine to form no color: colorless white.  
+CQ46.7 
+No. Antibaryons have baryon number –1, mesons have baryon 
+number 0, and baryons have baryon number +1. The reaction cannot 
+occur because it would not conserve baryon number, unless so much 
+energy is available that a baryon-antibaryon pair is produced. 
+CQ46.8 
+The Standard Model consists of quantum chromodynamics (to 
+describe the strong interaction) and the electroweak theory (to 
+describe the electromagnetic and weak interactions). The Standard 
+Model is our most comprehensive description of nature. It fails to 
+unify the two theories it includes, and fails to include the 
+gravitational force. It pictures matter as made of six quarks and six 
+leptons, interacting by exchanging gluons, photons, and W and Z 
+bosons. In 2011 and 2012, experiments at CERN produced evidence 
+for the Higgs boson, a cornerstone of the Standard Model. 
+CQ46.9 
+(a) Baryons consist of three quarks. 
+(b) Antibaryons consist of three antiquarks. 
+(c) and (d) Mesons and antimesons consist of a quark and an 
+antiquark. 
+ 
+Since quarks have spin quantum number 1
+2
+ and can be spin-up or 
+spin-down, it follows that the baryons and antibaryons must have a 
+half-integer spin ( 1
+2
+, 3
+2
+, …), while the mesons and antimesons must 
+have integer spin (0, 1, 2, …). 
+CQ46.10 
+We do know that the laws of conservation of momentum and energy 
+are a consequence of Newton’s laws of motion; however, 
+conservation of baryon number, lepton number, and strangeness 
+cannot be traced to Newton’s laws. Even though we do not know 
+what electric charge is, we do know it is conserved, so too we do not 
+know what baryon number, lepton number, or strangeness are, but 
+we do know they are conserved—or in the case of strangeness, 
+sometimes conserved—from observations of how elementary 
+particles interact and decay. You can think of these conservation laws 
+as regularities which we happen to notice, as a person who does not 
+know the rules of chess might observe that one player’s two bishops 
+are always on squares of opposite colors. (From the observation of 
+the behavior of baryon number, lepton number, and strangeness in 
+particle interactions, gauge theories, which are not discussed in the 
+textbook, have been developed to describe that behavior.)
+
+--- PAGE 5 ---
+Chapter 46     1197 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ46.11 
+The interactions and their field particles are listed in Table 46.1. 
+ 
+Strong Force—Mediated by gluons. 
+Electromagnetic Force—Mediated by photons. 
+Weak Force—Mediated by W
++, W
+–, and Z
+0 bosons. 
+Gravitational Force—Mediated by gravitons (not yet observed). 
+CQ46.12 
+Hubble determined experimentally that all galaxies outside the Local 
+Group are moving away from us, with speed directly proportional to 
+the distance of the galaxy from us, by observing that their light 
+spectra were red shifted in direct relation to their distance from the 
+Local Group.  
+CQ46.13 
+The baryon number of a proton or neutron is one. Since baryon 
+number is conserved, the baryon number of the kaon must be zero. 
+See Table 46.2.  
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 46.1 
+The Fundamental Forces in Nature 
+Section 46.2 
+Positrons and Other Antiparticles 
+P46.1 
+(a) 
+The rest energy of a total of 6.20 g of material is converted into 
+energy of electromagnetic radiation: 
+ 
+ 
+ 
+E = mc2 = 6.20 × 10−3 kg
+(
+) 2.998 × 108 m s
+(
+)
+2 = 5.57 × 1014 J
+ 
+ 
+(b) 
+5.57 × 1014 J = 5.57 × 1014 J $0.11
+kWh
+⎛
+⎝⎜
+⎞
+⎠⎟
+k
+1 000
+⎛
+⎝⎜
+⎞
+⎠⎟
+W
+J s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= $1.70 × 107
+ 
+P46.2 
+(a) 
+The minimum energy is released, and hence the minimum 
+frequency photons are produced, when the proton and antiproton 
+are at rest when they annihilate. 
+ 
+ 
+That is, E = E0 and K = 0. To conserve momentum, each photon 
+must have the same magnitude of momentum, and p = E/c, so 
+each photon must carry away one-half the energy. 
+ 
+ 
+Thus  Emin = 2E0
+2
+= E0 = 938.3 MeV = hfmin. 
+ 
+ 
+Thus, fmin =
+938.3 MeV
+(
+) 1.602 × 10−13 J MeV
+(
+)
+6.626 × 10−34 J ⋅s
+= 2.27 × 1023 Hz .
+
+--- PAGE 6 ---
+1198     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+λ =
+c
+fmin
+= 2.998 × 108 m s
+2.27 × 1023 Hz = 1.32 × 10−15 m 
+P46.3 
+(a) 
+Assuming that the proton and antiproton are left nearly at rest 
+after they are produced, the energy E of the photon must be 
+ 
+ 
+ 
+E = 2E0 = 2 938.3 MeV
+(
+) = 1 876.6 MeV 1.602 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.01× 10−10 J
+ 
+ 
+ 
+Thus, E = hf = 3.01 × 10
+–10 J, so 
+ 
+ 
+ 
+f =
+3.01× 10−10 J
+6.626 × 10−34 J ⋅s = 4.53 × 1023 Hz 
+ 
+(b) 
+λ = c
+f = 2.998 × 108 m s
+4.53 × 1023 Hz = 6.61× 10−16 m 
+P46.4 
+The half-life of 
+14O is 70.6 s, so the decay constant is λ = ln 2
+T1 2
+= ln 2
+70.6 s . 
+ 
+The number of 
+14O nuclei remaining after five minutes is 
+ 
+ 
+ 
+N = N0e−λt = 1010
+(
+)exp −ln2
+70.6 s 300 s
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥= 5.26 × 108 
+ 
+The number of these in one cubic centimeter of blood is 
+ 
+ 
+ 
+′
+N = N
+1.00 cm3
+total volume of blood
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.26 × 108
+(
+)
+1.00 cm3
+2 000 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.63 × 105
+ 
+ 
+and their activity is 
+R = λ
+′
+N = ln 2
+70.6 s 2.63 × 105
+(
+) = 2.58 × 103 Bq  ~103 Bq 
+P46.5 
+The total energy of each particle is the sum of its rest energy and its 
+kinetic energy. Conservation of system energy requires that the total 
+energy before this pair production event equal the total energy after. In 
+γ →p+ + p−, conservation of energy requires that  
+ 
+ 
+Eγ →Ep+ + Ep−
+Eγ →mpc2 + Kp+
+(
+) + mpc2 + Kp−
+(
+)
+ 
+ 
+or 
+Eγ = ERp + Kp
+(
+) + ERp + Kp
+(
+)
+
+--- PAGE 7 ---
+Chapter 46     1199 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The energy of the photon is given as 
+ 
+ 
+ 
+Eγ = 2.09 GeV = 2.09 × 103 MeV 
+ 
+From Table 46.2 or from the problem statement, we see that the rest 
+energy of both the proton and the antiproton is  
+ 
+ 
+ERp = ERp = mpc2 = 938.3 MeV 
+ 
+If the kinetic energy of the proton is observed to be 95.0 MeV, the 
+kinetic energy of the antiproton is 
+ 
+ 
+Kp  = Eγ  − ERp  −  ERp −Kp
+= 2.09 × 103 MeV – 2(938.3 MeV) – 95.0 MeV = 118 MeV
+ 
+ 
+ 
+ 
+Section 46.3 
+Mesons and the Beginning of Particle Physics 
+P46.6 
+The creation of a virtual Z
+0 boson is an energy fluctuation 
+ΔE = mZ0c2 = 91× 109 eV. By the uncertainty principle, it can last no 
+longer than Δt =
+
+2ΔE and move no farther than 
+ 
+ 
+ 
+c Δt
+(
+) =
+hc
+4π ΔE
+= 6.626 × 10−34 J⋅s
+(
+) 3.00 × 108 m s
+(
+)
+4π 91× 109 eV
+(
+)
+1 eV
+1.60 × 10−19 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.06 × 10−18 m = ~ 10−18 m
+ 
+P46.7 
+(a) 
+The particle’s rest energy is mc
+2. The time interval during which a 
+virtual particle of this mass could exist is at most Δt in 
+ΔEΔt = 
+2 = mc2Δt; or Δt =
+
+2mc2 ; so, the distance it could move 
+(traveling at the speed of light) is at most 
+ 
+ 
+ 
+d ≈cΔt =
+c
+2mc2 =
+6.626 × 10−34 J ⋅s
+(
+) 2.998 × 108 m/s
+(
+)
+4πmc2 1.602 × 10−19 J/eV
+(
+)
+= 1.240 × 10−6 eV ⋅m
+4πmc2
+1 nm
+10−9 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1 240 eV ⋅nm
+4πmc2
+= 98.7 eV ⋅nm
+mc2
+
+--- PAGE 8 ---
+1200     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+or d ≈98.7
+mc2 , where d is in nanometers and mc
+2 is in electron volts.  
+ 
+ 
+According to Yukawa’s line of reasoning, this distance is the 
+range of a force that could be associated with the exchange of 
+virtual particles of this mass. 
+ 
+(b) 
+The range is inversely proportional to the mass of the field 
+particle. 
+ 
+(c) 
+The value of mc
+2 for the proton in electron volts is 938.3 × 10
+6. The 
+range of the force is then  
+ 
+ 
+ 
+d ≈98.7
+mc2 =
+98.7
+938.3 × 106 = 1.05 × 10−7 nm
+(
+)
+10−9
+1 nm
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.05 × 10−16 m ~ 10−16 m
+ 
+ 
+ 
+ 
+Section 46.4 
+Classification of Particles 
+Section 46.5 
+Conservation Laws 
+*P46.8 
+Baryon number conservation allows the first and forbids the second . 
+P46.9 
+The energy and momentum of a photon are related by pγ = Eγ c. By 
+momentum conservation, because the neutral pion is at rest, the 
+magnitudes of the momenta of the two photons are equal; thus, their 
+energies are equal.  
+ 
+(a) 
+From Table 46.2, mπ 0 = 135 MeV c2 . Therefore,  
+ 
+ 
+ 
+Eγ = mπ 0c2
+2
+= 135.0 MeV
+2
+= 67.5 MeV for each photon 
+ 
+(b) 
+p = Eγ
+c = 67.5 MeV c 
+ 
+(c) 
+f = Eγ
+h =
+67.5 MeV
+6.626 × 10−34 J ⋅s
+1.602 × 10−13 J
+MeV
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.63 × 1022 Hz 
+P46.10 
+The time interval for a particle traveling with the speed of light to 
+travel a distance of 3 × 10
+–15 m is 
+ 
+ 
+ 
+Δt = d
+v =
+3 × 10−15 m
+3.00 × 108 m s = ~ 10−23 s
+
+--- PAGE 9 ---
+Chapter 46     1201 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.11 
+(a) 
+p + p →µ+ + e− 
+Lµ: 0 + 0 →−1+ 0 and Le: 0 + 0 →0 + 1 
+ 
+ 
+ 
+muon lepton number and electron lepton number 
+ 
+(b) 
+π −+ p →p + π + 
+charge : −1+ 1→+1+ 1 
+ 
+(c) 
+p + p →p + p + n 
+baryon number : 1+ 1→1+ 1+ 1 
+ 
+(d) 
+γ + p →n + π 0 
+charge : 0 + 1→0 + 0 
+ 
+(f) 
+νe + p →n + e+ 
+Le: 1+ 0 →0 −1 
+ 
+ 
+ 
+electron lepton number 
+P46.12 
+(a) 
+Baryon number and charge are conserved, with respective values 
+of 
+ 
+ 
+ 
+baryon: 0 + 1 = 0 + 1 
+ 
+ 
+ 
+charge: 1 + 1 = 1 + 1 in both reactions (1) and (2). 
+ 
+(b) The strangeness values for the reactions are  
+ 
+ 
+(1) S: 0 + 0 = 1 – 1 
+ 
+ 
+(2) S: 0 + 0 = 0 – 1 
+ 
+ 
+Strangeness is not conserved in the second reaction. 
+P46.13 
+Check that electron, muon, and tau lepton number are conserved.  
+ 
+(a) 
+π −→µ−+ νµ
+ 
+ 
+Lµ:   0 →1−1 
+ 
+(b) 
+K+ →µ+ + νµ 
+ 
+Lµ:   0 →−1+ 1 
+ 
+(c) 
+νe + p+ →n + e+  
+Le:   −1+ 0 →0 −1 
+ 
+(d) 
+νe + n →p+ + e−  
+Le:   1+ 0 →0 + 1 
+ 
+(e) 
+νµ
++ n →p+ + µ− 
+Lµ:   1+ 0 →0 + 1 
+ 
+(f) 
+µ−→e−+ νe + νµ
+ 
+Lµ:   1→0 + 0 + 1 and  Le:   0 →1−1+ 0 
+P46.14 
+The relevant conservation laws are ∆Le = 0, ΔLµ = 0, and ΔLτ = 0. 
+ 
+(a) 
+π + →π 0 + e+ + ? 
+Le:   0 →0 −1+ Le implies Le = 1, so the particle 
+is νe .
+
+--- PAGE 10 ---
+1202     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+? + p →µ−+ p + π + 
+Lµ:   Lµ + 0 →+1+ 0 + 0 implies Lµ = 1, 
+so the particle is νµ . 
+ 
+(c) 
+Λ0 →p + µ−+ ? 
+Lµ:   0 →0 + 1+ Lµ implies Lµ = −1, so the 
+particle is νµ . 
+ 
+(d) τ + →µ+ + ?+ ? 
+Lµ:   0 →−1+ Lµ implies Lµ = 1, so one particle 
+is νµ . 
+ 
+ 
+Also, Lτ:   −1→0 + Lτ implies  Lτ = −1, so the other particle is 
+ντ . 
+P46.15 
+(a) 
+p+ →π + + π 0 
+check baryon number: 1→0 + 0 
+ 
+ 
+It cannot occur because it violates baryon number conservation. 
+ 
+(b) 
+p+ + p+ →p+ + p+ + π 0 
+It can occur. 
+ 
+(c) 
+p+ + p+ →p+ + π + check baryon number: 1+ 1→1+ 0 
+ 
+ 
+It cannot occur because it violates baryon number conservation. 
+ 
+(d) 
+π + →µ+ + νµ 
+It can occur. 
+ 
+(e) 
+n0 →p+ + e−+ νe It can occur. 
+ 
+(f) 
+π + →µ+ + n 
+check baryon number: 0 →0 + 1 
+ 
+ 
+ 
+check muon lepton number: 0 →−1+ 0 
+ 
+ 
+ 
+check masses: mπ + < mµ+ + mn 
+ 
+ 
+It cannot occur because it violates baryon number conservation,
+muon lepton number conservation, and energy conservation.
+ 
+P46.16 
+The reaction is µ+ + e−→ν + ν. 
+ 
+muon-lepton number before reaction: (–1) + (0) = –1 
+ 
+electron-lepton number before reaction: (0) + (1) = 1 
+ 
+Therefore, after the reaction, the muon-lepton number must be –1. 
+Thus, one of the neutrinos must be the antineutrino associated with 
+muons, and one of the neutrinos must be the neutrino associated with 
+electrons: νµ
+ and νe 
+ 
+Thus, 
+µ+ + e−→νµ + νe.
+
+--- PAGE 11 ---
+Chapter 46     1203 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.17 
+Momentum conservation for the decay requires the pions to have 
+equal speeds. 
+ 
+The total energy of each is 497.7 MeV
+2
+= 248.8 MeV, so  
+ 
+ 
+ 
+E2 = p2c2 + mc2
+(
+)
+2 gives 
+ 
+ 
+ 
+248.8 MeV
+(
+)
+2 = pc
+(
+)
+2 + 139.6 MeV
+(
+)
+2 
+ 
+Solving, 
+pc = 206 MeV = γ mvc =
+mc2
+1−v c
+(
+)
+2
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟: 
+ 
+ 
+ 
+pc
+mc2 = 206 MeV
+139.6 MeV =
+1
+1−v c
+(
+)
+2
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.48 
+ 
+ 
+ 
+v
+c = 1.48 1−
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+and  
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.18 1−
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= 2.18 −2.18 v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+ 
+3.18 v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2.18
+ 
+ 
+so 
+ 
+v
+c =
+2.18
+3.18 = 0.828   and   v = 0.828c . 
+P46.18 
+(a) 
+In the suggested reaction p →e+ + γ . 
+ 
+ 
+From Table 46.2, we would have for baryon numbers +1→0 + 0 ; 
+thus ΔB ≠0, so baryon number conservation would be violated. 
+ 
+(b) From conservation of momentum for the decay: pe = pγ 
+ 
+ 
+Then, for the positron, 
+ 
+ 
+ 
+ 
+Ee
+2 = pec
+(
+)
+2 + mec2
+(
+)
+2 
+ 
+ 
+becomes 
+ 
+ 
+ 
+ 
+Ee
+2 = pγ c
+(
+)
+2 + mec2
+(
+)
+2 = Eγ
+2 + mec2
+(
+)
+2 
+ 
+ 
+From conservation of energy for the system: mpc2 = Ee + Eγ 
+ 
+ 
+or 
+Ee = mpc2 −Eγ ,
+
+--- PAGE 12 ---
+1204     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+Ee
+2 = mpc2
+(
+)
+2 −2 mpc2
+(
+)Eγ + Eγ
+2. 
+ 
+ 
+Equating this to the result from above gives 
+ 
+ 
+ 
+Eγ
+2 + mec2
+(
+)
+2 = mpc2
+(
+)
+2 −2 mec2
+(
+)Eγ + Eγ
+2 
+ 
+ 
+ 
+Eγ =
+mpc2
+(
+)
+2 −mec2
+(
+)
+2
+2mpc2
+= 938.3 MeV
+(
+)
+2 −0.511 MeV
+(
+)
+2
+2 938.3 MeV
+(
+)
+= 469 MeV
+ 
+ 
+ 
+Also, Ee = mpc2 −Eγ = 938.3 MeV −469 MeV = 469 MeV,  
+ 
+ 
+Thus, 
+Ee = Eγ = 469 MeV . 
+ 
+ 
+Also, pγ = Eγ
+c = 469 MeV
+c
+, so pe = pγ = 469 MeV c . 
+ 
+(c) 
+The total energy of the positron is Ee = 469 MeV, 
+ 
+ 
+but Ee = γ mec2 =
+mec2
+1−v c
+(
+)
+2 , 
+ 
+ 
+so    
+1−
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= mec2
+Ee
+= 0.511 MeV
+469 MeV = 1.09 × 10−3, 
+ 
+ 
+which yields v = 0.000 999 4c . 
+P46.19 
+(a) 
+To conserve charge, the decay reaction is Λ0 →p + π −. 
+ 
+ 
+We look up in the table the rest energy of each particle: 
+ 
+ 
+ 
+mΛc2 = 1 115.6 MeV  
+mpc
+2 = 938.3 MeV  
+ 
+ 
+ 
+mπc2 = 139.6 MeV 
+ 
+ 
+The Q value of the reaction, representing the energy output, is the 
+difference between starting rest energy and final rest energy, and 
+is the kinetic energy of the products: 
+ 
+ 
+ 
+Q = 1 115.6 MeV −938.3 MeV −139.6 MeV = 37.7 MeV  
+ 
+(b) The original kinetic energy is zero in the process considered here, 
+so the whole Q becomes the kinetic energy of the products  
+ 
+ 
+ 
+Kp + Kπ = 37.7 MeV
+
+--- PAGE 13 ---
+Chapter 46     1205 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+The lambda particle is at rest. Its momentum is zero. System 
+momentum is conserved in the decay, so the total vector 
+momentum of the proton and the pion must be zero. 
+ 
+(d) The proton and the pion move in precisely opposite directions 
+with precisely equal momentum magnitudes.  Because their 
+masses are different, their kinetic energies are not the same.  
+ 
+ 
+The mass of the π -meson is much less than that of the proton, so it 
+carries much more kinetic energy. We can find the energy of each. 
+Let p represent the magnitude of the momentum of each. Then the 
+total energy of each particle is given by E
+2 = (pc)
+2 + (mc
+2)
+2 and its 
+kinetic energy is K = E – mc
+2. For the total kinetic energy of the two 
+particles we have 
+ 
+ 
+ 
+mp
+2c4 + p2c2 −mpc2 +
+mπ
+2c4 + p2c2 −mπc2
+                                                    = Q = mΛc2 −mpc2 −mπc2
+ 
+ 
+ 
+Proceeding to solve for pc, we find 
+ 
+ 
+ 
+mp
+2c4 + p2c2 = mΛ
+2c4 −2mΛc2
+mπ
+2c4 + p2c2 + mπ
+2c4 + p2c2 
+ 
+ 
+ 
+mπ
+2c4 + p2c2 = mΛ
+2c4 −mp
+2c4 + mπ
+2c4
+2mΛc2
+= 1 115.62 −938.32 + 139.62
+2(1 115.6)
+MeV = 171.9 MeV
+ 
+ 
+ 
+ 
+pc =
+171.92 −139.62 MeV = 100.4 MeV 
+ 
+ 
+Then the kinetic energies are  
+ 
+ 
+ 
+Kp =
+938.32 + 100.42 −938.3 = 5.35 MeV 
+ 
+ 
+and  Kπ =
+139.62 + 100.42 −139.6 = 32.3 MeV 
+ 
+ 
+No. The mass of the π − meson is much less than that of the
+proton, so it carries much more kinetic energy. The correct
+analysis using relativistic energy conservation shows that the
+kinetic energy of the proton is 5.35 MeV, while that of the π −
+meson is 32.3 Mev.
+
+--- PAGE 14 ---
+1206     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 46.6 
+Strange Particles and Strangeness 
+P46.20 
+The ρ0 →π + + π − decay must occur via the strong interaction.
+The KS
+0 →π + + π − decay must occur via the weak interaction.
+ 
+P46.21 
+(a) 
+π −+ p →2η 
+ 
+ 
+Baryon number: 0 + 1→0 
+ 
+ 
+It is not allowed because baryon number is not conserved. 
+ 
+(b) 
+K−+ n →Λ0 + π − 
+ 
+ 
+Baryon number: 0 + 1→1+ 0 
+ 
+ 
+Charge: −1+ 0 →0 −1 
+ 
+ 
+Strangeness: −1+ 0 →−1+ 0 
+ 
+ 
+Lepton number: 0 →0 
+ 
+ 
+The interaction may occur via the strong interaction since all 
+are conserved. 
+ 
+(c) 
+K−→π −+ π 0 
+ 
+ 
+Strangeness: −1→0 + 0 
+ 
+ 
+Baryon number: 0 →0 
+ 
+ 
+Lepton number: 0 →0 
+ 
+ 
+Charge: −1→−1+ 0 
+ 
+ 
+Strangeness conservation is violated by one unit, but everything 
+else is conserved. Thus, the reaction can occur via the 
+weak interaction , but not the strong or electromagnetic 
+interaction. 
+ 
+(d) 
+Ω−→Ξ−+ π 0 
+ 
+ 
+Baryon number: 1→1+ 0 
+ 
+ 
+Lepton number: 0 →0 
+ 
+ 
+Charge: −1→−1+ 0 
+ 
+ 
+Strangeness: −3 →−2 + 0 
+ 
+ 
+Strangeness conservation is violated by one unit, but everything 
+else is conserved. The reaction may occur by the 
+weak interaction , but not by the strong or electromagnetic 
+interaction.
+
+--- PAGE 15 ---
+Chapter 46     1207 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+η →2γ 
+ 
+ 
+Baryon number: 0 →0 
+ 
+ 
+Lepton number: 0 →0 
+ 
+ 
+Charge: 0 →0 
+ 
+ 
+Strangeness: 0 →0 
+ 
+ 
+No conservation laws are violated, but photons are the mediators 
+of the electromagnetic interaction. Also, the lifetime of the η is 
+consistent with the electromagnetic interaction . 
+P46.22 
+(a) 
+µ−→e−+ γ 
+Le:   0 →1+ 0 
+ 
+ 
+ 
+Lµ:   1→0 
+ 
+ 
+ 
+electron and muon lepton numbers 
+ 
+(b) 
+n →p + e−+ νe 
+Le:   0 →0 + 1+ 1 
+ 
+ 
+ 
+electron lepton number 
+ 
+(c) 
+Λ0 →p + π 0 
+Strangeness: −1→0 + 0 
+ 
+ 
+ 
+Charge: 0 →+1+ 0 
+ 
+ 
+ 
+charge and strangeness 
+ 
+(d) 
+p →e+ + π 0 Baryon number: +1→0 + 0 
+ 
+ 
+ 
+baryon number 
+ 
+(e) 
+Ξ0 →n + π 0 
+Strangeness: −2 →0 + 0 
+ 
+ 
+ 
+strangeness 
+P46.23 
+(a) 
+K+ + p →? + p 
+ 
+ 
+The strong interaction conserves everything. 
+ 
+ 
+Baryon number:  0 + 1→B + 1 so 
+B = 0 
+ 
+ 
+Charge:  
++1+ 1→Q + 1 
+so 
+Q = +1 
+ 
+ 
+Lepton numbers:  0 + 0 →L + 0 so 
+Le = Lµ = Lτ = 0 
+ 
+ 
+Strangeness:  
++1+ 0 →S + 0 
+so 
+S = 1 
+ 
+ 
+The conclusion is that the particle must be positively charged, a 
+non-baryon, with strangeness of +1. Of particles in Table 46.2, it 
+can only be the K+
+. Thus, this is an elastic scattering process. 
+ 
+ 
+The weak interaction conserves all but strangeness, and ΔS = ±1.
+
+--- PAGE 16 ---
+1208     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Ω−→? + π − 
+ 
+ 
+Baryon number: 
++1→B + 0 
+so 
+B = 1 
+ 
+ 
+Charge:  
+−1→Q −1 
+so 
+Q = 0 
+ 
+ 
+Lepton numbers:  0 →L + 0 
+so 
+Le = Lµ = Lτ = 0 
+ 
+ 
+Strangeness:  
+−3 →S + 0 
+so 
+∆S = 1: S = –2 
+ 
+ 
+ 
+ 
+(There is no particle with S = –4.) 
+ 
+ 
+The particle must be a neutral baryon with strangeness of –2. 
+Thus, it is the Ξ0 . 
+ 
+(c) 
+K+ →? + µ+ + νµ 
+ 
+ 
+Baryon number: 
+0 →B + 0 + 0 so 
+B = 0 
+ 
+ 
+Charge:  
++1→Q + 1+ 0 
+so 
+Q = 0 
+ 
+ 
+Lepton numbers: Le: 0 →Le + 0 + 0 
+so 
+Le = 0 
+ 
+ 
+ 
+Lµ: 0 →Lµ −1+ 1 
+so 
+Lµ = 0 
+ 
+ 
+ 
+Lτ: 0 →Lτ + 0 + 0 
+so 
+Lτ = 0 
+ 
+ 
+Strangeness: 
+1→S + 0 + 0 so 
+ΔS = ±1: S = 0 
+ 
+ 
+ 
+ 
+(There is no meson with S = 2.) 
+ 
+ 
+The particle must be a neutral meson with strangeness 
+= 0 ⇒π 0 . 
+P46.24 
+(a) 
+Ξ−→Λ0 + µ−+ νµ 
+ 
+ 
+Baryon number: +1→+1+ 0 + 0 Charge:  −1→0 −1+ 0 
+ 
+ 
+Le:   0 →0 + 0 + 0   Lµ:   0 →0 + 1+ 1 
+ 
+ 
+Lτ:   0 →0 + 0 + 0 Strangeness: −2 →−1+ 0 + 0 
+ 
+ 
+Conserved quantities are B, charge, Le, and Lτ . 
+ 
+(b) 
+KS
+0 →2π 0 
+ 
+ 
+Baryon number: 0 →0 
+Charge: 0 →0 
+ 
+ 
+Le:   0 →0   Lµ:   0 →0 
+ 
+ 
+Lτ:   0 →0 Strangeness: +1→0 
+ 
+ 
+Conserved quantities are B, charge, Le, Lµ, and Lτ .
+
+--- PAGE 17 ---
+Chapter 46     1209 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+K −+ p →Σ0 + n 
+ 
+ 
+Baryon number: 0 + 1→1+ 1 
+Charge: −1+ 1→0 + 0 
+ 
+ 
+Le:   0 + 0 →0 + 0   Lµ:   0 + 0 →0 + 0 
+ 
+ 
+Lτ:   0 + 0 →0 + 0 Strangeness: −1+ 0 →−1+ 0 
+ 
+ 
+Conserved quantities are S, charge, Le, Lµ, and Lτ . 
+ 
+(d) 
+Σ0 + Λ0 + γ 
+ 
+ 
+Baryon number: +1→1+ 0 
+Charge: 0 →0 
+ 
+ 
+Le:   0 →0 + 0   Lµ:   0 →0 + 0 
+ 
+ 
+Lτ:   0 →0 + 0 
+Strangeness: −1→−1+ 0 
+ 
+ 
+Conserved quantities are B, S, charge, Le, Lµ, and Lτ . 
+ 
+(e) 
+e+ + e−→µ+ + µ− 
+ 
+ 
+Baryon number: 0 + 0 →0 + 0 
+Charge: +1−1→+1−1 
+ 
+ 
+Le:   −1+ 1→0 + 0   Lµ:   0 + 0 →+1−1 
+ 
+ 
+Lτ:   0 + 0 →0 + 0 Strangeness: 0 + 0 →0 + 0 
+ 
+ 
+Conserved quantities are B, S, charge, Le, Lµ, and Lτ . 
+ 
+(f) 
+p + n →Λ0 + Σ− 
+ 
+ 
+Baryon number: −1+ 1→−1+ 1 Charge: −1+ 0 →0 −1 
+ 
+ 
+Le:   0 + 0 →0 + 0   Lµ:   0 + 0 →0 + 0 
+ 
+ 
+Lτ:   0 + 0 →0 + 0 Strangeness: 0 + 0 →+1−1 
+ 
+ 
+Conserved quantities are B, S, charge, Le, Lµ, and Lτ . 
+P46.25 
+(a) 
+Λ0 →p + π − 
+Strangeness: −1→0 + 0, so ∆S = +1 
+ 
+ 
+ 
+Strangeness is not conserved. 
+ 
+(b) 
+π −+ p →Λ0 + K0 Strangeness: 0 + 0 →−1+ 1, so ∆S = 0 
+ 
+ 
+ 
+Strangeness is conserved. 
+ 
+(c) 
+p + p →Λ0 + Λ0 
+Strangeness: 0 + 0 →+1−1, so ∆S = 0 
+ 
+ 
+ 
+Strangeness is conserved.
+
+--- PAGE 18 ---
+1210     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) 
+π −+ p →π −+ Σ+ Strangeness: 0 + 0 →0 −1, so ∆S = –1 
+ 
+ 
+ 
+Strangeness is not conserved. 
+ 
+(e) 
+Ξ−→Λ0 + π − 
+Strangeness: −2 →−1+ 0, so ∆S = +1 
+ 
+ 
+ 
+Strangeness is not conserved. 
+ 
+(f) 
+Ξ0 →p + π − 
+Strangeness: −2 →0 + 0, so ∆S = +2 
+ 
+ 
+ 
+Strangeness is not conserved. 
+P46.26 
+As a particle travels in a circle, it experiences a centripetal force, and 
+the centripetal force can be related to the momentum of the particle.  
+ 
+ 
+ 
+F
+∑
+= ma:
+qvBsin90° = mv2
+r
+→
+mv = p = qBr
+ 
+ 
+(a) 
+Using p = qBr gives momentum in units of kg ⋅ m/s. To convert 
+kg ⋅ m/s into units of MeV/c, we multiply and divide by c: 
+ 
+ 
+ 
+kg ⋅m
+s
+⎛
+⎝⎜
+⎞
+⎠⎟=
+kg ⋅m
+s
+⎛
+⎝⎜
+⎞
+⎠⎟
+c
+c
+⎛
+⎝⎜⎞
+⎠⎟=
+kg ⋅m
+s
+⎛
+⎝⎜
+⎞
+⎠⎟2.998 × 108 m/s
+(
+) 1
+c
+⎛
+⎝⎜⎞
+⎠⎟
+= 2.998 × 108 kg ⋅m2
+s2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1
+c
+⎛
+⎝⎜⎞
+⎠⎟
+= 2.998 × 108 J 1
+c
+⎛
+⎝⎜⎞
+⎠⎟
+1 MeV
+1.602 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.871× 1021 MeV c
+ 
+ 
+ 
+ 
+pΣ+ = eBrΣ+
+= 1.602 × 10−19 C
+(
+) 1.15 T
+(
+) 1.99 m
+(
+)1.871× 1021 MeV c
+kg ⋅m/s
+= 686 MeV c
+ 
+ 
+ 
+ 
+pπ + = eBrπ +
+= 1.602 × 10−19 C
+(
+) 1.15 T
+(
+) 0.580 m
+(
+) 1.871× 1021 MeV c
+kg ⋅m/s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 200 MeV c
+ 
+ 
+(b) The total momentum equals the momentum of the Σ
++ particle. The 
+momentum of the pion makes an angle of 64.5° with respect to 
+the original momentum of the Σ
++ particle. If we take the direction 
+of the momentum of the Σ
++ particle as an axis of reference, and let 
+φ be the angle made by the neutron’s path with the path of the Σ
++
+
+--- PAGE 19 ---
+Chapter 46     1211 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+at the moment of its decay, by conservation of momentum, we 
+have these components of momentum: 
+ 
+ 
+parallel to the original momentum:  
+ 
+ 
+ 
+pΣ+ = pn cosφ + pπ + cos64.5° 
+ 
+ 
+thus,  
+ 
+ 
+ 
+pn cosφ = pΣ+ −pπ + cos64.5°
+pn cosφ = 686 MeV c −200 MeV c
+(
+)cos64.5° 
+[1] 
+ 
+ 
+perpendicular to the original momentum: 
+ 
+ 
+ 
+0 = pn sinφ −200 MeV c
+(
+)sin64.5°
+pn sinφ = 200 MeV c
+(
+)sin64.5°
+ 
+[2]
+ 
+ 
+ 
+From [1] and [2]:  
+ 
+ 
+ 
+pn =
+pn cosφ
+(
+)
+2 + pn sinφ
+(
+)
+2 = 626 MeV c 
+ 
+(c) 
+Eπ + =
+pπ +c
+(
+)
+2 + mπ +c2
+(
+)
+2 =
+200 MeV
+(
+)
+2 + 139.6 MeV
+(
+)
+2
+= 244 MeV
+ 
+ 
+ 
+En =
+pnc
+(
+)
+2 + mnc2
+(
+)
+2 =
+626 MeV
+(
+)
+2 + 939.6 MeV
+(
+)
+2
+= 1 129 MeV = 1.13 GeV
+ 
+ 
+(d) 
+EΣ+ = Eπ + + En = 244 MeV + 1129 MeV = 1 373 MeV = 1.37 GeV 
+ 
+(e) 
+mΣ+c2 =
+EΣ+
+2 −pΣ+c
+(
+)
+2 =
+1 373 MeV
+(
+)
+2 −686 MeV
+(
+)
+2 = 1 189 MeV 
+ 
+ 
+∴mΣ+ = 1 189 MeV c2 = 1.19 GeV c2 
+ 
+(f) 
+From Table 46.2, the mass of the Σ
++ particle is 1 189.4 MeV/c
+2. The 
+percentage difference is  
+ 
+ 
+ 
+Δm
+m = 1. 19 × 103 MeV c2 −1 189.4 MeV c2
+1 189.4 MeV c2
+× 100% = 0.0504% 
+ 
+ 
+The result in part (e) is within 0.05% of the value in Table 46.2. 
+P46.27 
+The time-dilated lifetime is 
+ 
+ 
+ 
+T = γ T0 = 0.900 × 10−10 s
+1−v2 c2
+= 0.900 × 10−10 s
+1−(0.960)2 = 3.214 × 10−10 s
+
+--- PAGE 20 ---
+1212     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+During this time interval, we see the kaon travel at 0.960c. It travels for 
+a distance of  
+ 
+ 
+ 
+distance = vT = 0.960 2.998 × 108 m s
+(
+) 3.214 × 10−10 s
+(
+)
+= 9.25 × 10−2 m = 9.25 cm
+ 
+ 
+ 
+ 
+Section 46.7 
+Finding Patterns in the Particles 
+Section 46.8 
+Quarks 
+Section 46.9 
+Multicolored Quarks 
+Section 46.10 
+The Standard Model 
+P46.28 
+(a) 
+ 
+ 
+K
+0 
+d 
+s 
+total 
+strangeness 
+1 
+0 
+1 
+1 
+baryon number 
+0 
+1/3 
+–1/3 
+0 
+charge 
+0 
+–e/3 
+e/3 
+0 
+ 
+ 
+(b)  
+ 
+Λ0 
+u 
+d 
+s 
+total 
+strangeness 
+–1 
+0 
+0 
+–1 
+–1 
+baryon number 
+1 
+1/3 
+1/3 
+1/3 
+1 
+charge 
+0 
+2e/3 
+–e/3 
+–e/3 
+0 
+ 
+P46.29 
+In the first reaction,  
+ 
+ 
+ 
+π −+ p →K0 + Λ0 
+ 
+the quarks in the particles are  
+ 
+ 
+ 
+ud + uud →sd + uds
+
+--- PAGE 21 ---
+Chapter 46     1213 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+There is a net of 1 up quark both before and after the reaction, a net of 
+2 down quarks both before and after, and a net of zero strange quarks 
+both before and after. Thus, the reaction conserves the net number of 
+each type of quark. 
+ 
+In the second reaction,  
+ 
+ 
+ 
+π −+ p →K0 + n 
+ 
+the quarks in the particles are  
+ 
+ 
+ 
+ud + uud →sd + udd 
+ 
+In this case, there is a net of 1 up and 2 down quarks before the 
+reaction but a net of 1 up, 3 down, and 1 anti-strange quark after the 
+reaction. Thus, the reaction does not conserve the net number of each 
+type of quark.  
+P46.30 
+Compare the given quark states to the entries in Tables 46.4 and 46.5: 
+ 
+(a) 
+uus = Σ+
+ 
+ 
+(b) 
+ud = π −
+ 
+ 
+(c) 
+sd = K0
+ 
+ 
+(d) 
+dss = Ξ−
+ 
+P46.31 
+(a) 
+ 
+ 
+proton 
+u 
+u 
+d 
+total 
+strangeness 
+0 
+0 
+0 
+0 
+0 
+baryon number 
+1 
+1/3 
+1/3 
+1/3 
+1 
+charge 
+e 
+2e/3 
+2e/3 
+–e/3 
+e 
+ 
+(b)  
+ 
+neutron 
+u 
+d 
+d 
+total 
+strangeness 
+0 
+0 
+0 
+0 
+0 
+baryon number 
+1 
+1/3 
+1/3 
+1/3 
+1 
+charge 
+0 
+2e/3 
+–e/3 
+–e/3 
+0
+
+--- PAGE 22 ---
+1214     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.32 
+(a) 
+π + + p →K+ + Σ+:   du + uud →su + uus 
+ 
+ 
+up quarks:  1+ 2 →1+ 2, or 
+3 →3 
+ 
+ 
+down quarks: 
+−1+ 1→0 + 0 , 
+or 
+0 →0 
+ 
+ 
+strange quarks: 
+0 + 0 →−1+ 1, 
+or 
+0 →0 
+ 
+ 
+The reaction has a net of 3 u, 0 d, and 0 s before and after. 
+ 
+(b) 
+K−+ p →K+ + K0 + Ω−: 
+us + uud →su + sd + sss 
+ 
+ 
+up quarks: −1+ 2 →1+ 0 + 0 , 
+or 
+1→1 
+ 
+ 
+down quarks: 
+0 + 1→0 + 1+ 0 , 
+or 
+1→1 
+ 
+ 
+strange quarks: 
+1+ 0 →−1−1+ 3 , 
+or 
+1→1 
+ 
+ 
+The reaction has a net of 1 u, 1 d, and 1 s before and after. 
+ 
+(c) 
+p + p →K0 + p + π + + ?:   uud + uud →sd + uud + du + ? 
+ 
+ 
+The quark combination ? must be such as to balance the last 
+equation for up, down, and strange quarks. 
+ 
+ 
+up quarks: 2 + 2 = 0 + 2 + 1+ ? (? has 1 u quark) 
+ 
+ 
+down quarks: 
+1+ 1 = 1+ 1−1+ ? 
+(? has 1 d quark) 
+ 
+ 
+strange quarks: 
+0 + 0 = −1+ 0 + 0 + ? (? has 1 s quark) 
+ 
+ 
+The reaction must net of 4 u, 2 d, and 0 s before and after. 
+ 
+(d) quark composition = uds = Λ0 or Σ0 
+P46.33 
+(a) 
+uud : 
+charge = −2
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟+ −2
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟= −e 
+ 
+(b) 
+udd : 
+charge = −2
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+3 e
+⎛
+⎝⎜
+⎞
+⎠⎟= 0 
+ 
+(c) 
+antiproton ; antineutron 
+*P46.34 
+The number of protons in one liter (1 000 g) of water is 
+ 
+ 
+ 
+Np = 1 000 g
+(
+) 6.02 × 1023 molecules
+18.0 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+10 protons
+molecule
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 3.34 × 1026 protons
+ 
+ 
+and there are 
+ 
+ 
+ 
+Nn = 1 000 g
+(
+) 6.02 × 1023 molecules
+18.0 g
+⎛
+⎝⎜
+⎞
+⎠⎟
+8 neutrons
+molecule
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.68 × 1026 neutrons
+
+--- PAGE 23 ---
+Chapter 46     1215 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+So there are, for electric neutrality, 3.34 × 1026 electrons . 
+ 
+ 
+The protonquark content is  p = uud, and the neutron quark 
+content is n = udd, so the number of up quarks is  
+ 
+ 
+ 
+2 3.34 × 1026
+(
+) + 2.68 × 1026 = 9.36 × 1026 up quarks 
+ 
+ 
+and the number of down quarks is  
+ 
+ 
+ 
+2 2.68 × 1026
+(
+) + 3.34 × 1026 = 8.70 × 1026 down quarks 
+P46.35 
+Σ0 + p →Σ+ + γ + X 
+ 
+uds + uud →uus + 0 + ? 
+ 
+The left side has a net 3 u, 2 d, and 1 s. The right-hand side has 2 u and 
+1 s, leaving 2 d and 1 u missing. 
+ 
+The unknown particle is a neutron, udd. 
+ 
+Baryon and strangeness numbers are conserved. 
+P46.36 
+Quark composition of proton = uud and of neutron = udd. 
+Thus, if we neglect binding energies, we may write 
+ 
+ 
+ 
+mp = 2mu + md 
+[1] 
+ 
+and  
+mn = mu + 2md. 
+[2] 
+ 
+Subtract [2] from 2 × [1]: 
+ 
+ 
+ 
+2mp = 4mu + 2md
+−mn = −mu + 2md
+(
+)
+2mp −mn = 3mu
+ 
+ 
+We find  
+ 
+ 
+ 
+mu = 1
+3 2mp −mn
+(
+) = 1
+3 2 938 MeV c2
+(
+) −939.6 meV c2
+⎡⎣
+⎤⎦
+= 312 MeV c2
+  
+ 
+and from either [1] or [2], md = 314 MeV c2 .
+
+--- PAGE 24 ---
+1216     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 46.10 
+The Cosmic Connection 
+P46.37 
+From Equation 39.10,  
+ 
+ 
+fobserver = fsource
+1+ va c
+1−va c 
+ 
+where the velocity of approach, v, is the negative of the velocity of 
+mutual recession: va = –v. 
+ 
+Thus, 
+c
+′
+λ = c
+λ
+1−v c
+1+ v c  and 
+′
+λ = λ
+1+ v c
+1−v c
+ 
+P46.38 
+(a) 
+We let r in Hubble’s law represent any distance.  
+ 
+ 
+ 
+v = Hr = 22 × 10−3 m
+s ⋅ly
+⎛
+⎝⎜
+⎞
+⎠⎟1.85 m
+(
+)
+1 ly
+c ⋅1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟
+×
+c
+3.00 × 108 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+4.30 × 10−18 m s
+ 
+ 
+ 
+This is unobservably small. 
+ 
+(b) 
+v = Hr = 22 × 10−3 m
+s ⋅ly
+⎛
+⎝⎜
+⎞
+⎠⎟3.84 × 108 m
+(
+)
+1 ly
+c ⋅1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟
+c
+3.00 × 108 m s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 yr
+3.156 × 107 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.92 × 10−10 m s = 0.892 nm/s
+  
+ 
+ 
+Again too small to measure. 
+P46.39 
+(a) 
+From Wien’s law, 
+ 
+ 
+ 
+λmaxT = 2.898 × 10−3 m ⋅K 
+ 
+ 
+Thus,     
+ 
+ 
+ 
+λmax = 2.898 × 10−3 m ⋅K
+T
+= 2.898 × 10−3 m ⋅K
+2.73 K
+= 1.06 × 10−3 m
+= 1.06 mm
+ 
+ 
+(b) This is a microwave.
+
+--- PAGE 25 ---
+Chapter 46     1217 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.40 
+(a) 
+The volume of the sphere bounded by the Earth’s orbit is 
+ 
+ 
+ 
+V = 4
+3 π r3 = 4
+3 π 1.496 × 1011 m
+(
+)
+3 = 1.40 × 1034 m3
+m = ρV = 6 × 10−28 kg m3
+(
+) 1.40 × 1034 m3
+(
+) = 8.41× 106 kg
+ 
+ 
+(b) By Gauss’s law, the dark matter would create a gravitational field 
+acting on the Earth to accelerate it toward the Sun. It would 
+shorten the duration of the year in the same way that 8.41 × 10
+6 kg 
+of extra material in the Sun would. This has the fractional effect of 
+8.41× 106 kg
+1.99 × 1030 kg = 4.23 × 10−24 of the mass of the Sun.  
+ 
+ 
+No. It is only the fraction 4.23 × 10
+–24 of the mass of the Sun. 
+P46.41 
+(a) 
+The energy is enough to produce a proton-antiproton pair: 
+kBT ≈2mpc2, so  
+ 
+ 
+ 
+T ≈
+2mpc2
+kB
+=
+2 938.3 MeV
+(
+)
+1.38 × 10−23 J K
+(
+)
+1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟~ 1013 K 
+ 
+(b) The energy is enough to produce an electron-positron pair: 
+kBT ≈2mec2, so  
+ 
+ 
+ 
+T ≈2mec2
+kB
+=
+2 0.511 MeV
+(
+)
+1.38 × 10−23 J K
+(
+)
+1.60 × 10−13 J
+1 MeV
+⎛
+⎝⎜
+⎞
+⎠⎟~ 1010 K 
+P46.42 
+(a) 
+The Hubble constant is defined in v = HR. The gap R between any 
+two far-separated objects opens at constant speed according to 
+R = vΔt. Then the time interval Δt since the Big Bang is found from 
+ 
+ 
+ 
+v = H vΔt→
+Δt = 1
+H
+ 
+ 
+(b) 
+1
+H =
+1
+22 × 10−3 m s ⋅ly
+1 yr
+(
+)⋅3 × 108 m s
+(
+)
+1 ly
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1.36 × 1010 yr
+= 13.6 billion years
+ 
+*P46.43 
+The radiation wavelength of ′
+λ = 500 nm that is observed by observers 
+on Earth is not the true wavelength, λ,  emitted by the star because of 
+the Doppler effect. The true wavelength is related to the observed 
+wavelength using: 
+ 
+ 
+ 
+c
+′
+λ = c
+λ
+1−v c
+(
+)
+1+ v c
+(
+)
+
+--- PAGE 26 ---
+1218     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Solving for the true wavelength then gives 
+ 
+ 
+ 
+λ =
+′
+λ
+1−v c
+(
+)
+1+ v c
+(
+) = 500 nm
+(
+)
+1−0.280
+(
+)
+1+ 0.280
+(
+) = 375 nm
+ 
+ 
+The temperature of the star is given by Wien’s law, 
+ 
+ 
+ 
+ 
+λmaxT = 2.898 × 10−3 m ⋅K 
+ 
+or 
+ 
+T = 2.898 × 10−3 m ⋅K
+λmax
+= 2.898 × 10−3 m ⋅K
+375 × 10−9
+= 7.73 × 103 K . 
+P46.44 
+We assume that the fireball of the Big Bang is a black body. Then, 
+ 
+ 
+I = eσT 4 = (1) 5.67 × 10−8 W m2 ⋅K4
+(
+) 2.73 K
+(
+)
+4
+= 3.15 × 10−6 W m2
+ 
+P46.45 
+(a) 
+We use primed symbols to represent observed Doppler-shifted 
+values and unprimed symbols to represent values as they 
+would be measured by an observer stationary relative to the 
+source. Doppler-shift equations from Chapter 17 do not apply to 
+electromagnetic waves, because the speed of source or observer 
+relative to some medium cannot be defined for these waves. 
+Instead, we use Equation 39.10, expressing it as  
+ 
+ 
+ 
+′f = c
+′
+λ =
+1+ v/c
+1−v/c f =
+1+ v/c
+1−v/c
+c
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where v is the velocity of mutual approach. Then we have 
+ 
+ 
+ 
+′
+λ
+λ =
+1−v/c
+1+ v/c
+ 
+ 
+ 
+Squaring both sides, and solving, 
+ 
+ 
+ 
+′
+λ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1−v/c
+1+ v/c
+′
+λ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++
+′
+λ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 v
+c = 1−v
+c                    
+′
+λ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−1 = −v
+c
+′
+λ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ 1
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+
+--- PAGE 27 ---
+Chapter 46     1219 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Solving for v/c then gives 
+ 
+ 
+ 
+v
+c = −
+′
+λ /λ
+(
+)
+2 −1
+′
+λ /λ
+(
+)
+2 + 1
+= −510 nm/ 434 nm
+(
+)
+2 −1
+510 nm/ 434 nm
+(
+)
+2 + 1
+= 1.18
+(
+)
+2 −1
+1.18
+(
+)
+2 + 1
+   = −1.381−1
+1.381+ 1 = −0.160
+ 
+ 
+ 
+The negative sign indicates that the quasar is moving away from 
+us, or us from it. The speed of recession that the problem asks for 
+is then 
+ 
+ 
+ 
+v = 0.160c (or 16.0% of the speed of light)  
+ 
+(b) Hubble’s law asserts that the universe is expanding at a constant 
+rate so that the speeds of galaxies are proportional to their 
+distance R from Earth, as described by v = HR. 
+ 
+ 
+So, 
+R = v
+H = 0.160 3.00 × 108 m/s
+(
+)
+2.2 × 10–2 m/s⋅ly
+= 2.18 × 109 ly . 
+ 
+P46.46 
+(a) 
+Applying the result from Problem 37, ′
+λn = λn
+1+ v c
+1−v c , to the 
+definition Z =
+′
+λn −λn
+λn
+, we have  
+ 
+ 
+ 
+Z =
+′
+λn −λn
+λn
+→
+Z + 1
+(
+)λn =
+′
+λn = λn
+1+ v c
+1−v c
+1+ v c
+1−v c = Z + 1
+(
+)
+2
+1+ v
+c = Z + 1
+(
+)
+2 −
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟Z + 1
+(
+)
+2
+v
+c
+⎛
+⎝⎜
+⎞
+⎠⎟Z2 + 2Z + 2
+(
+) = Z2 + 2Z
+v = c
+Z2 + 2Z
+Z2 + 2Z + 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(b) 
+R = v
+H =
+c
+H
+Z2 + 2Z
+Z2 + 2Z + 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 28 ---
+1220     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.47 
+First, we calculate v = HR, using H = 22 × 10−3 m s ⋅ly, and then we 
+use the result of Problem 37, ′
+λ = λ
+1+ v c
+1−v c , and c = 2.998 × 10
+8 m/s, to 
+calculate the wavelength emitted by the galaxy. 
+ 
+(a) 
+v = 22 × 10−3 m s ⋅ly
+(
+) 2.00 × 106 ly
+(
+) = 4.4 × 104 m s, 
+ 
+ 
+′
+λ = λ
+1+ v c
+1−v c = λ
+1+ 4.4 × 104 m s
+(
+)
+2.998 × 108 m s
+(
+)
+1−4.4 × 104 m s
+(
+)
+2.998 × 108 m s
+(
+)
+= 590 nm
+(
+)
+1+ 0.000 146 8
+1−0.000 146 8 = 590.09 nm
+ 
+ 
+ 
+Similarly, 
+ 
+(b) 
+v = 22 × 10−3 m s ⋅ly
+(
+) 2.00 × 108 ly
+(
+) = 4.4 × 106 m s, 
+ 
+ 
+′
+λ = 590 nm
+(
+)
+1+ 0.014 68
+1−0.014 68 = 599 nm 
+ 
+(c) 
+v = 22 × 10−3 m s ⋅ly
+(
+) 2.00 × 109 ly
+(
+) = 4.4 × 107 m s, 
+ 
+ 
+′
+λ = 590 nm
+(
+)
+1+ 0.146 8
+1−0.146 8 = 684 nm 
+P46.48 
+(a) 
+What we can see is limited by the finite age of the Universe and by 
+the finite speed of light. We can see out only to a look-back time 
+equal to a bit less than the age of the Universe. Every year on your 
+birthday the Universe also gets a year older, and light now in 
+transit arrives at Earth from still more distant objects. So the radius 
+of the visible Universe expands at the speed of light, which is  
+ 
+ 
+ 
+dr
+dt = c = 1 ly/yr
+  
+ 
+(b) The volume of the visible section of the Universe is 4
+3πr3, where 
+r = 13.7 billion light-years. The rate of volume increase is 
+ 
+ 
+ 
+dV
+dt = d 
+dt
+4
+3πr3
+(
+) = 4
+3π 3r2 dr
+dt = 4πr2c
+= 4π
+13.7 × 109 ly
+(
+) 9.4605 × 1015 m
+1 ly
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+3.00 × 108 m
+s
+(
+)
+= 6.34 × 1061 m3/s
+
+--- PAGE 29 ---
+Chapter 46     1221 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.49 
+The density of the Universe is 
+ 
+ 
+ρ = 1.20ρc = 1.20 3H 2
+8π G
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Consider a remote galaxy at distance r. The mass interior to the sphere 
+below it is 
+ 
+ 
+M = ρ 4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.20 3H 2
+8π G
+⎛
+⎝⎜
+⎞
+⎠⎟
+4
+3 π r3
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.600H 2r3
+G
+ 
+ 
+both now and in the future when it has slowed to rest from its current 
+speed v = Hr. The energy of this galaxy-sphere system is constant as 
+the galaxy moves to apogee distance R: 
+ 
+ 
+1
+2 mv2 −GmM
+r
+= 0 −GmM
+R
+    
+ 
+so 
+1
+2 mH 2r2 −Gm
+r
+0.600H 2r3
+G
+⎛
+⎝⎜
+⎞
+⎠⎟= 0 −Gm
+R
+0.600H 2r3
+G
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+−0.100 = −0.600 r
+R
+    so    R = 6.00r 
+ 
+The Universe will expand by a factor of 6.00 from its current 
+dimensions. 
+ 
+ 
+ 
+Section 46.12 
+Problems and Perspectives 
+P46.50 
+(a) 
+The Planck length is 
+ 
+ 
+ 
+L =
+G
+c3 =
+1.054 5 × 10−34 J⋅s
+(
+) 6.673 × 10−11 N⋅m2 kg2
+(
+)
+2.998 × 108 m s
+(
+)
+3
+= 1.62 × 10−35 m
+ 
+ 
+(b) The Planck time is given as  
+ 
+ 
+ 
+T = L
+c = 1.616 × 10−35 m
+2.998 × 108 m s = 5.39 × 10−44 s
+ 
+ 
+ 
+of the same order of magnitude as the ultrahot epoch.
+
+--- PAGE 30 ---
+1222     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P46.51 
+(a) 
+π −+ p →Σ+ + π 0 
+ 
+ 
+Total charge is 0 on the left side of the equation, +1 on the right 
+side. Charge is not conserved. 
+ 
+(b) 
+µ−→π −+ νe 
+ 
+ 
+The rest mass of the pion is larger than the rest mass of the muon. 
+Muon lepton number is +1 on the left side of the equation, 0 on 
+the right side. Electron lepton number is 0 on left side, +1 on right 
+side. Energy, muon lepton number, and electron lepton number 
+are not conserved. 
+ 
+(c) 
+p →π + + π + + π − 
+ 
+ 
+Baryon number is +1 on the left side of the equation, 0 on the 
+right side. Baryon number is not conserved. 
+P46.52 
+In ? + p+ →n + µ+, charge conservation requires the unknown particle 
+to be neutral. Baryon number conservation requires baryon number  
+= 0. The muon-lepton number of ? must be –1. So the unknown particle 
+must be an muon-antineutrino νµ
+. 
+*P46.53 
+The time of flight is given by Δt = d/v. 
+ 
+Since K = 1
+2 mv2,  
+ 
+ 
+Δt =
+d
+2K
+m
+=
+10.0 × 103 m
+2(0.040 0 eV) 1.60 × 10–19 J/eV
+(
+) 
+1.67 × 10–27  kg 
+= 3.61 s
+ 
+ 
+The decay constant is λ = ln2
+T1/2
+= 0.693
+614 s = 1.13 × 10−3 s–l. 
+ 
+Therefore we have 
+ 
+ 
+λΔt = 1.13 × 10−3 s
+(
+)(3.61 s) = 4.08 × 10–3 = 0.004 08 
+ 
+And the fraction remaining is 
+ 
+ 
+N
+N0
+= e–λΔt = e– 0.004 08 = 0.995 9
+ 
+ 
+Hence, the fraction that has decayed in this time interval is 
+ 
+ 
+1– N
+N0
+= 0.004 07
+or
+0.407%
+
+--- PAGE 31 ---
+Chapter 46     1223 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.54 
+Let’s find the minimum energy necessary for the increase in rest 
+energy to occur. 
+ 
+ 
+ 
+ΔER =  3me  − me
+(
+)c2 = 2mec2 = 2 0.511 eV
+(
+) = 1.02 eV 
+ 
+This calculation may make it look like the reaction is possible. But 
+there is more to the energy picture here than just the increase in rest 
+energy. There is kinetic energy associated with the moving particles. 
+Let’s demand that energy be conserved for the isolated system: 
+ 
+ 
+ 
+Ei = E f    →   Eγ  + mec2 = 3γ mec2 
+[1] 
+ 
+Now demand that momentum in the direction of travel of the initial 
+photon be conserved for the isolated system: 
+ 
+ 
+ 
+pxi = pxf    →   Eγ
+c   = 3γ meu 
+[2] 
+ 
+Divide equation [1] by equation [2]: 
+ 
+ 
+ 
+Eγ  + mec2
+Eγ /c
+ = c2
+u     →    Eγ  + mec2
+Eγ
+ =  c
+u =  1
+β 
+[3]  
+ 
+where β = u/c. Multiply equation [2] by c and subtract it from equation 
+[1]: 
+ 
+ 
+ 
+Eγ  + mec2 − Eγ = 3γ mec2 − 3γ meuc   
+             →    mec2 = 3γ mec2 − 3γ meuc 
+  →    1 = 3γ  − 3γ u
+c  = 3γ 1 − β
+(
+)
+ 
+ 
+Substitute for γ : 
+ 
+ 
+ 
+1 =
+3 1−β
+(
+)
+1−u2 /c2 = 3 1−β
+(
+)
+1−β 2 = 3 1−β
+1+ β
+  
+ 
+ 
+ 
+1+ β = 9 1−β
+(
+)     →     β = 8
+10 = 0.800
+  
+ 
+Substitute this value into equation [3]: 
+ 
+ 
+ 
+Eγ  + mec2
+Eγ
+ = 
+1
+0.800
+1+  mec2
+Eγ
+= 1.25 →
+Eγ = 4mec2 = 2.04 MeV
+ 
+ 
+Therefore, the photon arriving with 1.05 MeV of energy cannot cause 
+this reaction.
+
+--- PAGE 32 ---
+1224     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Let’s check the assumptions. If the final particles have any velocity 
+component perpendicular to the initial direction of travel of the 
+photon, then they must be moving with a higher speed after the 
+collision and the incoming photon energy would have to be larger. If 
+any one of the particles had a different energy than the other two, then 
+the only way to satisfy both energy and momentum conservation 
+would be for at least two of the particles to have components of 
+velocity perpendicular to the initial direction of motion of the photon, 
+so again the incoming photon energy would have to be larger. 
+Therefore, 2.04 MeV represents the minimum energy for the reaction to 
+occur. 
+P46.55 
+We find the number N of neutrinos: 
+ 
+ 
+ 
+1046 J = N 6 MeV
+(
+) = N 6 × 1.60 × 10−13 J
+(
+)
+N = 1.0 × 1058 neutrinos
+ 
+ 
+The intensity at our location is 
+ 
+ 
+ 
+N
+A =
+N
+4π r2 =
+1.0 × 1058
+4π 1.7 × 105 ly
+(
+)
+2
+1 ly
+9.460 5 × 1015 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 3.1× 1014 m−2
+ 
+ 
+The number passing through a body presenting 5 000 cm
+2 = 0.50 m
+2 
+ 
+is then 3.1× 1014 1
+m2
+⎛
+⎝⎜
+⎞
+⎠⎟0.50 m2
+(
+) = 1.5 × 1014 , or ~ 1014 . 
+P46.56 
+Since the neutrino flux from the Sun reaching the Earth is 0.400 W/m
+2, 
+the total energy emitted per second by the Sun in neutrinos in all 
+directions is that which would irradiate the surface of a great sphere 
+around it, with the Earth’s orbit as its equator. 
+ 
+ 
+0.400 W/m2
+(
+) 4πr2
+(
+) = 0.400 W/m2
+(
+) 4π 1.496 × 1011 m
+(
+)
+2
+⎡
+⎣
+⎤
+⎦
+= 1.12 × 1023 W
+ 
+ 
+In a period of 10
+9 yr, the Sun emits a total energy of ΔE = PΔt.  
+ 
+ 
+E = 1.12 × 1023 J/s
+(
+) 109 yr
+(
+) 3.156 × 107  s/yr
+(
+) = 3.55 × 1039 J 
+ 
+carried by neutrinos. This energy corresponds to an annihilated mass 
+according to  
+ 
+ 
+E = mνc2 = 3.55 × 1039 J
+or
+mν = 3.94 × 1022 kg. 
+ 
+Since the Sun has a mass of 1.989 × 10
+30 kg, this corresponds to a loss 
+of only about 1 part in 5 × 10
+7 of the Sun’s mass over 10
+9 yr in the form 
+of neutrinos.
+
+--- PAGE 33 ---
+Chapter 46     1225 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.57 
+In our frame of reference, Hubble’s law is exemplified by v1 = H
+
+R1 
+and v2 = H
+
+R2.  
+ 
+(a) 
+From the first equation v1 = H
+
+R1 we may form the equation 
+−v1 = −H
+
+R1. This equation expresses Hubble’s law as seen by the 
+observer in the first galaxy cluster, as she looks at us to find our 
+velocity relative to her (away from her) is −v1 = H −
+
+R1
+(
+) .  
+ 
+(b) From both equations we may form the equation 
+v2 −v1 = H
+
+R2 −
+
+R1
+(
+) . This equation expresses Hubble’s law as 
+seen by the observer in the first galaxy cluster, as she looks at 
+cluster two to find the relative velocity of cluster 2 relative to 
+cluster 1 is v2 −v1 = H
+
+R2 −
+
+R1
+(
+). 
+P46.58 
+π −→µ−+ νµ . By energy conservation,  
+ 
+ 
+ 
+mπc2 = Eµ + Eν = 139.6 MeV 
+[1] 
+ 
+Because we assume the antineutrino has no mass, Eν = pνc, and by 
+momentum conservation, pµ = pν ; thus, we can relate the total 
+energies of the muon and antineutrino:  
+ 
+ 
+ 
+Eµ
+2 = pµc
+(
+)
+2 + mµc2
+(
+)
+2 = pνc
+(
+)
+2 + mµc2
+(
+)
+2 = Eν
+2
+(
+)
+2 + mµc2
+(
+)
+2 
+ 
+or 
+ 
+Eµ
+2 −Eν
+2 = mµc2
+(
+)
+2 
+ 
+and  
+Eµ + Eν
+(
+) Eµ −Eν
+(
+) = mµc2
+(
+)
+2 . 
+[2] 
+ 
+Substituting [1] into [2], we find that  
+ 
+ 
+ 
+Eµ −Eν =
+mµc2
+(
+)
+2
+Eµ + Eν
+(
+)
+=
+mµc2
+(
+)
+2
+mπc2
+ 
+[3] 
+ 
+Subtracting [3] from [1], 
+ 
+ 
+ 
+Eµ + Eν
+(
+)−Eµ −Eν
+(
+) = mπc2 −
+mµc2
+(
+)
+2
+mπc2
+2Eν = mπc2 −
+mµc2
+(
+)
+2
+mπc2
+Eν =
+mπc2
+(
+)
+2 −mµc2
+(
+)
+2
+2mπc2
+= 139.6 MeV
+(
+)
+2 −105.7 MeV
+(
+)
+2
+2 139.6 MeV
+(
+)
+    = 29.8 MeV
+
+--- PAGE 34 ---
+1226     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.59 
+Each particle travels in a circle, so each must experience a centripetal 
+force:  
+ 
+ 
+ 
+F
+∑
+= ma:
+qvBsin90° = mv2
+r
+→
+mv = qBr
+ 
+ 
+The proton and the pion have the same momentum because they have 
+the same magnitude of charge and travel in a circle of the same radius: 
+ 
+ 
+ 
+pp = pπ = p = qBr = 1.60 × 10
+−19 C
+(
+) 0.250 T
+(
+) 1.33 m
+(
+)
+= 5.32 × 10
+−20 kg ⋅m s
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+pc = 3.00 × 108 m/s
+(
+) 5.32 × 10−20 kg ⋅m s
+(
+)
+1 MeV
+1.60 × 10−13 J
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 99.8 MeV
+ 
+ 
+Using masses from Table 46.2, we find the total energy of the proton to be  
+ 
+ 
+ 
+Ep =
+pc
+(
+)
+2 + mpc2
+(
+)
+2 =
+99.8 MeV
+(
+)
+2 + 938.3 MeV
+(
+)
+2
+= 944 MeV
+ 
+ 
+and the total energy of the pion to be  
+ 
+ 
+ 
+Eπ =
+pc
+(
+)
+2 + mπc2
+(
+)
+2 =
+99.8 MeV
+(
+)
+2 + 139.6 MeV
+(
+)
+2
+= 172 MeV
+ 
+ 
+The unknown particle was initially at rest; thus, Etotal after = Etotal before = 
+rest energy, and the rest energy of unknown particle is  
+ 
+ 
+ 
+mc2 = 944 MeV + 172 MeV = 1 116 MeV 
+ 
+ 
+ 
+Mass = 1.12 GeV c2
+ 
+ 
+From Table 46.2, we see this is a Λ0 particle.  
+P46.60 
+Each particle travels in a circle, so each must experience a centripetal 
+force:  
+ 
+ 
+ 
+F
+∑
+= ma:
+qvBsin90° = mv2
+r
+→
+mv = qBr 
+ 
+The particles have the same momentum because they have the same 
+magnitude of charge and travel in a circle of the same radius:  
+ 
+ 
+ 
+ 
+p+ = p−= p = eBr   →   pc = eBrc 
+ 
+We find the total energy of the positively charged particle to be  
+ 
+ 
+ 
+E+, total =
+pc
+(
+)
+2 + E+
+(
+)
+2 =
+qBrc
+(
+)
+2 + E+
+2
+
+--- PAGE 35 ---
+Chapter 46     1227 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and the total energy of the negatively charged particle to be  
+ 
+ 
+ 
+E+, total =
+pc
+(
+)
+2 + E−
+(
+)
+2 =
+qBrc
+(
+)
+2 + E−
+2 
+ 
+The unknown particle was initially at rest; thus, Etotal after = Etotal before = 
+rest energy, and the rest energy of the unknown particle is  
+ 
+ 
+ 
+mc2 =
+qBrc
+(
+)
+2 + E+
+2 +
+qBrc
+(
+)
+2 + E−
+2 
+ 
+ 
+ 
+m =
+qBrc
+(
+)
+2 + E+
+2 +
+qBrc
+(
+)
+2 + E−
+2
+c2
+ 
+P46.61 
+(a) 
+This diagram represents electron–positron annihilation. From 
+charge and lepton-number conservation at either vertex, the 
+exchanged particle must be an electron, e−.  
+ 
+(b) 
+A neutrino collides with a neutron, producing a proton and a 
+muon. This is a weak interaction. The exchanged particle has 
+charge +e and is a W+. 
+ 
+ANS. FIG. P46.61 
+P46.62 
+(a) 
+The Feynman diagram in ANS. FIG. 
+P46.62 shows a neutrino scattering off  
+an electron, and the neutrino and 
+electron do not exchange electric charge. 
+The neutrino has no electric charge and 
+interacts through the weak interaction 
+(ignoring gravity). The mediator is a 
+Z0 boson. 
+ 
+(b) The Feynman diagram shows a down 
+quark and its antiparticle annihilating each other. They can 
+produce a particle carrying energy, momentum, and angular 
+momentum, but zero charge, zero baryon number, and, if the 
+quarks have opposite color charges, no color charge. In this case 
+ANS. FIG. P46.62
+
+--- PAGE 36 ---
+1228     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the mediating particle could be a photon or Z0 boson. 
+ 
+ 
+Depending on the color charges of the d and d quarks, the 
+ephemeral particle could also be a gluon , as suggested in the 
+discussion of Figure 46.13(b). 
+ 
+ 
+For conservation of both energy and momentum in the collision 
+we would expect two mediating particles; but momentum need 
+not be strictly conserved, according to the uncertainty principle, if 
+the particle travels a sufficiently short distance before producing 
+another matter-antimatter pair of particles, as shown in ANS. FIG. 
+P46.62(b). 
+P46.63 
+The expression e−E kBTdE gives the fraction of the photons that have 
+energy between E and E + dE. The fraction that have energy between E 
+and infinity is 
+ 
+ 
+ 
+e−E kBT dE
+E
+∞
+∫
+e−E kBT dE
+0
+∞
+∫
+=
+e−E kBT −dE kBT
+(
+)
+E
+∞
+∫
+e−E kBT −dE kBT
+(
+)
+0
+∞
+∫
+= e−E kBT
+E
+∞
+e−E kBT
+0
+∞= e−E kBT
+ 
+ 
+We require T when this fraction has a value of 0.010 0 (i.e., 1.00%) 
+ 
+and  
+E = 1.00 eV = 1.60 × 10−19 J. 
+ 
+Thus, 
+0.010 0 = e
+−1.60×10−19 J
+(
+)
+1.38×10−23 J K
+(
+)T 
+ 
+or  
+ 
+ln 0.010 0
+(
+) = −
+1.60 × 10−19 J
+1.38 × 10−23 J K
+(
+)T = −1.16 × 104 K
+T
+, 
+ 
+giving  
+T = 2.52 × 103 K ~ 103 K . 
+P46.64 
+Σ0 →Λ0 + γ 
+ 
+From Table 46.2, mΣ = 1 192.5 MeV c2 and mΛ = 1 115.6 MeV c2 . 
+ 
+Conservation of energy in the decay requires 
+ 
+ 
+ 
+mΣc2 = mΛc2 + KΛ
+(
+) + Eγ      or     mΣc2 = mΛc2 + pΛ
+2
+2mΛ
+⎛
+⎝⎜
+⎞
+⎠⎟+ Eγ 
+ 
+System momentum conservation gives pΛ = pγ , so the last result 
+may be written as 
+ 
+ 
+ 
+mΣc2 = mΛc2 + pγ
+2
+2mΛ
+⎛
+⎝⎜
+⎞
+⎠⎟+ Eγ
+
+--- PAGE 37 ---
+Chapter 46     1229 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or 
+ 
+mΣc2 = mΛc2 + pγ
+2c2
+2mΛc2
+⎛
+⎝⎜
+⎞
+⎠⎟+ Eγ . 
+ 
+Recognizing that pγ c = Eγ , we now have  
+ 
+ 
+ 
+1192.5 MeV = 1115.6 MeV +
+Eγ
+2
+2 1115.6 MeV
+(
+)
++ Eγ
+ 
+ 
+Solving this quadratic equation gives Eγ = 74.4 MeV . 
+P46.65 
+p + p →p + π + + X 
+ 
+The protons each have 70.4 MeV of kinetic energy. In accord with 
+conservation of momentum for the collision, particle X has zero 
+momentum and thus zero kinetic energy. Conservation of system 
+energy then requires 
+ 
+ 
+ 
+mpc2 + mπc2 + mXc2 = mpc2 + Kp
+(
+) + mpc2 + Kp
+(
+) 
+ 
+ 
+ 
+mXc2 = mpc2 + 2Kp −mπc2
+= 938.3 MeV + 2 70.4 MeV
+(
+) −139.6 MeV
+= 939.5 MeV
+ 
+ 
+X must be a neutral baryon of rest energy 939.5 MeV. Thus, X is a 
+neutron. 
+P46.66 
+p + p →p + n + π + 
+ 
+The total momentum is zero before the reaction. Thus, all three 
+particles present after the reaction may be at rest and still conserve 
+system momentum. This will be the case when the incident protons 
+have minimum kinetic energy. Under these conditions, conservation of 
+energy for the reaction gives 
+ 
+ 
+ 
+2 mpc2 + Kp
+(
+) = mpc2 + mnc2 + mπc2 
+ 
+so the kinetic energy of each of the incident protons is 
+ 
+ 
+ 
+Kp =
+mnc2 + mπc2 −mpc2
+2
+= 939.6 + 139.6 −938.3
+(
+) MeV
+2
+= 70.4 MeV
+
+--- PAGE 38 ---
+1230     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P46.67 
+See the discussion of P46.19 in this volume for more details of the 
+mathematical steps used in the following calculations. 
+ 
+From Table 46.2, mΛc2 = 1 115.6 MeV, mpc2 = 938.3 MeV, and 
+mπc2 = 139.6 MeV. 
+ 
+Since the Λ
+0 is at rest, the difference between its rest energy and the 
+rest energies of the proton and the pion is the sum of the kinetic 
+energies of the proton and the pion. 
+ 
+ 
+Kp + Kπ = 1 115.6 MeV −938.3 MeV −139.6 MeV = 37.7 MeV 
+ 
+Now, since pp = pπ = p, applying conservation of relativistic energy to 
+the decay process, we have 
+ 
+ 
+938.3 MeV
+(
+)2 + p2c2 −938.3 MeV
+⎡⎣
+⎤⎦
+            +
+139.6 MeV
+(
+)2 + p2c2 −139.6 MeV
+⎡⎣
+⎤⎦= 37.7 MeV
+ 
+ 
+Solving yields 
+ 
+ 
+pπc = ppc = 100.4 MeV 
+ 
+Then, 
+ 
+ 
+ 
+Kp =
+mpc2
+(
+)
+2 + 100.4 MeV
+(
+)2 −mpc2 = 5.35 MeV
+ 
+ 
+ 
+Kπ =
+139.6
+(
+)2 + 100.4 MeV
+(
+)2 −139.6 = 32.3 MeV 
+P46.68 
+(a) 
+Let Emin be the minimum total energy of the bombarding particle 
+that is needed to induce the reaction. At this energy the product 
+particles all move with the same velocity. The product particles 
+are then equivalent to a single particle having mass equal to the 
+total mass of the product particles, moving with the same velocity 
+as each product particle. By conservation of energy: 
+ 
+ 
+ 
+Emin + m2c2 =
+m3c2
+(
+)
+2 + p3c
+(
+)
+2 
+[1] 
+ 
+ 
+By conservation of momentum, p3 = p1, so 
+ 
+ 
+ 
+p3c
+(
+)
+2 = p1c
+(
+)
+2 = Emin
+2
+−m1c2
+(
+)
+2 
+[2] 
+ 
+ 
+Substitute [2] into [1]: 
+ 
+ 
+ 
+ 
+Emin + m2c2 =
+m3c2
+(
+)
+2 + Emin
+2
+−m1c2
+(
+)
+2
+
+--- PAGE 39 ---
+Chapter 46     1231 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Square both sides: 
+ 
+ 
+ 
+Emin
+2
++ 2Eminm2c2 + m2c2
+(
+)
+2 = m3c2
+(
+)
+2 + Emin
+2
+−m1c2
+(
+)
+2
+∴Emin = m3
+2 −m1
+2 −m2
+2
+(
+)c2
+2m2
+∴Kmin = Emin −m1c2 = m3
+2 −m1
+2 −m2
+2 −2m1m2
+(
+)c2
+2m2
+=
+m3
+2 −m1 + m2
+(
+)
+2
+⎡⎣
+⎤⎦c2
+2m2
+ 
+ 
+ 
+Refer to Table 46.2 for the particle masses. 
+ 
+(b) 
+Kmin = 4 938.3
+(
+)
+[
+]
+2 MeV2 c2 −2 938.3
+(
+)
+[
+]
+2 MeV2 c2
+2 938.3 MeV c2
+(
+)
+= 5.63 GeV 
+ 
+(c) 
+Kmin = 497.7 + 1 115.6
+(
+)2 MeV2 c2 −139.6 + 938.3
+(
+)2 MeV2 c2
+2 938.3
+(
+) MeV c2
+= 768 MeV
+ 
+ 
+(d) 
+Kmin = 2 938.3
+(
+) + 135
+[
+]
+2 MeV2 c2 −2 938.3
+(
+)
+[
+]
+2 MeV2 c2
+2 938.3
+(
+) MeV c2
+= 280 MeV
+ 
+ 
+(e) 
+Kmin = 91.2 × 103
+(
+)
+2 −
+938.3 + 938.3
+(
+)2
+⎡⎣
+⎤⎦ MeV2 c2
+2 938.3
+(
+) MeV c2
+=
+4.43 TeV 
+P46.69 
+(a) 
+ΔE = mn −mp −me
+(
+)c2 
+ 
+ 
+From Table 44.2 of masses of isotopes,  
+ 
+ 
+ 
+ΔE = 1.008 665 u −1.007 825 u
+(
+) 931.5 MeV/u
+(
+)
+= 0.782 MeV
+ 
+ 
+(b) Assuming the neutron at rest, momentum conservation for the 
+decay process implies pp = pe. Relativistic energy for the system is 
+conserved:  
+ 
+ 
+ 
+mpc2
+(
+)
+2 + pp
+2c2 +
+mec2
+(
+)
+2 + pe
+2c2 = mnc2 
+ 
+ 
+Since pp = pe = p, we have  
+ 
+ 
+ 
+mpc2
+(
+)
+2 + p2c2 = mnc2 −
+mec2
+(
+)
+2 + p2c2
+
+--- PAGE 40 ---
+1232     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+mpc2
+(
+)
+2 + p2c2 = mnc2
+(
+)
+2 −2mnc2
+mec2
+(
+)
+2 + p2c2
+                                                               + mec2
+(
+)
+2 + p2c2
+mec2
+(
+)
+2 + p2c2 =
+mnc2
+(
+)
+2 −mpc2
+(
+)
+2 + mec2
+(
+)
+2
+2mnc2
+ 
+ 
+ 
+ 
+p2c2 =
+mnc2
+(
+)
+2 −mpc2
+(
+)
+2 + mec2
+(
+)
+2
+2mnc2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+2
+−mec2
+(
+)
+2 
+ 
+ 
+Refer to Table 46.2 for the particle masses. 
+ 
+ 
+ 
+p2c2 =
+939.6 MeV
+(
+)
+2 −938.3 MeV
+(
+)
+2 + 0.511 MeV
+(
+)
+2
+2 939.6 MeV
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+2
+                                                                       −0.511 MeV
+(
+)
+2
+pc = 1.19 MeV
+ 
+ 
+ 
+From pec = γ mevec, we find the speed of the electron:  
+ 
+ 
+ 
+γ ve
+c
+= pec
+mec2 =
+1
+1−ve c
+(
+)
+2
+ve
+c
+1−
+ve
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+ve
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+mec2
+pec
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+→
+ve
+c
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+1+
+mec2
+pec
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 1
+ve
+c =
+1
+1+ mec2 pec
+(
+)
+2 =
+1
+1+ 0.511 MeV 1.19 MeV
+(
+)
+2
+ 
+ 
+ 
+ 
+ve = 0.919c 
+ 
+ 
+To find the speed of the proton, a similar derivation (basically, 
+substituting mp for me), yields  
+ 
+ 
+ 
+vp =
+c
+1+ mpc2 pec
+(
+)
+2 =
+2.998 × 108 m/s
+1+ 938.3 MeV 1.19 MeV
+(
+)
+2
+= 3.82 × 105 m/s = 382 km/s
+ 
+ 
+(c) 
+The electron is relativistic; the proton is not. Our criterion for 
+answers accurate to three significant digits is that the electron is 
+moving at more than one-tenth the speed of light and the proton 
+at less than one-tenth the speed of light.
+
+--- PAGE 41 ---
+Chapter 46     1233 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.70 
+(a) 
+At threshold, we consider a photon and a proton colliding head-
+on to produce a proton and a pion at rest, according to 
+p + γ →p + π 0. Energy conservation gives 
+ 
+ 
+ 
+mpc2
+1−u2 c2 + Eγ = mpc2 + mπc2 
+ 
+ 
+Momentum conservation gives 
+mpu
+1−u2 c2 −Eγ
+c = 0. 
+ 
+ 
+Combining the equations, we have 
+ 
+ 
+ 
+mpc2
+1−u2 c2 +
+mpc2
+1−u2 c2
+u
+c = mpc2 + mπc2 
+ 
+ 
+ 
+938.3 MeV
+(
+) 1+ u c
+(
+)
+1−u c
+(
+) 1+ u c
+(
+)
+= 938.3 MeV + 135.0 MeV 
+ 
+ 
+so 
+u
+c = 0.134 
+ 
+ 
+and Eγ = 127 MeV . 
+ 
+(b) 
+λmaxT = 2.898 mm ⋅K 
+ 
+ 
+λmax = 2.898 mm ⋅K
+2.73 K
+= 1.06 mm 
+ 
+(c) 
+Eγ = hf = hc
+λ = 1 240 eV ⋅10−9 m
+1.06 × 10-3 m
+= 1.17 × 10−3 eV 
+ 
+(d) In the primed reference frame, the proton is moving to the right at 
+′u
+c = 0.134 and the photon is moving to the left with 
+h ′f = 1.27 × 108 eV. In the unprimed frame, hf = 1.17 × 10−3 eV. 
+Using the Doppler effect equation (Equation 39.10), we have for 
+the speed of the primed frame (suppressing units) 
+ 
+ 
+ 
+1.27 × 108 =
+1+ v c
+1−v c 1.17 × 10−3
+v
+c = 1−1.71× 10−22
+ 
+ 
+ 
+Then the speed of the proton is given by 
+ 
+ 
+ 
+u
+c =
+′u c + v c
+1+ ′u v c2 =
+0.134 + 1−1.71× 10−22
+1+ 0.134 1−1.71× 10−22
+(
+)
+= 1−1.30 × 10−22
+
+--- PAGE 42 ---
+1234     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+And the energy of the proton is 
+ 
+ 
+ 
+mpc2
+1−u2 c2 =
+938.3 MeV
+1−1−1.30 × 10−22
+(
+)
+2
+= 6.19 × 1010 × 938.3 × 106 eV = 5.81× 1019 eV
+ 
+P46.71 
+(a) 
+Consider a sphere around us of radius R large compared to the 
+size of galaxy clusters. If the matter M inside the sphere has the 
+critical density, then a galaxy of mass m at the surface of the 
+sphere is moving just at escape speed v according to K +Ug = 0, 
+ 
+ 
+or 
+1
+2 mv2 −GMm
+R
+= 0. 
+ 
+ 
+The energy of the galaxy-sphere system is conserved, so this 
+equation is true throughout the history of the Universe after the 
+Big Bang, where v = dR
+dt . Then, 
+ 
+ 
+ 
+dR
+dt
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 2GM
+R
+ 
+ 
+ 
+ 
+or 
+dR
+dt = R−1/2
+2GM.  
+ 
+ 
+integrating,  
+ 
+ 
+ 
+ 
+R dR
+0
+R∫
+=
+2GM
+dt
+0
+T∫
+ 
+ 
+ 
+ 
+R3/2
+3 2
+0
+R
+=
+2GM t 0
+T gives 2
+3 R3/2 =
+2GM T 
+ 
+ 
+or 
+T = 2
+3
+R3 2
+2GM = 2
+3
+R
+2GM R . 
+ 
+ 
+From above, 
+2GM
+R
+= v 
+ 
+ 
+so 
+T = 2
+3
+R
+v . 
+ 
+ 
+Now Hubble’s law says v = HR, so T = 2
+3
+R
+HR = 2
+3H . 
+ 
+(b) 
+T =
+2
+3 22 × 10−3 m s⋅ly
+(
+)
+2.998 × 108 m s
+1 ly yr
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.08 × 109 yr
+= 9.08 billion years
+
+--- PAGE 43 ---
+Chapter 46     1235 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.72 
+A photon travels the distance from the Large Magellanic Cloud to us in 
+170 000 years. The hypothetical massive neutrino travels the same 
+distance in 170 000 years plus 10 seconds: 
+ 
+ 
+ 
+c 170 000 yr
+(
+) = v 170 000 yr + 10 s
+(
+) 
+ 
+ 
+ 
+v
+c =
+170 000 yr
+170 000 yr + 10 s
+=
+1
+1+ 10 s
+1.7 × 105 yr
+(
+) 3.156 × 107 s yr
+(
+)
+[
+]
+{
+}
+=
+1
+1+ 1.86 × 10−12
+ 
+ 
+For the neutrino we want to evaluate mc
+2 in E = γ mc2: 
+ 
+ 
+ 
+mc2 = E
+γ = E 1−v2
+c2 = 10 MeV 1−
+1
+1+ 1.86 × 10−12
+(
+)
+2
+= 10 MeV
+(
+)
+1+ 1.86 × 10−12
+(
+)
+2 −1
+1+ 1.86 × 10−12
+(
+)
+2
+ 
+ 
+ 
+ 
+mc2 ≈10 MeV
+(
+)
+2 1.86 × 10−12
+(
+)
+1
+= 10 MeV
+(
+) 1.93 × 10−6
+(
+)
+= 19 eV
+ 
+ 
+Then the upper limit on the mass is 
+ 
+ 
+ 
+m =
+19 eV
+c2
+ 
+ 
+ 
+ 
+m = 19 eV
+c2
+u
+931.5 × 106 eV c2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.1× 10−8 u
+ 
+P46.73 
+(a) 
+If 2N particles are annihilated, the energy released is 2Nmc
+2. The 
+resulting photon momentum is p = E
+c = 2Nmc2
+c
+= 2Nmc. Since the 
+momentum of the system is conserved, the rocket will have 
+momentum 2Nmc directed opposite the photon momentum. 
+ 
+ 
+ 
+p = 2Nmc 
+ 
+(b) Consider a particle that is annihilated and gives up its rest energy 
+mc
+2 to another particle which also has initial rest energy mc
+2 (but 
+no momentum initially). 
+ 
+ 
+ 
+E2 = p2c2 + mc2
+(
+)
+2
+
+--- PAGE 44 ---
+1236     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Thus, 2mc2
+(
+)
+2 = p2c2 + mc2
+(
+)
+2 . 
+ 
+ 
+Where p is the momentum the second particle acquires as a result 
+of the annihilation of the first particle. Thus 
+4 mc2
+(
+)
+2 = p2c2 + mc2
+(
+)
+2 , p2 = 3 mc2
+(
+)
+2 . So p =
+3mc. 
+ 
+ 
+This process is repeated N times (annihilate N
+2 protons and N
+2 
+antiprotons). Thus the total momentum acquired by the ejected 
+particles is 
+3Nmc, and this momentum is imparted to the 
+rocket. 
+ 
+ 
+ 
+p =
+3Nmc 
+ 
+(c) 
+Method (a) produces greater speed since 2Nmc >
+3Nmc.
+
+--- PAGE 45 ---
+Chapter 46     1237 
+ 
+© 2016 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P46.2 
+(a)2.27 × 1023 Hz; (b) 1.32 × 10−15 m 
+P46.4 
+~10
+3 Bq 
+P46.6 
+~10−18 m 
+P46.8 
+Baryon number conservation allows the first reaction and forbids the 
+second. 
+P46.10 
+~10−23 s 
+P46.12 
+(a) See P46.12(a) for full explanation; (b) Strangeness is not conserved 
+in the second reaction. 
+P46.14 
+(a) νe ; (b) νµ ; (c) νµ ; (d) νµ , ντ 
+P46.16 
+νµ and νe 
+P46.18 
+(a) See P46.18(a) for full explanation;  
+(b) Ee = Eγ = 469 MeV, pe = pγ = 469 MeV c ; (c) v = 0.999 999 4c 
+P46.20 
+The ρ0 →π + + π − decay must occur via the strong interaction. The 
+KS
+0 →π + + π − decay must occur via the weak interaction. 
+P46.22 
+(a) electron and muon lepton numbers; (b) electron lepton number;  
+(c) charge and strangeness; (d) baryon number; (e) strangeness 
+P46.24 
+(a) B, charge, Le, and Lτ ; (b) B, charge, Le, Lµ, and Lτ ;  
+(c) S, charge, Le, Lµ, and Lτ ; (d) B, S, charge, Le, Lµ, and Lτ ;  
+(e) B, S, charge, Le, Lµ, and Lτ ; (f) B, S, charge, Le, Lµ, and Lτ 
+P46.26 
+(a) pΣ+ = 686 MeV c, pπ + = 200 MeV c ; (b) 626 MeV/c;  
+(c) Eπ + = 244 MeV, En = 1.13 GeV; (d) 1.37 GeV; (e) 1.19 GeV/c
+2;  
+(f) The result in part (e) is within 0.05% of the value ion Table 46.2. 
+P46.28 
+(a) See table in P46.28(a); (b) See table in P46.28(b). 
+P46.30 
+(a) Σ+ ; (b) π −; (c) K0 ; (d) Ξ− 
+P46.32 
+(a) The reaction has a net of 3u, 0d, and 0s before and after; (b) The 
+reaction has a net of 1u, 1d, and 1s before and after; (c) The reaction 
+must net of 4u, 2d, and 0z before and after; (d) Λ0 or Σ0 
+P46.34 
+3.34 × 1026 electrons , 9.36 × 1026 up quarks ,8.70 × 1026 down quarks 
+P46.36 
+mu = 312 MeV c2 ; md = 314 MeV c2
+
+--- PAGE 46 ---
+1238     Particle Physics and Cosmology 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P46.38 
+(a) 4.30 × 10−18 m s ; (b) 0.892 nm/s 
+P46.40 
+(a) 8.41× 106 kg ; (b) No. It is only the fraction 4.23 × 10
+–24 of the mass 
+of the Sun. 
+P46.42 
+1.36 × 1010 yr 
+P46.44 
+3.15 × 10−6 W m2 
+P46.46 
+(a) c
+Z2 + 2Z
+Z2 + 2Z + 2
+⎛
+⎝⎜
+⎞
+⎠⎟; (b) c
+H
+Z2 + 2Z
+Z2 + 2Z + 2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+P46.48 
+(a) See P46.48(a) for full explanation; (b) 6.34 × 1061 m3/s 
+P46.50 
+(a) 1.62 × 10−35 m; (b) 5.39 × 10−44 s 
+P46.52 
+νµ 
+P46.54 
+See P46.54 for full explanation. 
+P46.56 
+1 part in 5 × 10
+7  
+P46.58 
+29.8 MeV 
+P46.60 
+m =
+qBrc
+(
+)
+2 + E+
+2 +
+qBrc
+(
+)
+2 + E−
+2
+c2
+ 
+P46.62 
+(a) Z0 boson; (b) photon or Z0 boson, gluon 
+P46.64 
+74.4 MeV 
+P46.66 
+70.4 MeV 
+P46.68 
+(a) See P46.68(a) for full explanation; (b) 5.63 GeV; (c) 768 MeV;  
+(d) 280 MeV; (e) 4.43 TeV 
+P46.70 
+(a) 127 MeV; (b) 1.06 mm; (c) 1.17 × 10
+–3 eV; (d) 5.81 × 10
+19 eV; 
+P46.72 
+19 eV/c2

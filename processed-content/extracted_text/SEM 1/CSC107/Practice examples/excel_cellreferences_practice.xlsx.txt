@@ -1,0 +1,79 @@
+
+--- SHEET: Catering Invoice ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 | 
+
+Invoice #:  5686B
+Date:    05/10/16 |  | 
+SERVICE | DESCRIPTION | LINE TOTAL |  | 
+Menu Order | Food & beverage |  |  | 
+Paper Goods | Plates, utensils, cups | 110.87 |  | 
+Rental Equipment | Tables, chairs, linens | 249.95 |  | 
+Service Fee | 18% of food & beverage | =C4*0.18 |  | 
+TOTAL |  | =SUM(C4:C7) |  | 
+
+--- SHEET: Menu Order ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  | 
+
+Invoice #:  5686B
+Date:    05/10/16 |  |  | 
+ |  |  | TAX RATE: | ='Paper Goods'!$E$2 |  | 
+MENU ITEM | UNIT PRICE | QUANTITY | SALES TAX | LINE TOTAL |  | 
+Empanadas: Beef Picadillo | 2.99 | 15 |  | =B4*C4+D4 |  | 
+Empanadas: Chipotle Shrimp | 3.99 | 10 |  | =B5*C5+D5 |  | 
+Tamales: Chicken Tinga | 2.29 | 20 |  | =B6*C6+D6 |  | 
+Tamales: Vegetable | 2.29 | 30 |  | =B7*C7+D7 |  | 
+Arepas: Carnitas | 2.89 | 10 |  | =B8*C8+D8 |  | 
+Arepas: Queso Blanco | 2.49 | 20 |  | =B9*C9+D9 |  | 
+Empanadas: Apple Cinnamon | 3.19 | 40 |  | =B10*C10+D10 |  | 
+Beverages: Horchata | 1.89 | 25 |  | =B11*C11+D11 |  | 
+Beverages: Lemonade | 1.89 | 35 |  | =B12*C12+D12 |  | 
+Beverages: Tamarindo | 1.89 | 10 |  | =B13*C13+D13 |  | 
+ |  |  | TOTAL | =SUM(E4:E13) |  | 
+
+--- SHEET: Menu Order (No Tax) ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  | 
+
+Invoice #:  5686B
+Date:    05/10/16 |  | 
+MENU ITEM | UNIT PRICE | QUANTITY | LINE TOTAL |  | 
+Empanadas: Beef Picadillo | 2.99 | 15 |  |  | 
+Empanadas: Chipotle Shrimp | 3.99 | 10 |  |  | 
+Tamales: Chicken Tinga | 2.29 | 20 |  |  | 
+Tamales: Vegetable | 2.29 | 30 |  |  | 
+Arepas: Carnitas | 2.89 | 10 |  |  | 
+Arepas: Queso Blanco | 2.49 | 20 |  |  | 
+Empanadas: Apple Cinnamon | 3.19 | 40 |  |  | 
+Beverages: Horchata | 1.89 | 25 |  |  | 
+Beverages: Lemonade | 1.89 | 35 |  |  | 
+Beverages: Tamarindo | 1.89 | 10 |  |  | 
+ |  | TOTAL | =SUM(D4:D13) |  | 
+
+--- SHEET: Paper Goods ---
+ | Catering Invoice
+Sabrosa Empanadas & More
+1202 Biscayne Bay Drive
+Orlando, FL 32804 |  | 
+
+Invoice #:  5686B
+Date:    05/10/16 |  |  | 
+ |  |  | TAX RATE: | 0.075 |  | 
+ITEM | UNIT PRICE | QUANTITY | SALES TAX | LINE TOTAL |  | 
+10.5" Extra Thick Dinner Plates - 20 count | 3.79 | 15 |  | =B4*C4+D4 |  | 
+8" Deep Dessert Plates - 15 count | 3.99 | 20 |  | =B5*C5+D5 |  | 
+16 oz. Beverage Cups - 30 count | 1.29 | 10 |  | =B6*C6+D6 |  | 
+12 oz. Styrofoam Coffee Cups - 20 count | 1.59 | 15 |  | =B7*C7+D7 |  | 
+50 count Plastic Spoons - White | 2.59 | 6 |  | =B8*C8+D8 |  | 
+50 count Plastic Forks - White | 2.69 | 6 |  | =B9*C9+D9 |  | 
+50 count Plastic Knives - White | 2.19 | 6 |  | =B10*C10+D10 |  | 
+100 count Dinner Napkins - Blue | 1.39 | 3 |  | =B11*C11+D11 |  | 
+75 count Beverage Napkins - Green | 1.19 | 4 |  | =B12*C12+D12 |  | 
+ |  |  | TOTAL | =SUM(E4:E12) |  | 

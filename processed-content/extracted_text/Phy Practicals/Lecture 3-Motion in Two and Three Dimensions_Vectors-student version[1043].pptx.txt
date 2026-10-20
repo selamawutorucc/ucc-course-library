@@ -1,0 +1,453 @@
+
+--- SLIDE 1 ---
+Motion in Two and Three Dimensions
+Vectors
+
+--- SLIDE 2 ---
+Lecture Goals
+Addition of vectors
+Graphical resultants of vectors
+ Resolution of vectors 
+
+--- SLIDE 3 ---
+Lecture Goals, cont’d
+Unit Vectors
+Vector Multiplication
+Scalar (or Dot) product of vectors 
+Vector (or Cross) product of Vectors 
+
+--- SLIDE 4 ---
+Introduction
+So far we have studied motion of objects/particles in one dimension
+Let us now study motion of particles that can stop, move, … etc. and change direction i. e. motion in 2-3 dimensions
+	-Need to represent displacement, 	velocity, acceleration with quantities 	that 	have an orientation in space, i.e. vectors
+
+
+
+--- SLIDE 5 ---
+Vectors
+Vectors are physical quantities that have both magnitude and direction
+
+In this lecture, mathematical operations on vectors will be studied:
+Addition
+Subtraction
+
+--- SLIDE 6 ---
+Vectors and Scalars
+A scalar quantity is completely specified by a single value with an appropriate unit and has no direction.
+Many are always positive
+Some may be positive or negative
+Rules for ordinary arithmetic are used to manipulate scalar quantities.
+A vector quantity is completely described by a number and appropriate units plus a direction.
+
+--- SLIDE 7 ---
+Why do we need vectors in Physics?
+Many quantities in Physics & engineering are such that their specification requires both magnitude & direction
+
+Example: displacement, velocity, force, etc.
+
+--- SLIDE 8 ---
+Vector Notation
+Text uses bold with arrow to denote a vector: 
+Also used for printing is simple bold print: A
+When dealing with just the magnitude of a vector in print, an italic letter will be used:  A  or   |    | 
+The magnitude of the vector has physical units.
+The magnitude of a vector is always a positive number.
+When handwritten, use an arrow: 
+
+
+
+--- SLIDE 9 ---
+Vector Example
+A particle travels from A to B along the path shown by the broken line.
+This is the distance traveled and is a scalar.
+The displacement is the solid line from A to B
+The displacement is independent of the path taken between the two points.
+Displacement is a vector.
+
+--- SLIDE 10 ---
+Quick Quiz
+  Which of the following are vector quantities and which are scalars?
+ (a) your age (b) acceleration (c) velocity
+ (d) speed (e) mass (f) volume (g) temperature
+
+--- SLIDE 11 ---
+Coordinate Systems
+Used to describe the position of a point in space
+
+Common coordinate systems are:
+Cartesian (x, y, z) 
+Polar (r, )
+
+
+--- SLIDE 12 ---
+Cartesian Coordinate System
+Also called rectangular coordinate system
+x- and y- axes intersect at the origin
+Points are labeled (x, y)
+
+
+--- SLIDE 13 ---
+Polar Coordinate System
+Origin and reference line are noted
+
+Point is distance r from the origin in the direction of angle ,  from reference line
+The reference line is often the x-axis.
+
+Points are labeled (r,)
+
+
+--- SLIDE 14 ---
+Polar to Cartesian Coordinates
+Based on forming a right triangle from r and θ
+x = r cos θ
+y = r sin θ
+
+If the Cartesian coordinates are known:
+
+--- SLIDE 15 ---
+Example
+The Cartesian coordinates of a point in the xy plane are (x,y) = (-3.50, -2.50) m, as shown in the figure. Find the polar coordinates of this point.
+Solution:
+	
+
+ 	
+	
+ 
+
+
+
+--- SLIDE 16 ---
+Operations on /with vectors
+Vector quantities can be added or subtracted using Graphical Method
+
+Vectors can also be added by components (a necessary requirement in this course)
+
+
+--- SLIDE 17 ---
+Equality of Two Vectors
+Two vectors are equal if they have the same magnitude and the same direction.
+            if A = B and they point along parallel lines
+All of the vectors shown are equal.
+Allows a vector to be moved to a position parallel to itself
+
+
+--- SLIDE 18 ---
+Adding Vectors
+Vector addition is very different from adding scalar quantities.
+When adding vectors, their directions must be taken into account.
+Units must be the same 
+Graphical Methods require the use of scale drawings
+Algebraic Methods are usually used
+More convenient
+
+
+--- SLIDE 19 ---
+Adding Vectors Graphically
+Choose a scale. 
+Draw the first vector,     , with the appropriate length and in the direction specified, with respect to a coordinate system.
+Draw the next vector with the appropriate length and in the direction specified, with respect to a coordinate system whose origin is the end of vector      and parallel to the coordinate system used for     . 
+
+--- SLIDE 20 ---
+Adding Vectors Graphically, cont.
+Continue drawing the vectors “tip-to-tail” or “head-to-tail”.
+
+The resultant is drawn from the origin of the first vector to the end of the last vector.
+
+Measure the length of the resultant and its angle.
+Use the scale factor to convert length to actual magnitude.
+
+--- SLIDE 21 ---
+Adding Vectors Graphically, final
+When you have many vectors, just keep repeating the process until all are included.
+The resultant is still drawn from the tail of the first vector to the tip of the last vector.
+
+--- SLIDE 22 ---
+Adding Vectors, Rules
+When two vectors are added, the sum is independent of the order of the addition.
+This is the Commutative Law of Addition.
+  
+
+The Parallelogram Rule:
+
+--- SLIDE 23 ---
+Adding Vectors, Rules cont.
+When adding three or more vectors, their sum is independent of the way (order) in which the individual vectors are grouped.
+This is called the Associative Property of Addition.
+ 
+
+
+--- SLIDE 24 ---
+Adding Vectors, Rules final
+When adding vectors, all of the vectors must have the same units.
+All of the vectors must be of the same type of quantity.
+For example, you cannot add a displacement to a velocity.
+
+
+
+--- SLIDE 25 ---
+Negative of a Vector
+The negative of a vector is defined as the vector that, when added to the original vector, gives a resultant of zero.
+Represented as 
+ 
+The negative of the vector will have the same magnitude, but point in the opposite direction.
+
+--- SLIDE 26 ---
+Multiplying or Dividing a Vector by a Scalar
+The result of the multiplication or division of a vector by a scalar is a vector.
+The magnitude of the vector is multiplied or divided by the scalar.
+If the scalar is positive, the direction of the result is the same as of the original vector.
+If the scalar is negative, the direction of the result is opposite that of the original vector.
+
+
+--- SLIDE 27 ---
+Component Method of Adding Vectors
+Graphical addition is not recommended when:
+High accuracy is required
+If you have a three-dimensional problem
+Component method is an alternative method
+It uses projections of vectors along coordinate axes
+
+--- SLIDE 28 ---
+Components of a Vector, Introduction
+A component is a projection of a vector along an axis.
+Any vector can be completely described by its components.
+It is useful to use rectangular components.
+These are the projections of the vector along the x- and y-axes.
+
+--- SLIDE 29 ---
+Vector Component Terminology
+                    are the component vectors of    
+They are vectors and follow all the rules for vectors.
+  Ax and Ay are scalars, and will be referred to as the components of    .
+
+--- SLIDE 30 ---
+Components of a Vector
+Assume you are given a vector 
+It can be expressed in terms of two other vectors,      and 
+
+These three vectors form a right triangle.
+ 
+
+
+--- SLIDE 31 ---
+Components of a Vector, 2
+The y-component is moved to the end of the x-component.
+This is due to the fact that any vector can be moved parallel to itself without being affected.
+This completes the triangle.
+
+
+--- SLIDE 32 ---
+Components of a Vector, 3
+The x-component of a vector is the projection along the x-axis.
+
+The y-component of a vector is the projection along the y-axis.
+
+This assumes the angle θ is measured with respect to the +x-axis.
+If not, do not use these equations, use the sides of the triangle directly.
+
+
+--- SLIDE 33 ---
+Components of a Vector, 4
+The components are the legs of the right triangle whose hypotenuse is the length of A.
+ 
+May still have to find θ with respect to the positive x-axis
+In a problem, a vector may be specified by its components or its magnitude and direction.
+
+
+
+
+
+
+--- SLIDE 34 ---
+Components of a Vector, final
+The components can be positive or negative and will have the same units as the original vector.
+The signs of the components will depend on the angle.
+
+--- SLIDE 35 ---
+Unit Vectors
+A unit vector is a dimensionless vector with a magnitude of exactly 1.
+Unit vectors are used to specify a direction and have no other physical significance.
+
+
+--- SLIDE 36 ---
+Unit Vectors, cont.
+The symbols
+    represent unit vectors
+They form a set of mutually perpendicular vectors in a right-handed coordinate system   
+The magnitude of each unit vector is 1 
+
+
+
+--- SLIDE 37 ---
+Unit Vectors in Vector Notation
+Ax is the same as Ax     and Ay is the same as Ay      etc.
+The complete vector can be expressed as:
+
+
+--- SLIDE 38 ---
+Position Vector, Example
+A point lies in the xy plane and has Cartesian coordinates of (x, y).
+The point can be specified by the position vector.
+
+This gives the components of the vector and its coordinates.
+
+--- SLIDE 39 ---
+Problem
+Find the sum of two displacement vectors A and B lying in the xy plane and given by:
+A = (2.0 i + 2.0 j)m
+B = (2.0 i - 4.0 j)m
+
+--- SLIDE 40 ---
+Adding Vectors Using Unit Vectors
+Using 
+Then
+
+
+
+
+So Rx = Ax + Bx and Ry = Ay + By
+
+
+--- SLIDE 41 ---
+Adding Vectors with Unit Vectors
+Note the relationships among the components of the resultant and the components of the original vectors.
+Rx = Ax + Bx
+Ry = Ay + By
+
+
+--- SLIDE 42 ---
+Three-Dimensional Extension
+Using 
+Then
+
+
+
+
+So Rx= Ax+Bx, Ry= Ay+By, and Rz = Az+Bz
+
+
+--- SLIDE 43 ---
+Adding Three or More Vectors
+The same method can be extended to adding three or more vectors.
+Assume 
+
+And
+
+
+
+
+
+--- SLIDE 44 ---
+Multiplication of Vectors
+Scalar or Dot Product
+Vector or Cross Product
+
+--- SLIDE 45 ---
+Projectile Motion
+An object may move in both the x and y directions simultaneously.
+The form of two-dimensional motion we will deal with is called projectile motion.
+
+
+
+--- SLIDE 46 ---
+Assumptions of Projectile Motion
+The free-fall acceleration is constant over the range of motion.
+It is directed downward.
+The effect of air friction is negligible.
+With these assumptions, an object in projectile motion will follow a parabolic path.
+This path is called the trajectory.
+
+--- SLIDE 47 ---
+Projectile Motion Diagram
+
+--- SLIDE 48 ---
+Acceleration at the Highest Point
+The vertical velocity is zero at the top.
+The acceleration is not zero anywhere along the trajectory.
+If the projectile experienced zero acceleration at the highest point, its velocity at the point would not change.
+The projectile would move with a constant horizontal velocity from that point on. 
+
+--- SLIDE 49 ---
+Range and Maximum Height of a Projectile
+When analyzing projectile motion, two characteristics are of special interest
+The range, R, is the horizontal distance of the projectile.
+The maximum height the projectile reaches is h.
+
+--- SLIDE 50 ---
+Height of a Projectile, equation
+The maximum height of the projectile can be found in terms of the initial velocity vector:
+
+
+This equation is valid only for symmetric motion.
+
+
+--- SLIDE 51 ---
+Range of a Projectile, equation
+The range of a projectile can be expressed in terms of the initial velocity vector:
+
+
+This is valid only for symmetric trajectory.
+
+--- SLIDE 52 ---
+More About the Range of a Projectile
+
+--- SLIDE 53 ---
+Range of a Projectile, final
+The maximum range occurs at qi = 45o .
+Complementary angles will produce the same range.
+The maximum height will be different for the two angles.
+The times of the flight will be different for the two angles.
+
+--- SLIDE 54 ---
+Time of Flight
+The time taken to reach the maximum height is
+
+
+Total time of travel (for symmetric paths) 
+                       
+Note: The Range R can also be determined using the time of travel 
+
+--- SLIDE 55 ---
+Projectile Motion – Problem Solving Hints
+Conceptualize
+Establish the mental representation of the projectile moving along its trajectory.
+Categorize
+Confirm air resistance is neglected.
+Select a coordinate system with x in the horizontal and y in the vertical direction.
+Analyze
+If the initial velocity is given, resolve it into x and y components.
+Treat the horizontal and vertical motions independently.
+
+--- SLIDE 56 ---
+Problem
+	A long jumper leaves the ground at an angle of 20.0° above the horizontal and at a speed of 11.0 m/s
+How far does he jump in the horizontal direction?
+What is the maximum height reached?
+How long does it take to reach the maximum height?
+What is the time taken for the entire jump?
+
+--- SLIDE 57 ---
+Non-Symmetric Projectile Motion
+Follow the general rules for projectile motion.
+Break the y-direction into parts.
+up and down or 
+symmetrical back to initial height and then the rest of the height
+Apply the problem solving process to determine and solve the necessary equations.
+May be non-symmetric in other ways
+
+
+--- SLIDE 58 ---
+Problem
+	A stone is thrown from the top of a building upward at an angle of 30.0° to the horizontal with an initial speed of
+	20.0 m/s. The height from which the stone is thrown is 45.0 m above the ground.
+How long does it take the stone to reach the ground? 
+What is the speed of the stone just before it strikes the ground?
+
+--- SLIDE 59 ---
+Problems
+1. A stone is thrown from the top of a building with an initial velocity of 20 m/s downward. The top of the building is 60 m above the ground. How much time elapses between the instant of release and the instant of impact with the ground?
+   Ans: 6s
+2. A ball thrown vertically from ground level is caught 3.0 s later when it is at its highest point by a person on a balcony which is 14 m above the ground. Determine the initial speed of the ball.
+
+Ans: 19.7 m/s 

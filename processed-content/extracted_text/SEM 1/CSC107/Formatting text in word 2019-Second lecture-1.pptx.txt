@@ -1,0 +1,1254 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+Objectives Overview
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Using the insertion point to add text
+The insertion point is the blinking vertical line in your document. 
+It indicates where you can enter text on the page.
+You can use the insertion point in a variety of ways.
+Type =rand() in the blank word document
+
+--- SLIDE 5 ---
+Using the insertion point to add text
+Adding spaces: Press the spacebar on the keyboard to add spaces after a word or in between text.
+
+
+--- SLIDE 6 ---
+Using the insertion point to add text
+New paragraph line: 
+Simply click the end of the first sentence after the full stop.
+Press Enter on your keyboard to move the insertion point to the next paragraph line.
+
+
+--- SLIDE 7 ---
+Using the insertion point to add text
+Manual placement: Once you begin typing, you can use the mouse to move the insertion point to a specific place in your document. Simply click the location in the text where you want to place it.
+
+
+--- SLIDE 8 ---
+Using the insertion point to add text
+Arrow keys: You can also use the arrow keys on your keyboard to move the insertion point. 
+
+The left and right arrow keys will move between adjacent characters on the same line, 
+
+while the up and down arrows will move between paragraph lines. 
+
+You can also press Ctrl + Left arrow key or Ctrl + Right arrow key to quickly move between entire words.
+
+In a new blank document, you can double-click the mouse to move the insertion point elsewhere on the page.
+
+
+--- SLIDE 9 ---
+Selecting text
+The most common method of selecting a text is to click and drag the mouse over the text you want to select, then release the mouse.
+A highlighted box will appear over the selected text.
+
+
+
+--- SLIDE 10 ---
+Selecting text
+When you select text or images in Word, a hover toolbar with command shortcuts will appear. If the toolbar does not appear at first, try hovering the mouse over the selection.
+
+
+--- SLIDE 11 ---
+Selecting text
+
+--- SLIDE 12 ---
+Selecting text
+NOTE
+Note that only one part of the document can be in the selected state.
+
+If you have one portion of the document in selected state and as soon as you try to select any other part of the document, previous part will automatically be de-selected.
+
+--- SLIDE 13 ---
+Select Text Using the Keyboard
+
+Keyboard provides very good support when you want to select various components of the document as described in the following table
+
+--- SLIDE 14 ---
+Select Text Using the Keyboard
+
+--- SLIDE 15 ---
+How to drag and drop text
+Select the text you want to move.
+
+
+--- SLIDE 16 ---
+How to drag and drop text
+Click and drag the text to the location where you want it to appear. A small rectangle will appear below the arrow to indicate that you are moving text.
+
+
+--- SLIDE 17 ---
+How to drag and drop text
+Release the mouse, and the text will appear.
+
+
+--- SLIDE 18 ---
+Move within different documents
+Step 1  
+Open a new word document in addition to old document.
+
+Step 2
+Keep both the documents opened and to ensure that both documents are visible.
+
+Click the Arrange All button on the View tab on the Ribbon.
+
+
+
+--- SLIDE 19 ---
+Move within different documents
+Step 2
+Keep both the documents opened and to ensure that both documents are visible.
+ Click the Arrange All button on the View tab on the Ribbon.
+
+
+
+--- SLIDE 20 ---
+Move within different documents
+Step 3
+This will display both the documents as shown below
+
+
+
+
+--- SLIDE 21 ---
+Move within different documents
+Step 4
+Now, select a portion of the text using any of the text selection methods.
+
+Step 5
+Take your mouse pointer over the selected text and hold the left button of the mouse and keep holding it while moving around the document.
+
+--- SLIDE 22 ---
+Move within different documents
+Step 6
+Take your mouse pointer at the place in the second document where you want to move the selected text and release the mouse button. 
+
+You will see that the selected text is moved to the desired location in the second document.
+
+--- SLIDE 23 ---
+Move within different documents
+Step 7
+
+
+--- SLIDE 24 ---
+Copying and moving text
+
+Word allows you to copy text that's already in your document and paste it in other places, which can save you a lot of time and effort. 
+
+If you want to move text around in your document, you can cut and paste or drag and drop.
+
+--- SLIDE 25 ---
+Copying and moving text
+To use copy and paste or cut and paste operations, Word makes use of a temporary memory which is called the clipboard.
+
+When you copy or cut a text, it stay on the clipboard temporarily and in the second step you can paste this content at the desired location.
+
+--- SLIDE 26 ---
+How to copy and paste text
+Step 1
+Select the text you want to copy.
+
+
+--- SLIDE 27 ---
+How to copy and paste text
+Step 2
+Click the Copy command on the Home tab. You can also press Ctrl+C on your keyboard.
+
+
+--- SLIDE 28 ---
+How to copy and paste text
+Step 3
+Place the insertion point where you want the text to appear.
+Click the Paste command on the Home tab. You can also press Ctrl+V on your keyboard.
+
+
+--- SLIDE 29 ---
+How to copy and paste text
+Step 4
+The text will appear as shown below.
+
+--- SLIDE 30 ---
+How to cut and paste text
+Step 1
+Select the text you want to cut.
+
+--- SLIDE 31 ---
+How to cut and paste text
+Step 2
+Click the Cut command on the Home tab. You can also press Ctrl+X on your keyboard.
+
+
+
+
+
+Place your insertion point where you want the text to appear.
+
+
+--- SLIDE 32 ---
+How to cut and paste text
+Step 3
+Click the Paste command on the Home tab. You can also press Ctrl+V on your keyboard.
+
+
+
+
+
+
+
+--- SLIDE 33 ---
+How to copy and paste text
+Step 4
+The text will appear as shown below.
+
+--- SLIDE 34 ---
+How to copy and paste text
+You can also cut, copy, and paste by right-clicking your document and choosing the desired action from the drop-down menu. 
+
+When you use this method to paste, you can choose from three options that determine how the text will be formatted: Keep Source Formatting, Picture, Merge Formatting, and Keep Text Only. 
+You can hover the mouse over each icon to see what it will look like before you select it.
+
+--- SLIDE 35 ---
+How to copy and paste text
+
+--- SLIDE 36 ---
+How to copy and paste text
+Keep Source Formatting maintains the formatting (e.g., font, size, color, etc.) of the pasted text.
+
+Merge Formatting changes the formatting of the pasted text to match the formatting of the new location.
+
+Picture pastes the text or other content as an image
+
+Keep Text Only removes the formatting of the pasted text and adds the formatting of the new location.
+
+--- SLIDE 37 ---
+How Cut and paste items from the Clipboard
+Step 1
+Click the Home tab on the ribbon, then click the Dialogue Box launcher in the lower-right corner of the Clipboard group.
+
+--- SLIDE 38 ---
+How Cut and paste items from the Clipboard
+Step 2
+Select the text or graphics you want to copy, and press Ctrl+C. 
+Each selection appears in the Clipboard, with the latest at the top.
+
+--- SLIDE 39 ---
+How Cut and paste items from the Clipboard
+Step 3
+Click the down arrow next to the item you want to paste, and click Paste.
+
+
+
+--- SLIDE 40 ---
+How Cut and paste items from the Clipboard
+Step 4
+The text will be appear as shown below. To paste everything in the Clipboard to the selected area in your document, click Paste All.
+.
+
+
+
+--- SLIDE 41 ---
+Delete items from the Clipboard
+Step 1
+Click the arrow on the right side of the item, and click Delete.
+Right-click the item you want to delete, and click Delete.
+Click Clear All to clear everything out of the Clipboard.
+
+--- SLIDE 42 ---
+Close the Clipboard
+Step 1
+Click the X in the upper-right corner of the Clipboard pane.
+
+
+
+--- SLIDE 43 ---
+To delete text
+There are several ways to delete, or remove, text:
+To delete text to the left of the insertion point, press the Backspace key on your keyboard.
+
+To delete text to the right of the insertion point, press the Delete key on your keyboard.
+
+Select the text you want to remove, then press the Delete key.
+
+If you select text and start typing, the selected text will automatically be deleted and replaced with the new text.
+
+--- SLIDE 44 ---
+What is Paste Special
+Assume that the user copied and pasted some content from the web to a Word document. It will appear as follows. It will paste the copied content including its format from the original source.
+
+
+
+--- SLIDE 45 ---
+What is Paste Special
+Paste Special performs the same functionality as paste, but it provides some additional options. 
+When the user copies some content from the web and selects paste special in the Home tab of the ribbon, it will open a dialog box.
+
+--- SLIDE 46 ---
+What is Paste Special
+If the user selects Unformatted Text or Unformatted Unicode Text, it will display the content in normal text format as below. The Unicode is a common and standard encoding type in writing systems.
+
+
+
+--- SLIDE 47 ---
+What is Paste Special
+The text will be appear as shown below. 
+
+
+
+--- SLIDE 48 ---
+Difference Between Paste and Paste Special
+The main difference between paste and paste special is that the paste command allows the user to insert the selected data from the clipboard into an application.
+
+ Whereas the paste special command follows the same functionality similar to paste, but provides additional options to select how the inserted data should appear on the application.
+
+--- SLIDE 49 ---
+Difference Between Paste and Paste Special
+
+User can press Control(Ctrl) and V keys together from the keyboard.
+
+For paste special press Control(Ctrl), alter(Alt) and V keys together from the keyboard.
+
+--- SLIDE 50 ---
+How to use the Format Painter
+Use Format Painter to quickly apply the same formatting, such as color, font style and size, or border style, to multiple pieces of text or graphics. 
+
+With format painter, you can copy all of the formatting from one object and apply it to another one—think of it as copying and pasting for formatting.
+
+--- SLIDE 51 ---
+How to use the Format Painter
+Select the text or graphic that has the formatting that you want to copy.
+
+
+--- SLIDE 52 ---
+How to use the Format Painter
+On the Home tab, select Format Painter in the Clipboard group. 
+
+
+
+
+
+
+The cursor changes to a            paintbrush icon.
+
+Use the brush to paint over a selection of text or graphics to apply the formatting.
+
+
+--- SLIDE 53 ---
+How to use the Format Painter
+Use the brush to paint over a selection of text or graphics to apply the formatting. This only works once.
+
+
+--- SLIDE 54 ---
+Undo and Redo
+Let's say you're working on a document and accidentally delete some text. 
+
+Fortunately, you won't have to retype everything you just deleted! Word allows you to undo your most recent action when you make a mistake like this.
+
+
+--- SLIDE 55 ---
+Undo and Redo
+To do this, locate and select the Undo command on the Quick Access Toolbar. You can also press Ctrl+Z on your keyboard. 
+
+
+
+--- SLIDE 56 ---
+Undo and Redo
+By contrast, the Redo command allows you to reverse the last undo. You can also access this command by pressing Ctrl+Y on your keyboard.
+
+
+--- SLIDE 57 ---
+Text Basics
+ Microsoft word allows you to use different fonts with different size.
+
+You can change your document's appearance by changing the fonts and their size.
+
+It is important to learn how to use different fonts.
+
+--- SLIDE 58 ---
+Setting Text Fonts in Word 2019
+ Microsoft word allows you to use different fonts with different size.
+
+You can change your document's appearance by changing the fonts and their size.
+
+It is important to learn how to use different fonts.
+
+--- SLIDE 59 ---
+Change the Font Size
+Step 1 
+Select the portion of text the font of which needs to be changed and click the Home tab. 
+
+
+--- SLIDE 60 ---
+Change the Font Size
+Step 2
+On the Home tab, click the Font Size drop-down arrow. Select a font size from the menu. If the font size you need is not available in the menu, you can click the Font Size box and type the desired size, then press Enter.
+
+
+
+ 
+
+
+--- SLIDE 61 ---
+Change the Font Size
+
+You can also use the Grow Font and Shrink Font commands to change the font size.
+
+
+
+
+--- SLIDE 62 ---
+Change the Font Type 
+Step 1
+By default, the font type of each new document is set to Calibri. However, Word provides many other fonts you can use to customize text.
+Select the text you want to modify.
+
+ 
+
+
+--- SLIDE 63 ---
+Change the Font Type 
+Step 2
+On the Home tab, click the drop-down arrow next to the Font box. A menu of font styles will appear.
+Select the font style you want to use.
+
+
+--- SLIDE 64 ---
+Change the Font Type 
+
+When creating a professional document or a document that contains multiple paragraphs, 
+
+you'll want to select a font that's easy to read. Along with Calibri, standard reading fonts include Cambria, Times New Roman, and Arial.
+
+--- SLIDE 65 ---
+To change the font color
+Step 1 
+Select the text you want to modify.
+
+--- SLIDE 66 ---
+To change the font color
+Step 2 
+On the Home tab, click the Font Color drop-down arrow. The Font Color menu appears.
+
+
+--- SLIDE 67 ---
+To change the font color
+Step 3 
+Select the font color you want to use. The font color will change in the document.
+
+
+
+--- SLIDE 68 ---
+To change the font color
+Your color choices aren't limited to the drop-down menu that appears. Select More Colors at the bottom of the menu to access the Colors dialog box. Choose the color you want, then click OK.
+
+--- SLIDE 69 ---
+Highlight Text with Colors
+Step 1 
+ Select the portion of text that needs to be highlighted with color. You can use any of the text selection method to select the portion of text.
+Step 2 
+From the Home tab, click the Text Highlight Color drop-down arrow. The Highlight Color menu appears.. 
+
+
+
+--- SLIDE 70 ---
+Remove Highlight Text with Colors
+Step 1 
+To remove highlighting, select the highlighted text, then click the Text Highlight Color drop-down arrow. Select No Color from the drop-down menu.
+
+
+--- SLIDE 71 ---
+Clear All Formatting Options
+All of the setting can be reset to plain text, or the default formatting. To reset text to default settings 
+Step 1 
+Select the portion of text that you want to reset.
+
+
+
+
+
+
+
+Step 2  
+Click the Clear Formatting button in the Home tab Font group, or simply use Ctrl + SPACEBAR.
+
+--- SLIDE 72 ---
+Text Decoration in Word 2010
+
+
+When we use the term decorate, it means putting the text in italics, underlining the text or making it bold to look more fancy and much more.
+
+
+--- SLIDE 73 ---
+Making text bold
+Step 1 
+Select the portion of text that the font of which needs to be made bold. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Font Bold [ B ] button in the Home tab Font group, or simply use Ctrl + B keys to make the selected portion of text bold.
+
+--- SLIDE 74 ---
+Making Text Italic
+Step 1 
+Select the portion of text the font of which needs to be italicized. You can use any of the text selection methods to select the portion of text.
+Step 2 
+ Click the Font Italic [ I ] button in the Home tab Font group, or simply use the Ctrl + I keys to convert the portion of text in italic font.
+
+
+--- SLIDE 75 ---
+Underline the Text
+Step 1 
+Select the portion of text which needs to be underlined. You can use any of the text selection method to select the portion of text.
+Step 2 
+ Click Font Underline [ U ] button in the Home tab Font group, or simply use the Ctrl + U keys to put an underline under the text.
+
+
+--- SLIDE 76 ---
+Strikethrough the Text
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+ Click Font Strikethrough [ abc ] button in the Home tab Font group to put a line in the middle of the text which is called strikethrough the text.
+
+
+--- SLIDE 77 ---
+Change Text Case in Word 2019
+
+
+You can also capitalize a character you are typing by pressing and holding the SHIFT key while you type.
+
+You can also press the CAPS LOCK to have every letter that you type capitalized, and then press the CAPS LOCK again to turn off capitalization.
+
+
+--- SLIDE 78 ---
+Change Text to Sentence Case
+Step 1 
+Select the portion of text that that needs to be put in sentence case. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Change Case button and then select the Sentence Case option to capitalize the first character of every selected sentence.
+
+
+NOTE:
+The first character of a sentence is capitalized.
+
+--- SLIDE 79 ---
+Change Text to Lowercase
+Step 1 
+Select the portion of text that needs to be put in lowercase. You can use any of the text selection methods to select the portion of text.
+Step 2 
+Click the Change Case button and then select Lowercase option to display all the selected words in lowercase.
+
+
+NOTE
+Every word of a sentence is in lowercase.
+
+--- SLIDE 80 ---
+Change Text to Uppercase
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select UPPERCASE option to display all selected words in all caps. All characters of every selected word will be capitalized.
+
+
+NOTE
+Every word of a sentence is in uppercase.
+
+--- SLIDE 81 ---
+Capitalize Text
+Step 1 
+ Select the portion of text that needs to be capitalized. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select the Capitalize Each Word option to put a leading cap on each selected word.
+
+
+NOTE
+Every first character of every selected word is in capital.
+
+
+
+--- SLIDE 82 ---
+Toggle the Text
+Step 1 
+ Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Change Case button and then select the tOGGLE cASE option to change all the words in lowercase into words in uppercase; the words in uppercase words change to words in lowercase.
+
+
+NOTE
+Change the case of every character in reverse way.
+
+
+--- SLIDE 83 ---
+Apply Text Effects
+Step 1 
+Select the portion of text that you want to change to a bold font. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Text Effect button to display a list of effects including shadow, outline, glow, reflection etc. 
+
+
+
+--- SLIDE 84 ---
+Format text as superscript or subscript in Word
+
+A superscript or subscript is a number, figure, symbol, or indicator that is smaller than the normal line of type and is set slightly above it (superscript) or below it (subscript). 
+
+
+
+
+--- SLIDE 85 ---
+Format text as  subscript in Word
+Step 1 
+Select the text or number you want.
+
+
+--- SLIDE 86 ---
+Format text as  subscript in Word
+Step 2
+Go to Home and select Subscript button.
+
+
+--- SLIDE 87 ---
+Format text as  superscript in Word
+Step 1 
+Type the text as shown below in word.
+
+
+--- SLIDE 88 ---
+Format text as  superscript in Word
+Step 2 
+Click on the insert tab on the ribbon and choose symbols and look for the registered Trademark symbol as shown and click on it.
+
+
+--- SLIDE 89 ---
+Format text as  superscript in Word
+Step 3 
+The text will be appear as shown below
+
+--- SLIDE 90 ---
+Text Alignments in Word 2019
+There are four(4) types of paragraph alignment available in Microsoft Word: 
+Left-aligned
+
+Centre-aligned
+
+Right-aligned
+
+Justified
+By default, Word aligns text to the left margin in new documents.
+
+--- SLIDE 91 ---
+Left-Aligned Text
+Step 1 
+Select the document that you want to left-aligned. You can use any of the text selection method to select the document.
+Step 2 
+ Click the Align Text Left button available on the Home tab or simply press the Ctrl + L keys.
+
+
+--- SLIDE 92 ---
+Center Aligned Text
+Step 1 
+Select the document that you want to center-aligned. You can use any of the text selection method to select the document.
+Step 2 
+Click the Center button available on the Home tab or simply press the Ctrl + E keys.
+
+
+
+--- SLIDE 93 ---
+Right-Aligned Text
+Step 1 
+Select the document that you want to Right-aligned. You can use any of the text selection method to select the document.
+Step 2 
+Click the Align Text Right button available on the Home tab or simply press the Ctrl + R keys.
+
+
+--- SLIDE 94 ---
+Justified Text
+Step 1 
+Select the document that you want to Justified. You can use any of the text selection method to select the document.
+Step 2 
+Click the Justify button available on the Home tab or simply press the Ctrl + J keys.
+
+
+--- SLIDE 95 ---
+Indent Paragraphs in Word 2019
+
+Margin settings determine the blank space that appears on each side of a paragraph.
+
+
+You can indent paragraphs in your document from the left margin, the right margin, or both the margins.
+
+--- SLIDE 96 ---
+Left Indentation
+Left indentation means to move the left edge of the paragraph inward towards the centre of the paragraph.
+
+Step 1 
+Click anywhere on the paragraph you want to indent left.
+
+Click the Increase Indent button available on the Home tab or simply press the Ctrl + M keys.
+
+--- SLIDE 97 ---
+Left Indentation
+
+
+
+
+
+
+
+
+You can remove left indentation by clicking the Decrease Indent button available on Home tab or simply press Ctrl + Shift+ M keys.
+
+--- SLIDE 98 ---
+To indent using the Tab key
+A quick way to indent is to use the Tab key. This will create a first-line indent of 1/2 inch.
+Step 1 
+Place the insertion point at the very beginning of the paragraph you want to indent.
+
+
+
+--- SLIDE 99 ---
+To indent using the Tab key
+Step 2
+Press the Tab key. On the Ruler, you should see the first-line indent marker move to the right by 1/2 inch.
+The first line of the paragraph will be indented.
+
+
+--- SLIDE 100 ---
+Indent markers
+In some cases, you may want to have more control over indents. 
+Word provides indent markers that allow you to indent paragraphs to the location you want.
+
+
+
+--- SLIDE 101 ---
+Indent markers
+The indent markers are located to the left of the horizontal ruler, and they provide several indenting options:
+
+First-line indent marker: adjusts the first-line indent
+
+Hanging indent marker: adjusts the hanging indent
+
+Left indent marker: moves both the first-line indent and hanging indent markers at the same time (indenting all lines in a paragraph)
+
+--- SLIDE 102 ---
+To indent using the indent markers
+Step 1
+Place the insertion point anywhere in the paragraph you want to indent, or select one or more paragraphs.
+
+
+
+--- SLIDE 103 ---
+To indent using the indent markers
+Step 2 
+Click and drag the desired indent marker. In our example, we'll click and drag the left indent marker.
+Release the mouse. The paragraphs will be indented.
+
+
+
+
+
+--- SLIDE 104 ---
+Tabs
+Using tabs gives you more control over the placement of text. 
+
+By default, every time you press the Tab key, the insertion point will move 1/2 inch to the right. 
+
+Adding tab stops to the Ruler allows you to change the size of the tabs, and Word even allows you to apply more than one tab stop to a single line.
+
+
+
+
+
+
+
+
+--- SLIDE 105 ---
+Tabs
+For example, on a resume you could left-align the beginning of a line and right-align the end of the line by adding a Right Tab, as shown in the image below.
+
+
+
+
+
+
+
+--- SLIDE 106 ---
+Show or hide tab marks in Word
+The Show/Hide button in Word turns hidden characters like spaces, paragraph markers, or tab marks on and off.
+
+
+
+
+
+
+--- SLIDE 107 ---
+Show or hide tab marks in Word
+
+--- SLIDE 108 ---
+Create Bullets in Word 2019
+
+Microsoft word provides bullets and numbers to put a list of items in a nice order.
+
+Type these types of fruits in word:
+
+	Mango
+	Orange
+	Banana
+	Apple
+	
+
+--- SLIDE 109 ---
+Create a List from Existing Text
+Step 1  
+Select a list of text to which you want to assign bullets or numbers. You can use any of the text selection method to select the portion of text.
+Step 2 
+Click the Bullet Button triangle to display a list of bullets you want to assign to the list. You can select any of the bullet style available by simply clicking over it.
+
+--- SLIDE 110 ---
+Create a List from Existing Text
+
+--- SLIDE 111 ---
+Create a List from Existing Text
+
+
+
+
+
+
+
+
+
+Step 3 
+If you are willing to create a list with numbers, then click the Numbering Button triangle instead of the bullet button to display a list of numbers you want to assign to the list.
+
+--- SLIDE 112 ---
+Create a List as You Type
+Step 1  
+Type *, and then either press the SPACEBAR or press the TAB key, and then type the rest of what you want in the first item of the bulleted list..
+Step 2 
+When you are done with typing, press Enter to add the item in the list automatically and go to add next item in the list.
+Step 3
+ Repeat Step 2 for each list item.
+
+
+--- SLIDE 113 ---
+Create a List as You Type
+
+--- SLIDE 114 ---
+Customizing bullets
+Customizing the look of the bullets in your list can help you emphasize certain list items and personalize the design of your list. 
+
+Word allows you to format bullets in a variety of ways. You can use symbols and different colors, or even upload a picture as a bullet.
+
+
+--- SLIDE 115 ---
+To use a symbol as a bullet
+Step 1  
+Select an existing list you want to format.
+
+--- SLIDE 116 ---
+To use a symbol as a bullet
+Step 2 
+On the Home tab, click the drop-down arrow next to the Bullets command. Select Define New Bullet from the drop-down menu.
+
+--- SLIDE 117 ---
+To use a symbol as a bullet
+Step 3 
+The Define New Bullet dialog box will appear. Click the Symbol button.
+
+--- SLIDE 118 ---
+To use a symbol as a bullet
+Step 4 
+The Symbol dialog box will appear.
+Click the Font drop-down box and select a font. The Wingdings and Symbol fonts are good choices because they have many useful symbols.
+Select the desired symbol, then click OK..
+
+--- SLIDE 119 ---
+To use a symbol as a bullet
+Step 5
+The symbol will appear in the Preview section of the Define New Bullet dialog box. Click OK.
+
+--- SLIDE 120 ---
+To use a symbol as a bullet
+Step 6
+The symbol will appear in the list.
+
+--- SLIDE 121 ---
+To change the bullet color
+Step 1  
+Select an existing list you want to format.
+
+--- SLIDE 122 ---
+To change the bullet color
+Step 2 
+On the Home tab, click the drop-down arrow next to the Bullets command. Select Define New Bullet from the drop-down menu.
+
+--- SLIDE 123 ---
+To change the bullet color
+Step 3 
+The Define New Bullet dialog box will appear. Click the Font button.
+
+--- SLIDE 124 ---
+To change the bullet color
+Step  4
+The Font dialog box will appear. Click the Font Color drop-down box. A menu of font colors will appear.
+Select the desired color, then click OK.
+
+--- SLIDE 125 ---
+To change the bullet color
+Step  6
+The bullet color will appear in the Preview section of the Define New Bullet dialog box. Click OK.
+
+--- SLIDE 126 ---
+To change the bullet color
+Step 7 
+The bullet color will change in the list.
+
+
+--- SLIDE 127 ---
+Sorting in word 2019
+Sorting enables you to arrange the current selection in alphabetical or numerical order.
+Step 1	
+Select an existing list you want to sort.
+
+
+
+--- SLIDE 128 ---
+Sorting in word 2019
+Step 2	
+On the Home tab, click the sort command button and choose ascending order and click OK
+
+
+
+--- SLIDE 129 ---
+Sorting in word 2019
+Step 3	
+The list will be sorted as follows.
+
+
+
+--- SLIDE 130 ---
+Multilevel lists
+Multilevel lists allow you to create an outline with multiple levels. 
+Any bulleted or numbered list can be turned into a multilevel list by using the Tab key.
+
+
+--- SLIDE 131 ---
+How to create a multilevel list
+Place the insertion point at the beginning of the line you want to move.
+
+
+--- SLIDE 132 ---
+How to create a multilevel list
+Press the Tab key to increase the indent level of the line. The line will move to the right.
+
+
+--- SLIDE 133 ---
+How to increase or decrease an indent level  of multilevel list
+You can make adjustments to the organization of a multilevel list by increasing or decreasing the indent levels. There are several ways to change the indent level.
+
+To increase the indent by more than one level, place the insertion point at the beginning of the line, then press the Tab key until the desired level is reached.
+
+--- SLIDE 134 ---
+How to increase or decrease an indent level  of multilevel list
+Step 1  
+To increase the indent by more than one level, place the insertion point at the beginning of the line, then press the Tab key until the desired level is reached.
+
+--- SLIDE 135 ---
+How to increase or decrease an indent level  of multilevel list
+Step 1  
+To decrease the indent level, place the insertion point at the beginning of the line, then hold the Shift key and press the Tab key.
+
+--- SLIDE 136 ---
+How to increase or decrease an indent level  of multilevel list
+ 
+You can also increase or decrease the levels of text by placing the insertion point anywhere in the line and clicking the Increase Indent or Decrease Indent commands on the ribbon as shown below.
+
+
+--- SLIDE 137 ---
+Set Line Spacing in Word 2019
+Line spacing is the space between each line in a paragraph. 
+
+Word allows you to customize the line spacing to be single spaced (one line high), double spaced (two lines high), or any other amount you want. 
+
+The default spacing in Word is 1.08 lines, which is slightly larger than single spaced.
+
+
+--- SLIDE 138 ---
+Spacing between Lines
+Step 1  
+Select the paragraph or paragraphs for which you want to define spacing. You can use any of the text selection method to select the paragraph(s).
+Step 2
+Click the Line and Paragraph Spacing Button triangle to display a list of options to adjust space between the lines.
+You can select any of the option available by simply clicking over it.
+
+--- SLIDE 139 ---
+Spacing between Lines
+
+--- SLIDE 140 ---
+Adjusting line spacing
+Your line spacing options aren't limited to the ones in the Line and Paragraph Spacing menu.
+
+To adjust spacing with more precision, select Line Spacing Options from the menu to access the Paragraph dialog box.
+
+
+--- SLIDE 141 ---
+Adjusting line spacing
+EXACTLY: When you choose this option, the line spacing is measured in points, just like font size. For example, if you're using 12-point text, you could use 15-point spacing.
+
+AT LEAST: Like the Exactly option, this lets you choose how many points of spacing you want. However, if you have different sizes of text on the same line, the spacing will expand to fit the larger text.
+
+MULTIPLE: This option lets you type the number of lines of spacing you want. For example, choosing Multiple and changing the spacing to 1.2 will make the text slightly more spread out than single-spaced text. If you want the lines to be closer together, you can choose a smaller value, like 0.9.
+
+--- SLIDE 142 ---
+Spacing between Paragraphs
+Step 1  
+Select the paragraph or paragraphs for which you want to define spacing 
+Step 2
+On the Home tab, click the Line and Paragraph Spacing command. Click Add Space Before Paragraph or Remove Space After Paragraph from the drop-down menu. In our example, we'll select Add Space Before Paragraph.
+
+--- SLIDE 143 ---
+Spacing between Paragraphs
+The paragraph spacing will change in the document as shown below.
+
+
+--- SLIDE 144 ---
+Spacing between Paragraphs
+From the drop-down menu, you can also select Line Spacing Options to open the Paragraph dialog box. From here, you can control how much space there is before and after the paragraph.
+
+
+--- SLIDE 145 ---
+Borders and Shades in Word 2019
+  
+Microsoft Word allows you to place a border on any or all of the four sides of selected text, paragraphs, and pages.
+
+You can also add different shades to the space occupied by the selected text, paragraphs, and pages. 
+
+--- SLIDE 146 ---
+Add Borders to Text in a Paragraph
+Step 1  
+ Select the portion of text or paragraph to which you want to add border. You can use any of the text selection method to select the paragraph(s). 
+
+Step 2
+Click the Border Button to display a list of options to put a border around the selected text or paragraph.
+
+You can select any of the option available by simply clicking over it.
+
+--- SLIDE 147 ---
+Add Borders to Text in a Paragraph
+
+
+
+
+
+
+
+
+
+Step 3
+Try to add different borders like left, right top or bottom by selecting different options from the border options.
+
+--- SLIDE 148 ---
+Add Borders to Text
+
+
+
+
+
+
+
+
+
+Step 4
+To delete the existing border, simply select the No Border option from the border options.
+
+--- SLIDE 149 ---
+Add Borders to Page
+Step 1 
+Click the Border Button to display a list of options to put a border. 
+
+Select the Border and Shading option available at the bottom of the list of options as shown in the  screenshot.
+
+ This will display a Border and Shading dialog box.
+
+
+
+--- SLIDE 150 ---
+Add Borders to Page
+
+
+
+
+
+
+
+
+
+Step 2
+Click the Page Border tab which will display a list of border settings, styles and options whether this border should be applied to the whole document or just one page or the first page.. 
+
+
+
+
+--- SLIDE 151 ---
+Add Borders to Page
+Step 3
+You can use the Preview section to disable or enable left, right, top or bottom borders of the page. Follow the instruction given in the preview section itself.
+Step 4
+You can customize your border by setting its colour, width by using different art available under the style section.
+
+
+--- SLIDE 152 ---
+Add Borders to Page
+
+--- SLIDE 153 ---
+Add Shades to Text
+Step 1 
+Click the Border Button to display a list of options to put a border. 
+Select the Border and Shading option available at the bottom of the list of options as shown in the  screenshot.
+
+
+--- SLIDE 154 ---
+Add Shades to Text
+Step 2 
+Click the Shading tab; this tab will display the options to select fill, colour and style and whether this border should be applied to a paragraph or a portion of text.
+
+Step 3 
+You can use the Preview section to have an idea about the expected result. Once you are done, click the OK button to apply the result.
+
+
+--- SLIDE 155 ---
+Add Shades to Text
+
+--- SLIDE 156 ---
+Apply Quick Styles
+Step 1 
+Select a portion of text to which you want to apply some style. 
+Using style, you can change the selected portion of text as a heading or subheading or title of the document. 
+
+Step 2  
+Click the Home tab and then move your mouse pointer over the available styles in the Style Gallery. 
+You will see that the selected portion of text will change its style based on the selected style. 
+You can display more available styles by clicking the More Style button.
+
+--- SLIDE 157 ---
+Apply Quick Styles
+
+--- SLIDE 158 ---
+Apply Quick Styles
+Step 3 
+Finally, to apply a selected style, click over the style and you will find that it is has been applied on the selected portion of text.
+
+
+--- SLIDE 159 ---
+ Using Find and Replace
+When you're working with longer documents, it can be difficult and time consuming to locate a specific word or phrase. 
+
+
+Word can automatically search your document using the Find feature, and it allows you to quickly change words or phrases using Replace.
+
+--- SLIDE 160 ---
+ To find text
+From the Home tab, click the Find command. You can also press Ctrl + F on your keyboard.
+
+
+
+--- SLIDE 161 ---
+ To find text
+The navigation pane will appear on the left side of the screen.
+
+Type the text you want to find in the field at the top of the navigation pane. In our example, we'll type the word we're looking for.
+
+
+--- SLIDE 162 ---
+ To find text
+If the text is found in the document, it will be highlighted in yellow and a preview of the results will appear in the navigation pane. You can also click one of the results below the arrows to jump to it.
+When you're finished, click X to close the navigation pane. The highlight will disappear.
+
+
+
+--- SLIDE 163 ---
+To replace text
+From the Home tab, click the Replace command. You can also press Ctrl + H on your keyboard.
+
+
+
+--- SLIDE 164 ---
+To replace text
+The Find and Replace dialog box will appear.
+Type the text you want to find in the Find what: field.
+Type the text you want to replace it with in the Replace with: field, then click Find Next.
+
+--- SLIDE 165 ---
+To replace text
+Word will find the first instance of the text and highlight it in gray. 
+If you want to replace it, you can click Replace to change individual instances of text. You can also click Replace All to replace every instance of the text throughout the document.
+
+--- SLIDE 166 ---
+To replace text
+The word document will be replaced with paper as shown below.
+
+--- SLIDE 167 ---
+Understanding hyperlinks in Word
+Adding hyperlinks, also known as links, to text can provide access to websites and email addresses directly from your document. 
+
+There are a few ways to insert a hyperlink into your document. Depending on how you want the link to appear, you can use Word's automatic link formatting or convert text into a link.
+
+--- SLIDE 168 ---
+Understanding hyperlinks in Word
+Word often recognizes email and web addresses as you type and will automatically format them as hyperlinks after you press Enter or the spacebar on the computer keyboard.
+
+
+--- SLIDE 169 ---
+Understanding hyperlinks in Word
+To follow a hyperlink in Word, hold the Ctrl key and click the hyperlink.
+
+--- SLIDE 170 ---
+How to format text with a hyperlink
+Select the text you want to format as a hyperlink.
+
+
+
+
+
+
+
+Select the Insert tab, then click the Link command.
+
+
+--- SLIDE 171 ---
+How to format text with a hyperlink
+You can also open the Insert Hyperlink dialog box by right-clicking the selected text and selecting Link... from the menu that appears.
+
+
+The Insert Hyperlink dialog box will appear. Using the options on the left side, you can choose to link to a file, webpage, email address, document, or a place in the current document.
+
+
+--- SLIDE 172 ---
+How to format text with a hyperlink
+The text will then be formatted as a hyperlink.
+
+
+
+--- SLIDE 173 ---
+How to format text with a hyperlink
+The selected text will appear in the Text to display: field at the top. You can change this text if you want.
+In the Address: field, type the address you want to link to, then click OK.
+
+--- SLIDE 174 ---
+Editing and removing hyperlinks
+Once you've inserted a hyperlink, you can right-click the hyperlink to edit, open, copy, or remove it.
+
+--- SLIDE 175 ---
+Editing and removing hyperlinks
+To remove a hyperlink, right-click the hyperlink and select Remove Hyperlink from the pop-up menu that appears.
+
+
+--- SLIDE 176 ---
+
+--- SLIDE 177 ---
+THANK YOU

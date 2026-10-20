@@ -1,0 +1,61 @@
+
+--- SHEET: Sheet1 ---
+Homeroom # | First Name | Last Name | T-Shirt Size | Payment Method |  | Total Orders (by Grade) | 
+105 | Christiana | Chen | Medium | Check Bounced |  | Class | Orders
+105 | Derek | MacDonald | Large | Cash |  | Freshmen | 5
+105 | Esther | Yaron | Small | Pending |  | Sophomore | 7
+105 | Melissa | White | Small | Debit Card |  | Junior | 10
+105 | Nathan | Albee | Medium | Check |  | Senior | 5
+105 | Sidney | Kelly | Medium | Check |  |  | 
+110 | Gabriel | Del Toro | Medium | Cash |  |  | 
+110 | Kris | Ackerman | Large | Money Order |  |  | 
+110 | Matt | Benson | Medium | Money Order |  |  | 
+110 | Regina | Olivera | Large | Pending |  |  | 
+135 | Alex | Yuen | Large | Wrong Amount |  |  | 
+135 | Anisa | Naser | Small | Check Bounced |  |  | 
+135 | Chantal | Weller | Medium | Debit Card |  |  | 
+135 | James | Panarello | Medium | Check |  |  | 
+135 | Jordan | Weller | Large | Money Order |  |  | 
+135 | Lia | Richards | X-Large | Cash |  |  | 
+220-A | Brigid | Ellison | Small | Cash |  |  | 
+220-A | Chevonne | Means | Medium | Money Order |  |  | 
+220-A | Christopher | Peyton-Gomez | Small | Check |  |  | 
+220-A | Juan | Flores | X-Large | Pending |  |  | 
+220-B | Avery | Kelly | Medium | Debit Card |  |  | 
+220-B | Karla | Nichols | X-Large | Money Order |  |  | 
+220-B | Malik | Reynolds | Small | Cash |  |  | 
+220-B | Michael | Lazar | Small | Cash |  |  | 
+220-B | Samantha | Bell | Medium | Check |  |  | 
+220-B | Tyrese | Hanlon | X-Large | Debit Card |  |  | 
+220-B | Wendy | Shaw | Small | Cash |  |  | 
+
+--- SHEET: Challenge ---
+Camper Name | Gender | Grade | Cabin Color | Counselor |  |  |  |  | 
+Kacey Cranston | Female | 6 | Pink | Stone |  |  |  |  | 
+John Gibbs | Male | 8 | Orange | Smith |  |  |  |  | 
+Susana Jimenez | Female | 8 | Yellow | Chang |  |  |  |  | 
+Flora Jones | Female | 7 | Green | Gorecki |  |  |  |  | 
+Tia Carter | Female | 6 | Pink | Stone |  |  |  |  | 
+Miles Goldstein | Male | 8 | Orange | Smith |  |  |  |  | 
+Taquan Holder | Male | 7 | Black | Patel |  |  |  |  | 
+Mariela Flores | Female | 9 | Red | Leslie |  |  |  |  | 
+Priya Dwivedi | Female | 9 | Red | Leslie |  | Additional Information |  |  | 
+Claire Smith | Female | 6 | Pink | Stone |  | Camper Name | Counselor | Allergy | Emergency Contact
+William Krywinski | Male | 6 | Blue | Hernandez |  | Taquan Holder | Patel | Peanuts | 555-281-4192
+Mark Mealer | Male | 7 | Black | Patel |  | Bennett Hobbs | Hernandez | Bees, Cashews | 555-982-6987
+Shivangi Patel | Female | 8 | Yellow | Chang |  | Kacey Cranston | Stone | Milk, Soy, Eggs | 555-293-3245
+Jessica Locklear | Female | 9 | Red | Leslie |  | Mariela Flores | Leslie | Bees, Tomatoes | 555-492-6721
+Niall St. Clair | Male | 9 | Purple | Assaf |  | Nimah Al Massri | Leslie | Nuts, Eggs | 555-786-1932
+Brenna Alexander | Female | 8 | Yellow | Chang |  | Ricardo Gonzalez | Hernandez | Dairy | 555-298-2984
+Kia Willard | Female | 6 | Pink | Stone |  |  |  |  | 
+Jordan Hargett | Male | 9 | Purple | Assaf |  |  |  |  | 
+Adir Hassan | Male | 9 | Purple | Assaf |  |  |  |  | 
+Haruto Takamani | Male | 8 | Orange | Smith |  |  |  |  | 
+Mary Clarence | Female | 8 | Yellow | Chang |  |  |  |  | 
+Jenna Hobbs | Female | 8 | Yellow | Chang |  |  |  |  | 
+Priyanka Chopra | Female | 7 | Green | Gorecki |  |  |  |  | 
+Nimah Al Massri | Female | 9 | Red | Leslie |  |  |  |  | 
+Bennett Hobbs | Male | 6 | Blue | Hernandez |  |  |  |  | 
+Ken Crowder | Male | 7 | Black | Patel |  |  |  |  | 
+Kelly Suvari | Female | 7 | Green | Gorecki |  |  |  |  | 
+Ricardo Gonzalez | Male | 6 | Blue | Hernandez |  |  |  |  | 

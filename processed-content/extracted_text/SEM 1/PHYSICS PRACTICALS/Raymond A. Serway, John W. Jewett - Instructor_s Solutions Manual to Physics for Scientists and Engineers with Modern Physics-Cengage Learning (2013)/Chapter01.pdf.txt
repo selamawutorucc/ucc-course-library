@@ -1,0 +1,3437 @@
+
+--- PAGE 1 ---
+1 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+1 
+Physics and Measurement 
+ 
+CHAPTER OUTLINE 
+ 
+1.1 
+Standards of Length, Mass, and Time 
+1.2 
+Matter and Model Building 
+1.3 
+Dimensional Analysis 
+1.4 
+Conversion of Units 
+1.5 
+Estimates and Order-of-Magnitude Calculations 
+1.6 
+Significant Figures 
+ 
+ * An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ1.1 
+The meterstick measurement, (a), and (b) can all be 4.31 cm. The 
+meterstick measurement and (c) can both be 4.24 cm. Only (d) does not 
+overlap. Thus (a), (b), and (c) all agree with the meterstick 
+measurement. 
+OQ1.2 
+Answer (d). Using the relation 
+ 
+ 
+1 ft = 12 in 2.54 cm
+1 in
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 m
+100 cm
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.304 8 m
+ 
+ 
+we find that 
+ 
+ 
+1 420 ft2 0.304 8 m
+1 ft
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 132 m2 
+OQ1.3 
+The answer is yes for (a), (c), and (e). You cannot add or subtract a 
+number of apples and a number of jokes. The answer is no for (b) and 
+(d). Consider the gauge of a sausage, 4 kg/2 m, or the volume of a 
+cube, (2 m)
+3. Thus we have (a) yes; (b) no; (c) yes; (d) no; and (e) yes.
+
+--- PAGE 2 ---
+2     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ1.4 
+41 € ≈ 41 € (1 L/1.3 €)(1 qt/1 L)(1 gal/4 qt) ≈ (10/1.3) gal ≈ 8 gallons, 
+answer (c). 
+OQ1.6 
+The number of decimal places in a sum of numbers should be the same 
+as the smallest number of decimal places in the numbers summed. 
+ 
+21.4
+s
+15
+s
+17.17 s
+ 4.003 s
+57.573 s = 58 s, answer (d).
+ 
+OQ1.7 
+The population is about 6 billion = 6 × 10
+9. Assuming about 100 lb per 
+person = about 50 kg per person (1 kg has the weight of about 2.2 lb), 
+the total mass is about (6 × 10
+9)(50 kg) = 3 × 10
+11 kg, answer (d). 
+OQ1.8 
+No: A dimensionally correct equation need not be true. Example: 1 
+chimpanzee = 2 chimpanzee is dimensionally correct. 
+ 
+Yes: If an equation is not dimensionally correct, it cannot be correct. 
+OQ1.9 
+Mass is measured in kg; acceleration is measured in m/s
+2. Force = 
+mass × acceleration, so the units of force are answer (a) kg⋅m/s
+2. 
+OQ1.10 
+0.02(1.365) = 0.03. The result is (1.37 ± 0.03) × 10
+7 kg. So (d) 3 digits are 
+significant. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ1.1 
+Density varies with temperature and pressure. It would be necessary 
+to measure both mass and volume very accurately in order to use the 
+density of water as a standard. 
+CQ1.2 
+The metric system is considered superior because units larger and 
+smaller than the basic units are simply related by multiples of 10. 
+Examples:  1 km = 10
+3 m, 1 mg = 10
+–3 g = 10
+–6 kg, 1 ns = 10
+–9 s. 
+CQ1.3 
+A unit of time should be based on a reproducible standard so it can be 
+used everywhere. The more accuracy required of the standard, the less 
+the standard should change with time. The current, very accurate 
+standard is the period of vibration of light emitted by a cesium atom. 
+Depending on the accuracy required, other standards could be: the 
+period of light emitted by a different atom, the period of the swing of a 
+pendulum at a certain place on Earth, the period of vibration of a 
+sound wave produced by a string of a specific length, density, and 
+tension, and the time interval from full Moon to full Moon. 
+CQ1.4 
+(a) 0.3 millimeters; (b) 50 microseconds; (c) 7.2 kilograms
+
+--- PAGE 3 ---
+Chapter 1     3 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 1.1 
+Standards of Length, Mass, and Time	  
+P1.1 
+(a) 
+Modeling the Earth as a sphere, we find its volume as 
+ 
+ 
+ 
+4
+3πr3 = 4
+3π 6.37 × 106 m
+(
+)
+3 = 1.08 × 1021 m3 
+ 
+ 
+Its density is then 
+ 
+ 
+ 
+ρ = m
+V = 5.98 × 1024 kg
+1.08 × 1021 m3 = 5.52 × 103 kg/m3 
+(b) This value is intermediate between the tabulated densities of 
+aluminum and iron. Typical rocks have densities around 2000 to 
+3000 kg/m
+3. The average density of the Earth is significantly 
+higher, so higher-density material must be down below the 
+surface. 
+P1.2 
+With V = (base area)(height), V = πr2
+(
+)h and ρ = m
+V , we have 
+ 
+ 
+ 
+ρ =
+m
+πr2h =
+1 kg
+π 19.5 mm
+(
+)
+2 39.0 mm
+(
+)
+109 mm3
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+ρ = 2.15 × 104 kg/m3
+ 
+P1.3 
+Let V represent the volume of the model, the same in ρ = m
+V , for both. 
+Then ρiron = 9.35 kg/V and ρgold =
+mgold
+V
+. 
+ 
+Next,  
+ρgold
+ρiron
+=
+mgold
+9.35 kg
+  
+ 
+and  
+mgold = 9.35 kg
+(
+) 19.3 × 103 kg/m3
+7.87 × 103 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 22.9 kg 
+P1.4 
+(a) 
+ρ = m/Vand V = 4/3
+(
+)πr3 = 4/3
+(
+)π d/2
+(
+)
+3 = πd3/6, where d is the 
+diameter. 
+ 
+ 
+Then ρ = 6m/πd3 = 6 1.67 × 10−27kg
+(
+)
+π 2.4 × 10−15m
+(
+)
+3 = 2.3 × 1017kg/m3 
+ 
+(b) 
+2.3 × 1017 kg/m3
+22.6 × 103 kg/m3 = 1.0 × 1013 times the density of osmium
+
+--- PAGE 4 ---
+4     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.5 
+For either sphere the volume is V = 4
+3 πr3 and the mass is 
+m = ρV = ρ 4
+3πr3. We divide this equation for the larger sphere by the 
+same equation for the smaller: 
+ 
+ 
+m
+ms
+= ρ 4/3
+(
+)πr
+3
+ρ 4/3
+(
+)πrs
+3 = r
+3
+rs
+3 = 5
+ 
+ 
+Then 
+r= rs 5
+3
+= 4.50 cm
+(
+) 5
+3
+= 7.69 cm 
+*P1.6 
+The volume of a spherical shell can be calculated from  
+ 
+ 
+ 
+V = Vo −Vi = 4
+3 π r2
+3 −r1
+3
+(
+) 
+ 
+From the definition of density, ρ = m
+V , so  
+ 
+ 
+m = ρV = ρ 4
+3 π
+(
+) r2
+3 −r1
+3
+(
+) =
+4π ρ r2
+3 −r1
+3
+(
+)
+3
+ 
+ 
+ 
+ 
+Section 1.2 
+Matter and Model Building	  
+P1.7 
+From the figure, we may see that the spacing between diagonal planes 
+is half the distance between diagonally adjacent atoms on a flat plane. 
+This diagonal distance may be obtained from the Pythagorean 
+theorem, Ldiag =
+L2 + L2 . Thus, since the atoms are separated by a 
+distance L = 0.200 nm, the diagonal planes are separated by 
+1
+2
+L2 + L2 = 0.141 nm . 
+P1.8 
+(a) 
+Treat this as a conversion of units using  
+1 Cu-atom = 1.06 × 10
+–25 kg, and 1 cm = 10
+–2 m: 
+ 
+ 
+ 
+density = 8 920 kg
+m3
+⎛
+⎝⎜
+⎞
+⎠⎟
+10−2 m
+1 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+Cu-atom
+1.06 × 10−25 kg
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 8.42 × 1022 Cu-atom
+cm3
+
+--- PAGE 5 ---
+Chapter 1     5 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Thinking in terms of units, invert answer (a): 
+ 
+ 
+ 
+density
+(
+)
+−1 =
+1 cm3
+8.42 × 1022 Cu-atoms
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 1.19 × 10−23 cm3/Cu-atom
+ 
+ 
+(c) 
+For a cube of side L, 
+ 
+ 
+ 
+L3 = 1.19 × 10−23 cm3 →L = 2.28 × 10−8cm 
+ 
+ 
+ 
+Section 1.3 
+Dimensional Analysis	  
+P1.9 
+(a) 
+Write out dimensions for each quantity in the equation 
+ 
+ 
+ 
+ 
+vf = vi + ax 
+ 
+ 
+The variables vf and vi are expressed in units of m/s, so 
+ 
+ 
+ 
+ 
+[vf] = [vi] = LT –1 
+ 
+ 
+The variable a is expressed in units of m/s
+2; [a] = LT –2  
+ 
+ 
+The variable x is expressed in meters. Therefore, [ax] = L
+2 T
+ –2 
+ 
+ 
+Consider the right-hand member (RHM) of equation (a): 
+ 
+ 
+ 
+[RHM] = LT –1+L
+2 T –2 
+ 
+ 
+Quantities to be added must have the same dimensions. 
+Therefore, equation (a) is not dimensionally correct.   
+ 
+(b) Write out dimensions for each quantity in the equation 
+ 
+ 
+ 
+ 
+y = (2 m) cos (kx) 
+ 
+ 
+For y, 
+[y] = L 
+ 
+ 
+for 2 m,  
+[2 m] = L  
+ 
+ 
+and for (kx), 
+[kx] =
+2 m–1
+(
+)x
+⎡⎣
+⎤⎦= L–1L 
+  
+ 
+Therefore we can think of the quantity kx as an angle in radians, 
+and we can take its cosine. The cosine itself will be a pure number 
+with no dimensions. For the left-hand member (LHM) and the 
+right-hand member (RHM) of the equation we have 
+ 
+ 
+ 
+[LHM] = [y] = L 
+[RHM] = [2m][cos (kx)] = L 
+ 
+ 
+ 
+These are the same, so equation (b) is dimensionally correct.
+
+--- PAGE 6 ---
+6     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.10 
+Circumference has dimensions L, area has dimensions L
+2, and volume 
+has dimensions L
+3. Expression (a) has dimensions L(L
+2)
+1/2 = L
+2, 
+expression (b) has dimensions L, and expression (c) has dimensions 
+L(L
+2) = L
+3. The matches are: (a) and (f), (b) and (d), and (c) and (e). 
+P1.11 
+(a) 
+Consider dimensions in terms of their mks units. For kinetic 
+energy K: 
+ 
+ 
+ 
+K
+[ ]=
+p2
+2m
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= p[ ]
+2
+kg = kg ⋅m2
+s2
+ 
+ 
+ 
+Solving for [p2] and [p] then gives 
+ 
+ 
+ 
+p[ ]
+2 = kg2 ⋅m2
+s2
+     →     p[ ] = kg ⋅m
+s
+ 
+ 
+ 
+The units of momentum are kg⋅m/s. 
+ 
+(b) Momentum is to be expressed as the product of force (in N) and 
+some other quantity X. Considering dimensions in terms of their 
+mks units, 
+ 
+ 
+ 
+N
+[
+]⋅X
+[ ]= p[ ]
+kg⋅m
+s2
+⋅X
+[ ]= kg⋅m
+s
+X
+[ ]= s
+ 
+ 
+ 
+Therefore, the units of momentum are N⋅s . 
+P1.12 
+We substitute kg
+[
+] = [M], m
+[
+]= [L], and F
+[ ]= kg⋅m
+s2
+⎡
+⎣⎢
+⎤
+⎦⎥= M
+[
+] L
+[ ]
+T
+[ ]
+2
+ into 
+Newton’s law of universal gravitation to obtain 
+ 
+ 
+ 
+M
+[
+] L
+[ ]
+T
+[ ]
+2
+= G
+[ ] M
+[
+]
+2
+L
+[ ]
+2
+  
+ 
+Solving for [G] then gives 
+ 
+ 
+ 
+G
+[ ]=
+L
+[ ]
+3
+M
+[
+] T
+[ ]
+2 =
+m3
+kg⋅s2
+ 
+*P1.13 
+The term x has dimensions of L, a has dimensions of LT−2, and t has 
+dimensions of T. Therefore, the equation x = kamtn has dimensions of  
+ 
+ 
+ 
+L = LT−2
+(
+)
+m T
+( )n   or   L1T0 = LmTn−2m 
+ 
+The powers of L and T must be the same on each side of the equation.
+
+--- PAGE 7 ---
+Chapter 1     7 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Therefore,  
+ 
+ 
+ 
+L1 = Lm and m = 1 
+ 
+Likewise, equating terms in T, we see that n – 2m must equal 0. Thus, 
+n = 2 . The value of k, a dimensionless constant, 
+cannot be obtained by dimensional analysis . 
+P1.14 
+Summed terms must have the same dimensions. 
+ 
+(a) 
+[X] = [At
+3] + [Bt] 
+ 
+ 
+L = A
+[ ]T3 + B
+[ ]T →
+A
+[ ]= L/T3, and B
+[ ]= L/T .
+ 
+ 
+(b) 
+dx/dt
+[
+] = 3At2
+⎡⎣
+⎤⎦+ B
+[ ]= L/T . 
+ 
+ 
+ 
+Section 1.4 
+Conversion of Units	  
+P1.15 
+From Table 14.1, the density of lead is 1.13 × 10
+4 kg/m
+3, so we should 
+expect our calculated value to be close to this value. The density of 
+water is 1.00 × 10
+3 kg/m
+3, so we see that lead is about 11 times denser 
+than water, which agrees with our experience that lead sinks. 
+ 
+Density is defined as ρ = m/V. We must convert to SI units in the 
+calculation. 
+ 
+ 
+ρ =
+23.94 g
+2.10 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 kg
+1 000 g
+⎛
+⎝⎜
+⎞
+⎠⎟100 cm
+1 m
+(
+)
+3
+  = 
+23.94 g
+2.10 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 kg
+1 000 g
+⎛
+⎝⎜
+⎞
+⎠⎟1 000 000 cm3
+1 m3
+(
+)
+   = 1.14  × 104 kg/m3
+  
+ 
+Observe how we set up the unit conversion fractions to divide out the 
+units of grams and cubic centimeters, and to make the answer come 
+out in kilograms per cubic meter. At one step in the calculation, we 
+note that one million cubic centimeters make one cubic meter. Our 
+result is indeed close to the expected value. Since the last reported 
+significant digit is not certain, the difference from the tabulated values 
+is possibly due to measurement uncertainty and does not indicate a 
+discrepancy.
+
+--- PAGE 8 ---
+8     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.16 
+The weight flow rate is  
+ 
+ 
+1 200 ton
+h
+⎛
+⎝⎜
+⎞
+⎠⎟
+2000 lb
+ton
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 h
+60 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 min
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 667 lb/s
+ 
+P1.17 
+For a rectangle, Area = Length × Width. We use the conversion  
+1 m = 3.281 ft. The area of the lot is then 
+ 
+ 
+ 
+A = LW = 75.0 ft
+(
+)
+1 m
+3.281 ft
+⎛
+⎝⎜
+⎞
+⎠⎟125 ft
+(
+)
+1 m
+3.281 ft
+⎛
+⎝⎜
+⎞
+⎠⎟= 871 m2 
+P1.18 
+Apply the following conversion factors: 1 in = 2.54 cm, 1 d = 86 400 s, 
+100 cm = 1m, and 109 nm = 1 m.  Then, the rate of hair growth per 
+second is  
+ 
+ 
+rate =
+1
+32 in/day
+⎛
+⎝⎜
+⎞
+⎠⎟
+2.54 cm/in
+(
+) 10−2 m/cm
+(
+) 109 nm/m
+(
+)
+86 400 s/day
+= 9.19 nm/s
+ 
+ 
+This means the proteins are assembled at a rate of many layers of 
+atoms each second! 
+P1.19 
+The area of the four walls is (3.6 + 3.8 + 3.6 + 3.8) m × (2.5 m) = 37 m
+2. 
+Each sheet in the book has area (0.21 m)(0.28 m) = 0.059 m
+2. The 
+number of sheets required for wallpaper is 37 m
+2/0.059 m
+2 = 629 sheets 
+= 629 sheets(2 pages/1 sheet) = 1260 pages. 
+ 
+The number of pages in Volume 1 are insufficient. 
+P1.20 
+We use the formula for the volume of a pyramid 
+given in the problem and the conversion 43 560 ft2 
+= 1 acre. Then, 
+ 
+ 
+ 
+V = Bh
+= 1
+3
+13.0 acres
+(
+) 43 560 ft2/acre
+(
+)
+⎡⎣
+⎤⎦
+                                               × 481 ft
+(
+)
+= 9.08 × 107 ft3
+ 
+ 
+or 
+ 
+ 
+ 
+V = 9.08 × 107  ft3
+(
+) 2.83 × 10−2 m3
+1 ft3
+⎛
+⎝⎜
+⎞
+⎠⎟
+   = 2.57 × 106 m3
+ 
+ 
+ANS FIG. P1.20
+
+--- PAGE 9 ---
+Chapter 1     9 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.21 
+To find the weight of the pyramid, we use the conversion  
+1 ton = 2 000 lbs: 
+ 
+ 
+ 
+Fg = 2.50 tons/block
+(
+) 2.00 × 106 blocks
+(
+) 2 000 lb/ton
+(
+)
+= 1.00 × 1010 lbs
+ 
+P1.22 
+(a) 
+rate =
+30.0 gal
+7.00 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mi
+60 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 7.14 × 10−2 gal
+s
+ 
+ 
+(b) 
+rate = 7.14 × 10−2 gal
+s
+231 in3
+1 gal
+⎛
+⎝⎜
+⎞
+⎠⎟
+2.54 cm
+1 in
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+1 m
+100 cm
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 2.70 × 10−4 m3
+s
+ 
+ 
+(c) 
+To find the time to fill a 1.00-m3 tank, find the rate time/volume: 
+ 
+ 
+ 
+ 
+2.70 × 10−4 m3
+s =
+2.70 × 10−4 m3
+1 s
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+or 
+ 
+ 2.70 × 10−4 m3
+1 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+−1
+=
+1 s
+2.70 × 10−4 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.70 × 103 s
+m3 
+ 
+ 
+and so:  
+3.70 × 103 s
+1 h
+3 600 s
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.03 h 
+*P1.23 
+It is often useful to remember that the 1 600-m race at track and field 
+events is approximately 1 mile in length. To be precise, there are 1 609 
+meters in a mile. Thus, 1 acre is equal in area to 
+ 
+ 
+ 
+1 acre
+(
+)
+1 mi2
+640 acres
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 609 m
+mi
+⎛
+⎝
+⎞
+⎠
+2
+=
+4.05 × 103 m2 
+*P1.24 
+The volume of the interior of the house is the product of its length, 
+width, and height. We use the conversion 1 ft = 0.304 8 m and  
+100 cm = 1 m. 
+ 
+ 
+ 
+V = LWH
+= 50.0 ft
+(
+) 0.304 8 m
+1 ft
+⎛
+⎝⎜
+⎞
+⎠⎟× 26 ft
+(
+) 0.304 8 m
+1 ft
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                           × 8.0 ft
+(
+) 0.304 8 m
+1 ft
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 294.5 m3 = 290 m3
+= 294.5 m3
+(
+) 100 cm
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 2.9 × 108 cm3
+
+--- PAGE 10 ---
+10     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Both the 26-ft width and 8.0-ft height of the house have two significant 
+figures, which is why our answer was rounded to 290 m3. 
+P1.25 
+The aluminum sphere must be larger in volume to compensate for its 
+lower density. We require equal masses: 
+ 
+ 
+ 
+ 
+mA1 = mFe
+or
+ρA1VA1 = ρFeVFe 
+ 
+then use the volume of a sphere. By substitution, 
+ 
+ 
+ 
+ρA1
+4
+3 πrA1
+3
+⎛
+⎝⎜
+⎞
+⎠⎟= ρFe
+4
+3 π(2.00 cm)3
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Now solving for the unknown, 
+ 
+ 
+ 
+rA1
+3 =
+ρFe
+ρA1
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 cm
+(
+)
+3 =
+7.86 × 103 kg/m3
+2.70 × 103 kg/m3
+⎛
+⎝⎜
+⎞
+⎠⎟2.00 cm
+(
+)
+3
+= 23.3 cm3
+ 
+ 
+Taking the cube root, rAl = 2.86 cm .  
+ 
+The aluminum sphere is 43% larger than the iron one in radius, 
+diameter, and circumference. Volume is proportional to the cube of the 
+linear dimension, so this excess in linear size gives it the 
+(1.43)(1.43)(1.43) = 2.92 times larger volume it needs for equal mass. 
+P1.26 
+The mass of each sphere is mAl = ρAlVAl = 4πρAlrAl
+3
+3
+ 
+ 
+and mFe = ρFeVFe = 4πρFerFe
+3
+3
+. Setting these masses equal, 
+ 
+ 
+4
+3πρAlrAl
+3 = 4
+3πρFerFe
+3 →rAl = rFe
+ρFe
+ρAl
+3
+rAl = rFe
+7.86
+2.70
+3
+= rFe(1.43)
+ 
+ 
+The resulting expression shows that the radius of the aluminum sphere 
+is directly proportional to the radius of the balancing iron sphere. The 
+aluminum sphere is 43% larger than the iron one in radius, diameter, 
+and circumference. Volume is proportional to the cube of the linear 
+dimension, so this excess in linear size gives it the (1.43)3 = 2.92 times 
+larger volume it needs for equal mass.
+
+--- PAGE 11 ---
+Chapter 1     11 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.27 
+We assume the paint keeps the same volume in the can and on the 
+wall, and model the film on the wall as a rectangular solid, with its 
+volume given by its “footprint” area, which is the area of the wall, 
+multiplied by its thickness t perpendicular to this area and assumed to 
+be uniform. Then, 
+ 
+  
+ 
+V = At
+gives
+t = V
+A = 3.78 × 10–3 m3
+25.0 m2
+= 1.51 × 10–4 m  
+ 
+ 
+The thickness of 1.5 tenths of a millimeter is comparable to the 
+thickness of a sheet of paper, so this answer is reasonable. The film is 
+many molecules thick. 
+P1.28 
+(a) 
+To obtain the volume, we multiply the length, width, and height 
+of the room, and use the conversion 1 m = 3.281 ft. 
+ 
+ 
+ 
+V = (40.0 m) 20.0 m
+(
+) 12.0 m
+(
+)
+= 9.60 × 103 m3
+(
+) 3.281 ft
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 3.39 × 105 ft3
+ 
+ 
+(b) The mass of the air is 
+ 
+ 
+ 
+m = ρairV = 1.20 kg/m3
+(
+) 9.60 × 103 m3
+(
+) = 1.15 × 104 kg 
+ 
+ 
+The student must look up the definition of weight in the index to 
+find 
+ 
+ 
+ 
+Fg = mg = 1.15 × 104 kg
+(
+) 9.80 m/s2
+(
+) = 1.13 × 105 N 
+ 
+ 
+where the unit of N of force (weight) is newtons. 
+ 
+ 
+Converting newtons to pounds, 
+ 
+ 
+ 
+Fg = (1.13 × 105 N)
+1 lb
+4.448 N
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.54 × 104 lb
+ 
+P1.29 
+(a) 
+The time interval required to repay the debt will be calculated by 
+dividing the total debt by the rate at which it is repaid. 
+ 
+ 
+ 
+ 
+T = $16 trillion
+$1000 /s =
+$16 × 1012
+($1000 /s) 3.156 × 107 s/yr
+(
+)
+= 507 yr  
+ 
+ 
+(b) The number of bills is the distance to the Moon divided by the 
+length of a dollar. 
+ 
+ 
+  
+N = D
+= 3.84 × 108 m
+0.155 m
+= 2.48 × 109 bills
+ 
+ 
+ 
+Sixteen trillion dollars is larger than this two-and-a-half billion 
+dollars by more than six thousand times. The ribbon of bills
+
+--- PAGE 12 ---
+12     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+comprising the debt reaches across the cosmic gulf thousands of 
+times. Similar calculations show that the bills could span the 
+distance between the Earth and the Sun sixteen times. The strip 
+could encircle the Earth’s equator nearly 62 000 times. With 
+successive turns wound edge to edge without overlapping, the 
+dollars would cover a zone centered on the equator and about  
+4.2 km wide. 
+P1.30 
+(a) 
+To find the scale size of the nucleus, we multiply by the scaling 
+factor 
+ 
+ 
+ 
+dnucleus, scale = dnucleus, real
+datom, scale
+datom, real
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.40 × 10−15 m
+(
+)
+300 ft
+1.06 × 10−10 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.79 × 10−3 ft
+  
+ 
+ 
+or 
+ 
+ 
+ 
+dnucleus, scale = 6.79 × 10−3 ft
+(
+) 304.8 mm
+1 ft
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.07 mm
+ 
+ 
+(b) The ratio of volumes is simply the ratio of the cubes of the radii: 
+ 
+ 
+ 
+Vatom
+Vnucleus
+= 4πratom
+3
+/3
+4πrnucleus
+3
+/3 =
+ratom
+rnucleus
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+=
+datom
+dnucleus
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+=
+1.06 × 10−10 m
+2.40 × 10−15 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 8.62 × 1013 times as large
+ 
+ 
+ 
+ 
+Section 1.5 
+Estimates and Order-of-Magnitude Calculations	  
+P1.31 
+Since we are only asked to find an estimate, we do not need to be too 
+concerned about how the balls are arranged. Therefore, to find the 
+number of balls we can simply divide the volume of an average-size 
+living room (perhaps 15 ft × 20 ft × 8 ft) by the volume of an 
+individual Ping-Pong ball. Using the approximate conversion 1 ft =  
+30 cm, we find 
+ 
+ 
+ 
+VRoom = (15 ft)(20 ft)(8 ft)(30 cm/ft)
+3 ≈ 6 × 10
+7 cm
+3 
+ 
+A Ping-Pong ball has a diameter of about 3 cm, so we can estimate its 
+volume as a cube:  
+ 
+ 
+ 
+Vball = (3 cm)(3 cm)(3 cm) ≈ 30 cm
+3
+
+--- PAGE 13 ---
+Chapter 1     13 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The number of Ping-Pong balls that can fill the room is 
+ 
+ 
+ 
+N ≈ VRoom 
+Vball
+≈2 × 106 balls ∼106 balls
+ 
+ 
+So a typical room can hold on the order of a million Ping-Pong balls. 
+As an aside, the actual number is smaller than this because there will 
+be a lot of space in the room that cannot be covered by balls. In fact, 
+even in the best arrangement, the so-called “best packing fraction” is 
+1
+6π
+2 = 0.74, so that at least 26% of the space will be empty. 
+P1.32 
+(a) 
+We estimate the mass of the water in the bathtub. Assume the tub 
+measures 1.3 m by 0.5 m by 0.3 m. One-half of its volume is then 
+ 
+ 
+ 
+V = (0.5)(1.3)(0.5)(0.3) = 0.10 m
+3 
+ 
+ 
+The mass of this volume of water is 
+ 
+ 
+ 
+mwater = ρwaterV = 1 000 kg/m3
+(
+) 0.10 m3
+(
+) = 100 kg 102 kg
+ 
+ 
+(b) Pennies are now mostly zinc, but consider copper pennies filling 
+50% of the volume of the tub. The mass of copper required is 
+ 
+ 
+ 
+mcopper = ρcopperV = 8 920 kg/m3
+(
+) 0.10 m3
+(
+) = 892 kg ~ 103 kg
+ 
+P1.33 
+Don’t reach for the telephone book or do a Google search! Think. Each 
+full-time piano tuner must keep busy enough to earn a living. Assume 
+a total population of 10
+7 people. Also, let us estimate that one person in 
+one hundred owns a piano. Assume that in one year a single piano 
+tuner can service about 1 000 pianos (about 4 per day for 250 
+weekdays), and that each piano is tuned once per year. 
+ 
+Therefore, the number of tuners 
+ 
+ 
+ 
+=
+1 tuner 
+1 000 pianos
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 piano 
+100 people
+⎛
+⎝⎜
+⎞
+⎠⎟107  people
+(
+) ∼100 tuners
+ 
+ 
+If you did reach for an Internet directory, you would have to count. 
+Instead, have faith in your estimate. Fermi’s own ability in making an 
+order-of-magnitude estimate is exemplified by his measurement of the 
+energy output of the first nuclear bomb (the Trinity test at 
+Alamogordo, New Mexico) by observing the fall of bits of paper as the 
+blast wave swept past his station, 14 km away from ground zero. 
+P1.34 
+A reasonable guess for the diameter of a tire might be 2.5 ft, with a 
+circumference of about 8 ft. Thus, the tire would make 
+ 
+ 
+50 000 mi
+(
+) 5 280 ft/mi
+(
+) 1 rev/8 ft
+(
+) = 3 × 107 rev ~ 107 rev
+
+--- PAGE 14 ---
+14     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 1.6 
+Significant Figures	  
+P1.35 
+We will use two different methods to determine the area of the plate 
+and the uncertainty in our answer. 
+ 
+METHOD ONE: We treat the best value with its uncertainty as a 
+binomial, (21.3 ± 0.2) cm × (9.8 ± 0.1) cm, and obtain the area by 
+expanding: 
+ 
+A = 21.3 9.8
+(
+)± 21.3 0.1
+(
+)± 0.2 9.8
+(
+)± 0.2
+(
+) 0.1
+(
+)
+[
+]cm2 
+ 
+The first term gives the best value of the area. The cross terms add 
+together to give the uncertainty and the fourth term is negligible. 
+ 
+ 
+ 
+A = 209 cm2 ± 4 cm2 
+ 
+METHOD TWO: We add the fractional uncertainties in the data. 
+ 
+ 
+ 
+A = 21.3 cm
+(
+) 9.8 cm
+(
+)±
+0.2
+21.3 + 0.1
+9.8
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 209 cm2 ± 2% = 209 cm2 ± 4 cm2
+ 
+P1.36 
+(a) 
+The ± 0.2 following the 78.9 expresses uncertainty in the last digit. 
+Therefore, there are three significant figures in 78.9 ± 0.2.  
+ 
+ 
+(b) Scientific notation is often used to remove the ambiguity of the 
+number of significant figures in a number. Therefore, all the digits 
+in 3.788 are significant, and 3.788 × 109 has four significant 
+figures.  
+ 
+ 
+(c) 
+Similarly, 2.46 has three significant figures, therefore 2.46 × 10–6 
+has three significant figures.  
+ 
+ 
+(d) Zeros used to position the decimal point are not significant. 
+Therefore 0.005 3 has two significant figures.  
+ 
+ 
+ 
+Uncertainty in a measurement can be the result of a number of 
+factors, including the skill of the person doing the measurements, 
+the precision and the quality of the instrument used, and the 
+number of measurements made. 
+P1.37 
+We work to nine significant digits: 
+ 
+ 
+1 yr = 1 yr 365. 242 199 d
+1 yr
+⎛
+⎝⎜
+⎞
+⎠⎟
+24 h
+1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 min
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟
+60 s
+1 min
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 315 569 26.0 s
+ 
+P1.38 
+(a) 
+756 + 37.2 + 0.83 + 2 = 796.03 →796 , since the number with the 
+fewest decimal places is 2.
+
+--- PAGE 15 ---
+Chapter 1     15 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+0.003 2
+(
+) 2 s.f.
+{
+}× 356.3
+(
+) 4 s.f.
+{
+} = 1.140 16 = 2 s.f.
+{
+}  1.1 
+ 
+(c) 
+5.620 4 s.f.
+{
+}×π > 4 s.f.
+{
+} = 17.656 = 4 s.f.
+{
+} 17.66 
+P1.39 
+Let o represent the number of ordinary cars and s the number of sport 
+utility vehicles. We know o = s + 0.947s = 1.947s, and o = s + 18. 
+ 
+We eliminate o by substitution: 
+ 
+ 
+ 
+s + 18 = 1.947s →0.947s = 18 →s = 18/0.947 = 19 
+P1.40 
+“One and one-third months” = 4/3 months. Treat this problem as a 
+conversion: 
+ 
+ 
+ 
+1 bar
+4/3 months
+⎛
+⎝⎜
+⎞
+⎠⎟
+12 months
+1 year
+⎛
+⎝⎜
+⎞
+⎠⎟= 9 bars/year
+ 
+P1.41 
+The tax amount is $1.36 – $1.25 = $0.11. The tax rate is  
+ 
+ 
+ 
+$0.11/$1.25 = 0.0880 = 8.80% 
+P1.42 
+We are given the ratio of the masses and radii of the planets Uranus 
+and Neptune: 
+ 
+ 
+ 
+MN
+MU
+= 1.19, and rN
+rU
+= 0.969 
+ 
+The definition of density is ρ =
+mass
+volume = M
+V , where V = 4
+3πr3 for a 
+sphere, and we assume the planets have a spherical shape. 
+ 
+We know ρU = 1.27 × 103 kg/m3. Compare densities: 
+ 
+ 
+ 
+ρN
+ρU
+= MN /VN
+MU /VU
+=
+MN
+MU
+⎛
+⎝⎜
+⎞
+⎠⎟
+VU
+VN
+⎛
+⎝⎜
+⎞
+⎠⎟=
+MN
+MU
+⎛
+⎝⎜
+⎞
+⎠⎟
+rU
+rN
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 1.19
+(
+)
+1
+0.969
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+= 1.307 9
+ 
+ 
+which gives 
+ 
+ 
+ 
+ρN = 1.3079
+(
+) 1.27 × 103 kg/m3
+(
+) = 1.66 × 103 kg/m3 
+P1.43 
+Let s represent the number of sparrows and m the number of more 
+interesting birds. We know s/m = 2.25 and s + m = 91. 
+ 
+We eliminate m by substitution: 
+ 
+ 
+ 
+m = s/2.25 →s + s/2.25 = 91→1.444s = 91 
+ 
+ 
+ 
+→s = 91/1.444 = 63
+
+--- PAGE 16 ---
+16     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.44 
+We require  
+ 
+ 
+sin θ = −3cos θ, or sin θ
+cos θ = tan θ = −3
+ 
+ 
+For tan
+–1(–3) = arctan(–3), your calculator 
+may return –71.6°, but this angle is not 
+between 0° and 360° as the problem  
+requires. The tangent function is negative  
+in the second quadrant (between 90° and 180°) and in the fourth 
+quadrant (from 270° to 360°). The solutions to the equation are then 
+ 
+ 
+ 
+360° −71.6° = 288° and 180° −71.6 = 108° 
+*P1.45 
+(a) 
+ANS. FIG. P1.45 shows that the hypotenuse  
+of the right triangle has a length of 9.00 m 
+and the unknown side is opposite the angle 
+φ. Since the two angles in the triangle are 
+not known, we can obtain the length of the 
+unknown side, which we will represent as 
+s, using the Pythagorean Theorem: 
+ 
+ 
+ 
+s2 + 6.00 m
+(
+)
+2 = 9.00 m
+(
+)
+2
+s2 = 9.00 m
+(
+)
+2 −6.00 m
+(
+)
+2 = 45
+  
+ 
+ 
+which gives s = 6.71 m . We express all of our answers in three 
+significant figures since the lengths of the two known sides of the 
+triangle are given with three significant figures. 
+ 
+(b) From ANS. FIG. P1.45, the tangent of θ is equal to ratio of the 
+side opposite the angle, 6.00 m in length, and the side adjacent to 
+the angle, s = 6.71 m, and is given by  
+ 
+ 
+ 
+tanθ = 6.00 m
+s
+= 6.00 m
+6.71 m = 0.894
+  
+ 
+(c) 
+From ANS. FIG. P1.45, the sine of φ is equal to ratio of the side 
+opposite the angle, s = 6.71 m, and the hypotenuse of the triangle, 
+9.00 m in length, and is given by  
+ 
+ 
+ 
+sinφ =
+s
+9.00 m = 6.71 m
+9.00 m = 0.745
+ 
+P1.46 
+For those who are not familiar with solving 
+equations numerically, we provide a detailed 
+solution. It goes beyond proving that the 
+suggested answer works. 
+ 
+The equation 2x
+4 – 3x
+3 + 5x – 70 = 0 is quartic, so 
+ANS. FIG. P1.44 
+ANS. FIG. P1.45 
+θ 
+φ 
+s 
+ANS. FIG. P1.46
+
+--- PAGE 17 ---
+Chapter 1     17 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+we do not attempt to solve it with algebra. To find how many real 
+solutions the equation has and to estimate them, we graph the 
+expression: 
+x 
+–3 
+–2 
+–1 
+0 
+1 
+2 
+3 
+4 
+y = 2x
+4 – 3x
+3 + 5x – 70 
+158 
+–24 
+–70 
+–70 
+–66 
+–52 
+26 
+270 
+ 
+We see that the equation y = 0 has two roots, one around x = –2.2 and 
+the other near x = +2.7. To home in on the first of these solutions we 
+compute in sequence:  
+ 
+When x = –2.2, y = –2.20. The root must be between x = –2.2 and x = –3. 
+When x = –2.3, y = 11.0. The root is between x = –2.2 and x = –2.3. 
+When x = –2.23, y = 1.58. The root is between x = –2.20 and x = –2.23. 
+When x = –2.22, y = 0.301. The root is between x = –2.20 and –2.22. 
+When x = –2.215, y = –0.331. The root is between x = –2.215 and –2.22. 
+We could next try x = –2.218, but we already know to three-digit 
+precision that the root is x = –2.22. 
+P1.47 
+When the length changes by 15.8%, the mass changes by a much larger 
+percentage. We will write each of the sentences in the problem as a 
+mathematical equation. 
+ 
+ 
+Mass is proportional to length cubed: m = kℓ
+3, where k is a constant. 
+This model of growth is reasonable because the lamb gets thicker as it 
+gets longer, growing in three-dimensional space. 
+ 
+At the initial and final points, mi = ki
+3
+and
+m f = kf
+3 
+ 
+ 
+Length changes by 15.8%: 
+15.8% of ℓ means 0.158 times ℓ. 
+ 
+Thus  
+ℓi + 0.158 ℓi = ℓf 
+and 
+ℓf = 1.158 ℓi 
+ 
+ 
+Mass increases by 17.3 kg: 
+mi + 17.3 kg = mf 
+ 
+ 
+Now we combine the equations using algebra, eliminating the 
+unknowns ℓi, ℓf, k, and mi by substitution: 
+ 
+From 
+ℓf = 1.158 ℓi,  we have 
+3
+3
+3
+3
+1.158
+1.553
+f
+i
+i
+=
+=
+
+
+ 
+ 
+Then 
+ 
+ 
+(
+)
+3
+3
+3
+1.553
+1.553
+1.553
+and    
+/1.553
+f
+f
+i
+i
+i
+i
+f
+m
+k
+k
+k
+m
+m
+m
+=
+=
+=
+=
+=
+
+
+
+ 
+ 
+Next, 
+ 
+ 
+ 
+mi + 17.3 kg = mf   becomes   mf /1.553 + 17.3 kg = mf 
+ 
+Solving, 17.3 kg = mf – mf /1.553 = mf (1 – 1/1.553) = 0.356 mf
+
+--- PAGE 18 ---
+18     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+m f = 17.3 kg
+0.356 = 48.6 kg .  
+P1.48 
+We draw the radius to the initial point and the 
+radius to the final point. The angle θ between these 
+two radii has its sides perpendicular, right side to 
+right side and left side to left side, to the 35° angle 
+between the original and final tangential directions 
+of travel. A most useful theorem from geometry then 
+identifies these angles as equal: θ = 35°. The whole 
+circumference of a 360° circle of the same radius is 
+2πR. By proportion, then 
+ 
+ 
+ 
+2πR
+360° = 840 m
+35°
+ 
+ 
+ 
+ 
+R =
+360°
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟
+840 m
+35°
+⎛
+⎝⎜
+⎞
+⎠⎟= 840 m
+0.611 = 1.38 × 103 m
+ 
+ 
+We could equally well say that the measure of the angle in radians is 
+ 
+ 
+ 
+θ = 35° = 35° 2π radians
+360°
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.611 rad = 840 m
+R
+ 
+ 
+Solving yields R = 1.38 km. 
+P1.49 
+Use substitution to solve simultaneous equations. We substitute p = 3q 
+into each of the other two equations to eliminate p: 
+ 
+ 
+ 
+3qr = qs
+1
+2 3qr2 + 1
+2 qs2 = 1
+2 qt2
+⎧
+⎨⎪
+⎩⎪
+ 
+ 
+These simplify to 
+3r = s
+3r2 + s2 = t2
+⎧
+⎨
+⎩
+, assuming q ≠0. 
+ 
+We substitute the upper relation into the lower equation to eliminate s: 
+ 
+ 
+ 
+3r2 + 3r
+(
+)
+2 = t2 →12r2 = t2 →t2
+r2 = 12 
+ 
+We now have the ratio of t to r: t
+r = ± 12 = ±3.46 
+P1.50 
+First, solve the given equation for Δt: 
+ 
+ 
+Δt =
+4QL
+kπd2 Th −Tc
+(
+)
+=
+4QL
+kπ Th −Tc
+(
+)
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1
+d2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ANS. FIG. P1.48
+
+--- PAGE 19 ---
+Chapter 1     19 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+Making d three times larger with d
+2 in the bottom of the fraction 
+makes Δt nine times smaller . 
+ 
+(b) 
+Δt is inversely proportional to the square of d. 
+ 
+(c) 
+Plot Δt on the vertical axis and 1/d2 on the horizontal axis. 
+ 
+(d) 
+From the last version of the equation, the slope is 
+4QL/ kπ Th −Tc
+(
+) . Note that this quantity is constant as both ∆t 
+and d vary. 
+P1.51 
+(a) 
+The fourth experimental point from the top is a circle: this point 
+lies just above the best-fit curve that passes through the point  
+(400 cm
+2, 0.20 g). The interval between horizontal grid lines is  
+1 space = 0.05 g. We estimate from the graph that the circle has a 
+vertical separation of 0.3 spaces = 0.015 g above the best-fit 
+curve. 
+ 
+(b) The best-fit curve passes through 0.20 g: 
+ 
+ 
+ 
+0.015 g
+0.20 g
+⎛
+⎝⎜
+⎞
+⎠⎟× 100 = 8%
+ 
+ 
+(c) 
+The best-fit curve passes through the origin and the point  
+(600 cm
+3, 3.1 g). Therefore, the slope of the best-fit curve is 
+ 
+ 
+ 
+slope =
+3.1 g
+600 cm3
+⎛
+⎝⎜
+⎞
+⎠⎟= 5.2 × 10−3
+g
+cm3 
+ 
+(d) 
+For shapes cut from this copy paper, the mass of the cutout 
+is proportional to its area. The proportionality constant is 
+5.2 g/m2 ± 8%, where the uncertainty is estimated.
+  
+ 
+(e) 
+This result is to be expected if the paper has thickness and 
+density that are uniform within the experimental uncertainty.
+  
+ 
+(f) 
+The slope is the areal density of the paper, its mass per unit area.  
+P1.52 
+r = 6.50 ± 0.20
+(
+) cm = 6.50 ± 0.20
+(
+)× 10−2 m 
+ 
+ 
+ 
+m = 1.85 + 0.02
+(
+)kg 
+ 
+ 
+ 
+ρ =
+m
+4
+3( )πr3
+
+--- PAGE 20 ---
+20     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P1.53 
+ 
+also,  
+δρ
+ρ = δm
+m + 3δr
+r
+ 
+ 
+In other words, the percentages of uncertainty are cumulative. 
+Therefore, 
+ 
+ 
+ 
+δρ
+ρ = 0.02
+1.85 + 3 0.20
+(
+)
+6.50
+= 0.103,
+ρ =
+1.85
+4
+3( )π 6.5 × 10−2 m
+(
+)
+3 = 1.61× 103 kg/m3
+ 
+ 
+then δρ = 0.103ρ = 0.166 × 103 kg/m3 
+ 
+and ρ ± δρ =
+1.61 ± 0.17
+(
+) × 103 kg/m3 = 1.6 ± 0.2
+(
+) × 103 kg/m3. 
+*P1.53 
+The volume of concrete needed is the sum of the  
+four sides of sidewalk, or  
+ 
+ 
+V = 2V1 + 2V2 = 2 V1 + V2
+(
+)
+ 
+ 
+The figure on the right gives the dimensions 
+needed to determine the volume of each portion of 
+sidewalk: 
+ 
+ 
+V1 = 17.0 m + 1.0 m + 1.0 m
+(
+) 1.0 m
+(
+) 0.09 m
+(
+) = 1.70 m3
+V2 = 10.0 m
+(
+) 1.0 m
+(
+) 0.090 m
+(
+) = 0.900 m3
+V = 2 1.70 m3 + 0.900 m3
+(
+) = 5.2 m3
+ 
+ 
+The uncertainty in the volume is the sum of the uncertainties in each 
+dimension: 
+ 
+δ 1
+1
+= 0.12 m
+19.0 m = 0.0063
+δ w1
+w1
+= 0.01 m
+1.0 m = 0.010
+δ t1
+t1
+= 0.1 cm
+9.0 cm = 0.011
+⎫
+⎬
+⎪
+⎪
+⎪⎪
+⎭
+⎪
+⎪
+⎪
+⎪
+δ V
+V = 0.006 + 0.010 + 0.011 = 0.027 = 3%
+
+--- PAGE 21 ---
+Chapter 1     21 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems	  
+P1.54 
+(a) 
+Let d represent the diameter of the coin and h its thickness. The 
+gold plating is a layer of thickness t on the surface of the coin; so, 
+the mass of the gold is 
+ 
+ 
+ 
+m = ρV = ρ 2π d2
+4 +πdh
+⎡
+⎣⎢
+⎤
+⎦⎥t
+= 19.3 g
+cm3
+⎛
+⎝⎜
+⎞
+⎠⎟2π 2.41 cm
+(
+)
+2
+4
++π 2.41 cm
+(
+) 0.178 cm
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+                                         × 1.8 × 10−7 m
+(
+) 102 cm
+ 1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 0.003 64 g
+  
+ 
+ 
+and the cost of the gold added to the coin is 
+ 
+ 
+ 
+cost = 0.003 64 g
+(
+) $10
+1 g
+⎛
+⎝⎜
+⎞
+⎠⎟= $0.036 4 = 3.64 cents
+ 
+ 
+(b) 
+The cost is negligible compared to $4.98. 
+P1.55 
+It is desired to find the distance x such that 
+ 
+ 
+ 
+x
+100 m = 1 000 m
+x
+ 
+ 
+(i.e., such that x is the same multiple of 100 m as the multiple that  
+1 000 m is of x). Thus, it is seen that 
+ 
+ 
+ 
+x
+2 = (100 m)(1 000 m) = 1.00 × 10
+5 m
+2 
+ 
+and therefore 
+ 
+ 
+ 
+x =
+1.00 × 105 m2 = 316 m 
+P1.56 
+(a) 
+A Google search yields the following dimensions of the intestinal 
+tract: 
+ 
+ 
+ 
+small intestines: length ≅ 20 ft ≅ 6 m, diameter ≅ 1.5 in ≅ 4 cm 
+ 
+ 
+ 
+large intestines: length ≅ 5 ft ≅ 1.5 m, diameter ≅ 2.5 in ≅ 6 cm 
+ 
+ 
+Treat the intestines as two cylinders: the volume of a cylinder of 
+diameter d and length L is V = π
+4 d2L.
+
+--- PAGE 22 ---
+22     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The volume of the intestinal tract is 
+ 
+ 
+ 
+V = Vsmall +Vlarge
+V = π
+4 0.04m
+(
+)
+2 6m
+(
+)+ π
+4 0.06m
+(
+)
+2 1.5m
+(
+)
+= 0.0117m3 ≅10−2 m3
+ 
+ 
+ 
+Assuming 1% of this volume is occupied by bacteria, the volume 
+of bacteria is 
+ 
+ 
+ 
+Vbac = 10−2 m3
+(
+) 0.01
+(
+) = 10−4 m3 
+ 
+ 
+Treating a bacterium as a cube of side L = 10
+–6 m, the volume of 
+one bacterium is about L
+3 = 10
+–18 m
+3. The number of bacteria in the 
+intestinal tract is about 
+10−4 m3
+(
+) 1 bacterium
+10−18 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1014 bacteria!
+ 
+ 
+(b) The large number of bacteria suggests they must be beneficial , 
+otherwise the body would have developed methods a long time 
+ago to reduce their number. It is well known that certain types of  
+bacteria in the intestinal tract are beneficial: they aid digestion, as 
+well as prevent dangerous bacteria from flourishing in the 
+intestines. 
+P1.57 
+We simply multiply the distance between the two galaxies by the scale 
+factor used for the dinner plates. The scale factor used in the “dinner 
+plate” model is 
+ 
+ 
+ 
+S =
+0.25 m
+1.0 × 105 light-years
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.5 × 10−6 m/ly
+ 
+ 
+The distance to Andromeda in the scale model will be 
+ 
+ 
+ 
+Dscale = DactualS = 2.0 × 106 ly
+(
+) 2.5 × 10−6 m/ly
+(
+) = 5.0 m 
+P1.58 
+Assume the winner counts one dollar per second, and the winner tries 
+to maintain the count without stopping. The time interval required for 
+the task would be 
+ 
+ 
+ 
+$106 1 s
+$1
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 hour
+3600 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 work week
+40 hours
+⎛
+⎝⎜
+⎞
+⎠⎟= 6.9 work weeks. 
+ 
+The scenario has the contestants succeeding on the whole. But the
+calculation shows that is impossible. It just takes too long!
+
+--- PAGE 23 ---
+Chapter 1     23 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.59 
+We imagine a top view to figure 
+the radius of the pool from its 
+circumference. We imagine a 
+straight-on side view to use 
+trigonometry to find the height. 
+ 
+Define a right triangle whose legs 
+represent the height and radius of 
+the fountain. From the dimensions 
+of the fountain and the triangle, 
+the circumference is C = 2πr and 
+the angle satisfies tanφ = h/r.  
+ 
+Then by substitution 
+ 
+ 
+ 
+h = r tanφ =
+C
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟tanφ 
+ 
+Evaluating, 
+ 
+ 
+  
+h =
+15.0 m
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟tan55.0° = 3.41 m
+ 
+ 
+When we look at a three-dimensional system from a particular 
+direction, we may discover a view to which simple mathematics 
+applies. 
+P1.60 
+The fountain has height h; the pool has circumference C with radius r. 
+The figure shows the geometry of the problem: a right triangle has 
+base r, height h, and angle φ. From the triangle, 
+ 
+ 
+ 
+tan φ = h/r 
+ 
+We can find the radius of the circle from its 
+circumference, C = 2πr, and then solve for the height 
+using 
+ 
+ 
+ 
+h = rtanφ = tanφ
+(
+)C/2π 
+P1.61 
+The density of each material is ρ = m
+v =
+m
+πr2h =
+4m
+πD2h. 
+ 
+Al: ρ =
+4(51.5 g)
+π 2.52 cm
+(
+)
+2 3.75 cm
+(
+)
+= 2.75 g
+cm3 ; this is 2% larger 
+than the tabulated value, 2.70 g/cm3.  
+ 
+Cu: ρ =
+4(56.3 g)
+π 1.23 cm
+(
+)
+2 5.06 cm
+(
+)
+= 9.36 g
+cm3 ; this is 5% larger 
+than the tabulated value, 8.92 g/cm3. 
+ 
+ANS. FIG. P1.59 
+h 
+r 
+φ 
+ANS. FIG. P1.60
+
+--- PAGE 24 ---
+24     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+brass: ρ =
+4(94.4 g)
+π 1.54 cm
+(
+)
+2 5.69 cm
+(
+)
+= 8.91 g
+cm3 ; this is 5% larger 
+than the tabulated value, 8.47 g/cm3. 
+ 
+Sn: ρ =
+4(69.1 g)
+π 1.75 cm
+(
+)
+2 3.74 cm
+(
+)
+= 7.68 g
+cm3 ; this is 5% larger 
+than the tabulated value, 7.31 g/cm3. 
+ 
+Fe: ρ =
+4(216.1 g)
+π 1.89 cm
+(
+)
+2 9.77 cm
+(
+)
+= 7.88 g
+cm3 ; this is 0.3% larger 
+than the tabulated value, 7.86 g/cm3.  
+P1.62 
+The volume of the galaxy is 
+ 
+ 
+ 
+πr2t = π 1021 m
+(
+)
+2 1019 m
+(
+) ~ 1061 m3 
+ 
+If the distance between stars is 4 × 10
+16, then there is one star in a 
+volume on the order of 
+ 
+ 
+ 
+4 × 1016 m
+(
+)
+3 ~ 1050 m3 
+ 
+The number of stars is about 
+1061 m3
+1050 m3/star ~ 1011 stars . 
+P1.63 
+We define an average national fuel consumption rate based upon the 
+total miles driven by all cars combined. In symbols, 
+ 
+ 
+ 
+fuel consumed =
+total miles driven
+average fuel consumptionrate
+ 
+ 
+or 
+ 
+ 
+ 
+f  =  s
+c 
+ 
+For the current rate of 20 mi/gallon we have 
+ 
+ 
+ 
+f  =  100 × 106 cars
+(
+) 104 (mi/yr)/car
+(
+)
+20 mi/gal
+= 5 × 1010 gal/yr
+ 
+ 
+Since we consider the same total number of miles driven in each case, 
+at 25 mi/gal we have 
+ 
+ 
+ 
+f  =  100 × 106 cars
+(
+) 104 (mi/yr)/car
+(
+)
+25 mi/gal
+= 4 × 1010 gal/yr
+ 
+ 
+Thus we estimate a change in fuel consumption of    
+ 
+ 
+ 
+Δf = 4 × 1010 gal/yr −5 × 1010 gal/yr = −1× 1010 gal/yr
+
+--- PAGE 25 ---
+Chapter 1     25 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The negative sign indicates that the change is a reduction. It is a fuel 
+savings of ten billion gallons each year. 
+P1.64 
+(a) 
+The mass is equal to the mass of a sphere of radius 2.6 cm and 
+density 4.7 g/cm
+3, minus the mass of a sphere of radius a and 
+density 4.7 g/cm
+3, plus the mass of a sphere of radius a and 
+density 1.23 g/cm
+3. 
+ 
+ 
+ 
+m = ρ1
+4
+3πr3
+⎛
+⎝⎜
+⎞
+⎠⎟−ρ1
+4
+3πa3
+⎛
+⎝⎜
+⎞
+⎠⎟+ ρ2
+4
+3πa3
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+4
+3π
+⎛
+⎝⎜
+⎞
+⎠⎟
+4.7 g/cm3
+(
+) 2.6 cm
+(
+)
+3 −4.7 g/cm3
+(
+)a3
+⎡⎣
+                                                       + 1.23 g/cm3
+(
+)a3 ⎤⎦
+m = 346 g −14.5 g/cm3
+(
+)a3
+ 
+ 
+(b) The mass is maximum for a = 0 .  
+ 
+(c) 
+346 g .  
+ 
+(d) 
+Yes .This is the mass of the uniform sphere we considered in the 
+first term of the calculation. 
+ 
+(e) 
+No change, so long as the wall of the shell is unbroken. 
+P1.65 
+Answers may vary depending on assumptions: 
+ 
+ 
+typical length of bacterium: L = 10
+–6 m 
+ 
+ 
+typical volume of bacterium: L
+3 = 10
+–18 m
+3 
+ 
+ 
+surface area of Earth: A = 4πr2 = 4π 6.38 × 106 m
+(
+)
+2 = 5.12 × 1014m2 
+ 
+(a) 
+If we assume the bacteria are found to a depth d = 1000 m below 
+Earth’s surface, the volume of Earth containing bacteria is about 
+ 
+ 
+ V = 4πr2
+(
+)d = 5.12 × 1017 m3 
+ 
+ 
+If we assume an average of 1000 bacteria in every 1 mm
+3 of 
+volume, then the number of bacteria is 
+ 
+ 
+1000 bacteria
+1 mm3
+⎛
+⎝⎜
+⎞
+⎠⎟
+103 mm
+1 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+3
+(5.12 × 1017 m3) ≈5.12 × 1029 bacteria
+ 
+ 
+(b) Assuming a bacterium is basically composed of water, the total 
+mass is 
+ 
+ 
+ 
+1029 bacteria
+(
+)
+10−18 m3
+1 bacterium
+⎛
+⎝⎜
+⎞
+⎠⎟
+103 kg
+1 m3
+⎛
+⎝⎜
+⎞
+⎠⎟= 1014 kg
+
+--- PAGE 26 ---
+26     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.66 
+The rate of volume increase is 
+ 
+ 
+ 
+dV
+dt = d
+dt
+4
+3πr3
+⎛
+⎝⎜
+⎞
+⎠⎟= 4
+3π 3r2
+(
+) dr
+dt = 4πr2
+(
+) dr
+dt
+ 
+ 
+(a) 
+dV
+dt = 4π(6.5 cm)2(0.9 cm/s) = 478 cm3/s 
+ 
+(b) The rate of increase of the balloon’s radius is  
+ 
+ 
+ 
+dr
+dt = dV/dt
+4πr2 = 478 cm3/s
+4π(13 cm)2 = 0.225 cm/s
+ 
+ 
+(c) 
+When the balloon radius is twice as large, its surface area is
+four times larger. The new volume added in one second in
+the inflation process is equal to this larger area times an extra
+radial thickness that is one-fourth as large as it was when the
+ balloon was smaller.
+ 
+P1.67 
+(a) 
+We have B + C(0) = 2.70 g/cm
+3 and B + C(14 cm) = 19.3 g/cm
+3. 
+ 
+ 
+We know B = 2.70g/cm3 , and we solve for C by subtracting: 
+ 
+ 
+C(14 cm) = 19.3 g/cm
+3 – B = 16.6 g/cm
+3, so C = 1.19 g/cm4 
+ 
+(b) The integral is 
+ 
+ 
+ 
+m = (9.00 cm2)
+(B+ Cx)dx
+0
+14 cm
+∫
+= (9.00 cm2) Bx + C
+2 x2
+⎛
+⎝⎜
+⎞
+⎠⎟
+0
+14 cm
+ 
+ 
+ 
+ 
+m = (9.00 cm2)
+2.70 g/cm3
+(
+)(14 cm −0)
+{
+                 + 1.19 g/cm4 /2
+(
+) (14 cm)2 −0
+⎡⎣
+⎤⎦}
+= 340 g + 1046 g = 1390 g = 1.39 kg
+
+--- PAGE 27 ---
+Chapter 1     27 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.68 
+The table below shows α in degrees, α in radians, tan(α), and sin(α) for 
+angles from 15.0° to 31.1°: 
+α′ (deg) 
+α (rad) 
+tan(α) 
+sin(α) 
+difference between 
+α and tan α 
+15.0 
+0.262 
+0.268 
+0.259 
+2.30% 
+20.0 
+0.349 
+0.364 
+0.342 
+4.09% 
+30.0 
+0.524 
+0.577 
+0.500 
+9.32% 
+33.0 
+0.576 
+0.649 
+0.545 
+11.3% 
+31.0 
+0.541 
+0.601 
+0.515 
+9.95% 
+31.1 
+0.543 
+0.603 
+0.516 
+10.02% 
+ 
+We see that α in radians, tan(α), and sin(α) start out together from zero 
+and diverge only slightly in value for small angles. Thus 31.0° is the 
+largest angle for which tanα −α
+tanα
+< 0.1. 
+P1.69 
+We write “millions of cubic feet” as 10
+6 ft
+3, and use the given units of 
+time and volume to assign units to the equation. 
+ 
+ 
+ 
+V = (1.50 × 106ft3/mo)t+(0.00800 × 106 ft3/mo2)t2 
+ 
+ 
+To convert the units to seconds, use  
+ 
+ 
+ 
+1 month = 30.0 d
+(
+) 24 h
+1 d
+⎛
+⎝⎜
+⎞
+⎠⎟
+3600 s
+1 h
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.59 × 106s
+ 
+ 
+to obtain 
+ 
+V = 1.50 × 106 ft3
+mo
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mo
+2.59 × 106 s
+⎛
+⎝⎜
+⎞
+⎠⎟t
+           + 0.008 00 × 106 ft3
+mo2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 mo
+2.59 × 106 s
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+t2
+= (0.579 ft3/s)t+(1.19 × 10−9 ft3/s2)t2
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+V = 0.579t + 1.19 × 10−9t2 
+ 
+ 
+where V is in cubic feet and t is in seconds. The coefficient of the first 
+term is the volume rate of flow of gas at the beginning of the month.
+
+--- PAGE 28 ---
+28     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+The second term’s coefficient is related to how much the rate of flow 
+increases every second. 
+P1.70 
+(a) and (b), the two triangles are shown. 
+ 
+ 
+ 
+ 
+  
+ANS. FIG. P1.70(a) 
+ANS. FIG. P1.70(b) 
+ 
+(c) 
+From the triangles, 
+ 
+ 
+ 
+ 
+tan12.0° = y
+x →y = xtan12.0°
+ 
+ 
+ 
+and tan14.0° =
+y
+(x −1.00 km) →y = (x −1.00 km)tan14.0° . 
+(d) Equating the two expressions for y, we solve to find y = 1.44 km. 
+P1.71 
+Observe in Fig. 1.71 that the radius of the horizontal cross section of 
+the bottle is a relative maximum or minimum at the two radii cited in 
+the problem; thus, we recognize that as the liquid level rises, the time 
+rate of change of the diameter of the cross section will be zero at these 
+positions. 
+ 
+The volume of a particular thin cross section of the shampoo of 
+thickness h and area A is V = Ah, where A = πr2 = πD2/4. Differentiate 
+the volume with respect to time: 
+ 
+ 
+ 
+dV
+dt = A dh
+dt + h dA
+dt = A dh
+dt + h d
+dt (πr2) = A dh
+dt + 2πhr dr
+dt
+ 
+ 
+Because the radii given are a maximum and a minimum value,  
+dr/dt = 0, so 
+ 
+ 
+ 
+dV
+dt + A dh
+dt = Av →v = 1
+A
+dV
+dt =
+1
+πD2/4
+dV
+dt =
+4
+πD2
+dV
+dt 
+ 
+where v = dh/dt is the speed with which the level of the fluid rises. 
+ 
+(a) 
+For D = 6.30 cm, 
+ 
+ 
+ 
+v =
+4
+π(6.30 cm)2 (16.5 cm3/s) = 0.529 cm/s
+
+--- PAGE 29 ---
+Chapter 1     29 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For D = 1.35 cm, 
+ 
+ 
+ 
+v =
+4
+π(1.35 cm)2 (16.5 cm3/s) = 11.5 cm/s
+ 
+ 
+ 
+ 
+Challenge Problems 
+P1.72 
+The geometry of the problem is shown below. 
+ 
+ANS. FIG. P1.72 
+ 
+From the triangles in ANS. FIG. P1.72, 
+ 
+ 
+ 
+tanθ = y
+x →y = xtanθ
+ 
+ 
+and 
+ 
+ 
+ 
+tanφ =
+y
+x −d →y = (x −d)tanφ
+ 
+ 
+Equate these two expressions for y and solve for x: 
+ 
+ 
+ 
+xtanθ = (x −d)tanφ →dtanφ = x(tanφ −tanθ)
+→x =
+dtanφ
+tanφ −tanθ
+ 
+ 
+Take the expression for x and substitute it into either expression for y: 
+ 
+ 
+ 
+y = xtanθ = dtanφ tanθ
+tanφ −tanθ
+
+--- PAGE 30 ---
+30     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P1.73 
+P1.73 
+The geometry of the problem suggests we 
+use the law of cosines to relate known sides 
+and angles of a triangle to the unknown 
+sides and angles. Recall that the sides a, b, 
+and c with opposite angles A, B, and C have 
+the following relationships: 
+ 
+ 
+ 
+a2 = b2 + c2 −2bccos A 
+ 
+ 
+ 
+b2 = c2 + a2 −2cacosB 
+ 
+ 
+ 
+c2 = a2 + b2 −2abcosC 
+ 
+For the cows in the meadow, the triangle has 
+sides a = 25.0 m and  
+b = 15.0 m, and angle C = 20.0°, where object A = cow A,  
+object B = cow B, and object C = you. 
+ 
+(a) 
+Find side c: 
+ 
+ 
+ 
+c2 = a2 + b2 −2abcosC
+c2 = (25.0 m)2 + (15.0 m)2
+        −2(25.0 m)(15.0 m) cos (20.0°)
+c = 12.1 m
+ 
+ 
+(b) Find angle A: 
+ 
+ 
+ 
+a2 = b2 + c2 −2bccos A →
+cos A = a2 −b2 −c2
+2bc
+= (25.0 m)2 −(15.0 m)2 −(12.1 m)2
+2(15.0 m)(12.1 m)
+→A = 134.8° = 135°
+ 
+ 
+(c) 
+Find angle B: 
+ 
+ 
+ 
+b2 = c2 + a2 −2cacosB →
+cosB = b2 −c2 −a2
+2ca
+= (15.0 m)2 −(25.0 m)2 −(12.1 m)2
+2(25.0 m)(12.1 m)
+→B = 25.2°
+ 
+ 
+(d) For the situation, object A = star A, object B = star B, and object  
+C = our Sun (or Earth); so, the triangle has sides a = 25.0 ly,  
+b = 15.0 ly, and angle C = 20.0°. The numbers are the same, except 
+for units, as in part (b); thus, angle A = 135.
+
+--- PAGE 31 ---
+Chapter 1     31 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P1.2 
+2.15 × 10
+4 kg/m
+3 
+P1.4 
+(a) 2.3 × 10
+17 kg/m
+3; (b) 1.0 × 1013 times the density of osmium 
+P1.6 
+4π ρ r2
+3 −r1
+3
+(
+)
+3
+ 
+P1.8 
+(a) 8.42 × 1022 Cu-atom
+cm3
+; (b) 
+1.19 × 10−23 cm3/Cu-atom;  
+(c) 2.28 × 10
+–8 cm 
+P1.10 
+(a) and (f); (b) and (d); (c) and (e) 
+P1.12 
+m3
+kg ⋅s2 
+P1.14 
+(a) [A] = L/T
+3 and [B] = L/T; (b) L/T 
+P1.16 
+667 lb/s 
+P1.18 
+9.19 nm/s 
+P1.20 
+2.57 × 10
+6 m
+3 
+P1.22 
+(a) 7.14 × 10–2 gal
+s ; (b) 2.70 × 10–4 m3
+s ; (c) 1.03 h 
+P1.24 
+290 m
+3, 2.9 × 10
+8 cm
+3 
+P1.26 
+rFe(1.43) 
+P1.28 
+(a) 3.39 × 10
+5 ft
+3; (b) 2.54 × 10
+4 lb 
+P1.30 
+(a) 2.07 mm; (b) 8.62 × 10
+13 times as large 
+P1.32 
+(a) ~ 10
+2 kg; (b) ~ 10
+3 kg 
+P1.34 
+10
+7 rev 
+P1.36 
+(a) 3; (b) 4; (c) 3; (d) 2 
+P1.38 
+(a) 796; (b) 1.1; (c) 17.66 
+P1.40 
+9 bars / year 
+P1.42 
+1.66 × 10
+3 kg/m
+3 
+P1.44 
+288°; 108° 
+P1.46 
+See P1.46 for complete description. 
+P1.48 
+1.38 × 10
+3 m
+
+--- PAGE 32 ---
+32     Physics and Measurement 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P1.50 
+(a) nine times smaller; (b) Δt is inversely proportional to the square of 
+d; (c) Plot Δt on the vertical axis and 1/d2 on the horizontal axis;  
+(d) 4QL/kπ Th −Tc
+(
+) 
+P1.52 
+1.61× 103 kg/m3, 0.166 × 103 kg/m3, 1.61± 0.17
+(
+)× 103 kg/m3 
+P1.54 
+3.64 cents; the cost is negligible compared to $4.98. 
+P1.56 
+(a) 10
+14 bacteria; (b) beneficial 
+P1.58 
+The scenario has the contestants succeeding on the whole. But the 
+calculation shows that is impossible. It just takes too long! 
+P1.60 
+h = rtanφ = tanθ
+(
+)C/2π 
+P1.62 
+10
+11 stars 
+P1.64 
+(a) m = 346 g − (14.5 g/cm
+3)a
+3; (b) a = 0; (c) 346 g; (d) yes; (e) no change 
+P1.66 
+(a) 478 cm
+3/s; (b) 0.225 cm/s; (c) When the balloon radius is twice 
+as large, its surface area is four times larger. The new volume 
+added in one second in the inflation process is equal to this larger 
+area times an extra radial thickness that is one-fourth as large as it 
+was when the balloon was smaller. 
+P1.68 
+31.0° 
+P1.70 
+(a-b) see ANS. FIG. P1.70(a) and P1.70(b); (c) y = x tan12.0° and  
+y = (x − 1.00 km) tan14.0°; (d) y = 1.44 km 
+P1.72 
+dtanφ tanθ
+tanφ −tanθ

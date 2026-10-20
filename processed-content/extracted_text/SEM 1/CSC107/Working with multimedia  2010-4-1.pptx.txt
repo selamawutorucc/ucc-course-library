@@ -1,0 +1,514 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Objectives Overview
+
+--- SLIDE 5 ---
+Add Pictures to Slide in PowerPoint 2010
+Step 1  
+Go to the Images group in the Insert ribbon.
+
+--- SLIDE 6 ---
+Add Pictures to Slide in PowerPoint 2010
+Step 2  
+Click on Picture to open the Insert Picture dialog and add a picture to the slide.
+
+Step 3  
+In this dialog, you have three sections: to the left corner, you have folders that can be browsed, the section in the centre shows the subfolders and files in the selected folder and to the right, you can have a preview of the selected image.
+
+--- SLIDE 7 ---
+Add Pictures to Slide in PowerPoint 2010
+
+--- SLIDE 8 ---
+Add Pictures to Slide in PowerPoint 2010
+Step 4  
+Select the image you want and click Open to add the picture to the slide.
+
+
+--- SLIDE 9 ---
+Editing Added Pictures in PowerPoint 2010
+The editing features are grouped under the Adjust and Picture Styles section in the Format ribbon.
+
+
+--- SLIDE 10 ---
+Editing Added Pictures in PowerPoint 2010
+
+--- SLIDE 11 ---
+Editing Added Pictures in PowerPoint 2010
+
+--- SLIDE 12 ---
+Format Added Pictures in PowerPoint 2010
+The formatting features are grouped under the Arrange and Size section in the Format ribbon.
+
+
+--- SLIDE 13 ---
+Picture Arrangement Features
+
+--- SLIDE 14 ---
+Picture Sizing Features
+
+--- SLIDE 15 ---
+Inserting a Screenshot in PowerPoint 2010
+Step 1  
+Go to the Images group in the Insert Ribbon.
+
+
+--- SLIDE 16 ---
+Inserting a Screenshot in PowerPoint 2010
+Step 2  
+Click on the Screenshot dropdown to look at full screen snaps of all the applications running on your computer’s desktop.
+
+
+--- SLIDE 17 ---
+Inserting a Screenshot in PowerPoint 2010
+Step 3  
+Select one of the screenshots to add it directly on to your presentation.
+
+
+--- SLIDE 18 ---
+Inserting a Screenshot in PowerPoint 2010
+Step 4  
+If you do not want the entire screen and just a portion of it, you can use the Screen Clipping option.
+
+
+--- SLIDE 19 ---
+Inserting a Screenshot in PowerPoint 2010
+Step 4  
+
+
+
+
+
+
+
+
+
+
+The Screen Clipping option will automatically move the focus to the program immediately below PowerPoint. 
+So while using this option, ensure that you have the right screen behind the PowerPoint program.
+
+--- SLIDE 20 ---
+Adding Shapes to Slide in PowerPoint 2010
+Step 1 
+Go to the Illustrations group under the Insert Tab.
+
+
+--- SLIDE 21 ---
+Adding Shapes to Slide in PowerPoint 2010
+Step 2
+Click on the Shapes dropdown to view the available shapes.
+
+
+--- SLIDE 22 ---
+Adding Shapes to Slide in PowerPoint 2010
+Step 3
+Select the shape you want to insert. This will change the cursor to a + sign.
+Step 4  
+Click and drag on the slide to create the shape. 
+As you drag, the shape will show up on the slide. 
+Continue to drag and adjust the size and the symmetry of the shape.
+
+
+--- SLIDE 23 ---
+Adding Shapes to Slide in PowerPoint 2010
+
+--- SLIDE 24 ---
+Editing Added Shapes in PowerPoint 2010
+
+--- SLIDE 25 ---
+Insert Shape Features
+
+--- SLIDE 26 ---
+Shape Styles Features
+
+--- SLIDE 27 ---
+Adding Text to Shapes in PowerPoint 2010
+Step 1  
+Right-click on the shape to which you want to add the text and select the Edit Text option.
+
+--- SLIDE 28 ---
+Adding Text to Shapes in PowerPoint 2010
+Step 2  
+Start typing the text into the shape. Once you are done, click the cursor anywhere outside the shape.
+
+--- SLIDE 29 ---
+Arrange Shapes/Images in PowerPoint 2010
+Step 1  
+ Select one of the contents and go the Arrange group under the Format ribbon.
+
+
+--- SLIDE 30 ---
+Arrange Shapes/Images in PowerPoint 2010
+Step 2  
+Click on the Selection Pane to open the Selection and Visibility sidebar.
+
+
+--- SLIDE 31 ---
+Arrange Shapes/Images in PowerPoint 2010
+Step 3 
+Select one of the rows in the sidebar to highlight the corresponding content in the slide.
+
+
+--- SLIDE 32 ---
+Arrange Shapes/Images in PowerPoint 2010
+Step 4 
+Use the reordering arrows in the sidebar to move the content layer up or down.
+
+
+--- SLIDE 33 ---
+Arrange Shapes/Images in PowerPoint 2010
+Step 5 
+Click on the eye next to each content in the sidebar to toggle its visibility on the slide.
+
+
+
+--- SLIDE 34 ---
+Arrange Shapes/Images in PowerPoint 2010
+Instead of using the Selection Pane option, you can also right-click on the content to move it up or down.
+
+When you right-click, besides moving the layers by one step at a time using Bring Forward or Send Backward,
+
+you can also move the content directly to the top or bottom using Bring to Front or Send to Back respectively.
+
+--- SLIDE 35 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 1  
+Select a set of shapes or objects together. To select the objects, press the Ctrl key and select each object individually.
+
+
+--- SLIDE 36 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 2  
+Go to the Arrange Group under the Format ribbon.
+
+
+
+--- SLIDE 37 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 3  
+Click on Group under the Group menu item - this will group the objects and shapes into a single object.
+
+
+
+--- SLIDE 38 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 4  
+Apply the common changes you want to make to these objects.
+
+
+
+--- SLIDE 39 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 5 
+Even though the objects are grouped, you can still edit them individually if need be.
+
+
+
+--- SLIDE 40 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 6 
+If you want to edit the shapes or objects individually, go back to the Group menu item and select Ungroup.
+
+
+
+
+--- SLIDE 41 ---
+Group/Ungroup Objects in PowerPoint 2010
+Step 7
+After making changes, if you want to regroup the objects as per original grouping, you select one of the objects and use the Regroup option under the Group menu.
+
+
+
+
+--- SLIDE 42 ---
+Adding Audio & Video in PowerPoint 2010
+Step 1
+Go to the Media group under the Insert ribbon.
+
+
+
+
+--- SLIDE 43 ---
+Adding Audio & Video in PowerPoint 2010
+Step 2
+To insert video file select Video as media type and Video from File to insert a video from your computer or hard drive.
+
+
+
+
+--- SLIDE 44 ---
+Adding Audio & Video in PowerPoint 2010
+Step 3
+ In the Insert Video dialog, browse for a video file and click Insert.
+
+
+
+
+--- SLIDE 45 ---
+Adding Audio & Video in PowerPoint 2010
+Step 4
+You will now see that a Video file is added to the slide.
+
+
+
+
+--- SLIDE 46 ---
+Adding Audio & Video in PowerPoint 2010
+Step 5
+To insert audio file select Audio as media type and Audio from File to insert an Audio from your computer or hard drive.
+
+
+
+
+--- SLIDE 47 ---
+Adding Audio & Video in PowerPoint 2010
+Step 6
+In the Insert Audio dialog, browse for an audio file and click Insert.
+
+
+
+--- SLIDE 48 ---
+Adding Audio & Video in PowerPoint 2010
+Step 7
+You will now see that an Audio file is added to the slide.
+
+
+
+
+--- SLIDE 49 ---
+Add & Format Tables PowerPoint 2010
+Step 1
+Go to the Tables group under the Insert ribbon.
+
+
+
+
+--- SLIDE 50 ---
+Add & Format Tables PowerPoint 2010
+Step 2
+Click on the dropdown and select your table dimension from the matrix.
+
+
+
+
+--- SLIDE 51 ---
+Add & Format Tables PowerPoint 2010
+Step 3
+If you require more than 10 columns or 8 rows click on "Insert Table" to open the Insert Table dialog where you can specify the column and row count..
+
+
+
+
+--- SLIDE 52 ---
+Add & Format Tables PowerPoint 2010
+
+PowerPoint table is a simple table that does not support the mathematical features of an Excel spreadsheet.
+If you want to carry out some calculations, you can insert an Excel spreadsheet instead of a regular table.
+
+
+
+
+--- SLIDE 53 ---
+Add & Format Tables PowerPoint 2010
+This will insert the spreadsheet in the slide and as long as the spreadsheet is selected, the ribbon at the top will be changed to an Excel ribbon instead of a PowerPoint one.
+
+
+
+
+--- SLIDE 54 ---
+Add & Format Charts in PowerPoint 2010
+Step 1 
+Go to the Illustrations group under the Insert ribbon.
+
+
+--- SLIDE 55 ---
+Add & Format Charts in PowerPoint 2010
+Step 2 
+Click on the Chart option to open the Insert Chart dialog. You can choose the chart category and pick individual chart types from the list.
+
+
+--- SLIDE 56 ---
+Add & Format Charts in PowerPoint 2010
+Step 3 
+Select the chart type and click OK or double-click on the chart type to insert the chart in the slide.
+
+
+--- SLIDE 57 ---
+Add & Format Charts in PowerPoint 2010
+Step 4 
+Along with the chart, an Excel spreadsheet is also launched. This spreadsheet is the source for your chart.
+
+
+--- SLIDE 58 ---
+Add & Format SmartArt in PowerPoint 2010
+Step 1 
+Go to the Illustrations group under the Insert ribbon.
+
+
+
+--- SLIDE 59 ---
+Add & Format SmartArt in PowerPoint 2010
+Step 2 
+ Click on the SmartArt command to open the Choose a SmartArt Graphic dialog.
+
+
+
+--- SLIDE 60 ---
+Add & Format SmartArt in PowerPoint 2010
+Step 3 
+Select the SmartArt type and click OK or double-click on the SmartArt type to insert the graphic in the slide..
+
+Step 4 
+The graphic is inserted in the slide along with a text pane where you can enter/ modify the SmartArt text.
+
+--- SLIDE 61 ---
+Add & Format SmartArt in PowerPoint 2010
+
+--- SLIDE 62 ---
+Add & Format SmartArt in PowerPoint 2010
+Step 5 
+Add the necessary details and close the text pane to complete the SmartArt insertion.
+
+
+--- SLIDE 63 ---
+Add & Preview Animations PowerPoint 2010
+Step 1 
+Go to the Animation ribbon and click on the Animation Pane to display the animation sidebar.
+
+
+--- SLIDE 64 ---
+Add & Preview Animations PowerPoint 2010
+Step 2 
+Select one of the objects in the slide and click on the Add Animation menu option.
+
+
+--- SLIDE 65 ---
+Add & Preview Animations PowerPoint 2010
+Step 3 
+Choose from one of the Animation options.
+
+
+
+
+    
+
+
+
+
+
+
+
+
+Entrance: will cause the object to appear in the screen.
+ Emphasis: will cause the object to emphasis without appearing or leaving the screen.
+Exit: will cause the object to disappear from the screen.
+
+
+
+--- SLIDE 66 ---
+Add & Preview Animations PowerPoint 2010
+Step 4
+Once you add the animation for an object, it will show up in the Animation pane.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 67 ---
+Add & Preview Animations PowerPoint 2010
+Step 5
+By default, all the animations are initiated by a click, but you can change this. 
+To change the trigger, right-click on the animation object on the pane and choose an alternate trigger.
+
+
+
+
+
+
+
+
+
+
+
+
+--- SLIDE 68 ---
+Add & Preview Animations PowerPoint 2010
+Step 5
+
+Start On Click will cause the animation to start when you click the mouse.
+
+Start With Previous will cause the animation to begin with the previous animation; if this is the first object, it will begin as soon as you reach the slide during the slide show.
+
+Start After Previous will cause the animation to begin after the previous animation ends.
+
+
+
+
+
+
+
+
+
+--- SLIDE 69 ---
+Add & Preview Animations PowerPoint 2010
+Step 6
+From the timing section, you can also manipulate the animation timings.
+Step 7  
+To preview the animation settings, just click Play on the animation pane.
+
+
+
+
+
+
+--- SLIDE 70 ---
+Add & Preview Transitions in PowerPoint 2010
+Step 1
+Select the slide to which you want to apply the transition.
+ Go to the Transition Scheme under the Transitions ribbon.
+
+
+
+
+
+--- SLIDE 71 ---
+Add & Preview Transitions in PowerPoint 2010
+Step 2
+Select one of the transition schemes from the list available. PowerPoint will instantly show you a preview of the scheme. 
+
+
+
+--- SLIDE 72 ---
+Add & Preview Transitions in PowerPoint 2010
+Step 4
+You can change the effects on the selected transition scheme from the Effect Options menu. 
+
+
+
+--- SLIDE 73 ---
+Add & Preview Transitions in PowerPoint 2010
+Step 5
+You can also modify the transition timing settings from the Timing section. 
+Step 6 
+To preview the slide transition, click on Preview.
+
+
+--- SLIDE 74 ---
+
+--- SLIDE 75 ---
+THANK YOU

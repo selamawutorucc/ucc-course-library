@@ -1,0 +1,168 @@
+
+--- SHEET: January ---
+ | January |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 300 |  | Income | =SUM(F5:F8) |  | Vacation 1/11-1/14 |  | 
+ | Miscellaneous | 475 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: February ---
+ | February |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 125 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 250 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: March ---
+ | March |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: April ---
+ | April |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: May ---
+ | May |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: June ---
+ | June |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: July ---
+ | July |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: August ---
+ | August |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power | 135 |  | Bonus | 175 |  |  | =F12/F11 | 
+ | Water | 30 |  | Freelance | 400 |  |  |  | 
+ | Cable/Internet | 90 |  | Other | 50 |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries | 350 |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous | 210 |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: Expenses Summary ---
+ | Expense Summary |  |  |  |  |  | 2016 |  | 
+ | ANNUAL EXPENSES (TO DATE) |  |  |  |  |  |  |  | 
+ | Item | Amount |  |  |  |  |  |  | 
+ | Rent | =January!C5+February!C5+March!C5+April!C5+May!C5+June!C5+July!C5+August!C5+September!C5+October!C5+November!C5 |  |  |  |  |  |  | 
+ | Power | =January!C6+February!C6+March!C6+April!C6+May!C6+June!C6+July!C6+August!C6+September!C6+October!C6+November!C6 |  |  |  |  |  |  | 
+ | Water | =January!C7+February!C7+March!C7+April!C7+May!C7+June!C7+July!C7+August!C7+September!C7+October!C7+November!C7 |  |  |  |  |  |  | 
+ | Cable / Internet | =January!C8+February!C8+March!C8+April!C8+May!C8+June!C8+July!C8+August!C8+September!C8+October!C8+November!C8 |  |  |  |  |  |  | 
+ | Cell Phone | =January!C9+February!C9+March!C9+April!C9+May!C9+June!C9+July!C9+August!C9+September!C9+October!C9+November!C9 |  |  |  |  |  |  | 
+ | Car Insurance | =January!C10+February!C10+March!C10+April!C10+May!C10+June!C10+July!C10+August!C10+September!C10+October!C10+November!C10 |  |  |  |  |  |  | 
+ | Groceries | =January!C11+February!C11+March!C11+April!C11+May!C11+June!C11+July!C11+August!C11+September!C11+October!C11+November!C11 |  |  |  |  |  |  | 
+ | Miscellaneous | =January!C12+February!C12+March!C12+April!C12+May!C12+June!C12+July!C12+August!C12+September!C12+October!C12+November!C12 |  |  |  |  |  |  | 
+ | Gym Membership | =January!C13+February!C13+March!C13+April!C13+May!C13+June!C13+July!C13+August!C13+September!C13+October!C13+November!C13 |  |  |  |  |  |  | 
+
+--- SHEET: September ---
+ | September |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power |  |  | Bonus |  |  |  | =F12/F11 | 
+ | Water |  |  | Freelance |  |  |  |  | 
+ | Cable/Internet | 90 |  | Other |  |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries |  |  | Income | =SUM(F5:F8) |  |  | Rent increase | 
+ | Miscellaneous |  |  | Expenses | =SUM(C5:C13) |  |  | Cancel gym membership | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: October ---
+ | October |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power |  |  | Bonus |  |  |  | =F12/F11 | 
+ | Water |  |  | Freelance |  |  |  |  | 
+ | Cable/Internet | 90 |  | Other |  |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries |  |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous |  |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 
+
+--- SHEET: November ---
+ | November |  |  |  |  |  | 2016 |  | 
+ | MONTHLY EXPENSES |  |  | MONTHLY INCOME |  |  | % OF INCOME SPENT |  | 
+ | Item | Amount |  | Item | Amount |  |  |  | 
+ | Rent | 700 |  | Salary | 2000 |  |  | =F12 | 
+ | Power |  |  | Bonus |  |  |  | =F12/F11 | 
+ | Water |  |  | Freelance |  |  |  |  | 
+ | Cable/Internet | 90 |  | Other |  |  |  |  | 
+ | Cell Phone | 90 |  |  |  |  | NOTES |  | 
+ | Car Insurance | 75 |  | SUMMARY |  |  |  |  | 
+ | Groceries |  |  | Income | =SUM(F5:F8) |  |  |  | 
+ | Miscellaneous |  |  | Expenses | =SUM(C5:C13) |  |  |  | 
+ | Gym Membership | 40 |  | Balance | =F11-F12 |  |  |  | 

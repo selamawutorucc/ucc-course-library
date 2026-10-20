@@ -1,0 +1,553 @@
+
+--- SLIDE 1 ---
+
+--- SLIDE 2 ---
+
+--- SLIDE 3 ---
+Objectives Overview
+
+--- SLIDE 4 ---
+Excel - Introduction to Formulas
+One of the most powerful features in Excel is the ability to calculate numerical information using formulas. 
+
+Just like a calculator, Excel can add, subtract, multiply, and divide. 
+
+In this lesson, we'll show you how to use cell references to create simple formulas.
+
+--- SLIDE 5 ---
+Mathematical operators
+Excel uses standard operators for formulas: a plus sign for addition (+), minus sign for subtraction (-), asterisk for multiplication (*), forward slash for division (/), and caret (^) for exponents.
+
+
+
+
+
+All formulas in Excel must begin with an equals sign (=). 
+This is because the cell contains, or is equal to, the formula and the value it calculates.
+
+
+--- SLIDE 6 ---
+Understanding cell references
+While you can create simple formulas in Excel using numbers (for example, =2+2 or =5*5), most of the time you will use cell addresses to create a formula.
+
+This is known as making a cell reference. 
+
+Using cell references will ensure that your formulas are always accurate because you can change the value of referenced cells without having to rewrite the formula.
+
+--- SLIDE 7 ---
+Understanding cell references
+In the formula below, cell A3 adds the values of cells A1 and A2 by making cell references:
+
+
+
+When you press Enter, the formula calculates and displays the answer in cell A3:
+
+
+
+
+--- SLIDE 8 ---
+Understanding cell references
+If the values in the referenced cells change, the formula automatically recalculates:
+
+
+
+--- SLIDE 9 ---
+Understanding cell references
+By combining a mathematical operator with cell references, you can create a variety of simple formulas in Excel. 
+Formulas can also include a combination of cell references and numbers, as in the examples below:
+
+--- SLIDE 10 ---
+To create a formula
+In our example below, we'll use a simple formula and cell references to calculate a budget.
+
+Select the cell that will contain the formula. In our example, we'll select cell D12.
+
+
+--- SLIDE 11 ---
+To create a formula
+Type the equals sign (=) in the formula bar. Notice how it appears in both the cell and the formula bar.
+
+--- SLIDE 12 ---
+To create a formula
+Type the cell address of the cell you want to reference first in the formula: cell D10 in our example. A blue border will appear around the referenced cell.
+
+--- SLIDE 13 ---
+To create a formula
+Type the mathematical operator you want to use. In our example, we'll type the addition sign (+).
+Type the cell address of the cell you want to reference second in the formula: cell D11 in our example. A red border will appear around the referenced cell.
+
+--- SLIDE 14 ---
+To create a formula
+Press Enter on your keyboard. The formula will be calculated, and the value will be displayed in the cell. If you select the cell again, notice that the cell displays the result, while the formula bar displays the formula.
+
+--- SLIDE 15 ---
+To create a formula
+NOTE:
+If the result of a formula is too large to be displayed in a cell, it may appear as pound signs (#######) instead of a value. 
+
+This means the column is not wide enough to display the cell content. 
+
+Simply increase the column width to show the cell content.
+
+--- SLIDE 16 ---
+Modifying values with cell references
+The true advantage of cell references is that they allow you to update data in your worksheet without having to rewrite formulas. 
+In the example below, we've modified the value of cell D10 from $1,200 to $1,800. The formula in D12 will automatically recalculate and display the new value in cell D12.
+
+
+--- SLIDE 17 ---
+To create a formula using the point-and-click method
+Instead of typing cell addresses manually, you can point and click the cells you want to include in your formula. 
+
+This method can save a lot of time and effort when creating formulas. 
+
+In our example below, we'll create a formula to calculate the cost of ordering several boxes of plastic silverware.
+
+--- SLIDE 18 ---
+To create a formula using the point-and-click method
+Select the cell that will contain the formula. In our example, we'll select cell D4.
+
+--- SLIDE 19 ---
+To create a formula using the point-and-click method
+Type the equals sign (=) in the formula bar.
+Select the cell you want to reference first in the formula: cell B4 in our example. The cell address will appear in the formula.
+
+--- SLIDE 20 ---
+To create a formula using the point-and-click method
+Type the mathematical operator you want to use. In our example, we'll type the multiplication sign (*).
+Select the cell you want to reference second in the formula: cell C4 in our example. The cell address will appear in the formula.
+
+--- SLIDE 21 ---
+To create a formula using the point-and-click method
+Press Enter on your keyboard. The formula will be calculated, and the value will be displayed in the cell.
+
+--- SLIDE 22 ---
+Copying formulas with the fill handle
+Formulas can also be copied to adjacent cells with the fill handle, which can save a lot of time and effort if you need to perform the same calculation multiple times in a worksheet. 
+
+The fill handle is the small square at the bottom-right corner of the selected cell(s).
+
+--- SLIDE 23 ---
+Copying formulas with the fill handle
+Select the cell containing the formula you want to copy. Click and drag the fill handle over the cells you want to fill.
+
+--- SLIDE 24 ---
+Copying formulas with the fill handle
+After you release the mouse, the formula will be copied to the selected cells.
+
+--- SLIDE 25 ---
+To edit a formula
+Sometimes you may want to modify an existing formula. 
+
+In the example below, we've entered an incorrect cell address in our formula, so we'll need to correct it.
+
+--- SLIDE 26 ---
+To edit a formula
+Select the cell containing the formula you want to edit. In our example, we'll select cell D12.
+
+--- SLIDE 27 ---
+To edit a formula
+Click the formula bar to edit the formula. You can also double-click the cell to view and edit the formula directly within the cell.
+
+--- SLIDE 28 ---
+To edit a formula
+A border will appear around any referenced cells. In our example, we'll change the first part of the formula to reference cell D10 instead of cell D9.
+
+--- SLIDE 29 ---
+To edit a formula
+When you're finished, press Enter on your keyboard or select the Enter command in the formula bar.
+
+--- SLIDE 30 ---
+To edit a formula
+The formula will be updated, and the new value will be displayed in the cell.
+
+--- SLIDE 31 ---
+To edit a formula
+If you change your mind, you can press the Esc key on your keyboard or click the Cancel command in the formula bar to avoid accidentally making changes to your formula.
+
+--- SLIDE 32 ---
+Excel - Creating More Complex Formulas
+You may have experience working with formulas that contain only one operator, like 7+9. 
+
+More complex formulas can contain several mathematical operators, like 5+2*8. 
+
+When there's more than one operation in a formula, the order of operations tells Excel which operation to calculate first. 
+
+To write formulas that will give you the correct answer, you'll need to understand the order of operations.
+
+--- SLIDE 33 ---
+The order of operations
+Excel calculates formulas based on the following order of operations:
+
+Operations enclosed in parentheses
+Exponential calculations (3^2, for example)
+Multiplication and division, whichever comes first
+Addition and subtraction, whichever comes first
+
+A mnemonic that can help you remember the order is PEMDAS, or Please Excuse My Dear Aunt Sally.
+
+--- SLIDE 34 ---
+The order of operations
+Excel calculates formulas based on the following order of operations:
+
+Operations enclosed in parentheses
+Exponential calculations (3^2, for example)
+Multiplication and division, whichever comes first
+Addition and subtraction, whichever comes first
+
+A mnemonic that can help you remember the order is PEMDAS, or Please Excuse My Dear Aunt Sally.
+
+--- SLIDE 35 ---
+The order of operations
+What is the final answer in the expression below?
+
+
+--- SLIDE 36 ---
+The order of operations
+
+--- SLIDE 37 ---
+Creating complex formulas
+In the example below, we'll demonstrate how Excel uses the order of operations to solve a more complex formula. 
+
+Here, we want to calculate the cost of sales tax for a catering invoice. 
+
+To do this, we'll write our formula as =(D3+D4+D5)*0.075 in cell D6. 
+
+This formula will add the prices of our items, then multiply that value by the 7.5% tax rate (which is written as 0.075) to calculate the answer.
+
+--- SLIDE 38 ---
+Creating complex formulas
+
+
+
+
+
+
+Excel follows the order of operations and first adds the values inside the parentheses: (45.80+68.70+159.60) = 274.10. 
+
+It then multiplies that value by the tax rate: 274.10*0.075. The result will show that the sales tax is $20.56.
+
+
+--- SLIDE 39 ---
+Creating complex formulas
+
+The result will show that the sales tax is $20.56.
+
+
+--- SLIDE 40 ---
+Creating complex formulas
+It's especially important to follow the order of operations when creating a formula. Otherwise, Excel won't calculate the results accurately. In our example, if the parentheses are not included, the multiplication is calculated first and the result is incorrect. Parentheses are often the best way to define which calculations will be performed first in Excel.
+
+--- SLIDE 41 ---
+To create a complex formula using the order of operations
+In the example below, we'll use cell references along with numerical values to create a complex formula that will calculate the subtotal for a catering invoice. 
+
+The formula will calculate the cost of each menu item first, then add these values.
+
+
+
+--- SLIDE 42 ---
+To create a complex formula using the order of operations
+Select the cell that will contain the formula. In our example, we'll select cell C5.
+
+--- SLIDE 43 ---
+To create a complex formula using the order of operations
+Enter your formula. In our example, we'll type =B3*C3+B4*C4. This formula will follow the order of operations, first performing the multiplication: 2.79*35 = 97.65 and 2.29*20 = 45.80. It then will add these values to calculate the total: 97.65+45.80.
+
+--- SLIDE 44 ---
+To create a complex formula using the order of operations
+Double-check your formula for accuracy, then press Enter on your keyboard. The formula will calculate and display the result. In our example, the result shows that the subtotal for the order is $143.45.
+
+--- SLIDE 45 ---
+To create a complex formula using the order of operations
+You can add parentheses to any equation to make it easier to read. While it won't change the result of the formula in this example, we could enclose the multiplication operations within parentheses to clarify that they will be calculated before the addition.
+
+
+--- SLIDE 46 ---
+Excel - Relative and Absolute Cell References
+There are two types of cell references: relative and absolute. 
+
+Relative and absolute references behave differently when copied and filled to other cells. 
+
+Relative references change when a formula is copied to another cell. 
+
+Absolute references, on the other hand, remain constant no matter where they are copied.
+
+--- SLIDE 47 ---
+Relative references
+By default, all cell references are relative references. 
+When copied across multiple cells, they change based on the relative position of rows and columns.
+
+For example, if you copy the formula =A1+B1 from row 1 to row 2, the formula will become =A2+B2.
+
+Relative references are especially convenient whenever you need to repeat the same calculation across multiple rows or columns.
+
+--- SLIDE 48 ---
+To create and copy a formula using relative references
+In the following example, we want to create a formula that will multiply each item's price by the quantity. 
+
+Instead of creating a new formula for each row, we can create a single formula in cell D4 and then copy it to the other rows. 
+
+We'll use relative references so the formula calculates the total for each item correctly.
+
+--- SLIDE 49 ---
+To create and copy a formula using relative references
+Select the cell that will contain the formula. In our example, we'll select cell D4.
+
+--- SLIDE 50 ---
+To create and copy a formula using relative references
+Enter the formula to calculate the desired value. In our example, we'll type =B4*C4.
+
+--- SLIDE 51 ---
+To create and copy a formula using relative references
+Press Enter on your keyboard. The formula will be calculated, and the result will be displayed in the cell.
+Locate the fill handle in the bottom-right corner of the desired cell. In our example, we'll locate the fill handle for cell D4.
+
+--- SLIDE 52 ---
+To create and copy a formula using relative references
+Click and drag the fill handle over the cells you want to fill. In our example, we'll select cells D5:D13.
+
+--- SLIDE 53 ---
+To create and copy a formula using relative references
+Release the mouse. The formula will be copied to the selected cells with relative references, displaying the result in each cell.
+
+--- SLIDE 54 ---
+To create and copy a formula using relative references
+You can double-click the filled cells to check their formulas for accuracy. The relative cell references should be different for each cell, depending on their rows.
+
+--- SLIDE 55 ---
+Absolute references
+There may be a time when you don't want a cell reference to change when copied to other cells.
+
+Unlike relative references, absolute references do not change when copied or filled. 
+
+You can use an absolute reference to keep a row and/or column constant.
+
+An absolute reference is designated in a formula by the addition of a dollar sign ($). 
+
+It can precede the column reference, the row reference, or both.
+
+
+--- SLIDE 56 ---
+Absolute references
+
+
+
+
+You will generally use the $A$2 format when creating formulas that contain absolute references. The other two formats are used much less frequently.
+
+When writing a formula, you can press the F4 key on your keyboard to switch between relative and absolute cell references, 
+
+--- SLIDE 57 ---
+To create and copy a formula using absolute references
+In the example below, we'll use cell E2 (which contains the tax rate of 7.5%) to calculate the sales tax for each item in column D. 
+
+To make sure the reference to the tax rate stays constant—even when the formula is copied and filled to other cells—we'll need to make cell $E$2 an absolute reference.
+
+--- SLIDE 58 ---
+To create and copy a formula using absolute references
+Select the cell that will contain the formula. In our example, we'll select cell D4.
+
+--- SLIDE 59 ---
+To create and copy a formula using absolute references
+Enter the formula to calculate the desired value. In our example, we'll type =(B4*C4)*$E$2, making $E$2 an absolute reference.
+
+--- SLIDE 60 ---
+To create and copy a formula using absolute references
+Press Enter on your keyboard. The formula will calculate, and the result will display in the cell.
+Locate the fill handle in the bottom-right corner of the desired cell. In our example, we'll locate the fill handle for cell D4.
+
+--- SLIDE 61 ---
+To create and copy a formula using absolute references
+Click and drag the fill handle over the cells you want to fill (cells D5:D13 in our example).
+
+--- SLIDE 62 ---
+To create and copy a formula using absolute references
+Release the mouse. The formula will be copied to the selected cells with an absolute reference, and the values will be calculated in each cell.
+
+--- SLIDE 63 ---
+To create and copy a formula using absolute references
+You can double-click the filled cells to check their formulas for accuracy. The absolute reference should be the same for each cell, while the other references are relative to the cell's row.
+
+--- SLIDE 64 ---
+To create and copy a formula using absolute references
+Be sure to include the dollar sign ($) whenever you're making an absolute reference across multiple cells. The dollar signs were omitted in the example below. This caused Excel to interpret it as a relative reference, producing an incorrect result when copied to other cells.
+
+--- SLIDE 65 ---
+Excel - Functions
+A function is a predefined formula that performs calculations using specific values in a particular order. 
+
+Excel includes many common functions that can be used to quickly find the sum, average, count, maximum value, and minimum value for a range of cells. 
+
+In order to use functions correctly, you'll need to understand the different parts of a function and how to create arguments to calculate values and cell references.
+
+--- SLIDE 66 ---
+The parts of a function
+In order to work correctly, a function must be written a specific way, which is called the syntax. The basic syntax for a function is the equals sign (=), the function name (SUM, for example), and one or more arguments. Arguments contain the information you want to calculate. The function in the example below would add the values of the cell range A1:A20.
+
+--- SLIDE 67 ---
+Working with arguments
+Arguments can refer to both individual cells and cell ranges and must be enclosed within parentheses. You can include one argument or multiple arguments, depending on the syntax required for the function.
+For example, the function =AVERAGE(B1:B9) would calculate the average of the values in the cell range B1:B9. This function contains only one argument.
+
+
+--- SLIDE 68 ---
+Working with arguments
+Multiple arguments must be separated by a comma. For example, the function =SUM(A1:A3, C1:C2, E1) will add the values of all of the cells in the three arguments.
+
+--- SLIDE 69 ---
+Creating a function
+There are a variety of functions available in Excel. Here are some of the most common functions you'll use:
+
+SUM: This function adds all of the values of the cells in the argument.
+
+AVERAGE: This function determines the average of the values included in the argument. It calculates the sum of the cells and then divides that value by the number of cells in the argument.
+
+COUNT: This function counts the number of cells with numerical data in the argument. This function is useful for quickly counting items in a cell range.
+
+MAX: This function determines the highest cell value included in the argument.
+
+MIN: This function determines the lowest cell value included in the argument.
+
+--- SLIDE 70 ---
+To create a function using the AutoSum command
+The AutoSum command allows you to automatically insert the most common functions into your formula, including SUM, AVERAGE, COUNT, MAX, and MIN. 
+
+In the example below, we'll use the SUM function to calculate the total cost for a list of recently ordered items.
+
+--- SLIDE 71 ---
+To create a function using the AutoSum command
+Select the cell that will contain the function. In our example, we'll select cell D13.
+
+--- SLIDE 72 ---
+To create a function using the AutoSum command
+In the Editing group on the Home tab, click the arrow next to the AutoSum command. Next, choose the desired function from the drop-down menu. In our example, we'll select Sum.
+
+--- SLIDE 73 ---
+To create a function using the AutoSum command
+Excel will place the function in the cell and automatically select a cell range for the argument. In our example, cells D3:D12 were selected automatically; their values will be added to calculate the total cost. If Excel selects the wrong cell range, you can manually enter the desired cells into the argument.
+
+--- SLIDE 74 ---
+To create a function using the AutoSum command
+Press Enter on your keyboard. The function will be calculated, and the result will appear in the cell. In our example, the sum of D3:D12 is $765.29.
+
+--- SLIDE 75 ---
+To create a function using the AutoSum command
+The AutoSum command can also be accessed from the Formulas tab on the Ribbon.
+
+
+
+
+
+
+
+You can also use the Alt+= keyboard shortcut instead of the AutoSum command. 
+
+To use this shortcut, hold down the Alt key and then press the equals sign.
+
+--- SLIDE 76 ---
+To enter a function manually
+If you already know the function name, you can easily type it yourself. 
+
+In the example below (a tally of cookie sales), we'll use the AVERAGE function to calculate the average number of units sold by each troop.
+
+--- SLIDE 77 ---
+To enter a function manually
+Select the cell that will contain the function. In our example, we'll select cell C10.
+
+--- SLIDE 78 ---
+To enter a function manually
+Type the equals sign (=), then enter the desired function name. 
+You can also select the desired function from the list of suggested functions that appears below the cell as you type. In our example, we'll type =AVERAGE.
+
+--- SLIDE 79 ---
+To enter a function manually
+Enter the cell range for the argument inside parentheses. 
+In our example, we'll type (C3:C9). This formula will add the values of cells C3:C9, then divide that value by the total number of values in the range.
+
+--- SLIDE 80 ---
+To enter a function manually
+Press Enter on your keyboard. The function will be calculated, and the result will appear in the cell. In our example, the average number of units sold by each troop is 849.
+
+--- SLIDE 81 ---
+The Function Library
+While there are hundreds of functions in Excel, the ones you'll use the most will depend on the type of data your workbooks contain. 
+
+There's no need to learn every single function, but exploring some of the different types of functions will help as you create new projects. 
+
+You can even use the Function Library on the Formulas tab to browse functions by category, including Financial, Logical, Text, and Date & Time.
+
+--- SLIDE 82 ---
+The Function Library
+To access the Function Library, select the Formulas tab on the Ribbon. Look for the Function Library group.
+
+--- SLIDE 83 ---
+To insert a function from the Function Library
+
+In the example below, we'll use the COUNTA function to count the total number of items in the Items column. 
+
+Unlike COUNT, COUNTA can be used to tally cells that contain data of any kind, not just numerical data.
+
+--- SLIDE 84 ---
+To insert a function from the Function Library
+Select the cell that will contain the function. In our example, we'll select cell B17.
+
+--- SLIDE 85 ---
+To insert a function from the Function Library
+Click the Formulas tab on the Ribbon to access the Function Library.
+From the Function Library group, select the desired function category. In our example, we'll choose More Functions, then hover the mouse over Statistical.
+
+--- SLIDE 86 ---
+To insert a function from the Function Library
+Select the desired function from the drop-down menu. In our example, we'll select the COUNTA function, which will count the number of cells in the Items column that are not empty.
+
+--- SLIDE 87 ---
+To insert a function from the Function Library
+The Function Arguments dialog box will appear. Select the Value1 field, then enter or select the desired cells. In our example, we'll enter the cell range A3:A12. You can continue to add arguments in the Value2 field, but in this case we only want to count the number of cells in the cell range A3:A12.
+When you're satisfied, click OK.
+
+--- SLIDE 88 ---
+To insert a function from the Function Library
+The function will be calculated, and the result will appear in the cell. In our example, the result shows that 10 items were ordered.
+
+--- SLIDE 89 ---
+To use the Insert Function command
+In the example below, we want to find a function that will calculate the number of business days it took to receive items after they were ordered. 
+
+We'll use the dates in columns E and F to calculate the delivery time in column G.
+
+--- SLIDE 90 ---
+To use the Insert Function command
+Select the cell that will contain the function. In our example, we'll select cell G3.
+
+--- SLIDE 91 ---
+To use the Insert Function command
+Click the Formulas tab on the Ribbon, then click the Insert Function command.
+
+--- SLIDE 92 ---
+To use the Insert Function command
+The Insert Function dialog box will appear.
+Type a few keywords describing the calculation you want the function to perform, then click Go. In our example, we'll type count days, but you can also search by selecting a category from the drop-down list.
+
+--- SLIDE 93 ---
+To use the Insert Function command
+Review the results to find the desired function, then click OK. 
+In our example, we'll choose NETWORKDAYS, which will count the number of business days between the ordered date and received date.
+
+--- SLIDE 94 ---
+To use the Insert Function command
+The Function Arguments dialog box will appear. From here, you'll be able to enter or select the cells that will make up the arguments in the function. In our example, we'll enter E3 in the Start_date field and F3 in the End_date field.
+When you're satisfied, click OK.
+
+--- SLIDE 95 ---
+To use the Insert Function command
+The function will be calculated, and the result will appear in the cell. In our example, the result shows that it took four business days to receive the order.
+
+--- SLIDE 96 ---
+To use the Insert Function command
+Like formulas, functions can be copied to adjacent cells. Simply select the cell that contains the function, then click and drag the fill handle over the cells you want to fill. The function will be copied, and values for those cells will be calculated relative to their rows or columns.
+
+--- SLIDE 97 ---
+
+--- SLIDE 98 ---
+THANK YOU

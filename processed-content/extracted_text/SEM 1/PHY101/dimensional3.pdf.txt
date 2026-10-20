@@ -1,0 +1,930 @@
+
+--- PAGE 1 ---
+Printed from ﬁle Manuscripts/dimensional3.tex on October 12, 2004
+Dimensional Analysis
+Robert Gilmore
+Physics Department, Drexel University, Philadelphia, PA
+19104
+We will learn the methods of dimensional analysis through a number of simple examples
+of slightly increasing interest (read: complexity). These examples will involve the use of the
+linalg package of Maple, which we will use to invert matrices, compute their null subspaces, and
+reduce matrices to row echelon (Gauss Jordan) canonical form. Dimensional analysis, powerful
+though it is, is only the tip of the iceberg. It extends in a natural way to ideas of symmetry
+and general covariance (‘what’s on one side of an equation is the same as what’s on the other’).
+Example 1a - Period of a Pendulum: Suppose we need to compute the period of a
+pendulum. The length of the pendulum is l, the mass at the end of the pendulum bob is m,
+and the earth’s gravitational constant is g. The length l is measured in cm, the mass m is
+measured in gm, and the gravitational constant g is measured in cm/sec2. The period τ is
+measured in sec. The only way to get something whose dimensions are sec from m, g, and l is
+to divide l by g, and take the square root:
+[τ] = [
+p
+l/g] = [cm/(cm/sec2)]1/2 = [sec2]1/2 = sec
+(1)
+In this equation, the symbol [x] is read ‘the dimensions of x are · · · ’. As a result of this simple
+(some would say ‘sleazy’) computation, we realize that the period τ is proportional to
+p
+l/g
+up to some numerical factor which is usually O(1): in plain English, of order 1. Dimensional
+analysis is usually accurate to 2±1, it is never oﬀby more than (2π)±1.
+Example 1b - Frequency of Harmonic Oscillator: A mass m is attached to a spring
+with spring constant k.
+Find the resonance frequency.
+Mass m is measured in gm, [k] =
+gm/sec2. The only way to get something with the dimensions of frequency ([ν] = sec−1) is to
+construct
+p
+k/m. Therefore ν =
+p
+k/m. If we asked for the angular frequency ω we would get
+the same result. Since ω = 2πν, there is a factor 2π diﬀerence between the results of the two
+analyses.
+Example 2a - Hydrogen Atom: We would like to estimate the length scale of atomic
+dimensions ‘out of thin air’. The electron, of mass m ‘orbits around’ the proton and interacts
+with it through the charge interaction, proportional to e2. The motion is quantized in terms
+of Planck’s constant ¯h. Can we construct something with the dimensions of length from m,
+e2, and ¯h? Mass is measured in gm. The dimensions of the charge coupling e2 are determined
+by recognizing that e2/r is a (potential) energy, with dimensions M 1L2T −2.
+We will use
+capital letters M, L, and T to characterize the three independent dimensional ‘directions’. As
+a result, the charge coupling e2 has dimensions ML3T −2 and is measured in gm(cm)3/sec2.
+The quantum of action ¯h has dimensions [¯h] = ML2T −1. Since we want to combine these three
+fundamental quantities in such a way as to construct something with the dimensions of length,
+we introduce three unknown exponents a, b, and c and write
+ma (e2)b ¯hc = (M)a (ML3T −2)b (ML2T −1)c = (M)a+b+c L0a+3b+2c T 0a−2b−c
+(2)
+1
+
+--- PAGE 2 ---
+and set this result equal to the dimensions of whatever we would like to compute, in this case
+the Bohr orbit a0 (characteristic atomic length). This results in a matrix equation
+
+
+1
+1
+1
+0
+3
+2
+0
+−2
+−1
+
+
+
+
+a
+b
+c
+
+=
+
+
+0
+1
+0
+
+
+(3)
+We can invert this matrix with the callup inverse to ﬁnd
+
+
+1
+1
+1
+0
+3
+2
+0
+−2
+−1
+
+
+−1
+=
+
+
+1
+−1
+−1
+0
+−1
+−2
+0
+2
+3
+
+
+(4)
+This allows us to determine the values of the exponents which provide the appropriate combi-
+nations of dimensions to construct the characteristic atomic length:
+
+
+a
+b
+c
+
+=
+
+
+1
+−1
+−1
+0
+−1
+−2
+0
+2
+3
+
+
+
+
+0
+1
+0
+
+=
+
+
+−1
+−1
+2
+
+
+(5)
+This result tells us that
+a0 ∼m−1(e2)−1(¯h)2 = ¯h2/me2 ∼10−8 cm
+(6)
+To construct a characteristic atomic time, we can replace the vector col[0, 1, 0] in equation (5)
+by the vector col[0, 0, 1], giving us the result τ0 ∼¯h3/m(e2)2. Finally, to get a characteristic
+energy, we can form the combination E ∼ML2T −2 = m(¯h2/me2)2(¯h3/me4)−2 = me4/¯h2.
+Another, and more systematic, way to get this result is to substitute the vector col[1, 2, −2] in
+equation (5).
+Example 2b - Hydrogen Atom, Another Way: In the previous example we saw that
+all the interesting stuﬀoccurred in the powers. Once we set up the products and combined the
+powers of the various dimensions, we got linear equations which we could solve using Maple (or
+other). We could jump directly to linear analyses simply by taking logarithms. This brings the
+powers down to earth, so to speak. The only problem is that we wind up with strange looking
+creatures like log L: for example, log e2 = log(ML3T −2) = 1 log M + 3 log L −2 log T. How to
+interpret these creatures? The easiest way is to stretch the imagination and to consider log M,
+log L, and log T as basis vectors in a three dimensional space of (exponents of) dimensions.
+Using this interpretation we can write the relation between the physical constants m, e2, ¯h and
+the dimensions M, L, and T in this logical form
+ log m
+log e2
+log ¯h 
+=
+ log M
+log L
+log T 
+
+
+1
+1
+1
+0
+3
+2
+0
+−2
+−1
+
+
+(7)
+The inversion works as before, and we ﬁnd
+ log M
+log L
+log T 
+=
+ log m
+log e2
+log ¯h 
+
+
+1
+−1
+−1
+0
+−1
+−2
+0
+2
+3
+
+
+(8)
+To determine characteristic length, time, and energy scales, simply multiply on the right by
+the column vectors col[0, 1, 0], col[0, 0, 1], and col[1, 2, −2].
+2
+
+--- PAGE 3 ---
+Example 3a - Hydrogen Atom:
+A More Sophisticated Approach: While the
+method described above is eﬀective, it involves computing a matrix inverse. Here is another
+method which is even easier. We will compute the energy E for the hydrogen atom by ad-
+joining E to the list of fundamental constants, and then trying to construct a dimensionless
+combination of constants involving E, m, e2, and ¯h. We have
+ log E
+log m
+log e2
+log ¯h 
+=
+ log M
+log L
+log T 
+
+
+1
+1
+1
+1
+2
+0
+3
+2
+−2
+0
+−2
+−1
+
+
+(9)
+Next, we look for a null vector of this matrix. This is easily found using the call nullspace.
+The result is col[−1, 1, 2, −2]. The 3 × 4 matrix above annihilates this vector. This means
+ log E
+log m
+log e2
+log ¯h 
+
+
+−1
+1
+2
+−2
+
+= 0
+(10)
+In short, E−1m1(e2)2(¯h)−2 ∼1, and as before E ≃me4/¯h2.
+Example 3b - Hydrogen Masterpiece - with all the interesting quantities: We
+now set up the dimensional analysis computation in its ﬁnal elegant formulation. We do this
+by computing the characteristic Bohr size (a0), energy (E), and time (τ) scales for the nonrel-
+ativistic hydrogen atom. We do this by adjoining the formal logs of these guys to our list of
+nonrelativistic fundamental constants for the hydrogen atom. In the relations which follow we
+omit the ‘log’ expressions: including them caused the equation to run oﬀthe edge of the page.
+ a0
+E
+τ
+m
+e2
+¯h 
+=
+ M
+L
+T 
+
+
+0
+1
+0
+1
+1
+1
+1
+2
+0
+0
+3
+2
+0
+−2
+1
+0
+−2
+−1
+
+
+(11)
+Next, we ask for the null vectors of the 3 × 6 matrix. There are three: col[−1, −1, 0, 0, 1, 0],
+col[2, −1, −2, 1, 0, 0], and col[0, −1, −1, 0, 0, 1]. Each null vector deﬁnes a diﬀerent dimensionless
+product. These three dimensionless products yield a0E = e2, ma2
+0 = Eτ 2, and Eτ = ¯h. However,
+what we would really like is to have each of the dimensionless products involve only one of the
+three quantities a0, E, and τ. This is possible if the three basis vectors in the null space each
+involves only one of the three physical quantities E, a0, and τ. In fact, even more preferable
+would be if the coeﬃcient of each of these would be +1. In other words, it would be nice to
+have the basis vectors in the null space chosen in row echelon form. The callup to gaussjord
+does precisely this.
+Here is how we implement this. Basis vectors for the nullspace are computed by the call to
+nullspace. The three basis vectors in the output are stacked into a 3 × 6 matrix
+B5 =
+
+
+−1
+−1
+0
+0
+1
+0
+2
+−1
+−2
+1
+0
+0
+0
+−1
+−1
+0
+0
+1
+
+
+(12)
+The callup gaussjord(B5) returns the desired basis vectors
+
+
+1
+0
+0
+1
+1
+−2
+0
+1
+0
+−1
+−2
+2
+0
+0
+1
+1
+2
+−3
+
+
+(13)
+3
+
+--- PAGE 4 ---
+From the ﬁrst row we learn a0m1(e2)1¯h−2 is dimensionless, so that a0 = ¯h2/me2. In the same
+way, from the second row we learn E = me4/¯h2, and τ = ¯h3/me4.
+Example 4 - Classical Electrodynamics: Quantum theories involve the fundamental
+constants m, e2, and ¯h. Classical theories do not involve the quantum of action ¯h, but relativistic
+classical theories (Classical Electrodynamics) do involve the speed of light c, with [c] = LT −1.
+We can repeat the calculations above, but on the classical level. We ﬁnd
+ r0
+E
+τ
+m
+e2
+c 
+=
+ M
+L
+T 
+
+
+0
+1
+0
+1
+1
+0
+1
+2
+0
+0
+3
+1
+0
+−2
+1
+0
+−2
+−1
+
+
+(14)
+The three null vectors are computed as before.
+
+
+−1
+−1
+0
+0
+1
+0
+2
+−1
+−2
+1
+0
+0
+−1
+0
+1
+0
+0
+1
+
+
+(15)
+The row echelon form is also computed as before.
+As a last modiﬁcation of this machine
+for computing appropriate products of fundamental coupling constants, we multiply the row
+echelon matrix by −1 using the callup scalarmul(“, −1). Then the powers of the coupling
+constants are simply read oﬀthe resulting matrix: In reduced row echelon form, null basis
+vectors are
+
+
+−1
+0
+0
+−1
+1
+−2
+0
+−1
+0
+1
+0
+2
+0
+0
+−1
+−1
+1
+−3
+
+
+(16)
+From the ﬁrst row we see directly that a0 = m−1(e2)1c−2 = e2/mc2. This is the classical radius
+of the electron, which is obtained by equating the energy stored in its electromagnetic ﬁeld,
+e2/r0, with its rest energy, mc2. From the second row we learn E = mc2. From the third row
+we ﬁnd τ = e2/mc3. This is the time it takes light, moving at c, to go a distance equal to the
+classical radius of the electron e2/mc2.
+Example 5 - Quantum Gravity and Planck Scales: Any theory which involves gravi-
+tation, quantum mechanics, and relativity must deal with the three fundamental constants G,
+¯h, and c. We ask: What are the fundamental units of length, time, energy, and mass in such a
+theory. These are called the Planck scales. By now the dimensional analysis program has been
+reduced to this boring algorithm.
+First, set up the formal matrix equation relating the logs of the physical units to the logs
+of the dimensions
+
+m
+a0
+τ
+E
+G
+¯h
+c
+
+=
+
+M
+L
+T
+
+
+
+1
+0
+0
+1
+−1
+1
+0
+0
+1
+0
+2
+3
+2
+1
+0
+0
+1
+−2
+−2
+−1
+−1
+
+
+(17)
+The four null vectors are
+
+
+−1
+−2
+2
+1
+0
+0
+0
+−1
+−2
+1
+0
+0
+1
+0
+1
+−3
+2
+0
+1
+0
+0
+0
+−1
+1
+0
+0
+0
+1
+
+
+(18)
+4
+
+--- PAGE 5 ---
+The row echelon form is
+
+
+−1
+0
+0
+0
+−1
+2
+1
+2
+1
+2
+0
+−1
+0
+0
+1
+2
+1
+2
+−3
+2
+0
+0
+−1
+0
+1
+2
+1
+2
+−5
+2
+0
+0
+0
+−1
+−1
+2
+1
+2
+5
+2
+
+
+(19)
+As a result, we read oﬀdirectly from this row echelon matrix
+m
+≃
+p
+¯hc/G
+a0
+≃
+p
+G¯h/c3
+τ
+≃
+p
+G¯h/c5
+E
+≃
+p
+¯hc5/G
+(20)
+Example 6 - Fundamental Dimensionless Ratios: So far we have concentrated on
+constructing physical quantities (a0, E, τ) from the fundamental constants. We have introduced
+four: e2, ¯h, c, G and chosen various subsets of them to describe quantum theories (m, e2, ¯h), clas-
+sical theories (m, e2, c), and quantum gravity (G, ¯h, c). Since there are four fundamental con-
+stants but the dimension space is only three dimensional, with basis vectors log M, log L, log T,
+then the four interaction constants cannot all be independent. There must be some linear re-
+lation among their exponents. Put another way, there must be some product of the four which
+is dimensionless. We compute this product now.
+ e2
+¯h
+c
+G 
+=
+ M
+L
+T 
+
+
+1
+1
+0
+−1
+3
+2
+1
+3
+−2
+−1
+−1
+−2
+
+
+(21)
+The null space is one dimensional, spanned by col[−1, 1, 1, 0]. This means that the product
+(e2)−1¯hc = 1/α is dimensionless. The ratio α = e2/¯hc is called the ﬁne structure constant. It
+is the most accurately measured of all the known dimensionless physical constants. Its value
+is α = 1/137.03608 . . . . Since α is small, α ≃0.007.., it is very useful to make perturbation
+expansions in powers of α. They converge ‘quickly’. This is why Quantum Electrodynamics
+has been so successful in predicting the behavior of charged particles interacting with radiation.
+Summary of Results: In Table 1 we summarize the expressions for important physi-
+cal quantities, mass (m), length (a0), time (τ), momentum (p), and energy (E), as well as
+approximate numerical values, for the three diﬀerent physical theories treated above.
+Summary of Algorithm: Introduce the k1 fundamental units for the problem (e.g.,
+M, L, T). Introduce the k3 constants which deﬁne the physics (e.g., G, e2, ¯h, c). List the k2
+variables which are to be estimated (e.g., m, a0, τ, p, E). Create a k1 ×(k2 +k3) matrix in which
+each column describes the powers of the corresponding variable or physical constant in terms
+of the k1 fundamental dimensions. The matrix has the structure
+m
+a0
+τ
+p
+E
+G
+e2
+¯h
+c
+M
+1
+1
+L
+1
+2
+T
+−1
+−2
+(22)
+5
+
+--- PAGE 6 ---
+Table 1:
+Expressions and numerical values for mass, length, time, momentum, and en-
+ergy scales in Nonrelativistic Quantum Mechanics, Classical Electrodynamics, and Quan-
+tum Gravity, as determined from dimensional analysis.
+Inputs:
+me = 0.911 × 10−27gm,
+e2 = 2.308 × 10−19gm cm3/sec2, ¯h = 1.055 × 10−27gm cm2/sec, c = 2.9929 × 1010cm/sec,
+G = 6.672 × 10−8cm3/gm sec2.
+Symbol
+Non −Rel.
+Rel.
+Classical
+Quantum
+Gravo−
+Units
+Q.M.
+Q.M
+E.D.
+Gravity
+Dynamics
+m, e2, ¯h
+m, ¯h, c
+m, e2, c
+G, ¯h, c
+G, e2, c
+m
+m
+m
+m
+p
+¯hc/G
+p
+e2/G
+a0
+¯h2/me2
+¯h/mc
+e2/mc2
+p
+G¯h/c3
+√
+Ge2/c2
+τ
+¯h3/me4
+¯h/mc2
+e2/mc3
+p
+G¯h/c5
+√
+Ge2/c3
+p
+me2/¯h
+mc
+mc
+p
+¯hc3/G
+p
+e2/Gc
+E
+me4/¯h2
+mc2
+mc2
+p
+¯hc5/G
+p
+e2/Gc2
+[m] = gm
+9.1 −28
+9.1 −28
+9.1 −28
+2.8 −05
+1.9 −06
+[a0] = cm
+5.3 −09
+3.9 −11
+2.8 −13
+1.6 −33
+1.4 −34
+[τ] = sec
+2.4 −17
+1.3 −21
+9.4 −24
+5.3 −44
+4.2 −45
+[p] = gm cm/sec
+2.0 −19
+2.7 −17
+2.7 −17
+6.5 + 05
+5.6 + 04
+[E] = gm cm2/sec2
+4.4 −11
+8.2 −07
+8.2 −07
+2.0 + 16
+1.7 + 15
+Compute the nullspace of this matrix. This is done with the callup nullspace. Every vector
+in this space deﬁnes a dimensionless product. Put the null basis into canonical row echelon
+form. This is done with the callup gaussjord. Then multiply this matrix by −1 using the
+callup scalarmul(“, −1) Then, if the rank of the k1 × k3 submatrix is maximal (= k1), each
+of the ﬁrst k2 row echelon null basis vectors involves only one of the physical variables from
+the subset with k2 entries, as well as some or all the physical constants from the subset with
+k3 elements. Exponents for the powers of the k3 coupling constants in the expressions for the
+k2 physical variables are then simply read from the resulting matrix. Any remaining null basis
+vectors describe dimensionless products of the k3 input physical constants.
+Example 7 - Stefan-Boltzmann Constant σ: Shortly after Maxwell proposed the equa-
+tions of electrodynamics, Boltzmann studied a Carnot engine in which the working ﬂuid was
+not a gas, but electromagnetic radiation at thermodynamic equilibrium at temperature T. He
+showed that the energy density of this radiation is proportional to the fourth power of the
+temperature: u(T) ∼T 4 (erg/cm3). From there it was a short step to show that black bodies
+radiated energy at a rate σT 4 per unit time per unit area. The constant σ had been experi-
+mentally determined by Stefan. Estimate σ.
+This problem involves radiation (c), quantum mechanics (¯h), and statistical mechanics (k =
+1.38066 × 10−16 erg/oK) (K = degree Kelvin).
+The dimensions of the Stefan-Boltzmann
+constant σ are determined from [σT 4] = ML2T −2/(T × L2), so that [σ] = M 1T −3K−4. The
+6
+
+--- PAGE 7 ---
+dimension matrix is
+σ
+c
+¯h
+k
+M
+1
+0
+1
+1
+L
+0
+1
+2
+2
+T
+−3
+−1
+−1
+−2
+K
+−4
+0
+0
+−1
+(23)
+The null vector is col[−1, −2, −3, +4], so that σ ≃k4/c2¯h3 = 3.4 × 10−5erg cm−2 sec−1 K−4.
+In fact,
+σ = π4
+60
+k4
+c2¯h3 = 5.670 × 10−5
+ergs
+cm2 sec K4
+A lot of exciting physics goes into the computation of the numerical factor π4/60 = 1.6235.
+Example 8 - Water Waves: A surface typically separates two ﬂuids which have diﬀerent
+densities, such as air and water. The propagation of waves along the interface between the two
+ﬂuids is governed by some sort of (complicated) wave equation. Wave equations always have
+the structure
+(Diﬀerential Operator in x) ψ(x, t) −1
+v2
+∂2
+∂t2 ψ(x, t) = Forcing Term
+Here v is the phase velocity.
+If ω is the angular frequency (ω = 2πν) and k is the wave
+number (k = 2π/λ, λ = wavelength), then λν = v. A dispersion relation relates ω with k.
+Dispersion relations take the form ω2 = ω2(k). A dispersion relation can be obtained by the
+usual straategem of writing ψ(x, t) ∼φ(x)eiωt and substitution into a wave equation. Then the
+dispersion relation assumes the form ω2(k) = v2g(k) or more simply ω2(k) = f(k).
+At an air-ﬂuid interface, we consider the competition between waves in which the dominant
+restoring force is gravity and those for which the dominant restoring force is surface tension.
+The important parameters are
+Angular Frequency
+ω = 2πν
+T −1
+Wave Number
+k = 2π/λ
+L−1
+Gravitational Acceleration
+g
+LT −2
+Density
+ρ
+ML−3
+Surface Tension
+σ
+MT −2
+Kinematic Surface Tension
+σ/ρ
+L3T −2
+Viscosity
+µ
+ML−1T −1
+Kinematic Viscosity
+ν = µ/ρ
+L2T −1
+In the gravity wave limit the acceleration is independent of the density. The only parameters
+which are important are ω, k, and g. In this limit ω2 ∼gk. In the surface tension dominated
+limit g does not play a role. The dispersion relation involves ω2, k, σ, and ρ. We have uniquely
+ω2 ∼(σ/ρ)k3. The general dispersion relation has the form
+ω2 = gk + σ
+ρ k3
+The wave speed is v = ω/k = λν =
+p
+(σ/ρ)k + g/k. The crossover wave number, separating
+gravity from surface waves, is obtained from gk = (σ/ρ)k3, or kc =
+p
+gρ/σ.
+7
+
+--- PAGE 8 ---
+Example 9 - Surface Tension and Viscosity: If the amplitude of a surface wave be-
+comes too large, the waves break and droplets are ejected. The breakup limits are studied
+experimentally by placing the ﬂuid in a pan and oscillating the pan vertically with an ampli-
+tude z and oscillation frequency ω0, and consequently a surface acceleration a = zω2
+0. The
+amplitude and frequency at which breakup occurs depends on the surface tension σ and the
+kinematic viscosity ν. We investigate the two limits using dimensional analysis. We compute
+the acceleration of the surface at which breakup occurs in the two limits.
+In the surface tension dominated case breakup occurs when the amplitude h of the wave is
+comparable to the wavelength λ. Thus, h ∼z = a/ω2
+0 is comparable to λ =
+ (σ/ρ)ω−2
+0
+1/3, so
+that
+a = c1ω0(ω0σ/ρ)1/3
+In the viscosity dominated regime, breakup occurs when the power input is equal to the viscous
+dissipation. Both have dimension L2T −3 (per unit mass). The power input depends only on
+the oscillation amplitude z (or equivalently, on the acceleration a) and frequency ω0. The power
+input is a2/ω0. The viscous dissipation is proportional to the kinematic viscosity ν, the velocity
+of the surface zω0 = a/ω0, and the wavelength λ of the oscillation, so that the energy dissipated
+per unit mass is ν(a/(ω0λ))2. As a result
+a = c2ω0(ω0ν)1/2
+with c2 = (z/λ).
+Experiments have determined the values of c1 and c2 (Christopher L. Goodrich, W. Tao
+Shi, H. G. E. Hentschel, and Daniel P. Lathrop, Viscous eﬀects in droplet-ejecting capillary
+waves, Phys. Rev. E51, 472-475 (1997)):
+c1
+=
+0.261
+surface tension
+c2
+=
+1.306
+viscosity
+8

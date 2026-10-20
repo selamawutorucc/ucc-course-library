@@ -1,0 +1,7826 @@
+
+--- PAGE 1 ---
+1 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+23 
+Electric Fields 
+ 
+CHAPTER OUTLINE 
+ 
+23.1  
+Properties of Electric Charges 
+23.2  
+Charging Objects by Induction 
+23.3  
+Coulomb’s Law 
+23.4 
+Analysis Model: Particle in a Field (Electric) 
+23.5  
+Electric Field of a Continuous Charge Distribution 
+23.6 
+Electric Field Lines 
+23.7 
+Motion of a Charged Particle in a Uniform Electric Field 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ23.1 
+(i) Answer (c). The electron and proton have equal-magnitude 
+charges.  
+ 
+(ii) Answer (b). The proton’s mass is 1836 times larger than the 
+electron’s. 
+OQ23.2 
+Answer (e). The outer regions of the atoms in your body and the 
+atoms making up the ground both contain negatively charged 
+electrons. When your body is in close proximity to the ground, these 
+negatively charged regions exert repulsive forces on each other. Since 
+the atoms in the solid ground are rigidly locked in position and 
+cannot move away from your body, this repulsive force prevents 
+your body from penetrating the ground.
+
+--- PAGE 2 ---
+2     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ23.3 
+Answer (b). To balance the weight of the ball, the magnitude of the 
+upward electric force must equal the magnitude of the downward 
+gravitational force, or qE = mg, which gives 
+ 
+ 
+ 
+E = mg
+q =
+5.0 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+4.0 × 10−6 C
+= 1.2 × 104 N/C 
+OQ23.4 
+Answer (a). The electric force is opposite to the field direction, so it is 
+opposite to the velocity of the electron. From Newton’s second law, 
+the acceleration the electron will be  
+ 
+ 
+ 
+ax = Fx
+m = qEx
+m =
+−1.60 × 10−19 C
+(
+) 1.00 × 103 N/C
+(
+)
+9.11× 10−31 kg
+= −1.76 × 1014 m/s2
+ 
+ 
+The kinematics equation vx
+2 = v0x
+2 + 2ax Δx
+(
+), with vx = 0, gives the 
+stopping distance as  
+ 
+ 
+ 
+Δx = −v0x
+2
+2ax
+=
+−3.00 × 106 m/s
+(
+)
+2
+2 −1.76 × 1014 m/s2
+(
+)
+= 2.56 × 10−2 m = 2.56 cm 
+OQ23.5 
+Answer (d). The displacement from the –4.00 nC charge at point  
+(0, 1.00) m to the point (4.00, –2.00) m has components 
+rx = x f −xi
+(
+) = +4.00 m and ry = y f −yi
+(
+) = −3.00 m , so the magnitude 
+of this displacement is r =
+rx
+2 + ry
+2 = 5.00 m and its direction is 
+θ = tan−1 ry
+rx
+⎛
+⎝⎜
+⎞
+⎠⎟= −36.9°. The x component of the electric field at point 
+(4.00, –2.00) m is then 
+ 
+ 
+ 
+Ex = Ecosθ = keq
+r2 cosθ
+=
+8.99 × 109 N ⋅m2 /C2
+(
+) −4.00 × 10−9 C
+(
+)
+5.00 m
+(
+)
+2
+cos −36.9°
+(
+)
+= −1.15 N/C
+ 
+OQ23.6 
+Answer (a). The equal-magnitude radially directed field 
+contributions add to zero. 
+OQ23.7 
+Answer (b). When a charged insulator is brought near a metallic 
+object, free charges within the metal move around, causing the 
+metallic object to become polarized. Within the metallic object, the 
+center of charge for the type of charge opposite to that on the 
+insulator will be located closer to the charged insulator than will the 
+center of charge for the same type of charge as that on the insulator.
+
+--- PAGE 3 ---
+Chapter 23     3 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+This causes the attractive force between the charged insulator and the 
+opposite type of charge in the metal to exceed the magnitude of the 
+repulsive force between the insulator and the same type of charge in 
+the metal. Thus, the net electric force between the insulator and an 
+the metallic object is one of attraction.  
+OQ23.8 
+Answer (e). The magnitude of the electric field at distance r from a 
+point charge q is E = keq/r 2 , so 
+ 
+ 
+ 
+E =
+8.99 × 109 N ⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+5.11× 10−11 m
+(
+)
+2
+= 5.51× 1011 N/C  1012 N/C
+ 
+ 
+making (e) the best choice for this question.  
+OQ23.9 
+(i) Answer (d). Suppose the positive charge has the large value 1 µC. 
+The object has lost some of its conduction electrons, in number 
+ 
+ 
+ 
+10
+–6 C (1 e/1.60 × 10
+–19 C) = 6.25 × 10
+12 
+ 
+and in mass  
+ 
+ 
+ 
+6.25 × 10
+12 (9.11 × 10
+–31 kg) = 5.69 × 10
+–18 kg. 
+ 
+This is on the order of 10
+14 times smaller than the ~1 g mass of the 
+coin, so it is an immeasurably small change.  
+ 
+(ii) Answer (b). The coin gains extra electrons, gaining mass on the 
+order of 10
+–14 times its original mass for the charge –1 µC.  
+OQ23.10 
+Answer (c). Each charge produces a field as if it were alone in the 
+Universe.  
+OQ23.11 
+(i) Answer (d). The charge at the upper left creates at the field point 
+an electric field to the left, with magnitude we call E1. The charge at 
+lower right creates a downward electric field with an equal 
+magnitude E1. These two charges together create a field 
+2E1 
+downward and to the left (at 45°). The positive charge has twice the 
+charge but is 
+2 times farther from the field point, so it creates a 
+field 2E1
+2
+(
+)
+2 = E1 upward and to the right. The fields from the 
+two charges are opposite in direction, and the field from the negative 
+charges is stronger, so the net field is then 
+2 −1
+(
+)E1, which is 
+downward and to the left (at 45°).  
+ 
+(ii) Answer (a). With the positive charge removed, the magnitude of 
+the field becomes 
+2E1, larger than before.
+
+--- PAGE 4 ---
+4     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ23.12 
+Answer (a). The magnitude of the electric force between charges Q1 
+and Q2, separated by distance ri is F = ke Q1 Q2 /r
+2. If changes are made 
+so Q1 → Q1/3 and r → 2r, the magnitude of the new force F′ will be 
+ 
+ 
+ 
+F' = ke
+Q1 3
+(
+)Q2
+2r
+(
+)
+2
+=
+1
+3 4
+( )
+ke
+Q1Q2
+r2
+= 1
+12 ke
+Q1Q2
+r2
+= 1
+12 F 
+OQ23.13 
+Answer (c). The charges nearer the center of the disk produce electric 
+fields that make smaller angles with the central axis of the disk; 
+therefore, these fields have smaller components perpendicular to the 
+axis that cancel each other and larger components parallel to the axis 
+which reinforce each other.  
+OQ23.14 
+Answer (b). A negative charge experiences a force opposite to the 
+direction of the electric field.  
+OQ23.15 
+Answer (a). The magnitude of the electric force between two protons 
+separated by distance r is F = kee
+2 r
+2 , so the distance of separation 
+must be 
+ 
+ 
+r =
+kee2
+F
+=
+8.99 × 109 N ⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+2.30 × 10−26 N
+= 0.100 m
+ 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ23.1 
+No. Life would be no different if electrons were positively charged 
+and protons were negatively charged. Opposite charges would still 
+attract, and like charges would repel. The naming of positive and 
+negative charge is merely a convention. 
+CQ23.2 
+The dry paper is initially neutral. The comb attracts the paper 
+because its electric field causes the molecules of the paper to become 
+polarized—the paper as a whole cannot be polarized because it is an 
+insulator. Each molecule is polarized so that its unlike-charged side 
+is closer to the charged comb than its like-charged side, so the 
+molecule experiences a net attractive force toward the comb. Once 
+the paper comes in contact with the comb, like charge can be 
+transferred from the comb to the paper, and if enough of this charge 
+is transferred, the like-charged paper is then repelled by the like-
+charged comb. 
+CQ23.3 
+The answer depends on whether the person is initially (a) uncharged 
+or (b) charged.  
+ 
+(a) 
+No. If the person is uncharged, the electric field inside the 
+sphere is zero. The interior wall of the shell carries no charge. 
+The person is not harmed by touching this wall.
+
+--- PAGE 5 ---
+Chapter 23     5 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If the person carries a (small) charge q, the electric field inside the 
+sphere is no longer zero. Charge –q is induced on the inner wall 
+of the sphere. The person will get a (small) shock when touching 
+the sphere, as all the charge on his body jumps to the metal.  
+CQ23.4 
+All of the constituents of air are nonpolar except for water. The polar 
+water molecules in the air quite readily “steal” charge from a 
+charged object, as any physics teacher trying to perform electrostatics 
+demonstrations in humid weather well knows. As a result—it is 
+difficult to accumulate large amounts of excess charge on an object in 
+a humid climate. During a North American winter, the cold, dry air 
+allows accumulation of significant excess charge, giving the potential 
+(pun intended) for a shocking (pun also intended) introduction to 
+static electricity sparks. 
+CQ23.5 
+No. Object A might have a charge opposite in sign to that of B, but it 
+also might be neutral. In this latter case, object B causes object A (or the 
+molecules of A if its material is an insulator) to be polarized, pulling 
+unlike charge to the near face of A and pushing an equal amount of 
+like charge to the far face. Then the force of attraction exerted by B on 
+the induced unlike charge on the near side of A is slightly larger than 
+the force of repulsion exerted by B on the induced like charge on the far 
+side of A. Therefore, the net force on A is toward B.  
+CQ23.6 
+(a) 
+Yes. The positive charges create electric fields that extend in all 
+directions from those charges. The total field at point A is the 
+vector sum of the individual fields produced by the charges at 
+that point.  
+ 
+(b) No, because there are no field lines emanating from or 
+converging on point A.  
+ 
+(c) 
+No. There must be a charged object present to experience a force.  
+CQ23.7 
+The charge on the ground is negative because electric field lines 
+produced by negative charge point toward their source.  
+CQ23.8 
+Conducting shoes are worn to avoid the build up of a static charge 
+on them as the wearer walks. Rubber-soled shoes acquire a charge by 
+friction with the floor and could discharge with a spark, possibly 
+causing an explosive burning situation, where the burning is 
+enhanced by the oxygen. 
+CQ23.9 
+(a) 
+No. The balloon induces polarization of the molecules in the 
+wall, so that a layer of positive charge exists near the balloon. 
+This is just like the situation in Figure 23.4a, except that the 
+signs of the charges are reversed. The attraction between these 
+charges and the negative charges on the balloon is stronger 
+than the repulsion between the negative charges on the balloon
+
+--- PAGE 6 ---
+6     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and the negative charges in the polarized molecules (because 
+they are farther from the balloon), so that there is a net 
+attractive force toward the wall.  
+ 
+(b) 
+Polar water molecules in the air surrounding the balloon are 
+attracted to the excess electrons on the balloon. The water 
+molecules can pick up and transfer electrons from the balloon, 
+reducing the charge on the balloon and eventually causing the 
+attractive force to be insufficient to support the weight of the 
+balloon.  
+CQ23.10 
+(a) Yes. (b) The situation is similar to that of magnetic bar magnets, 
+which can attract or repel each other depending on their orientation.  
+CQ23.11 
+Electrons have been removed from the glass object. Negative charge 
+has been removed from the initially neutral rod, resulting in a net 
+positive charge on the rod. The protons cannot be removed from the 
+rod; protons are not mobile because they are within the nuclei of the 
+atoms of the rod.  
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 23.1 
+Properties of Electric Charges 
+P23.1 
+(a) 
+The charge due to loss of one electron is 
+ 
+ 
+ 
+0 −1 −1.60 × 10−19 C
+(
+) = +1.60 × 10−19 C 
+ 
+ 
+The mass of an average neutral hydrogen atom is 1.007 9 u. 
+Losing one electron reduces its mass by a negligible amount, to  
+ 
+ 
+ 
+1.007 9 1.660 × 10−27 kg
+(
+) −9.11× 10−31 kg = 1.67 × 10−27 kg
+ 
+ 
+(b) By similar logic, charge = +1.60 × 10−19 C 
+ 
+ 
+mass = 22.99 1.66 × 10−27 kg
+(
+) −9.11× 10−31 kg = 3.82 × 10−26 kg
+ 
+ 
+(c) 
+Gain of one electron: charge of Cl
+−= 1.60 × 10
+−19 C  
+ 
+ 
+mass = 35.453 1.66 × 10−27 kg
+(
+) + 9.11× 10−31 kg = 5.89 × 10−26 kg
+ 
+ 
+(d) Loss of two electrons: charge of Ca++ = −2 −1.60 × 10−19 C
+(
+) = 
++3.20 × 10−19 C 
+ 
+ 
+mass = 40.078 1.66 × 10−27 kg
+(
+) −2 9.11× 10−31 kg
+(
+)
+= 6.65 × 10−26 kg
+
+--- PAGE 7 ---
+Chapter 23     7 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(e) 
+Gain of three electrons: charge of N3−= 3 −1.60 × 10−19 C
+(
+) = 
+−4.80 × 10−19 C 
+ 
+ 
+mass = 14.007 1.66 × 10−27 kg
+(
+) + 3 9.11× 10−31 kg
+(
+)
+= 2.33 × 10−26 kg
+ 
+ 
+(f) 
+Loss of four electrons: charge of N4+ = 4 1.60 × 10−19 C
+(
+) = 
++6.40 × 10−19 C 
+ 
+ 
+mass = 14.007 1.66 × 10−27 kg
+(
+) −4 9.11× 10−31 kg
+(
+)
+= 2.32 × 10−26 kg
+ 
+ 
+(g) We think of a nitrogen nucleus as a seven-times ionized nitrogen 
+atom. Charge = 7 1.60 × 10−19 C
+(
+) = 1.12 × 10−18 C 
+ 
+ 
+mass = 14.007 1.66 × 10−27 kg
+(
+) −7 9.11× 10−31 kg
+(
+)
+= 2.32 × 10−26 kg
+ 
+ 
+(h) Gain of one electron: charge = −1.60 × 10−19 C 
+ 
+ 
+mass = 2 1.007 9
+(
+) + 15.999
+⎡⎣
+⎤⎦1.66 × 10−27 kg + 9.11× 10−31 kg
+= 2.99 × 10−26 kg
+ 
+P23.2 
+(a) 
+N =
+10.0 grams
+107.87 grams/mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 atoms
+mol
+⎛
+⎝⎜
+⎞
+⎠⎟47 electrons
+atom
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2.62 × 1024
+ 
+ 
+(b) 
+# electrons added = Q
+e =
+1.00 × 10−3 C added
+1.60 × 10−19 C/electron
+= 6.25 × 1015 electrons added
+ 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+6.25 × 1015 added
+(
+)
+1
+2.62 × 1024 present
+⎛
+⎝⎜
+⎞
+⎠⎟=
+2.38 added
+109 present
+⎛
+⎝⎜
+⎞
+⎠⎟
+→ 2.38 electrons for every 109 already present
+
+--- PAGE 8 ---
+8     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Section 23.2 
+Charging Objects by Induction 
+Section 23.3 
+Coulomb’s Law 
+*P23.3 
+The force on one proton is 
+
+F = keq1q2
+r2
+ away from the other proton. Its 
+magnitude is 
+ 
+ 
+ 
+8.99 × 109 N ⋅m C2
+(
+) 1.60 × 10−19 C
+2 × 10−15 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 57.5 N
+ 
+*P23.4 
+In the first situation, 
+
+FA on B,1 = ke qA qB
+r1
+2
+ˆi. In the second situation, qA 
+and qB are the same. 
+ 
+ 
+ 
+
+FB on A,2 = −
+
+FA on B = ke qA qB
+r2
+2
+−ˆi
+(
+)
+F2
+F1
+= ke qA qB
+r2
+2
+r1
+2
+ke qA qB
+F2 = F1r1
+2
+r2
+2
+= 2.62 µN
+(
+) 13.7 mm
+17.7 mm
+(
+)
+2
+= 1.57 µN
+ 
+ 
+Then 
+
+FB on A,2 = 1.57 µN to the left . 
+*P23.5 
+The electric force is given by 
+ 
+ 
+ 
+F = ke
+q1q2
+r12
+(
+)
+2 = 8.99 × 109 N ⋅m2/C2
+(
+) +40 C
+(
+) −40 C
+(
+)
+2 000 m
+(
+)2
+= −3.60 × 106 N (attractive) = 3.60 × 106 N  downward
+ 
+P23.6 
+(a) 
+The two ions are both singly charged, q = 1e , one positive and 
+one negative. Thus, 
+ 
+ 
+ 
+F = ke q1 q2
+r2
+= kee2
+r2
+= 8.99 × 109 N⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+0.500 × 10−9 m
+(
+)
+2
+= 9.21× 10−10 N
+ 
+ 
+(b) No. The electric force depends only on the magnitudes of the two 
+charges and the distance between them.
+
+--- PAGE 9 ---
+Chapter 23     9 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.7 
+The end charges, of charge magnitude e, are distance r = 2.17 µm apart. 
+The spring stretches by x = 0.010 0r, and the effective spring force 
+balances the electrostatic attraction of the end charges: 
+ 
+ 
+kx = ke
+e2
+r2 →k = ke
+e2
+xr2 = ke
+e2
+0.010 0r
+(
+)r2 = ke
+e2
+0.010 0
+(
+)r3
+k = 8.99 × 109 N ⋅m2 /C2
+(
+)
+1.60 × 10−19 C
+(
+)
+2
+0.010 0
+(
+) 2.17 × 10−6 m
+(
+)
+3
+= 2.25 × 10−9 N/m
+ 
+P23.8 
+Suppose each person has mass 70 kg. In terms of elementary charges, 
+each person consists of precisely equal numbers of protons and 
+electrons and a nearly equal number of neutrons. The electrons 
+comprise very little of the mass, so for each person we find the total 
+number of protons and neutrons, taken together:  
+ 
+ 
+ 
+(70 kg) 
+1 u
+1.66 × 10–27kg 
+⎛
+⎝⎜
+⎞
+⎠⎟ = 4 × 1028 u 
+ 
+Of these, nearly one half, 2 × 10
+28, are protons, and 1% of this is  
+2 ×  10
+26, constituting a charge of (2 × 10
+26)(1.60 × 10
+–19 C) = 3 × 10
+7 C. 
+ 
+Thus, Feynman’s force has magnitude  
+ 
+ 
+ 
+F = keq1q1
+r2
+ = (8.99 × 109 N ⋅m2/C2)(3 × 107 C)2
+(0.5 m)2
+~ 1026 N
+ 
+ 
+where we have used a half-meter arm’s length. According to the 
+particle in a gravitational field model, if the Earth were in an 
+externally-produced uniform gravitational field of magnitude  
+9.80  m/s
+2, it would weigh Fg = mg = (6 × 10
+24 kg)(10 m/s
+2) ~10
+26 N. 
+ 
+Thus, the forces are of the same order of magnitude.  
+P23.9 
+(a) 
+F = ke q1 q2
+r2
+ 
+ 
+ 
+F = kee2
+r2 =
+8.99 × 109 N ⋅m2 /C2
+(
+) 7.50 × 10−9 C
+(
+) 4.20 × 10−9 C
+(
+)
+1.80 m
+(
+)
+2
+= 8.74 × 10−8 N
+ 
+ 
+(b) The charges are like charges. The force is repulsive.
+
+--- PAGE 10 ---
+10     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.10 
+(a) 
+Fe = keq1q2
+r2
+=
+8.99 × 109 N ⋅m2 /C2
+(
+) 1.60 × 10−19 C
+(
+)
+2
+3.80 × 10−10 m
+(
+)
+2
+= 1.59 × 10−9 N repulsion
+(
+)
+ 
+ 
+(b) 
+Fg = Gm1m2
+r2
+=
+6.67 × 10−11 N ⋅m2 /C2
+(
+) 1.67 × 10−27 kg
+(
+)
+2
+3.80 × 10−10 m
+(
+)
+2
+= 1.29 × 10−45 N
+ 
+ 
+ 
+The electric force is larger by 1.24 × 1036 times . 
+ 
+(c) 
+If ke
+q1q2
+r2
+= G m1m2
+r2
+ with q1 = q2 = q and m1 = m2 = m, then 
+ 
+ 
+ 
+q
+m =
+G
+ke
+=
+6.67 × 10−11 N ⋅m2 /kg2
+8.99 × 109 N ⋅m2 /C2
+= 8.61× 10−11 C/kg 
+P23.11 
+The particle at the origin 
+carries a positive charge of 
+5.00 nC. The electric force 
+between this particle and 
+the –3.00-nC particle 
+located on the –y axis will 
+be attractive and point 
+toward the –y direction 
+and is shown with 
+
+F3 in 
+the diagram, while the electric force between this particle and the 6.00-
+nC particle located on the x axis will be repulsive and point toward the 
+–x direction, shown with 
+
+F6 in the diagram. The resultant force should 
+point toward the third quadrant, as shown in the diagram with 
+
+FR. 
+Although the charge on the x axis is greater in magnitude, its distance 
+from the origin is three times larger than the –3.00-nC charge. We 
+expect the resultant force to make a small angle with the –y axis and be 
+approximately equal in magnitude with F3. 
+ 
+From the diagram in ANS. FIG. P23.11, the two forces are 
+perpendicular, and the components of the resultant force are  
+ 
+ 
+Fx = −F6 = −8.99 × 109 N⋅m2
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.00 × 10−9 C
+(
+) 5.00 × 10−9 C
+(
+)
+0.300 m
+(
+)
+2
+= −3.00 × 10−6 N    to the left
+(
+)
+ 
+ANS. FIG. P23.11
+
+--- PAGE 11 ---
+Chapter 23     11 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Fy = −F3 = −8.99 × 109 N⋅m2
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+3.00 × 10−9 C
+(
+) 5.00 × 10−9 C
+(
+)
+0.100 m
+(
+)
+2
+= −1.35 × 10−5 N   downward
+(
+)
+ 
+ 
+(a) 
+The forces are perpendicular, so the magnitude of the resultant is  
+ 
+ 
+ 
+FR =
+F6
+( )
+2 + F3
+( )
+2 = 1.38 × 10
+−5 N 
+  
+(b) The magnitude of the angle of the resultant is  
+ 
+ 
+ 
+θ = tan
+−1
+F3
+F6
+⎛
+⎝⎜
+⎞
+⎠⎟= 77.5° 
+ 
+ 
+The resultant force is in the third quadrant, so the direction is  
+ 
+ 
+ 
+77.5° below −x axis 
+P23.12 
+The forces are as shown in ANS. FIG. P23.12. 
+ 
+ANS. FIG. P23.12 
+ 
+ 
+F1 = keq1q2
+r12
+2
+= 8.99 × 109 N⋅m2
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.00 × 10−6 C
+(
+) 1.50 × 10−6 C
+(
+)
+3.00 × 10−2 m
+(
+)
+2
+= 89.9 N
+  
+ 
+F2 = keq1 q3
+r13
+2
+= 8.99 × 109 N⋅m2
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+6.00 × 10−6 C
+(
+) 2.00 × 10−6 C
+(
+)
+5.00 × 10−2 m
+(
+)
+2
+= 43.2 N
+ 
+ 
+F3 = keq2 q3
+r23
+2
+= 8.99 × 109 N⋅m2
+C2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1.50 × 10−6 C
+(
+) 2.00 × 10−6 C
+(
+)
+2.00 × 10−2 m
+(
+)
+2
+= 67.4 N
+ 
+ 
+(a) 
+The net force on the 6 µC charge is  
+ 
+ 
+ 
+F6µC
+(
+) = F1 −F2 = 46.7 N  to the left 
+ 
+(b) The net force on the 1.5 µC charge is  
+ 
+ 
+ 
+F1.5µC
+(
+) = F1 + F3 = 157 N  to the right  
+ 
+(c) 
+The net force on the –2 µC charge is  
+ 
+ 
+ 
+F −2µC
+(
+) = F2 + F3 = 111 N  to the left
+
+--- PAGE 12 ---
+12     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.13 
+(a) 
+Let the third bead have charge Q and be located distance x from 
+the left end of the rod. This bead will experience a net force given 
+by 
+ 
+ 
+ 
+
+F = ke 3q
+(
+)Q
+x2
+ˆi + ke q( )Q
+d −x
+(
+)
+2 −ˆi
+( ), where d = 1.50 m 
+ 
+ 
+The net force will be zero if 3
+x2 =
+1
+d −x
+(
+)
+2 , or d −x = x
+3
+. 
+ 
+ 
+This gives an equilibrium position of the third bead of  
+ 
+ 
+ 
+x = 0.634d = 0.634(1.50 m) = 0.951 m 
+ 
+(b) 
+Yes, if the third bead has positive charge. The equilibrium would 
+be stable because if charge Q were displaced either to the left or 
+right on the rod, the new net force would be opposite to the 
+direction Q has been displaced, causing it to be pushed back to its 
+equilibrium position.  
+P23.14 
+(a) 
+Let the third bead have charge Q and be located distance x from 
+the left end of the rod. This bead will experience a net force given 
+by  
+ 
+ 
+ 
+
+F = keq1Q
+x2
+ˆi + keq2Q
+d −x
+(
+)
+2 −ˆi
+( ) 
+ 
+ 
+The net force will be zero if q1
+x2 =
+q2
+d −x
+(
+)
+2 : 
+ 
+ 
+ 
+q1
+x2 =
+q2
+d −x
+(
+)
+2    →    d −x
+(
+)
+2 = x2
+q2
+q1
+⎛
+⎝⎜
+⎞
+⎠⎟    →    d −x = x q2
+q1
+ 
+because d > x. Thus,  
+ 
+ 
+ 
+d −x = x q2
+q1
+    →    d = x + x
+q2
+q1
+= x
+q1 +
+q2
+q1
+⎛
+⎝⎜
+⎞
+⎠⎟    
+→    x =
+q1
+q1 +
+q2
+d
+ 
+ 
+(b) 
+Yes, if the third bead has positive charge. The equilibrium would 
+be stable because if charge Q were displaced either to the left or 
+right on the rod, the new net force would be opposite to the 
+direction Q has been displaced, causing it to be pushed back to its 
+equilibrium position.
+
+--- PAGE 13 ---
+Chapter 23     13 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.15 
+The force exerted on the 7.00-µC charge by the 2.00-µC charge is  
+ 
+  
+ 
+ 
+
+F1 = ke
+q1q2
+r2 ˆr
+= (8.99 × 109 N ⋅m2/C2)(7.00 × 10–6 C)(2.00 × 10–6 C)
+(0.500 m)2
+                                                            × (cos 60°ˆi + sin 60°ˆj)
+
+F1 = (0.252 ˆi + 0.436 ˆj) N
+ 
+ 
+ 
+Similarly, the force on the 7.00-µC charge by the –4.00-µC charge is 
+ 
+ 
+ 
+ 
+F2 = ke
+q1q3
+r2 ˆr
+= – (8.99 × 109 N⋅m2/C2)(7.00× 10–6 C)(–4.00 × 10–6 C)
+(0.500 m)2
+                                                              ×(cos 60°ˆi −sin 60°ˆj)
+
+F2 = (0.503ˆi −0.872 ˆj) N
+ 
+ 
+Thus, the total force on the 7.00-µC charge is  
+ 
+ 
+ 
+
+F =
+
+F1 +
+
+F2 = (0.755 ˆi −0.436 ˆj) N 
+ 
+We can also write the total force as:  
+  
+ 
+ 
+
+F = 0.755 N
+(
+)ˆi −0.436 N
+(
+)ˆj = 0.872 N at an angle of 330° 
+ 
+ 
+ANS. FIG. P23.15 
+P23.16 
+Consider the free-body diagram of one of the 
+spheres shown in ANS. FIG. P23.16. Here, T is 
+the tension in the string and Fe is the repulsive 
+electrical force exerted by the other sphere.  
+ 
+ 
+ 
+Fy
+∑
+= 0 ⇒ T cos5.0° = mg  
+ 
+or  
+ 
+T =
+mg
+cos5.0° 
+ 
+ 
+ 
+Fx
+∑
+= 0 ⇒ Fe = T sin 5.0° = mg tan 5.0° 
+ 
+At equilibrium, the distance separating the two spheres is 
+r = 2Lsin5.0°. 
+ 
+ANS. FIG. P23.16
+
+--- PAGE 14 ---
+14     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Thus,  Fe = mg tan 5.0° becomes 
+keq
+2
+2Lsin 5.0°
+(
+)
+2 = mg tan 5.0° , which yields 
+ 
+ 
+ 
+L =
+keq
+2
+mg tan 5.0° 2sin 5.0°
+(
+)
+2
+=
+8.99 × 10
+9 N ⋅m
+2/C
+2
+(
+) 7.20 × 10
+−9 C
+(
+)
+2
+0.200 × 10
+−3 kg
+(
+) 9.80 m/s
+2
+(
+)tan 5.0° 2sin 5.0°
+(
+)
+2 = 0.299 m
+ 
+P23.17 
+(a) 
+F = kee2
+r2 = 8.99 × 109 N ⋅m2/C2
+(
+)
+1.60 × 10−19 C
+(
+)
+2
+0.529 × 10−10 m
+(
+)
+2 = 8.22 × 10−8 N 
+toward the other particle.  
+ 
+(b) We have F = mv2
+r
+ from which 
+ 
+ 
+ 
+v =
+Fr
+m =
+8.22 × 10−8 N
+(
+) 0.529 × 10−10 m
+(
+)
+9.11× 10−31 kg
+= 2.19 × 106 m/s
+ 
+P23.18 
+Charge C is attracted to charge B and 
+repelled by charge A, as shown in ANS. 
+FIG. P23.18. In the sketch,  
+ 
+ 
+rBC =
+4.00 m
+(
+)
+2 + 3.00 m
+(
+)
+2 = 5.00 m 
+ 
+and 
+ 
+ 
+θ = tan−1 3.00 m
+4.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 36.9° 
+ 
+(a) 
+FAC
+(
+)x = 0 
+ 
+(b) 
+FAC
+(
+)y = FAC = ke
+qA qC
+rAC
+2
+ 
+ 
+ 
+FAC
+(
+)y = 8.99 × 109 N ⋅m2 /C2
+(
+)
+3.00 × 10−4 C
+(
+) 1.00 × 10−4 C
+(
+)
+3.00 m
+(
+)
+2
+= 30.0 N
+ 
+ANS. FIG. P23.18
+
+--- PAGE 15 ---
+Chapter 23     15 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+FBC = ke
+qB qC
+rBC
+2
+= 8.99 × 109 N ⋅m2 /C2
+(
+)
+6.00 × 10−4 C
+(
+) 1.00 × 10−4 C
+(
+)
+5.00 m
+(
+)
+2
+= 21.6 N
+ 
+ 
+(d) 
+FBC
+(
+)x = FBC cosθ = 21.6 N
+(
+)cos 36.9°
+(
+) = 17.3 N 
+ 
+(e) 
+FBC
+(
+)y = −FBC sinθ = −21.6 N
+(
+)sin 36.9°
+(
+) = −13.0 N 
+ 
+(f) 
+FR
+(
+)x = FAC
+(
+)x + FBC
+(
+)x = 0 + 17.3 N = 17.3 N 
+ 
+(g) 
+FR
+(
+)y = FAC
+(
+)y + FBC
+(
+)y = 30.0 −13.0 N = 17.0 N 
+ 
+(h) 
+FR =
+FR
+(
+)x
+2 + FR
+(
+)y
+2 =
+17.3 N
+(
+)
+2 + 17.0 N
+(
+)
+2 = 24.3 N 
+ 
+ 
+Both components are positive, placing the force in the first 
+quadrant:  
+ 
+ 
+ 
+ϕ = tan−1
+FR
+(
+)y
+FR
+(
+)x
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= tan−1 17.0 N
+17.3 N
+⎛
+⎝⎜
+⎞
+⎠⎟= 44.5° 
+ 
+ 
+Therefore, F
+
+R = 24.3 N at 44.5° above the +x direction . 
+P23.19 
+The force due to the first charge is given by 
+ 
+ 
+ 
+
+F1 = keQ 2Q
+(
+)
+d2
+ˆj = keQ2
+d2
+2ˆj
+⎡⎣
+⎤⎦
+ 
+ 
+and the force due to the second charge is given 
+by 
+ 
+ 
+ 
+
+F2 = keQ Q
+( )
+d2 + d2
+(
+)
+ˆi −ˆj
+2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= keQ2
+d2
+ˆi −ˆj
+2 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+ 
+ 
+thus the total force on the point charge +Q located at x = 0 and y = d is 
+ 
+ 
+ 
+
+F1 +
+
+F2 = keQ2
+d2
+2ˆj
+⎡⎣
+⎤⎦+ keQ2
+d2
+ˆi −ˆj
+2 2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥= ke
+Q2
+d2
+1
+2 2
+ˆi + 2 −
+1
+2 2
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+P23.20 
+Each charge exerts a force of magnitude 
+keqQ
+d/2
+(
+)
+2 + x2 on the negative 
+charge –Q: the top charge exerts its force directed upward and to the 
+left, and bottom charge exerts its force directed downward and to the 
+ 
+ANS. FIG. P23.19
+
+--- PAGE 16 ---
+16     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+left, each at angle θ = tan−1
+d
+2x
+⎛
+⎝⎜
+⎞
+⎠⎟, respectively, above and below the x 
+axis. The two positive charges together exert a net force:  
+ 
+ 
+
+F = −2
+keqQ
+d/2
+(
+)
+2 + x2 cosθˆi
+= −2
+keqQ
+d2 4 + x2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+x
+d2 4 + x2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ˆi
+=
+−2xkeqQ
+d2 4 + x2
+(
+)
+3 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ˆi = ma
+ 
+ 
+or for x d
+2 , a ≈−2keqQ
+md3 8
+⎛
+⎝⎜
+⎞
+⎠⎟
+x     →     a ≈−16keqQ
+md3
+⎛
+⎝⎜
+⎞
+⎠⎟
+x 
+ 
+(a) 
+The acceleration of the charge is equal to a negative
+constant times its displacement from equilibrium, as in
+a = −ω 2x, so we have Simple Harmonic Motion with
+ω 2 = 16keqQ
+md3
+.
+ 
+ 
+(b) 
+ω 2 =
+2π
+T
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 16keqQ
+md3
+ → T = 2π
+ω = π
+2
+md3
+keqQ
+, where m is the 
+mass of the object with charge –Q. 
+ 
+(c) 
+vmax = ωA = 4a
+keqQ
+md3 
+P23.21 
+(a) 
+The force is one of attraction . The distance r in Coulomb’s law 
+is the distance between the centers of the spheres. The magnitude 
+of the force is 
+ 
+ 
+ 
+F = keq1q2
+r2
+= 8.99 × 109 N ⋅m2 /C2
+(
+)
+12.0 × 10−9 C
+(
+) 18.0 × 10−9 C
+(
+)
+0.300 m
+(
+)
+2
+= 2.16 × 10−5 N
+
+--- PAGE 17 ---
+Chapter 23     17 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The net charge of –6.00 × 10
+–9 C will be equally split between the 
+two spheres, or –3.00 × 10
+–9 C on each. The force is one of 
+repulsion , and its magnitude is 
+ 
+ 
+ 
+F = keq1q2
+r2
+= 8.99 × 109 N ⋅m2 /C2
+(
+)
+3.00 × 10−9 C
+(
+) 3.00 × 10−9 C
+(
+)
+0.300 m
+(
+)
+2
+= 8.99 × 10−7 N
+ 
+P23.22 
+Each of the dust particles is a particle in equilibrium. Express this 
+mathematically for one of the particles: 
+ 
+ 
+ 
+F
+
+∑ = 0    →    Fe − Fg  = 0    →    Fe = Fg   
+  
+where we have recognized that the gravitational force is attractive and 
+the electric force is repulsive, so the forces on one particle are in 
+opposite directions. Substitute for the forces from Coulomb’s law and 
+Newton’s law of universal gravitation, and solve for q, the unknown 
+charge on each dust particle: 
+ 
+ 
+ 
+ke
+q2
+r2  = G m2
+r2     →     q = 
+G
+ke
+ m 
+ 
+Substitute numerical values: 
+ 
+ 
+ 
+q = 
+6.673 × 10−11 N⋅m2/kg2
+8.987 6 × 109 N⋅m2/C2    1.00 × 10−9 kg
+(
+) 
+= 8.61 × 10−20 C
+ 
+ 
+This is about half of the smallest possible free charge, the charge of the 
+electron. No such free charge exists. Therefore, the forces cannot 
+balance. Even if the charge on each dust particle is due to one electron, 
+the net force will be repulsive and the particles will move apart. 
+ 
+ 
+ 
+Section 23.4 
+Analysis Model: Particle in a Field (Electric) 
+*P23.23 
+For equilibrium,  
+
+Fe = −
+
+Fg  or  q
+
+E = −mg −ˆj
+(
+). Thus,   
+ 
+ 
+ 
+
+E = mg
+q
+ˆj.
+
+--- PAGE 18 ---
+18     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(a) 
+For an electron, 
+ 
+ 
+ 
+
+E = mg
+q
+ˆj = 9.11× 10−31 kg
+(
+) 9.80 m s2
+(
+)
+−1.60 × 10−19 C
+ˆj
+= −5.58 × 10−11 N C
+(
+)ˆj
+ 
+ 
+(b) For a proton, which is 1 836 times more massive than an electron, 
+ 
+ 
+ 
+
+E = mg
+q
+ˆj = 1.67 × 10−27 kg
+(
+) 9.80 m s2
+(
+)
+−1.60 × 10−19 C
+ˆj
+=
+1.02 × 10−7 N C
+(
+)ˆj
+ 
+P23.24 
+In order for the object to “float” in the electric field, the electric force 
+exerted on the object by the field must be directed upward and have a 
+magnitude equal to the weight of the object. Thus, Fe = qE = mg, and 
+the magnitude of the electric field must be 
+ 
+E = mg
+q
+=
+3.80 × 10
+−3 kg
+(
+) 9.80 m/s
+2
+(
+)
+18.0 × 10
+−6 C
+= 2.07 × 10
+3 N/C 
+ 
+The electric force on a negatively charged object is in the direction 
+opposite to that of the electric field. Since the electric force must be 
+directed upward, the electric field must be directed downward . 
+P23.25 
+We sum the electric fields from each of the other charges using 
+Equation 23.7 for the definition of the electric field. 
+ 
+The field at charge q is given by   
+ 
+ 
+
+E = keq1
+r1
+2 ˆr1 + keq2
+r2
+2 ˆr2 + keq3
+r3
+2 ˆr3 
+ 
+(a) 
+Substituting for each of the charges gives 
+ 
+ 
+ 
+
+E = ke 2q
+(
+)
+a2
+ˆi + ke 3q
+(
+)
+2a2
+ˆicos45.0° + ˆjsin 45.0°
+(
+)+ ke 4q
+(
+)
+a2
+ˆj
+= keq
+a2
+2 + 3
+2 cos45.0°
+⎛
+⎝⎜
+⎞
+⎠⎟ˆi + 3
+2 sin 45.0° + 4
+⎛
+⎝⎜
+⎞
+⎠⎟ˆj
+⎡
+⎣⎢
+⎤
+⎦⎥
+= keq
+a2
+3.06ˆi + 5.06ˆj
+(
+)
+ 
+ 
+ 
+(b) The electric force on charge q is given by 
+ 
+ 
+ 
+
+F = q
+
+E = keq2
+a2
+3.06ˆi + 5.06ˆj
+(
+)
+
+--- PAGE 19 ---
+Chapter 23     19 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.26 
+Call the fields E = keq
+r2 and E′ = ke 2q
+(
+)
+r2
+= 2E (see ANS. FIG. P23.26). 
+ 
+ANS. FIG. P23.26 
+ 
+The total field at the center of the circle has components  
+ 
+ 
+
+E = Ecos30.0°−Ecos30.0°
+(
+)ˆi −E′ + 2Esin30.0°
+(
+)ˆj
+= −E′ + 2Esin30.0°
+(
+)ˆj = −2E + 2Esin30.0°
+(
+)ˆj
+= −2E 1+ sin30.0°
+(
+)ˆj
+= −2 keq
+r2 1+ sin30.0°
+(
+)ˆj = −2 keq
+r2 1.50
+(
+)ˆj = −ke
+3q
+r2 ˆj
+ 
+P23.27 
+(a) 
+See ANS. FIG. P23.27(a). The 
+distance from the +Q charge on 
+the upper left is d, and the 
+distance from the +Q charge on 
+the lower right to point P is  
+ 
+ 
+ 
+d 2
+(
+)
+2 + d 2
+(
+)
+2  
+ 
+ 
+The total electric field at point P 
+is then 
+ 
+ 
+ 
+
+EP = ke
+Q
+d2 ˆi + ke
+Q
+d 2
+(
+)
+2 + d 2
+(
+)
+2
+⎡⎣
+⎤⎦
+−ˆi + ˆj
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+     = ke
+Q
+d2 ˆi + Q
+d2 2
+−ˆi + ˆj
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+      = ke
+Q
+d2
+1−
+2
+(
+)ˆi +
+2ˆj
+⎡⎣
+⎤⎦
+ 
+ 
+ 
+ANS. FIG. P23.27(a)
+
+--- PAGE 20 ---
+20     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) See ANS. FIG. P23.27(b). The 
+distance from the +Q charge on 
+the lower right to point P’ is 2d, 
+and the distance from the +Q 
+charge on the upper right to 
+point P′ is  
+ 
+ 
+ 
+d 2
+(
+)
+2 + d 2
+(
+)
+2  
+ 
+ 
+The total electric field at point P’ is then 
+ 
+
+EP′ = ke
+Q
+d 2
+(
+)
+2 + d 2
+(
+)
+2
+⎡⎣
+⎤⎦
+−ˆi −ˆj
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ ke
+Q
+2d
+(
+)
+2 −ˆi
+( )
+
+EP′ = −ke
+Q
+d2 2
+ˆi + ˆj
+2
+⎛
+⎝⎜
+⎞
+⎠⎟+ Q
+4d2 −ˆi
+( )
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= −ke
+Q
+4d2
+8
+2
+ˆi + ˆj
+(
+) + ˆi( )
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+EP′ = −ke
+Q
+4d2
+1+ 4 2
+(
+)ˆi + 4 2ˆj
+⎡⎣
+⎤⎦
+ 
+P23.28 
+(a) 
+One of the charges creates at P a field  
+ 
+ 
+ 
+
+E = Exˆi = keQ n
+(
+)
+a2 + x2 ˆi 
+ 
+ 
+at an angle θ to the x axis as shown in ANS. 
+FIG. P23.28. When all the charges produce 
+the field, for n > 1, by symmetry the 
+components perpendicular to the x axis 
+add to zero. 
+ 
+ 
+The total field is then 
+ 
+ 
+ 
+
+E = nExˆi = n ke Q/n
+(
+)ˆi
+a2 + x2
+cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟=
+keQxˆi
+a2 + x2
+(
+)
+3 2
+ 
+ 
+(b) 
+A circle of charge corresponds to letting n grow beyond 
+all bounds, but the result does not depend on n. Because
+of the symmetrical arrangement of the charges, smearing
+the charge around the circle does not change its amount 
+or its distance from the field point, so it does not change 
+the field.
+ 
+ 
+ANS. FIG. P23.27(b) 
+ 
+ANS. FIG. P23.28
+
+--- PAGE 21 ---
+Chapter 23     21 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.29 
+The field of the positively-charged 
+object is everywhere pointing radially 
+away from its location. The object with 
+negative charge creates everywhere a 
+field pointing toward its different 
+location. These two fields are directed 
+along different lines at any point in the 
+plane except for points along the 
+extended line joining the particles; so 
+the two fields cannot be oppositely-
+directed to add to zero except at some 
+location along this line, which we take 
+as the x axis. Observing the middle 
+panel of ANS. FIG. P23.29, we see that 
+at points to the left of the negatively-
+charged object, this particle creates 
+field pointing to the right and the 
+positive object creates field to the left. 
+At some point along this segment the 
+fields will add to zero. At locations in 
+between the objects, both create fields 
+pointing toward the left, so the total field is not zero. At points to the 
+right of the positive 6-µC object, its field is directed to the right and is 
+stronger than the leftward field of the –2.5-µC object, so the two fields 
+cannot be equal in magnitude to add to zero. We have argued that only 
+at a certain point straight to the left of both charges can the fields they 
+separately produce be opposite in direction and equal in strength to 
+add to zero.  
+Let x represent the distance from the negatively-charged particle (charge 
+q–) to the zero-field point to its left. Then 1.00 m + x is the distance from 
+the positive particle (of charge q+) to this point. Each field is separately 
+described by  
+ 
+
+E = keqˆr/x2 
+so the equality in magnitude required for the two oppositely-directed 
+vector fields to add to zero is described by 
+ 
+ 
+ke q−
+x2
+=
+ke q+
+1 m + x
+(
+)
+2
+ 
+It is convenient to solve by taking the square root of both sides and 
+cross-multiplying to clear of fractions: 
+ 
+ 
+q−
+1/2 1 m + x
+(
+) = q+
+1/2x 
+ 
+ 
+ANS. FIG. P23.29
+
+--- PAGE 22 ---
+22     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+1 m + x =
+6.00
+2.50
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+x= 1.55x 
+ 
+ 
+1 m = 0.549x  
+ 
+and   
+x = 1.82 m to the left of the negatively-charged object. 
+P23.30 
+(a) 
+Let s = 0.500 m be length of a side of the triangle. Call q1 = 7.00 µC 
+and q2 = −4.00 µC = 4.00 µC. The electric field at the position of 
+the 2.00- µC charge is the sum of the fields from the other two 
+charges: 
+ 
+ 
+ 
+
+E =
+
+E1 +
+
+E2 = ke
+q1
+r1
+2 ˆr1 + ke
+q2
+r2
+2 ˆr2
+ 
+ 
+ 
+substituting, 
+ 
+ 
+ 
+
+E = ke
+q1
+s2 −cos60.0ˆi −sin60.0ˆj
+(
+)+ ke
+q2
+s2 ˆi
+= ke
+s2
+q2 −q1 cos60.0
+(
+)ˆi −q1 sin60.0ˆj
+⎡⎣
+⎤⎦
+  
+ 
+ 
+substituting numerical values, 
+ 
+ 
+ 
+
+E = 8.99 × 109 N⋅m2/C2
+0.500 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+            × 4.00 × 10−6 C −7.00 × 10−6 C
+(
+)cos60.0
+⎡⎣
+⎤⎦ˆi
+                                              −7.00 × 10−6 C
+(
+)sin60.0ˆj
+
+E = 1.80 × 104 N/C
+(
+)ˆi −2.18 × 105 N/C
+(
+)ˆj
+=
+18.0ˆi −218ˆj
+(
+) kN/C
+ 
+ 
+(b) The force on this charge is given by 
+ 
+ 
+ 
+
+F = q
+
+E = 2.00 × 10−6 C
+(
+) 18.0
+
+i −218ˆj
+(
+) kN/C
+=
+0.0360
+
+i −0.436ˆj
+(
+) N
+
+--- PAGE 23 ---
+Chapter 23     23 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.31 
+Call Q = 3.00 nC and q = |–2.00 nC|= 2.00 nC,  
+and r = 4.00 cm = 0.040 0 m. Then,  
+ 
+ 
+E1 = E2 = keQ
+r2  and  E3 = keq
+r2 
+ 
+Then,  
+ 
+ 
+ 
+Ey = 0
+Ex = Etotal = 2 keQ
+r2 cos30.0° −keq
+r2
+Ex = ke
+r2 2Qcos30.0° −q
+(
+)
+Ex = 8.99 × 109 N⋅m2/C2
+0.040 0 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+                        × 2 3.00 × 10−9 C
+(
+)cos30.0° −2.00 × 10−9 C
+⎡⎣
+⎤⎦
+= 1.80 × 104 N/C
+ 
+ 
+(a) 
+1.80 × 104 N/C to the right 
+ 
+(b) The electric force on a point charge placed at point P is 
+ 
+ 
+ 
+F = qE = −5.00 × 10−9 C
+(
+)E = −8.98 × 10−5 N (to the left)  
+P23.32  
+The first charge creates at the origin a field 
+keQ
+a2 to the right. Both charges are on the x 
+axis, so the total field cannot have a vertical 
+component, but it can be either to the right or to the left. If the total 
+field at the origin is to the right, then q must be negative:  
+ 
+ 
+keQ
+a2 ˆi + keq
+3a
+(
+)
+2 −ˆi
+( ) = 2keQ
+a2
+ˆi   →   q = −9Q 
+ 
+In the alternative, if the total field at the origin is to the left, 
+ 
+ 
+keQ
+a2 ˆi + keq
+9a2 −ˆi
+( ) = 2keQ
+a2
+−ˆi
+( )   →   q = +27Q 
+ 
+The field at the origin can be to the right, if the unknown charge is −9Q,
+or the field can be to the left, if and only if the unknown charge is + 27Q.
+ 
+ 
+ANS. FIG. P23.31 
+ANS. FIG. P23.32
+
+--- PAGE 24 ---
+24     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P23.34 
+*23.33 
+From the free-body diagram shown in ANS. FIG. 
+P23.33, 
+ 
+ 
+ 
+Fy
+∑
+= 0:             T cos15.0° = 1.96 × 10−2 N 
+ 
+So 
+ 
+T = 2.03 × 10−2 N. 
+ 
+From 
+Fx
+∑
+= 0, we have qE = T sin15.0°, 
+ 
+or 
+ 
+ 
+ 
+ 
+q = T sin15.0°
+E
+= 2.03 × 10−2 N
+(
+)sin15.0°
+1.00 × 103 N C
+= 5.25 × 10−6 C = 5.25 µC
+ 
+*P23.34 
+(a) 
+The distance from each charge to the 
+point at y = 0.500 m is  
+ 
+ 
+ 
+d =
+1.00 m
+(
+)
+2 + 0.500 m
+(
+)
+2 = 1.12 m  
+ 
+the magnitude of the electric field from  
+each charge at that point is then given by 
+ 
+ 
+ 
+E = keq
+r2 = 8.99 × 109 N ⋅m2/C2
+(
+) 2.00 × 10−6 C
+(
+)
+1.12 m
+(
+)2
+= 14 400 N C 
+ 
+ 
+The x components of the two fields cancel and the y components 
+add, giving  
+ 
+ 
+ 
+Ex = 0 and 
+Ey = 2 14 400 N/C
+(
+)sin26.6° = 1.29 × 104 N C 
+ 
+ 
+so 
+
+E = 1.29 × 104ˆj N C . 
+ 
+(b) The electric force at this point  is given by 
+ 
+ 
+ 
+
+F = q
+
+E = −3.00 × 10−6 C
+(
+) 1.29 × 104 N/Cˆj
+(
+)
+= −3.86 × 10−2ˆj N
+ 
+*P23.35 
+(a) 
+The electric field at the origin due to each of the charges is given by 
+ 
+ 
+ 
+
+E1 = ke q1
+r1
+2
+−ˆj
+(
+)
+= 8.99 × 109 N ⋅m2/C2
+(
+) 3.00 × 10−9 C
+(
+)
+0.100 m
+(
+)2
+−ˆj
+(
+)
+= −2.70 × 103 N C
+(
+)ˆj
+ 
+r
+T
+q
+r
+E
+r
+Fg = 0 019 6
+. 
+N
+r
+E
+r
+E
+ANS. FIG. P23.33
+
+--- PAGE 25 ---
+Chapter 23     25 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P23.37 
+ 
+ 
+ 
+
+E2 = ke q2
+r2
+2
+−ˆi
+(
+)
+= 8.99 × 109 N⋅m2/C2
+(
+) 6.00 × 10−9 C
+(
+)
+0.300 m
+(
+)2
+−ˆi
+(
+)
+= −5.99 × 102 N C
+(
+)ˆi
+ 
+ 
+ 
+and their sum is 
+ 
+ 
+ 
+
+E =
+
+E2 +
+
+E1 = −5.99 × 102 N C
+(
+)ˆi −2.70 × 103 N C
+(
+)ˆj
+ 
+r
+E
+r
+E1
+r
+E2
+ 
+ANS. FIG. P23.35 
+ 
+(b) The vector electric force is 
+ 
+ 
+ 
+
+F = q
+
+E = 5.00 × 10−9 C
+(
+) −599ˆi −2 700ˆj
+(
+) N C 
+ 
+ 
+ 
+
+F = −3.00 × 10−6ˆi −13.5 × 10−6ˆj
+(
+) N =
+−3.00ˆi −13.5ˆj
+(
+) µN 
+*P23.36 
+The electric field at any point x is 
+ 
+ 
+ 
+E =
+keq
+x −a
+(
+)2 −
+keq
+x −−a
+(
+)
+[
+]
+2 = keq 4ax
+(
+)
+x2 −a2
+(
+)
+2
+ 
+ 
+When x is much, much greater than a, we find E ≈
+4a keq
+(
+)
+x3
+. 
+ 
+ 
+ 
+Section 23.5 
+Electric Field of a Continuous Charge Distribution 
+P23.37 
+(a) 
+From Example 23.7, the magnitude of the 
+electric field produced by the rod is 
+ 
+ 
+ 
+E =
+keλ
+d + d
+(
+)
+= ke Q/
+(
+)
+d + d
+(
+)
+=
+keQ
+d + d
+(
+)
+     =
+8.99 × 109 N ⋅m2/C2
+(
+) 22.0 × 10−6 C
+(
+)
+0.290 m
+(
+) 0.140 m + 0.290 m
+(
+)
+ 
+ 
+  
+ 
+E = 1.59 × 106 N/C
+
+--- PAGE 26 ---
+26     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) The charge is negative, so the electric field is directed towards its 
+source, to the right . 
+P23.38 
+The electric field for the disk is given by 
+ 
+ 
+ 
+E = 2π keσ 1−
+x
+x2 + R2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+in the positive x direction (away from the disk). Substituting, 
+ 
+ 
+ 
+E = 2π 8.99 × 109 N⋅m2/C2
+(
+) 7.90 × 10−3 C/m2
+(
+)
+                                                    × 1−
+x
+x2 + 0.350
+(
+)
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+= 4.46 × 108 N/C
+(
+) 1−
+x
+x2 + 0.123
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+(a) 
+At x = 0.050 0 m, 
+ 
+ 
+ 
+ 
+E = 3.83 × 108 N/C = 383 MN/C 
+ 
+(b) At x = 0.100 m, 
+ 
+ 
+ 
+ 
+E = 3.24 × 108 N/C = 324 MN/C 
+ 
+(c) 
+At x = 0.500 m, 
+ 
+ 
+ 
+ 
+E = 8.07 × 107 N/C = 80.7 MN/C 
+ 
+(d) At x = 2.000 m, 
+ 
+ 
+ 
+ 
+E = 6.68 × 108 N/C = 6.68 MN/C 
+P23.39 
+We may particularize the result of Example 23.8 to
+  
+ 
+ 
+ 
+E =
+kexQ
+x2 + a2
+(
+)
+3 2 = 8.99 × 109 N⋅m2/C2
+(
+) 75.0 × 10−6 C/m2
+(
+)x
+x2 + 0.1002
+(
+)
+3 2
+=
+6.74 × 105x
+x2 + 0.010 0
+(
+)
+3 2
+  
+ 
+where we choose the x axis along the axis of the ring. The field is 
+parallel to the axis, directed away from the center of the ring above 
+and below it. 
+ 
+(a) 
+At x = 0.010 0 m, 
+
+E = 6.64 × 106ˆi N/C = 6.64ˆi MN/C
+
+--- PAGE 27 ---
+Chapter 23     27 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) At x = 0.050 0 m, 
+
+E = 2.41× 107ˆi N/C = 24.1ˆi MN/C 
+ 
+(c) 
+At x = 0.300 m, 
+
+E = 6.40 × 106ˆi N/C = 6.40ˆi MN/C 
+ 
+(d) At x = 1.00 m, 
+
+E = 6.64 × 105ˆi N/C = 0.664ˆi MN/C 
+P23.40 
+The electric field at a distance x is 
+Ex = 2π keσ 1−
+x
+x2 + R2
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥ 
+ 
+This is equivalent to 
+Ex = 2π keσ 1−
+1
+1+ R2 x2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+For large x, R2
+x2 << 1 and 
+1+ R2
+x2 ≈1+ R2
+2x2 
+ 
+so 
+ 
+ 
+Ex = 2π keσ 1−
+1
+1+ R2
+2x2
+(
+)
+⎡⎣
+⎤⎦
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= 2π keσ
+1+ R2
+2x2
+(
+) −1
+(
+)
+1+ R2
+2x2
+(
+)
+⎡⎣
+⎤⎦
+ 
+ 
+Substitute σ =
+Q
+π R2 , 
+ 
+ 
+ 
+ 
+ 
+Ex =
+keQ 1 x2
+(
+)
+1+ R2
+2x2
+(
+)
+⎡⎣
+⎤⎦
+=
+keQ
+x2 + R2 2
+ 
+ 
+But for x >> R , 
+1
+x2 + R2 2 ≈1
+x2 , so 
+ 
+ 
+ 
+ 
+Ex ≈keQ
+x2 for a disk at large distances 
+P23.41 
+(a) 
+From Example 23.9,  
+ 
+ 
+ 
+ 
+E = 2π keσ 1−
+x
+x2 + R2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+here, 
+ 
+ 
+ 
+ 
+σ = Q
+πR2 = 5.20 × 10−6
+π 0.0300
+(
+)
+2 = 1.84 × 10−3 C/m2
+
+--- PAGE 28 ---
+28     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+the electric field is then 
+ 
+ 
+ 
+ 
+E = 2π keσ 1−
+x
+x2 + R2
+⎛
+⎝⎜
+⎞
+⎠⎟
+E = 2π 8.99 × 109
+(
+) 1.84 × 10−3
+(
+)
+                              × 1−
+0.00300
+0.00300
+(
+)
+2 + 0.0300
+(
+)
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+E = 1.04 × 108 N/C
+(
+) 1−
+0.00300
+0.00300
+(
+)
+2 + 0.0300
+(
+)
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+= 9.36 × 107 N/C
+ 
+ 
+(b)  The near-field approximation gives:  
+ 
+ 
+ 
+ 
+E = 2π keσ = 1.04 × 108 N/C about 11% high
+(
+)
+  
+ 
+(c) 
+The electric field at this point is  
+ 
+ 
+ 
+ 
+ 
+E = 1.04 × 108 N/C
+(
+) 1−
+0.300
+0.300
+(
+)
+2 + 0.0300
+(
+)
+2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+= 5.16 × 105 N/C
+ 
+ 
+(d) With this approximation, suppressing units, 
+ 
+ 
+ 
+ 
+E = ke
+Q
+r2 = 8.99 × 109
+(
+) 5.20 × 10−6
+0.30
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 5.19 × 105 N/C about 0.6% high
+(
+)
+ 
+P23.42 
+(a) 
+The electric field at point P due to each 
+element of length dx is dE =
+kedq
+x2 + d2 and 
+is directed along the line joining the 
+element to point P. The charge element 
+dq = Qdx/L. The x and y components are 
+ 
+ 
+ 
+Ex =
+dEx
+∫
+=
+dEsinθ
+∫
+    
+ 
+ 
+where   sinθ =
+x
+d2 + x2 
+ 
+ANS. FIG. P23.42
+
+--- PAGE 29 ---
+Chapter 23     29 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and 
+ 
+ 
+ 
+Ey =
+dEy
+∫
+=
+dEcosθ
+∫
+   where   cosθ =
+d
+d2 + x2 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+Ex = −ke
+Q
+L
+xdx
+d2 + x2
+(
+)
+3 2
+0
+L
+∫
+= −ke
+Q
+L
+−1
+d2 + x2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+0
+L
+Ex = −ke
+Q
+L
+−1
+d2 + L2
+(
+)
+1 2 −
+−1
+d2 + 0
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+   
+Ex = −ke
+Q
+L
+1
+d −
+1
+d2 + L2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+Ey = ke
+Qd
+L
+dx
+d2 + x2
+(
+)
+3 2
+0
+L
+∫
+= ke
+Qd
+L
+x
+d2 d2 + x2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+0
+L
+Ey = ke
+Q
+Ld
+L
+d2 + L2
+(
+)
+1 2 −0
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+     →     Ey = ke
+Q
+d
+1
+d2 + L2
+(
+)
+1 2
+ 
+ 
+(b) When d >> L,  
+ 
+ 
+ 
+Ex = −ke
+Q
+L
+1
+d −
+1
+d2 + L2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+→−ke
+Q
+L
+1
+d −
+1
+d2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+→Ex ≈0 
+ 
+ 
+and 
+ 
+ 
+ 
+Ey = ke
+Q
+d
+1
+d2 + L2
+(
+)
+1 2 →ke
+Q
+d
+1
+d2
+(
+)
+1 2 →Ey ≈ke
+Q
+d2 
+ 
+ 
+which is the field of a point charge Q at a distance d along the
+y axis above the charge.
+ 
+P23.43 
+(a) 
+Magnitude E =
+kedq
+x2
+∫
+, where dq = λ0dx 
+ 
+ 
+ 
+E = keλ0
+dx
+x2
+x0
+∞
+∫
+= keλ0 −1
+x
+⎛
+⎝⎜
+⎞
+⎠⎟
+x0
+∞
+=
+keλ0
+x0
+
+--- PAGE 30 ---
+30     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P23.44 
+ANS. FIG.  
+P23.45 
+ 
+(b) The charge is positive, so the electric field points away from its 
+source, to the left . 
+P23.44 
+(a) 
+The electric field at point P, due to each 
+element of length dx, is dE =
+kedq
+x2 + d2 and is 
+directed along the line joining the element to 
+point P. By symmetry, 
+ 
+ 
+ 
+Ex = dEx
+∫
+= 0 
+ 
+ 
+and since dq = λdx, 
+ 
+ 
+ 
+E = Ey = dEy
+∫
+= dEcosθ
+∫
+  
+ 
+ 
+where cosθ =
+y
+x2 + d2 . 
+ 
+ 
+Therefore, E = 2keλd
+dx
+x2 + d2
+(
+)
+3 2
+0
+2
+∫
+=
+2keλ sinθ0
+d
+ 
+ 
+ 
+with sinθ0 =
+2
+2
+(
+)
+2 + d2 .  
+ 
+(b) For a bar of infinite length, θ0 = 90° and Ey =
+2keλ
+d
+. 
+P23.45 
+Due to symmetry, Ey =
+dEy
+∫
+= 0 , and 
+Ex = −dEsinθ
+∫
+= −ke
+dqsinθ
+r2
+∫
+ where dq = λds = λrdθ ; the 
+component Ex is negative because charge q = –7.50 µC, 
+causing the net electric field to be directed to the left.  
+ 
+ 
+ 
+Ex = −keλ
+r
+sinθdθ
+0
+π
+∫
+= −keλ
+r
+−cosθ
+(
+) 0
+π = −2keλ
+r
+ 
+ 
+ 
+where λ = q
+L
+ and r = L
+π . Thus, 
+ 
+ 
+ 
+Ex = −2ke q π
+L2
+= −2 8.99 × 109 N⋅m2 /C2
+(
+) 7.50 × 10−6 C
+(
+)π
+0.140 m
+(
+)
+2
+Ex = −2.16 × 107 N/C
+ 
+ 
+(a)  magnitude E = 2.16 × 107 N/C
+
+--- PAGE 31 ---
+Chapter 23     31 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+to the left 
+P23.46 
+(a) 
+We define x = 0 at the point where we are to find the field. One 
+ring, with thickness dx, has charge Qdx
+h
+ and produces, at the 
+chosen point, a field 
+ 
+ 
+ 
+d
+
+E =
+kex
+x2 + R2
+(
+)
+3 2
+Qdx
+h
+ˆi 
+ 
+ 
+The total field is 
+ 
+ 
+ 
+
+E =
+dE
+all charge
+∫
+=
+keQxdx
+h x2 + R2
+(
+)
+3 2 ˆi
+d
+d+h
+∫
+= keQˆi
+2h
+x2 + R2
+(
+)
+−3 2 2xdx
+x=d
+d+h
+∫
+ 
+ 
+ 
+integrating, 
+ 
+ 
+ 
+
+E = keQˆi
+2h
+x2 + R2
+(
+)
+−1 2
+−1 2
+(
+)
+x=d
+d+h
+=
+keQˆi
+h
+1
+d2 + R2
+(
+)
+1 2 −
+1
+d + h
+(
+)
+2 + R2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+(b) Think of the cylinder as a stack of disks, each with thickness dx, 
+charge Qdx
+h
+, and charge-per-area σ = Qdx
+π R2h . One disk produces a 
+field 
+ 
+ 
+ 
+d
+
+E = 2π keQdx
+π R2h
+1−
+x
+x2 + R2
+(
+)
+1 2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+ˆi 
+ 
+ 
+So, 
+
+E =
+d
+
+E
+all charge
+∫
+=
+2keQdx
+R2h
+x=d
+d+h
+∫
+1−
+x
+x2 + R2
+(
+)
+1 2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+ˆi 
+ 
+ 
+ 
+
+E = 2keQˆi
+R2h
+dx
+d
+d+h
+∫
+−1
+2
+x2 + R2
+(
+)
+−1 2 2xdx
+x=d
+d+h
+∫
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 2keQˆi
+R2h
+x d
+d+h −1
+2
+x2 + R2
+(
+)
+1 2
+1 2
+d
+d+h
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+
+--- PAGE 32 ---
+32     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+
+E = 2keQˆi
+R2h
+d + h −d −
+d + h
+(
+)
+2 + R2
+(
+)
+1 2
++ d2 + R2
+(
+)
+1 2
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+E =
+2keQˆi
+R2h
+h + d2 + R2
+(
+)
+1 2 −
+d + h
+(
+)
+2 + R2
+(
+)
+1 2
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+ 
+ 
+Section 23.6 
+Electric Field Lines 
+P23.47 
+The field lines are shown in ANS. FIG. 
+P23.47, where we’ve followed the rules 
+for drawing field lines where field lines 
+point toward negative charge, meeting 
+the rod perpendicularly and ending 
+there. 
+P23.48 
+For the positively charged disk, a side view of the field lines, 
+pointing into the disk, is shown in ANS. FIG. P23.48. 
+ 
+ANS. FIG. P23.48 
+P23.49 
+Field lines emerge from positive charge and enter negative charge.  
+ 
+(a) 
+The number of field lines emerging from positive q2 and entering 
+negative charge q1 is proportional to their charges:  
+ 
+ 
+ 
+q1
+q2
+= −6
+18 = −1
+3
+ 
+ 
+(b) From above, q1 is negative, q2 is positive . 
+P23.50 
+(a) 
+The electric field has the general appearance shown in ANS. FIG. 
+P23.50 below. 
+ 
+(b) It is zero at the center , where (by symmetry) one can see that 
+the three charges individually produce fields that cancel out. 
+ 
+ 
+In addition to the center of the triangle, the electric field lines in 
+the second panel of ANS. FIG. P23.50 indicate three other points 
+near the middle of each leg of the triangle where E = 0, but they 
+are more difficult to find mathematically.  
+ 
+ANS. FIG. P23.47
+
+--- PAGE 33 ---
+Chapter 23     33 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+You may need to review vector addition in  
+Chapter 1. The electric field at point P can  
+be found by adding the electric field  
+vectors due to each of the two lower point  
+charges: 
+
+E =
+
+E1 +
+
+E2. 
+ 
+ 
+The electric field from a point charge is  
+
+E = ke
+q
+r2 ˆr. 
+ 
+ 
+As shown in the bottom panel of ANS. FIG.  
+P23.50,  
+ 
+ 
+ 
+
+E1 = ke
+q
+a2  
+ 
+ 
+to the right and upward at 60°, and 
+ 
+ 
+ 
+
+E2 = ke
+q
+a2  
+ 
+ 
+to the left and upward at 60°. So, 
+ 
+ 
+ 
+
+E =
+
+E1 +
+
+E2 = ke
+q
+a2
+cos60°ˆi + sin60°ˆj
+(
+) + −cos60°ˆi + sin60°ˆj
+(
+)
+⎡⎣
+⎤⎦
+= ke
+q
+a2 2 sin60°ˆj
+(
+)
+⎡⎣
+⎤⎦= 1.73ke
+q
+a2 ˆj
+ 
+ 
+ 
+ 
+Section 23.7 
+Motion of a Charged Particle in a  
+Uniform Electric Field 
+P23.51 
+(a) 
+We obtain the acceleration of the proton from the particle under a 
+net force model, with F = qE representing the electric force:  
+ 
+ 
+ 
+ 
+a = F
+m = qE
+m = 1.602 × 10–19 C
+(
+) 640 N/C
+(
+)
+1.67  × 10–27 kg
+= 6.14 × 1010 m/s2
+ 
+ 
+ 
+(b) The particle under constant acceleration model gives us 
+v f = vi + at, from which we obtain 
+ 
+ 
+ 
+t = v f −0
+a
+=
+1.20 × 106 m/s
+6.14  × 1010 m/s2 = 19.5 µs
+ 
+ 
+ 
+ 
+(c) 
+Again, from the particle under constant acceleration model, 
+ 
+ 
+ 
+ 
+Δx = vit + 1
+2 at2 = 0 + 1
+2 (6.14 × 1010 m/s2)(19.5 × 10–6 s)2
+= 11.7 m
+ 
+ 
+ 
+ANS. FIG. P23.50
+
+--- PAGE 34 ---
+34     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(d) The final kinetic energy of the proton is 
+ 
+ 
+ 
+K = 1
+2 mv2 = 1
+2 (1.67 × 10–27 kg)(1.20 × 106 m/s)2 = 1.20 × 10–15 J
+  
+P23.52 
+(a) 
+a = qE
+m =
+1.602 × 10−19 C
+(
+) 6.00 × 105 N/C
+(
+)
+1.67 × 10−27 kg
+= 5.76 × 1013 m/s, 
+ 
+ 
+so a = −5.76 × 1013ˆi m/s2 . 
+ 
+(b) 
+v
+f
+2 = v
+i
+2 + 2a x f −xi
+(
+) 
+ 
+ 
+0 = vi
+2 + 2 −5.76 × 1013 m/s2
+(
+) 0.070 0 m
+(
+)  
+vi = 2.84 × 106ˆi m/s
+ 
+ 
+(c) 
+v f = vi + at 
+ 
+ 
+0 = 2.84 × 106 m/s + −5.76 × 1013 m/s2
+(
+)t   →   t = 4.93 × 10−8 s 
+P23.53 
+We use v f = vi + at, where vi = 0, t = 48.0 × 10
+–9 s, and a = F/m = eE/m. 
+ 
+For the electron, m = me = 9.11× 10−31 kg 
+ 
+and for the proton, m = mp = 1.67 × 10−27 kg  
+ 
+The electric force on both particles is given by 
+ 
+ 
+ 
+F = eE = 1.60 × 10−19 C
+(
+) 5.20 × 102 N/C
+(
+) = 8.32 × 10−17 N 
+ 
+Then, for the electron, 
+ 
+ 
+ 
+v fe = vie + at = 0 +
+eE
+me
+⎛
+⎝⎜
+⎞
+⎠⎟t =
+8.32 × 10−17 N
+9.11× 10−31 kg
+⎛
+⎝⎜
+⎞
+⎠⎟48.0 × 10−9 s
+(
+)
+= 4.38 × 106 m/s
+  
+ 
+and for the proton, 
+ 
+ 
+ 
+v fp = vip + at = 0 +
+eE
+mp
+⎛
+⎝⎜
+⎞
+⎠⎟t =
+8.32 × 10−17 N
+1.67 × 10−27 kg
+⎛
+⎝⎜
+⎞
+⎠⎟48.0 × 10−9 s
+(
+)
+= 2.39 × 103 m/s
+ 
+P23.54 
+(a) 
+Particle under constant velocity 
+ 
+(b) 
+Particle under constant acceleration 
+ 
+(c) 
+The vertical acceleration caused by the  
+ANS. FIG. P23.54
+
+--- PAGE 35 ---
+Chapter 23     35 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+electric force is constant and downward;  
+therefore, the proton moves in a parabolic path just like a 
+projectile in a gravitational field. 
+ 
+(d) We may neglect the effect of the acceleration of gravity on the 
+proton because the magnitude of the vertical acceleration caused 
+by the electric force is  
+ 
+ 
+ 
+ay = eE
+mp
+=
+1.60 × 10−19 C
+(
+) 720 N/C
+(
+)
+1.67 × 10−27 kg
+= 6.90 × 1010 m/s2
+ 
+ 
+ 
+which is much greater than that of gravity.  
+ 
+ 
+Replacing acceleration g in Equation 4.13 with eE/mP, we have  
+ 
+ 
+ 
+R = vi
+2 sin2θ
+eE/mp
+=
+mpvi
+2 sin2θ
+eE
+ 
+ 
+(e) 
+R =
+mpvi
+2 sin2θ
+eE
+=
+1.67 × 10−27 kg
+(
+) 9.55 × 103 m/s
+(
+)
+2 sin2θ
+1.60 × 10−19 C
+(
+) 720 N/C
+(
+)
+= 1.27 × 10−3 m
+ 
+ 
+ 
+which gives sin2θ = 0.961, or  
+ 
+ 
+ 
+ θ = 36.9°
+ or 
+90.0° −θ = 53.1° 
+ 
+(f) 
+Δt = R
+vix
+=
+R
+vi cosθ    
+ 
+ 
+If θ = 36.9°, Δt = 166 ns .   If θ = 53.1°, Δt = 221 ns . 
+P23.55 
+The work done on the charge is W =
+
+F ⋅
+
+d = q
+
+E ⋅
+
+d and the kinetic 
+energy changes according to W = Kf – Ki = 0 – K. 
+ 
+Assuming v is in the +x direction, we have (–e)
+
+E ⋅dˆi = −K. 
+ 
+Then, e
+
+E ⋅dˆi
+( ) = K, and 
+ 
+ 
+
+E = K
+ed
+ˆi 
+ 
+(a) 
+E =
+K
+ed 
+ 
+(b) Because a negative charge experiences an electric force opposite 
+to the direction of an electric field, the required electric field will 
+be in the direction of motion .
+
+--- PAGE 36 ---
+36     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.56 
+(a) 
+The positive charge experiences a constant downward force (in 
+the direction of the electric field): 
+ 
+ 
+ 
+
+F = q
+
+E = 1.00 × 10−6 C
+(
+) 2 000 N C
+(
+) −ˆj
+( ) = 2.00 × 10−3 −ˆj
+( ) N 
+ 
+ 
+and moves with acceleration: 
+ 
+ 
+ 
+a =
+
+F
+∑
+m =
+2.00 × 10−3 N
+(
+) −ˆj
+( )
+2.00 × 10−16 kg
+= 1.00 × 1013 −ˆj
+( ) m s2
+ 
+ 
+ 
+Note that the gravitational acceleration is on the order of a trillion 
+times smaller than the electrical acceleration of the particle. Thus, 
+its trajectory is a parabola opening downward.  
+ 
+(b) The maximum height the charge attains above the bottom 
+negative plate is described by 
+ 
+ 
+ 
+vyf
+2 = vyi
+2 + 2ay y f −yi
+(
+)
+ 
+ 
+ 
+Solving for the height gives 
+ 
+ 
+ 
+y f −yi = vyf
+2 −vyi
+2
+2ay
+=
+0 −
+1.00 × 105 m/s
+(
+)sin37.0
+⎡⎣
+⎤⎦
+2
+2 1.00 × 1013 m/s2
+(
+)
+= 1.81× 10−4 m = 0.181 mm
+ 
+ 
+ 
+Since this height is less than the 1.00 cm separation of the plates, 
+the charge passes through its highest point and returns to strike 
+the negative plate . 
+ 
+(c) 
+The particle’s x-component of velocity is constant at  
+ 
+ 
+ 
+(1.00 × 10
+5 m/s) cos 37° = 7.99 × 10
+4 m/s 
+ 
+ 
+Starting at time t = 0, we find the time t when the particle returns 
+to the negative plate from 
+ 
+ 
+ 
+y f = yi + vyit + 1
+2 ayt2 
+ 
+ 
+Substituting numerical values, 
+ 
+ 
+ 
+0 = 0 +
+1.00 × 105 m/s
+(
+)sin37.0
+⎡⎣
+⎤⎦t + 1
+2 −1.00 × 1013 m/s2
+(
+)t2 
+ 
+ 
+since t > 0, the only valid solution to this quadratic equation is  
+t = 1.20 × 10
+–8 s. The particle’s range is then 
+ 
+ 
+ 
+x f = xi + vxt = 0 + 7.99 × 104 m/s
+(
+) 1.20 × 10−8 s
+(
+)
+= 9.61× 10−4 m
+
+--- PAGE 37 ---
+Chapter 23     37 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+The particle strikes the negative plate after moving a horizontal
+distance of 0.961 mm.
+ 
+P23.57 
+
+E is directed along the y direction; therefore, ax = 0 and x = vxit. 
+  
+(a) 
+t = x
+vxi
+= 0.050 0 m
+4.50 × 105 s = 1.11× 10−7 s = 111 ns 
+ 
+(b) 
+ay = qE
+m =
+1.602 × 10−19 C
+(
+) 9.60 × 103 N/C
+(
+)
+1.67 × 10−27 kg
+= 9.21× 1011 m/s2 
+ 
+ 
+y f −yi = vyit + 1
+2 ayt2:
+ 
+ 
+ 
+y f = 1
+2 9.21× 1011 m/s2
+(
+) 1.11× 10−7 s
+(
+)
+2
+= 5.68 × 10−3 m = 5.67 mm
+ 
+ 
+(c) 
+vx = 4.50 × 105 m/s     
+ 
+ 
+vyf = vyi + ayt = 9.21× 1011 m/s2
+(
+) 1.11× 10−7 s
+(
+) = 1.02 × 105 m/s 
+ 
+ 
+v =
+450ˆi + 102ˆj
+(
+) km/s 
+ 
+ 
+Additional Problems 
+P23.58 
+(a) 
+The whole surface area of the cylinder is 
+A = 2π r2 + 2π rL = 2π r r + L
+(
+). 
+ 
+ 
+ 
+Q = σA
+= 15.0 × 10−9 C/m2
+(
+)2π 0.025 0 m
+(
+) 0.025 0 m + 0.060 0 m
+[
+]
+    = 2.00 × 10−10 C
+ 
+ 
+(b) For the curved lateral surface only, A = 2π rL. 
+ 
+ 
+ 
+Q = σA = 15.0 × 10−9 C/m2
+(
+) 2π 0.025 0 m
+(
+) 0.060 0 m
+(
+)
+⎡⎣
+⎤⎦
+= 1.41× 10−10 C
+ 
+ 
+(c) 
+Q = ρV = ρπ r2L = 500 × 10−9 C/m3
+(
+) π 0.025 0 m
+(
+)
+2 0.060 0 m
+(
+)
+⎡⎣
+⎤⎦
+    = 5.89 × 10−11 C
+
+--- PAGE 38 ---
+38     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.59 
+The electric field is given by the sum of the fields due to each of the n 
+particles: 
+ 
+ 
+ 
+
+E =
+keq
+r2 ˆr
+∑
+= keq
+a2
+−ˆi
+( )+ keq
+2a
+(
+)
+2 −ˆi
+( )+ keq
+3a
+(
+)
+2 −ˆi
+( )+
+= −keqˆi
+a2
+1+ 1
+22 + 1
+32 +
+⎛
+⎝⎜
+⎞
+⎠⎟
+    = −π 2keq
+6a2 ˆi
+ 
+P23.60 
+The positive charge, call it q, is 50.0 cm – 20.9 cm = 29.1 cm from charge 
+Q. The force on q from the –3.00 nC charge balances the force on q from 
+the –Q charge:  
+ 
+ 
+ 
+ke 3.00 nC
+(
+)q
+0.209 m
+(
+)
+2
+=
+keQq
+0.291 m
+(
+)
+2
+ 
+ 
+which then gives 
+ 
+ 
+ 
+Q = 3.00 nC
+(
+) 0.291 m
+0.209 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 5.82 nC
+ 
+P23.61 
+(a)  Take up the incline as the positive x direction. Newton’s second 
+law along the incline gives 
+ 
+ 
+ 
+Fx
+∑
+= −mgsinθ + Q E = 0  
+ 
+ 
+solving for the electric field gives 
+ 
+ 
+ 
+E = mg
+Q sinθ
+ 
+ 
+(b) The electric force must be up the incline, so the electric field must 
+point down the incline because the charge is negative. 
+ 
+ 
+ 
+E = mg
+Q sinθ = 5.40 × 10−3
+(
+) 9.80
+(
+)
+7.00 × 10−6
+sin25.0°
+= 3.19 × 103 N/C, down the incline
+ 
+P23.62 
+The downward electric force on the 0.800 µC charge is balanced by the 
+upward spring force:  
+ 
+ 
+ 
+keq1q2
+r2
+= kx
+
+--- PAGE 39 ---
+Chapter 23     39 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+solving for the spring constant gives 
+ 
+ 
+ 
+k = keq1q2
+xr2
+= 8.99 × 109 N⋅m2 /C2
+(
+) 0.800 × 10−6 C
+(
+) 0.600 × 10−6 C
+(
+)
+0.0350 m
+(
+) 0.0500 m
+(
+)
+2
+= 49.3 N/m
+ 
+P23.63 
+We integrate the expression for the incremental electric field to obtain 
+ 
+ 
+ 
+
+E =
+d
+
+E
+∫
+=
+keλ0x0dx −ˆi
+( )
+x3
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+x0
+∞
+∫
+= −keλ0x0ˆi x−3 dx
+x0
+∞
+∫
+= −keλ0x0ˆi −1
+2x2
+x0
+∞
+⎛
+⎝⎜
+⎞
+⎠⎟
+=
+keλ0
+2x0
+−ˆi
+( )
+ 
+*P23.64 
+(a) 
+The gravitational force exerted on the upper  
+sphere by the lower one is negligible in  
+comparison to the gravitational force  
+exerted by the Earth and the downward  
+electrical force exerted by the lower sphere.  
+Therefore, 
+ 
+ 
+ 
+Fy
+∑
+= 0     →     T −mg −Fe = 0  
+ 
+ 
+ or 
+T = mg + ke q1 q2
+d2
+  
+ 
+ 
+substituting numerical values, 
+ 
+ 
+ 
+T = 7.50 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+   + 8.99 × 109 N⋅m2/C2
+(
+) 32.0 × 10−9 C
+(
+) 58.0 × 10−9 C
+(
+)
+2.00 × 10−2 m
+(
+)
+2
+= 0.115 N
+ 
+ 
+(b) Once again, from the particle under a net force model, 
+ 
+ 
+ 
+Fy
+∑
+= 0     →     T −mg −Fe = 0 
+ 
+ 
+or  
+ke q1 q2
+d2
+= T −mg 
+ 
+ANS. FIG. P23.64
+
+--- PAGE 40 ---
+40     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+solving for the distance d then gives 
+ 
+ 
+ 
+d =
+ke q1 q2
+T −mg
+ 
+ 
+ 
+substituting numerical values, with T = 0.180 N,  
+ 
+ 
+ 
+d =
+8.99 × 109 N⋅m2/C2
+(
+) 32.0 × 10−9 C
+(
+) 58.0 × 10−9 C
+(
+)
+0.180 N −7.50 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)
+= 1.25 × 10−2 m = 1.25 cm
+  
+P23.65 
+The proton moves with acceleration 
+ 
+ 
+ 
+ap = qE
+m =
+1.60 × 10−19 C
+(
+) 640 N C
+(
+)
+1.673 × 10−27 kg
+= 6.13 × 1010 m/s2 
+ 
+while the electron has acceleration 
+ 
+ 
+ 
+ae =
+1.60 × 10−19 C
+(
+) 640 N/C
+(
+)
+9.110 × 10−31 kg
+= 1.12 × 1014 m/s2 = 1 836ap 
+ 
+(a) 
+We want to find the distance traveled by the proton (i.e., 
+d = 1
+2 apt2 ), knowing: 
+ 
+ 
+ 
+4.00 cm = 1
+2 apt2 + 1
+2 aet2 = 1 837
+(
+) 1
+2 apt2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+d = 1
+2 apt2 = 4.00 cm
+1 837
+= 2.18 × 10−5 m 
+ 
+(b) The distance from the positive plate to where the meeting occurs 
+equals the distance the sodium ion travels (i.e., dNa = 1
+2 aNat2 ). This 
+is found from: 
+ 
+ 
+ 
+4.00 cm = 1
+2 aNat2 + 1
+2 aClt2 :  
+ 
+ 
+ 
+ 
+4.00 cm = 1
+2
+eE
+22.99 u
+⎛
+⎝⎜
+⎞
+⎠⎟t2 + 1
+2
+eE
+35.45 u
+⎛
+⎝⎜
+⎞
+⎠⎟t2 
+ 
+This may be written as  
+ 
+ 
+4.00 cm = 1
+2 aNat2 + 1
+2 0.649aNa
+(
+)t2 = 1.65 1
+2 aNat2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+so  
+dNa = 1
+2 aNat2 = 4.00 cm
+1.65
+= 2.43 cm
+
+--- PAGE 41 ---
+Chapter 23     41 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.66 
+We find the equal-magnitude charges on both spheres: 
+ 
+ 
+ 
+F = ke
+q1q2
+r2
+= ke
+q2
+r2  
+ 
+so 
+ 
+q = r
+F
+ke
+= 1.00 m
+(
+)
+1.00 × 104 N
+8.99 × 109 N ⋅m2 /C2 = 1.05 × 10−3 C 
+ 
+The number of electrons transferred is then 
+ 
+ 
+ 
+Nxfer =
+1.05 × 10−3 C
+1.60 × 10−19 C/e−= 6.59 × 1015 electrons 
+ 
+The whole number of electrons in each sphere is 
+ 
+ 
+ 
+Ntot =
+10.0 g
+107.87 g/mol
+⎛
+⎝⎜
+⎞
+⎠⎟6.02 × 1023 atoms/mol
+(
+) 47 e−/atom
+(
+)
+= 2.62 × 1024 e−
+ 
+ 
+The fraction transferred is then 
+ 
+ 
+ 
+f = Nxfer
+Ntot
+=
+6.59 × 1015
+2.62 × 1024
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.51× 10−9
+  
+ 
+or 2.51 charges in every billion. 
+P23.67 
+ANS. FIG. P23.67 shows the free-body diagram 
+for Newton’s second law gives 
+ 
+ 
+ 
+
+F
+∑
+=
+
+T + q
+
+E +
+
+Fg = 0 
+ 
+We are given 
+ 
+ 
+ 
+ 
+Ex = 3.00 × 10
+5 N/C  
+ 
+and 
+Ey = 5.00 × 10
+5 N/C  
+ 
+Applying Newton’s second law or the first 
+condition for equilibrium in the x and y 
+directions,  
+ 
+ 
+ 
+Fx
+∑
+= qEx −T sin37.0° = 0  
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= qEy +T cos37.0° −mg = 0   
+[2] 
+ 
+ 
+(a) 
+We solve for T from equation [1]: 
+ 
+ 
+ 
+T =
+qEx
+sin37.0°
+ 
+ 
+ANS. FIG. P23.67
+
+--- PAGE 42 ---
+42     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+and substitute into equation [2] to obtain 
+ 
+ 
+ 
+  
+q =
+mg
+Ey +
+Ex
+tan37.0
+=
+1.00 × 10–3 kg
+(
+) 9.80 m/s2
+(
+)
+5.00 × 105 N/C + 3.00 × 105 N/C
+tan37.0
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+  
+q = 1.09 × 10–8 C 
+ 
+ 
+ 
+(b) Using the above result for q in equation [1], we find that the 
+tension is  
+ 
+ 
+ 
+T =
+qEx
+sin37.0° = 1.09 × 10–8 C
+(
+) 3.00 × 105 N/C
+(
+)
+sin37.0°
+= 5.44 × 10–3 N
+ 
+P23.68 
+This is the general version of the preceding problem . The known 
+quantities are A, B, m, g, and θ. The unknowns are q and T. 
+ 
+Refer to ANS. FIG. P23.67 above. The approach to this problem should 
+be the same as for the last problem, but without numbers to substitute 
+for the variables. Likewise, we can use the free body diagram given in 
+the solution to problem 51. 
+ 
+Again, from Newton’s second law, 
+ 
+ 
+ 
+Fx
+∑
+= −T sinθ + qA = 0  
+[1] 
+ 
+and  
+Fy
+∑
+= +T cosθ + qB−mg = 0 
+[2] 
+ 
+(a) 
+Substituting T = qA
+sinθ into equation [2], we obtain 
+ 
+ 
+ 
+qAcosθ
+sinθ
++ qB = mg 
+ 
+ 
+Isolating q on the left, 
+ 
+ 
+ 
+ 
+q =
+mg
+Acotθ + B
+(
+) 
+ 
+(b) Substituting this value into equation [1], we obtain 
+ 
+ 
+ 
+T =
+mgA
+Acosθ + Bsinθ
+(
+)
+
+--- PAGE 43 ---
+Chapter 23     43 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+If we had solved this general problem first, we would only need 
+to substitute the appropriate values in the equations for q and T to 
+find the numerical results needed for problem 51. If you find this 
+problem more difficult than problem 51, the little list at the first 
+step is useful. It shows what symbols to think of as known data, 
+and what to consider unknown. The list is a guide for deciding 
+what to solve for in the analysis step, and for recognizing when 
+we have an answer. 
+P23.69 
+(a) 
+Refer to ANS. FIG. P23.69(a). The field, E1, due to the 4.00 × 10
+–9 C 
+charge is in the –x direction. 
+ 
+ 
+ 
+
+E1 = keq
+r2 ˆr =
+8.99 × 109 N ⋅m2 /C2
+(
+) −4.00 × 10−9 C
+(
+)
+2.50 m
+(
+)
+2
+ˆi
+= −5.75ˆi N/C
+ 
+ 
+ANS. FIG. P23.69(a) 
+ 
+ 
+Likewise, E2 and E3, due to the 5.00 × 10
+–9 C charge and the  
+3.00 × 10
+–9 C charge, are 
+ 
+ 
+ 
+
+E2 = keq
+r2 ˆr = 8.99 × 109 N⋅m2 /C2
+(
+) 5.00 × 10−9 C
+(
+)
+2.00 m
+(
+)
+2
+ˆi
+= 11.2 N/C ˆi
+ 
+ 
+ 
+ 
+
+E3 =
+8.99 × 109 N ⋅m2 /C2
+(
+) 3.00 × 10−9 C
+(
+)
+1.20 m
+(
+)
+2
+ˆi = 18.7 N/C ˆi 
+ 
+ 
+ 
+
+ER =
+
+E1 +
+
+E2 +
+
+E3 = 24.2 N/C in +x direction 
+ 
+(b) In this case, referring to ANS. FIG. P23.69(b), 
+ 
+ 
+ 
+
+E1 = keq
+r2 ˆr = −8.46 N/C
+(
+) 0.243ˆi + 0.970ˆj
+(
+) 
+ 
+ 
+ 
+
+E2 = keq
+r2 ˆr = 11.2 N/C
+(
+) +ˆj
+( )
+
+E3 = keq
+r2 ˆr = 5.81 N/C
+(
+) −0.371ˆi+0.928ˆj
+(
+)
+ 
+ 
+ 
+The components of the resultant electric field are 
+ 
+ 
+ 
+Ex = E1x + E3x = −4.21ˆi N/C
+Ey = E1y + E2y + E3y = 8.43ˆj N/C
+
+--- PAGE 44 ---
+44     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+then, the magnitude of the resultant electric field is 
+ 
+ 
+ 
+ER = 9.42 N/C 
+ 
+ 
+and is directed at 
+ 
+ 
+ 
+θ = tan−1
+Ey
+Ex
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟= tan−1 8.43 N/C
+4.21 N/C
+⎛
+⎝⎜
+⎞
+⎠⎟= 63.4° above −x axis
+ 
+ 
+ANS. FIG. P23.69(b) 
+P23.70 
+(a) 
+The two given charges exert equal-
+size forces of attraction on each 
+other. If a third charge, positive or 
+negative, were placed between them 
+they could not be in equilibrium. If 
+the third charge were at a point  
+x > 15.0 cm, it would exert a stronger force on the 45.0-µC charge 
+than on the –12.0-µC charge, and could not produce equilibrium 
+for both. Thus the third charge must be at x = –d < 0. 
+It is possible in just one way. 
+ 
+(b)  The equilibrium of the third charge requires  
+ 
+ 
+ 
+keq 12.0 µC
+(
+)
+d2
+= keq 45.0 µC
+(
+)
+15.0 cm + d
+(
+)
+2 →15.0 cm + d
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 45.0
+12.0 = 3.75
+ 
+ 
+ 
+Solving, 
+ 
+ 
+ 
+15.0 cm + d = 1.94d      →     d = 16.0 cm 
+ 
+ 
+The third charge is at x = −16.0 cm . 
+ 
+(c) 
+The equilibrium of the –12.0-µC charge requires 
+ 
+ 
+ 
+keq 12.0 µC
+(
+)
+16.0 cm
+(
+)
+2
+= ke 45.0 µC
+(
+) 12.0 µC
+(
+)
+15.0 cm
+(
+)
+2
+ 
+ 
+ 
+solving, 
+ 
+ 
+ 
+q = +51.3 µC 
+ 
+ANS. FIG. P23.70
+
+--- PAGE 45 ---
+Chapter 23     45 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P23.72 
+ 
+ 
+All six individual forces are now equal in magnitude, so we have 
+equilibrium as required, and this is the only solution.  
+P23.71 
+To find the force on the test charge at point P, we 
+first determine the charge per unit length on the 
+semicircle: 
+ 
+ 
+Q =
+λ d
+∫
+=
+λ0 cosθRdθ
+−90.0°
+90.0°
+∫
+= λ0Rsinθ −90.0°
+90.0°
+= λ0R 1−−1
+(
+)
+[
+] = 2λ0R
+ 
+ 
+or 
+Q = 12.0 µC = 2λ0
+(
+) 0.600
+(
+) m, 
+ 
+which gives λ0 = 10.0 µC/m. 
+ 
+The force on the charge from each incremental 
+section of the semicircle is 
+ 
+ 
+dFy = keq λd
+(
+)cosθ
+R2
+= keq λ0 cos2θRdθ
+(
+)
+R2
+ 
+ 
+Integrating,  
+ 
+ 
+Fy =
+keqλ0
+R
+cos2θ dθ
+−90.0°
+90.0°
+∫
+= keqλ0
+R
+1
+2 + 1
+2 cos2θ
+⎛
+⎝⎜
+⎞
+⎠⎟dθ
+−π 2
+π 2
+∫
+Fy = keqλ0
+R
+1
+2θ + 1
+4 sin2θ
+⎛
+⎝⎜
+⎞
+⎠⎟
+−π 2
+π 2
+= keqλ0
+R
+π
+4 + 0
+⎛
+⎝⎜
+⎞
+⎠⎟−−π
+4 + 0
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+Fy = keqλ0
+R
+π
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+Fy =
+8.99 × 109 N⋅m2 /C2
+(
+) 3.00 × 10−6 C
+(
+) 10.0 × 10−6 C/m
+(
+) π
+2
+⎛
+⎝
+⎞
+⎠
+0.600 m
+(
+)
+Fy = 0.706 N, downward = −0.706ˆi N
+ 
+ 
+Since the leftward and rightward forces due to the two halves of the 
+semicircle cancel out, Fx = 0. 
+P23.72 
+The magnitude of the electric force is 
+given by F = keq1q2
+r2
+. The angle θ in  
+ANS. FIG. P23.72 is found from 
+ 
+ 
+θ = tan−1 15.0
+60.0
+⎛
+⎝⎜
+⎞
+⎠⎟= 14.0°
+ 
+ 
+ 
+ 
+ANS. FIG. P23.71
+
+--- PAGE 46 ---
+46     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+F1 =
+8.99 × 109 N ⋅m2/C2
+(
+) 10.0 × 10−6 C
+(
+)
+2
+0.150 m
+(
+)
+2
+= 40.0 N
+F2 =
+8.99 × 109 N ⋅m2/C2
+(
+) 10.0 × 10−6 C
+(
+)
+2
+0.618 m
+(
+)
+2
+= 2.35 N
+F3 =
+8.99 × 109 N ⋅m2/C2
+(
+) 10.0 × 10−6 C
+(
+)
+2
+0.600 m
+(
+)
+2
+= 2.50 N
+ 
+ 
+ 
+ 
+ 
+Fx = −F3 −F2 cos14.0° = −2.50 −2.35cos14.0° = −4.78 N
+Fy = −F1 −F2 sin14.0° = −40.0 −2.35sin14.0° = −40.5 N
+ 
+ 
+(a) 
+Fnet =
+Fx
+2 + Fy
+2 =
+−4.78 N
+(
+)
+2 + −40.5 N
+(
+)
+2 = 40.8 N 
+ 
+(b) 
+tanφ =
+Fy
+Fx
+= −40.5 N
+−4.78 N → φ = 263° 
+P23.73 
+We model the spheres as particles. They have different charges. They 
+exert on each other forces of equal magnitude. They have equal 
+masses, so their strings make equal angles θ with the vertical. We 
+define r as the distance between the centers of the two spheres. We 
+find r from 
+ 
+ 
+ 
+sinθ =
+r/2
+40.0 cm
+  
+ 
+from which we obtain 
+ 
+ 
+ 
+r = 80.0 cm
+(
+)sinθ  
+ 
+Now let T represent the string tension. We have, from the particle 
+under a net force model, 
+ 
+ 
+ 
+Fx
+∑
+= 0:     keq1q2
+r2
+−T sinθ = 0   →   keq1q2
+r2
+= T sinθ  
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= 0:     T cosθ −mg = 0   →   mg = T cosθ  
+[2] 
+ 
+Dividing equation [1] by [2] to eliminate T gives 
+ 
+   
+keq1q2
+r2mg = tanθ =
+r /2
+(40.0 cm)2 −r2 / 4
+ 
+ 
+Clearing the fractions, 
+ 
+ 
+   
+keq1q2 (80.0 cm)2 −r2 = mgr3
+
+--- PAGE 47 ---
+Chapter 23     47 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substituting numerical values gives 
+ 
+   
+8.99 × 109 N⋅m2/C2
+(
+) 200 × 10–9 C
+(
+) 300 × 10–9 C
+(
+)
+           ×
+0.800 m
+(
+)
+2 −r2 = 2.40 × 10−3 kg
+(
+) 9.80 m/s2
+(
+)r3  
+ 
+Suppressing units, 
+ 
+   
+(0.800)
+2 – r
+2 = 1 901 r
+6 
+ 
+Instead of attempting to solve this equation, we instead home in on a 
+solution by trying values, tabulated below: 
+ 
+r 
+0.640 – r
+2 – 1901 r
+6 
+0 
++0.64 
+0.5 
+–29.3 
+0.2 
++0.48 
+0.3 
+–0.84 
+0.24 
++0.22 
+0.27 
+–0.17 
+0.258 
++0.013 
+0.259 
+–0.001 
+ 
+Thus the distance to three digits is 0.259 m = 2.59 cm. 
+P23.74 
+Use Figure 23.24 for guidance on the physical setup of this problem. 
+Let the electron enter at the origin of coordinates at the left end and 
+just under the upper plate, which we choose to be negative so that the 
+electron accelerates downward. The electron is a particle under 
+constant velocity in the horizontal direction: 
+ 
+ 
+ 
+x f  = vxit 
+ 
+The electron is a particle under constant acceleration in the vertical 
+direction:  
+ 
+ 
+ 
+y f  =  1
+2 ayt2 
+ 
+Eliminate t between the equations:  
+ 
+ 
+ 
+y f  =  1
+2 ay
+x f
+vxi
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+     →    y f  = 
+ay
+2vxi
+2
+⎛
+⎝⎜
+⎞
+⎠⎟x f
+2
+
+--- PAGE 48 ---
+48     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Substitute for the acceleration of the particle in terms of the electric 
+force:  
+ 
+ 
+ 
+y f  = 
+−eE
+2vxi
+2 me
+⎛
+⎝⎜
+⎞
+⎠⎟x f
+2 
+ 
+Substitute numerical values, letting the final horizontal position be at 
+the right end of the plates:  
+ 
+ 
+ 
+y f  = 
+−1.60 × 10−19 C
+(
+) 200 N/C
+(
+)
+2 3.00 × 106 m/s
+(
+)
+2 9.11 × 10−31 kg
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+0.200 m
+(
+)
+2 
+= −0.078 1  m
+ 
+ 
+Therefore, when the electron leaves the plates, its final position is well 
+below that of the lower plate, which is at position y = –1.50 cm = 
+ –0.015 m. Consequently, because we have let the electron enter the 
+field at as high a position as possible, the electron will strike the lower 
+plate long before it reaches the end, regardless of where it enters the 
+field. 
+P23.75 
+Charge Q resides on each of the blocks, which repel as point charges: 
+ 
+ 
+ 
+F = keQ2
+L2
+= k L −Li
+(
+) 
+ 
+Solving for Q, we find 
+ 
+ 
+ 
+Q = L k L −Li
+(
+)
+ke
+= 0.500 m
+(
+)
+100 N/m
+(
+) 0.500 m −0.400 m
+(
+)
+8.99 × 109 N ⋅m2/C2
+= 1.67 × 10−5C
+ 
+P23.76 
+Charge Q resides on each of the blocks, which repel as point charges: 
+ 
+ 
+ 
+F = keQ2
+L2
+= k L −Li
+(
+) 
+ 
+Solving for Q, we find 
+ 
+ 
+ 
+Q = L
+k L −Li
+(
+)
+ke
+ 
+P23.77 
+Consider the free-body diagram of the rightmost  
+charge given in ANS. FIG. P23.77. Newton’s  
+second law then gives 
+ 
+ 
+Fy
+∑
+= 0 ⇒ T cosθ = mg   or   T = mg
+cosθ
+ 
+ 
+ANS. FIG. P23.77
+
+--- PAGE 49 ---
+Chapter 23     49 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+ 
+ 
+Fx
+∑
+= 0 
+     ⇒ Fe = T sinθ =
+mg
+cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ = mgtanθ
+ 
+ 
+But,  
+ 
+ 
+Fe = keq2
+r1
+2 + keq2
+r2
+2
+=
+keq2
+Lsinθ
+(
+)
+2 +
+keq2
+2Lsinθ
+(
+)
+2 =
+5keq2
+4L2 sin2θ 
+ 
+Thus,  
+ 
+ 
+5keq2
+4L2 sin2θ = mgtanθ or q =
+4L2mgsin2θ tanθ
+5ke
+ 
+ 
+If θ = 45°, m = 0.100 kg, and L = 0.300 m, then 
+ 
+ 
+q =
+4 0.300 m
+(
+)
+2 0.100 kg
+(
+) 9.80 m/s2
+(
+)sin2 45.0°
+(
+)tan 45.0°
+(
+)
+5 8.99 × 109 N⋅m2 /C2
+(
+)
+ 
+ 
+or 
+q = 1.98 × 10−6 C = 1.98 µC 
+P23.78 
+From Example 23.8, the electric field due to a uniformly charged ring is 
+given by 
+ 
+ 
+E =
+keQx
+x2 + a2
+(
+)
+3 2 
+ 
+For a maximum, we differentiate E with respect to x and set the result 
+equal to zero: 
+ 
+ 
+dE
+dx = Qke
+1
+x2 + a2
+(
+)
+3 2 −
+3x2
+x2 + a2
+(
+)
+5 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+= 0 
+ 
+solving for x gives 
+ 
+ 
+x2 + a2 −3x2 = 0  or  x = a
+2
+ 
+ 
+Substituting into the expression for E gives 
+ 
+ 
+E =
+keQa
+2
+3
+2 a2
+(
+)
+3 2 =
+keQ
+3
+3
+2 a2
+=
+2keQ
+3 3a2 =
+Q
+6 3π ∈0 a2
+
+--- PAGE 50 ---
+50     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.79 
+The charges are q and 2q. The magnitude of the  
+repulsive force that one charge exerts on the other is  
+ 
+ 
+Fe = 2ke
+q2
+r2 
+ 
+From Figure P23.79 in the textbook, observe that  
+the distance separating the two spheres is  
+ 
+ 
+r = d + 2Lsin10° 
+ 
+From the free-body diagram of one sphere given  
+in ANS. FIG. P23.79, observe that  
+ 
+ 
+Fy
+∑
+= 0 ⇒ T cos10° = mg   or   T = mg/cos10° 
+ 
+and  
+ 
+ 
+Fx
+∑
+= 0 ⇒ Fe = T sin10° =
+mg
+cos10°
+⎛
+⎝⎜
+⎞
+⎠⎟sin10° = mgtan10°
+ 
+ 
+Thus,  
+ 
+ 
+2ke
+q2
+r2 = mgtan10°     →     2ke
+q2
+d + 2Lsin10°
+(
+)
+2 = mgtan10° 
+ 
+or  
+ 
+q =
+mg d + 2Lsinθ
+(
+)
+2 tan10°
+2ke
+=
+0.015 kg
+(
+) 9.80 m/s2
+(
+) 0.0300 m + 2 0.0500 m
+(
+)sin10°
+[
+]
+2 tan10°
+2 8.99 × 109 N ⋅m2 /C2
+(
+)
+= 5.69 × 10−8 C
+ 
+ 
+giving  1.14 × 10−7C on one sphere and 5.69 × 10−8C on the other. 
+P23.80 
+(a) 
+The bowl exerts a normal force on each bead, directed along the 
+radius line at angle θ above the horizontal. Consider the free-
+body diagram shown in ANS. FIG. P23.80 for the bead on the left 
+side of the bowl: 
+ 
+ 
+ 
+Fy = nsinθ −mg = 0
+∑
+  →  n = mg
+sinθ
+ 
+ 
+ 
+Also, 
+ 
+ 
+ 
+Fx
+∑
+= −Fe + ncosθ = 0  
+ 
+ANS. FIG. P23.79
+
+--- PAGE 51 ---
+Chapter 23     51 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives 
+ 
+ 
+ 
+Fe = ncosθ =
+mg
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ = mg
+tanθ
+ 
+ 
+ 
+The electric force is 
+ 
+ 
+ 
+Fe = keq2
+d2 
+ 
+ 
+And from ANS. FIG. P23.80,  
+ 
+ 
+ 
+tanθ =
+R2 −d 2
+(
+)
+2
+d 2
+(
+)
+=
+4R2 −d2
+d
+ 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+Fe = keq2
+d2 = mg
+tanθ =
+mg
+4R2 −d2 d
+    →    q =
+mgd3
+ke
+4R2 −d2
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ 
+ 
+(b) As d → 2R, 
+4R2 −d2 →0 ; therefore, q →∞  . 
+P23.81 
+(a) 
+From the 2Q charge we have   
+ 
+ 
+ 
+Fe −T2 sinθ2 = 0 and mg −T2 cosθ2 = 0 
+ 
+ 
+Combining these we find 
+ 
+ 
+ 
+Fe
+mg = T2 sinθ2
+T2 cosθ2
+= tanθ2 
+ 
+ 
+From the Q charge we have 
+ 
+ 
+ 
+Fe = T1 sinθ1 = 0  and  mg −T1 cosθ1 = 0 
+ 
+ 
+Combining these we find 
+ 
+ 
+ 
+Fe
+mg = T1 sinθ1
+T1 cosθ1
+= tanθ1 or θ2 = θ1 
+ 
+(b) 
+Fe = ke2QQ
+r2
+= 2keQ2
+r2
+. If we assume θ is small then tanθ ≈r /2
+
+. 
+ 
+ 
+Substitute expressions for Fe and tan θ into either equation found 
+in part (a) and solve for r. Fe
+mg = tanθ, then 2keQ2
+r2
+1
+mg
+⎛
+⎝⎜
+⎞
+⎠⎟≈r
+2 and 
+solving for r we find r ≈
+4keQ2
+mg
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 3
+. 
+ 
+ANS. FIG. P23.80 
+ANS. FIG. P23.81
+
+--- PAGE 52 ---
+52     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.82 
+The field on the axis of the ring is calculated in Example 19.6 in the 
+chapter text as 
+ 
+ 
+ 
+E = Ex =
+kexQ
+x2 + a2
+(
+)
+3 2 
+ 
+The force experienced by a charge –q placed along the axis of the ring 
+is 
+ 
+ 
+ 
+F = −keQq
+x
+x2 + a2
+(
+)
+3 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+ 
+ 
+and when x << a, this becomes 
+ 
+ 
+ 
+F = −keQq
+a3
+⎛
+⎝⎜
+⎞
+⎠⎟x 
+ 
+This expression for the force is in the form of Hooke’s law, with an 
+effective spring constant of 
+ 
+ 
+ 
+k = keQq
+a3
+ 
+ 
+Since ω = 2π f =
+k
+m , we have 
+ 
+ 
+ 
+f =
+1
+2π
+keQq
+ma3
+ 
+P23.83 
+(a) 
+The total non-contact force on the cork ball is:  
+ 
+ 
+ 
+F = qE + mg = m g + qE
+m
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+which is constant and directed downward. Therefore, it behaves 
+like a simple pendulum in the presence of a modified uniform 
+gravitational field with a period given by: 
+ 
+ 
+ 
+T = 2π
+L
+g + qE/m
+= 2π
+0.500 m
+9.80 m/s2 +
+2.00 × 10−6 C
+(
+) 1.00 × 105 N/C
+(
+)
+1.00 × 10−3 kg
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+   = 0.307 s
+
+--- PAGE 53 ---
+Chapter 23     53 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Yes . Without gravity in part (a), we get  
+ 
+ 
+ 
+T = 2π
+L
+qE/m
+ 
+ 
+ 
+ 
+T = 2π
+0.500 m
+2.00 × 10−6 C
+(
+) 1.00 × 105 N/C
+(
+)
+1.00 × 10−3 kg
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.314 s
+ 
+(a 2.28% difference). 
+ 
+ 
+ 
+Challenge Problems 
+P23.84 
+According to the result of Example 23.7 in 
+the textbook, the left-hand rod creates this 
+field at a distance d from its right-hand end: 
+ 
+ 
+E =
+keQ
+d 2a + d
+(
+)
+ 
+ 
+The force per unit length exerted by the left-hand rod on the right-
+hand rod is then 
+ 
+ 
+dF = keQQ
+2a
+dx
+d d + 2a
+(
+)
+ 
+ 
+Integrating, 
+ 
+ 
+F = keQ2
+2a
+dx
+x x + 2a
+(
+)
+x=b−2a
+b
+∫
+= keQ2
+2a
+−1
+2a ln 2a + x
+x
+⎛
+⎝⎜
+⎞
+⎠⎟
+b−2a
+b
+= +keQ2
+4a2
+−ln 2a + b
+b
++ ln
+b
+b −2a
+⎛
+⎝⎜
+⎞
+⎠⎟= keQ2
+4a2 ln
+b2
+b −2a
+(
+) b + 2a
+(
+)
+=
+keQ2
+4a2
+⎛
+⎝⎜
+⎞
+⎠⎟ln
+b2
+b2 −4a2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+P23.85 
+First, we use unit vectors to find the total electric field at point A 
+produced by the 7 other charges.  
+ source charge 
+vector field components 
+equivalent field  
+(1) lower left,  
+front: 
+
+E1 = keq
+r1
+2 ˆr1 =
+keq
+s2 + s2
+ˆj + ˆk
+2
+ 
+1
+2 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+keq
+s2
+ˆj + ˆk
+(
+)
+ 
+ 
+ANS FIG. P23.84
+
+--- PAGE 54 ---
+54     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(2) lower right,  
+front: 
+
+E2 = keq
+r2
+2 ˆr2 = keq
+s2 ˆk
+ 
+keq
+s2 ˆk
+ 
+(3)  lower right,  
+back:  
+
+E3 = keq
+r3
+2 ˆr3 =
+keq
+s2 + s2
+ˆi + ˆk
+2
+ 
+1
+2 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+keq
+s2
+ˆi + ˆk
+(
+)
+ 
+(4)  lower left,  
+back: 
+
+E4 = keq
+r4
+2 ˆr4 =
+keq
+s2 + s2 + s2
+ˆi + ˆj + ˆk
+3
+ 
+1
+3 3
+⎛
+⎝⎜
+⎞
+⎠⎟
+keq
+s2
+ˆi + ˆj + ˆk
+(
+)
+ 
+(5)  upper right,  
+back 
+
+E5 = keq
+r5
+2 ˆr5 = keq
+s2 ˆi
+ 
+keq
+s2 ˆi
+ 
+(6)  upper left,  
+back 
+
+E6 = keq
+r6
+2 ˆr6 =
+keq
+s2 + s2
+ˆi + ˆj
+2 
+1
+2 2
+⎛
+⎝⎜
+⎞
+⎠⎟
+keq
+s2
+ˆi + ˆj
+(
+)
+ 
+(7)  upper right,  
+front 
+
+E7 = keq
+r7
+2 ˆr7 = keq
+s2 ˆj
+ 
+keq
+s2 ˆj
+ 
+total field 
+
+Etotal = keq
+s2
+1+
+2
+2 2 +
+1
+3 3
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi + ˆj+ ˆk
+(
+) 
+ 
+Notice that because of symmetry, the components of the field have the 
+same magnitude.  
+ 
+(a) 
+At point A, 
+ 
+ 
+ 
+
+F = q
+
+Etotal = keq2
+s2
+1+
+2
+2 2 +
+1
+3 3
+⎡
+⎣⎢
+⎤
+⎦⎥ˆi + ˆj+ ˆk
+(
+)
+= keq2
+s2
+1.90
+(
+) ˆi + ˆj+ ˆk
+(
+)
+ 
+ 
+ 
+→Fx = Fy  = Fz = 1.90ke
+q2
+s2 
+ 
+(b) 
+F =
+Fx
+2 + Fy
+2 + Fz
+2 = 3.29 keq2
+s2
+ 
+ 
+(c) 
+away from the origin
+
+--- PAGE 55 ---
+Chapter 23     55 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.86 
+(a) 
+Zero contribution from the same face due to 
+symmetry, opposite face contributes 
+ 
+ 
+ 
+E = 4 keq
+r2 sinφ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where  
+ 
+ 
+ 
+r =
+s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++
+s
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
++ s2 =
+1.5s = 1.22s 
+ 
+ 
+ 
+sinφ = s
+r , 
+E = 4 keqs
+r3 =
+4
+1.22
+(
+)
+3
+keq
+s2 = 2.18 keq
+s2 
+ 
+(b) At the top face, the electric field is in the ˆk direction. 
+P23.87 
+(a)  The electrostatic forces exerted on the two 
+charges result in a net torque  
+ 
+ 
+ 
+τ = −2Fasinθ = −2Eqasinθ 
+ 
+ 
+For small θ, sinθ ≈θ and using p = 2qa, we 
+have  
+ 
+ 
+ 
+τ = −Epθ 
+ 
+ 
+The torque produces an angular 
+acceleration given by  
+ 
+ 
+ 
+τ = Iα = I d2θ
+dt2 
+ 
+ 
+where the moment of inertia of the dipole is I = 2ma
+2 
+ 
+ 
+Combining the two expressions for torque, we have 
+ 
+ 
+ 
+d2θ
+dt2 = −Ep
+I
+⎛
+⎝⎜
+⎞
+⎠⎟θ 
+ 
+ 
+This equation can be written in the form d2θ
+dt2 = −ω 2θ which is the 
+standard equation characterizing simple harmonic motion, with  
+ 
+ 
+ 
+ω 2 = Ep
+I =
+E 2qa
+(
+)
+2ma2 = qE
+ma
+ 
+ 
+ 
+The frequency of oscillation is f = ω /2π , so    
+ 
+ 
+ 
+f =
+1
+2π
+qE
+ma
+ 
+ 
+ANS. FIG. P23.87 
+ANS. FIG. P23.86
+
+--- PAGE 56 ---
+56     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) If the masses are unequal, the dipole will oscillate about its center 
+of mass (CM). Assume mass m2 is greater than mass m1, and treat 
+the center of the dipole as being at the origin of an x axis, so that 
+mass m1 is at x = –a and mass m2 is at x = +a. The coordinate of the 
+CM of the dipole is then  
+ 
+ 
+ 
+xcm = m2a −m1a
+m1 + m2
+= a m2 −m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+relative to the center of the dipole. Notice that the moment of 
+inertia of the dipole about its center is  
+ 
+ 
+ 
+I = m1a2 + m2a2 
+ 
+ 
+but its center is a distance xcm from its CM. By the parallel-axis 
+theorem, the moment of inertia of the dipole about its center is 
+related to its moment about its CM thus: 
+ 
+ 
+ 
+I = m1a2 + m2a2 = ICM + m1 + m2
+(
+)xcm
+2 
+ 
+ 
+therefore,  
+ 
+ 
+ 
+ICM = m1a2 + m2a2 −m1 + m2
+(
+)xcm
+2 
+ 
+ 
+The moment of inertia of the dipole about its CM is then  
+ 
+ 
+ 
+ICM = m1a2 + m2a2 −m1 + m2
+(
+)a2
+m2 −m1
+m1 + m2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+ 
+ 
+ 
+ 
+ICM = m1a2 + m2a2 −a2 m2 −m1
+(
+)
+2
+m1 + m2
+(
+)
+ 
+ 
+ 
+ 
+ICM =
+m1 + m2
+(
+) m1a2 + m2a2
+(
+) −m2
+2a2 −2m1m2a2 + m1
+2a2
+(
+)
+m1 + m2
+(
+)
+ICM =
+m1
+2a2 + 2m1m2a2 + m2
+2a2
+(
+) −m2
+2a2 −2m1m2a2 + m1
+2a2
+(
+)
+m1 + m2
+(
+)
+ICM = 4m1m2a2
+m1 + m2
+(
+)
+ 
+ 
+ 
+Therefore, from part (a),  
+ 
+ 
+ 
+ω 2 = Ep
+ICM
+=
+E 2qa
+(
+)
+4m1m2a2
+m1 + m2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+=
+qE m1 + m2
+(
+)
+2m1m2a
+= 2π f
+(
+)
+2
+
+--- PAGE 57 ---
+Chapter 23     57 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+and 
+ 
+ 
+ 
+f = 1
+2π
+qE m1 + m2
+(
+)
+2m1m2a
+ 
+P23.88 
+From ANS. FIG. P23.88(a) we have    
+ 
+ 
+ 
+dcos30.0° = 15.0 cm 
+ 
+or  
+ 
+d = 15.0 cm
+cos30.0°. 
+ 
+From ANS. FIG. P23.88(b) we have 
+ 
+ 
+ 
+θ = sin−1
+d
+50.0 cm
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+ 
+θ = sin−1
+15.0 cm
+50.0 cm
+(
+) cos30.0°
+(
+)
+⎛
+⎝⎜
+⎞
+⎠⎟= 20.3°
+ 
+ 
+ 
+ 
+Fq
+mg = tanθ  or  Fq = mgtan20.3° 
+[1] 
+ 
+From ANS. FIG. P23.88(c) we have 
+ 
+ 
+ 
+Fq = 2F cos30.0° 
+ 
+ 
+ 
+Fq = 2
+keq2
+0.300 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥cos30.0° 
+[2] 
+ 
+Combining equations [1] and [2], 
+ 
+ 
+ 
+2
+keq2
+0.300 m
+(
+)
+2
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥cos30.0° = mgtan20.3° 
+ 
+ 
+ 
+q2 =
+mg 0.300 m
+(
+)
+2 tan20.3°
+2ke cos30.0°
+q2 =
+2.00 × 10−3 kg
+(
+) 9.80 m/s2
+(
+) 0.300 m
+(
+)
+2 tan20.3°
+2 8.99 × 109 N ⋅m2 /C2
+(
+)cos30.0°
+ q =
+4.20 × 10−14 C2 = 2.05 × 10−7 C = 0.205 µC
+ 
+ANS. FIG. P23.88(a) 
+ANS. FIG. P23.88(b) 
+ANS. FIG. P23.88(c)
+
+--- PAGE 58 ---
+58     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.89 
+d
+
+E =
+kedq
+x2 + 0.150 m
+(
+)
+2
+−xˆi + 0.150 mˆj
+x2 + 0.150 m
+(
+)
+2
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+     =
+keλ −xˆi + 0.150 mˆj
+(
+)dx
+x2 + 0.150 m
+(
+)
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+3 2
+ 
+ 
+
+E =
+d
+
+E
+all charge
+∫
+= keλ
+−xˆi + 0.150 mˆj
+(
+)dx
+x2 + 0.150 m
+(
+)
+2
+⎡⎣
+⎤⎦
+3 2
+x=0
+0.400 m
+∫
+ 
+ 
+
+E = keλ
++ˆi
+x2 + 0.150 m
+(
+)
+2
+0
+0.400 m
++
+0.150 m
+(
+)ˆjx
+0.150 m
+(
+)
+2
+x2 + 0.150 m
+(
+)
+2
+0
+0.400 m
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+
+E = 8.99 × 109 N ⋅m2 /C2
+(
+) 35.0 × 10−9 C/m
+(
+)
+                                  × ˆi 2.34 −6.67
+(
+) m−1 + ˆj 6.24 −0
+(
+) m−1
+⎡⎣
+⎤⎦
+
+E = −1.36ˆi + 1.96ˆj
+(
+) × 103 N/C =
+−1.36ˆi + 1.96ˆj
+(
+) kN/C
+ 
+P23.90 
+We work under the assumption that vx has the nearly constant value v. 
+Initially, with the particle nearly at infinity, vx = v and vy = 0. As the 
+moving charge travels toward and 
+passes the fixed charge Q, the 
+velocity component vy increases 
+according to 
+ 
+ 
+m dvy
+dt = Fy
+ 
+ 
+or 
+m dvy
+dx
+dx
+dt = qEy 
+ 
+Now dx
+dt = vx has the nearly constant value v; therefore, we have  
+ 
+ 
+dvy = q
+mv Eydx
+→
+vy =
+dvy
+0
+vy
+∫
+= q
+mv
+Eydx
+−∞
+∞
+∫
+ 
+ 
+The radially outward component of the electric field varies along the x 
+axis. We assume that the distance r between charges is does not 
+depend significantly on y. 
+ANS. FIG. P23.89 
+ 
+ANS. FIG. P23.90
+
+--- PAGE 59 ---
+Chapter 23     59 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+From the figure, we see that E = keQ
+r2 , r ≈
+d 2 + x2 , Ey = Esinθ , and 
+sin θ ≈
+d
+d2 + x2 . We evaluate the integral from above: 
+ 
+ 
+Ey dx
+−∞
+∞
+∫
+=
+Esinθ dx
+−∞
+∞
+∫
+≈
+keQ
+d2 + x2
+(
+)
+d
+d2 + x2 dx
+−∞
+∞
+∫
+= keQd
+dx
+d2 + x2
+(
+)
+3 2
+−∞
+∞
+∫
+= keQd
+(
+)
+x
+d2 d2 + x2
+(
+)
+1 2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+−∞
+∞
+= keQd
+d2
+1−−1
+(
+)
+[
+] = 2keQ
+d
+ 
+ 
+So, the vy is  
+ 
+ 
+vy = q
+mv
+Eydx
+−∞
+∞
+∫
+= q
+mv
+2keQ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= 2keqQ
+mvd
+ 
+ 
+The angle of deflection is described by 
+ 
+ 
+tanθ = vy
+vx
+≈vy
+v = 2keqQ
+mv2d
+→
+θ = tan−1 2keqQ
+mv2d
+ 
+P23.91 
+(a) 
+The two charges create fields of equal magnitude, both with 
+outward components along the x axis and with upward and 
+downward y components that add to zero. The net field is then 
+ 
+ 
+ 
+
+E = keq
+r2
+x
+r
+ˆi + keq
+r2
+x
+r
+ˆi = 2 keq
+r2
+x
+r
+ˆi
+  =
+2(8.99 × 109) 52 × 10−9
+(
+)x ˆi
+(0.25)2 + x2
+⎡⎣
+⎤⎦
+3/2
+ 
+ 
+ 
+
+E =
+935x
+0.0625 + x2
+(
+)
+3/2 ˆi  where 
+
+E is in newtons per coulomb and x
+is in meters.
+ 
+ 
+(b) At x = 0.36 m,  
+ 
+ 
+ 
+
+E =
+935 0.36
+(
+)  ˆi
+(0.0625 + (0.36)2)3/2 = 4.00 kN/C ˆi 
+ 
+(c) 
+We solve 1 000 = (935 x)(0.0625 + x
+2)
+–3/2 by tabulating values for 
+the field function:
+
+--- PAGE 60 ---
+60     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We see that there are two points where E = 1 000 N/C. We home 
+in on them to determine their coordinates as (to three digits)  
+x = 0.016 8 m  and x = 0.916 m. 
+ 
+(d) The table in part (c) shows that 
+nowhere is the field so large as 16 000 N/C. 
+x 
+(935 x)(0.0625 + x
+2)
+–3/2 
+0 
+ 
+0 
+0.01 
+ 
+597 
+0.02 
+ 
+1 185 
+0.1 
+ 
+4 789 
+0.2 
+ 
+5 698 
+0.36 
+ 
+4 000 
+0.9 
+ 
+1 032 
+1 
+ 
+854 
+∞ 
+ 
+0
+
+--- PAGE 61 ---
+Chapter 23     61 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P23.2 
+(a) 2.62 × 10
+24; (b) 2.38 electrons for every 10
+9 already present 
+P23.4 
+1.57 μN to the left 
+P23.6 
+(a) 9.21 × 10
+–10 N; (b) No. The electric force depends only on the 
+magnitudes of the two charges and the distance between them. 
+P23.8 
+~10
+26 N 
+P23.10 
+(a) 1.59 × 10
+–9 N; (b) 1.29 × 10
+–45 N, larger by 1.24 × 10
+36 times;  
+(c) 8.61 × 10
+–11 C/kg 
+P23.12 
+(a) 46.7 N to the left; (b) 157 N to the right; (c) 111 N to the left 
+P23.14 
+(a) 
+q1
+q1 +
+q2
+d ; (b) Yes, if the third bead has a positive charge. 
+P23.16 
+0.229 m 
+P23.18 
+(a) 0; (b) 30.0 N; (c) 21.6 N; (d) 17.3 N; (e) –13.0 N; (f) 17.3 N; (g) 17.0 N; 
+(h) 24.3 N at 44.5° above the +x direction 
+P23.20 
+(a) The acceleration of the charge is equal to a negative constant times 
+its displacement from equilibrium, as in a = −ω 2x , so we have Simple 
+Harmonic Motion with ω 2 = 16keqQ
+md3
+; (b) π
+2
+md3
+keqQ ; (c) 4a
+keqQ
+md3 
+P23.22 
+The unknown charge on each dust particle is about half of the smallest 
+possible free charge, the charge of the electron. No such free charge 
+exists. Therefore, the forces cannot balance. 
+P23.24 
+2.07 × 10
+3 N/C; down 
+P23.26 
+−ke
+3q
+r2 ˆj 
+P23.28 
+(a) 
+keQxˆi
+a2 + x2
+(
+)
+3 2 ; (b) A circle of charge corresponds to letting n grow 
+beyond all bounds, but the result does not depend on n. Because of the 
+symmetrical arrangement of the charges, smearing the charge around 
+the circle does not change its amount or its distance from the field 
+point, so it does not change the field. 
+P23.30 
+(a) 18.0ˆi −218ˆj
+(
+)kN/C ; (b) 0.0360ˆi −0.436ˆj
+(
+)N
+
+--- PAGE 62 ---
+62     Electric Fields 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.32 
+The field at the origin can be to the right, if the unknown charge is  
+–9Q, or the field can be to the left, if and only if the unknown charge is 
++27Q. 
+P23.34 
+(a) 1.29 × 104ˆj N C ; (b) −3.86 × 10−2ˆj N 
+P23.36 
+4a keq
+(
+)
+x3
+ 
+P23.38 
+(a) 383 MN/C; (b) 324 MN/C; (c) 80.7 MN/C; (d) 6.68 MN/C 
+P23.40 
+Ex ≈keQ
+x2 for a disk at large distances 
+P23.42 
+(a) −ke
+Q
+L
+1
+d −
+1
+d2 + L2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+ and ke
+Q
+d
+1
+d2 + L2
+(
+)
+1 2 ; (b) Ex ≈0 and 
+Ey ≈ke
+Q
+d2 which is the field of a point charge Q at a distance d along 
+the y axis above the charge. 
+P23.44 
+(a) 2keλ sinθ0
+d
+; (b) 2keλ
+d
+ 
+P23.46 
+(a) keQˆi
+h
+1
+d2 + R2
+(
+)
+1 2 −
+1
+d + h
+(
+)
+2 + R2
+(
+)
+1 2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎥
+ 
+ 
+(b) 2keQˆi
+R2h
+h + d2 + R2
+(
+)
+1 2 −
+d + h
+(
+)
+2 + R2
+(
+)
+1 2
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+P23.48 
+See ANS. FIG. P23.48. 
+P23.50 
+(a) See ANS. FIG. P23.50; (b) At the center; (c) 1.73ke
+q
+a2 ˆj 
+P23.52 
+(a) −5.76 × 1013ˆi m/s2 ; (b) vi = 2.84 × 106ˆi m/s ; (c) 4.93 × 10
+–8 s 
+P23.54 
+(a) Particle under constant velocity; (b) Particle under constant 
+acceleration; (c) the proton moves in a parabolic path just like a 
+projectile in a gravitational field; (d) mpvi
+2 sin2θ
+eE
+; (e) 36.9° or 53.1°; (f) 
+166 ns or 221 ns 
+P23.56 
+(a) a parabola; (b) the negative plate; (c) The particle strikes the 
+negative plate after moving a horizontal distance of 0.961 mm. 
+P23.58 
+(a) 2.00 × 10
+–10 C; (b) 1.41 × 10
+–10 C; (c) 5.89 × 10
+–11 C
+
+--- PAGE 63 ---
+Chapter 23     63 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P23.60 
+5.81 nC 
+P23.62 
+49.3 N/m 
+P23.64 
+(a) 0.115 N; (b) 1.25 cm 
+P23.66 
+2.51 × 10
+–9 
+P23.68 
+(a) q =
+mg
+Acotθ + B
+(
+) ; (b) T =
+mgA
+Acosθ + Bsinθ
+(
+)
+ 
+P23.70 
+(a) It is possible in just one way; (b) x = –16.0 cm; (c) +51.3µC 
+P23.72 
+(a) 40.9 N; (b) 263° 
+P23.74 
+See P23.74 for complete solution 
+P23.76 
+L
+k L −Li
+(
+)
+ke
+ 
+P23.78 
+2keQ
+3 3a2 =
+Q
+6 3π ∈0 a2 
+P23.80 
+(a) 
+mgd3
+ke
+4R2 −d2
+⎛
+⎝
+⎜⎜
+⎞
+⎠
+⎟⎟
+1 2
+; (b) q →∞ 
+P23.82 
+1
+2π
+keQq
+ma3 
+P23.84 
+See P23.84 for full solution 
+P23.86 
+(a) 2.18 keq
+s2 ; (b) the direction is the ˆk direction 
+P23.88 
+0.205µC 
+P23.90 
+θ = tan−1
+2keqQ
+mv2d
+⎛
+⎝⎜
+⎞
+⎠⎟

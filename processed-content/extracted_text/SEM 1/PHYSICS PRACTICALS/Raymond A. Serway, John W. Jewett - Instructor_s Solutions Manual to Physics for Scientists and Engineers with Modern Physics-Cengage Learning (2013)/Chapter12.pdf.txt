@@ -1,0 +1,5252 @@
+
+--- PAGE 1 ---
+632 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+12 
+Static Equilibrium and Elasticity 
+ 
+CHAPTER OUTLINE 
+ 
+12.1 
+Analysis Model: Rigid Object in Equilibrium 
+12.2 
+More on the Center of Gravity 
+12.3 
+Examples of Rigid Objects in Static Equilibrium  
+12.4 
+Elastic Properties of Solids 
+ 
+ * An asterisk indicates an item new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ12.1 
+Answer (b). The skyscraper is about 300 m tall. The gravitational 
+field (acceleration) is weaker at the top by about 900 parts in ten 
+million, by on the order of 10
+−4 times. The top half of the uniform 
+building is lighter than the bottom half by about (1/2)(10
+−4) times. 
+Relative to the center of mass at the geometric center, this effect 
+moves the center of gravity down, by about (1/2)(10
+−4)(150 m) ~ 10 
+mm. 
+OQ12.2 
+Answer (c). Net torque = (50 N)(2 m) − (200 N)(5 m) − (300 N)x = 0; 
+therefore, x = 3 m. 
+OQ12.3 
+Answer (a). Our theory of rotational motion does not contradict our 
+previous theory of translational motion. The center of mass of the 
+object moves as if the object were a particle, with all of the forces 
+applied there. This is true whether the object is starting to rotate or 
+not. 
+OQ12.4 
+Answer (d). In order for an object to be in equilibrium, it must be in 
+both translational equilibrium and rotational equilibrium. Thus, it 
+must meet two conditions of equilibrium, namely F
+
+net = 0 and 
+τ net = 0.
+
+--- PAGE 2 ---
+Chapter 12     633 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+OQ12.5 
+Answer (b). The lower the center of gravity, the more stable the can. 
+In cases (a) and (c) the center of gravity is above the base by one-half 
+the height of the can. In case (b), the center of gravity is above the 
+base by only a bit more than one-quarter of the height of the can. 
+OQ12.6 
+Answer (d). Using the left end of the plank as a pivot and requiring 
+that 
+τ
+∑
+= 0 gives 
+ 
+ 
+ 
+−mg 2.00 m
+(
+)+ F2 3.00 m
+(
+) = 0 
+ 
+or 
+ 
+ 
+  
+F2 = 2mg
+3
+=
+2 20.0 kg
+(
+) 9.80 m s2
+(
+)
+3
+= 131 N 
+OQ12.7 
+Answer: τD > τC > τE > τB > τA. The force exerts a counterclockwise 
+torque about pivot D. The line of action of the force passes through 
+C, so the torque about this axis is zero. In order of increasing negative 
+(clockwise) values come the torques about F, E and B essentially 
+together, and A.  
+OQ12.8 
+Answer (e). In the problems we study, the forces applied to the object 
+lie in a plane, and the axis we choose is a line perpendicular to this 
+plane, so it appears as a point on the force diagram. It can be chosen 
+anywhere. The algebra of solving for unknown forces is generally 
+easier if we choose the axis where some unknown forces are acting. 
+OQ12.9 
+(i) Answer (b). The extension is directly proportional to the original 
+dimension, according to F/A = Y∆L/Li. 
+ 
+(ii) Answer (e). Doubling the diameter quadruples the area to make 
+the extension four times smaller. 
+OQ12.10 
+Answer (b). Visualize the ax as like a balanced playground seesaw 
+with one large-mass person on one side, close to the fulcrum, and a 
+small-mass person far from the fulcrum on the other side. Different 
+masses are on the two sides of the center of mass. The mean position 
+of mass is not the median position.
+
+--- PAGE 3 ---
+634     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ12.1 
+The free-body diagram demonstrates that it is  
+necessary to have friction on the ground to  
+counterbalance the normal force of the wall and to  
+keep the base of the ladder from sliding. If there is  
+friction on the floor and on the wall, it is not  
+possible to determine whether the ladder will slip,  
+from the equilibrium conditions alone.  
+CQ12.2 
+A V-shaped boomerang, a barstool, an empty 
+coffee cup, a satellite dish, and a curving 
+plastic slide at the edge of a swimming pool 
+each have a center of mass that is not within 
+the bulk of the object. 
+CQ12.3 
+(a) 
+Consider pushing up with one hand on one side of a steering 
+wheel and pulling down equally hard with the other hand on 
+the other side. A pair of equal-magnitude oppositely-directed 
+forces applied at different points is called a couple. 
+ 
+(b) 
+An object in free fall has a nonzero net force acting on it, but a 
+net torque of zero about its center of mass. 
+CQ12.4 
+When one is away from a wall and leans over, one’s back moves 
+backward so the body’s center of gravity stays over the feet. When 
+standing against a wall and leaning over, the wall prevents the 
+backside from moving backward, so the center of gravity shifts 
+forward. Once your CG is no longer over your feet, gravity 
+contributes to a nonzero net torque on your body and you begin to 
+rotate. 
+CQ12.5 
+If an object is suspended from some point and allowed to freely 
+rotate, the object’s weight will cause a torque about that point unless 
+the line of action of its weight passes through the point of support. 
+Suspend the plywood from the nail, and hang the plumb bob from 
+the nail. Trace on the plywood along the string of the plumb bob. 
+The plywood’s center of gravity is somewhere along that line. Now 
+suspend the plywood with the nail through a different point on the 
+plywood, not along the first line you drew. Again hang the plumb 
+bob from the nail and trace along the string. The center of gravity is 
+located halfway through the thickness of the plywood under the 
+intersection of the two lines you drew. 
+CQ12.6 
+She can be correct. Consider the case of a bridge supported at both 
+ends: the sum of the forces on the ends equals the total weight of the 
+bridge. If the dog stands on a relatively thick scale, the dog’s legs on 
+ANS. FIG. CQ12.1
+
+--- PAGE 4 ---
+Chapter 12     635 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+the ground might support more of its weight than its legs on the 
+scale. She can check for and if necessary correct for this error by 
+having the dog stand like a bridge with two legs on the scale and two 
+on a book of equal thickness—a physics textbook is a good choice. 
+CQ12.7 
+Yes, it can. Consider an object on a spring oscillating back and forth. 
+In the center of the motion both the sum of the torques and the sum 
+of the forces acting on the object are (separately) zero. Again, a 
+meteoroid flying freely through interstellar space feels essentially no 
+forces and keeps moving with constant velocity. 
+CQ12.8 
+Shear deformation. Its deformations are parallel to its surface.  
+ 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 12.1 
+Analysis Model: Rigid Object in Equilibrium 
+P12.1 
+Use distances, angles, and forces as shown in ANS. FIG. P12.1. The 
+conditions of equilibrium are: 
+ 
+ 
+ 
+Fy
+∑
+= 0 ⇒Fy + Ry −Fg = 0
+Fx
+∑
+= 0 ⇒Fx −Rx = 0
+τ
+∑
+= 0 ⇒Fycosθ −Fg
+
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ −Fxsinθ = 0
+ 
+ 
+ANS. FIG. P12.1 
+P12.2 
+Take torques about P, as shown in ANS. FIG. P12.2.  
+ 
+ 
+ 
+τ p
+∑
+= −nO
+
+2 + d
+⎡
+⎣⎢
+⎤
+⎦⎥+ m1g 
+2 + d
+⎡
+⎣⎢
+⎤
+⎦⎥+ mbgd −m2gx = 0
+ 
+ 
+We want to find x for which nO = 0: 
+ 
+ 
+ 
+x =
+m1g + mbg
+(
+)d + m1g 
+2
+m2g
+=
+m1 + mb
+(
+)d + m1
+
+2
+m2
+
+--- PAGE 5 ---
+636     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the values given:  
+ 
+ 
+  
+x =
+m1 + mb
+(
+)d + m1
+
+2
+m2
+x =
+5.00 kg + 3.00 kg
+(
+) 0.300 m
+(
+)+ 5.00 kg
+(
+)1.00 m
+2
+15.0 m
+x = 0.327 m
+ 
+ 
+ANS. FIG. P12.2 
+ 
+ 
+The situation is impossible because x is larger than the remaining
+portion of the beam, which is 0.200 m long.
+ 
+ 
+ 
+ 
+Section 12.2 
+More on the Center of Gravity 
+P12.3 
+The coordinates of the center of gravity of 
+piece 1 are 
+ 
+ 
+  
+x1 = 2.00 cm and y1 = 9.00 cm 
+ 
+The coordinates for piece 2 are 
+ 
+ 
+  
+x2 = 8.00 cm and y2 = 2.00 cm 
+ 
+The area of each piece is 
+ 
+ 
+  
+A1 = 72.0 cm2 and A2 = 32.0 cm2 
+ANS. FIG. P12.3
+
+--- PAGE 6 ---
+Chapter 12     637 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+And the mass of each piece is proportional to the area. Thus, 
+ 
+ 
+ 
+xCG =
+mixi
+∑
+mi
+∑
+= 72.0 cm2
+(
+) 2.00 cm
+(
+)+ 32.0 cm2
+(
+) 8.00 cm
+(
+)
+72.0 cm2 + 32.0 cm2
+= 3.85 cm
+ 
+ 
+and 
+ 
+ 
+  
+yCG =
+miyi
+∑
+mi
+∑
+= 72.0 cm2
+(
+) 9.00 cm
+(
+)+ 32.0 cm2
+(
+) 2.00 cm
+(
+)
+104 cm2
+= 6.85 cm
+ 
+P12.4 
+The definition of the center of gravity as the average position of mass 
+in the set of objects will result in equations about x and y coordinates 
+that we can rearrange and solve to find where the last mass must be. 
+ 
+From rCG =
+mi
+ri
+∑
+mi
+∑
+,
+r CG
+mi
+∑
+(
+) =
+mi
+ri
+∑
+ 
+ 
+ 
+We require the center of mass to be at the origin; this simplifies the 
+equation, leaving 
+ 
+ 
+ 
+ 
+ 
+mixi = 0
+∑
+and
+miyi = 0
+∑
+ 
+ 
+ 
+To find the x coordinate, we substitute the known values: 
+ 
+ 
+ 
+5.00 kg
+(
+) 0 m
+(
+)+ 3.00 kg
+(
+) 0 m
+(
+)
+                         + 4.00 kg
+(
+) 3.00 m
+(
+)+ 8.00 kg
+(
+)x = 0
+  
+ 
+Solving for x gives 
+x = –1.50 m. 
+ 
+ 
+Likewise, to find the y coordinate, we solve: 
+ 
+ 
+ 
+ 
+5.00 kg
+(
+) 0 m
+(
+)+ 3.00 kg
+(
+) 4.00 m
+(
+)
+                         + 4.00 kg
+(
+) 0 m
+(
+)+ 8.00 kg
+(
+)y = 0
+ 
+ 
+ 
+to find 
+y = –1.50 m 
+ 
+Therefore, a fourth mass of 8.00 kg should be located at  
+ 
+ 
+ 
+r4 = (–1.50ˆi −1.50ˆj) m
+
+--- PAGE 7 ---
+638     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.5 
+Let σ represent the mass-per-face area. (It would be equal to the 
+material’s density multiplied by the constant thickness of the wood.) A 
+vertical strip at position x, with width dx and height x −3.00
+(
+)
+2
+9
+, has 
+mass  
+ 
+ 
+ 
+dm = σ x −3.00
+(
+)
+2 dx
+9
+ 
+ 
+ 
+The total mass is 
+ 
+ 
+  
+M =
+dm
+∫
+=
+σ x −3
+(
+)
+2 dx
+9
+x=0
+3.00
+∫
+= σ
+9
+⎛
+⎝⎜
+⎞
+⎠⎟
+x2 −6x + 9
+(
+)dx
+0
+3.00
+∫
+= σ
+9
+⎛
+⎝⎜
+⎞
+⎠⎟
+x3
+3 −6x2
+2 + 9x
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+3.00
+= σ
+ 
+ 
+ 
+The x coordinate of the center of gravity is 
+ 
+ 
+  
+xCG =
+xdm
+∫
+M
+= 1
+9σ
+σ x x −3
+(
+)
+2 dx
+0
+3.00
+∫
+= σ
+9σ
+x3 −6x2 + 9x
+(
+)dx
+0
+3.00
+∫
+= 1
+9
+x4
+4 −6x3
+3 + 9x2
+2
+⎡
+⎣⎢
+⎤
+⎦⎥
+0
+3.00
+= 6.75 m
+9.00
+= 0.750 m
+ 
+ 
+ANS. FIG. P12.5 
+P12.6 
+We can visualize this as a whole pizza with mass m1 and center of 
+gravity located at x1, plus a hole that has negative mass, –m2, with 
+center of gravity at x2: 
+ 
+ 
+ 
+xCG = m1x1 −m2x2
+m1 −m2
+
+--- PAGE 8 ---
+Chapter 12     639 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Call σ the mass of each unit of pizza area. 
+ 
+ 
+ 
+xCG =
+σπR20 −σπ
+R
+2
+⎛
+⎝
+⎞
+⎠
+2 −R
+2
+⎛
+⎝
+⎞
+⎠
+σπR2 −σπ
+R
+2
+⎛
+⎝
+⎞
+⎠
+2
+xCG = R/8
+3/4 =
+R
+6
+ 
+P12.7 
+In a uniform gravitational field, the center of mass and center of 
+gravity of an object coincide. Thus, the center of gravity of the triangle 
+is located at x = 6.67 m, y = 2.33 m (see Example 9.12 on the center of 
+mass of a triangle in Chapter 9). 
+ 
+The coordinates of the center of gravity of the three-object system are 
+then: 
+xCG =
+mixi
+∑
+mi
+∑
+= 6.00 kg
+(
+) 5.50 m
+(
+)+ 3.00 kg
+(
+) 6.67 m
+(
+)+ 5.00 kg
+(
+) −3.50 m
+(
+)
+6.00 + 3.00 + 5.00
+(
+) kg
+= 35.5 kg⋅m
+14.0 kg
+= 2.54 m and
+yCG =
+miyi
+∑
+mi
+∑
+= 6.00 kg
+(
+) 7.00 m
+(
+)+ 3.00 kg
+(
+) 2.33 m
+(
+)+ 5.00 kg
+(
+) +3.50 m
+(
+)
+14.0 kg
+= 66.5 kg⋅m
+14.0 kg
+= 4.75 m
+ 
+ 
+ 
+ 
+Section 12.3 
+Examples of Rigid Objects in Static Equilibrium 
+P12.8 
+The car’s weight is 
+ 
+ 
+  
+Fg = mg = 1 500 kg
+(
+) 9.80 m/s2
+(
+)
+= 1 4700 N
+ 
+ 
+Call 
+
+F the force of the ground on each of the 
+front wheels and 
+
+R the normal force on each of 
+the rear wheels. If we take torques around the 
+front axle, with counterclockwise in the picture 
+ANS. FIG. P12.8
+
+--- PAGE 9 ---
+640     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+chosen as positive, the equations are as follows: 
+ 
+ 
+  
+Fx = 0:
+∑
+0 = 0
+Fy = 0:
+∑
+2R – 14 700N + 2F = 0
+τ = 0:
+∑
++2R(3.00m) – (14 700 N)(1.20m)+ 2F(0) = 0
+ 
+ 
+ 
+The torque equation gives: 
+ 
+ 
+  
+R = 17 640 N ⋅m
+6.00 m
+= 2 940 N = 2.94 kN 
+ 
+ 
+ 
+Then, from the second force equation, 
+ 
+ 
+  
+2(2.94 kN) – 14.7 kN + 2F = 0
+and
+F = 4.41 kN
+ 
+P12.9 
+The second condition for equilibrium at the 
+pulley is 
+ 
+ 
+ 
+ 
+τ
+∑
+= 0 = mg 3r
+(
+)−Tr 
+[1] 
+ 
+and from equilibrium at the truck, we 
+obtain 
+ 
+ 
+ 
+2T −Mgsin 45.0° = 0
+T = Mgsin 45.0°
+2
+= 1 500 kg
+(
+)gsin 45.0°
+2
+= 530g N
+ 
+ 
+solving for the mass of the counterweight from [1] and substituting 
+gives 
+ 
+ 
+ 
+m = T
+3g = 530g
+3g
+= 177 kg
+ 
+P12.10 
+(a) 
+For rotational equilibrium of the lowest rod about its point of 
+support, 
+τ
+∑
+= 0. 
+ 
+ 
+ 
++ 12.0 g
+(
+)g 3.00 cm
+(
+)−m1g 4.00 cm
+(
+) = 0    
+ 
+ 
+which gives 
+ 
+ 
+ 
+m1 = 9.00 g 
+ 
+(b) For the middle rod, 
+ 
+ 
+ 
++ m2g 2.00 cm
+(
+) −12.0 g + 9.0 g
+(
+)g 5.00 cm
+(
+) = 0    
+ANS. FIG. P12.9
+
+--- PAGE 10 ---
+Chapter 12     641 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives 
+ 
+ 
+ 
+m2 = 52.5 g 
+ 
+(c) 
+For the top rod, 
+ 
+ 
+ 
+52.5 g + 12.0 g + 9.0 g
+(
+)g 4.00 cm
+(
+) −m3g 6.00 cm
+(
+) = 0    
+ 
+ 
+which gives 
+ 
+ 
+ 
+m3 = 49.0 g 
+P12.11 
+Since the beam is in equilibrium, we choose the center as our pivot 
+point and require that 
+ 
+ 
+ 
+τ center
+∑
+= −FSam 2.80 m
+(
+)+ FJoe 1.80 m
+(
+) = 0 
+ 
+or  
+ 
+ 
+ 
+FJoe = 1.56FSam 
+ 
+[1] 
+ 
+Also, 
+ 
+ 
+ 
+Fy
+∑
+= 0   ⇒   FSam + FJoe = 450 N 
+[2] 
+ 
+Substitute equation [1] into [2] to get the following: 
+ 
+ 
+ 
+FSam + 1.56FSam = 450 N  or   FSam = 450 N
+2.56 = 176 N 
+ 
+Then, equation [1] yields FJoe = 1.56 176 N
+(
+) = 274 N 
+ 
+Sam exerts an upward force of 176 N.
+Joe exerts an upward force of 274 N.
+ 
+P12.12 
+(a) 
+To find U, measure distances and forces from point A. Then, 
+balancing torques, 
+ 
+ 
+ 
+0.750 m
+(
+)U = 29.4 N
+(
+) 2.25
+(
+)
+U = 88.2 N 
+ 
+(b)  To find D, measure distances and forces from point B. Then, 
+balancing torques, 
+ 
+ 
+ 
+0.750 m
+(
+)D = 1.50 m
+(
+) 29.4 N
+(
+)
+D = 58.8 N 
+ 
+ 
+Also, notice that U = D+ Fg, so  
+Fy
+∑
+= 0. 
+P12.13 
+(a) 
+The wall is frictionless, but it does exert a horizontal normal force, 
+nw.  
+ 
+ 
+ 
+Fx
+∑
+= f −nw = 0 
+ 
+ 
+ 
+Fy
+∑
+= ng −800 N −500 N = 0
+
+--- PAGE 11 ---
+642     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Taking torques about an axis at the foot of the ladder, 
+ 
+ 
+ 
+800 N
+(
+) 4.00 m
+(
+)sin30.0° + 500 N
+(
+) 7.50 m
+(
+)sin30.0°
+−nw 15.0 cm
+(
+)cos30.0° = 0
+ 
+ 
+ 
+Solving the torque equation, 
+ 
+ 
+ 
+nw =
+4.00 m
+(
+) 800 N
+(
+) + 7.50 m
+(
+) 500 N
+(
+)
+[
+]tan30.0°
+15.0 m
+= 268 N 
+ 
+ 
+Next substitute this value into the Fx equation to find 
+ 
+ 
+  
+f = nw = 268 N in the positive x  
+direction. 
+ 
+ 
+Solving the equation 
+Fy
+∑
+= 0, 
+  
+ 
+ng = 1 300 N in the positive  
+y direction 
+ 
+(b) Refer to ANS. FIG. P12.13(b) on the right. In this case, the torque 
+equation 
+τ A = 0
+∑
+ gives: 
+ 
+ 
+ 
+9.00 m
+(
+) 800 N
+(
+)sin30.0°
+       + 7.50 m
+(
+) 500 N
+(
+)sin30.0°
+           −15.0 m
+(
+) nw
+(
+)sin60.0° = 0
+ 
+ 
+ 
+or nw = 421 N 
+ 
+ 
+Since f = nw = 421 N and f = fmax = µng, we find 
+ 
+ 
+ 
+µ = fmax
+ng
+= 421 N
+1 300 N = 0.324 
+P12.14 
+(a) 
+The wall is frictionless, but it does exert a horizontal normal force, 
+nw.  
+ 
+ 
+ 
+Fx
+∑
+= f −nw = 0 
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= ng −m1g −m2g = 0 
+[2] 
+ 
+ 
+ 
+τ A
+∑
+= −m1g L
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ −m2gxcosθ + nwLsinθ = 0 
+ 
+ 
+From the torque equation, 
+ 
+ 
+ 
+nw =
+1
+2 m1g +
+x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟m2g
+⎡
+⎣⎢
+⎤
+⎦⎥cotθ
+ 
+ANS. FIG. P12.13(b)
+
+--- PAGE 12 ---
+Chapter 12     643 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Then, from equation [1]: f = nw =
+1
+2 m1g +
+x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟m2g
+⎡
+⎣⎢
+⎤
+⎦⎥cotθ 
+ 
+ 
+and from equation [2]: ng =
+m1 + m2
+(
+)g 
+ 
+ 
+(b) Refer to ANS. FIG. P12.13(b) above. If the ladder is on the verge 
+of slipping when x = d, then    
+ 
+ 
+ 
+µ =
+f x=d
+ng
+=
+m1 /2 + m2d/L
+(
+)cotθ
+m1 + m2
+ 
+P12.15 
+(a) 
+Vertical forces on one-half of the chain are  
+ 
+ 
+ 
+Te sin 42.0° = 20.0 N     
+ 
+ 
+ 
+Te = 29.9 N 
+ 
+(b) Horizontal forces on one-half of the chain are  
+ 
+  
+ 
+Te cos42.0° = Tm     
+ 
+  
+ 
+Tm = 22.2 N 
+P12.16 
+(a) 
+See the force diagram shown in ANS. 
+FIG. P12.16.  
+ 
+(b) Select a pivot point where an unknown 
+force acts so that the force has no torque 
+about that point. Picking the lower end of 
+the beam eliminates torque from the 
+normal force, n, and the friction force, f.  
+ 
+ 
+ 
+τ
+∑
+lower end = 0:   
+              0 + 0 −mg L
+2 cosθ
+⎛
+⎝⎜
+⎞
+⎠⎟+T Lsinθ
+(
+) = 0
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+T = mg
+2
+cosθ
+sinθ
+⎛
+⎝⎜
+⎞
+⎠⎟= mg
+2 cotθ 
+ 
+(c) 
+From the first condition for equilibrium, 
+ 
+ 
+ 
+Fx
+∑
+= 0   ⇒   −T + µsn = 0 or T = µsn 
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= 0   ⇒   n−mg = 0  or  n = mg 
+[2] 
+ANS. FIG. P12.16
+
+--- PAGE 13 ---
+644     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substitute equation [2] into [1] to obtain T = µsmg . 
+ 
+(d) Equate the results of parts (b) and (c) to obtain µs = 1
+2 cotθ . 
+ 
+ 
+This result is valid only at the critical angle θ where the beam is 
+on the verge of slipping (i.e., where fs = (fs)max is valid). 
+ 
+(e) 
+The ladder slips. When the base of the ladder is moved to the 
+left, the angle θ decreases. According to the result in part (b), the 
+tension T increases. This requires a larger friction force to balance 
+T, but the static friction force is already at its maximum value in 
+ANS. FIG. P12.16. 
+P12.17 
+(a) 
+In Figure P12.17, let the “Single point of contact” be point P, the 
+force the nail exerts on the hammer claws be R, the mass of the 
+hammer (1.00 kg) be M, and the normal force exerted on the 
+hammer at point P be n, while the horizontal static friction 
+exerted by the surface on the hammer at P be f.  
+ 
+ 
+Taking moments about P, 
+ 
+ 
+ 
+Rsin30.0°
+(
+)0 + Rcos30.0°
+(
+) 5.00 cm
+(
+) + Mg 0( )
+                                             −150 N
+(
+) 30.0 cm
+(
+) = 0
+R = 1 039.2 N = 1.04 kN
+ 
+ 
+ 
+The force exerted by the hammer on the nail is equal in 
+magnitude and opposite in direction:  
+ 
+ 
+ 
+1.04 kN at 60° upward and to the right 
+ 
+(b) From the first condition for equilibrium, 
+ 
+ 
+ 
+Fx =
+∑
+f −Rsin30.0° + 150 N = 0 →f = 370 N 
+ 
+ 
+ 
+Fy
+∑
+= n−Mg −Rcos30.0° = 0
+→n = 1.00 kg
+(
+) 9.80 m/s2
+(
+)+ 1 040 N
+(
+)cos30.0° = 910 N
+ 
+ 
+ 
+ 
+
+Fsurface = 370ˆi + 910ˆj
+(
+) N
+ 
+P12.18  
+(a) 
+See the force diagram in 
+ANS. FIG. P12.18. 
+ 
+(b) The mass M of the beam is 
+20.0 kg. We consider the 
+torques acting on the beam, 
+about an axis perpendicular 
+ANS. FIG. P12.18
+
+--- PAGE 14 ---
+Chapter 12     645 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+to the page and through the left end of the horizontal beam. 
+ 
+ 
+ 
+τ
+∑
+= + T sin30.0°
+(
+)d −Mgd = 0
+T =
+Mg
+sin30.0° = 196 N
+sin30.0° = 392 N
+ 
+ 
+(c) 
+From 
+Fx = 0
+∑
+, H −T cos30.0° = 0,    
+ 
+ 
+or 
+H = 392 N
+(
+)cos30.0° = 339 N to the right 
+ 
+(d) From 
+Fy
+∑
+= 0, V + T sin30.0° −196 N = 0 ,      
+ 
+ 
+or 
+V = 196 N −392 N
+(
+)sin30.0° = 0 
+ 
+(e) 
+From the same free-body diagram with the axis chosen at the 
+right-hand end, we write 
+ 
+ 
+ 
+τ = H(0)−Vd +T(0)+ 196N(0) = 0,
+∑
+so
+  V = 0
+ 
+ 
+(f) 
+From 
+Fy
+∑
+= 0, V + T sin30.0° −196 N = 0 ,     
+ 
+ 
+or 
+T = 0 + 196 N/sin30.0° = 392 N 
+ 
+(g) From 
+Fx = 0
+∑
+, H −T cos30.0° = 0,     
+ 
+ 
+or 
+H = 392 N
+(
+)cos30.0° = 339 N to the right 
+ 
+(h) 
+The two solutions agree precisely. They are equally accurate. 
+P12.19  
+The bridge has mass M = 2 000 kg and the knight and horse have mass 
+m = 1 000 kg. Relative to the hinge end of the bridge, the cable is 
+attached horizontally out a distance x = 5.00 m
+(
+)cos20.0° = 4.70 m and 
+vertically up a distance y = 5.00 m
+(
+)sin20.0° = 1.71 m. The cable then 
+makes the following angle with the vertical wall: 
+ 
+ 
+θ = tan−1
+4.70
+(
+) m
+12.0 −1.71 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 24.5° 
+ 
+Call the force components at the hinge Hx (to the right) and Hy 
+(upward).  
+ 
+(a) 
+Take torques about the hinge end of the bridge: 
+ 
+ 
+ 
+Hx 0( ) + Hy 0( ) −Mg 4.00 m
+(
+)cos20.0°
+−T sin24.5°
+(
+) 1.71 m
+(
+) + T cos24.5°
+(
+) 4.70 m
+(
+)
+−mg 7.00 m
+(
+)cos20.0° = 0
+ 
+ 
+ 
+which yields T = 27.7 kN
+
+--- PAGE 15 ---
+646     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) 
+Fx
+∑
+= 0 ⇒Hx −T sin24.5° = 0,      
+ 
+ 
+or  
+Hx = 27.7 kN
+(
+)sin24.5° = 11.5 kN right
+(
+) 
+ 
+(c) 
+Fy
+∑
+= 0 ⇒Hy −Mg +T cos24.5° −mg = 0 
+ 
+ 
+Thus,  
+ 
+ 
+ 
+Hy = M + m
+(
+)g −27.7 kN
+(
+)cos24.5° = −4.19 kN
+= 4.19 kN down
+ 
+P12.20 
+(a) 
+No time interval. The horse’s feet lose contact with the
+drawbridge as soon as it begins to move.
+ 
+ 
+ 
+From the result of (b) below, the tangential acceleration of the 
+point where the horse stands is  
+ 
+ 
+ 
+at = αr = 1.73 rad/s2
+(
+) 7.00 m
+(
+) = 12.1 m/s2 
+ 
+ 
+which has a vertical component at cos20.0° = 11.4 m/s2, greater 
+than the acceleration of gravity. 
+ 
+(b) Assuming that the bridge does fall from 
+under the horse, its angular acceleration will 
+be caused by torque from the weight of the 
+bridge—if the bridge does not fall out from 
+under the horse, there will be additional  
+torque from the weight of the knight and  
+horse, and the acceleration will be greater. 
+ 
+ 
+  
+τ
+∑
+= Iα
+Mg 
+2
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ0 = 1
+3 M2α →α = 3gcos20.0ο
+2 8.00 m
+(
+) = 1.73 rad/s 
+ 
+ 
+As cited in part (a), this results in the bridge falling out from 
+under the horse, so our assumption was justified.  
+ 
+(c) 
+Because there is no friction at the hinge, the bridge-Earth system 
+is isolated, so mechanical energy is conserved. When the bridge 
+strikes the wall: 
+ 
+ 
+ 
+Ki +Ui = K f +U f
+Mgh = 1
+2 Iω 2 →Mg 
+2
+⎛
+⎝⎜
+⎞
+⎠⎟1+ sin20.0ο
+(
+) = 1
+2
+1
+3 M2
+⎛
+⎝⎜
+⎞
+⎠⎟ω 2 
+ANS. FIG. P12.20(b)
+
+--- PAGE 16 ---
+Chapter 12     647 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+which gives 
+ 
+ 
+ 
+ω =
+3g 1+ sin20.0ο
+(
+)
+8.00 m
+= 2.22 rad/s
+ 
+ 
+(d) The tangential acceleration of the center of 
+mass of the bridge is 
+ 
+ 
+ 
+at = 
+2α = 1
+2 8.0 m
+(
+) 1.73 rad s2
+(
+)
+= 6.92 m s2
+ 
+ 
+ 
+which is directed 20.0° below the  
+horizontal. By Newton’s second law: 
+ 
+ 
+ 
+  
+Fx
+∑
+= Max
+          Hx = 2 000 kg
+(
+) 6.92 m/s2
+(
+)sin20.0°
+               = 4.72 kN
+Fy
+∑
+= May
+          Hy −Mg = May
+          Hy = 2 000 kg
+(
+) 9.80 m/s2
+(
+)
+                                    + 2 000 kg
+(
+) −6.92 m/s2
+(
+)cos20.0°
+               = 6.62 kN
+ 
+ 
+ 
+The force at the hinge is 4.72ˆi + 6.62ˆj
+(
+) kN. 
+ 
+(e) 
+When the bridge strikes the wall, Hx = 0 and  
+the hinge supplies a vertical centripetal force: 
+ 
+ 
+ 
+Fy
+∑
+= May
+        Hy −Mg = May = Mω 2 
+2
+        Hy = Mg + Mω 2 
+2 = M g +ω 2 
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+        Hy = 2 000 kg
+(
+) 9.80 m/s2 + 2.22 rad/s
+(
+)
+2 8.00 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+        Hy = 59.1 kJ
+ 
+ANS. FIG. P12.20(e) 
+ANS. FIG. P12.20(d)
+
+--- PAGE 17 ---
+648     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.21 
+Call the required force F, with components Fx = F cos15.0° and 
+Fy = −Fsin15.0°, transmitted to the center of the wheel by the handles. 
+ 
+ANS. FIG. P12.21 
+ 
+Just as the wheel leaves the ground, the ground exerts no force on it.  
+ 
+ 
+ 
+Fx
+∑
+= 0:     Fcos15.0° −nx = 0 
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= 0:     −Fsin15.0° −400 N + ny = 0 
+[2] 
+ 
+Take torques about its contact point with the brick. The needed 
+distances are seen to be: 
+ 
+ 
+ 
+b = R −8.00 cm = 20.0 −8.00
+(
+) cm = 12.0 cm
+a =
+R2 −b2 =
+20.0 cm
+(
+)
+2 −8.00 cm
+(
+)
+2 = 16.0 cm
+ 
+ 
+(a) 
+τ
+∑
+= 0:     −Fxb + Fya + 400 N
+(
+)a = 0, or 
+ 
+ 
+F −12.0 cm
+(
+)cos15.0° + 16.0 cm
+(
+)sin15.0°
+⎡⎣
+⎤⎦+ 400 N
+(
+) 16.0 cm
+(
+) = 0 
+ 
+ 
+so 
+F = 6 400 N ⋅cm
+7.45 cm
+= 859 N 
+ 
+(b) Then, using equations [1] and [2], 
+ 
+ 
+  
+nx = 859 N
+(
+)cos15.0° = 830 N and  
+ 
+ 
+  
+ny = 400 N + 859 N
+(
+)sin15.0° = 622 N 
+ 
+ 
+ 
+n =
+nx
+2 + ny
+2 = 1.04 kN
+θ = tan−1 ny
+nx
+⎛
+⎝⎜
+⎞
+⎠⎟= tan−1 0.749
+(
+) = 36.9° to the left and upward
+
+--- PAGE 18 ---
+Chapter 12     649 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.22 
+Call the required force F, with components Fx = F cosθ and 
+Fy = −Fsinθ, transmitted to the center of the wheel by the handles. 
+ 
+ANS. FIG. P12.22 
+ 
+Just as the wheel leaves the ground, the ground exerts no force on it.  
+ 
+ 
+ 
+Fx
+∑
+= 0:     Fcosθ −nx = 0 
+[1] 
+ 
+ 
+ 
+Fy
+∑
+= 0:      −Fsinθ −mg + ny = 0 
+[2] 
+ 
+Take torques about its contact point with the brick. The needed 
+distances are seen to be: 
+ 
+ 
+ 
+b = R −h
+a =
+R2 −R −h
+(
+)
+2 =
+2Rh −h2 
+ 
+(a) 
+τ
+∑
+= 0:     −Fxb + Fya + mga = 0, or 
+ 
+ 
+ 
+F −bcosθ + asinθ
+⎡⎣
+⎤⎦+ mga = 0
+→F =
+mga
+bcosθ −asinθ =
+mg 2Rh −h2
+R −h
+(
+)cosθ −
+2Rh −h2 sinθ
+ 
+ 
+(b) Then, using equations [1] and [2], 
+ 
+ 
+ 
+nx = F cosθ =
+mg 2Rh −h2 cosθ
+R −h
+(
+)cosθ −
+2Rh −h2 sinθ
+    
+ 
+ 
+and ny = F sinθ + mg = mg 1+
+2Rh −h2 cosθ
+R −h
+(
+)cosθ −
+2Rh −h2 sinθ
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+
+--- PAGE 19 ---
+650     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.23 
+When x = xmin, the rod is on the verge 
+of slipping, so  
+ 
+ 
+  
+f = fs
+( )max = µsn = 0.50n 
+ 
+From 
+Fx
+∑
+= 0, n −T cos37° = 0 
+ 
+or   
+n = 0.799T 
+ 
+Thus, 
+f = 0.50 0.799T
+(
+) = 0.399T 
+ 
+From 
+Fy
+∑
+= 0, f + T sin37° −2Fg = 0, 
+ 
+or   
+0.399T + 0.602T −2Fg = 0, giving T = 2.00Fg 
+ 
+Using 
+τ
+∑
+= 0 for an axis perpendicular to the page and through the 
+left end of the beam gives  
+ 
+ 
+−Fg ⋅xmin −Fg 2.0 m
+(
+) +
+2Fg
+(
+)sin37°
+⎡⎣
+⎤⎦4.0 m
+(
+) = 0 
+ 
+which reduces to xmin = 2.81 m 
+P12.24 
+(a) 
+The force diagram is shown in ANS. FIG. P12.24.  
+ 
+(b) From 
+Fy
+∑
+= 0 ⇒nF −120 N −mmonkeyg = 0 
+ 
+ 
+nF = 120 N + 10.0 kg
+(
+) 9.80 m s2
+(
+) = 218 N 
+ 
+ANS. FIG. P12.24 
+ANS. FIG. P12.23
+
+--- PAGE 20 ---
+Chapter 12     651 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+When x = 2L/3, we consider the bottom end of the ladder as our 
+pivot and obtain 
+ 
+ 
+ 
+τ bottom
+end
+∑
+= 0:
+          −120 N
+(
+)
+L
+2 cos60.0°
+⎛
+⎝⎜
+⎞
+⎠⎟−98.0 N
+(
+) 2 L
+3 cos60.0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                   
++ nW L sin60.0°
+(
+) = 0
+ 
+ 
+ 
+or  nW = 60.0 N + 196 3
+(
+) N
+⎡⎣
+⎤⎦cos60.0°
+sin60.0°
+= 72.4 N 
+ 
+ 
+Then,  
+Fx
+∑
+= 0 ⇒T −nW = 0    or    T = nW = 72.4 N 
+ 
+(d) When the rope is ready to break, T = nW = 80.0 N. Then 
+τ bottom
+end
+∑
+= 0 yields 
+ 
+ 
+  
+−120 N
+(
+) L
+2 cos60.0°
+⎛
+⎝⎜
+⎞
+⎠⎟−98.0 N
+(
+)xcos60.0°
+                                          + 80.0 N
+(
+) Lsin60.0°
+(
+) = 0
+ 
+ 
+ 
+or 
+x =
+80.0 N
+(
+)sin60.0° −60.0 N
+(
+)cos60.0°
+[
+]L
+98.0 N
+(
+)cos60.0°
+= 0.802L = 0.802 3.00 m
+(
+) = 2.41 m
+ 
+ 
+(e) 
+If the horizontal surface were rough and the rope removed, a 
+horizontal static friction force directed toward the wall would act 
+on the bottom end of the ladder. Otherwise, the analysis would be 
+much as what is done above. The maximum distance the monkey 
+could climb would correspond to the condition that the friction 
+force have its maximum value, µsnF, so you would need to know 
+the coefficient of static friction between the ladder and the floor to 
+solve part (d). 
+P12.25 
+Consider the torques about an axis perpendicular to the page and 
+through the left end of the plank. 
+τ
+∑
+= 0 gives 
+ 
+ 
+ 
+−700 N
+(
+) 0.500 m
+(
+)−294 N
+(
+) 1.00 m
+(
+)
+                                                  + T1 sin 40.0°
+(
+) 2.00 m
+(
+) = 0
+ 
+ 
+or 
+ 
+T1 = 501 N
+
+--- PAGE 21 ---
+652     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Then, 
+Fx
+∑
+= 0 gives  
+ 
+ 
+ 
+−T3 + T1 cos40.0° = 0 
+ 
+or 
+ 
+T3 = 501 N
+(
+)cos40.0° = 384 N 
+ 
+From   
+Fy
+∑
+= 0, 
+ 
+ 
+ 
+T2 −994 N + T1 sin 40.0° = 0, 
+ 
+or 
+ 
+T2 = 994 N −501 N
+(
+)sin 40.0° = 672 N 
+ 
+ANS. FIG. P12.25 
+ 
+ 
+ 
+Section 12.4 
+Elastic Properties of Solids 
+P12.26 
+Count the wires. If they are wrapped together so that all support 
+nearly equal stress, the number should be 
+ 
+ 
+ 
+20.0 kN
+0.200 kN = 100 
+ 
+Since cross-sectional area is proportional to diameter squared, the 
+diameter of the cable will be 
+ 
+ 
+ 
+1 mm
+(
+) 100 ~ 1 cm 
+P12.27 
+We use B = −
+ΔP
+ΔV /Vi
+= −ΔPVi
+ΔV . 
+ 
+(a) 
+ ΔV = −ΔPVi
+B
+= −1.13 × 108 N m2
+(
+) 1 m3
+(
+)
+0.21× 1010 N m2
+= −0.053 8 m3 
+ 
+(b) The quantity of water with mass 1.03 × 103 kg occupies volume at 
+the bottom: 1 m3 −0.053 8 m3 = 0.946 m3. 
+ 
+ 
+ So its density is 1.03 × 103 kg
+0.946 m3
+ = 1.09 × 103 kg m3
+
+--- PAGE 22 ---
+Chapter 12     653 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+With only a 5% volume change in this extreme case, liquid
+water is indeed nearly incompressible.
+ 
+P12.28 
+(a) 
+We find the maximum force from the equation for stress: 
+ 
+ 
+ 
+ 
+stress = F
+A = F
+πr2
+ 
+ 
+ 
+ 
+ 
+F = stress
+(
+)π
+d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+F = 1.50 × 108 N m2
+(
+)π
+2.50 × 10−2 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+F = 73.6 kN
+ 
+ 
+(b)  From the definition of Young’s modulus, 
+ 
+ 
+ 
+ 
+stress = Y strain
+(
+) = YΔL
+Li
+ 
+ 
+ 
+ 
+ 
+ΔL = stress
+(
+)Li
+Y
+=
+1.50 × 108 N m2
+(
+) 0.250 m
+(
+)
+1.50 × 1010 N m2
+= 2.50 mm 
+P12.29 
+From the defining equation for the shear modulus, we find Δx as 
+ 
+ 
+ 
+Δx = hf
+SA =
+5.00 × 10−3 m
+(
+) 20.0 N
+(
+)
+3.0 × 106 N m2
+(
+) 14.0 × 10−4 m2
+(
+)
+= 2.38 × 10−5m 
+ 
+or 
+ 
+Δx = 2.38 × 10−2 mm 
+P12.30 
+The definition of Young’s modulus, Y = stress
+strain , means that Y is the 
+slope of the graph:  
+ 
+ 
+ 
+ 
+Y = 300 × 106 N m2
+0.003
+= 1.0 × 1011 N m2 
+P12.31 
+(a) 
+From ANS. FIG. P12.31(a),  
+ 
+ 
+ 
+ 
+F = σ A
+= 4.00 × 108 N/m
+(
+)
+      × π 0.500 × 10−2 m
+(
+)
+2
+⎡⎣
+⎤⎦
+= 3.14 × 104 N
+  
+ 
+ANS. FIG. P12.31(a)
+
+--- PAGE 23 ---
+654     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(b) Now the area of the molecular layers 
+sliding over each other is the curved 
+lateral surface area of the cylinder being 
+punched out, a cylinder of radius 0.500 cm 
+and height 0.500 cm. So, 
+ 
+ 
+ 
+F = σ A
+= σ(h)(2πr)
+= 4.00 × 108 N/m
+(
+) 2π
+(
+) 0.500 × 10−2 m
+(
+)
+                              × 0.500 × 10−2 m
+(
+)
+= 6.28 × 104 N
+ 
+P12.32 
+Let V represent the original volume. Then, 0.090 0V is the change in 
+volume that would occur if the block cracked open. Imagine squeezing 
+the ice, with unstressed volume 1.09V, back down to its previous 
+volume, so ΔV = –0.090 0V. According to the definition of the bulk 
+modulus as given in the chapter text, we have  
+ 
+ 
+ΔP = −B(ΔV)
+Vi
+= −2.00 × 109 N m2
+(
+)( −0.090 0V)
+1.09V
+= 1.65 × 108 N/m2
+ 
+P12.33 
+Young’s Modulus is given by Y = F/A
+ΔL/Li
+. 
+ 
+ 
+The load force is  
+ 
+ 
+ 
+F = (200 kg)(9.80 m/s
+2) = 1 960 N. 
+ 
+so 
+ΔL = FLi
+AY =
+(1 960 N)(4.00 m)(1 000 mm/m)
+0.200 × 10–4 m2
+(
+) 8.00 × 1010 N m2
+(
+)
+= 4.90 mm 
+P12.34 
+Part of the load force extends the cable and part compresses the 
+column by the same distance Δ: 
+ 
+ 
+F = YAAAΔ
+A
++ YsAsΔ
+s
+ 
+ANS. FIG. P12.31(b)
+
+--- PAGE 24 ---
+Chapter 12     655 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+from which we obtain 
+ 
+Δ=
+F
+YAAA /A +YsAs /s
+=
+8 500 N
+7 × 1010
+(
+)π 0.162 42 −0.161 42
+(
+)/4 3.25
+(
+)+ 20 × 1010π 0.012 7
+(
+)
+2/4 5.75
+(
+)
+= 8.60 × 10−4 m
+ 
+P12.35 
+Let the 3.00-kg mass be mass #1, with the 5.00-kg mass, mass # 2. 
+Applying Newton’s second law to each mass gives 
+ 
+ 
+m1a = T −m1g 
+[1] 
+ 
+ 
+and 
+m2a = m2g −T 
+[2] 
+ 
+where T is the tension in the wire.  
+ 
+Solving equation [1] for the acceleration gives  
+ 
+ 
+a = T
+m1
+−g  
+ 
+and substituting this into equation [2] yields 
+ 
+ 
+m2
+m1
+T −m2g = m2g −T  
+ 
+Solving for the tension T gives 
+ 
+ 
+T = 2m1m2g
+m2 + m1
+=
+2 3.00 kg
+(
+) 5.00 kg
+(
+) 9.80 m s2
+(
+)
+8.00 kg
+= 36.8 N 
+ 
+From the definition of Young’s modulus, Y =
+FLi
+A ΔL
+(
+)
+, the elongation of 
+the wire is: 
+ 
+ 
+ΔL = TLi
+YA =
+36.8 N
+(
+) 2.00 m
+(
+)
+2.00 × 1011 N m2
+(
+)π 2.00 × 10−3 m
+(
+)
+2
+= 0.029 2 mm
+ 
+P12.36 
+A particle under a net force model:  
+ 
+ 
+F =
+m v f −vi
+Δt
+
+--- PAGE 25 ---
+656     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Hence,  
+ 
+ 
+F =
+30.0 kg −10.0 m s −20.0 m s
+0.110 s
+= 8.18 × 103 N 
+ 
+By Newton’s third law, this is also the magnitude of the average force 
+exerted on the spike by the hammer during the blow. Thus, the stress 
+in the spike is  
+ 
+ 
+Stress = F
+A =
+8.18 × 103 N
+π 0.023 0 m
+(
+)
+2 / 4
+= 1.97 × 107 N m2 
+ 
+and the strain is  
+ 
+ 
+strain = stress
+Y
+= 1.97 × 107 N m2
+20.0 × 1010 N m2 = 9.85 × 10−5 
+ 
+ 
+ 
+Additional Problems 
+P12.37 
+Let nA and nB be the normal forces at the points of support. Then, from 
+the translational equilibrium equation in the y direction, we have 
+ 
+ 
+Fy = 0:
+∑
+     nA + nB −8.00 × 104 kg
+(
+)g – 3.00 × 104 kg
+(
+)g = 0  
+ 
+ 
+Choosing the axis at point A, we find, from the condition for rotational 
+equilibrium: 
+ 
+ 
+τ
+∑
+= 0:    
+     – 3.00 × 104 kg
+(
+)(15.0 m)g – 8.00 × 104 kg
+(
+)(25.0 m)g
+               + nB(50.0 m) = 0
+  
+ 
+ 
+We can solve the torque equation directly to find 
+ 
+ 
+nB =
+3.00 × 104 kg
+(
+) 15.0 m
+(
+)+ 8.00 × 104 kg
+(
+) 25.0 m
+(
+)
+⎡⎣
+⎤⎦(9.80 m/s2)
+50.0 m
+= 4.80 × 105 N
+ 
+ 
+ 
+Then the force equation gives 
+ 
+ 
+nA = (8.00 × 104 kg + 3.00 × 104 kg)(9.80 m/s2) −4.80 × 105 N
+= 5.98 × 105 N
+
+--- PAGE 26 ---
+Chapter 12     657 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.38 
+(a) 
+Rigid object in static equilibrium. 
+ 
+(b) ANS. FIG. P12.38 shows the free-body diagram. 
+ 
+ANS. FIG. P12.38 
+ 
+  
+Mg = (90.0 kg)g = 882 N, and mg = (55.0 kg)g = 539 N. 
+ 
+(c) 
+Note that about the right pivot, only n1 exerts a clockwise torque, 
+all other forces exert counterclockwise torques except for n2 which 
+exerts zero torque. The woman is at x = 0 when n1 is greatest. 
+With this location of the woman, the counterclockwise torque 
+about the center of the beam is a maximum. Thus, n1 must be 
+exerting its maximum clockwise torque about the center to hold 
+the beam in rotational equilibrium. 
+ 
+(d) 
+n1 = 0 As the woman walks to the right along the beam, she will 
+eventually reach a point where the beam will start to rotate 
+clockwise about the rightmost pivot. At this point, the beam is 
+starting to lift up off of the leftmost pivot and the normal force 
+exerted by that pivot will have diminished to zero. 
+ 
+(e) 
+When the beam is about to tip, n1 = 0, and  
+ 
+ 
+ 
+Fy = 0
+∑
+ gives 0 + n2 – Mg – mg = 0, or 
+ 
+ 
+ 
+n2 = Mg + mg = 882 N + 539 N = 1.42 × 103 N 
+ 
+(f) 
+Requiring that the net torque be zero about the right pivot when 
+the beam is about to tip (n1 = 0) gives 
+ 
+ 
+ 
+τ
+∑
+= n2 0
+( )+ 4.00 m −x
+(
+)mg + 4.00 m −3.00 m
+(
+)Mg = 0 
+ 
+ 
+or 
+mg
+(
+)x = 1.00 m
+(
+)Mg + 4.00 m
+(
+)mg, and 
+ 
+ 
+ 
+x = 1.00 m
+(
+) M
+m + 4.00 m 
+ 
+ 
+Thus,  x = 1.00 m
+(
+)
+90.0 kg
+(
+)
+55.0 kg
+(
+)
++ 4.00 m = 5.64 m
+
+--- PAGE 27 ---
+658     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(g) When n1 = 0 and n2 = 1.42 × 10
+3 N, for torque about the left pivot: 
+ 
+ 
+ 
+τ
+∑
+= 0 −539 N
+(
+)x −882 N
+(
+) 3.00 m
+(
+)
+                       + 1.42 × 103 N
+(
+) 4.00 m
+(
+) = 0
+ 
+ 
+ 
+or 
+x = −3.03 × 103 N ⋅m
+−539 N
+= 5.62 m 
+ 
+ 
+which, within limits of rounding errors, is  
+ 
+ 
+the same as the answer to part (f) . 
+P12.39 
+Fy
+∑
+= 0:   +380 N −Fg + 320 N = 0 
+ 
+Fg = 700 N 
+ 
+Take torques about her feet: 
+ 
+ 
+τ
+∑
+= 0:    
+−380 N 1.65 m
+(
+) + 700 N
+(
+)x
+                              + 320 N
+(
+)0 = 0
+ 
+ 
+ 
+x = 0.896 m 
+P12.40 
+When the concrete has cured and the pre-stressing tension has been 
+released, the rod presses in on the concrete and with equal force, T2, 
+the concrete produces tension in the rod. 
+ 
+(a) 
+In the concrete:  
+ 
+ 
+ 
+ 
+stress = 8.00 × 106 N m2 = Y ⋅strain
+(
+) = Y ΔL
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Thus,     
+ 
+ 
+ 
+ 
+ΔL = stress
+(
+)Li
+Y
+=
+8.00 × 106 N m2
+(
+) 1.50 m
+(
+)
+30.0 × 109 N m2
+ 
+ 
+ 
+or  
+ΔL = 4.00 × 10−4 m = 0.400 mm 
+ 
+(b) In the concrete:  
+ 
+ 
+ 
+ 
+stress = T2
+Ac
+= 8.00 × 106 N m2 
+ANS. FIG. P12.39
+
+--- PAGE 28 ---
+Chapter 12     659 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+so 
+ 
+ 
+ 
+ 
+T2 = 8.00 × 106 N m2
+(
+) 50.0 × 10−4 m2
+(
+) = 40.0 kN 
+ 
+(c) 
+For the rod:  
+ 
+ 
+ 
+ 
+T2
+AR
+=
+ΔL
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟Ysteel so  ΔL =
+T2Li
+ARYsteel
+ 
+ 
+ 
+ 
+ 
+ΔL =
+4.00 × 104 N
+(
+) 1.50 m
+(
+)
+1.50 × 10−4 m2
+(
+) 20.0 × 1010 N m2
+(
+)
+= 2.00 × 10−3 m = 2.00 mm
+ 
+ 
+(d) The rod in the finished concrete is 2.00 mm longer than its 
+unstretched length. To remove stress from the concrete, one must 
+stretch the rod 0.400 mm farther, by a total of 2.40 mm . 
+ 
+(e) 
+For the stretched rod around which the concrete is poured: 
+ 
+ 
+ 
+ 
+T1
+AR
+=
+ΔLtotal
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟Ysteel
+or
+T1 =
+ΔLtotal
+Li
+⎛
+⎝⎜
+⎞
+⎠⎟ARYsteel
+T1 =
+2.40 × 10−3 m
+1.50 m
+⎛
+⎝⎜
+⎞
+⎠⎟1.50 × 10−4 m2
+(
+) 20.0 × 1010 N m2
+(
+)
+= 48.0 kN
+ 
+P12.41 
+We reproduce the forces in ANS. FIG. P12.41. 
+ 
+ANS. FIG. P12.41 
+ 
+Requiring that 
+τ = 0
+∑
+, using the shoulder joint at point O as a pivot, 
+gives 
+ 
+ 
+ 
+τ
+∑
+= Ft sin12.0°
+(
+) 0.080 0 m
+(
+)−41.5 N
+(
+) 0.290 m
+(
+) = 0  
+ 
+ 
+or 
+Ft = 724 N 
+ 
+Then  
+ 
+ 
+Fy
+∑
+= 0 ⇒−Fsy + 724 N
+(
+)sin12.0° −41.5 N = 0
+
+--- PAGE 29 ---
+660     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+yielding Fsy = 109 N 
+ 
+Fx
+∑
+= 0 then gives  
+ 
+ 
+Fsx −724 N
+(
+)cos12.0° = 0, or Fsx = 708 N 
+ 
+Therefore, 
+ 
+ 
+ 
+Fs =
+Fsx
+2 + Fsy
+2 =
+708 N
+(
+)
+2 + 109 N
+(
+)
+2 = 716 N 
+P12.42 
+In the free-body diagram 
+of the foot given at the 
+right, note that the force R
+
+ 
+(exerted on the foot by the 
+tibia) has been replaced by 
+its horizontal and vertical 
+components. Employing 
+both conditions of 
+equilibrium (using point O 
+as the pivot point) gives 
+the following three 
+equations: 
+ 
+ 
+ 
+Fx
+∑
+= 0 ⇒ Rsin15.0° −T sinθ = 0 
+ 
+or 
+ 
+R = T sinθ
+sin15.0°
+ 
+[1] 
+ 
+Fy
+∑
+= 0 ⇒700 N −Rcos15.0° +T cosθ = 0 
+[2] 
+ 
+τ O
+∑
+= 0 ⇒ −700 N
+(
+) 18.0 cm
+(
+)cosθ
+[
+]+T 25.0 cm −18.0 cm
+(
+) = 0 
+ 
+or 
+T = 1 800 N
+(
+)cosθ 
+[3] 
+ 
+Substituting equation [3] into equation [1] gives 
+ 
+ 
+ 
+R =
+1 800 N
+sin15.0°
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ cosθ 
+[4] 
+ 
+Substituting equations [3] and [4] into equation [2] yields 
+ 
+ 
+ 
+1 800 N
+tan15.0°
+⎛
+⎝⎜
+⎞
+⎠⎟sinθ cosθ −1 800 N
+(
+)cos2θ = 700 N 
+ 
+which reduces to: sinθ cosθ = tan 15.0°
+(
+)cos2θ + 0.104 2 
+ANS. FIG. P12.42
+
+--- PAGE 30 ---
+Chapter 12     661 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Squaring this result and using the identity sin2θ = 1−cos2θ gives 
+ 
+ 
+ 
+tan2 15.0°
+(
+) + 1
+⎡⎣
+⎤⎦cos4θ
+            +
+2tan15.0°
+(
+) 0.104 2
+(
+) −1
+⎡⎣
+⎤⎦cos2θ + 0.104 2
+(
+)
+2 = 0
+ 
+ 
+In this last result, let u = cos2θ and evaluate the constants to obtain the 
+quadratic equation: 
+ 
+ 
+ 
+1.071 8
+(
+)u2 −0.944 2
+(
+)u+ 0.010 9 = 0 
+ 
+The quadratic formula yields the solutions u = 0.869 3 and u = 0.0117. 
+Thus, 
+ 
+ 
+ 
+θ = cos−1
+0.869 3
+(
+) = 21.2°   or   θ = cos−1
+0.011 7
+(
+) = 83.8° 
+ 
+We ignore the second solution since it is physically impossible for the 
+human foot to stand with the sole inclined at 83.8° to the floor. We are 
+the left with θ = 21.2° . 
+ 
+Equation [3] then yields 
+ 
+ 
+ 
+T = 1 800 N
+(
+)cos21.2° = 1.68 kN 
+ 
+and equation [1] gives 
+ 
+ 
+ 
+R =
+1.68 × 103 N
+(
+)sin21.2°
+sin15.0°
+= 2.34 kN 
+P12.43 
+(a) 
+ANS. FIG. P12.43 shows the force diagram. 
+ 
+(b) If x = 1.00 m, then 
+ 
+ 
+ 
+τ O
+∑
+= −700 N
+(
+) 1.00 m
+(
+)−200 N
+(
+) 3.00 m
+(
+)
+−80.0 N
+(
+) 6.00 m
+(
+)
++ T sin60.0°
+(
+) 6.00 m
+(
+) = 0
+ 
+ 
+ANS. FIG. P12.43 
+ 
+ 
+Solving for the tension gives: T = 343 N . 
+ 
+ 
+From 
+Fx
+∑
+= 0, Rx = T cos60.0° = 171 N .
+
+--- PAGE 31 ---
+662     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+From 
+Fy
+∑
+= 0, Ry = 980 N −T sin60.0° = 683 N . 
+ 
+(c) 
+If T = 900 N:  
+ 
+ 
+ 
+ 
+τ O
+∑
+= −700 N
+(
+)x −200 N
+(
+) 3.00 m
+(
+)−80.0 N
+(
+) 6.00 m
+(
+)
++ 900 N
+(
+)sin60.0°
+[
+] 6.00 m
+(
+) = 0
+ 
+ 
+ 
+Solving for x gives x = 5.14 m . 
+P12.44 
+(a) 
+See ANS. FIG. P12.44 for the force diagram. See the solution in the 
+textbook. The weight of the uniform gate is 392 N. It is 3.00 m 
+wide. The hinges are separated vertically by 1.80 m. The bucket of 
+grain weighs 50.0 N. One of the hinges, which we suppose is the 
+upper one, supports the whole weight of the gate. Find the 
+components of the forces that both hinges exert on the gate.  
+ 
+(b) From the torque equation, 
+ 
+ 
+ 
+C = 738 N ⋅m
+1.8 m
+= 410 N 
+ 
+ 
+Then A = 410 N. Also B = 442 N. 
+ 
+ 
+The upper hinge exerts 410 N to the left and 442 N up.
+The lower hinge exerts 410 N to the right.
+ 
+ 
+ANS. FIG. P12.44 
+P12.45 
+We know that the direction of the force from the cable at the right end 
+is along the cable, at an angle of θ above the horizontal. On the other 
+end, we do not know magnitude or direction for the hinge force 
+
+R so 
+we show it as two unknown components. 
+ 
+ 
+The first condition for equilibrium gives two equations:  
+ 
+ 
+ 
+Fx = 0:
+∑
++Rs – T cosθ = 0
+Fy = 0:
+∑
++Ry – Fg +T sinθ = 0
+
+--- PAGE 32 ---
+Chapter 12     663 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Taking torques about the left end, we find the second condition is 
+ 
+ 
+ 
+τ = 0:
+∑
+       Ry(0)+ Rs(0) – Fg(d + L)+(0)(T cosθ)+(d + 2L)(T sinθ) = 0
+ 
+ 
+ANS. FIG. P12.45 
+ 
+ 
+(a) 
+The torque equation gives T =
+Fg L + d
+(
+)
+sinθ 2L + d
+(
+)
+ 
+ 
+ 
+ 
+(b) Now from the force equations,  
+ 
+ 
+ 
+ 
+Rx =
+Fg L + d
+(
+)cotθ
+2L + d
+ and Ry =
+FgL
+2L + d 
+P12.46 
+ANS. FIG. P12.46 shows the force diagram.  
+ 
+τ point O
+∑
+= 0 gives 
+ 
+ 
+T cos25.0°
+(
+) 3
+4 sin65.0°
+⎛
+⎝⎜
+⎞
+⎠⎟+ T sin25.0°
+(
+) 3
+4 cos65.0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 2 000 N
+(
+) cos65.0°
+(
+) + 1 200 N
+(
+) 
+2 cos65.0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+From which, T = 1 465 N = 1.46 kN 
+ 
+From 
+Fx
+∑
+= 0, 
+ 
+ 
+H = T cos25.0° = 1 328 N toward right
+(
+) = 1.33 kN 
+ 
+From 
+Fy
+∑
+= 0, 
+ 
+ 
+V = 3 200 N −T sin25.0° = 2 581 N upward
+(
+) = 2.58 kN
+
+--- PAGE 33 ---
+664     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ANS. FIG. P12.47 
+ 
+ANS. FIG. P12.46 
+P12.47 
+We interpret the problem to mean that the 
+support at point B is frictionless. Then the 
+support exerts a force in the x direction 
+and 
+ 
+ 
+ 
+FBy = 0
+Fx
+∑
+= FBx −FAx = 0
+FAy −3 000 + 10 000
+(
+)g = 0
+ 
+ 
+and  
+ 
+ 
+  
+τ
+∑
+= −3 000g
+(
+) 2.00
+(
+)
+               −10 000g
+(
+) 6.00
+(
+)+ FBx 1.00
+(
+) = 0
+  
+ 
+ 
+These equations combine to give the magnitudes of the components:  
+ 
+ 
+ 
+FAx = FBx = 6.47 × 105 N
+FAy = 1.27 × 105 N
+ 
+ 
+The forces are:
+
+FA = (−6.47 × 105ˆi + 1.27 × 105ˆj) N
+and     
+
+FB = 6.47 × 105ˆiN
+ 
+P12.48 
+(a) 
+Choosing torques about the hip joint, 
+τ
+∑
+= 0 
+gives 
+ 
+ 
+ 
+−L
+2 350 N
+(
+) + T sin12.0°
+(
+) 2L
+3
+⎛
+⎝⎜
+⎞
+⎠⎟
+                                −200 N
+(
+)L = 0
+ 
+ 
+ 
+From which, T = 2.71 kN . 
+ANS. FIG. P12.48
+
+--- PAGE 34 ---
+Chapter 12     665 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) Let Rx = compression force along spine, and from
+Fx
+∑
+= 0: 
+	  
+	  
+	  
+Rx = Tx = T cos12.0° = 2.65 kN 
+ 
+(c) 
+You should lift “with your knees” rather than “with your back.”
+In this situation, with a load weighing only 200 N, you can
+make the compressional force in your spine about ten times
+smaller by bending your knees and lifting with your back as
+straight as possible.
+ 
+ 
+(d) 
+In this situation, you can make the compressional force in your
+spine about ten times smaller by bending your knees and lifting
+with your back as straight as possible
+ 
+P12.49 
+From ANS. FIG. P12.49, the angle 
+
+T makes with 
+the rod is θ = 60.0°+ 20.0° = 80.0° and the 
+perpendicular component of 
+
+T is T sin 80.0°. 
+ 
+Summing torques around the base of the rod, and 
+applying Newton’s second law in the horizontal 
+and vertical directions, we have 
+ 
+ 
+ 
+τ
+∑
+= 0:     −(4.00 m)(10 000 N)cos60°
+                              +T(4.00 m) sin80.0° = 0
+  
+ 
+ 
+(a) 
+Solving the above equation for T gives 
+ 
+ 
+ 
+ 
+ 
+T = (10 000 N) cos (60.0ο)
+sin(80.0ο)
+= 5.08 kN
+ 
+ 
+ 
+(b) In the horizontal direction, 
+ 
+ 
+ 
+Fx = 0:      
+∑
+FH –T cos(20.0°) = 0 
+ 
+ 
+so  
+FH=T cos(20.0°) = 4.77 kN 
+  
+ 
+(c) 
+From
+Fy = 0:
+∑
+FV +T sin (20.0°) – 10 000 N = 0, 
+ 
+ 
+we find 
+ 
+ 
+ 
+ 
+FV = (10 000 N) – T sin(20.0°) = 8.26 kN  
+ 
+ANS. FIG. P12.49
+
+--- PAGE 35 ---
+666     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.50 
+The cabinet has height = 1.00 m, width w = 0.600 m, and weight  
+Mg = 400 N. The force F = 300 N is applied by the worker in the first 
+case at height h1 = 0.100 m and in the second at height h2 = 0.650 m. 
+ 
+Consider the magnitudes of the torques about the lower right front 
+edge of the cabinet from the weight Mg and from the applied force F 
+for the two values of h. 
+ 
+The torque from the weight is the same in each case: 
+ 
+Cases 1 and 2 
+ 
+ 
+τG = Mg w
+2
+= 400 N
+(
+) 0.300 m
+(
+) = 120 N ⋅m
+ 
+ 
+The torque from force F is different in each 
+case: 
+ 
+Case 1 
+ 
+ 
+τ F = F cos37.0°
+(
+)h1
+= 300 Ncos37.0°
+(
+) 0.100 m
+(
+)
+τ F = 24.0 N ⋅m
+ 
+ 
+Case 2 
+ 
+ 
+ 
+τ F = F cos37.0°
+(
+)h2
+= 300 Ncos37.0°
+(
+) 0.650 m
+(
+)
+τ F = 156 N ⋅m
+ 
+ 
+We see in Case 1 that the counterclockwise torque from the weight is 
+greater than the clockwise torque from the applied force. If the cabinet 
+is to slide without acceleration, the net torque must be zero; this is 
+possible because the normal force from the floor can provide 
+additional clockwise torque. We see in Case 2, however, that the 
+counterclockwise torque from the weight is smaller than the clockwise 
+torque from the applied force, but no other force is available to provide 
+addition counterclockwise torque, so the net torque cannot be zero. 
+ 
+The situation is impossible because the new technique would tip the
+cabinet over.
+ 
+ANS. FIG. P12.50
+
+--- PAGE 36 ---
+Chapter 12     667 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.51 
+(a) 
+We use 
+Fx =
+Fy =
+τ = 0
+∑
+∑
+∑
+ and  
+choose the axis at the point of contact  
+with the floor to simplify the torque  
+analysis. Since the rope is described as  
+very rough, we will assume that it will  
+never slip on the end of the beam. First,  
+let us determine what friction force at  
+the floor is necessary to put the system  
+in equilibrium; then we can check  
+whether that friction force can be  
+obtained. 
+ 
+ 
+ 
+Fx = 0:
+∑
+T −f = 0
+Fy = 0:
+∑
+n−Mg −mg = 0
+τ = 0:
+∑
+Mg(cosθ)L + mg(cosθ) L
+2 −T(sin θ)L = 0
+ 
+ 
+ 
+Solving the torque equation, we find T = M + 1
+2 m
+⎛
+⎝⎜
+⎞
+⎠⎟gcotθ. 
+ 
+ 
+Then the horizontal-force equation implies by substitution that 
+this same expression is equal to f. In order for the beam not to 
+slip, we need f ≤µsn. Substituting for n and f from the above 
+equations, we obtain the requirement 
+ 
+ 
+ 
+µs ≥
+M + m/2
+M + m
+⎡
+⎣⎢
+⎤
+⎦⎥cotθ
+ 
+ 
+ 
+The factor in brackets is always < 1, so if µ ≥cotθ then M can be 
+increased without limit. In this case, there is no maximum mass! 
+Otherwise, if µs < cotθ, the equality will apply on the verge of 
+slipping, and solving for M yields 
+ 
+ 
+ 
+M = m
+2
+2µs sinθ – cosθ
+cosθ – µs sinθ
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+ 
+(b) At the floor, we see that the normal force is in the y direction and 
+the friction force is in the –x direction. The reaction force 
+exerted by the floor then has magnitude 
+ 
+ 
+ 
+ 
+R =
+n2 + µsn
+(
+)
+2 = g(M + m) 1 + µs
+2 
+ 
+(c) 
+At point P, the force of the beam on the rope is in magnitude 
+ 
+ 
+ 
+F =
+T 2 + (Mg)2 =
+g M2 + µs
+2(M + m)2 
+ANS. FIG. P12.51
+
+--- PAGE 37 ---
+668     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.52 
+First, we resolve all forces into 
+components parallel to and perpendicular 
+to the tibia, as shown. Note that θ = 40.0° 
+and 
+ 
+ 
+wy = 30.0 N
+(
+)sin 40.0° = 19.3 N
+Fy = 12.5 N
+(
+)sin 40.0° = 8.03 N
+ 
+ 
+and 
+ 
+ 
+Ty = T sin25.0° 
+ 
+Using 
+τ
+∑
+= 0 for an axis perpendicular to 
+the page and through the upper end of the 
+tibia gives 
+ 
+ 
+T sin25.0°
+(
+) d
+5 −19.3 N
+(
+) d
+2 −8.03 N
+(
+)d = 0 
+ 
+or 
+T = 209 N 
+P12.53 
+(a) 
+From the symmetry of the 
+situation, we may conclude that 
+the magnitude of the upward force 
+on each hand is half the weight of 
+the athlete: Fh = 750 N/2 = 375 N. 
+Considering the shoulder joint as 
+the pivot, the second condition of 
+equilibrium gives 
+ 
+ 
+ 
+τ
+∑
+= 0 ⇒ Fh 70.0 cm
+(
+)
+−Fm sin 45°
+(
+) 4.00 cm
+(
+) = 0
+ 
+ 
+ 
+or  
+Fm = 375 N
+(
+) 70.0 cm
+(
+)
+4.00 cm
+(
+)sin 45° = 9.28 kN 
+ 
+(b) The moment arm of the force is no longer 70.0 cm from the 
+shoulder joint but only 49.5 cm: 
+ 
+ 
+ 
+τ
+∑
+= 0 ⇒ Fh 70.0 cm
+(
+)sin 45° −Fm sin 45°
+(
+) 4.00 cm
+(
+) = 0
+Fm = 375 N
+(
+) 70.0 cm
+(
+)
+4.00 cm
+(
+)
+= 6.56 kN
+ 
+ 
+ 
+therefore reducing Fm to 6.56 kN. 
+ANS. FIG. P12.52 
+ANS. FIG. P12.53
+
+--- PAGE 38 ---
+Chapter 12     669 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.54 
+(a) 
+The height of pin B is 
+ 
+ 
+ 
+10.0 m
+(
+)sin30.0° = 5.00 m 
+ 
+ 
+The length of bar BC is then 
+ 
+ 
+ 
+BC = 5.00 m
+sin 45.0° = 7.07 m 
+ 
+ 
+Consider the entire truss: 
+ 
+ 
+ 
+Fy
+∑
+= nA −1 000 N + nC = 0
+τ A
+∑
+= −1 000 N
+(
+)10.0cos30.0°
+                   + nC 10.0cos30.0° + 7.07cos45.0°
+[
+]= 0
+ 
+ 
+ 
+Which gives nC = 634 N . 
+ 
+ 
+Then, nA = 1 000 N −nC = 366 N 
+ 
+(b) Joint A: 
+Fy = 0
+∑
+: −CAB sin30.0° + 366 N = 0 
+ 
+ 
+so 
+CAB = 732 N 
+ 
+ 
+Fx
+∑
+= 0:  
+ 
+ 
+ 
+−CAB cos30.0° + TAC = 0 
+ 
+ 
+ 
+TAC = 732 N
+(
+)cos30.0° = 634 N 
+ 
+ 
+Joint B:  
+ 
+ 
+ 
+Fx
+∑
+= 0:     732 N
+(
+)cos30.0° −CBC cos45.0° = 0 
+ 
+ 
+ 
+CBC = 732 N
+(
+)cos30.0°
+cos45.0°
+= 897 N 
+P12.55 
+Considering the torques about the point at the bottom of the bracket 
+yields: 
+ 
+ 
+ 
+W 0.0500 m
+(
+) −Fhor 0.0600 m
+(
+) = 0 so Fhor = 0.833W 
+ 
+(a) 
+With W = 80.0 N, Fhor = 0.833 80 N
+(
+) = 66.7 N . 
+ 
+(b) Differentiate with respect to time: dFhor/dt = 0.833 dW/dt. 
+ 
+ 
+Given that dW/dt = 0.150 N/s: 
+ 
+ 
+The force exerted by the screw is increasing at the rate dFhor/dt =
+0.833(0.150 N/s) = 0.125 N/s.
+ 
+ANS. FIG. P12.54(a) 
+ANS. FIG. P12.54(b)
+
+--- PAGE 39 ---
+670     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.56 
+Refer to the solution to P12.57 for a 
+general discussion of the solution. 
+ 
+From the geometry of the ladder, 
+observe that 
+ 
+ 
+ 
+cosθ = 1
+4 →θ = 75.5°
+ 
+ 
+In the following, we use the variables 
+m = 70.0 kg, length 
+AC = BC = = 4.00 m, and d = 3.00 m. 
+ 
+Consider the net torque about point A (on the bottom left side of the 
+ladder) from external forces on the whole ladder. The torques about A 
+come from the weight of the painter and the normal force nB. 
+ 
+ 
+ 
+τ A
+∑
+= −mgd cos 75.5° + nB
+
+2 = 0
+→nB = 2
+mgd cos 75.5° = 2
+mgd 1
+4
+⎛
+⎝⎜
+⎞
+⎠⎟→nB = mgd
+2
+ 
+ 
+Consider the net torque about point B (on the bottom right side of the 
+ladder) from external forces on the whole ladder. The torques about B 
+come from the weight of the painter and the normal force nA. 
+ 
+ 
+ 
+τ B
+∑
+= −nA
+
+2 + mg 
+2 −d cos 75.5°
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+→nA
+
+2 = mg 
+2 −d cos 75.5°
+⎛
+⎝⎜
+⎞
+⎠⎟
+nA = 2
+mg 
+2 −d cos 75.5°
+⎛
+⎝⎜
+⎞
+⎠⎟= mg 1−d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+Consider the torque from external forces about point C at the top of the 
+right half of the ladder: 
+ 
+ 
+ 
+τ C
+∑
+= −T 
+2 sin 75.5° + nB
+
+4 = 0
+→T = nB
+1
+2 sin 75.5° = mgd
+2
+1
+2 sin 75.5°
+→T =
+mgd
+4sin 75.5°
+ 
+ 
+Note that the tension T on the right half of the ladder must pull to the 
+left, otherwise it could not contribute a clockwise torque about C to 
+balance the counterclockwise torque from nB. 
+ANS. FIG. P12.56
+
+--- PAGE 40 ---
+Chapter 12     671 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Now we find the components of the reaction force that the left half of 
+the ladder exerts on the right half. Consider the forces acting on the 
+right half of the ladder: 
+ 
+ 
+ 
+Fx
+∑
+= Rx −T = 0 →Rx = T, to the right
+Fy
+∑
+= Ry + nB = 0 →Ry = −nB →Ry = nB, downward
+ 
+ 
+Collecting our results, we find 
+ 
+(a) 
+T =
+mgd
+4sin 75.5° = 70.0 kg
+(
+) 9.80 m/s2
+(
+) 3.00 m
+(
+)
+4 4.00 m
+(
+)sin 75.5°
+  →  T = 133 N 
+ 
+(b) 
+nA = mg 1−d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+nA = 70.0 kg
+(
+) 9.80 m/s2
+(
+) 1−2 3.00 m
+(
+) 1 4
+(
+)
+4.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟→nA = 429 N 
+ 
+ 
+and 
+ 
+ 
+ 
+nB = mgd
+2=
+70.0 kg
+(
+) 9.80 m/s2
+(
+) 3.00 m
+(
+)
+2 4.00 m
+(
+)
+→nB = 257 N 
+ 
+(c) 
+The force exerted by the left half of the ladder on the right half is 
+to the right and downward: 
+ 
+ 
+ 
+Rx = T →Rx = 133 N, to the right   
+ 
+ 
+and Ry = −nb →Ry = −257 N →Ry = 257 N, downward 
+P12.57 
+From the geometry of Figure P12.56 and ANS. FIG. P12.56, we observe 
+that 
+ 
+ 
+ 
+cosθ = 4
+= 1
+4
+ 
+ 
+and   
+ 
+ 
+ 
+sinθ =
+1−cos2θ =
+1−
+1
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1−1
+16 =
+15
+16
+sinθ =
+15
+4
+ 
+ 
+(a) 
+Below in part (b) we show that normal force nB = mgd/2. We use 
+this result here to find the tension T in the horizontal bar.
+
+--- PAGE 41 ---
+672     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Consider the torque about point C at the top of the right half of 
+the ladder: 
+ 
+ 
+ 
+τ C
+∑
+= −T 
+2 sinθ + nB
+
+4 = 0
+T = nB
+
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+sinθ = mgd
+2
+
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+sinθ =
+mgd
+4sinθ =
+mgd
+4
+15 4
+(
+)
+T = mgd
+15
+ 
+ 
+ 
+Note that the tension T on the right half of the ladder must pull to 
+the left, otherwise it could not contribute a clockwise torque 
+about C to balance the counterclockwise torque from nB. 
+ 
+(b) We now proceed to find the normal forces nA and nB. 
+ 
+ 
+First, consider the net torque from all forces acting on the ladder 
+about point B at the bottom right side of the whole ladder. Note 
+that tension T on the left half of the ladder and tension T on the 
+right half of the ladder have opposite torques because they have 
+the same moment arms about point B, so their torques cancel 
+(they are forces internal to the system, so they cannot contribute 
+to net torque). In like manner, torques from Rx and Ry on both 
+halves of the ladder cancel in pairs (again, they are internal 
+forces). The only contributing torques come from the weight of 
+the painter and the normal force nA (these are forces external to 
+the ladder). 
+ 
+ 
+ 
+τ B
+∑
+= −nA
+
+2 + mg 
+2 −d cos θ
+⎛
+⎝⎜
+⎞
+⎠⎟= 0
+nA
+
+2 = mg 
+2 −d
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+nA
+
+2 = mg 2−d
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+nA = 2
+mg 2−d
+4
+⎛
+⎝⎜
+⎞
+⎠⎟
+nA = mg 2−d
+(
+)
+2
+ 
+ 
+ 
+Now, consider the net torque from all forces acting on the ladder 
+about point A on the bottom left side of the whole ladder. 
+Similarly to the case of the torques about point B, the only 
+contributing torques about A come from the weight of the painter
+
+--- PAGE 42 ---
+Chapter 12     673 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+and the normal force nB (again, these are external forces). 
+ 
+ 
+ 
+τ A
+∑
+= −mgdcosθ + nB
+
+2 = 0
+→nB = 2
+mgdcosθ = 2
+mgd 1
+4
+⎛
+⎝⎜
+⎞
+⎠⎟→nB = mgd
+2
+ 
+ 
+(c) 
+Now we find the components of the reaction force that the left 
+half of the ladder exerts on the right half. Consider the forces 
+acting on the right half of the ladder: 
+ 
+ 
+ 
+Fx
+∑
+= Rx −T = 0 →Rx = T
+                  Rx = mgd
+15 , to the right
+Fy
+∑
+= Ry + nB = 0 →Ry = −nB = −mgd
+2
+                  Ry = mgd
+2, downward
+ 
+P12.58 
+(a) 
+F = m Δv
+Δt
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.00 kg
+(
+) 10.0 −1.00
+(
+) m s
+0.002 s
+= 4 500 N 
+ 
+(b) 
+stress = F
+A =
+4 500 N
+0.010 m
+(
+) 0.100 m
+(
+)
+= 4.50 × 106 N m2 
+ 
+(c) 
+Yes. This is more than sufficient to break the board. 
+P12.59 
+(a) 
+Take both balls together. Their weight is 2mg = 3.33 N and their 
+CG is at their contact point. 
+ 
+ 
+ 
+Fx
+∑
+= 0:+ P3 −P1 = 0 →P3 = P1
+Fy
+∑
+= 0:+ P2 −2mg = 0 →P2 = 2mg = 3.33 N
+  
+ 
+ 
+For torque about the contact point (CP) between the balls: 
+ 
+ 
+ 
+τ CP
+∑
+= 0:     P1 Rcos45.0°
+(
+)−P2 Rcos45.0°
+(
+)+ P3 Rcos45.0°
+(
+)
+−mg Rcos45.0°
+(
+)+ mg Rcos45.0°
+(
+) = 0
+→P1 −P2 + P3 = 0 →P1 + P3 = P2
+ 
+ 
+ 
+Substituting P3 = P1, we find 
+ 
+ 
+ 
+2P1 = P2 = 2mg →P1 = mg
+
+--- PAGE 43 ---
+674     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Therefore,  
+ 
+ 
+ 
+P1 = P3 = 1.67 N 
+ 
+ANS. FIG. P12.59(a) 
+ 
+(b) Take the upper ball. The lines of action of its weight, of P1 , and of 
+the normal force n exerted by the lower ball all go through its 
+center, so for rotational equilibrium there can be no frictional 
+force. 
+ 
+ 
+ 
+Fx
+∑
+= 0: ncos45.0° −P1 = 0 
+ 
+ 
+ 
+ 
+n = 1.67 N
+cos45.0° = 2.36 N 
+ 
+ 
+ 
+Fy
+∑
+= 0: nsin 45.0° −1.67 N = 0  gives the same result. 
+ 
+ANS. FIG. P12.59(b) 
+P12.60 
+We will let F represent some stretching force and use algebra to 
+combine the Hooke’s-law account of the stretching with the Young’s-
+modulus account. Then integration will reveal the work done as the 
+wire extends. 
+ 
+ 
+(a) 
+According to Hooke’s law, 
+|
+
+F|= kΔL 
+ 
+ 
+ 
+Young’s modulus is defined as Y = F/A
+ΔL/L
+
+--- PAGE 44 ---
+Chapter 12     675 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+By substitution, 
+ 
+ 
+ 
+ 
+ 
+Y = k L
+A
+or
+k = YA
+L
+ 
+ 
+ 
+(b) The spring exerts force –kx. The outside agent stretching it exerts 
+force +kx. We can determine the work done by integrating the 
+force kx over the distance we stretch the wire. 
+ 
+ 
+ 
+W = −
+F dx = −
+(−kx)dx =
+0
+ΔL
+∫
+YA
+L
+x dx
+0
+ΔL
+∫
+=
+YA
+L
+1
+2 x2
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥
+x = 0
+x = ΔL
+0
+ΔL
+∫
+ 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+W = 1
+2 YA ΔL
+(
+)
+2 /L
+ 
+P12.61 
+Let θ represent the angle of the wire with 
+the vertical. The radius of the circle of 
+motion is r = Lsinθ , where L = 0.850 m. 
+ 
+For the mass: 
+ 
+ 
+ 
+Fr
+∑
+= mar = m v2
+r = mrω 2
+              T sinθ = m Lsinθ
+[
+]ω 2
+ 
+ 
+Further, T
+A = Y ⋅ΔL
+L
+ or T = AY ⋅ΔL
+L
+ 
+ 
+Thus, AY ⋅ΔL L
+(
+) = mLω 2, giving 
+ 
+ω =
+AY ⋅ΔL L
+(
+)
+mL
+=
+π 3.90 × 10−4 m
+(
+)
+2 7.00 × 1010 N m2
+(
+) 1.00 × 10−3
+(
+)
+1.20 kg
+(
+) 0.850 m
+(
+)
+ 
+ 
+or 
+ 
+ω = 5.73 rad s 
+P12.62 
+(a), (b) 
+Use the first diagram and sum the torques about the lower 
+front corner of the cabinet. 
+ 
+ 
+ 
+τ
+∑
+= 0 ⇒−F 1.00 m
+(
+)+ 400 N
+(
+) 0.300 m
+(
+) = 0 
+ 
+ 
+yielding F = 400 N
+(
+) 0.300 m
+(
+)
+1.00 m
+= 120 N 
+ 
+ 
+ 
+Fx
+∑
+= 0 ⇒−f + 120 N = 0, or 
+f = 120 N 
+ANS. FIG. P12.61
+
+--- PAGE 45 ---
+676     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+Fy
+∑
+= 0 ⇒−400 N + n = 0 
+ 
+ 
+so 
+n = 400 N 
+ 
+ 
+Thus, 
+ 
+ 
+ 
+µs = f
+n = 120 N
+400 N = 0.300 
+ 
+(c) 
+Apply F’ at the upper rear corner and directed so 
+θ + φ = 90.0° to obtain the largest possible lever 
+arm. 
+ 
+ 
+ 
+θ = tan−1
+1.00 m
+0.600 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 59.0° 
+ 
+ 
+Thus, φ = 90.0° −59.0° = 31.0° 
+ 
+ 
+Sum the torques about the lower front corner 
+of the cabinet: 
+ 
+ 
+ 
+−′
+F
+1.00 m
+(
+)
+2 + 0.600 m
+(
+)
+2 + 400 N
+(
+) 0.300 m
+(
+) = 0 
+ 
+ 
+so 
+′
+F = 120 N ⋅m
+1.17 m
+= 103 N 
+ 
+ 
+Therefore, the minimum force required to tip the cabinet is 
+ 
+ 
+103 N applied at 31.0° above the horizontal at the upper 
+left corner
+ 
+*P12.63 
+(a) 
+Consider the torques about an axis perpendicular to the page 
+through the left end of the rod, as shown in ANS. FIG. P12.63. 
+ 
+ 
+ 
+τ = 0:
+∑
+    T 6.00 m
+(
+)cos30.0° −100 N
+(
+) 3.00 m
+(
+)−500 N
+(
+) 4.00 m
+(
+) = 0
+  
+ 
+ 
+then, 
+ 
+ 
+ 
+T = 100 N
+(
+) 3.00 m
+(
+)+ 500 N
+(
+) 4.00 m
+(
+)
+6.00 m
+(
+)cos30.0°
+= 443 N
+ 
+ 
+(b) From the first condition for equilibrium, 
+ 
+ 
+ 
+Fx
+∑
+= 0:
+        Rx = T sin30.0° = 443 N
+(
+)sin30.0°
+            = 221 N toward the right
+ 
+ANS. FIG. P12.62
+
+--- PAGE 46 ---
+Chapter 12     677 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Similarly,  
+ 
+ 
+Fy
+∑
+= 0:
+        Ry +T cos30.0° −100 N −500 N = 0
+ 
+ 
+ 
+which gives 
+ 
+ 
+Ry = 600 N −T cos30.0° = 600 N −443 N
+(
+)cos30.0°
+= 217 N upward
+ 
+ 
+ANS. FIG. P12.63 
+P12.64 
+Let the original length (when the cable is laid 
+horizontally on a frictionless surface) of an 
+infinitesimal piece of the cable be dy. Let the 
+extension of this piece be dL when the cable is 
+hung vertically. Then, for the entire cable, 
+ 
+ 
+ 
+ΔL =  dL
+∫
+ = 
+F
+AY dy
+∫
+ 
+ 
+where F is the weight of the cable below a point 
+at position y. Evaluating F, with µ as the mass 
+per unit length, 
+ 
+ 
+ 
+ΔL = 
+µy
+(
+)g
+AY dy
+∫
+ =  µg
+AY ydy
+0
+L
+∫
+ 
+=  µg
+AY
+L2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ =  1
+2
+µgL2
+AY
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+ 
+ΔL = 1
+2
+2.40 kg/m
+(
+) 9.80 m/s2
+(
+) 500 m
+(
+)
+2
+2.00 × 1011 N/m2
+(
+) 3.00 × 10−4 m2
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.049 0 m = 4.90 cm
+ 
+ 
+ 
+ANS. FIG. P12.64
+
+--- PAGE 47 ---
+678     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Challenge Problems 
+P12.65 
+With  as large as possible, n1 and n2 will both be large. The equality 
+sign in f2 ≤µsn2 will be true, but the less-than sign will apply in 
+f1 < µsn1. Take torques about the lower end of the pole. 
+ 
+ 
+ 
+n2cosθ + Fg
+1
+2 
+⎛
+⎝⎜
+⎞
+⎠⎟cosθ −f2sinθ = 0 
+ 
+Setting f2 = 0.576n2, the torque equation becomes 
+ 
+ 
+ 
+n2 1−0.576tanθ
+(
+) + 1
+2 Fg = 0 
+ 
+Since n2 > 0, it is necessary that 
+ 
+ 
+ 
+1−0.576tanθ < 0
+∴tanθ >
+1
+0.576 = 1.736
+∴θ > 60.1°
+∴=
+d
+sinθ < 7.80 ft
+sin60.1° = 9.00 ft
+ 
+ 
+ANS. FIG. P12.65 
+P12.66 
+Consider forces and torques on the beam. 
+ 
+ 
+Fx
+∑
+= 0:      Rcosθ −T cos53° = 0
+Fy
+∑
+= 0:      Rsinθ +T sin53° −800 N = 0
+τ
+∑
+= 0:      T sin53°
+(
+) 8.00 m
+(
+)−600 N
+(
+)d
+                                                       −200 N
+(
+) 4.00 m
+(
+) = 0
+ 
+ 
+(a) 
+Suppressing units, we find  
+ 
+ 
+ 
+T = 600d + 800
+8sin53°
+= 93.9d + 125, in N
+
+--- PAGE 48 ---
+Chapter 12     679 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) From substituting back, 
+ 
+ 
+ 
+Rcosθ = 93.9d + 125
+[
+]cos53.0°
+Rsinθ = 800 N −93.9d + 125
+[
+]sin53.0°
+ 
+ 
+ 
+Dividing,  
+ 
+ 
+ 
+tanθ = Rsinθ
+Rcosθ = −tan53.0° +
+800 N
+93.9d+125
+(
+)cos53.0°
+ 
+ 
+ 
+ 
+tanθ =
+32
+3d + 4 −1
+⎛
+⎝⎜
+⎞
+⎠⎟tan53.0°
+ 
+ 
+(c) 
+To find R we can work out R2 cos2θ + R2 sin2θ = R2. From the 
+expressions above for Rcosθ and Rsinθ, 
+ 
+ 
+ 
+R2 = T 2 cos2 53° +T 2 sin2 53° −1600T sin53° + 800 N
+(
+)
+2
+R2 = T 2 −1600T sin53° + 640 000
+R2 = 93.9d + 125
+(
+)
+2 −1 278 93.9d + 125
+(
+)+ 640 000
+R = 8.82 × 103d2 −9.65 × 104d + 4.96 × 105
+(
+)
+1 2
+ 
+ 
+(d) 
+As d increases, T grows larger, θ decreases, and R decreases
+until about d = 5.4 m, then it increases. Notes as d increases,
+the d2 term predominates.
+ 
+P12.67 
+Imagine gradually increasing the force P. This 
+will make the force of static friction at the bottom 
+increase, so that the normal force at the wall 
+increases and the friction force at the wall can 
+increase. As P reaches its maximum value, the 
+cylinder will turn clockwise microscopically to 
+stress the welds at both contact points and make 
+both forces of friction increase to their maximum 
+values. 
+ 
+When it is on the verge of slipping, the cylinder 
+is in equilibrium. 
+ 
+ 
+ 
+Fx
+∑
+= 0: 
+→f1 = n2 = µsn1   and f2 = µsn2 
+ 
+ 
+ 
+Fy
+∑
+= 0: 
+→P + n1 + f2 = Fg 
+ 
+ 
+ 
+τ
+∑
+= 0: 
+→−PR + f1R + f2R = 0 →P = f1 + f2 
+ANS. FIG. P12.67
+
+--- PAGE 49 ---
+680     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+As P grows, so do f1 and f2. Therefore, since µs = 1
+2
+,  
+ 
+ 
+ 
+f1 = n1
+2  and f2 = n2
+2 = n1
+4
+ 
+ 
+then  
+P + n1 + n1
+4 = Fg 
+ 
+ 
+and  
+P = n1
+2 + n1
+4 = 3
+4 n1 
+ 
+ 
+So P + 5
+4 n1 = Fg becomes P + 5
+4
+4
+3 P
+⎛
+⎝⎜
+⎞
+⎠⎟= Fg or 8
+3 P = Fg. 
+ 
+Therefore, P = 3
+8 Fg . 
+P12.68 
+(a) 
+Just three forces act on the rod: forces perpendicular to the sides 
+of the trough at A and B, and its weight. The lines of action of the 
+normal forces at A and B will intersect at a point above the rod so 
+that those forces will have no torque about this point. The rod’s 
+weight will cause a torque about the point of intersection as in 
+ANS. FIG. P12.68(a), and the rod will not be in equilibrium unless 
+the center of the rod lies vertically below the intersection point, as 
+in ANS. FIG. P12.68(b). All three forces must be concurrent. Then 
+the line of action of the weight is a diagonal of the rectangle 
+formed by the two normal forces, and the rod’s center of gravity 
+is vertically above the bottom of the trough. 
+ 
+ANS. FIG. P12.68(a) 
+ 
+(b) In ANS. FIG. P12.68(b), AOcos30.0° = BOcos60.0° and 
+ 
+ 
+ 
+L2 = AO
+2 + BO
+2 = AO
+2 + AO
+2
+cos2 30.0°
+cos2 60.0°
+⎛
+⎝⎜
+⎞
+⎠⎟
+AO =
+L
+1+
+cos30°
+cos60°
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 = L
+2
+
+--- PAGE 50 ---
+Chapter 12     681 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+So  
+cosθ = AO
+L
+= 1
+2 and θ = 60.0° 
+ 
+ANS. FIG. P12.68(b) 
+ 
+(c) 
+Unstable. If the rod is displaced slightly, it will slip until it lies 
+along the left edge of the trough where its center of gravity will 
+be lower.
+
+--- PAGE 51 ---
+682     Static Equilibrium and Elasticity 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P12.2 
+The situation is impossible because x is larger than the remaining 
+portion of the beam, which is 0.200 m long. 
+P12.4 
+x = −1.50 m; y = −1.50 m 
+P12.6 
+R
+6
+ 
+P12.10 
+2.94 kN; 4.41 kN 
+P12.8 
+(a) m1 = 9.00 g; (b) m2 = 52.5 g; (c) m3 = 49.0 g 
+P12.12 
+(a) U = 88.2 N; (b) D = 58.8 N 
+P12.14 
+(a)  1
+2 m1g +
+x
+L
+⎛
+⎝⎜
+⎞
+⎠⎟m2g
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥cotθ , (m1 + m2)g; (b) m1 /2 + m2d/L
+(
+)cotθ
+m1 + m2
+ 
+P12.16 
+(a) See ANS. FIG. P12.16; (b) mg
+2 cotθ; (c) T = µsmg; (d) µs = 1
+2 cotθ;  
+(e) The ladder slips 
+P12.18 
+(a) See ANS. FIG. P12.18; (b) 392 N; (c) 339 N to the right; (d) 0;  
+(e) V = 0; (f) 392 N; (g) 339 N to the right; (h) The two solutions agree 
+precisely. They are equally accurate. 
+P12.20 
+(a) No time interval. The horse’s feet lose contact with the drawbridge 
+as soon as it begins to move; (b) 1.73 rad/s; (c) 2.22 rad/s; (d) 6.62 kN. 
+The force at the hinge is 4.72ˆi + 6.62ˆj
+(
+)kN; (e) 59.1 kJ 
+P12.22 
+(a) 
+mg 2Rh −h2
+R −h
+(
+)cosθ −
+2Rh −h2 sinθ
+; 
+ 
+(b) 
+mg 2Rh −h2 cosθ
+R −h
+(
+)cosθ −
+2Rh −h2 sinθ
+ and mg 1+
+2Rh −h2 cosθ
+(R −h)cosθ −
+2Rh −h2 sinθ
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+P12.24 
+(a) See ANS. FIG. P12.24; (b) 218 N; (c) 72.4 N; (d) 2.41 m; (e) See 
+P12.24(e) for full explanation. 
+P12.26 
+~ 1 cm 
+P12.28 
+(a) 73.6 kN; (b) 2.50 mm 
+P12.30 
+1.0 × 10
+11 N/m
+2 
+P12.32 
+1.65 × 10
+8 N/m
+2 
+P12.34 
+8.60 × 10
+–4 m
+
+--- PAGE 52 ---
+Chapter 12     683 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P12.36 
+9.85 × 10
+–5 
+P12.38 
+(a) Rigid object in static equilibrium; (b) See ANS. FIG. P12.38; (c) The 
+woman is at x = 0 when n1 is greatest; (d) n1 = 0; (e) 1.42 × 10
+3 N;  
+(f) 5.64 m; (g) same as answer (f) 
+P12.40 
+(a) 0.400 mm; (b) 40.0 kN; (c) 2.00 mm; (d) 2.40 mm; (e) 48.0 kN 
+P12.42 
+θ = 21.2°; T = 1.68 kN; R = 2.34 kN 
+P12.44 
+(a) See ANS. FIG. P12.44 for the force diagram and see P12.44(a) for a 
+sample problem statement. (b) The upper hinge exerts 410 N to the left 
+and 442 N up. The lower hinge exerts 410 N to the right. 
+P12.46 
+T = 1.46 kN; H = 1.33 kN; V = 2.58 kN 
+P12.48 
+(a) 2.71 kN; (b) 2.65 kN; (c) You should lift “with your knees” rather 
+than “with your back”; (d) In this situation, you can make the 
+compressional force in your spine about ten times smaller by bending 
+your knees and lifting with your back as straight as possible. 
+P12.50 
+The situation is impossible because the new technique would tip the 
+cabinet over. 
+P12.52 
+209 N 
+P12.54 
+(a) nC = 634 N, nA = 1 000 N – nC = 366 N; (b) CAB = 732 N, TAC = 634 N, 
+and CBC = 897 N 
+P12.56 
+(a) T = 133 N; (b) nA = 429 N, nB = 257 N; (c) Rx = 133 N, to the right,  
+Ry = 257 N, downward 
+P12.58 
+(a) 4 500 N; (b) 4.50 × 10
+6 N/m
+2; (c) yes 
+P12.60 
+(a) YA
+L ; (b)YA (ΔL)2
+2L 
+P12.62 
+(a and b) 120 N, 0.300; (c) 103 N applied at 31.0° above the horizontal at 
+the upper left corner. 
+P12.64 
+4.90 cm 
+P12.66 
+(a) 93.9d + 125, in N; (b) See P12.66(b) for full derivation; (c) See 
+P12.66(c) for full derivation; (d) As d increases, T grows larger, θ 
+decreases, and R decreases until about d = 5.4 m, then it increases. Note 
+as d increases, the d
+2 term predominates. 
+P12.68 
+(a) See P12.68(a) for the full explanation; (b) 60.0°; (c) unstable

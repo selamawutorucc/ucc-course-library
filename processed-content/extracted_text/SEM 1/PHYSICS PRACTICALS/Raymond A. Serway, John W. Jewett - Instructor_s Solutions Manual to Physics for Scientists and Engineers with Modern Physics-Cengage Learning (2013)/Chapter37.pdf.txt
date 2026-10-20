@@ -1,0 +1,5016 @@
+
+--- PAGE 1 ---
+744 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+37 
+Wave Optics 
+ 
+CHAPTER OUTLINE 
+ 
+27.1  
+Young’s Double-Slit Experiment 
+27.2  
+Analysis Model: Waves in Interference 
+27.3 
+Intensity Distribution of the Double-Slit Interference Pattern 
+27.4 
+Change of Phase Due to Reflection 
+27.5  
+Interference in Thin Films 
+27.6 
+The Michelson Interferometer 
+ 
+* An asterisk indicates a question or problem new to this edition. 
+ 
+ANSWERS TO OBJECTIVE QUESTIONS 
+ 
+OQ37.1 
+(i) 
+Answer (a). If the mirrors do not move the character of the 
+interference stays the same. 
+ 
+(ii) Answer (c). The light waves destructively interfere so they are 
+initially out of phase by 180°. Moving the mirror by λ/2 changes 
+the path difference by 2(λ/2) = λ, so the waves go in phase then 
+back out of phase to their original phase relation. 
+OQ37.2 
+(i) 
+The ranking is b > a > c = d. The angles in the interference 
+pattern are small, so we can make a good approximation of their 
+values: dsinθ = mλ →θ ≈mλ d. Thus for m = 1, θ ≈λ d, which 
+we estimate in each case: (a) 0.450 µm/400 µm ≈ 1.1 × 10
+−3 rad 
+(b) 0.7 µm/400 µm ≈ 1.8 × 10
+−3 rad (c) and (d) 0.7 µm/800 µm ≈ 
+0.9 × 10
+−3 rad. 
+ 
+(ii) The ranking is b = d > a > c. Now we consider the distance 
+ 
+ 
+ 
+y = Ltanθ ≈Lsinθ = L mλ d
+(
+)  →  y ≈mLλ d 
+ 
+ 
+Thus for m = 1,  y ≈Lλ d, which we estimate in each case:
+
+--- PAGE 2 ---
+Chapter 37     745 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+(a) (4 m) (0.45 µm/400 µm) ≈ 4.5 mm; (b) (4 m)(0.7 µm/400 µm)  
+≈ 7 mm; (c) (4 m)(0.7 µm/800 µm) ≈ 3.5 mm;  
+(d) (8 m)(0.7 µm/800 µm) ≈ 7 mm. 
+OQ37.3 
+Answer (c). Underwater, the wavelength of the light decreases 
+according to λwater = λair nwater . Since the angles between positions of 
+light and dark bands, being small, are approximately proportional to 
+λ, the underwater fringe separations decrease. 
+OQ37.4 
+(i) 
+Answer (c). The distance between nodes is half a wavelength. 
+ 
+(ii) Answer (d). The reflected light travels through the same path 
+twice because it reflects, so moving the mirror one-quarter 
+wavelength, 125 nm, results in a path change of one-half 
+wavelength, 250 nm, which results in destructive interference. 
+ 
+(iii) Answer (e). The wavelength of the light in the film is 500 nm/2 
+= 250 nm. If the film is made 62.5 nm thicker (one-quarter 
+wavelength in the film), the light reflecting inside the film has a 
+path length 125 nm greater. This is half a wavelength, which 
+reverses constructive into destructive interference. 
+OQ37.5 
+Answer (d). There are 180° phase changes occurring in the reflections 
+at both the air-oil boundary and the oil-water boundary; thus the 
+relative phase change from reflection is zero. The condition for 
+constructive interference in the reflected light is 
+ 
+ 
+ 
+2t = m λ
+n
+→
+t = m λ
+2n
+ 
+ 
+where m is any integer. The minimum non-zero thickness of the oil 
+which will strongly reflect 530-nm light is m = 1: 
+ 
+ 
+ 
+t = m λ
+2n = 1( ) 530 nm
+2 1.25
+(
+)
+= 212 nm 
+O37.6 
+Answer (a). For the second-order bright fringe, 
+ 
+ 
+ 
+dsinθ = 2λ
+sinθ = 2
+500 × 10−9 m
+2.00 × 10−5 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+θ = 0.050 0 rad 
+ 
+OQ37.7 
+(i) 
+Answer (b). If the oil film is brightest where it is thinnest, then 
+nair < noil < nflint glass. With this condition, light reflecting from both 
+the top and the bottom surface of the oil film will undergo 180° 
+phase changes. Then these two beams will be in phase with each 
+other where the film is very thin. This is the condition for 
+constructive interference as the thickness of the oil film
+
+--- PAGE 3 ---
+746     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+decreases toward zero. If the oil film is dark where it is thinnest, 
+then nair < noil > ncrown glass. In this case, reflecting light undergoes 
+a 180° phase change upon reflection from the top surface but no 
+180° phase change upon reflection from the bottom surface of 
+the oil. The two reflected beams are 180° out of phase and 
+interfere destructively as the oil film thickness goes to zero. 
+ 
+(ii) Yes. It should have a lower refractive index than both kinds of 
+glass. 
+ 
+(iii) Yes. It should have a higher refractive index than both kinds of 
+glass. 
+ 
+(iv) No. Its refractive index cannot be both greater than 1.66 and less 
+than 1.52. 
+OQ37.8 
+Answer (b). With two fine slits separated by a distance d slightly less 
+than λ, the equation dsinθ = 0 has the usual solution θ = 0, but 
+dsinθ = λ has no solution: there is no first-order maximum. 
+However, dsinθ = 1
+2 λ has a solution: first-order minima flank the 
+central maximum on each side. 
+OQ37.9 
+(i) 
+Answer (a). The angular position of the mth-order bright fringe 
+in a double-slit interference pattern is given by dsinθm = mλ. 
+The distance ym of the mth-order bright fringe from the center of 
+the pattern is given by ym = Ltanθm , where L is the distance to 
+the screen. The spacing between successive bright fringes is 
+ 
+ 
+ 
+Δy = ym+1 −ym = L tanθm+1 −tanθm
+(
+)
+≈L sinθm+1 −sinθm
+(
+)
+= L
+m+ 1
+(
+)−m
+[
+]
+d
+λ = L
+d λ
+ 
+ 
+ 
+because the angles are small, and for small angles (in radians) 
+sinθ tanθ. As L increases, the spacing Δy increases. 
+ 
+(ii) Answer (b). From our result above, we see that as d increases, 
+the spacing Δy decreases. 
+OQ37.10 
+Answer (b). If the thickness of the oil film were smaller than half of 
+the wavelengths of visible light, no colors would appear. If the 
+thickness of the oil film were much larger, the colors would overlap 
+to mix to white or gray.
+
+--- PAGE 4 ---
+Chapter 37     747 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ANSWERS TO CONCEPTUAL QUESTIONS 
+ 
+CQ37.1 
+A camera lens will have more than one element, to correct (at least) 
+for chromatic aberration. It will have several surfaces, each of which 
+would reflect some fraction of the incident light. To maximize light 
+throughout, the surfaces need antireflective coatings. The coating 
+thickness is chosen to produce destructive interference for reflected 
+light of a particular wavelength. 
+CQ37.2 
+Due to gravity, the soap film tends to sag in its holder, being quite 
+thin at the top and becoming thicker as one moves toward the 
+bottom of the holding ring. Because light reflecting from the front 
+surface of the film experiences a 180° phase change, and light 
+reflecting from the back surface of the film does not (see Figure 37.10 
+in the textbook), the film must be a minimum of a half wavelength 
+thick before it can produce constructive interference in the reflected 
+light. Thus, the light must be striking the film at some distance from 
+the top of the ring before the thickness is sufficient to produce 
+constructive interference for any wavelength in the visible portion of 
+the spectrum. 
+CQ37.3 
+The light from the flashlights consists of many different wavelengths 
+(that’s why it’s white) with random time differences between the 
+light waves. There is no coherence between the two sources. The light 
+from the two flashlights does not maintain a constant phase 
+relationship over time. These three equivalent statements mean no 
+possibility of an interference pattern. 
+CQ37.4 
+Typically, a thin air film forms between the lens and the glass plate. 
+Light reflecting from the upper surface of the air film (lower surface 
+of the lens) can interfere with light reflecting from the lower surface 
+of the air film (upper surface of the flat glass plate). The light 
+reflecting from the lower surface of the air film undergoes a 180° 
+phase change on reflection while the light reflecting from the upper 
+surface of the air film does not. (a) Where there is negligible distance 
+between the surfaces, at the center of the pattern you will see a dark 
+spot because of the destructive interference associated with the 180° 
+phase shift. (b) Colored rings surround the dark spot. If the lens is a 
+perfect sphere and the plate is perfectly flat, the rings are perfect 
+circles. On the fine scale of the wavelength of visible light, distorted 
+rings reveal bumps and hollows that cause variation in the air film 
+between the glass surfaces. 
+CQ37.5 
+The waves interfere destructively at some places and interfere 
+constructively at others. The total energy is not lost, it is just 
+rearranged. The energy that does not go into the dark fringes is 
+shifted into the bright fringes.
+
+--- PAGE 5 ---
+748     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+CQ37.6 
+Every color produces its own double-slit interference pattern, so if 
+white light is used, the central maximum is white and the first-order 
+maxima are full spectra running from violet to red. Each higher-
+order maximum is in principle a full spectrum, but it can partially 
+overlap with the next order maximum, so the pattern for a specific 
+color is hard to distinguish. Using monochromatic light eliminates 
+this problem. 
+CQ37.7 
+(a) 
+Two waves interfere constructively if their path difference is 
+zero, or an integral multiple of the wavelength, according to 
+δ = mλ, with m = 0, 1, 2, 3,…. 
+ 
+(b) Two waves interfere destructively if their path difference is a 
+half wavelength, or an odd multiple of λ
+2 , described by  
+ 
+ 
+ 
+δ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ , with m = 0, 1, 2, 3,…. 
+CQ37.8 
+Each liquid forms a film which causes interference of light reflected 
+off the top and bottom surfaces of the film. Since the liquids would 
+have an index greater than that of air, light reflected off the top 
+surface of each film would undergo a 180° phase change. When the 
+films become sufficiently thin, the type of interference that occurs, 
+constructive or destructive, depends on whether the reflected wave 
+does or does not undergo a 180° phase change. If the index of one 
+liquid is less than that of water, light reflected off the bottom surface 
+of the film (off the water surface) will be shifted by 180°, so the 
+overall interference will be constructive, and the film will appear 
+bright. If the index of the other liquid is greater than that of water, 
+light reflected off the bottom surface of the film will not be shifted, so 
+the overall interference will be destructive, and the film will appear 
+dark. 
+CQ37.9 
+Yes. A single beam of laser light going into the slits divides up into 
+several fuzzy-edged beams diverging from the point halfway 
+between the slits.
+
+--- PAGE 6 ---
+Chapter 37     749 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+SOLUTIONS TO END-OF-CHAPTER PROBLEMS 
+ 
+Section 27.1 
+Young’s Double-Slit Experiment 
+Section 27.2 
+Analysis Model: Waves in Interference 
+*P37.1 
+The angular locations of the bright fringes (or maxima) is given by 
+Equation 37.2:  
+ 
+ 
+ 
+dsinθ = mλ 
+ 
+Solving for m and substituting 30.0° gives 
+ 
+ 
+ 
+m = dsinθ
+λ
+= 3.20 × 10−4 m
+(
+)sin30.0°
+500 × 10−9 m
+= 320
+ 
+ 
+There are 320 maxima to the right, 320 to the left, and one for m = 0  
+straight ahead at θ = 0. There are therefore 641 maxima . 
+P37.2 
+The location of the dark fringe of order m (measured from the position 
+of the central maximum) is given by  
+ 
+ 
+(ydark)m = m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Lλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+where m = 0, ± 1, ± 2,… Thus, the spacing between the first and second 
+dark fringes will be 
+ 
+ 
+Δy = ydark
+(
+)m=1 −ydark
+(
+)m=0
+= 1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Lλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟−0 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+Lλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= Lλ
+d
+ 
+ 
+or 
+Δy =
+5.30 × 10−7 m
+(
+) 2.00 m
+(
+)
+0.300 × 10−3 m
+= 3.53 × 10−3 m = 3.53 mm 
+P37.3 
+The location of the bright fringe of order m (measured from the 
+position of the central maximum) is 
+ 
+ 
+dsinθ = mλ
+m = 0, ± 1, ± 2,…. 
+ 
+For first bright fringe to the side, m = 1. Thus, the wavelength of the 
+laser light must be 
+ 
+ 
+λ = dsinθ = (0.200 × 10−3m)sin0.181°
+= 6.32 × 10−7 m = 632 nm
+ 
+P37.4 
+The location of the bright fringes for small angles is given by Equation 
+37.7: 
+ 
+ 
+ 
+ybright = λL
+d m
+
+--- PAGE 7 ---
+750     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For m = 1,     
+ 
+ 
+ 
+λ =
+ybright
+L
+=
+3.40 × 10−3 m
+(
+) 0.500 × 10−3 m
+(
+)
+3.30 m
+= 515 nm 
+P37.5 
+In the equation dsinθ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ, the first minimum 
+is described by m = 0 and the tenth by m = 9:     
+ 
+ 
+ 
+sinθ = λ
+d 9 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 9.5 λ
+d
+ 
+ 
+Also, tanθ = y
+L.  But, for small θ, sinθ ≈tanθ. 
+ 
+Thus, d = 9.5λ
+sinθ = 9.5λL
+y
+: 
+ 
+ 
+ 
+d =
+9.5 5 890 × 10−10 m
+(
+) 2.00 m
+(
+)
+7.26 × 10−3 m
+= 1.54 × 10−3 m = 1.54 mm
+ 
+P37.6 
+We use Equation 37.2, dsinθbright  = mλ,  to find the angle for the m = 1 
+fringe: 
+ 
+ 
+ 
+sinθbright  = mλ
+d  =  1( ) 1.00 × 10−2 m
+(
+)
+8.00 × 10−3 m
+ = 1.25
+ 
+ 
+The sine of the angle is greater than 1, which is impossible. Therefore, 
+there is no m = 1 fringe on the screen whose position can be measured. 
+In fact, there is no interference pattern at all, just a bright area of 
+microwaves directly behind the double slit. 
+P37.7 
+We do not use the small-angle approximation sinθ ≈tanθ here 
+because the angle is greater than 10°. For the first bright fringe, m = 1, 
+and we have 
+ 
+ 
+dsinθ = mλ = λ 
+ 
+and 
+d =
+λ
+sinθ = 620 × 10−9 m
+sin15.0°
+= 2.40 × 10−6 m = 240 µm 
+P37.8 
+(a) 
+For a bright fringe of order m, the path difference is δ = mλ , 
+where m = 0, 1, 2,… At the location of the third order bright 
+fringe, 
+ 
+ 
+ 
+δ = mλ = 3 589 × 10−9 m
+(
+) = 1.77 × 10−6 m = 1.77 µm 
+ANS. FIG. P37.5
+
+--- PAGE 8 ---
+Chapter 37     751 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(b) For a dark fringe, the path difference is δ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ , where  
+m = 0, 1, 2,…  At the third dark fringe, m = 2 and 
+ 
+ 
+ 
+δ = 2 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ = 5
+2 589 nm
+(
+) = 1.47 × 103 nm = 1.47 µm 
+P37.9 
+(a) 
+For the bright fringe,  
+ 
+ 
+ 
+ybright = mλL
+d
+, where m = 1 
+ 
+ 
+ 
+y =
+546.1× 10−9 m
+(
+) 1.20 m
+(
+)
+0.250 × 10−3 m
+= 2.62 × 10−3 m
+= 2.62 mm
+ 
+ 
+(b) If you have trouble remembering whether 
+the equation with mλ or the equation with  
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ applies to a particular situation,  
+you can remember that a zero-order bright 
+ band is in the center, and dark bands are  
+halfway between bright bands. Thus, the  
+made-up equation dsinθ = count
+(
+)λ 
+describes them all, with count = 0, 1, 2, …  
+for bright bands, and with count = 0.5,  
+1.5, 2.5, … for dark bands. 
+ 
+ 
+Then, for the dark bands, 
+ydark = λL
+d
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟; m = 0, 1, 2, 3, … 
+ 
+ 
+ 
+ 
+Δy = y2 −y1 = λL
+d
+1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−0 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= λL
+d
+= 546.1× 10−9 m
+(
+) 1.20 m
+(
+)
+0.250 × 10−3 m
+Δy = 2.62 mm
+ 
+P37.10 
+Taking m = 0 and y = 0.200 mm in Equations 37.3 and 37.4 gives 
+ 
+ 
+L ≈2dy
+λ
+=
+2 0.400 × 10−3 m
+(
+) 0.200 × 10−3 m
+(
+)
+442 × 10−9 m
+= 0.362 m
+L ≈36.2 cm
+ 
+ANS. FIG. P37.9
+
+--- PAGE 9 ---
+752     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Geometric optics or a particle theory of light would incorrectly predict 
+bright regions opposite the slits and darkness in between. But, as this 
+example shows, interference can produce just the opposite. 
+ 
+ANS. FIG. P37.10 
+*P37.11 
+λ = 340 m s
+2 000 Hz = 0.170 m 
+ 
+The maxima are located at dsinθ = mλ: 
+ 
+m = 0 gives  
+θ = 0° 
+ 
+m = 1 gives  
+θ = sin−1 λ
+d
+⎛
+⎝
+⎞
+⎠= sin−1 0.170 m
+0.350 m
+(
+) = 29.1° 
+ 
+m = 2 gives  
+θ = sin−1 2λ
+d
+⎛
+⎝
+⎞
+⎠= sin−1 2 0.170 m
+(
+)
+0.350 m
+⎡
+⎣⎢
+⎤
+⎦⎥= 76.3° 
+ 
+ 
+m = 3 has no solution, since sinθ > 1. 
+ 
+The minima are located at dsinθ = m + 1
+2
+(
+)λ: 
+ 
+m = 0 gives  
+θ = sin−1
+λ
+2d
+⎛
+⎝
+⎞
+⎠= sin−1
+0.170 m
+2 0.350 m
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥= 14.1° 
+ 
+m = 1 gives  
+θ = sin−1 3λ
+2d
+⎛
+⎝
+⎞
+⎠= sin−1 3 0.170 m
+(
+)
+2 0.350 m
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥= 46.8° 
+ 
+m = 2 has no solution, since sinθ > 1. 
+ 
+We have maxima at 0°, 29.1°, and 76.3°; minima at 14.1° and 46.8° . 
+P37.12 
+The wavelength λ = v
+f = 343 m/s
+2 000 s−1 = 0.171 5 m is on the same order of 
+size as the slit separation d = 0.300 m, so we may treat this as a double-
+slit diffraction problem. 
+ 
+(a) 
+dsinθ = mλ    so    0.300 m
+(
+)sinθ = 1 0.171 5 m
+(
+)  and  θ = 34.9° . 
+ 
+(b) 
+dsinθ = mλ    so    dsin34.9° = 1 0.030 0 m
+(
+)   and   d = 5.25 cm .
+
+--- PAGE 10 ---
+Chapter 37     753 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+1.00 × 10−6 m
+(
+)sin34.9° = 1( )λ    so    λ = 572 nm. 
+ 
+ 
+ 
+f = c
+λ = 3.00 × 108 m/s
+5.72 × 10−7 m = 5.24 × 1014 Hz 
+P37.13 
+Note, with the conditions given, the small-angle 
+approximation does not work well. That is,  
+sin θ, tan θ, and θ are significantly different. We 
+treat the interference as a Fraunhofer pattern. 
+ 
+(a) 
+At the m = 2 maximum,  
+ 
+ 
+ 
+tanθ = 400 m
+1 000 m = 0.400 →θ = 21.8°
+ 
+ 
+ 
+So  
+λ = dsinθ
+m
+= 300 m
+(
+)sin21.8°
+2
+= 55.7 m . 
+ 
+(b) The next minimum encountered is the m = 2 minimum, and at 
+that point, 
+ 
+ 
+ 
+dsinθ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ 
+ 
+ 
+which becomes dsinθ = 5
+2 λ, 
+ 
+ 
+or 
+sinθ = 5
+2
+λ
+d = 5
+2
+55.7 m
+300 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.464 →θ = 27.7°, 
+ 
+ 
+so 
+y = 1 000 m
+(
+)tan27.7° = 524 m. 
+ 
+ 
+Therefore, the car must travel an additional  
+ 
+ 
+ 
+524 m – 400 m = 124 m 
+ 
+ 
+If we considered Fresnel interference, we would more precisely 
+find 
+ 
+ 
+(a) λ = 1
+2
+5502 + 1 0002 m −
+2502 + 1 0002 m
+(
+) = 55.2 m and  
+(b) 123 m. 
+P37.14 
+Location of A = central maximum, location of B = first minimum. 
+ 
+So,  
+Δy = ymin −ymax
+[
+] = λL
+d
+0 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−0 = 1
+2
+λL
+d = 20.0 m. 
+ 
+Thus,   
+d =
+λL
+2 20.0 m
+(
+)
+= 3.00 m
+(
+) 150 m
+(
+)
+40.0 m
+= 11.3 m . 
+ANS. FIG. P37.13
+
+--- PAGE 11 ---
+754     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.15 
+The angle θ of the 50th-order fringe is given by 
+ 
+ 
+ 
+dsinθ = mλ →θ = sin−1 50λ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+The distance x from the slit to the screen and the distance y of the mth-
+order fringe from the center of the central maximum are related by 
+tanθ = y
+x . As the student approaches the screen at speed v, the 
+distances x and y decrease but their ratio stays the same. Therefore, 
+ 
+ 
+ 
+tanθ = y
+x
+→
+y = xtanθ
+dy
+dt = dx
+dt tanθ = −vtanθ
+ 
+ 
+where dy/dt is negative because the distance y shrinks. The speed of the 
+fringe is 
+ 
+ 
+ 
+v50th-order = dy
+dt = vtanθ = vtan sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+Thus, the speed of the 50th-order fringe is 
+ 
+ 
+ 
+v50th-order = 3.00 m/s
+(
+)tan sin−1 50 632.8 × 10−9 m
+(
+)
+0.300 × 10−3 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+⎧
+⎨⎪
+⎩⎪
+⎫
+⎬⎪
+⎭⎪
+= 0.318 m/s
+ 
+P37.16 
+The angle θ of the mth-order fringe is given by 
+ 
+ 
+ 
+dsinθ = mλ
+→
+θ = sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+The distance x from the slit to the screen and the distance y of the mth-
+order fringe from the center of the central maximum are related by 
+tanθ = y
+x . As the student approaches the screen at speed v, the 
+distances x and y decrease but their ratio stays the same. Therefore, 
+ 
+ 
+ 
+tanθ = y
+x
+→
+y = xtanθ
+dy
+dt = dx
+dt tanθ = −vtanθ
+ 
+ 
+where dy/dt is negative because the distance y shrinks. Thus, the speed 
+of the mth-order fringe is 
+ 
+ 
+ 
+vmth-order = dy
+dt = vtanθ = vtan sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 12 ---
+Chapter 37     755 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.17 
+As shown in the figure to the right, the height of the radio telescope 
+dish is h = d2 sinθ, and the path difference in the waves reaching the 
+telescope is 
+ 
+ 
+δ = d2 −d1 = d2 1−sinα
+(
+) 
+ 
+where 
+ 
+ 
+θ + α +θ = 90°
+→
+α = 90° −2θ 
+ 
+If the first minimum δ = λ 2
+(
+) occurs when θ = 25.0°, then 
+ 
+ 
+α = 90° −2 25.0°
+(
+) = 40.0° , and 
+ 
+ 
+d2 =
+δ
+1−sinα =
+250 m
+(
+) 2
+1−sin 40.0° = 350 m 
+ 
+Thus, the height h = d2sinθ = 350 m sin25.0° = 148 m 
+ 
+ANS. FIG. P37.17 
+P37.18 
+For a double-slit system, the path difference of the two wave fronts 
+arriving at a screen is δ = dsinθ and the phase difference is  
+ 
+ 
+ 
+φ = 2π
+λ δ = 2π
+λ dsinθ ≈2π
+λ d y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+(a) 
+For θ = 0.500°, 
+ 
+ 
+ 
+φ = 2π
+λ dsinθ
+φ =
+2π
+500 × 10−9 m
+(
+)
+0.120 × 10−3 m
+(
+)sin 0.500°
+(
+) = 13.2 rad
+ 
+ 
+(b) 
+φ ≈2π
+λ d y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟=
+2π
+500 × 10−9 m
+(
+)
+0.120 × 10−3 m
+(
+) 5.00 × 10−3 m
+1.20 m
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 6.28 rad
+
+--- PAGE 13 ---
+756     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+If φ = 0.333 rad = 2πdsinθ
+λ
+, then  
+ 
+ 
+ 
+θ = sin−1
+λφ
+2π d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+500 × 10−9 m
+(
+) 0.333 rad
+(
+)
+2π 0.120 × 10−3 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+θ = 1.27 × 10−2°
+ 
+ 
+(d) If dsinθ = λ
+4 , then 
+ 
+ 
+ 
+θ = sin−1
+λ
+4d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+500 × 10−9 m
+4 0.120 × 10−3 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+ 
+ 
+ 
+ 
+θ = 5.97 × 10−2° 
+P37.19 
+From the diagram, the path difference between rays 1 and 2 is 
+ 
+ 
+ 
+δ = d1 −d2 = dsinθ1 −dsinθ2 
+ 
+For constructive interference, this path difference must be equal to an 
+integral number of wavelengths: 
+ 
+ 
+ 
+dsinθ1 −dsinθ2 = mλ
+sinθ1 −sinθ2 = mλ
+d
+→
+θ2 = sin−1 sinθ1 −mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ANS. FIG. P37.19 
+P37.20 
+(a) 
+y = 50ybright = 50 4.52 × 10−3 m
+(
+) = 0.226 m = 22.6 cm 
+ 
+(b) 
+tanθ1 =
+ybright
+(
+)m=1
+L
+= 4.52 × 10−3 m
+1.80 m
+= 2.51× 10−3
+
+--- PAGE 14 ---
+Chapter 37     757 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+From (b), θ1 = tan−1 4.52 × 10−3 m
+1.80 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.144° 
+ 
+ 
+→
+sinθ1 = 2.51× 10−3 
+ 
+ANS. FIG. P37.20 
+ 
+ 
+The sine and the tangent are very nearly the same, but only 
+because the angle is small. From dsinθbright = mλ, for m = 1: 
+ 
+ 
+ 
+λ = dsinθ1
+1
+=
+2.40 × 10−4 m
+(
+)sin 0.144°
+(
+)
+1
+= 6.03 × 10−7 m 
+ 
+(d) From δ = dsinθ = mλ for the order m bright fringe, 
+ 
+ 
+ 
+θ50 = sin−1 50λ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1 50sinθ1
+(
+) = sin−1 50sin 0.144°
+(
+)
+[
+]
+= 7.21°
+ 
+ 
+(e) 
+y5 = Ltanθ5 = 1.80 m
+(
+)tan 7.21°
+(
+) = 2.26 × 10−2 m = 2.28 cm 
+ 
+(f) 
+The two answers are close but do not agree exactly. The fringes
+are not laid out linearly on the screen as assumed in part (a),
+and this nonlinearity is evident for relatively large angles such
+as 7.21°.
+ 
+P37.21 
+(a) 
+The path difference δ = dsinθ, and when L >> y: 
+ 
+ 
+ 
+δ = yd
+L =
+1.80 × 10−2 m
+(
+) 1.50 × 10−4 m
+(
+)
+1.40 m
+= 1.93 × 10−6 m = 1.93 µm
+ 
+ 
+(b) 
+δ
+λ = 1.93 × 10−6 m
+6.43 × 10−7 m = 3.00 ,    or    δ = 3.00λ 
+ 
+(c) 
+Point P will be a maximum because the path difference is an 
+integer multiple of the wavelength.
+
+--- PAGE 15 ---
+758     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.22 
+Observe that the pilot must not only home in on the airport, but must 
+be headed in the right direction when she arrives at the end of the 
+runway. 
+ 
+(a) 
+λ = c
+f = 3.00 × 108 m/s
+30.0 × 106 s−1 = 10.0 m 
+ 
+(b) The first side maximum is at an angle given by dsinθ = 1( )λ. 
+ 
+ 
+ 
+40.0 m
+(
+)sinθ = 10.0 m
+θ = 14.5° 
+ 
+ 
+The 2.00 km is the length of the hypotenuse of a triangle with 
+angle θ : 
+ 
+ 
+ 
+y = Lsinθ = 2 000 m
+(
+)sin14.5° = 500 m 
+ 
+(c) 
+The intent is to inform the pilot which signal corresponds to the 
+central maximum. The signal of 10-m wavelength in parts (a) and 
+(b) would show maxima at 0°, 14.5°, 30.0°, 48.6°, and 90°. A signal 
+of wavelength, say, 11.23 m, would show maxima at 0°, 16.3°, 
+34.2°, and 57.3°. The only value in common is 0°. A strong signal 
+for both frequencies would indicate that the airplane was 
+traveling along the central maximum, thus, straight on the 
+runway. If λ1 and λ2 were related by a ratio of small integers in 
+λ1
+λ2
+= n1
+n2
+, equivalent to f2
+f1
+= n1
+n2
+, then the equations dsinθ = n2λ1 
+and dsinθ = n1λ2 would both be satisfied for the same nonzero 
+angle. The pilot could approach on an inappropriate bearing, and 
+run off the runway immediately after touchdown. 
+ 
+ 
+ 
+Section 37.3 
+Intensity Distribution of the  
+Double-Slit Interference Pattern 
+P37.23 
+We use Equation 37.14,  
+ 
+ 
+ 
+I = Imax cos2 π yd
+λL
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Solving and substituting then gives  
+ 
+ 
+ 
+I
+Imax
+= cos2 π 6.00 × 10−3 m
+(
+) 1.80 × 10−4 m
+(
+)
+656.3 × 10−9 m
+(
+) 0.800 m
+(
+)
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 0.968
+
+--- PAGE 16 ---
+Chapter 37     759 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.24 
+We use trigonometric identities to write 
+ 
+ 
+E1 + E2 = 6.00 sin (100π t)
+             + 8.00 sin(100π t +π/2)
+= 6.00 sin(100π t)+ 8.00 sin(100π t)cos(π/2)
+[
+                                   +8.00 cos(100π t)sin(π/2)]
+E1 + E2 = 6.00 sin(100π t)+ 8.00 cos(100π t)
+ 
+ 
+and 
+ 
+ 
+ER sin(100π t + φ) = ER sin(100π t)cosφ + ER cos(100π t)sinφ 
+ 
+The equation E1 + E2 = ER sin(100π t + φ) is satisfied if we require  
+ 
+ 
+600 = ER
+−cosφ
+and
+8.00 = ER sinφ 
+ 
+or  
+(6.00)2 + (8.00)2 = ER
+2(cos2 φ + sin2 φ) →ER = 10.0 
+ 
+and 
+ 
+tanφ = sinφ/cosφ = 8.00/6.00 = 1.33 →φ = 53.1° 
+P37.25 
+We will use Equation 37.14 for 
+intensity in a double-slit interference 
+pattern, which is 
+ 
+ 
+ 
+I = Imax cos2 πdsinθ
+λ
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+For small θ, from ANS. FIG. P37.25,  
+ 
+ 
+ 
+sinθ ≈y
+L 
+ 
+ 
+Substituting and solving gives 
+ 
+ 
+ 
+y = λL
+πd cos–1
+I
+Imax  
+ 
+Next, with I = 0.750Imax, we can substitute a value for each variable:  
+ 
+ 
+ 
+y = 6.00 × 10–7 m
+(
+)(1.20 m)
+π 2.50 × 10–3 m
+(
+) 
+cos–1
+0.750 =
+48.0 µm
+ 
+P37.26 
+(a) 
+The resultant amplitude is 
+ 
+ 
+ 
+Er = E0 sinω t + E0 sin ω t + φ
+(
+) + E0 sin ω t + 2φ
+(
+) 
+ 
+ 
+where φ = 2π
+λ dsinθ .  
+ 
+ANS. FIG. P37.25
+
+--- PAGE 17 ---
+760     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Expanding, 
+ 
+ 
+ 
+Er = E0 sinω t + sinω tcosφ + cosω tsinφ
+(
+                                         + sinω tcos2φ + cosω tsin2φ)
+Er = E0 sinω t
+(
+) 1+ cosφ + 2cos2φ −1
+(
+)
+                                    + E0 cosω t
+(
+) sinφ + 2sinφ cosφ
+(
+)
+Er = E0 1+ 2cosφ
+(
+) sinω tcosφ + cosω tsinφ
+(
+)
+= E0 1+ 2cosφ
+(
+)sin ω t +φ
+(
+)
+ 
+ 
+ 
+Then the intensity is  
+ 
+ 
+ 
+I ∝Er
+2 = E0
+2 1+ 2cosφ
+(
+)
+2
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+where we have substituted the time average of sin2 ω t + φ
+(
+), 
+which is 1
+2
+. The maximum intensity occurs at φ = 0:  
+ 
+ 
+ 
+Imax ∝E0
+2 1+ 2cos0
+(
+)
+2
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 9
+2 E0
+2 
+ 
+ 
+Therefore, the ratio of intensity to maximum intensity is 
+ 
+ 
+ 
+I
+Imax
+=
+E0
+2 1+ 2cosφ
+(
+)
+2
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+9
+2 E0
+2
+= 1+ 2cosφ
+(
+)
+2
+9
+I = Imax
+9
+1+ 2cosφ
+(
+)
+2
+I = Imax
+9
+1+ 2cos 2π dsinθ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+ 
+ 
+(b) Look at the N = 3 graph in the textbook Figure 37.7. The intensity 
+is zero at two places between the relative maxima, attained where 
+cosφ = −1
+2 . The relative secondary maximum in the middle 
+occurs at cosφ = −1.00, where I = Imax
+9 [1−2]2 = Imax
+9 . 
+ 
+(c) 
+The larger local maximum happens where cosφ = +1.00 , giving 
+I = Imax
+9 [1+ 2]2 = Imax . The ratio of intensities at primary versus 
+secondary maxima is 9 : 1 .
+
+--- PAGE 18 ---
+Chapter 37     761 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.27 
+(a) 
+From Equation 37.14,  
+ 
+ 
+ 
+I = Imax cos2 π dsinθ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+with φ = 2π
+λ dsinθ.  This gives 
+ 
+ 
+ 
+I
+Imax
+= cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+Therefore, 
+ 
+ 
+ 
+φ = 2cos−1
+I
+Imax
+= 2cos−1
+0.640 = 1.29 rad
+ 
+P37.28 
+In Iavg = Imax cos2 π dsinθ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟ for angles between −0.3° and +0.3° we may 
+take sin θ = θ (in radians) to find 
+ 
+ 
+ 
+I = Imax cos2 π 250 µm
+(
+) θ
+0.546 µm 
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+This equation is correct assuming θ is in radians; but we can then 
+equally well substitute in values for θ in degrees and interpret the 
+argument of the cosine function as a number of degrees. We get the 
+same answers for θ negative and for θ positive. We evaluate  
+θ degrees 
+−0.30 −0.25 −0.20 −0.15 −0.10 −0.05 0.0 
+I/Imax 
+0.101 1.00 
+0.092 0.659 0.652 0.096 1.00 
+θ degrees 
+0.05 
+0.10 
+0.15 
+0.20 
+0.25 
+0.30 
+ 
+I/Imax 
+0.096 0.652 0.659 0.092 1.00 
+0.101  
+TABLE P37.28 
+ 
+ANS. FIG. P37.28
+
+--- PAGE 19 ---
+762     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The cosine-squared function has maximum values of 1 at θ = 0, at  
+θ = 0.125°, and at θ = 0.250°. It has minimum values of zero halfway 
+between the maximum values. The graph then has the appearance 
+shown. 
+P37.29 
+(a) 
+From Equation 37.9, 
+ 
+ 
+ 
+φ = 2π d
+λ
+sinθ = 2π d
+λ
+⋅
+y
+y2 + D2
+φ ≈2π yd
+λD =
+2π 0.850 × 10−3 m
+(
+) 2.50 × 10−3 m
+(
+)
+600 × 10−9 m
+(
+) 2.80 m
+(
+)
+= 7.95 rad
+ 
+ 
+(b) 
+I
+Imax
+=
+cos2
+π d λ
+(
+)sinθ
+⎡⎣
+⎤⎦
+cos2
+π d λ
+(
+)sinθmax
+⎡⎣
+⎤⎦
+= cos2 φ 2
+(
+)
+cos2 mπ
+ 
+ 
+ 
+I
+Imax
+= cos2 φ
+2 = cos2 7.95 rad
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.453 
+ 
+ 
+ 
+ 
+Section 37.4 
+Change of Phase Due to Reflection 
+Section 37.5 
+Interference in Thin Films 
+P37.30 
+(a) 
+With phase reversal in the reflection at the outer surface of the 
+soap film and no reversal on reflection from the inner surface, the 
+condition for constructive interference in the light reflected from 
+the soap bubble is 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λn = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+→
+2nt = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+λ =
+2nt
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+ 
+where m = 0, 1, 2,… . For the lowest order reflection (m = 0), and 
+the wavelength is 
+ 
+ 
+ 
+λ =
+2nt
+0 + 1 2
+(
+)
+= 2 1.33
+(
+) 120 nm
+(
+)
+1 2
+= 638 nm 
+ 
+(b) 
+A thicker film would require a higher order of reflection, so use a 
+larger value of m.
+
+--- PAGE 20 ---
+Chapter 37     763 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+From (a) above, for a given wavelength, the thickness would be 
+ 
+ 
+ 
+t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2n = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+638 nm
+2 1.33
+(
+)
+ 
+ 
+ 
+The next greater thickness of soap film that can strongly reflect 
+638 nm light corresponds to m = 1, giving 
+ 
+ 
+ 
+t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2n = 1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+638 nm
+2 1.33
+(
+)
+= 360 nm 
+ 
+ 
+and the third such thickness (corresponding to m = 2) is 
+ 
+ 
+ 
+t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2n = 2 + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+638 nm
+2 1.33
+(
+)
+= 600 nm 
+P37.31 
+The layers are air, oil, and water. Because 1 < 1.25 < 1.33, light reflected 
+both from the top and from the bottom surface of the oil suffers phase 
+reversal. For constructive interference we require     
+ 
+ 
+2t = mλcons
+n
+ 
+ 
+and for destructive interference,     
+ 
+ 
+2t =
+m + 1 2
+(
+)
+⎡⎣
+⎤⎦λdes
+n
+ 
+ 
+Then,  
+λcons
+λdest
+= 1+ 1
+2m = 640 nm
+512 nm = 1.25 and m = 2 
+ 
+Therefore, t = 2 640 nm
+(
+)
+2 1.25
+(
+)
+= 512 nm . 
+P37.32 
+There are a total of two phase reversals caused by reflection, one at the 
+top and one at the bottom surface of the coating. 
+ 
+ 
+ 
+2nt = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ    so    t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2n
+ 
+ 
+The minimum thickness of the film is therefore 
+ 
+ 
+ 
+t =
+1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+500 nm
+(
+)
+2 1.30
+(
+)
+= 96.2 nm 
+P37.33 
+Treating the anti-reflectance coating like a camera-lens coating (two 
+phase reversals caused by reflection, one at the top and one at the 
+bottom surface of the coating), 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+→2nt = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ  
+ 
+ 
+ 
+(destructive interference)
+
+--- PAGE 21 ---
+764     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Let m = 0. Then, 
+ 
+ 
+ 
+t = λ
+4n = 3.00 cm
+4 1.50
+(
+)
+= 0.500 cm 
+ 
+This anti-reflectance coating could be easily countered by changing the 
+wavelength of the radar to 1.50 cm. Then the coating would exhibit 
+maximum reflection! 
+P37.34 
+(a) 
+The film thickness is t = 1.00 × 10
+–5 cm = 1.00 × 10
+–7 m = 100 nm. 
+Since the light undergoes a 180° phase change at each surface of 
+the film, the condition for constructive interference is 
+ 
+ 
+ 
+2t = m λ
+n
+,    or    λ = 2nt
+m = 2 1.38
+(
+) 100 nm
+(
+)
+m
+= 276 nm
+m
+ 
+ 
+ 
+Therefore, the wavelengths intensified in the reflected light are, 
+for m = 1, 2, and 3: 
+ 
+ 
+ 
+λ = 276 nm, 138 nm, 92.0 nm 
+ 
+(b) 
+No visible wavelengths are intensified. Because m ≥1, all 
+reflection maxima are in the ultraviolet and beyond. 
+P37.35 
+If the path length difference Δ = λ, the transmitted light will be bright. 
+Since Δ = 2d = λ, 
+ 
+ 
+ 
+dmin = λ
+2 = 580 nm
+2
+= 290 nm 
+P37.36 
+(a) 
+The light reflected from the top of the oil film undergoes phase 
+reversal. Since 1.45 > 1.33, the light reflected from the bottom 
+undergoes no reversal. For constructive interference of reflected 
+light, we then have 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n →2nt = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ 
+ 
+ 
+or 
+λm =
+2nt
+m + 1 2 = 2 1.45
+(
+) 280 nm
+(
+)
+m + 1 2
+= 812 nm
+m + 1 2 . 
+ 
+ANS. FIG. P37.36
+
+--- PAGE 22 ---
+Chapter 37     765 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Substituting for m gives:  
+ 
+ 
+ 
+m = 0, λ0 = 1 620 nm (infrared) 
+ 
+ 
+ 
+m = 1, λ1 = 541 nm (green) 
+ 
+ 
+ 
+m = 2, λ2 = 325 nm (ultraviolet) 
+ 
+ 
+Both infrared and ultraviolet light are invisible to the human eye, 
+so the dominant color in reflected light is green . 
+ 
+(b) The dominant wavelengths in the transmitted light are those that 
+produce destructive interference in the reflected light. The 
+condition for destructive interference upon reflection is 
+ 
+ 
+ 
+2t = m λ
+n
+ 
+ 
+ 
+or  
+λm = 2nt
+m = 812 nm
+m
+. 
+ 
+ 
+Substituting for m gives:  
+ 
+ 
+ 
+m = 1, λ1 = 812 nm (near infrared) 
+ 
+ 
+ 
+m = 2, λ2 = 406 nm (violet) 
+ 
+ 
+ 
+m = 3, λ3 = 271 nm (ultraviolet) 
+ 
+ 
+Of these, the only wavelength visible to the human eye (and 
+hence the dominant wavelength observed in the transmitted 
+light) is 406 nm. Thus, the dominant color in the transmitted light 
+is violet . 
+P37.37 
+For destructive interference in the air, 
+ 
+ 
+ 
+2t = mλ 
+ 
+The first dark fringe occurs at the end 
+where the plates meet, where 
+destructive interference occurs 
+because of the phase reversal caused 
+by light reflecting from the top of the 
+lower glass slide. For 30 dark fringes, 
+including the one where the plates 
+meet, m = 29 and 
+ 
+ 
+ 
+t = nλ
+2 = 29 600 nm
+(
+)
+2
+= 8.70 × 10−6 m = 8.70 µm
+ 
+ 
+ 
+ANS. FIG. P37.37
+
+--- PAGE 23 ---
+766     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The diameter of the wire is the same as the thickness: 
+ 
+ 
+ 
+d = t = 8.70 µm 
+P37.38 
+Light waves are partially reflected and transmitted by the partially 
+aluminized glass surfaces on the front and back surfaces of the filter. 
+For maximum transmission, we want destructive interference between 
+the waves reflected from the front and back surfaces of the film: the 
+result of this interference is that most light of the Hα line is 
+transmitted through the filter. 
+ 
+(a) 
+If the surrounding glass has refractive index greater than 1.378, 
+light reflected from the front surface of the filter (glass-filter 
+interface) suffers no phase reversal and light reflected from the 
+back surface of the filter (filter-glass interface) does undergo 
+phase reversal. This effect by itself would produce destructive 
+interference, so we want the distance down and back to be one 
+whole wavelength in the film: 2t = λ
+n . 
+ 
+ 
+ 
+t = λ
+2n = 656.3 nm
+2 1.378
+(
+)
+= 238 nm 
+ 
+(b) The filter will undergo thermal expansion. As t increases in  
+2nt = λ, so does λ increase . 
+ 
+(c) 
+Destructive interference for reflected light happens when 
+2t = 2λ
+n
+: 
+ 
+ 
+ 
+λ = nt = 1.378 238 nm
+(
+) = 328 nm near ultraviolet
+(
+) 
+P37.39 
+Reflection off the lower glass plate causes a phase reversal. The 
+condition for bright fringes is 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+      m = 0,  1,  2,  3, …. 
+ 
+From ANS. FIG. P37.39, observe that 
+ 
+ 
+t = R 1−cosθ
+(
+) ≈R 1−1+ θ 2
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= R
+2
+r
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= r2
+2R
+ 
+ 
+The condition for a bright fringe becomes 
+ 
+ 
+ 
+r2
+R = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+ 
+ 
+Thus, for fixed m and λ, nr
+2 = constant.
+
+--- PAGE 24 ---
+Chapter 37     767 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Therefore,  
+ 
+ 
+nliquidrfi
+2 = nairr2   and   nliquid = 1.00
+(
+) 1.50 cm
+(
+)
+2
+1.31 cm
+(
+)
+2 = 1.31 
+ 
+ANS. FIG. P37.39 
+P37.40 
+(a) 
+The missing wavelength in reflected light is caused by destructive 
+interference. The index of the coating (1.38) is greater than that of 
+air (1.00), and the index of the glass (1.52) is greater than that of 
+the coating; therefore, light waves reflected off the front and back 
+surfaces of the coating undergo phase reversals. For destructive 
+interference, 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+      m = 0, 1, 2, 3, …    and    n = 1.38 
+ 
+ 
+For the minimum thickness, m = 0: 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+n
+→
+t = λ
+4n = 540 nm
+4 1.38
+(
+)
+= 97.8 nm 
+ 
+(b) 
+Yes. Destructive interference occurs when 2nt = (m+ 1
+2)λ
+(Eq. 37.17), where m is an integer. (There is a phase change
+at both faces of the film in Figure P37.40.) Hence, for m =
+1, 2, ... we obtain thicknesses of 293 nm, 489 nm, ... .
+ 
+P37.41 
+For total darkness, we want destructive interference for reflected light 
+for both 400 nm and 600 nm. With phase reversal at just one reflecting 
+surface (the bottom glass plate), the condition for destructive 
+interference is 
+ 
+ 
+2nairt = mλ      m = 0, 1, 2, … . 
+ 
+The least common multiple of these two wavelengths is 1 200 nm, so 
+we get no reflected light at 2(1.00)t = 3(400 nm) = 2(600 nm) = 1 200 
+nm, so t = 600 nm at this second dark fringe. 
+ 
+By similar triangles, 600 nm
+x
+= 0.050 0 mm
+10.0 cm
+
+--- PAGE 25 ---
+768     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+or the distance from the contact point is 
+ 
+ 
+x = 600 × 10−9 m
+(
+)
+0.100 m
+5.00 × 10−5 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.20 mm 
+ 
+ 
+ 
+Section 37.6 
+The Michelson Interferometer 
+P37.42 
+When the mirror on one arm is displaced by Δ, the path difference 
+changes by 2Δ. A shift resulting in the reversal between dark and 
+bright fringes requires a path length change of one-half wavelength. 
+Therefore, 2Δ= mλ
+2 , where in this case, m = 250. 
+Δ= m λ
+4 =
+250
+(
+) 6.328 × 10−7 m
+(
+)
+4
+= 39.6 µm 
+*P37.43 
+Counting light going both directions, the number of wavelengths 
+originally in the cylinder is m1 = 2L
+λ . It changes to m2 =
+2L
+λ ngas
+= 2ngasL
+λ
+ 
+as the cylinder is filled with gas. If N is the number of bright fringes 
+passing, N = m2 −m1 = 2L
+λ
+ngas −1
+(
+), or the index of refraction of the gas 
+is  
+ 
+ 
+ngas = 1+ Nλ
+2L = 1+ 160
+(
+) 600 × 10−9 m
+(
+)
+2 5.00 × 10−2 m
+(
+)
+= 1.001
+ 
+P37.44 
+Counting light going both directions, the number of wavelengths 
+originally in the cylinder is m1 = 2L
+λ . It changes to m2 = 2L
+λ n = 2nL
+λ as 
+the cylinder is filled with gas. If N is the number of bright fringes 
+passing, N = m2 −m1 = 2L
+λ
+n−1
+(
+), or the index of refraction of the gas is  
+ 
+ 
+n = 1+ Nλ
+2L
+
+--- PAGE 26 ---
+Chapter 37     769 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+Additional Problems 
+P37.45 
+The wavelength is  
+ 
+ 
+λ = c
+f = 3.00 × 108 m/s
+60.0 × 106 s−1 = 5.00 m 
+ 
+Along the line AB the two traveling waves going in opposite directions 
+add to give a standing wave. The two transmitters are exactly 2.00 
+wavelengths apart and the signal from B, when it arrives at A, will 
+always be in phase with transmitter B. Since B is 180° out of phase with 
+A, the two signals always interfere destructively at the position of A to 
+form a node. 
+ 
+The first antinode (point of constructive interference) is located at 
+distance 
+ 
+ 
+λ
+4 = 5.00 m
+4
+= 1.25 m from the node at A 
+*P37.46 
+From ANS. FIG. P37.46, we note that the  
+angle between the center line of the  
+speakers and the corners of the room is  
+ 
+ 
+ 
+ 
+θ = tan−1 1.5 m
+6.0 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 14.0°
+  
+ 
+In order for no other maxima to be  
+heard, the m = 1 maximum must be  
+more than 14.0° away from the central maximum. From Equation 37.2, 
+the condition for constructive interference is 
+ 
+ 
+ 
+dsinθbright = mλ  
+ 
+or  
+ 
+λ = dsinθbright
+m
+= v
+f 
+ 
+where v = 343 m/s is the speed of sound. Solving for f and substituting 
+m = 1 and θ = 14.0° then gives 
+ 
+ 
+ 
+f = v
+λ =
+mv
+dsinθbright
+=
+1( ) 343 m/s
+(
+)
+1.0 m
+(
+)sin14.0° = 1.4 × 102 Hz
+ 
+P37.47 
+The same source will radiate light into the sugar solution with 
+wavelength λn = λ
+n . In other words, the condition for bright fringes 
+becomes 
+ 
+ 
+dsinθ = mλn →dsinθ = m λ
+n
+ 
+ 
+ANS. FIG. P37.46
+
+--- PAGE 27 ---
+770     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Also, for small angles, as is the case here 
+ 
+ 
+sinθ ≈tanθ = y
+L
+ 
+ 
+The first side bright fringe (m = 1) is separated from the central bright 
+fringe by distance y described by 
+ 
+ 
+dsinθ = m λ
+n
+→
+d y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= λ
+n
+ 
+ 
+solving for y gives 
+ 
+ 
+y = λL
+nd = 560 × 10−9 m
+(
+) 1.20 m
+(
+)
+1.38
+(
+) 30.0 × 10−6 m
+(
+)
+= 1.62 × 10−2 m = 1.62 cm
+ 
+P37.48 
+(a) 
+Where fringes of the two colors coincide we have 
+ 
+ 
+ 
+dsinθ = mλ =
+′
+m
+′
+λ ,    requiring    λ
+′
+λ =
+′
+m
+m
+ 
+ 
+(b) λ = 430 nm, ′
+λ = 510 nm 
+ 
+ 
+ 
+∴
+′
+m
+m = 430 nm
+510 nm = 43
+51
+ 
+ 
+ 
+which cannot be reduced any further. Then m = 51, m′ = 43. Then, 
+ 
+ 
+ 
+θm = sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟= sin−1
+51
+(
+) 430 × 10−9 m
+(
+)
+0.025 × 10−3 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+= 61.3°
+ 
+ 
+ 
+and 
+ 
+ 
+ 
+ym = Ltanθm = 1.5 m
+(
+)tan61.3° = 2.74 m 
+P37.49 
+(a) 
+Refer to ANS. FIG. P37.49. By similar triangles, the distance x 
+between consecutive like interference fringes (bright-to-bright, or 
+dark-to-dark) is to the change in thickness Δt of the air gap as the 
+entire length of a plate  (14.0 cm) is to the diameter d of the fiber 
+(equal to the thickness of the air gap at the open end of the gap): 
+ 
+ 
+ 
+x
+Δt = 
+d
+ 
+ 
+ 
+where, say, between consecutive destructive interference fringes 
+ 
+ 
+ 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+→
+Δt = λ
+2
+
+--- PAGE 28 ---
+Chapter 37     771 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+Combing the two relations gives  
+ 
+ 
+ 
+x
+λ 2 = 
+d 
+ 
+and solving for the diameter d of the fiber then gives 
+ 
+ 
+ 
+d = λ
+2x = 14.0 × 10−2 m
+(
+) 650 × 10−9 m
+(
+)
+2 0.580 × 10−3 m
+(
+)
+= 7.84 × 10−5 m = 78.4 µm
+  
+ 
+ANS. FIG. P37.49 
+P37.50 
+Assume the distance between gaps is 2 cm. 
+ 
+(a) 
+Two adjacent directions of constructive interference for 600-nm 
+light are described by dsinθ = mλ, with θ0 = 0. Then, 
+ 
+ 
+ 
+dsinθ = mλ
+2 × 10−2 m
+(
+)sinθ1 = 1 600 × 10−9 m
+(
+)
+ 
+ 
+ 
+Thus,  
+θ1 = 2 × 10−3°, 
+ 
+ 
+and  
+θ1 −θ0 ~ 10−3° . 
+ 
+(b) We choose θ1 = 20°. Then, 
+ 
+ 
+ 
+2 × 10−2 m
+(
+)sin20° = 1( )λ 
+ 
+ 
+Which gives λ = 7 mm. The frequency is then 
+ 
+ 
+ 
+f = c
+λ = 3 × 108 m/s
+7 × 10−3 m
+~ 1011 Hz
+ 
+ 
+(c) 
+Millimeter waves are microwaves . 
+P37.51 
+Constructive interference occurs where the phases of the waves differ 
+by integral multiples m of 2π
+ : 
+ 
+ 
+2π x1
+650 −924πt + π
+6
+⎛
+⎝⎜
+⎞
+⎠⎟−2π x2
+650 −924πt + π
+8
+⎛
+⎝⎜
+⎞
+⎠⎟= 2π m
+
+--- PAGE 29 ---
+772     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+which becomes 
+ 
+ 
+2π x1 −x2
+(
+)
+650
++ π
+6 −π
+8
+⎛
+⎝⎜
+⎞
+⎠⎟= 2π m
+x1 −x2
+(
+)
+650
++ 1
+12 −1
+16 = m
+ 
+ 
+x1 −x2 = m −
+1
+48
+(
+)650, where x1 and x2 are in nanometers and
+m = 0, 1, −1, 2, −2, 3, −3,…
+ 
+P37.52 
+A bright line for the green light requires 
+ 
+ 
+dsinθ ≈dtanθ = m1λ1
+d y
+L = m1λ1
+ 
+ 
+Similarly, a blue interference maximum requires 
+ 
+ 
+d y
+L = m2λ2 
+ 
+for integers m1 and m2. Thus, 
+ 
+ 
+m1 540 nm
+(
+) = m2 450 nm
+(
+)
+m2
+m1
+= 540 nm
+450 nm = 6
+5
+ 
+ 
+and smallest integers satisfying the equation are m1 = 5 and m2 = 6. 
+ 
+Then for both, 
+ 
+ 
+d y
+L = 2 700 nm
+ 
+ 
+which gives 
+ 
+ 
+y = 2 700 nm
+(
+)L
+d = 2.7 µm
+(
+)
+1.4 m
+150 µm
+⎛
+⎝⎜
+⎞
+⎠⎟= 2.52 cm
+ 
+P37.53 
+If the center point on the screen is to be a dark spot rather than bright, 
+passage through the plastic must delay the light by one-half 
+wavelength. Calling the thickness of the plastic t, t
+λ + 1
+2 =
+t
+λ n = nt
+λ   or   
+t =
+λ
+2 n −1
+(
+) where n is the index of refraction for the plastic.
+
+--- PAGE 30 ---
+Chapter 37     773 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.54 
+There is no phase shift upon reflection from the upper surface (glass to 
+air) of the film, but there will be a shift of λ
+2
+ due to the reflection at the 
+lower surface of the film (air to metal). 
+ 
+The total phase difference in the two reflected beams is then 
+ 
+ 
+ 
+δ = 2nt + λ
+2
+ 
+ 
+For constructive interference, δ = mλ, or 
+ 
+ 
+ 
+2 1.00
+(
+)t + λ
+2 = mλ 
+ 
+Thus, the film thickness for the mth order bright fringe is 
+ 
+ 
+ 
+tm = m −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2 = m λ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−λ
+4
+ 
+ 
+and the thickness for the m – 1 bright fringe is: 
+ 
+ 
+ 
+tm−1 = m −1
+(
+) λ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−λ
+4
+ 
+ 
+Therefore, the change in thickness required to go from one bright 
+fringe to the next is 
+ 
+ 
+ 
+Δt = tm −tm−1 = λ
+2
+ 
+ 
+To go through 200 bright fringes, the change in thickness of the air film 
+must be 
+ 
+ 
+ 
+200 λ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 100λ 
+ 
+Thus, the increase in the length of the rod is 
+ 
+ 
+ 
+ΔL = 100λ = 100 5.00 × 10−7 m
+(
+) = 5.00 × 10−5 m 
+ 
+From 
+ΔL = Liα ΔT 
+ 
+we have: α = ΔL
+LiΔT =
+5.00 × 10−5 m
+0.100 m
+(
+) 25.0°C
+(
+)
+= 20.0 × 10–6°C–1 
+P37.55 
+Since 1 < 1.25 < 1.34, light reflected from top and bottom surfaces of 
+the oil undergoes phase reversal. The path difference is then 2t, thus 
+ 
+ 
+2t = mλn = mλ
+n
+
+--- PAGE 31 ---
+774     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+for maximum reflection, with m = 1 for the given first-order condition 
+and n = 1.25. So 
+ 
+ 
+t = mλ
+2n = 1 500 nm
+(
+)
+2 1.25
+(
+)
+= 200 nm 
+ 
+The volume we assume to be constant:    
+ 
+ 
+1.00 m
+3 = (200 nm)A 
+ 
+The area is then 
+ 
+ 
+A =
+1.00 m3
+200 × 10−9 m
+(
+)
+= 5.00 × 106 m2 = 5.00 km2 
+P37.56 
+The interfering waves travel either along the hypotenuses or the bases 
+of the right triangles. The total length of the two bases is 15.0 km. The 
+condition for destructive interference for minimum height h is 
+ 
+ 
+ 
+2
+15.0 × 103 m
+(
+)
+2 + h2 −2 15.0 × 103 m
+(
+) = λ 2 = 175 m
+2
+15.0 × 103 m
+(
+)
+2 + h2 = 30.175 × 103 m
+h = 1.62 × 103 m = 1.62 km
+ 
+ 
+ANS. FIG. P37.56 
+P37.57 
+We may treat this problem as a double slit experiment where the 
+second slit is the mirror image of the source, 1.00 cm below the mirror 
+plane; however, we must remember that the light undergoes a  
+π
+2
+ phase shift at the mirror, so light and dark fringes are interchanged 
+in the interference pattern. Thus, for destructive interference, the path 
+length must differ by mλ. For dark for the first dark fringe (modifying 
+Equation 37.7), we have 
+ 
+ 
+ 
+ydark = mλL
+d
+=
+1 5.00 × 10−7 m
+(
+) 100 m
+(
+)
+2.00 × 10−2 m
+(
+)
+= 2.50 mm 
+P37.58  
+From Equation 37.14, for wavelength λ1 = 600 nm , 
+ 
+ 
+I
+Imax
+= cos2 π yd
+λ1 L
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.810
+π yd
+L
+= λ1 cos−1
+I1
+Imax
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+= 600 nm
+(
+)cos−1 0.810
+(
+)
+1 2 = 271 nm
+
+--- PAGE 32 ---
+Chapter 37     775 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+For the same y, d, and L, let λ2 be the wavelength for which 
+ 
+ 
+I2
+I2,max
+= 0.640 
+ 
+Then, 
+ 
+ 
+λ2 =
+π yd L
+cos−1 I2 I2,max
+(
+)
+1 2 =
+271 nm
+cos−1 0.640
+(
+)
+1 2 = 421 nm 
+ 
+Note that in this problem, cos−1
+I
+Imax
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+ must be expressed in radians. 
+P37.59 
+As with any air gap between glass plates, light reflecting off the lower 
+plate undergoes a phase reversal. Thus, for the mth-dark fringe after 
+the first fringe (m = 0), with the gap filled with air: 
+ 
+ 
+ 
+2nt = mλ 
+ 
+where n = 1.00 and m = 1, 2, …, 84. So, at the widest edge of the wedge, 
+ 
+ 
+ 
+t = 84λ
+2
+= 42λ 
+ 
+When submerged in water, 
+ 
+ 
+ 
+2nt = mλ
+m = 2nt
+λ = 2 1.33
+(
+) 42
+(
+)λ
+[
+]
+λ
+= 111.7 = 111
+ 
+ 
+So, counting the first fringe (m = 0), the total number of fringes is 
+m + 1 = 112 dark fringes 
+P37.60 
+Refer to Figure P37.60. Call t the thickness of the sheet. With the sheet in 
+place, the central maximum corresponds to zero phase difference. Thus, 
+the added distance δ  traveled by the light from the lower slit introduces 
+a phase difference equal to that introduced by the plastic film sheet. Call 
+the original length of the path from the upper slit to the screen D; then, 
+the original number of wavelengths along distance D are 
+ 
+ 
+N0 = D
+λa
+ 
+ 
+where λa is the wavelength in air. With the plastic sheet in the path, 
+the number of wavelengths changes to 
+ 
+ 
+N = D −t
+λa
++ t
+λp
+= D −t
+λa
++
+t
+λa n = D −t + nt
+λa
+= D + n −1
+(
+)t
+λa
+
+--- PAGE 33 ---
+776     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+where λa is the wavelength in plastic. The phase difference introduced 
+by the plastic sheet is 
+ 
+ 
+δφ = 2π N −N0
+(
+) = 2π D + n −1
+(
+)t
+λa
+−D
+λa
+⎡
+⎣⎢
+⎤
+⎦⎥= 2π n −1
+(
+)t
+λa
+ 
+ 
+The corresponding difference in path length δ is 
+ 
+ 
+δ = δφ
+λa
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟= 2π n −1
+(
+)t
+λa
+⎡
+⎣⎢
+⎤
+⎦⎥
+λa
+2π
+⎛
+⎝⎜
+⎞
+⎠⎟= t n −1
+(
+) 
+ 
+Note that the wavelength of the light does not appear in this equation. 
+In the figure, the two rays from the slits are essentially parallel. 
+ 
+Thus the angle θ may be expressed as 
+ 
+ 
+sinθ = δ
+d = n −1
+(
+)t
+d
+→
+θ = sin−1
+n −1
+(
+)t
+d
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+The height y of the central maximum is given by 
+ 
+ 
+′y
+L = tanθ
+ 
+ 
+from which we obtain 
+ 
+ 
+y = Ltan sin−1
+n − 1
+(
+)t
+d
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+=
+n − 1
+(
+)Lt
+d2 −  n − 1
+(
+)
+2 t2
+ 
+P37.61 
+From Figure P37.61, observe that the distance that the ray travels from 
+the top of the transmitter to the ground is 
+ 
+ 
+x =
+h2 +
+d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+35.0 m
+(
+)
+2 +
+50.0 m
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+1850 m2 = 43.0 m
+ 
+ 
+Including the phase reversal due to reflection from the ground, the 
+total shift between the two waves (transmitter-to-ground-to-receiver 
+and transmitter-to-receiver) is 
+ 
+ 
+δ = 2x + λ
+2 −d 
+ 
+For constructive interference, 
+ 
+ 
+2x + λ
+2 −d = mλ →λ = 2x −d
+m −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+
+--- PAGE 34 ---
+Chapter 37     777 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and for destructive interference 
+ 
+ 
+2x + λ
+2 −d = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ →λ = 2x −d
+m
+ 
+ 
+(a) 
+The longest wavelength that interferes constructively is, for m = 1, 
+ 
+ 
+ 
+λ = 2x −d
+1−1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 14x −2d = 4 1850 m2 −2 50.0 m
+(
+) = 72.0 m 
+ 
+(b) The longest wavelength that interferes destructively is, for m = 1, 
+ 
+ 
+ 
+λ = 2x −d
+1
+= 2 1850 m2 −50.0 m = 36.0 m 
+P37.62 
+From Figure P37.57, observe that the distance that the ray travels from 
+the top of the transmitter to the ground is 
+ 
+ 
+x =
+h2 +
+d
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+=
+4h2 + d2
+2
+ 
+ 
+Including the phase reversal due to reflection from the ground, the 
+total shift between the two waves (transmitter-to-ground-to-receiver 
+and transmitter-to-receiver) is 
+ 
+ 
+δ = 2x + λ
+2 −d 
+ 
+For constructive interference, 
+ 
+ 
+2x + λ
+2 −d = mλ →λ = 2x −d
+m −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+ 
+and for destructive interference 
+ 
+ 
+2x + λ
+2 −d = m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ →λ = 2x −d
+m
+ 
+ 
+(a) 
+The longest wavelength that interferes constructively is, for m = 1, 
+ 
+ 
+ 
+λ = 2x −d
+1−1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+= 4x −2d = 4 4h2 + d2
+2
+−2d = 2 4h2 + d2 −2d 
+ 
+(b) The longest wavelength that interferes destructively is, for m = 1, 
+ 
+ 
+ 
+λ = 2x −d
+1
+=
+4h2 + d2 −d
+
+--- PAGE 35 ---
+778     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.63 
+(a) 
+There is a phase reversal by reflection at the flat plate. 
+Constructive interference in the reflected light requires 
+2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ .  
+ 
+ 
+The first bright ring has m = 0 and the 55th has m = 54, so at the 
+edge of the lens 
+ 
+ 
+ 
+t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+λ
+2 = 54.5
+(
+)650 × 10−9 m
+2
+= 17.7 µm 
+ 
+ 
+Now from the geometry in textbook Figure P37.59, we can find 
+the distance t from the curved surface down to the flat plate by 
+considering distances measured from the center of curvature: 
+ 
+ 
+ 
+R2 −r2 = R −t
+or
+R2 −r2 = R2 −2Rt + t2 
+ 
+ 
+Solving for R gives 
+ 
+ 
+ 
+R = r2 + t2
+2t
+= 5.00 × 10−2 m
+(
+)
+2 + 1.77 × 10−5 m
+(
+)
+2
+2 1.77 × 10−5 m
+(
+)
+= 70.6 m
+ 
+ 
+(b) 
+1
+f = n −1
+(
+)
+1
+R2
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= 0.520
+1
+∞−
+1
+−70.6 m
+⎛
+⎝⎜
+⎞
+⎠⎟   so   f = 136 m 
+P37.64 
+Reflection off the top surface of the wedge produced a phase reversal, 
+but light reflecting off the bottom surface produces no phase change. 
+Thus, a first dark fringe occurs at the thin end of the wedge. For bright 
+fringes in the thin film, the thickness is given by Equation 37.17: 
+ 
+ 
+t = 
+m+ 1
+2
+⎛
+⎝
+⎞
+⎠λ
+2n
+ 
+ 
+The first fringe corresponds to m = 0, the second to m = 1, etc.; so the 
+Nth fringe corresponds to N = m + 1. 
+ 
+To find how many fringes are present, we solve for m by setting t = h: 
+ 
+ 
+m+ 1
+2 = 2nt
+λ = 2nh
+λ
+= 2 1.50
+(
+) 1.00 × 10−3 m
+(
+)
+632.8 × 10−9 m
+(
+)
+= 4 740
+∴m = 4 740
+ 
+ 
+So, the number of fringes is N = m + 1 = 4 741. This number is less than 
+5000.
+
+--- PAGE 36 ---
+Chapter 37     779 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.65 
+Light reflecting from the upper interface of the air layer suffers no 
+phase change, while light reflecting from the lower interface is 
+reversed 180°. Then there is indeed a dark fringe at the outer 
+circumference of the lens, and a dark fringe wherever the air thickness 
+t satisfies 
+ 
+ 
+2t = mλ,      m = 0, 1, 2, …. 
+ 
+ANS. FIG. P37.65 
+ 
+(a) 
+At the central dark spot, m = 50 and 
+ 
+ 
+ 
+t0 = 50λ
+2
+= 25 589 × 10−9 m
+(
+) = 1.47 × 10−5 m = 14.7 µm
+ 
+ 
+(b) In the right triangle, 
+ 
+ 
+ 
+R2 = r2 + R −t0
+(
+)
+2
+8.00 m
+(
+)
+2 = r2 + 8.00 m −1.47 × 10−5 m
+(
+)
+2
+8.00 m
+(
+)
+2 = r2 + 8.00 m
+(
+)
+2
+                         −2 8.00 m
+(
+) 1.47 × 10−5 m
+(
+)+ 2.16 × 10−10 m2
+r2 = 2 8.00 m
+(
+) 1.47 × 10−5 m
+(
+)−2.16 × 10−10 m2
+ 
+ 
+ 
+The last term is negligible. Then, 
+ 
+ 
+ 
+r =
+2 8 m
+(
+) 1.47 × 10−5 m
+(
+) = 1.53 × 10−2 m = 1.53 cm 
+ 
+(c) 
+1
+f = n −1
+(
+)
+1
+R1
+−1
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1.50 −1
+(
+)
+1
+∞−
+1
+8.00 m
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+ 
+f = −16.0 m
+
+--- PAGE 37 ---
+780     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.66 
+The shift between the waves reflecting from 
+the top and bottom surfaces of the film at 
+the point where the film has thickness t is 
+δ = 2tnfilm + λ
+2 , with the factor of λ
+2
+ being 
+due to a phase reversal at one of the 
+surfaces. 
+ 
+For the dark rings (destructive interference), 
+the total shift should be δ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ with  
+m = 0, 1, 2, 3, … . This requires that 
+t = mλ
+2nfilm
+. To find t in terms of r and R, 
+ 
+ 
+R2 = r2 + R −t
+(
+)
+2 →r2 = 2Rt + t2 
+ 
+Since t is much smaller than R, t
+2 << 2Rt, therefore 
+ 
+ 
+r2 ≈2Rt = 2R
+mλ
+2nfilm
+⎛
+⎝⎜
+⎞
+⎠⎟ 
+ 
+Thus, r ≈
+mλR
+nfilm
+ where m is an integer. 
+P37.67 
+Refer to the solution of P37.57. We may treat this as a double-slit 
+interference problem, where d = 2h, but with maxima and minima 
+interchanged because of phase reversal caused by the reflection off the 
+mirror: 
+ 
+ 
+dsinθ = 2hsinθ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ     bright fringe 
+ 
+and sinθ ≈tanθ = y
+L for small angles; hence, 
+ 
+ 
+2hsinθ = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+2h y
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+ 
+ 
+The spacing between consecutive fringes corresponding to m and m + 1 
+is 
+ 
+ 
+2h Δy
+L
+⎛
+⎝⎜
+⎞
+⎠⎟= λ 
+ 
+ANS. FIG. P37.66
+
+--- PAGE 38 ---
+Chapter 37     781 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+so 
+ 
+ 
+h = Lλ
+2Δy = 2.00 m
+(
+) 606 × 10−9 m
+(
+)
+2 1.20 × 10−3 m
+(
+)
+= 5.05 × 10−4 m = 0.505 mm
+ 
+P37.68 
+(a) 
+For a linear function taking the value n = 1.90 at y = 0 and n = 1.33 
+at y = 20.0 cm, we write 
+ 
+ 
+ 
+n(y) = 1.90 + (1.33 − 1.90)y/(20.0 cm) 
+ 
+ 
+or 
+n(y) = 1.90 −0.0285 y/cm 
+ 
+(b) The optical path length is 
+ 
+ 
+ 
+n(y)dy
+0
+20.0 cm
+∫
+=
+[1.90 −0.0285y cm]dy
+0
+20.0 cm
+∫
+= 1.90y−0.0285y2
+2
+0
+20.0 cm
+= 38.0 cm −5.7 cm = 32.3 cm
+ 
+  
+(c) 
+A wavefront slows down as it travels deeper into the mixture to 
+regions of greater index of refraction. The lower part of the 
+wavefront travels more slowly than the upper part; the result is 
+that the wavefront bends, becoming more horizontal. The path is 
+similar to that of a beam crossing the boundary between a 
+medium of lesser to a medium of greater index of refraction, as, 
+for example, from air into water: the beam tends to bend toward 
+the normal. The difference is that the change in direction is 
+gradual rather than sudden. The beam will continuously curve 
+downward. 
+P37.69 
+One radio wave reaches the receiver R directly from the distant source 
+at an angle θ above the horizontal. The other wave undergoes phase 
+reversal as it reflects from the water at P. The distance from P to R is 
+the same as from P to R′, where R′ is the mirror image of the telescope. 
+Therefore, the path difference is d. 
+ 
+ANS. FIG. P37.69
+
+--- PAGE 39 ---
+782     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Constructive interference first occurs for a path difference of 
+ 
+ 
+d = λ
+2 
+ 
+[1] 
+ 
+The angles θ in the figure are equal because they each form part of a 
+right triangle with a shared angle at R′. 
+ 
+So the path difference is 
+ 
+ 
+d = 2 20.0 m
+(
+)sinθ = 40.0 m
+(
+)sinθ 
+ 
+The wavelength is
+ 
+λ = c
+f = 3.00 × 108 m/s
+60.0 × 106 Hz = 5.00 m 
+ 
+Substituting for d and λ in equation [1], 
+ 
+ 
+ 
+40.0 m
+(
+)sinθ = 5.00 m
+2
+ 
+ 
+Solving for the angle θ, 
+ 
+ 
+ 
+θ = sin−1 5.00 m
+80.0 m
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.58°
+ 
+P37.70 
+One phase reversal occurs by reflection off the front of the soap film. 
+ 
+(a) 
+Bright bands are observed when 2nt = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ . 
+ 
+ 
+Hence, the first bright band (m = 0) corresponds to nt = λ
+4 . 
+ 
+ 
+By similar triangles, the distance x from the top where a fringe 
+occurs is proportional to the thickness t of the film: 
+ 
+ 
+ 
+x1
+x2
+= t1
+t2
+ 
+ 
+ 
+Thus, we have 
+ 
+ 
+ 
+x2 = x1
+t2
+t1
+⎛
+⎝⎜
+⎞
+⎠⎟= x1
+λ2
+λ1
+⎛
+⎝⎜
+⎞
+⎠⎟= 3.00 cm
+(
+) 680 nm
+420 nm
+⎛
+⎝⎜
+⎞
+⎠⎟= 4.86 cm 
+ 
+(b) 
+t1 = λ1
+4n = 420 nm
+4 1.33
+(
+)
+= 78.9 nm 
+ 
+ 
+t2 = λ2
+4n = 680 nm
+4 1.33
+(
+)
+= 128 nm
+
+--- PAGE 40 ---
+Chapter 37     783 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+(c) 
+θ ≈tanθ = t1
+x1
+= 78.9 nm
+3.00 cm = 2.63 × 10−6 rad 
+ 
+ 
+ 
+Challenge Problems 
+P37.71 
+Refer to ANS. FIG. P37.71 for the geometry of the situation. At the air-
+film interface, Snell’s law gives 
+ 
+ 
+1.00sin30.0° = 1.38sinθ2
+→
+θ2 = 21.2° 
+ 
+ANS. FIG. P37.71 
+ 
+Call t the unknown thickness of the film. Then, 
+ 
+ 
+cos21.2° = t
+a
+→
+a =
+t
+cos21.2°
+tan21.2° = c
+t
+→
+c = ttan21.2°
+sinθ1 = b
+2c
+→
+b = 2t tan21.2°
+(
+) sin30.0°
+(
+)
+ 
+ 
+The net shift for the second ray, including the phase reversal on 
+reflection of the first, is 
+ 
+ 
+2an −b −λ
+2
+ 
+ 
+where the factor n accounts for the shorter wavelength in the film. For 
+constructive interference, we require 
+ 
+ 
+2an−b −λ
+2 = mλ
+ 
+ 
+The minimum thickness will occur when m = 0 and will be given by      
+ 
+ 
+2an −b −λ
+2 = 0 
+ 
+Then, 
+ 
+ 
+λ
+2 = 2an −b = 2
+nt
+cos21.2° −2t tan21.2°
+(
+) sin30.0°
+(
+)
+
+--- PAGE 41 ---
+784     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+and 
+590 nm
+2
+=
+2 1.38
+(
+)
+cos21.2° −2 tan21.2°
+(
+) sin30.0°
+(
+)
+⎡
+⎣⎢
+⎤
+⎦⎥t = 2.57t 
+ 
+which gives t = 115 nm . 
+P37.72 
+The shift between the two reflected waves is δ = 2na −b −λ
+2 , where a 
+and b are as shown in the ray diagram in ANS. FIG. P37.72, n is the 
+index of refraction, and the term λ
+2
+ is due to phase reversal at the top 
+surface. For constructive interference, δ = mλ, where m has integer 
+values. This condition becomes 
+ 
+ 
+ 
+2na −b = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ 
+[1] 
+ 
+ANS. FIG. P37.72 
+ 
+From the figure’s geometry, 
+ 
+ 
+ 
+a =
+t
+cosθ2
+c = asinθ2 = tsinθ2
+cosθ2
+b = 2csinθ1 = 2tsinθ2
+cosθ2
+sinθ1
+ 
+ 
+Also, from Snell’s law, sinθ1 = nsinθ2. 
+ 
+Thus,  
+b = 2ntsin2θ2
+cosθ2
+. 
+ 
+With these results, the condition for constructive interference given in 
+equation [1] becomes: 
+ 
+ 
+ 
+2n
+t
+cosθ2
+⎛
+⎝⎜
+⎞
+⎠⎟−2ntsin2θ2
+cosθ2
+= m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+2nt
+cosθ2
+1−sin2θ2
+(
+) = m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ
+
+--- PAGE 42 ---
+Chapter 37     785 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ 
+ 
+2nt 1−sin2θ2
+(
+)
+1−sin2θ2
+= m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ 
+ 
+or 
+ 
+2nt 1−sin2θ2 = m+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ 
+ 
+Using sinθ1 = nsinθ2
+→
+sinθ2 = sinθ1 n, we have finally 
+ 
+ 
+ 
+2nt 1 − sin2 θ1
+n2
+ =  m +  1
+2
+(
+)λ, where m = 0, 1, 2,… 
+P37.73 
+(a) 
+Minimum:  2nt = mλ2 
+for m = 0, 1, 2, … 
+ 
+ 
+Maximum:  2nt =
+′
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ1  for m′ = 0, 1, 2, … 
+ 
+ 
+Note that m and m′ are distinct integer values, and must be 
+consecutive because no intensity minima are observed between 
+λ1 and λ2. 
+ 
+ 
+Also, λ1 > λ2 →
+′
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟< m, so    m′ = m – 1. 
+ 
+ 
+Thus, we have 
+ 
+ 
+ 
+2nt = mλ2 =
+′
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ1 =
+m −1
+(
+) + 1
+2
+⎡
+⎣⎢
+⎤
+⎦⎥λ1
+mλ2 = m −1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ1
+2mλ2 = 2mλ1 −λ1
+ 
+ 
+ 
+so 
+m =
+λ1
+2 λ1 −λ2
+(
+)
+. 
+ 
+(b) 
+m =
+500nm
+2 500nm −370nm
+(
+)
+= 1.92 →2 (wavelengths measured to 
+±5 nm ) 
+ 
+ 
+Minimum: 2nt = mλ2 
+ 
+ 
+ 
+2(1.40)t = 2(370 nm)      t = 264 nm 
+ 
+ 
+Maximum: 2nt =
+′
+m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ = m −1+ 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ = 1.5λ 
+ 
+ 
+ 
+2(1.40)t = 1.5(500 nm)   →     t = 268 nm 
+ 
+ 
+Film thickness = 266 nm
+
+--- PAGE 43 ---
+786     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.74 
+The amplitude of the light from slit 1 is three times that from slit 2; 
+therefore, the magnitude of the light arriving at the screen at some 
+point P is 
+ 
+ 
+EP = E1 + E2 = 3E0 sin ωt
+(
+)+ E0 sin ωt +φ
+(
+)
+= E0 3sinωt + sin ωt +φ
+(
+)
+⎡⎣
+⎤⎦
+EP
+E0
+= 3sin ωt
+(
+)+ sin ωt +φ
+(
+)
+= 3sin ωt
+(
+)+ sin ωt
+(
+)cos φ( )+ cos ωt
+(
+)sin φ( )
+⎡⎣
+⎤⎦
+= sin ωt
+(
+) 3 + cos φ( )
+⎡⎣
+⎤⎦+ cos ωt
+(
+)sin φ( )
+ 
+ 
+The square of this expression is 
+ 
+ 
+EP
+E0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= sin2 ωt
+(
+) 3 + cos φ( )
+⎡⎣
+⎤⎦
+2
+                                + 2sin ωt
+(
+)cos ωt
+(
+) 3 + cos φ( )
+⎡⎣
+⎤⎦sin φ( )
+                                + cos2 ωt
+(
+)sin2 φ( )
+EP
+E0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= sin2 ωt
+(
+) 3 + cos φ( )
+⎡⎣
+⎤⎦
+2 + sin 2ωt
+(
+) 3 + cos φ( )
+⎡⎣
+⎤⎦sin φ( )
+                                + cos2 ωt
+(
+)sin2 φ( )
+ 
+ 
+and the time average of this expression is 
+ 
+ 
+EP
+E0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2 3 + cos φ( )
+⎡⎣
+⎤⎦
+2 + 1
+2 sin2 φ( )
+= 1
+2 9 + 6cos φ( ) + cos2 φ( ) + sin2 φ( )
+⎡⎣
+⎤⎦= 1
+2 10 + 6cos φ( )
+⎡⎣
+⎤⎦
+ 
+ 
+because the time average of sin2 ωt
+(
+) and cos2 ωt
+(
+) is 1
+2
+, and the time 
+average of sin 2ωt
+(
+) is zero. Using the identity  
+ 
+ 
+cos φ( ) = cos φ
+2 + φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟= 2cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+  
+ 
+we have 
+ 
+ 
+EP
+E0
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+= 1
+2 10 + 6cos φ( )
+⎡⎣
+⎤⎦= 1
+2 10 + 6 2cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟−1
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+= 1
+2 4 + 12cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥= 2 1+ 3cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+
+--- PAGE 44 ---
+Chapter 37     787 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+Intensity is proportional to the time average of the square of the 
+amplitude, so 
+ 
+ 
+I ∝EP
+2 = 2E0
+2 1+ 3cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+ 
+At the central maximum, φ = 0, so the maximum intensity is 
+ 
+ 
+Imax ∝2E0
+2 1+ 3cos2 0( )
+⎡⎣
+⎤⎦= 2E0
+2 4
+( ) = 8E0
+2 
+ 
+Thus, we have 
+ 
+ 
+I
+Imax
+=
+2E0
+2 1+ 3cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+8E0
+2
+= 1
+4 1+ 3cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+I = Imax
+4
+1+ 3cos2 φ
+2
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+ 
+P37.75 
+Represent the light radiated from each slit to 
+point P as a phasor. The two have very nearly 
+equal amplitudes E. Since intensity is 
+proportional to amplitude squared, we are told 
+they add to amplitude 
+3E. As shown in the 
+figure, the triangle representing the sum of 
+phasors may be divided into two right triangles 
+whose common side that bisects the line of length 
+3E. From either 
+triangle, we see that 
+ 
+ 
+cosθ =
+3 E 2
+E
+→
+θ = 30° 
+ 
+Next, the obtuse angle between the two phasors is 180 – 30 – 30 = 120°, 
+and so φ = 180 −120° = 60°. 
+ 
+The phase difference between the two phasors is caused by the path 
+difference from S to the slits, δ = SS2 −SS1, according to δ
+λ =
+φ
+360° , 
+δ = λ 60°
+360° = λ
+6 . Then 
+ 
+ 
+δ =
+L2 + d2 −L = λ
+6
+L2 + d2 = L2 + 2Lλ
+6
++ λ2
+36 →d2 = 2Lλ
+6
++ λ2
+36
+ 
+ 
+ANS. FIG. P37.75
+
+--- PAGE 45 ---
+788     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+The last term is negligible, so 
+ 
+ 
+d =
+2Lλ
+6
+⎛
+⎝⎜
+⎞
+⎠⎟
+1 2
+=
+2 1.2 m
+(
+) 620 × 10−9 m
+(
+)
+6
+= 0.498 mm 
+P37.76 
+For bright rings the gap t between surfaces is given by 2t = m + 1
+2
+⎛
+⎝⎜
+⎞
+⎠⎟λ . 
+The first bright ring has m = 0 and the hundredth has m = 99. 
+ 
+ANS. FIG. P37.76 
+ 
+So, 
+t = 1
+2 99.5
+(
+) 500 × 10−9 m
+(
+) = 24.9 µm 
+ 
+Call rb the ring radius. From the geometry shown in ANS. FIG. P37.76, 
+ 
+ 
+t = r −
+r2 −rb
+2
+(
+) −R −
+R2 −rb
+2
+(
+)
+= r −r 1−
+rb
+r
+⎛
+⎝⎜
+⎞
+⎠⎟
+2
+−R + R 1−
+rb
+R
+⎛
+⎝⎜
+⎞
+⎠⎟
+2 
+ 
+Since rb << r, we can expand in binomial series: 
+ 
+ 
+t = r −r 1−1
+2
+rb
+2
+r2
+⎛
+⎝⎜
+⎞
+⎠⎟−R + R 1−1
+2
+rb
+2
+R2
+⎛
+⎝⎜
+⎞
+⎠⎟= 1
+2
+rb
+2
+r −1
+2
+rb
+2
+R
+rb =
+2t
+1 r −1 R
+⎡
+⎣
+⎢
+⎤
+⎦
+⎥
+1 2
+=
+2 24.9 × 10−6 m
+(
+)
+1 4.00 m −1 12.0 m
+⎡
+⎣
+⎢
+⎢
+⎤
+⎦
+⎥
+⎥
+1 2
+= 1.73 cm
+
+--- PAGE 46 ---
+Chapter 37     789 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+ 
+ANSWERS TO EVEN-NUMBERED PROBLEMS 
+ 
+P37.2 
+3.53 mm 
+P37.4 
+515 nm 
+P37.6 
+The sine of the angle for m = 1 fringe is greater than 1, which is 
+impossible. 
+P37.8 
+(a) 1.77 µm; (b) 1.47 µm 
+P37.10 
+36.2 cm 
+P37.12 
+(a) 34.9°; (b) 5.25 cm; (c) 5.24 × 10
+14 Hz 
+P37.14 
+11.3 m 
+P37.16 
+vtan sin−1 mλ
+d
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥ 
+P37.18 
+(a) 13.2 rad; (b) 6.28 rad; (c) 1.27 × 10
+–2 deg; (d) 5.97 × 10
+–2 deg 
+P37.20 
+(a) 22.6 cm; (b) 2.51 × 10
+–3; (c) 6.03 × 10
+–7 m; (d) 7.21°; (e) 2.28 cm; (f) The 
+two answers are close but do not agree exactly. The fringes are not laid 
+out linearly on the screen as assumed in part (a), and this nonlinearity 
+is evident for relatively large angles such as 7.21°. 
+P37.22 
+(a) 10 m; (b) 500 m; (c) See P37.22(c) for full explanation. 
+P37.24 
+ER = 10.0 and φ = 53.1° 
+P37.26 
+(a) I = Imax
+9
+1+ 2cos 2π dsinθ
+λ
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎡
+⎣⎢
+⎤
+⎦⎥
+2
+; (b) See P37.24(b) for full 
+explanation; (c) 9:1 
+P37.28 
+See ANS. FIG. P37.28. 
+P37.30 
+(a) 638 nm; (b) A thicker film would require a higher order of 
+reflection, so use a larger value of m; (c) 360 nm, 600 nm 
+P37.32 
+96.2 nm 
+P37.34 
+(a) 276 nm, 138 nm, 92.0 nm; (b) No visible wavelengths are intensified. 
+P37.36 
+(a) green; (b) violet 
+P37.38 
+(a) 238 nm; (b) λ increase; (c) 328 nm 
+P37.40 
+(a) 97.8 nm; (b) Yes. Destructive interference occurs when 
+2nt = (m+ 1
+2)λ (Eq. 37.17), where m is an integer. (There is a phase 
+change at both faces of the film in Figure P37.40.) Hence, for m = 1, 2,… 
+we obtain thicknesses of 293 nm, 489 nm, . . .
+
+--- PAGE 47 ---
+790     Wave Optics 
+ 
+© 2014 Cengage Learning. All Rights Reserved. May not be scanned, copied or duplicated, or posted to a publicly accessible website, in whole or in part. 
+P37.42 
+39.6 µm 
+P37.44 
+1+ Nλ
+2L 
+P37.46 
+1.4 × 10
+2  Hz 
+P37.48 
+(a) See P37.48(a) for full explanation; (b) 2.74 m 
+P37.50 
+(a) ~10
+–3 degree; (b) ~10
+11 Hz; (c) microwaves 
+P37.52 
+2.52 cm 
+P37.54 
+20.0 × 10
+–6 °C
+–1 
+P37.56 
+1.62 km 
+P37.58 
+421 nm 
+P37.60 
+y = Ltan sin−1
+n − 1
+(
+)t
+d
+⎡
+⎣⎢
+⎤
+⎦⎥
+⎧
+⎨
+⎩
+⎫
+⎬
+⎭
+=
+n − 1
+(
+)Lt
+d2 −  n − 1
+(
+)
+2 t2 
+P37.62 
+(a) 2 4h2 + d2 −2d; (b) 
+4h2 + d2 −d 
+P37.64 
+The number of fringes is N = m + 1 = 474 1. This number is less than  
+5 000. 
+P37.66 
+r ≈
+mλR
+nfilm
+ 
+P37.68 
+(a) n(y) = 1.90 – 0.0285 y/cm; (b) 32.3 cm; (c) The beam will 
+continuously curve downward. 
+P37.70 
+(a) 4.86 cm; (b) 78.9 nm, 128 nm; (c) 2.63 × 10
+–6 rad 
+P37.72 
+2nt 1 − sin2 θ1
+n2
+ =  m +  1
+2
+(
+)λ, where m = 0, 1, 2, … 
+P37.74 
+See P37.74 for full explanation. 
+P37.76 
+1.73 cm
